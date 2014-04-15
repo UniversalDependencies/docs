@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Embedded SD Visualisation test</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
+    <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+      <div id="content">
+
+<noscript>
+  <div id="noscript">
+    It appears that you have Javascript disabled.
+    Please consider enabling Javascript for this page to try out the demo.
+  </div>
+</noscript>
+
+<p>This example illustrates automatic parse visualization and dynamic
+editing using the Stanford dependency format.</p>
+
+<div id="simple-example" class="sd-parse">
+Dogs run
+nsubj(run, Dogs)
+</div>
+
+<p>View source to see the raw HTML that is rendered into the
+visualization.  (Any element with the "sd-parse" class is
+converted.)</p>
+
+<p>Click on the tab on the top right to edit the visualization. (Note
+that edits are not saved -- there's no server.)</p>
+
+<div class="sd-parse">
+You can have any number of these .
+nsubj(have-3, You-1)
+aux(have-3, can-2)
+det(number-5, any-4)
+dobj(have-3, number-5)
+prep(number-5, of-6)
+pobj(of-6, these-7)
+</div>
+
+<p>You can have any number of visualizations on a page, and any
+standard HTML content can be freely mixed with the visualizations.</p>
+
+<p>POS tags are optional and use the format "text/POS".</p>
+
+<div class="sd-parse">
+POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
+dep(tags-2, POS-1)
+nsubjpass(attached-5, tags-2)
+aux(attached-5, can-3)
+auxpass(attached-5, be-4)
+prep(attached-5, to-6)
+det(text-14, the-12)
+nn(text-14, sentence-13)
+pobj(to-6, text-14)
+det(part, any)
+prep(part, of)
+</div>
+
+<p>Any literal slashes ("/") can be escaped using backslash.</p>
+
+<div class="sd-parse">
+\\/\\ escapes/VBZ :/: \\o\//\\o\/
+nsubj(escapes, \)
+</div>
+
+<p>Everything is unicode-compliant:</p>
+
+<div class="sd-parse">
+ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
+nsubj(入れる, ロボットは)
+nommod(入れる, 東大に)
+</div>
+
+<p>Basic support for linking and reference-based numbering is included:
+  see <a href="#simple-example" class="embed-ref">Example #</a>
+</p>
+
+<style type="text/css">
+/* embedding-specific styles (TODO: move to .css) */
+.sd-parse {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+.embedded-brat-data {
+  display: block;
+  width: 100%;
+  height: 100px;
+  font-size: 11px;
+  border: 2px inset
+}
+.show-hide-div {
+  text-align: right;
+}
+.show-hide-toggle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  -moz-border-bottom-left-radius: 0px;
+  -moz-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.show-hide-toggle .ui-button-text {
+  padding: 1px 4px;
+  font-size: 9px;
+}
+/* override a few style-vis.css settings for the embedded version to 
+   make things larger */
+text { font-size: 15px; }
+.span text { font-size: 10px; }
+.arcs text { font-size: 9px; }
+</style>
+
+<script type="text/javascript">
+    var bratLocation = 'http://weaver.nlplab.org/~brat/demo/v1.3';
+    head.js(
+        // External libraries
+        bratLocation + '/client/lib/jquery.min.js',
+        bratLocation + '/client/lib/jquery.svg.min.js',
+        bratLocation + '/client/lib/jquery.svgdom.min.js',
+	bratLocation + '/client/lib/jquery-ui.min.js',
+
+        // brat helper modules
+        bratLocation + '/client/src/configuration.js',
+        bratLocation + '/client/src/util.js',
+        bratLocation + '/client/src/annotation_log.js',
+        bratLocation + '/client/lib/webfont.js',
+        // brat modules
+        bratLocation + '/client/src/dispatcher.js',
+        bratLocation + '/client/src/url_monitor.js',
+        bratLocation + '/client/src/visualizer.js'
+    );
+
+    var webFontURLs = [
+        bratLocation + '/static/fonts/Astloch-Bold.ttf',
+        bratLocation + '/static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        bratLocation + '/static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var collData = {
+	'entity_types': [
+// this is optional
+        {
+            'type': 'SPAN_DEFAULT',
+            'labels': [ 'token', 'tok' ],
+            'bgColor': '#7fa2ff',
+            'borderColor': 'darken'
+        }
+	],
+	'entity_attribute_types': [],
+	'relation_types': [
+// this is optional
+//         {
+//             'type': 'subj',
+//             'labels': [ 'subj' ],
+//             'dashArray': '3,3',
+//             'color': 'green',
+//             'args': [
+//                 {
+//                     'role': 'arg1',
+//                     'targets': [ 'token' ]
+//                 },
+//                 {
+//                     'role': 'arg2',
+//                     'targets': [ 'token' ]
+//                 }
+//             ]
+//         }
+        ],
+	'event_types': [],
+    };
+
+    var normalizeSpace = function(s) {
+	s = s.replace(/^\s+/, '');
+	s = s.replace(/\s+$/, '');
+	s = s.replace(/\s\s+/g, ' ');
+	return s;
+    };
+
+    var compactJSON = function(s) {
+        // remove (some) space from JSON string, giving a visually
+        // more compact (but equivalent and still pretty-printed)
+        // version.
+
+	// replace any space with ' ' in non-nested curly brackets
+	s = s.replace(/(\{[^\{\}\[\]]*\})/g, 
+		      function(a, b) { return b.replace(/\s+/g, ' '); });
+	// replace any space with ' ' in [] up to nesting depth 1
+// 	s = s.replace(/(\[(?:[^\[\]\{\}]|\[[^\[\]\{\}]*\])*\])/g, 
+// 		      function(a, b) { return b.replace(/\s+/g, ' '); });
+	// actually, up to nesting depth 2
+	s = s.replace(/(\[(?:[^\[\]\{\}]|\[(?:[^\[\]\{\}]|\[[^\[\]\{\}]*\])*\])*\])/g, 
+		      function(a, b) { return b.replace(/\s+/g, ' '); });
+	return s
+    };
+
+    var ObjectToString = function(data) {
+	return compactJSON(JSON.stringify(data, undefined, '    '));
+    };
+
+    var parseToken = function(token) {
+	// return [text, POS] for token encoded as "text/POS", or
+	// [text, "token"] if no POS (/-separated string) is included.
+	var text, POS;
+
+	m = token.match(/((?:[^\\]|\\.)+)\/(.+)$/);
+	if (!m) {
+	    text = token, POS = 'token';
+	} else {
+	    text = m[1], POS = m[2];
+	}
+
+	// unescape backslash escapes in text and tag
+	text = text.replace(/([^\\]*)\\(.)/g, '$1$2');
+	POS = POS.replace(/([^\\]*)\\(.)/g, '$1$2');
+
+	return [text, POS];
+    };
+
+    // parse SD format, return brat document data format
+    var sdParse = function(sd, logElement) {
+	var log = function(s) {
+	    if (logElement === undefined) {
+		console.log(s);
+	    } else {
+		logElement.append(s+'\n');
+	    }
+	};
+
+	var lines = sd.split('\n');
+
+	// first line is assumed to be sentence text
+	var text = lines[0];
+	text = normalizeSpace(text);
+
+	// determine token offsets and construct spans ("entities")
+	var tokens = text.split(' ');
+	var spans = [];
+	var offset = 0;
+	for (var i=0; i<tokens.length; i++) {
+	    var text_POS = parseToken(tokens[i]);
+	    var text = text_POS[0], POS = text_POS[1];
+	    var length = text.length;
+	    spans.push(['T'+(i+1), POS, [[offset, offset+length]]]);
+	    tokens[i] = text;
+	    offset += length + 1;
+	}
+	text = tokens.join(' ');
+
+	var tokenIndex = function(t) {
+	    // accept two formats: indexed ('dog-1') and simple ('dog')
+
+	    // indexed match
+	    var m = t.match(/^\s*(.*)-(\d+)\s*$/)	      
+	    if (m) {
+		var text = m[1], idx = m[2];
+		// confirm match (SD indices are 1-based)
+		idx = parseInt(idx, 10) - 1;
+		if (tokens[idx] === text) {
+		    return idx;
+		} else {
+		    // TODO consider skipping output, not necessarily an error
+		    log('token text mismatch: "'+text+'" vs. "'+tokens[idx]+'"');
+		}
+		// fall through to allow simple match for e.g. 'il-2'
+	    }
+
+	    // simple match
+	    var firstIdx = $.inArray(t, tokens);
+	    if (firstIdx === -1) {
+		return null;
+	    } else {
+		if ($.inArray(t, tokens, firstIdx+1) !== -1) {
+		    log('warning: multiple occurrences of', t);
+		}
+		return firstIdx;
+	    }
+	};
+
+	// parse lines after the first as dependencies, construct relations
+	var relations = [];
+	for (var i=1; i<lines.length; i++) {
+	    var line = lines[i];
+	    line = normalizeSpace(line);
+	    
+	    if (line.match(/^\s*$/)) {
+		continue; // ignore empties
+	    }
+	    
+	    var m = line.match(/^(\S+)\s*\(\s*(\S+)\s*,\s*(\S+)\s*\)$/);
+	    if (!m) {
+		log('failed to parse: "'+line+'"');
+		continue;
+	    }
+	    var type = m[1], from = m[2], to = m[3];
+	    
+	    // determine which tokens are referred to
+	    var fromIdx = tokenIndex(from), toIdx = tokenIndex(to);
+	    if (fromIdx === null || toIdx === null) {
+		log('failed to find token: "'+line+'"');
+		continue;
+	    }
+	    
+	    relations.push([ 'R'+i, type, [ [ 'arg1', 'T'+(fromIdx+1) ], 
+					    [ 'arg2', 'T'+(toIdx+1)   ] ] ]);
+	}
+
+	log('SD parse done: '+spans.length+' tokens, '+relations.length+' dependencies.');
+          
+	return {
+	    'text': text,
+	    'entities' : spans,
+	    'relations' : relations
+	};
+    };
+
+    var embeddedIdSeq = 1;
+
+    var embedStanfordDependency = function(elem, data) {
+	// store sequence number for reference resolution
+	elem.attr('embeddedSequenceNum', embeddedIdSeq);
+
+	var eId = 'embedded-' + embeddedIdSeq++,
+            sdTabId = eId + '-2',
+            bratTabId = eId + '-3',
+            infoTabId = eId + '-4';
+
+	// visualization and related data elements
+	var visDiv = $('<div id="'+eId+'-vis"></div>');
+	var tabDiv = $('<div id="'+eId+'-tabs"></div>');
+	var shDiv  = $('<div id="'+eId+'-sh" class="show-hide-div"></div>');
+	var showHideButton = $('<button id="'+eId+'-toggle" '+
+			       'class="show-hide-toggle">hide</button>');
+	shDiv.append(showHideButton);
+
+	var sdInput = $('<textarea id="'+eId+'-sd" class="embedded-brat-data"></textarea>');
+	var bratInput = $('<textarea id="'+eId+'-brat" disabled="disabled" class="embedded-brat-data"></textarea>');
+	var logInput = $('<textarea id="'+eId+'-log" disabled="disabled" class="embedded-brat-data"></textarea>');
+
+	// initialize data, defaulting to original element text
+	if (data === undefined) {
+	    data = elem.text();
+	}
+	data = normalizeSpace(data);
+	var parsed = sdParse(data, logInput);
+	sdInput.text(data);
+	bratInput.text(ObjectToString(parsed));
+
+	// build top-level structure
+	elem.empty();
+	// tab headers (li+a)
+	tabDiv.append([
+		       '<div id="'+eId+'">',
+		       '  <ul>',
+		       '    <li><a href="#'+sdTabId+'">SD</a></li>',
+		       '    <li><a href="#'+bratTabId+'">brat</a></li>',
+		       '    <li><a href="#'+infoTabId+'">info</a></li>',
+		       '  </ul>',
+		       '</div>'
+		       ].join('\n'));
+	// tab content (divs)
+	var sdTab   = $('<div id="'+sdTabId+'"></div>'),
+            bratTab = $('<div id="'+bratTabId+'"></div>'),
+            logTab  = $('<div id="'+infoTabId+'"></div>');
+	//visTab.append(visDiv);
+	sdTab.append(sdInput);
+	bratTab.append(bratInput);
+	logTab.append(logInput);
+
+	// add content to top-level element, turn into jQuery-ui tabs
+	tabDiv.append(sdTab, bratTab, logTab);
+	elem.append(shDiv, tabDiv, visDiv);
+	tabDiv.tabs();
+	var shVisible = 0;
+	var setShToggleText = function() {
+	    $('span', showHideButton).text(shVisible ? 'hide' : 'edit');
+	}
+	tabDiv.hide(); // TODO make optional (control e.g. using class)
+        showHideButton.button().click(function(ev) {
+	   tabDiv.toggle('blind');
+	   setShToggleText();
+	   shVisible = !shVisible;
+	});
+	setShToggleText();
+
+	// initialize brat visualization
+        var dispatcher = Util.embed(eId+'-vis',
+          $.extend({'collection': null}, collData),
+          $.extend({}, parsed), webFontURLs);
+
+	// hook everything up
+        var renderError = function() {
+            bratInput.css({'border': '2px solid red'});
+        };
+        dispatcher.on('renderError: Fatal', renderError);
+
+        var inputHandler = function() {
+            var parsed;
+
+	    logInput.val(''); // clear log
+
+            try {
+                parsed = sdParse(sdInput.val(), logInput);
+                sdInput.css({'border': '2px inset'});
+            } catch (e) {
+                sdInput.css({'border': '2px solid red'});
+                return;
+            }
+	    
+	    bratInput.text(ObjectToString(parsed));
+
+            try {
+                dispatcher.post('requestRenderData', [$.extend({}, parsed)]);
+                bratInput.css({'border': '2px inset'});
+            } catch(e) {
+		console.log('requestRenderData error:', e);
+		logInput.append('requestRenderData error: '+e);
+                bratInput.css({'border': '2px solid red'});
+            }
+        };
+        sdInput.bind('propertychange keyup input paste', inputHandler);
+    };
+
+    var resolveEmbeddedReference = function(elem, data) {
+	var refId = elem.attr('href'),
+	    refElem = $(refId);
+	
+	if (refElem === undefined) {
+	    console.log('Failed to resolve reference to', refId, 'for', elem);
+	    return;
+	}
+
+	var refSeq = refElem.attr('embeddedSequenceNum');
+	if (refSeq === undefined) {
+	    console.log('no embeddedSequenceNum for', refElem);
+	    return;
+	}
+
+	var origText = elem.text();
+	var resolvedText = origText.replace(/\#/, refSeq);
+	if (origText === resolvedText) {
+	    console.log('failed replace in text', origText, 'for', elem);
+	    return;
+	}
+
+	elem.text(resolvedText);
+    };
+
+    var embedBratVisualizations = function() {
+        // generate embedded visualizations: call embedStanfordDependency
+	// for elements with "sd-parse" class.
+        $('.sd-parse').each(function(idx) {
+	    embedStanfordDependency($(this));
+	});
+
+	// resolve references (e.g. "Figure #" -> "Figure 1"): call
+	// resolveEmbeddedReference for elements with "embed-ref" class.
+	$('.embed-ref').each(function(idx) {
+            resolveEmbeddedReference($(this));
+	});
+    };
+
+    head.ready(function() {
+	// just call this in head.ready()
+	embedBratVisualizations();
+    });
+</script>
+
+      </div>
+      <div id="footer">
+          <p class="footer-text">&copy; 2010-2014 the <a href="about.html" style="color:gray">brat contributors</a></p>
+	<p class="footer-logo"><a href="http://creativecommons.org/licenses/by/3.0/"><img title="Content on this website is licensed under a Creative Commons Attribution 3.0 License. (Linked corpus data licensed separately.)" src="http://i.creativecommons.org/l/by/3.0/80x15.png"/></a></p>
+      </div>
+    </div>
+  </body>
+</html>
