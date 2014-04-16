@@ -4,6 +4,7 @@ title:  'acomp: adjectival complement'
 ---
 
 acomp: adjectival complement
+============================
 
 
 An adjectival complement of a verb is an adjectival phrase which
