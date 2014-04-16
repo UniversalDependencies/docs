@@ -3,9 +3,11 @@ layout: base
 title:  'Live SD annotation manual - test'
 ---
 
-The purpose of this page is to test whether a live SD annotation
-manual and example bank could be maintained using the combination of
-GitHub pages and embedded brat.
+# Git
+
+The purpose of this site is to test/demo a live dependency annotation
+manual and example bank, built using a combination of GitHub pages and
+embedded brat.
 
 [English dependencies](en.html)
 
