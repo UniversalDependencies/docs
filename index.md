@@ -27,6 +27,7 @@ The dependency scheme in the visualizations is that of
 # Documentation examples
 
 * [English relations](en.html)
+* [Finnish relations](fi.html)
 
 # How to contribute
 
