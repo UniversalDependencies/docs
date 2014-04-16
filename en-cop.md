@@ -14,5 +14,3 @@ conversion software, you can ask for the copula to remain the head
 when its complement is an adjective or noun by giving the flag
 `-makeCopulaHead`. Uses of the verb be as in auxiliary in passives and
 progressives will still be treated as a non-head auxiliary.
-
-*Check out the source for this page [here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/en-cop.md).*
