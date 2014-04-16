@@ -3,13 +3,20 @@ layout: base
 title:  'Embedded SD Visualisation test'
 ---
 
-<p>This example illustrates automatic parse visualization and dynamic
-editing using the Stanford dependency format.</p>
+## Automatic parse visualization and dynamic editing
+
+# Simple example
 
 <div id="simple-example" class="sd-parse">
 Dogs run
 nsubj(run, Dogs)
 </div>
+
+    <div id="simple-example" class="sd-parse">
+    Dogs run
+    nsubj(run, Dogs)
+    </div>
+
 
 <p>View source to see the raw HTML that is rendered into the
 visualization.  (Any element with the "sd-parse" class is
