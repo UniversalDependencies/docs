@@ -10,9 +10,9 @@ dependency examples are in-lined between div tags, as shown below. For example, 
 [here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/embedsd.md) and can be edited either directly
 on GitHub or in a text editor using the normal edit-commit-push cycle.
 
-## Automatic parse visualization
+# Automatic parse visualization
 
-# Simple example
+## Simple example
 
 A single tree can be embedded using code like this
 
@@ -46,7 +46,7 @@ pobj(of-6, these-7)
 </div>
 
 
-# POS tags
+## POS tags
 
 POS tags are optional and use the format "text/POS".
 
@@ -91,7 +91,7 @@ Any literal slashes ("/") can be escaped using backslash.
 nsubj(escapes, \)
 </div>
 
-# Unicode
+## Unicode
 
 Everything is unicode-compliant.
 
