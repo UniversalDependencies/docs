@@ -1,0 +1,9 @@
+source:       .
+destination:  ./_site
+auto:         true
+markdown:     kramdown
+permalink:    date
+pygments:     true
+safe:         true
+server:       true
+markdown_ext: md
