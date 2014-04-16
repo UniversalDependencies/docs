@@ -1,4 +1,4 @@
 SD manual test
 ==============
 
-Test of gh-pages for online dependency manual
+The manual is online [here](http://fginter.github.io/sdmanualtest/).
