@@ -16,14 +16,14 @@ on GitHub or in a text editor using the normal edit-commit-push cycle.
 
 A single tree can be embedded using code like this
 
-    <div id="simple-example" class="sd-parse">
+    <div id="simple-example-parse" class="sd-parse">
     Dogs run
     nsubj(run, Dogs)
     </div>
 
 which results in this embedded visualization:
 
-<div id="simple-example" class="sd-parse">
+<div id="simple-example-parse" class="sd-parse">
 Dogs run
 nsubj(run, Dogs)
 </div>
@@ -109,6 +109,25 @@ nommod(入れる, 東大に)
 
 ## Cross-references
 
-Basic support for linking and reference-based numbering is included:
-  see <a href="#simple-example" class="embed-ref">Example #</a>
+Basic support for linking and reference-based numbering is included.
+Here's an example link:
+<a href="#simple-example-parse" class="embed-ref">Example #</a>.
 
+The syntax is simple: first, the example has `class="sd-parse"` and an
+`id` attribute:
+
+    <div id="simple-example-parse" class="sd-parse">
+
+Then, the link has `class="embed-ref"` and a `href` attribute that
+matches the `id` of the example:
+
+    <a href="#simple-example-parse" class="embed-ref">Example #</a>.
+
+As a result, any "#" character in the link text is replaced with the
+sequence number of the corresponding example.
+
+Some issues/limitations remain in the current linking implementation:
+
+* the sequence number appearing on the visualization is always "1"
+* "#" characters only resolve into numbers when linking to the same
+  page
