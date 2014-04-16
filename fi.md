@@ -15,7 +15,7 @@ may have a link to a page with further dedicated discussion.
 The dependency type acomp is used for adjectival complements of verbs, except
 for predicatives.
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 Hän teki siitä hyvin vaikeaa .
 acomp(teki, vaikeaa)
 </div>
@@ -25,14 +25,14 @@ acomp(teki, vaikeaa)
 Coordinating conjunctions are marked as dependents of the first coordinated element. See the [discussion](fi-cc.html) for further
 details.
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 kirjat kynät ja viivottimet
 conj(kirjat, kynät)
 conj(kirjat, viivottimet)
 cc(kirjat,ja)
 </div>
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 toisaalta kynät , toisaalta viivottimet
 preconj(kynät, toisaalta)
 cc(kynät, toisaalta-4)

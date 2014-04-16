@@ -15,7 +15,7 @@ may have a link to a page with further dedicated discussion.
 An adjectival complement of a verb is an adjectival phrase which
 functions as the complement (like an object of the verb).
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 She looks very beautiful
 acomp(looks, beautiful)
 </div>
@@ -25,13 +25,13 @@ acomp(looks, beautiful)
 A copula is the relation between the complement of a copular verb and the copular verb. (We
 normally take a copula as a dependent of its complement; see the [discussion](en-cop.html))
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 Bill is big
 cop(big, is)
 nsubj(big, Bill)
 </div>
 
-<div id="simple-example" class="sd-parse">
+<div class="sd-parse">
 Bill is an honest man
 cop(man, is)
 nsubj(man, Bill)
