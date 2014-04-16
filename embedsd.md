@@ -3,10 +3,12 @@ layout: base
 title:  'Embedded SD Visualisation test'
 ---
 
-## Basic document structure and editing
+# Basic document structure and editing
 
 The pages are written using the [Markdown language](http://daringfireball.net/projects/markdown/syntax) and
-dependency examples are in-lined between div tags, as shown below.
+dependency examples are in-lined between div tags, as shown below. For example, the source for this page is
+[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/embedsd.md) and can be edited either directly
+on GitHub or in a text editor using the normal edit-commit-push cycle.
 
 ## Automatic parse visualization
 
