@@ -294,23 +294,6 @@ td.support-no {
   border-radius: 10px;
 }
 
-.hp-logo {
-  font-family: 'Astloch', serif;
-  font-style: normal;
-  text-decoration: none;
-  text-transform: none;
-  letter-spacing: 0em;
-  word-spacing: 0em;
-  line-height: 1.2;
-
-  font-weight: bold;
-}
-@font-face {
-  font-family: 'Astloch';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Astloch Bold'), local('Astloch-Bold'), url('../fonts/Astloch-Bold.ttf') format('truetype');
-}
 /* "starburst" CSS adapted from
    http://matthewjamestaylor.com/blog/css3-starbursts */
 .starburst {
