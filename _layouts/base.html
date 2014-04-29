@@ -235,7 +235,7 @@
 
     var embeddedIdSeq = 1;
 
-    var embedStanfordDependency = function(elem, data) {
+    var embedStanfordDependency = function(elem, data, options) {
 	// store sequence number for reference resolution
 	elem.attr('embeddedSequenceNum', embeddedIdSeq);
 
@@ -265,6 +265,11 @@
 	sdInput.text(data);
 	bratInput.text(ObjectToString(parsed));
 
+        // initialize options
+        if (options === undefined) {
+            options = {};
+        }
+				      
 	// build top-level structure
 	elem.empty();
 	// tab headers (li+a)
@@ -301,6 +306,12 @@
 	   shVisible = !shVisible;
 	});
 	setShToggleText();
+
+        // only show tabs / tab visibility control if set in options
+        if (options && !options.tabs) {
+            showHideButton.hide();
+            tabDiv.hide();
+        }
 
 	// initialize brat visualization
         var dispatcher = Util.embed(eId+'-vis',
