@@ -8,10 +8,10 @@ title:  'Live SD annotation manual - test'
 The purpose of this site is to test/demo a live dependency annotation
 manual and example bank, built using a combination of GitHub pages and
 embedded brat visualizations. As a minimal example, here's what the
-embedded visualizations look like. Try clicking on the small "edit"
-tab on the top right.
+embedded visualizations look like. (Try clicking on the small "edit"
+tab on the top right.)
 
-<div class="sd-parse">
+<div class="sd-parse" tabs="yes">
 really/RB simple/JJ stuff/NN
 advmod(simple, really)
 amod(stuff, simple)
@@ -23,6 +23,8 @@ The dependency scheme in the visualizations is that of
     really/RB simple/JJ stuff/NN
     advmod(simple, really)
     amod(stuff, simple)
+
+(The CoNLL-X format is also supported.)
 
 # Documentation examples
 
