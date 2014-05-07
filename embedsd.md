@@ -28,10 +28,6 @@ Dogs run
 nsubj(run, Dogs)
 </div>
 
-You can click on the tab on the top right to edit the visualization but note
-that the edits are not saved anywhere as there's no server. This is mostly useful
-to build the examples.
-
 You can have any number of visualizations on a page, and any
 standard HTML content can be freely mixed with the visualizations.
 
@@ -44,7 +40,6 @@ dobj(have-3, number-5)
 prep(number-5, of-6)
 pobj(of-6, these-7)
 </div>
-
 
 ## POS tags
 
@@ -90,6 +85,28 @@ Any literal slashes ("/") can be escaped using backslash.
 \\/\\ escapes/VBZ :/: \\o\//\\o\/
 nsubj(escapes, \)
 </div>
+
+## Editing
+
+Controls for visualization editing and information is accessible in
+elements with the attribute `tabs="yes"` (or any other non-empty
+value):
+
+    <div id="simple-example-parse" class="sd-parse" tabs="yes">
+    Dogs run
+    nsubj(run, Dogs)
+    </div>
+
+This gives:
+
+<div id="simple-example-parse" class="sd-parse" tabs="yes">
+Dogs run
+nsubj(run, Dogs)
+</div>
+
+You can click on the tab on the top right to edit the visualization,
+but note that the edits are not saved anywhere as there's no
+server. This is mostly useful to build and debug examples.
 
 ## Unicode
 
