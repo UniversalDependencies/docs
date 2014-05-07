@@ -268,10 +268,20 @@
 	sdInput.text(data);
 	bratInput.text(ObjectToString(parsed));
 
-        // initialize options
+        // initialize options, falling back to attributes as defaults
         if (options === undefined) {
             options = {};
         }
+        $.each(elem[0].attributes, function(idx) {
+            var name = this.name;
+            var value = this.value;
+            // ignore standard attributes and options provided by caller
+            var standardAttr = ['id', 'class', 'embeddedsequencenum'];
+            if ($.inArray(name.toLowerCase(), standardAttr) === -1 &&
+                options[name] === undefined) {
+                options[name] = value;
+            }
+	});
 				      
 	// build top-level structure
 	elem.empty();
@@ -305,8 +315,8 @@
 	tabDiv.hide(); // TODO make optional (control e.g. using class)
         showHideButton.button().click(function(ev) {
 	   tabDiv.toggle('blind');
-	   setShToggleText();
 	   shVisible = !shVisible;
+	   setShToggleText();
 	});
 	setShToggleText();
 
