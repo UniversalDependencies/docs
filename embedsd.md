@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Embedded SD Visualisation test'
+title:  'Embedded Visualisation'
 ---
 
 # Basic document structure and editing
 
-The pages are written using the [Markdown language](http://daringfireball.net/projects/markdown/syntax) and
+These pages are written using the [Markdown language](http://daringfireball.net/projects/markdown/syntax) and
 dependency examples are in-lined between div tags, as shown below. For example, the source for this page is
 [here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/embedsd.md) and can be edited either directly
 on GitHub or in a text editor using the normal edit-commit-push cycle.
 
 # Automatic parse visualization
 
-## Simple example
+## Simple examples
 
 A single tree can be embedded using code like this
 
@@ -28,9 +28,24 @@ Dogs run
 nsubj(run, Dogs)
 </div>
 
+The CoNLL-X format is also supported. For example,
+
+    <div class="conllx-parse">
+    1    Dogs   dog    _    NNS    _    2    nsubj
+    2    run    run    _    VBP    _    0    ROOT
+    </div>
+
+gives
+
+<div class="conllx-parse">
+1    Dogs   dog    _    NNS    _    2    nsubj
+2    run    run    _    VBP    _    0    ROOT
+</div>
+
 You can have any number of visualizations on a page, and any
 standard HTML content can be freely mixed with the visualizations.
 
+<!--
 <div class="sd-parse">
 You can have any number of these .
 nsubj(have-3, You-1)
@@ -40,6 +55,7 @@ dobj(have-3, number-5)
 prep(number-5, of-6)
 pobj(of-6, these-7)
 </div>
+-->
 
 ## POS tags
 
