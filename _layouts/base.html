@@ -145,7 +145,7 @@
 	    if (logElement === undefined) {
 		console.log(s);
 	    } else {
-		logElement.append(s+'\n');
+		logElement.val(logElement.val() + s + '\n');
 	    }
 	};
 
@@ -238,12 +238,12 @@
 
     var embeddedIdSeq = 1;
 
-    var embedStanfordDependency = function(elem, data, options) {
+    var embedDependency = function(elem, parse, data, options) {
 	// store sequence number for reference resolution
 	elem.attr('embeddedSequenceNum', embeddedIdSeq);
 
 	var eId = 'embedded-' + embeddedIdSeq++,
-            sdTabId = eId + '-2',
+            inputTabId = eId + '-2',
             bratTabId = eId + '-3',
             infoTabId = eId + '-4';
 
@@ -255,18 +255,26 @@
 			       'class="show-hide-toggle">hide</button>');
 	shDiv.append(showHideButton);
 
-	var sdInput = $('<textarea id="'+eId+'-sd" class="embedded-brat-data"></textarea>');
-	var bratInput = $('<textarea id="'+eId+'-brat" disabled="disabled" class="embedded-brat-data"></textarea>');
-	var logInput = $('<textarea id="'+eId+'-log" disabled="disabled" class="embedded-brat-data"></textarea>');
+	var inputArea = $('<textarea id="'+eId+'-in" ' +
+			  'class="embedded-brat-data"></textarea>');
+	var bratArea = $('<textarea id="'+eId+'-brat" disabled="disabled" ' +
+			 'class="embedded-brat-data"></textarea>');
+	var logArea = $('<textarea id="'+eId+'-log" disabled="disabled" ' +
+			'class="embedded-brat-data"></textarea>');
+
+	// initialize parse function, falling back to SD as default
+	if (parse === undefined) {
+	    parse = sdParse;
+	}
 
 	// initialize data, defaulting to original element text
 	if (data === undefined) {
 	    data = elem.text();
 	}
 	data = normalizeSpace(data);
-	var parsed = sdParse(data, logInput);
-	sdInput.text(data);
-	bratInput.text(ObjectToString(parsed));
+	var parsed = parse(data, logArea);
+	inputArea.text(data);
+	bratArea.text(ObjectToString(parsed));
 
         // initialize options, falling back to attributes as defaults
         if (options === undefined) {
@@ -289,23 +297,22 @@
 	tabDiv.append([
 		       '<div id="'+eId+'">',
 		       '  <ul>',
-		       '    <li><a href="#'+sdTabId+'">SD</a></li>',
+		       '    <li><a href="#'+inputTabId+'">input</a></li>',
 		       '    <li><a href="#'+bratTabId+'">brat</a></li>',
 		       '    <li><a href="#'+infoTabId+'">info</a></li>',
 		       '  </ul>',
 		       '</div>'
 		       ].join('\n'));
 	// tab content (divs)
-	var sdTab   = $('<div id="'+sdTabId+'"></div>'),
+	var inputTab   = $('<div id="'+inputTabId+'"></div>'),
             bratTab = $('<div id="'+bratTabId+'"></div>'),
             logTab  = $('<div id="'+infoTabId+'"></div>');
-	//visTab.append(visDiv);
-	sdTab.append(sdInput);
-	bratTab.append(bratInput);
-	logTab.append(logInput);
+	inputTab.append(inputArea);
+	bratTab.append(bratArea);
+	logTab.append(logArea);
 
 	// add content to top-level element, turn into jQuery-ui tabs
-	tabDiv.append(sdTab, bratTab, logTab);
+	tabDiv.append(inputTab, bratTab, logTab);
 	elem.append(shDiv, tabDiv, visDiv);
 	tabDiv.tabs();
 	var shVisible = 0;
@@ -333,35 +340,35 @@
 
 	// hook everything up
         var renderError = function() {
-            bratInput.css({'border': '2px solid red'});
+            bratArea.css({'border': '2px solid red'});
         };
         dispatcher.on('renderError: Fatal', renderError);
 
         var inputHandler = function() {
             var parsed;
 
-	    logInput.val(''); // clear log
+	    logArea.val(''); // clear log
 
             try {
-                parsed = sdParse(sdInput.val(), logInput);
-                sdInput.css({'border': '2px inset'});
+                parsed = parse(inputArea.val(), logArea);
+                inputArea.css({'border': '2px inset'});
             } catch (e) {
-                sdInput.css({'border': '2px solid red'});
+                inputArea.css({'border': '2px solid red'});
                 return;
             }
 	    
-	    bratInput.text(ObjectToString(parsed));
+	    bratArea.text(ObjectToString(parsed));
 
             try {
                 dispatcher.post('requestRenderData', [$.extend({}, parsed)]);
-                bratInput.css({'border': '2px inset'});
+                bratArea.css({'border': '2px inset'});
             } catch(e) {
 		console.log('requestRenderData error:', e);
-		logInput.append('requestRenderData error: '+e);
-                bratInput.css({'border': '2px solid red'});
+		logArea.append('requestRenderData error: '+e);
+                bratArea.css({'border': '2px solid red'});
             }
         };
-        sdInput.bind('propertychange keyup input paste', inputHandler);
+        inputArea.bind('propertychange keyup input paste', inputHandler);
     };
 
     var resolveEmbeddedReference = function(elem, data) {
@@ -390,10 +397,10 @@
     };
 
     var embedBratVisualizations = function() {
-        // generate embedded visualizations: call embedStanfordDependency
+        // generate embedded visualizations: call embedDependency
 	// for elements with "sd-parse" class.
         $('.sd-parse').each(function(idx) {
-	    embedStanfordDependency($(this));
+	    embedDependency($(this));
 	});
 
 	// resolve references (e.g. "Figure #" -> "Figure 1"): call
