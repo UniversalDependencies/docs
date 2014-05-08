@@ -3,8 +3,6 @@ layout: base
 title:  'Finnish grammatical relations'
 ---
 
-*Check out the source for this page [here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/fi.md).*
-
 # Finnish grammatical relations
 
 On this page we list all relations with a few examples per relation. Some relations

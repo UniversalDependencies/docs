@@ -3,8 +3,6 @@ layout: base
 title:  'English grammatical relations'
 ---
 
-*Check out the source for this page [here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/en.md).*
-
 # English grammatical relations
 
 On this page we list all relations with a few examples per relation. Some relations
