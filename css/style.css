@@ -154,10 +154,9 @@ div.center {
   margin-right: auto;
 }
 #hp-header {
-  padding: 10px 15px;
-  margin-bottom: 2em;
-  padding-left: 3em;
-  font-size: 120%;
+  padding-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 2em;
 }
 #menulogo {
   padding-top: 0.5em;
@@ -168,7 +167,7 @@ div.center {
   text-decoration: none; /* no underline in menu */
 }
 #hp-header > span, #hp-header > a {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .bigbutton {
