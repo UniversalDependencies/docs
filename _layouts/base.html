@@ -156,9 +156,10 @@
     };
 
     // parse SD format, return brat document data format
-    var sdParse = function(sd, logElement) {
-	var log = makeLogger(logElement);
-
+    var sdParse = function(sd, log) {
+	if (log === undefined) {
+            log = makeLogger();
+	}
 	var lines = sd.split('\n');
 
 	// first line is assumed to be sentence text
@@ -166,9 +167,10 @@
 	text = normalizeSpace(text);
 
 	// determine token offsets and construct spans ("entities")
-	var tokens = text.split(' ');
-	var spans = [];
-	var offset = 0;
+	var tokens = text.split(' '),
+            spans = [],
+            offset = 0,
+            error = false;
 	for (var i=0; i<tokens.length; i++) {
 	    var text_POS = parseToken(tokens[i]);
 	    var text = text_POS[0], POS = text_POS[1];
@@ -181,6 +183,7 @@
 
 	var tokenIndex = function(t) {
 	    // accept two formats: indexed ('dog-1') and simple ('dog')
+	    // TODO: consider case-insensitive implementation
 
 	    // indexed match
 	    var m = t.match(/^\s*(.*)-(\d+)\s*$/)	      
@@ -203,7 +206,7 @@
 		return null;
 	    } else {
 		if ($.inArray(t, tokens, firstIdx+1) !== -1) {
-		    log('warning: multiple occurrences of', t);
+		    log('warning: multiple occurrences of "'+t+'"');
 		}
 		return firstIdx;
 	    }
@@ -222,6 +225,7 @@
 	    var m = line.match(/^(\S+)\s*\(\s*(\S+)\s*,\s*(\S+)\s*\)$/);
 	    if (!m) {
 		log('failed to parse: "'+line+'"');
+		error = true;
 		continue;
 	    }
 	    var type = m[1], from = m[2], to = m[3];
@@ -230,6 +234,7 @@
 	    var fromIdx = tokenIndex(from), toIdx = tokenIndex(to);
 	    if (fromIdx === null || toIdx === null) {
 		log('failed to find token: "'+line+'"');
+		error = true;
 		continue;
 	    }
 	    
@@ -242,14 +247,16 @@
 	return {
 	    'text': text,
 	    'entities' : spans,
-	    'relations' : relations
+            'relations' : relations,
+	    'error' : error
 	};
     };
 
     // parse CoNLL-X format, return brat document data format
-    var conllXParse = function(conll, logElement) {
-	var log = makeLogger(logElement);
-
+    var conllXParse = function(conll, log) {
+	if (log === undefined) {
+            log = makeLogger();
+	}
 	var lines = conll.split('\n');
 
         // each line has the following format
@@ -268,7 +275,8 @@
             forms = [],
             postags = [],
             heads = [],
-            deprels = [];
+            deprels = [],
+            error = false;
         for (var i=0; i<lines.length; i++) {
             var line = lines[i];
             line = line.replace(/\s$/, '');
@@ -283,6 +291,7 @@
             } else {
                 // TODO: better error handling
                 log('expected 8 fields, got '+fields.length+': "'+line+'"');
+		error = true;
 		continue;
             }
         }
@@ -308,7 +317,8 @@
 	return {
 	    'text': text,
 	    'entities' : spans,
-	    'relations' : relations
+            'relations' : relations,
+	    'error' : error
 	};
     };
 
@@ -348,7 +358,7 @@
 	    data = elem.text();
 	}
 	data = normalizeSpace(data);
-	var parsed = parse(data, logArea);
+	var parsed = parse(data, makeLogger(logArea));
 	inputArea.text(data);
 	bratArea.text(ObjectToString(parsed));
 
@@ -421,18 +431,27 @@
         dispatcher.on('renderError: Fatal', renderError);
 
         var inputHandler = function() {
-            var parsed;
+            var parsed, parse_error = false;
 
 	    logArea.val(''); // clear log
 
             try {
-                parsed = parse(inputArea.val(), logArea);
-                inputArea.css({'border': '2px inset'});
+                parsed = parse(inputArea.val(), makeLogger(logArea));
+		parse_error = parsed.error;
             } catch (e) {
+		console.log(e);
+		parse_error = true;
+            }
+
+	    console.log(parse_error);
+
+	    if (!parse_error) {
+                inputArea.css({'border': '2px inset'});
+	    } else {
                 inputArea.css({'border': '2px solid red'});
                 return;
-            }
-	    
+	    }
+    
 	    bratArea.text(ObjectToString(parsed));
 
             try {
