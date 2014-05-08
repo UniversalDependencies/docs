@@ -1,11 +1,13 @@
+{% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
+{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -13,9 +15,12 @@
   <body>
     <div id="main" class="center">
 
-      <div id="header">
-          <p class="header-text"><a href="http://fginter.github.io/sdmanualtest">home</a></p>
+      <div id="hp-header">
+          <span class="header-text"><a href="http://fginter.github.io/sdmanualtest">home</a></span>
+          <span class="header-text"><a href="https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages{{ page.url }}">page source</a></span>
       </div>
+
+      <hr/>
 
       <div id="content">
 	<noscript>
