@@ -1,30 +1,32 @@
 ---
 layout: base
-title:  'Live SD annotation manual - test'
+title:  'Online dependency annotation manual'
 ---
 
-# Annotation manual with simple markup and embedded visualizations
+# Online dependency annotation manual with visualizations
 
-The purpose of this site is to test/demo a live dependency annotation
-manual and example bank, built using a combination of GitHub pages and
-embedded brat visualizations. As a minimal example, here's what the
-embedded visualizations look like. (Try clicking on the small "edit"
-tab on the top right.)
+This is an online dependency annotation manual and example bank, built
+using a combination of GitHub pages and embedded brat
+visualizations. Here's a minimal example:
 
-<div class="sd-parse" tabs="yes">
-really/RB simple/JJ stuff/NN
-advmod(simple, really)
-amod(stuff, simple)
+<div style="border:1px solid gray;margin:1em;padding:2em 2em 0.5em 2em;">
+
+An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
+
+<div class="sd-parse">
+She looks very beautiful
+acomp(looks, beautiful)
 </div>
 
-The dependency scheme in the visualizations is that of
-[Stanford Dependencies](http://nlp.stanford.edu/software/stanford-dependencies.shtml):
+</div>
 
-    really/RB simple/JJ stuff/NN
-    advmod(simple, really)
-    amod(stuff, simple)
+The data for the visualizations is represented in either the [Stanford Dependency](http://nlp.stanford.edu/software/stanford-dependencies.shtml) or CoNLL-X
+format. For example, the above visualization is generated from this input:
 
-(The CoNLL-X format is also supported.)
+    <div class="sd-parse">
+    She looks very beautiful
+    acomp(looks, beautiful)
+    </div>
 
 # Per-language documentation
 
@@ -45,8 +47,9 @@ The dependency scheme in the visualizations is that of
 manual consists of markdown pages in [this GitHub
 project](https://github.com/fginter/sdmanualtest), where you can see
 the full sources. For example, `index.md`, the source for this page is
-[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/index.md). The
-rest is taken care of by GitHub. Project members can contribute by
+[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/index.md)
+(each page has a "page source" link at the top that shows its source).
+The rest is taken care of by GitHub. Project members can contribute by
 directly editing the sources, others are more than welcome to submit
 their additions as pull requests.
 
