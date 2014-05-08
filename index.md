@@ -26,7 +26,15 @@ The dependency scheme in the visualizations is that of
 
 (The CoNLL-X format is also supported.)
 
+# Per-language documentation
+
+* [English relations](en/index.html)
+* [Finnish relations](fi/index.html)
+* [Universal Stanford Dependencies](usd/index.html)
+
 # Documentation examples
+
+(These should be merged with the per-language documentation pages above.)
 
 * [English relations](en.html)
 * [Finnish relations](fi.html)
