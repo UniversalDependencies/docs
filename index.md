@@ -47,8 +47,7 @@ format. For example, the above visualization is generated from this input:
 manual consists of markdown pages in [this GitHub
 project](https://github.com/fginter/sdmanualtest), where you can see
 the full sources. For example, `index.md`, the source for this page is
-[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/index.md)
-(each page has a "page source" link at the top that shows its source).
+[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/index.md).
 The rest is taken care of by GitHub. Project members can contribute by
 directly editing the sources, others are more than welcome to submit
 their additions as pull requests.
