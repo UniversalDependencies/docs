@@ -37,16 +37,18 @@ def readDepFig(textIn):
     depText=junkRe.sub(" ",depText)
     depText=wipe_emph(depText)
     tokens=[t.strip() for t in depText.replace(r"\\","").strip().split(r"\&")]
+    adjust=0
     if not tokens[0]:
-        tokens[0]="_"
+        tokens.pop(0)
+        adjust=-1
     txt=" ".join(tokens)
     text=""
     text+="""\n\n<div class="sd-parse">\n"""
     text+=txt+"\n"
     print 
     for m in depEdgeRe.finditer(lines):
-        src=int(m.group(2))
-        target=int(m.group(3))
+        src=int(m.group(2))+adjust
+        target=int(m.group(3))+adjust
         dType=m.group(4)
         text+=dType+"("+tokens[src-1]+"-"+str(src)+", "+tokens[target-1]+"-"+str(target)+")\n"
     text+="""</div>\n\n"""

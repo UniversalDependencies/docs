@@ -28,9 +28,9 @@ case(shape-4, in-3)
 
 
 <div class="sd-parse">
-_ wkfraiti at hsrj and_when_I_saw \textsc{acc} the_movie
-dobj(wkfraiti-2, hsrj-4)
-case(hsrj-4, at-3)
+wkfraiti at hsrj and_when_I_saw \textsc{acc} the_movie
+dobj(wkfraiti-1, hsrj-3)
+case(hsrj-3, at-2)
 </div>
 
 
@@ -38,10 +38,10 @@ case(hsrj-4, at-3)
 
 
 <div class="sd-parse">
-_ Ya napisal pis'mo perom I wrote the_letter with_a_quill\
-nsubj(napisal-3, Ya-2)
-dobj(napisal-3, pis'mo-4)
-nmod(napisal-3, perom-5)
+Ya napisal pis'mo perom I wrote the_letter with_a_quill\
+nsubj(napisal-2, Ya-1)
+dobj(napisal-2, pis'mo-3)
+nmod(napisal-2, perom-4)
 </div>
 
 
@@ -49,8 +49,8 @@ nmod(napisal-3, perom-5)
 
 
 <div class="sd-parse">
-_ Ya napisal pis'mo perom I wrote the_letter with_a_quill\
-nmod(napisal-3, perom-5)
+Ya napisal pis'mo perom I wrote the_letter with_a_quill\
+nmod(napisal-2, perom-4)
 </div>
 
 
@@ -321,9 +321,9 @@ nsubj(dancer-6, Ivan-3)
 
 
 <div class="sd-parse">
-_ wkfraiti at hsrj and_when_I_saw \textsc{acc} the_movie
-dobj(wkfraiti-2, hsrj-4)
-case(hsrj-4, at-3)
+wkfraiti at hsrj and_when_I_saw \textsc{acc} the_movie
+dobj(wkfraiti-1, hsrj-3)
+case(hsrj-3, at-2)
 </div>
 
 
@@ -331,10 +331,10 @@ case(hsrj-4, at-3)
 
 
 <div class="sd-parse">
-_ Ya napisal pis'mo perom I wrote the_letter with_a_quill\
-nsubj(napisal-3, Ya-2)
-dobj(napisal-3, pis'mo-4)
-nmod(napisal-3, perom-5)
+Ya napisal pis'mo perom I wrote the_letter with_a_quill\
+nsubj(napisal-2, Ya-1)
+dobj(napisal-2, pis'mo-3)
+nmod(napisal-2, perom-4)
 </div>
 
 
@@ -365,7 +365,7 @@ nsubj(did-5, we-4)
 
 
 <div class="sd-parse">
-_ etsi\"a ilman johtolankaa to_search without clue{\sc partitive}
+etsi\"a ilman johtolankaa to_search without clue{\sc partitive}
 </div>
 
 
@@ -373,7 +373,7 @@ _ etsi\"a ilman johtolankaa to_search without clue{\sc partitive}
 
 
 <div class="sd-parse">
-_ etsi\"a taskulampun kanssa  to_search torch{\sc genitive} with
+etsi\"a taskulampun kanssa  to_search torch{\sc genitive} with
 </div>
 
 
@@ -381,7 +381,7 @@ _ etsi\"a taskulampun kanssa  to_search torch{\sc genitive} with
 
 
 <div class="sd-parse">
-_ etsi\"a johtolangatta to_search clue{\sc abessive}
+etsi\"a johtolangatta to_search clue{\sc abessive}
 </div>
 
 
@@ -389,9 +389,9 @@ _ etsi\"a johtolangatta to_search clue{\sc abessive}
 
 
 <div class="sd-parse">
-_ donner les jouets aux enfants give the_toys to_the children\
-dobj(donner-2, les jouets-3)
-case(enfants-5, aux-4)
+donner les jouets aux enfants give the_toys to_the children\
+dobj(donner-1, les jouets-2)
+case(enfants-4, aux-3)
 </div>
 
 
