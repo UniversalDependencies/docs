@@ -35,6 +35,8 @@ depTextRe=re.compile(r"\\begin\{deptext\}(\[.*?\])? *(.*?)\\end\{deptext\}")
 #\depedge[edge unit distance=0.5ex]{1}{4}{appos}
 depEdgeRe=re.compile(r"\\depedge(\[.*?\])?\{([0-9]+)\}\{([0-9]+)\}\{(.*?)\}")
 
+punctRe=re.compile(r"([.,!?])(?=( |$))")
+
 
 class Relation:
     """I hold everything related to one relation in here, in case I want to
@@ -78,7 +80,14 @@ class Relation:
                 continue
             match=tabFigLine.match(line)
             if match:
-                self.text+=oneDepFig%tuple(match.groups())
+                txt,dType,g,d=match.groups()
+                print >> sys.stderr, txt
+                txt=punctRe.sub(r" \1",txt).replace(r"\\","")
+                g=g.replace("\\","")
+                d=d.replace("\\","")
+                print >> sys.stderr, txt
+                print >> sys.stderr
+                self.text+=oneDepFig%(txt,dType,g,d)
                 continue
             if line==r"\end{tabbing}":
                 return
