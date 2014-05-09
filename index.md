@@ -30,16 +30,9 @@ format. For example, the above visualization is generated from this input:
 
 # Per-language documentation
 
-* [English relations](en/index.html)
-* [Finnish relations](fi/index.html)
+* [English relations](en-all.html)
+* [Finnish relations](fi-all.html)
 * [Universal Stanford Dependencies](usd/index.html)
-
-# Documentation examples
-
-(These should be merged with the per-language documentation pages above.)
-
-* [English relations](en.html)
-* [Finnish relations](fi.html)
 
 # How to contribute
 
