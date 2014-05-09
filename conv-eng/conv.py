@@ -17,8 +17,10 @@ oneDepFig="""
 header="""\
 ---
 layout: base
-title:  'English grammatical relations'
+title:  '%(relname)s'
+shortdef : '%(shortdef)s'
 ---
+
 """
 
 footer=""
@@ -136,8 +138,11 @@ while True:
     if currRel:
         currRel.text+=line+" "
 
-print header
 for r in sorted(relations):
-    print relations[r].getText()
-print footer
+    f=open("../_en/"+r+".md","wt")
+    print >> f, header%{"relname":r,"shortdef":relations[r].definition}
+    print >> f, relations[r].getText()
+    print >> f, footer
+    f.close()
+
 
