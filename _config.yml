@@ -1,9 +1,12 @@
 source:       .
 destination:  ./_site
-auto:         true
 markdown:     kramdown
 permalink:    date
-pygments:     true
 safe:         true
-server:       true
 markdown_ext: md
+collections:
+  en:
+    output: true
+  fi:
+    output: true
+excerpt_separator: "\n\n"
