@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'acomp'
+shortdef: 'adjectival complement'
 ---
 
 ## acomp : adjectival complement
