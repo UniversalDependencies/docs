@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Finnish grammatical relations'
+generated: 'true'
 ---
 
 This is a placeholder for the entry page for the documentation for

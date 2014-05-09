@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'English grammatical relations'
+generated: 'true'
 ---
 
 This page is an automatic merge of the pages with documentation and
