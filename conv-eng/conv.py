@@ -30,6 +30,11 @@ relRe=re.compile(r"\{\\emph\{(.*?)\}:\s+(.*)\}\\\\$") #matches "advcl" and "adve
 ### \> ``Sam took out  a 3 million dollar loan'' \> \> \emph{amod}(loan, dollar)\\
 tabFigLine=re.compile(r"\\> +``(.*?)'' +\\> *\\> +\\emph\{(.*?)\}\((.*?), ?(.*?)\) *\\\\")
 
+### \begin{deptext}[column sep=0.2em] Sam \&, \& my \& brother \& , \& arrived \\ \end{deptext}
+depTextRe=re.compile(r"\\begin\{deptext\}(\[.*?\])? *(.*?)\\end\{deptext\}")
+#\depedge[edge unit distance=0.5ex]{1}{4}{appos}
+depEdgeRe=re.compile(r"\\depedge(\[.*?\])?\{([0-9]+)\}\{([0-9]+)\}\{(.*?)\}")
+
 
 class Relation:
     """I hold everything related to one relation in here, in case I want to
@@ -41,10 +46,30 @@ class Relation:
         self.text=depRelHeader%(name,definition)
 
     def readDepFig(self,textIn):
+# \begin{dependency}
+#    \begin{deptext}[column sep=0.2em]
+#       Sam \&, \& my \& brother \& , \& arrived \\
+#    \end{deptext}
+#    \depedge[edge unit distance=0.5ex]{1}{4}{appos}
+# \end{dependency}
+        lines=""
         while True:
             line=textIn.next().strip()
             if line==r"\end{dependency}":
                 break
+            lines+=" "+line
+        m=depTextRe.search(lines)
+        tokens=[t.strip() for t in m.group(2).replace(r"\\","").strip().split(r"\&")]
+        txt=" ".join(tokens)
+        self.text+="""\n\n<div class="sd-parse">\n"""
+        self.text+=txt+"\n"
+        for m in depEdgeRe.finditer(lines):
+            src=int(m.group(2))
+            target=int(m.group(3))
+            dType=m.group(4)
+            self.text+=dType+"("+tokens[src-1]+"-"+str(src)+", "+tokens[target-1]+"-"+str(target)+")\n"
+        self.text+="""</div>\n\n"""
+        
 
     def readTabbingFig(self,textIn):
         while True:
