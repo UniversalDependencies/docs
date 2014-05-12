@@ -12,6 +12,8 @@ collections:
     output: true
   fi:
     output: true
+  usd:
+    output: true
 
 excerpt_separator: "\n\n"
 

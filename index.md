@@ -32,7 +32,7 @@ format. For example, the above visualization is generated from this input:
 
 * English relations: [index](en-index.html), [all](en-all.html) (merged)
 * Finnish relations: [index](fi-index.html), [all](fi-all.html) (merged)
-* [Universal Stanford Dependencies](usd/index.html)
+* Universal Stanford Dependencies: [index](usd-index.html), [all](usd-all.html) (merged)
 
 # How to contribute
 
