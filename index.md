@@ -45,7 +45,6 @@ The rest is taken care of by GitHub. Project members can contribute by
 directly editing the sources, others are more than welcome to submit
 their additions as pull requests.
 
-
 ## More information:
 
 The following sources of documentation provide further details:
