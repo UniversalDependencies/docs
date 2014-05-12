@@ -16,9 +16,10 @@
     <div id="main" class="center">
 
       <div id="hp-header">
-          <span class="header-text"><a href="http://fginter.github.io/sdmanualtest">home</a></span>
+          <span class="header-text"><a href="{{ site.home }}">home</a></span>
 {% if page.generated != 'true' %}
-          <span class="header-text"><a href="https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages{{ page.url | replace: '.html', '.md' }}">page source</a></span>
+          <span class="header-text"><a href="{{ site.git_raw }}/{{ page.url | replace: '/en/', '/_en/' | replace: '/fi/', '/_fi/' | remove_first:'/' | replace: '.html', '.md' }}">page source</a></span>
+          <span class="header-text"><a href="{{ site.git_edit }}/{{ page.url | replace: '/en/', '/_en/' | replace: '/fi/', '/_fi/' | remove_first:'/' | replace: '.html', '.md' }}">edit page</a></span>
 {% endif %}
       </div>
 

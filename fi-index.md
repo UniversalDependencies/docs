@@ -9,6 +9,6 @@ Finnish grammatical relations. Introductory content TODO.
 
 <ul>
 {% for p in site.fi %}
-  <li><a href="{{ p.url }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>

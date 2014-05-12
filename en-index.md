@@ -14,6 +14,6 @@ Marneffe and Manning 2008).
 
 <ul>
 {% for p in site.en %}
-  <li><a href="{{ p.url }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>

@@ -6,9 +6,17 @@ kramdown:
 permalink:    date
 safe:         true
 markdown_ext: md
+
 collections:
   en:
     output: true
   fi:
     output: true
+
 excerpt_separator: "\n\n"
+
+# URL configuration
+
+home: "http://fginter.github.io/sdmanualtest/"
+git_raw: "https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages"
+git_edit: "https://github.com/fginter/sdmanualtest/edit/gh-pages"
