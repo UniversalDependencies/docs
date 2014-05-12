@@ -5,6 +5,8 @@ title:  'Online dependency annotation manual'
 
 # Online dependency annotation manual with visualizations
 
+jekyll regen test
+
 This is an online dependency annotation manual and example bank, built
 using a combination of GitHub pages and embedded brat
 visualizations. Here's a minimal example:
