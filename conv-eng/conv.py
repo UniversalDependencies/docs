@@ -17,8 +17,10 @@ oneDepFig="""
 header="""\
 ---
 layout: base
-title:  'English grammatical relations'
+title:  '%(relname)s'
+shortdef : '%(shortdef)s'
 ---
+
 """
 
 footer=""
@@ -29,6 +31,13 @@ relRe=re.compile(r"\{\\emph\{(.*?)\}:\s+(.*)\}\\\\$") #matches "advcl" and "adve
 ### tabbing fig text
 ### \> ``Sam took out  a 3 million dollar loan'' \> \> \emph{amod}(loan, dollar)\\
 tabFigLine=re.compile(r"\\> +``(.*?)'' +\\> *\\> +\\emph\{(.*?)\}\((.*?), ?(.*?)\) *\\\\")
+
+### \begin{deptext}[column sep=0.2em] Sam \&, \& my \& brother \& , \& arrived \\ \end{deptext}
+depTextRe=re.compile(r"\\begin\{deptext\}(\[.*?\])? *(.*?)\\end\{deptext\}")
+#\depedge[edge unit distance=0.5ex]{1}{4}{appos}
+depEdgeRe=re.compile(r"\\depedge(\[.*?\])?\{([0-9]+)\}\{([0-9]+)\}\{(.*?)\}")
+
+punctRe=re.compile(r"([.,!?])(?=( |$))")
 
 
 class Relation:
@@ -41,10 +50,30 @@ class Relation:
         self.text=depRelHeader%(name,definition)
 
     def readDepFig(self,textIn):
+# \begin{dependency}
+#    \begin{deptext}[column sep=0.2em]
+#       Sam \&, \& my \& brother \& , \& arrived \\
+#    \end{deptext}
+#    \depedge[edge unit distance=0.5ex]{1}{4}{appos}
+# \end{dependency}
+        lines=""
         while True:
             line=textIn.next().strip()
             if line==r"\end{dependency}":
                 break
+            lines+=" "+line
+        m=depTextRe.search(lines)
+        tokens=[t.strip() for t in m.group(2).replace(r"\\","").strip().split(r"\&")]
+        txt=" ".join(tokens)
+        self.text+="""\n\n<div class="sd-parse">\n"""
+        self.text+=txt+"\n"
+        for m in depEdgeRe.finditer(lines):
+            src=int(m.group(2))
+            target=int(m.group(3))
+            dType=m.group(4)
+            self.text+=dType+"("+tokens[src-1]+"-"+str(src)+", "+tokens[target-1]+"-"+str(target)+")\n"
+        self.text+="""</div>\n\n"""
+        
 
     def readTabbingFig(self,textIn):
         while True:
@@ -53,7 +82,14 @@ class Relation:
                 continue
             match=tabFigLine.match(line)
             if match:
-                self.text+=oneDepFig%tuple(match.groups())
+                txt,dType,g,d=match.groups()
+                print >> sys.stderr, txt
+                txt=punctRe.sub(r" \1",txt).replace(r"\\","")
+                g=g.replace("\\","")
+                d=d.replace("\\","")
+                print >> sys.stderr, txt
+                print >> sys.stderr
+                self.text+=oneDepFig%(txt,dType,g,d)
                 continue
             if line==r"\end{tabbing}":
                 return
@@ -102,8 +138,11 @@ while True:
     if currRel:
         currRel.text+=line+" "
 
-print header
 for r in sorted(relations):
-    print relations[r].getText()
-print footer
+    f=open("../_en/"+r+".md","wt")
+    print >> f, header%{"relname":r,"shortdef":relations[r].definition}
+    print >> f, relations[r].getText()
+    print >> f, footer
+    f.close()
+
 
