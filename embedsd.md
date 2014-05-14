@@ -174,9 +174,3 @@ matches the `id` of the example:
 
 As a result, any "#" character in the link text is replaced with the
 sequence number of the corresponding example.
-
-Some issues/limitations remain in the current linking implementation:
-
-* the sequence number appearing on the visualization is always "1"
-* "#" characters only resolve into numbers when linking to the same
-  page
