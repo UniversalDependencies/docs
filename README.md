@@ -1,4 +1,4 @@
-SD manual test
-==============
+Universal Dependencies online documentation
+===========================================
 
-The manual is online [here](http://universaldependencies.github.io/docs/).
+The Universal Dependencies manual is online [here](http://universaldependencies.github.io/docs/).
