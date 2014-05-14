@@ -140,6 +140,9 @@
 	    text = m[1], POS = m[2];
 	}
 
+	// apply defined backslash escape sequences
+	text = text.replace(/((?:[^\\]+|\\.)*?)\\n/g, '$1\n');
+
 	// unescape backslash escapes in text and tag
 	text = text.replace(/([^\\]*)\\(.)/g, '$1$2');
 	POS = POS.replace(/([^\\]*)\\(.)/g, '$1$2');
@@ -166,23 +169,26 @@
 	var lines = sd.split('\n');
 
 	// first line is assumed to be sentence text
-	var text = lines[0];
-	text = normalizeSpace(text);
+	var sentence_text = lines[0];
+	sentence_text = normalizeSpace(sentence_text);
 
 	// determine token offsets and construct spans ("entities")
-	var tokens = text.split(' '),
+	var tokens = sentence_text.split(' '),
             spans = [],
             offset = 0,
             error = false;
+	sentence_text = '';
 	for (var i=0; i<tokens.length; i++) {
 	    var text_POS = parseToken(tokens[i]);
 	    var text = text_POS[0], POS = text_POS[1];
 	    var length = text.length;
-	    spans.push(['T'+(i+1), POS, [[offset, offset+length]]]);
-	    tokens[i] = text;
+	    if (!text.match(/^\s*$/)) { // skip space-only (e.g. newline)
+		spans.push(['T'+(i+1), POS, [[offset, offset+length]]]);
+		tokens[i] = text;
+	    }
 	    offset += length + 1;
+	    sentence_text += text + ' ';
 	}
-	text = tokens.join(' ');
 
 	var tokenIndex = function(t) {
 	    // accept two formats: indexed ('dog-1') and simple ('dog')
@@ -248,7 +254,7 @@
 	log('SD parse done: '+spans.length+' tokens, '+relations.length+' dependencies.');
           
 	return {
-	    'text': text,
+	    'text': sentence_text,
 	    'entities' : spans,
             'relations' : relations,
 	    'error' : error
@@ -446,7 +452,7 @@
 		parse_error = true;
             }
 
-	    console.log(parse_error);
+	    // console.log(parse_error);
 
 	    if (!parse_error) {
                 inputArea.css({'border': '2px inset'});
