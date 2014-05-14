@@ -102,6 +102,22 @@ Any literal slashes ("/") can be escaped using backslash.
 nsubj(escapes, \)
 </div>
 
+## Multiple lines of text
+
+The literal sequence `\n` in the SD input text is interpreted as a
+newline. (This sequence should be separated by space from the rest of
+the input.)
+
+    <div class="sd-parse">
+    One line \n and another.
+    <div>
+
+gives:
+
+<div class="sd-parse">
+One line \n and another.
+</div>
+
 ## Editing
 
 Controls for visualization editing and information is accessible in
