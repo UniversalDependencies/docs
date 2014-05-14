@@ -19,7 +19,6 @@ excerpt_separator: "\n\n"
 
 # URL configuration
 
-#home: "http://fginter.github.io/sdmanualtest/"
-home: "http://spyysalo.github.io/sdmanual/"
-git_raw: "https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages"
-git_edit: "https://github.com/fginter/sdmanualtest/edit/gh-pages"
+home: "http://universaldependencies.github.io/docs/"
+git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
+git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"
