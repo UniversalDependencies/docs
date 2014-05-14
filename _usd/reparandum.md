@@ -1,8 +1,8 @@
 ---
 layout: base
 title: 'reparandum'
-shortdef: ''
+shortdef: 'TODO'
 ---
 
-## reparandum:
+## reparandum: TODO
 
