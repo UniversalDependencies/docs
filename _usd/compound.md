@@ -1,9 +1,8 @@
 ---
 layout: base
 title: 'compound'
-shortdef: ''
+shortdef: 'TODO'
 ---
 
 ## compound: TODO
 
-TODO
