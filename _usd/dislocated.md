@@ -1,10 +1,10 @@
 ---
 layout: base
 title: 'dislocated'
-shortdef: 'TODO'
+shortdef: 'dislocated'
 ---
 
-## dislocated: TODO
+## dislocated: dislocated
 
 The *dislocated* relation captures preposed (topics) and postposed
 elements.
