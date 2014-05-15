@@ -1,15 +1,24 @@
 ---
 layout: base
-title:  'Online dependency annotation manual'
+title:  'Universal Dependencies'
 ---
 
-# Online dependency annotation manual with visualizations
+# Universal Dependencies
 
-This is an online dependency annotation manual and example bank, built
-using a combination of GitHub pages and embedded brat
-visualizations. Here's a minimal example:
+This is the online documentation and example bank for Universal
+Dependencies.
 
-<div style="border:1px solid gray;margin:1em;padding:2em 2em 0.5em 2em;">
+* English relations: [index](en-index.html), [all](en-all.html) (merged)
+* Finnish relations: [index](fi-index.html), [all](fi-all.html) (merged)
+* Universal Dependencies: [index](usd-index.html), [all](usd-all.html) (merged)
+
+## Introduction
+
+This online repository contains dependency annotation documentation
+and visualizations, built using a combination of Jekyll, GitHub pages
+and embedded brat visualizations. Here's a minimal example:
+
+<div class="example">
 
 An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
 
@@ -20,30 +29,23 @@ acomp(looks, beautiful)
 
 </div>
 
-The data for the visualizations is represented in either the [Stanford Dependency](http://nlp.stanford.edu/software/stanford-dependencies.shtml) or CoNLL-X
-format. For example, the above visualization is generated from this input:
+The text is Markdown (with optional inline HTML) and the data for the
+visualizations is represented in either the Stanford Dependency or
+CoNLL-X format. For example, the above visualization is generated from
+this input:
 
     <div class="sd-parse">
     She looks very beautiful
     acomp(looks, beautiful)
     </div>
 
-# Per-language documentation
+See the [links below](#more-information) for more information.
 
-* English relations: [index](en-index.html), [all](en-all.html) (merged)
-* Finnish relations: [index](fi-index.html), [all](fi-all.html) (merged)
-* Universal Stanford Dependencies: [index](usd-index.html), [all](usd-all.html) (merged)
+## How to contribute
 
-# How to contribute
-
-[This page](embedsd.html) shows how the examples are created. The
-manual consists of markdown pages in [this GitHub
-project](https://github.com/fginter/sdmanualtest), where you can see
-the full sources. For example, `index.md`, the source for this page is
-[here](https://raw.githubusercontent.com/fginter/sdmanualtest/gh-pages/index.md).
-The rest is taken care of by GitHub. Project members can contribute by
-directly editing the sources, others are more than welcome to submit
-their additions as pull requests.
+See [here](contributing.html) for instructions on how to contribute to
+this online documentation. [This page](embedsd.html) provides details
+on how the visualized examples are created.
 
 ## More information:
 

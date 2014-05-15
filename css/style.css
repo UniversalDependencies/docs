@@ -398,3 +398,9 @@ td.support-no {
   padding: 1px 4px;
   font-size: 9px;
 }
+
+div.example {
+  border: 1px solid gray;
+  margin:1em;
+  padding:2em 2em 0.5em 2em;
+}
