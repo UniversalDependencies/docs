@@ -138,6 +138,9 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
 <tr>
   <td><a href="usd/case.html">case</a></td>
 </tr>
+<tr>
+  <td>↳ <a href="usd/poss.html">poss</a></td>
+</tr>
 <tr><td colspan="3"><hr></td></tr>
 
 <tr><td colspan="3"><b>Loose joining relations</b></td></tr>
