@@ -34,6 +34,8 @@ Link: [link text](http://www.example.com)
 
 *italics* and **bold**
 
+`inline code`
+
 ----------
 
 # Some visualizations
