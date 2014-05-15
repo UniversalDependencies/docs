@@ -6,6 +6,8 @@ shortdef : 'None'
 
 ## acomp (adjectival complement)
 
-The dependency type `acomp` is used for adjectival complements of verbs, except for predicatives. xxx
+this is a test to make a conflict
+
+The dependency type `acomp` is used for adjectival complements of verbs, except for predicatives.
 
 
