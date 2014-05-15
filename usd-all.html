@@ -100,7 +100,7 @@ appos(Sam-1, brother-4)</p>
 </div>
 
 <div class="sd-parse">
-  <p>Bill ( John &#8216;s cousin )
+  <p>Bill ( John ‘s cousin )
 appos(Bill-1, cousin-5)</p>
 </div>
 
@@ -112,7 +112,7 @@ appos(Corporation-4, ABC-6)</p>
 <h2 id="aux-auxiliary">aux: auxiliary</h2>
 
 <p>An auxiliary of a clause is a non-main verb of the clause, e.g., a
-modal auxiliary, or a form of &#8220;be&#8221;, &#8220;do&#8221; or &#8220;have&#8221; in a periphrastic
+modal auxiliary, or a form of “be”, “do” or “have” in a periphrastic
 tense.</p>
 
 <div class="sd-parse">
@@ -145,7 +145,191 @@ auxpass(killed, was)</p>
 auxpass(killed, got)</p>
 </div>
 
-<h2 id="case-todo">case: TODO</h2>
+<h2 id="case-case-marking">case: case marking</h2>
+
+<p>(from LREC paper)</p>
+
+<p>A major proposed change from the extant versions of SD is a new
+treatment of prepositions to provide a uniform analysis of
+prepositions and case in morphologically rich languages. The analysis
+we chose is to push all the way the design principle of having direct
+links between content words. We abandon treating a preposition as a
+mediator between a modified word and its object, and, instead, any
+case-marking element (including prepositions, postpositions, and
+clitic case markers) will be treated as a dependent of the noun it
+attaches to or introduces. The proposed analysis is shown in (2):
+<em>nmod</em> labels the relation between the two content words, whereas the
+preposition is now viewed as a <em>case</em> depending on its complement. In
+general, <em>nmod</em> expresses some form of oblique or adjunct relation
+further specified by the <em>case</em>.</p>
+
+<p>[TODO example numbering]</p>
+
+<div class="sd-parse">
+  <p>the Chair ‘s office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, ‘s-3)</p>
+</div>
+
+<div class="sd-parse">
+  <p>the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)</p>
+</div>
+
+<div class="sd-parse">
+  <p>le bureau du président \n the office of the_Chair
+det(bureau, le)
+nmod(bureau, président)
+case(président, du)</p>
+</div>
+
+<p>The treatment of case marking is illustrated in (3). In (3a), <em>at</em> in
+Hebrew is a separate token indicating an accusative object: the case
+marker depends on the object. In (3c), we show the analysis when case
+markers are morphemes. The case morpheme is not divided off the noun
+as a separate <em>case</em> dependent, but the noun as a whole is analyzed as
+a <em>nmod</em> of the verb. To overtly mark case, we include POS tags in the
+representation as shown in (3b) and (3d). We use the universal POS
+tagset from Petrov et al. (2012) to which we append case information.</p>
+
+<div class="sd-parse">
+  <p>wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
+dobj(wkfraiti-1, hsrj-3)
+case(hsrj-3, at-2)</p>
+</div>
+
+<div class="sd-parse">
+  <p>Ya/NOUN-NOM napisal/VERB pis’mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
+nsubj(napisal-2, Ya-1)
+dobj(napisal-2, pis’mo-3)
+nmod(napisal-2, perom-4)</p>
+</div>
+
+<p>This treatment provides parallelism between different constructions
+across and within languages. A good result is that we now have greater
+parallelism between prepositional phrases and subordinate clauses,
+which are in practice often introduced by a preposition, as in (4).</p>
+
+<div class="sd-parse">
+  <p>Sue left after the rehearsal
+nsubj(left-2, Sue-1)
+nmod(left-2, rehearsal-5)
+det(rehearsal-5, the-4)
+case(rehearsal-5, after-3)</p>
+</div>
+
+<div class="sd-parse">
+  <p>Sue left after we did
+nsubj(left-2, Sue-1)
+advcl(left-2, did-5)
+mark(did-5, after-3)
+nsubj(did-5, we-4)</p>
+</div>
+
+<p>We also obtain parallel constructions for the possessive alternation
+as shown in (2), for variant forms with case, a preposition or a
+postposition in Finnish, as shown in (5), and for the dative
+alternation where the prepositional construction gets a similar
+analysis to the double object construction, see (6).</p>
+
+<div class="sd-parse">
+  <p>etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+nmod(etsiä, johtolankaa)
+case(johtolankaa, ilman)</p>
+</div>
+
+<div class="sd-parse">
+  <p>etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+nmod(etsiä, taskulampun)
+case(taskulampun, kanssa)</p>
+</div>
+
+<div class="sd-parse">
+  <p>etsiä johtolangatta \n to_search clue.ABESSIVE
+nmod(etsiä, johtolangatta)</p>
+</div>
+
+<div class="sd-parse">
+  <p>give the children the toys
+dobj(give, toys)
+iobj(give, children)</p>
+</div>
+
+<div class="sd-parse">
+  <p>give the toys to the children
+dobj(give, toys)
+nmod(give, children)
+case(children, to)</p>
+</div>
+
+<div class="sd-parse">
+  <p>donner les_jouets aux enfants \n give the_toys to_the children
+dobj(donner-1, les_jouets-2)
+nmod(donner-1, enfants-4)
+case(enfants-4, aux-3)</p>
+</div>
+
+<p>Another advantage of this new analysis is that it provides a treatment
+of prepositional phrases that are predicative complements of “be” as
+in (7) that is consistent with the treatment of nominal predicative
+complements, as in (1).</p>
+
+<div class="sd-parse">
+  <p>Sue is in shape
+nsubj(shape-4, Sue-1)
+cop(shape-4, is-2)
+case(shape-4, in-3)</p>
+</div>
+
+<p>[TODO does this next paragraph belong here?]</p>
+
+<p>SD is a surface syntactic representation, which does not represent
+semantic roles. The semantic roles of modifiers are hard to categorize
+and hard to determine. We feel that there is a lot of use for a
+representation which works solely in terms of the overt role-marking
+resources of each language. This is supported by many rich
+language-particular traditions of grammatical analysis, whether via
+Sanskrit cases or the case particles on Japanese <em>bunsetsu</em>.</p>
+
+<p>Prepositions sometimes introduce a clause as their complement, e.g.,
+(8a). Following the principle that dependencies do mark where new
+clauses are introduced, this relation should have a different name
+from <em>nmod</em>, and we suggest calling it <em>ncmod</em> “nominalized clause
+modifier”. Under the proposed new analysis, the head of the modifier
+of <em>data</em> will be <em>upset</em>. The result will be the analysis in (8b).</p>
+
+<div class="sd-parse">
+  <p>We have no data about whether users are upset.</p>
+</div>
+
+<div class="sd-parse">
+  <p>data about whether users are upset
+ncmod(data-1, upset-6)
+case(upset-6, about-2)
+mark(upset-6, whether-3)
+nsubj(upset-6, users-4)
+cop(upset-6, are-5)</p>
+</div>
+
+<p>Another issue is what analysis to give to cases of stacked
+prepositions, such as <em>out of</em>. Our proposal is that all such cases
+should be regarded as some form of <em>mwe</em>, as in (9b).</p>
+
+<div class="sd-parse">
+  <p>Out of all this , something good will come.</p>
+</div>
+
+<div class="sd-parse">
+  <p>Out of all this … come
+mwe(Out-1, of-2)
+predet(this-4, all-3)
+case(this-4, Out-1)
+nmod(come-6, this-4)</p>
+</div>
 
 <h2 id="cc-coordination">cc: coordination</h2>
 
@@ -167,9 +351,9 @@ cc(left, And)</p>
 <p>A clausal complement of a verb or adjective is a dependent clause with
 an internal subject which functions like an object of the verb, or
 adjective.  Clausal complements for nouns are limited to complement
-clauses with a subset of nouns like &#8220;fact&#8221; or &#8220;report&#8221;.  We analyze
-them the same (parallel to the analysis of this class as &#8220;content
-clauses&#8221; in Huddleston and Pullum 2002). Such clausal complements are
+clauses with a subset of nouns like “fact” or “report”.  We analyze
+them the same (parallel to the analysis of this class as “content
+clauses” in Huddleston and Pullum 2002). Such clausal complements are
 usually finite (though there are occasional remnant English
 subjunctives).</p>
 
@@ -183,7 +367,7 @@ ccomp(says, like)</p>
 <h2 id="conj-conjunct">conj: conjunct</h2>
 
 <p>A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as &#8220;and&#8221;, &#8220;or&#8221;, etc.  We treat
+coordinating conjunction, such as “and”, “or”, etc.  We treat
 conjunctions asymmetrically: The head of the relation is the first
 conjunct and other conjunctions depend on it via the <em>conj</em> relation.</p>
 
@@ -194,6 +378,8 @@ conj(big, honest)</p>
 
 <h2 id="cop-copula">cop: copula</h2>
 
+<p>(from SD manual)</p>
+
 <p>A copula is the relation between the complement of a copular verb and
 the copular verb.  (We normally take a copula as a dependent of its
 complement; see the discussion in section~\ref{types}.)</p>
@@ -203,13 +389,52 @@ complement; see the discussion in section~\ref{types}.)</p>
 cop(man, is)</p>
 </div>
 
+<p>(from LREC paper)</p>
+
+<p>SD has advocated a treatment of the copula “be” where it is not the
+head of a clause, but rather the dependent of a lexical predicate, as
+in (1a). Such an analysis is motivated by the fact that many languages
+often or always lack an overt copula in such constructions, as in the
+Russian (1b). Similar constructions arise even in English if we
+consider so-called raising-to-object or small clause constructions.
+Under the basic analysis proposed for SD, the predicate complement is
+not linked to its subject argument, but in the enhanced representation
+(see below), the linkage is then parallel to the treatment in a zero
+copula language, as in (1c).</p>
+
+<p>[TODO example numbering]</p>
+
+<div class="sd-parse">
+  <p>Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)</p>
+</div>
+
+<div class="sd-parse">
+  <p>Ivan lučšij tancor \n Ivan best dancer
+nsubj(tancor, Ivan)
+amod(tancor, lučšij)</p>
+</div>
+
+<div class="sd-parse">
+  <p>I judge Ivan the best dancer
+nsubj(judge-2, I-1)
+dobj(judge-2, Ivan-3)
+xcomp(judge-2, dancer-6)
+det(dancer-6, the-4)
+amod(dancer-6, best-5)
+nsubj(dancer-6, Ivan-3)</p>
+</div>
+
 <h2 id="csubj-clausal-subject">csubj: clausal subject</h2>
 
 <p>A clausal subject is a clausal syntactic subject of a clause, i.e.,
 the subject is itself a clause. The governor of this relation might
 not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. In the two following
-examples, &#8220;what she said&#8221; is the subject.</p>
+examples, “what she said” is the subject.</p>
 
 <div class="sd-parse">
   <p>What she said makes sense
@@ -219,7 +444,7 @@ csubj(makes, said)</p>
 <h2 id="csubjpass-clausal-passive-subject">csubjpass: clausal passive subject</h2>
 
 <p>A clausal passive subject is a clausal syntactic subject of a passive
-clause. In the example below, &#8220;that she lied&#8221; is the subject.</p>
+clause. In the example below, “that she lied” is the subject.</p>
 
 <div class="sd-parse">
   <p>That she lied was suspected by everyone
@@ -271,6 +496,9 @@ discourse(is-2, :)-5)</p>
 
 <h2 id="dislocated-todo">dislocated: TODO</h2>
 
+<p>The <em>dislocated</em> relation captures preposed (topics) and postposed
+elements.</p>
+
 <h2 id="dobj-direct-object">dobj: direct object</h2>
 
 <p>The direct object of a VP is the noun phrase which is the (accusative)
@@ -283,7 +511,7 @@ dobj(gave, raise)</p>
 
 <h2 id="expl-expletive">expl: expletive</h2>
 
-<p>This relation captures an existential &#8220;there&#8221;. The main verb of the
+<p>This relation captures an existential “there”. The main verb of the
 clause is the governor.</p>
 
 <div class="sd-parse">
@@ -291,13 +519,18 @@ clause is the governor.</p>
 expl(is, There)</p>
 </div>
 
-<h2 id="foreign-todo">foreign: TODO</h2>
+<h2 id="foreign-foreign-words">foreign: foreign words</h2>
+
+<p>[TODO complete description, example(s)]</p>
+
+<p>We use <em>foreign</em> to label sequences of foreign words. These are given
+a linear analysis (head is left-most) as in UPDT.</p>
 
 <h2 id="goeswith-goes-with">goeswith: goes with</h2>
 
 <p>This relation links two parts of a word that are separated in text
 that is not well edited. We follow the treebank: The GW part is the
-dependent and the head is in some sense the &#8220;main&#8221; part, often the
+dependent and the head is in some sense the “main” part, often the
 second part.</p>
 
 <div class="sd-parse">
@@ -320,9 +553,9 @@ iobj(gave, me)</p>
 <h2 id="mark-marker">mark: marker</h2>
 
 <p>A marker is the word introducing a finite clause subordinate to
-another clause. For a complement clause, this will typically be &#8220;that&#8221;
-or &#8220;whether&#8221;. For an adverbial clause, the marker is typically a
-preposition like &#8220;while&#8221; or &#8220;although&#8221;. The mark is a dependent of the
+another clause. For a complement clause, this will typically be “that”
+or “whether”. For an adverbial clause, the marker is typically a
+preposition like “while” or “although”. The mark is a dependent of the
 subordinate clause head.</p>
 
 <div class="sd-parse">
@@ -374,8 +607,8 @@ neg(scientist, not)</p>
 </div>
 
 <div class="sd-parse">
-  <p>Bill does n&#8217;t drive
-neg(drive, n&#8217;t)</p>
+  <p>Bill does n’t drive
+neg(drive, n’t)</p>
 </div>
 
 <h2 id="nfincl-todo">nfincl: TODO</h2>
@@ -426,10 +659,10 @@ nummod($, 40)</p>
 
 <h2 id="parataxis-parataxis">parataxis: parataxis</h2>
 
-<p>The parataxis relation (from Greek for &#8220;place side by side&#8221;) is a
+<p>The parataxis relation (from Greek for “place side by side”) is a
 relation between the main verb of a clause and other sentential
-elements, such as a sentential parenthetical, a clause after a &#8220;:&#8221; or
-a &#8220;;&#8221;, or two sentences placed side by side without any explicit
+elements, such as a sentential parenthetical, a clause after a “:” or
+a “;”, or two sentences placed side by side without any explicit
 coordination or subordination.</p>
 
 <div class="sd-parse">
@@ -438,7 +671,7 @@ parataxis(left, said)</p>
 </div>
 
 <div class="sd-parse">
-  <p>Let &#8216;s face it we &#8216;re annoyed
+  <p>Let ‘s face it we ‘re annoyed
 parataxis(Let, annoyed)</p>
 </div>
 
@@ -466,13 +699,75 @@ relcl(man, love)</p>
 
 <h2 id="remnant-todo">remnant: TODO</h2>
 
-<h2 id="reparandum-todo">reparandum: TODO</h2>
+<p>(from LREC paper)</p>
+
+<p>The <em>remnant</em> relation is used to provide a treatment of ellipsis (in
+the case of gapping or stripping, where predicational or verbal
+material gets elided), something that was lacking in earlier versions
+of SD. It provides a basis for being able to reconstruct dependencies
+in the enhanced version of SD. For example, in (11), the <em>remnant</em>
+relations enable us to correctly retrieve the subjects and objects in
+the clauses with an elided verb.</p>
+
+<p>[TODO example numbering]</p>
+
+<div class="sd-parse">
+  <p>John won bronze , Mary silver , and Sandy gold
+nsubj(won-2, John-1)
+dobj(won-2, bronze-3)
+remnant(John-1, Mary-5)
+remnant(Mary-5, Sandy-9)
+remnant(bronze-3, silver-6)
+remnant(silver-6, gold-10)</p>
+</div>
+
+<p>In contrast, in right-node-raising (RNR) (12) and VP-ellipsis (13)
+constructions in which some kind of predicational or verbal material
+is still present, the remnant relation is not used. In RNR, the verbs
+are coordinated and the object is a dobj of the first verb. In
+VP-ellipsis, we keep the auxiliary as the head, as shown in (13).</p>
+
+<div class="sd-parse">
+  <p>John bought and ate an apple .
+nsubj(bought-2, John-1)
+cc(bought-2, and-3)
+conj(bought-2, ate-4)
+dobj(bought-2, apple-6)</p>
+</div>
+
+<div class="sd-parse">
+  <p>John will win gold and Mary will too
+nsubj(win-3, John-1)
+aux(win-3, will-2)
+dobj(win-3, gold-4)
+cc(win-3, and-5)
+conj(win-3, will-7)
+nsubj(will-7, Mary-6)
+advmod(will-7, too-8)</p>
+</div>
+
+<h2 id="reparandum-overridden-disfluency">reparandum: overridden disfluency</h2>
+
+<p>[TODO complete description]</p>
+
+<p>We use <em>reparandum</em> to indicate disfluencies overridden in a speech
+repair.</p>
+
+<div class="sd-parse">
+  <p>Go to the righ- to the left .
+nmod(Go-1, left-7)
+reparandum(left-7, righ-)
+case(righ-, to-2)
+det(righ-, the-3)
+case(left-7, to-5)
+det(left-7, the-6)</p>
+</div>
 
 <h2 id="root-root">root: root</h2>
 
 <p>The root grammatical relation points to the root of the sentence. A
-fake node &#8220;ROOT&#8221; is used as the governor. The ROOT node is indexed
-with &#8220;0&#8221;, since the indexation of real words in the sentence starts at
+fake node “ROOT” is used as the governor. The ROOT node is indexed
+with “0”, since the indexation of real words in the sentence starts at
 1.</p>
 
 <div class="sd-parse">
