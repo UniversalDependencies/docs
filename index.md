@@ -8,9 +8,34 @@ title:  'Universal Dependencies'
 This is the online documentation and example bank for Universal
 Dependencies.
 
-* English relations: [index](en-index.html), [all](en-all.html) (merged)
-* Finnish relations: [index](fi-index.html), [all](fi-all.html) (merged)
-* Universal Dependencies: [index](usd-index.html), [all](usd-all.html) (merged)
+Links to primary documentation and documentation status:
+
+<table id="indextable">
+<tr>
+  <th>Subset</th>
+  <th colspan="2">Documentation</th>
+  <th>Status</th>
+</tr>
+<tr>
+  <td class="right">English relations</td>
+  <td><a href="en-index.html">index page</a></td>
+  <td><a href="en-all.html">single document</a></td>
+  <td class="complete">First draft complete</td>
+</tr><tr>
+  <td class="right">Finnish relations</td>
+  <td><a href="fi-index.html">index page</a></td>
+  <td><a href="fi-all.html">single document</a></td>
+  <td class="complete">First draft complete</td>
+</tr><tr>
+  <td class="right">Universal Dependencies</td>
+  <td><a href="usd-index.html">index page</a></td>
+  <td><a href="usd-all.html">single document</a></td>
+  <td class="partial">Some relations TODO</td>
+</tr>
+</table>
+
+Next project milestone: complete first drafts of English, Finnish and
+Universal Dependencies documentation.
 
 ## Introduction
 

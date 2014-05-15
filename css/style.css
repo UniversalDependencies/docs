@@ -275,15 +275,15 @@ div.center {
   font-size: 13px;
 }
 
-td.support-ok {
+td.complete {
   background-color: lightgreen;
 }
 
-td.support-partial {
+td.partial {
   background-color: #F0F0B0;
 }
 
-td.support-no {
+td.none {
   background-color: #FF9090;
 }
 
@@ -403,4 +403,23 @@ div.example {
   border: 1px solid gray;
   margin:1em;
   padding:2em 2em 0.5em 2em;
+}
+
+#indextable {
+  margin-left: 3em;
+  margin-top: 2em;
+  /* border: 1px solid lightgray; */
+  font-size: 120%;
+}
+
+#indextable td, #indextable th {
+  padding: 5px;
+}
+
+#indextable td.right {
+  text-align: right;  
+}
+
+#indextable th {
+  border-bottom: 1px solid lightgray;
 }
