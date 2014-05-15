@@ -7,6 +7,7 @@ generated: 'true'
 The following table is imported from *Universal Stanford Dependencies:
 A cross-linguistic typology* (de Marneffe *et al.* 2014).
 
+<div style="float:left; padding: 10px">
 <table>
 <tr><td colspan="3"><hr></td></tr>
 
@@ -84,6 +85,13 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
 </tr>
 <tr><td colspan="3"><hr></td></tr>
 
+</table>
+</div>
+
+<div style="float:left; padding: 10px">
+<table>
+<tr><td colspan="3"><hr></td></tr>
+
 <tr><td colspan="3"><b>Noun dependents</b></td></tr>
 <tr>
   <td><i>Nominal dep</i></td>
@@ -149,6 +157,9 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
 <tr><td colspan="3"><hr></td></tr>
 
 </table>
+</div>
+
+<div style="clear: both"></div>
 
 Note: <i>nmod</i>, <i>ncmod</i>, <i>nfincl</i>, and <i>neg</i> appear
 in two places.
