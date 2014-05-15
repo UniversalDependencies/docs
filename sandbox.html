@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal Dependencies</title>
+    <title>Sandbox</title>
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,8 +18,8 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://raw.githubusercontent.com/universaldependencies/docs/pages-source/index.md">page source</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/index.md">edit page</a></span>
+          <span class="header-text"><a href="https://raw.githubusercontent.com/universaldependencies/docs/pages-source/sandbox.md">page source</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md">edit page</a></span>
 
       </div>
 
@@ -33,63 +33,61 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-dependencies">Universal Dependencies</h1>
+          <h1 id="sandbox">Sandbox</h1>
 
-<p>This is the online documentation and example bank for Universal
-Dependencies.</p>
+<p>This file is intended as a “sandbox” for trying out the editing
+features. Feel free to make changes by clicking the “edit page” link
+at the top. (You need to be a project member and logged in to GitHub
+for this to work.)</p>
+
+<p>(Please note: this page is public and shared with others, and its
+contents will be regularly reset. Don’t store anything you want to
+keep here.)</p>
+
+<hr />
+
+<h1 id="some-markdown">Some markdown</h1>
 
 <ul>
-  <li>English relations: <a href="en-index.html">index</a>, <a href="en-all.html">all</a> (merged)</li>
-  <li>Finnish relations: <a href="fi-index.html">index</a>, <a href="fi-all.html">all</a> (merged)</li>
-  <li>Universal Dependencies: <a href="usd-index.html">index</a>, <a href="usd-all.html">all</a> (merged)</li>
+  <li>bulleted</li>
+  <li>list</li>
 </ul>
 
-<h2 id="introduction">Introduction</h2>
+<ol>
+  <li>numbered</li>
+  <li>list</li>
+</ol>
 
-<p>This online repository contains dependency annotation documentation
-and visualizations, built using a combination of Jekyll, GitHub pages
-and embedded brat visualizations. Here’s a minimal example:</p>
+<p>Link: <a href="http://www.example.com">link text</a></p>
 
-<div class="example">
+<h1 id="header-1">header 1</h1>
 
-  <p>An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).</p>
+<h2 id="header-2">header 2</h2>
 
-  <div class="sd-parse">
-    <p>She looks very beautiful
-acomp(looks, beautiful)</p>
-  </div>
+<h3 id="header-3">header 3</h3>
 
+<p><em>italics</em> and <strong>bold</strong></p>
+
+<hr />
+
+<h1 id="some-visualizations">Some visualizations</h1>
+
+<div class="sd-parse">
+  <p>Just some tokens</p>
 </div>
 
-<p>The text is Markdown (with optional inline HTML) and the data for the
-visualizations is represented in either the Stanford Dependency or
-CoNLL-X format. For example, the above visualization is generated from
-this input:</p>
+<div class="sd-parse">
+  <p>Tokens/Noun with/Adpos POS/Noun</p>
+</div>
 
-<pre><code>&lt;div class="sd-parse"&gt;
-She looks very beautiful
-acomp(looks, beautiful)
-&lt;/div&gt;
-</code></pre>
+<div class="sd-parse">
+  <p>A dependency
+det(dependency, A)</p>
+</div>
 
-<p>See the <a href="#more-information">links below</a> for more information.</p>
-
-<h2 id="how-to-contribute">How to contribute</h2>
-
-<p>See <a href="contributing.html">here</a> for instructions on how to contribute to
-this online documentation. <a href="embedsd.html">This page</a> provides details
-on how the visualized examples are created.</p>
-
-<h2 id="more-information">More information:</h2>
-
-<p>The following sources of documentation provide further details:</p>
-
-<ul>
-  <li><a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a></li>
-  <li><a href="https://pages.github.com/">Github pages</a></li>
-  <li><a href="http://brat.nlplab.org/embed.html">Embedded brat</a></li>
-  <li><a href="http://nlp.stanford.edu/software/stanford-dependencies.shtml">Stanford Dependencies</a></li>
-</ul>
+<div class="sd-parse" tabs="yes">
+  <p>Dynamic visualization (click “edit!”)</p>
+</div>
 
 
       </div>

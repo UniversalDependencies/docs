@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal Dependencies</title>
+    <title>Contributing</title>
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,8 +18,8 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://raw.githubusercontent.com/universaldependencies/docs/pages-source/index.md">page source</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/index.md">edit page</a></span>
+          <span class="header-text"><a href="https://raw.githubusercontent.com/universaldependencies/docs/pages-source/contributing.md">page source</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/contributing.md">edit page</a></span>
 
       </div>
 
@@ -33,63 +33,250 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-dependencies">Universal Dependencies</h1>
+          <h1 id="how-to-contribute">How to contribute</h1>
 
-<p>This is the online documentation and example bank for Universal
-Dependencies.</p>
+<p>This page describes how to contribute to these online materials.</p>
+
+<p>Contents:</p>
 
 <ul>
-  <li>English relations: <a href="en-index.html">index</a>, <a href="en-all.html">all</a> (merged)</li>
-  <li>Finnish relations: <a href="fi-index.html">index</a>, <a href="fi-all.html">all</a> (merged)</li>
-  <li>Universal Dependencies: <a href="usd-index.html">index</a>, <a href="usd-all.html">all</a> (merged)</li>
+  <li><a href="#preliminaries">Preliminaries</a></li>
+  <li><a href="#editing">Editing</a>
+    <ul>
+      <li><a href="#file-format">File format</a></li>
+      <li><a href="#editing-online">Editing online</a></li>
+      <li><a href="#using-git">Using Git</a></li>
+    </ul>
+  </li>
+  <li><a href="#filing-issues">Filing issues</a></li>
+  <li><a href="#non-members">Non-members</a></li>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
 </ul>
 
-<h2 id="introduction">Introduction</h2>
+<h2 id="preliminaries">Preliminaries</h2>
 
-<p>This online repository contains dependency annotation documentation
-and visualizations, built using a combination of Jekyll, GitHub pages
-and embedded brat visualizations. Here’s a minimal example:</p>
+<p>The online documentation is stored in GitHub, a service for projects
+using the Git version control system. To contribute, you need a GitHub
+account.</p>
+
+<p>If you already have a GitHub account, just make sure you are logged in
+before moving on. If you do not, please go to
+<a href="https://github.com/join">https://github.com/join</a> and create an
+account first. (it’s free, only takes a minute, and there’s a
+reasonable <a href="https://help.github.com/articles/github-privacy-policy">privacy
+policy</a> in
+place.)</p>
+
+<p>After logging in to GitHub, see the following:</p>
+
+<ul>
+  <li><a href="#editing">How to edit the documentation</a></li>
+  <li><a href="#filing-issues">How to file bug reports, feature requests, etc.</a></li>
+</ul>
+
+<h2 id="editing">Editing</h2>
+
+<p>(Note: the following instructions are for project members. If you are
+not a member, see <a href="#non-members">here</a>)</p>
+
+<p>To get started with editing the materials, first read the brief <a href="#file-format">file
+format description</a> below. Then, the easiest way to edit
+the materials is to use the <a href="#editing-online">online editing features</a>
+provided by GitHub. If you prefer to use your own text editor or need
+to make larger changes, you may wish to <a href="#using-git">use the git version control
+system</a> and work on the files on your own computer.</p>
+
+<h3 id="file-format">File format</h3>
+
+<p>The online documentation is generated from a simple format that
+largely resembles plain text. Similarly, the embedded visualizations
+are generated from representations in the Stanford Dependency or
+CoNLL-X formats, each of which can be created and edited manually or
+copied in from the output of relevant tools.</p>
+
+<p>For example, the following:</p>
 
 <div class="example">
 
-  <p>An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).</p>
+  <p>A copula is the relation between the complement of a copular verb and the copular verb.</p>
 
   <div class="sd-parse">
-    <p>She looks very beautiful
-acomp(looks, beautiful)</p>
+    <p>Bill is an honest man
+cop(man, is)</p>
   </div>
+
+  <p>The following are considered copular verbs:</p>
+
+  <ul>
+    <li>appear</li>
+    <li>be</li>
+    <li>become</li>
+    <li>[…]</li>
+  </ul>
 
 </div>
 
-<p>The text is Markdown (with optional inline HTML) and the data for the
-visualizations is represented in either the Stanford Dependency or
-CoNLL-X format. For example, the above visualization is generated from
-this input:</p>
+<p>is generated from this input:</p>
 
-<pre><code>&lt;div class="sd-parse"&gt;
-She looks very beautiful
-acomp(looks, beautiful)
+<pre><code>A copula is the relation between the complement of a copular verb and the copular verb.
+
+&lt;div class="sd-parse"&gt;
+Bill is an honest man
+cop(man, is)
 &lt;/div&gt;
+
+The following are considered copular verbs:
+
+* appear
+* be
+* become
+* [...]
 </code></pre>
 
-<p>See the <a href="#more-information">links below</a> for more information.</p>
+<p>The input is primarily in the
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a> format, which
+can be mostly written like plain text and mixed freely with inline
+HTML. The only exception is the format used for embedding
+visualizations, which is supported as an extension specific to this
+project. To embed a visualization represented in the Stanford
+Dependency format, simply wrap it in the HTML tags <code>&lt;div
+class="sd-parse"&gt;</code> and <code>&lt;/div&gt;</code> as in the example above.</p>
 
-<h2 id="how-to-contribute">How to contribute</h2>
+<p>For more detail, you can see the documentation for the <a href="http://daringfireball.net/projects/markdown/syntax">Markdown
+syntax</a> and
+<a href="embedsd.html">Embedded visualizations</a>. However, we believe that the
+formats are simple enough to learn by example and by doing, and
+suggest to proceed directly to the next section (editing).</p>
 
-<p>See <a href="contributing.html">here</a> for instructions on how to contribute to
-this online documentation. <a href="embedsd.html">This page</a> provides details
-on how the visualized examples are created.</p>
+<h3 id="editing-online">Editing online</h3>
 
-<h2 id="more-information">More information:</h2>
+<p>GitHub provides basic online editing functionality. The interface
+looks something like this:</p>
 
-<p>The following sources of documentation provide further details:</p>
+<p><img style="border: 1px solid lightgray" src="img/gh-edit.png" /></p>
+
+<p>To get started, the only relevant parts are the large black edit area
+and the “Cancel” and “Commit changes” buttons at the bottom.</p>
+
+<p>To give this a quick try, click on the following link: <a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit sandbox document</a>. This opens a “sandbox” document
+in a new tab. After testing it out, feel free to either cancel without
+saving your changes, or save them into the version control system
+using the “Commit changes” button. You can see the resulting document
+<a href="http://universaldependencies.github.io/docs/sandbox.html">here</a>
+(reload to see changes, and please note it may take some time for the
+changes to show up.)</p>
+
+<p>For experimenting with the system, we recommend using the sandbox
+document instead of the “real” documents.</p>
+
+<p>To edit the actual documentation, first find the page you’re
+interested in. For example, to navigate to the documentation for the
+English language <code>dobj</code> (direct object) dependency:</p>
 
 <ul>
-  <li><a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a></li>
-  <li><a href="https://pages.github.com/">Github pages</a></li>
-  <li><a href="http://brat.nlplab.org/embed.html">Embedded brat</a></li>
-  <li><a href="http://nlp.stanford.edu/software/stanford-dependencies.shtml">Stanford Dependencies</a></li>
+  <li>Start from the homepage (<a href="http://universaldependencies.github.io/docs/">http://universaldependencies.github.io/docs/</a>)</li>
+  <li>Click on the “English relations index” link (go to <a href="http://universaldependencies.github.io/docs/en-index.html">http://universaldependencies.github.io/docs/en-index.html</a>)</li>
+  <li>Click on the “dobj” link (go to <a href="http://universaldependencies.github.io/docs/en/dobj.html">http://universaldependencies.github.io/docs/en/dobj.html</a>)</li>
 </ul>
+
+<p>Then, edit and save your changes:</p>
+
+<ul>
+  <li>Click on the “edit page” link on the top</li>
+  <li>Make your changes in the GitHub editor</li>
+  <li>(Optional: add a message describing your changes in the “Commit changes” box)</li>
+  <li>Click on “Commit changes”</li>
+</ul>
+
+<p>Finally, wait a moment for your revisions to the documentation to be
+compiled (normally no more than 10 seconds) and reload the
+documentation page to make sure they look right.</p>
+
+<p>That’s all you need to get started. If you have any issues using the
+system, please see the <a href="#troubleshooting">troubleshooting</a> section
+below.</p>
+
+<h3 id="using-git">Using Git</h3>
+
+<p>As an alternative to using the <a href="#editing-online">online editing
+features</a>, you can also edit the materials using the
+Git version control system as described in this section.</p>
+
+<p>If you are not previously familiar with Git, please see <a href="https://help.github.com/articles/set-up-git">GitHub
+instructions</a> on setup
+and basic use. The rest of this section assumes that you have git set
+up and are working on a terminal in a unix-like environment. For other
+use cases, please see GitHub documentation.</p>
+
+<p>The project materials are found in the repository
+https://github.com/universaldependencies/docs . To check out these
+materials from GitHub, run the following command:</p>
+
+<pre><code>git clone git@github.com:UniversalDependencies/docs.git
+</code></pre>
+
+<p>If successful, this will create the subdirectory <code>docs/</code> containing
+the data of the repository in your current directory. You can then
+edit the files in the repository normally, using your favorite text
+editor. After completing a set of changes, you can commit the changes
+with the command</p>
+
+<pre><code>git commit -a
+</code></pre>
+
+<p>and push them to the shared online repository with</p>
+
+<pre><code>git push
+</code></pre>
+
+<p>if you see the error <code>error: failed to push some refs</code>, it’s likely
+that others pushed changes to the shared online repository while you
+were working. You can retrieve these changes and merge them with
+yours with the command</p>
+
+<pre><code>git pull
+</code></pre>
+
+<p>This covers the very basics only. Please see the extensive materials
+available online at GitHub and elsewhere for details.</p>
+
+<p>Technical note: please <strong>do not</strong> commit anything into the <code>gh-pages</code>
+branch of the repository. The files in this branch are autogenerated
+and will be overwritten on any changes to the repository. (If this
+note makes no sense to you, don’t worry – you cannot do this by
+accident.)</p>
+
+<h2 id="filing-issues">Filing issues</h2>
+
+<p>To file bug reports, feature requests, suggestions for improvement,
+etc., you can use the project issue tracker: <a href="https://github.com/universaldependencies/docs/issues">https://github.com/universaldependencies/docs/issues</a>.</p>
+
+<p>The issue tracker is open to members and non-members alike, and can be
+used to let (other) project members know of any issue with the online
+documentation, including technical problems, mistakes in the
+descriptions or examples, or suggestions for how to improve any aspect
+of the project.</p>
+
+<h2 id="non-members">Non-members</h2>
+
+<p>Although only members of this project can directly edit the online
+materials, you do not need to be a member to contribute. Non-members
+can either <a href="#filing-issues">file issues</a> on the project bug tracker,
+or submit proposed changes as <a href="https://help.github.com/articles/using-pull-requests">pull
+requests</a>.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="http://universaldependencies.github.io/docs/">Home page</a></li>
+  <li><a href="https://github.com/universaldependencies/docs">GitHub repository</a></li>
+  <li><a href="https://github.com/universaldependencies/docs/issues">Issue tracker</a></li>
+</ul>
+
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+<p>No trouble reported yet. If you have any, just ask Sampo
+(sampo.pyysalo@gmail.com) or Filip (fginter@cs.utu.fi)!</p>
 
 
       </div>
