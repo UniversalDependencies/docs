@@ -78,18 +78,18 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
 </tr>
 <tr><td colspan="3"><hr></td></tr>
 
-<tr><td colspan="3"><b>Coordination</b></td></tr>
-<tr>
-  <td><a href="usd/conj.html">conj</a></td>
-  <td><a href="usd/cc.html">cc</a></td>
-</tr>
-<tr><td colspan="3"><hr></td></tr>
-
 </table>
 </div>
 
 <div style="float:left; padding: 10px">
 <table>
+<tr><td colspan="3"><hr></td></tr>
+
+<tr><td colspan="3"><b>Coordination</b></td></tr>
+<tr>
+  <td><a href="usd/conj.html">conj</a></td>
+  <td><a href="usd/cc.html">cc</a></td>
+</tr>
 <tr><td colspan="3"><hr></td></tr>
 
 <tr><td colspan="3"><b>Noun dependents</b></td></tr>
@@ -125,6 +125,13 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
   <td><a href="usd/name.html">name</a></td>
   <td><a href="usd/foreign.html">foreign</a></td>
 </tr>
+<tr><td colspan="3"><hr></td></tr>
+
+</table>
+</div>
+
+<div style="float:left; padding: 10px">
+<table>
 <tr><td colspan="3"><hr></td></tr>
 
 <tr><td colspan="3"><b>Case-marking, prepositions, possessive</b></td></tr>
