@@ -104,7 +104,7 @@ class="sd-parse">` and `</div>` as in the example above.
 
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
-[Embedded visualizations](embedsd.html). However, we believe that the
+[embedded visualizations](embedsd.html). However, we believe that the
 formats are simple enough to learn by example and by doing, and
 suggest to proceed directly to the next section (editing).
 
@@ -167,8 +167,8 @@ up and are working on a terminal in a unix-like environment. For other
 use cases, please see GitHub documentation.
 
 The project materials are found in the repository
-https://github.com/universaldependencies/docs . To check out these
-materials from GitHub, run the following command:
+[https://github.com/universaldependencies/docs](https://github.com/universaldependencies/docs).
+To check out these materials from GitHub, run the following command:
 
     git clone git@github.com:UniversalDependencies/docs.git
 
