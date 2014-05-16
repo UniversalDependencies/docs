@@ -423,3 +423,23 @@ div.example {
 #indextable th {
   border-bottom: 1px solid lightgray;
 }
+
+table.typeindex {
+  vertical-align: top;
+  border-collapse:collapse;
+}
+
+table.typeindex td {
+  vertical-align:top;
+  border: 1px solid lightgray;
+}
+
+table.category {
+  margin: 1em;
+  width: 100%;
+}
+
+table.category td {
+  border: none;
+}
+
