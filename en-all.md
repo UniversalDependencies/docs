@@ -10,5 +10,10 @@ manual](http://nlp.stanford.edu/software/dependencies_manual.pdf)* (de
 Marneffe and Manning 2008).
 
 {% for p in site.en %}
+{% if p.content contains "<!--details-->" %}    
+{{ p.content | split:"<!--details-->" | first }}
+<a href="{{ p.url }}">See details</a>
+{% else %}
 {{ p.content }}
+{% endif %}
 {% endfor %}
