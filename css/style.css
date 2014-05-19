@@ -5,6 +5,16 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin&effect=smoothing);
 
+/* override sentence number text style from brat style-vis.css */
+.sentnum text {
+  display: none;
+}
+
+/* override sentence number separator line style from brat style-vis.css */
+.sentnum path {
+  display: none;
+}
+
 img.bordered {
   border: 1px solid black;
 }
