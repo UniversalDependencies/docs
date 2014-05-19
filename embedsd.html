@@ -55,8 +55,8 @@ nsubj(run, Dogs)
 <p>which results in this embedded visualization:</p>
 
 <div id="simple-example-parse" class="sd-parse">
-  <p>Dogs run
-nsubj(run, Dogs)</p>
+Dogs run
+nsubj(run, Dogs)
 </div>
 
 <p>The CoNLL-X format is also supported. For example,</p>
@@ -70,8 +70,8 @@ nsubj(run, Dogs)</p>
 <p>gives</p>
 
 <div class="conllx-parse">
-  <p>1    Dogs   dog    _    NNS    _    2    nsubj
-2    run    run    _    VBP    _    0    ROOT</p>
+1    Dogs   dog    _    NNS    _    2    nsubj
+2    run    run    _    VBP    _    0    ROOT
 </div>
 
 <p>You can have any number of visualizations on a page, and any
@@ -109,7 +109,7 @@ prep(part, of)
 </code></pre>
 
 <div class="sd-parse">
-  <p>POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
+POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
 dep(tags-2, POS-1)
 nsubjpass(attached-5, tags-2)
 aux(attached-5, can-3)
@@ -119,7 +119,7 @@ det(text-14, the-12)
 nn(text-14, sentence-13)
 pobj(to-6, text-14)
 det(part, any)
-prep(part, of)</p>
+prep(part, of)
 </div>
 
 <p>Any literal slashes (“/”) can be escaped using backslash.</p>
@@ -131,8 +131,8 @@ prep(part, of)</p>
 </code></pre>
 
 <div class="sd-parse">
-  <p>\/\ escapes/VBZ :/: \o\//\o\/
-nsubj(escapes, )</p>
+\\/\\ escapes/VBZ :/: \\o\//\\o\/
+nsubj(escapes, \)
 </div>
 
 <h2 id="multiple-lines-of-text">Multiple lines of text</h2>
@@ -149,7 +149,7 @@ One line \n and another.
 <p>gives:</p>
 
 <div class="sd-parse">
-  <p>One line \n and another.</p>
+One line \n and another.
 </div>
 
 <h2 id="editing">Editing</h2>
@@ -167,8 +167,8 @@ nsubj(run, Dogs)
 <p>This gives:</p>
 
 <div id="simple-example-parse" class="sd-parse" tabs="yes">
-  <p>Dogs run
-nsubj(run, Dogs)</p>
+Dogs run
+nsubj(run, Dogs)
 </div>
 
 <p>You can click on the tab on the top right to edit the visualization,
@@ -187,9 +187,9 @@ nommod(入れる, 東大に)
 </code></pre>
 
 <div class="sd-parse">
-  <p>ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
+ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
 nsubj(入れる, ロボットは)
-nommod(入れる, 東大に)</p>
+nommod(入れる, 東大に)
 </div>
 
 <h2 id="cross-references">Cross-references</h2>

@@ -54,25 +54,25 @@ further specified by the <em>case</em>.</p>
 <p>[TODO example numbering]</p>
 
 <div class="sd-parse">
-  <p>the Chair ‘s office
+the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
-case(Chair-2, ‘s-3)</p>
+case(Chair-2, 's-3)
 </div>
 
 <div class="sd-parse">
-  <p>the office of the Chair
+the office of the Chair
 det(office-2, the-1)
 nmod(office-2, Chair-5)
 case(Chair-5, of-3)
-det(Chair-5, the-4)</p>
+det(Chair-5, the-4)
 </div>
 
 <div class="sd-parse">
-  <p>le bureau du président \n the office of the_Chair
+le bureau du président \n the office of the_Chair
 det(bureau, le)
 nmod(bureau, président)
-case(président, du)</p>
+case(président, du)
 </div>
 
 <p>The treatment of case marking is illustrated in (3). In (3a), <em>at</em> in
@@ -85,16 +85,16 @@ representation as shown in (3b) and (3d). We use the universal POS
 tagset from Petrov et al. (2012) to which we append case information.</p>
 
 <div class="sd-parse">
-  <p>wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
+wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
 dobj(wkfraiti-1, hsrj-3)
-case(hsrj-3, at-2)</p>
+case(hsrj-3, at-2)
 </div>
 
 <div class="sd-parse">
-  <p>Ya/NOUN-NOM napisal/VERB pis’mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
+Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
 nsubj(napisal-2, Ya-1)
-dobj(napisal-2, pis’mo-3)
-nmod(napisal-2, perom-4)</p>
+dobj(napisal-2, pis'mo-3)
+nmod(napisal-2, perom-4)
 </div>
 
 <p>This treatment provides parallelism between different constructions
@@ -103,19 +103,19 @@ parallelism between prepositional phrases and subordinate clauses,
 which are in practice often introduced by a preposition, as in (4).</p>
 
 <div class="sd-parse">
-  <p>Sue left after the rehearsal
+Sue left after the rehearsal
 nsubj(left-2, Sue-1)
 nmod(left-2, rehearsal-5)
 det(rehearsal-5, the-4)
-case(rehearsal-5, after-3)</p>
+case(rehearsal-5, after-3)
 </div>
 
 <div class="sd-parse">
-  <p>Sue left after we did
+Sue left after we did
 nsubj(left-2, Sue-1)
 advcl(left-2, did-5)
 mark(did-5, after-3)
-nsubj(did-5, we-4)</p>
+nsubj(did-5, we-4)
 </div>
 
 <p>We also obtain parallel constructions for the possessive alternation
@@ -125,40 +125,40 @@ alternation where the prepositional construction gets a similar
 analysis to the double object construction, see (6).</p>
 
 <div class="sd-parse">
-  <p>etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
 nmod(etsiä, johtolankaa)
-case(johtolankaa, ilman)</p>
+case(johtolankaa, ilman)
 </div>
 
 <div class="sd-parse">
-  <p>etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+etsiä taskulampun kanssa \n to_search torch.GENITIVE with
 nmod(etsiä, taskulampun)
-case(taskulampun, kanssa)</p>
+case(taskulampun, kanssa)
 </div>
 
 <div class="sd-parse">
-  <p>etsiä johtolangatta \n to_search clue.ABESSIVE
-nmod(etsiä, johtolangatta)</p>
+etsiä johtolangatta \n to_search clue.ABESSIVE
+nmod(etsiä, johtolangatta)
 </div>
 
 <div class="sd-parse">
-  <p>give the children the toys
+give the children the toys
 dobj(give, toys)
-iobj(give, children)</p>
+iobj(give, children)
 </div>
 
 <div class="sd-parse">
-  <p>give the toys to the children
+give the toys to the children
 dobj(give, toys)
 nmod(give, children)
-case(children, to)</p>
+case(children, to)
 </div>
 
 <div class="sd-parse">
-  <p>donner les_jouets aux enfants \n give the_toys to_the children
+donner les_jouets aux enfants \n give the_toys to_the children
 dobj(donner-1, les_jouets-2)
 nmod(donner-1, enfants-4)
-case(enfants-4, aux-3)</p>
+case(enfants-4, aux-3)
 </div>
 
 <p>Another advantage of this new analysis is that it provides a treatment
@@ -167,10 +167,10 @@ in (7) that is consistent with the treatment of nominal predicative
 complements, as in (1).</p>
 
 <div class="sd-parse">
-  <p>Sue is in shape
+Sue is in shape
 nsubj(shape-4, Sue-1)
 cop(shape-4, is-2)
-case(shape-4, in-3)</p>
+case(shape-4, in-3)
 </div>
 
 <p>[TODO does this next paragraph belong here?]</p>
@@ -191,16 +191,16 @@ modifier”. Under the proposed new analysis, the head of the modifier
 of <em>data</em> will be <em>upset</em>. The result will be the analysis in (8b).</p>
 
 <div class="sd-parse">
-  <p>We have no data about whether users are upset.</p>
+We have no data about whether users are upset.
 </div>
 
 <div class="sd-parse">
-  <p>data about whether users are upset
+data about whether users are upset
 ncmod(data-1, upset-6)
 case(upset-6, about-2)
 mark(upset-6, whether-3)
 nsubj(upset-6, users-4)
-cop(upset-6, are-5)</p>
+cop(upset-6, are-5)
 </div>
 
 <p>Another issue is what analysis to give to cases of stacked
@@ -208,15 +208,15 @@ prepositions, such as <em>out of</em>. Our proposal is that all such cases
 should be regarded as some form of <em>mwe</em>, as in (9b).</p>
 
 <div class="sd-parse">
-  <p>Out of all this , something good will come.</p>
+Out of all this , something good will come.
 </div>
 
 <div class="sd-parse">
-  <p>Out of all this … come
+Out of all this ... come
 mwe(Out-1, of-2)
 predet(this-4, all-3)
 case(this-4, Out-1)
-nmod(come-6, this-4)</p>
+nmod(come-6, this-4)
 </div>
 
 
