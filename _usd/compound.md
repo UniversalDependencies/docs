@@ -45,3 +45,5 @@ The two other compounding relations are:
 
 - *name* for proper nouns constituted of multiple nominal elements
 
+# TODO: add references to mwe and name
+
