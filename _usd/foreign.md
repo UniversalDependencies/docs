@@ -7,7 +7,7 @@ shortdef: 'foreign'
 ## foreign: foreign words
 
 We use *foreign* to label sequences of foreign words. These are given
-a linear analysis (head is left-most).
+a linear analysis: the head is the left-most token in the foreign phrase.
 
 <div class="sd-parse">
 I guess that c' est la vie
