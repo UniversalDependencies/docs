@@ -59,7 +59,7 @@ copied in from the output of relevant tools.
 
 For example, the following:
 
-<div class="example">
+<div class="example" markdown="1">
 
 A copula is the relation between the complement of a copular verb and the copular verb.
 

@@ -43,7 +43,7 @@ This online repository contains dependency annotation documentation
 and visualizations, built using a combination of Jekyll, GitHub pages
 and embedded brat visualizations. Here's a minimal example:
 
-<div class="example">
+<div class="example" markdown="1">
 
 An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
 
