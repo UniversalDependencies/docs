@@ -22,5 +22,5 @@ mwe(of, because)
 
 <div class="sd-parse">
 Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
-mwe(qu', plutôt)
+mwe(plutôt, qu')
 </div>
