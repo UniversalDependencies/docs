@@ -23,8 +23,8 @@ generated: 'true'
 	  <td><a href="fi/csubj-cop.html">↳csubj-cop</a></td>
 	</tr>
 	<tr>
-	  <td><a href="fi/nsubjpass.html"><strike>nsubjpass</strike></a></td>
-	  <td><a href="fi/csubjpass.html"><strike>csubjpass</strike></a></td>
+	  <td><strike>nsubjpass</strike></td>
+	  <td><strike>csubjpass</strike></td>
 	</tr>
 	<tr>
 	  <td><a href="fi/dobj.html">dobj</a></td>
@@ -37,7 +37,7 @@ generated: 'true'
 	  <td/>
 	</tr>
 	<tr>
-	  <td><a href="fi/iobj.html"><strike>iobj</strike></a></td>
+	  <td><strike>iobj</strike></td>
 	</tr>
       </table>
 
