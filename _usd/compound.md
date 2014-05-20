@@ -26,7 +26,7 @@ compound(thousand, four)
 </div>
 
 <div class="sd-parse">
-I lost \$ 3.2 billion
+I lost $ 3.2 billion
 compound(billion, 3.2)
 </div>
 
