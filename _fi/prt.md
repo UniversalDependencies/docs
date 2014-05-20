@@ -22,7 +22,7 @@ punct(hyvä-7, .-8)
 </div>
 
 
-Verb particles (see \cite[\S 455, \S 680]{isk}) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.
+Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=462">§462, p. 455</a> and <a href="">p. 658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.
 
 For instance, *laittaa kiinni* (*make closed, close*) is not a phrasal verb, as *kiinni* can be modified.
 
