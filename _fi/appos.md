@@ -6,7 +6,7 @@ shortdef : 'apposition'
 
 ## appos (apposition) <a name="sec-appos"></a>
 
-An *apposition* (`appos`) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function \cite[\S 1059]{isk}. Also structures with a *supporting noun* \cite[\S 567]{isk} are considered appositional. Appositional structures and the closely related *appellation modifiers* are discussed in detail in Section [appos-vs-nn](#sec-appos-vs-nn).
+An *apposition* (`appos`) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a *supporting noun* (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related *appellation modifiers* are discussed in detail in Section [appos-vs-nn](#sec-appos-vs-nn).
 
 
 <!-- fname:appos1.pdf -->

@@ -29,7 +29,7 @@ punct(notkui-3, .-5)
 </div>
 
 
-The second use of the type `nn` is to mark *appellation modifiers*, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property \cite[\S 1062]{isk}. The phenomenon is closely related to that of *apposition*, and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).
+The second use of the type `nn` is to mark *appellation modifiers*, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of *apposition*, and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).
 
 
 <!-- fname:nn_appellation.pdf -->

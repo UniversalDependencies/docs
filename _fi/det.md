@@ -6,7 +6,7 @@ shortdef : 'determiner'
 
 ## det (determiner)
 
-There are no definite or indefinite articles in the Finnish language, but there are other determiners (see for instance \cite[\S 1409]{isk}). In TDT, mostly pronouns are marked as *determiners* (`det`), because numerals, which can also be analyzed as determiner-like, are marked as *numeral modifiers* (`num, see Section [num](#sec-num)`), and genitive modifiers, also determiner-like, are marked with `poss` (Section [poss](#sec-poss)).
+There are no definite or indefinite articles in the Finnish language, but there are other determiners (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1409">§1409</a>). In TDT, mostly pronouns are marked as *determiners* (`det`), because numerals, which can also be analyzed as determiner-like, are marked as *numeral modifiers* (`num, see Section [num](#sec-num)`), and genitive modifiers, also determiner-like, are marked with `poss` (Section [poss](#sec-poss)).
 
 
 <!-- fname:det.pdf -->
