@@ -32,6 +32,8 @@ In contrast, *ottaa kiinni* (*catch*) is a phrasal verb, as it has a meaning dis
 
 *\*Poliisi otti rosvon kokonaan kiinni. (\*The police caught the robber entirely.)*
 
+<!--details-->
+
 The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)
 
 
