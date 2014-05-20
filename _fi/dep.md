@@ -20,6 +20,7 @@ advmod(eilen-6, jo-5)
 punct(tuli-4, .-7)
 </div>
 
+<!--details-->
 
 The following expressions are considered idiomatic, and their parts are to be combined with the dependency type `dep` in TDT. Note that this is not intended to be a closed list, but rather a list of examples encountered while annotating TDT. The two-part expressions that fall into the categories of coordinating and subordinating conjunctions are omitted here, and instead listed in Sections [cc](#sec-cc) and [mark](#sec-mark), respectively. Due to the idiomatic nature of these two-part expressions, the translations may on occasion not be very natural.
 
