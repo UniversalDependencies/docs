@@ -15,20 +15,24 @@ generated: 'true'
 	  <td><i>Predicate dep</i></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/nsubj.html">nsubj</a></td>
-	  <td><a href="usd/csubj.html">csubj</a></td>
+	  <td><a href="fi/nsubj.html">nsubj</a></td>
+	  <td><a href="fi/csubj.html">csubj</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/nsubjpass.html">nsubjpass</a></td>
-	  <td><a href="usd/csubjpass.html">csubjpass</a></td>
+	  <td><a href="fi/nsubj-cop.html">↳nsubj-cop</a></td>
+	  <td><a href="fi/csubj-cop.html">↳csubj-cop</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/dobj.html">dobj</a></td>
-	  <td><a href="usd/ccomp.html">ccomp</a></td>
-	  <td><a href="usd/xcomp.html">xcomp</a></td>
+	  <td><a href="fi/nsubjpass.html"><strike>nsubjpass</strike></a></td>
+	  <td><a href="fi/csubjpass.html"><strike>csubjpass</strike></a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/iobj.html">iobj</a></td>
+	  <td><a href="fi/dobj.html">dobj</a></td>
+	  <td><a href="fi/ccomp.html">ccomp</a></td>
+	  <td><a href="fi/xcomp.html">xcomp</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi/iobj.html"><strike>iobj</strike></a></td>
 	</tr>
       </table>
 
@@ -44,17 +48,17 @@ generated: 'true'
 	</tr>
 	<tr>
 	  <td>&nbsp;</td>
-	  <td><a href="usd/advcl.html">advcl</a></td>
-	  <td><a href="usd/advmod.html">advmod</a></td>
+	  <td><a href="fi/advcl.html">advcl</a></td>
+	  <td><a href="fi/advmod.html">advmod</a></td>
 	</tr>
 	<tr>
 	  <td>&nbsp;</td>
-	  <td><a href="usd/nfincl.html">nfincl</a></td>
-	  <td><a href="usd/neg.html">neg</a></td>
+	  <td><a href="fi/nfincl.html">nfincl</a></td>
+	  <td><a href="fi/neg.html">neg</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/nmod.html">nmod</a></td>
-	  <td><a href="usd/ncmod.html">ncmod</a></td>
+	  <td><a href="fi/nmod.html">nmod</a></td>
+	  <td><a href="fi/ncmod.html">ncmod</a></td>
 	</tr>
       </table>
 
@@ -69,18 +73,18 @@ generated: 'true'
 	  <td><i>Other</i></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/vocative.html">vocative</a></td>
-	  <td><a href="usd/aux.html">aux</a></td>
-	  <td><a href="usd/mark.html">mark</a></td>
+	  <td><a href="fi/vocative.html">vocative</a></td>
+	  <td><a href="fi/aux.html">aux</a></td>
+	  <td><a href="fi/mark.html">mark</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/discourse.html">discourse</a></td>
-	  <td><a href="usd/auxpass.html">auxpass</a></td>
-	  <td><a href="usd/punct.html">punct</a></td>
+	  <td><a href="fi/discourse.html">discourse</a></td>
+	  <td><a href="fi/auxpass.html">auxpass</a></td>
+	  <td><a href="fi/punct.html">punct</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/expl.html">expl</a></td>
-	  <td><a href="usd/cop.html">cop</a></td>
+	  <td><a href="fi/expl.html">expl</a></td>
+	  <td><a href="fi/cop.html">cop</a></td>
 	</tr>
       </table>
 
@@ -97,19 +101,19 @@ generated: 'true'
 	  <td><i>Modifier word</i></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/nummod.html">nummod</a></td>
-	  <td><a href="usd/relcl.html">relcl</a></td>
-	  <td><a href="usd/amod.html">amod</a></td>
+	  <td><a href="fi/nummod.html">nummod</a></td>
+	  <td><a href="fi/relcl.html">relcl</a></td>
+	  <td><a href="fi/amod.html">amod</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/appos.html">appos</a></td>
-	  <td><a href="usd/nfincl.html">nfincl</a></td>
-	  <td><a href="usd/det.html">det</a></td>
+	  <td><a href="fi/appos.html">appos</a></td>
+	  <td><a href="fi/nfincl.html">nfincl</a></td>
+	  <td><a href="fi/det.html">det</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/nmod.html">nmod</a></td>
-	  <td><a href="usd/ncmod.html">ncmod</a></td>
-	  <td><a href="usd/neg.html">neg</a></td>
+	  <td><a href="fi/nmod.html">nmod</a></td>
+	  <td><a href="fi/ncmod.html">ncmod</a></td>
+	  <td><a href="fi/neg.html">neg</a></td>
 	</tr>
       </table>
 
@@ -119,13 +123,13 @@ generated: 'true'
       <table class="category">
 	<tr><td colspan="3"><b>Compounding and unanalyzed</b></td></tr>
 	<tr>
-	  <td><a href="usd/compound.html">compound</a></td>
-	  <td><a href="usd/mwe.html">mwe</a></td>
-	  <td><a href="usd/goeswith.html">goeswith</a></td>
+	  <td><a href="fi/compound.html">compound</a></td>
+	  <td><a href="fi/mwe.html">mwe</a></td>
+	  <td><a href="fi/goeswith.html">goeswith</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/name.html">name</a></td>
-	  <td><a href="usd/foreign.html">foreign</a></td>
+	  <td><a href="fi/name.html">name</a></td>
+	  <td><a href="fi/foreign.html">foreign</a></td>
 	</tr>
       </table>
 
@@ -135,8 +139,8 @@ generated: 'true'
       <table class="category">
 	<tr><td colspan="3"><b>Coordination</b></td></tr>
 	<tr>
-	  <td><a href="usd/conj.html">conj</a></td>
-	  <td><a href="usd/cc.html">cc</a></td>
+	  <td><a href="fi/conj.html">conj</a></td>
+	  <td><a href="fi/cc.html">cc</a></td>
 	</tr>
       </table>
 
@@ -148,7 +152,16 @@ generated: 'true'
       <table class="category">
 	<tr><td colspan="3"><b>Case-marking, prepositions, possessive</b></td></tr>
 	<tr>
-	  <td><a href="usd/case.html">case</a></td>
+	  <td><a href="fi/case.html">case</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi/poss.html">↳poss</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi/gsubj.html">↳gsubj</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi/gobj.html">↳gobj</a></td>
 	</tr>
       </table>
 
@@ -158,13 +171,13 @@ generated: 'true'
       <table class="category">
 	<tr><td colspan="3"><b>Loose joining relations</b></td></tr>
 	<tr>
-	  <td><a href="usd/list.html">list</a></td>
-	  <td><a href="usd/parataxis.html">parataxis</a></td>
-	  <td><a href="usd/remnant.html">remnant</a></td>
+	  <td><a href="fi/list.html">list</a></td>
+	  <td><a href="fi/parataxis.html">parataxis</a></td>
+	  <td><a href="fi/remnant.html">remnant</a></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/dislocated.html">dislocated</a></td>
-	  <td></td><td><a href="usd/reparandum.html">reparandum</a></td>
+	  <td><a href="fi/dislocated.html">dislocated</a></td>
+	  <td></td><td><a href="fi/reparandum.html">reparandum</a></td>
 	</tr>
       </table>
 
@@ -178,8 +191,8 @@ generated: 'true'
 	  <td colspan="2"><i>Unspecified dependency</i></td>
 	</tr>
 	<tr>
-	  <td><a href="usd/root.html">root</a></td>
-	  <td><a href="usd/dep.html">dep</a></td>
+	  <td><a href="fi/root.html">root</a></td>
+	  <td><a href="fi/dep.html">dep</a></td>
 	</tr>
       </table>
 
