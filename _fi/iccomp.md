@@ -6,7 +6,7 @@ shortdef : 'infinite clausal complement'
 
 ## iccomp (infinite clausal complement) <a name="sec-iccomp"></a>
 
-The dependency type `iccomp`, which stands for *infinite clausal complement*, is a subtype of `ccomp` (*clausal complement*). It is used for clausal complements where the complement clause has a different subject from that of the governing clause and is infinite, i.e.\ where the verb is an infinitive or a participle. The differences between types of verbal dependents, such as `iccomp`, are thoroughly discussed in Section [verbal](#sec-verbal).
+The dependency type `iccomp`, which stands for *infinite clausal complement*, is a subtype of `ccomp` (*clausal complement*). It is used for clausal complements where the complement clause has a different subject from that of the governing clause and is infinite, i.e. where the verb is an infinitive or a participle. The differences between types of verbal dependents, such as `iccomp`, are thoroughly discussed in Section [verbal](#sec-verbal).
 
 
 <!-- fname:iccomp.pdf -->

@@ -6,7 +6,7 @@ shortdef : 'auxiliary'
 
 ## aux (auxiliary) <a name="sec-aux"></a>
 
-In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>) and in addition the verbs *olla* (*to be*) and *aikoa (\emph{to be going to*)}. The full list of auxiliaries in TDT is thus as follows:
+In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>) and in addition the verbs *olla* (*to be*) and *aikoa* (*to be going to*). The full list of auxiliaries in TDT is thus as follows:
 
 
 + täytyä (must)

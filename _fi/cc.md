@@ -56,7 +56,7 @@ Coordinating conjunctions are a closed class of words, and the main conjunctions
 In addition, certain less frequent words or combinations of words are marked as coordinating conjunctions in TDT, namely:
 
 
-+ \&
++ &
 + elikkä (colloquial version of *eli*, a.k.a)
 + ja / tai (and / or)
 + ja toisaalta (and on the other hand)
