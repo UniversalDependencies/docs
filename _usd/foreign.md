@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'foreign'
-shortdef: 'foreign'
+shortdef: 'foreign words'
 ---
 
 ## foreign: foreign words
