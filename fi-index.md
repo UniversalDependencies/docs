@@ -32,6 +32,11 @@ generated: 'true'
 	  <td><a href="fi/xcomp.html">xcomp</a></td>
 	</tr>
 	<tr>
+	  <td/>
+	  <td><a href="fi/iccomp.html">↳iccomp</a></td>
+	  <td/>
+	</tr>
+	<tr>
 	  <td><a href="fi/iobj.html"><strike>iobj</strike></a></td>
 	</tr>
       </table>
