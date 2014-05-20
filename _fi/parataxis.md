@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'parataxis'
-shortdef : 'None'
+shortdef : 'parataxis'
 ---
 
 ## parataxis (parataxis)

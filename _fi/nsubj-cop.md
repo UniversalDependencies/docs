@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'nsubj-cop'
-shortdef : 'None'
+shortdef : 'nominal copular subject'
 ---
 
 ## nsubj-cop (nominal copular subject)

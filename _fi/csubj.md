@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'csubj'
-shortdef : 'None'
+shortdef : 'clausal subject'
 ---
 
 ## csubj (clausal subject)

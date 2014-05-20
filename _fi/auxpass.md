@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'auxpass'
-shortdef : 'None'
+shortdef : 'passive auxiliary'
 ---
 
 ## auxpass (passive auxiliary)

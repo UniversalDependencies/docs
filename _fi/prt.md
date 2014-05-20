@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'prt'
-shortdef : 'None'
+shortdef : 'phrasal particle'
 ---
 
 ## prt (phrasal particle)

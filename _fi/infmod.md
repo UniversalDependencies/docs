@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'infmod'
-shortdef : 'None'
+shortdef : 'infinitive modifier'
 ---
 
 ## infmod (infinitive modifier)

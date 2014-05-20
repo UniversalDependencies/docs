@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'neg'
-shortdef : 'None'
+shortdef : 'negation marker'
 ---
 
 ## neg (negation marker)

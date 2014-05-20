@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'det'
-shortdef : 'None'
+shortdef : 'determiner'
 ---
 
 ## det (determiner)

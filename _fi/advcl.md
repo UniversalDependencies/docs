@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'advcl'
-shortdef : 'None'
+shortdef : 'adverbial clause modifier'
 ---
 
 ## advcl (adverbial clause modifier)

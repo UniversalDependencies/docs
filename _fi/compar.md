@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'compar'
-shortdef : 'None'
+shortdef : 'comparative'
 ---
 
 ## compar (comparative)

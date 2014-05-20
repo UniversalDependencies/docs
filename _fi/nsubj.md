@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'nsubj'
-shortdef : 'None'
+shortdef : 'nominal subject'
 ---
 
 ## nsubj (nominal subject)

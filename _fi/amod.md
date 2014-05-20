@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'amod'
-shortdef : 'None'
+shortdef : 'adjectival modifier'
 ---
 
 ## amod (adjectival modifier)

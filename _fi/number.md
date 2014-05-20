@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'number'
-shortdef : 'None'
+shortdef : 'numerical expression'
 ---
 
 ## number (numerical expression)

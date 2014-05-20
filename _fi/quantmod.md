@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'quantmod'
-shortdef : 'None'
+shortdef : 'quantification modifier'
 ---
 
 ## quantmod (quantification modifier)

@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'punct'
-shortdef : 'None'
+shortdef : 'punctuation'
 ---
 
 ## punct (punctuation)

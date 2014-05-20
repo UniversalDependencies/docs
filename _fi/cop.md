@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'cop'
-shortdef : 'None'
+shortdef : 'copula'
 ---
 
 ## cop (copula)

@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'conj'
-shortdef : 'None'
+shortdef : 'coordinated element'
 ---
 
 ## conj (coordinated element)

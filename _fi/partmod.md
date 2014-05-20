@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'partmod'
-shortdef : 'None'
+shortdef : 'participal modifier'
 ---
 
 ## partmod (participal modifier)

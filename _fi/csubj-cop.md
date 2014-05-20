@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'csubj-cop'
-shortdef : 'None'
+shortdef : 'clausal copular subject'
 ---
 
 ## csubj-cop (clausal copular subject)
