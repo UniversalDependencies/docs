@@ -10,7 +10,7 @@ In the collapsed representation (see section \ref{types}), a prepositional claus
 
 <div class="sd-parse">
 He purchased it without paying a premium
-prepc\_without(purchased, paying)
+prepc_without(purchased, paying)
 </div>
 
  

@@ -16,7 +16,7 @@ number(thousand, four)
 
 
 <div class="sd-parse">
-I lost \$ 3.2 billion
+I lost $ 3.2 billion
 number(billion, 3.2)
 </div>
 

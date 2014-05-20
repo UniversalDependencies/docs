@@ -9,7 +9,7 @@ shortdef : 'reduced non-finite verbal modifier'
 A reduced non-finite verbal modifier is a participial or infinitive form of a verb heading a phrase (which may have some arguments, roughly like a VP). These are used to modify the meaning of an NP or another verb. They are not core arguments of a verb or full finite relative clauses. 
 
 <div class="sd-parse">
-Points to establish are \ldots
+Points to establish are ...
 vmod(Points, establish)
 </div>
 
