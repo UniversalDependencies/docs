@@ -6,7 +6,8 @@ shortdef : 'nominal subject'
 
 ## nsubj (nominal subject)
 
-The dependency type `nsubj` marks nominal subjects of the non-copular clause. For thorough discussion of different types of subjects in Finnish, see Section [subj-obj](#sec-subj-obj).
+The dependency type `nsubj` marks nominal subjects of the non-copular clause. 
+<!-- For thorough discussion of different types of subjects in Finnish, see Section [subj-obj](#sec-subj-obj).-->
 
 
 <!-- fname:nsubj_basic.pdf -->

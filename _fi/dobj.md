@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'dobj'
-shortdef : 'Direct object'
+shortdef : 'direct object'
 ---
 
 ## dobj (direct object)
@@ -30,5 +30,5 @@ punct(tehtiin-2, .-4)
 </div>
 
 
-Fine distinctions in special cases of subjects, objects and object-cased amount adverbials are discussed in Section [subj-obj](#sec-subj-obj).
+<!-- Fine distinctions in special cases of subjects, objects and object-cased amount adverbials are discussed in Section [subj-obj](#sec-subj-obj).-->
 
