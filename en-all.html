@@ -132,8 +132,6 @@ Reagan has died
 aux(died-3, has-2)
 </div>
 
-<p>\hspace*{1in} </p>
-
 <div class="sd-parse">
 He should leave
 aux(leave-3, should-2)
@@ -182,7 +180,7 @@ conj(big, honest)
 </div>
 
 <h2 id="cop--copula">cop : copula</h2>
-<p>A copula is the relation between the complement of a copular verb and the copular verb.  (We normally take a copula as a dependent of its complement; see the discussion in section~\ref{types}.)  </p>
+<p>A copula is the relation between the complement of a copular verb and the copular verb.  (We normally take a copula as a dependent of its complement; see the discussion in section \ref{types}.)  </p>
 
 <div class="sd-parse">
 Bill is an honest man
@@ -209,7 +207,7 @@ csubjpass(suspected, lied)
 <p>A dependency is labeled as <em>dep</em> when the system is unable to determine a more precise dependency relation between two words.  This may be because of a weird grammatical construction, a limitation in the Stanford Dependency conversion software, a parser error, or because of an unresolved long distance dependency. </p>
 
 <div class="sd-parse">
-Then , as if to show that he could , \ldots
+Then , as if to show that he could , ...
 dep(show, if)
 </div>
 
@@ -270,13 +268,13 @@ iobj(gave, me)
 <p>A marker is the word introducing a finite clause subordinate to another clause. For a complement clause, this will typically be “that” or “whether”. For an adverbial clause, the marker is typically a preposition like “while” or “although”. The mark is a dependent of the subordinate clause head. </p>
 
 <div class="sd-parse">
-Forces engaged in fighting after insurgents attacked % \hspace*{3em}*mark*(attacked, after)
-mark(attacked %-7, after-5)
+Forces engaged in fighting after insurgents attacked
+mark(attacked, after)
 </div>
 
 <div class="sd-parse">
-He says that you like to swim %  \hspace*{3em} *complm*(like, that)
-mark(swim %-7, that-3)
+He says that you like to swim
+mark(swim, that)
 </div>
 
 <h2 id="mwe--multi-word-expression">mwe : multi-word expression</h2>
@@ -314,7 +312,7 @@ nn(futures, Oil)
 </div>
 
 <h2 id="npadvmod--noun-phrase-as-adverbial-modifier">npadvmod : noun phrase as adverbial modifier</h2>
-<p>This relation captures various places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence.   These usages include: (i)~a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii)~noun phrases giving an extent inside a VP which are not objects; (iii)~financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv)~floating reflexives; and (v)~certain other absolutive NP constructions. A temporal modifier (tmod) is a subclass of npadvmod which is distinguished as a separate relation. </p>
+<p>This relation captures various places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence.   These usages include: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions. A temporal modifier (tmod) is a subclass of npadvmod which is distinguished as a separate relation. </p>
 
 <div class="sd-parse">
 The director is 65 years old
@@ -384,7 +382,7 @@ number(thousand, four)
 </div>
 
 <div class="sd-parse">
-I lost \$ 3.2 billion
+I lost $ 3.2 billion
 number(billion, 3.2)
 </div>
 
@@ -410,7 +408,7 @@ pcomp(on, are)
 </div>
 
 <h2 id="pobj--object-of-a-preposition">pobj : object of a preposition</h2>
-<p>The object of a preposition is the head of a noun phrase following the preposition, or the adverbs “here” and “there”. (The preposition in turn may be modifying a noun, verb, etc.) Unlike the Penn Treebank, we here define cases of VBG quasi-prepositions like “including”, “concerning”, etc.\ as instances of <em>pobj</em>. (The preposition can be tagged a FW for “pace”, “versus”, etc. It can also be called a CC – but we don’t currently handle that and would need to distinguish from conjoined prepositions.) In the case of preposition stranding, the object can precede the preposition (e.g., “What does CPR stand for?”). </p>
+<p>The object of a preposition is the head of a noun phrase following the preposition, or the adverbs “here” and “there”. (The preposition in turn may be modifying a noun, verb, etc.) Unlike the Penn Treebank, we here define cases of VBG quasi-prepositions like “including”, “concerning”, etc. as instances of <em>pobj</em>. (The preposition can be tagged a FW for “pace”, “versus”, etc. It can also be called a CC – but we don’t currently handle that and would need to distinguish from conjoined prepositions.) In the case of preposition stranding, the object can precede the preposition (e.g., “What does CPR stand for?”). </p>
 
 <div class="sd-parse">
 I sat on the chair
@@ -477,7 +475,7 @@ prep(responsible, for)
 
 <div class="sd-parse">
 He purchased it without paying a premium
-prepc\_without(purchased, paying)
+prepc_without(purchased, paying)
 </div>
 
 <h2 id="prt--phrasal-verb-particle">prt : phrasal verb particle</h2>
@@ -552,7 +550,7 @@ tmod(swam, night)
 <p>A reduced non-finite verbal modifier is a participial or infinitive form of a verb heading a phrase (which may have some arguments, roughly like a VP). These are used to modify the meaning of an NP or another verb. They are not core arguments of a verb or full finite relative clauses. </p>
 
 <div class="sd-parse">
-Points to establish are \ldots
+Points to establish are ...
 vmod(Points, establish)
 </div>
 
