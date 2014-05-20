@@ -11,7 +11,7 @@ The dependency type `acomp` is used for adjectival complements of verbs, except 
 
 <div class="sd-parse">
 Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
-nsubj(tekin, Hän)
+nsubj(teki, Hän)
 nmod(teki, siitä)
 advmod(vaikeaa, hyvin)
 acomp(teki, vaikeaa)
