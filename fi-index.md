@@ -65,6 +65,9 @@ generated: 'true'
 	  <td><a href="fi/nmod.html">nmod</a></td>
 	  <td><a href="fi/ncmod.html">ncmod</a></td>
 	</tr>
+	<tr>
+	  <td><a href="fi/nmod-own.html">↳nmod-own</a></td>
+	</tr>
       </table>
 
     </td>
