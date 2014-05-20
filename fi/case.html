@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>num</title>
+    <title>case</title>
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/num.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/case.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,26 +33,17 @@
 	  </div>
 	</noscript>
 
-          <h2 id="num-numeral-modifier-a-namesec-numa">num (numeral modifier) <a name="sec-num"></a></h2>
+          <h2 id="case-case-marking">case (case marking)</h2>
 
-<p><em>Numeral modifiers</em> of a noun or NP, including both cardinal and ordinal numbers, are marked with the <code>num</code> dependency type. This dependency type is used also with for instance years and program versions.</p>
+<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nommod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="#sec-nommod">nommod</a>).</p>
 
-<!-- fname:num.pdf -->
+<!-- fname:adpos.pdf -->
 <div class="sd-parse">
-Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
-nsubj(painoi-2, Laukku-1)
-dobj(painoi-2, kiloa-4)
-num(kiloa-4, 20-3)
-punct(painoi-2, .-5)
-</div>
-
-<!-- fname:num_year.pdf -->
-<div class="sd-parse">
-Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
-dobj(Tapasin-1, hänet-2)
-nommod(Tapasin-1, vuonna-3)
-num(vuonna-3, 1972-4)
-punct(Tapasin-1, .-5)
+Talo sijaitsee mäen takana . \n House is_located hill behind .
+nsubj(sijaitsee-2, Talo-1)
+nommod(sijaitsee-2, mäen-3)
+case(mäen-3, takana-4)
+punct(sijaitsee-2, .-5)
 </div>
 
 

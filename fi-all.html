@@ -36,19 +36,6 @@
 
 <p>The dependency type <code>acomp</code> is used for adjectival complements of verbs, except for predicatives.</p>
 
-<h2 id="adpos-adposition">adpos (adposition)</h2>
-
-<p>The dependency type <code>adpos</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>adpos</code> is used in combination with the type <code>nommod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="#sec-nommod">nommod</a>).</p>
-
-<!-- fname:adpos.pdf -->
-<div class="sd-parse">
-Talo sijaitsee mäen takana . \n House is_located hill behind .
-nsubj(sijaitsee-2, Talo-1)
-nommod(sijaitsee-2, mäen-3)
-adpos(mäen-3, takana-4)
-punct(sijaitsee-2, .-5)
-</div>
-
 <h2 id="advcl-adverbial-clause-modifier">advcl (adverbial clause modifier)</h2>
 
 <p><em>Adverbial clause modifiers</em> (<code>advcl</code>) are subordinate clauses that are not complements. Also non-complement infinite or temporal clauses (<em>lauseenvastike</em>, see for instance \cite[\S 876]{isk) } are marked as <code>advcl</code>. If there is a subordinating conjunction present, it is marked with the dependency type <code>mark</code> (see Section <a href="#sec-mark">mark</a>).</p>
@@ -182,6 +169,19 @@ nommod(tehdä-3, Suunnitelmaan-1)
 aux(tehdä-3, voidaan-2)
 dobj(tehdä-3, muutoksia-4)
 punct(tehdä-3, .-5)
+</div>
+
+<h2 id="case-case-marking">case (case marking)</h2>
+
+<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nommod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="#sec-nommod">nommod</a>).</p>
+
+<!-- fname:adpos.pdf -->
+<div class="sd-parse">
+Talo sijaitsee mäen takana . \n House is_located hill behind .
+nsubj(sijaitsee-2, Talo-1)
+nommod(sijaitsee-2, mäen-3)
+case(mäen-3, takana-4)
+punct(sijaitsee-2, .-5)
 </div>
 
 <h2 id="cc-coordinating-conjunction-a-namesec-cca">cc (coordinating conjunction) <a name="sec-cc"></a></h2>
@@ -472,6 +472,29 @@ dobj(pudistivat-3, päätään-4)
 punct(pudistivat-3, .-5)
 </div>
 
+<h2 id="discourse-discourse-element">discourse (discourse element)</h2>
+
+<p><em>Discourse elements</em> are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the <code>discourse</code> dependency type.</p>
+
+<!-- fname:intj1.pdf -->
+<div class="sd-parse">
+Hei , tule auttamaan ! \n Hey , come to_help !
+discourse(tule-3, Hei-1)
+punct(Hei-1, ,-2)
+xcomp(tule-3, auttamaan-4)
+punct(tule-3, !-5)
+</div>
+
+<!-- fname:intj2.pdf -->
+<div class="sd-parse">
+Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
+discourse(sanoisi-5, Hmm-1)
+punct(Hmm-1, ...-2)
+dobj(sanoisi-5, Mitähän-3)
+nommod(sanoisi-5, tuohon-4)
+punct(sanoisi-5, ?-6)
+</div>
+
 <h2 id="dobj-direct-object">dobj (direct object)</h2>
 
 <p>The dependency type <code>dobj</code> is used for (nominal) direct objects of the verb.</p>
@@ -510,7 +533,7 @@ advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
 </div>
 
-<h2 id="gsubj-a-namesec-gsubja">gsubj <a name="sec-gsubj"></a></h2>
+<h2 id="genitive-subject-a-namesec-gsubja">genitive subject <a name="sec-gsubj"></a></h2>
 
 <p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This is in parallel to genitive objects (<code>gobj</code>, see Section <a href="#sec-gobj">gobj</a>). %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section <a href="#sec-gsubj-gobj">gsubj-gobj</a>.</p>
 
@@ -544,29 +567,6 @@ nsubj(oli-2, lupa-3)
 infmod(lupa-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-2, .-6)
-</div>
-
-<h2 id="intj-interjection">intj (interjection)</h2>
-
-<p><em>Interjections</em> are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the <code>intj</code> dependency type.</p>
-
-<!-- fname:intj1.pdf -->
-<div class="sd-parse">
-Hei , tule auttamaan ! \n Hey , come to_help !
-intj(tule-3, Hei-1)
-punct(Hei-1, ,-2)
-xcomp(tule-3, auttamaan-4)
-punct(tule-3, !-5)
-</div>
-
-<!-- fname:intj2.pdf -->
-<div class="sd-parse">
-Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
-intj(sanoisi-5, Hmm-1)
-punct(Hmm-1, ...-2)
-dobj(sanoisi-5, Mitähän-3)
-nommod(sanoisi-5, tuohon-4)
-punct(sanoisi-5, ?-6)
 </div>
 
 <h2 id="mark-marker-a-namesec-marka">mark (marker) <a name="sec-mark"></a></h2>
@@ -658,6 +658,42 @@ dobj(sanonut-3, mitään-4)
 punct(sanonut-3, .-5)
 </div>
 
+<h2 id="nmod-own-haver-a-namesec-omistusa">nmod-own (haver) <a name="sec-omistus"></a></h2>
+
+<p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. For more information on special cases of subjects, see Section <a href="#sec-subj-obj">subj-obj</a>.</p>
+
+<p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nmod</em>. However, as <code>nmod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nmod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
+
+<!-- fname:omistus.pdf -->
+<div class="sd-parse">
+Matilla on uusi auto . \n At_Matti is new car .
+nmod-own(on-2, Matilla-1)
+nsubj(on-2, auto-4)
+amod(auto-4, uusi-3)
+punct(on-2, .-5)
+</div>
+
+<h2 id="nmod-nominal-modifier-a-namesec-nmoda">nmod (nominal modifier) <a name="sec-nmod"></a></h2>
+
+<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
+
+<!-- fname:nommod_alone.pdf -->
+<div class="sd-parse">
+Maljakko oli pöydällä . \n The_vase was on_the_table .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydällä-3)
+punct(oli-2, .-4)
+</div>
+
+<!-- fname:nommod_adpos.pdf -->
+<div class="sd-parse">
+Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydän-3)
+adpos(pöydän-3, päällä-4)
+punct(oli-2, .-5)
+</div>
+
 <h2 id="nn-noun-compound-modifier-a-namesec-nna">nn (noun compound modifier) <a name="sec-nn"></a></h2>
 
 <p>The dependency type <code>nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish SD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>nn</code>.</p>
@@ -691,42 +727,6 @@ dobj(pitää-4, puheen-5)
 punct(pitää-4, .-6)
 </div>
 
-<h2 id="nommod-own-a-namesec-omistusa">nommod-own <a name="sec-omistus"></a></h2>
-
-<p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. For more information on special cases of subjects, see Section <a href="#sec-subj-obj">subj-obj</a>.</p>
-
-<p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nommod</em>. However, as <code>nommod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nommod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
-
-<!-- fname:omistus.pdf -->
-<div class="sd-parse">
-Matilla on uusi auto . \n At_Matti is new car .
-nommod-own(on-2, Matilla-1)
-nsubj(on-2, auto-4)
-amod(auto-4, uusi-3)
-punct(on-2, .-5)
-</div>
-
-<h2 id="nommod-nominal-modifier-a-namesec-nommoda">nommod (nominal modifier) <a name="sec-nommod"></a></h2>
-
-<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
-
-<!-- fname:nommod_alone.pdf -->
-<div class="sd-parse">
-Maljakko oli pöydällä . \n The_vase was on_the_table .
-nsubj(oli-2, Maljakko-1)
-nommod(oli-2, pöydällä-3)
-punct(oli-2, .-4)
-</div>
-
-<!-- fname:nommod_adpos.pdf -->
-<div class="sd-parse">
-Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
-nsubj(oli-2, Maljakko-1)
-nommod(oli-2, pöydän-3)
-adpos(pöydän-3, päällä-4)
-punct(oli-2, .-5)
-</div>
-
 <h2 id="nsubj-cop-nominal-copular-subject">nsubj-cop (nominal copular subject)</h2>
 
 <p>The dependency type <code>nsubj-cop</code> is used for the nominal subject of a copular clause. The predicative is the head of the copular clause, and also the governor of the <code>nsubj-cop</code> dependency. Annotating copular clauses is discussed in Section <a href="#sec-copulas">copulas</a>.</p>
@@ -752,28 +752,6 @@ nommod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
 </div>
 
-<h2 id="num-numeral-modifier-a-namesec-numa">num (numeral modifier) <a name="sec-num"></a></h2>
-
-<p><em>Numeral modifiers</em> of a noun or NP, including both cardinal and ordinal numbers, are marked with the <code>num</code> dependency type. This dependency type is used also with for instance years and program versions.</p>
-
-<!-- fname:num.pdf -->
-<div class="sd-parse">
-Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
-nsubj(painoi-2, Laukku-1)
-dobj(painoi-2, kiloa-4)
-num(kiloa-4, 20-3)
-punct(painoi-2, .-5)
-</div>
-
-<!-- fname:num_year.pdf -->
-<div class="sd-parse">
-Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
-dobj(Tapasin-1, hänet-2)
-nommod(Tapasin-1, vuonna-3)
-num(vuonna-3, 1972-4)
-punct(Tapasin-1, .-5)
-</div>
-
 <h2 id="number-numerical-expression">number (numerical expression)</h2>
 
 <p>Numerical expressions consisting of multiple tokens are annotated using the <code>number</code> dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. Special cases of numerical expressions are discussed in Section <a href="#sec-numberspecial">numberspecial</a>.</p>
@@ -787,6 +765,28 @@ advmod(5-6, yleensä-3)
 number(--5, 3-4)
 number(5-6, --5)
 punct(5-6, .-7)
+</div>
+
+<h2 id="nummod-numeral-modifier-a-namesec-nummoda">nummod (numeral modifier) <a name="sec-nummod"></a></h2>
+
+<p><em>Numeral modifiers</em> of a noun or NP, including both cardinal and ordinal numbers, are marked with the <code>nummod</code> dependency type. This dependency type is used also with for instance years and program versions.</p>
+
+<!-- fname:num.pdf -->
+<div class="sd-parse">
+Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
+nsubj(painoi-2, Laukku-1)
+dobj(painoi-2, kiloa-4)
+nummod(kiloa-4, 20-3)
+punct(painoi-2, .-5)
+</div>
+
+<!-- fname:num_year.pdf -->
+<div class="sd-parse">
+Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
+dobj(Tapasin-1, hänet-2)
+nommod(Tapasin-1, vuonna-3)
+nummod(vuonna-3, 1972-4)
+punct(Tapasin-1, .-5)
 </div>
 
 <h2 id="parataxis-parataxis">parataxis (parataxis)</h2>
@@ -1041,38 +1041,6 @@ num(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
 </div>
 
-<h2 id="rcmod-relative-clause-modifier">rcmod (relative clause modifier)</h2>
-
-<p>A <em>relative clause modifier</em> (<code>rcmod</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
-
-<!-- fname:rcmod_NP.pdf -->
-<div class="sd-parse">
-Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
-rcmod(Mies-1, nähnyt-6)
-punct(nähnyt-6, ,-2)
-rel(nähnyt-6, jonka-3)
-nsubj(nähnyt-6, hän-4)
-aux(nähnyt-6, oli-5)
-advmod(nähnyt-6, eilen-7)
-punct(nähnyt-6, ,-8)
-nsubj(oli-9, Mies-1)
-advmod(oli-9, taas-10)
-nommod(oli-9, ovella-11)
-punct(oli-9, .-12)
-</div>
-
-<!-- fname:rcmod_clause.pdf -->
-<div class="sd-parse">
-Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
-nsubj(kolahti-2, Ovi-1)
-advmod(kolahti-2, auki-3)
-rcmod(kolahti-2, säikäytti-6)
-punct(säikäytti-6, ,-4)
-rel(säikäytti-6, mikä-5)
-dobj(säikäytti-6, lapsen-7)
-punct(kolahti-2, .-8)
-</div>
-
 <h2 id="rel-relativizer-a-namesec-rela">rel (relativizer) <a name="sec-rel"></a></h2>
 
 <p>The <em>relativizer</em> (<code>rel</code>) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. Annotation of relative clauses is more closely examined in Section <a href="#sec-relclauses">relclauses</a>.</p>
@@ -1104,14 +1072,46 @@ dobj(pyysi-7, apuamme-8)
 punct(pyysi-7, .-9)
 </div>
 
-<h2 id="voc-vocative">voc (vocative)</h2>
+<h2 id="relcl-relative-clause-modifier">relcl (relative clause modifier)</h2>
 
-<p>The dependency type <code>voc</code> is used for <em>vocatives</em>, that is, expressions where someone is being addressed. The governor of the dependency is the main predicate of the clause where the addressing occurs.</p>
+<p>A <em>relative clause modifier</em> (<code>relcl</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
+
+<!-- fname:relcl_NP.pdf -->
+<div class="sd-parse">
+Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
+relcl(Mies-1, nähnyt-6)
+punct(nähnyt-6, ,-2)
+rel(nähnyt-6, jonka-3)
+nsubj(nähnyt-6, hän-4)
+aux(nähnyt-6, oli-5)
+advmod(nähnyt-6, eilen-7)
+punct(nähnyt-6, ,-8)
+nsubj(oli-9, Mies-1)
+advmod(oli-9, taas-10)
+nommod(oli-9, ovella-11)
+punct(oli-9, .-12)
+</div>
+
+<!-- fname:relcl_clause.pdf -->
+<div class="sd-parse">
+Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
+nsubj(kolahti-2, Ovi-1)
+advmod(kolahti-2, auki-3)
+relcl(kolahti-2, säikäytti-6)
+punct(säikäytti-6, ,-4)
+rel(säikäytti-6, mikä-5)
+dobj(säikäytti-6, lapsen-7)
+punct(kolahti-2, .-8)
+</div>
+
+<h2 id="vocative-vocative">vocative (vocative)</h2>
+
+<p>The dependency type <code>vocative</code> is used for <em>vocatives</em>, that is, expressions where someone is being addressed. The governor of the dependency is the main predicate of the clause where the addressing occurs.</p>
 
 <!-- fname:voc.pdf -->
 <div class="sd-parse">
 Pekka , tulisitko tänne ? \n Pekka , would_you_come here ?
-voc(tulisitko-3, Pekka-1)
+vocative(tulisitko-3, Pekka-1)
 punct(Pekka-1, ,-2)
 advmod(tulisitko-3, tänne-4)
 punct(tulisitko-3, ?-5)

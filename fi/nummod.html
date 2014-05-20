@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>nommod-own</title>
+    <title>nummod</title>
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/nommod-own.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/nummod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,19 +33,26 @@
 	  </div>
 	</noscript>
 
-          <h2 id="nommod-own-a-namesec-omistusa">nommod-own <a name="sec-omistus"></a></h2>
+          <h2 id="nummod-numeral-modifier-a-namesec-nummoda">nummod (numeral modifier) <a name="sec-nummod"></a></h2>
 
-<p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. For more information on special cases of subjects, see Section <a href="#sec-subj-obj">subj-obj</a>.</p>
+<p><em>Numeral modifiers</em> of a noun or NP, including both cardinal and ordinal numbers, are marked with the <code>nummod</code> dependency type. This dependency type is used also with for instance years and program versions.</p>
 
-<p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nommod</em>. However, as <code>nommod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nommod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
-
-<!-- fname:omistus.pdf -->
+<!-- fname:num.pdf -->
 <div class="sd-parse">
-Matilla on uusi auto . \n At_Matti is new car .
-nommod-own(on-2, Matilla-1)
-nsubj(on-2, auto-4)
-amod(auto-4, uusi-3)
-punct(on-2, .-5)
+Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
+nsubj(painoi-2, Laukku-1)
+dobj(painoi-2, kiloa-4)
+nummod(kiloa-4, 20-3)
+punct(painoi-2, .-5)
+</div>
+
+<!-- fname:num_year.pdf -->
+<div class="sd-parse">
+Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
+dobj(Tapasin-1, hänet-2)
+nommod(Tapasin-1, vuonna-3)
+nummod(vuonna-3, 1972-4)
+punct(Tapasin-1, .-5)
 </div>
 
 

@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>adpos</title>
+    <title>discourse</title>
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/adpos.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/discourse.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,17 +33,27 @@
 	  </div>
 	</noscript>
 
-          <h2 id="adpos-adposition">adpos (adposition)</h2>
+          <h2 id="discourse-discourse-element">discourse (discourse element)</h2>
 
-<p>The dependency type <code>adpos</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>adpos</code> is used in combination with the type <code>nommod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="#sec-nommod">nommod</a>).</p>
+<p><em>Discourse elements</em> are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the <code>discourse</code> dependency type.</p>
 
-<!-- fname:adpos.pdf -->
+<!-- fname:intj1.pdf -->
 <div class="sd-parse">
-Talo sijaitsee mäen takana . \n House is_located hill behind .
-nsubj(sijaitsee-2, Talo-1)
-nommod(sijaitsee-2, mäen-3)
-adpos(mäen-3, takana-4)
-punct(sijaitsee-2, .-5)
+Hei , tule auttamaan ! \n Hey , come to_help !
+discourse(tule-3, Hei-1)
+punct(Hei-1, ,-2)
+xcomp(tule-3, auttamaan-4)
+punct(tule-3, !-5)
+</div>
+
+<!-- fname:intj2.pdf -->
+<div class="sd-parse">
+Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
+discourse(sanoisi-5, Hmm-1)
+punct(Hmm-1, ...-2)
+dobj(sanoisi-5, Mitähän-3)
+nommod(sanoisi-5, tuohon-4)
+punct(sanoisi-5, ?-6)
 </div>
 
 

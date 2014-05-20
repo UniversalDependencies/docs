@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>intj</title>
+    <title>nmod</title>
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/intj.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/nmod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,27 +33,25 @@
 	  </div>
 	</noscript>
 
-          <h2 id="intj-interjection">intj (interjection)</h2>
+          <h2 id="nmod-nominal-modifier-a-namesec-nmoda">nmod (nominal modifier) <a name="sec-nmod"></a></h2>
 
-<p><em>Interjections</em> are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the <code>intj</code> dependency type.</p>
+<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
 
-<!-- fname:intj1.pdf -->
+<!-- fname:nommod_alone.pdf -->
 <div class="sd-parse">
-Hei , tule auttamaan ! \n Hey , come to_help !
-intj(tule-3, Hei-1)
-punct(Hei-1, ,-2)
-xcomp(tule-3, auttamaan-4)
-punct(tule-3, !-5)
+Maljakko oli pöydällä . \n The_vase was on_the_table .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydällä-3)
+punct(oli-2, .-4)
 </div>
 
-<!-- fname:intj2.pdf -->
+<!-- fname:nommod_adpos.pdf -->
 <div class="sd-parse">
-Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
-intj(sanoisi-5, Hmm-1)
-punct(Hmm-1, ...-2)
-dobj(sanoisi-5, Mitähän-3)
-nommod(sanoisi-5, tuohon-4)
-punct(sanoisi-5, ?-6)
+Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydän-3)
+adpos(pöydän-3, päällä-4)
+punct(oli-2, .-5)
 </div>
 
 

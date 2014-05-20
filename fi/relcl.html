@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>nommod</title>
+    <title>relcl</title>
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/nommod.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi/relcl.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,25 +33,36 @@
 	  </div>
 	</noscript>
 
-          <h2 id="nommod-nominal-modifier-a-namesec-nommoda">nommod (nominal modifier) <a name="sec-nommod"></a></h2>
+          <h2 id="relcl-relative-clause-modifier">relcl (relative clause modifier)</h2>
 
-<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
+<p>A <em>relative clause modifier</em> (<code>relcl</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
 
-<!-- fname:nommod_alone.pdf -->
+<!-- fname:relcl_NP.pdf -->
 <div class="sd-parse">
-Maljakko oli pöydällä . \n The_vase was on_the_table .
-nsubj(oli-2, Maljakko-1)
-nommod(oli-2, pöydällä-3)
-punct(oli-2, .-4)
+Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
+relcl(Mies-1, nähnyt-6)
+punct(nähnyt-6, ,-2)
+rel(nähnyt-6, jonka-3)
+nsubj(nähnyt-6, hän-4)
+aux(nähnyt-6, oli-5)
+advmod(nähnyt-6, eilen-7)
+punct(nähnyt-6, ,-8)
+nsubj(oli-9, Mies-1)
+advmod(oli-9, taas-10)
+nommod(oli-9, ovella-11)
+punct(oli-9, .-12)
 </div>
 
-<!-- fname:nommod_adpos.pdf -->
+<!-- fname:relcl_clause.pdf -->
 <div class="sd-parse">
-Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
-nsubj(oli-2, Maljakko-1)
-nommod(oli-2, pöydän-3)
-adpos(pöydän-3, päällä-4)
-punct(oli-2, .-5)
+Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
+nsubj(kolahti-2, Ovi-1)
+advmod(kolahti-2, auki-3)
+relcl(kolahti-2, säikäytti-6)
+punct(säikäytti-6, ,-4)
+rel(säikäytti-6, mikä-5)
+dobj(säikäytti-6, lapsen-7)
+punct(kolahti-2, .-8)
 </div>
 
 
