@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'dobj'
-shortdef : 'Direct object'
+shortdef : 'direct object'
 ---
 
 ## dobj (direct object)
