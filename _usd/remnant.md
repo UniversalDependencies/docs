@@ -1,10 +1,10 @@
 ---
 layout: base
 title: 'remnant'
-shortdef: 'TODO'
+shortdef: 'remnant'
 ---
 
-## remnant: TODO
+## remnant: remnant
 
 (from LREC paper)
 
