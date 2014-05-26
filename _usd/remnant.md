@@ -24,8 +24,8 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </div>
 
-In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the remnant relation is not used. In RNR, the verbs
-are coordinated and the object is a dobj of the first verb:
+In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the *remnant* relation is not used. In RNR, the verbs
+are coordinated and the object is a *dobj* of the first verb:
 
 <div class="sd-parse">
 John bought and ate an apple
