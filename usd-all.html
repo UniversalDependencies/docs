@@ -545,8 +545,20 @@ discourse(is-2, :)-5)
 
 <h2 id="dislocated-dislocated">dislocated: dislocated</h2>
 
-<p>The <em>dislocated</em> relation captures preposed (topics) and postposed
-elements.</p>
+<p>The <em>dislocated</em> relation is used for fronted elements that introduce the topic of a sentence as in the following Japanese example:</p>
+
+<div class="sd-parse">
+z\={o} wa hana ga nagai \n elephant TOPIC nose SUBJ long-PRES
+dislocated(nagai-5, z\={o}-1)
+</div>
+
+<p>It is also used for postposed elements. Right dislocated elements are frequent in spoken languages: e.g., French</p>
+
+<div class="sd-parse">
+Il faut pas la manger, la plasticine \n must not it eat the playdough
+dobj(manger,-5, la-4)
+dislocated(faut-2, plasticine-7)
+</div>
 
 <h2 id="dobj-direct-object">dobj: direct object</h2>
 
