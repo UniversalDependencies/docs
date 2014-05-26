@@ -771,17 +771,13 @@ relcl(man, love)
 
 <h2 id="remnant-remnant">remnant: remnant</h2>
 
-<p>(from LREC paper)</p>
-
 <p>The <em>remnant</em> relation is used to provide a treatment of ellipsis (in
-the case of gapping or stripping, where predicational or verbal
-material gets elided), something that was lacking in earlier versions
+the case of gapping and stripping, where predicational or verbal
+material gets elided), which was lacking in earlier versions
 of SD. It provides a basis for being able to reconstruct dependencies
-in the enhanced version of SD. For example, in (11), the <em>remnant</em>
+in the enhanced version of SD. In the example below, the <em>remnant</em>
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.</p>
-
-<p>[TODO example numbering]</p>
 
 <div class="sd-parse">
 John won bronze , Mary silver , and Sandy gold
@@ -793,19 +789,19 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </div>
 
-<p>In contrast, in right-node-raising (RNR) (12) and VP-ellipsis (13)
-constructions in which some kind of predicational or verbal material
-is still present, the remnant relation is not used. In RNR, the verbs
-are coordinated and the object is a dobj of the first verb. In
-VP-ellipsis, we keep the auxiliary as the head, as shown in (13).</p>
+<p>In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the remnant relation is not used. In RNR, the verbs
+are coordinated and the object is a dobj of the first verb:</p>
 
 <div class="sd-parse">
-John bought and ate an apple .
+John bought and ate an apple
 nsubj(bought-2, John-1)
 cc(bought-2, and-3)
 conj(bought-2, ate-4)
 dobj(bought-2, apple-6)
 </div>
+
+<p>In
+VP-ellipsis, we keep the auxiliary as the head, as shown below:</p>
 
 <div class="sd-parse">
 John will win gold and Mary will too
