@@ -1,7 +1,7 @@
 ---
 layout: base
-title: 'non-finite clause'
-shortdef: 'nfincl'
+title: 'nfincl'
+shortdef: 'non-finite clause'
 ---
 
 ## nfincl: nfincl
