@@ -56,7 +56,7 @@ punct(teki, .)
 Kun äiti tuli kotiin , isä keitti kahvia . \n When mother came home , father made coffee .
 mark(tuli-3, Kun-1)
 nsubj(tuli-3, äiti-2)
-nommod(tuli-3, kotiin-4)
+nmod(tuli-3, kotiin-4)
 punct(tuli-3, ,-5)
 nsubj(keitti-7, isä-6)
 advcl(keitti-7, tuli-3)
@@ -74,7 +74,7 @@ punct(keitti-7, .-9)
 <div class="sd-parse">
 Hän käveli kotiin hitaasti . \n He walked home slowly .
 nsubj(käveli-2, Hän-1)
-nommod(käveli-2, kotiin-3)
+nmod(käveli-2, kotiin-3)
 advmod(käveli-2, hitaasti-4)
 punct(käveli-2, .-5)
 </div>
@@ -83,7 +83,7 @@ punct(käveli-2, .-5)
 <div class="sd-parse">
 Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
 nsubj(otin-2, Minä-1)
-nommod(otin-2, kaapista-3)
+nmod(otin-2, kaapista-3)
 dobj(otin-2, vasaran-5)
 advmod(vasaran-5, myös-4)
 punct(otin-2, .-6)
@@ -98,7 +98,7 @@ punct(otin-2, .-6)
 <!-- fname:amod_noun.pdf -->
 <div class="sd-parse">
 Tien vieressä on suuri kivi . \n Road next_to is large rock .
-nommod(on-3, Tien-1)
+nmod(on-3, Tien-1)
 adpos(Tien-1, vieressä-2)
 nsubj(on-3, kivi-5)
 amod(kivi-5, suuri-4)
@@ -116,7 +116,7 @@ amod(kivi-3, suuri-2)
 
 <h2 id="appos-apposition-a-namesec-apposa">appos (apposition) <a name="sec-appos"></a></h2>
 
-<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail in Section <a href="#sec-appos-vs-nn">appos-vs-nn</a>.</p>
+<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail below.</p>
 
 <!-- fname:appos1.pdf -->
 <div class="sd-parse">
@@ -134,7 +134,7 @@ punct(luennoi-6, .-8)
 <div class="sd-parse">
 Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
 appos(Kirjassa-1, Putkinotko-2)
-nommod(on-3, Kirjassa-1)
+nmod(on-3, Kirjassa-1)
 nsubj(on-3, juoni-5)
 amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
@@ -179,7 +179,7 @@ punct(lähteä-3, .-5)
 <!-- fname:auxpass1.pdf -->
 <div class="sd-parse">
 Suunnitelmaan on tehty muutoksia . \n Into_the_plan have_been made changes .
-nommod(tehty-3, Suunnitelmaan-1)
+nmod(tehty-3, Suunnitelmaan-1)
 auxpass(tehty-3, on-2)
 dobj(tehty-3, muutoksia-4)
 punct(tehty-3, .-5)
@@ -188,7 +188,7 @@ punct(tehty-3, .-5)
 <!-- fname:auxpass2.pdf -->
 <div class="sd-parse">
 Suunnitelmaan voidaan tehdä muutoksia . \n Into_the_plan can_be made(1st_inf.) changes .
-nommod(tehdä-3, Suunnitelmaan-1)
+nmod(tehdä-3, Suunnitelmaan-1)
 aux(tehdä-3, voidaan-2)
 dobj(tehdä-3, muutoksia-4)
 punct(tehdä-3, .-5)
@@ -198,13 +198,13 @@ punct(tehdä-3, .-5)
 
 <h2 id="case-case-marking">case (case marking)</h2>
 
-<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nommod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="#sec-nommod">nommod</a>).</p>
+<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
 
 <!-- fname:adpos.pdf -->
 <div class="sd-parse">
 Talo sijaitsee mäen takana . \n House is_located hill behind .
 nsubj(sijaitsee-2, Talo-1)
-nommod(sijaitsee-2, mäen-3)
+nmod(sijaitsee-2, mäen-3)
 case(mäen-3, takana-4)
 punct(sijaitsee-2, .-5)
 </div>
@@ -235,7 +235,7 @@ conj(kirjat-1, viivottimet-5)
 <!-- fname:ccomp1.pdf -->
 <div class="sd-parse">
 Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
-nommod(Sanoin-1, hänelle-2)
+nmod(Sanoin-1, hänelle-2)
 ccomp(Sanoin-1, kiehuu-6)
 punct(kiehuu-6, ,-3)
 complm(kiehuu-6, että-4)
@@ -342,7 +342,7 @@ punct(punainen-3, .-4)
 Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
 csubj-cop(hauskaa-2, käydä-3)
-nommod(käydä-3, teatterissa-4)
+nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 </div>
 
@@ -356,7 +356,7 @@ punct(hauskaa-2, .-5)
 <div class="sd-parse">
 Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
 poss(aikomuksenaan-2, Hänen-1)
-nommod(oli-3, aikomuksenaan-2)
+nmod(oli-3, aikomuksenaan-2)
 csubj(oli-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
@@ -417,7 +417,7 @@ Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
 discourse(sanoisi-5, Hmm-1)
 punct(Hmm-1, ...-2)
 dobj(sanoisi-5, Mitähän-3)
-nommod(sanoisi-5, tuohon-4)
+nmod(sanoisi-5, tuohon-4)
 punct(sanoisi-5, ?-6)
 </div>
 
@@ -441,7 +441,7 @@ punct(sulki-2, .-4)
 <div class="sd-parse">
 Päätös tehtiin marraskuussa . \n The_decision was_made in_November .
 dobj(tehtiin-2, Päätös-1)
-nommod(tehtiin-2, marraskuussa-3)
+nmod(tehtiin-2, marraskuussa-3)
 punct(tehtiin-2, .-4)
 </div>
 
@@ -499,7 +499,7 @@ punct(Sain-1, .-4)
 <!-- fname:infmod.pdf -->
 <div class="sd-parse">
 Minulla oli lupa mennä ulos . \n I had permission to_go out .
-nommod(oli-2, Minulla-1)
+nmod(oli-2, Minulla-1)
 nsubj(oli-2, lupa-3)
 infmod(lupa-3, mennä-4)
 advmod(mennä-4, ulos-5)
@@ -516,11 +516,11 @@ punct(oli-2, .-6)
 <div class="sd-parse">
 Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
 mark(tulin-2, Kun-1)
-nommod(tulin-2, kotiin-3)
+nmod(tulin-2, kotiin-3)
 punct(tulin-2, ,-4)
 advcl(jätin-5, tulin-2)
 dobj(jätin-5, avaimen-6)
-nommod(jätin-5, pöydälle-7)
+nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 </div>
 
@@ -575,7 +575,7 @@ punct(jätin-5, .-8)
 <div class="sd-parse">
 Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
-nommod(juhlivat-2, öisin-3)
+nmod(juhlivat-2, öisin-3)
 name(öisin-3, Jumalat-1)
 nsubj-cop(esikoisteos-7, juhlivat-2)
 cop(esikoisteos-7, on-4)
@@ -624,7 +624,7 @@ punct(on-2, .-5)
 
 <p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
 
-<!-- fname:nommod_alone.pdf -->
+<!-- fname:nmod_alone.pdf -->
 <div class="sd-parse">
 Maljakko oli pöydällä . \n The_vase was on_the_table .
 nsubj(oli-2, Maljakko-1)
@@ -632,7 +632,7 @@ nmod(oli-2, pöydällä-3)
 punct(oli-2, .-4)
 </div>
 
-<!-- fname:nommod_adpos.pdf -->
+<!-- fname:nmod_adpos.pdf -->
 <div class="sd-parse">
 Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
 nsubj(oli-2, Maljakko-1)
@@ -704,7 +704,7 @@ punct(kuiva-4, .-5)
 <div class="sd-parse">
 Eeva tuli töistä . \n Eeva came from_work .
 nsubj(tuli-2, Eeva-1)
-nommod(tuli-2, töistä-3)
+nmod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
 </div>
 
@@ -744,7 +744,7 @@ punct(painoi-2, .-5)
 <div class="sd-parse">
 Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
 dobj(Tapasin-1, hänet-2)
-nommod(Tapasin-1, vuonna-3)
+nmod(Tapasin-1, vuonna-3)
 nummod(vuonna-3, 1972-4)
 punct(Tapasin-1, .-5)
 </div>
@@ -772,7 +772,7 @@ dobj(paistoi-6, ne-7)
 <!-- fname:parataxis_speech.pdf -->
 <div class="sd-parse">
 Tulen kotiin vasta myöhään , mies sanoi . \n I_will_come home only late , the_man said .
-nommod(Tulen-1, kotiin-2)
+nmod(Tulen-1, kotiin-2)
 advmod(Tulen-1, myöhään-4)
 advmod(myöhään-4, vasta-3)
 punct(Tulen-1, ,-5)
@@ -812,7 +812,7 @@ punct(ilahduttivat-3, .-5)
 <div class="sd-parse">
 Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
 partmod(juoksin-2, Huolestuneena-1)
-nommod(juoksin-2, hänen-3)
+nmod(juoksin-2, hänen-3)
 adpos(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
 </div>
@@ -839,14 +839,14 @@ punct(osoittautui-2, .-5)
 Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
 poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
-nommod(jäi-3, kouluun-4)
+nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
 </div>
 
 <!-- fname:poss2.pdf -->
 <div class="sd-parse">
 Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
-nommod(on-2, Autossa-1)
+nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
 poss(moottori-5, litran-4)
@@ -955,7 +955,7 @@ nsubj(palasi-7, hän-6)
 Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
 nsubj-cop(neliökilometriä-6, Alue-1)
 cop(neliökilometriä-6, oli-2)
-nommod(neliökilometriä-6, suuruudeltaan-3)
+nmod(neliökilometriä-6, suuruudeltaan-3)
 quantmod(kymmenen-5, noin-4)
 num(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
@@ -1012,7 +1012,7 @@ advmod(nähnyt-6, eilen-7)
 punct(nähnyt-6, ,-8)
 nsubj(oli-9, Mies-1)
 advmod(oli-9, taas-10)
-nommod(oli-9, ovella-11)
+nmod(oli-9, ovella-11)
 punct(oli-9, .-12)
 </div>
 
