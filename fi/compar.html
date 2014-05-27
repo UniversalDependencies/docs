@@ -45,6 +45,160 @@ comparator(näytelmä-4, kuin-2)
 amod(näytelmä-4, eilinen-3)
 </div>
 
+<!--details-->
+
+<h2 id="comparatives-and-superlatives">Comparatives and superlatives</h2>
+
+<p>This section describes annotating comparative and superlative
+structures, which, in TDT, are considered to include also certain
+similar structures that do not contain a comparative or superlative
+wordform.</p>
+
+<h3 id="comparatives">Comparatives</h3>
+
+<p>Structures with comparative adjectives and adverbs may be difficult
+to annotate: they are often elliptical, and it may be difficult to
+tell what is being compared with what. In the Finnish-specific
+version of the SD scheme, there are two dependency types that are
+reserved for comparative structures, <code>compar</code> and
+<code>comparator</code>. Both of these types are new types not present
+in the original SD scheme.</p>
+
+<p>The basic usage of these two types is as follows. The comparative
+adjective or adverb acts as the head for a <code>compar</code>
+dependency, and <em>the element being compared</em> is its
+dependent. The element being compared also acts as the head for a
+<code>comparator</code> dependency, the dependent of which is a
+comparative conjunction, nearly always <em>kuin</em>.</p>
+
+<p>\myfigexample{comparatives.pdf}</p>
+
+<p>Note that the comparative adjective or adverb remains the head of
+the <code>compar</code> dependency even if the word order is such that
+the dependency becomes non-projective.</p>
+
+<p>\myfigexample{comparatives_non-projective.pdf}</p>
+
+<p>From the previous example it can also be seen that comparative
+structures are often elliptical in some way. Strictly speaking, the
+example does not compare Matti and Pekka, but rather their cars, and
+the car owned by Pekka is not explicitly present in the sentence. As
+a general rule of thumb, the different kinds of ellipsis present in
+comparative structures are not marked with null tokens, but rather
+the available elements are used wherever possible.</p>
+
+<p>It is also possible to make comparisons without the comparative
+conjunction <em>kuin</em>. In these cases, only the dependency type
+<code>compar</code> is used, marking the comparative adjective or
+adverb as the head, and the element compared as the dependent, just
+as in the case with the comparative conjunction present.</p>
+
+<p>\myfigexample{compar_no_comparator.pdf}</p>
+
+<p>In TDT, also some structures not involving a comparative adjective
+or adverb can be marked as comparatives. In order to qualify as a
+comparative construction, a structure has to contain either a
+comparative word form or a word form that otherwise semantically
+entails comparison, such as <em>samanlainen (similar)</em>, <em>sama
+  (same)</em>, <em>erilainen (different)</em> or <em>eri (differing,
+  separate)</em>. (Note that for example the word \emph{sama} is
+  in fact a pronoun in Finnish.)</p>
+
+<p>\myfigexample{comparative_sama.pdf}</p>
+
+<p>An additional difficulty is posed by the fact that in Finnish, the
+comparative conjunction <em>kuin</em> can also appear as a
+subordinating conjunction as well as an adverb. Borderline
+situations are resolved on a case-by-case basis, considering whether
+or not there is a comparison involved in the structure and,
+secondarily, whether the dependent structure is a
+clause. (Comparative structures can also occasionally be
+  full clauses.)</p>
+
+<h3 id="superlatives">Superlatives</h3>
+
+<p>Superlatives are less problematic than comparatives but deserve some
+attention nevertheless. The basic case with superlatives is simple:
+a lone superlative modifying a noun. The superlative form in this
+case is not marked in any particular way in the syntax annotation,
+but the structure is annotated similarly to any adjective modifying
+a noun. The same strategy of not marking the superlative in any
+particular way is also used in cases where the superlative acts as a
+predicative.</p>
+
+<p>\myfigexample{superlative_basic.pdf}</p>
+
+<p>Often a superlative is modified by nominal in some manner. A very
+common phenomenon is a genitive modifier modifying a superlative.
+For instance, in an expression such as</p>
+
+<p>\myfigexample{super1.pdf}</p>
+
+<p>the cook is the best <em>of those in/of Finland</em> and
+thus the correct head word for the genitive modifier is
+<em>paras</em>. Similarly, an ordinal number can act as the head of a
+genitive modifier. For example, in</p>
+
+<p>\myfigexample{super2.pdf}</p>
+
+<p>the championship is the sixth out of <em>those of
+  Virtanen</em>, and thus the genitive modifier should modify the
+ordinal number.</p>
+
+<p>However, it is still possible for the noun to act as the head word
+in some cases. For instance, in</p>
+
+<p>\myfigexample{super3.pdf}</p>
+
+<p>the enemy is not the worst <em>of the hare</em>, but rather
+it is an enemy of the hare, and it is the worst enemy. Thus, the
+head word should be <em>hare</em>.</p>
+
+<p>As a rule of thumb, if the noun phrase containing the genitive
+modifier can be turned into a copular clause in the following
+fashion, then the genitive modifier should modify the superlative or
+ordinal number.</p>
+
+<ul>
+  <li>Kokki on Suomen paras. (The cook is the best in
+Finland.)</li>
+  <li>Mestaruus on Virtasen kuudes. (The
+championship is the sixth for Virtanen.)</li>
+</ul>
+
+<p>are perfectly valid, but</p>
+
+<ul>
+  <li>?Vihollinen on rusakon pahin. (?The enemy is the worst of
+the hare.)</li>
+</ul>
+
+<p>is questionable at best. Thus, in <em>Suomen paras
+  kokki</em> and <em>Virtasen kuudes mestaruus</em>, the genitive modifier
+is considered to modify the superlative adjective, but in
+<em>rusakon pahin vihollinen</em>, it is considered to modify the noun
+directly.</p>
+
+<p>In this context, it should also be noted that in addition to
+superlatives, also certain other adjectives can also act as the head
+of a genitive modifier. These adjectives can be semantically
+superlative-like (<em>viimeinen (last)</em>), but there are also many
+others, such as <em>oma (own)</em>, <em>kaltainen (-like)</em>,
+<em>välinen (between (adj.))</em>, and <em>vastainen (against
+  (adj.))</em>.</p>
+
+<p>Also other nominal modifiers are possible, expressing the set of
+beings from which the objects are drawn when making the
+comparison. These are treated similarly to the genitive modifiers,
+making the superlative wordform the head of the modifier if the
+modifier expresses the set of beings to draw from.</p>
+
+<p>\myfigexample{superlative_nommod.pdf}</p>
+
+<p>Note how in the previous example the phrase <em>kukista kaunein</em>
+can act as a noun phrase (it is the subject of the clause), even
+though its head word is an adjective. <!--See Section~\ref{sec-NP-no-N}
+on nounless noun phrases.--></p>
 
 
       </div>
