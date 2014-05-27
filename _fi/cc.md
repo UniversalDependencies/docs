@@ -19,7 +19,7 @@ conj(kirjat-1, viivottimet-5)
 
 <!--details-->
 
-Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type `preconj` (see Section [preconj](#sec-preconj)) and the second part with `cc` in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type `dep` (Section [dep](#sec-dep)), the rightmost word being the head.
+Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type `[preconj](http://universaldependencies.github.io/docs/fi/preconj.html)` and the second part with `cc` in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type `[dep](http://universaldependencies.github.io/docs/fi/dep.html)dep`, the rightmost word being the head.
 
 <!-- fname:cc2.pdf -->
 <div class="sd-parse">
