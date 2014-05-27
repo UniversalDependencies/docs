@@ -704,78 +704,75 @@ nfincl(tirer-4, démontrant-5)
 <p>The <em>nmod</em> relation is used for nominal modifiers. In general, <em>nmod</em> expresses some form of oblique or adjunct relation that can be further specified by the <em>case</em>.  In conjunction with the <em>case</em> relation, it provides a uniform analysis for:</p>
 
 <ul>
-  <li>
-    <p>the possessive alternation:</p>
-
-    <div class="sd-parse">
-  the Chair 's office
-  det(Chair-2, the-1)
-  nmod(office-4, Chair-2)
-  case(Chair-2, 's-3)
-  </div>
-
-    <div class="sd-parse">
-  the office of the Chair
-  det(office-2, the-1)
-  nmod(office-2, Chair-5)
-  case(Chair-5, of-3)
-  det(Chair-5, the-4)
-  </div>
-  </li>
-  <li>
-    <p>variant forms with case, a preposition or a postposition, as in Finnish for example:</p>
-
-    <pre><code>  &lt;div class="sd-parse"&gt;
-  etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
-  nmod(etsiä, johtolankaa)
-  case(johtolankaa, ilman)
-  &lt;/div&gt;
-
-  &lt;div class="sd-parse"&gt;
-  etsiä taskulampun kanssa \n to_search torch.GENITIVE with
-  nmod(etsiä, taskulampun)
-  case(taskulampun, kanssa)
-  &lt;/div&gt;
-
-  &lt;div class="sd-parse"&gt;
-  etsiä johtolangatta \n to_search clue.ABESSIVE
-  nmod(etsiä, johtolangatta)
-  &lt;/div&gt;
-</code></pre>
-  </li>
-  <li>
-    <p>the dative alternation where the prepositional construction gets a similar analysis to the double object construction:</p>
-  </li>
+  <li>the possessive alternation:</li>
 </ul>
 
- 		&lt;div class="sd-parse"&gt;
-<pre><code>	give the children the toys
-	dobj(give, toys)
-	iobj(give, children)
-	&lt;/div&gt;
+<div class="sd-parse">
+the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, 's-3)
+</div>
 
-	&lt;div class="sd-parse"&gt;
-	give the toys to the children
-	dobj(give, toys)
-	nmod(give, children)
-	case(children, to)
-	&lt;/div&gt;
+<div class="sd-parse">
+the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
+</div>
 
-	&lt;div class="sd-parse"&gt;
-	donner les_jouets aux enfants \n give the_toys to_the children
-	dobj(donner-1, les_jouets-2)
-	nmod(donner-1, enfants-4)
-	case(enfants-4, aux-3)
-	&lt;/div&gt;
-</code></pre>
+<ul>
+  <li>variant forms with case, a preposition or a postposition, as in Finnish for example:</li>
+</ul>
+
+<div class="sd-parse">
+etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+nmod(etsiä, johtolankaa)
+case(johtolankaa, ilman)
+</div>
+
+<div class="sd-parse">
+etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+nmod(etsiä, taskulampun)
+case(taskulampun, kanssa)
+</div>
+
+<div class="sd-parse">
+etsiä johtolangatta \n to_search clue.ABESSIVE
+nmod(etsiä, johtolangatta)
+</div>
+
+<ul>
+  <li>the dative alternation where the prepositional construction gets a similar analysis to the double object construction:</li>
+</ul>
+
+<div class="sd-parse">
+give the children the toys
+dobj(give, toys)
+iobj(give, children)
+</div>
+
+<div class="sd-parse">
+give the toys to the children
+dobj(give, toys)
+nmod(give, children)
+case(children, to)
+</div>
+
+<div class="sd-parse">
+donner les_jouets aux enfants \n give the_toys to_the children
+dobj(donner-1, les_jouets-2)
+nmod(donner-1, enfants-4)
+case(enfants-4, aux-3)
+</div>
 
 <p><em>nmod</em> is also used for temporal nominal modifiers:</p>
 
-<pre><code>	&lt;div class="sd-parse"&gt;
-	Last night , I swam in the pool
-	nmod(swam, night)
-	&lt;/div&gt;
-</code></pre>
+<div class="sd-parse">
+Last night , I swam in the pool
+nmod(swam, night)
+</div>
 
 <h2 id="nsubj-nominal-subject">nsubj: nominal subject</h2>
 
