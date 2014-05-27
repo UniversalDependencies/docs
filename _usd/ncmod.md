@@ -11,7 +11,7 @@ clauses are introduced, we use *ncmod* for nominalized clause modifiers (of a NP
 
 <div class="sd-parse">
 They heard about you missing classes
-ncmod(heard-4, missing-10)
+ncmod(heard-2, missing-6)
 </div>
 
 <div class="sd-parse">
