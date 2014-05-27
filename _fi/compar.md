@@ -6,7 +6,7 @@ shortdef : 'comparative'
 
 ## compar (comparative)
 
-The dependency type `compar` is used in comparative constructions, most often involving adjectives in the comparative form. The head of the `compar` dependency is the comparative wordform, and the dependent is the compared element. Annotating comparative and superlative structures is described in Section [comparatives](#sec-comparatives).
+The dependency type `compar` is used in comparative constructions, most often involving adjectives in the comparative form. The head of the `compar` dependency is the comparative wordform, and the dependent is the compared element. 
 
 
 <!-- fname:compar.pdf -->
