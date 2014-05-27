@@ -59,6 +59,88 @@ amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
 </div>
 
+<!--details-->
+
+<h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
+
+<p>The Finnish Grammar (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a> <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>)
+distinguishes between three similar phenomena: the apposition, the
+appellation modifier (<em>nimikemääarite</em>) and the supporting noun
+(<em>tukisubstantiivi</em>). Out of these, the apposition and the appellation
+modifier
+(<a href="http://universaldependencies.github.io/docs/fi/nn.html">nn</a>) are
+distinguished in TDT, and supporting noun structures are considered
+appositions.</p>
+
+<p>All of these structures have in common that they all include two
+(usually adjacent) elements, most often noun phrases, which refer to
+the same entity or entities and have the same function in the
+sentence. Thus, in order to be considered an apposition, an
+appellation modifier or a supporting noun structure, a structure has
+to fulfill the following criteria (the same as in the Finnish
+grammar <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>):</p>
+
+<ol>
+  <li>Both elements of the structure must refer to the same entity
+ or group of entities.</li>
+  <li>Both elements of the structure must have the same function
+ in the sentence (for instance, the subject).</li>
+</ol>
+
+<p>These criteria are interpreted rather loosely, and there are no
+restrictions on the part of speech of the elements involved. Most
+appositions (and appellation modifiers) in TDT consist of noun
+phrases, but there are occurrences of different parts of speech as
+appositions; notably the fiction section of the treebank contains
+few examples of verbal appositions.</p>
+
+<p>Among the expressions that fulfill criteria 1 and 2, six common
+cases can be distinguished according to inflection and punctuation.</p>
+
+<ol>
+  <li>singular, both elements in nominative, no punctuation: <em>professori Matti Tamminen (professor Matti Tamminen)</em></li>
+  <li>singular, first element in nominative, second element inflected: <em>professori Matti Tammisen mukaan (according to professor Matti Tamminen)</em></li>
+  <li>singular, both elements in nominative, punctuation in between: <em>professori, Matti Tamminen (the professor, Matti Tamminen)</em></li>
+  <li>singular, first element inflected, second element in nominative: <em>romaanissa Putkinotko (in the novel Putkinotko)</em></li>
+  <li>singular, both elements inflected: <em>professorin, Matti Tammisen, mukaan (according to the professor, Matti Tamminen)</em></li>
+  <li>plural, elements either in nominative or inflected: <em>professorit Matti Tamminen ja Erkki Koivunen (the professors Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden, Matti Tammisen ja Erkki Koivusen, mukaan (according to the professors, Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden Matti Tamminen and Erkki Koivunen mukaan (according to the professors Matti Tamminen and Erkki Koivunen)</em></li>
+</ol>
+
+<p>Out of these six cases, the first two are considered appellation
+modifiers, and thus marked with the dependency type
+<code>nn</code>. Note that the governor of the dependency in
+appellation modifiers is the latter of the two words.</p>
+
+<p>\myfigexample{nn_appellation.pdf}</p>
+
+<p>The remaining four cases are all considered appositions and marked
+with the type <code>appos</code>. Contrary to appellation modifiers, in
+apposition structures the first word is considered the governor.</p>
+
+<p>\myfigexample{appos1.pdf}</p>
+
+<p>It should be noted that case number 4 is in fact an example of a
+supporting noun structure, but in TDT, these are marked as
+appositions. In plural (case number 6), all possible case
+combinations are considered appositions.</p>
+
+<p>The only difference between the cases 1 and 3 is the presence or
+absence of punctuation. Often, said punctuation is a comma, but also
+parentheses, a dash or a colon are possible. As can be seen from the
+examples above, the punctuation produces a semantic difference,
+which is taken into account in the annotation. Punctuation
+variations of the cases 2, 4, and 5 need not be considered, as these
+variations are ungrammatical. (Naturally, ungrammatical phenomena
+can and do occur in a corpus of actual language, but these cases are
+resolved on a case-by-case basis.)</p>
+
+<ul>
+  <li>*professori, Matti Tammisen mukaan</li>
+  <li>*romaanissa, Putkinotko</li>
+  <li>*professorin Matti Tammisen mukaan (unless a possessive reading, <em>the
+      professor’s Matti Tamminen</em>, is intended)</li>
+</ul>
+
 
 
       </div>
