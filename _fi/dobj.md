@@ -25,7 +25,7 @@ As in Finnish a passive clause does not have a subject, and what in English woul
 <div class="sd-parse">
 Päätös tehtiin marraskuussa . \n The_decision was_made in_November .
 dobj(tehtiin-2, Päätös-1)
-nommod(tehtiin-2, marraskuussa-3)
+nmod(tehtiin-2, marraskuussa-3)
 punct(tehtiin-2, .-4)
 </div>
 

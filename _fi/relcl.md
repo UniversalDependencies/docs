@@ -21,7 +21,7 @@ advmod(nähnyt-6, eilen-7)
 punct(nähnyt-6, ,-8)
 nsubj(oli-9, Mies-1)
 advmod(oli-9, taas-10)
-nommod(oli-9, ovella-11)
+nmod(oli-9, ovella-11)
 punct(oli-9, .-12)
 </div>
 

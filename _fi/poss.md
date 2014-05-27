@@ -14,7 +14,7 @@ The dependency type `poss` stands for *possessive* in the original SD scheme, bu
 Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
 poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
-nommod(jäi-3, kouluun-4)
+nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
 </div>
 
@@ -23,7 +23,7 @@ punct(jäi-3, .-5)
 <!-- fname:poss2.pdf -->
 <div class="sd-parse">
 Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
-nommod(on-2, Autossa-1)
+nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
 poss(moottori-5, litran-4)

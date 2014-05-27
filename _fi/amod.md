@@ -12,7 +12,7 @@ Nouns may take adjectival modifiers, which are marked with the dependency type `
 <!-- fname:amod_noun.pdf -->
 <div class="sd-parse">
 Tien vieressä on suuri kivi . \n Road next_to is large rock .
-nommod(on-3, Tien-1)
+nmod(on-3, Tien-1)
 adpos(Tien-1, vieressä-2)
 nsubj(on-3, kivi-5)
 amod(kivi-5, suuri-4)

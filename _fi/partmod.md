@@ -38,7 +38,7 @@ Occasionally, participles can modify a verb as well. These uses include cases th
 <div class="sd-parse">
 Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
 partmod(juoksin-2, Huolestuneena-1)
-nommod(juoksin-2, hänen-3)
+nmod(juoksin-2, hänen-3)
 adpos(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
 </div>

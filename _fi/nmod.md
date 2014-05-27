@@ -9,7 +9,7 @@ shortdef : 'nominal modifier'
 *Nominal modifiers* are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.
 
 
-<!-- fname:nommod_alone.pdf -->
+<!-- fname:nmod_alone.pdf -->
 <div class="sd-parse">
 Maljakko oli pöydällä . \n The_vase was on_the_table .
 nsubj(oli-2, Maljakko-1)
@@ -19,7 +19,7 @@ punct(oli-2, .-4)
 
 
 
-<!-- fname:nommod_adpos.pdf -->
+<!-- fname:nmod_adpos.pdf -->
 <div class="sd-parse">
 Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
 nsubj(oli-2, Maljakko-1)

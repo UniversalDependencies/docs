@@ -12,7 +12,7 @@ shortdef : 'clausal complement'
 <!-- fname:ccomp1.pdf -->
 <div class="sd-parse">
 Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
-nommod(Sanoin-1, hänelle-2)
+nmod(Sanoin-1, hänelle-2)
 ccomp(Sanoin-1, kiehuu-6)
 punct(kiehuu-6, ,-3)
 complm(kiehuu-6, että-4)

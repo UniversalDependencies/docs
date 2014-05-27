@@ -24,7 +24,7 @@ punct(painoi-2, .-5)
 <div class="sd-parse">
 Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
 dobj(Tapasin-1, hänet-2)
-nommod(Tapasin-1, vuonna-3)
+nmod(Tapasin-1, vuonna-3)
 nummod(vuonna-3, 1972-4)
 punct(Tapasin-1, .-5)
 </div>

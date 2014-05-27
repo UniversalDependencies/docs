@@ -27,7 +27,7 @@ punct(luennoi-6, .-8)
 <div class="sd-parse">
 Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
 appos(Kirjassa-1, Putkinotko-2)
-nommod(on-3, Kirjassa-1)
+nmod(on-3, Kirjassa-1)
 nsubj(on-3, juoni-5)
 amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)

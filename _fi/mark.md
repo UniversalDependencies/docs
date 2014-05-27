@@ -13,11 +13,11 @@ A *marker* (`mark`) is the subordinating conjunction in a non-complement subordi
 <div class="sd-parse">
 Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
 mark(tulin-2, Kun-1)
-nommod(tulin-2, kotiin-3)
+nmod(tulin-2, kotiin-3)
 punct(tulin-2, ,-4)
 advcl(jätin-5, tulin-2)
 dobj(jätin-5, avaimen-6)
-nommod(jätin-5, pöydälle-7)
+nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 </div>
 
