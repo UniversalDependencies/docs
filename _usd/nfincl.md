@@ -4,7 +4,7 @@ title: 'nfincl'
 shortdef: 'non-finite clause'
 ---
 
-## nfincl: nfincl
+## nfincl: non-finite clause
 
 The *nfincl* relation stands for "non-finite clause" and is used for participial and infinitival modifiers.
 
