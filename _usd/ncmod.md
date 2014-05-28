@@ -11,10 +11,10 @@ clauses are introduced, we use *ncmod* for nominalized clause modifiers (of a NP
 
 <div class="sd-parse">
 They heard about you missing classes
-ncmod(heard-2, missing-6)
+ncmod(heard, missing)
 </div>
 
 <div class="sd-parse">
 We have no information on whether users are at risk
-ncmod(information-4, risk-10)
+ncmod(information, risk)
 </div>
