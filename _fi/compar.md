@@ -43,13 +43,32 @@ dependent. The element being compared also acts as the head for a
 `comparator` dependency, the dependent of which is a
 comparative conjunction, nearly always *kuin*.
 
-\myfigexample{comparatives.pdf}
+<!-- fname:comparatives.pdf -->
+<div class="sd-parse">
+Keittiö on pienempi kuin olohuone . \n Kitchen is smaller than livingroom .
+nsubj-cop(pienempi-3, Keittiö-1)
+cop(pienempi-3, on-2)
+compar(pienempi-3, olohuone-5)
+comparator(olohuone-5, kuin-4)
+punct(pienempi-3, .-6)
+</div>
+
 
 Note that the comparative adjective or adverb remains the head of
 the `compar` dependency even if the word order is such that
 the dependency becomes non-projective.
 
-\myfigexample{comparatives_non-projective.pdf}
+<!-- fname:comparatives_non-projective.pdf -->
+<div class="sd-parse">
+Matilla on isompi auto kuin Pekalla . \n At_Matti is bigger car than Pekka .
+nmod(on-2, Matilla-1)
+nsubj(on-2, auto-4)
+amod(auto-4, isompi-3)
+compar(isompi-3, Pekalla-6)
+comparator(Pekalla-6, kuin-5)
+punct(on-2, .-7)
+</div>
+
 
 From the previous example it can also be seen that comparative
 structures are often elliptical in some way. Strictly speaking, the
@@ -65,7 +84,15 @@ conjunction *kuin*. In these cases, only the dependency type
 adverb as the head, and the element compared as the dependent, just
 as in the case with the comparative conjunction present.
 
-\myfigexample{compar_no_comparator.pdf}
+<!-- fname:compar_no_comparator.pdf -->
+<div class="sd-parse">
+Olohuone on keittiötä suurempi . \n Livingroom is (than_)kitchen bigger .
+nsubj-cop(suurempi-4, Olohuone-1)
+cop(suurempi-4, on-2)
+compar(suurempi-4, keittiötä-3)
+punct(suurempi-4, .-5)
+</div>
+
 
 In TDT, also some structures not involving a comparative adjective
 or adverb can be marked as comparatives. In order to qualify as a
@@ -76,7 +103,16 @@ entails comparison, such as *samanlainen (similar)*, *sama
   separate)*. (Note that for example the word \emph{sama} is
   in fact a pronoun in Finnish.)
 
-\myfigexample{comparative_sama.pdf}
+<!-- fname:comparative_sama.pdf -->
+<div class="sd-parse">
+Luin saman kirjan kuin Pekka . \n I_read same book as Pekka .
+dobj(Luin-1, kirjan-3)
+det(kirjan-3, saman-2)
+compar(saman-2, Pekka-5)
+comparator(Pekka-5, kuin-4)
+punct(Luin-1, .-6)
+</div>
+
 
 An additional difficulty is posed by the fact that in Finnish, the
 comparative conjunction *kuin* can also appear as a
@@ -98,20 +134,42 @@ a noun. The same strategy of not marking the superlative in any
 particular way is also used in cases where the superlative acts as a
 predicative.
 
-\myfigexample{superlative_basic.pdf}
+<!-- fname:superlative_basic.pdf -->
+<div class="sd-parse">
+Suurin paketti oli muiden takana . \n Biggest package was others behind .
+amod(paketti-2, Suurin-1)
+nsubj(oli-3, paketti-2)
+nmod(oli-3, muiden-4)
+case(muiden-4, takana-5)
+punct(oli-3, .-6)
+</div>
+
 
 Often a superlative is modified by nominal in some manner. A very
 common phenomenon is a genitive modifier modifying a superlative.
 For instance, in an expression such as
 
-\myfigexample{super1.pdf}
+<!-- fname:super1.pdf -->
+<div class="sd-parse">
+Suomen paras kokki \n Finland's best cook
+poss(paras-2, Suomen-1)
+amod(kokki-3, paras-2)
+</div>
+
 
 the cook is the best *of those in/of Finland* and
 thus the correct head word for the genitive modifier is
 *paras*. Similarly, an ordinal number can act as the head of a
 genitive modifier. For example, in
 
-\myfigexample{super2.pdf}
+<!-- fname:super2.pdf -->
+<div class="sd-parse">
+Virtasen kuudes mestaruus \n Virtanen's sixth championship
+poss(kuudes-2, Virtasen-1)
+num(mestaruus-3, kuudes-2)
+</div>
+
+
 
 the championship is the sixth out of *those of
   Virtanen*, and thus the genitive modifier should modify the
@@ -120,7 +178,13 @@ ordinal number.
 However, it is still possible for the noun to act as the head word
 in some cases. For instance, in
 
-\myfigexample{super3.pdf}
+<!-- fname:super3.pdf -->
+<div class="sd-parse">
+Rusakon pahin vihollinen \n The_hare's worst enemy
+poss(vihollinen-3, Rusakon-1)
+amod(vihollinen-3, pahin-2)
+</div>
+
 
 the enemy is not the worst *of the hare*, but rather
 it is an enemy of the hare, and it is the worst enemy. Thus, the
@@ -161,9 +225,17 @@ comparison. These are treated similarly to the genitive modifiers,
 making the superlative wordform the head of the modifier if the
 modifier expresses the set of beings to draw from.
 
-\myfigexample{superlative_nommod.pdf}
+<!-- fname:superlative_nommod.pdf -->
+<div class="sd-parse">
+Kukista kaunein oli ikkunalaudalla . \n From_the_flowers most_beautiful was on_windowsill .
+nmod(kaunein-2, Kukista-1)
+nsubj(oli-3, kaunein-2)
+nmod(oli-3, ikkunalaudalla-4)
+punct(oli-3, .-5)
+</div>
+
 
 Note how in the previous example the phrase *kukista kaunein*
 can act as a noun phrase (it is the subject of the clause), even
-though its head word is an adjective. <!--See Section~\ref{sec-NP-no-N}
+though its head word is an adjective. <!-- TODO See Section~\ref{sec-NP-no-N}
 on nounless noun phrases.-->

@@ -33,5 +33,5 @@ nsubj(palasi-7, hän-6)
 </div>
 
 
-Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial).
+<!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
 

@@ -6,7 +6,7 @@ shortdef : 'genitive modifier'
 
 ## poss (genitive modifier) <a name="sec-poss"></a>
 
-The dependency type `poss` stands for *possessive* in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: *the genitive object*, `gobj` (see Section [gobj](#sec-gobj)) and *the genitive subject*, `gsubj` (Section [gsubj](#sec-gsubj)).
+The dependency type `poss` stands for *possessive* in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: *the genitive object*, `<a href="http://universaldependencies.github.io/docs/fi/gobj.html>gobj</a>` and *the genitive subject*, `<a href="http://universaldependencies.github.io/docs/fi/gsubj.html>gsubj</a>`.
 
 
 <!-- fname:poss1.pdf -->

@@ -6,7 +6,9 @@ shortdef : 'numerical expression'
 
 ## number (numerical expression)
 
-Numerical expressions consisting of multiple tokens are annotated using the `number` dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. Special cases of numerical expressions are discussed in Section [numberspecial](#sec-numberspecial).
+Numerical expressions consisting of multiple tokens are annotated using the `number` dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. 
+
+<!-- TODO Special cases of numerical expressions are discussed in Section [numberspecial](#sec-numberspecial). -->
 
 
 <!-- fname:number.pdf -->

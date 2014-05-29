@@ -6,7 +6,9 @@ shortdef : 'passive auxiliary'
 
 ## auxpass (passive auxiliary)
 
-The only *passive auxiliary* (`auxpass`) in Finnish is *olla* (*to be*). An auxiliary is only considered a passive auxiliary if the main verb is in passive, not if only the auxiliary is in passive. In the latter case the auxiliary is marked as a non-passive auxiliary, `aux`. The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}.
+The only *passive auxiliary* (`auxpass`) in Finnish is *olla* (*to be*). An auxiliary is only considered a passive auxiliary if the main verb is in passive, not if only the auxiliary is in passive. In the latter case the auxiliary is marked as a non-passive auxiliary, `aux`. 
+
+<!-- TODO The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}. -->
 
 
 <!-- fname:auxpass1.pdf -->

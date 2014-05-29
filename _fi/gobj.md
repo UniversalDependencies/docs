@@ -6,7 +6,7 @@ shortdef : 'genitive object'
 
 ## gobj (genitive object) <a name="sec-gobj"></a>
 
-Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers (`poss`, see Section [poss](#sec-poss)).
+Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers `<a href="http://universaldependencies.github.io/docs/fi/poss.html>poss</a>`.
 
 
 <!-- fname:gobj.pdf -->

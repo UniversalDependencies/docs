@@ -86,13 +86,23 @@ modifiers, and thus marked with the dependency type
 `nn`. Note that the governor of the dependency in
 appellation modifiers is the latter of the two words.
 
-\myfigexample{nn_appellation.pdf}
+<!-- TODO missing fig \myfigexample{nn_appellation.pdf} -->
 
 The remaining four cases are all considered appositions and marked
 with the type `appos`. Contrary to appellation modifiers, in
 apposition structures the first word is considered the governor.
 
-\myfigexample{appos1.pdf}
+<!-- fname:appos1.pdf -->
+<div class="sd-parse">
+Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+appos(Professori-1, Tamminen-4)
+punct(Tamminen-4, ,-2)
+punct(Tamminen-4, ,-5)
+name(Tamminen-4, Matti-3)
+nsubj(luennoi-6, Professori-1)
+advmod(luennoi-6, tänään-7)
+punct(luennoi-6, .-8)
+</div>
 
 It should be noted that case number 4 is in fact an example of a
 supporting noun structure, but in TDT, these are marked as
