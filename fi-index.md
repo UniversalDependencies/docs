@@ -4,6 +4,8 @@ title:  'Finnish Relations'
 generated: 'true'
 ---
 
+Note: This document is a draft. Not all relations have been converted to USD-compatible description yet.
+
 <table class="typeindex">
   <tr>
     <td>
