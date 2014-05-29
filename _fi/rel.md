@@ -6,7 +6,9 @@ shortdef : 'relativizer'
 
 ## rel (relativizer) <a name="sec-rel"></a>
 
-The *relativizer* (`rel`) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses).
+The *relativizer* (`rel`) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. 
+
+<!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
 
 
 <!-- fname:rel_basic.pdf -->
