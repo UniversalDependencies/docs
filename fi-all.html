@@ -174,7 +174,9 @@ punct(lähteä-3, .-5)
 
 <h2 id="auxpass-passive-auxiliary">auxpass (passive auxiliary)</h2>
 
-<p>The only <em>passive auxiliary</em> (<code>auxpass</code>) in Finnish is <em>olla</em> (<em>to be</em>). An auxiliary is only considered a passive auxiliary if the main verb is in passive, not if only the auxiliary is in passive. In the latter case the auxiliary is marked as a non-passive auxiliary, <code>aux</code>. The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}.</p>
+<p>The only <em>passive auxiliary</em> (<code>auxpass</code>) in Finnish is <em>olla</em> (<em>to be</em>). An auxiliary is only considered a passive auxiliary if the main verb is in passive, not if only the auxiliary is in passive. In the latter case the auxiliary is marked as a non-passive auxiliary, <code>aux</code>. </p>
+
+<!-- TODO The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}. -->
 
 <!-- fname:auxpass1.pdf -->
 <div class="sd-parse">
@@ -322,7 +324,9 @@ conj(maitoa-1, voita-5)
 
 <h2 id="cop-copula">cop (copula)</h2>
 
-<p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section <a href="#sec-copulas">copulas</a>.</p>
+<p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). </p>
+
+<!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
 
 <!-- fname:cop.pdf -->
 <div class="sd-parse">
@@ -387,7 +391,7 @@ punct(tuli-4, .-7)
 
 <h2 id="det-determiner">det (determiner)</h2>
 
-<p>There are no definite or indefinite articles in the Finnish language, but there are other determiners (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1409">§1409</a>). In TDT, mostly pronouns are marked as <em>determiners</em> (<code>det</code>), because numerals, which can also be analyzed as determiner-like, are marked as <em>numeral modifiers</em> (<code>num, see Section [num](#sec-num)</code>), and genitive modifiers, also determiner-like, are marked with <code>poss</code> (Section <a href="#sec-poss">poss</a>).</p>
+<p>There are no definite or indefinite articles in the Finnish language, but there are other determiners (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1409">§1409</a>). In TDT, mostly pronouns are marked as <em>determiners</em> (<code>det</code>), because numerals, which can also be analyzed as determiner-like, are marked as <em>numeral modifiers</em> <code>&lt;a href="http://universaldependencies.github.io/docs/fi/num.html&gt;num&lt;/a&gt;</code>, and genitive modifiers, also determiner-like, are marked with <code>&lt;a href="http://universaldependencies.github.io/docs/fi/poss.html&gt;poss&lt;/a&gt;</code>.</p>
 
 <!-- fname:det.pdf -->
 <div class="sd-parse">
@@ -453,7 +457,7 @@ punct(tehtiin-2, .-4)
 
 <h2 id="gobj-genitive-object-a-namesec-gobja">gobj (genitive object) <a name="sec-gobj"></a></h2>
 
-<p>Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers (<code>poss</code>, see Section <a href="#sec-poss">poss</a>).</p>
+<p>Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers <code>&lt;a href="http://universaldependencies.github.io/docs/fi/poss.html&gt;poss&lt;/a&gt;</code>.</p>
 
 <!-- fname:gobj.pdf -->
 <div class="sd-parse">
@@ -469,7 +473,7 @@ punct(harvinaista-5, .-6)
 
 <h2 id="genitive-subject-a-namesec-gsubja">genitive subject <a name="sec-gsubj"></a></h2>
 
-<p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This is in parallel to genitive objects (<code>gobj</code>, see Section <a href="#sec-gobj">gobj</a>). 
+<p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This is in parallel to genitive objects <code>&lt;a href="http://universaldependencies.github.io/docs/fi/gobj.html&gt;gobj&lt;/a&gt;</code>.
 <!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
 
 <!-- fname:gsubj.pdf -->
@@ -482,7 +486,9 @@ gsubj(särkyminen-2, maljakon-1)
 
 <h2 id="iccomp-infinite-clausal-complement-a-namesec-iccompa">iccomp (infinite clausal complement) <a name="sec-iccomp"></a></h2>
 
-<p>The dependency type <code>iccomp</code>, which stands for <em>infinite clausal complement</em>, is a subtype of <code>ccomp</code> (<em>clausal complement</em>). It is used for clausal complements where the complement clause has a different subject from that of the governing clause and is infinite, i.e. where the verb is an infinitive or a participle. The differences between types of verbal dependents, such as <code>iccomp</code>, are thoroughly discussed in Section <a href="#sec-verbal">verbal</a>.</p>
+<p>The dependency type <code>iccomp</code>, which stands for <em>infinite clausal complement</em>, is a subtype of <code>ccomp</code> (<em>clausal complement</em>). It is used for clausal complements where the complement clause has a different subject from that of the governing clause and is infinite, i.e. where the verb is an infinitive or a participle. </p>
+
+<!-- TODO The differences between types of verbal dependents, such as `iccomp`, are thoroughly discussed in Section [verbal](#sec-verbal). -->
 
 <!-- fname:iccomp.pdf -->
 <div class="sd-parse">
@@ -539,7 +545,7 @@ punct(jätin-5, .-8)
   <li>kuin (as, than)</li>
 </ul>
 
-<p>Note that the conjunction <em>että</em> (usually) starts a complement clause, in which case it is marked as a complementizer (<code>complm</code>, see Section <a href="#sec-complm">complm</a>). On a similar note, the conjunction <em>kuin</em> also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier (see Section <a href="#sec-advmod">advmod</a>) as well as a comparative conjunction (Section <a href="#sec-comparator">comparator</a>).</p>
+<p>Note that the conjunction <em>että</em> (usually) starts a complement clause, in which case it is marked as a complementizer <code>&lt;a href="http://universaldependencies.github.io/docs/fi/complm.html&gt;complm&lt;/a&gt;</code>. On a similar note, the conjunction <em>kuin</em> also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier <code>&lt;a href="http://universaldependencies.github.io/docs/fi/advmod.html&gt;advmod&lt;/a&gt;</code> as well as a comparative conjunction <code>&lt;a href="http://universaldependencies.github.io/docs/fi/comparator.html&gt;comparator&lt;/a&gt;</code>.</p>
 
 <p>In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.</p>
 
@@ -590,7 +596,7 @@ poss(esikoisteos-7, Tarttin-6)
 
 <h2 id="neg-negation-marker">neg (negation marker)</h2>
 
-<p>In Finnish, negation is marked using the verb <em>ei</em>, which is used as an auxiliary. This means that the <em>negation marker</em> (<code>neg</code>) is a subtype of <code>aux</code> (see Section <a href="#sec-aux">aux</a>). The most commonly negated elements are verbs and verb phrases, but occasional exceptions in verbless constructions are allowed.</p>
+<p>In Finnish, negation is marked using the verb <em>ei</em>, which is used as an auxiliary. This means that the <em>negation marker</em> (<code>neg</code>) is a subtype of <code>&lt;a href="http://universaldependencies.github.io/docs/fi/aux.html&gt;aux&lt;/a&gt;</code>. The most commonly negated elements are verbs and verb phrases, but occasional exceptions in verbless constructions are allowed.</p>
 
 <p>If a conjunction or adverb has been merged together with <em>ei</em>, as in for instance <em>ettei</em> (<em>että+ei</em>, <em>that+not</em>) or <em>miksei</em> (<em>miksi+ei</em>, <em>why+not</em>), then the word is marked as a conjunction or an adverb rather than a negation verb. However, <em>eikä (and+not)</em>, when it appears alone and not coordinating another clause or phrase, is still marked as <code>neg</code>.</p>
 
@@ -607,7 +613,9 @@ punct(sanonut-3, .-5)
 
 <h2 id="nmod-own-haver-a-namesec-omistusa">nmod-own (haver) <a name="sec-omistus"></a></h2>
 
-<p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. For more information on special cases of subjects, see Section <a href="#sec-subj-obj">subj-obj</a>.</p>
+<p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. </p>
+
+<!-- TODO For more information on special cases of subjects, see Section [subj-obj](#sec-subj-obj). -->
 
 <p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nmod</em>. However, as <code>nmod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nmod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
 
@@ -666,7 +674,9 @@ dobj(notkui-3, herkkuja-4)
 punct(notkui-3, .-5)
 </div>
 
-<p>The second use of the type <code>nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>, and the distinction between the two is described in Section <a href="#sec-appos-vs-nn">appos-vs-nn</a>.</p>
+<p>The second use of the type <code>nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>.</p>
+
+<!-- , and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).-->
 
 <!-- fname:nn_appellation.pdf -->
 <div class="sd-parse">
@@ -714,7 +724,9 @@ punct(tuli-2, .-4)
 
 <h2 id="number-numerical-expression">number (numerical expression)</h2>
 
-<p>Numerical expressions consisting of multiple tokens are annotated using the <code>number</code> dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. Special cases of numerical expressions are discussed in Section <a href="#sec-numberspecial">numberspecial</a>.</p>
+<p>Numerical expressions consisting of multiple tokens are annotated using the <code>number</code> dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. </p>
+
+<!-- TODO Special cases of numerical expressions are discussed in Section [numberspecial](#sec-numberspecial). -->
 
 <!-- fname:number.pdf -->
 <div class="sd-parse">
@@ -808,7 +820,7 @@ dobj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
 </div>
 
-<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> (see Section <a href="#sec-iccomp">iccomp</a>).</p>
+<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <code>&lt;a href="http://universaldependencies.github.io/docs/fi/iccomp.html&gt;iccomp&lt;/a&gt;</code>.</p>
 
 <!-- fname:partmod_VP_mod.pdf -->
 <div class="sd-parse">
@@ -828,13 +840,13 @@ dobj(ehkäiseväksi-4, kariesta-3)
 punct(osoittautui-2, .-5)
 </div>
 
-<p>For more information on different verb-headed constructions as dependents, see Section <a href="#sec-verbal">verbal</a>.</p>
+<!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/fi-all.md" target="#">edit partmod</a></p>
 
 <h2 id="poss-genitive-modifier-a-namesec-possa">poss (genitive modifier) <a name="sec-poss"></a></h2>
 
-<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: <em>the genitive object</em>, <code>gobj</code> (see Section <a href="#sec-gobj">gobj</a>) and <em>the genitive subject</em>, <code>gsubj</code> (Section <a href="#sec-gsubj">gsubj</a>).</p>
+<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: <em>the genitive object</em>, <code>&lt;a href="http://universaldependencies.github.io/docs/fi/gobj.html&gt;gobj&lt;/a&gt;</code> and <em>the genitive subject</em>, <code>&lt;a href="http://universaldependencies.github.io/docs/fi/gsubj.html&gt;gsubj&lt;/a&gt;</code>.</p>
 
 <!-- fname:poss1.pdf -->
 <div class="sd-parse">
@@ -944,7 +956,7 @@ mark(palasi-7, kun-5)
 nsubj(palasi-7, hän-6)
 </div>
 
-<p>Attaching punctuation correctly is described more closely in Section <a href="#sec-punctspecial">punctspecial</a>.</p>
+<!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/fi-all.md" target="#">edit punct</a></p>
 
