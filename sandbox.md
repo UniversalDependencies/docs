@@ -56,3 +56,15 @@ det(dependency, A)
 <div class="sd-parse" tabs="yes">
 Dynamic visualization (click "edit!")
 </div>
+
+----------
+
+# Some Jekyll 
+
+## Finnish documentation for relations containing "cop" 
+
+{% for p in site.fi %}
+{% if p.title contains "cop" %}
+{{ p.content }}
+{% endif %}
+{% endfor %}
