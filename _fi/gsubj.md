@@ -2,6 +2,7 @@
 layout: base
 title:  'gsubj'
 shortdef : 'genitive subject'
+tags: ['case']
 ---
 
 ## genitive subject <a name="sec-gsubj"></a>

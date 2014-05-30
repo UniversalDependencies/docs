@@ -2,6 +2,7 @@
 layout: base
 title:  'gobj'
 shortdef : 'genitive object'
+tags: ['case']
 ---
 
 ## gobj (genitive object) <a name="sec-gobj"></a>

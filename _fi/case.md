@@ -2,6 +2,7 @@
 layout: base
 title:  'case'
 shortdef : 'case marking'
+tags: ['case']
 ---
 
 ## case (case marking)

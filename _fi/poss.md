@@ -2,6 +2,7 @@
 layout: base
 title:  'poss'
 shortdef : 'genitive modifier'
+tags: ['case']
 ---
 
 ## poss (genitive modifier) <a name="sec-poss"></a>

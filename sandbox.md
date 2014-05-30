@@ -68,3 +68,11 @@ Dynamic visualization (click "edit!")
 {{ p.content }}
 {% endif %}
 {% endfor %}
+
+## Finnish documentation for relations with tag "case"
+
+{% for p in site.fi %}
+{% if p.tags contains "case" %}
+{{ p.content }}
+{% endif %}
+{% endfor %}
