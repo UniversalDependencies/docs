@@ -91,6 +91,56 @@ det(dependency, A)
 Dynamic visualization (click "edit!")
 </div>
 
+<hr />
+
+<h1 id="some-jekyll">Some Jekyll</h1>
+
+<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
+
+<h2 id="cop-copula">cop (copula)</h2>
+
+<p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). </p>
+
+<!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
+
+<!-- fname:cop.pdf -->
+<div class="sd-parse">
+Huivi oli punainen . \n The_scarf was red .
+nsubj-cop(punainen-3, Huivi-1)
+cop(punainen-3, oli-2)
+punct(punainen-3, .-4)
+</div>
+
+<h2 id="csubj-cop-clausal-copular-subject">csubj-cop (clausal copular subject)</h2>
+
+<p>A <em>clausal copular subject</em> (<code>csubj-cop</code>) is a clause that acts as the subject of another, copular clause. As in all copular clauses, the predicative acts as the head of the clause and hence it is also the governor of the copular subject. 
+<!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
+
+<!-- fname:csubj-cop.pdf -->
+<div class="sd-parse">
+Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
+cop(hauskaa-2, Oli-1)
+csubj-cop(hauskaa-2, käydä-3)
+nmod(käydä-3, teatterissa-4)
+punct(hauskaa-2, .-5)
+</div>
+
+<h2 id="nsubj-cop-nominal-copular-subject">nsubj-cop (nominal copular subject)</h2>
+
+<p>The dependency type <code>nsubj-cop</code> is used for the nominal subject of a copular clause. The predicative is the head of the copular clause, and also the governor of the <code>nsubj-cop</code> dependency. </p>
+
+<!-- Annotating copular clauses is discussed in Section [copulas](#sec-copulas).-->
+
+<!-- fname:nsubj-cop.pdf -->
+<div class="sd-parse">
+Matto on jo kuiva . \n The_mat is already dry .
+nsubj-cop(kuiva-4, Matto-1)
+cop(kuiva-4, on-2)
+advmod(kuiva-4, jo-3)
+punct(kuiva-4, .-5)
+</div>
+
+
 
       </div>
 
