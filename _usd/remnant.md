@@ -1,10 +1,10 @@
 ---
 layout: base
 title: 'remnant'
-shortdef: 'remnant'
+shortdef: 'remnant in ellipsis'
 ---
 
-## remnant: remnant
+## remnant: remnant in ellipsis
 
 The *remnant* relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
@@ -29,7 +29,9 @@ case(Prague-9, to-8)
 nmod(went-7, Prague-9)
 </div>
 
-The question is then how to treat *Marie went to Paris and Miriam to Prague*. One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. So, USD uses an analysis that notes that in ellipsis a *remnant* corresponds to a *correlate* in a preceding clause. The *remnant* relation connects a remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:
+The question is then how to treat *Marie went to Paris and Miriam to Prague*. One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. 
+
+Therefore, USD adopts an analysis that notes that in ellipsis a *remnant* corresponds to a *correlate* in a preceding clause. The *remnant* relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:
 
 <div class="sd-parse">
 Marie went to Paris and Miriam to Prague
@@ -40,7 +42,7 @@ case(Paris-4, to-3)
 cc(went-2, and-5)
 remnant(Marie-1, Miriam-6)
 case(Prague-8, to-7)
-remnant(Paris-4, Prague-9)
+remnant(Paris-4, Prague-8)
 </div>
 
 Even in the more complex example below, the *remnant*
@@ -56,6 +58,8 @@ remnant(Mary-5, Sandy-9)
 remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </div>
+
+Note in particular that (unlike for *conj*), *remnant* uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.
 
 The *remnant* relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the *remnant* relation is not used. In RNR, the verbs
 are coordinated and the object is a *dobj* of the first verb:
