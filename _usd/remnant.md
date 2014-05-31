@@ -28,7 +28,19 @@ case(Prague-9, to-8)
 nmod(went-7, Prague-9)
 </div>
 
-The question is then how to treat *Marie went to Paris and Miriam to Prague*. One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. 
+The question is then how to treat: *Marie went to Paris and Miriam to Prague*
+
+<div class="sd-parse">
+Marie went to Paris and Miriam to Prague
+nsubj(went-2, Marie-1)
+root(root-0, went-2)
+nmod(went-2, Paris-4)
+case(Paris-4, to-3)
+cc(went-2, and-5)
+case(Prague-8, to-7)
+</div>
+
+One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simple promote the final elements and to have them as dependents of the main verb of the sentence or of *root-0*. But then one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.
 
 Therefore, USD adopts an analysis that notes that in ellipsis a *remnant* corresponds to a *correlate* in a preceding clause. The *remnant* relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:
 
