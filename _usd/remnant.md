@@ -17,7 +17,7 @@ In particular, the goal was to achieve this *without* having to postulate empty 
 To develop motivation, consider first a sentence without ellipsis:
 
 <div class="sd-parse">
-Marie went to Paris and Miriam went to Prague.
+Marie went to Paris and Miriam went to Prague
 nsubj(went-2, Marie-1)
 root(root-0, went-2)
 nmod(went-2, Paris-4)
@@ -29,10 +29,21 @@ case(Prague-9, to-8)
 nmod(went-7, Prague-9)
 </div>
 
-The question is then how to treat *Marie went to Paris and Miriam to Prague*.
+The question is then how to treat *Marie went to Paris and Miriam to Prague*. One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. So, USD uses an analysis that notes that in ellipsis a *remnant* corresponds to a *correlate* in a preceding clause. The *remnant* relation connects a remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:
 
+<div class="sd-parse">
+Marie went to Paris and Miriam to Prague
+nsubj(went-2, Marie-1)
+root(root-0, went-2)
+nmod(went-2, Paris-4)
+case(Paris-4, to-3)
+cc(went-2, and-5)
+remnant(Marie-1, Miriam-6)
+case(Prague-8, to-7)
+remnant(Paris-4, Prague-9)
+</div>
 
-In the example below, the *remnant*
+Even in the more complex example below, the *remnant*
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.
 
@@ -46,7 +57,7 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </div>
 
-In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the *remnant* relation is not used. In RNR, the verbs
+The *remnant* relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the *remnant* relation is not used. In RNR, the verbs
 are coordinated and the object is a *dobj* of the first verb:
 
 <div class="sd-parse">
@@ -57,8 +68,7 @@ conj(bought-2, ate-4)
 dobj(bought-2, apple-6)
 </div>
 
-In
-VP-ellipsis, we keep the auxiliary as the head, as shown below:
+In VP-ellipsis, we keep the auxiliary as the head, as shown below:
 
 <div class="sd-parse">
 John will win gold and Mary will too
