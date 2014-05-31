@@ -12,7 +12,8 @@ It used for certain fixed grammaticized expressions with function words that beh
 
 <div class="sd-parse">
 I like dogs as well as cats
-mwe(well, as)
+mwe(well-5, as-4)
+mwe(well-5, as-6)
 </div>
 
 <div class="sd-parse">
@@ -24,3 +25,5 @@ mwe(of, because)
 Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
 mwe(plutôt, qu')
 </div>
+
+We are still developing conventions for headship in an mwe. At the moment, practice is a combination of choosing the main word that would be the head on an attempted analytical analysis, such as for <i>as well as</i> and simply choosing the leftmost word as head.
