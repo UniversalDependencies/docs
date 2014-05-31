@@ -40,7 +40,7 @@ cc(went-2, and-5)
 case(Prague-8, to-7)
 </div>
 
-One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simple promote the final elements and to have them as dependents of the main verb of the sentence or of *root-0*. But then one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.
+One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: *Marie went to Paris and Miriam ∅ to Prague*. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simple promote the final elements and to have them as dependents of the main verb of the sentence (*went-2*) or of *root-0*. But then (in general) one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.
 
 Therefore, USD adopts an analysis that notes that in ellipsis a *remnant* corresponds to a *correlate* in a preceding clause. The *remnant* relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:
 
@@ -80,6 +80,7 @@ John bought and ate an apple
 nsubj(bought-2, John-1)
 cc(bought-2, and-3)
 conj(bought-2, ate-4)
+det(apple-6, an-5)
 dobj(bought-2, apple-6)
 </div>
 
