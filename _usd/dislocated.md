@@ -1,16 +1,18 @@
 ---
 layout: base
 title: 'dislocated'
-shortdef: 'dislocated'
+shortdef: 'dislocated elements'
 ---
 
-## dislocated: dislocated
+## dislocated: dislocated elements
 
-The *dislocated* relation is used for fronted elements that introduce the topic of a sentence, as in the following Japanese example:
+The *dislocated* relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence. 
+
+It is used for fronted elements that introduce the topic of a sentence, as in the following Japanese example:
 
 <div class="sd-parse">
-z\={o} wa hana ga nagai \n elephant TOPIC nose SUBJ long-PRES
-dislocated(nagai-5, z\={o}-1)
+象 wa hana ga nagai \n elephant TOPIC nose SUBJ long-PRES
+dislocated(nagai-5, 象-1)
 </div>
 
 
