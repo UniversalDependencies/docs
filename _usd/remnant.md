@@ -6,11 +6,33 @@ shortdef: 'remnant'
 
 ## remnant: remnant
 
-The *remnant* relation is used to provide a treatment of ellipsis (in
-the case of gapping and stripping, where predicational or verbal
-material gets elided), which was lacking in earlier versions
-of SD. It provides a basis for being able to reconstruct dependencies
-in the enhanced version of SD. In the example below, the *remnant*
+The *remnant* relation is used to provide a satisfactory treatment of ellipsis (in
+the case of gapping and stripping, where a predicational or verbal
+head gets elided). This is something that was lacking in earlier versions
+of SD. 
+It provides a basis for being able to reconstruct dependencies
+in the enhanced representation of SD. 
+In particular, the goal was to achieve this *without* having to postulate empty nodes in the basic representation.
+
+To develop motivation, consider first a sentence without ellipsis:
+
+<div class="sd-parse">
+Marie went to Paris and Miriam went to Prague.
+nsubj(went-2, Marie-1)
+root(root-0, went-2)
+nmod(went-2, Paris-4)
+case(Paris-4, to-3)
+cc(went-2, and-5)
+nsubj(went-2, Miriam-6)
+conj(went-2, went-7)
+case(Prague-9, to-8)
+nmod(went-7, Prague-9)
+</div>
+
+The question is then how to treat *Marie went to Paris and Miriam to Prague*.
+
+
+In the example below, the *remnant*
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.
 
