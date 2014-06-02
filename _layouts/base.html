@@ -41,7 +41,7 @@
 {% if r.label == page.title %}
 {{ r.label }} in other languages:
 {% for l in r.languages %}
-[<a href="/{{ l.label }}/{{ r.label }}.html">{{ l.label }}</a>]
+[<a href="{{ relative }}{{ l.label }}/{{ r.label }}.html">{{ l.label }}</a>]
 {% endfor %}
 {% endif %}
 {% endfor %}
