@@ -4,6 +4,12 @@ title:  'Finnish grammatical relations'
 generated: 'true'
 ---
 
+Note: This document is a draft. Not all relations have been converted to USD-compatible description yet.
+
+{% include fi-table.html %}
+
+----------
+
 {% for p in site.fi %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
