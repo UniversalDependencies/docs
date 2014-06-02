@@ -11,5 +11,5 @@ generated: 'true'
 {% else %}
 {{ p.content }}
 {% endif %}
-<a href="{{ site.git_edit }}/{{ page.url | replace: '/en/', '/_en/' | replace: '/fi/', '/_fi/' | replace: '/usd/', '/_usd/' | remove_first:'/' | replace: '.html', '.md' }}" target="#">edit {{ p.title }}</a>
+<a href="{{ site.git_edit }}/_fi/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
 {% endfor %}

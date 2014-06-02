@@ -11,4 +11,5 @@ generated: 'true'
 {% else %}
 {{ p.content }}
 {% endif %}
+<a href="{{ site.git_edit }}/_usd/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
 {% endfor %}

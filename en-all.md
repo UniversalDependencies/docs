@@ -16,4 +16,5 @@ Marneffe and Manning 2008).
 {% else %}
 {{ p.content }}
 {% endif %}
+<a href="{{ site.git_edit }}/_en/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
 {% endfor %}
