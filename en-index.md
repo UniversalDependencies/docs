@@ -4,8 +4,9 @@ title:  'English grammatical relations'
 generated: 'true'
 ---
 
-This is a placeholder for the entry page for the documentation for
-English grammatical relations. Introductory content TODO.
+{% include en-table.html %}
+
+----------
 
 The following pages contain documentation and examples converted from
 Section 2 of *[Stanford typed dependencies
