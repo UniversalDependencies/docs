@@ -5,11 +5,13 @@
 - label: 'advcl'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'advmod'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'agent'
@@ -47,6 +49,7 @@
 - label: 'ccomp'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'compar'
@@ -206,6 +209,7 @@
   - label: 'fi'
 - label: 'nummod'
   languages:
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'parataxis'
