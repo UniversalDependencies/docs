@@ -9,7 +9,7 @@ shortdef: 'auxiliary'
 An auxiliary of a clause is a non-main verb of the clause, e.g., a modal
 auxiliary, or a form of "estar", "ser" or "haber" in a periphrastic tense.
 
-Spanish modal auxiliaries include ():
+Spanish modal auxiliaries include (Butt and Benjamin, 2013):
 
 - poder
 - saber
