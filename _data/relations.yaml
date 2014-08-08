@@ -20,16 +20,19 @@
 - label: 'amod'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'appos'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'aux'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'auxpass'
@@ -44,6 +47,7 @@
 - label: 'cc'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'ccomp'
@@ -68,6 +72,7 @@
 - label: 'conj'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'cop'
@@ -149,6 +154,7 @@
 - label: 'mark'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'mwe'
@@ -271,6 +277,7 @@
   - label: 'fi'
 - label: 'relcl'
   languages:
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'remnant'
@@ -294,6 +301,7 @@
   - label: 'en'
 - label: 'vocative'
   languages:
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'xcomp'
