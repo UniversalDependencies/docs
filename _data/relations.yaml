@@ -75,6 +75,7 @@
 - label: 'csubj'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'csubj-cop'
