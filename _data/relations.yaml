@@ -186,6 +186,7 @@
 - label: 'nsubj'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'nsubj-cop'
