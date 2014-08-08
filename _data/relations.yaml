@@ -291,6 +291,7 @@
 - label: 'root'
   languages:
   - label: 'en'
+  - label: 'es'
   - label: 'fi'
   - label: 'usd'
 - label: 'tmod'
