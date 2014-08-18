@@ -62,22 +62,20 @@ det(kitchen, the-10)
 </div>
 
 <ul>
-  <li>Function words do not have dependents of their own, except in the following cases:</li>
+  <li>Function words do not have dependents of their own, except in the following cases:
+    <ol>
+      <li>Multiword function words</li>
+      <li>Coordinated function words</li>
+      <li>Promotion through head elision</li>
+    </ol>
+  </li>
 </ul>
-
-<ol>
-  <li>Multiword function words</li>
-</ol>
 
 <div class="sd-parse">
 The cat could have chased the dog out of the kitchen .
 case(kitchen,out)
 mwe(out,of)
 </div>
-
-<ol>
-  <li>Coordinated function words</li>
-</ol>
 
 <div class="sd-parse">
 The cat could have chased the dog up and down the street .
@@ -86,10 +84,6 @@ conj(up,down)
 cc(down,and)
 </div>
 
-<ol>
-  <li>Promotion through head elision</li>
-</ol>
-
 <div class="sd-parse">
 The cat could have (chased the dog right through the kitchen) .
 nsubj(have,cat)
@@ -97,12 +91,14 @@ aux(have,could)
 </div>
 
 <ul>
-  <li>The following three expression types are all annotated with a flat head-initial structure:</li>
+  <li>The following three expression types are all annotated with a flat head-initial structure:
+    <ol>
+      <li>Fixed multiword expressions (mwe)</li>
+      <li>Multiword names (name)</li>
+      <li>Foreign phrases</li>
+    </ol>
+  </li>
 </ul>
-
-<ol>
-  <li>Fixed multiword expressions (mwe)</li>
-</ol>
 
 <div class="sd-parse">
 We had a nice time in spite of the rain. 
@@ -111,20 +107,12 @@ mwe(in,spite)
 mwe(in,spite)
 </div>
 
-<ol>
-  <li>Multiword names (name)</li>
-</ol>
-
 <div class="sd-parse">
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
 </div>
-
-<ol>
-  <li>Foreign phrases</li>
-</ol>
 
 <div class="sd-parse">
 She said dra åt helvete .
