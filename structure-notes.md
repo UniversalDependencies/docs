@@ -31,17 +31,55 @@ det(kitchen, the-10)
 
 - Function words do not have dependents of their own, except in the following cases:
  1. Multiword function words
- 2. Coordinated function words
- 3. Promotion through head elision
-
-- In structures that do not have a transparent internal structure all non-initial elements depend on the initial one.
-
-<div class="sd-parse">
-can you can the can ?
-nsubj(can-3,you)
-aux(can-3,can-1)
-dobj(can-3,can-5)
+  
+ <div class="sd-parse">
+The cat could have chased the dog out of the kitchen .
+case(kitchen,out)
+mwe(out,of)
 </div>
 
+ 2. Coordinated function words
+    
+ <div class="sd-parse">
+The cat could have chased the dog up and down the street .
+case(street,up)
+conj(up,down)
+cc(down,and)
+</div>
 
+ 3. Promotion through head elision
+
+ <div class="sd-parse">
+The cat could have (chased the dog right through the kitchen) .
+nsubj(have,cat)
+aux(have,could)
+</div>
+
+- The following three expression types are all annotated with a flat head-initial structure:
+- 
+ 1. Fixed multiword expressions (mwe)
  
+ <div class="sd-parse">
+We had a nice time in spite of the rain. 
+case(rain,in)
+mwe(in,spite)
+mwe(in,spite)
+</div>
+ 
+ 2. Multiword names (name)
+
+<div class="sd-parse">
+Martin Luther King had a dream .
+nsubj(had,Martin)
+name(Martin,Luther)
+name(Luther,King)
+</div>
+
+ 3. Foreign phrases
+ 
+<div class="sd-parse">
+She said dra åt helvete .
+dobj(said,dra)
+foreign(dra,åt)
+foreign(dra,helvete)
+</div>
