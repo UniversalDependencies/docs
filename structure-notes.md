@@ -6,6 +6,14 @@ title:  'Universal Dependencies --- test notes'
 ## Dependency Structure: General Principles
 
 - Dependency relations hold primarily between content words.
+
+<div class="sd-parse">
+The cat could have chased the dog right through the kitchen.
+nsubj(chased, cat)
+dobj(chased, dog)
+nmod(chased, kitchen)
+</div>
+
 - Function words attach as direct dependents of the most closely related content word.
 - When a content word is elided, a function word may be promoted to stand in for the content word.
 - In structures that do not have a transparent internal structure all non-initial elements depend on the initial one.
