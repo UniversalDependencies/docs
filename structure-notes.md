@@ -8,24 +8,24 @@ title:  'Universal Dependencies --- test notes'
 - Dependency relations hold primarily between content words.
 
 <div class="sd-parse">
-The cat could have chased the dog right through the kitchen .
+The cat could have chased the dog right down the street .
 nsubj(chased, cat)
 dobj(chased, dog)
-nmod(chased, kitchen)
-advmod(kitchen, right)
+nmod(chased, street)
+advmod(street, right)
 </div>
 
 
 - Function words attach as direct dependents of the most closely related content word.
 
 <div class="sd-parse">
-The cat could have chased the dog right through the kitchen .
+The cat could have chased the dog right down the street .
 det(cat, The)
 aux(chased, could)
 aux(chased, have)
 det(dog, the-6)
-case(kitchen, through)
-det(kitchen, the-10)
+case(street, down)
+det(street, the-10)
 </div>
 
 
@@ -35,8 +35,8 @@ det(kitchen, the-10)
  3. Promotion through head elision
   
 <div class="sd-parse">
-The cat could have chased the dog out of the kitchen .
-case(kitchen,out)
+The cat could have chased the dog out of the house .
+case(house,out)
 mwe(out,of)
 </div>
 
@@ -48,7 +48,7 @@ cc(down,and)
 </div>
 
 <div class="sd-parse">
-The cat could have (chased the dog right through the kitchen) .
+The cat could have (chased the dog right down the street) .
 nsubj(have,cat)
 aux(have,could)
 </div>
@@ -59,7 +59,7 @@ aux(have,could)
  3. Foreign phrases (foreign)
 
  <div class="sd-parse">
-We had a nice time in spite of the rain. 
+We had a nice time in spite of the rain . 
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
