@@ -12,6 +12,7 @@ The cat could have chased the dog right through the kitchen.
 nsubj(chased, cat)
 dobj(chased, dog)
 nmod(chased, kitchen)
+
 </div>
 
 - Function words attach as direct dependents of the most closely related content word.
