@@ -34,17 +34,21 @@ det(kitchen, the-10)
  2. Coordinated function words
  3. Promotion through head elision
   
- <div class="sd-parse">
-1 The cat could have chased the dog out of the kitchen .
+<div class="sd-parse">
+The cat could have chased the dog out of the kitchen .
 case(kitchen,out)
 mwe(out,of)
+</div>
 
-2 The cat could have chased the dog up and down the street .
+<div class="sd-parse">
+The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
 cc(down,and)
+</div>
 
-3 The cat could have (chased the dog right through the kitchen) .
+<div class="sd-parse">
+The cat could have (chased the dog right through the kitchen) .
 nsubj(have,cat)
 aux(have,could)
 </div>
@@ -55,17 +59,21 @@ aux(have,could)
  3. Foreign phrases (foreign)
 
  <div class="sd-parse">
-1 We had a nice time in spite of the rain. 
+We had a nice time in spite of the rain. 
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
+</div>
 
-2 Martin Luther King had a dream .
+<div class="sd-parse">
+Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
+</div>
 
-3 She said dra åt helvete .
+<div class="sd-parse">
+She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
 foreign(dra,helvete)
