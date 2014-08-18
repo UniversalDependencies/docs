@@ -23,9 +23,9 @@ The cat could have chased the dog right through the kitchen .
 det(cat, The)
 aux(chased, could)
 aux(chased, have)
-det(dog, the)
+det(dog, the-6)
 case(kitchen, through)
-det(kitchen, the)
+det(kitchen, the-10)
 </div>
 
 
