@@ -20,7 +20,7 @@ advmod(kitchen, right)
 
 <div class="sd-parse">
 The cat could have chased the dog right through the kitchen.
-det(cat, the)
+det(cat, The)
 aux(chased, could)
 aux(chased, have)
 det(dog, the)
