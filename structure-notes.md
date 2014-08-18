@@ -35,16 +35,16 @@ det(kitchen, the-10)
  3. Promotion through head elision
   
  <div class="sd-parse">
-The cat could have chased the dog out of the kitchen .
+1 The cat could have chased the dog out of the kitchen .
 case(kitchen,out)
 mwe(out,of)
 
-The cat could have chased the dog up and down the street .
+2 The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
 cc(down,and)
 
-The cat could have (chased the dog right through the kitchen) .
+3 The cat could have (chased the dog right through the kitchen) .
 nsubj(have,cat)
 aux(have,could)
 </div>
@@ -52,24 +52,20 @@ aux(have,could)
 - The following three expression types are all annotated with a flat head-initial structure:
  1. Fixed multiword expressions (mwe)
  2. Multiword names (name)
- 3. Foreign phrases
+ 3. Foreign phrases (foreign)
 
  <div class="sd-parse">
-We had a nice time in spite of the rain. 
+1 We had a nice time in spite of the rain. 
 case(rain,in)
 mwe(in,spite)
-mwe(in,spite)
-</div>
+mwe(in,of)
 
- <div class="sd-parse">
-Martin Luther King had a dream .
+2 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
-</div>
 
- <div class="sd-parse">
-She said dra åt helvete .
+3 She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
 foreign(dra,helvete)
