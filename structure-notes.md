@@ -28,6 +28,7 @@ det(street, the-10)
 </div>
 
 Function words do not have dependents of their own, except in the following cases:
+
 1. Multiword function words
 2. Coordinated function words
 3. Promotion through head elision
@@ -52,6 +53,7 @@ aux(have,could)
 </div>
 
 The following three expression types are all annotated with a flat head-initial structure:
+
 1. Fixed multiword expressions (mwe)
 2. Multiword names (name)
 3. Foreign phrases (foreign)
