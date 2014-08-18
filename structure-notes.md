@@ -52,14 +52,14 @@ nsubj(have,cat)
 aux(have,could)
 </div>
 
-The following three expression types are all annotated with a flat head-initial structure:
+The following expression types are all annotated with a flat head-initial structure:
 
 1. Fixed multiword expressions (mwe)
 2. Multiword names (name)
 3. Foreign phrases (foreign)
 
 <div class="sd-parse">
-We had a nice time in spite of the rain . 
+We had a nice time in spite of the rain .
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
