@@ -30,6 +30,7 @@ det(kitchen, the-10)
 
 
 - Function words do not have dependents of their own, except in the following cases:
+
  1. Multiword function words
   
  <div class="sd-parse">
@@ -56,7 +57,7 @@ aux(have,could)
 </div>
 
 - The following three expression types are all annotated with a flat head-initial structure:
-- 
+ 
  1. Fixed multiword expressions (mwe)
  
  <div class="sd-parse">
