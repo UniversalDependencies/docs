@@ -9,10 +9,7 @@ title:  'Universal Dependencies --- test notes'
 
 <div class="sd-parse">
 The cat could have chased the dog right through the kitchen.
-nsubj(chased, cat)
-dobj(chased, dog)
-nmod(chased, kitchen)
-advmod(kitchen, right)
+nsubj(chased, cat) dobj(chased, dog) nmod(chased, kitchen) advmod(kitchen, right)
 </div>
 
 
@@ -20,12 +17,7 @@ advmod(kitchen, right)
 
 <div class="sd-parse">
 The cat could have chased the dog right through the kitchen.
-det(cat, The)
-aux(chased, could)
-aux(chased, have)
-det(dog, the)
-case(kitchen, through)
-det(kitchen, the)
+det(cat, The) aux(chased, could) aux(chased, have) det(dog, the) case(kitchen, through) det(kitchen, the)
 </div>
 
 
