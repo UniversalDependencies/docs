@@ -3,9 +3,12 @@ layout: base
 title:  'Universal Dependencies --- test notes'
 ---
 
-## Some section, copied from the English manual
+## Dependency Structure: General Principles
 
-A passive auxiliary of a clause is a non-main verb of the clause which contains the passive information. 
+- Dependency relations hold primarily between content words.
+- Function words attach as direct dependents of the most closely related content word.
+- When a content word is elided, a function word may be promoted to stand in for the content word.
+- In structures that do not have a transparent internal structure all non-initial elements depend on the initial one.
 
 <div class="sd-parse">
 Kennedy has been killed
