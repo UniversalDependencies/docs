@@ -5,7 +5,7 @@ title:  'Universal Dependencies --- test notes'
 
 ## Dependency Structure: General Principles
 
-- Dependency relations hold primarily between content words.
+Dependency relations hold primarily between content words.
 
 <div class="sd-parse">
 The cat could have chased the dog right down the street .
@@ -15,8 +15,7 @@ nmod(chased, street)
 advmod(street, right)
 </div>
 
-
-- Function words attach as direct dependents of the most closely related content word.
+Function words attach as direct dependents of the most closely related content word.
 
 <div class="sd-parse">
 The cat could have chased the dog right down the street .
@@ -28,8 +27,7 @@ case(street, down)
 det(street, the-10)
 </div>
 
-
-- Function words do not have dependents of their own, except in the following cases:
+Function words do not have dependents of their own, except in the following cases:
  1. Multiword function words
  2. Coordinated function words
  3. Promotion through head elision
@@ -53,12 +51,12 @@ nsubj(have,cat)
 aux(have,could)
 </div>
 
-- The following three expression types are all annotated with a flat head-initial structure:
+The following three expression types are all annotated with a flat head-initial structure:
  1. Fixed multiword expressions (mwe)
  2. Multiword names (name)
  3. Foreign phrases (foreign)
 
- <div class="sd-parse">
+<div class="sd-parse">
 We had a nice time in spite of the rain . 
 case(rain,in)
 mwe(in,spite)
