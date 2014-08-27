@@ -598,7 +598,7 @@ Marneffe and Manning 2008).</p>
 	return s
     };
 
-    var ObjectToString = function(data) {
+    var objectToString = function(data) {
 	return compactJSON(JSON.stringify(data, undefined, '    '));
     };
 
@@ -636,7 +636,7 @@ Marneffe and Manning 2008).</p>
     };
 
     // parse SD format, return brat document data format
-    var sdParse = function(sd, log) {
+    var parseSd = function(sd, log) {
 	if (log === undefined) {
             log = makeLogger();
 	}
@@ -736,7 +736,7 @@ Marneffe and Manning 2008).</p>
     };
 
     // parse CoNLL-X format, return brat document data format
-    var conllXParse = function(conll, log) {
+    var parseConllX = function(conll, log) {
 	if (log === undefined) {
             log = makeLogger();
 	}
@@ -851,7 +851,7 @@ Marneffe and Manning 2008).</p>
 
     var embeddedIdSeq = 1;
 
-    var embedDependency = function(elem, parse, data, options) {
+    var embedAnnotation = function(elem, parse, data, options) {
 	// store sequence number for reference resolution
 	elem.attr('embeddedSequenceNum', embeddedIdSeq);
 
@@ -877,7 +877,7 @@ Marneffe and Manning 2008).</p>
 
 	// initialize parse function, falling back to SD as default
 	if (parse === undefined) {
-	    parse = sdParse;
+	    parse = parseSd;
 	}
 
 	// initialize data, defaulting to original element text
@@ -888,7 +888,7 @@ Marneffe and Manning 2008).</p>
 	var parsed = parse(data, makeLogger(logArea));
         parsed = reviseIds(parsed, eId + '-');
 	inputArea.text(data);
-	bratArea.text(ObjectToString(parsed));
+	bratArea.text(objectToString(parsed));
 
         // initialize options, falling back to attributes as defaults
         if (options === undefined) {
@@ -981,7 +981,7 @@ Marneffe and Manning 2008).</p>
                 return;
 	    }
     
-	    bratArea.text(ObjectToString(parsed));
+	    bratArea.text(objectToString(parsed));
 
             try {
                 dispatcher.post('requestRenderData', [$.extend({}, parsed)]);
@@ -1021,15 +1021,15 @@ Marneffe and Manning 2008).</p>
     };
 
     var embedBratVisualizations = function() {
-        // generate embedded visualizations: call embedDependency
+        // generate embedded visualizations: call embedAnnotation
 	// for elements with "sd-parse" class.
         $('.sd-parse').each(function(idx) {
-            embedDependency($(this), sdParse);
+            embedAnnotation($(this), parseSd);
 	});
 
         // repeat for elements with "conllx-parse" class.
         $('.conllx-parse').each(function(idx) {
-            embedDependency($(this), conllXParse);
+            embedAnnotation($(this), parseConllX);
 	});
 
 	// resolve references (e.g. "Figure #" -> "Figure 1"): call
