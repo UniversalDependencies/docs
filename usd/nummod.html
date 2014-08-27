@@ -292,6 +292,10 @@ nummod in other languages:
         // more compact (but equivalent and still pretty-printed)
         // version.
 
+        if (s === undefined) {
+            return s;
+        }
+
 	// replace any space with ' ' in non-nested curly brackets
 	s = s.replace(/(\{[^\{\}\[\]]*\})/g, 
 		      function(a, b) { return b.replace(/\s+/g, ' '); });
@@ -511,6 +515,50 @@ nummod in other languages:
 	};
     };
 
+    // from http://stackoverflow.com/a/2117523
+    var random_guid = function() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+            return v.toString(16);
+        });
+    };
+
+    // add prefix and suffix to all IDs in data, modifying data. If neither a prefix
+    // nor suffix is provided, add a random GUID prefix.
+    var reviseIds = function(data, prefix, suffix) {
+        if (prefix === undefined) {
+            prefix = '';
+        }
+        if (suffix === undefined) {
+            suffix = '';
+        }
+        if (prefix === '' && suffix == '') {
+            // no prefix or suffix defined: generate random GUID prefix
+            prefix = random_guid() + '-';
+        }
+
+        // entities: entity ID only
+	var entities = data['entities'];
+	for (var i=0; i<entities.length; i++) {
+            entities[i][0] = prefix + entities[i][0] + suffix;
+        }
+
+        // relations: relation ID and argument IDs
+        var relations = data['relations'];
+        for (var i=0; i<relations.length; i++) {
+            relations[i][0] = prefix + relations[i][0] + suffix;
+            var args = relations[i][2];
+            for (var j=0; j<args.length; j++) {
+                args[j][1] = prefix + args[j][1] + suffix;
+            }
+            console.log(relations[i]);
+        }
+
+        // TODO: events, equivs, etc.
+
+        return data;
+    };
+
     var embeddedIdSeq = 1;
 
     var embedDependency = function(elem, parse, data, options) {
@@ -548,6 +596,7 @@ nummod in other languages:
 	}
 	data = normalizeSpace(data);
 	var parsed = parse(data, makeLogger(logArea));
+        parsed = reviseIds(parsed, eId + '-');
 	inputArea.text(data);
 	bratArea.text(ObjectToString(parsed));
 
@@ -626,6 +675,7 @@ nummod in other languages:
 
             try {
                 parsed = parse(inputArea.val(), makeLogger(logArea));
+                parsed = reviseIds(parsed, embeddedIdSeq + '-');
 		parse_error = parsed.error;
             } catch (e) {
 		console.log(e);
