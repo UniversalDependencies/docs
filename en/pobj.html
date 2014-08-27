@@ -525,13 +525,19 @@ pobj in other languages:
         }
 
         // entities: entity ID only
-	var entities = data['entities'];
+	var entities = data['entities'] || [];
 	for (var i=0; i<entities.length; i++) {
             entities[i][0] = prefix + entities[i][0] + suffix;
         }
 
+        // triggers: trigger ID only
+	var triggers = data['triggers'] || [];
+	for (var i=0; i<triggers.length; i++) {
+            triggers[i][0] = prefix + triggers[i][0] + suffix;
+        }
+
         // relations: relation ID and argument IDs
-        var relations = data['relations'];
+        var relations = data['relations'] || [];
         for (var i=0; i<relations.length; i++) {
             relations[i][0] = prefix + relations[i][0] + suffix;
             var args = relations[i][2];
@@ -540,7 +546,44 @@ pobj in other languages:
             }
         }
 
-        // TODO: events, equivs, etc.
+        // events: event ID, trigger ID, and argument IDs
+        var events = data['events'] || [];
+        for (var i=0; i<events.length; i++) {
+            events[i][0] = prefix + events[i][0] + suffix;
+            events[i][1] = prefix + events[i][1] + suffix;
+            var args = events[i][2];
+            for (var j=0; j<args.length; j++) {
+                args[j][1] = prefix + args[j][1] + suffix;
+            }
+        }
+
+	// equivs: argument IDs only
+        var equivs = data['equivs'] || [];
+        for (var i=0; i<equivs.length; i++) {
+            for (var j=2; j<equivs[i].length; j++) {
+                equivs[i][j] = prefix + equivs[i][j] + suffix;
+            }
+        }
+
+	// attributes: attribute ID and target ID
+        var attributes = data['attributes'] || [];
+        for (var i=0; i<attributes.length; i++) {
+            attributes[i][0] = prefix + attributes[i][0] + suffix;
+            attributes[i][2] = prefix + attributes[i][2] + suffix;
+        }
+
+        // normalizations: normalization ID and target ID
+        var normalizations = data['normalizations'] || [];
+        for (var i=0; i<normalizations.length; i++) {
+            normalizations[i][0] = prefix + normalizations[i][0] + suffix;
+            normalizations[i][2] = prefix + normalizations[i][2] + suffix;
+        }
+
+        // comments: target ID only(!)
+        var comments = data['comments'] || [];
+        for (var i=0; i<comments.length; i++) {
+            comments[i][0] = prefix + comments[i][0] + suffix;
+        }
 
         return data;
     };
