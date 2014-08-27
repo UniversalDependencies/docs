@@ -7,7 +7,7 @@ title:  'Universal Dependencies --- test notes'
 
 Dependency relations hold primarily between content words.
 
-<div class="sd-parse">
+<div id="s1" class="sd-parse">
 The cat could have chased the dog right down the street .
 nsubj(chased, cat)
 dobj(chased, dog)
@@ -17,7 +17,7 @@ advmod(street, right)
 
 Function words attach as direct dependents of the most closely related content word.
 
-<div class="sd-parse">
+<div id="s2" class="sd-parse">
 The cat could have chased the dog right down the street .
 det(cat, The)
 aux(chased, could)
