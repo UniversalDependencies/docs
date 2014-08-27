@@ -33,20 +33,20 @@ Function words do not have dependents of their own, except in the following case
 2. Coordinated function words
 3. Promotion through head elision
   
-<div class="sd-parse">
+<div id="s3" class="sd-parse">
 The cat could have chased the dog out of the house .
 case(house,out)
 mwe(out,of)
 </div>
 
-<div class="sd-parse">
+<div id="s4" class="sd-parse">
 The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
 cc(down,and)
 </div>
 
-<div class="sd-parse">
+<div id="s5" class="sd-parse">
 The cat could have (chased the dog right down the street) .
 nsubj(have,cat)
 aux(have,could)
@@ -58,21 +58,21 @@ The following expression types are all annotated with a flat head-initial struct
 2. Multiword names (name)
 3. Foreign phrases (foreign)
 
-<div class="sd-parse">
+<div id="s6" class="sd-parse">
 We had a nice time in spite of the rain .
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
 </div>
 
-<div class="sd-parse">
+<div id="s7" class="sd-parse">
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
 </div>
 
-<div class="sd-parse">
+<div id="s8" class="sd-parse">
 She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
