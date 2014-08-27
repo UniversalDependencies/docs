@@ -57,6 +57,33 @@ pobj(of-6, these-7)
 </div>
 -->
 
+## Ambiguous tokens
+
+If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example `can-5` refers to the fifth token of the sentence, `can`. This code
+
+    <div id="simple-example-parse" class="sd-parse">
+    I can can the can .
+    nsubj(can-3, I)
+    aux(can-3, can-2)
+    det(can-5,the)
+    dobj(can-3,can-5)
+    punct(can-3,.)
+    </div>
+
+will result in this visualization
+
+<div id="simple-example-parse" class="sd-parse">
+I can can the can .
+nsubj(can-3, I)
+aux(can-3, can-2)
+det(can-5,the)
+dobj(can-3,can-5)
+punct(can-3,.)
+</div>
+
+
+
+
 ## POS tags
 
 POS tags are optional and use the format "text/POS".
