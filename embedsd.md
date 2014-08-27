@@ -59,7 +59,7 @@ pobj(of-6, these-7)
 
 ## Ambiguous tokens
 
-If you the example has several instances of the same token, you can use their position to refer to the exact token. This code
+If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example `can-5` refers to the fifth token of the sentence, `can`. This code
 
     <div id="simple-example-parse" class="sd-parse">
     I can can the can .
