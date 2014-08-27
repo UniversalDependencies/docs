@@ -6,8 +6,8 @@ title:  'Universal Dependencies'
 # Universal Dependencies
 
 This is the online documentation and example bank for Universal
-Dependencies. Please note that these guidlines are currently
-under revision and should not be considered final.
+Dependencies. *Please note that these guidlines are currently
+under revision and should not be considered final.*
 
 Links to primary documentation and documentation status:
 
