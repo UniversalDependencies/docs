@@ -588,6 +588,11 @@ compound in other languages:
     var embeddedIdSeq = 1;
 
     var embedAnnotation = function(elem, parse, data, options) {
+        // special case for supporting simple "~~~ sdparse [...] ~~~" 
+        // syntax: if elem has a <pre> parent, add "embedding" class
+        // to the <pre> so we can avoid margins etc. on the <pre>.
+        elem.parent('pre').addClass('embedding');	
+
 	// store sequence number for reference resolution
 	elem.attr('embeddedSequenceNum', embeddedIdSeq);
 
@@ -756,15 +761,27 @@ compound in other languages:
 	elem.text(resolvedText);
     };
 
+    // class attribute values that trigger parsing using parseSd
+    var parseSdClasses = [
+        '.sd-parse',
+        '.language-sdparse'
+    ];
+
+    // class attribute values that trigger parsing using parseConllX
+    var parseConllXClasses = [
+        '.conllx-parse',
+        '.language-conllx',
+    ];
+
     var embedBratVisualizations = function() {
         // generate embedded visualizations: call embedAnnotation
-	// for elements with "sd-parse" class.
-        $('.sd-parse').each(function(idx) {
+	// for elements with "sd-parse" class (or variant).
+        $(parseSdClasses.join(',')).each(function(idx) {
             embedAnnotation($(this), parseSd);
 	});
 
-        // repeat for elements with "conllx-parse" class.
-        $('.conllx-parse').each(function(idx) {
+        // repeat for elements with "conllx-parse" class (or variant).
+        $(parseConllXClasses.join(',')).each(function(idx) {
             embedAnnotation($(this), parseConllX);
 	});
 

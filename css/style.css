@@ -70,6 +70,13 @@ code {
   border-radius: 3px;
 }
 
+pre.embedding {
+  margin: 0;
+  padding: 0;
+  border: none;
+  overflow: visible;
+}
+
 pre > code {
   margin: 0;
   padding: 0;
