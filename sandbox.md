@@ -57,6 +57,10 @@ det(dependency, A)
 Dynamic visualization (click "edit!")
 </div>
 
+~~~ sdparse
+Alternative syntax
+~~~
+
 ----------
 
 # Some Jekyll 
