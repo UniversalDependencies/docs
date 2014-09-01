@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>case</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/case.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,162 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="case-case-marking">case: case marking</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
-
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
+<p>The <em>case</em> relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause it attaches to or introduces. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The <em>case</em> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <div class="sd-parse">
-Alternative syntax
+the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, 's-3)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<div class="sd-parse">
+the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
 </div>
 
-<hr />
+<p>French:
+&lt;div class="sd-parse"&gt;
+le bureau du président \n the office of the_Chair
+det(bureau, le)
+nmod(bureau, président)
+case(président, du)
+&lt;/div&gt;</p>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
+<p>Hebrew:
+&lt;div class="sd-parse"&gt;
+wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
+dobj(wkfraiti-1, hsrj-3)
+case(hsrj-3, at-2)
+&lt;/div&gt;</p>
 
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
+<p>When case markers are morphemes, they are not divided off the noun as a separate case dependent, but the noun as a whole is analyzed as a <em>nmod</em> of the verb. To overtly mark case, POS tags are included in the representation as shown below on a Russian example. We use the universal POS tagset from Petrov et al. (2012) to which we append case information.</p>
 
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<div class="sd-parse">
+Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
+nsubj(napisal-2, Ya-1)
+dobj(napisal-2, pis'mo-3)
+nmod(napisal-2, perom-4)
+</div>
 
+<p>This treatment provides parallelism between different constructions
+across and within languages. A good result is that we now have greater
+parallelism between prepositional phrases and subordinate clauses,
+which are in practice often introduced by a preposition:</p>
+
+<div class="sd-parse">
+Sue left after the rehearsal
+nsubj(left-2, Sue-1)
+nmod(left-2, rehearsal-5)
+det(rehearsal-5, the-4)
+case(rehearsal-5, after-3)
+</div>
+
+<div class="sd-parse">
+Sue left after we did
+nsubj(left-2, Sue-1)
+advcl(left-2, did-5)
+mark(did-5, after-3)
+nsubj(did-5, we-4)
+</div>
+
+<p>We also obtain parallel constructions for</p>
+
+<ul>
+  <li>the possessive alternation</li>
+</ul>
+
+<div class="sd-parse">
+the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, 's-3)
+</div>
+
+<div class="sd-parse">
+the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
+</div>
+
+<ul>
+  <li>variant forms with case, a preposition or a
+postposition in Finnish</li>
+</ul>
+
+<div class="sd-parse">
+etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+nmod(etsiä, johtolankaa)
+case(johtolankaa, ilman)
+</div>
+
+<div class="sd-parse">
+etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+nmod(etsiä, taskulampun)
+case(taskulampun, kanssa)
+</div>
+
+<div class="sd-parse">
+etsiä johtolangatta \n to_search clue.ABESSIVE
+nmod(etsiä, johtolangatta)
+</div>
+
+<ul>
+  <li>the dative alternation where the prepositional construction gets a similar
+analysis to the double object construction</li>
+</ul>
+
+<div class="sd-parse">
+give the children the toys
+dobj(give, toys)
+iobj(give, children)
+</div>
+
+<div class="sd-parse">
+give the toys to the children
+dobj(give, toys)
+nmod(give, children)
+case(children, to)
+</div>
+
+<div class="sd-parse">
+donner les_jouets aux enfants \n give the_toys to_the children
+dobj(donner-1, les_jouets-2)
+nmod(donner-1, enfants-4)
+case(enfants-4, aux-3)
+</div>
+
+<p>Another advantage of this new analysis is that it provides a treatment
+of prepositional phrases that are predicative complements of “be” that is consistent with the treatment of nominal predicative
+complements:</p>
+
+<div class="sd-parse">
+Sue is in shape
+nsubj(shape-4, Sue-1)
+cop(shape-4, is-2)
+case(shape-4, in-3)
+</div>
+
+<p>Stacked prepositions, such as <em>out of</em> are regarded as some form of <em>mwe</em>:</p>
+
+<div class="sd-parse">
+Out of all this , something good will come.
+</div>
+
+<div class="sd-parse">
+Out of all this ... come
+mwe(Out-1, of-2)
+predet(this-4, all-3)
+case(this-4, Out-1)
+nmod(come-6, this-4)
+</div>
 
 
 <!-- "relation in other languages" links -->
@@ -120,6 +209,13 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+case in other languages:
+
+[<a href="../fi-dep/case.html">fi</a>]
+
+[<a href="../ud-dep/case.html">ud</a>]
 
 
 

@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>xcomp</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/xcomp.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,37 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="xcomp-open-clausal-complement">xcomp: open clausal complement</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
-
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
+<p>An open clausal complement (<em>xcomp</em>) of a verb or an adjective is a
+predicative or clausal complement without its own subject. The
+reference of the subject is necessarily determined by an argument
+external to the xcomp (normally by the object of the next higher
+clause, if there is one, or else by the subject of the next higher
+clause. These complements are always non-finite, and they are
+complements (arguments of the higher verb or adjective) rather than
+adjuncts/modifiers, such as a purpose clause. The name <em>xcomp</em> is
+borrowed from Lexical-Functional Grammar.</p>
 
 <div class="sd-parse">
-Alternative syntax
+He says that you like to swim
+xcomp(like, swim)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<div class="sd-parse">
+Sue asked George to respond to her offer
+xcomp(asked, respond)
 </div>
 
-<hr />
+<div class="sd-parse">
+I consider him a fool
+xcomp(consider, fool)
+</div>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
-
+<div class="sd-parse">
+I consider him honest
+xcomp(consider, honest)
+</div>
 
 
 <!-- "relation in other languages" links -->
@@ -250,6 +214,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+xcomp in other languages:
+
+[<a href="../en-dep/xcomp.html">en</a>]
+
+[<a href="../fi-dep/xcomp.html">fi</a>]
+
+[<a href="../ud-dep/xcomp.html">ud</a>]
 
 
 

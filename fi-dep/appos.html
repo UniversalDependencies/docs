@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>appos</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/appos.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,123 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="appos-apposition-a-namesec-apposa">appos (apposition) <a name="sec-appos"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail below.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<!-- fname:appos1.pdf -->
+<div class="sd-parse">
+Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+appos(Professori-1, Tamminen-4)
+punct(Tamminen-4, ,-2)
+punct(Tamminen-4, ,-5)
+name(Tamminen-4, Matti-3)
+nsubj(luennoi-6, Professori-1)
+advmod(luennoi-6, tänään-7)
+punct(luennoi-6, .-8)
+</div>
 
-<hr />
+<!-- fname:appos2.pdf -->
+<div class="sd-parse">
+Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
+appos(Kirjassa-1, Putkinotko-2)
+nmod(on-3, Kirjassa-1)
+nsubj(on-3, juoni-5)
+amod(juoni-5, mielenkiintoinen-4)
+punct(on-3, .-6)
+</div>
 
-<h1 id="some-markdown">Some markdown</h1>
+<!--details-->
 
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
+<h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
+
+<p>The Finnish Grammar (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a> <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>)
+distinguishes between three similar phenomena: the apposition, the
+appellation modifier (<em>nimikemääarite</em>) and the supporting noun
+(<em>tukisubstantiivi</em>). Out of these, the apposition and the appellation
+modifier
+(<a href="http://universaldependencies.github.io/docs/fi/nn.html">nn</a>) are
+distinguished in TDT, and supporting noun structures are considered
+appositions.</p>
+
+<p>All of these structures have in common that they all include two
+(usually adjacent) elements, most often noun phrases, which refer to
+the same entity or entities and have the same function in the
+sentence. Thus, in order to be considered an apposition, an
+appellation modifier or a supporting noun structure, a structure has
+to fulfill the following criteria (the same as in the Finnish
+grammar <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>):</p>
 
 <ol>
-  <li>numbered</li>
-  <li>list</li>
+  <li>Both elements of the structure must refer to the same entity
+ or group of entities.</li>
+  <li>Both elements of the structure must have the same function
+ in the sentence (for instance, the subject).</li>
 </ol>
 
-<p>Link: <a href="http://www.example.com">link text</a></p>
+<p>These criteria are interpreted rather loosely, and there are no
+restrictions on the part of speech of the elements involved. Most
+appositions (and appellation modifiers) in TDT consist of noun
+phrases, but there are occurrences of different parts of speech as
+appositions; notably the fiction section of the treebank contains
+few examples of verbal appositions.</p>
 
-<h1 id="header-1">header 1</h1>
+<p>Among the expressions that fulfill criteria 1 and 2, six common
+cases can be distinguished according to inflection and punctuation.</p>
 
-<h2 id="header-2">header 2</h2>
+<ol>
+  <li>singular, both elements in nominative, no punctuation: <em>professori Matti Tamminen (professor Matti Tamminen)</em></li>
+  <li>singular, first element in nominative, second element inflected: <em>professori Matti Tammisen mukaan (according to professor Matti Tamminen)</em></li>
+  <li>singular, both elements in nominative, punctuation in between: <em>professori, Matti Tamminen (the professor, Matti Tamminen)</em></li>
+  <li>singular, first element inflected, second element in nominative: <em>romaanissa Putkinotko (in the novel Putkinotko)</em></li>
+  <li>singular, both elements inflected: <em>professorin, Matti Tammisen, mukaan (according to the professor, Matti Tamminen)</em></li>
+  <li>plural, elements either in nominative or inflected: <em>professorit Matti Tamminen ja Erkki Koivunen (the professors Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden, Matti Tammisen ja Erkki Koivusen, mukaan (according to the professors, Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden Matti Tamminen and Erkki Koivunen mukaan (according to the professors Matti Tamminen and Erkki Koivunen)</em></li>
+</ol>
 
-<h3 id="header-3">header 3</h3>
+<p>Out of these six cases, the first two are considered appellation
+modifiers, and thus marked with the dependency type
+<code>nn</code>. Note that the governor of the dependency in
+appellation modifiers is the latter of the two words.</p>
 
-<p><em>italics</em> and <strong>bold</strong></p>
+<!-- TODO missing fig \myfigexample{nn_appellation.pdf} -->
 
-<p><code>inline code</code></p>
+<p>The remaining four cases are all considered appositions and marked
+with the type <code>appos</code>. Contrary to appellation modifiers, in
+apposition structures the first word is considered the governor.</p>
 
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
+<!-- fname:appos1.pdf -->
 <div class="sd-parse">
-Alternative syntax
+Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+appos(Professori-1, Tamminen-4)
+punct(Tamminen-4, ,-2)
+punct(Tamminen-4, ,-5)
+name(Tamminen-4, Matti-3)
+nsubj(luennoi-6, Professori-1)
+advmod(luennoi-6, tänään-7)
+punct(luennoi-6, .-8)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
+<p>It should be noted that case number 4 is in fact an example of a
+supporting noun structure, but in TDT, these are marked as
+appositions. In plural (case number 6), all possible case
+combinations are considered appositions.</p>
 
-<hr />
+<p>The only difference between the cases 1 and 3 is the presence or
+absence of punctuation. Often, said punctuation is a comma, but also
+parentheses, a dash or a colon are possible. As can be seen from the
+examples above, the punctuation produces a semantic difference,
+which is taken into account in the annotation. Punctuation
+variations of the cases 2, 4, and 5 need not be considered, as these
+variations are ungrammatical. (Naturally, ungrammatical phenomena
+can and do occur in a corpus of actual language, but these cases are
+resolved on a case-by-case basis.)</p>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<ul>
+  <li>*professori, Matti Tammisen mukaan</li>
+  <li>*romaanissa, Putkinotko</li>
+  <li>*professorin Matti Tammisen mukaan (unless a possessive reading, <em>the
+      professor’s Matti Tamminen</em>, is intended)</li>
+</ul>
 
 
 
@@ -114,6 +165,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+appos in other languages:
+
+[<a href="../en-dep/appos.html">en</a>]
+
+[<a href="../fi-dep/appos.html">fi</a>]
+
+[<a href="../ud-dep/appos.html">ud</a>]
 
 
 

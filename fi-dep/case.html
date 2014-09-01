@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>case</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,18 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="case-case-marking">case (case marking)</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
+<!-- fname:adpos.pdf -->
 <div class="sd-parse">
-Alternative syntax
+Talo sijaitsee mäen takana . \n House is_located hill behind .
+nsubj(sijaitsee-2, Talo-1)
+nmod(sijaitsee-2, mäen-3)
+case(mäen-3, takana-4)
+punct(sijaitsee-2, .-5)
 </div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
 
 
 
@@ -120,6 +66,13 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+case in other languages:
+
+[<a href="../fi-dep/case.html">fi</a>]
+
+[<a href="../ud-dep/case.html">ud</a>]
 
 
 

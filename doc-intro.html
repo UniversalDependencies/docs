@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
+    <title>Documentation introduction</title>
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/doc-intro.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,51 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="introduction">Introduction</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>This online repository contains dependency annotation documentation
+and visualizations, built using a combination of Jekyll, GitHub pages
+and embedded brat visualizations. Here’s a minimal example:</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<div class="example">
 
-<hr />
+  <p>An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).</p>
 
-<h1 id="some-markdown">Some markdown</h1>
+  <pre><code class="language-sdparse">She looks very beautiful
+acomp(looks, beautiful)
+</code></pre>
+
+</div>
+
+<p>The text is Markdown (with optional inline HTML) and the data for the
+visualizations is represented in either the Stanford Dependency or
+CoNLL-X format. For example, the above visualization is generated from
+this input:</p>
+
+<pre><code>~~~ sdparse
+She looks very beautiful
+acomp(looks, beautiful)
+~~~
+</code></pre>
+
+<p>See the <a href="#more-information">links below</a> for more information.</p>
+
+<h2 id="how-to-contribute">How to contribute</h2>
+
+<p>See <a href="contributing.html">here</a> for instructions on how to contribute to
+this online documentation. <a href="embedsd.html">This page</a> provides details
+on how the visualized examples are created.</p>
+
+<h2 id="more-information">More information:</h2>
+
+<p>The following sources of documentation provide further details:</p>
 
 <ul>
-  <li>bulleted</li>
-  <li>list</li>
+  <li><a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a></li>
+  <li><a href="https://pages.github.com/">Github pages</a></li>
+  <li><a href="http://brat.nlplab.org/embed.html">Embedded brat</a></li>
+  <li><a href="http://nlp.stanford.edu/software/stanford-dependencies.shtml">Stanford Dependencies</a></li>
 </ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
-</div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
-
 
 
 <!-- "relation in other languages" links -->

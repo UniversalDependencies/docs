@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>dep</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/dep.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,148 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="dep-dependent-a-namesec-depa">dep (dependent) <a name="sec-dep"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type <code>dep</code> is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<!-- fname:dep.pdf -->
+<div class="sd-parse">
+Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
+dep(asiassa-2, Itse-1)
+advmod(tuli-4, asiassa-2)
+nsubj(tuli-4, hän-3)
+advmod(tuli-4, eilen-6)
+advmod(eilen-6, jo-5)
+punct(tuli-4, .-7)
+</div>
 
-<hr />
+<!--details-->
 
-<h1 id="some-markdown">Some markdown</h1>
+<p>The following expressions are considered idiomatic, and their parts are to be combined with the dependency type <code>dep</code> in TDT. Note that this is not intended to be a closed list, but rather a list of examples encountered while annotating TDT. The two-part expressions that fall into the categories of coordinating and subordinating conjunctions are omitted here, and instead listed under <a href="http://universaldependencies.github.io/docs/fi/cc.html">cc</a> and <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>, respectively. Due to the idiomatic nature of these two-part expressions, the translations may on occasion not be very natural.</p>
+
+<h3 id="adverbs">Adverbs:</h3>
 
 <ul>
-  <li>bulleted</li>
-  <li>list</li>
+  <li>aika lailla (quite some)</li>
+  <li>aina vain (forever and ever)</li>
+  <li>aivan kuin (just like)</li>
+  <li>alun alkaen (from the beginning, originally)</li>
+  <li>alun perin (originally)</li>
+  <li>ennen aikojaan (prematurely)</li>
+  <li>ennen kaikkea (first and foremost)</li>
+  <li>ennen muuta (first and foremost)</li>
+  <li>ennen pitkää (before long)</li>
+  <li>entä jos (what if)</li>
+  <li>heti perään (right after)</li>
+  <li>hyvissä ajoin (on time, in good time)</li>
+  <li>ihan vaan (only)</li>
+  <li>ikään kuin (kind of)</li>
+  <li>ilman muuta (of course)</li>
+  <li>itse asiassa (as a matter of fact, in fact)</li>
+  <li>ja niin edelleen (and so on)</li>
+  <li>jonkin verran (some, to some extent)</li>
+  <li>jossain määrin, siinä määrin, missä määrin (some, to some extent, to that extent)</li>
+  <li>kaiken aikaa (all the time)</li>
+  <li>kaiken kaikkiaan (all in all)</li>
+  <li>kaikin puolin (in all ways)</li>
+  <li>kerta kaikkiaan (completely, once and for all)</li>
+  <li>loppujen lopuksi (in the end)</li>
+  <li>muun muassa (among others)</li>
+  <li>miten niin (how so)</li>
+  <li>missä sattuu, mistä sattuu, minne sattuu (wherever)</li>
+  <li>mitä jos (what if)</li>
+  <li>niin ikään (also)</li>
+  <li>niin kuin (like)</li>
+  <li>niin sanotusti (so to say)</li>
+  <li>noin vain (just like that)</li>
+  <li>no kun (well)</li>
+  <li>no niin (alright)</li>
+  <li>näillä näkymin (with the current knowledge)</li>
+  <li>näin ollen (this being so)</li>
+  <li>pikku hiljaa (little by little)</li>
+  <li>pilvin pimein (plenty of)</li>
+  <li>piri pintaan (full)</li>
+  <li>päällisin puolin (from the surface of it)</li>
+  <li>saman tien (at once)</li>
+  <li>saman verran (the same amount)</li>
+  <li>sen koom(m)in (since then)</li>
+  <li>sen suuremmin (any more than that)</li>
+  <li>sen kun vaan (go ahead)</li>
+  <li>sen verran (that amount)</li>
+  <li>siellä täällä (here and there)</li>
+  <li>siinä sivussa (on the side)</li>
+  <li>silloin tällöin (every now and then)</li>
+  <li>sillä aikaa (meanwhile)</li>
+  <li>sitä mukaa (“accordingly”)</li>
+  <li>sitä paitsi (besides)</li>
+  <li>sivumennen sanoen (by the way)</li>
+  <li>summa summarum (all in all)</li>
+  <li>suuna päänä (headfirst)</li>
+  <li>suurin piirtein (just about)</li>
+  <li>ties vaikka (who knows)</li>
+  <li>toisin sanoen (in other words)</li>
+  <li>tuon tuosta (all the time)</li>
+  <li>tuosta vain (just like that)</li>
+  <li>tämän tästä (all the time)</li>
+  <li>vähän kuin (a bit like)</li>
+  <li>yhtä aikaa (at the same time)</li>
+  <li>yhtä kaikki (all the same)</li>
+  <li>yhtä paljon (the same amount, as much)</li>
+  <li>yleisesti ottaen (generally speaking)</li>
 </ul>
 
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
+<h3 id="adjectives">Adjectives:</h3>
 
-<p>Link: <a href="http://www.example.com">link text</a></p>
+<ul>
+  <li>niin kutsuttu (so called)</li>
+  <li>niin sanottu (so called)</li>
+</ul>
 
-<h1 id="header-1">header 1</h1>
+<h3 id="adpositions">Adpositions:</h3>
 
-<h2 id="header-2">header 2</h2>
+<ul>
+  <li>lukuun ottamatta (disregarding)</li>
+</ul>
 
-<h3 id="header-3">header 3</h3>
+<h3 id="determiners">Determiners:</h3>
 
-<p><em>italics</em> and <strong>bold</strong></p>
+<ul>
+  <li>itse kukin (each)</li>
+  <li>joka ainoa (each and every one)</li>
+</ul>
 
-<p><code>inline code</code></p>
+<h3 id="interjections">Interjections:</h3>
 
-<hr />
+<ul>
+  <li>ai ai (oh oh, tut tut)</li>
+  <li>ai niin (oh yeah)</li>
+  <li>ei jumalauta (goddammit)</li>
+  <li>ei vitsit (oh dear)</li>
+  <li>hei hei (hey hey, bye bye)</li>
+  <li>hip hip hurraa (hip hip hooray)</li>
+  <li>hitto vie (dammit)</li>
+  <li>jep jep (yep yep)</li>
+  <li>kas kummaa (surprise surprise)</li>
+  <li>mitä vittua (what the fuck)</li>
+  <li>no joo (well yeah)</li>
+  <li>piru vie (dammit)</li>
+  <li>totta kai (of course)</li>
+  <li>voi että (oh dear)</li>
+  <li>voi po(i)jat (oh boy)</li>
+</ul>
 
-<h1 id="some-visualizations">Some visualizations</h1>
+<h3 id="nominals">Nominals:</h3>
 
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
+<ul>
+  <li>missä ikinä (wherever)</li>
+</ul>
 
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
+<h3 id="other-the-pos-may-vary">Other: (the POS may vary)</h3>
 
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
-</div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<ul>
+  <li>mikä tahansa (whichever, whatever)</li>
+  <li>mikä vain (whichever, whatever)</li>
+</ul>
 
 
 
@@ -144,6 +220,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+dep in other languages:
+
+[<a href="../en-dep/dep.html">en</a>]
+
+[<a href="../fi-dep/dep.html">fi</a>]
+
+[<a href="../ud-dep/dep.html">ud</a>]
 
 
 

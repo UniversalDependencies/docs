@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>nn</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nn.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,40 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="nn-noun-compound-modifier-a-namesec-nna">nn (noun compound modifier) <a name="sec-nn"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>The dependency type <code>nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish SD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>nn</code>.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
+<!-- fname:nn_foreign.pdf -->
 <div class="sd-parse">
-Alternative syntax
+Da Vinci -merkkinen luomiväri \n Da Vinci -make eyeshadow
+name(Vinci-2, Da-1)
+nn(-merkkinen-3, Vinci-2)
+amod(luomiväri-4, -merkkinen-3)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<!-- fname:nn_error.pdf -->
+<div class="sd-parse">
+Ruoka pöytä notkui herkkuja . \n Food table was_full_of goodies .
+nn(pöytä-2, Ruoka-1)
+nsubj(notkui-3, pöytä-2)
+dobj(notkui-3, herkkuja-4)
+punct(notkui-3, .-5)
 </div>
 
-<hr />
+<p>The second use of the type <code>nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>.</p>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
+<!-- , and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).-->
 
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<!-- fname:nn_appellation.pdf -->
+<div class="sd-parse">
+Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
+nn(Tamminen-3, Professori-1)
+name(Tamminen-3, Matti-2)
+nsubj(pitää-4, Tamminen-3)
+dobj(pitää-4, puheen-5)
+punct(pitää-4, .-6)
+</div>
 
 
 
@@ -188,6 +156,13 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+nn in other languages:
+
+[<a href="../en-dep/nn.html">en</a>]
+
+[<a href="../fi-dep/nn.html">fi</a>]
 
 
 

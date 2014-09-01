@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>partmod</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/partmod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,50 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="partmod-participal-modifier">partmod (participal modifier)</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>The <em>participal modifier</em> (<code>partmod</code>) most commonly modifies a noun phrase. Note that the participle (Also the MA-derivation is treated as a participle in TDT.)  can take arguments, for instance a subject, just as any verb.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
+<!-- fname:partmod_NP.pdf -->
 <div class="sd-parse">
-Alternative syntax
+Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
+nsubj(leipoma-2, Äidin-1)
+partmod(kakku-3, leipoma-2)
+nsubj-cop(menestys-5, kakku-3)
+cop(menestys-5, oli-4)
+punct(menestys-5, .-6)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<!-- fname:partmod_NP_2.pdf -->
+<div class="sd-parse">
+Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
+partmod(lahjat-2, Saadut-1)
+nsubj(ilahduttivat-3, lahjat-2)
+dobj(ilahduttivat-3, lapsia-4)
+punct(ilahduttivat-3, .-5)
 </div>
 
-<hr />
+<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
+<!-- fname:partmod_VP_mod.pdf -->
+<div class="sd-parse">
+Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
+partmod(juoksin-2, Huolestuneena-1)
+nmod(juoksin-2, hänen-3)
+adpos(hänen-3, luokseen-4)
+punct(juoksin-2, .-5)
+</div>
 
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
+<!-- fname:partmod_VP_comp.pdf -->
+<div class="sd-parse">
+Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
+nsubj(osoittautui-2, Ksylitoli-1)
+partmod(osoittautui-2, ehkäiseväksi-4)
+dobj(ehkäiseväksi-4, kariesta-3)
+punct(osoittautui-2, .-5)
+</div>
 
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
 
 
 
@@ -206,6 +184,11 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+partmod in other languages:
+
+[<a href="../fi-dep/partmod.html">fi</a>]
 
 
 

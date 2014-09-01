@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
+    <title>Structure</title>
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/structure.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,91 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h1 id="structure">Structure</h1>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>This is a placeholder page for the structure documentation.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<p>(the following was moved over from <a href="structure-notes.html">structure-notes.html</a>)</p>
 
-<hr />
+<h2 id="dependency-structure-general-principles">Dependency Structure: General Principles</h2>
 
-<h1 id="some-markdown">Some markdown</h1>
+<p>Dependency relations hold primarily between content words.</p>
 
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
+<div id="s1" class="sd-parse">
+The cat could have chased the dog right down the street .
+nsubj(chased, cat)
+dobj(chased, dog)
+nmod(chased, street)
+advmod(street, right)
+</div>
+
+<p>Function words attach as direct dependents of the most closely related content word.</p>
+
+<div id="s2" class="sd-parse">
+The cat could have chased the dog right down the street .
+det(cat, The)
+aux(chased, could)
+aux(chased, have)
+det(dog, the-6)
+case(street, down)
+det(street, the-10)
+</div>
+
+<p>Function words do not have dependents of their own, except in the following cases:</p>
 
 <ol>
-  <li>numbered</li>
-  <li>list</li>
+  <li>Multiword function words</li>
+  <li>Coordinated function words</li>
+  <li>Promotion through head elision</li>
 </ol>
 
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
+<div id="s3" class="sd-parse">
+The cat could have chased the dog out of the house .
+case(house,out)
+mwe(out,of)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<div id="s4" class="sd-parse">
+The cat could have chased the dog up and down the street .
+case(street,up)
+conj(up,down)
+cc(down,and)
 </div>
 
-<hr />
+<div id="s5" class="sd-parse">
+The cat could have (chased the dog right down the street) .
+nsubj(have,cat)
+aux(have,could)
+</div>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
+<p>The following expression types are all annotated with a flat head-initial structure:</p>
 
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
+<ol>
+  <li>Fixed multiword expressions (mwe)</li>
+  <li>Multiword names (name)</li>
+  <li>Foreign phrases (foreign)</li>
+</ol>
 
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<div id="s6" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+</div>
 
+<div id="s7" class="sd-parse">
+Martin Luther King had a dream .
+nsubj(had,Martin)
+name(Martin,Luther)
+name(Luther,King)
+</div>
+
+<div id="s8" class="sd-parse">
+She said dra åt helvete .
+dobj(said,dra)
+foreign(dra,åt)
+foreign(dra,helvete)
+</div>
 
 
 <!-- "relation in other languages" links -->

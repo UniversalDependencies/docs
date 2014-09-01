@@ -6,10 +6,12 @@ set -e
 DATA_DIRECTORY="_data"
 RELATION_DATA_FILE="$DATA_DIRECTORY/relations.yaml"
 
-LANGUAGES="en fi usd"
+LANGUAGES="en-dep fi-dep ud-dep"
 
 # directory names are language names with an underscore prefix.
-DIRECTORIES=$(echo $LANGUAGES | perl -pe 's/(\b\S)/_$1/g')
+DIRECTORIES=$(echo " $LANGUAGES" | perl -pe 's/ (\S)/ _$1/g')
+
+echo $DIRECTORIES;
 
 # unique relation (document) names from per-language directories
 RELATIONS=$(find $DIRECTORIES -name '*.md' -printf '%f\n' | 

@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
+    <title>Finnish Relations</title>
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -17,8 +17,6 @@
 
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
-
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +31,338 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <p>Note: This document is a draft. Not all relations have been converted to USD-compatible description yet.</p>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<table class="typeindex">
+  <tr>
+    <td>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+      <table class="category">
+	<tr><td colspan="3"><b>Core dependents of clausal predicates</b></td></tr>
+	<tr>
+	  <td><i>Nominal dep</i></td>
+	  <td><i>Predicate dep</i></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nsubj.html">nsubj</a></td>
+	  <td><a href="fi-dep/csubj.html">csubj</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nsubj-cop.html">↳nsubj-cop</a></td>
+	  <td><a href="fi-dep/csubj-cop.html">↳csubj-cop</a></td>
+	</tr>
+	<tr>
+	  <td><strike>nsubjpass</strike></td>
+	  <td><strike>csubjpass</strike></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/dobj.html">dobj</a></td>
+	  <td><a href="fi-dep/ccomp.html">ccomp</a></td>
+	  <td><a href="fi-dep/xcomp.html">xcomp</a></td>
+	</tr>
+	<tr>
+	  <td />
+	  <td><a href="fi-dep/iccomp.html">↳iccomp</a></td>
+	  <td />
+	</tr>
+	<tr>
+	  <td><strike>iobj</strike></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Non-core dependents of clausal predicates</b></td></tr>
+	<tr>
+	  <td><i>Nominal dep</i></td>
+	  <td><i>Predicate dep</i></td>
+	  <td><i>Modifier word</i></td>
+	</tr>
+	<tr>
+	  <td>&nbsp;</td>
+	  <td><a href="fi-dep/advcl.html">advcl</a></td>
+	  <td><a href="fi-dep/advmod.html">advmod</a></td>
+	</tr>
+	<tr>
+	  <td>&nbsp;</td>
+	  <td><a href="fi-dep/nfincl.html">nfincl</a></td>
+	  <td><a href="fi-dep/neg.html">neg</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nmod.html">nmod</a></td>
+	  <td><a href="fi-dep/ncmod.html">ncmod</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nmod-own.html">↳nmod-own</a></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Special clausal dependents</b></td></tr>
+	<tr>
+	  <td><i>Nominal dep</i></td>
+	  <td><i>Auxiliary</i></td>
+	  <td><i>Other</i></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/vocative.html">vocative</a></td>
+	  <td><a href="fi-dep/aux.html">aux</a></td>
+	  <td><a href="fi-dep/mark.html">mark</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/discourse.html">discourse</a></td>
+	  <td><a href="fi-dep/auxpass.html">auxpass</a></td>
+	  <td><a href="fi-dep/punct.html">punct</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/expl.html">expl</a></td>
+	  <td><a href="fi-dep/cop.html">cop</a></td>
+	</tr>
+      </table>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Noun dependents</b></td></tr>
+	<tr>
+	  <td><i>Nominal dep</i></td>
+	  <td><i>Predicate dep</i></td>
+	  <td><i>Modifier word</i></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nummod.html">nummod</a></td>
+	  <td><a href="fi-dep/relcl.html">relcl</a></td>
+	  <td><a href="fi-dep/amod.html">amod</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/appos.html">appos</a></td>
+	  <td><a href="fi-dep/nfincl.html">nfincl</a></td>
+	  <td><a href="fi-dep/det.html">det</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/nmod.html">nmod</a></td>
+	  <td><a href="fi-dep/ncmod.html">ncmod</a></td>
+	  <td><a href="fi-dep/neg.html">neg</a></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Compounding and unanalyzed</b></td></tr>
+	<tr>
+	  <td><a href="fi-dep/compound.html">compound</a></td>
+	  <td><a href="fi-dep/mwe.html">mwe</a></td>
+	  <td><a href="fi-dep/goeswith.html">goeswith</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/name.html">name</a></td>
+	  <td><a href="fi-dep/foreign.html">foreign</a></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Coordination</b></td></tr>
+	<tr>
+	  <td><a href="fi-dep/conj.html">conj</a></td>
+	  <td><a href="fi-dep/cc.html">cc</a></td>
+	</tr>
+      </table>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Case-marking, prepositions, possessive</b></td></tr>
+	<tr>
+	  <td><a href="fi-dep/case.html">case</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/poss.html">↳poss</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/gsubj.html">↳gsubj</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/gobj.html">↳gobj</a></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Loose joining relations</b></td></tr>
+	<tr>
+	  <td><a href="fi-dep/list.html">list</a></td>
+	  <td><a href="fi-dep/parataxis.html">parataxis</a></td>
+	  <td><a href="fi-dep/remnant.html">remnant</a></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/dislocated.html">dislocated</a></td>
+	  <td></td><td><a href="fi-dep/reparandum.html">reparandum</a></td>
+	</tr>
+      </table>
+
+    </td>
+    <td>
+
+      <table class="category">
+	<tr><td colspan="3"><b>Other</b></td></tr>
+	<tr>
+	  <td><i>Sentence head</i></td>
+	  <td colspan="2"><i>Unspecified dependency</i></td>
+	</tr>
+	<tr>
+	  <td><a href="fi-dep/root.html">root</a></td>
+	  <td><a href="fi-dep/dep.html">dep</a></td>
+	</tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<p>Note: <i>nmod</i>, <i>ncmod</i>, <i>nfincl</i>, and <i>neg</i> appear
+in two places.</p>
 
 <hr />
 
-<h1 id="some-markdown">Some markdown</h1>
+<p>Alphabetical listing</p>
 
 <ul>
-  <li>bulleted</li>
-  <li>list</li>
+
+  <li><a href="fi-dep/acomp.html">acomp</a>: adjectival complement</li>
+
+  <li><a href="fi-dep/advcl.html">advcl</a>: adverbial clause modifier</li>
+
+  <li><a href="fi-dep/advmod.html">advmod</a>: adverb modifier</li>
+
+  <li><a href="fi-dep/amod.html">amod</a>: adjectival modifier</li>
+
+  <li><a href="fi-dep/appos.html">appos</a>: apposition</li>
+
+  <li><a href="fi-dep/aux.html">aux</a>: auxiliary</li>
+
+  <li><a href="fi-dep/auxpass.html">auxpass</a>: passive auxiliary</li>
+
+  <li><a href="fi-dep/case.html">case</a>: case marking</li>
+
+  <li><a href="fi-dep/cc.html">cc</a>: coordinating conjunction</li>
+
+  <li><a href="fi-dep/ccomp.html">ccomp</a>: clausal complement</li>
+
+  <li><a href="fi-dep/compar.html">compar</a>: comparative</li>
+
+  <li><a href="fi-dep/comparator.html">comparator</a>: comparative conjunction</li>
+
+  <li><a href="fi-dep/complm.html">complm</a>: complementizer</li>
+
+  <li><a href="fi-dep/compound.html">compound</a>: compound</li>
+
+  <li><a href="fi-dep/conj.html">conj</a>: coordinated element</li>
+
+  <li><a href="fi-dep/cop.html">cop</a>: copula</li>
+
+  <li><a href="fi-dep/csubj-cop.html">csubj-cop</a>: clausal copular subject</li>
+
+  <li><a href="fi-dep/csubj.html">csubj</a>: clausal subject</li>
+
+  <li><a href="fi-dep/dep.html">dep</a>: dependent</li>
+
+  <li><a href="fi-dep/det.html">det</a>: determiner</li>
+
+  <li><a href="fi-dep/discourse.html">discourse</a>: discourse element</li>
+
+  <li><a href="fi-dep/dislocated.html">dislocated</a>: dislocated</li>
+
+  <li><a href="fi-dep/dobj.html">dobj</a>: direct object</li>
+
+  <li><a href="fi-dep/expl.html">expl</a>: expl</li>
+
+  <li><a href="fi-dep/foreign.html">foreign</a>: foreign</li>
+
+  <li><a href="fi-dep/gobj.html">gobj</a>: genitive object</li>
+
+  <li><a href="fi-dep/goeswith.html">goeswith</a>: goeswith</li>
+
+  <li><a href="fi-dep/gsubj.html">gsubj</a>: genitive subject</li>
+
+  <li><a href="fi-dep/iccomp.html">iccomp</a>: infinite clausal complement</li>
+
+  <li><a href="fi-dep/infmod.html">infmod</a>: infinitive modifier</li>
+
+  <li><a href="fi-dep/list.html">list</a>: list</li>
+
+  <li><a href="fi-dep/mark.html">mark</a>: marker</li>
+
+  <li><a href="fi-dep/mwe.html">mwe</a>: mwe</li>
+
+  <li><a href="fi-dep/name.html">name</a>: multi-word named entity</li>
+
+  <li><a href="fi-dep/ncmod.html">ncmod</a>: ncmod</li>
+
+  <li><a href="fi-dep/neg.html">neg</a>: negation marker</li>
+
+  <li><a href="fi-dep/nfincl.html">nfincl</a>: nfincl</li>
+
+  <li><a href="fi-dep/nmod-own.html">nmod-own</a>: haver</li>
+
+  <li><a href="fi-dep/nmod.html">nmod</a>: nominal modifier</li>
+
+  <li><a href="fi-dep/nn.html">nn</a>: noun compound modifier</li>
+
+  <li><a href="fi-dep/nsubj-cop.html">nsubj-cop</a>: nominal copular subject</li>
+
+  <li><a href="fi-dep/nsubj.html">nsubj</a>: nominal subject</li>
+
+  <li><a href="fi-dep/number.html">number</a>: numerical expression</li>
+
+  <li><a href="fi-dep/nummod.html">nummod</a>: numeral modifier</li>
+
+  <li><a href="fi-dep/parataxis.html">parataxis</a>: parataxis</li>
+
+  <li><a href="fi-dep/partmod.html">partmod</a>: participal modifier</li>
+
+  <li><a href="fi-dep/poss.html">poss</a>: genitive modifier</li>
+
+  <li><a href="fi-dep/preconj.html">preconj</a>: preconjunction</li>
+
+  <li><a href="fi-dep/prt.html">prt</a>: phrasal particle</li>
+
+  <li><a href="fi-dep/punct.html">punct</a>: punctuation</li>
+
+  <li><a href="fi-dep/quantmod.html">quantmod</a>: quantification modifier</li>
+
+  <li><a href="fi-dep/rel.html">rel</a>: relativizer</li>
+
+  <li><a href="fi-dep/relcl.html">relcl</a>: relative clause modifier</li>
+
+  <li><a href="fi-dep/remnant.html">remnant</a>: remnant</li>
+
+  <li><a href="fi-dep/reparandum.html">reparandum</a>: reparandum</li>
+
+  <li><a href="fi-dep/root.html">root</a>: root</li>
+
+  <li><a href="fi-dep/vocative.html">vocative</a>: vocative modifier</li>
+
+  <li><a href="fi-dep/xcomp.html">xcomp</a>: open clausal complement</li>
+
 </ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
-</div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
-
 
 
 <!-- "relation in other languages" links -->

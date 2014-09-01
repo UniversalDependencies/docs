@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>mark</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,58 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="mark-marker-a-namesec-marka">mark (marker) <a name="sec-mark"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p>A <em>marker</em> (<code>mark</code>) is the subordinating conjunction in a non-complement subordinate clause.</p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<!-- fname:mark.pdf -->
+<div class="sd-parse">
+Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
+mark(tulin-2, Kun-1)
+nmod(tulin-2, kotiin-3)
+punct(tulin-2, ,-4)
+advcl(jätin-5, tulin-2)
+dobj(jätin-5, avaimen-6)
+nmod(jätin-5, pöydälle-7)
+punct(jätin-5, .-8)
+</div>
 
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
+<p>The main subordinating conjunctions in TDT are:</p>
 
 <ul>
-  <li>bulleted</li>
-  <li>list</li>
+  <li>että (that)</li>
+  <li>jotta (so that)</li>
+  <li>koska (because)</li>
+  <li>kun (when)</li>
+  <li>jos (if)</li>
+  <li>vaikka (even though)</li>
+  <li>kunnes (until)</li>
+  <li>kuin (as, than)</li>
 </ul>
 
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
+<p>Note that the conjunction <em>että</em> (usually) starts a complement clause, in which case it is marked as a complementizer <a href="http://universaldependencies.github.io/docs/fi/complm.html">complm</a>. On a similar note, the conjunction <em>kuin</em> also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier <a href="http://universaldependencies.github.io/docs/fi/advmod.html">advmod</a> as well as a comparative conjunction <a href="http://universaldependencies.github.io/docs/fi/comparator.html">comparator</a>.</p>
 
-<p>Link: <a href="http://www.example.com">link text</a></p>
+<p>In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.</p>
 
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
-</div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<ul>
+  <li>ennenkuin (before)</li>
+  <li>jahka (as soon as)</li>
+  <li>jos kohta (even if)</li>
+  <li>kun taas (whereas)</li>
+  <li>kuten (like, as)</li>
+  <li>mikäli (if)</li>
+  <li>mitä nyt (only)</li>
+  <li>muuten (otherwise)</li>
+  <li>niin (so)</li>
+  <li>niinkuin/niinku (like, standard and colloquial version)</li>
+  <li>paitsi (except)</li>
+  <li>paitsi että (except that)</li>
+  <li>paitsi jos (except if)</li>
+  <li>sikäli kuin (if)</li>
+  <li>sillä (because)</li>
+  <li>sitten kun (then when)</li>
+  <li>vähän kuin (a bit like)</li>
+</ul>
 
 
 
@@ -172,6 +158,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+mark in other languages:
+
+[<a href="../en-dep/mark.html">en</a>]
+
+[<a href="../fi-dep/mark.html">fi</a>]
+
+[<a href="../ud-dep/mark.html">ud</a>]
 
 
 

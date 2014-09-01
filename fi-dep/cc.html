@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>cc</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cc.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,88 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="cc-coordinating-conjunction-a-namesec-cca">cc (coordinating conjunction) <a name="sec-cc"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p><em>Coordinating conjunctions</em> are marked as dependents of the first coordinated element, and the dependency type used is <code>cc</code>. </p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
+<!-- fname:cc1.pdf -->
+<div class="sd-parse">
+kirjat , kynät ja viivottimet \n books , pencils and rulers
+conj(kirjat-1, kynät-3)
+punct(kirjat-1, ,-2)
+cc(kirjat-1, ja-4)
+conj(kirjat-1, viivottimet-5)
+</div>
 
-<hr />
+<!--details-->
 
-<h1 id="some-markdown">Some markdown</h1>
+<p>Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type <a href="http://universaldependencies.github.io/docs/fi/preconj.html"><code>preconj</code></a> and the second part with <code>cc</code> in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type <a href="http://universaldependencies.github.io/docs/fi/dep.html"><code>dep</code></a>, the rightmost word being the head.</p>
+
+<!-- fname:cc2.pdf -->
+<div class="sd-parse">
+toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
+preconj(kynät-2, toisaalta-1)
+punct(kynät-2, ,-3)
+cc(kynät-2, toisaalta-4)
+conj(kynät-2, viivottimet-5)
+</div>
+
+<!-- fname:cc3.pdf -->
+<div class="sd-parse">
+kynät ja / tai viivottimet \n pencils and / or rulers
+cc(kynät-1, tai-4)
+dep(tai-4, /-3)
+dep(/-3, ja-2)
+conj(kynät-1, viivottimet-5)
+</div>
+
+<p>Coordinating conjunctions are a closed class of words, and the main conjunctions are as follows:</p>
 
 <ul>
-  <li>bulleted</li>
-  <li>list</li>
+  <li>ja (and)</li>
+  <li>sekä (and)</li>
+  <li>sekä… että (both… and)</li>
+  <li>-kä (attached to negation words, nor)</li>
+  <li>eli (a.k.a.)</li>
+  <li>tai (or)</li>
+  <li>vai (or, in a question context)</li>
+  <li>joko… tai (either… or)</li>
+  <li>mutta (but)</li>
+  <li>vaan (but, in a negative context)</li>
 </ul>
 
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
+<p>In addition, certain less frequent words or combinations of words are marked as coordinating conjunctions in TDT, namely:</p>
 
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
-<div class="sd-parse">
-Alternative syntax
-</div>
-
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
-</div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
-
+<ul>
+  <li>&amp;</li>
+  <li>elikkä (colloquial version of <em>eli</em>, a.k.a)</li>
+  <li>ja / tai (and / or)</li>
+  <li>ja toisaalta (and on the other hand)</li>
+  <li>kuin (as/like)</li>
+  <li>kuin myös (as also)</li>
+  <li>kuten (like also)</li>
+  <li>milloin… milloin (when… when)</li>
+  <li>mitä… sitä (the… the)</li>
+  <li>niin… kuin (as well as)</li>
+  <li>niin kuin (like)</li>
+  <li>paitsi että (except that) (a two-part <em>preconjunction</em>, see Section <a href="#sec-preconj">preconj</a>)</li>
+  <li>paitsi… myös (not only… but also)</li>
+  <li>saati (let alone)</li>
+  <li>saati että (let alone that)</li>
+  <li>saatikka (let alone)</li>
+  <li>samoin kuin (“the same way as”)</li>
+  <li>siinä missä (“as much as”)</li>
+  <li>sitä… mitä (the… the)</li>
+  <li>sitä mukaa… mitä (a version of <em>the… the</em>)</li>
+  <li>sun muuta (et cetera)</li>
+  <li>toisaalta… ja/mutta toisaalta (on the one hand… and/but on the other hand)</li>
+  <li>toisaalta… toisaalta (on the one hand… on the other hand)</li>
+  <li>vaikka (although) (also a subordinating conjunction)</li>
+  <li>vuoroin… ja vuoroin (in turn… and in turn)</li>
+  <li>vuoroin… vuoroin (in turn… in turn)</li>
+  <li>yhtä lailla… kuin (+kin) (as well as (also))</li>
+  <li>ym. (etc.)</li>
+</ul>
 
 
 <!-- "relation in other languages" links -->
@@ -122,6 +137,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+cc in other languages:
+
+[<a href="../en-dep/cc.html">en</a>]
+
+[<a href="../fi-dep/cc.html">fi</a>]
+
+[<a href="../ud-dep/cc.html">ud</a>]
 
 
 

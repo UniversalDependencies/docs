@@ -39,79 +39,35 @@
 Dependencies. <strong>Please note that these guidlines are currently
 under revision and should not be considered final.</strong></p>
 
-<p>Links to primary documentation and documentation status:</p>
-
-<table id="indextable">
-<tr>
-  <th>Subset</th>
-  <th colspan="2">Documentation</th>
-  <th>Status</th>
-</tr>
-<tr>
-  <td class="right">English relations</td>
-  <td><a href="en-index.html">index page</a></td>
-  <td><a href="en-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr><tr>
-  <td class="right">Finnish relations</td>
-  <td><a href="fi-index.html">index page</a></td>
-  <td><a href="fi-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr><tr>
-  <td class="right">Universal Dependencies</td>
-  <td><a href="usd-index.html">index page</a></td>
-  <td><a href="usd-all.html">single document</a></td>
-  <td class="complete">First draft complete</td>
-</tr>
-</table>
-
-<p>Next project milestone: complete first drafts of English, Finnish and
-Universal Dependencies documentation.</p>
-
-<h2 id="introduction">Introduction</h2>
-
-<p>This online repository contains dependency annotation documentation
-and visualizations, built using a combination of Jekyll, GitHub pages
-and embedded brat visualizations. Here’s a minimal example:</p>
-
-<div class="example">
-
-  <p>An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).</p>
-
-  <pre><code class="language-sdparse">She looks very beautiful
-acomp(looks, beautiful)
-</code></pre>
-
-</div>
-
-<p>The text is Markdown (with optional inline HTML) and the data for the
-visualizations is represented in either the Stanford Dependency or
-CoNLL-X format. For example, the above visualization is generated from
-this input:</p>
-
-<pre><code>~~~ sdparse
-She looks very beautiful
-acomp(looks, beautiful)
-~~~
-</code></pre>
-
-<p>See the <a href="#more-information">links below</a> for more information.</p>
-
-<h2 id="how-to-contribute">How to contribute</h2>
-
-<p>See <a href="contributing.html">here</a> for instructions on how to contribute to
-this online documentation. <a href="embedsd.html">This page</a> provides details
-on how the visualized examples are created.</p>
-
-<h2 id="more-information">More information:</h2>
-
-<p>The following sources of documentation provide further details:</p>
+<p>Universal Dependencies documentation:</p>
 
 <ul>
-  <li><a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a></li>
-  <li><a href="https://pages.github.com/">Github pages</a></li>
-  <li><a href="http://brat.nlplab.org/embed.html">Embedded brat</a></li>
-  <li><a href="http://nlp.stanford.edu/software/stanford-dependencies.shtml">Stanford Dependencies</a></li>
+  <li><a href="format.html">Format</a></li>
+  <li><a href="segmentation.html">Segmentation</a></li>
+  <li><a href="morphology.html">Morphology</a></li>
+  <li><a href="tags.html">Tags</a>
+    <ul>
+      <li>Universal: <a href="ud-pos-index.html">index page</a></li>
+    </ul>
+  </li>
+  <li><a href="features.html">Features</a></li>
+  <li><a href="syntax.html">Syntax</a></li>
+  <li><a href="structure.html">Structure</a></li>
+  <li><a href="relations.html">Relations</a>
+    <ul>
+      <li>Universal: <a href="ud-dep-index.html">index page</a>, <a href="ud-dep-all.html">single document</a></li>
+      <li>English: <a href="en-dep-index.html">index page</a>, <a href="en-dep-all.html">single document</a></li>
+      <li>Finnish: <a href="fi-dep-index.html">index page</a>, <a href="fi-dep-all.html">single document</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Documentation for the documentation system:</p>
+
+<ul>
+  <li><a href="doc-intro.html">Documentation introduction</a></li>
+  <li><a href="contributing.html">Contributing</a></li>
+  <li><a href="embedsd.html">Embedding visualizations</a></li>
 </ul>
 
 

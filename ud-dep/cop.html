@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>cop</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/cop.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,73 +33,54 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="cop-copula">cop: copula</h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
-
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
+<p>A copula is the relation between the complement of a copular verb and
+the copular verb.  (We normally take a copula as a dependent of its
+complement)</p>
 
 <div class="sd-parse">
-Alternative syntax
+Bill is an honest man
+cop(man, is)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<div class="sd-parse">
+Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)
 </div>
 
-<hr />
+<p>The copula “be” are not treated as the
+head of a clause, but rather the dependent of a lexical predicate, as exemplified above.</p>
 
-<h1 id="some-jekyll">Some Jekyll</h1>
+<p>Such an analysis is motivated by the fact that many languages
+often or always lack an overt copula in such constructions, as in the
+the following Russian example:</p>
 
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
+<div class="sd-parse">
+Ivan lučšij tancor \n Ivan best dancer
+nsubj(tancor, Ivan)
+amod(tancor, lučšij)
+</div>
 
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+<p>Similar constructions arise even in English if we
+consider so-called raising-to-object or small clause constructions.
+Under the basic analysis proposed for SD, the predicate complement is
+not linked to its subject argument, but in the enhanced representation
+(see below), the linkage is then parallel to the treatment in a zero
+copula language:</p>
 
+<div class="sd-parse">
+I judge Ivan the best dancer
+nsubj(judge-2, I-1)
+dobj(judge-2, Ivan-3)
+xcomp(judge-2, dancer-6)
+det(dancer-6, the-4)
+amod(dancer-6, best-5)
+nsubj(dancer-6, Ivan-3)
+</div>
 
 
 <!-- "relation in other languages" links -->
@@ -136,6 +117,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+cop in other languages:
+
+[<a href="../en-dep/cop.html">en</a>]
+
+[<a href="../fi-dep/cop.html">fi</a>]
+
+[<a href="../ud-dep/cop.html">ud</a>]
 
 
 

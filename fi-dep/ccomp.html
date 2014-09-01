@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Sandbox</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>ccomp</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/sandbox.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,72 +33,34 @@
 	  </div>
 	</noscript>
 
-          <h1 id="sandbox">Sandbox</h1>
+          <h2 id="ccomp-clausal-complement-a-namesec-ccompa">ccomp (clausal complement) <a name="sec-ccomp"></a></h2>
 
-<p>This file is intended as a “sandbox” for trying out the editing
-features. Feel free to make changes by clicking the “edit page” link
-at the top. (You need to be a project member and logged in to GitHub
-for this to work.)</p>
+<p><em>Clausal complements</em> that have a subject different from that of the main clause (Note that a clausal complement need not have a subject present at all; the clause could be, for instance, passive.)  are marked with the dependency type <code>ccomp</code>. The governor is most commonly, although not always, the main verb or predicative of the main clause, and the dependent is the main verb or predicative of the dependent clause. The clausal complement can also modify a word other than a verb, most often a noun or pronoun. Most commonly clausal complements are <em>että</em>-clauses. <!--Distinguishing different verbal dependents, including different clausal complements, is discussed more closely in Section [verbal](#sec-verbal).--></p>
 
-<p>(Please note: this page is public and shared with others, and its
-contents will be regularly reset. Don’t store anything you want to
-keep here.)</p>
-
-<hr />
-
-<h1 id="some-markdown">Some markdown</h1>
-
-<ul>
-  <li>bulleted</li>
-  <li>list</li>
-</ul>
-
-<ol>
-  <li>numbered</li>
-  <li>list</li>
-</ol>
-
-<p>Link: <a href="http://www.example.com">link text</a></p>
-
-<h1 id="header-1">header 1</h1>
-
-<h2 id="header-2">header 2</h2>
-
-<h3 id="header-3">header 3</h3>
-
-<p><em>italics</em> and <strong>bold</strong></p>
-
-<p><code>inline code</code></p>
-
-<hr />
-
-<h1 id="some-visualizations">Some visualizations</h1>
-
-<pre><code class="language-sdparse">Just some tokens
-</code></pre>
-
-<pre><code class="language-sdparse">Tokens/Noun with/Adpos POS/Noun
-</code></pre>
-
-<pre><code class="language-sdparse">A dependency
-det(dependency, A)
-</code></pre>
-
+<!-- fname:ccomp1.pdf -->
 <div class="sd-parse">
-Alternative syntax
+Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
+nmod(Sanoin-1, hänelle-2)
+ccomp(Sanoin-1, kiehuu-6)
+punct(kiehuu-6, ,-3)
+complm(kiehuu-6, että-4)
+nsubj(kiehuu-6, vesi-5)
+punct(Sanoin-1, .-7)
 </div>
 
-<div class="sd-parse" tabs="yes">
-Dynamic visualization (click "edit!")
+<!-- fname:ccomp2.pdf -->
+<div class="sd-parse">
+Se , että naapurin koira haukkui kovasti , suututti äitiä . \n It , that neighbor's dog barked loudly , made_angry mother .
+ccomp(Se-1, haukkui-6)
+punct(haukkui-6, ,-2)
+punct(haukkui-6, ,-8)
+poss(koira-5, naapurin-4)
+nsubj(haukkui-6, koira-5)
+advmod(haukkui-6, kovasti-7)
+nsubj(suututti-9, Se-1)
+dobj(suututti-9, äitiä-10)
+punct(suututti-9, .-11)
 </div>
-
-<hr />
-
-<h1 id="some-jekyll">Some Jekyll</h1>
-
-<h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
-
-<h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
 
 
 
@@ -124,6 +86,15 @@ Dynamic visualization (click "edit!")
 
 
 
+
+
+ccomp in other languages:
+
+[<a href="../en-dep/ccomp.html">en</a>]
+
+[<a href="../fi-dep/ccomp.html">fi</a>]
+
+[<a href="../ud-dep/ccomp.html">ud</a>]
 
 
 
