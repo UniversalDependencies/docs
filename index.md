@@ -13,16 +13,16 @@ Universal Dependencies documentation:
 
 * [Format](format.html)
 * [Segmentation](segmentation.html)
-* [Morphology](morphology.html)
-* [Tags](tags.html)
-  * Universal: [index page](ud-pos-index.html)
-* [Features](features.html)
-* [Syntax](syntax.html)
-* [Structure](structure.html)
-* [Relations](relations.html)
-  * Universal: [index page](ud-dep-index.html), [single document](ud-dep-all.html)
-  * English: [index page](en-dep-index.html), [single document](en-dep-all.html)
-  * Finnish: [index page](fi-dep-index.html), [single document](fi-dep-all.html)
+* Morphology
+  * [Tags](tags.html)
+    * Universal: [index page](ud-pos-index.html)
+  * [Features](features.html)
+* Syntax
+  * [Structure](structure.html)
+  * [Relations](relations.html)
+    * Universal: [index page](ud-dep-index.html), [single document](ud-dep-all.html)
+    * English: [index page](en-dep-index.html), [single document](en-dep-all.html)
+    * Finnish: [index page](fi-dep-index.html), [single document](fi-dep-all.html)
 
 Documentation for the documentation system:
 
