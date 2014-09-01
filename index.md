@@ -48,10 +48,10 @@ and embedded brat visualizations. Here's a minimal example:
 
 An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
 
-<div class="sd-parse">
+~~~ sdparse
 She looks very beautiful
 acomp(looks, beautiful)
-</div>
+~~~
 
 </div>
 
@@ -60,10 +60,10 @@ visualizations is represented in either the Stanford Dependency or
 CoNLL-X format. For example, the above visualization is generated from
 this input:
 
-    <div class="sd-parse">
+    ~~~ sdparse
     She looks very beautiful
     acomp(looks, beautiful)
-    </div>
+    ~~~
 
 See the [links below](#more-information) for more information.
 

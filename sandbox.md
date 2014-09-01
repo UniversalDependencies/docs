@@ -40,26 +40,26 @@ Link: [link text](http://www.example.com)
 
 # Some visualizations
 
-<div class="sd-parse">
+~~~ sdparse
 Just some tokens
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 Tokens/Noun with/Adpos POS/Noun
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 A dependency
 det(dependency, A)
+~~~
+
+<div class="sd-parse">
+Alternative syntax
 </div>
 
 <div class="sd-parse" tabs="yes">
 Dynamic visualization (click "edit!")
 </div>
-
-~~~ sdparse
-Alternative syntax
-~~~
 
 ----------
 
