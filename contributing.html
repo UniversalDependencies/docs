@@ -100,10 +100,9 @@ copied in from the output of relevant tools.</p>
 
   <p>A copula is the relation between the complement of a copular verb and the copular verb.</p>
 
-  <div class="sd-parse">
-Bill is an honest man
+  <pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
-</div>
+</code></pre>
 
   <p>The following are considered copular verbs:</p>
 
@@ -120,10 +119,10 @@ cop(man, is)
 
 <pre><code>A copula is the relation between the complement of a copular verb and the copular verb.
 
-&lt;div class="sd-parse"&gt;
+~~~ sdparse
 Bill is an honest man
 cop(man, is)
-&lt;/div&gt;
+~~~
 
 The following are considered copular verbs:
 
@@ -139,8 +138,9 @@ can be mostly written like plain text and mixed freely with inline
 HTML. The only exception is the format used for embedding
 visualizations, which is supported as an extension specific to this
 project. To embed a visualization represented in the Stanford
-Dependency format, simply wrap it in the HTML tags <code>&lt;div
-class="sd-parse"&gt;</code> and <code>&lt;/div&gt;</code> as in the example above.</p>
+Dependency format, simply wrap it in lines with <code>~~~ sdparse</code> and
+<code>~~~</code>, as in the example above. (Or, correspondingly, wrap in HTML
+tags <code>&lt;div class="sd-parse"&gt;</code> and <code>&lt;/div&gt;</code>)</p>
 
 <p>For more detail, you can see the documentation for the <a href="http://daringfireball.net/projects/markdown/syntax">Markdown
 syntax</a> and

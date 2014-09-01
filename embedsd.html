@@ -36,7 +36,7 @@
           <h1 id="basic-document-structure-and-editing">Basic document structure and editing</h1>
 
 <p>These pages are written using the <a href="http://daringfireball.net/projects/markdown/syntax">Markdown language</a> and
-dependency examples are in-lined between div tags, as shown below. For example, the source for this page is
+dependency examples are in-lined as shown below. For example, the source for this page is
 <a href="https://raw.githubusercontent.com/UniversalDependencies/docs/pages-source/embedsd.md">here</a> and can be edited either directly
 on GitHub or in a text editor using the normal edit-commit-push cycle.</p>
 
@@ -44,81 +44,94 @@ on GitHub or in a text editor using the normal edit-commit-push cycle.</p>
 
 <h2 id="simple-examples">Simple examples</h2>
 
-<p>A single tree can be embedded using code like this</p>
+<p>A single tree in the Stanford Dependency format can be embedded using
+the following syntax:</p>
 
-<pre><code>&lt;div id="simple-example-parse" class="sd-parse"&gt;
+<pre><code>~~~ sdparse
+Dogs run
+nsubj(run, Dogs)
+~~~
+</code></pre>
+
+<p>which results in this embedded visualization:</p>
+
+<pre><code class="language-sdparse">Dogs run
+nsubj(run, Dogs)
+</code></pre>
+
+<p>The CoNLL-X format is also supported. For example,</p>
+
+<pre><code>~~~ conllx
+1    Dogs   dog    _    NNS    _    2    nsubj
+2    run    run    _    VBP    _    0    ROOT
+~~~
+</code></pre>
+
+<p>gives</p>
+
+<pre><code class="language-conllx">1    Dogs   dog    _    NNS    _    2    nsubj
+2    run    run    _    VBP    _    0    ROOT
+</code></pre>
+
+<p>You can have any number of visualizations on a page, and any
+standard HTML content can be freely mixed with the visualizations.</p>
+
+<h2 id="alternative-form">Alternative form</h2>
+
+<p>As an alternative to the <code>~~~</code> syntax, you can use the equivalent HTML
+tag form:</p>
+
+<pre><code>&lt;div class="sd-parse"&gt;
 Dogs run
 nsubj(run, Dogs)
 &lt;/div&gt;
 </code></pre>
 
-<p>which results in this embedded visualization:</p>
+<p>This form is more flexible in allowing e.g. additional attributes
+to control aspects of the visualization. For example,</p>
 
-<div id="simple-example-parse" class="sd-parse">
+<pre><code>&lt;div class="sd-parse" id="simple-example-parse" tabs="yes"&gt;
 Dogs run
 nsubj(run, Dogs)
-</div>
-
-<p>The CoNLL-X format is also supported. For example,</p>
-
-<pre><code>&lt;div class="conllx-parse"&gt;
-1    Dogs   dog    _    NNS    _    2    nsubj
-2    run    run    _    VBP    _    0    ROOT
 &lt;/div&gt;
 </code></pre>
 
 <p>gives</p>
 
-<div class="conllx-parse">
-1    Dogs   dog    _    NNS    _    2    nsubj
-2    run    run    _    VBP    _    0    ROOT
+<div class="sd-parse" id="simple-example-parse" tabs="yes">
+Dogs run
+nsubj(run, Dogs)
 </div>
-
-<p>You can have any number of visualizations on a page, and any
-standard HTML content can be freely mixed with the visualizations.</p>
-
-<!--
-<div class="sd-parse">
-You can have any number of these .
-nsubj(have-3, You-1)
-aux(have-3, can-2)
-det(number-5, any-4)
-dobj(have-3, number-5)
-prep(number-5, of-6)
-pobj(of-6, these-7)
-</div>
--->
 
 <h2 id="ambiguous-tokens">Ambiguous tokens</h2>
 
-<p>If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example <code>can-5</code> refers to the fifth token of the sentence, <code>can</code>. This code</p>
+<p>If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example <code>can-5</code> refers to the fifth token of the sentence, <code>can</code>. </p>
 
-<pre><code>&lt;div id="simple-example-parse" class="sd-parse"&gt;
+<pre><code>~~~ sdparse
 I can can the can .
 nsubj(can-3, I)
 aux(can-3, can-2)
 det(can-5,the)
 dobj(can-3,can-5)
 punct(can-3,.)
-&lt;/div&gt;
+~~~
 </code></pre>
 
 <p>will result in this visualization</p>
 
-<div id="simple-example-parse" class="sd-parse">
-I can can the can .
+<pre><code class="language-sdparse">I can can the can .
 nsubj(can-3, I)
 aux(can-3, can-2)
 det(can-5,the)
 dobj(can-3,can-5)
 punct(can-3,.)
-</div>
+</code></pre>
 
 <h2 id="pos-tags">POS tags</h2>
 
 <p>POS tags are optional and use the format “text/POS”.</p>
 
-<pre><code>&lt;div class="sd-parse"&gt;
+<pre><code>~~~ sdparse
 POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
 dep(tags-2, POS-1)
 nsubjpass(attached-5, tags-2)
@@ -130,11 +143,10 @@ nn(text-14, sentence-13)
 pobj(to-6, text-14)
 det(part, any)
 prep(part, of)
-&lt;/div&gt;
+~~~
 </code></pre>
 
-<div class="sd-parse">
-POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
+<pre><code class="language-sdparse">POS/NNP tags/NNS can/MD be/VB attached/VBN to/TO ( any part of ) the/DT sentence/NN text/NN ./.
 dep(tags-2, POS-1)
 nsubjpass(attached-5, tags-2)
 aux(attached-5, can-3)
@@ -145,20 +157,19 @@ nn(text-14, sentence-13)
 pobj(to-6, text-14)
 det(part, any)
 prep(part, of)
-</div>
+</code></pre>
 
 <p>Any literal slashes (“/”) can be escaped using backslash.</p>
 
-<pre><code> &lt;div class="sd-parse"&gt;
+<pre><code> ~~~ sdparse
  \\/\\ escapes/VBZ :/: \\o\//\\o\/
  nsubj(escapes, \)
- &lt;/div&gt;
+ ~~~
 </code></pre>
 
-<div class="sd-parse">
-\\/\\ escapes/VBZ :/: \\o\//\\o\/
+<pre><code class="language-sdparse">\\/\\ escapes/VBZ :/: \\o\//\\o\/
 nsubj(escapes, \)
-</div>
+</code></pre>
 
 <h2 id="multiple-lines-of-text">Multiple lines of text</h2>
 
@@ -166,16 +177,15 @@ nsubj(escapes, \)
 newline. (This sequence should be separated by space from the rest of
 the input.)</p>
 
-<pre><code>&lt;div class="sd-parse"&gt;
+<pre><code>~~~ sdparse
 One line \n and another.
-&lt;div&gt;
+~~~
 </code></pre>
 
 <p>gives:</p>
 
-<div class="sd-parse">
-One line \n and another.
-</div>
+<pre><code class="language-sdparse">One line \n and another.
+</code></pre>
 
 <h2 id="editing">Editing</h2>
 
@@ -183,7 +193,7 @@ One line \n and another.
 elements with the attribute <code>tabs="yes"</code> (or any other non-empty
 value):</p>
 
-<pre><code>&lt;div id="simple-example-parse" class="sd-parse" tabs="yes"&gt;
+<pre><code>&lt;div class="sd-parse" id="simple-example-parse" tabs="yes"&gt;
 Dogs run
 nsubj(run, Dogs)
 &lt;/div&gt;
@@ -191,7 +201,7 @@ nsubj(run, Dogs)
 
 <p>This gives:</p>
 
-<div id="simple-example-parse" class="sd-parse" tabs="yes">
+<div class="sd-parse" id="simple-example-parse" tabs="yes">
 Dogs run
 nsubj(run, Dogs)
 </div>
@@ -204,18 +214,17 @@ server. This is mostly useful to build and debug examples.</p>
 
 <p>Everything is unicode-compliant.</p>
 
-<pre><code>&lt;div class="sd-parse"&gt;
+<pre><code>~~~ sdparse
 ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
 nsubj(入れる, ロボットは)
 nommod(入れる, 東大に)
-&lt;/div&gt;
+~~~
 </code></pre>
 
-<div class="sd-parse">
-ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
+<pre><code class="language-sdparse">ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
 nsubj(入れる, ロボットは)
 nommod(入れる, 東大に)
-</div>
+</code></pre>
 
 <h2 id="cross-references">Cross-references</h2>
 
