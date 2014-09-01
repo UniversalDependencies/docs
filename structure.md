@@ -11,7 +11,7 @@ This is a placeholder page for the structure documentation.
 
 ## Dependency Structure: General Principles
 
-Dependency relations hold primarily between content words.
+Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.
 
 <div id="s1" class="sd-parse">
 The cat could have chased the dog right down the street .
