@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'NUM'
-shortdef: 'NUM'
+shortdef: 'numeral'
 ---
 
-## NUM: NUM
-
+## {{ page.title }}: {{ page.shortdef }}

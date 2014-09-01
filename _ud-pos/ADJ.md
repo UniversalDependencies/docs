@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'ADJ'
-shortdef: 'ADJ'
+shortdef: 'adjective'
 ---
 
-## ADJ: ADJ
-
+## {{ page.title }}: {{ page.shortdef }}

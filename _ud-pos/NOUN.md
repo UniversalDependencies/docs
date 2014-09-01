@@ -1,8 +1,8 @@
 ---
 layout: base
 title: 'NOUN'
-shortdef: 'NOUN'
+shortdef: 'noun'
 ---
 
-## NOUN: NOUN
+## {{ page.title }}: {{ page.shortdef }}
 

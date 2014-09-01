@@ -1,8 +1,11 @@
 ---
 layout: base
 title: 'PART'
-shortdef: 'PART'
+shortdef: 'particle'
 ---
 
-## PART: PART
+## {{ page.title }}: {{ page.shortdef }}
 
+Notes:
+
+* Suggested alternative labels: PRT, GPRT

@@ -1,8 +1,11 @@
 ---
 layout: base
 title: 'SYM'
-shortdef: 'SYM'
+shortdef: 'symbol'
 ---
 
-## SYM: SYM
+## {{ page.title }}: {{ page.shortdef }}
 
+Notes:
+
+* New category, split off from [X](X.html)

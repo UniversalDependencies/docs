@@ -1,8 +1,11 @@
 ---
 layout: base
 title: 'AUX'
-shortdef: 'AUX'
+shortdef: 'auxiliary verb'
 ---
 
-## AUX: AUX
+## {{ page.title }}: {{ page.shortdef }}
 
+Notes:
+
+* New category, split off from [VERB](VERB.html)

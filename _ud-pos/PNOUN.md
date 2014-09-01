@@ -1,8 +1,12 @@
 ---
 layout: base
 title: 'PNOUN'
-shortdef: 'PNOUN'
+shortdef: 'proper noun'
 ---
 
-## PNOUN: PNOUN
+## {{ page.title }}: {{ page.shortdef }}
 
+Notes:
+
+* New category, split off from [NOUN](NOUN.html)
+* Suggested alternative labels: PROPN, NAME

@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'X'
-shortdef: 'X'
+shortdef: 'other'
 ---
 
-## X: X
-
+## {{ page.title }}: {{ page.shortdef }}

@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'CONJ'
-shortdef: 'CONJ'
+shortdef: 'conjunction'
 ---
 
-## CONJ: CONJ
-
+## {{ page.title }}: {{ page.shortdef }}

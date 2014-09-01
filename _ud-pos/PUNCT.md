@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'PUNCT'
-shortdef: 'PUNCT'
+shortdef: 'punctuation'
 ---
 
-## PUNCT: PUNCT
-
+## {{ page.title }}: {{ page.shortdef }}

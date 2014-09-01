@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'PRON'
-shortdef: 'PRON'
+shortdef: 'pronoun'
 ---
 
-## PRON: PRON
-
+## {{ page.title }}: {{ page.shortdef }}

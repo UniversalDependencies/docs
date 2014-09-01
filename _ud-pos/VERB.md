@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 'VERB'
-shortdef: 'VERB'
+shortdef: 'verb'
 ---
 
-## VERB: VERB
-
+## {{ page.title }}: {{ page.shortdef }}

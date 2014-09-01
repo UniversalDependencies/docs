@@ -1,8 +1,11 @@
 ---
 layout: base
 title: 'ADP'
-shortdef: 'ADP'
+shortdef: 'adposition'
 ---
 
-## ADP: ADP
+## {{ page.title }}: {{ page.shortdef }}
 
+Notes:
+
+* Suggested alternative labels: PREP, PPOS

@@ -1,8 +1,8 @@
 ---
 layout: base
 title: 'INTJ'
-shortdef: 'INTJ'
+shortdef: 'interjection'
 ---
 
-## INTJ: INTJ
+## {{ page.title }}: {{ page.shortdef }}
 

@@ -1,8 +1,8 @@
 ---
 layout: base
 title: 'DET'
-shortdef: 'DET'
+shortdef: 'determiner'
 ---
 
-## DET: DET
+## {{ page.title }}: {{ page.shortdef }}
 
