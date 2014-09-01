@@ -41,6 +41,10 @@
 
 <h2 id="dependency-structure-general-principles">Dependency Structure: General Principles</h2>
 
+<p>The goal is a set of broadly observed “universal dependencies” that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.</p>
+
+<p>The goal of parallelism has limits: The standard does not postulate and annotate “empty” things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance.</p>
+
 <p>Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.</p>
 
 <div id="s1" class="sd-parse">
@@ -63,12 +67,23 @@ case(street, down)
 det(street, the-10)
 </div>
 
+<p>Doing things this way maximizes parallelism between languages as content words vary less than function words. In particular, function words often become morphology in other languages.</p>
+
+<div id="s2a" class="sd-parse">
+On a dormi ...
+nsubj(dormi, On)
+aux(dormi, a)
+</div>
+
+<div id="s2b" class="sd-parse">
+We slept ...
+nsubj(slept, We)
+</div>
+
 <p>Function words do not have dependents of their own, except in the following cases:</p>
 
 <ol>
-  <li>Multiword function words</li>
-  <li>Coordinated function words</li>
-  <li>Promotion through head elision</li>
+  <li>Multiword function words, analyzed as multi-word expressions (mwe):</li>
 </ol>
 
 <div id="s3" class="sd-parse">
@@ -77,12 +92,20 @@ case(house,out)
 mwe(out,of)
 </div>
 
+<ol>
+  <li>Coordinated function words:</li>
+</ol>
+
 <div id="s4" class="sd-parse">
 The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
 cc(down,and)
 </div>
+
+<ol>
+  <li>Promotion through head elision:</li>
+</ol>
 
 <div id="s5" class="sd-parse">
 The cat could have (chased the dog right down the street) .
@@ -117,6 +140,16 @@ She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
 foreign(dra,helvete)
+</div>
+
+<p>In contrast, compounds are annotated to show their modification structure, including a regular concept of head:</p>
+
+<div id="s9" class="sd-parse">
+I bought a computer disk drive enclosure .
+compound(drive, computer)
+compound(drive, disk)
+compound(enclosure, drive)
+dobj(bought, enclosure)
 </div>
 
 
