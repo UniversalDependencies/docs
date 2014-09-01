@@ -66,13 +66,13 @@ mwe(out,of)
 The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
-cc(down,and)
+cc(up,and)
 </div>
 
 3. Promotion through head elision:
 
 <div id="s5" class="sd-parse">
-The cat could have (chased the dog right down the street) .
+The cat could have [chased the dog right down the street] .
 nsubj(have,cat)
 aux(have,could)
 </div>
@@ -88,6 +88,7 @@ We had a nice time in spite of the rain .
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
+nmod(had,rain)
 </div>
 
 <div id="s7" class="sd-parse">
@@ -108,6 +109,8 @@ In contrast, compounds are annotated to show their modification structure, inclu
 
 <div id="s9" class="sd-parse">
 I bought a computer disk drive enclosure .
+nsubj(bought, I)
+det(enclosure, a)
 compound(drive, computer)
 compound(drive, disk)
 compound(enclosure, drive)
