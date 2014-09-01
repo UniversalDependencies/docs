@@ -29,8 +29,8 @@ Links to primary documentation and documentation status:
   <td class="complete">First draft complete</td>
 </tr><tr>
   <td class="right">Universal Dependencies</td>
-  <td><a href="usd-index.html">index page</a></td>
-  <td><a href="usd-all.html">single document</a></td>
+  <td><a href="ud-index.html">index page</a></td>
+  <td><a href="ud-all.html">single document</a></td>
   <td class="complete">First draft complete</td>
 </tr>
 </table>

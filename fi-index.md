@@ -13,7 +13,7 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 Alphabetical listing
 
 <ul>
-{% for p in site.fi %}
+{% for p in site.fi-dep %}
   <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>

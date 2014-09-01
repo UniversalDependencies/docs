@@ -8,11 +8,11 @@ safe:         true
 markdown_ext: md
 
 collections:
-  en:
+  en-dep:
     output: true
-  fi:
+  fi-dep:
     output: true
-  usd:
+  ud-dep:
     output: true
 
 excerpt_separator: "\n\n"
