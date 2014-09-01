@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Universal Stanford Dependencies'
+title:  'Universal Dependencies'
 generated: 'true'
 ---
 

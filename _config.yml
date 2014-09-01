@@ -8,6 +8,8 @@ safe:         true
 markdown_ext: md
 
 collections:
+  ud-pos:
+    output: true
   en-dep:
     output: true
   fi-dep:
