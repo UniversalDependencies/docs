@@ -11,7 +11,11 @@ This is a placeholder page for the structure documentation.
 
 ## Dependency Structure: General Principles
 
-Dependency relations hold primarily between content words.
+The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
+
+The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance.
+
+Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.
 
 <div id="s1" class="sd-parse">
 The cat could have chased the dog right down the street .
@@ -33,11 +37,22 @@ case(street, down)
 det(street, the-10)
 </div>
 
+Doing things this way maximizes parallelism between languages as content words vary less than function words. In particular, function words often become morphology in other languages.
+
+<div id="s2a" class="sd-parse">
+On a dormi ...
+nsubj(dormi, On)
+aux(dormi, a)
+</div>
+
+<div id="s2b" class="sd-parse">
+We slept ...
+nsubj(slept, We)
+</div>
+
 Function words do not have dependents of their own, except in the following cases:
 
-1. Multiword function words
-2. Coordinated function words
-3. Promotion through head elision
+1. Multiword function words, analyzed as multi-word expressions (mwe):
   
 <div id="s3" class="sd-parse">
 The cat could have chased the dog out of the house .
@@ -45,15 +60,19 @@ case(house,out)
 mwe(out,of)
 </div>
 
+2. Coordinated function words:
+
 <div id="s4" class="sd-parse">
 The cat could have chased the dog up and down the street .
 case(street,up)
 conj(up,down)
-cc(down,and)
+cc(up,and)
 </div>
 
+3. Promotion through head elision:
+
 <div id="s5" class="sd-parse">
-The cat could have (chased the dog right down the street) .
+The cat could have [chased the dog right down the street] .
 nsubj(have,cat)
 aux(have,could)
 </div>
@@ -69,6 +88,7 @@ We had a nice time in spite of the rain .
 case(rain,in)
 mwe(in,spite)
 mwe(in,of)
+nmod(had,rain)
 </div>
 
 <div id="s7" class="sd-parse">
@@ -83,4 +103,16 @@ She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
 foreign(dra,helvete)
+</div>
+
+In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
+
+<div id="s9" class="sd-parse">
+I bought a computer disk drive enclosure .
+nsubj(bought, I)
+det(enclosure, a)
+compound(drive, computer)
+compound(drive, disk)
+compound(enclosure, drive)
+dobj(bought, enclosure)
 </div>
