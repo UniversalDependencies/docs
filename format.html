@@ -36,7 +36,7 @@
 
           <h1 id="conll-u-format">CoNLL-U Format</h1>
 
-<p>We use a revised version of the CoNLL-X format called CoNLL-U. 
+<p>We use a revised version of <a href="http://ilk.uvt.nl/conll/#dataformat">the CoNLL-X format</a> called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8) with three types of lines:</p>
 
 <ol>
@@ -48,14 +48,14 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
 <p>Token lines contain the following fields:</p>
 
 <ol>
-  <li>ID: Token counter. A number,starting at 1 for each new sentence; may be a decimal number for words combined in tokens.</li>
+  <li>ID: Token counter. A number, starting at 1 for each new sentence; may be a decimal number for words inside tokens.</li>
   <li>FORM: Word form or punctuation symbol.</li>
   <li>LEMMA: Lemma or stem of word form.</li>
-  <li>CPOSTAG: Google universal part-of-speech tag drawn from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">Universal POS tag</a> set.</li>
+  <li>CPOSTAG: Google universal part-of-speech tag, drawn from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">Universal POS tag</a> set.</li>
   <li>POSTAG: Language-specific part-of-speech tag; underscore if not available.</li>
   <li>FEATS: List of morphological features (attribute-value pairs); underscore if not available.</li>
   <li>HEAD: Head of the current token, which is either a value of ID or zero (0).</li>
-  <li>DEPREL: Universal Stanford dependency relation to the HEAD (root iff HEAD = 0). Either a <a href="http://universaldependencies.github.io/docs/ud-dep-index.html">Universal dependency</a> or a defined language-particular subtype.</li>
+  <li>DEPREL: <a href="http://universaldependencies.github.io/docs/ud-dep-index.html">Universal Stanford dependency relation</a> to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.</li>
   <li>DEPS: List of secondary dependencies (head-deprel pairs).</li>
   <li>MISC: Any other annotation.</li>
 </ol>
@@ -74,7 +74,7 @@ contractions, such as French <em>au</em> = <em>à le</em>.
 (In principle, the lexicalist view could also be taken to imply that certain multiword annotations should be treated as single words in the annotation. 
 So far, however, multiword expressions are annotated as such using special dependency relations, rather than by collapsing multiple tokens into one.)
 For this purpose, for the majority of languages which use white space, we adopt a two-level tokenization scheme, where the first level is
-a simple deterministic tokenization that is easily reproducible on new text. For many languages with alphabetic scripts, 
+a simple deterministic tokenization that is easily reproducible on new text. For most languages,
 this will be a simple tokenization based on whitespace and punctuation, but the exact scheme will have to be defined on a per language basis. By contrast,
 the second level is a linguistically motivated segmentation where tokens better correspond to syntactic words. We will refer to units on
 the first level as <em>tokens</em> and units on the second level as <em>words</em>. The morphological and syntactic annotation applies primarily
