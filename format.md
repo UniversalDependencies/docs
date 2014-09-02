@@ -5,7 +5,7 @@ title:  'Format'
 
 # CoNLL-U Format
 
-We use a revised version of the CoNLL-X format called CoNLL-U. 
+We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8) with three types of lines:
 
  1. Token lines containing the annotation of a word in 10 tab-separated fields; see below.
@@ -14,14 +14,14 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:
 
 Token lines contain the following fields:
 
- 1. ID: Token counter. A number,starting at 1 for each new sentence; may be a decimal number for words combined in tokens.
+ 1. ID: Token counter. A number, starting at 1 for each new sentence; may be a decimal number for words inside tokens.
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
- 4. CPOSTAG: Google universal part-of-speech tag drawn from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
+ 4. CPOSTAG: Google universal part-of-speech tag, drawn from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
  6. FEATS: List of morphological features (attribute-value pairs); underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
- 8. DEPREL: Universal Stanford dependency relation to the HEAD (root iff HEAD = 0). Either a [Universal dependency](http://universaldependencies.github.io/docs/ud-dep-index.html) or a defined language-particular subtype.
+ 8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
@@ -39,7 +39,7 @@ contractions, such as French _au_ = _à le_.
 (In principle, the lexicalist view could also be taken to imply that certain multiword annotations should be treated as single words in the annotation. 
 So far, however, multiword expressions are annotated as such using special dependency relations, rather than by collapsing multiple tokens into one.)
 For this purpose, for the majority of languages which use white space, we adopt a two-level tokenization scheme, where the first level is
-a simple deterministic tokenization that is easily reproducible on new text. For many languages with alphabetic scripts, 
+a simple deterministic tokenization that is easily reproducible on new text. For most languages,
 this will be a simple tokenization based on whitespace and punctuation, but the exact scheme will have to be defined on a per language basis. By contrast,
 the second level is a linguistically motivated segmentation where tokens better correspond to syntactic words. We will refer to units on
 the first level as _tokens_ and units on the second level as _words_. The morphological and syntactic annotation applies primarily
