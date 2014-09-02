@@ -87,17 +87,54 @@ of morphological features, with vertical bar ($|$) as list separator and with un
 All features should be represented as attribute-value pairs, with the equality sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the universal inventory and be sorted alphabetically by attribute names. Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
 
-    1    Då      då     ADV     AB                    _
-    2    var     vara   VERB    VB.PRET.ACT           Tense=Pret|Voice=Act
-    3    han     han    PRON    PN.UTR.SIN.DEF.NOM    Case=Nom|Def=Def|Gen=Uter|Num=Sing
-    4    elva    elva   NUM     RG.NOM                Case=Nom|NumType=Card
-    5    år      år     NOUN    NN.NEU.PLU.IND.NOM    Case=Nom|Def=Ind|Gen=Neut|Num=Plur
-    6    .       .      .       DL.MAD                _
+    1    Då      då     ADV      AB                    _
+    2    var     vara   VERB     VB.PRET.ACT           Tense=Pret|Voice=Act
+    3    han     han    PRON     PN.UTR.SIN.DEF.NOM    Case=Nom|Def=Def|Gen=Uter|Num=Sing
+    4    elva    elva   NUM      RG.NOM                Case=Nom|NumType=Card
+    5    år      år     NOUN     NN.NEU.PLU.IND.NOM    Case=Nom|Def=Ind|Gen=Neut|Num=Plur
+    6    .       .      PUNCT    DL.MAD                _
 
 Morphological annotation is only provided for words. 
 Tokens that are not words have an underscore in the CPOSTAG, POSTAG and FEATS fields. 
 
 # Syntactic Annotation
 
+The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a Universal Stanford dependency relation or a language-specific subtype of such a relation (defined in the language-specific documentation). 
+As in the case of morphology, syntactic annotation is only provided for words.
+Tokens that are not words have an underscore in both the HEAD and DEPREL fields. However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
+
+    1     I         I        PRON    PRN      Num=Sing|Per=1     2.1    nsubj
+    2     haven't   _        _       _        _                  _      _
+    2.1   have      have     VERB    VB       _                  0      root
+    2.2   n't       not      ADV     RB       Tens=Pres          2.1    neg
+    3     a         a        DET     DT       _                  4      det
+    4     clue      clue     NOUN    NN       Num=Sing           2.1    dobj
+    5     .         .        PUNCT   .        _                  2.1    punct
+ 
+We can extract the following approximation at the token level:
+
+    1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
+    2     haven't   _        _       _        _                  _      _
+    3     a         a        DET     DT       _                  4      det
+    4     clue      clue     NOUN    NN       Num=Sing           2      dobj
+    5     .         .        PUNCT   .        _                  2      punct
+
+The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
+ 
+In addition to the basic dependency tree defined by the HEAD and DEPREL values, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (|) to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
+
+    1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
+    2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
+    3    and      and     CONJ&   CC     _                            2    cc       _
+    4    sell     sell    VERB    VB     Num=Plur|Per=3|Tense=Pres    2    conj     _
+    5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
+    6    .        .       PUNCT   .      _                            2    punct    _
+
+# Miscellaneous
+
+The final MISC field is for storing any additional information that does not fit into any of the other fields, such as language-specific annotation or projective heads and dependency relations (cf. the old PHEAD and PDEPREL fields of 
+the CoNLL-X format). The exact format used in this field should be specified in the
+treebank-specific documentation, but it is recommended to use a list of attribute-value pairs as in the FEATS field. 
+If the MISC field is not used, it should contain an underscore.
 
 
