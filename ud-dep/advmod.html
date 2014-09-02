@@ -6,6 +6,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>advmod</title>
+    <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
@@ -252,6 +253,10 @@ advmod in other languages:
         {
             'type': 'token',
             'labels': [ '\u00A0\u00A0' ], // non-breaking space for empty
+        },
+        {
+            'type': '-',
+            'labels': [ '\u00A0\u00A0' ], // non-breaking space for empty
         }
 	],
 	'entity_attribute_types': [],
@@ -340,6 +345,281 @@ advmod in other languages:
 		logElement.val(logElement.val() + s + '\n');
 	    }
 	};
+    };
+
+    // parse .ann format textbound line (helper for parseAnn)
+    var parseAnnTextbound = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+)\s+(\d+\s+\d+(?:;\d+\s+\d+)*)\s+(.*)$/);
+
+        if (!m) {
+            log('failed to parse textbound: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            spanstr = m[3],
+            text = m[4];
+
+        // multiple (start, end) spans separated by semicolons
+        var spanarr = normalizeSpace(spanstr).split(';'),
+            spans = [];
+        for (var i=0; i<spanarr.length; i++) {
+            m = spanarr[i].match(/^(\d+)\s+(\d+)$/);
+            if (!m) {
+                log('error parsing offsets: "'+line+'"');
+                return null;
+            }
+            var start = m[1], end = m[2];
+            start = parseInt(start, 10);
+            end = parseInt(end, 10);
+            if (isNaN(start) || isNaN(end) || end < start) {
+                log('failed to parse offsets: "'+line+'"');
+                return null;
+            }
+            spans.push([start, end]);
+        }
+
+        // TODO verify text
+
+        return [id, type, spans];
+    };
+
+    // parse .ann format relation line (helper for parseAnn)
+    var parseAnnRelation = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+)\s+(\S+):(\S+)\s+(\S+):(\S+)\s*$/);
+
+        if (!m) {
+            log('failed to parse relation: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            a1l = m[3],
+            a1i = m[4],
+            a2l = m[5],
+            a2i = m[6];
+
+        return [id, type, [ [a1l, a1i], [a2l, a2i] ] ];
+    };
+
+    // parse .ann format equiv line (helper for parseAnn)
+    var parseAnnEquiv = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+)\s+(.+?)\s*$/);
+
+        if (!m) {
+            log('failed to parse equiv: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            argstr = m[3];
+    
+        var args = normalizeSpace(argstr).split(' ');
+
+        return [id, type].concat(args);
+    };
+
+    // parse .ann format event line (helper for parseAnn)
+    var parseAnnEvent = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+):(\S+)(.*)$/);
+
+        if (!m) {
+            log('failed to parse event: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            trigger = m[3],
+            argstr = m[4];
+
+        var args = [];
+        if (!argstr.match(/^\s*$/)) {
+            var argarr = normalizeSpace(argstr).split(' ');
+            for (var i=0; i<argarr.length; i++) {
+                m = argarr[i].match(/^(\S+):(\S+)$/);
+                if (!m) {
+                    log('failed to parse event args: "'+line+'"');
+                    return null;
+                }
+                args.push([m[1], m[2]]);
+            }
+        }
+
+        return [id, trigger, args];
+    };
+
+    // parse .ann format modifier line (helper for parseAnn)
+    var parseAnnModifier = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+)\s+(\S+)\s*$/);
+
+        if (!m) {
+            log('failed to parse modifier: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            target = m[3];
+
+        return [id, type, target];
+    };
+
+    // parse .ann format attribute line (helper for parseAnn)
+    var parseAnnAttribute = function(line, log) {
+        // NOTE: space matched more liberally than in primary format
+        m = line.match(/^(\S+)\s+(\S+)\s+(\S+)(.*)$/);
+
+        if (!m) {
+            log('failed to parse attribute: "'+line+'"');
+            return null;
+        }
+
+        var id = m[1],
+            type = m[2],
+            target = m[3],
+            value = m[4];
+
+        // support also older ("modifier") format w/o value
+        if (value.match(/^\s*$/)) {
+            value = true;
+        }
+
+        return [id, type, target, value];
+    };
+
+    // parse .ann format normalization line (helper for parseAnn)
+    var parseAnnNormalization = function(line, log) {
+        // TODO: implement parsing for normalization annotations
+        log('normalization annotation parsing not implemented: "'+line+'"');
+        return null;
+    };
+
+    // parse .ann format comment line (helper for parseAnn)
+    var parseAnnComment = function(line, log) {
+        // TODO: implement parsing for comment annotations
+        log('comment annotation parsing not implemented: "'+line+'"');
+        return null;
+    };
+
+    // parse .ann format, return brat document data format
+    var parseAnn = function(ann, log) {
+	if (log === undefined) {
+            log = makeLogger();
+	}
+	var lines = ann.split('\n');
+        
+	// first line is assumed to be the document text
+	var document_text = lines[0];
+
+        // parse lines after the first as .ann-formatted lines
+        // (see e.g. http://brat.nlplab.org/standoff.html)
+        var textbounds = [],
+            relations = [],
+            events = [],
+            equivs = [],
+            attributes = [],
+            normalizations = [],
+            comments = [],
+            error = false;
+        for (var i=1; i<lines.length; i++) {
+            var line = lines[i];
+
+            if (line.match(/^\s*$/)) {
+                continue; // ignore empties
+            }
+
+            // annotation type determined by first character on line
+            switch (line[0]) {
+                case 'T': 
+                    textbounds.push(parseAnnTextbound(line, log));
+                    break;
+                case 'R': 
+                    relations.push(parseAnnRelation(line, log));
+                    break;
+                case 'E': 
+                    events.push(parseAnnEvent(line, log));
+                    break;
+                case 'M': 
+                    attributes.push(parseAnnModifier(line, log));
+                    break;
+                case 'A': 
+                    attributes.push(parseAnnAttribute(line, log));
+                    break;
+                case 'N': 
+                    normalizations.push(parseAnnNormalization(line, log));
+                    break;
+                case '*': 
+                    equivs.push(parseAnnEquiv(line, log));
+                    break;
+                case '#': 
+                    comments.push(parseAnnComment(line, log));
+                    break;
+                default:
+                    log('failed to parse line: "'+line+'"');
+                    error = true;
+            }
+        }
+
+        // filter annotation lists for nulls or empties (marking parse failure),
+        // setting error if found.
+        var validAnnotation = function(ann) {
+            if (ann !== null && ann.length != 0) {
+                return true;
+            } else {
+                error = true; // NOTE: side-effect
+                return false;
+            }
+        };
+        textbounds = textbounds.filter(validAnnotation);
+        relations = relations.filter(validAnnotation);
+        events = events.filter(validAnnotation);
+        equivs = equivs.filter(validAnnotation);
+        attributes = attributes.filter(validAnnotation);
+        normalizations = normalizations.filter(validAnnotation);
+        comments = comments.filter(validAnnotation);
+
+        log('.ann parse done, error = '+error);
+
+        // split textbounds into entities and triggers, where any textbound
+        // referenced from an event is a trigger, and everything else is an
+        // entity.
+        var entities = [], 
+            triggers = [],
+            isTrigger = {};
+        for (var i=0; i<events.length; i++) {
+            var triggerId = events[i][1];
+            isTrigger[triggerId] = true;
+        }
+        for (var i=0; i<textbounds.length; i++) {
+            var textboundId = textbounds[i][0];
+            if (isTrigger[textboundId]) {
+                 triggers.push(textbounds[i]);
+            } else {
+                 entities.push(textbounds[i]);
+            }
+        }
+
+        return {
+            'text': document_text,
+            'entities': entities,
+            'triggers': triggers,
+            'relations': relations,
+            'events': events,
+            'equivs': equivs,
+            'attributes': attributes,
+            'normalizations': normalizations,
+            'comments': comments,
+            'error': error
+        };
     };
 
     // parse SD format, return brat document data format
@@ -630,6 +910,7 @@ advmod in other languages:
 			'class="embedded-brat-data"></textarea>');
 
 	// initialize parse function, falling back to SD as default
+        // TODO: reconsider default
 	if (parse === undefined) {
 	    parse = parseSd;
 	}
@@ -638,7 +919,7 @@ advmod in other languages:
 	if (data === undefined) {
 	    data = elem.text();
 	}
-	data = normalizeSpace(data);
+	data = normalizeSpace(data);    // TODO isn't this harmful for .ann?
 	var parsed = parse(data, makeLogger(logArea));
         parsed = reviseIds(parsed, eId + '-');
 	inputArea.text(data);
@@ -796,6 +1077,11 @@ advmod in other languages:
         // repeat for elements with "conllx-parse" class (or variant).
         $(parseConllXClasses.join(',')).each(function(idx) {
             embedAnnotation($(this), parseConllX);
+	});
+
+        // repeat for elements with "ann-annotation" class.
+        $('.ann-annotation').each(function(idx) {
+            embedAnnotation($(this), parseAnn);
 	});
 
 	// resolve references (e.g. "Figure #" -> "Figure 1"): call
