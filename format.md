@@ -22,7 +22,7 @@ Token lines contain the following fields:
  6. FEATS: List of morphological features (attribute-value pairs); underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
  8. DEPREL: Universal Stanford dependency relation to the HEAD (root iff HEAD = 0).
-  9. DEPS: List of secondary dependencies (head-deprel pairs).
+ 9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
 The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
@@ -46,7 +46,7 @@ the first level as _tokens_ and units on the second level as _words_. The morpho
 to the word level, although a heuristic mapping to the token level can be provided.
 
 To accommodate this two-level segmentation scheme, we adopt an extension of the original CoNLL-X token indexing scheme, inspired by
-(but not identical to) the one used in the Modern Hebrew Dependency Treebank (Goldberg, 2011). Following the CoNLL-X scheme, tokens are indexed with integers 1, 2, 3, .... If the _n_th token corresponds to multiple words,
+(but not identical to) the one used in the Modern Hebrew Dependency Treebank (Goldberg, 2011). Following the CoNLL-X scheme, tokens are indexed with integers 1, 2, 3, .... If the _n_:th token corresponds to multiple words,
 the latter are then indexed with decimals _n_.1, _n_.2, _n_.3, .... Furthermore, tokens always have a FORM value –
 the string that occurs in the sentence – but have an underscore in all the remaining fields (because the token 
 then represents multiple words, each with its own lemma, part-of-speech tag, syntactic head, and so on). 
@@ -54,12 +54,12 @@ then represents multiple words, each with its own lemma, part-of-speech tag, syn
 This is illustrated in the following annotation snippet,
 showing only the first three fields for the Spanish sentence _vámonos al mar_ (let's go to the sea):
 
-1 vámonos _
-1.1 vamos ir
-1.2 nos nosotros
-2 al _
-2.1 a a
-2.2 el el
-3 mar mar		
+    1   vámonos   _
+    1.1 vamos     ir
+    1.2 nos       nosotros
+    2   al        _
+    2.1 a         a
+    2.2 el        el
+    3   mar       mar		
 
 Bla bla
