@@ -121,7 +121,7 @@ We can extract the following approximation at the token level:
 
 The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
  
-In addition to the basic dependency tree defined by the HEAD and DEPREL values, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (|) to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
+In addition to the basic dependency tree defined by the HEAD and DEPREL values, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar () to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
 
     1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
     2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
