@@ -178,6 +178,28 @@ the CoNLL-X format). The exact format used in this field should be specified in 
 treebank-specific documentation, but it is recommended to use a list of attribute-value pairs as in the FEATS field. 
 If the MISC field is not used, it should contain an underscore.</p>
 
+<h1 id="comments-and-metadata">Comments and metadata</h1>
+
+<p>Lines starting with the <code>#</code> character and preceding a sentence are considered as carying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). The contents of the comments and metadata is left unrestricted and will vary depending on application. Comment and metadata lines inside sentences (i.e. between the token lines) are disallowed.</p>
+
+<pre><code># sent_id 1
+# ...
+1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
+2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
+3    and      and     CONJ&amp;   CC     _                            2    cc       _
+4    sell     sell    VERB    VB     Num=Plur|Per=3|Tense=Pres    2    conj     _
+5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
+6    .        .       PUNCT   .      _                            2    punct    _
+
+# sent_id 2
+# ...
+1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
+2     haven't   _        _       _        _                  _      _
+3     a         a        DET     DT       _                  4      det
+4     clue      clue     NOUN    NN       Num=Sing           2      dobj
+5     .         .        PUNCT   .        _                  2      punct
+</code></pre>
+
 
 
 <!-- "relation in other languages" links -->
