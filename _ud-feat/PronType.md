@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 'Prontype'
+title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
