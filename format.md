@@ -54,12 +54,34 @@ then represents multiple words, each with its own lemma, part-of-speech tag, syn
 This is illustrated in the following annotation snippet,
 showing only the first three fields for the Spanish sentence _vámonos al mar_ (let's go to the sea):
 
-    1   vámonos   _
-    1.1 vamos     ir
-    1.2 nos       nosotros
-    2   al        _
-    2.1 a         a
-    2.2 el        el
-    3   mar       mar		
+    1     vámonos   _
+    1.1   vamos     ir
+    1.2   nos       nosotros
+    2     al        _
+    2.1   a         a
+    2.2   el        el
+    3     mar       mar		
 
-Bla bla
+We extract the token sequence by skipping lines where the ID is not an integer:
+
+    1     vámonos   _
+    2     al        _
+    3     mar       mar		
+
+We extract the word sequence by skipping all integer IDs that are followed by decimal IDs or, equivalently, tokens that have an 
+underscore in the LEMMA field:
+
+    1.1   vamos     ir
+    1.2   nos       nosotros
+    2.1   a         a
+    2.2   el        el
+    3     mar       mar		
+
+To facilitate the use of the treebanks, we provide a script that extracts the first or second level tokenization, provides a heuristic mapping of morphological and syntactic annotation for the former, and converts the latter to a plain CoNLL-X indexing scheme where all IDs are integers. 
+
+# Morphological Annotation
+
+# Syntactic Annotation
+
+
+
