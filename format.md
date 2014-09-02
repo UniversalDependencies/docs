@@ -83,7 +83,7 @@ To facilitate the use of the treebanks, we provide a script that extracts the fi
 
 The CPOSTAG field contains a part-of-speech tag from the Google Universal Tagset, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
-of morphological features, with vertical bar ($|$) as list separator and with underscore to represent the empty list.
+of morphological features, with vertical bar (|) as list separator and with underscore to represent the empty list.
 All features should be represented as attribute-value pairs, with the equality sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the universal inventory and be sorted alphabetically by attribute names. Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
 
