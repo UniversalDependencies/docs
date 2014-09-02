@@ -146,7 +146,7 @@ Lines starting with the `#` character and preceding a sentence are considered as
     # ...
     1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
     2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
-    3    and      and     CONJ&   CC     _                            2    cc       _
+    3    and      and     CONJ    CC     _                            2    cc       _
     4    sell     sell    VERB    VB     Num=Plur|Per=3|Tense=Pres    2    conj     _
     5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
     6    .        .       PUNCT   .      _                            2    punct    _
