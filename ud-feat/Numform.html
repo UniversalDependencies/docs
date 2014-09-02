@@ -5,9 +5,9 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Features</title>
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>Numform</title>
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
     <script type="text/javascript" src="http://weaver.nlplab.org/~brat/demo/v1.3/client/lib/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
@@ -18,7 +18,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/features.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/Numform.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -33,106 +33,27 @@
 	  </div>
 	</noscript>
 
-          <h1 id="features">Features</h1>
+          <h2 id="numform-numeral-form">Numform: numeral form</h2>
 
-<p>Alphabetical listing</p>
+<p>Feature of cardinal and ordinal numbers. Is the number expressed by
+digits or as a word? This feature appears in 10+ tagsets that I
+studied. Note that it is a bit Euro-centric because it distinguishes
+(in some tagsets) (Euro)Arabic digits and Roman numerals, but what
+about digits in various other scripts? In texts in many Indian scripts
+and in the Arabic script both native digits and Euro-Arabic digits can
+appear (e.g. 2014 vs. २०१४ in Devanagari).</p>
 
-<ul>
+<h3 id="word-number-expressed-as-word">Word: number expressed as word</h3>
 
-  <li><a href="ud-feat/Abbr.html">Abbr</a>: abbreviation</li>
+<p>Examples: one, two, three</p>
 
-  <li><a href="ud-feat/AdjType.html">AdjType</a>: ?</li>
+<h3 id="digit-number-expressed-using-digits">Digit: number expressed using digits</h3>
 
-  <li><a href="ud-feat/AdpType.html">AdpType</a>: adposition type</li>
+<p>Examples: 1, 2, 3</p>
 
-  <li><a href="ud-feat/AdvType.html">AdvType</a>: adverb type</li>
+<h3 id="roman-roman-numeral">Roman: roman numeral</h3>
 
-  <li><a href="ud-feat/ConjType.html">ConjType</a>: conjunction type</li>
-
-  <li><a href="ud-feat/Echo.html">Echo</a>: echo word</li>
-
-  <li><a href="ud-feat/Foreign.html">Foreign</a>: foreign word</li>
-
-  <li><a href="ud-feat/Hyph.html">Hyph</a>: hyphenated compound</li>
-
-  <li><a href="ud-feat/Meta.html">Meta</a>: meta</li>
-
-  <li><a href="ud-feat/NumType.html">NumType</a>: numeral type</li>
-
-  <li><a href="ud-feat/Numform.html">Numform</a>: numeral form</li>
-
-  <li><a href="ud-feat/Numvalue.html">Numvalue</a>: numeral value</li>
-
-  <li><a href="ud-feat/PartType.html">PartType</a>: particle type</li>
-
-  <li><a href="ud-feat/Poss.html">Poss</a>: possessive</li>
-
-  <li><a href="ud-feat/PronType.html">Prontype</a>: pronominal type</li>
-
-  <li><a href="ud-feat/Puncside.html">Puncside</a>: punctuation side</li>
-
-  <li><a href="ud-feat/PunctType.html">PunctType</a>: punctuation type</li>
-
-  <li><a href="ud-feat/Reflex.html">Reflex</a>: reflexive</li>
-
-  <li><a href="ud-feat/Typo.html">Typo</a>: typographical error</li>
-
-  <li><a href="ud-feat/VerbType.html">VerbType</a>: verb type</li>
-
-</ul>
-
-<p>All of these can be considered attributes of lemmas (rather than
-individual word forms) and they represent a fine-grained
-sub-classification of words.</p>
-
-<p>Many features’ names suggest that they are subclasses of one
-particular core part of speech but this is not always the case,
-especially not with “prontype”. We may want to rename them if this is
-too confusing but I’m quite fine with the current names. Some features
-are boolean, see below.</p>
-
-<p>The list of features is certainly not exhausting (even if you feel
-exhausted after reading it :-)) and new features may appear as new
-tagsets are converted.</p>
-
-<p>There is no consistent solution for fusion words (a word that is
-result of merging two other words which are syntactically independent
-and belong to different parts of speech): Czech “dělals” (dělal + jsi
-… main verb + auxiliary), “proň” (pro + něj … preposition +
-pronoun), German “zum” (zu + dem … preposition + article) etc.
-Interset currently contains a few ad-hoc values for instantiations
-that I encountered but the only truly general approach seems to be to
-split such words into separate tokens (Interset takes input
-tokenization as fixed).</p>
-
-<hr />
-
-<h2 id="other-features">Other features</h2>
-
-<p>The following features are left for further discussion. We may decide
-to leave them optional and language/treebank-specific.</p>
-
-<h3 id="nountype--class">NounType = class</h3>
-
-<p>Chinese classifiers between cardinal numbers and nouns. Note that this
-is the only value of nountype. Interset also has the values “com” and
-“prop” but in Universal Treebanks, we decided to distinguish these two
-already at the level of POS tags.</p>
-
-<h3 id="nametype">NameType</h3>
-
-<p>Classification of named entities (token-based, no nesting of entities
-etc.) and terms. On one hand, this is pretty universal; on the other
-hand, most of us would probably see it as a separate level of
-annotation. There are treebanks where the FEAT column contains this
-information but they are rare: I saw it in the Czech CoNLL 2006 &amp; 2007
-&amp; 2009 data, and in one tagset for Japanese.</p>
-
-<p>Values for named entities: geo, prs, giv, sur, nat, com, pro, oth</p>
-
-<p>Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob</p>
-
-<p>(See https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype.)</p>
+<p>Examples: I, II, III</p>
 
 
 <!-- "relation in other languages" links -->
