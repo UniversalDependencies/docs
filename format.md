@@ -83,7 +83,7 @@ To facilitate the use of the treebanks, we provide a script that extracts the fi
 
 The CPOSTAG field contains a part-of-speech tag from the Google Universal Tagset, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
-of morphological features, with vertical bar (|) as list separator and with underscore to represent the empty list.
+of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
 All features should be represented as attribute-value pairs, with the equality sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the universal inventory and be sorted alphabetically by attribute names. Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
 
@@ -121,7 +121,7 @@ We can extract the following approximation at the token level:
 
 The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
  
-In addition to the basic dependency tree defined by the HEAD and DEPREL values, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (|) to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
+In addition to the basic dependency tree defined by the HEAD and DEPREL values, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
 
     1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
     2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
