@@ -720,6 +720,213 @@ csubj in other languages:
 	};
     };
 
+    // represents CoNLL-U token or word
+    var ConllUElement = function(fields) {
+        this.id = fields[0];
+        this.form = fields[1];
+        this.lemma = fields[2];
+        this.cpostag = fields[3];
+        this.postag = fields[4];
+        this.feats = fields[5];
+        this.head = fields[6];
+        this.deprel = fields[7];
+        this.deps = fields[8];
+        this.misc = fields[9];
+    };
+
+    ConllUElement.prototype.validId = function(id) {
+        return !!this.id.match(/^\d+(?:\.\d+)?$/);
+    };
+
+    ConllUElement.prototype.isWord = function() {
+        // word iff lemma is not an underscore
+        return this.lemma !== '_';
+    };
+
+    ConllUElement.prototype.isToken = function() {
+        // token iff ID is an integer
+        return !!this.id.match(/^[0-9]+$/);
+    };
+
+    // return list of (HEAD, DEPREL) pairs
+    ConllUElement.prototype.dependencies = function() {
+        var headDeps = [];
+        if (this.head != '_') {
+            headDeps.push([this.head, this.deprel]);
+        }
+        if (this.deps != '_') {
+            var split = this.deps.split('|');
+            for (var i=0; i<split.length; i++) {
+                m = split[i].match(/^(.+?):(.*)$/);
+                if (m) {
+                    headDeps.push([m[1], m[2]]);
+                } else {
+                    console.log('internal error: headDeps() with invalid DEPS');
+                }
+            }
+        }
+        return headDeps;
+    }
+
+    ConllUElement.prototype.issues = function() {
+        var issues = [];
+
+        if (!this.validId(this.id)) {
+            issues.push('ID "'+this.id+'" is not valid (integer or decimal)');
+        }
+
+        if (this.form === undefined || this.form.length == 0) {
+            issues.push('missing FORM');
+        }
+
+        // if all remaining fields contain just an underscore, then this
+        // is a (locally) valid token (assumed to have internal words)
+        if (this.lemma == '_' && 
+            this.cpostag == '_' &&
+            this.postag == '_' &&
+            this.feats == '_' &&
+            this.head == '_' &&
+            this.deprel == '_' &&
+            this.deps == '_' &&
+            this.misc == '_') {
+            return issues;
+        }
+        // if we're here, assume non-token.
+
+        // TODO: check LEMMA, CPOSTAG, etc.
+
+        return issues;
+    };
+
+    // parse CoNLL-U format, return brat document data format
+    var parseConllU = function(conll, log) {
+	if (log === undefined) {
+            log = makeLogger();
+	}
+
+        // TODO: allow multiple sentences
+
+	var lines = conll.split('\n');
+
+        // each line has the following format
+        // (from http://universaldependencies.github.io/docs/format.html)
+        // 1.  ID: Token counter. A number, starting at 1 for each new 
+        //         sentence; may be a decimal number for words inside tokens.
+        // 2.  FORM: Word form or punctuation symbol.
+        // 3.  LEMMA: Lemma or stem of word form.
+        // 4.  CPOSTAG: Google universal part-of-speech tag, drawn from the 
+        //         Universal POS tag set.
+        // 5.  POSTAG: Language-specific part-of-speech tag; underscore if not 
+        //         available.
+        // 6.  FEATS: List of morphological features (attribute-value pairs); 
+        //         underscore if not available.
+        // 7.  HEAD: Head of the current token, which is either a value of ID
+        //         or zero (0).
+        // 8.  DEPREL: Universal Stanford dependency relation to the HEAD 
+        //         (root iff HEAD = 0) or a defined language-particular subtype
+        //          of one.
+        // 9.  DEPS: List of secondary dependencies (head-deprel pairs).
+        // 10. MISC: Any other annotation.
+
+        var elements = [],            
+            error = false;
+        for (var i=0; i<lines.length; i++) {
+            var line = lines[i];
+
+            if (line.length != 0 && line[0] === '#') {
+                // comment line, skip.
+                // TODO: confirm that comment precedes sentence, as "Comment
+                // ... lines inside sentences ... are disallowed." (docs)
+                continue;
+            }
+
+            line = line.replace(/\s$/, '');
+            var fields = line.split(/\s+/);
+            if (fields.length !== 10) {
+                // TODO: better error handling
+                log('expected 10 fields, got '+fields.length+': "'+line+'"');
+		error = true;
+		continue;
+            }
+
+            var element = new ConllUElement(fields);
+
+            var issues = element.issues();
+            for (var j=0; j<issues.length; j++) {
+                log('parse error: '+issues[j]+' (line '+(i+1)+': "'+line+'")');
+            }
+            if (issues.length != 0) {
+                error = true;
+                continue;
+            }
+
+            elements.push(element);
+        }
+
+        // prepare by-id map, checking for duplicate IDs
+        var elementById = {},
+            filtered = [];
+        for (var i=0; i<elements.length; i++) {
+            var element = elements[i];
+            if (elementById[element.id] === undefined) {
+                elementById[element.id] = element;
+                filtered.push(element);
+            } else {
+                log('error: non-unique ID "'+element.id+'"');
+                error = true;
+            }
+        }
+        elements = filtered;
+
+        // TODO: check (and resolve?) ID references:
+        // - HEAD corresponds to valid non-token
+        // - all heads in DEPS correspond to valid non-tokens
+
+        var dependencies = [];
+        for (var i=0; i<elements.length; i++) {
+            var element = elements[i];
+            var headDeps = element.dependencies();
+            for (var j=0; j<headDeps.length; j++) {
+                dependencies.push([element.id, headDeps[j][0], headDeps[j][1]]);
+            }
+        }
+
+        var words = elements.filter(function(e) { return e.isWord() });
+        var tokens = elements.filter(function(e) { return e.isToken() });
+        var wordText = words.map(function(w) { return w.form }).join(' ');
+        var tokenText = tokens.map(function(w) { return w.form }).join(' ');
+        var combinedText = wordText;
+        if (wordText != tokenText) {
+            combinedText += '\n' + tokenText;
+        }
+
+        var spans = [],
+            offset = 0;
+        for (var i=0; i<words.length; i++) {
+            var length = words[i].form.length;
+	    spans.push(['T'+words[i].id, words[i].cpostag, 
+                           [[offset, offset+length]]]);
+            offset += length + 1;
+        }
+
+        var relations = [];
+        for (var i=0; i<dependencies.length; i++) {
+            var dep = dependencies[i];
+            relations.push(['R'+i, dep[2], 
+                            [ [ 'arg1', 'T'+dep[1] ],
+                              [ 'arg2', 'T'+dep[0] ] ] ]);
+        }
+
+        // TODO: provide visualization for LEMMA, POSTAG, FEATS and MISC.
+
+	return {
+	    'text': combinedText,
+	    'entities': spans,
+            'relations': relations,
+	    'error' : error
+	};
+    }
+
     // parse CoNLL-X format, return brat document data format
     var parseConllX = function(conll, log) {
 	if (log === undefined) {
@@ -1065,6 +1272,12 @@ csubj in other languages:
         '.language-conllx',
     ];
 
+    // class attribute values that trigger parsing using parseConllU
+    var parseConllUClasses = [
+        '.conllu-parse',
+        '.language-conllu',
+    ];
+
     var embedBratVisualizations = function() {
         // generate embedded visualizations: call embedAnnotation
 	// for elements with "sd-parse" class (or variant).
@@ -1072,12 +1285,15 @@ csubj in other languages:
             embedAnnotation($(this), parseSd);
 	});
 
-        // repeat for elements with "conllx-parse" class (or variant).
+        // repeat for elements with "conllx-parse" class (or variant), etc.
         $(parseConllXClasses.join(',')).each(function(idx) {
             embedAnnotation($(this), parseConllX);
 	});
 
-        // repeat for elements with "ann-annotation" class.
+        $(parseConllUClasses.join(',')).each(function(idx) {
+            embedAnnotation($(this), parseConllU);
+	});
+
         $('.ann-annotation').each(function(idx) {
             embedAnnotation($(this), parseAnn);
 	});
