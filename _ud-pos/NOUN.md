@@ -23,4 +23,4 @@ The {{ page.title }} tag is intended for common nouns only. See <a href="PROPN.h
 ### References
 
 * <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?</a>
-* http://en.wikipedia.org/wiki/Noun
+* <a href="http://en.wikipedia.org/wiki/Noun">Wikipedia</a>
