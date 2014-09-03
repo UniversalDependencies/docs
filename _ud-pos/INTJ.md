@@ -6,3 +6,6 @@ shortdef: 'interjection'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
+### Definition
+
+### Examples
