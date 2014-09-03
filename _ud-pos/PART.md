@@ -9,3 +9,7 @@ shortdef: 'particle'
 Notes:
 
 * Suggested alternative labels: PRT, GPRT
+
+### Definition
+
+### Examples

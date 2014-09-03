@@ -6,3 +6,6 @@ shortdef: 'determiner'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
+### Definition
+
+### Examples

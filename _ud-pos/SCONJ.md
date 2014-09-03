@@ -5,3 +5,7 @@ shortdef: 'subordinating conjunction'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples

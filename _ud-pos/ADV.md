@@ -5,3 +5,7 @@ shortdef: 'adverb'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples

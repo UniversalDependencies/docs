@@ -9,3 +9,7 @@ shortdef: 'symbol'
 Notes:
 
 * New category, split off from [X](X.html)
+
+### Definition
+
+### Examples
