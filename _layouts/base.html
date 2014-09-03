@@ -49,45 +49,8 @@
 
       </div>
 
-<script type="text/javascript">
-    var root = '{{ relative }}'; // filled in by jekyll
-    head.js(
-        // External libraries
-        root + 'lib/ext/jquery.min.js',
-        root + 'lib/ext/jquery.svg.min.js',
-        root + 'lib/ext/jquery.svgdom.min.js',
-        root + 'lib/ext/jquery-ui.min.js',
-
-        // brat helper modules
-        root + 'lib/brat/configuration.js',
-        root + 'lib/brat/util.js',
-        root + 'lib/brat/annotation_log.js',
-        root + 'lib/ext/webfont.js',
-        // brat modules
-        root + 'lib/brat/dispatcher.js',
-        root + 'lib/brat/url_monitor.js',
-        root + 'lib/brat/visualizer.js',
-
-        // embedding support modules
-        root + 'lib/local/embed.js',
-        root + 'lib/local/config.js'
-    );
-
-    var webFontURLs = [
-//        root + 'static/fonts/Astloch-Bold.ttf',
-        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
-        root + 'static/fonts/Liberation_Sans-Regular.ttf'
-    ];
-
-    head.ready(function() {
-        // TODO: avoid global collData
-        collData = Config.bratCollData;
-
-	// performes all embedding and support functions
-	Embed.embedBratVisualizations();
-    });
-</script>
-
+<!-- support for embedded visualizations -->
+{% include embedding.html %}
 
       <div id="footer">
           <p class="footer-text">embedded brat &copy; 2010-{{ site.time | date: "%Y" }} the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
