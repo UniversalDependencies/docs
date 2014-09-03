@@ -10,3 +10,7 @@ Notes:
 
 * New category, split off from [NOUN](NOUN.html)
 * Suggested alternative labels: PNOUN, NAME
+
+### Definition
+
+### Examples
