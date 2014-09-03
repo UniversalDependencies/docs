@@ -5,3 +5,7 @@ shortdef: 'numeral'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
