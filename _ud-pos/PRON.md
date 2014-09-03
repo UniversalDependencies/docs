@@ -5,3 +5,7 @@ shortdef: 'pronoun'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
