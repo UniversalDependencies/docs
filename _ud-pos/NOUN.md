@@ -12,6 +12,8 @@ shortdef: 'noun'
 
 The {{ page.title }} tag is intended for common nouns only. See <a href="PROPN.html">PROPN</a> for proper nouns and <a href="PRON.html">PRON</a> for pronouns.
 
+Note that some verb forms such as _gerunds_ and _infinitives_ may share properties and usage of nouns and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or {{ page.title }}.
+
 ### Examples
 
 * _girl_
