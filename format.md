@@ -138,6 +138,10 @@ the CoNLL-X format). The exact format used in this field should be specified in 
 treebank-specific documentation, but it is recommended to use a list of attribute-value pairs as in the FEATS field. 
 If the MISC field is not used, it should contain an underscore.
 
+# Sentence-separating blank lines
+
+There must be exactly one blank line _after_ every sentence, including the last sentence in the file.
+
 # Comments and metadata
 
 Lines starting with the `#` character and preceding a sentence are considered as carrying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). The contents of the comments and metadata is left unrestricted and will vary depending on the application. Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
