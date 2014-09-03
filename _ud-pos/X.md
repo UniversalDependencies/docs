@@ -5,3 +5,7 @@ shortdef: 'other'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
