@@ -5,3 +5,7 @@ shortdef: 'punctuation'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
