@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
-    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js"></script>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -220,30 +220,29 @@ advcl in other languages:
       </div>
 
 <script type="text/javascript">
-//    var bratLocation = 'http://weaver.nlplab.org/~brat/demo/v1.3';
-    var bratLocation = 'http://weaver.nlplab.org/~brat/demo/master';
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
-        bratLocation + '/client/lib/jquery.min.js',
-        bratLocation + '/client/lib/jquery.svg.min.js',
-        bratLocation + '/client/lib/jquery.svgdom.min.js',
-	bratLocation + '/client/lib/jquery-ui.min.js',
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
 
         // brat helper modules
-        bratLocation + '/client/src/configuration.js',
-        bratLocation + '/client/src/util.js',
-        bratLocation + '/client/src/annotation_log.js',
-        bratLocation + '/client/lib/webfont.js',
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
         // brat modules
-        bratLocation + '/client/src/dispatcher.js',
-        bratLocation + '/client/src/url_monitor.js',
-        bratLocation + '/client/src/visualizer.js'
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js'
     );
 
     var webFontURLs = [
-//        bratLocation + '/static/fonts/Astloch-Bold.ttf',
-        bratLocation + '/static/fonts/PT_Sans-Caption-Web-Regular.ttf',
-        bratLocation + '/static/fonts/Liberation_Sans-Regular.ttf'
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
     var collData = {
