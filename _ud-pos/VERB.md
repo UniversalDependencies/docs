@@ -5,3 +5,7 @@ shortdef: 'verb'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
