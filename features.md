@@ -5,6 +5,8 @@ title:  'Features'
 
 # Features
 
+## Universal features
+
 Alphabetical listing
 
 <ul>
@@ -65,3 +67,9 @@ Values for named entities: geo, prs, giv, sur, nat, com, pro, oth
 Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob
 
 (See https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype.)
+
+-------------
+
+## Language-specific documentation
+
+(TODO)

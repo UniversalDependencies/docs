@@ -5,7 +5,11 @@ title:  'Relations'
 
 # Relations
 
-Links to primary relation documentation and documentation status:
+## Universal dependencies
+
+{% include ud-table.html %}
+
+## Language-specific documentation
 
 <table id="indextable">
 <tr>
@@ -30,5 +34,3 @@ Links to primary relation documentation and documentation status:
   <td class="complete">First draft complete</td>
 </tr>
 </table>
-
-
