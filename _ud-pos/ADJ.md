@@ -5,3 +5,7 @@ shortdef: 'adjective'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
+
+### Definition
+
+### Examples
