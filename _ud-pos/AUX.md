@@ -9,3 +9,7 @@ shortdef: 'auxiliary verb'
 Notes:
 
 * New category, split off from [VERB](VERB.html)
+
+### Definition
+
+### Examples
