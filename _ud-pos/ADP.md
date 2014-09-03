@@ -9,3 +9,7 @@ shortdef: 'adposition'
 Notes:
 
 * Suggested alternative labels: PREP, PPOS
+
+### Definition
+
+### Examples
