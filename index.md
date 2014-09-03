@@ -12,7 +12,6 @@ under revision and should not be considered final.** Our goal is to have a stabl
 Universal Dependencies documentation:
 
 * [Format](format.html)
-* [Segmentation](segmentation.html)
 * Morphology
   * [Tags](tags.html)
     * Universal: [index page](ud-pos-index.html)
