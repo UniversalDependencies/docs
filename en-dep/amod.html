@@ -219,6 +219,7 @@ amod in other languages:
 
       </div>
 
+<!-- support for embedded visualizations -->
 <script type="text/javascript">
     var root = '../'; // filled in by jekyll
     head.js(
@@ -239,7 +240,8 @@ amod in other languages:
         root + 'lib/brat/visualizer.js',
 
         // embedding support modules
-        root + 'lib/local/embed.js'
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
     );
 
     var webFontURLs = [
@@ -248,48 +250,11 @@ amod in other languages:
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
-    var collData = {
-	'entity_types': [
-// this is optional
-        {
-            'type': 'SPAN_DEFAULT',
-            'bgColor': '#7fa2ff',
-            'borderColor': 'darken'
-        },
-        {
-            'type': 'token',
-            'labels': [ '\u00A0\u00A0' ], // non-breaking space for empty
-        },
-        {
-            'type': '-',
-            'labels': [ '\u00A0\u00A0' ], // non-breaking space for empty
-        }
-	],
-	'entity_attribute_types': [],
-	'relation_types': [
-// this is optional
-//         {
-//             'type': 'subj',
-//             'labels': [ 'subj' ],
-//             'dashArray': '3,3',
-//             'color': 'green',
-//             'args': [
-//                 {
-//                     'role': 'arg1',
-//                     'targets': [ 'token' ]
-//                 },
-//                 {
-//                     'role': 'arg2',
-//                     'targets': [ 'token' ]
-//                 }
-//             ]
-//         }
-        ],
-	'event_types': [],
-    };
-
     head.ready(function() {
-	// just call this in head.ready()
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
 	Embed.embedBratVisualizations();
     });
 </script>
