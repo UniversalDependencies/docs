@@ -25,6 +25,8 @@ visualizations is represented in either the Stanford Dependency or
 CoNLL-X format. For example, the above visualization is generated from
 this input:
 
+    An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
+
     ~~~ sdparse
     She looks very beautiful
     acomp(looks, beautiful)
