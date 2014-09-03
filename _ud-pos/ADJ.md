@@ -8,7 +8,7 @@ shortdef: 'adjective'
 
 ### Definition
 
-**Adjectives** are a words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
+**Adjectives** are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
 _The car is green._
 
