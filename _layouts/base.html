@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/style.css"/>
     <link rel="stylesheet" type="text/css" href="http://weaver.nlplab.org/~brat/demo/v1.3/style-vis.css"/>
-    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js"></script>
+    <script type="text/javascript" src="{{ relative }}lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -52,12 +52,17 @@
 <script type="text/javascript">
 //    var bratLocation = 'http://weaver.nlplab.org/~brat/demo/v1.3';
     var bratLocation = 'http://weaver.nlplab.org/~brat/demo/master';
+    var root = '{{ relative }}'; // filled in by jekyll
     head.js(
         // External libraries
-        bratLocation + '/client/lib/jquery.min.js',
-        bratLocation + '/client/lib/jquery.svg.min.js',
-        bratLocation + '/client/lib/jquery.svgdom.min.js',
-	bratLocation + '/client/lib/jquery-ui.min.js',
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+//        bratLocation + '/client/lib/jquery.min.js',
+//        bratLocation + '/client/lib/jquery.svg.min.js',
+//        bratLocation + '/client/lib/jquery.svgdom.min.js',
+//        bratLocation + '/client/lib/jquery-ui.min.js',
 
         // brat helper modules
         bratLocation + '/client/src/configuration.js',
