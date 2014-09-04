@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
+redirect_from: "idx"
 ---
 
 # Universal Dependencies

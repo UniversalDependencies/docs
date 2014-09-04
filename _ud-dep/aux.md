@@ -2,6 +2,7 @@
 layout: base
 title: 'aux'
 shortdef: 'auxiliary'
+redirect_from: "/ud-dep/_aux"
 ---
 
 ## aux: auxiliary
