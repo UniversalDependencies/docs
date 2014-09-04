@@ -19,6 +19,9 @@ Pronouns under this definition function like nouns. Note that some languages tra
 * demonstrative pronouns: _this_ as in _I saw <span style='color:red'>this</span> yesterday._
 * interrogative pronouns: _who, what_ as in _<span style='color:red'>What</span> do you think?_
 * relative pronouns: _who, what_ as in _I wonder <span style='color:red'>what</span> you think._
+* indefinite pronouns: _somebody, something, anybody, anything_
+* totality pronouns: _everybody, everything_
+* negative pronouns: _nobody, nothing_
 
 ### References
 
