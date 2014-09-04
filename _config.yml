@@ -4,7 +4,7 @@ markdown:     kramdown
 # kramdown:
 #   parse_block_html: true # allow markdown in <div> etc.
 permalink:    date
-safe:         true
+safe:         false
 markdown_ext: md
 
 gems:
