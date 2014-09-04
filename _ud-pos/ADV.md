@@ -16,7 +16,7 @@ Note that in Germanic languages, some adverbs may also function as verbal partic
 
 Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adverbs in our universal tagging scheme. In particular, _adverbial ordinal numerals_ ([cs] _poprvé_ = for the first time) and _multiplicative numerals_ (e.g. _once, twice_) behave syntactically as adverbs and are tagged {{ page.title }}.
 
-Note there are verb forms such as _transgressives_ or _adverbial participles_ that share properties and usage of adverbs and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or {{ page.title }}.
+Note that there are verb forms such as _transgressives_ or _adverbial participles_ that share properties and usage of adverbs and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or {{ page.title }}.
 
 ### Examples
 
