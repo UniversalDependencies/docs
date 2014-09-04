@@ -3,16 +3,15 @@ layout: base
 title: 'aux'
 shortdef: 'auxiliary'
 redirect_from:
- - /docs/ud-dep/_aux
- - /docs/ud-dep/_aux.html
- - /docs/ud-dep/_aux.md
- - /ud-dep/_aux
- - /ud-dep/_aux.html
- - /ud-dep/_aux.md
- - _aux
- - _aux.html
- - _aux.md
- - kuku
+ - /docs/ud-dep/vaux
+ - /docs/ud-dep/vaux.html
+ - /docs/ud-dep/vaux.md
+ - /ud-dep/vaux
+ - /ud-dep/vaux.html
+ - /ud-dep/vaux.md
+ - vaux
+ - vaux.html
+ - vaux.md
 ---
 
 ## aux: auxiliary
