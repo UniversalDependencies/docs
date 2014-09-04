@@ -8,4 +8,19 @@ shortdef: 'pronoun'
 
 ### Definition
 
+**Pronouns** are words that substitute for <a href="NOUN.html">nouns</a> or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.
+
+Pronouns under this definition function like nouns. Note that some languages traditionally extend the term _pronoun_ to words that substitute for <a href="ADJ.html">adjectives</a>. Such words are not tagged {{ page.title }} under our universal scheme. They are tagged as <a href="DET.html">determiners</a> in order to annotate the same thing same way across languages.
+
 ### Examples
+
+* personal pronouns: _I, you, he, she, it, we, they_
+* reflexive pronouns: _myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves_
+* demonstrative pronouns: _this_ as in _I saw <span style='color:red'>this</span> yesterday._
+* interrogative pronouns: _who, what_ as in _<span style='color:red'>What</span> do you think?_
+* relative pronouns: _who, what_ as in _I wonder <span style='color:red'>what</span> you think._
+
+### References
+
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?</a>
+* <a href="http://en.wikipedia.org/wiki/Pronoun">Wikipedia</a>
