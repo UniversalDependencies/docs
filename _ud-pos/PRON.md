@@ -12,7 +12,7 @@ shortdef: 'pronoun'
 
 Pronouns under this definition function like nouns. Note that some languages traditionally extend the term _pronoun_ to words that substitute for <a href="ADJ.html">adjectives</a>. Such words are not tagged {{ page.title }} under our universal scheme. They are tagged as <a href="DET.html">determiners</a> in order to annotate the same thing same way across languages.
 
-For instance, [en] _this_ is either pronoun _(I saw <span style='color:red'>this</span> yesterday.)_ or determiner _(I saw <span style='color:red'>this</span> car yesterday.)_ Its Czech translation, [cs] _tohle_, is traditionally called pronoun in Czech grammar, regardless of context (the notion of determiners does not exist in Czech grammar). To make the annotation parallel across languages, it should be now tagged {{ page.title }} in <em><span style='color:red'>Tohle</span> jsem viděl včera.</span></em> and DET in <em><span style='color:red'>Tohle</span> auto jsem viděl včera.</span></em>
+For instance, [en] _this_ is either pronoun _(I saw <span style='color:red'>this</span> yesterday.)_ or determiner _(I saw <span style='color:red'>this</span> car yesterday.)_ Its Czech translation, [cs] _tohle_, is traditionally called pronoun in Czech grammar, regardless of context (the notion of determiners does not exist in Czech grammar). To make the annotation parallel across languages, it should be now tagged {{ page.title }} in <em><span style='color:red'>Tohle</span> jsem viděl včera.</em> and DET in <em><span style='color:red'>Tohle</span> auto jsem viděl včera.</em>
 
 ### Examples
 
