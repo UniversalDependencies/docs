@@ -4,6 +4,11 @@ title: 'aux'
 shortdef: 'auxiliary'
 redirect_from:
  - /docs/ud-dep/_aux
+ - /docs/ud-dep/_aux.html
+ - /ud-dep/_aux
+ - /ud-dep/_aux.html
+ - _aux
+ - _aux.html
 ---
 
 ## aux: auxiliary
