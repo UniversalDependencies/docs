@@ -12,6 +12,7 @@ redirect_from:
  - _aux
  - _aux.html
  - _aux.md
+ - kuku
 ---
 
 ## aux: auxiliary
