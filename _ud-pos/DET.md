@@ -29,5 +29,5 @@ For instance, [en] _this_ is either pronoun _(I saw <span style='color:red'>this
 
 ### References
 
-* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?</a>
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?</a>
 * <a href="http://en.wikipedia.org/wiki/Determiner">Wikipedia</a>
