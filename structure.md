@@ -37,7 +37,7 @@ case(street, down)
 det(street, the-10)
 </div>
 
-Preferring content words as heads maximizes parallelism between languages because content words vary less than function words between languages. In particular, one commonly finds the same grammatical relation being expressed by morphology in some languages or constructions and by function words in other languages or constructions, and, indeed, some languages may not mark the information at all (such as not marking tense or definiteness).
+Preferring content words as heads maximizes parallelism between languages because content words vary less than function words between languages. In particular, one commonly finds the same grammatical relation being expressed by morphology in some languages or constructions and by function words in other languages or constructions, while some languages may not mark the information at all (such as not marking tense or definiteness).
 
 <div id="s2a" class="sd-parse">
 On a dormi ...
