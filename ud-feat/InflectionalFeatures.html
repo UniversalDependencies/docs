@@ -1,0 +1,1880 @@
+<h1 class="western">Universal Dependencies: Features of Tokens<br />Part
+2: Inflectional Features</h1>
+<h2 class="western"><span lang="cs-CZ">G</span>ender</h2>
+<p>Gender is usually a lexical feature of nouns and inflectional
+feature of other parts of speech (adjectives, verbs) that mark
+agreement with nouns. In English gender affects only the choice of
+the personal pronoun <i>(he / she / it)</i> and the feature is
+usually not encoded in English tagsets.</p>
+<p>African languages have analogous feature of noun classes: there
+might be separate grammatical categories for flat objects, long thin
+objects etc. African noun classes are not covered in the current
+proposal because none of the tagsets that are currently covered by
+Interset is for a language that has noun classes. They might be added
+in future.</p>
+<h3 class="western"><span lang="cs-CZ">M</span>asc: masculine gender</h3>
+<p>Nouns denoting male persons are masculine. Other nouns may be also
+grammatically masculine, without any relation to sex. Example: [cs]
+<span lang="cs-CZ"><i>hrad </i></span><span lang="cs-CZ"><span style="font-style: normal">(castle)</span></span></p>
+<h2 class="western"><span lang="cs-CZ"><span style="font-style: normal">F</span></span><span style="font-style: normal">em:
+feminine gender</span></h2>
+<p><span lang="en-US"><span style="font-style: normal">Nouns denoting
+female persons are feminine. Other nouns may be also grammatically
+feminine, without any relation to sex. Example: [de] </span></span><span lang="en-US"><i>Burg
+</i></span><span lang="en-US"><span style="font-style: normal">(castle)</span></span></p>
+<h3 class="western"><span lang="cs-CZ"><span style="font-style: normal">N</span></span><span lang="en-US"><span style="font-style: normal">eut:
+neuter gender</span></span></h3>
+<p><span lang="en-US"><span style="font-style: normal">S</span></span><span lang="en-US"><span style="font-style: normal">ome
+languages have only the masculine/feminine distinction while others
+also have this third gender for nouns that are neither masculine nor
+feminine (gram</span></span><span lang="en-US"><span style="font-style: normal">m</span></span><span lang="en-US"><span style="font-style: normal">atically).</span></span></p>
+<h3 class="western"><span lang="cs-CZ"><span style="font-style: normal">C</span></span><span lang="en-US"><span style="font-style: normal">om:
+common gender</span></span></h3>
+<p style="font-style: normal">Some languages do not distinguish
+masculine/feminine most of the time but they do distinguish neuter
+vs. non-neuter (Swedish neutrum / utrum). The non-neuter is called
+common gender.</p>
+<p><span lang="en-US"><span style="font-style: normal">Note that it
+could also be expressed as a combined value </span></span><span lang="en-US"><span style="font-style: normal">G</span></span><span lang="en-US"><span style="font-style: normal">ender
+= &ldquo;</span></span><span lang="en-US"><span style="font-style: normal">F</span></span><span lang="en-US"><span style="font-style: normal">em,</span></span><span lang="en-US"><span style="font-style: normal">M</span></span><span lang="en-US"><span style="font-style: normal">asc&rdquo;
+and it is thus questionable whether we want to keep it also as a
+separate value. In Interset I decided to keep it because I </span></span><span lang="en-US"><span style="font-style: normal">try
+to limit using combined feature values to exceptional, undecided
+cases, not to something that occurs systematically in the grammar.
+</span></span><span lang="en-US"><span style="font-style: normal">The
+natural downside is that we have to decide for every new tagset
+mapping whether to use &ldquo;</span></span><span lang="en-US"><span style="font-style: normal">C</span></span><span lang="en-US"><span style="font-style: normal">om&rdquo;
+or not.</span></span></p>
+<h2 class="western">Animateness</h2>
+<p><span style="background: #ffff00">DZ: We have several features
+called X-ness: Animateness, Definiteness, Negativeness, Politeness.
+Should we shorten these by cutting off the <i>-ness</i><span style="font-style: normal">
+part? Or even </span><i>-(ate|ite|ive)ness</i><span style="font-style: normal">?</span></span></p>
+<p>Similarly to Gender (and to the African noun classes), animateness
+is usually a lexical feature of nouns and inflectional feature of
+other parts of speech that mark agreement with nouns. It is
+independent of gender, therefore it is encoded separately in some
+tagsets (e.g. all the Multext-East tagsets). On the other hand, in
+Czech the (almost) only grammatical implications occur within the
+masculine gender, which is why the PDT tagset does not have
+animateness as separate feature and instead defines four genders:
+masculine animate, masculine inanimate, feminine and neuter. I
+suggest following the two-feature approach used in Multext-East (many
+languages) because it seems to be safer.</p>
+<p>Polish is special in that it also distinguishes grammatically
+human vs. non-human animates. It can be demonstrated by inflection of
+the example word <span lang="cs-CZ"><i>który</i></span><span lang="en-US">
+(which) (boldface forms differ from the middle row):</span></p>
+<p><br /><br />
+</p>
+<p>&lt;TABLE WIDTH=643 CELLPADDING=2 CELLSPACING=0&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=44&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=47&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;TR&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;gender &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=44 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-nom &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-gen &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-dat &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-acc &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-ins &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;sg-loc &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-nom &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-gen &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-dat &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-acc &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=47 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-ins &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;pl-loc &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;animate human &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=44 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;<strong>&lt;FONT SIZE=2&gt;którzy&lt;/FONT&gt;</strong>&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;<strong>&lt;FONT SIZE=2&gt;których&lt;/FONT&gt;</strong>&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=47 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;animate non-human &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=44 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=47 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;in-animate &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=44 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;<strong>&lt;FONT SIZE=2&gt;który&lt;/FONT&gt;</strong>&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=43 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=47 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+			&lt;/P&gt;
+		&lt;/TD&gt;
+		&lt;TD WIDTH=45 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;P&gt;&lt;FONT SIZE=2&gt;których&lt;/FONT&gt;&lt;/P&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+&lt;/TABLE&gt;</p>
+<p><br /><br />
+</p>
+<h3 class="western">Anim: animate</h3>
+<p>Human beings, animals, fictional characters, names of professions
+etc. are all animate. Even nouns that are normally inanimate can be
+inflected as animate if they are personified. For instance, consider
+a children's story about cars where cars live and talk as people;
+then the cars may become and be inflected as animates.</p>
+<h3 class="western">Nhum: animate but non-human</h3>
+<p>Attested in Polish. In languages where Nhum is used, Anim is
+restricted to human beings (complement of Nhum).</p>
+<h3 class="western">Inan: inanimate</h3>
+<p><span lang="en-US">N</span><span lang="en-US">ouns that are not
+animate are inanimate. (If Nhum is used, nouns that are neither Anim
+nor Nhum are Inan.)</span></p>
+<h2 class="western">Number</h2>
+<p style="font-style: normal">Number is usually inflectional feature
+of nouns and, depending on language, other parts of speech
+(adjectives, verbs) that mark agreement with nouns.</p>
+<h3 class="western"><span lang="en-US">Sing</span>: singular number</h3>
+<p>A singular noun denotes one person, animal or thing. Example: [en]
+<span lang="en-US"><i>car</i></span></p>
+<h2 class="western"><span style="font-style: normal">Plur</span><span style="font-style: normal">:
+</span><span style="font-style: normal">plural number</span></h2>
+<p>A plural noun denotes several persons, animals or things. Example:
+[en] <span lang="en-US"><i>cars</i></span></p>
+<h2 class="western"><span style="font-style: normal">Dual</span><span style="font-style: normal">:
+</span><span style="font-style: normal">dual number</span></h2>
+<p>A dual noun denotes two persons, animals or things.</p>
+<p>Example: [sl] singular <span lang="cs-CZ"><i>glas</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(voice)</span></span><span lang="cs-CZ"><span style="font-style: normal">,
+</span></span><span lang="en-US"><span style="font-style: normal">dual
+</span></span><span lang="cs-CZ"><i>glasova</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(voices)</span></span><span lang="cs-CZ"><span style="font-style: normal">,
+</span></span><span lang="en-US"><span style="font-style: normal">plural
+</span></span><span lang="cs-CZ"><i>glasovi</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(voices);
+</span></span><span lang="en-US"><span style="font-style: normal">[ar]
+</span></span><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">singular
+</span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1587;&#1614;&#1606;&#1614;&#1577;&#1612;
+</span></font></span></font><font face="Times New Roman, serif"><span lang="en-US"><i>sanatun</i></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+(year), dual </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1587;&#1614;&#1606;&#1614;&#1578;&#1614;&#1575;&#1606;&#1616;
+</span></font></span></font><font face="Times New Roman, serif"><span lang="en-US"><i>sanata&#772;ni</i></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+(years), plural </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1587;&#1616;&#1606;&#1615;&#1608;&#1606;&#1614;
+</span></font></span></font><font face="Times New Roman, serif"><span lang="en-US"><i>sinu&#772;na</i></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+(years)</span></span></font><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h2 class="western"><span style="font-style: normal">P</span><span style="font-style: normal">tan:
+plural</span><span style="font-style: normal">e</span><span style="font-style: normal">
+tantum</span></h2>
+<p><span lang="en-US"><span style="font-style: normal">Some nouns
+appear only in the plural form even though they denote one thing
+(semantic singular); some tagsets mark this distinction.
+Grammatically they behave like plurals, so &ldquo;Plur&rdquo; is
+obviously the back-off value here; however, if the language also
+marks gender, the non-existence of singular form sometimes means that
+the gender is unknown. </span></span><span lang="en-US"><span style="font-style: normal">In
+Czech, special type of numerals is used when counting nouns that are
+plurale tantum </span></span><span lang="en-US"><span style="font-style: normal">(NumType
+= Sets).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Example: [en]
+</span></span><span lang="en-US"><i>scissors, pants;</i></span><span lang="en-US"><span style="font-style: normal">
+[cs] </span></span><span lang="cs-CZ"><i>nůžky, kalhoty</i></span></p>
+<h2 class="western"><span style="font-style: normal">Coll</span><span style="font-style: normal">:
+</span><span style="font-style: normal">collective / mass / singulare
+tantum</span></h2>
+<p><span lang="en-US"><span style="font-style: normal">Collective or
+mass or singulare tantum is a special case of singular. </span></span><span lang="en-US"><span style="font-style: normal">It
+applies to words that use grammatical singular to describe sets of
+objects, i.e. semantic plural. Although in theory they might be able
+to form plural, in practice it would be rarely semantically
+plausible. Sometimes, the plural form exists and means &ldquo;several
+sorts of&rdquo; </span></span><span lang="en-US"><span style="font-style: normal">or
+&ldquo;several packages of&rdquo;</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<p style="font-style: normal">Although mass nouns exist in various
+languages (because of their semantic nature), they are rarely marked
+in tagsets. I found the value in one tagset of Czech and in Italian
+(CoNLL data).</p>
+<p><span lang="en-US"><span style="font-style: normal">Example: [cs]
+</span></span><span lang="en-US"><i>lidstvo</i></span><span lang="en-US"><span style="font-style: normal">
+(mankind)</span></span></p>
+<h2 class="western">Case</h2>
+<p style="font-style: normal">Case is usually inflectional feature of
+nouns and, depending on language, other parts of speech (adjectives,
+numerals) that mark agreement with nouns. In some tagsets it is also
+valency feature of adpositions (saying that the adposition requires
+its argument to be in that case).</p>
+<p style="font-style: normal">Case helps specify the role of the noun
+phrase in the sentence, especially in free-word-order languages. For
+example, the nominative and accusative cases often distinguish
+subject and object of the verb, while in fixed-word-order languages
+these functions would be distinguished merely by the positions of the
+nouns in the sentence.</p>
+<p style="font-style: normal">Here on the level of morphosyntactic
+features we are dealing with case expressed morphologically, i.e. by
+bound morphemes (affixes). Note that on a higher level case can be
+understood more broadly as <i>the role,</i> and it can be also
+expressed by adding an adposition to the noun. What is expressed by
+affixes in one language can be expressed using adpositions in another
+language. Cf. the &ldquo;case&rdquo; dependency label.</p>
+<p style="font-style: normal">Examples: [cs] nominative <span lang="cs-CZ"><i>matka</i></span><span lang="cs-CZ">
+</span>(mother), genitive <span lang="cs-CZ"><i>matky</i></span>,
+dative <span lang="cs-CZ"><i>matce</i></span>, accusative <span lang="cs-CZ"><i>matku</i></span>,
+vocative <span lang="cs-CZ"><i>matko</i></span>, locative <span lang="cs-CZ"><i>matce</i></span>,
+instrumental <span lang="cs-CZ"><i>matkou</i></span><span lang="cs-CZ">;
+</span>[de] nominative <i>der Mann</i> (the man), genitive <i>des
+Mannes</i>, dative <i>dem Mann</i>, accusative <i>den Mann</i><span lang="cs-CZ">;
+</span>[en] nominative/direct case <i>he, she</i>, accusative/oblique
+case <i>him, her</i></p>
+<p style="font-style: normal">The descriptions of the individual case
+values below include semantic hints about the prototypical meaning of
+the case. Bear in mind that quite often a case will be used for a
+meaning that is totally unrelated to the meaning mentioned here.
+Valency of verbs, adpositions and other words will determine that the
+noun phrase must be in a particular grammatical case to fill a
+particular valency slot (semantic role). It is much the same as
+trying to explain the meaning of prepositions: most people would
+agree that the central meaning of English <i>in</i> is location in
+space or time but there are phrases where the meaning is less
+locational: <i>In God we trust. </i><i>Say it in English.</i></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Note
+that Indian corpora based on the so-called Paninian model use a
+related feature called </span></span></span><span lang="en-US"><i><span style="background: transparent">vibhakti</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.
+It is a merger of the Case feature described here and of various
+postpositions. Values of the feature are language-dependent because
+they are copies of the relevant morphemes (either bound morphemes or
+postpositions). </span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Vibhakti
+can be mapped on the Case values described here if we know 1. which
+source values are bound morphemes (postpositions are separate nodes
+for us) and 2. what is their meaning. For instance, the genitive case
+(Gen) in Bengali is marked using the suffix </span></span></span><span lang="en-US"><i><span style="background: transparent">-ra</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(-</span></span></span><font face="Mangal"><span lang="hi-IN"><span style="background: transparent"><font face="Code2000">&#2480;</font></span></span></font><span style="background: transparent">),
+i.e. </span><font face="Courier New, monospace"><span style="background: transparent">vib=era</span></font><span style="background: transparent">.
+In Hindi, the suffix has been split off the noun </span><span style="background: transparent">and</span><span style="background: transparent">
+it is now written as a separate word &ndash; the postposition
+</span><i><span style="background: transparent">k&#257;/k&#299;/ke</span></i><span style="font-style: normal"><span style="background: transparent">
+(</span></span><font face="Mangal"><span lang="hi-IN"><span style="background: transparent"><font face="Code2000"><span style="font-style: normal">&#2325;&#2366;</span></font></span></span></font><span style="font-style: normal"><span style="background: transparent">/</span></span><font face="Mangal"><span lang="hi-IN"><span style="background: transparent"><font face="Code2000"><span style="font-style: normal">&#2325;&#2368;</span></font></span></span></font><span style="font-style: normal"><span style="background: transparent">/</span></span><font face="Mangal"><span lang="hi-IN"><span style="background: transparent"><font face="Code2000"><span style="font-style: normal">&#2325;&#2375;</span></font></span></span></font><span style="font-style: normal"><span style="background: transparent">).
+</span></span><span style="font-style: normal"><span style="background: transparent">Even
+if the</span></span><span style="font-style: normal"><span style="background: transparent">
+postpositional phrase</span></span><span style="font-style: normal"><span style="background: transparent">
+can be understood as a genitive noun phrase, the noun is not in
+genitive. Instead, the postposition requires that it takes one of
+three case forms that are marked directly on the noun: the oblique
+case (Acc).</span></span></p>
+<h3 class="western" style="font-style: normal">Nom: nominative /
+direct</h3>
+<p><span lang="en-US"><span style="font-style: normal">The base form
+of the noun, </span></span><span lang="en-US"><span style="font-style: normal">typically
+used as citation form (lemma)</span></span><span lang="en-US"><span style="font-style: normal">.
+In many languages this is the word form used for subjects of clauses.
+</span></span><span lang="en-US"><span style="font-style: normal">If
+the language has only two cases, which are called &ldquo;direct&rdquo;
+and &ldquo;oblique&rdquo;, the direct case will be marked Nom.</span></span></p>
+<h3 class="western" style="font-style: normal">Acc: accusative  /
+oblique</h3>
+<p><span lang="en-US"><span style="font-style: normal">Perhaps the
+second most widely spread morphological case.</span></span><span lang="en-US"><span style="font-style: normal">
+In many languages this is the word form used for </span></span><span lang="en-US"><span style="font-style: normal">direct
+objects</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">of
+verbs</span></span><span lang="en-US"><span style="font-style: normal">.
+If the language has only two cases, which are called &ldquo;direct&rdquo;
+and &ldquo;oblique&rdquo;, the </span></span><span lang="en-US"><span style="font-style: normal">oblique</span></span><span lang="en-US"><span style="font-style: normal">
+case will be marked </span></span><span lang="en-US"><span style="font-style: normal">Acc</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Abs: absolutive</h3>
+<p><span lang="en-US"><span style="font-style: normal">S</span></span><span lang="en-US"><span style="font-style: normal">ome
+languages </span></span><span lang="en-US"><span style="font-style: normal">(e.g.
+Basque)</span></span><span lang="en-US"><span style="font-style: normal">
+do not use nominative-accusative to distinguish subjects and objects.
+Instead, they use the contrast of absolutive-ergative.</span></span></p>
+<p style="font-style: normal">The absolutive case marks subject of
+intransitive verb and direct object of transitive verb.</p>
+<h3 class="western" style="font-style: normal">Erg: ergative</h3>
+<p><span lang="en-US"><span style="font-style: normal">S</span></span><span lang="en-US"><span style="font-style: normal">ome
+languages </span></span><span lang="en-US"><span style="font-style: normal">(e.g.
+Basque)</span></span><span lang="en-US"><span style="font-style: normal">
+do not use nominative-accusative to distinguish subjects and objects.
+Instead, they use the contrast of absolutive-ergative.</span></span></p>
+<p style="font-style: normal">The ergative case marks subject of
+transitive verb.</p>
+<h3 class="western" style="font-style: normal">Dat: dative</h3>
+<p><span lang="en-US"><span style="font-style: normal">In many
+languages this is the word form used for </span></span><span lang="en-US"><span style="font-style: normal">in</span></span><span lang="en-US"><span style="font-style: normal">direct
+objects</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">of
+verbs</span></span><span lang="en-US"><span style="font-style: normal">.
+</span></span><span lang="en-US"><span style="font-style: normal">Example:
+[de] </span></span><span lang="cs-CZ"><i>Ich gebe </i></span><font color="#ff0000"><span lang="cs-CZ"><i>meinem
+Bruder</i></span></font><span lang="cs-CZ"><i> ein Geschenk.</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(I
+give my brother a present.) &ldquo;meinem Bruder&rdquo; (my brother)
+is dative and &ldquo;ein Geschenk&rdquo; (a present) is accusative.</span></span></p>
+<h3 class="western" style="font-style: normal">Gen: genitive</h3>
+<p><span lang="en-US"><span style="font-style: normal">P</span></span><span lang="en-US"><span style="font-style: normal">rototypical
+meaning of genitive is that the noun phrase somehow belongs to its
+governor; it would often be translated by the English preposition </span></span><span lang="en-US"><i>of</i></span><span lang="en-US"><span style="font-style: normal">.
+English has the &ldquo;saxon genitive&rdquo; formed by the suffix </span></span><span lang="en-US"><i>'s</i></span><span lang="en-US"><span style="font-style: normal">;
+but we will normally not need the feature in English because the
+suffix gets separated from the noun during tokenization.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Note that
+despite considerable semantic overlap, the genitive case is not the
+same as the feature of possessivity (Poss). Possessivity is a lexical
+feature, i.e. it applies to lemma and its whole paradigm. Genitive is
+a feature of just a subset of word forms of the lemma. </span></span><span lang="en-US"><span style="font-style: normal">Semantics
+of possessivity is much more clearly defined while the genitive (as
+</span></span><span lang="en-US"><span style="font-style: normal">many
+other</span></span><span lang="en-US"><span style="font-style: normal">
+cases) may be required in situations that have nothing to do with
+possessing. For example, [cs] </span></span><span lang="cs-CZ"><i>bez
+prezidentovy dcery</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(without
+the president's daughter) is a prepositional phrase containing the
+preposition </span></span><span lang="cs-CZ"><i>bez</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(without),
+the possessive adjective </span></span><span lang="cs-CZ"><i>prezidentovy</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(president's)
+and th noun </span></span><span lang="cs-CZ"><i>dcery</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(daughter).
+The possessive adjective is derived from the noun </span></span><span lang="cs-CZ"><i>prezident</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">but
+it is really an adjective (with separate lemma and paradigm), not
+just a form of the noun. In addition, both the adjective and the noun
+are in their genitive forms (the nominative would be </span></span><span lang="cs-CZ"><i>prezidentova
+dcera</i></span><span lang="en-US"><span style="font-style: normal">).
+There is nothing possessive about this particular occurrence of the
+genitive. It is there because the preposition </span></span><span lang="cs-CZ"><i>bez</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">always
+requires its argument to be in genitive.</span></span></p>
+<p style="font-style: normal">Example: [cs] <span lang="cs-CZ"><i>Praha
+je hlavní město </i></span><font color="#ff0000"><span lang="cs-CZ"><i>České
+republiky</i></span></font><span lang="cs-CZ"><i>.</i></span><span lang="cs-CZ">
+</span>(Prague is the capital <font color="#ff0000">of the Czech
+Republic</font>.)</p>
+<p><span lang="cs-CZ"><span style="font-style: normal">Note that </span></span>in
+Basque, <span lang="cs-CZ">Gen should be used for</span> possessive
+genitive (as opposed to locative genitive): <font color="#ff0000"><i>diktadorearen</i></font><i>
+erregimena</i> <span lang="en-US">(</span>dictator's regime;
+<i>diktadore</i> = dictator).</p>
+<h3 class="western" style="font-style: normal">Voc: vocative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The vocative
+case is a special form of noun use</span></span><span lang="en-US"><span style="font-style: normal">d</span></span><span lang="en-US"><span style="font-style: normal">
+to address someone. Thus it predominantly appears with animate nouns
+(see the feature of animateness). Nevertheless this is not a
+grammatical restriction and </span></span><span lang="en-US"><span style="font-style: normal">inanimate</span></span><span lang="en-US"><span style="font-style: normal">
+things can be addressed as well.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Example: [cs]
+</span></span><span lang="cs-CZ"><i>Co myslíš, </i></span><font color="#ff0000"><span lang="en-US"><i>Filip</i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>e</i></span></font><span lang="cs-CZ"><i>?</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(What
+do you think, </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">Filip</span></span></font><span lang="en-US"><span style="font-style: normal">?)</span></span></p>
+<h3 class="western" style="font-style: normal">Loc: locative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The locative
+case often expresses location in space or time, which gave it its
+name. As elsewhere, non-locational meanings also </span></span><span lang="en-US"><span style="font-style: normal">exist</span></span><span lang="en-US"><span style="font-style: normal">
+and they are not rare. Uralic languages have a complex set of
+fine-grained locational and directional cases (see below) instead of
+the locative. Even in languages that have locative, some location
+roles may be expressed using other cases (e.g. because those cases
+are required by a preposition).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">In Slavic
+languages this is the only case that is used exclusively in
+combination with prepositions (but such </span></span><span lang="en-US"><span style="font-style: normal">a</span></span><span lang="en-US"><span style="font-style: normal">
+restriction may not hold in other languages that have locative).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Example: [cs]
+</span></span><span lang="cs-CZ"><i>V </i></span><font color="#ff0000"><span lang="cs-CZ"><i>červenci</i></span></font><span lang="cs-CZ"><i>
+jsem byl ve </i></span><font color="#ff0000"><span lang="cs-CZ"><i>Švédsku</i></span></font><span lang="cs-CZ"><i>.</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(</span></span><span lang="en-US"><span style="font-style: normal">In
+</span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">July</span></span></font><span lang="en-US"><span style="font-style: normal">
+I was in </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">Sweden</span></span></font><span lang="en-US"><span style="font-style: normal">.</span></span><span lang="en-US"><span style="font-style: normal">)</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Non-locational
+non-temporal example: [cs] </span></span><span lang="cs-CZ"><i>Mluvili
+jsme tam o </i></span><font color="#ff0000"><span lang="cs-CZ"><i>morfologii</i></span></font><span lang="cs-CZ"><i>.</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(We
+talked </span></span><span lang="en-US"><span style="font-style: normal">there</span></span><span lang="en-US"><span style="font-style: normal">
+about </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">morphology</span></span></font><span lang="en-US"><span style="font-style: normal">.)</span></span></p>
+<h3 class="western" style="font-style: normal">Ins: instrumental /
+instructive</h3>
+<p><span lang="en-US"><span style="font-style: normal">The role from
+which the name of the instrumental case is derived is that the noun
+is used as instrument to do something (as in [cs] </span></span><span lang="cs-CZ"><i>psát
+</i></span><font color="#ff0000"><span lang="cs-CZ"><i>perem</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(to
+write </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">using
+a pen</span></span></font><span lang="en-US"><span style="font-style: normal">)).
+Many other meanings are possible, e.g. in Czech the instrumental is
+required by the preposition </span></span><span lang="cs-CZ"><i>s</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(with)
+and thus it includes the meaning expressed in other languages by the
+comitative case.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">In Czech the
+instrumental is also used for the agent-object in passive
+constructions (cf. the English preposition </span></span><span lang="en-US"><i>by</i></span><span lang="en-US"><span style="font-style: normal">).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Passive
+example: [cs] </span></span><span lang="cs-CZ"><i>Tento zákon byl
+schválen </i></span><font color="#ff0000"><span lang="cs-CZ"><i>vládou</i></span></font><span lang="cs-CZ"><i>.</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(This
+bill has been approved </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">by
+the government</span></span></font><span lang="en-US"><span style="font-style: normal">.)</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">A semantically
+similar case called instructive is u</span></span><span lang="en-US"><span style="font-style: normal">sed
+rarely in Finnish to express &ldquo;with (the aid of)&rdquo;. </span></span><span lang="en-US"><span style="font-style: normal">It
+can be applied to infinitives that behave much like nouns in Finnish.
+We currently propose one label for both instrumental and instructive
+(instrumental is not defined in Finnish).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [fi]
+</span></span><span lang="cs-CZ"><i>lähteä</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+to leave; </span></span><span lang="en-US"><i>2003 </i></span><font color="#ff0000"><span lang="cs-CZ"><i>lähtien</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(second
+infinitive in the instructive case: since 2003); </span></span><span lang="cs-CZ"><i>yllättää</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+to surprise; </span></span><span lang="cs-CZ"><i>sekaantui </i></span><font color="#ff0000"><span lang="cs-CZ"><i>yllättäen</i></span></font><span lang="cs-CZ"><i>
+valtataisteluun</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(lit.
+was-involved-in by-surprise.I</span></span><span lang="en-US"><span style="font-style: normal">ns</span></span><span lang="en-US"><span style="font-style: normal">
+power-struggle.I</span></span><span lang="en-US"><span style="font-style: normal">ll</span></span><span lang="en-US"><span style="font-style: normal">).</span></span></p>
+<h3 class="western" style="font-style: normal">Par: partitive</h3>
+<p style="font-style: normal">In Finnish the partitive case expresses
+unknown identity and unfinished actions without result.</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [fi]
+</span></span><span lang="en-US"><i>kolme </i></span><font color="#ff0000"><span lang="en-US"><i>taloa</i></span></font><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(three
+</span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">houses</span></span></font><span lang="en-US"><span style="font-style: normal">;
+the </span></span><span lang="en-US"><i>-a</i></span><span lang="en-US"><span style="font-style: normal">
+suffix of </span></span><span lang="en-US"><i>talo</i></span><span lang="en-US"><span style="font-style: normal">)</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>rakastan tätä </i></span><font color="#ff0000"><span lang="en-US"><i>taloa</i></span></font><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(I
+like this </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">house</span></span></font><span lang="en-US"><span style="font-style: normal">)</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>saanko lainata </i></span><font color="#ff0000"><span lang="en-US"><i>kirjaa</i></span></font><span lang="en-US"><i>?</i></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(can
+I borrow the </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">book</span></span></font><span lang="en-US"><span style="font-style: normal">?;
+the </span></span><span lang="en-US"><i>-a</i></span><span lang="en-US"><span style="font-style: normal">
+suffix of </span></span><span lang="en-US"><i>kirja</i></span><span lang="en-US"><span style="font-style: normal">)</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>lasissa on </i></span><font color="#ff0000"><span lang="en-US"><i>maitoa</i></span></font><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(there
+is (some) </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">milk</span></span></font><span lang="en-US"><span style="font-style: normal">
+in the glass).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples
+comparing partitive with accusative: </span></span><span lang="en-US"><i>ammuin
+karhun</i></span><span lang="en-US"><span style="font-style: normal">
+(I shot a bear.Acc (and I know that it is dead)); </span></span><span lang="en-US"><i>ammuin
+karhua</i></span><span lang="en-US"><span style="font-style: normal">
+(I shot at a bear.Par (but I may have missed)).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Using
+accusative instead of partitive may also substitute the missing
+future tense: </span></span><span lang="en-US"><i>luen kirjan</i></span><span lang="en-US"><span style="font-style: normal">
+(I will read the book.Acc); </span></span><span lang="en-US"><i>luen
+kirjaa</i></span><span lang="en-US"><span style="font-style: normal">
+(I am reading the book.Par).</span></span></p>
+<h3 class="western" style="font-style: normal">Dis: distributive</h3>
+<p style="font-style: normal">The distributive case conveys that
+something happened to every member of a set, one in a time. Or it may
+express frequency.</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [hu]
+</span></span><span lang="cs-CZ"><i>fejenként</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(per
+capita); </span></span><span lang="cs-CZ"><i>esetenként</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(in
+some cases); </span></span><span lang="cs-CZ"><i>hetenként</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(once
+per week, weekly); </span></span><span lang="cs-CZ"><i>tízpercenként</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(every
+ten minutes).</span></span></p>
+<h3 class="western" style="font-style: normal">Ess: essive /
+prolative</h3>
+<p style="font-style: normal">The essive case expresses a temporary
+state, often it corresponds to English &ldquo;as a &hellip;&rdquo; A
+similar case in Basque is called prolative and I suggest to tag it
+&ldquo;Ess&rdquo; too.</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [fi]
+</span></span><span lang="en-US"><i>lapsi</i></span><span lang="en-US"><span style="font-style: normal">
+= child; </span></span><font color="#ff0000"><span lang="en-US"><i>lapsena</i></span></font><span lang="en-US"><span style="font-style: normal">
+= as a child / when he was child; [e</span></span><span lang="en-US"><span style="font-style: normal">t</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="en-US"><i>laps</i></span><span lang="en-US"><span style="font-style: normal">
+= child; </span></span><span lang="en-US"><i>lapsena</i></span><span lang="en-US"><span style="font-style: normal">
+= as a child; [eu] </span></span><span lang="en-US"><i>erreformista</i></span><span lang="en-US"><span style="font-style: normal">
+= reformer; </span></span><font color="#ff0000"><span lang="en-US"><i>erreformistatzat</i></span></font><span lang="en-US"><span style="font-style: normal">
+= as a reformer.</span></span></p>
+<h3 class="western" style="font-style: normal">Tra: translative /
+factive</h3>
+<p style="font-style: normal">The translative case expresses a change
+of state (&ldquo;it becomes X&rdquo;, &ldquo;it changes to X&rdquo;).
+Also used for the phrase &ldquo;in language X&rdquo;. In the Szeged
+Treebank [hu], this case is called factive.</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [fi]
+</span></span><span lang="cs-CZ"><i>pitkä</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+long; </span></span><span lang="cs-CZ"><i>venyi </i></span><font color="#ff0000"><span lang="cs-CZ"><i>pitkäksi</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+he got longer; </span></span><span lang="en-US"><i>englanti</i></span><span lang="en-US"><span style="font-style: normal">
+= English language; </span></span><font color="#ff0000"><span lang="en-US"><i>englanniksi</i></span></font><span lang="en-US"><span style="font-style: normal">
+= in English; </span></span><span lang="en-US"><i>kello kuusi</i></span><span lang="en-US"><span style="font-style: normal">
+= six o'clock; </span></span><span lang="en-US"><i>kello </i></span><font color="#ff0000"><span lang="en-US"><i>kuudeksi</i></span></font><span lang="en-US"><span style="font-style: normal">
+= until six o'clock; [et] </span></span><span lang="en-US"><i>kell
+kuus</i></span><span lang="en-US"><span style="font-style: normal"> =
+six o'clock; </span></span><span lang="en-US"><i>kella </i></span><font color="#ff0000"><span lang="en-US"><i>kuueks</i></span></font><span lang="en-US"><span style="font-style: normal">
+= until six o'clock; [hu] </span></span><span lang="en-US"><i>Oroszlány
+halott </i></span><font color="#ff0000"><span lang="en-US"><i>várossá</i></span></font><span lang="en-US"><i>
+válhat.</i></span><span lang="en-US"><span style="font-style: normal">
+= lit. Oroszlány dead city.</span></span><span lang="en-US"><span style="font-style: normal">Tra</span></span><span lang="en-US"><span style="font-style: normal">
+could-become. = Oroszlány could become a dead city.</span></span></p>
+<h3 class="western" style="font-style: normal">Com: comitative /
+associative</h3>
+<p style="font-style: normal">The comitative (also called
+associative) case corresponds to English &ldquo;together with &hellip;&rdquo;</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">et</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="en-US"><i>koer</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">dog</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="en-US"><i>koeraga</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">with
+dog</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Abe: abessive</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">abessive</span></span><span lang="en-US"><span style="font-style: normal">
+case corresponds to </span></span><span lang="en-US"><span style="font-style: normal">the
+English preposition </span></span><span lang="en-US"><i>without</i></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">fi</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="en-US"><i>raha</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">money</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="en-US"><i>rahatta</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">with</span></span><span lang="en-US"><span style="font-style: normal">out
+money</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Ine: inessive</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">inessive
+case expresses location inside of something.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>ház</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">house</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>házban</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">in
+the house; [fi] </span></span><span lang="en-US"><i>talo</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>talossa</i></span></font><span lang="en-US"><span style="font-style: normal">
+= in the house; [et] </span></span><span lang="en-US"><i>maja</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>majas</i></span></font><span lang="en-US"><span style="font-style: normal">
+= in the house.</span></span></p>
+<h3 class="western" style="font-style: normal">Ill: illative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">il</span></span><span lang="en-US"><span style="font-style: normal">lative</span></span><span lang="en-US"><span style="font-style: normal">
+case expresses </span></span><span lang="en-US"><span style="font-style: normal">direction
+</span></span><span lang="en-US"><span style="font-style: normal">into</span></span><span lang="en-US"><span style="font-style: normal">
+something.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>ház</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">house</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>házb</i></span></font><font color="#ff0000"><span lang="en-US"><i>a</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+the house; [fi] </span></span><span lang="en-US"><i>talo</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>talo</i></span></font><font color="#ff0000"><span lang="en-US"><i>on</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+the house; [et] </span></span><span lang="en-US"><i>maja</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>majas</i></span></font><font color="#ff0000"><span lang="en-US"><i>se
+/ majja</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+the house.</span></span></p>
+<h3 class="western" style="font-style: normal">Ela: elative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">elative</span></span><span lang="en-US"><span style="font-style: normal">
+case expresses </span></span><span lang="en-US"><span style="font-style: normal">direction
+out</span></span><span lang="en-US"><span style="font-style: normal">
+of something.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>ház</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">house</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>házból</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">from</span></span><span lang="en-US"><span style="font-style: normal">
+the house; [fi] </span></span><span lang="en-US"><i>talo</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>talos</i></span></font><font color="#ff0000"><span lang="en-US"><i>t</i></span></font><font color="#ff0000"><span lang="en-US"><i>a</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">from</span></span><span lang="en-US"><span style="font-style: normal">
+the house; [et] </span></span><span lang="en-US"><i>maja</i></span><span lang="en-US"><span style="font-style: normal">
+= house; </span></span><font color="#ff0000"><span lang="en-US"><i>majas</i></span></font><font color="#ff0000"><span lang="en-US"><i>t</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">from</span></span><span lang="en-US"><span style="font-style: normal">
+the house.</span></span></p>
+<h3 class="western" style="font-style: normal">Add: additive</h3>
+<p style="font-style: normal">Distinguished by some scholars in
+Estonian, not recognized by traditional grammar, exists in the
+Multext-East Estonian tagset and in the Eesti keele puudepank.
+Reportedly same or similar meaning as illative. Forms of this case
+exist only in singular and not for all nouns.</p>
+<h3 class="western" style="font-style: normal">Ade: adessive</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">ad</span></span><span lang="en-US"><span style="font-style: normal">essive
+case expresses location </span></span><span lang="en-US"><span style="font-style: normal">at
+or by</span></span><span lang="en-US"><span style="font-style: normal">
+something </span></span><span lang="en-US"><span style="font-style: normal">(not
+inside and not on the surface of it)</span></span><span lang="en-US"><span style="font-style: normal">.
+</span></span><span lang="en-US"><span style="font-style: normal">The
+corresponding directional cases are allative (towards something) and
+ablative (from something).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>pénztár</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">cash
+desk</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>pénztárnál</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">at
+the cash desk</span></span><span lang="en-US"><span style="font-style: normal">;
+[fi] </span></span><span lang="cs-CZ"><i>pöytä</i></span><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>pöydällä</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">at</span></span><span lang="en-US"><span style="font-style: normal">
+the table</span></span><span lang="en-US"><span style="font-style: normal">;
+[et] </span></span><span lang="en-US"><i>laud</i></span><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="en-US"><i>laual</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">at</span></span><span lang="en-US"><span style="font-style: normal">
+the table</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">All: allative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="en-US"><span style="font-style: normal">allat</span></span><span lang="en-US"><span style="font-style: normal">ive
+case expresses </span></span><span lang="en-US"><span style="font-style: normal">direction</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+something </span></span><span lang="en-US"><span style="font-style: normal">(destination
+is adessive, i.e. at or by that something, not on or inside of it)</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>pénztár</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">cash
+desk</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>pénztár</i></span></font><font color="#ff0000"><span lang="en-US"><i>hoz</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+the cash desk</span></span><span lang="en-US"><span style="font-style: normal">;</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">[fi]
+</span></span><span lang="cs-CZ"><i>pöytä</i></span><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>pöydäll</i></span></font><font color="#ff0000"><span lang="en-US"><i>e</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">to</span></span><span lang="en-US"><span style="font-style: normal">
+the table</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Abl: ablative</h3>
+<p style="font-style: normal">Prototypical meaning: direction from
+some point.</p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [hu]</span></span><span lang="en-US"><span style="font-style: normal">
+a </span></span><font color="#ff0000"><span lang="en-US"><i>barátomtól</i></span></font><span lang="en-US"><span style="font-style: normal">
+jövök </span></span><span lang="en-US"><span style="font-style: normal">(I'm
+coming </span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">from
+my friend</span></span></font><span lang="en-US"><span style="font-style: normal">);</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">[fi]</span></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><i>pöydältä</i></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(from
+the table)</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>katolta</i></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(from
+the roof)</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>rannalta</i></span><span lang="en-US"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(from
+the beach)</span></span></p>
+<h3 class="western" style="font-style: normal">Sup: superessive</h3>
+<p><span lang="en-US"><span style="font-style: normal">U</span></span><span lang="en-US"><span style="font-style: normal">sed,
+chiefly </span></span><a href="http://www.hungarianreference.com/Nouns/-n-superessive.aspx">in
+Hungarian</a><span lang="en-US"><span style="font-style: normal">, </span></span><span style="font-style: normal">to
+indicate location on top of something or on the surface of something.</span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: </span></span><span lang="en-US"><span style="font-style: normal">[</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="en-US"><i>asztal</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="en-US"><i>asztalon</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">on
+the table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="cs-CZ"><i>könyvek</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+books; </span></span><font color="#ff0000"><span lang="cs-CZ"><i>könyveken</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+on books.</span></span></p>
+<h3 class="western" style="font-style: normal"><span lang="cs-CZ">Sub</span>:
+<span lang="cs-CZ">sub</span>lative</h3>
+<p><span lang="en-US"><span style="font-style: normal">The </span></span><span lang="cs-CZ"><span style="font-style: normal">sub</span></span><span lang="en-US"><span style="font-style: normal">lat</span></span><span lang="en-US"><span style="font-style: normal">ive
+case </span></span><span lang="en-US"><span style="font-style: normal">is
+used in Finno-Ugric languages to express the destination of movement,
+originally to the surface of something (e.g. &ldquo;to climb a
+tree&rdquo;), and, by extension, in other figurative meanings as well
+(e.g. &ldquo;to university&rdquo;).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: </span></span><span lang="en-US"><span style="font-style: normal">[</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="cs-CZ"><i>Belgrádtól 150 </i></span><font color="#ff0000"><span lang="cs-CZ"><i>kilométerre
+délnyugatra</i></span></font><span lang="en-US"><span style="font-style: normal">
+= </span></span><span lang="en-US"><span style="font-style: normal">lit</span></span><span lang="en-US"><span style="font-style: normal">.
+</span></span><span lang="en-US"><span style="font-style: normal">Belgrade.Abl
+150 kilometer.Sub southwest.Sub = 150 kilometers southwest of
+Belgrade; </span></span><span lang="cs-CZ"><i>hajó</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+ship; </span></span><font color="#ff0000"><span lang="cs-CZ"><i>hajóra</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+onto the ship; </span></span><font color="#ff0000"><span lang="cs-CZ"><i>bokorra</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+on the shrub.</span></span></p>
+<h3 class="western" style="font-style: normal">Del: delative</h3>
+<p><span lang="en-US"><span style="font-style: normal">U</span></span><span lang="en-US"><span style="font-style: normal">sed,
+chiefly </span></span><a href="http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx">in
+Hungarian</a><span lang="en-US"><span style="font-style: normal">,</span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+to express the movement from the surface of something (like &ldquo;moved
+off the table&rdquo;). </span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Other
+meanings are possible as well, e.g. &ldquo;about something&rdquo;.</span></span></span></p>
+<p><span lang="en-US"><span style="font-style: normal">Examples: </span></span><span lang="en-US"><span style="font-style: normal">[</span></span><span lang="en-US"><span style="font-style: normal">hu</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><span lang="en-US"><i>asztal</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><span lang="en-US"><i>az </i></span><font color="#ff0000"><span lang="en-US"><i>asztal</i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>ról</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">=
+</span></span><span lang="en-US"><span style="font-style: normal">off</span></span><span lang="en-US"><span style="font-style: normal">
+the table</span></span><span lang="en-US"><span style="font-style: normal">;
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>Budapestről</i></span></font><span lang="cs-CZ"><i>
+vagyok</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">= </span></span><span lang="en-US"><span style="font-style: normal">I
+am/come from Budapest</span></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Lat: lative /
+directional allative</h3>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">The
+lative case d</span><span style="background: transparent">enotes
+movement towards/to/into/onto something. Similar case in Basque is
+called directional allative (Spanish </span><em><span style="background: transparent">adlativo
+direccional</span></em><span style="background: transparent">).
+However, lative is typically thought of as a union of allative,
+illative and sublative, while in Basque it is derived from allative,
+which also exists independently.</span></span></p>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">Examples:
+[eu]</span><span style="background: transparent"> </span><i><span style="background: transparent">behe</span></i><span style="background: transparent">
+= low; </span><font color="#ff0000"><i><span style="background: transparent">beherantz</span></i></font><span style="background: transparent">
+= down.</span></span></p>
+<h3 class="western" style="font-style: normal">Tem: temporal</h3>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">The
+</span><span style="background: transparent">temporal</span><span style="background: transparent">
+case </span><span style="background: transparent">is used to indicate
+time.</span></span></p>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">Examples:
+[</span><span style="background: transparent">h</span><span style="background: transparent">u]</span><span style="background: transparent">
+</span><span lang="cs-CZ"><i><span style="background: transparent">hétkor</span></i></span><span style="background: transparent">
+= </span><span style="background: transparent">at seven (o'clock)</span><span style="background: transparent">;
+</span><span lang="cs-CZ"><i><span style="background: transparent">éjfélkor</span></i></span><span lang="cs-CZ"><span style="background: transparent">
+</span></span><span style="background: transparent">= at midnight;
+</span><span lang="cs-CZ"><i><span style="background: transparent">karácsonykor</span></i></span><span lang="cs-CZ"><span style="background: transparent">
+</span></span><span style="background: transparent">= at Christmas.</span></span></p>
+<h3 class="western" style="font-style: normal">Ter: terminative /
+terminal allative</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">The
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">te</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">rminative
+case specifies where something ends in space or time. </span></span></span><span style="background: transparent">Similar
+case in Basque is called terminal allative (Spanish </span><em><span style="background: transparent">adlativo
+terminal</span></em><span style="background: transparent">). </span>
+</p>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">Examples:
+[</span><span style="background: transparent">et</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><font color="#ff0000"><i><span style="background: transparent">j&otilde;eni</span></i></font><span style="background: transparent">
+= down to the river; </span><i><span style="background: transparent">kella
+</span></i><font color="#ff0000"><i><span style="background: transparent">kuueni</span></i></font><span style="background: transparent">
+= till six o'clock; [hu] </span><i><span style="background: transparent">a
+</span></i><font color="#ff0000"><i><span style="background: transparent">házig</span></i></font><span style="background: transparent">
+= up to the house; </span><i><span style="background: transparent">hat
+</span></i><font color="#ff0000"><i><span style="background: transparent">óráig</span></i></font><span style="background: transparent">
+= till six o'clock; [eu] </span><i><span style="background: transparent">erdi</span></i><span style="background: transparent">
+= half; </span><font color="#ff0000"><i><span style="background: transparent">erdiraino</span></i></font><span style="background: transparent">
+= up to the half.</span></span></p>
+<h3 class="western" style="font-style: normal">Cau: causative /
+motivative</h3>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">N</span><span style="background: transparent">oun
+in this case is the cause of something. </span><span style="background: transparent">In
+Hungarian it also seems to be used frequently with currency (&ldquo;to
+buy something </span><i><span style="background: transparent">for</span></i><span style="background: transparent">
+the money?&rdquo;)</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:
+[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">h</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">u]</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><i><span style="background: transparent">Egy
+világcég benzinkútjánál 7183 </span></i><font color="#ff0000"><i><span style="background: transparent">forintért</span></i></font><i><span style="background: transparent">
+tankoltam.</span></i><span style="background: transparent"> </span><span style="background: transparent">[eu]</span><span style="background: transparent">
+</span><i><span style="background: transparent">jokaera</span></i><span style="background: transparent">
+= behavior; </span><font color="#ff0000"><i><span style="background: transparent">jokaeragatik</span></i></font><span style="background: transparent">
+= because of behavior.</span></p>
+<h3 class="western" style="font-style: normal">Ben: benefactive /
+destinative</h3>
+<p style="font-style: normal"><span style="background: #ffff00"><span style="background: transparent">T</span><span style="background: transparent">he
+benefactive case corresponds to the English preposition </span><i><span style="background: transparent">for</span></i><span style="background: transparent">.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[eu]</span><span style="background: transparent">
+</span><i><span style="background: transparent">mutil</span></i><span style="background: transparent">
+= </span><span style="background: transparent">boy</span><span style="background: transparent">;
+</span><font color="#ff0000"><i><span style="background: transparent">mutilarentzat</span></i></font><span style="background: transparent">
+= </span><span style="background: transparent">for boys</span><span style="background: transparent">.</span></p>
+<h2 class="western">PrepCase</h2>
+<p style="font-style: normal">Personal pronouns in some languages
+have different forms depending on whether they are objects of
+prepositions or not. For instance, Czech <span lang="cs-CZ"><i>on</i></span>
+(he) without prepositions has the forms <i>jemu</i>/DAT, <i>jeho</i>/ACC,
+<i>jím</i>/INS, while with a preposition it is <i>němu</i>/DAT,
+<i>něho</i>/ACC, <i>ním</i>/INS. Similarly, Portuguese pronouns in
+prepositional oblique case take forms different from oblique pronouns
+serving as direct objects of verbs: <i>eu</i>/NOM (I), <i>me</i>/ACC
+(give me that), <i>mim</i>/PREP-ACC (come to me).</p>
+<p>Default empty value means that the word form is neutral w.r.t.
+prepositions.</p>
+<h3 class="western" style="font-style: normal">Npr: non-prepositional
+case</h3>
+<p style="font-style: normal"><span style="background: transparent">This
+word form must not be used after a preposition.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[</span><span style="background: transparent">cs</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><font color="#ff0000"><i><span style="background: transparent">jemu</span></i></font><span style="background: transparent">
+= </span><span style="background: transparent">him (dative)</span><span style="background: transparent">.</span></p>
+<h3 class="western" style="font-style: normal">Pre: prepositional
+case</h3>
+<p style="font-style: normal"><span style="background: transparent">This
+word form must be used after a preposition.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[</span><span style="background: transparent">cs</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><span lang="cs-CZ"><i><span style="background: transparent">k
+</span></i></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">ně</span></i></span></font><font color="#ff0000"><i><span style="background: transparent">mu</span></i></font><span style="background: transparent">
+= </span><span lang="cs-CZ"><span style="background: transparent">to
+</span></span><span style="background: transparent">him (dative)</span><span style="background: transparent">.</span></p>
+<h2 class="western">Definiteness</h2>
+<p lang="cs-CZ"><span style="background: transparent">Definiteness <span lang="en-US">is
+typically a feature of nouns, adjectives and articles. Its value
+distinguishes whether we are talking about something known and
+concrete, or something general or unknown. It can be marked on
+definite and indefinite articles, or directly on nouns, adjectives
+etc. </span><span lang="en-US">In Arabic, definiteness is also called
+the &ldquo;state&rdquo;.</span></span></p>
+<h3 class="western" style="font-style: normal">Ind: indefinite</h3>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">en</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><font color="#ff0000"><span lang="en-US"><i>a</i></span></font><span lang="en-US"><i>
+dog</i></span></p>
+<h3 class="western" style="font-style: normal">Def: definite</h3>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [</span></span><span lang="en-US"><span style="font-style: normal">en</span></span><span lang="en-US"><span style="font-style: normal">]
+</span></span><font color="#ff0000"><span lang="en-US"><i>the</i></span></font><span lang="en-US"><i>
+dog</i></span></p>
+<h3 class="western" style="font-style: normal">Red: reduced</h3>
+<p><span lang="en-US"><span style="font-style: normal">U</span></span><span lang="en-US"><span style="font-style: normal">sed
+in </span></span><a href="http://en.wikipedia.org/wiki/Status_constructus">construct
+state</a><span lang="en-US"><span style="font-style: normal"> in
+Arabic. If two nouns are in genitive relation, the first one (the
+&ldquo;nomen regens&rdquo;) has &ldquo;reduced definiteness,&rdquo;
+the second is the genitive and can be either definite or indefinite.
+Reduced form has neither the definite morpheme (article), nor the
+indefinite morpheme (nunation).</span></span></p>
+<p><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">Examples</span></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">:
+</span></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">[ar]</span></span></font><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+indefinite state: </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1581;&#1604;&#1608;&#1614;&#1577;&#1612;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">&#7717;ulwatun</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;a sweet&rdquo;; definite state: </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1575;&#1604;&#1581;&#1604;&#1608;&#1614;&#1577;&#1615;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">al-&#7717;ulwatu</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;the sweet&rdquo;; </span></span></font><font face="Mangal"><span lang="hi-IN"><font color="#ff0000"><font face="Times New Roman, serif"><span style="font-style: normal">&#1581;&#1604;&#1608;&#1614;&#1577;&#1615;
+</span></font></font></span></font><em><font color="#ff0000"><font face="Times New Roman, serif"><span lang="en-US">&#7717;ulwatu</span></font></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;sweet of&rdquo;.</span></span></font></p>
+<h3 class="western" style="font-style: normal">Com: complex</h3>
+<p><span lang="en-US"><span style="font-style: normal">Used in
+</span></span><a href="http://books.google.cz/books?id=rs3hzfgj3hoC&amp;pg=PA131&amp;lpg=PA131&amp;dq=arabic+improper+annexation&amp;source=bl&amp;ots=d6gGCpprOX&amp;sig=3G6YkRZsIy_EL0OCEh7_V7qqnlE&amp;hl=cs&amp;ei=ZasDTuLhGc_vsgaLlcyeDg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CB4Q6AEwAQ#v=onepage&amp;q=arabic%20improper%20annexation&amp;f=false">improper
+annexation</a><span lang="en-US"><span style="font-style: normal"> in
+Arabic. The genitive construction described above normally consists
+of two nouns (first reduced, second genitive). That is called proper
+annexation or i&#7693;&#257;fa. If the first member is an adjective
+or adjectivally used participle and the second member is a definite
+noun, the construction is called improper annexation or false i&#7693;&#257;fa.
+The result is a compound adjective that is usually used as an
+attributive adjunct and thus must agree in definiteness with the noun
+it modifies. Its first part (the adjective or participle) may get
+again the definite article. Although it may look the same as the form
+for the definite state, it is assigned a special value of </span></span><em><span lang="en-US">complex</span></em><span lang="en-US"><span style="font-style: normal">
+state to reflect the different origin. See also </span></span><a href="http://ufal.mff.cuni.cz/padt/PADT_1.0/docs/papers/2004-nemlar-padt.pdf">Hajič
+et al.</a><span lang="en-US"><span style="font-style: normal"> page
+3.</span></span></p>
+<p><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">Examples:
+[ar] </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1605;&#1615;&#1582;&#1618;&#1578;&#1614;&#1604;&#1616;&#1601;&#1612;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">muxtalifun</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;different/various&rdquo; (active participle, Form VIII);
+</span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1606;&#1614;&#1608;&#1618;&#1593;&#1612;
+&#1580; &#1571;&#1606;&#1618;&#1608;&#1614;&#1575;&#1593;&#1612;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">naw&#704;un
+ja anw&#257;&#704;un</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;kind&rdquo;; </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1605;&#1615;&#1582;&#1618;&#1578;&#1614;&#1604;&#1616;&#1601;&#1615;
+&#1575;&#1604;&#1571;&#1606;&#1618;&#1608;&#1614;&#1575;&#1593;&#1616;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">muxtalifu
+al-anw&#257;&#704;i</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;of various kinds&rdquo; (false i&#7693;&#257;fa); </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1605;&#1614;&#1588;&#1614;&#1575;&#1603;&#1616;&#1604;&#1615;
+&#1605;&#1615;&#1582;&#1618;&#1578;&#1614;&#1604;&#1616;&#1601;&#1614;&#1577;&#1615;
+&#1575;&#1604;&#1571;&#1606;&#1618;&#1608;&#1614;&#1575;&#1593;&#1616;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">maš&#257;kilu
+muxtalifatu al-anw&#257;&#704;i</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;problems of various kinds&rdquo;; </span></span></font><font face="Mangal"><span lang="hi-IN"><font face="Times New Roman, serif"><span style="font-style: normal">&#1575;&#1614;&#1604;&#1618;&#1605;&#1614;&#1588;&#1614;&#1575;&#1603;&#1616;&#1604;&#1615;
+</span></font><font color="#ff0000"><font face="Times New Roman, serif"><span style="font-style: normal">&#1575;&#1604;&#1618;&#1605;&#1615;&#1582;&#1618;&#1578;&#1614;&#1604;&#1616;&#1601;&#1614;&#1577;&#1615;</span></font></font><font face="Times New Roman, serif"><span style="font-style: normal">
+&#1575;&#1604;&#1571;&#1606;&#1618;&#1608;&#1614;&#1575;&#1593;&#1616;
+</span></font></span></font><em><font face="Times New Roman, serif"><span lang="en-US">al-maš&#257;kilu
+</span></font></em><em><font color="#ff0000"><font face="Times New Roman, serif"><span lang="en-US">al-muxtalifatu</span></font></font></em><em><font face="Times New Roman, serif"><span lang="en-US">
+al-anw&#257;&#704;i</span></font></em><font face="Times New Roman, serif"><span lang="en-US"><span style="font-style: normal">
+&ldquo;the problems of various kinds&rdquo;.</span></span></font></p>
+<h2 class="western">Negativeness</h2>
+<p><span lang="en-US">N</span><span lang="en-US">egativeness is
+typically a feature of verbs, adjectives, sometimes also adverbs and
+nouns in languages that negate using bound morphemes. For instance,
+all Czech verbs and adjectives can be negated using the prefix </span><span lang="cs-CZ"><i>ne-</i></span><span lang="cs-CZ"><span style="font-style: normal">.
+</span></span><span lang="en-US"><span style="font-style: normal">In
+English, verbs are negated using the particle (adverb?) </span></span><span lang="en-US"><i>not</i></span><span lang="en-US"><span style="font-style: normal">
+and adjectives are also negated using prefixes, although the process
+is less productive than in Czech </span></span><span lang="en-US"><i>(wise
+&ndash; unwise, probable &ndash; improbable)</i></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<p style="font-style: normal">Note that Negativeness=Neg is not the
+same thing as PronType=Neg. For pronouns and other pronominal parts
+of speech there is no such binary opposition as for verbs and
+adjectives. (There is no such thing as &ldquo;affirmative pronoun&rdquo;.)</p>
+<p><span lang="en-US"><span style="font-style: normal">The
+negativeness feature could be also used to distinguish response
+particles </span></span><span lang="en-US"><i>yes</i></span><span lang="en-US"><span style="font-style: normal">
+and </span></span><span lang="en-US"><i>no</i></span><span lang="en-US"><span style="font-style: normal">.</span></span></p>
+<h3 class="western" style="font-style: normal">Pos: positive,
+affirmative</h3>
+<p><span lang="en-US"><span style="font-style: normal">E</span></span><span lang="en-US"><span style="font-style: normal">xamples:
+[cs] </span></span><font color="#ff0000"><span lang="cs-CZ"><i>přišel</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(he
+came)</span></span></p>
+<h3 class="western" style="font-style: normal">Neg: negative</h3>
+<p><span lang="en-US"><span style="font-style: normal">Examples: [cs]
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i>nepřišel</i></span></font><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(he
+</span></span><span lang="cs-CZ"><span style="font-style: normal">did
+not </span></span><span lang="en-US"><span style="font-style: normal">c</span></span><span lang="en-US"><span style="font-style: normal">o</span></span><span lang="en-US"><span style="font-style: normal">me)</span></span></p>
+<h2 class="western">Degree</h2>
+<p style="font-style: normal"><span style="background: transparent">Degree
+of comparison is typically an inflectional feature of some adjectives
+and adverbs.</span></p>
+<h3 class="western" style="font-style: normal">Pos: positive, first
+degree</h3>
+<p style="font-style: normal"><span style="background: transparent">This
+is the base form that merely states a quality of something, without
+comparing it to qualities of others. Note that although this degree
+is traditionally called &ldquo;positive&rdquo;, negative properties
+can be compared, too.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[en] </span><font color="#ff0000"><i><span style="background: transparent">young</span></i></font><i><span style="background: transparent">
+man</span></i><span style="font-style: normal"><span style="background: transparent">,
+</span></span><span style="background: transparent">[</span><span style="background: transparent">cs</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">mladý</span></i></span></font><span lang="cs-CZ"><i><span style="background: transparent">
+muž</span></i></span></p>
+<h3 class="western" style="font-style: normal">Cmp: comparative,
+second degree</h3>
+<p style="font-style: normal"><span style="background: transparent">The
+quality of one object is compared to the same quality of another
+object.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[en] </span><i><span style="background: transparent">the
+man is </span></i><font color="#ff0000"><i><span style="background: transparent">younger</span></i></font><i><span style="background: transparent">
+than me</span></i><span style="font-style: normal"><span style="background: transparent">,
+</span></span><span style="background: transparent">[</span><span style="background: transparent">cs</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><span lang="cs-CZ"><i><span style="background: transparent">ten
+muž je </span></i></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">mladší</span></i></span></font><span lang="cs-CZ"><i><span style="background: transparent">
+než já</span></i></span></p>
+<h3 class="western" style="font-style: normal">Sup: superlative,
+third degree</h3>
+<p style="font-style: normal"><span style="background: transparent">The
+quality of one object is compared to the same quality of all other
+objects within a set.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[en] </span><i><span style="background: transparent">this
+is the </span></i><font color="#ff0000"><i><span style="background: transparent">youngest</span></i></font><i><span style="background: transparent">
+man in our team</span></i><span style="font-style: normal"><span style="background: transparent">,
+</span></span><span style="background: transparent">[</span><span style="background: transparent">cs</span><span style="background: transparent">]</span><span style="background: transparent">
+</span><span lang="cs-CZ"><i><span style="background: transparent">toto
+je </span></i></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">nejmladší</span></i></span></font><span lang="cs-CZ"><i><span style="background: transparent">
+muž v našem týmu</span></i></span></p>
+<h3 class="western" style="font-style: normal">Abs: absolute
+superlative</h3>
+<p style="font-style: normal"><span style="background: transparent">Some
+languages can express morphologically that the studied quality of the
+given object is so strong that there is hardly any other object
+exceeding it. The quality is not actually compared to any particular
+set of objects.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span style="background: transparent">
+</span><span style="background: transparent">[e</span><span style="background: transparent">s</span><span style="background: transparent">]
+</span><i><span style="background: transparent">guapo</span></i><span style="font-style: normal"><span style="background: transparent">
+= handsome</span></span><span style="font-style: normal"><span style="background: transparent">,
+</span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">guapísimo</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+indescribably handsome</span></span></span></p>
+<h2 lang="cs-CZ" class="western">Person</h2>
+<p style="font-style: normal"><span style="background: transparent">Person
+is typically feature of personal and possessive pronouns, and of
+verbs. On verbs it is in fact an agreement feature that marks the
+person of the verb's subject (some languages, e.g. Basque, can also
+mark person of objects). Person marked on verbs makes it unnecessary
+to always add a personal pronoun as subject and thus subjects are
+sometimes dropped (pro-drop languages).</span></p>
+<p style="font-style: normal"><span style="background: transparent">The
+&ldquo;Person&rdquo; feature may interact with the feature of
+politeness, see there.</span></p>
+<h3 class="western" style="font-style: normal">1: first person</h3>
+<p style="font-style: normal"><span style="background: transparent">In
+singular, the first person refers just to the speaker / author. In
+plural, it must include the speaker and one or more additional
+persons. Some languages (e.g. Taiwanese) distinguish inclusive and
+exclusive 1<sup>st</sup> person plural pronouns: the former include
+the addressee of the utterance (i.e. <i>I + you</i>), the latter
+exclude them (i.e. <i>I + they</i>).</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[en]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">I</span></i></span></font><span lang="en-US"><i><span style="background: transparent">,
+</span></i></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">we</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+[cs] </span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">dělám</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">I</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+do)</span></span></span></p>
+<h3 class="western" style="font-style: normal">2: second person</h3>
+<p style="font-style: normal"><span style="background: transparent">In
+singular, the second person refers to the addressee of the utterance
+/ text. In plural, it may mean several addressees and optionally some
+third persons too.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[en]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">you</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+[cs] </span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">dělá</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">š</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">you</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+do)</span></span></span></p>
+<h3 class="western" style="font-style: normal">3: third person</h3>
+<p style="font-style: normal"><span style="background: transparent">The
+third person refers to one or more persons that are neither speakers
+nor addressees.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[en]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">he</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">,
+</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">she</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">,
+</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">it</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">,
+</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">they</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+[cs] </span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">dělá</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#ff0000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">he/she/it</span></span></span></font><font color="#ff0000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+do</span></span></span></font><font color="#ff0000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">es</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">)</span></span></span></p>
+<h2 class="western">Politeness</h2>
+<p style="font-style: normal"><span style="background: transparent">Various
+languages have various means to express politeness or respect; some
+of the means are morphological.</span></p>
+<p style="font-style: normal"><span style="background: transparent">In
+quite a few languages the polite mode involves changing pronoun,
+person or number when addressing or talking about a respectable
+person. In Czech, 2<sup>nd</sup> person plural is used instead of
+singular; this involves both the pronoun and the finite verb but not
+a participle, which remains in singular. In this case, different
+words are selected but all of them also exist in the informal mode.
+The change is that morphological plural may now be either semantic
+singular or plural.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">In
+German, Spanish or Hindi, both number and person are changed
+(morphological 3</span></span></span><sup><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">rd</span></span></span></sup><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+person is used as semantic 2</span></span></span><sup><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">nd</span></span></span></sup><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+person) and in addition, special pronouns are used that do not appear
+in the informal register ([de] </span></span></span><span lang="en-US"><i><span style="background: transparent">Sie</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+[es] </span></span></span><span lang="en-US"><i><span style="background: transparent">usted,
+ustedes</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+[hi] </span></span></span><font face="Mangal"><span lang="hi-IN"><font face="Code2000">&#2310;&#2346;</font><span style="background: transparent"><span style="font-style: normal">
+</span></span></span></font><span lang="en-US"><i><span style="background: transparent">&#257;pa</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">).</span></span></span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">I</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">n
+Japanese, </span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">verbs
+and other words have polite and informal forms but</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+the polite register is not restricted to addressing people.</span></span></span></p>
+<h3 class="western" style="font-style: normal">Inf: informal register</h3>
+<p style="font-style: normal"><span style="background: transparent">Usage
+varies but if the language distinguishes levels of politeness, then
+the informal register is usually meant for communication with family
+members and close friends.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">ty
+</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">jdeš
+</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">/
+vy </span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">jdete</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">you
+go.Sing/Plur</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[de]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">du
+</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">gehst
+</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">/
+ihr </span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">geht</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(you go.Sing/Plur); [es] </span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">tú
+vas / vosotros vais</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(you
+go.Sing/Plur); </span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[ja]
+</span></span></span><font face="SimSun">&lt;FONT SIZE=2 STYLE="font-size: 10pt"&gt;<span lang="zh-CN"><font color="#ff0000"><span style="background: transparent"><span style="font-style: normal">&#34892;&#12363;&#12394;&#12356;
+</span></span></font></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">ikanai</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">will
+not go</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">)</span></span></span><span lang="en-US"><i><span style="background: transparent">.</span></i></span></p>
+<h3 class="western" style="font-style: normal">Pol: polite register</h3>
+<p style="font-style: normal"><span style="background: transparent">Usage
+varies but if the language distinguishes levels of politeness, then
+the polite register is usually meant for communication with strangers
+and people of higher social status than the one of the speaker.</span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">vy
+</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">jdete</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">you
+go.Sing/Plur</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[de]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">Sie
+</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">gehen</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(you go.Sing/Plur); [es] </span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">usted
+</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">va
+/ ustedes van</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(you
+go.Sing/Plur); </span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[ja]
+</span></span></span><font face="SimSun">&lt;FONT SIZE=2 STYLE="font-size: 10pt"&gt;<span lang="zh-CN"><font color="#ff0000"><span style="background: transparent"><span style="font-style: normal">&#34892;&#12365;&#12414;&#12379;&#12435;
+</span></span></font></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">ikimasen</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">will
+not go</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">).</span></span></span></p>
+<h2 class="western">PossGender</h2>
+<p style="font-style: normal"><span style="background: transparent">Possessive
+adjectives and pronouns may have two different genders: that of the
+possessed object (gender agreement with modified noun) and that of
+the possessor (lexical feature, inherent gender). The PossGender
+feature captures the possessor's gender. For simplicity, the set of
+possible values is identical to Gender, although only a subset has
+been observed in corpora so far.</span></p>
+<p style="font-style: normal"><span style="background: transparent">In
+the Czech examples below, the masculine PossGender implies using one
+of the suffixes <i>-</i><span lang="cs-CZ"><i>ův, -ova, -ovo,</i></span><span lang="cs-CZ">
+</span>and the feminine PossGender implies using one of <i>-</i><span lang="cs-CZ"><i>in,
+-ina, -ino</i></span><span lang="cs-CZ">.</span></span></p>
+<h3 class="western" style="font-style: normal">Masc: masculine
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">otcův
+syn</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">father's
+son; PossGender=Masc|Gender=Masc</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">otcova
+dcera</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">father's
+daughter; PossGender=Masc|Gender=Fem</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">otcovo
+dítě</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">father's
+child; PossGender=Masc|Gender=Neut</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">)</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.</span></span></span></p>
+<h3 class="western" style="font-style: normal">Fem: feminine
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">m</span></i></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">atčin
+syn</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">mother</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">'s
+son; PossGender=Fem|Gender=Masc</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">matčina
+dcera</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">mother</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">'s
+daughter; PossGender=Fem|Gender=Fem</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">);
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">matčino
+dítě</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">mother</span></span></span><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">'s
+child; PossGender=Fem|Gender=Neut</span></span></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">)</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.</span></span></span></p>
+<h2 class="western">PossNumber</h2>
+<p style="font-style: normal"><span style="background: transparent">Possessives
+may have two different numbers: that of the possessed object (number
+agreement with modified noun) and that of the possessor. The
+PossNumber feature captures the possessor's number. For simplicity,
+the set of possible values is identical to Number, although only a
+subset has been observed in corpora so far.</span></p>
+<h3 class="western" style="font-style: normal">Sing: singular
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">en</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">my,
+his</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">,
+her, its</span></i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">můj</span></i></span></font><font color="#000000"><span lang="cs-CZ"><i><span style="background: transparent">
+pes</span></i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(my
+dog; PossNumber=Sing|Number=Sing); </span></span></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">mí</span></i></span></font><font color="#000000"><span lang="cs-CZ"><i><span style="background: transparent">
+psi</span></i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(my
+dogs; PossNumber=Sing|Number=Plur).</span></span></span></font></p>
+<h3 class="western" style="font-style: normal">Plur: plural possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">en</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">our,
+t</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">heir</span></i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[cs]
+</span></span></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">náš</span></i></span></font><font color="#000000"><span lang="cs-CZ"><i><span style="background: transparent">
+pes</span></i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(our
+dog; PossNumber=Plur|Number=Sing); </span></span></span></font><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">naši</span></i></span></font><font color="#000000"><span lang="cs-CZ"><i><span style="background: transparent">
+psi</span></i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">(our
+dogs; PossNumber=Plur|Number=Plur).</span></span></span></font></p>
+<h2 class="western">PossedNumber</h2>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">PossedNumber
+is the possessee's (possessed, owned noun phrase's) number. </span></span></span>In
+Hungarian, possession can be marked on the possessor or on the
+possessed. It is possible, though rare, that a noun has three
+distinct number features: its own grammatical number, number of its
+possessor and number of its possession. Examples from the
+Multext-East Hungarian lexicon:</p>
+<ul>
+	<li><p style="margin-bottom: 0cm"><i>könnyedén</i> (SSS)</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><i>könny</i> = a tear (singular)</p>
+		<li><p style="margin-bottom: 0cm"><i>könnyed</i> = your tear
+		(singular owner)</p>
+		<li><p style="margin-bottom: 0cm"><i>könnyedé</i> = (possession) of
+		your tear (singular possession)</p>
+		<li><p style="margin-bottom: 0cm"><i>könnyedén</i> = (on the
+		possession) of your tear (superessive case)</p>
+	
+	<li><p style="margin-bottom: 0cm"><i>ellenfeleié</i> (PSS)</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><i>ellenfél</i> = an opponent
+		(singular)</p>
+		<li><p style="margin-bottom: 0cm"><i>ellenfele</i> = his/her/its
+		opponent (singular owner)</p>
+		<li><p style="margin-bottom: 0cm"><i>ellenfelei</i> = his/her/its
+		opponents (core plural, singular owner)</p>
+		<li><p style="margin-bottom: 0cm"><i>ellenfeleié</i> = (possession)
+		of his/her/its opponents (singular possession)</p>
+	
+	<li><p style="margin-bottom: 0cm"><i>életeké</i> (SPS)</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><i>él</i> = point (singular)</p>
+		<li><p style="margin-bottom: 0cm"><i>élek</i> = points (plural)</p>
+		<li><p style="margin-bottom: 0cm"><i>élén</i> = his/her/its point
+		(singular owner)</p>
+		<li><p style="margin-bottom: 0cm"><i>élünk</i> = our point (plural
+		owner)</p>
+		<li><p style="margin-bottom: 0cm"><i>életeké</i> = (possession) of
+		our point (singular possession)</p>
+	
+	<li><p style="margin-bottom: 0cm"><i>tárgyalópartnereinkét</i> (PPS)</p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><i>tárgyalópartner</i> =
+		negotiator (singular)</p>
+		<li><p style="margin-bottom: 0cm"><i>tárgyalópartnerei</i> =
+		his/her/its negotiators (plural, singular owner)</p>
+		<li><p><i>tárgyalópartnereinkét</i> = (possession) of our
+		negotiators (plural, plural owner, singular possession, accusative
+		case)</p>
+	
+
+<p>Words marked for plural possessions are very rare, though. Note
+that in the following example from Multext-East, Columbus is marked
+for plural possession, but not for his own owner. 
+</p>
+<ul>
+	<li><p style="margin-bottom: 0cm"><i>Kolumbuszéinál</i></p>
+	<ul>
+		<li><p style="margin-bottom: 0cm"><i>Kolumbusz</i> = Columbus
+		(singular)</p>
+		<li><p style="margin-bottom: 0cm"><i>Kolumbuszéi</i> =
+		(possessions) of Columbus (plural possession)</p>
+		<li><p><i>Kolumbuszéinál</i> = (at the possessions) of Columbus
+		(adessive case)</p>
+	
+
+<h3 class="western" style="font-style: normal">Sing: singular
+possession</h3>
+<h3 class="western" style="font-style: normal">Plur: plural
+possession</h3>
+<h2 class="western">PossPerson</h2>
+<p style="font-style: normal"><span style="background: transparent">PossPerson
+is possessor's person, marked e.g. on Hungarian nouns. These noun
+forms would be translated to English as possessive pronoun + noun.</span></p>
+<p style="font-style: normal"><span style="background: transparent">Note
+that there is currently a sort of inconsitency in Interset: since
+this feature was introduced, it would be logical to use it also for
+possessive pronouns in other languages. Yet the possessor's person of
+these pronouns is traditionally captured in the &ldquo;Person&rdquo;
+feature. Also note that using PossPerson for possessive pronouns
+might introduce inconsistency at the other end because in some
+languages, possessive pronouns are actually identical to personal
+pronouns in the genitive case.</span></p>
+<h3 class="western" style="font-style: normal">1: first person
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">hu</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><span lang="en-US"><i><span style="background: transparent">kutya</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+= dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyám</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+my dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyá</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">nk</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+our dog.</span></span></span></p>
+<h3 class="western" style="font-style: normal">2: second person
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">hu</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><span lang="en-US"><i><span style="background: transparent">kutya</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+= dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyá</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">d</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+your.Sing dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyá</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">tok</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+your.Plur dog.</span></span></span></p>
+<h3 class="western" style="font-style: normal">3: third person
+possessor</h3>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">hu</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><span lang="en-US"><i><span style="background: transparent">kutya</span></i></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+= dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyá</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">ja</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+his/her/its dog;</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><font color="#ff0000"><span lang="cs-CZ"><i><span style="background: transparent">kutyá</span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">juk</span></i></span></font><span lang="cs-CZ"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">=
+their dog.</span></span></span></p>
+<h2 class="western">VerbForm</h2>
+<p style="font-style: normal"><span style="background: transparent">Even
+though the name of the feature seems to suggest that it is used
+exclusively with verbs, it is not the case. Some verb forms in some
+languages actually form a gray zone between verbs and other parts of
+speech (nouns, adjectives and adverbs). For instance, participles may
+be either classified as verbs or as adjectives, depending on language
+and context. In both cases VerbForm=Part may be used to separate them
+from other verb forms or other types of adjectives.</span></p>
+<h3 class="western" style="font-style: normal">Fin: finite verb</h3>
+<p><span lang="en-US"><span style="font-style: normal">R</span></span><span lang="en-US"><span style="font-style: normal">ule
+of thumb: if it has non-empty Mood, it is finite. But beware that
+some tagsets conflate verb forms and moods into one feature.</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">en</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><span lang="en-US"><i><span style="background: transparent">I
+</span></i></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">do</span></i></span></font><span lang="en-US"><i><span style="background: transparent">,
+he </span></i></span><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">does</span></i></span></font><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.</span></span></span></p>
+<h3 class="western" style="font-style: normal">Inf: infinitive</h3>
+<p><span lang="en-US"><span style="font-style: normal">Infinitive is
+the citation form of verbs in many languages. Unlike in English, it
+often has morphological form that is distinct from the finite forms.
+Infinitives may be used together with auxiliaries to form
+periphrastic tenses (e.g. future tense [cs] </span></span><span lang="cs-CZ"><i>budu
+</i></span><font color="#ff0000"><span lang="cs-CZ"><i>sedět</i></span></font><span lang="cs-CZ"><i>
+v letadle</i></span><span lang="cs-CZ"><span style="font-style: normal">
+</span></span><span lang="en-US"><span style="font-style: normal">(I
+will sit in a plane)), they appear as arguments of modal verbs etc.
+In some languages they behave similarly to nouns and are used as such
+(similar to the gerund in English).</span></span></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">de</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><font color="#000000"><span lang="en-US"><i><span style="background: transparent">ich
+muss </span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">gehen</span></i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+(I must go)</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.</span></span></span></font></p>
+<h3 class="western" style="font-style: normal">Sup: supine</h3>
+<p><span style="font-style: normal">Supine is a rare verb form. It
+survives in some Slavic languages (Slovenian) and is used instead of
+infinitive as the argument of motion verbs </span><i>(I must go)</i><span style="font-style: normal">.</span></p>
+<p style="font-style: normal">A form called &ldquo;supine&rdquo; also
+exists in Swedish but I think that the usage is different there
+(Joakim?)</p>
+<h3 class="western" style="font-style: normal">Part: participle</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">P</font><font color="#000000">articiple
+is a non-finite verb form that shares properties of verbs and
+adjectives. Its usage varies across languages. It may be used to form
+various periphrastic verb forms such as complex tenses and passives;
+it may be also used purely adjectively.</font></span></p>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">Other
+features may help to distinguish past/present participles (English),
+active/passive participles (Czech), imperfect/perfect participles
+(Hindi) etc.</span></font></p>
+<p><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Examples:</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">[</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">en</span></span></span><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">]
+</span></span></span><font color="#000000"><span lang="en-US"><i><span style="background: transparent">he
+could have </span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">been
+prepared</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">
+if he had </span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">forseen</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">
+it</span></i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">;
+</span></span></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">I
+will be </span></i></span></font><font color="#ff0000"><span lang="en-US"><i><span style="background: transparent">driving</span></i></span></font><font color="#000000"><span lang="en-US"><i><span style="background: transparent">
+home</span></i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">.</span></span></span></font></p>
+<h3 class="western" style="font-style: normal">Trans: transgressive</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">T</font><font color="#000000">he
+transgressive, also called adverbial participle, is a non-finite verb
+form that shares properties of verbs and adverbs. It appears e.g. in
+Slavic and Indo-Aryan languages.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+[cs] </font><font color="#000000"><span lang="cs-CZ"><i>zírali na
+mne, pevně </i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>svírajíce</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+své zbraně</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(they stared at me </font><font color="#ff0000">while
+gripping</font><font color="#000000"> their guns firmly); </font><font color="#ff0000"><span lang="cs-CZ"><i>udělavši</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+večeři, zavolala rodinu ke stolu</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(</font><font color="#ff0000">having
+prepared</font><font color="#000000"> the dinner, she called her
+family to the table).</font></span></p>
+<h3 class="western" style="font-style: normal">Ger: gerund</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Gerund</font><font color="#000000">
+is a non-finite verb form that shares properties of verbs and </font><font color="#000000">nouns</font><font color="#000000">.
+</font><font color="#000000">In English it shares the morphological
+form with present participle, which may mean that the tagset will not
+distinguish it from the participle.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">E</font><font color="#000000">xamples:
+[en] </font><font color="#000000"><i>I look forward to </i></font><font color="#ff0000"><i>seeing</i></font><font color="#000000"><i>
+you</i></font><font color="#000000">; </font><font color="#000000"><i>he
+turns a blind eye to my </i></font><font color="#ff0000"><i>being</i></font><font color="#000000"><i>
+late</i></font><font color="#000000">.</font></span></p>
+<h2 class="western">Mood</h2>
+<p style="font-style: normal"><span style="background: transparent">Mood
+is a feature that expresses modality and subclassifies finite verb
+forms.</span></p>
+<h3 class="western" style="font-style: normal">Ind: indicative</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">T</font><font color="#000000">he
+indicative can be considered the default mood. A verb in indicative
+merely states that something happens, has happened or will happen,
+without adding any attitude of the speaker.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+</font><font color="#000000">[cs] </font><font color="#ff0000"><span lang="cs-CZ"><i>Studuješ</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+na univerzitě.</i></span></font><font color="#000000"> </font><font color="#000000">[</font><font color="#000000">de</font><font color="#000000">]
+</font><font color="#ff0000"><i>Du studierst</i></font><font color="#000000"><span lang="cs-CZ"><i>
+an der Universität.</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(</font><font color="#ff0000">You
+study</font><font color="#000000"> at the </font><font color="#000000">u</font><font color="#000000">niversity</font><font color="#000000">.</font><font color="#000000">)</font></span></p>
+<h3 class="western" style="font-style: normal">Imp: imperative</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">T</font><font color="#000000">he
+speaker uses imperative to order or ask the addressee to do the
+action of the verb.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+</font><font color="#000000">[cs] </font><font color="#ff0000"><span lang="cs-CZ"><i>Studuj</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+na univerzitě!</i></span></font><font color="#000000"> </font><font color="#000000">[</font><font color="#000000">de</font><font color="#000000">]
+</font><font color="#ff0000"><span lang="cs-CZ"><i>Studiere</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+an der Universität!</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(</font><font color="#ff0000">S</font><font color="#ff0000">tudy</font><font color="#000000">
+at the </font><font color="#000000">u</font><font color="#000000">niversity!)</font></span></p>
+<h3 class="western" style="font-style: normal">Cnd: conditional</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">T</font><font color="#000000">he
+conditional mood is used to express actions that would have taken
+place under some circumstances but they actually did not / do not
+happen. Grammars of some languages may classify conditional as tense
+(rather than mood) but e.g. in Czech it combines with two different
+tenses (past and present).</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+</font><font color="#000000">[cs] </font><font color="#000000"><span lang="cs-CZ"><i>Kdy</i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>bych</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+byl chytrý, studoval </i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>bych</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+na univerzitě.</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(</font><font color="#000000">If
+I were smart I </font><font color="#ff0000">would</font><font color="#000000">
+study at the </font><font color="#000000">u</font><font color="#000000">niversity;
+note that only the auxiliary </font><font color="#000000"><i>bych</i></font><font color="#000000">
+is specific to conditional; the active participle </font><font color="#000000"><i>byl</i></font><font color="#000000">
+is also needed to analytically form the conditional mood, however, it
+will only be tagged as participle because it can also be used to form
+past tense indicative.</font><font color="#000000">)</font></span></p>
+<h3 class="western" style="font-style: normal">Pot: potential</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">The
+action of the verb is likely but not certain. Used e.g. in Finnish.</span></font></p>
+<h3 class="western" style="font-style: normal">Sub: subjunctive /
+conjunctive</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">The
+subjunctive mood is used under certain circumstances in subordinate
+clauses, typically for actions that are subjective or otherwise
+uncertain. In German, it may be also used to convey the conditional
+meaning.</span></font></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+[fr] </font><font color="#000000"><i>Je veux que tu le </i></font><font color="#ff0000"><i>fasses</i></font><font color="#000000"><i>.</i></font><font color="#000000">
+(I want you to do it; lit. I want that you </font><font color="#000000">it</font><font color="#000000">
+do.Sub.)</font></span></p>
+<h3 class="western" style="font-style: normal">Jus: jussive</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">The
+jussive mood expresses the desire that the action happens. Used e.g.
+in Arabic.</span></font></p>
+<h3 class="western" style="font-style: normal">Qot: quotative</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">The
+quotative mood is used e.g. in Estonian to denote direct speech.</span></font></p>
+<h3 class="western" style="font-style: normal">Opt: optative</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">Used
+e.g. in Turkish in exclamations like &ldquo;May you have a long
+life!&rdquo; or &ldquo;If only I were rich!&rdquo;</span></font></p>
+<h3 class="western" style="font-style: normal">Des: desiderative</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">The
+desiderative mood corresponds to the modal verb &ldquo;want to&rdquo;:
+&ldquo;He </font><font color="#ff0000">wants to come</font><font color="#000000">.&rdquo;
+Used e.g. in Turkish.</font></span></p>
+<h3 class="western" style="font-style: normal">Nec: necessitative</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">The
+</font><font color="#000000">necessitative</font><font color="#000000">
+mood corresponds to the modal verb</font><font color="#000000">s</font><font color="#000000">
+&ldquo;</font><font color="#000000">must, should, have to</font><font color="#000000">&rdquo;:
+&ldquo;He </font><font color="#ff0000">must</font><font color="#ff0000">
+come</font><font color="#000000">.&rdquo; Used e.g. in Turkish.</font></span></p>
+<h2 class="western">Tense</h2>
+<p style="font-style: normal"><span style="background: transparent">Tense
+is a feature that specifies the time when the action took / takes /
+will take place, in relation to the current moment or to another
+action in the utterance. In some languages (e.g. English), some
+tenses are actually combinations of tense and aspect. In other
+languages (e.g. Czech), aspect and tense are separate, although not
+completely independent of each other.</span></p>
+<p style="font-style: normal"><span style="background: transparent">Note
+that we are defining features that apply to a single word. If a tense
+is constructed periphrastically (two or more words, e.g. auxiliary
+verb indicative + participle of the main verb) and none of the
+participating words are specific to this tense, then the features
+will probably not directly reveal the tense. For instance, [en] <i>&ldquo;I
+</i><font color="#ff0000"><i>had been</i></font><i> there&rdquo;</i>
+is past perfect (pluperfect) tense, formed periphrastically by the
+simple past tense of the auxiliary <i>to have</i> and the past
+participle of the main verb <i>to be</i>. The auxiliary will be
+tagged <font face="Courier New, monospace">VerbForm=Fin|Mood=Ind|Tense=Past</font>
+and the participle will have <font face="Courier New, monospace">VerbForm=Part|Tense=Past</font>;
+none of the two will have <font face="Courier New, monospace">Tense=Pqp</font>.
+On the other hand, Portuguese can form the pluperfect morphologically
+as just one word, which will thus be tagged
+<font face="Courier New, monospace">VerbForm=Fin|Mood=Ind|T</font><font face="Courier New, monospace">ense=Pqp</font>.</span></p>
+<h3 class="western" style="font-style: normal">Past: past tense</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">The
+past tense denotes actions that happened before the current moment.
+</font><font color="#000000">In English, this is the simple past
+form. In German, this is the </font><font color="#000000"><span lang="cs-CZ">Präteritu</span></font><font color="#000000">m.
+In Turkish, this is the non-narrative past. In Bulgarian, there are
+two synthetic past tenses, called aorist and imperfect; thus one of
+these two values is used and past is not used. (</font><font color="#000000"><span style="background: #ffff00">Note
+DZ: perhaps we should merge aorist with past and leave the imperfect
+as the specific case.</span></font><font color="#000000">)</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+[en] </font><font color="#000000"><i>he </i></font><font color="#ff0000"><i>went</i></font><font color="#000000"><i>
+home</i></font></span></p>
+<h3 class="western" style="font-style: normal">Pres: present tense</h3>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">The
+present tense denotes actions that are happening right now or that
+usually happen.</span></font></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+[en] </font><font color="#000000"><i>he </i></font><font color="#ff0000"><i>goes</i></font><font color="#000000"><i>
+home</i></font></span></p>
+<h3 class="western" style="font-style: normal">Fut: future tense</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">The
+</font><font color="#000000">future</font><font color="#000000">
+tense denotes actions that </font><font color="#000000">will happen
+after the current moment</font><font color="#000000">.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Examples:
+[e</font><font color="#000000">s</font><font color="#000000">] </font><font color="#ff0000"><span lang="cs-CZ"><i>irá</i></span></font><font color="#000000"><i>
+</i></font><font color="#000000"><span lang="cs-CZ"><i>a la casa</i></span></font><font color="#000000"><span lang="cs-CZ">
+</span></font><font color="#000000">(he/</font><font color="#000000">she/it</font><font color="#000000">
+will go home)</font></span></p>
+<h3 class="western" style="font-style: normal">Aor: aorist</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Aorist
+is a special case of the past tense. In Bulgarian, this is the
+aspect-neutral past tense that can be used freely with both
+imperfective and perfective verbs (see also imperfect).</font><font color="#000000">
+(</font><font color="#000000"><span style="background: #ffff00">Note
+DZ: perhaps we should merge aorist with past and leave the imperfect
+as the specific case.</span></font><font color="#000000">)</font></span></p>
+<h3 class="western" style="font-style: normal">Imp: imperfect</h3>
+<p><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">Used
+in e.g. Bulgarian and Croatian, imperfect is a special case of the
+past tense.</span></span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal"><span style="background: transparent">
+</span></span></span></font><font color="#000000">Note that,
+unfortunately, imperfect tense is not always the same as past tense +
+imperfective aspect. For instance, in Bulgarian, there is lexical
+aspect, inherent in verb meaning, and grammatical aspect, which does
+not necessarily always match the lexical one. In main clauses,
+imperfective verbs can have imperfect tense and perfective verbs have
+perfect tense. However, both rules can be violated in embedded
+clauses.</font></p>
+<h3 class="western" style="font-style: normal">Nar: narrative</h3>
+<p><font color="#000000">S</font><font color="#000000">pecial case of
+the past tense, this is the Turkish </font><em><font color="#000000">miş</font></em><font color="#000000">-</font><font color="#000000">past.
+The difference is whether the speaker personally witnessed the action
+he is describing, or not.</font></p>
+<h3 class="western" style="font-style: normal">Pqp: pluperfect</h3>
+<p><font color="#000000">T</font><font color="#000000">he pluperfect
+denotes action that happened before another action in past. This
+value does not apply to English where the pluperfect (past perfect)
+is constructed analytically. It applies e.g. to Portuguese.</font></p>
+<h2 class="western">Aspect</h2>
+<p><span lang="en-US">A</span><span lang="en-US">spect is a feature
+that specifies duration of the action in time, whether the action has
+been completed etc. In some languages (e.g. English), some tenses are
+actually combinations of tense and aspect. In other languages (e.g.
+Czech), aspect and tense are separate, although not completely
+independent of each other.</span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">I</font><font color="#000000">n
+Czech and other Slavic languages, aspect is a lexical feature. Pairs
+of imperfective and perfective verbs exist and are often
+morphologically related but the space is highly irregular and the
+verbs are considered to belong to separate lemmas.</font></span></p>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">Interset
+currently covers only a few aspect values that occurred as feature in
+the corpora we have studied. See Wikipedia
+(</font><a href="http://en.wikipedia.org/wiki/Grammatical_aspect">http://en.wikipedia.org/wiki/Grammatical_aspect</a><font color="#000000">)
+for a long list of other possible aspects.</font></span></p>
+<h3 class="western" style="font-style: normal">Imp: imperfect aspect</h3>
+<p><font color="#000000">The action took / takes / will take some
+time span and there is no information whether and when it was / will
+be completed.</font></p>
+<p><font color="#000000">Examples: [cs]</font><font color="#000000"><i>
+</i></font><font color="#000000"><span lang="cs-CZ"><i>péci</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">=
+to bake (Imp);</span></span></font><font color="#000000"> </font><font color="#ff0000"><span lang="cs-CZ"><i>pekl</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+chleba</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">(he
+baked / was baking a bread)</span></span></font></p>
+<h3 class="western" style="font-style: normal">Perf: perfect aspect</h3>
+<p><font color="#000000">The action has been / will have been
+completed. Since there is emphasis on one point on the time scale
+(the point of completion), this aspect does not work well with the
+present tense. For example, Czech morphology can create present forms
+of perfective verbs but these actually have a future meaning.</font></p>
+<p><font color="#000000">Examples: [cs]</font><font color="#000000"><i>
+</i></font><font color="#000000"><span lang="en-US"><i>up</i></span></font><font color="#000000"><span lang="cs-CZ"><i>éci</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">=
+to bake (Perf);</span></span></font><font color="#000000"> </font><font color="#ff0000"><span lang="en-US"><i>upekl</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+chleba</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">(he
+baked / has baked a bread)</span></span></font></p>
+<h3 class="western" style="font-style: normal">Pro: prospective
+aspect</h3>
+<p><font color="#000000">Used in Basque. A c</font><font color="#000000">ombination
+of tense and aspect that indicates the action is in preparation to
+take place.</font></p>
+<h3 class="western" style="font-style: normal">Prog: progressive
+aspect</h3>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">English
+progressive tenses </font><font color="#000000"><i>(I am eating, I
+have been doing &hellip;)</i></font><font color="#000000"> have this
+aspect. They are constructed analytically (auxiliary + present
+participle) but the </font><font color="#000000"><i>-ing</i></font><font color="#000000">
+participle is so bound to progressive meaning that it seems a good
+idea to annotate it with this feature (we have to distinguish it from
+the past participle somehow; we may use both the &ldquo;Tense&rdquo;
+and the &ldquo;Aspect&rdquo; features).</font></span></p>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">In
+languages other than English, the progressive meaning may be
+expressed by morphemes bound to the main verb, which makes this value
+even more justified. Example is Turkish.</span></font></p>
+<h2 class="western">Voice</h2>
+<p style="font-style: normal"><span style="background: transparent"><font color="#000000">F</font><font color="#000000">or
+Indo-European speakers, voice means mainly the active-passive
+distinction. In other languages, other shades of verb meaning are
+categorized as voice.</font></span></p>
+<h3 class="western" style="font-style: normal">Act: active voice</h3>
+<p><font color="#000000">The subject of the verb is the doer of the
+action (agent), the object is affected by the action (pacient).</font></p>
+<p><font color="#000000">Examples: [cs] </font><font color="#ff0000"><span lang="cs-CZ"><i>Napadli</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+jsme nepřítele.</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">(We
+</span></span></font><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">attacked</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">
+the enemy; the active participle </span></span></font><font color="#000000"><span lang="cs-CZ"><i>napadli</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">can
+be used to form either past tense or conditional mood; here it forms
+the past tense.)</span></span></font></p>
+<h3 class="western" style="font-style: normal">Pass: passive voice</h3>
+<p><font color="#000000">The subject of the verb is affected by the
+action (pacient). The doer (agent) is either unexpressed or it
+appears as an object of the verb.</font></p>
+<p><font color="#000000">Examples: [cs] </font><font color="#000000"><span lang="en-US"><i>J</i></span></font><font color="#000000"><span lang="cs-CZ"><i>sme
+</i></span></font><font color="#ff0000"><span lang="cs-CZ"><i>napadeni</i></span></font><font color="#000000"><span lang="cs-CZ"><i>
+nepřítelem.</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">(We
+are </span></span></font><font color="#ff0000"><span lang="en-US"><span style="font-style: normal">attacked</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">
+by the enemy; the passive participle </span></span></font><font color="#000000"><span lang="cs-CZ"><i>napadeni</i></span></font><font color="#000000"><span lang="cs-CZ"><span style="font-style: normal">
+i</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">s
+used to form passive in all tenses; here it forms the present
+passive.)</span></span></font></p>
+<h3 class="western" style="font-style: normal">Rcp: reciprocal voice</h3>
+<p><font color="#000000">Examples: [</font><font color="#000000">tr</font><font color="#000000">]
+</font><font color="#ff0000"><span lang="en-US"><i>kar&#305;şt&#305;</i></span></font><font color="#000000"><span lang="en-US"><i>,
+</i></span></font><font color="#ff0000"><span lang="en-US"><i>tutuştular</i></span></font></p>
+<h3 class="western" style="font-style: normal">Cau: causative voice</h3>
+<p><a href="https://wiki.ufal.ms.mff.cuni.cz/_media/user:zeman:treebanks:ttbankkl.pdf">Documentation</a><font color="#000000">
+of the METU Sabanci treebank classifies causative as voice (page 26).
+Note that this is a feature of verbs. There are languages that have
+also the causative case of nouns.</font></p>
+<p><font color="#000000">Examples: [</font><font color="#000000">tr</font><font color="#000000">]
+</font><font color="#ff0000"><span lang="en-US"><i>kar&#305;şt&#305;r&#305;yor</i></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">
+</span></span></font><font color="#000000"><span lang="en-US"><span style="font-style: normal">(is
+confusing)</span></span></font></p>
+<h2 class="western">Style</h2>
+<p style="font-style: normal"><font color="#000000"><span style="background: transparent">This
+may be a lexical feature (some words-lemmas are archaic, some are
+colloquial) or a morphological feature (inflectional patterns may
+systematically change between dialects or styles). It could be used
+in many languages but only a few choose to actually annotate it. Seen
+in Bulgarian, Czech, Danish, Finnish and Hungarian.</span></font></p>
+<h3 class="western" style="font-style: normal">Arch: archaic,
+obsolete</h3>
+<h3 class="western" style="font-style: normal">Rare: rare</h3>
+<h3 class="western" style="font-style: normal">Form: formal, literary</h3>
+<h3 class="western" style="font-style: normal">Poet: poetic</h3>
+<h3 class="western" style="font-style: normal">Norm: normal, neutral</h3>
+<h3 class="western" style="font-style: normal">Coll: colloquial</h3>
+<h3 class="western" style="font-style: normal">Vrnc: vernacular</h3>
+<h3 class="western" style="font-style: normal">Slng: slang</h3>
+<h3 class="western" style="font-style: normal">Expr: expressive,
+emotional</h3>
+<h3 class="western" style="font-style: normal">Derg: derogative</h3>
+<h3 class="western" style="font-style: normal">Vulg: vulgar</h3>
+<p style="font-style: normal"><br /><br />
+</p>
+<p style="font-style: normal"><br /><br />
+</p>
+</li></li></li></ul></li></ul></li></li></li></ul></li></li></li></li></li></li></ul></li></li></li></li></li></ul></li></li></li></li></li></ul></li></ul>
