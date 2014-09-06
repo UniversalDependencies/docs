@@ -2,7 +2,7 @@
 layout: base
 title: 'aux'
 shortdef: 'auxiliary'
-redirect_from: "/var-aux.html"
+redirect_from: "var-aux.html"
 ---
 
 ## aux: auxiliary
