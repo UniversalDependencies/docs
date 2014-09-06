@@ -2,7 +2,7 @@
 layout: base
 title: 'aux'
 shortdef: 'auxiliary'
-redirect_from: "ud-dep/_aux.html"
+redirect_from: "ud-dep/redir-aux.html"
 ---
 
 ## aux: auxiliary
