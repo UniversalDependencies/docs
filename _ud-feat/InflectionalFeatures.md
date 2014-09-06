@@ -1,7 +1,7 @@
 ---
 layout: base
-title: 'Inflectional features'
-shortdef: 'this file will be split to individual features'
+title: 'Inflectional Features'
+shortdef: 'this page will be split to individual features'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

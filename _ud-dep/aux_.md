@@ -2,16 +2,9 @@
 layout: base
 title: 'aux'
 shortdef: 'auxiliary'
-redirect_from:
- - /docs/ud-dep/vaux
- - /docs/ud-dep/vaux.html
- - /docs/ud-dep/vaux.md
- - /ud-dep/vaux
- - /ud-dep/vaux.html
- - /ud-dep/vaux.md
- - vaux
- - vaux.html
- - vaux.md
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "ud-dep/aux.html"
 ---
 
 ## aux: auxiliary

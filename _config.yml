@@ -4,8 +4,11 @@ markdown:     kramdown
 # kramdown:
 #   parse_block_html: true # allow markdown in <div> etc.
 permalink:    date
-safe:         true
+# safe:         true
 markdown_ext: md
+
+# testing for redirect-from
+baseurl: "/docs"
 
 gems:
   - jekyll-redirect-from
