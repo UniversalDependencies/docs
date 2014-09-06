@@ -1,3 +1,11 @@
+---
+layout: base
+title: 'Inflectional features'
+shortdef: 'this file will be split to individual features'
+---
+
+## {{ page.title }}: {{ page.shortdef }}
+
 <H1 CLASS="western">Universal Dependencies: Features of Tokens<BR>Part
 2: Inflectional Features</H1>
 <H2 CLASS="western"><SPAN LANG="cs-CZ">G</SPAN>ender</H2>
