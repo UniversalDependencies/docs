@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal POS tags</title>
-    <link rel="root" href=""/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
-    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+    <title>aux</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -18,6 +18,8 @@
 
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/aux_.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -32,47 +34,32 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-pos-tags">Universal POS tags</h1>
+          <h2 id="aux-auxiliary-a-namesec-auxa">aux (auxiliary) <a name="sec-aux"></a></h2>
 
-<p>Alphabetical listing</p>
+<p>In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>) and in addition the verbs <em>olla</em> (<em>to be</em>) and <em>aikoa</em> (<em>to be going to</em>). The full list of auxiliaries in TDT is thus as follows:</p>
 
 <ul>
-
-  <li><a href="ud-pos/ADJ.html">ADJ</a>: adjective</li>
-
-  <li><a href="ud-pos/ADP.html">ADP</a>: adposition</li>
-
-  <li><a href="ud-pos/ADV.html">ADV</a>: adverb</li>
-
-  <li><a href="ud-pos/AUX_.html">AUX</a>: auxiliary verb</li>
-
-  <li><a href="ud-pos/CONJ.html">CONJ</a>: conjunction</li>
-
-  <li><a href="ud-pos/DET.html">DET</a>: determiner</li>
-
-  <li><a href="ud-pos/INTJ.html">INTJ</a>: interjection</li>
-
-  <li><a href="ud-pos/NOUN.html">NOUN</a>: noun</li>
-
-  <li><a href="ud-pos/NUM.html">NUM</a>: numeral / quantifier</li>
-
-  <li><a href="ud-pos/PART.html">PART</a>: particle</li>
-
-  <li><a href="ud-pos/PRON.html">PRON</a>: pronoun</li>
-
-  <li><a href="ud-pos/PROPN.html">PROPN</a>: proper noun</li>
-
-  <li><a href="ud-pos/PUNCT.html">PUNCT</a>: punctuation</li>
-
-  <li><a href="ud-pos/SCONJ.html">SCONJ</a>: subordinating conjunction</li>
-
-  <li><a href="ud-pos/SYM.html">SYM</a>: symbol</li>
-
-  <li><a href="ud-pos/VERB.html">VERB</a>: verb</li>
-
-  <li><a href="ud-pos/X.html">X</a>: other</li>
-
+  <li>täytyä (must)</li>
+  <li>pitää (have to)</li>
+  <li>tarvita (need)</li>
+  <li>joutua (have to)</li>
+  <li>voida (be able to, can)</li>
+  <li>saattaa (may)</li>
+  <li>taitaa (be+probably, may)</li>
+  <li>mahtaa (be+probably, may)</li>
+  <li>olla (be)</li>
+  <li>aikoa (be going to)</li>
 </ul>
+
+<!-- fname:aux.pdf -->
+<div class="sd-parse">
+Hän saattoi lähteä jo . \n He may(impf.) leave already .
+nsubj(lähteä-3, Hän-1)
+aux(lähteä-3, saattoi-2)
+advmod(lähteä-3, jo-4)
+punct(lähteä-3, .-5)
+</div>
+
 
 
 <!-- "relation in other languages" links -->
@@ -89,6 +76,15 @@
 
 
 
+
+
+aux in other languages:
+
+[<a href="../en-dep/aux.html">en</a>]
+
+[<a href="../fi-dep/aux.html">fi</a>]
+
+[<a href="../ud-dep/aux.html">ud</a>]
 
 
 
@@ -233,7 +229,7 @@
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = ''; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
