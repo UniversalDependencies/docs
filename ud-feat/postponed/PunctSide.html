@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Echo</title>
-    <link rel="root" href="../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
-    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+    <title>PunctSide</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/Echo.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/postponed/PunctSide.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,35 +34,17 @@
 	  </div>
 	</noscript>
 
-          <h2 id="echo-it-has-been-proposed-not-to-include-this-in-the-current-version">Echo: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
+          <h2 id="punctside-it-has-been-proposed-not-to-include-this-in-the-current-version">PunctSide: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
 
-<p>Is this a reduplicative or echo word? Such words occur in Hindi and
-other Indian languages. In Hyderabad Dependency Treebank they get
-their own part-of-speech tags RDP and ECH, respectively. We do not
-want to treat them as separate parts of speech because they could be
-assigned a POS independent of their RDP or ECH status (same as the
-word that they echo). Perhaps we should merge this also with the
-“hyph” feature to something called “compound”?</p>
+<p>Distinguishes between initial and final form of pairwise punctuation
+(brackets, quotation marks, question and exclamation in Spanish). Note
+that “initial” and “final” are better terms than “left” and
+“right”. The latter would be confusing in languages writing from right
+to left, like Arabic.</p>
 
-<h3 id="rdp-reduplicative">Rdp: reduplicative</h3>
+<h3 id="ini-initial-left-bracket-in-english-texts">Ini: initial (left bracket in English texts)</h3>
 
-<p>The word is a copy of a previous word. In Hindi, this would add the meaning of distribution (“one rupee each”), separation (“sit separately”), variety, diversity or just emphasis.</p>
-
-<p>Examples: [hi] “कभी - कभी” = “kabhī - kabhī” = “sometimes”, “कभी” =
-“kabhī” = “sometimes”; “एक एक” = “eka eka” = “one each”, “एक” = “eka”
-= “one”</p>
-
-<h3 id="ech-echo">Ech: echo</h3>
-
-<p>The word rhymes with a previous word but it is not identical to it and
-typically it does not have any meaning of its own. In Hindi it
-generalizes the meaning of the previous word and eventually translates
-as “or something”, “etc.” etc.</p>
-
-<p>Examples: [hi] “चाय वाय” = “čāya vāya” = “tea or something” (as in “Have some tea or something.”)</p>
-
-<p>For more details see Rupert Snell and Simon Weightman: Teach Yourself
-Hindi, Section 16.4 and 16.5, pages 210 – 211.</p>
+<h3 id="fin-final-right-bracket-in-english-texts">Fin: final (right bracket in English texts)</h3>
 
 
 <!-- "relation in other languages" links -->
@@ -223,7 +205,7 @@ Hindi, Section 16.4 and 16.5, pages 210 – 211.</p>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../'; // filled in by jekyll
+    var root = '../../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
