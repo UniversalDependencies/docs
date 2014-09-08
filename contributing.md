@@ -229,4 +229,4 @@ requests](https://help.github.com/articles/using-pull-requests).
 ## Troubleshooting
 
 No trouble reported yet. If you have any, just ask Sampo
-(sampo.pyysalo@gmail.com) or Filip (fginter@cs.utu.fi)!
+(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi)!
