@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'VerbType'
-shortdef: 'verb type'
+shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'ConjType'
-shortdef: 'conjunction type'
+shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

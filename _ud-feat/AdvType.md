@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'AdvType'
-shortdef: 'adverb type'
+shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

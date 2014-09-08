@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'Meta'
-shortdef: 'meta'
+shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
