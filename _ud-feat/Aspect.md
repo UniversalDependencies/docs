@@ -20,7 +20,7 @@ morphologically related but the space is highly irregular and the
 verbs are considered to belong to separate lemmas.
 
 Since we proceed bottom-up, the current proposal
-covers only a few aspect values that occurred as feature in
+covers only a few aspect values that occurred as features in
 the corpora we have studied. See Wikipedia
 (<A HREF="http://en.wikipedia.org/wiki/Grammatical_aspect">http://en.wikipedia.org/wiki/Grammatical_aspect</A>)
 for a long list of other possible aspects.

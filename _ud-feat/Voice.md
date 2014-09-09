@@ -1,14 +1,10 @@
 ---
 layout: base
-title: 'Inflectional Features'
-shortdef: 'this page will be split to individual features'
+title: 'Voice'
+shortdef: 'voice'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
-
-# Universal Dependencies: Features of Tokens<br />Part 2: Inflectional Features
-
-## Voice
 
 For
 Indo-European speakers, voice means mainly the active-passive
@@ -62,41 +58,3 @@ Examples: [tr]
 <span style='color: red'><I>karıştırıyor</I></span>
 (is
 confusing)
-
-## Style
-
-This
-may be a lexical feature (some words-lemmas are archaic, some are
-colloquial) or a morphological feature (inflectional patterns may
-systematically change between dialects or styles). It could be used
-in many languages but only a few choose to actually annotate it. Seen
-in Bulgarian, Czech, Danish, Finnish and Hungarian.
-
-### Arch: archaic, obsolete
-
-### Rare: rare
-
-### Form: formal, literary
-
-### Poet: poetic
-
-### Norm: normal, neutral
-
-### Coll: colloquial
-
-### Vrnc: vernacular
-
-### Slng: slang
-
-### Expr: expressive, emotional
-
-### Derg: derogative
-
-### Vulg: vulgar
-
-<BR><BR>
-
-
-<BR><BR>
-
-
