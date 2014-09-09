@@ -1,0 +1,302 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Person</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/Person.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="person-person">Person: person</h2>
+
+<p>Person
+is typically feature of personal and possessive pronouns, and of
+verbs. On verbs it is in fact an agreement feature that marks the
+person of the verb’s subject (some languages, e.g. Basque, can also
+mark person of objects). Person marked on verbs makes it unnecessary
+to always add a personal pronoun as subject and thus subjects are
+sometimes dropped (pro-drop languages).</p>
+
+<p>The
+“Person” feature may interact with the feature of
+politeness, see there.</p>
+
+<h3 id="first-person">1: first person</h3>
+
+<p>In
+singular, the first person refers just to the speaker / author. In
+plural, it must include the speaker and one or more additional
+persons. Some languages (e.g. Taiwanese) distinguish inclusive and
+exclusive 1<sup>st</sup> person plural pronouns: the former include
+the addressee of the utterance (i.e. <i>I + you</i>), the latter
+exclude them (i.e. <i>I + they</i>).</p>
+
+<p>Examples:
+[en]
+<span style="color: red"><i>I</i></span><i>,
+</i><span style="color: red"><i>we</i></span>;
+[cs] <span style="color: red"><i>dělám</i></span>
+(<span style="color: red">I</span>
+do)</p>
+
+<h3 id="second-person">2: second person</h3>
+
+<p>In
+singular, the second person refers to the addressee of the utterance
+/ text. In plural, it may mean several addressees and optionally some
+third persons too.</p>
+
+<p>Examples:
+[en]
+<span style="color: red"><i>you</i></span>;
+[cs] <span style="color: red"><i>dělá</i></span><span style="color: red"><i>š</i></span>
+(<span style="color: red">you</span>
+do)</p>
+
+<h3 id="third-person">3: third person</h3>
+
+<p>The
+third person refers to one or more persons that are neither speakers
+nor addressees.</p>
+
+<p>Examples:
+[en]
+<span style="color: red"><i>he</i></span><i>,
+</i><span style="color: red"><i>she</i></span><i>,
+</i><span style="color: red"><i>it</i></span><i>,
+</i><span style="color: red"><i>they</i></span>;
+[cs] <span style="color: red"><i>dělá</i></span>
+(<span style="color: red">he/she/it</span><span style="color: red">
+do</span><span style="color: red">es</span>)</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding support modules
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    head.ready(function() {
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
+	Embed.embedBratVisualizations();
+    });
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>
