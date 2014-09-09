@@ -28,8 +28,23 @@
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
+    /* collection data, filled in by Jekyll */
+    var documentCollections = {
+        "_current" : "{{ page.collection }}",
+{% for i in site.collections %}{% assign c = i[1] %}
+        "{{ c.label }}": [
+{% for d in c.docs %}
+            {
+                "title": "{{ d.title }}",
+                "url":   "{{ d.url }}",
+            },
+{% endfor %}
+        ],
+{% endfor %}
+    };
+
     head.ready(function() {
 	// performes all embedding and support functions
-	Annodoc.activate(Config.bratCollData);
+	Annodoc.activate(Config.bratCollData, documentCollections);
     });
 </script>
