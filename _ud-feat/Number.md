@@ -14,15 +14,19 @@ of nouns and, depending on language, other parts of speech
 
 ### Sing: singular number
 
-A singular noun denotes one person, animal or thing. Example: [en]
+A singular noun denotes one person, animal or thing.
+
+Example: [en]
 <I>car</I>
 
-## Plur: plural number
+### Plur: plural number
 
-A plural noun denotes several persons, animals or things. Example:
+A plural noun denotes several persons, animals or things.
+
+Example:
 [en] <I>cars</I>
 
-## Dual: dual number
+### Dual: dual number
 
 A dual noun denotes two persons, animals or things.
 
@@ -44,7 +48,7 @@ singular
 <I>sinūna</I>
 (years).
 
-## Ptan: plurale tantum
+### Ptan: plurale tantum
 
 Some nouns
 appear only in the plural form even though they denote one thing
@@ -61,7 +65,7 @@ Example: [en]
 <I>scissors, pants;</I>
 [cs] <I>nůžky, kalhoty</I>
 
-## Coll: collective / mass / singulare tantum
+### Coll: collective / mass / singulare tantum
 
 Collective or
 mass or singulare tantum is a special case of singular. It
