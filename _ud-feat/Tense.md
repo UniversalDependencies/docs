@@ -31,17 +31,15 @@ On the other hand, Portuguese can form the pluperfect morphologically
 as just one word, which will thus be tagged
 VerbForm=Fin|Mood=Ind|Tense=Pqp.
 
-### Past: past tense
+### Past: past tense / preterite / aorist
 
 The
 past tense denotes actions that happened before the current moment.
 In English, this is the simple past
 form. In German, this is the Präteritum.
-In Turkish, this is the non-narrative past. In Bulgarian, there are
-two synthetic past tenses, called aorist and imperfect; thus one of
-these two values is used and past is not used. (<SPAN STYLE="background: #ffff00">Note
-DZ: perhaps we should merge aorist with past and leave the imperfect
-as the specific case.</SPAN>)
+In Turkish, this is the non-narrative past.
+In Bulgarian, this is aorist, the aspect-neutral past tense that can be used
+freely with both imperfective and perfective verbs (see also imperfect).
 
 Examples:
 [en] <I>he </I><span style='color: red'><I>went</I></span><I>
@@ -69,16 +67,6 @@ Examples:
 </I><I>a la casa</I>
 (he/she/it
 will go home)
-
-### Aor: aorist
-
-Aorist
-is a special case of the past tense. In Bulgarian, this is the
-aspect-neutral past tense that can be used freely with both
-imperfective and perfective verbs (see also imperfect).
-(<SPAN STYLE="background: #ffff00">Note
-DZ: perhaps we should merge aorist with past and leave the imperfect
-as the specific case.</SPAN>)
 
 ### Imp: imperfect
 
