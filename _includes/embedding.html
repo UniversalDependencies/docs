@@ -36,7 +36,7 @@
 {% for d in c.docs %}
             {
                 "title": "{{ d.title }}",
-                "url":   "{{ d.url }}",
+                "url":   "{{ site.baseurl }}{{ d.url }}",
             },
 {% endfor %}
         ],
