@@ -158,7 +158,7 @@ preposition <I>bez</I>
 (without),
 the possessive adjective <I>prezidentovy</I>
 (president's)
-and th noun <I>dcery</I>
+and the noun <I>dcery</I>
 (daughter).
 The possessive adjective is derived from the noun <I>prezident</I>
 but
@@ -614,35 +614,35 @@ am/come from Budapest.
 
 ### Lat: lative / directional allative
 
-<SPAN STYLE="background: #ffff00">The
+The
 lative case denotes
 movement towards/to/into/onto something. Similar case in Basque is
 called directional allative (Spanish <EM>adlativo
 direccional</EM>).
 However, lative is typically thought of as a union of allative,
 illative and sublative, while in Basque it is derived from allative,
-which also exists independently.</SPAN>
+which also exists independently.
 
-<SPAN STYLE="background: #ffff00">Examples:
+Examples:
 [eu] <I>behe</I>
 = low; <span style='color: red'><I>beherantz</I></span>
-= down.</SPAN>
+= down.
 
 ### Tem: temporal
 
-<SPAN STYLE="background: #ffff00">The
+The
 temporal
 case is used to indicate
-time.</SPAN>
+time.
 
-<SPAN STYLE="background: #ffff00">Examples:
+Examples:
 [hu]
 <I>hétkor</I>
 = at seven (o'clock);
 <I>éjfélkor</I>
 = at midnight;
 <I>karácsonykor</I>
-= at Christmas.</SPAN>
+= at Christmas.
 
 ### Ter: terminative / terminal allative
 
@@ -653,7 +653,7 @@ case in Basque is called terminal allative (Spanish <EM>adlativo
 terminal</EM>). 
 
 
-<SPAN STYLE="background: #ffff00">Examples:
+Examples:
 [et]
 <span style='color: red'><I>j&otilde;eni</I></span>
 = down to the river; <I>kella
@@ -664,15 +664,15 @@ terminal</EM>).
 </I><span style='color: red'><I>óráig</I></span>
 = till six o'clock; [eu] <I>erdi</I>
 = half; <span style='color: red'><I>erdiraino</I></span>
-= up to the half.</SPAN>
+= up to the half.
 
 ### Cau: causative / motivative
 
-<SPAN STYLE="background: #ffff00">Noun
+Noun
 in this case is the cause of something. In
 Hungarian it also seems to be used frequently with currency (&ldquo;to
 buy something <I>for</I>
-the money?&rdquo;)</SPAN>
+the money?&rdquo;)
 
 Examples:
 [hu]
@@ -685,8 +685,8 @@ tankoltam.</I> [eu]
 
 ### Ben: benefactive / destinative
 
-<SPAN STYLE="background: #ffff00">The
-benefactive case corresponds to the English preposition <I>for</I>.</SPAN>
+The
+benefactive case corresponds to the English preposition <I>for</I>.
 
 Examples:
 [eu]
