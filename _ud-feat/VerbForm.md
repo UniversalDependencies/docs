@@ -6,8 +6,6 @@ shortdef: 'form of verb or form on the border between verbs and other parts of s
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-## VerbForm
-
 Even
 though the name of the feature seems to suggest that it is used
 exclusively with verbs, it is not the case. Some verb forms in some
@@ -53,11 +51,20 @@ muss </I><span style='color: red'><I>gehen</I></span>
 
 Supine is a rare verb form. It
 survives in some Slavic languages (Slovenian) and is used instead of
-infinitive as the argument of motion verbs <I>(I must go)</I>.
+infinitive as the argument of motion verbs
+(old [cs] <I>jdu spat</I> = lit. I-go sleep).
 
 A form called &ldquo;supine&rdquo; also
-exists in Swedish but I think that the usage is different there
-(Joakim?)
+exists in Swedish where it is a special form of the participle,
+used to form the composite past form of a verb.
+It is used after the auxiliary verb <i>ha</i> (to have) but not after
+<i>vara</i> (to be):
+
+* Simple past: I ate (the) dinner = <i>Jag åt maten</i> (using preterite)
+* Composite past: I have eaten (the) dinner = <i>Jag har <span style='color:red'>ätit</span> maten</i> (using supine)
+* Past participle common: (The) dinner is eaten = <i>Maten är äten</i> (using past participle)
+* Past participle neuter: (The) apple is eaten = <i>Äpplet är ätet</i>
+* Past participle plural: (The) apples are eaten = <i>Äpplena är ätna</i> 
 
 ### Part: participle
 
