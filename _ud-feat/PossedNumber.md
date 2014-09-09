@@ -16,67 +16,35 @@ distinct number features: its own grammatical number, number of its
 possessor and number of its possession. Examples from the
 Multext-East Hungarian lexicon:
 
-<UL>
-	<LI><I>könnyedén</I> (SSS)
-	<UL>
-		<LI><I>könny</I> = a tear (singular)
-		<LI><I>könnyed</I> = your tear
-		(singular owner)
-		<LI><I>könnyedé</I> = (possession) of
-		your tear (singular possession)
-		<LI><I>könnyedén</I> = (on the
-		possession) of your tear (superessive case)
-	</UL>
-	<LI><I>ellenfeleié</I> (PSS)
-	<UL>
-		<LI><I>ellenfél</I> = an opponent
-		(singular)
-		<LI><I>ellenfele</I> = his/her/its
-		opponent (singular owner)
-		<LI><I>ellenfelei</I> = his/her/its
-		opponents (core plural, singular owner)
-		<LI><I>ellenfeleié</I> = (possession)
-		of his/her/its opponents (singular possession)
-	</UL>
-	<LI><I>életeké</I> (SPS)
-	<UL>
-		<LI><I>él</I> = point (singular)
-		<LI><I>élek</I> = points (plural)
-		<LI><I>élén</I> = his/her/its point
-		(singular owner)
-		<LI><I>élünk</I> = our point (plural
-		owner)
-		<LI><I>életeké</I> = (possession) of
-		our point (singular possession)
-	</UL>
-	<LI><I>tárgyalópartnereinkét</I> (PPS)
-	<UL>
-		<LI><I>tárgyalópartner</I> =
-		negotiator (singular)
-		<LI><I>tárgyalópartnerei</I> =
-		his/her/its negotiators (plural, singular owner)
-		<LI><I>tárgyalópartnereinkét</I> = (possession) of our
-		negotiators (plural, plural owner, singular possession, accusative
-		case)
-	</UL>
-</UL>
+* <I>könnyedén</I> (SSS)
+  * <I>könny</I> = a tear (singular)
+  * <I>könnyed</I> = your tear (singular owner)
+  * <I>könnyedé</I> = (possession) of your tear (singular possession)
+  * <I>könnyedén</I> = (on the possession) of your tear (superessive case)
+* <I>ellenfeleié</I> (PSS)
+  * <I>ellenfél</I> = an opponent (singular)
+  * <I>ellenfele</I> = his/her/its opponent (singular owner)
+  * <I>ellenfelei</I> = his/her/its opponents (core plural, singular owner)
+  * <I>ellenfeleié</I> = (possession) of his/her/its opponents (singular possession)
+* <I>életeké</I> (SPS)
+  * <I>él</I> = point (singular)
+  * <I>élek</I> = points (plural)
+  * <I>élén</I> = his/her/its point (singular owner)
+  * <I>élünk</I> = our point (plural owner)
+  * <I>életeké</I> = (possession) of our point (singular possession)
+* <I>tárgyalópartnereinkét</I> (PPS)
+  * <I>tárgyalópartner</I> = negotiator (singular)
+  * <I>tárgyalópartnerei</I> = his/her/its negotiators (plural, singular owner)
+  * <I>tárgyalópartnereinkét</I> = (possession) of our negotiators (plural, plural owner, singular possession, accusative case)
 
 Words marked for plural possessions are very rare, though. Note
 that in the following example from Multext-East, Columbus is marked
 for plural possession, but not for his own owner. 
 
-
-<UL>
-	<LI><I>Kolumbuszéinál</I>
-	<UL>
-		<LI><I>Kolumbusz</I> = Columbus
-		(singular)
-		<LI><I>Kolumbuszéi</I> =
-		(possessions) of Columbus (plural possession)
-		<LI><I>Kolumbuszéinál</I> = (at the possessions) of Columbus
-		(adessive case)
-	</UL>
-</UL>
+* <I>Kolumbuszéinál</I>
+  * <I>Kolumbusz</I> = Columbus (singular)
+  * <I>Kolumbuszéi</I> = (possessions) of Columbus (plural possession)
+  * <I>Kolumbuszéinál</I> = (at the possessions) of Columbus (adessive case)
 
 ### Sing: singular possession
 
