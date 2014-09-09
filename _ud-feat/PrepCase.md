@@ -6,8 +6,6 @@ shortdef: 'case form sensitive to prepositions'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-## PrepCase
-
 Personal pronouns in some languages
 have different forms depending on whether they are objects of
 prepositions or not. For instance, Czech <I>on</I>
