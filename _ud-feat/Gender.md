@@ -23,14 +23,14 @@ in future.
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex. Example: [cs]
-<I>hrad </I>(castle)
+<I><span style='color: red'>hrad</span></I> (castle)
 
-## Fem: feminine gender
+### Fem: feminine gender
 
 Nouns denoting
 female persons are feminine. Other nouns may be also grammatically
-feminine, without any relation to sex. Example: [de] <I>Burg
-</I>(castle)
+feminine, without any relation to sex. Example: [de] <I><span style='color: red'>Burg</span></I>
+(castle)
 
 ### Neut: neuter gender
 

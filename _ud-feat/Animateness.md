@@ -30,9 +30,6 @@ human vs. non-human animates. It can be demonstrated by inflection of
 the example word <I>który</I>
 (which) (boldface forms differ from the middle row):
 
-<BR><BR>
-
-
 <TABLE WIDTH=643 CELLPADDING=2 CELLSPACING=0>
 	<COL WIDTH=49>
 	<COL WIDTH=44>
@@ -50,273 +47,168 @@ the example word <I>który</I>
 	<TR>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>gender </FONT>
-			
-
 		</TD>
 		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-nom </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-gen </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-dat </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-acc </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-ins </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>sg-loc </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-nom </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-gen </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-dat </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-acc </FONT>
-			
-
 		</TD>
 		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-ins </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>pl-loc </FONT>
-			
-
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>animate human </FONT>
-			
-
 		</TD>
 		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>który </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którego </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>któremu </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którego </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<STRONG><FONT SIZE=2>którzy</FONT></STRONG><FONT SIZE=2> </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<STRONG><FONT SIZE=2>których</FONT></STRONG><FONT SIZE=2> </FONT>
-			
-
 		</TD>
 		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którymi </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których </FONT>
-			
-
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>animate non-human </FONT>
-			
-
 		</TD>
 		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>który </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którego </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>któremu </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którego </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>które </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>które </FONT>
-			
-
 		</TD>
 		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którymi </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których </FONT>
-			
-
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>in-animate </FONT>
-			
-
 		</TD>
 		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>który </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którego </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>któremu </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<STRONG><FONT SIZE=2>który</FONT></STRONG><FONT SIZE=2> </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>które </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których </FONT>
-			
-
 		</TD>
 		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którym </FONT>
-			
-
 		</TD>
 		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>które </FONT>
-			
-
 		</TD>
 		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>którymi </FONT>
-			
-
 		</TD>
 		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
 			<FONT SIZE=2>których</FONT>
-
 		</TD>
 	</TR>
 </TABLE>
-<BR><BR>
-
 
 ### Anim: animate
 
