@@ -18,7 +18,7 @@
         root + 'lib/brat/visualizer.js',
 
         // embedding support modules
-        root + 'lib/local/embed.js',
+        root + 'lib/local/annodoc.js',
         root + 'lib/local/config.js'
     );
 
@@ -29,10 +29,7 @@
     ];
 
     head.ready(function() {
-        // TODO: avoid global collData
-        collData = Config.bratCollData;
-
 	// performes all embedding and support functions
-	Embed.embedBratVisualizations();
+	Annodoc.activate(Config.bratCollData);
     });
 </script>
