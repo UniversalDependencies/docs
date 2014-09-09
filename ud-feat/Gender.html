@@ -1,0 +1,294 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Gender</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/Gender.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="gender-gender">Gender: gender</h2>
+
+<p>Gender is usually a lexical feature of nouns and inflectional
+feature of other parts of speech (adjectives, verbs) that mark
+agreement with nouns. In English gender affects only the choice of
+the personal pronoun <i>(he / she / it)</i> and the feature is
+usually not encoded in English tagsets.</p>
+
+<p>African languages have analogous feature of noun classes: there
+might be separate grammatical categories for flat objects, long thin
+objects etc. African noun classes are not covered in the current
+proposal because none of the tagsets that are currently covered by
+Interset is for a language that has noun classes. They might be added
+in future.</p>
+
+<h3 id="masc-masculine-gender">Masc: masculine gender</h3>
+
+<p>Nouns denoting male persons are masculine. Other nouns may be also
+grammatically masculine, without any relation to sex. Example: [cs]
+<i>hrad </i>(castle)</p>
+
+<h2 id="fem-feminine-gender">Fem: feminine gender</h2>
+
+<p>Nouns denoting
+female persons are feminine. Other nouns may be also grammatically
+feminine, without any relation to sex. Example: [de] <i>Burg
+</i>(castle)</p>
+
+<h3 id="neut-neuter-gender">Neut: neuter gender</h3>
+
+<p>Some
+languages have only the masculine/feminine distinction while others
+also have this third gender for nouns that are neither masculine nor
+feminine (grammatically).</p>
+
+<h3 id="com-common-gender">Com: common gender</h3>
+
+<p>Some languages do not distinguish
+masculine/feminine most of the time but they do distinguish neuter
+vs. non-neuter (Swedish neutrum / utrum). The non-neuter is called
+common gender.</p>
+
+<p>Note that it
+could also be expressed as a combined value Gender
+= “Fem,Masc”
+and it is thus questionable whether we want to keep it also as a
+separate value. In Interset I decided to keep it because I try
+to limit using combined feature values to exceptional, undecided
+cases, not to something that occurs systematically in the grammar.
+The
+natural downside is that we have to decide for every new tagset
+mapping whether to use “Com”
+or not.</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding support modules
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    head.ready(function() {
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
+	Embed.embedBratVisualizations();
+    });
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>

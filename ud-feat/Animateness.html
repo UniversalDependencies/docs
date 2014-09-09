@@ -1,0 +1,571 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Animateness</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/Animateness.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="animateness-animateness">Animateness: animateness</h2>
+
+<h2 id="animateness">Animateness</h2>
+
+<p><span style="background: #ffff00">DZ: We have several features
+called X-ness: Animateness, Definiteness, Negativeness, Politeness.
+Should we shorten these by cutting off the <i>-ness</i>
+part? Or even <i>-(ate|ite|ive)ness</i>?</span></p>
+
+<p>Similarly to Gender (and to the African noun classes), animateness
+is usually a lexical feature of nouns and inflectional feature of
+other parts of speech that mark agreement with nouns. It is
+independent of gender, therefore it is encoded separately in some
+tagsets (e.g. all the Multext-East tagsets). On the other hand, in
+Czech the (almost) only grammatical implications occur within the
+masculine gender, which is why the PDT tagset does not have
+animateness as separate feature and instead defines four genders:
+masculine animate, masculine inanimate, feminine and neuter. I
+suggest following the two-feature approach used in Multext-East (many
+languages) because it seems to be safer.</p>
+
+<p>Polish is special in that it also distinguishes grammatically
+human vs. non-human animates. It can be demonstrated by inflection of
+the example word <i>który</i>
+(which) (boldface forms differ from the middle row):</p>
+
+<p><br /><br /></p>
+
+<p>&lt;TABLE WIDTH=643 CELLPADDING=2 CELLSPACING=0&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=44&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;COL WIDTH=43&gt;
+	&lt;COL WIDTH=49&gt;
+	&lt;COL WIDTH=47&gt;
+	&lt;COL WIDTH=45&gt;
+	&lt;TR&gt;
+		&lt;TD WIDTH=49 STYLE=”border: none; padding: 0cm”&gt;
+			&lt;FONT SIZE=2&gt;gender &lt;/FONT&gt;</p>
+
+<pre><code>	&lt;/TD&gt;
+	&lt;TD WIDTH=44 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-nom &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-gen &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-dat &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-acc &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-ins &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;sg-loc &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-nom &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-gen &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-dat &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-acc &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=47 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-ins &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;pl-loc &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;animate human &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=44 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;STRONG&gt;&lt;FONT SIZE=2&gt;którzy&lt;/FONT&gt;&lt;/STRONG&gt;&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;STRONG&gt;&lt;FONT SIZE=2&gt;których&lt;/FONT&gt;&lt;/STRONG&gt;&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=47 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;animate non-human &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=44 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=47 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;in-animate &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=44 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;który &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którego &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;któremu &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;STRONG&gt;&lt;FONT SIZE=2&gt;który&lt;/FONT&gt;&lt;/STRONG&gt;&lt;FONT SIZE=2&gt; &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=43 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którym &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=49 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;które &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=47 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;którymi &lt;/FONT&gt;
+		
+
+	&lt;/TD&gt;
+	&lt;TD WIDTH=45 STYLE="border: none; padding: 0cm"&gt;
+		&lt;FONT SIZE=2&gt;których&lt;/FONT&gt;
+
+	&lt;/TD&gt;
+&lt;/TR&gt;
+</code></pre>
+<p>&lt;/TABLE&gt;
+<br /><br /></p>
+
+<h3 id="anim-animate">Anim: animate</h3>
+
+<p>Human beings, animals, fictional characters, names of professions
+etc. are all animate. Even nouns that are normally inanimate can be
+inflected as animate if they are personified. For instance, consider
+a children’s story about cars where cars live and talk as people;
+then the cars may become and be inflected as animates.</p>
+
+<h3 id="nhum-animate-but-non-human">Nhum: animate but non-human</h3>
+
+<p>Attested in Polish. In languages where Nhum is used, Anim is
+restricted to human beings (complement of Nhum).</p>
+
+<h3 id="inan-inanimate">Inan: inanimate</h3>
+
+<p>Nouns that are not
+animate are inanimate. (If Nhum is used, nouns that are neither Anim
+nor Nhum are Inan.)</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding support modules
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    head.ready(function() {
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
+	Embed.embedBratVisualizations();
+    });
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>
