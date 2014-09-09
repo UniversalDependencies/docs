@@ -103,6 +103,10 @@ Dependency format, simply wrap it in lines with `~~~ sdparse` and
 `~~~`, as in the example above. (Or, correspondingly, wrap in HTML
 tags `<div class="sd-parse">` and `</div>`)
 
+The documentation system also supports linking of pages in collections
+using a compact syntax: for example, `[ud-dep/aux]()` expands into
+the following link: [ud-dep/aux]()
+
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
 [embedded visualizations](embedsd.html). However, we believe that the

@@ -11,7 +11,7 @@ and embedded brat visualizations. Here's a minimal example:
 
 <div class="example" markdown="1">
 
-An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
+An adjectival complement of a verb is an adjectival phrase which functions as the complement (see [ADJ]()).
 
 ~~~ sdparse
 She looks very beautiful
@@ -25,7 +25,7 @@ visualizations is represented in either the Stanford Dependency or
 CoNLL-X format. For example, the above visualization is generated from
 this input:
 
-    An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb).
+    An adjectival complement of a verb is an adjectival phrase which functions as the complement (see [ADJ]()).
 
     ~~~ sdparse
     She looks very beautiful
