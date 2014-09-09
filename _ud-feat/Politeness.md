@@ -60,8 +60,8 @@ ihr </I></span><span style='color: red'><I>geht</I></span>
 vas / vosotros vais</I></span>
 (you
 go.Sing/Plur); [ja]
-<FONT SIZE=2 STYLE="font-size: 10pt"><span style='color: red'>行かない
-</span></FONT><span style='color: red'><I>ikanai</I></span>
+<span style='color: red'>行かない
+<I>ikanai</I></span>
 (will
 not go)<I>.</I>
 
@@ -86,7 +86,7 @@ go.Sing/Plur);
 / ustedes van</I></span>
 (you
 go.Sing/Plur); [ja]
-<FONT SIZE=2 STYLE="font-size: 10pt"><span style='color: red'>行きません
-</span></FONT><span style='color: red'><I>ikimasen</I></span>
+<span style='color: red'>行きません
+<I>ikimasen</I></span>
 (will
 not go).
