@@ -19,6 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="{{ site.home }}">home</a></span>
 {% if page.generated != 'true' %}
+          <span class="header-text">page.collection: "{{ page.collection }}"</span>
           <span class="header-text"><a href="{{ site.git_edit }}{% if page.collection %}/{{ page.collection | prepend: '_' }}{% endif %}/{{ page.url | split: '/' | last | replace: '.html', '.md' }}" target="#">edit page</a></span>
 {% endif %}
           <span class="header-text"><a href="{{ site.tracker }}">issue tracker</a></span>
