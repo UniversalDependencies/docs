@@ -193,6 +193,23 @@ nsubj(入れる, ロボットは)
 nommod(入れる, 東大に)
 ~~~
 
+## Links to documentation
+
+The system supports a simplified syntax for linking documentation
+pages that are part of a *collection* (e.g. universal dependency
+types, POS tags, etc.).
+
+The basic syntax is `[COLL/DOC]()`, where `COLL` is the collection
+name and `DOC` the document title. For example, `[ud-dep/aux]()` is
+linked as follows: [ud-dep/aux]().
+
+The shorter form `[DOC]()` (omitting the collection) can be used when
+referring to another document in the current collection (e.g. linking
+between different documents in the `ud-dep` collection) or when the
+document title is unique. For example, `[nmod-own]()` can be assured
+to link to [nmod-own]() as the type is unique to the Finnish
+annotation.
+
 ## Cross-references
 
 Basic support for linking and reference-based numbering is included.
