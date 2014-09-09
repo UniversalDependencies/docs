@@ -1,0 +1,351 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>VerbForm</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/VerbForm.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="verbform-form-of-verb-or-form-on-the-border-between-verbs-and-other-parts-of-speech">VerbForm: form of verb or form on the border between verbs and other parts of speech</h2>
+
+<h2 id="verbform">VerbForm</h2>
+
+<p>Even
+though the name of the feature seems to suggest that it is used
+exclusively with verbs, it is not the case. Some verb forms in some
+languages actually form a gray zone between verbs and other parts of
+speech (nouns, adjectives and adverbs). For instance, participles may
+be either classified as verbs or as adjectives, depending on language
+and context. In both cases VerbForm=Part may be used to separate them
+from other verb forms or other types of adjectives.</p>
+
+<h3 id="fin-finite-verb">Fin: finite verb</h3>
+
+<p>Rule
+of thumb: if it has non-empty Mood, it is finite. But beware that
+some tagsets conflate verb forms and moods into one feature.</p>
+
+<p>Examples:
+[en]
+<i>I
+</i><span style="color: red"><i>do</i></span><i>,
+he </i><span style="color: red"><i>does</i></span>.</p>
+
+<h3 id="inf-infinitive">Inf: infinitive</h3>
+
+<p>Infinitive is
+the citation form of verbs in many languages. Unlike in English, it
+often has morphological form that is distinct from the finite forms.
+Infinitives may be used together with auxiliaries to form
+periphrastic tenses (e.g. future tense [cs] <i>budu
+</i><span style="color: red"><i>sedět</i></span><i>
+v letadle</i>
+(I
+will sit in a plane)), they appear as arguments of modal verbs etc.
+In some languages they behave similarly to nouns and are used as such
+(similar to the gerund in English).</p>
+
+<p>Examples:
+[de]
+<i>ich
+muss </i><span style="color: red"><i>gehen</i></span>
+(I must go).</p>
+
+<h3 id="sup-supine">Sup: supine</h3>
+
+<p>Supine is a rare verb form. It
+survives in some Slavic languages (Slovenian) and is used instead of
+infinitive as the argument of motion verbs <i>(I must go)</i>.</p>
+
+<p>A form called “supine” also
+exists in Swedish but I think that the usage is different there
+(Joakim?)</p>
+
+<h3 id="part-participle">Part: participle</h3>
+
+<p>Participle
+is a non-finite verb form that shares properties of verbs and
+adjectives. Its usage varies across languages. It may be used to form
+various periphrastic verb forms such as complex tenses and passives;
+it may be also used purely adjectively.</p>
+
+<p>Other
+features may help to distinguish past/present participles (English),
+active/passive participles (Czech), imperfect/perfect participles
+(Hindi) etc.</p>
+
+<p>Examples:
+[en]
+<i>he
+could have </i><span style="color: red"><i>been
+prepared</i></span><i>
+if he had </i><span style="color: red"><i>forseen</i></span><i>
+it</i>;
+<i>I
+will be </i><span style="color: red"><i>driving</i></span><i>
+home</i>.</p>
+
+<h3 id="trans-transgressive">Trans: transgressive</h3>
+
+<p>The
+transgressive, also called adverbial participle, is a non-finite verb
+form that shares properties of verbs and adverbs. It appears e.g. in
+Slavic and Indo-Aryan languages.</p>
+
+<p>Examples:
+[cs] <i>zírali na
+mne, pevně </i><span style="color: red"><i>svírajíce</i></span><i>
+své zbraně</i>
+(they stared at me <span style="color: red">while
+gripping</span> their guns firmly); <span style="color: red"><i>udělavši</i></span><i>
+večeři, zavolala rodinu ke stolu</i>
+(<span style="color: red">having
+prepared</span> the dinner, she called her
+family to the table).</p>
+
+<h3 id="ger-gerund">Ger: gerund</h3>
+
+<p>Gerund
+is a non-finite verb form that shares properties of verbs and nouns.
+In English it shares the morphological
+form with present participle, which may mean that the tagset will not
+distinguish it from the participle.</p>
+
+<p>Examples:
+[en] <i>I look forward to </i><span style="color: red"><i>seeing</i></span><i>
+you</i>; <i>he
+turns a blind eye to my </i><span style="color: red"><i>being</i></span><i>
+late</i>.</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding support modules
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    head.ready(function() {
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
+	Embed.embedBratVisualizations();
+    });
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>
