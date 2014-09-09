@@ -6,8 +6,6 @@ shortdef: 'whether the word can be or is negated'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-## Negativeness
-
 Negativeness is
 typically a feature of verbs, adjectives, sometimes also adverbs and
 nouns in languages that negate using bound morphemes. For instance,
