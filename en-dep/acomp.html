@@ -228,7 +228,7 @@ acomp in other languages:
         root + 'lib/brat/visualizer.js',
 
         // embedding support modules
-        root + 'lib/local/embed.js',
+        root + 'lib/local/annodoc.js',
         root + 'lib/local/config.js'
     );
 
@@ -238,12 +238,1070 @@ acomp in other languages:
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
-    head.ready(function() {
-        // TODO: avoid global collData
-        collData = Config.bratCollData;
+    /* collection data, filled in by Jekyll */
+    var documentCollections = {
+        "_current" : "",
 
+        "ud-pos": [
+
+            {
+                "title": "ADJ",
+                "url":   "/docs/ud-pos/ADJ.html",
+            },
+
+            {
+                "title": "ADP",
+                "url":   "/docs/ud-pos/ADP.html",
+            },
+
+            {
+                "title": "ADV",
+                "url":   "/docs/ud-pos/ADV.html",
+            },
+
+            {
+                "title": "AUX",
+                "url":   "/docs/ud-pos/AUX_.html",
+            },
+
+            {
+                "title": "CONJ",
+                "url":   "/docs/ud-pos/CONJ.html",
+            },
+
+            {
+                "title": "DET",
+                "url":   "/docs/ud-pos/DET.html",
+            },
+
+            {
+                "title": "INTJ",
+                "url":   "/docs/ud-pos/INTJ.html",
+            },
+
+            {
+                "title": "NOUN",
+                "url":   "/docs/ud-pos/NOUN.html",
+            },
+
+            {
+                "title": "NUM",
+                "url":   "/docs/ud-pos/NUM.html",
+            },
+
+            {
+                "title": "PART",
+                "url":   "/docs/ud-pos/PART.html",
+            },
+
+            {
+                "title": "PRON",
+                "url":   "/docs/ud-pos/PRON.html",
+            },
+
+            {
+                "title": "PROPN",
+                "url":   "/docs/ud-pos/PROPN.html",
+            },
+
+            {
+                "title": "PUNCT",
+                "url":   "/docs/ud-pos/PUNCT.html",
+            },
+
+            {
+                "title": "SCONJ",
+                "url":   "/docs/ud-pos/SCONJ.html",
+            },
+
+            {
+                "title": "SYM",
+                "url":   "/docs/ud-pos/SYM.html",
+            },
+
+            {
+                "title": "VERB",
+                "url":   "/docs/ud-pos/VERB.html",
+            },
+
+            {
+                "title": "X",
+                "url":   "/docs/ud-pos/X.html",
+            },
+
+        ],
+
+        "ud-feat": [
+
+            {
+                "title": "Animateness",
+                "url":   "/docs/ud-feat/Animateness.html",
+            },
+
+            {
+                "title": "Aspect",
+                "url":   "/docs/ud-feat/Aspect.html",
+            },
+
+            {
+                "title": "Case",
+                "url":   "/docs/ud-feat/Case.html",
+            },
+
+            {
+                "title": "Definiteness",
+                "url":   "/docs/ud-feat/Definiteness.html",
+            },
+
+            {
+                "title": "Degree",
+                "url":   "/docs/ud-feat/Degree.html",
+            },
+
+            {
+                "title": "Gender",
+                "url":   "/docs/ud-feat/Gender.html",
+            },
+
+            {
+                "title": "Mood",
+                "url":   "/docs/ud-feat/Mood.html",
+            },
+
+            {
+                "title": "Negativeness",
+                "url":   "/docs/ud-feat/Negativeness.html",
+            },
+
+            {
+                "title": "NumType",
+                "url":   "/docs/ud-feat/NumType.html",
+            },
+
+            {
+                "title": "Number",
+                "url":   "/docs/ud-feat/Number.html",
+            },
+
+            {
+                "title": "Person",
+                "url":   "/docs/ud-feat/Person.html",
+            },
+
+            {
+                "title": "Politeness",
+                "url":   "/docs/ud-feat/Politeness.html",
+            },
+
+            {
+                "title": "Poss",
+                "url":   "/docs/ud-feat/Poss.html",
+            },
+
+            {
+                "title": "PossGender",
+                "url":   "/docs/ud-feat/PossGender.html",
+            },
+
+            {
+                "title": "PossNumber",
+                "url":   "/docs/ud-feat/PossNumber.html",
+            },
+
+            {
+                "title": "PossPerson",
+                "url":   "/docs/ud-feat/PossPerson.html",
+            },
+
+            {
+                "title": "PossedNumber",
+                "url":   "/docs/ud-feat/PossedNumber.html",
+            },
+
+            {
+                "title": "PrepCase",
+                "url":   "/docs/ud-feat/PrepCase.html",
+            },
+
+            {
+                "title": "PronType",
+                "url":   "/docs/ud-feat/PronType.html",
+            },
+
+            {
+                "title": "Reflex",
+                "url":   "/docs/ud-feat/Reflex.html",
+            },
+
+            {
+                "title": "Style",
+                "url":   "/docs/ud-feat/Style.html",
+            },
+
+            {
+                "title": "Tense",
+                "url":   "/docs/ud-feat/Tense.html",
+            },
+
+            {
+                "title": "VerbForm",
+                "url":   "/docs/ud-feat/VerbForm.html",
+            },
+
+            {
+                "title": "Voice",
+                "url":   "/docs/ud-feat/Voice.html",
+            },
+
+            {
+                "title": "Abbr",
+                "url":   "/docs/ud-feat/postponed/Abbr.html",
+            },
+
+            {
+                "title": "AdjType",
+                "url":   "/docs/ud-feat/postponed/AdjType.html",
+            },
+
+            {
+                "title": "AdpType",
+                "url":   "/docs/ud-feat/postponed/AdpType.html",
+            },
+
+            {
+                "title": "AdvType",
+                "url":   "/docs/ud-feat/postponed/AdvType.html",
+            },
+
+            {
+                "title": "ConjType",
+                "url":   "/docs/ud-feat/postponed/ConjType.html",
+            },
+
+            {
+                "title": "Echo",
+                "url":   "/docs/ud-feat/postponed/Echo.html",
+            },
+
+            {
+                "title": "Foreign",
+                "url":   "/docs/ud-feat/postponed/Foreign.html",
+            },
+
+            {
+                "title": "Hyph",
+                "url":   "/docs/ud-feat/postponed/Hyph.html",
+            },
+
+            {
+                "title": "Meta",
+                "url":   "/docs/ud-feat/postponed/Meta.html",
+            },
+
+            {
+                "title": "NumForm",
+                "url":   "/docs/ud-feat/postponed/NumForm.html",
+            },
+
+            {
+                "title": "NumValue",
+                "url":   "/docs/ud-feat/postponed/NumValue.html",
+            },
+
+            {
+                "title": "PartType",
+                "url":   "/docs/ud-feat/postponed/PartType.html",
+            },
+
+            {
+                "title": "PunctSide",
+                "url":   "/docs/ud-feat/postponed/PunctSide.html",
+            },
+
+            {
+                "title": "PunctType",
+                "url":   "/docs/ud-feat/postponed/PunctType.html",
+            },
+
+            {
+                "title": "Typo",
+                "url":   "/docs/ud-feat/postponed/Typo.html",
+            },
+
+            {
+                "title": "VerbType",
+                "url":   "/docs/ud-feat/postponed/VerbType.html",
+            },
+
+        ],
+
+        "en-dep": [
+
+            {
+                "title": "acomp",
+                "url":   "/docs/en-dep/acomp.html",
+            },
+
+            {
+                "title": "advcl",
+                "url":   "/docs/en-dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/en-dep/advmod.html",
+            },
+
+            {
+                "title": "agent",
+                "url":   "/docs/en-dep/agent.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/en-dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/en-dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/en-dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/en-dep/auxpass.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/en-dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/en-dep/ccomp.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/en-dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/en-dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/en-dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/en-dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/en-dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/en-dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/en-dep/discourse.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/en-dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/en-dep/expl.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/en-dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/en-dep/iobj.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/en-dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/en-dep/mwe.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/en-dep/neg.html",
+            },
+
+            {
+                "title": "nn",
+                "url":   "/docs/en-dep/nn.html",
+            },
+
+            {
+                "title": "npadvmod",
+                "url":   "/docs/en-dep/npadvmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/en-dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/en-dep/nsubjpass.html",
+            },
+
+            {
+                "title": "num",
+                "url":   "/docs/en-dep/num.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/en-dep/number.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/en-dep/parataxis.html",
+            },
+
+            {
+                "title": "pcomp",
+                "url":   "/docs/en-dep/pcomp.html",
+            },
+
+            {
+                "title": "pobj",
+                "url":   "/docs/en-dep/pobj.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/en-dep/poss.html",
+            },
+
+            {
+                "title": "possessive",
+                "url":   "/docs/en-dep/possessive.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/en-dep/preconj.html",
+            },
+
+            {
+                "title": "predet",
+                "url":   "/docs/en-dep/predet.html",
+            },
+
+            {
+                "title": "prep",
+                "url":   "/docs/en-dep/prep.html",
+            },
+
+            {
+                "title": "prepc",
+                "url":   "/docs/en-dep/prepc.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/en-dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/en-dep/punct.html",
+            },
+
+            {
+                "title": "quantmod",
+                "url":   "/docs/en-dep/quantmod.html",
+            },
+
+            {
+                "title": "rcmod",
+                "url":   "/docs/en-dep/rcmod.html",
+            },
+
+            {
+                "title": "ref",
+                "url":   "/docs/en-dep/ref.html",
+            },
+
+            {
+                "title": "rel",
+                "url":   "/docs/en-dep/rel.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/en-dep/root.html",
+            },
+
+            {
+                "title": "tmod",
+                "url":   "/docs/en-dep/tmod.html",
+            },
+
+            {
+                "title": "vmod",
+                "url":   "/docs/en-dep/vmod.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/en-dep/xcomp.html",
+            },
+
+            {
+                "title": "xsubj",
+                "url":   "/docs/en-dep/xsubj.html",
+            },
+
+        ],
+
+        "fi-dep": [
+
+            {
+                "title": "acomp",
+                "url":   "/docs/fi-dep/acomp.html",
+            },
+
+            {
+                "title": "advcl",
+                "url":   "/docs/fi-dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/fi-dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/fi-dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/fi-dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/fi-dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/fi-dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/fi-dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/fi-dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/fi-dep/ccomp.html",
+            },
+
+            {
+                "title": "compar",
+                "url":   "/docs/fi-dep/compar.html",
+            },
+
+            {
+                "title": "comparator",
+                "url":   "/docs/fi-dep/comparator.html",
+            },
+
+            {
+                "title": "complm",
+                "url":   "/docs/fi-dep/complm.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/fi-dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/fi-dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/fi-dep/cop.html",
+            },
+
+            {
+                "title": "csubj-cop",
+                "url":   "/docs/fi-dep/csubj-cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/fi-dep/csubj.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/fi-dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/fi-dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/fi-dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/fi-dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/fi-dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/fi-dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/fi-dep/foreign.html",
+            },
+
+            {
+                "title": "gobj",
+                "url":   "/docs/fi-dep/gobj.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/fi-dep/goeswith.html",
+            },
+
+            {
+                "title": "gsubj",
+                "url":   "/docs/fi-dep/gsubj.html",
+            },
+
+            {
+                "title": "iccomp",
+                "url":   "/docs/fi-dep/iccomp.html",
+            },
+
+            {
+                "title": "infmod",
+                "url":   "/docs/fi-dep/infmod.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/fi-dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/fi-dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/fi-dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/fi-dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/fi-dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/fi-dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/fi-dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod-own",
+                "url":   "/docs/fi-dep/nmod-own.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/fi-dep/nmod.html",
+            },
+
+            {
+                "title": "nn",
+                "url":   "/docs/fi-dep/nn.html",
+            },
+
+            {
+                "title": "nsubj-cop",
+                "url":   "/docs/fi-dep/nsubj-cop.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/fi-dep/nsubj.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/fi-dep/number.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/fi-dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/fi-dep/parataxis.html",
+            },
+
+            {
+                "title": "partmod",
+                "url":   "/docs/fi-dep/partmod.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/fi-dep/poss.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/fi-dep/preconj.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/fi-dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/fi-dep/punct.html",
+            },
+
+            {
+                "title": "quantmod",
+                "url":   "/docs/fi-dep/quantmod.html",
+            },
+
+            {
+                "title": "rel",
+                "url":   "/docs/fi-dep/rel.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/fi-dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/fi-dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/fi-dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/fi-dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/fi-dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/fi-dep/xcomp.html",
+            },
+
+        ],
+
+        "ud-dep": [
+
+            {
+                "title": "advcl",
+                "url":   "/docs/ud-dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/ud-dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/ud-dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/ud-dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/ud-dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/ud-dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/ud-dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/ud-dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/ud-dep/ccomp.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/ud-dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/ud-dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/ud-dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/ud-dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/ud-dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/ud-dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/ud-dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/ud-dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/ud-dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/ud-dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/ud-dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/ud-dep/foreign.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/ud-dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/ud-dep/iobj.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/ud-dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/ud-dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/ud-dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/ud-dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/ud-dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/ud-dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/ud-dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/ud-dep/nmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/ud-dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/ud-dep/nsubjpass.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/ud-dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/ud-dep/parataxis.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/ud-dep/punct.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/ud-dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/ud-dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/ud-dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/ud-dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/ud-dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/ud-dep/xcomp.html",
+            },
+
+        ],
+
+    };
+
+    head.ready(function() {
 	// performes all embedding and support functions
-	Embed.embedBratVisualizations();
+	Annodoc.activate(Config.bratCollData, documentCollections);
     });
 </script>
 
