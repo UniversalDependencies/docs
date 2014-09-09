@@ -1,0 +1,290 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>PossGender</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat/PossGender.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="possgender-possessors-gender">PossGender: possessor’s gender</h2>
+
+<p>Possessive
+adjectives and pronouns may have two different genders: that of the
+possessed object (gender agreement with modified noun) and that of
+the possessor (lexical feature, inherent gender). The PossGender
+feature captures the possessor’s gender. For simplicity, the set of
+possible values is identical to Gender, although only a subset has
+been observed in corpora so far.</p>
+
+<p>In
+the Czech examples below, the masculine PossGender implies using one
+of the suffixes <i>-</i><i>ův, -ova, -ovo,</i>
+and the feminine PossGender implies using one of <i>-</i><i>in,
+-ina, -ino</i>.</p>
+
+<h3 id="masc-masculine-possessor">Masc: masculine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>otcův
+syn</i></span>
+(father’s
+son; PossGender=Masc|Gender=Masc);
+<span style="color: red"><i>otcova
+dcera</i></span>
+(father’s
+daughter; PossGender=Masc|Gender=Fem);
+<span style="color: red"><i>otcovo
+dítě</i></span>
+(father’s
+child; PossGender=Masc|Gender=Neut).</p>
+
+<h3 id="fem-feminine-possessor">Fem: feminine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>m</i></span><span style="color: red"><i>atčin
+syn</i></span>
+(mother’s
+son; PossGender=Fem|Gender=Masc);
+<span style="color: red"><i>matčina
+dcera</i></span>
+(mother’s
+daughter; PossGender=Fem|Gender=Fem);
+<span style="color: red"><i>matčino
+dítě</i></span>
+(mother’s
+child; PossGender=Fem|Gender=Neut).</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding support modules
+        root + 'lib/local/embed.js',
+        root + 'lib/local/config.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    head.ready(function() {
+        // TODO: avoid global collData
+        collData = Config.bratCollData;
+
+	// performes all embedding and support functions
+	Embed.embedBratVisualizations();
+    });
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>
