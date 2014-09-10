@@ -69,8 +69,8 @@ We extract the raw token sequence by skipping all integer IDs that are included 
     3-4    al        _
     5      mar       mar		
 
-To facilitate the use of CoNLL-U treebanks, we provide a script that extracts either the annotated (_word_) sequence (with
-the original integer IDs) or the raw (_token_) sequence with a heuristic mapping of morphological and syntactic annotation 
+To facilitate the use of CoNLL-U treebanks, we provide a script that extracts either the annotated _word_ sequence (with
+the original integer IDs) or the raw _token_ sequence with a heuristic mapping of morphological and syntactic annotation 
 and plain integer indexing (like [the traditional CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat)). Moreover, to 
 facilitate parser evaluation for languages with nondeterministic word segmentation, we also provide a mapping to a format
 where tokens are indexed with integers and words (if needed) with decimals. We refer to this scheme as _token indexing_, 
