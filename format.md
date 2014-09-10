@@ -19,7 +19,7 @@ Word lines contain the following fields:
  3. LEMMA: Lemma or stem of word form.
  4. CPOSTAG: Google universal part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
- 6. FEATS: List of morphological features (attribute-value pairs); underscore if not available.
+ 6. FEATS: List of morphological features (attribute-value pairs) from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html); underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
  8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
@@ -87,7 +87,7 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
 
 # Morphological Annotation
 
-The CPOSTAG field contains a part-of-speech tag from the [Universal POS tags](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
+The CPOSTAG field contains a part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
 All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. Here is an example, showing only the first five fields for the 
