@@ -84,11 +84,7 @@ title:  'Features'
 
 Alphabetical listing
 
-<ul>
-{% for p in site.ud-feat %}
-  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+## Features 1
 
 All of these can be considered attributes of lemmas (rather than
 individual word forms) and they represent a fine-grained
@@ -96,9 +92,18 @@ sub-classification of words.
 
 Many features' names suggest that they are subclasses of one
 particular core part of speech but this is not always the case,
-especially not with "prontype". We may want to rename them if this is
-too confusing but I'm quite fine with the current names. Some features
-are boolean, see below.
+especially not with PronType. Some features
+are boolean.
+
+## Features 2
+
+These are mostly inflectional features, i.e. they are features of word forms
+rather than lemmas. There are exceptions: for instance, Gender of nouns is
+usually a lexical feature (all word forms of one lemma have the same gender).
+However, other parts of speech (adjectives, pronouns, verbs) may inflect for
+gender because of agreement with nouns.
+
+## Remarks
 
 The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and new features may appear as new
@@ -115,6 +120,35 @@ split such words into separate tokens (Interset takes input
 tokenization as fixed).
 
 -------------
+
+## Extension: Interset features that are not part of this standard
+
+Universal Features are mostly derived from the
+<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
+(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
+Interset contains additional features that have not yet been adopted as
+Universal Features. However, they may be used, if necessary, as part of the
+“language-specific extensions” to the Universal Features.
+
+The following Interset features are currently not part of the standard:
+
+* <a href="postponed/Abbr.html">Abbr</a>
+* <a href="postponed/AdjType.html">AdjType</a>
+* <a href="postponed/AdpType.html">AdpType</a>
+* <a href="postponed/AdvType.html">AdvType</a>
+* <a href="postponed/ConjType.html">ConjType</a>
+* <a href="postponed/Echo.html">Echo</a>
+* <a href="postponed/Foreign.html">Foreign</a>
+* <a href="postponed/Hyph.html">Hyph</a>
+* <a href="postponed/Meta.html">Meta</a>
+* <a href="postponed/NumForm.html">NumForm</a>
+* <a href="postponed/NumValue.html">NumValue</a>
+* <a href="postponed/PartType.html">PartType</a>
+* <a href="postponed/PunctSide.html">PunctSide</a>
+* <a href="postponed/PunctType.html">PunctType</a>
+* <a href="postponed/Style.html">Style</a>
+* <a href="postponed/Typo.html">Typo</a>
+* <a href="postponed/VerbType.html">VerbType</a>
 
 ## Other features
 
