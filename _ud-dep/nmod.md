@@ -6,7 +6,9 @@ shortdef: 'nominal modifier'
 
 ## nmod: nominal modifier
 
-The *nmod* relation is used for nominal modifiers. In general, *nmod* expresses some form of oblique or adjunct relation that can be further specified by the *case*.  In conjunction with the *case* relation, it provides a uniform analysis for:
+The *nmod* relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
+
+In general, *nmod* expresses some form of oblique or adjunct relation that can be further specified by the *case*.  In conjunction with the *case* relation, it provides a uniform analysis for:
 
 - the possessive alternation:
 
