@@ -109,15 +109,15 @@ The HEAD and DEPREL fields are used to encode a dependency tree over words. The 
 As in the case of morphology, syntactic annotation is only provided for words.
 Tokens that are not words have an underscore in both the HEAD and DEPREL fields. However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
 
-    1     I         I        PRON    PRN      Num=Sing|Per=1     2.1    nsubj
-    2     haven't   _        _       _        _                  _      _
-    2.1   have      have     VERB    VB       Tens=Pres          0      root
-    2.2   n't       not      ADV     RB       _                  2.1    neg
-    3     a         a        DET     DT       _                  4      det
-    4     clue      clue     NOUN    NN       Num=Sing           2.1    dobj
-    5     .         .        PUNCT   .        _                  2.1    punct
+    1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
+    2-3   haven't   _        _       _        _                  _      _
+    2     have      have     VERB    VB       Tens=Pres          0      root
+    3     not       not      ADV     RB       _                  2      neg
+    4     a         a        DET     DT       _                  4      det
+    5     clue      clue     NOUN    NN       Num=Sing           2      dobj
+    6     .         .        PUNCT   .        _                  2      punct
  
-We can extract the following approximation at the token level:
+We can extract the following approximation at the token level (with token indexing):
 
     1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
     2     haven't   _        VERB    _        Tens=Pres          0      root
@@ -162,8 +162,10 @@ Lines starting with the `#` character and preceding a sentence are considered as
     # sent_id 2
     # ...
     1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
-    2     haven't   _        _       _        _                  _      _
-    3     a         a        DET     DT       _                  4      det
-    4     clue      clue     NOUN    NN       Num=Sing           2      dobj
-    5     .         .        PUNCT   .        _                  2      punct
+    2-3   haven't   _        _       _        _                  _      _
+    2     have      have     VERB    VB       Tens=Pres          0      root
+    3     not       not      ADV     RB       _                  2      neg
+    4     a         a        DET     DT       _                  4      det
+    5     clue      clue     NOUN    NN       Num=Sing           2      dobj
+    6     .         .        PUNCT   .        _                  2      punct
  
