@@ -7,7 +7,7 @@ shortdef: 'case marking'
 ## case: case marking
 
 
-The *case* relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause it attaches to or introduces. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The *case* relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
+The *case* relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The *case* relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
 
 <div class="sd-parse">
 the Chair 's office
@@ -25,6 +25,7 @@ det(Chair-5, the-4)
 </div>
 
 French:
+
 <div class="sd-parse">
 le bureau du président \n the office of the_Chair
 det(bureau, le)
@@ -32,8 +33,8 @@ nmod(bureau, président)
 case(président, du)
 </div>
 
-
 Hebrew:
+
 <div class="sd-parse">
 wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
 dobj(wkfraiti-1, hsrj-3)
@@ -43,8 +44,10 @@ case(hsrj-3, at-2)
 
 When case markers are morphemes, they are not divided off the noun as a separate case dependent, but the noun as a whole is analyzed as a *nmod* of the verb. To overtly mark case, POS tags are included in the representation as shown below on a Russian example. We use the universal POS tagset from Petrov et al. (2012) to which we append case information.
 
+<span style='background: yellow'>**NOTE:** This is now being changed as the universal POS tags are revised and Universal Features are newly defined.</span>
+
 <div class="sd-parse">
-Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
+Я написал письмо пером \n Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
 nsubj(napisal-2, Ya-1)
 dobj(napisal-2, pis'mo-3)
 nmod(napisal-2, perom-4)
