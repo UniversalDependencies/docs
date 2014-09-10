@@ -7,6 +7,13 @@ title:  'Features'
 
 ## Universal features
 
+<table>
+  <tr>
+    <td>Features 1</td>
+    <td>Features 2</td>
+  </tr>
+</table>
+
 Alphabetical listing
 
 <ul>
