@@ -147,15 +147,16 @@ The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and new features may appear as new
 tagsets are converted.
 
-There is no consistent solution for fusion words (a word that is
-result of merging two other words which are syntactically independent
-and belong to different parts of speech): Czech "dělals" (dělal + jsi
-... main verb + auxiliary), "proň" (pro + něj ... preposition +
-pronoun), German "zum" (zu + dem ... preposition + article) etc.
-Interset currently contains a few ad-hoc values for instantiations
-that I encountered but the only truly general approach seems to be to
-split such words into separate tokens (Interset takes input
-tokenization as fixed).
+Unlike in various language-specific tagsets, the Universal Features do not
+include features aimed at marking _fusion words_ (a word that is result of
+merging two other words, which are syntactically independent and belong to
+different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
+auxiliary); _proň (pro + něj ... preposition + pronoun); German _zum (zu +
+dem_ ... preposition + article); Spanish _dámelo (da + me + lo ... verb +
+clitics) etc. The only truly general approach to fusion words is to apply
+language-specific processing step that will split tokens into syntactic words
+where necessary. Every syntactic word will then get its own part-of-speech tag
+and features. See also <a href="format.html">Format</a>.
 
 -------------
 
