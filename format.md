@@ -19,7 +19,7 @@ Word lines contain the following fields:
  3. LEMMA: Lemma or stem of word form.
  4. CPOSTAG: Google universal part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
- 6. FEATS: List of morphological features (attribute-value pairs) from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html); underscore if not available.
+ 6. FEATS: List of morphological features (attribute-value pairs) from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-particular extension; underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
  8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
@@ -143,6 +143,22 @@ or projective heads and dependency relations (cf. the old PHEAD and PDEPREL fiel
 the CoNLL-X format). The exact format used in this field should be specified in the
 treebank-specific documentation, but it is recommended to use a list of attribute-value pairs as in the FEATS field. 
 If the MISC field is not used, it should contain an underscore.
+
+## Untokenized text
+
+To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field:
+
+    1-2   He's      _         _       _       _                _   _       _   _
+    1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj   _   _
+    2     is        be        VERB    VBZ     Tense=Pres       0   root    _   _
+    3     in        in        ADP     IN      _                6   case    _   _
+    4     the       the       DET     DT      PronType=Art     6   det     _   _
+    5     United    unite     VERB    VBD     VerbForm=Part    6   ???     _   _
+    6     Kingdom   kingdom   NOUN    NN      Num=Sing         2   nmod?   _   _
+    7     (         (         PUNCT   -LRB-   _                8   punct   _   SpaceAfter=No
+    8     UK        UK        PROPN   NNP     Num=Sing         6   apos?   _   SpaceAfter=No
+    9     )         )         PUNCT   -RRB-   _                8   punct   _   SpaceAfter=No
+    10    .         .         PUNCT   .       _                2   punct   _   _
 
 # Sentence Boundaries and Comments
 
