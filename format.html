@@ -190,17 +190,17 @@ If the MISC field is not used, it should contain an underscore.</p>
 
 <p>To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain <code>SpaceAfter=No</code> in its MISC field:</p>
 
-<pre><code>1-2   He's      _         _       _       _                _   _       _   _
-1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj   _   _
-2     is        be        VERB    VBZ     Tense=Pres       0   root    _   _
-3     in        in        ADP     IN      _                6   case    _   _
-4     the       the       DET     DT      PronType=Art     6   det     _   _
-5     United    unite     VERB    VBD     VerbForm=Part    6   ???     _   _
-6     Kingdom   kingdom   NOUN    NN      Num=Sing         2   nmod?   _   _
-7     (         (         PUNCT   -LRB-   _                8   punct   _   SpaceAfter=No
-8     UK        UK        PROPN   NNP     Num=Sing         6   apos?   _   SpaceAfter=No
-9     )         )         PUNCT   -RRB-   _                8   punct   _   SpaceAfter=No
-10    .         .         PUNCT   .       _                2   punct   _   _
+<pre><code>1-2   He's      _         _       _       _                _   _        _   _
+1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj    _   _
+2     is        be        VERB    VBZ     Tense=Pres       0   root     _   _
+3     in        in        ADP     IN      _                6   case     _   _
+4     the       the       DET     DT      PronType=Art     6   det      _   _
+5     United    unite     VERB    VBD     VerbForm=Part    6   nfincl   _   _
+6     Kingdom   kingdom   NOUN    NN      Num=Sing         2   nmod     _   _
+7     (         (         PUNCT   -LRB-   _                8   punct    _   SpaceAfter=No
+8     UK        UK        PROPN   NNP     Num=Sing         6   appos    _   SpaceAfter=No
+9     )         )         PUNCT   -RRB-   _                8   punct    _   SpaceAfter=No
+10    .         .         PUNCT   .       _                2   punct    _   _
 </code></pre>
 
 <h1 id="sentence-boundaries-and-comments">Sentence Boundaries and Comments</h1>
