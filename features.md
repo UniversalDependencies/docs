@@ -104,7 +104,7 @@ title:  'Features'
   which means that the feature is either irrelevant for this part of speech,
   or its value cannot be determined for this word form due to language-specific reasons.
 * Even though the features vary in nature and can be grouped (as in the table
-  above), all features with non-empty values appear together in the same FEAT
+  above), all features with non-empty values appear together in the same FEATS
   column.
 * Canonical ordering: features of one word (appearing on the same line) are
   always ordered alphabetically; if a feature has multiple values, these are
