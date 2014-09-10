@@ -151,7 +151,7 @@ different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
 auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
 Spanish _dámelo (da + me + lo_ ... verb +
 clitics) etc. The only truly general approach to fusion words is to apply
-language-specific processing step that will split tokens into syntactic words
+a language-specific processing step that will split tokens into syntactic words
 where necessary. Every syntactic word will then get its own part-of-speech tag
 and features. See also <a href="format.html">Format</a>.
 
