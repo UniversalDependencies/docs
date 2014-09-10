@@ -8,6 +8,8 @@ shortdef: 'non-finite clause'
 
 The *nfincl* relation stands for "non-finite clause" and is used for participial and infinitival modifiers.
 
+Modifiers labeled *nfincl* depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
+
 
 <div class="sd-parse">
 Levi's based in San Francisco produces jeans.
