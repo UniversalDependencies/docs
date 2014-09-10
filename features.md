@@ -82,7 +82,7 @@ title:  'Features'
   </tr>
 </table>
 
-General rules
+### General rules
 
 * There are two types of identifiers:
   - feature names = _features_
@@ -122,18 +122,15 @@ General rules
   and it should never be assumed that the feature cannot appear together with
   a particular POS tag.
 
-## Features 1
+### Features 1
 
 All of these can be considered attributes of lemmas (rather than
 individual word forms) and they represent a fine-grained
 sub-classification of words.
 
-Many features' names suggest that they are subclasses of one
-particular core part of speech but this is not always the case,
-especially not with PronType. Some features
-are boolean.
+Some features are boolean.
 
-## Features 2
+### Features 2
 
 These are mostly inflectional features, i.e. they are features of word forms
 rather than lemmas. There are exceptions: for instance, Gender of nouns is
@@ -141,7 +138,7 @@ usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.
 
-## Remarks
+### Remarks
 
 The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and new features may appear as new
