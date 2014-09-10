@@ -115,89 +115,7 @@
 
 <p>Alphabetical listing</p>
 
-<ul>
-
-  <li><a href="ud-feat/Animateness.html">Animateness</a>: animateness</li>
-
-  <li><a href="ud-feat/Aspect.html">Aspect</a>: aspect</li>
-
-  <li><a href="ud-feat/Case.html">Case</a>: case</li>
-
-  <li><a href="ud-feat/Definiteness.html">Definiteness</a>: definiteness or state</li>
-
-  <li><a href="ud-feat/Degree.html">Degree</a>: degree of comparison</li>
-
-  <li><a href="ud-feat/Gender.html">Gender</a>: gender</li>
-
-  <li><a href="ud-feat/Mood.html">Mood</a>: mood</li>
-
-  <li><a href="ud-feat/Negativeness.html">Negativeness</a>: whether the word can be or is negated</li>
-
-  <li><a href="ud-feat/NumType.html">NumType</a>: numeral type</li>
-
-  <li><a href="ud-feat/Number.html">Number</a>: number</li>
-
-  <li><a href="ud-feat/Person.html">Person</a>: person</li>
-
-  <li><a href="ud-feat/Politeness.html">Politeness</a>: distinguish informal and polite registers</li>
-
-  <li><a href="ud-feat/Poss.html">Poss</a>: possessive</li>
-
-  <li><a href="ud-feat/PossGender.html">PossGender</a>: possessor’s gender</li>
-
-  <li><a href="ud-feat/PossNumber.html">PossNumber</a>: possessor’s number</li>
-
-  <li><a href="ud-feat/PossPerson.html">PossPerson</a>: possessor’s person</li>
-
-  <li><a href="ud-feat/PossedNumber.html">PossedNumber</a>: possessed object’s number</li>
-
-  <li><a href="ud-feat/PrepCase.html">PrepCase</a>: case form sensitive to prepositions</li>
-
-  <li><a href="ud-feat/PronType.html">PronType</a>: pronominal type</li>
-
-  <li><a href="ud-feat/Reflex.html">Reflex</a>: reflexive</li>
-
-  <li><a href="ud-feat/Style.html">Style</a>: style or sublanguage to which this word form belongs</li>
-
-  <li><a href="ud-feat/Tense.html">Tense</a>: tense</li>
-
-  <li><a href="ud-feat/VerbForm.html">VerbForm</a>: form of verb or form on the border between verbs and other parts of speech</li>
-
-  <li><a href="ud-feat/Voice.html">Voice</a>: voice</li>
-
-  <li><a href="ud-feat/postponed/Abbr.html">Abbr</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/AdjType.html">AdjType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/AdpType.html">AdpType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/AdvType.html">AdvType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/ConjType.html">ConjType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/Echo.html">Echo</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/Foreign.html">Foreign</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/Hyph.html">Hyph</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/Meta.html">Meta</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/NumForm.html">NumForm</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/NumValue.html">NumValue</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/PartType.html">PartType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/PunctSide.html">PunctSide</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/PunctType.html">PunctType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/Typo.html">Typo</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-  <li><a href="ud-feat/postponed/VerbType.html">VerbType</a>: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</li>
-
-</ul>
+<h2 id="features-1">Features 1</h2>
 
 <p>All of these can be considered attributes of lemmas (rather than
 individual word forms) and they represent a fine-grained
@@ -205,9 +123,18 @@ sub-classification of words.</p>
 
 <p>Many features’ names suggest that they are subclasses of one
 particular core part of speech but this is not always the case,
-especially not with “prontype”. We may want to rename them if this is
-too confusing but I’m quite fine with the current names. Some features
-are boolean, see below.</p>
+especially not with PronType. Some features
+are boolean.</p>
+
+<h2 id="features-2">Features 2</h2>
+
+<p>These are mostly inflectional features, i.e. they are features of word forms
+rather than lemmas. There are exceptions: for instance, Gender of nouns is
+usually a lexical feature (all word forms of one lemma have the same gender).
+However, other parts of speech (adjectives, pronouns, verbs) may inflect for
+gender because of agreement with nouns.</p>
+
+<h2 id="remarks">Remarks</h2>
 
 <p>The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and new features may appear as new
@@ -224,6 +151,37 @@ split such words into separate tokens (Interset takes input
 tokenization as fixed).</p>
 
 <hr />
+
+<h2 id="extension-interset-features-that-are-not-part-of-this-standard">Extension: Interset features that are not part of this standard</h2>
+
+<p>Universal Features are mostly derived from the
+<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
+(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
+Interset contains additional features that have not yet been adopted as
+Universal Features. However, they may be used, if necessary, as part of the
+“language-specific extensions” to the Universal Features.</p>
+
+<p>The following Interset features are currently not part of the standard:</p>
+
+<ul>
+  <li><a href="postponed/Abbr.html">Abbr</a></li>
+  <li><a href="postponed/AdjType.html">AdjType</a></li>
+  <li><a href="postponed/AdpType.html">AdpType</a></li>
+  <li><a href="postponed/AdvType.html">AdvType</a></li>
+  <li><a href="postponed/ConjType.html">ConjType</a></li>
+  <li><a href="postponed/Echo.html">Echo</a></li>
+  <li><a href="postponed/Foreign.html">Foreign</a></li>
+  <li><a href="postponed/Hyph.html">Hyph</a></li>
+  <li><a href="postponed/Meta.html">Meta</a></li>
+  <li><a href="postponed/NumForm.html">NumForm</a></li>
+  <li><a href="postponed/NumValue.html">NumValue</a></li>
+  <li><a href="postponed/PartType.html">PartType</a></li>
+  <li><a href="postponed/PunctSide.html">PunctSide</a></li>
+  <li><a href="postponed/PunctType.html">PunctType</a></li>
+  <li><a href="postponed/Style.html">Style</a></li>
+  <li><a href="postponed/Typo.html">Typo</a></li>
+  <li><a href="postponed/VerbType.html">VerbType</a></li>
+</ul>
 
 <h2 id="other-features">Other features</h2>
 
