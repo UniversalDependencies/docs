@@ -171,6 +171,8 @@ Universal Features. However, they may be used, if necessary, as part of the
   <li><a href="ud-feat/postponed/Foreign.html">Foreign</a></li>
   <li><a href="ud-feat/postponed/Hyph.html">Hyph</a></li>
   <li><a href="ud-feat/postponed/Meta.html">Meta</a></li>
+  <li><a href="ud-feat/postponed/NameType.html">NameType</a></li>
+  <li><a href="ud-feat/postponed/NounType.html">NounType</a></li>
   <li><a href="ud-feat/postponed/NumForm.html">NumForm</a></li>
   <li><a href="ud-feat/postponed/NumValue.html">NumValue</a></li>
   <li><a href="ud-feat/postponed/PartType.html">PartType</a></li>
@@ -180,33 +182,6 @@ Universal Features. However, they may be used, if necessary, as part of the
   <li><a href="ud-feat/postponed/Typo.html">Typo</a></li>
   <li><a href="ud-feat/postponed/VerbType.html">VerbType</a></li>
 </ul>
-
-<h2 id="other-features">Other features</h2>
-
-<p>The following features are left for further discussion. We may decide
-to leave them optional and language/treebank-specific.</p>
-
-<h3 id="nountype--class">NounType = class</h3>
-
-<p>Chinese classifiers between cardinal numbers and nouns. Note that this
-is the only value of nountype. Interset also has the values “com” and
-“prop” but in Universal Treebanks, we decided to distinguish these two
-already at the level of POS tags.</p>
-
-<h3 id="nametype">NameType</h3>
-
-<p>Classification of named entities (token-based, no nesting of entities
-etc.) and terms. On one hand, this is pretty universal; on the other
-hand, most of us would probably see it as a separate level of
-annotation. There are treebanks where the FEAT column contains this
-information but they are rare: I saw it in the Czech CoNLL 2006 &amp; 2007
-&amp; 2009 data, and in one tagset for Japanese.</p>
-
-<p>Values for named entities: geo, prs, giv, sur, nat, com, pro, oth</p>
-
-<p>Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob</p>
-
-<p>(See https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype.)</p>
 
 <hr />
 
@@ -655,6 +630,16 @@ information but they are rare: I saw it in the Czech CoNLL 2006 &amp; 2007
             {
                 "title": "Meta",
                 "url":   "/docs/ud-feat/postponed/Meta.html",
+            },
+
+            {
+                "title": "NameType",
+                "url":   "/docs/ud-feat/postponed/NameType.html",
+            },
+
+            {
+                "title": "NounType",
+                "url":   "/docs/ud-feat/postponed/NounType.html",
             },
 
             {

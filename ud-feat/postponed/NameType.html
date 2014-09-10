@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>dobj</title>
-    <link rel="root" href="../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
-    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+    <title>NameType</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/dobj.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/NameType.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,15 +34,22 @@
 	  </div>
 	</noscript>
 
-          <h2 id="dobj-direct-object">dobj: direct object</h2>
+          <h2 id="nametype-it-has-been-proposed-not-to-include-this-in-the-current-version">NameType: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
 
-<p>The direct object of a VP is the noun phrase which is the (accusative)
-object of the verb.</p>
+<h3 id="class-classifier">Class: classifier</h3>
 
-<div class="sd-parse">
-She gave me a raise
-dobj(gave, raise)
-</div>
+<p>Classification of named entities (token-based, no nesting of entities
+etc.) and terms. On one hand, this is pretty universal; on the other
+hand, most of us would probably see it as a separate level of
+annotation. There are treebanks where the FEAT column contains this
+information but they are rare: I saw it in the Czech CoNLL 2006 &amp; 2007
+&amp; 2009 data, and in one tagset for Japanese.</p>
+
+<h3 id="values-for-named-entities-geo-prs-giv-sur-nat-com-pro-oth">Values for named entities: geo, prs, giv, sur, nat, com, pro, oth</h3>
+
+<h3 id="values-for-terms-col-sci-che-med-tec-cel-gov-jus-fin-env-cul-spo-hob">Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob</h3>
+
+<p>(See <a href="https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype">https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype</a>.)</p>
 
 
 <!-- "relation in other languages" links -->
@@ -95,15 +102,6 @@ dobj(gave, raise)
 
 
 
-
-
-dobj in other languages:
-
-[<a href="../en-dep/dobj.html">en</a>]
-
-[<a href="../fi-dep/dobj.html">fi</a>]
-
-[<a href="../ud-dep/dobj.html">ud</a>]
 
 
 
@@ -212,7 +210,7 @@ dobj in other languages:
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../'; // filled in by jekyll
+    var root = '../../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -243,7 +241,7 @@ dobj in other languages:
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "ud-dep",
+        "_current" : "ud-feat",
 
         "ud-pos": [
 
