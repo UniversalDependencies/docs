@@ -139,6 +139,8 @@ The following Interset features are currently not part of the standard:
 * <a href="ud-feat/postponed/Foreign.html">Foreign</a>
 * <a href="ud-feat/postponed/Hyph.html">Hyph</a>
 * <a href="ud-feat/postponed/Meta.html">Meta</a>
+* <a href="ud-feat/postponed/NameType.html">NameType</a>
+* <a href="ud-feat/postponed/NounType.html">NounType</a>
 * <a href="ud-feat/postponed/NumForm.html">NumForm</a>
 * <a href="ud-feat/postponed/NumValue.html">NumValue</a>
 * <a href="ud-feat/postponed/PartType.html">PartType</a>
@@ -147,33 +149,6 @@ The following Interset features are currently not part of the standard:
 * <a href="ud-feat/postponed/Style.html">Style</a>
 * <a href="ud-feat/postponed/Typo.html">Typo</a>
 * <a href="ud-feat/postponed/VerbType.html">VerbType</a>
-
-## Other features
-
-The following features are left for further discussion. We may decide
-to leave them optional and language/treebank-specific.
-
-### NounType = class
-
-Chinese classifiers between cardinal numbers and nouns. Note that this
-is the only value of nountype. Interset also has the values “com” and
-“prop” but in Universal Treebanks, we decided to distinguish these two
-already at the level of POS tags.
-
-### NameType
-
-Classification of named entities (token-based, no nesting of entities
-etc.) and terms. On one hand, this is pretty universal; on the other
-hand, most of us would probably see it as a separate level of
-annotation. There are treebanks where the FEAT column contains this
-information but they are rare: I saw it in the Czech CoNLL 2006 & 2007
-& 2009 data, and in one tagset for Japanese.
-
-Values for named entities: geo, prs, giv, sur, nat, com, pro, oth
-
-Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob
-
-(See https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype.)
 
 -------------
 
