@@ -82,8 +82,6 @@ title:  'Features'
   </tr>
 </table>
 
-Alphabetical listing
-
 ## Features 1
 
 All of these can be considered attributes of lemmas (rather than
@@ -132,23 +130,23 @@ Universal Features. However, they may be used, if necessary, as part of the
 
 The following Interset features are currently not part of the standard:
 
-* <a href="postponed/Abbr.html">Abbr</a>
-* <a href="postponed/AdjType.html">AdjType</a>
-* <a href="postponed/AdpType.html">AdpType</a>
-* <a href="postponed/AdvType.html">AdvType</a>
-* <a href="postponed/ConjType.html">ConjType</a>
-* <a href="postponed/Echo.html">Echo</a>
-* <a href="postponed/Foreign.html">Foreign</a>
-* <a href="postponed/Hyph.html">Hyph</a>
-* <a href="postponed/Meta.html">Meta</a>
-* <a href="postponed/NumForm.html">NumForm</a>
-* <a href="postponed/NumValue.html">NumValue</a>
-* <a href="postponed/PartType.html">PartType</a>
-* <a href="postponed/PunctSide.html">PunctSide</a>
-* <a href="postponed/PunctType.html">PunctType</a>
-* <a href="postponed/Style.html">Style</a>
-* <a href="postponed/Typo.html">Typo</a>
-* <a href="postponed/VerbType.html">VerbType</a>
+* <a href="ud-feat/postponed/Abbr.html">Abbr</a>
+* <a href="ud-feat/postponed/AdjType.html">AdjType</a>
+* <a href="ud-feat/postponed/AdpType.html">AdpType</a>
+* <a href="ud-feat/postponed/AdvType.html">AdvType</a>
+* <a href="ud-feat/postponed/ConjType.html">ConjType</a>
+* <a href="ud-feat/postponed/Echo.html">Echo</a>
+* <a href="ud-feat/postponed/Foreign.html">Foreign</a>
+* <a href="ud-feat/postponed/Hyph.html">Hyph</a>
+* <a href="ud-feat/postponed/Meta.html">Meta</a>
+* <a href="ud-feat/postponed/NumForm.html">NumForm</a>
+* <a href="ud-feat/postponed/NumValue.html">NumValue</a>
+* <a href="ud-feat/postponed/PartType.html">PartType</a>
+* <a href="ud-feat/postponed/PunctSide.html">PunctSide</a>
+* <a href="ud-feat/postponed/PunctType.html">PunctType</a>
+* <a href="ud-feat/postponed/Style.html">Style</a>
+* <a href="ud-feat/postponed/Typo.html">Typo</a>
+* <a href="ud-feat/postponed/VerbType.html">VerbType</a>
 
 ## Other features
 
