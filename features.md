@@ -68,12 +68,12 @@ title:  'Features'
           <td><a href="ud-feat/Person.html">Person</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Degree.html">Degree</a></td>
+          <td></td>
           <td></td>
           <td><a href="ud-feat/Politeness.html">Politeness</a></td>
         </tr>
         <tr>
-          <td></td>
+          <td><a href="ud-feat/Degree.html">Degree</a></td>
           <td></td>
           <td><a href="ud-feat/Negativeness.html">Negativeness</a></td>
         </tr>
