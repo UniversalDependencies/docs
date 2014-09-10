@@ -184,4 +184,4 @@ Lines starting with the `#` character and preceding a sentence are considered as
     4     a         a        DET     DT       _                  4      det
     5     clue      clue     NOUN    NN       Num=Sing           2      dobj
     6     .         .        PUNCT   .        _                  2      punct
- 
+    
