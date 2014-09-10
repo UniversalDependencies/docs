@@ -137,7 +137,7 @@ gender because of agreement with nouns.
 
 The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and later versions of the standard
-may include new features found in new languages, corpora or tagsets.
+may include new features or values found in new languages, corpora or tagsets.
 
 Users can extend this set of universal features and add language-specific
 features when necessary. Such features should be described in the language-specific
