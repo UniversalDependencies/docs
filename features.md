@@ -82,6 +82,46 @@ title:  'Features'
   </tr>
 </table>
 
+General rules
+
+* There are two types of identifiers:
+  - feature names = _features_
+  - feature values = _values_
+* All identifiers (both features and values) consist of English letters or,
+  occasionally, digits 0-9. The first letter is always uppercase.
+  The other letters are generally lowercase, except for positions where new
+  internal words are marked for better readability (e.g. NumType).
+  This makes features distinct from the <a href="tags.html">core part-of-speech tags</a> (all uppercase)
+  and from the <a href="relations.html">dependency relation labels</a> (all lowercase).
+* A feature of a word should always be fully specified in the data, i.e. both
+  the feature name and the value should be identified: PronType=Prs.
+  Note that the values are not guaranteed to be unique across features,
+  e.g. Sup could denote the superessive case, superlative degree of comparison
+  or supine (a verb form).
+* It is possible to declare that a feature has two or more values for a given word:
+  "Case=Acc,Dat". The interpretation is that the word may have one of these values
+  but we cannot decide between them. Such _multivalues_ should be used sparingly.
+  They should not be used if the value list would cover the whole value space,
+  or the subspace valid for the given language.
+  That would mean that we cannot tell anything about this feature for the given word,
+  and then it is preferable to just leave the feature out.
+  Not mentioning a feature in the data implies the empty value,
+  which means that the feature is either irrelevant for this part of speech,
+  or its value cannot be determined for this word form due to language-specific reasons.
+* Even though the features vary in nature and can be grouped (as in the table
+  above), all features with non-empty values appear together in the same FEAT
+  column.
+* Canonical ordering: features of one word (appearing on the same line) are
+  always ordered alphabetically; if a feature has multiple values, these are
+  ordered alphabetically, too. This rule facilitates cases when it is necessary
+  to compare feature sets of two words.
+* Description of individual features usually hints what parts of speech the
+  feature is likely to appear with. This information is intended to help
+  understand the typical usage of the feature; however, it is _not a strict rule!_
+  Applicability of features to parts of speech is very language-dependent
+  and it should never be assumed that the feature cannot appear together with
+  a particular POS tag.
+
 ## Features 1
 
 All of these can be considered attributes of lemmas (rather than
