@@ -133,7 +133,7 @@ Some features are boolean.
 ### Features 2
 
 These are mostly inflectional features, i.e. they are features of word forms
-rather than lemmas. There are exceptions: for instance, Gender of nouns is
+rather than lemmas. There are exceptions: for instance, gender of nouns is
 usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.
@@ -141,8 +141,13 @@ gender because of agreement with nouns.
 ### Remarks
 
 The list of features is certainly not exhausting (even if you feel
-exhausted after reading it :-)) and new features may appear as new
-tagsets are converted.
+exhausted after reading it :-)) and later versions of the standard
+may include new features found in new languages, corpora or tagsets.
+
+Users can extend this set of universal features and add language-specific
+features when necessary. Such features should be described in the language-specific
+documentation and follow the general principles outlined above.
+Universal and language-specific features of a word are listed together in the FEATS column.
 
 Unlike in various language-specific tagsets, the Universal Features do not
 include features aimed at marking _fusion words_ (a word that is result of
