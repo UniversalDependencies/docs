@@ -146,7 +146,7 @@ If the MISC field is not used, it should contain an underscore.
 
 ## Untokenized text
 
-To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field:
+To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 1 does not contain the `SpaceAfter` feature even though there was no space between _He_ and _'s_ in the underlying sentence. However, if there was no space between _He's_ and the third token, the 1-2 line would have `SpaceAfter=No`.
 
     1-2   He's      _         _       _       _                _   _        _   _
     1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj    _   _
