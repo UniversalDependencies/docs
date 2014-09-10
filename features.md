@@ -43,7 +43,7 @@ title:  'Features'
           <td><a href="ud-feat/VerbForm.html">VerbForm</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Animateness.html">Animateness</a></td>
+          <td><a href="ud-feat/Animacy.html">Animacy</a></td>
           <td></td>
           <td><a href="ud-feat/Mood.html">Mood</a></td>
         </tr>
@@ -58,19 +58,14 @@ title:  'Features'
           <td><a href="ud-feat/Aspect.html">Aspect</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/PrepCase.html">PrepCase</a></td>
+          <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
           <td></td>
           <td><a href="ud-feat/Voice.html">Voice</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
+          <td></td>
           <td><a href="ud-feat/PossPerson.html">PossPerson</a></td>
           <td><a href="ud-feat/Person.html">Person</a></td>
-        </tr>
-        <tr>
-          <td></td>
-          <td></td>
-          <td><a href="ud-feat/Politeness.html">Politeness</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Degree.html">Degree</a></td>
@@ -187,6 +182,8 @@ The following Interset features are currently not part of the standard:
 * <a href="ud-feat/postponed/NumForm.html">NumForm</a>
 * <a href="ud-feat/postponed/NumValue.html">NumValue</a>
 * <a href="ud-feat/postponed/PartType.html">PartType</a>
+* <a href="ud-feat/postponed/Politeness.html">Politeness</a>
+* <a href="ud-feat/postponed/PrepCase.html">PrepCase</a>
 * <a href="ud-feat/postponed/PunctSide.html">PunctSide</a>
 * <a href="ud-feat/postponed/PunctType.html">PunctType</a>
 * <a href="ud-feat/postponed/Style.html">Style</a>

@@ -1,17 +1,10 @@
 ---
 layout: base
-title: 'Animateness'
-shortdef: 'animateness'
+title: 'Animacy'
+shortdef: 'animacy'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
-
-## Animateness
-
-<SPAN STYLE="background: #ffff00">DZ: We have several features
-called X-ness: Animateness, Definiteness, Negativeness, Politeness.
-Should we shorten these by cutting off the <I>-ness</I>
-part? Or even <I>-(ate|ite|ive)ness</I>?</SPAN>
 
 Similarly to Gender (and to the African noun classes), animateness
 is usually a lexical feature of nouns and inflectional feature of
@@ -31,180 +24,167 @@ the example word <I>który</I>
 (which) (boldface forms differ from the middle row):
 
 <TABLE WIDTH=643 CELLPADDING=2 CELLSPACING=0>
-	<COL WIDTH=49>
-	<COL WIDTH=44>
-	<COL WIDTH=45>
-	<COL WIDTH=49>
-	<COL WIDTH=45>
-	<COL WIDTH=43>
-	<COL WIDTH=43>
-	<COL WIDTH=43>
-	<COL WIDTH=45>
-	<COL WIDTH=43>
-	<COL WIDTH=49>
-	<COL WIDTH=47>
-	<COL WIDTH=45>
 	<TR>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>gender </FONT>
 		</TD>
-		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=44>
 			<FONT SIZE=2>sg-nom </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>sg-gen </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>sg-dat </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>sg-acc </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>sg-ins </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>sg-loc </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>pl-nom </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>pl-gen </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>pl-dat </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>pl-acc </FONT>
 		</TD>
-		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=47>
 			<FONT SIZE=2>pl-ins </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>pl-loc </FONT>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>animate human </FONT>
 		</TD>
-		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=44>
 			<FONT SIZE=2>który </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>którego </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>któremu </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>którego </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<STRONG><FONT SIZE=2>którzy</FONT></STRONG><FONT SIZE=2> </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<STRONG><FONT SIZE=2>których</FONT></STRONG><FONT SIZE=2> </FONT>
 		</TD>
-		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=47>
 			<FONT SIZE=2>którymi </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których </FONT>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>animate non-human </FONT>
 		</TD>
-		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=44>
 			<FONT SIZE=2>który </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>którego </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>któremu </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>którego </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>które </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>które </FONT>
 		</TD>
-		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=47>
 			<FONT SIZE=2>którymi </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których </FONT>
 		</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>in-animate </FONT>
 		</TD>
-		<TD WIDTH=44 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=44>
 			<FONT SIZE=2>który </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>którego </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>któremu </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<STRONG><FONT SIZE=2>który</FONT></STRONG><FONT SIZE=2> </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>które </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których </FONT>
 		</TD>
-		<TD WIDTH=43 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=43>
 			<FONT SIZE=2>którym </FONT>
 		</TD>
-		<TD WIDTH=49 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=49>
 			<FONT SIZE=2>które </FONT>
 		</TD>
-		<TD WIDTH=47 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=47>
 			<FONT SIZE=2>którymi </FONT>
 		</TD>
-		<TD WIDTH=45 STYLE="border: none; padding: 0cm">
+		<TD WIDTH=45>
 			<FONT SIZE=2>których</FONT>
 		</TD>
 	</TR>
