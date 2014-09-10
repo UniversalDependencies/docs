@@ -15,6 +15,11 @@ sentence.  This is also called a cc, and it depends on the root
 predicate of the sentence.
 
 <div class="sd-parse">
+Bill is big and honest
+cc(big, and)
+</div>
+
+<div class="sd-parse">
 And then we left .
 cc(left, And)
 </div>
