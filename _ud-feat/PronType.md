@@ -6,7 +6,11 @@ shortdef: 'pronominal type'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-This feature typically applies to pronouns, determiners, pronominal numerals and pronominal adverbs.
+This feature typically applies to
+<a href="../ud-pos/PRON.html">pronouns</a>,
+<a href="../ud-pos/DET.html">determiners</a>,
+pronominal <a href="../ud-pos/NUM.html">numerals</a> and
+pronominal <a href="../ud-pos/ADV.html">adverbs</a>.
 
 ### Prs: personal or possessive personal pronoun or determiner 
 (see also the "poss" feature). Note that this also includes reflexive
@@ -19,6 +23,14 @@ its, our, their, mine, yours, hers, ours, theirs
 ### Rcp: reciprocal pronoun
 
 Examples: [de] einander, [da] hinanden (= each other)
+
+### Art: article
+
+Article is a special case of determiner that bears the feature of
+<a href="Definiteness">definiteness</a> (in other languages, the feature may be marked directly
+on nouns).
+
+Examples: [en] _a, an, the;_ [de] _ein, eine, der, die, das;_ [es] _un, una, el, la_
 
 ### Int: interrogative pronoun, determiner, numeral or adverb
 
