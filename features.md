@@ -31,21 +31,51 @@ title:  'Features'
     </td>
     <td>
       <table class="category">
-        <tr><td><b>Features&nbsp;2</b></td></tr>
+        <tr><td colspan="3"><b>Features&nbsp;2</b></td></tr>
         <tr>
-          <td><i>Inflection</i></td>
+          <td><i>Nominal</i></td>
+          <td><i>Possessive</i></td>
+          <td><i>Verbal</i></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Gender.html">Gender</a></td>
+          <td><a href="ud-feat/PossGender.html">PossGender</a></td>
+          <td><a href="ud-feat/VerbForm.html">VerbForm</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Animateness.html">Animateness</a></td>
+          <td></td>
+          <td><a href="ud-feat/Mood.html">Mood</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Number.html">Number</a></td>
+          <td><a href="ud-feat/PossNumber.html">PossNumber</a></td>
+          <td><a href="ud-feat/Tense.html">Tense</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Case.html">Case</a></td>
+          <td><a href="ud-feat/PossedNumber.html">PossedNumber</a></td>
+          <td><a href="ud-feat/Aspect.html">Aspect</a></td>
+        </tr>
+        <tr>
+          <td><a href="ud-feat/PrepCase.html">PrepCase</a></td>
+          <td></td>
+          <td><a href="ud-feat/Voice.html">Voice</a></td>
+        </tr>
+        <tr>
+          <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
+          <td><a href="ud-feat/PossPerson.html">PossPerson</a></td>
+          <td><a href="ud-feat/Person.html">Person</a></td>
+        </tr>
+        <tr>
+          <td><a href="ud-feat/Degree.html">Degree</a></td>
+          <td></td>
+          <td><a href="ud-feat/Politeness.html">Politeness</a></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td><a href="ud-feat/Negativeness.html">Negativeness</a></td>
         </tr>
       </table>
     </td>
