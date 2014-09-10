@@ -40,7 +40,7 @@
 Annotations are encoded in plain text files (UTF-8) with three types of lines:</p>
 
 <ol>
-  <li>Token lines containing the annotation of a word in 10 tab-separated fields; see below.</li>
+  <li>Word lines containing the annotation of a word in 10 tab-separated fields; see below.</li>
   <li>Blank lines marking sentence boundaries.</li>
   <li>Comment lines starting with hash (#).</li>
 </ol>
@@ -48,7 +48,7 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
 <p>Token lines contain the following fields:</p>
 
 <ol>
-  <li>ID: Token counter. A number, starting at 1 for each new sentence; may be a decimal number for words inside tokens.</li>
+  <li>ID: Words are indexed by ascending integers starting at 1 for each new sentence; ranges may be used to index raw tokens corresponding to multiple words (see below).</li>
   <li>FORM: Word form or punctuation symbol.</li>
   <li>LEMMA: Lemma or stem of word form.</li>
   <li>CPOSTAG: Google universal part-of-speech tag, drawn from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">Universal POS tag</a> set.</li>
