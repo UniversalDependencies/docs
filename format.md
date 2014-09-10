@@ -19,9 +19,9 @@ Word lines contain the following fields:
  3. LEMMA: Lemma or stem of word form.
  4. CPOSTAG: Google universal part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
- 6. FEATS: List of morphological features (attribute-value pairs) from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-particular extension; underscore if not available.
+ 6. FEATS: List of morphological features from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-specific extension; underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
- 8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.
+ 8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
