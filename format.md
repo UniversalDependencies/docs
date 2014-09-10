@@ -8,16 +8,16 @@ title:  'Format'
 We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8) with three types of lines:
 
- 1. Word lines containing the annotation of a word in 10 tab-separated fields; see below.
+ 1. Word lines containing the annotation of a word/token in 10 tab-separated fields; see below.
  2. Blank lines marking sentence boundaries.
  3. Comment lines starting with hash (#).
 
-Token lines contain the following fields:
+Word lines contain the following fields:
 
- 1. ID: Words are indexed by ascending integers starting at 1 for each new sentence; ranges may be used to index raw tokens corresponding to multiple words (see below).
+ 1. ID: Word index, integers starting at 1 for each new sentence; may be a range for tokens with multiple words.
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
- 4. CPOSTAG: Google universal part-of-speech tag, drawn from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
+ 4. CPOSTAG: [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html), from the extended Google universal POS tag set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
  6. FEATS: List of morphological features (attribute-value pairs); underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
