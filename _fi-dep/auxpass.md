@@ -12,23 +12,23 @@ The only *passive auxiliary* (`auxpass`) in Finnish is *olla* (*to be*). An auxi
 
 
 <!-- fname:auxpass1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Suunnitelmaan on tehty muutoksia . \n Into_the_plan have_been made changes .
 nmod(tehty-3, Suunnitelmaan-1)
 auxpass(tehty-3, on-2)
 dobj(tehty-3, muutoksia-4)
 punct(tehty-3, .-5)
-</div>
+~~~
 
 
 
 <!-- fname:auxpass2.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Suunnitelmaan voidaan tehdä muutoksia . \n Into_the_plan can_be made(1st_inf.) changes .
 nmod(tehdä-3, Suunnitelmaan-1)
 aux(tehdä-3, voidaan-2)
 dobj(tehdä-3, muutoksia-4)
 punct(tehdä-3, .-5)
-</div>
+~~~
 
 

@@ -9,35 +9,35 @@ shortdef : 'coordinating conjunction'
 *Coordinating conjunctions* are marked as dependents of the first coordinated element, and the dependency type used is `cc`. 
 
 <!-- fname:cc1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 kirjat , kynät ja viivottimet \n books , pencils and rulers
 conj(kirjat-1, kynät-3)
 punct(kirjat-1, ,-2)
 cc(kirjat-1, ja-4)
 conj(kirjat-1, viivottimet-5)
-</div>
+~~~
 
 <!--details-->
 
 Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type [`preconj`](http://universaldependencies.github.io/docs/fi/preconj.html) and the second part with `cc` in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type [`dep`](http://universaldependencies.github.io/docs/fi/dep.html), the rightmost word being the head.
 
 <!-- fname:cc2.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
 preconj(kynät-2, toisaalta-1)
 punct(kynät-2, ,-3)
 cc(kynät-2, toisaalta-4)
 conj(kynät-2, viivottimet-5)
-</div>
+~~~
 
 <!-- fname:cc3.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 kynät ja / tai viivottimet \n pencils and / or rulers
 cc(kynät-1, tai-4)
 dep(tai-4, /-3)
 dep(/-3, ja-2)
 conj(kynät-1, viivottimet-5)
-</div>
+~~~
 
 Coordinating conjunctions are a closed class of words, and the main conjunctions are as follows:
 

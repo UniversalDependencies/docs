@@ -10,22 +10,22 @@ shortdef : 'nominal modifier'
 
 
 <!-- fname:nmod_alone.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Maljakko oli pöydällä . \n The_vase was on_the_table .
 nsubj(oli-2, Maljakko-1)
 nmod(oli-2, pöydällä-3)
 punct(oli-2, .-4)
-</div>
+~~~
 
 
 
 <!-- fname:nmod_adpos.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
 nsubj(oli-2, Maljakko-1)
 nmod(oli-2, pöydän-3)
 adpos(pöydän-3, päällä-4)
 punct(oli-2, .-5)
-</div>
+~~~
 
 

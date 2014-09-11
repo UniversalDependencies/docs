@@ -10,7 +10,7 @@ shortdef : 'adverbial clause modifier'
 
 
 <!-- fname:advcl.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kun äiti tuli kotiin , isä keitti kahvia . \n When mother came home , father made coffee .
 mark(tuli-3, Kun-1)
 nsubj(tuli-3, äiti-2)
@@ -20,6 +20,6 @@ nsubj(keitti-7, isä-6)
 advcl(keitti-7, tuli-3)
 dobj(keitti-7, kahvia-8)
 punct(keitti-7, .-9)
-</div>
+~~~
 
 

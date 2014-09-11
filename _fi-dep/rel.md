@@ -12,7 +12,7 @@ The *relativizer* (`rel`) is the head of the phrase containing the relative pron
 
 
 <!-- fname:rel_basic.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
 rcmod(Auto-1, ohitti-4)
 punct(ohitti-4, ,-2)
@@ -23,12 +23,12 @@ nsubj(ajoi-7, Auto-1)
 advmod(ajoi-7, nopeasti-9)
 advmod(nopeasti-9, hyvin-8)
 punct(ajoi-7, .-10)
-</div>
+~~~
 
 
 
 <!-- fname:rel_phrase.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
 rcmod(Nainen-1, hajosi-5)
 punct(hajosi-5, ,-2)
@@ -38,6 +38,6 @@ punct(hajosi-5, ,-6)
 nsubj(pyysi-7, Nainen-1)
 dobj(pyysi-7, apuamme-8)
 punct(pyysi-7, .-9)
-</div>
+~~~
 
 

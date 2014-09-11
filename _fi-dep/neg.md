@@ -12,12 +12,12 @@ If a conjunction or adverb has been merged together with *ei*, as in for instanc
 
 
 <!-- fname:neg.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Hän ei sanonut mitään . \n He didn't say anything .
 nsubj(sanonut-3, Hän-1)
 neg(sanonut-3, ei-2)
 dobj(sanonut-3, mitään-4)
 punct(sanonut-3, .-5)
-</div>
+~~~
 
 

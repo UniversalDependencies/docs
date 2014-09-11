@@ -26,12 +26,12 @@ In TDT, only a closed list of verbs can act as auxiliaries, including the main m
 
 
 <!-- fname:aux.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Hän saattoi lähteä jo . \n He may(impf.) leave already .
 nsubj(lähteä-3, Hän-1)
 aux(lähteä-3, saattoi-2)
 advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
-</div>
+~~~
 
 

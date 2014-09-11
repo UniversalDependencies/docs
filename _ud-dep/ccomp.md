@@ -15,7 +15,7 @@ clauses" in Huddleston and Pullum 2002). Such clausal complements are
 usually finite (though there are occasional remnant English
 subjunctives).
 
-<div class="sd-parse">
+~~~ sdparse
 He says that you like to swim
 ccomp(says, like)
-</div>
+~~~

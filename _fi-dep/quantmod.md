@@ -10,7 +10,7 @@ shortdef : 'quantification modifier'
 
 
 <!-- fname:quantmod.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
 nsubj-cop(neliökilometriä-6, Alue-1)
 cop(neliökilometriä-6, oli-2)
@@ -18,6 +18,6 @@ nmod(neliökilometriä-6, suuruudeltaan-3)
 quantmod(kymmenen-5, noin-4)
 num(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
-</div>
+~~~
 
 

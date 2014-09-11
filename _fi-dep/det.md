@@ -10,12 +10,12 @@ There are no definite or indefinite articles in the Finnish language, but there 
 
 
 <!-- fname:det.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kaikki miehet pudistivat päätään . \n All men shook their_head .
 det(miehet-2, Kaikki-1)
 nsubj(pudistivat-3, miehet-2)
 dobj(pudistivat-3, päätään-4)
 punct(pudistivat-3, .-5)
-</div>
+~~~
 
 

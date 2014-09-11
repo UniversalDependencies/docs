@@ -10,7 +10,7 @@ An *apposition* (`appos`) is a grammaticalized, paradigmatic addition (usually a
 
 
 <!-- fname:appos1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
 appos(Professori-1, Tamminen-4)
 punct(Tamminen-4, ,-2)
@@ -19,19 +19,19 @@ name(Tamminen-4, Matti-3)
 nsubj(luennoi-6, Professori-1)
 advmod(luennoi-6, tänään-7)
 punct(luennoi-6, .-8)
-</div>
+~~~
 
 
 
 <!-- fname:appos2.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
 appos(Kirjassa-1, Putkinotko-2)
 nmod(on-3, Kirjassa-1)
 nsubj(on-3, juoni-5)
 amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
-</div>
+~~~
 
 
 <!--details-->
@@ -93,7 +93,7 @@ with the type `appos`. Contrary to appellation modifiers, in
 apposition structures the first word is considered the governor.
 
 <!-- fname:appos1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
 appos(Professori-1, Tamminen-4)
 punct(Tamminen-4, ,-2)
@@ -102,7 +102,7 @@ name(Tamminen-4, Matti-3)
 nsubj(luennoi-6, Professori-1)
 advmod(luennoi-6, tänään-7)
 punct(luennoi-6, .-8)
-</div>
+~~~
 
 It should be noted that case number 4 is in fact an example of a
 supporting noun structure, but in TDT, these are marked as

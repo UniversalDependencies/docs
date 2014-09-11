@@ -12,31 +12,31 @@ It is used for
 adjective compounds that are more common in other languages (such as
 Persian or Japanese light verb constructions)
 
-<div class="sd-parse">
+~~~ sdparse
 Phone book
 compound(book, Phone)
-</div>
+~~~
 
 
 - for numbers
 
-<div class="sd-parse">
+~~~ sdparse
 I have four thousand sheep
 compound(thousand, four)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 I lost $ 3.2 billion
 compound(billion, 3.2)
-</div>
+~~~
 
 
 - for particles of phrasal verbs:
 
-<div class="sd-parse">
+~~~ sdparse
 put up
 compound(put, up)
-</div>
+~~~
 
 The two other compounding relations are:
 

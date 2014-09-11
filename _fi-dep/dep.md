@@ -10,7 +10,7 @@ The name of the dependency type `dep` stands for *dependent*. It is the most gen
 
 
 <!-- fname:dep.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
 dep(asiassa-2, Itse-1)
 advmod(tuli-4, asiassa-2)
@@ -18,7 +18,7 @@ nsubj(tuli-4, hän-3)
 advmod(tuli-4, eilen-6)
 advmod(eilen-6, jo-5)
 punct(tuli-4, .-7)
-</div>
+~~~
 
 <!--details-->
 

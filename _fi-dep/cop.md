@@ -12,11 +12,11 @@ Copular clauses receive a special treatment in the SD scheme. The predicative ac
 
 
 <!-- fname:cop.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Huivi oli punainen . \n The_scarf was red .
 nsubj-cop(punainen-3, Huivi-1)
 cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
-</div>
+~~~
 
 

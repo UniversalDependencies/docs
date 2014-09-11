@@ -12,11 +12,11 @@ The dependency type `iccomp`, which stands for *infinite clausal complement*, is
 
 
 <!-- fname:iccomp.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Sain hänet itkemään . \n I_made him cry .
 iccomp(Sain-1, itkemään-3)
 nsubj(itkemään-3, hänet-2)
 punct(Sain-1, .-4)
-</div>
+~~~
 
 

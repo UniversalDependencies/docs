@@ -10,7 +10,7 @@ The *complementizer* (*complm*) appears in most clausal complements, and the hea
 
 
 <!-- fname:complm.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Sanoin , että hän voi tulla . \n I_said , that he can come .
 ccomp(Sanoin-1, tulla-6)
 punct(tulla-6, ,-2)
@@ -18,6 +18,6 @@ complm(tulla-6, että-3)
 nsubj(tulla-6, hän-4)
 aux(tulla-6, voi-5)
 punct(Sanoin-1, .-7)
-</div>
+~~~
 
 

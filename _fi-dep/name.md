@@ -14,7 +14,7 @@ If the named entity has an obvious internal structure, as is often the case in n
 
 
 <!-- fname:name.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
 nmod(juhlivat-2, öisin-3)
@@ -24,6 +24,6 @@ cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
 name(Tarttin-6, Donna-5)
 poss(esikoisteos-7, Tarttin-6)
-</div>
+~~~
 
 

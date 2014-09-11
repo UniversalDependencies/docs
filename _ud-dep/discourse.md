@@ -14,7 +14,7 @@ this to include: interjections (*oh*, *uh-huh*, *Welcome*), fillers
 (*um*, *ah*), and discourse markers (*well*, *like*, *actually*, but
 not *you know*).
 
-<div class="sd-parse">
+~~~ sdparse
 Iguazu is in Argentina :)
 discourse(is-2, :)-5)
-</div>
+~~~

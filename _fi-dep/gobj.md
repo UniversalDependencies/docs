@@ -11,13 +11,13 @@ Certain nouns, those which have been directly derived from a verb or otherwise h
 
 
 <!-- fname:gobj.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
 gobj(viljely-2, Perunan-1)
 nsubj-cop(harvinaista-5, viljely-2)
 cop(harvinaista-5, oli-3)
 advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
-</div>
+~~~
 
 

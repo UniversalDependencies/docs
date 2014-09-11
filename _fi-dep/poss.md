@@ -11,24 +11,24 @@ The dependency type `poss` stands for *possessive* in the original SD scheme, bu
 
 
 <!-- fname:poss1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
 poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
 nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
-</div>
+~~~
 
 
 
 <!-- fname:poss2.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
 nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
 poss(moottori-5, litran-4)
 num(litran-4, kahden-3)
-</div>
+~~~
 
 

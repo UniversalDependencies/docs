@@ -10,7 +10,7 @@ shortdef : 'phrasal particle'
 
 
 <!-- fname:prt.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
 prt(Kävi-1, ilmi-2)
 csubj(Kävi-1, hyvä-7)
@@ -19,7 +19,7 @@ complm(hyvä-7, että-4)
 nsubj-cop(hyvä-7, ehdotus-5)
 cop(hyvä-7, oli-6)
 punct(hyvä-7, .-8)
-</div>
+~~~
 
 
 Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.

@@ -10,18 +10,18 @@ A copula is the relation between the complement of a copular verb and
 the copular verb.  (We normally take a copula as a dependent of its
 complement)
 
-<div class="sd-parse">
+~~~ sdparse
 Bill is an honest man
 cop(man, is)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 Ivan is the best dancer
 nsubj(dancer-5, Ivan-1)
 cop(dancer-5, is-2)
 det(dancer-5, the-3)
 amod(dancer-5, best-4)
-</div>
+~~~
 
 The copula "be" are not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
@@ -31,11 +31,11 @@ often or always lack an overt copula in such constructions, as in the
 the following Russian example:
 
 
-<div class="sd-parse">
+~~~ sdparse
 Ivan lučšij tancor \n Ivan best dancer
 nsubj(tancor, Ivan)
 amod(tancor, lučšij)
-</div>
+~~~
 
 Similar constructions arise even in English if we
 consider so-called raising-to-object or small clause constructions.
@@ -44,7 +44,7 @@ not linked to its subject argument, but in the enhanced representation
 (see below), the linkage is then parallel to the treatment in a zero
 copula language:
 
-<div class="sd-parse">
+~~~ sdparse
 I judge Ivan the best dancer
 nsubj(judge-2, I-1)
 dobj(judge-2, Ivan-3)
@@ -52,4 +52,4 @@ xcomp(judge-2, dancer-6)
 det(dancer-6, the-4)
 amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
-</div>
+~~~

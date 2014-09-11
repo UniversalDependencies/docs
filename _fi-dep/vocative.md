@@ -10,12 +10,12 @@ The dependency type `vocative` is used for *vocatives*, that is, expressions whe
 
 
 <!-- fname:voc.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Pekka , tulisitko tänne ? \n Pekka , would_you_come here ?
 vocative(tulisitko-3, Pekka-1)
 punct(Pekka-1, ,-2)
 advmod(tulisitko-3, tänne-4)
 punct(tulisitko-3, ?-5)
-</div>
+~~~
 
 

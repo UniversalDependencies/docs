@@ -11,12 +11,12 @@ clauses are introduced, we use *ncmod* for nominalized clause modifiers (of a NP
 
 Modifiers labeled *ncmod* depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
 
-<div class="sd-parse">
+~~~ sdparse
 They heard about you missing classes
 ncmod(heard, missing)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 We have no information on whether users are at risk
 ncmod(information, risk)
-</div>
+~~~

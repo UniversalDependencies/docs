@@ -10,7 +10,7 @@ A *marker* (`mark`) is the subordinating conjunction in a non-complement subordi
 
 
 <!-- fname:mark.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
 mark(tulin-2, Kun-1)
 nmod(tulin-2, kotiin-3)
@@ -19,7 +19,7 @@ advcl(jätin-5, tulin-2)
 dobj(jätin-5, avaimen-6)
 nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
-</div>
+~~~
 
 
 The main subordinating conjunctions in TDT are:

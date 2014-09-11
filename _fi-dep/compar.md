@@ -10,12 +10,12 @@ The dependency type `compar` is used in comparative constructions, most often in
 
 
 <!-- fname:compar.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
 compar(parempi-1, näytelmä-4)
 comparator(näytelmä-4, kuin-2)
 amod(näytelmä-4, eilinen-3)
-</div>
+~~~
 
 <!--details-->
 
@@ -44,14 +44,14 @@ dependent. The element being compared also acts as the head for a
 comparative conjunction, nearly always *kuin*.
 
 <!-- fname:comparatives.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Keittiö on pienempi kuin olohuone . \n Kitchen is smaller than livingroom .
 nsubj-cop(pienempi-3, Keittiö-1)
 cop(pienempi-3, on-2)
 compar(pienempi-3, olohuone-5)
 comparator(olohuone-5, kuin-4)
 punct(pienempi-3, .-6)
-</div>
+~~~
 
 
 Note that the comparative adjective or adverb remains the head of
@@ -59,7 +59,7 @@ the `compar` dependency even if the word order is such that
 the dependency becomes non-projective.
 
 <!-- fname:comparatives_non-projective.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Matilla on isompi auto kuin Pekalla . \n At_Matti is bigger car than Pekka .
 nmod(on-2, Matilla-1)
 nsubj(on-2, auto-4)
@@ -67,7 +67,7 @@ amod(auto-4, isompi-3)
 compar(isompi-3, Pekalla-6)
 comparator(Pekalla-6, kuin-5)
 punct(on-2, .-7)
-</div>
+~~~
 
 
 From the previous example it can also be seen that comparative
@@ -85,13 +85,13 @@ adverb as the head, and the element compared as the dependent, just
 as in the case with the comparative conjunction present.
 
 <!-- fname:compar_no_comparator.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Olohuone on keittiötä suurempi . \n Livingroom is (than_)kitchen bigger .
 nsubj-cop(suurempi-4, Olohuone-1)
 cop(suurempi-4, on-2)
 compar(suurempi-4, keittiötä-3)
 punct(suurempi-4, .-5)
-</div>
+~~~
 
 
 In TDT, also some structures not involving a comparative adjective
@@ -104,14 +104,14 @@ entails comparison, such as *samanlainen (similar)*, *sama
   in fact a pronoun in Finnish.)
 
 <!-- fname:comparative_sama.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Luin saman kirjan kuin Pekka . \n I_read same book as Pekka .
 dobj(Luin-1, kirjan-3)
 det(kirjan-3, saman-2)
 compar(saman-2, Pekka-5)
 comparator(Pekka-5, kuin-4)
 punct(Luin-1, .-6)
-</div>
+~~~
 
 
 An additional difficulty is posed by the fact that in Finnish, the
@@ -135,14 +135,14 @@ particular way is also used in cases where the superlative acts as a
 predicative.
 
 <!-- fname:superlative_basic.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Suurin paketti oli muiden takana . \n Biggest package was others behind .
 amod(paketti-2, Suurin-1)
 nsubj(oli-3, paketti-2)
 nmod(oli-3, muiden-4)
 case(muiden-4, takana-5)
 punct(oli-3, .-6)
-</div>
+~~~
 
 
 Often a superlative is modified by nominal in some manner. A very
@@ -150,11 +150,11 @@ common phenomenon is a genitive modifier modifying a superlative.
 For instance, in an expression such as
 
 <!-- fname:super1.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Suomen paras kokki \n Finland's best cook
 poss(paras-2, Suomen-1)
 amod(kokki-3, paras-2)
-</div>
+~~~
 
 
 the cook is the best *of those in/of Finland* and
@@ -163,11 +163,11 @@ thus the correct head word for the genitive modifier is
 genitive modifier. For example, in
 
 <!-- fname:super2.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Virtasen kuudes mestaruus \n Virtanen's sixth championship
 poss(kuudes-2, Virtasen-1)
 num(mestaruus-3, kuudes-2)
-</div>
+~~~
 
 
 
@@ -179,11 +179,11 @@ However, it is still possible for the noun to act as the head word
 in some cases. For instance, in
 
 <!-- fname:super3.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Rusakon pahin vihollinen \n The_hare's worst enemy
 poss(vihollinen-3, Rusakon-1)
 amod(vihollinen-3, pahin-2)
-</div>
+~~~
 
 
 the enemy is not the worst *of the hare*, but rather
@@ -226,13 +226,13 @@ making the superlative wordform the head of the modifier if the
 modifier expresses the set of beings to draw from.
 
 <!-- fname:superlative_nommod.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Kukista kaunein oli ikkunalaudalla . \n From_the_flowers most_beautiful was on_windowsill .
 nmod(kaunein-2, Kukista-1)
 nsubj(oli-3, kaunein-2)
 nmod(oli-3, ikkunalaudalla-4)
 punct(oli-3, .-5)
-</div>
+~~~
 
 
 Note how in the previous example the phrase *kukista kaunein*

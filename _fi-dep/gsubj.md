@@ -12,9 +12,9 @@ tags: ['case']
 
 
 <!-- fname:gsubj.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 maljakon särkyminen \n vase(gen.) breaking
 gsubj(särkyminen-2, maljakon-1)
-</div>
+~~~
 
 

@@ -16,22 +16,22 @@ complements (arguments of the higher verb or adjective) rather than
 adjuncts/modifiers, such as a purpose clause. The name *xcomp* is
 borrowed from Lexical-Functional Grammar.
 
-<div class="sd-parse">
+~~~ sdparse
 He says that you like to swim
 xcomp(like, swim)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 Sue asked George to respond to her offer
 xcomp(asked, respond)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 I consider him a fool
 xcomp(consider, fool)
-</div>
+~~~
 
-<div class="sd-parse">
+~~~ sdparse
 I consider him honest
 xcomp(consider, honest)
-</div>
+~~~

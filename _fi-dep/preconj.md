@@ -10,12 +10,12 @@ shortdef : 'preconjunction'
 
 
 <!-- fname:preconj.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 sekä talo että piha \n both house and yard
 preconj(talo-2, sekä-1)
 cc(talo-2, että-3)
 conj(talo-2, piha-4)
-</div>
+~~~
 
 
 Such two-part coordinating conjunctions in TDT are:

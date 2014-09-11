@@ -10,12 +10,12 @@ The SD scheme marks coordination so that the first coordinated element acts as t
 
 
 <!-- fname:conj.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 maitoa , leipää ja voita \n milk , bread and butter
 punct(maitoa-1, ,-2)
 conj(maitoa-1, leipää-3)
 cc(maitoa-1, ja-4)
 conj(maitoa-1, voita-5)
-</div>
+~~~
 
 

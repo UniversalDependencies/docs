@@ -11,12 +11,12 @@ A *clausal copular subject* (`csubj-cop`) is a clause that acts as the subject o
 
 
 <!-- fname:csubj-cop.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
 csubj-cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
-</div>
+~~~
 
 

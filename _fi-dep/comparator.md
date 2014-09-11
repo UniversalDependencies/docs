@@ -10,10 +10,10 @@ The *comparative conjunction* (most commonly *kuin*, which corresponds roughly t
 
 
 <!-- fname:comparator.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 enemmän kuin haluaisin \n more than I_would_want
 comparator(enemmän-1, haluaisin-3)
 comparator(haluaisin-3, kuin-2)
-</div>
+~~~
 
 

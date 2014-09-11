@@ -11,7 +11,7 @@ fake node "ROOT" is used as the governor. The ROOT node is indexed
 with "0", since the indexation of real words in the sentence starts at
 1.
 
-<div class="sd-parse">
+~~~ sdparse
 ROOT I love French fries .
 root(ROOT, love)
-</div>
+~~~

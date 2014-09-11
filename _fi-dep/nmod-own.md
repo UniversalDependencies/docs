@@ -14,12 +14,12 @@ This kind of an analysis would naturally result in the *haver* being marked as a
 
 
 <!-- fname:omistus.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Matilla on uusi auto . \n At_Matti is new car .
 nmod-own(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, uusi-3)
 punct(on-2, .-5)
-</div>
+~~~
 
 

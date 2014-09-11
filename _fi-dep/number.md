@@ -12,7 +12,7 @@ Numerical expressions consisting of multiple tokens are annotated using the `num
 
 
 <!-- fname:number.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
 nsubj-cop(5-6, Poikasia-1)
 cop(5-6, on-2)
@@ -20,6 +20,6 @@ advmod(5-6, yleensä-3)
 number(--5, 3-4)
 number(5-6, --5)
 punct(5-6, .-7)
-</div>
+~~~
 
 

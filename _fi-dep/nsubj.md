@@ -11,11 +11,11 @@ The dependency type `nsubj` marks nominal subjects of the non-copular clause.
 
 
 <!-- fname:nsubj_basic.pdf -->
-<div class="sd-parse">
+~~~ sdparse
 Eeva tuli töistä . \n Eeva came from_work .
 nsubj(tuli-2, Eeva-1)
 nmod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
-</div>
+~~~
 
 
