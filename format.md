@@ -12,7 +12,7 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:
  2. Blank lines marking sentence boundaries.
  3. Comment lines starting with hash (#).
 
-Word lines contain the following fields:
+Sentences consist of one or more word lines, and word lines contain the following fields:
 
  1. ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.
  2. FORM: Word form or punctuation symbol.
@@ -24,6 +24,8 @@ Word lines contain the following fields:
  8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
+
+Fields must not be empty and must not contain space characters.
 
 The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.
