@@ -5,10 +5,6 @@ title:  'Structure'
 
 # Structure
 
-This is a placeholder page for the structure documentation.
-
-(the following was moved over from [structure-notes.html](structure-notes.html))
-
 ## Dependency Structure: General Principles
 
 The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
