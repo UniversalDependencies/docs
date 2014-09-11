@@ -8,7 +8,7 @@ title:  'Format'
 We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8) with three types of lines:
 
- 1. Word lines containing the annotation of a word/token in 10 tab-separated fields; see below.
+ 1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
  2. Blank lines marking sentence boundaries.
  3. Comment lines starting with hash (#).
 
