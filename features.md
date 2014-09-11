@@ -43,7 +43,7 @@ title:  'Features'
           <td><a href="ud-feat/VerbForm.html">VerbForm</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Animateness.html">Animateness</a></td>
+          <td><a href="ud-feat/Animacy.html">Animacy</a></td>
           <td></td>
           <td><a href="ud-feat/Mood.html">Mood</a></td>
         </tr>
@@ -58,19 +58,14 @@ title:  'Features'
           <td><a href="ud-feat/Aspect.html">Aspect</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/PrepCase.html">PrepCase</a></td>
+          <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
           <td></td>
           <td><a href="ud-feat/Voice.html">Voice</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
+          <td></td>
           <td><a href="ud-feat/PossPerson.html">PossPerson</a></td>
           <td><a href="ud-feat/Person.html">Person</a></td>
-        </tr>
-        <tr>
-          <td></td>
-          <td></td>
-          <td><a href="ud-feat/Politeness.html">Politeness</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Degree.html">Degree</a></td>
@@ -109,7 +104,7 @@ title:  'Features'
   which means that the feature is either irrelevant for this part of speech,
   or its value cannot be determined for this word form due to language-specific reasons.
 * Even though the features vary in nature and can be grouped (as in the table
-  above), all features with non-empty values appear together in the same FEAT
+  above), all features with non-empty values appear together in the same FEATS
   column.
 * Canonical ordering: features of one word (appearing on the same line) are
   always ordered alphabetically; if a feature has multiple values, these are
@@ -142,7 +137,7 @@ gender because of agreement with nouns.
 
 The list of features is certainly not exhausting (even if you feel
 exhausted after reading it :-)) and later versions of the standard
-may include new features found in new languages, corpora or tagsets.
+may include new features or values found in new languages, corpora or tagsets.
 
 Users can extend this set of universal features and add language-specific
 features when necessary. Such features should be described in the language-specific
@@ -156,7 +151,7 @@ different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
 auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
 Spanish _dámelo (da + me + lo_ ... verb +
 clitics) etc. The only truly general approach to fusion words is to apply
-language-specific processing step that will split tokens into syntactic words
+a language-specific processing step that will split tokens into syntactic words
 where necessary. Every syntactic word will then get its own part-of-speech tag
 and features. See also <a href="format.html">Format</a>.
 
@@ -187,6 +182,8 @@ The following Interset features are currently not part of the standard:
 * <a href="ud-feat/postponed/NumForm.html">NumForm</a>
 * <a href="ud-feat/postponed/NumValue.html">NumValue</a>
 * <a href="ud-feat/postponed/PartType.html">PartType</a>
+* <a href="ud-feat/postponed/Politeness.html">Politeness</a>
+* <a href="ud-feat/postponed/PrepCase.html">PrepCase</a>
 * <a href="ud-feat/postponed/PunctSide.html">PunctSide</a>
 * <a href="ud-feat/postponed/PunctType.html">PunctType</a>
 * <a href="ud-feat/postponed/Style.html">Style</a>

@@ -8,22 +8,24 @@ title:  'Format'
 We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
 Annotations are encoded in plain text files (UTF-8) with three types of lines:
 
- 1. Word lines containing the annotation of a word/token in 10 tab-separated fields; see below.
+ 1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
  2. Blank lines marking sentence boundaries.
  3. Comment lines starting with hash (#).
 
-Word lines contain the following fields:
+Sentences consist of one or more word lines, and word lines contain the following fields:
 
  1. ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
  4. CPOSTAG: Google universal part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
- 6. FEATS: List of morphological features (attribute-value pairs) from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-particular extension; underscore if not available.
+ 6. FEATS: List of morphological features from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-specific extension; underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
- 8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-particular subtype of one.
+ 8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
+
+Fields must not be empty and must not contain space characters.
 
 The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.
@@ -90,7 +92,9 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
 The CPOSTAG field contains a part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. Here is an example, showing only the first five fields for the 
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. 
+
+Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
 
     1    Då      då     ADV      AB                    _
@@ -113,7 +117,7 @@ Tokens that are not words have an underscore in both the HEAD and DEPREL fields.
     2-3   haven't   _        _       _        _                  _      _
     2     have      have     VERB    VB       Tens=Pres          0      root
     3     not       not      ADV     RB       _                  2      neg
-    4     a         a        DET     DT       _                  4      det
+    4     a         a        DET     DT       _                  5      det
     5     clue      clue     NOUN    NN       Num=Sing           2      dobj
     6     .         .        PUNCT   .        _                  2      punct
  
@@ -127,7 +131,9 @@ We can extract the following approximation at the token level (with token indexi
 
 The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
  
-The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
+The HEAD and DEPREL values define the basic dependencies which must be strictly a tree. However, in addition to these basic dependencies, enhanced representations may require additional dependency relations, for example, when dependencies propagate over coordinate structures. Such dependencies can be specified in the DEPS field, using a list of head-relation pairs. We use colon (:) to separate the head and relation and (as usual) vertical bar (\|) to separate list items and underscore for the empty list. The list is to be sorted by the index of the head: `4:xsubj|11:xsubj`.
+
+Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
 
     1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
     2    buy      buy     VERB    VBP    Num=Plur|Per=3|Tense=Pres    0    root     _
@@ -146,7 +152,7 @@ If the MISC field is not used, it should contain an underscore.
 
 ## Untokenized text
 
-To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field:
+To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 1 does not contain the `SpaceAfter` feature even though there was no space between _He_ and _'s_ in the underlying sentence. However, if there was no space between _He's_ and the third token, the 1-2 line would have `SpaceAfter=No`.
 
     1-2   He's      _         _       _       _                _   _        _   _
     1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj    _   _
