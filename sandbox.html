@@ -124,12 +124,11 @@ det(no-such, token)
 <!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
 
 <!-- fname:cop.pdf -->
-<div class="sd-parse">
-Huivi oli punainen . \n The_scarf was red .
+<pre><code class="language-sdparse">Huivi oli punainen . \n The_scarf was red .
 nsubj-cop(punainen-3, Huivi-1)
 cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
-</div>
+</code></pre>
 
 <h2 id="csubj-cop-clausal-copular-subject">csubj-cop (clausal copular subject)</h2>
 
@@ -137,13 +136,12 @@ punct(punainen-3, .-4)
 <!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
 
 <!-- fname:csubj-cop.pdf -->
-<div class="sd-parse">
-Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
+<pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
 csubj-cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
-</div>
+</code></pre>
 
 <h2 id="nsubj-cop-nominal-copular-subject">nsubj-cop (nominal copular subject)</h2>
 
@@ -152,13 +150,12 @@ punct(hauskaa-2, .-5)
 <!-- Annotating copular clauses is discussed in Section [copulas](#sec-copulas).-->
 
 <!-- fname:nsubj-cop.pdf -->
-<div class="sd-parse">
-Matto on jo kuiva . \n The_mat is already dry .
+<pre><code class="language-sdparse">Matto on jo kuiva . \n The_mat is already dry .
 nsubj-cop(kuiva-4, Matto-1)
 cop(kuiva-4, on-2)
 advmod(kuiva-4, jo-3)
 punct(kuiva-4, .-5)
-</div>
+</code></pre>
 
 <h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
 
@@ -167,27 +164,25 @@ punct(kuiva-4, .-5)
 <p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
 
 <!-- fname:adpos.pdf -->
-<div class="sd-parse">
-Talo sijaitsee mäen takana . \n House is_located hill behind .
+<pre><code class="language-sdparse">Talo sijaitsee mäen takana . \n House is_located hill behind .
 nsubj(sijaitsee-2, Talo-1)
 nmod(sijaitsee-2, mäen-3)
 case(mäen-3, takana-4)
 punct(sijaitsee-2, .-5)
-</div>
+</code></pre>
 
 <h2 id="gobj-genitive-object-a-namesec-gobja">gobj (genitive object) <a name="sec-gobj"></a></h2>
 
 <p>Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers <a href="http://universaldependencies.github.io/docs/fi/poss.html">poss</a>.</p>
 
 <!-- fname:gobj.pdf -->
-<div class="sd-parse">
-Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
+<pre><code class="language-sdparse">Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
 gobj(viljely-2, Perunan-1)
 nsubj-cop(harvinaista-5, viljely-2)
 cop(harvinaista-5, oli-3)
 advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
-</div>
+</code></pre>
 
 <h2 id="genitive-subject-a-namesec-gsubja">genitive subject <a name="sec-gsubj"></a></h2>
 
@@ -195,33 +190,30 @@ punct(harvinaista-5, .-6)
 <!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
 
 <!-- fname:gsubj.pdf -->
-<div class="sd-parse">
-maljakon särkyminen \n vase(gen.) breaking
+<pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
 gsubj(särkyminen-2, maljakon-1)
-</div>
+</code></pre>
 
 <h2 id="poss-genitive-modifier-a-namesec-possa">poss (genitive modifier) <a name="sec-poss"></a></h2>
 
 <p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: <em>the genitive object</em>, <a href="http://universaldependencies.github.io/docs/fi/gobj.html">gobj</a> and <em>the genitive subject</em>, <a href="http://universaldependencies.github.io/docs/fi/gsubj.html">gsubj</a>.</p>
 
 <!-- fname:poss1.pdf -->
-<div class="sd-parse">
-Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
+<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
 poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
 nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
-</div>
+</code></pre>
 
 <!-- fname:poss2.pdf -->
-<div class="sd-parse">
-Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
+<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
 nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
 poss(moottori-5, litran-4)
 num(litran-4, kahden-3)
-</div>
+</code></pre>
 
 
 

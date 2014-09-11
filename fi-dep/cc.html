@@ -39,35 +39,32 @@
 <p><em>Coordinating conjunctions</em> are marked as dependents of the first coordinated element, and the dependency type used is <code>cc</code>. </p>
 
 <!-- fname:cc1.pdf -->
-<div class="sd-parse">
-kirjat , kynät ja viivottimet \n books , pencils and rulers
+<pre><code class="language-sdparse">kirjat , kynät ja viivottimet \n books , pencils and rulers
 conj(kirjat-1, kynät-3)
 punct(kirjat-1, ,-2)
 cc(kirjat-1, ja-4)
 conj(kirjat-1, viivottimet-5)
-</div>
+</code></pre>
 
 <!--details-->
 
 <p>Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type <a href="http://universaldependencies.github.io/docs/fi/preconj.html"><code>preconj</code></a> and the second part with <code>cc</code> in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type <a href="http://universaldependencies.github.io/docs/fi/dep.html"><code>dep</code></a>, the rightmost word being the head.</p>
 
 <!-- fname:cc2.pdf -->
-<div class="sd-parse">
-toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
+<pre><code class="language-sdparse">toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
 preconj(kynät-2, toisaalta-1)
 punct(kynät-2, ,-3)
 cc(kynät-2, toisaalta-4)
 conj(kynät-2, viivottimet-5)
-</div>
+</code></pre>
 
 <!-- fname:cc3.pdf -->
-<div class="sd-parse">
-kynät ja / tai viivottimet \n pencils and / or rulers
+<pre><code class="language-sdparse">kynät ja / tai viivottimet \n pencils and / or rulers
 cc(kynät-1, tai-4)
 dep(tai-4, /-3)
 dep(/-3, ja-2)
 conj(kynät-1, viivottimet-5)
-</div>
+</code></pre>
 
 <p>Coordinating conjunctions are a closed class of words, and the main conjunctions are as follows:</p>
 

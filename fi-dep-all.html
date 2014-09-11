@@ -247,14 +247,13 @@ in two places.</p>
 
 <p>The dependency type <code>acomp</code> is used for adjectival complements of verbs, except for predicatives.</p>
 
-<div class="sd-parse">
-Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
+<pre><code class="language-sdparse">Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
 nsubj(teki, Hän)
 nmod(teki, siitä)
 advmod(vaikeaa, hyvin)
 acomp(teki, vaikeaa)
 punct(teki, .)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acomp.md" target="#">edit acomp</a></p>
 
@@ -263,8 +262,7 @@ punct(teki, .)
 <p><em>Adverbial clause modifiers</em> (<code>advcl</code>) are subordinate clauses that are not complements. Also non-complement infinite or temporal clauses (<em>lauseenvastike</em>, see for instance (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=876">§876</a>) are marked as <code>advcl</code>. If there is a subordinating conjunction present, it is marked with the dependency type <code>mark</code> (see Section <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>).</p>
 
 <!-- fname:advcl.pdf -->
-<div class="sd-parse">
-Kun äiti tuli kotiin , isä keitti kahvia . \n When mother came home , father made coffee .
+<pre><code class="language-sdparse">Kun äiti tuli kotiin , isä keitti kahvia . \n When mother came home , father made coffee .
 mark(tuli-3, Kun-1)
 nsubj(tuli-3, äiti-2)
 nmod(tuli-3, kotiin-4)
@@ -273,7 +271,7 @@ nsubj(keitti-7, isä-6)
 advcl(keitti-7, tuli-3)
 dobj(keitti-7, kahvia-8)
 punct(keitti-7, .-9)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
 
@@ -282,23 +280,21 @@ punct(keitti-7, .-9)
 <p>The dependency type <code>advmod</code> is used for <em>adverb modifiers</em> of verbs, nominals and adverbs alike.</p>
 
 <!-- fname:advmod_verb.pdf -->
-<div class="sd-parse">
-Hän käveli kotiin hitaasti . \n He walked home slowly .
+<pre><code class="language-sdparse">Hän käveli kotiin hitaasti . \n He walked home slowly .
 nsubj(käveli-2, Hän-1)
 nmod(käveli-2, kotiin-3)
 advmod(käveli-2, hitaasti-4)
 punct(käveli-2, .-5)
-</div>
+</code></pre>
 
 <!-- fname:advmod_noun.pdf -->
-<div class="sd-parse">
-Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
+<pre><code class="language-sdparse">Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
 nsubj(otin-2, Minä-1)
 nmod(otin-2, kaapista-3)
 dobj(otin-2, vasaran-5)
 advmod(vasaran-5, myös-4)
 punct(otin-2, .-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod.md" target="#">edit advmod</a></p>
 
@@ -307,21 +303,19 @@ punct(otin-2, .-6)
 <p>Nouns may take adjectival modifiers, which are marked with the dependency type <code>amod</code>. It is also possible for an adjective to take another adjective as a modifier. (These adjectival modifiers are generally expressed with <em>-ly</em> adverbs in English.)</p>
 
 <!-- fname:amod_noun.pdf -->
-<div class="sd-parse">
-Tien vieressä on suuri kivi . \n Road next_to is large rock .
+<pre><code class="language-sdparse">Tien vieressä on suuri kivi . \n Road next_to is large rock .
 nmod(on-3, Tien-1)
 adpos(Tien-1, vieressä-2)
 nsubj(on-3, kivi-5)
 amod(kivi-5, suuri-4)
 punct(on-3, .-6)
-</div>
+</code></pre>
 
 <!-- fname:amod_adjective.pdf -->
-<div class="sd-parse">
-poikkeuksellisen suuri kivi \n exceptional(ly) large rock
+<pre><code class="language-sdparse">poikkeuksellisen suuri kivi \n exceptional(ly) large rock
 amod(suuri-2, poikkeuksellisen-1)
 amod(kivi-3, suuri-2)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/amod.md" target="#">edit amod</a></p>
 
@@ -330,8 +324,7 @@ amod(kivi-3, suuri-2)
 <p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail below.</p>
 
 <!-- fname:appos1.pdf -->
-<div class="sd-parse">
-Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+<pre><code class="language-sdparse">Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
 appos(Professori-1, Tamminen-4)
 punct(Tamminen-4, ,-2)
 punct(Tamminen-4, ,-5)
@@ -339,17 +332,16 @@ name(Tamminen-4, Matti-3)
 nsubj(luennoi-6, Professori-1)
 advmod(luennoi-6, tänään-7)
 punct(luennoi-6, .-8)
-</div>
+</code></pre>
 
 <!-- fname:appos2.pdf -->
-<div class="sd-parse">
-Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
+<pre><code class="language-sdparse">Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
 appos(Kirjassa-1, Putkinotko-2)
 nmod(on-3, Kirjassa-1)
 nsubj(on-3, juoni-5)
 amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
-</div>
+</code></pre>
 
 <p><a href="fi-dep/appos.html">See details</a></p>
 
@@ -373,13 +365,12 @@ punct(on-3, .-6)
 </ul>
 
 <!-- fname:aux.pdf -->
-<div class="sd-parse">
-Hän saattoi lähteä jo . \n He may(impf.) leave already .
+<pre><code class="language-sdparse">Hän saattoi lähteä jo . \n He may(impf.) leave already .
 nsubj(lähteä-3, Hän-1)
 aux(lähteä-3, saattoi-2)
 advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/aux.md" target="#">edit aux</a></p>
 
@@ -390,22 +381,20 @@ punct(lähteä-3, .-5)
 <!-- TODO The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}. -->
 
 <!-- fname:auxpass1.pdf -->
-<div class="sd-parse">
-Suunnitelmaan on tehty muutoksia . \n Into_the_plan have_been made changes .
+<pre><code class="language-sdparse">Suunnitelmaan on tehty muutoksia . \n Into_the_plan have_been made changes .
 nmod(tehty-3, Suunnitelmaan-1)
 auxpass(tehty-3, on-2)
 dobj(tehty-3, muutoksia-4)
 punct(tehty-3, .-5)
-</div>
+</code></pre>
 
 <!-- fname:auxpass2.pdf -->
-<div class="sd-parse">
-Suunnitelmaan voidaan tehdä muutoksia . \n Into_the_plan can_be made(1st_inf.) changes .
+<pre><code class="language-sdparse">Suunnitelmaan voidaan tehdä muutoksia . \n Into_the_plan can_be made(1st_inf.) changes .
 nmod(tehdä-3, Suunnitelmaan-1)
 aux(tehdä-3, voidaan-2)
 dobj(tehdä-3, muutoksia-4)
 punct(tehdä-3, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/auxpass.md" target="#">edit auxpass</a></p>
 
@@ -414,13 +403,12 @@ punct(tehdä-3, .-5)
 <p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
 
 <!-- fname:adpos.pdf -->
-<div class="sd-parse">
-Talo sijaitsee mäen takana . \n House is_located hill behind .
+<pre><code class="language-sdparse">Talo sijaitsee mäen takana . \n House is_located hill behind .
 nsubj(sijaitsee-2, Talo-1)
 nmod(sijaitsee-2, mäen-3)
 case(mäen-3, takana-4)
 punct(sijaitsee-2, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case.md" target="#">edit case</a></p>
 
@@ -429,13 +417,12 @@ punct(sijaitsee-2, .-5)
 <p><em>Coordinating conjunctions</em> are marked as dependents of the first coordinated element, and the dependency type used is <code>cc</code>. </p>
 
 <!-- fname:cc1.pdf -->
-<div class="sd-parse">
-kirjat , kynät ja viivottimet \n books , pencils and rulers
+<pre><code class="language-sdparse">kirjat , kynät ja viivottimet \n books , pencils and rulers
 conj(kirjat-1, kynät-3)
 punct(kirjat-1, ,-2)
 cc(kirjat-1, ja-4)
 conj(kirjat-1, viivottimet-5)
-</div>
+</code></pre>
 
 <p><a href="fi-dep/cc.html">See details</a></p>
 
@@ -446,19 +433,17 @@ conj(kirjat-1, viivottimet-5)
 <p><em>Clausal complements</em> that have a subject different from that of the main clause (Note that a clausal complement need not have a subject present at all; the clause could be, for instance, passive.)  are marked with the dependency type <code>ccomp</code>. The governor is most commonly, although not always, the main verb or predicative of the main clause, and the dependent is the main verb or predicative of the dependent clause. The clausal complement can also modify a word other than a verb, most often a noun or pronoun. Most commonly clausal complements are <em>että</em>-clauses. <!--Distinguishing different verbal dependents, including different clausal complements, is discussed more closely in Section [verbal](#sec-verbal).--></p>
 
 <!-- fname:ccomp1.pdf -->
-<div class="sd-parse">
-Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
+<pre><code class="language-sdparse">Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
 nmod(Sanoin-1, hänelle-2)
 ccomp(Sanoin-1, kiehuu-6)
 punct(kiehuu-6, ,-3)
 complm(kiehuu-6, että-4)
 nsubj(kiehuu-6, vesi-5)
 punct(Sanoin-1, .-7)
-</div>
+</code></pre>
 
 <!-- fname:ccomp2.pdf -->
-<div class="sd-parse">
-Se , että naapurin koira haukkui kovasti , suututti äitiä . \n It , that neighbor's dog barked loudly , made_angry mother .
+<pre><code class="language-sdparse">Se , että naapurin koira haukkui kovasti , suututti äitiä . \n It , that neighbor's dog barked loudly , made_angry mother .
 ccomp(Se-1, haukkui-6)
 punct(haukkui-6, ,-2)
 punct(haukkui-6, ,-8)
@@ -468,7 +453,7 @@ advmod(haukkui-6, kovasti-7)
 nsubj(suututti-9, Se-1)
 dobj(suututti-9, äitiä-10)
 punct(suututti-9, .-11)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp.md" target="#">edit ccomp</a></p>
 
@@ -477,12 +462,11 @@ punct(suututti-9, .-11)
 <p>The dependency type <code>compar</code> is used in comparative constructions, most often involving adjectives in the comparative form. The head of the <code>compar</code> dependency is the comparative wordform, and the dependent is the compared element. </p>
 
 <!-- fname:compar.pdf -->
-<div class="sd-parse">
-parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
+<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
 compar(parempi-1, näytelmä-4)
 comparator(näytelmä-4, kuin-2)
 amod(näytelmä-4, eilinen-3)
-</div>
+</code></pre>
 
 <p><a href="fi-dep/compar.html">See details</a></p>
 
@@ -493,11 +477,10 @@ amod(näytelmä-4, eilinen-3)
 <p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds roughly to <em>than</em> and <em>as</em> in English) is marked with the dependency type <code>comparator</code>. The head of the dependency is the element being compared.</p>
 
 <!-- fname:comparator.pdf -->
-<div class="sd-parse">
-enemmän kuin haluaisin \n more than I_would_want
+<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
 comparator(enemmän-1, haluaisin-3)
 comparator(haluaisin-3, kuin-2)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/comparator.md" target="#">edit comparator</a></p>
 
@@ -506,15 +489,14 @@ comparator(haluaisin-3, kuin-2)
 <p>The <em>complementizer</em> (<em>complm</em>) appears in most clausal complements, and the head of the dependency is the main verb of the subordinate clause. The only complementizer in Finnish is <em>että</em> (<em>that</em>).</p>
 
 <!-- fname:complm.pdf -->
-<div class="sd-parse">
-Sanoin , että hän voi tulla . \n I_said , that he can come .
+<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
 ccomp(Sanoin-1, tulla-6)
 punct(tulla-6, ,-2)
 complm(tulla-6, että-3)
 nsubj(tulla-6, hän-4)
 aux(tulla-6, voi-5)
 punct(Sanoin-1, .-7)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/complm.md" target="#">edit complm</a></p>
 
@@ -529,13 +511,12 @@ punct(Sanoin-1, .-7)
 <p>The SD scheme marks coordination so that the first coordinated element acts as the head, and the rest of the elements in the coordination, as well as the coordinating conjunction, depend on it. <em>Coordinated elements</em> are marked with the dependency type <code>conj</code>.</p>
 
 <!-- fname:conj.pdf -->
-<div class="sd-parse">
-maitoa , leipää ja voita \n milk , bread and butter
+<pre><code class="language-sdparse">maitoa , leipää ja voita \n milk , bread and butter
 punct(maitoa-1, ,-2)
 conj(maitoa-1, leipää-3)
 cc(maitoa-1, ja-4)
 conj(maitoa-1, voita-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/conj.md" target="#">edit conj</a></p>
 
@@ -546,12 +527,11 @@ conj(maitoa-1, voita-5)
 <!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
 
 <!-- fname:cop.pdf -->
-<div class="sd-parse">
-Huivi oli punainen . \n The_scarf was red .
+<pre><code class="language-sdparse">Huivi oli punainen . \n The_scarf was red .
 nsubj-cop(punainen-3, Huivi-1)
 cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cop.md" target="#">edit cop</a></p>
 
@@ -561,13 +541,12 @@ punct(punainen-3, .-4)
 <!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
 
 <!-- fname:csubj-cop.pdf -->
-<div class="sd-parse">
-Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
+<pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
 csubj-cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj-cop.md" target="#">edit csubj-cop</a></p>
 
@@ -576,14 +555,13 @@ punct(hauskaa-2, .-5)
 <p>A <em>clausal subject</em> (<em>csubj</em>) is a clause that acts as the subject of another clause.</p>
 
 <!-- fname:csubj.pdf -->
-<div class="sd-parse">
-Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
+<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
 poss(aikomuksenaan-2, Hänen-1)
 nmod(oli-3, aikomuksenaan-2)
 csubj(oli-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj.md" target="#">edit csubj</a></p>
 
@@ -592,15 +570,14 @@ punct(oli-3, .-6)
 <p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type <code>dep</code> is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.</p>
 
 <!-- fname:dep.pdf -->
-<div class="sd-parse">
-Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
+<pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
 dep(asiassa-2, Itse-1)
 advmod(tuli-4, asiassa-2)
 nsubj(tuli-4, hän-3)
 advmod(tuli-4, eilen-6)
 advmod(eilen-6, jo-5)
 punct(tuli-4, .-7)
-</div>
+</code></pre>
 
 <p><a href="fi-dep/dep.html">See details</a></p>
 
@@ -611,13 +588,12 @@ punct(tuli-4, .-7)
 <p>There are no definite or indefinite articles in the Finnish language, but there are other determiners (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1409">§1409</a>). In TDT, mostly pronouns are marked as <em>determiners</em> (<code>det</code>), because numerals, which can also be analyzed as determiner-like, are marked as <em>numeral modifiers</em> <a href="http://universaldependencies.github.io/docs/fi/num.html">num</a>, and genitive modifiers, also determiner-like, are marked with <a href="http://universaldependencies.github.io/docs/fi/poss.html">poss</a>.</p>
 
 <!-- fname:det.pdf -->
-<div class="sd-parse">
-Kaikki miehet pudistivat päätään . \n All men shook their_head .
+<pre><code class="language-sdparse">Kaikki miehet pudistivat päätään . \n All men shook their_head .
 det(miehet-2, Kaikki-1)
 nsubj(pudistivat-3, miehet-2)
 dobj(pudistivat-3, päätään-4)
 punct(pudistivat-3, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/det.md" target="#">edit det</a></p>
 
@@ -626,23 +602,21 @@ punct(pudistivat-3, .-5)
 <p><em>Discourse elements</em> are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the <code>discourse</code> dependency type.</p>
 
 <!-- fname:intj1.pdf -->
-<div class="sd-parse">
-Hei , tule auttamaan ! \n Hey , come to_help !
+<pre><code class="language-sdparse">Hei , tule auttamaan ! \n Hey , come to_help !
 discourse(tule-3, Hei-1)
 punct(Hei-1, ,-2)
 xcomp(tule-3, auttamaan-4)
 punct(tule-3, !-5)
-</div>
+</code></pre>
 
 <!-- fname:intj2.pdf -->
-<div class="sd-parse">
-Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
+<pre><code class="language-sdparse">Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
 discourse(sanoisi-5, Hmm-1)
 punct(Hmm-1, ...-2)
 dobj(sanoisi-5, Mitähän-3)
 nmod(sanoisi-5, tuohon-4)
 punct(sanoisi-5, ?-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/discourse.md" target="#">edit discourse</a></p>
 
@@ -657,22 +631,20 @@ punct(sanoisi-5, ?-6)
 <p>The dependency type <code>dobj</code> is used for (nominal) direct objects of the verb.</p>
 
 <!-- fname:dobj1.pdf -->
-<div class="sd-parse">
-Hän sulki oven . \n He closed the_door .
+<pre><code class="language-sdparse">Hän sulki oven . \n He closed the_door .
 nsubj(sulki-2, Hän-1)
 dobj(sulki-2, oven-3)
 punct(sulki-2, .-4)
-</div>
+</code></pre>
 
 <p>As in Finnish a passive clause does not have a subject, and what in English would be considered the passive subject, is in Finnish the direct object, the type <code>nsubjpass</code> is not used in TDT, but the type <code>dobj</code> is used instead.</p>
 
 <!-- fname:dobj2.pdf -->
-<div class="sd-parse">
-Päätös tehtiin marraskuussa . \n The_decision was_made in_November .
+<pre><code class="language-sdparse">Päätös tehtiin marraskuussa . \n The_decision was_made in_November .
 dobj(tehtiin-2, Päätös-1)
 nmod(tehtiin-2, marraskuussa-3)
 punct(tehtiin-2, .-4)
-</div>
+</code></pre>
 
 <!-- Fine distinctions in special cases of subjects, objects and object-cased amount adverbials are discussed in Section [subj-obj](#sec-subj-obj).-->
 
@@ -695,14 +667,13 @@ punct(tehtiin-2, .-4)
 <p>Certain nouns, those which have been directly derived from a verb or otherwise have a verb counterpart, can take an object in Finnish. These objects closely resemble more general genitive modifiers <a href="http://universaldependencies.github.io/docs/fi/poss.html">poss</a>.</p>
 
 <!-- fname:gobj.pdf -->
-<div class="sd-parse">
-Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
+<pre><code class="language-sdparse">Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
 gobj(viljely-2, Perunan-1)
 nsubj-cop(harvinaista-5, viljely-2)
 cop(harvinaista-5, oli-3)
 advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/gobj.md" target="#">edit gobj</a></p>
 
@@ -718,10 +689,9 @@ punct(harvinaista-5, .-6)
 <!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
 
 <!-- fname:gsubj.pdf -->
-<div class="sd-parse">
-maljakon särkyminen \n vase(gen.) breaking
+<pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
 gsubj(särkyminen-2, maljakon-1)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/gsubj.md" target="#">edit gsubj</a></p>
 
@@ -732,12 +702,11 @@ gsubj(särkyminen-2, maljakon-1)
 <!-- TODO The differences between types of verbal dependents, such as `iccomp`, are thoroughly discussed in Section [verbal](#sec-verbal). -->
 
 <!-- fname:iccomp.pdf -->
-<div class="sd-parse">
-Sain hänet itkemään . \n I_made him cry .
+<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
 iccomp(Sain-1, itkemään-3)
 nsubj(itkemään-3, hänet-2)
 punct(Sain-1, .-4)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/iccomp.md" target="#">edit iccomp</a></p>
 
@@ -746,14 +715,13 @@ punct(Sain-1, .-4)
 <p>The dependency type <code>infmod</code> is used for infinitives that modify a nominal or a noun phrase.</p>
 
 <!-- fname:infmod.pdf -->
-<div class="sd-parse">
-Minulla oli lupa mennä ulos . \n I had permission to_go out .
+<pre><code class="language-sdparse">Minulla oli lupa mennä ulos . \n I had permission to_go out .
 nmod(oli-2, Minulla-1)
 nsubj(oli-2, lupa-3)
 infmod(lupa-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-2, .-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/infmod.md" target="#">edit infmod</a></p>
 
@@ -768,8 +736,7 @@ punct(oli-2, .-6)
 <p>A <em>marker</em> (<code>mark</code>) is the subordinating conjunction in a non-complement subordinate clause.</p>
 
 <!-- fname:mark.pdf -->
-<div class="sd-parse">
-Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
+<pre><code class="language-sdparse">Kun tulin kotiin , jätin avaimen pöydälle . \n When I_came home , I_left key on_table .
 mark(tulin-2, Kun-1)
 nmod(tulin-2, kotiin-3)
 punct(tulin-2, ,-4)
@@ -777,7 +744,7 @@ advcl(jätin-5, tulin-2)
 dobj(jätin-5, avaimen-6)
 nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
-</div>
+</code></pre>
 
 <p>The main subordinating conjunctions in TDT are:</p>
 
@@ -833,8 +800,7 @@ punct(jätin-5, .-8)
 <p>If the named entity has an obvious internal structure, as is often the case in names of books and movies for instance, this structure is marked as well, and the <code>name</code> dependency is placed on top of this structure, despite it being extraneous in the tree. In these cases, the head of the internal structure, not the rightmost word of the named entity, is considered to be the true syntactic head. It is possible for the user of the treebank to choose their preferred analysis for these cases according to need, and automatically discard the alternative analysis.</p>
 
 <!-- fname:name.pdf -->
-<div class="sd-parse">
-Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
+<pre><code class="language-sdparse">Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
 nmod(juhlivat-2, öisin-3)
 name(öisin-3, Jumalat-1)
@@ -843,7 +809,7 @@ cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
 name(Tarttin-6, Donna-5)
 poss(esikoisteos-7, Tarttin-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/name.md" target="#">edit name</a></p>
 
@@ -860,13 +826,12 @@ poss(esikoisteos-7, Tarttin-6)
 <p>If a conjunction or adverb has been merged together with <em>ei</em>, as in for instance <em>ettei</em> (<em>että+ei</em>, <em>that+not</em>) or <em>miksei</em> (<em>miksi+ei</em>, <em>why+not</em>), then the word is marked as a conjunction or an adverb rather than a negation verb. However, <em>eikä (and+not)</em>, when it appears alone and not coordinating another clause or phrase, is still marked as <code>neg</code>.</p>
 
 <!-- fname:neg.pdf -->
-<div class="sd-parse">
-Hän ei sanonut mitään . \n He didn't say anything .
+<pre><code class="language-sdparse">Hän ei sanonut mitään . \n He didn't say anything .
 nsubj(sanonut-3, Hän-1)
 neg(sanonut-3, ei-2)
 dobj(sanonut-3, mitään-4)
 punct(sanonut-3, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/neg.md" target="#">edit neg</a></p>
 
@@ -885,13 +850,12 @@ punct(sanonut-3, .-5)
 <p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nmod</em>. However, as <code>nmod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nmod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
 
 <!-- fname:omistus.pdf -->
-<div class="sd-parse">
-Matilla on uusi auto . \n At_Matti is new car .
+<pre><code class="language-sdparse">Matilla on uusi auto . \n At_Matti is new car .
 nmod-own(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, uusi-3)
 punct(on-2, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod-own.md" target="#">edit nmod-own</a></p>
 
@@ -900,21 +864,19 @@ punct(on-2, .-5)
 <p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
 
 <!-- fname:nmod_alone.pdf -->
-<div class="sd-parse">
-Maljakko oli pöydällä . \n The_vase was on_the_table .
+<pre><code class="language-sdparse">Maljakko oli pöydällä . \n The_vase was on_the_table .
 nsubj(oli-2, Maljakko-1)
 nmod(oli-2, pöydällä-3)
 punct(oli-2, .-4)
-</div>
+</code></pre>
 
 <!-- fname:nmod_adpos.pdf -->
-<div class="sd-parse">
-Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
+<pre><code class="language-sdparse">Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
 nsubj(oli-2, Maljakko-1)
 nmod(oli-2, pöydän-3)
 adpos(pöydän-3, päällä-4)
 punct(oli-2, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod.md" target="#">edit nmod</a></p>
 
@@ -923,35 +885,32 @@ punct(oli-2, .-5)
 <p>The dependency type <code>nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish SD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>nn</code>.</p>
 
 <!-- fname:nn_foreign.pdf -->
-<div class="sd-parse">
-Da Vinci -merkkinen luomiväri \n Da Vinci -make eyeshadow
+<pre><code class="language-sdparse">Da Vinci -merkkinen luomiväri \n Da Vinci -make eyeshadow
 name(Vinci-2, Da-1)
 nn(-merkkinen-3, Vinci-2)
 amod(luomiväri-4, -merkkinen-3)
-</div>
+</code></pre>
 
 <!-- fname:nn_error.pdf -->
-<div class="sd-parse">
-Ruoka pöytä notkui herkkuja . \n Food table was_full_of goodies .
+<pre><code class="language-sdparse">Ruoka pöytä notkui herkkuja . \n Food table was_full_of goodies .
 nn(pöytä-2, Ruoka-1)
 nsubj(notkui-3, pöytä-2)
 dobj(notkui-3, herkkuja-4)
 punct(notkui-3, .-5)
-</div>
+</code></pre>
 
 <p>The second use of the type <code>nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>.</p>
 
 <!-- , and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).-->
 
 <!-- fname:nn_appellation.pdf -->
-<div class="sd-parse">
-Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
+<pre><code class="language-sdparse">Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
 nn(Tamminen-3, Professori-1)
 name(Tamminen-3, Matti-2)
 nsubj(pitää-4, Tamminen-3)
 dobj(pitää-4, puheen-5)
 punct(pitää-4, .-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nn.md" target="#">edit nn</a></p>
 
@@ -962,13 +921,12 @@ punct(pitää-4, .-6)
 <!-- Annotating copular clauses is discussed in Section [copulas](#sec-copulas).-->
 
 <!-- fname:nsubj-cop.pdf -->
-<div class="sd-parse">
-Matto on jo kuiva . \n The_mat is already dry .
+<pre><code class="language-sdparse">Matto on jo kuiva . \n The_mat is already dry .
 nsubj-cop(kuiva-4, Matto-1)
 cop(kuiva-4, on-2)
 advmod(kuiva-4, jo-3)
 punct(kuiva-4, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj-cop.md" target="#">edit nsubj-cop</a></p>
 
@@ -978,12 +936,11 @@ punct(kuiva-4, .-5)
 <!-- For thorough discussion of different types of subjects in Finnish, see Section [subj-obj](#sec-subj-obj).--></p>
 
 <!-- fname:nsubj_basic.pdf -->
-<div class="sd-parse">
-Eeva tuli töistä . \n Eeva came from_work .
+<pre><code class="language-sdparse">Eeva tuli töistä . \n Eeva came from_work .
 nsubj(tuli-2, Eeva-1)
 nmod(tuli-2, töistä-3)
 punct(tuli-2, .-4)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj.md" target="#">edit nsubj</a></p>
 
@@ -994,15 +951,14 @@ punct(tuli-2, .-4)
 <!-- TODO Special cases of numerical expressions are discussed in Section [numberspecial](#sec-numberspecial). -->
 
 <!-- fname:number.pdf -->
-<div class="sd-parse">
-Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
+<pre><code class="language-sdparse">Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
 nsubj-cop(5-6, Poikasia-1)
 cop(5-6, on-2)
 advmod(5-6, yleensä-3)
 number(--5, 3-4)
 number(5-6, --5)
 punct(5-6, .-7)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/number.md" target="#">edit number</a></p>
 
@@ -1011,22 +967,20 @@ punct(5-6, .-7)
 <p><em>Numeral modifiers</em> of a noun or NP, including both cardinal and ordinal numbers, are marked with the <code>nummod</code> dependency type. This dependency type is used also with for instance years and program versions.</p>
 
 <!-- fname:num.pdf -->
-<div class="sd-parse">
-Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
+<pre><code class="language-sdparse">Laukku painoi 20 kiloa . \n Bag weighed 20 kilograms .
 nsubj(painoi-2, Laukku-1)
 dobj(painoi-2, kiloa-4)
 nummod(kiloa-4, 20-3)
 punct(painoi-2, .-5)
-</div>
+</code></pre>
 
 <!-- fname:num_year.pdf -->
-<div class="sd-parse">
-Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
+<pre><code class="language-sdparse">Tapasin hänet vuonna 1972 . \n I_met him in_the_year 1972 .
 dobj(Tapasin-1, hänet-2)
 nmod(Tapasin-1, vuonna-3)
 nummod(vuonna-3, 1972-4)
 punct(Tapasin-1, .-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nummod.md" target="#">edit nummod</a></p>
 
@@ -1035,8 +989,7 @@ punct(Tapasin-1, .-5)
 <p><code>Parataxis</code> dependencies mark two different phenomena. Firstly, they are used with certain implicit coordinations. These coordinations are recognized by two factors: there is no coordinating conjunction, and the independent clauses are separated by a colon, semicolon or a dash. As with explicit coordinations, the first element is the governor. Also parenthetical clauses can receive the <code>parataxis</code> dependency. If there is a coordinating conjunction present (regardless of punctuation) or if the clauses are separated by merely a comma, the coordination type <code>conj</code> is used.</p>
 
 <!-- fname:parataxis_coord.pdf -->
-<div class="sd-parse">
-Lapset leipoivat piparit ; äiti paistoi ne . \n The_children made the_cookies ; the_mother baked them .
+<pre><code class="language-sdparse">Lapset leipoivat piparit ; äiti paistoi ne . \n The_children made the_cookies ; the_mother baked them .
 nsubj(leipoivat-2, Lapset-1)
 dobj(leipoivat-2, piparit-3)
 punct(leipoivat-2, ;-4)
@@ -1044,13 +997,12 @@ punct(leipoivat-2, .-8)
 parataxis(leipoivat-2, paistoi-6)
 nsubj(paistoi-6, äiti-5)
 dobj(paistoi-6, ne-7)
-</div>
+</code></pre>
 
 <p><code>Parataxis</code> is also used for direct speech. The verb of saying (or thinking, etc.)  acts as the governor, and the main verb or predicative of the utterance is the dependent.</p>
 
 <!-- fname:parataxis_speech.pdf -->
-<div class="sd-parse">
-Tulen kotiin vasta myöhään , mies sanoi . \n I_will_come home only late , the_man said .
+<pre><code class="language-sdparse">Tulen kotiin vasta myöhään , mies sanoi . \n I_will_come home only late , the_man said .
 nmod(Tulen-1, kotiin-2)
 advmod(Tulen-1, myöhään-4)
 advmod(myöhään-4, vasta-3)
@@ -1058,7 +1010,7 @@ punct(Tulen-1, ,-5)
 nsubj(sanoi-7, mies-6)
 parataxis(sanoi-7, Tulen-1)
 punct(sanoi-7, .-8)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/parataxis.md" target="#">edit parataxis</a></p>
 
@@ -1067,43 +1019,39 @@ punct(sanoi-7, .-8)
 <p>The <em>participal modifier</em> (<code>partmod</code>) most commonly modifies a noun phrase. Note that the participle (Also the MA-derivation is treated as a participle in TDT.)  can take arguments, for instance a subject, just as any verb.</p>
 
 <!-- fname:partmod_NP.pdf -->
-<div class="sd-parse">
-Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
+<pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
 nsubj(leipoma-2, Äidin-1)
 partmod(kakku-3, leipoma-2)
 nsubj-cop(menestys-5, kakku-3)
 cop(menestys-5, oli-4)
 punct(menestys-5, .-6)
-</div>
+</code></pre>
 
 <!-- fname:partmod_NP_2.pdf -->
-<div class="sd-parse">
-Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
+<pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
 partmod(lahjat-2, Saadut-1)
 nsubj(ilahduttivat-3, lahjat-2)
 dobj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
-</div>
+</code></pre>
 
 <p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
 
 <!-- fname:partmod_VP_mod.pdf -->
-<div class="sd-parse">
-Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
+<pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
 partmod(juoksin-2, Huolestuneena-1)
 nmod(juoksin-2, hänen-3)
 adpos(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
-</div>
+</code></pre>
 
 <!-- fname:partmod_VP_comp.pdf -->
-<div class="sd-parse">
-Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
+<pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
 nsubj(osoittautui-2, Ksylitoli-1)
 partmod(osoittautui-2, ehkäiseväksi-4)
 dobj(ehkäiseväksi-4, kariesta-3)
 punct(osoittautui-2, .-5)
-</div>
+</code></pre>
 
 <!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
 
@@ -1114,23 +1062,21 @@ punct(osoittautui-2, .-5)
 <p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: <em>the genitive object</em>, <a href="http://universaldependencies.github.io/docs/fi/gobj.html">gobj</a> and <em>the genitive subject</em>, <a href="http://universaldependencies.github.io/docs/fi/gsubj.html">gsubj</a>.</p>
 
 <!-- fname:poss1.pdf -->
-<div class="sd-parse">
-Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
+<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
 poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
 nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
-</div>
+</code></pre>
 
 <!-- fname:poss2.pdf -->
-<div class="sd-parse">
-Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
+<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
 nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
 poss(moottori-5, litran-4)
 num(litran-4, kahden-3)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/poss.md" target="#">edit poss</a></p>
 
@@ -1139,12 +1085,11 @@ num(litran-4, kahden-3)
 <p><em>Preconjunction</em> (<code>preconj</code>) marks the first part of those two-part coordinating conjunctions where the two parts are separated by coordinated elements.</p>
 
 <!-- fname:preconj.pdf -->
-<div class="sd-parse">
-sekä talo että piha \n both house and yard
+<pre><code class="language-sdparse">sekä talo että piha \n both house and yard
 preconj(talo-2, sekä-1)
 cc(talo-2, että-3)
 conj(talo-2, piha-4)
-</div>
+</code></pre>
 
 <p>Such two-part coordinating conjunctions in TDT are:</p>
 
@@ -1171,8 +1116,7 @@ conj(talo-2, piha-4)
 <p><em>Phrasal particles</em> (<code>prt</code>) are used in connection with <em>phrasal verbs</em>, (partikkeliverbi, “particle verb” in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
 
 <!-- fname:prt.pdf -->
-<div class="sd-parse">
-Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
+<pre><code class="language-sdparse">Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
 prt(Kävi-1, ilmi-2)
 csubj(Kävi-1, hyvä-7)
 punct(hyvä-7, ,-3)
@@ -1180,7 +1124,7 @@ complm(hyvä-7, että-4)
 nsubj-cop(hyvä-7, ehdotus-5)
 cop(hyvä-7, oli-6)
 punct(hyvä-7, .-8)
-</div>
+</code></pre>
 
 <p>Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.</p>
 
@@ -1201,17 +1145,15 @@ punct(hyvä-7, .-8)
 <p>The dependency type <code>punct</code> is used to mark punctuation. The dependent is the punctuation symbol, and the governor is the element which the punctuation symbol delimits. For instance, with coordination, the first coordinated element is the head of all <code>punct</code> dependencies in the coordination, and with subordinate clauses, the head of the subordinate clause is the governor of the <code>punct</code>.</p>
 
 <!-- fname:punct_coord.pdf -->
-<div class="sd-parse">
-kerrostaloja , rivitaloja ja omakotitaloja \n blockhouses , rowhouses and one_family_houses
+<pre><code class="language-sdparse">kerrostaloja , rivitaloja ja omakotitaloja \n blockhouses , rowhouses and one_family_houses
 punct(kerrostaloja-1, ,-2)
 conj(kerrostaloja-1, rivitaloja-3)
 cc(kerrostaloja-1, ja-4)
 conj(kerrostaloja-1, omakotitaloja-5)
-</div>
+</code></pre>
 
 <!-- fname:punct_subord.pdf -->
-<div class="sd-parse">
-Kotona oli hiljaista , kun hän palasi . \n At_home was quiet , when he returned .
+<pre><code class="language-sdparse">Kotona oli hiljaista , kun hän palasi . \n At_home was quiet , when he returned .
 advmod(oli-2, Kotona-1)
 acomp(oli-2, hiljaista-3)
 advcl(oli-2, palasi-7)
@@ -1219,7 +1161,7 @@ punct(palasi-7, ,-4)
 punct(oli-2, .-8)
 mark(palasi-7, kun-5)
 nsubj(palasi-7, hän-6)
-</div>
+</code></pre>
 
 <!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
 
@@ -1230,15 +1172,14 @@ nsubj(palasi-7, hän-6)
 <p><em>Quantification modifiers</em> (<code>quantmod</code>) are quantifiers that modify a numerical expression. Certain adverbs (and ad-adjectives, which are sometimes regarded a separate category from adverbs but treated identically in TDT)  and few adjectives are allowed as quantifiers. Note that adverbs that describe the writer’s attitude towards the quantity, such as <em>vain</em> (<em>only</em>), are not considered quantification modifiers, but regular adverb modifiers, although they modify the number. Some examples of words that can act as quantification modifiers include <em>noin</em> (<em>about</em>), vähintään (<em>at least</em>), <em>lähes</em> (<em>almost</em>) and <em>yli</em> (<em>over</em>).</p>
 
 <!-- fname:quantmod.pdf -->
-<div class="sd-parse">
-Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
+<pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
 nsubj-cop(neliökilometriä-6, Alue-1)
 cop(neliökilometriä-6, oli-2)
 nmod(neliökilometriä-6, suuruudeltaan-3)
 quantmod(kymmenen-5, noin-4)
 num(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/quantmod.md" target="#">edit quantmod</a></p>
 
@@ -1249,8 +1190,7 @@ punct(neliökilometriä-6, .-7)
 <!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
 
 <!-- fname:rel_basic.pdf -->
-<div class="sd-parse">
-Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
+<pre><code class="language-sdparse">Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
 rcmod(Auto-1, ohitti-4)
 punct(ohitti-4, ,-2)
 rel(ohitti-4, joka-3)
@@ -1260,11 +1200,10 @@ nsubj(ajoi-7, Auto-1)
 advmod(ajoi-7, nopeasti-9)
 advmod(nopeasti-9, hyvin-8)
 punct(ajoi-7, .-10)
-</div>
+</code></pre>
 
 <!-- fname:rel_phrase.pdf -->
-<div class="sd-parse">
-Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
+<pre><code class="language-sdparse">Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
 rcmod(Nainen-1, hajosi-5)
 punct(hajosi-5, ,-2)
 poss(auto-4, jonka-3)
@@ -1273,7 +1212,7 @@ punct(hajosi-5, ,-6)
 nsubj(pyysi-7, Nainen-1)
 dobj(pyysi-7, apuamme-8)
 punct(pyysi-7, .-9)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/rel.md" target="#">edit rel</a></p>
 
@@ -1282,8 +1221,7 @@ punct(pyysi-7, .-9)
 <p>A <em>relative clause modifier</em> (<code>relcl</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
 
 <!-- fname:relcl_NP.pdf -->
-<div class="sd-parse">
-Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
+<pre><code class="language-sdparse">Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
 relcl(Mies-1, nähnyt-6)
 punct(nähnyt-6, ,-2)
 rel(nähnyt-6, jonka-3)
@@ -1295,11 +1233,10 @@ nsubj(oli-9, Mies-1)
 advmod(oli-9, taas-10)
 nmod(oli-9, ovella-11)
 punct(oli-9, .-12)
-</div>
+</code></pre>
 
 <!-- fname:relcl_clause.pdf -->
-<div class="sd-parse">
-Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
+<pre><code class="language-sdparse">Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
 nsubj(kolahti-2, Ovi-1)
 advmod(kolahti-2, auki-3)
 relcl(kolahti-2, säikäytti-6)
@@ -1307,7 +1244,7 @@ punct(säikäytti-6, ,-4)
 rel(säikäytti-6, mikä-5)
 dobj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/relcl.md" target="#">edit relcl</a></p>
 
@@ -1334,13 +1271,12 @@ punct(kolahti-2, .-8)
 <p>The dependency type <code>vocative</code> is used for <em>vocatives</em>, that is, expressions where someone is being addressed. The governor of the dependency is the main predicate of the clause where the addressing occurs.</p>
 
 <!-- fname:voc.pdf -->
-<div class="sd-parse">
-Pekka , tulisitko tänne ? \n Pekka , would_you_come here ?
+<pre><code class="language-sdparse">Pekka , tulisitko tänne ? \n Pekka , would_you_come here ?
 vocative(tulisitko-3, Pekka-1)
 punct(Pekka-1, ,-2)
 advmod(tulisitko-3, tänne-4)
 punct(tulisitko-3, ?-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/vocative.md" target="#">edit vocative</a></p>
 
@@ -1349,13 +1285,12 @@ punct(tulisitko-3, ?-5)
 <p>The dependency type <code>xcomp</code> is reserved for clausal complements which have an external subject, that is, whose subject is shared with the complemented verb (phenomenon also known as subject control). Note that the subject of the complementing clause must be the <em>subject</em> of the complemented verb, not any other sentence element.</p>
 
 <!-- fname:xcomp.pdf -->
-<div class="sd-parse">
-Hän alkoi hakata halkoja . \n He started chopping the_wood .
+<pre><code class="language-sdparse">Hän alkoi hakata halkoja . \n He started chopping the_wood .
 nsubj(alkoi-2, Hän-1)
 xcomp(alkoi-2, hakata-3)
 dobj(hakata-3, halkoja-4)
 punct(alkoi-2, .-5)
-</div>
+</code></pre>
 
 <p>Many of the complements with an external subject resemble cases that are analyzed as main verbs with auxiliaries. Both auxiliaries and <code>xcomp</code> complements share their subject with another verb, but only a closed list of verbs are analyzed as auxiliaries in TDT (see Section <a href="#sec-aux">aux</a>). Note also that in auxiliary cases the second verb is the governor, whereas with <code>xcomp</code> the first verb becomes governor (unless the word order is inverse).</p>
 

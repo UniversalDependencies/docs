@@ -228,25 +228,21 @@ in two places.</p>
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
 clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.</p>
 
-<div class="sd-parse">
-The accident happened as night was falling
+<pre><code class="language-sdparse">The accident happened as night was falling
 advcl(happened, falling)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-If you know who did it, you should tell the teacher
+<pre><code class="language-sdparse">If you know who did it, you should tell the teacher
 advcl(tell, know)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-He talked to him in order to secure the account
+<pre><code class="language-sdparse">He talked to him in order to secure the account
 advcl(talked, secure)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-He was upset when I talked to him
+<pre><code class="language-sdparse">He was upset when I talked to him
 advcl(upset, talked)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/advcl.md" target="#">edit advcl</a></p>
 
@@ -255,15 +251,13 @@ advcl(upset, talked)
 <p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial
 phrase (ADVP) that serves to modify the meaning of the word.</p>
 
-<div class="sd-parse">
-Genetically modified food
+<pre><code class="language-sdparse">Genetically modified food
 advmod(modified, Genetically)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-less often
+<pre><code class="language-sdparse">less often
 advmod(often, less)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/advmod.md" target="#">edit advmod</a></p>
 
@@ -272,20 +266,17 @@ advmod(often, less)
 <p>An adjectival modifier of an NP is any adjectival phrase that serves
 to modify the meaning of the NP.</p>
 
-<div class="sd-parse">
-Sam eats red meat
+<pre><code class="language-sdparse">Sam eats red meat
 amod(meat, red)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sam took out  a 3 million dollar loan
+<pre><code class="language-sdparse">Sam took out  a 3 million dollar loan
 amod(loan, dollar)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sam took out  a $ 3 million loan
+<pre><code class="language-sdparse">Sam took out  a $ 3 million loan
 amod(loan, $)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/amod.md" target="#">edit amod</a></p>
 
@@ -296,20 +287,17 @@ the first NP that serves to define or modify that NP. It includes
 parenthesized examples, as well as defining abbreviations in one of
 these structures.</p>
 
-<div class="sd-parse">
-Sam , my brother , arrived
+<pre><code class="language-sdparse">Sam , my brother , arrived
 appos(Sam-1, brother-4)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Bill ( John 's cousin )
+<pre><code class="language-sdparse">Bill ( John 's cousin )
 appos(Bill-1, cousin-5)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-The Australian Broadcasting Corporation ( ABC )
+<pre><code class="language-sdparse">The Australian Broadcasting Corporation ( ABC )
 appos(Corporation-4, ABC-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/appos.md" target="#">edit appos</a></p>
 
@@ -319,15 +307,13 @@ appos(Corporation-4, ABC-6)
 modal auxiliary, or a form of “be”, “do” or “have” in a periphrastic
 tense.</p>
 
-<div class="sd-parse">
-Reagan has died
+<pre><code class="language-sdparse">Reagan has died
 aux(died-3, has-2)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-He should leave
+<pre><code class="language-sdparse">He should leave
 aux(leave-3, should-2)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/aux.md" target="#">edit aux</a></p>
 
@@ -336,20 +322,17 @@ aux(leave-3, should-2)
 <p>A passive auxiliary of a clause is a non-main verb of the clause which
 contains the passive information.</p>
 
-<div class="sd-parse">
-Kennedy has been killed
+<pre><code class="language-sdparse">Kennedy has been killed
 auxpass(killed, been)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Kennedy was killed
+<pre><code class="language-sdparse">Kennedy was killed
 auxpass(killed, was)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Kennedy got killed
+<pre><code class="language-sdparse">Kennedy got killed
 auxpass(killed, got)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/auxpass.md" target="#">edit auxpass</a></p>
 
@@ -357,69 +340,62 @@ auxpass(killed, got)
 
 <p>The <em>case</em> relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The <em>case</em> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
-<div class="sd-parse">
-the Chair 's office
+<pre><code class="language-sdparse">the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
 case(Chair-2, 's-3)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-the office of the Chair
+<pre><code class="language-sdparse">the office of the Chair
 det(office-2, the-1)
 nmod(office-2, Chair-5)
 case(Chair-5, of-3)
 det(Chair-5, the-4)
-</div>
+</code></pre>
 
 <p>French:</p>
 
-<div class="sd-parse">
-le bureau du président \n the office of the_Chair
+<pre><code class="language-sdparse">le bureau du président \n the office of the_Chair
 det(bureau, le)
 nmod(bureau, président)
 case(président, du)
-</div>
+</code></pre>
 
 <p>Hebrew:</p>
 
-<div class="sd-parse">
-wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
+<pre><code class="language-sdparse">wkfraiti/VERB at/PRT-ACC hsrj/NOUN \n and_when_I_saw ACC the_movie
 dobj(wkfraiti-1, hsrj-3)
 case(hsrj-3, at-2)
-</div>
+</code></pre>
 
 <p>When case markers are morphemes, they are not divided off the noun as a separate case dependent, but the noun as a whole is analyzed as a <em>nmod</em> of the verb. To overtly mark case, POS tags are included in the representation as shown below on a Russian example. We use the universal POS tagset from Petrov et al. (2012) to which we append case information.</p>
 
 <p><span style="background: yellow"><strong>NOTE:</strong> This is now being changed as the universal POS tags are revised and Universal Features are newly defined.</span></p>
 
-<div class="sd-parse">
-Я написал письмо пером \n Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
+<pre><code class="language-sdparse">Я написал письмо пером \n Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
 nsubj(написал-2, Я-1)
 dobj(написал-2, письмо-3)
 nmod(написал-2, пером-4)
-</div>
+</code></pre>
 
 <p>This treatment provides parallelism between different constructions
 across and within languages. A good result is that we now have greater
 parallelism between prepositional phrases and subordinate clauses,
 which are in practice often introduced by a preposition:</p>
 
-<div class="sd-parse">
-Sue left after the rehearsal
+<pre><code class="language-sdparse">Sue left after the rehearsal
 nsubj(left-2, Sue-1)
 nmod(left-2, rehearsal-5)
 det(rehearsal-5, the-4)
 case(rehearsal-5, after-3)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sue left after we did
+<pre><code class="language-sdparse">Sue left after we did
 nsubj(left-2, Sue-1)
 advcl(left-2, did-5)
 mark(did-5, after-3)
 nsubj(did-5, we-4)
-</div>
+</code></pre>
 
 <p>We also obtain parallel constructions for</p>
 
@@ -427,92 +403,81 @@ nsubj(did-5, we-4)
   <li>the possessive alternation</li>
 </ul>
 
-<div class="sd-parse">
-the Chair 's office
+<pre><code class="language-sdparse">the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
 case(Chair-2, 's-3)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-the office of the Chair
+<pre><code class="language-sdparse">the office of the Chair
 det(office-2, the-1)
 nmod(office-2, Chair-5)
 case(Chair-5, of-3)
 det(Chair-5, the-4)
-</div>
+</code></pre>
 
 <ul>
   <li>variant forms with case, a preposition or a
 postposition in Finnish</li>
 </ul>
 
-<div class="sd-parse">
-etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+<pre><code class="language-sdparse">etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
 nmod(etsiä, johtolankaa)
 case(johtolankaa, ilman)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+<pre><code class="language-sdparse">etsiä taskulampun kanssa \n to_search torch.GENITIVE with
 nmod(etsiä, taskulampun)
 case(taskulampun, kanssa)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-etsiä johtolangatta \n to_search clue.ABESSIVE
+<pre><code class="language-sdparse">etsiä johtolangatta \n to_search clue.ABESSIVE
 nmod(etsiä, johtolangatta)
-</div>
+</code></pre>
 
 <ul>
   <li>the dative alternation where the prepositional construction gets a similar
 analysis to the double object construction</li>
 </ul>
 
-<div class="sd-parse">
-give the children the toys
+<pre><code class="language-sdparse">give the children the toys
 dobj(give, toys)
 iobj(give, children)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-give the toys to the children
+<pre><code class="language-sdparse">give the toys to the children
 dobj(give, toys)
 nmod(give, children)
 case(children, to)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-donner les_jouets aux enfants \n give the_toys to_the children
+<pre><code class="language-sdparse">donner les_jouets aux enfants \n give the_toys to_the children
 dobj(donner-1, les_jouets-2)
 nmod(donner-1, enfants-4)
 case(enfants-4, aux-3)
-</div>
+</code></pre>
 
 <p>Another advantage of this new analysis is that it provides a treatment
 of prepositional phrases that are predicative complements of “be” that is consistent with the treatment of nominal predicative
 complements:</p>
 
-<div class="sd-parse">
-Sue is in shape
+<pre><code class="language-sdparse">Sue is in shape
 nsubj(shape-4, Sue-1)
 cop(shape-4, is-2)
 case(shape-4, in-3)
-</div>
+</code></pre>
 
 <p>Stacked prepositions, such as <em>out of</em> are regarded as some form of <em>mwe</em>:</p>
 
-<div class="sd-parse">
-Out of all this , something good will come.
-</div>
+<pre><code class="language-sdparse">Out of all this , something good will come.
+</code></pre>
 
-<div class="sd-parse">
-Out of all this ... come
+<pre><code class="language-sdparse">Out of all this ... come
 mwe(Out-1, of-2)
 predet(this-4, all-3)
 case(this-4, Out-1)
 nmod(come-6, this-4)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/case.md" target="#">edit case</a></p>
 
@@ -526,15 +491,13 @@ the conjunction.) A conjunction may also appear at the beginning of a
 sentence.  This is also called a cc, and it depends on the root
 predicate of the sentence.</p>
 
-<div class="sd-parse">
-Bill is big and honest
+<pre><code class="language-sdparse">Bill is big and honest
 cc(big, and)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-And then we left .
+<pre><code class="language-sdparse">And then we left .
 cc(left, And)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/cc.md" target="#">edit cc</a></p>
 
@@ -549,10 +512,9 @@ clauses” in Huddleston and Pullum 2002). Such clausal complements are
 usually finite (though there are occasional remnant English
 subjunctives).</p>
 
-<div class="sd-parse">
-He says that you like to swim
+<pre><code class="language-sdparse">He says that you like to swim
 ccomp(says, like)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/ccomp.md" target="#">edit ccomp</a></p>
 
@@ -566,33 +528,29 @@ adjective compounds that are more common in other languages (such as
 Persian or Japanese light verb constructions)</li>
 </ul>
 
-<div class="sd-parse">
-Phone book
+<pre><code class="language-sdparse">Phone book
 compound(book, Phone)
-</div>
+</code></pre>
 
 <ul>
   <li>for numbers</li>
 </ul>
 
-<div class="sd-parse">
-I have four thousand sheep
+<pre><code class="language-sdparse">I have four thousand sheep
 compound(thousand, four)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-I lost $ 3.2 billion
+<pre><code class="language-sdparse">I lost $ 3.2 billion
 compound(billion, 3.2)
-</div>
+</code></pre>
 
 <ul>
   <li>for particles of phrasal verbs:</li>
 </ul>
 
-<div class="sd-parse">
-put up
+<pre><code class="language-sdparse">put up
 compound(put, up)
-</div>
+</code></pre>
 
 <p>The two other compounding relations are:</p>
 
@@ -615,10 +573,9 @@ coordinating conjunction, such as “and”, “or”, etc.  We treat
 conjunctions asymmetrically: The head of the relation is the first
 conjunct and other conjunctions depend on it via the <em>conj</em> relation.</p>
 
-<div class="sd-parse">
-Bill is big and honest
+<pre><code class="language-sdparse">Bill is big and honest
 conj(big, honest)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/conj.md" target="#">edit conj</a></p>
 
@@ -628,18 +585,16 @@ conj(big, honest)
 the copular verb.  (We normally take a copula as a dependent of its
 complement)</p>
 
-<div class="sd-parse">
-Bill is an honest man
+<pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Ivan is the best dancer
+<pre><code class="language-sdparse">Ivan is the best dancer
 nsubj(dancer-5, Ivan-1)
 cop(dancer-5, is-2)
 det(dancer-5, the-3)
 amod(dancer-5, best-4)
-</div>
+</code></pre>
 
 <p>The copula “be” are not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.</p>
@@ -648,11 +603,10 @@ head of a clause, but rather the dependent of a lexical predicate, as exemplifie
 often or always lack an overt copula in such constructions, as in the
 the following Russian example:</p>
 
-<div class="sd-parse">
-Ivan lučšij tancor \n Ivan best dancer
+<pre><code class="language-sdparse">Ivan lučšij tancor \n Ivan best dancer
 nsubj(tancor, Ivan)
 amod(tancor, lučšij)
-</div>
+</code></pre>
 
 <p>Similar constructions arise even in English if we
 consider so-called raising-to-object or small clause constructions.
@@ -661,15 +615,14 @@ not linked to its subject argument, but in the enhanced representation
 (see below), the linkage is then parallel to the treatment in a zero
 copula language:</p>
 
-<div class="sd-parse">
-I judge Ivan the best dancer
+<pre><code class="language-sdparse">I judge Ivan the best dancer
 nsubj(judge-2, I-1)
 dobj(judge-2, Ivan-3)
 xcomp(judge-2, dancer-6)
 det(dancer-6, the-4)
 amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/cop.md" target="#">edit cop</a></p>
 
@@ -681,10 +634,9 @@ not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. In the two following
 examples, “what she said” is the subject.</p>
 
-<div class="sd-parse">
-What she said makes sense
+<pre><code class="language-sdparse">What she said makes sense
 csubj(makes, said)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/csubj.md" target="#">edit csubj</a></p>
 
@@ -693,10 +645,9 @@ csubj(makes, said)
 <p>A clausal passive subject is a clausal syntactic subject of a passive
 clause. In the example below, “that she lied” is the subject.</p>
 
-<div class="sd-parse">
-That she lied was suspected by everyone
+<pre><code class="language-sdparse">That she lied was suspected by everyone
 csubjpass(suspected, lied)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
@@ -708,10 +659,9 @@ may be because of a weird grammatical construction, a limitation in
 the Stanford Dependency conversion software, a parser error, or
 because of an unresolved long distance dependency.</p>
 
-<div class="sd-parse">
-Then , as if to show that he could , ...
+<pre><code class="language-sdparse">Then , as if to show that he could , ...
 dep(show, if)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/dep.md" target="#">edit dep</a></p>
 
@@ -720,15 +670,13 @@ dep(show, if)
 <p>A determiner is the relation between the head of an NP and its
 determiner.</p>
 
-<div class="sd-parse">
-The man is here
+<pre><code class="language-sdparse">The man is here
 det(man, The)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Which book do you prefer ?
+<pre><code class="language-sdparse">Which book do you prefer ?
 det(book, Which)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/det.md" target="#">edit det</a></p>
 
@@ -742,10 +690,9 @@ this to include: interjections (<em>oh</em>, <em>uh-huh</em>, <em>Welcome</em>),
 (<em>um</em>, <em>ah</em>), and discourse markers (<em>well</em>, <em>like</em>, <em>actually</em>, but
 not <em>you know</em>).</p>
 
-<div class="sd-parse">
-Iguazu is in Argentina :)
+<pre><code class="language-sdparse">Iguazu is in Argentina :)
 discourse(is-2, :)-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/discourse.md" target="#">edit discourse</a></p>
 
@@ -755,20 +702,18 @@ discourse(is-2, :)-5)
 
 <p>It is used for fronted elements that introduce the topic of a sentence, as in the following Japanese example:</p>
 
-<div class="sd-parse">
-象 は 鼻 が 長い \n zoo wa hana ga naga-i \n elephant TOPIC nose SUBJ long-PRES
+<pre><code class="language-sdparse">象 は 鼻 が 長い \n zoo wa hana ga naga-i \n elephant TOPIC nose SUBJ long-PRES
 dislocated(長い-5, 象-1)
-</div>
+</code></pre>
 
 <p>However, it would not be used for a topic-marked noun that is also the subject of the sentence; this would be an nsubj.</p>
 
 <p>It is also used for postposed elements. Right dislocated elements are frequent in spoken languages: e.g., French:</p>
 
-<div class="sd-parse">
-Il faut pas la manger, la plasticine \n must not it eat the playdough
+<pre><code class="language-sdparse">Il faut pas la manger, la plasticine \n must not it eat the playdough
 dobj(manger,-5, la-4)
 dislocated(faut-2, plasticine-7)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/dislocated.md" target="#">edit dislocated</a></p>
 
@@ -777,10 +722,9 @@ dislocated(faut-2, plasticine-7)
 <p>The direct object of a VP is the noun phrase which is the (accusative)
 object of the verb.</p>
 
-<div class="sd-parse">
-She gave me a raise
+<pre><code class="language-sdparse">She gave me a raise
 dobj(gave, raise)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/dobj.md" target="#">edit dobj</a></p>
 
@@ -789,10 +733,9 @@ dobj(gave, raise)
 <p>This relation captures an existential “there”. The main verb of the
 clause is the governor.</p>
 
-<div class="sd-parse">
-There is a ghost in the room
+<pre><code class="language-sdparse">There is a ghost in the room
 expl(is, There)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/expl.md" target="#">edit expl</a></p>
 
@@ -801,15 +744,14 @@ expl(is, There)
 <p>We use <em>foreign</em> to label sequences of foreign words. These are given
 a linear analysis: the head is the left-most token in the foreign phrase.</p>
 
-<div class="sd-parse">
-I guess that c' est la vie
+<pre><code class="language-sdparse">I guess that c' est la vie
 nsubj(guess-2, I-1)
 ccomp(guess-2, c'-4)
 mark(c'-4, that-3)
 foreign(c'-4, est-5)
 foreign(c'-4, la-6)
 foreign(c'-4, vie-7)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/foreign.md" target="#">edit foreign</a></p>
 
@@ -820,10 +762,9 @@ that is not well edited. We follow the treebank: The GW part is the
 dependent and the head is in some sense the “main” part, often the
 second part.</p>
 
-<div class="sd-parse">
-They come here with out legal permission
+<pre><code class="language-sdparse">They come here with out legal permission
 goeswith(out-5, with-4)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/goeswith.md" target="#">edit goeswith</a></p>
 
@@ -832,10 +773,9 @@ goeswith(out-5, with-4)
 <p>The indirect object of a VP is the noun phrase which is the (dative)
 object of the verb.</p>
 
-<div class="sd-parse">
-She gave me a raise
+<pre><code class="language-sdparse">She gave me a raise
 iobj(gave, me)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/iobj.md" target="#">edit iobj</a></p>
 
@@ -843,14 +783,13 @@ iobj(gave, me)
 
 <p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <em>appos</em>.</p>
 
-<div class="sd-parse">
-Steve Jones Phone: 555-9814 Email: jones@abc.edf
+<pre><code class="language-sdparse">Steve Jones Phone: 555-9814 Email: jones@abc.edf
 name(Jones-2, Steve-1)
 list(Jones-2, Phone:-3)
 list(Jones-2, Email:-5)
 appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/list.md" target="#">edit list</a></p>
 
@@ -862,15 +801,13 @@ or “whether”. For an adverbial clause, the marker is typically a
 preposition like “while” or “although”. The mark is a dependent of the
 subordinate clause head.</p>
 
-<div class="sd-parse">
-Forces engaged in fighting after insurgents attacked
+<pre><code class="language-sdparse">Forces engaged in fighting after insurgents attacked
 mark(attacked, after)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-He says that you like to swim
+<pre><code class="language-sdparse">He says that you like to swim
 mark(swim, that)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/mark.md" target="#">edit mark</a></p>
 
@@ -879,21 +816,18 @@ mark(swim, that)
 <p>The multi-word expression (modifier) relation is one of the three relations for compounding. 
 It used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
 
-<div class="sd-parse">
-I like dogs as well as cats
+<pre><code class="language-sdparse">I like dogs as well as cats
 mwe(well-5, as-4)
 mwe(well-5, as-6)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-He cried because of you
+<pre><code class="language-sdparse">He cried because of you
 mwe(of, because)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
+<pre><code class="language-sdparse">Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
 mwe(plutôt, qu')
-</div>
+</code></pre>
 
 <p>We are still developing conventions for headship in an mwe. At the moment, practice is a combination of choosing the main word that would be the head on an attempted analytical analysis, such as for <i>as well as</i> and simply choosing the leftmost word as head.</p>
 
@@ -903,20 +837,18 @@ mwe(plutôt, qu')
 
 <p><em>name</em> is one of the three relations for compounding in USD. It is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used between the words of “Hillary Rodham Clinton” or “Carl XVI Gustaf” but not to replace the usual relations in a phrasal or clausal name like “The Lord of the Rings” or “The king of Sweden”.</p>
 
-<div class="sd-parse">
-Carl XVI Gustaf
+<pre><code class="language-sdparse">Carl XVI Gustaf
 name(Gustaf-3, Carl-1)
 name(Gustaf-3, XVI-2)
-</div>
+</code></pre>
 
 <p>But regular syntactic relations in:</p>
 
-<div class="sd-parse">
-The king of Sweden
+<pre><code class="language-sdparse">The king of Sweden
 det(king-2, The-1)
 nmod(king-2, Sweden-4)
 case(Sweden-4, of-3)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/name.md" target="#">edit name</a></p>
 
@@ -927,15 +859,13 @@ clauses are introduced, we use <em>ncmod</em> for nominalized clause modifiers (
 
 <p>Modifiers labeled <em>ncmod</em> depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
 
-<div class="sd-parse">
-They heard about you missing classes
+<pre><code class="language-sdparse">They heard about you missing classes
 ncmod(heard, missing)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-We have no information on whether users are at risk
+<pre><code class="language-sdparse">We have no information on whether users are at risk
 ncmod(information, risk)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/ncmod.md" target="#">edit ncmod</a></p>
 
@@ -946,15 +876,13 @@ word it modifies.</p>
 
 <p>Modifiers labeled <em>neg</em> depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
 
-<div class="sd-parse">
-Bill is not a scientist
+<pre><code class="language-sdparse">Bill is not a scientist
 neg(scientist, not)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Bill does n't drive
+<pre><code class="language-sdparse">Bill does n't drive
 neg(drive, n't)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/neg.md" target="#">edit neg</a></p>
 
@@ -964,15 +892,13 @@ neg(drive, n't)
 
 <p>Modifiers labeled <em>nfincl</em> depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
 
-<div class="sd-parse">
-Levi's based in San Francisco produces jeans.
+<pre><code class="language-sdparse">Levi's based in San Francisco produces jeans.
 nfincl(Levi's-1, based-2)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Bill essaya de tirer démontrant son incompétence \n Bill tried to shoot demonstrating his incompetence
+<pre><code class="language-sdparse">Bill essaya de tirer démontrant son incompétence \n Bill tried to shoot demonstrating his incompetence
 nfincl(tirer-4, démontrant-5)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nfincl.md" target="#">edit nfincl</a></p>
 
@@ -986,72 +912,64 @@ nfincl(tirer-4, démontrant-5)
   <li>the possessive alternation:</li>
 </ul>
 
-<div class="sd-parse">
-the Chair 's office
+<pre><code class="language-sdparse">the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
 case(Chair-2, 's-3)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-the office of the Chair
+<pre><code class="language-sdparse">the office of the Chair
 det(office-2, the-1)
 nmod(office-2, Chair-5)
 case(Chair-5, of-3)
 det(Chair-5, the-4)
-</div>
+</code></pre>
 
 <ul>
   <li>variant forms with case, a preposition or a postposition, as in Finnish for example:</li>
 </ul>
 
-<div class="sd-parse">
-etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
+<pre><code class="language-sdparse">etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
 nmod(etsiä, johtolankaa)
 case(johtolankaa, ilman)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-etsiä taskulampun kanssa \n to_search torch.GENITIVE with
+<pre><code class="language-sdparse">etsiä taskulampun kanssa \n to_search torch.GENITIVE with
 nmod(etsiä, taskulampun)
 case(taskulampun, kanssa)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-etsiä johtolangatta \n to_search clue.ABESSIVE
+<pre><code class="language-sdparse">etsiä johtolangatta \n to_search clue.ABESSIVE
 nmod(etsiä, johtolangatta)
-</div>
+</code></pre>
 
 <ul>
   <li>the dative alternation where the prepositional construction gets a similar analysis to the double object construction:</li>
 </ul>
 
-<div class="sd-parse">
+<p>~~~ sdparse
 give the children the toys
 dobj(give, toys)
 iobj(give, children)
-</div>
+~~~</p>
 
-<div class="sd-parse">
-give the toys to the children
+<pre><code class="language-sdparse">give the toys to the children
 dobj(give, toys)
 nmod(give, children)
 case(children, to)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-donner les_jouets aux enfants \n give the_toys to_the children
+<pre><code class="language-sdparse">donner les_jouets aux enfants \n give the_toys to_the children
 dobj(donner-1, les_jouets-2)
 nmod(donner-1, enfants-4)
 case(enfants-4, aux-3)
-</div>
+</code></pre>
 
 <p><em>nmod</em> is also used for temporal nominal modifiers:</p>
 
-<div class="sd-parse">
-Last night , I swam in the pool
+<pre><code class="language-sdparse">Last night , I swam in the pool
 nmod(swam, night)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nmod.md" target="#">edit nmod</a></p>
 
@@ -1062,10 +980,9 @@ clause. The governor of this relation might not always be a verb: when
 the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun.</p>
 
-<div class="sd-parse">
-Clinton defeated Dole
+<pre><code class="language-sdparse">Clinton defeated Dole
 nsubj(defeated, Clinton)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nsubj.md" target="#">edit nsubj</a></p>
 
@@ -1074,10 +991,9 @@ nsubj(defeated, Clinton)
 <p>A passive nominal subject is a noun phrase which is the syntactic
 subject of a passive clause.</p>
 
-<div class="sd-parse">
-Dole was defeated by Clinton
+<pre><code class="language-sdparse">Dole was defeated by Clinton
 nsubjpass(defeated, Dole)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
 
@@ -1086,20 +1002,17 @@ nsubjpass(defeated, Dole)
 <p>A numeric modifier of a noun is any number phrase that serves to
 modify the meaning of the noun with a quantity.</p>
 
-<div class="sd-parse">
-Sam ate 3 sheep
+<pre><code class="language-sdparse">Sam ate 3 sheep
 nummod(sheep, 3)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sam spent forty dollars
+<pre><code class="language-sdparse">Sam spent forty dollars
 nummod(dollars, forty)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sam spent $ 40
+<pre><code class="language-sdparse">Sam spent $ 40
 nummod($, 40)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nummod.md" target="#">edit nummod</a></p>
 
@@ -1111,15 +1024,13 @@ elements, such as a sentential parenthetical, a clause after a “:” or
 a “;”, or two sentences placed side by side without any explicit
 coordination or subordination.</p>
 
-<div class="sd-parse">
-The guy , John said , left early in the morning
+<pre><code class="language-sdparse">The guy , John said , left early in the morning
 parataxis(left, said)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Let 's face it we 're annoyed
+<pre><code class="language-sdparse">Let 's face it we 're annoyed
 parataxis(Let, annoyed)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/parataxis.md" target="#">edit parataxis</a></p>
 
@@ -1128,10 +1039,9 @@ parataxis(Let, annoyed)
 <p>This is used for any piece of punctuation in a clause, if punctuation
 is being retained in the typed dependencies.</p>
 
-<div class="sd-parse">
-Go home !
+<pre><code class="language-sdparse">Go home !
 punct(Go, !)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/punct.md" target="#">edit punct</a></p>
 
@@ -1141,10 +1051,9 @@ punct(Go, !)
 NP.  The relation points from the head noun of the NP to the head of
 the relative clause, normally a verb.</p>
 
-<div class="sd-parse">
-I saw the man you love
+<pre><code class="language-sdparse">I saw the man you love
 relcl(man, love)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/relcl.md" target="#">edit relcl</a></p>
 
@@ -1159,8 +1068,7 @@ In particular, the goal was to achieve this <em>without</em> having to postulate
 
 <p>To develop motivation, consider first a sentence without ellipsis:</p>
 
-<div class="sd-parse">
-Marie went to Paris and Miriam went to Prague
+<pre><code class="language-sdparse">Marie went to Paris and Miriam went to Prague
 nsubj(went-2, Marie-1)
 root(root-0, went-2)
 nmod(went-2, Paris-4)
@@ -1170,26 +1078,24 @@ nsubj(went-7, Miriam-6)
 conj(went-2, went-7)
 case(Prague-9, to-8)
 nmod(went-7, Prague-9)
-</div>
+</code></pre>
 
 <p>The question is then how to treat: <em>Marie went to Paris and Miriam to Prague</em></p>
 
-<div class="sd-parse">
-Marie went to Paris and Miriam to Prague
+<pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
 nsubj(went-2, Marie-1)
 root(root-0, went-2)
 nmod(went-2, Paris-4)
 case(Paris-4, to-3)
 cc(went-2, and-5)
 case(Prague-8, to-7)
-</div>
+</code></pre>
 
 <p>One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: <em>Marie went to Paris and Miriam ∅ to Prague</em>. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simple promote the final elements and to have them as dependents of the main verb of the sentence (<em>went-2</em>) or of <em>root-0</em>. But then (in general) one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.</p>
 
 <p>Therefore, USD adopts an analysis that notes that in ellipsis a <em>remnant</em> corresponds to a <em>correlate</em> in a preceding clause. The <em>remnant</em> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument sturcture in the enhanced representation. So, for this example, we have:</p>
 
-<div class="sd-parse">
-Marie went to Paris and Miriam to Prague
+<pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
 nsubj(went-2, Marie-1)
 root(root-0, went-2)
 nmod(went-2, Paris-4)
@@ -1198,40 +1104,37 @@ cc(went-2, and-5)
 remnant(Marie-1, Miriam-6)
 case(Prague-8, to-7)
 remnant(Paris-4, Prague-8)
-</div>
+</code></pre>
 
 <p>Even in the more complex example below, the <em>remnant</em>
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.</p>
 
-<div class="sd-parse">
-John won bronze , Mary silver , and Sandy gold
+<pre><code class="language-sdparse">John won bronze , Mary silver , and Sandy gold
 nsubj(won-2, John-1)
 dobj(won-2, bronze-3)
 remnant(John-1, Mary-5)
 remnant(Mary-5, Sandy-9)
 remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
-</div>
+</code></pre>
 
 <p>Note in particular that (unlike for <em>conj</em>), <em>remnant</em> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
 
 <p>The <em>remnant</em> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <em>remnant</em> relation is not used. In RNR, the verbs
 are coordinated and the object is a <em>dobj</em> of the first verb:</p>
 
-<div class="sd-parse">
-John bought and ate an apple
+<pre><code class="language-sdparse">John bought and ate an apple
 nsubj(bought-2, John-1)
 cc(bought-2, and-3)
 conj(bought-2, ate-4)
 det(apple-6, an-5)
 dobj(bought-2, apple-6)
-</div>
+</code></pre>
 
 <p>In VP-ellipsis, we keep the auxiliary as the head, as shown below:</p>
 
-<div class="sd-parse">
-John will win gold and Mary will too
+<pre><code class="language-sdparse">John will win gold and Mary will too
 nsubj(win-3, John-1)
 aux(win-3, will-2)
 dobj(win-3, gold-4)
@@ -1239,7 +1142,7 @@ cc(win-3, and-5)
 conj(win-3, will-7)
 nsubj(will-7, Mary-6)
 advmod(will-7, too-8)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/remnant.md" target="#">edit remnant</a></p>
 
@@ -1250,15 +1153,14 @@ advmod(will-7, too-8)
 <p>We use <em>reparandum</em> to indicate disfluencies overridden in a speech
 repair.</p>
 
-<div class="sd-parse">
-Go to the righ- to the left .
+<pre><code class="language-sdparse">Go to the righ- to the left .
 nmod(Go-1, left-7)
 reparandum(left-7, righ-)
 case(righ-, to-2)
 det(righ-, the-3)
 case(left-7, to-5)
 det(left-7, the-6)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/reparandum.md" target="#">edit reparandum</a></p>
 
@@ -1269,10 +1171,9 @@ fake node “ROOT” is used as the governor. The ROOT node is indexed
 with “0”, since the indexation of real words in the sentence starts at
 1.</p>
 
-<div class="sd-parse">
-ROOT I love French fries .
+<pre><code class="language-sdparse">ROOT I love French fries .
 root(ROOT, love)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/root.md" target="#">edit root</a></p>
 
@@ -1280,15 +1181,13 @@ root(ROOT, love)
 
 <p>The <em>vocative</em> relation is used to mark dialogue participant addressed in text (common in emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
 
-<div class="sd-parse">
-Guys , take it easy!
+<pre><code class="language-sdparse">Guys , take it easy!
 vocative(take, Guys)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Marie , comment vas - tu ?
+<pre><code class="language-sdparse">Marie , comment vas - tu ?
 vocative(vas, Marie)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/vocative.md" target="#">edit vocative</a></p>
 
@@ -1304,25 +1203,21 @@ complements (arguments of the higher verb or adjective) rather than
 adjuncts/modifiers, such as a purpose clause. The name <em>xcomp</em> is
 borrowed from Lexical-Functional Grammar.</p>
 
-<div class="sd-parse">
-He says that you like to swim
+<pre><code class="language-sdparse">He says that you like to swim
 xcomp(like, swim)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-Sue asked George to respond to her offer
+<pre><code class="language-sdparse">Sue asked George to respond to her offer
 xcomp(asked, respond)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-I consider him a fool
+<pre><code class="language-sdparse">I consider him a fool
 xcomp(consider, fool)
-</div>
+</code></pre>
 
-<div class="sd-parse">
-I consider him honest
+<pre><code class="language-sdparse">I consider him honest
 xcomp(consider, honest)
-</div>
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/xcomp.md" target="#">edit xcomp</a></p>
 

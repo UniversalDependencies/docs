@@ -43,8 +43,7 @@
 <p>If the named entity has an obvious internal structure, as is often the case in names of books and movies for instance, this structure is marked as well, and the <code>name</code> dependency is placed on top of this structure, despite it being extraneous in the tree. In these cases, the head of the internal structure, not the rightmost word of the named entity, is considered to be the true syntactic head. It is possible for the user of the treebank to choose their preferred analysis for these cases according to need, and automatically discard the alternative analysis.</p>
 
 <!-- fname:name.pdf -->
-<div class="sd-parse">
-Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
+<pre><code class="language-sdparse">Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
 nmod(juhlivat-2, öisin-3)
 name(öisin-3, Jumalat-1)
@@ -53,7 +52,7 @@ cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
 name(Tarttin-6, Donna-5)
 poss(esikoisteos-7, Tarttin-6)
-</div>
+</code></pre>
 
 
 
