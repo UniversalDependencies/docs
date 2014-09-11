@@ -55,6 +55,9 @@ svg {
 svg.reselect {
   border: 1px solid #ff3333;
 }
+div.haserror > svg {
+  border: 1px solid red;
+}
 
 /* "basic" font */
 text {
