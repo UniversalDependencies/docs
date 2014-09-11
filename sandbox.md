@@ -61,6 +61,11 @@ Alternative syntax
 Dynamic visualization (click "edit!")
 </div>
 
+~~~ sdparse
+Example with error
+det(no-such, token)
+~~~
+
 ----------
 
 ## CoNLL-U example
