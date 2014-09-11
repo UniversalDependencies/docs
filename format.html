@@ -45,7 +45,7 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
   <li>Comment lines starting with hash (#).</li>
 </ol>
 
-<p>Word lines contain the following fields:</p>
+<p>Sentences consist of one or more word lines, and word lines contain the following fields:</p>
 
 <ol>
   <li>ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.</li>
@@ -59,6 +59,8 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
   <li>DEPS: List of secondary dependencies (head-deprel pairs).</li>
   <li>MISC: Any other annotation.</li>
 </ol>
+
+<p>Fields must not be empty and must not contain space characters.</p>
 
 <p>The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.</p>
