@@ -10,7 +10,7 @@ The possessive modifier relation appears between the head of an NP and the genit
 
 <div class="sd-parse">
 Bill 's clothes
-possessive(John, 's)
+possessive(Bill, 's)
 </div>
 
  
