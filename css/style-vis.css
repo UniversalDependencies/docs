@@ -109,7 +109,8 @@ path {
   font-weight: bold;
 }
 .attribute_warning {
-  stroke: red;
+  baseline-shift: super;
+  font-size: 70%;
 }
 
 .span rect.False_positive {
