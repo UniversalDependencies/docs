@@ -403,10 +403,6 @@ td.none {
 }
 
 /* embedding-specific styles */
-.sd-parse {
-  margin-top: 5px;
-  margin-bottom: 25px;
-}
 .embedded-brat-data {
   display: block;
   width: 100%;
