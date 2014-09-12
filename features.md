@@ -205,11 +205,11 @@ German distinguishes both features in both dimensions
   </tr>
   <tr>
     <td>Sing Fem</td>
-    <td><span style='color:red'>her</span> son<br/><span style='color:red'>ihr</span> Sohn<br/>usakā</span> bēṭā</td>
-    <td><span style='color:red'>her</span> daughter<br/><span style='color:red'>ihre</span> Tochter<br/>usakī</span> bēṭī</td>
+    <td><span style='color:red'>her</span> son<br/><span style='color:red'>ihr</span> Sohn<br/><span style='color:red'>usakā</span> bēṭā</td>
+    <td><span style='color:red'>her</span> daughter<br/><span style='color:red'>ihre</span> Tochter<br/><span style='color:red'>usakī</span> bēṭī</td>
     <td><span style='color:red'>her</span> house<br/><span style='color:red'>ihr</span> Haus<br/>&nbsp;</td>
-    <td><span style='color:red'>her</span> sons<br/><span style='color:red'>ihre</span> Söhne<br/>usakē</span> bēṭē</td>
-    <td><span style='color:red'>her</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/>usakī</span> bēṭiyām̐</td>
+    <td><span style='color:red'>her</span> sons<br/><span style='color:red'>ihre</span> Söhne<br/><span style='color:red'>usakē</span> bēṭē</td>
+    <td><span style='color:red'>her</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>usakī</span> bēṭiyām̐</td>
   </tr>
   <tr>
     <td>Sing Neut</td>
