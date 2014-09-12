@@ -60,10 +60,16 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
   <li>MISC: Any other annotation.</li>
 </ol>
 
-<p>Fields must not be empty and must not contain space characters.</p>
-
 <p>The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.</p>
+
+<p>The fields must additionally meet the following constraints:</p>
+
+<ul>
+  <li>Fields must not be empty.</li>
+  <li>Fields must not contain space characters.</li>
+  <li>FEATS: feature names and values must have the form <code>[A-Z0-9][a-zA-Z0-9]*</code></li>
+</ul>
 
 <h1 id="words-and-tokens">Words and Tokens</h1>
 
