@@ -25,10 +25,14 @@ Sentences consist of one or more word lines, and word lines contain the followin
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
-Fields must not be empty and must not contain space characters.
-
 The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.
+
+The fields must additionally meet the following constraints:
+
+* Fields must not be empty.
+* Fields must not contain space characters.
+* FEATS: feature names and values must have the form `[A-Z0-9][a-zA-Z0-9]*`
 
 # Words and Tokens
 
