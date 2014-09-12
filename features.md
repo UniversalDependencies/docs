@@ -164,8 +164,8 @@ The exact meaning of individual layers is language-dependent.
 If a feature is (can be) layered in a language, the name of the feature must
 indicate the layer. An additional identifier in square brackets is used to
 distinguish layers, e.g. `Gender[psor]` for the possessor's gender.
-We recommend that the layer identifiers are either lowercase English letters
-`[a-z]` or digits `[0-9]`.
+We recommend that the layer identifiers consist of lowercase English letters
+`[a-z]` and/or digits `[0-9]`.
 The layers, their meaning and their
 identifiers must be defined in a language-specific extension to this
 documentation. For each layered feature, one layer may be defined as default
