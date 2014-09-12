@@ -3,14 +3,6 @@
 
 /* Styling for annotations */
 
-/* alternative font test */
-/*
-text {
-  font-size: 13px;
-  font-family: helvetica,arial,freesans,clean,sans-serif;
-}
-*/
-
 #svg {
   margin: 34px auto 100px;
   padding-top: 15px;
@@ -302,11 +294,13 @@ rect.shadow_EditHighlight {
 }
 
 .sentnum text {
+  display: none; /* sentence number disabled for the time being. */
   fill: #999999;
   text-anchor: end;
 }
 
 .sentnum path {
+  display: none; /* sentence number disabled for the time being. */
   stroke: #999999;
   stroke-width: 1px;
 }
@@ -531,4 +525,65 @@ fieldset legend {
 }
 #commentpopup.comment_ChangedAnnotation {
   background-color: #ffcccc;
+}
+
+/* embedding */
+pre.embedding {
+  padding: 0;
+  border: none;
+  overflow: visible;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  background: none;
+  white-space: normal;
+}
+
+/* same margins for <div> and <pre><div> variants */
+.embedding,
+.embedding.embedded-wrapper {
+  margin: 0.5em 0;
+}
+
+pre.embedded-wrapper,
+code.embedded-wrapper,
+.embedded-wrapper {
+  margin: 0;
+  padding: 0;
+  border: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  background: none;
+  white-space: normal;
+}
+
+.show-hide-div {
+  text-align: right;
+}
+.show-hide-toggle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  -moz-border-bottom-left-radius: 0px;
+  -moz-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.show-hide-toggle .ui-button-text {
+  padding: 1px 4px;
+  font-size: 9px;
+}
+.embedded-brat-data {
+  display: block;
+  width: 100%;
+  height: 100px;
+  font-size: 11px;
+  border: 2px inset
+}
+a.doclink {
+  text-decoration: none;
 }
