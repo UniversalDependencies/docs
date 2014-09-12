@@ -68,7 +68,6 @@ In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS an
 <ul>
   <li>Fields must not be empty.</li>
   <li>Fields must not contain space characters.</li>
-  <li>FEATS: feature names and values must have the form <code>[A-Z0-9][a-zA-Z0-9]*</code></li>
 </ul>
 
 <h1 id="words-and-tokens">Words and Tokens</h1>
@@ -136,7 +135,7 @@ in contrast to the <em>word indexing</em> scheme used as the offical treebank re
 <p>The CPOSTAG field contains a part-of-speech tag from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">Universal POS tag</a> set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
 of morphological features, with vertical bar (|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the <a href="http://universaldependencies.github.io/docs/features.html">Universal feature inventory</a> and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: <code>Case=Acc,Dat</code>. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts.</p>
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the <a href="http://universaldependencies.github.io/docs/features.html">Universal feature inventory</a> and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: <code>Case=Acc,Dat</code>. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form <code>[A-Z0-9][a-zA-Z0-9]*</code>.</p>
 
 <p>Here is an example, showing only the first five fields for the 
 Swedish sentence <em>Då var han elva år</em> (Then he was eleven years old):</p>
