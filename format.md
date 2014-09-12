@@ -25,10 +25,13 @@ Sentences consist of one or more word lines, and word lines contain the followin
  9. DEPS: List of secondary dependencies (head-deprel pairs).
 10. MISC: Any other annotation.
 
-Fields must not be empty and must not contain space characters.
-
 The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
 In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.
+
+The fields must additionally meet the following constraints:
+
+* Fields must not be empty.
+* Fields must not contain space characters.
 
 # Words and Tokens
 
@@ -92,7 +95,7 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
 The CPOSTAG field contains a part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. 
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form `[A-Z0-9][a-zA-Z0-9]*`.
 
 Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
