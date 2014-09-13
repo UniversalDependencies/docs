@@ -7,26 +7,6 @@ title:  'Tags'
 
 ## Universal POS tags
 
-<table class="typeindex">
-  <tr>
-    <td>
-      <table class="category">
-        <tr><td><b>Open class words</b></td></tr>
-        <tr>
-          <td><a href="ud-pos/ADJ.html">{{ site.ud-pos.ADJ.html.title }}</a>: {{site.ud-pos.ADJ.html.shortdef}}</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-        <tr><td colspan="3"><b>Closed class words</b></td></tr>
-        <tr>
-          <td><a href="ud-feat/ADP.html">site.ud-pos/ADP.html.title</a>:site.ud-pos/ADP.html.shortdef</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 Alphabetical listing
 
 <ul>
