@@ -13,7 +13,7 @@ title:  'Tags'
       <table class="category">
         <tr><td><b>Open class words&nbsp;1</b></td></tr>
         <tr>
-          <td><a href="ud-pos/ADJ.html">site.ud-pos/ADJ.html.title</a>:site.ud-pos/ADJ.html.shortdef</td>
+          <td><a href="ud-pos/ADJ.html">{{ site.ud-pos/ADJ.html.title }}</a>: {{site.ud-pos/ADJ.html.shortdef}}</td>
         </tr>
       </table>
     </td>
