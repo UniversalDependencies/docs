@@ -12,8 +12,8 @@ Particles are function words that must be associated with another word or phrase
 
 ### Examples
 
-Possessive marker (en): 's
-Topic/case marker (jp): ga, wa
+ - Possessive marker (en): 's
+ - Topic/case marker (jp): ga, wa
 
 ### References
 
