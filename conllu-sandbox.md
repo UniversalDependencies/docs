@@ -145,6 +145,46 @@ Non-valid examples from "tools" test cases
 
 </div>
 
+### invalid-deps-id.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: HEAD must reference a valid ID
+1	have	have	VERB	VB	Tens=Pres	0	root	3:nsubj	_
+2	.	.	.	FS	_	1	punct	_	_
+
+</div>
+
+### invalid-deps-order.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: DEPS must be sorted by HEAD index.
+1	They	they	PRON	PRN	Case=Nom|Num=Plur	2	nsubj	4:nsubj|2:xsubj	_
+2	buy	buy	VERB	VBP	Num=Plur|Per=3|Tense=Pres	0	root	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	sell	sell	VERB	VBP	Num=Plur|Per=3|Tense=Pres	2	conj	_	_
+5	books	book	NOUN	NNS	Num=Plur	2	dobj	4:dobj	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+</div>
+
+### invalid-deps-syntax.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: DEPS must be 'HEAD:REL' pairs separated by bars ('|')
+1	have	have	VERB	VB	Tens=Pres	0	root	2	_
+2	.	.	.	FS	_	1	punct	_	_
+
+</div>
+
+### invalid-head.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: HEAD must reference a valid ID
+1	have	have	VERB	VB	Tens=Pres	0	root	_	_
+2	.	.	.	FS	_	3	punct	_	_
+
+</div>
+
 ### lowercase-feature.conll
 
 <div class="conllu-parse" tabs="yes">
