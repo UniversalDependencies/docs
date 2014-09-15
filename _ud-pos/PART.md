@@ -16,3 +16,6 @@ Possessive marker (en): 's
 Topic/case marker (jp): ga, wa
 
 ### References
+
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?</a>
+* <a href="http://en.wikipedia.org/wiki/Grammatical_particle">Wikipedia</a>
