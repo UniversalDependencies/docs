@@ -23,4 +23,5 @@ Note that not all languages have grammaticalized auxiliary verbs, and even where
 
 ### References
 
-http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?</a>
+* <a href="http://en.wikipedia.org/wiki/Auxiliary_verb">Wikipedia</a>
