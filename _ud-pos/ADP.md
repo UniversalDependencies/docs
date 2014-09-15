@@ -13,7 +13,7 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 In many languages, adpositions can take the form of fixed multiword expressions, such as _in spite of_, _because of_, _thanks to_. The component words are then still tagged according to their basic use (_in_ is ADP, _spite_ is NOUN, etc.) and their status as multiword expressions are accounted for in the syntactic annotation.
 
-Note that in Germanic languages, some prepositions may also function as verbal particles, as in _give in_ or _hold on_. They are still tagged ADP and not PART.
+Note that in Germanic languages, some prepositions may also function as verbal particles, as in _give <span style='color:red'>in</span>_ or _hold <span style='color:red'>on</span>_. They are still tagged ADP and not PART.
 
 ### Examples
 
