@@ -12,7 +12,7 @@ shortdef: 'adjective'
 
 _The car is green._
 
-The {{ page.title }} tag is intended for ordinary adjectives only. See <a href="DET.html">DET</a> for determiners and <a href="NUM.html">NUM</a> for quantifiers and cardinal numerals.
+The {{ page.title }} tag is intended for ordinary adjectives only. See <a href="DET.html">DET</a> for determiners and <a href="NUM.html">NUM</a> for numerals.
 
 Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adjectives in our universal tagging scheme. In particular, _ordinal numerals_ (more precisely _adjectival_ ordinal numerals, because Czech has also adverbial ones) behave both morphologically and syntactically as adjectives and are tagged {{ page.title }}.
 
