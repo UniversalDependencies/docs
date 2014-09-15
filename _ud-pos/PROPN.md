@@ -17,3 +17,7 @@ Note that PNOUN is only used for the subclass of nouns that are used and names a
  - Mary, John
  - London
 
+### References
+
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAProperNoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?</a>
+* <a href="http://en.wikipedia.org/wiki/Proper_noun">Wikipedia</a>
