@@ -19,3 +19,8 @@ As a special case of interjections, we recognize feedback particles such as _yes
  - psst
  - ouch
 
+### References
+
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?</a>
+* <a href="http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Interjection">Wikipedia</a>
+
