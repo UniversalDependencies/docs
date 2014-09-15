@@ -9,10 +9,18 @@ redirect_from: "ud-pos/AUX.html"
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Notes:
-
-* New category, split off from [VERB](VERB.html)
-
 ### Definition
 
+An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, and voice.
+
+Note that not all languages have grammaticalized auxiliary verbs, and even where they exist the dividing line between full verbs and auxiliary verbs can be expected to vary between languages. Exactly which verbs are counted as AUX should be part of the language-specific documentation.
+
 ### Examples
+
+ - Tense auxiliaries: has (done), is (doing), will (do)
+ - Passive auxiliaries: was (done), got (done)
+ - Modal auxiliaries: should (do), must (do)
+
+### References
+
+http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm
