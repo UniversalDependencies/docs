@@ -406,11 +406,24 @@ div.example {
 table.typeindex {
   vertical-align: top;
   border-collapse:collapse;
+  border: 1px solid lightgray;
 }
 
 table.typeindex td {
   vertical-align:top;
-  border: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+table.typeindex thead th {
+  padding: 0.5em;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+table.typeindex tbody td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 table.category {
