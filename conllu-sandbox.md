@@ -220,6 +220,21 @@ Non-valid examples from "tools" test cases
 
 </div>
 
+### misordered-multiword.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: multiword tokens must appear before the first word in their
+# range
+1	I	I	PRON	PRN	Num=Sing|Per=1	2	nsubj	_	_
+2	have	have	VERB	VB	Tens=Pres	0	root	_	_
+2-3	haven't	_	_	_	_	_	_	_	_
+3	not	not	ADV	RB	_	2	neg	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+</div>
+
 ### multiword-with-pos.conll
 
 <div class="conllu-parse" tabs="yes">
@@ -241,6 +256,21 @@ Non-valid examples from "tools" test cases
 # not valid: IDs must be sequential integers (1, 2, ...)
 1	valid	valid	NOUN	SP	_	0	ROOT	_	_
 3	.	.	.	FS	_	1	p	_	_
+
+</div>
+
+### overlapping-multiword.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: multiword token ranges may not overlap
+1	I	I	PRON	PRN	Num=Sing|Per=1	2	nsubj	_	_
+2-3	haven't	_	_	_	_	_	_	_	_
+2	have	have	VERB	VB	Tens=Pres	0	root	_	_
+3-4	nota	_	_	_	_	_	_	_	_
+3	not	not	ADV	RB	_	2	neg	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
 
 </div>
 
