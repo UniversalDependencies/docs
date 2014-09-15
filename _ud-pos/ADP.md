@@ -23,5 +23,5 @@ Note that in Germanic languages, some prepositions may also function as verbal p
 
 ### References
 
-* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdpositionLinguistics.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?</a>
+* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdposition.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?</a>
 * <a href="http://en.wikipedia.org/wiki/Preposition_and_postposition">Wikipedia</a>
