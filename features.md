@@ -11,10 +11,7 @@ title:  'Features'
   <tr>
     <td>
       <table class="category">
-        <tr><td><b>Features&nbsp;1</b></td></tr>
-        <tr>
-          <td><i>Lemma categories</i></td>
-        </tr>
+        <tr><td><b>Lexical features</b></td></tr>
         <tr>
           <td><a href="ud-feat/PronType.html">PronType</a></td>
         </tr>
@@ -31,44 +28,36 @@ title:  'Features'
     </td>
     <td>
       <table class="category">
-        <tr><td colspan="3"><b>Features&nbsp;2</b></td></tr>
+        <tr><td colspan="3"><b>Inflectional features</b></td></tr>
         <tr>
           <td><i>Nominal</i></td>
-          <td><i>Possessive</i></td>
           <td><i>Verbal</i></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Gender.html">Gender</a></td>
-          <td><a href="ud-feat/PossGender.html">PossGender</a></td>
           <td><a href="ud-feat/VerbForm.html">VerbForm</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Animacy.html">Animacy</a></td>
-          <td></td>
           <td><a href="ud-feat/Mood.html">Mood</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Number.html">Number</a></td>
-          <td><a href="ud-feat/PossNumber.html">PossNumber</a></td>
           <td><a href="ud-feat/Tense.html">Tense</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Case.html">Case</a></td>
-          <td><a href="ud-feat/PossedNumber.html">PossedNumber</a></td>
           <td><a href="ud-feat/Aspect.html">Aspect</a></td>
         </tr>
         <tr>
           <td><a href="ud-feat/Definiteness.html">Definiteness</a></td>
-          <td></td>
           <td><a href="ud-feat/Voice.html">Voice</a></td>
         </tr>
         <tr>
-          <td></td>
-          <td><a href="ud-feat/PossPerson.html">PossPerson</a></td>
+          <td><a href="ud-feat/Degree.html">Degree</a></td>
           <td><a href="ud-feat/Person.html">Person</a></td>
         </tr>
         <tr>
-          <td><a href="ud-feat/Degree.html">Degree</a></td>
           <td></td>
           <td><a href="ud-feat/Negativeness.html">Negativeness</a></td>
         </tr>
@@ -117,43 +106,21 @@ title:  'Features'
   and it should never be assumed that the feature cannot appear together with
   a particular POS tag.
 
-### Features 1
+### Lexical features
 
-All of these can be considered attributes of lemmas (rather than
+All of these can be considered attributes of lexemes or lemmas (rather than
 individual word forms) and they represent a fine-grained
 sub-classification of words.
 
 Some features are boolean.
 
-### Features 2
+### Inflectional features
 
 These are mostly inflectional features, i.e. they are features of word forms
 rather than lemmas. There are exceptions: for instance, gender of nouns is
 usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.
-
-### Remarks
-
-The list of features is certainly not exhausting (even if you feel
-exhausted after reading it :-)) and later versions of the standard
-may include new features or values found in new languages, corpora or tagsets.
-
-Users can extend this set of universal features and add language-specific
-features when necessary. Such features should be described in the language-specific
-documentation and follow the general principles outlined above.
-Universal and language-specific features of a word are listed together in the FEATS column.
-
-Unlike in various language-specific tagsets, the Universal Features do not
-include features aimed at marking _fusion words_ (a word that is result of
-merging two other words, which are syntactically independent and belong to
-different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
-auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
-Spanish _dámelo (da + me + lo_ ... verb +
-clitics) etc. The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
-and features. See also <a href="format.html">Format</a>.
 
 ### Layered features
 
@@ -233,6 +200,28 @@ German distinguishes both features in both dimensions
     <td><span style='color:red'>their</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>unakī</span> bēṭiyām̐</td>
   </tr>
 </table>
+
+### Remarks
+
+The list of features is certainly not exhaustive and later versions of the standard
+may include new features or values found in new languages, corpora or tagsets.
+
+Users can extend this set of universal features and add language-specific
+features when necessary. Such features should be described in the language-specific
+documentation and follow the general principles outlined above.
+Universal and language-specific features of a word are listed together in the FEATS column.
+
+Unlike in various language-specific tagsets, the Universal Features do not
+include features aimed at marking _fusion words_ (a word that is result of
+merging two other words, which are syntactically independent and belong to
+different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
+auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
+Spanish _dámelo (da + me + lo_ ... verb +
+clitics) etc. The only truly general approach to fusion words is to apply
+a language-specific processing step that will split tokens into syntactic words
+where necessary. Every syntactic word will then get its own part-of-speech tag
+and features. See also <a href="format.html">Format</a>.
+
 
 -------------
 
