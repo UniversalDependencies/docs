@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: entry
 title:  'Sandbox'
 ---
 
@@ -32,6 +32,28 @@ support (see [format](format.html)).
 4	sell	sell	VERB	VBP	Num=Plur|Per=3|Tense=Pres	2	conj	_	_
 5	books	book	NOUN	NNS	Num=Plur	2	dobj	4:dobj	_
 6	.	.	PUNCT	.	_	2	punct	_	_
+
+</div>
+
+### Multiple sentences
+
+<div class="conllu-parse" tabs="yes">
+1	LONDRA	Londra	NOUN	_	_	0	root	_	_
+2	.	.	.	_	_	1	punct	_	_
+
+# This is a comment
+1	Gas	gas	NOUN	_	Gen=M|Num=N	0	root	_	_
+2-3	dalla	_	_	_	_	_	_	_	_
+2	da	da	ADP	_	_	1	adpmod	_	_
+3	la	la	DET	_	Gen=F|Num=S	4	det	_	_
+4	statua	statua	NOUN	_	Gen=F|Num=S	2	adpobj	_	_
+5	.	.	.	_	_	1	punct	_	_
+
+1	Evacuata	evacuare	VERB	_	Gen=F|Mod=P|Num=S	3	partmod	_	_
+2	la	il	DET	_	Gen=F|Num=S	3	det	_	_
+3	Tate	Tate	NOUN	_	_	0	root	_	_
+4	Gallery	Gallery	NOUN	_	_	3	mwe	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 </div>
 
@@ -185,6 +207,20 @@ Non-valid examples from "tools" test cases
 
 </div>
 
+### invalid-range.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: (first-last) multiword ranges must have first <= last
+1	I	I	PRON	PRN	Num=Sing|Per=1	2	nsubj	_	_
+2-1	haven't	_	_	_	_	_	_	_	_
+2	have	have	VERB	VB	Tens=Pres	0	root	_	_
+3	not	not	ADV	RB	_	2	neg	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+</div>
+
 ### lowercase-feature.conll
 
 <div class="conllu-parse" tabs="yes">
@@ -207,7 +243,7 @@ Non-valid examples from "tools" test cases
 
 <div class="conllu-parse" tabs="yes">
 # This is a comment
-1	Gas	gas	NOUN	S	gen=m|num=n	0	ROOT	xxx	_
+1	Gas	gas	NOUN	S	Gen=M|Num=N	0	ROOT	xxx	_
 
 </div>
 
@@ -233,6 +269,36 @@ Non-valid examples from "tools" test cases
 5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
+</div>
+
+### misplaced-comment-mid.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: comment lines inside sentences are disallowed.
+1	I	I	PRON	PRN	Num=Sing|Per=1	2	nsubj	_	_
+2-3	haven't	_	_	_	_	_	_	_	_
+# this comment should not be here
+2	have	have	VERB	VB	Tens=Pres	0	root	_	_
+3	not	not	ADV	RB	_	2	neg	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+</div>
+
+### misplaced-comment-end.conll
+
+<div class="conllu-parse" tabs="yes">
+# not valid: comment lines should precede a sentence
+1	I	I	PRON	PRN	Num=Sing|Per=1	2	nsubj	_	_
+2-3	haven't	_	_	_	_	_	_	_	_
+2	have	have	VERB	VB	Tens=Pres	0	root	_	_
+3	not	not	ADV	RB	_	2	neg	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	clue	clue	NOUN	NN	Num=Sing	2	dobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+# this comment should not be here as it does not precede a sentence.
 </div>
 
 ### multiword-with-pos.conll
@@ -285,23 +351,14 @@ Non-valid examples from "tools" test cases
 ### token_with_cols_filled.conll
 
 <div class="conllu-parse" tabs="yes">
-1	LONDRA	Londra	NOUN	SP	_	0	ROOT	_	_
-2	.	.	.	FS	_	1	p	_	_
-
+# (TODO: is this the same general case as mutiword-with-pos.conll?)
 # This is a comment
-1	Gas	gas	NOUN	S	gen=m|num=n	0	ROOT	_	_
+1	Gas	gas	NOUN	S	Gen=M|Num=N	0	ROOT	_	_
 2-3	dalla	dalla	_	_	_	0	ROOT	_	_
 2	da	da	ADP	EA	_	1	adpmod	_	_
-3	la	la	DET	RD	gen=f|num=s	4	det	_	_
-4	statua	statua	NOUN	S	gen=f|num=s	2	adpobj	_	_
+3	la	la	DET	RD	Gen=F|Num=S	4	det	_	_
+4	statua	statua	NOUN	S	Gen=F|Num=S	2	adpobj	_	_
 5	.	.	.	FS	_	1	p	_	_
-
-1	Evacuata	evacuare	VERB	V	gen=f|mod=p|num=s	3	partmod	_	_
-2	la	il	DET	RD	gen=f|num=s	3	det	_	_
-3	Tate	Tate	NOUN	SP	_	0	ROOT	_	_
-4	Gallery	Gallery	NOUN	SP	_	3	mwe	_	_
-5	.	.	.	FS	_	3	p	_	_
-
 </div>
 
 ### trailing-tab.conll
