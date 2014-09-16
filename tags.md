@@ -21,14 +21,6 @@ title:  'Tags'
 |---------------------------------------------------|
 {: .typeindex}
 
-Alphabetical listing
-
-<ul>
-{% for p in site.ud-pos %}
-  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
-
 ## Language-specific documentation
 
 <table id="indextable">
