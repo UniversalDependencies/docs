@@ -49,14 +49,14 @@ nsubj(slept, We)
 Function words do not have dependents of their own, except in the following cases:
 
 1. Multiword function words, analyzed as multi-word expressions (mwe):
-  
+2. Coordinated function words:
+3. Promotion through head elision:
+
 <div id="s3" class="sd-parse">
 The cat could have chased the dog out of the house .
 case(house,out)
 mwe(out,of)
 </div>
-
-2. Coordinated function words:
 
 <div id="s4" class="sd-parse">
 The cat could have chased the dog up and down the street .
@@ -65,13 +65,12 @@ conj(up,down)
 cc(up,and)
 </div>
 
-3. Promotion through head elision:
-
 <div id="s5" class="sd-parse">
 The cat could have [chased the dog right down the street] .
 nsubj(have,cat)
 aux(have,could)
 </div>
+
 
 The following expression types are all annotated with a flat head-initial structure:
 
