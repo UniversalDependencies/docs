@@ -47,7 +47,9 @@ For languages where the extraction of words from white-space delimited tokens is
 part of morphosyntactic analysis), we include both words and tokens in the treebank using a two-level indexing scheme described below. The morphological and syntactic annotation is only defined at the word level, but a heuristic mapping to the token level can usually be provided. For languages not using white-space, such as Chinese and Japanese, a complex word segmentation algorithm needs to be employed and there is no need to differentiate tokens and words. Similarly, for languages where word segmentation is simple and straightforward (or where a standard segmentation algorithm can be assumed), only words need to be represented in the treebank.
 
 To accommodate representation of both tokens and words, we adopt an extension of the original CoNLL-X token indexing scheme, where words are indexed with integers 1, 2, 3, ..., while (multiword) tokens are indexed with integer ranges like 1-2 or 3-5. 
-Lines representing such tokens are inserted before the first word in the range. They have a FORM value –
+Lines representing such tokens are inserted before the first word in the range.
+These ranges must be nonempty and must not overlap.
+They have a FORM value –
 the string that occurs in the sentence – but have an underscore in all the remaining fields (because the token  represents multiple words, each with its own lemma, part-of-speech tag, syntactic head, and so on). 
 This is illustrated in the following annotation snippet,
 showing only the first three fields for the Spanish sentence _vámonos al mar_ (let's go to the sea):
@@ -75,8 +77,7 @@ We extract the raw token sequence by skipping all integer IDs that are included 
     5      mar       mar		
 
 To facilitate the use of CoNLL-U treebanks, we provide a script that extracts either the annotated _word_ sequence (with
-the original integer IDs) or the raw _token_ sequence with a heuristic mapping of morphological and syntactic annotation 
-and plain integer indexing (like [the traditional CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat)). Moreover, to 
+the original integer IDs) or the raw _token_ sequence with a heuristic mapping of morphological and syntactic annotation and plain integer indexing (like [the traditional CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat)). Moreover, to 
 facilitate parser evaluation for languages with nondeterministic word segmentation, we also provide a mapping to a format
 where tokens are indexed with integers and words (if needed) with decimals. We refer to this scheme as _token indexing_, 
 in contrast to the _word indexing_ scheme used as the offical treebank representation. Our running example looks as follows with token indexing:
@@ -93,7 +94,9 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
 # Morphological Annotation
 
 The CPOSTAG field contains a part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
-and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. The FEATS field contains a list
+and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. POSTAG values other than underscore must have the form `[A-Z]+`.
+
+The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
 All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form `[A-Z0-9][a-zA-Z0-9]*`.
 
@@ -144,6 +147,8 @@ Here is an example, showing the first nine fields for the English sentence _They
     4    sell     sell    VERB    VBP    Num=Plur|Per=3|Tense=Pres    2    conj     _
     5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
     6    .        .       PUNCT   .      _                            2    punct    _
+
+The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*`.
 
 # Miscellaneous
 
