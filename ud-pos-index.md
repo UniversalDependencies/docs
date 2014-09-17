@@ -6,6 +6,8 @@ generated: 'true'
 
 # Universal POS tags
 
+{% include pos-table.html %}
+
 Alphabetical listing
 
 <ul>

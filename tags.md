@@ -7,19 +7,7 @@ title:  'Tags'
 
 ## Universal POS tags
 
-|---------------------------------------------------|
-| Open class words | Closed class words | Other     |
-|---------------------------------------------------|
-| [ADJ]()          | [ADP]()            | [PUNCT]() |
-| [ADV]()          | [AUX]()            | [SYM]()   |
-| [INTJ]()         | [CONJ]()           | [X]()     |
-| [NOUN]()         | [DET]()            |           |
-| [PROPN]()        | [NUM]()            |           |
-| [VERB]()         | [PART]()           |           |
-|                  | [PRON]()           |           |
-|                  | [SCONJ]()          |           |
-|---------------------------------------------------|
-{: .typeindex}
+{% include pos-table.html %}
 
 ## Language-specific documentation
 
