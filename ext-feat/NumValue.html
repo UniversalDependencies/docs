@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>VerbType</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
-    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+    <title>NumValue</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/postponed/VerbType.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/NumValue.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,46 +34,30 @@
 	  </div>
 	</noscript>
 
-          <h2 id="verbtype-it-has-been-proposed-not-to-include-this-in-the-current-version">VerbType: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
+          <h2 id="numvalue-it-has-been-proposed-not-to-include-this-in-the-current-version">NumValue: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
 
-<p>We already split auxiliary and non-auxiliary verbs at the level of POS
-tags but some tagsets mark other distinctions.</p>
+<p>Low-value (&lt;5) cardinal numbers in Slavic languages behave
+morphologically and syntactically differently from the rest, therefore
+some tagsets distinguish them (so far seen in Czech, Polish, and also
+Arabic, although it is not Slavic).</p>
 
-<h3 id="aux-auxiliary-verb">Aux: auxiliary verb</h3>
+<p>In Czech, number “one” agrees with the counted noun in gender, number
+and case. Number “two” agrees in gender and case and numbers “three”
+and “four” agree in case. These numerals behave similarly to
+adjectives. Numbers “five”, “six” etc. behave differently. If the case
+of the counted phrase is genitive, dative, locative or instrumental,
+the numeral agrees in case with the noun. However, if the case of the
+whole phrase is nominative, accusative or vocative, then the numeral
+dictates that the noun is in genitive. This behavior is similar to
+nouns modified by other nouns in genitive. (Note that this is why in
+the Czech PDT some numeral nodes are annotated as governing nouns
+instead of modifying them.)</p>
 
-<p>Verb used to create periphrastic verb forms (tenses, passives etc.) In
-many languages there will be ambiguity between auxiliary and other
-usages, thus the same verb should get different tags or feature values
-depending on context.</p>
+<h3 id="numeric-value-1">1: numeric value 1</h3>
 
-<h3 id="cop-copula-verb">Cop: copula verb</h3>
+<h3 id="numeric-value-2">2: numeric value 2</h3>
 
-<p>Verb used to make nominal predicates from adjectives, nouns or
-participles. Some languages omit the copula or use other means to
-create nominal predicates. In languages that have copula, it is often
-the equivalent of the verbs “to be” or “to become”.</p>
-
-<p>Examples: It <em>is</em> purple. He just <em>became</em> father.</p>
-
-<h3 id="mod-modal-verb">Mod: modal verb</h3>
-
-<p>A group of verbs traditionally distinguished in grammars of some
-languages. They take infinitive of another verb as argument (with or
-without infinitve-marking conjunction, in languages that have it) and
-add various modes of possibility, necessity etc. to the meaning of the
-infinitive. There are other verbs that take infinitives as arguments
-but they are not considered modal (e.g. phasal verbs such as “to
-<em>begin</em> to do something”). The set of modal verbs for a language is
-closed and can be enumerated.</p>
-
-<p>Note that some languages (e.g. Turkish) use special forms of the main
-verb instead of combining it with a modal verb.</p>
-
-<p>German examples: dürfen (may), können (can), mögen (want/like to),
-müssen (must), sollen (shall), wollen (want to), wissen (know to)</p>
-
-<p>Czech examples: muset (must), mít (shall, have to), moci (can), smět
-(may, be allowed to), umět (know to), chtít (want to)</p>
+<h3 id="numeric-value-3-or-4">3: numeric value 3 or 4</h3>
 
 
 <!-- "relation in other languages" links -->
@@ -234,7 +218,7 @@ müssen (must), sollen (shall), wollen (want to), wissen (know to)</p>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../../'; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -265,7 +249,7 @@ müssen (must), sollen (shall), wollen (want to), wissen (know to)</p>
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "ud-feat",
+        "_current" : "ext-feat",
 
         "ud-pos": [
 
@@ -463,109 +447,113 @@ müssen (must), sollen (shall), wollen (want to), wissen (know to)</p>
                 "url":   "/docs/ud-feat/Voice.html",
             },
 
+        ],
+
+        "ext-feat": [
+
             {
                 "title": "Abbr",
-                "url":   "/docs/ud-feat/postponed/Abbr.html",
+                "url":   "/docs/ext-feat/Abbr.html",
             },
 
             {
                 "title": "AdjType",
-                "url":   "/docs/ud-feat/postponed/AdjType.html",
+                "url":   "/docs/ext-feat/AdjType.html",
             },
 
             {
                 "title": "AdpType",
-                "url":   "/docs/ud-feat/postponed/AdpType.html",
+                "url":   "/docs/ext-feat/AdpType.html",
             },
 
             {
                 "title": "AdvType",
-                "url":   "/docs/ud-feat/postponed/AdvType.html",
+                "url":   "/docs/ext-feat/AdvType.html",
             },
 
             {
                 "title": "ConjType",
-                "url":   "/docs/ud-feat/postponed/ConjType.html",
+                "url":   "/docs/ext-feat/ConjType.html",
             },
 
             {
                 "title": "Echo",
-                "url":   "/docs/ud-feat/postponed/Echo.html",
+                "url":   "/docs/ext-feat/Echo.html",
             },
 
             {
                 "title": "Foreign",
-                "url":   "/docs/ud-feat/postponed/Foreign.html",
+                "url":   "/docs/ext-feat/Foreign.html",
             },
 
             {
                 "title": "Hyph",
-                "url":   "/docs/ud-feat/postponed/Hyph.html",
+                "url":   "/docs/ext-feat/Hyph.html",
             },
 
             {
                 "title": "Meta",
-                "url":   "/docs/ud-feat/postponed/Meta.html",
+                "url":   "/docs/ext-feat/Meta.html",
             },
 
             {
                 "title": "NameType",
-                "url":   "/docs/ud-feat/postponed/NameType.html",
+                "url":   "/docs/ext-feat/NameType.html",
             },
 
             {
                 "title": "NounType",
-                "url":   "/docs/ud-feat/postponed/NounType.html",
+                "url":   "/docs/ext-feat/NounType.html",
             },
 
             {
                 "title": "NumForm",
-                "url":   "/docs/ud-feat/postponed/NumForm.html",
+                "url":   "/docs/ext-feat/NumForm.html",
             },
 
             {
                 "title": "NumValue",
-                "url":   "/docs/ud-feat/postponed/NumValue.html",
+                "url":   "/docs/ext-feat/NumValue.html",
             },
 
             {
                 "title": "PartType",
-                "url":   "/docs/ud-feat/postponed/PartType.html",
+                "url":   "/docs/ext-feat/PartType.html",
             },
 
             {
                 "title": "Politeness",
-                "url":   "/docs/ud-feat/postponed/Politeness.html",
+                "url":   "/docs/ext-feat/Politeness.html",
             },
 
             {
                 "title": "PrepCase",
-                "url":   "/docs/ud-feat/postponed/PrepCase.html",
+                "url":   "/docs/ext-feat/PrepCase.html",
             },
 
             {
                 "title": "PunctSide",
-                "url":   "/docs/ud-feat/postponed/PunctSide.html",
+                "url":   "/docs/ext-feat/PunctSide.html",
             },
 
             {
                 "title": "PunctType",
-                "url":   "/docs/ud-feat/postponed/PunctType.html",
+                "url":   "/docs/ext-feat/PunctType.html",
             },
 
             {
                 "title": "Style",
-                "url":   "/docs/ud-feat/postponed/Style.html",
+                "url":   "/docs/ext-feat/Style.html",
             },
 
             {
                 "title": "Typo",
-                "url":   "/docs/ud-feat/postponed/Typo.html",
+                "url":   "/docs/ext-feat/Typo.html",
             },
 
             {
                 "title": "VerbType",
-                "url":   "/docs/ud-feat/postponed/VerbType.html",
+                "url":   "/docs/ext-feat/VerbType.html",
             },
 
         ],

@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Foreign</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
-    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+    <title>Politeness</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/postponed/Foreign.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/Politeness.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,18 +34,92 @@
 	  </div>
 	</noscript>
 
-          <h2 id="foreign-it-has-been-proposed-not-to-include-this-in-the-current-version">Foreign: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
+          <h2 id="politeness-distinguish-informal-and-polite-registers">Politeness: distinguish informal and polite registers</h2>
 
-<p>Boolean feature. Is this a foreign word? Not a loan word and not a
-foreign name but a genuinely foreign word appearing inside native
-text, e.g. inside direct speech, titles of books etc. This feature
-would apply either to the “X” part of speech (unanalyzable token), or
-to other parts of speech if we know and are willing to annotate the
-class to which the word belongs in its original language.</p>
+<p>Various
+languages have various means to express politeness or respect; some
+of the means are morphological.</p>
 
-<h3 id="yes-it-is-foreign">Yes: it is foreign</h3>
+<p>In
+quite a few languages the polite mode involves changing pronoun,
+person or number when addressing or talking about a respectable
+person. In Czech, 2<sup>nd</sup> person plural is used instead of
+singular; this involves both the pronoun and the finite verb but not
+a participle, which remains in singular. In this case, different
+words are selected but all of them also exist in the informal mode.
+The change is that morphological plural may now be either semantic
+singular or plural.</p>
 
-<p>Example: He said I could “dra åt helvete!”</p>
+<p>In
+German, Spanish or Hindi, both number and person are changed
+(morphological 3<sup>rd</sup>
+person is used as semantic 2<sup>nd</sup>
+person) and in addition, special pronouns are used that do not appear
+in the informal register ([de] <i>Sie</i>;
+[es] <i>usted,
+ustedes</i>;
+[hi] आप
+<i>āpa</i>).</p>
+
+<p>In
+Japanese, verbs
+and other words have polite and informal forms but
+the polite register is not restricted to addressing people.</p>
+
+<h3 id="inf-informal-register">Inf: informal register</h3>
+
+<p>Usage
+varies but if the language distinguishes levels of politeness, then
+the informal register is usually meant for communication with family
+members and close friends.</p>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>ty
+</i></span><span style="color: red"><i>jdeš
+</i></span><span style="color: red"><i>/
+vy </i></span><span style="color: red"><i>jdete</i></span>
+(you
+go.Sing/Plur);
+[de]
+<span style="color: red"><i>du
+</i></span><span style="color: red"><i>gehst
+</i></span><span style="color: red"><i>/
+ihr </i></span><span style="color: red"><i>geht</i></span>
+(you go.Sing/Plur); [es] <span style="color: red"><i>tú
+vas / vosotros vais</i></span>
+(you
+go.Sing/Plur); [ja]
+<span style="color: red">行かない
+<i>ikanai</i></span>
+(will
+not go)<i>.</i></p>
+
+<h3 id="pol-polite-register">Pol: polite register</h3>
+
+<p>Usage
+varies but if the language distinguishes levels of politeness, then
+the polite register is usually meant for communication with strangers
+and people of higher social status than the one of the speaker.</p>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>vy
+</i></span><span style="color: red"><i>jdete</i></span>
+(you
+go.Sing/Plur);
+[de]
+<span style="color: red"><i>Sie
+</i></span><span style="color: red"><i>gehen</i></span>
+(you go.Sing/Plur); [es] <span style="color: red"><i>usted
+</i></span><span style="color: red"><i>va
+/ ustedes van</i></span>
+(you
+go.Sing/Plur); [ja]
+<span style="color: red">行きません
+<i>ikimasen</i></span>
+(will
+not go).</p>
 
 
 <!-- "relation in other languages" links -->
@@ -206,7 +280,7 @@ class to which the word belongs in its original language.</p>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../../'; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -237,7 +311,7 @@ class to which the word belongs in its original language.</p>
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "ud-feat",
+        "_current" : "ext-feat",
 
         "ud-pos": [
 
@@ -435,109 +509,113 @@ class to which the word belongs in its original language.</p>
                 "url":   "/docs/ud-feat/Voice.html",
             },
 
+        ],
+
+        "ext-feat": [
+
             {
                 "title": "Abbr",
-                "url":   "/docs/ud-feat/postponed/Abbr.html",
+                "url":   "/docs/ext-feat/Abbr.html",
             },
 
             {
                 "title": "AdjType",
-                "url":   "/docs/ud-feat/postponed/AdjType.html",
+                "url":   "/docs/ext-feat/AdjType.html",
             },
 
             {
                 "title": "AdpType",
-                "url":   "/docs/ud-feat/postponed/AdpType.html",
+                "url":   "/docs/ext-feat/AdpType.html",
             },
 
             {
                 "title": "AdvType",
-                "url":   "/docs/ud-feat/postponed/AdvType.html",
+                "url":   "/docs/ext-feat/AdvType.html",
             },
 
             {
                 "title": "ConjType",
-                "url":   "/docs/ud-feat/postponed/ConjType.html",
+                "url":   "/docs/ext-feat/ConjType.html",
             },
 
             {
                 "title": "Echo",
-                "url":   "/docs/ud-feat/postponed/Echo.html",
+                "url":   "/docs/ext-feat/Echo.html",
             },
 
             {
                 "title": "Foreign",
-                "url":   "/docs/ud-feat/postponed/Foreign.html",
+                "url":   "/docs/ext-feat/Foreign.html",
             },
 
             {
                 "title": "Hyph",
-                "url":   "/docs/ud-feat/postponed/Hyph.html",
+                "url":   "/docs/ext-feat/Hyph.html",
             },
 
             {
                 "title": "Meta",
-                "url":   "/docs/ud-feat/postponed/Meta.html",
+                "url":   "/docs/ext-feat/Meta.html",
             },
 
             {
                 "title": "NameType",
-                "url":   "/docs/ud-feat/postponed/NameType.html",
+                "url":   "/docs/ext-feat/NameType.html",
             },
 
             {
                 "title": "NounType",
-                "url":   "/docs/ud-feat/postponed/NounType.html",
+                "url":   "/docs/ext-feat/NounType.html",
             },
 
             {
                 "title": "NumForm",
-                "url":   "/docs/ud-feat/postponed/NumForm.html",
+                "url":   "/docs/ext-feat/NumForm.html",
             },
 
             {
                 "title": "NumValue",
-                "url":   "/docs/ud-feat/postponed/NumValue.html",
+                "url":   "/docs/ext-feat/NumValue.html",
             },
 
             {
                 "title": "PartType",
-                "url":   "/docs/ud-feat/postponed/PartType.html",
+                "url":   "/docs/ext-feat/PartType.html",
             },
 
             {
                 "title": "Politeness",
-                "url":   "/docs/ud-feat/postponed/Politeness.html",
+                "url":   "/docs/ext-feat/Politeness.html",
             },
 
             {
                 "title": "PrepCase",
-                "url":   "/docs/ud-feat/postponed/PrepCase.html",
+                "url":   "/docs/ext-feat/PrepCase.html",
             },
 
             {
                 "title": "PunctSide",
-                "url":   "/docs/ud-feat/postponed/PunctSide.html",
+                "url":   "/docs/ext-feat/PunctSide.html",
             },
 
             {
                 "title": "PunctType",
-                "url":   "/docs/ud-feat/postponed/PunctType.html",
+                "url":   "/docs/ext-feat/PunctType.html",
             },
 
             {
                 "title": "Style",
-                "url":   "/docs/ud-feat/postponed/Style.html",
+                "url":   "/docs/ext-feat/Style.html",
             },
 
             {
                 "title": "Typo",
-                "url":   "/docs/ud-feat/postponed/Typo.html",
+                "url":   "/docs/ext-feat/Typo.html",
             },
 
             {
                 "title": "VerbType",
-                "url":   "/docs/ud-feat/postponed/VerbType.html",
+                "url":   "/docs/ext-feat/VerbType.html",
             },
 
         ],

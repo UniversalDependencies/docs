@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Politeness</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
-    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+    <title>AdvType</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/postponed/Politeness.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/AdvType.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,92 +34,60 @@
 	  </div>
 	</noscript>
 
-          <h2 id="politeness-distinguish-informal-and-polite-registers">Politeness: distinguish informal and polite registers</h2>
+          <h2 id="advtype-it-has-been-proposed-not-to-include-this-in-the-current-version">AdvType: IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION</h2>
 
-<p>Various
-languages have various means to express politeness or respect; some
-of the means are morphological.</p>
+<p>Semantic subclasses of adverbs. They are annotated in some tagsets
+(e.g. Bulgarian, Czech, Hindi, Japanese) and would probably apply to
+many other languages if their tagsets cared to cover them. Note that
+the “prontype” feature also applies to some adverbs and is orthogonal
+to “AdvType”.</p>
 
-<p>In
-quite a few languages the polite mode involves changing pronoun,
-person or number when addressing or talking about a respectable
-person. In Czech, 2<sup>nd</sup> person plural is used instead of
-singular; this involves both the pronoun and the finite verb but not
-a participle, which remains in singular. In this case, different
-words are selected but all of them also exist in the informal mode.
-The change is that morphological plural may now be either semantic
-singular or plural.</p>
+<h3 id="man-adverb-of-manner-how">Man: adverb of manner (“how”)</h3>
 
-<p>In
-German, Spanish or Hindi, both number and person are changed
-(morphological 3<sup>rd</sup>
-person is used as semantic 2<sup>nd</sup>
-person) and in addition, special pronouns are used that do not appear
-in the informal register ([de] <i>Sie</i>;
-[es] <i>usted,
-ustedes</i>;
-[hi] आप
-<i>āpa</i>).</p>
+<h3 id="loc-adverb-of-location-where-where-to-where-from">Loc: adverb of location (“where, where to, where from”)</h3>
 
-<p>In
-Japanese, verbs
-and other words have polite and informal forms but
-the polite register is not restricted to addressing people.</p>
+<h3 id="tim-adverb-of-time-when-since-when-till-when">Tim: adverb of time (“when, since when, till when”)</h3>
 
-<h3 id="inf-informal-register">Inf: informal register</h3>
+<h3 id="deg-adverb-of-quantity-or-degree-how-much">Deg: adverb of quantity or degree (“how much”)</h3>
 
-<p>Usage
-varies but if the language distinguishes levels of politeness, then
-the informal register is usually meant for communication with family
-members and close friends.</p>
+<p>Note that there is a fuzzy borderline between adverbs of degree and
+indefinite numerals (as they are called in some grammars). This has
+not yet been solved in Interset.</p>
 
-<p>Examples:
-[cs]
-<span style="color: red"><i>ty
-</i></span><span style="color: red"><i>jdeš
-</i></span><span style="color: red"><i>/
-vy </i></span><span style="color: red"><i>jdete</i></span>
-(you
-go.Sing/Plur);
-[de]
-<span style="color: red"><i>du
-</i></span><span style="color: red"><i>gehst
-</i></span><span style="color: red"><i>/
-ihr </i></span><span style="color: red"><i>geht</i></span>
-(you go.Sing/Plur); [es] <span style="color: red"><i>tú
-vas / vosotros vais</i></span>
-(you
-go.Sing/Plur); [ja]
-<span style="color: red">行かない
-<i>ikanai</i></span>
-(will
-not go)<i>.</i></p>
+<h3 id="cau-adverb-of-cause-why">Cau: adverb of cause (“why”)</h3>
 
-<h3 id="pol-polite-register">Pol: polite register</h3>
+<h3 id="mod-adverb-of-modal-nature">Mod: adverb of modal nature</h3>
 
-<p>Usage
-varies but if the language distinguishes levels of politeness, then
-the polite register is usually meant for communication with strangers
-and people of higher social status than the one of the speaker.</p>
+<p>The Czech examples below are similar to modal verbs: they take
+infinitives as arguments and add the meaning of possibility, necessity
+or recommendedness. I suspect that the Bulgarian example
+(transliteration of French “à propos”) is used differently but its
+native tagset also calles it “modal”.</p>
 
-<p>Examples:
-[cs]
-<span style="color: red"><i>vy
-</i></span><span style="color: red"><i>jdete</i></span>
-(you
-go.Sing/Plur);
-[de]
-<span style="color: red"><i>Sie
-</i></span><span style="color: red"><i>gehen</i></span>
-(you go.Sing/Plur); [es] <span style="color: red"><i>usted
-</i></span><span style="color: red"><i>va
-/ ustedes van</i></span>
-(you
-go.Sing/Plur); [ja]
-<span style="color: red">行きません
-<i>ikimasen</i></span>
-(will
-not go).</p>
+<p>Examples: [bg] апропо, [cs] možno, nutno, radno, třeba</p>
+
+<h3 id="sta-adverb-of-state">Sta: adverb of state</h3>
+
+<p>Note that while the English translations of the Czech examples below
+might hint that they are adjectives, morphologically and syntactically
+they are adverbs (and some of them ambiguous with nouns).</p>
+
+<p>Examples: [cs] plno (full), zima (cold), chyba (wrong), škoda (pity),
+volno (available), nanic (no good)</p>
+
+<p>Finally, Interset also has two values of “AdvType” that somewhat
+deviate from the rest. I do not know what exactly should be done with
+them but I had to distinguish them somehow.</p>
+
+<h3 id="ex-existential-there-in-english">Ex: existential “there” in English</h3>
+
+<p>What part of speech is this “there” in the universal parts of speech?</p>
+
+<h3 id="adadj-ad-adjective-in-finnish">Adadj: ad-adjective in Finnish</h3>
+
+<p>Derived from adjectives, used only to modify other adjectives
+(http://archives.conlang.info/pei/juenchen/phaelbhaduen.html).</p>
+
 
 
 <!-- "relation in other languages" links -->
@@ -280,7 +248,7 @@ not go).</p>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../../'; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -311,7 +279,7 @@ not go).</p>
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "ud-feat",
+        "_current" : "ext-feat",
 
         "ud-pos": [
 
@@ -509,109 +477,113 @@ not go).</p>
                 "url":   "/docs/ud-feat/Voice.html",
             },
 
+        ],
+
+        "ext-feat": [
+
             {
                 "title": "Abbr",
-                "url":   "/docs/ud-feat/postponed/Abbr.html",
+                "url":   "/docs/ext-feat/Abbr.html",
             },
 
             {
                 "title": "AdjType",
-                "url":   "/docs/ud-feat/postponed/AdjType.html",
+                "url":   "/docs/ext-feat/AdjType.html",
             },
 
             {
                 "title": "AdpType",
-                "url":   "/docs/ud-feat/postponed/AdpType.html",
+                "url":   "/docs/ext-feat/AdpType.html",
             },
 
             {
                 "title": "AdvType",
-                "url":   "/docs/ud-feat/postponed/AdvType.html",
+                "url":   "/docs/ext-feat/AdvType.html",
             },
 
             {
                 "title": "ConjType",
-                "url":   "/docs/ud-feat/postponed/ConjType.html",
+                "url":   "/docs/ext-feat/ConjType.html",
             },
 
             {
                 "title": "Echo",
-                "url":   "/docs/ud-feat/postponed/Echo.html",
+                "url":   "/docs/ext-feat/Echo.html",
             },
 
             {
                 "title": "Foreign",
-                "url":   "/docs/ud-feat/postponed/Foreign.html",
+                "url":   "/docs/ext-feat/Foreign.html",
             },
 
             {
                 "title": "Hyph",
-                "url":   "/docs/ud-feat/postponed/Hyph.html",
+                "url":   "/docs/ext-feat/Hyph.html",
             },
 
             {
                 "title": "Meta",
-                "url":   "/docs/ud-feat/postponed/Meta.html",
+                "url":   "/docs/ext-feat/Meta.html",
             },
 
             {
                 "title": "NameType",
-                "url":   "/docs/ud-feat/postponed/NameType.html",
+                "url":   "/docs/ext-feat/NameType.html",
             },
 
             {
                 "title": "NounType",
-                "url":   "/docs/ud-feat/postponed/NounType.html",
+                "url":   "/docs/ext-feat/NounType.html",
             },
 
             {
                 "title": "NumForm",
-                "url":   "/docs/ud-feat/postponed/NumForm.html",
+                "url":   "/docs/ext-feat/NumForm.html",
             },
 
             {
                 "title": "NumValue",
-                "url":   "/docs/ud-feat/postponed/NumValue.html",
+                "url":   "/docs/ext-feat/NumValue.html",
             },
 
             {
                 "title": "PartType",
-                "url":   "/docs/ud-feat/postponed/PartType.html",
+                "url":   "/docs/ext-feat/PartType.html",
             },
 
             {
                 "title": "Politeness",
-                "url":   "/docs/ud-feat/postponed/Politeness.html",
+                "url":   "/docs/ext-feat/Politeness.html",
             },
 
             {
                 "title": "PrepCase",
-                "url":   "/docs/ud-feat/postponed/PrepCase.html",
+                "url":   "/docs/ext-feat/PrepCase.html",
             },
 
             {
                 "title": "PunctSide",
-                "url":   "/docs/ud-feat/postponed/PunctSide.html",
+                "url":   "/docs/ext-feat/PunctSide.html",
             },
 
             {
                 "title": "PunctType",
-                "url":   "/docs/ud-feat/postponed/PunctType.html",
+                "url":   "/docs/ext-feat/PunctType.html",
             },
 
             {
                 "title": "Style",
-                "url":   "/docs/ud-feat/postponed/Style.html",
+                "url":   "/docs/ext-feat/Style.html",
             },
 
             {
                 "title": "Typo",
-                "url":   "/docs/ud-feat/postponed/Typo.html",
+                "url":   "/docs/ext-feat/Typo.html",
             },
 
             {
                 "title": "VerbType",
-                "url":   "/docs/ud-feat/postponed/VerbType.html",
+                "url":   "/docs/ext-feat/VerbType.html",
             },
 
         ],
