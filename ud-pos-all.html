@@ -32,7 +32,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-pos-tags">Universal POS tags</h1>
+          <h1 id="universal-features">Universal features</h1>
 
 <table class="typeindex">
   <thead>
@@ -86,45 +86,488 @@
   </tbody>
 </table>
 
-<p>Alphabetical listing</p>
+<hr />
+
+<h2 id="adj-adjective">ADJ: adjective</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p><strong>Adjectives</strong> are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in</p>
+
+<p><em>The car is green.</em></p>
+
+<p>The ADJ tag is intended for ordinary adjectives only. See <a href="DET.html">DET</a> for determiners and <a href="NUM.html">NUM</a> for numerals.</p>
+
+<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adjectives in our universal tagging scheme. In particular, <em>ordinal numerals</em> (more precisely <em>adjectival</em> ordinal numerals, because Czech has also adverbial ones) behave both morphologically and syntactically as adjectives and are tagged ADJ.</p>
+
+<p>Note that <em>participles</em> are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or ADJ.</p>
+
+<h3 id="examples">Examples</h3>
 
 <ul>
-
-  <li><a href="ud-pos/ADJ.html">ADJ</a>: adjective</li>
-
-  <li><a href="ud-pos/ADP.html">ADP</a>: adposition</li>
-
-  <li><a href="ud-pos/ADV.html">ADV</a>: adverb</li>
-
-  <li><a href="ud-pos/AUX_.html">AUX</a>: auxiliary verb</li>
-
-  <li><a href="ud-pos/CONJ.html">CONJ</a>: coordinating conjunction</li>
-
-  <li><a href="ud-pos/DET.html">DET</a>: determiner</li>
-
-  <li><a href="ud-pos/INTJ.html">INTJ</a>: interjection</li>
-
-  <li><a href="ud-pos/NOUN.html">NOUN</a>: noun</li>
-
-  <li><a href="ud-pos/NUM.html">NUM</a>: numeral</li>
-
-  <li><a href="ud-pos/PART.html">PART</a>: particle</li>
-
-  <li><a href="ud-pos/PRON.html">PRON</a>: pronoun</li>
-
-  <li><a href="ud-pos/PROPN.html">PROPN</a>: proper noun</li>
-
-  <li><a href="ud-pos/PUNCT.html">PUNCT</a>: punctuation</li>
-
-  <li><a href="ud-pos/SCONJ.html">SCONJ</a>: subordinating conjunction</li>
-
-  <li><a href="ud-pos/SYM.html">SYM</a>: symbol</li>
-
-  <li><a href="ud-pos/VERB.html">VERB</a>: verb</li>
-
-  <li><a href="ud-pos/X.html">X</a>: other</li>
-
+  <li><em>big</em></li>
+  <li><em>old</em></li>
+  <li><em>green</em></li>
+  <li><em>incomprehensible</em></li>
+  <li><em>first, second, third</em></li>
 </ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Adjective">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/ADJ.md" target="#">edit ADJ</a></p>
+
+<hr />
+
+<h2 id="adp-adposition">ADP: adposition</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>Adposition is a cover term for prepositions and postpositions. Adpositions belong to a closed set of items that
+occur before (preposition) or after (postposition) a complement composed of a noun phrase, noun, pronoun, or clause that functions as a noun phrase, and that form a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.</p>
+
+<p>In many languages, adpositions can take the form of fixed multiword expressions, such as <em>in spite of</em>, <em>because of</em>, <em>thanks to</em>. The component words are then still tagged according to their basic use (<em>in</em> is ADP, <em>spite</em> is NOUN, etc.) and their status as multiword expressions are accounted for in the syntactic annotation.</p>
+
+<p>Note that in Germanic languages, some prepositions may also function as verbal particles, as in <em>give <span style="color:red">in</span></em> or <em>hold <span style="color:red">on</span></em>. They are still tagged ADP and not PART.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>in</li>
+  <li>to</li>
+  <li>during</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdposition.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Preposition_and_postposition">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/ADP.md" target="#">edit ADP</a></p>
+
+<hr />
+
+<h2 id="adv-adverb">ADV: adverb</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p><strong>Adverbs</strong> are words that typically modify <a href="VERB.html">verbs</a> for such categories as time, place, direction or manner. They may also modify <a href="ADJ.html">adjectives</a> and other adverbs, as in <em><span style="color:red">very briefly</span></em> or <em><span style="color:red">arguably</span> wrong</em>.</p>
+
+<p>There is a closed subclass of <em>pronominal adverbs</em> that refer to circumstances in context, rather than naming them directly; similarly to pronouns, these can be categorized as interrogative, relative, demonstrative etc. Pronominal adverbs also get the ADV part-of-speech tag but they are differentiated by additional features.</p>
+
+<p>Note that in Germanic languages, some adverbs may also function as verbal particles, as in <em>write <span style="color:red">down</span></em> or <em>end <span style="color:red">up</span></em>. They are still tagged ADV and not <a href="PART.html">PART</a>.</p>
+
+<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adverbs in our universal tagging scheme. In particular, <em>adverbial ordinal numerals</em> ([cs] <em>poprvé</em> = for the first time) and <em>multiplicative numerals</em> (e.g. <em>once, twice</em>) behave syntactically as adverbs and are tagged ADV.</p>
+
+<p>Note that there are verb forms such as <em>transgressives</em> or <em>adverbial participles</em> that share properties and usage of adverbs and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or ADV.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>very</em></li>
+  <li><em>well</em></li>
+  <li><em>exactly</em></li>
+  <li><em>tomorrow</em></li>
+  <li><em>up, down</em></li>
+  <li>interrogative adverbs: <em>where, when, how, why</em></li>
+  <li>demonstrative adverbs: <em>here, there, now, then</em></li>
+  <li>indefinite adverbs: <em>somewhere, sometime, anywhere, anytime</em></li>
+  <li>totality adverbs: <em>everywhere, always</em></li>
+  <li>negative adverbs: <em>nowhere, never</em></li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdverbLinguistics.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Adverb">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/ADV.md" target="#">edit ADV</a></p>
+
+<hr />
+
+<h2 id="aux-auxiliary-verb">AUX: auxiliary verb</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, and voice.</p>
+
+<p>Note that not all languages have grammaticalized auxiliary verbs, and even where they exist the dividing line between full verbs and auxiliary verbs can be expected to vary between languages. Exactly which verbs are counted as AUX should be part of the language-specific documentation.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Tense auxiliaries: has (done), is (doing), will (do)</li>
+  <li>Passive auxiliaries: was (done), got (done)</li>
+  <li>Modal auxiliaries: should (do), must (do)</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Auxiliary_verb">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/AUX.md" target="#">edit AUX</a></p>
+
+<hr />
+
+<h2 id="conj-coordinating-conjunction">CONJ: coordinating conjunction</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A coordinating conjunction is a word that links words or larger constituents without syntactically subordinating one to the other and expresses a semantic relationship between them.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>and</li>
+  <li>or</li>
+  <li>but</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsACoordinatingConjunction.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a coordinating conjunction?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Conjunction_(grammar)">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/CONJ.md" target="#">edit CONJ</a></p>
+
+<hr />
+
+<h2 id="det-determiner">DET: determiner</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p><strong>Determiners</strong> are words that modify <a href="NOUN.html">nouns</a> or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.</p>
+
+<p>Note that the DET tag does not cover <em>quantifiers</em> (i.e. cardinal numbers and words like <em>many, few, several</em>), which are normally also included among determiners. Quantifiers have their own tag <a href="NUM.html">NUM</a>.</p>
+
+<p>Also note that the notion of determiners is unknown in grammars of some languages (e.g. Czech); words equivalent to English determiners may be traditionally classified as <a href="PRON.html">pronouns</a> and/or <a href="NUM.html">numerals</a> in these languages. In order to annotate the same thing same way across languages, the words satisfying our definition of determiners should be tagged DET in these languages as well.</p>
+
+<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <span style="color:red">this</span> yesterday.)</em> or determiner <em>(I saw <span style="color:red">this</span> car yesterday.)</em> Its Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in Czech grammar, regardless of context. To make the annotation parallel across languages, it should be now tagged PRON in <em>“<span style="color:red">Tohle</span> jsem viděl včera.”</em> and DET in <em>“<span style="color:red">Tohle</span> auto jsem viděl včera.”</em></p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>articles: <em>a, an, the</em></li>
+  <li>possessive determiners: <em>my, your, his, her, its, our, their</em></li>
+  <li>demonstrative determiners: <em>this</em> as in <em>“I saw <span style="color:red">this</span> car yesterday.”</em></li>
+  <li>interrogative determiners: <em>which</em> as in <em>“<span style="color:red">Which</span> car do you like?”</em></li>
+  <li>relative determiners: <em>which</em> as in <em>“I wonder <span style="color:red">which</span> car you like.”</em></li>
+  <li>indefinite determiners: <em>any</em></li>
+  <li>totality determiners: <em>all</em></li>
+  <li>negative determiners: <em>no</em> as in <em>“We have <span style="color:red">no</span> cars available.”</em></li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Determiner">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/DET.md" target="#">edit DET</a></p>
+
+<hr />
+
+<h2 id="intj-interjection">INTJ: interjection</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>An interjection is a word that is used most often as an exclamation or part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</p>
+
+<p>Not that words primarily belonging to another part of speech retains their original category when used in exclamations. For example, <em>God</em> is a NOUN even in exclamatory uses.</p>
+
+<p>As a special case of interjections, we recognize feedback particles such as <em>yes</em>, <em>no</em>, <em>uhuh</em>, etc.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>psst</li>
+  <li>ouch</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Interjection">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/INTJ.md" target="#">edit INTJ</a></p>
+
+<hr />
+
+<h2 id="noun-noun">NOUN: noun</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p><strong>Nouns</strong> are a part of speech typically denoting a person, place, thing, animal or idea.</p>
+
+<p>The NOUN tag is intended for common nouns only. See <a href="PROPN.html">PROPN</a> for proper nouns and <a href="PRON.html">PRON</a> for pronouns.</p>
+
+<p>Note that some verb forms such as <em>gerunds</em> and <em>infinitives</em> may share properties and usage of nouns and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or NOUN.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>girl</em></li>
+  <li><em>cat</em></li>
+  <li><em>tree</em></li>
+  <li><em>air</em></li>
+  <li><em>beauty</em></li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Noun">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/NOUN.md" target="#">edit NOUN</a></p>
+
+<hr />
+
+<h2 id="num-numeral">NUM: numeral</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A numeral is a word, functioning most typically as a determiner, adjective or pronoun, that expresses a number and a
+relation to the number, such as quantity, sequence, frequency or fraction.</p>
+
+<p>Note that cardinal numerals are covered by NUM whether they are used as determiners or not (as in <em>Windows <span style="color:red">Seven</span></em>) and whether they are expressed as words <em>(four)</em>, digits <em>(4)</em> or Roman numerals <em>(IV)</em>. Other words functioning as determiners (including quantifiers such as <em>many</em> and <em>few</em>) are tagged <a href="DET.html">DET</a>.</p>
+
+<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are not tagged NUM. Such non-cardinal numerals belong to other parts of speech in our universal tagging scheme, based mainly on syntactic criteria: ordinal numerals are <a href="ADJ.html">adjectives</a> <em>(first, second, third)</em> or <a href="ADV.html">adverbs</a> ([cs] <em>poprvé</em> = for the first time), multiplicative numerals are adverbs <em>(once, twice)</em> etc.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359</em></li>
+  <li><em>one, two, three, seventy-seven</em></li>
+  <li><em>I, II, III, IV, V, MMXIV</em></li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Numeral_%28linguistics%29">Wikipedia: Numeral</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/NUM.md" target="#">edit NUM</a></p>
+
+<hr />
+
+<h2 id="part-particle">PART: particle</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>Particles are function words that must be associated with another word or phrase to impart meaning and that encodes grammatical categories such as negation, mood, tense, or case. Particles are normally not inflected, although exceptions may occur. </p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Possessive marker (en): ‘s</li>
+  <li>Topic/case marker (jp): ga, wa</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Grammatical_particle">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/PART.md" target="#">edit PART</a></p>
+
+<hr />
+
+<h2 id="pron-pronoun">PRON: pronoun</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p><strong>Pronouns</strong> are words that substitute for <a href="NOUN.html">nouns</a> or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.</p>
+
+<p>Pronouns under this definition function like nouns. Note that some languages traditionally extend the term <em>pronoun</em> to words that substitute for <a href="ADJ.html">adjectives</a>. Such words are not tagged PRON under our universal scheme. They are tagged as <a href="DET.html">determiners</a> in order to annotate the same thing same way across languages.</p>
+
+<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <span style="color:red">this</span> yesterday.)</em> or determiner <em>(I saw <span style="color:red">this</span> car yesterday.)</em> Its Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in Czech grammar, regardless of context (the notion of determiners does not exist in Czech grammar). To make the annotation parallel across languages, it should be now tagged PRON in <em>“<span style="color:red">Tohle</span> jsem viděl včera.”</em> and DET in <em>“<span style="color:red">Tohle</span> auto jsem viděl včera.”</em></p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>personal pronouns: <em>I, you, he, she, it, we, they</em></li>
+  <li>reflexive pronouns: <em>myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves</em></li>
+  <li>demonstrative pronouns: <em>this</em> as in <em>I saw <span style="color:red">this</span> yesterday.</em></li>
+  <li>interrogative pronouns: <em>who, what</em> as in <em><span style="color:red">What</span> do you think?</em></li>
+  <li>relative pronouns: <em>who, what</em> as in <em>I wonder <span style="color:red">what</span> you think.</em></li>
+  <li>indefinite pronouns: <em>somebody, something, anybody, anything</em></li>
+  <li>totality pronouns: <em>everybody, everything</em></li>
+  <li>negative pronouns: <em>nobody, nothing</em></li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Pronoun">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/PRON.md" target="#">edit PRON</a></p>
+
+<hr />
+
+<h2 id="propn-proper-noun">PROPN: proper noun</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A proper noun is a noun that is the name of a specific individual, place, or object.</p>
+
+<p>Note that PNOUN is only used for the subclass of nouns that are used and names and that often exhibit special syntactic properties (such as occurring without an article in the singular in English). When other phrases or sentences are used as names, the component words retain their original tags. For example, in <em>Cat on a Hot Tin Roof</em>, <em>Cat</em> is NOUN, <em>on</em> is ADP, <em>a</em> is DET, etc.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Mary, John</li>
+  <li>London</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAProperNoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Proper_noun">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/PROPN.md" target="#">edit PROPN</a></p>
+
+<hr />
+
+<h2 id="punct-punctuation">PUNCT: punctuation</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>Punctuation marks are non-alphabetical characters and character groups used in many languages to delimit linguistic units in printed text.</p>
+
+<p>Punctuation is not taken to include logograms such as <em>$</em>, <em>%</em>, and <em>§</em>, which are instead tagged as SYM.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Period: .</li>
+  <li>Comma: ,</li>
+  <li>Parentheses: ()</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Punctuation">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/PUNCT.md" target="#">edit PUNCT</a></p>
+
+<hr />
+
+<h2 id="sconj-subordinating-conjunction">SCONJ: subordinating conjunction</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>that</li>
+  <li>if</li>
+  <li>while</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsASubordinatingConjunction.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a subordinating conjunction?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Conjunction_(grammar)">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/SCONJ.md" target="#">edit SCONJ</a></p>
+
+<hr />
+
+<h2 id="sym-symbol">SYM: symbol</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A symbol is a word-like entity that differs from ordinary words by form, function, or both.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>$, %, §</li>
+  <li>john.doe@universal.org</li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/SYM.md" target="#">edit SYM</a></p>
+
+<hr />
+
+<h2 id="verb-verb">VERB: verb</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause. Verbs are often associated with grammatical categories like tense, mood, aspect and voice, which can either be expressed inflectionally or using auxilliary verbs or particles.</p>
+
+<p>Note that <em>participles</em> are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either VERB or <a href="ADJ.html">ADJ</a>.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>run, eat</li>
+  <li>runs, ate</li>
+  <li>running, eating</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Verb">Wikipedia</a></li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/VERB.md" target="#">edit VERB</a></p>
+
+<hr />
+
+<h2 id="x-other">X: other</h2>
+
+<h3 id="definition">Definition</h3>
+
+<p>The tag X is used for words that for some reason cannot be assigned a real part-of-speech category. </p>
+
+<p>A special usage of X is for cases of code-switching where it is not possible (or meaningful) to analyze the intervening language grammatically (and where the dependency relation <em>foreign</em> is typically used in the syntactic analysis). 
+This usage does not extend to ordinary loan words which should be assigned a normal part-of-speech. For example, in <em>he put on a large sombrero</em>, <em>sombrero</em> is an ordinary NOUN.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>And then he just &lt;span style=color:red&gt;xfgh pdl jklw&lt;/span&gt;</li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-pos/X.md" target="#">edit X</a></p>
+
+<hr />
+
 
 
 <!-- "relation in other languages" links -->
