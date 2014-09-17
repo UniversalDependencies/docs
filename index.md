@@ -14,7 +14,7 @@ Universal Dependencies documentation:
 * [Format](format.html)
 * Morphology
   * [Tags](tags.html)
-    * Universal: [index page](ud-pos-index.html)
+    * Universal: [index page](ud-pos-index.html), [single document](ud-pos-all.html)
   * [Features](features.html)
     * Universal: [index page](ud-feat-index.html), [single document](ud-feat-all.html)
 * Syntax
