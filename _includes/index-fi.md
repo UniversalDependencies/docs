@@ -1,4 +1,3 @@
-* [Format](format.html)
 * Morphology
   * Finnish word and tokens definitions: TODO
   * Finnish POS tags: TODO
