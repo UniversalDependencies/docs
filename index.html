@@ -40,37 +40,83 @@
 Dependencies. <strong>Please note that these guidlines are currently
 under revision and should not be considered final.</strong> Our goal is to have a stable version 1 release by 2014-09-30.</p>
 
-<p>Universal Dependencies documentation:</p>
+<div class="jquery-ui-tabs">
 
+<!-- links to per-language sections, shown as tab labels -->
 <ul>
-  <li><a href="format.html">Format</a></li>
-  <li>Morphology
-    <ul>
-      <li><a href="tags.html">Tags</a>
-        <ul>
-          <li>Universal: <a href="ud-pos-index.html">index page</a>, <a href="ud-pos-all.html">single document</a></li>
-        </ul>
-      </li>
-      <li><a href="features.html">Features</a>
-        <ul>
-          <li>Universal: <a href="ud-feat-index.html">index page</a>, <a href="ud-feat-all.html">single document</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>Syntax
-    <ul>
-      <li><a href="structure.html">Structure</a></li>
-      <li><a href="relations.html">Relations</a>
-        <ul>
-          <li>Universal: <a href="ud-dep-index.html">index page</a>, <a href="ud-dep-all.html">single document</a></li>
-          <li>English: <a href="en-dep-index.html">index page</a>, <a href="en-dep-all.html">single document</a></li>
-          <li>Finnish: <a href="fi-dep-index.html">index page</a>, <a href="fi-dep-all.html">single document</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
+  <li><a href="#language-u">Universal</a></li>
+  <li><a href="#language-en">English</a></li>
+  <li><a href="#language-fi">Finnish</a></li>
+  <li><a href="#language-other">...</a></li>
 </ul>
+
+<!-- Universal section (source: _includes/index-u.md) -->
+<div id="language-u">
+    <ul>
+      <li><a href="format.html">Format</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="todo.html">General principles</a> (TODO: merge tags.html and features.html)</li>
+          <li><a href="ud-pos-index.html">Universal POS tags</a> (<a href="ud-pos-all.html">single document</a>)</li>
+          <li><a href="ud-feat-index.html">Universal features</a> (<a href="ud-feat-all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="structure.html">General principles</a></li>
+          <li><a href="ud-dep-index.html">Universal relations</a> (<a href="ud-dep-all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+
+<!-- English section (source: _includes/index-en.md) -->
+<div id="language-en">
+    <ul>
+      <li>Morphology
+        <ul>
+          <li>English word and token definitions: TODO</li>
+          <li>English POS tags: TODO</li>
+          <li>English features: TODO</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="en-dep-index.html">English relations</a> (<a href="en-dep-all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+
+<!-- Finnish section (source: _includes/index-fi.md) -->
+<div id="language-fi">
+    <ul>
+      <li><a href="format.html">Format</a></li>
+      <li>Morphology
+        <ul>
+          <li>Finnish word and tokens definitions: TODO</li>
+          <li>Finnish POS tags: TODO</li>
+          <li>Finnish features: TODO</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="fi-dep-index.html">Finnish relations</a> (<a href="fi-dep-all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+
+<div id="language-other">
+    <p>More languages to come.</p>
+  </div>
+
+</div>
+
+<hr />
 
 <p>Documentation for the documentation system:</p>
 
@@ -1344,6 +1390,9 @@ under revision and should not be considered final.</strong> Our goal is to have 
     };
 
     head.ready(function() {
+        // jQuery UI elements
+        $(".jquery-ui-tabs").tabs();
+
 	// performes all embedding and support functions
 	Annodoc.activate(Config.bratCollData, documentCollections);
     });

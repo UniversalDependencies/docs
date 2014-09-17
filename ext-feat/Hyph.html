@@ -1310,6 +1310,9 @@ adjectival morphological paradigm, but the first part is special.)</p>
     };
 
     head.ready(function() {
+        // jQuery UI elements
+        $(".jquery-ui-tabs").tabs();
+
 	// performes all embedding and support functions
 	Annodoc.activate(Config.bratCollData, documentCollections);
     });
