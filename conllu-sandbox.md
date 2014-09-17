@@ -225,7 +225,7 @@ Non-valid examples from "tools" test cases
 
 <div class="conllu-parse" tabs="yes">
 # not valid: feature names must have format '[A-Z0-9][a-zA-Z0-9]*'
-# (see http://universaldependencies.github.io/docs/features.html)
+# (see http://universaldependencies.github.io/docs/ud-feat-index.html)
 1	non-valid	non-valid	NOUN	SP	lower=Nonvalid	0	ROOT	_	_
 
 </div>
@@ -234,7 +234,7 @@ Non-valid examples from "tools" test cases
 
 <div class="conllu-parse" tabs="yes">
 # not valid: feature values must have format '[A-Z0-9][a-zA-Z0-9]*'
-# (see http://universaldependencies.github.io/docs/features.html)
+# (see http://universaldependencies.github.io/docs/ud-feat-index.html)
 1	non-valid	non-valid	NOUN	SP	Lower=nonvalid	0	ROOT	_	_
 
 </div>
@@ -251,7 +251,7 @@ Non-valid examples from "tools" test cases
 
 <div class="conllu-parse" tabs="yes">
 # not valid: features must be ordered alphabetically (ignoring case)
-# (see http://universaldependencies.github.io/docs/features.html)
+# (see http://universaldependencies.github.io/docs/ud-feat-index.html)
 1	non-valid	non-valid	NOUN	SP	XB=True|Xa=True	0	ROOT	_	_
 
 </div>

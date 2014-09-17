@@ -19,7 +19,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  3. LEMMA: Lemma or stem of word form.
  4. CPOSTAG: Google universal part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
- 6. FEATS: List of morphological features from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) or from a defined language-specific extension; underscore if not available.
+ 6. FEATS: List of morphological features from the [Universal feature inventory](http://universaldependencies.github.io/docs/ud-feat-index.html) or from a defined language-specific extension; underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).
  8. DEPREL: [Universal Stanford dependency relation](http://universaldependencies.github.io/docs/ud-dep-index.html) to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: List of secondary dependencies (head-deprel pairs).
