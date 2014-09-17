@@ -6,6 +6,10 @@ generated: 'true'
 
 # Universal features
 
+{% include feat-table.html %}
+
+----------
+
 {% for p in site.ud-feat %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
