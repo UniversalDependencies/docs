@@ -66,6 +66,8 @@ title:  'Features'
   </tr>
 </table>
 
+Single document with all features: [Universal features](ud-feat-all.html)
+
 ### General rules
 
 * There are two types of identifiers:
