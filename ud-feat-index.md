@@ -4,6 +4,10 @@ title:  'Universal features'
 generated: 'true'
 ---
 
+# Universal features
+
+{% include feat-table.html %}
+
 Alphabetical listing
 
 <ul>
