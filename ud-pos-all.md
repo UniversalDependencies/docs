@@ -4,7 +4,7 @@ title:  'Universal POS tags'
 generated: 'true'
 ---
 
-# Universal features
+# Universal POS tags
 
 {% include pos-table.html %}
 
