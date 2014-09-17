@@ -9,20 +9,38 @@ This is the online documentation and example bank for Universal
 Dependencies. **Please note that these guidlines are currently
 under revision and should not be considered final.** Our goal is to have a stable version 1 release by 2014-09-30.
 
-Universal Dependencies documentation:
+<div class="jquery-ui-tabs">
 
-* [Format](format.html)
-* Morphology
-  * [Tags](tags.html)
-    * Universal: [index page](ud-pos-index.html), [single document](ud-pos-all.html)
-  * [Features](features.html)
-    * Universal: [index page](ud-feat-index.html), [single document](ud-feat-all.html)
-* Syntax
-  * [Structure](structure.html)
-  * [Relations](relations.html)
-    * Universal: [index page](ud-dep-index.html), [single document](ud-dep-all.html)
-    * English: [index page](en-dep-index.html), [single document](en-dep-all.html)
-    * Finnish: [index page](fi-dep-index.html), [single document](fi-dep-all.html)
+<!-- links to per-language sections, shown as tab labels -->
+<ul>
+  <li><a href="#language-u">Universal</a></li>
+  <li><a href="#language-en">English</a></li>
+  <li><a href="#language-fi">Finnish</a></li>
+  <li><a href="#language-other">...</a></li>
+</ul>
+
+<!-- Universal section (source: _includes/index-u.md) -->
+<div id="language-u" markdown="1">
+{% include index-u.md %}
+</div>
+
+<!-- English section (source: _includes/index-en.md) -->
+<div id="language-en" markdown="1">
+{% include index-en.md %}
+</div>
+
+<!-- Finnish section (source: _includes/index-fi.md) -->
+<div id="language-fi" markdown="1">
+{% include index-fi.md %}
+</div>
+
+<div id="language-other" markdown="1">
+More languages to come.
+</div>
+
+</div>
+
+----------------------------------------
 
 Documentation for the documentation system:
 

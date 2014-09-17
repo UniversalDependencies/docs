@@ -435,3 +435,6 @@ table.category td {
   border: none;
 }
 
+.jquery-ui-tabs > div {
+  font-size: 120%;
+}
