@@ -18,4 +18,7 @@ generated: 'true'
 {{ p.content }}
 {% endif %}
 <a href="{{ site.git_edit }}/_ud-feat/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
+
+----------
+
 {% endfor %}
