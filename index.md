@@ -42,8 +42,4 @@ More languages to come.
 
 ----------------------------------------
 
-Documentation for the documentation system:
-
-* [Documentation introduction](doc-intro.html)
-* [Contributing](contributing.html)
-* [Embedding visualizations](embedsd.html)
+[How to contribute](contributing.html)
