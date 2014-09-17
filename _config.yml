@@ -18,6 +18,8 @@ collections:
     output: true
   ud-feat:
     output: true
+  ext-feat:
+    output: true
   en-dep:
     output: true
   fi-dep:
