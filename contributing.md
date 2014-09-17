@@ -20,6 +20,9 @@ Contents:
 
 ## Preliminaries
 
+Before starting, you may want to have a quick look at the
+[documentation and visualization system introduction](visualization.html).
+
 The online documentation is stored in GitHub, a service for projects
 using the Git version control system. To contribute, you need a GitHub
 account.
@@ -109,7 +112,7 @@ the following link: [ud-dep/aux]()
 
 For more detail, you can see the documentation for the [Markdown
 syntax](http://daringfireball.net/projects/markdown/syntax) and
-[embedded visualizations](embedsd.html). However, we believe that the
+[embedded visualizations](visualization.html). However, we believe that the
 formats are simple enough to learn by example and by doing, and
 suggest to proceed directly to the next section (editing).
 
