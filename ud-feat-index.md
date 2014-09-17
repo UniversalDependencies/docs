@@ -6,10 +6,12 @@ generated: 'true'
 
 # Universal features
 
-Alphabetical listing
-
-<ul>
 {% for p in site.ud-feat %}
-  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
+{% if p.content contains "<!--details-->" %}    
+{{ p.content | split:"<!--details-->" | first }}
+<a href="{{ p.url | remove_first:'/' }}">See details</a>
+{% else %}
+{{ p.content }}
+{% endif %}
+<a href="{{ site.git_edit }}/_ud-feat/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
 {% endfor %}
-</ul>
