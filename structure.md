@@ -3,9 +3,7 @@ layout: base
 title:  'Structure'
 ---
 
-# Structure
-
-## Dependency Structure: General Principles
+# Dependency Structure: General Principles
 
 The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
 
