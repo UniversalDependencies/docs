@@ -20,7 +20,7 @@ title:  'Morphology'
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. NumType).
-  This makes features distinct from the <a href="tags.html">core part-of-speech tags</a> (all uppercase)
+  This makes features distinct from the <a href="ud-pos-index.html">core part-of-speech tags</a> (all uppercase)
   and from the <a href="relations.html">dependency relation labels</a> (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: PronType=Prs.
