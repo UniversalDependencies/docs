@@ -23,172 +23,172 @@ human vs. non-human animates. It can be demonstrated by inflection of
 the example word <I>który</I>
 (which) (boldface forms differ from the middle row):
 
-<TABLE WIDTH=643 CELLPADDING=2 CELLSPACING=0>
-	<TR>
-		<TD WIDTH=49>
-			<FONT SIZE=2>gender </FONT>
-		</TD>
-		<TD WIDTH=44>
-			<FONT SIZE=2>sg-nom </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>sg-gen </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>sg-dat </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>sg-acc </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>sg-ins </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>sg-loc </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>pl-nom </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>pl-gen </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>pl-dat </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>pl-acc </FONT>
-		</TD>
-		<TD WIDTH=47>
-			<FONT SIZE=2>pl-ins </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>pl-loc </FONT>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=49>
-			<FONT SIZE=2>animate human </FONT>
-		</TD>
-		<TD WIDTH=44>
-			<FONT SIZE=2>który </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>którego </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>któremu </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>którego </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<STRONG><FONT SIZE=2>którzy</FONT></STRONG><FONT SIZE=2> </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<STRONG><FONT SIZE=2>których</FONT></STRONG><FONT SIZE=2> </FONT>
-		</TD>
-		<TD WIDTH=47>
-			<FONT SIZE=2>którymi </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których </FONT>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=49>
-			<FONT SIZE=2>animate non-human </FONT>
-		</TD>
-		<TD WIDTH=44>
-			<FONT SIZE=2>który </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>którego </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>któremu </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>którego </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>które </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>które </FONT>
-		</TD>
-		<TD WIDTH=47>
-			<FONT SIZE=2>którymi </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których </FONT>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=49>
-			<FONT SIZE=2>in-animate </FONT>
-		</TD>
-		<TD WIDTH=44>
-			<FONT SIZE=2>który </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>którego </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>któremu </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<STRONG><FONT SIZE=2>który</FONT></STRONG><FONT SIZE=2> </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>które </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których </FONT>
-		</TD>
-		<TD WIDTH=43>
-			<FONT SIZE=2>którym </FONT>
-		</TD>
-		<TD WIDTH=49>
-			<FONT SIZE=2>które </FONT>
-		</TD>
-		<TD WIDTH=47>
-			<FONT SIZE=2>którymi </FONT>
-		</TD>
-		<TD WIDTH=45>
-			<FONT SIZE=2>których</FONT>
-		</TD>
-	</TR>
-</TABLE>
+<table width="643" cellpadding="2" cellspacing="0">
+  <tr>
+    <td>
+      gender
+    </td>
+    <td>
+      sg-nom
+    </td>
+    <td>
+      sg-gen
+    </td>
+    <td>
+      sg-dat
+    </td>
+    <td>
+      sg-acc
+    </td>
+    <td>
+      sg-ins
+    </td>
+    <td>
+      sg-loc
+    </td>
+    <td>
+      pl-nom
+    </td>
+    <td>
+      pl-gen
+    </td>
+    <td>
+      pl-dat
+    </td>
+    <td>
+      pl-acc
+    </td>
+    <td>
+      pl-ins
+    </td>
+    <td>
+      pl-loc
+    </td>
+  </tr>
+  <tr>
+    <td>
+      animate human
+    </td>
+    <td>
+      który
+    </td>
+    <td>
+      którego
+    </td>
+    <td>
+      któremu
+    </td>
+    <td>
+      którego
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      <strong>którzy</strong>
+    </td>
+    <td>
+      których
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      <strong>których</strong>
+    </td>
+    <td>
+      którymi
+    </td>
+    <td>
+      których
+    </td>
+  </tr>
+  <tr>
+    <td>
+      animate non-human
+    </td>
+    <td>
+      który
+    </td>
+    <td>
+      którego
+    </td>
+    <td>
+      któremu
+    </td>
+    <td>
+      którego
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      które
+    </td>
+    <td>
+      których
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      które
+    </td>
+    <td>
+      którymi
+    </td>
+    <td>
+      których
+    </td>
+  </tr>
+  <tr>
+    <td>
+      in-animate
+    </td>
+    <td>
+      który
+    </td>
+    <td>
+      którego
+    </td>
+    <td>
+      któremu
+    </td>
+    <td>
+      <strong>który</strong>
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      które
+    </td>
+    <td>
+      których
+    </td>
+    <td>
+      którym
+    </td>
+    <td>
+      które
+    </td>
+    <td>
+      którymi
+    </td>
+    <td>
+      których
+    </td>
+  </tr>
+</table>
 
 ### Anim: animate
 
