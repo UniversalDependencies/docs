@@ -7,79 +7,83 @@ shortdef: 'numeral type'
 ## {{ page.title }}: {{ page.shortdef }}
 
 Some languages (especially Slavic) have a complex system of
-numerals. The main part of speech is "numeral" (at least in the school
-grammar of Czech), it includes almost everything where counting is
+<a href="../ud-pos/NUM.html">numerals</a>.
+For example, in the school grammar of Czech, the main part of speech
+is “numeral”, it includes almost everything where counting is
 involved and there are various subtypes. It also includes
 interrogative, relative, indefinite and demonstrative words referring
-to numbers, so at the same time we may have a non-empty value of
-prontype. From the syntactic point of view, some numtypes behave like
-adjectives and some behave like adverbs. So I am inclined to reserve
-the main POS "NUM" for cardinal numbers only (we have not fixed the
-definition of "NUM" yet, have we?) and distribute the rest to other
-parts of speech. Thus the "NumType" feature would apply to (at least)
-numerals, adjectives and adverbs.
+to numbers (words like _kolik / how many, tolik / so many, několik / some, a few),_
+, so at the same time we may have a non-empty value of
+prontype. (In English, these words are called quantifiers and they are
+considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.
+
+From the syntactic point of view, some numtypes behave like
+adjectives and some behave like adverbs. We tag them <a href="../ud-pos/ADJ.html">ADJ</a>
+and <a href="../ud-pos/ADV.html">ADV</a> respectively.
+Thus the {{ page.title }} feature applies to several different parts of speech:
+
+* <a href="NUM.html">NUM</a>: cardinal numerals
+* <a href="DET.html">DET</a>: quantifiers
+* <a href="ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals
+* <a href="ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
+
+Note that {{ page.title }} is orthogonal to <a href="PronType.html">PronType</a>
+and that there are words that have both these features set.
 
 ### Card: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 Note that in some Indo-European languages there is a fuzzy borderline
-between numerals and nouns for "thousand", "million" and "billion".
+between numerals and nouns for _thousand, million_ and _billion._
 
-English examples: one, two, three
-
-Czech examples: jeden, dva, tři; kolik (how many), několik (some),
-tolik (so many), mnoho (many), málo (few)
+Examples: [en] _one, two, three;_ [cs] _jeden, dva, tři; kolik_ (how many), _několik_ (some),
+_tolik_ (so many), _mnoho_ (many), _málo_ (few)_
 
 ### Ord: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is either subtype of adjective, or (in some languages) of adverb.
 
-English examples: first, second, third
-
-Czech adjectival examples: první (first), druhý (second), třetí
-(third); kolikátý ("how manieth" = which rank), několikátý (some
-rank), tolikátý (this/that rank)
-
-Czech adverbial examples: poprvé (for the first time), podruhé (for
-the second time), potřetí (for the third time); pokolikáté (for which
-time), poněkolikáté (for x-th time), potolikáté
+Examples: [en] _first, second, third;_ [cs] adjectival: _první_ (first), _druhý_ (second), _třetí_
+(third); _kolikátý_ (“how manieth” = which rank), _několikátý_ (some
+rank), _tolikátý_ (this/that rank); [cs] adverbial: _poprvé_ (for the first time), _podruhé_ (for
+the second time), _potřetí_ (for the third time); _pokolikáté_ (for which
+time), _poněkolikáté_ (for x-th time), _potolikáté_
 
 ### Mult: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is subtype of adverb.
 
-Czech examples: jednou (once), dvakrát (twice), třikrát (three times);
-kolikrát (how many times), několikrát (several times), tolikrát (so
+Examples: [cs] _jednou_ (once), _dvakrát_ (twice), _třikrát_ (three times);
+_kolikrát_ (how many times), _několikrát_ (several times), _tolikrát_ (so
 many times)
 
 ### Frac: fraction
 
-This is a subtype of cardinal numbers, rarely distinguished. It is
-tagged in PDT (Czech) and I also found something of this sort in
-Hungarian. In Czech there is a fuzzy borderline with nouns and most of
-the Czech examples behave morphologically and syntactically as nouns.
+This is a subtype of cardinal numbers, occasionally distinguished in corpora.
+It may denote a fraction or just the denominator of the fraction.
+In various languages these words may behave morphologically and syntactically
+as nouns or ordinal numerals.
 
-Czech examples: půl / polovina (half), třetina (one third), čtvrt / čtvrtina (quarter)
+Examples: [en] _three-quarters;_ [cs] _půl / polovina_ (half), _třetina_ (one third), _čtvrt / čtvrtina_ (quarter)
 
 ### Sets: number of sets of things
 
 Morphologically distinct class of numerals used to count sets of
-things, or nouns that are pluralia tantum. In Czech school grammars
-this is often included in a broader class of generic numerals, see
-below.  I have seen it tagged so far only in Czech, although I suspect
-that other Slavic languages could have something similar too.
+things, or nouns that are pluralia tantum.
 
-Czech examples: dvoje / troje boty (two / three [pairs of] shoes); as opposed to normal cardinal numbers: dvě / tři boty (two / three shoes)
+Examples: [cs] _<span style='color:red'>dvoje</span> / <span style='color:red'>troje</span> boty_ (two / three [pairs of] shoes); as opposed to normal cardinal numbers: _dvě / tři boty_ (two / three shoes)
 
 ### Dist: distributive numeral
 
-Hungarian example: három-három in "gyermekenként három-három ezer
-forinttal" (three thousand forint per child)
+Used to express that the same quantity is distributed to each member in a set of targets.
+
+Examples: [hu] _három-három_ in _gyermekenként <span style='color:red'>három-három</span> ezer
+forinttal_ (three thousand forint per child)
 
 ### Range: range of values
 
-This could be considered a subtype of "card". I saw it in Turkish
-CoNLL data but there is nothing specifically Turkish about
-it. "two-five" (two to five) is an example – provided tokenization
+This could be considered a subtype of cardinal numbers, occasionally distinguished in corpora.
+
+Examples: [en] _two-five_ (two to five) – provided tokenization
 leaves it as one token.
 
 ### Gen: generic numeral, i.e. a numeral that is neither of the above
@@ -87,10 +91,11 @@ leaves it as one token.
 Czech school grammar distinguishes this subclass, which is why it
 appears in Czech tagsets. Other Slavic languages may have similar
 words but their traditional classification may differ. (Note that
-"generic numerals" in Czech grammar also include the "sets" subclass
+“generic numerals” in Czech grammar also include the `Sets` subclass
 mentioned above.)
 
-Czech examples: čtvero, patero, desatero (specific forms of four,
-five, ten; possibly could be translated as quartet, quintet...?);
-dvojí, trojí, čtverý (twofold, threefold, fourfold; these are
+Examples: [cs] _<span style='color:red'>čtvero, patero, desatero</span>_ (specific forms of four,
+five, ten; they are morphologically and syntactically distinct from the default
+forms _čtyři, pět, deset_);
+_<span style='color:red'>dvojí, trojí, čtverý</span>_ (twofold, threefold, fourfold; these are
 morphologically and syntactically adjectives).
