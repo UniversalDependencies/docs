@@ -94,7 +94,7 @@ in contrast to the _word indexing_ scheme used as the offical treebank represent
 # Morphological Annotation
 
 The CPOSTAG field contains a part-of-speech tag from the [Universal POS tag](http://universaldependencies.github.io/docs/ud-pos-index.html) set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
-and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words. POSTAG values other than underscore must have the form `[A-Z]+`.
+and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words.
 
 The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
