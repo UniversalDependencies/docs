@@ -10,10 +10,13 @@ shortdef: 'particle'
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that encodes grammatical categories such as negation, mood, tense, or case. Particles are normally not inflected, although exceptions may occur. 
 
+Note that the {{ page.title }} tag does not cover so-called _verbal particles_ in Germanic languages, as in _give <span style='color:red'>in</span>_ or _end <span style='color:red'>up</span>_. These are adpositions or adverbs by origin and are tagged accordingly <a href="ADP.html">ADP</a> or <a href="ADV.html">ADV</a>.
+
 ### Examples
 
- - Possessive marker (en): 's
- - Topic/case marker (jp): ga, wa
+ - Negation [en]: _not_
+ - Possessive marker [en]: _'s_
+ - Topic/case marker [ja]: _ga, wa_
 
 ### References
 
