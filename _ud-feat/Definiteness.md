@@ -10,7 +10,7 @@ Definiteness is
 typically a feature of nouns, adjectives and articles. Its value
 distinguishes whether we are talking about something known and
 concrete, or something general or unknown. It can be marked on
-definite and indefinite articles, or directly on nouns, adjectives
+definite and indefinite <a href="../ud-pos/DET.html">articles</a>, or directly on <a href="../ud-pos/NOUN.html">nouns</a>, <a href="../ud-pos/ADJ.html">adjectives</a>
 etc. In Arabic, definiteness is also called
 the &ldquo;state&rdquo;.
 
