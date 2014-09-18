@@ -8,7 +8,7 @@ shortdef: 'aspect'
 
 Aspect is a feature
 that specifies duration of the action in time, whether the action has
-been completed etc. In some languages (e.g. English), some tenses are
+been completed etc. In some languages (e.g. English), some <a href="Tense.html">tenses</a> are
 actually combinations of tense and aspect. In other languages (e.g.
 Czech), aspect and tense are separate, although not completely
 independent of each other.
@@ -19,9 +19,9 @@ of imperfective and perfective verbs exist and are often
 morphologically related but the space is highly irregular and the
 verbs are considered to belong to separate lemmas.
 
-Since we proceed bottom-up, the current proposal
-covers only a few aspect values that occurred as features in
-the corpora we have studied. See Wikipedia
+Since we proceed bottom-up, the current standard
+covers only a few aspect values found in corpora.
+See Wikipedia
 (<A HREF="http://en.wikipedia.org/wiki/Grammatical_aspect">http://en.wikipedia.org/wiki/Grammatical_aspect</A>)
 for a long list of other possible aspects.
 
