@@ -6,7 +6,7 @@ shortdef: 'reflexive'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Boolean feature, typically of [pronouns](ud-pos/PRON) or [determiners](ud-pos/DET).
+Boolean feature, typically of [pronouns](../ud-pos/PRON) or [determiners](../ud-pos/DET).
 It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 While many tagsets would have “reflexive” as one of the various pronoun types,
