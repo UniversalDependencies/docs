@@ -17,7 +17,7 @@ is less productive than in Czech <I>(wise
 &ndash; unwise, probable &ndash; improbable)</I>.
 
 Note that `Negativeness=Neg` is not the
-same thing as `<a href="PronType.html">PronType</a>=Neg`. For pronouns and other pronominal parts
+same thing as <tt><a href="PronType.html">PronType</a>=Neg</tt>. For pronouns and other pronominal parts
 of speech there is no such binary opposition as for verbs and
 adjectives. (There is no such thing as &ldquo;affirmative pronoun&rdquo;.)
 
