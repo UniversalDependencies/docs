@@ -331,19 +331,13 @@ ten minutes).
 ### Ess: essive / prolative
 
 The essive case expresses a temporary
-state, often it corresponds to English &ldquo;as a &hellip;&rdquo; A
-similar case in Basque is called prolative and I suggest to tag it
-&ldquo;Ess&rdquo; too.
+state, often it corresponds to English &ldquo;as a &hellip;&rdquo;
+A similar case in Basque is called prolative and it should be tagged `Ess` too.
 
-Examples: [fi]
-<I>lapsi</I>
-= child; <span style='color: red'><I>lapsena</I></span>
-= as a child / when he was child; [et]
-<I>laps</I>
-= child; <I>lapsena</I>
-= as a child; [eu] <I>erreformista</I>
-= reformer; <span style='color: red'><I>erreformistatzat</I></span>
-= as a reformer.
+Examples:
+[fi] <I>lapsi</I> = child; <span style='color: red'><I>lapsena</I></span> = as a child / when he was child;
+[et] <I>laps</I> = child; <I><span style='color:red'>lapsena</span></I> = as a child;
+[eu] <I>erreformista</I> = reformer; <span style='color: red'><I>erreformistatzat</I></span> = as a reformer.
 
 ### Tra: translative / factive
 
@@ -672,7 +666,7 @@ Noun
 in this case is the cause of something. In
 Hungarian it also seems to be used frequently with currency (&ldquo;to
 buy something <I>for</I>
-the money?&rdquo;)
+the money&rdquo;)
 
 Examples:
 [hu]
