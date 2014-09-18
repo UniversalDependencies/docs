@@ -28,7 +28,7 @@ A dual noun denotes two persons, animals or things.
 
 Examples:
 [sl] singular <I>glas</I> (voice), dual <I><span style='color:red'>glasova</span></I> (voices), plural <I>glasovi</I> (voices);
-[ar] singular سَنَةٌ <I>sanatun</I> (year), dual <span style='color:red'>سَنَتَانِ <I>sanatāni</I></span> (years), plural سِنُونَ <I>sinūna</I> (years).
+[ar] singular سَنَةٌ <I>sanatun</I> (year), dual <span style='color:red'>سَنَتَانِ <I>sanatāni</I></span> (years), plural سِنُونَ <I>sinūna</I> (years).
 
 ### Ptan: plurale tantum
 
