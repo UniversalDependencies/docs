@@ -7,8 +7,8 @@ shortdef: 'degree of comparison'
 ## {{ page.title }}: {{ page.shortdef }}
 
 Degree
-of comparison is typically an inflectional feature of some adjectives
-and adverbs.
+of comparison is typically an inflectional feature of some <a href="../ud-pos/ADJ.html">adjectives</a>
+and <a href="../ud-pos/ADV.html">adverbs</a>.
 
 ### Pos: positive, first degree
 
