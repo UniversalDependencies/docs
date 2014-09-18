@@ -7,9 +7,9 @@ shortdef: 'case'
 ## {{ page.title }}: {{ page.shortdef }}
 
 Case is usually inflectional feature of
-nouns and, depending on language, other parts of speech (adjectives,
-numerals) that mark agreement with nouns. In some tagsets it is also
-valency feature of adpositions (saying that the adposition requires
+<a href="../ud-pos/NOUN.html">nouns</a> and, depending on language, other parts of speech (<a href="../ud-pos/ADJ.html">adjectives</a>,
+<a href="../ud-pos/NUM.html">numerals</a>) that mark agreement with nouns. In some tagsets it is also
+valency feature of <a href="../ud-pos/ADP.html">adpositions</a> (saying that the adposition requires
 its argument to be in that case).
 
 Case helps specify the role of the noun
@@ -25,7 +25,7 @@ bound morphemes (affixes). Note that on a higher level case can be
 understood more broadly as <I>the role,</I> and it can be also
 expressed by adding an adposition to the noun. What is expressed by
 affixes in one language can be expressed using adpositions in another
-language. Cf. the &ldquo;case&rdquo; dependency label.
+language. Cf. the [ud-dep/case]() dependency label.
 
 Examples: [cs] nominative <I>matka</I>
 (mother), genitive <I>matky</I>,
@@ -143,7 +143,7 @@ suffix gets separated from the noun during tokenization.
 
 Note that
 despite considerable semantic overlap, the genitive case is not the
-same as the feature of possessivity (Poss). Possessivity is a lexical
+same as the feature of possessivity ([Poss]()). Possessivity is a lexical
 feature, i.e. it applies to lemma and its whole paradigm. Genitive is
 a feature of just a subset of word forms of the lemma. Semantics
 of possessivity is much more clearly defined while the genitive (as
@@ -188,7 +188,7 @@ erregimena</I> (dictator's regime;
 The vocative
 case is a special form of noun used
 to address someone. Thus it predominantly appears with animate nouns
-(see the feature of animateness). Nevertheless this is not a
+(see the feature of [Animacy]()). Nevertheless this is not a
 grammatical restriction and inanimate
 things can be addressed as well.
 
@@ -257,7 +257,7 @@ A semantically
 similar case called instructive is used
 rarely in Finnish to express &ldquo;with (the aid of)&rdquo;. It
 can be applied to infinitives that behave much like nouns in Finnish.
-We currently propose one label for both instrumental and instructive
+We propose one label for both instrumental and instructive
 (instrumental is not defined in Finnish).
 
 Examples: [fi]
