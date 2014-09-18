@@ -1,5 +1,5 @@
 * [Format](format.html)
-* Words
+* Tokenization
   * General principles: TODO (separate from [format.html](format.html))
 * Morphology
   * [General principles](morphology.html)
