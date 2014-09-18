@@ -1362,9 +1362,10 @@ is “numeral”, it includes almost everything where counting is
 involved and there are various subtypes. It also includes
 interrogative, relative, indefinite and demonstrative words referring
 to numbers (words like <em>kolik / how many, tolik / so many, několik / some, a few),</em>
-, so at the same time we may have a non-empty value of
-prontype. (In English, these words are called quantifiers and they are
-considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.</p>
+so at the same time we may have a non-empty value of
+<a href="PronType.html">PronType</a>.
+(In English, these words are called quantifiers and they are
+considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.)</p>
 
 <p>From the syntactic point of view, some numtypes behave like
 adjectives and some behave like adverbs. We tag them <a href="../ud-pos/ADJ.html">ADJ</a>
@@ -1372,14 +1373,11 @@ and <a href="../ud-pos/ADV.html">ADV</a> respectively.
 Thus the NumType feature applies to several different parts of speech:</p>
 
 <ul>
-  <li><a href="NUM.html">NUM</a>: cardinal numerals</li>
-  <li><a href="DET.html">DET</a>: quantifiers</li>
-  <li><a href="ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals</li>
-  <li><a href="ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal</li>
+  <li><a href="../ud-pos/NUM.html">NUM</a>: cardinal numerals</li>
+  <li><a href="../ud-pos/DET.html">DET</a>: quantifiers</li>
+  <li><a href="../ud-pos/ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals</li>
+  <li><a href="../ud-pos/ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal</li>
 </ul>
-
-<p>Note that NumType is orthogonal to <a href="PronType.html">PronType</a>
-and that there are words that have both these features set.</p>
 
 <h3 id="card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word">Card: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
 
@@ -1446,7 +1444,7 @@ words but their traditional classification may differ. (Note that
 mentioned above.)</p>
 
 <p>Examples: [cs] <em><span style="color:red">čtvero, patero, desatero</span></em> (specific forms of four,
-five, ten; they are morphologically and syntactically distinct from the default
+five, ten; they are morphologically, syntactically and stylistically distinct from the default
 forms <em>čtyři, pět, deset</em>);
 <em><span style="color:red">dvojí, trojí, čtverý</span></em> (twofold, threefold, fourfold; these are
 morphologically and syntactically adjectives).</p>
