@@ -1621,232 +1621,6 @@ means that empty value has the “no” meaning.) </p>
 
 <hr />
 
-<h2 id="possgender-possessors-gender">PossGender: possessor’s gender</h2>
-
-<p>Possessive
-adjectives and pronouns may have two different genders: that of the
-possessed object (gender agreement with modified noun) and that of
-the possessor (lexical feature, inherent gender). The PossGender
-feature captures the possessor’s gender. For simplicity, the set of
-possible values is identical to Gender, although only a subset has
-been observed in corpora so far.</p>
-
-<p>In
-the Czech examples below, the masculine PossGender implies using one
-of the suffixes <i>-</i><i>ův, -ova, -ovo,</i>
-and the feminine PossGender implies using one of <i>-</i><i>in,
--ina, -ino</i>.</p>
-
-<h3 id="masc-masculine-possessor">Masc: masculine possessor</h3>
-
-<p>Examples:
-[cs]
-<span style="color: red"><i>otcův
-syn</i></span>
-(father’s
-son; PossGender=Masc|Gender=Masc);
-<span style="color: red"><i>otcova
-dcera</i></span>
-(father’s
-daughter; PossGender=Masc|Gender=Fem);
-<span style="color: red"><i>otcovo
-dítě</i></span>
-(father’s
-child; PossGender=Masc|Gender=Neut).</p>
-
-<h3 id="fem-feminine-possessor">Fem: feminine possessor</h3>
-
-<p>Examples:
-[cs]
-<span style="color: red"><i>m</i></span><span style="color: red"><i>atčin
-syn</i></span>
-(mother’s
-son; PossGender=Fem|Gender=Masc);
-<span style="color: red"><i>matčina
-dcera</i></span>
-(mother’s
-daughter; PossGender=Fem|Gender=Fem);
-<span style="color: red"><i>matčino
-dítě</i></span>
-(mother’s
-child; PossGender=Fem|Gender=Neut).</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/PossGender.md" target="#">edit PossGender</a></p>
-
-<hr />
-
-<h2 id="possnumber-possessors-number">PossNumber: possessor’s number</h2>
-
-<p>Possessives
-may have two different numbers: that of the possessed object (number
-agreement with modified noun) and that of the possessor. The
-PossNumber feature captures the possessor’s number. For simplicity,
-the set of possible values is identical to Number, although only a
-subset has been observed in corpora so far.</p>
-
-<h3 id="sing-singular-possessor">Sing: singular possessor</h3>
-
-<p>Examples:
-[en]
-<span style="color: red"><i>my,
-his</i></span><span style="color: red"><i>,
-her, its</i></span>;
-[cs]
-<span style="color: red"><i>můj</i></span><i>
-pes</i>
-(my
-dog; PossNumber=Sing|Number=Sing); <span style="color: red"><i>mí</i></span><i>
-psi</i>
-(my
-dogs; PossNumber=Sing|Number=Plur).</p>
-
-<h3 id="plur-plural-possessor">Plur: plural possessor</h3>
-
-<p>Examples:
-[en]
-<span style="color: red"><i>our,
-t</i></span><span style="color: red"><i>heir</i></span>;
-[cs]
-<span style="color: red"><i>náš</i></span><i>
-pes</i>
-(our
-dog; PossNumber=Plur|Number=Sing); <span style="color: red"><i>naši</i></span><i>
-psi</i>
-(our
-dogs; PossNumber=Plur|Number=Plur).</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/PossNumber.md" target="#">edit PossNumber</a></p>
-
-<hr />
-
-<h2 id="possperson-possessors-person">PossPerson: possessor’s person</h2>
-
-<p>PossPerson
-is possessor’s person, marked e.g. on Hungarian nouns. These noun
-forms would be translated to English as possessive pronoun + noun.</p>
-
-<p>Note
-that there is currently a sort of inconsitency in Interset: since
-this feature was introduced, it would be logical to use it also for
-possessive pronouns in other languages. Yet the possessor’s person of
-these pronouns is traditionally captured in the “Person”
-feature. Also note that using PossPerson for possessive pronouns
-might introduce inconsistency at the other end because in some
-languages, possessive pronouns are actually identical to personal
-pronouns in the genitive case.</p>
-
-<h3 id="first-person-possessor">1: first person possessor</h3>
-
-<p>Examples:
-[hu]
-<i>kutya</i>
-= dog;
-<span style="color: red"><i>kutyám</i></span>
-=
-my dog;
-<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>nk</i></span>
-=
-our dog.</p>
-
-<h3 id="second-person-possessor">2: second person possessor</h3>
-
-<p>Examples:
-[hu]
-<i>kutya</i>
-= dog;
-<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>d</i></span>
-=
-your.Sing dog;
-<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>tok</i></span>
-=
-your.Plur dog.</p>
-
-<h3 id="third-person-possessor">3: third person possessor</h3>
-
-<p>Examples:
-[hu]
-<i>kutya</i>
-= dog;
-<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>ja</i></span>
-=
-his/her/its dog;
-<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>juk</i></span>
-=
-their dog.</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/PossPerson.md" target="#">edit PossPerson</a></p>
-
-<hr />
-
-<h2 id="possednumber-possessed-objects-number">PossedNumber: possessed object’s number</h2>
-
-<h2 id="possednumber">PossedNumber</h2>
-
-<p>PossedNumber
-is the possessee’s (possessed, owned noun phrase’s) number. In
-Hungarian, possession can be marked on the possessor or on the
-possessed. It is possible, though rare, that a noun has three
-distinct number features: its own grammatical number, number of its
-possessor and number of its possession. Examples from the
-Multext-East Hungarian lexicon:</p>
-
-<ul>
-  <li><i>könnyedén</i> (SSS)
-    <ul>
-      <li><i>könny</i> = a tear (singular)</li>
-      <li><i>könnyed</i> = your tear (singular owner)</li>
-      <li><i>könnyedé</i> = (possession) of your tear (singular possession)</li>
-      <li><i>könnyedén</i> = (on the possession) of your tear (superessive case)</li>
-    </ul>
-  </li>
-  <li><i>ellenfeleié</i> (PSS)
-    <ul>
-      <li><i>ellenfél</i> = an opponent (singular)</li>
-      <li><i>ellenfele</i> = his/her/its opponent (singular owner)</li>
-      <li><i>ellenfelei</i> = his/her/its opponents (core plural, singular owner)</li>
-      <li><i>ellenfeleié</i> = (possession) of his/her/its opponents (singular possession)</li>
-    </ul>
-  </li>
-  <li><i>életeké</i> (SPS)
-    <ul>
-      <li><i>él</i> = point (singular)</li>
-      <li><i>élek</i> = points (plural)</li>
-      <li><i>élén</i> = his/her/its point (singular owner)</li>
-      <li><i>élünk</i> = our point (plural owner)</li>
-      <li><i>életeké</i> = (possession) of our point (singular possession)</li>
-    </ul>
-  </li>
-  <li><i>tárgyalópartnereinkét</i> (PPS)
-    <ul>
-      <li><i>tárgyalópartner</i> = negotiator (singular)</li>
-      <li><i>tárgyalópartnerei</i> = his/her/its negotiators (plural, singular owner)</li>
-      <li><i>tárgyalópartnereinkét</i> = (possession) of our negotiators (plural, plural owner, singular possession, accusative case)</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Words marked for plural possessions are very rare, though. Note
-that in the following example from Multext-East, Columbus is marked
-for plural possession, but not for his own owner. </p>
-
-<ul>
-  <li><i>Kolumbuszéinál</i>
-    <ul>
-      <li><i>Kolumbusz</i> = Columbus (singular)</li>
-      <li><i>Kolumbuszéi</i> = (possessions) of Columbus (plural possession)</li>
-      <li><i>Kolumbuszéinál</i> = (at the possessions) of Columbus (adessive case)</li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="sing-singular-possession">Sing: singular possession</h3>
-
-<h3 id="plur-plural-possession">Plur: plural possession</h3>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/PossedNumber.md" target="#">edit PossedNumber</a></p>
-
-<hr />
-
 <h2 id="prontype-pronominal-type">PronType: pronominal type</h2>
 
 <p>This feature typically applies to
@@ -2592,26 +2366,6 @@ confusing)</p>
             },
 
             {
-                "title": "PossGender",
-                "url":   "/docs/ud-feat/PossGender.html",
-            },
-
-            {
-                "title": "PossNumber",
-                "url":   "/docs/ud-feat/PossNumber.html",
-            },
-
-            {
-                "title": "PossPerson",
-                "url":   "/docs/ud-feat/PossPerson.html",
-            },
-
-            {
-                "title": "PossedNumber",
-                "url":   "/docs/ud-feat/PossedNumber.html",
-            },
-
-            {
                 "title": "PronType",
                 "url":   "/docs/ud-feat/PronType.html",
             },
@@ -2713,6 +2467,26 @@ confusing)</p>
             {
                 "title": "Politeness",
                 "url":   "/docs/ext-feat/Politeness.html",
+            },
+
+            {
+                "title": "PossGender",
+                "url":   "/docs/ext-feat/PossGender.html",
+            },
+
+            {
+                "title": "PossNumber",
+                "url":   "/docs/ext-feat/PossNumber.html",
+            },
+
+            {
+                "title": "PossPerson",
+                "url":   "/docs/ext-feat/PossPerson.html",
+            },
+
+            {
+                "title": "PossedNumber",
+                "url":   "/docs/ext-feat/PossedNumber.html",
             },
 
             {

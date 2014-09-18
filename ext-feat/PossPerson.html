@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>PossNumber</title>
+    <title>PossPerson</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/PossNumber.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/PossPerson.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,45 +34,60 @@
 	  </div>
 	</noscript>
 
-          <h2 id="possnumber-possessors-number">PossNumber: possessor’s number</h2>
+          <h2 id="possperson-possessors-person">PossPerson: possessor’s person</h2>
 
-<p>Possessives
-may have two different numbers: that of the possessed object (number
-agreement with modified noun) and that of the possessor. The
-PossNumber feature captures the possessor’s number. For simplicity,
-the set of possible values is identical to Number, although only a
-subset has been observed in corpora so far.</p>
+<p>PossPerson
+is possessor’s person, marked e.g. on Hungarian nouns. These noun
+forms would be translated to English as possessive pronoun + noun.</p>
 
-<h3 id="sing-singular-possessor">Sing: singular possessor</h3>
+<p>Note
+that there is currently a sort of inconsitency in Interset: since
+this feature was introduced, it would be logical to use it also for
+possessive pronouns in other languages. Yet the possessor’s person of
+these pronouns is traditionally captured in the “Person”
+feature. Also note that using PossPerson for possessive pronouns
+might introduce inconsistency at the other end because in some
+languages, possessive pronouns are actually identical to personal
+pronouns in the genitive case.</p>
 
-<p>Examples:
-[en]
-<span style="color: red"><i>my,
-his</i></span><span style="color: red"><i>,
-her, its</i></span>;
-[cs]
-<span style="color: red"><i>můj</i></span><i>
-pes</i>
-(my
-dog; PossNumber=Sing|Number=Sing); <span style="color: red"><i>mí</i></span><i>
-psi</i>
-(my
-dogs; PossNumber=Sing|Number=Plur).</p>
-
-<h3 id="plur-plural-possessor">Plur: plural possessor</h3>
+<h3 id="first-person-possessor">1: first person possessor</h3>
 
 <p>Examples:
-[en]
-<span style="color: red"><i>our,
-t</i></span><span style="color: red"><i>heir</i></span>;
-[cs]
-<span style="color: red"><i>náš</i></span><i>
-pes</i>
-(our
-dog; PossNumber=Plur|Number=Sing); <span style="color: red"><i>naši</i></span><i>
-psi</i>
-(our
-dogs; PossNumber=Plur|Number=Plur).</p>
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyám</i></span>
+=
+my dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>nk</i></span>
+=
+our dog.</p>
+
+<h3 id="second-person-possessor">2: second person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>d</i></span>
+=
+your.Sing dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>tok</i></span>
+=
+your.Plur dog.</p>
+
+<h3 id="third-person-possessor">3: third person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>ja</i></span>
+=
+his/her/its dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>juk</i></span>
+=
+their dog.</p>
 
 
 <!-- "relation in other languages" links -->
@@ -264,7 +279,7 @@ dogs; PossNumber=Plur|Number=Plur).</p>
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "ud-feat",
+        "_current" : "ext-feat",
 
         "ud-pos": [
 
@@ -418,26 +433,6 @@ dogs; PossNumber=Plur|Number=Plur).</p>
             },
 
             {
-                "title": "PossGender",
-                "url":   "/docs/ud-feat/PossGender.html",
-            },
-
-            {
-                "title": "PossNumber",
-                "url":   "/docs/ud-feat/PossNumber.html",
-            },
-
-            {
-                "title": "PossPerson",
-                "url":   "/docs/ud-feat/PossPerson.html",
-            },
-
-            {
-                "title": "PossedNumber",
-                "url":   "/docs/ud-feat/PossedNumber.html",
-            },
-
-            {
                 "title": "PronType",
                 "url":   "/docs/ud-feat/PronType.html",
             },
@@ -539,6 +534,26 @@ dogs; PossNumber=Plur|Number=Plur).</p>
             {
                 "title": "Politeness",
                 "url":   "/docs/ext-feat/Politeness.html",
+            },
+
+            {
+                "title": "PossGender",
+                "url":   "/docs/ext-feat/PossGender.html",
+            },
+
+            {
+                "title": "PossNumber",
+                "url":   "/docs/ext-feat/PossNumber.html",
+            },
+
+            {
+                "title": "PossPerson",
+                "url":   "/docs/ext-feat/PossPerson.html",
+            },
+
+            {
+                "title": "PossedNumber",
+                "url":   "/docs/ext-feat/PossedNumber.html",
             },
 
             {
