@@ -13,22 +13,20 @@ is “numeral”, it includes almost everything where counting is
 involved and there are various subtypes. It also includes
 interrogative, relative, indefinite and demonstrative words referring
 to numbers (words like _kolik / how many, tolik / so many, několik / some, a few),_
-, so at the same time we may have a non-empty value of
-prontype. (In English, these words are called quantifiers and they are
-considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.
+so at the same time we may have a non-empty value of
+<a href="PronType.html">PronType</a>.
+(In English, these words are called quantifiers and they are
+considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.)
 
 From the syntactic point of view, some numtypes behave like
 adjectives and some behave like adverbs. We tag them <a href="../ud-pos/ADJ.html">ADJ</a>
 and <a href="../ud-pos/ADV.html">ADV</a> respectively.
 Thus the {{ page.title }} feature applies to several different parts of speech:
 
-* <a href="NUM.html">NUM</a>: cardinal numerals
-* <a href="DET.html">DET</a>: quantifiers
-* <a href="ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals
-* <a href="ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
-
-Note that {{ page.title }} is orthogonal to <a href="PronType.html">PronType</a>
-and that there are words that have both these features set.
+* <a href="../ud-pos/NUM.html">NUM</a>: cardinal numerals
+* <a href="../ud-pos/DET.html">DET</a>: quantifiers
+* <a href="../ud-pos/ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals
+* <a href="../ud-pos/ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
 
 ### Card: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
@@ -95,7 +93,7 @@ words but their traditional classification may differ. (Note that
 mentioned above.)
 
 Examples: [cs] _<span style='color:red'>čtvero, patero, desatero</span>_ (specific forms of four,
-five, ten; they are morphologically and syntactically distinct from the default
+five, ten; they are morphologically, syntactically and stylistically distinct from the default
 forms _čtyři, pět, deset_);
 _<span style='color:red'>dvojí, trojí, čtverý</span>_ (twofold, threefold, fourfold; these are
 morphologically and syntactically adjectives).
