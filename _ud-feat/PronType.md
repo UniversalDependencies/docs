@@ -16,7 +16,7 @@ pronominal <a href="../ud-pos/ADV.html">adverbs</a>.
 
 See also the <a href="Poss">Poss</a> feature that distinguishes normal
 personal pronouns from possessives. Note that `Prs` also includes reflexive
-personal/possessive pronouns (e.g. [cs] "se" / "svůj"; see the
+personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
 <a href="Reflex">Reflex</a> feature).
 
 Examples: [en] _I, you, he, she, it, we, they, my, your, his, her,
@@ -36,8 +36,8 @@ Examples: [en] _a, an, the;_ [de] _ein, eine, der, die, das;_ [es] _un, una, el,
 
 ### Int: interrogative pronoun, determiner, numeral or adverb
 
-Note that possessive interrogative determiners ("whose") can be
-distinguished by the "poss" feature.
+Note that possessive interrogative determiners _(whose)_ can be
+distinguished by the <a href="Poss.html">Poss</a> feature.
 
 Examples: [cs/en] _kdo / who, co / what, který / which, čí / whose,
 kolik / how many, how much, kolikátý / how-maniest_ (ordinal number),
@@ -50,15 +50,15 @@ Note that in many languages this class heavily overlaps with
 interrogatives, yet there are pronouns that are only relative, and in
 some languages (Bulgarian, Hindi) the two classes seem to be distinct.
 
-Examples: [cs] _jenž, což_ (= "which", "that") are relative but not
-interrogative pronouns; _jehož_ (= "whose") is a possessive relative
+Examples: [cs] _jenž, což_ (= “which”, “that”) are relative but not
+interrogative pronouns; _jehož_ (= “whose”) is a possessive relative
 pronoun.
 
 ### Dem: demonstrative pronoun, determiner, numeral or adverb
 
 These are often parallel to interrogatives. Some tagsets might also
-distinguish a separate feature of distance ("here" / "there"; [es]
-"aquí" / "ahí" / "allí").
+distinguish a separate feature of distance _(here / there;_ [es]
+_aquí / ahí / allí)._
 
 Examples: [cs/en] _tento / this, tamten / that, takový / such, týž /
 same, tolik / so much, tolikátý / so-maniest_ (ordinal number),
@@ -74,17 +74,17 @@ everything, all, všude / everywhere, vždy / always_
 
 Examples: [cs/en] _nikdo / nobody, nic / nothing, nijaký / no, ničí /
 no one's_ (possessive negative pronoun), _žádný / no, none, nikde /
-nowhere, nikdy / never, nijak / no way_ (lit. "no-how")
+nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
 
 ### Ind: indefinite pronoun, determiner, numeral or adverb
 
 Note that some tagsets might further subclassify this category to
-distinguish "some" from "any" etc. Such distinctions are not part of
+distinguish “some” from “any” etc. Such distinctions are not part of
 universal features but may be added in language-specific extensions.
 
 Examples 1: [cs/en] _někdo / somebody, něco / something, některý /
 some, něčí / someone's_ (possessive indefinite pronoun), _několik / a
-few, several_ (indefinite numeral/quantifier), _několikátý / "a fewth", "severalth"_
+few, several_ (indefinite numeral/quantifier), _několikátý / “a fewth”, “severalth”_
 (indefinite ordinal numeral), _několikrát / a few times, several times,
 někde / somewhere, někdy / sometimes, nějak / somehow_
 
