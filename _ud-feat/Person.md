@@ -7,16 +7,12 @@ shortdef: 'person'
 ## {{ page.title }}: {{ page.shortdef }}
 
 Person
-is typically feature of personal and possessive pronouns, and of
-verbs. On verbs it is in fact an agreement feature that marks the
+is typically feature of personal and possessive <a href="../ud-pos/PRON.html">pronouns</a>, and of
+<a href="../ud-pos/VERB.html">verbs</a>. On verbs it is in fact an agreement feature that marks the
 person of the verb's subject (some languages, e.g. Basque, can also
 mark person of objects). Person marked on verbs makes it unnecessary
 to always add a personal pronoun as subject and thus subjects are
 sometimes dropped (pro-drop languages).
-
-The
-&ldquo;Person&rdquo; feature may interact with the feature of
-politeness, see there.
 
 ### 1: first person
 
@@ -31,7 +27,7 @@ exclude them (i.e. <I>I + they</I>).
 Examples:
 [en]
 <span style='color: red'><I>I</I></span><I>,
-</I><span style='color: red'><I>we</I></span>;
+</I><I><span style='color: red'>we</span>;</I>
 [cs] <span style='color: red'><I>dělám</I></span>
 (<span style='color: red'>I</span>
 do)
@@ -45,8 +41,8 @@ third persons too.
 
 Examples:
 [en]
-<span style='color: red'><I>you</I></span>;
-[cs] <span style='color: red'><I>dělá</I></span><span style='color: red'><I>š</I></span>
+<i><span style='color: red'>you</span>;</i>
+[cs] <i><span style='color: red'>děláš</span></i>
 (<span style='color: red'>you</span>
 do)
 
@@ -61,7 +57,7 @@ Examples:
 <span style='color: red'><I>he</I></span><I>,
 </I><span style='color: red'><I>she</I></span><I>,
 </I><span style='color: red'><I>it</I></span><I>,
-</I><span style='color: red'><I>they</I></span>;
+</I><i><span style='color: red'>they</span>;</i>
 [cs] <span style='color: red'><I>dělá</I></span>
 (<span style='color: red'>he/she/it</span><span style='color: red'>
 do</span><span style='color: red'>es</span>)
