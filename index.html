@@ -54,6 +54,11 @@ under revision and should not be considered final.</strong> Our goal is to have 
 <div id="language-u">
     <ul>
       <li><a href="format.html">Format</a></li>
+      <li>Words
+        <ul>
+          <li>General principles: TODO (separate from <a href="format.html">format.html</a>)</li>
+        </ul>
+      </li>
       <li>Morphology
         <ul>
           <li><a href="morphology.html">General principles</a></li>
@@ -74,15 +79,22 @@ under revision and should not be considered final.</strong> Our goal is to have 
 <!-- English section (source: _includes/index-en.md) -->
 <div id="language-en">
     <ul>
+      <li><a href="format.html">Format</a></li>
+      <li>Words
+        <ul>
+          <li>General principles: TODO</li>
+        </ul>
+      </li>
       <li>Morphology
         <ul>
-          <li>English word and token definitions: TODO</li>
+          <li>General principles: TODO</li>
           <li>English POS tags: TODO</li>
           <li>English features: TODO</li>
         </ul>
       </li>
       <li>Syntax
         <ul>
+          <li>General principles: TODO</li>
           <li><a href="en-dep-index.html">English relations</a> (<a href="en-dep-all.html">single document</a>)</li>
         </ul>
       </li>
@@ -93,15 +105,22 @@ under revision and should not be considered final.</strong> Our goal is to have 
 <!-- Finnish section (source: _includes/index-fi.md) -->
 <div id="language-fi">
     <ul>
+      <li><a href="format.html">Format</a></li>
+      <li>Words
+        <ul>
+          <li>General principles: TODO</li>
+        </ul>
+      </li>
       <li>Morphology
         <ul>
-          <li>Finnish word and tokens definitions: TODO</li>
+          <li>General principles: TODO</li>
           <li>Finnish POS tags: TODO</li>
           <li>Finnish features: TODO</li>
         </ul>
       </li>
       <li>Syntax
         <ul>
+          <li>General principles: TODO</li>
           <li><a href="fi-dep-index.html">Finnish relations</a> (<a href="fi-dep-all.html">single document</a>)</li>
         </ul>
       </li>
@@ -1384,7 +1403,7 @@ under revision and should not be considered final.</strong> Our goal is to have 
 
     head.ready(function() {
         // jQuery UI elements
-        $(".jquery-ui-tabs").tabs();
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
 
 	// performes all embedding and support functions
 	Annodoc.activate(Config.bratCollData, documentCollections);
