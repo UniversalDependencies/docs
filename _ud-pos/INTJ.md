@@ -16,8 +16,8 @@ As a special case of interjections, we recognize feedback particles such as _yes
 
 ### Examples
 
- - psst
- - ouch
+ - _psst_
+ - _ouch_
 
 ### References
 
