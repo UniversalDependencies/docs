@@ -19,7 +19,7 @@ Mathematical operators form another group of symbols.
 Strings that consists entirely of alphanumeric characters are not symbols but they may be <a href="PROPN">proper nouns:</a>
 _130XE_, _DC10_; others may be tagged PROPN (rather than SYM) even if they contain special characters: _DC-10_.
 
-Characters used as bullets in itemized lists (_• ‣_) are not symbols, they are punctuation.
+Characters used as bullets in itemized lists _(•, ‣)_ are not symbols, they are punctuation.
 
 ### Examples
 
