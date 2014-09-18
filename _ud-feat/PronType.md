@@ -9,7 +9,7 @@ shortdef: 'pronominal type'
 This feature typically applies to
 <a href="../ud-pos/PRON.html">pronouns</a>,
 <a href="../ud-pos/DET.html">determiners</a>,
-pronominal <a href="../ud-pos/NUM.html">numerals</a> and
+pronominal <a href="../ud-pos/NUM.html">numerals</a> (quantifiers) and
 pronominal <a href="../ud-pos/ADV.html">adverbs</a>.
 
 ### Prs: personal or possessive personal pronoun or determiner 
