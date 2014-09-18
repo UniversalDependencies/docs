@@ -10,7 +10,7 @@ shortdef: 'determiner'
 
 **Determiners** are words that modify <a href="NOUN.html">nouns</a> or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-Note that the {{ page.title }} tag does not cover _quantifiers_ (i.e. cardinal numbers and words like _many, few, several_), which are normally also included among determiners. Quantifiers have their own tag <a href="NUM.html">NUM</a>.
+Note that the {{ page.title }} tag includes (pronominal) _quantifiers_ (words like _many, few, several),_ which are included among determiners in some languages but may belong to numerals in others. However, _cardinal numerals_ in the narrow sense _(one, five, hundred)_ are not tagged {{ page.title }} even though some authors would include them in quantifiers. Cardinal numbers have their own tag <a href="NUM.html">NUM</a>.
 
 Also note that the notion of determiners is unknown in grammars of some languages (e.g. Czech); words equivalent to English determiners may be traditionally classified as <a href="PRON.html">pronouns</a> and/or <a href="NUM.html">numerals</a> in these languages. In order to annotate the same thing same way across languages, the words satisfying our definition of determiners should be tagged {{ page.title }} in these languages as well.
 
