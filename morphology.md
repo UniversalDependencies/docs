@@ -181,26 +181,33 @@ Universal Features. However, they may be used, if necessary, as part of the
 
 The following Interset features are currently not part of the standard:
 
-* <a href="ud-feat/postponed/Abbr.html">Abbr</a>
-* <a href="ud-feat/postponed/AdjType.html">AdjType</a>
-* <a href="ud-feat/postponed/AdpType.html">AdpType</a>
-* <a href="ud-feat/postponed/AdvType.html">AdvType</a>
-* <a href="ud-feat/postponed/ConjType.html">ConjType</a>
-* <a href="ud-feat/postponed/Echo.html">Echo</a>
-* <a href="ud-feat/postponed/Foreign.html">Foreign</a>
-* <a href="ud-feat/postponed/Hyph.html">Hyph</a>
-* <a href="ud-feat/postponed/Meta.html">Meta</a>
-* <a href="ud-feat/postponed/NameType.html">NameType</a>
-* <a href="ud-feat/postponed/NounType.html">NounType</a>
-* <a href="ud-feat/postponed/NumForm.html">NumForm</a>
-* <a href="ud-feat/postponed/NumValue.html">NumValue</a>
-* <a href="ud-feat/postponed/PartType.html">PartType</a>
-* <a href="ud-feat/postponed/Politeness.html">Politeness</a>
-* <a href="ud-feat/postponed/PrepCase.html">PrepCase</a>
-* <a href="ud-feat/postponed/PunctSide.html">PunctSide</a>
-* <a href="ud-feat/postponed/PunctType.html">PunctType</a>
-* <a href="ud-feat/postponed/Style.html">Style</a>
-* <a href="ud-feat/postponed/Typo.html">Typo</a>
-* <a href="ud-feat/postponed/VerbType.html">VerbType</a>
+* <a href="ud-feat/ext-feat/Abbr.html">Abbr</a>
+* <a href="ud-feat/ext-feat/AdjType.html">AdjType</a>
+* <a href="ud-feat/ext-feat/AdpType.html">AdpType</a>
+* <a href="ud-feat/ext-feat/AdvType.html">AdvType</a>
+* <a href="ud-feat/ext-feat/ConjType.html">ConjType</a>
+* <a href="ud-feat/ext-feat/Echo.html">Echo</a>
+* <a href="ud-feat/ext-feat/Foreign.html">Foreign</a>
+* <a href="ud-feat/ext-feat/Hyph.html">Hyph</a>
+* <a href="ud-feat/ext-feat/Meta.html">Meta</a>
+* <a href="ud-feat/ext-feat/NameType.html">NameType</a>
+* <a href="ud-feat/ext-feat/NounType.html">NounType</a>
+* <a href="ud-feat/ext-feat/NumForm.html">NumForm</a>
+* <a href="ud-feat/ext-feat/NumValue.html">NumValue</a>
+* <a href="ud-feat/ext-feat/PartType.html">PartType</a>
+* <a href="ud-feat/ext-feat/Politeness.html">Politeness</a>
+* <a href="ud-feat/ext-feat/PrepCase.html">PrepCase</a>
+* <a href="ud-feat/ext-feat/PunctSide.html">PunctSide</a>
+* <a href="ud-feat/ext-feat/PunctType.html">PunctType</a>
+* <a href="ud-feat/ext-feat/Style.html">Style</a>
+* <a href="ud-feat/ext-feat/Typo.html">Typo</a>
+* <a href="ud-feat/ext-feat/VerbType.html">VerbType</a>
+
+The following Interset features are not used under their Interset names but they are included through the layered feature scheme:
+
+* <a href="ud-feat/ext-feat/PossedNumber.html">PossedNumber</a>
+* <a href="ud-feat/ext-feat/PossGender.html">PossGender</a>
+* <a href="ud-feat/ext-feat/PossNumber.html">PossNumber</a>
+* <a href="ud-feat/ext-feat/PossPerson.html">PossPerson</a>
 
 -------------
