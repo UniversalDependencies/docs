@@ -8,17 +8,17 @@ shortdef: 'form of verb or form on the border between verbs and other parts of s
 
 Even
 though the name of the feature seems to suggest that it is used
-exclusively with verbs, it is not the case. Some verb forms in some
+exclusively with <a href="../ud-pos/VERB.html">verbs</a>, it is not the case. Some verb forms in some
 languages actually form a gray zone between verbs and other parts of
-speech (nouns, adjectives and adverbs). For instance, participles may
+speech (<a href="../ud-pos/NOUN.html">nouns</a>, <a href="../ud-pos/ADJ.html">adjectives</a> and <a href="../ud-pos/ADV.html">adverbs</a>). For instance, participles may
 be either classified as verbs or as adjectives, depending on language
-and context. In both cases VerbForm=Part may be used to separate them
+and context. In both cases `VerbForm=Part` may be used to separate them
 from other verb forms or other types of adjectives.
 
 ### Fin: finite verb
 
 Rule
-of thumb: if it has non-empty Mood, it is finite. But beware that
+of thumb: if it has non-empty [Mood](), it is finite. But beware that
 some tagsets conflate verb forms and moods into one feature.
 
 Examples:
@@ -52,7 +52,7 @@ muss </I><span style='color: red'><I>gehen</I></span>
 Supine is a rare verb form. It
 survives in some Slavic languages (Slovenian) and is used instead of
 infinitive as the argument of motion verbs
-(old [cs] <I>jdu spat</I> = lit. I-go sleep).
+(old [cs] <I>jdu <span style='color:red'>spat</span></I> = lit. I-go sleep).
 
 A form called &ldquo;supine&rdquo; also
 exists in Swedish where it is a special form of the participle,
