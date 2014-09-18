@@ -10,7 +10,7 @@ Tense
 is a feature that specifies the time when the action took / takes /
 will take place, in relation to the current moment or to another
 action in the utterance. In some languages (e.g. English), some
-tenses are actually combinations of tense and aspect. In other
+tenses are actually combinations of tense and <a href="Aspect.html">aspect</a>. In other
 languages (e.g. Czech), aspect and tense are separate, although not
 completely independent of each other.
 
@@ -24,12 +24,12 @@ will probably not directly reveal the tense. For instance, [en] <I>&ldquo;I
 is past perfect (pluperfect) tense, formed periphrastically by the
 simple past tense of the auxiliary <I>to have</I> and the past
 participle of the main verb <I>to be</I>. The auxiliary will be
-tagged VerbForm=Fin|Mood=Ind|Tense=Past
-and the participle will have VerbForm=Part|Tense=Past;
-none of the two will have Tense=Pqp.
+tagged `VerbForm=Fin|Mood=Ind|Tense=Past`
+and the participle will have `VerbForm=Part|Tense=Past`;
+none of the two will have `Tense=Pqp`.
 On the other hand, Portuguese can form the pluperfect morphologically
 as just one word, which will thus be tagged
-VerbForm=Fin|Mood=Ind|Tense=Pqp.
+`VerbForm=Fin|Mood=Ind|Tense=Pqp`.
 
 ### Past: past tense / preterite / aorist
 
