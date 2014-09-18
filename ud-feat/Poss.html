@@ -36,21 +36,23 @@
 
           <h2 id="poss-possessive">Poss: possessive</h2>
 
-<p>Boolean feature. Is this pronoun or adjective possessive? Many
-tagsets would have this as another value of “prontype”. That would be
-a bad solution because possessivity is orthogonal to “prontype”.
-Several of the prontypes can be optionally possessive, and adjectives
+<p>Boolean feature of pronouns, determiners or adjectives.
+It tells whether the word is possessive.</p>
+
+<p>While many tagsets would have “possessive” as one of the various pronoun types,
+this feature is intentionally separate from <a href="PronType.html">PronType</a>,
+as it is orthogonal to pronominal types.
+Several of the pronominal types can be optionally possessive, and adjectives
 can too.</p>
 
 <h3 id="yes-it-is-possessive">Yes: it is possessive</h3>
 
-<p>Note that there is no “no” value. If the word is not possessive, the
-“poss” feature will just not be mentioned in the FEAT column. (Which
-means that empty value has the “no” meaning.) </p>
+<p>Note that there is no “No” value. If the word is not possessive, the
+Poss feature will just not be mentioned in the FEAT column. (Which
+means that empty value has the “No” meaning.) </p>
 
-<p>Examples: [en] my, your, his, mine, yours, whose </p>
-
-<p>Adjectival examples: [cs] otcův (father’s), matčin (mother’s)</p>
+<p>Examples: [en] <em>my, your, his, mine, yours, whose;</em> [cs] possessive adjectives:
+<em>otcův</em> (father’s), <em>matčin</em> (mother’s)</p>
 
 
 <!-- "relation in other languages" links -->
