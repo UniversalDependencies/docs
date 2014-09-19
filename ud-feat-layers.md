@@ -279,4 +279,4 @@ If there is also one of the other two arguments, we will have
 
 Example: <i><span style='color:red'>nahi dizkiegu</span>,</i> lemma = <i>nahi_izan</i>,
 feats = `Number=Plur|Number[dat]=Plur|Number[erg]=Plur|Person=3|Person[dat]=3|Person[erg]=1`
-(we VERB them to them).
+(we want them to them).
