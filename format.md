@@ -171,6 +171,7 @@ To facilitate reconstruction of original (pre-tokenization) text, the informatio
 # Sentence Boundaries and Comments
 
 There must be exactly one blank line _after_ every sentence, including the last sentence in the file.
+Empty sentences are not allowed.
 
 Lines starting with the `#` character and preceding a sentence are considered as carrying metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). The contents of the comments and metadata is left unrestricted and will vary depending on the application. Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
 
