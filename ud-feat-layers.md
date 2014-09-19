@@ -107,35 +107,17 @@ and the feminine Gender[psor] implies using one of <I>-</I><I>in,
 
 Examples:
 [cs]
-<span style='color: red'><I>otcův
-syn</I></span>
-(father's
-son; PossGender=Masc|Gender=Masc);
-<span style='color: red'><I>otcova
-dcera</I></span>
-(father's
-daughter; PossGender=Masc|Gender=Fem);
-<span style='color: red'><I>otcovo
-dítě</I></span>
-(father's
-child; PossGender=Masc|Gender=Neut).
+<span style='color: red'><I>otcův syn</I></span> (father's son; `Gender=Masc|Gender[psor]=Masc`);
+<span style='color: red'><I>otcova dcera</I></span> (father's daughter; `Gender=Fem|Gender[psor]=Masc`);
+<span style='color: red'><I>otcovo dítě</I></span> (father's child; `Gender=Neut|Gender[psor]=Masc`).
 
 ### Fem: feminine possessor
 
 Examples:
 [cs]
-<span style='color: red'><I>m</I></span><span style='color: red'><I>atčin
-syn</I></span>
-(mother's
-son; PossGender=Fem|Gender=Masc);
-<span style='color: red'><I>matčina
-dcera</I></span>
-(mother's
-daughter; PossGender=Fem|Gender=Fem);
-<span style='color: red'><I>matčino
-dítě</I></span>
-(mother's
-child; PossGender=Fem|Gender=Neut).
+<span style='color: red'><I>matčin syn</I></span> (mother's son; `Gender=Masc|Gender[psor]=Fem`);
+<span style='color: red'><I>matčina dcera</I></span> (mother's daughter; `Gender=Fem|Gender[psor]=Fem`);
+<span style='color: red'><I>matčino dítě</I></span> (mother's child; `Gender=Neut|Gender[psor]=Fem`).
 
 ## Number[psor]
 
