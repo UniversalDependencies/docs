@@ -23,33 +23,59 @@ underscore—instead, the `X` tag should be used).
 
 ## Features
 
+Features are additional pieces of information about the word, its part of speech
+and morphosyntactic properties. Every feature has the form `Name=Value` and
+every word can have any number of features, separated by the vertical bar, as in
+`Gender=Masc|Number=Sing`.
+
+We provide an <a href="ud-feat-index.html">inventory of features</a> that are
+attested in multiple corpora and it is thus desirable that they are encoded in
+a uniform way.
+The list is certainly not exhaustive and later versions of the standard
+may include new features or values found in new languages, corpora or tagsets.
+
+Users can extend this set of universal features and add language-specific
+features when necessary. Such features should be described in the language-specific
+documentation and follow the general principles outlined above.
+Universal and language-specific features of a word are listed together in the FEATS column.
+
+Unlike in various language-specific tagsets, the Universal Features do not
+include features aimed at marking _fusion words_ (a word that is result of
+merging two other words, which are syntactically independent and belong to
+different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
+auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
+Spanish _dámelo (da + me + lo_ ... verb +
+clitics) etc. The only truly general approach to fusion words is to apply
+a language-specific processing step that will split tokens into syntactic words
+where necessary. Every syntactic word will then get its own part-of-speech tag
+and features. See also <a href="format.html">Format</a>.
+<span style='background:yellow'>TODO: Once we split Tokenization from Format,
+link to Tokenization from here.</span>
+
 * There are two types of identifiers:
   - feature names = _features_
   - feature values = _values_
 * All identifiers (both features and values) consist of English letters or,
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
-  internal words are marked for better readability (e.g. NumType).
+  internal words are marked for better readability (e.g. `NumType`).
   This makes features distinct from the <a href="ud-pos-index.html">core part-of-speech tags</a> (all uppercase)
   and from the <a href="relations.html">dependency relation labels</a> (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
-  the feature name and the value should be identified: PronType=Prs.
+  the feature name and the value should be identified: `PronType=Prs`.
   Note that the values are not guaranteed to be unique across features,
-  e.g. Sup could denote the superessive case, superlative degree of comparison
+  e.g. `Sup` could denote the superessive case, superlative degree of comparison
   or supine (a verb form).
+* Not mentioning a feature in the data implies the empty value,
+  which means that the feature is either irrelevant for this part of speech,
+  or its value cannot be determined for this word form due to language-specific reasons.
 * It is possible to declare that a feature has two or more values for a given word:
-  "Case=Acc,Dat". The interpretation is that the word may have one of these values
+  `Case=Acc,Dat`. The interpretation is that the word may have one of these values
   but we cannot decide between them. Such _multivalues_ should be used sparingly.
   They should not be used if the value list would cover the whole value space,
   or the subspace valid for the given language.
   That would mean that we cannot tell anything about this feature for the given word,
   and then it is preferable to just leave the feature out.
-  Not mentioning a feature in the data implies the empty value,
-  which means that the feature is either irrelevant for this part of speech,
-  or its value cannot be determined for this word form due to language-specific reasons.
-* Even though the features vary in nature and can be grouped (as in the table
-  above), all features with non-empty values appear together in the same FEATS
-  column.
 * Canonical ordering: features of one word (appearing on the same line) are
   always ordered alphabetically; if a feature has multiple values, these are
   ordered alphabetically, too. This rule facilitates cases when it is necessary
@@ -66,8 +92,6 @@ underscore—instead, the `X` tag should be used).
 All of these can be considered attributes of lexemes or lemmas (rather than
 individual word forms) and they represent a fine-grained
 sub-classification of words.
-
-Some features are boolean.
 
 ### Inflectional features
 
@@ -155,27 +179,6 @@ German distinguishes both features in both dimensions
     <td><span style='color:red'>their</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>unakī</span> bēṭiyām̐</td>
   </tr>
 </table>
-
-### Remarks
-
-The list of features is certainly not exhaustive and later versions of the standard
-may include new features or values found in new languages, corpora or tagsets.
-
-Users can extend this set of universal features and add language-specific
-features when necessary. Such features should be described in the language-specific
-documentation and follow the general principles outlined above.
-Universal and language-specific features of a word are listed together in the FEATS column.
-
-Unlike in various language-specific tagsets, the Universal Features do not
-include features aimed at marking _fusion words_ (a word that is result of
-merging two other words, which are syntactically independent and belong to
-different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
-auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
-Spanish _dámelo (da + me + lo_ ... verb +
-clitics) etc. The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
-and features. See also <a href="format.html">Format</a>.
 
 
 -------------
