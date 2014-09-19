@@ -107,17 +107,6 @@ In some languages, some features are marked more than once on the same word.
 We say that there are several _layers_ of the feature.
 The exact meaning of individual layers is language-dependent.
 
-If a feature is (can be) layered in a language, the name of the feature must
-indicate the layer. An additional identifier in square brackets is used to
-distinguish layers, e.g. `Gender[psor]` for the possessor's gender.
-We recommend that the layer identifiers consist of lowercase English letters
-`[a-z]` and/or digits `[0-9]`.
-The layers, their meaning and their
-identifiers must be defined in a language-specific extension to this
-documentation. For each layered feature, one layer may be defined as default
-and the corresponding features then appear without identifier,
-e.g. `Gender=Masc|Gender[psor]=Fem`.
-
 For example, possessive adjectives, determiners and pronouns may have two
 different values of Gender and two of Number. One of the values is determined
 by agreement with the modified (possessed) noun. This is parallel to other
@@ -179,6 +168,17 @@ German distinguishes both features in both dimensions
     <td><span style='color:red'>their</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>unakī</span> bēṭiyām̐</td>
   </tr>
 </table>
+
+If a feature is (can be) layered in a language, the name of the feature must
+indicate the layer. An additional identifier in square brackets is used to
+distinguish layers, e.g. `Gender[psor]` for the possessor's gender.
+We recommend that the layer identifiers consist of lowercase English letters
+`[a-z]` and/or digits `[0-9]`.
+The layers, their meaning and their
+identifiers must be defined in a language-specific extension to this
+documentation. For each layered feature, one layer may be defined as default
+and the corresponding features then appear without identifier,
+e.g. `Gender=Masc|Gender[psor]=Fem`.
 
 
 -------------
