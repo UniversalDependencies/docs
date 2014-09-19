@@ -91,7 +91,7 @@ it should still be described in the language-specific documentation.</strong>
 ## Gender[psor]
 
 Possessive
-adjectives and pronouns may have two different genders: that of the
+adjectives and pronouns may have two different <a href="ud-feat/Gender.html">genders</a>: that of the
 possessed object (gender agreement with modified noun) and that of
 the possessor (lexical feature, inherent gender).
 
@@ -122,7 +122,7 @@ Examples:
 ## Number[psor]
 
 Possessives
-may have two different numbers: that of the possessed object (number
+may have two different <a href="ud-feat/Number.html">numbers</a>: that of the possessed object (number
 agreement with modified noun) and that of the possessor. The
 `Number[psor]` feature captures the possessor's number.
 
