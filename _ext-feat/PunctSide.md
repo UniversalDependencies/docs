@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'PunctSide'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'which side of paired punctuation is this?'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

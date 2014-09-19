@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'PunctType'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'punctuation type'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

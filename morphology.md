@@ -195,14 +195,12 @@ Universal Features. However, they may be used, if necessary, as part of the
 The following Interset features are currently not part of the standard:
 
 * <a href="ext-feat/Abbr.html">Abbr</a>
-* <a href="ext-feat/AdjType.html">AdjType</a>
 * <a href="ext-feat/AdpType.html">AdpType</a>
 * <a href="ext-feat/AdvType.html">AdvType</a>
 * <a href="ext-feat/ConjType.html">ConjType</a>
 * <a href="ext-feat/Echo.html">Echo</a>
 * <a href="ext-feat/Foreign.html">Foreign</a>
 * <a href="ext-feat/Hyph.html">Hyph</a>
-* <a href="ext-feat/Meta.html">Meta</a>
 * <a href="ext-feat/NameType.html">NameType</a>
 * <a href="ext-feat/NounType.html">NounType</a>
 * <a href="ext-feat/NumForm.html">NumForm</a>
@@ -222,5 +220,3 @@ The following Interset features are not used under their Interset names but they
 * <a href="ext-feat/PossGender.html">PossGender</a>
 * <a href="ext-feat/PossNumber.html">PossNumber</a>
 * <a href="ext-feat/PossPerson.html">PossPerson</a>
-
--------------

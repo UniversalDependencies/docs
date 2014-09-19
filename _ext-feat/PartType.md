@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'PartType'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'particle type'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

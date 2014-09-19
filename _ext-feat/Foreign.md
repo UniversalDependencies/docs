@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'Foreign'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'is this a foreign word?'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

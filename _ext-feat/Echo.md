@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'Echo'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'is this an echo word or a reduplicative?'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

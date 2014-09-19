@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'Hyph'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'hyphenated compound or part of it'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

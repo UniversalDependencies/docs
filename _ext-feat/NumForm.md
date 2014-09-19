@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'NumForm'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'numeral form'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

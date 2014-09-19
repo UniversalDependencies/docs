@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'NumValue'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'numeric value'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

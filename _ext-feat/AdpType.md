@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'AdpType'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'adposition type'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}

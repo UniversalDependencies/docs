@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 'NounType'
-shortdef: 'IT HAS BEEN PROPOSED NOT TO INCLUDE THIS IN THE CURRENT VERSION'
+shortdef: 'noun type'
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
