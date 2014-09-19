@@ -95,8 +95,8 @@ sub-classification of words.
 
 ### Inflectional features
 
-These are mostly inflectional features, i.e. they are features of word forms
-rather than lemmas. There are exceptions: for instance, gender of nouns is
+These are mostly features of word forms rather than lemmas.
+There are exceptions: for instance, gender of nouns is
 usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.
