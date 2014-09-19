@@ -83,6 +83,11 @@ documentation. For each layered feature, one layer may be defined as default
 and the corresponding features then appear without identifier,
 e.g. `Gender=Masc|Gender[psor]=Fem`.
 
+<strong>In the following, we list some examples of layered features attested in existing corpora.
+These may be used as inspiration or they may be used _as-is_ in treebanks for which they are
+found appropriate. Note that even if a treebank uses a layered feature from this section,
+it should still be described in the language-specific documentation.</strong>
+
 ## Gender[psor]
 
 Possessive
