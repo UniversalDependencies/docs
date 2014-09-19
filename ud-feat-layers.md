@@ -130,32 +130,23 @@ agreement with modified noun) and that of the possessor. The
 
 Examples:
 [en]
-<span style='color: red'><I>my,
-his</I></span><span style='color: red'><I>,
-her, its</I></span>;
+<i><span style='color: red'>my, his, her, its</span>;</i>
 [cs]
-<span style='color: red'><I>můj</I></span><I>
-pes</I>
-(my
-dog; PossNumber=Sing|Number=Sing); <span style='color: red'><I>mí</I></span><I>
-psi</I>
-(my
-dogs; PossNumber=Sing|Number=Plur).
+<i><span style='color: red'>můj</span> pes</i>
+(my dog; `Number=Sing|Number[psor]=Sing`);
+<i><span style='color: red'>mí</span> psi</i>
+(my dogs; `Number=Plur|Number[psor]=Sing`).
 
 ### Plur: plural possessor
 
 Examples:
 [en]
-<span style='color: red'><I>our,
-t</I></span><span style='color: red'><I>heir</I></span>;
+<i><span style='color: red'>our, their</span>;</i>
 [cs]
-<span style='color: red'><I>náš</I></span><I>
-pes</I>
-(our
-dog; PossNumber=Plur|Number=Sing); <span style='color: red'><I>naši</I></span><I>
-psi</I>
-(our
-dogs; PossNumber=Plur|Number=Plur).
+<i><span style='color: red'>náš</span> pes</i>
+(our dog; `Number=Sing|Number[psor]=Plur`);
+<i><span style='color: red'>naši</span> psi</i>
+(our dogs; `Number=Plur|Number[psor]=Plur`).
 
 ## Person[psor]
 
