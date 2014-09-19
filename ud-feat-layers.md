@@ -119,6 +119,17 @@ Examples:
 <span style='color: red'><I>matčina dcera</I></span> (mother's daughter; `Gender=Fem|Gender[psor]=Fem`);
 <span style='color: red'><I>matčino dítě</I></span> (mother's child; `Gender=Neut|Gender[psor]=Fem`).
 
+In other languages (Hebrew, Arabic), the possessor's gender and number are agreement rather than lexical features:
+
+Examples: [he] <i><span style='color:red'>HKPH</span> FL HARC</i> (perimeter of country).
+Features of the two nouns are as follows:
+perimeter.`Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing`
+country.`Definite=Def|Gender=Fem|Number=Sing`.
+
+The [psor] features of _perimeter_ are dictated by agreement with the possessor, _country._
+
+(This is a partial description of this example. _HKPH_ has many morphological analyses, some of them are masculine single-layered, some of them are feminine single-layered. You can only find the right morphosyntactic analysis if you detect the two layers of agreement features, and can identify this specific agreement pattern.)
+
 ## Number[psor]
 
 Possessives
