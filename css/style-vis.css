@@ -585,5 +585,5 @@ code.embedded-wrapper,
   border: 2px inset
 }
 a.doclink {
-  text-decoration: none;
+/*   text-decoration: none; */
 }
