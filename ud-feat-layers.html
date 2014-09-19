@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Morphology</title>
+    <title>Layered universal features</title>
     <link rel="root" href=""/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/morphology.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ud-feat-layers.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,110 +34,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="morphology-general-principles">Morphology: General Principles</h1>
-
-<h2 id="part-of-speech-tags">Part-of-speech tags</h2>
-
-<p>The universal <a href="ud-pos-index.html">list of core POS tags</a> is fixed
-and it cannot be extended in language-specific extensions. However, it is
-possible that some tags will not be used in some languages.</p>
-
-<p>The features (see below) can be used for a more fine-grained classification
-of words if it is desirable. Also note that the <a href="format.html">file format</a>
-allows for an additional POSTAG, taken from a language-specific
-(or corpus-specific) tagset. Such language-specific POSTAGs have their own
-data column and they are not mixed with the universal POS tags.</p>
-
-<p>The universal POS tags consist of uppercase English letters <code>[A-Z]</code> only.
-Just one tag per word is expected, and it should not be empty (not even
-underscore—instead, the <code>X</code> tag should be used).</p>
-
-<h2 id="features">Features</h2>
-
-<p>Features are additional pieces of information about the word, its part of speech
-and morphosyntactic properties. Every feature has the form <code>Name=Value</code> and
-every word can have any number of features, separated by the vertical bar, as in
-<code>Gender=Masc|Number=Sing</code>.</p>
-
-<p>We provide an <a href="ud-feat-index.html">inventory of features</a> that are
-attested in multiple corpora and it is thus desirable that they are encoded in
-a uniform way.
-The list is certainly not exhaustive and later versions of the standard
-may include new features or values found in new languages, corpora or tagsets.</p>
-
-<p>Users can extend this set of universal features and add language-specific
-features when necessary. Such features should be described in the language-specific
-documentation and follow the general principles outlined here.
-Universal and language-specific features of a word are listed together in the FEATS column.</p>
-
-<p>Unlike in various language-specific tagsets, the Universal Features do not
-include features aimed at marking <em>fusion words</em> (a word that is result of
-merging two other words, which are syntactically independent and belong to
-different parts of speech):
-Czech <em>dělals (dělal + jsi</em> … main verb + auxiliary); <em>proň (pro + něj</em> … preposition + pronoun);
-German <em>zum (zu + dem</em> … preposition + article);
-Spanish <em>dámelo (da + me + lo</em> … verb + clitics) etc.
-The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
-and features. See also <a href="tokenization.html">Tokenization</a> and
-<a href="format.html">Format</a>.</p>
-
-<ul>
-  <li>There are two types of identifiers:
-    <ul>
-      <li>feature names = <em>features</em></li>
-      <li>feature values = <em>values</em></li>
-    </ul>
-  </li>
-  <li>All identifiers (both features and values) consist of English letters or,
-occasionally, digits 0-9. The first letter is always uppercase.
-The other letters are generally lowercase, except for positions where new
-internal words are marked for better readability (e.g. <code>NumType</code>).
-This makes features distinct from the <a href="ud-pos-index.html">core part-of-speech tags</a> (all uppercase)
-and from the <a href="relations.html">dependency relation labels</a> (all lowercase).</li>
-  <li>A feature of a word should always be fully specified in the data, i.e. both
-the feature name and the value should be identified: <code>PronType=Prs</code>.
-Note that the values are not guaranteed to be unique across features,
-e.g. <code>Sup</code> could denote the superessive case, superlative degree of comparison
-or supine (a verb form).</li>
-  <li>Not mentioning a feature in the data implies the empty value,
-which means that the feature is either irrelevant for this part of speech,
-or its value cannot be determined for this word form due to language-specific reasons.</li>
-  <li>It is possible to declare that a feature has two or more values for a given word:
-<code>Case=Acc,Dat</code>. The interpretation is that the word may have one of these values
-but we cannot decide between them. Such <em>multivalues</em> should be used sparingly.
-They should not be used if the value list would cover the whole value space,
-or the subspace valid for the given language.
-That would mean that we cannot tell anything about this feature for the given word,
-and then it is preferable to just leave the feature out.</li>
-  <li>Canonical ordering: features of one word (appearing on the same line) are
-always ordered alphabetically; if a feature has multiple values, these are
-ordered alphabetically, too. This rule facilitates cases when it is necessary
-to compare feature sets of two words.</li>
-  <li>Description of individual features usually hints what parts of speech the
-feature is likely to appear with. This information is intended to help
-understand the typical usage of the feature; however, it is <em>not a strict rule!</em>
-Applicability of features to parts of speech is very language-dependent
-and it should never be assumed that the feature cannot appear together with
-a particular POS tag.</li>
-</ul>
-
-<h3 id="lexical-features">Lexical features</h3>
-
-<p>All of these can be considered attributes of lexemes or lemmas (rather than
-individual word forms) and they represent a fine-grained
-sub-classification of words.</p>
-
-<h3 id="inflectional-features">Inflectional features</h3>
-
-<p>These are mostly features of word forms rather than lemmas.
-There are exceptions: for instance, gender of nouns is
-usually a lexical feature (all word forms of one lemma have the same gender).
-However, other parts of speech (adjectives, pronouns, verbs) may inflect for
-gender because of agreement with nouns.</p>
-
-<h3 id="layered-features">Layered features</h3>
+          <h1 id="layered-universal-features">Layered universal features</h1>
 
 <p>In some languages, some features are marked more than once on the same word.
 We say that there are several <em>layers</em> of the feature.
@@ -216,51 +113,210 @@ documentation. For each layered feature, one layer may be defined as default
 and the corresponding features then appear without identifier,
 e.g. <code>Gender=Masc|Gender[psor]=Fem</code>.</p>
 
-<p>For more prototypes of layered features, see <a href="ud-feat-layers.html">Layered Features</a>.</p>
+<h2 id="genderpsor">Gender[psor]</h2>
 
-<hr />
+<p>Possessive
+adjectives and pronouns may have two different genders: that of the
+possessed object (gender agreement with modified noun) and that of
+the possessor (lexical feature, inherent gender).</p>
 
-<h2 id="extension-interset-features-that-are-not-part-of-this-standard">Extension: Interset features that are not part of this standard</h2>
+<p>The <code>Gender[psor]</code> feature captures the possessor’s gender.</p>
 
-<p>Universal Features are mostly derived from the
-<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
-(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
-Interset contains additional features that have not yet been adopted as
-Universal Features. However, they may be used, if necessary, as part of the
-“language-specific extensions” to the Universal Features.</p>
+<p>In
+the Czech examples below, the masculine Gender[psor] implies using one
+of the suffixes <i>-</i><i>ův, -ova, -ovo,</i>
+and the feminine Gender[psor] implies using one of <i>-</i><i>in,
+-ina, -ino</i>.</p>
 
-<p>The following Interset features are currently not part of the standard:</p>
+<h3 id="masc-masculine-possessor">Masc: masculine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>otcův
+syn</i></span>
+(father’s
+son; PossGender=Masc|Gender=Masc);
+<span style="color: red"><i>otcova
+dcera</i></span>
+(father’s
+daughter; PossGender=Masc|Gender=Fem);
+<span style="color: red"><i>otcovo
+dítě</i></span>
+(father’s
+child; PossGender=Masc|Gender=Neut).</p>
+
+<h3 id="fem-feminine-possessor">Fem: feminine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>m</i></span><span style="color: red"><i>atčin
+syn</i></span>
+(mother’s
+son; PossGender=Fem|Gender=Masc);
+<span style="color: red"><i>matčina
+dcera</i></span>
+(mother’s
+daughter; PossGender=Fem|Gender=Fem);
+<span style="color: red"><i>matčino
+dítě</i></span>
+(mother’s
+child; PossGender=Fem|Gender=Neut).</p>
+
+<h2 id="numberpsor">Number[psor]</h2>
+
+<p>Possessives
+may have two different numbers: that of the possessed object (number
+agreement with modified noun) and that of the possessor. The
+<code>Number[psor]</code> feature captures the possessor’s number.</p>
+
+<h3 id="sing-singular-possessor">Sing: singular possessor</h3>
+
+<p>Examples:
+[en]
+<span style="color: red"><i>my,
+his</i></span><span style="color: red"><i>,
+her, its</i></span>;
+[cs]
+<span style="color: red"><i>můj</i></span><i>
+pes</i>
+(my
+dog; PossNumber=Sing|Number=Sing); <span style="color: red"><i>mí</i></span><i>
+psi</i>
+(my
+dogs; PossNumber=Sing|Number=Plur).</p>
+
+<h3 id="plur-plural-possessor">Plur: plural possessor</h3>
+
+<p>Examples:
+[en]
+<span style="color: red"><i>our,
+t</i></span><span style="color: red"><i>heir</i></span>;
+[cs]
+<span style="color: red"><i>náš</i></span><i>
+pes</i>
+(our
+dog; PossNumber=Plur|Number=Sing); <span style="color: red"><i>naši</i></span><i>
+psi</i>
+(our
+dogs; PossNumber=Plur|Number=Plur).</p>
+
+<h2 id="personpsor">Person[psor]</h2>
+
+<p><code>Person[psor]</code>
+is possessor’s person, marked e.g. on Hungarian nouns. These noun
+forms would be translated to English as possessive pronoun + noun.</p>
+
+<p>Note
+that there is currently a sort of inconsitency in Interset: since
+this feature was introduced, it would be logical to use it also for
+possessive pronouns in other languages. Yet the possessor’s person of
+these pronouns is traditionally captured in the “Person”
+feature. Also note that using PossPerson for possessive pronouns
+might introduce inconsistency at the other end because in some
+languages, possessive pronouns are actually identical to personal
+pronouns in the genitive case.</p>
+
+<h3 id="first-person-possessor">1: first person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyám</i></span>
+=
+my dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>nk</i></span>
+=
+our dog.</p>
+
+<h3 id="second-person-possessor">2: second person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>d</i></span>
+=
+your.Sing dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>tok</i></span>
+=
+your.Plur dog.</p>
+
+<h3 id="third-person-possessor">3: third person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i>
+= dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>ja</i></span>
+=
+his/her/its dog;
+<span style="color: red"><i>kutyá</i></span><span style="color: red"><i>juk</i></span>
+=
+their dog.</p>
+
+<h2 id="numberpsee">Number[psee]</h2>
+
+<p><code>Number[psee]</code>
+is the possessee’s (possessed, owned noun phrase’s) number. In
+Hungarian, possession can be marked on the possessor or on the
+possessed. It is possible, though rare, that a noun has three
+distinct number features: its own grammatical number, number of its
+possessor and number of its possession. Examples from the
+Multext-East Hungarian lexicon:</p>
 
 <ul>
-  <li><a href="ext-feat/Abbr.html">Abbr</a></li>
-  <li><a href="ext-feat/AdpType.html">AdpType</a></li>
-  <li><a href="ext-feat/AdvType.html">AdvType</a></li>
-  <li><a href="ext-feat/ConjType.html">ConjType</a></li>
-  <li><a href="ext-feat/Echo.html">Echo</a></li>
-  <li><a href="ext-feat/Foreign.html">Foreign</a></li>
-  <li><a href="ext-feat/Hyph.html">Hyph</a></li>
-  <li><a href="ext-feat/NameType.html">NameType</a></li>
-  <li><a href="ext-feat/NounType.html">NounType</a></li>
-  <li><a href="ext-feat/NumForm.html">NumForm</a></li>
-  <li><a href="ext-feat/NumValue.html">NumValue</a></li>
-  <li><a href="ext-feat/PartType.html">PartType</a></li>
-  <li><a href="ext-feat/Politeness.html">Politeness</a></li>
-  <li><a href="ext-feat/PrepCase.html">PrepCase</a></li>
-  <li><a href="ext-feat/PunctSide.html">PunctSide</a></li>
-  <li><a href="ext-feat/PunctType.html">PunctType</a></li>
-  <li><a href="ext-feat/Style.html">Style</a></li>
-  <li><a href="ext-feat/Typo.html">Typo</a></li>
-  <li><a href="ext-feat/VerbType.html">VerbType</a></li>
+  <li><i>könnyedén</i> (SSS)
+    <ul>
+      <li><i>könny</i> = a tear (singular)</li>
+      <li><i>könnyed</i> = your tear (singular owner)</li>
+      <li><i>könnyedé</i> = (possession) of your tear (singular possession)</li>
+      <li><i>könnyedén</i> = (on the possession) of your tear (superessive case)</li>
+    </ul>
+  </li>
+  <li><i>ellenfeleié</i> (PSS)
+    <ul>
+      <li><i>ellenfél</i> = an opponent (singular)</li>
+      <li><i>ellenfele</i> = his/her/its opponent (singular owner)</li>
+      <li><i>ellenfelei</i> = his/her/its opponents (core plural, singular owner)</li>
+      <li><i>ellenfeleié</i> = (possession) of his/her/its opponents (singular possession)</li>
+    </ul>
+  </li>
+  <li><i>életeké</i> (SPS)
+    <ul>
+      <li><i>él</i> = point (singular)</li>
+      <li><i>élek</i> = points (plural)</li>
+      <li><i>élén</i> = his/her/its point (singular owner)</li>
+      <li><i>élünk</i> = our point (plural owner)</li>
+      <li><i>életeké</i> = (possession) of our point (singular possession)</li>
+    </ul>
+  </li>
+  <li><i>tárgyalópartnereinkét</i> (PPS)
+    <ul>
+      <li><i>tárgyalópartner</i> = negotiator (singular)</li>
+      <li><i>tárgyalópartnerei</i> = his/her/its negotiators (plural, singular owner)</li>
+      <li><i>tárgyalópartnereinkét</i> = (possession) of our negotiators (plural, plural owner, singular possession, accusative case)</li>
+    </ul>
+  </li>
 </ul>
 
-<p>The following Interset features are not used under their Interset names but they are included through the layered feature scheme:</p>
+<p>Words marked for plural possessions are very rare, though. Note
+that in the following example from Multext-East, Columbus is marked
+for plural possession, but not for his own owner. </p>
 
 <ul>
-  <li><a href="ext-feat/PossedNumber.html">PossedNumber</a></li>
-  <li><a href="ext-feat/PossGender.html">PossGender</a></li>
-  <li><a href="ext-feat/PossNumber.html">PossNumber</a></li>
-  <li><a href="ext-feat/PossPerson.html">PossPerson</a></li>
+  <li><i>Kolumbuszéinál</i>
+    <ul>
+      <li><i>Kolumbusz</i> = Columbus (singular)</li>
+      <li><i>Kolumbuszéi</i> = (possessions) of Columbus (plural possession)</li>
+      <li><i>Kolumbuszéinál</i> = (at the possessions) of Columbus (adessive case)</li>
+    </ul>
+  </li>
 </ul>
+
+<h3 id="sing-singular-possession">Sing: singular possession</h3>
+
+<h3 id="plur-plural-possession">Plur: plural possession</h3>
 
 
 <!-- "relation in other languages" links -->
