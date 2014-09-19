@@ -198,15 +198,21 @@ Examples:
 <span style='color: red'><I>kutyája</I></span> = his/her/its dog;
 <span style='color: red'><I>kutyájuk</I></span> = their dog.
 
+<i>Péternek sok <span style='color:red'>pénze</span> van.</i><br/>
+lit. to-Peter much <span style='color:red'>his-money</span> there-is<br/>
+Peter has a lot of money.
+
 ## Number[psee]
 
 `Number[psee]`
 is the possessee's (possessed, owned noun phrase's) number. In
 Hungarian, possession can be marked on the possessor or on the
 possessed. It is possible, though rare, that a noun has three
-distinct number features: its own grammatical number, number of its
-possessor and number of its possession. Examples from the
-Multext-East Hungarian lexicon:
+distinct number features:
+its own grammatical number (lexical),
+number of its possessor (inflectional but not dictated by agreement with other words) and
+number of its possession (inflectional, dictated by agreement?).
+Examples from the Multext-East Hungarian lexicon:
 
 * <I>könnyedén</I> (SSS)
   * <I>könny</I> = a tear (singular)
@@ -237,7 +243,3 @@ for plural possession, but not for his own owner.
   * <I>Kolumbusz</I> = Columbus (singular)
   * <I>Kolumbuszéi</I> = (possessions) of Columbus (plural possession)
   * <I>Kolumbuszéinál</I> = (at the possessions) of Columbus (adessive case)
-
-### Sing: singular possession
-
-### Plur: plural possession
