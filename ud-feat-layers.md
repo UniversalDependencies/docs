@@ -198,20 +198,28 @@ Examples:
 <span style='color: red'><I>kutyája</I></span> = his/her/its dog;
 <span style='color: red'><I>kutyájuk</I></span> = their dog.
 
+<i>János <span style='color:red'>csontja</span><br/>
+lit. John <span style='color:red'>his-bone</span><br/>
+John's bone</i>
+
+<i>János <span style='color:red'>csontjai</span><br/>
+lit. John <span style='color:red'>his-bones</span><br/>
+John's bones</i>
+
 <i>Péternek sok <span style='color:red'>pénze</span> van.</i><br/>
 lit. to-Peter much <span style='color:red'>his-money</span> there-is<br/>
 Peter has a lot of money.
 
 ## Number[psee]
 
-`Number[psee]`
-is the possessee's (possessed, owned noun phrase's) number. In
-Hungarian, possession can be marked on the possessor or on the
-possessed. It is possible, though rare, that a noun has three
-distinct number features:
-its own grammatical number (lexical),
-number of its possessor (inflectional but not dictated by agreement with other words) and
-number of its possession (inflectional, dictated by agreement?).
+This feature seems to be very specific to Hungarian.
+It denotes the possessee's (possessed, owned noun phrase's) number.
+Hungarian has three types of number in the nominal inflection:
+
+* The number of the noun (lexical).
+* The number of owners that own the noun (inflectional but not dictated by agreement with other words).
+* The number of the context-given referent, which is some possession of the noun, i.e. belongs to the noun (anaphoric possessive; in a sense, this is an agreement feature, but the head noun is not pronounced in the sentence).
+
 Examples from the Multext-East Hungarian lexicon:
 
 * <I>könnyedén</I> (SSS)
@@ -243,3 +251,13 @@ for plural possession, but not for his own owner.
   * <I>Kolumbusz</I> = Columbus (singular)
   * <I>Kolumbuszéi</I> = (possessions) of Columbus (plural possession)
   * <I>Kolumbuszéinál</I> = (at the possessions) of Columbus (adessive case)
+
+See also <a href="http://ling.auf.net/lingbuzz/002042/current.pdf">Éva Dékány (2014): The syntax of anaphoric possessives in Hungarian</a>:
+In anaphoric possessives the possessed noun, the head of the whole nominal phrase,
+is not pronounced, and its reference has to be recovered from the context.
+The possessor in Hungarian anaphoric possessives has to bear the _-é_ suffix.
+
+Since `Number[psee]=Plur` is extremely rare, this feature is not so important
+for distinguishing singular and plural possessions. However, the mere presence
+of `Number[psee]=Sing` informs that there is the _-é_ suffix and thus that
+there is an unpronounced possession.
