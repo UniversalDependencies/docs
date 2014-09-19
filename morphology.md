@@ -42,15 +42,15 @@ Universal and language-specific features of a word are listed together in the FE
 Unlike in various language-specific tagsets, the Universal Features do not
 include features aimed at marking _fusion words_ (a word that is result of
 merging two other words, which are syntactically independent and belong to
-different parts of speech): Czech _dělals (dělal + jsi_ ... main verb +
-auxiliary); _proň (pro + něj_ ... preposition + pronoun); German _zum (zu + dem_ ... preposition + article);
-Spanish _dámelo (da + me + lo_ ... verb +
-clitics) etc. The only truly general approach to fusion words is to apply
+different parts of speech):
+Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
+German _zum (zu + dem_ ... preposition + article);
+Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
+The only truly general approach to fusion words is to apply
 a language-specific processing step that will split tokens into syntactic words
 where necessary. Every syntactic word will then get its own part-of-speech tag
-and features. See also <a href="format.html">Format</a>.
-<span style='background:yellow'>TODO: Once we split Tokenization from Format,
-link to Tokenization from here.</span>
+and features. See also <a href="tokenization.html">Tokenization</a> and
+<a href="format.html">Format</a>.
 
 * There are two types of identifiers:
   - feature names = _features_
