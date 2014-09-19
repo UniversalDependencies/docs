@@ -216,8 +216,8 @@ This feature seems to be very specific to Hungarian.
 It denotes the possessee's (possessed, owned noun phrase's) number.
 Hungarian has three types of number in the nominal inflection:
 
-* The number of the noun (lexical).
-* The number of owners that own the noun (inflectional but not dictated by agreement with other words).
+* The number of the noun (inflectional, non-agreement).
+* The number of owners that own the noun (inflectional, agreement with possessor that may or may not be pronounced).
 * The number of the context-given referent, which is some possession of the noun, i.e. belongs to the noun (anaphoric possessive; in a sense, this is an agreement feature, but the head noun is not pronounced in the sentence).
 
 Examples from the Multext-East Hungarian lexicon:
