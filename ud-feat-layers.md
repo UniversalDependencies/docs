@@ -150,58 +150,53 @@ Examples:
 
 ## Person[psor]
 
-`Person[psor]`
-is possessor's person, marked e.g. on Hungarian nouns. These noun
+The possessor's person is marked e.g. on Hungarian nouns. These noun
 forms would be translated to English as possessive pronoun + noun.
 
-Note
-that there is currently a sort of inconsitency in Interset: since
-this feature was introduced, it would be logical to use it also for
-possessive pronouns in other languages. Yet the possessor's person of
-these pronouns is traditionally captured in the &ldquo;Person&rdquo;
-feature. Also note that using PossPerson for possessive pronouns
-might introduce inconsistency at the other end because in some
-languages, possessive pronouns are actually identical to personal
-pronouns in the genitive case.
+Note that it is reasonable to make this a layered feature even though
+the default <a href="ud-feat/Person.html">Person</a> is normally not
+marked on nouns. In relation to verbs (which may have to mark person
+agreement with nouns), a noun is almost always in the third person.
+So even if this default person is not explicitly marked morphologically,
+and probably the default `Person` does not appear among features of
+the noun, we should not use the default layer of persons to mark the
+possessor. If we abused the default layer, the annotation would no longer
+be parallel to personal pronouns that could be substituted for the noun.
+
+On the other hand, we probably do not want a separate `[psor]` layer
+for the person of possessive determiners / pronouns.
+They modify a noun, not a verb. Arguably they have only one `Person`
+feature and it is lexical (while for the Hungarian nouns,
+`Person[psor]` is inflectional).
+They usually modify nouns, not verbs, and agreement with verbs does
+not play any role.
+Moreover, in some languages possessive pronouns are actually identical
+to personal pronouns in the genitive <a href="ud-feat/Case.html">case</a>
+and it is logical that they have the same `Person` as in the nominative.
 
 ### 1: first person possessor
 
 Examples:
 [hu]
-<I>kutya</I>
-= dog;
-<span style='color: red'><I>kutyám</I></span>
-=
-my dog;
-<span style='color: red'><I>kutyá</I></span><span style='color: red'><I>nk</I></span>
-=
-our dog.
+<I>kutya</I> = dog;
+<span style='color: red'><I>kutyám</I></span> = my dog;
+<span style='color: red'><I>kutyánk</I></span> = our dog.
 
 ### 2: second person possessor
 
 Examples:
 [hu]
-<I>kutya</I>
-= dog;
-<span style='color: red'><I>kutyá</I></span><span style='color: red'><I>d</I></span>
-=
-your.Sing dog;
-<span style='color: red'><I>kutyá</I></span><span style='color: red'><I>tok</I></span>
-=
-your.Plur dog.
+<I>kutya</I> = dog;
+<span style='color: red'><I>kutyád</I></span> = your.Sing dog;
+<span style='color: red'><I>kutyátok</I></span> = your.Plur dog.
 
 ### 3: third person possessor
 
 Examples:
 [hu]
-<I>kutya</I>
-= dog;
-<span style='color: red'><I>kutyá</I></span><span style='color: red'><I>ja</I></span>
-=
-his/her/its dog;
-<span style='color: red'><I>kutyá</I></span><span style='color: red'><I>juk</I></span>
-=
-their dog.
+<I>kutya</I> = dog;
+<span style='color: red'><I>kutyája</I></span> = his/her/its dog;
+<span style='color: red'><I>kutyájuk</I></span> = their dog.
 
 ## Number[psee]
 
