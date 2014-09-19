@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal POS tags</title>
-    <link rel="root" href=""/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
-    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+    <title>Negative</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -18,6 +18,8 @@
 
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-feat/Negative.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -32,99 +34,37 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-pos-tags">Universal POS tags</h1>
+          <h2 id="negative-whether-the-word-can-be-or-is-negated">Negative: whether the word can be or is negated</h2>
 
-<table class="typeindex">
-  <thead>
-    <tr>
-      <th>Open class words</th>
-      <th>Closed class words</th>
-      <th>Other</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="">ADJ</a></td>
-      <td><a href="">ADP</a></td>
-      <td><a href="">PUNCT</a></td>
-    </tr>
-    <tr>
-      <td><a href="">ADV</a></td>
-      <td><a href="">AUX</a></td>
-      <td><a href="">SYM</a></td>
-    </tr>
-    <tr>
-      <td><a href="">INTJ</a></td>
-      <td><a href="">CONJ</a></td>
-      <td><a href="">X</a></td>
-    </tr>
-    <tr>
-      <td><a href="">NOUN</a></td>
-      <td><a href="">DET</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td><a href="">PROPN</a></td>
-      <td><a href="">NUM</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td><a href="">VERB</a></td>
-      <td><a href="">PART</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><a href="">PRON</a></td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><a href="">SCONJ</a></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+<p>Negativeness is
+typically a feature of <a href="../ud-pos/VERB.html">verbs</a>, <a href="../ud-pos/ADJ.html">adjectives</a>, sometimes also <a href="../ud-pos/ADV.html">adverbs</a> and
+<a href="../ud-pos/NOUN.html">nouns</a> in languages that negate using bound morphemes. For instance,
+all Czech verbs and adjectives can be negated using the prefix <i>ne-</i>.
+In
+English, verbs are negated using the <a href="../ud-pos/PART.html">particle</a> <i>not</i>
+and adjectives are also negated using prefixes, although the process
+is less productive than in Czech <i>(wise
+– unwise, probable – improbable)</i>.</p>
 
-<p>Alphabetical listing</p>
+<p>Note that <code>Negative=Neg</code> is not the
+same thing as <tt><a href="PronType.html">PronType</a>=Neg</tt>. For pronouns and other pronominal parts
+of speech there is no such binary opposition as for verbs and
+adjectives. (There is no such thing as “affirmative pronoun”.)</p>
 
-<ul>
+<p>The negativeness feature could be also used to distinguish response
+<a href="../ud-pos/INTJ.html">interjections</a> <i>yes</i> and <i>no</i>.</p>
 
-  <li><a href="ud-pos/ADJ.html">ADJ</a>: adjective</li>
+<h3 id="pos-positive-affirmative">Pos: positive, affirmative</h3>
 
-  <li><a href="ud-pos/ADP.html">ADP</a>: adposition</li>
+<p>Examples:
+[cs] <span style="color: red"><i>přišel</i></span>
+(he came)</p>
 
-  <li><a href="ud-pos/ADV.html">ADV</a>: adverb</li>
+<h3 id="neg-negative">Neg: negative</h3>
 
-  <li><a href="ud-pos/AUX_.html">AUX</a>: auxiliary verb</li>
-
-  <li><a href="ud-pos/CONJ.html">CONJ</a>: coordinating conjunction</li>
-
-  <li><a href="ud-pos/DET.html">DET</a>: determiner</li>
-
-  <li><a href="ud-pos/INTJ.html">INTJ</a>: interjection</li>
-
-  <li><a href="ud-pos/NOUN.html">NOUN</a>: noun</li>
-
-  <li><a href="ud-pos/NUM.html">NUM</a>: numeral</li>
-
-  <li><a href="ud-pos/PART.html">PART</a>: particle</li>
-
-  <li><a href="ud-pos/PRON.html">PRON</a>: pronoun</li>
-
-  <li><a href="ud-pos/PROPN.html">PROPN</a>: proper noun</li>
-
-  <li><a href="ud-pos/PUNCT.html">PUNCT</a>: punctuation</li>
-
-  <li><a href="ud-pos/SCONJ.html">SCONJ</a>: subordinating conjunction</li>
-
-  <li><a href="ud-pos/SYM.html">SYM</a>: symbol</li>
-
-  <li><a href="ud-pos/VERB.html">VERB</a>: verb</li>
-
-  <li><a href="ud-pos/X.html">X</a>: other</li>
-
-</ul>
+<p>Examples: [cs]
+<span style="color: red"><i>nepřišel</i></span>
+(he did not come)</p>
 
 
 <!-- "relation in other languages" links -->
@@ -285,7 +225,7 @@
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = ''; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -316,7 +256,7 @@
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "",
+        "_current" : "ud-feat",
 
         "ud-pos": [
 
