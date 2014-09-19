@@ -108,7 +108,7 @@ We say that there are several _layers_ of the feature.
 The exact meaning of individual layers is language-dependent.
 
 For example, possessive adjectives, determiners and pronouns may have two
-different values of [ud-feat/Gender]() and two of [ud-feat/Number]. One of the values is determined
+different values of [ud-feat/Gender]() and two of [ud-feat/Number](). One of the values is determined
 by agreement with the modified (possessed) noun. This is parallel to other
 (non-possessive)
 adjectives and determiners that agree in gender and number with the nouns they
