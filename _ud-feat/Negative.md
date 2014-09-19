@@ -1,7 +1,8 @@
 ---
 layout: base
-title: 'Negativeness'
+title: 'Negative'
 shortdef: 'whether the word can be or is negated'
+redirect_from: "ud-feat/Negativeness.html"
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
@@ -16,27 +17,22 @@ and adjectives are also negated using prefixes, although the process
 is less productive than in Czech <I>(wise
 &ndash; unwise, probable &ndash; improbable)</I>.
 
-Note that `Negativeness=Neg` is not the
+Note that `Negative=Neg` is not the
 same thing as <tt><a href="PronType.html">PronType</a>=Neg</tt>. For pronouns and other pronominal parts
 of speech there is no such binary opposition as for verbs and
 adjectives. (There is no such thing as &ldquo;affirmative pronoun&rdquo;.)
 
-The
-negativeness feature could be also used to distinguish response
-<a href="../ud-pos/INTJ.html">interjections</a> <I>yes</I>
-and <I>no</I>.
+The negativeness feature could be also used to distinguish response
+<a href="../ud-pos/INTJ.html">interjections</a> <I>yes</I> and <I>no</I>.
 
 ### Pos: positive, affirmative
 
 Examples:
 [cs] <span style='color: red'><I>přišel</I></span>
-(he
-came)
+(he came)
 
 ### Neg: negative
 
 Examples: [cs]
 <span style='color: red'><I>nepřišel</I></span>
-(he
-did
-not come)
+(he did not come)

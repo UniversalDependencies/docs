@@ -1,7 +1,8 @@
 ---
 layout: base
-title: 'Definiteness'
+title: 'Definite'
 shortdef: 'definiteness or state'
+redirect_from: "ud-feat/Definiteness.html"
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
