@@ -180,6 +180,8 @@ documentation. For each layered feature, one layer may be defined as default
 and the corresponding features then appear without identifier,
 e.g. `Gender=Masc|Gender[psor]=Fem`.
 
+For more prototypes of layered features, see <a href="ud-feat-layers.html">Layered Features</a>.
+
 
 -------------
 
