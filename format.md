@@ -91,16 +91,16 @@ and refer to other fields as well). If no language-specific tags are available, 
 
 The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](http://universaldependencies.github.io/docs/features.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form `[A-Z0-9][a-zA-Z0-9]*`.
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the [Universal feature inventory](ud-feat-index.html) and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: `Case=Acc,Dat`. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form `[A-Z0-9][a-zA-Z0-9]*`.
 
 Here is an example, showing only the first five fields for the 
 Swedish sentence _Då var han elva år_ (Then he was eleven years old):
 
     1    Då      då     ADV      AB                    _
-    2    var     vara   VERB     VB.PRET.ACT           Tense=Pret|Voice=Act
-    3    han     han    PRON     PN.UTR.SIN.DEF.NOM    Case=Nom|Def=Def|Gen=Uter|Num=Sing
+    2    var     vara   VERB     VB.PRET.ACT           Tense=Past|Voice=Act
+    3    han     han    PRON     PN.UTR.SIN.DEF.NOM    Case=Nom|Def=Def|Gender=Com|Number=Sing
     4    elva    elva   NUM      RG.NOM                Case=Nom|NumType=Card
-    5    år      år     NOUN     NN.NEU.PLU.IND.NOM    Case=Nom|Def=Ind|Gen=Neut|Num=Plur
+    5    år      år     NOUN     NN.NEU.PLU.IND.NOM    Case=Nom|Def=Ind|Gender=Neut|Number=Plur
     6    .       .      PUNCT    DL.MAD                _
 
 Morphological annotation is only provided for words. 
@@ -112,21 +112,21 @@ The HEAD and DEPREL fields are used to encode a dependency tree over words. The 
 As in the case of morphology, syntactic annotation is only provided for words.
 Tokens that are not words have an underscore in both the HEAD and DEPREL fields. However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence _I haven't a clue_:
 
-    1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
-    2-3   haven't   _        _       _        _                  _      _
-    2     have      have     VERB    VB       Tens=Pres          0      root
-    3     not       not      ADV     RB       _                  2      neg
-    4     a         a        DET     DT       _                  5      det
-    5     clue      clue     NOUN    NN       Num=Sing           2      dobj
-    6     .         .        PUNCT   .        _                  2      punct
+    1     I         I        PRON    PRN      Number=Sing|Person=1     2      nsubj
+    2-3   haven't   _        _       _        _                        _      _
+    2     have      have     VERB    VB       Tense=Pres               0      root
+    3     not       not      ADV     RB       _                        2      neg
+    4     a         a        DET     DT       _                        5      det
+    5     clue      clue     NOUN    NN       Number=Sing              2      dobj
+    6     .         .        PUNCT   .        _                        2      punct
  
 We can extract the following approximation at the token level (with token indexing):
 
-    1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
-    2     haven't   _        VERB    _        Tens=Pres          0      root
-    3     a         a        DET     DT       _                  4      det
-    4     clue      clue     NOUN    NN       Num=Sing           2      dobj
-    5     .         .        PUNCT   .        _                  2      punct
+    1     I         I        PRON    PRN      Number=Sing|Person=1     2      nsubj
+    2     haven't   _        VERB    _        Tense=Pres               0      root
+    3     a         a        DET     DT       _                        4      det
+    4     clue      clue     NOUN    NN       Number=Sing              2      dobj
+    5     .         .        PUNCT   .        _                        2      punct
 
 The usefulness of this approximate representation will vary from language to language, depending on the divergence between tokens and words and on the arbitrariness of the heuristic mapping.
  
@@ -134,14 +134,15 @@ The HEAD and DEPREL values define the basic dependencies which must be strictly 
 
 Here is an example, showing the first nine fields for the English sentence _They buy and sell books_:
 
-    1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
-    2    buy      buy     VERB    VBP    Num=Plur|Per=3|Tense=Pres    0    root     _
-    3    and      and     CONJ    CC     _                            2    cc       _
-    4    sell     sell    VERB    VBP    Num=Plur|Per=3|Tense=Pres    2    conj     _
-    5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
-    6    .        .       PUNCT   .      _                            2    punct    _
+    1    They     they    PRON    PRN    Case=Nom|Number=Plur               2    nsubj    4:nsubj
+    2    buy      buy     VERB    VBP    Number=Plur|Person=3|Tense=Pres    0    root     _
+    3    and      and     CONJ    CC     _                                  2    cc       _
+    4    sell     sell    VERB    VBP    Number=Plur|Person=3|Tense=Pres    2    conj     _
+    5    books    book    NOUN    NNS    Number=Plur                        2    dobj     4:dobj
+    6    .        .       PUNCT   .      _                                  2    punct    _
 
-The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*`, and use of the dash (`-`) character instead of underscore (`_`) is encouraged.
+The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*`,
+and use of the dash (`-`) character instead of underscore (`_`) is encouraged.
 
 # Miscellaneous
 
@@ -155,17 +156,17 @@ If the MISC field is not used, it should contain an underscore.
 
 To facilitate reconstruction of original (pre-tokenization) text, the information on original word segmentation should be kept if available. Every token after which there was no space in the original text should contain `SpaceAfter=No` in its MISC field. Note that this feature applies to the token level, not to the word level. Syntactic words that are just part of surface tokens will be ignored during detokenization and thus do not need the feature. In the example below, the line indexed 1 does not contain the `SpaceAfter` feature even though there was no space between _He_ and _'s_ in the underlying sentence. However, if there was no space between _He's_ and the third token, the 1-2 line would have `SpaceAfter=No`.
 
-    1-2   He's      _         _       _       _                _   _        _   _
-    1     He        he        PRON    PRN     Num=Sing|Per=3   2   nsubj    _   _
-    2     is        be        VERB    VBZ     Tense=Pres       0   root     _   _
-    3     in        in        ADP     IN      _                6   case     _   _
-    4     the       the       DET     DT      PronType=Art     6   det      _   _
-    5     United    unite     VERB    VBD     VerbForm=Part    6   nfincl   _   _
-    6     Kingdom   kingdom   NOUN    NN      Num=Sing         2   nmod     _   _
-    7     (         (         PUNCT   -LRB-   _                8   punct    _   SpaceAfter=No
-    8     UK        UK        PROPN   NNP     Num=Sing         6   appos    _   SpaceAfter=No
-    9     )         )         PUNCT   -RRB-   _                8   punct    _   SpaceAfter=No
-    10    .         .         PUNCT   .       _                2   punct    _   _
+    1-2   He's      _         _       _       _                      _   _        _   _
+    1     He        he        PRON    PRN     Number=Sing|Person=3   2   nsubj    _   _
+    2     is        be        VERB    VBZ     Tense=Pres             0   root     _   _
+    3     in        in        ADP     IN      _                      6   case     _   _
+    4     the       the       DET     DT      PronType=Art           6   det      _   _
+    5     United    unite     VERB    VBD     VerbForm=Part          6   nfincl   _   _
+    6     Kingdom   kingdom   NOUN    NN      Number=Sing            2   nmod     _   _
+    7     (         (         PUNCT   -LRB-   _                      8   punct    _   SpaceAfter=No
+    8     UK        UK        PROPN   NNP     Number=Sing            6   appos    _   SpaceAfter=No
+    9     )         )         PUNCT   -RRB-   _                      8   punct    _   SpaceAfter=No
+    10    .         .         PUNCT   .       _                      2   punct    _   _
 
 # Sentence Boundaries and Comments
 
@@ -175,20 +176,20 @@ Lines starting with the `#` character and preceding a sentence are considered as
 
     # sent_id 1
     # ...
-    1    They     they    PRON    PRN    Case=Nom|Num=Plur            2    nsubj    4:nsubj
-    2    buy      buy     VERB    VB     Num=Plur|Per=3|Tense=Pres    0    root     _
-    3    and      and     CONJ    CC     _                            2    cc       _
-    4    sell     sell    VERB    VB     Num=Plur|Per=3|Tense=Pres    2    conj     _
-    5    books    book    NOUN    NNS    Num=Plur                     2    dobj     4:dobj
-    6    .        .       PUNCT   .      _                            2    punct    _
+    1    They     they    PRON    PRN    Case=Nom|Number=Plur               2    nsubj    4:nsubj
+    2    buy      buy     VERB    VB     Number=Plur|Person=3|Tense=Pres    0    root     _
+    3    and      and     CONJ    CC     _                                  2    cc       _
+    4    sell     sell    VERB    VB     Number=Plur|Person=3|Tense=Pres    2    conj     _
+    5    books    book    NOUN    NNS    Number=Plur                        2    dobj     4:dobj
+    6    .        .       PUNCT   .      _                                  2    punct    _
     
     # sent_id 2
     # ...
-    1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj
-    2-3   haven't   _        _       _        _                  _      _
-    2     have      have     VERB    VB       Tens=Pres          0      root
-    3     not       not      ADV     RB       _                  2      neg
-    4     a         a        DET     DT       _                  4      det
-    5     clue      clue     NOUN    NN       Num=Sing           2      dobj
-    6     .         .        PUNCT   .        _                  2      punct
+    1     I         I        PRON    PRN      Number=Sing|Person=1     2      nsubj
+    2-3   haven't   _        _       _        _                        _      _
+    2     have      have     VERB    VB       Tense=Pres               0      root
+    3     not       not      ADV     RB       _                        2      neg
+    4     a         a        DET     DT       _                        4      det
+    5     clue      clue     NOUN    NN       Number=Sing              2      dobj
+    6     .         .        PUNCT   .        _                        2      punct
     
