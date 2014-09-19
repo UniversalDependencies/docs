@@ -35,7 +35,7 @@ instrumental <I>matkou</I>;
 [de] nominative <I>der Mann</I> (the man), genitive <I>des
 Mannes</I>, dative <I>dem Mann</I>, accusative <I>den Mann</I>;
 [en] nominative/direct case <I>he, she</I>, accusative/oblique
-case <I>him, her</I>
+case <I>him, her.</I>
 
 The descriptions of the individual case
 values below include semantic hints about the prototypical meaning of
@@ -120,11 +120,8 @@ transitive verb.
 
 ### Dat: dative
 
-In many
-languages this is the word form used for indirect
-objects
-of
-verbs.
+In many languages this is the word form used for indirect objects of verbs.
+
 Example:
 [de] <I>Ich gebe </I><span style='color: red'><I>meinem
 Bruder</I></span><I> ein Geschenk.</I>
@@ -318,13 +315,13 @@ something happened to every member of a set, one in a time. Or it may
 express frequency.
 
 Examples: [hu]
-<I>fejenként</I>
+<I><span style='color:red'>fejenként</span></I>
 (per
-capita); <I>esetenként</I>
+capita); <I><span style='color:red'>esetenként</span></I>
 (in
-some cases); <I>hetenként</I>
+some cases); <I><span style='color:red'>hetenként</span></I>
 (once
-per week, weekly); <I>tízpercenként</I>
+per week, weekly); <I><span style='color:red'>tízpercenként</span></I>
 (every
 ten minutes).
 
@@ -631,11 +628,11 @@ time.
 
 Examples:
 [hu]
-<I>hétkor</I>
+<I><span style='color:red'>hétkor</span></I>
 = at seven (o'clock);
-<I>éjfélkor</I>
+<I><span style='color:red'>éjfélkor</span></I>
 = at midnight;
-<I>karácsonykor</I>
+<I><span style='color:red'>karácsonykor</span></I>
 = at Christmas.
 
 ### Ter: terminative / terminal allative
