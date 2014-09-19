@@ -216,9 +216,10 @@ The following Interset features are currently not part of the standard:
 * <a href="ext-feat/Typo.html">Typo</a>
 * <a href="ext-feat/VerbType.html">VerbType</a>
 
-The following Interset features are not used under their Interset names but they are included through the layered feature scheme:
+The following Interset features are not used under their Interset names but they are included
+through the <a href="ud-feat-layers.html">layered feature scheme</a>:
 
-* <a href="ext-feat/PossedNumber.html">PossedNumber</a>
-* <a href="ext-feat/PossGender.html">PossGender</a>
-* <a href="ext-feat/PossNumber.html">PossNumber</a>
-* <a href="ext-feat/PossPerson.html">PossPerson</a>
+* <a href="ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
+* <a href="ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
+* <a href="ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
+* <a href="ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
