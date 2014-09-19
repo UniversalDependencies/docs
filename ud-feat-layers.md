@@ -198,13 +198,13 @@ Examples:
 <span style='color: red'><I>kutyája</I></span> = his/her/its dog;
 <span style='color: red'><I>kutyájuk</I></span> = their dog.
 
-<i>János <span style='color:red'>csontja</span><br/>
+<i>János <span style='color:red'>csontja</span></i><br/>
 lit. John <span style='color:red'>his-bone</span><br/>
-John's bone</i>
+John's bone
 
-<i>János <span style='color:red'>csontjai</span><br/>
+<i>János <span style='color:red'>csontjai</span></i><br/>
 lit. John <span style='color:red'>his-bones</span><br/>
-John's bones</i>
+John's bones
 
 <i>Péternek sok <span style='color:red'>pénze</span> van.</i><br/>
 lit. to-Peter much <span style='color:red'>his-money</span> there-is<br/>
