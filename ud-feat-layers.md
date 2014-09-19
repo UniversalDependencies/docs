@@ -261,3 +261,22 @@ Since `Number[psee]=Plur` is extremely rare, this feature is not so important
 for distinguishing singular and plural possessions. However, the mere presence
 of `Number[psee]=Sing` informs that there is the _-é_ suffix and thus that
 there is an unpronounced possession.
+
+## Layered verb agreement in Basque
+
+Verbs in many Indo-European languages must agree in person and number with their subject.
+This is what typically [ud-feat/Person]() and [ud-feat/Number]() of verbs denote.
+
+Some verbs in Basque must agree in person and number with up to three arguments:
+the absolutive argument (subject of intransitive verbs and object of transitive verbs),
+the ergative argument (subject of transitive verbs)
+and the dative argument (indirect object).
+
+We could make the absolutive agreement the default, thus using `Person` and `Number`
+without layer identifiers.
+If there is also one of the other two arguments, we will have
+`Person[erg]`, `Number[erg]` and `Person[dat]`, `Number[dat]`, respectively.
+
+Example: <i><span style='color:red'>nahi dizkiegu</span>,</i> lemma = <i>nahi_izan</i>,
+feats = `Number=Plur|Number[dat]=Plur|Number[erg]=Plur|Person=3|Person[dat]=3|Person[erg]=1`
+(we VERB them to them).
