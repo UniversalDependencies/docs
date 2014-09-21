@@ -35,14 +35,12 @@ The fields must additionally meet the following constraints:
 
 # Words and Tokens
 
-This section describes technical aspects of distinguishing words and tokens in CoNLL-U files.
-See <a href="tokenization.html">Tokenization</a> for the discussion of splitting _tokens_ into syntactic _words._
-
-To accommodate representation of both tokens and words, we adopt an extension of the original CoNLL-X token indexing scheme, where words are indexed with integers 1, 2, 3, ..., while (multiword) tokens are indexed with integer ranges like 1-2 or 3-5. 
+To accommodate the representation of both words and (multiword) tokens (see <a href="tokenization.html">Tokenization</a>), 
+we adopt an extension of the original CoNLL-X token indexing scheme, where words are indexed with integers 1, 2, 3, ..., 
+while (multiword) tokens are indexed with integer ranges like 1-2 or 3-5. 
 Lines representing such tokens are inserted before the first word in the range.
 These ranges must be nonempty and must not overlap.
-They have a FORM value –
-the string that occurs in the sentence – but have an underscore in all the remaining fields
+They have a FORM value – the string that occurs in the sentence – but have an underscore in all the remaining fields
 (because the token represents multiple words, each with its own lemma, part-of-speech tag, syntactic head, and so on). 
 This is illustrated in the following annotation snippet,
 showing only the first three fields for the Spanish sentence _vámonos al mar_ (let's go to the sea):
