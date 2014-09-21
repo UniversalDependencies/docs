@@ -1,4 +1,3 @@
-* [Format](format.html)
 * Tokenization
   * [General principles](tokenization.html)
 * Morphology
@@ -8,3 +7,4 @@
 * Syntax
   * [General principles](structure.html)
   * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
+* [Format](format.html)
