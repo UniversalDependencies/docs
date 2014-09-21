@@ -7,4 +7,4 @@
 * Syntax
   * General principles: TODO
   * [English relations](en-dep-index.html) ([single document](en-dep-all.html))
-* [Format](format.html)
+* [CoNLL-U format](format.html)
