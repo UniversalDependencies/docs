@@ -7,4 +7,4 @@
 * Syntax
   * General principles: TODO
   * [Finnish relations](fi-dep-index.html) ([single document](fi-dep-all.html))
-* [Format](format.html)
+* [CoNLL-U format](format.html)
