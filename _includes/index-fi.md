@@ -1,4 +1,3 @@
-* [Format](format.html)
 * Tokenization
   * General principles: TODO
 * Morphology
@@ -8,3 +7,4 @@
 * Syntax
   * General principles: TODO
   * [Finnish relations](fi-dep-index.html) ([single document](fi-dep-all.html))
+* [Format](format.html)
