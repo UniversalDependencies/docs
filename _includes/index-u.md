@@ -1,5 +1,4 @@
-* Tokenization
-  * [General principles](tokenization.html)
+* [Tokenization](tokenization.html)
 * Morphology
   * [General principles](morphology.html)
   * [Universal POS tags](ud-pos-index.html) ([single document](ud-pos-all.html))
