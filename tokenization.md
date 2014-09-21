@@ -3,7 +3,7 @@ layout: base
 title:  'Tokenization'
 ---
 
-# Tokenization: General Principles
+# Tokenization
 
 The universal dependency annotation is based on a lexicalist view of syntax, which means that dependency relations 
 hold between _words_. Hence, morphological features are encoded as properties of words and there is no attempt at
