@@ -9,6 +9,13 @@ This is the online documentation and example bank for Universal
 Dependencies. **Please note that these guidlines are currently
 under revision and should not be considered final.** Our goal is to have a stable version 1 release by 2014-09-30.
 
+<!-- 
+     The following <div> is the top-level element for the index page
+     tabs. To add a new tab (e.g. for Swedish), first add a link to
+     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
+     then add a <div> with the tab content below, with the same ID as
+     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
+ -->
 <div class="jquery-ui-tabs">
 
 <!-- links to per-language sections, shown as tab labels -->
@@ -19,19 +26,43 @@ under revision and should not be considered final.** Our goal is to have a stabl
   <li><a href="#language-other">...</a></li>
 </ul>
 
-<!-- Universal section (source: _includes/index-u.md) -->
+<!-- "Universal" tab -->
 <div id="language-u" markdown="1">
-{% include index-u.md %}
+* [Tokenization](tokenization.html)
+* Morphology
+  * [General principles](morphology.html)
+  * [Universal POS tags](ud-pos-index.html) ([single document](ud-pos-all.html))
+  * [Universal features](ud-feat-index.html) ([single document](ud-feat-all.html))
+* Syntax
+  * [General principles](structure.html)
+  * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
+* [CoNLL-U format](format.html)
 </div>
 
-<!-- English section (source: _includes/index-en.md) -->
+<!-- "English" tab -->
 <div id="language-en" markdown="1">
-{% include index-en.md %}
+* Tokenization: TODO
+* Morphology
+  * General principles: TODO
+  * English POS tags: TODO
+  * English features: TODO
+* Syntax
+  * General principles: TODO
+  * [English relations](en-dep-index.html) ([single document](en-dep-all.html))
+* [CoNLL-U format](format.html)
 </div>
 
-<!-- Finnish section (source: _includes/index-fi.md) -->
+<!-- "Finnish" tab -->
 <div id="language-fi" markdown="1">
-{% include index-fi.md %}
+* Tokenization: TODO
+* Morphology
+  * General principles: TODO
+  * Finnish POS tags: TODO
+  * Finnish features: TODO
+* Syntax
+  * General principles: TODO
+  * [Finnish relations](fi-dep-index.html) ([single document](fi-dep-all.html))
+* [CoNLL-U format](format.html)
 </div>
 
 <div id="language-other" markdown="1">
