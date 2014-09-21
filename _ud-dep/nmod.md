@@ -49,7 +49,7 @@ nmod(etsiä, johtolangatta)
 
 - the dative alternation where the prepositional construction gets a similar analysis to the double object construction:
 
- ~~~ sdparse
+~~~ sdparse
 give the children the toys
 dobj(give, toys)
 iobj(give, children)
