@@ -7,4 +7,4 @@
 * Syntax
   * [General principles](structure.html)
   * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
-* [Format](format.html)
+* [CoNLL-U format](format.html)
