@@ -16,7 +16,7 @@ The nature of this documentation will vary from one language to the next, depend
 the writing system. For languages where word segmentation is simple and deterministic given white-space and punctuation
 (or where a standard segmentation algorithm can be assumed), only the words need to be represented in the treebank. 
 For languages not using white-space at all, such as Chinese and Japanese, a complex word segmentation algorithm has 
-to be employed, but there is no need to represent the basic character sequence in treebank since it is completely 
+to be employed, but there is no need to represent the basic character sequence in the treebank since it is completely 
 recoverable from the word representation. By contrast, in languages where there is a nondeterministic mapping between
 white-space delimited _tokens_ and syntactic _words_, we provide the option of including both tokens and words in the
 treebank using a two-level indexing scheme described in the <a href="format.html">CoNLL-U format</a> section.
