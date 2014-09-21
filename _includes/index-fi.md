@@ -1,5 +1,4 @@
-* Tokenization
-  * General principles: TODO
+* Tokenization: TODO
 * Morphology
   * General principles: TODO
   * Finnish POS tags: TODO
