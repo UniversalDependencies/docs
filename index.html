@@ -40,6 +40,13 @@
 Dependencies. <strong>Please note that these guidlines are currently
 under revision and should not be considered final.</strong> Our goal is to have a stable version 1 release by 2014-09-30.</p>
 
+<!-- 
+     The following <div> is the top-level element for the index page
+     tabs. To add a new tab (e.g. for Swedish), first add a link to
+     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
+     then add a <div> with the tab content below, with the same ID as
+     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
+ -->
 <div class="jquery-ui-tabs">
 
 <!-- links to per-language sections, shown as tab labels -->
@@ -50,7 +57,7 @@ under revision and should not be considered final.</strong> Our goal is to have 
   <li><a href="#language-other">...</a></li>
 </ul>
 
-<!-- Universal section (source: _includes/index-u.md) -->
+<!-- "Universal" tab -->
 <div id="language-u">
     <ul>
       <li><a href="tokenization.html">Tokenization</a></li>
@@ -69,10 +76,9 @@ under revision and should not be considered final.</strong> Our goal is to have 
       </li>
       <li><a href="format.html">CoNLL-U format</a></li>
     </ul>
-
   </div>
 
-<!-- English section (source: _includes/index-en.md) -->
+<!-- "English" tab -->
 <div id="language-en">
     <ul>
       <li>Tokenization: TODO</li>
@@ -91,10 +97,9 @@ under revision and should not be considered final.</strong> Our goal is to have 
       </li>
       <li><a href="format.html">CoNLL-U format</a></li>
     </ul>
-
   </div>
 
-<!-- Finnish section (source: _includes/index-fi.md) -->
+<!-- "Finnish" tab -->
 <div id="language-fi">
     <ul>
       <li>Tokenization: TODO</li>
@@ -113,7 +118,6 @@ under revision and should not be considered final.</strong> Our goal is to have 
       </li>
       <li><a href="format.html">CoNLL-U format</a></li>
     </ul>
-
   </div>
 
 <div id="language-other">
