@@ -8,7 +8,14 @@ shortdef: 'particle'
 
 ### Definition
 
-Particles are function words that must be associated with another word or phrase to impart meaning and that encodes grammatical categories such as negation, mood, tense, or case. Particles are normally not inflected, although exceptions may occur. 
+Particles are function words that must be associated with another word or phrase to impart meaning
+and that do not satisfy definitions of other universal parts of speech
+(e.g. <a href="ADP.html">adpositions</a>,
+<a href="CONJ.html">coordinating conjunctions</a>,
+<a href="SCONJ.html">subordinating conjunctions</a> or
+<a href="AUX.html">auxiliary verbs</a>).
+Particles may encode grammatical categories such as negation, mood, tense etc.
+Particles are normally not inflected, although exceptions may occur. 
 
 Note that the {{ page.title }} tag does not cover so-called _verbal particles_ in Germanic languages, as in _give <span style='color:red'>in</span>_ or _end <span style='color:red'>up</span>_. These are adpositions or adverbs by origin and are tagged accordingly <a href="ADP.html">ADP</a> or <a href="ADV.html">ADV</a>. Separable verb prefixes in German are treated analogically.
 
