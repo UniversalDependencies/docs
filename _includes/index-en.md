@@ -1,4 +1,3 @@
-* [Format](format.html)
 * Tokenization
   * General principles: TODO
 * Morphology
@@ -8,3 +7,4 @@
 * Syntax
   * General principles: TODO
   * [English relations](en-dep-index.html) ([single document](en-dep-all.html))
+* [Format](format.html)
