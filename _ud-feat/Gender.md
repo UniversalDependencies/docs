@@ -14,7 +14,7 @@ usually not encoded in English tagsets.
 
 See also the related feature of <a href="Animacy.html">Animacy</a>.
 
-African languages have analogous feature of noun classes: there
+African languages have an analogous feature of noun classes: there
 might be separate grammatical categories for flat objects, long thin
 objects etc. African noun classes are not covered in the current
 proposal because none of the tagsets on which the proposal is based
