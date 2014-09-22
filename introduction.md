@@ -99,3 +99,9 @@ feature inventory have been revised in the process.
 * Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
   Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
   In *Proceedings of IJCNLP 2008 Workshop on NLP for Less Privileged Languages*
+
+* Daniel Zeman, Ondřej Dušek, David Mareček, Martin Popel, Loganathan Ramasamy,
+  Jan Štěpánek, Zdeněk Žabokrtský, and Jan Hajič. 2014.
+  HamleDT: Harmonized multi-language dependency treebank.
+  In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
+  (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
