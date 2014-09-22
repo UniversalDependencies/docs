@@ -49,7 +49,7 @@ allows an additional POSTAG, taken from a language-specific
 data column and are not mixed with the universal POS tags.</p>
 
 <p>The universal POS tags consist of uppercase English letters <code>[A-Z]</code> only.
-Just one tag per word is expected, and it should not be empty. (Use the <code>X</code>
+Just one tag per word is expected, and it should not be empty. (Use the <code>X</code> tag
 instead of underscore if no other tag is appropriate).</p>
 
 <h2 id="features">Features</h2>
@@ -70,7 +70,7 @@ features when necessary. Such features should be described in the language-speci
 documentation and follow the general principles outlined here.
 Universal and language-specific features of a word are listed together in the FEATS column.</p>
 
-<p>Unlike in various language-specific tagsets, the Universal Features do not
+<p>Unlike in various language-specific tagsets, the universal features do not
 include features aimed at marking <em>fusion words</em> (a word that is result of
 merging two other words, which are syntactically independent and belong to
 different parts of speech):
@@ -94,8 +94,8 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
 occasionally, digits 0-9. The first letter is always uppercase.
 The other letters are generally lowercase, except for positions where new
 internal words are marked for better readability (e.g. <code>NumType</code>).
-This makes features distinct from the <a href="ud-pos-index.html">core part-of-speech tags</a> (all uppercase)
-and from the <a href="relations.html">dependency relation labels</a> (all lowercase).</li>
+This makes features distinct from the <a href="ud-pos-index.html">universal POS tags</a> (all uppercase)
+and from the <a href="relations.html">universal dependency relatios</a> (all lowercase).</li>
   <li>A feature of a word should always be fully specified in the data, i.e. both
 the feature name and the value should be identified: <code>PronType=Prs</code>.
 Note that the values are not guaranteed to be unique across features,
@@ -222,12 +222,12 @@ e.g. <code>Gender=Masc|Gender[psor]=Fem</code>.</p>
 
 <h2 id="extension-interset-features-that-are-not-part-of-this-standard">Extension: Interset features that are not part of this standard</h2>
 
-<p>Universal Features are mostly derived from the
+<p>The universal features are mostly derived from the
 <a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
 (<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
 Interset contains additional features that have not yet been adopted as
-Universal Features. However, they may be used, if necessary, as part of the
-“language-specific extensions” to the Universal Features.</p>
+universal features. However, they may be used, if necessary, as part of the
+“language-specific extensions” to the universal features.</p>
 
 <p>The following Interset features are currently not part of the standard:</p>
 
