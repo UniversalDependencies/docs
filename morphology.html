@@ -38,19 +38,19 @@
 
 <h2 id="part-of-speech-tags">Part-of-speech tags</h2>
 
-<p>The universal <a href="ud-pos-index.html">list of core POS tags</a> is fixed
-and it cannot be extended in language-specific extensions. However, it is
+<p>The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed
+and cannot be extended in language-specific extensions. However, it is
 possible that some tags will not be used in some languages.</p>
 
-<p>The features (see below) can be used for a more fine-grained classification
-of words if it is desirable. Also note that the <a href="format.html">file format</a>
-allows for an additional POSTAG, taken from a language-specific
+<p>Features (see below) can be used for a more fine-grained classification
+of words if desirable. Also note that the <a href="format.html">CoNLL-U format</a>
+allows an additional POSTAG, taken from a language-specific
 (or corpus-specific) tagset. Such language-specific POSTAGs have their own
-data column and they are not mixed with the universal POS tags.</p>
+data column and are not mixed with the universal POS tags.</p>
 
 <p>The universal POS tags consist of uppercase English letters <code>[A-Z]</code> only.
-Just one tag per word is expected, and it should not be empty (not even
-underscore—instead, the <code>X</code> tag should be used).</p>
+Just one tag per word is expected, and it should not be empty. (Use the <code>X</code>
+instead of underscore if no other tag is appropriate).</p>
 
 <h2 id="features">Features</h2>
 
