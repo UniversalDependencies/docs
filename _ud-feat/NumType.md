@@ -38,7 +38,7 @@ _tolik_ (so many), _mnoho_ (many), _málo_ (few)_
 
 ### Ord: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
-This is either subtype of adjective, or (in some languages) of adverb.
+This is a subtype of numeral, adjective, or (in some languages) adverb.
 
 Examples: [en] _first, second, third;_ [cs] adjectival: _první_ (first), _druhý_ (second), _třetí_
 (third); _kolikátý_ (“how manieth” = which rank), _několikátý_ (some
