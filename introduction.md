@@ -8,7 +8,7 @@ title:  'Universal Dependencies'
 Universal Dependencies is a project that seeks to develop cross-linguistically consistent treebank
 annotation for multiple languages with the goal of facilitating multilingual parser development, 
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
-scheme is based on (universal) Stanford dependencies (de Marneffe et al., 2006, 2014), Google 
+scheme is based on (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
 universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
 morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal 
 inventory of categories and guidelines to facilitate consistent annotation of similar 
@@ -18,7 +18,7 @@ constructions across languages, while allowing language-specific extensions when
 
 The Stanford dependencies were originally developed as a backend to the Stanford parser,
 eventually emerged as the de facto standard for dependency analysis of English, and has since 
-been adapted to a number of different languages (REFs).
+been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Seraji et al., 2013, Tsarfaty, 2013).
 The Google universal tag set grew out of the cross-linguistic error analysis based on the 
 CoNLL-X shared task data by McDonald and Nivre (2007), were initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
@@ -51,9 +51,15 @@ feature inventory have been revised in the process.
 
 ## References
 
+* Bosco et al. 2013
+
+* Chang et al. 2009
+
 * Dipanjan Das, and Slav Petrov. 2011.
 
 * Marie-Catherine de Marneffe, ... 2006.
+
+* Marie-Catherine de Marneffe, ... 2008.
 
 * Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
   Haverinen, Filip Ginter, Joakim Nivre, and Christopher Manning. 2014.
@@ -75,6 +81,10 @@ feature inventory have been revised in the process.
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
+
+* Seraji et al. 2013
+
+* Tsarfaty 2013
 
 * Daniel Zeman. 2008. [Reusable Tagset Conversion Using Tagset
   Drivers](http://lrec-conf.org/proceedings/lrec2008/pdf/66_paper.pdf).
