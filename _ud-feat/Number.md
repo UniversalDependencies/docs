@@ -6,7 +6,7 @@ shortdef: 'number'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Number is usually inflectional feature
+Number is usually an inflectional feature
 of <a href="../ud-pos/NOUN.html">nouns</a> and, depending on language, other parts of speech
 (<a href="../ud-pos/ADJ.html">adjectives</a>, <a href="../ud-pos/VERB.html">verbs</a>) that mark agreement with nouns.
 
