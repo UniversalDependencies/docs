@@ -19,7 +19,7 @@ data column and are not mixed with the universal POS tags.
 
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
 Just one tag per word is expected, and it should not be empty. (Use the `X` tag
-instead of underscore if no other tag is appropriate).
+instead of underscore if no other tag is appropriate.)
 
 ## Features
 
