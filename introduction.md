@@ -31,7 +31,9 @@ of many languages under a common annotation scheme.
 
 The first attempt to combine Stanford dependencies and Google universal tags into a universal
 annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013), 
-which released treebanks for 6 languages in 2013 and 11 languages in 2014. This was followed by 
+which released treebanks for 6 languages in 2013 and 11 languages in 2014.
+The second version of HamleDT (Rosa et al., 2014) provided Stanford/Google annotation for 30 languages in 2014.
+This was followed by 
 the development of universal Stanford dependencies (USD) (de Marneffe et al., 2014).
 Universal Dependencies is the result of merging these two initiatives and incorporating 
 the Interset inventory of morphosyntactic features. Both the universal tag set and the 
