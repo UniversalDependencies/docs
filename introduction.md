@@ -40,14 +40,14 @@ feature inventory have been revised in the process.
 * Marie-Catherine de Marneffe
 * Filip Ginter
 * Yoav Goldberg
-* Jan Hajic
+* [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * Christopher Manning
 * Ryan McDonald
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
 * Slav Petrov
 * Sampo Pyysalo
 * Reut Tsarfaty
-* Dan Zeman
+* [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
 ## References
 
