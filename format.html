@@ -51,9 +51,9 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
   <li>ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.</li>
   <li>FORM: Word form or punctuation symbol.</li>
   <li>LEMMA: Lemma or stem of word form.</li>
-  <li>CPOSTAG: Google universal part-of-speech tag from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">Universal POS tag</a> set.</li>
+  <li>CPOSTAG: Google universal part-of-speech tag from the <a href="http://universaldependencies.github.io/docs/ud-pos-index.html">universal POS tag</a> set.</li>
   <li>POSTAG: Language-specific part-of-speech tag; underscore if not available.</li>
-  <li>FEATS: List of morphological features from the <a href="http://universaldependencies.github.io/docs/ud-feat-index.html">Universal feature inventory</a> or from a defined language-specific extension; underscore if not available.</li>
+  <li>FEATS: List of morphological features from the <a href="http://universaldependencies.github.io/docs/ud-feat-index.html">universal feature inventory</a> or from a defined language-specific extension; underscore if not available.</li>
   <li>HEAD: Head of the current token, which is either a value of ID or zero (0).</li>
   <li>DEPREL: <a href="http://universaldependencies.github.io/docs/ud-dep-index.html">Universal Stanford dependency relation</a> to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.</li>
   <li>DEPS: List of secondary dependencies (head-deprel pairs).</li>
@@ -124,12 +124,12 @@ in contrast to the <em>word indexing</em> scheme used as the offical treebank re
 
 <h1 id="morphological-annotation">Morphological Annotation</h1>
 
-<p>The CPOSTAG field contains a part-of-speech tag from the <a href="ud-pos-index.html">Universal POS tag</a> set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
+<p>The CPOSTAG field contains a part-of-speech tag from the <a href="ud-pos-index.html">universal POS tag</a> set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
 and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words.</p>
 
 <p>The FEATS field contains a list
 of morphological features, with vertical bar (|) as list separator and with underscore to represent the empty list.
-All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the <a href="ud-feat-index.html">Universal feature inventory</a> and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: <code>Case=Acc,Dat</code>. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form <code>[A-Z0-9][a-zA-Z0-9]*</code>.</p>
+All features should be represented as attribute-value pairs, with an equals sign (=) separating the attribute from the value. In addition, features should as far as possible be selected from the <a href="ud-feat-index.html">universal feature inventory</a> and be sorted alphabetically by attribute names. It is possible to declare that a feature has two or more values for a given word: <code>Case=Acc,Dat</code>. In this case, the values are sorted alphabetically. In sorting, uppercase letters are considered identical to their lowercase counterparts. Both feature names and values must have the form <code>[A-Z0-9][a-zA-Z0-9]*</code>.</p>
 
 <p>Here is an example, showing only the first five fields for the 
 Swedish sentence <em>Då var han elva år</em> (Then he was eleven years old):</p>
@@ -147,7 +147,7 @@ Tokens that are not words have an underscore in the CPOSTAG, POSTAG and FEATS fi
 
 <h1 id="syntactic-annotation">Syntactic Annotation</h1>
 
-<p>The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a <a href="http://universaldependencies.github.io/docs/ud-dep-index.html">Universal Stanford dependency relation</a> or a language-specific subtype of such a relation (defined in <a href="http://universaldependencies.github.io/docs/relations.html">the language-specific documentation</a>). 
+<p>The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a <a href="http://universaldependencies.github.io/docs/ud-dep-index.html">universal Stanford dependency relation</a> or a language-specific subtype of such a relation (defined in <a href="http://universaldependencies.github.io/docs/relations.html">the language-specific documentation</a>). 
 As in the case of morphology, syntactic annotation is only provided for words.
 Tokens that are not words have an underscore in both the HEAD and DEPREL fields. However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence <em>I haven’t a clue</em>:</p>
 
