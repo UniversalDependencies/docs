@@ -16,18 +16,18 @@ under revision and should not be considered final.** Our goal is to have a stabl
      then add a <div> with the tab content below, with the same ID as
      the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
  -->
-<div class="jquery-ui-tabs">
+<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
 
 <!-- links to per-language sections, shown as tab labels -->
-<ul>
-  <li><a href="#language-u">Universal</a></li>
-  <li><a href="#language-en">English</a></li>
-  <li><a href="#language-fi">Finnish</a></li>
-  <li><a href="#language-other">...</a></li>
+<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
+  <li class="ui-state-default"><a href="#language-en">English</a></li>
+  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
+  <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
 <!-- "Universal" tab -->
-<div id="language-u" markdown="1">
+<div id="language-u" markdown="1" class="ui-tabs-panel">
 * [Tokenization](tokenization.html)
 * Morphology
   * [General principles](morphology.html)
@@ -40,7 +40,7 @@ under revision and should not be considered final.** Our goal is to have a stabl
 </div>
 
 <!-- "English" tab -->
-<div id="language-en" markdown="1">
+<div id="language-en" markdown="1" class="ui-tabs-hide">
 * Tokenization: TODO
 * Morphology
   * General principles: TODO
@@ -53,7 +53,7 @@ under revision and should not be considered final.** Our goal is to have a stabl
 </div>
 
 <!-- "Finnish" tab -->
-<div id="language-fi" markdown="1">
+<div id="language-fi" markdown="1" class="ui-tabs-hide">
 * Tokenization: TODO
 * Morphology
   * General principles: TODO
@@ -65,7 +65,7 @@ under revision and should not be considered final.** Our goal is to have a stabl
 * [CoNLL-U format](format.html)
 </div>
 
-<div id="language-other" markdown="1">
+<div id="language-other" markdown="1" class="ui-tabs-hide">
 More languages to come.
 </div>
 
