@@ -5,7 +5,7 @@ title:  'Universal Dependencies'
 
 # Universal Dependencies
 
-[Introduction to Universal Depdendencies](introduction.html)
+[Introduction to Universal Dependencies](introduction.html)
 
 This is the online documentation and example bank for Universal
 Dependencies. **Please note that these guidlines are currently
