@@ -20,7 +20,7 @@ The Stanford dependencies were originally developed as a backend to the Stanford
 eventually emerged as the de facto standard for dependency analysis of English, and has since 
 been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Seraji et al., 2013, Tsarfaty, 2013).
 The Google universal tag set grew out of the cross-linguistic error analysis based on the 
-CoNLL-X shared task data by McDonald and Nivre (2007), were initially used for unsupervised
+CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
 standard for mapping diverse tagsets to a common standard.
 The Interset interlingua for morphosyntactic tagsets ... (Zeman, 2008). 
