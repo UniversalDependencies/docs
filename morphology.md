@@ -18,7 +18,7 @@ allows an additional POSTAG, taken from a language-specific
 data column and are not mixed with the universal POS tags.
 
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
-Just one tag per word is expected, and it should not be empty. (Use the `X`
+Just one tag per word is expected, and it should not be empty. (Use the `X` tag
 instead of underscore if no other tag is appropriate).
 
 ## Features
@@ -39,7 +39,7 @@ features when necessary. Such features should be described in the language-speci
 documentation and follow the general principles outlined here.
 Universal and language-specific features of a word are listed together in the FEATS column.
 
-Unlike in various language-specific tagsets, the Universal Features do not
+Unlike in various language-specific tagsets, the universal features do not
 include features aimed at marking _fusion words_ (a word that is result of
 merging two other words, which are syntactically independent and belong to
 different parts of speech):
@@ -59,8 +59,8 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. `NumType`).
-  This makes features distinct from the <a href="ud-pos-index.html">core part-of-speech tags</a> (all uppercase)
-  and from the <a href="relations.html">dependency relation labels</a> (all lowercase).
+  This makes features distinct from the <a href="ud-pos-index.html">universal POS tags</a> (all uppercase)
+  and from the <a href="relations.html">universal dependency relatios</a> (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: `PronType=Prs`.
   Note that the values are not guaranteed to be unique across features,
@@ -187,12 +187,12 @@ For more prototypes of layered features, see <a href="ud-feat-layers.html">Layer
 
 ## Extension: Interset features that are not part of this standard
 
-Universal Features are mostly derived from the
+The universal features are mostly derived from the
 <a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
 (<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
 Interset contains additional features that have not yet been adopted as
-Universal Features. However, they may be used, if necessary, as part of the
-"language-specific extensions" to the Universal Features.
+universal features. However, they may be used, if necessary, as part of the
+"language-specific extensions" to the universal features.
 
 The following Interset features are currently not part of the standard:
 
