@@ -7,19 +7,19 @@ title:  'Morphology'
 
 ## Part-of-speech tags
 
-The universal <a href="ud-pos-index.html">list of core POS tags</a> is fixed
-and it cannot be extended in language-specific extensions. However, it is
+The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed
+and cannot be extended in language-specific extensions. However, it is
 possible that some tags will not be used in some languages.
 
-The features (see below) can be used for a more fine-grained classification
-of words if it is desirable. Also note that the <a href="format.html">file format</a>
-allows for an additional POSTAG, taken from a language-specific
+Features (see below) can be used for a more fine-grained classification
+of words if desirable. Also note that the <a href="format.html">CoNLL-U format</a>
+allows an additional POSTAG, taken from a language-specific
 (or corpus-specific) tagset. Such language-specific POSTAGs have their own
-data column and they are not mixed with the universal POS tags.
+data column and are not mixed with the universal POS tags.
 
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
-Just one tag per word is expected, and it should not be empty (not even
-underscore—instead, the `X` tag should be used).
+Just one tag per word is expected, and it should not be empty. (Use the `X`
+instead of underscore if no other tag is appropriate).
 
 ## Features
 
