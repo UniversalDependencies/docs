@@ -95,3 +95,7 @@ feature inventory have been revised in the process.
 * Daniel Zeman. 2008. [Reusable Tagset Conversion Using Tagset
   Drivers](http://lrec-conf.org/proceedings/lrec2008/pdf/66_paper.pdf).
   In *Proceedings of LREC*.
+
+* Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
+  Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
+  In *Proceedings of IJCNLP 2008 Workshop on NLP for Less Privileged Languages*
