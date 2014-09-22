@@ -16,7 +16,7 @@ constructions across languages, while allowing language-specific extensions when
 
 ## History
 
-The Stanford dependencies were originally developed as a backend to the Stanford parser, later 
+The Stanford dependencies were originally developed as a backend to the Stanford parser,
 eventually emerged as the de facto standard for dependency analysis of English, and has since 
 been adapted to a number of different languages (REFs).
 The Google universal tag set grew out of the cross-linguistic error analysis based on the 
