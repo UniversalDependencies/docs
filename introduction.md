@@ -88,6 +88,12 @@ feature inventory have been revised in the process.
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
 
+* Rudolf Rosa, Jan Mašek, David Mareček, Martin Popel, Daniel Zeman, Zdeněk Žabokrtský. 2014.
+  [HamleDT 2.0: Thirty Dependency Treebanks
+  Stanfordized](http://www.lrec-conf.org/proceedings/lrec2014/pdf/915_Paper.pdf).
+  In *Proceedings of LREC*.
+  ([home page](http://ufal.mff.cuni.cz/hamledt))
+
 * Seraji et al. 2013
 
 * Tsarfaty 2013
@@ -95,6 +101,7 @@ feature inventory have been revised in the process.
 * Daniel Zeman. 2008. [Reusable Tagset Conversion Using Tagset
   Drivers](http://lrec-conf.org/proceedings/lrec2008/pdf/66_paper.pdf).
   In *Proceedings of LREC*.
+  ([home page](http://ufal.mff.cuni.cz/interset))
 
 * Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
   Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).
