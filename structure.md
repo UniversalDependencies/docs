@@ -6,8 +6,10 @@ title:  'Structure'
 # Syntax: General Principles
 
 The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
+The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
+dependencies to achieve as much parallelism as possible (but not more) across languages.
 
-The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance.
+## The Primacy of Content Words
 
 Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.
 
