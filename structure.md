@@ -201,21 +201,23 @@ slightly late
 advmod(late, slightly)
 </div>
 
-The following table gives an overview of the types of dependents that we expect to be possible for different
-types of function words (defined by their own dependency label).
-
-|     | advmod | neg | Examples     |
-| det |   +    |  +  | not every    |
-| num |   +    |  +  | exactly two  |
+We expect modifiers to be possible for words with the grammatical functions `case`, `det`, and `num`.
+By contrast, we do not expect to see modifiers for `aux`, `auxpass`, `cc`, and `mark`.
 
 ## Special Relations
 
-The following expression types are all annotated with a flat head-initial structure:
+Some of the universal relations do not really encode syntactic dependency relations but are used to represent 
+punctuation, various kinds of multiword units, or unanalyzable segments. The use of these relations is subject 
+to special restrictions explained below.
 
-1. Fixed multiword expressions (mwe)
-2. Multiword names (name)
-3. Foreign phrases (foreign)
+Tokens with the dependency relation `punct` can never have dependents.
 
+The following types of expressions are always annotated in a head-initial structure, where all non-first elements
+depend on the first, and where only the first element can have dependents:
+
+1. Fixed multiword expressions (`mwe`)
+2. Multiword names (`name`)
+3. Foreign phrases (`foreign`)
 
 <div id="s8" class="sd-parse">
 Martin Luther King had a dream .
@@ -225,10 +227,10 @@ name(Luther,King)
 </div>
 
 <div id="s9" class="sd-parse">
-She said dra åt helvete .
-dobj(said,dra)
-foreign(dra,åt)
-foreign(dra,helvete)
+She said qwe rty yui .
+dobj(said,qwe)
+foreign(qwe,rty)
+foreign(qwe,yui)
 </div>
 
 In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
