@@ -13,11 +13,10 @@ She gave me a raise
 dobj(gave, raise)
 ~~~
 
-In languages distinguishing morphological <a href="../ud-feat/Case.html">cases</a>, the direct object will often be marked by the accusative case. However, verb valency may occasionally dictate a different form, such as the dative case in German
+In languages distinguishing morphological <a href="../ud-feat/Case.html">cases</a>, the direct object will often be marked by the accusative case. However, verb valency may occasionally dictate a different form, such as the dative case in the following German example:
 
 ~~~ sdparse
-jemandem begegnen
-someone.Dat to-meet
+jemandem begegnen \n someone.Dat to-meet
 dobj(begegnen, jemandem)
 ~~~
 
