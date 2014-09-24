@@ -133,8 +133,8 @@ take dependents:</p>
 <ol>
   <li>Multiword function words</li>
   <li>Coordinated function words</li>
-  <li>Promotion by head elision</li>
   <li>Function word modifiers</li>
+  <li>Promotion by head elision</li>
 </ol>
 
 <h3 id="multiword-function-words">Multiword Function Words</h3>
@@ -168,36 +168,6 @@ I will do that if and when it happens .
 mark(happens,if)
 conj(if, when)
 cc(if, and)
-</div>
-
-<h3 id="promotion-by-head-elision">Promotion by Head Elision</h3>
-
-<p>When the natural head of a function word is elided, the function word will be “promoted”
-to the function normally assumed by the content word head. This type of analysis should 
-in general be preferred over an analysis using the <code>remnant</code> relation, because it disrupts
-the structure less. The remnant analysis should be used only when there is no function word 
-that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
-and subordinating conjunctions.</p>
-
-<div id="s5a" class="sd-parse">
-Bill could not answer , but Ann could .
-nsubj(answer, Bill)
-aux(answer, could-2)
-conj(answer, could-8)
-nsubj(could-8, Ann)
-</div>
-
-<div id="s5b" class="sd-parse">
-The address she wrote to .
-relcl(address, wrote)
-nsubj(wrote, she)
-nmod(wrote, to)
-</div>
-
-<div id="s5c" class="sd-parse">
-I know how .
-nsubj(know, I)
-ccomp(know, how)
 </div>
 
 <h3 id="function-word-modifiers">Function Word Modifiers</h3>
@@ -236,6 +206,36 @@ advmod(late, slightly)
 
 <p>We expect modifiers to be possible for words with the grammatical functions <code>case</code>, <code>det</code>, and <code>num</code>.
 By contrast, we do not expect to see modifiers for <code>aux</code>, <code>auxpass</code>, <code>cc</code>, and <code>mark</code>.</p>
+
+<h3 id="promotion-by-head-elision">Promotion by Head Elision</h3>
+
+<p>When the natural head of a function word is elided, the function word will be “promoted”
+to the function normally assumed by the content word head. This type of analysis should 
+in general be preferred over an analysis using the <code>remnant</code> relation, because it disrupts
+the structure less. The remnant analysis should be used only when there is no function word 
+that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
+and subordinating conjunctions.</p>
+
+<div id="s5a" class="sd-parse">
+Bill could not answer , but Ann could .
+nsubj(answer, Bill)
+aux(answer, could-2)
+conj(answer, could-8)
+nsubj(could-8, Ann)
+</div>
+
+<div id="s5b" class="sd-parse">
+The address she wrote to .
+relcl(address, wrote)
+nsubj(wrote, she)
+nmod(wrote, to)
+</div>
+
+<div id="s5c" class="sd-parse">
+I know how .
+nsubj(know, I)
+ccomp(know, how)
+</div>
 
 <h2 id="special-relations">Special Relations</h2>
 
