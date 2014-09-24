@@ -101,8 +101,8 @@ take dependents:
 
   1. Multiword function words
   2. Coordinated function words
-  3. Promotion by head elision
-  4. Function word modifiers
+  3. Function word modifiers
+  4. Promotion by head elision
 
 ### Multiword Function Words
 
@@ -135,36 +135,6 @@ I will do that if and when it happens .
 mark(happens,if)
 conj(if, when)
 cc(if, and)
-</div>
-
-### Promotion by Head Elision
-
-When the natural head of a function word is elided, the function word will be "promoted"
-to the function normally assumed by the content word head. This type of analysis should 
-in general be preferred over an analysis using the `remnant` relation, because it disrupts
-the structure less. The remnant analysis should be used only when there is no function word 
-that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
-and subordinating conjunctions.
-
-<div id="s5a" class="sd-parse">
-Bill could not answer , but Ann could .
-nsubj(answer, Bill)
-aux(answer, could-2)
-conj(answer, could-8)
-nsubj(could-8, Ann)
-</div>
-
-<div id="s5b" class="sd-parse">
-The address she wrote to .
-relcl(address, wrote)
-nsubj(wrote, she)
-nmod(wrote, to)
-</div>
-
-<div id="s5c" class="sd-parse">
-I know how .
-nsubj(know, I)
-ccomp(know, how)
 </div>
 
 ### Function Word Modifiers
@@ -203,6 +173,36 @@ advmod(late, slightly)
 
 We expect modifiers to be possible for words with the grammatical functions `case`, `det`, and `num`.
 By contrast, we do not expect to see modifiers for `aux`, `auxpass`, `cc`, and `mark`.
+
+### Promotion by Head Elision
+
+When the natural head of a function word is elided, the function word will be "promoted"
+to the function normally assumed by the content word head. This type of analysis should 
+in general be preferred over an analysis using the `remnant` relation, because it disrupts
+the structure less. The remnant analysis should be used only when there is no function word 
+that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
+and subordinating conjunctions.
+
+<div id="s5a" class="sd-parse">
+Bill could not answer , but Ann could .
+nsubj(answer, Bill)
+aux(answer, could-2)
+conj(answer, could-8)
+nsubj(could-8, Ann)
+</div>
+
+<div id="s5b" class="sd-parse">
+The address she wrote to .
+relcl(address, wrote)
+nsubj(wrote, she)
+nmod(wrote, to)
+</div>
+
+<div id="s5c" class="sd-parse">
+I know how .
+nsubj(know, I)
+ccomp(know, how)
+</div>
 
 ## Special Relations
 
