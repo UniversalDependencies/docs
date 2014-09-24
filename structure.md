@@ -150,28 +150,21 @@ and subordinating conjunctions.
 Bill could not answer , but Ann could .
 nsubj(answer, Bill)
 aux(answer, could-2)
-neg(answer, not)
 conj(answer, could-8)
-cc(answer, but)
-nsubj(could, Ann)
-punct(answer, ,)
-punct(answer, .)
+nsubj(could-8, Ann)
 </div>
 
 <div id="s5b" class="sd-parse">
 The address she wrote to .
-det(address, The)
 relcl(address, wrote)
 nsubj(wrote, she)
 nmod(wrote, to)
-pubct(wrote, .)
 </div>
 
 <div id="s5c" class="sd-parse">
 I know how .
 nsubj(know, I)
 ccomp(know, how)
-punct(know, .)
 </div>
 
 ### Function Word Modifiers
@@ -189,6 +182,7 @@ advmod(two, exactly)
 not every linguist
 det(linguist, every)
 neg(every, not)
+</div>
 
 ## Special Relations
 
