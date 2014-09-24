@@ -101,14 +101,27 @@ take dependents:
 
   1. Multiword function words
   2. Coordinated function words
-  3. Function word modifiers
-  4. Function word promotion through head elision
+  3. Promotion by head elision
+  4. Function word modifiers
 
 ### Multiword Function Words
 
 The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation `mwe`. When the multiword expression is a functional element,
+using the special dependency relation `mwe` (see below). When the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.
+
+<div id="s6" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
+
+### Coordinated Function Words
+
+Head coordination is a syntactic process that can apply to almost any word category, including
+function words like conjunctions and prepositions. 
 
 <div id="s4a" class="sd-parse">
 She drove to and from work .
@@ -124,18 +137,46 @@ conj(if, when)
 cc(if, and)
 </div>
 
-### Coordinated Function Words
+### Promotion by Head Elision
 
-Head coordination is a syntactic process that can apply to almost any word category, including
-function words like conjunctions and prepositions. 
+When the natural head of a function word is elided, the function word will be "promoted"
+to the function normally assumed by the content word head. This type of analysis should 
+in general be preferred over an analysis using the `remnant` relation, because it disrupts
+the structure less. The remnant analysis should be used only when there is no function word 
+that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
+and subordinating conjunctions.
 
-<div id="s6" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
+<div id="s5a">
+Bill could not answer , but Ann could .
+nsubj(answer, Bill)
+aux(answer, could-2)
+neg(answer, not)
+conj(answer, could-8)
+cc(answer, but)
+nsubj(could, Ann)
+punct(answer, ,)
+punct(answer, .)
 </div>
+
+<div id="s5b">
+The address she wrote to .
+det(address, The)
+relcl(address, wrote)
+nsubj(wrote, she)
+nmod(wrote, to)
+pubct(wrote, .)
+</div>
+
+<div id="s5c">
+I know how .
+nsubj(know, I)
+ccomp(know, how)
+punct(know, .)
+</div>
+
+### Function Word Modifiers
+
+Principles + examples + table
 
 ## Special Relations
 
