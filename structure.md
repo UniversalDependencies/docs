@@ -16,7 +16,7 @@ Dependency relations hold primarily between content words, rather than being ind
 <div id="s1a" class="sd-parse">
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
-dobj(chased, dog)
+dobj(chased, dogs)
 nmod(chased, street)
 </div>
 
@@ -28,7 +28,7 @@ det(cat, The)
 aux(chased, could)
 aux(chased, have)
 det(dogs, all)
-det(dogs, the-6)
+det(dogs, the-7)
 case(street, down)
 det(street, the-10)
 </div>
@@ -46,13 +46,13 @@ are content words and where function words and punctuation appear as leaves.
 <div id="s1" class="sd-parse">
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
-dobj(chased, dog)
+dobj(chased, dogs)
 nmod(chased, street)
 det(cat, The)
 aux(chased, could)
 aux(chased, have)
 det(dogs, all)
-det(dogs, the-6)
+det(dogs, the-7)
 case(street, down)
 det(street, the-10)
 punct(chased, .)
