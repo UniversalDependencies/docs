@@ -86,7 +86,8 @@ auxpass(injured, been)
 </div>
 
 Note that copula verbs, despite being dependents of their predicates, are treated as main verbs in 
-this respect and take auxiliaries as dependents.
+this respect and take auxiliaries as dependents. The general rule is that an auxiliary should always
+attach to a verb (if there is one).
 
 <div id="s3b" class="sd-parse">
 She could have been sick .
@@ -97,6 +98,7 @@ cop(sick, been)
 
 However, there are four important exceptions to the rule that function words do not 
 take dependents:
+
   1. Multiword function words
   2. Coordinated function words
   3. Function word modifiers
@@ -104,7 +106,36 @@ take dependents:
 
 ### Multiword Function Words
 
-...
+The word forms that make up a fixed multiword expression are connected into a head-initial structure
+using the special dependency relation `mwe`. When the multiword expression is a functional element,
+the initial word form will then superficially look like a function word with dependents.
+
+<div id="s4a" class="sd-parse">
+She drove to and from work .
+case(work,to)
+conj(to, from)
+cc(to, and)
+</div>
+
+<div id="s4b" class="sd-parse">
+I will do that if and when it happens .
+mark(happens,if)
+conj(if, when)
+cc(if, and)
+</div>
+
+### Coordinated Function Words
+
+Head coordination is a syntactic process that can apply to almost any word category, including
+function words like conjunctions and prepositions. 
+
+<div id="s6" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
 
 ## Special Relations
 
@@ -114,13 +145,6 @@ The following expression types are all annotated with a flat head-initial struct
 2. Multiword names (name)
 3. Foreign phrases (foreign)
 
-<div id="s6" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
-</div>
 
 <div id="s7" class="sd-parse">
 Martin Luther King had a dream .
