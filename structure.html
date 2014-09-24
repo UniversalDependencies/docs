@@ -183,28 +183,21 @@ and subordinating conjunctions.</p>
 Bill could not answer , but Ann could .
 nsubj(answer, Bill)
 aux(answer, could-2)
-neg(answer, not)
 conj(answer, could-8)
-cc(answer, but)
-nsubj(could, Ann)
-punct(answer, ,)
-punct(answer, .)
+nsubj(could-8, Ann)
 </div>
 
 <div id="s5b" class="sd-parse">
 The address she wrote to .
-det(address, The)
 relcl(address, wrote)
 nsubj(wrote, she)
 nmod(wrote, to)
-pubct(wrote, .)
 </div>
 
 <div id="s5c" class="sd-parse">
 I know how .
 nsubj(know, I)
 ccomp(know, how)
-punct(know, .)
 </div>
 
 <h3 id="function-word-modifiers">Function Word Modifiers</h3>
@@ -222,15 +215,17 @@ advmod(two, exactly)
 not every linguist
 det(linguist, every)
 neg(every, not)
+</div>
 
-## Special Relations
+<h2 id="special-relations">Special Relations</h2>
 
-The following expression types are all annotated with a flat head-initial structure:
+<p>The following expression types are all annotated with a flat head-initial structure:</p>
 
-1. Fixed multiword expressions (mwe)
-2. Multiword names (name)
-3. Foreign phrases (foreign)
-
+<ol>
+  <li>Fixed multiword expressions (mwe)</li>
+  <li>Multiword names (name)</li>
+  <li>Foreign phrases (foreign)</li>
+</ol>
 
 <div id="s8" class="sd-parse">
 Martin Luther King had a dream .
@@ -246,7 +241,7 @@ foreign(dra,åt)
 foreign(dra,helvete)
 </div>
 
-In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
+<p>In contrast, compounds are annotated to show their modification structure, including a regular concept of head:</p>
 
 <div id="s10" class="sd-parse">
 I bought a computer disk drive enclosure .
@@ -256,7 +251,6 @@ compound(drive, computer)
 compound(drive, disk)
 compound(enclosure, drive)
 dobj(bought, enclosure)
-</div>
 </div>
 
 
