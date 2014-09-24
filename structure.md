@@ -74,33 +74,39 @@ nsubj(slept, We)
 ## The Status of Function Words
 
 The primacy of content words implies that function words normally do not have dependents of their own. 
-In particular, ...
+In particular, it means that multiple function words related to the same content word always appear as 
+siblings, never in a nested structure, regardless of whether they are interprested recursively or not.
+A typical case is that of auxiliary verbs, which never depend on each other.
 
-Function words do not have dependents of their own, except in the following cases:
-
-1. Multiword function words, analyzed as multi-word expressions (mwe):
-2. Coordinated function words:
-3. Promotion through head elision:
-
-<div id="s3" class="sd-parse">
-The cat could have chased the dog out of the house .
-case(house,out)
-mwe(out,of)
+<div id="s3a" class="sd-parse">
+She could have been injured .
+aux(injured, could)
+aux(injured, have)
+auxpass(injured, been)
 </div>
 
-<div id="s4" class="sd-parse">
-The cat could have chased the dog up and down the street .
-case(street,up)
-conj(up,down)
-cc(up,and)
+Note that copula verbs, despite being dependents of their predicates, are treated as main verbs in 
+this respect and take auxiliaries as dependents.
+
+<div id="s3b" class="sd-parse">
+She could have been sick .
+aux(been, could)
+aux(been, have)
+cop(sick, been)
 </div>
 
-<div id="s5" class="sd-parse">
-The cat could have [chased the dog right down the street] .
-nsubj(have,cat)
-aux(have,could)
-</div>
+However, there are four important exceptions to the rule that function words do not 
+take dependents:
+  1. Multiword function words
+  2. Coordinated function words
+  3. Function word modifiers
+  4. Function word promotion through head elision
 
+### Multiword Function Words
+
+...
+
+## Special Relations
 
 The following expression types are all annotated with a flat head-initial structure:
 
