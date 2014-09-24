@@ -719,12 +719,20 @@ dislocated(faut-2, plasticine-7)
 
 <h2 id="dobj-direct-object">dobj: direct object</h2>
 
-<p>The direct object of a VP is the noun phrase which is the (accusative)
-object of the verb.</p>
+<p>The direct object of a verb is the noun phrase that denotes the entity acted upon.</p>
 
 <pre><code class="language-sdparse">She gave me a raise
 dobj(gave, raise)
 </code></pre>
+
+<p>In languages distinguishing morphological <a href="../ud-feat/Case.html">cases</a>, the direct object will often be marked by the accusative case. However, verb valency may occasionally dictate a different form, such as the dative case in German</p>
+
+<pre><code class="language-sdparse">jemandem begegnen
+someone.Dat to-meet
+dobj(begegnen, jemandem)
+</code></pre>
+
+<p>In general, if there is just one object, it should be labeled dobj, regardless of the morphological case. If there are two or more objects, one of them should be dobj and the others should be <a href="">iobj</a>. In such cases it is necessary to decide what is the most directly affected object <em>(patient).</em> Language-specific documentation should help identify direct objects if possible.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/dobj.md" target="#">edit dobj</a></p>
 
