@@ -42,18 +42,16 @@ dependencies to achieve as much parallelism as possible (but not more) across la
 
 <h2 id="the-primacy-of-content-words">The Primacy of Content Words</h2>
 
-<p>Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.</p>
-
-<div id="s1a" class="sd-parse">
+<p>Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.
+&lt;div id="s1a" class="sd-parse"&gt;
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
 dobj(chased, dog)
 nmod(chased, street)
-</div>
+&lt;/div&gt;</p>
 
-<p>Function words attach as direct dependents of the most closely related content word.</p>
-
-<div id="s1b" class="sd-parse">
+<p>Function words attach as direct dependents of the most closely related content word.
+&lt;div id="s1b" class="sd-parse"&gt;
 The cat could have chased all the dogs down the street .
 det(cat, The)
 aux(chased, could)
@@ -62,18 +60,17 @@ det(dogs, all)
 det(dogs, the-6)
 case(street, down)
 det(street, the-10)
-</div>
+&lt;/div&gt;</p>
 
-<p>Punctuation attaches to the head of the clause or phrase to which they belong.</p>
-
-<div id="s1c" class="sd-parse">
+<p>Punctuation attaches to the head of the clause or phrase to which they belong.
+&lt;div id="s1c" class="sd-parse"&gt;
 The cat could have chased all the dogs down the street .
-</div>
+punct(chased, .)
+&lt;/div&gt;</p>
 
 <p>Putting this together gives a complete dependency tree where internal nodes
-are content words and where function words and punctuation appear as leaves.</p>
-
-<div id="s1" class="sd-parse">
+are content words and where function words and punctuation appear as leaves.
+&lt;div id="s1" class="sd-parse"&gt;
 The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
 dobj(chased, dog)
@@ -86,20 +83,18 @@ det(dogs, the-6)
 case(street, down)
 det(street, the-10)
 punct(chased, .)
-</div>
+&lt;/div&gt;</p>
 
-<p>Preferring content words as heads maximizes parallelism between languages because content words vary less than function words between languages. In particular, one commonly finds the same grammatical relation being expressed by morphology in some languages or constructions and by function words in other languages or constructions, while some languages may not mark the information at all (such as not marking tense or definiteness).</p>
-
-<div id="s2a" class="sd-parse">
-On a dormi ...
+<p>Preferring content words as heads maximizes parallelism between languages because content words vary less than function words between languages. In particular, one commonly finds the same grammatical relation being expressed by morphology in some languages or constructions and by function words in other languages or constructions, while some languages may not mark the information at all (such as not marking tense or definiteness).
+&lt;div id="s2a" class="sd-parse"&gt;
+On a dormi …
 nsubj(dormi, On)
 aux(dormi, a)
-</div>
-
-<div id="s2b" class="sd-parse">
-We slept ...
+&lt;/div&gt;
+&lt;div id="s2b" class="sd-parse"&gt;
+We slept …
 nsubj(slept, We)
-</div>
+&lt;/div&gt;</p>
 
 <h2 id="the-status-of-function-words">The Status of Function Words</h2>
 
