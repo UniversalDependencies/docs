@@ -20,4 +20,4 @@ jemandem begegnen \n someone.Dat to-meet
 dobj(begegnen, jemandem)
 ~~~
 
-In general, if there is just one object, it should be labeled {{ page.title }}, regardless of the morphological case. If there are two or more objects, one of them should be {{ page.title }} and the others should be [iobj](). In such cases it is necessary to decide what is the most directly affected object _(patient)._ Language-specific documentation should help identify direct objects if possible.
+In general, if there is just one object, it should be labeled {{ page.title }}, regardless of the morphological case. If there are two or more objects, one of them should be {{ page.title }} and the others should be [iobj](). In such cases it is necessary to decide what is the most directly affected object _(patient)._ If possible, language-specific documentation should help identify direct objects.
