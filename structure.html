@@ -105,34 +105,39 @@ nsubj(slept, We)
 <h2 id="the-status-of-function-words">The Status of Function Words</h2>
 
 <p>The primacy of content words implies that function words normally do not have dependents of their own. 
-In particular, …</p>
+In particular, it means that multiple function words related to the same content word always appear as 
+siblings, never in a nested structure, regardless of whether they are interprested recursively or not.
+A typical case is that of auxiliary verbs, which never depend on each other.</p>
 
-<p>Function words do not have dependents of their own, except in the following cases:</p>
-
-<ol>
-  <li>Multiword function words, analyzed as multi-word expressions (mwe):</li>
-  <li>Coordinated function words:</li>
-  <li>Promotion through head elision:</li>
-</ol>
-
-<div id="s3" class="sd-parse">
-The cat could have chased the dog out of the house .
-case(house,out)
-mwe(out,of)
+<div id="s3a" class="sd-parse">
+She could have been injured .
+aux(injured, could)
+aux(injured, have)
+auxpass(injured, been)
 </div>
 
-<div id="s4" class="sd-parse">
-The cat could have chased the dog up and down the street .
-case(street,up)
-conj(up,down)
-cc(up,and)
+<p>Note that copula verbs, despite being dependents of their predicates, are treated as main verbs in 
+this respect and take auxiliaries as dependents.</p>
+
+<div id="s3b" class="sd-parse">
+She could have been sick .
+aux(been, could)
+aux(been, have)
+cop(sick, been)
 </div>
 
-<div id="s5" class="sd-parse">
-The cat could have [chased the dog right down the street] .
-nsubj(have,cat)
-aux(have,could)
-</div>
+<p>However, there are four important exceptions to the rule that function words do not 
+take dependents:
+  1. Multiword function words
+  2. Coordinated function words
+  3. Function word modifiers
+  4. Function word promotion through head elision</p>
+
+<h3 id="multiword-function-words">Multiword Function Words</h3>
+
+<p>…</p>
+
+<h2 id="special-relations">Special Relations</h2>
 
 <p>The following expression types are all annotated with a flat head-initial structure:</p>
 
