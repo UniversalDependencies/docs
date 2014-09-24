@@ -176,7 +176,19 @@ punct(know, .)
 
 ### Function Word Modifiers
 
-Principles + examples + table
+Certain types of function words can take a restricted class of modifiers, mainly of the types `advmod` and `neg`.
+A typical case is that of modified determiners like _exactly two (papers)_ and _not every (linguist)_.
+
+<div id="s7a" class="sd-parse">
+exactly two papers
+det(papers, two)
+advmod(two, exactly)
+</div>
+
+<div id="s7b" class="sd-parse">
+not every linguist
+det(linguist, every)
+neg(every, not)
 
 ## Special Relations
 
@@ -187,14 +199,14 @@ The following expression types are all annotated with a flat head-initial struct
 3. Foreign phrases (foreign)
 
 
-<div id="s7" class="sd-parse">
+<div id="s8" class="sd-parse">
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
 </div>
 
-<div id="s8" class="sd-parse">
+<div id="s9" class="sd-parse">
 She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
@@ -203,7 +215,7 @@ foreign(dra,helvete)
 
 In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
 
-<div id="s9" class="sd-parse">
+<div id="s10" class="sd-parse">
 I bought a computer disk drive enclosure .
 nsubj(bought, I)
 det(enclosure, a)
