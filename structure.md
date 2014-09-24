@@ -13,24 +13,48 @@ dependencies to achieve as much parallelism as possible (but not more) across la
 
 Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.
 
-<div id="s1" class="sd-parse">
-The cat could have chased the dog right down the street .
+<div id="s1a" class="sd-parse">
+The cat could have chased all the dogs down the street .
 nsubj(chased, cat)
 dobj(chased, dog)
 nmod(chased, street)
-advmod(street, right)
 </div>
 
 Function words attach as direct dependents of the most closely related content word.
 
-<div id="s2" class="sd-parse">
-The cat could have chased the dog right down the street .
+<div id="s1b" class="sd-parse">
+The cat could have chased all the dogs down the street .
 det(cat, The)
 aux(chased, could)
 aux(chased, have)
-det(dog, the-6)
+det(dogs, all)
+det(dogs, the-6)
 case(street, down)
 det(street, the-10)
+</div>
+
+Punctuation attaches to the head of the clause or phrase to which they belong.
+
+<div id="s1c" class="sd-parse">
+The cat could have chased all the dogs down the street .
+</div>
+
+Putting this together gives a complete dependency tree where internal nodes
+are content words and where function words and punctuation appear as leaves.
+
+<div id="s1" class="sd-parse">
+The cat could have chased all the dogs down the street .
+nsubj(chased, cat)
+dobj(chased, dog)
+nmod(chased, street)
+det(cat, The)
+aux(chased, could)
+aux(chased, have)
+det(dogs, all)
+det(dogs, the-6)
+case(street, down)
+det(street, the-10)
+punct(chased, .)
 </div>
 
 Preferring content words as heads maximizes parallelism between languages because content words vary less than function words between languages. In particular, one commonly finds the same grammatical relation being expressed by morphology in some languages or constructions and by function words in other languages or constructions, while some languages may not mark the information at all (such as not marking tense or definiteness).
@@ -45,6 +69,11 @@ aux(dormi, a)
 We slept ...
 nsubj(slept, We)
 </div>
+
+## The Status of Function Words
+
+The primacy of content words implies that function words normally do not have dependents of their own. 
+In particular, ...
 
 Function words do not have dependents of their own, except in the following cases:
 
