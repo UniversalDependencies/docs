@@ -209,35 +209,46 @@ punct(know, .)
 
 <h3 id="function-word-modifiers">Function Word Modifiers</h3>
 
-<p>Principles + examples + table</p>
+<p>Certain types of function words can take a restricted class of modifiers, mainly of the types <code>advmod</code> and <code>neg</code>.
+A typical case is that of modified determiners like <em>exactly two (papers)</em> and <em>not every (linguist)</em>.</p>
 
-<h2 id="special-relations">Special Relations</h2>
+<div id="s7a" class="sd-parse">
+exactly two papers
+det(papers, two)
+advmod(two, exactly)
+</div>
 
-<p>The following expression types are all annotated with a flat head-initial structure:</p>
+<div id="s7b" class="sd-parse">
+not every linguist
+det(linguist, every)
+neg(every, not)
 
-<ol>
-  <li>Fixed multiword expressions (mwe)</li>
-  <li>Multiword names (name)</li>
-  <li>Foreign phrases (foreign)</li>
-</ol>
+## Special Relations
 
-<div id="s7" class="sd-parse">
+The following expression types are all annotated with a flat head-initial structure:
+
+1. Fixed multiword expressions (mwe)
+2. Multiword names (name)
+3. Foreign phrases (foreign)
+
+
+<div id="s8" class="sd-parse">
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
 </div>
 
-<div id="s8" class="sd-parse">
+<div id="s9" class="sd-parse">
 She said dra åt helvete .
 dobj(said,dra)
 foreign(dra,åt)
 foreign(dra,helvete)
 </div>
 
-<p>In contrast, compounds are annotated to show their modification structure, including a regular concept of head:</p>
+In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
 
-<div id="s9" class="sd-parse">
+<div id="s10" class="sd-parse">
 I bought a computer disk drive enclosure .
 nsubj(bought, I)
 det(enclosure, a)
@@ -245,6 +256,7 @@ compound(drive, computer)
 compound(drive, disk)
 compound(enclosure, drive)
 dobj(bought, enclosure)
+</div>
 </div>
 
 
