@@ -219,14 +219,22 @@ depend on the first, and where only the first element can have dependents:
 2. Multiword names (`name`)
 3. Foreign phrases (`foreign`)
 
-<div id="s8" class="sd-parse">
+<div id="s8a" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
+
+<div id="s8b" class="sd-parse">
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
 name(Luther,King)
 </div>
 
-<div id="s9" class="sd-parse">
+<div id="s8c" class="sd-parse">
 She said qwe rty yui .
 dobj(said,qwe)
 foreign(qwe,rty)
@@ -235,7 +243,7 @@ foreign(qwe,yui)
 
 In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
 
-<div id="s10" class="sd-parse">
+<div id="s9" class="sd-parse">
 I bought a computer disk drive enclosure .
 nsubj(bought, I)
 det(enclosure, a)
