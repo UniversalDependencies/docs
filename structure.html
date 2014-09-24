@@ -217,6 +217,49 @@ det(linguist, every)
 neg(every, not)
 </div>
 
+<p>Function word modifiers should be used restrictively, and an analysis where the modifier attaches to the head word
+(and is understood as modifying the entire phrase) should always be preferred if possible. For example, in a case
+like <em>slightly after midnight</em>, the modifier <em>slightly</em> can be understood as modifying the temporal phrase 
+<em>after midnight</em>, in analogy with <em>slightly late</em>. Hence, the adverb should be attached to <em>midnight</em>, which is
+the head of <em>after midnight</em>.</p>
+
+<div id="s7c" class="sd-parse">
+slightly after midnight
+case(midnight, after)
+advmod(midnight, slightly)
+</div>
+
+<div id="s7d" class="sd-parse">
+slightly late
+advmod(late, slightly)
+</div>
+
+<p>The following table gives an overview of the types of dependents that we expect to be possible for different
+types of function words (defined by their own dependency label).</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>advmod</td>
+      <td>neg</td>
+      <td>Examples</td>
+    </tr>
+    <tr>
+      <td>det</td>
+      <td>+</td>
+      <td>+</td>
+      <td>not every</td>
+    </tr>
+    <tr>
+      <td>num</td>
+      <td>+</td>
+      <td>+</td>
+      <td>exactly two</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2 id="special-relations">Special Relations</h2>
 
 <p>The following expression types are all annotated with a flat head-initial structure:</p>
