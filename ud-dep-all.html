@@ -777,12 +777,24 @@ goeswith(out-5, with-4)
 
 <h2 id="iobj-indirect-object">iobj: indirect object</h2>
 
-<p>The indirect object of a VP is the noun phrase which is the (dative)
-object of the verb.</p>
+<p>The indirect object of a verb is any noun phrase that is a core argument of the verb but it is not its <a href="dobj.html">direct object</a>. Prototypical example is the addressee of ditransitive verbs of exchange:</p>
 
 <pre><code class="language-sdparse">She gave me a raise
 iobj(gave, me)
 </code></pre>
+
+<p>In languages distinguishing morphological <a href="../ud-feat/Case.html">cases</a>, the direct object will often be marked by the dative case. However, verb valency may occasionally dictate that the direct object is in dative, or that the indirect objects shall take various other forms.</p>
+
+<p>In the following Czech example, the verb takes two arguments, both are nouns in the accusative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (consider a similar sentence, <em>he gave my daughter a book on maths</em>).</p>
+
+<pre><code class="language-sdparse">On učí mou dceru matematiku . \n He teaches my daughter.Acc maths.Acc .
+dobj(učí, matematiku)
+iobj(učí, dceru)
+dobj(teaches, maths.Acc)
+iobj(teaches, daughter.Acc)
+</code></pre>
+
+<p>In general, if there is just one object, it should be labeled <a href="">dobj</a>, regardless of the morphological case. If there are two or more objects, one of them should be dobj and the others should be iobj. In such cases it is necessary to decide what is the most directly affected object <em>(patient).</em> If possible, language-specific documentation should help identify direct and indirect objects.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/iobj.md" target="#">edit iobj</a></p>
 
