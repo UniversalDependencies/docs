@@ -133,15 +133,28 @@ take dependents:</p>
 <ol>
   <li>Multiword function words</li>
   <li>Coordinated function words</li>
+  <li>Promotion by head elision</li>
   <li>Function word modifiers</li>
-  <li>Function word promotion through head elision</li>
 </ol>
 
 <h3 id="multiword-function-words">Multiword Function Words</h3>
 
 <p>The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation <code>mwe</code>. When the multiword expression is a functional element,
+using the special dependency relation <code>mwe</code> (see below). When the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.</p>
+
+<div id="s6" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
+
+<h3 id="coordinated-function-words">Coordinated Function Words</h3>
+
+<p>Head coordination is a syntactic process that can apply to almost any word category, including
+function words like conjunctions and prepositions. </p>
 
 <div id="s4a" class="sd-parse">
 She drove to and from work .
@@ -157,18 +170,46 @@ conj(if, when)
 cc(if, and)
 </div>
 
-<h3 id="coordinated-function-words">Coordinated Function Words</h3>
+<h3 id="promotion-by-head-elision">Promotion by Head Elision</h3>
 
-<p>Head coordination is a syntactic process that can apply to almost any word category, including
-function words like conjunctions and prepositions. </p>
+<p>When the natural head of a function word is elided, the function word will be “promoted”
+to the function normally assumed by the content word head. This type of analysis should 
+in general be preferred over an analysis using the <code>remnant</code> relation, because it disrupts
+the structure less. The remnant analysis should be used only when there is no function word 
+that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
+and subordinating conjunctions.</p>
 
-<div id="s6" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
+<div id="s5a">
+Bill could not answer , but Ann could .
+nsubj(answer, Bill)
+aux(answer, could-2)
+neg(answer, not)
+conj(answer, could-8)
+cc(answer, but)
+nsubj(could, Ann)
+punct(answer, ,)
+punct(answer, .)
 </div>
+
+<div id="s5b">
+The address she wrote to .
+det(address, The)
+relcl(address, wrote)
+nsubj(wrote, she)
+nmod(wrote, to)
+pubct(wrote, .)
+</div>
+
+<div id="s5c">
+I know how .
+nsubj(know, I)
+ccomp(know, how)
+punct(know, .)
+</div>
+
+<h3 id="function-word-modifiers">Function Word Modifiers</h3>
+
+<p>Principles + examples + table</p>
 
 <h2 id="special-relations">Special Relations</h2>
 
