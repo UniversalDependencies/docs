@@ -117,7 +117,8 @@ auxpass(injured, been)
 </div>
 
 <p>Note that copula verbs, despite being dependents of their predicates, are treated as main verbs in 
-this respect and take auxiliaries as dependents.</p>
+this respect and take auxiliaries as dependents. The general rule is that an auxiliary should always
+attach to a verb (if there is one).</p>
 
 <div id="s3b" class="sd-parse">
 She could have been sick .
@@ -127,15 +128,47 @@ cop(sick, been)
 </div>
 
 <p>However, there are four important exceptions to the rule that function words do not 
-take dependents:
-  1. Multiword function words
-  2. Coordinated function words
-  3. Function word modifiers
-  4. Function word promotion through head elision</p>
+take dependents:</p>
+
+<ol>
+  <li>Multiword function words</li>
+  <li>Coordinated function words</li>
+  <li>Function word modifiers</li>
+  <li>Function word promotion through head elision</li>
+</ol>
 
 <h3 id="multiword-function-words">Multiword Function Words</h3>
 
-<p>…</p>
+<p>The word forms that make up a fixed multiword expression are connected into a head-initial structure
+using the special dependency relation <code>mwe</code>. When the multiword expression is a functional element,
+the initial word form will then superficially look like a function word with dependents.</p>
+
+<div id="s4a" class="sd-parse">
+She drove to and from work .
+case(work,to)
+conj(to, from)
+cc(to, and)
+</div>
+
+<div id="s4b" class="sd-parse">
+I will do that if and when it happens .
+mark(happens,if)
+conj(if, when)
+cc(if, and)
+</div>
+
+<h3 id="coordinated-function-words">Coordinated Function Words</h3>
+
+<p>Head coordination is a syntactic process that can apply to almost any word category, including
+function words like conjunctions and prepositions. </p>
+
+<div id="s6" class="sd-parse">
+We had a nice time in spite of the rain .
+case(rain,in)
+mwe(in,spite)
+mwe(in,of)
+nmod(had,rain)
+</div>
 
 <h2 id="special-relations">Special Relations</h2>
 
@@ -146,14 +179,6 @@ take dependents:
   <li>Multiword names (name)</li>
   <li>Foreign phrases (foreign)</li>
 </ol>
-
-<div id="s6" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-mwe(in,spite)
-mwe(in,of)
-nmod(had,rain)
-</div>
 
 <div id="s7" class="sd-parse">
 Martin Luther King had a dream .
