@@ -12,9 +12,9 @@ In lists with more than two items, all items of the list shoud modify the first 
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
-name(Jones-2, Steve-1)
-list(Jones-2, Phone:-3)
-list(Jones-2, Email:-5)
+name(Steve-1, Jones-2)
+list(Steve-1, Phone:-3)
+list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
