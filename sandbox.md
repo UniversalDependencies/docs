@@ -83,6 +83,7 @@ det(no-such, token)
 Simplified syntax
 
 ~~~ conllu
+1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 ~~~
 
