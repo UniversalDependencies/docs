@@ -180,6 +180,19 @@ Any literal slashes ("/") can be escaped using backslash.
 nsubj(escapes, \)
 ~~~
 
+## Features
+
+Features can be specified using the syntax "text/POS[Name=Value]".
+Multiple features for a single word are separated by a bar ("|").
+
+    ~~~ sdparse
+    Token/TAG[Feat1=Val1|Feat2=Val2]
+    ~~~
+
+~~~ sdparse
+Token/TAG[Feat1=Val1|Feat2=Val2]
+~~~
+
 ## Multiple lines of text
 
 The literal sequence `\n` in the SD input text is interpreted as a
