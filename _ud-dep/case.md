@@ -36,10 +36,9 @@ case(président, du)
 Hebrew:
 
 ~~~ sdparse
-הוא/PRON ראה/VERB את/PART[Case=Acc] הכלב/NOUN \n he saw ACC the_dog  
-
-dobj(ראה-2, הכלב-4)
-case(הכלב-4, את-3)
+hwa/PRON rah/VERB at/PART[Case=Acc] h/DET klb/NOUN \n he saw ACC the dog  
+dobj(2-rah, 5-klb)
+case(5-klb, at-3)
 ~~~
 
 
