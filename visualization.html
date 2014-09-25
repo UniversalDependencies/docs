@@ -215,6 +215,19 @@ prep(part, of)
 nsubj(escapes, \)
 </code></pre>
 
+<h2 id="features">Features</h2>
+
+<p>Features can be specified using the syntax “text/POS[Name=Value]”.
+Multiple features for a single word are separated by a bar (“|”).</p>
+
+<pre><code>~~~ sdparse
+Token/TAG[Feat1=Val1|Feat2=Val2]
+~~~
+</code></pre>
+
+<pre><code class="language-sdparse">Token/TAG[Feat1=Val1|Feat2=Val2]
+</code></pre>
+
 <h2 id="multiple-lines-of-text">Multiple lines of text</h2>
 
 <p>The literal sequence <code>\n</code> in the SD input text is interpreted as a
