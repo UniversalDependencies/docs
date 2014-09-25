@@ -37,6 +37,7 @@ Hebrew:
 
 ~~~ sdparse
 הוא/PRON ראה/VERB את/PART[Case=Acc] הכלב/NOUN \n he saw ACC the_dog  
+
 dobj(ראה-2, הכלב-4)
 case(הכלב-4, את-3)
 ~~~
