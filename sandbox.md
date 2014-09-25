@@ -80,6 +80,12 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
+Simplified syntax
+
+~~~ conllu
+2     have      have     VERB    VB       Tens=Pres          0      root _ _
+~~~
+
 ----------
 
 # Some Jekyll 
