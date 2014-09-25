@@ -220,6 +220,7 @@ vocative in other languages:
         root + 'lib/ext/jquery.svg.min.js',
         root + 'lib/ext/jquery.svgdom.min.js',
         root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
 
         // brat helper modules
         root + 'lib/brat/configuration.js',
@@ -231,9 +232,12 @@ vocative in other languages:
         root + 'lib/brat/url_monitor.js',
         root + 'lib/brat/visualizer.js',
 
-        // embedding support modules
-        root + 'lib/local/annodoc.js',
-        root + 'lib/local/config.js'
+        // embedding configuration
+        root + 'lib/local/config.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
     );
 
     var webFontURLs = [

@@ -111,9 +111,10 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
-<p>Simplified syntax</p>
+<p>Simplified syntax + sentence label</p>
 
-<pre><code class="language-conllu">1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
+<pre><code class="language-conllu"># sentence-label long-label
+1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 </code></pre>
 
@@ -388,6 +389,7 @@ num(litran-4, kahden-3)
         root + 'lib/ext/jquery.svg.min.js',
         root + 'lib/ext/jquery.svgdom.min.js',
         root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
 
         // brat helper modules
         root + 'lib/brat/configuration.js',
@@ -399,9 +401,12 @@ num(litran-4, kahden-3)
         root + 'lib/brat/url_monitor.js',
         root + 'lib/brat/visualizer.js',
 
-        // embedding support modules
-        root + 'lib/local/annodoc.js',
-        root + 'lib/local/config.js'
+        // embedding configuration
+        root + 'lib/local/config.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
     );
 
     var webFontURLs = [
