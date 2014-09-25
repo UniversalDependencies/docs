@@ -3,6 +3,7 @@ layout: base
 title: 'compound'
 shortdef: 'compound'
 ---
+## compound
 
 *compound* is one of the three relations in USD for compounding.
 
