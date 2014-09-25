@@ -80,9 +80,10 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
-Simplified syntax
+Simplified syntax + sentence label
 
 ~~~ conllu
+# sentence-label long-label
 1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 ~~~
