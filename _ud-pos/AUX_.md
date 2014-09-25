@@ -13,7 +13,7 @@ redirect_from: "ud-pos/AUX.html"
 
 An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, and voice.
 
-We count _modal verbs_ among auxiliaries while _copulas_ stay with <a href="VERB.html">main verbs</a>.
+_Modal verbs_ may count as auxiliaries in some languages (English). In other languages their behavior is not too different from the <a href="VERB.html">main verbs</a> and they are thus tagged VERB. _Copulas_ also stay with main verbs.
 
 Note that not all languages have grammaticalized auxiliary verbs, and even where they exist the dividing line between full verbs and auxiliary verbs can be expected to vary between languages. Exactly which verbs are counted as AUX should be part of the language-specific documentation.
 
