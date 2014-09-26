@@ -255,7 +255,7 @@ to special restrictions explained below.
 Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
 
-1. A punctuation mark separating coordinated units is attached to the preceding unit.
+1. A punctuation mark separating coordinated units is attached to the first conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
 
