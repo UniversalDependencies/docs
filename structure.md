@@ -259,6 +259,18 @@ Instead, we use the following principles:
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
 
+<div id="punct1" class="sd-parse">
+We have apples , pears , oranges , and bananas .
+dobj(have, apples)
+conj(apples, pears)
+conj(apples, oranges)
+conj(apples, bananas)
+cc(apples, and)
+punct(apples, ,-4)
+punct(apples, ,-6)
+punct(apples, ,-8)
+</div>
+
 ### Multiword Structures
 
 The following types of expressions are always annotated in a head-initial structure, where all non-first elements
