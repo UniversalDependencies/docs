@@ -129,6 +129,8 @@ mwe(in,of)
 nmod(had,rain)
 </div>
 
+Deciding whether an expression in a language should be treated as a `mwe` is something that has to be decided for each language, and in some cases this will require somewhat arbitrary conventions, because it involves choosing a cut point along a path of grammaticalization. Nevertheless, most languages have some very common multiword expressions that effectively behave like other function words as linkers, marks, or case particles, and it would be highly undesirable not to recognize them as a multi-word function word. Examples in English include _in spite of_ (like _despite_), _as well as_ (like _and_), and _prior to_ (like _before_).
+
 ### Coordinated Function Words
 
 Head coordination is a syntactic process that can apply to almost any word category, including
