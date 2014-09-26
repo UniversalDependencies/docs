@@ -16,7 +16,7 @@ name(Carl-1, Gustaf-3)
 name(Carl-1, XVI-2)
 ~~~
 
-This is certainly the case for person names. For organization names with clear syntactic modification, the dependencies should reflect the semantics, as for noun compounding.
+This is certainly the case for person names and foreign person or place names. For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding.
 
 ~~~ sdparse
 Natural Resources Conservation Service
