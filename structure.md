@@ -238,6 +238,12 @@ nsubj(know, I)
 ccomp(know, how)
 </div>
 
+## Key ideas of the relation taxonomy
+
+### Core arguments vs. oblique modifiers
+
+The UD taxonomy ic centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.  It does not make a distinction between adjuncts and oblique arguments. This latter distinction is taken to be sufficiently subtle, unclear, and argued over that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
+ 
 ## Special Relations
 
 Some of the universal relations do not really encode syntactic dependency relations but are used to represent 
