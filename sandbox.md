@@ -101,7 +101,8 @@ dobj(Aראה, Aסרט)
 &#x202d;
 
 ~~~ sdparse
-‮דני/NOU‮ Aראה/VER‮ Aסרט/NOUN
+&lrm;
+Aדני/NOUN Aראה/VERB Aסרט/NOUN
 nsubj(&#x202d;ראה, &#x202d;דני)
 dobj(&#x202d;ראה, &#x202d;סרט)
 ~~~
