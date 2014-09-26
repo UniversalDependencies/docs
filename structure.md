@@ -174,7 +174,7 @@ advmod(when, just)
 
 Negation can modify any function word, but other types of modifiers are disallowed for function words that express
 properties of the head word often expressed morphologically in other languages. This class, which we refer to as
-_pure function words_, includes auxiliary verbs, case markers (adposition), and articles, but has to be defined
+_pure function words_, includes auxiliary verbs, case markers (adposition), and articles, but needs to be defined
 explicitly for each language. When pure function words appear with modifiers other than negation, we take the modifier
 to apply to the entire phrase and therefore attaches it to the head word of the function word, as illustrated in
 the following example.
@@ -185,7 +185,7 @@ case(midnight, before)
 advmod(midnight, right)
 </div>
 
-The analysis is here that _right_ modifies the entire phrase _after midnight_ and therefore attaches to _midnight_, 
+The analysis here is that _right_ modifies the entire phrase _after midnight_ and therefore attaches to _midnight_, 
 which is the head of this phrase. (It is a general property of dependency trees that phrase modification is 
 structurally indistinguishable from head modification.) Further support for this analysis comes from the possibility
 of replacing _after midnight_ by the adverb _then_.
@@ -195,7 +195,7 @@ right then
 advmod(then, right)
 </div>
 
-Making sure that pure function words do not have dependents of their own will facilitate the
+Making sure that pure function words do not have dependents of their own facilitates the
 comparison with languages where the corresponding properties are expressed morphologically as well as the conversion
 to the enhanced representation where this difference is neutralized.
 
@@ -205,8 +205,8 @@ To sum up, our treatment of function word modifiers can be expressed in three pr
   2. Other function words can also take light adverbial modifiers (`advmod`, `nmod`)
   3. When in doubt, prefer a flat structure where function words attach to a content word.
 
-Note also that the language-specific documentation should specify what words are treated as pure function words 
-(if any) in that language.
+Note also that the language-specific documentation should specify what words (if any) are treated as pure function words 
+in that language.
 
 ### Promotion by Head Elision
 
