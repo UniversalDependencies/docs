@@ -93,7 +93,7 @@ Simplified syntax + sentence label
 ## Right-to-left text (Hebrew)
 
 ~~~ sdparse
-A דני/NOUN ראה/VERB סרט/NOUN
+Aדני/NOUN Aראה/VERB Aסרט/NOUN
 nsubj(ראה, דני)
 dobj(ראה, סרט)
 ~~~
