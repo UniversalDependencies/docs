@@ -88,6 +88,14 @@ Simplified syntax + sentence label
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 ~~~
 
+## Right-to-left text (Hebrew)
+
+~~~ sdparse
+דני/NOUN ראה/VERB סרט/NOUN
+nsubj(ראה, דני)
+dobj(ראה, סרט)
+~~~
+
 ----------
 
 # Some Jekyll 
