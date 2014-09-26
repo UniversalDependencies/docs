@@ -77,7 +77,7 @@ nsubj(slept, We)
 
 The primacy of content words implies that function words normally do not have dependents of their own. 
 In particular, it means that multiple function words related to the same content word always appear as 
-siblings, never in a nested structure, regardless of whether they are interprested recursively or not.
+siblings, never in a nested structure, regardless of their interpretation.
 A typical case is that of auxiliary verbs, which never depend on each other.
 
 <div id="s3a" class="sd-parse">
