@@ -94,8 +94,8 @@ Simplified syntax + sentence label
 
 ~~~ sdparse
 Aדני/NOUN Aראה/VERB Aסרט/NOUN
-nsubj(ראה, דני)
-dobj(ראה, סרט)
+nsubj(Aראה, Aדני)
+dobj(Aראה, Aסרט)
 ~~~
 
 ----------
