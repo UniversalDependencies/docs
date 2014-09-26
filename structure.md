@@ -7,7 +7,9 @@ title:  'Structure'
 
 The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
 The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
-dependencies to achieve as much parallelism as possible (but not more) across languages.
+dependencies to achieve as much parallelism as possible (but not more) across languages. 
+(More specific guidelines can be found in the documentation of the specific 
+[dependency relations](http://universaldependencies.github.io/docs/ud-dep-index.html).)
 
 ## The Primacy of Content Words
 
@@ -75,7 +77,7 @@ nsubj(slept, We)
 
 The primacy of content words implies that function words normally do not have dependents of their own. 
 In particular, it means that multiple function words related to the same content word always appear as 
-siblings, never in a nested structure, regardless of whether they are interprested recursively or not.
+siblings, never in a nested structure, regardless of their interpretation.
 A typical case is that of auxiliary verbs, which never depend on each other.
 
 <div id="s3a" class="sd-parse">
@@ -94,6 +96,15 @@ She could have been sick .
 aux(been, could)
 aux(been, have)
 cop(sick, been)
+</div>
+
+Similarly, multiple determiners are always attached to the head noun.
+
+<div id="s3c" class="sd-parse">
+All these three books .
+det(books, All)
+det(books, these)
+num(books, three)
 </div>
 
 However, there are four important exceptions to the rule that function words do not 
@@ -139,40 +150,63 @@ cc(if, and)
 
 ### Function Word Modifiers
 
-Certain types of function words can take a restricted class of modifiers, mainly of the types `advmod` and `neg`.
-A typical case is that of modified determiners like _exactly two (papers)_ and _not every (linguist)_.
+Certain types of function words can take a restricted class of modifiers, mainly negation (`neg`) and light adverbials
+(`advmod` or `nmod`). Typical cases are modified determiners like _not every (linguist)_ and _exactly two (papers)_
+and modifiers of subordinating conjunctions.
 
 <div id="s7a" class="sd-parse">
-exactly two papers
-det(papers, two)
-advmod(two, exactly)
-</div>
-
-<div id="s7b" class="sd-parse">
 not every linguist
 det(linguist, every)
 neg(every, not)
 </div>
 
-Function word modifiers should be used restrictively, and an analysis where the modifier attaches to the head word
-(and is understood as modifying the entire phrase) should always be preferred if possible. For example, in a case
-like _slightly after midnight_, the modifier _slightly_ can be understood as modifying the temporal phrase 
-_after midnight_, in analogy with _slightly late_. Hence, the adverb should be attached to _midnight_, which is
-the head of _after midnight_.
+<div id="s7b" class="sd-parse">
+exactly two papers
+det(papers, two)
+advmod(two, exactly)
+</div>
 
 <div id="s7c" class="sd-parse">
-slightly after midnight
-case(midnight, after)
-advmod(midnight, slightly)
+just when you thought it was over
+mark(thought, when)
+advmod(when, just)
 </div>
+
+Negation can modify any function word, but other types of modifiers are disallowed for function words that express
+properties of the head word often expressed morphologically in other languages. This class, which we refer to as
+_pure function words_, includes auxiliary verbs, case markers (adposition), and articles, but needs to be defined
+explicitly for each language. When pure function words appear with modifiers other than negation, we take the modifier
+to apply to the entire phrase and therefore attaches it to the head word of the function word, as illustrated in
+the following example.
 
 <div id="s7d" class="sd-parse">
-slightly late
-advmod(late, slightly)
+right before midnight
+case(midnight, before)
+advmod(midnight, right)
 </div>
 
-We expect modifiers to be possible for words with the grammatical functions `case`, `det`, and `num`.
-By contrast, we do not expect to see modifiers for `aux`, `auxpass`, `cc`, and `mark`.
+The analysis here is that _right_ modifies the entire phrase _after midnight_ and therefore attaches to _midnight_, 
+which is the head of this phrase. (It is a general property of dependency trees that phrase modification is 
+structurally indistinguishable from head modification.) Further support for this analysis comes from the possibility
+of replacing _after midnight_ by the adverb _then_.
+
+<div id="s7e" class="sd-parse">
+right then
+advmod(then, right)
+</div>
+
+Making sure that pure function words do not have dependents of their own facilitates the
+comparison with languages where the corresponding properties are expressed morphologically as well as the conversion
+to the enhanced representation where this difference is neutralized.
+
+To sum up, our treatment of function word modifiers can be expressed in three principles:
+
+  1. Pure function words can only be modified by negation (`neg`).
+  2. Other function words can also take light adverbial modifiers (`advmod`, `nmod`)
+  3. When in doubt, prefer a flat structure where function words attach to a content word.
+
+Note also that the language-specific documentation should specify what words (if any) are treated as pure function words 
+in that language.
 
 ### Promotion by Head Elision
 
@@ -210,7 +244,16 @@ Some of the universal relations do not really encode syntactic dependency relati
 punctuation, various kinds of multiword units, or unanalyzable segments. The use of these relations is subject 
 to special restrictions explained below.
 
-Tokens with the dependency relation `punct` can never have dependents.
+### Punctuation 
+
+Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Instead, we use the following principles:
+
+1. A punctuation mark separating coordinated units is attached to the preceding unit.
+2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
+3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
+
+### Multiword Structures
 
 The following types of expressions are always annotated in a head-initial structure, where all non-first elements
 depend on the first, and where only the first element can have dependents:

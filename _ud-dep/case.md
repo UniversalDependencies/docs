@@ -37,8 +37,8 @@ Hebrew:
 
 ~~~ sdparse
 hwa/PRON rah/VERB at/PART[Case=Acc] h/DET klb/NOUN \n he saw ACC the dog  
-dobj(2-rah, 5-klb)
-case(5-klb, at-3)
+dobj(rah-2, klb-5)
+case(klb-5, at-3)
 ~~~
 
 
