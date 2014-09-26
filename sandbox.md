@@ -88,6 +88,7 @@ Simplified syntax + sentence label
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 ~~~
 
+<a name="hebrew" />
 ## Right-to-left text (Hebrew)
 
 ~~~ sdparse
