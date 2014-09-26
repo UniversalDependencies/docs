@@ -260,6 +260,7 @@ Instead, we use the following principles:
 1. A punctuation mark separating coordinated units is attached to the first conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
+4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity.
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
