@@ -244,6 +244,35 @@ ccomp(know, how)
 ### Core arguments vs. oblique modifiers
 
 The UD taxonomy is centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.  It does not make a distinction between adjuncts and oblique arguments. This latter distinction is taken to be sufficiently subtle, unclear, and argued over that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
+
+### A mixed functional-structural system
+
+One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations _nmod_, _advcl_, or _advmod_ depending on which of these three sorts it is:
+
+<div id="fss1" class="sd-parse">
+John talked in the movie theatre
+case(in, theatre)
+det(the, theatre)
+compound(movie, theatre)
+nmod(talked, theatre)
+</div>
+
+<div id="fss2" class="sd-parse">
+John talked while we were watching the movie
+mark(watching, while)
+nsubj(watching, we)
+aux(watching, were)
+advcl(talked, watch)
+det(movie, the)
+dobj(watching, movie)
+</div>
+
+<div id="fss3" class="sd-parse">
+John talked very quickly
+advmod(quickly, very)
+advmod(talked, quickly)
+</div>
+
  
 ## Special Relations
 
