@@ -117,6 +117,24 @@ nsubj(run, Dogs)
 2    run    run    _    VBP    _    0    ROOT
 </code></pre>
 
+<p>Similarly, the new <a href="format.html">CoNLL-U format</a> is now supported as well:</p>
+
+<pre><code>~~~ conllu
+# I wrote the letter with a quill.
+1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   I
+2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   wrote
+3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   the-letter
+4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
+~~~
+</code></pre>
+
+<pre><code class="language-conllu"># I wrote the letter with a quill.
+1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   I
+2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   wrote
+3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   the-letter
+4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
+</code></pre>
+
 <p>You can have any number of visualizations on a page, and any
 standard HTML content can be freely mixed with the visualizations.</p>
 
