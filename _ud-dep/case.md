@@ -42,22 +42,17 @@ case(klb-5, at-3)
 ~~~
 
 
-When case markers are morphemes, they are not divided off the noun as a separate case dependent, but the noun as a whole is analyzed as a *nmod* of the verb. To overtly mark case, POS tags are included in the representation as shown below on a Russian example. We use the universal POS tagset from Petrov et al. (2012) to which we append case information.
-
-<span style='background: yellow'>**NOTE:** This is now being changed as the universal POS tags are revised and Universal Features are newly defined.</span>
-
-~~~ sdparse
-Я написал письмо пером \n Ya/NOUN-NOM napisal/VERB pis'mo/NOUN-ACC perom/NOUN-INSTR \n I wrote the_letter with_a_quill
-nsubj(написал-2, Я-1)
-dobj(написал-2, письмо-3)
-nmod(написал-2, пером-4)
-~~~
+When case markers are morphemes, they are not divided off the noun as a separate case dependent,
+but the noun as a whole is analyzed as a *nmod* of the verb.
+To overtly mark case, POS tags and features are included in the representation as shown below on a Russian example
+(put your mouse pointer over the words to see additional morphosyntactic features).
 
 ~~~ conllu
-1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   _
-2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   _
-3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   _
-4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   _
+# I wrote the letter with a quill.
+1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   I
+2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   wrote
+3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   the-letter
+4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
 ~~~
 
 This treatment provides parallelism between different constructions
