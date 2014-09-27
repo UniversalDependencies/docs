@@ -87,14 +87,13 @@ aux(injured, have)
 auxpass(injured, been)
 </div>
 
-Note that copula verbs, despite being dependents of their predicates, are treated as main verbs in 
-this respect and take auxiliaries as dependents. The general rule is that an auxiliary should always
-attach to a verb (if there is one).
+Note that copula verbs are also counted as auxiliaries in this respect. In copula constructions, auxiliaries
+will therefore often be attached to predicates that are not verbs. 
 
 <div id="s3b" class="sd-parse">
 She could have been sick .
-aux(been, could)
-aux(been, have)
+aux(sick, could)
+aux(sick, have)
 cop(sick, been)
 </div>
 
