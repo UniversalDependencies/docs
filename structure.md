@@ -129,6 +129,8 @@ mwe(in,of)
 nmod(had,rain)
 </div>
 
+Deciding whether an expression in a language should be treated as a `mwe` is something that has to be decided for each language, and in some cases this will require somewhat arbitrary conventions, because it involves choosing a cut point along a path of grammaticalization. Nevertheless, most languages have some very common multiword expressions that effectively behave like other function words as linkers, marks, or case particles, and it would be highly undesirable not to recognize them as a multi-word function word. Examples in English include _in spite of_ (like _despite_), _as well as_ (like _and_), and _prior to_ (like _before_).
+
 ### Coordinated Function Words
 
 Head coordination is a syntactic process that can apply to almost any word category, including
@@ -255,9 +257,10 @@ to special restrictions explained below.
 Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
 
-1. A punctuation mark separating coordinated units is attached to the preceding unit.
+1. A punctuation mark separating coordinated units is attached to the first conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
+4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity.
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
