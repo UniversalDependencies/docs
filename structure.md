@@ -271,6 +271,13 @@ punct(apples, ,-6)
 punct(apples, ,-8)
 </div>
 
+<div id="punct2" class="sd-parse">
+Der Mann , dem Sie gestern kennengelernt haben , kam wieder .
+punct(kennengelernt, ,-3)
+punct(kennengelernt, ,-9)
+punct(kam, .)
+</div>
+
 ### Multiword Structures
 
 The following types of expressions are always annotated in a head-initial structure, where all non-first elements
