@@ -35,6 +35,7 @@ under revision and should not be considered final.** Our goal is to have a stabl
   * [General principles](morphology.html)
   * [Universal POS tags](ud-pos-index.html) ([single document](ud-pos-all.html))
   * [Universal features](ud-feat-index.html) ([single document](ud-feat-all.html))
+  * [Extended features](ext-feat-index.html) (summary of language-specific extensions)
 * Syntax
   * [General principles](structure.html)
   * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
