@@ -300,7 +300,7 @@ punct(Compare, .-34)
 
 ### Multiword Structures
 
-The following types of expressions are always annotated in a head-initial structure, where all non-first elements
+The following types of expressions are annotated in a head-initial structure, where all non-first elements
 depend on the first, and where only the first element can have dependents:
 
 1. Fixed multiword expressions (`mwe`)
@@ -340,3 +340,6 @@ compound(drive, disk)
 compound(enclosure, drive)
 dobj(bought, enclosure)
 </div>
+
+A compositional analysis of this kind can exceptionally be used with the _name_ relation, when there is a clear 
+modification structure, as in _Natural Resources Conservation Service_. 
