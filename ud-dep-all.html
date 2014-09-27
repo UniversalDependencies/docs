@@ -248,8 +248,14 @@ advcl(upset, talked)
 
 <h2 id="advmod-adverbial-modifier">advmod: adverbial modifier</h2>
 
-<p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial
-phrase (ADVP) that serves to modify the meaning of the word.</p>
+<p>An adverbial modifier of a word is a (non-clausal) <a href="../ud-pos/ADV.html">adverb</a> or adverbial
+phrase that serves to modify the meaning of the word.</p>
+
+<p>Note that in some grammatical traditions, the term <em>adverbial modifier</em> covers
+constituents that function like adverbs regardless whether they are realized
+by adverbs, adpositional phrases, or nouns in particular morphological <a href="../ud-feat/Case.html">cases</a>.
+We differentiate adverbials realized as adverbs <em>(advmod)</em> and adverbials realized
+by noun phrases or adpositional phrases (<a href="nmod.html">nmod</a>).</p>
 
 <pre><code class="language-sdparse">Genetically modified food
 advmod(modified, Genetically)
@@ -257,6 +263,11 @@ advmod(modified, Genetically)
 
 <pre><code class="language-sdparse">less often
 advmod(often, less)
+</code></pre>
+
+<pre><code class="language-sdparse">Where/ADV do/AUX you/PRON want/VERB to/ADP go/VERB today/ADV ?/PUNCT
+advmod(go, Where)
+advmod(go, today)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/advmod.md" target="#">edit advmod</a></p>
@@ -963,7 +974,12 @@ nfincl(tirer-4, démontrant-5)
 
 <p>The <em>nmod</em> relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
 
-<p>In general, <em>nmod</em> expresses some form of oblique or adjunct relation that can be further specified by the <em>case</em>.  In conjunction with the <em>case</em> relation, it provides a uniform analysis for:</p>
+<p>Nmod is a <a href="../ud-pos/NOUN.html">noun</a> (or noun phrase) functioning as a non-core (oblique) argument or adjunct.
+This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
+But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).</p>
+
+<p>The <em>nmod</em> relation can be further specified by the <a href="case.html">case</a>.
+In conjunction with the <em>case</em> relation, it provides a uniform analysis for:</p>
 
 <ul>
   <li>the possessive alternation:</li>
