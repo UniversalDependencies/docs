@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal Dependencies</title>
+    <title>Extended Features</title>
     <link rel="root" href=""/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/index.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/ext-feat-index.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,104 +34,50 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-dependencies">Universal Dependencies</h1>
+          <h1 id="language-specific-extensions-to-features">Language-specific extensions to features</h1>
 
-<p><a href="introduction.html">Introduction to Universal Dependencies</a></p>
+<h2 id="interset-features-that-are-not-part-of-this-standard">Interset features that are not part of this standard</h2>
 
-<p>This is the online documentation and example bank for Universal
-Dependencies. <strong>Please note that these guidlines are currently
-under revision and should not be considered final.</strong> Our goal is to have a stable version 1 release by 2014-09-30.</p>
+<p>The universal features are mostly derived from the
+<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
+(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
+Interset contains additional features that have not yet been adopted as
+universal features. However, they may be used, if necessary, as part of the
+“language-specific extensions” to the universal features.</p>
 
-<!-- 
-     The following <div> is the top-level element for the index page
-     tabs. To add a new tab (e.g. for Swedish), first add a link to
-     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
-     then add a <div> with the tab content below, with the same ID as
-     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
- -->
-<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
+<p>The following Interset features are currently not part of the standard:</p>
 
-<!-- links to per-language sections, shown as tab labels -->
-<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
-  <li class="ui-state-default"><a href="#language-en">English</a></li>
-  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
-  <li class="ui-state-default"><a href="#language-other">...</a></li>
+<ul>
+  <li><a href="ext-feat/Abbr.html">Abbr</a></li>
+  <li><a href="ext-feat/AdpType.html">AdpType</a></li>
+  <li><a href="ext-feat/AdvType.html">AdvType</a></li>
+  <li><a href="ext-feat/ConjType.html">ConjType</a></li>
+  <li><a href="ext-feat/Echo.html">Echo</a></li>
+  <li><a href="ext-feat/Foreign.html">Foreign</a></li>
+  <li><a href="ext-feat/Hyph.html">Hyph</a></li>
+  <li><a href="ext-feat/NameType.html">NameType</a></li>
+  <li><a href="ext-feat/NounType.html">NounType</a></li>
+  <li><a href="ext-feat/NumForm.html">NumForm</a></li>
+  <li><a href="ext-feat/NumValue.html">NumValue</a></li>
+  <li><a href="ext-feat/PartType.html">PartType</a></li>
+  <li><a href="ext-feat/Politeness.html">Politeness</a></li>
+  <li><a href="ext-feat/PrepCase.html">PrepCase</a></li>
+  <li><a href="ext-feat/PunctSide.html">PunctSide</a></li>
+  <li><a href="ext-feat/PunctType.html">PunctType</a></li>
+  <li><a href="ext-feat/Style.html">Style</a></li>
+  <li><a href="ext-feat/Typo.html">Typo</a></li>
+  <li><a href="ext-feat/VerbType.html">VerbType</a></li>
 </ul>
 
-<!-- "Universal" tab -->
-<div id="language-u" class="ui-tabs-panel">
-    <ul>
-      <li><a href="tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="morphology.html">General principles</a></li>
-          <li><a href="ud-pos-index.html">Universal POS tags</a> (<a href="ud-pos-all.html">single document</a>)</li>
-          <li><a href="ud-feat-index.html">Universal features</a> (<a href="ud-feat-all.html">single document</a>)</li>
-          <li><a href="ext-feat-index.html">Extended features</a> (summary of language-specific extensions)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="structure.html">General principles</a></li>
-          <li><a href="ud-dep-index.html">Universal relations</a> (<a href="ud-dep-all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li><a href="format.html">CoNLL-U format</a></li>
-    </ul>
-  </div>
+<p>The following Interset features are not used under their Interset names but they are included
+through the <a href="ud-feat-layers.html">layered feature scheme</a>:</p>
 
-<!-- "English" tab -->
-<div id="language-en" class="ui-tabs-hide">
-    <ul>
-      <li>Tokenization: TODO</li>
-      <li>Morphology
-        <ul>
-          <li>General principles: TODO</li>
-          <li>English POS tags: TODO</li>
-          <li>English features: TODO</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li>General principles: TODO</li>
-          <li><a href="en-dep-index.html">English relations</a> (<a href="en-dep-all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li><a href="format.html">CoNLL-U format</a></li>
-    </ul>
-  </div>
-
-<!-- "Finnish" tab -->
-<div id="language-fi" class="ui-tabs-hide">
-    <ul>
-      <li>Tokenization: TODO</li>
-      <li>Morphology
-        <ul>
-          <li>General principles: TODO</li>
-          <li>Finnish POS tags: TODO</li>
-          <li>Finnish features: TODO</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li>General principles: TODO</li>
-          <li><a href="fi-dep-index.html">Finnish relations</a> (<a href="fi-dep-all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li><a href="format.html">CoNLL-U format</a></li>
-    </ul>
-  </div>
-
-<div id="language-other" class="ui-tabs-hide">
-    <p>More languages to come.</p>
-  </div>
-
-</div>
-
-<hr />
-
-<p><a href="contributing.html">How to contribute</a></p>
+<ul>
+  <li><a href="ext-feat/PossedNumber.html">PossedNumber</a> = <code>Number[psee]</code></li>
+  <li><a href="ext-feat/PossGender.html">PossGender</a> = <code>Gender[psor]</code></li>
+  <li><a href="ext-feat/PossNumber.html">PossNumber</a> = <code>Number[psor]</code></li>
+  <li><a href="ext-feat/PossPerson.html">PossPerson</a> = <code>Person[psor]</code></li>
+</ul>
 
 
 <!-- "relation in other languages" links -->
