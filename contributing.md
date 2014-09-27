@@ -18,6 +18,11 @@ Contents:
 * [Non-members](#non-members)
 * [Troubleshooting](#troubleshooting)
 
+Quick links:
+
+* [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
+* [Embedded visualization of dependencies](visualization.html)
+
 ## Preliminaries
 
 Before starting, you may want to have a quick look at the
