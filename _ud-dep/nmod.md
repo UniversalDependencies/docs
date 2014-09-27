@@ -8,7 +8,12 @@ shortdef: 'nominal modifier'
 
 The *nmod* relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
 
-In general, *nmod* expresses some form of oblique or adjunct relation that can be further specified by the *case*.  In conjunction with the *case* relation, it provides a uniform analysis for:
+Nmod is a <a href="../ud-pos/NOUN.html">noun</a> (or noun phrase) functioning as a non-core (oblique) argument or adjunct.
+This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
+But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).
+
+The *nmod* relation can be further specified by the <a href="case.html">case</a>.
+In conjunction with the *case* relation, it provides a uniform analysis for:
 
 - the possessive alternation:
 
