@@ -282,7 +282,7 @@ punct(kam, .)
 </div>
 
 <div id="punct3" class="sd-parse">
-A.K.A. , AKA , or a/k/a/_ may refer to : “ Also known as ” , used to introduce pseudonyms , aliases , etc. ( Compare f.k.a. for “ formerly known as ” . )
+A.K.A. , AKA , or a\/k\/a may refer to : “ Also known as ” , used to introduce pseudonyms , aliases , etc. ( Compare f.k.a. for “ formerly known as ” . )
 punct(A.K.A., ,-2)
 punct(A.K.A., ,-4)
 punct(refer, :)
