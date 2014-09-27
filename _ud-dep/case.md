@@ -45,8 +45,8 @@ case(klb-5, at-3)
 When case markers are morphemes, they are not divided off the noun as a separate case dependent,
 but the noun as a whole is analyzed as a *nmod* of the verb.
 To overtly mark case,
-<a href="ud-pos-index.html">POS tags</a> and
-<a href="ud-feat-index.html">features</a>
+<a href="../ud-pos-index.html">POS tags</a> and
+<a href="../ud-feat-index.html">features</a>
 are included in the representation as shown below on a Russian example
 (put your mouse pointer over the words to see additional morphosyntactic features).
 
