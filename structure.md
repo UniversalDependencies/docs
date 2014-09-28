@@ -5,6 +5,7 @@ title:  'Structure'
 
 # Syntax: General Principles
 
+The syntactic annotation in the UD scheme consists of typed dependency relations between words. 
 The goal is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated.
 The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. We now try to lay down some general principles that should guide the use of universal 
 dependencies to achieve as much parallelism as possible (but not more) across languages. 
@@ -276,7 +277,6 @@ John talked very quickly
 advmod(quickly, very)
 advmod(talked, quickly)
 </div>
-
  
 ## Special Relations
 
@@ -373,6 +373,3 @@ compound(drive, disk)
 compound(enclosure, drive)
 dobj(bought, enclosure)
 </div>
-
-A compositional analysis of this kind can exceptionally be used with the _name_ relation, when there is a clear 
-modification structure, as in _Natural Resources Conservation Service_. 
