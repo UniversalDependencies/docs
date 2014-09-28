@@ -5,15 +5,13 @@ title:  'Morphology'
 
 # Morphology: General Principles
 
-## The Morphological Representation of Words in UD
-
-The UD scheme allows for the specification of complete morpho-syntactic represention that can be applied cross-linguistically. This effectively means that  grammatical notions may be indicated via  word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
+The UD scheme allows the specification of a complete morpho-syntactic representation that can be applied cross-linguistically. This effectively means that grammatical notions may be indicated via word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
 
 * A _lemma_ representing the semantic content of the word.
 * A _part-of-speech tag_ representing the abstract lexical category associated with the word.
 * A set of _features_ representing lexical and grammatical properties that are associated with the particular word form.
 
-Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two respective universal inventories, as we define below.
+Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
 
 In morphology theory, the triplet _<lemma, POS tag, features>_ of a word-form is called
 the _morphosyntactic representation (MSR)_ of that word.
@@ -25,8 +23,8 @@ the interface between the lexical and the syntactic parts of the grammar.
 
 ## Part-of-Speech Tags
 
-The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed list containing 17 tags.
-It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions.  Alternatively, more fine-grained classification of words may be achieved via the use of <a href="ud-feat-index.html">features</a>  (see below). 
+The list of <a href="ud-pos-index.html">universal POS tags</a> is a fixed list containing 17 tags.
+It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of <a href="ud-feat-index.html">features</a> (see below). 
 
 Also, note that the <a href="format.html">CoNLL-U format</a>
 allows an additional POSTAG, taken from a language-specific
