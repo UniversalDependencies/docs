@@ -150,7 +150,7 @@ take dependents:</p>
 <h3 id="multiword-function-words">Multiword Function Words</h3>
 
 <p>The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation <code>mwe</code> (see below). When the multiword expression is a functional element,
+using the special dependency relation <a href="">ud-dep/mwe</a> (see below). When the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.</p>
 
 <div id="s6" class="sd-parse">
@@ -184,8 +184,8 @@ cc(if, and)
 
 <h3 id="function-word-modifiers">Function Word Modifiers</h3>
 
-<p>Certain types of function words can take a restricted class of modifiers, mainly negation (<code>neg</code>) and light adverbials
-(<code>advmod</code> or <code>nmod</code>). Typical cases are modified determiners like <em>not every (linguist)</em> and <em>exactly two (papers)</em>
+<p>Certain types of function words can take a restricted class of modifiers, mainly negation (<a href="">ud-dep/neg</a>) and light adverbials
+(<a href="">ud-dep/advmod</a> or <a href="">ud-dep/nmod</a>). Typical cases are modified determiners like <em>not every (linguist)</em> and <em>exactly two (papers)</em>
 and modifiers of subordinating conjunctions.</p>
 
 <div id="s7a" class="sd-parse">
@@ -248,7 +248,7 @@ in that language.</p>
 
 <p>When the natural head of a function word is elided, the function word will be “promoted”
 to the function normally assumed by the content word head. This type of analysis should 
-in general be preferred over an analysis using the <code>remnant</code> relation, because it disrupts
+in general be preferred over an analysis using the <a href="">ud-dep/remnant</a> relation, because it disrupts
 the structure less. The remnant analysis should be used only when there is no function word 
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
 and subordinating conjunctions.</p>
@@ -278,11 +278,15 @@ ccomp(know, how)
 
 <h3 id="core-arguments-vs-oblique-modifiers">Core arguments vs. oblique modifiers</h3>
 
-<p>The UD taxonomy is centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.  It does not make a distinction between adjuncts and oblique arguments. This latter distinction is taken to be sufficiently subtle, unclear, and argued over that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).</p>
+<p>The UD taxonomy is centered around the fairly clear distinction between core arguments
+(subjects, objects, clausal complements) versus other dependents.
+It does not make a distinction between adjuncts and oblique arguments.
+This latter distinction is taken to be sufficiently subtle, unclear, and argued over
+that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).</p>
 
 <h3 id="a-mixed-functional-structural-system">A mixed functional-structural system</h3>
 
-<p>One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations <em>nmod</em>, <em>advcl</em>, or <em>advmod</em> depending on which of these three sorts it is:</p>
+<p>One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations <a href="">ud-dep/nmod</a>, <a href="">ud-dep/advcl</a>, or <a href="">ud-dep/advmod</a> depending on which of these three sorts it is:</p>
 
 <div id="fss1" class="sd-parse">
 John talked in the movie theatre
@@ -316,7 +320,8 @@ to special restrictions explained below.</p>
 
 <h3 id="punctuation">Punctuation</h3>
 
-<p>Tokens with the relation <code>punct</code> always attach to content words (except in cases of ellipsis) and can never have dependents. Since <code>punct</code> is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+<p>Tokens with the relation <a href="">ud-dep/punct</a> always attach to content words (except in cases of ellipsis) and can never have dependents.
+Since <code>punct</code> is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:</p>
 
 <ol>
@@ -368,9 +373,9 @@ punct(Compare, .-34)
 depend on the first, and where only the first element can have dependents:</p>
 
 <ol>
-  <li>Fixed multiword expressions (<code>mwe</code>)</li>
-  <li>Multiword names (<code>name</code>)</li>
-  <li>Foreign phrases (<code>foreign</code>)</li>
+  <li>Fixed multiword expressions (<a href="">ud-dep/mwe</a>)</li>
+  <li>Multiword names (<a href="">ud-dep/name</a>)</li>
+  <li>Foreign phrases (<a href="">ud-dep/foreign</a>)</li>
 </ol>
 
 <div id="s8a" class="sd-parse">
