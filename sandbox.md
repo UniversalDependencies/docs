@@ -114,6 +114,11 @@ Does Arabic work as well?
 3     ˑالتَقْرِيرُˑ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
+~~~ conllu
+1     ‎דני       _        NOUN    _      _     2      nsubj _ _
+2     ‎ראה       _        VERB    _      _     0      root  _ _
+3     ‎סרט       _        NOUN    _      _     2      dobj  _ _
+~~~
 ----------
 
 # Some Jekyll 
