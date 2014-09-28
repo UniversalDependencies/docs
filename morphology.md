@@ -7,7 +7,7 @@ title:  'Morphology'
 
 ## The Morphological Representation of Words in UD
 
-The UD scheme allows for a specification of complete morpho-syntactic represention that can be applied cross-linguistically. This effectively means that  grammatical notions may be indicated via  word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
+The UD scheme allows for the specification of complete morpho-syntactic represention that can be applied cross-linguistically. This effectively means that  grammatical notions may be indicated via  word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
 
 * A _lemma_ representing the semantic content of the word.
 * A _Part-of-Speech_ _tag_  representing the abstract lexical category associated with the word.
