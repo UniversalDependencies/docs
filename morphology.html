@@ -48,16 +48,14 @@
 
 <p>Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the Part-of-Speech tags and grammatical properties are taken from two respective universal inventories, as we define below. </p>
 
-<p>In morphology theory, the triplet <em>&lt;lemma, POS tag, features&gt;</em> of a word-form is called the <em>morphosyntactic representation (MSR)</em> of that word. A set a  triplets that shares their <em>&lt;lemma, POS tag&gt;</em> value is  called an <em>abstract paradigm,</em> and the respective set of word-forms is called a <em>concrete paradigm</em> of that word. In lexicalist approaches to morphosyntax, these rich, high-dimensional paradigms provide the interface between the lexical and the syntactic parts of the grammar.</p>
+<p>In morphology theory, the triplet <em>&lt;</em>  <em>lemma</em>,<em>POS</em> <em>tag</em>, <em>features</em> <em>&gt;</em>  of a word-form is called the <em>morphosyntactic</em> <em>representation</em> <em>(MSR)</em> of that word. A set a  triplets that shares their <em>&lt;</em>  <em>lemma</em>,<em>POS</em> <em>tag</em> <em>&gt;</em> value is  called an <em>abstract</em> <em>paradigm</em>, and the respective set of word-forms is called a <em>concrete</em> <em>paradigm</em>, of that word.  In lexicalist approaches to morphosyntax, these rich, high-dimensional, paradigms provide the interface between the lexical and the syntactic parts of the grammar. </p>
 
-<h2 id="part-of-speech-tags">Part-of-Speech Tags</h2>
+<h2 id="part-of-speech-tags">Part-of-speech tags</h2>
 
-<p>The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed
-and cannot be extended in language-specific extensions. However, it is
-possible that some tags will not be used in some languages.</p>
+<p>The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed list containing 17 tags.
+It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions.  Alternatively, more fine-grained classification of words may be achieved via the use of <a href="ud-feat-index.html">features</a>  (see below). </p>
 
-<p>Features (see below) can be used for a more fine-grained classification
-of words if desirable. Also note that the <a href="format.html">CoNLL-U format</a>
+<p>Also, note that the <a href="format.html">CoNLL-U format</a>
 allows an additional POSTAG, taken from a language-specific
 (or corpus-specific) tagset. Such language-specific POSTAGs have their own
 data column and are not mixed with the universal POS tags.</p>
@@ -137,13 +135,13 @@ and it should never be assumed that the feature cannot appear together with
 a particular POS tag.</li>
 </ul>
 
-<h3 id="lexical-features">Lexical Features</h3>
+<h3 id="lexical-features">Lexical features</h3>
 
 <p>All of these can be considered attributes of lexemes or lemmas (rather than
 individual word forms) and they represent a fine-grained
 sub-classification of words.</p>
 
-<h3 id="inflectional-features">Inflectional Features</h3>
+<h3 id="inflectional-features">Inflectional features</h3>
 
 <p>These are mostly features of word forms rather than lemmas.
 There are exceptions: for instance, gender of nouns is
@@ -151,7 +149,7 @@ usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.</p>
 
-<h3 id="layered-features">Layered Features</h3>
+<h3 id="layered-features">Layered features</h3>
 
 <p>In some languages, some features are marked more than once on the same word.
 We say that there are several <em>layers</em> of the feature.
