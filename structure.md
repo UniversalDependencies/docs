@@ -117,7 +117,7 @@ take dependents:
 ### Multiword Function Words
 
 The word forms that make up a fixed multiword expression are connected into a head-initial structure
-using the special dependency relation `mwe` (see below). When the multiword expression is a functional element,
+using the special dependency relation [ud-dep/mwe]() (see below). When the multiword expression is a functional element,
 the initial word form will then superficially look like a function word with dependents.
 
 <div id="s6" class="sd-parse">
@@ -151,8 +151,8 @@ cc(if, and)
 
 ### Function Word Modifiers
 
-Certain types of function words can take a restricted class of modifiers, mainly negation (`neg`) and light adverbials
-(`advmod` or `nmod`). Typical cases are modified determiners like _not every (linguist)_ and _exactly two (papers)_
+Certain types of function words can take a restricted class of modifiers, mainly negation ([ud-dep/neg]()) and light adverbials
+([ud-dep/advmod]() or [ud-dep/nmod]()). Typical cases are modified determiners like _not every (linguist)_ and _exactly two (papers)_
 and modifiers of subordinating conjunctions.
 
 <div id="s7a" class="sd-parse">
@@ -213,7 +213,7 @@ in that language.
 
 When the natural head of a function word is elided, the function word will be "promoted"
 to the function normally assumed by the content word head. This type of analysis should 
-in general be preferred over an analysis using the `remnant` relation, because it disrupts
+in general be preferred over an analysis using the [ud-dep/remnant]() relation, because it disrupts
 the structure less. The remnant analysis should be used only when there is no function word 
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
 and subordinating conjunctions.
@@ -243,11 +243,15 @@ ccomp(know, how)
 
 ### Core arguments vs. oblique modifiers
 
-The UD taxonomy is centered around the fairly clear distinction between core arguments (subjects, objects, clausal complements) versus other dependents.  It does not make a distinction between adjuncts and oblique arguments. This latter distinction is taken to be sufficiently subtle, unclear, and argued over that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
+The UD taxonomy is centered around the fairly clear distinction between core arguments
+(subjects, objects, clausal complements) versus other dependents.
+It does not make a distinction between adjuncts and oblique arguments.
+This latter distinction is taken to be sufficiently subtle, unclear, and argued over
+that it is eliminated (echoing the viewpoint of the original Penn Treebank annotators).
 
 ### A mixed functional-structural system
 
-One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations _nmod_, _advcl_, or _advmod_ depending on which of these three sorts it is:
+One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations [ud-dep/nmod](), [ud-dep/advcl](), or [ud-dep/advmod]() depending on which of these three sorts it is:
 
 <div id="fss1" class="sd-parse">
 John talked in the movie theatre
@@ -282,7 +286,8 @@ to special restrictions explained below.
 
 ### Punctuation 
 
-Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Tokens with the relation [ud-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
+Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the first conjunct.
@@ -331,9 +336,9 @@ punct(Compare, .-34)
 The following types of expressions are annotated in a head-initial structure, where all non-first elements
 depend on the first, and where only the first element can have dependents:
 
-1. Fixed multiword expressions (`mwe`)
-2. Multiword names (`name`)
-3. Foreign phrases (`foreign`)
+1. Fixed multiword expressions ([ud-dep/mwe]())
+2. Multiword names ([ud-dep/name]())
+3. Foreign phrases ([ud-dep/foreign]())
 
 <div id="s8a" class="sd-parse">
 We had a nice time in spite of the rain .
