@@ -101,9 +101,9 @@ dobj(Aראה, Aסרט)
 Same sentence in CoNLL-U:
 
 ~~~ conllu
-1     &#x02d1;דני&#x02d1;       _        NOUN    _      _     2      nsubj _ _
-2     &#x02d1;ראה&#x02d1;       _        VERB    _      _     0      root  _ _
-3     &#x02d1;סרט&#x02d1;       _        NOUN    _      _     2      dobj  _ _
+1     ˑדניˑ       _        NOUN    _      _     2      nsubj _ _
+2     ˑראהˑ       _        VERB    _      _     0      root  _ _
+3     ˑסרטˑ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
 &#x202d;
