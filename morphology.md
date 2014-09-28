@@ -13,9 +13,10 @@ The UD scheme allows for the specification of complete morpho-syntactic represen
 * A _Part-of-Speech_ _tag_  representing the abstract lexical category associated with the word.
 * A set of _features_  representing lexical and grammatical properties that are associated with the particular word form.
 
-In morphology theory, the _(_  _lemma_,_POS_ _tag_, _features_ _)_ triplet of a word-form is termed the _morphosyntactic_ _representation_ _(MSR)_ of that word. Following morphological theory, we refer to the set a such triplet that share a _(_  _lemma_,_POS_ _tag_ _)_ pair as an _abstract_ _paradigm_ and to the respective set of word forms as _concrete_ _paradigm_.  In lexicalist approaches to morpho-syntax, these paradigms provide the interface between the lexical and the syntactic parts of the grammar. 
-
 Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the Part-of-Speech tags and grammatical properties are taken from two respective universal inventories, as we define below. 
+
+In morphology theory, the triplet _<_  _lemma_,_POS_ _tag_, _features_ _>_  of a word-form is called the _morphosyntactic_ _representation_ _(MSR)_ of that word. A set a  triplets that shares their _<_  _lemma_,_POS_ _tag_ _>_ value is  called an _abstract_ _paradigm_, and the respective set of word-forms is called a _concrete_ _paradigm_, of that word.  In lexicalist approaches to morphosyntax, these rich, high-dimensional, paradigms provide the interface between the lexical and the syntactic parts of the grammar. 
+
 
 ## Part-of-speech tags
 
