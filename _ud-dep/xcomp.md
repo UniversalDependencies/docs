@@ -35,3 +35,23 @@ xcomp(consider, fool)
 I consider him honest
 xcomp(consider, honest)
 ~~~
+
+Note that the above condition “without its own subject” only expresses that the subject is inherited from a higher clause.
+It does not mean that a clause is `xcomp` just because its subject is not _overt._
+Pro-drop languages have clauses where the subject is not present as a separate word,
+yet it is inherently present (and often deducible from the form of the verb)
+and it does not depend on arguments from a higher clause.
+Thus in neither of the following two Czech examples there is any overt subject,
+yet only the second example contains an `xcomp`.
+
+~~~ sdparse
+Píšu , protože jsem to slíbil . \n I-write , because I-have it promised .
+advcl(Píšu, slíbil)
+advcl(I-write, promised)
+~~~
+
+~~~ sdparse
+Slíbil jsem psát . \n Promised I-have to-write .
+xcomp(Slíbil, psát)
+xcomp(Promised, to-write)
+~~~

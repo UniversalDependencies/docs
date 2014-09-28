@@ -15,3 +15,8 @@ of the copular verb, which can be an adjective or noun.
 Clinton defeated Dole
 nsubj(defeated, Clinton)
 ~~~
+
+~~~ sdparse
+The car is red .
+nsubj(red, car)
+~~~
