@@ -106,12 +106,12 @@ Same sentence in CoNLL-U:
 3     ˑסרטˑ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
-&#x202d;
+Does Arabic work as well?
 
-~~~ sdparse
-‪דני/NOUN ראה/VERB סרט/NOUN‬
-nsubj(&#x202d;ראה, &#x202d;דני)
-dobj(&#x202d;ראה, &#x202d;סרט)
+~~~ conllu
+1     ˑوَˑ       _        NOUN    _      _     2      nsubj _ _
+2     ˑلاحَظَˑ       _        VERB    _      _     0      root  _ _
+3     ˑالتَقْرِيرُˑ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
 ----------
