@@ -5,6 +5,18 @@ title:  'Morphology'
 
 # Morphology: General Principles
 
+## The Morphological Representation of Words in UD
+
+The UD scheme allows for a specification of complete morpho-syntactic represention that can be applied cross-linguistically. This effectively means that  grammatical notions may be indicated via  word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
+
+* A _lemma_ representing the semantic content of the word.
+* A _Part-of-Speech_ _tag_  representing the abstract lexical category associated with the word.
+* A set of _features_  representing lexical and grammatical properties that are associated with the particular word form.
+
+In morphology theory, the _(_  _lemma_,_POS_ _tag_, _features_ _)_ triplet of a word-form is termed the _morphosyntactic_ _representation_ _(MSR)_ of that word. Following morphological theory, we refer to the set a such triplet that share a _(_  _lemma_,_POS_ _tag_ _)_ pair as an _abstract_ _paradigm_ and to the respective set of word forms as _concrete_ _paradigm_.  In lexicalist approaches to morpho-syntax, these paradigms provide the interface between the lexical and the syntactic parts of the grammar. 
+
+Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the Part-of-Speech tags and grammatical properties are taken from two respective universal inventories, as we define below. 
+
 ## Part-of-speech tags
 
 The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed
