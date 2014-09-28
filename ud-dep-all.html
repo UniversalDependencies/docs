@@ -322,9 +322,11 @@ appos(Sam-1, cousin-8)
 
 <h2 id="aux-auxiliary">aux: auxiliary</h2>
 
-<p>An auxiliary of a clause is a non-main verb of the clause, e.g., a
-modal auxiliary, or a form of “be”, “do” or “have” in a periphrastic
-tense.</p>
+<p>An auxiliary of a clause is a <a href="../ud-pos/AUX.html">non-main verb</a> of the clause, e.g., a
+modal auxiliary, or a form of <em>be, do</em> or <em>have</em> in a periphrastic tense.</p>
+
+<p>Exception: Auxiliary verb used to construct the passive <a href="../ud-feat/Voice.html">voice</a>
+is not labeled <code>aux</code> but <a href="">auxpass</a>.</p>
 
 <pre><code class="language-sdparse">Reagan has died
 aux(died-3, has-2)
@@ -332,6 +334,12 @@ aux(died-3, has-2)
 
 <pre><code class="language-sdparse">He should leave
 aux(leave-3, should-2)
+</code></pre>
+
+<pre><code class="language-sdparse">Do you think that he will have left when we come ?
+aux(think, Do)
+aux(left, will)
+aux(left, have)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/aux.md" target="#">edit aux</a></p>
