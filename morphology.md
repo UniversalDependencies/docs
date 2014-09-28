@@ -10,12 +10,17 @@ title:  'Morphology'
 The UD scheme allows for the specification of complete morpho-syntactic represention that can be applied cross-linguistically. This effectively means that  grammatical notions may be indicated via  word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
 
 * A _lemma_ representing the semantic content of the word.
-* A _Part-of-Speech_ _tag_  representing the abstract lexical category associated with the word.
-* A set of _features_  representing lexical and grammatical properties that are associated with the particular word form.
+* A _part-of-speech tag_ representing the abstract lexical category associated with the word.
+* A set of _features_ representing lexical and grammatical properties that are associated with the particular word form.
 
-Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the Part-of-Speech tags and grammatical properties are taken from two respective universal inventories, as we define below. 
+Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two respective universal inventories, as we define below.
 
-In morphology theory, the triplet _<_  _lemma_,_POS_ _tag_, _features_ _>_  of a word-form is called the _morphosyntactic_ _representation_ _(MSR)_ of that word. A set a  triplets that shares their _<_  _lemma_,_POS_ _tag_ _>_ value is  called an _abstract_ _paradigm_, and the respective set of word-forms is called a _concrete_ _paradigm_, of that word.  In lexicalist approaches to morphosyntax, these rich, high-dimensional, paradigms provide the interface between the lexical and the syntactic parts of the grammar. 
+In morphology theory, the triplet _<lemma, POS tag, features>_ of a word-form is called
+the _morphosyntactic representation (MSR)_ of that word.
+A set of triplets that share their _<lemma, POS tag>_ value is called an _abstract paradigm,_
+and the respective set of word-forms is called a _concrete paradigm_ of that word.
+In lexicalist approaches to morphosyntax, these rich, high-dimensional paradigms provide
+the interface between the lexical and the syntactic parts of the grammar. 
 
 
 ## Part-of-Speech Tags
