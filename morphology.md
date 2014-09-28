@@ -18,7 +18,7 @@ Lemmas are typically determined by language-specific dictionaries and lexica. In
 In morphology theory, the triplet _<_  _lemma_,_POS_ _tag_, _features_ _>_  of a word-form is called the _morphosyntactic_ _representation_ _(MSR)_ of that word. A set a  triplets that shares their _<_  _lemma_,_POS_ _tag_ _>_ value is  called an _abstract_ _paradigm_, and the respective set of word-forms is called a _concrete_ _paradigm_, of that word.  In lexicalist approaches to morphosyntax, these rich, high-dimensional, paradigms provide the interface between the lexical and the syntactic parts of the grammar. 
 
 
-## Part-of-speech tags
+## Part-of-Speech Tags
 
 The list of <a href="ud-pos-index.html">universal POS tags</a> is fixed list containing 17 tags.
 It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions.  Alternatively, more fine-grained classification of words may be achieved via the use of <a href="ud-feat-index.html">features</a>  (see below). 
@@ -98,13 +98,13 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
   and it should never be assumed that the feature cannot appear together with
   a particular POS tag.
 
-### Lexical features
+### Lexical Features
 
 All of these can be considered attributes of lexemes or lemmas (rather than
 individual word forms) and they represent a fine-grained
 sub-classification of words.
 
-### Inflectional features
+### Inflectional Features
 
 These are mostly features of word forms rather than lemmas.
 There are exceptions: for instance, gender of nouns is
@@ -112,7 +112,7 @@ usually a lexical feature (all word forms of one lemma have the same gender).
 However, other parts of speech (adjectives, pronouns, verbs) may inflect for
 gender because of agreement with nouns.
 
-### Layered features
+### Layered Features
 
 In some languages, some features are marked more than once on the same word.
 We say that there are several _layers_ of the feature.
