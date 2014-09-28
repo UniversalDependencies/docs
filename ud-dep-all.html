@@ -1081,6 +1081,10 @@ of the copular verb, which can be an adjective or noun.</p>
 nsubj(defeated, Clinton)
 </code></pre>
 
+<pre><code class="language-sdparse">The car is red .
+nsubj(red, car)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/nsubj.md" target="#">edit nsubj</a></p>
 
 <h2 id="nsubjpass-passive-nominal-subject">nsubjpass: passive nominal subject</h2>
@@ -1361,6 +1365,24 @@ xcomp(consider, fool)
 
 <pre><code class="language-sdparse">I consider him honest
 xcomp(consider, honest)
+</code></pre>
+
+<p>Note that the above condition “without its own subject” only expresses that the subject is inherited from a higher clause.
+It does not mean that a clause is <code>xcomp</code> just because its subject is not <em>overt.</em>
+Pro-drop languages have clauses where the subject is not present as a separate word,
+yet it is inherently present (and often deducible from the form of the verb)
+and it does not depend on arguments from a higher clause.
+Thus in neither of the following two Czech examples there is any overt subject,
+yet only the second example contains an <code>xcomp</code>.</p>
+
+<pre><code class="language-sdparse">Píšu , protože jsem to slíbil . \n I-write , because I-have it promised .
+advcl(Píšu, slíbil)
+advcl(I-write, promised)
+</code></pre>
+
+<pre><code class="language-sdparse">Slíbil jsem psát . \n Promised I-have to-write .
+xcomp(Slíbil, psát)
+xcomp(Promised, to-write)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ud-dep/xcomp.md" target="#">edit xcomp</a></p>
