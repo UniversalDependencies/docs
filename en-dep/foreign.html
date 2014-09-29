@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>rel</title>
+    <title>foreign</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/rel.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/foreign.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,7 +34,19 @@
 	  </div>
 	</noscript>
 
-          <h2 id="rel--relative">rel : relative</h2>
+          <h2 id="foreign-foreign-words">foreign: foreign words</h2>
+
+<p>We use <em>foreign</em> to label sequences of foreign words. These are given
+a linear analysis: the head is the first token in the foreign phrase.</p>
+
+<pre><code class="language-sdparse">I guess that c' est la vie
+nsubj(guess-2, I-1)
+ccomp(guess-2, c'-4)
+mark(c'-4, that-3)
+foreign(c'-4, est-5)
+foreign(c'-4, la-6)
+foreign(c'-4, vie-7)
+</code></pre>
 
 
 
@@ -94,8 +106,11 @@
 
 
 
+foreign in other languages:
 
+[<a href="../fi-dep/foreign.html">fi</a>]
 
+[<a href="../ud-dep/foreign.html">ud</a>]
 
 
 
@@ -172,11 +187,8 @@
 
 
 
-rel in other languages:
 
-[<a href="../en-dep/rel.html">en</a>]
 
-[<a href="../fi-dep/rel.html">fi</a>]
 
 
 
@@ -635,6 +647,11 @@ rel in other languages:
             },
 
             {
+                "title": "foreign",
+                "url":   "/docs/en-dep/foreign.html",
+            },
+
+            {
                 "title": "goeswith",
                 "url":   "/docs/en-dep/goeswith.html",
             },
@@ -747,11 +764,6 @@ rel in other languages:
             {
                 "title": "ref",
                 "url":   "/docs/en-dep/ref.html",
-            },
-
-            {
-                "title": "rel",
-                "url":   "/docs/en-dep/rel.html",
             },
 
             {

@@ -287,6 +287,22 @@ expl(is, There)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/expl.md" target="#">edit expl</a></p>
 
+<h2 id="foreign-foreign-words">foreign: foreign words</h2>
+
+<p>We use <em>foreign</em> to label sequences of foreign words. These are given
+a linear analysis: the head is the first token in the foreign phrase.</p>
+
+<pre><code class="language-sdparse">I guess that c' est la vie
+nsubj(guess-2, I-1)
+ccomp(guess-2, c'-4)
+mark(c'-4, that-3)
+foreign(c'-4, est-5)
+foreign(c'-4, la-6)
+foreign(c'-4, vie-7)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/foreign.md" target="#">edit foreign</a></p>
+
 <h2 id="goeswith--goes-with">goeswith : goes with</h2>
 <p>This relation links two parts of a word that are separated in text that is not well edited. We follow the treebank: The GW part is the dependent and the head is in some sense the “main” part, often the second part. </p>
 
@@ -571,10 +587,6 @@ ref(book, which)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/ref.md" target="#">edit ref</a></p>
-
-<h2 id="rel--relative">rel : relative</h2>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/rel.md" target="#">edit rel</a></p>
 
 <h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
 
@@ -1321,6 +1333,11 @@ xsubj(eat, Tom)
             },
 
             {
+                "title": "foreign",
+                "url":   "/docs/en-dep/foreign.html",
+            },
+
+            {
                 "title": "goeswith",
                 "url":   "/docs/en-dep/goeswith.html",
             },
@@ -1433,11 +1450,6 @@ xsubj(eat, Tom)
             {
                 "title": "ref",
                 "url":   "/docs/en-dep/ref.html",
-            },
-
-            {
-                "title": "rel",
-                "url":   "/docs/en-dep/rel.html",
             },
 
             {
