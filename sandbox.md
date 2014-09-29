@@ -122,9 +122,9 @@ Does Arabic work as well?
 ----------
 
 ~~~ conllu
-1     ͺדניͺ       _        NOUN    _      _     2      nsubj _ _
-2     ͺראהͺ       _        VERB    _      _     0      root  _ _
-3     ͺסרטͺ       _        NOUN    _      _     2      dobj  _ _
+1     ਼דני਼       _        NOUN    _      _     2      nsubj _ _
+2     ਼ראה਼       _        VERB    _      _     0      root  _ _
+3     ਼סרט਼       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
 # Some Jekyll 
