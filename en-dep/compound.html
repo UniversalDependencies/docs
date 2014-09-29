@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>nn</title>
+    <title>compound</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nn.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,11 +34,32 @@
 	  </div>
 	</noscript>
 
-          <h2 id="nn--noun-compound-modifier">nn : noun compound modifier</h2>
-<p>A noun compound modifier of an NP is any noun that serves to modify the head noun. (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the NP – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of NPs.) </p>
+          <h2 id="compound">compound</h2>
 
-<pre><code class="language-sdparse">Oil price futures
-nn(futures, Oil)
+<p><em>compound</em> is used for </p>
+
+<ul>
+  <li>any kind of X<sup>0</sup> compounding: noun compounds in English (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the noun phrase – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of noun phrases.) </li>
+</ul>
+
+<pre><code class="language-sdparse">phone book
+compound(book, phone)
+</code></pre>
+
+<pre><code class="language-sdparse">oil price futures
+nn(futures, oil)
+</code></pre>
+
+<ul>
+  <li>for numbers</li>
+</ul>
+
+<pre><code class="language-sdparse">I have four thousand sheep
+compound(thousand, four)
+</code></pre>
+
+<pre><code class="language-sdparse">I lost $ 3.2 billion
+compound(billion, 3.2)
 </code></pre>
 
 
@@ -75,6 +96,11 @@ nn(futures, Oil)
 
 
 
+compound in other languages:
+
+[<a href="../fi-dep/compound.html">fi</a>]
+
+[<a href="../ud-dep/compound.html">ud</a>]
 
 
 
@@ -131,11 +157,6 @@ nn(futures, Oil)
 
 
 
-nn in other languages:
-
-[<a href="../en-dep/nn.html">en</a>]
-
-[<a href="../fi-dep/nn.html">fi</a>]
 
 
 
@@ -590,6 +611,11 @@ nn in other languages:
             },
 
             {
+                "title": "compound",
+                "url":   "/docs/en-dep/compound.html",
+            },
+
+            {
                 "title": "conj",
                 "url":   "/docs/en-dep/conj.html",
             },
@@ -662,11 +688,6 @@ nn in other languages:
             {
                 "title": "neg",
                 "url":   "/docs/en-dep/neg.html",
-            },
-
-            {
-                "title": "nn",
-                "url":   "/docs/en-dep/nn.html",
             },
 
             {

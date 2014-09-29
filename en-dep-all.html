@@ -172,6 +172,36 @@ ccomp(says, like)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/ccomp.md" target="#">edit ccomp</a></p>
 
+<h2 id="compound">compound</h2>
+
+<p><em>compound</em> is used for </p>
+
+<ul>
+  <li>any kind of X<sup>0</sup> compounding: noun compounds in English (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the noun phrase – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of noun phrases.) </li>
+</ul>
+
+<pre><code class="language-sdparse">phone book
+compound(book, phone)
+</code></pre>
+
+<pre><code class="language-sdparse">oil price futures
+nn(futures, oil)
+</code></pre>
+
+<ul>
+  <li>for numbers</li>
+</ul>
+
+<pre><code class="language-sdparse">I have four thousand sheep
+compound(thousand, four)
+</code></pre>
+
+<pre><code class="language-sdparse">I lost $ 3.2 billion
+compound(billion, 3.2)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound.md" target="#">edit compound</a></p>
+
 <h2 id="conj--conjunct">conj : conjunct</h2>
 <p>A conjunct is the relation between two elements connected by a coordinating conjunction, such as “and”, “or”, etc.  We treat conjunctions asymmetrically: The head of the relation is the first conjunct and other conjunctions depend on it via the <em>conj</em> relation. </p>
 
@@ -329,15 +359,6 @@ neg(drive, n't)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
-
-<h2 id="nn--noun-compound-modifier">nn : noun compound modifier</h2>
-<p>A noun compound modifier of an NP is any noun that serves to modify the head noun. (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the NP – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of NPs.) </p>
-
-<pre><code class="language-sdparse">Oil price futures
-nn(futures, Oil)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nn.md" target="#">edit nn</a></p>
 
 <h2 id="npadvmod--noun-phrase-as-adverbial-modifier">npadvmod : noun phrase as adverbial modifier</h2>
 <p>This relation captures various places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence.   These usages include: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions. A temporal modifier (tmod) is a subclass of npadvmod which is distinguished as a separate relation. </p>
@@ -1227,6 +1248,11 @@ xsubj(eat, Tom)
             },
 
             {
+                "title": "compound",
+                "url":   "/docs/en-dep/compound.html",
+            },
+
+            {
                 "title": "conj",
                 "url":   "/docs/en-dep/conj.html",
             },
@@ -1299,11 +1325,6 @@ xsubj(eat, Tom)
             {
                 "title": "neg",
                 "url":   "/docs/en-dep/neg.html",
-            },
-
-            {
-                "title": "nn",
-                "url":   "/docs/en-dep/nn.html",
             },
 
             {
