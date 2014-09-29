@@ -121,12 +121,6 @@ Does Arabic work as well?
 ~~~
 ----------
 
-~~~ conllu
-1     ਼דני਼       _        NOUN    _      _     2      nsubj _ _
-2     ਼ראה਼       _        VERB    _      _     0      root  _ _
-3     ਼סרט਼       _        NOUN    _      _     2      dobj  _ _
-~~~
-
 # Some Jekyll 
 
 ## Finnish documentation for relations containing "cop" 
