@@ -37,9 +37,9 @@
           <h2 id="conj-conjunct">conj: conjunct</h2>
 
 <p>A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as “and”, “or”, etc.  We treat
+coordinating conjunction, such as <em>and, or,</em> etc.  We treat
 conjunctions asymmetrically: The head of the relation is the first
-conjunct and other conjunctions depend on it via the <em>conj</em> relation.</p>
+conjunct and all the other conjuncts depend on it via the <em>conj</em> relation.</p>
 
 <pre><code class="language-sdparse">Bill is big and honest
 conj(big, honest)
@@ -56,6 +56,69 @@ punct(apples, ,-4)
 punct(apples, ,-6)
 punct(apples, ,-8)
 </div>
+
+<p>Coordinate clauses are treated the same way as coordination of other constituent types:</p>
+
+<pre><code class="language-sdparse">He came home , took a shower and immediately went to bed .
+conj(came, took)
+conj(came, went)
+punct(came, ,-4)
+cc(came, and)
+</code></pre>
+
+<p>Coordination may be <em>asyndetic,</em> which means that the coordinating conjunction is omitted.
+Commas or other punctuation symbols will delimit the conjuncts in the typical case.
+Asyndetic coordination may be more frequent in some languages, while in others, conjunction will appear between every two conjuncts <em>(John and Mary and Bill).</em></p>
+
+<pre><code class="language-sdparse">Veni , vidi , vici .
+conj(Veni, vidi)
+conj(Veni, vici)
+punct(Veni, ,-2)
+punct(Veni, ,-4)
+</code></pre>
+
+<p>Note that the current annotation scheme cannot distinguish between a dependent of the first conjunct
+and a shared dependent of the whole coordination:</p>
+
+<pre><code class="language-sdparse">He met her at the station and kissed her .
+conj(met, kissed)
+nsubj(met, He)
+</code></pre>
+
+<p>vs.</p>
+
+<pre><code class="language-sdparse">He met her at the station and she kissed him .
+conj(met, kissed)
+nsubj(met, He)
+nsubj(kissed, she)
+</code></pre>
+
+<p>The additional dependencies in the DEPS column could be used to encode the fact that in the first case, <em>he</em> is also subject of <em>kissed.</em>
+Nevertheless, these additional dependencies are not specified in the standard and without them the distinction cannot be made.</p>
+
+<p>Note further that the current annotation scheme has only a limited capability to capture nested coordination
+such as <em>apples and pears or oranges and lemons.</em>
+Consider coordinations</p>
+
+<ul>
+  <li>A, B, C</li>
+  <li>(A, B), C</li>
+  <li>A, (B, C)</li>
+</ul>
+
+<p>The first two cases, i.e. (A, B, C) and ((A, B), C) lead to the same tree:</p>
+
+<pre><code class="language-sdparse">A B C
+conj(A, B)
+conj(A, C)
+</code></pre>
+
+<p>Only the right-nesting case (A, (B, C)) can be distinguished because its tree is different:</p>
+
+<pre><code class="language-sdparse">A B C
+conj(B, C)
+conj(A, B)
+</code></pre>
 
 
 <!-- "relation in other languages" links -->
