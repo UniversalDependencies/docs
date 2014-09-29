@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>quantmod</title>
+    <title>name</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/quantmod.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/name.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,11 +34,23 @@
 	  </div>
 	</noscript>
 
-          <h2 id="quantmod--quantifier-phrase-modifier">quantmod : quantifier phrase modifier</h2>
-<p>A quantifier modifier is an element modifying the head of a QP constituent.  (These are modifiers in complex numeric quantifiers, not other types of “quantification”.  Quantifiers like “all” become det.) </p>
+          <h2 id="name">name</h2>
 
-<pre><code class="language-sdparse">About 200 people came to the party
-quantmod(200, About)
+<p><em>name</em> is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used between the words of “Hillary Rodham Clinton”, “New York”, or “Carl XVI Gustaf” but not to replace the usual relations in a phrasal or clausal name like “The king of Sweden” or the novels “The Lord of the Rings” and “Captured By Aliens”. Words joined by <em>name</em> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with <em>compound</em>, except that in many cases parts of the name may be another nominal elelment such as an adjective (“United Airlines”).</p>
+
+<p>In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <em>name</em> label.</p>
+
+<pre><code class="language-sdparse">Carl XVI Gustaf
+name(Carl-1, Gustaf-3)
+name(Carl-1, XVI-2)
+</code></pre>
+
+<p>This is certainly the case for person names and foreign person or place names. For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding in <em>compound</em>.</p>
+
+<pre><code class="language-sdparse">Natural Resources Conservation Service
+name(Resources-2, Natural-1)
+name(Conservation-3, Resources-2)
+name(Service-4, Conservation-3)
 </code></pre>
 
 
@@ -119,6 +131,11 @@ quantmod(200, About)
 
 
 
+name in other languages:
+
+[<a href="../fi-dep/name.html">fi</a>]
+
+[<a href="../ud-dep/name.html">ud</a>]
 
 
 
@@ -171,11 +188,6 @@ quantmod(200, About)
 
 
 
-quantmod in other languages:
-
-[<a href="../en-dep/quantmod.html">en</a>]
-
-[<a href="../fi-dep/quantmod.html">fi</a>]
 
 
 
@@ -665,6 +677,11 @@ quantmod in other languages:
             },
 
             {
+                "title": "name",
+                "url":   "/docs/en-dep/name.html",
+            },
+
+            {
                 "title": "neg",
                 "url":   "/docs/en-dep/neg.html",
             },
@@ -737,11 +754,6 @@ quantmod in other languages:
             {
                 "title": "punct",
                 "url":   "/docs/en-dep/punct.html",
-            },
-
-            {
-                "title": "quantmod",
-                "url":   "/docs/en-dep/quantmod.html",
             },
 
             {
