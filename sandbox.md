@@ -98,6 +98,14 @@ nsubj(Aראה, Aדני)
 dobj(Aראה, Aסרט)
 ~~~
 
+Same without "A" (should trigger auto-insertion of "ˑ")
+
+~~~ sdparse
+דני/NOUN ראה/VERB סרט/NOUN
+nsubj(ראה, דני)
+dobj(ראה, סרט)
+~~~
+
 Same sentence in CoNLL-U:
 
 ~~~ conllu
