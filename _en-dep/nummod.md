@@ -1,11 +1,11 @@
 ---
 layout: base
-title:  'num'
+title:  'nummod'
 shortdef : 'numeric modifier'
 ---
 
 
-## num : numeric modifier
+## nummod : numeric modifier
 A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity. 
 
 ~~~ sdparse
