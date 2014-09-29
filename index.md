@@ -35,10 +35,11 @@ Our goal is to have a stable version 1 release by 2014-10-01.
   * [General principles](morphology.html)
   * [Universal POS tags](ud-pos-index.html) ([single document](ud-pos-all.html))
   * [Universal features](ud-feat-index.html) ([single document](ud-feat-all.html))
-  * [Extended features](ext-feat-index.html) (summary of language-specific extensions)
+  * [Language-specific features](ext-feat-index.html)
 * Syntax
   * [General principles](structure.html)
   * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
+  * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
 </div>
 

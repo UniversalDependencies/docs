@@ -6,8 +6,8 @@ shortdef: 'relative clause modifier'
 
 ## relcl: relative clause modifier
 
-A relative clause modifier of an NP is a relative clause modifying the
-NP.  The relation points from the head noun of the NP to the head of
+A relative clause modifier of an noun is a relative clause modifying the
+noun.  The relation points from the noun that is moidifed to the head of
 the relative clause, normally a verb.
 
 ~~~ sdparse

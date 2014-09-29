@@ -1,9 +1,9 @@
 ---
 layout: base
-title:  'Extended Features'
+title:  'Language-specific features'
 ---
 
-# Language-specific extensions to features
+# Language-specific features
 
 ## Interset features that are not part of this standard
 
