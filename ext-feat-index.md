@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Extended Features'
+title:  'Language-specific features'
 ---
 
 # Language-specific features
