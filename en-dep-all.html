@@ -269,6 +269,14 @@ discourse(is-2, :)-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/discourse.md" target="#">edit discourse</a></p>
 
+<h2 id="dislocated--dislocated-elements">dislocated : dislocated elements</h2>
+
+<p>The dislocated relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence.</p>
+
+<p>[Example?]</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/dislocated.md" target="#">edit dislocated</a></p>
+
 <h2 id="dobj--direct-object">dobj : direct object</h2>
 <p>The direct object of a VP is the noun phrase which is the (accusative) object of the verb. </p>
 
@@ -685,27 +693,6 @@ tmod(swam, night)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/tmod.md" target="#">edit tmod</a></p>
-
-<h2 id="vmod--reduced-non-finite-verbal-modifier">vmod : reduced non-finite verbal modifier</h2>
-<p>A reduced non-finite verbal modifier is a participial or infinitive form of a verb heading a phrase (which may have some arguments, roughly like a VP). These are used to modify the meaning of an NP or another verb. They are not core arguments of a verb or full finite relative clauses. </p>
-
-<pre><code class="language-sdparse">Points to establish are ...
-vmod(Points, establish)
-</code></pre>
-
-<pre><code class="language-sdparse">I don't have anything to say to you
-vmod(anything, say)
-</code></pre>
-
-<pre><code class="language-sdparse">Truffles picked during the spring are tasty
-vmod(Truffles, picked)
-</code></pre>
-
-<pre><code class="language-sdparse">Bill tried to shoot , demonstrating his incompetence
-vmod(shoot, demonstrating)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/vmod.md" target="#">edit vmod</a></p>
 
 <h2 id="xcomp--open-clausal-complement">xcomp : open clausal complement</h2>
 <p>An open clausal complement (<em>xcomp</em>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause. These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <em>xcomp</em> is borrowed from Lexical-Functional Grammar. </p>
@@ -1323,6 +1310,11 @@ xsubj(eat, Tom)
             },
 
             {
+                "title": "dislocated",
+                "url":   "/docs/en-dep/dislocated.html",
+            },
+
+            {
                 "title": "dobj",
                 "url":   "/docs/en-dep/dobj.html",
             },
@@ -1470,11 +1462,6 @@ xsubj(eat, Tom)
             {
                 "title": "tmod",
                 "url":   "/docs/en-dep/tmod.html",
-            },
-
-            {
-                "title": "vmod",
-                "url":   "/docs/en-dep/vmod.html",
             },
 
             {
