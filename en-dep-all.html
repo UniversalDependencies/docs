@@ -365,7 +365,20 @@ nsubjpass(defeated, Dole)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
 
-<h2 id="num--numeric-modifier">num : numeric modifier</h2>
+<h2 id="number--element-of-compound-number">number : element of compound number</h2>
+<p>An element of compound number is a part of a number phrase or currency amount. We regard a number as a specialized kind of multi-word expression. </p>
+
+<pre><code class="language-sdparse">I have four thousand sheep
+number(thousand, four)
+</code></pre>
+
+<pre><code class="language-sdparse">I lost $ 3.2 billion
+number(billion, 3.2)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/number.md" target="#">edit number</a></p>
+
+<h2 id="nummod--numeric-modifier">nummod : numeric modifier</h2>
 <p>A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity. </p>
 
 <pre><code class="language-sdparse">Sam ate 3 sheep
@@ -380,20 +393,7 @@ num(dollars, forty)
 num($, 40)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/num.md" target="#">edit num</a></p>
-
-<h2 id="number--element-of-compound-number">number : element of compound number</h2>
-<p>An element of compound number is a part of a number phrase or currency amount. We regard a number as a specialized kind of multi-word expression. </p>
-
-<pre><code class="language-sdparse">I have four thousand sheep
-number(thousand, four)
-</code></pre>
-
-<pre><code class="language-sdparse">I lost $ 3.2 billion
-number(billion, 3.2)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/number.md" target="#">edit number</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nummod.md" target="#">edit nummod</a></p>
 
 <h2 id="parataxis--parataxis">parataxis : parataxis</h2>
 <p>The parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. </p>
@@ -1255,13 +1255,13 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "num",
-                "url":   "/docs/en-dep/num.html",
+                "title": "number",
+                "url":   "/docs/en-dep/number.html",
             },
 
             {
-                "title": "number",
-                "url":   "/docs/en-dep/number.html",
+                "title": "nummod",
+                "url":   "/docs/en-dep/nummod.html",
             },
 
             {
