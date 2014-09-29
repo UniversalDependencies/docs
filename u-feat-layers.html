@@ -1,0 +1,1630 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Layered universal features</title>
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
+    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/u-feat-layers.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h1 id="layered-universal-features">Layered universal features</h1>
+
+<p>In some languages, some features are marked more than once on the same word.
+We say that there are several <em>layers</em> of the feature.
+The exact meaning of individual layers is language-dependent.</p>
+
+<p>For example, possessive adjectives, determiners and pronouns may have two
+different values of <a href="">u-feat/Gender</a> and two of <a href="">u-feat/Number</a>. One of the values is determined
+by agreement with the modified (possessed) noun. This is parallel to other
+(non-possessive)
+adjectives and determiners that agree in gender and number with the nouns they
+modify. The other value is determined lexically because it is a property of
+the possessor.
+The following table shows that
+English distinguishes only the possessor’s gender and number;
+Hindi distinguishes gender in agreement and number both in agreement and of the possessor
+(there is no neuter gender in Hindi);
+German distinguishes both features in both dimensions
+(more differences would be seen if we also showed German dative and accusative forms, not just nominatives).</p>
+
+<table>
+  <tr>
+    <td>Possessor / Agreement</td>
+    <td>&nbsp;</td>
+    <td>Sing Masc</td>
+    <td>Sing Fem</td>
+    <td>Sing Neut</td>
+    <td>Plur Masc</td>
+    <td>Plur Fem</td>
+  </tr>
+  <tr>
+    <td>Sing Masc</td>
+    <td>[en]<br />[de]<br />[hi]</td>
+    <td><span style="color:red">his</span> son<br /><span style="color:red">sein</span> Sohn<br /><span style="color:red">usakā</span> bēṭā</td>
+    <td><span style="color:red">his</span> daughter<br /><span style="color:red">seine</span> Tochter<br /><span style="color:red">usakī</span> bēṭī</td>
+    <td><span style="color:red">his</span> house<br /><span style="color:red">sein</span> Haus<br />&nbsp;</td>
+    <td><span style="color:red">his</span> sons<br /><span style="color:red">seine</span> Söhne<br /><span style="color:red">usakē</span> bēṭē</td>
+    <td><span style="color:red">his</span> daughters<br /><span style="color:red">seine</span> Töchter<br /><span style="color:red">usakī</span> bēṭiyām̐</td>
+  </tr>
+  <tr>
+    <td>Sing Fem</td>
+    <td>[en]<br />[de]<br />[hi]</td>
+    <td><span style="color:red">her</span> son<br /><span style="color:red">ihr</span> Sohn<br /><span style="color:red">usakā</span> bēṭā</td>
+    <td><span style="color:red">her</span> daughter<br /><span style="color:red">ihre</span> Tochter<br /><span style="color:red">usakī</span> bēṭī</td>
+    <td><span style="color:red">her</span> house<br /><span style="color:red">ihr</span> Haus<br />&nbsp;</td>
+    <td><span style="color:red">her</span> sons<br /><span style="color:red">ihre</span> Söhne<br /><span style="color:red">usakē</span> bēṭē</td>
+    <td><span style="color:red">her</span> daughters<br /><span style="color:red">ihre</span> Töchter<br /><span style="color:red">usakī</span> bēṭiyām̐</td>
+  </tr>
+  <tr>
+    <td>Sing Neut</td>
+    <td>[en]<br />[de]<br />&nbsp;</td>
+    <td><span style="color:red">its</span> son<br /><span style="color:red">sein</span> Sohn<br />&nbsp;</td>
+    <td><span style="color:red">its</span> daughter<br /><span style="color:red">seine</span> Tochter<br />&nbsp;</td>
+    <td><span style="color:red">its</span> house<br /><span style="color:red">sein</span> Haus<br />&nbsp;</td>
+    <td><span style="color:red">its</span> sons<br /><span style="color:red">seine</span> Söhne<br />&nbsp;</td>
+    <td><span style="color:red">its</span> daughters<br /><span style="color:red">seine</span> Töchter<br />&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Plur</td>
+    <td>[en]<br />[de]<br />[hi]</td>
+    <td><span style="color:red">their</span> son<br /><span style="color:red">ihr</span> Sohn<br /><span style="color:red">unakā</span> bēṭā</td>
+    <td><span style="color:red">their</span> daughter<br /><span style="color:red">ihre</span> Tochter<br /><span style="color:red">unakī</span> bēṭī</td>
+    <td><span style="color:red">their</span> house<br /><span style="color:red">ihr</span> Haus<br />&nbsp;</td>
+    <td><span style="color:red">their</span> sons<br /><span style="color:red">ihre</span> Söhne<br /><span style="color:red">unakē</span> bēṭē</td>
+    <td><span style="color:red">their</span> daughters<br /><span style="color:red">ihre</span> Töchter<br /><span style="color:red">unakī</span> bēṭiyām̐</td>
+  </tr>
+</table>
+
+<p>If a feature is (can be) layered in a language, the name of the feature must
+indicate the layer. An additional identifier in square brackets is used to
+distinguish layers, e.g. <code>Gender[psor]</code> for the possessor’s gender.
+We recommend that the layer identifiers consist of lowercase English letters
+<code>[a-z]</code> and/or digits <code>[0-9]</code>.
+The layers, their meaning and their
+identifiers must be defined in a language-specific extension to this
+documentation. For each layered feature, one layer may be defined as default
+and the corresponding features then appear without identifier,
+e.g. <code>Gender=Masc|Gender[psor]=Fem</code>.</p>
+
+<p><strong>In the following, we list some examples of layered features attested in existing corpora.
+These may be used as inspiration or they may be used <em>as-is</em> in treebanks for which they are
+found appropriate. Note that even if a treebank uses a layered feature from this section,
+it should still be described in the language-specific documentation.</strong></p>
+
+<h2 id="genderpsor">Gender[psor]</h2>
+
+<p>Possessive
+adjectives and pronouns may have two different <a href="u/feat/Gender.html">genders</a>: that of the
+possessed object (gender agreement with modified noun) and that of
+the possessor (lexical feature, inherent gender).</p>
+
+<p>The <code>Gender[psor]</code> feature captures the possessor’s gender.</p>
+
+<p>In
+the Czech examples below, the masculine Gender[psor] implies using one
+of the suffixes <i>-</i><i>ův, -ova, -ovo,</i>
+and the feminine Gender[psor] implies using one of <i>-</i><i>in,
+-ina, -ino</i>.</p>
+
+<h3 id="masc-masculine-possessor">Masc: masculine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>otcův syn</i></span> (father’s son; <code>Gender=Masc|Gender[psor]=Masc</code>);
+<span style="color: red"><i>otcova dcera</i></span> (father’s daughter; <code>Gender=Fem|Gender[psor]=Masc</code>);
+<span style="color: red"><i>otcovo dítě</i></span> (father’s child; <code>Gender=Neut|Gender[psor]=Masc</code>).</p>
+
+<h3 id="fem-feminine-possessor">Fem: feminine possessor</h3>
+
+<p>Examples:
+[cs]
+<span style="color: red"><i>matčin syn</i></span> (mother’s son; <code>Gender=Masc|Gender[psor]=Fem</code>);
+<span style="color: red"><i>matčina dcera</i></span> (mother’s daughter; <code>Gender=Fem|Gender[psor]=Fem</code>);
+<span style="color: red"><i>matčino dítě</i></span> (mother’s child; <code>Gender=Neut|Gender[psor]=Fem</code>).</p>
+
+<p>In other languages (Hebrew, Arabic), the possessor’s gender and number are agreement rather than lexical features:</p>
+
+<p>Examples: [he] <i><span style="color:red">HKPH</span> FL HARC</i> (perimeter of country).
+Features of the two nouns are as follows:
+perimeter.<code>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing</code>
+country.<code>Definite=Def|Gender=Fem|Number=Sing</code>.</p>
+
+<p>The [psor] features of <em>perimeter</em> are dictated by agreement with the possessor, <em>country.</em></p>
+
+<p>(This is a partial description of this example. <em>HKPH</em> has many morphological analyses, some of them are masculine single-layered, some of them are feminine single-layered. You can only find the right morphosyntactic analysis if you detect the two layers of agreement features, and can identify this specific agreement pattern.)</p>
+
+<h2 id="numberpsor">Number[psor]</h2>
+
+<p>Possessives
+may have two different <a href="u/feat/Number.html">numbers</a>: that of the possessed object (number
+agreement with modified noun) and that of the possessor. The
+<code>Number[psor]</code> feature captures the possessor’s number.</p>
+
+<h3 id="sing-singular-possessor">Sing: singular possessor</h3>
+
+<p>Examples:
+[en]
+<i><span style="color: red">my, his, her, its</span>;</i>
+[cs]
+<i><span style="color: red">můj</span> pes</i>
+(my dog; <code>Number=Sing|Number[psor]=Sing</code>);
+<i><span style="color: red">mí</span> psi</i>
+(my dogs; <code>Number=Plur|Number[psor]=Sing</code>).</p>
+
+<h3 id="plur-plural-possessor">Plur: plural possessor</h3>
+
+<p>Examples:
+[en]
+<i><span style="color: red">our, their</span>;</i>
+[cs]
+<i><span style="color: red">náš</span> pes</i>
+(our dog; <code>Number=Sing|Number[psor]=Plur</code>);
+<i><span style="color: red">naši</span> psi</i>
+(our dogs; <code>Number=Plur|Number[psor]=Plur</code>).</p>
+
+<h2 id="personpsor">Person[psor]</h2>
+
+<p>The possessor’s person is marked e.g. on Hungarian nouns. These noun
+forms would be translated to English as possessive pronoun + noun.</p>
+
+<p>Note that it is reasonable to make this a layered feature even though
+the default <a href="u/feat/Person.html">Person</a> is normally not
+marked on nouns. In relation to verbs (which may have to mark person
+agreement with nouns), a noun is almost always in the third person.
+So even if this default person is not explicitly marked morphologically,
+and probably the default <code>Person</code> does not appear among features of
+the noun, we should not use the default layer of persons to mark the
+possessor. If we abused the default layer, the annotation would no longer
+be parallel to personal pronouns that could be substituted for the noun.</p>
+
+<p>On the other hand, we probably do not want a separate <code>[psor]</code> layer
+for the person of possessive determiners / pronouns.
+They modify a noun, not a verb. Arguably they have only one <code>Person</code>
+feature and it is lexical (while for the Hungarian nouns,
+<code>Person[psor]</code> is inflectional).
+They usually modify nouns, not verbs, and agreement with verbs does
+not play any role.
+Moreover, in some languages possessive pronouns are actually identical
+to personal pronouns in the genitive <a href="u/feat/Case.html">case</a>
+and it is logical that they have the same <code>Person</code> as in the nominative.</p>
+
+<h3 id="first-person-possessor">1: first person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i> = dog;
+<span style="color: red"><i>kutyám</i></span> = my dog;
+<span style="color: red"><i>kutyánk</i></span> = our dog.</p>
+
+<h3 id="second-person-possessor">2: second person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i> = dog;
+<span style="color: red"><i>kutyád</i></span> = your.Sing dog;
+<span style="color: red"><i>kutyátok</i></span> = your.Plur dog.</p>
+
+<h3 id="third-person-possessor">3: third person possessor</h3>
+
+<p>Examples:
+[hu]
+<i>kutya</i> = dog;
+<span style="color: red"><i>kutyája</i></span> = his/her/its dog;
+<span style="color: red"><i>kutyájuk</i></span> = their dog.</p>
+
+<p><i>János <span style="color:red">csontja</span></i><br />
+lit. John <span style="color:red">his-bone</span><br />
+John’s bone</p>
+
+<p><i>János <span style="color:red">csontjai</span></i><br />
+lit. John <span style="color:red">his-bones</span><br />
+John’s bones</p>
+
+<p><i>Péternek sok <span style="color:red">pénze</span> van.</i><br />
+lit. to-Peter much <span style="color:red">his-money</span> there-is<br />
+Peter has a lot of money.</p>
+
+<h2 id="numberpsee">Number[psee]</h2>
+
+<p>This feature seems to be very specific to Hungarian.
+It denotes the possessee’s (possessed, owned noun phrase’s) number.
+Hungarian has three types of number in the nominal inflection:</p>
+
+<ul>
+  <li>The number of the noun (inflectional, non-agreement).</li>
+  <li>The number of owners that own the noun (inflectional, agreement with possessor that may or may not be pronounced).</li>
+  <li>The number of the context-given referent, which is some possession of the noun, i.e. belongs to the noun (anaphoric possessive; in a sense, this is an agreement feature, but the head noun is not pronounced in the sentence).</li>
+</ul>
+
+<p>Examples from the Multext-East Hungarian lexicon:</p>
+
+<ul>
+  <li><i>könnyedén</i> (SSS)
+    <ul>
+      <li><i>könny</i> = a tear (singular)</li>
+      <li><i>könnyed</i> = your tear (singular owner)</li>
+      <li><i>könnyedé</i> = (possession) of your tear (singular possession)</li>
+      <li><i>könnyedén</i> = (on the possession) of your tear (superessive case)</li>
+    </ul>
+  </li>
+  <li><i>ellenfeleié</i> (PSS)
+    <ul>
+      <li><i>ellenfél</i> = an opponent (singular)</li>
+      <li><i>ellenfele</i> = his/her/its opponent (singular owner)</li>
+      <li><i>ellenfelei</i> = his/her/its opponents (core plural, singular owner)</li>
+      <li><i>ellenfeleié</i> = (possession) of his/her/its opponents (singular possession)</li>
+    </ul>
+  </li>
+  <li><i>életeké</i> (SPS)
+    <ul>
+      <li><i>él</i> = point (singular)</li>
+      <li><i>élek</i> = points (plural)</li>
+      <li><i>élén</i> = his/her/its point (singular owner)</li>
+      <li><i>élünk</i> = our point (plural owner)</li>
+      <li><i>életeké</i> = (possession) of our point (singular possession)</li>
+    </ul>
+  </li>
+  <li><i>tárgyalópartnereinkét</i> (PPS)
+    <ul>
+      <li><i>tárgyalópartner</i> = negotiator (singular)</li>
+      <li><i>tárgyalópartnerei</i> = his/her/its negotiators (plural, singular owner)</li>
+      <li><i>tárgyalópartnereinkét</i> = (possession) of our negotiators (plural, plural owner, singular possession, accusative case)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Words marked for plural possessions are very rare, though. Note
+that in the following example from Multext-East, Columbus is marked
+for plural possession, but not for his own owner. </p>
+
+<ul>
+  <li><i>Kolumbuszéinál</i>
+    <ul>
+      <li><i>Kolumbusz</i> = Columbus (singular)</li>
+      <li><i>Kolumbuszéi</i> = (possessions) of Columbus (plural possession)</li>
+      <li><i>Kolumbuszéinál</i> = (at the possessions) of Columbus (adessive case)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>See also <a href="http://ling.auf.net/lingbuzz/002042/current.pdf">Éva Dékány (2014): The syntax of anaphoric possessives in Hungarian</a>:
+In anaphoric possessives the possessed noun, the head of the whole nominal phrase,
+is not pronounced, and its reference has to be recovered from the context.
+The possessor in Hungarian anaphoric possessives has to bear the <em>-é</em> suffix.</p>
+
+<p>Since <code>Number[psee]=Plur</code> is extremely rare, this feature is not so important
+for distinguishing singular and plural possessions. However, the mere presence
+of <code>Number[psee]=Sing</code> informs that there is the <em>-é</em> suffix and thus that
+there is an unpronounced possession.</p>
+
+<h2 id="layered-verb-agreement-in-basque">Layered verb agreement in Basque</h2>
+
+<p>Verbs in many Indo-European languages must agree in person and number
+with their subject. This is what typically <a href="">u-feat/Person</a> and
+<a href="">u-feat/Number</a> of verbs denote.</p>
+
+<p>Some verbs in Basque must agree in person and number with up to three arguments:
+the absolutive argument (subject of intransitive verbs and object of transitive verbs),
+the ergative argument (subject of transitive verbs)
+and the dative argument (indirect object).</p>
+
+<p>We could make the absolutive agreement the default, thus using <code>Person</code> and <code>Number</code>
+without layer identifiers.
+If there is also one of the other two arguments, we will have
+<code>Person[erg]</code>, <code>Number[erg]</code> and <code>Person[dat]</code>, <code>Number[dat]</code>, respectively.</p>
+
+<p>Example: <i><span style="color:red">nahi dizkiegu</span>,</i> lemma = <i>nahi_izan</i>,
+feats = <code>Number=Plur|Number[dat]=Plur|Number[erg]=Plur|Person=3|Person[dat]=3|Person[erg]=1</code>
+(we want them to them).</p>
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = ''; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    /* collection data, filled in by Jekyll */
+    var documentCollections = {
+        "_current" : "",
+
+        "u-pos": [
+
+            {
+                "title": "ADJ",
+                "url":   "/docs/u/pos/ADJ.html",
+            },
+
+            {
+                "title": "ADP",
+                "url":   "/docs/u/pos/ADP.html",
+            },
+
+            {
+                "title": "ADV",
+                "url":   "/docs/u/pos/ADV.html",
+            },
+
+            {
+                "title": "AUX",
+                "url":   "/docs/u/pos/AUX_.html",
+            },
+
+            {
+                "title": "CONJ",
+                "url":   "/docs/u/pos/CONJ.html",
+            },
+
+            {
+                "title": "DET",
+                "url":   "/docs/u/pos/DET.html",
+            },
+
+            {
+                "title": "INTJ",
+                "url":   "/docs/u/pos/INTJ.html",
+            },
+
+            {
+                "title": "NOUN",
+                "url":   "/docs/u/pos/NOUN.html",
+            },
+
+            {
+                "title": "NUM",
+                "url":   "/docs/u/pos/NUM.html",
+            },
+
+            {
+                "title": "PART",
+                "url":   "/docs/u/pos/PART.html",
+            },
+
+            {
+                "title": "PRON",
+                "url":   "/docs/u/pos/PRON.html",
+            },
+
+            {
+                "title": "PROPN",
+                "url":   "/docs/u/pos/PROPN.html",
+            },
+
+            {
+                "title": "PUNCT",
+                "url":   "/docs/u/pos/PUNCT.html",
+            },
+
+            {
+                "title": "SCONJ",
+                "url":   "/docs/u/pos/SCONJ.html",
+            },
+
+            {
+                "title": "SYM",
+                "url":   "/docs/u/pos/SYM.html",
+            },
+
+            {
+                "title": "VERB",
+                "url":   "/docs/u/pos/VERB.html",
+            },
+
+            {
+                "title": "X",
+                "url":   "/docs/u/pos/X.html",
+            },
+
+        ],
+
+        "u-feat": [
+
+            {
+                "title": "Animacy",
+                "url":   "/docs/u/feat/Animacy.html",
+            },
+
+            {
+                "title": "Aspect",
+                "url":   "/docs/u/feat/Aspect.html",
+            },
+
+            {
+                "title": "Case",
+                "url":   "/docs/u/feat/Case.html",
+            },
+
+            {
+                "title": "Definite",
+                "url":   "/docs/u/feat/Definite.html",
+            },
+
+            {
+                "title": "Degree",
+                "url":   "/docs/u/feat/Degree.html",
+            },
+
+            {
+                "title": "Gender",
+                "url":   "/docs/u/feat/Gender.html",
+            },
+
+            {
+                "title": "Mood",
+                "url":   "/docs/u/feat/Mood.html",
+            },
+
+            {
+                "title": "Negative",
+                "url":   "/docs/u/feat/Negative.html",
+            },
+
+            {
+                "title": "NumType",
+                "url":   "/docs/u/feat/NumType.html",
+            },
+
+            {
+                "title": "Number",
+                "url":   "/docs/u/feat/Number.html",
+            },
+
+            {
+                "title": "Person",
+                "url":   "/docs/u/feat/Person.html",
+            },
+
+            {
+                "title": "Poss",
+                "url":   "/docs/u/feat/Poss.html",
+            },
+
+            {
+                "title": "PronType",
+                "url":   "/docs/u/feat/PronType.html",
+            },
+
+            {
+                "title": "Reflex",
+                "url":   "/docs/u/feat/Reflex.html",
+            },
+
+            {
+                "title": "Tense",
+                "url":   "/docs/u/feat/Tense.html",
+            },
+
+            {
+                "title": "VerbForm",
+                "url":   "/docs/u/feat/VerbForm.html",
+            },
+
+            {
+                "title": "Voice",
+                "url":   "/docs/u/feat/Voice.html",
+            },
+
+        ],
+
+        "u-dep": [
+
+            {
+                "title": "advcl",
+                "url":   "/docs/u/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/u/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/u/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/u/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/u/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/u/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/u/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/u/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/u/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/u/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/u/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/u/dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/u/dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/u/dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/u/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/u/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/u/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/u/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/u/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/u/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/u/dep/foreign.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/u/dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/u/dep/iobj.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/u/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/u/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/u/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/u/dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/u/dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/u/dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/u/dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/u/dep/nmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/u/dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/u/dep/nsubjpass.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/u/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/u/dep/parataxis.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/u/dep/punct.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/u/dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/u/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/u/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/u/dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/u/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/u/dep/xcomp.html",
+            },
+
+        ],
+
+        "ext-feat": [
+
+            {
+                "title": "Abbr",
+                "url":   "/docs/u/ext-feat/Abbr.html",
+            },
+
+            {
+                "title": "AdpType",
+                "url":   "/docs/u/ext-feat/AdpType.html",
+            },
+
+            {
+                "title": "AdvType",
+                "url":   "/docs/u/ext-feat/AdvType.html",
+            },
+
+            {
+                "title": "ConjType",
+                "url":   "/docs/u/ext-feat/ConjType.html",
+            },
+
+            {
+                "title": "Echo",
+                "url":   "/docs/u/ext-feat/Echo.html",
+            },
+
+            {
+                "title": "Foreign",
+                "url":   "/docs/u/ext-feat/Foreign.html",
+            },
+
+            {
+                "title": "Hyph",
+                "url":   "/docs/u/ext-feat/Hyph.html",
+            },
+
+            {
+                "title": "NameType",
+                "url":   "/docs/u/ext-feat/NameType.html",
+            },
+
+            {
+                "title": "NounType",
+                "url":   "/docs/u/ext-feat/NounType.html",
+            },
+
+            {
+                "title": "NumForm",
+                "url":   "/docs/u/ext-feat/NumForm.html",
+            },
+
+            {
+                "title": "NumValue",
+                "url":   "/docs/u/ext-feat/NumValue.html",
+            },
+
+            {
+                "title": "PartType",
+                "url":   "/docs/u/ext-feat/PartType.html",
+            },
+
+            {
+                "title": "Politeness",
+                "url":   "/docs/u/ext-feat/Politeness.html",
+            },
+
+            {
+                "title": "PossGender",
+                "url":   "/docs/u/ext-feat/PossGender.html",
+            },
+
+            {
+                "title": "PossNumber",
+                "url":   "/docs/u/ext-feat/PossNumber.html",
+            },
+
+            {
+                "title": "PossPerson",
+                "url":   "/docs/u/ext-feat/PossPerson.html",
+            },
+
+            {
+                "title": "PossedNumber",
+                "url":   "/docs/u/ext-feat/PossedNumber.html",
+            },
+
+            {
+                "title": "PrepCase",
+                "url":   "/docs/u/ext-feat/PrepCase.html",
+            },
+
+            {
+                "title": "PunctSide",
+                "url":   "/docs/u/ext-feat/PunctSide.html",
+            },
+
+            {
+                "title": "PunctType",
+                "url":   "/docs/u/ext-feat/PunctType.html",
+            },
+
+            {
+                "title": "Style",
+                "url":   "/docs/u/ext-feat/Style.html",
+            },
+
+            {
+                "title": "Typo",
+                "url":   "/docs/u/ext-feat/Typo.html",
+            },
+
+            {
+                "title": "VerbType",
+                "url":   "/docs/u/ext-feat/VerbType.html",
+            },
+
+        ],
+
+        "en-dep": [
+
+            {
+                "title": "advcl",
+                "url":   "/docs/en/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/en/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/en/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/en/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/en/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/en/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/en/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/en/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/en/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/en/dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/en/dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/en/dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/en/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/en/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/en/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/en/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/en/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/en/dep/foreign.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/en/dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/en/dep/iobj.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/en/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/en/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/en/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/en/dep/name.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/en/dep/neg.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
+            },
+
+            {
+                "title": "npmod",
+                "url":   "/docs/en/dep/npmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/en/dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/en/dep/nsubjpass.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/en/dep/number.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/en/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/en/dep/parataxis.html",
+            },
+
+            {
+                "title": "pcomp",
+                "url":   "/docs/en/dep/pcomp.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/en/dep/possessive.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/en/dep/preconj.html",
+            },
+
+            {
+                "title": "predet",
+                "url":   "/docs/en/dep/predet.html",
+            },
+
+            {
+                "title": "prepc",
+                "url":   "/docs/en/dep/prepc.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/en/dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/en/dep/punct.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/en/dep/rcmod.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/en/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/en/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/en/dep/root.html",
+            },
+
+            {
+                "title": "tmod",
+                "url":   "/docs/en/dep/tmod.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/en/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/en/dep/xcomp.html",
+            },
+
+            {
+                "title": "xsubj",
+                "url":   "/docs/en/dep/xsubj.html",
+            },
+
+        ],
+
+        "fi-dep": [
+
+            {
+                "title": "acomp",
+                "url":   "/docs/fi/dep/acomp.html",
+            },
+
+            {
+                "title": "advcl",
+                "url":   "/docs/fi/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/fi/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/fi/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/fi/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/fi/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/fi/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/fi/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/fi/dep/ccomp.html",
+            },
+
+            {
+                "title": "compar",
+                "url":   "/docs/fi/dep/compar.html",
+            },
+
+            {
+                "title": "comparator",
+                "url":   "/docs/fi/dep/comparator.html",
+            },
+
+            {
+                "title": "complm",
+                "url":   "/docs/fi/dep/complm.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/fi/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/fi/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/fi/dep/cop.html",
+            },
+
+            {
+                "title": "csubj-cop",
+                "url":   "/docs/fi/dep/csubj-cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/fi/dep/csubj.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/fi/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/fi/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/fi/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/fi/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/fi/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/fi/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/fi/dep/foreign.html",
+            },
+
+            {
+                "title": "gobj",
+                "url":   "/docs/fi/dep/gobj.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/fi/dep/goeswith.html",
+            },
+
+            {
+                "title": "gsubj",
+                "url":   "/docs/fi/dep/gsubj.html",
+            },
+
+            {
+                "title": "iccomp",
+                "url":   "/docs/fi/dep/iccomp.html",
+            },
+
+            {
+                "title": "infmod",
+                "url":   "/docs/fi/dep/infmod.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/fi/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/fi/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/fi/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/fi/dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/fi/dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/fi/dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/fi/dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod-own",
+                "url":   "/docs/fi/dep/nmod-own.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/fi/dep/nmod.html",
+            },
+
+            {
+                "title": "nn",
+                "url":   "/docs/fi/dep/nn.html",
+            },
+
+            {
+                "title": "nsubj-cop",
+                "url":   "/docs/fi/dep/nsubj-cop.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/fi/dep/nsubj.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/fi/dep/number.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/fi/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/fi/dep/parataxis.html",
+            },
+
+            {
+                "title": "partmod",
+                "url":   "/docs/fi/dep/partmod.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/fi/dep/poss.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/fi/dep/preconj.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/fi/dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/fi/dep/punct.html",
+            },
+
+            {
+                "title": "quantmod",
+                "url":   "/docs/fi/dep/quantmod.html",
+            },
+
+            {
+                "title": "rel",
+                "url":   "/docs/fi/dep/rel.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/fi/dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/fi/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/fi/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/fi/dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/fi/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/fi/dep/xcomp.html",
+            },
+
+        ],
+
+    };
+
+    head.ready(function() {
+        // jQuery UI elements
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+	// performes all embedding and support functions
+	Annodoc.activate(Config.bratCollData, documentCollections);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>

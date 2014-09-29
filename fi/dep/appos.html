@@ -1,0 +1,1445 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>appos</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/appos.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2 id="appos-apposition-a-namesec-apposa">appos (apposition) <a name="sec-appos"></a></h2>
+
+<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail below.</p>
+
+<!-- fname:appos1.pdf -->
+<pre><code class="language-sdparse">Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+appos(Professori-1, Tamminen-4)
+punct(Tamminen-4, ,-2)
+punct(Tamminen-4, ,-5)
+name(Tamminen-4, Matti-3)
+nsubj(luennoi-6, Professori-1)
+advmod(luennoi-6, tänään-7)
+punct(luennoi-6, .-8)
+</code></pre>
+
+<!-- fname:appos2.pdf -->
+<pre><code class="language-sdparse">Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
+appos(Kirjassa-1, Putkinotko-2)
+nmod(on-3, Kirjassa-1)
+nsubj(on-3, juoni-5)
+amod(juoni-5, mielenkiintoinen-4)
+punct(on-3, .-6)
+</code></pre>
+
+<!--details-->
+
+<h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
+
+<p>The Finnish Grammar (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a> <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>)
+distinguishes between three similar phenomena: the apposition, the
+appellation modifier (<em>nimikemääarite</em>) and the supporting noun
+(<em>tukisubstantiivi</em>). Out of these, the apposition and the appellation
+modifier
+(<a href="http://universaldependencies.github.io/docs/fi/nn.html">nn</a>) are
+distinguished in TDT, and supporting noun structures are considered
+appositions.</p>
+
+<p>All of these structures have in common that they all include two
+(usually adjacent) elements, most often noun phrases, which refer to
+the same entity or entities and have the same function in the
+sentence. Thus, in order to be considered an apposition, an
+appellation modifier or a supporting noun structure, a structure has
+to fulfill the following criteria (the same as in the Finnish
+grammar <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>):</p>
+
+<ol>
+  <li>Both elements of the structure must refer to the same entity
+ or group of entities.</li>
+  <li>Both elements of the structure must have the same function
+ in the sentence (for instance, the subject).</li>
+</ol>
+
+<p>These criteria are interpreted rather loosely, and there are no
+restrictions on the part of speech of the elements involved. Most
+appositions (and appellation modifiers) in TDT consist of noun
+phrases, but there are occurrences of different parts of speech as
+appositions; notably the fiction section of the treebank contains
+few examples of verbal appositions.</p>
+
+<p>Among the expressions that fulfill criteria 1 and 2, six common
+cases can be distinguished according to inflection and punctuation.</p>
+
+<ol>
+  <li>singular, both elements in nominative, no punctuation: <em>professori Matti Tamminen (professor Matti Tamminen)</em></li>
+  <li>singular, first element in nominative, second element inflected: <em>professori Matti Tammisen mukaan (according to professor Matti Tamminen)</em></li>
+  <li>singular, both elements in nominative, punctuation in between: <em>professori, Matti Tamminen (the professor, Matti Tamminen)</em></li>
+  <li>singular, first element inflected, second element in nominative: <em>romaanissa Putkinotko (in the novel Putkinotko)</em></li>
+  <li>singular, both elements inflected: <em>professorin, Matti Tammisen, mukaan (according to the professor, Matti Tamminen)</em></li>
+  <li>plural, elements either in nominative or inflected: <em>professorit Matti Tamminen ja Erkki Koivunen (the professors Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden, Matti Tammisen ja Erkki Koivusen, mukaan (according to the professors, Matti Tamminen and Erkki Koivunen)</em> or <em>professoreiden Matti Tamminen and Erkki Koivunen mukaan (according to the professors Matti Tamminen and Erkki Koivunen)</em></li>
+</ol>
+
+<p>Out of these six cases, the first two are considered appellation
+modifiers, and thus marked with the dependency type
+<code>nn</code>. Note that the governor of the dependency in
+appellation modifiers is the latter of the two words.</p>
+
+<!-- TODO missing fig \myfigexample{nn_appellation.pdf} -->
+
+<p>The remaining four cases are all considered appositions and marked
+with the type <code>appos</code>. Contrary to appellation modifiers, in
+apposition structures the first word is considered the governor.</p>
+
+<!-- fname:appos1.pdf -->
+<pre><code class="language-sdparse">Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
+appos(Professori-1, Tamminen-4)
+punct(Tamminen-4, ,-2)
+punct(Tamminen-4, ,-5)
+name(Tamminen-4, Matti-3)
+nsubj(luennoi-6, Professori-1)
+advmod(luennoi-6, tänään-7)
+punct(luennoi-6, .-8)
+</code></pre>
+
+<p>It should be noted that case number 4 is in fact an example of a
+supporting noun structure, but in TDT, these are marked as
+appositions. In plural (case number 6), all possible case
+combinations are considered appositions.</p>
+
+<p>The only difference between the cases 1 and 3 is the presence or
+absence of punctuation. Often, said punctuation is a comma, but also
+parentheses, a dash or a colon are possible. As can be seen from the
+examples above, the punctuation produces a semantic difference,
+which is taken into account in the annotation. Punctuation
+variations of the cases 2, 4, and 5 need not be considered, as these
+variations are ungrammatical. (Naturally, ungrammatical phenomena
+can and do occur in a corpus of actual language, but these cases are
+resolved on a case-by-case basis.)</p>
+
+<ul>
+  <li>*professori, Matti Tammisen mukaan</li>
+  <li>*romaanissa, Putkinotko</li>
+  <li>*professorin Matti Tammisen mukaan (unless a possessive reading, <em>the
+      professor’s Matti Tamminen</em>, is intended)</li>
+</ul>
+
+
+
+<!-- "relation in other languages" links -->
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+appos in other languages:
+
+[<a href="../../en-dep/appos.html">en</a>]
+
+[<a href="../../fi-dep/appos.html">fi</a>]
+
+[<a href="../../u-dep/appos.html">u</a>]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    /* collection data, filled in by Jekyll */
+    var documentCollections = {
+        "_current" : "fi-dep",
+
+        "u-pos": [
+
+            {
+                "title": "ADJ",
+                "url":   "/docs/u/pos/ADJ.html",
+            },
+
+            {
+                "title": "ADP",
+                "url":   "/docs/u/pos/ADP.html",
+            },
+
+            {
+                "title": "ADV",
+                "url":   "/docs/u/pos/ADV.html",
+            },
+
+            {
+                "title": "AUX",
+                "url":   "/docs/u/pos/AUX_.html",
+            },
+
+            {
+                "title": "CONJ",
+                "url":   "/docs/u/pos/CONJ.html",
+            },
+
+            {
+                "title": "DET",
+                "url":   "/docs/u/pos/DET.html",
+            },
+
+            {
+                "title": "INTJ",
+                "url":   "/docs/u/pos/INTJ.html",
+            },
+
+            {
+                "title": "NOUN",
+                "url":   "/docs/u/pos/NOUN.html",
+            },
+
+            {
+                "title": "NUM",
+                "url":   "/docs/u/pos/NUM.html",
+            },
+
+            {
+                "title": "PART",
+                "url":   "/docs/u/pos/PART.html",
+            },
+
+            {
+                "title": "PRON",
+                "url":   "/docs/u/pos/PRON.html",
+            },
+
+            {
+                "title": "PROPN",
+                "url":   "/docs/u/pos/PROPN.html",
+            },
+
+            {
+                "title": "PUNCT",
+                "url":   "/docs/u/pos/PUNCT.html",
+            },
+
+            {
+                "title": "SCONJ",
+                "url":   "/docs/u/pos/SCONJ.html",
+            },
+
+            {
+                "title": "SYM",
+                "url":   "/docs/u/pos/SYM.html",
+            },
+
+            {
+                "title": "VERB",
+                "url":   "/docs/u/pos/VERB.html",
+            },
+
+            {
+                "title": "X",
+                "url":   "/docs/u/pos/X.html",
+            },
+
+        ],
+
+        "u-feat": [
+
+            {
+                "title": "Animacy",
+                "url":   "/docs/u/feat/Animacy.html",
+            },
+
+            {
+                "title": "Aspect",
+                "url":   "/docs/u/feat/Aspect.html",
+            },
+
+            {
+                "title": "Case",
+                "url":   "/docs/u/feat/Case.html",
+            },
+
+            {
+                "title": "Definite",
+                "url":   "/docs/u/feat/Definite.html",
+            },
+
+            {
+                "title": "Degree",
+                "url":   "/docs/u/feat/Degree.html",
+            },
+
+            {
+                "title": "Gender",
+                "url":   "/docs/u/feat/Gender.html",
+            },
+
+            {
+                "title": "Mood",
+                "url":   "/docs/u/feat/Mood.html",
+            },
+
+            {
+                "title": "Negative",
+                "url":   "/docs/u/feat/Negative.html",
+            },
+
+            {
+                "title": "NumType",
+                "url":   "/docs/u/feat/NumType.html",
+            },
+
+            {
+                "title": "Number",
+                "url":   "/docs/u/feat/Number.html",
+            },
+
+            {
+                "title": "Person",
+                "url":   "/docs/u/feat/Person.html",
+            },
+
+            {
+                "title": "Poss",
+                "url":   "/docs/u/feat/Poss.html",
+            },
+
+            {
+                "title": "PronType",
+                "url":   "/docs/u/feat/PronType.html",
+            },
+
+            {
+                "title": "Reflex",
+                "url":   "/docs/u/feat/Reflex.html",
+            },
+
+            {
+                "title": "Tense",
+                "url":   "/docs/u/feat/Tense.html",
+            },
+
+            {
+                "title": "VerbForm",
+                "url":   "/docs/u/feat/VerbForm.html",
+            },
+
+            {
+                "title": "Voice",
+                "url":   "/docs/u/feat/Voice.html",
+            },
+
+        ],
+
+        "u-dep": [
+
+            {
+                "title": "advcl",
+                "url":   "/docs/u/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/u/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/u/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/u/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/u/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/u/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/u/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/u/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/u/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/u/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/u/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/u/dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/u/dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/u/dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/u/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/u/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/u/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/u/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/u/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/u/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/u/dep/foreign.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/u/dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/u/dep/iobj.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/u/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/u/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/u/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/u/dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/u/dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/u/dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/u/dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/u/dep/nmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/u/dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/u/dep/nsubjpass.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/u/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/u/dep/parataxis.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/u/dep/punct.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/u/dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/u/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/u/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/u/dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/u/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/u/dep/xcomp.html",
+            },
+
+        ],
+
+        "ext-feat": [
+
+            {
+                "title": "Abbr",
+                "url":   "/docs/u/ext-feat/Abbr.html",
+            },
+
+            {
+                "title": "AdpType",
+                "url":   "/docs/u/ext-feat/AdpType.html",
+            },
+
+            {
+                "title": "AdvType",
+                "url":   "/docs/u/ext-feat/AdvType.html",
+            },
+
+            {
+                "title": "ConjType",
+                "url":   "/docs/u/ext-feat/ConjType.html",
+            },
+
+            {
+                "title": "Echo",
+                "url":   "/docs/u/ext-feat/Echo.html",
+            },
+
+            {
+                "title": "Foreign",
+                "url":   "/docs/u/ext-feat/Foreign.html",
+            },
+
+            {
+                "title": "Hyph",
+                "url":   "/docs/u/ext-feat/Hyph.html",
+            },
+
+            {
+                "title": "NameType",
+                "url":   "/docs/u/ext-feat/NameType.html",
+            },
+
+            {
+                "title": "NounType",
+                "url":   "/docs/u/ext-feat/NounType.html",
+            },
+
+            {
+                "title": "NumForm",
+                "url":   "/docs/u/ext-feat/NumForm.html",
+            },
+
+            {
+                "title": "NumValue",
+                "url":   "/docs/u/ext-feat/NumValue.html",
+            },
+
+            {
+                "title": "PartType",
+                "url":   "/docs/u/ext-feat/PartType.html",
+            },
+
+            {
+                "title": "Politeness",
+                "url":   "/docs/u/ext-feat/Politeness.html",
+            },
+
+            {
+                "title": "PossGender",
+                "url":   "/docs/u/ext-feat/PossGender.html",
+            },
+
+            {
+                "title": "PossNumber",
+                "url":   "/docs/u/ext-feat/PossNumber.html",
+            },
+
+            {
+                "title": "PossPerson",
+                "url":   "/docs/u/ext-feat/PossPerson.html",
+            },
+
+            {
+                "title": "PossedNumber",
+                "url":   "/docs/u/ext-feat/PossedNumber.html",
+            },
+
+            {
+                "title": "PrepCase",
+                "url":   "/docs/u/ext-feat/PrepCase.html",
+            },
+
+            {
+                "title": "PunctSide",
+                "url":   "/docs/u/ext-feat/PunctSide.html",
+            },
+
+            {
+                "title": "PunctType",
+                "url":   "/docs/u/ext-feat/PunctType.html",
+            },
+
+            {
+                "title": "Style",
+                "url":   "/docs/u/ext-feat/Style.html",
+            },
+
+            {
+                "title": "Typo",
+                "url":   "/docs/u/ext-feat/Typo.html",
+            },
+
+            {
+                "title": "VerbType",
+                "url":   "/docs/u/ext-feat/VerbType.html",
+            },
+
+        ],
+
+        "en-dep": [
+
+            {
+                "title": "advcl",
+                "url":   "/docs/en/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/en/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/en/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/en/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/en/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/en/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/en/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/en/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/en/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/en/dep/cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/en/dep/csubj.html",
+            },
+
+            {
+                "title": "csubjpass",
+                "url":   "/docs/en/dep/csubjpass.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/en/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/en/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/en/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/en/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/en/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/en/dep/foreign.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/en/dep/goeswith.html",
+            },
+
+            {
+                "title": "iobj",
+                "url":   "/docs/en/dep/iobj.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/en/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/en/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/en/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/en/dep/name.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/en/dep/neg.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
+            },
+
+            {
+                "title": "npmod",
+                "url":   "/docs/en/dep/npmod.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/en/dep/nsubj.html",
+            },
+
+            {
+                "title": "nsubjpass",
+                "url":   "/docs/en/dep/nsubjpass.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/en/dep/number.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/en/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/en/dep/parataxis.html",
+            },
+
+            {
+                "title": "pcomp",
+                "url":   "/docs/en/dep/pcomp.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/en/dep/possessive.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/en/dep/preconj.html",
+            },
+
+            {
+                "title": "predet",
+                "url":   "/docs/en/dep/predet.html",
+            },
+
+            {
+                "title": "prepc",
+                "url":   "/docs/en/dep/prepc.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/en/dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/en/dep/punct.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/en/dep/rcmod.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/en/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/en/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/en/dep/root.html",
+            },
+
+            {
+                "title": "tmod",
+                "url":   "/docs/en/dep/tmod.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/en/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/en/dep/xcomp.html",
+            },
+
+            {
+                "title": "xsubj",
+                "url":   "/docs/en/dep/xsubj.html",
+            },
+
+        ],
+
+        "fi-dep": [
+
+            {
+                "title": "acomp",
+                "url":   "/docs/fi/dep/acomp.html",
+            },
+
+            {
+                "title": "advcl",
+                "url":   "/docs/fi/dep/advcl.html",
+            },
+
+            {
+                "title": "advmod",
+                "url":   "/docs/fi/dep/advmod.html",
+            },
+
+            {
+                "title": "amod",
+                "url":   "/docs/fi/dep/amod.html",
+            },
+
+            {
+                "title": "appos",
+                "url":   "/docs/fi/dep/appos.html",
+            },
+
+            {
+                "title": "aux",
+                "url":   "/docs/fi/dep/aux_.html",
+            },
+
+            {
+                "title": "auxpass",
+                "url":   "/docs/fi/dep/auxpass.html",
+            },
+
+            {
+                "title": "case",
+                "url":   "/docs/fi/dep/case.html",
+            },
+
+            {
+                "title": "cc",
+                "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp",
+                "url":   "/docs/fi/dep/ccomp.html",
+            },
+
+            {
+                "title": "compar",
+                "url":   "/docs/fi/dep/compar.html",
+            },
+
+            {
+                "title": "comparator",
+                "url":   "/docs/fi/dep/comparator.html",
+            },
+
+            {
+                "title": "complm",
+                "url":   "/docs/fi/dep/complm.html",
+            },
+
+            {
+                "title": "compound",
+                "url":   "/docs/fi/dep/compound.html",
+            },
+
+            {
+                "title": "conj",
+                "url":   "/docs/fi/dep/conj.html",
+            },
+
+            {
+                "title": "cop",
+                "url":   "/docs/fi/dep/cop.html",
+            },
+
+            {
+                "title": "csubj-cop",
+                "url":   "/docs/fi/dep/csubj-cop.html",
+            },
+
+            {
+                "title": "csubj",
+                "url":   "/docs/fi/dep/csubj.html",
+            },
+
+            {
+                "title": "dep",
+                "url":   "/docs/fi/dep/dep.html",
+            },
+
+            {
+                "title": "det",
+                "url":   "/docs/fi/dep/det.html",
+            },
+
+            {
+                "title": "discourse",
+                "url":   "/docs/fi/dep/discourse.html",
+            },
+
+            {
+                "title": "dislocated",
+                "url":   "/docs/fi/dep/dislocated.html",
+            },
+
+            {
+                "title": "dobj",
+                "url":   "/docs/fi/dep/dobj.html",
+            },
+
+            {
+                "title": "expl",
+                "url":   "/docs/fi/dep/expl.html",
+            },
+
+            {
+                "title": "foreign",
+                "url":   "/docs/fi/dep/foreign.html",
+            },
+
+            {
+                "title": "gobj",
+                "url":   "/docs/fi/dep/gobj.html",
+            },
+
+            {
+                "title": "goeswith",
+                "url":   "/docs/fi/dep/goeswith.html",
+            },
+
+            {
+                "title": "gsubj",
+                "url":   "/docs/fi/dep/gsubj.html",
+            },
+
+            {
+                "title": "iccomp",
+                "url":   "/docs/fi/dep/iccomp.html",
+            },
+
+            {
+                "title": "infmod",
+                "url":   "/docs/fi/dep/infmod.html",
+            },
+
+            {
+                "title": "list",
+                "url":   "/docs/fi/dep/list.html",
+            },
+
+            {
+                "title": "mark",
+                "url":   "/docs/fi/dep/mark.html",
+            },
+
+            {
+                "title": "mwe",
+                "url":   "/docs/fi/dep/mwe.html",
+            },
+
+            {
+                "title": "name",
+                "url":   "/docs/fi/dep/name.html",
+            },
+
+            {
+                "title": "ncmod",
+                "url":   "/docs/fi/dep/ncmod.html",
+            },
+
+            {
+                "title": "neg",
+                "url":   "/docs/fi/dep/neg.html",
+            },
+
+            {
+                "title": "nfincl",
+                "url":   "/docs/fi/dep/nfincl.html",
+            },
+
+            {
+                "title": "nmod-own",
+                "url":   "/docs/fi/dep/nmod-own.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/fi/dep/nmod.html",
+            },
+
+            {
+                "title": "nn",
+                "url":   "/docs/fi/dep/nn.html",
+            },
+
+            {
+                "title": "nsubj-cop",
+                "url":   "/docs/fi/dep/nsubj-cop.html",
+            },
+
+            {
+                "title": "nsubj",
+                "url":   "/docs/fi/dep/nsubj.html",
+            },
+
+            {
+                "title": "number",
+                "url":   "/docs/fi/dep/number.html",
+            },
+
+            {
+                "title": "nummod",
+                "url":   "/docs/fi/dep/nummod.html",
+            },
+
+            {
+                "title": "parataxis",
+                "url":   "/docs/fi/dep/parataxis.html",
+            },
+
+            {
+                "title": "partmod",
+                "url":   "/docs/fi/dep/partmod.html",
+            },
+
+            {
+                "title": "poss",
+                "url":   "/docs/fi/dep/poss.html",
+            },
+
+            {
+                "title": "preconj",
+                "url":   "/docs/fi/dep/preconj.html",
+            },
+
+            {
+                "title": "prt",
+                "url":   "/docs/fi/dep/prt.html",
+            },
+
+            {
+                "title": "punct",
+                "url":   "/docs/fi/dep/punct.html",
+            },
+
+            {
+                "title": "quantmod",
+                "url":   "/docs/fi/dep/quantmod.html",
+            },
+
+            {
+                "title": "rel",
+                "url":   "/docs/fi/dep/rel.html",
+            },
+
+            {
+                "title": "relcl",
+                "url":   "/docs/fi/dep/relcl.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/fi/dep/remnant.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/fi/dep/reparandum.html",
+            },
+
+            {
+                "title": "root",
+                "url":   "/docs/fi/dep/root.html",
+            },
+
+            {
+                "title": "vocative",
+                "url":   "/docs/fi/dep/vocative.html",
+            },
+
+            {
+                "title": "xcomp",
+                "url":   "/docs/fi/dep/xcomp.html",
+            },
+
+        ],
+
+    };
+
+    head.ready(function() {
+        // jQuery UI elements
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+	// performes all embedding and support functions
+	Annodoc.activate(Config.bratCollData, documentCollections);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+          <p class="footer-text">embedded brat &copy; 2010-2014 the <a href="http://brat.nlplab.org/about.html" style="color:gray">brat contributors</a></p>
+      </div>
+    </div>
+  </body>
+</html>

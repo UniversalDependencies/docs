@@ -6,7 +6,7 @@ set -e
 DATA_DIRECTORY="_data"
 RELATION_DATA_FILE="$DATA_DIRECTORY/relations.yaml"
 
-LANGUAGES="en-dep fi-dep ud-dep"
+LANGUAGES="en-dep fi-dep u-dep"
 
 # directory names are language names with an underscore prefix.
 DIRECTORIES=$(echo " $LANGUAGES" | perl -pe 's/ (\S)/ _$1/g')
