@@ -37,15 +37,6 @@ examples from Section 2 of <em><a href="http://nlp.stanford.edu/software/depende
 manual</a></em> (de
 Marneffe and Manning 2008).</p>
 
-<h2 id="acomp--adjectival-complement">acomp : adjectival complement</h2>
-<p>An adjectival complement of a verb is an adjectival phrase which functions as the complement (like an object of the verb). </p>
-
-<pre><code class="language-sdparse">She looks very beautiful
-acomp(looks, beautiful)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acomp.md" target="#">edit acomp</a></p>
-
 <h2 id="advcl--adverbial-clause-modifier">advcl : adverbial clause modifier</h2>
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
 clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.</p>
@@ -553,6 +544,22 @@ ref(book, which)
 <h2 id="rel--relative">rel : relative</h2>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/rel.md" target="#">edit rel</a></p>
+
+<h2 id="reparandum-overridden-disfluency">reparandum: overridden disfluency</h2>
+
+<p>We use <em>reparandum</em> to indicate disfluencies overridden in a speech
+repair. The disfluency is the dependent of the repair.</p>
+
+<pre><code class="language-sdparse">Go to the righ- to the left .
+nmod(Go-1, left-7)
+reparandum(left-7, righ-)
+case(righ-, to-2)
+det(righ-, the-3)
+case(left-7, to-5)
+det(left-7, the-6)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/reparandum.md" target="#">edit reparandum</a></p>
 
 <h2 id="root--root">root : root</h2>
 <p>The root grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1. </p>
@@ -1124,11 +1131,6 @@ xsubj(eat, Tom)
         "en-dep": [
 
             {
-                "title": "acomp",
-                "url":   "/docs/en-dep/acomp.html",
-            },
-
-            {
                 "title": "advcl",
                 "url":   "/docs/en-dep/advcl.html",
             },
@@ -1346,6 +1348,11 @@ xsubj(eat, Tom)
             {
                 "title": "rel",
                 "url":   "/docs/en-dep/rel.html",
+            },
+
+            {
+                "title": "reparandum",
+                "url":   "/docs/en-dep/reparandum.html",
             },
 
             {
