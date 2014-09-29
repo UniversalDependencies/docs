@@ -34,5 +34,10 @@ I consider him honest
 xcomp(consider, honest)
 ~~~
 
+
  
+~~~ sdparse
+She looks very beautiful
+xcomp(looks, beautiful)
+~~~
 
