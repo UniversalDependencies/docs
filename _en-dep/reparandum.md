@@ -1,8 +1,9 @@
 ---
 layout: base
-title: 'reparandum'
-shortdef: 'overridden disfluency'
+title:  'reparandum'
+shortdef : 'overridden disfluency'
 ---
+
 
 ## reparandum: overridden disfluency
 
@@ -18,4 +19,6 @@ det(righ-, the-3)
 case(left-7, to-5)
 det(left-7, the-6)
 ~~~
+
+ 
 

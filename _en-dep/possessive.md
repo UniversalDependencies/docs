@@ -1,16 +1,17 @@
 ---
 layout: base
-title:  'possessive'
+title:  'poss'
 shortdef : 'possessive modifier'
 ---
 
 
-## possessive : possessive modifier
-The possessive modifier relation appears between the head of an NP and the genitive 's. 
+## poss : possessive modifier
+The possessive modifier relation is a subtype of the *case* relation. It holds between a noun and the genitive 's modifying it. 
 
 ~~~ sdparse
 Bill 's clothes
-possessive(Bill, 's)
+possessive(Bill-1, 's-2)
+nmod(clothes-3, Bill-1)
 ~~~
 
  

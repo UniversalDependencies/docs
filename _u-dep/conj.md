@@ -7,9 +7,9 @@ shortdef: 'conjunct'
 ## conj: conjunct
 
 A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as "and", "or", etc.  We treat
+coordinating conjunction, such as _and, or,_ etc.  We treat
 conjunctions asymmetrically: The head of the relation is the first
-conjunct and other conjunctions depend on it via the *conj* relation.
+conjunct and all the other conjuncts depend on it via the *conj* relation.
 
 ~~~ sdparse
 Bill is big and honest
@@ -27,3 +27,70 @@ punct(apples, ,-4)
 punct(apples, ,-6)
 punct(apples, ,-8)
 </div>
+
+Coordinate clauses are treated the same way as coordination of other constituent types:
+
+~~~ sdparse
+He came home , took a shower and immediately went to bed .
+conj(came, took)
+conj(came, went)
+punct(came, ,-4)
+cc(came, and)
+~~~
+
+Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted.
+Commas or other punctuation symbols will delimit the conjuncts in the typical case.
+Asyndetic coordination may be more frequent in some languages, while in others, conjunction will appear between every two conjuncts _(John and Mary and Bill)._
+
+~~~ sdparse
+Veni , vidi , vici .
+conj(Veni, vidi)
+conj(Veni, vici)
+punct(Veni, ,-2)
+punct(Veni, ,-4)
+~~~
+
+Note that the current annotation scheme cannot distinguish between a dependent of the first conjunct
+and a shared dependent of the whole coordination:
+
+~~~ sdparse
+He met her at the station and kissed her .
+conj(met, kissed)
+nsubj(met, He)
+~~~
+
+vs.
+
+~~~ sdparse
+He met her at the station and she kissed him .
+conj(met, kissed)
+nsubj(met, He)
+nsubj(kissed, she)
+~~~
+
+The additional dependencies in the DEPS column could be used to encode the fact that in the first case, _he_ is also subject of _kissed._
+Nevertheless, these additional dependencies are not specified in the standard and without them the distinction cannot be made.
+
+Note further that the current annotation scheme has only a limited capability to capture nested coordination
+such as _apples and pears or oranges and lemons._
+Consider coordinations
+
+* A, B, C
+* (A, B), C
+* A, (B, C)
+
+The first two cases, i.e. (A, B, C) and ((A, B), C) lead to the same tree:
+
+~~~ sdparse
+A B C
+conj(A, B)
+conj(A, C)
+~~~
+
+Only the right-nesting case (A, (B, C)) can be distinguished because its tree is different:
+
+~~~ sdparse
+A B C
+conj(B, C)
+conj(A, B)
+~~~
