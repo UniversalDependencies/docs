@@ -443,14 +443,15 @@ pobj(on, chair)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/pobj.md" target="#">edit pobj</a></p>
 
-<h2 id="possessive--possessive-modifier">possessive : possessive modifier</h2>
-<p>The possessive modifier relation appears between the head of an NP and the genitive ‘s. </p>
+<h2 id="poss--possessive-modifier">poss : possessive modifier</h2>
+<p>The possessive modifier relation is a subtype of the <em>case</em> relation. It holds between a noun and the genitive ‘s modifying it. </p>
 
 <pre><code class="language-sdparse">Bill 's clothes
-possessive(Bill, 's)
+possessive(Bill-1, 's-2)
+nmod(clothes-3, Bill-1)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/possessive.md" target="#">edit possessive</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/poss.md" target="#">edit poss</a></p>
 
 <h2 id="preconj--preconjunct">preconj : preconjunct</h2>
 <p>A preconjunct is the relation between the head of an NP and a word that appears at the beginning bracketing a conjunction (and puts emphasis on it), such as “either”, “both”, “neither”). </p>
@@ -1346,7 +1347,7 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "possessive",
+                "title": "poss",
                 "url":   "/docs/en-dep/possessive.html",
             },
 
