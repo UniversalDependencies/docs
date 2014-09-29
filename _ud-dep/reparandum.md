@@ -6,10 +6,8 @@ shortdef: 'overridden disfluency'
 
 ## reparandum: overridden disfluency
 
-[TODO complete description]
-
 We use *reparandum* to indicate disfluencies overridden in a speech
-repair.
+repair. The disfluency is the dependent of the repair.
 
 ~~~ sdparse
 Go to the righ- to the left .
