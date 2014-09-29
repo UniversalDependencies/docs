@@ -1,23 +1,24 @@
 ---
 layout: base
-title:  'Universal features'
+title:  'Universal POS tags'
 generated: 'true'
+permalink: u/pos/all.html
 ---
 
-# Universal features
+# Universal POS tags
 
-{% include feat-table.html %}
+{% include u-pos-table.html %}
 
 ----------
 
-{% for p in site.ud-feat %}
+{% for p in site.u-pos %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.url | remove_first:'/' }}">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}
-<a href="{{ site.git_edit }}/_ud-feat/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
+<a href="{{ site.git_edit }}/_u-pos/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
 
 ----------
 

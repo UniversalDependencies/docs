@@ -33,12 +33,12 @@ Our goal is to have a stable version 1 release by 2014-10-01.
 * [Tokenization](tokenization.html)
 * Morphology
   * [General principles](morphology.html)
-  * [Universal POS tags](ud-pos-index.html) ([single document](ud-pos-all.html))
-  * [Universal features](ud-feat-index.html) ([single document](ud-feat-all.html))
+  * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
+  * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
   * [Language-specific features](ext-feat-index.html)
 * Syntax
   * [General principles](structure.html)
-  * [Universal relations](ud-dep-index.html) ([single document](ud-dep-all.html))
+  * [Universal relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
 </div>
@@ -52,7 +52,7 @@ Our goal is to have a stable version 1 release by 2014-10-01.
   * English features: TODO
 * Syntax
   * General principles: TODO
-  * [English relations](en-dep-index.html) ([single document](en-dep-all.html))
+  * [English relations](en/dep/index.html) ([single document](en/dep/all.html))
 * [CoNLL-U format](format.html)
 </div>
 
@@ -65,7 +65,7 @@ Our goal is to have a stable version 1 release by 2014-10-01.
   * Finnish features: TODO
 * Syntax
   * General principles: TODO
-  * [Finnish relations](fi-dep-index.html) ([single document](fi-dep-all.html))
+  * [Finnish relations](fi/dep/index.html) ([single document](fi/dep/all.html))
 * [CoNLL-U format](format.html)
 </div>
 

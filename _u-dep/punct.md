@@ -14,7 +14,7 @@ Go home !
 punct(Go, !)
 ~~~
 
-Tokens with the relation [ud-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
+Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
 Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
 Instead, we use the following principles:
 

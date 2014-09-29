@@ -6,11 +6,11 @@ shortdef: 'case'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Case is usually an inflectional feature of
-<a href="../ud-pos/NOUN.html">nouns</a> and, depending on language, other parts of speech (<a href="../ud-pos/ADJ.html">adjectives</a>,
-<a href="../ud-pos/NUM.html">numerals</a>) that mark agreement with nouns. In some tagsets it is also
-valency feature of <a href="../ud-pos/ADP.html">adpositions</a> (saying that the adposition requires
-its argument to be in that case).
+Case is usually an inflectional feature of [nouns](u-pos/NOUN) and,
+depending on language, other parts of speech ([adjectives](u-pos/ADJ),
+[numerals](u-pos/NUM)) that mark agreement with nouns. In some tagsets
+it is also valency feature of [adpositions](u-pos/ADP) (saying that
+the adposition requires its argument to be in that case).
 
 Case helps specify the role of the noun
 phrase in the sentence, especially in free-word-order languages. For
@@ -25,7 +25,7 @@ bound morphemes (affixes). Note that on a higher level case can be
 understood more broadly as <I>the role,</I> and it can be also
 expressed by adding an adposition to the noun. What is expressed by
 affixes in one language can be expressed using adpositions in another
-language. Cf. the [ud-dep/case]() dependency label.
+language. Cf. the [u-dep/case]() dependency label.
 
 Examples: [cs] nominative <I>matka</I>
 (mother), genitive <I>matky</I>,

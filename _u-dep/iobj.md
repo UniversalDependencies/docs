@@ -6,14 +6,17 @@ shortdef: 'indirect object'
 
 ## iobj: indirect object
 
-The indirect object of a verb is any noun phrase that is a core argument of the verb but it is not its <a href="dobj.html">direct object</a>. Prototypical example is the addressee of ditransitive verbs of exchange:
+The indirect object of a verb is any noun phrase that is a core
+argument of the verb but it is not its [direct object](dobj).
+Prototypical example is the addressee of ditransitive verbs of
+exchange:
 
 ~~~ sdparse
 She gave me a raise
 iobj(gave, me)
 ~~~
 
-In languages distinguishing morphological <a href="../ud-feat/Case.html">cases</a>, the direct object will often be marked by the dative case. However, verb valency may occasionally dictate that the direct object is in dative, or that the indirect objects shall take various other forms.
+In languages distinguishing morphological [cases](u-feat/Case), the direct object will often be marked by the dative case. However, verb valency may occasionally dictate that the direct object is in dative, or that the indirect objects shall take various other forms.
 
 In the following Czech example, the verb takes two arguments, both are nouns in the accusative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (consider a similar sentence, _he gave my daughter a class of maths_).
 

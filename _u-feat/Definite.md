@@ -2,7 +2,7 @@
 layout: base
 title: 'Definite'
 shortdef: 'definiteness or state'
-redirect_from: "ud-feat/Definiteness.html"
+redirect_from: "u/feat/Definiteness.html"
 ---
 
 ## {{ page.title }}: {{ page.shortdef }}
@@ -11,8 +11,9 @@ Definiteness is
 typically a feature of nouns, adjectives and articles. Its value
 distinguishes whether we are talking about something known and
 concrete, or something general or unknown. It can be marked on
-definite and indefinite <a href="../ud-pos/DET.html">articles</a>, or directly on <a href="../ud-pos/NOUN.html">nouns</a>, <a href="../ud-pos/ADJ.html">adjectives</a>
-etc. In Arabic, definiteness is also called
+definite and indefinite [articles](u-pos/DET), or directly on
+[nouns](u-pos/NOUN), [adjectives](u-pos/ADJ) etc.
+In Arabic, definiteness is also called
 the &ldquo;state&rdquo;.
 
 ### Ind: indefinite

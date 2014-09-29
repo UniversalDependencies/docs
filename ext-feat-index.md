@@ -16,30 +16,30 @@ universal features. However, they may be used, if necessary, as part of the
 
 The following Interset features are currently not part of the standard:
 
-* <a href="ext-feat/Abbr.html">Abbr</a>
-* <a href="ext-feat/AdpType.html">AdpType</a>
-* <a href="ext-feat/AdvType.html">AdvType</a>
-* <a href="ext-feat/ConjType.html">ConjType</a>
-* <a href="ext-feat/Echo.html">Echo</a>
-* <a href="ext-feat/Foreign.html">Foreign</a>
-* <a href="ext-feat/Hyph.html">Hyph</a>
-* <a href="ext-feat/NameType.html">NameType</a>
-* <a href="ext-feat/NounType.html">NounType</a>
-* <a href="ext-feat/NumForm.html">NumForm</a>
-* <a href="ext-feat/NumValue.html">NumValue</a>
-* <a href="ext-feat/PartType.html">PartType</a>
-* <a href="ext-feat/Politeness.html">Politeness</a>
-* <a href="ext-feat/PrepCase.html">PrepCase</a>
-* <a href="ext-feat/PunctSide.html">PunctSide</a>
-* <a href="ext-feat/PunctType.html">PunctType</a>
-* <a href="ext-feat/Style.html">Style</a>
-* <a href="ext-feat/Typo.html">Typo</a>
-* <a href="ext-feat/VerbType.html">VerbType</a>
+* <a href="u/ext-feat/Abbr.html">Abbr</a>
+* <a href="u/ext-feat/AdpType.html">AdpType</a>
+* <a href="u/ext-feat/AdvType.html">AdvType</a>
+* <a href="u/ext-feat/ConjType.html">ConjType</a>
+* <a href="u/ext-feat/Echo.html">Echo</a>
+* <a href="u/ext-feat/Foreign.html">Foreign</a>
+* <a href="u/ext-feat/Hyph.html">Hyph</a>
+* <a href="u/ext-feat/NameType.html">NameType</a>
+* <a href="u/ext-feat/NounType.html">NounType</a>
+* <a href="u/ext-feat/NumForm.html">NumForm</a>
+* <a href="u/ext-feat/NumValue.html">NumValue</a>
+* <a href="u/ext-feat/PartType.html">PartType</a>
+* <a href="u/ext-feat/Politeness.html">Politeness</a>
+* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
+* <a href="u/ext-feat/PunctSide.html">PunctSide</a>
+* <a href="u/ext-feat/PunctType.html">PunctType</a>
+* <a href="u/ext-feat/Style.html">Style</a>
+* <a href="u/ext-feat/Typo.html">Typo</a>
+* <a href="u/ext-feat/VerbType.html">VerbType</a>
 
 The following Interset features are not used under their Interset names but they are included
-through the <a href="ud-feat-layers.html">layered feature scheme</a>:
+through the <a href="u-feat-layers.html">layered feature scheme</a>:
 
-* <a href="ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
-* <a href="ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
-* <a href="ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
-* <a href="ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
+* <a href="u/ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
+* <a href="u/ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
+* <a href="u/ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
+* <a href="u/ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`

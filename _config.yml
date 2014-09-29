@@ -14,18 +14,24 @@ gems:
   - jekyll-redirect-from
 
 collections:
-  ud-pos:
+  u-pos:
     output: true
-  ud-feat:
+    permalink: /u/pos/:path.html
+  u-feat:
     output: true
+    permalink: /u/feat/:path.html
+  u-dep:
+    output: true
+    permalink: /u/dep/:path.html
   ext-feat:
     output: true
+    permalink: /u/ext-feat/:path.html
   en-dep:
     output: true
+    permalink: /en/dep/:path.html
   fi-dep:
     output: true
-  ud-dep:
-    output: true
+    permalink: /fi/dep/:path.html
 
 excerpt_separator: "\n\n"
 

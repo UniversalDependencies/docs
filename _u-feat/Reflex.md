@@ -6,12 +6,13 @@ shortdef: 'reflexive'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Boolean feature, typically of [pronouns](../ud-pos/PRON) or [determiners](../ud-pos/DET).
-It tells whether the word is reflexive, i.e. refers to the subject of its clause.
+Boolean feature, typically of [pronouns](u-pos/PRON) or
+[determiners](u-pos/DET). It tells whether the word is reflexive,
+i.e. refers to the subject of its clause.
 
-While many tagsets would have “reflexive” as one of the various pronoun types,
-this feature is intentionally separate from <a href="PronType.html">PronType</a>,
-as it is orthogonal to pronominal types.
+While many tagsets would have “reflexive” as one of the various
+pronoun types, this feature is intentionally separate from
+[PronType](), as it is orthogonal to pronominal types.
 
 Note that while some languages also have reflexive verbs, these are in fact
 fused verbs with reflexive pronouns, as in Spanish _despertarse_ or Russian

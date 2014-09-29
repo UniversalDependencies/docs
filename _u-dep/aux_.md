@@ -4,16 +4,17 @@ title: 'aux'
 shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "ud-dep/aux.html"
+redirect_from: "u/dep/aux.html"
 ---
 
 ## aux: auxiliary
 
-An auxiliary of a clause is a <a href="../ud-pos/AUX.html">non-main verb</a> of the clause, e.g., a
-modal auxiliary, or a form of _be, do_ or _have_ in a periphrastic tense.
+An auxiliary of a clause is a [non-main verb](u-pos/AUX) of the
+clause, e.g., a modal auxiliary, or a form of _be, do_ or _have_ in a
+periphrastic tense.
 
-Exception: Auxiliary verb used to construct the passive <a href="../ud-feat/Voice.html">voice</a>
-is not labeled `aux` but [auxpass]().
+Exception: Auxiliary verb used to construct the passive
+[voice](u-feat/Voice) is not labeled `aux` but [auxpass]().
 
 ~~~ sdparse
 Reagan has died

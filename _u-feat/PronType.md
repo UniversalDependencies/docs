@@ -6,11 +6,10 @@ shortdef: 'pronominal type'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-This feature typically applies to
-<a href="../ud-pos/PRON.html">pronouns</a>,
-<a href="../ud-pos/DET.html">determiners</a>,
-pronominal <a href="../ud-pos/NUM.html">numerals</a> (quantifiers) and
-pronominal <a href="../ud-pos/ADV.html">adverbs</a>.
+This feature typically applies to [pronouns](u-pos/PRON),
+[determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
+(quantifiers) and pronominal [adverbs](u-pos/ADV).
+
 
 ### Prs: personal or possessive personal pronoun or determiner
 
@@ -29,8 +28,8 @@ Examples: [de] _einander,_ [da] _hinanden_ (= each other)
 ### Art: article
 
 Article is a special case of determiner that bears the feature of
-<a href="Definiteness">definiteness</a> (in other languages, the feature may be marked directly
-on nouns).
+[definiteness](Definite) (in other languages, the feature may be
+marked directly on nouns).
 
 Examples: [en] _a, an, the;_ [de] _ein, eine, der, die, das;_ [es] _un, una, el, la_
 

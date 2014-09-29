@@ -11,7 +11,7 @@ We say that there are several _layers_ of the feature.
 The exact meaning of individual layers is language-dependent.
 
 For example, possessive adjectives, determiners and pronouns may have two
-different values of [ud-feat/Gender]() and two of [ud-feat/Number](). One of the values is determined
+different values of [u-feat/Gender]() and two of [u-feat/Number](). One of the values is determined
 by agreement with the modified (possessed) noun. This is parallel to other
 (non-possessive)
 adjectives and determiners that agree in gender and number with the nouns they
@@ -91,7 +91,7 @@ it should still be described in the language-specific documentation.</strong>
 ## Gender[psor]
 
 Possessive
-adjectives and pronouns may have two different <a href="ud-feat/Gender.html">genders</a>: that of the
+adjectives and pronouns may have two different <a href="u/feat/Gender.html">genders</a>: that of the
 possessed object (gender agreement with modified noun) and that of
 the possessor (lexical feature, inherent gender).
 
@@ -133,7 +133,7 @@ The [psor] features of _perimeter_ are dictated by agreement with the possessor,
 ## Number[psor]
 
 Possessives
-may have two different <a href="ud-feat/Number.html">numbers</a>: that of the possessed object (number
+may have two different <a href="u/feat/Number.html">numbers</a>: that of the possessed object (number
 agreement with modified noun) and that of the possessor. The
 `Number[psor]` feature captures the possessor's number.
 
@@ -165,7 +165,7 @@ The possessor's person is marked e.g. on Hungarian nouns. These noun
 forms would be translated to English as possessive pronoun + noun.
 
 Note that it is reasonable to make this a layered feature even though
-the default <a href="ud-feat/Person.html">Person</a> is normally not
+the default <a href="u/feat/Person.html">Person</a> is normally not
 marked on nouns. In relation to verbs (which may have to mark person
 agreement with nouns), a noun is almost always in the third person.
 So even if this default person is not explicitly marked morphologically,
@@ -182,7 +182,7 @@ feature and it is lexical (while for the Hungarian nouns,
 They usually modify nouns, not verbs, and agreement with verbs does
 not play any role.
 Moreover, in some languages possessive pronouns are actually identical
-to personal pronouns in the genitive <a href="ud-feat/Case.html">case</a>
+to personal pronouns in the genitive <a href="u/feat/Case.html">case</a>
 and it is logical that they have the same `Person` as in the nominative.
 
 ### 1: first person possessor
@@ -275,8 +275,9 @@ there is an unpronounced possession.
 
 ## Layered verb agreement in Basque
 
-Verbs in many Indo-European languages must agree in person and number with their subject.
-This is what typically [ud-feat/Person]() and [ud-feat/Number]() of verbs denote.
+Verbs in many Indo-European languages must agree in person and number
+with their subject. This is what typically [u-feat/Person]() and
+[u-feat/Number]() of verbs denote.
 
 Some verbs in Basque must agree in person and number with up to three arguments:
 the absolutive argument (subject of intransitive verbs and object of transitive verbs),

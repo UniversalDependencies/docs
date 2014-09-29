@@ -2,11 +2,12 @@
 layout: base
 title:  'Finnish grammatical relations'
 generated: 'true'
+permalink: fi/dep/all.html
 ---
 
 Note: This document is a draft. Not all relations have been converted to USD-compatible description yet.
 
-{% include fi-table.html %}
+{% include fi-dep-table.html %}
 
 ----------
 

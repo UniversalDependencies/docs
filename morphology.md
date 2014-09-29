@@ -16,8 +16,8 @@ Lemmas are typically determined by language-specific dictionaries and lexica. In
 
 ## Part-of-Speech Tags
 
-The list of <a href="ud-pos-index.html">universal POS tags</a> is a fixed list containing 17 tags.
-It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of <a href="ud-feat-index.html">features</a> (see below). 
+The list of <a href="u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.
+It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of <a href="u/feat/index.html">features</a> (see below). 
 
 Also, note that the <a href="format.html">CoNLL-U format</a>
 allows an additional POSTAG, taken from a language-specific
@@ -35,7 +35,7 @@ and morphosyntactic properties. Every feature has the form `Name=Value` and
 every word can have any number of features, separated by the vertical bar, as in
 `Gender=Masc|Number=Sing`.
 
-We provide an <a href="ud-feat-index.html">inventory of features</a> that are
+We provide an <a href="u/feat/index.html">inventory of features</a> that are
 attested in multiple corpora and it is thus desirable that they are encoded in
 a uniform way.
 The list is certainly not exhaustive and later versions of the standard
@@ -66,7 +66,7 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. `NumType`).
-  This makes features distinct from the <a href="ud-pos-index.html">universal POS tags</a> (all uppercase)
+  This makes features distinct from the <a href="u/pos/index.html">universal POS tags</a> (all uppercase)
   and from the <a href="relations.html">universal dependency relatios</a> (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: `PronType=Prs`.
@@ -115,7 +115,7 @@ We say that there are several _layers_ of the feature.
 The exact meaning of individual layers is language-dependent.
 
 For example, possessive adjectives, determiners and pronouns may have two
-different values of [ud-feat/Gender]() and two of [ud-feat/Number](). One of the values is determined
+different values of [u-feat/Gender]() and two of [u-feat/Number](). One of the values is determined
 by agreement with the modified (possessed) noun. This is parallel to other
 (non-possessive)
 adjectives and determiners that agree in gender and number with the nouns they
@@ -187,4 +187,5 @@ documentation. For each layered feature, one layer may be defined as default
 and the corresponding features then appear without identifier,
 e.g. `Gender=Masc|Gender[psor]=Fem`.
 
-For more prototypes of layered features, see <a href="ud-feat-layers.html">Layered Features</a>.
+For more prototypes of layered features, see
+<a href="u-feat-layers.html">Layered Features</a>.

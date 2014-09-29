@@ -6,8 +6,8 @@ shortdef: 'animacy'
 
 ## {{ page.title }}: {{ page.shortdef }}
 
-Similarly to <a href="Gender.html">Gender</a> (and to the African noun classes), animacy
-is usually a lexical feature of <a href="../ud-pos/NOUN.html">nouns</a> and inflectional feature of
+Similarly to [Gender]() (and to the African noun classes), animacy
+is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature of
 other parts of speech that mark agreement with nouns. It is
 independent of gender, therefore it is encoded separately in some
 tagsets (e.g. all the Multext-East tagsets). On the other hand, in

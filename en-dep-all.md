@@ -2,6 +2,7 @@
 layout: base
 title:  'English grammatical relations'
 generated: 'true'
+permalink: en/dep/all.html
 ---
 
 This page is an automatic merge of the pages with documentation and

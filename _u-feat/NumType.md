@@ -7,26 +7,25 @@ shortdef: 'numeral type'
 ## {{ page.title }}: {{ page.shortdef }}
 
 Some languages (especially Slavic) have a complex system of
-<a href="../ud-pos/NUM.html">numerals</a>.
+[numerals](u-pos/NUM).
 For example, in the school grammar of Czech, the main part of speech
 is “numeral”, it includes almost everything where counting is
 involved and there are various subtypes. It also includes
 interrogative, relative, indefinite and demonstrative words referring
 to numbers (words like _kolik / how many, tolik / so many, několik / some, a few),_
-so at the same time we may have a non-empty value of
-<a href="PronType.html">PronType</a>.
+so at the same time we may have a non-empty value of [PronType]().
 (In English, these words are called quantifiers and they are
-considered a subgroup of <a href="../ud-pos/DET.html">determiners</a>.)
+considered a subgroup of [determiners](u-pos/DET).)
 
 From the syntactic point of view, some numtypes behave like
-adjectives and some behave like adverbs. We tag them <a href="../ud-pos/ADJ.html">ADJ</a>
-and <a href="../ud-pos/ADV.html">ADV</a> respectively.
+adjectives and some behave like adverbs. We tag them [u-pos/ADJ]()
+and [u-pos/ADV]() respectively.
 Thus the {{ page.title }} feature applies to several different parts of speech:
 
-* <a href="../ud-pos/NUM.html">NUM</a>: cardinal numerals
-* <a href="../ud-pos/DET.html">DET</a>: quantifiers
-* <a href="../ud-pos/ADJ.html">ADJ</a>: definite adjectival, e.g. ordinal numerals
-* <a href="../ud-pos/ADV.html">ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
+* [u-pos/NUM](): cardinal numerals
+* [u-pos/DET](): quantifiers
+* [u-pos/ADJ](): definite adjectival, e.g. ordinal numerals
+* [u-pos/ADV](): adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal
 
 ### Card: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
