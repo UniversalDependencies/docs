@@ -16,6 +16,6 @@ Marneffe and Manning 2008).
 
 <ul>
 {% for p in site.en-dep %}
-  <li><a>{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a>en-dep/{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>

@@ -15,6 +15,6 @@ Alphabetical listing
 
 <ul>
 {% for p in site.fi-dep %}
-  <li><a>{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a>fi-dep/{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>
