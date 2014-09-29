@@ -113,7 +113,7 @@ Tokens that are not words have an underscore in both the HEAD and DEPREL fields.
     1     I         I        PRON    PRN      Number=Sing|Person=1     2      nsubj
     2-3   haven't   _        _       _        _                        _      _
     2     have      have     VERB    VB       Tense=Pres               0      root
-    3     not       not      ADV     RB       Negative=Neg             2      neg
+    3     not       not      PART    RB       Negative=Neg             2      neg
     4     a         a        DET     DT       PronType=Art             5      det
     5     clue      clue     NOUN    NN       Number=Sing              2      dobj
     6     .         .        PUNCT   .        _                        2      punct
@@ -187,7 +187,7 @@ Lines starting with the `#` character and preceding a sentence are considered as
     1     I         I        PRON    PRN      Number=Sing|Person=1     2      nsubj
     2-3   haven't   _        _       _        _                        _      _
     2     have      have     VERB    VB       Tense=Pres               0      root
-    3     not       not      ADV     RB       Negative=Neg             2      neg
+    3     not       not      PART    RB       Negative=Neg             2      neg
     4     a         a        DET     DT       PronType=Art             4      det
     5     clue      clue     NOUN    NN       Number=Sing              2      dobj
     6     .         .        PUNCT   .        _                        2      punct
