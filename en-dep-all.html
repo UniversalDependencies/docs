@@ -409,6 +409,12 @@ neg(drive, n't)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
 
+<h2 id="nmod--nominal-modifier">nmod : nominal modifier</h2>
+
+<p>[TODO]</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
+
 <h2 id="npadvmod--noun-phrase-as-adverbial-modifier">npadvmod : noun phrase as adverbial modifier</h2>
 
 <p>This relation is a subtype of the <em>nmod</em> relation, which captures the following places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions.</p>
@@ -506,15 +512,6 @@ pcomp(on, are)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/pcomp.md" target="#">edit pcomp</a></p>
-
-<h2 id="pobj--object-of-a-preposition">pobj : object of a preposition</h2>
-<p>The object of a preposition is the head of a noun phrase following the preposition, or the adverbs “here” and “there”. (The preposition in turn may be modifying a noun, verb, etc.) Unlike the Penn Treebank, we here define cases of VBG quasi-prepositions like “including”, “concerning”, etc. as instances of <em>pobj</em>. (The preposition can be tagged a FW for “pace”, “versus”, etc. It can also be called a CC – but we don’t currently handle that and would need to distinguish from conjoined prepositions.) In the case of preposition stranding, the object can precede the preposition (e.g., “What does CPR stand for?”). </p>
-
-<pre><code class="language-sdparse">I sat on the chair
-pobj(on, chair)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/pobj.md" target="#">edit pobj</a></p>
 
 <h2 id="poss--possessive-modifier">poss : possessive modifier</h2>
 <p>The possessive modifier relation is a subtype of the <em>case</em> relation. It holds between a noun and the genitive ‘s modifying it. </p>
@@ -1366,6 +1363,11 @@ xsubj(eat, Tom)
             },
 
             {
+                "title": "nmod",
+                "url":   "/docs/en-dep/nmod.html",
+            },
+
+            {
                 "title": "npmod",
                 "url":   "/docs/en-dep/npmod.html",
             },
@@ -1398,11 +1400,6 @@ xsubj(eat, Tom)
             {
                 "title": "pcomp",
                 "url":   "/docs/en-dep/pcomp.html",
-            },
-
-            {
-                "title": "pobj",
-                "url":   "/docs/en-dep/pobj.html",
             },
 
             {
