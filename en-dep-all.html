@@ -365,29 +365,32 @@ neg(drive, n't)
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
 
 <h2 id="npadvmod--noun-phrase-as-adverbial-modifier">npadvmod : noun phrase as adverbial modifier</h2>
-<p>This relation captures various places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence.   These usages include: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions. A temporal modifier (tmod) is a subclass of npadvmod which is distinguished as a separate relation. </p>
+
+<p>This relation is a subtype of the <em>nmod</em> relation, which captures the following places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions.</p>
+
+<p>A temporal modifier (tmod) is a subclass of <em>npmod</em> which is distinguished as a separate relation. </p>
 
 <pre><code class="language-sdparse">The director is 65 years old
-npadvmod(old, years)
+npmod(old, years)
 </code></pre>
 
 <pre><code class="language-sdparse">6 feet long
-npadvmod(long, feet)
+npmod(long, feet)
 </code></pre>
 
 <pre><code class="language-sdparse">Shares eased a fraction
-npadvmod(eased, fraction)
+npmod(eased, fraction)
 </code></pre>
 
 <pre><code class="language-sdparse">IBM earned $ 5 a share
-npadvmod($, share)
+npmod($, share)
 </code></pre>
 
 <pre><code class="language-sdparse">The silence is itself significant
-npadvmod(significant, itself)
+npmod(significant, itself)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/npadvmod.md" target="#">edit npadvmod</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/npmod.md" target="#">edit npmod</a></p>
 
 <h2 id="nsubj--nominal-subject">nsubj : nominal subject</h2>
 <p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun. </p>
@@ -1336,8 +1339,8 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "npadvmod",
-                "url":   "/docs/en-dep/npadvmod.html",
+                "title": "npmod",
+                "url":   "/docs/en-dep/npmod.html",
             },
 
             {
