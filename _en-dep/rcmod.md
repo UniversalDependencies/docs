@@ -13,14 +13,14 @@ the relative clause, normally a verb.
 
 ~~~ sdparse
 I saw the man you love
-rcmod(man, love)
+relcl(man, love)
 ~~~
 
 
 
 ~~~ sdparse
 I saw the book which you bought
-rcmod(book, bought)
+relcl(book, bought)
 ~~~
 
  
