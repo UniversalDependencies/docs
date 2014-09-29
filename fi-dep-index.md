@@ -14,6 +14,6 @@ Alphabetical listing
 
 <ul>
 {% for p in site.fi-dep %}
-  <li><a href="{{ p.url | remove_first:'/' }}">{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a>{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>
