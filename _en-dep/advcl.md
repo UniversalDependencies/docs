@@ -6,7 +6,8 @@ shortdef : 'adverbial clause modifier'
 
 
 ## advcl : adverbial clause modifier
-An adverbial clause modifier of a VP or S is a clause modifying the verb (temporal clause, consequence, conditional clause, purpose clause, etc.). 
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
+clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.
 
 ~~~ sdparse
 The accident happened as the night was falling
@@ -27,5 +28,9 @@ He talked to him in order to secure the account
 advcl(talked, secure)
 ~~~
 
- 
+
+~~~ sdparse
+He was upset when I talked to him
+advcl(upset, talked)
+~~~
 
