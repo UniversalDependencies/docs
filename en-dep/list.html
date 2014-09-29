@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>poss</title>
+    <title>list</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/poss.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/list.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,15 +34,18 @@
 	  </div>
 	</noscript>
 
-          <h2 id="poss--possession-modifier">poss : possession modifier</h2>
-<p>The possession modifier relation holds between the head of an NP and its possessive determiner, or a genitive ‘s complement. </p>
+          <h2 id="list-list">list: list</h2>
 
-<pre><code class="language-sdparse">their offices
-poss(offices, their)
-</code></pre>
+<p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <em>appos</em>.</p>
 
-<pre><code class="language-sdparse">Bill 's clothes
-poss(clothes, Bill)
+<p>In lists with more than two items, all items of the list shoud modify the first one.</p>
+
+<pre><code class="language-sdparse">Steve Jones Phone: 555-9814 Email: jones@abc.edf
+name(Steve-1, Jones-2)
+list(Steve-1, Phone:-3)
+list(Steve-1, Email:-5)
+appos(Phone:-3, 555-9814-4)
+appos(Email:-5, jones@abc.edf-6)
 </code></pre>
 
 
@@ -117,6 +120,11 @@ poss(clothes, Bill)
 
 
 
+list in other languages:
+
+[<a href="../fi-dep/list.html">fi</a>]
+
+[<a href="../ud-dep/list.html">ud</a>]
 
 
 
@@ -159,11 +167,6 @@ poss(clothes, Bill)
 
 
 
-poss in other languages:
-
-[<a href="../en-dep/poss.html">en</a>]
-
-[<a href="../fi-dep/poss.html">fi</a>]
 
 
 
@@ -649,6 +652,11 @@ poss in other languages:
             },
 
             {
+                "title": "list",
+                "url":   "/docs/en-dep/list.html",
+            },
+
+            {
                 "title": "mark",
                 "url":   "/docs/en-dep/mark.html",
             },
@@ -706,11 +714,6 @@ poss in other languages:
             {
                 "title": "pobj",
                 "url":   "/docs/en-dep/pobj.html",
-            },
-
-            {
-                "title": "poss",
-                "url":   "/docs/en-dep/poss.html",
             },
 
             {
