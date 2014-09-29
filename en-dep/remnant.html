@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>agent</title>
+    <title>remnant</title>
     <link rel="root" href="../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/agent.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/remnant.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,15 +34,62 @@
 	  </div>
 	</noscript>
 
-          <h2 id="agent--agent">agent : agent</h2>
-<p>An agent is the complement of a passive verb which is introduced by the preposition “by” and does the action. This relation only appears in the collapsed dependencies, where it can replace <em>prep_by</em>, where appropriate. It does not appear in basic dependencies output. </p>
+          <h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
 
-<pre><code class="language-sdparse">The man has been killed by the police
-agent(killed, police)
+<p>The <em>remnant</em> relation is used to provide a satisfactory treatment of ellipsis (in
+the case of gapping and stripping, where a predicational or verbal
+head gets elided) <em>without</em> having to postulate empty nodes in the basic representation. This is something that was lacking in earlier versions
+of SD and provides a basis for being able to reconstruct dependencies
+in the enhanced representation of SD. </p>
+
+<p>USD adopts an analysis that notes that in ellipsis a <em>remnant</em> corresponds to a <em>correlate</em> in a preceding clause. The <em>remnant</em> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation.</p>
+
+<pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
+nsubj(went-2, Marie-1)
+root(root-0, went-2)
+nmod(went-2, Paris-4)
+case(Paris-4, to-3)
+cc(went-2, and-5)
+remnant(Marie-1, Miriam-6)
+case(Prague-8, to-7)
+remnant(Paris-4, Prague-8)
 </code></pre>
 
-<pre><code class="language-sdparse">Effects caused by the protein are important
-agent(caused, protein)
+<p>Even in the more complex example below, the <em>remnant</em>
+relations enable us to correctly retrieve the subjects and objects in
+the clauses with an elided verb.</p>
+
+<pre><code class="language-sdparse">John won bronze , Mary silver , and Sandy gold
+nsubj(won-2, John-1)
+dobj(won-2, bronze-3)
+remnant(John-1, Mary-5)
+remnant(Mary-5, Sandy-9)
+remnant(bronze-3, silver-6)
+remnant(silver-6, gold-10)
+</code></pre>
+
+<p>Note in particular that (unlike for <em>conj</em>), <em>remnant</em> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
+
+<p>The <em>remnant</em> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <em>remnant</em> relation is not used. In RNR, the verbs are coordinated and the object is a <em>dobj</em> of the first verb:</p>
+
+<pre><code class="language-sdparse">John bought and ate an apple
+nsubj(bought-2, John-1)
+cc(bought-2, and-3)
+conj(bought-2, ate-4)
+det(apple-6, an-5)
+dobj(bought-2, apple-6)
+</code></pre>
+
+<p>In VP-ellipsis, we keep the auxiliary as the head, as shown below:</p>
+
+<pre><code class="language-sdparse">John will win gold and Mary will too
+nsubj(win-3, John-1)
+aux(win-3, will-2)
+dobj(win-3, gold-4)
+cc(win-3, and-5)
+conj(win-3, will-7)
+nsubj(will-7, Mary-6)
+advmod(will-7, too-8)
 </code></pre>
 
 
@@ -57,9 +104,7 @@ agent(caused, protein)
 
 
 
-agent in other languages:
 
-[<a href="../en-dep/agent.html">en</a>]
 
 
 
@@ -187,7 +232,11 @@ agent in other languages:
 
 
 
+remnant in other languages:
 
+[<a href="../fi-dep/remnant.html">fi</a>]
+
+[<a href="../ud-dep/remnant.html">ud</a>]
 
 
 
@@ -557,11 +606,6 @@ agent in other languages:
             },
 
             {
-                "title": "agent",
-                "url":   "/docs/en-dep/agent.html",
-            },
-
-            {
                 "title": "amod",
                 "url":   "/docs/en-dep/amod.html",
             },
@@ -764,6 +808,11 @@ agent in other languages:
             {
                 "title": "rel",
                 "url":   "/docs/en-dep/rel.html",
+            },
+
+            {
+                "title": "remnant",
+                "url":   "/docs/en-dep/remnant.html",
             },
 
             {
