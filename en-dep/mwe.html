@@ -35,7 +35,9 @@
 	</noscript>
 
           <h2 id="mwe--multi-word-expression">mwe : multi-word expression</h2>
-<p>The multi-word expression (modifier) relation is used for certain multi-word idioms that behave like a single function word.  It is used for a closed set of dependencies between words in common multi-word expressions for which it seems difficult or unclear to assign any other relationships.  At present, this relation is used inside the following expressions: <em>rather than, as well as, instead of, such as, because of, instead of, in addition to, all but, such as, because of, instead of, due to</em>.  The boundaries of this class are unclear; it could grow or shrink a little over time. </p>
+<p>The multi-word expression (modifier) relation is used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
+
+<p>At present, this relation is used inside the following expressions: <em>rather than, as well as, instead of, such as, because of, instead of, in addition to, all but, such as, because of, instead of, due to</em>. </p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
 mwe(well, as)
@@ -44,6 +46,8 @@ mwe(well, as)
 <pre><code class="language-sdparse">He cried because of you
 mwe(of, because)
 </code></pre>
+
+<p>Multiword expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the <em>mwe</em> label.</p>
 
 
 
