@@ -43,14 +43,14 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 <!-- alphabetical by surname -->
 * Jinho Choi
 * [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
-* Filip Ginter
+* [Filip Ginter](http://bionlp.utu.fi/)
 * Yoav Goldberg
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * Christopher Manning
 * Ryan McDonald
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
 * Slav Petrov
-* Sampo Pyysalo
+* [Sampo Pyysalo](http://bionlp.utu.fi/)
 * Natalia Silveira
 * Reut Tsarfaty
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
@@ -68,6 +68,9 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * Dipanjan Das, and Slav Petrov. 2011. 
   [Unsupervised part-of-speech tagging with bilingual graph-based projections](http://static.googleusercontent.com/media/research.google.com/sv//pubs/archive/37071.pdf)
   In *Proceedings of ACL*.
+
+* Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
+  [Building the essential resources for Finnish: the Turku Dependency Treebank](http://dx.doi.org/10.1007/s10579-013-9244-1). Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.
 
 * Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006. 
   [Generating typed dependency parses from phrase structure parses](http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf). 
