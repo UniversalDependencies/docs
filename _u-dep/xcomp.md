@@ -55,3 +55,32 @@ Slíbil jsem psát . \n Promised I-have to-write .
 xcomp(Slíbil, psát)
 xcomp(Promised, to-write)
 ~~~
+
+### Secondary Predicates
+
+The `xcomp` relation is also used in constructions that are known as _secondary predicates._
+Examples:
+
+* _She declared the cake beautiful._
+* _She declared the cake a success._
+
+We could paraphrase the sentence using a subordinate clause: _She declared that the cake was beautiful._
+There are two predicates mixed in one clause: 1. she declared something, and 2. the cake was beautiful (according to her opinion).
+The secondary predicate will be attached to the main predicate as an `xcomp`:
+
+~~~ sdparse
+She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+~~~
+
+In the enhanced representation, there is an additional subject link showing the secondary predication:
+
+~~~ sdparse
+She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+nsubj(beautiful, cake)
+~~~
