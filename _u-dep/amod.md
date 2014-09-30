@@ -6,8 +6,8 @@ shortdef: 'adjectival modifier'
 
 ## amod: adjectival modifier
 
-An adjectival modifier of an NP is any adjectival phrase that serves
-to modify the meaning of the NP.
+An adjectival modifier of a noun is any adjectival phrase that serves
+to modify the meaning of the noun.
 
 ~~~ sdparse
 Sam eats red meat
