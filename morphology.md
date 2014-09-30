@@ -67,7 +67,7 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. `NumType`).
   This makes features distinct from the <a href="u/pos/index.html">universal POS tags</a> (all uppercase)
-  and from the <a href="relations.html">universal dependency relatios</a> (all lowercase).
+  and from the <a href="u/dep/index.html">universal dependency relations</a> (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: `PronType=Prs`.
   Note that the values are not guaranteed to be unique across features,
