@@ -1,22 +1,27 @@
 ---
 layout: base
 title:  'acl'
-shortdef : 'adverbial modifier of nouns'
+shortdef : 'clausal modifier of noun'
 ---
 
 
-## acl : adverbial modifier of nouns
+## acl : clausal modifier of noun
 
-*acl* 
+*acl* is used for finite and non-finite clauses that modify a noun. Note that in English relative clauses get assigned a specific relation *relcl*, a subtype of *acl*.
+
+~~~ sdparse
+the issues as he sees them
+acl(issues, sees)
+~~~
 
 ~~~ sdparse
 Points to establish are ...
-vmod(Points, establish)
+acl(Points, establish)
 ~~~
 
 ~~~ sdparse
 I don't have anything to say to you
-vmod(anything, say)
+acl(anything, say)
 ~~~
  
 
