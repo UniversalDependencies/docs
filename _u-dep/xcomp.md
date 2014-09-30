@@ -85,17 +85,19 @@ xcomp(declared, beautiful)
 nsubj(beautiful, cake)
 ~~~
 
-Some more examples:
-
-~~~ sdparse
-She entered the room sad .
-nsubj(entered, She)
-dobj(entered, room)
-xcomp(entered, sad)
-~~~
+A Czech example:
 
 ~~~ sdparse
 jmenovat někoho generálem \n to-appoint someone as-a-general
 dobj(jmenovat, někoho)
 xcomp(jmenovat, generálem)
 ~~~
+
+Remember that `xcomp` is used for core arguments of clausal predicates
+so it will not be used for other instances of secondary predication.
+For instance, in _She entered the room sad_ we also have a double predication
+(she entered the room; she was sad).
+But _sad_ is not a core argument of _enter:_ leaving it out will neither affect grammaticality
+nor significantly alter the meaning of the verb.
+On the other hand, leaving out _beautiful_ in _she declared the cake beautiful_
+will either render the sentence ungrammatical or lead to a different interpretation of _declared._
