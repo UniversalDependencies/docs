@@ -137,11 +137,15 @@ nmod(give, children)
 case(children, to)
 ~~~
 
-~~~ sdparse
-donner les_jouets aux enfants \n give the_toys to_the children
-dobj(donner-1, les_jouets-2)
-nmod(donner-1, enfants-4)
-case(enfants-4, aux-3)
+~~~ conllu
+# give the toys to the children
+1     donner    donner   VERB   _   VerbForm=Inf               0   root   _   give
+2     les       le       DET    _   Definite=Def|Number=Plur   3   det    _   the
+3     jouets    jouet    NOUN   _   Gender=Masc|Number=Plur    1   dobj   _   toys
+4-5   aux       _        _      _   _                          _   _      _   _
+4     au        au       ADP    _   _                          6   case   _   to
+5     les       le       DET    _   Definite=Def|Number=Plur   6   det    _   the
+6     enfants   enfant   NOUN   _   Gender=Masc|Number=Plur    1   nmod   _   children
 ~~~
 
 Another advantage of this new analysis is that it provides a treatment
@@ -165,6 +169,6 @@ Out of all this , something good will come.
 Out of all this ... come
 case(this-4, Out-1)
 case(this-4, of-2)
-predet(this-4, all-3)
+det(this-4, all-3)
 nmod(come-6, this-4)
 ~~~
