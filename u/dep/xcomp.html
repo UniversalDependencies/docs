@@ -80,6 +80,35 @@ xcomp(Slíbil, psát)
 xcomp(Promised, to-write)
 </code></pre>
 
+<h3 id="secondary-predicates">Secondary Predicates</h3>
+
+<p>The <code>xcomp</code> relation is also used in constructions that are known as <em>secondary predicates.</em>
+Examples:</p>
+
+<ul>
+  <li><em>She declared the cake beautiful.</em></li>
+  <li><em>She declared the cake a success.</em></li>
+</ul>
+
+<p>We could paraphrase the sentence using a subordinate clause: <em>She declared that the cake was beautiful.</em>
+There are two predicates mixed in one clause: 1. she declared something, and 2. the cake was beautiful (according to her opinion).
+The secondary predicate will be attached to the main predicate as an <code>xcomp</code>:</p>
+
+<pre><code class="language-sdparse">She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+</code></pre>
+
+<p>In the enhanced representation, there is an additional subject link showing the secondary predication:</p>
+
+<pre><code class="language-sdparse">She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+nsubj(beautiful, cake)
+</code></pre>
+
 
 <!-- "relation in other languages" links -->
 <hr/>
