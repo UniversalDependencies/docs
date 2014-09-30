@@ -75,6 +75,21 @@ We slept ...
 nsubj(slept, We)
 </div>
 
+<div id="s2c" class="sd-parse">
+Ivan is the best dancer
+nsubj(dancer, Ivan)
+cop(dancer, is)
+det(dancer, the)
+amod(dancer, best)
+</div>
+
+<div id="s2d" class="sd-parse">
+Ivan lucčšij tancor
+nsubj(tancor, Ivan)
+amod(tancor, lucčšij)
+</div>
+
+
 ## The Status of Function Words
 
 The primacy of content words implies that function words normally do not have dependents of their own. 
