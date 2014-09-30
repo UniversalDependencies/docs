@@ -413,7 +413,7 @@ foreign(qwe,rty)
 foreign(qwe,yui)
 </div>
 
-In contrast, compounds are annotated to show their modification structure, including a regular concept of head:
+In contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
 
 <div id="s9" class="sd-parse">
 I bought a computer disk drive enclosure .
