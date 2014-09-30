@@ -29,7 +29,7 @@ npmod(eased, fraction)
 ~~~
 
 
-(iii) financial constructions involving an adverbial, notably the following construction *$5 a share*, where the second NP means "per share":
+(iii) financial constructions involving an adverbial, notably the following construction *$5 a share*, where the second nominal means "per share":
 
 ~~~ sdparse
 IBM earned $ 5 a share
@@ -45,7 +45,7 @@ The silence is itself significant
 npmod(significant, itself)
 ~~~
 
-and (v) certain other absolutive NP constructions.
+and (v) certain other absolutive nominal constructions.
 
 A temporal modifier (tmod) is a subclass of *npmod* which is distinguished as a separate relation. 
 
