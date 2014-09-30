@@ -36,7 +36,38 @@
 
           <h2 id="nmod--nominal-modifier">nmod : nominal modifier</h2>
 
-<p>[TODO]</p>
+<p>The <em>nmod</em> relation is used for nominal modifiers of nouns or clausal predicates. <em>nmod</em> is a noun functioning as a non-core (oblique) argument or adjunct. In English, <em>nmod</em> is used</p>
+
+<ul>
+  <li>for prepositional complements:</li>
+</ul>
+
+<pre><code class="language-sdparse">the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
+</code></pre>
+
+<pre><code class="language-sdparse">give the toys to the children
+dobj(give, toys)
+nmod(give, children)
+case(children, to)
+</code></pre>
+
+<p>The <em>nmod</em> relation holds between the noun/predicate modified by the prepositional complement and the noun introduced by the preposition.</p>
+
+<ul>
+  <li>for ‘s genitives:</li>
+</ul>
+
+<pre><code class="language-sdparse">the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+poss(Chair-2, 's-3)
+</code></pre>
+
+<p>Nominal modifiers not introduced by a preposition or not ‘s genitives are tagged <em>npmod</em>, a subtype of <em>nmod</em>. Temporal nominal modifiers are also marked with a separate relation <em>tmod</em>. See the definitions of these relations.</p>
 
 
 
