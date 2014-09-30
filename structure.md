@@ -303,6 +303,7 @@ Relation names attempt to differentiate canonical voice (where the proto-agent a
 ### Clausal dependents
 
 To classify clausal dependents, the UD taxonomy obeys the following principles:
+
 - differentiate core arguments from noncore arguments and adjuncts (see "Core arguments vs. oblique modifiers" above)
 - differentiate subjects from complements
 - differentiate subjects of passives from other subjects (see "Voice" above)
