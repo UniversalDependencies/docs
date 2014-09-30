@@ -535,19 +535,24 @@ nmod(come, this-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/case.md" target="#">edit case</a></p>
 
-<h2 id="cc-coordination">cc: coordination</h2>
+<h2 id="cc-coordinating-conjunction">cc: coordinating conjunction</h2>
 
-<p>A coordination is the relation between an element of a conjunct and
-the coordinating conjunction word of the conjunct.  (Note: different
-dependency grammars have different treatments of coordination.  We
-take one conjunct of a conjunction (normally the first) as the head of
-the conjunction.) A conjunction may also appear at the beginning of a
-sentence.  This is also called a cc, and it depends on the root
-predicate of the sentence.</p>
+<p>For more on coordination, see the <a href="">conj</a> relation.
+A <code>cc</code> is the relation between the first conjunct and
+the <a href="../pos/CONJ">coordinating conjunction</a> delimiting another conjunct.
+(Note: different dependency grammars have different treatments of coordination.
+We take the first conjunct as the head of the coordination.)</p>
 
 <pre><code class="language-sdparse">Bill is big and honest
 cc(big, and)
 </code></pre>
+
+<p>A coordinating conjunction may also appear at the beginning of a
+sentence. This is also called a <code>cc</code>, and it depends on the root
+predicate of the sentence.
+(In fact there is a coordination that spans multiple sentences.
+We cannot attach a word to the first conjunct because it is in another sentence.
+Thus we attach it to the first conjunct available in the current sentence: its main predicate.)</p>
 
 <pre><code class="language-sdparse">And then we left .
 cc(left, And)
@@ -970,7 +975,7 @@ appos(Email:-5, jones@abc.edf-6)
 <p>A marker is the word introducing a finite clause subordinate to
 another clause. For a <a href="ccomp">complement clause</a>, this will typically be <em>that</em>
 or <em>whether.</em> For an <a href="advcl">adverbial clause</a>, the marker is typically a
-<a href="../u/pos/SCONJ">subordinating conjunction</a> like <em>while</em> or <em>although.</em> The mark is a dependent of the
+<a href="../pos/SCONJ">subordinating conjunction</a> like <em>while</em> or <em>although.</em> The mark is a dependent of the
 subordinate clause head.</p>
 
 <pre><code class="language-sdparse">Forces engaged in fighting after insurgents attacked
