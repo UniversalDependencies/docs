@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>relcl</title>
+    <title>acl</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/relcl.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/acl.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,28 +34,28 @@
 	  </div>
 	</noscript>
 
-          <h2 id="relcl-relative-clause-modifier">relcl: relative clause modifier</h2>
+          <h2 id="acl-clausal-modifier-of-noun">acl: clausal modifier of noun</h2>
 
-<p>A relative clause modifier of an noun is a relative clause modifying the
-noun.  The relation points from the noun that is moidifed to the head of
+<p><em>acl</em> stands for finite and non-finite clauses that modify a noun, in contrast to the <em>advcl</em> relation which is used for adverbial clauses that modify a predicate. The head of the <em>acl</em> relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.</p>
+
+<pre><code class="language-sdparse">the issues as he sees them
+acl(issues, sees)
+</code></pre>
+
+<pre><code class="language-sdparse">Cette affaire à suivre
+acl(affaire, suivre)
+</code></pre>
+
+<p>A relative clause is an instance of <em>acl</em>: the relation points from the noun that is modified to the head of
 the relative clause, normally a verb.</p>
 
 <pre><code class="language-sdparse">I saw the man you love
-relcl(man, love)
+acl(man, love)
 </code></pre>
 
 
 <!-- "relation in other languages" links -->
 <hr/>
-
-relcl in other languages:
-
-[<a href="../../en/dep/relcl.html">en</a>]
-
-[<a href="../../fi/dep/relcl.html">fi</a>]
-
-[<a href="../../u/dep/relcl.html">u</a>]
-
 
 
       </div>
@@ -280,6 +280,11 @@ relcl in other languages:
         "u-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/u/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/u/dep/advcl.html",
             },
@@ -457,11 +462,6 @@ relcl in other languages:
             {
                 "title": "punct",
                 "url":   "/docs/u/dep/punct.html",
-            },
-
-            {
-                "title": "relcl",
-                "url":   "/docs/u/dep/relcl.html",
             },
 
             {

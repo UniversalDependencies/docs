@@ -220,6 +220,27 @@ in two places.</p>
 
 <hr />
 
+<h2 id="acl-clausal-modifier-of-noun">acl: clausal modifier of noun</h2>
+
+<p><em>acl</em> stands for finite and non-finite clauses that modify a noun, in contrast to the <em>advcl</em> relation which is used for adverbial clauses that modify a predicate. The head of the <em>acl</em> relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.</p>
+
+<pre><code class="language-sdparse">the issues as he sees them
+acl(issues, sees)
+</code></pre>
+
+<pre><code class="language-sdparse">Cette affaire à suivre
+acl(affaire, suivre)
+</code></pre>
+
+<p>A relative clause is an instance of <em>acl</em>: the relation points from the noun that is modified to the head of
+the relative clause, normally a verb.</p>
+
+<pre><code class="language-sdparse">I saw the man you love
+acl(man, love)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/acl.md" target="#">edit acl</a></p>
+
 <h2 id="advcl-adverbial-clause-modifier">advcl: adverbial clause modifier</h2>
 
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
@@ -1269,18 +1290,6 @@ punct(Compare, .-34)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/punct.md" target="#">edit punct</a></p>
 
-<h2 id="relcl-relative-clause-modifier">relcl: relative clause modifier</h2>
-
-<p>A relative clause modifier of an noun is a relative clause modifying the
-noun.  The relation points from the noun that is moidifed to the head of
-the relative clause, normally a verb.</p>
-
-<pre><code class="language-sdparse">I saw the man you love
-relcl(man, love)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/relcl.md" target="#">edit relcl</a></p>
-
 <h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
 
 <p>The <em>remnant</em> relation is used to provide a satisfactory treatment of ellipsis (in
@@ -1718,6 +1727,11 @@ nsubj(beautiful, cake)
         "u-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/u/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/u/dep/advcl.html",
             },
@@ -1895,11 +1909,6 @@ nsubj(beautiful, cake)
             {
                 "title": "punct",
                 "url":   "/docs/u/dep/punct.html",
-            },
-
-            {
-                "title": "relcl",
-                "url":   "/docs/u/dep/relcl.html",
             },
 
             {
