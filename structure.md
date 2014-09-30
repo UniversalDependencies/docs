@@ -84,9 +84,9 @@ amod(dancer, best)
 </div>
 
 <div id="s2d" class="sd-parse">
-Ivan lucčšij tancor
+Ivan lučšij tancor
 nsubj(tancor, Ivan)
-amod(tancor, lucčšij)
+amod(tancor, lučšij)
 </div>
 
 
