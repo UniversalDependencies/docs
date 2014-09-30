@@ -162,13 +162,9 @@ case(shape-4, in-3)
 When prepositions are stacked, as occurs in *out of*, each preposition is independently analyzed as a case dependent:
 
 ~~~ sdparse
-Out of all this , something good will come.
-~~~
-
-~~~ sdparse
-Out of all this ... come
+Out of all this , something good will come .
 case(this-4, Out-1)
 case(this-4, of-2)
 det(this-4, all-3)
-nmod(come-6, this-4)
+nmod(come, this-4)
 ~~~
