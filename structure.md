@@ -300,6 +300,22 @@ Similarly, the core grammatical relations differentiate core arguments that are 
 
 Relation names attempt to differentiate canonical voice (where the proto-agent argument is the subject) from non-canonical voice constructions (where another argument is the subject). This is marked as appropriate on both the subject argument (e.g., nsubjpass) and auxiliaries indicating this (auxpass). Marking both is helpful, as either may be missing.
  
+## Coordination
+
+We treat coordinate structures asymmetrically:
+The head of the relation is the first conjunct and all the other conjuncts depend on it via the [u-dep/conj]() relation.
+Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+
+~~~ sdparse
+He came home , took a shower and immediately went to bed .
+conj(came, took)
+conj(came, went)
+punct(came, ,-4)
+cc(came, and)
+~~~
+
+See [u-dep/conj]() for more discussion of related issues (shared dependents, nested coordination).
+
 ## Special Relations
 
 Some of the universal relations do not really encode syntactic dependency relations but are used to represent 
