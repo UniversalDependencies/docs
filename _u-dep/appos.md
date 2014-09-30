@@ -6,8 +6,8 @@ shortdef: 'appositional modifier'
 
 ## appos: appositional modifier
 
-An appositional modifier of an NP is an NP immediately following
-the first NP that serves to define or modify that NP. It includes
+An appositional modifier of a noun is a nominal immediately following
+the first noun that serves to define or modify that noun. It includes
 parenthesized examples, as well as defining abbreviations in one of
 these structures.
 
@@ -26,7 +26,7 @@ The Australian Broadcasting Corporation ( ABC )
 appos(Corporation-4, ABC-6)
 ~~~
 
-In case of more than one appositive NP, all NPs should be marked as modifying the first NP, rather than being chained:
+In case of more than one appositive nominal, all nouns should be marked as modifying the first noun, rather than being chained:
 
 ~~~ sdparse
 Sam , my brother , John 's cousin , arrived
