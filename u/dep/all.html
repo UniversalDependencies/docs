@@ -338,6 +338,16 @@ appos(Sam-1, brother-4)
 appos(Sam-1, cousin-8)
 </code></pre>
 
+<p><em>appos</em> is also used to link key-value pairs in addresses, signatures, etc. (see also the <a href="">list</a> label):</p>
+
+<pre><code class="language-sdparse">Steve Jones Phone: 555-9814 Email: jones@abc.edf
+name(Steve-1, Jones-2)
+list(Steve-1, Phone:-3)
+list(Steve-1, Email:-5)
+appos(Phone:-3, 555-9814-4)
+appos(Email:-5, jones@abc.edf-6)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/appos.md" target="#">edit appos</a></p>
 
 <h2 id="aux-auxiliary">aux: auxiliary</h2>
@@ -954,7 +964,7 @@ iobj(teaches, daughter.Acc)
 
 <h2 id="list-list">list: list</h2>
 
-<p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <em>appos</em>.</p>
+<p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <a href="">appos</a>.</p>
 
 <p>In lists with more than two items, all items of the list shoud modify the first one.</p>
 
