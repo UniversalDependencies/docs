@@ -41,8 +41,5 @@ compound(put, up)
 
 The two other compounding relations are:
 
-- *mwe* for fixed grammaticized expressions with function words (e.g., *instead of*:
-*mwe*(of,instead), Fr. plutôt que "rather than": *mwe*(que,plutôt))
-
-- *name* for proper nouns constituted of multiple nominal elements
-
+- [mwe]() for fixed grammaticized expressions with function words
+- [name]() for proper nouns constituted of multiple nominal elements

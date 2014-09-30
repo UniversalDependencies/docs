@@ -6,8 +6,7 @@ shortdef: 'multi-word expression'
 
 ## mwe: multi-word expression
 
-
-The multi-word expression (modifier) relation is one of the three relations (*compound*, *name*, *mwe*) for compounding. 
+The multi-word expression (modifier) relation is one of the three relations ([compound](), *mwe*, [name]()) for compounding. 
 It used for certain fixed grammaticized expressions with function words that behave like a single function word.
 
 ~~~ sdparse
@@ -22,7 +21,7 @@ mwe(because, of)
 ~~~
 
 ~~~ sdparse
-Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
+Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a dessert rather than an appetizer
 mwe(plutôt, qu')
 ~~~
 
