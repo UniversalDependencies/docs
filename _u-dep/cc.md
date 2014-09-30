@@ -1,23 +1,28 @@
 ---
 layout: base
 title: 'cc'
-shortdef: 'coordination'
+shortdef: 'coordinating conjunction'
 ---
 
-## cc: coordination
+## cc: coordinating conjunction
 
-A coordination is the relation between an element of a conjunct and
-the coordinating conjunction word of the conjunct.  (Note: different
-dependency grammars have different treatments of coordination.  We
-take one conjunct of a conjunction (normally the first) as the head of
-the conjunction.) A conjunction may also appear at the beginning of a
-sentence.  This is also called a cc, and it depends on the root
-predicate of the sentence.
+For more on coordination, see the [conj]() relation.
+A `cc` is the relation between the first conjunct and
+the [coordinating conjunction](../pos/CONJ) delimiting another conjunct.
+(Note: different dependency grammars have different treatments of coordination.
+We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
 Bill is big and honest
 cc(big, and)
 ~~~
+
+A coordinating conjunction may also appear at the beginning of a
+sentence. This is also called a `cc`, and it depends on the root
+predicate of the sentence.
+(In fact there is a coordination that spans multiple sentences.
+We cannot attach a word to the first conjunct because it is in another sentence.
+Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
 
 ~~~ sdparse
 And then we left .
