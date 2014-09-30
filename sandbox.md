@@ -114,12 +114,28 @@ Same sentence in CoNLL-U:
 3     ˑסרטˑ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
+Without literal "ˑ" in input  (should trigger auto-insertion)
+
+~~~ conllu
+1     דני       _        NOUN    _      _     2      nsubj _ _
+2     ראה       _        VERB    _      _     0      root  _ _
+3     סרט       _        NOUN    _      _     2      dobj  _ _
+~~~
+
 Does Arabic work as well?
 
 ~~~ conllu
 1     ˑوَˑ       _        NOUN    _      _     2      nsubj _ _
 2     ˑلاحَظَˑ       _        VERB    _      _     0      root  _ _
 3     ˑالتَقْرِيرُˑ       _        NOUN    _      _     2      dobj  _ _
+~~~
+
+Without literal "ˑ" in input  (should trigger auto-insertion)
+
+~~~ conllu
+1     وَ       _        NOUN    _      _     2      nsubj _ _
+2     لاحَظَ       _        VERB    _      _     0      root  _ _
+3     التَقْرِيرُ       _        NOUN    _      _     2      dobj  _ _
 ~~~
 
 ~~~ conllu
