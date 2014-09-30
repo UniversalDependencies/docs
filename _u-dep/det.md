@@ -6,7 +6,7 @@ shortdef: 'determiner'
 
 ## det: determiner
 
-A determiner is the relation between the head of an NP and its
+A determiner is the relation between the head of a noun phrase and its
 determiner.
 
 ~~~ sdparse
