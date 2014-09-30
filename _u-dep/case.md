@@ -155,7 +155,7 @@ cop(shape-4, is-2)
 case(shape-4, in-3)
 ~~~
 
-Stacked prepositions, such as *out of* are regarded as some form of *mwe*:
+When prepositions are stacked, as occurs in *out of*, each preposition is independently analyzed as a case dependent:
 
 ~~~ sdparse
 Out of all this , something good will come.
@@ -163,8 +163,8 @@ Out of all this , something good will come.
 
 ~~~ sdparse
 Out of all this ... come
-mwe(Out-1, of-2)
-predet(this-4, all-3)
 case(this-4, Out-1)
+case(this-4, of-2)
+predet(this-4, all-3)
 nmod(come-6, this-4)
 ~~~
