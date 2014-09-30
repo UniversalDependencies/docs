@@ -299,6 +299,18 @@ Similarly, the core grammatical relations differentiate core arguments that are 
 ### Voice
 
 Relation names attempt to differentiate canonical voice (where the proto-agent argument is the subject) from non-canonical voice constructions (where another argument is the subject). This is marked as appropriate on both the subject argument (e.g., nsubjpass) and auxiliaries indicating this (auxpass). Marking both is helpful, as either may be missing.
+
+### Clausal dependents
+
+To classify clausal dependents, the UD taxonomy obeys the following principles:
+- differentiate core arguments from noncore arguments and adjuncts (see "Core arguments vs. oblique modifiers" above)
+- differentiate subjects from complements
+- differentiate subjects of passives from other subjects (see "Voice" above)
+- differentiate clauses with obligatory control from clauses with other types of subject licensing
+- differentiate attachment to predicates from attachment to entities
+- be able to capture clausal modifiers of nouns that do not take the form of a relative clause
+
+Note that the UD taxonomy does not attempt to differentiate finite from nonfinite clauses.
  
 ## Coordination
 
