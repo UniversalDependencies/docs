@@ -628,13 +628,8 @@ compound(put, up)
 <p>The two other compounding relations are:</p>
 
 <ul>
-  <li>
-    <p><em>mwe</em> for fixed grammaticized expressions with function words (e.g., <em>instead of</em>:
-<em>mwe</em>(of,instead), Fr. plutôt que “rather than”: <em>mwe</em>(que,plutôt))</p>
-  </li>
-  <li>
-    <p><em>name</em> for proper nouns constituted of multiple nominal elements</p>
-  </li>
+  <li><a href="">mwe</a> for fixed grammaticized expressions with function words</li>
+  <li><a href="">name</a> for proper nouns constituted of multiple nominal elements</li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/compound.md" target="#">edit compound</a></p>
@@ -997,7 +992,7 @@ mark(bring, to-22)
 
 <h2 id="mwe-multi-word-expression">mwe: multi-word expression</h2>
 
-<p>The multi-word expression (modifier) relation is one of the three relations (<em>compound</em>, <em>name</em>, <em>mwe</em>) for compounding. 
+<p>The multi-word expression (modifier) relation is one of the three relations (<a href="">compound</a>, <em>mwe</em>, <a href="">name</a>) for compounding. 
 It used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
@@ -1009,7 +1004,7 @@ mwe(as-4, as-6)
 mwe(because, of)
 </code></pre>
 
-<pre><code class="language-sdparse">Je préfère prendre un dessert plutôt qu' une entrée. \n I prefer getting a dessert rather than an appetizer
+<pre><code class="language-sdparse">Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a dessert rather than an appetizer
 mwe(plutôt, qu')
 </code></pre>
 
@@ -1019,7 +1014,14 @@ mwe(plutôt, qu')
 
 <h2 id="name">name</h2>
 
-<p><em>name</em> is one of the three relations for compounding in USD (together with <em>compound</em> and <em>mwe</em>). It is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used between the words of “Hillary Rodham Clinton”, “New York”, or “Carl XVI Gustaf” but not to replace the usual relations in a phrasal or clausal name like “The king of Sweden” or the novels “The Lord of the Rings” and “Captured By Aliens”. Words joined by <em>name</em> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with <em>compound</em>, except that in many cases parts of the name may be another nominal elelment such as an adjective (“United Airlines”).</p>
+<p><em>name</em> is one of the three relations for compounding in USD (together with <a href="">compound</a> and <a href="">mwe</a>).
+It is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used
+between the words of <em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to replace
+the usual relations in a phrasal or clausal name like <em>The king of Sweden</em> or the novels
+<em>The Lord of the Rings</em> and <em>Captured By Aliens.</em>
+Words joined by <em>name</em> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.
+This is basically similar to the treatment of noun compounds with <em>compound</em>,
+except that in many cases parts of the name may be another nominal element such as an adjective <em>(United Airlines).</em></p>
 
 <p>In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <em>name</em> label.</p>
 
@@ -1028,7 +1030,8 @@ name(Carl-1, Gustaf-3)
 name(Carl-1, XVI-2)
 </code></pre>
 
-<p>This is certainly the case for person names and foreign person or place names. For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding.</p>
+<p>This is certainly the case for person names and foreign person or place names.
+For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding.</p>
 
 <pre><code class="language-sdparse">Natural Resources Conservation Service
 name(Resources-2, Natural-1)
@@ -1036,10 +1039,22 @@ name(Conservation-3, Resources-2)
 name(Service-4, Conservation-3)
 </code></pre>
 
-<p>Regular syntactic relations are used: (i) for a modifying determiner or (ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
+<p>Regular syntactic relations are used:
+(i) for a modifying determiner or
+(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
 
 <pre><code class="language-sdparse">Le Japon
 det(Japon-2, Le-1)
+</code></pre>
+
+<pre><code class="language-sdparse">Ludwig van Beethoven
+case(Beethoven, van)
+</code></pre>
+
+<pre><code class="language-sdparse">Miguel de Cervantes y Saavedra
+conj(Cervantes, Saavedra)
+cc(Cervantes, y)
+case(Cervantes, de)
 </code></pre>
 
 <pre><code class="language-sdparse">The king of Sweden
