@@ -6,7 +6,7 @@ shortdef: 'clausal modifier of noun'
 
 ## acl: clausal modifier of noun
 
-*acl* stands for finite and non-finite clauses that modify a noun, in contrast to the [u-dep/advcl](advcl) relation which is used for adverbial clauses that modify a predicate. The head of the *acl* relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.
+*acl* stands for finite and non-finite clauses that modify a noun, in contrast to the [u-dep/advcl]() relation which is used for adverbial clauses that modify a predicate. The head of the *acl* relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.
 
 ~~~ sdparse
 the issues as he sees them
