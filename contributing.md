@@ -149,8 +149,8 @@ interested in. For example, to navigate to the documentation for the
 English language `dobj` (direct object) dependency:
 
 * Start from the homepage ([http://universaldependencies.github.io/docs/](http://universaldependencies.github.io/docs/))
-* Click on the "English relations index" link (go to [http://universaldependencies.github.io/docs/en-index.html](http://universaldependencies.github.io/docs/en-index.html))
-* Click on the "dobj" link (go to [http://universaldependencies.github.io/docs/en/dobj.html](http://universaldependencies.github.io/docs/en/dobj.html))
+* Click on the "English relations index" link (go to [http://universaldependencies.github.io/docs/en/dep/index.html](http://universaldependencies.github.io/docs/en/dep/index.html))
+* Click on the "dobj" link (go to [http://universaldependencies.github.io/docs/en/dep/dobj.html](http://universaldependencies.github.io/docs/en/dep/dobj.html))
 
 Then, edit and save your changes:
 
