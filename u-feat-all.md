@@ -14,7 +14,7 @@ permalink: u/feat/all.html
 {% for p in site.u-feat %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
-<a href="{{ p.url | remove_first:'/' }}">See details</a>
+<a href="{{ p.title }}">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}

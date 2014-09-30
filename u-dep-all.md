@@ -15,7 +15,7 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014).
 {% for p in site.u-dep %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
-<a href="{{ p.url | remove_first:'/' }}">See details</a>
+<a href="{{ p.title }}">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}

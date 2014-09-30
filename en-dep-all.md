@@ -13,7 +13,7 @@ Marneffe and Manning 2008).
 {% for p in site.en-dep %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
-<a href="{{ p.url | remove_first:'/' }}">See details</a>
+<a href="{{ p.title }}">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}

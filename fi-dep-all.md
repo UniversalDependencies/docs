@@ -14,7 +14,7 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 {% for p in site.fi-dep %}
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
-<a href="{{ p.url | remove_first:'/' }}">See details</a>
+<a href="{{ p.title }}">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}
