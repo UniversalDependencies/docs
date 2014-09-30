@@ -84,3 +84,18 @@ dobj(declared, cake)
 xcomp(declared, beautiful)
 nsubj(beautiful, cake)
 ~~~
+
+Some more examples:
+
+~~~ sdparse
+She entered the room sad .
+nsubj(entered, She)
+dobj(entered, room)
+xcomp(entered, sad)
+~~~
+
+~~~ sdparse
+jmenovat někoho generálem \n to-appoint someone as-a-general
+dobj(jmenovat, někoho)
+xcomp(jmenovat, generálem)
+~~~
