@@ -21,7 +21,7 @@ It is also used for postposed elements. Right dislocated elements are frequent i
 
 ~~~ sdparse
 Il faut pas la manger, la plasticine \n must not it eat the playdough
-dobj(manger,-5, la-4)
+dobj(manger-5, la-4)
 dislocated(faut-2, plasticine-7)
 ~~~
 
