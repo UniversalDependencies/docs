@@ -42,7 +42,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 <!-- alphabetical by surname -->
 * Jinho Choi
-* Marie-Catherine de Marneffe
+* [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
 * Filip Ginter
 * Yoav Goldberg
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
@@ -51,6 +51,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
 * Slav Petrov
 * Sampo Pyysalo
+* Natalia Silveira
 * Reut Tsarfaty
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
