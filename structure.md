@@ -272,9 +272,9 @@ One major role of dependencies is to represent function, but the Universal Depen
 
 <div id="fss1" class="sd-parse">
 John talked in the movie theatre
-case(in, theatre)
-det(the, theatre)
-compound(movie, theatre)
+case(theatre, in)
+det(theatre, the)
+compound(theatre, movie)
 nmod(talked, theatre)
 </div>
 
