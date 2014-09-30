@@ -37,6 +37,24 @@ examples from Section 2 of <em><a href="http://nlp.stanford.edu/software/depende
 manual</a></em> (de
 Marneffe and Manning 2008).</p>
 
+<h2 id="acl--clausal-modifier-of-noun">acl : clausal modifier of noun</h2>
+
+<p><em>acl</em> is used for finite and non-finite clauses that modify a noun. Note that in English relative clauses get assigned a specific relation <em>relcl</em>, a subtype of <em>acl</em>.</p>
+
+<pre><code class="language-sdparse">the issues as he sees them
+acl(issues, sees)
+</code></pre>
+
+<pre><code class="language-sdparse">Points to establish are ...
+acl(Points, establish)
+</code></pre>
+
+<pre><code class="language-sdparse">I don't have anything to say to you
+acl(anything, say)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl.md" target="#">edit acl</a></p>
+
 <h2 id="advcl--adverbial-clause-modifier">advcl : adverbial clause modifier</h2>
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
 clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.</p>
@@ -559,15 +577,6 @@ predet(boys, All)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/predet.md" target="#">edit predet</a></p>
-
-<h2 id="prepc--prepositional-clausal-modifier">prepc : prepositional clausal modifier</h2>
-<p>In the collapsed representation (see section \ref{types}), a prepositional clausal modifier of a verb, adjective, or noun is a clause introduced by a preposition which  serves to modify the meaning of the verb, adjective, or noun. </p>
-
-<pre><code class="language-sdparse">He purchased it without paying a premium
-prepc_without(purchased, paying)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/prepc.md" target="#">edit prepc</a></p>
 
 <h2 id="prt--phrasal-verb-particle">prt : phrasal verb particle</h2>
 <p>The phrasal verb particle relation identifies a phrasal verb, and holds between the verb and its particle. It is a subtype of the <em>compound</em> relation.</p>
@@ -1306,6 +1315,11 @@ xsubj(eat, Tom)
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -1491,11 +1505,6 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -1585,6 +1594,21 @@ xsubj(eat, Tom)
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -1592,6 +1616,11 @@ xsubj(eat, Tom)
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -1630,7 +1659,7 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -1735,7 +1764,7 @@ xsubj(eat, Tom)
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 

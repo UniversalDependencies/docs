@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>nmod-own</title>
+    <title>nmod:own</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -34,31 +34,34 @@
 	  </div>
 	</noscript>
 
-          <h2 id="nmod-own-haver-a-namesec-omistusa">nmod-own (haver) <a name="sec-omistus"></a></h2>
+          <h2 id="nmodown-haver-a-namesec-omistusa">nmod:own: haver <a name="sec-omistus"></a></h2>
 
 <p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. </p>
 
 <!-- TODO For more information on special cases of subjects, see Section [subj-obj](#sec-subj-obj). -->
 
-<p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nmod</em>. However, as <code>nmod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nmod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
+<p>This kind of an analysis would naturally result in the <em>haver</em> being
+marked as a nominal modifier, <a href="">nmod</a>. However, as <code>nmod</code> is a very
+frequent dependency type that encodes many different meanings, the
+information that the clause is about having or owning would be
+lost. Therefore, the Finnish-specific SD scheme introduces a separate
+dependency type for nominal modifiers that encode owning, 
+nmod:own. The governor of the dependency is the verb <em>olla</em>, and
+the dependent is the haver or owner, which is required to be in the
+<em>adessive</em> case. The haver must also be an animate being or a group of
+animate beings.</p>
 
 <!-- fname:omistus.pdf -->
 <pre><code class="language-sdparse">Matilla on uusi auto . \n At_Matti is new car .
-nmod-own(on-2, Matilla-1)
+nmod:own(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, uusi-3)
 punct(on-2, .-5)
 </code></pre>
 
 
-
 <!-- "relation in other languages" links -->
 <hr/>
-
-nmod-own in other languages:
-
-[<a href="../../fi/dep/nmod-own.html">fi</a>]
-
 
 
       </div>
@@ -616,6 +619,11 @@ nmod-own in other languages:
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -801,11 +809,6 @@ nmod-own in other languages:
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -895,6 +898,21 @@ nmod-own in other languages:
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -902,6 +920,11 @@ nmod-own in other languages:
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -940,7 +963,7 @@ nmod-own in other languages:
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -1045,7 +1068,7 @@ nmod-own in other languages:
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 

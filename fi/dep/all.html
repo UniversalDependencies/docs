@@ -52,8 +52,8 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="csubj.html">csubj</a></td>
 	</tr>
 	<tr>
-	  <td><a href="nsubj-cop.html">↳nsubj-cop</a></td>
-	  <td><a href="csubj-cop.html">↳csubj-cop</a></td>
+	  <td><a href="nsubj-cop.html">↳nsubj:cop</a></td>
+	  <td><a href="csubj-cop.html">↳csubj:cop</a></td>
 	</tr>
 	<tr>
 	  <td><strike>nsubjpass</strike></td>
@@ -66,7 +66,7 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td />
-	  <td><a href="iccomp.html">↳iccomp</a></td>
+	  <td><a href="ccomp-nf.html">↳ccomp:nf</a></td>
 	  <td />
 	</tr>
 	<tr>
@@ -99,7 +99,7 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="ncmod.html">ncmod</a></td>
 	</tr>
 	<tr>
-	  <td><a href="nmod-own.html">↳nmod-own</a></td>
+	  <td><a href="nmod-own.html">↳nmod:own</a></td>
 	</tr>
       </table>
 
@@ -197,13 +197,13 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="case.html">case</a></td>
 	</tr>
 	<tr>
-	  <td><a href="poss.html">↳poss</a></td>
+	  <td><a href="case-poss.html">↳case:poss</a></td>
 	</tr>
 	<tr>
-	  <td><a href="gsubj.html">↳gsubj</a></td>
+	  <td><a href="case-gsubj.html">↳case:gsubj</a></td>
 	</tr>
 	<tr>
-	  <td><a href="gobj.html">↳gobj</a></td>
+	  <td><a href="case-gobj.html">↳case:gobj</a></td>
 	</tr>
       </table>
 
@@ -399,6 +399,65 @@ punct(tehdä-3, .-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/auxpass.md" target="#">edit auxpass</a></p>
 
+<h2 id="casegobj-genitive-object-a-namesec-gobja">case:gobj: genitive object <a name="sec-gobj"></a></h2>
+
+<p>Certain nouns, those which have been directly derived from a verb or
+otherwise have a verb counterpart, can take an object in
+Finnish. These objects closely resemble more general genitive
+modifiers <a href="">case:poss</a>.</p>
+
+<!-- fname:gobj.pdf -->
+<pre><code class="language-sdparse">Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
+case:gobj(viljely-2, Perunan-1)
+nsubj:cop(harvinaista-5, viljely-2)
+cop(harvinaista-5, oli-3)
+advmod(harvinaista-5, tuolloin-4)
+punct(harvinaista-5, .-6)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case:gobj.md" target="#">edit case:gobj</a></p>
+
+<h2 id="casegsubj-genitive-subject-a-namesec-gsubja">case:gsubj: genitive subject <a name="sec-gsubj"></a></h2>
+
+<p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This
+is in parallel to genitive objects <a href="">case:gobj</a>.
+<!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
+
+<!-- fname:gsubj.pdf -->
+<pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
+case:gsubj(särkyminen-2, maljakon-1)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case:gsubj.md" target="#">edit case:gsubj</a></p>
+
+<h2 id="caseposs-genitive-modifier-a-namesec-possa">case:poss: genitive modifier <a name="sec-poss"></a></h2>
+
+<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD
+scheme, but in TDT, it is used for genitive modifiers in general,
+which in Finnish often but not nearly always imply possession. There
+are two kinds of genitive modifiers that are not annotated using the
+general genitive modifier type: <em>the genitive object</em>, <a href="">case:gobj</a>
+and <em>the genitive subject</em>, <a href="">case:gsubj</a>.</p>
+
+<!-- fname:poss1.pdf -->
+<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
+case:poss(penaali-2, Matin-1)
+nsubj(jäi-3, penaali-2)
+nmod(jäi-3, kouluun-4)
+punct(jäi-3, .-5)
+</code></pre>
+
+<!-- fname:poss2.pdf -->
+<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
+nmod(on-2, Autossa-1)
+nsubj(on-2, moottori-5)
+punct(on-2, .-6)
+case:poss(moottori-5, litran-4)
+num(litran-4, kahden-3)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case:poss.md" target="#">edit case:poss</a></p>
+
 <h2 id="case-case-marking">case (case marking)</h2>
 
 <p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
@@ -428,6 +487,25 @@ conj(kirjat-1, viivottimet-5)
 <p><a href="cc">See details</a></p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cc.md" target="#">edit cc</a></p>
+
+<h2 id="ccompnf-non-finite-clausal-complement-a-namesec-iccompa">ccomp:nf: non-finite clausal complement <a name="sec-iccomp"></a></h2>
+
+<p>The dependency type ccomp:nf, which stands for 
+<em>non-finite clausal complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).
+It is used for clausal complements where the complement clause has a
+different subject from that of the governing clause and is infinite,
+i.e. where the verb is an infinitive or a participle.</p>
+
+<!-- TODO The differences between types of verbal dependents, such as `ccomp:nf`, are thoroughly discussed in Section [verbal](#sec-verbal). -->
+
+<!-- fname:iccomp.pdf -->
+<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
+ccomp:nf(Sain-1, itkemään-3)
+nsubj(itkemään-3, hänet-2)
+punct(Sain-1, .-4)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp:nf.md" target="#">edit ccomp:nf</a></p>
 
 <h2 id="ccomp-clausal-complement-a-namesec-ccompa">ccomp (clausal complement) <a name="sec-ccomp"></a></h2>
 
@@ -536,20 +614,23 @@ punct(punainen-3, .-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cop.md" target="#">edit cop</a></p>
 
-<h2 id="csubj-cop-clausal-copular-subject">csubj-cop (clausal copular subject)</h2>
+<h2 id="csubjcop-clausal-copular-subject">csubj:cop: clausal copular subject</h2>
 
-<p>A <em>clausal copular subject</em> (<code>csubj-cop</code>) is a clause that acts as the subject of another, copular clause. As in all copular clauses, the predicative acts as the head of the clause and hence it is also the governor of the copular subject. 
+<p>A <em>clausal copular subject</em> (csubj:cop) is a clause that acts as
+the subject of another, copular clause. As in all copular clauses, the
+predicative acts as the head of the clause and hence it is also the
+governor of the copular subject.
 <!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
 
 <!-- fname:csubj-cop.pdf -->
 <pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
-csubj-cop(hauskaa-2, käydä-3)
+csubj:cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj-cop.md" target="#">edit csubj-cop</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj:cop.md" target="#">edit csubj:cop</a></p>
 
 <h2 id="csubj-clausal-subject">csubj (clausal subject)</h2>
 
@@ -842,23 +923,32 @@ punct(sanonut-3, .-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nfincl.md" target="#">edit nfincl</a></p>
 
-<h2 id="nmod-own-haver-a-namesec-omistusa">nmod-own (haver) <a name="sec-omistus"></a></h2>
+<h2 id="nmodown-haver-a-namesec-omistusa">nmod:own: haver <a name="sec-omistus"></a></h2>
 
 <p>In Finnish, there is no equivalent for the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. </p>
 
 <!-- TODO For more information on special cases of subjects, see Section [subj-obj](#sec-subj-obj). -->
 
-<p>This kind of an analysis would naturally result in the <em>haver</em> being marked as a nominal modifier, <em>nmod</em>. However, as <code>nmod</code> is a very frequent dependency type that encodes many different meanings, the information that the clause is about having or owning would be lost. Therefore, the Finnish-specific SD scheme introduces a separate dependency type for nominal modifiers that encode owning, <code>nmod-own</code>. The governor of the dependency is the verb <em>olla</em>, and the dependent is the haver or owner, which is required to be in the <em>adessive</em> case. The haver must also be an animate being or a group of animate beings.</p>
+<p>This kind of an analysis would naturally result in the <em>haver</em> being
+marked as a nominal modifier, <a href="">nmod</a>. However, as <code>nmod</code> is a very
+frequent dependency type that encodes many different meanings, the
+information that the clause is about having or owning would be
+lost. Therefore, the Finnish-specific SD scheme introduces a separate
+dependency type for nominal modifiers that encode owning, 
+nmod:own. The governor of the dependency is the verb <em>olla</em>, and
+the dependent is the haver or owner, which is required to be in the
+<em>adessive</em> case. The haver must also be an animate being or a group of
+animate beings.</p>
 
 <!-- fname:omistus.pdf -->
 <pre><code class="language-sdparse">Matilla on uusi auto . \n At_Matti is new car .
-nmod-own(on-2, Matilla-1)
+nmod:own(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, uusi-3)
 punct(on-2, .-5)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod-own.md" target="#">edit nmod-own</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod:own.md" target="#">edit nmod:own</a></p>
 
 <h2 id="nmod-nominal-modifier-a-namesec-nmoda">nmod (nominal modifier) <a name="sec-nmod"></a></h2>
 
@@ -1860,6 +1950,11 @@ punct(alkoi-2, .-5)
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -2045,11 +2140,6 @@ punct(alkoi-2, .-5)
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -2139,6 +2229,21 @@ punct(alkoi-2, .-5)
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -2146,6 +2251,11 @@ punct(alkoi-2, .-5)
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -2184,7 +2294,7 @@ punct(alkoi-2, .-5)
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -2289,7 +2399,7 @@ punct(alkoi-2, .-5)
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 

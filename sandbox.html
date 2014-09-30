@@ -185,15 +185,18 @@ cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 </code></pre>
 
-<h2 id="csubj-cop-clausal-copular-subject">csubj-cop (clausal copular subject)</h2>
+<h2 id="csubjcop-clausal-copular-subject">csubj:cop: clausal copular subject</h2>
 
-<p>A <em>clausal copular subject</em> (<code>csubj-cop</code>) is a clause that acts as the subject of another, copular clause. As in all copular clauses, the predicative acts as the head of the clause and hence it is also the governor of the copular subject. 
+<p>A <em>clausal copular subject</em> (csubj:cop) is a clause that acts as
+the subject of another, copular clause. As in all copular clauses, the
+predicative acts as the head of the clause and hence it is also the
+governor of the copular subject.
 <!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
 
 <!-- fname:csubj-cop.pdf -->
 <pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
 cop(hauskaa-2, Oli-1)
-csubj-cop(hauskaa-2, käydä-3)
+csubj:cop(hauskaa-2, käydä-3)
 nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 </code></pre>
@@ -215,6 +218,59 @@ punct(kuiva-4, .-5)
 </code></pre>
 
 <h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
+
+<h2 id="casegobj-genitive-object-a-namesec-gobja">case:gobj: genitive object <a name="sec-gobj"></a></h2>
+
+<p>Certain nouns, those which have been directly derived from a verb or
+otherwise have a verb counterpart, can take an object in
+Finnish. These objects closely resemble more general genitive
+modifiers <a href="">case:poss</a>.</p>
+
+<!-- fname:gobj.pdf -->
+<pre><code class="language-sdparse">Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
+case:gobj(viljely-2, Perunan-1)
+nsubj:cop(harvinaista-5, viljely-2)
+cop(harvinaista-5, oli-3)
+advmod(harvinaista-5, tuolloin-4)
+punct(harvinaista-5, .-6)
+</code></pre>
+
+<h2 id="casegsubj-genitive-subject-a-namesec-gsubja">case:gsubj: genitive subject <a name="sec-gsubj"></a></h2>
+
+<p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This
+is in parallel to genitive objects <a href="">case:gobj</a>.
+<!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
+
+<!-- fname:gsubj.pdf -->
+<pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
+case:gsubj(särkyminen-2, maljakon-1)
+</code></pre>
+
+<h2 id="caseposs-genitive-modifier-a-namesec-possa">case:poss: genitive modifier <a name="sec-poss"></a></h2>
+
+<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD
+scheme, but in TDT, it is used for genitive modifiers in general,
+which in Finnish often but not nearly always imply possession. There
+are two kinds of genitive modifiers that are not annotated using the
+general genitive modifier type: <em>the genitive object</em>, <a href="">case:gobj</a>
+and <em>the genitive subject</em>, <a href="">case:gsubj</a>.</p>
+
+<!-- fname:poss1.pdf -->
+<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
+case:poss(penaali-2, Matin-1)
+nsubj(jäi-3, penaali-2)
+nmod(jäi-3, kouluun-4)
+punct(jäi-3, .-5)
+</code></pre>
+
+<!-- fname:poss2.pdf -->
+<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
+nmod(on-2, Autossa-1)
+nsubj(on-2, moottori-5)
+punct(on-2, .-6)
+case:poss(moottori-5, litran-4)
+num(litran-4, kahden-3)
+</code></pre>
 
 <h2 id="case-case-marking">case (case marking)</h2>
 
@@ -833,6 +889,11 @@ num(litran-4, kahden-3)
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -1018,11 +1079,6 @@ num(litran-4, kahden-3)
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -1112,6 +1168,21 @@ num(litran-4, kahden-3)
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -1119,6 +1190,11 @@ num(litran-4, kahden-3)
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -1157,7 +1233,7 @@ num(litran-4, kahden-3)
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -1262,7 +1338,7 @@ num(litran-4, kahden-3)
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 

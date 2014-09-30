@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>prepc</title>
+    <title>acl</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/prepc.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,22 +34,26 @@
 	  </div>
 	</noscript>
 
-          <h2 id="prepc--prepositional-clausal-modifier">prepc : prepositional clausal modifier</h2>
-<p>In the collapsed representation (see section \ref{types}), a prepositional clausal modifier of a verb, adjective, or noun is a clause introduced by a preposition which  serves to modify the meaning of the verb, adjective, or noun. </p>
+          <h2 id="acl--clausal-modifier-of-noun">acl : clausal modifier of noun</h2>
 
-<pre><code class="language-sdparse">He purchased it without paying a premium
-prepc_without(purchased, paying)
+<p><em>acl</em> is used for finite and non-finite clauses that modify a noun. Note that in English relative clauses get assigned a specific relation <em>relcl</em>, a subtype of <em>acl</em>.</p>
+
+<pre><code class="language-sdparse">the issues as he sees them
+acl(issues, sees)
+</code></pre>
+
+<pre><code class="language-sdparse">Points to establish are ...
+acl(Points, establish)
+</code></pre>
+
+<pre><code class="language-sdparse">I don't have anything to say to you
+acl(anything, say)
 </code></pre>
 
 
 
 <!-- "relation in other languages" links -->
 <hr/>
-
-prepc in other languages:
-
-[<a href="../../en/dep/prepc.html">en</a>]
-
 
 
       </div>
@@ -607,6 +611,11 @@ prepc in other languages:
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -792,11 +801,6 @@ prepc in other languages:
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -886,6 +890,21 @@ prepc in other languages:
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -893,6 +912,11 @@ prepc in other languages:
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -931,7 +955,7 @@ prepc in other languages:
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -1036,7 +1060,7 @@ prepc in other languages:
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 

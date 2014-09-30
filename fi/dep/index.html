@@ -52,8 +52,8 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="csubj.html">csubj</a></td>
 	</tr>
 	<tr>
-	  <td><a href="nsubj-cop.html">↳nsubj-cop</a></td>
-	  <td><a href="csubj-cop.html">↳csubj-cop</a></td>
+	  <td><a href="nsubj-cop.html">↳nsubj:cop</a></td>
+	  <td><a href="csubj-cop.html">↳csubj:cop</a></td>
 	</tr>
 	<tr>
 	  <td><strike>nsubjpass</strike></td>
@@ -66,7 +66,7 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td />
-	  <td><a href="iccomp.html">↳iccomp</a></td>
+	  <td><a href="ccomp-nf.html">↳ccomp:nf</a></td>
 	  <td />
 	</tr>
 	<tr>
@@ -99,7 +99,7 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="ncmod.html">ncmod</a></td>
 	</tr>
 	<tr>
-	  <td><a href="nmod-own.html">↳nmod-own</a></td>
+	  <td><a href="nmod-own.html">↳nmod:own</a></td>
 	</tr>
       </table>
 
@@ -197,13 +197,13 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="case.html">case</a></td>
 	</tr>
 	<tr>
-	  <td><a href="poss.html">↳poss</a></td>
+	  <td><a href="case-poss.html">↳case:poss</a></td>
 	</tr>
 	<tr>
-	  <td><a href="gsubj.html">↳gsubj</a></td>
+	  <td><a href="case-gsubj.html">↳case:gsubj</a></td>
 	</tr>
 	<tr>
-	  <td><a href="gobj.html">↳gobj</a></td>
+	  <td><a href="case-gobj.html">↳case:gobj</a></td>
 	</tr>
       </table>
 
@@ -262,9 +262,17 @@ and <i>punct</i> appear in two places.</p>
 
   <li><a>fi-dep/auxpass</a>: passive auxiliary</li>
 
+  <li><a>fi-dep/case:gobj</a>: genitive object</li>
+
+  <li><a>fi-dep/case:gsubj</a>: genitive subject</li>
+
+  <li><a>fi-dep/case:poss</a>: genitive modifier</li>
+
   <li><a>fi-dep/case</a>: case marking</li>
 
   <li><a>fi-dep/cc</a>: coordinating conjunction</li>
+
+  <li><a>fi-dep/ccomp:nf</a>: non-finite clausal complement</li>
 
   <li><a>fi-dep/ccomp</a>: clausal complement</li>
 
@@ -280,7 +288,7 @@ and <i>punct</i> appear in two places.</p>
 
   <li><a>fi-dep/cop</a>: copula</li>
 
-  <li><a>fi-dep/csubj-cop</a>: clausal copular subject</li>
+  <li><a>fi-dep/csubj:cop</a>: clausal copular subject</li>
 
   <li><a>fi-dep/csubj</a>: clausal subject</li>
 
@@ -322,7 +330,7 @@ and <i>punct</i> appear in two places.</p>
 
   <li><a>fi-dep/nfincl</a>: nfincl</li>
 
-  <li><a>fi-dep/nmod-own</a>: haver</li>
+  <li><a>fi-dep/nmod:own</a>: haver</li>
 
   <li><a>fi-dep/nmod</a>: nominal modifier</li>
 
@@ -926,6 +934,11 @@ and <i>punct</i> appear in two places.</p>
         "en-dep": [
 
             {
+                "title": "acl",
+                "url":   "/docs/en/dep/acl.html",
+            },
+
+            {
                 "title": "advcl",
                 "url":   "/docs/en/dep/advcl.html",
             },
@@ -1111,11 +1124,6 @@ and <i>punct</i> appear in two places.</p>
             },
 
             {
-                "title": "prepc",
-                "url":   "/docs/en/dep/prepc.html",
-            },
-
-            {
                 "title": "prt",
                 "url":   "/docs/en/dep/prt.html",
             },
@@ -1205,6 +1213,21 @@ and <i>punct</i> appear in two places.</p>
             },
 
             {
+                "title": "case:gobj",
+                "url":   "/docs/fi/dep/case-gobj.html",
+            },
+
+            {
+                "title": "case:gsubj",
+                "url":   "/docs/fi/dep/case-gsubj.html",
+            },
+
+            {
+                "title": "case:poss",
+                "url":   "/docs/fi/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/fi/dep/case.html",
             },
@@ -1212,6 +1235,11 @@ and <i>punct</i> appear in two places.</p>
             {
                 "title": "cc",
                 "url":   "/docs/fi/dep/cc.html",
+            },
+
+            {
+                "title": "ccomp:nf",
+                "url":   "/docs/fi/dep/ccomp-nf.html",
             },
 
             {
@@ -1250,7 +1278,7 @@ and <i>punct</i> appear in two places.</p>
             },
 
             {
-                "title": "csubj-cop",
+                "title": "csubj:cop",
                 "url":   "/docs/fi/dep/csubj-cop.html",
             },
 
@@ -1355,7 +1383,7 @@ and <i>punct</i> appear in two places.</p>
             },
 
             {
-                "title": "nmod-own",
+                "title": "nmod:own",
                 "url":   "/docs/fi/dep/nmod-own.html",
             },
 
