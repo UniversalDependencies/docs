@@ -6,8 +6,8 @@ shortdef : 'non-finite clausal complement'
 
 ## {{ page.title }}: {{ page.shortdef }} <a name="sec-iccomp"></a>
 
-The dependency type {{ page.title }}, which stands for *{{
-page.shortdef }}*, is a subtype of [ccomp]() (*clausal complement*).
+The dependency type {{ page.title }}, which stands for 
+*{{ page.shortdef }}*, is a subtype of [ccomp]() (*clausal complement*).
 It is used for clausal complements where the complement clause has a
 different subject from that of the governing clause and is infinite,
 i.e. where the verb is an infinitive or a participle.
