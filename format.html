@@ -147,7 +147,7 @@ Tokens that are not words have an underscore in the CPOSTAG, POSTAG and FEATS fi
 
 <h1 id="syntactic-annotation">Syntactic Annotation</h1>
 
-<p>The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a <a href="u/dep/index.html">universal Stanford dependency relation</a> or a language-specific subtype of such a relation (defined in <a href="http://universaldependencies.github.io/docs/relations.html">the language-specific documentation</a>). 
+<p>The HEAD and DEPREL fields are used to encode a dependency tree over words. The DEPREL value should be a <a href="u/dep/index.html">universal Stanford dependency relation</a> or a language-specific subtype of such a relation (defined in the language-specific documentation). 
 As in the case of morphology, syntactic annotation is only provided for words.
 Tokens that are not words have an underscore in both the HEAD and DEPREL fields. However, the script that extracts the token sequence optionally provides a heuristic mapping of the morphological and syntactic annotation to non-word tokens. For example, given the following annotation of the English sentence <em>I haven’t a clue</em>:</p>
 
