@@ -9,7 +9,7 @@ shortdef: 'marker'
 A marker is the word introducing a finite clause subordinate to
 another clause. For a [complement clause](ccomp), this will typically be _that_
 or _whether._ For an [adverbial clause](advcl), the marker is typically a
-[subordinating conjunction](../ud-pos/SCONJ) like _while_ or _although._ The mark is a dependent of the
+[subordinating conjunction](../u/pos/SCONJ) like _while_ or _although._ The mark is a dependent of the
 subordinate clause head.
 
 ~~~ sdparse
