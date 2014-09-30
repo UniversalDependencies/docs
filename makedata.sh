@@ -23,7 +23,10 @@ mkdir $DATA_DIRECTORY
 
 # generate YAML with relations and collections
 for r in $RELATIONS; do 
-    echo "- label: '$r'"
+    # special case for labels that are not allowed as filenames (see
+    # https://github.com/UniversalDependencies/docs/issues/20)
+    e=`echo "$r" | perl -pe 's/^_//; s/_$//'`
+    echo "- label: '$e'"
     # (not really "languages", but close enough here)
     echo "  languages:"
     for l in $COLLECTIONS; do

@@ -21,7 +21,7 @@
   - label: 'en/dep'
   - label: 'fi/dep'
   - label: 'u/dep'
-- label: 'aux_'
+- label: 'aux'
   languages:
   - label: 'en/dep'
   - label: 'fi/dep'
