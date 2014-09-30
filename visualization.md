@@ -37,7 +37,7 @@ See the [links below](#more-information) for more information.
 ## How to contribute
 
 See [here](contributing.html) for instructions on how to contribute to
-this online documentation. [This page](embedsd.html) provides details
+this online documentation. See below for details
 on how the visualized examples are created.
 
 ## More information:
