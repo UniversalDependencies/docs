@@ -446,11 +446,11 @@ poss(Chair-2, 's-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
 
-<h2 id="npadvmod--noun-phrase-as-adverbial-modifier">npadvmod : noun phrase as adverbial modifier</h2>
+<h2 id="npmod--noun-phrase-as-adverbial-modifier">npmod : noun phrase as adverbial modifier</h2>
 
-<p>This relation is a subtype of the <em>nmod</em> relation, which captures the following places where something syntactically a noun phrase (NP) is used as an adverbial modifier in a sentence: (i) a measure phrase, which is the relation between the head of an ADJP/ADVP/PP and the head of a measure phrase modifying the ADJP/ADVP; (ii) noun phrases giving an extent inside a VP which are not objects; (iii) financial constructions involving an adverbial or PP-like NP, notably the following construction <em>$5 a share</em>, where the second NP means “per share”; (iv) floating reflexives; and (v) certain other absolutive NP constructions.</p>
+<p>This relation is a subtype of the <em>nmod</em> relation, which captures the following cases where something syntactically a noun phrase is used as an adverbial modifier in a sentence:</p>
 
-<p>A temporal modifier (tmod) is a subclass of <em>npmod</em> which is distinguished as a separate relation. </p>
+<p>(i) a measure phrase, which is the relation between the head of an adjectival/adverbial or prepositional phrase and the head of a measure phrase modifying it:</p>
 
 <pre><code class="language-sdparse">The director is 65 years old
 npmod(old, years)
@@ -460,17 +460,27 @@ npmod(old, years)
 npmod(long, feet)
 </code></pre>
 
+<p>(ii) noun phrases giving an extent to a verb, which are not objects:</p>
+
 <pre><code class="language-sdparse">Shares eased a fraction
 npmod(eased, fraction)
 </code></pre>
+
+<p>(iii) financial constructions involving an adverbial, notably the following construction <em>$5 a share</em>, where the second NP means “per share”:</p>
 
 <pre><code class="language-sdparse">IBM earned $ 5 a share
 npmod($, share)
 </code></pre>
 
+<p>(iv) floating reflexives</p>
+
 <pre><code class="language-sdparse">The silence is itself significant
 npmod(significant, itself)
 </code></pre>
+
+<p>and (v) certain other absolutive NP constructions.</p>
+
+<p>A temporal modifier (tmod) is a subclass of <em>npmod</em> which is distinguished as a separate relation. </p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/npmod.md" target="#">edit npmod</a></p>
 
