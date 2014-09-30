@@ -36,8 +36,9 @@ I consider him honest
 xcomp(consider, honest)
 ~~~
 
-Note that the above condition “without its own subject” only expresses that the subject is inherited from a higher clause.
-It does not mean that a clause is `xcomp` just because its subject is not _overt._
+Note that the above condition “without its own subject” does not mean that a 
+clause is `xcomp` just because its subject is not _overt._ The subject must be inherited from a higher clause, that is, there should be no available interpretation where the subject of the lower clause may be distinct
+from the subject of the upper clause.
 Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
