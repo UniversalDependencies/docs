@@ -35,9 +35,7 @@ acl(model, naked)
 ~~~
 
 A relative clause is an instance of `acl`, characterized by finiteness and a trace of 
-the modified noun in the embedded clause . As with acl, the relation points from
-the noun that is modified to the head of the relative clause, normally
-a verb.
+the modified noun in the embedded clause.
 
 ~~~ sdparse
 I saw the man you love
