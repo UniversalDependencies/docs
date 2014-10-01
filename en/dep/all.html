@@ -37,7 +37,7 @@ examples from Section 2 of <em><a href="http://nlp.stanford.edu/software/depende
 manual</a></em> (de
 Marneffe and Manning 2008).</p>
 
-<h2 id="aclrelcl-relative-clause-modifier">acl:relcl: relative clause modifier</h2>
+<h2 id="aclrelcl-relative-clause-modifier"><code>acl:relcl</code>: relative clause modifier</h2>
 
 <p>A relative clause modifier of an noun is a relative clause modifying
 the noun.  The relation points from the noun that is modified to the
@@ -53,9 +53,11 @@ acl:relcl(book, bought)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl:relcl.md" target="#">edit acl:relcl</a></p>
 
-<h2 id="acl--clausal-modifier-of-noun">acl : clausal modifier of noun</h2>
+<h2 id="acl-clausal-modifier-of-noun"><code>acl</code>: clausal modifier of noun</h2>
 
-<p><em>acl</em> is used for finite and non-finite clauses that modify a noun. Note that in English relative clauses get assigned a specific relation <em>relcl</em>, a subtype of <em>acl</em>.</p>
+<p><code>acl</code> is used for finite and non-finite clauses that modify a
+noun. Note that in English relative clauses get assigned a specific
+relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
 
 <pre><code class="language-sdparse">the issues as he sees them
 acl(issues, sees)
@@ -71,9 +73,10 @@ acl(anything, say)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl.md" target="#">edit acl</a></p>
 
-<h2 id="advcl--adverbial-clause-modifier">advcl : adverbial clause modifier</h2>
+<h2 id="advcl-adverbial-clause-modifier"><code>advcl</code>: adverbial clause modifier</h2>
+
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
-clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.</p>
+clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
 
 <pre><code class="language-sdparse">The accident happened as the night was falling
 advcl(happened, falling)
@@ -93,7 +96,8 @@ advcl(upset, talked)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/advcl.md" target="#">edit advcl</a></p>
 
-<h2 id="advmod--adverbial-modifier">advmod : adverbial modifier</h2>
+<h2 id="advmod-adverbial-modifier"><code>advmod</code>: adverbial modifier</h2>
+
 <p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word. </p>
 
 <pre><code class="language-sdparse">Genetically modified food
@@ -106,7 +110,8 @@ advmod(often, less)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/advmod.md" target="#">edit advmod</a></p>
 
-<h2 id="amod--adjectival-modifier">amod : adjectival modifier</h2>
+<h2 id="amod-adjectival-modifier"><code>amod</code>: adjectival modifier</h2>
+
 <p>An adjectival modifier of an NP is any adjectival phrase that serves to modify the meaning of the NP. </p>
 
 <pre><code class="language-sdparse">Sam eats red meat
@@ -123,7 +128,8 @@ amod(loan, $)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/amod.md" target="#">edit amod</a></p>
 
-<h2 id="appos--appositional-modifier">appos : appositional modifier</h2>
+<h2 id="appos-appositional-modifier"><code>appos</code>: appositional modifier</h2>
+
 <p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. </p>
 
 <pre><code class="language-sdparse">Sam , my brother , arrived
@@ -140,8 +146,11 @@ appos(Corporation-4, ABC-6)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/appos.md" target="#">edit appos</a></p>
 
-<h2 id="aux--auxiliary">aux : auxiliary</h2>
-<p>An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of “be”, “do” or “have” in a periphrastic tense. </p>
+<h2 id="aux-auxiliary"><code>aux</code>: auxiliary</h2>
+
+<p>An auxiliary of a clause is a non-main verb of the clause, e.g., a
+modal auxiliary, or a form of <em>be</em>, <em>do</em> or <em>have</em> in a periphrastic
+tense.</p>
 
 <pre><code class="language-sdparse">Reagan has died
 aux(died-3, has-2)
@@ -153,8 +162,10 @@ aux(leave-3, should-2)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/aux.md" target="#">edit aux</a></p>
 
-<h2 id="auxpass--passive-auxiliary">auxpass : passive auxiliary</h2>
-<p>A passive auxiliary of a clause is a non-main verb of the clause which contains the passive information. </p>
+<h2 id="auxpass-passive-auxiliary"><code>auxpass</code>: passive auxiliary</h2>
+
+<p>A passive auxiliary of a clause is a non-main verb of the clause which
+contains the passive information.</p>
 
 <pre><code class="language-sdparse">Kennedy has been killed
 auxpass(killed, been)
@@ -170,7 +181,7 @@ auxpass(killed, got)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/auxpass.md" target="#">edit auxpass</a></p>
 
-<h2 id="caseposs-possessive-modifier">case:poss: possessive modifier</h2>
+<h2 id="caseposs-possessive-modifier"><code>case:poss</code>: possessive modifier</h2>
 
 <p>The possessive modifier relation is a subtype of the <a href="">case</a>
 relation. It holds between a noun and the genitive <em>’s</em> modifying it.</p>
@@ -182,9 +193,9 @@ nmod(clothes-3, Bill-1)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/case:poss.md" target="#">edit case:poss</a></p>
 
-<h2 id="case--case-marking">case : case marking</h2>
+<h2 id="case-case-marking"><code>case</code>: case marking</h2>
 
-<p>The <em>case</em> relation is used for any preposition. Prepositions are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The <em>case</em> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+<p>The <code>case</code> relation is used for any preposition. Prepositions are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <pre><code class="language-sdparse">I saw a cat in a hat
 prep(cat, in)
@@ -200,7 +211,7 @@ prep(responsible, for)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/case.md" target="#">edit case</a></p>
 
-<h2 id="ccpreconj-preconjunct">cc:preconj: preconjunct</h2>
+<h2 id="ccpreconj-preconjunct"><code>cc:preconj</code>: preconjunct</h2>
 
 <p>A preconjunct is the relation between the head of an NP and a word
 that appears at the beginning bracketing a conjunction (and puts
@@ -212,8 +223,9 @@ cc:preconj(boys, Both)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc:preconj.md" target="#">edit cc:preconj</a></p>
 
-<h2 id="cc--coordination">cc : coordination</h2>
-<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a cc, and dependent on the root predicate of the sentence. </p>
+<h2 id="cc-coordination"><code>cc</code>: coordination</h2>
+
+<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence. </p>
 
 <pre><code class="language-sdparse">And then we left .
 cc(left, And)
@@ -221,8 +233,9 @@ cc(left, And)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc.md" target="#">edit cc</a></p>
 
-<h2 id="ccomp--clausal-complement">ccomp : clausal complement</h2>
-<p>A clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb, or adjective.  Clausal complements for nouns are limited to complement clauses with a subset of nouns like “fact” or “report”.  We analyze them the same (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant English subjunctives). </p>
+<h2 id="ccomp-clausal-complement"><code>ccomp</code>: clausal complement</h2>
+
+<p>A clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb, or adjective.  Clausal complements for nouns are limited to complement clauses with a subset of nouns like <em>fact</em> or <em>report</em>.  We analyze them the same (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant English subjunctives). </p>
 
 <pre><code class="language-sdparse">He says that you like to swim
 ccomp(says, like)
@@ -230,7 +243,7 @@ ccomp(says, like)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/ccomp.md" target="#">edit ccomp</a></p>
 
-<h2 id="compoundprt-phrasal-verb-particle">compound:prt: phrasal verb particle</h2>
+<h2 id="compoundprt-phrasal-verb-particle"><code>compound:prt</code>: phrasal verb particle</h2>
 
 <p>The phrasal verb particle relation identifies a phrasal verb, and
 holds between the verb and its particle. It is a subtype of the
@@ -242,7 +255,7 @@ compound:prt(shut, down)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound:prt.md" target="#">edit compound:prt</a></p>
 
-<h2 id="compound">compound</h2>
+<h2 id="compound-compound"><code>compound</code>: compound</h2>
 
 <p><em>compound</em> is used for </p>
 
@@ -272,8 +285,12 @@ compound(billion, 3.2)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound.md" target="#">edit compound</a></p>
 
-<h2 id="conj--conjunct">conj : conjunct</h2>
-<p>A conjunct is the relation between two elements connected by a coordinating conjunction, such as “and”, “or”, etc.  We treat conjunctions asymmetrically: The head of the relation is the first conjunct and other conjunctions depend on it via the <em>conj</em> relation. </p>
+<h2 id="conj-conjunct"><code>conj</code>: conjunct</h2>
+
+<p>A conjunct is the relation between two elements connected by a
+coordinating conjunction, such as <em>and</em>, <em>or</em>, etc.  We treat
+conjunctions asymmetrically: The head of the relation is the first
+conjunct and other conjunctions depend on it via the <code>conj</code> relation.</p>
 
 <pre><code class="language-sdparse">Bill is big and honest
 conj(big, honest)
@@ -281,8 +298,11 @@ conj(big, honest)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/conj.md" target="#">edit conj</a></p>
 
-<h2 id="cop--copula">cop : copula</h2>
-<p>A copula is the relation between the complement of a copular verb and the copular verb.  (We normally take a copula as a dependent of its complement; see the discussion in section \ref{types}.)  </p>
+<h2 id="cop-copula"><code>cop</code>: copula</h2>
+
+<p>A copula is the relation between the complement of a copular verb and
+the copular verb.  (We normally take a copula as a dependent of its
+complement; see the discussion in section \ref{types}.)</p>
 
 <pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
@@ -290,8 +310,9 @@ cop(man, is)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cop.md" target="#">edit cop</a></p>
 
-<h2 id="csubj--clausal-subject">csubj : clausal subject</h2>
-<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. In the two following examples, “what she said” is the subject. </p>
+<h2 id="csubj-clausal-subject"><code>csubj</code>: clausal subject</h2>
+
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. In the two following examples, <em>what she said</em> is the subject. </p>
 
 <pre><code class="language-sdparse">What she said makes sense
 csubj(makes, said)
@@ -299,8 +320,10 @@ csubj(makes, said)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/csubj.md" target="#">edit csubj</a></p>
 
-<h2 id="csubjpass--clausal-passive-subject">csubjpass : clausal passive subject</h2>
-<p>A clausal passive subject is a clausal syntactic subject of a passive clause. In the example below, “that she lied” is the subject. </p>
+<h2 id="csubjpass-clausal-passive-subject"><code>csubjpass</code>: clausal passive subject</h2>
+
+<p>A clausal passive subject is a clausal syntactic subject of a passive
+clause. In the example below, <em>that she lied</em> is the subject.</p>
 
 <pre><code class="language-sdparse">That she lied was suspected by everyone
 csubjpass(suspected, lied)
@@ -308,8 +331,13 @@ csubjpass(suspected, lied)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
-<h2 id="dep--dependent">dep : dependent</h2>
-<p>A dependency is labeled as <em>dep</em> when the system is unable to determine a more precise dependency relation between two words.  This may be because of a weird grammatical construction, a limitation in the Stanford Dependency conversion software, a parser error, or because of an unresolved long distance dependency. </p>
+<h2 id="dep-dependent"><code>dep</code>: dependent</h2>
+
+<p>A dependency is labeled as <code>dep</code> when a system is unable to determine
+a more precise dependency relation between two words.  This may be
+because of a weird grammatical construction, a limitation in the
+Stanford Dependency conversion software, a parser error, or because of
+an unresolved long distance dependency.</p>
 
 <pre><code class="language-sdparse">Then , as if to show that he could , ...
 dep(show, if)
@@ -317,7 +345,7 @@ dep(show, if)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/dep.md" target="#">edit dep</a></p>
 
-<h2 id="detpredet-predeterminer">det:predet: predeterminer</h2>
+<h2 id="detpredet-predeterminer"><code>det:predet</code>: predeterminer</h2>
 
 <p>A predeterminer is the relation between the head of an NP and a word
 that precedes and modifies the meaning of the NP determiner.</p>
@@ -328,7 +356,8 @@ det:predet(boys, All)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det:predet.md" target="#">edit det:predet</a></p>
 
-<h2 id="det--determiner">det : determiner</h2>
+<h2 id="det-determiner"><code>det</code>: determiner</h2>
+
 <p>A determiner is the relation between the head of an NP and its determiner. </p>
 
 <pre><code class="language-sdparse">The man is here
@@ -341,7 +370,8 @@ det(book, Which)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det.md" target="#">edit det</a></p>
 
-<h2 id="discourse--discourse-element">discourse : discourse element</h2>
+<h2 id="discourse-discourse-element"><code>discourse</code>: discourse element</h2>
+
 <p>This is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way). We generally follow the guidelines of what the Penn Treebanks count as an INTJ.  They define this to include: interjections (<em>oh</em>, <em>uh-huh</em>, <em>Welcome</em>), fillers (<em>um</em>, <em>ah</em>), and discourse markers (<em>well</em>, <em>like</em>, <em>actually</em>, but not <em>you know</em>). </p>
 
 <pre><code class="language-sdparse">Iguazu is in Argentina :)
@@ -350,15 +380,18 @@ discourse(is-2, :)-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/discourse.md" target="#">edit discourse</a></p>
 
-<h2 id="dislocated--dislocated-elements">dislocated : dislocated elements</h2>
+<h2 id="dislocated-dislocated-elements"><code>dislocated</code>: dislocated elements</h2>
 
-<p>The dislocated relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence.</p>
+<p>The <code>dislocated</code> relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence.</p>
 
-<p>[Example?]</p>
+<p>[TODO: Example?]</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/dislocated.md" target="#">edit dislocated</a></p>
 
-<h2 id="dobj--direct-object">dobj : direct object</h2>
+<h2 id="dobj-direct-object"><code>dobj</code>: direct object</h2>
+
 <p>The direct object of a VP is the noun phrase which is the (accusative) object of the verb. </p>
 
 <pre><code class="language-sdparse">She gave me a raise
@@ -367,8 +400,9 @@ dobj(gave, raise)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/dobj.md" target="#">edit dobj</a></p>
 
-<h2 id="expl--expletive">expl : expletive</h2>
-<p>This relation captures an existential “there”. The main verb of the clause is the governor. </p>
+<h2 id="expl-expletive"><code>expl</code>: expletive</h2>
+
+<p>This relation captures an existential <em>there</em>. The main verb of the clause is the governor. </p>
 
 <pre><code class="language-sdparse">There is a ghost in the room
 expl(is, There)
@@ -376,9 +410,9 @@ expl(is, There)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/expl.md" target="#">edit expl</a></p>
 
-<h2 id="foreign-foreign-words">foreign: foreign words</h2>
+<h2 id="foreign-foreign-words"><code>foreign</code>: foreign words</h2>
 
-<p>We use <em>foreign</em> to label sequences of foreign words. These are given
+<p>We use <code>foreign</code> to label sequences of foreign words. These are given
 a linear analysis: the head is the first token in the foreign phrase.</p>
 
 <pre><code class="language-sdparse">I guess that c' est la vie
@@ -392,8 +426,12 @@ foreign(c'-4, vie-7)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/foreign.md" target="#">edit foreign</a></p>
 
-<h2 id="goeswith--goes-with">goeswith : goes with</h2>
-<p>This relation links two parts of a word that are separated in text that is not well edited. We follow the treebank: The GW part is the dependent and the head is in some sense the “main” part, often the second part. </p>
+<h2 id="goeswith-goes-with"><code>goeswith</code>: goes with</h2>
+
+<p>This relation links two parts of a word that are separated in text
+that is not well edited. We follow the treebank: The GW part is the
+dependent and the head is in some sense the <em>main</em> part, often the
+second part.</p>
 
 <pre><code class="language-sdparse">They come here with out legal permission
 goeswith(out-5, with-4)
@@ -401,8 +439,10 @@ goeswith(out-5, with-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/goeswith.md" target="#">edit goeswith</a></p>
 
-<h2 id="iobj--indirect-object">iobj : indirect object</h2>
-<p>The indirect object of a VP is the noun phrase which is the (dative) object of the verb. </p>
+<h2 id="iobj-indirect-object"><code>iobj</code>: indirect object</h2>
+
+<p>The indirect object of a VP is the noun phrase which is the (dative)
+object of the verb.</p>
 
 <pre><code class="language-sdparse">She gave me a raise
 iobj(gave, me)
@@ -410,9 +450,9 @@ iobj(gave, me)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/iobj.md" target="#">edit iobj</a></p>
 
-<h2 id="list-list">list: list</h2>
+<h2 id="list-list"><code>list</code>: list</h2>
 
-<p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <em>appos</em>.</p>
+<p>The <code>list</code> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <code>list</code>; the key-value pair relations are labeled as <a href="">appos</a>.</p>
 
 <p>In lists with more than two items, all items of the list shoud modify the first one.</p>
 
@@ -426,8 +466,9 @@ appos(Email:-5, jones@abc.edf-6)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/list.md" target="#">edit list</a></p>
 
-<h2 id="mark--marker">mark : marker</h2>
-<p>A marker is the word introducing a finite clause subordinate to another clause. For a complement clause, this will typically be “that” or “whether”. For an adverbial clause, the marker is typically a preposition like “while” or “although”. The mark is a dependent of the subordinate clause head. </p>
+<h2 id="mark-marker"><code>mark</code>: marker</h2>
+
+<p>A marker is the word introducing a finite clause subordinate to another clause. For a complement clause, this will typically be <em>that</em> or <em>whether</em>. For an adverbial clause, the marker is typically a preposition like <em>while</em> or <em>although</em>. The mark is a dependent of the subordinate clause head. </p>
 
 <pre><code class="language-sdparse">Forces engaged in fighting after insurgents attacked
 mark(attacked, after)
@@ -439,7 +480,8 @@ mark(swim, that)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/mark.md" target="#">edit mark</a></p>
 
-<h2 id="mwe--multi-word-expression">mwe : multi-word expression</h2>
+<h2 id="mwe-multi-word-expression"><code>mwe</code>: multi-word expression</h2>
+
 <p>The multi-word expression (modifier) relation is used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
 
 <p>At present, this relation is used inside the following expressions: <em>rather than, as well as, instead of, such as, because of, instead of, in addition to, all but, such as, because of, instead of, due to</em>. </p>
@@ -452,22 +494,29 @@ mwe(well, as)
 mwe(of, because)
 </code></pre>
 
-<p>Multiword expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the <em>mwe</em> label.</p>
+<p>Multiword expressions are annotated in a flat, head-initial structure,
+in which all words in the expression modify the first one using the
+<code>mwe</code> label.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/mwe.md" target="#">edit mwe</a></p>
 
-<h2 id="name">name</h2>
+<h2 id="name-name"><code>name</code>: name</h2>
 
-<p><em>name</em> is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used between the words of “Hillary Rodham Clinton”, “New York”, or “Carl XVI Gustaf” but not to replace the usual relations in a phrasal or clausal name like “The king of Sweden” or the novels “The Lord of the Rings” and “Captured By Aliens”. Words joined by <em>name</em> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with <em>compound</em>, except that in many cases parts of the name may be another nominal elelment such as an adjective (“United Airlines”).</p>
+<p><code>name</code> is used for proper nouns constituted of multiple nominal elements. For example, <code>name</code> would be used between the words of <em>Hillary Rodham Clinton</em>, <em>New York</em>, or <em>Carl XVI Gustaf</em> but not to replace the usual relations in a phrasal or clausal name like <em>The king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By Aliens</em>. Words joined by <code>name</code> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with <em>compound</em>, except that in many cases parts of the name may be another nominal elelment such as an adjective (<em>United Airlines</em>).</p>
 
-<p>In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <em>name</em> label.</p>
+<p>In general, names are annotated in a flat, head-initial structure, in
+which all words in the name modify the first one using the <code>name</code>
+label.</p>
 
 <pre><code class="language-sdparse">Carl XVI Gustaf
 name(Carl-1, Gustaf-3)
 name(Carl-1, XVI-2)
 </code></pre>
 
-<p>This is certainly the case for person names and foreign person or place names. For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding in <em>compound</em>.</p>
+<p>This is certainly the case for person names and foreign person or
+place names. For organization names with clear syntactic modification
+structure, the dependencies should reflect the semantics, as for noun
+compounding in <code>compound</code>.</p>
 
 <pre><code class="language-sdparse">Natural Resources Conservation Service
 name(Resources-2, Natural-1)
@@ -477,7 +526,8 @@ name(Service-4, Conservation-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/name.md" target="#">edit name</a></p>
 
-<h2 id="neg--negation-modifier">neg : negation modifier</h2>
+<h2 id="neg-negation-modifier"><code>neg</code>: negation modifier</h2>
+
 <p>The negation modifier is the relation between a negation word and the word it modifies. </p>
 
 <pre><code class="language-sdparse">Bill is not a scientist
@@ -490,7 +540,7 @@ neg(drive, n't)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
 
-<h2 id="nmodnpmod--noun-phrase-as-adverbial-modifier">nmod:npmod : noun phrase as adverbial modifier</h2>
+<h2 id="nmodnpmod-noun-phrase-as-adverbial-modifier"><code>nmod:npmod</code>: noun phrase as adverbial modifier</h2>
 
 <p>This relation is a subtype of the <a href="">nmod</a> relation, which captures
 the following cases where something syntactically a noun phrase is
@@ -531,7 +581,7 @@ distinguished as a separate relation.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod:npmod.md" target="#">edit nmod:npmod</a></p>
 
-<h2 id="nmodtmod--temporal-modifier">nmod:tmod : temporal modifier</h2>
+<h2 id="nmodtmod-temporal-modifier"><code>nmod:tmod</code>: temporal modifier</h2>
 
 <p>A temporal modifier is a subtype of the <a href="">nmod:npmod</a> relation: it is
 a bare noun phrase constituent that serves to modify the meaning of
@@ -545,9 +595,11 @@ nmod:tmod(swam, night)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod:tmod.md" target="#">edit nmod:tmod</a></p>
 
-<h2 id="nmod--nominal-modifier">nmod : nominal modifier</h2>
+<h2 id="nmod-nominal-modifier"><code>nmod</code>: nominal modifier</h2>
 
-<p>The <em>nmod</em> relation is used for nominal modifiers of nouns or clausal predicates. <em>nmod</em> is a noun functioning as a non-core (oblique) argument or adjunct. In English, <em>nmod</em> is used</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
+predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
+argument or adjunct. In English, <code>nmod</code> is used</p>
 
 <ul>
   <li>for prepositional complements:</li>
@@ -566,7 +618,8 @@ nmod(give, children)
 case(children, to)
 </code></pre>
 
-<p>The <em>nmod</em> relation holds between the noun/predicate modified by the prepositional complement and the noun introduced by the preposition.</p>
+<p>The <code>nmod</code> relation holds between the noun/predicate modified by the
+prepositional complement and the noun introduced by the preposition.</p>
 
 <ul>
   <li>for ‘s genitives:</li>
@@ -578,11 +631,15 @@ nmod(office-4, Chair-2)
 poss(Chair-2, 's-3)
 </code></pre>
 
-<p>Nominal modifiers not introduced by a preposition or not ‘s genitives are tagged <em>npmod</em>, a subtype of <em>nmod</em>. Temporal nominal modifiers are also marked with a separate relation <em>tmod</em>. See the definitions of these relations.</p>
+<p>Nominal modifiers not introduced by a preposition or not ‘s genitives
+are tagged <a href="">nmod:npmod</a>, a subtype of <code>nmod</code>. Temporal nominal
+modifiers are also marked with a separate relation <a href="">nmod:tmod</a>. See
+the definitions of these relations.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
 
-<h2 id="nsubj--nominal-subject">nsubj : nominal subject</h2>
+<h2 id="nsubj-nominal-subject"><code>nsubj</code>: nominal subject</h2>
+
 <p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun. </p>
 
 <pre><code class="language-sdparse">Clinton defeated Dole
@@ -591,7 +648,8 @@ nsubj(defeated, Clinton)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nsubj.md" target="#">edit nsubj</a></p>
 
-<h2 id="nsubjpass--passive-nominal-subject">nsubjpass : passive nominal subject</h2>
+<h2 id="nsubjpass-passive-nominal-subject"><code>nsubjpass</code>: passive nominal subject</h2>
+
 <p>A passive nominal subject is a noun phrase which is the syntactic subject of a passive clause. </p>
 
 <pre><code class="language-sdparse">Dole was defeated by Clinton
@@ -600,7 +658,8 @@ nsubjpass(defeated, Dole)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
 
-<h2 id="nummod--numeric-modifier">nummod : numeric modifier</h2>
+<h2 id="nummod-numeric-modifier"><code>nummod</code>: numeric modifier</h2>
+
 <p>A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity. </p>
 
 <pre><code class="language-sdparse">Sam ate 3 sheep
@@ -617,7 +676,8 @@ num($, 40)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nummod.md" target="#">edit nummod</a></p>
 
-<h2 id="parataxis--parataxis">parataxis : parataxis</h2>
+<h2 id="parataxis-parataxis"><code>parataxis</code>: parataxis</h2>
+
 <p>The parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. </p>
 
 <pre><code class="language-sdparse">The guy , John said , left early in the morning
@@ -630,7 +690,8 @@ parataxis(Let, annoyed)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/parataxis.md" target="#">edit parataxis</a></p>
 
-<h2 id="punct--punctuation">punct : punctuation</h2>
+<h2 id="punct-punctuation"><code>punct</code>: punctuation</h2>
+
 <p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output. </p>
 
 <pre><code class="language-sdparse">Go home !
@@ -639,15 +700,15 @@ punct(Go, !)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/punct.md" target="#">edit punct</a></p>
 
-<h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
+<h2 id="remnant-remnant-in-ellipsis"><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>The <em>remnant</em> relation is used to provide a satisfactory treatment of ellipsis (in
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
 head gets elided) <em>without</em> having to postulate empty nodes in the basic representation. This is something that was lacking in earlier versions
 of SD and provides a basis for being able to reconstruct dependencies
 in the enhanced representation of SD. </p>
 
-<p>USD adopts an analysis that notes that in ellipsis a <em>remnant</em> corresponds to a <em>correlate</em> in a preceding clause. The <em>remnant</em> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation.</p>
+<p>USD adopts an analysis that notes that in ellipsis a <code>remnant</code> corresponds to a <em>correlate</em> in a preceding clause. The <code>remnant</code> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation.</p>
 
 <pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
 nsubj(went-2, Marie-1)
@@ -660,7 +721,7 @@ case(Prague-8, to-7)
 remnant(Paris-4, Prague-8)
 </code></pre>
 
-<p>Even in the more complex example below, the <em>remnant</em>
+<p>Even in the more complex example below, the <code>remnant</code>
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.</p>
 
@@ -673,9 +734,9 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </code></pre>
 
-<p>Note in particular that (unlike for <em>conj</em>), <em>remnant</em> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
+<p>Note in particular that (unlike for <a href="">conj</a>), <code>remnant</code> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
 
-<p>The <em>remnant</em> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <em>remnant</em> relation is not used. In RNR, the verbs are coordinated and the object is a <em>dobj</em> of the first verb:</p>
+<p>The <code>remnant</code> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <code>remnant</code> relation is not used. In RNR, the verbs are coordinated and the object is a <a href="">dobj</a> of the first verb:</p>
 
 <pre><code class="language-sdparse">John bought and ate an apple
 nsubj(bought-2, John-1)
@@ -699,9 +760,9 @@ advmod(will-7, too-8)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/remnant.md" target="#">edit remnant</a></p>
 
-<h2 id="reparandum-overridden-disfluency">reparandum: overridden disfluency</h2>
+<h2 id="reparandum-overridden-disfluency"><code>reparandum</code>: overridden disfluency</h2>
 
-<p>We use <em>reparandum</em> to indicate disfluencies overridden in a speech
+<p>We use <code>reparandum</code> to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair.</p>
 
 <pre><code class="language-sdparse">Go to the righ- to the left .
@@ -715,8 +776,9 @@ det(left-7, the-6)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/reparandum.md" target="#">edit reparandum</a></p>
 
-<h2 id="root--root">root : root</h2>
-<p>The root grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1. </p>
+<h2 id="root-root"><code>root</code>: root</h2>
+
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1. </p>
 
 <pre><code class="language-sdparse">ROOT I love French fries .
 root(ROOT, love)
@@ -728,9 +790,11 @@ root(ROOT, man)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/root.md" target="#">edit root</a></p>
 
-<h2 id="vocative-vocative">vocative: vocative</h2>
+<h2 id="vocative-vocative"><code>vocative</code>: vocative</h2>
 
-<p>The <em>vocative</em> relation is used to mark dialogue participant addressed in text (common in emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+<p>The <code>vocative</code> relation is used to mark dialogue participant addressed
+in text (common in emails and newsgroup postings). The relation links
+the addressee’s name to its host sentence.</p>
 
 <pre><code class="language-sdparse">Guys , take it easy!
 vocative(take, Guys)
@@ -738,8 +802,9 @@ vocative(take, Guys)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/vocative.md" target="#">edit vocative</a></p>
 
-<h2 id="xcomp--open-clausal-complement">xcomp : open clausal complement</h2>
-<p>An open clausal complement (<em>xcomp</em>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause. These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <em>xcomp</em> is borrowed from Lexical-Functional Grammar. </p>
+<h2 id="xcomp-open-clausal-complement"><code>xcomp</code>: open clausal complement</h2>
+
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause. These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. </p>
 
 <pre><code class="language-sdparse">He says that you like to swim
 xcomp(like, swim)
