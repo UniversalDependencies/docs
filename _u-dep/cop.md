@@ -36,8 +36,14 @@ nsubj(tancor, Ivan)
 amod(tancor, lučšij)
 ~~~
 
-Similar constructions arise even in English if we
-consider so-called raising-to-object or small clause constructions.
+In informal English, this may also arise.
+
+~~~ sdparse
+Email usually free if you have Wifi.
+nsubj(freee, Email)
+~~~
+
+A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
 Under the basic analysis proposed for SD, the predicate complement is
 not linked to its subject argument, but in the enhanced representation
 (see below), the linkage is then parallel to the treatment in a zero
@@ -51,4 +57,18 @@ xcomp(judge-2, dancer-6)
 det(dancer-6, the-4)
 amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
+~~~
+
+Additionally, ccomp is used with copulas. The structure in these cases is different.
+
+~~~ sdparse
+The important thing is to keep calm.
+ccomp(is, keep)
+nsubj(is, thing)
+~~~
+
+~~~ sdparse
+The problem is that this has never been tried.
+ccomp(is, tried)
+nsubj(is, problem)
 ~~~
