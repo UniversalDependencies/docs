@@ -36,33 +36,83 @@
 
           <h1 id="language-specific-relations">Language-specific relations</h1>
 
-<p>Content mostly TODO. See discussion in <a href="https://github.com/universaldependencies/docs/issues/54">https://github.com/universaldependencies/docs/issues/54</a> and
-<a href="https://github.com/UniversalDependencies/docs/issues/64">https://github.com/UniversalDependencies/docs/issues/64</a>.</p>
+<p>In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.</p>
 
-<p>English:</p>
+<p>Labels of language-specific relations explictly encode the core UD relation that the language-specific relation is a subtype of, following the format <em>universal:extension</em>. </p>
 
+<h2 id="acl">acl</h2>
 <ul>
-  <li><a href="">en-dep/acl:relcl</a></li>
-  <li><a href="">en-dep/nmod:npmod</a></li>
-  <li><a href="">en-dep/nmod:tmod</a></li>
-  <li><a href="">en-dep/det:predet</a></li>
-  <li><a href="">en-dep/compound:prt</a></li>
-  <li><a href="">en-dep/cc:preconj</a></li>
-  <li><a href="">en-dep/case:poss</a></li>
+  <li>acl:relcl
+<a href="en-dep/acl:relcl">English</a>
+<a href="fi-dep/acl:relcl">Finnish</a></li>
 </ul>
 
-<p>Finnish:</p>
-
+<h2 id="case">case</h2>
 <ul>
-  <li><a href="">fi-dep/acl:relcl</a></li>
-  <li><a href="">fi-dep/nsubj:cop</a></li>
-  <li><a href="">fi-dep/csubj:cop</a></li>
-  <li><a href="">fi-dep/nmod:own</a></li>
-  <li><a href="">fi-dep/ccomp:nf</a></li>
-  <li><a href="">fi-dep/case:poss</a></li>
-  <li><a href="">fi-dep/case:gsubj</a></li>
-  <li><a href="">fi-dep/case:gobj</a></li>
+  <li>
+    <p>case:poss
+<a href="en-dep/case:poss">English</a>
+<a href="fi-dep/case:poss">Finnish</a></p>
+  </li>
+  <li>
+    <p>case:gsubj
+<a href="fi-dep/case:gsubj]">Finnish</a></p>
+  </li>
+  <li>
+    <p>case:gobj
+<a href="fi-dep/case:gobj">Finnish</a></p>
+  </li>
 </ul>
+
+<h2 id="cc">cc</h2>
+<ul>
+  <li>cc:preconj
+<a href="en-dep/cc:preconj">Englihs</a></li>
+</ul>
+
+<h2 id="ccomp">ccomp</h2>
+<ul>
+  <li>ccomp:nf
+<a href="fi-dep/ccomp:nf">Finnish</a></li>
+</ul>
+
+<h2 id="compound">compound</h2>
+<ul>
+  <li>compound:prt
+<a href="en-dep/compound:prt">English</a></li>
+</ul>
+
+<h2 id="csubj">csubj</h2>
+<ul>
+  <li>csubj:cop
+<a href="fi-dep/csubj:cop">Finnish</a></li>
+</ul>
+
+<h2 id="det">det</h2>
+<ul>
+  <li>det:predet
+<a href="en-dep/det:predet">English</a></li>
+</ul>
+
+<h2 id="nmod">nmod</h2>
+<ul>
+  <li>
+    <p>nmod:npmod
+<a href="en-dep/nmod:npmod]">English</a></p>
+  </li>
+  <li>
+    <p>nmod:tmod
+<a href="en-dep/nmod:tmod">English</a></p>
+  </li>
+  <li>
+    <p>nmod:own
+<a href="fi-dep/nmod:own">Finnish</a></p>
+  </li>
+</ul>
+
+<h2 id="nsubj">nsubj</h2>
+<p>-nsubj:cop
+<a href="fi-dep/nsubj:cop">Finnish</a></p>
 
 
 <!-- "relation in other languages" links -->
