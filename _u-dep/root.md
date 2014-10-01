@@ -4,7 +4,7 @@ title: 'root'
 shortdef: 'root'
 ---
 
-## root: root
+## {{ page.title }}: {{ page.shortdef }}
 
 The root grammatical relation points to the root of the sentence. A
 fake node "ROOT" is used as the governor. The ROOT node is indexed

@@ -4,16 +4,20 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-## nmod: nominal modifier
+## {{ page.title }}: {{ page.shortdef }}
 
-The *nmod* relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).
+The `nmod` relation is used for nominal modifiers. They depend either
+on another noun (group “noun dependents”) or on a predicate (group
+“non-core dependents of clausal predicates”).
 
-Nmod is a [noun](u-pos/NOUN) (or noun phrase) functioning as a non-core (oblique) argument or adjunct.
+`nmod` is a [noun](u-pos/NOUN) (or noun phrase) functioning as a
+non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).
 
-The *nmod* relation can be further specified by the <a href="case.html">case</a>.
-In conjunction with the *case* relation, it provides a uniform analysis for:
+The `nmod` relation can be further specified by the case. 
+In conjunction with the [case]() relation, it provides a uniform
+analysis for:
 
 - the possessive alternation:
 
@@ -78,7 +82,7 @@ case(children, to)
 6     enfants   enfant   NOUN   _   Gender=Masc|Number=Plur    1   nmod   _   children
 ~~~
 
-*nmod* is also used for temporal nominal modifiers:
+`nmod` is also used for temporal nominal modifiers:
 
 ~~~ sdparse
 Last night , I swam in the pool

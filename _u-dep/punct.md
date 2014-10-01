@@ -4,7 +4,7 @@ title: 'punct'
 shortdef: 'punctuation'
 ---
 
-## punct: punctuation
+## {{ page.title }}: {{ page.shortdef }}
 
 This is used for any piece of punctuation in a clause, if punctuation
 is being retained in the typed dependencies.

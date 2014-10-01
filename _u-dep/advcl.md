@@ -4,7 +4,7 @@ title: 'advcl'
 shortdef: 'adverbial clause modifier'
 ---
 
-## advcl: adverbial clause modifier
+## {{ page.title }}: {{ page.shortdef }}
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
 as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose

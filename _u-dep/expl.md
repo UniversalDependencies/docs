@@ -4,9 +4,9 @@ title: 'expl'
 shortdef: 'expletive'
 ---
 
-## expl: expletive
+## {{ page.title }}: {{ page.shortdef }}
 
-This relation captures an existential "there". The main verb of the
+This relation captures an existential *there*. The main verb of the
 clause is the governor.
 
 ~~~ sdparse

@@ -4,7 +4,7 @@ title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---
 
-## reparandum: overridden disfluency
+## {{ page.title }}: {{ page.shortdef }}
 
 We use *reparandum* to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair.

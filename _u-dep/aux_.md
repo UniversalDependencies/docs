@@ -7,7 +7,7 @@ shortdef: 'auxiliary'
 redirect_from: "u/dep/aux.html"
 ---
 
-## aux: auxiliary
+## {{ page.title }}: {{ page.shortdef }}
 
 An auxiliary of a clause is a [non-main verb](u-pos/AUX) of the
 clause, e.g., a modal auxiliary, or a form of _be, do_ or _have_ in a

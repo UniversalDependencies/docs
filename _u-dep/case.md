@@ -4,10 +4,9 @@ title: 'case'
 shortdef: 'case marking'
 ---
 
-## case: case marking
+## {{ page.title }}: {{ page.shortdef }}
 
-
-The *case* relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The *case* relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
+The `case` relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The `case` relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
 
 ~~~ sdparse
 the Chair 's office
@@ -43,7 +42,7 @@ case(klb-5, at-3)
 
 
 When case markers are morphemes, they are not divided off the noun as a separate case dependent,
-but the noun as a whole is analyzed as a *nmod* of the verb.
+but the noun as a whole is analyzed as a [nmod]() of the verb.
 To overtly mark case,
 <a href="../pos/index.html">POS tags</a> and
 <a href="../feat/index.html">features</a>

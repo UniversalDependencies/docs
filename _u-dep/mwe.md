@@ -4,9 +4,10 @@ title: 'mwe'
 shortdef: 'multi-word expression'
 ---
 
-## mwe: multi-word expression
+## {{ page.title }}: {{ page.shortdef }}
 
-The multi-word expression (modifier) relation is one of the three relations ([compound](), *mwe*, [name]()) for compounding. 
+The multi-word expression (modifier) relation is one of the three
+relations ([compound](), `mwe`, [name]()) for compounding.
 It used for certain fixed grammaticized expressions with function words that behave like a single function word.
 
 ~~~ sdparse
@@ -25,4 +26,6 @@ Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a de
 mwe(plutôt, qu')
 ~~~
 
-Multiword expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the *mwe* label.
+Multiword expressions are annotated in a flat, head-initial structure,
+in which all words in the expression modify the first one using the
+`mwe` label.

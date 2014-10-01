@@ -3,9 +3,10 @@ layout: base
 title: 'compound'
 shortdef: 'compound'
 ---
-## compound
 
-*compound* is one of the three relations in USD for compounding.
+## {{ page.title }}: {{ page.shortdef }}
+
+`compound` is one of the three relations in UD for compounding.
 
 It is used for 
 

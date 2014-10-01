@@ -4,9 +4,11 @@ title: 'dislocated'
 shortdef: 'dislocated elements'
 ---
 
-## dislocated: dislocated elements
+## {{ page.title }}: {{ page.shortdef }}
 
-The *dislocated* relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence. 
+The `dislocated` relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence.
 
 It is used for fronted elements that introduce the topic of a sentence, as in the following Japanese example:
 

@@ -4,14 +4,15 @@ title: 'foreign'
 shortdef: 'foreign words'
 ---
 
-## foreign: foreign words
+## {{ page.title }}: {{ page.shortdef }}
 
-We use *foreign* to label sequences of foreign words. These are given
+We use `foreign` to label sequences of foreign words. These are given
 a linear analysis: the head is the first token in the foreign phrase.
 
-*foreign* does not apply to loanwords or to foreign [names](name).
-It applies to quoted foreign text incorporated in a sentence/discourse of the host language
-(unless we want to and know how to annotate the internal structure according to the syntax of the foreign language).
+`foreign` does not apply to loanwords or to foreign [names](name). 
+It applies to quoted foreign text incorporated in a sentence/discourse
+of the host language (unless we want to and know how to annotate the
+internal structure according to the syntax of the foreign language).
 
 ~~~ sdparse
 I guess that c' est la vie
@@ -22,4 +23,3 @@ foreign(c'-4, est-5)
 foreign(c'-4, la-6)
 foreign(c'-4, vie-7)
 ~~~
-

@@ -4,7 +4,7 @@ title: 'cop'
 shortdef: 'copula'
 ---
 
-## cop: copula
+## {{ page.title }}: {{ page.shortdef }}
 
 A copula is the relation between the complement of a copular verb and
 the copular verb.  (We normally take a copula as a dependent of its
@@ -23,13 +23,12 @@ det(dancer-5, the-3)
 amod(dancer-5, best-4)
 ~~~
 
-The copula "be" are not treated as the
+The copula *be* are not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 Such an analysis is motivated by the fact that many languages
 often or always lack an overt copula in such constructions, as in the
 the following Russian example:
-
 
 ~~~ sdparse
 Ivan lučšij tancor \n Ivan best dancer

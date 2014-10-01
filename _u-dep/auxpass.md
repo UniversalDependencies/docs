@@ -4,7 +4,7 @@ title: 'auxpass'
 shortdef: 'passive auxiliary'
 ---
 
-## auxpass: passive auxiliary
+## {{ page.title }}: {{ page.shortdef }}
 
 A passive auxiliary of a clause is a non-main verb of the clause which
 contains the passive information.

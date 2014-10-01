@@ -4,10 +4,10 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-## csubjpass: clausal passive subject
+## {{ page.title }}: {{ page.shortdef }}
 
 A clausal passive subject is a clausal syntactic subject of a passive
-clause. In the example below, "that she lied" is the subject.
+clause. In the example below, *that she lied* is the subject.
 
 ~~~ sdparse
 That she lied was suspected by everyone

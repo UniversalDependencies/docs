@@ -4,7 +4,7 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-## cc: coordinating conjunction
+## {{ page.title }}: {{ page.shortdef }}
 
 For more on coordination, see the [conj]() relation.
 A `cc` is the relation between the first conjunct and

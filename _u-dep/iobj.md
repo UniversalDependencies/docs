@@ -4,7 +4,7 @@ title: 'iobj'
 shortdef: 'indirect object'
 ---
 
-## iobj: indirect object
+## {{ page.title }}: {{ page.shortdef }}
 
 The indirect object of a verb is any noun phrase that is a core
 argument of the verb but it is not its [direct object](dobj).
@@ -28,6 +28,13 @@ dobj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 ~~~
 
-In general, if there is just one object, it should be labeled [dobj](), regardless of the morphological case. If there are two or more objects, one of them should be dobj and the others should be {{ page.title }}. In such cases it is necessary to decide what is the most directly affected object _(patient)._ If possible, language-specific documentation should help identify direct and indirect objects.
+In general, if there is just one object, it should be labeled
+[dobj](), regardless of the morphological case. If there are two or
+more objects, one of them should be [dobj]() and the others should be
+{{ page.title }}. In such cases it is necessary to decide what is the
+most directly affected object _(patient)._ If possible,
+language-specific documentation should help identify direct and
+indirect objects.
 
-Note that the above example could be reduced to _he teaches my daughter,_ then _my daughter_ would become direct object.
+Note that the above example could be reduced to _he teaches my
+daughter,_ then _my daughter_ would become direct object.
