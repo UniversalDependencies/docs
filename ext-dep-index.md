@@ -24,5 +24,5 @@ Finnish:
 - [fi-dep/nmod:own]()
 - [fi-dep/ccomp:nf]()
 - [fi-dep/case:poss]()
-- [fi-dep/case:gsub]()
+- [fi-dep/case:gsubj]()
 - [fi-dep/case:gobj]()
