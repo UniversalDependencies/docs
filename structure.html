@@ -44,6 +44,20 @@ dependencies to achieve as much parallelism as possible (but not more) across la
 (More specific guidelines can be found in the documentation of the specific 
 <a href="http://universaldependencies.github.io/docs/u/dep/index.html">dependency relations</a>.)</p>
 
+<h2 id="basic-and-enhanced-representation">Basic and Enhanced Representation</h2>
+
+<p>In addition to the basic dependency structure, which is a rooted tree,
+certain syntactic constructions may contain additional dependencies
+(examples include coordination and secondary predication).
+We provide a mechanism to capture the additional dependencies in the <a href="format.html">CoNLL-U format</a>.
+The structure with additional dependencies is no longer a tree;
+in most cases, it is a directed acyclic graph (DAG).
+We call this <em>enhanced representation.</em></p>
+
+<p>The dependency relations in the enhanced representation are in general taken from the same repertory as the basic dependencies.
+Documentation of syntactic constructions that contain additional dependencies
+must always clearly distinguish which dependencies are considered basic and which ones belong to the enhanced representation.</p>
+
 <h2 id="the-primacy-of-content-words">The Primacy of Content Words</h2>
 
 <p>Dependency relations hold primarily between content words, rather than being indirect relations mediated by function words.</p>
