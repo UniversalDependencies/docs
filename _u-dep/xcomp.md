@@ -26,6 +26,11 @@ Sue asked George to respond to her offer
 xcomp(asked, respond)
 ~~~
 
+~~~ sdpare
+You look great
+xcomp(look, great)
+~~~
+
 ~~~ sdparse
 I started to work there yesterday
 xcomp(started, work)
