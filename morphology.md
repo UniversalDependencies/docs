@@ -13,6 +13,19 @@ The UD scheme allows the specification of a complete morpho-syntactic representa
 
 Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
 
+Unlike in various language-specific tagsets, the universal tags and features do not
+include means to mark _fusion words_ (a word that is result of
+merging two other words, which are syntactically independent and belong to
+different parts of speech):
+Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
+German _zum (zu + dem_ ... preposition + article);
+Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
+The only truly general approach to fusion words is to apply
+a language-specific processing step that will split tokens into syntactic words
+where necessary. Every syntactic word will then get its own part-of-speech tag
+and features. See also <a href="tokenization.html">Tokenization</a> and
+<a href="format.html">Format</a>.
+
 
 ## Part-of-Speech Tags
 
@@ -45,19 +58,6 @@ Users can extend this set of universal features and add language-specific
 features when necessary. Such features should be described in the language-specific
 documentation and follow the general principles outlined here.
 Universal and language-specific features of a word are listed together in the FEATS column.
-
-Unlike in various language-specific tagsets, the universal features do not
-include features aimed at marking _fusion words_ (a word that is result of
-merging two other words, which are syntactically independent and belong to
-different parts of speech):
-Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
-German _zum (zu + dem_ ... preposition + article);
-Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
-The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
-and features. See also <a href="tokenization.html">Tokenization</a> and
-<a href="format.html">Format</a>.
 
 * There are two types of identifiers:
   - feature names = _features_
