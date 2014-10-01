@@ -543,13 +543,23 @@ cop(shape-4, is-2)
 case(shape-4, in-3)
 </code></pre>
 
-<p>When prepositions are stacked, as occurs in <em>out of</em>, each preposition is independently analyzed as a case dependent:</p>
+<p>When prepositions are stacked (that is, there is a sequence of prepositions), there are two possible analyses. If the sequence is a frozen combination with a specific meaning, then the best analysis is as an <code>mwe</code>. An English example of this is <em>out of</em>:</p>
 
 <pre><code class="language-sdparse">Out of all this , something good will come .
 case(this-4, Out-1)
-case(this-4, of-2)
+mwe(Out-1, of-2)
 det(this-4, all-3)
 nmod(come, this-4)
+</code></pre>
+
+<p>However, if various combinations of prepositions can be used to express different meaning combinations or nuances, then  each preposition is independently analyzed as a case dependent. Examples of this in English include <em>up beside</em> (which can alternate with <em>down beside</em> or <em>up near</em>) or <em>except during</em> which can alternate with <em>as during</em> or <em>except after</em>:</p>
+
+<pre><code class="language-sdparse">The cafe up beside the lookout
+det(cafe-2, The-1)
+case(lookout-6, up-3)
+case(lookout-6, beside-4)
+det(lookout-6, the-5)
+nmod(cafe-2, lookout-6)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/case.md" target="#">edit case</a></p>
