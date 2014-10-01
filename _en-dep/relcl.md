@@ -1,27 +1,21 @@
 ---
 layout: base
-title:  'relcl'
+title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
+## {{ page.title }}: {{ page.shortdef }}
 
-## relcl : relative clause modifier
-
-A relative clause modifier of an noun is a relative clause modifying the
-noun.  The relation points from the noun that is modified to the head of
-the relative clause. Relative clauses are finite.
+A relative clause modifier of an noun is a relative clause modifying
+the noun.  The relation points from the noun that is modified to the
+head of the relative clause. Relative clauses are finite.
 
 ~~~ sdparse
 I saw the man you love
-relcl(man, love)
+acl:relcl(man, love)
 ~~~
-
-
 
 ~~~ sdparse
 I saw the book which you bought
-relcl(book, bought)
+acl:relcl(book, bought)
 ~~~
-
- 
-
