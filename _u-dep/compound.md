@@ -4,7 +4,7 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 `compound` is one of the three relations in UD for compounding.
 

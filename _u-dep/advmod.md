@@ -4,7 +4,7 @@ title: 'advmod'
 shortdef: 'adverbial modifier'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 An adverbial modifier of a word is a (non-clausal) [adverb](u-pos/ADV)
 or adverbial phrase that serves to modify the meaning of the word.

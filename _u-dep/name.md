@@ -4,7 +4,7 @@ title: 'name'
 shortdef: 'name'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 `name` is one of the three relations for compounding in UD (together
 with [compound]() and [mwe]()).

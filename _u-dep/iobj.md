@@ -4,7 +4,7 @@ title: 'iobj'
 shortdef: 'indirect object'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The indirect object of a verb is any noun phrase that is a core
 argument of the verb but it is not its [direct object](dobj).

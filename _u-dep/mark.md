@@ -4,7 +4,7 @@ title: 'mark'
 shortdef: 'marker'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A marker is the word introducing a finite clause subordinate to
 another clause. For a [complement clause](ccomp), this will typically be _that_
