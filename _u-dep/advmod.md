@@ -32,3 +32,8 @@ Where/ADV do/AUX you/PRON want/VERB to/ADP go/VERB later/ADV ?/PUNCT
 advmod(go, Where)
 advmod(go, later)
 ~~~
+
+~~~ sdparse
+About 200 people came to the party
+advmod(200, About)
+~~~
