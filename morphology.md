@@ -41,6 +41,21 @@ The universal POS tags consist of uppercase English letters `[A-Z]` only.
 Just one tag per word is expected, and it should not be empty. (Use the `X` tag
 instead of underscore if no other tag is appropriate.)
 
+### Using a word vs. mentioning it
+
+The universal POS tags focus more on _what the word is_ than on _which construction it is used in_
+(the latter is specified by the [dependency relation labels](u/dep/index.html)).
+In particular, the POS tags do not distinguish actual usage of a word from just mentioning it.
+Thus in both the following examples, _yes_ will be tagged as interjection:
+
+* _Yes, I think so._
+* _I am waiting for his ‘yes’ on the matter._
+
+Similarly, in both the following examples, _precede_ will be tagged as verb:
+
+* _Such discussion must precede every decision._
+* _He pronounced ‘precede’ in a funny way._
+
 ## Features
 
 Features are additional pieces of information about the word, its part of speech
