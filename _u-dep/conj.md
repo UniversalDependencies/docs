@@ -97,7 +97,7 @@ ccomp(saw, kissed)
 If a dependent is shared among conjuncts, the basic representation always links it to the
 first conjunct (coordination head).
 Relations to the other conjuncts are in the extended representation.
-In the following example, extended dependencies are shown in red:
+In the following example, enhanced dependencies are shown in red:
 
 ~~~ conllu
 # visual-style 6 1 amod color:red
