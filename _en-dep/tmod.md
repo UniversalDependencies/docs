@@ -1,17 +1,18 @@
 ---
 layout: base
-title:  'tmod'
+title:  'nmod:tmod'
 shortdef : 'temporal modifier'
 ---
 
+## {{ page.title }} : {{ page.shortdef }}
 
-## tmod : temporal modifier
-A temporal modifier is a subtype of the *npmod* relation: it is a bare noun phrase constituent that serves to modify the meaning of the constituent by specifying a time.  (Other temporal modifiers are prepositional phrases introduced as *nmod* or adverbs introduced as *advmod*). 
+A temporal modifier is a subtype of the [nmod:npmod]() relation: it is
+a bare noun phrase constituent that serves to modify the meaning of
+the constituent by specifying a time.  (Other temporal modifiers are
+prepositional phrases introduced as [nmod]() or adverbs introduced as
+[advmod]()).
 
 ~~~ sdparse
 Last night , I swam in the pool
-tmod(swam, night)
+nmod:tmod(swam, night)
 ~~~
-
- 
-

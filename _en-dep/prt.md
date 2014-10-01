@@ -1,16 +1,18 @@
 ---
 layout: base
-title:  'prt'
+title:  'compound:prt'
 shortdef : 'phrasal verb particle'
 ---
 
+## {{ page.title }}: {{ page.shortdef }}
 
-## prt : phrasal verb particle
-The phrasal verb particle relation identifies a phrasal verb, and holds between the verb and its particle. It is a subtype of the *compound* relation.
+The phrasal verb particle relation identifies a phrasal verb, and
+holds between the verb and its particle. It is a subtype of the
+[compound]() relation.
 
 ~~~ sdparse
 They shut down the station
-prt(shut, down)
+compound:prt(shut, down)
 ~~~
 
  

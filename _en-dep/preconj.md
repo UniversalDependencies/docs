@@ -1,17 +1,16 @@
 ---
 layout: base
-title:  'preconj'
+title:  'cc:preconj'
 shortdef : 'preconjunct'
 ---
 
+## {{ page.title }}: {{ page.shortdef }}
 
-## preconj : preconjunct
-A preconjunct is the relation between the head of an NP and a word that appears at the beginning bracketing a conjunction (and puts emphasis on it), such as "either", "both", "neither"). 
+A preconjunct is the relation between the head of an NP and a word
+that appears at the beginning bracketing a conjunction (and puts
+emphasis on it), such as *either*, *both*, *neither*).
 
 ~~~ sdparse
 Both the boys and the girls are here
-preconj(boys, Both)
+cc:preconj(boys, Both)
 ~~~
-
- 
-
