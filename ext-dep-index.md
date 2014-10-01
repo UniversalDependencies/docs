@@ -5,26 +5,65 @@ title:  'Language-specific relations'
 
 # Language-specific relations
 
-Content mostly TODO. See discussion in <https://github.com/universaldependencies/docs/issues/54> and
-<https://github.com/UniversalDependencies/docs/issues/64>.
+In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
 
-English:
+Labels of language-specific relations explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*. 
 
-- [en-dep/acl:relcl]()
-- [en-dep/nmod:npmod]()
-- [en-dep/nmod:tmod]()
-- [en-dep/det:predet]()
-- [en-dep/compound:prt]()
-- [en-dep/cc:preconj]()
-- [en-dep/case:poss]()
 
-Finnish:
+## acl
+- acl:relcl
+[English](en-dep/acl:relcl)
+[Finnish](fi-dep/acl:relcl)
 
-- [fi-dep/acl:relcl]()
-- [fi-dep/nsubj:cop]()
-- [fi-dep/csubj:cop]()
-- [fi-dep/nmod:own]()
-- [fi-dep/ccomp:nf]()
-- [fi-dep/case:poss]()
-- [fi-dep/case:gsubj]()
-- [fi-dep/case:gobj]()
+
+## case
+- case:poss
+[English](en-dep/case:poss)
+[Finnish](fi-dep/case:poss)
+
+- case:gsubj
+[Finnish](fi-dep/case:gsubj])
+
+- case:gobj
+[Finnish](fi-dep/case:gobj)
+
+
+## cc
+- cc:preconj
+[Englihs](en-dep/cc:preconj)
+
+
+## ccomp
+- ccomp:nf
+[Finnish](fi-dep/ccomp:nf)
+
+
+## compound
+- compound:prt
+[English](en-dep/compound:prt)
+
+
+## csubj
+- csubj:cop
+[Finnish](fi-dep/csubj:cop)
+
+
+## det
+- det:predet
+[English](en-dep/det:predet)
+
+
+## nmod
+- nmod:npmod
+[English](en-dep/nmod:npmod])
+
+- nmod:tmod
+[English](en-dep/nmod:tmod)
+
+- nmod:own
+[Finnish](fi-dep/nmod:own)
+
+
+## nsubj
+-nsubj:cop
+[Finnish](fi-dep/nsubj:cop)
