@@ -36,7 +36,7 @@
 
           <h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
 
-<p>The <em>remnant</em> relation is used to provide a satisfactory treatment of ellipsis (in
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
 head gets elided). This is something that was lacking in earlier versions
 of SD and provides a basis for being able to reconstruct dependencies
@@ -70,7 +70,7 @@ case(Prague-8, to-7)
 
 <p>One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: <em>Marie went to Paris and Miriam ∅ to Prague</em>. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simply promote the final elements and to have them as dependents of the main verb of the sentence (<em>went-2</em>) or of <em>root-0</em>. But then (in general) one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.</p>
 
-<p>Therefore, UD adopts an analysis that notes that in ellipsis a <em>remnant</em> corresponds to a <em>correlate</em> in a preceding clause. The <em>remnant</em> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation. So, for this example, we have:</p>
+<p>Therefore, UD adopts an analysis that notes that in ellipsis a <code>remnant</code> corresponds to a <em>correlate</em> in a preceding clause. The <code>remnant</code> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation. So, for this example, we have:</p>
 
 <pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
 nsubj(went-2, Marie-1)
@@ -83,7 +83,7 @@ case(Prague-8, to-7)
 remnant(Paris-4, Prague-8)
 </code></pre>
 
-<p>Even in the more complex example below, the <em>remnant</em>
+<p>Even in the more complex example below, the <code>remnant</code>
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.</p>
 
@@ -96,10 +96,10 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </code></pre>
 
-<p>Note in particular that (unlike for <em>conj</em>), <em>remnant</em> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
+<p>Note in particular that (unlike for <a href="">conj</a>), <code>remnant</code> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
 
-<p>The <em>remnant</em> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <em>remnant</em> relation is not used. In RNR, the verbs
-are coordinated and the object is a <em>dobj</em> of the first verb:</p>
+<p>The <code>remnant</code> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <code>remnant</code> relation is not used. In RNR, the verbs
+are coordinated and the object is a <a href="">dobj</a> of the first verb:</p>
 
 <pre><code class="language-sdparse">John bought and ate an apple
 nsubj(bought-2, John-1)

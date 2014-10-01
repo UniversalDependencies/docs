@@ -36,14 +36,18 @@
 
           <h2 id="nmod-nominal-modifier">nmod: nominal modifier</h2>
 
-<p>The <em>nmod</em> relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers. They depend either
+on another noun (group “noun dependents”) or on a predicate (group
+“non-core dependents of clausal predicates”).</p>
 
-<p>Nmod is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a non-core (oblique) argument or adjunct.
+<p><code>nmod</code> is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a
+non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).</p>
 
-<p>The <em>nmod</em> relation can be further specified by the <a href="case.html">case</a>.
-In conjunction with the <em>case</em> relation, it provides a uniform analysis for:</p>
+<p>The <code>nmod</code> relation can be further specified by the case. 
+In conjunction with the <a href="">case</a> relation, it provides a uniform
+analysis for:</p>
 
 <ul>
   <li>the possessive alternation:</li>
@@ -105,7 +109,7 @@ case(children, to)
 6     enfants   enfant   NOUN   _   Gender=Masc|Number=Plur    1   nmod   _   children
 </code></pre>
 
-<p><em>nmod</em> is also used for temporal nominal modifiers:</p>
+<p><code>nmod</code> is also used for temporal nominal modifiers:</p>
 
 <pre><code class="language-sdparse">Last night , I swam in the pool
 nmod(swam, night)

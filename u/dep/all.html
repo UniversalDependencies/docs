@@ -222,7 +222,11 @@ in two places.</p>
 
 <h2 id="acl-clausal-modifier-of-noun">acl: clausal modifier of noun</h2>
 
-<p><em>acl</em> stands for finite and non-finite clauses that modify a noun, in contrast to the <a href="">u-dep/advcl</a> relation which is used for adverbial clauses that modify a predicate. The head of the <em>acl</em> relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.</p>
+<p><code>acl</code> stands for finite and non-finite clauses that modify a noun, in
+contrast to the <a href="">advcl</a> relation which is used for adverbial clauses
+that modify a predicate. The head of the <code>acl</code> relation is the noun
+that is modified, and the dependent is the head of the clause that
+modifies the noun.</p>
 
 <pre><code class="language-sdparse">the issues as he sees them
 acl(issues, sees)
@@ -232,8 +236,9 @@ acl(issues, sees)
 acl(affaire, suivre)
 </code></pre>
 
-<p>A relative clause is an instance of <em>acl</em>: the relation points from the noun that is modified to the head of
-the relative clause, normally a verb.</p>
+<p>A relative clause is an instance of <code>acl</code>: the relation points from
+the noun that is modified to the head of the relative clause, normally
+a verb.</p>
 
 <pre><code class="language-sdparse">I saw the man you love
 acl(man, love)
@@ -396,7 +401,7 @@ auxpass(killed, got)
 
 <h2 id="case-case-marking">case: case marking</h2>
 
-<p>The <em>case</em> relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, USD abandons treating a preposition as a mediator between a modified word and its object. The <em>case</em> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+<p>The <code>case</code> relation is used for any case-marking element (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <pre><code class="language-sdparse">the Chair 's office
 det(Chair-2, the-1)
@@ -427,7 +432,7 @@ case(klb-5, at-3)
 </code></pre>
 
 <p>When case markers are morphemes, they are not divided off the noun as a separate case dependent,
-but the noun as a whole is analyzed as a <em>nmod</em> of the verb.
+but the noun as a whole is analyzed as a <a href="">nmod</a> of the verb.
 To overtly mark case,
 <a href="../pos/index.html">POS tags</a> and
 <a href="../feat/index.html">features</a>
@@ -587,7 +592,7 @@ punct(apples, ,-8)
 <p>A clausal complement of a verb or adjective is a dependent clause with
 an internal subject which functions like an object of the verb, or
 adjective.  Clausal complements for nouns are limited to complement
-clauses with a subset of nouns like “fact” or “report”.  We analyze
+clauses with a subset of nouns like <em>fact</em> or <em>report</em>.  We analyze
 them the same (parallel to the analysis of this class as “content
 clauses” in Huddleston and Pullum 2002). Such clausal complements are
 usually finite (though there are occasional remnant English
@@ -599,9 +604,9 @@ ccomp(says, like)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/ccomp.md" target="#">edit ccomp</a></p>
 
-<h2 id="compound">compound</h2>
+<h2 id="compound-compound">compound: compound</h2>
 
-<p><em>compound</em> is one of the three relations in USD for compounding.</p>
+<p><code>compound</code> is one of the three relations in UD for compounding.</p>
 
 <p>It is used for </p>
 
@@ -649,7 +654,7 @@ compound(put, up)
 <p>A conjunct is the relation between two elements connected by a
 coordinating conjunction, such as <em>and, or,</em> etc.  We treat
 conjunctions asymmetrically: The head of the relation is the first
-conjunct and all the other conjuncts depend on it via the <em>conj</em> relation.</p>
+conjunct and all the other conjuncts depend on it via the <code>conj</code> relation.</p>
 
 <pre><code class="language-sdparse">Bill is big and honest
 conj(big, honest)
@@ -749,7 +754,7 @@ det(dancer-5, the-3)
 amod(dancer-5, best-4)
 </code></pre>
 
-<p>The copula “be” are not treated as the
+<p>The copula <em>be</em> are not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.</p>
 
 <p>Such an analysis is motivated by the fact that many languages
@@ -785,7 +790,7 @@ nsubj(dancer-6, Ivan-3)
 the subject is itself a clause. The governor of this relation might
 not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. In the following
-example, “what she said” is the subject.</p>
+example, <em>what she said</em> is the subject.</p>
 
 <pre><code class="language-sdparse">What she said makes sense
 csubj(makes, said)
@@ -796,7 +801,7 @@ csubj(makes, said)
 <h2 id="csubjpass-clausal-passive-subject">csubjpass: clausal passive subject</h2>
 
 <p>A clausal passive subject is a clausal syntactic subject of a passive
-clause. In the example below, “that she lied” is the subject.</p>
+clause. In the example below, <em>that she lied</em> is the subject.</p>
 
 <pre><code class="language-sdparse">That she lied was suspected by everyone
 csubjpass(suspected, lied)
@@ -851,7 +856,9 @@ discourse(is-2, :)-5)
 
 <h2 id="dislocated-dislocated-elements">dislocated: dislocated elements</h2>
 
-<p>The <em>dislocated</em> relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence. </p>
+<p>The <code>dislocated</code> relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence.</p>
 
 <p>It is used for fronted elements that introduce the topic of a sentence, as in the following Japanese example:</p>
 
@@ -895,7 +902,7 @@ dobj(begegnen, jemandem)
 
 <h2 id="expl-expletive">expl: expletive</h2>
 
-<p>This relation captures an existential “there”. The main verb of the
+<p>This relation captures an existential <em>there</em>. The main verb of the
 clause is the governor.</p>
 
 <pre><code class="language-sdparse">There is a ghost in the room
@@ -906,12 +913,13 @@ expl(is, There)
 
 <h2 id="foreign-foreign-words">foreign: foreign words</h2>
 
-<p>We use <em>foreign</em> to label sequences of foreign words. These are given
+<p>We use <code>foreign</code> to label sequences of foreign words. These are given
 a linear analysis: the head is the first token in the foreign phrase.</p>
 
-<p><em>foreign</em> does not apply to loanwords or to foreign <a href="name">names</a>.
-It applies to quoted foreign text incorporated in a sentence/discourse of the host language
-(unless we want to and know how to annotate the internal structure according to the syntax of the foreign language).</p>
+<p><code>foreign</code> does not apply to loanwords or to foreign <a href="name">names</a>. 
+It applies to quoted foreign text incorporated in a sentence/discourse
+of the host language (unless we want to and know how to annotate the
+internal structure according to the syntax of the foreign language).</p>
 
 <pre><code class="language-sdparse">I guess that c' est la vie
 nsubj(guess-2, I-1)
@@ -958,15 +966,22 @@ dobj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 </code></pre>
 
-<p>In general, if there is just one object, it should be labeled <a href="">dobj</a>, regardless of the morphological case. If there are two or more objects, one of them should be dobj and the others should be iobj. In such cases it is necessary to decide what is the most directly affected object <em>(patient).</em> If possible, language-specific documentation should help identify direct and indirect objects.</p>
+<p>In general, if there is just one object, it should be labeled
+<a href="">dobj</a>, regardless of the morphological case. If there are two or
+more objects, one of them should be <a href="">dobj</a> and the others should be
+iobj. In such cases it is necessary to decide what is the
+most directly affected object <em>(patient).</em> If possible,
+language-specific documentation should help identify direct and
+indirect objects.</p>
 
-<p>Note that the above example could be reduced to <em>he teaches my daughter,</em> then <em>my daughter</em> would become direct object.</p>
+<p>Note that the above example could be reduced to <em>he teaches my
+daughter,</em> then <em>my daughter</em> would become direct object.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/iobj.md" target="#">edit iobj</a></p>
 
 <h2 id="list-list">list: list</h2>
 
-<p>The <em>list</em> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <em>list</em>; the key-value pair relations are labeled as <a href="">appos</a>.</p>
+<p>The <code>list</code> relation is used for chains of comparable items. Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <code>list</code>; the key-value pair relations are labeled as <a href="">appos</a>.</p>
 
 <p>In lists with more than two items, all items of the list shoud modify the first one.</p>
 
@@ -1007,7 +1022,8 @@ mark(bring, to-22)
 
 <h2 id="mwe-multi-word-expression">mwe: multi-word expression</h2>
 
-<p>The multi-word expression (modifier) relation is one of the three relations (<a href="">compound</a>, <em>mwe</em>, <a href="">name</a>) for compounding. 
+<p>The multi-word expression (modifier) relation is one of the three
+relations (<a href="">compound</a>, <code>mwe</code>, <a href="">name</a>) for compounding.
 It used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
@@ -1023,22 +1039,31 @@ mwe(because, of)
 mwe(plutôt, qu')
 </code></pre>
 
-<p>Multiword expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the <em>mwe</em> label.</p>
+<p>Multiword expressions are annotated in a flat, head-initial structure,
+in which all words in the expression modify the first one using the
+<code>mwe</code> label.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/mwe.md" target="#">edit mwe</a></p>
 
-<h2 id="name">name</h2>
+<h2 id="name-name">name: name</h2>
 
-<p><em>name</em> is one of the three relations for compounding in USD (together with <a href="">compound</a> and <a href="">mwe</a>).
-It is used for proper nouns constituted of multiple nominal elements. For example, <em>name</em> would be used
-between the words of <em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to replace
-the usual relations in a phrasal or clausal name like <em>The king of Sweden</em> or the novels
-<em>The Lord of the Rings</em> and <em>Captured By Aliens.</em>
-Words joined by <em>name</em> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.
-This is basically similar to the treatment of noun compounds with <em>compound</em>,
-except that in many cases parts of the name may be another nominal element such as an adjective <em>(United Airlines).</em></p>
+<p><code>name</code> is one of the three relations for compounding in UD (together
+with <a href="">compound</a> and <a href="">mwe</a>).
+It is used for proper nouns constituted of multiple nominal
+elements. For example, <code>name</code> would be used between the words of
+<em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to
+replace the usual relations in a phrasal or clausal name like <em>The
+king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By
+Aliens.</em>
+Words joined by <code>name</code> should all be part of a minimal noun phrase;
+otherwise regular syntactic relations should be used.  This is
+basically similar to the treatment of noun compounds with
+<a href="">compound</a>, except that in many cases parts of the name may be
+another nominal element such as an adjective <em>(United Airlines).</em></p>
 
-<p>In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <em>name</em> label.</p>
+<p>In general, names are annotated in a flat, head-initial structure, in
+which all words in the name modify the first one using the <code>name</code>
+label.</p>
 
 <pre><code class="language-sdparse">Carl XVI Gustaf
 name(Carl-1, Gustaf-3)
@@ -1091,7 +1116,9 @@ nmod(Río-1, Plata-4)
 <p>The negation modifier is the relation between a negation word and the
 word it modifies.</p>
 
-<p>Modifiers labeled <em>neg</em> depend either on a noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
+<p>Modifiers labeled <code>neg</code> depend either on a noun (group “noun
+dependents”) or on a predicate (group “non-core dependents of clausal
+predicates”).</p>
 
 <pre><code class="language-sdparse">Bill is not a scientist
 neg(scientist, not)
@@ -1105,14 +1132,18 @@ neg(drive, n't)
 
 <h2 id="nmod-nominal-modifier">nmod: nominal modifier</h2>
 
-<p>The <em>nmod</em> relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers. They depend either
+on another noun (group “noun dependents”) or on a predicate (group
+“non-core dependents of clausal predicates”).</p>
 
-<p>Nmod is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a non-core (oblique) argument or adjunct.
+<p><code>nmod</code> is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a
+non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it corresponds to an attribute, or genitive complement (the terms are less standardized here).</p>
 
-<p>The <em>nmod</em> relation can be further specified by the <a href="case.html">case</a>.
-In conjunction with the <em>case</em> relation, it provides a uniform analysis for:</p>
+<p>The <code>nmod</code> relation can be further specified by the case. 
+In conjunction with the <a href="">case</a> relation, it provides a uniform
+analysis for:</p>
 
 <ul>
   <li>the possessive alternation:</li>
@@ -1174,7 +1205,7 @@ case(children, to)
 6     enfants   enfant   NOUN   _   Gender=Masc|Number=Plur    1   nmod   _   children
 </code></pre>
 
-<p><em>nmod</em> is also used for temporal nominal modifiers:</p>
+<p><code>nmod</code> is also used for temporal nominal modifiers:</p>
 
 <pre><code class="language-sdparse">Last night , I swam in the pool
 nmod(swam, night)
@@ -1214,8 +1245,8 @@ nsubjpass(defeated, Dole)
 
 <h2 id="nummod-numeric-modifier">nummod: numeric modifier</h2>
 
-<p>A numeric modifier of a noun is any <a href="../pos/NUM.html">number</a> phrase that serves to
-modify the meaning of the noun with a quantity.</p>
+<p>A numeric modifier of a noun is any <a href="u-pos/NUM.html">number</a> phrase
+that serves to modify the meaning of the noun with a quantity.</p>
 
 <pre><code class="language-sdparse">Sam ate 3 sheep
 nummod(sheep, 3)
@@ -1229,8 +1260,10 @@ nummod(dollars, forty)
 nummod($, 40)
 </code></pre>
 
-<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged <a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>.
-Therefore their relation to the quantified noun is not <em>nummod</em> but <a href="">det</a>:</p>
+<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged
+<a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>. 
+Therefore their relation to the quantified noun is not <code>nummod</code> but
+<a href="">det</a>:</p>
 
 <pre><code class="language-sdparse">Sam ate many sheep
 det(sheep, many)
@@ -1316,7 +1349,7 @@ punct(Compare, .-34)
 
 <h2 id="remnant-remnant-in-ellipsis">remnant: remnant in ellipsis</h2>
 
-<p>The <em>remnant</em> relation is used to provide a satisfactory treatment of ellipsis (in
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
 head gets elided). This is something that was lacking in earlier versions
 of SD and provides a basis for being able to reconstruct dependencies
@@ -1350,7 +1383,7 @@ case(Prague-8, to-7)
 
 <p>One option would be to pretend that there is an empty verb and to have the final elements be dependents of it: <em>Marie went to Paris and Miriam ∅ to Prague</em>. This analysis has some appeal but also has some problems and at any rate stops the basic dependency graph from being simply a tree of dependencies over the words of a sentence. A second option is to simply promote the final elements and to have them as dependents of the main verb of the sentence (<em>went-2</em>) or of <em>root-0</em>. But then (in general) one loses the ability to successfully reconstruct the correct predicate-argument structure of the sentence from the basic dependency representation.</p>
 
-<p>Therefore, UD adopts an analysis that notes that in ellipsis a <em>remnant</em> corresponds to a <em>correlate</em> in a preceding clause. The <em>remnant</em> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation. So, for this example, we have:</p>
+<p>Therefore, UD adopts an analysis that notes that in ellipsis a <code>remnant</code> corresponds to a <em>correlate</em> in a preceding clause. The <code>remnant</code> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation. So, for this example, we have:</p>
 
 <pre><code class="language-sdparse">Marie went to Paris and Miriam to Prague
 nsubj(went-2, Marie-1)
@@ -1363,7 +1396,7 @@ case(Prague-8, to-7)
 remnant(Paris-4, Prague-8)
 </code></pre>
 
-<p>Even in the more complex example below, the <em>remnant</em>
+<p>Even in the more complex example below, the <code>remnant</code>
 relations enable us to correctly retrieve the subjects and objects in
 the clauses with an elided verb.</p>
 
@@ -1376,10 +1409,10 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </code></pre>
 
-<p>Note in particular that (unlike for <em>conj</em>), <em>remnant</em> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
+<p>Note in particular that (unlike for <a href="">conj</a>), <code>remnant</code> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
 
-<p>The <em>remnant</em> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <em>remnant</em> relation is not used. In RNR, the verbs
-are coordinated and the object is a <em>dobj</em> of the first verb:</p>
+<p>The <code>remnant</code> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <code>remnant</code> relation is not used. In RNR, the verbs
+are coordinated and the object is a <a href="">dobj</a> of the first verb:</p>
 
 <pre><code class="language-sdparse">John bought and ate an apple
 nsubj(bought-2, John-1)
@@ -1448,14 +1481,14 @@ vocative(vas, Marie)
 
 <h2 id="xcomp-open-clausal-complement">xcomp: open clausal complement</h2>
 
-<p>An open clausal complement (<em>xcomp</em>) of a verb or an adjective is a
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a
 predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
 clause). These complements are always non-finite, and they are
 complements (arguments of the higher verb or adjective) rather than
-adjuncts/modifiers, such as a purpose clause. The name <em>xcomp</em> is
+adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is
 borrowed from Lexical-Functional Grammar.</p>
 
 <pre><code class="language-sdparse">He says that you like to swim

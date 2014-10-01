@@ -36,8 +36,8 @@
 
           <h2 id="nummod-numeric-modifier">nummod: numeric modifier</h2>
 
-<p>A numeric modifier of a noun is any <a href="../pos/NUM.html">number</a> phrase that serves to
-modify the meaning of the noun with a quantity.</p>
+<p>A numeric modifier of a noun is any <a href="u-pos/NUM.html">number</a> phrase
+that serves to modify the meaning of the noun with a quantity.</p>
 
 <pre><code class="language-sdparse">Sam ate 3 sheep
 nummod(sheep, 3)
@@ -51,8 +51,10 @@ nummod(dollars, forty)
 nummod($, 40)
 </code></pre>
 
-<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged <a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>.
-Therefore their relation to the quantified noun is not <em>nummod</em> but <a href="">det</a>:</p>
+<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged
+<a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>. 
+Therefore their relation to the quantified noun is not <code>nummod</code> but
+<a href="">det</a>:</p>
 
 <pre><code class="language-sdparse">Sam ate many sheep
 det(sheep, many)
