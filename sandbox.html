@@ -111,6 +111,19 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
+<p>What about secondary dependencies in the enhanced representation?</p>
+
+<div class="conllu-parse" tabs="yes">
+1    She       _   PRON    _   _   2   nsubj   _ _
+2    declared  _   VERB    _   _   0   root    _ _
+3    the       _   DET     _   _   4   det     _ _
+4    cake      _   NOUN    _   _   2   dobj    _ _
+5    beautiful _   ADJ     _   _   2   xcomp   4:nsubj _
+6    .         _   PUNCT   _   _   2   punct   _ _
+</div>
+
+<p>Two sentences can be used to show the English translation of a foreign example:</p>
+
 <pre><code class="language-conllu"># give the toys to the children
 1 donner donner VERB _ VerbForm=Inf 0 root _ give
 2 les le DET _ Definite=Def|Number=Plur 3 det _ the
