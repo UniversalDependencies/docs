@@ -4,7 +4,7 @@ title:  'nmod:npmod'
 shortdef : 'noun phrase as adverbial modifier'
 ---
 
-## {{ page.title }} : {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 This relation is a subtype of the [nmod]() relation, which captures
 the following cases where something syntactically a noun phrase is

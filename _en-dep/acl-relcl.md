@@ -4,7 +4,7 @@ title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A relative clause modifier of an noun is a relative clause modifying
 the noun.  The relation points from the noun that is modified to the

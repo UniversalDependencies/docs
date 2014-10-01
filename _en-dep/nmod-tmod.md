@@ -4,7 +4,7 @@ title:  'nmod:tmod'
 shortdef : 'temporal modifier'
 ---
 
-## {{ page.title }} : {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A temporal modifier is a subtype of the [nmod:npmod]() relation: it is
 a bare noun phrase constituent that serves to modify the meaning of

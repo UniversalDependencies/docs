@@ -7,9 +7,11 @@ shortdef : 'auxiliary'
 redirect_from: "en/dep/aux.html"
 ---
 
+## `{{ page.title }}`: {{ page.shortdef }}
 
-## aux : auxiliary
-An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of "be", "do" or "have" in a periphrastic tense. 
+An auxiliary of a clause is a non-main verb of the clause, e.g., a
+modal auxiliary, or a form of *be*, *do* or *have* in a periphrastic
+tense.
 
 ~~~ sdparse
 Reagan has died
@@ -20,6 +22,3 @@ aux(died-3, has-2)
 He should leave
 aux(leave-3, should-2)
 ~~~
-
- 
-

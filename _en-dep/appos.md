@@ -4,7 +4,8 @@ title:  'appos'
 shortdef : 'appositional modifier'
 ---
 
-## appos : appositional modifier
+## `{{ page.title }}`: {{ page.shortdef }}
+
 An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. 
 
 ~~~ sdparse

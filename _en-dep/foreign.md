@@ -4,9 +4,9 @@ title:  'foreign'
 shortdef : 'foreign words'
 ---
 
-## foreign: foreign words
+## `{{ page.title }}`: {{ page.shortdef }}
 
-We use *foreign* to label sequences of foreign words. These are given
+We use `foreign` to label sequences of foreign words. These are given
 a linear analysis: the head is the first token in the foreign phrase.
 
 ~~~ sdparse
@@ -18,5 +18,3 @@ foreign(c'-4, est-5)
 foreign(c'-4, la-6)
 foreign(c'-4, vie-7)
 ~~~
- 
-

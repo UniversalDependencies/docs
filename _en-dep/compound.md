@@ -3,7 +3,7 @@ layout: base
 title: 'compound'
 shortdef: 'compound'
 ---
-## compound
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *compound* is used for 
 
@@ -30,7 +30,3 @@ compound(thousand, four)
 I lost $ 3.2 billion
 compound(billion, 3.2)
 ~~~
-
-
- 
-

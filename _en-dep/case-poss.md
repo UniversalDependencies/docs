@@ -4,7 +4,7 @@ title:  'case:poss'
 shortdef : 'possessive modifier'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The possessive modifier relation is a subtype of the [case]()
 relation. It holds between a noun and the genitive *'s* modifying it.

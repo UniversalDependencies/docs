@@ -4,10 +4,9 @@ title:  'reparandum'
 shortdef : 'overridden disfluency'
 ---
 
+## `{{ page.title }}`: {{ page.shortdef }}
 
-## reparandum: overridden disfluency
-
-We use *reparandum* to indicate disfluencies overridden in a speech
+We use `reparandum` to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair.
 
 ~~~ sdparse
@@ -19,6 +18,3 @@ det(righ-, the-3)
 case(left-7, to-5)
 det(left-7, the-6)
 ~~~
-
- 
-
