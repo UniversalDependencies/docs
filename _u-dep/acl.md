@@ -25,9 +25,13 @@ acl(affaire, suivre)
 This relation is also used for optional depictives.
 
 ~~~ sdparse
-She entered the room sad .
-dobj(entered, room)
+She entered the room sad
 acl(She, sad)
+~~~
+
+~~~ sdparse
+He painted the model naked
+acl(model, naked)
 ~~~
 
 A relative clause is an instance of `acl`, characterized by finiteness and a trace of 
