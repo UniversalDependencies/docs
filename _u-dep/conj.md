@@ -50,6 +50,8 @@ punct(Veni, ,-2)
 punct(Veni, ,-4)
 ~~~
 
+### Shared Dependents and Effective Parents in Coordination
+
 Note that the current basic annotation scheme cannot distinguish between a dependent of the first conjunct
 and a shared dependent of the whole coordination:
 
@@ -108,6 +110,8 @@ In the following example, extended dependencies are shown in red:
 5 and        _ _ _ _ 4 cc   _             _
 6 students   _ _ _ _ 4 conj 0:root        _
 ~~~
+
+### Nested Coordination
 
 Note further that the current annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
