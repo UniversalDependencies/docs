@@ -800,21 +800,6 @@ punct(tehtiin-2, .-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/goeswith.md" target="#">edit goeswith</a></p>
 
-<h2 id="iccomp-infinite-clausal-complement-a-namesec-iccompa">iccomp (infinite clausal complement) <a name="sec-iccomp"></a></h2>
-
-<p>The dependency type <code>iccomp</code>, which stands for <em>infinite clausal complement</em>, is a subtype of <code>ccomp</code> (<em>clausal complement</em>). It is used for clausal complements where the complement clause has a different subject from that of the governing clause and is infinite, i.e. where the verb is an infinitive or a participle. </p>
-
-<!-- TODO The differences between types of verbal dependents, such as `iccomp`, are thoroughly discussed in Section [verbal](#sec-verbal). -->
-
-<!-- fname:iccomp.pdf -->
-<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
-iccomp(Sain-1, itkemään-3)
-nsubj(itkemään-3, hänet-2)
-punct(Sain-1, .-4)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/iccomp.md" target="#">edit iccomp</a></p>
-
 <h2 id="list">list</h2>
 
 <p>The description of the USD relation <code>list</code> in Finnish is not yet completed.</p>
@@ -1145,29 +1130,6 @@ punct(osoittautui-2, .-5)
 <!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/partmod.md" target="#">edit partmod</a></p>
-
-<h2 id="poss-genitive-modifier-a-namesec-possa">poss (genitive modifier) <a name="sec-poss"></a></h2>
-
-<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD scheme, but in TDT, it is used for genitive modifiers in general, which in Finnish often but not nearly always imply possession. There are two kinds of genitive modifiers that are not annotated using the general genitive modifier type: <em>the genitive object</em>, <a href="http://universaldependencies.github.io/docs/fi/gobj.html">gobj</a> and <em>the genitive subject</em>, <a href="http://universaldependencies.github.io/docs/fi/gsubj.html">gsubj</a>.</p>
-
-<!-- fname:poss1.pdf -->
-<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
-poss(penaali-2, Matin-1)
-nsubj(jäi-3, penaali-2)
-nmod(jäi-3, kouluun-4)
-punct(jäi-3, .-5)
-</code></pre>
-
-<!-- fname:poss2.pdf -->
-<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
-nmod(on-2, Autossa-1)
-nsubj(on-2, moottori-5)
-punct(on-2, .-6)
-poss(moottori-5, litran-4)
-num(litran-4, kahden-3)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/poss.md" target="#">edit poss</a></p>
 
 <h2 id="preconj-preconjunction-a-namesec-preconja">preconj (preconjunction) <a name="sec-preconj"></a></h2>
 
@@ -2308,11 +2270,6 @@ punct(alkoi-2, .-5)
             },
 
             {
-                "title": "iccomp",
-                "url":   "/docs/fi/dep/iccomp.html",
-            },
-
-            {
                 "title": "list",
                 "url":   "/docs/fi/dep/list.html",
             },
@@ -2380,11 +2337,6 @@ punct(alkoi-2, .-5)
             {
                 "title": "partmod",
                 "url":   "/docs/fi/dep/partmod.html",
-            },
-
-            {
-                "title": "poss",
-                "url":   "/docs/fi/dep/poss.html",
             },
 
             {
