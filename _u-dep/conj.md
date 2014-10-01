@@ -78,6 +78,20 @@ nsubj(met, He)
 nsubj(kissed, He)
 ~~~
 
+Furthermore, the enhanced representation can also capture the relation of each conjunct
+to the parent of the coordination. Nevertheless, the effective parents can be found
+algorithmically and showing them explicitly is for convenience only, while
+the information about shared dependents is otherwise not available.
+
+~~~ sdparse
+I saw that he met her at the station and kissed her .
+conj(met, kissed)
+nsubj(met, He)
+nsubj(kissed, He)
+ccomp(saw, met)
+ccomp(saw, kissed)
+~~~
+
 Note further that the current annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
 Consider coordinations
