@@ -4,10 +4,10 @@ title:  'dislocated'
 shortdef : 'dislocated elements'
 ---
 
+## `{{ page.title }}`: {{ page.shortdef }}
 
-## dislocated : dislocated elements
+The `dislocated` relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence.
 
-
-The dislocated relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence.
-
-[Example?]
+[TODO: Example?]

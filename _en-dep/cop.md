@@ -4,9 +4,10 @@ title:  'cop'
 shortdef : 'copula'
 ---
 
+## `{{ page.title }}`: {{ page.shortdef }}
 
-## cop : copula
-A copula is the relation between the complement of a copular verb and the copular verb.  (We normally take a copula as a dependent of its complement; see the discussion in section \ref{types}.)  
+A copula is the relation between the complement of a copular verb and
+the copular verb.
 
 ~~~ sdparse
 Bill is an honest man

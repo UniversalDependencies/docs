@@ -4,7 +4,7 @@ title:  'cc:preconj'
 shortdef : 'preconjunct'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A preconjunct is the relation between the head of an NP and a word
 that appears at the beginning bracketing a conjunction (and puts

@@ -4,10 +4,11 @@ title:  'acl'
 shortdef : 'clausal modifier of noun'
 ---
 
+## `{{ page.title }}`: {{ page.shortdef }}
 
-## acl : clausal modifier of noun
-
-*acl* is used for finite and non-finite clauses that modify a noun. Note that in English relative clauses get assigned a specific relation *relcl*, a subtype of *acl*.
+`acl` is used for finite and non-finite clauses that modify a
+noun. Note that in English relative clauses get assigned a specific
+relation [acl:relcl](), a subtype of `acl`.
 
 ~~~ sdparse
 the issues as he sees them
@@ -23,5 +24,3 @@ acl(Points, establish)
 I don't have anything to say to you
 acl(anything, say)
 ~~~
- 
-
