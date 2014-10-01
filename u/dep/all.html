@@ -1556,6 +1556,10 @@ xcomp(like, swim)
 xcomp(asked, respond)
 </code></pre>
 
+<pre><code class="language-sdparse">I started to work there yesterday
+xcomp(started, work)
+</code></pre>
+
 <pre><code class="language-sdparse">I consider him a fool
 xcomp(consider, fool)
 </code></pre>
@@ -1564,10 +1568,19 @@ xcomp(consider, fool)
 xcomp(consider, honest)
 </code></pre>
 
+<pre><code class="language-sdparse">We expect them to change their minds
+xcomp(expect, change)
+</code></pre>
+
 <p>Note that the above condition “without its own subject” does not mean that a 
 clause is <code>xcomp</code> just because its subject is not <em>overt.</em> The subject must be inherited from a higher clause, that is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the subject of the upper clause.
-Pro-drop languages have clauses where the subject is not present as a separate word,
+from the subject of the upper clause. In cases where the missing subject may or must be distinct from the higher subject, <code>ccomp</code> should be used instead, as below.</p>
+
+<pre><code class="language-sdparse">The boss said to start digging
+xcomp(said, start)
+</code></pre>
+
+<p>Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
 Thus in neither of the following two Czech examples there is any overt subject,
