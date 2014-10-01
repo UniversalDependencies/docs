@@ -1576,6 +1576,45 @@ nor significantly alter the meaning of the verb.
 On the other hand, leaving out <em>beautiful</em> in <em>she declared the cake beautiful</em>
 will either render the sentence ungrammatical or lead to a different interpretation of <em>declared.</em></p>
 
+<p>The result is that in <em>She entered the room sad,</em> <em>sad</em> will depend on <em>She</em>
+and the relation will be <a href="">acl</a> instead of <code>xcomp</code>:</p>
+
+<pre><code class="language-sdparse">She entered the room sad .
+dobj(entered, room)
+acl(She, sad)
+</code></pre>
+
+<pre><code class="language-sdparse">He painted the model naked .
+dobj(painted, model)
+acl(model, naked)
+</code></pre>
+
+<p>If the nominal head is missing, the secondary predicate must be attached as
+<a href="">advcl</a> of the verbal predicate, even though it is an <a href="../pos/ADJ.html">adjective</a>,
+not an <a href="../pos/ADV.html">adverb</a>:</p>
+
+<pre><code class="language-sdparse">Vstoupila do místnosti smutná . \n She-entered to room sad .
+advcl(Vstoupila, smutná)
+advcl(She-entered, sad)
+</code></pre>
+
+<p>For resultatives, however, we uniformly use <code>xcomp</code>:</p>
+
+<pre><code class="language-sdparse">He painted the house blue .
+dobj(painted, house)
+xcomp(painted, blue)
+</code></pre>
+
+<pre><code class="language-sdparse">He talked himself hoarse .
+dobj(talked, himself)
+xcomp(talked, hoarse)
+</code></pre>
+
+<p>One may argue that what we call complement here is actually optional.
+To justify the analysis in LFG terms, we say that the verb acquires a new
+subcategorization frame by application of a lexical rule, and that frame
+includes an <code>xcomp</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/xcomp.md" target="#">edit xcomp</a></p>
 
 
