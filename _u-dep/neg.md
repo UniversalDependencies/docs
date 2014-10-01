@@ -19,6 +19,11 @@ neg(scientist, not)
 ~~~
 
 ~~~ sdparse
+Bill is no scientist
+neg(scientist, no)
+~~~
+
+~~~ sdparse
 Bill does n't drive
 neg(drive, n't)
 ~~~
