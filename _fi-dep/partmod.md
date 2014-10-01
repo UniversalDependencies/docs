@@ -4,7 +4,7 @@ title:  'partmod'
 shortdef : 'participal modifier'
 ---
 
-## partmod (participal modifier)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The *participal modifier* (`partmod`) most commonly modifies a noun phrase. Note that the participle (Also the MA-derivation is treated as a participle in TDT.)  can take arguments, for instance a subject, just as any verb.
 

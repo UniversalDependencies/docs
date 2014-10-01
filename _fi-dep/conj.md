@@ -4,7 +4,7 @@ title:  'conj'
 shortdef : 'coordinated element'
 ---
 
-## conj (coordinated element)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The SD scheme marks coordination so that the first coordinated element acts as the head, and the rest of the elements in the coordination, as well as the coordinating conjunction, depend on it. *Coordinated elements* are marked with the dependency type `conj`.
 

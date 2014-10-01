@@ -7,7 +7,7 @@ shortdef : 'auxiliary'
 redirect_from: "fi/dep/aux.html"
 ---
 
-## aux (auxiliary)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>) and in addition the verbs *olla* (*to be*) and *aikoa* (*to be going to*). The full list of auxiliaries in TDT is thus as follows:
 

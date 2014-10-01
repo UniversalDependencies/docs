@@ -4,7 +4,7 @@ title:  'punct'
 shortdef : 'punctuation'
 ---
 
-## punct (punctuation)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `punct` is used to mark punctuation. The dependent is the punctuation symbol, and the governor is the element which the punctuation symbol delimits. For instance, with coordination, the first coordinated element is the head of all `punct` dependencies in the coordination, and with subordinate clauses, the head of the subordinate clause is the governor of the `punct`.
 

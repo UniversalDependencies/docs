@@ -4,7 +4,7 @@ title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-## acl:relcl (relative clause modifier)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A *relative clause modifier* (`acl:relcl`) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.
 

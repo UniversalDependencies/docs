@@ -4,7 +4,7 @@ title:  'nsubj:cop'
 shortdef : 'nominal copular subject'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type {{ page.title }} is used for the nominal subject
 of a copular clause. The predicative is the head of the copular

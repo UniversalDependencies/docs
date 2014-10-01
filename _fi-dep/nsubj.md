@@ -4,7 +4,7 @@ title:  'nsubj'
 shortdef : 'nominal subject'
 ---
 
-## nsubj (nominal subject)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `nsubj` marks nominal subjects of the non-copular clause. 
 <!-- For thorough discussion of different types of subjects in Finnish, see Section [subj-obj](#sec-subj-obj).-->

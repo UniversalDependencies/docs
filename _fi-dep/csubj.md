@@ -4,7 +4,7 @@ title:  'csubj'
 shortdef : 'clausal subject'
 ---
 
-## csubj (clausal subject)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A *clausal subject* (*csubj*) is a clause that acts as the subject of another clause.
 

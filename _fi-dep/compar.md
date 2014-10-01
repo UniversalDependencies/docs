@@ -4,7 +4,7 @@ title:  'compar'
 shortdef : 'comparative'
 ---
 
-## compar (comparative)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `compar` is used in comparative constructions, most often involving adjectives in the comparative form. The head of the `compar` dependency is the comparative wordform, and the dependent is the compared element. 
 

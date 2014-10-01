@@ -4,7 +4,7 @@ title:  'number'
 shortdef : 'numerical expression'
 ---
 
-## number (numerical expression)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 Numerical expressions consisting of multiple tokens are annotated using the `number` dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. 
 

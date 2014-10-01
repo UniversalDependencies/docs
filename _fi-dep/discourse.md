@@ -4,7 +4,7 @@ title:  'discourse'
 shortdef : 'discourse element'
 ---
 
-## discourse (discourse element)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *Discourse elements* are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the `discourse` dependency type.
 

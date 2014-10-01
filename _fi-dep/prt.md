@@ -4,7 +4,7 @@ title:  'prt'
 shortdef : 'phrasal particle'
 ---
 
-## prt (phrasal particle)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *Phrasal particles* (`prt`) are used in connection with *phrasal verbs*, (partikkeliverbi, "particle verb" in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.
 
