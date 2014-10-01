@@ -102,3 +102,48 @@ But _sad_ is not a core argument of _enter:_ leaving it out will neither affect 
 nor significantly alter the meaning of the verb.
 On the other hand, leaving out _beautiful_ in _she declared the cake beautiful_
 will either render the sentence ungrammatical or lead to a different interpretation of _declared._
+
+The result is that in _She entered the room sad,_ _sad_ will depend on _She_
+and the relation will be [acl]() instead of `xcomp`:
+
+~~~ sdparse
+She entered the room sad .
+dobj(entered, room)
+acl(She, sad)
+~~~
+
+~~~ sdparse
+He painted the model naked .
+dobj(painted, model)
+acl(model, naked)
+~~~
+
+If the nominal head is missing, the secondary predicate must be attached as
+[advcl]() of the verbal predicate, even though it is an [adjective](../pos/ADJ.html),
+not an [adverb](../pos/ADV.html):
+
+~~~ sdparse
+Vstoupila do místnosti smutná . \n She-entered to room sad .
+advcl(Vstoupila, smutná)
+advcl(She-entered, sad)
+~~~
+
+For resultatives, however, we uniformly use `xcomp`:
+
+~~~ sdparse
+He painted the house blue .
+dobj(painted, house)
+xcomp(painted, blue)
+~~~
+
+~~~ sdparse
+He talked himself hoarse .
+dobj(talked, himself)
+xcomp(talked, hoarse)
+~~~
+
+One may argue that what we call complement here is actually optional.
+To justify the analysis in LFG terms, we say that the verb acquires a new
+subcategorization frame by application of a lexical rule, and that frame
+includes an `xcomp`.
+
