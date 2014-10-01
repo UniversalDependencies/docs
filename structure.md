@@ -22,8 +22,8 @@ are encoded in the DEPS field of the [CoNLL-U format](format.html). The total se
 enhanced representation will normally not form a rooted tree, but in most cases it is a directed acyclic 
 graph (DAG). The dependency relations added in the enhanced representation are in general taken from the 
 same inventory as the basic dependencies, but detailed guidelines for the enhanced representation still
-have to be developed. In the meantime, the documentation of the basic dependencies sometimes refer to
-additional dependencies that we expect to be present in the enhanced representations. 
+have to be developed. In the meantime, the documentation of the basic dependencies sometimes refers to
+dependencies that we expect to be present in the enhanced representations. 
 
 ## The Primacy of Content Words
 
