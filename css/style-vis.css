@@ -587,7 +587,7 @@ code.embedded-wrapper,
 a.doclink {
 /*   text-decoration: none; */
 }
-a.doclink.doclabel {
+a.doclabel {
   /* doc link with type label as text (#72), style based on .code */
   line-height: 1.4;
   font: 12px 'Bitstream Vera Sans Mono','Courier',monospace;
