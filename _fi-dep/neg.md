@@ -4,7 +4,7 @@ title:  'neg'
 shortdef : 'negation marker'
 ---
 
-## neg (negation marker)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 In Finnish, negation is marked using the verb *ei*, which is used as an auxiliary. This means that the *negation marker* (`neg`) is a subtype of <a href="http://universaldependencies.github.io/docs/fi/aux.html">aux</a>. The most commonly negated elements are verbs and verb phrases, but occasional exceptions in verbless constructions are allowed.
 

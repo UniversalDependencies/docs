@@ -4,7 +4,7 @@ title:  'dobj'
 shortdef : 'direct object'
 ---
 
-## dobj (direct object)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `dobj` is used for (nominal) direct objects of the verb.
 

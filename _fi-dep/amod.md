@@ -4,7 +4,7 @@ title:  'amod'
 shortdef : 'adjectival modifier'
 ---
 
-## amod (adjectival modifier)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 Nouns may take adjectival modifiers, which are marked with the dependency type `amod`. It is also possible for an adjective to take another adjective as a modifier. (These adjectival modifiers are generally expressed with *-ly* adverbs in English.)
 

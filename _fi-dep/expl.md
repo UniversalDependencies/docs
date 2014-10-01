@@ -4,6 +4,6 @@ title:  'expl'
 shortdef : 'expl'
 ---
 
-## expl
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The description of the USD relation `expl` in Finnish is not yet completed.

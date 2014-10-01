@@ -4,7 +4,7 @@ title:  'cop'
 shortdef : 'copula'
 ---
 
-## cop (copula)
+## `{{ page.title }}`: {{ page.shortdef }}
 
 Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a `cop` (*copula*) dependency. The only copular verb in Finnish is *olla* (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). 
 

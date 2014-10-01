@@ -4,6 +4,6 @@ title:  'list'
 shortdef : 'list'
 ---
 
-## list
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The description of the USD relation `list` in Finnish is not yet completed.
