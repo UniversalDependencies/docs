@@ -59,16 +59,15 @@ name(Carl-1, Gustaf-3)
 name(Carl-1, XVI-2)
 </code></pre>
 
-<p>This is certainly the case for person names and foreign person or place names.
-For organization names with clear syntactic modification structure, the dependencies should reflect the semantics, as for noun compounding.</p>
+<p>For organization names with clear syntactic modification structure, the dependencies should reflect the syntactic modification structure using regular syntactic relation, as in:.</p>
 
 <pre><code class="language-sdparse">Natural Resources Conservation Service
-name(Resources-2, Natural-1)
-name(Conservation-3, Resources-2)
-name(Service-4, Conservation-3)
+amod(Resources-2, Natural-1)
+compound(Conservation-3, Resources-2)
+compound(Service-4, Conservation-3)
 </code></pre>
 
-<p>Regular syntactic relations are used:
+<p>In addition, regular syntactic relations are used:
 (i) for a modifying determiner or
 (ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
 
