@@ -50,7 +50,7 @@ punct(Veni, ,-2)
 punct(Veni, ,-4)
 ~~~
 
-Note that the current annotation scheme cannot distinguish between a dependent of the first conjunct
+Note that the current basic annotation scheme cannot distinguish between a dependent of the first conjunct
 and a shared dependent of the whole coordination:
 
 ~~~ sdparse
@@ -68,8 +68,15 @@ nsubj(met, He)
 nsubj(kissed, she)
 ~~~
 
-The additional dependencies in the DEPS column could be used to encode the fact that in the first case, _he_ is also subject of _kissed._
-Nevertheless, these additional dependencies are not specified in the standard and without them the distinction cannot be made.
+In contrast, the additional dependencies in the enhanced representation
+can be used to encode the fact that in the first case, _he_ is also subject of _kissed:_
+
+~~~ sdparse
+He met her at the station and kissed her .
+conj(met, kissed)
+nsubj(met, He)
+nsubj(kissed, He)
+~~~
 
 Note further that the current annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
