@@ -86,8 +86,8 @@ the information about shared dependents is otherwise not available.
 ~~~ sdparse
 I saw that he met her at the station and kissed her .
 conj(met, kissed)
-nsubj(met, He)
-nsubj(kissed, He)
+nsubj(met, he)
+nsubj(kissed, he)
 ccomp(saw, met)
 ccomp(saw, kissed)
 ~~~
