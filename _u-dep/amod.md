@@ -4,7 +4,7 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 An adjectival modifier of a noun is any adjectival phrase that serves
 to modify the meaning of the noun.

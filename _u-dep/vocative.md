@@ -4,7 +4,7 @@ title: 'vocative'
 shortdef: 'vocative'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The *vocative* relation is used to mark dialogue participant addressed in text (common in emails and newsgroup postings). The relation links the addressee's name to its host sentence.
 

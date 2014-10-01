@@ -4,7 +4,7 @@ title: 'csubj'
 shortdef: 'clausal subject'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A clausal subject is a clausal syntactic subject of a clause, i.e.,
 the subject is itself a clause. The governor of this relation might

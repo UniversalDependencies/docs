@@ -4,7 +4,7 @@ title: 'ccomp'
 shortdef: 'clausal complement'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 A clausal complement of a verb or adjective is a dependent clause with
 an internal subject which functions like an object of the verb, or

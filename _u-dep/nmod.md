@@ -4,7 +4,7 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The `nmod` relation is used for nominal modifiers. They depend either
 on another noun (group “noun dependents”) or on a predicate (group

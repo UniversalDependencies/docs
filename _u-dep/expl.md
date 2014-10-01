@@ -4,7 +4,7 @@ title: 'expl'
 shortdef: 'expletive'
 ---
 
-## {{ page.title }}: {{ page.shortdef }}
+## `{{ page.title }}`: {{ page.shortdef }}
 
 This relation captures an existential *there*. The main verb of the
 clause is the governor.
