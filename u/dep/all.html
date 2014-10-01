@@ -236,7 +236,8 @@ acl(issues, sees)
 acl(affaire, suivre)
 </code></pre>
 
-<p>A relative clause is an instance of <code>acl</code>: the relation points from
+<p>A relative clause is an instance of <code>acl</code>, characterized by finiteness and a trace of 
+the modified noun in the embedded clause . As with acl, the relation points from
 the noun that is modified to the head of the relative clause, normally
 a verb.</p>
 
@@ -1336,12 +1337,40 @@ elements, such as a sentential parenthetical, a clause after a “:” or
 a “;”, or two sentences placed side by side without any explicit
 coordination or subordination.</p>
 
+<pre><code class="language-sdparse">Let 's face it we 're annoyed
+parataxis(Let, annoyed)
+</code></pre>
+
 <pre><code class="language-sdparse">The guy , John said , left early in the morning
 parataxis(left, said)
 </code></pre>
 
-<pre><code class="language-sdparse">Let 's face it we 're annoyed
-parataxis(Let, annoyed)
+<p>Note that for this latter example, there are paraphrases that convey
+essentially the same meaning, nevertheless we do not treat them as
+syntactically equivalent. One of them is a subordinate clause with
+reported speech: in this case, the subordinate clause must depend
+on <em>John said</em> as its <a href="">ccomp</a>.
+In other cases, including direct speech,
+we suggest to reverse the dependency and label it <code>parataxis</code>.</p>
+
+<pre><code class="language-sdparse">John said that the guy left early in the morning .
+ccomp(said, left)
+</code></pre>
+
+<pre><code class="language-sdparse">John said the guy left early in the morning .
+ccomp(said, left)
+</code></pre>
+
+<pre><code class="language-sdparse">John said : “ The guy left early in the morning . ”
+parataxis(left, said)
+</code></pre>
+
+<pre><code class="language-sdparse">“ The guy left early in the morning ” , John said .
+parataxis(left, said)
+</code></pre>
+
+<pre><code class="language-sdparse">The guy left early in the morning , John said .
+parataxis(left, said)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/parataxis.md" target="#">edit parataxis</a></p>
