@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>det:predet</title>
+    <title>compound:prt</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/predet.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound-prt.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,14 +34,16 @@
 	  </div>
 	</noscript>
 
-          <h2 id="detpredet-predeterminer">det:predet: predeterminer</h2>
+          <h2 id="compoundprt-phrasal-verb-particle">compound:prt: phrasal verb particle</h2>
 
-<p>A predeterminer is the relation between the head of an NP and a word
-that precedes and modifies the meaning of the NP determiner.</p>
+<p>The phrasal verb particle relation identifies a phrasal verb, and
+holds between the verb and its particle. It is a subtype of the
+<a href="">compound</a> relation.</p>
 
-<pre><code class="language-sdparse">All the boys are here
-det:predet(boys, All)
+<pre><code class="language-sdparse">They shut down the station
+compound:prt(shut, down)
 </code></pre>
+
 
 
 <!-- "relation in other languages" links -->
@@ -628,8 +630,18 @@ det:predet(boys, All)
             },
 
             {
+                "title": "case:poss",
+                "url":   "/docs/en/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc:preconj",
+                "url":   "/docs/en/dep/cc-preconj.html",
             },
 
             {
@@ -640,6 +652,11 @@ det:predet(boys, All)
             {
                 "title": "ccomp",
                 "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound:prt",
+                "url":   "/docs/en/dep/compound-prt.html",
             },
 
             {
@@ -670,6 +687,11 @@ det:predet(boys, All)
             {
                 "title": "dep",
                 "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det:predet",
+                "url":   "/docs/en/dep/det-predet.html",
             },
 
             {
@@ -738,13 +760,18 @@ det:predet(boys, All)
             },
 
             {
-                "title": "nmod",
-                "url":   "/docs/en/dep/nmod.html",
+                "title": "nmod:npmod",
+                "url":   "/docs/en/dep/nmod-npmod.html",
             },
 
             {
-                "title": "nmod:npmod",
-                "url":   "/docs/en/dep/npmod.html",
+                "title": "nmod:tmod",
+                "url":   "/docs/en/dep/nmod-tmod.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
             },
 
             {
@@ -765,26 +792,6 @@ det:predet(boys, All)
             {
                 "title": "parataxis",
                 "url":   "/docs/en/dep/parataxis.html",
-            },
-
-            {
-                "title": "case:poss",
-                "url":   "/docs/en/dep/possessive.html",
-            },
-
-            {
-                "title": "cc:preconj",
-                "url":   "/docs/en/dep/preconj.html",
-            },
-
-            {
-                "title": "det:predet",
-                "url":   "/docs/en/dep/predet.html",
-            },
-
-            {
-                "title": "compound:prt",
-                "url":   "/docs/en/dep/prt.html",
             },
 
             {
@@ -810,11 +817,6 @@ det:predet(boys, All)
             {
                 "title": "root",
                 "url":   "/docs/en/dep/root.html",
-            },
-
-            {
-                "title": "nmod:tmod",
-                "url":   "/docs/en/dep/tmod.html",
             },
 
             {

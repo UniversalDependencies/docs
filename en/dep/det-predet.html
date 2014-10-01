@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>cc:preconj</title>
+    <title>det:predet</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/preconj.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det-predet.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,14 +34,13 @@
 	  </div>
 	</noscript>
 
-          <h2 id="ccpreconj-preconjunct">cc:preconj: preconjunct</h2>
+          <h2 id="detpredet-predeterminer">det:predet: predeterminer</h2>
 
-<p>A preconjunct is the relation between the head of an NP and a word
-that appears at the beginning bracketing a conjunction (and puts
-emphasis on it), such as <em>either</em>, <em>both</em>, <em>neither</em>).</p>
+<p>A predeterminer is the relation between the head of an NP and a word
+that precedes and modifies the meaning of the NP determiner.</p>
 
-<pre><code class="language-sdparse">Both the boys and the girls are here
-cc:preconj(boys, Both)
+<pre><code class="language-sdparse">All the boys are here
+det:predet(boys, All)
 </code></pre>
 
 
@@ -629,8 +628,18 @@ cc:preconj(boys, Both)
             },
 
             {
+                "title": "case:poss",
+                "url":   "/docs/en/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc:preconj",
+                "url":   "/docs/en/dep/cc-preconj.html",
             },
 
             {
@@ -641,6 +650,11 @@ cc:preconj(boys, Both)
             {
                 "title": "ccomp",
                 "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound:prt",
+                "url":   "/docs/en/dep/compound-prt.html",
             },
 
             {
@@ -671,6 +685,11 @@ cc:preconj(boys, Both)
             {
                 "title": "dep",
                 "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det:predet",
+                "url":   "/docs/en/dep/det-predet.html",
             },
 
             {
@@ -739,13 +758,18 @@ cc:preconj(boys, Both)
             },
 
             {
-                "title": "nmod",
-                "url":   "/docs/en/dep/nmod.html",
+                "title": "nmod:npmod",
+                "url":   "/docs/en/dep/nmod-npmod.html",
             },
 
             {
-                "title": "nmod:npmod",
-                "url":   "/docs/en/dep/npmod.html",
+                "title": "nmod:tmod",
+                "url":   "/docs/en/dep/nmod-tmod.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
             },
 
             {
@@ -766,26 +790,6 @@ cc:preconj(boys, Both)
             {
                 "title": "parataxis",
                 "url":   "/docs/en/dep/parataxis.html",
-            },
-
-            {
-                "title": "case:poss",
-                "url":   "/docs/en/dep/possessive.html",
-            },
-
-            {
-                "title": "cc:preconj",
-                "url":   "/docs/en/dep/preconj.html",
-            },
-
-            {
-                "title": "det:predet",
-                "url":   "/docs/en/dep/predet.html",
-            },
-
-            {
-                "title": "compound:prt",
-                "url":   "/docs/en/dep/prt.html",
             },
 
             {
@@ -811,11 +815,6 @@ cc:preconj(boys, Both)
             {
                 "title": "root",
                 "url":   "/docs/en/dep/root.html",
-            },
-
-            {
-                "title": "nmod:tmod",
-                "url":   "/docs/en/dep/tmod.html",
             },
 
             {

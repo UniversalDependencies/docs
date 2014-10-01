@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>case:poss</title>
+    <title>nmod:tmod</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/possessive.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod-tmod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,14 +34,16 @@
 	  </div>
 	</noscript>
 
-          <h2 id="caseposs-possessive-modifier">case:poss: possessive modifier</h2>
+          <h2 id="nmodtmod--temporal-modifier">nmod:tmod : temporal modifier</h2>
 
-<p>The possessive modifier relation is a subtype of the <a href="">case</a>
-relation. It holds between a noun and the genitive <em>’s</em> modifying it.</p>
+<p>A temporal modifier is a subtype of the <a href="">nmod:npmod</a> relation: it is
+a bare noun phrase constituent that serves to modify the meaning of
+the constituent by specifying a time.  (Other temporal modifiers are
+prepositional phrases introduced as <a href="">nmod</a> or adverbs introduced as
+<a href="">advmod</a>).</p>
 
-<pre><code class="language-sdparse">Bill 's clothes
-case:poss(Bill-1, 's-2)
-nmod(clothes-3, Bill-1)
+<pre><code class="language-sdparse">Last night , I swam in the pool
+nmod:tmod(swam, night)
 </code></pre>
 
 
@@ -629,8 +631,18 @@ nmod(clothes-3, Bill-1)
             },
 
             {
+                "title": "case:poss",
+                "url":   "/docs/en/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc:preconj",
+                "url":   "/docs/en/dep/cc-preconj.html",
             },
 
             {
@@ -641,6 +653,11 @@ nmod(clothes-3, Bill-1)
             {
                 "title": "ccomp",
                 "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound:prt",
+                "url":   "/docs/en/dep/compound-prt.html",
             },
 
             {
@@ -671,6 +688,11 @@ nmod(clothes-3, Bill-1)
             {
                 "title": "dep",
                 "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det:predet",
+                "url":   "/docs/en/dep/det-predet.html",
             },
 
             {
@@ -739,13 +761,18 @@ nmod(clothes-3, Bill-1)
             },
 
             {
-                "title": "nmod",
-                "url":   "/docs/en/dep/nmod.html",
+                "title": "nmod:npmod",
+                "url":   "/docs/en/dep/nmod-npmod.html",
             },
 
             {
-                "title": "nmod:npmod",
-                "url":   "/docs/en/dep/npmod.html",
+                "title": "nmod:tmod",
+                "url":   "/docs/en/dep/nmod-tmod.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
             },
 
             {
@@ -766,26 +793,6 @@ nmod(clothes-3, Bill-1)
             {
                 "title": "parataxis",
                 "url":   "/docs/en/dep/parataxis.html",
-            },
-
-            {
-                "title": "case:poss",
-                "url":   "/docs/en/dep/possessive.html",
-            },
-
-            {
-                "title": "cc:preconj",
-                "url":   "/docs/en/dep/preconj.html",
-            },
-
-            {
-                "title": "det:predet",
-                "url":   "/docs/en/dep/predet.html",
-            },
-
-            {
-                "title": "compound:prt",
-                "url":   "/docs/en/dep/prt.html",
             },
 
             {
@@ -811,11 +818,6 @@ nmod(clothes-3, Bill-1)
             {
                 "title": "root",
                 "url":   "/docs/en/dep/root.html",
-            },
-
-            {
-                "title": "nmod:tmod",
-                "url":   "/docs/en/dep/tmod.html",
             },
 
             {

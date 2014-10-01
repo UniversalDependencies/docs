@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>compound:prt</title>
+    <title>nmod:npmod</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/prt.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod-npmod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,16 +34,44 @@
 	  </div>
 	</noscript>
 
-          <h2 id="compoundprt-phrasal-verb-particle">compound:prt: phrasal verb particle</h2>
+          <h2 id="nmodnpmod--noun-phrase-as-adverbial-modifier">nmod:npmod : noun phrase as adverbial modifier</h2>
 
-<p>The phrasal verb particle relation identifies a phrasal verb, and
-holds between the verb and its particle. It is a subtype of the
-<a href="">compound</a> relation.</p>
+<p>This relation is a subtype of the <a href="">nmod</a> relation, which captures
+the following cases where something syntactically a noun phrase is
+used as an adverbial modifier in a sentence:</p>
 
-<pre><code class="language-sdparse">They shut down the station
-compound:prt(shut, down)
+<p>(i) a measure phrase, which is the relation between the head of an adjectival/adverbial or prepositional phrase and the head of a measure phrase modifying it:</p>
+
+<pre><code class="language-sdparse">The director is 65 years old
+nmod:npmod(old, years)
 </code></pre>
 
+<pre><code class="language-sdparse">6 feet long
+nmod:npmod(long, feet)
+</code></pre>
+
+<p>(ii) noun phrases giving an extent to a verb, which are not objects:</p>
+
+<pre><code class="language-sdparse">Shares eased a fraction
+nmod:npmod(eased, fraction)
+</code></pre>
+
+<p>(iii) financial constructions involving an adverbial, notably the following construction <em>$5 a share</em>, where the second nominal means “per share”:</p>
+
+<pre><code class="language-sdparse">IBM earned $ 5 a share
+nmod:npmod($, share)
+</code></pre>
+
+<p>(iv) floating reflexives</p>
+
+<pre><code class="language-sdparse">The silence is itself significant
+nmod:npmod(significant, itself)
+</code></pre>
+
+<p>and (v) certain other absolutive nominal constructions.</p>
+
+<p>A temporal modifier <a href="">nmod:tmod</a> is a subclass of npmod which is
+distinguished as a separate relation.</p>
 
 
 <!-- "relation in other languages" links -->
@@ -630,8 +658,18 @@ compound:prt(shut, down)
             },
 
             {
+                "title": "case:poss",
+                "url":   "/docs/en/dep/case-poss.html",
+            },
+
+            {
                 "title": "case",
                 "url":   "/docs/en/dep/case.html",
+            },
+
+            {
+                "title": "cc:preconj",
+                "url":   "/docs/en/dep/cc-preconj.html",
             },
 
             {
@@ -642,6 +680,11 @@ compound:prt(shut, down)
             {
                 "title": "ccomp",
                 "url":   "/docs/en/dep/ccomp.html",
+            },
+
+            {
+                "title": "compound:prt",
+                "url":   "/docs/en/dep/compound-prt.html",
             },
 
             {
@@ -672,6 +715,11 @@ compound:prt(shut, down)
             {
                 "title": "dep",
                 "url":   "/docs/en/dep/dep.html",
+            },
+
+            {
+                "title": "det:predet",
+                "url":   "/docs/en/dep/det-predet.html",
             },
 
             {
@@ -740,13 +788,18 @@ compound:prt(shut, down)
             },
 
             {
-                "title": "nmod",
-                "url":   "/docs/en/dep/nmod.html",
+                "title": "nmod:npmod",
+                "url":   "/docs/en/dep/nmod-npmod.html",
             },
 
             {
-                "title": "nmod:npmod",
-                "url":   "/docs/en/dep/npmod.html",
+                "title": "nmod:tmod",
+                "url":   "/docs/en/dep/nmod-tmod.html",
+            },
+
+            {
+                "title": "nmod",
+                "url":   "/docs/en/dep/nmod.html",
             },
 
             {
@@ -767,26 +820,6 @@ compound:prt(shut, down)
             {
                 "title": "parataxis",
                 "url":   "/docs/en/dep/parataxis.html",
-            },
-
-            {
-                "title": "case:poss",
-                "url":   "/docs/en/dep/possessive.html",
-            },
-
-            {
-                "title": "cc:preconj",
-                "url":   "/docs/en/dep/preconj.html",
-            },
-
-            {
-                "title": "det:predet",
-                "url":   "/docs/en/dep/predet.html",
-            },
-
-            {
-                "title": "compound:prt",
-                "url":   "/docs/en/dep/prt.html",
             },
 
             {
@@ -812,11 +845,6 @@ compound:prt(shut, down)
             {
                 "title": "root",
                 "url":   "/docs/en/dep/root.html",
-            },
-
-            {
-                "title": "nmod:tmod",
-                "url":   "/docs/en/dep/tmod.html",
             },
 
             {
