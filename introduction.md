@@ -44,7 +44,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * Jinho Choi
 * [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
 * [Filip Ginter](http://bionlp.utu.fi/)
-* Yoav Goldberg
+* [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * Christopher Manning
 * Ryan McDonald
