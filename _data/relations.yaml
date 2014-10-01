@@ -1,3 +1,7 @@
+- label: 'acl'
+  languages:
+  - label: 'en/dep'
+  - label: 'u/dep'
 - label: 'acomp'
   languages:
   - label: 'fi/dep'
@@ -36,6 +40,15 @@
   - label: 'en/dep'
   - label: 'fi/dep'
   - label: 'u/dep'
+- label: 'case-gobj'
+  languages:
+  - label: 'fi/dep'
+- label: 'case-gsubj'
+  languages:
+  - label: 'fi/dep'
+- label: 'case-poss'
+  languages:
+  - label: 'fi/dep'
 - label: 'cc'
   languages:
   - label: 'en/dep'
@@ -46,6 +59,9 @@
   - label: 'en/dep'
   - label: 'fi/dep'
   - label: 'u/dep'
+- label: 'ccomp-nf'
+  languages:
+  - label: 'fi/dep'
 - label: 'compar'
   languages:
   - label: 'fi/dep'
@@ -161,7 +177,6 @@
 - label: 'ncmod'
   languages:
   - label: 'fi/dep'
-  - label: 'u/dep'
 - label: 'neg'
   languages:
   - label: 'en/dep'
@@ -170,7 +185,6 @@
 - label: 'nfincl'
   languages:
   - label: 'fi/dep'
-  - label: 'u/dep'
 - label: 'nmod'
   languages:
   - label: 'en/dep'
@@ -199,7 +213,6 @@
   - label: 'u/dep'
 - label: 'number'
   languages:
-  - label: 'en/dep'
   - label: 'fi/dep'
 - label: 'nummod'
   languages:
@@ -214,9 +227,6 @@
 - label: 'partmod'
   languages:
   - label: 'fi/dep'
-- label: 'pcomp'
-  languages:
-  - label: 'en/dep'
 - label: 'poss'
   languages:
   - label: 'fi/dep'
@@ -228,9 +238,6 @@
   - label: 'en/dep'
   - label: 'fi/dep'
 - label: 'predet'
-  languages:
-  - label: 'en/dep'
-- label: 'prepc'
   languages:
   - label: 'en/dep'
 - label: 'prt'
@@ -252,7 +259,6 @@
   languages:
   - label: 'en/dep'
   - label: 'fi/dep'
-  - label: 'u/dep'
 - label: 'remnant'
   languages:
   - label: 'en/dep'
@@ -281,6 +287,3 @@
   - label: 'en/dep'
   - label: 'fi/dep'
   - label: 'u/dep'
-- label: 'xsubj'
-  languages:
-  - label: 'en/dep'
