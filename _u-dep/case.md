@@ -158,12 +158,23 @@ cop(shape-4, is-2)
 case(shape-4, in-3)
 ~~~
 
-When prepositions are stacked, as occurs in *out of*, each preposition is independently analyzed as a case dependent:
+When prepositions are stacked (that is, there is a sequence of prepositions), there are two possible analyses. If the sequence is a frozen combination with a specific meaning, then the best analysis is as an `mwe`. An English example of this is *out of*:
 
 ~~~ sdparse
 Out of all this , something good will come .
 case(this-4, Out-1)
-case(this-4, of-2)
+mwe(Out-1, of-2)
 det(this-4, all-3)
 nmod(come, this-4)
+~~~
+
+However, if various combinations of prepositions can be used to express different meaning combinations or nuances, then  each preposition is independently analyzed as a case dependent. Examples of this in English include *up beside* (which can alternate with *down beside* or *up near*) or *except during* which can alternate with *as during* or *except after*:
+
+~~~ sdparse
+The cafe up beside the lookout
+det(cafe-2, The-1)
+case(lookout-6, up-3)
+case(lookout-6, beside-4)
+det(lookout-6, the-5)
+nmod(cafe-2, lookout-6)
 ~~~
