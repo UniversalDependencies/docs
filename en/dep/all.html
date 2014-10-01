@@ -464,43 +464,46 @@ poss(Chair-2, 's-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
 
-<h2 id="npmod--noun-phrase-as-adverbial-modifier">npmod : noun phrase as adverbial modifier</h2>
+<h2 id="nmodnpmod--noun-phrase-as-adverbial-modifier">nmod:npmod : noun phrase as adverbial modifier</h2>
 
-<p>This relation is a subtype of the <em>nmod</em> relation, which captures the following cases where something syntactically a noun phrase is used as an adverbial modifier in a sentence:</p>
+<p>This relation is a subtype of the <a href="">nmod</a> relation, which captures
+the following cases where something syntactically a noun phrase is
+used as an adverbial modifier in a sentence:</p>
 
 <p>(i) a measure phrase, which is the relation between the head of an adjectival/adverbial or prepositional phrase and the head of a measure phrase modifying it:</p>
 
 <pre><code class="language-sdparse">The director is 65 years old
-npmod(old, years)
+nmod:npmod(old, years)
 </code></pre>
 
 <pre><code class="language-sdparse">6 feet long
-npmod(long, feet)
+nmod:npmod(long, feet)
 </code></pre>
 
 <p>(ii) noun phrases giving an extent to a verb, which are not objects:</p>
 
 <pre><code class="language-sdparse">Shares eased a fraction
-npmod(eased, fraction)
+nmod:npmod(eased, fraction)
 </code></pre>
 
 <p>(iii) financial constructions involving an adverbial, notably the following construction <em>$5 a share</em>, where the second nominal means “per share”:</p>
 
 <pre><code class="language-sdparse">IBM earned $ 5 a share
-npmod($, share)
+nmod:npmod($, share)
 </code></pre>
 
 <p>(iv) floating reflexives</p>
 
 <pre><code class="language-sdparse">The silence is itself significant
-npmod(significant, itself)
+nmod:npmod(significant, itself)
 </code></pre>
 
 <p>and (v) certain other absolutive nominal constructions.</p>
 
-<p>A temporal modifier (tmod) is a subclass of <em>npmod</em> which is distinguished as a separate relation. </p>
+<p>A temporal modifier <a href="">nmod:tmod</a> is a subclass of npmod which is
+distinguished as a separate relation.</p>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/npmod.md" target="#">edit npmod</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod:npmod.md" target="#">edit nmod:npmod</a></p>
 
 <h2 id="nsubj--nominal-subject">nsubj : nominal subject</h2>
 <p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun. </p>
@@ -550,42 +553,52 @@ parataxis(Let, annoyed)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/parataxis.md" target="#">edit parataxis</a></p>
 
-<h2 id="poss--possessive-modifier">poss : possessive modifier</h2>
-<p>The possessive modifier relation is a subtype of the <em>case</em> relation. It holds between a noun and the genitive ‘s modifying it. </p>
+<h2 id="caseposs-possessive-modifier">case:poss: possessive modifier</h2>
+
+<p>The possessive modifier relation is a subtype of the <a href="">case</a>
+relation. It holds between a noun and the genitive <em>’s</em> modifying it.</p>
 
 <pre><code class="language-sdparse">Bill 's clothes
-possessive(Bill-1, 's-2)
+case:poss(Bill-1, 's-2)
 nmod(clothes-3, Bill-1)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/poss.md" target="#">edit poss</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/case:poss.md" target="#">edit case:poss</a></p>
 
-<h2 id="preconj--preconjunct">preconj : preconjunct</h2>
-<p>A preconjunct is the relation between the head of an NP and a word that appears at the beginning bracketing a conjunction (and puts emphasis on it), such as “either”, “both”, “neither”). </p>
+<h2 id="ccpreconj-preconjunct">cc:preconj: preconjunct</h2>
+
+<p>A preconjunct is the relation between the head of an NP and a word
+that appears at the beginning bracketing a conjunction (and puts
+emphasis on it), such as <em>either</em>, <em>both</em>, <em>neither</em>).</p>
 
 <pre><code class="language-sdparse">Both the boys and the girls are here
-preconj(boys, Both)
+cc:preconj(boys, Both)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/preconj.md" target="#">edit preconj</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc:preconj.md" target="#">edit cc:preconj</a></p>
 
-<h2 id="predet--predeterminer">predet : predeterminer</h2>
-<p>A predeterminer is the relation between the head of an NP and a word that precedes and modifies the meaning of the NP determiner. </p>
+<h2 id="detpredet-predeterminer">det:predet: predeterminer</h2>
+
+<p>A predeterminer is the relation between the head of an NP and a word
+that precedes and modifies the meaning of the NP determiner.</p>
 
 <pre><code class="language-sdparse">All the boys are here
-predet(boys, All)
+det:predet(boys, All)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/predet.md" target="#">edit predet</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det:predet.md" target="#">edit det:predet</a></p>
 
-<h2 id="prt--phrasal-verb-particle">prt : phrasal verb particle</h2>
-<p>The phrasal verb particle relation identifies a phrasal verb, and holds between the verb and its particle. It is a subtype of the <em>compound</em> relation.</p>
+<h2 id="compoundprt-phrasal-verb-particle">compound:prt: phrasal verb particle</h2>
+
+<p>The phrasal verb particle relation identifies a phrasal verb, and
+holds between the verb and its particle. It is a subtype of the
+<a href="">compound</a> relation.</p>
 
 <pre><code class="language-sdparse">They shut down the station
-prt(shut, down)
+compound:prt(shut, down)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/prt.md" target="#">edit prt</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound:prt.md" target="#">edit compound:prt</a></p>
 
 <h2 id="punct--punctuation">punct : punctuation</h2>
 <p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output. </p>
@@ -701,14 +714,19 @@ root(ROOT, man)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/root.md" target="#">edit root</a></p>
 
-<h2 id="tmod--temporal-modifier">tmod : temporal modifier</h2>
-<p>A temporal modifier is a subtype of the <em>npmod</em> relation: it is a bare noun phrase constituent that serves to modify the meaning of the constituent by specifying a time.  (Other temporal modifiers are prepositional phrases introduced as <em>nmod</em> or adverbs introduced as <em>advmod</em>). </p>
+<h2 id="nmodtmod--temporal-modifier">nmod:tmod : temporal modifier</h2>
+
+<p>A temporal modifier is a subtype of the <a href="">nmod:npmod</a> relation: it is
+a bare noun phrase constituent that serves to modify the meaning of
+the constituent by specifying a time.  (Other temporal modifiers are
+prepositional phrases introduced as <a href="">nmod</a> or adverbs introduced as
+<a href="">advmod</a>).</p>
 
 <pre><code class="language-sdparse">Last night , I swam in the pool
-tmod(swam, night)
+nmod:tmod(swam, night)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/tmod.md" target="#">edit tmod</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod:tmod.md" target="#">edit nmod:tmod</a></p>
 
 <h2 id="vocative-vocative">vocative: vocative</h2>
 
@@ -1446,7 +1464,7 @@ xcomp(looks, beautiful)
             },
 
             {
-                "title": "npmod",
+                "title": "nmod:npmod",
                 "url":   "/docs/en/dep/npmod.html",
             },
 
@@ -1471,22 +1489,22 @@ xcomp(looks, beautiful)
             },
 
             {
-                "title": "poss",
+                "title": "case:poss",
                 "url":   "/docs/en/dep/possessive.html",
             },
 
             {
-                "title": "preconj",
+                "title": "cc:preconj",
                 "url":   "/docs/en/dep/preconj.html",
             },
 
             {
-                "title": "predet",
+                "title": "det:predet",
                 "url":   "/docs/en/dep/predet.html",
             },
 
             {
-                "title": "prt",
+                "title": "compound:prt",
                 "url":   "/docs/en/dep/prt.html",
             },
 
@@ -1516,7 +1534,7 @@ xcomp(looks, beautiful)
             },
 
             {
-                "title": "tmod",
+                "title": "nmod:tmod",
                 "url":   "/docs/en/dep/tmod.html",
             },
 
