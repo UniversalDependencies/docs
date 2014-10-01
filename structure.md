@@ -415,7 +415,7 @@ nmod(had,rain)
 Martin Luther King had a dream .
 nsubj(had,Martin)
 name(Martin,Luther)
-name(Luther,King)
+name(Martin,King)
 </div>
 
 <div id="s8c" class="sd-parse">

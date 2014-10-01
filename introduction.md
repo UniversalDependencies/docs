@@ -18,7 +18,7 @@ constructions across languages, while allowing language-specific extensions when
 
 The Stanford dependencies were originally developed as a backend to the Stanford parser,
 eventually emerged as the de facto standard for dependency analysis of English, and have since 
-been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Seraji et al., 2013, Tsarfaty, 2013).
+been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013, Seraji et al., 2013, Tsarfaty, 2013).
 The Google universal tag set grew out of the cross-linguistic error analysis based on the 
 CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
@@ -44,7 +44,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * Jinho Choi
 * [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
 * [Filip Ginter](http://bionlp.utu.fi/)
-* Yoav Goldberg
+* [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * Christopher Manning
 * Ryan McDonald
