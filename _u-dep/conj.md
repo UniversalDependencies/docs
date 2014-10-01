@@ -92,6 +92,23 @@ ccomp(saw, met)
 ccomp(saw, kissed)
 ~~~
 
+If a dependent is shared among conjuncts, the basic representation always links it to the
+first conjunct (coordination head).
+Relations to the other conjuncts are in the extended representation.
+In the following example, extended dependencies are shown in red:
+
+~~~ conllu
+# visual-style 6 1 amod color:red
+# visual-style 4 3 amod color:red
+# visual-style 6 3 amod color:red
+1 American   _ _ _ _ 4 amod 6:amod        _
+2 and        _ _ _ _ 1 cc   _             _
+3 British    _ _ _ _ 1 conj 4:amod,6:amod _
+4 professors _ _ _ _ 0 root _             _
+5 and        _ _ _ _ 4 cc   _             _
+6 students   _ _ _ _ 4 conj 0:root        _
+~~~
+
 Note further that the current annotation scheme has only a limited capability to capture nested coordination
 such as _apples and pears or oranges and lemons._
 Consider coordinations
