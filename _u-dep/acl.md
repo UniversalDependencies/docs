@@ -22,6 +22,14 @@ Cette affaire à suivre \n This case to follow
 acl(affaire, suivre)
 ~~~
 
+This relation is also used for optional depictives.
+
+~~~ sdparse
+She entered the room sad .
+dobj(entered, room)
+acl(She, sad)
+~~~
+
 A relative clause is an instance of `acl`, characterized by finiteness and a trace of 
 the modified noun in the embedded clause . As with acl, the relation points from
 the noun that is modified to the head of the relative clause, normally
