@@ -73,6 +73,25 @@ data column and are not mixed with the universal POS tags.</p>
 Just one tag per word is expected, and it should not be empty. (Use the <code>X</code> tag
 instead of underscore if no other tag is appropriate.)</p>
 
+<h3 id="using-a-word-vs-mentioning-it">Using a word vs. mentioning it</h3>
+
+<p>The universal POS tags focus more on <em>what the word is</em> than on <em>which construction it is used in</em>
+(the latter is specified by the <a href="u/dep/index.html">dependency relation labels</a>).
+In particular, the POS tags do not distinguish actual usage of a word from just mentioning it.
+Thus in both the following examples, <em>yes</em> will be tagged as interjection:</p>
+
+<ul>
+  <li><em>Yes, I think so.</em></li>
+  <li><em>I am waiting for his ‘yes’ on the matter.</em></li>
+</ul>
+
+<p>Similarly, in both the following examples, <em>precede</em> will be tagged as verb:</p>
+
+<ul>
+  <li><em>Such discussion must precede every decision.</em></li>
+  <li><em>He pronounced ‘precede’ in a funny way.</em></li>
+</ul>
+
 <h2 id="features">Features</h2>
 
 <p>Features are additional pieces of information about the word, its part of speech
