@@ -4,7 +4,7 @@ title:  'cc'
 shortdef : 'coordinating conjunction'
 ---
 
-## cc (coordinating conjunction) <a name="sec-cc"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *Coordinating conjunctions* are marked as dependents of the first coordinated element, and the dependency type used is `cc`. 
 
@@ -19,7 +19,7 @@ conj(kirjat-1, viivottimet-5)
 
 <!--details-->
 
-Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type [`preconj`](http://universaldependencies.github.io/docs/fi/preconj.html) and the second part with `cc` in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type [`dep`](http://universaldependencies.github.io/docs/fi/dep.html), the rightmost word being the head.
+Coordinating conjunctions that consist of parts separated by coordinated elements are marked so that the first part is marked with the type [preconj]() and the second part with `cc` in the regular fashion. Adjacent parts of conjunctions are joined together with the most general dependency type [dep](), the rightmost word being the head.
 
 <!-- fname:cc2.pdf -->
 ~~~ sdparse
@@ -67,7 +67,7 @@ In addition, certain less frequent words or combinations of words are marked as 
 + mitä... sitä (the... the)
 + niin... kuin (as well as)
 + niin kuin (like)
-+ paitsi että (except that) (a two-part *preconjunction*, see Section [preconj](#sec-preconj))
++ paitsi että (except that) (a two-part *preconjunction*, see [preconj]())
 + paitsi... myös (not only... but also)
 + saati (let alone)
 + saati että (let alone that)

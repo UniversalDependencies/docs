@@ -4,7 +4,7 @@ title:  'advmod'
 shortdef : 'adverb modifier'
 ---
 
-## advmod (adverb modifier) <a name="sec-advmod"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `advmod` is used for *adverb modifiers* of verbs, nominals and adverbs alike.
 

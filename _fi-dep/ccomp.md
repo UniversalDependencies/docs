@@ -4,7 +4,7 @@ title:  'ccomp'
 shortdef : 'clausal complement'
 ---
 
-## ccomp (clausal complement) <a name="sec-ccomp"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *Clausal complements* that have a subject different from that of the main clause (Note that a clausal complement need not have a subject present at all; the clause could be, for instance, passive.)  are marked with the dependency type `ccomp`. The governor is most commonly, although not always, the main verb or predicative of the main clause, and the dependent is the main verb or predicative of the dependent clause. The clausal complement can also modify a word other than a verb, most often a noun or pronoun. Most commonly clausal complements are *että*-clauses. <!--Distinguishing different verbal dependents, including different clausal complements, is discussed more closely in Section [verbal](#sec-verbal).-->
 

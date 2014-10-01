@@ -4,10 +4,9 @@ title:  'appos'
 shortdef : 'apposition'
 ---
 
-## appos (apposition) <a name="sec-appos"></a>
+## appos (apposition)
 
 An *apposition* (`appos`) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a *supporting noun* (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related *appellation modifiers* are discussed in detail below.
-
 
 <!-- fname:appos1.pdf -->
 ~~~ sdparse
@@ -21,8 +20,6 @@ advmod(luennoi-6, tänään-7)
 punct(luennoi-6, .-8)
 ~~~
 
-
-
 <!-- fname:appos2.pdf -->
 ~~~ sdparse
 Kirjassa Putkinotko on mielenkiintoinen juoni . \n In_the_book Putkinotko is interesting plot .
@@ -33,10 +30,9 @@ amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
 ~~~
 
-
 <!--details-->
 
-## Appositions and appellation modifiers
+### Appositions and appellation modifiers
 
 The Finnish Grammar (see ISK <a
 href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a> <a
@@ -44,8 +40,7 @@ href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>)
 distinguishes between three similar phenomena: the apposition, the
 appellation modifier (*nimikemääarite*) and the supporting noun
 (*tukisubstantiivi*). Out of these, the apposition and the appellation
-modifier
-([nn](http://universaldependencies.github.io/docs/fi/nn.html)) are
+modifier ([nn]()) are
 distinguished in TDT, and supporting noun structures are considered
 appositions.
 

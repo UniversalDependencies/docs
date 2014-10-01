@@ -5,7 +5,7 @@ shortdef : 'genitive object'
 tags: ['case']
 ---
 
-## {{ page.title }}: {{ page.shortdef }} <a name="sec-gobj"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 Certain nouns, those which have been directly derived from a verb or
 otherwise have a verb counterpart, can take an object in

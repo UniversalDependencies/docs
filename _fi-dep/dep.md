@@ -4,10 +4,9 @@ title:  'dep'
 shortdef : 'dependent'
 ---
 
-## dep (dependent) <a name="sec-dep"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The name of the dependency type `dep` stands for *dependent*. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type `dep` is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.
-
 
 <!-- fname:dep.pdf -->
 ~~~ sdparse
@@ -25,7 +24,6 @@ punct(tuli-4, .-7)
 The following expressions are considered idiomatic, and their parts are to be combined with the dependency type `dep` in TDT. Note that this is not intended to be a closed list, but rather a list of examples encountered while annotating TDT. The two-part expressions that fall into the categories of coordinating and subordinating conjunctions are omitted here, and instead listed under <a href="http://universaldependencies.github.io/docs/fi/cc.html">cc</a> and <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>, respectively. Due to the idiomatic nature of these two-part expressions, the translations may on occasion not be very natural.
 
 ### Adverbs:
-
 
 + aika lailla (quite some)
 + aina vain (forever and ever)
@@ -94,29 +92,21 @@ The following expressions are considered idiomatic, and their parts are to be co
 + yhtä paljon (the same amount, as much)
 + yleisesti ottaen (generally speaking)
 
-
 ### Adjectives:
-
 
 + niin kutsuttu (so called)
 + niin sanottu (so called)
 
-
 ### Adpositions:
-
 
 + lukuun ottamatta (disregarding)
 
-
 ### Determiners:
-
 
 + itse kukin (each)
 + joka ainoa (each and every one)
 
-
 ### Interjections:
-
 
 + ai ai (oh oh, tut tut)
 + ai niin (oh yeah)
@@ -134,17 +124,11 @@ The following expressions are considered idiomatic, and their parts are to be co
 + voi että (oh dear)
 + voi po(i)jat (oh boy)
 
-
 ### Nominals:
-
 
 + missä ikinä (wherever)
 
-
 ### Other: (the POS may vary)
-
 
 + mikä tahansa (whichever, whatever)
 + mikä vain (whichever, whatever)
-
-

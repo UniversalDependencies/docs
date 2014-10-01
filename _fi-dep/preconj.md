@@ -4,10 +4,11 @@ title:  'preconj'
 shortdef : 'preconjunction'
 ---
 
-## preconj (preconjunction) <a name="sec-preconj"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
-*Preconjunction* (`preconj`) marks the first part of those two-part coordinating conjunctions where the two parts are separated by coordinated elements.
-
+*Preconjunction* (`preconj`) marks the first part of those two-part
+coordinating conjunctions where the two parts are separated by
+coordinated elements.
 
 <!-- fname:preconj.pdf -->
 ~~~ sdparse
@@ -17,9 +18,7 @@ cc(talo-2, että-3)
 conj(talo-2, piha-4)
 ~~~
 
-
 Such two-part coordinating conjunctions in TDT are:
-
 
 + joko... tai (either... or)
 + milloin... milloin (when... when)
@@ -34,5 +33,3 @@ Such two-part coordinating conjunctions in TDT are:
 + toisaalta... toisaalta (on the one hand... on the other hand)
 + vuoroin... vuoroin (in turn... in turn)
 + yhtä lailla... kuin (+kin) (as much... as also)
-
-

@@ -4,12 +4,11 @@ title:  'rel'
 shortdef : 'relativizer'
 ---
 
-## rel (relativizer) <a name="sec-rel"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 The *relativizer* (`rel`) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. 
 
 <!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
-
 
 <!-- fname:rel_basic.pdf -->
 ~~~ sdparse
@@ -25,8 +24,6 @@ advmod(nopeasti-9, hyvin-8)
 punct(ajoi-7, .-10)
 ~~~
 
-
-
 <!-- fname:rel_phrase.pdf -->
 ~~~ sdparse
 Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
@@ -39,5 +36,3 @@ nsubj(pyysi-7, Nainen-1)
 dobj(pyysi-7, apuamme-8)
 punct(pyysi-7, .-9)
 ~~~
-
-

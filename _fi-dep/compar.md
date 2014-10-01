@@ -8,7 +8,6 @@ shortdef : 'comparative'
 
 The dependency type `compar` is used in comparative constructions, most often involving adjectives in the comparative form. The head of the `compar` dependency is the comparative wordform, and the dependent is the compared element. 
 
-
 <!-- fname:compar.pdf -->
 ~~~ sdparse
 parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
@@ -19,14 +18,14 @@ amod(näytelmä-4, eilinen-3)
 
 <!--details-->
 
-## Comparatives and superlatives
+### Comparatives and superlatives
 
 This section describes annotating comparative and superlative
 structures, which, in TDT, are considered to include also certain
 similar structures that do not contain a comparative or superlative
 wordform.
 
-### Comparatives
+#### Comparatives
 
 Structures with comparative adjectives and adverbs may be difficult
 to annotate: they are often elliptical, and it may be difficult to
@@ -113,7 +112,6 @@ comparator(Pekka-5, kuin-4)
 punct(Luin-1, .-6)
 ~~~
 
-
 An additional difficulty is posed by the fact that in Finnish, the
 comparative conjunction *kuin* can also appear as a
 subordinating conjunction as well as an adverb. Borderline
@@ -123,7 +121,7 @@ secondarily, whether the dependent structure is a
 clause. (Comparative structures can also occasionally be
   full clauses.)
 
-### Superlatives
+#### Superlatives
 
 Superlatives are less problematic than comparatives but deserve some
 attention nevertheless. The basic case with superlatives is simple:
@@ -233,7 +231,6 @@ nsubj(oli-3, kaunein-2)
 nmod(oli-3, ikkunalaudalla-4)
 punct(oli-3, .-5)
 ~~~
-
 
 Note how in the previous example the phrase *kukista kaunein*
 can act as a noun phrase (it is the subject of the clause), even

@@ -4,10 +4,11 @@ title:  'complm'
 shortdef : 'complementizer'
 ---
 
-## complm (complementizer) <a name="sec-complm"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
-The *complementizer* (*complm*) appears in most clausal complements, and the head of the dependency is the main verb of the subordinate clause. The only complementizer in Finnish is *että* (*that*).
-
+The *complementizer* (`complm`) appears in most clausal complements,
+and the head of the dependency is the main verb of the subordinate
+clause. The only complementizer in Finnish is *että* (*that*).
 
 <!-- fname:complm.pdf -->
 ~~~ sdparse
@@ -19,5 +20,3 @@ nsubj(tulla-6, hän-4)
 aux(tulla-6, voi-5)
 punct(Sanoin-1, .-7)
 ~~~
-
-

@@ -5,7 +5,7 @@ shortdef : 'genitive subject'
 tags: ['case']
 ---
 
-## {{ page.title }}: {{ page.shortdef }} <a name="sec-gsubj"></a>
+## `{{ page.title }}`: {{ page.shortdef }}
 
 *Genitive subjects* are subject-like arguments taken by a noun. This
 is in parallel to genitive objects [case:gobj]().
