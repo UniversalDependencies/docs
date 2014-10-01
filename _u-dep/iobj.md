@@ -31,7 +31,7 @@ iobj(teaches, daughter.Acc)
 In general, if there is just one object, it should be labeled
 [dobj](), regardless of the morphological case. If there are two or
 more objects, one of them should be [dobj]() and the others should be
-{{ page.title }}. In such cases it is necessary to decide what is the
+`iobj`. In such cases it is necessary to decide what is the
 most directly affected object _(patient)._ If possible,
 language-specific documentation should help identify direct and
 indirect objects.
