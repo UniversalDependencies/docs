@@ -96,7 +96,7 @@ ccomp(saw, kissed)
 
 If a dependent is shared among conjuncts, the basic representation always links it to the
 first conjunct (coordination head).
-Relations to the other conjuncts are in the extended representation.
+Relations to the other conjuncts are in the enhanced representation.
 In the following example, enhanced dependencies are shown in red:
 
 ~~~ conllu
@@ -121,7 +121,7 @@ Consider coordinations
 * (A, B), C
 * A, (B, C)
 
-The first two cases, i.e. (A, B, C) and ((A, B), C) lead to the same tree:
+The first two cases, i.e. (A, B, C) and ((A, B), C), lead to the same tree:
 
 ~~~ sdparse
 A B C
