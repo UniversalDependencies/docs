@@ -62,12 +62,13 @@ pre {
 
 code {
   line-height: 1.4;
-  font: 12px 'Bitstream Vera Sans Mono','Courier',monospace;
+/*   font: 12px 'Bitstream Vera Sans Mono','Courier',monospace; */
+  font-family: 'Bitstream Vera Sans Mono','Courier',monospace;
   margin: 0 2px;
-  padding: 0 5px;
-  border: 1px solid #EAEAEA;
-  background-color: #F8F8F8;
-  border-radius: 3px;
+/*   padding: 0 5px; */
+/*   border: 1px solid #EAEAEA; */
+/*   background-color: #F8F8F8; */
+/*   border-radius: 3px; */
 }
 
 
