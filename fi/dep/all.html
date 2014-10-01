@@ -136,17 +136,17 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td><a href="nummod.html">nummod</a></td>
-	  <td><a href="relcl.html">relcl</a></td>
+	  <td><a href="acl.html">acl</a></td>
 	  <td><a href="amod.html">amod</a></td>
 	</tr>
 	<tr>
 	  <td><a href="appos.html">appos</a></td>
-	  <td>&nbsp;</td>
+	  <td><a href="acl-relcl.html">↳acl:relcl</a></td>
 	  <td><a href="det.html">det</a></td>
 	</tr>
 	<tr>
 	  <td><a href="nmod.html">nmod</a></td>
-	  <td>&nbsp;</td>
+	  <td><a href="acl-infmod.html">↳acl:infmod</a></td>
 	  <td><a href="neg.html">neg</a></td>
 	</tr>
       </table>
@@ -236,6 +236,63 @@ and <i>punct</i> appear in two places.</p>
 </table>
 
 <hr />
+
+<h2 id="aclinfmod-infinitive-modifier">acl:infmod (infinitive modifier)</h2>
+
+<p>The dependency type <code>acl:infmod</code> is used for infinitives that modify a nominal or a noun phrase.</p>
+
+<!-- fname:infmod.pdf -->
+<pre><code class="language-sdparse">Minulla oli lupa mennä ulos . \n I had permission to_go out .
+nmod(oli-2, Minulla-1)
+nsubj(oli-2, lupa-3)
+acl:infmod(lupa-3, mennä-4)
+advmod(mennä-4, ulos-5)
+punct(oli-2, .-6)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl:infmod.md" target="#">edit acl:infmod</a></p>
+
+<h2 id="aclrelcl-relative-clause-modifier">acl:relcl (relative clause modifier)</h2>
+
+<p>A <em>relative clause modifier</em> (<code>acl:relcl</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
+
+<!-- fname:relcl_NP.pdf -->
+<pre><code class="language-sdparse">Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
+acl:relcl(Mies-1, nähnyt-6)
+punct(nähnyt-6, ,-2)
+rel(nähnyt-6, jonka-3)
+nsubj(nähnyt-6, hän-4)
+aux(nähnyt-6, oli-5)
+advmod(nähnyt-6, eilen-7)
+punct(nähnyt-6, ,-8)
+nsubj(oli-9, Mies-1)
+advmod(oli-9, taas-10)
+nmod(oli-9, ovella-11)
+punct(oli-9, .-12)
+</code></pre>
+
+<!-- fname:relcl_clause.pdf -->
+<pre><code class="language-sdparse">Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
+nsubj(kolahti-2, Ovi-1)
+advmod(kolahti-2, auki-3)
+acl:relcl(kolahti-2, säikäytti-6)
+punct(säikäytti-6, ,-4)
+rel(säikäytti-6, mikä-5)
+dobj(säikäytti-6, lapsen-7)
+punct(kolahti-2, .-8)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl:relcl.md" target="#">edit acl:relcl</a></p>
+
+<h2 id="acl-clausal-modifier-of-noun">acl: clausal modifier of noun</h2>
+
+<p><code>acl</code> stands for finite and non-finite clauses that modify a noun, in
+contrast to the <a href="">advcl</a> relation which is used for adverbial clauses
+that modify a predicate. The head of the <code>acl</code> relation is the noun
+that is modified, and the dependent is the head of the clause that
+modifies the noun.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
 
 <h2 id="acomp-adjectival-complement">acomp (adjectival complement)</h2>
 
@@ -785,21 +842,6 @@ punct(Sain-1, .-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/iccomp.md" target="#">edit iccomp</a></p>
 
-<h2 id="infmod-infinitive-modifier">infmod (infinitive modifier)</h2>
-
-<p>The dependency type <code>infmod</code> is used for infinitives that modify a nominal or a noun phrase.</p>
-
-<!-- fname:infmod.pdf -->
-<pre><code class="language-sdparse">Minulla oli lupa mennä ulos . \n I had permission to_go out .
-nmod(oli-2, Minulla-1)
-nsubj(oli-2, lupa-3)
-infmod(lupa-3, mennä-4)
-advmod(mennä-4, ulos-5)
-punct(oli-2, .-6)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/infmod.md" target="#">edit infmod</a></p>
-
 <h2 id="list">list</h2>
 
 <p>The description of the USD relation <code>list</code> in Finnish is not yet completed.</p>
@@ -1289,38 +1331,6 @@ punct(pyysi-7, .-9)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/rel.md" target="#">edit rel</a></p>
-
-<h2 id="relcl-relative-clause-modifier">relcl (relative clause modifier)</h2>
-
-<p>A <em>relative clause modifier</em> (<code>relcl</code>) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.</p>
-
-<!-- fname:relcl_NP.pdf -->
-<pre><code class="language-sdparse">Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
-relcl(Mies-1, nähnyt-6)
-punct(nähnyt-6, ,-2)
-rel(nähnyt-6, jonka-3)
-nsubj(nähnyt-6, hän-4)
-aux(nähnyt-6, oli-5)
-advmod(nähnyt-6, eilen-7)
-punct(nähnyt-6, ,-8)
-nsubj(oli-9, Mies-1)
-advmod(oli-9, taas-10)
-nmod(oli-9, ovella-11)
-punct(oli-9, .-12)
-</code></pre>
-
-<!-- fname:relcl_clause.pdf -->
-<pre><code class="language-sdparse">Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
-nsubj(kolahti-2, Ovi-1)
-advmod(kolahti-2, auki-3)
-relcl(kolahti-2, säikäytti-6)
-punct(säikäytti-6, ,-4)
-rel(säikäytti-6, mikä-5)
-dobj(säikäytti-6, lapsen-7)
-punct(kolahti-2, .-8)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/relcl.md" target="#">edit relcl</a></p>
 
 <h2 id="remnant">remnant</h2>
 
@@ -2160,6 +2170,21 @@ punct(alkoi-2, .-5)
         "fi-dep": [
 
             {
+                "title": "acl:infmod",
+                "url":   "/docs/fi/dep/acl-infmod.html",
+            },
+
+            {
+                "title": "acl:relcl",
+                "url":   "/docs/fi/dep/acl-relcl.html",
+            },
+
+            {
+                "title": "acl",
+                "url":   "/docs/fi/dep/acl.html",
+            },
+
+            {
                 "title": "acomp",
                 "url":   "/docs/fi/dep/acomp.html",
             },
@@ -2325,11 +2350,6 @@ punct(alkoi-2, .-5)
             },
 
             {
-                "title": "infmod",
-                "url":   "/docs/fi/dep/infmod.html",
-            },
-
-            {
                 "title": "list",
                 "url":   "/docs/fi/dep/list.html",
             },
@@ -2427,11 +2447,6 @@ punct(alkoi-2, .-5)
             {
                 "title": "rel",
                 "url":   "/docs/fi/dep/rel.html",
-            },
-
-            {
-                "title": "relcl",
-                "url":   "/docs/fi/dep/relcl.html",
             },
 
             {
