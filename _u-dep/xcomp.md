@@ -27,6 +27,11 @@ xcomp(asked, respond)
 ~~~
 
 ~~~ sdparse
+I started to work there yesterday
+xcomp(started, work)
+~~~
+
+~~~ sdparse
 I consider him a fool
 xcomp(consider, fool)
 ~~~
@@ -36,9 +41,20 @@ I consider him honest
 xcomp(consider, honest)
 ~~~
 
+~~~ sdparse
+We expect them to change their minds
+xcomp(expect, change)
+~~~
+
 Note that the above condition “without its own subject” does not mean that a 
 clause is `xcomp` just because its subject is not _overt._ The subject must be inherited from a higher clause, that is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the subject of the upper clause.
+from the subject of the upper clause. In cases where the missing subject may or must be distinct from the higher subject, `ccomp` should be used instead, as below.
+
+~~~ sdparse
+The boss said to start digging
+xcomp(said, start)
+~~~
+
 Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
