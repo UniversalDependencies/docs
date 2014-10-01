@@ -30,7 +30,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## cc
 - cc:preconj
-[Englihs](en-dep/cc:preconj)
+[English](en-dep/cc:preconj)
 
 
 ## ccomp
@@ -65,5 +65,5 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## nsubj
--nsubj:cop
+- nsubj:cop
 [Finnish](fi-dep/nsubj:cop)
