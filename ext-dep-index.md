@@ -20,7 +20,7 @@ English:
 
 Finnish:
 
-- TODO: `acl:relcl`?
+- [fi-dep/acl:relcl]()
 - [fi-dep/nsubj:cop]()
 - [fi-dep/csubj:cop]()
 - [fi-dep/nmod:own]()
