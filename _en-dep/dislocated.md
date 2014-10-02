@@ -8,4 +8,9 @@ The `dislocated` relation is used for fronted or postposed elements
 that do not fulfill the usual core grammatical relations of a
 sentence.
 
-[TODO: Example?]
+~~~ sdparse
+This is our office, me and Sam.
+dislocated(our, me)
+cc(me, and)
+conj(me, Sam)
+~~~
