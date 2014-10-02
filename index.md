@@ -89,6 +89,25 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 </div>
 
+<!-- new tab template -->
+<!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
+<!-- * [Tokenization](LC/overview/tokenization.html) -->
+<!-- * Morphology -->
+<!--   * [General principles](LC/overview/morphology.html) -->
+<!--   * POS tags: TODO -->
+<!--   * Features: TODO -->
+<!-- * Syntax -->
+<!--   * [General principles](LC/overview/syntax.html) -->
+<!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
+<!-- * [CoNLL-U format](format.html) -->
+<!-- <small>  -->
+<!-- This is part of the language-specific documentation for Universal -->
+<!-- Dependencies. <strong>Language-specific guidlines are currently under -->
+<!-- revision and should not be considered final.</strong> Our goal is to -->
+<!-- have a stable version of this part of the documentation by 2015-01-01. -->
+<!-- </small> -->
+<!-- </div> -->
+
 <div id="language-other" markdown="1" class="ui-tabs-hide">
 More languages to come.
 
