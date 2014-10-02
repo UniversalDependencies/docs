@@ -26,6 +26,8 @@ collections:
   ext-feat:
     output: true
     permalink: /u/ext-feat/:path.html
+  en-overview:
+    output: true
   en-dep:
     output: true
     permalink: /en/dep/:path.html
