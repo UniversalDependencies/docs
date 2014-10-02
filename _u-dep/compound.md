@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'compound'
 shortdef: 'compound'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 `compound` is one of the three relations in UD for compounding.
 

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'discourse'
 shortdef: 'discourse element'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 This is used for [interjections](u-pos/INTJ) and other discourse [particles](u-pos/PART) and
 elements (which are not clearly linked to the structure of the

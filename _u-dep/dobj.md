@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'dobj'
 shortdef: 'direct object'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The direct object of a verb is the noun phrase that denotes the entity acted upon.
 

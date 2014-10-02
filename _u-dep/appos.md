@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'appos'
 shortdef: 'appositional modifier'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 An appositional modifier of a noun is a nominal immediately following
 the first noun that serves to define or modify that noun. It includes

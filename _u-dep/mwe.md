@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'mwe'
 shortdef: 'multi-word expression'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The multi-word expression (modifier) relation is one of the three
 relations ([compound](), `mwe`, [name]()) for compounding.

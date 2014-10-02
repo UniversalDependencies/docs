@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'acl'
 shortdef: 'clausal modifier of noun'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 `acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation 
 contrasts with the [advcl]() relation, which is used for adverbial clauses

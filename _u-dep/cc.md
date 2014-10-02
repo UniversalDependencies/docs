@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 For more on coordination, see the [conj]() relation.
 A `cc` is the relation between the first conjunct and

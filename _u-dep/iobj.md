@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'iobj'
 shortdef: 'indirect object'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The indirect object of a verb is any nominal phrase that is a core
 argument of the verb but is not its subject or [direct object](dobj).

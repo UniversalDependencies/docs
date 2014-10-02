@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'expl'
 shortdef: 'expletive'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 This relation captures pleonastic nominals. In English, this is some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.) An expletive or pleonastic nominal is one where the nominal does not satisfy a semantic role of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor.
 

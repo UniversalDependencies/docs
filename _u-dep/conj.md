@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'conj'
 shortdef: 'conjunct'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A conjunct is the relation between two elements connected by a
 coordinating conjunction, such as _and, or,_ etc.  We treat

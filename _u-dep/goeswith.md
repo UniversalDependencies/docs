@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'goeswith'
 shortdef: 'goes with'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 This relation links two parts of a word that are separated in text
 that is not well edited.

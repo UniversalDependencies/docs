@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'parataxis'
 shortdef: 'parataxis'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The parataxis relation (from Greek for "place side by side") is a
 relation between the main verb of a clause and other sentential

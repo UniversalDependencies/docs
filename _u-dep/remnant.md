@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'remnant'
 shortdef: 'remnant in ellipsis'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The `remnant` relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal

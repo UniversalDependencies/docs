@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'nsubj'
 shortdef: 'nominal subject'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A nominal subject is a nominal phrase which is the syntactic subject of a
 clause.

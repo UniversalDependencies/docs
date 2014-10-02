@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'xcomp'
 shortdef: 'open clausal complement'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 An open clausal complement (`xcomp`) of a verb or an adjective is a
 predicative or clausal complement without its own subject. The
@@ -180,5 +178,3 @@ The dog barked the neighbors awake .
 dobj(barked, neighbors)
 xcomp(barked, awake)
 ~~~
-
-

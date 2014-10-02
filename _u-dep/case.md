@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'case'
 shortdef: 'case marking'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The `case` relation is used for any case-marking element which is treated as a separate syntactic word (including prepositions, postpositions, and clitic case markers). Case-marking elements are treated as dependents of the noun or clause they attach to or introduce. (Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object.) The `case` relation aims at providing a more uniform analysis of nominal elements, prepositions and case in morphologically rich languages: a nominal in an oblique case will receive the same dependency structure as a nominal introduced by an adposition.
 

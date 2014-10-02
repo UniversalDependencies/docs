@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'cop'
 shortdef: 'copula'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A copula is the relation between the complement of a copular verb and
 the copular verb *to be* (only).  (We normally take a copula as a dependent of its

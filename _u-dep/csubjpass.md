@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A clausal passive subject is a clausal syntactic subject of a passive
 clause. In the example below, *that she lied* is the subject.
