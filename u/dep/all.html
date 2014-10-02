@@ -836,8 +836,8 @@ conj(A, B)
 <h2 id="cop-copula"><code>cop</code>: copula</h2>
 
 <p>A copula is the relation between the complement of a copular verb and
-the copular verb.  (We normally take a copula as a dependent of its
-complement)</p>
+the copular verb <em>to be</em> (only).  (We normally take a copula as a dependent of its
+complement.)</p>
 
 <pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
@@ -850,7 +850,7 @@ det(dancer-5, the-3)
 amod(dancer-5, best-4)
 </code></pre>
 
-<p>The copula <em>be</em> are not treated as the
+<p>The copula <em>be</em> is not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.</p>
 
 <p>Such an analysis is motivated by the fact that many languages
@@ -883,7 +883,7 @@ amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
 </code></pre>
 
-<p>Additionally, ccomp is used with copulas. The structure in these cases is different.</p>
+<p>Additionally, ccomp is used with copulas. Only in this case, the structure is different, and we take the form of <em>be</em> as a head:</p>
 
 <pre><code class="language-sdparse">The important thing is to keep calm .
 ccomp(is, keep)
@@ -894,6 +894,8 @@ nsubj(is, thing)
 ccomp(is, tried)
 nsubj(is, problem)
 </code></pre>
+
+<p>If we took the main verb as the head, it would have two subjects, which would be unworkable. Examples like the above <em>could</em> be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of <em>be</em>, such as in: <em>(For us) to not attempt to solve the problem is (for us) to acknowledge defeat</em>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/cop.md" target="#">edit cop</a></p>
 
