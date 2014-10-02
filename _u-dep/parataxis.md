@@ -58,4 +58,4 @@ The guy , he said , left early in the morning .
 parataxis(left, said)
 ~~~
 
-An argument for this position is that in the cases analyzed as embedding, the clause can be further embedded (_I was taken aback when John said the guy left early in the morning._), while this is not possible with medial or final placement of the speech verb (_*I was taken aback when The guy left early this morning, John said._).
+An argument for this analysis is that in the cases analyzed as embedding, the entire clause can be further embedded (_I was taken aback when John said the guy left early in the morning._), while this is not possible with medial or final placement of the speech verb (_*I was taken aback when the guy left early this morning, John said._).
