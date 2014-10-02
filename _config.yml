@@ -29,6 +29,8 @@ collections:
   en-dep:
     output: true
     permalink: /en/dep/:path.html
+  fi-overview:
+    output: true
   fi-dep:
     output: true
     permalink: /fi/dep/:path.html
