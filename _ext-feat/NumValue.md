@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NumValue'
 shortdef: 'numeric value'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Low-value (<5) cardinal numbers in Slavic languages behave
 morphologically and syntactically differently from the rest, therefore

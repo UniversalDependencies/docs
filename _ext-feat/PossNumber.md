@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PossNumber'
 shortdef: 'possessor’s number'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Possessives
 may have two different numbers: that of the possessed object (number

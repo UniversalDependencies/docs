@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'AdpType'
 shortdef: 'adposition type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Prep: preposition
 

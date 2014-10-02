@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Style'
 shortdef: 'style or sublanguage to which this word form belongs'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 This
 may be a lexical feature (some words-lemmas are archaic, some are

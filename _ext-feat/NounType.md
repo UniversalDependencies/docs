@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NounType'
 shortdef: 'noun type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 We already split common and proper nouns at the level of POS
 tags but some tagsets mark other distinctions.

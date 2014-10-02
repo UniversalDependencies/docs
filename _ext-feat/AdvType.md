@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'AdvType'
 shortdef: 'adverb type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Semantic subclasses of adverbs. They are annotated in some tagsets
 (e.g. Bulgarian, Czech, Hindi, Japanese) and would probably apply to

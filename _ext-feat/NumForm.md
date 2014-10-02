@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NumForm'
 shortdef: 'numeral form'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Feature of cardinal and ordinal numbers. Is the number expressed by
 digits or as a word? This feature appears in 10+ tagsets that I

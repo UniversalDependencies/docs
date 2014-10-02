@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Typo'
 shortdef: 'is this a misspelled word?'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Indicates bad spelling, grammatical error etc. Does not say how the
 correct form looks like.

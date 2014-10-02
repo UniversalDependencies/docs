@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PossedNumber'
 shortdef: 'possessed object’s number'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ## PossedNumber
 

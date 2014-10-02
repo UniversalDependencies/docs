@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PartType'
 shortdef: 'particle type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Types of particles found in various tagsets. I am merely presenting
 here what I have in Interset now. We will have to make it match our

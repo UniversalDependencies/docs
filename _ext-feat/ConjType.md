@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'ConjType'
 shortdef: 'conjunction type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 We already distinguished the two main types, coordinating and
 subordinating conjunctions, at the level of POS tags. However, there

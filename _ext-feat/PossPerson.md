@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PossPerson'
 shortdef: 'possessor’s person'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 PossPerson
 is possessor's person, marked e.g. on Hungarian nouns. These noun

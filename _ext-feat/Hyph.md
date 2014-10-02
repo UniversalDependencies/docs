@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Hyph'
 shortdef: 'hyphenated compound or part of it'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Boolean feature. Is this part of a hyphenated compound? Depending on
 tokenization, the compound may be one token or be split to several

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PunctType'
 shortdef: 'punctuation type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Many tagsets have just one tag for punctuation. Others (including the
 Penn Treebank and the Swedish Mamba tagset) classify punctuation in

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Politeness'
 shortdef: 'distinguish informal and polite registers'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Various
 languages have various means to express politeness or respect; some

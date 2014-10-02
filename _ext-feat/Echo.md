@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Echo'
 shortdef: 'is this an echo word or a reduplicative?'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Is this a reduplicative or echo word? Such words occur in Hindi and
 other Indian languages. In Hyderabad Dependency Treebank they get

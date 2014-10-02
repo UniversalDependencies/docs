@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NameType'
 shortdef: 'type of named entity or term'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Class: classifier
 

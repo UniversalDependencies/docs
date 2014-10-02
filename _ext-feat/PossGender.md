@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PossGender'
 shortdef: 'possessor’s gender'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Possessive
 adjectives and pronouns may have two different genders: that of the

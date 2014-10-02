@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'VerbType'
 shortdef: 'verb type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 We already split auxiliary and non-auxiliary verbs at the level of POS
 tags but some tagsets mark other distinctions.

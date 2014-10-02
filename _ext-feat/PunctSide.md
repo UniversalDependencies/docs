@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PunctSide'
 shortdef: 'which side of paired punctuation is this?'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Distinguishes between initial and final form of pairwise punctuation
 (brackets, quotation marks, question and exclamation in Spanish). Note

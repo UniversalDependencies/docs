@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Foreign'
 shortdef: 'is this a foreign word?'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Boolean feature. Is this a foreign word? Not a loan word and not a
 foreign name but a genuinely foreign word appearing inside native
