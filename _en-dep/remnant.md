@@ -1,16 +1,14 @@
 ---
-layout: base
+layout: entry
 title:  'remnant'
 shortdef : 'remnant in ellipsis'
 ---
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The `remnant` relation is used to provide a satisfactory treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
 head gets elided) *without* having to postulate empty nodes in the basic representation. This is something that was lacking in earlier versions
 of SD and provides a basis for being able to reconstruct dependencies
 in the enhanced representation of SD. 
-
 
 USD adopts an analysis that notes that in ellipsis a `remnant` corresponds to a *correlate* in a preceding clause. The `remnant` relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation.
 
@@ -65,4 +63,3 @@ conj(win-3, will-7)
 nsubj(will-7, Mary-6)
 advmod(will-7, too-8)
 ~~~
-

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'dobj'
 shortdef : 'direct object'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The direct object of a VP is the noun phrase which is the (accusative) object of the verb. 
 

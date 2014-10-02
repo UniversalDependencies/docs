@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'nsubj'
 shortdef : 'nominal subject'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun. 
 

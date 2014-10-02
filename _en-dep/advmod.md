@@ -1,12 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'advmod'
 shortdef : 'adverbial modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word. 
+An adverbial modifier of a word is a (non-clausal) adverb or adverbial
+phrase (ADVP) that serves to modify the meaning of the word.
 
 ~~~ sdparse
 Genetically modified food

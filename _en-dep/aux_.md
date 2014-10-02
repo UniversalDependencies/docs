@@ -1,13 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'aux'
 shortdef : 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "en/dep/aux.html"
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 An auxiliary of a clause is a non-main verb of the clause, e.g., a
 modal auxiliary, or a form of *be*, *do* or *have* in a periphrastic

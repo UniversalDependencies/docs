@@ -1,12 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'neg'
 shortdef : 'negation modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-The negation modifier is the relation between a negation word and the word it modifies. 
+The negation modifier is the relation between a negation word and the
+word it modifies.
 
 ~~~ sdparse
 Bill is not a scientist

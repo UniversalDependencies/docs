@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'det:predet'
 shortdef : 'predeterminer'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A predeterminer is the relation between the head of an NP and a word
 that precedes and modifies the meaning of the NP determiner.

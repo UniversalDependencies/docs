@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'nmod'
 shortdef : 'nominal modifier'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The `nmod` relation is used for nominal modifiers of nouns or clausal
 predicates. `nmod` is a noun functioning as a non-core (oblique)

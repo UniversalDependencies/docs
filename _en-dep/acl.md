@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'acl'
 shortdef : 'clausal modifier of noun'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 `acl` is used for finite and non-finite clauses that modify a
 noun. Note that in English relative clauses get assigned a specific

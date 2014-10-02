@@ -1,9 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'compound'
 shortdef: 'compound'
 ---
-## `{{ page.title }}`: {{ page.shortdef }}
 
 *compound* is used for 
 

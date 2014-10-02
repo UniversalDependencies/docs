@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'dep'
 shortdef : 'dependent'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A dependency is labeled as `dep` when a system is unable to determine
 a more precise dependency relation between two words.  This may be

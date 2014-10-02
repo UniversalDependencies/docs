@@ -1,12 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'amod'
 shortdef : 'adjectival modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-An adjectival modifier of an NP is any adjectival phrase that serves to modify the meaning of the NP. 
+An adjectival modifier of an NP is any adjectival phrase that serves
+to modify the meaning of the NP.
 
 ~~~ sdparse
 Sam eats red meat

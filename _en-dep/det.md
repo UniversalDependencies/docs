@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'det'
 shortdef : 'determiner'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A determiner is the relation between the head of an NP and its determiner. 
 

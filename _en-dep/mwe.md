@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'mwe'
 shortdef : 'multi-word expression'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The multi-word expression (modifier) relation is used for certain fixed grammaticized expressions with function words that behave like a single function word.
 

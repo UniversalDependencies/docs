@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'name'
 shortdef: 'name'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 `name` is used for proper nouns constituted of multiple nominal elements. For example, `name` would be used between the words of *Hillary Rodham Clinton*, *New York*, or *Carl XVI Gustaf* but not to replace the usual relations in a phrasal or clausal name like *The king of Sweden* or the novels *The Lord of the Rings* and *Captured By Aliens*. Words joined by `name` should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with *compound*, except that in many cases parts of the name may be another nominal elelment such as an adjective (*United Airlines*).
 
