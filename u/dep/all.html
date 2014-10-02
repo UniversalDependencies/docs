@@ -222,8 +222,8 @@ in two places.</p>
 
 <h2 id="acl-clausal-modifier-of-noun"><code>acl</code>: clausal modifier of noun</h2>
 
-<p><code>acl</code> stands for finite and non-finite clauses that modify a noun, in
-contrast to the <a href="">advcl</a> relation which is used for adverbial clauses
+<p><code>acl</code> stands for finite and non-finite clauses that modify a nominal.  The <code>acl</code> relation 
+contrasts with the <a href="">advcl</a> relation, which is used for adverbial clauses
 that modify a predicate. The head of the <code>acl</code> relation is the noun
 that is modified, and the dependent is the head of the clause that
 modifies the noun.</p>
@@ -236,7 +236,7 @@ acl(issues, sees)
 acl(affaire, suivre)
 </code></pre>
 
-<p>This relation is also used for optional depictives.</p>
+<p>This relation is also used for optional depictives. The adjective is taken to modify the nominal of which it provides a secondary predication. See <a href="">xcomp</a> for further discussion of resultatives and depictives.</p>
 
 <pre><code class="language-sdparse">She entered the room sad
 acl(She, sad)
@@ -246,7 +246,7 @@ acl(She, sad)
 acl(model, naked)
 </code></pre>
 
-<p>A relative clause is an instance of <code>acl</code>, characterized by finiteness and a trace of 
+<p>A relative clause is an instance of <code>acl</code>, characterized by finiteness and usually omission of 
 the modified noun in the embedded clause.</p>
 
 <pre><code class="language-sdparse">I saw the man you love
