@@ -14,7 +14,7 @@ This involves all currency symbols, e.g. _$ 75_ is identical to _seventy-five do
 
 Mathematical operators form another group of symbols.
 
-Another grouop of symbols is emoticons and emoji.
+Another group of symbols is emoticons and emoji.
 
 Strings that consists entirely of alphanumeric characters are not symbols but they may be <a href="PROPN">proper nouns:</a>
 _130XE_, _DC10_; others may be tagged PROPN (rather than SYM) even if they contain special characters: _DC-10_.
