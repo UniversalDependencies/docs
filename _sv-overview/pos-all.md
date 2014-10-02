@@ -12,6 +12,7 @@ permalink: sv/pos/all.html
 ----------
 
 {% for p in site.sv-pos %}
+<h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}">See details</a>
