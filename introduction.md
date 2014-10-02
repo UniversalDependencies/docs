@@ -46,7 +46,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * [Filip Ginter](http://bionlp.utu.fi/)
 * [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
-* Christopher Manning
+* [Christopher Manning](http://nlp.stanford.edu/~manning/)
 * Ryan McDonald
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
 * Slav Petrov
