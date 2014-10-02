@@ -11,7 +11,8 @@ predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). These complements are always non-finite, and they are
+clause). This is often referred to as *obligatory control*. 
+These complements are always non-finite, and they are
 complements (arguments of the higher verb or adjective) rather than
 adjuncts/modifiers, such as a purpose clause. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
@@ -26,7 +27,7 @@ Sue asked George to respond to her offer
 xcomp(asked, respond)
 ~~~
 
-~~~ sdpare
+~~~ sdparse
 You look great
 xcomp(look, great)
 ~~~
@@ -52,18 +53,18 @@ xcomp(expect, change)
 ~~~
 
 Note that the above condition “without its own subject” does not mean that a 
-clause is `xcomp` just because its subject is not _overt._ The subject must be inherited from a higher clause, that is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the subject of the upper clause. In cases where the missing subject may or must be distinct from the higher subject, `ccomp` should be used instead, as below.
+clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
+from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control.
 
 ~~~ sdparse
 The boss said to start digging
-xcomp(said, start)
+ccomp(said, start)
 ~~~
 
 Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
-Thus in neither of the following two Czech examples there is any overt subject,
+Thus in neither of the following two Czech examples is there any overt subject,
 yet only the second example contains an `xcomp`.
 
 ~~~ sdparse
@@ -80,7 +81,7 @@ xcomp(Promised, to-write)
 
 ### Secondary Predicates
 
-The `xcomp` relation is also used in constructions that are known as _secondary predicates._
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or_predicatives_.
 Examples:
 
 * _She declared the cake beautiful._
@@ -149,7 +150,19 @@ advcl(Vstoupila, smutná)
 advcl(She-entered, sad)
 ~~~
 
-For resultatives, however, we uniformly use `xcomp`:
+Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives ore resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:
+
+* He looked fantastic [obligatory, depictive, intransitive host]
+* She kept Kim warm [obligatory, depictive, transitive host]
+* The boss became angry [obligatory, resultative, intransitive host]
+* This made me furious [obligatory, resultative, transitive host]
+* He died young [optional, depictive, intransitive host]
+* He at the steak almost raw [optional, depictive, transitive host]
+* The pond froze solid [optional, resultative, intransitive host]
+* He painted the house blue [optional, resultative, transitive host]
+
+Obligatory predicatives are always treated as `xcomp`. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked an idiot_; _This made me seethe with anger_). Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present, otherwise they become an [advcl](). The remaining, most subtle case is optional resultatives. For these, we 
+we uniformly use `xcomp`:
 
 ~~~ sdparse
 He painted the house blue .
@@ -157,14 +170,15 @@ dobj(painted, house)
 xcomp(painted, blue)
 ~~~
 
+Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
+(the house is painted blue), in a way that is not true of depictives. This is the analysis adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
+subcategorization frame by application of a lexical rule, and that this frame
+includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that intransitive verbs can also form resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
+
 ~~~ sdparse
-He talked himself hoarse .
-dobj(talked, himself)
-xcomp(talked, hoarse)
+The dog barked the neighbors awake .
+dobj(barked, neighbors)
+xcomp(barked, awake)
 ~~~
 
-One may argue that what we call complement here is actually optional.
-To justify the analysis in LFG terms, we say that the verb acquires a new
-subcategorization frame by application of a lexical rule, and that frame
-includes an `xcomp`.
 
