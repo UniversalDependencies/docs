@@ -52,8 +52,8 @@ title:  'Universal Dependencies'
 * [Tokenization](en/overview/tokenization.html)
 * Morphology
   * [General principles](en/overview/morphology.html)
-  * English POS tags: TODO
-  * English features: TODO
+  * [English POS tags](en/pos/index.html) ([single document](en/pos/all.html))
+  * [English features](en/feat/index.html) ([single document](en/feat/all.html))
 * Syntax
   * [General principles](en/overview/syntax.html)
   * [English relations](en/dep/index.html) ([single document](en/dep/all.html))

@@ -34,6 +34,12 @@ collections:
 #
 # English
 #
+  en-pos:
+    output: true
+    permalink: /en/pos/:path.html
+  en-feat:
+    output: true
+    permalink: /en/feat/:path.html
   en-dep:
     output: true
     permalink: /en/dep/:path.html
