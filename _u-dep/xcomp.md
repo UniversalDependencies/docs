@@ -81,7 +81,7 @@ xcomp(Promised, to-write)
 
 ### Secondary Predicates
 
-The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or_predicatives_.
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Examples:
 
 * _She declared the cake beautiful._
@@ -161,7 +161,7 @@ Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”
 * The pond froze solid [optional, resultative, intransitive host]
 * He painted the house blue [optional, resultative, transitive host]
 
-Obligatory predicatives are always treated as `xcomp`. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked an idiot_; _This made me seethe with anger_). Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present, otherwise they become an [advcl](). The remaining, most subtle case is optional resultatives. For these, we 
+In UD, obligatory predicatives are always treated as `xcomp`. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked [an idiot]_; _This made me [seethe with anger]_). Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present, otherwise they become an [advcl](), as above). The remaining, most subtle case is optional resultatives. For these, 
 we uniformly use `xcomp`:
 
 ~~~ sdparse
@@ -171,9 +171,9 @@ xcomp(painted, blue)
 ~~~
 
 Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
-(the house is painted blue), in a way that is not true of depictives. This is the analysis adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
+(he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
 subcategorization frame by application of a lexical rule, and that this frame
-includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that intransitive verbs can also form resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
+includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that intransitive verbs can also form similar resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
 
 ~~~ sdparse
 The dog barked the neighbors awake .
