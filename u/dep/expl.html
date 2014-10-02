@@ -36,12 +36,48 @@
 
           <h2 id="expl-expletive"><code>expl</code>: expletive</h2>
 
-<p>This relation captures an existential <em>there</em>. The main verb of the
-clause is the governor.</p>
+<p>This relation captures pleonastic nominals. In English, this is some uses of <em>it</em> and <em>there</em>: the existential <em>there</em>, and <em>it</em> when used in extraposition constructions.  (Note that both <em>it</em> and <em>there</em> also have non-expletive uses.) An expletive or pleonastic nominal is one where the nominal does not satisfy a semantic role of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor.</p>
 
 <pre><code class="language-sdparse">There is a ghost in the room
 expl(is, There)
 </code></pre>
+
+<pre><code class="language-sdparse">It is clear that we should decline .
+expl(clear, It)
+</code></pre>
+
+<p>Some languages do not have expletives. In languages with expletives, they can be positioned where normally a core argument appears: the subject and direct object slots, as in the examples below. Note that in the analysis of these examples, we treat the postposed subject or (clausal) object as a regular core argument, and mark the expletive with <code>expl</code>.</p>
+
+<pre><code class="language-sdparse">There is a ghost in the room
+expl(is, There)
+nsubj(is, ghost)
+nmod(is, room)
+</code></pre>
+
+<pre><code class="language-sdparse">I believe there to be a ghost in the room
+nsubj(believe, I)
+expl(believe, there)
+xcomp(believe, be)
+nsubj(be, ghost)
+nmod(be, room)
+</code></pre>
+
+<pre><code class="language-sdparse">It is clear that we should decline .
+expl(clear, It)
+csubj(clear, decline)
+</code></pre>
+
+<pre><code class="language-sdparse">That we should decline is clear .
+csubj(clear, decline)
+</code></pre>
+
+<pre><code class="language-sdparse">I mentioned it to Mary that Sue is leaving
+nsubj(mentioned, I)
+expl(mentioned, it)
+nmod(mentioned, Mary
+ccomp(mentioned, leaving)
+</code></pre>
+
 
 
 <!-- "relation in other languages" links -->
