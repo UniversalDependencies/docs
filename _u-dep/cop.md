@@ -7,8 +7,8 @@ shortdef: 'copula'
 ## `{{ page.title }}`: {{ page.shortdef }}
 
 A copula is the relation between the complement of a copular verb and
-the copular verb.  (We normally take a copula as a dependent of its
-complement)
+the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+complement.)
 
 ~~~ sdparse
 Bill is an honest man
@@ -23,7 +23,7 @@ det(dancer-5, the-3)
 amod(dancer-5, best-4)
 ~~~
 
-The copula *be* are not treated as the
+The copula *be* is not treated as the
 head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 Such an analysis is motivated by the fact that many languages
@@ -59,7 +59,7 @@ amod(dancer-6, best-5)
 nsubj(dancer-6, Ivan-3)
 ~~~
 
-Additionally, ccomp is used with copulas. The structure in these cases is different.
+Additionally, ccomp is used with copulas. Only in this case, the structure is different, and we take the form of *be* as a head:
 
 ~~~ sdparse
 The important thing is to keep calm .
@@ -72,3 +72,5 @@ The problem is that this has never been tried .
 ccomp(is, tried)
 nsubj(is, problem)
 ~~~
+
+If we took the main verb as the head, it would have two subjects, which would be unworkable. Examples like the above *could* be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of *be*, such as in: *(For us) to not attempt to solve the problem is (for us) to acknowledge defeat*.
