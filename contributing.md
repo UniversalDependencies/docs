@@ -11,7 +11,7 @@ Contents:
 
 * [Preliminaries](#preliminaries)
 * [Editing](#editing)
-  - [Style guidelies](#style-guidelines)
+  - [Style guidelines](#style-guidelines)
   - [File format](#file-format)
   - [Editing online](#editing-online)
   - [Using Git](#using-git)
