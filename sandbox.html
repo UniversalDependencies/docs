@@ -203,8 +203,6 @@ dobj(ראה, סרט)
 
 <h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
 
-<h2 id="cop-copula"><code>cop</code>: copula</h2>
-
 <p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). </p>
 
 <!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
@@ -215,8 +213,6 @@ nsubj-cop(punainen-3, Huivi-1)
 cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 </code></pre>
-
-<h2 id="csubjcop-clausal-copular-subject"><code>csubj:cop</code>: clausal copular subject</h2>
 
 <p>A <em>clausal copular subject</em> (csubj:cop) is a clause that acts as
 the subject of another, copular clause. As in all copular clauses, the
@@ -232,11 +228,9 @@ nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 </code></pre>
 
-<h2 id="nsubjcop-nominal-copular-subject"><code>nsubj:cop</code>: nominal copular subject</h2>
-
-<p>The dependency type nsubj:cop is used for the nominal subject
+<p>The dependency type <code>nsubj:cop</code> is used for the nominal subject
 of a copular clause. The predicative is the head of the copular
-clause, and also the governor of the nsubj:cop dependency.</p>
+clause, and also the governor of the <code>nsubj:cop</code> dependency.</p>
 
 <!-- Annotating copular clauses is discussed in Section [copulas](#sec-copulas).-->
 
@@ -249,8 +243,6 @@ punct(kuiva-4, .-5)
 </code></pre>
 
 <h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
-
-<h2 id="casegobj-genitive-object"><code>case:gobj</code>: genitive object</h2>
 
 <p>Certain nouns, those which have been directly derived from a verb or
 otherwise have a verb counterpart, can take an object in
@@ -266,18 +258,15 @@ advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
 </code></pre>
 
-<h2 id="casegsubj-genitive-subject"><code>case:gsubj</code>: genitive subject</h2>
-
 <p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This
-is in parallel to genitive objects <a href="">case:gobj</a>.
-<!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). --></p>
+is in parallel to genitive objects <a href="">case:gobj</a>.</p>
+
+<!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). -->
 
 <!-- fname:gsubj.pdf -->
 <pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
 case:gsubj(särkyminen-2, maljakon-1)
 </code></pre>
-
-<h2 id="caseposs-genitive-modifier"><code>case:poss</code>: genitive modifier</h2>
 
 <p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD
 scheme, but in TDT, it is used for genitive modifiers in general,
@@ -302,8 +291,6 @@ punct(on-2, .-6)
 case:poss(moottori-5, litran-4)
 num(litran-4, kahden-3)
 </code></pre>
-
-<h2 id="case-case-marking"><code>case</code>: case marking</h2>
 
 <p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
 
