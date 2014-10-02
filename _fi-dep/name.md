@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'name'
 shortdef : 'multi-word named entity'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 Multi-word named entities are marked using the dependency type `name`. The rightmost word of the named entity is considered the head, and the leftmost word is the dependent. If there are more than two words, these are not marked in any way, as the `name` dependency can be expanded automatically if needed.
 

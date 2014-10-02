@@ -1,13 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'advmod'
 shortdef : 'adverb modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-The dependency type `advmod` is used for *adverb modifiers* of verbs, nominals and adverbs alike.
-
+The dependency type `advmod` is used for *adverb modifiers* of verbs,
+nominals and adverbs alike.
 
 <!-- fname:advmod_verb.pdf -->
 ~~~ sdparse
@@ -18,8 +16,6 @@ advmod(käveli-2, hitaasti-4)
 punct(käveli-2, .-5)
 ~~~
 
-
-
 <!-- fname:advmod_noun.pdf -->
 ~~~ sdparse
 Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
@@ -29,5 +25,3 @@ dobj(otin-2, vasaran-5)
 advmod(vasaran-5, myös-4)
 punct(otin-2, .-6)
 ~~~
-
-

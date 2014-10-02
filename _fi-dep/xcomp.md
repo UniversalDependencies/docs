@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'xcomp'
 shortdef : 'open clausal complement'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `xcomp` is reserved for clausal complements which have an external subject, that is, whose subject is shared with the complemented verb (phenomenon also known as subject control). Note that the subject of the complementing clause must be the *subject* of the complemented verb, not any other sentence element.
 

@@ -1,13 +1,10 @@
 ---
-layout: base
+layout: entry
 title:  'punct'
 shortdef : 'punctuation'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
 The dependency type `punct` is used to mark punctuation. The dependent is the punctuation symbol, and the governor is the element which the punctuation symbol delimits. For instance, with coordination, the first coordinated element is the head of all `punct` dependencies in the coordination, and with subordinate clauses, the head of the subordinate clause is the governor of the `punct`.
-
 
 <!-- fname:punct_coord.pdf -->
 ~~~ sdparse
@@ -17,8 +14,6 @@ conj(kerrostaloja-1, rivitaloja-3)
 cc(kerrostaloja-1, ja-4)
 conj(kerrostaloja-1, omakotitaloja-5)
 ~~~
-
-
 
 <!-- fname:punct_subord.pdf -->
 ~~~ sdparse
@@ -32,6 +27,4 @@ mark(palasi-7, kun-5)
 nsubj(palasi-7, hän-6)
 ~~~
 
-
 <!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
-

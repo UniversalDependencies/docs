@@ -1,12 +1,13 @@
 ---
-layout: base
+layout: entry
 title:  'nummod'
 shortdef : 'numeral modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-*Numeral modifiers* of a noun or NP, including both cardinal and ordinal numbers, are marked with the `nummod` dependency type. This dependency type is used also with for instance years and program versions.
+*Numeral modifiers* of a noun or NP, including both cardinal and
+ordinal numbers, are marked with the `nummod` dependency type. This
+dependency type is used also with for instance years and program
+versions.
 
 <!-- fname:num.pdf -->
 ~~~ sdparse

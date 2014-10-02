@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: entry
 title:  'aux'
 shortdef : 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
@@ -7,10 +7,7 @@ shortdef : 'auxiliary'
 redirect_from: "fi/dep/aux.html"
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
 In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>) and in addition the verbs *olla* (*to be*) and *aikoa* (*to be going to*). The full list of auxiliaries in TDT is thus as follows:
-
 
 + täytyä (must)
 + pitää (have to)
@@ -23,8 +20,6 @@ In TDT, only a closed list of verbs can act as auxiliaries, including the main m
 + olla (be)
 + aikoa (be going to)
 
-
-
 <!-- fname:aux.pdf -->
 ~~~ sdparse
 Hän saattoi lähteä jo . \n He may(impf.) leave already .
@@ -33,5 +28,3 @@ aux(lähteä-3, saattoi-2)
 advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
 ~~~
-
-

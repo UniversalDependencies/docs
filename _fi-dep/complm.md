@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'complm'
 shortdef : 'complementizer'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The *complementizer* (`complm`) appears in most clausal complements,
 and the head of the dependency is the main verb of the subordinate

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'dep'
 shortdef : 'dependent'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The name of the dependency type `dep` stands for *dependent*. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type `dep` is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.
 

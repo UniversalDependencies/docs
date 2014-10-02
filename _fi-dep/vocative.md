@@ -1,13 +1,13 @@
 ---
-layout: base
+layout: entry
 title:  'vocative'
 shortdef : 'vocative modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-The dependency type `vocative` is used for *vocatives*, that is, expressions where someone is being addressed. The governor of the dependency is the main predicate of the clause where the addressing occurs.
-
+The dependency type `vocative` is used for *vocatives*, that is,
+expressions where someone is being addressed. The governor of the
+dependency is the main predicate of the clause where the addressing
+occurs.
 
 <!-- fname:voc.pdf -->
 ~~~ sdparse
@@ -17,5 +17,3 @@ punct(Pekka-1, ,-2)
 advmod(tulisitko-3, tänne-4)
 punct(tulisitko-3, ?-5)
 ~~~
-
-

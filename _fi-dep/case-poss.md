@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: entry
 title:  'case:poss'
 shortdef : 'genitive modifier'
 tags: ['case']
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `poss` stands for *possessive* in the original SD
 scheme, but in TDT, it is used for genitive modifiers in general,

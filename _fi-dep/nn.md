@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'nn'
 shortdef : 'noun compound modifier'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `nn`, which stands for *noun compound modifier* has two basic uses in the Finnish UD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using `nn`.
 

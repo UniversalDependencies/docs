@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'mark'
 shortdef : 'marker'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A *marker* (`mark`) is the subordinating conjunction in a
 non-complement subordinate clause.

@@ -1,13 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'acl:infmod'
 shortdef : 'infinitive modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-The dependency type `acl:infmod` is used for infinitives that modify a nominal or a noun phrase.
-
+The dependency type `acl:infmod` is used for infinitives that modify a
+nominal or a noun phrase.
 
 <!-- fname:infmod.pdf -->
 ~~~ sdparse
@@ -18,5 +16,3 @@ acl:infmod(lupa-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-2, .-6)
 ~~~
-
-

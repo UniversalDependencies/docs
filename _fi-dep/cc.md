@@ -1,12 +1,11 @@
 ---
-layout: base
+layout: entry
 title:  'cc'
 shortdef : 'coordinating conjunction'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-*Coordinating conjunctions* are marked as dependents of the first coordinated element, and the dependency type used is `cc`. 
+*Coordinating conjunctions* are marked as dependents of the first
+ coordinated element, and the dependency type used is `cc`.
 
 <!-- fname:cc1.pdf -->
 ~~~ sdparse
@@ -54,7 +53,6 @@ Coordinating conjunctions are a closed class of words, and the main conjunctions
 
 
 In addition, certain less frequent words or combinations of words are marked as coordinating conjunctions in TDT, namely:
-
 
 + &
 + elikkä (colloquial version of *eli*, a.k.a)

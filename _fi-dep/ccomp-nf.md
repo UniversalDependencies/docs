@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'ccomp:nf'
 shortdef : 'non-finite clausal complement'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The dependency type `ccomp:nf`, which stands for *non-finite clausal
 complement*, is a subtype of [ccomp]() (*clausal complement*).

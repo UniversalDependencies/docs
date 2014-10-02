@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'comparator'
 shortdef : 'comparative conjunction'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The *comparative conjunction* (most commonly *kuin*, which corresponds roughly to *than* and *as* in English) is marked with the dependency type `comparator`. The head of the dependency is the element being compared.
 

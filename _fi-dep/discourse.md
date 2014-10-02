@@ -1,13 +1,12 @@
 ---
-layout: base
+layout: entry
 title:  'discourse'
 shortdef : 'discourse element'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-*Discourse elements* are typically exclamations or wordlike entities. They are attached to the main verb or predicative of the sentence with the `discourse` dependency type.
-
+*Discourse elements* are typically exclamations or wordlike
+entities. They are attached to the main verb or predicative of the
+sentence with the `discourse` dependency type.
 
 <!-- fname:intj1.pdf -->
 ~~~ sdparse
@@ -18,8 +17,6 @@ xcomp(tule-3, auttamaan-4)
 punct(tule-3, !-5)
 ~~~
 
-
-
 <!-- fname:intj2.pdf -->
 ~~~ sdparse
 Hmm ... Mitähän tuohon sanoisi ? \n Umm ... What to_that to_say ?
@@ -29,5 +26,3 @@ dobj(sanoisi-5, Mitähän-3)
 nmod(sanoisi-5, tuohon-4)
 punct(sanoisi-5, ?-6)
 ~~~
-
-

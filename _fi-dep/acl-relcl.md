@@ -1,13 +1,13 @@
 ---
-layout: base
+layout: entry
 title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-A *relative clause modifier* (`acl:relcl`) marks relative clauses. The governor is the phrase or clause modified, most often a noun phrase but occasionally a full clause as well. The dependent is the main predicate of the relative clause.
-
+A *relative clause modifier* (`acl:relcl`) marks relative clauses. The
+governor is the phrase or clause modified, most often a noun phrase
+but occasionally a full clause as well. The dependent is the main
+predicate of the relative clause.
 
 <!-- fname:relcl_NP.pdf -->
 ~~~ sdparse
@@ -25,8 +25,6 @@ nmod(oli-9, ovella-11)
 punct(oli-9, .-12)
 ~~~
 
-
-
 <!-- fname:relcl_clause.pdf -->
 ~~~ sdparse
 Ovi kolahti auki , mikä säikäytti lapsen . \n The_door clanked open , which scared the_child .
@@ -38,5 +36,3 @@ rel(säikäytti-6, mikä-5)
 dobj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
 ~~~
-
-

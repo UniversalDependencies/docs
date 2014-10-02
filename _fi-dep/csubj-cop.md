@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'csubj:cop'
 shortdef : 'clausal copular subject'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 A *clausal copular subject* ({{ page.title}}) is a clause that acts as
 the subject of another, copular clause. As in all copular clauses, the

@@ -1,13 +1,10 @@
 ---
-layout: base
+layout: entry
 title:  'prt'
 shortdef : 'phrasal particle'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
 *Phrasal particles* (`prt`) are used in connection with *phrasal verbs*, (partikkeliverbi, "particle verb" in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.
-
 
 <!-- fname:prt.pdf -->
 ~~~ sdparse
@@ -20,7 +17,6 @@ nsubj-cop(hyvä-7, ehdotus-5)
 cop(hyvä-7, oli-6)
 punct(hyvä-7, .-8)
 ~~~
-
 
 Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.
 
@@ -35,7 +31,6 @@ In contrast, *ottaa kiinni* (*catch*) is a phrasal verb, as it has a meaning dis
 <!--details-->
 
 The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)
-
 
 + ajaa takaa (chase)
 + antaa periksi (give up)
@@ -88,5 +83,3 @@ The following verb expressions are considered phrasal verbs in TDT: (The list is
 + tulla tarpeen (become necessary)
 + tulla vastaan (come across)
 + tulla voimaan (become valid)
-
-

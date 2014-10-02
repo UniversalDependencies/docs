@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'rel'
 shortdef : 'relativizer'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 The *relativizer* (`rel`) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. 
 

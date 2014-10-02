@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'preconj'
 shortdef : 'preconjunction'
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 *Preconjunction* (`preconj`) marks the first part of those two-part
 coordinating conjunctions where the two parts are separated by

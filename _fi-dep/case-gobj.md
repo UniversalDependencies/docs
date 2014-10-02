@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: entry
 title:  'case:gobj'
 shortdef : 'genitive object'
 tags: ['case']
 ---
-
-## `{{ page.title }}`: {{ page.shortdef }}
 
 Certain nouns, those which have been directly derived from a verb or
 otherwise have a verb counterpart, can take an object in

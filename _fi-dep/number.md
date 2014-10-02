@@ -1,15 +1,14 @@
 ---
-layout: base
+layout: entry
 title:  'number'
 shortdef : 'numerical expression'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-Numerical expressions consisting of multiple tokens are annotated using the `number` dependency type. The last word of the numerical expression is the governor, and the number dependencies are chained. 
+Numerical expressions consisting of multiple tokens are annotated
+using the `number` dependency type. The last word of the numerical
+expression is the governor, and the number dependencies are chained.
 
 <!-- TODO Special cases of numerical expressions are discussed in Section [numberspecial](#sec-numberspecial). -->
-
 
 <!-- fname:number.pdf -->
 ~~~ sdparse
@@ -21,5 +20,3 @@ number(--5, 3-4)
 number(5-6, --5)
 punct(5-6, .-7)
 ~~~
-
-

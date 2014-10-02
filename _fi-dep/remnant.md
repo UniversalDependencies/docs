@@ -1,9 +1,8 @@
 ---
-layout: base
+layout: entry
 title:  'remnant'
 shortdef : 'remnant'
 ---
 
-## `{{ page.title }}`: {{ page.shortdef }}
-
-The description of the USD relation `remnant` in Finnish is not yet completed.
+The description of the USD relation `remnant` in Finnish is not yet
+completed.
