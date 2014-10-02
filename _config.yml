@@ -14,8 +14,6 @@ gems:
   - jekyll-redirect-from
 
 collections:
-  u-overview:
-    output: true
   u-pos:
     output: true
     permalink: /u/pos/:path.html
@@ -25,19 +23,21 @@ collections:
   u-dep:
     output: true
     permalink: /u/dep/:path.html
+  u-overview:
+    output: true
   ext-feat:
     output: true
     permalink: /u/ext-feat/:path.html
-  en-overview:
-    output: true
   en-dep:
     output: true
     permalink: /en/dep/:path.html
-  fi-overview:
+  en-overview:
     output: true
   fi-dep:
     output: true
     permalink: /fi/dep/:path.html
+  fi-overview:
+    output: true
 
 excerpt_separator: "\n\n"
 
