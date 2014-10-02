@@ -18,7 +18,7 @@ It is clear that we should decline .
 expl(clear, It)
 ~~~
 
-Some languages do not have expletives. In languages with expletives, they can be positioned where normally a core argument appears: the subject and direct object slots, as in the examples below. Note that in the analysis of these examples, we treat the postposed subject or (clausal) object as a regular core argument, and mark the expletive with `expl`.
+Some languages do not have expletives. In languages with expletives, they can be positioned where normally a core argument appears: the subject and direct object slots, as in the examples below. Note that in the analysis of these examples, we treat the postposed subject or clausal argument as a regular core argument, and mark the expletive with `expl`.
 
 ~~~ sdparse
 There is a ghost in the room
@@ -51,8 +51,8 @@ csubj(clear, decline)
 I mentioned it to Mary that Sue is leaving
 nsubj(mentioned, I)
 expl(mentioned, it)
-nmod(mentioned, Mary
+nmod(mentioned, Mary)
 ccomp(mentioned, leaving)
 ~~~
 
-
+Further discussion of expletives can be found in Postal, P. M., and G. K. Pullum (1988) “Expletive Noun Phrases in Subcategorized Positions,” _Linguistic Inquiry_ 19(4): 635–670.
