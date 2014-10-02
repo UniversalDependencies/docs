@@ -27,14 +27,14 @@ title:  'Universal Dependencies'
 
 <!-- "Universal" tab -->
 <div id="language-u" markdown="1" class="ui-tabs-panel">
-* [Tokenization](tokenization.html)
+* [Tokenization](u/overview/tokenization.html)
 * Morphology
-  * [General principles](morphology.html)
+  * [General principles](u/overview/morphology.html)
   * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
   * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
   * [Language-specific features](ext-feat-index.html)
 * Syntax
-  * [General principles](structure.html)
+  * [General principles](u/overview/syntax.html)
   * [Universal relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
