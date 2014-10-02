@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'X'
 shortdef: 'other'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

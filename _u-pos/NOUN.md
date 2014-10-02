@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NOUN'
 shortdef: 'noun'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

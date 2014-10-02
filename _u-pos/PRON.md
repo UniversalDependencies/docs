@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PRON'
 shortdef: 'pronoun'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

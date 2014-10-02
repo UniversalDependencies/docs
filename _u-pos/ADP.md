@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'ADP'
 shortdef: 'adposition'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

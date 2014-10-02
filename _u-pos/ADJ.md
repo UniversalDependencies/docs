@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'ADJ'
 shortdef: 'adjective'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

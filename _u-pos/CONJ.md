@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'CONJ'
 shortdef: 'coordinating conjunction'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

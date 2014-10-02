@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'SYM'
 shortdef: 'symbol'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

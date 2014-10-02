@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PROPN'
 shortdef: 'proper noun'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

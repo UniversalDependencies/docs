@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NUM'
 shortdef: 'numeral'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

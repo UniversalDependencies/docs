@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'SCONJ'
 shortdef: 'subordinating conjunction'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

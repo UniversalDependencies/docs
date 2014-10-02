@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'DET'
 shortdef: 'determiner'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

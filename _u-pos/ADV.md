@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'ADV'
 shortdef: 'adverb'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

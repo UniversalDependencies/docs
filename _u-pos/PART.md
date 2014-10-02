@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'PART'
 shortdef: 'particle'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 

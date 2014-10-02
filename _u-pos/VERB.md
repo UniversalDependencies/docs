@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'VERB'
 shortdef: 'verb'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 ### Definition
 
