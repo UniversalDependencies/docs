@@ -12,6 +12,7 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 ----------
 
 {% for p in site.fi-dep %}
+<h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}">See details</a>
