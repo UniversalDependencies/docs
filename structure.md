@@ -30,7 +30,7 @@ dobj(saw, cat)
 </div>
 
 The dependency relations added in the enhanced representation are taken from the 
-same inventory as the basic dependencies, but detailed guidelines for the enhanced representation still
+same inventory as the basic dependencies, but may add additional language-particular subtyping. Detailed guidelines for the enhanced representation still
 have to be developed. In the meantime, the documentation of the basic dependencies sometimes refers to additional
 dependencies that we expect to be present in the enhanced representation. 
 
