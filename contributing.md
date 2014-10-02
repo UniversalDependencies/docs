@@ -29,14 +29,14 @@ Quick links:
 Before starting, you may want to have a quick look at the
 [documentation and visualization system introduction](visualization.html).
 
-The online documentation is stored in GitHub, a service for projects
+The online documentation is stored on GitHub, a service for projects
 using the Git version control system. To contribute, you need a GitHub
 account.
 
 If you already have a GitHub account, just make sure you are logged in
 before moving on. If you do not, please go to
 [https://github.com/join](https://github.com/join) and create an
-account first. (it's free, only takes a minute, and there's a
+account first. (It's free, only takes a minute, and there's a
 reasonable [privacy
 policy](https://help.github.com/articles/github-privacy-policy) in
 place.)
@@ -49,10 +49,10 @@ After logging in to GitHub, see the following:
 ## Editing
 
 (Note: the following instructions are for project members. If you are
-not a member, see [here](#non-members))
+not a member, see [here](#non-members).)
 
 To get started with editing the materials, first read the brief [style
-guidelines](#style-guidelines) and the[file
+guidelines](#style-guidelines) and the [file
 format description](#file-format) below. Then, the easiest way to edit
 the materials is to use the [online editing features](#editing-online)
 provided by GitHub. If you prefer to use your own text editor or need
@@ -94,40 +94,54 @@ For example, the following:
 
 <div class="example" markdown="1">
 
-A copula is the relation between the complement of a copular verb and the copular verb.
+A copula is the relation between the complement of a copular verb and
+the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+complement.)
 
 ~~~ sdparse
 Bill is an honest man
 cop(man, is)
 ~~~
 
-The following are considered copular verbs:
+~~~ sdparse
+Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)
+~~~
 
-* appear
-* be
-* become
-* [...]
+The copula *be* is not treated as the
+head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 </div>
 
 is generated from this input:
 
-    A copula is the relation between the complement of a copular verb and the copular verb.
-
+    A copula is the relation between the complement of a copular verb and
+    the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+    complement.)
+    
     ~~~ sdparse
     Bill is an honest man
     cop(man, is)
     ~~~
-
-    The following are considered copular verbs:
-
-    * appear
-    * be
-    * become
-    * [...]
+    
+    ~~~ sdparse
+    Ivan is the best dancer
+    nsubj(dancer-5, Ivan-1)
+    cop(dancer-5, is-2)
+    det(dancer-5, the-3)
+    amod(dancer-5, best-4)
+    ~~~
+    
+    The copula *be* is not treated as the
+    head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
 The input is primarily in the
-[Markdown](http://daringfireball.net/projects/markdown/) format, which
+[Markdown](http://daringfireball.net/projects/markdown/) format
+(see also [GitHub Markdown Basics](https://help.github.com/articles/markdown-basics) and
+[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)), which
 can be mostly written like plain text and mixed freely with inline
 HTML. The only exception is the format used for embedding
 visualizations, which is supported as an extension specific to this
