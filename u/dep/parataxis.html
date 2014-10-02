@@ -50,13 +50,11 @@ parataxis(Let, annoyed)
 parataxis(left, said)
 </code></pre>
 
-<p>Note that for this latter example, there are paraphrases that convey
-essentially the same meaning, nevertheless we do not treat them as
-syntactically equivalent. One of them is a subordinate clause with
-reported speech: in this case, the subordinate clause must depend
-on <em>John said</em> as its <a href="">ccomp</a>.
-In other cases, including direct speech,
-we suggest to reverse the dependency and label it <code>parataxis</code>.</p>
+<h3 id="treatment-of-reported-speech">Treatment of reported speech</h3>
+
+<p>For the reported speech example above, there are paraphrases that convey
+essentially the same meaning where we would treat the reported content as the <a href="">ccomp</a> of the speech verb. Nevertheless, when the speech verb is medial or final, we treat the reported content as the main clause and treat the speech verb as a parenthetical, linked to the main clause as <code>parataxis</code>.
+This analysis is not completely uncontroversial, but follows many authorities, such as Huddleston and Pullum (2002), <em>The Cambridge Grammar of the English Language</em> (see chapter 11, section 9). Looking at English, when the speech verb is first, regardless of whether the reported content is introduced with an explicit mark like <em>that</em> or separated off by a comma colon or nothing, the result behaves as a single clause, with the reported content being embedded. In contrast, when the speech verb is medial or final, the reported content behaves as the head, and the speech verb behaves as a matrix level parenthetical giving the analyses below.</p>
 
 <pre><code class="language-sdparse">John said that the guy left early in the morning .
 ccomp(said, left)
@@ -67,7 +65,7 @@ ccomp(said, left)
 </code></pre>
 
 <pre><code class="language-sdparse">John said : “ The guy left early in the morning . ”
-parataxis(left, said)
+ccomp(said, left)
 </code></pre>
 
 <pre><code class="language-sdparse">“ The guy left early in the morning ” , John said .
@@ -77,6 +75,12 @@ parataxis(left, said)
 <pre><code class="language-sdparse">The guy left early in the morning , John said .
 parataxis(left, said)
 </code></pre>
+
+<pre><code class="language-sdparse">The guy , he said , left early in the morning .
+parataxis(left, said)
+</code></pre>
+
+<p>An argument for this position is that in the cases analyzed as embedding, the clause can be further embedded (<em>I was taken aback when John said the guy left early in the morning.</em>), while this is not possible with medial or final placement of the speech verb (<em>*I was taken aback when The guy left early this morning, John said.</em>).</p>
 
 
 <!-- "relation in other languages" links -->
