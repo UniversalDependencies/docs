@@ -38,7 +38,6 @@ title:  'Universal Dependencies'
   * [General principles](u/overview/syntax.html)
   * [Universal relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
-* [CoNLL-U format](format.html)
 
 <small>This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
  We intend to treat version 1 as stable for at least the next year, 
@@ -58,7 +57,6 @@ title:  'Universal Dependencies'
 * Syntax
   * [General principles](en/overview/syntax.html)
   * [English relations](en/dep/index.html) ([single document](en/dep/all.html))
-* [CoNLL-U format](format.html)
 
 <small>
 This is part of the language-specific documentation for Universal
@@ -79,7 +77,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Syntax
   * [General principles](fi/overview/syntax.html)
   * [Finnish relations](fi/dep/index.html) ([single document](fi/dep/all.html))
-* [CoNLL-U format](format.html)
 
 <small> 
 This is part of the language-specific documentation for Universal
@@ -102,7 +99,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Syntax
   * [General principles](sv/overview/syntax.html)
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
-* [CoNLL-U format](format.html)
 
 <small>
 This is part of the language-specific documentation for Universal
@@ -125,7 +121,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 <!-- * Syntax -->
 <!--   * [General principles](LC/overview/syntax.html) -->
 <!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
-<!-- * [CoNLL-U format](format.html) -->
 <!-- <small>  -->
 <!-- This is part of the language-specific documentation for Universal -->
 <!-- Dependencies. <strong>Language-specific guidlines are currently under -->
@@ -148,10 +143,13 @@ The following are empty templates for language-specific documentation.
 * Syntax
   * [General principles](template/overview/syntax.html)
   * [Universal relations](template/dep/index.html) ([single document](template/dep/all.html))
-* [CoNLL-U format](format.html)
 </div>
 
 </div>
+
+----------------------------------------
+
+[CoNLL-U format](format.html)
 
 ----------------------------------------
 
