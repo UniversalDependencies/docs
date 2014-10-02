@@ -6,7 +6,7 @@ shortdef: 'numeric modifier'
 
 ## `{{ page.title }}`: {{ page.shortdef }}
 
-A numeric modifier of a noun is any [number](u-pos/NUM.html) phrase
+A numeric modifier of a noun is any [number](u-pos/NUM) phrase
 that serves to modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
