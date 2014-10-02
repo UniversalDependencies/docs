@@ -39,11 +39,14 @@ title:  'Universal Dependencies'
   * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
 
-This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
-We intend to treat version 1 as stable for at least the next year, 
-but we may subsequently make further revisions based on experiences using it to treebank 
-a range of languages. If you plan to use the scheme yourself, please get in touch so
-that we can avoid problems with conflicting versions.
+<p class="notice">
+This is the online documentation and example bank for Universal
+Dependencies, version 1 (2014-10-01). We intend to treat version 1 as
+stable for at least the next year, but we may subsequently make
+further revisions based on experiences using it to treebank a range of
+languages. If you plan to use the scheme yourself, please get in touch
+so that we can avoid problems with conflicting versions.
+</p>
 
 </div>
 
@@ -58,6 +61,14 @@ that we can avoid problems with conflicting versions.
   * General principles: TODO
   * [English relations](en/dep/index.html) ([single document](en/dep/all.html))
 * [CoNLL-U format](format.html)
+
+<p class="notice"> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2014-12-01.
+</p>
+
 </div>
 
 <!-- "Finnish" tab -->
@@ -71,6 +82,14 @@ that we can avoid problems with conflicting versions.
   * General principles: TODO
   * [Finnish relations](fi/dep/index.html) ([single document](fi/dep/all.html))
 * [CoNLL-U format](format.html)
+
+<p class="notice"> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2014-12-01.
+</p>
+
 </div>
 
 <div id="language-other" markdown="1" class="ui-tabs-hide">
