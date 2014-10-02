@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Animacy'
 shortdef: 'animacy'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Similarly to [Gender]() (and to the African noun classes), animacy
 is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature of

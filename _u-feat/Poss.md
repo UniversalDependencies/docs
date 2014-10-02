@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Poss'
 shortdef: 'possessive'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Boolean feature of pronouns, determiners or adjectives.
 It tells whether the word is possessive.

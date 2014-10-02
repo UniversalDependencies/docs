@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'VerbForm'
 shortdef: 'form of verb or form on the border between verbs and other parts of speech'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Even
 though the name of the feature seems to suggest that it is used

@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Number'
 shortdef: 'number'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Number is usually an inflectional feature of [nouns](u-pos/NOUN) and,
 depending on language, other parts of speech ([adjectives](u-pos/ADJ),

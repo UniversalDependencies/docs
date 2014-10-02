@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Person'
 shortdef: 'person'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Person
 is typically feature of personal and possessive [pronouns](u-pos/PRON), and of

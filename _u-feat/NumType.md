@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'NumType'
 shortdef: 'numeral type'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Some languages (especially Slavic) have a complex system of
 [numerals](u-pos/NUM).

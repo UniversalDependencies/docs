@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Reflex'
 shortdef: 'reflexive'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Boolean feature, typically of [pronouns](u-pos/PRON) or
 [determiners](u-pos/DET). It tells whether the word is reflexive,

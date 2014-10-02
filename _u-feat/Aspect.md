@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Aspect'
 shortdef: 'aspect'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Aspect is a feature
 that specifies duration of the action in time, whether the action has

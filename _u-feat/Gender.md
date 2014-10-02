@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Gender'
 shortdef: 'gender'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Gender is usually a lexical feature of nouns and inflectional
 feature of other parts of speech (adjectives, verbs) that mark

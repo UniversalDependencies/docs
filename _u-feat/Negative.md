@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: entry
 title: 'Negative'
 shortdef: 'whether the word can be or is negated'
 redirect_from: "u/feat/Negativeness.html"
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Negativeness is typically a feature of [verbs](u-pos/VERB),
 [adjectives](u-pos/ADJ), sometimes also [adverbs](u-pos/ADV) and

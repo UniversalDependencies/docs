@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Voice'
 shortdef: 'voice'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 For
 Indo-European speakers, voice means mainly the active-passive

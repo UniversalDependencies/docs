@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Mood'
 shortdef: 'mood'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Mood
 is a feature that expresses modality and subclassifies finite verb

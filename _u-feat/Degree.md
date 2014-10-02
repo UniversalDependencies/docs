@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Degree'
 shortdef: 'degree of comparison'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Degree of comparison is typically an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).

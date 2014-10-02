@@ -1,11 +1,9 @@
 ---
-layout: base
+layout: entry
 title: 'Definite'
 shortdef: 'definiteness or state'
 redirect_from: "u/feat/Definiteness.html"
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Definiteness is
 typically a feature of nouns, adjectives and articles. Its value

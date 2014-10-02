@@ -1,10 +1,8 @@
 ---
-layout: base
+layout: entry
 title: 'Tense'
 shortdef: 'tense'
 ---
-
-## {{ page.title }}: {{ page.shortdef }}
 
 Tense
 is a feature that specifies the time when the action took / takes /
