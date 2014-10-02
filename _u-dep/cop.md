@@ -40,7 +40,7 @@ In informal English, this may also arise.
 
 ~~~ sdparse
 Email usually free if you have Wifi.
-nsubj(freee, Email)
+nsubj(free, Email)
 ~~~
 
 A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
@@ -62,13 +62,13 @@ nsubj(dancer-6, Ivan-3)
 Additionally, ccomp is used with copulas. The structure in these cases is different.
 
 ~~~ sdparse
-The important thing is to keep calm.
+The important thing is to keep calm .
 ccomp(is, keep)
 nsubj(is, thing)
 ~~~
 
 ~~~ sdparse
-The problem is that this has never been tried.
+The problem is that this has never been tried .
 ccomp(is, tried)
 nsubj(is, problem)
 ~~~
