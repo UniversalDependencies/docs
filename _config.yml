@@ -48,6 +48,20 @@ collections:
   fi-overview:
     output: true
 #
+# Swedish
+#
+  sv-pos:
+    output: true
+    permalink: /sv/pos/:path.html
+  sv-feat:
+    output: true
+    permalink: /sv/feat/:path.html
+  sv-dep:
+    output: true
+    permalink: /sv/dep/:path.html
+  sv-overview:
+    output: true
+#
 # Template
 #
   template-pos:
