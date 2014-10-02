@@ -11,6 +11,7 @@ manual](http://nlp.stanford.edu/software/dependencies_manual.pdf)* (de
 Marneffe and Manning 2008).
 
 {% for p in site.en-dep %}
+<h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}">See details</a>
