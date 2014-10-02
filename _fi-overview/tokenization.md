@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Morphology'
+title:  'Tokenization'
 permalink: fi/overview/tokenization.html
 ---
 
