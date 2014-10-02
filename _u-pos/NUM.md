@@ -13,7 +13,7 @@ relation to the number, such as quantity, sequence, frequency or fraction.
 
 Note that cardinal numerals are covered by {{ page.title }} whether they are used as determiners or not (as in _Windows <span style='color:red'>Seven</span>_) and whether they are expressed as words _(four)_, digits _(4)_ or Roman numerals _(IV)_. Other words functioning as determiners (including quantifiers such as _many_ and _few_) are tagged <a href="DET.html">DET</a>.
 
-Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are not tagged {{ page.title }}. Such non-cardinal numerals belong to other parts of speech in our universal tagging scheme, based mainly on syntactic criteria: ordinal numerals are <a href="ADJ.html">adjectives</a> _(first, second, third)_ or <a href="ADV.html">adverbs</a> ([cs] _poprvé_ = for the first time), multiplicative numerals are adverbs _(once, twice)_ etc.
+Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but which are not tagged {{ page.title }}. Such non-cardinal numerals belong to other parts of speech in our universal tagging scheme, based mainly on syntactic criteria: ordinal numerals are <a href="ADJ.html">adjectives</a> _(first, second, third)_ or <a href="ADV.html">adverbs</a> ([cs] _poprvé_ = for the first time), multiplicative numerals are adverbs _(once, twice)_ etc.
 
 ### Examples
 
