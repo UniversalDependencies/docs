@@ -63,7 +63,7 @@ title:  'Universal Dependencies'
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2014-12-01.
+have a stable version of this part of the documentation by 2015-01-01.
 </small>
 
 </div>
@@ -84,7 +84,7 @@ have a stable version of this part of the documentation by 2014-12-01.
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2014-12-01.
+have a stable version of this part of the documentation by 2015-01-01.
 </small>
 
 </div>
