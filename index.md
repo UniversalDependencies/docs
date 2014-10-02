@@ -9,9 +9,6 @@ title:  'Universal Dependencies'
 
 This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
 
-<b>Important message for potential users:</b> We intend to treat version 1 as stable for at least the next year, 
-but we may subsequently make further revisions based on experiences using it to treebank a range of languages.
-
 <!-- 
      The following <div> is the top-level element for the index page
      tabs. To add a new tab (e.g. for Swedish), first add a link to
@@ -77,5 +74,11 @@ More languages to come.
 </div>
 
 ----------------------------------------
+
+<b>Important:</b> We intend to treat version 1 as stable for at least the next year, 
+but we may subsequently make further revisions based on experiences using it to treebank 
+a range of languages. If you plan to use the scheme yourself, please get in touch so
+that we can avoid problems with conflicting versions.
+
 
 [How to contribute](contributing.html)
