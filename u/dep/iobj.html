@@ -36,16 +36,23 @@
 
           <h2 id="iobj-indirect-object"><code>iobj</code>: indirect object</h2>
 
-<p>The indirect object of a verb is any noun phrase that is a core
-argument of the verb but it is not its <a href="dobj">direct object</a>.
-Prototypical example is the addressee of ditransitive verbs of
+<p>The indirect object of a verb is any nominal phrase that is a core
+argument of the verb but is not its subject or <a href="dobj">direct object</a>.
+The prototypical example is the recipient of ditransitive verbs of
 exchange:</p>
 
 <pre><code class="language-sdparse">She gave me a raise
 iobj(gave, me)
 </code></pre>
 
-<p>In languages distinguishing morphological <a href="u-feat/Case">cases</a>, the direct object will often be marked by the dative case. However, verb valency may occasionally dictate that the direct object is in dative, or that the indirect objects shall take various other forms.</p>
+<p>However, many languages allow other semantic roles as additional object. The most common case is allowing benefactives, but some languages allow other roles. Examples include instruments, such as in the Kinyarwanda example below, or comitatives. At the other extreme, some languages lack all indirect objects.</p>
+
+<pre><code class="language-sdparse">Umukoóbwa a-ra-andik-iish-a íbárúwa íkárámu \n girl 1-PRS-write-APPL-ASP letter pen
+dobj(a-ra-andik-iish-a, íbárúwa)
+iobj(a-ra-andik-iish-a, íkárámu)
+</code></pre>
+
+<p>In languages distinguishing morphological <a href="u-feat/Case">cases</a>, the indirect object will often be marked by the dative case. However, verb valency may occasionally dictate that the direct object is in dative, or that the indirect objects shall take various other forms.</p>
 
 <p>In the following Czech example, the verb takes two arguments, both are nouns in the accusative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (consider a similar sentence, <em>he gave my daughter a class of maths</em>).</p>
 
@@ -57,15 +64,39 @@ iobj(teaches, daughter.Acc)
 </code></pre>
 
 <p>In general, if there is just one object, it should be labeled
-<a href="">dobj</a>, regardless of the morphological case. If there are two or
+<a href="">dobj</a>, regardless of the morphological case or semantic role. For example, in English, <em>teach</em> can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the <a href="">dobj</a>:</p>
+
+<pre><code class="language-sdparse">She teaches introductory logic
+dobj(teaches, logic)
+</code></pre>
+
+<pre><code class="language-sdparse">She teaches the first-year students
+dobj(teaches, students)
+</code></pre>
+
+<p>This is consistent with the analysis of Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”,
+chapter 4 section 4 (p. 251).  As they note, it is no different to the same semantic role being sometimes the subject
+and sometimes the object in intransitive/transitive alternations. The one exception is when there is a clausal complement.
+Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an iobj, parallel to
+the simple ditransitive case:</p>
+
+<pre><code class="language-sdparse">She told the students that they needed to study this evening
+iobj(told, students)
+ccomp(told, needed)
+</code></pre>
+
+<pre><code class="language-sdparse">She told the students the plan
+iobj(told, students)
+dobj(told, plan)
+</code></pre>
+
+<p>If there are two or
 more objects, one of them should be <a href="">dobj</a> and the others should be
 <code>iobj</code>. In such cases it is necessary to decide what is the
 most directly affected object <em>(patient).</em> If possible,
 language-specific documentation should help identify direct and
 indirect objects.</p>
 
-<p>Note that the above example could be reduced to <em>he teaches my
-daughter,</em> then <em>my daughter</em> would become direct object.</p>
 
 
 <!-- "relation in other languages" links -->
