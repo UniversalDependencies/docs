@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: entry
 title:  'nsubj'
 shortdef : 'nominal subject'
 ---
