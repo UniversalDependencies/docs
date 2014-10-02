@@ -74,8 +74,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 * [Tokenization](fi/overview/tokenization.html)
 * Morphology
   * [General principles](fi/overview/morphology.html)
-  * Finnish POS tags: TODO
-  * Finnish features: TODO
+  * [Finnish POS tags](fi/pos/index.html) ([single document](fi/pos/all.html))
+  * [Finnish features](fi/feat/index.html) ([single document](fi/feat/all.html))
 * Syntax
   * [General principles](fi/overview/syntax.html)
   * [Finnish relations](fi/dep/index.html) ([single document](fi/dep/all.html))

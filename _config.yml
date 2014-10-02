@@ -42,6 +42,12 @@ collections:
 #
 # Finnish
 #
+  fi-pos:
+    output: true
+    permalink: /fi/pos/:path.html
+  fi-feat:
+    output: true
+    permalink: /fi/feat/:path.html
   fi-dep:
     output: true
     permalink: /fi/dep/:path.html
