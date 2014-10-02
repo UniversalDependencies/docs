@@ -44,6 +44,7 @@
   <li><a href="#preliminaries">Preliminaries</a></li>
   <li><a href="#editing">Editing</a>
     <ul>
+      <li><a href="#style-guidelines">Style guidelies</a></li>
       <li><a href="#file-format">File format</a></li>
       <li><a href="#editing-online">Editing online</a></li>
       <li><a href="#using-git">Using Git</a></li>
@@ -90,12 +91,47 @@ place.)</p>
 <p>(Note: the following instructions are for project members. If you are
 not a member, see <a href="#non-members">here</a>)</p>
 
-<p>To get started with editing the materials, first read the brief <a href="#file-format">file
+<p>To get started with editing the materials, first read the brief <a href="#style-guidelines">style
+guidelines</a> and the<a href="#file-format">file
 format description</a> below. Then, the easiest way to edit
 the materials is to use the <a href="#editing-online">online editing features</a>
 provided by GitHub. If you prefer to use your own text editor or need
 to make larger changes, you may wish to <a href="#using-git">use the git version control
 system</a> and work on the files on your own computer.</p>
+
+<h3 id="style-guidelines">Style guidelines</h3>
+
+<p>To maintain the consistency of the documentation, please follow these guidelines:</p>
+
+<ul>
+  <li>All types / labels (POS tags, feature names/values, relation labels) are in
+<code>constant width font</code>. To achieve this, use either a documentation link (see
+below), or backticks in Markdown (e.g. `nsubj`) or <code>&lt;code&gt;</code> in HTML
+(e.g. <code>&lt;code&gt;nsubj&lt;/code&gt;</code>).</li>
+  <li>The first mention of any type other than the one that is the focus of the page
+(the titular one) are linked to the relevant page of documentation. For example,
+on the page for <code>nsubj</code>, write “<code>nsubj</code>” and “<a href="">case</a>”. Repeated mentions of
+the same type may be optionally be linked (if they are too far apart, it makes
+sense to hyperlink again, but it does not make sense to highlight several
+occurrences in the same paragraph)</li>
+  <li>Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. <em>der Mann</em> “the man”.
+    <ul>
+      <li>Whenever quotes are used in the documentation, the typographic (directional) quotation marks should be used, not the straight ASCII marks: “correct” × “wrong”.</li>
+    </ul>
+  </li>
+  <li>Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don’t look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
+    <ul>
+      <li><em>Иван лучший танцор</em> / <em>Ivan lučšij tancor</em> “Ivan is the best dancer”</li>
+      <li>राम इवान से भी बेहतर है / <em>rāma ivāna se bhī behatara hai</em> “Ram is even better than Ivan”</li>
+    </ul>
+  </li>
+  <li>If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
+    <ul>
+      <li><em>Seděla na lavičce pod mostem.</em> lit. <em>She-sat on bench under bridge.</em> “She was sitting on a bench under the bridge.”</li>
+    </ul>
+  </li>
+  <li>If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German <em>ich bin gekommen</em> “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] <em>ich bin gekommen</em> “I have come”).</li>
+</ul>
 
 <h3 id="file-format">File format</h3>
 
