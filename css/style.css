@@ -439,3 +439,7 @@ table.category td {
 .jquery-ui-tabs > div {
   font-size: 120%;
 }
+
+p.notice {
+  font-size: 90%;
+}
