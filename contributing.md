@@ -11,6 +11,7 @@ Contents:
 
 * [Preliminaries](#preliminaries)
 * [Editing](#editing)
+  - [Style guidelies](#style-guidelines)
   - [File format](#file-format)
   - [Editing online](#editing-online)
   - [Using Git](#using-git)
@@ -50,12 +51,36 @@ After logging in to GitHub, see the following:
 (Note: the following instructions are for project members. If you are
 not a member, see [here](#non-members))
 
-To get started with editing the materials, first read the brief [file
+To get started with editing the materials, first read the brief [style
+guidelines](#style-guidelines) and the[file
 format description](#file-format) below. Then, the easiest way to edit
 the materials is to use the [online editing features](#editing-online)
 provided by GitHub. If you prefer to use your own text editor or need
 to make larger changes, you may wish to [use the git version control
 system](#using-git) and work on the files on your own computer.
+
+### Style guidelines
+
+To maintain the consistency of the documentation, please follow these guidelines:
+
+* All types / labels (POS tags, feature names/values, relation labels) are in
+`constant width font`. To achieve this, use either a documentation link (see
+below), or backticks in Markdown (e.g. \`nsubj\`) or `<code>` in HTML
+(e.g. `<code>nsubj</code>`).
+* The first mention of any type other than the one that is the focus of the page
+(the titular one) are linked to the relevant page of documentation. For example,
+on the page for `nsubj`, write "`nsubj`" and "[case]()". Repeated mentions of
+the same type may be optionally be linked (if they are too far apart, it makes
+sense to hyperlink again, but it does not make sense to highlight several
+occurrences in the same paragraph)
+* Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. _der Mann_ “the man”.
+  * Whenever quotes are used in the documentation, the typographic (directional) quotation marks should be used, not the straight ASCII marks: “correct” × "wrong".
+* Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
+  * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
+  * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
+* If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
+  * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
+* If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).
 
 ### File format
 
