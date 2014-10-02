@@ -14,6 +14,8 @@ gems:
   - jekyll-redirect-from
 
 collections:
+  u-overview:
+    output: true
   u-pos:
     output: true
     permalink: /u/pos/:path.html
