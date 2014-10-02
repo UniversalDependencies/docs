@@ -19,11 +19,20 @@ basic dependency structure, certain syntactic constructions may introduce additi
 (examples include dependencies that propagate over coordination structures and secondary predication).
 These dependencies can be represented in the _enhanced_ version of the universal dependencies, where they
 are encoded in the DEPS field of the [CoNLL-U format](format.html). The total set of dependencies in the
-enhanced representation will normally not form a rooted tree, but in most cases it is a directed acyclic 
-graph (DAG). The dependency relations added in the enhanced representation are in general taken from the 
+enhanced representation will commonly no longer be a rooted tree, but a rooted directed graph. In particular, the result need not be a directed acyclic 
+graph (DAG). While the graph is _mostly_ tree-like, the enhanced representation of relative clauses introduces small cycles:
+
+<div id="s0a" class="sd-parse">
+The cat Sue saw was black .
+nsubj(saw, Sue)
+acl(cat, saw)
+dobj(saw, cat)
+</div>
+
+The dependency relations added in the enhanced representation are taken from the 
 same inventory as the basic dependencies, but detailed guidelines for the enhanced representation still
-have to be developed. In the meantime, the documentation of the basic dependencies sometimes refers to
-dependencies that we expect to be present in the enhanced representations. 
+have to be developed. In the meantime, the documentation of the basic dependencies sometimes refers to additional
+dependencies that we expect to be present in the enhanced representation. 
 
 ## The Primacy of Content Words
 
