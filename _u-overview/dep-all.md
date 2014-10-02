@@ -13,6 +13,7 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014). There have been modifi
 ----------
 
 {% for p in site.u-dep %}
+<h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}">See details</a>
