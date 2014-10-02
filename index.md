@@ -7,7 +7,6 @@ title:  'Universal Dependencies'
 
 [Introduction to Universal Dependencies](introduction.html)
 
-This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
 
 <!-- 
      The following <div> is the top-level element for the index page
@@ -39,6 +38,13 @@ This is the online documentation and example bank for Universal Dependencies, ve
   * [Universal relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
+
+This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
+We intend to treat version 1 as stable for at least the next year, 
+but we may subsequently make further revisions based on experiences using it to treebank 
+a range of languages. If you plan to use the scheme yourself, please get in touch so
+that we can avoid problems with conflicting versions.
+
 </div>
 
 <!-- "English" tab -->
@@ -74,11 +80,5 @@ More languages to come.
 </div>
 
 ----------------------------------------
-
-<b>Important:</b> We intend to treat version 1 as stable for at least the next year, 
-but we may subsequently make further revisions based on experiences using it to treebank 
-a range of languages. If you plan to use the scheme yourself, please get in touch so
-that we can avoid problems with conflicting versions.
-
 
 [How to contribute](contributing.html)
