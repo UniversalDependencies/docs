@@ -67,14 +67,14 @@
 <p>Before starting, you may want to have a quick look at the
 <a href="visualization.html">documentation and visualization system introduction</a>.</p>
 
-<p>The online documentation is stored in GitHub, a service for projects
+<p>The online documentation is stored on GitHub, a service for projects
 using the Git version control system. To contribute, you need a GitHub
 account.</p>
 
 <p>If you already have a GitHub account, just make sure you are logged in
 before moving on. If you do not, please go to
 <a href="https://github.com/join">https://github.com/join</a> and create an
-account first. (it’s free, only takes a minute, and there’s a
+account first. (It’s free, only takes a minute, and there’s a
 reasonable <a href="https://help.github.com/articles/github-privacy-policy">privacy
 policy</a> in
 place.)</p>
@@ -89,10 +89,10 @@ place.)</p>
 <h2 id="editing">Editing</h2>
 
 <p>(Note: the following instructions are for project members. If you are
-not a member, see <a href="#non-members">here</a>)</p>
+not a member, see <a href="#non-members">here</a>.)</p>
 
 <p>To get started with editing the materials, first read the brief <a href="#style-guidelines">style
-guidelines</a> and the<a href="#file-format">file
+guidelines</a> and the <a href="#file-format">file
 format description</a> below. Then, the easiest way to edit
 the materials is to use the <a href="#editing-online">online editing features</a>
 provided by GitHub. If you prefer to use your own text editor or need
@@ -145,42 +145,53 @@ copied in from the output of relevant tools.</p>
 
 <div class="example">
 
-  <p>A copula is the relation between the complement of a copular verb and the copular verb.</p>
+  <p>A copula is the relation between the complement of a copular verb and
+the copular verb <em>to be</em> (only).  (We normally take a copula as a dependent of its
+complement.)</p>
 
   <pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
 </code></pre>
 
-  <p>The following are considered copular verbs:</p>
+  <pre><code class="language-sdparse">Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)
+</code></pre>
 
-  <ul>
-    <li>appear</li>
-    <li>be</li>
-    <li>become</li>
-    <li>[…]</li>
-  </ul>
+  <p>The copula <em>be</em> is not treated as the
+head of a clause, but rather the dependent of a lexical predicate, as exemplified above.</p>
 
 </div>
 
 <p>is generated from this input:</p>
 
-<pre><code>A copula is the relation between the complement of a copular verb and the copular verb.
+<pre><code>A copula is the relation between the complement of a copular verb and
+the copular verb *to be* (only).  (We normally take a copula as a dependent of its
+complement.)
 
 ~~~ sdparse
 Bill is an honest man
 cop(man, is)
 ~~~
 
-The following are considered copular verbs:
+~~~ sdparse
+Ivan is the best dancer
+nsubj(dancer-5, Ivan-1)
+cop(dancer-5, is-2)
+det(dancer-5, the-3)
+amod(dancer-5, best-4)
+~~~
 
-* appear
-* be
-* become
-* [...]
+The copula *be* is not treated as the
+head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 </code></pre>
 
 <p>The input is primarily in the
-<a href="http://daringfireball.net/projects/markdown/">Markdown</a> format, which
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a> format
+(see also <a href="https://help.github.com/articles/markdown-basics">GitHub Markdown Basics</a> and
+<a href="https://help.github.com/articles/github-flavored-markdown">GitHub Flavored Markdown</a>), which
 can be mostly written like plain text and mixed freely with inline
 HTML. The only exception is the format used for embedding
 visualizations, which is supported as an extension specific to this
