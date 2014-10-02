@@ -41,7 +41,8 @@ predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). These complements are always non-finite, and they are
+clause). This is often referred to as <em>obligatory control</em>. 
+These complements are always non-finite, and they are
 complements (arguments of the higher verb or adjective) rather than
 adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is
 borrowed from Lexical-Functional Grammar.</p>
@@ -54,7 +55,7 @@ xcomp(like, swim)
 xcomp(asked, respond)
 </code></pre>
 
-<pre><code class="language-sdpare">You look great
+<pre><code class="language-sdparse">You look great
 xcomp(look, great)
 </code></pre>
 
@@ -75,17 +76,17 @@ xcomp(expect, change)
 </code></pre>
 
 <p>Note that the above condition “without its own subject” does not mean that a 
-clause is <code>xcomp</code> just because its subject is not <em>overt.</em> The subject must be inherited from a higher clause, that is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the subject of the upper clause. In cases where the missing subject may or must be distinct from the higher subject, <code>ccomp</code> should be used instead, as below.</p>
+clause is an <code>xcomp</code> just because its subject is not <em>overt.</em> The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
+from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, <code>ccomp</code> should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control.</p>
 
 <pre><code class="language-sdparse">The boss said to start digging
-xcomp(said, start)
+ccomp(said, start)
 </code></pre>
 
 <p>Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb)
 and it does not depend on arguments from a higher clause.
-Thus in neither of the following two Czech examples there is any overt subject,
+Thus in neither of the following two Czech examples is there any overt subject,
 yet only the second example contains an <code>xcomp</code>.</p>
 
 <pre><code class="language-sdparse">Píšu , protože jsem to slíbil . \n I-write , because I-have it promised .
@@ -100,7 +101,7 @@ xcomp(Promised, to-write)
 
 <h3 id="secondary-predicates">Secondary Predicates</h3>
 
-<p>The <code>xcomp</code> relation is also used in constructions that are known as <em>secondary predicates.</em>
+<p>The <code>xcomp</code> relation is also used in constructions that are known as <em>secondary predicates</em> or_predicatives_.
 Examples:</p>
 
 <ul>
@@ -165,22 +166,36 @@ advcl(Vstoupila, smutná)
 advcl(She-entered, sad)
 </code></pre>
 
-<p>For resultatives, however, we uniformly use <code>xcomp</code>:</p>
+<p>Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives ore resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:</p>
+
+<ul>
+  <li>He looked fantastic [obligatory, depictive, intransitive host]</li>
+  <li>She kept Kim warm [obligatory, depictive, transitive host]</li>
+  <li>The boss became angry [obligatory, resultative, intransitive host]</li>
+  <li>This made me furious [obligatory, resultative, transitive host]</li>
+  <li>He died young [optional, depictive, intransitive host]</li>
+  <li>He at the steak almost raw [optional, depictive, transitive host]</li>
+  <li>The pond froze solid [optional, resultative, intransitive host]</li>
+  <li>He painted the house blue [optional, resultative, transitive host]</li>
+</ul>
+
+<p>Obligatory predicatives are always treated as <code>xcomp</code>. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., <em>He looked an idiot</em>; <em>This made me seethe with anger</em>). Optional depictives are analyzed as adjuncts, and made the <a href="">acl</a> of the nominal that they semantically modify (if one is present, otherwise they become an <a href="">advcl</a>. The remaining, most subtle case is optional resultatives. For these, we 
+we uniformly use <code>xcomp</code>:</p>
 
 <pre><code class="language-sdparse">He painted the house blue .
 dobj(painted, house)
 xcomp(painted, blue)
 </code></pre>
 
-<pre><code class="language-sdparse">He talked himself hoarse .
-dobj(talked, himself)
-xcomp(talked, hoarse)
-</code></pre>
+<p>Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
+(the house is painted blue), in a way that is not true of depictives. This is the analysis adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
+subcategorization frame by application of a lexical rule, and that this frame
+includes an additional <code>xcomp</code> argument. Such an analysis is buttressed by the fact that intransitive verbs can also form resultatives by gaining a new subcategorization which adds both a <code>dobj</code> and an <code>xcomp</code>, as in the example below.</p>
 
-<p>One may argue that what we call complement here is actually optional.
-To justify the analysis in LFG terms, we say that the verb acquires a new
-subcategorization frame by application of a lexical rule, and that frame
-includes an <code>xcomp</code>.</p>
+<pre><code class="language-sdparse">The dog barked the neighbors awake .
+dobj(barked, neighbors)
+xcomp(barked, awake)
+</code></pre>
 
 
 
