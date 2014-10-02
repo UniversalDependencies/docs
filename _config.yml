@@ -14,6 +14,9 @@ gems:
   - jekyll-redirect-from
 
 collections:
+#
+# Universal
+#
   u-pos:
     output: true
     permalink: /u/pos/:path.html
@@ -28,15 +31,35 @@ collections:
   ext-feat:
     output: true
     permalink: /u/ext-feat/:path.html
+#
+# English
+#
   en-dep:
     output: true
     permalink: /en/dep/:path.html
   en-overview:
     output: true
+#
+# Finnish
+#
   fi-dep:
     output: true
     permalink: /fi/dep/:path.html
   fi-overview:
+    output: true
+#
+# Template
+#
+  template-pos:
+    output: true
+    permalink: /template/pos/:path.html
+  template-feat:
+    output: true
+    permalink: /template/feat/:path.html
+  template-dep:
+    output: true
+    permalink: /template/dep/:path.html
+  template-overview:
     output: true
 
 excerpt_separator: "\n\n"

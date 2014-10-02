@@ -91,6 +91,19 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <div id="language-other" markdown="1" class="ui-tabs-hide">
 More languages to come.
+
+The following are empty templates for language-specific documentation.
+(Please ignore these.)
+
+* [Tokenization](template/overview/tokenization.html)
+* Morphology
+  * [General principles](template/overview/morphology.html)
+  * [Universal POS tags](template/pos/index.html) ([single document](template/pos/all.html))
+  * [Universal features](template/feat/index.html) ([single document](template/feat/all.html))
+* Syntax
+  * [General principles](template/overview/syntax.html)
+  * [Universal relations](template/dep/index.html) ([single document](template/dep/all.html))
+* [CoNLL-U format](format.html)
 </div>
 
 </div>
