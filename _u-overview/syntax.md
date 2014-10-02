@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Structure'
+title:  'Syntax'
 permalink: u/overview/syntax.html
 ---
 
