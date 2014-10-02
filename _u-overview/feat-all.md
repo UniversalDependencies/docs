@@ -12,6 +12,7 @@ permalink: u/feat/all.html
 ----------
 
 {% for p in site.u-feat %}
+<h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}">See details</a>
@@ -19,7 +20,4 @@ permalink: u/feat/all.html
 {{ p.content }}
 {% endif %}
 <a href="{{ site.git_edit }}/_u-feat/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
-
-----------
-
 {% endfor %}
