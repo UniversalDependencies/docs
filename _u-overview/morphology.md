@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Morphology'
+permalink: u/overview/morphology.html
 ---
 
 # Morphology: General Principles

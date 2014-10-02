@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Structure'
+permalink: u/overview/syntax.html
 ---
 
 # Syntax: General Principles
