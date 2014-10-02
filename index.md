@@ -70,13 +70,13 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Finnish" tab -->
 <div id="language-fi" markdown="1" class="ui-tabs-hide">
-* Tokenization: TODO
+* [Tokenization](fi/overview/tokenization.html)
 * Morphology
-  * General principles: TODO
+  * [General principles](fi/overview/morphology.html)
   * Finnish POS tags: TODO
   * Finnish features: TODO
 * Syntax
-  * General principles: TODO
+  * [General principles](fi/overview/syntax.html)
   * [Finnish relations](fi/dep/index.html) ([single document](fi/dep/all.html))
 * [CoNLL-U format](format.html)
 
