@@ -49,13 +49,13 @@ title:  'Universal Dependencies'
 
 <!-- "English" tab -->
 <div id="language-en" markdown="1" class="ui-tabs-hide">
-* Tokenization: TODO
+* [Tokenization](en/overview/tokenization.html)
 * Morphology
-  * General principles: TODO
+  * [General principles](en/overview/morphology.html)
   * English POS tags: TODO
   * English features: TODO
 * Syntax
-  * General principles: TODO
+  * [General principles](en/overview/syntax.html)
   * [English relations](en/dep/index.html) ([single document](en/dep/all.html))
 * [CoNLL-U format](format.html)
 
