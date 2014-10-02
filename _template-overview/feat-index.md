@@ -15,6 +15,6 @@ Alphabetical listing
 
 <ul>
 {% for p in site.template-feat %}
-  <li><a>{{ p.title }}</a>: {{ p.shortdef }}</li>
+  <li><a href="{{ p.title }}.html" class="doclabel">{{ p.title }}</a>: {{ p.shortdef }}</li>
 {% endfor %}
 </ul>
