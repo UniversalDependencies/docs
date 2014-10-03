@@ -213,4 +213,4 @@ and the corresponding features then appear without identifier,
 e.g. `Gender=Masc|Gender[psor]=Fem`.
 
 For more prototypes of layered features, see
-<a href="u-feat-layers.html">Layered Features</a>.
+<a href="feat-layers.html">Layered Features</a>.
