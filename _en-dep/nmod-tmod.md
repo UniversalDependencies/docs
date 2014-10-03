@@ -4,13 +4,14 @@ title:  'nmod:tmod'
 shortdef : 'temporal modifier'
 ---
 
-A temporal modifier is a subtype of the [nmod:npmod]() relation: it is
-a bare noun phrase constituent that serves to modify the meaning of
-the constituent by specifying a time.  (Other temporal modifiers are
-prepositional phrases introduced as [nmod]() or adverbs introduced as
-[advmod]()).
+A temporal modifier is a subtype of the [nmod]() relation: if the modifier is specifying a time, it is labeled as *tmod*. 
 
 ~~~ sdparse
 Last night , I swam in the pool
 nmod:tmod(swam, night)
+~~~
+
+~~~ sdparse
+You need to turn in your homework by next week
+nmod:tmod(turn, week)
 ~~~
