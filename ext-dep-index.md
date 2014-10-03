@@ -55,7 +55,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## nmod
 - nmod:npmod
-[English](en-dep/nmod:npmod])
+[English](en-dep/nmod:npmod)
 
 - nmod:tmod
 [English](en-dep/nmod:tmod)
