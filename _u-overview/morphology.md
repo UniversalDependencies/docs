@@ -25,7 +25,7 @@ The only truly general approach to fusion words is to apply
 a language-specific processing step that will split tokens into syntactic words
 where necessary. Every syntactic word will then get its own part-of-speech tag
 and features. See also <a href="tokenization.html">Tokenization</a> and
-<a href="format.html">Format</a>.
+<a href="../../format.html">Format</a>.
 
 
 ## Part-of-Speech Tags
@@ -33,7 +33,7 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
 The list of <a href="u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.
 It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of <a href="u/feat/index.html">features</a> (see below). 
 
-Also, note that the <a href="format.html">CoNLL-U format</a>
+Also, note that the <a href="../../format.html">CoNLL-U format</a>
 allows an additional POSTAG, taken from a language-specific
 (or corpus-specific) tagset. Such language-specific POSTAGs have their own
 data column and are not mixed with the universal POS tags.
