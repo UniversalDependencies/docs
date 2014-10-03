@@ -61,8 +61,8 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * English: Marie-Catherine de Marneffe, Christopher Manning, Natalia Silveira
 * Finnish: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
 * Hungarian: Richárd Farkas, Veronika Vincze
-* Swedish: Joakim Nivre, Aaron Smith
 * Irish: Teresa Lynn, Jennifer Foster
+* Swedish: Joakim Nivre, Aaron Smith
 
 ## References
 
