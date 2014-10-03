@@ -19,14 +19,14 @@ title:  'Universal Dependencies'
 
 <!-- links to per-language sections, shown as tab labels -->
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
-  <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
-  <li class="ui-state-default"><a href="#language-en">English</a></li>
-  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
-  <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
-  <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
-  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-other">...</a></li>
+  <li class="ui-state-default"><a href="index.html#language-u">Universal</a></li>
+  <li class="ui-state-default"><a href="index.html#language-bg">Bulgarian</a></li>
+  <li class="ui-state-default"><a href="index.html#language-en">English</a></li>
+  <li class="ui-state-default"><a href="index.html#language-fi">Finnish</a></li>
+  <li class="ui-state-default"><a href="index.html#language-hu">Hungarian</a></li>
+  <li class="ui-state-default"><a href="index.html#language-ga">Irish</a></li>
+  <li class="ui-state-default"><a href="index.html#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="index.html#language-other">...</a></li>
 </ul>
 
 <!-- "Universal" tab -->
