@@ -102,6 +102,20 @@ collections:
   ga-overview:
     output: true
 #
+# Bulgarian
+#
+  bg-pos:
+    output: true
+    permalink: /bg/pos/:path.html
+  bg-feat:
+    output: true
+    permalink: /bg/feat/:path.html
+  bg-dep:
+    output: true
+    permalink: /bg/dep/:path.html
+  bg-overview:
+    output: true
+#
 # Template
 #
   template-pos:
