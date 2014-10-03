@@ -593,14 +593,14 @@ distinguished as a separate relation.</p>
 
 <h2><code>nmod:tmod</code>: temporal modifier</h2>
 
-<p>A temporal modifier is a subtype of the <a href="">nmod:npmod</a> relation: it is
-a bare noun phrase constituent that serves to modify the meaning of
-the constituent by specifying a time.  (Other temporal modifiers are
-prepositional phrases introduced as <a href="">nmod</a> or adverbs introduced as
-<a href="">advmod</a>).</p>
+<p>A temporal modifier is a subtype of the <a href="">nmod</a> relation: if the modifier is specifying a time, it is labeled as <em>tmod</em>. </p>
 
 <pre><code class="language-sdparse">Last night , I swam in the pool
 nmod:tmod(swam, night)
+</code></pre>
+
+<pre><code class="language-sdparse">You need to turn in your homework by next week
+nmod:tmod(turn, week)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod:tmod.md" target="#">edit nmod:tmod</a></p>
