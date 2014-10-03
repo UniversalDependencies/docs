@@ -5,12 +5,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Universal Dependencies</title>
-    <link rel="root" href=""/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
-    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+    <title>PronType</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/index.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-feat/PronType.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,263 +34,22 @@
 	  </div>
 	</noscript>
 
-          <h1 id="universal-dependencies">Universal Dependencies</h1>
+          <h2><code>PronType</code>: pronominal type</h2>
 
-<p><a href="introduction.html">Introduction to Universal Dependencies</a></p>
+<p>This document is a placeholder for the language-specific documentation
+for <code>PronType</code>.</p>
 
-<!-- 
-     The following <div> is the top-level element for the index page
-     tabs. To add a new tab (e.g. for Swedish), first add a link to
-     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
-     then add a <div> with the tab content below, with the same ID as
-     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
- -->
-<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
 
-<!-- links to per-language sections, shown as tab labels -->
-<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
-  <li class="ui-state-default"><a href="#language-en">English</a></li>
-  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
-  <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
-  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
-  <li class="ui-state-default"><a href="#language-other">...</a></li>
-</ul>
+<!-- "in other languages" links -->
+<hr/>
 
-<!-- "Universal" tab -->
-<div id="language-u" class="ui-tabs-panel">
-    <ul>
-      <li><a href="u/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="u/overview/morphology.html">General principles</a></li>
-          <li><a href="u/pos/index.html">Universal POS tags</a> (<a href="u/pos/all.html">single document</a>)</li>
-          <li><a href="u/feat/index.html">Universal features</a> (<a href="u/feat/all.html">single document</a>)</li>
-          <li><a href="ext-feat-index.html">Language-specific features</a></li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="u/overview/syntax.html">General principles</a></li>
-          <li><a href="u/dep/index.html">Universal relations</a> (<a href="u/dep/all.html">single document</a>)</li>
-          <li><a href="ext-dep-index.html">Language-specific relations</a></li>
-        </ul>
-      </li>
-      <li><a href="format.html">CoNLL-U format</a></li>
-    </ul>
-
-    <p><small>
-This is the online documentation and example bank for Universal
-Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
-stable for at least the next year, but we may subsequently make
-further revisions based on experiences using it to treebank a range of
-languages. If you plan to use the scheme yourself, please get in touch
-so that we can avoid problems with conflicting versions.
-</small></p>
-  </div>
-
-<!-- "English" tab -->
-<div id="language-en" class="ui-tabs-hide">
-    <ul>
-      <li><a href="en/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="en/overview/morphology.html">General principles</a></li>
-          <li><a href="en/pos/index.html">English POS tags</a> (<a href="en/pos/all.html">single document</a>)</li>
-          <li><a href="en/feat/index.html">English features</a> (<a href="en/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="en/overview/syntax.html">General principles</a></li>
-          <li><a href="en/dep/index.html">English relations</a> (<a href="en/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small></p>
-  </div>
-
-<!-- "Finnish" tab -->
-<div id="language-fi" class="ui-tabs-hide">
-    <ul>
-      <li><a href="fi/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="fi/overview/morphology.html">General principles</a></li>
-          <li><a href="fi/pos/index.html">Finnish POS tags</a> (<a href="fi/pos/all.html">single document</a>)</li>
-          <li><a href="fi/feat/index.html">Finnish features</a> (<a href="fi/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="fi/overview/syntax.html">General principles</a></li>
-          <li><a href="fi/dep/index.html">Finnish relations</a> (<a href="fi/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small></p>
-  </div>
-
-<!-- "Hungarian" tab -->
-<div id="language-hu" class="ui-tabs-hide">
-    <p><strong>Note</strong>: the following are empty templates only, content to follow soon.</p>
-
-    <ul>
-      <li><a href="hu/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="hu/overview/morphology.html">General principles</a></li>
-          <li><a href="hu/pos/index.html">Hungarian POS tags</a> (<a href="hu/pos/all.html">single document</a>)</li>
-          <li><a href="hu/feat/index.html">Hungarian Features</a> (<a href="hu/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="hu/overview/syntax.html">General principles</a></li>
-          <li><a href="hu/dep/index.html">Hungarian Relations</a> (<a href="hu/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small></p>
-  </div>
-
-<!-- "Swedish" tab -->
-<div id="language-sv" class="ui-tabs-hide">
-    <p><strong>Note</strong>: the following are empty templates only, content to follow soon.</p>
-
-    <ul>
-      <li><a href="sv/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="sv/overview/morphology.html">General principles</a></li>
-          <li><a href="sv/pos/index.html">Swedish POS tags</a> (<a href="sv/pos/all.html">single document</a>)</li>
-          <li><a href="sv/feat/index.html">Swedish features</a> (<a href="sv/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="sv/overview/syntax.html">General principles</a></li>
-          <li><a href="sv/dep/index.html">Swedish relations</a> (<a href="sv/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small></p>
-  </div>
-
-<!-- "Irish" tab -->
-<div id="language-ga" class="ui-tabs-hide">
-    <p><strong>Note</strong>: the following are empty templates only, content to follow soon.</p>
-
-    <ul>
-      <li><a href="ga/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="ga/overview/morphology.html">General principles</a></li>
-          <li><a href="ga/pos/index.html">Irish POS tags</a> (<a href="ga/pos/all.html">single document</a>)</li>
-          <li><a href="ga/feat/index.html">Irish Features</a> (<a href="ga/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="ga/overview/syntax.html">General principles</a></li>
-          <li><a href="ga/dep/index.html">Irish Relations</a> (<a href="ga/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small></p>
-
-  </div>
-<!-- new tab template -->
-<!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
-<!-- * [Tokenization](LC/overview/tokenization.html) -->
-<!-- * Morphology -->
-<!--   * [General principles](LC/overview/morphology.html) -->
-<!--   * [POS tags](LC/pos/index.html) ([single document](LC/pos/all.html)) -->
-<!--   * [features](LC/feat/index.html) ([single document](LC/feat/all.html)) -->
-<!--   * POS tags: TODO -->
-<!--   * Features: TODO -->
-<!-- * Syntax -->
-<!--   * [General principles](LC/overview/syntax.html) -->
-<!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
-<!-- <small>  -->
-<!-- This is part of the language-specific documentation for Universal -->
-<!-- Dependencies. <strong>Language-specific guidlines are currently under -->
-<!-- revision and should not be considered final.</strong> Our goal is to -->
-<!-- have a stable version of this part of the documentation by 2015-01-01. -->
-<!-- </small> -->
-<!-- </div> -->
-
-<div id="language-other" class="ui-tabs-hide">
-    <p>More languages to come.</p>
-
-    <p>The following are empty templates for language-specific documentation.
-(Please ignore these.)</p>
-
-    <ul>
-      <li><a href="template/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="template/overview/morphology.html">General principles</a></li>
-          <li><a href="template/pos/index.html">Universal POS tags</a> (<a href="template/pos/all.html">single document</a>)</li>
-          <li><a href="template/feat/index.html">Universal features</a> (<a href="template/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="template/overview/syntax.html">General principles</a></li>
-          <li><a href="template/dep/index.html">Universal relations</a> (<a href="template/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-
-</div>
-
-<hr />
-
-<p><a href="format.html">CoNLL-U format</a></p>
-
-<hr />
-
-<p><a href="contributing.html">How to contribute</a></p>
 
 
       </div>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = ''; // filled in by jekyll
+    var root = '../../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -325,7 +84,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
     /* collection data, filled in by Jekyll */
     var documentCollections = {
-        "_current" : "",
+        "_current" : "ga-feat",
 
 
         "u-pos": [
