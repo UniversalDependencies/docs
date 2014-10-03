@@ -88,6 +88,20 @@ collections:
   hu-overview:
     output: true
 #
+# Irish
+#
+  ga-pos:
+    output: true
+    permalink: /ga/pos/:path.html
+  ga-feat:
+    output: true
+    permalink: /ga/feat/:path.html
+  ga-dep:
+    output: true
+    permalink: /ga/dep/:path.html
+  ga-overview:
+    output: true
+#
 # Template
 #
   template-pos:

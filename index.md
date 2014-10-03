@@ -24,6 +24,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -131,6 +132,27 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
+<!-- "Irish" tab -->
+<div id="language-ga" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](ga/overview/tokenization.html)
+* Morphology
+  * [General principles](ga/overview/morphology.html)
+  * [Irish POS tags](ga/pos/index.html) ([single document](ga/pos/all.html))
+  * [Irish Features](ga/feat/index.html) ([single document](ga/feat/all.html))
+* Syntax
+  * [General principles](ga/overview/syntax.html)
+  * [Irish Relations](ga/dep/index.html) ([single document](ga/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+
+</div>
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
 <!-- * [Tokenization](LC/overview/tokenization.html) -->
