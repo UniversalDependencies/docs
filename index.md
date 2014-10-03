@@ -20,12 +20,12 @@ title:  'Universal Dependencies'
 <!-- links to per-language sections, shown as tab labels -->
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
+  <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -50,6 +50,27 @@ stable for at least the next year, but we may subsequently make
 further revisions based on experiences using it to treebank a range of
 languages. If you plan to use the scheme yourself, please get in touch
 so that we can avoid problems with conflicting versions.
+</small>
+</div>
+
+<!-- "Bulgarian" tab -->
+<div id="language-bg" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](bg/overview/tokenization.html)
+* Morphology
+  * [General principles](bg/overview/morphology.html)
+  * [Bulgarian POS tags](bg/pos/index.html) ([single document](bg/pos/all.html))
+  * [Bulgarian Features](bg/feat/index.html) ([single document](bg/feat/all.html))
+* Syntax
+  * [General principles](bg/overview/syntax.html)
+  * [Bulgarian Relations](bg/dep/index.html) ([single document](bg/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
@@ -147,27 +168,6 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 <small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
-<!-- "Bulgarian" tab -->
-<div id="language-bg" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
-* [Tokenization](bg/overview/tokenization.html)
-* Morphology
-  * [General principles](bg/overview/morphology.html)
-  * [Bulgarian POS tags](bg/pos/index.html) ([single document](bg/pos/all.html))
-  * [Bulgarian Features](bg/feat/index.html) ([single document](bg/feat/all.html))
-* Syntax
-  * [General principles](bg/overview/syntax.html)
-  * [Bulgarian Relations](bg/dep/index.html) ([single document](bg/dep/all.html))
-
-<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
