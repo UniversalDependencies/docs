@@ -22,8 +22,8 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
+  <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-hu">hu</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -89,6 +89,26 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 </div>
 
+<!-- "Hungarian" tab -->
+<div id="language-hu" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](hu/overview/tokenization.html)
+* Morphology
+  * [General principles](hu/overview/morphology.html)
+  * [Hungarian POS tags](hu/pos/index.html) ([single document](hu/pos/all.html))
+  * [Hungarian Features](hu/feat/index.html) ([single document](hu/feat/all.html))
+* Syntax
+  * [General principles](hu/overview/syntax.html)
+  * [Hungarian Relations](hu/dep/index.html) ([single document](hu/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+
 <!-- "Swedish" tab -->
 <div id="language-sv" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
@@ -110,26 +130,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 
 </div>
-
-<!-- "hu" tab -->
-<div id="language-hu" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
-* [Tokenization](hu/overview/tokenization.html)
-* Morphology
-  * [General principles](hu/overview/morphology.html)
-  * [Hungarian POS tags](hu/pos/index.html) ([single document](hu/pos/all.html))
-  * [Hungarian Features](hu/feat/index.html) ([single document](hu/feat/all.html))
-* Syntax
-  * [General principles](hu/overview/syntax.html)
-  * [Hungarian Relations](hu/dep/index.html) ([single document](hu/dep/all.html))
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 
 </div>
 <!-- new tab template -->
