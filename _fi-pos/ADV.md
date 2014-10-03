@@ -4,5 +4,12 @@ title: 'ADV'
 shortdef: 'adverb'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADV`.
+Adverbs are words that typically modify <a href="VERB.html">verbs</a>
+for such categories as time, place, direction or manner.
+
+### Examples
+
+* hyvin
+* erittäin
+
+(This language-specific documentation is work in progress.)

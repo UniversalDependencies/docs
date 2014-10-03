@@ -4,5 +4,14 @@ title: 'NUM'
 shortdef: 'numeral'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NUM`.
+A numeral is a word, functioning most typically as a determiner,
+adjective or pronoun, that expresses a number and a relation to the
+number, such as quantity, sequence, frequency or fraction.
+
+### Examples
+
+* _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
+* _yksi, kaksi, kolme_
+* _I, II, III, IV, V, MMXIV_
+
+(This language-specific documentation is work in progress.)

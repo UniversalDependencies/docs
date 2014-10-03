@@ -4,5 +4,11 @@ title: 'SCONJ'
 shortdef: 'subordinating conjunction'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SCONJ`.
+A subordinating conjunction is a conjunction that links constructions
+by making one of them a constituent of the other.
+
+### Examples
+
+* TODO
+
+(This language-specific documentation is work in progress.)

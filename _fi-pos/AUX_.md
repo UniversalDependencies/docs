@@ -7,5 +7,12 @@ shortdef: 'auxiliary verb'
 redirect_from: "fi/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+An auxiliary verb is a verb that accompanies the lexical verb of a
+verb phrase and expresses grammatical distinctions not carried by the
+lexical verb, such as person, number, tense, mood, aspect, and voice.
+
+### Examples
+
+* TODO
+
+(This language-specific documentation is work in progress.)
