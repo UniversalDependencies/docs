@@ -74,6 +74,20 @@ collections:
   sv-overview:
     output: true
 #
+# Hungarian
+#
+  hu-pos:
+    output: true
+    permalink: /hu/pos/:path.html
+  hu-feat:
+    output: true
+    permalink: /hu/feat/:path.html
+  hu-dep:
+    output: true
+    permalink: /hu/dep/:path.html
+  hu-overview:
+    output: true
+#
 # Template
 #
   template-pos:
