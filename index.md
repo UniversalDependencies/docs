@@ -41,12 +41,14 @@ title:  'Universal Dependencies'
   * [Language-specific relations](ext-dep-index.html)
 * [CoNLL-U format](format.html)
 
-<small>This is the online documentation and example bank for Universal Dependencies, version 1 (2014-10-01).
- We intend to treat version 1 as stable for at least the next year, 
- but we may subsequently make further revisions based on experiences using it to treebank 
- a range of languages. If you plan to use the scheme yourself, please get in touch so
- that we can avoid problems with conflicting versions.</small>
-
+<small>
+This is the online documentation and example bank for Universal
+Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
+stable for at least the next year, but we may subsequently make
+further revisions based on experiences using it to treebank a range of
+languages. If you plan to use the scheme yourself, please get in touch
+so that we can avoid problems with conflicting versions.
+</small>
 </div>
 
 <!-- "English" tab -->
@@ -66,7 +68,6 @@ Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
-
 </div>
 
 <!-- "Finnish" tab -->
@@ -86,7 +87,6 @@ Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
-
 </div>
 
 <!-- "Hungarian" tab -->
@@ -108,6 +108,7 @@ Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
+</div>
 
 <!-- "Swedish" tab -->
 <div id="language-sv" markdown="1" class="ui-tabs-hide">
@@ -128,10 +129,8 @@ Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
-
 </div>
 
-</div>
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
 <!-- * [Tokenization](LC/overview/tokenization.html) -->
