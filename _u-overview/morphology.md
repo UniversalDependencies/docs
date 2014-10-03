@@ -146,60 +146,9 @@ by agreement with the modified (possessed) noun. This is parallel to other
 adjectives and determiners that agree in gender and number with the nouns they
 modify. The other value is determined lexically because it is a property of
 the possessor.
-The following table shows that
-English distinguishes only the possessor's gender and number;
-Hindi distinguishes gender in agreement and number both in agreement and of the possessor
-(there is no neuter gender in Hindi);
-German distinguishes both features in both dimensions
-(more differences would be seen if we also showed German dative and accusative forms, not just nominatives).
 
-<table>
-  <tr>
-    <td>Possessor / Agreement</td>
-    <td>&nbsp;</td>
-    <td>Sing Masc</td>
-    <td>Sing Fem</td>
-    <td>Sing Neut</td>
-    <td>Plur Masc</td>
-    <td>Plur Fem</td>
-  </tr>
-  <tr>
-    <td>Sing Masc</td>
-    <td>[en]<br/>[de]<br/>[hi]</td>
-    <td><span style='color:red'>his</span> son<br/><span style='color:red'>sein</span> Sohn<br/><span style='color:red'>usakā</span> bēṭā</td>
-    <td><span style='color:red'>his</span> daughter<br/><span style='color:red'>seine</span> Tochter<br/><span style='color:red'>usakī</span> bēṭī</td>
-    <td><span style='color:red'>his</span> house<br/><span style='color:red'>sein</span> Haus<br/>&nbsp;</td>
-    <td><span style='color:red'>his</span> sons<br/><span style='color:red'>seine</span> Söhne<br/><span style='color:red'>usakē</span> bēṭē</td>
-    <td><span style='color:red'>his</span> daughters<br/><span style='color:red'>seine</span> Töchter<br/><span style='color:red'>usakī</span> bēṭiyām̐</td>
-  </tr>
-  <tr>
-    <td>Sing Fem</td>
-    <td>[en]<br/>[de]<br/>[hi]</td>
-    <td><span style='color:red'>her</span> son<br/><span style='color:red'>ihr</span> Sohn<br/><span style='color:red'>usakā</span> bēṭā</td>
-    <td><span style='color:red'>her</span> daughter<br/><span style='color:red'>ihre</span> Tochter<br/><span style='color:red'>usakī</span> bēṭī</td>
-    <td><span style='color:red'>her</span> house<br/><span style='color:red'>ihr</span> Haus<br/>&nbsp;</td>
-    <td><span style='color:red'>her</span> sons<br/><span style='color:red'>ihre</span> Söhne<br/><span style='color:red'>usakē</span> bēṭē</td>
-    <td><span style='color:red'>her</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>usakī</span> bēṭiyām̐</td>
-  </tr>
-  <tr>
-    <td>Sing Neut</td>
-    <td>[en]<br/>[de]<br/>&nbsp;</td>
-    <td><span style='color:red'>its</span> son<br/><span style='color:red'>sein</span> Sohn<br/>&nbsp;</td>
-    <td><span style='color:red'>its</span> daughter<br/><span style='color:red'>seine</span> Tochter<br/>&nbsp;</td>
-    <td><span style='color:red'>its</span> house<br/><span style='color:red'>sein</span> Haus<br/>&nbsp;</td>
-    <td><span style='color:red'>its</span> sons<br/><span style='color:red'>seine</span> Söhne<br/>&nbsp;</td>
-    <td><span style='color:red'>its</span> daughters<br/><span style='color:red'>seine</span> Töchter<br/>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Plur</td>
-    <td>[en]<br/>[de]<br/>[hi]</td>
-    <td><span style='color:red'>their</span> son<br/><span style='color:red'>ihr</span> Sohn<br/><span style='color:red'>unakā</span> bēṭā</td>
-    <td><span style='color:red'>their</span> daughter<br/><span style='color:red'>ihre</span> Tochter<br/><span style='color:red'>unakī</span> bēṭī</td>
-    <td><span style='color:red'>their</span> house<br/><span style='color:red'>ihr</span> Haus<br/>&nbsp;</td>
-    <td><span style='color:red'>their</span> sons<br/><span style='color:red'>ihre</span> Söhne<br/><span style='color:red'>unakē</span> bēṭē</td>
-    <td><span style='color:red'>their</span> daughters<br/><span style='color:red'>ihre</span> Töchter<br/><span style='color:red'>unakī</span> bēṭiyām̐</td>
-  </tr>
-</table>
+For detailed examples of layered features, see
+<a href="feat-layers.html">Layered Features</a>.
 
 If a feature is (can be) layered in a language, the name of the feature must
 indicate the layer. An additional identifier in square brackets is used to
@@ -211,6 +160,3 @@ identifiers must be defined in a language-specific extension to this
 documentation. For each layered feature, one layer may be defined as default
 and the corresponding features then appear without identifier,
 e.g. `Gender=Masc|Gender[psor]=Fem`.
-
-For more prototypes of layered features, see
-<a href="feat-layers.html">Layered Features</a>.
