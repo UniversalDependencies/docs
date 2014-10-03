@@ -43,6 +43,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 <!-- alphabetical by surname -->
 * Jinho Choi
 * [Marie-Catherine de Marneffe](http://www.ling.ohio-state.edu/~mcdm/)
+* Tim Dozat
 * [Filip Ginter](http://bionlp.utu.fi/)
 * [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
