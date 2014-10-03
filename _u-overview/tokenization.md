@@ -27,7 +27,7 @@ to be employed, but there is no need to represent the basic character sequence i
 recoverable from the word representation. By contrast, in languages where the mapping between white-space delimited 
 _tokens_ and syntactic _words_ is highly ambiguous, such as Arabic and Hebrew, we provide the option of including 
 both tokens and words in the treebank using a two-level indexing scheme described in the 
-<a href="../format.html">CoNLL-U format</a> section. 
+<a href="../../format.html">CoNLL-U format</a> section. 
 The morphological and syntactic annotation is only defined at the word level, but a heuristic mapping to the token level
 can usually be provided. 
 
