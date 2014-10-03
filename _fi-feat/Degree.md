@@ -5,10 +5,8 @@ shortdef: 'degree of comparison'
 ---
 
 Degree of comparison is typically a feature of some
-[adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
-
-**Note**: the feature:value pair `CMP=Pos` appears frequently also
-for verbs in TDT. This should likely be documented or changed.
+[adjectives](fi-pos/ADJ), [adverbs](fi-pos/ADV), and
+[verbs](fi-pos/VERB) in participle form.
 
 ### Pos: positive, first degree
 
