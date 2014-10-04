@@ -34,7 +34,7 @@ happen.
 
 Examples:
 
-* [fi] _**tarvistisimme** tilaa_ “_we **would need* space_”
+* [fi] _**tarvistisimme** tilaa_ “_we **would need** space_”
 
 ### Pot: potential
 
