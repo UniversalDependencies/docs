@@ -56,10 +56,10 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * Reut Tsarfaty
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
-### Language-specific documantation
+### Language-specific documentation
 
 * Bulgarian: Kiril Simov, Petya Osenova
-* English: Marie-Catherine de Marneffe, Christopher Manning, Natalia Silveira
+* English: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
 * Finnish: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
 * Hungarian: Richárd Farkas, Veronika Vincze
 * Irish: Teresa Lynn, Jennifer Foster
