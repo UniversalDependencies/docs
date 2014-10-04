@@ -4,8 +4,102 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+### `Dis`: distributive
+
+The distributive case conveys that something happened to every 
+member of a set, one in a time. 
+
+Examples: 
+
+* [fi] _kaupungeittain_ “_separately in each city_”
+
+### `Ess`: essive
+
+The essive case expresses a temporary state, often
+corresponding to English _as a_.
+
+Examples:
+
+* [fi] _lapsena_ “_as a child / when he/she was a child_”
+
+### `Tra`: translative
+
+The translative case expresses a change of state (_becomes_, _changes to_).
+
+Examples: 
+
+* [fi] _pitkäksi_ “_become long_”
+* [fi] _englanniksi_ “_in/into English_”
+* [fi] _kello **kuudeksi**_ “_by **six** o'clock_”
+
+### `Com`: comitative / associative
+
+The comitative (also called associative) case corresponds to 
+English _together with_.
+
+Examples:
+
+* _puolisoineen_ “_with his/her spouse_”
+
+### `Abe`: abessive
+
+The abessive case corresponds to the English preposition _without_.
+
+Examples: 
+
+* _rahatta_ “_without money_”
+
+### `Ine`: inessive
+
+The inessive case expresses location inside of something.
+
+* [fi] _talossa_ “_in the house_”
+
+### `Ill`: illative
+
+The illative case expresses direction into something.
+
+Examples:
+
+* [fi] _taloon_ “_to the house_”
+
+### `Ela`: elative
+
+The elative case expresses direction out of something.
+
+Examples:
+
+* [fi] _talosta_ “_from the house_”
+
+### `Ade`: adessive
+
+The adessive case expresses location at or by something (not
+inside and not on the surface of it). The
+corresponding directional cases are allative (towards something) and
+ablative (from something).
+
+Examples:
+
+* [fi] _pöydällä_ “_at the table_”
+
+### `All`: allative
+
+The allative case expresses direction to something (destination
+is adessive, i.e. at or by that something, not on or inside of it).
+
+Examples: 
+
+* [fi] _pöydälle_ “_to the table_”
+
+### `Abl`: ablative
+
+Prototypical meaning: direction from some point.
+
+Examples:
+
+* [fi] _pöydältä_ “_from the table_”
+* [fi] _katolta_ “_from the roof_”
+* [fi] _rannalta_ “_from the beach_”
 
 Notes:
 
