@@ -4,9 +4,8 @@ title: 'Degree'
 shortdef: 'degree of comparison'
 ---
 
-Degree of comparison is typically a feature of some
-[adjectives](fi-pos/ADJ), [adverbs](fi-pos/ADV), and
-[verbs](fi-pos/VERB) in participle form.
+Degree of comparison is a feature of [adjectives](fi-pos/ADJ),
+some [adverbs](fi-pos/ADV), and [verbs](fi-pos/VERB) in participle form.
 
 ### Pos: positive, first degree
 
@@ -19,17 +18,19 @@ Examples:
 
 ### Cmp: comparative, second degree
 
-The quality of one object is compared to the same quality of another object.
+The quality of one things is compared to the same quality of another.
 
 Examples:
 
 * [fi] _**nuorempi** veli_ “_**younger** brother_”
+* [fi] _pyöriä **nopeammin**_ “_rotate **faster**_”
 
 ### Sup: superlative, third degree
 
-The quality of one object is compared to the same quality of all other
-objects within a set.
+The quality of one thing is compared to the same quality of all other
+things within a set.
 
 Examples:
 
 * [fi] _**paras** tulos_ “_**best** result_”
+* [fi] _**nopeimmin** kasvavat_ “_**fastest** grow_”
