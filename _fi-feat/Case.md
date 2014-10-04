@@ -31,7 +31,7 @@ Examples:
 
 ### `Ins`: instructive
 
-Roughly corresponds to the English *my means of* or *with the aid of*.
+Roughly corresponds to the English *by means of* or *with the aid of*.
 
 Examples:
 
