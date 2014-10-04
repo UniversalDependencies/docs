@@ -4,6 +4,47 @@ title: 'Case'
 shortdef: 'case'
 ---
 
+### `Acc`: accusative
+
+In many languages used for direct objects of verbs.
+
+We follow ISK in not recognizing the accusative except for the personal pronouns
+and _kuka_ “_who_” (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
+<http://scripta.kotus.fi/visk/sisallys.php?p=1226>)
+
+Examples:
+
+* [fi] _näen hänet_ “_I see him/her_”
+* [fi] _kenet näet?_ “_who do you see?_”
+
+### `Gen`: genitive
+
+Examples:
+
+* [fi] _**meidän** perhe_ “_**our** family_”
+* [fi] _**vuoden** päivät_ “_the days of the **year**_”
+* [fi] _**Turun** Yliopisto_ “_University of **Turku**_”
+
+### `Ins`: instructive
+
+Roughly corresponds to the English *my means of* or *with the aid of*.
+
+Examples:
+
+* [fi] __ “__”
+
+### `Par`: partitive
+
+In Finnish the partitive case expresses unknown identity and
+unfinished actions without result.
+
+* [fi] _kolme **taloa**_ “_three **houses**_”
+* [fi] _rakastan tätä **taloa**_ “_I love this **house**_”
+* [fi] _saanko lainata **kirjaa**_ “_can I borrow the **book**_”
+* [fi] _lasissa on **maitoa**_ “_there is (some) **milk** in the glass_”
+* [fi] _ammuin karhua_ “_I shot at a bear_”
+* [fi] _luen kirjaa_ “_I am reading the book_”
+
 ### `Dis`: distributive
 
 The distributive case conveys that something happened to every 
@@ -100,8 +141,3 @@ Examples:
 * [fi] _pöydältä_ “_from the table_”
 * [fi] _katolta_ “_from the roof_”
 * [fi] _rannalta_ “_from the beach_”
-
-Notes:
-
-* We follow ISK in not recognizing the accusative except for the personal pronouns
-and _kuka_ (http://scripta.kotus.fi/visk/sisallys.php?p=1221, http://scripta.kotus.fi/visk/sisallys.php?p=1226)
