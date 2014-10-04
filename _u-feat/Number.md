@@ -4,23 +4,23 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-Number is usually an inflectional feature of [nouns](u-pos/NOUN) and,
+`Number` is usually an inflectional feature of [nouns](u-pos/NOUN) and,
 depending on language, other parts of speech ([adjectives](u-pos/ADJ),
 [verbs](u-pos/VERB)) that mark agreement with nouns.
 
-### Sing: singular number
+### `Sing`: singular number
 
 A singular noun denotes one person, animal or thing.
 
 Examples: [en] <I><span style='color:red'>car</span></I>
 
-### Plur: plural number
+### `Plur`: plural number
 
 A plural noun denotes several persons, animals or things.
 
 Examples: [en] <I><span style='color:red'>cars</span></I>
 
-### Dual: dual number
+### `Dual`: dual number
 
 A dual noun denotes two persons, animals or things.
 
@@ -28,7 +28,7 @@ Examples:
 [sl] singular <I>glas</I> (voice), dual <I><span style='color:red'>glasova</span></I> (voices), plural <I>glasovi</I> (voices);
 [ar] singular سَنَةٌ <I>sanatun</I> (year), dual <span style='color:red'>سَنَتَانِ <I>sanatāni</I></span> (years), plural سِنُونَ <I>sinūna</I> (years).
 
-### Ptan: plurale tantum
+### `Ptan`: plurale tantum
 
 Some nouns
 appear only in the plural form even though they denote one thing
@@ -44,7 +44,7 @@ Example:
 [en] <I><span style='color:red'>scissors, pants</span>;</I>
 [cs] <I><span style='color:red'>nůžky, kalhoty</span></I>
 
-### Coll: collective / mass / singulare tantum
+### `Coll`: collective / mass / singulare tantum
 
 Collective or
 mass or singulare tantum is a special case of singular. It
