@@ -4,6 +4,10 @@ title: 'Case'
 shortdef: 'case'
 ---
 
+### `Nom`: nominative
+
+The base form, typically used as citation form (lemma).
+
 ### `Acc`: accusative
 
 In many languages used for direct objects of verbs.
