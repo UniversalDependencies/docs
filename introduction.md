@@ -6,7 +6,7 @@ title:  'Universal Dependencies'
 ## Introduction
 
 Universal Dependencies is a project that seeks to develop cross-linguistically consistent treebank
-annotation for many languages with the goal of facilitating multilingual parser development, 
+annotation for many languages, with the goals of facilitating multilingual parser development, 
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
 scheme is based on (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
 universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
@@ -16,9 +16,11 @@ constructions across languages, while allowing language-specific extensions when
 
 ## History
 
-The Stanford dependencies were originally developed as a backend to the Stanford parser,
-eventually emerged as the de facto standard for dependency analysis of English, and have since 
-been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013, Seraji et al., 2013, Tsarfaty, 2013).
+The Stanford dependencies were originally developed in 2005 as a backend to the Stanford parser
+to help in Recognizing Textual Textual Entailment systems,
+then eventually emerged as the de facto standard for dependency analysis of English, and have since 
+been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013,
+Seraji et al., 2013, Tsarfaty, 2013, Lipenkova and Souček 2014).
 The Google universal tag set grew out of the cross-linguistic error analysis based on the 
 CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
@@ -81,6 +83,9 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 * Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
   [Building the essential resources for Finnish: the Turku Dependency Treebank](http://dx.doi.org/10.1007/s10579-013-9244-1). Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.
+
+* Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed 
+Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
 * Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006. 
   [Generating typed dependency parses from phrase structure parses](http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf). 
