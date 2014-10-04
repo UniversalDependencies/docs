@@ -6,7 +6,7 @@ title:  'Universal Dependencies'
 ## Introduction
 
 Universal Dependencies is a project that seeks to develop cross-linguistically consistent treebank
-annotation for many languages, with the goals of facilitating multilingual parser development, 
+annotation for many languages, with the goal of facilitating multilingual parser development, 
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
 scheme is based on (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
 universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
