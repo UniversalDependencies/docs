@@ -440,3 +440,10 @@ table.category td {
 .jquery-ui-tabs > div {
   font-size: 120%;
 }
+
+table.statustable {
+  margin-left: 3em;
+  margin-top: 2em;
+  border: 1px solid lightgray;
+  font-size: 90%;
+}
