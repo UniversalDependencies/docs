@@ -35,7 +35,9 @@ Roughly corresponds to the English *by means of* or *with the aid of*.
 
 Examples:
 
-* [fi] __ “__”
+* [fi] _kaksin **käsin**_ “_using two **hands**_”
+
+See also http://scripta.kotus.fi/visk/sisallys.php?p=1263 (Finnish)
 
 ### `Par`: partitive
 
