@@ -79,6 +79,7 @@ tmp=`mktemp`
   * [$language Features](${lc}/feat/index.html) ([single document](${lc}/feat/all.html))
 * Syntax
   * [General principles](${lc}/overview/syntax.html)
+  * [Specific constructions](${lc}/overview/specific-syntax.html)
   * [$language Relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
 
 <small> 
