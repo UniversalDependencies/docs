@@ -28,6 +28,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -212,6 +213,27 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 <small>
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Hebrew" tab -->
+<div id="language-he" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](he/overview/tokenization.html)
+* Morphology
+  * [General principles](he/overview/morphology.html)
+  * [Hebrew POS tags](he/pos/index.html) ([single document](he/pos/all.html))
+  * [Hebrew Features](he/feat/index.html) ([single document](he/feat/all.html))
+* Syntax
+  * [General principles](he/overview/syntax.html)
+  * [Hebrew Relations](he/dep/index.html) ([single document](he/dep/all.html))
+
+<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to

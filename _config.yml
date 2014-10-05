@@ -144,6 +144,20 @@ collections:
   cs-overview:
     output: true
 #
+# Hebrew
+#
+  he-pos:
+    output: true
+    permalink: /he/pos/:path.html
+  he-feat:
+    output: true
+    permalink: /he/feat/:path.html
+  he-dep:
+    output: true
+    permalink: /he/dep/:path.html
+  he-overview:
+    output: true
+#
 # Template
 #
   template-pos:
