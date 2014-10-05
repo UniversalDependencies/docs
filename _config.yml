@@ -158,6 +158,20 @@ collections:
   he-overview:
     output: true
 #
+# Spanish
+#
+  es-pos:
+    output: true
+    permalink: /es/pos/:path.html
+  es-feat:
+    output: true
+    permalink: /es/feat/:path.html
+  es-dep:
+    output: true
+    permalink: /es/dep/:path.html
+  es-overview:
+    output: true
+#
 # Template
 #
   template-pos:
