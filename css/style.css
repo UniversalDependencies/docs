@@ -442,8 +442,14 @@ table.category td {
 }
 
 table.statustable {
+  float: right;
   margin-left: 3em;
   margin-top: 2em;
   border: 1px solid lightgray;
   font-size: 90%;
+  color: #555;
+}
+
+table.statustable tbody {
+  border-top: 1px solid lightgray;
 }
