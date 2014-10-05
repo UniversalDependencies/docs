@@ -595,3 +595,8 @@ a.doclabel {
   margin: 0 2px;
 /*   padding: 0 5px; */
 }
+
+.ui-tabs .ui-tabs-nav li { 
+    /* override tab font text */
+    font-size: 90%;
+}
