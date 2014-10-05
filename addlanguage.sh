@@ -70,6 +70,8 @@ tmp=`mktemp`
 <div id=\"language-${lc}\" markdown=\"1\" class=\"ui-tabs-hide\">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](${lc}/overview/introduction.html)
+
 * [Tokenization](${lc}/overview/tokenization.html)
 * Morphology
   * [General principles](${lc}/overview/morphology.html)
@@ -85,8 +87,8 @@ Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
-
-</div>"
+</div>
+"
  perl -pe '$past=1 if(/^\s*<!-- new tab template -->\s*$/);
            $_ = "" unless($past)' index.md;
 ) > $tmp; mv $tmp index.md
