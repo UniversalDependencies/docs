@@ -23,13 +23,13 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-fr">French</a></li>
   <li class="ui-state-default"><a href="#language-de">German</a></li>
+  <li class="ui-state-default"><a href="#language-el">Greek</a></li>
   <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-el">Greek</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -197,6 +197,29 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
+<!-- "Greek" tab -->
+<div id="language-el" markdown="1" class="ui-tabs-hide">
+{% include el-status-table.html %}
+
+[Introduction](el/overview/introduction.html)
+
+* [Tokenization](el/overview/tokenization.html)
+* Morphology
+  * [General principles](el/overview/morphology.html)
+  * [Greek POS tags](el/pos/index.html) ([single document](el/pos/all.html))
+  * [Greek Features](el/feat/index.html) ([single document](el/feat/all.html))
+* Syntax
+  * [General principles](el/overview/syntax.html)
+  * [Greek Relations](el/dep/index.html) ([single document](el/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
 <!-- "Hebrew" tab -->
 <div id="language-he" markdown="1" class="ui-tabs-hide">
 {% include he-status-table.html %}
@@ -328,29 +351,6 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 <small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
-<!-- "Greek" tab -->
-<div id="language-el" markdown="1" class="ui-tabs-hide">
-{% include el-status-table.html %}
-
-[Introduction](el/overview/introduction.html)
-
-* [Tokenization](el/overview/tokenization.html)
-* Morphology
-  * [General principles](el/overview/morphology.html)
-  * [Greek POS tags](el/pos/index.html) ([single document](el/pos/all.html))
-  * [Greek Features](el/feat/index.html) ([single document](el/feat/all.html))
-* Syntax
-  * [General principles](el/overview/syntax.html)
-  * [Greek Relations](el/dep/index.html) ([single document](el/dep/all.html))
-
-<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
