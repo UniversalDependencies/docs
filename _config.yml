@@ -116,6 +116,20 @@ collections:
   bg-overview:
     output: true
 #
+# Persian
+#
+  fa-pos:
+    output: true
+    permalink: /fa/pos/:path.html
+  fa-feat:
+    output: true
+    permalink: /fa/feat/:path.html
+  fa-dep:
+    output: true
+    permalink: /fa/dep/:path.html
+  fa-overview:
+    output: true
+#
 # Template
 #
   template-pos:

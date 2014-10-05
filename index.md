@@ -26,6 +26,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -168,6 +169,27 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 <small>
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Persian" tab -->
+<div id="language-fa" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](fa/overview/tokenization.html)
+* Morphology
+  * [General principles](fa/overview/morphology.html)
+  * [Persian POS tags](fa/pos/index.html) ([single document](fa/pos/all.html))
+  * [Persian Features](fa/feat/index.html) ([single document](fa/feat/all.html))
+* Syntax
+  * [General principles](fa/overview/syntax.html)
+  * [Persian Relations](fa/dep/index.html) ([single document](fa/dep/all.html))
+
+<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
