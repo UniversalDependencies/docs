@@ -5,9 +5,6 @@ title:  'Universal Dependencies'
 
 # Universal Dependencies
 
-[Introduction to Universal Dependencies](introduction.html)
-
-
 <!-- 
      The following <div> is the top-level element for the index page
      tabs. To add a new tab (e.g. for Swedish), first add a link to
@@ -34,6 +31,8 @@ title:  'Universal Dependencies'
 
 <!-- "Universal" tab -->
 <div id="language-u" markdown="1" class="ui-tabs-panel">
+[Introduction to Universal Dependencies](introduction.html)
+
 * [Tokenization](u/overview/tokenization.html)
 * Morphology
   * [General principles](u/overview/morphology.html)
