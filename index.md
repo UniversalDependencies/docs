@@ -21,14 +21,14 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
+  <li class="ui-state-default"><a href="#language-fr">French</a></li>
+  <li class="ui-state-default"><a href="#language-de">German</a></li>
   <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
-  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
-  <li class="ui-state-default"><a href="#language-fr">French</a></li>
-  <li class="ui-state-default"><a href="#language-de">German</a></li>
+  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -146,6 +146,52 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
+<!-- "French" tab -->
+<div id="language-fr" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+[Introduction](fr/overview/introduction.html)
+
+* [Tokenization](fr/overview/tokenization.html)
+* Morphology
+  * [General principles](fr/overview/morphology.html)
+  * [French POS tags](fr/pos/index.html) ([single document](fr/pos/all.html))
+  * [French Features](fr/feat/index.html) ([single document](fr/feat/all.html))
+* Syntax
+  * [General principles](fr/overview/syntax.html)
+  * [French Relations](fr/dep/index.html) ([single document](fr/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "German" tab -->
+<div id="language-de" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+[Introduction](de/overview/introduction.html)
+
+* [Tokenization](de/overview/tokenization.html)
+* Morphology
+  * [General principles](de/overview/morphology.html)
+  * [German POS tags](de/pos/index.html) ([single document](de/pos/all.html))
+  * [German Features](de/feat/index.html) ([single document](de/feat/all.html))
+* Syntax
+  * [General principles](de/overview/syntax.html)
+  * [German Relations](de/dep/index.html) ([single document](de/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
 <!-- "Hebrew" tab -->
 <div id="language-he" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
@@ -238,29 +284,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
-<!-- "Swedish" tab -->
-<div id="language-sv" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
-[Introduction](sv/overview/introduction.html)
-
-* [Tokenization](sv/overview/tokenization.html)
-* Morphology
-  * [General principles](sv/overview/morphology.html)
-  * [Swedish POS tags](sv/pos/index.html) ([single document](sv/pos/all.html))
-  * [Swedish features](sv/feat/index.html) ([single document](sv/feat/all.html))
-* Syntax
-  * [General principles](sv/overview/syntax.html)
-  * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
-
-<small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
 <!-- "Spanish" tab -->
 <div id="language-es" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
@@ -284,45 +307,22 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
-<!-- "French" tab -->
-<div id="language-fr" markdown="1" class="ui-tabs-hide">
+<!-- "Swedish" tab -->
+<div id="language-sv" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
-[Introduction](fr/overview/introduction.html)
+[Introduction](sv/overview/introduction.html)
 
-* [Tokenization](fr/overview/tokenization.html)
+* [Tokenization](sv/overview/tokenization.html)
 * Morphology
-  * [General principles](fr/overview/morphology.html)
-  * [French POS tags](fr/pos/index.html) ([single document](fr/pos/all.html))
-  * [French Features](fr/feat/index.html) ([single document](fr/feat/all.html))
+  * [General principles](sv/overview/morphology.html)
+  * [Swedish POS tags](sv/pos/index.html) ([single document](sv/pos/all.html))
+  * [Swedish features](sv/feat/index.html) ([single document](sv/feat/all.html))
 * Syntax
-  * [General principles](fr/overview/syntax.html)
-  * [French Relations](fr/dep/index.html) ([single document](fr/dep/all.html))
+  * [General principles](sv/overview/syntax.html)
+  * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
-<!-- "German" tab -->
-<div id="language-de" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
-[Introduction](de/overview/introduction.html)
-
-* [Tokenization](de/overview/tokenization.html)
-* Morphology
-  * [General principles](de/overview/morphology.html)
-  * [German POS tags](de/pos/index.html) ([single document](de/pos/all.html))
-  * [German Features](de/feat/index.html) ([single document](de/feat/all.html))
-* Syntax
-  * [General principles](de/overview/syntax.html)
-  * [German Relations](de/dep/index.html) ([single document](de/dep/all.html))
-
-<small> 
+<small>
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
