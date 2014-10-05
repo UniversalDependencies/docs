@@ -296,7 +296,8 @@ td.partial {
 }
 
 td.none {
-  background-color: #FF9090;
+  /* background-color: #FF9090;*/
+  background-color: white;
 }
 
 .rounded {
