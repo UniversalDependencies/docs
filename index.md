@@ -59,6 +59,8 @@ so that we can avoid problems with conflicting versions.
 <div id="language-bg" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](bg/overview/introduction.html)
+
 * [Tokenization](bg/overview/tokenization.html)
 * Morphology
   * [General principles](bg/overview/morphology.html)
@@ -80,6 +82,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <div id="language-cs" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](cs/overview/introduction.html)
+
 * [Tokenization](cs/overview/tokenization.html)
 * Morphology
   * [General principles](cs/overview/morphology.html)
@@ -98,6 +102,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 </div>
 
 <!-- "English" tab -->
+[Introduction](en/overview/introduction.html)
+
 <div id="language-en" markdown="1" class="ui-tabs-hide">
 * [Tokenization](en/overview/tokenization.html)
 * Morphology
@@ -117,6 +123,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 </div>
 
 <!-- "Finnish" tab -->
+[Introduction](fi/overview/introduction.html)
+
 <div id="language-fi" markdown="1" class="ui-tabs-hide">
 * [Tokenization](fi/overview/tokenization.html)
 * Morphology
@@ -139,6 +147,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <div id="language-he" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](he/overview/introduction.html)
+
 * [Tokenization](he/overview/tokenization.html)
 * Morphology
   * [General principles](he/overview/morphology.html)
@@ -159,6 +169,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <!-- "Hungarian" tab -->
 <div id="language-hu" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
+
+[Introduction](hu/overview/introduction.html)
 
 * [Tokenization](hu/overview/tokenization.html)
 * Morphology
@@ -181,6 +193,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <div id="language-ga" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](ga/overview/introduction.html)
+
 * [Tokenization](ga/overview/tokenization.html)
 * Morphology
   * [General principles](ga/overview/morphology.html)
@@ -201,6 +215,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <!-- "Persian" tab -->
 <div id="language-fa" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
+
+[Introduction](fa/overview/introduction.html)
 
 * [Tokenization](fa/overview/tokenization.html)
 * Morphology
@@ -223,6 +239,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 <div id="language-sv" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
+[Introduction](sv/overview/introduction.html)
+
 * [Tokenization](sv/overview/tokenization.html)
 * Morphology
   * [General principles](sv/overview/morphology.html)
@@ -242,6 +260,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
+<!-- [Introduction](LC/overview/introduction.html) -->
+<!-- -->
 <!-- * [Tokenization](LC/overview/tokenization.html) -->
 <!-- * Morphology -->
 <!--   * [General principles](LC/overview/morphology.html) -->
@@ -265,6 +285,8 @@ More languages to come.
 
 The following are empty templates for language-specific documentation.
 (Please ignore these.)
+
+[Introduction](template/overview/introduction.html)
 
 * [Tokenization](template/overview/tokenization.html)
 * Morphology
