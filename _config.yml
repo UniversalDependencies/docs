@@ -186,6 +186,20 @@ collections:
   fr-overview:
     output: true
 #
+# German
+#
+  de-pos:
+    output: true
+    permalink: /de/pos/:path.html
+  de-feat:
+    output: true
+    permalink: /de/feat/:path.html
+  de-dep:
+    output: true
+    permalink: /de/dep/:path.html
+  de-overview:
+    output: true
+#
 # Template
 #
   template-pos:
