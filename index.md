@@ -60,8 +60,6 @@ so that we can avoid problems with conflicting versions.
 
 <!-- "Bulgarian" tab -->
 <div id="language-bg" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
 {% include bg-status-table.html %}
 
 [Introduction](bg/overview/introduction.html)
