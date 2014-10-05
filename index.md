@@ -83,7 +83,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Czech" tab -->
 <div id="language-cs" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include cs-status-table.html %}
 
 [Introduction](cs/overview/introduction.html)
 
@@ -106,6 +106,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "English" tab -->
 <div id="language-en" markdown="1" class="ui-tabs-hide">
+{% include en-status-table.html %}
+
 [Introduction](en/overview/introduction.html)
 
 * [Tokenization](en/overview/tokenization.html)
@@ -127,6 +129,8 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Finnish" tab -->
 <div id="language-fi" markdown="1" class="ui-tabs-hide">
+{% include fi-status-table.html %}
+
 [Introduction](fi/overview/introduction.html)
 
 * [Tokenization](fi/overview/tokenization.html)
@@ -148,7 +152,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "French" tab -->
 <div id="language-fr" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include fr-status-table.html %}
 
 [Introduction](fr/overview/introduction.html)
 
@@ -171,7 +175,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "German" tab -->
 <div id="language-de" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include de-status-table.html %}
 
 [Introduction](de/overview/introduction.html)
 
@@ -194,7 +198,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Hebrew" tab -->
 <div id="language-he" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include he-status-table.html %}
 
 [Introduction](he/overview/introduction.html)
 
@@ -217,7 +221,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Hungarian" tab -->
 <div id="language-hu" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include hu-status-table.html %}
 
 [Introduction](hu/overview/introduction.html)
 
@@ -240,7 +244,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Irish" tab -->
 <div id="language-ga" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include ga-status-table.html %}
 
 [Introduction](ga/overview/introduction.html)
 
@@ -263,7 +267,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Persian" tab -->
 <div id="language-fa" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include fa-status-table.html %}
 
 [Introduction](fa/overview/introduction.html)
 
@@ -286,7 +290,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Spanish" tab -->
 <div id="language-es" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include es-status-table.html %}
 
 [Introduction](es/overview/introduction.html)
 
@@ -309,7 +313,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <!-- "Swedish" tab -->
 <div id="language-sv" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
+{% include sv-status-table.html %}
 
 [Introduction](sv/overview/introduction.html)
 

@@ -450,6 +450,6 @@ table.statustable {
   color: #555;
 }
 
-table.statustable tbody {
+table.statustable tbody td {
   border-top: 1px solid lightgray;
 }
