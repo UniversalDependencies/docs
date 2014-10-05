@@ -172,6 +172,20 @@ collections:
   es-overview:
     output: true
 #
+# French
+#
+  fr-pos:
+    output: true
+    permalink: /fr/pos/:path.html
+  fr-feat:
+    output: true
+    permalink: /fr/feat/:path.html
+  fr-dep:
+    output: true
+    permalink: /fr/dep/:path.html
+  fr-overview:
+    output: true
+#
 # Template
 #
   template-pos:
