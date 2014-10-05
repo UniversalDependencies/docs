@@ -36,8 +36,19 @@
 
           <h1 id="tokenization">Tokenization</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for tokenization.</p>
+<p>The tokenization in the Swedish UD treebank follows the principles of the Stockholm-Umeå Corpus, Version 2.0 (SUC, 2006), which has become the <em>de facto</em> standard for Swedish tokenization and part-of-speech tagging. This is a straightforward segmentation based on whitespace and punctuation, but the following special cases deserve to be mentioned:</p>
+
+<ul>
+  <li>Abbreviations normalized and treated as single words regardless of whether they contain spaces and or dots or not. Thus the following three ways of abbreviating <em>till exempel</em> (for example) are all represented in the treebank as <em>t.ex.</em>: <code>t.ex.</code>, <code>t. ex.</code>, <code>t ex</code>.</li>
+  <li>Numerical expressions …</li>
+</ul>
+
+<p>The Swedish UD treebank does not contain multiword tokens.</p>
+
+<h2 id="references">References</h2>
+
+<p><a href="http://www.ling.su.se/english/nlp/corpora-and-resources/suc/stockholm-ume%C3%A5-corpus-suc-1.14045">The Stockholm Umeå Corpus. Version 2.0. 2006.</a>
+Stockholm University: Department of Linguistics.</p>
 
 
       </div>
