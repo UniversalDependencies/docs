@@ -64,6 +64,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * Czech: Dan Zeman, Jan Hajič
 * English: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
 * Finnish: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
+* Hebrew: Yoav Goldberg, Reut Tsarfaty
 * Hungarian: Richárd Farkas, Veronika Vincze
 * Irish: Teresa Lynn, Jennifer Foster
 * Persian: Mojgan Seraji, Joakim Nivre
