@@ -102,9 +102,9 @@ have a stable version of this part of the documentation by 2015-01-01.
 </div>
 
 <!-- "English" tab -->
+<div id="language-en" markdown="1" class="ui-tabs-hide">
 [Introduction](en/overview/introduction.html)
 
-<div id="language-en" markdown="1" class="ui-tabs-hide">
 * [Tokenization](en/overview/tokenization.html)
 * Morphology
   * [General principles](en/overview/morphology.html)
@@ -123,9 +123,9 @@ have a stable version of this part of the documentation by 2015-01-01.
 </div>
 
 <!-- "Finnish" tab -->
+<div id="language-fi" markdown="1" class="ui-tabs-hide">
 [Introduction](fi/overview/introduction.html)
 
-<div id="language-fi" markdown="1" class="ui-tabs-hide">
 * [Tokenization](fi/overview/tokenization.html)
 * Morphology
   * [General principles](fi/overview/morphology.html)
