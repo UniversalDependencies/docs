@@ -21,13 +21,13 @@ title:  'Universal Dependencies'
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
   <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
+  <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
-  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
-  <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
+  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -67,6 +67,27 @@ so that we can avoid problems with conflicting versions.
 * Syntax
   * [General principles](bg/overview/syntax.html)
   * [Bulgarian Relations](bg/dep/index.html) ([single document](bg/dep/all.html))
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Czech" tab -->
+<div id="language-cs" markdown="1" class="ui-tabs-hide">
+**Note**: the following are empty templates only, content to follow soon.
+
+* [Tokenization](cs/overview/tokenization.html)
+* Morphology
+  * [General principles](cs/overview/morphology.html)
+  * [Czech POS tags](cs/pos/index.html) ([single document](cs/pos/all.html))
+  * [Czech Features](cs/feat/index.html) ([single document](cs/feat/all.html))
+* Syntax
+  * [General principles](cs/overview/syntax.html)
+  * [Czech Relations](cs/dep/index.html) ([single document](cs/dep/all.html))
 
 <small> 
 This is part of the language-specific documentation for Universal
@@ -156,27 +177,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
-<!-- "Swedish" tab -->
-<div id="language-sv" markdown="1" class="ui-tabs-hide">
-**Note**: the following are empty templates only, content to follow soon.
-
-* [Tokenization](sv/overview/tokenization.html)
-* Morphology
-  * [General principles](sv/overview/morphology.html)
-  * [Swedish POS tags](sv/pos/index.html) ([single document](sv/pos/all.html))
-  * [Swedish features](sv/feat/index.html) ([single document](sv/feat/all.html))
-* Syntax
-  * [General principles](sv/overview/syntax.html)
-  * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
-
-<small>
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
 <!-- "Persian" tab -->
 <div id="language-fa" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
@@ -198,20 +198,20 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
-<!-- "Czech" tab -->
-<div id="language-cs" markdown="1" class="ui-tabs-hide">
+<!-- "Swedish" tab -->
+<div id="language-sv" markdown="1" class="ui-tabs-hide">
 **Note**: the following are empty templates only, content to follow soon.
 
-* [Tokenization](cs/overview/tokenization.html)
+* [Tokenization](sv/overview/tokenization.html)
 * Morphology
-  * [General principles](cs/overview/morphology.html)
-  * [Czech POS tags](cs/pos/index.html) ([single document](cs/pos/all.html))
-  * [Czech Features](cs/feat/index.html) ([single document](cs/feat/all.html))
+  * [General principles](sv/overview/morphology.html)
+  * [Swedish POS tags](sv/pos/index.html) ([single document](sv/pos/all.html))
+  * [Swedish features](sv/feat/index.html) ([single document](sv/feat/all.html))
 * Syntax
-  * [General principles](cs/overview/syntax.html)
-  * [Czech Relations](cs/dep/index.html) ([single document](cs/dep/all.html))
+  * [General principles](sv/overview/syntax.html)
+  * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
-<small> 
+<small>
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
