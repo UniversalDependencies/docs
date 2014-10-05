@@ -16,7 +16,7 @@ for c in overview pos feat dep; do
 done
 
 # check that no table exists already
-for c in pos feat dep; do
+for c in pos feat dep status; do
     f="_includes/${lc}-${c}-table.html"
     if [ -e "$f" ]; then
 	echo "$f exists, not clobbering"
@@ -31,7 +31,7 @@ for c in overview pos feat dep; do
 done
 
 # create copies of HTML tables
-for c in pos feat dep; do 
+for c in pos feat dep status; do 
     f="_includes/${lc}-${c}-table.html"
     cp "_includes/template-${c}-table.html" "$f"
 done
@@ -68,7 +68,7 @@ tmp=`mktemp`
            exit if(/^\s*<!-- new tab template -->\s*$/)' index.md;
  echo "<!-- \"${language}\" tab -->
 <div id=\"language-${lc}\" markdown=\"1\" class=\"ui-tabs-hide\">
-**Note**: the following are empty templates only, content to follow soon.
+{% include ${lc}-status-table.html %}
 
 [Introduction](${lc}/overview/introduction.html)
 
@@ -93,5 +93,5 @@ have a stable version of this part of the documentation by 2015-01-01.
            $_ = "" unless($past)' index.md;
 ) > $tmp; mv $tmp index.md
 
-git add _${lc}-{overview,pos,dep,feat} _includes/${lc}-{pos,feat,dep}-table.html index.md _config.yml
+git add _${lc}-{overview,pos,dep,feat} _includes/${lc}-{pos,feat,dep,status}-table.html index.md _config.yml
 git commit
