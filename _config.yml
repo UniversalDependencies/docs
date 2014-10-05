@@ -130,6 +130,20 @@ collections:
   fa-overview:
     output: true
 #
+# Czech
+#
+  cs-pos:
+    output: true
+    permalink: /cs/pos/:path.html
+  cs-feat:
+    output: true
+    permalink: /cs/feat/:path.html
+  cs-dep:
+    output: true
+    permalink: /cs/dep/:path.html
+  cs-overview:
+    output: true
+#
 # Template
 #
   template-pos:
