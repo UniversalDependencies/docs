@@ -200,6 +200,20 @@ collections:
   de-overview:
     output: true
 #
+# Greek
+#
+  el-pos:
+    output: true
+    permalink: /el/pos/:path.html
+  el-feat:
+    output: true
+    permalink: /el/feat/:path.html
+  el-dep:
+    output: true
+    permalink: /el/dep/:path.html
+  el-overview:
+    output: true
+#
 # Template
 #
   template-pos:
