@@ -82,6 +82,8 @@ tmp=`mktemp`
   * [Specific constructions](${lc}/overview/specific-syntax.html)
   * [$language Relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
 
+[CoNLL-U format](format.html)
+
 <small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
