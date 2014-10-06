@@ -132,7 +132,7 @@ the UD standard:
 7   .         .         PUNCT   _   _   0   AuxK   _   .
 ~~~
 
-(See also http://spyysalo.github.io/conllu.js/)
+(See also [http://spyysalo.github.io/conllu.js/]().)
 
 You can have any number of visualizations on a page, and any
 standard HTML content can be freely mixed with the visualizations.
