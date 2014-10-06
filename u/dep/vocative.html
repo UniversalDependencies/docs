@@ -74,6 +74,7 @@ vocative in other languages:
         root + 'lib/ext/jquery.svgdom.min.js',
         root + 'lib/ext/jquery-ui.min.js',
         root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js,
 
         // brat helper modules
         root + 'lib/brat/configuration.js',
@@ -2479,11 +2480,28 @@ vocative in other languages:
         ],
     };
 
-    head.ready(function() {
-        // jQuery UI elements
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
 
-	// performes all embedding and support functions
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, documentCollections);
     });
 </script>
