@@ -60,16 +60,16 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ### Language-specific documentation
 
-* Bulgarian: Kiril Simov, Petya Osenova
-* Czech: Dan Zeman, Jan Hajič
+* <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
+* <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
-* Finnish: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
-* Greek: Prokopis Prokopidis
-* Hebrew: Yoav Goldberg, Reut Tsarfaty
-* Hungarian: Richárd Farkas, Veronika Vincze
-* Irish: Teresa Lynn, Jennifer Foster
-* Persian: Mojgan Seraji, Joakim Nivre
-* Swedish: Joakim Nivre, Aaron Smith
+* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
+* <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
+* <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
+* <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
+* <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
+* <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
+* <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
 
 ## References
 
