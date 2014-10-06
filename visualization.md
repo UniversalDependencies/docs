@@ -102,6 +102,38 @@ Similarly, the new <a href="format.html">CoNLL-U format</a> is now supported as 
 4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
 ~~~
 
+The comment lines in the CoNLL-U format can be used to change styles, e.g.
+to highlight a node / arc or to distinguish tree that does not adhere to
+the UD standard:
+
+    ~~~ conllu
+    # This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+    # visual-style nodes yellow
+    # visual-style arcs blue
+    1   Na        na        ADP     _   _   4   AuxP   _   at
+    2   Hlavním   hlavní    ADJ     _   _   3   Atr    _   Main
+    3   nádraží   nádraží   NOUN    _   _   1   Adv    _   Station
+    4   došlo     dojít     VERB    _   _   0   Pred   _   there-was
+    5   k         k         ADP     _   _   4   AuxP   _   to
+    6   nehodě    nehoda    NOUN    _   _   5   Obj    _   accident
+    7   .         .         PUNCT   _   _   0   AuxK   _   .
+    ~~~
+
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Na        na        ADP     _   _   4   AuxP   _   at
+2   Hlavním   hlavní    ADJ     _   _   3   Atr    _   Main
+3   nádraží   nádraží   NOUN    _   _   1   Adv    _   Station
+4   došlo     dojít     VERB    _   _   0   Pred   _   there-was
+5   k         k         ADP     _   _   4   AuxP   _   to
+6   nehodě    nehoda    NOUN    _   _   5   Obj    _   accident
+7   .         .         PUNCT   _   _   0   AuxK   _   .
+~~~
+
+(See also http://spyysalo.github.io/conllu.js/)
+
 You can have any number of visualizations on a page, and any
 standard HTML content can be freely mixed with the visualizations.
 
