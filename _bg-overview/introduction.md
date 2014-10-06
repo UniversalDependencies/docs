@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Tokenization'
+title:  'Introduction'
 permalink: bg/overview/introduction.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Tokenization'
+title:  'Introduction'
 permalink: hu/overview/introduction.html
 ---
 
