@@ -55,4 +55,4 @@ The problem is that this has never been tried .
 ccomp(is, tried)
 ~~~
 
-(In these cases, the copula is treated as the root.)
+(In these cases, the copula is treated as a head.)
