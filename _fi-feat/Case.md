@@ -86,7 +86,7 @@ English _together with_.
 
 Examples:
 
-* _puolisoineen_ “_with his/her spouse_”
+* [fi] _puolisoineen_ “_with his/her spouse_”
 
 ### `Abe`: abessive
 
@@ -94,7 +94,7 @@ The abessive case corresponds to the English preposition _without_.
 
 Examples: 
 
-* _rahatta_ “_without money_”
+* [fi] _rahatta_ “_without money_”
 
 ### `Ine`: inessive
 
