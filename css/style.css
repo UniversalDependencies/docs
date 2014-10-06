@@ -132,7 +132,8 @@ img.icon {
 }
 
 body { 
-  font-family: 'Open Sans', arial, sans-serif;
+/*   font-family: 'Open Sans', arial, sans-serif; */
+  font-family: 'Open Sans', Arial, freesans, sans-serif;
   font-size: 13px;
   overflow-y: scroll;
 }
