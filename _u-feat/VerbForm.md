@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: 'VerbForm'
-shortdef: 'form of verb or form on the border between verbs and other parts of speech'
+shortdef: 'form of verb or deverbative'
 ---
 
 Even
