@@ -281,7 +281,7 @@ the <I>-a</I>
 suffix of <I>talo</I>);
 <I>rakastan tätä </I><span style='color: red'><I>taloa</I></span>
 (I
-like this <span style='color: red'>house</span>);
+love this <span style='color: red'>house</span>);
 <I>saanko lainata </I><span style='color: red'><I>kirjaa</I></span><I>?</I>
 (can
 I borrow the <span style='color: red'>book</span>?;
@@ -330,7 +330,7 @@ state, often it corresponds to English &ldquo;as a &hellip;&rdquo;
 A similar case in Basque is called prolative and it should be tagged `Ess` too.
 
 Examples:
-[fi] <I>lapsi</I> = child; <span style='color: red'><I>lapsena</I></span> = as a child / when he was child;
+[fi] <I>lapsi</I> = child; <span style='color: red'><I>lapsena</I></span> = as a child / when he/she was child;
 [et] <I>laps</I> = child; <I><span style='color:red'>lapsena</span></I> = as a child;
 [eu] <I>erreformista</I> = reformer; <span style='color: red'><I>erreformistatzat</I></span> = as a reformer.
 
@@ -346,11 +346,11 @@ Examples: [fi]
 =
 long; <I>venyi </I><span style='color: red'><I>pitkäksi</I></span>
 =
-he got longer; <I>englanti</I>
+got long; <I>englanti</I>
 = English language; <span style='color: red'><I>englanniksi</I></span>
-= in English; <I>kello kuusi</I>
+= in/into English; <I>kello kuusi</I>
 = six o'clock; <I>kello </I><span style='color: red'><I>kuudeksi</I></span>
-= until six o'clock; [et] <I>kell
+= by six o'clock; [et] <I>kell
 kuus</I> =
 six o'clock; <I>kella </I><span style='color: red'><I>kuueks</I></span>
 = until six o'clock; [hu] <I>Oroszlány
@@ -422,7 +422,7 @@ house;
 to
 the house; [fi] <I>talo</I>
 = house; <span style='color: red'><I>talo</I></span><span style='color: red'><I>on</I></span>
-= to
+= into
 the house; [et] <I>maja</I>
 = house; <span style='color: red'><I>majas</I></span><span style='color: red'><I>se
 / majja</I></span>
