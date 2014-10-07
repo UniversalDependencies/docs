@@ -286,13 +286,13 @@ server. This is mostly useful to build and debug examples.
 Everything is unicode-compliant.
 
     ~~~ sdparse
-    ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
+    ロボットは 東大に 入れる か 。
     nsubj(入れる, ロボットは)
     nommod(入れる, 東大に)
     ~~~
 
 ~~~ sdparse
-ロボットは/何でもいい 東大に/分かんない  入れる/です か/よね 。/。
+ロボットは 東大に 入れる か 。
 nsubj(入れる, ロボットは)
 nommod(入れる, 東大に)
 ~~~
