@@ -6,10 +6,13 @@ set -e
 DATA_DIRECTORY="_data"
 RELATION_DATA_FILE="$DATA_DIRECTORY/relations.yaml"
 
-COLLECTIONS="en-dep fi-dep u-dep"
+COLLECTIONS=`ls -d _*-dep | egrep -v '^_template-dep$' | perl -pe 's/^_//' | tr '\n' ' '`
 
 # directory names are collection names with an underscore prefix.
 DIRECTORIES=$(echo " $COLLECTIONS" | perl -pe 's/ (\S)/ _$1/g')
+
+echo "coll '$COLLECTIONS'"
+echo "dir  '$DIRECTORIES'"
 
 # unique relation (document) names from per-collection directories
 RELATIONS=$(find $DIRECTORIES -name '*.md' -printf '%f\n' | 
