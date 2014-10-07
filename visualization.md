@@ -310,6 +310,6 @@ linked as follows: [u-dep/aux]().
 The shorter form `[DOC]()` (omitting the collection) can be used when
 referring to another document in the current collection (e.g. linking
 between different documents in the `u-dep` collection) or when the
-document title is unique. For example, `[nmod-own]()` can be assured
-to link to [nmod-own]() as the type is unique to the Finnish
+document title is unique. For example, `[nmod:own]()` can be assured
+to link to [nmod:own]() as the type is unique to the Finnish
 annotation.
