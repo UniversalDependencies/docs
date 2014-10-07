@@ -350,27 +350,6 @@ document title is unique. For example, <code>[nmod-own]()</code> can be assured
 to link to <a href="">nmod-own</a> as the type is unique to the Finnish
 annotation.</p>
 
-<h2 id="cross-references">Cross-references</h2>
-
-<p>Basic support for linking and reference-based numbering is included.
-Here’s an example link:
-<a href="#simple-example-parse" class="embed-ref">Example #</a>.</p>
-
-<p>The syntax is simple: first, the example has <code>class="sd-parse"</code> and an
-<code>id</code> attribute:</p>
-
-<pre><code>&lt;div id="simple-example-parse" class="sd-parse"&gt;
-</code></pre>
-
-<p>Then, the link has <code>class="embed-ref"</code> and a <code>href</code> attribute that
-matches the <code>id</code> of the example:</p>
-
-<pre><code>&lt;a href="#simple-example-parse" class="embed-ref"&gt;Example #&lt;/a&gt;.
-</code></pre>
-
-<p>As a result, any “#” character in the link text is replaced with the
-sequence number of the corresponding example.</p>
-
 
       </div>
 
