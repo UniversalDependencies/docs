@@ -214,6 +214,20 @@ collections:
   el-overview:
     output: true
 #
+# Basque
+#
+  eu-pos:
+    output: true
+    permalink: /eu/pos/:path.html
+  eu-feat:
+    output: true
+    permalink: /eu/feat/:path.html
+  eu-dep:
+    output: true
+    permalink: /eu/dep/:path.html
+  eu-overview:
+    output: true
+#
 # Template
 #
   template-pos:
