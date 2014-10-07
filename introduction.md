@@ -60,6 +60,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ### Language-specific documentation
 
+* <a href="index.html#language-eu">Basque</a>: Koldo Gojenola
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
