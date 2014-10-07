@@ -313,22 +313,3 @@ between different documents in the `u-dep` collection) or when the
 document title is unique. For example, `[nmod-own]()` can be assured
 to link to [nmod-own]() as the type is unique to the Finnish
 annotation.
-
-## Cross-references
-
-Basic support for linking and reference-based numbering is included.
-Here's an example link:
-<a href="#simple-example-parse" class="embed-ref">Example #</a>.
-
-The syntax is simple: first, the example has `class="sd-parse"` and an
-`id` attribute:
-
-    <div id="simple-example-parse" class="sd-parse">
-
-Then, the link has `class="embed-ref"` and a `href` attribute that
-matches the `id` of the example:
-
-    <a href="#simple-example-parse" class="embed-ref">Example #</a>.
-
-As a result, any "#" character in the link text is replaced with the
-sequence number of the corresponding example.
