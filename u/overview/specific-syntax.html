@@ -36,11 +36,114 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
+<p>This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can see also:</p>
+
 <ul>
   <li>Coordination: currently described under <a href="">u-dep/conj</a></li>
   <li>Direct and reported speech: currently described under <a href="">u-dep/parataxis</a></li>
-  <li>Secondary predication: currently described under <a href="">u-dep/xcomp</a></li>
 </ul>
+
+<h2 id="elements-of-a-clause">Elements of a clause</h2>
+
+<h3 id="secondary-predicates">Secondary predicates</h3>
+
+<p>A clause can contain a <em>secondary predication</em> or <em>predicative</em>. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.</p>
+
+<ul>
+  <li><em>She declared the cake beautiful.</em></li>
+  <li><em>She declared the cake a success.</em></li>
+  <li><em>She entered the room sad.</em></li>
+  <li><em>She hammered the metal flat.</em></li>
+  <li>There are two predicates in such sentences, the main predicate and an additional one, such as <em>the cake</em> being <em>beatiful</em> or <em>She</em> being <em>sad</em>.</li>
+</ul>
+
+<p>Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives or resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:</p>
+
+<ul>
+  <li>He looked fantastic [obligatory, depictive, intransitive host]</li>
+  <li>She kept Kim warm [obligatory, depictive, transitive host]</li>
+  <li>The boss became angry [obligatory, resultative, intransitive host]</li>
+  <li>This made me furious [obligatory, resultative, transitive host]</li>
+  <li>He died young [optional, depictive, intransitive host]</li>
+  <li>He at the steak almost raw [optional, depictive, transitive host]</li>
+  <li>The pond froze solid [optional, resultative, intransitive host]</li>
+  <li>He painted the house blue [optional, resultative, transitive host]</li>
+</ul>
+
+<p>In UD, obligatory predicatives are always treated as an <code>xcomp</code>: The secondary predicate is attached as an <code>xcomp</code> of the main predicate. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., <em>He looked [an idiot]</em>; <em>This made me [seethe with anger]</em>). </p>
+
+<pre><code class="language-sdparse">She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+</code></pre>
+
+<p>In the enhanced representation, there is an additional subject link showing the secondary predication:</p>
+
+<pre><code class="language-sdparse">She declared the cake beautiful .
+nsubj(declared, She)
+dobj(declared, cake)
+xcomp(declared, beautiful)
+nsubj(beautiful, cake)
+</code></pre>
+
+<p>A Czech example:</p>
+
+<pre><code class="language-sdparse">jmenovat někoho generálem \n to-appoint someone as-a-general
+dobj(jmenovat, někoho)
+xcomp(jmenovat, generálem)
+</code></pre>
+
+<p>The relation <code>xcomp</code> is used for core arguments of clausal predicates,
+so it will not be used for some other instances of secondary predication.
+Optional depictives are analyzed as adjuncts, and made the <a href="">acl</a> of the nominal that they semantically modify (if one is present). </p>
+
+<p>For instance, in <em>She entered the room sad</em> we also have a double predication
+(she entered the room; she was sad).
+But <em>sad</em> is not a core argument of <em>enter:</em> leaving it out will neither affect grammaticality
+nor significantly alter the meaning of the verb.
+On the other hand, leaving out <em>beautiful</em> in <em>She declared the cake beautiful</em>
+will either render the sentence ungrammatical or lead to a different interpretation of <em>declared.</em></p>
+
+<p>The result is that in <em>She entered the room sad,</em> <em>sad</em> will depend on <em>She</em>
+and the relation will be <a href="">acl</a> instead of <code>xcomp</code>:</p>
+
+<pre><code class="language-sdparse">She entered the room sad .
+dobj(entered, room)
+acl(She, sad)
+</code></pre>
+
+<pre><code class="language-sdparse">He painted the model naked .
+dobj(painted, model)
+acl(model, naked)
+</code></pre>
+
+<p>If the nominal head is missing, the secondary predicate must be attached as
+<a href="">advcl</a> of the verbal predicate, even though it is an <a href="../pos/ADJ.html">adjective</a>,
+not an <a href="../pos/ADV.html">adverb</a>. There is a second predication and the adjective heads the predication (just like in <em>She is sad</em>) and in this case there are simply no other words expressing this second predication:</p>
+
+<pre><code class="language-sdparse">Vstoupila do místnosti smutná . \n She-entered to room sad .
+advcl(Vstoupila, smutná)
+advcl(She-entered, sad)
+</code></pre>
+
+<p>The remaining, most subtle case is optional resultatives. For these, 
+we uniformly use <code>xcomp</code>:</p>
+
+<pre><code class="language-sdparse">He painted the house blue .
+dobj(painted, house)
+xcomp(painted, blue)
+</code></pre>
+
+<p>Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
+(he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
+subcategorization frame by application of a lexical rule, and that this frame
+includes an additional <code>xcomp</code> argument. Such an analysis is buttressed by the fact that intransitive verbs can also form similar resultatives by gaining a new subcategorization which adds both a <code>dobj</code> and an <code>xcomp</code>, as in the example below.</p>
+
+<pre><code class="language-sdparse">The dog barked the neighbors awake .
+dobj(barked, neighbors)
+xcomp(barked, awake)
+</code></pre>
 
 
       </div>
