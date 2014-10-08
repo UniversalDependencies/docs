@@ -81,11 +81,11 @@ tmp=`mktemp`
 * Morphology
   * [General principles](${lc}/overview/morphology.html)
   * [$language POS tags](${lc}/pos/index.html) ([single document](${lc}/pos/all.html))
-  * [$language Features](${lc}/feat/index.html) ([single document](${lc}/feat/all.html))
+  * [$language features](${lc}/feat/index.html) ([single document](${lc}/feat/all.html))
 * Syntax
   * [General principles](${lc}/overview/syntax.html)
   * [Specific constructions](${lc}/overview/specific-syntax.html)
-  * [$language Relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
+  * [$language dependency relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
 
 [CoNLL-U format](format.html)
 

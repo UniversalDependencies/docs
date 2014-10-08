@@ -72,11 +72,11 @@ so that we can avoid problems with conflicting versions.
 * Morphology
   * [General principles](eu/overview/morphology.html)
   * [Basque POS tags](eu/pos/index.html) ([single document](eu/pos/all.html))
-  * [Basque Features](eu/feat/index.html) ([single document](eu/feat/all.html))
+  * [Basque features](eu/feat/index.html) ([single document](eu/feat/all.html))
 * Syntax
   * [General principles](eu/overview/syntax.html)
   * [Specific constructions](eu/overview/specific-syntax.html)
-  * [Basque Relations](eu/dep/index.html) ([single document](eu/dep/all.html))
+  * [Basque dependency relations](eu/dep/index.html) ([single document](eu/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -98,11 +98,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](bg/overview/morphology.html)
   * [Bulgarian POS tags](bg/pos/index.html) ([single document](bg/pos/all.html))
-  * [Bulgarian Features](bg/feat/index.html) ([single document](bg/feat/all.html))
+  * [Bulgarian features](bg/feat/index.html) ([single document](bg/feat/all.html))
 * Syntax
   * [General principles](bg/overview/syntax.html)
   * [Specific constructions](bg/overview/specific-syntax.html)
-  * [Bulgarian Relations](bg/dep/index.html) ([single document](bg/dep/all.html))
+  * [Bulgarian dependency relations](bg/dep/index.html) ([single document](bg/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -124,11 +124,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](cs/overview/morphology.html)
   * [Czech POS tags](cs/pos/index.html) ([single document](cs/pos/all.html))
-  * [Czech Features](cs/feat/index.html) ([single document](cs/feat/all.html))
+  * [Czech features](cs/feat/index.html) ([single document](cs/feat/all.html))
 * Syntax
   * [General principles](cs/overview/syntax.html)
   * [Specific constructions](cs/overview/specific-syntax.html)
-  * [Czech Relations](cs/dep/index.html) ([single document](cs/dep/all.html))
+  * [Czech dependency relations](cs/dep/index.html) ([single document](cs/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -202,11 +202,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](fr/overview/morphology.html)
   * [French POS tags](fr/pos/index.html) ([single document](fr/pos/all.html))
-  * [French Features](fr/feat/index.html) ([single document](fr/feat/all.html))
+  * [French features](fr/feat/index.html) ([single document](fr/feat/all.html))
 * Syntax
   * [General principles](fr/overview/syntax.html)
   * [Specific constructions](fr/overview/specific-syntax.html)
-  * [French Relations](fr/dep/index.html) ([single document](fr/dep/all.html))
+  * [French dependency relations](fr/dep/index.html) ([single document](fr/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -228,11 +228,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](de/overview/morphology.html)
   * [German POS tags](de/pos/index.html) ([single document](de/pos/all.html))
-  * [German Features](de/feat/index.html) ([single document](de/feat/all.html))
+  * [German features](de/feat/index.html) ([single document](de/feat/all.html))
 * Syntax
   * [General principles](de/overview/syntax.html)
   * [Specific constructions](de/overview/specific-syntax.html)
-  * [German Relations](de/dep/index.html) ([single document](de/dep/all.html))
+  * [German dependency relations](de/dep/index.html) ([single document](de/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -254,11 +254,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](el/overview/morphology.html)
   * [Greek POS tags](el/pos/index.html) ([single document](el/pos/all.html))
-  * [Greek Features](el/feat/index.html) ([single document](el/feat/all.html))
+  * [Greek features](el/feat/index.html) ([single document](el/feat/all.html))
 * Syntax
   * [General principles](el/overview/syntax.html)
   * [Specific constructions](el/overview/specific-syntax.html)
-  * [Greek Relations](el/dep/index.html) ([single document](el/dep/all.html))
+  * [Greek dependency relations](el/dep/index.html) ([single document](el/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -280,11 +280,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](he/overview/morphology.html)
   * [Hebrew POS tags](he/pos/index.html) ([single document](he/pos/all.html))
-  * [Hebrew Features](he/feat/index.html) ([single document](he/feat/all.html))
+  * [Hebrew features](he/feat/index.html) ([single document](he/feat/all.html))
 * Syntax
   * [General principles](he/overview/syntax.html)
   * [Specific constructions](he/overview/specific-syntax.html)
-  * [Hebrew Relations](he/dep/index.html) ([single document](he/dep/all.html))
+  * [Hebrew dependency relations](he/dep/index.html) ([single document](he/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -306,11 +306,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](hu/overview/morphology.html)
   * [Hungarian POS tags](hu/pos/index.html) ([single document](hu/pos/all.html))
-  * [Hungarian Features](hu/feat/index.html) ([single document](hu/feat/all.html))
+  * [Hungarian features](hu/feat/index.html) ([single document](hu/feat/all.html))
 * Syntax
   * [General principles](hu/overview/syntax.html)
   * [Specific constructions](hu/overview/specific-syntax.html)
-  * [Hungarian Relations](hu/dep/index.html) ([single document](hu/dep/all.html))
+  * [Hungarian dependency relations](hu/dep/index.html) ([single document](hu/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -332,11 +332,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](ga/overview/morphology.html)
   * [Irish POS tags](ga/pos/index.html) ([single document](ga/pos/all.html))
-  * [Irish Features](ga/feat/index.html) ([single document](ga/feat/all.html))
+  * [Irish features](ga/feat/index.html) ([single document](ga/feat/all.html))
 * Syntax
   * [General principles](ga/overview/syntax.html)
   * [Specific constructions](ga/overview/specific-syntax.html)
-  * [Irish Relations](ga/dep/index.html) ([single document](ga/dep/all.html))
+  * [Irish dependency relations](ga/dep/index.html) ([single document](ga/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -358,11 +358,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](fa/overview/morphology.html)
   * [Persian POS tags](fa/pos/index.html) ([single document](fa/pos/all.html))
-  * [Persian Features](fa/feat/index.html) ([single document](fa/feat/all.html))
+  * [Persian features](fa/feat/index.html) ([single document](fa/feat/all.html))
 * Syntax
   * [General principles](fa/overview/syntax.html)
   * [Specific constructions](fa/overview/specific-syntax.html)
-  * [Persian Relations](fa/dep/index.html) ([single document](fa/dep/all.html))
+  * [Persian dependency relations](fa/dep/index.html) ([single document](fa/dep/all.html))
 
 [CoNLL-U format](format.html)
 
@@ -384,11 +384,11 @@ have a stable version of this part of the documentation by 2015-01-01.
 * Morphology
   * [General principles](es/overview/morphology.html)
   * [Spanish POS tags](es/pos/index.html) ([single document](es/pos/all.html))
-  * [Spanish Features](es/feat/index.html) ([single document](es/feat/all.html))
+  * [Spanish features](es/feat/index.html) ([single document](es/feat/all.html))
 * Syntax
   * [General principles](es/overview/syntax.html)
   * [Specific constructions](es/overview/specific-syntax.html)
-  * [Spanish Relations](es/dep/index.html) ([single document](es/dep/all.html))
+  * [Spanish dependency relations](es/dep/index.html) ([single document](es/dep/all.html))
 
 [CoNLL-U format](format.html)
 
