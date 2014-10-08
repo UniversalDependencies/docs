@@ -1820,57 +1820,7 @@ On the other hand, leaving out <em>beautiful</em> in <em>she declared the cake b
 will either render the sentence ungrammatical or lead to a different interpretation of <em>declared.</em></p>
 
 <p>The result is that in <em>She entered the room sad,</em> <em>sad</em> will depend on <em>She</em>
-and the relation will be <a href="">acl</a> instead of <code>xcomp</code>:</p>
-
-<pre><code class="language-sdparse">She entered the room sad .
-dobj(entered, room)
-acl(She, sad)
-</code></pre>
-
-<pre><code class="language-sdparse">He painted the model naked .
-dobj(painted, model)
-acl(model, naked)
-</code></pre>
-
-<p>If the nominal head is missing, the secondary predicate must be attached as
-<a href="">advcl</a> of the verbal predicate, even though it is an <a href="../pos/ADJ.html">adjective</a>,
-not an <a href="../pos/ADV.html">adverb</a>:</p>
-
-<pre><code class="language-sdparse">Vstoupila do místnosti smutná . \n She-entered to room sad .
-advcl(Vstoupila, smutná)
-advcl(She-entered, sad)
-</code></pre>
-
-<p>Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives ore resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:</p>
-
-<ul>
-  <li>He looked fantastic [obligatory, depictive, intransitive host]</li>
-  <li>She kept Kim warm [obligatory, depictive, transitive host]</li>
-  <li>The boss became angry [obligatory, resultative, intransitive host]</li>
-  <li>This made me furious [obligatory, resultative, transitive host]</li>
-  <li>He died young [optional, depictive, intransitive host]</li>
-  <li>He at the steak almost raw [optional, depictive, transitive host]</li>
-  <li>The pond froze solid [optional, resultative, intransitive host]</li>
-  <li>He painted the house blue [optional, resultative, transitive host]</li>
-</ul>
-
-<p>In UD, obligatory predicatives are always treated as <code>xcomp</code>. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., <em>He looked [an idiot]</em>; <em>This made me [seethe with anger]</em>). Optional depictives are analyzed as adjuncts, and made the <a href="">acl</a> of the nominal that they semantically modify (if one is present, otherwise they become an <a href="">advcl</a>, as above). The remaining, most subtle case is optional resultatives. For these, 
-we uniformly use <code>xcomp</code>:</p>
-
-<pre><code class="language-sdparse">He painted the house blue .
-dobj(painted, house)
-xcomp(painted, blue)
-</code></pre>
-
-<p>Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
-(he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
-subcategorization frame by application of a lexical rule, and that this frame
-includes an additional <code>xcomp</code> argument. Such an analysis is buttressed by the fact that intransitive verbs can also form similar resultatives by gaining a new subcategorization which adds both a <code>dobj</code> and an <code>xcomp</code>, as in the example below.</p>
-
-<pre><code class="language-sdparse">The dog barked the neighbors awake .
-dobj(barked, neighbors)
-xcomp(barked, awake)
-</code></pre>
+and the relation will be <a href="">acl</a> instead of <code>xcomp</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/xcomp.md" target="#">edit xcomp</a></p>
 
