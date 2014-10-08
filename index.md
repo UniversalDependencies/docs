@@ -47,13 +47,13 @@ title:  'Universal Dependencies'
 * Syntax
   * [General principles](u/overview/syntax.html)
   * [Specific constructions](u/overview/specific-syntax.html)
-  * [Universal relations](u/dep/index.html) ([single document](u/dep/all.html))
+  * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
 
 [CoNLL-U format](format.html)
 
 <small>
-This is the online documentation and example bank for Universal
+This is the online documentation and example treebank for Universal
 Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
 stable for at least the next year, but we may subsequently make
 further revisions based on experiences using it to treebank a range of
