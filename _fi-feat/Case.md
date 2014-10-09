@@ -145,14 +145,20 @@ Examples:
 
 ### `Ade`: adessive
 
-The adessive case expresses location at or by something (not
-inside and not on the surface of it). The
-corresponding directional cases are allative (towards something) and
-ablative (from something).
+The adessive cases expresses location on the outer or upper
+surface of an entity, or movement to/from such a surface. The 
+corresponding directional cases are allative (towards something)
+and ablative (from something).
+
+(**Note**: this is a very incomplete listing of the uses of the
+Finnish adessive, which can also expess place, time, state,
+owner, instrument, means, manner, and quantity.)
 
 Examples:
 
 * [fi] _pöydällä_ “_at the table_”
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1252> (in Finnish)
 
 ### `All`: allative
 
