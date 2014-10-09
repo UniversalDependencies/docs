@@ -69,12 +69,24 @@ See also <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
 ### `Ess`: essive
 
-The essive case expresses a temporary state, often
-corresponding to English _as a_.
+Essive expresses location in adverbs such as _kotona_ “_at home_”.
+
+Essive is typically a case of temporal adverbials (e.g. 
+_tiistaina_ “_on tuesday_”). In expressions of state, essive
+is a case of predicative adverbials, characterizing purpose
+or task (e.g. _vartijana_ “_as a guard_”) in intransitive
+forms and how an object or its purpose is perceived in
+transitive forms (e.g. _syödä **raakana**_ “_eat **raw**_”).
+
+Essive corresponds in some uses to English _as a_.
 
 Examples:
 
-* [fi] _lapsena_ “_as a child / when he/she was a child_”
+* [fi] _kotona_ “_at home_”
+* [fi] _tiistaina_ “_on tuesday_”
+* [fi] _vartijana_ “_as a guard_”
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
 
 ### `Tra`: translative
 
