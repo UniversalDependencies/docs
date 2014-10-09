@@ -228,6 +228,20 @@ collections:
   eu-overview:
     output: true
 #
+# Italian
+#
+  it-pos:
+    output: true
+    permalink: /it/pos/:path.html
+  it-feat:
+    output: true
+    permalink: /it/feat/:path.html
+  it-dep:
+    output: true
+    permalink: /it/dep/:path.html
+  it-overview:
+    output: true
+#
 # Template
 #
   template-pos:

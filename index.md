@@ -31,6 +31,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-it">Italian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -419,6 +420,32 @@ have a stable version of this part of the documentation by 2015-01-01.
 [CoNLL-U format](format.html)
 
 <small>
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Italian" tab -->
+<div id="language-it" markdown="1" class="ui-tabs-hide">
+{% include it-status-table.html %}
+
+[Introduction](it/overview/introduction.html)
+
+* [Tokenization](it/overview/tokenization.html)
+* Morphology
+  * [General principles](it/overview/morphology.html)
+  * [Italian POS tags](it/pos/index.html) ([single document](it/pos/all.html))
+  * [Italian features](it/feat/index.html) ([single document](it/feat/all.html))
+* Syntax
+  * [General principles](it/overview/syntax.html)
+  * [Specific constructions](it/overview/specific-syntax.html)
+  * [Italian dependency relations](it/dep/index.html) ([single document](it/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
