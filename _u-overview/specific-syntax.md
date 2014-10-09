@@ -6,7 +6,7 @@ permalink: u/overview/specific-syntax.html
 
 # Specific constructions
 
-This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can see also:
+This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can also see:
 
 * Coordination: currently described under [u-dep/conj]()
 * Direct and reported speech: currently described under [u-dep/parataxis]()
@@ -17,23 +17,23 @@ This section will contain detailed discussion of particular linguistic construct
 
 A clause can contain a _secondary predication_ or _predicative_. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.
 
-* _She declared the cake beautiful._
-* _She declared the cake a success._
-* _She entered the room sad._
-* _She hammered the metal flat._
-* 
+* _She declared the cake **beautiful**._
+* _She declared the cake **a success**._
+* _She entered the room **sad**._
+* _She hammered the metal **flat**._
+
 There are two predicates in such sentences, the main predicate and an additional one, such as *the cake* being *beatiful* or *She* being *sad*.
 
 Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives or resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:
 
-* He looked fantastic [obligatory, depictive, intransitive host]
-* She kept Kim warm [obligatory, depictive, transitive host]
-* The boss became angry [obligatory, resultative, intransitive host]
-* This made me furious [obligatory, resultative, transitive host]
-* He died young [optional, depictive, intransitive host]
-* He at the steak almost raw [optional, depictive, transitive host]
-* The pond froze solid [optional, resultative, intransitive host]
-* He painted the house blue [optional, resultative, transitive host]
+* _He looked **fantastic**._ [obligatory, depictive, intransitive host]
+* _She kept Kim **warm**._ [obligatory, depictive, transitive host]
+* _The boss became **angry**._ [obligatory, resultative, intransitive host]
+* _This made me **furious**._ [obligatory, resultative, transitive host]
+* _He died **young**._ [optional, depictive, intransitive host]
+* _He ate the steak **almost raw**._ [optional, depictive, transitive host]
+* _The pond froze **solid**._ [optional, resultative, intransitive host]
+* _He painted the house **blue**._ [optional, resultative, transitive host]
 
 In UD, obligatory predicatives are always treated as an `xcomp`: The secondary predicate is attached as an `xcomp` of the main predicate. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked [an idiot]_; _This made me [seethe with anger]_). 
 
@@ -44,7 +44,7 @@ dobj(declared, cake)
 xcomp(declared, beautiful)
 ~~~
 
-In the enhanced representation, there is an additional subject link showing the secondary predication:
+In the enhanced representation, there is an additional subject link showing the secondary predication, which is obligatorily a particular role in the higher clause:
 
 ~~~ sdparse
 She declared the cake beautiful .
@@ -110,7 +110,7 @@ xcomp(painted, blue)
 Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
 (he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
 subcategorization frame by application of a lexical rule, and that this frame
-includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that intransitive verbs can also form similar resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
+includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that normally intransitive verbs like _to bark_ can also form similar resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
 
 ~~~ sdparse
 The dog barked the neighbors awake .
