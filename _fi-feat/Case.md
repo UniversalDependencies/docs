@@ -33,13 +33,19 @@ Examples:
 
 ### `Ins`: instructive
 
-Roughly corresponds to the English *by means of* or *with the aid of*.
+Instructive primarily characterizes manner or instrument. Instructive can
+also express place or time.
+
+Corresponds in some uses to the English *by means of* or *with the aid of*.
 
 Examples:
 
 * [fi] _kaksin **käsin**_ “_using two **hands**_”
+* [fi] _uusin **säännöin**_ “_with new **rules**_”
+* [fi] _näillä **seuduin**_ “_around these **parts**_”
+* [fi] _vuoroviikoin_ “_every other week_”
 
-See also http://scripta.kotus.fi/visk/sisallys.php?p=1263 (Finnish)
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
 
 ### `Par`: partitive
 
