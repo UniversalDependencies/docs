@@ -8,6 +8,8 @@ shortdef: 'case'
 
 The base form, typically used as citation form (lemma).
 
+* [fi] _**koira** juoksee_ “_the **dog** runs_”
+
 ### `Acc`: accusative
 
 In many languages used for direct objects of verbs.
