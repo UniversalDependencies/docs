@@ -43,8 +43,8 @@ See also http://scripta.kotus.fi/visk/sisallys.php?p=1263 (Finnish)
 
 ### `Par`: partitive
 
-In Finnish the partitive case expresses indefinite quantity and
-unfinished actions.
+In Finnish the partitive case is an object case that can also express
+indefinite quantity or unfinished actions.
 
 * [fi] _kolme **taloa**_ “_three **houses**_”
 * [fi] _rakastan tätä **taloa**_ “_I love this **house**_”
@@ -52,6 +52,8 @@ unfinished actions.
 * [fi] _lasissa on **maitoa**_ “_there is (some) **milk** in the glass_”
 * [fi] _ammuin karhua_ “_I shot at a bear_”
 * [fi] _luen kirjaa_ “_I am reading the book_”
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 
 ### `Dis`: distributive
 
