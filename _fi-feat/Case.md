@@ -25,7 +25,7 @@ Examples:
 
 Examples:
 
-* [fi] _**meidän** perhe_ “_**our** family_”
+* [fi] _**meidän** perheemme_ “_**our** family_”
 * [fi] _**vuoden** päivät_ “_the days of the **year**_”
 * [fi] _**Turun** Yliopisto_ “_University of **Turku**_”
 
