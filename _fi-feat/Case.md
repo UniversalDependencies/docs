@@ -58,11 +58,14 @@ See also <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 ### `Dis`: distributive
 
 The distributive case conveys that something happened to every 
-member of a set, one in a time. 
+member of a set, one in a time. The _-ttain_ suffix can be
+analysed as an adverbial derivation instead of as a noun suffix.
 
 Examples: 
 
 * [fi] _kaupungeittain_ “_separately in each city_”
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
 ### `Ess`: essive
 
