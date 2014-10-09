@@ -271,7 +271,7 @@ power-struggle.Ill).
 ### Par: partitive
 
 In Finnish the partitive case expresses
-unknown identity and unfinished actions without result.
+indefinite identity and unfinished actions without result.
 
 Examples: [fi]
 <I>kolme </I><span style='color: red'><I>taloa</I></span>
