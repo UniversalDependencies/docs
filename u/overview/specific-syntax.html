@@ -36,7 +36,7 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
-<p>This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can see also:</p>
+<p>This section will contain detailed discussion of particular linguistic constructions of interest, covering best practices for how to annotate them cross-linguistically. It is still a work in progress.  At the moment, you can also see:</p>
 
 <ul>
   <li>Coordination: currently described under <a href="">u-dep/conj</a></li>
@@ -50,24 +50,25 @@
 <p>A clause can contain a <em>secondary predication</em> or <em>predicative</em>. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.</p>
 
 <ul>
-  <li><em>She declared the cake beautiful.</em></li>
-  <li><em>She declared the cake a success.</em></li>
-  <li><em>She entered the room sad.</em></li>
-  <li><em>She hammered the metal flat.</em></li>
-  <li>There are two predicates in such sentences, the main predicate and an additional one, such as <em>the cake</em> being <em>beatiful</em> or <em>She</em> being <em>sad</em>.</li>
+  <li><em>She declared the cake <strong>beautiful</strong>.</em></li>
+  <li><em>She declared the cake <strong>a success</strong>.</em></li>
+  <li><em>She entered the room <strong>sad</strong>.</em></li>
+  <li><em>She hammered the metal <strong>flat</strong>.</em></li>
 </ul>
+
+<p>There are two predicates in such sentences, the main predicate and an additional one, such as <em>the cake</em> being <em>beatiful</em> or <em>She</em> being <em>sad</em>.</p>
 
 <p>Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”, chapter 4 section 5.3, divide predicatives into obligatory and optional predicatives, which can be either depictives or resultatives, and which can appear in an intransitive or transitive clause, giving eight possibilities:</p>
 
 <ul>
-  <li>He looked fantastic [obligatory, depictive, intransitive host]</li>
-  <li>She kept Kim warm [obligatory, depictive, transitive host]</li>
-  <li>The boss became angry [obligatory, resultative, intransitive host]</li>
-  <li>This made me furious [obligatory, resultative, transitive host]</li>
-  <li>He died young [optional, depictive, intransitive host]</li>
-  <li>He at the steak almost raw [optional, depictive, transitive host]</li>
-  <li>The pond froze solid [optional, resultative, intransitive host]</li>
-  <li>He painted the house blue [optional, resultative, transitive host]</li>
+  <li><em>He looked <strong>fantastic</strong>.</em> [obligatory, depictive, intransitive host]</li>
+  <li><em>She kept Kim <strong>warm</strong>.</em> [obligatory, depictive, transitive host]</li>
+  <li><em>The boss became <strong>angry</strong>.</em> [obligatory, resultative, intransitive host]</li>
+  <li><em>This made me <strong>furious</strong>.</em> [obligatory, resultative, transitive host]</li>
+  <li><em>He died <strong>young</strong>.</em> [optional, depictive, intransitive host]</li>
+  <li><em>He ate the steak <strong>almost raw</strong>.</em> [optional, depictive, transitive host]</li>
+  <li><em>The pond froze <strong>solid</strong>.</em> [optional, resultative, intransitive host]</li>
+  <li><em>He painted the house <strong>blue</strong>.</em> [optional, resultative, transitive host]</li>
 </ul>
 
 <p>In UD, obligatory predicatives are always treated as an <code>xcomp</code>: The secondary predicate is attached as an <code>xcomp</code> of the main predicate. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., <em>He looked [an idiot]</em>; <em>This made me [seethe with anger]</em>). </p>
@@ -78,7 +79,7 @@ dobj(declared, cake)
 xcomp(declared, beautiful)
 </code></pre>
 
-<p>In the enhanced representation, there is an additional subject link showing the secondary predication:</p>
+<p>In the enhanced representation, there is an additional subject link showing the secondary predication, which is obligatorily a particular role in the higher clause:</p>
 
 <pre><code class="language-sdparse">She declared the cake beautiful .
 nsubj(declared, She)
@@ -138,7 +139,7 @@ xcomp(painted, blue)
 <p>Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
 (he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
 subcategorization frame by application of a lexical rule, and that this frame
-includes an additional <code>xcomp</code> argument. Such an analysis is buttressed by the fact that intransitive verbs can also form similar resultatives by gaining a new subcategorization which adds both a <code>dobj</code> and an <code>xcomp</code>, as in the example below.</p>
+includes an additional <code>xcomp</code> argument. Such an analysis is buttressed by the fact that normally intransitive verbs like <em>to bark</em> can also form similar resultatives by gaining a new subcategorization which adds both a <code>dobj</code> and an <code>xcomp</code>, as in the example below.</p>
 
 <pre><code class="language-sdparse">The dog barked the neighbors awake .
 dobj(barked, neighbors)
