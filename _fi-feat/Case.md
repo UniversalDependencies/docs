@@ -43,8 +43,8 @@ See also http://scripta.kotus.fi/visk/sisallys.php?p=1263 (Finnish)
 
 ### `Par`: partitive
 
-In Finnish the partitive case expresses unknown identity and
-unfinished actions without result.
+In Finnish the partitive case expresses indefinite quantity and
+unfinished actions.
 
 * [fi] _kolme **taloa**_ “_three **houses**_”
 * [fi] _rakastan tätä **taloa**_ “_I love this **house**_”
