@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="{{ site.home }}">home</a></span>
 {% if page.generated != 'true' %}
-          <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path | replace: '/aux.', '/aux_.' | replace: '/Aux.', '/Aux_.' | replace: '/AUX.', '/AUX_.' }}{% else %}{{ page.path  | replace: '/aux.', '/aux_.' | replace: '/Aux.', '/Aux_.' | replace: '/AUX.', '/AUX_.' }}{% endif %}" target="#">edit page</a></span>
+          <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path }}{% else %}{{ page.path }}{% endif %}" target="#">edit page</a></span>
 {% endif %}
           <span class="header-text"><a href="{{ site.tracker }}">issue tracker</a></span>
       </div>
