@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'AUX'
 shortdef: 'auxiliary verb'
 # The filename "aux" is not allowed on Windows, so we redirect instead

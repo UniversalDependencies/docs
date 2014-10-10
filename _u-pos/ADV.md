@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'ADV'
 shortdef: 'adverb'
 ---

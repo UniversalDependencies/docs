@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'NUM'
 shortdef: 'numeral'
 ---

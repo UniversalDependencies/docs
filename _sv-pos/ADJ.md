@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
 ---

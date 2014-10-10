@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
 ---
