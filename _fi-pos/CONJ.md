@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: postag
 title: 'CONJ'
 shortdef: 'coordinating conjunction'
 ---
