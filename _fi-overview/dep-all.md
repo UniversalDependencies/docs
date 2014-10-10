@@ -19,5 +19,5 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 {% else %}
 {{ p.content }}
 {% endif %}
-<a href="{{ site.git_edit }}/_fi-dep/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
+<a href="{{ site.git_edit }}/{% if p.collection %}{{ p.relative_path }}{% else %}{{ p.path }}{% endif %}" target="#">edit {{ p.title }}</a>
 {% endfor %}

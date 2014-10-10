@@ -19,5 +19,5 @@ permalink: template/dep/all.html
 {% else %}
 {{ p.content }}
 {% endif %}
-<a href="{{ site.git_edit }}/_template-dep/{{ p.title }}.md" target="#">edit {{ p.title }}</a>
+<a href="{{ site.git_edit }}/{% if p.collection %}{{ p.relative_path }}{% else %}{{ p.path }}{% endif %}" target="#">edit {{ p.title }}</a>
 {% endfor %}
