@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'PossPerson'
 shortdef: 'possessor’s person'
 ---

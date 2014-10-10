@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Politeness'
 shortdef: 'distinguish informal and polite registers'
 ---

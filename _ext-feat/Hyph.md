@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Hyph'
 shortdef: 'hyphenated compound or part of it'
 ---

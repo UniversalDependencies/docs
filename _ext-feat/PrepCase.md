@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'PrepCase'
 shortdef: 'case form sensitive to prepositions'
 ---

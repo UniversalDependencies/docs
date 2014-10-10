@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'NameType'
 shortdef: 'type of named entity or term'
 ---

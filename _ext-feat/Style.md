@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Style'
 shortdef: 'style or sublanguage to which this word form belongs'
 ---

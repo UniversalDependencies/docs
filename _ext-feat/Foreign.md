@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Foreign'
 shortdef: 'is this a foreign word?'
 ---

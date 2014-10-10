@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'NounType'
 shortdef: 'noun type'
 ---

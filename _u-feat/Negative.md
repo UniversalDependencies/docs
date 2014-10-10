@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Negative'
 shortdef: 'whether the word can be or is negated'
 redirect_from: "u/feat/Negativeness.html"

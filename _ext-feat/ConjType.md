@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'ConjType'
 shortdef: 'conjunction type'
 ---

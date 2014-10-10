@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'PossNumber'
 shortdef: 'possessor’s number'
 ---

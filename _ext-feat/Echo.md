@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Echo'
 shortdef: 'is this an echo word or a reduplicative?'
 ---

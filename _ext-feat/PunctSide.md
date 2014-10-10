@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'PunctSide'
 shortdef: 'which side of paired punctuation is this?'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
 ---

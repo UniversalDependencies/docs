@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Tense'
 shortdef: 'tense'
 ---

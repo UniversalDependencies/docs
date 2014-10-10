@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
 ---

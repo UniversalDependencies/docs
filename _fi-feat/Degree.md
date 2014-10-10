@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
 ---

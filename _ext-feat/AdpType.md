@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'AdpType'
 shortdef: 'adposition type'
 ---

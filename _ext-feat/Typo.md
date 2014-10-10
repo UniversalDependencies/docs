@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: feature
 title: 'Typo'
 shortdef: 'is this a misspelled word?'
 ---
