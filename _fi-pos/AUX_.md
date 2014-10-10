@@ -11,8 +11,12 @@ An auxiliary verb is a verb that accompanies the lexical verb of a
 verb phrase and expresses grammatical distinctions not carried by the
 lexical verb, such as person, number, tense, mood, aspect, and voice.
 
+In Finnish modal verbs are also counted as auxiliaries. Finnish auxiliary and modal verbs are *täytyä*, *pitää*, *tarvita*, *joutua*, *voida*, *saattaa*, *taitaa*, *mahtaa*, *olla* and *aikoa*.
+
+
 ### Examples
 
-* TODO
+* **täytyy** tehdä
+* **olemme** tehneet
+* **olisi pitänyt** tehdä
 
-(This language-specific documentation is work in progress.)
