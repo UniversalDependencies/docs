@@ -32,6 +32,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -446,6 +447,32 @@ have a stable version of this part of the documentation by 2015-01-01.
 [CoNLL-U format](format.html)
 
 <small>
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Korean" tab -->
+<div id="language-ko" markdown="1" class="ui-tabs-hide">
+{% include ko-status-table.html %}
+
+[Introduction](ko/overview/introduction.html)
+
+* [Tokenization](ko/overview/tokenization.html)
+* Morphology
+  * [General principles](ko/overview/morphology.html)
+  * [Korean POS tags](ko/pos/index.html) ([single document](ko/pos/all.html))
+  * [Korean features](ko/feat/index.html) ([single document](ko/feat/all.html))
+* Syntax
+  * [General principles](ko/overview/syntax.html)
+  * [Specific constructions](ko/overview/specific-syntax.html)
+  * [Korean dependency relations](ko/dep/index.html) ([single document](ko/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to

@@ -242,6 +242,20 @@ collections:
   it-overview:
     output: true
 #
+# Korean
+#
+  ko-pos:
+    output: true
+    permalink: /ko/pos/:path.html
+  ko-feat:
+    output: true
+    permalink: /ko/feat/:path.html
+  ko-dep:
+    output: true
+    permalink: /ko/dep/:path.html
+  ko-overview:
+    output: true
+#
 # Template
 #
   template-pos:
