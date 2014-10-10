@@ -449,3 +449,8 @@ table.statustable {
   font-size: 90%;
   color: #444;
 }
+
+em strong {
+  font-weight: 900;
+  color: darkred;
+}
