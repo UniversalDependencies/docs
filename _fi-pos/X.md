@@ -11,6 +11,6 @@ Foreign words appearing inside native text are tagged X.
 
 ### Examples
 
-* Uskoo ken tahtsssszzt brrrzzzt.
-* Opimme fyysikoiden "Let's assume a spherical cow" -lähestymistavan.
+* Uskoo ken **tahtsssszzt brrrzzzt**.
+* Opimme fyysikoiden "**Let's assume a spherical cow**" -lähestymistavan.
 
