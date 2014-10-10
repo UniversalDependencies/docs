@@ -11,6 +11,6 @@ layout: base
 {% for r in site.data.features %}{% if r.label == page.title %}
 {{ r.label }} in other languages:
 {% for l in r.languages %}
-[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/feat, '' }}</a>]
+[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/feat', '' }}</a>]
 {% endfor %}
 {% endif %}{% endfor %}
