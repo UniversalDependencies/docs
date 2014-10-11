@@ -3,7 +3,7 @@
 
 /* style for home page and manual. */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin&effect=smoothing);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,900&subset=latin&effect=smoothing);
 
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
