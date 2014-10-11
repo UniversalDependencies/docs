@@ -454,3 +454,7 @@ em strong {
   font-weight: 800;
   color: darkred;
 }
+
+h1, h2, h3 {
+  font-weight: 600; /* standard, not extra bold */
+}
