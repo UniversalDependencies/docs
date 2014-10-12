@@ -3,7 +3,7 @@
 
 /* style for home page and manual. */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800&subset=latin&effect=smoothing);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin&effect=smoothing);
 
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
@@ -451,7 +451,7 @@ table.statustable {
 }
 
 em strong {
-  font-weight: 800;
+  font-weight: 700;
   color: darkred;
 }
 
