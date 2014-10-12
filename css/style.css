@@ -450,7 +450,7 @@ table.statustable {
   color: #444;
 }
 
-em strong {
+em strong, b {
   font-weight: 700;
   color: darkred;
 }

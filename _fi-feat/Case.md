@@ -8,28 +8,28 @@ shortdef: 'case'
 
 The base form, typically used as citation form (lemma).
 
-* [fi] _**koira** juoksee_ “_the **dog** runs_”
+* [fi] _<b>koira</b> juoksee_ "the <b>dog</b> runs"
 
 ### `Acc`: accusative
 
 In many languages used for direct objects of verbs.
 
 We follow ISK in not recognizing the accusative except for the personal pronouns
-and _kuka_ “_who_” (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
+and _kuka_ "who" (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
 <http://scripta.kotus.fi/visk/sisallys.php?p=1226>)
 
 Examples:
 
-* [fi] _näen hänet_ “_I see him/her_”
-* [fi] _kenet näet?_ “_who do you see?_”
+* [fi] _näen hänet_ "I see him/her"
+* [fi] _kenet näet?_ "who do you see?"
 
 ### `Gen`: genitive
 
 Examples:
 
-* [fi] _**meidän** perheemme_ “_**our** family_”
-* [fi] _**vuoden** päivät_ “_the days of the **year**_”
-* [fi] _**Turun** Yliopisto_ “_University of **Turku**_”
+* [fi] _<b>meidän</b> perheemme_ "<b>our</b> family"
+* [fi] _<b>vuoden</b> päivät_ "the days of the <b>year</b>"
+* [fi] _<b>Turun</b> Yliopisto_ "University of <b>Turku</b>"
 
 ### `Ins`: instructive
 
@@ -40,10 +40,10 @@ Corresponds in some uses to the English *by means of* or *with the aid of*.
 
 Examples:
 
-* [fi] _kaksin **käsin**_ “_using two **hands**_”
-* [fi] _uusin **säännöin**_ “_with new **rules**_”
-* [fi] _näillä **seuduin**_ “_around these **parts**_”
-* [fi] _vuoroviikoin_ “_every other week_”
+* [fi] _kaksin <b>käsin</b>_ "using two <b>hands</b>"
+* [fi] _uusin <b>säännöin</b>_ "with new <b>rules</b>"
+* [fi] _näillä <b>seuduin</b>_ "around these <b>parts</b>"
+* [fi] _vuoroviikoin_ "every other week"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
 
@@ -52,12 +52,12 @@ See also <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
 In Finnish the partitive case is an object case that can also express
 indefinite quantity or unfinished actions.
 
-* [fi] _kolme **taloa**_ “_three **houses**_”
-* [fi] _rakastan tätä **taloa**_ “_I love this **house**_”
-* [fi] _saanko lainata **kirjaa**_ “_can I borrow the **book**_”
-* [fi] _lasissa on **maitoa**_ “_there is (some) **milk** in the glass_”
-* [fi] _ammuin karhua_ “_I shot at a bear_”
-* [fi] _luen kirjaa_ “_I am reading the book_”
+* [fi] _kolme <b>taloa</b>_ "three <b>houses</b>"
+* [fi] _rakastan tätä <b>taloa</b>_ "I love this <b>house</b>"
+* [fi] _saanko lainata <b>kirjaa</b>_ "can I borrow the <b>book</b>"
+* [fi] _lasissa on <b>maitoa</b>_ "there is (some) <b>milk</b> in the glass"
+* [fi] _ammuin karhua_ "I shot at a bear"
+* [fi] _luen kirjaa_ "I am reading the book"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 
@@ -69,28 +69,28 @@ analysed as an adverbial derivation instead of as a noun suffix.
 
 Examples: 
 
-* [fi] _kaupungeittain_ “_separately in each city_”
+* [fi] _kaupungeittain_ "separately in each city"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
 ### `Ess`: essive
 
-Essive expresses location in adverbs such as _kotona_ “_at home_”.
+Essive expresses location in adverbs such as _kotona_ "at home".
 
 Essive is typically a case of temporal adverbials (e.g. 
-_tiistaina_ “_on tuesday_”). In expressions of state, essive
+_tiistaina_ "on tuesday"). In expressions of state, essive
 is a case of predicative adverbials, characterizing purpose
-or task (e.g. _vartijana_ “_as a guard_”) in intransitive
+or task (e.g. _vartijana_ "as a guard") in intransitive
 forms and how an object or its purpose is perceived in
-transitive forms (e.g. _syödä **raakana**_ “_eat **raw**_”).
+transitive forms (e.g. _syödä <b>raakana</b>_ "eat <b>raw</b>").
 
 Essive corresponds in some uses to English _as a_.
 
 Examples:
 
-* [fi] _kotona_ “_at home_”
-* [fi] _tiistaina_ “_on tuesday_”
-* [fi] _vartijana_ “_as a guard_”
+* [fi] _kotona_ "at home"
+* [fi] _tiistaina_ "on tuesday"
+* [fi] _vartijana_ "as a guard"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
 
@@ -100,9 +100,9 @@ The translative case expresses a change of state (_becomes_, _changes to_).
 
 Examples: 
 
-* [fi] _pitkäksi_ “_become long_”
-* [fi] _englanniksi_ “_in/into English_”
-* [fi] _kello **kuudeksi**_ “_by **six** o'clock_”
+* [fi] _pitkäksi_ "become long"
+* [fi] _englanniksi_ "in/into English"
+* [fi] _kello <b>kuudeksi</b>_ "by <b>six</b> o'clock"
 
 ### `Com`: comitative / associative
 
@@ -111,7 +111,7 @@ English _together with_.
 
 Examples:
 
-* [fi] _puolisoineen_ “_with his/her spouse_”
+* [fi] _puolisoineen_ "with his/her spouse"
 
 ### `Abe`: abessive
 
@@ -119,13 +119,13 @@ The abessive case corresponds to the English preposition _without_.
 
 Examples: 
 
-* [fi] _rahatta_ “_without money_”
+* [fi] _rahatta_ "without money"
 
 ### `Ine`: inessive
 
 The inessive case expresses location inside of something.
 
-* [fi] _talossa_ “_in the house_”
+* [fi] _talossa_ "in the house"
 
 ### `Ill`: illative
 
@@ -133,7 +133,7 @@ The illative case expresses direction into something.
 
 Examples:
 
-* [fi] _taloon_ “_to the house_”
+* [fi] _taloon_ "to the house"
 
 ### `Ela`: elative
 
@@ -141,7 +141,7 @@ The elative case expresses direction out of something.
 
 Examples:
 
-* [fi] _talosta_ “_from the house_”
+* [fi] _talosta_ "from the house"
 
 ### `Ade`: adessive
 
@@ -156,7 +156,7 @@ owner, instrument, means, manner, and quantity.)
 
 Examples:
 
-* [fi] _pöydällä_ “_at the table_”
+* [fi] _pöydällä_ "at the table"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=1252> (in Finnish)
 
@@ -167,7 +167,7 @@ is adessive, i.e. at or by that something, not on or inside of it).
 
 Examples: 
 
-* [fi] _pöydälle_ “_to the table_”
+* [fi] _pöydälle_ "to the table"
 
 ### `Abl`: ablative
 
@@ -175,6 +175,6 @@ Prototypical meaning: direction from some point.
 
 Examples:
 
-* [fi] _pöydältä_ “_from the table_”
-* [fi] _katolta_ “_from the roof_”
-* [fi] _rannalta_ “_from the beach_”
+* [fi] _pöydältä_ "from the table"
+* [fi] _katolta_ "from the roof"
+* [fi] _rannalta_ "from the beach"
