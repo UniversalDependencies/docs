@@ -68,16 +68,17 @@ To maintain the consistency of the documentation, please follow these guidelines
 below), or backticks in Markdown (e.g. \`nsubj\`) or `<code>` in HTML
 (e.g. `<code>nsubj</code>`).
 * The first mention of any type other than the one that is the focus of the page
-(the titular one) are linked to the relevant page of documentation. For example,
-on the page for `nsubj`, write "`nsubj`" and "[case]()". Repeated mentions of
+(the titular one) is linked to the relevant page of documentation. For example,
+on the page for `nsubj`, write "\`nsubj\`" and "\[case\]()". Repeated mentions of
 the same type may be optionally be linked (if they are too far apart, it makes
 sense to hyperlink again, but it does not make sense to highlight several
 occurrences in the same paragraph)
 * Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. _der Mann_ “the man”.
-  * Whenever quotes are used in the documentation, the typographic (directional) quotation marks should be used, not the straight ASCII marks: “correct” × "wrong".
+  * Note that Markdown processing converts straight ASCII quotes (\") to typographic (directional) quotation marks (“”), which should be used for all quotes.
 * Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
   * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
   * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
+* To emphasize some part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
 * If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
   * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
 * If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).
