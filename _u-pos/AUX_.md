@@ -9,19 +9,28 @@ redirect_from: "u/pos/AUX.html"
 
 ### Definition
 
-An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, and voice.
+An auxiliary verb is a verb that accompanies the lexical verb of a
+verb phrase and expresses grammatical distinctions not carried by the
+lexical verb, such as person, number, tense, mood, aspect, and voice.
 
-_Modal verbs_ may count as auxiliaries in some languages (English). In other languages their behavior is not too different from the <a href="VERB.html">main verbs</a> and they are thus tagged VERB. _Copulas_ also stay with main verbs.
+_Modal verbs_ may count as auxiliaries in some languages (English). In
+other languages their behavior is not too different from the [main
+verbs](VERB) and they are thus tagged `VERB`. _Copulas_ also stay with
+main verbs.
 
-Note that not all languages have grammaticalized auxiliary verbs, and even where they exist the dividing line between full verbs and auxiliary verbs can be expected to vary between languages. Exactly which verbs are counted as AUX should be part of the language-specific documentation.
+Note that not all languages have grammaticalized auxiliary verbs, and
+even where they exist the dividing line between full verbs and
+auxiliary verbs can be expected to vary between languages. Exactly
+which verbs are counted as `AUX` should be part of the
+language-specific documentation.
 
 ### Examples
 
- - Tense auxiliaries: _<span style='color:red'>has</span> (done), <span style='color:red'>is</span> (doing), <span style='color:red'>will</span> (do)_
- - Passive auxiliaries: _<span style='color:red'>was</span> (done), <span style='color:red'>got</span> (done)_
- - Modal auxiliaries: _<span style='color:red'>should</span> (do), <span style='color:red'>must</span> (do)_
+- Tense auxiliaries: _<b>has</b> (done), <b>is</b> (doing), <b>will</b> (do)_
+- Passive auxiliaries: _<b>was</b> (done), <b>got</b> (done)_
+- Modal auxiliaries: _<b>should</b> (do), <b>must</b> (do)_
 
 ### References
 
-* <a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?</a>
-* <a href="http://en.wikipedia.org/wiki/Auxiliary_verb">Wikipedia</a>
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
+- [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
