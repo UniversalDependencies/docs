@@ -92,15 +92,24 @@
 
 <h3 id="definition">Definition</h3>
 
-<p><strong>Adjectives</strong> are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in</p>
+<p>Adjectives are words that typically modify nouns and specify their
+properties or attributes. They may also function as predicates, as in</p>
 
 <p><em>The car is green.</em></p>
 
-<p>The ADJ tag is intended for ordinary adjectives only. See <a href="DET.html">DET</a> for determiners and <a href="NUM.html">NUM</a> for numerals.</p>
+<p>The <code>ADJ</code> tag is intended for ordinary adjectives only. See <a href="">DET</a>
+for determiners and <a href="">NUM</a> for numerals.</p>
 
-<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adjectives in our universal tagging scheme. In particular, <em>ordinal numerals</em> (more precisely <em>adjectival</em> ordinal numerals, because Czech has also adverbial ones) behave both morphologically and syntactically as adjectives and are tagged ADJ.</p>
+<p>Note that there are words that may be traditionally called numerals in
+some languages (e.g. Czech) but they are treated as adjectives in our
+universal tagging scheme. In particular, <em>ordinal numerals</em> (more
+precisely <em>adjectival</em> ordinal numerals, because Czech has also
+adverbial ones) behave both morphologically and syntactically as
+adjectives and are tagged <code>ADJ</code>.</p>
 
-<p>Note that <em>participles</em> are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or ADJ.</p>
+<p>Note that <em>participles</em> are word forms that may share properties and
+usage of adjectives and verbs. Depending on language and context, they
+may be classified as either <a href="">VERB</a> or <code>ADJ</code>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -125,12 +134,22 @@
 
 <h3 id="definition">Definition</h3>
 
-<p>Adposition is a cover term for prepositions and postpositions. Adpositions belong to a closed set of items that
-occur before (preposition) or after (postposition) a complement composed of a noun phrase, noun, pronoun, or clause that functions as a noun phrase, and that form a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.</p>
+<p>Adposition is a cover term for prepositions and postpositions.
+Adpositions belong to a closed set of items that occur before
+(preposition) or after (postposition) a complement composed of a noun
+phrase, noun, pronoun, or clause that functions as a noun phrase, and
+that form a single structure with the complement to express its
+grammatical and semantic relation to another unit within a clause.</p>
 
-<p>In many languages, adpositions can take the form of fixed multiword expressions, such as <em>in spite of</em>, <em>because of</em>, <em>thanks to</em>. The component words are then still tagged according to their basic use (<em>in</em> is ADP, <em>spite</em> is <a href="NOUN.html">NOUN</a>, etc.) and their status as multiword expressions are accounted for in the syntactic annotation.</p>
+<p>In many languages, adpositions can take the form of fixed multiword
+expressions, such as <em>in spite of</em>, <em>because of</em>, <em>thanks to</em>. The
+component words are then still tagged according to their basic use
+(<em>in</em> is <code>ADP</code>, <em>spite</em> is <a href="">NOUN</a>, etc.) and their status as
+multiword expressions are accounted for in the syntactic annotation.</p>
 
-<p>Note that in Germanic languages, some prepositions may also function as verbal particles, as in <em>give <span style="color:red">in</span></em> or <em>hold <span style="color:red">on</span></em>. They are still tagged ADP and not <a href="PART.html">PART</a>.</p>
+<p>Note that in Germanic languages, some prepositions may also function
+as verbal particles, as in <em>give <b>in</b></em> or <em>hold <b>on</b></em>. They
+are still tagged <code>ADP</code> and not <a href="">PART</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -153,15 +172,32 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p><strong>Adverbs</strong> are words that typically modify <a href="VERB.html">verbs</a> for such categories as time, place, direction or manner. They may also modify <a href="ADJ.html">adjectives</a> and other adverbs, as in <em><span style="color:red">very briefly</span></em> or <em><span style="color:red">arguably</span> wrong</em>.</p>
+<p>Adverbs are words that typically modify <a href="VERB">verbs</a> for such
+categories as time, place, direction or manner. They may also modify
+<a href="ADJ">adjectives</a> and other adverbs, as in <em><b>very briefly</b></em> or
+<em><b>arguably</b> wrong</em>.</p>
 
-<p>There is a closed subclass of <em>pronominal adverbs</em> that refer to circumstances in context, rather than naming them directly; similarly to pronouns, these can be categorized as interrogative, relative, demonstrative etc. Pronominal adverbs also get the ADV part-of-speech tag but they are differentiated by additional features.</p>
+<p>There is a closed subclass of <em>pronominal adverbs</em> that refer to
+circumstances in context, rather than naming them directly; similarly
+to pronouns, these can be categorized as interrogative, relative,
+demonstrative etc. Pronominal adverbs also get the <code>ADV</code>
+part-of-speech tag but they are differentiated by additional features.</p>
 
-<p>Note that in Germanic languages, some adverbs may also function as verbal particles, as in <em>write <span style="color:red">down</span></em> or <em>end <span style="color:red">up</span></em>. They are still tagged ADV and not <a href="PART.html">PART</a>.</p>
+<p>Note that in Germanic languages, some adverbs may also function as
+verbal particles, as in <em>write <b>down</b></em> or <em>end <b>up</b></em>.  They
+are still tagged <code>ADV</code> and not <a href="">PART</a>.</p>
 
-<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but they are treated as adverbs in our universal tagging scheme. In particular, <em>adverbial ordinal numerals</em> ([cs] <em>poprvé</em> = for the first time) and <em>multiplicative numerals</em> (e.g. <em>once, twice</em>) behave syntactically as adverbs and are tagged ADV.</p>
+<p>Note that there are words that may be traditionally called numerals in
+some languages (e.g. Czech) but they are treated as adverbs in our
+universal tagging scheme. In particular, <em>adverbial ordinal numerals</em>
+([cs] <em>poprvé</em> “for the first time”) and <em>multiplicative numerals</em>
+(e.g. <em>once, twice</em>) behave syntactically as adverbs and are tagged
+<code>ADV</code>.</p>
 
-<p>Note that there are verb forms such as <em>transgressives</em> or <em>adverbial participles</em> that share properties and usage of adverbs and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or ADV.</p>
+<p>Note that there are verb forms such as <em>transgressives</em> or <em>adverbial
+participles</em> that share properties and usage of adverbs and
+verbs. Depending on language and context, they may be classified as
+either <a href="">VERB</a> or <code>ADV</code>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -191,18 +227,27 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p>An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, and voice.</p>
+<p>An auxiliary verb is a verb that accompanies the lexical verb of a
+verb phrase and expresses grammatical distinctions not carried by the
+lexical verb, such as person, number, tense, mood, aspect, and voice.</p>
 
-<p><em>Modal verbs</em> may count as auxiliaries in some languages (English). In other languages their behavior is not too different from the <a href="VERB.html">main verbs</a> and they are thus tagged VERB. <em>Copulas</em> also stay with main verbs.</p>
+<p><em>Modal verbs</em> may count as auxiliaries in some languages (English). In
+other languages their behavior is not too different from the <a href="VERB">main
+verbs</a> and they are thus tagged <code>VERB</code>. <em>Copulas</em> also stay with
+main verbs.</p>
 
-<p>Note that not all languages have grammaticalized auxiliary verbs, and even where they exist the dividing line between full verbs and auxiliary verbs can be expected to vary between languages. Exactly which verbs are counted as AUX should be part of the language-specific documentation.</p>
+<p>Note that not all languages have grammaticalized auxiliary verbs, and
+even where they exist the dividing line between full verbs and
+auxiliary verbs can be expected to vary between languages. Exactly
+which verbs are counted as <code>AUX</code> should be part of the
+language-specific documentation.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li>Tense auxiliaries: <em><span style="color:red">has</span> (done), <span style="color:red">is</span> (doing), <span style="color:red">will</span> (do)</em></li>
-  <li>Passive auxiliaries: <em><span style="color:red">was</span> (done), <span style="color:red">got</span> (done)</em></li>
-  <li>Modal auxiliaries: <em><span style="color:red">should</span> (do), <span style="color:red">must</span> (do)</em></li>
+  <li>Tense auxiliaries: <em><b>has</b> (done), <b>is</b> (doing), <b>will</b> (do)</em></li>
+  <li>Passive auxiliaries: <em><b>was</b> (done), <b>got</b> (done)</em></li>
+  <li>Modal auxiliaries: <em><b>should</b> (do), <b>must</b> (do)</em></li>
 </ul>
 
 <h3 id="references">References</h3>
@@ -218,9 +263,11 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p>A coordinating conjunction is a word that links words or larger constituents without syntactically subordinating one to the other and expresses a semantic relationship between them.</p>
+<p>A coordinating conjunction is a word that links words or larger
+constituents without syntactically subordinating one to the other and
+expresses a semantic relationship between them.</p>
 
-<p>For <em>subordinating conjunctions,</em> see <a href="SCONJ.html">SCONJ</a>.</p>
+<p>For <em>subordinating conjunctions,</em> see <a href="">SCONJ</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -243,25 +290,45 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p><strong>Determiners</strong> are words that modify <a href="NOUN.html">nouns</a> or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.</p>
+<p>Determiners are words that modify <a href="NOUN">nouns</a> or noun phrases and
+express the reference of the noun phrase in context. That is, a
+determiner may indicate whether the noun is referring to a definite or
+indefinite element of a class, to a closer or more distant element, to
+an element belonging to a specified person or thing, to a particular
+number or quantity, etc.</p>
 
-<p>Note that the DET tag includes (pronominal) <em>quantifiers</em> (words like <em>many, few, several),</em> which are included among determiners in some languages but may belong to numerals in others. However, <em>cardinal numerals</em> in the narrow sense <em>(one, five, hundred)</em> are not tagged DET even though some authors would include them in quantifiers. Cardinal numbers have their own tag <a href="NUM.html">NUM</a>.</p>
+<p>Note that the <code>DET</code> tag includes (pronominal) <em>quantifiers</em> (words
+like <em>many, few, several),</em> which are included among determiners in
+some languages but may belong to numerals in others. However,
+<em>cardinal numerals</em> in the narrow sense <em>(one, five, hundred)</em> are not
+tagged <code>DET</code> even though some authors would include them in
+quantifiers. Cardinal numbers have their own tag <a href="">NUM</a>.</p>
 
-<p>Also note that the notion of determiners is unknown in grammars of some languages (e.g. Czech); words equivalent to English determiners may be traditionally classified as <a href="PRON.html">pronouns</a> and/or <a href="NUM.html">numerals</a> in these languages. In order to annotate the same thing same way across languages, the words satisfying our definition of determiners should be tagged DET in these languages as well.</p>
+<p>Also note that the notion of determiners is unknown in grammars of
+some languages (e.g. Czech); words equivalent to English determiners
+may be traditionally classified as <a href="PRON">pronouns</a> and/or
+<a href="NUM">numerals</a> in these languages. In order to annotate the same
+thing same way across languages, the words satisfying our definition
+of determiners should be tagged <code>DET</code> in these languages as well.</p>
 
-<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <span style="color:red">this</span> yesterday.)</em> or determiner <em>(I saw <span style="color:red">this</span> car yesterday.)</em> Its Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in Czech grammar, regardless of context. To make the annotation parallel across languages, it should be now tagged PRON in <em>“<span style="color:red">Tohle</span> jsem viděl včera.”</em> and DET in <em>“<span style="color:red">Tohle</span> auto jsem viděl včera.”</em></p>
+<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <b>this</b>
+yesterday.)</em> or determiner <em>(I saw <b>this</b> car yesterday.)</em> Its
+Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in
+Czech grammar, regardless of context. To make the annotation parallel
+across languages, it should be now tagged <a href="">PRON</a> in <em><b>Tohle</b>
+jsem viděl včera.</em> and <code>DET</code> in <em><b>Tohle</b> auto jsem viděl včera.</em></p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
   <li>articles: <em>a, an, the</em></li>
   <li>possessive determiners: <em>my, your, his, her, its, our, their</em></li>
-  <li>demonstrative determiners: <em>this</em> as in <em>“I saw <span style="color:red">this</span> car yesterday.”</em></li>
-  <li>interrogative determiners: <em>which</em> as in <em>“<span style="color:red">Which</span> car do you like?”</em></li>
-  <li>relative determiners: <em>which</em> as in <em>“I wonder <span style="color:red">which</span> car you like.”</em></li>
+  <li>demonstrative determiners: <em>this</em> as in <em>I saw <b>this</b> car yesterday.</em></li>
+  <li>interrogative determiners: <em>which</em> as in <em>“<b>Which</b> car do you like?”</em></li>
+  <li>relative determiners: <em>which</em> as in <em>“I wonder <b>which</b> car you like.”</em></li>
   <li>indefinite determiners: <em>any</em></li>
   <li>totality determiners: <em>all</em></li>
-  <li>negative determiners: <em>no</em> as in <em>“We have <span style="color:red">no</span> cars available.”</em></li>
+  <li>negative determiners: <em>no</em> as in <em>“We have <b>no</b> cars available.”</em></li>
 </ul>
 
 <h3 id="references">References</h3>
@@ -277,11 +344,18 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p>An interjection is a word that is used most often as an exclamation or part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</p>
+<p>An interjection is a word that is used most often as an exclamation or
+part of an exclamation. It typically expresses an emotional reaction,
+is not syntactically related to other accompanying expressions, and
+may include a combination of sounds not otherwise found in the
+language.</p>
 
-<p>Note that words primarily belonging to another part of speech retains their original category when used in exclamations. For example, <em>God</em> is a NOUN even in exclamatory uses.</p>
+<p>Note that words primarily belonging to another part of speech retains
+their original category when used in exclamations. For example, <em>God</em>
+is a <a href="">NOUN</a> even in exclamatory uses.</p>
 
-<p>As a special case of interjections, we recognize feedback particles such as <em>yes</em>, <em>no</em>, <em>uhuh</em>, etc.</p>
+<p>As a special case of interjections, we recognize feedback particles
+such as <em>yes</em>, <em>no</em>, <em>uhuh</em>, etc.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -303,11 +377,15 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p><strong>Nouns</strong> are a part of speech typically denoting a person, place, thing, animal or idea.</p>
+<p>Nouns are a part of speech typically denoting a person, place, thing,
+animal or idea.</p>
 
-<p>The NOUN tag is intended for common nouns only. See <a href="PROPN.html">PROPN</a> for proper nouns and <a href="PRON.html">PRON</a> for pronouns.</p>
+<p>The <code>NOUN</code> tag is intended for common nouns only. See <a href="">PROPN</a> for
+proper nouns and <a href="">PRON</a> for pronouns.</p>
 
-<p>Note that some verb forms such as <em>gerunds</em> and <em>infinitives</em> may share properties and usage of nouns and verbs. Depending on language and context, they may be classified as either <a href="VERB.html">VERB</a> or NOUN.</p>
+<p>Note that some verb forms such as <em>gerunds</em> and <em>infinitives</em> may
+share properties and usage of nouns and verbs. Depending on language
+and context, they may be classified as either <a href="">VERB</a> or <code>NOUN</code>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -332,12 +410,23 @@ occur before (preposition) or after (postposition) a complement composed of a no
 
 <h3 id="definition">Definition</h3>
 
-<p>A numeral is a word, functioning most typically as a determiner, adjective or pronoun, that expresses a number and a
-relation to the number, such as quantity, sequence, frequency or fraction.</p>
+<p>A numeral is a word, functioning most typically as a determiner,
+adjective or pronoun, that expresses a number and a relation to the
+number, such as quantity, sequence, frequency or fraction.</p>
 
-<p>Note that cardinal numerals are covered by NUM whether they are used as determiners or not (as in <em>Windows <span style="color:red">Seven</span></em>) and whether they are expressed as words <em>(four)</em>, digits <em>(4)</em> or Roman numerals <em>(IV)</em>. Other words functioning as determiners (including quantifiers such as <em>many</em> and <em>few</em>) are tagged <a href="DET.html">DET</a>.</p>
+<p>Note that cardinal numerals are covered by <code>NUM</code> whether they are used
+as determiners or not (as in <em>Windows <b>Seven</b></em>) and whether they
+are expressed as words <em>(four)</em>, digits <em>(4)</em> or Roman numerals
+<em>(IV)</em>. Other words functioning as determiners (including quantifiers
+such as <em>many</em> and <em>few</em>) are tagged <a href="">DET</a>.</p>
 
-<p>Note that there are words that may be traditionally called numerals in some languages (e.g. Czech) but which are not tagged NUM. Such non-cardinal numerals belong to other parts of speech in our universal tagging scheme, based mainly on syntactic criteria: ordinal numerals are <a href="ADJ.html">adjectives</a> <em>(first, second, third)</em> or <a href="ADV.html">adverbs</a> ([cs] <em>poprvé</em> = for the first time), multiplicative numerals are adverbs <em>(once, twice)</em> etc.</p>
+<p>Note that there are words that may be traditionally called numerals in
+some languages (e.g. Czech) but which are not tagged <code>NUM</code>. Such
+non-cardinal numerals belong to other parts of speech in our universal
+tagging scheme, based mainly on syntactic criteria: ordinal numerals
+are <a href="ADJ">adjectives</a> <em>(first, second, third)</em> or <a href="ADV">adverbs</a> ([cs]
+<em>poprvé</em> “for the first time”), multiplicative numerals are adverbs
+<em>(once, twice)</em> etc.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -360,28 +449,32 @@ relation to the number, such as quantity, sequence, frequency or fraction.</p>
 
 <h3 id="definition">Definition</h3>
 
-<p>Particles are function words that must be associated with another word or phrase to impart meaning
-and that do not satisfy definitions of other universal parts of speech
-(e.g. <a href="ADP.html">adpositions</a>,
-<a href="CONJ.html">coordinating conjunctions</a>,
-<a href="SCONJ.html">subordinating conjunctions</a> or
-<a href="AUX.html">auxiliary verbs</a>).
-Particles may encode grammatical categories such as negation, mood, tense etc.
-Particles are normally not inflected, although exceptions may occur. </p>
+<p>Particles are function words that must be associated with another word
+or phrase to impart meaning and that do not satisfy definitions of
+other universal parts of speech (e.g. <a href="ADP">adpositions</a>,
+<a href="CONJ">coordinating conjunctions</a>, <a href="SCONJ">subordinating conjunctions</a>
+or <a href="AUX">auxiliary verbs</a>).  Particles may encode grammatical
+categories such as negation, mood, tense etc.  Particles are normally
+not inflected, although exceptions may occur.</p>
 
-<p>Note that the PART tag does not cover so-called <em>verbal particles</em> in Germanic languages, as in <em>give <span style="color:red">in</span></em> or <em>end <span style="color:red">up</span></em>. These are adpositions or adverbs by origin and are tagged accordingly <a href="ADP.html">ADP</a> or <a href="ADV.html">ADV</a>. Separable verb prefixes in German are treated analogically.</p>
+<p>Note that the <code>PART</code> tag does not cover so-called <em>verbal particles</em>
+in Germanic languages, as in <em>give <b>in</b></em> or <em>end <b>up</b></em>.
+These are adpositions or adverbs by origin and are tagged accordingly
+<a href="">ADP</a> or <a href="">ADV</a>.  Separable verb prefixes in German are treated
+analogically.</p>
 
-<p>Note that not all function words that are traditionally called particles in Japanese automatically qualify for the PART tag.
-Some of them do, e.g. the question particle か <em>ka.</em>
-Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in other languages and should thus be tagged
-<a href="ADP.html">ADP</a>.</p>
+<p>Note that not all function words that are traditionally called
+particles in Japanese automatically qualify for the <code>PART</code> tag.  Some
+of them do, e.g. the question particle か / <em>ka.</em> Others (e.g. に /
+<em>ni,</em> の / <em>no</em>) are parallel to adpositions in other languages and
+should thus be tagged <a href="">ADP</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
   <li>Possessive marker: [en] <em>‘s</em></li>
   <li>Negation particle: [en] <em>not;</em> [de] <em>nicht;</em> [tr] <em>mu</em></li>
-  <li>Question particle: [ja] か <em>ka</em> (adding this particle to the end of a clause turns the clause into a question)</li>
+  <li>Question particle: [ja] か / <em>ka</em> (adding this particle to the end of a clause turns the clause into a question)</li>
   <li>Sentence modality: [cs] <em>ať, kéž, nechť</em> (<em>Let’s</em> do it! <em>If only</em> I could do it over. <em>May you</em> have an enjoyable stay!)</li>
 </ul>
 
@@ -398,20 +491,32 @@ Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in ot
 
 <h3 id="definition">Definition</h3>
 
-<p><strong>Pronouns</strong> are words that substitute for <a href="NOUN.html">nouns</a> or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.</p>
+<p>Pronouns are words that substitute for <a href="NOUN">nouns</a> or noun phrases,
+whose meaning is recoverable from the linguistic or extralinguistic
+context.</p>
 
-<p>Pronouns under this definition function like nouns. Note that some languages traditionally extend the term <em>pronoun</em> to words that substitute for <a href="ADJ.html">adjectives</a>. Such words are not tagged PRON under our universal scheme. They are tagged as <a href="DET.html">determiners</a> in order to annotate the same thing same way across languages.</p>
+<p>Pronouns under this definition function like nouns. Note that some
+languages traditionally extend the term <em>pronoun</em> to words that
+substitute for <a href="ADJ">adjectives</a>. Such words are not tagged <code>PRON</code>
+under our universal scheme. They are tagged as <a href="DET">determiners</a> in
+order to annotate the same thing same way across languages.</p>
 
-<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <span style="color:red">this</span> yesterday.)</em> or determiner <em>(I saw <span style="color:red">this</span> car yesterday.)</em> Its Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in Czech grammar, regardless of context (the notion of determiners does not exist in Czech grammar). To make the annotation parallel across languages, it should be now tagged PRON in <em>“<span style="color:red">Tohle</span> jsem viděl včera.”</em> and DET in <em>“<span style="color:red">Tohle</span> auto jsem viděl včera.”</em></p>
+<p>For instance, [en] <em>this</em> is either pronoun <em>(I saw <b>this</b>
+yesterday.)</em> or determiner <em>(I saw <b>this</b> car yesterday.)</em> Its
+Czech translation, [cs] <em>tohle</em>, is traditionally called pronoun in
+Czech grammar, regardless of context (the notion of determiners does
+not exist in Czech grammar). To make the annotation parallel across
+languages, it should be now tagged <code>PRON</code> in <em><b>Tohle</b> jsem viděl
+včera.</em> and <code>DET</code> in <em><b>Tohle</b> auto jsem viděl včera.</em></p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
   <li>personal pronouns: <em>I, you, he, she, it, we, they</em></li>
   <li>reflexive pronouns: <em>myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves</em></li>
-  <li>demonstrative pronouns: <em>this</em> as in <em>I saw <span style="color:red">this</span> yesterday.</em></li>
-  <li>interrogative pronouns: <em>who, what</em> as in <em><span style="color:red">What</span> do you think?</em></li>
-  <li>relative pronouns: <em>who, what</em> as in <em>I wonder <span style="color:red">what</span> you think.</em></li>
+  <li>demonstrative pronouns: <em>this</em> as in <em>I saw <b>this</b> yesterday.</em></li>
+  <li>interrogative pronouns: <em>who, what</em> as in <em><b>What</b> do you think?</em></li>
+  <li>relative pronouns: <em>who, what</em> as in <em>I wonder <b>what</b> you think.</em></li>
   <li>indefinite pronouns: <em>somebody, something, anybody, anything</em></li>
   <li>totality pronouns: <em>everybody, everything</em></li>
   <li>negative pronouns: <em>nobody, nothing</em></li>
@@ -430,11 +535,22 @@ Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in ot
 
 <h3 id="definition">Definition</h3>
 
-<p>A proper noun is a noun (or nominal content word) that is the name (or part of the name) of a specific individual, place, or object.</p>
+<p>A proper noun is a noun (or nominal content word) that is the name (or
+part of the name) of a specific individual, place, or object.</p>
 
-<p>Note that PROPN is only used for the subclass of nouns that are used as names and that often exhibit special syntactic properties (such as occurring without an article in the singular in English). When other phrases or sentences are used as names, the component words retain their original tags. For example, in <em>Cat on a Hot Tin Roof</em>, <em>Cat</em> is NOUN, <em>on</em> is ADP, <em>a</em> is DET, etc. </p>
+<p>Note that <code>PROPN</code> is only used for the subclass of nouns that are used
+as names and that often exhibit special syntactic properties (such as
+occurring without an article in the singular in English). When other
+phrases or sentences are used as names, the component words retain
+their original tags. For example, in <em>Cat on a Hot Tin Roof</em>, <em>Cat</em> is
+<a href="">NOUN</a>, <em>on</em> is <a href="">ADP</a>, <em>a</em> is <a href="">DET</a>, etc.</p>
 
-<p>A fine point is that it is not uncommon to regard words that are etymologically adjectives or participles as proper nouns when they appear as part of a multiword name that overall functions like a proper noun, for example in <em>the Yellow Pages</em>, <em>United Airlines</em> or <em>Thrall Manufacturing Company</em>.  This is certainly the practice for the English Penn Treebank tag set.</p>
+<p>A fine point is that it is not uncommon to regard words that are
+etymologically adjectives or participles as proper nouns when they
+appear as part of a multiword name that overall functions like a
+proper noun, for example in <em>the Yellow Pages</em>, <em>United Airlines</em> or
+<em>Thrall Manufacturing Company</em>.  This is certainly the practice for
+the English Penn Treebank tag set.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -456,16 +572,18 @@ Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in ot
 
 <h3 id="definition">Definition</h3>
 
-<p>Punctuation marks are non-alphabetical characters and character groups used in many languages to delimit linguistic units in printed text.</p>
+<p>Punctuation marks are non-alphabetical characters and character groups
+used in many languages to delimit linguistic units in printed text.</p>
 
-<p>Punctuation is not taken to include logograms such as <em>$</em>, <em>%</em>, and <em>§</em>, which are instead tagged as <a href="SYM.html">SYM</a>.</p>
+<p>Punctuation is not taken to include logograms such as <em>$</em>, <em>%</em>, and
+<em>§</em>, which are instead tagged as <a href="">SYM</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li>Period: <em><span style="color:red">.</span></em></li>
-  <li>Comma: <em><span style="color:red">,</span></em></li>
-  <li>Parentheses: <em><span style="color:red">()</span></em></li>
+  <li>Period: <em><b>.</b></em></li>
+  <li>Comma: <em><b>,</b></em></li>
+  <li>Parentheses: <em><b>()</b></em></li>
 </ul>
 
 <h3 id="references">References</h3>
@@ -480,14 +598,17 @@ Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in ot
 
 <h3 id="definition">Definition</h3>
 
-<p>A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.</p>
+<p>A subordinating conjunction is a conjunction that links constructions
+by making one of them a constituent of the other. The subordinating
+conjunction typically marks the incorporated constituent which has the
+status of a (subordinate) clause.</p>
 
-<p>For <em>coordinating conjunctions,</em> see <a href="CONJ.html">CONJ</a>.</p>
+<p>For <em>coordinating conjunctions,</em> see <a href="">CONJ</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li><em>that</em> as in <em>I believe <span style="color:red">that</span> he will come</em></li>
+  <li><em>that</em> as in <em>I believe <b>that</b> he will come</em></li>
   <li><em>if</em></li>
   <li><em>while</em></li>
 </ul>
@@ -505,20 +626,26 @@ Others (e.g. に <em>ni,</em> の <em>no</em>) are parallel to adpositions in ot
 
 <h3 id="definition">Definition</h3>
 
-<p>A symbol is a word-like entity that differs from ordinary words by form, function, or both.</p>
+<p>A symbol is a word-like entity that differs from ordinary words by
+form, function, or both.</p>
 
-<p>Many symbols are or contain special non-alphanumeric characters, similarly to <a href="PUNCT.html">punctuation</a>.
-What makes them different from punctuation is that they can be substituted by normal words.
-This involves all currency symbols, e.g. <em>$ 75</em> is identical to <em>seventy-five dollars</em>.</p>
+<p>Many symbols are or contain special non-alphanumeric characters,
+similarly to <a href="PUNCT">punctuation</a>.  What makes them different from
+punctuation is that they can be substituted by normal words.  This
+involves all currency symbols, e.g. <em>$ 75</em> is identical to
+<em>seventy-five dollars</em>.</p>
 
 <p>Mathematical operators form another group of symbols.</p>
 
 <p>Another group of symbols is emoticons and emoji.</p>
 
-<p>Strings that consists entirely of alphanumeric characters are not symbols but they may be <a href="PROPN">proper nouns:</a>
-<em>130XE</em>, <em>DC10</em>; others may be tagged PROPN (rather than SYM) even if they contain special characters: <em>DC-10</em>.</p>
+<p>Strings that consists entirely of alphanumeric characters are not
+symbols but they may be <a href="PROPN">proper nouns</a>: <em>130XE</em>, <em>DC10</em>; others
+may be tagged <code>PROPN</code> (rather than <code>SYM</code>) even if they contain special
+characters: <em>DC-10</em>.</p>
 
-<p>Characters used as bullets in itemized lists <em>(•, ‣)</em> are not symbols, they are punctuation.</p>
+<p>Characters used as bullets in itemized lists <em>(•, ‣)</em> are not symbols,
+they are punctuation.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -535,15 +662,32 @@ This involves all currency symbols, e.g. <em>$ 75</em> is identical to <em>seven
 
 <h3 id="definition">Definition</h3>
 
-<p>A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause. Verbs are often associated with grammatical categories like tense, mood, aspect and voice, which can either be expressed inflectionally or using auxilliary verbs or particles.</p>
+<p>A verb is a member of the syntactic class of words that typically
+signal events and actions, can constitute a minimal predicate in a
+clause, and govern the number and types of other constituents which
+may occur in the clause. Verbs are often associated with grammatical
+categories like tense, mood, aspect and voice, which can either be
+expressed inflectionally or using auxilliary verbs or particles.</p>
 
-<p>Note that the VERB tag covers main verbs <em>(content verbs)</em> and <em>copulas</em> but it does not cover <em>auxiliary verbs,</em> for which there is the <a href="AUX.html">AUX</a> tag. <em>Modal verbs</em> may be considered VERB or AUX, depending on their behavior in the given language. Language-specific documentation should specify which verbs are tagged AUX in which contexts.</p>
+<p>Note that the <code>VERB</code> tag covers main verbs <em>(content verbs)</em> and
+<em>copulas</em> but it does not cover <em>auxiliary verbs,</em> for which there is
+the <a href="">AUX</a> tag. <em>Modal verbs</em> may be considered <code>VERB</code> or <code>AUX</code>,
+depending on their behavior in the given language. Language-specific
+documentation should specify which verbs are tagged <code>AUX</code> in which
+contexts.</p>
 
-<p>Note that <em>participles</em> are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either VERB or <a href="ADJ.html">ADJ</a>.</p>
+<p>Note that <em>participles</em> are word forms that may share properties and
+usage of adjectives and verbs. Depending on language and context, they
+may be classified as either <code>VERB</code> or <a href="">ADJ</a>.</p>
 
-<p>Note that some verb forms such as <em>gerunds</em> and <em>infinitives</em> may share properties and usage of nouns and verbs. Depending on language and context, they may be classified as either VERB or <a href="NOUN.html">NOUN</a>.</p>
+<p>Note that some verb forms such as <em>gerunds</em> and <em>infinitives</em> may
+share properties and usage of nouns and verbs. Depending on language
+and context, they may be classified as either <code>VERB</code> or <a href="">NOUN</a>.</p>
 
-<p>Note that there are verb forms such as <em>transgressives</em> or <em>adverbial participles</em> that share properties and usage of adverbs and verbs. Depending on language and context, they may be classified as either VERB or <a href="ADV.html">ADV</a>.</p>
+<p>Note that there are verb forms such as <em>transgressives</em> or <em>adverbial
+participles</em> that share properties and usage of adverbs and
+verbs. Depending on language and context, they may be classified as
+either <code>VERB</code> or <a href="">ADV</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -566,15 +710,21 @@ This involves all currency symbols, e.g. <em>$ 75</em> is identical to <em>seven
 
 <h3 id="definition">Definition</h3>
 
-<p>The tag X is used for words that for some reason cannot be assigned a real part-of-speech category. </p>
+<p>The tag <code>X</code> is used for words that for some reason cannot be assigned
+a real part-of-speech category.</p>
 
-<p>A special usage of X is for cases of code-switching where it is not possible (or meaningful) to analyze the intervening language grammatically (and where the dependency relation <em>foreign</em> is typically used in the syntactic analysis). 
-This usage does not extend to ordinary loan words which should be assigned a normal part-of-speech. For example, in <em>he put on a large sombrero</em>, <em>sombrero</em> is an ordinary <a href="NOUN.html">NOUN</a>.</p>
+<p>A special usage of <code>X</code> is for cases of code-switching where it is not
+possible (or meaningful) to analyze the intervening language
+grammatically (and where the dependency relation <em>foreign</em> is
+typically used in the syntactic analysis).  This usage does not extend
+to ordinary loan words which should be assigned a normal
+part-of-speech. For example, in <em>he put on a large sombrero</em>,
+<em>sombrero</em> is an ordinary <a href="">NOUN</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li><em>And then he just <span style="color:red">xfgh pdl jklw</span></em></li>
+  <li><em>And then he just <b>xfgh pdl jklw</b></em></li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-pos/X.md" target="#">edit X</a></p>
