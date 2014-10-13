@@ -269,6 +269,12 @@ collections:
     permalink: /template/dep/:path.html
   template-overview:
     output: true
+#
+# Tagset conversion tables (even for languages that do not have their sections yet)
+#
+  tagset-conversion:
+    output: true
+    permalink: /tagset-conversion/:path.html
 
 excerpt_separator: "\n\n"
 
