@@ -1,0 +1,552 @@
+---
+layout: base
+title: 'Tagset bg::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset bg::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>bg::conll</tt>, total 533 tags.
+
+<table>
+  <tr><td>A A _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>US, т._нар., т.нар., он-лайн, сие</em></td></tr>
+  <tr><td>A Af _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>Св.</em></td></tr>
+  <tr><td>A Af gen=f|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td><em>цялата, българската, новата, националната, последната</em></td></tr>
+  <tr><td>A Af gen=f|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Fem|Number=Sing</td><td><em>друга, голяма, нова, военна, цяла</em></td></tr>
+  <tr><td>A Am _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>и.д., кв.</em></td></tr>
+  <tr><td>A Am gen=m|num=s|def=f</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>новият, българският, бившият, държавният, главният</em></td></tr>
+  <tr><td>A Am gen=m|num=s|def=h</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>новия, българския, бившия, Министерския, последния</em></td></tr>
+  <tr><td>A Am gen=m|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|Number=Sing</td><td><em>друг, нов, готов, политически, национален</em></td></tr>
+  <tr><td>A Am gen=m|num=s|form=ext</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|Style=Arch|Variant=Long</td><td><em>Нови, уважаеми, драги, Млади, Велики</em></td></tr>
+  <tr><td>A An gen=n|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Neut|Number=Sing</td><td><em>същото, цялото, българското, новото, самото</em></td></tr>
+  <tr><td>A An gen=n|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>друго, ново, голямо, добро, национално</em></td></tr>
+  <tr><td>A A num=p|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Number=Plur</td><td><em>другите, последните, новите, българските, военните</em></td></tr>
+  <tr><td>A A num=p|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Number=Plur</td><td><em>други, нови, различни, големи, български</em></td></tr>
+  <tr><td>C Cc _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>но, както_и, ама, та, така_и</em></td></tr>
+  <tr><td>C Cp _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>и, или, а, &amp;, /</em></td></tr>
+  <tr><td>C Cr _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>нито, ни, хем, било, ту</em></td></tr>
+  <tr><td>C Cs _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>че, за_да, ако, като, защото</em></td></tr>
+  <tr><td>D D _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>т._н., т.н., пр., Т._е.</em></td></tr>
+  <tr><td>D Dd _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Mod</td><td><em>само, обаче, точно, особено, просто</em></td></tr>
+  <tr><td>D Dl _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc</td><td><em>близо, напред, навън, далеч, нагоре</em></td></tr>
+  <tr><td>D Dm _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man</td><td><em>също, добре, ясно, наистина, заедно</em></td></tr>
+  <tr><td>D Dq _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg</td><td><em>още, все, доста, едва, почти</em></td></tr>
+  <tr><td>D Dt _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim</td><td><em>вчера, вече, сега, днес, отново</em></td></tr>
+  <tr><td>H Hf gen=f|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Fem|Number=Sing|Poss=Yes</td><td><em>Михайлова, Калинкова, Стоянова, ЗДРАВКОВА, Жекова</em></td></tr>
+  <tr><td>H Hm gen=m|num=s|def=f</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Masc|Number=Sing|Poss=Yes</td><td><em>Станкиният</em></td></tr>
+  <tr><td>H Hm gen=m|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Masc|Number=Sing|Poss=Yes</td><td><em>Стоянов, Костов, Буш, Левски, Филчев</em></td></tr>
+  <tr><td>H Hn gen=n|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Neut|Number=Sing|Poss=Yes</td><td><em>Клинтън, Чапаево, Стефаново, Яворово, Аксаково</em></td></tr>
+  <tr><td>H H num=p|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Number=Plur|Poss=Yes</td><td><em>Костови, Владигерови, Ганини, Клинтън, Янчулови</em></td></tr>
+  <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>О, Ах, уви, кис, сбогом</em></td></tr>
+  <tr><td>M Mc _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>две, 2, два, 3, 10</em></td></tr>
+  <tr><td>M Mc def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|NumType=Card</td><td><em>двамата, тримата, четиримата</em></td></tr>
+  <tr><td>M Mc def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|NumType=Card</td><td><em>три, четири, двама, четиринайсет, двадесет</em></td></tr>
+  <tr><td>M Mc gen=f|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Fem|NumType=Card</td><td><em>двете</em></td></tr>
+  <tr><td>M Mc gen=f|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Fem|NumType=Card</td><td><em>две</em></td></tr>
+  <tr><td>M Mc gen=f|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Fem|NumType=Card|Number=Sing</td><td><em>едната</em></td></tr>
+  <tr><td>M Mc gen=f|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Fem|NumType=Card|Number=Sing</td><td><em>една, 1, 0, една-единствена, 1/2</em></td></tr>
+  <tr><td>M Mc gen=m|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Masc|NumType=Card</td><td><em>двата</em></td></tr>
+  <tr><td>M Mc gen=m|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Masc|NumType=Card</td><td><em>два</em></td></tr>
+  <tr><td>M Mc gen=m|num=s|def=f</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Masc|NumType=Card|Number=Sing</td><td><em>Единият</em></td></tr>
+  <tr><td>M Mc gen=m|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Masc|NumType=Card|Number=Sing</td><td><em>един, 1, един-единствен</em></td></tr>
+  <tr><td>M Mc gen=n|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|NumType=Card</td><td><em>двете</em></td></tr>
+  <tr><td>M Mc gen=n|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Neut|NumType=Card</td><td><em>две</em></td></tr>
+  <tr><td>M Mc gen=n|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|NumType=Card|Number=Sing</td><td><em>едното</em></td></tr>
+  <tr><td>M Mc gen=n|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Neut|NumType=Card|Number=Sing</td><td><em>1, едно</em></td></tr>
+  <tr><td>M Md _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>много, повече, малко, повечето, по-малко</em></td></tr>
+  <tr><td>M Md def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|NumType=Card|PronType=Ind</td><td><em>повечето, най-малкото, Малкото</em></td></tr>
+  <tr><td>M Md def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|NumType=Card|PronType=Ind</td><td><em>много, повече, малко, по-малко, най-много</em></td></tr>
+  <tr><td>M Mo gen=f|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>първата, втората, третата, 2000-ата, 89-ата</em></td></tr>
+  <tr><td>M Mo gen=f|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>2000, 2001, 1998, 1999, втора</em></td></tr>
+  <tr><td>M Mo gen=m|num=s|def=f</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>първият, вторият, 12-ят</em></td></tr>
+  <tr><td>M Mo gen=m|num=s|def=h</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>първия, втория, третия, 36-ия, 1-вия</em></td></tr>
+  <tr><td>M Mo gen=m|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>1, първи, 31, II, пръв</em></td></tr>
+  <tr><td>M Mo gen=n|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>първото, второто, осмото, третото, 13-о</em></td></tr>
+  <tr><td>M Mo gen=n|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>първо, второ, 2, 1, 3</em></td></tr>
+  <tr><td>M Mo num=p|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|NumType=Ord|Number=Plur</td><td><em>първите, 12-те, 70-те, 5-те, 15-те</em></td></tr>
+  <tr><td>M Mo num=p|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|NumType=Ord|Number=Plur</td><td><em>първи, трети, 2/3, 15-и, втори</em></td></tr>
+  <tr><td>M My _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>мнозина, малцина</em></td></tr>
+  <tr><td>M My def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind</td><td><em>Малцина</em></td></tr>
+  <tr><td>N N _</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Yes</td><td><em>Р-300, Р-600, bug, Партидо_популар, Enlargement</em></td></tr>
+  <tr><td>N Nc _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>г., година, част, страна, политика</em></td></tr>
+  <tr><td>N Nc def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind</td><td><em></em></td></tr>
+  <tr><td>N Nc gen=f|num=p|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td><em>визите, парите, страните, жените, медиите</em></td></tr>
+  <tr><td>N Nc gen=f|num=p|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Fem|Number=Plur</td><td><em>години, г., страни, пари, сили</em></td></tr>
+  <tr><td>N Nc gen=f|num=s|case=v</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|Number=Sing</td><td><em>Госпожо, снахо, майко, мале, Родино</em></td></tr>
+  <tr><td>N Nc gen=f|num=s|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td><em>страната, отбраната, държавата, годината, срещата</em></td></tr>
+  <tr><td>N Nc gen=m|num=p|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Masc|Number=Plur</td><td><em>изборите, проблемите, българите, министрите, гражданите</em></td></tr>
+  <tr><td>N Nc gen=m|num=p|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Masc|Number=Plur</td><td><em>проблеми, представители, въпроси, избори, граждани</em></td></tr>
+  <tr><td>N Nc gen=m|num=s|case=v</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Masc|Number=Sing</td><td><em>господине, докторе, Вожде, момко, Приятелю</em></td></tr>
+  <tr><td>N Nc gen=m|num=s|def=f</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>президентът, шефът, въпросът, премиерът, кметът</em></td></tr>
+  <tr><td>N Nc gen=m|num=s|def=h</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>края, живота, момента, парламента, президента</em></td></tr>
+  <tr><td>N Nc gen=m|num=s|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Masc|Number=Sing</td><td><em>път, човек, съвет, ден, министър</em></td></tr>
+  <tr><td>N Nc gen=m|num=t</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Dual</td><td><em>%, лв., млн., $, дни</em></td></tr>
+  <tr><td>N Nc gen=n|num=p|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Neut|Number=Plur</td><td><em>очите, условията, правата, отношенията, децата</em></td></tr>
+  <tr><td>N Nc gen=n|num=p|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Neut|Number=Plur</td><td><em>места, лица, условия, деца, очи</em></td></tr>
+  <tr><td>N Nc gen=n|num=s|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Neut|Number=Sing</td><td><em>правителството, времето, началото, решението, името</em></td></tr>
+  <tr><td>N Nc gen=n|num=s|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>време, събрание, място, решение, право</em></td></tr>
+  <tr><td>N Nc num=pia_tantum|def=d</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Number=Ptan</td><td><em>хората, преговорите, финансите, очилата, разноските</em></td></tr>
+  <tr><td>N Nc num=pia_tantum|def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Number=Ptan</td><td><em>хора, души, преговори, книжа, гащи</em></td></tr>
+  <tr><td>N Nm _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>лв.</em></td></tr>
+  <tr><td>N Np _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Конституцията, КНСБ, Евролевицата, БТА, БСП</em></td></tr>
+  <tr><td>N Np gen=f|num=p|def=d</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td><em>БДЖ, ОДС, Щангите</em></td></tr>
+  <tr><td>N Np gen=f|num=p|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Fem|Number=Plur</td><td><em>DM, БДЖ, ОДС, Митници, СБ</em></td></tr>
+  <tr><td>N Np gen=f|num=s|case=v</td><td>=&gt;</td><td>PROPN</td><td>Case=Voc|Gender=Fem|Number=Sing</td><td><em>Янке</em></td></tr>
+  <tr><td>N Np gen=f|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Fem|Number=Sing</td><td><em>България, София, Европа, Турция, БСП</em></td></tr>
+  <tr><td>N Np gen=m|num=p|def=d</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Masc|Number=Plur</td><td><em>Балканите, САЩ, Нибелунгите, Биковете, Щурците</em></td></tr>
+  <tr><td>N Np gen=m|num=p|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Masc|Number=Plur</td><td><em>САЩ, Балкани, Гласове, Социалдемократи, Полимери</em></td></tr>
+  <tr><td>N Np gen=m|num=s|case=a</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Masc|Number=Sing</td><td><em>Тодора, Петка, Стефана</em></td></tr>
+  <tr><td>N Np gen=m|num=s|case=v</td><td>=&gt;</td><td>PROPN</td><td>Case=Voc|Gender=Masc|Number=Sing</td><td><em>Господи, Калине</em></td></tr>
+  <tr><td>N Np gen=m|num=s|def=f</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>Дяволът, СДС, Евросъюзът, НИС, БФС</em></td></tr>
+  <tr><td>N Np gen=m|num=s|def=h</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>ЕС, СДС, НИС, Евросъюза, ЦСКА</em></td></tr>
+  <tr><td>N Np gen=m|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Masc|Number=Sing</td><td><em>ЕС, СДС, Петър, Иван, Ройтерс</em></td></tr>
+  <tr><td>N Np gen=n|num=p|def=d</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Neut|Number=Plur</td><td><em>ПТУ-тата</em></td></tr>
+  <tr><td>N Np gen=n|num=p|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Neut|Number=Plur</td><td><em>РМД-та, Известия, CNN</em></td></tr>
+  <tr><td>N Np gen=n|num=s|def=d</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Neut|Number=Sing</td><td><em>ДПС, Слънцето, МЗ, МОН, МВнР</em></td></tr>
+  <tr><td>N Np gen=n|num=s|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>МВР, Косово, ДПС, Русе, БНР</em></td></tr>
+  <tr><td>N Np num=pia_tantum|def=i</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Number=Ptan</td><td><em>Кремиковци, ОАЕ, Драгалевци, Брадвари</em></td></tr>
+  <tr><td>P P _</td><td>=&gt;</td><td>PRON</td><td>_</td><td><em>за_разлика_от</em></td></tr>
+  <tr><td>P Pc ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Tot</td><td><em>всякакви</em></td></tr>
+  <tr><td>P Pc ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Tot</td><td><em>всякаква</em></td></tr>
+  <tr><td>P Pc ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Tot</td><td><em>всякакъв</em></td></tr>
+  <tr><td>P Pc ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всякакво</em></td></tr>
+  <tr><td>P Pc ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Tot</td><td><em>всекиго</em></td></tr>
+  <tr><td>P Pc ref=e|case=n|num=p</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Tot</td><td><em>всички, всеки, Вси</em></td></tr>
+  <tr><td>P Pc ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Tot</td><td><em>всяка</em></td></tr>
+  <tr><td>P Pc ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Tot</td><td><em>всеки</em></td></tr>
+  <tr><td>P Pc ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всичко, всяко</em></td></tr>
+  <tr><td>P Pc ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Tot</td><td><em>отвсякъде, навсякъде</em></td></tr>
+  <tr><td>P Pc ref=q|num=p|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Number=Plur|PronType=Tot</td><td><em>всичките</em></td></tr>
+  <tr><td>P Pc ref=q|num=s|gen=n|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всичкото</em></td></tr>
+  <tr><td>P Pc ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Tot</td><td><em>всякога</em></td></tr>
+  <tr><td>P Pd _</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td><em>такъв, затова, затуй</em></td></tr>
+  <tr><td>P Pd ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><em>такива</em></td></tr>
+  <tr><td>P Pd ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>такава</em></td></tr>
+  <tr><td>P Pd ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Dem</td><td><em>такова</em></td></tr>
+  <tr><td>P Pd ref=e|case=n|num=p</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Dem</td><td><em>тези, тия, онези, ония</em></td></tr>
+  <tr><td>P Pd ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>тази, тая, онази, тeзи</em></td></tr>
+  <tr><td>P Pd ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem</td><td><em>този, тоя, оня, онзи, Тоз</em></td></tr>
+  <tr><td>P Pd ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em>това, онова, туй, затова</em></td></tr>
+  <tr><td>P Pd ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Dem</td><td><em>тук, там, оттам, нататък, дотук</em></td></tr>
+  <tr><td>P Pd ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Dem</td><td><em>така, тъй, иначе, така_и, по-така</em></td></tr>
+  <tr><td>P Pd ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Dem</td><td><em>толкова, толкоз</em></td></tr>
+  <tr><td>P Pd ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Dem</td><td><em>тогава, оттогава, дотогава</em></td></tr>
+  <tr><td>P Pf def=i|ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Ind</td><td><em>някакви, каквито_и_да_е</em></td></tr>
+  <tr><td>P Pf def=i|ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>някаква</em></td></tr>
+  <tr><td>P Pf def=i|ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><em>някакъв, какъвто_и_да_било, какъвто_и_да_е</em></td></tr>
+  <tr><td>P Pf def=i|ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Ind</td><td><em>някакво, каквото_и_да_е, каквото_и_да_било</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>някого, когото__и_да_било</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=d|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>другиму</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=p</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Ind</td><td><em>някои</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=p|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Number=Plur|PronType=Ind</td><td><em>нещата, едните</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=p|def=i</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Ind|Number=Plur|PronType=Ind</td><td><em>неща, едни</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Ind</td><td><em>някоя, коя_и_да_е, която_и_да_е</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=f|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Ind</td><td><em>едната</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=f|def=i</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind</td><td><em>една, един</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>някой, който_и_да_е, който_и_да_било</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=m|def=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>единият</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=m|def=h</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>единия</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=m|def=i</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind</td><td><em>един, един_и_същи</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Ind</td><td><em>някое</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=n|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Ind</td><td><em>едното</em></td></tr>
+  <tr><td>P Pf def=i|ref=e|case=n|num=s|gen=n|def=i</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind</td><td><em>нещо, едно</em></td></tr>
+  <tr><td>P Pf def=i|ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Ind</td><td><em>някъде, отнякъде, тук-там, нанякъде, донякъде</em></td></tr>
+  <tr><td>P Pf def=i|ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Ind</td><td><em>някак</em></td></tr>
+  <tr><td>P Pf def=i|ref=p|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Poss=Yes|PronType=Ind</td><td><em>нечии</em></td></tr>
+  <tr><td>P Pf def=i|ref=q|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|PronType=Ind</td><td><em>няколко, неколцина</em></td></tr>
+  <tr><td>P Pf def=i|ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Ind</td><td><em>някога, понякога</em></td></tr>
+  <tr><td>P Pi cause</td><td>=&gt;</td><td>ADV</td><td>AdvType=Cau|PronType=Int</td><td><em>защо</em></td></tr>
+  <tr><td>P Pi ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Int</td><td><em>какви, К'ви</em></td></tr>
+  <tr><td>P Pi ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em>каква, К'ва</em></td></tr>
+  <tr><td>P Pi ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>какъв</em></td></tr>
+  <tr><td>P Pi ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Int</td><td><em>какво</em></td></tr>
+  <tr><td>P Pi ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Int</td><td><em>кого</em></td></tr>
+  <tr><td>P Pi ref=e|case=n|num=p</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Int</td><td><em>кои</em></td></tr>
+  <tr><td>P Pi ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Int</td><td><em>коя</em></td></tr>
+  <tr><td>P Pi ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Int</td><td><em>кой</em></td></tr>
+  <tr><td>P Pi ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Int</td><td><em>кое</em></td></tr>
+  <tr><td>P Pi ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Int</td><td><em>къде, где, откъде, Докъде, къде-къде</em></td></tr>
+  <tr><td>P Pi ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Int</td><td><em>как</em></td></tr>
+  <tr><td>P Pi ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Int</td><td><em>чия</em></td></tr>
+  <tr><td>P Pi ref=p|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Int</td><td><em>чий</em></td></tr>
+  <tr><td>P Pi ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Int</td><td><em>колко, доколко</em></td></tr>
+  <tr><td>P Pi ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Int</td><td><em>кога, докога</em></td></tr>
+  <tr><td>P Pn _</td><td>=&gt;</td><td>PRON</td><td>Negative=Neg|PronType=Neg</td><td><em>нищо</em></td></tr>
+  <tr><td>P Pn ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Negative=Neg|Number=Plur|PronType=Neg</td><td><em>никакви</em></td></tr>
+  <tr><td>P Pn ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никаква</em></td></tr>
+  <tr><td>P Pn ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никакъв</em></td></tr>
+  <tr><td>P Pn ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никакво</em></td></tr>
+  <tr><td>P Pn ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никого</em></td></tr>
+  <tr><td>P Pn ref=e|case=d|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никому</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>Никоя</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никой</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никое</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=n|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em></em></td></tr>
+  <tr><td>P Pn ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Negative=Neg|PronType=Neg</td><td><em>никъде, отникъде, доникъде</em></td></tr>
+  <tr><td>P Pn ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Negative=Neg|PronType=Neg</td><td><em>никак</em></td></tr>
+  <tr><td>P Pn ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Negative=Neg|Number=Sing|Poss=Yes|PronType=Neg</td><td><em>ничия</em></td></tr>
+  <tr><td>P Pn ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Negative=Neg|PronType=Neg</td><td><em>никога</em></td></tr>
+  <tr><td>P Pp _</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td><em>ви, вие, вас</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs</td><td><em>ние, ний</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|PronType=Prs</td><td><em>вие</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=p|pers=3</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Prs</td><td><em>те</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td><em>аз</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs</td><td><em>ти</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=s|pers=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>тя</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>той</em></td></tr>
+  <tr><td>P Pp ref=e|case=n|num=s|pers=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td><em>то</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs|Variant=Long</td><td><em>нас</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|PronType=Prs|Variant=Long</td><td><em>вас</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=p|pers=3</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em>тях</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Long</td><td><em>мен, мене</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Long</td><td><em>тебе, теб</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=s|pers=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em>нея</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em>него</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=a|num=s|pers=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em>него</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=d|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs|Variant=Long</td><td><em>нам</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=d|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Long</td><td><em>мен, мене</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=d|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Long</td><td><em>тебе</em></td></tr>
+  <tr><td>P Pp ref=e|form=f|case=d|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em>нему</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em>ни</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td><em>ви</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=p|pers=3</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>ги</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td><em>ме</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td><em>те</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=s|pers=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>я</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>го</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=a|num=s|pers=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>го</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em>ни</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td><em>ви</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=p|pers=3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>им</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td><em>ми</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td><em>ти</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=s|pers=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>й</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>му</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=d|num=s|pers=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>му</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em>ни</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td><em>ви</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=p|pers=3</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>им</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=s|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td><em>ми</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=s|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td><em>ти</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=s|pers=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>й</em></td></tr>
+  <tr><td>P Pp ref=e|form=s|case=dp|num=s|pers=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>му</em></td></tr>
+  <tr><td>P Pp ref=r|form=f|case=a</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>себе_си</em></td></tr>
+  <tr><td>P Pp ref=r|form=s|case=a</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>се</em></td></tr>
+  <tr><td>P Pp ref=r|form=s|case=d</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>си</em></td></tr>
+  <tr><td>P Pp ref=r|form=s|case=dp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>си</em></td></tr>
+  <tr><td>P Pr _</td><td>=&gt;</td><td>PRON</td><td>PronType=Rel</td><td><em>защото</em></td></tr>
+  <tr><td>P Pr ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Rel</td><td><em>каквито</em></td></tr>
+  <tr><td>P Pr ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Rel</td><td><em>каквато</em></td></tr>
+  <tr><td>P Pr ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><em>какъвто</em></td></tr>
+  <tr><td>P Pr ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Rel</td><td><em>каквото</em></td></tr>
+  <tr><td>P Pr ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Rel</td><td><em>когото</em></td></tr>
+  <tr><td>P Pr ref=e|case=d|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|PronType=Rel</td><td><em>комуто</em></td></tr>
+  <tr><td>P Pr ref=e|case=n|num=p</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Rel</td><td><em>които</em></td></tr>
+  <tr><td>P Pr ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Rel</td><td><em>която</em></td></tr>
+  <tr><td>P Pr ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Rel</td><td><em>който</em></td></tr>
+  <tr><td>P Pr ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Rel</td><td><em>което</em></td></tr>
+  <tr><td>P Pr ref=e|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Rel</td><td><em>каквото, дето, що</em></td></tr>
+  <tr><td>P Pr ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Rel</td><td><em>където, откъдето, дето, Докъдето, отдето</em></td></tr>
+  <tr><td>P Pr ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Rel</td><td><em>както</em></td></tr>
+  <tr><td>P Pr ref=p|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Poss=Yes|PronType=Rel</td><td><em>чиито</em></td></tr>
+  <tr><td>P Pr ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чиято</em></td></tr>
+  <tr><td>P Pr ref=p|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чийто</em></td></tr>
+  <tr><td>P Pr ref=p|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Gender=Neut|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чието</em></td></tr>
+  <tr><td>P Pr ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Rel</td><td><em>колкото, отколкото, доколкото</em></td></tr>
+  <tr><td>P Pr ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Rel</td><td><em>когато, откакто, откак, докогато</em></td></tr>
+  <tr><td>P Ps _</td><td>=&gt;</td><td>DET</td><td>Poss=Yes|PronType=Prs</td><td><em>ви, своя, вашата, вашето, вашите</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=p|pers=1|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашите</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=p|pers=1|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>наши</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=p|pers=2|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>вашите</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=p|pers=3|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>техните</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=p|pers=3|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>техни</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашата</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=f|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>наша</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=m|def=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашият</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=m|def=h</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашия</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=m|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>наш</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашето</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=1|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>наше</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>вашата</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=f|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>ваша</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=m|def=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=m|def=h</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>вашия</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=m|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>ваш</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>вашето</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=2|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>ваше</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>тяхната</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=f|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>тяхна</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=m|def=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>техният</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=m|def=h</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>техния</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=m|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>техен</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>тяхното</em></td></tr>
+  <tr><td>P Ps ref=mp|form=f|num=s|pers=3|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>тяхно</em></td></tr>
+  <tr><td>P Ps ref=mp|form=s|pers=1</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>ни</em></td></tr>
+  <tr><td>P Ps ref=mp|form=s|pers=2</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>ви</em></td></tr>
+  <tr><td>P Ps ref=mp|form=s|pers=3</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>им</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=1|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моите</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=1|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>мои</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=2|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>твоите</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=3|def=d|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейните</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=3|def=d|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговите</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=3|def=d|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender[psor]=Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговите</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=3|def=i|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейни</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=p|pers=3|def=i|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негови</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моята</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=f|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моя</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=m|def=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моят</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=m|def=h</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моя</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=m|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>мой</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>моето</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=1|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>мое</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=2|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>твоята</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=2|gen=f|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>твоя</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=2|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>твое</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=f|def=d|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейната</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=f|def=d|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговата</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=f|def=d|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговата</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=f|def=i|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейна</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=f|def=i|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негова</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=f|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейният</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=f|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговият</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=h|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейния</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=h|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговия</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=f|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=h|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговия</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=i|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неин</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=i|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негов</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=m|def=i|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негов</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=d|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейното</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=d|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговото</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=d|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>неговото</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=i|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нейно</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=i|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негово</em></td></tr>
+  <tr><td>P Ps ref=op|form=f|num=s|pers=3|gen=n|def=i|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>негово</em></td></tr>
+  <tr><td>P Ps ref=op|form=s|pers=1</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>ми</em></td></tr>
+  <tr><td>P Ps ref=op|form=s|pers=2</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>ти</em></td></tr>
+  <tr><td>P Ps ref=op|form=s|pers=3|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>й</em></td></tr>
+  <tr><td>P Ps ref=op|form=s|pers=3|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>му</em></td></tr>
+  <tr><td>P Ps ref=op|form=s|pers=3|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Variant=Short</td><td><em>му</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=p|def=d</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>своите</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=p|def=i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>свои</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=f|def=d</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>своята</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=m|def=f</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=m|def=h</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>своя</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=m|def=i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>свой</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>своето</em></td></tr>
+  <tr><td>P Ps ref=r|form=f|case=n|num=s|gen=n|def=i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em>свое</em></td></tr>
+  <tr><td>P Ps ref=r|form=s|case=n</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>си</em></td></tr>
+  <tr><td>Punct Punct _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>., ,, ", -, ?</em></td></tr>
+  <tr><td>R R _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>на, в, за, от, с</em></td></tr>
+  <tr><td>T Ta _</td><td>=&gt;</td><td>PART</td><td>Negative=Pos|PartType=Res</td><td><em>да</em></td></tr>
+  <tr><td>T Te _</td><td>=&gt;</td><td>PART</td><td>PartType=Emp</td><td><em>пък, дори, чак, даже, Ами</em></td></tr>
+  <tr><td>T Tg _</td><td>=&gt;</td><td>PART</td><td>Degree=Sup</td><td><em>по</em></td></tr>
+  <tr><td>T Ti _</td><td>=&gt;</td><td>PART</td><td>PronType=Int</td><td><em>ли, дали, нали, Нима, мигар</em></td></tr>
+  <tr><td>T Tm _</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td><em>Дано, май, уж, да_не_би, Хайде</em></td></tr>
+  <tr><td>T Tn _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg|PartType=Res</td><td><em>не, нито</em></td></tr>
+  <tr><td>T Tv _</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td><em>нека, ето</em></td></tr>
+  <tr><td>T Tx _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>да, ще, би</em></td></tr>
+  <tr><td>V V _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>We_believe_you</em></td></tr>
+  <tr><td>V Vii type=aux|trans=t|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>биват</em></td></tr>
+  <tr><td>V Vii type=aux|trans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бива</em></td></tr>
+  <tr><td>V Vni imtrans=i|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>трябваше, можеше, валеше, струваше, идеше</em></td></tr>
+  <tr><td>V Vni imtrans=i|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>гърмя, валя, святка</em></td></tr>
+  <tr><td>V Vni imtrans=i|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>трябва, може, става, изглежда, струва</em></td></tr>
+  <tr><td>V Vni imtrans=i|vform=c|voice=a|tense=m|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>трябвало, можело, ставало</em></td></tr>
+  <tr><td>V Vni imtrans=i|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>трябвало, могло, изглеждало, ставало, струвало</em></td></tr>
+  <tr><td>V Vni imtrans=t|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>нямаше, имаше, биваше, тресеше, Искаше</em></td></tr>
+  <tr><td>V Vni imtrans=t|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>има</em></td></tr>
+  <tr><td>V Vni imtrans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>няма, има, бива, следва, говори</em></td></tr>
+  <tr><td>V Vni imtrans=t|vform=c|voice=a|tense=m|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>имало, нямало</em></td></tr>
+  <tr><td>V Vni imtrans=t|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>имало, нямало</em></td></tr>
+  <tr><td>V Vnp trans=i|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>стана, омръзна, хрумна, излезе, Дощя</em></td></tr>
+  <tr><td>V Vnp trans=i|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>стане, потръгне, стъмни, заоблачи, доповръща</em></td></tr>
+  <tr><td>V Vnp trans=i|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>разсъмнало, станало, мръкнало</em></td></tr>
+  <tr><td>V Vnp trans=t|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>прободеше</em></td></tr>
+  <tr><td>V Vnp trans=t|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>Втресло</em></td></tr>
+  <tr><td>V Vpi _</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Inf</td><td><em>водещ, управляващ, любящ, стабилизиращ, включващ</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=m|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>Оцелявахме, мръзнехме, знаехме, можехме, отивахме</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=m|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>можех, знаех, Надявах, мечтаех, присмивах</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=m|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>знаеше, Разговаряше</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=m|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>можеха, знаеха, стояха, идеха, шумяха</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>можеше, стоеше, знаеше, умееше, бързаше</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=o|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>Разговаряхме</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=o|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>можах, попадах, оставах, присъствах, разговарях</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=o|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>участваха, можаха, присъстваха, висяха, прехвърчаха</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>можа, стоя, участва, присъства, лежа</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>можем, знаем, пътуваме, вървим, полагаме</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>мога, знам, зная, надявам, благодаря</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>можете, знаете, справяте, разчитате, нуждаете</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>можеш, знаеш, оставаш, отиваш, разчиташ</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>могат, участват, влизат, знаят, отговарят</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>може, става, знае, идва, участва</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=z|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Subcat=Intr|VerbForm=Fin</td><td><em>разчитайте, недейте, бойте, Карайте, летете</em></td></tr>
+  <tr><td>V Vpi trans=i|mood=z|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin</td><td><em>скитай, недей, ела, мълчи, стой</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=m|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>знаели, можели, пътували, умували, стремели</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=m|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>можела, Съществувала, знаела, помагала, треперела</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=m|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>знаел, пътувал, съвпадал, мълчал, срамувал</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=m|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>можело, съвкуплявало, зависело, оставало, седяло</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Number=Plur|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>участвалите, лежалите</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>могли, участвали, вървели, възлизали, прибягвали</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>могла, усмихвала, пътувала, плакала, влизала</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>действалият</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>могъл, идвал, присъствал, участвал, служил</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>могло, страдало, оставало, приличало, звучало</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>предстоящите, присъстващите, преговарящите, страдащите, колебаещите</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>справящи, произтичащи, съществуващи, стенещи, действащи</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>предстоящата, благоденстващата, съществуващата, действащата, гаснещата</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>действаща, справяща, нарастваща, предстояща, умираща</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>излизащият, Тежащият</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>блестящия, гостуващия, преговарящия, отиващия, отговарящия</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>действащ, преговарящ, присъстващ, дремещ, отговарящ</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>блестящото, Предстоящото, ставащото</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>смиряващо, справящо, преобладаващо</em></td></tr>
+  <tr><td>V Vpi trans=i|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Intr|VerbForm=Trans</td><td><em>знаейки, Сядайки, падайки, Страдайки</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>имахме, чувахме, любехме, очаквахме, борехме</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>имах, мислех, исках, щях, чувствах</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>щяхте, имахте</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>правеше, караше, гледаше, щеше, излъчваше</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>щяха, имаха, чакаха, нямаха, продължаваха</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>щеше, гледаше, виждаше, имаше, искаше</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>говорихме, ходихме, Карахме, правихме, устройвахме</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>Гледах, работих, Говорих, Имах, Мерих</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>поддържахте</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>кара, повдига</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>гласуваха, играха, белязаха, съпътстваха, считаха</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>коментира, писа, игра, говори, гласува</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>имаме, искаме, говорим, нямаме, виждаме</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>искам, говоря, нямам, мисля, виждам</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>имате, използвате, правите, очаквате, коментирате</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>мислиш, имаш, искаш, учиш, правиш</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>имат, искат, правят, работят, нямат</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>има, иска, дава, прави, работи</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=z|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Subcat=Tran|VerbForm=Fin</td><td><em>Питайте, Правете, избягвайте, наблюдавайте, започвайте</em></td></tr>
+  <tr><td>V Vpi trans=t|mood=z|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin</td><td><em>казвай, Прави, занимавай, гледай, мисли</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=m|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>щели, имали, говорели, шпионирали, проверявали</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=m|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>щяла, искала, имала, кълняла, говорела</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=m|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>щял, имал, искал, живеел, пиел</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=m|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>щяло, налагало, опровергавало, имало, включвало</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=o|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>искали, обсъждали, желали, получавали, заемали</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=o|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>искала, чувствала, имала, живяла, правила</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=o|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>искал, имал, виждал, плащал, вярвал</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>случвало, подслушвало, имало, пукало, живяло</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Number=Plur|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>управляващите, следващите, работещите, живеещите, одобряващите</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>водещи, управляващи, възпиращи, отнасящи, показващи</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>следващата, управляващата, продължаващата, преработващата, зараждащата</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>водеща, вълнуваща, започваща, развиваща, напускаща</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>Потискащият, следващият, председателстващият, водещият</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>следващия, оглушаващия, впечатляващия, смущаващия, въртящия</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>следващото, управляващото, стресиращото, случващото, изненадващото</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=a|tense=r|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>учудващо, вълнуващо, променящо, решаващо, стресиращо</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Number=Plur|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>очакваните, Придобиваните, готвените, смятаните, освобождаваните</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>използвани, броени, подслушвани, разисквани, освобождавани</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Fem|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>осъществяваната, водената, доминираната, Инспирираната, Очакваната</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>използвана, водена, ръководена, желана, крадена</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>предпочитаният, предлаганият</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>продавания, изследвания, готвения, търсения, обнародвания</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>подслушван, подлаган, избиран, критикуван, съден</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>очакваното, исканото, предлаганото, желаното, фокусираното</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>давано, обсъждано, белязано, коментирано, градено</em></td></tr>
+  <tr><td>V Vpi trans=t|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Tran|VerbForm=Trans</td><td><em>приемайки, отчитайки, симулирайки, облягайки, смятайки</em></td></tr>
+  <tr><td>V Vpp _</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Inf</td><td><em>арестуваният, избраният, обновеният, повлияният, пенсионираният</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=m|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>разгоряха</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>отидеше, застанеше</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>успяхме, дойдохме, тръгнахме, пристигнахме, устояхме</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>успях, Дойдох, останах, закрачих, сетих</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>справихте</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>посмя, отиде, прехвръкна, дойде</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>станаха, излязоха, загинаха, дойдоха, успяха</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Aor|VerbForm=Fin</td><td><em>стана, излезе, влезе, успя, тръгна</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>станем, влезем, останем, застанем, отидем</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>отида, изляза, вляза, остана, погрижа</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>излезете, постъпите, оцелеете, съгласите, седнете</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>дойдеш, отидеш, станеш, справиш, помогнеш</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>станат, отидат, влязат, останат, паднат</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin</td><td><em>стане, дойде, остане, помогне, влезе</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=z|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Subcat=Intr|VerbForm=Fin</td><td><em>Престанете, пристъпете, позвънете, Помогнете</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|mood=z|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin</td><td><em>Излез, Седни, помогни, Наплачи, легни</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=m|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>Идело</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Number=Plur|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>останалите, пострадалите, заболелите, загиналите, потъмнелите</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Number=Plur|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>пострадали, успели, останали, изчезнали, починали</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>потъналата, нашумялата, останалата, фалиралата, рухналата</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>дошла, останала, станала, успяла, пристигнала</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>пламналият, станалият, Седналият</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>дошлият, Пострадалият, акостиралия, Заболелият, повехналият</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>дошъл, станал, отишъл, починал, избягал</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>Останалото, станалото, фалиралото, нашумялото</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=i|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>станало, останало, изчезнало, паднало, излязло</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=m|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>Попитахме</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=m|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>кажех</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=m|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>успяха, опитаха, отпуснеха, минеха</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>приемеше, почнеше</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>видяхме, направихме, започнахме, чухме, преживяхме</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>взех, разбрах, казах, видях, срещнах</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>видяхте, казахте, забравихте, чухте, усетихте</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>видя, забрави, Върна, научи, Даде</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>съобщиха, обявиха, заявиха, започнаха, казаха</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>каза, заяви, съобщи, обяви, предаде</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>направим, намерим, кажем, запазим, видим</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>кажа, дам, видя, направя, върна</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>направите, научите, кажете, получите, приемете</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>кажеш, заминеш, започнеш, получиш, помолиш</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>вземат, направят, дадат, видят, представят</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>каже, направи, продължи, даде, реши</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=z|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Subcat=Tran|VerbForm=Fin</td><td><em>кажете, Представете, Очертайте, Помислете, Отделете</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|mood=z|pers=2|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin</td><td><em>виж, Прочети, дай, кажи, направи</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=m|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Imp|VerbForm=Part|Voice=Act</td><td><em>закъсал</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Number=Plur|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>миналите, изминалите, вдигналите, отказалите, започналите</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Number=Plur|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>направили, започнали, казали, получили, решили</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>миналата, изминалата, пръкналата</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>започнала, получила, свила, изпълнила, взела</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>миналия, изминалия, разбилия, изстрадалия, започналия</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>казал, направил, дал, заминал, видял</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>случилото, изминалото, миналото, настъпилото, създалото</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=a|tense=o|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Aor|VerbForm=Part|Voice=Act</td><td><em>случило, наложило, започнало, превърнало, довело</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=p|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Number=Plur|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>въоръжените, анкетираните, подчинените, задържаните, представените</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=p|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Number=Plur|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>свързани, определени, изправени, открити, събрани</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=f|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Fem|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>организираната, свършената, Извършената, назначената, разбитата</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=f|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>приета, създадена, представена, определена, наложена</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=m|def=f</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=m|def=h</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>посочения, приетия, убития, взривения, арестувания</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>определен, избран, цитиран, обвинен, свързан</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Def|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>заслуженото, стореното, написаното, изразеното, въоръженото</em></td></tr>
+  <tr><td>V Vpp aspect=p|trans=t|vform=c|voice=v|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>направено, взето, фокусирано, казано, свързано</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=1|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>бяхме</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=1|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>бях</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=2|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>бяхте</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=2|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>беше, бе</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=3|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>бяха</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|past|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Past|VerbForm=Fin</td><td><em>бе, беше</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>сме</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>съм</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>сте</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>си</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>са</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>е</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=1|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>бихме</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=1|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>бих</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=2|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>бихте</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=2|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>би</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=3|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>биха</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|mood=u|tense=o|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em>би</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|vform=c|voice=a|past|num=p|def=i</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Definite=Ind|Number=Plur|Subcat=Tran|Tense=Past|VerbForm=Part|Voice=Act</td><td><em>били</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|vform=c|voice=a|past|num=s|gen=f|def=i</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Definite=Ind|Gender=Fem|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Part|Voice=Act</td><td><em>била</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|vform=c|voice=a|past|num=s|gen=m|def=i</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Part|Voice=Act</td><td><em>бил</em></td></tr>
+  <tr><td>V Vxi type=aux|trans=t|vform=c|voice=a|past|num=s|gen=n|def=i</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Part|Voice=Act</td><td><em>било</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=o|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Aor|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=1|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъдем</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=1|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъда</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=2|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъдете</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=2|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъдеш</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=3|num=p</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъдат</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=i|tense=r|pers=3|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin</td><td><em>бъде</em></td></tr>
+  <tr><td>V Vyp type=aux|aspect=p|trans=t|mood=z|pers=2|num=s</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin</td><td><em>Бъди</em></td></tr>
+</table>
