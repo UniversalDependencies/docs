@@ -16,276 +16,276 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>es::conll2009</tt>, total 272 tags.
 
 <table>
-  <tr><td>a postype=ordinal|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Sing</td><td><em></em></td></tr>
   <tr><td>a postype=ordinal|gen=f|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Plur</td><td><em>últimas, primeras, terceras, segundas, quintas</em></td></tr>
-  <tr><td>a postype=ordinal|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Sing</td><td><em>primera, segunda, última, tercera, cuarta</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Sing</td><td><em>primera, segunda, última, tercera, cuarta</em></td></tr>
   <tr><td>a postype=ordinal|gen=m|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Plur</td><td><em>últimos, primeros, terceros, segundos, sextos</em></td></tr>
-  <tr><td>a postype=ordinal|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Sing</td><td><em>primer, segundo, último, primero, tercer</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Sing</td><td><em>primer, segundo, último, primero, tercer</em></td></tr>
   <tr><td>a postype=qualificative|gen=c|num=c</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>ex, norte, ultra, sur, pop</em></td></tr>
-  <tr><td>a postype=qualificative|gen=c|num=p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td><em>grandes, principales, internacionales, importantes, sociales</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=qualificative|gen=c|num=p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td><em>grandes, principales, internacionales, importantes, sociales</em></td></tr>
   <tr><td>a postype=qualificative|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td><em>gran, mayor, mejor, general, posible</em></td></tr>
-  <tr><td>a postype=qualificative|gen=f|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td><em>nuevas, políticas, españolas, próximas, económicas</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=qualificative|gen=f|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td><em>nuevas, políticas, españolas, próximas, económicas</em></td></tr>
   <tr><td>a postype=qualificative|gen=f|num=p|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part</td><td><em>abiertas, celebradas, previstas, heridas, determinadas</em></td></tr>
-  <tr><td>a postype=qualificative|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><em>nueva, política, española, única, buena</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=qualificative|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><em>nueva, política, española, única, buena</em></td></tr>
   <tr><td>a postype=qualificative|gen=f|num=s|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part</td><td><em>pasada, abierta, prevista, celebrada, situada</em></td></tr>
-  <tr><td>a postype=qualificative|gen=m|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td><em>nuevos, próximos, públicos, españoles, pequeños</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=qualificative|gen=m|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td><em>nuevos, próximos, públicos, españoles, pequeños</em></td></tr>
   <tr><td>a postype=qualificative|gen=m|num=p|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part</td><td><em>dispuestos, relacionados, determinados, obligados, registrados</em></td></tr>
-  <tr><td>a postype=qualificative|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><em>nuevo, próximo, español, único, político</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=qualificative|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><em>nuevo, próximo, español, único, político</em></td></tr>
   <tr><td>a postype=qualificative|gen=m|num=s|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td><em>pasado, previsto, abierto, dispuesto, hecho</em></td></tr>
-  <tr><td>c _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>c _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>c postype=coordinating</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>y, pero, o, e, ni</em></td></tr>
-  <tr><td>c postype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>que, como, si, porque, cuando</em></td></tr>
+  <tr style="background:lightgray"><td>c postype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>que, como, si, porque, cuando</em></td></tr>
   <tr><td>c postype=subordinating|gen=c|num=c</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>d postype=article|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Art</td><td><em>lo</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=article|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Art</td><td><em>lo</em></td></tr>
   <tr><td>d postype=article|gen=f|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Art</td><td><em>las</em></td></tr>
-  <tr><td>d postype=article|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Art</td><td><em>la</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=article|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Art</td><td><em>la</em></td></tr>
   <tr><td>d postype=article|gen=m|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Art</td><td><em>los</em></td></tr>
-  <tr><td>d postype=article|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Art</td><td><em>el</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=article|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Art</td><td><em>el</em></td></tr>
   <tr><td>d postype=demonstrative|gen=c|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><em>tales, semejantes</em></td></tr>
-  <tr><td>d postype=demonstrative|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><em>tal, semejante, cual</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=demonstrative|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><em>tal, semejante, cual</em></td></tr>
   <tr><td>d postype=demonstrative|gen=f|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>estas, esas, aquellas</em></td></tr>
-  <tr><td>d postype=demonstrative|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>esta, esa, aquella, LA</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=demonstrative|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>esta, esa, aquella, LA</em></td></tr>
   <tr><td>d postype=demonstrative|gen=m|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>estos, esos, aquellos</em></td></tr>
-  <tr><td>d postype=demonstrative|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>este, ese, aquel</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=demonstrative|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>este, ese, aquel</em></td></tr>
   <tr><td>d postype=exclamative|gen=c|num=c</td><td>=&gt;</td><td>DET</td><td>PronType=Rel</td><td><em>qué</em></td></tr>
-  <tr><td>d postype=indefinite|gen=c|num=c</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>d postype=indefinite|gen=c|num=c</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td><em></em></td></tr>
   <tr><td>d postype=indefinite|gen=c|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Ind</td><td><em>diferentes, demás, bastantes, DOS</em></td></tr>
-  <tr><td>d postype=indefinite|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind</td><td><em>cada, cualquier, bastante, cualquiera</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=indefinite|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind</td><td><em>cada, cualquier, bastante, cualquiera</em></td></tr>
   <tr><td>d postype=indefinite|gen=f|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Ind</td><td><em>todas, otras, unas, muchas, varias</em></td></tr>
-  <tr><td>d postype=indefinite|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>una, otra, toda, misma, alguna</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=indefinite|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>una, otra, toda, misma, alguna</em></td></tr>
   <tr><td>d postype=indefinite|gen=m|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Ind</td><td><em>unos, otros, todos, algunos, muchos</em></td></tr>
-  <tr><td>d postype=indefinite|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><em>un, todo, mismo, otro, ningún</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=indefinite|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><em>un, todo, mismo, otro, ningún</em></td></tr>
   <tr><td>d postype=interrogative|gen=f|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>d postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em>cuánta</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em>cuánta</em></td></tr>
   <tr><td>d postype=interrogative|gen=m|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><em>cuántos</em></td></tr>
-  <tr><td>d postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
   <tr><td>d postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td><em>dos, tres, cinco, cuatro, seis</em></td></tr>
-  <tr><td>d postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>doble, triple, cero, cuádruple</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>doble, triple, cero, cuádruple</em></td></tr>
   <tr><td>d postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>ambas, quinientas</em></td></tr>
-  <tr><td>d postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media, una, décima</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media, una, décima</em></td></tr>
   <tr><td>d postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Plur</td><td><em>ambos, doscientos, quinientos, trescientos, miles</em></td></tr>
-  <tr><td>d postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, un, uno</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, un, uno</em></td></tr>
   <tr><td>d postype=possessive|gen=c|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>d postype=possessive|gen=f|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestras</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=f|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestras</em></td></tr>
   <tr><td>d postype=possessive|gen=f|num=p|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>d postype=possessive|gen=f|num=p|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=f|num=p|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>d postype=possessive|gen=f|num=s|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestra</em></td></tr>
-  <tr><td>d postype=possessive|gen=f|num=s|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=f|num=s|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>d postype=possessive|gen=f|num=s|person=2|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>d postype=possessive|gen=f|num=s|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suya</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=f|num=s|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suya</em></td></tr>
   <tr><td>d postype=possessive|gen=m|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestros</em></td></tr>
-  <tr><td>d postype=possessive|gen=m|num=p|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=m|num=p|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>d postype=possessive|gen=m|num=p|person=2|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>d postype=possessive|gen=m|num=p|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyos</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=m|num=p|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyos</em></td></tr>
   <tr><td>d postype=possessive|gen=m|num=s|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestro</em></td></tr>
-  <tr><td>d postype=possessive|gen=m|num=s|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mío</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=m|num=s|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mío</em></td></tr>
   <tr><td>d postype=possessive|gen=m|num=s|person=2|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>d postype=possessive|gen=m|num=s|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyo</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=possessive|gen=m|num=s|person=3</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyo</em></td></tr>
   <tr><td>d postype=relative|gen=c|num=c</td><td>=&gt;</td><td>DET</td><td>PronType=Rel</td><td><em></em></td></tr>
-  <tr><td>d postype=relative|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>d postype=relative|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Rel</td><td><em></em></td></tr>
   <tr><td>f punct=bracket|punctenclose=close</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Brck</td><td><em>)</em></td></tr>
-  <tr><td>f punct=bracket|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Brck</td><td><em>(</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=bracket|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Brck</td><td><em>(</em></td></tr>
   <tr><td>f punct=colon</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo</td><td><em>:</em></td></tr>
-  <tr><td>f punct=comma</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em>,</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=comma</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em>,</em></td></tr>
   <tr><td>f punct=comma|punctenclose=close</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Comm</td><td><em></em></td></tr>
-  <tr><td>f punct=comma|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Comm</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>f punct=comma|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Comm</td><td><em></em></td></tr>
   <tr><td>f punct=etc</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em>..., etcétera, etc</em></td></tr>
-  <tr><td>f punct=exclamationmark|punctenclose=close</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Excl</td><td><em>!</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=exclamationmark|punctenclose=close</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Excl</td><td><em>!</em></td></tr>
   <tr><td>f punct=exclamationmark|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Excl</td><td><em>¡</em></td></tr>
-  <tr><td>f punct=hyphen</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Dash</td><td><em>-, .</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=hyphen</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Dash</td><td><em>-, .</em></td></tr>
   <tr><td>f punct=mathsign</td><td>=&gt;</td><td>SYM</td><td>_</td><td><em>', a, b, |, 9</em></td></tr>
-  <tr><td>f punct=period</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em>.</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=period</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em>.</em></td></tr>
   <tr><td>f punct=questionmark|punctenclose=close</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Fin|PunctType=Qest</td><td><em>?, ¿</em></td></tr>
-  <tr><td>f punct=questionmark|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Qest</td><td><em>¿</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=questionmark|punctenclose=open</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini|PunctType=Qest</td><td><em>¿</em></td></tr>
   <tr><td>f punct=quotation</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Quot</td><td><em>", `, '</em></td></tr>
-  <tr><td>f punct=semicolon</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Semi</td><td><em>;</em></td></tr>
+  <tr style="background:lightgray"><td>f punct=semicolon</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Semi</td><td><em>;</em></td></tr>
   <tr><td>f punct=slash</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo</td><td><em>/</em></td></tr>
-  <tr><td>i _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>Je, Bueno, Adiós, Ja, Ah</em></td></tr>
+  <tr style="background:lightgray"><td>i _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>Je, Bueno, Adiós, Ja, Ah</em></td></tr>
   <tr><td>n postype=common|gen=c|num=c</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>n, TCNQ, dolarización, ex, a</em></td></tr>
-  <tr><td>n postype=common|gen=c|num=p</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td><em>representantes, jóvenes, socialistas, agentes, dirigentes</em></td></tr>
+  <tr style="background:lightgray"><td>n postype=common|gen=c|num=p</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td><em>representantes, jóvenes, socialistas, agentes, dirigentes</em></td></tr>
   <tr><td>n postype=common|gen=c|num=s</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td><em>portavoz, líder, policía, defensa, juez</em></td></tr>
-  <tr><td>n postype=common|gen=f|num=c</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem</td><td><em>crisis, tesis, dosis, hipótesis, síntesis</em></td></tr>
+  <tr style="background:lightgray"><td>n postype=common|gen=f|num=c</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem</td><td><em>crisis, tesis, dosis, hipótesis, síntesis</em></td></tr>
   <tr><td>n postype=common|gen=f|num=p</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td><em>personas, elecciones, horas, empresas, medidas</em></td></tr>
-  <tr><td>n postype=common|gen=f|num=s</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td><em>parte, vida, situación, vez, forma</em></td></tr>
+  <tr style="background:lightgray"><td>n postype=common|gen=f|num=s</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td><em>parte, vida, situación, vez, forma</em></td></tr>
   <tr><td>n postype=common|gen=m|num=c</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc</td><td><em>virus, análisis, tenis, hachís, golf</em></td></tr>
-  <tr><td>n postype=common|gen=m|num=p</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Plur</td><td><em>años, millones, países, días, meses</em></td></tr>
+  <tr style="background:lightgray"><td>n postype=common|gen=m|num=p</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Plur</td><td><em>años, millones, países, días, meses</em></td></tr>
   <tr><td>n postype=common|gen=m|num=s</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td><em>presidente, equipo, partido, país, año</em></td></tr>
-  <tr><td>n postype=proper|gen=c|num=c</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Gobierno, España, PP, Barcelona, Madrid</em></td></tr>
+  <tr style="background:lightgray"><td>n postype=proper|gen=c|num=c</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Gobierno, España, PP, Barcelona, Madrid</em></td></tr>
   <tr><td>n postype=proper|gen=m|num=s</td><td>=&gt;</td><td>PROPN</td><td>Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>p gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>_</td><td><em>se, cuando</em></td></tr>
+  <tr style="background:lightgray"><td>p gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>_</td><td><em>se, cuando</em></td></tr>
   <tr><td>p gen=c|num=c|person=3</td><td>=&gt;</td><td>PRON</td><td>Person=3</td><td><em>se, te, me</em></td></tr>
-  <tr><td>p gen=c|num=p|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1</td><td><em>nos</em></td></tr>
+  <tr style="background:lightgray"><td>p gen=c|num=p|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1</td><td><em>nos</em></td></tr>
   <tr><td>p gen=c|num=p|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2</td><td><em></em></td></tr>
-  <tr><td>p gen=c|num=s|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1</td><td><em>me</em></td></tr>
+  <tr style="background:lightgray"><td>p gen=c|num=s|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1</td><td><em>me</em></td></tr>
   <tr><td>p gen=c|num=s|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2</td><td><em>te</em></td></tr>
-  <tr><td>p postype=demonstrative|gen=c|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Dem</td><td><em>tales</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=demonstrative|gen=c|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Dem</td><td><em>tales</em></td></tr>
   <tr><td>p postype=demonstrative|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Dem</td><td><em>eso, esto, aquello, tal</em></td></tr>
-  <tr><td>p postype=demonstrative|gen=f|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>éstas, esas, aquellas, ésas, estas</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=demonstrative|gen=f|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>éstas, esas, aquellas, ésas, estas</em></td></tr>
   <tr><td>p postype=demonstrative|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>ésta, ésa, esa, esta, aquella</em></td></tr>
-  <tr><td>p postype=demonstrative|gen=m|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>éstos, aquellos, estos, ésos, esos</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=demonstrative|gen=m|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>éstos, aquellos, estos, ésos, esos</em></td></tr>
   <tr><td>p postype=demonstrative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>éste, este, aquel, ese, ése</em></td></tr>
-  <tr><td>p postype=indefinite|gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>PronType=Ind</td><td><em>nada, mismos</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=indefinite|gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>PronType=Ind</td><td><em>nada, mismos</em></td></tr>
   <tr><td>p postype=indefinite|gen=c|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Ind</td><td><em>demás, bastantes, mismos, insuficientes</em></td></tr>
-  <tr><td>p postype=indefinite|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Ind</td><td><em>nada, algo, nadie, alguien, cualquiera</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=indefinite|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Ind</td><td><em>nada, algo, nadie, alguien, cualquiera</em></td></tr>
   <tr><td>p postype=indefinite|gen=f|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Ind</td><td><em>algunas, otras, muchas, todas, varias</em></td></tr>
-  <tr><td>p postype=indefinite|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>una, otra, misma, ninguna, alguna</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=indefinite|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>una, otra, misma, ninguna, alguna</em></td></tr>
   <tr><td>p postype=indefinite|gen=m|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Ind</td><td><em>todos, otros, algunos, muchos, mismos</em></td></tr>
-  <tr><td>p postype=indefinite|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><em>uno, todo, otro, poco, mismo</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=indefinite|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><em>uno, todo, otro, poco, mismo</em></td></tr>
   <tr><td>p postype=interrogative|gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td><em>cómo, dónde, cuándo, Qué_tal, a_dónde</em></td></tr>
-  <tr><td>p postype=interrogative|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td><em>qué, quién, cuál, quien</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=interrogative|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td><em>qué, quién, cuál, quien</em></td></tr>
   <tr><td>p postype=interrogative|gen=f|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Int</td><td><em>cuántas</em></td></tr>
-  <tr><td>p postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>p postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em></em></td></tr>
   <tr><td>p postype=interrogative|gen=m|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><em>cuántos</em></td></tr>
-  <tr><td>p postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
   <tr><td>p postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td><em>dos, miles, tres, cuatro, cinco</em></td></tr>
-  <tr><td>p postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>triple</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>triple</em></td></tr>
   <tr><td>p postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>ambas, DECENAS</em></td></tr>
-  <tr><td>p postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media</em></td></tr>
   <tr><td>p postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Plur</td><td><em>ambos, ochenta, veintiuno</em></td></tr>
-  <tr><td>p postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, uno</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, uno</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=c|person=3</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Prs</td><td><em>se</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=c|person=3|case=oblique</td><td>=&gt;</td><td>PRON</td><td>Person=3|PrepCase=Pre|PronType=Prs</td><td><em>sí, consigo</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=c|person=3|case=oblique</td><td>=&gt;</td><td>PRON</td><td>Person=3|PrepCase=Pre|PronType=Prs</td><td><em>sí, consigo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=p|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td><em>nos</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=p|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td><em>os</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=p|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td><em>os</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=p|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|Polite=Pol|PronType=Prs</td><td><em>ustedes</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td><em>se, Les</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td><em>se, Les</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td><em>me</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=s|person=1|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td><em>yo</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=1|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td><em>yo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=1|case=oblique</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>mí, conmigo, mi</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=s|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td><em>te</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td><em>te</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>usted</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=s|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Prs</td><td><em>le, se, les, lo</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Prs</td><td><em>le, se, les, lo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=3|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Prs</td><td><em>le, se</em></td></tr>
-  <tr><td>p postype=personal|gen=f|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>ellas, les</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=f|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>ellas, les</em></td></tr>
   <tr><td>p postype=personal|gen=f|num=p|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>las</em></td></tr>
-  <tr><td>p postype=personal|gen=f|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>ella</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=f|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>ella</em></td></tr>
   <tr><td>p postype=personal|gen=f|num=s|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>la</em></td></tr>
-  <tr><td>p postype=personal|gen=m|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>ellos</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=m|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>ellos</em></td></tr>
   <tr><td>p postype=personal|gen=m|num=p|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>los, les, Nos</em></td></tr>
-  <tr><td>p postype=personal|gen=m|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>él</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=personal|gen=m|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>él</em></td></tr>
   <tr><td>p postype=personal|gen=m|num=s|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>lo, le, Les</em></td></tr>
-  <tr><td>p postype=possessive|gen=c|num=p|person=3|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=c|num=p|person=3|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>p postype=possessive|gen=c|num=s|person=3|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>p postype=possessive|gen=f|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestras, las_nuestras</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=f|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestras, las_nuestras</em></td></tr>
   <tr><td>p postype=possessive|gen=f|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>las_suyas, suyas</em></td></tr>
-  <tr><td>p postype=possessive|gen=f|num=p|person=3|possessornum=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=f|num=p|person=3|possessornum=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>p postype=possessive|gen=f|num=s|person=1|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>la_nuestra, nuestra</em></td></tr>
-  <tr><td>p postype=possessive|gen=f|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>la_suya, suya</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=f|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>la_suya, suya</em></td></tr>
   <tr><td>p postype=possessive|gen=f|num=s|person=3|possessornum=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>p postype=possessive|gen=m|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>los_suyos, suyos</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=m|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>los_suyos, suyos</em></td></tr>
   <tr><td>p postype=possessive|gen=m|num=s|person=1|possessornum=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestro</em></td></tr>
-  <tr><td>p postype=possessive|gen=m|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyo, el_suyo</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=possessive|gen=m|num=s|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>suyo, el_suyo</em></td></tr>
   <tr><td>p postype=relative|gen=c|num=c</td><td>=&gt;</td><td>PRON</td><td>PronType=Rel</td><td><em>que, donde, cuando, como, adonde</em></td></tr>
-  <tr><td>p postype=relative|gen=c|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Rel</td><td><em>quienes, cuales, que</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=relative|gen=c|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Rel</td><td><em>quienes, cuales, que</em></td></tr>
   <tr><td>p postype=relative|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Rel</td><td><em>quien, cual</em></td></tr>
-  <tr><td>p postype=relative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><em>cuyo, cuanto</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=relative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><em>cuyo, cuanto</em></td></tr>
   <tr><td>r _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>más, hoy, también, ayer, ya</em></td></tr>
-  <tr><td>r postype=negative</td><td>=&gt;</td><td>ADV</td><td>Negative=Neg</td><td><em>no, no_sólo, nada_de, no_tanto, ni</em></td></tr>
+  <tr style="background:lightgray"><td>r postype=negative</td><td>=&gt;</td><td>ADV</td><td>Negative=Neg</td><td><em>no, no_sólo, nada_de, no_tanto, ni</em></td></tr>
   <tr><td>s postype=preposition|gen=c|num=c</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>de, en, a, con, por</em></td></tr>
-  <tr><td>s postype=preposition|gen=m|num=p|contracted=yes</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>s postype=preposition|gen=m|num=p|contracted=yes</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
   <tr><td>s postype=preposition|gen=m|num=s|contracted=yes</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Gender=Masc|Number=Sing</td><td><em>del, al, frente_al, a_partir_del, respecto_al</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=c|mood=gerund</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Ger</td><td><em>habiendo</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=c|mood=gerund</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Ger</td><td><em>habiendo</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=c|mood=infinitive</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf</td><td><em>haber, haberse, haberlo, haberme, haberla</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=c|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Person=1|Tense=Imp|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=c|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Person=1|Tense=Imp|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin</td><td><em>habríamos</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>habremos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>habremos</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>habíamos</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>hemos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>hemos</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>hubiéramos</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>hayamos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>hayamos</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=2|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>habéis</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>habéis</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=imperative</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin</td><td><em>habrían</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin</td><td><em>habrían</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>habrán</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>habían</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>habían</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>hubieron</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>han</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>han</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>hubieran, hubiesen</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>hayan</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>hayan</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>habré</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>había</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>había</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>he</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>has</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>has</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=imperative</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Sing|Person=3|VerbForm=Fin</td><td><em>haya</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>habría</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>habría</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>habrá</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>había</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>había</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>hubo</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>ha, hay, va, ES</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>ha, hay, va, ES</em></td></tr>
   <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>hubiera, hubiese</em></td></tr>
-  <tr><td>v postype=auxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>haya</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=auxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>haya</em></td></tr>
   <tr><td>v postype=auxiliary|gen=m|num=s|mood=pastparticiple</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>habido</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=c</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=c</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em></em></td></tr>
   <tr><td>v postype=main|gen=c|num=c|mood=gerund</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Ger</td><td><em>haciendo, dando, trabajando, pensando, diciendo</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=c|mood=infinitive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>hacer, estar, tener, dar, ganar</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=c|mood=infinitive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>hacer, estar, tener, dar, ganar</em></td></tr>
   <tr><td>v postype=main|gen=c|num=c|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=1|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|VerbForm=Fin</td><td><em>perdamos, Ganemos, hablemos, reflexionemos, universalicemos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=1|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|VerbForm=Fin</td><td><em>perdamos, Ganemos, hablemos, reflexionemos, universalicemos</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin</td><td><em>podríamos, deberíamos, tendríamos, marraríamos, diríamos</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>veremos, podremos, tendremos, estaremos, seguiremos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>veremos, podremos, tendremos, estaremos, seguiremos</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>teníamos, debíamos, íbamos, estábamos, necesitábamos</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>tenemos, estamos, podemos, vamos, queremos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>tenemos, estamos, podemos, vamos, queremos</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>dijésemos, careciéramos, jugáramos, ingresáramos</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>podamos, hagamos, estemos, tengamos, olvidemos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>podamos, hagamos, estemos, tengamos, olvidemos</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=2|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>podéis, ganáis, hacéis_gala, estáis, zurráis</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>podéis, ganáis, hacéis_gala, estáis, zurráis</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=2|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>gobernéis, apoyéis, tengáis</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=3|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin</td><td><em>lean, tengan, vean, actúen, dejen</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=3|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin</td><td><em>lean, tengan, vean, actúen, dejen</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin</td><td><em>podrían, deberían, estarían, tendrían, aceptarían</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>deberán, podrán, tendrán, estarán, harán</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>deberán, podrán, tendrán, estarán, harán</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>estaban, tenían, iban, encontraban, debían</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>tuvieron, llegaron, hicieron, dieron, pudieron</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>tuvieron, llegaron, hicieron, dieron, pudieron</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>están, tienen, pueden, deben, van</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=p|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>pudieran, hicieran, llegaran, tuvieran, quisieran</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=p|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>pudieran, hicieran, llegaran, tuvieran, quisieran</em></td></tr>
   <tr><td>v postype=main|gen=c|num=p|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>puedan, tengan, hagan, estén, sigan</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin</td><td><em>podría, cumpliría, disminuiría, debería, pasaría</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin</td><td><em>podría, cumpliría, disminuiría, debería, pasaría</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>estaré, podré, dejaré, iré, intentaré</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>estaba, quería, veía, pedía, compartía</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>estaba, quería, veía, pedía, compartía</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>creo, tengo, estoy, sé, quiero</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>criticara, pasara, cediese, quisiera, bajara</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=1|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>criticara, pasara, cediese, quisiera, bajara</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>esté, afecte, someta, haga, pueda</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=2|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</td><td><em>mira, asegura, añade, apunta, figura</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=2|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</td><td><em>mira, asegura, añade, apunta, figura</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>puedes, tienes, debes, sabes, estás</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=2|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>quieras, creas, preocupes, interpretes, veas</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=2|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>quieras, creas, preocupes, interpretes, veas</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=3|mood=imperative</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|VerbForm=Fin</td><td><em>vaya, véase, deje, ayude, hable</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>podría, debería, tendría, estaría, haría</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>podría, debería, tendría, estaría, haría</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>tendrá, deberá, podrá, estará, hará</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>estaba, tenía, podía, iba, decía</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>estaba, tenía, podía, iba, decía</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>dijo, aseguró, explicó, afirmó, señaló</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>está, tiene, puede, hace, debe</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>está, tiene, puede, hace, debe</em></td></tr>
   <tr><td>v postype=main|gen=c|num=s|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>pudiera, hiciera, pasara, tuviera, llegara</em></td></tr>
-  <tr><td>v postype=main|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>pueda, esté, tenga, haga, permita</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>pueda, esté, tenga, haga, permita</em></td></tr>
   <tr><td>v postype=main|gen=f|num=p|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>aprobadas, utilizadas, vistas, trasladadas, dadas</em></td></tr>
-  <tr><td>v postype=main|gen=f|num=s|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>aprobada, considerada, utilizada, dada, rechazada</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=f|num=s|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>aprobada, considerada, utilizada, dada, rechazada</em></td></tr>
   <tr><td>v postype=main|gen=m|num=p|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>detenidos, trasladados, incluidos, juzgados, entregados</em></td></tr>
-  <tr><td>v postype=main|gen=m|num=s|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>hecho, tenido, dado, visto, conseguido</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=main|gen=m|num=s|mood=pastparticiple</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>hecho, tenido, dado, visto, conseguido</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=c|mood=gerund</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Ger</td><td><em>siendo</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=c|mood=infinitive</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf</td><td><em>ser, serlo, serle</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=c|mood=infinitive</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf</td><td><em>ser, serlo, serle</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>éramos</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>somos</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=p|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>somos</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=1|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>seamos</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=imperative</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=imperative</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin</td><td><em>serían</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>serán</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>serán</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>eran</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>fueron</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>fueron</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>son</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>fueran, fuesen</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>fueran, fuesen</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=p|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sean</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>era</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=1|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>era</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=s|person=1|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>soy</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>eres</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=2|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>eres</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=imperative</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Sing|Person=3|VerbForm=Fin</td><td><em>sea</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>sería</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=conditional</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin</td><td><em>sería</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=future</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>será</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>era</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>era</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=past</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>fue</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>es</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=indicative|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>es</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=imperfect</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>fuera, fuese</em></td></tr>
-  <tr><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sea</em></td></tr>
+  <tr style="background:lightgray"><td>v postype=semiauxiliary|gen=c|num=s|person=3|mood=subjunctive|tense=present</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sea</em></td></tr>
   <tr><td>v postype=semiauxiliary|gen=m|num=s|mood=pastparticiple</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>sido</em></td></tr>
-  <tr><td>w _</td><td>=&gt;</td><td>NOUN</td><td>AdvType=Tim</td><td><em>1999, domingo, viernes, miércoles, 1998</em></td></tr>
+  <tr style="background:lightgray"><td>w _</td><td>=&gt;</td><td>NOUN</td><td>AdvType=Tim</td><td><em>1999, domingo, viernes, miércoles, 1998</em></td></tr>
   <tr><td>z _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td><em>20, 30, 10, 15, 12</em></td></tr>
-  <tr><td>z postype=currency</td><td>=&gt;</td><td>NOUN</td><td>NumForm=Digit</td><td><em>pesetas, dólares, euros, yenes, pesos</em></td></tr>
+  <tr style="background:lightgray"><td>z postype=currency</td><td>=&gt;</td><td>NOUN</td><td>NumForm=Digit</td><td><em>pesetas, dólares, euros, yenes, pesos</em></td></tr>
   <tr><td>z postype=percentage</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit|NumType=Frac</td><td><em>20_por_ciento, 30_por_ciento, 50_por_ciento, 50%, 30%</em></td></tr>
 </table>
