@@ -20,7 +20,7 @@ usually happen.
 
 Examples:
 
-* [fi] _järjestelmä <b>toimii</b>_ "_the system <b>works</b>_"
+* [fi] _järjestelmä <b>toimii</b>_ "the system <b>works</b>"
 
 ### Past: past tense / preterite
 
@@ -29,6 +29,6 @@ moment.
 
 Examples:
 
-* [fi] _joukkue <b>voitti</b>_ "_the team <b>won</b>_"
+* [fi] _joukkue <b>voitti</b>_ "the team <b>won</b>"
 
 See also <http://scripta.kotus.fi/visk/sisallys.php?p=1523>, <http://scripta.kotus.fi/visk/sisallys.php?p=1530> (in Finnish)
