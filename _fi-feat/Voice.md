@@ -11,7 +11,7 @@ and passive for verbs ([fi-pos/VERB]() and [fi-pos/AUX]()).
 
 Examples:
 
-* [fi] _<b>valita</b> paikka_ "<b>select</b> a place_"
+* [fi] _<b>valita</b> paikka_ "<b>select</b> a place"
 * [fi] _minä <b>voin</b> käyttää_ "I <b>can</b> use"
 
 ### `Pass`: passive voice
