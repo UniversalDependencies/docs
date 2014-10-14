@@ -43,3 +43,7 @@ through the <a href="u-feat-layers.html">layered feature scheme</a>:
 * <a href="u/ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
 * <a href="u/ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
 * <a href="u/ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
+
+There are automatically generated approximate
+<a href="tagset-conversion/">conversion tables</a>
+from existing tagsets of various languages to the universal part-of-speech tags and features.
