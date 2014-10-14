@@ -3,6 +3,8 @@ layout: base
 title: 'Tagset de::conll2009 conversion to universal POS tags and features'
 ---
 
+<small><a href="index.html">all tables</a></small>
+
 ## Tagset de::conll2009
 
 **Disclaimer:**
