@@ -10,7 +10,7 @@ expresses a semantic relationship between them.
 
 ### Examples
 
-* _ja_
-* _tai_
+* _ja_ "and"
+* _tai_ "or"
 
 (This language-specific documentation is work in progress.)

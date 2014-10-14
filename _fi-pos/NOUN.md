@@ -9,8 +9,8 @@ animal or idea.
 
 ### Examples
 
-* _tyttö_
-* _kissa_
-* _puu_
+* _tyttö_ "girl"
+* _kissa_ "cat"
+* _puu_ "tree"
 
 (This language-specific documentation is work in progress.)
