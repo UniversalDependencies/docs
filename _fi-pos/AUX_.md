@@ -21,4 +21,3 @@ _mahtaa_ ("be+probably, may"), _olla_ ("be") and _aikoa_ ("be going to").
 * _<b>täytyy</b> tehdä_ "<b>must</b> do" 
 * _<b>olemme</b> tehneet_ "we <b>have</b> done"
 * _<b>olisi pitänyt</b> tehdä_ "<b>would have had</b> to do"
-

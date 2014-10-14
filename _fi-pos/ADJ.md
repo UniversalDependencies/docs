@@ -9,8 +9,8 @@ properties or attributes.
 
 ### Examples
 
-* _suuri_
-* _vanha_
-* _vihreä_
+* _suuri_ "big"
+* _vanha_ "old"
+* _vihreä_ "green"
 
 (This language-specific documentation is work in progress.)

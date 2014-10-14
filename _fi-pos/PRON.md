@@ -10,7 +10,7 @@ extralinguistic context.
 
 ### Examples
 
-* personal pronouns: _minä, sinä, hän, se, me, te, he_
+* personal pronouns: _minä, sinä, hän, se, me, te, he_ "I, you, he/she, it, we, you, they"
 * TODO
 
 (This language-specific documentation is work in progress.)

@@ -11,7 +11,7 @@ number, such as quantity, sequence, frequency or fraction.
 ### Examples
 
 * _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
-* _yksi, kaksi, kolme_
+* _yksi, kaksi, kolme_ "one, two, three"
 * _I, II, III, IV, V, MMXIV_
 
 (This language-specific documentation is work in progress.)

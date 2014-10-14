@@ -4,8 +4,8 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-Determiners are words that modify <a href="NOUN.html">nouns</a> or
-noun phrases and express the reference of the noun phrase in context.
+Determiners are words that modify [nouns](NOUN) or noun phrases and
+express the reference of the noun phrase in context.
 
 ### Examples
 

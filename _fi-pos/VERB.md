@@ -11,7 +11,7 @@ may occur in the clause.
 
 ### Examples
 
-* _juosta, syödä_
+* _juosta, syödä_ "run, eat"
 * TODO
 
 (This language-specific documentation is work in progress.)
