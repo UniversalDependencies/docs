@@ -4,9 +4,14 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-`Tense` specifies the time when the action took / takes / will take
-place, in relation to the current moment or to another action in the
+The `Tense` feature applies to verbs ([VERB]() and [AUX]()),
+specifying the time when the action took or takes place, in
+relation to the current moment or to another action in the
 utterance.
+
+`Tense` does not apply to non-finite verbs (infinitives and
+participles), the negation verb *ei*, or verbs in the
+conditional, imperative, or potential forms.
 
 ### Pres: present tense
 
@@ -15,7 +20,7 @@ usually happen.
 
 Examples:
 
-* [fi] _järjestelmä **toimii**_ “_the system **works**_”
+* [fi] _järjestelmä <b>toimii</b>_ "_the system <b>works</b>_"
 
 ### Past: past tense / preterite
 
@@ -24,4 +29,6 @@ moment.
 
 Examples:
 
-* [fi] _joukkue **voitti**_ “_the team **won**_”
+* [fi] _joukkue <b>voitti</b>_ "_the team <b>won</b>_"
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1523>, <http://scripta.kotus.fi/visk/sisallys.php?p=1530> (in Finnish)
