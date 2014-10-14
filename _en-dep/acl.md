@@ -22,3 +22,11 @@ acl(Points, establish)
 I don't have anything to say to you
 acl(anything, say)
 ~~~
+
+~~~ sdparse
+I admire the fact that you are honest 
+acl(fact, honest) 
+mark(honest, that) 
+cop(honest, are) 
+nsubj(honest, you) 
+~~~

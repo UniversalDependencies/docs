@@ -10,3 +10,9 @@ A clausal complement of a verb or adjective is a dependent clause with an intern
 He says that you like to swim
 ccomp(says, like)
 ~~~
+
+~~~ sdparse
+I am certain that he did it 
+ccomp(certain, did) 
+mark(did, that) 
+~~~
