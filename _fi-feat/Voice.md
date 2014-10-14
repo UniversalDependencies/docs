@@ -5,16 +5,18 @@ shortdef: 'voice'
 ---
 
 The `Voice` feature captures the distinction between active
-and passive for [verbs](fi-pos/VERB).
+and passive for verbs ([fi-pos/VERB]() and [fi-pos/AUX]()).
 
 ### `Act`: active voice
 
 Examples:
 
-* [fi] _**valita** paikka_ “_**select** a place_”
+* [fi] _<b>valita</b> paikka_ "<b>select</b> a place_"
+* [fi] _minä <b>voin</b> käyttää_ "I <b>can</b> use"
 
 ### `Pass`: passive voice
 
 Examples:
 
-* [fi] _paikka on **valittu**_ “_a place has been **selected**_”
+* [fi] _paikka on <b>valittu</b>_ "a place has been <b>selected</b>"
+* [fi] _sitä <b>voidaan</b> käyttää_ "it <b>can</b> be used"
