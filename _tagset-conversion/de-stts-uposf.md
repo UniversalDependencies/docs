@@ -3,7 +3,7 @@ layout: base
 title: 'Tagset de::stts conversion to universal POS tags and features'
 ---
 
-<small><a href="index.html">all tables</a></small>
+<a href="index.html">all tables</a>
 
 ## Tagset de::stts
 
