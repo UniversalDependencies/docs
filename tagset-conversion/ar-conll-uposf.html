@@ -1,0 +1,385 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Tagset ar::conll conversion to universal POS tags and features</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_tagset-conversion/ar-conll-uposf.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <p><a href="index.html">all tables</a></p>
+
+<h2 id="tagset-arconll">Tagset ar::conll</h2>
+
+<p><strong>Disclaimer:</strong>
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.</p>
+
+<p>Tagset <tt>ar::conll</tt>, total 242 tags.</p>
+
+<table>
+  <tr style="background:lightgray"><td>A A _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>بعض_bED, أكثر_&gt;kvr, أخرى_&gt;xrY, إجمالي_&lt;jmAly, أكبر_&gt;kbr</em></td></tr>
+  <tr><td>A A case=1|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def</td><td><em>الأَمْرِيكِيُّ_Al&gt;amoriykiy~u, الفِلَسْطِينِيُّ_AlfilasoTiyniy~u, المِصْرِيُّ_AlmiSoriy~u, اللُبْنانِيُّ_AllubonAniy~u, التُرْكِيُّ_Alturokiy~u</em></td></tr>
+  <tr style="background:lightgray"><td>A A case=1|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind</td><td><em>صَحِيحٌ_SaHiyHN, صادِرٌ_SAdirN, واضِحٌ_wADiHN, جَدِيرٌ_jadiyrN, عِراقِيٌّ_EirAqiy~N</em></td></tr>
+  <tr><td>A A case=1|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red</td><td><em>أَهَمُّ_&gt;aham~u, جَدِيدُ_jadiydu, أَكْثَرُ_&gt;akovaru</em></td></tr>
+  <tr style="background:lightgray"><td>A A case=2|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def</td><td><em>الدُوَلِيِّ_Alduwaliy~i, العِراقِيِّ_AlEirAqiy~i, الأَمْرِيكِيِّ_Al&gt;amoriykiy~i, العَرَبِيِّ_AlEarabiy~i, الشامِلِ_Al$Amili</em></td></tr>
+  <tr><td>A A case=2|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind</td><td><em>جَدِيدٍ_jadiydK, مُمْكِنٍ_mumokinK, دُوَلِيٍّ_duwaliy~K, سِياسِيٍّ_siyAsiy~K, شامِلٍ_$AmilK</em></td></tr>
+  <tr style="background:lightgray"><td>A A case=2|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red</td><td><em>مُخْتَلِفِ_muxotalifi, أَكْثَرِ_&gt;akovari, أَسْرَعِ_&gt;asoraEi, كِبارِ_kibAri, أَكْبَرِ_&gt;akobari</em></td></tr>
+  <tr><td>A A case=4|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def</td><td><em>الآخَرَ_Al|xara, المُقْبِلَ_Almuqobila, العِراقِيَّ_AlEirAqiy~a, الأُورُوبِّيَّ_Al&gt;uwruwb~iy~a, الوَحِيدَ_AlwaHiyda</em></td></tr>
+  <tr style="background:lightgray"><td>A A case=4|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind</td><td><em>أَسْوَأً_&gt;asowa&gt;F</em></td></tr>
+  <tr><td>A A case=4|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red</td><td><em>آخَرَ_|xara, أَكْبَرَ_&gt;akobara, أَكْثَرَ_&gt;akovara, عامِلَ_EAmila, عامَّ_EAm~a</em></td></tr>
+  <tr style="background:lightgray"><td>A A def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def</td><td><em>الماضي_AlmADy, المصري_AlmSry, الحالي_AlHAly, الأمريكي_Al&gt;mryky, العام_AlEAm</em></td></tr>
+  <tr><td>A A gen=F|num=D|case=1|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Dual</td><td><em>اثنتان_AvntAn, اِثْنَتانِ_AivonatAni</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=D|case=2|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td><em>العالَمِيَّتَيْنِ_AlEAlamiy~atayoni</em></td></tr>
+  <tr><td>A A gen=F|num=D|def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Dual</td><td><em>المقبلتين_Almqbltyn, السابقتين_AlsAbqtyn</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td><em>كُبْرَيات_kuborayAt, آليات_|lyAt, أدبيات_&gt;dbyAt, مرجعيات_mrjEyAt, أمنيات_&gt;mnyAt</em></td></tr>
+  <tr><td>A A gen=F|num=P|def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td><em>السعوديات_AlsEwdyAt, الإِطْفائِيّات_Al&lt;iTofA}iy~At, العمانيات_AlEmAnyAt, المَبْدَئِيّات_Almaboda}iy~At, الإماراتيات_Al&lt;mArAtyAt</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><em>جديدة_jdydp, عدة_Edp, ثلاثة_vlAvp, أمريكية_&gt;mrykyp, سياسية_syAsyp</em></td></tr>
+  <tr><td>A A gen=F|num=S|case=1|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td><em>المُتَّحِدَةُ_Almut~aHidapu, السُورِيَّةُ_Alsuwriy~apu, الأَمْرِيكِيَّةُ_Al&gt;amoriykiy~apu, العَرَبِيَّةُ_AlEarabiy~apu, العِراقِيَّةُ_AlEirAqiy~apu</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S|case=1|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>مُسْتَعِدَّةٌ_musotaEid~apN, عَدِيدَةٌ_EadiydapN, تَقْلِيدِيَّةٌ_taqoliydiy~apN, قَوِيَّةٌ_qawiy~apN, جَدِيدَةٌ_jadiydapN</em></td></tr>
+  <tr><td>A A gen=F|num=S|case=1|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td><em>بالِغَةُ_bAligapu</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S|case=2|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td><em>المُتَّحِدَةِ_Almut~aHidapi, العَرَبِيَّةِ_AlEarabiy~api, الفِلَسْطِينِيَّةِ_AlfilasoTiyniy~api, العِراقِيَّةِ_AlEirAqiy~api, الأَمْرِيكِيَّةِ_Al&gt;amoriykiy~api</em></td></tr>
+  <tr><td>A A gen=F|num=S|case=2|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>جَدِيدَةٍ_jadiydapK, حُرَّةٍ_Hur~apK, عِراقِيَّةٍ_EirAqiy~apK, كَبِيرَةٍ_kabiyrapK, عَسْكَرِيَّةٍ_Easokariy~apK</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S|case=2|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A gen=F|num=S|case=4|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td><em>المُتَّحِدَةَ_Almut~aHidapa, العِراقِيَّةَ_AlEirAqiy~apa, الإِسْرائِيلِيَّةَ_Al&lt;isorA}iyliy~apa, العَرَبِيَّةَ_AlEarabiy~apa, السُورِيَّةَ_Alsuwriy~apa</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S|case=4|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>جَدِيدَةً_jadiydapF, مُقارَنَةً_muqAranapF, مُباشِرَةً_mubA$irapF, صِناعِيَّةً_SinAEiy~apF, دِينِيَّةً_diyniy~apF</em></td></tr>
+  <tr><td>A A gen=F|num=S|case=4|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td><em>مُشَكَّلَةَ_mu$ak~alapa</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S|def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td><em>المصرية_AlmSryp, الأمريكية_Al&gt;mrykyp, العربية_AlErbyp, الإسلامية_Al&lt;slAmyp, الاقتصادية_AlAqtSAdyp</em></td></tr>
+  <tr><td>A A gen=M|num=D|case=1|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td><em>العراقيان_AlErAqyAn, الاثنان_AlAvnAn</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=D|case=1|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>حَيّانِ_Hay~Ani, عِراقِيّانِ_EirAqiy~Ani, اثنان_AvnAn</em></td></tr>
+  <tr><td>A A gen=M|num=D|case=1|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Dual</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=D|case=2|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td><em>الماضِيَيْنِ_AlmADiyayoni, الدُوَلِيَّيْنِ_Alduwaliy~ayoni, الأُولىَيْنِ_Al&gt;uwlYayoni, التَقْلِيدِيَّيْنِ_Altaqoliydiy~ayoni, الطِبِّيَّيْنِ_AlTib~iy~ayoni</em></td></tr>
+  <tr><td>A A gen=M|num=D|case=2|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>قادِمَيْنِ_qAdimayoni, آخَرَيْنِ_|xarayoni, مُعَيَّنَيْنِ_muEay~anayoni</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=D|case=4|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Dual</td><td><em>الأَمْرِيكِيَّيْنِ_Al&gt;amoriykiy~ayoni</em></td></tr>
+  <tr><td>A A gen=M|num=D|case=4|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>كَبِيرَيْنِ_kabiyrayoni, آخَرَيْنِ_|xarayoni</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=D|def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Dual</td><td><em>الماضيين_AlmADyyn, العسكريين_AlEskryyn, الصليبيين_AlSlybyyn, الدوليين_Aldwlyyn, الموقعين_AlmwqEyn</em></td></tr>
+  <tr><td>A A gen=M|num=D|def=I</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|Number=Dual</td><td><em>اثنين_Avnyn</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|case=1|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td><em>العِراقِيُّونَ_AlEirAqiy~uwna, اليُونانِيُّونَ_AlyuwnAniy~uwna, الليبراليون_AllybrAlywn, الأمريكيون_Al&gt;mrykywn, المعنيون_AlmEnywn</em></td></tr>
+  <tr><td>A A gen=M|num=P|case=1|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>فِلَسْطِينِيُّونَ_filasoTiyniy~uwna, ليبراليون_lybrAlywn, قادِرُونَ_qAdiruwna, مُصابُونَ_muSAbuwna, سعوديون_sEwdywn</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|case=1|def=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Plur</td><td><em>مُنْتَسِبُو_munotasibuw</em></td></tr>
+  <tr><td>A A gen=M|num=P|case=2|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur</td><td><em>الفِلَسْطِينِيِّيْنَ_AlfilasoTiyniy~iyona, المُشَرَّدِيْنَ_Almu$ar~adiyona, اليُونانِيِّيْنَ_AlyuwnAniy~iyona, الأَمْرِيكِيِّيْنَ_Al&gt;amoriykiy~iyona, المُسَلَّحِينَ_Almusal~aHiyna</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|case=2|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>عِراقِيِّيْنَ_EirAqiy~iyona, حُكُومِيِّيْنَ_Hukuwmiy~iyona, هامِشِيِّينَ_hAmi$iy~iyna, إِسْرائِيلِيِّيْنَ_&lt;isorA}iyliy~iyona, فِلَسْطِينِيِّيْنَ_filasoTiyniy~iyona</em></td></tr>
+  <tr><td>A A gen=M|num=P|case=4|def=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur</td><td><em>السُورِيِّيْنَ_Alsuwriy~iyona, الكِيماوِيِّينَ_AlkiymAwiy~iyna, المَحَلِّيِّيْنَ_AlmaHal~iy~iyona, الفِلَسْطِينِيِّيْنَ_AlfilasoTiyniy~iyona, المُسْتَقِلِّيْنَ_Almusotaqil~iyona</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|case=4|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>مُطَّلِعِينَ_muT~aliEiyna</em></td></tr>
+  <tr><td>A A gen=M|num=P|def=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Plur</td><td><em>المعنيين_AlmEnyyn, الإرهابيين_Al&lt;rhAbyyn, الليبراليين_AllybrAlyyn, المصريين_AlmSryyn, المدنيين_Almdnyyn</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|def=I</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|Number=Plur</td><td><em>إرهابيين_&lt;rhAbyyn, إسلاميين_&lt;slAmyyn, مصريين_mSryyn, آخرين_|xryn, عراقيين_ErAqyyn</em></td></tr>
+  <tr><td>A A gen=M|num=P|def=R</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td><em>رفيعي_rfyEy, مسؤولي_ms&amp;wly</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=S|case=4|def=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td><em>حالِيّاً_HAliy~AF, قائِلاً_qA}ilAF, جَيِّداً_jay~idAF, هاتِفِيّاً_hAtifiy~AF, مقررا_mqrrA</em></td></tr>
+  <tr><td>C C _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>و_w, وَ_wa, أَنَّ_&gt;an~a, أَن_&gt;an, إِنَّ_&lt;in~a</em></td></tr>
+  <tr style="background:lightgray"><td>D D _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>نحو_nHw, حَيْثُ_Hayovu, هناك_hnAk, فقط_fqT, هُناكَ_hunAka</em></td></tr>
+  <tr><td>D D case=4|def=R</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Red</td><td><em>الآنَ_Al|na</em></td></tr>
+  <tr style="background:lightgray"><td>D D gen=M|num=S|case=4|def=I</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td><em>خصوصا_xSwSA, حاليا_HAlyA, سنويا_snwyA, أَيْضاً_&gt;ayoDAF, قريبا_qrybA</em></td></tr>
+  <tr><td>- - def=D</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td><em>ال_Al</em></td></tr>
+  <tr style="background:lightgray"><td>F F _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>أن_&gt;n, س_s, إن_&lt;n, سَ_sa, قَد_qad</em></td></tr>
+  <tr><td>F FI _</td><td>=&gt;</td><td>PART</td><td>PronType=Int</td><td><em>هَل_hal, ماذا_mA*A, هل_hl, لماذا_lmA*A, أَيّ_&gt;ay~</em></td></tr>
+  <tr style="background:lightgray"><td>F FN _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>لا_lA, غير_gyr, لم_lm, لَم_lam, لن_ln</em></td></tr>
+  <tr><td>F FN case=1|def=R</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Definite=Red|Negative=Neg</td><td><em>غَيْرُ_gayoru</em></td></tr>
+  <tr style="background:lightgray"><td>F FN case=2|def=R</td><td>=&gt;</td><td>PART</td><td>Case=Gen|Definite=Red|Negative=Neg</td><td><em>غَيْرِ_gayori</em></td></tr>
+  <tr><td>F FN case=4|def=R</td><td>=&gt;</td><td>PART</td><td>Case=Acc|Definite=Red|Negative=Neg</td><td><em>غَيْرَ_gayora</em></td></tr>
+  <tr style="background:lightgray"><td>G G _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>._., ،_,, "_", -_-, :_:</em></td></tr>
+  <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>يا_yA, إِنَّ_&lt;in~a, كَلّا_kal~A</em></td></tr>
+  <tr style="background:lightgray"><td>I I gen=M|num=S|case=4|def=I</td><td>=&gt;</td><td>INTJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td><em>طَبْعاً_TaboEAF</em></td></tr>
+  <tr><td>N N _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>مايُو_mAyuw, دولار_dwlAr, مليون_mlywn, يوم_ywm, رئيس_r}ys</em></td></tr>
+  <tr style="background:lightgray"><td>N N case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def</td><td><em>الرَئِيسُ_Alra}iysu, الوَزِيرُ_Alwaziyru, البَيانُ_AlbayAnu, الوَضْعُ_AlwaDoEu, المَصادِرُ_AlmaSAdiru</em></td></tr>
+  <tr><td>N N case=1|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind</td><td><em>تَقْرِيرٌ_taqoriyrN, بَيانٌ_bayAnN, مَسْؤُولٌ_maso&amp;uwlN, أَمْرٌ_&gt;amorN, بَلَدٌ_baladN</em></td></tr>
+  <tr style="background:lightgray"><td>N N case=1|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red</td><td><em>وَزِيرُ_waziyru, رَئِيسُ_ra}iysu, مَشْرُوعُ_ma$oruwEu, كُلُّ_kul~u, حَجْمُ_Hajomu</em></td></tr>
+  <tr><td>N N case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def</td><td><em>السَلامِ_AlsalAmi, الشَرْقِ_Al$aroqi, الحَرْبِ_AlHarobi, الرَئِيسِ_Alra}iysi, العالَمِ_AlEAlami</em></td></tr>
+  <tr style="background:lightgray"><td>N N case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind</td><td><em>دُولارٍ_duwlArK, وَقْتٍ_waqotK, مُؤْتَمَرٍ_mu&amp;otamarK, قَرارٍ_qarArK, عَدَدٍ_EadadK</em></td></tr>
+  <tr><td>N N case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red</td><td><em>كُلِّ_kul~i, أَيِّ_&gt;ay~i, مَجْلِسِ_majolisi, رَئِيسِ_ra}iysi, نَفْسِ_nafosi</em></td></tr>
+  <tr style="background:lightgray"><td>N N case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def</td><td><em>اليَوْمَ_Alyawoma, السَبْتَ_Alsabota, الوَضْعَ_AlwaDoEa, الرَئِيسَ_Alra}iysa, الاِقْتِراحَ_AlAiqotirAHa</em></td></tr>
+  <tr><td>N N case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind</td><td><em>لِقاءً_liqA'F, أَسْماءً_&gt;asomA'F, سَواءً_sawA'F</em></td></tr>
+  <tr style="background:lightgray"><td>N N case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red</td><td><em>مِلْيُونَ_miloyuwna, عامَ_EAma, يَوْمَ_yawoma, كُلَّ_kul~a, بِلادَ_bilAda</em></td></tr>
+  <tr><td>N N def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def</td><td><em>الإخوان_Al&lt;xwAn, الإرهاب_Al&lt;rhAb, الرئيس_Alr}ys, البلاد_AlblAd, الأعمال_Al&gt;EmAl</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=D|case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Dual</td><td><em>الشركتان_Al$rktAn, الدَوْلَتانِ_AldawolatAni</em></td></tr>
+  <tr><td>N N gen=F|num=D|case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td><em>الدَوْلَتَيْنِ_Aldawolatayoni, الحالَتَيْنِ_AlHAlatayoni, الجَرِيمَتَيْنِ_Aljariymatayoni, الساحَتَيْنِ_AlsAHatayoni</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=D|case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Dual</td><td><em>جَوْلَتَيْنِ_jawolatayoni, كَلِمَتَيْنِ_kalimatayoni, دَوْلَتَيْنِ_dawolatayoni</em></td></tr>
+  <tr><td>N N gen=F|num=D|case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Dual</td><td><em>قُوَّتَيْ_quw~atayo</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=D|case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Dual</td><td><em>الضَحِيَّتَيْنِ_AlDaHiy~atayoni, المَطْلُوبَتَيْنِ_AlmaToluwbatayoni</em></td></tr>
+  <tr><td>N N gen=F|num=D|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Dual</td><td><em>مَرَّتَيْنِ_mar~atayoni</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=D|case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Dual</td><td><em>صِفَتَيْ_Sifatayo</em></td></tr>
+  <tr><td>N N gen=F|num=D|def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Dual</td><td><em>الشركتين_Al$rktyn, السنتين_Alsntyn, الحكومتين_AlHkwmtyn, القائمتين_AlqA}mtyn, المحافظتين_AlmHAfZtyn</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=D|def=I</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Fem|Number=Dual</td><td><em>شركتين_$rktyn, زاويتين_zAwytyn, ركيزتين_rkyztyn, سيارتين_syArtyn, سنتين_sntyn</em></td></tr>
+  <tr><td>N N gen=F|num=D|def=R</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Fem|Number=Dual</td><td><em>حركتي_Hrkty, حملتي_Hmlty, وزارتي_wzArty, شركتي_$rkty, دولتي_dwlty</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td><em>شركات_$rkAt, انتخابات_AntxAbAt, سنوات_snwAt, تصريحات_tSryHAt, إجراءات_&lt;jrA'At</em></td></tr>
+  <tr><td>N N gen=F|num=P|case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الوِلاياتُ_AlwilAyAtu, السُلُطاتُ_AlsuluTAtu, العَلاقاتُ_AlEalAqAtu, المُنَظَّماتُ_AlmunaZ~amAtu, التَصْرِيحاتُ_AltaSoriyHAtu</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P|case=1|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Plur</td><td><em>عَلاقاتٌ_EalAqAtN, طَلَباتٌ_TalabAtN, اِجْتِماعاتٌ_AijotimAEAtN, مَعْلُوماتٌ_maEoluwmAtN, سَنَواتٌ_sanawAtN</em></td></tr>
+  <tr><td>N N gen=F|num=P|case=1|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Plur</td><td><em>قُوّاتُ_quw~Atu, مُنَظَّماتُ_munaZ~amAtu, مُحادَثاتُ_muHAdavAtu, مِئاتُ_mi}Atu, مُؤَسَّساتُ_mu&amp;as~asAtu</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P|case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الوِلاياتِ_AlwilAyAti, العَلاقاتِ_AlEalAqAti, القُوّاتِ_Alquw~Ati, الاِسْتِثْماراتِ_AlAisotivomArAti, العُقُوباتِ_AlEuquwbAti</em></td></tr>
+  <tr><td>N N gen=F|num=P|case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Plur</td><td><em>سَنَواتٍ_sanawAtK, مُحادَثاتٍ_muHAdavAtK, عَلاقاتٍ_EalAqAtK, كَمِّيّاتٍ_kam~iy~AtK, مُنَظَّماتٍ_munaZ~amAtK</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P|case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Plur</td><td><em>وُجُهاتِ_wujuhAti, عَمَلِيّاتِ_Eamaliy~Ati, مُحادَثاتِ_muHAdavAti, قَراراتِ_qarArAti, تَطَوُّراتِ_taTaw~urAti</em></td></tr>
+  <tr><td>N N gen=F|num=P|case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الوِلاياتِ_AlwilAyAti, العَلاقاتِ_AlEalAqAti, المُحادَثاتِ_AlmuHAdavAti, الاِتِّصالاتِ_AlAit~iSAlAti, الاِسْتِعْداداتِ_AlAisotiEodAdAti</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Plur</td><td><em>إِجْراءاتٍ_&lt;ijorA'AtK, قُوّاتٍ_quw~AtK, مُلاحَظاتٍ_mulAHaZAtK, مُحادَثاتٍ_muHAdavAtK, صُعُوباتٍ_SuEuwbAtK</em></td></tr>
+  <tr><td>N N gen=F|num=P|case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Plur</td><td><em>مُعَدَّلاتِ_muEad~alAti, عَلاقاتِ_EalAqAti, قَنَواتِ_qanawAti, مُلاحَظاتِ_mulAHaZAti, اِتِّفاقاتِ_Ait~ifAqAti</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=P|def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td><em>الشركات_Al$rkAt, الانتخابات_AlAntxAbAt, السلطات_AlslTAt, العقوبات_AlEqwbAt, الاتصالات_AlAtSAlAt</em></td></tr>
+  <tr><td>N N gen=F|num=S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td><em>نسبة_nsbp, شركة_$rkp, إعادة_&lt;EAdp, وزارة_wzArp, عملية_Emlyp</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td><em>الوِكالَةُ_AlwikAlapu, الحُكُومَةُ_AlHukuwmapu, الإِرادَةُ_Al&lt;irAdapu, الصَحِيفَةُ_AlSaHiyfapu, المَرَّةُ_Almar~apu</em></td></tr>
+  <tr><td>N N gen=F|num=S|case=1|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>دَوْلَةٌ_dawolapN, مُحاوَلَةٌ_muHAwalapN, إِضافَةٌ_&lt;iDAfapN, دِراسَةٌ_dirAsapN, مُقاوَمَةٌ_muqAwamapN</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|case=1|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td><em>وِكالَةُ_wikAlapu, قادَةُ_qAdapu, وِزارَةُ_wizArapu, مَسْأَلَةُ_maso&gt;alapu, دَعْوَةُ_daEowapu</em></td></tr>
+  <tr><td>N N gen=F|num=S|case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td><em>الخارِجِيَّةِ_AlxArijiy~api, المِنْطَقَةِ_AlminoTaqapi, الحُكُومَةِ_AlHukuwmapi, السُلْطَةِ_AlsuloTapi, الدَوْلَةِ_Aldawolapi</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>حُكُومَةٍ_HukuwmapK, تِجارَةٍ_tijArapK, صُورَةٍ_SuwrapK, زِيارَةٍ_ziyArapK, دَوْلَةٍ_dawolapK</em></td></tr>
+  <tr><td>N N gen=F|num=S|case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td><em>مِنْطَقَةِ_minoTaqapi, إِقامَةِ_&lt;iqAmapi, ضَرُورَةِ_Daruwrapi, عَمَلِيَّةِ_Eamaliy~api, خارِجِيَّةِ_xArijiy~api</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td><em>الجُمْعَةَ_AljumoEapa, المَسْأَلَةَ_Almaso&gt;alapa, القَضِيَّةَ_AlqaDiy~apa, الحُكُومَةَ_AlHukuwmapa, التِجارَةَ_AltijArapa</em></td></tr>
+  <tr><td>N N gen=F|num=S|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>دَوْلَةً_dawolapF, دَقِيقَةً_daqiyqapF, مَرَّةً_mar~apF, تارَةً_tArapF, أَسْئِلَةً_&gt;aso}ilapF</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td><em>مَصْلَحَةَ_maSolaHapa, كافَّةَ_kAf~apa, ضَرُورَةَ_Daruwrapa, زِيارَةَ_ziyArapa, خارِطَةَ_xAriTapa</em></td></tr>
+  <tr><td>N N gen=F|num=S|def=C</td><td>=&gt;</td><td>NOUN</td><td>Definite=Com|Gender=Fem|Number=Sing</td><td><em>الأَهَمِّيَّة_Al&gt;aham~iy~ap</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=F|num=S|def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td><em>الحكومة_AlHkwmp, الحياة_AlHyAp, الشركة_Al$rkp, الدولة_Aldwlp, الجماعة_AljmAEp</em></td></tr>
+  <tr><td>N N gen=M|num=D|case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td><em>الجانِبانِ_AljAnibAni, البندان_AlbndAn, الجانبان_AljAnbAn, الشَعْبانِ_Al$aEobAni, البَلَدانِ_AlbaladAni</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|case=1|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>طِفْلانِ_TifolAni, مقالان_mqAlAn, تطوران_tTwrAn, مَسْئُولانِ_maso}uwlAni, مَسْؤُولانِ_maso&amp;uwlAni</em></td></tr>
+  <tr><td>N N gen=M|num=D|case=1|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Dual</td><td><em>رَئِيسا_ra}iysA, دورا_dwrA, وَزِيرا_waziyrA, وزيرا_wzyrA, موعدا_mwEdA</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td><em>البَلَدَيْنِ_Albaladayoni, الجانِبَيْنِ_AljAnibayoni, الشَعْبَيْنِ_Al$aEobayoni, الطَرَفَيْنِ_AlTarafayoni, الأُسْبُوعَيْنِ_Al&gt;usobuwEayoni</em></td></tr>
+  <tr><td>N N gen=M|num=D|case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>أُسْبُوعَيْنِ_&gt;usobuwEayoni, يَوْمَيْنِ_yawomayoni, مَشْرُوعَيْنِ_ma$oruwEayoni, شَهْرَيْنِ_$ahorayoni, اِتِّفاقَيْنِ_Ait~ifAqayoni</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Dual</td><td><em>جَناحَيْ_janAHayo, نَمَطَيْ_namaTayo</em></td></tr>
+  <tr><td>N N gen=M|num=D|case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Dual</td><td><em>الجانِبَيْنِ_AljAnibayoni, البَلَدَيْنِ_Albaladayoni</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Dual</td><td><em>رَجُلَيْنِ_rajulayoni, يَوْمَيْنِ_yawomayoni, أُسْبُوعَيْنِ_&gt;usobuwEayoni, اِتِّفاقَيْنِ_Ait~ifAqayoni, عَيْنَيْ_Eayonayo</em></td></tr>
+  <tr><td>N N gen=M|num=D|case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Dual</td><td><em>مِلْيارَيْ_miloyArayo</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Masc|Number=Dual</td><td><em>البلدين_Albldyn, الطرفين_AlTrfyn, الجانبين_AljAnbyn, المصرفين_AlmSrfyn, المعتمدين_AlmEtmdyn</em></td></tr>
+  <tr><td>N N gen=M|num=D|def=I</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Masc|Number=Dual</td><td><em>خيارين_xyAryn, عامين_EAmyn, شطرين_$Tryn, طرفي_Trfy, عقدين_Eqdyn</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=D|def=R</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Dual</td><td><em>مجلسي_mjlsy, اتفاقي_AtfAqy, نائبي_nA}by, نجلي_njly, وزيري_wzyry</em></td></tr>
+  <tr><td>N N gen=M|num=P|case=1|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td><em>المُوَظَّفُونَ_AlmuwaZ~afuwna, المسؤولون_Alms&amp;wlwn, المتظاهرون_AlmtZAhrwn, الأمريكيون_Al&gt;mrykywn, المُراقِبُونَ_AlmurAqibuwna</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|case=1|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>مراقبون_mrAqbwn, آخرون_|xrwn, مَسْؤُولُونَ_maso&amp;uwluwna, إسلاميون_&lt;slAmywn, مسؤولون_ms&amp;wlwn</em></td></tr>
+  <tr><td>N N gen=M|num=P|case=1|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Plur</td><td><em>مُوَظَّفُو_muwaZ~afuw, مَسْئُولُو_maso}uwluw, مُساعِدُو_musAEiduw, مقاتلو_mqAtlw, ناخبو_nAxbw</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|case=2|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur</td><td><em>الفِلَسْطِينِيِّيْنَ_AlfilasoTiyniy~iyona, المُسْلِمِيْنَ_Almusolimiyona, العامِلِيْنَ_AlEAmiliyona, المَسِيحِيِّيْنَ_AlmasiyHiy~iyona, الإِسْرائِيلِيِّيْنَ_Al&lt;isorA}iyliy~iyona</em></td></tr>
+  <tr><td>N N gen=M|num=P|case=2|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>مَسْؤُولِيْنَ_maso&amp;uwliyona, عِراقِيِّينَ_EirAqiy~iyna, مَسْئُولِينَ_maso}uwliyna, مُوَظَّفِي_muwaZ~afiy, مُرْسِلِي_murosiliy</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|case=2|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Plur</td><td><em>مُحامِي_muHAmiy, مُفَتِّشِي_mufat~i$iy, مُراقِبِي_murAqibiy, مُدَرِّبِي_mudar~ibiy, مُوَظَّفِي_muwaZ~afiy</em></td></tr>
+  <tr><td>N N gen=M|num=P|case=4|def=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur</td><td><em>المَسْؤُولِيْنَ_Almaso&amp;uwliyona, المُسْلِمِيْنَ_Almusolimiyona, المُعَلِّمِيْنَ_AlmuEal~imiyona, السُوِيسرِيِّينَ_Alsuwiysriy~iyna, المُسْتَثْمِرِيْنَ_Almusotavomiriyona</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Plur</td><td><em>دِيبلُوماسِيِّيْنَ_diybluwmAsiy~iyona, مُرادِفِينَ_murAdifiyna, مُنْتَفِعِينَ_munotafiEiyna, مُوالِينَ_muwAliyna</em></td></tr>
+  <tr><td>N N gen=M|num=P|case=4|def=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Plur</td><td><em>مُوَظَّفِي_muwaZ~afiy</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|def=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Masc|Number=Plur</td><td><em>المحامين_AlmHAmyn, الإسلاميين_Al&lt;slAmyyn, المرشحين_Almr$Hyn, العاملين_AlEAmlyn, المسؤولين_Alms&amp;wlyn</em></td></tr>
+  <tr><td>N N gen=M|num=P|def=I</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind|Gender=Masc|Number=Plur</td><td><em>مسؤولين_ms&amp;wlyn, صحافيين_SHAfyyn, ناشطين_nA$Tyn, عشرين_E$ryn, متطرفين_mtTrfyn</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=M|num=P|def=R</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td><em>محدودي_mHdwdy, مرشحي_mr$Hy, راعي_rAEy, مالكي_mAlky, منتجي_mntjy</em></td></tr>
+  <tr><td>N N gen=M|num=S|case=4|def=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td><em>مشيرا_m$yrA, مشددا_m$ddA, لافتا_lAftA, مؤكدا_m&amp;kdA, عاما_EAmA</em></td></tr>
+  <tr style="background:lightgray"><td>P P _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>في_fy, ل_l, فِي_fiy, ب_b, من_mn</em></td></tr>
+  <tr><td>P P case=2</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td><em>بين_byn</em></td></tr>
+  <tr style="background:lightgray"><td>P P case=4</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc</td><td><em>بين_byn, تحت_tHt, عند_End</em></td></tr>
+  <tr><td>P P gen=F|num=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Fem|Number=Sing</td><td><em>قُبالَة_qubAlap</em></td></tr>
+  <tr style="background:lightgray"><td>Q Q _</td><td>=&gt;</td><td>NUM</td><td>_</td><td><em>3_3, 9_9, 2_2, 4_4, 1_1</em></td></tr>
+  <tr><td>S SD gen=F</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|PronType=Dem</td><td><em>هٰذِهِ_h`*ihi, هَذه_ha*h</em></td></tr>
+  <tr style="background:lightgray"><td>S SD gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>تلك_tlk, تِلْكَ_tiloka</em></td></tr>
+  <tr><td>S SD gen=M|num=D</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Dual|PronType=Dem</td><td><em>هَذان_ha*An</em></td></tr>
+  <tr style="background:lightgray"><td>S SD gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>هٰؤُلاءِ_h`&amp;ulA'i, هَؤلاء_ha&amp;lA', أُولَئِكَ_&gt;uwla}ika, أولئك_&gt;wl}k</em></td></tr>
+  <tr><td>S SD gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>هَذا_ha*A, ذَلك_*alk, هٰذا_h`*A, ذٰلِكَ_*`lika, ذي_*y</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=1|num=P</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td><em>نا_nA, نحن_nHn</em></td></tr>
+  <tr><td>S S pers=1|num=P|case=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs</td><td><em>نَحْنُ_naHonu</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=1|num=P|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em>نا_nA, ّا_~A</em></td></tr>
+  <tr><td>S S pers=1|num=P|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs</td><td><em>نا_nA, ُنا_unA</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=1|num=S</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td><em>أنا_&gt;nA, ني_ny</em></td></tr>
+  <tr><td>S S pers=1|num=S|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em>ي_y, ِي_iy</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=1|num=S|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs</td><td><em>ني_ny, نِي_niy</em></td></tr>
+  <tr><td>S S pers=2|gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=2|PronType=Prs</td><td><em>ك_k</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=2|gen=F|num=S|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=2|PronType=Prs</td><td><em>ك_k</em></td></tr>
+  <tr><td>S S pers=2|gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td><em>كم_km</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=2|gen=M|num=P|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td><em>كم_km</em></td></tr>
+  <tr><td>S S pers=3|gen=F|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>هن_hn</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>ها_hA, هي_hy</em></td></tr>
+  <tr><td>S S pers=3|gen=F|num=S|case=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>هِيَ_hiya</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=F|num=S|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>ها_hA</em></td></tr>
+  <tr><td>S S pers=3|gen=F|num=S|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>ها_hA</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>هم_hm</em></td></tr>
+  <tr><td>S S pers=3|gen=M|num=P|case=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>هُم_hum</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=M|num=P|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>هم_hm, هُم_hum, هِم_him</em></td></tr>
+  <tr><td>S S pers=3|gen=M|num=P|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>هُم_hum, هم_hm</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>ه_h, هو_hw</em></td></tr>
+  <tr><td>S S pers=3|gen=M|num=S|case=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>هُوَ_huwa</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|gen=M|num=S|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>ه_h, هُ_hu, هِ_hi</em></td></tr>
+  <tr><td>S S pers=3|gen=M|num=S|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>هُ_hu, ه_h</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|num=D</td><td>=&gt;</td><td>PRON</td><td>Number=Dual|Person=3|PronType=Prs</td><td><em>هما_hmA</em></td></tr>
+  <tr><td>S S pers=3|num=D|case=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Dual|Person=3|PronType=Prs</td><td><em>هُما_humA</em></td></tr>
+  <tr style="background:lightgray"><td>S S pers=3|num=D|case=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Dual|Person=3|PronType=Prs</td><td><em>هُما_humA, هما_hmA, هِما_himA</em></td></tr>
+  <tr><td>S S pers=3|num=D|case=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Dual|Person=3|PronType=Prs</td><td><em>هِما_himA, هُما_humA, هما_hmA</em></td></tr>
+  <tr style="background:lightgray"><td>S SR _</td><td>=&gt;</td><td>PRON</td><td>PronType=Rel</td><td><em>ما_mA, التي_Alty, الذي_Al*y, الَّتِي_Al~atiy, أي_&gt;y</em></td></tr>
+  <tr><td>V VI mood=D|pers=2|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=2|VerbForm=Fin</td><td><em>تشاركوا_t$ArkwA</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=D|pers=3|gen=M|num=D</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Dual|Person=3|VerbForm=Fin</td><td><em>يَسْتَطِيعا_yasotaTiyEA, يَتَطَرَّقا_yataTar~aqA, يَظَلّا_yaZal~A, يقدما_yqdmA</em></td></tr>
+  <tr><td>V VI mood=D|pers=3|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=3|VerbForm=Fin</td><td><em>يَجِدُوا_yajiduwA, يصمتوا_ySmtwA, يُثْبِتُوا_yuvobituwA, يَثِقُوا_yaviquwA, يَجْعَلُوا_yajoEaluwA</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|pers=1|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin</td><td><em>نُرِيدُ_nuriydu, نَجِدُ_najidu, نُحاوِلُ_nuHAwilu, نَقْبَلُ_naqobalu, نَعِيشُ_naEiy$u</em></td></tr>
+  <tr><td>V VI mood=I|pers=1|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin</td><td><em>أَقُولُ_&gt;aquwlu, أَكادُ_&gt;akAdu</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|pers=2|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin</td><td><em>تدفعون_tdfEwn, تشترطون_t$trTwn</em></td></tr>
+  <tr><td>V VI mood=I|pers=2|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin</td><td><em>تَتَطَلَّبُ_tataTal~abu</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|pers=3|gen=F|num=D</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin</td><td><em>تدرسان_tdrsAn, تَسْمَحانِ_tasomaHAni, تصدران_tSdrAn, تجعلان_tjElAn</em></td></tr>
+  <tr><td>V VI mood=I|pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</td><td><em>تَكُونُ_takuwnu, تُرِيدُ_turiydu, تُصِرُّ_tuSir~u, تَقِلُّ_taqil~u, تَعْمَلُ_taEomalu</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|pers=3|gen=M|num=D</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin</td><td><em>يُشِيرانِ_yu$iyrAni, يَبْحَثانِ_yaboHavAni, يَجْتَمِعانِ_yajotamiEAni, يَعْتَقِدانِ_yaEotaqidAni, يُناقِشانِ_yunAqi$Ani</em></td></tr>
+  <tr><td>V VI mood=I|pers=3|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin</td><td><em>يسعون_ysEwn, يَعِيشُونَ_yaEiy$uwna, يُقِيمُونَ_yuqiymuwna, يزورون_yzwrwn, يعملون_yEmlwn</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</td><td><em>يُمْكِنُ_yumokinu, يَجِبُ_yajibu, يَكُونُ_yakuwnu, يَتَعَلَّقُ_yataEal~aqu, يَقُومُ_yaquwmu</em></td></tr>
+  <tr><td>V VI mood=I|voice=P|pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em>تُعَدُّ_tuEad~u, تُبْذَلُ_tubo*alu, تُعْتَبَرُ_tuEotabaru, تُسْتَخْدَمُ_tusotaxodamu, تُعْقَدُ_tuEoqadu</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=I|voice=P|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em>يُذْكَرُ_yu*okaru, يُعْتَقَدُ_yuEotaqadu, يُفْتَرَضُ_yufotaraDu, يُعْتَبَرُ_yuEotabaru, يُمارَسُ_yumArasu</em></td></tr>
+  <tr><td>V VI mood=S|pers=1|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin</td><td><em>نَقْبَلَ_naqobala, نَعْمَلَ_naEomala, نَرْفُضَ_narofuDa</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=S|pers=1|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin</td><td><em>أَجْتَمِعَ_&gt;ajotamiEa</em></td></tr>
+  <tr><td>V VI mood=S|pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td><em>تُعْلِنَ_tuEolina, تَضَعَ_taDaEa, تَكُونَ_takuwna, تُصْبِحَ_tuSobiHa, تَتَراجَعَ_tatarAjaEa</em></td></tr>
+  <tr style="background:lightgray"><td>V VI mood=S|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td><em>يَكُونَ_yakuwna, يَصِلَ_yaSila, يَتَحَقَّقَ_yataHaq~aqa, يَخْرُجَ_yaxoruja, يَنْسَحِبَ_yanosaHiba</em></td></tr>
+  <tr><td>V VI mood=S|voice=P|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em>يُضْطَرَّ_yuDoTar~a, يُفَسَّرَ_yufas~ara, يُسَجَّلَ_yusaj~ala</em></td></tr>
+  <tr style="background:lightgray"><td>V VI pers=1|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=1</td><td><em>نقدم_nqdm, نسمح_nsmH, نعرف_nErf, نَتَمَكَّن_natamak~an, نَطْلُب_naTolub</em></td></tr>
+  <tr><td>V VI pers=1|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|Person=1</td><td><em>أَوَدّ_&gt;awad~, أبلغ_&gt;blg, أُدْرِك_&gt;udorik, أوضح_&gt;wDH, أنصح_&gt;nSH</em></td></tr>
+  <tr style="background:lightgray"><td>V VI pers=2|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2</td><td><em>تقول_tqwl, تستخدم_tstxdm</em></td></tr>
+  <tr><td>V VI pers=3|gen=F|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Plur|Person=3</td><td><em>يشكلن_y$kln, يمكنن_ymknn, يتكونن_ytkwnn</em></td></tr>
+  <tr style="background:lightgray"><td>V VI pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3</td><td><em>تكون_tkwn, تقدم_tqdm, تعرض_tErD, تصل_tSl, تقدر_tqdr</em></td></tr>
+  <tr><td>V VI pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3</td><td><em>يكون_ykwn, يتم_ytm, يعني_yEny, يمكن_ymkn, يتوقع_ytwqE</em></td></tr>
+  <tr style="background:lightgray"><td>V VI voice=P|pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>V VI voice=P|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass</td><td><em>يُسَمَّى_yusam~aY, يُحَدَّد_yuHad~ad</em></td></tr>
+  <tr style="background:lightgray"><td>V VP pers=1|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|Person=1</td><td><em>لسنا_lsnA, تعاملنا_tEAmlnA, نجحنا_njHnA, جربنا_jrbnA, صِرنا_SirnA</em></td></tr>
+  <tr><td>V VP pers=1|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=1</td><td><em>أَرَدتُ_&gt;aradtu, سَمِعتُ_samiEtu, أتممت_&gt;tmmt, قَرَأتُ_qara&gt;tu, نشرت_n$rt</em></td></tr>
+  <tr style="background:lightgray"><td>V VP pers=2|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=2</td><td><em>كنتم_kntm</em></td></tr>
+  <tr><td>V VP pers=3|gen=F|num=D</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Dual|Person=3</td><td><em>اتفقتا_AtfqtA, أكدتا_&gt;kdtA, تعرضتا_tErDtA, وقعتا_wqEtA, باشرتا_bA$rtA</em></td></tr>
+  <tr style="background:lightgray"><td>V VP pers=3|gen=F|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Plur|Person=3</td><td><em>أعلنن_&gt;Elnn, مثلن_mvln, أَعَلنَ_&gt;aEalna, حضرن_HDrn, منعن_mnEn</em></td></tr>
+  <tr><td>V VP pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3</td><td><em>كانت_kAnt, كانَت_kAnat, علمت_Elmt, قالت_qAlt, أكدت_&gt;kdt</em></td></tr>
+  <tr style="background:lightgray"><td>V VP pers=3|gen=M|num=D</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Dual|Person=3</td><td><em>تلقيا_tlqyA, أَكَّدا_&gt;ak~adA, بحثا_bHvA, أثارا_&gt;vArA, سَبَقا_sabaqA</em></td></tr>
+  <tr><td>V VP pers=3|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3</td><td><em>كانوا_kAnwA, كانُوا_kAnuwA, أكدوا_&gt;kdwA, طالبوا_TAlbwA, لجأوا_lj&gt;wA</em></td></tr>
+  <tr style="background:lightgray"><td>V VP pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3</td><td><em>قال_qAl, كان_kAn, قالَ_qAla, كانَ_kAna, أكد_&gt;kd</em></td></tr>
+  <tr><td>V VP voice=P|pers=3|gen=F|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Pass</td><td><em>وُصِفَت_wuSifat, عُقِدَت_Euqidat, ضُبِطَت_DubiTat, فُرِضَت_furiDat</em></td></tr>
+  <tr style="background:lightgray"><td>V VP voice=P|pers=3|gen=M|num=P</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>V VP voice=P|pers=3|gen=M|num=S</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass</td><td><em>عُقِدَ_Euqida, اُتُّهِمَ_Aut~uhima, عُرِفَ_Eurifa, نُقِلَ_nuqila, قُدِّمَ_qud~ima</em></td></tr>
+  <tr style="background:lightgray"><td>X X _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>"_", ._., ،_,, {_{, }_}</em></td></tr>
+  <tr><td>Y Y _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>أي_&gt;y, بي_by, سي_sy, جي_jy, سِي_siy</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>مصر_mSr, باوِل_bAwil, عبد_Ebd, إسرائيل_&lt;srA}yl, واشنطن_wA$nTn</em></td></tr>
+  <tr><td>Z Z case=1|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def</td><td><em>الكُوَيْتُ_Alkuwayotu, العِراقُ_AlEirAqu, الصِينُ_AlSiynu, السُودانُ_AlsuwdAnu, الأُمَمُ_Al&gt;umamu</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z case=1|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Ind</td><td><em>إِيرانٌ_&lt;iyrAnN, مُحَمَّدٌ_muHam~adN, جِهادٌ_jihAdN, سُلَيْمانٌ_sulayomAnN, خالِدٌ_xAlidN</em></td></tr>
+  <tr><td>Z Z case=1|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Red</td><td><em>بَغْدادُ_bagodAdu, لُبْنانُ_lubonAnu, دِمَشْقُ_dima$oqu, إِسْرائِيلُ_&lt;isorA}iylu, بَيْرُوتُ_bayoruwtu</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z case=2|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def</td><td><em>العِراقِ_AlEirAqi, الأُمَمِ_Al&gt;umami, الصِينِ_AlSiyni, الاِتِّحادِ_AlAit~iHAdi, الكُوَيْتِ_Alkuwayoti</em></td></tr>
+  <tr><td>Z Z case=2|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Ind</td><td><em>باكِسْتانٍ_bAkisotAnK, إِيرانٍ_&lt;iyrAnK, مُحَمَّدٍ_muHam~adK, عِراقٍ_EirAqK, حَماسٍ_HamAsK</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z case=2|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Red</td><td><em>دِمَشْقِ_dima$oqi, لُبْنانِ_lubonAni, إِسْرائِيلِ_&lt;isorA}iyli, بَغْدادِ_bagodAdi, اللّٰهِ_All~`hi</em></td></tr>
+  <tr><td>Z Z case=4|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Def</td><td><em>السُودانَ_AlsuwdAna, العِراقَ_AlEirAqa, الكُوَيْتَ_Alkuwayota, الاِتِّحادَ_AlAit~iHAda, الهِنْدَ_Alhinoda</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z case=4|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Red</td><td><em>لُبْنانَ_lubonAna, إِسْرائِيلَ_&lt;isorA}iyla, بَيْرُوتَ_bayoruwta, إِيرانَ_&lt;iyrAna, مِصْرَ_miSora</em></td></tr>
+  <tr><td>Z Z def=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def</td><td><em>العراق_AlErAq, الشيخ_Al$yx, الكويت_Alkwyt, الجهاد_AljhAd, السيد_Alsyd</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=D|case=2|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td><em>الكُورِيَّتَيْنِ_Alkuwriy~atayoni</em></td></tr>
+  <tr><td>Z Z gen=F|num=P|case=1|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الإِماراتُ_Al&lt;imArAtu</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=P|case=1|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Plur</td><td><em>سُورِيَّةٌ_suwriy~apN, غَزَّةٌ_gaz~apN, سِنْغافُورَةٌ_sinogAfuwrapN, أَنْقَرَةٌ_&gt;anoqarapN</em></td></tr>
+  <tr><td>Z Z gen=F|num=P|case=2|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الإِماراتِ_Al&lt;imArAti</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=P|case=4|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur</td><td><em>الإِماراتِ_Al&lt;imArAti</em></td></tr>
+  <tr><td>Z Z gen=F|num=P|case=4|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Plur</td><td><em>أَنْقَرَةً_&gt;anoqarapF, سُورِيَّةً_suwriy~apF</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=P|def=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td><em>الولايات_AlwlAyAt, الإمارات_Al&lt;mArAt, الإِمارات_Al&lt;imArAt</em></td></tr>
+  <tr><td>Z Z gen=F|num=S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Fem|Number=Sing</td><td><em>أنقرة_&gt;nqrp, جدة_jdp, انتفاضة_AntfADp, إمارة_&lt;mArp, غزة_gzp</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=S|case=1|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td><em>القاهِرَةُ_AlqAhirapu, الحَياَةُ_AlHayAapu, السَعُودِيَّةُ_AlsaEuwdiy~apu</em></td></tr>
+  <tr><td>Z Z gen=F|num=S|case=1|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td><em>غَزَّةُ_gaz~apu</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=S|case=2|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td><em>الضِفَّةِ_AlDif~api, السَعُودِيَّةِ_AlsaEuwdiy~api, القاهِرَةِ_AlqAhirapi, الجِيزَةِ_Aljiyzapi, البَصْرَةِ_AlbaSorapi</em></td></tr>
+  <tr><td>Z Z gen=F|num=S|case=2|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td><em>سُورِيَّةٍ_suwriy~apK, غَزَّةٍ_gaz~apK</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=S|case=2|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td><em>سُورِيَّةِ_suwriy~api, غَزَّةِ_gaz~api</em></td></tr>
+  <tr><td>Z Z gen=F|num=S|case=4|def=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td><em>سُورِيَّةَ_suwriy~apa</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=F|num=S|def=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td><em>القاهرة_AlqAhrp, المتحدة_AlmtHdp, الانتفاضة_AlAntfADp, السِنْيُورَة_Alsinoyuwrap, الشريعة_Al$ryEp</em></td></tr>
+  <tr><td>Z Z gen=M|num=D|case=1|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td><em>السيدان_AlsydAn</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=M|num=D|case=2|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td><em>الرافِدَيْنِ_AlrAfidayoni</em></td></tr>
+  <tr><td>Z Z gen=M|num=P|case=1|def=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td><em>المسلمون_Almslmwn</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=M|num=P|def=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Masc|Number=Plur</td><td><em>المسلمين_Almslmyn</em></td></tr>
+  <tr><td>Z Z gen=M|num=P|def=I</td><td>=&gt;</td><td>PROPN</td><td>Definite=Ind|Gender=Masc|Number=Plur</td><td><em>مسلمين_mslmyn</em></td></tr>
+  <tr style="background:lightgray"><td>Z Z gen=M|num=P|def=R</td><td>=&gt;</td><td>PROPN</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td><em>مسلمي_mslmy</em></td></tr>
+  <tr><td>Z Z gen=M|num=S|case=4|def=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td><em>مسلما_mslmA, أقباطا_&gt;qbATA</em></td></tr>
+</table>
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = 'tagset-conversion';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
