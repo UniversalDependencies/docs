@@ -12,18 +12,18 @@ and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and
 
 Examples:
 
-* [fi] _päivä_ “_day_”
-* [fi] _hän_ “_he/she_”
-* [fi] _miljoona_ “_million_”
-* [fi] _käyttää_ “_use_”
-* [fi] _vaikea_ “_difficult_”
+* [fi] _päivä_ "day"
+* [fi] _hän_ "he/she"
+* [fi] _miljoona_ "million"
+* [fi] _käyttää_ "use"
+* [fi] _vaikea_ "difficult"
 
 ### `Plur`: plural number
 
 Examples:
 
-* [fi] _päiviä_ “_days_”
-* [fi] _he_ “_they_”
-* [fi] _miljoonia_ “_millions_”
-* [fi] _käyttävät_ “_use_”
-* [fi] _vaikeat_ “_difficult_”
+* [fi] _päiviä_ "days"
+* [fi] _he_ "they"
+* [fi] _miljoonia_ "millions"
+* [fi] _käyttävät_ "use"
+* [fi] _vaikeat_ "difficult"
