@@ -75,8 +75,6 @@ See also <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
 ### `Ess`: essive
 
-Essive expresses location in adverbs such as _kotona_ "at home".
-
 Essive is typically a case of temporal adverbials (e.g. 
 _tiistaina_ "on tuesday"). In expressions of state, essive
 is a case of predicative adverbials, characterizing purpose
@@ -88,7 +86,6 @@ Essive corresponds in some uses to English _as a_.
 
 Examples:
 
-* [fi] _kotona_ "at home"
 * [fi] _tiistaina_ "on tuesday"
 * [fi] _vartijana_ "as a guard"
 
