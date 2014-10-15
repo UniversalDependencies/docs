@@ -14,8 +14,8 @@ persons.
 
 Examples:
 
-* [fi] _minä **näin** sinut_ "_I **saw** you_"
-* [fi] _me **lähdimme**_ "_we **left**_"
+* [fi] _minä <b>näin</b> sinut_ "I <b>saw</b> you"
+* [fi] _me <b>lähdimme</b>_ "we <b>left</b>"
 
 ### `2`: second person
 
@@ -25,8 +25,8 @@ third persons too.
 
 Examples:
 
-[fi] _me **tarjoamme**_ "_we **offer**_"
-[fi] _te **vastaatte**_ "_you **answer**_"
+[fi] _me <b>tarjoamme</b>_ "we <b>offer</b>"
+[fi] _te <b>vastaatte</b>_ "you <b>answer</b>"
 
 ### `3`: third person
 
@@ -35,7 +35,7 @@ nor addressees.
 
 Examples:
 
-[fi] _hän **voitti**_ "_he **won**_"
-[fi] _he **päättivät**_ "_they **decided**_
+[fi] _hän <b>voitti</b>_ "he/she <b>won</b>"
+[fi] _he <b>päättivät</b>_ "they <b>decided</b>"
 
-TODO: consider [fourth person](http://en.wikipedia.org/wiki/Voice_(grammar)#The_fourth_person_in_Baltic-Finnic_languages), e.g. _kirja **julkaistiin**_?
+TODO: consider [fourth person](http://en.wikipedia.org/wiki/Voice_(grammar)#The_fourth_person_in_Baltic-Finnic_languages), e.g. _kirja **julkaistiin**_? (cf. ISK <http://scripta.kotus.fi/visk/sisallys.php?p=106>, <http://scripta.kotus.fi/visk/sisallys.php?p=1313>)
