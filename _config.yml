@@ -256,6 +256,20 @@ collections:
   ko-overview:
     output: true
 #
+# Japanese
+#
+  ja-pos:
+    output: true
+    permalink: /ja/pos/:path.html
+  ja-feat:
+    output: true
+    permalink: /ja/feat/:path.html
+  ja-dep:
+    output: true
+    permalink: /ja/dep/:path.html
+  ja-overview:
+    output: true
+#
 # Template
 #
   template-pos:
