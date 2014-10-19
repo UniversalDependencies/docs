@@ -37,7 +37,8 @@ The following Interset features are currently not part of the standard:
 * <a href="u/ext-feat/VerbType.html">VerbType</a>
 
 The following Interset features are not used under their Interset names but they are included
-through the <a href="u-feat-layers.html">layered feature scheme</a>:
+through the
+<a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
 * <a href="u/ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
 * <a href="u/ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
