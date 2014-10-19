@@ -10,8 +10,9 @@ relation to the current moment or to another action in the
 utterance.
 
 `Tense` does not apply to non-finite verbs (infinitives and
-participles), the negation verb *ei*, or verbs in the
-conditional, imperative, or potential forms.
+participles), the negation verb *ei*, or verbs not in the
+indicative mood (see
+<http://scripta.kotus.fi/visk/sisallys.php?p=111>; in Finnish).
 
 ### Pres: present tense
 
