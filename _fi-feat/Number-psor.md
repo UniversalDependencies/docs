@@ -20,4 +20,4 @@ Examples:
 
 * [fi] _<b>tekomme</b> seuraukset_ "the consequences of <b>our action</b>" (single action, multiple actors: `Number=Sing`, `Number[psor]=Plur`)
 
-See also http://scripta.kotus.fi/visk/sisallys.php?p=97 (in Finnish)
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)
