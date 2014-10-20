@@ -1,0 +1,23 @@
+---
+layout: feature
+title: 'Number[psor]'
+shortdef: 'number of possessor'
+---
+
+`Number[psor]` is a
+[layered feature](/docs/u/overview/feat-layers.html) of
+[nouns](u-pos/NOUN) and ... (TODO)
+
+### `Sing`: singular
+
+Examples:
+
+* [fi] _<b>tekojeni</b> seuraukset_ "the consequences of <b>my actions</b>" (multiple actions, single actor: `Number=Plur`, `Number[psor]=Sing`)
+
+### `Plur`: plural
+
+Examples:
+
+* [fi] _<b>tekomme</b> seuraukset_ "the consequences of <b>our action</b>" (single action, multiple actors: `Number=Sing`, `Number[psor]=Plur`)
+
+See also http://scripta.kotus.fi/visk/sisallys.php?p=97 (in Finnish)
