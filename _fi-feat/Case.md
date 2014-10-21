@@ -93,13 +93,23 @@ See also <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
 
 ### `Tra`: translative
 
-The translative case expresses a change of state (_becomes_, _changes to_).
+In intransitive sentences, the translative case typically expresses change of state (_becomes_, _changes to_) or manner.
 
 Examples: 
 
 * [fi] _pitkäksi_ "become long"
 * [fi] _englanniksi_ "in/into English"
 * [fi] _kello <b>kuudeksi</b>_ "by <b>six</b> o'clock"
+* [fi] _huviksi_ "for fun"
+
+In transitive sentences, the translative case describes the sentence object.
+
+Examples:
+
+* [fi] _tarkoitettu <b>varoitukseksi</b>_ "meant <b>as a warning</b>"
+* [fi] _valittiin <b>presidentiksi</b>_ "elected <b>as a president</b>"
+
+See also <http://scripta.kotus.fi/visk/sisallys.php?p=1259> (in Finnish)
 
 ### `Com`: comitative / associative
 
