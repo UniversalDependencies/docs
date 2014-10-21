@@ -19,7 +19,7 @@ They are treated as multiwords.
 
 ### Examples
 
-- _в_ / _in_
-- _към_ / _to_
-- _по време на_ / _during_
+- _в_ / _v_ "in"
+- _към_ / _kam_ "to"
+- _по време на_ / _po vreme na_ "during"
 
