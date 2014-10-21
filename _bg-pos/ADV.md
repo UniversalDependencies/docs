@@ -20,6 +20,7 @@ demonstrative etc. Pronominal adverbs also get the `ADV`
 part-of-speech tag but they are differentiated by additional features.
 
 In the BulTreeBank tagset the corresponding tags are as follows:
+
 - Pdl, Pdm, Pdq, Pdt (Adverbial demonstrative pronouns for location, manner, quantity and time)
 - Prl, Prm, Prq, Prt (Adverbial relative pronouns for location, manner, quantity and time)
 - Pcl, Pcm, Pct (Adverbial collective pronouns for location, manner and time)
