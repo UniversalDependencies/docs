@@ -419,7 +419,7 @@ Examples: [hu]
 house;
 <span style='color: red'><I>házb</I></span><span style='color: red'><I>a</I></span>
 =
-to
+into
 the house; [fi] <I>talo</I>
 = house; <span style='color: red'><I>talo</I></span><span style='color: red'><I>on</I></span>
 = into
@@ -661,13 +661,15 @@ Noun
 in this case is the cause of something. In
 Hungarian it also seems to be used frequently with currency (&ldquo;to
 buy something <I>for</I>
-the money&rdquo;)
+the money&rdquo;) and it also can mean the goal of something.
 
 Examples:
 [hu]
 <I>Egy
 világcég benzinkútjánál 7183 </I><span style='color: red'><I>forintért</I></span><I>
-tankoltam.</I> [eu]
+tankoltam.</I> = lit. a world-wide.company petrol.station.Ade 7183 forint.Cau refueled = I refueled my car at the petrol station of a world-wide company for 7183 forints. 
+<I>Elmentem a boltba</I> <span style='color: red'><I>tejért</I></span><I>.</I> = lit. went the shop.Ill milk.Cau = I went to the shop to buy milk.
+[eu]
 <I>jokaera</I>
 = behavior; <span style='color: red'><I>jokaeragatik</I></span>
 = because of behavior.
