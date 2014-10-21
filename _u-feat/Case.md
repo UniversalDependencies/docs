@@ -597,9 +597,9 @@ table;
 off
 the table;
 <span style='color: red'><I>Budapestről</I></span><I>
-vagyok</I>
+jövök</I>
 = I
-am/come from Budapest.
+am coming from Budapest.
 
 ### Lat: lative / directional allative
 
