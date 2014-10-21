@@ -29,7 +29,7 @@ In the BulTreeBank tagset the corresponding tags are as follows:
 
 ### Examples
 
-- demonstrative adverbs: _ тук, там, тогава_ / _tuk, tam, togava_ "here, there, then"
+- demonstrative adverbs: _тук, там, тогава_ / _tuk, tam, togava_ "here, there, then"
 - relative pronouns: _когато, където, както, колкото_ / _kogato, kadeto, kakto, kolkoto_ "when, where, as, as much as"
 - collective adverbs: _навсякъде, всякога, всякак_ / _navsyakade, vsyakoga, vsyakak_ "everywhere, always, anyway"
 - interrogative adverbs: _кога, къде, как, колко_ /_koga, kade, kak, kolko_ "when, where, how, how many"_
