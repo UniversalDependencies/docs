@@ -32,7 +32,7 @@ In the BulTreeBank tagset the corresponding tags are as follows:
 - demonstrative adverbs: _тук, там, тогава_ / _tuk, tam, togava_ "here, there, then"
 - relative pronouns: _когато, където, както, колкото_ / _kogato, kadeto, kakto, kolkoto_ "when, where, as, as much as"
 - collective adverbs: _навсякъде, всякога, всякак_ / _navsyakade, vsyakoga, vsyakak_ "everywhere, always, anyway"
-- interrogative adverbs: _кога, къде, как, колко_ /_koga, kade, kak, kolko_ "when, where, how, how many"_
+- interrogative adverbs: _кога, къде, как, колко_ /_koga, kade, kak, kolko_ "when, where, how, how many"
 - indefinite adverbs: _някъде, някога, някак_ / _nyakade, nyakoga, nyakak_ "somewhere, sometime, somehow"
 - negative adverbs: _никога, никъде, никак_ / _nikoga, nikade, nikak_ "never, nowhere, not at all"
 
