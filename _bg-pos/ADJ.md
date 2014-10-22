@@ -10,7 +10,7 @@ Adjectives are words that typically modify nouns and specify their
 properties or attributes. They may also function as predicates, as in
 
 Example: [bg]
-<I><span style='color: red'>Колата е зелена</span></I> / <I>LKolata e zelena</I> (The car is green.)
+<I><span style='color: red'>Колата е зелена</span></I> / <I>Kolata e zelena</I> (The car is green.)
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
 for determiners and [NUM]() for numerals.
