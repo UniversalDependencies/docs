@@ -344,9 +344,9 @@ Treebank [hu], this case is called factive.
 Examples: [fi]
 <I>pitkä</I>
 =
-long; <I>venyi </I><span style='color: red'><I>pitkäksi</I></span>
+long; <I>kasvoi </I><span style='color: red'><I>pitkäksi</I></span>
 =
-got long; <I>englanti</I>
+grew long; <I>englanti</I>
 = English language; <span style='color: red'><I>englanniksi</I></span>
 = in/into English; <I>kello kuusi</I>
 = six o'clock; <I>kello </I><span style='color: red'><I>kuudeksi</I></span>
