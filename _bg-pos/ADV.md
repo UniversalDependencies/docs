@@ -40,9 +40,10 @@ In the BulTreeBank tagset the corresponding tags are as follows:
 Note that there are words that may be traditionally called numerals in
 some languages (e.g. Bulgarian) but they are treated as adverbs in the
 universal tagging scheme. In particular, _adverbial ordinal numerals_
-([bg] _първо_ / _parvo_ "for the first time") are tagged `ADV`.
-Since in our tagset such cases are treated as Numerals, they have to be identified via their function
-in the text.
+([bg] _първо_ / _parvo_ "for the first time") are tagged `ADV`. 
+The mapped tags present the neuter singular indefinite forms of the ordinal numerals: Monsi.
+In this way there will be ambiguity with the class of [adjectives] (ADJ).
+
 
 Another adverbial numeral that goes under `ADV` is Md:
 
