@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>case:poss</title>
+    <title>nmod:poss</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -34,18 +34,18 @@
 	  </div>
 	</noscript>
 
-          <h2><code>case:poss</code>: genitive modifier</h2>
+          <h2><code>nmod:poss</code>: genitive modifier</h2>
 
 <p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD
 scheme, but in TDT, it is used for genitive modifiers in general,
 which in Finnish often but not nearly always imply possession. There
 are two kinds of genitive modifiers that are not annotated using the
-general genitive modifier type: <em>the genitive object</em>, <a href="">case:gobj</a>
-and <em>the genitive subject</em>, <a href="">case:gsubj</a>.</p>
+general genitive modifier type: <em>the genitive object</em>, <a href="">nmod:gobj</a>
+and <em>the genitive subject</em>, <a href="">nmod:gsubj</a>.</p>
 
 <!-- fname:poss1.pdf -->
 <pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
-case:poss(penaali-2, Matin-1)
+nmod:poss(penaali-2, Matin-1)
 nsubj(jäi-3, penaali-2)
 nmod(jäi-3, kouluun-4)
 punct(jäi-3, .-5)
@@ -56,7 +56,7 @@ punct(jäi-3, .-5)
 nmod(on-2, Autossa-1)
 nsubj(on-2, moottori-5)
 punct(on-2, .-6)
-case:poss(moottori-5, litran-4)
+nmod:poss(moottori-5, litran-4)
 num(litran-4, kahden-3)
 </code></pre>
 

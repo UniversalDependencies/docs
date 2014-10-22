@@ -254,54 +254,6 @@ case(mäen-3, takana-4)
 punct(sijaitsee-2, .-5)
 </code></pre>
 
-<p>Certain nouns, those which have been directly derived from a verb or
-otherwise have a verb counterpart, can take an object in
-Finnish. These objects closely resemble more general genitive
-modifiers <a href="">case:poss</a>.</p>
-
-<!-- fname:gobj.pdf -->
-<pre><code class="language-sdparse">Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
-case:gobj(viljely-2, Perunan-1)
-nsubj:cop(harvinaista-5, viljely-2)
-cop(harvinaista-5, oli-3)
-advmod(harvinaista-5, tuolloin-4)
-punct(harvinaista-5, .-6)
-</code></pre>
-
-<p><em>Genitive subjects</em> are subject-like arguments taken by a noun. This
-is in parallel to genitive objects <a href="">case:gobj</a>.</p>
-
-<!-- %% \footnote{Due to genitive subjects being For further discussion on subjects and objects of nouns, see Section [gsubj-gobj](#sec-gsubj-gobj). -->
-
-<!-- fname:gsubj.pdf -->
-<pre><code class="language-sdparse">maljakon särkyminen \n vase(gen.) breaking
-case:gsubj(särkyminen-2, maljakon-1)
-</code></pre>
-
-<p>The dependency type <code>poss</code> stands for <em>possessive</em> in the original SD
-scheme, but in TDT, it is used for genitive modifiers in general,
-which in Finnish often but not nearly always imply possession. There
-are two kinds of genitive modifiers that are not annotated using the
-general genitive modifier type: <em>the genitive object</em>, <a href="">case:gobj</a>
-and <em>the genitive subject</em>, <a href="">case:gsubj</a>.</p>
-
-<!-- fname:poss1.pdf -->
-<pre><code class="language-sdparse">Matin penaali jäi kouluun . \n Matti's pencilcase was_left at_school .
-case:poss(penaali-2, Matin-1)
-nsubj(jäi-3, penaali-2)
-nmod(jäi-3, kouluun-4)
-punct(jäi-3, .-5)
-</code></pre>
-
-<!-- fname:poss2.pdf -->
-<pre><code class="language-sdparse">Autossa on kahden litran moottori . \n In_the_car is two litre's engine .
-nmod(on-2, Autossa-1)
-nsubj(on-2, moottori-5)
-punct(on-2, .-6)
-case:poss(moottori-5, litran-4)
-num(litran-4, kahden-3)
-</code></pre>
-
 
 
       </div>
