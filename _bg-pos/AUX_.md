@@ -7,5 +7,21 @@ shortdef: 'auxiliary verb'
 redirect_from: "bg/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+### Definition
+
+An auxiliary verb is a verb that accompanies the lexical verb of a
+verb phrase and expresses grammatical distinctions not carried by the
+lexical verb, such as person, number, tense, mood, aspect, and voice.
+
+In Bulgarian the auxiliary verbs are the following:
+
+- Vx# / _съм_ / _sam_ "to be" 
+- Vy# /_бъда_ / _bada_ "to be" 
+- Vi# / _бивам_ / _bivam_ "to be" 
+
+_Modal verbs_ count as [main verbs](VERB) in BulTreeBank tagset and they are thus tagged `VERB`.
+
+
+### Examples
+
+- Tense and passive auxiliaries: _<b>бях</b>_ / _byah_ "I was"
