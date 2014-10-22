@@ -461,13 +461,8 @@ exist only in singular and not for all nouns.
 
 ### Ade: adessive
 
-The adessive
-case expresses location at
-or by
-something (not
-inside and not on the surface of it).
-The
-corresponding directional cases are allative (towards something) and
+The adessive case expresses location at or on something.
+The corresponding directional cases are allative (towards something) and
 ablative (from something).
 
 Examples: [hu]
@@ -482,21 +477,22 @@ the cash desk;
 [fi] <I>pöytä</I>
 = table;
 <span style='color: red'><I>pöydällä</I></span>
-= at
+= on
 the table;
 [et] <I>laud</I>
 = table;
 <span style='color: red'><I>laual</I></span>
-= at
+= on
 the table.
+
+Note that adessive is used to express location on the surface of
+something in Finnish and Estonian, but does not carry this meaning
+in Hungarian.
 
 ### All: allative
 
-The allative
-case expresses direction
-to
-something (destination
-is adessive, i.e. at or by that something, not on or inside of it).
+The allative case expresses direction to something (destination
+is adessive, i.e. at or on that something).
 
 Examples: [hu]
 <I>pénztár</I>
@@ -511,7 +507,7 @@ the cash desk;
 <I>pöytä</I>
 = table;
 <span style='color: red'><I>pöydäll</I></span><span style='color: red'><I>e</I></span>
-= to
+= onto
 the table.
 
 ### Abl: ablative
