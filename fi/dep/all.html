@@ -129,11 +129,12 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td><a href="discourse.html" class="doclabel">discourse</a></td>
 	  <td><a href="auxpass.html" class="doclabel">auxpass</a></td>
-	  <td><a href="punct.html" class="doclabel">punct</a></td>
+	  <td><a href="mark-complm.html" class="doclabel">↳mark:complm</a></td>
 	</tr>
 	<tr>
 	  <td><a href="expl.html" class="doclabel">expl</a></td>
 	  <td><a href="cop.html" class="doclabel">cop</a></td>
+	  <td><a href="punct.html" class="doclabel">punct</a></td>
 	</tr>
       </table>
 
@@ -617,24 +618,6 @@ comparator(haluaisin-3, kuin-2)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/comparator.md" target="#">edit comparator</a></p>
 
-<h2><code>complm</code>: complementizer</h2>
-
-<p>The <em>complementizer</em> (<code>complm</code>) appears in most clausal complements,
-and the head of the dependency is the main verb of the subordinate
-clause. The only complementizer in Finnish is <em>että</em> (<em>that</em>).</p>
-
-<!-- fname:complm.pdf -->
-<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
-ccomp(Sanoin-1, tulla-6)
-punct(tulla-6, ,-2)
-complm(tulla-6, että-3)
-nsubj(tulla-6, hän-4)
-aux(tulla-6, voi-5)
-punct(Sanoin-1, .-7)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/complm.md" target="#">edit complm</a></p>
-
 <h2><code>compound:nn</code>: noun compound modifier</h2>
 
 <p>The dependency type <code>compound:nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish UD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>compound:nn</code>.</p>
@@ -904,6 +887,24 @@ completed.</p>
 completed.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/list.md" target="#">edit list</a></p>
+
+<h2><code>complm</code>: complementizer</h2>
+
+<p>The <em>complementizer</em> (<code>complm</code>) appears in most clausal complements,
+and the head of the dependency is the main verb of the subordinate
+clause. The only complementizer in Finnish is <em>että</em> (<em>that</em>).</p>
+
+<!-- fname:complm.pdf -->
+<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
+ccomp(Sanoin-1, tulla-6)
+punct(tulla-6, ,-2)
+complm(tulla-6, että-3)
+nsubj(tulla-6, hän-4)
+aux(tulla-6, voi-5)
+punct(Sanoin-1, .-7)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-complm.md" target="#">edit complm</a></p>
 
 <h2><code>mark</code>: marker</h2>
 
