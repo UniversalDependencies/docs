@@ -10,14 +10,16 @@ shortdef: 'number of possessor'
 
 ### `Sing`: singular
 
-Examples:
+#### Examples
 
 * [fi] _<b>tekojeni</b> seuraukset_ "the consequences of <b>my actions</b>" (multiple actions, single actor: `Number=Plur`, `Number[psor]=Sing`)
 
 ### `Plur`: plural
 
-Examples:
+#### Examples
 
 * [fi] _<b>tekomme</b> seuraukset_ "the consequences of <b>our action</b>" (single action, multiple actors: `Number=Sing`, `Number[psor]=Plur`)
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)
+### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)

@@ -10,20 +10,22 @@ shortdef: 'person of possessor'
 
 ### `1`: first person
 
-Examples:
+#### Examples
 
 * [fi] _<b>tekojeni</b> seurakset_ "the consequences of <b>my actions</b>"
 
 ### `2`: second person
 
-Examples:
+#### Examples
 
 * [fi] _<b>tekojesi</b> seuraukset_ "the consequences of <b>your actions</b>"
 
 ### `3`: third person
 
-Examples:
+#### Examples
 
 * [fi] _<b>tekojensa</b> seuraukset_ "the consequences of <b>their actions</b>"
 
-See also http://scripta.kotus.fi/visk/sisallys.php?p=97 (in Finnish)
+### References
+
+* http://scripta.kotus.fi/visk/sisallys.php?p=97 (in Finnish)

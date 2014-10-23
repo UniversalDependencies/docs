@@ -10,7 +10,7 @@ and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and
 
 ### `Sing`: singular number
 
-Examples:
+#### Examples
 
 * [fi] _päivä_ "day"
 * [fi] _hän_ "he/she"
@@ -20,7 +20,7 @@ Examples:
 
 ### `Plur`: plural number
 
-Examples:
+#### Examples
 
 * [fi] _päiviä_ "days"
 * [fi] _he_ "they"

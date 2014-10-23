@@ -12,7 +12,7 @@ In singular, the first person refers just to the speaker or author.
 In plural, it includes the speaker/author and one or more additional
 persons.
 
-Examples:
+#### Examples
 
 * [fi] _minä <b>näin</b> sinut_ "I <b>saw</b> you"
 * [fi] _me <b>lähdimme</b>_ "we <b>left</b>"
@@ -23,7 +23,7 @@ In singular, the second person refers to the addressee of the utterance
 or text. In plural, it may mean several addressees and optionally some
 third persons too.
 
-Examples:
+#### Examples
 
 * [fi] _me <b>tarjoamme</b>_ "we <b>offer</b>"
 * [fi] _te <b>vastaatte</b>_ "you <b>answer</b>"
@@ -33,7 +33,7 @@ Examples:
 The third person refers to one or more persons that are neither speakers
 nor addressees.
 
-Examples:
+#### Examples
 
 * [fi] _hän <b>voitti</b>_ "he/she <b>won</b>"
 * [fi] _he <b>päättivät</b>_ "they <b>decided</b>"

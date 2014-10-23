@@ -8,6 +8,8 @@ shortdef: 'case'
 
 The base form, typically used as citation form (lemma).
 
+#### Examples
+
 * [fi] _<b>koira</b> juoksee_ "the <b>dog</b> runs"
 
 ### `Acc`: accusative
@@ -18,14 +20,14 @@ We follow ISK in not recognizing the accusative except for the personal pronouns
 and _kuka_ "who" (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
 <http://scripta.kotus.fi/visk/sisallys.php?p=1226>)
 
-Examples:
+#### Examples
 
 * [fi] _näen hänet_ "I see him/her"
 * [fi] _kenet näet?_ "who do you see?"
 
 ### `Gen`: genitive
 
-Examples:
+#### Examples
 
 * [fi] _<b>meidän</b> perheemme_ "<b>our</b> family"
 * [fi] _<b>vuoden</b> päivät_ "the days of the <b>year</b>"
@@ -38,14 +40,16 @@ also express place or time.
 
 Corresponds in some uses to the English *by means of* or *with the aid of*.
 
-Examples:
+#### Examples
 
 * [fi] _kaksin <b>käsin</b>_ "using two <b>hands</b>"
 * [fi] _uusin <b>säännöin</b>_ "with new <b>rules</b>"
 * [fi] _näillä <b>seuduin</b>_ "around these <b>parts</b>"
 * [fi] _vuoroviikoin_ "every other week"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1263> (in Finnish)
 
 ### `Par`: partitive
 
@@ -59,7 +63,9 @@ indefinite quantity or unfinished actions.
 * [fi] _ammuin karhua_ "I shot at a bear"
 * [fi] _luen kirjaa_ "I am reading the book"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 
 ### `Dis`: distributive
 
@@ -67,11 +73,13 @@ The distributive case conveys that something happened to every
 member of a set, one in a time. The _-ttain_ suffix can be
 analysed as an adverbial derivation instead of as a noun suffix.
 
-Examples: 
+#### Examples
 
 * [fi] _kaupungeittain_ "separately in each city"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
 
 ### `Ess`: essive
 
@@ -84,18 +92,21 @@ transitive forms (e.g. _syödä <b>raakana</b>_ "eat <b>raw</b>").
 
 Essive corresponds in some uses to English _as a_.
 
-Examples:
+#### Examples
 
 * [fi] _tiistaina_ "on tuesday"
 * [fi] _vartijana_ "as a guard"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1258> (in Finnish)
 
 ### `Tra`: translative
 
-In intransitive sentences, the translative case typically expresses change of state (_becomes_, _changes to_) or manner.
+In intransitive sentences, the translative case typically expresses
+change of state (_becomes_, _changes to_) or manner.
 
-Examples: 
+#### Examples
 
 * [fi] _pitkäksi_ "become long"
 * [fi] _englanniksi_ "in/into English"
@@ -104,19 +115,21 @@ Examples:
 
 In transitive sentences, the translative case describes the sentence object.
 
-Examples:
+#### Examples
 
 * [fi] _tarkoitettu <b>varoitukseksi</b>_ "meant <b>as a warning</b>"
 * [fi] _valittiin <b>presidentiksi</b>_ "elected <b>as a president</b>"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=1259> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1259> (in Finnish)
 
 ### `Com`: comitative / associative
 
 The comitative (also called associative) case corresponds to 
 English _together with_.
 
-Examples:
+#### Examples
 
 * [fi] _puolisoineen_ "with his/her spouse"
 
@@ -124,7 +137,7 @@ Examples:
 
 The abessive case corresponds to the English preposition _without_.
 
-Examples: 
+#### Examples
 
 * [fi] _rahatta_ "without money"
 
@@ -132,13 +145,15 @@ Examples:
 
 The inessive case expresses location inside of something.
 
+#### Examples
+
 * [fi] _talossa_ "in the house"
 
 ### `Ill`: illative
 
 The illative case expresses direction into something.
 
-Examples:
+#### Examples
 
 * [fi] _taloon_ "to the house"
 
@@ -146,7 +161,7 @@ Examples:
 
 The elative case expresses direction out of something.
 
-Examples:
+#### Examples
 
 * [fi] _talosta_ "from the house"
 
@@ -161,18 +176,20 @@ and ablative (from something).
 Finnish adessive, which can also expess place, time, state,
 owner, instrument, means, manner, and quantity.)
 
-Examples:
+#### Examples
 
 * [fi] _pöydällä_ "at the table"
 
-See also <http://scripta.kotus.fi/visk/sisallys.php?p=1252> (in Finnish)
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1252> (in Finnish)
 
 ### `All`: allative
 
 The allative case expresses direction to something (destination
 is adessive, i.e. at or by that something, not on or inside of it).
 
-Examples: 
+#### Examples
 
 * [fi] _pöydälle_ "to the table"
 
@@ -180,7 +197,7 @@ Examples:
 
 Prototypical meaning: direction from some point.
 
-Examples:
+#### Examples
 
 * [fi] _pöydältä_ "from the table"
 * [fi] _katolta_ "from the roof"
