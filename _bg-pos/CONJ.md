@@ -14,19 +14,19 @@ expresses a semantic relationship between them.
 
 In BulTreeBank tagset there are three types of conjunctions:
 
-- Cc (single coordinating conjunction)
+Cc (single coordinating conjunction)
 
 ### Examples
 
 - _но_ / _no_ "but"
 
-- Cr (repetitive conjunction). These usually contain at least two parts.
+Cr (repetitive conjunction). These usually contain at least two parts.
 
 ### Examples
 
 - _хем..., хем..._ / _hem..., hem...._ "either.... or...."
 
-- Cp (single ans repetitive conjunction). These usually are used as singletons, but they also might be used
+Cp (single ans repetitive conjunction). These usually are used as singletons, but they also might be used
 in a repetitive chain.
 
 ### Examples
