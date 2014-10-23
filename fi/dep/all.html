@@ -320,7 +320,12 @@ modifies the noun.</p>
 
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p><em>Adverbial clause modifiers</em> (<code>advcl</code>) are subordinate clauses that are not complements. Also non-complement infinite or temporal clauses (<em>lauseenvastike</em>, see for instance (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=876">§876</a>) are marked as <code>advcl</code>. If there is a subordinating conjunction present, it is marked with the dependency type <code>mark</code> (see Section <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>).</p>
+<p><em>Adverbial clause modifiers</em> (<code>advcl</code>) are subordinate clauses that
+are not complements. Also non-complement infinite or temporal clauses
+(<em>lauseenvastike</em>, see for instance 
+(see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=876">§876</a>) are
+marked as <code>advcl</code>. If there is a subordinating conjunction present, it
+is marked with the dependency type <a href="">mark</a>.</p>
 
 <!-- fname:advcl.pdf -->
 <pre><code class="language-sdparse">Kun äiti tuli kotiin , isä keitti kahvia . \n When mother came home , father made coffee .
@@ -334,11 +339,28 @@ dobj(keitti-7, kahvia-8)
 punct(keitti-7, .-9)
 </code></pre>
 
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=876">http://scripta.kotus.fi/visk/sisallys.php?p=876</a></li>
+</ul>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
 
 <h2><code>advmod:quantmod</code>: quantification modifier</h2>
 
-<p><em>Quantification modifiers</em> (<code>advmod:quantmod</code>) are quantifiers that modify a numerical expression. Certain adverbs (and ad-adjectives, which are sometimes regarded a separate category from adverbs but treated identically in TDT)  and few adjectives are allowed as quantifiers. Note that adverbs that describe the writer’s attitude towards the quantity, such as <em>vain</em> (<em>only</em>), are not considered quantification modifiers, but regular adverb modifiers, although they modify the number. Some examples of words that can act as quantification modifiers include <em>noin</em> (<em>about</em>), vähintään (<em>at least</em>), <em>lähes</em> (<em>almost</em>) and <em>yli</em> (<em>over</em>).</p>
+<p><em>Quantification modifiers</em> (<code>advmod:quantmod</code>) are quantifiers that
+modify a numerical expression. Certain adverbs (and ad-adjectives,
+which are sometimes regarded a separate category from adverbs but
+treated identically in TDT) and few adjectives are allowed as
+quantifiers.</p>
+
+<p>Note that adverbs that describe the writer’s attitude towards the
+quantity, such as <em>vain</em> “only”, are not considered quantification
+modifiers, but regular adverb modifiers, although they modify the
+number. Some examples of words that can act as quantification
+modifiers include <em>noin</em> “about”, <em>vähintään</em> “at least”, <em>lähes</em>
+“almost” and <em>yli</em> “over”.</p>
 
 <!-- fname:quantmod.pdf -->
 <pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
@@ -378,7 +400,10 @@ punct(otin-2, .-6)
 
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>Nouns may take adjectival modifiers, which are marked with the dependency type <code>amod</code>. It is also possible for an adjective to take another adjective as a modifier. (These adjectival modifiers are generally expressed with <em>-ly</em> adverbs in English.)</p>
+<p>Nouns may take adjectival modifiers, which are marked with the
+dependency type <code>amod</code>. It is also possible for an adjective to take
+another adjective as a modifier. (These adjectival modifiers are
+generally expressed with <em>-ly</em> adverbs in English.)</p>
 
 <!-- fname:amod_noun.pdf -->
 <pre><code class="language-sdparse">Tien vieressä on suuri kivi . \n Road next_to is large rock .
@@ -399,7 +424,14 @@ amod(kivi-3, suuri-2)
 
 <h2><code>appos</code>: apposition</h2>
 
-<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a <em>supporting noun</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related <em>appellation modifiers</em> are discussed in detail below.</p>
+<p>An <em>apposition</em> (<code>appos</code>) is a grammaticalized, paradigmatic addition
+(usually a noun phrase), which has the same referent as its head word,
+and the same grammatical function 
+(see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). 
+Also structures with a <em>supporting noun</em> 
+(see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are
+considered appositional. Appositional structures and the closely
+related <em>appellation modifiers</em> are discussed in detail below.</p>
 
 <!-- fname:appos1.pdf -->
 <pre><code class="language-sdparse">Professori , Matti Tamminen , luennoi tänään . \n The_professor , Matti Tamminen , lectures today .
@@ -427,10 +459,12 @@ punct(on-3, .-6)
 
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs
-(see <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">ISK §1562</a>) and in addition the
-verbs <em>olla</em> “to be” and <em>aikoa</em> “to be going to”.
-The full list of auxiliaries in TDT is thus as follows:</p>
+<p>In TDT, only a closed list of verbs can act as auxiliaries, including
+the main modal verbs 
+(see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">§1562</a>)
+and in addition the verbs <em>olla</em> “to be” and <em>aikoa</em> “to be going to”.</p>
+
+<p>The full list of auxiliaries in TDT is as follows:</p>
 
 <ul>
   <li><em>täytyä</em> “must”</li>
@@ -453,11 +487,21 @@ advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
 </code></pre>
 
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">http://scripta.kotus.fi/visk/sisallys.php?p=1562</a> (in Finnish)</li>
+</ul>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/aux_.md" target="#">edit aux</a></p>
 
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>The only <em>passive auxiliary</em> (<code>auxpass</code>) in Finnish is <em>olla</em> (<em>to be</em>). An auxiliary is only considered a passive auxiliary if the main verb is in passive, not if only the auxiliary is in passive. In the latter case the auxiliary is marked as a non-passive auxiliary, <code>aux</code>. </p>
+<p>The only <em>passive auxiliary</em> (<code>auxpass</code>) in Finnish is <em>olla</em> (<em>to
+be</em>). An auxiliary is only considered a passive auxiliary if the main
+verb is in passive, not if only the auxiliary is in passive. In the
+latter case the auxiliary is marked as a non-passive auxiliary,
+<a href="">aux</a>.</p>
 
 <!-- TODO The distinction between the passive voice and the zeroth person is discussed in Section \ref{pass-vs-0th}. -->
 
@@ -481,7 +525,15 @@ punct(tehdä-3, .-5)
 
 <h2><code>case</code>: case marking</h2>
 
-<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
+<p>The dependency type <code>case</code> is used for the adposition in pre- and
+postpositional phrases. In the Finnish-specific SD scheme, the head of
+an adpositional phrase is the nominal, not the adposition, so as to
+analyze adpositional phrases similarly to nominal modifiers without an
+adposition. (Such nominal modifiers are frequent in Finnish, as cases
+are often used for the same purpose as adpositions.) To the same end,
+the type <code>case</code> is used in combination with the type <code>nmod</code>, which is
+also used for nominal modifiers when no adposition is present (see
+<a href="">nmod</a>).</p>
 
 <!-- fname:adpos.pdf -->
 <pre><code class="language-sdparse">Talo sijaitsee mäen takana . \n House is_located hill behind .
@@ -529,7 +581,7 @@ conj(talo-2, piha-4)
 <h2><code>cc</code>: coordinating conjunction</h2>
 
 <p><em>Coordinating conjunctions</em> are marked as dependents of the first
- coordinated element, and the dependency type used is <code>cc</code>.</p>
+coordinated element, and the dependency type used is <code>cc</code>.</p>
 
 <!-- fname:cc1.pdf -->
 <pre><code class="language-sdparse">kirjat , kynät ja viivottimet \n books , pencils and rulers
@@ -546,12 +598,14 @@ conj(kirjat-1, viivottimet-5)
 <h2><code>ccomp:nf</code>: non-finite clausal complement</h2>
 
 <p>The dependency type <code>ccomp:nf</code>, which stands for <em>non-finite clausal
-complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).
-It is used for clausal complements where the complement clause has a
+complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).  It is
+used for clausal complements where the complement clause has a
 different subject from that of the governing clause and is infinite,
 i.e. where the verb is an infinitive or a participle.</p>
 
-<!-- TODO The differences between types of verbal dependents, such as `ccomp:nf`, are thoroughly discussed in Section [verbal](#sec-verbal). -->
+<!-- TODO The differences between types of verbal dependents, such as
+`ccomp:nf`, are thoroughly discussed in Section
+[verbal](#sec-verbal). -->
 
 <!-- fname:iccomp.pdf -->
 <pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
@@ -564,7 +618,19 @@ punct(Sain-1, .-4)
 
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p><em>Clausal complements</em> that have a subject different from that of the main clause (Note that a clausal complement need not have a subject present at all; the clause could be, for instance, passive.)  are marked with the dependency type <code>ccomp</code>. The governor is most commonly, although not always, the main verb or predicative of the main clause, and the dependent is the main verb or predicative of the dependent clause. The clausal complement can also modify a word other than a verb, most often a noun or pronoun. Most commonly clausal complements are <em>että</em>-clauses. <!--Distinguishing different verbal dependents, including different clausal complements, is discussed more closely in Section [verbal](#sec-verbal).--></p>
+<p><em>Clausal complements</em> that have a subject different from that of the
+main clause (Note that a clausal complement need not have a subject
+present at all; the clause could be, for instance, passive.)  are
+marked with the dependency type <code>ccomp</code>. The governor is most
+commonly, although not always, the main verb or predicative of the
+main clause, and the dependent is the main verb or predicative of the
+dependent clause. The clausal complement can also modify a word other
+than a verb, most often a noun or pronoun. Most commonly clausal
+complements are <em>että</em>-clauses.</p>
+
+<!--Distinguishing different verbal dependents, including different
+clausal complements, is discussed more closely in Section
+[verbal](#sec-verbal).-->
 
 <!-- fname:ccomp1.pdf -->
 <pre><code class="language-sdparse">Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
@@ -593,7 +659,10 @@ punct(suututti-9, .-11)
 
 <h2><code>compar</code>: comparative</h2>
 
-<p>The dependency type <code>compar</code> is used in comparative constructions, most often involving adjectives in the comparative form. The head of the <code>compar</code> dependency is the comparative wordform, and the dependent is the compared element. </p>
+<p>The dependency type <code>compar</code> is used in comparative constructions,
+most often involving adjectives in the comparative form. The head of
+the <code>compar</code> dependency is the comparative wordform, and the dependent
+is the compared element.</p>
 
 <!-- fname:compar.pdf -->
 <pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
@@ -608,7 +677,10 @@ amod(näytelmä-4, eilinen-3)
 
 <h2><code>comparator</code>: comparative conjunction</h2>
 
-<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds roughly to <em>than</em> and <em>as</em> in English) is marked with the dependency type <code>comparator</code>. The head of the dependency is the element being compared.</p>
+<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
+roughly to “than” and “as” in English) is marked with the dependency
+type <code>comparator</code>. The head of the dependency is the element being
+compared.</p>
 
 <!-- fname:comparator.pdf -->
 <pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
@@ -724,9 +796,15 @@ conj(maitoa-1, voita-5)
 
 <h2><code>cop</code>: copula</h2>
 
-<p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). </p>
+<p>Copular clauses receive a special treatment in the SD scheme. The
+predicative acts as the head word of the clause, and the copular verb
+depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular
+verb in Finnish is <em>olla</em> “be” (see ISK
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>).</p>
 
-<!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
+<!-- TODO Distinguishing copular structures from other constructs as
+well as recognizing the subject and the predicative is discussed in
+Section [copulas](#sec-copulas). -->
 
 <!-- fname:cop.pdf -->
 <pre><code class="language-sdparse">Huivi oli punainen . \n The_scarf was red .
@@ -735,15 +813,24 @@ cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 </code></pre>
 
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">http://scripta.kotus.fi/visk/sisallys.php?p=891</a> (in Finnish)</li>
+</ul>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cop.md" target="#">edit cop</a></p>
 
 <h2><code>csubj:cop</code>: clausal copular subject</h2>
 
-<p>A <em>clausal copular subject</em> (csubj:cop) is a clause that acts as
-the subject of another, copular clause. As in all copular clauses, the
+<p>A <em>clausal copular subject</em> (<code>csubj:cop</code>) is a clause that acts as the
+subject of another, copular clause. As in all copular clauses, the
 predicative acts as the head of the clause and hence it is also the
-governor of the copular subject.
-<!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
+governor of the copular subject. </p>
+
+<!--The distinction between clauses acting as the copular subject of
+another clause and so called necessive structures is discussed in
+Section [necessives](#sec-necessives).-->
 
 <!-- fname:csubj-cop.pdf -->
 <pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
@@ -757,7 +844,7 @@ punct(hauskaa-2, .-5)
 
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>A <em>clausal subject</em> (<em>csubj</em>) is a clause that acts as the subject of
+<p>A <em>clausal subject</em> (<code>csubj</code>) is a clause that acts as the subject of
 another clause.</p>
 
 <!-- fname:csubj.pdf -->
@@ -773,7 +860,11 @@ punct(oli-3, .-6)
 
 <h2><code>dep</code>: dependent</h2>
 
-<p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type <code>dep</code> is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.</p>
+<p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is
+the most general dependency type in SD, and it is meant to be used
+when no other, more specific dependency type applies. In TDT, the type
+<code>dep</code> is mostly used in idiomatic two-word expressions. There are also
+some fixed three-word expressions in the treebank.</p>
 
 <!-- fname:dep.pdf -->
 <pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
@@ -847,7 +938,10 @@ dobj(sulki-2, oven-3)
 punct(sulki-2, .-4)
 </code></pre>
 
-<p>As in Finnish a passive clause does not have a subject, and what in English would be considered the passive subject, is in Finnish the direct object, the type <code>nsubjpass</code> is not used in TDT, but the type <code>dobj</code> is used instead.</p>
+<p>As in Finnish a passive clause does not have a subject, and what in
+English would be considered the passive subject, is in Finnish the
+direct object, the type <code>nsubjpass</code> is not used in TDT, but the type
+<code>dobj</code> is used instead.</p>
 
 <!-- fname:dobj2.pdf -->
 <pre><code class="language-sdparse">Päätös tehtiin marraskuussa . \n The_decision was_made in_November .
@@ -856,7 +950,9 @@ nmod(tehtiin-2, marraskuussa-3)
 punct(tehtiin-2, .-4)
 </code></pre>
 
-<!-- Fine distinctions in special cases of subjects, objects and object-cased amount adverbials are discussed in Section [subj-obj](#sec-subj-obj).-->
+<!-- Fine distinctions in special cases of subjects, objects and
+object-cased amount adverbials are discussed in Section
+[subj-obj](#sec-subj-obj).-->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/dobj.md" target="#">edit dobj</a></p>
 
@@ -890,9 +986,10 @@ completed.</p>
 
 <h2><code>mark:complm</code>: complementizer</h2>
 
-<p>The <em>complementizer</em> (<code>mark:complm</code>) appears in most clausal complements,
-and the head of the dependency is the main verb of the subordinate
-clause. The only complementizer in Finnish is <em>että</em> (<em>that</em>).</p>
+<p>The <em>complementizer</em> (<code>mark:complm</code>) appears in most clausal
+complements, and the head of the dependency is the main verb of the
+subordinate clause. The only complementizer in Finnish is <em>että</em>
+“that”.</p>
 
 <!-- fname:complm.pdf -->
 <pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
@@ -925,39 +1022,46 @@ punct(jätin-5, .-8)
 <p>The main subordinating conjunctions in TDT are:</p>
 
 <ul>
-  <li>että (that)</li>
-  <li>jotta (so that)</li>
-  <li>koska (because)</li>
-  <li>kun (when)</li>
-  <li>jos (if)</li>
-  <li>vaikka (even though)</li>
-  <li>kunnes (until)</li>
-  <li>kuin (as, than)</li>
+  <li><em>että</em> “that”</li>
+  <li><em>jotta</em> “so that”</li>
+  <li><em>koska</em> “because”</li>
+  <li><em>kun</em> “when”</li>
+  <li><em>jos</em> “if”</li>
+  <li><em>vaikka</em> “even though”</li>
+  <li><em>kunnes</em> “until”</li>
+  <li><em>kuin</em> “as, than”</li>
 </ul>
 
-<p>Note that the conjunction <em>että</em> (usually) starts a complement clause, in which case it is marked as a complementizer <a href="">complm</a>. On a similar note, the conjunction <em>kuin</em> also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier <a href="">advmod</a> as well as a comparative conjunction 
+<p>Note that the conjunction <em>että</em> (usually) starts a complement clause,
+in which case it is marked as a complementizer <a href="">complm</a>. On a
+similar note, the conjunction <em>kuin</em> also has several uses. In
+addition to a subordinating conjunction, it can also serve as an
+adverb modifier <a href="">advmod</a> as well as a comparative conjunction
 <a href="">comparator</a>.</p>
 
-<p>In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.</p>
+<p>In addition to the basic subordinating conjunctions, the following
+words or word combinations can be considered subordinating
+conjunctions in TDT. Not all of these expressions have a direct
+counterpart in English, and thus the translations are approximate.</p>
 
 <ul>
-  <li>ennenkuin (before)</li>
-  <li>jahka (as soon as)</li>
-  <li>jos kohta (even if)</li>
-  <li>kun taas (whereas)</li>
-  <li>kuten (like, as)</li>
-  <li>mikäli (if)</li>
-  <li>mitä nyt (only)</li>
-  <li>muuten (otherwise)</li>
-  <li>niin (so)</li>
-  <li>niinkuin/niinku (like, standard and colloquial version)</li>
-  <li>paitsi (except)</li>
-  <li>paitsi että (except that)</li>
-  <li>paitsi jos (except if)</li>
-  <li>sikäli kuin (if)</li>
-  <li>sillä (because)</li>
-  <li>sitten kun (then when)</li>
-  <li>vähän kuin (a bit like)</li>
+  <li><em>ennenkuin</em> “before”</li>
+  <li><em>jahka</em> “as soon as”</li>
+  <li><em>jos kohta</em> “even if”</li>
+  <li><em>kun taas</em> “whereas”</li>
+  <li><em>kuten</em> “like, as”</li>
+  <li><em>mikäli</em> “if”</li>
+  <li><em>mitä nyt</em> “only”</li>
+  <li><em>muuten</em> “otherwise”</li>
+  <li><em>niin</em> “so”</li>
+  <li><em>niinkuin/niinku</em> “like” (standard and colloquial version)</li>
+  <li><em>paitsi</em> “except”</li>
+  <li><em>paitsi että</em> “except that”</li>
+  <li><em>paitsi jos</em> “except if”</li>
+  <li><em>sikäli kuin</em> “if”</li>
+  <li><em>sillä</em> “because”</li>
+  <li><em>sitten kun</em> “then when”</li>
+  <li><em>vähän kuin</em> “a bit like”</li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark.md" target="#">edit mark</a></p>

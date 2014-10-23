@@ -36,7 +36,11 @@
 
           <h2><code>dep</code>: dependent</h2>
 
-<p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type <code>dep</code> is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.</p>
+<p>The name of the dependency type <code>dep</code> stands for <em>dependent</em>. It is
+the most general dependency type in SD, and it is meant to be used
+when no other, more specific dependency type applies. In TDT, the type
+<code>dep</code> is mostly used in idiomatic two-word expressions. There are also
+some fixed three-word expressions in the treebank.</p>
 
 <!-- fname:dep.pdf -->
 <pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
@@ -50,130 +54,137 @@ punct(tuli-4, .-7)
 
 <!--details-->
 
-<p>The following expressions are considered idiomatic, and their parts are to be combined with the dependency type <code>dep</code> in TDT. Note that this is not intended to be a closed list, but rather a list of examples encountered while annotating TDT. The two-part expressions that fall into the categories of coordinating and subordinating conjunctions are omitted here, and instead listed under <a href="http://universaldependencies.github.io/docs/fi/cc.html">cc</a> and <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>, respectively. Due to the idiomatic nature of these two-part expressions, the translations may on occasion not be very natural.</p>
+<p>The following expressions are considered idiomatic, and their parts
+are to be combined with the dependency type <code>dep</code> in TDT. Note that
+this is not intended to be a closed list, but rather a list of
+examples encountered while annotating TDT. The two-part expressions
+that fall into the categories of coordinating and subordinating
+conjunctions are omitted here, and instead listed under <a href="">cc</a> and
+<a href="">mark</a>, respectively. Due to the idiomatic nature of these two-part
+expressions, the translations may on occasion not be very natural.</p>
 
 <h3 id="adverbs">Adverbs:</h3>
 
 <ul>
-  <li>aika lailla (quite some)</li>
-  <li>aina vain (forever and ever)</li>
-  <li>aivan kuin (just like)</li>
-  <li>alun alkaen (from the beginning, originally)</li>
-  <li>alun perin (originally)</li>
-  <li>ennen aikojaan (prematurely)</li>
-  <li>ennen kaikkea (first and foremost)</li>
-  <li>ennen muuta (first and foremost)</li>
-  <li>ennen pitkää (before long)</li>
-  <li>entä jos (what if)</li>
-  <li>heti perään (right after)</li>
-  <li>hyvissä ajoin (on time, in good time)</li>
-  <li>ihan vaan (only)</li>
-  <li>ikään kuin (kind of)</li>
-  <li>ilman muuta (of course)</li>
-  <li>itse asiassa (as a matter of fact, in fact)</li>
-  <li>ja niin edelleen (and so on)</li>
-  <li>jonkin verran (some, to some extent)</li>
-  <li>jossain määrin, siinä määrin, missä määrin (some, to some extent, to that extent)</li>
-  <li>kaiken aikaa (all the time)</li>
-  <li>kaiken kaikkiaan (all in all)</li>
-  <li>kaikin puolin (in all ways)</li>
-  <li>kerta kaikkiaan (completely, once and for all)</li>
-  <li>loppujen lopuksi (in the end)</li>
-  <li>muun muassa (among others)</li>
-  <li>miten niin (how so)</li>
-  <li>missä sattuu, mistä sattuu, minne sattuu (wherever)</li>
-  <li>mitä jos (what if)</li>
-  <li>niin ikään (also)</li>
-  <li>niin kuin (like)</li>
-  <li>niin sanotusti (so to say)</li>
-  <li>noin vain (just like that)</li>
-  <li>no kun (well)</li>
-  <li>no niin (alright)</li>
-  <li>näillä näkymin (with the current knowledge)</li>
-  <li>näin ollen (this being so)</li>
-  <li>pikku hiljaa (little by little)</li>
-  <li>pilvin pimein (plenty of)</li>
-  <li>piri pintaan (full)</li>
-  <li>päällisin puolin (from the surface of it)</li>
-  <li>saman tien (at once)</li>
-  <li>saman verran (the same amount)</li>
-  <li>sen koom(m)in (since then)</li>
-  <li>sen suuremmin (any more than that)</li>
-  <li>sen kun vaan (go ahead)</li>
-  <li>sen verran (that amount)</li>
-  <li>siellä täällä (here and there)</li>
-  <li>siinä sivussa (on the side)</li>
-  <li>silloin tällöin (every now and then)</li>
-  <li>sillä aikaa (meanwhile)</li>
-  <li>sitä mukaa (“accordingly”)</li>
-  <li>sitä paitsi (besides)</li>
-  <li>sivumennen sanoen (by the way)</li>
-  <li>summa summarum (all in all)</li>
-  <li>suuna päänä (headfirst)</li>
-  <li>suurin piirtein (just about)</li>
-  <li>ties vaikka (who knows)</li>
-  <li>toisin sanoen (in other words)</li>
-  <li>tuon tuosta (all the time)</li>
-  <li>tuosta vain (just like that)</li>
-  <li>tämän tästä (all the time)</li>
-  <li>vähän kuin (a bit like)</li>
-  <li>yhtä aikaa (at the same time)</li>
-  <li>yhtä kaikki (all the same)</li>
-  <li>yhtä paljon (the same amount, as much)</li>
-  <li>yleisesti ottaen (generally speaking)</li>
+  <li><em>aika lailla</em> “quite some”</li>
+  <li><em>aina vain</em> “forever and ever”</li>
+  <li><em>aivan kuin</em> “just like”</li>
+  <li><em>alun alkaen</em> “from the beginning, originally”</li>
+  <li><em>alun perin</em> “originally”</li>
+  <li><em>ennen aikojaan</em> “prematurely”</li>
+  <li><em>ennen kaikkea</em> “first and foremost”</li>
+  <li><em>ennen muuta</em> “first and foremost”</li>
+  <li><em>ennen pitkää</em> “before long”</li>
+  <li><em>entä jos</em> “what if”</li>
+  <li><em>heti perään</em> “right after”</li>
+  <li><em>hyvissä ajoin</em> “on time, in good time”</li>
+  <li><em>ihan vaan</em> “only”</li>
+  <li><em>ikään kuin</em> “kind of”</li>
+  <li><em>ilman muuta</em> “of course”</li>
+  <li><em>itse asiassa</em> “as a matter of fact, in fact”</li>
+  <li><em>ja niin edelleen</em> “and so on”</li>
+  <li><em>jonkin verran</em> “some, to some extent”</li>
+  <li><em>jossain määrin, siinä määrin, missä määrin</em> “some, to some extent, to that extent”</li>
+  <li><em>kaiken aikaa</em> “all the time”</li>
+  <li><em>kaiken kaikkiaan</em> “all in all”</li>
+  <li><em>kaikin puolin</em> “in all ways”</li>
+  <li><em>kerta kaikkiaan</em> “completely, once and for all”</li>
+  <li><em>loppujen lopuksi</em> “in the end”</li>
+  <li><em>muun muassa</em> “among others”</li>
+  <li><em>miten niin</em> “how so”</li>
+  <li><em>missä sattuu, mistä sattuu, minne sattuu</em> “wherever”</li>
+  <li><em>mitä jos</em> “what if”</li>
+  <li><em>niin ikään</em> “also”</li>
+  <li><em>niin kuin</em> “like”</li>
+  <li><em>niin sanotusti</em> “so to say”</li>
+  <li><em>noin vain</em> “just like that”</li>
+  <li><em>no kun</em> “well”</li>
+  <li><em>no niin</em> “alright”</li>
+  <li><em>näillä näkymin</em> “with the current knowledge”</li>
+  <li><em>näin ollen</em> “this being so”</li>
+  <li><em>pikku hiljaa</em> “little by little”</li>
+  <li><em>pilvin pimein</em> “plenty of”</li>
+  <li><em>piri pintaan</em> “full”</li>
+  <li><em>päällisin puolin</em> “from the surface of it”</li>
+  <li><em>saman tien</em> “at once”</li>
+  <li><em>saman verran</em> “the same amount”</li>
+  <li><em>sen koom(m)in</em> “since then”</li>
+  <li><em>sen suuremmin</em> “any more than that”</li>
+  <li><em>sen kun vaan</em> “go ahead”</li>
+  <li><em>sen verran</em> “that amount”</li>
+  <li><em>siellä täällä</em> “here and there”</li>
+  <li><em>siinä sivussa</em> “on the side”</li>
+  <li><em>silloin tällöin</em> “every now and then”</li>
+  <li><em>sillä aikaa</em> “meanwhile”</li>
+  <li><em>sitä mukaa</em> “accordingly”</li>
+  <li><em>sitä paitsi</em> “besides”</li>
+  <li><em>sivumennen sanoen</em> “by the way”</li>
+  <li><em>summa summarum</em> “all in all”</li>
+  <li><em>suuna päänä</em> “headfirst”</li>
+  <li><em>suurin piirtein</em> “just about”</li>
+  <li><em>ties vaikka</em> “who knows”</li>
+  <li><em>toisin sanoen</em> “in other words”</li>
+  <li><em>tuon tuosta</em> “all the time”</li>
+  <li><em>tuosta vain</em> “just like that”</li>
+  <li><em>tämän tästä</em> “all the time”</li>
+  <li><em>vähän kuin</em> “a bit like”</li>
+  <li><em>yhtä aikaa</em> “at the same time”</li>
+  <li><em>yhtä kaikki</em> “all the same”</li>
+  <li><em>yhtä paljon</em> “the same amount, as much”</li>
+  <li><em>yleisesti ottaen</em> “generally speaking”</li>
 </ul>
 
 <h3 id="adjectives">Adjectives:</h3>
 
 <ul>
-  <li>niin kutsuttu (so called)</li>
-  <li>niin sanottu (so called)</li>
+  <li><em>niin kutsuttu</em> “so called”</li>
+  <li><em>niin sanottu</em> “so called”</li>
 </ul>
 
 <h3 id="adpositions">Adpositions:</h3>
 
 <ul>
-  <li>lukuun ottamatta (disregarding)</li>
+  <li><em>lukuun ottamatta</em> “disregarding”</li>
 </ul>
 
 <h3 id="determiners">Determiners:</h3>
 
 <ul>
-  <li>itse kukin (each)</li>
-  <li>joka ainoa (each and every one)</li>
+  <li><em>itse kukin</em> “each”</li>
+  <li><em>joka ainoa</em> “each and every one”</li>
 </ul>
 
 <h3 id="interjections">Interjections:</h3>
 
 <ul>
-  <li>ai ai (oh oh, tut tut)</li>
-  <li>ai niin (oh yeah)</li>
-  <li>ei jumalauta (goddammit)</li>
-  <li>ei vitsit (oh dear)</li>
-  <li>hei hei (hey hey, bye bye)</li>
-  <li>hip hip hurraa (hip hip hooray)</li>
-  <li>hitto vie (dammit)</li>
-  <li>jep jep (yep yep)</li>
-  <li>kas kummaa (surprise surprise)</li>
-  <li>mitä vittua (what the fuck)</li>
-  <li>no joo (well yeah)</li>
-  <li>piru vie (dammit)</li>
-  <li>totta kai (of course)</li>
-  <li>voi että (oh dear)</li>
-  <li>voi po(i)jat (oh boy)</li>
+  <li><em>ai ai</em> “oh oh, tut tut”</li>
+  <li><em>ai niin</em> “oh yeah”</li>
+  <li><em>ei jumalauta</em> “goddammit”</li>
+  <li><em>ei vitsit</em> “oh dear”</li>
+  <li><em>hei hei</em> “hey hey, bye bye”</li>
+  <li><em>hip hip hurraa</em> “hip hip hooray”</li>
+  <li><em>hitto vie</em> “dammit”</li>
+  <li><em>jep jep</em> “yep yep”</li>
+  <li><em>kas kummaa</em> “surprise surprise”</li>
+  <li><em>mitä vittua</em> “what the fuck”</li>
+  <li><em>no joo</em> “well yeah”</li>
+  <li><em>piru vie</em> “dammit”</li>
+  <li><em>totta kai</em> “of course”</li>
+  <li><em>voi että</em> “oh dear”</li>
+  <li><em>voi po(i)jat</em> “oh boy”</li>
 </ul>
 
 <h3 id="nominals">Nominals:</h3>
 
 <ul>
-  <li>missä ikinä (wherever)</li>
+  <li><em>missä ikinä</em> “wherever”</li>
 </ul>
 
 <h3 id="other-the-pos-may-vary">Other: (the POS may vary)</h3>
 
 <ul>
-  <li>mikä tahansa (whichever, whatever)</li>
-  <li>mikä vain (whichever, whatever)</li>
+  <li><em>mikä tahansa</em> “whichever, whatever”</li>
+  <li><em>mikä vain</em> “whichever, whatever”</li>
 </ul>
 
 

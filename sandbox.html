@@ -205,9 +205,15 @@ dobj(ראה, סרט)
 
 <h2 id="finnish-documentation-for-relations-containing-cop">Finnish documentation for relations containing “cop”</h2>
 
-<p>Copular clauses receive a special treatment in the SD scheme. The predicative acts as the head word of the clause, and the copular verb depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular verb in Finnish is <em>olla</em> (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>). </p>
+<p>Copular clauses receive a special treatment in the SD scheme. The
+predicative acts as the head word of the clause, and the copular verb
+depends on it using a <code>cop</code> (<em>copula</em>) dependency. The only copular
+verb in Finnish is <em>olla</em> “be” (see ISK
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">§891</a>).</p>
 
-<!-- TODO Distinguishing copular structures from other constructs as well as recognizing the subject and the predicative is discussed in Section [copulas](#sec-copulas). -->
+<!-- TODO Distinguishing copular structures from other constructs as
+well as recognizing the subject and the predicative is discussed in
+Section [copulas](#sec-copulas). -->
 
 <!-- fname:cop.pdf -->
 <pre><code class="language-sdparse">Huivi oli punainen . \n The_scarf was red .
@@ -216,11 +222,20 @@ cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 </code></pre>
 
-<p>A <em>clausal copular subject</em> (csubj:cop) is a clause that acts as
-the subject of another, copular clause. As in all copular clauses, the
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">http://scripta.kotus.fi/visk/sisallys.php?p=891</a> (in Finnish)</li>
+</ul>
+
+<p>A <em>clausal copular subject</em> (<code>csubj:cop</code>) is a clause that acts as the
+subject of another, copular clause. As in all copular clauses, the
 predicative acts as the head of the clause and hence it is also the
-governor of the copular subject.
-<!--The distinction between clauses acting as the copular subject of another clause and so called necessive structures is discussed in Section [necessives](#sec-necessives).--></p>
+governor of the copular subject. </p>
+
+<!--The distinction between clauses acting as the copular subject of
+another clause and so called necessive structures is discussed in
+Section [necessives](#sec-necessives).-->
 
 <!-- fname:csubj-cop.pdf -->
 <pre><code class="language-sdparse">Oli hauskaa käydä teatterissa . \n Was fun to_go to_theatre .
@@ -246,7 +261,15 @@ punct(kuiva-4, .-5)
 
 <h2 id="finnish-documentation-for-relations-with-tag-case">Finnish documentation for relations with tag “case”</h2>
 
-<p>The dependency type <code>case</code> is used for the adposition in pre- and postpositional phrases. In the Finnish-specific SD scheme, the head of an adpositional phrase is the nominal, not the adposition, so as to analyze adpositional phrases similarly to nominal modifiers without an adposition. (Such nominal modifiers are frequent in Finnish, as cases are often used for the same purpose as adpositions.) To the same end, the type <code>case</code> is used in combination with the type <code>nmod</code>, which is also used for nominal modifiers when no adposition is present (see Section <a href="http://universaldependencies.github.io/docs/fi/nmod.html">nmod</a>).</p>
+<p>The dependency type <code>case</code> is used for the adposition in pre- and
+postpositional phrases. In the Finnish-specific SD scheme, the head of
+an adpositional phrase is the nominal, not the adposition, so as to
+analyze adpositional phrases similarly to nominal modifiers without an
+adposition. (Such nominal modifiers are frequent in Finnish, as cases
+are often used for the same purpose as adpositions.) To the same end,
+the type <code>case</code> is used in combination with the type <code>nmod</code>, which is
+also used for nominal modifiers when no adposition is present (see
+<a href="">nmod</a>).</p>
 
 <!-- fname:adpos.pdf -->
 <pre><code class="language-sdparse">Talo sijaitsee mäen takana . \n House is_located hill behind .
