@@ -1,17 +1,17 @@
 ---
 layout: entry
-title:  'preconj'
+title:  'cc:preconj'
 shortdef : 'preconjunction'
 ---
 
-*Preconjunction* (`preconj`) marks the first part of those two-part
+*Preconjunction* (`cc:preconj`) marks the first part of those two-part
 coordinating conjunctions where the two parts are separated by
 coordinated elements.
 
 <!-- fname:preconj.pdf -->
 ~~~ sdparse
 sekä talo että piha \n both house and yard
-preconj(talo-2, sekä-1)
+cc:preconj(talo-2, sekä-1)
 cc(talo-2, että-3)
 conj(talo-2, piha-4)
 ~~~
