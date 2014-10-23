@@ -67,7 +67,7 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td />
 	  <td><a href="ccomp-nf.html" class="doclabel">↳ccomp:nf</a></td>
-	  <td />
+	  <td><a href="xcomp-acomp.html" class="doclabel">↳xcomp:acomp</a></td>
 	</tr>
 	<tr>
 	  <td><strike>iobj</strike></td>
@@ -311,21 +311,6 @@ that is modified, and the dependent is the head of the clause that
 modifies the noun.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
-
-<h2><code>acomp</code>: adjectival complement</h2>
-
-<p>The dependency type <code>acomp</code> is used for adjectival complements of
-verbs, except for predicatives.</p>
-
-<pre><code class="language-sdparse">Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
-nsubj(teki, Hän)
-nmod(teki, siitä)
-advmod(vaikeaa, hyvin)
-acomp(teki, vaikeaa)
-punct(teki, .)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acomp.md" target="#">edit acomp</a></p>
 
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
@@ -1356,6 +1341,21 @@ punct(tulisitko-3, ?-5)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/vocative.md" target="#">edit vocative</a></p>
+
+<h2><code>xcomp:acomp</code>: adjectival complement</h2>
+
+<p>The dependency type <code>xcomp:acomp</code> is used for adjectival complements of
+verbs, except for predicatives.</p>
+
+<pre><code class="language-sdparse">Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
+nsubj(teki, Hän)
+nmod(teki, siitä)
+advmod(vaikeaa, hyvin)
+xcomp:acomp(teki, vaikeaa)
+punct(teki, .)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-acomp.md" target="#">edit xcomp:acomp</a></p>
 
 <h2><code>xcomp</code>: open clausal complement</h2>
 
