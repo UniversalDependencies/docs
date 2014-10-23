@@ -16,18 +16,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Finnish](fi-dep/acl:relcl)
 
 
-## case
-- case:poss
-[English](en-dep/case:poss)
-[Finnish](fi-dep/case:poss)
-
-- case:gsubj
-[Finnish](fi-dep/case:gsubj)
-
-- case:gobj
-[Finnish](fi-dep/case:gobj)
-
-
 ## cc
 - cc:preconj
 [English](en-dep/cc:preconj)
@@ -54,14 +42,24 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## nmod
+- nmod:gsubj
+[Finnish](fi-dep/nmod:gsubj)
+
+- case:gobj
+[Finnish](fi-dep/nmod:gobj)
+
 - nmod:npmod
 [English](en-dep/nmod:npmod)
 
-- nmod:tmod
-[English](en-dep/nmod:tmod)
-
 - nmod:own
 [Finnish](fi-dep/nmod:own)
+
+- nmod:poss
+[English](en-dep/nmod:poss)
+[Finnish](fi-dep/nmod:poss)
+
+- nmod:tmod
+[English](en-dep/nmod:tmod)
 
 
 ## nsubj
