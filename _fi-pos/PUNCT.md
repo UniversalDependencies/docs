@@ -12,5 +12,3 @@ used in many languages to delimit linguistic units in printed text.
 * Period: _<b>.</b>_
 * Comma: _<b>,</b>_
 * Parentheses: _<b>()</b>_
- 
-(This language-specific documentation is work in progress.)

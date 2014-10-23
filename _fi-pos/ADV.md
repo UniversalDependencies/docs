@@ -12,5 +12,3 @@ direction or manner.
 
 * _<b>hyvin</b> suuri_ "<b>very</b> large"
 * _<b>erittäin</b> vaikea_ "<b>extremely</b> difficult"
-
-(This language-specific documentation is work in progress.)

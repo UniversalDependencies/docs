@@ -13,5 +13,3 @@ form, function, or both.
 * _+, −, ×, ÷, =, <, >_
 * :), ♥‿♥, 😝
 * _john.doe@universal.org, http://universaldependencies.github.io/docs/, 1-800-COMPANY_
-
-(This language-specific documentation is work in progress.)
