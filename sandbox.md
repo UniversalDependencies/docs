@@ -32,6 +32,8 @@ Link: [link text](http://www.example.com)
 
 ### header 3
 
+#### header 4
+
 *italics* and **bold**
 
 `inline code`
