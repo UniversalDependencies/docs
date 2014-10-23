@@ -21,34 +21,41 @@ punct(jätin-5, .-8)
 
 The main subordinating conjunctions in TDT are:
 
-+ että (that)
-+ jotta (so that)
-+ koska (because)
-+ kun (when)
-+ jos (if)
-+ vaikka (even though)
-+ kunnes (until)
-+ kuin (as, than)
+* _että_ "that"
+* _jotta_ "so that"
+* _koska_ "because"
+* _kun_ "when"
+* _jos_ "if"
+* _vaikka_ "even though"
+* _kunnes_ "until"
+* _kuin_ "as, than"
 
-Note that the conjunction *että* (usually) starts a complement clause, in which case it is marked as a complementizer [complm](). On a similar note, the conjunction *kuin* also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier [advmod]() as well as a comparative conjunction 
+Note that the conjunction *että* (usually) starts a complement clause,
+in which case it is marked as a complementizer [complm](). On a
+similar note, the conjunction *kuin* also has several uses. In
+addition to a subordinating conjunction, it can also serve as an
+adverb modifier [advmod]() as well as a comparative conjunction
 [comparator]().
 
-In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.
+In addition to the basic subordinating conjunctions, the following
+words or word combinations can be considered subordinating
+conjunctions in TDT. Not all of these expressions have a direct
+counterpart in English, and thus the translations are approximate.
 
-+ ennenkuin (before)
-+ jahka (as soon as)
-+ jos kohta (even if)
-+ kun taas (whereas)
-+ kuten (like, as)
-+ mikäli (if)
-+ mitä nyt (only)
-+ muuten (otherwise)
-+ niin (so)
-+ niinkuin/niinku (like, standard and colloquial version)
-+ paitsi (except)
-+ paitsi että (except that)
-+ paitsi jos (except if)
-+ sikäli kuin (if)
-+ sillä (because)
-+ sitten kun (then when)
-+ vähän kuin (a bit like)
+* _ennenkuin_ "before"
+* _jahka_ "as soon as"
+* _jos kohta_ "even if"
+* _kun taas_ "whereas"
+* _kuten_ "like, as"
+* _mikäli_ "if"
+* _mitä nyt_ "only"
+* _muuten_ "otherwise"
+* _niin_ "so"
+* _niinkuin/niinku_ "like" (standard and colloquial version)
+* _paitsi_ "except"
+* _paitsi että_ "except that"
+* _paitsi jos_ "except if"
+* _sikäli kuin_ "if"
+* _sillä_ "because"
+* _sitten kun_ "then when"
+* _vähän kuin_ "a bit like"

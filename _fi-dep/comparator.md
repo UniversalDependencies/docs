@@ -4,7 +4,10 @@ title:  'comparator'
 shortdef : 'comparative conjunction'
 ---
 
-The *comparative conjunction* (most commonly *kuin*, which corresponds roughly to *than* and *as* in English) is marked with the dependency type `comparator`. The head of the dependency is the element being compared.
+The *comparative conjunction* (most commonly *kuin*, which corresponds
+roughly to "than" and "as" in English) is marked with the dependency
+type `comparator`. The head of the dependency is the element being
+compared.
 
 <!-- fname:comparator.pdf -->
 ~~~ sdparse

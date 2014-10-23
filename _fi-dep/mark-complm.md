@@ -4,9 +4,10 @@ title:  'mark:complm'
 shortdef : 'complementizer'
 ---
 
-The *complementizer* (`mark:complm`) appears in most clausal complements,
-and the head of the dependency is the main verb of the subordinate
-clause. The only complementizer in Finnish is *että* (*that*).
+The *complementizer* (`mark:complm`) appears in most clausal
+complements, and the head of the dependency is the main verb of the
+subordinate clause. The only complementizer in Finnish is _että_
+"that".
 
 <!-- fname:complm.pdf -->
 ~~~ sdparse

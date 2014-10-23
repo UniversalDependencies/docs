@@ -4,7 +4,10 @@ title:  'compar'
 shortdef : 'comparative'
 ---
 
-The dependency type `compar` is used in comparative constructions, most often involving adjectives in the comparative form. The head of the `compar` dependency is the comparative wordform, and the dependent is the compared element. 
+The dependency type `compar` is used in comparative constructions,
+most often involving adjectives in the comparative form. The head of
+the `compar` dependency is the comparative wordform, and the dependent
+is the compared element.
 
 <!-- fname:compar.pdf -->
 ~~~ sdparse
@@ -50,7 +53,6 @@ comparator(olohuone-5, kuin-4)
 punct(pienempi-3, .-6)
 ~~~
 
-
 Note that the comparative adjective or adverb remains the head of
 the `compar` dependency even if the word order is such that
 the dependency becomes non-projective.
@@ -65,7 +67,6 @@ compar(isompi-3, Pekalla-6)
 comparator(Pekalla-6, kuin-5)
 punct(on-2, .-7)
 ~~~
-
 
 From the previous example it can also be seen that comparative
 structures are often elliptical in some way. Strictly speaking, the
@@ -90,15 +91,13 @@ compar(suurempi-4, keittiötä-3)
 punct(suurempi-4, .-5)
 ~~~
 
-
-In TDT, also some structures not involving a comparative adjective
-or adverb can be marked as comparatives. In order to qualify as a
+In TDT, also some structures not involving a comparative adjective or
+adverb can be marked as comparatives. In order to qualify as a
 comparative construction, a structure has to contain either a
 comparative word form or a word form that otherwise semantically
-entails comparison, such as *samanlainen (similar)*, *sama
-  (same)*, *erilainen (different)* or *eri (differing,
-  separate)*. (Note that for example the word \emph{sama} is
-  in fact a pronoun in Finnish.)
+entails comparison, such as _samanlainen_ "similar", _sama_ "same",
+_erilainen_ "different" or _eri_ "differing, separate". (Note that for
+example the word _sama_ "same" is in fact a pronoun in Finnish.)
 
 <!-- fname:comparative_sama.pdf -->
 ~~~ sdparse
@@ -111,13 +110,12 @@ punct(Luin-1, .-6)
 ~~~
 
 An additional difficulty is posed by the fact that in Finnish, the
-comparative conjunction *kuin* can also appear as a
-subordinating conjunction as well as an adverb. Borderline
-situations are resolved on a case-by-case basis, considering whether
-or not there is a comparison involved in the structure and,
-secondarily, whether the dependent structure is a
-clause. (Comparative structures can also occasionally be
-  full clauses.)
+comparative conjunction _kuin_ can also appear as a subordinating
+conjunction as well as an adverb. Borderline situations are resolved
+on a case-by-case basis, considering whether or not there is a
+comparison involved in the structure and, secondarily, whether the
+dependent structure is a clause. (Comparative structures can also
+occasionally be full clauses.)
 
 #### Superlatives
 
@@ -140,7 +138,6 @@ case(muiden-4, takana-5)
 punct(oli-3, .-6)
 ~~~
 
-
 Often a superlative is modified by nominal in some manner. A very
 common phenomenon is a genitive modifier modifying a superlative.
 For instance, in an expression such as
@@ -152,11 +149,10 @@ poss(paras-2, Suomen-1)
 amod(kokki-3, paras-2)
 ~~~
 
-
-the cook is the best *of those in/of Finland* and
-thus the correct head word for the genitive modifier is
-*paras*. Similarly, an ordinal number can act as the head of a
-genitive modifier. For example, in
+the cook is the best *of those in/of Finland* and thus the correct
+head word for the genitive modifier is _paras_ "best". Similarly, an
+ordinal number can act as the head of a genitive modifier. For
+example, in
 
 <!-- fname:super2.pdf -->
 ~~~ sdparse
@@ -165,14 +161,11 @@ poss(kuudes-2, Virtasen-1)
 num(mestaruus-3, kuudes-2)
 ~~~
 
+the championship is the sixth out of *those of Virtanen*, and thus the
+genitive modifier should modify the ordinal number.
 
-
-the championship is the sixth out of *those of
-  Virtanen*, and thus the genitive modifier should modify the
-ordinal number.
-
-However, it is still possible for the noun to act as the head word
-in some cases. For instance, in
+However, it is still possible for the noun to act as the head word in
+some cases. For instance, in
 
 <!-- fname:super3.pdf -->
 ~~~ sdparse
@@ -181,39 +174,34 @@ poss(vihollinen-3, Rusakon-1)
 amod(vihollinen-3, pahin-2)
 ~~~
 
-
-the enemy is not the worst *of the hare*, but rather
-it is an enemy of the hare, and it is the worst enemy. Thus, the
-head word should be *hare*.
+the enemy is not the worst *of the hare*, but rather it is an enemy of
+the hare, and it is the worst enemy. Thus, the head word should be
+*hare*.
 
 As a rule of thumb, if the noun phrase containing the genitive
 modifier can be turned into a copular clause in the following
 fashion, then the genitive modifier should modify the superlative or
 ordinal number.
 
-- Kokki on Suomen paras. (The cook is the best in
-  Finland.)
-- Mestaruus on Virtasen kuudes. (The
-  championship is the sixth for Virtanen.)
+* _Kokki on Suomen paras_ "The cook is the best in Finland"
+* _Mestaruus on Virtasen kuudes_ "The championship is the sixth for Virtanen"
 
 are perfectly valid, but
 
-- ?Vihollinen on rusakon pahin. (?The enemy is the worst of
-  the hare.)
+* ?_Vihollinen on rusakon pahin_ ?"The enemy is the worst of
+  the hare"
 
-is questionable at best. Thus, in *Suomen paras
-  kokki* and *Virtasen kuudes mestaruus*, the genitive modifier
-is considered to modify the superlative adjective, but in
-*rusakon pahin vihollinen*, it is considered to modify the noun
-directly.
+is questionable at best. Thus, in _Suomen paras kokki_ and _Virtasen
+kuudes mestaruus_, the genitive modifier is considered to modify the
+superlative adjective, but in _rusakon pahin vihollinen_, it is
+considered to modify the noun directly.
 
 In this context, it should also be noted that in addition to
 superlatives, also certain other adjectives can also act as the head
 of a genitive modifier. These adjectives can be semantically
-superlative-like (*viimeinen (last)*), but there are also many
-others, such as *oma (own)*, *kaltainen (-like)*,
-*välinen (between (adj.))*, and *vastainen (against
-  (adj.))*.
+superlative-like _viimeinen_ "last", but there are also many others,
+such as _oma_ "own", _kaltainen_ "-like", _välinen_ "between (adj.)",
+and _vastainen_ "against (adj.)".
 
 Also other nominal modifiers are possible, expressing the set of
 beings from which the objects are drawn when making the
@@ -230,7 +218,8 @@ nmod(oli-3, ikkunalaudalla-4)
 punct(oli-3, .-5)
 ~~~
 
-Note how in the previous example the phrase *kukista kaunein*
-can act as a noun phrase (it is the subject of the clause), even
-though its head word is an adjective. <!-- TODO See Section~\ref{sec-NP-no-N}
-on nounless noun phrases.-->
+Note how in the previous example the phrase _kukista kaunein_ can act
+as a noun phrase (it is the subject of the clause), even though its
+head word is an adjective.
+
+<!-- TODO See Section~\ref{sec-NP-no-N} on nounless noun phrases.-->

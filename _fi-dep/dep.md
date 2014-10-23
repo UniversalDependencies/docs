@@ -4,7 +4,11 @@ title:  'dep'
 shortdef : 'dependent'
 ---
 
-The name of the dependency type `dep` stands for *dependent*. It is the most general dependency type in SD, and it is meant to be used when no other, more specific dependency type applies. In TDT, the type `dep` is mostly used in idiomatic two-word expressions. There are also some fixed three-word expressions in the treebank.
+The name of the dependency type `dep` stands for *dependent*. It is
+the most general dependency type in SD, and it is meant to be used
+when no other, more specific dependency type applies. In TDT, the type
+`dep` is mostly used in idiomatic two-word expressions. There are also
+some fixed three-word expressions in the treebank.
 
 <!-- fname:dep.pdf -->
 ~~~ sdparse
@@ -19,114 +23,121 @@ punct(tuli-4, .-7)
 
 <!--details-->
 
-The following expressions are considered idiomatic, and their parts are to be combined with the dependency type `dep` in TDT. Note that this is not intended to be a closed list, but rather a list of examples encountered while annotating TDT. The two-part expressions that fall into the categories of coordinating and subordinating conjunctions are omitted here, and instead listed under <a href="http://universaldependencies.github.io/docs/fi/cc.html">cc</a> and <a href="http://universaldependencies.github.io/docs/fi/mark.html">mark</a>, respectively. Due to the idiomatic nature of these two-part expressions, the translations may on occasion not be very natural.
+The following expressions are considered idiomatic, and their parts
+are to be combined with the dependency type `dep` in TDT. Note that
+this is not intended to be a closed list, but rather a list of
+examples encountered while annotating TDT. The two-part expressions
+that fall into the categories of coordinating and subordinating
+conjunctions are omitted here, and instead listed under [cc]() and
+[mark](), respectively. Due to the idiomatic nature of these two-part
+expressions, the translations may on occasion not be very natural.
 
 ### Adverbs:
 
-+ aika lailla (quite some)
-+ aina vain (forever and ever)
-+ aivan kuin (just like)
-+ alun alkaen (from the beginning, originally)
-+ alun perin (originally)
-+ ennen aikojaan (prematurely)
-+ ennen kaikkea (first and foremost)
-+ ennen muuta (first and foremost)
-+ ennen pitkää (before long)
-+ entä jos (what if)
-+ heti perään (right after)
-+ hyvissä ajoin (on time, in good time)
-+ ihan vaan (only)
-+ ikään kuin (kind of)
-+ ilman muuta (of course)
-+ itse asiassa (as a matter of fact, in fact)
-+ ja niin edelleen (and so on)
-+ jonkin verran (some, to some extent)
-+ jossain määrin, siinä määrin, missä määrin (some, to some extent, to that extent)
-+ kaiken aikaa (all the time)
-+ kaiken kaikkiaan (all in all)
-+ kaikin puolin (in all ways)
-+ kerta kaikkiaan (completely, once and for all)
-+ loppujen lopuksi (in the end)
-+ muun muassa (among others)
-+ miten niin (how so)
-+ missä sattuu, mistä sattuu, minne sattuu (wherever)
-+ mitä jos (what if)
-+ niin ikään (also)
-+ niin kuin (like)
-+ niin sanotusti (so to say)
-+ noin vain (just like that)
-+ no kun (well)
-+ no niin (alright)
-+ näillä näkymin (with the current knowledge)
-+ näin ollen (this being so)
-+ pikku hiljaa (little by little)
-+ pilvin pimein (plenty of)
-+ piri pintaan (full)
-+ päällisin puolin (from the surface of it)
-+ saman tien (at once)
-+ saman verran (the same amount)
-+ sen koom(m)in (since then)
-+ sen suuremmin (any more than that)
-+ sen kun vaan (go ahead)
-+ sen verran (that amount)
-+ siellä täällä (here and there)
-+ siinä sivussa (on the side)
-+ silloin tällöin (every now and then)
-+ sillä aikaa (meanwhile)
-+ sitä mukaa ("accordingly")
-+ sitä paitsi (besides)
-+ sivumennen sanoen (by the way)
-+ summa summarum (all in all)
-+ suuna päänä (headfirst)
-+ suurin piirtein (just about)
-+ ties vaikka (who knows)
-+ toisin sanoen (in other words)
-+ tuon tuosta (all the time)
-+ tuosta vain (just like that)
-+ tämän tästä (all the time)
-+ vähän kuin (a bit like)
-+ yhtä aikaa (at the same time)
-+ yhtä kaikki (all the same)
-+ yhtä paljon (the same amount, as much)
-+ yleisesti ottaen (generally speaking)
+* _aika lailla_ "quite some"
+* _aina vain_ "forever and ever"
+* _aivan kuin_ "just like"
+* _alun alkaen_ "from the beginning, originally"
+* _alun perin_ "originally"
+* _ennen aikojaan_ "prematurely"
+* _ennen kaikkea_ "first and foremost"
+* _ennen muuta_ "first and foremost"
+* _ennen pitkää_ "before long"
+* _entä jos_ "what if"
+* _heti perään_ "right after"
+* _hyvissä ajoin_ "on time, in good time"
+* _ihan vaan_ "only"
+* _ikään kuin_ "kind of"
+* _ilman muuta_ "of course"
+* _itse asiassa_ "as a matter of fact, in fact"
+* _ja niin edelleen_ "and so on"
+* _jonkin verran_ "some, to some extent"
+* _jossain määrin, siinä määrin, missä määrin_ "some, to some extent, to that extent"
+* _kaiken aikaa_ "all the time"
+* _kaiken kaikkiaan_ "all in all"
+* _kaikin puolin_ "in all ways"
+* _kerta kaikkiaan_ "completely, once and for all"
+* _loppujen lopuksi_ "in the end"
+* _muun muassa_ "among others"
+* _miten niin_ "how so"
+* _missä sattuu, mistä sattuu, minne sattuu_ "wherever"
+* _mitä jos_ "what if"
+* _niin ikään_ "also"
+* _niin kuin_ "like"
+* _niin sanotusti_ "so to say"
+* _noin vain_ "just like that"
+* _no kun_ "well"
+* _no niin_ "alright"
+* _näillä näkymin_ "with the current knowledge"
+* _näin ollen_ "this being so"
+* _pikku hiljaa_ "little by little"
+* _pilvin pimein_ "plenty of"
+* _piri pintaan_ "full"
+* _päällisin puolin_ "from the surface of it"
+* _saman tien_ "at once"
+* _saman verran_ "the same amount"
+* _sen koom(m)in_ "since then"
+* _sen suuremmin_ "any more than that"
+* _sen kun vaan_ "go ahead"
+* _sen verran_ "that amount"
+* _siellä täällä_ "here and there"
+* _siinä sivussa_ "on the side"
+* _silloin tällöin_ "every now and then"
+* _sillä aikaa_ "meanwhile"
+* _sitä mukaa_ "accordingly"
+* _sitä paitsi_ "besides"
+* _sivumennen sanoen_ "by the way"
+* _summa summarum_ "all in all"
+* _suuna päänä_ "headfirst"
+* _suurin piirtein_ "just about"
+* _ties vaikka_ "who knows"
+* _toisin sanoen_ "in other words"
+* _tuon tuosta_ "all the time"
+* _tuosta vain_ "just like that"
+* _tämän tästä_ "all the time"
+* _vähän kuin_ "a bit like"
+* _yhtä aikaa_ "at the same time"
+* _yhtä kaikki_ "all the same"
+* _yhtä paljon_ "the same amount, as much"
+* _yleisesti ottaen_ "generally speaking"
 
 ### Adjectives:
 
-+ niin kutsuttu (so called)
-+ niin sanottu (so called)
+* _niin kutsuttu_ "so called"
+* _niin sanottu_ "so called"
 
 ### Adpositions:
 
-+ lukuun ottamatta (disregarding)
+* _lukuun ottamatta_ "disregarding"
 
 ### Determiners:
 
-+ itse kukin (each)
-+ joka ainoa (each and every one)
+* _itse kukin_ "each"
+* _joka ainoa_ "each and every one"
 
 ### Interjections:
 
-+ ai ai (oh oh, tut tut)
-+ ai niin (oh yeah)
-+ ei jumalauta (goddammit)
-+ ei vitsit (oh dear)
-+ hei hei (hey hey, bye bye)
-+ hip hip hurraa (hip hip hooray)
-+ hitto vie (dammit)
-+ jep jep (yep yep)
-+ kas kummaa (surprise surprise)
-+ mitä vittua (what the fuck)
-+ no joo (well yeah)
-+ piru vie (dammit)
-+ totta kai (of course)
-+ voi että (oh dear)
-+ voi po(i)jat (oh boy)
+* _ai ai_ "oh oh, tut tut"
+* _ai niin_ "oh yeah"
+* _ei jumalauta_ "goddammit"
+* _ei vitsit_ "oh dear"
+* _hei hei_ "hey hey, bye bye"
+* _hip hip hurraa_ "hip hip hooray"
+* _hitto vie_ "dammit"
+* _jep jep_ "yep yep"
+* _kas kummaa_ "surprise surprise"
+* _mitä vittua_ "what the fuck"
+* _no joo_ "well yeah"
+* _piru vie_ "dammit"
+* _totta kai_ "of course"
+* _voi että_ "oh dear"
+* _voi po(i)jat_ "oh boy"
 
 ### Nominals:
 
-+ missä ikinä (wherever)
+* _missä ikinä_ "wherever"
 
 ### Other: (the POS may vary)
 
-+ mikä tahansa (whichever, whatever)
-+ mikä vain (whichever, whatever)
+* _mikä tahansa_ "whichever, whatever"
+* _mikä vain_ "whichever, whatever"
