@@ -1,15 +1,15 @@
 ---
 layout: entry
-title:  'prt'
+title:  'compound:prt'
 shortdef : 'phrasal particle'
 ---
 
-*Phrasal particles* (`prt`) are used in connection with *phrasal verbs*, (partikkeliverbi, "particle verb" in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.
+*Phrasal particles* (`compound:prt`) are used in connection with *phrasal verbs*, (partikkeliverbi, "particle verb" in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.
 
 <!-- fname:prt.pdf -->
 ~~~ sdparse
 Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
-prt(Kävi-1, ilmi-2)
+compound:prt(Kävi-1, ilmi-2)
 csubj(Kävi-1, hyvä-7)
 punct(hyvä-7, ,-3)
 complm(hyvä-7, että-4)
