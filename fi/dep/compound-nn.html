@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>nn</title>
+    <title>compound:nn</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nn.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound-nn.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,32 +34,32 @@
 	  </div>
 	</noscript>
 
-          <h2><code>nn</code>: noun compound modifier</h2>
+          <h2><code>compound:nn</code>: noun compound modifier</h2>
 
-<p>The dependency type <code>nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish UD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>nn</code>.</p>
+<p>The dependency type <code>compound:nn</code>, which stands for <em>noun compound modifier</em> has two basic uses in the Finnish UD scheme. The first use involves actual compounds. In Finnish, compounds are generally written as a single word, but for instance some compounds involving foreign words or proper names are written separately using a dash, and in written Finnish, erroneously writing compounds as two words is a common mistake. Both of these cases are marked using <code>compound:nn</code>.</p>
 
 <!-- fname:nn_foreign.pdf -->
 <pre><code class="language-sdparse">Da Vinci -merkkinen luomiväri \n Da Vinci -make eyeshadow
 name(Vinci-2, Da-1)
-nn(-merkkinen-3, Vinci-2)
+compound:nn(-merkkinen-3, Vinci-2)
 amod(luomiväri-4, -merkkinen-3)
 </code></pre>
 
 <!-- fname:nn_error.pdf -->
 <pre><code class="language-sdparse">Ruoka pöytä notkui herkkuja . \n Food table was_full_of goodies .
-nn(pöytä-2, Ruoka-1)
+compound:nn(pöytä-2, Ruoka-1)
 nsubj(notkui-3, pöytä-2)
 dobj(notkui-3, herkkuja-4)
 punct(notkui-3, .-5)
 </code></pre>
 
-<p>The second use of the type <code>nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>.</p>
+<p>The second use of the type <code>compound:nn</code> is to mark <em>appellation modifiers</em>, which are modifying, non-inflecting noun phrases that generally express profession, rank, position, assignment or other such classifiable property (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>). The phenomenon is closely related to that of <em>apposition</em>.</p>
 
 <!-- , and the distinction between the two is described in Section [appos-vs-nn](#sec-appos-vs-nn).-->
 
 <!-- fname:nn_appellation.pdf -->
 <pre><code class="language-sdparse">Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
-nn(Tamminen-3, Professori-1)
+compound:nn(Tamminen-3, Professori-1)
 name(Tamminen-3, Matti-2)
 nsubj(pitää-4, Tamminen-3)
 dobj(pitää-4, puheen-5)
@@ -69,11 +69,6 @@ punct(pitää-4, .-6)
 
 <!-- "in other languages" links -->
 <hr/>
-
-nn in other languages:
-
-[<a href="../../fi/dep/nn.html">fi</a>]
-
 
 
 
