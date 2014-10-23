@@ -92,12 +92,12 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td><a href="nmod-own.html" class="doclabel">↳nmod:own</a></td>
 	  <td></td>
-	  <td><a href="neg.html" class="doclabel">neg</a></td>
+	  <td><a href="advmod-quantmod.html" class="doclabel">↳advmod:quantmod</a></td>
 	</tr>
 	<tr>
 	  <td><a href="nmod-poss.html" class="doclabel">↳nmod:poss</a></td>
 	  <td></td>
-	  <td></td>
+	  <td><a href="neg.html" class="doclabel">neg</a></td>
 	</tr>
 	<tr>
 	  <td><a href="nmod-gsubj.html" class="doclabel">↳nmod:gsubj</a></td>
@@ -334,6 +334,22 @@ punct(keitti-7, .-9)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
+
+<h2><code>advmod:quantmod</code>: quantification modifier</h2>
+
+<p><em>Quantification modifiers</em> (<code>advmod:quantmod</code>) are quantifiers that modify a numerical expression. Certain adverbs (and ad-adjectives, which are sometimes regarded a separate category from adverbs but treated identically in TDT)  and few adjectives are allowed as quantifiers. Note that adverbs that describe the writer’s attitude towards the quantity, such as <em>vain</em> (<em>only</em>), are not considered quantification modifiers, but regular adverb modifiers, although they modify the number. Some examples of words that can act as quantification modifiers include <em>noin</em> (<em>about</em>), vähintään (<em>at least</em>), <em>lähes</em> (<em>almost</em>) and <em>yli</em> (<em>over</em>).</p>
+
+<!-- fname:quantmod.pdf -->
+<pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
+nsubj-cop(neliökilometriä-6, Alue-1)
+cop(neliökilometriä-6, oli-2)
+nmod(neliökilometriä-6, suuruudeltaan-3)
+advmod:quantmod(kymmenen-5, noin-4)
+num(neliökilometriä-6, kymmenen-5)
+punct(neliökilometriä-6, .-7)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-quantmod.md" target="#">edit advmod:quantmod</a></p>
 
 <h2><code>advmod</code>: adverb modifier</h2>
 
@@ -1260,22 +1276,6 @@ nsubj(palasi-7, hän-6)
 <!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/punct.md" target="#">edit punct</a></p>
-
-<h2><code>quantmod</code>: quantification modifier</h2>
-
-<p><em>Quantification modifiers</em> (<code>quantmod</code>) are quantifiers that modify a numerical expression. Certain adverbs (and ad-adjectives, which are sometimes regarded a separate category from adverbs but treated identically in TDT)  and few adjectives are allowed as quantifiers. Note that adverbs that describe the writer’s attitude towards the quantity, such as <em>vain</em> (<em>only</em>), are not considered quantification modifiers, but regular adverb modifiers, although they modify the number. Some examples of words that can act as quantification modifiers include <em>noin</em> (<em>about</em>), vähintään (<em>at least</em>), <em>lähes</em> (<em>almost</em>) and <em>yli</em> (<em>over</em>).</p>
-
-<!-- fname:quantmod.pdf -->
-<pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
-nsubj-cop(neliökilometriä-6, Alue-1)
-cop(neliökilometriä-6, oli-2)
-nmod(neliökilometriä-6, suuruudeltaan-3)
-quantmod(kymmenen-5, noin-4)
-num(neliökilometriä-6, kymmenen-5)
-punct(neliökilometriä-6, .-7)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/quantmod.md" target="#">edit quantmod</a></p>
 
 <h2><code>rel</code>: relativizer</h2>
 
