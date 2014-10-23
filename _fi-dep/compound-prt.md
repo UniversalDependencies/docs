@@ -32,54 +32,54 @@ In contrast, *ottaa kiinni* (*catch*) is a phrasal verb, as it has a meaning dis
 
 The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)
 
-+ ajaa takaa (chase)
-+ antaa periksi (give up)
-+ astua voimaan (become valid)
-+ jäädä jälkeen (be left behind)
-+ jäädä kiinni (only in the sense "be caught", not in the sense "be stuck into something")  (be caught)
-+ jäädä käteen (The figurative reading only.)  ("be left in one's hand", one is left with something)
-+ jäädä väliin (be passed (In the sense "I'll pass.") )
-+ kiriä kiinni (close the distance)
-+ kuroa kiinni (close the distance)
-+ kutsua kokoon (summon)
-+ kutsua koolle (summon)
-+ käydä ilmi (come up)
-+ käydä kateeksi (make jealous)
-+ käydä läpi (go through)
-+ käydä sääliksi (be pitied)
-+ laskea alleen (wet one's pants)
-+ lyödä laimin (neglect)
-+ lyödä läpi (strike through)
-+ nukkua pommiin (oversleep)
-+ olla kaupan (be for sale)
-+ olla meneillään (be happening)
-+ olla tarpeen (be necessary)
-+ olla tarvis (be necessary)
-+ olla voimassa (be valid)
-+ ottaa irti (in expressions such as "ottaa ilo irti")  ("take sth out", make the most of)
-+ ottaa kiinni (catch)
-+ ottaa lukuun (take into account)
-+ ottaa mukaan (take along)
-+ ottaa selvää (find out)
-+ ottaa vaari(n) (take advice)
-+ ottaa vastaan (receive)
-+ painaa päälle (push, stress on)
-+ panna merkille (take note)
-+ panna täytäntöön (put into action)
-+ pidellä kiinni (hold on)
-+ pitää kaupan (keep for sale)
-+ pitää kiinni (hold on)
-+ pitää voimassa (keep valid)
-+ pitää yllä (maintain)
-+ päästä käsiksi (get one's hands on)
-+ päästä läpi (get through)
-+ päästää irti (let go)
-+ saada aikaan (get sth done)
-+ saada aikaiseksi (get sth done)
-+ saada kiinni (catch)
-+ saada läpi (get sth through)
-+ saada vireille (get sth started)
-+ tulla mukaan (come along (In the sense of "follow", not the social sense.) )
-+ tulla tarpeen (become necessary)
-+ tulla vastaan (come across)
-+ tulla voimaan (become valid)
+* _ajaa takaa_ "chase"
+* _antaa periksi_ "give up"
+* _astua voimaan_ "become valid"
+* _jäädä jälkeen_ "be left behind"
+* _jäädä kiinni_ "be caught" (not in the sense _be stuck into something_) 
+* _jäädä käteen_ "be left in one's hand", "one is left with something" (figurative reading only.) 
+* _jäädä väliin_ "be passed" (In the sense _I'll pass._)
+* _kiriä kiinni_ "close the distance"
+* _kuroa kiinni_ "close the distance"
+* _kutsua kokoon_ "summon"
+* _kutsua koolle_ "summon"
+* _käydä ilmi_ "come up"
+* _käydä kateeksi_ "make jealous"
+* _käydä läpi_ "go through"
+* _käydä sääliksi_ "be pitied"
+* _laskea alleen_ "wet one's pants"
+* _lyödä laimin_ "neglect"
+* _lyödä läpi_ "strike through"
+* _nukkua pommiin_ "oversleep"
+* _olla kaupan_ "be for sale"
+* _olla meneillään_ "be happening"
+* _olla tarpeen_ "be necessary"
+* _olla tarvis_ "be necessary"
+* _olla voimassa_ "be valid"
+* _ottaa irti_ "take sth out", "make the most of" (in expressions such as "ottaa ilo irti")
+* _ottaa kiinni_ "catch"
+* _ottaa lukuun_ "take into account"
+* _ottaa mukaan_ "take along"
+* _ottaa selvää_ "find out"
+* _ottaa vaari(n)_ "take advice"
+* _ottaa vastaan_ "receive"
+* _painaa päälle_ "push, stress on"
+* _panna merkille_ "take note"
+* _panna täytäntöön_ "put into action"
+* _pidellä kiinni_ "hold on"
+* _pitää kaupan_ "keep for sale"
+* _pitää kiinni_ "hold on"
+* _pitää voimassa_ "keep valid"
+* _pitää yllä_ "maintain"
+* _päästä käsiksi_ "get one's hands on"
+* _päästä läpi_ "get through"
+* _päästää irti_ "let go"
+* _saada aikaan_ "get sth done"
+* _saada aikaiseksi_ "get sth done"
+* _saada kiinni_ "catch"
+* _saada läpi_ "get sth through"
+* _saada vireille_ "get sth started"
+* _tulla mukaan_ "come along" (In the sense of *follow*, not the social sense.)
+* _tulla tarpeen_ "become necessary"
+* _tulla vastaan_ "come across"
+* _tulla voimaan_ "become valid"
