@@ -1,10 +1,10 @@
 ---
 layout: entry
-title:  'complm'
+title:  'mark:complm'
 shortdef : 'complementizer'
 ---
 
-The *complementizer* (`complm`) appears in most clausal complements,
+The *complementizer* (`mark:complm`) appears in most clausal complements,
 and the head of the dependency is the main verb of the subordinate
 clause. The only complementizer in Finnish is *että* (*that*).
 
@@ -13,7 +13,7 @@ clause. The only complementizer in Finnish is *että* (*that*).
 Sanoin , että hän voi tulla . \n I_said , that he can come .
 ccomp(Sanoin-1, tulla-6)
 punct(tulla-6, ,-2)
-complm(tulla-6, että-3)
+mark:complm(tulla-6, että-3)
 nsubj(tulla-6, hän-4)
 aux(tulla-6, voi-5)
 punct(Sanoin-1, .-7)
