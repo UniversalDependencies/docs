@@ -168,9 +168,6 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
-- label: 'case-poss'
-  languages:
-  - label: 'en/dep'
 - label: 'cc'
   languages:
   - label: 'bg/dep'
@@ -649,6 +646,7 @@
   - label: 'fi/dep'
 - label: 'nmod-poss'
   languages:
+  - label: 'en/dep'
   - label: 'fi/dep'
 - label: 'nmod-tmod'
   languages:
