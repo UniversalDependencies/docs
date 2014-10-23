@@ -16,7 +16,7 @@ number or quantity, etc.
 In Bulgarian the definite article is part of the word, thus it is not considered
 an determiner.
 
-However, the following pronouns are mapped to [detereminers](DET):
+However, the following pronouns are mapped to [determiners](DET):
 
 - demonstratives: Pda#, Pde#
 - relatives: Pra#, Pre#, Prp#
