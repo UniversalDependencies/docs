@@ -30,7 +30,8 @@ The main subordinating conjunctions in TDT are:
 + kunnes (until)
 + kuin (as, than)
 
-Note that the conjunction *että* (usually) starts a complement clause, in which case it is marked as a complementizer <a href="http://universaldependencies.github.io/docs/fi/complm.html">complm</a>. On a similar note, the conjunction *kuin* also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier <a href="http://universaldependencies.github.io/docs/fi/advmod.html">advmod</a> as well as a comparative conjunction <a href="http://universaldependencies.github.io/docs/fi/comparator.html">comparator</a>.
+Note that the conjunction *että* (usually) starts a complement clause, in which case it is marked as a complementizer [complm](). On a similar note, the conjunction *kuin* also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier [advmod]() as well as a comparative conjunction 
+[comparator]().
 
 In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.
 
