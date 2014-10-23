@@ -177,8 +177,11 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="goeswith.html" class="doclabel">goeswith</a></td>
 	</tr>
 	<tr>
-	  <td><a href="name.html" class="doclabel">name</a></td>
+	  <td><a href="compound-prt.html" class="doclabel">↳compound:prt</a></td>
 	  <td><a href="foreign.html" class="doclabel">foreign</a></td>
+	</tr>
+	<tr>
+	  <td><a href="name.html" class="doclabel">name</a></td>
 	</tr>
       </table>
 
@@ -625,6 +628,35 @@ punct(Sanoin-1, .-7)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/complm.md" target="#">edit complm</a></p>
+
+<h2><code>compound:prt</code>: phrasal particle</h2>
+
+<p><em>Phrasal particles</em> (<code>compound:prt</code>) are used in connection with <em>phrasal verbs</em>, (partikkeliverbi, “particle verb” in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
+
+<!-- fname:prt.pdf -->
+<pre><code class="language-sdparse">Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
+compound:prt(Kävi-1, ilmi-2)
+csubj(Kävi-1, hyvä-7)
+punct(hyvä-7, ,-3)
+complm(hyvä-7, että-4)
+nsubj-cop(hyvä-7, ehdotus-5)
+cop(hyvä-7, oli-6)
+punct(hyvä-7, .-8)
+</code></pre>
+
+<p>Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.</p>
+
+<p>For instance, <em>laittaa kiinni</em> (<em>make closed, close</em>) is not a phrasal verb, as <em>kiinni</em> can be modified.</p>
+
+<p><em>Laitoin oven kokonaan kiinni. (I closed the door entirely.)</em></p>
+
+<p>In contrast, <em>ottaa kiinni</em> (<em>catch</em>) is a phrasal verb, as it has a meaning distinct from the verb <em>ottaa</em> (<em>take</em>), and <em>kiinni</em> cannot be modified.</p>
+
+<p><em>*Poliisi otti rosvon kokonaan kiinni. (*The police caught the robber entirely.)</em></p>
+
+<p><a href="compound:prt">See details</a></p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound-prt.md" target="#">edit compound:prt</a></p>
 
 <h2><code>compound</code>: compound</h2>
 
@@ -1210,35 +1242,6 @@ punct(osoittautui-2, .-5)
 <!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/partmod.md" target="#">edit partmod</a></p>
-
-<h2><code>prt</code>: phrasal particle</h2>
-
-<p><em>Phrasal particles</em> (<code>prt</code>) are used in connection with <em>phrasal verbs</em>, (partikkeliverbi, “particle verb” in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
-
-<!-- fname:prt.pdf -->
-<pre><code class="language-sdparse">Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
-prt(Kävi-1, ilmi-2)
-csubj(Kävi-1, hyvä-7)
-punct(hyvä-7, ,-3)
-complm(hyvä-7, että-4)
-nsubj-cop(hyvä-7, ehdotus-5)
-cop(hyvä-7, oli-6)
-punct(hyvä-7, .-8)
-</code></pre>
-
-<p>Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.</p>
-
-<p>For instance, <em>laittaa kiinni</em> (<em>make closed, close</em>) is not a phrasal verb, as <em>kiinni</em> can be modified.</p>
-
-<p><em>Laitoin oven kokonaan kiinni. (I closed the door entirely.)</em></p>
-
-<p>In contrast, <em>ottaa kiinni</em> (<em>catch</em>) is a phrasal verb, as it has a meaning distinct from the verb <em>ottaa</em> (<em>take</em>), and <em>kiinni</em> cannot be modified.</p>
-
-<p><em>*Poliisi otti rosvon kokonaan kiinni. (*The police caught the robber entirely.)</em></p>
-
-<p><a href="prt">See details</a></p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/prt.md" target="#">edit prt</a></p>
 
 <h2><code>punct</code>: punctuation</h2>
 

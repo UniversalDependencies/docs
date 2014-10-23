@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>prt</title>
+    <title>compound:prt</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/prt.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound-prt.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,13 +34,13 @@
 	  </div>
 	</noscript>
 
-          <h2><code>prt</code>: phrasal particle</h2>
+          <h2><code>compound:prt</code>: phrasal particle</h2>
 
-<p><em>Phrasal particles</em> (<code>prt</code>) are used in connection with <em>phrasal verbs</em>, (partikkeliverbi, “particle verb” in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
+<p><em>Phrasal particles</em> (<code>compound:prt</code>) are used in connection with <em>phrasal verbs</em>, (partikkeliverbi, “particle verb” in Finnish grammar)  where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
 
 <!-- fname:prt.pdf -->
 <pre><code class="language-sdparse">Kävi ilmi , että ehdotus oli hyvä . \n Turned out , that the_suggestion was good .
-prt(Kävi-1, ilmi-2)
+compound:prt(Kävi-1, ilmi-2)
 csubj(Kävi-1, hyvä-7)
 punct(hyvä-7, ,-3)
 complm(hyvä-7, että-4)
@@ -64,67 +64,62 @@ punct(hyvä-7, .-8)
 <p>The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)</p>
 
 <ul>
-  <li>ajaa takaa (chase)</li>
-  <li>antaa periksi (give up)</li>
-  <li>astua voimaan (become valid)</li>
-  <li>jäädä jälkeen (be left behind)</li>
-  <li>jäädä kiinni (only in the sense “be caught”, not in the sense “be stuck into something”)  (be caught)</li>
-  <li>jäädä käteen (The figurative reading only.)  (“be left in one’s hand”, one is left with something)</li>
-  <li>jäädä väliin (be passed (In the sense “I’ll pass.”) )</li>
-  <li>kiriä kiinni (close the distance)</li>
-  <li>kuroa kiinni (close the distance)</li>
-  <li>kutsua kokoon (summon)</li>
-  <li>kutsua koolle (summon)</li>
-  <li>käydä ilmi (come up)</li>
-  <li>käydä kateeksi (make jealous)</li>
-  <li>käydä läpi (go through)</li>
-  <li>käydä sääliksi (be pitied)</li>
-  <li>laskea alleen (wet one’s pants)</li>
-  <li>lyödä laimin (neglect)</li>
-  <li>lyödä läpi (strike through)</li>
-  <li>nukkua pommiin (oversleep)</li>
-  <li>olla kaupan (be for sale)</li>
-  <li>olla meneillään (be happening)</li>
-  <li>olla tarpeen (be necessary)</li>
-  <li>olla tarvis (be necessary)</li>
-  <li>olla voimassa (be valid)</li>
-  <li>ottaa irti (in expressions such as “ottaa ilo irti”)  (“take sth out”, make the most of)</li>
-  <li>ottaa kiinni (catch)</li>
-  <li>ottaa lukuun (take into account)</li>
-  <li>ottaa mukaan (take along)</li>
-  <li>ottaa selvää (find out)</li>
-  <li>ottaa vaari(n) (take advice)</li>
-  <li>ottaa vastaan (receive)</li>
-  <li>painaa päälle (push, stress on)</li>
-  <li>panna merkille (take note)</li>
-  <li>panna täytäntöön (put into action)</li>
-  <li>pidellä kiinni (hold on)</li>
-  <li>pitää kaupan (keep for sale)</li>
-  <li>pitää kiinni (hold on)</li>
-  <li>pitää voimassa (keep valid)</li>
-  <li>pitää yllä (maintain)</li>
-  <li>päästä käsiksi (get one’s hands on)</li>
-  <li>päästä läpi (get through)</li>
-  <li>päästää irti (let go)</li>
-  <li>saada aikaan (get sth done)</li>
-  <li>saada aikaiseksi (get sth done)</li>
-  <li>saada kiinni (catch)</li>
-  <li>saada läpi (get sth through)</li>
-  <li>saada vireille (get sth started)</li>
-  <li>tulla mukaan (come along (In the sense of “follow”, not the social sense.) )</li>
-  <li>tulla tarpeen (become necessary)</li>
-  <li>tulla vastaan (come across)</li>
-  <li>tulla voimaan (become valid)</li>
+  <li><em>ajaa takaa</em> “chase”</li>
+  <li><em>antaa periksi</em> “give up”</li>
+  <li><em>astua voimaan</em> “become valid”</li>
+  <li><em>jäädä jälkeen</em> “be left behind”</li>
+  <li><em>jäädä kiinni</em> “be caught” (not in the sense <em>be stuck into something</em>) </li>
+  <li><em>jäädä käteen</em> “be left in one’s hand”, “one is left with something” (figurative reading only.) </li>
+  <li><em>jäädä väliin</em> “be passed” (In the sense <em>I’ll pass.</em>)</li>
+  <li><em>kiriä kiinni</em> “close the distance”</li>
+  <li><em>kuroa kiinni</em> “close the distance”</li>
+  <li><em>kutsua kokoon</em> “summon”</li>
+  <li><em>kutsua koolle</em> “summon”</li>
+  <li><em>käydä ilmi</em> “come up”</li>
+  <li><em>käydä kateeksi</em> “make jealous”</li>
+  <li><em>käydä läpi</em> “go through”</li>
+  <li><em>käydä sääliksi</em> “be pitied”</li>
+  <li><em>laskea alleen</em> “wet one’s pants”</li>
+  <li><em>lyödä laimin</em> “neglect”</li>
+  <li><em>lyödä läpi</em> “strike through”</li>
+  <li><em>nukkua pommiin</em> “oversleep”</li>
+  <li><em>olla kaupan</em> “be for sale”</li>
+  <li><em>olla meneillään</em> “be happening”</li>
+  <li><em>olla tarpeen</em> “be necessary”</li>
+  <li><em>olla tarvis</em> “be necessary”</li>
+  <li><em>olla voimassa</em> “be valid”</li>
+  <li><em>ottaa irti</em> “take sth out”, “make the most of” (in expressions such as “ottaa ilo irti”)</li>
+  <li><em>ottaa kiinni</em> “catch”</li>
+  <li><em>ottaa lukuun</em> “take into account”</li>
+  <li><em>ottaa mukaan</em> “take along”</li>
+  <li><em>ottaa selvää</em> “find out”</li>
+  <li><em>ottaa vaari(n)</em> “take advice”</li>
+  <li><em>ottaa vastaan</em> “receive”</li>
+  <li><em>painaa päälle</em> “push, stress on”</li>
+  <li><em>panna merkille</em> “take note”</li>
+  <li><em>panna täytäntöön</em> “put into action”</li>
+  <li><em>pidellä kiinni</em> “hold on”</li>
+  <li><em>pitää kaupan</em> “keep for sale”</li>
+  <li><em>pitää kiinni</em> “hold on”</li>
+  <li><em>pitää voimassa</em> “keep valid”</li>
+  <li><em>pitää yllä</em> “maintain”</li>
+  <li><em>päästä käsiksi</em> “get one’s hands on”</li>
+  <li><em>päästä läpi</em> “get through”</li>
+  <li><em>päästää irti</em> “let go”</li>
+  <li><em>saada aikaan</em> “get sth done”</li>
+  <li><em>saada aikaiseksi</em> “get sth done”</li>
+  <li><em>saada kiinni</em> “catch”</li>
+  <li><em>saada läpi</em> “get sth through”</li>
+  <li><em>saada vireille</em> “get sth started”</li>
+  <li><em>tulla mukaan</em> “come along” (In the sense of <em>follow</em>, not the social sense.)</li>
+  <li><em>tulla tarpeen</em> “become necessary”</li>
+  <li><em>tulla vastaan</em> “come across”</li>
+  <li><em>tulla voimaan</em> “become valid”</li>
 </ul>
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-prt in other languages:
-
-[<a href="../../fi/dep/prt.html">fi</a>]
-
 
 
 
