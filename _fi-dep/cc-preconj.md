@@ -18,16 +18,16 @@ conj(talo-2, piha-4)
 
 Such two-part coordinating conjunctions in TDT are:
 
-+ joko... tai (either... or)
-+ milloin... milloin (when... when)
-+ mitä... sitä (the... the)
-+ niin... kuin (as well as)
-+ paitsi... myös (not only... but also)
-+ sekä... että (both... and)
-+ sitä... mitä (the... the)
-+ sitä mukaa... mitä (a version of *the... the*)
-+ toisaalta... ja toisaalta (on the one hand... and on the other hand)
-+ toisaalta... mutta toisaalta (on the one hand... but on the other hand)
-+ toisaalta... toisaalta (on the one hand... on the other hand)
-+ vuoroin... vuoroin (in turn... in turn)
-+ yhtä lailla... kuin (+kin) (as much... as also)
+* _joko ... tai_ "either ... or"
+* _milloin ... milloin_ "when ... when"
+* _mitä ... sitä_ "the ... the"
+* _niin ... kuin_ "as well as"
+* _paitsi ... myös_ "not only ... but also"
+* _sekä ... että_ "both ... and"
+* _sitä ... mitä_ "the ... the"
+* _sitä mukaa ... mitä_ (a version of "the ... the")
+* _toisaalta ... ja toisaalta_ "on the one hand ... and on the other hand"
+* _toisaalta ... mutta toisaalta_ "on the one hand ... but on the other hand"
+* _toisaalta ... toisaalta_ "on the one hand ... on the other hand"
+* _vuoroin ... vuoroin_ "in turn ... in turn"
+* _yhtä lailla ... kuin_ (+kin) "as much ... as also"
