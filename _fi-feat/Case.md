@@ -178,7 +178,7 @@ owner, instrument, means, manner, and quantity.)
 
 #### Examples
 
-* [fi] _pöydällä_ "at the table"
+* [fi] _pöydällä_ "on the table"
 
 #### References
 
@@ -186,12 +186,12 @@ owner, instrument, means, manner, and quantity.)
 
 ### `All`: allative
 
-The allative case expresses direction to something (destination
-is adessive, i.e. at or by that something, not on or inside of it).
+The allative case expresses direction onto something (destination
+is adessive).
 
 #### Examples
 
-* [fi] _pöydälle_ "to the table"
+* [fi] _pöydälle_ "onto the table"
 
 ### `Abl`: ablative
 
