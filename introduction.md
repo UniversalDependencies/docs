@@ -64,7 +64,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
-* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
+* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
