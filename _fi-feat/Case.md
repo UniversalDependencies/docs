@@ -6,7 +6,7 @@ shortdef: 'case'
 
 ### `Nom`: nominative
 
-The base form, typically used as citation form (lemma).
+The base form, typically used as a citation form (lemma).
 
 #### Examples
 
@@ -38,11 +38,11 @@ and _kuka_ "who" (<http://scripta.kotus.fi/visk/sisallys.php?p=1221>,
 Instructive primarily characterizes manner or instrument. Instructive can
 also express place or time.
 
-Corresponds in some uses to the English *by means of* or *with the aid of*.
+Corresponds to some uses of English *by means of* or *with the aid of*.
 
 #### Examples
 
-* [fi] _kaksin <b>käsin</b>_ "using two <b>hands</b>"
+* [fi] _kaksin <b>käsin</b>_ "with both <b>hands</b>"
 * [fi] _uusin <b>säännöin</b>_ "with new <b>rules</b>"
 * [fi] _näillä <b>seuduin</b>_ "around these <b>parts</b>"
 * [fi] _vuoroviikoin_ "every other week"
@@ -58,10 +58,10 @@ indefinite quantity or unfinished actions.
 
 * [fi] _kolme <b>taloa</b>_ "three <b>houses</b>"
 * [fi] _rakastan tätä <b>taloa</b>_ "I love this <b>house</b>"
-* [fi] _saanko lainata <b>kirjaa</b>_ "can I borrow the <b>book</b>"
+* [fi] _saanko lainata <b>kirjaa</b>_ "can I borrow a <b>book</b>"
 * [fi] _lasissa on <b>maitoa</b>_ "there is (some) <b>milk</b> in the glass"
 * [fi] _ammuin karhua_ "I shot at a bear"
-* [fi] _luen kirjaa_ "I am reading the book"
+* [fi] _luen kirjaa_ "I am reading a book"
 
 #### References
 
@@ -70,8 +70,8 @@ indefinite quantity or unfinished actions.
 ### `Dis`: distributive
 
 The distributive case conveys that something happened to every 
-member of a set, one in a time. The _-ttain_ suffix can be
-analysed as an adverbial derivation instead of as a noun suffix.
+member of a set, one at a time. The _-ttain_ suffix can be
+analysed as an adverbial derivation instead of a noun suffix.
 
 #### Examples
 
@@ -84,17 +84,17 @@ analysed as an adverbial derivation instead of as a noun suffix.
 ### `Ess`: essive
 
 Essive is typically a case of temporal adverbials (e.g. 
-_tiistaina_ "on tuesday"). In expressions of state, essive
+_tiistaina_ "on Tuesday"). In expressions of state, essive
 is a case of predicative adverbials, characterizing purpose
 or task (e.g. _vartijana_ "as a guard") in intransitive
-forms and how an object or its purpose is perceived in
+forms, and how an object or its purpose is perceived in
 transitive forms (e.g. _syödä <b>raakana</b>_ "eat <b>raw</b>").
 
-Essive corresponds in some uses to English _as a_.
+Essive corresponds to some uses of English _as a_.
 
 #### Examples
 
-* [fi] _tiistaina_ "on tuesday"
+* [fi] _tiistaina_ "on Tuesday"
 * [fi] _vartijana_ "as a guard"
 
 #### References
@@ -118,7 +118,7 @@ In transitive sentences, the translative case describes the sentence object.
 #### Examples
 
 * [fi] _tarkoitettu <b>varoitukseksi</b>_ "meant <b>as a warning</b>"
-* [fi] _valittiin <b>presidentiksi</b>_ "elected <b>as a president</b>"
+* [fi] _valittiin <b>presidentiksi</b>_ "elected <b>as president</b>"
 
 #### References
 
@@ -126,7 +126,7 @@ In transitive sentences, the translative case describes the sentence object.
 
 ### `Com`: comitative / associative
 
-The comitative (also called associative) case corresponds to 
+The comitative (also called associative) case corresponds to
 English _together with_.
 
 #### Examples
@@ -173,7 +173,7 @@ corresponding directional cases are allative (towards something)
 and ablative (from something).
 
 (**Note**: this is a very incomplete listing of the uses of the
-Finnish adessive, which can also expess place, time, state,
+Finnish adessive, which can also express place, time, state,
 owner, instrument, means, manner, and quantity.)
 
 #### Examples
@@ -191,7 +191,7 @@ is adessive).
 
 #### Examples
 
-* [fi] _pöydälle_ "onto the table"
+* [fi] _pöydälle_ "on to the table"
 
 ### `Abl`: ablative
 
