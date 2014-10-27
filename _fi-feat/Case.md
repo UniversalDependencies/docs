@@ -126,20 +126,25 @@ In transitive sentences, the translative case describes the sentence object.
 
 ### `Com`: comitative / associative
 
-The comitative (also called associative) case corresponds to
-English _together with_.
+The comitative (also called associative) case expresses belonging, a social relationship or a part of an entity. It often corresponds to English _together with_ and has a descriptive or explicative function. 
 
 #### Examples
 
+* [fi] _tavaroineen_ "with his/her belongings"
 * [fi] _puolisoineen_ "with his/her spouse"
+* [fi] _koirat suurine hampaineen_ "dogs with their big teeth"
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1264> (in Finnish)
 
 ### `Abe`: abessive
 
-The abessive case corresponds to the English preposition _without_.
+The abessive case expresses wihtout what something has happened and roughly corresponds to the English preposition _without_.
 
 #### Examples
 
 * [fi] _rahatta_ "without money"
+
+
 
 ### `Ine`: inessive
 
