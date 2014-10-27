@@ -199,6 +199,13 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 ## Random stuff for Filip's slides
 
 ~~~ sdparse
+Juon kaljaa junassa Turkuun
+dobj(Juon, kaljaa)
+nommod(Juon, junassa)
+nommod(junassa, Turkuun)
+~~~
+
+~~~ sdparse
 I will have a beer on the train to Turku
 nsubj(have, I)
 aux(have, will)
@@ -211,13 +218,6 @@ prep(train, to)
 pobj(to, Turku)
 ~~~
  
-~~~ sdparse
-Juon kaljaa junassa Turkuun
-dobj(Juon, kaljaa)
-nommod(Juon, junassa)
-nommod(junassa, Turkuun)
-~~~
-
 ~~~ sdparse
 Je vais prendre une bière dans le train vers Turku
 suj(vais, Je)
