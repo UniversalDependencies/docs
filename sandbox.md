@@ -217,6 +217,20 @@ dobj(Juon, kaljaa)
 nommod(Juon, junassa)
 nommod(junassa, Turkuun)
 ~~~
+
+~~~ sdparse
+Je vais prendre une bière dans le train vers Turku
+suj(vais, Je)
+obj(vais, prendre)
+det(bière, une)
+obj(prendre, bière)
+mod(prendre, dans)
+det(train, le)
+obj(dans, train)
+mod(prendre, vers)
+obj(vers, Turku)
+~~~
+
  
 ~~~ sdparse
 I will have a beer on the train to Turku
@@ -238,15 +252,3 @@ nmod(Juon, junassa)
 nmod(junassa, Turkuun)
 ~~~
 
-~~~ sdparse
-Je vais prendre une bière dans le train vers Turku
-suj(vais, Je)
-obj(vais, predre)
-det(bière, une)
-obj(prendre, bière)
-mod(prendre, dans)
-det(train, le)
-obj(dans, train)
-mod(prendre, vers)
-obj(vers, Turku)
-~~~
