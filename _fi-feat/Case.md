@@ -134,6 +134,8 @@ The comitative (also called associative) case expresses belonging, a social rela
 * [fi] _puolisoineen_ "with his/her spouse"
 * [fi] _koirat suurine hampaineen_ "dogs with their big teeth"
 
+#### References
+
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1264> (in Finnish)
 
 ### `Abe`: abessive
