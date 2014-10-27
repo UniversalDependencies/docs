@@ -200,14 +200,43 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 
  ~~~ sdparse
  I will have a beer on the train to Turku
- nsubj(have,I)
- aux(have,will)
- dobj(have,beer)
- det(beer,a)
- prep(have,on)
- pobj(on,train)
- det(train,the)
- prep(train,to)
- pobj(to,Turku)
+ nsubj(have, I)
+ aux(have, will)
+ dobj(have, beer)
+ det(beer, a)
+ prep(have, on)
+ pobj(on, train)
+ det(train, the)
+ prep(train, to)
+ pobj(to, Turku)
  ~~~
+ 
+ ~~~ sdparse
+ Juon kaljaa junassa Turkuun
+ dobj(Juon, kaljaa)
+ nommod(Juon, junassa)
+ nommod(junassa, Turkuun)
+ ~~~
+ 
+ ~~~ sdparse
+ I will have a beer on the train to Turku
+ nsubj(have, I)
+ aux(have, will)
+ dobj(have, beer)
+ det(beer, a)
+ nmod(have, train)
+ case(train, on)
+ det(train, the)
+ nmod(train, Turku)
+ case(Turku, to)
+ ~~~
+ 
+ ~~~ sdparse
+ Juon kaljaa junassa Turkuun
+ dobj(Juon, kaljaa)
+ nmod(Juon, junassa)
+ nmod(junassa, Turkuun)
+ ~~~
+ 
+ 
  
