@@ -195,3 +195,19 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 {{ p.content }}
 {% endif %}
 {% endfor %}
+
+## Random stuff for Filip's slides
+
+ ~~~ sdparse
+ I will have a beer on the train to Turku
+ nsubj(have,I)
+ aux(have,will)
+ dobj(have,beer)
+ det(beer,a)
+ prep(have,on)
+ pobj(on,train)
+ det(train,the)
+ prep(train,to)
+ pobj(to,Turku)
+ ~~~
+ 
