@@ -60,6 +60,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ### Language-specific documentation
 
+* <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
 * <a href="index.html#language-eu">Basque</a>: Koldo Gojenola
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
@@ -70,7 +71,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-it">Italian</a>: Maria Simi
-* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao (other contributors TBA)
+* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
