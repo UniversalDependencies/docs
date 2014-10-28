@@ -253,8 +253,8 @@ case(Turku, to)
  
 ~~~ sdparse
 Je vais prendre une bière dans le train vers Turku
-nsubj(vais, Je)
-xxx(vais, prendre)
+nsubj(prendre, Je)
+aux(prendre, vais)
 det(bière, une)
 dobj(prendre, bière)
 nmod(prendre, train)
