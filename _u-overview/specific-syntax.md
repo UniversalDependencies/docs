@@ -164,7 +164,7 @@ I do n't hear from my brother as often as I previously heard from him .
 nsubj(hear, I-1)
 aux(hear, do)
 neg(hear, n't)
-case(brother, from)
+case(brother, from-5)
 det(brother, my)
 nmod(hear, brother)
 advmod(often, as-8)
@@ -173,12 +173,12 @@ mark(heard, as-10)
 nsubj(heard, I-11)
 advmod(heard, previously)
 advcl(as-8, heard)
-case(him, from)
+case(him, from-14)
 nmod(heard, him)
 punct(hear, .)
 ~~~
 
-The same rough analysis is given for inequality scalar comparatives, with _more_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
+The same basic analysis is given for inequality scalar comparatives, with _more_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
 
 ~~~ sdparse
 more sausages than you bought last week
@@ -202,10 +202,17 @@ advcl(smarter, thought)
 mark(thought, than)
 ~~~
 
+~~~ sdparse
+a smarter boy than you thought
+amod(boy, smarter)
+advcl(smarter, thought)
+mark(thought, than)
+~~~
+
 Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:
 
 ~~~ sdparse
-I put in as much flour as the recipe called for.
+I put in as much flour as the recipe called for .
 nsubj(put, I)
 compound(put, in)
 advmod(much, as-4)
@@ -216,6 +223,7 @@ det(recipe, the)
 nsubj(called, recipe)
 advcl(as-4, called)
 nmod(called, for)
+punct(put, .)
 ~~~
 
 ~~~ sdparse
@@ -223,22 +231,23 @@ He plays better drunk than sober
 nsubj(plays, He)
 advmod(plays, better)
 acl(He, drunk)
+mark(sober, than)
 advcl(better, sober)
 ~~~
 
 In general, we treat whatever remnant that remains as still an [u-dep/advcl](), as above. 
 
-However, a limiting case of this is that only a nominal remains:
+However, a limiting case of this is that only a nominal is present:
 
 * _as important as a player 's talent_
 * _more important than a player 's talent_
 
-The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? For English, there is a long discussion of the arguments for both positions in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:
+The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? There are arguments for both positions. For English, there is a long discussion of the arguments in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:
 
 ~~~ sdparse
 as important as a player 's talent
 advmod(important, as-1)
-case(talent, as-2)
+case(talent, as-3)
 nmod(as-1, talent)
 ~~~
 
