@@ -50,9 +50,9 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * [Christopher Manning](http://nlp.stanford.edu/~manning/)
-* Ryan McDonald
+* [Ryan McDonald](http://www.ryanmcd.com)
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
-* Slav Petrov
+* [Slav Petrov](http://www.petrovi.de/)
 * [Sampo Pyysalo](http://bionlp.utu.fi/)
 * Natalia Silveira
 * Reut Tsarfaty
