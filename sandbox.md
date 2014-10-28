@@ -252,3 +252,15 @@ nmod(Juon, junassa)
 nmod(junassa, Turkuun)
 ~~~
 
+~~~ sdparse
+Je vais prendre une bière dans le train vers Turku
+nsubj(vais, Je)
+xxx(vais, prendre)
+det(bière, une)
+dobj(prendre, bière)
+nmod(prendre, train)
+det(train, le)
+case(train, dans)
+mod(train, Turku)
+case(Turku, vers)
+~~~
