@@ -231,7 +231,13 @@ mod(train, vers)
 obj(vers, Turku)
 ~~~
 
- 
+~~~ sdparse
+Juon kaljaa junassa Turkuun
+dobj(Juon, kaljaa)
+nmod(Juon, junassa)
+nmod(junassa, Turkuun)
+~~~
+
 ~~~ sdparse
 I will have a beer on the train to Turku
 nsubj(have, I)
@@ -245,13 +251,6 @@ nmod(train, Turku)
 case(Turku, to)
 ~~~
  
-~~~ sdparse
-Juon kaljaa junassa Turkuun
-dobj(Juon, kaljaa)
-nmod(Juon, junassa)
-nmod(junassa, Turkuun)
-~~~
-
 ~~~ sdparse
 Je vais prendre une bière dans le train vers Turku
 nsubj(vais, Je)
