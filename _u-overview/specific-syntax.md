@@ -117,3 +117,134 @@ The dog barked the neighbors awake .
 dobj(barked, neighbors)
 xcomp(barked, awake)
 ~~~
+
+## Elements of a nominal
+
+## Adjectival and adverbial constructions
+
+### Comparatives
+
+The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (_That car is as big as mine_) and inequality scalar comparisons (_Sue is taller than Jim_).
+
+In constructions of the form _as X as Y_ or _the same X as Y_, X and
+Y can be of a range of syntactic types, leading to surface forms such as those exemplified below:
+
+* _Commitment is as important as a player’s talent._
+* _Get the cash to him as soon as possible._
+* _I put in as much flour as the recipe called for._
+
+We note that the head of the whole construction appears to be the head of the X phrase. We can simply say:
+
+*  _Commitment is important._ 
+*  _Get the cash to him soon._
+*  _I put in flour._
+
+We then say that the first _as_ is the main part of the comparative, modifying something in the X phrase, in part because the _as Y_ is fairly optional:
+
+* _Commitment is (just) as important._
+* _?Get the cash to him (just) as soon._
+* _I put in (just) as much flour._
+
+However, this first _as_ may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial ([u-dep/advmod]()) consistent with other kinds of degree modification:
+
+~~~ sdparse
+Commitment is as important as a player ’s talent .
+advmod(important, as-3)
+~~~
+
+~~~ sdparse
+I put in as much flour as the recipe called for .
+advmod(much, as-4)
+~~~
+
+We then take the complement of the comparative as an oblique dependent of the first _as_. It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [u-dep/advcl](), dependent on the first _as_, with the second _as_ analyzed as a mark.  That gives us:
+
+~~~ sdparse
+I do n't hear from my brother as often as I previously heard from him .
+nsubj(hear, I-1)
+aux(hear, do)
+neg(hear, n't)
+case(brother, from)
+det(brother, my)
+nmod(hear, brother)
+advmod(often, as-8)
+advmod(hear, often)
+mark(heard, as-10)
+nsubj(heard, I-11)
+advmod(heard, previously)
+advcl(as-8, heard)
+case(him, from)
+nmod(heard, him)
+punct(hear, .)
+~~~
+
+The same rough analysis is given for inequality scalar comparatives, with _more_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
+
+~~~ sdparse
+more sausages than you bought last week
+amod(sausages, more)
+advcl(more, bought)
+mark(bought, than)
+~~~
+
+~~~ sdparse
+more important than you thought
+advmod(important, more)
+advcl(more, thought)
+mark(thought, than)
+~~~
+
+If the comparative form becomes a single word, then the comparative complement depends on that word:
+
+~~~ sdparse
+smarter than you thought
+advcl(smarter, thought)
+mark(thought, than)
+~~~
+
+Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:
+
+~~~ sdparse
+I put in as much flour as the recipe called for.
+nsubj(put, I)
+compound(put, in)
+advmod(much, as-4)
+amod(flour, much)
+dobj(put, flour)
+mark(called, as-7)
+det(recipe, the)
+nsubj(called, recipe)
+advcl(as-4, called)
+nmod(called, for)
+~~~
+
+~~~ sdparse
+He plays better drunk than sober
+nsubj(plays, He)
+advmod(plays, better)
+acl(He, drunk)
+advcl(better, sober)
+~~~
+
+In general, we treat whatever remnant that remains as still an [u-dep/advcl](), as above. 
+
+However, a limiting case of this is that only a nominal remains:
+
+* _as important as a player 's talent_
+* _more important than a player 's talent_
+
+The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? For English, there is a long discussion of the arguments for both positions in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:
+
+~~~ sdparse
+as important as a player 's talent
+advmod(important, as-1)
+case(talent, as-2)
+nmod(as-1, talent)
+~~~
+
+~~~ sdparse
+more important than a player 's talent
+advmod(important, more)
+case(talent, than)
+nmod(more, talent)
+~~~
