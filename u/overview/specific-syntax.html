@@ -146,6 +146,135 @@ dobj(barked, neighbors)
 xcomp(barked, awake)
 </code></pre>
 
+<h2 id="elements-of-a-nominal">Elements of a nominal</h2>
+
+<h2 id="adjectival-and-adverbial-constructions">Adjectival and adverbial constructions</h2>
+
+<h3 id="comparatives">Comparatives</h3>
+
+<p>The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (<em>That car is as big as mine</em>) and inequality scalar comparisons (<em>Sue is taller than Jim</em>).</p>
+
+<p>In constructions of the form <em>as X as Y</em> or <em>the same X as Y</em>, X and
+Y can be of a range of syntactic types, leading to surface forms such as those exemplified below:</p>
+
+<ul>
+  <li><em>Commitment is as important as a player’s talent.</em></li>
+  <li><em>Get the cash to him as soon as possible.</em></li>
+  <li><em>I put in as much flour as the recipe called for.</em></li>
+</ul>
+
+<p>We note that the head of the whole construction appears to be the head of the X phrase. We can simply say:</p>
+
+<ul>
+  <li><em>Commitment is important.</em> </li>
+  <li><em>Get the cash to him soon.</em></li>
+  <li><em>I put in flour.</em></li>
+</ul>
+
+<p>We then say that the first <em>as</em> is the main part of the comparative, modifying something in the X phrase, in part because the <em>as Y</em> is fairly optional:</p>
+
+<ul>
+  <li><em>Commitment is (just) as important.</em></li>
+  <li><em>?Get the cash to him (just) as soon.</em></li>
+  <li><em>I put in (just) as much flour.</em></li>
+</ul>
+
+<p>However, this first <em>as</em> may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial (<a href="">u-dep/advmod</a>) consistent with other kinds of degree modification:</p>
+
+<pre><code class="language-sdparse">Commitment is as important as a player ’s talent .
+advmod(important, as-3)
+</code></pre>
+
+<pre><code class="language-sdparse">I put in as much flour as the recipe called for .
+advmod(much, as-4)
+</code></pre>
+
+<p>We then take the complement of the comparative as an oblique dependent of the first <em>as</em>. It is clear that the material in the complement <em>as Y</em> can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an <a href="">u-dep/advcl</a>, dependent on the first <em>as</em>, with the second <em>as</em> analyzed as a mark.  That gives us:</p>
+
+<pre><code class="language-sdparse">I do n't hear from my brother as often as I previously heard from him .
+nsubj(hear, I-1)
+aux(hear, do)
+neg(hear, n't)
+case(brother, from)
+det(brother, my)
+nmod(hear, brother)
+advmod(often, as-8)
+advmod(hear, often)
+mark(heard, as-10)
+nsubj(heard, I-11)
+advmod(heard, previously)
+advcl(as-8, heard)
+case(him, from)
+nmod(heard, him)
+punct(hear, .)
+</code></pre>
+
+<p>The same rough analysis is given for inequality scalar comparatives, with <em>more</em> or a comparative adjective and <em>than</em>, parallel to the two uses of <em>as</em> above, except that <em>more</em> can also directly modify a noun, and is then taken to have the <a href="">u-dep/amod</a> relation to the noun.</p>
+
+<pre><code class="language-sdparse">more sausages than you bought last week
+amod(sausages, more)
+advcl(more, bought)
+mark(bought, than)
+</code></pre>
+
+<pre><code class="language-sdparse">more important than you thought
+advmod(important, more)
+advcl(more, thought)
+mark(thought, than)
+</code></pre>
+
+<p>If the comparative form becomes a single word, then the comparative complement depends on that word:</p>
+
+<pre><code class="language-sdparse">smarter than you thought
+advcl(smarter, thought)
+mark(thought, than)
+</code></pre>
+
+<p>Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:</p>
+
+<pre><code class="language-sdparse">I put in as much flour as the recipe called for.
+nsubj(put, I)
+compound(put, in)
+advmod(much, as-4)
+amod(flour, much)
+dobj(put, flour)
+mark(called, as-7)
+det(recipe, the)
+nsubj(called, recipe)
+advcl(as-4, called)
+nmod(called, for)
+</code></pre>
+
+<pre><code class="language-sdparse">He plays better drunk than sober
+nsubj(plays, He)
+advmod(plays, better)
+acl(He, drunk)
+advcl(better, sober)
+</code></pre>
+
+<p>In general, we treat whatever remnant that remains as still an <a href="">u-dep/advcl</a>, as above. </p>
+
+<p>However, a limiting case of this is that only a nominal remains:</p>
+
+<ul>
+  <li><em>as important as a player ‘s talent</em></li>
+  <li><em>more important than a player ‘s talent</em></li>
+</ul>
+
+<p>The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? For English, there is a long discussion of the arguments for both positions in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:</p>
+
+<pre><code class="language-sdparse">as important as a player 's talent
+advmod(important, as-1)
+case(talent, as-2)
+nmod(as-1, talent)
+</code></pre>
+
+<pre><code class="language-sdparse">more important than a player 's talent
+advmod(important, more)
+case(talent, than)
+nmod(more, talent)
+</code></pre>
+
 
       </div>
 
