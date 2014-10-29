@@ -4,6 +4,7 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
+
 ### Definition
 
 Particles are function words that must be associated with another word
@@ -15,10 +16,12 @@ categories such as negation, mood, tense etc.  Particles are normally
 not inflected, although exceptions may occur.
 
 In the Bultreebank tagset the follwoing tags map to `PART`: Ti, Tx, Tm, Tv, Te and Tg.
-(Note that Ta and Tn are considered `INTJ` in the univerasal tagset).
+(Note that `Ta` is considered `INTJ` in the universal tagset. From `Tn` the particle _не_ / _ne_ "no").
+
 
 ### Examples
 
+- Tn (negative) - _нито_ / _nito_ "neither"
 - interrogative particles(Ti): _ли_ / _li_"question particle"
 - auxiliary particles (Tx): _да, ще_ / _da, shte_ "to, will"
 - modal particles (Tm): _май_ / _may_ "possibly"
