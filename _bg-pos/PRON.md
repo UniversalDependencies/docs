@@ -4,5 +4,54 @@ title: 'PRON'
 shortdef: 'pronoun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PRON`.
+### Definition
+
+Particles are function words that must be associated with another word
+or phrase to impart meaning and that do not satisfy definitions of
+other universal parts of speech (e.g. [adpositions](ADP),
+[coordinating conjunctions](CONJ), [subordinating conjunctions](SCONJ)
+or [auxiliary verbs](AUX)).  Particles may encode grammatical
+categories such as negation, mood, tense etc.  Particles are normally
+not inflected, although exceptions may occur.
+
+In the Bultreebank tagset the follwoing tags map to `PART`: Ti, Tx, Tm, Tv, Te and Tg.
+(Note that `Ta` is considered `INTJ` in the universal tagset. From `Tn` the particle _не_ / _ne_ "no").
+
+
+### Examples
+
+- negative particle (Tn): _нито_ / _nito_ "neither"
+- interrogative particles(Ti): _ли_ / _li_"question particle"
+- auxiliary particles (Tx): _да, ще_ / _da, shte_ "to, will"
+- modal particles (Tm): _май_ / _may_ "possibly"
+- verbal particles (Tv): _нека_ / _neka_ "let"
+- emphasis particles (Te): _даже_ / _dazhe_ "even"
+- gradable particles (Tg): _най_ / _nay_ "most"
+--------------------------------------------
+### Definition
+
+Pronouns are words that substitute for [nouns](NOUN) or noun phrases,
+whose meaning is recoverable from the linguistic or extralinguistic
+context.
+
+Pronouns under this definition function like nouns. 
+
+The BulTreeBank annotation scheme adopted the idea that pro-nouns,
+pro-adjectives and pro-adverbs are labeled as Pronouns.
+However, for the mapping to the universal tagset, this group was split into
+several parts-of-speech: [determiners](DET), [adverbs](ADV), [pronouns](PRON).
+
+The tags that correspond to `Pron` are: Pp#, Pde#, Pre#, Pce#, Pie#, Pfe#, Pfy#, Pne#, Piy#.
+
+### Examples
+
+- personal pronouns (Pp#): _аз, ти, той, тя, то, ние, те_ / _az, ti, toy, tya, to, nie, te_ "I, you, he, she, it, we, they"
+- reflexive personal pronouns (Ppx#): _себе си, се_ / _sebe si, se_ "myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves"
+- demonstrative pronouns (Pde#): _този, това_ / _tozi, tova_ "this" as in _Видях това вчера._ / _Vidyah tova vchera_ "I saw <b>this</b> yesterday."
+- interrogative pronouns (Pie#, Piy#): _кой, какво, колцина_ / __koy, kakvo, koltsina_ "who, what, how many" as in _Какво мислиш?_ / _Kakvo mislish? "<b>What</b> do you think?"
+- relative pronouns (Pre#): _който, каквото_ / __koyto, kakvoto_ "who, what" as in _Човекът, който дойде, е баща ми._ /_Chovekat, koyto doyde, e bashta mi_ "The person <b>who</b> came is my father."
+- indefinite pronouns (Pfe#, Pfy#): _някой, нещо, неколцина_ / _nyakoy, neshto, nekoltsina_ "somebody, something, some, anybody, anything, any"
+- collective pronouns (Pce#): _всеки, всичко_ / _vseki, vsichko_ "everybody, everything"
+- negative pronouns (Pne#): _никой, нищо_ / _nikoy, nishto_ "nobody, nothing"
+
+
