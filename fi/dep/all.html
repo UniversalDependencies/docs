@@ -67,7 +67,7 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td />
 	  <td><a href="ccomp-nf.html" class="doclabel">↳ccomp:nf</a></td>
-	  <td><a href="xcomp-acomp.html" class="doclabel">↳xcomp:acomp</a></td>
+	  <td><a href="xcomp-a.html" class="doclabel">↳xcomp:a</a></td>
 	</tr>
 	<tr>
 	  <td><strike>iobj</strike></td>
@@ -92,7 +92,7 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td><a href="nmod-own.html" class="doclabel">↳nmod:own</a></td>
 	  <td></td>
-	  <td><a href="advmod-quantmod.html" class="doclabel">↳advmod:quantmod</a></td>
+	  <td><a href="advmod-q.html" class="doclabel">↳advmod:q</a></td>
 	</tr>
 	<tr>
 	  <td><a href="nmod-poss.html" class="doclabel">↳nmod:poss</a></td>
@@ -163,6 +163,10 @@ and <i>punct</i> appear in two places.</p>
 	  <td><a href="nmod.html" class="doclabel">nmod</a></td>
 	  <td><a href="acl-infmod.html" class="doclabel">↳acl:infmod</a></td>
 	  <td><a href="neg.html" class="doclabel">neg</a></td>
+	</tr>
+	<tr>
+	  <td />
+	  <td><a href="acl-partmod.html" class="doclabel">↳acl:partmod</a></td>
 	</tr>
       </table>
 
@@ -270,6 +274,52 @@ punct(oli-2, .-6)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-infmod.md" target="#">edit acl:infmod</a></p>
 
+<h2><code>acl:partmod</code>: participal modifier</h2>
+
+<p>The <em>participal modifier</em> (<code>acl:partmod</code>) most commonly modifies a noun
+phrase. Note that the participle (Also the MA-derivation is treated
+as a participle in TDT.)  can take arguments, for instance a subject,
+just as any verb.</p>
+
+<!-- fname:partmod_NP.pdf -->
+<pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
+nsubj(leipoma-2, Äidin-1)
+acl:partmod(kakku-3, leipoma-2)
+nsubj-cop(menestys-5, kakku-3)
+cop(menestys-5, oli-4)
+punct(menestys-5, .-6)
+</code></pre>
+
+<!-- fname:partmod_NP_2.pdf -->
+<pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
+acl:partmod(lahjat-2, Saadut-1)
+nsubj(ilahduttivat-3, lahjat-2)
+dobj(ilahduttivat-3, lapsia-4)
+punct(ilahduttivat-3, .-5)
+</code></pre>
+
+<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>acl:partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
+
+<!-- fname:partmod_VP_mod.pdf -->
+<pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
+acl:partmod(juoksin-2, Huolestuneena-1)
+nmod(juoksin-2, hänen-3)
+adpos(hänen-3, luokseen-4)
+punct(juoksin-2, .-5)
+</code></pre>
+
+<!-- fname:partmod_VP_comp.pdf -->
+<pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
+nsubj(osoittautui-2, Ksylitoli-1)
+acl:partmod(osoittautui-2, ehkäiseväksi-4)
+dobj(ehkäiseväksi-4, kariesta-3)
+punct(osoittautui-2, .-5)
+</code></pre>
+
+<!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-partmod.md" target="#">edit acl:partmod</a></p>
+
 <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
 <p>A <em>relative clause modifier</em> (<code>acl:relcl</code>) marks relative clauses. The
@@ -344,9 +394,9 @@ punct(keitti-7, .-9)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
 
-<h2><code>advmod:quantmod</code>: quantification modifier</h2>
+<h2><code>advmod:q</code>: quantification modifier</h2>
 
-<p><em>Quantification modifiers</em> (<code>advmod:quantmod</code>) are quantifiers that
+<p><em>Quantification modifiers</em> (<code>advmod:q</code>) are quantifiers that
 modify a numerical expression. Certain adverbs (and ad-adjectives,
 which are sometimes regarded a separate category from adverbs but
 treated identically in TDT) and few adjectives are allowed as
@@ -364,12 +414,12 @@ modifiers include <em>noin</em> “about”, <em>vähintään</em> “at least�
 nsubj-cop(neliökilometriä-6, Alue-1)
 cop(neliökilometriä-6, oli-2)
 nmod(neliökilometriä-6, suuruudeltaan-3)
-advmod:quantmod(kymmenen-5, noin-4)
+advmod:q(kymmenen-5, noin-4)
 num(neliökilometriä-6, kymmenen-5)
 punct(neliökilometriä-6, .-7)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-quantmod.md" target="#">edit advmod:quantmod</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-q.md" target="#">edit advmod:q</a></p>
 
 <h2><code>advmod</code>: adverb modifier</h2>
 
@@ -1259,52 +1309,6 @@ punct(sanoi-7, .-8)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/parataxis.md" target="#">edit parataxis</a></p>
 
-<h2><code>partmod</code>: participal modifier</h2>
-
-<p>The <em>participal modifier</em> (<code>partmod</code>) most commonly modifies a noun
-phrase. Note that the participle (Also the MA-derivation is treated
-as a participle in TDT.)  can take arguments, for instance a subject,
-just as any verb.</p>
-
-<!-- fname:partmod_NP.pdf -->
-<pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
-nsubj(leipoma-2, Äidin-1)
-partmod(kakku-3, leipoma-2)
-nsubj-cop(menestys-5, kakku-3)
-cop(menestys-5, oli-4)
-punct(menestys-5, .-6)
-</code></pre>
-
-<!-- fname:partmod_NP_2.pdf -->
-<pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
-partmod(lahjat-2, Saadut-1)
-nsubj(ilahduttivat-3, lahjat-2)
-dobj(ilahduttivat-3, lapsia-4)
-punct(ilahduttivat-3, .-5)
-</code></pre>
-
-<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
-
-<!-- fname:partmod_VP_mod.pdf -->
-<pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
-partmod(juoksin-2, Huolestuneena-1)
-nmod(juoksin-2, hänen-3)
-adpos(hänen-3, luokseen-4)
-punct(juoksin-2, .-5)
-</code></pre>
-
-<!-- fname:partmod_VP_comp.pdf -->
-<pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
-nsubj(osoittautui-2, Ksylitoli-1)
-partmod(osoittautui-2, ehkäiseväksi-4)
-dobj(ehkäiseväksi-4, kariesta-3)
-punct(osoittautui-2, .-5)
-</code></pre>
-
-<!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/partmod.md" target="#">edit partmod</a></p>
-
 <h2><code>punct</code>: punctuation</h2>
 
 <p>The dependency type <code>punct</code> is used to mark punctuation. The dependent is the punctuation symbol, and the governor is the element which the punctuation symbol delimits. For instance, with coordination, the first coordinated element is the head of all <code>punct</code> dependencies in the coordination, and with subordinate clauses, the head of the subordinate clause is the governor of the <code>punct</code>.</p>
@@ -1331,39 +1335,6 @@ nsubj(palasi-7, hän-6)
 <!-- TODO Attaching punctuation correctly is described more closely in Section [punctspecial](#sec-punctspecial). -->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/punct.md" target="#">edit punct</a></p>
-
-<h2><code>rel</code>: relativizer</h2>
-
-<p>The <em>relativizer</em> (<code>rel</code>) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. </p>
-
-<!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
-
-<!-- fname:rel_basic.pdf -->
-<pre><code class="language-sdparse">Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
-rcmod(Auto-1, ohitti-4)
-punct(ohitti-4, ,-2)
-rel(ohitti-4, joka-3)
-dobj(ohitti-4, meidät-5)
-punct(ohitti-4, ,-6)
-nsubj(ajoi-7, Auto-1)
-advmod(ajoi-7, nopeasti-9)
-advmod(nopeasti-9, hyvin-8)
-punct(ajoi-7, .-10)
-</code></pre>
-
-<!-- fname:rel_phrase.pdf -->
-<pre><code class="language-sdparse">Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
-rcmod(Nainen-1, hajosi-5)
-punct(hajosi-5, ,-2)
-poss(auto-4, jonka-3)
-rel(hajosi-5, auto-4)
-punct(hajosi-5, ,-6)
-nsubj(pyysi-7, Nainen-1)
-dobj(pyysi-7, apuamme-8)
-punct(pyysi-7, .-9)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/rel.md" target="#">edit rel</a></p>
 
 <h2><code>remnant</code>: remnant</h2>
 
@@ -1403,22 +1374,20 @@ punct(tulisitko-3, ?-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/vocative.md" target="#">edit vocative</a></p>
 
-<h2><code>xcomp:acomp</code>: adjectival complement</h2>
+<h2><code>xcomp:a</code>: adjectival complement</h2>
 
-<p>The dependency type <code>xcomp:acomp</code> is used for adjectival complements of
+<p>The dependency type <code>xcomp:a</code> is used for adjectival complements of
 verbs, except for predicatives.</p>
 
 <pre><code class="language-sdparse">Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
 nsubj(teki, Hän)
 nmod(teki, siitä)
 advmod(vaikeaa, hyvin)
-xcomp:acomp(teki, vaikeaa)
+xcomp:a(teki, vaikeaa)
 punct(teki, .)
 </code></pre>
 
-<p>(TODO: UD Finnish team: we may wish to simply remove this, <a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/1062_Paper.pdf#page=6">de Marneffe et al. 2014</a> proposes to generalize SD <code>acomp</code> into <code>xcomp</code> for USD, and <a href="http://universaldependencies.github.io/docs/en/dep/">UD English</a> has followed suite.)</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-acomp.md" target="#">edit xcomp:acomp</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-a.md" target="#">edit xcomp:a</a></p>
 
 <h2><code>xcomp</code>: open clausal complement</h2>
 

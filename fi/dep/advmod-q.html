@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>rel</title>
+    <title>advmod:q</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/rel.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-q.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,45 +34,34 @@
 	  </div>
 	</noscript>
 
-          <h2><code>rel</code>: relativizer</h2>
+          <h2><code>advmod:q</code>: quantification modifier</h2>
 
-<p>The <em>relativizer</em> (<code>rel</code>) is the head of the phrase containing the relative pronoun (or other relative word). Most often, but not always, this is the relative word itself. The governor of the dependency is the main predicate of the relative clause. </p>
+<p><em>Quantification modifiers</em> (<code>advmod:q</code>) are quantifiers that
+modify a numerical expression. Certain adverbs (and ad-adjectives,
+which are sometimes regarded a separate category from adverbs but
+treated identically in TDT) and few adjectives are allowed as
+quantifiers.</p>
 
-<!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
+<p>Note that adverbs that describe the writer’s attitude towards the
+quantity, such as <em>vain</em> “only”, are not considered quantification
+modifiers, but regular adverb modifiers, although they modify the
+number. Some examples of words that can act as quantification
+modifiers include <em>noin</em> “about”, <em>vähintään</em> “at least”, <em>lähes</em>
+“almost” and <em>yli</em> “over”.</p>
 
-<!-- fname:rel_basic.pdf -->
-<pre><code class="language-sdparse">Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
-rcmod(Auto-1, ohitti-4)
-punct(ohitti-4, ,-2)
-rel(ohitti-4, joka-3)
-dobj(ohitti-4, meidät-5)
-punct(ohitti-4, ,-6)
-nsubj(ajoi-7, Auto-1)
-advmod(ajoi-7, nopeasti-9)
-advmod(nopeasti-9, hyvin-8)
-punct(ajoi-7, .-10)
-</code></pre>
-
-<!-- fname:rel_phrase.pdf -->
-<pre><code class="language-sdparse">Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
-rcmod(Nainen-1, hajosi-5)
-punct(hajosi-5, ,-2)
-poss(auto-4, jonka-3)
-rel(hajosi-5, auto-4)
-punct(hajosi-5, ,-6)
-nsubj(pyysi-7, Nainen-1)
-dobj(pyysi-7, apuamme-8)
-punct(pyysi-7, .-9)
+<!-- fname:quantmod.pdf -->
+<pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
+nsubj-cop(neliökilometriä-6, Alue-1)
+cop(neliökilometriä-6, oli-2)
+nmod(neliökilometriä-6, suuruudeltaan-3)
+advmod:q(kymmenen-5, noin-4)
+num(neliökilometriä-6, kymmenen-5)
+punct(neliökilometriä-6, .-7)
 </code></pre>
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-rel in other languages:
-
-[<a href="../../fi/dep/rel.html">fi</a>]
-
 
 
 

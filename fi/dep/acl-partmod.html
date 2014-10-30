@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>partmod</title>
+    <title>acl:partmod</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/partmod.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-partmod.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,9 +34,9 @@
 	  </div>
 	</noscript>
 
-          <h2><code>partmod</code>: participal modifier</h2>
+          <h2><code>acl:partmod</code>: participal modifier</h2>
 
-<p>The <em>participal modifier</em> (<code>partmod</code>) most commonly modifies a noun
+<p>The <em>participal modifier</em> (<code>acl:partmod</code>) most commonly modifies a noun
 phrase. Note that the participle (Also the MA-derivation is treated
 as a participle in TDT.)  can take arguments, for instance a subject,
 just as any verb.</p>
@@ -44,7 +44,7 @@ just as any verb.</p>
 <!-- fname:partmod_NP.pdf -->
 <pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
 nsubj(leipoma-2, Äidin-1)
-partmod(kakku-3, leipoma-2)
+acl:partmod(kakku-3, leipoma-2)
 nsubj-cop(menestys-5, kakku-3)
 cop(menestys-5, oli-4)
 punct(menestys-5, .-6)
@@ -52,17 +52,17 @@ punct(menestys-5, .-6)
 
 <!-- fname:partmod_NP_2.pdf -->
 <pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
-partmod(lahjat-2, Saadut-1)
+acl:partmod(lahjat-2, Saadut-1)
 nsubj(ilahduttivat-3, lahjat-2)
 dobj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
 </code></pre>
 
-<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
+<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>acl:partmod</code>, the complement is not a clause; otherwise it would be marked as an <em>infinite clausal complement</em> <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.</p>
 
 <!-- fname:partmod_VP_mod.pdf -->
 <pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
-partmod(juoksin-2, Huolestuneena-1)
+acl:partmod(juoksin-2, Huolestuneena-1)
 nmod(juoksin-2, hänen-3)
 adpos(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
@@ -71,7 +71,7 @@ punct(juoksin-2, .-5)
 <!-- fname:partmod_VP_comp.pdf -->
 <pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
 nsubj(osoittautui-2, Ksylitoli-1)
-partmod(osoittautui-2, ehkäiseväksi-4)
+acl:partmod(osoittautui-2, ehkäiseväksi-4)
 dobj(ehkäiseväksi-4, kariesta-3)
 punct(osoittautui-2, .-5)
 </code></pre>
@@ -81,11 +81,6 @@ punct(osoittautui-2, .-5)
 
 <!-- "in other languages" links -->
 <hr/>
-
-partmod in other languages:
-
-[<a href="../../fi/dep/partmod.html">fi</a>]
-
 
 
 
