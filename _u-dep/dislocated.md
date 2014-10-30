@@ -24,5 +24,5 @@ Il faut pas la manger , la plasticine \n It must not it eat , the playdough
 dobj(manger, la-4)
 dislocated(manger, plasticine)
 dobj(eat, it-13)
-dislocated(must, playdough)
+dislocated(eat, playdough)
 ~~~
