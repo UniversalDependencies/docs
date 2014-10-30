@@ -17,6 +17,10 @@ number. Some examples of words that can act as quantification
 modifiers include _noin_ "about", _vähintään_ "at least", _lähes_
 "almost" and _yli_ "over".
 
+Note: `advmod:q` corresponds to `quantmod` (quantifier phrase
+modifier) in the original Stanford Dependencies and the Turku
+Dependency Treebank.
+
 <!-- fname:quantmod.pdf -->
 ~~~ sdparse
 Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
