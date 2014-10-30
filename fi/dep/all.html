@@ -129,12 +129,11 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td><a href="discourse.html" class="doclabel">discourse</a></td>
 	  <td><a href="auxpass.html" class="doclabel">auxpass</a></td>
-	  <td><a href="mark-complm.html" class="doclabel">↳mark:complm</a></td>
+	  <td><a href="punct.html" class="doclabel">punct</a></td>
 	</tr>
 	<tr>
 	  <td><a href="expl.html" class="doclabel">expl</a></td>
 	  <td><a href="cop.html" class="doclabel">cop</a></td>
-	  <td><a href="punct.html" class="doclabel">punct</a></td>
 	</tr>
       </table>
 
@@ -981,25 +980,6 @@ completed.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/list.md" target="#">edit list</a></p>
 
-<h2><code>mark:complm</code>: complementizer</h2>
-
-<p>The <em>complementizer</em> (<code>mark:complm</code>) appears in most clausal
-complements, and the head of the dependency is the main verb of the
-subordinate clause. The only complementizer in Finnish is <em>että</em>
-“that”.</p>
-
-<!-- fname:complm.pdf -->
-<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
-ccomp(Sanoin-1, tulla-6)
-punct(tulla-6, ,-2)
-mark:complm(tulla-6, että-3)
-nsubj(tulla-6, hän-4)
-aux(tulla-6, voi-5)
-punct(Sanoin-1, .-7)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-complm.md" target="#">edit mark:complm</a></p>
-
 <h2><code>mark</code>: marker</h2>
 
 <p>A <em>marker</em> (<code>mark</code>) is the subordinating conjunction in a
@@ -1016,50 +996,23 @@ nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 </code></pre>
 
-<p>The main subordinating conjunctions in TDT are:</p>
+<p>The dependency relation <code>mark</code> is also used to identify the
+<em>complementizer</em> appearing in most clausal complements, where the head
+of the dependency is the main verb of the subordinate clause. The only
+complementizer in Finnish is <em>että</em> “that”. (These relations are
+annotated <code>complm</code> in TDT.)</p>
 
-<ul>
-  <li><em>että</em> “that”</li>
-  <li><em>jotta</em> “so that”</li>
-  <li><em>koska</em> “because”</li>
-  <li><em>kun</em> “when”</li>
-  <li><em>jos</em> “if”</li>
-  <li><em>vaikka</em> “even though”</li>
-  <li><em>kunnes</em> “until”</li>
-  <li><em>kuin</em> “as, than”</li>
-</ul>
+<!-- fname:complm.pdf -->
+<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
+ccomp(Sanoin-1, tulla-6)
+punct(tulla-6, ,-2)
+mark(tulla-6, että-3)
+nsubj(tulla-6, hän-4)
+aux(tulla-6, voi-5)
+punct(Sanoin-1, .-7)
+</code></pre>
 
-<p>Note that the conjunction <em>että</em> (usually) starts a complement clause,
-in which case it is marked as a complementizer <a href="">complm</a>. On a
-similar note, the conjunction <em>kuin</em> also has several uses. In
-addition to a subordinating conjunction, it can also serve as an
-adverb modifier <a href="">advmod</a> as well as a comparative conjunction
-<a href="">comparator</a>.</p>
-
-<p>In addition to the basic subordinating conjunctions, the following
-words or word combinations can be considered subordinating
-conjunctions in TDT. Not all of these expressions have a direct
-counterpart in English, and thus the translations are approximate.</p>
-
-<ul>
-  <li><em>ennenkuin</em> “before”</li>
-  <li><em>jahka</em> “as soon as”</li>
-  <li><em>jos kohta</em> “even if”</li>
-  <li><em>kun taas</em> “whereas”</li>
-  <li><em>kuten</em> “like, as”</li>
-  <li><em>mikäli</em> “if”</li>
-  <li><em>mitä nyt</em> “only”</li>
-  <li><em>muuten</em> “otherwise”</li>
-  <li><em>niin</em> “so”</li>
-  <li><em>niinkuin/niinku</em> “like” (standard and colloquial version)</li>
-  <li><em>paitsi</em> “except”</li>
-  <li><em>paitsi että</em> “except that”</li>
-  <li><em>paitsi jos</em> “except if”</li>
-  <li><em>sikäli kuin</em> “if”</li>
-  <li><em>sillä</em> “because”</li>
-  <li><em>sitten kun</em> “then when”</li>
-  <li><em>vähän kuin</em> “a bit like”</li>
-</ul>
+<p><a href="mark">See details</a></p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark.md" target="#">edit mark</a></p>
 

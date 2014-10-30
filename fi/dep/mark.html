@@ -50,6 +50,24 @@ nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 </code></pre>
 
+<p>The dependency relation <code>mark</code> is also used to identify the
+<em>complementizer</em> appearing in most clausal complements, where the head
+of the dependency is the main verb of the subordinate clause. The only
+complementizer in Finnish is <em>että</em> “that”. (These relations are
+annotated <code>complm</code> in TDT.)</p>
+
+<!-- fname:complm.pdf -->
+<pre><code class="language-sdparse">Sanoin , että hän voi tulla . \n I_said , that he can come .
+ccomp(Sanoin-1, tulla-6)
+punct(tulla-6, ,-2)
+mark(tulla-6, että-3)
+nsubj(tulla-6, hän-4)
+aux(tulla-6, voi-5)
+punct(Sanoin-1, .-7)
+</code></pre>
+
+<!--details-->
+
 <p>The main subordinating conjunctions in TDT are:</p>
 
 <ul>
@@ -63,9 +81,7 @@ punct(jätin-5, .-8)
   <li><em>kuin</em> “as, than”</li>
 </ul>
 
-<p>Note that the conjunction <em>että</em> (usually) starts a complement clause,
-in which case it is marked as a complementizer <a href="">complm</a>. On a
-similar note, the conjunction <em>kuin</em> also has several uses. In
+<p>Note that the conjunction <em>kuin</em> has several uses. In
 addition to a subordinating conjunction, it can also serve as an
 adverb modifier <a href="">advmod</a> as well as a comparative conjunction
 <a href="">comparator</a>.</p>
