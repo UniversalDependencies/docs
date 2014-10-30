@@ -21,12 +21,12 @@
 - label: 'acl-infmod'
   languages:
   - label: 'fi/dep'
+- label: 'acl-partmod'
+  languages:
+  - label: 'fi/dep'
 - label: 'acl-relcl'
   languages:
   - label: 'en/dep'
-  - label: 'fi/dep'
-- label: 'acomp'
-  languages:
   - label: 'fi/dep'
 - label: 'advcl'
   languages:
@@ -68,6 +68,9 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
+- label: 'advmod-q'
+  languages:
+  - label: 'fi/dep'
 - label: 'amod'
   languages:
   - label: 'bg/dep'
@@ -221,9 +224,6 @@
 - label: 'comparator'
   languages:
   - label: 'fi/dep'
-- label: 'complm'
-  languages:
-  - label: 'fi/dep'
 - label: 'compound'
   languages:
   - label: 'bg/dep'
@@ -244,6 +244,9 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
+- label: 'compound-nn'
+  languages:
+  - label: 'fi/dep'
 - label: 'compound-prt'
   languages:
   - label: 'en/dep'
@@ -651,9 +654,6 @@
 - label: 'nmod-tmod'
   languages:
   - label: 'en/dep'
-- label: 'nn'
-  languages:
-  - label: 'fi/dep'
 - label: 'nsubj'
   languages:
   - label: 'bg/dep'
@@ -696,9 +696,6 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
-- label: 'number'
-  languages:
-  - label: 'fi/dep'
 - label: 'nummod'
   languages:
   - label: 'bg/dep'
@@ -739,9 +736,6 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
-- label: 'partmod'
-  languages:
-  - label: 'fi/dep'
 - label: 'punct'
   languages:
   - label: 'bg/dep'
@@ -762,9 +756,6 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
-- label: 'quantmod'
-  languages:
-  - label: 'fi/dep'
 - label: 'rel'
   languages:
   - label: 'fi/dep'
@@ -868,3 +859,6 @@
   - label: 'ko/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
+- label: 'xcomp-a'
+  languages:
+  - label: 'fi/dep'
