@@ -1,4 +1,4 @@
-<---
+---
 layout: entry
 title:  'xcomp:a'
 shortdef : 'adjectival complement'
