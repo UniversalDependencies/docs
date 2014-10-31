@@ -15,6 +15,7 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014). There have been modifi
 ----------
 
 {% for p in site.u-dep %}
+<a id="al-u-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

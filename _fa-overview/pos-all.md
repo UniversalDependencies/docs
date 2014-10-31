@@ -12,6 +12,7 @@ permalink: fa/pos/all.html
 ----------
 
 {% for p in site.fa-pos %}
+<a id="al-fa-pos/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
