@@ -28,4 +28,4 @@ shortdef: 'person of possessor'
 
 ### References
 
-* http://scripta.kotus.fi/visk/sisallys.php?p=97 (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=97> (in Finnish)
