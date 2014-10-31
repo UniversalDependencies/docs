@@ -19,6 +19,6 @@ Example: _He said I could "<b>dra åt helvete!</b>"_
 
 Example: _In Nepali, the mountain is called <b>सगरमाथा</b>._
 
-### Tscript
+### Tscript: it is foreign and transcribed from a foreign script
 
 Example: _The above Nepali word can be transcribed <b>Sagaramāthā</b>._
