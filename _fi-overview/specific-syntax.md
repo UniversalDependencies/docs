@@ -13,7 +13,7 @@ guidelines for specific constructions.
 
 (The following section was lifted from the TDT documentation for
 `rel`, which is removed in UD Finnish. See
-https://github.com/UniversalDependencies/docs/issues/73 for more
+<https://github.com/UniversalDependencies/docs/issues/73> for more
 information.)
 
 In TDT, the *relativizer* (`rel`) is the head of the phrase containing
