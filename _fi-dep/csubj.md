@@ -4,7 +4,7 @@ title:  'csubj'
 shortdef : 'clausal subject'
 ---
 
-A *clausal subject* (*csubj*) is a clause that acts as the subject of
+A *clausal subject* (`csubj`) is a clause that acts as the subject of
 another clause.
 
 <!-- fname:csubj.pdf -->

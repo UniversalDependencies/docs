@@ -7,21 +7,23 @@ shortdef : 'auxiliary'
 redirect_from: "fi/dep/aux.html"
 ---
 
-In TDT, only a closed list of verbs can act as auxiliaries, including the main modal verbs
-(see [ISK §1562](http://scripta.kotus.fi/visk/sisallys.php?p=1562)) and in addition the
-verbs _olla_ "to be" and _aikoa_ "to be going to".
-The full list of auxiliaries in TDT is thus as follows:
+In TDT, only a closed list of verbs can act as auxiliaries, including
+the main modal verbs 
+(see ISK [§1562](http://scripta.kotus.fi/visk/sisallys.php?p=1562))
+and in addition the verbs _olla_ "to be" and _aikoa_ "to be going to".
 
-+ _täytyä_ "must"
-+ _pitää_ "have to"
-+ _tarvita_ "need"
-+ _joutua_ "have to"
-+ _voida_ "be able to, can"
-+ _saattaa_ "may"
-+ _taitaa_ "be+probably, may"
-+ _mahtaa_ "be+probably, may"
-+ _olla_ "be"
-+ _aikoa_ "be going to"
+The full list of auxiliaries in TDT is as follows:
+
+* _täytyä_ "must"
+* _pitää_ "have to"
+* _tarvita_ "need"
+* _joutua_ "have to"
+* _voida_ "be able to, can"
+* _saattaa_ "may"
+* _taitaa_ "be+probably, may"
+* _mahtaa_ "be+probably, may"
+* _olla_ "be"
+* _aikoa_ "be going to"
 
 <!-- fname:aux.pdf -->
 ~~~ sdparse
@@ -31,3 +33,7 @@ aux(lähteä-3, saattoi-2)
 advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
 ~~~
+
+### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1562> (in Finnish)

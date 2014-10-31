@@ -19,35 +19,60 @@ nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 ~~~
 
+The dependency relation `mark` is also used to identify the
+*complementizer* appearing in most clausal complements, where the head
+of the dependency is the main verb of the subordinate clause. The only
+complementizer in Finnish is _että_ "that". (These relations are
+annotated `complm` in TDT.)
+
+<!-- fname:complm.pdf -->
+~~~ sdparse
+Sanoin , että hän voi tulla . \n I_said , that he can come .
+ccomp(Sanoin-1, tulla-6)
+punct(tulla-6, ,-2)
+mark(tulla-6, että-3)
+nsubj(tulla-6, hän-4)
+aux(tulla-6, voi-5)
+punct(Sanoin-1, .-7)
+~~~
+
+<!--details-->
+
 The main subordinating conjunctions in TDT are:
 
-+ että (that)
-+ jotta (so that)
-+ koska (because)
-+ kun (when)
-+ jos (if)
-+ vaikka (even though)
-+ kunnes (until)
-+ kuin (as, than)
+* _että_ "that"
+* _jotta_ "so that"
+* _koska_ "because"
+* _kun_ "when"
+* _jos_ "if"
+* _vaikka_ "even though"
+* _kunnes_ "until"
+* _kuin_ "as, than"
 
-Note that the conjunction *että* (usually) starts a complement clause, in which case it is marked as a complementizer <a href="http://universaldependencies.github.io/docs/fi/complm.html">complm</a>. On a similar note, the conjunction *kuin* also has several uses. In addition to a subordinating conjunction, it can also serve as an adverb modifier <a href="http://universaldependencies.github.io/docs/fi/advmod.html">advmod</a> as well as a comparative conjunction <a href="http://universaldependencies.github.io/docs/fi/comparator.html">comparator</a>.
+Note that the conjunction *kuin* has several uses. In
+addition to a subordinating conjunction, it can also serve as an
+adverb modifier [advmod]() as well as a comparative conjunction
+[comparator]().
 
-In addition to the basic subordinating conjunctions, the following words or word combinations can be considered subordinating conjunctions in TDT. Not all of these expressions have a direct counterpart in English, and thus the translations are approximate.
+In addition to the basic subordinating conjunctions, the following
+words or word combinations can be considered subordinating
+conjunctions in TDT. Not all of these expressions have a direct
+counterpart in English, and thus the translations are approximate.
 
-+ ennenkuin (before)
-+ jahka (as soon as)
-+ jos kohta (even if)
-+ kun taas (whereas)
-+ kuten (like, as)
-+ mikäli (if)
-+ mitä nyt (only)
-+ muuten (otherwise)
-+ niin (so)
-+ niinkuin/niinku (like, standard and colloquial version)
-+ paitsi (except)
-+ paitsi että (except that)
-+ paitsi jos (except if)
-+ sikäli kuin (if)
-+ sillä (because)
-+ sitten kun (then when)
-+ vähän kuin (a bit like)
+* _ennenkuin_ "before"
+* _jahka_ "as soon as"
+* _jos kohta_ "even if"
+* _kun taas_ "whereas"
+* _kuten_ "like, as"
+* _mikäli_ "if"
+* _mitä nyt_ "only"
+* _muuten_ "otherwise"
+* _niin_ "so"
+* _niinkuin/niinku_ "like" (standard and colloquial version)
+* _paitsi_ "except"
+* _paitsi että_ "except that"
+* _paitsi jos_ "except if"
+* _sikäli kuin_ "if"
+* _sillä_ "because"
+* _sitten kun_ "then when"
+* _vähän kuin_ "a bit like"

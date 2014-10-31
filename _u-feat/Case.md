@@ -344,9 +344,9 @@ Treebank [hu], this case is called factive.
 Examples: [fi]
 <I>pitkä</I>
 =
-long; <I>venyi </I><span style='color: red'><I>pitkäksi</I></span>
+long; <I>kasvoi </I><span style='color: red'><I>pitkäksi</I></span>
 =
-got long; <I>englanti</I>
+grew long; <I>englanti</I>
 = English language; <span style='color: red'><I>englanniksi</I></span>
 = in/into English; <I>kello kuusi</I>
 = six o'clock; <I>kello </I><span style='color: red'><I>kuudeksi</I></span>
@@ -419,7 +419,7 @@ Examples: [hu]
 house;
 <span style='color: red'><I>házb</I></span><span style='color: red'><I>a</I></span>
 =
-to
+into
 the house; [fi] <I>talo</I>
 = house; <span style='color: red'><I>talo</I></span><span style='color: red'><I>on</I></span>
 = into
@@ -461,13 +461,8 @@ exist only in singular and not for all nouns.
 
 ### Ade: adessive
 
-The adessive
-case expresses location at
-or by
-something (not
-inside and not on the surface of it).
-The
-corresponding directional cases are allative (towards something) and
+The adessive case expresses location at or on something.
+The corresponding directional cases are allative (towards something) and
 ablative (from something).
 
 Examples: [hu]
@@ -482,21 +477,22 @@ the cash desk;
 [fi] <I>pöytä</I>
 = table;
 <span style='color: red'><I>pöydällä</I></span>
-= at
+= on
 the table;
 [et] <I>laud</I>
 = table;
 <span style='color: red'><I>laual</I></span>
-= at
+= on
 the table.
+
+Note that adessive is used to express location on the surface of
+something in Finnish and Estonian, but does not carry this meaning
+in Hungarian.
 
 ### All: allative
 
-The allative
-case expresses direction
-to
-something (destination
-is adessive, i.e. at or by that something, not on or inside of it).
+The allative case expresses direction to something (destination
+is adessive, i.e. at or on that something).
 
 Examples: [hu]
 <I>pénztár</I>
@@ -511,7 +507,7 @@ the cash desk;
 <I>pöytä</I>
 = table;
 <span style='color: red'><I>pöydäll</I></span><span style='color: red'><I>e</I></span>
-= to
+= onto
 the table.
 
 ### Abl: ablative
@@ -597,9 +593,9 @@ table;
 off
 the table;
 <span style='color: red'><I>Budapestről</I></span><I>
-vagyok</I>
+jövök</I>
 = I
-am/come from Budapest.
+am coming from Budapest.
 
 ### Lat: lative / directional allative
 
@@ -661,13 +657,15 @@ Noun
 in this case is the cause of something. In
 Hungarian it also seems to be used frequently with currency (&ldquo;to
 buy something <I>for</I>
-the money&rdquo;)
+the money&rdquo;) and it also can mean the goal of something.
 
 Examples:
 [hu]
 <I>Egy
 világcég benzinkútjánál 7183 </I><span style='color: red'><I>forintért</I></span><I>
-tankoltam.</I> [eu]
+tankoltam.</I> = lit. a world-wide.company petrol.station.Ade 7183 forint.Cau refueled = I refueled my car at the petrol station of a world-wide company for 7183 forints. 
+<I>Elmentem a boltba</I> <span style='color: red'><I>tejért</I></span><I>.</I> = lit. went the shop.Ill milk.Cau = I went to the shop to buy milk.
+[eu]
 <I>jokaera</I>
 = behavior; <span style='color: red'><I>jokaeragatik</I></span>
 = because of behavior.

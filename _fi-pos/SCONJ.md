@@ -7,7 +7,7 @@ shortdef: 'subordinating conjunction'
 A subordinating conjunction is a conjunction that links constructions
 by making one of them a constituent of the other.
 
-Finnish complementizer *että* and comparative conjunction *kuin* are
+Finnish complementizer _että_ and comparative conjunction _kuin_ are
 also tagged `SCONJ`.
 
 ### Examples

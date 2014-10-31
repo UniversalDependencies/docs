@@ -12,6 +12,7 @@ permalink: fr/dep/all.html
 ----------
 
 {% for p in site.fr-dep %}
+<a id="al-fr-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

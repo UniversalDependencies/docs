@@ -12,5 +12,3 @@ expresses a semantic relationship between them.
 
 * _ja_ "and"
 * _tai_ "or"
-
-(This language-specific documentation is work in progress.)

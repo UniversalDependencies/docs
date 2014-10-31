@@ -50,9 +50,9 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * [Yoav Goldberg](http://www.cs.biu.ac.il/~yogo/)
 * [Jan Hajič](http://ufal.mff.cuni.cz/jan-hajic/)
 * [Christopher Manning](http://nlp.stanford.edu/~manning/)
-* Ryan McDonald
+* [Ryan McDonald](http://www.ryanmcd.com)
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
-* Slav Petrov
+* [Slav Petrov](http://www.petrovi.de/)
 * [Sampo Pyysalo](http://bionlp.utu.fi/)
 * Natalia Silveira
 * Reut Tsarfaty
@@ -60,16 +60,19 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ### Language-specific documentation
 
+* <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
 * <a href="index.html#language-eu">Basque</a>: Koldo Gojenola
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
-* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Filip Ginter
+* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-it">Italian</a>: Maria Simi
+* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka
+* <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
 

@@ -29,6 +29,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-it">Italian</a></li>
+  <li class="ui-state-default"><a href="#language-ja">Japanese</a></li>
   <li class="ui-state-default"><a href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
@@ -365,6 +366,32 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [General principles](it/overview/syntax.html)
   * [Specific constructions](it/overview/specific-syntax.html)
   * [Italian dependency relations](it/dep/index.html) ([single document](it/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Japanese" tab -->
+<div id="language-ja" markdown="1" class="ui-tabs-hide">
+{% include ja-status-table.html %}
+
+[Introduction](ja/overview/introduction.html)
+
+* [Tokenization](ja/overview/tokenization.html)
+* Morphology
+  * [General principles](ja/overview/morphology.html)
+  * [Japanese POS tags](ja/pos/index.html) ([single document](ja/pos/all.html))
+  * [Japanese features](ja/feat/index.html) ([single document](ja/feat/all.html))
+* Syntax
+  * [General principles](ja/overview/syntax.html)
+  * [Specific constructions](ja/overview/specific-syntax.html)
+  * [Japanese dependency relations](ja/dep/index.html) ([single document](ja/dep/all.html))
 
 [CoNLL-U format](format.html)
 

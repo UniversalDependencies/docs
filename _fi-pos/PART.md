@@ -4,12 +4,11 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
-Particles are function words that must be associated with another word
-or phrase to impart meaning and that do not satisfy definitions of
-other universal parts of speech.
+The UD Finnish annotation does not use the [u-pos/PART]() part of speech.
+See [ADV](), [ADP](), [CONJ](), [SCONJ](), [INTJ]() for tags applying to
+words that have been termed "particles" in some descriptions of Finnish.
 
-### Examples
+### References
 
-* TODO
-
-(This language-specific documentation is work in progress.)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=792> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=793> (in Finnish)

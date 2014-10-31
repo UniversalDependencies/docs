@@ -12,5 +12,3 @@ properties or attributes.
 * _suuri_ "big"
 * _vanha_ "old"
 * _vihreä_ "green"
-
-(This language-specific documentation is work in progress.)

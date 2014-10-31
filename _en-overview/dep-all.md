@@ -10,7 +10,12 @@ examples from Section 2 of *[Stanford typed dependencies
 manual](http://nlp.stanford.edu/software/dependencies_manual.pdf)* (de
 Marneffe and Manning 2008).
 
+{% include en-dep-table.html %}
+
+----------
+
 {% for p in site.en-dep %}
+<a id="al-en-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

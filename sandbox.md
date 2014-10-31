@@ -32,6 +32,8 @@ Link: [link text](http://www.example.com)
 
 ### header 3
 
+#### header 4
+
 *italics* and **bold**
 
 `inline code`
@@ -193,3 +195,71 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 {{ p.content }}
 {% endif %}
 {% endfor %}
+
+## Random stuff for Filip's slides
+
+~~~ sdparse
+Juon kaljaa junassa Turkuun
+dobj(Juon, kaljaa)
+nommod(Juon, junassa)
+nommod(junassa, Turkuun)
+~~~
+
+~~~ sdparse
+I will have a beer on the train to Turku
+nsubj(have, I)
+aux(have, will)
+dobj(have, beer)
+det(beer, a)
+prep(have, on)
+pobj(on, train)
+det(train, the)
+prep(train, to)
+pobj(to, Turku)
+~~~
+ 
+~~~ sdparse
+Je vais prendre une bière dans le train vers Turku
+suj(vais, Je)
+obj(vais, prendre)
+det(bière, une)
+obj(prendre, bière)
+mod(prendre, dans)
+det(train, le)
+obj(dans, train)
+mod(train, vers)
+obj(vers, Turku)
+~~~
+
+~~~ sdparse
+Juon kaljaa junassa Turkuun
+dobj(Juon, kaljaa)
+nmod(Juon, junassa)
+nmod(junassa, Turkuun)
+~~~
+
+~~~ sdparse
+I will have a beer on the train to Turku
+nsubj(have, I)
+aux(have, will)
+dobj(have, beer)
+det(beer, a)
+nmod(have, train)
+case(train, on)
+det(train, the)
+nmod(train, Turku)
+case(Turku, to)
+~~~
+ 
+~~~ sdparse
+Je vais prendre une bière dans le train vers Turku
+nsubj(prendre, Je)
+aux(prendre, vais)
+det(bière, une)
+dobj(prendre, bière)
+nmod(prendre, train)
+det(train, le)
+case(train, dans)
+mod(train, Turku)
+case(Turku, vers)
+~~~

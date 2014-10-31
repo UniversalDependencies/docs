@@ -13,18 +13,18 @@ The indicative can be considered the default mood. A verb in
 indicative merely states that something happens, has happened or will
 happen, without adding any attitude of the speaker.
 
-Examples:
+#### Examples
 
-* [fi] _minä **sanon**_ “_I **say**_”
+* [fi] _minä <b>sanon</b>_ "I <b>say</b>"
 
 ### `Imp`: imperative
 
 The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
 
-Examples:
+#### Examples
 
-* [fi] _**kypsennä** uunissa_ “_**fry** in the oven_”
+* [fi] _<b>kypsennä</b> uunissa_ "_<b>fry</b> in the oven_"
 
 ### Cnd: conditional
 
@@ -32,14 +32,14 @@ The conditional mood is used to express actions that would have taken
 place under some circumstances but they actually did not / do not
 happen.
 
-Examples:
+#### Examples
 
-* [fi] _**tarvistisimme** tilaa_ “_we **would need** space_”
+* [fi] _<b>tarvistisimme</b> tilaa_ "we <b>would need</b> space"
 
 ### Pot: potential
 
 The action of the verb is likely but not certain.
 
-Examples:
+#### Examples
 
-* [fi] _talo **valmistunee**_ “_the house **will likely be completed**_”
+* [fi] _talo <b>valmistunee</b>_ "the house <b>will likely be completed</b>"

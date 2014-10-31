@@ -26,3 +26,8 @@ advcl(talked, secure)
 He was upset when I talked to him
 advcl(upset, talked)
 ~~~
+
+~~~ sdparse
+They heard about you missing classes.
+advcl(heard, missing)
+~~~

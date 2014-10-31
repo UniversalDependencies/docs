@@ -12,6 +12,7 @@ permalink: en/feat/all.html
 ----------
 
 {% for p in site.en-feat %}
+<a id="al-en-feat/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

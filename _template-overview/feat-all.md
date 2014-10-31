@@ -12,6 +12,7 @@ permalink: template/feat/all.html
 ----------
 
 {% for p in site.template-feat %}
+<a id="al-template-feat/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

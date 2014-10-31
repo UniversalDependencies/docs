@@ -4,7 +4,14 @@ title:  'appos'
 shortdef : 'apposition'
 ---
 
-An *apposition* (`appos`) is a grammaticalized, paradigmatic addition (usually a noun phrase), which has the same referent as its head word, and the same grammatical function (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>). Also structures with a *supporting noun* (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">§567</a>) are considered appositional. Appositional structures and the closely related *appellation modifiers* are discussed in detail below.
+An *apposition* (`appos`) is a grammaticalized, paradigmatic addition
+(usually a noun phrase), which has the same referent as its head word,
+and the same grammatical function 
+(see ISK [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059)). 
+Also structures with a _supporting noun_ 
+(see ISK [§567](http://scripta.kotus.fi/visk/sisallys.php?p=567)) are
+considered appositional. Appositional structures and the closely
+related _appellation modifiers_ are discussed in detail below.
 
 <!-- fname:appos1.pdf -->
 ~~~ sdparse
@@ -32,15 +39,14 @@ punct(on-3, .-6)
 
 ### Appositions and appellation modifiers
 
-The Finnish Grammar (see ISK <a
-href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a> <a
-href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">§1062</a>)
+The Finnish Grammar (see ISK
+[§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059),
+[§1062](http://scripta.kotus.fi/visk/sisallys.php?p=1062))
 distinguishes between three similar phenomena: the apposition, the
 appellation modifier (*nimikemääarite*) and the supporting noun
 (*tukisubstantiivi*). Out of these, the apposition and the appellation
-modifier ([nn]()) are
-distinguished in TDT, and supporting noun structures are considered
-appositions.
+modifier ([compound:nn]()) are distinguished in TDT, and supporting
+noun structures are considered appositions.
 
 All of these structures have in common that they all include two
 (usually adjacent) elements, most often noun phrases, which refer to
@@ -48,13 +54,11 @@ the same entity or entities and have the same function in the
 sentence. Thus, in order to be considered an apposition, an
 appellation modifier or a supporting noun structure, a structure has
 to fulfill the following criteria (the same as in the Finnish
-grammar <a
-href="http://scripta.kotus.fi/visk/sisallys.php?p=1059">§1059</a>):
-
+grammar [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059)):
 
 1. Both elements of the structure must refer to the same entity
     or group of entities.
-1. Both elements of the structure must have the same function
+2. Both elements of the structure must have the same function
     in the sentence (for instance, the subject).
 
 These criteria are interpreted rather loosely, and there are no
@@ -67,17 +71,17 @@ few examples of verbal appositions.
 Among the expressions that fulfill criteria 1 and 2, six common
 cases can be distinguished according to inflection and punctuation.
 
-1. singular, both elements in nominative, no punctuation: *professori Matti Tamminen (professor Matti Tamminen)*
-1. singular, first element in nominative, second element inflected: *professori Matti Tammisen mukaan (according to professor Matti Tamminen)*
-1. singular, both elements in nominative, punctuation in between: *professori, Matti Tamminen (the professor, Matti Tamminen)*
-1. singular, first element inflected, second element in nominative: *romaanissa Putkinotko (in the novel Putkinotko)*
-1. singular, both elements inflected: *professorin, Matti Tammisen, mukaan (according to the professor, Matti Tamminen)*
-1. plural, elements either in nominative or inflected: *professorit Matti Tamminen ja Erkki Koivunen (the professors Matti Tamminen and Erkki Koivunen)* or *professoreiden, Matti Tammisen ja Erkki Koivusen, mukaan (according to the professors, Matti Tamminen and Erkki Koivunen)* or *professoreiden Matti Tamminen and Erkki Koivunen mukaan (according to the professors Matti Tamminen and Erkki Koivunen)*
+1. singular, both elements in nominative, no punctuation: _professori Matti Tamminen_ "professor Matti Tamminen"
+2. singular, first element in nominative, second element inflected: _professori Matti Tammisen mukaan_ "according to professor Matti Tamminen"
+3. singular, both elements in nominative, punctuation in between: _professori, Matti Tamminen_ "the professor, Matti Tamminen"
+4. singular, first element inflected, second element in nominative: _romaanissa Putkinotko_ "in the novel Putkinotko"
+5. singular, both elements inflected: _professorin, Matti Tammisen, mukaan_ "according to the professor, Matti Tamminen"
+6. plural, elements either in nominative or inflected: _professorit Matti Tamminen ja Erkki Koivunen_ "the professors Matti Tamminen and Erkki Koivunen" or _professoreiden, Matti Tammisen ja Erkki Koivusen, mukaan_ "according to the professors, Matti Tamminen and Erkki Koivunen" or _professoreiden Matti Tamminen and Erkki Koivunen mukaan_ "according to the professors Matti Tamminen and Erkki Koivunen"
 
 Out of these six cases, the first two are considered appellation
-modifiers, and thus marked with the dependency type
-`nn`. Note that the governor of the dependency in
-appellation modifiers is the latter of the two words.
+modifiers, and thus marked with the dependency type `nn`. Note that
+the governor of the dependency in appellation modifiers is the latter
+of the two words.
 
 <!-- TODO missing fig \myfigexample{nn_appellation.pdf} -->
 
@@ -112,7 +116,13 @@ variations are ungrammatical. (Naturally, ungrammatical phenomena
 can and do occur in a corpus of actual language, but these cases are
 resolved on a case-by-case basis.)
 
-- \*professori, Matti Tammisen mukaan
-- \*romaanissa, Putkinotko
-- \*professorin Matti Tammisen mukaan (unless a possessive reading, *the
-        professor's Matti Tamminen*, is intended)
+- \*_professori, Matti Tammisen mukaan_ "according to professor, Matti Tamminen"
+- \*_romaanissa, Putkinotko_ "in the novel, Putkinotko"
+- \*_professorin Matti Tammisen mukaan_ "according to the professor's Matti Tamminen"
+  (unless a possessive reading is intended)
+
+### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=567> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1059> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1062> (in Finnish)

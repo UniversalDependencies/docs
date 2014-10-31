@@ -10,5 +10,3 @@ Adposition is a cover term for prepositions and postpositions.
 
 * alla "under"
 * päällä "over"
-
-(This language-specific documentation is work in progress.)

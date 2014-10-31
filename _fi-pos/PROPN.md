@@ -11,5 +11,3 @@ part of the name) of a specific individual, place, or object.
 
 * _Aapo_, _Anna_
 * _Turku_
-
-(This language-specific documentation is work in progress.)

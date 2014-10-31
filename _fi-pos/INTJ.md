@@ -10,5 +10,3 @@ part of an exclamation.
 ### Examples
 
 * _psst_
-
-(This language-specific documentation is work in progress.)
