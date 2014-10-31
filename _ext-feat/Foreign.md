@@ -13,12 +13,12 @@ class to which the word belongs in its original language.
 
 ### Foreign: it is foreign
 
-Example: He said I could "_<b>dra åt helvete!</b>_"
+Example: _He said I could "<b>dra åt helvete!</b>"_
 
 ### Fscript: it is foreign and written in a foreign script
 
-Example: In Nepali, the mountain is called _<b>सगरमाथा</b>_.
+Example: _In Nepali, the mountain is called <b>सगरमाथा</b>._
 
 ### Tscript
 
-Example: The above Nepali word can be transcribed _<b>Sagaramāthā</b>_.
+Example: _The above Nepali word can be transcribed <b>Sagaramāthā</b>._
