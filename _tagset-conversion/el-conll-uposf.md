@@ -1,0 +1,464 @@
+---
+layout: base
+title: 'Tagset el::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset el::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>el::conll</tt>, total 445 tags.
+
+<table>
+  <tr style="background:lightgray"><td>Ad Ad Ba</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em>ως, όπως, σχετικά, καθώς, μεταξύ</em></td></tr>
+  <tr><td>Ad Ad Cp</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>περισσότερο, αργότερα, καλύτερα, λιγότερο, παλαιότερα</em></td></tr>
+  <tr style="background:lightgray"><td>Ad Ad Su</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>πιθανότατα, ελάχιστα</em></td></tr>
+  <tr><td>Aj Aj Ba|Fe|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Plur</td><td><em>όλες, πολλές, ορισμένες, διάφορες, δημόσιες</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Fe|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Ba|Fe|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Plur</td><td><em>νέων, πολιτικών, Φιλίππων, οικονομικών, δημοσίων</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Fe|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Plur</td><td><em>όλες, πολλές, νέες, ευρωπαϊκές, ορισμένες</em></td></tr>
+  <tr><td>Aj Aj Ba|Fe|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</td><td><em>μεγάλη, οικονομική, σημαντική, νέα, κοινή</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Fe|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Sing</td><td><em>πάση</em></td></tr>
+  <tr><td>Aj Aj Ba|Fe|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Sing</td><td><em>κοινής, κοινωνικής, οικονομικής, εσωτερικής, νέας</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Fe|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing</td><td><em>σημαντική, μεγάλη, δυνατή, ίδια, γνωστή</em></td></tr>
+  <tr><td>Aj Aj Ba|Ma|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Masc|Number=Plur</td><td><em>όλους, πολλούς, ειδικούς, τουριστικούς, ορισμένους</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ma|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Ba|Ma|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Masc|Number=Plur</td><td><em>όλων, Απόντων, πολιτικών, διαφόρων, ειδικών</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ma|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Masc|Number=Plur</td><td><em>πολλοί, όλοι, ειδικοί, συμμετέχοντες, ίδιοι</em></td></tr>
+  <tr><td>Aj Aj Ba|Ma|Pl|Vo</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Masc|Number=Plur</td><td><em>αγαπητοί</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ma|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>μεγάλο, ίδιο, σημαντικό, όλο, περασμένο</em></td></tr>
+  <tr><td>Aj Aj Ba|Ma|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ma|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>Αγίου, Χριστού, μεγάλου, ολίγου, Πελοποννησιακού</em></td></tr>
+  <tr><td>Aj Aj Ba|Ma|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>επικεφαλής, επόμενος, ίδιος, τελικός, Αρτέμιδος</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ma|Sg|Vo</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>Ύπατε, αξιότιμε</em></td></tr>
+  <tr><td>Aj Aj Ba|Ne|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Plur</td><td><em>όλα, κράτη, πολλά, ειδικά, ορισμένα</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ne|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Plur</td><td><em>ασθενείς</em></td></tr>
+  <tr><td>Aj Aj Ba|Ne|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Plur</td><td><em>κρατών, ανθρωπίνων, Ηνωμένων, εθνικών, όλων</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ne|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Plur</td><td><em>ενδιαφέροντα, πολλά, όλα, ορισμένα, νέα</em></td></tr>
+  <tr><td>Aj Aj Ba|Ne|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>ίδιο, ευρωπαϊκό, πολιτικό, δυνατόν, σημαντικό</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ne|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>εδώ, Άνω</em></td></tr>
+  <tr><td>Aj Aj Ba|Ne|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>νέου, Αγίου, κράτους, ευρωπαϊκού, τουρκικού</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Ba|Ne|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>σημαντικό, σαφές, καλό, δυνατόν, δύσκολο</em></td></tr>
+  <tr><td>Aj Aj Cp|Fe|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Plur</td><td><em>περισσότερες, καλύτερες, λιγότερες, σημαντικότερες, υψηλότερες</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Fe|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Fe|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Plur</td><td><em>καλύτερων, αποτελεσματικότερων, ευρύτερων, αυστηρότερων</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Fe|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Plur</td><td><em>περισσότερες, μικρότερες, μεγαλύτερες, παλαιότερες, νεώτερες</em></td></tr>
+  <tr><td>Aj Aj Cp|Fe|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Sing</td><td><em>μεγαλύτερη, καλύτερη, περισσότερη, ιδιαίτερη, ταχύτερη</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Fe|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Fe|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing</td><td><em>μεγαλύτερης, καλύτερης, ευρύτερης, Ελεύθερης, χαμηλότερης</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Fe|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Sing</td><td><em>μεγαλύτερη, νεώτερη, καλύτερη, αποτελεσματικότερη, φθηνότερη</em></td></tr>
+  <tr><td>Aj Aj Cp|Ma|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Masc|Number=Plur</td><td><em>σημαντικότερους, περισσότερους, διασημότερους, γνωστότερους, γρηγορότερους</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ma|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Ma|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ma|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Plur</td><td><em>περισσότεροι</em></td></tr>
+  <tr><td>Aj Aj Cp|Ma|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Masc|Number=Sing</td><td><em>καλύτερο, μεγαλύτερο, βορειότερο, κεντρικότερο, νεότερο</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ma|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Ma|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Masc|Number=Sing</td><td><em>Ανόβερου, μείζονος, ακριβέστερου, μικρότερου</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ma|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Sing</td><td><em>μεγαλύτερος, κυριότερος, χαμηλότερα, σημαντικότερος, περισσότερος</em></td></tr>
+  <tr><td>Aj Aj Cp|Ne|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Plur</td><td><em>περισσότερα, σημαντικότερα, λιγότερα, μικρότερα, υψηλότερα</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ne|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Ne|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ne|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Plur</td><td><em>περισσότερα</em></td></tr>
+  <tr><td>Aj Aj Cp|Ne|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em>μεγαλύτερο, σημαντικότερο, συντομότερο, ταχύτερο, χαμηλότερο</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ne|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Cp|Ne|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Cp|Ne|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing</td><td><em>μεγαλύτερο, ευκολότερο, χειρότερο</em></td></tr>
+  <tr><td>Aj Aj Su|Fe|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Plur</td><td><em>ελάχιστες, σοβαρότατες, σημαντικότατες, ευρύτατες</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Fe|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Fe|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Plur</td><td><em>ελαχίστων</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Fe|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Plur</td><td><em>ανώτατες, άριστες</em></td></tr>
+  <tr><td>Aj Aj Su|Fe|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Sing</td><td><em>μέγιστη, υψίστη</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Fe|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Fe|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Sing</td><td><em>Γαληνότατης, μέγιστης</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Fe|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ma|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Masc|Number=Plur</td><td><em>ύψιστους</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ma|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ma|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Masc|Number=Plur</td><td><em>άριστων</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ma|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ma|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Masc|Number=Sing</td><td><em>γραφικότατο, Ύψιστο, ισχυρότατο, πλείστον, βέλτιστο</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ma|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ma|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ma|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ne|Pl|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Plur</td><td><em>βέλτιστα, ισχυρότατα</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ne|Pl|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ne|Pl|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ne|Pl|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Plur</td><td><em>ανώτατα</em></td></tr>
+  <tr><td>Aj Aj Su|Ne|Sg|Ac</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Sing</td><td><em>ελάχιστο</em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ne|Sg|Da</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Aj Aj Su|Ne|Sg|Ge</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Aj Aj Su|Ne|Sg|Nm</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Sing</td><td><em>ελάχιστο</em></td></tr>
+  <tr><td>AsPp AsPpPa Fe|Pl|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Fem|Number=Plur</td><td><em>στις</em></td></tr>
+  <tr style="background:lightgray"><td>AsPp AsPpPa Fe|Sg|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Fem|Number=Sing</td><td><em>στην, στη</em></td></tr>
+  <tr><td>AsPp AsPpPa Ma|Pl|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Masc|Number=Plur</td><td><em>στους</em></td></tr>
+  <tr style="background:lightgray"><td>AsPp AsPpPa Ma|Sg|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Masc|Number=Sing</td><td><em>στον, στο</em></td></tr>
+  <tr><td>AsPp AsPpPa Ne|Pl|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Neut|Number=Plur</td><td><em>στα</em></td></tr>
+  <tr style="background:lightgray"><td>AsPp AsPpPa Ne|Sg|Ac</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc|Gender=Neut|Number=Sing</td><td><em>στο</em></td></tr>
+  <tr><td>AsPp AsPpSp _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>για, από, με, σε, κατά</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Fe|Pl|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><em>τις, ΤΙΣ, Τας</em></td></tr>
+  <tr><td>At AtDf Fe|Pl|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Fe|Pl|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><em>των</em></td></tr>
+  <tr><td>At AtDf Fe|Pl|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><em>οι, Oι</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Fe|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><em>την, τη</em></td></tr>
+  <tr><td>At AtDf Fe|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Fe|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><em>της, ΤΗΣ</em></td></tr>
+  <tr><td>At AtDf Fe|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><em>η</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ma|Pl|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><em>τους</em></td></tr>
+  <tr><td>At AtDf Ma|Pl|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ma|Pl|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><em>των</em></td></tr>
+  <tr><td>At AtDf Ma|Pl|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><em>οι, Oι</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ma|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em>τον, το</em></td></tr>
+  <tr><td>At AtDf Ma|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ma|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em>του</em></td></tr>
+  <tr><td>At AtDf Ma|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em>ο</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ne|Pl|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art</td><td><em>τα</em></td></tr>
+  <tr><td>At AtDf Ne|Pl|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art</td><td><em>τοις</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ne|Pl|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art</td><td><em>των</em></td></tr>
+  <tr><td>At AtDf Ne|Pl|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art</td><td><em>τα</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ne|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art</td><td><em>το</em></td></tr>
+  <tr><td>At AtDf Ne|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art</td><td><em>τω</em></td></tr>
+  <tr style="background:lightgray"><td>At AtDf Ne|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art</td><td><em>του</em></td></tr>
+  <tr><td>At AtDf Ne|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art</td><td><em>το</em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Fe|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><em>μια, μία</em></td></tr>
+  <tr><td>At AtId Fe|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Fe|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><em>μιας, μίας</em></td></tr>
+  <tr><td>At AtId Fe|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><em>μια, μία</em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Ma|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><em>έναν, ένα</em></td></tr>
+  <tr><td>At AtId Ma|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Ma|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><em>ενός</em></td></tr>
+  <tr><td>At AtId Ma|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><em>ένας</em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Ne|Sg|Ac</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em>ένα</em></td></tr>
+  <tr><td>At AtId Ne|Sg|Da</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>At AtId Ne|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em>ενός</em></td></tr>
+  <tr><td>At AtId Ne|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em>ένα</em></td></tr>
+  <tr style="background:lightgray"><td>COMP COMP _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>εν_λόγω, εν_όψει, απ'_όλα, εν__λόγω, _εν_λόγω</em></td></tr>
+  <tr><td>Cj CjCo _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>και, αλλά, ή, ενώ, όμως</em></td></tr>
+  <tr style="background:lightgray"><td>Cj CjSb _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>ότι, αν, ώστε, εάν, όταν</em></td></tr>
+  <tr><td>DATE DATE _</td><td>=&gt;</td><td>NOUN</td><td>AdvType=Tim</td><td><em>Παρασκευή, Τρίτη, Δευτέρα, 11ης_Μαρτίου, Τετάρτη</em></td></tr>
+  <tr style="background:lightgray"><td>DIG DIG _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td><em>1, 15, 1999, 10, 2005</em></td></tr>
+  <tr><td>INIT INIT _</td><td>=&gt;</td><td>PROPN</td><td>Abbr=Yes</td><td><em>Ο., Ζ., M., Χ., Ν.</em></td></tr>
+  <tr style="background:lightgray"><td>LSPLIT LSPLIT _</td><td>=&gt;</td><td>ADP</td><td>Abbr=Yes|AdpType=Prep</td><td><em>γι', σ', απ', κατ', εφ'</em></td></tr>
+  <tr><td>Nm NmCd Fe|Pl|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumType=Card|Number=Plur</td><td><em>δύο, τρεις, πέντε, δέκα, επτά</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Fe|Pl|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumType=Card|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Nm NmCd Fe|Pl|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumType=Card|Number=Plur</td><td><em>δύο, τριών, δεκαπέντε, πέρισι, εκατό</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Fe|Pl|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumType=Card|Number=Plur</td><td><em>δύο, τρεις, έξι, δέκα, δυο</em></td></tr>
+  <tr><td>Nm NmCd Fe|Sg|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumType=Card|Number=Sing</td><td><em>μία, μια</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Fe|Sg|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Nm NmCd Fe|Sg|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Fe|Sg|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumType=Card|Number=Sing</td><td><em>Μία</em></td></tr>
+  <tr><td>Nm NmCd Ma|Pl|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Masc|NumType=Card|Number=Plur</td><td><em>δύο, τρεις, έξι, τέσσερις, τέσσερεις</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ma|Pl|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Masc|NumType=Card|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Nm NmCd Ma|Pl|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Masc|NumType=Card|Number=Plur</td><td><em>δύο, τριών, τεσσάρων</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ma|Pl|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|NumType=Card|Number=Plur</td><td><em>δύο, εννέα, δίκτυό, πέντε, οκτώ</em></td></tr>
+  <tr><td>Nm NmCd Ma|Sg|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Masc|NumType=Card|Number=Sing</td><td><em>έναν</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ma|Sg|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Masc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Nm NmCd Ma|Sg|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Masc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ma|Sg|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|NumType=Card|Number=Sing</td><td><em>ένας</em></td></tr>
+  <tr><td>Nm NmCd Ne|Pl|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|NumType=Card|Number=Plur</td><td><em>δύο, πέντε, τρία, δυο, δυόμισι</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ne|Pl|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|NumType=Card|Number=Plur</td><td><em>εκατό</em></td></tr>
+  <tr><td>Nm NmCd Ne|Pl|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|NumType=Card|Number=Plur</td><td><em>δύο, πέντε, τριών, δεκαπέντε, έξι</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ne|Pl|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|NumType=Card|Number=Plur</td><td><em>δύο, τρία, Δέκα, Είκοσι, ΔΥΟ</em></td></tr>
+  <tr><td>Nm NmCd Ne|Sg|Ac|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|NumType=Card|Number=Sing</td><td><em>ένα</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ne|Sg|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Nm NmCd Ne|Sg|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|NumType=Card|Number=Sing</td><td><em>ενός, επτά</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCd Ne|Sg|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|NumType=Card|Number=Sing</td><td><em>ενάμισι, Ένα</em></td></tr>
+  <tr><td>Nm NmCt Fe|Pl|Ac|No</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumType=Gen|Number=Plur</td><td><em>χιλιάδες, δεκάδες, εκατοντάδες</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Da|No</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Nm NmCt Fe|Pl|Ge|No</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumType=Gen|Number=Plur</td><td><em>χιλιάδων, δεκάδων</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Nm|No</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumType=Gen|Number=Plur</td><td><em>Εκατοντάδες, Δεκάδες</em></td></tr>
+  <tr><td>Nm NmMl Ne|Sg|Ac|Aj</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Gender=Neut|NumType=Mult|Number=Sing</td><td><em>διπλό</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Fe|Pl|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>τρίτες</em></td></tr>
+  <tr><td>Nm NmOd Fe|Pl|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Fe|Pl|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>πρώτων</em></td></tr>
+  <tr><td>Nm NmOd Fe|Pl|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>πρώτες</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Fe|Sg|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>πρώτη, τρίτη, δεύτερη, ΚΑ΄, 30΄</em></td></tr>
+  <tr><td>Nm NmOd Fe|Sg|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Fe|Sg|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>πρώτης, δεύτερης, μαυροπετρίτης, τρίτης</em></td></tr>
+  <tr><td>Nm NmOd Fe|Sg|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>πρώτη, δεύτερη, τέταρτη, τρίτη</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ma|Pl|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>πρώτους</em></td></tr>
+  <tr><td>Nm NmOd Ma|Pl|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ma|Pl|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>τρίτων</em></td></tr>
+  <tr><td>Nm NmOd Ma|Pl|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ma|Sg|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>πρώτο, τρίτο, δεύτερο, ένατο</em></td></tr>
+  <tr><td>Nm NmOd Ma|Sg|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ma|Sg|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>πρώτου, Ε'</em></td></tr>
+  <tr><td>Nm NmOd Ma|Sg|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>δεύτερος, πρώτος, Δεύτερο, ντ', τρίτος</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ne|Pl|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Nm NmOd Ne|Pl|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ne|Pl|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Nm NmOd Ne|Pl|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>τέταρτα</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ne|Sg|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>πρώτο, δεύτερο, Β΄, 'κλείνονται', έκτο</em></td></tr>
+  <tr><td>Nm NmOd Ne|Sg|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmOd Ne|Sg|Ge|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>πρώτου</em></td></tr>
+  <tr><td>Nm NmOd Ne|Sg|Nm|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>Γι', Παρ', δεύτερο, Γεννηματάς', τρίτο</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Fe|Pl|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Plur</td><td><em>χώρες, αρχές, παραλίες, τροπολογίες, προτάσεις</em></td></tr>
+  <tr><td>No NoCm Fe|Pl|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Fe|Pl|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|Number=Plur</td><td><em>χωρών, συμβάσεων, υπηρεσιών, μεταφορών, γυναικών</em></td></tr>
+  <tr><td>No NoCm Fe|Pl|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|Number=Plur</td><td><em>γυναίκες, χώρες, τιμές, κυρίες, παραλίες</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Fe|Pl|Vo</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|Number=Plur</td><td><em>Κυρίες</em></td></tr>
+  <tr><td>No NoCm Fe|Sg|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Sing</td><td><em>έκθεση, διαδικασία, βάση, απόφαση, πόλη</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Fe|Sg|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|Number=Sing</td><td><em>περιπτώσει, συνεχεία, θυσία, συντομία</em></td></tr>
+  <tr><td>No NoCm Fe|Sg|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|Number=Sing</td><td><em>Ένωσης, χώρας, εργασίας, κυβέρνησης, διαδικασίας</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Fe|Sg|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|Number=Sing</td><td><em>πόλη, οδηγία, πρόταση, διαδικασία, ομάδα</em></td></tr>
+  <tr><td>No NoCm Fe|Sg|Vo</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|Number=Sing</td><td><em>Κυρία, Επίτροπε, Αντιπρόεδρε</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ma|Pl|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Masc|Number=Plur</td><td><em>πολίτες, οδηγούς, ανθρώπους, τομείς, στόχους</em></td></tr>
+  <tr><td>No NoCm Ma|Pl|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ma|Pl|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Masc|Number=Plur</td><td><em>πολιτών, οδηγών, βράχων, εργαζομένων, τουριστών</em></td></tr>
+  <tr><td>No NoCm Ma|Pl|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Masc|Number=Plur</td><td><em>βουλευτές, επιστήμονες, άνθρωποι, στόχοι, ηγέτες</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ma|Pl|Vo</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Masc|Number=Plur</td><td><em>συνάδελφοι, κύριοι</em></td></tr>
+  <tr><td>No NoCm Ma|Sg|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Masc|Number=Sing</td><td><em>τομέα, χρόνο, τρόπο, λόγο, κίνδυνο</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ma|Sg|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Masc|Number=Sing</td><td><em>καταλήγω</em></td></tr>
+  <tr><td>No NoCm Ma|Sg|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Masc|Number=Sing</td><td><em>αιώνα, χρόνου, κανονισμού, πολέμου, τύπου</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ma|Sg|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Masc|Number=Sing</td><td><em>πρόεδρος, αριθμός, επισκέπτης, στόχος, τόπος</em></td></tr>
+  <tr><td>No NoCm Ma|Sg|Vo</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Masc|Number=Sing</td><td><em>Πρόεδρε, κύριε, Εκπρόσωπε</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ne|Pl|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|Number=Plur</td><td><em>χρόνια, μέλη, θέματα, προβλήματα, άτομα</em></td></tr>
+  <tr><td>No NoCm Ne|Pl|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ne|Pl|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|Number=Plur</td><td><em>ετών, ναρκωτικών, μελών, δικαιωμάτων, μέτρων</em></td></tr>
+  <tr><td>No NoCm Ne|Pl|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|Number=Plur</td><td><em>παιδιά, Μετέωρα, χρόνια, μέλη, δικαιώματα</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ne|Sg|Ac</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|Number=Sing</td><td><em>Κοινοβούλιο, πλαίσιο, Συμβούλιο, πρόγραμμα, νησί</em></td></tr>
+  <tr><td>No NoCm Ne|Sg|Da</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|Number=Sing</td><td><em>μέρει, γένει, αναμένω, περιμένω</em></td></tr>
+  <tr style="background:lightgray"><td>No NoCm Ne|Sg|Ge</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|Number=Sing</td><td><em>νησιού, Συμβουλίου, κοινού, προγράμματος, Πανεπιστημίου</em></td></tr>
+  <tr><td>No NoCm Ne|Sg|Nm</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|Number=Sing</td><td><em>νησί, Συμβούλιο, πρόγραμμα, ζήτημα, γεγονός</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Fe|Pl|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Fem|Number=Plur</td><td><em>Βρυξέλλες, Σέρρες, βίλλες, Ευρωπαίες</em></td></tr>
+  <tr><td>No NoPr Fe|Pl|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Fe|Pl|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Fem|Number=Plur</td><td><em>Αθηνών, Κυκλάδων, Βρετανών, Ρωμαίων, Βρυξελλών</em></td></tr>
+  <tr><td>No NoPr Fe|Pl|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Fem|Number=Plur</td><td><em>Κρηνίδες</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Fe|Sg|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Fem|Number=Sing</td><td><em>Ευρώπη, Ελλάδα, Τουρκία, Δήλο, Κέρκυρα</em></td></tr>
+  <tr><td>No NoPr Fe|Sg|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Fe|Sg|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Fem|Number=Sing</td><td><em>Ευρώπης, Ελλάδας, Ρόδου, Λισαβόνας, Κως</em></td></tr>
+  <tr><td>No NoPr Fe|Sg|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Fem|Number=Sing</td><td><em>Δήλος, Ρόδος, Ηγουμενίτσα, Κέρκυρα, Λέσβος</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ma|Pl|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Masc|Number=Plur</td><td><em>Αθηναίους, Ευρωπαίους, Ρωμαίους, Γενοβέζους, Αργεντινούς</em></td></tr>
+  <tr><td>No NoPr Ma|Pl|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ma|Pl|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Masc|Number=Plur</td><td><em>Ισπανών, Αγίων, Τούρκων, Γερμανών, Ιώνων</em></td></tr>
+  <tr><td>No NoPr Ma|Pl|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Masc|Number=Plur</td><td><em>Ευρωπαίοι, Γερμανοί, Ισπανοί, Βρετανοί, Αμερικανοί</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ma|Sg|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Masc|Number=Sing</td><td><em>Λίβανο, Κάστρο, Πειραιά, Μπαρόζο, Αμερικανό</em></td></tr>
+  <tr><td>No NoPr Ma|Sg|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ma|Sg|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Masc|Number=Sing</td><td><em>Απόλλωνα, Διονύσου, Καραγεωργίου, Γεωργίου, Λιβάνου</em></td></tr>
+  <tr><td>No NoPr Ma|Sg|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Masc|Number=Sing</td><td><em>Αμερικανός, ΣΩΚΡΑΤΗΣ, Άγιος, Γερμανός, Γάλλος</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ma|Sg|Vo</td><td>=&gt;</td><td>PROPN</td><td>Case=Voc|Gender=Masc|Number=Sing</td><td><em>λακτόζη</em></td></tr>
+  <tr><td>No NoPr Ne|Pl|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Neut|Number=Plur</td><td><em>Σύβοτα, Δωδεκάνησα, Βαλκάνια, Γιάννενα, Τίρανα</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ne|Pl|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>No NoPr Ne|Pl|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Neut|Number=Plur</td><td><em>Βαλκανίων, Ιωαννίνων</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ne|Pl|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>No NoPr Ne|Sg|Ac</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Neut|Number=Sing</td><td><em>Πεκίνο, Λουξεμβούργο, Λονδίνο, Παγγαίο, Βέλγιο</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ne|Sg|Da</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>No NoPr Ne|Sg|Ge</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Neut|Number=Sing</td><td><em>Αιγαίου, Ελσίνκι, Λουξεμβούργου, Παγγαίου, Βασιλείου</em></td></tr>
+  <tr style="background:lightgray"><td>No NoPr Ne|Sg|Nm</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Neut|Number=Sing</td><td><em>Αντί, Σουδάν, Πόρτο, Αρτεμίσιο, Μαρόκο</em></td></tr>
+  <tr><td>PUNCT PUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, ., ", -, :</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Fe|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτές, τέτοιες, εκείνες</em></td></tr>
+  <tr><td>Pn PnDm Fe|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτών</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Fe|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτές, τέτοιες, εκείνες</em></td></tr>
+  <tr><td>Pn PnDm Fe|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτή, αυτήν, εκείνη, τέτοια</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτής, εκείνης</em></td></tr>
+  <tr><td>Pn PnDm Fe|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτή, τέτοια, εκείνη</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ma|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτούς, εκείνους</em></td></tr>
+  <tr><td>Pn PnDm Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτών, εκείνων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ma|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτοί, εκείνοι</em></td></tr>
+  <tr><td>Pn PnDm Ma|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτό, αυτόν, τέτοιο, εκείνον</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτού</em></td></tr>
+  <tr><td>Pn PnDm Ma|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτός, Εκείνος, τέτοιος</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ne|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτά, εκείνα</em></td></tr>
+  <tr><td>Pn PnDm Ne|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτών, τέτοιων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ne|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Dem</td><td><em>αυτά, ταύτα, Τέτοια</em></td></tr>
+  <tr><td>Pn PnDm Ne|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτό, τέτοιο, εκείνο, τούτο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnDm Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτού, τούτου, τέτοιου</em></td></tr>
+  <tr><td>Pn PnDm Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem</td><td><em>αυτό, τέτοιο, τούτο, εκείνο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Fe|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλες, κάποιες, μερικές, καθε</em></td></tr>
+  <tr><td>Pn PnId Fe|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Fe|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάποιες, αρκετές, μερικές, Αλλες, άλλες</em></td></tr>
+  <tr><td>Pn PnId Fe|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάθε, άλλη, κάποια, καμία, καμιά</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάθε, άλλης</em></td></tr>
+  <tr><td>Pn PnId Fe|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>μία, καμία, κάποια, άλλη, κάθε</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ma|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλους, μερικούς</em></td></tr>
+  <tr><td>Pn PnId Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλων, μερικών</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ma|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλοι, μερικοί, κάποιοι, αρκετοί</em></td></tr>
+  <tr><td>Pn PnId Ma|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάθε, κάποιο, κανένα, κάποιον, κανέναν</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάθε, καθενός, κανενός, άλλου</em></td></tr>
+  <tr><td>Pn PnId Ma|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κανείς, κάποιος, άλλος, καθένας, Αλλος</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ne|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλα, μερικά, κάποια</em></td></tr>
+  <tr><td>Pn PnId Ne|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ne|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Ind,Neg,Tot</td><td><em>μερικά, κάποια</em></td></tr>
+  <tr><td>Pn PnId Ne|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>άλλο, κάτι, κάθε, κανένα, τίποτα</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnId Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάθε, κάτι, άλλου</em></td></tr>
+  <tr><td>Pn PnId Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Neg,Tot</td><td><em>κάτι, ένα, άλλο, κάθε, κάποιο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Fe|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>Pn PnIr Fe|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Fe|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int</td><td><em>ποιες, πόσες</em></td></tr>
+  <tr><td>Pn PnIr Fe|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Int</td><td><em>Πόση</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>Pn PnIr Fe|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int</td><td><em>ποια</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ma|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Int</td><td><em>Ποιους</em></td></tr>
+  <tr><td>Pn PnIr Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ma|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int</td><td><em>ποιοι</em></td></tr>
+  <tr><td>Pn PnIr Ma|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int</td><td><em>ποιον</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>Pn PnIr Ma|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int</td><td><em>ποιος</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ne|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Int</td><td><em>πόσα</em></td></tr>
+  <tr><td>Pn PnIr Ne|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ne|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Int</td><td><em>ποιά</em></td></tr>
+  <tr><td>Pn PnIr Ne|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int</td><td><em>τι</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnIr Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>Pn PnIr Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int</td><td><em>τι, ποιο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Fe|03|Pl|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>τις</em></td></tr>
+  <tr><td>Pn PnPe Fe|03|Pl|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Fe|03|Pl|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>Pn PnPe Fe|03|Sg|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>την, τη</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Fe|03|Sg|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>της</em></td></tr>
+  <tr><td>Pn PnPe Fe|03|Sg|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|01|Pl|Ac|St</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs|Variant=Long</td><td><em>εμάς</em></td></tr>
+  <tr><td>Pn PnPe Ma|01|Pl|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em>μας</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|01|Pl|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em>μας</em></td></tr>
+  <tr><td>Pn PnPe Ma|01|Pl|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs|Variant=Long</td><td><em>εμείς</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|01|Sg|Ac|St</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long</td><td><em>μένα</em></td></tr>
+  <tr><td>Pn PnPe Ma|01|Sg|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td><em>με</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|01|Sg|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Short</td><td><em>μου</em></td></tr>
+  <tr><td>Pn PnPe Ma|01|Sg|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long</td><td><em>εγώ</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|02|Pl|Ac|St</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs|Variant=Long</td><td><em>εσάς</em></td></tr>
+  <tr><td>Pn PnPe Ma|02|Pl|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td><em>Σας</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|02|Pl|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs|Variant=Short</td><td><em>σας</em></td></tr>
+  <tr><td>Pn PnPe Ma|02|Pl|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs|Variant=Long</td><td><em>εσείς</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|02|Sg|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td><em>σε</em></td></tr>
+  <tr><td>Pn PnPe Ma|02|Sg|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|02|Sg|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>Pn PnPe Ma|03|Pl|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>τους</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|03|Pl|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>τους</em></td></tr>
+  <tr><td>Pn PnPe Ma|03|Pl|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|03|Sg|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>τον</em></td></tr>
+  <tr><td>Pn PnPe Ma|03|Sg|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>του</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ma|03|Sg|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>Pn PnPe Ne|03|Pl|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em>τα</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ne|03|Pl|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr><td>Pn PnPe Ne|03|Pl|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ne|03|Sg|Ac|We</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em>το</em></td></tr>
+  <tr><td>Pn PnPe Ne|03|Sg|Ge|We</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPe Ne|03|Sg|Nm|St</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>Pn PnPo Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>της</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPo Ma|01|Pl|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>μας</em></td></tr>
+  <tr><td>Pn PnPo Ma|01|Sg|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>μου</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPo Ma|02|Pl|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>σας</em></td></tr>
+  <tr><td>Pn PnPo Ma|02|Sg|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnPo Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>τους</em></td></tr>
+  <tr><td>Pn PnPo Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>του</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Fe|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Rel</td><td><em>οποίες, που</em></td></tr>
+  <tr><td>Pn PnRe Fe|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Rel</td><td><em>οποίων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Fe|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Rel</td><td><em>που, οποίες</em></td></tr>
+  <tr><td>Pn PnRe Fe|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel</td><td><em>που, οποία</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Rel</td><td><em>οποίας</em></td></tr>
+  <tr><td>Pn PnRe Fe|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel</td><td><em>που, οποία</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ma|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel</td><td><em>οποίους, που</em></td></tr>
+  <tr><td>Pn PnRe Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ma|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel</td><td><em>που, οποίοι</em></td></tr>
+  <tr><td>Pn PnRe Ma|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel</td><td><em>οποίο, ΠΟΥ, οποίον</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Rel</td><td><em></em></td></tr>
+  <tr><td>Pn PnRe Ma|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel</td><td><em>που, οποίος</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ne|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Rel</td><td><em>που, οποία</em></td></tr>
+  <tr><td>Pn PnRe Ne|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Rel</td><td><em>οποίων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ne|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel</td><td><em>που, οποία</em></td></tr>
+  <tr><td>Pn PnRe Ne|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel</td><td><em>που, οποίο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRe Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Rel</td><td><em>οποίου</em></td></tr>
+  <tr><td>Pn PnRe Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Rel</td><td><em>που, οποίο</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Fe|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel</td><td><em>όσες, Οποιεσδήποτε, όποιες</em></td></tr>
+  <tr><td>Pn PnRi Fe|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Fe|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>Pn PnRi Fe|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>οποιαδήποτε, όποια</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Fe|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>οποιασδήποτε</em></td></tr>
+  <tr><td>Pn PnRi Fe|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ma|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel</td><td><em>όσους</em></td></tr>
+  <tr><td>Pn PnRi Ma|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ma|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel</td><td><em>όσοι</em></td></tr>
+  <tr><td>Pn PnRi Ma|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>οιονδήποτε, οποιονδήποτε</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ma|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>Pn PnRi Ma|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>όποιος</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ne|03|Pl|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Int,Rel</td><td><em>όσα</em></td></tr>
+  <tr><td>Pn PnRi Ne|03|Pl|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Int,Rel</td><td><em>όσων</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ne|03|Pl|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>Pn PnRi Ne|03|Sg|Ac|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>ό,τι, οτιδήποτε, οποιοδήποτε</em></td></tr>
+  <tr style="background:lightgray"><td>Pn PnRi Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>Pn PnRi Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>ό,τι</em></td></tr>
+  <tr style="background:lightgray"><td>Pt PtFu _</td><td>=&gt;</td><td>PART</td><td>Tense=Fut</td><td><em>θα</em></td></tr>
+  <tr><td>Pt PtNg _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>δεν, όχι, μην, μη, δε</em></td></tr>
+  <tr style="background:lightgray"><td>Pt PtOt _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>ας, άραγε</em></td></tr>
+  <tr><td>Pt PtSj _</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>να, ν</em></td></tr>
+  <tr style="background:lightgray"><td>Rg RgAbXx _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>κ., ΕΕ, ΗΠΑ, χλμ., ΕΕ.</em></td></tr>
+  <tr><td>Rg RgAnXx _</td><td>=&gt;</td><td>NOUN</td><td>Abbr=Yes</td><td><em>ΟΗΕ, ΝΑΤΟ, ΕΤΑ, ΣΕΒ, ΔΠΔΓ</em></td></tr>
+  <tr style="background:lightgray"><td>Rg RgFwOr _</td><td>=&gt;</td><td>X</td><td>Foreign=Fscript</td><td><em>Sudan, van, OLAF, of, Journal</em></td></tr>
+  <tr><td>Rg RgFwTr _</td><td>=&gt;</td><td>X</td><td>Foreign=Tscript</td><td><em>Ιράν, Ιράκ, Μπους, Γιουστσένκο, Σιράκ</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbIs Id|Pa|03|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em>έπρεπε</em></td></tr>
+  <tr><td>Vb VbIs Id|Pa|03|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Pass</td><td><em>επρόκειτο</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbIs Id|Pa|03|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vb VbIs Id|Pa|03|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Pass</td><td><em>κατέστη, χρειάστηκε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbIs Id|Pr|03|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em>πρέπει, αφορά, μπορεί, αξίζει, αρκεί</em></td></tr>
+  <tr><td>Vb VbIs Id|Pr|03|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Pass</td><td><em>πρόκειται, ενδέχεται, χρειάζεται, Φαίνεται, εισακούεται</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|01|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>είχαμε, θέλαμε, μπορούσαμε, επιθυμούσαμε, εγκρίναμε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|01|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>Χρειαζόμασταν, ήμασταν</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|01|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>είδαμε, ψηφίσαμε, υποστηρίξαμε, προσπαθήσαμε, λάβαμε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|01|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>μετακινηθήκαμε, Εργαστήκαμε, ταχθήκαμε, Περιοριστήκαμε, ασχοληθήκαμε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|01|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>ήθελα, έλεγα, είχα, προέτρεπα, Θρηνωδούσα</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|01|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|01|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>άκουσα, διατύπωσα, είπα, συμφώνησα, ανέφερα</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|01|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>επισκέφθηκα, εστιάστηκα, επικεντρώθηκα</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|02|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>επισημάνατε, κάνατε, αναφέρατε, απολαύσατε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|02|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|02|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>είπατε, είδατε, μιλήσατε, παρουσιάσατε, υπονοήσατε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|02|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>αναφερθήκατε, αυξηθήκατε, ταχθήκατε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|02|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|02|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|02|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|02|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>υπαινίχθηκες</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|03|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>είχαν, υπήρχαν, συμμετείχαν, ήθελαν, μπορούσαν</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|03|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>ήταν, ίδρυσαν, βρισκόντουσαν, προέρχονταν, εργάζονταν</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|03|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>δημιούργησαν, εξέφρασαν, έχτισαν, είπαν, υπήρξαν</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|03|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>έγιναν, αναφέρθηκαν, υπεβλήθησαν, εγκρίθηκαν, ελέγχθηκαν</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|03|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>είχε, μπορούσε, αποτελούσε, υπήρχε, προκαλούσε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|03|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>ήταν, ονομαζόταν, γινόταν, βρισκόταν, θεωρείτο</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pa|03|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>δήλωσε, είπε, τόνισε, ζήτησε, ανακοίνωσε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pa|03|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>έγινε, δημιουργήθηκε, αναφέρθηκε, γεννήθηκε, δημοσιεύθηκε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|01|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>έχουμε, μπορούμε, θέλουμε, υποστηρίζουμε, γνωρίζουμε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|01|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em>είμαστε, βρισκόμαστε, χρειαζόμαστε, αναγκαζόμαστε, αντιλαμβανόμαστε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|01|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>θέλω, πιστεύω, έχω, ελπίζω, μπορώ</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|01|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em>είμαι, αποδέχομαι, φοβάμαι, ισχυρίζομαι, επανέρχομαι</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|02|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>έχετε, μπορείτε, υπογραμμίζετε, χορεύετε, θερίζετε</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|02|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em>είστε, είσαστε, καλλιεργείστε, φοβάστε, Δοκιμάστε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|02|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>έχεις, πας</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|02|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|03|Pl|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>έχουν, μπορούν, υπάρχουν, αφορούν, κάνουν</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|03|Pl|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em>είναι, βρίσκονται, γίνονται, σώζονται, περιλαμβάνονται</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Pr|03|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>έχει, μπορεί, αποτελεί, υπάρχει, αφορά</em></td></tr>
+  <tr><td>Vb VbMn Id|Pr|03|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td><em>είναι, βρίσκεται, γίνεται, συνδέεται, αναφέρεται</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|01|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td><em>κάνουμε, μπορέσουμε, δώσουμε, πούμε, καταστήσουμε</em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|01|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass</td><td><em>υπερασπιστούμε, ασχοληθούμε, εργαστούμε, εγγυηθούμε, απομακρυνθούμε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|01|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act</td><td><em>πω, ευχαριστήσω, συγχαρώ, υπενθυμίσω, επισημάνω</em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|01|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass</td><td><em>αναφερθώ, Ευχαριστώ, συνιστώ, συνταχθώ, ασχοληθώ</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|02|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td><em>δείτε, κάνετε, βρείτε, παραλείψετε, διανύσετε</em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|02|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass</td><td><em>επισκεφθείτε, βρεθείτε, Επισκεφτείτε, Περιπλανηθείτε, φανταστείτε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|02|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|02|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|03|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td><em>αντιμετωπίσουν, δώσουν, παραμείνουν, υπάρξουν, θέσουν</em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|03|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass</td><td><em>γίνουν, αυξηθούν, βελτιωθούν, υποστούν, ολοκληρωθούν</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Id|Xx|03|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td><em>αποτελέσει, οδηγήσει, μπορέσει, προχωρήσει, δώσει</em></td></tr>
+  <tr><td>Vb VbMn Id|Xx|03|Sg|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em>γίνει, τεθεί, καταστεί, βελτιωθεί, συνεχιστεί</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Mp|Xx|02|Pl|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td><em>Δώστε, Αφήστε, επιτρέψτε, Πάρτε, λάβετε</em></td></tr>
+  <tr><td>Vb VbMn Mp|Xx|02|Pl|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass</td><td><em>χρειασθείτε</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Nf|Xx|Xx|Xx|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Inf|Voice=Act</td><td><em>λάβει, εγκρίνει, χάσει, δει, δείξει</em></td></tr>
+  <tr><td>Vb VbMn Nf|Xx|Xx|Xx|Xx|Pe|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Inf|Voice=Pass</td><td><em>γίνει, σημειωθεί, χαρακτηριστεί, εκτεθεί, υποστεί</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Pl|Fe|Pe|Pv|Ac</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>ενοποιημένες, αυξημένες, στηριγμένες, στελεχωμένες, μειωμένες</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Pl|Fe|Pe|Pv|Ge</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>ευνοημένων, κλωνοποιημένων, εκλεγμένων</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Pl|Fe|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>καλλιεργμένες, οργανωμένες, υποχρεωμένες, ενοποιημένες, πνιγμένες</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Pl|Ma|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>αφιερωμένοι, υποχρεωμένοι, ικανοποιημένοι, φυλακισμένοι, μειωμένοι</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Pl|Ne|Pe|Pv|Ac</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>κλωνοποιημένα, αυξημένα, αποκεντρωμένα, διαμορφωμένα, Τοποθετημένα</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Pl|Ne|Pe|Pv|Ge</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>απαιτούμενων</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Pl|Ne|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>προμαγειρεμένα, ασβεστωμένα, εξαρτημένα, τοποθετημένα</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Sg|Fe|Pe|Pv|Ac</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>περιορισμένη, προσανατολισμένη, αναθεωρημένη, τυποποιημένη, ολοκληρωμένη</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Sg|Fe|Pe|Pv|Ge</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>περιλαμβανομένης, συνηθισμένης, κατεστραμμένης, μηχανογραφημένης</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Sg|Fe|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>χτισμένη, επιτυχημένη, περιορισμένη, παραγκωνισμένη, ανεμοδαρμένη</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Sg|Ma|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>πεπεισμένος, εκλεγμένος, αφιερωμένος, στεγασμένος, ικανοποιημένος</em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Sg|Ne|Pe|Pv|Ac</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>επικαιροποιημένο, Απολιθωμένο, ανακαινισμένο, καταμετρημένο, αποτυπωμένο</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Sg|Ne|Pe|Pv|Ge</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vb VbMn Pp|Xx|Xx|Sg|Ne|Pe|Pv|Nm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>κτισμένο, δομημένο, αγαπημένο, χτισμένο, αποτυχημένο</em></td></tr>
+  <tr style="background:lightgray"><td>Vb VbMn Pp|Xx|Xx|Xx|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Part|Voice=Act</td><td><em>επισημαίνοντας, ακολουθώντας, Απαντώντας, αυξάνοντας, Τελειώνοντας</em></td></tr>
+</table>
