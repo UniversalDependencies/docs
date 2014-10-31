@@ -11,6 +11,14 @@ would apply either to the "X" part of speech (unanalyzable token), or
 to other parts of speech if we know and are willing to annotate the
 class to which the word belongs in its original language.
 
-### Yes: it is foreign
+### Foreign: it is foreign
 
-Example: He said I could "dra åt helvete!"
+Example: He said I could "_<b>dra åt helvete!</b>_"
+
+### Fscript: it is foreign and written in a foreign script
+
+Example: In Nepali, the mountain is called _<b>सगरमाथा</b>_.
+
+### Tscript
+
+Example: The above Nepali word can be transcribed _<b>Sagaramāthā</b>_.
