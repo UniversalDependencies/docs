@@ -16,7 +16,7 @@ permalink: ko/feat/all.html
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
-<a href="{{ p.title }}">See details</a>
+<a href="{{ p.title }}" class="al-doc">See details</a>
 {% else %}
 {{ p.content }}
 {% endif %}

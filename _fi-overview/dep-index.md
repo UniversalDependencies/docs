@@ -13,8 +13,5 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 
 Alphabetical listing
 
-<ul>
 {% for p in site.fi-dep %}
-  <li><a>fi-dep/{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

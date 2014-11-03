@@ -9,10 +9,9 @@ permalink: u/pos/index.html
 
 {% include u-pos-table.html %}
 
+----------
+
 Alphabetical listing
 
-<ul>
 {% for p in site.u-pos %}
-  <li><a>{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
