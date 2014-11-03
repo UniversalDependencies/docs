@@ -13,8 +13,5 @@ permalink: he/dep/index.html
 
 Alphabetical listing
 
-<ul>
 {% for p in site.he-dep %}
-  <li><a href="{{ p.title }}.html" class="doclabel">{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

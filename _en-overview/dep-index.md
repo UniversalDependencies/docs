@@ -9,9 +9,7 @@ permalink: en/dep/index.html
 
 ----------
 
+Alphabetical listing
 
-<ul>
 {% for p in site.en-dep %}
-  <li><a>en-dep/{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

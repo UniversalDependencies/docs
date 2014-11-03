@@ -13,8 +13,5 @@ permalink: de/pos/index.html
 
 Alphabetical listing
 
-<ul>
 {% for p in site.de-pos %}
-  <li><a href="{{ p.title }}.html" class="doclabel">{{ p.title }}</a>: {{ p.shortdef }}</li>
-{% endfor %}
-</ul>
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
