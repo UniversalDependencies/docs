@@ -67,20 +67,6 @@ indefinite quantity or unfinished actions.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1234> (in Finnish)
 
-### `Dis`: distributive
-
-The distributive case conveys that something happened to every 
-member of a set, one at a time. The _-ttain_ suffix can be
-analysed as an adverbial derivation instead of a noun suffix.
-
-#### Examples
-
-* [fi] _kaupungeittain_ "separately in each city"
-
-#### References
-
-* <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
-
 ### `Ess`: essive
 
 Essive is typically a case of temporal adverbials (e.g. 
@@ -209,3 +195,19 @@ Prototypical meaning: direction from some point.
 * [fi] _pöydältä_ "from the table"
 * [fi] _katolta_ "from the roof"
 * [fi] _rannalta_ "from the beach"
+
+### Notes
+
+Some descriptions of Finnish recognize a distributive case conveying
+that something happens to every member of a set, one at a time. UD
+Finnish does not include `Dis` (distributive) as a possible value of
+the `Case` feature, but analyses the _-ttain_ suffix as an adverbial
+derivation.
+
+#### Examples
+
+* [fi] _kaupungeittain_ "separately in each city"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
