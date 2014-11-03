@@ -14,5 +14,4 @@ permalink: fi/feat/index.html
 Alphabetical listing
 
 {% for p in site.fi-feat %}
-* [{{ p.title }}](): {{ p.shortdef }}
-{% endfor %}
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
