@@ -6,7 +6,7 @@ shortdef: 'person of possessor'
 
 `Person[psor]` is a
 [layered feature](/docs/u/overview/feat-layers.html) of
-[nouns](u-pos/NOUN) and ... (TODO)
+[nouns](NOUN) and ... (TODO)
 
 ### `1`: first person
 

@@ -6,7 +6,7 @@ shortdef: 'number of possessor'
 
 `Number[psor]` is a
 [layered feature](/docs/u/overview/feat-layers.html) of
-[nouns](u-pos/NOUN) and ... (TODO)
+[nouns](NOUN) and ... (TODO)
 
 ### `Sing`: singular
 
