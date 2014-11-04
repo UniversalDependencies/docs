@@ -12,6 +12,6 @@ compared.
 <!-- fname:comparator.pdf -->
 ~~~ sdparse
 enemmän kuin haluaisin \n more than I_would_want
-comparator(enemmän-1, haluaisin-3)
+compar(enemmän-1, haluaisin-3)
 comparator(haluaisin-3, kuin-2)
 ~~~
