@@ -196,7 +196,7 @@ Prototypical meaning: direction from some point.
 * [fi] _katolta_ "from the roof"
 * [fi] _rannalta_ "from the beach"
 
-### Notes
+### Notes: distributive
 
 Some descriptions of Finnish recognize a distributive case conveying
 that something happens to every member of a set, one at a time. UD
@@ -211,3 +211,14 @@ derivation.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=379> (in Finnish)
+
+### Notes: lative
+
+Some descriptions of Finnish mark the base form of the first
+infinitive as being in the lative case (see e.g.
+[Omorfi tagger documentation](https://code.google.com/p/omorfi/wiki/AnalysisPossibilities#Infinite_forms_of_verbs)).
+UD Finnish follows ISK in not recognizing the lative case.
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=120> (esp. *Huom 1*; in Finnish)

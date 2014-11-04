@@ -23,6 +23,8 @@ such as _yes_, _no_, _uhuh_, etc.
 
 - _psst_
 - _ouch_
+- _bravo_
+- _hello_
 
 ### References
 
