@@ -129,11 +129,12 @@ and <i>punct</i> appear in two places.</p>
 	<tr>
 	  <td><a>discourse</a></td>
 	  <td><a>auxpass</a></td>
-	  <td><a>punct</a></td>
+	  <td>↳<a>mark:comparator</a></td>
 	</tr>
 	<tr>
 	  <td><a>expl</a></td>
 	  <td><a>cop</a></td>
+	  <td><a>punct</a></td>
 	</tr>
       </table>
 
@@ -743,22 +744,6 @@ amod(näytelmä-4, eilinen-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compar.md" target="#">edit compar</a></p>
 
-<p><a id="al-fi-dep/comparator" class="al-dest"></a></p>
-<h2><code>comparator</code>: comparative conjunction</h2>
-
-<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
-roughly to “than” and “as” in English) is marked with the dependency
-type <code>comparator</code>. The head of the dependency is the element being
-compared.</p>
-
-<!-- fname:comparator.pdf -->
-<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
-comparator(enemmän-1, haluaisin-3)
-comparator(haluaisin-3, kuin-2)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/comparator.md" target="#">edit comparator</a></p>
-
 <p><a id="al-fi-dep/compound:nn" class="al-dest"></a></p>
 <h2><code>compound:nn</code>: noun compound modifier</h2>
 
@@ -1067,6 +1052,22 @@ completed.</p>
 completed.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/list.md" target="#">edit list</a></p>
+
+<p><a id="al-fi-dep/mark:comparator" class="al-dest"></a></p>
+<h2><code>mark:comparator</code>: comparative conjunction</h2>
+
+<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
+roughly to “than” and “as” in English) is marked with the dependency
+type <code>mark:comparator</code>. The head of the dependency is the element
+being compared.</p>
+
+<!-- fname:comparator.pdf -->
+<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
+compar(enemmän-1, haluaisin-3)
+mark:comparator(haluaisin-3, kuin-2)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-comparator.md" target="#">edit mark:comparator</a></p>
 
 <p><a id="al-fi-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
