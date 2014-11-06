@@ -71,7 +71,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-it">Italian</a>: Maria Simi
-* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka
+* <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
