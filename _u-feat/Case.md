@@ -20,20 +20,20 @@ nouns in the sentence.
 Here on the level of morphosyntactic
 features we are dealing with case expressed morphologically, i.e. by
 bound morphemes (affixes). Note that on a higher level case can be
-understood more broadly as <I>the role,</I> and it can be also
+understood more broadly as _the role,_ and it can be also
 expressed by adding an adposition to the noun. What is expressed by
 affixes in one language can be expressed using adpositions in another
 language. Cf. the [u-dep/case]() dependency label.
 
-Examples: [cs] nominative <I>matka</I>
-(mother), genitive <I>matky</I>,
-dative <I>matce</I>, accusative <I>matku</I>,
-vocative <I>matko</I>, locative <I>matce</I>,
-instrumental <I>matkou</I>;
-[de] nominative <I>der Mann</I> (the man), genitive <I>des
-Mannes</I>, dative <I>dem Mann</I>, accusative <I>den Mann</I>;
-[en] nominative/direct case <I>he, she</I>, accusative/oblique
-case <I>him, her.</I>
+Examples: [cs] nominative _matka_
+(mother), genitive _matky_,
+dative _matce_, accusative _matku_,
+vocative _matko_, locative _matce_,
+instrumental _matkou_;
+[de] nominative _der Mann_ (the man), genitive _des
+Mannes_, dative _dem Mann_, accusative _den Mann_;
+[en] nominative/direct case _he, she_, accusative/oblique
+case _him, her._
 
 The descriptions of the individual case
 values below include semantic hints about the prototypical meaning of
@@ -43,13 +43,13 @@ Valency of verbs, adpositions and other words will determine that the
 noun phrase must be in a particular grammatical case to fill a
 particular valency slot (semantic role). It is much the same as
 trying to explain the meaning of prepositions: most people would
-agree that the central meaning of English <I>in</I> is location in
+agree that the central meaning of English _in_ is location in
 space or time but there are phrases where the meaning is less
-locational: <I>In God we trust. </I><I>Say it in English.</I>
+locational: _In God we trust. __Say it in English._
 
 Note
 that Indian corpora based on the so-called Paninian model use a
-related feature called <I>vibhakti</I>.
+related feature called _vibhakti_.
 It is a merger of the Case feature described here and of various
 postpositions. Values of the feature are language-dependent because
 they are copies of the relevant morphemes (either bound morphemes or
@@ -57,12 +57,12 @@ postpositions). Vibhakti
 can be mapped on the Case values described here if we know 1. which
 source values are bound morphemes (postpositions are separate nodes
 for us) and 2. what is their meaning. For instance, the genitive case
-(Gen) in Bengali is marked using the suffix <I>-ra</I>
+(Gen) in Bengali is marked using the suffix _-ra_
 (-র),
 i.e. vib=era.
 In Hindi, the suffix has been split off the noun and
 it is now written as a separate word &ndash; the postposition
-<I>kā/kī/ke</I>
+_kā/kī/ke_
 (का/की/के).
 Even
 if the
@@ -121,8 +121,8 @@ transitive verb.
 In many languages this is the word form used for indirect objects of verbs.
 
 Example:
-[de] <I>Ich gebe </I><span style='color: red'><I>meinem
-Bruder</I></span><I> ein Geschenk.</I>
+[de] _Ich gebe _<span style='color: red'>_meinem
+Bruder_</span>_ ein Geschenk._
 (I
 give my brother a present.) &ldquo;meinem Bruder&rdquo; (my brother)
 is dative and &ldquo;ein Geschenk&rdquo; (a present) is accusative.
@@ -131,8 +131,8 @@ is dative and &ldquo;ein Geschenk&rdquo; (a present) is accusative.
 
 Prototypical
 meaning of genitive is that the noun phrase somehow belongs to its
-governor; it would often be translated by the English preposition <I>of</I>.
-English has the &ldquo;saxon genitive&rdquo; formed by the suffix <I>'s</I>;
+governor; it would often be translated by the English preposition _of_.
+English has the &ldquo;saxon genitive&rdquo; formed by the suffix _'s_;
 but we will normally not need the feature in English because the
 suffix gets separated from the noun during tokenization.
 
@@ -145,38 +145,38 @@ of possessivity is much more clearly defined while the genitive (as
 many
 other
 cases) may be required in situations that have nothing to do with
-possessing. For example, [cs] <I>bez
-prezidentovy dcery</I>
+possessing. For example, [cs] _bez
+prezidentovy dcery_
 (without
 the president's daughter) is a prepositional phrase containing the
-preposition <I>bez</I>
+preposition _bez_
 (without),
-the possessive adjective <I>prezidentovy</I>
+the possessive adjective _prezidentovy_
 (president's)
-and the noun <I>dcery</I>
+and the noun _dcery_
 (daughter).
-The possessive adjective is derived from the noun <I>prezident</I>
+The possessive adjective is derived from the noun _prezident_
 but
 it is really an adjective (with separate lemma and paradigm), not
 just a form of the noun. In addition, both the adjective and the noun
-are in their genitive forms (the nominative would be <I>prezidentova
-dcera</I>).
+are in their genitive forms (the nominative would be _prezidentova
+dcera_).
 There is nothing possessive about this particular occurrence of the
-genitive. It is there because the preposition <I>bez</I>
+genitive. It is there because the preposition _bez_
 always
 requires its argument to be in genitive.
 
-Example: [cs] <I>Praha
-je hlavní město </I><span style='color: red'><I>České
-republiky</I></span><I>.</I>
+Example: [cs] _Praha
+je hlavní město _<span style='color: red'>_České
+republiky_</span>_._
 (Prague is the capital <span style='color: red'>of the Czech
 Republic</span>.)
 
 Note that in
 Basque, Gen should be used for possessive
-genitive (as opposed to locative genitive): <span style='color: red'><I>diktadorearen</I></span><I>
-erregimena</I> (dictator's regime;
-<I>diktadore</I> = dictator).
+genitive (as opposed to locative genitive): <span style='color: red'>_diktadorearen_</span>_
+erregimena_ (dictator's regime;
+_diktadore_ = dictator).
 
 ### Voc: vocative
 
@@ -188,7 +188,7 @@ grammatical restriction and inanimate
 things can be addressed as well.
 
 Example: [cs]
-<I>Co myslíš, </I><span style='color: red'><I>Filip</I></span><span style='color: red'><I>e</I></span><I>?</I>
+_Co myslíš, _<span style='color: red'>_Filip_</span><span style='color: red'>_e_</span>_?_
 (What
 do you think, <span style='color: red'>Filip</span>?)
 
@@ -209,15 +209,15 @@ combination with prepositions (but such a
 restriction may not hold in other languages that have locative).
 
 Example: [cs]
-<I>V </I><span style='color: red'><I>červenci</I></span><I>
-jsem byl ve </I><span style='color: red'><I>Švédsku</I></span><I>.</I>
+_V _<span style='color: red'>_červenci_</span>_
+jsem byl ve _<span style='color: red'>_Švédsku_</span>_._
 (In
 <span style='color: red'>July</span>
 I was in <span style='color: red'>Sweden</span>.)
 
 Non-locational
-non-temporal example: [cs] <I>Mluvili
-jsme tam o </I><span style='color: red'><I>morfologii</I></span><I>.</I>
+non-temporal example: [cs] _Mluvili
+jsme tam o _<span style='color: red'>_morfologii_</span>_._
 (We
 talked there
 about <span style='color: red'>morphology</span>.)
@@ -226,24 +226,24 @@ about <span style='color: red'>morphology</span>.)
 
 The role from
 which the name of the instrumental case is derived is that the noun
-is used as instrument to do something (as in [cs] <I>psát
-</I><span style='color: red'><I>perem</I></span>
+is used as instrument to do something (as in [cs] _psát
+_<span style='color: red'>_perem_</span>
 (to
 write <span style='color: red'>using
 a pen</span>)).
 Many other meanings are possible, e.g. in Czech the instrumental is
-required by the preposition <I>s</I>
+required by the preposition _s_
 (with)
 and thus it includes the meaning expressed in other languages by the
 comitative case.
 
 In Czech the
 instrumental is also used for the agent-object in passive
-constructions (cf. the English preposition <I>by</I>).
+constructions (cf. the English preposition _by_).
 
 Passive
-example: [cs] <I>Tento zákon byl
-schválen </I><span style='color: red'><I>vládou</I></span><I>.</I>
+example: [cs] _Tento zákon byl
+schválen _<span style='color: red'>_vládou_</span>_._
 (This
 bill has been approved <span style='color: red'>by
 the government</span>.)
@@ -256,14 +256,14 @@ We propose one label for both instrumental and instructive
 (instrumental is not defined in Finnish).
 
 Examples: [fi]
-<I>lähteä</I>
+_lähteä_
 =
-to leave; <I>2003 </I><span style='color: red'><I>lähtien</I></span>
+to leave; _2003 _<span style='color: red'>_lähtien_</span>
 (second
-infinitive in the instructive case: since 2003); <I>yllättää</I>
+infinitive in the instructive case: since 2003); _yllättää_
 =
-to surprise; <I>sekaantui </I><span style='color: red'><I>yllättäen</I></span><I>
-valtataisteluun</I>
+to surprise; _sekaantui _<span style='color: red'>_yllättäen_</span>_
+valtataisteluun_
 (lit.
 was-involved-in by-surprise.Ins
 power-struggle.Ill).
@@ -274,36 +274,36 @@ In Finnish the partitive case expresses
 indefinite identity and unfinished actions without result.
 
 Examples: [fi]
-<I>kolme </I><span style='color: red'><I>taloa</I></span>
+_kolme _<span style='color: red'>_taloa_</span>
 (three
 <span style='color: red'>houses</span>;
-the <I>-a</I>
-suffix of <I>talo</I>);
-<I>rakastan tätä </I><span style='color: red'><I>taloa</I></span>
+the _-a_
+suffix of _talo_);
+_rakastan tätä _<span style='color: red'>_taloa_</span>
 (I
 love this <span style='color: red'>house</span>);
-<I>saanko lainata </I><span style='color: red'><I>kirjaa</I></span><I>?</I>
+_saanko lainata _<span style='color: red'>_kirjaa_</span>_?_
 (can
 I borrow the <span style='color: red'>book</span>?;
-the <I>-a</I>
-suffix of <I>kirja</I>);
-<I>lasissa on </I><span style='color: red'><I>maitoa</I></span>
+the _-a_
+suffix of _kirja_);
+_lasissa on _<span style='color: red'>_maitoa_</span>
 (there
 is (some) <span style='color: red'>milk</span>
 in the glass).
 
 Examples
-comparing partitive with accusative: <I>ammuin
-karhun</I>
-(I shot a bear.Acc (and I know that it is dead)); <I>ammuin
-karhua</I>
+comparing partitive with accusative: _ammuin
+karhun_
+(I shot a bear.Acc (and I know that it is dead)); _ammuin
+karhua_
 (I shot at a bear.Par (but I may have missed)).
 
 Using
 accusative instead of partitive may also substitute the missing
-future tense: <I>luen kirjan</I>
-(I will read the book.Acc); <I>luen
-kirjaa</I>
+future tense: _luen kirjan_
+(I will read the book.Acc); _luen
+kirjaa_
 (I am reading the book.Par).
 
 ### Dis: distributive
@@ -313,13 +313,13 @@ something happened to every member of a set, one in a time. Or it may
 express frequency.
 
 Examples: [hu]
-<I><span style='color:red'>fejenként</span></I>
+_<span style='color:red'>fejenként</span>_
 (per
-capita); <I><span style='color:red'>esetenként</span></I>
+capita); _<span style='color:red'>esetenként</span>_
 (in
-some cases); <I><span style='color:red'>hetenként</span></I>
+some cases); _<span style='color:red'>hetenként</span>_
 (once
-per week, weekly); <I><span style='color:red'>tízpercenként</span></I>
+per week, weekly); _<span style='color:red'>tízpercenként</span>_
 (every
 ten minutes).
 
@@ -330,9 +330,9 @@ state, often it corresponds to English &ldquo;as a &hellip;&rdquo;
 A similar case in Basque is called prolative and it should be tagged `Ess` too.
 
 Examples:
-[fi] <I>lapsi</I> = child; <span style='color: red'><I>lapsena</I></span> = as a child / when he/she was child;
-[et] <I>laps</I> = child; <I><span style='color:red'>lapsena</span></I> = as a child;
-[eu] <I>erreformista</I> = reformer; <span style='color: red'><I>erreformistatzat</I></span> = as a reformer.
+[fi] _lapsi_ = child; <span style='color: red'>_lapsena_</span> = as a child / when he/she was child;
+[et] _laps_ = child; _<span style='color:red'>lapsena</span>_ = as a child;
+[eu] _erreformista_ = reformer; <span style='color: red'>_erreformistatzat_</span> = as a reformer.
 
 ### Tra: translative / factive
 
@@ -342,20 +342,20 @@ Also used for the phrase &ldquo;in language X&rdquo;. In the Szeged
 Treebank [hu], this case is called factive.
 
 Examples: [fi]
-<I>pitkä</I>
+_pitkä_
 =
-long; <I>kasvoi </I><span style='color: red'><I>pitkäksi</I></span>
+long; _kasvoi _<span style='color: red'>_pitkäksi_</span>
 =
-grew long; <I>englanti</I>
-= English language; <span style='color: red'><I>englanniksi</I></span>
-= in/into English; <I>kello kuusi</I>
-= six o'clock; <I>kello </I><span style='color: red'><I>kuudeksi</I></span>
-= by six o'clock; [et] <I>kell
-kuus</I> =
-six o'clock; <I>kella </I><span style='color: red'><I>kuueks</I></span>
-= by six o'clock; [hu] <I>Oroszlány
-halott </I><span style='color: red'><I>várossá</I></span><I>
-válhat.</I>
+grew long; _englanti_
+= English language; <span style='color: red'>_englanniksi_</span>
+= in/into English; _kello kuusi_
+= six o'clock; _kello _<span style='color: red'>_kuudeksi_</span>
+= by six o'clock; [et] _kell
+kuus_ =
+six o'clock; _kella _<span style='color: red'>_kuueks_</span>
+= by six o'clock; [hu] _Oroszlány
+halott _<span style='color: red'>_várossá_</span>_
+válhat._
 = lit. Oroszlány dead city.Tra
 could-become. = Oroszlány could become a dead city.
 
@@ -365,10 +365,10 @@ The comitative (also called
 associative) case corresponds to English &ldquo;together with &hellip;&rdquo;
 
 Examples: [et]
-<I>koer</I>
+_koer_
 =
 dog;
-<span style='color: red'><I>koeraga</I></span>
+<span style='color: red'>_koeraga_</span>
 =
 with
 dog.
@@ -377,13 +377,13 @@ dog.
 
 The abessive
 case corresponds to the
-English preposition <I>without</I>.
+English preposition _without_.
 
 Examples: [fi]
-<I>raha</I>
+_raha_
 =
 money;
-<span style='color: red'><I>rahatta</I></span>
+<span style='color: red'>_rahatta_</span>
 =
 without
 money.
@@ -394,16 +394,16 @@ The inessive
 case expresses location inside of something.
 
 Examples: [hu]
-<I>ház</I>
+_ház_
 =
 house;
-<span style='color: red'><I>házban</I></span>
+<span style='color: red'>_házban_</span>
 =
 in
-the house; [fi] <I>talo</I>
-= house; <span style='color: red'><I>talossa</I></span>
-= in the house; [et] <I>maja</I>
-= house; <span style='color: red'><I>majas</I></span>
+the house; [fi] _talo_
+= house; <span style='color: red'>_talossa_</span>
+= in the house; [et] _maja_
+= house; <span style='color: red'>_majas_</span>
 = in the house.
 
 ### Ill: illative
@@ -414,18 +414,18 @@ into
 something.
 
 Examples: [hu]
-<I>ház</I>
+_ház_
 =
 house;
-<span style='color: red'><I>házb</I></span><span style='color: red'><I>a</I></span>
+<span style='color: red'>_házb_</span><span style='color: red'>_a_</span>
 =
 into
-the house; [fi] <I>talo</I>
-= house; <span style='color: red'><I>talo</I></span><span style='color: red'><I>on</I></span>
+the house; [fi] _talo_
+= house; <span style='color: red'>_talo_</span><span style='color: red'>_on_</span>
 = into
-the house; [et] <I>maja</I>
-= house; <span style='color: red'><I>majas</I></span><span style='color: red'><I>se
-/ majja</I></span>
+the house; [et] _maja_
+= house; <span style='color: red'>_majas_</span><span style='color: red'>_se
+/ majja_</span>
 = into
 the house.
 
@@ -437,17 +437,17 @@ out
 of something.
 
 Examples: [hu]
-<I>ház</I>
+_ház_
 =
 house;
-<span style='color: red'><I>házból</I></span>
+<span style='color: red'>_házból_</span>
 =
 from
-the house; [fi] <I>talo</I>
-= house; <span style='color: red'><I>talos</I></span><span style='color: red'><I>t</I></span><span style='color: red'><I>a</I></span>
+the house; [fi] _talo_
+= house; <span style='color: red'>_talos_</span><span style='color: red'>_t_</span><span style='color: red'>_a_</span>
 = from
-the house; [et] <I>maja</I>
-= house; <span style='color: red'><I>majas</I></span><span style='color: red'><I>t</I></span>
+the house; [et] _maja_
+= house; <span style='color: red'>_majas_</span><span style='color: red'>_t_</span>
 = from
 the house.
 
@@ -466,22 +466,22 @@ The corresponding directional cases are allative (towards something) and
 ablative (from something).
 
 Examples: [hu]
-<I>pénztár</I>
+_pénztár_
 =
 cash
 desk;
-<span style='color: red'><I>pénztárnál</I></span>
+<span style='color: red'>_pénztárnál_</span>
 =
 at
 the cash desk;
-[fi] <I>pöytä</I>
+[fi] _pöytä_
 = table;
-<span style='color: red'><I>pöydällä</I></span>
+<span style='color: red'>_pöydällä_</span>
 = on
 the table;
-[et] <I>laud</I>
+[et] _laud_
 = table;
-<span style='color: red'><I>laual</I></span>
+<span style='color: red'>_laual_</span>
 = on
 the table.
 
@@ -495,18 +495,18 @@ The allative case expresses direction to something (destination
 is adessive, i.e. at or on that something).
 
 Examples: [hu]
-<I>pénztár</I>
+_pénztár_
 =
 cash
 desk;
-<span style='color: red'><I>pénztár</I></span><span style='color: red'><I>hoz</I></span>
+<span style='color: red'>_pénztár_</span><span style='color: red'>_hoz_</span>
 =
 to
 the cash desk;
 [fi]
-<I>pöytä</I>
+_pöytä_
 = table;
-<span style='color: red'><I>pöydäll</I></span><span style='color: red'><I>e</I></span>
+<span style='color: red'>_pöydäll_</span><span style='color: red'>_e_</span>
 = onto
 the table.
 
@@ -516,18 +516,18 @@ Prototypical meaning: direction from
 some point.
 
 Examples: [hu]
-a <span style='color: red'><I>barátomtól</I></span>
+a <span style='color: red'>_barátomtól_</span>
 jövök (I'm
 coming <span style='color: red'>from
 my friend</span>);
 [fi]
-<I>pöydältä</I>
+_pöydältä_
 (from
 the table);
-<I>katolta</I>
+_katolta_
 (from
 the roof);
-<I>rannalta</I>
+_rannalta_
 (from
 the beach)
 
@@ -539,16 +539,16 @@ Hungarian</A>, to
 indicate location on top of something or on the surface of something.
 
 Examples: [hu]
-<I>asztal</I>
+_asztal_
 =
 table;
-<span style='color: red'><I>asztalon</I></span>
+<span style='color: red'>_asztalon_</span>
 =
 on
 the table;
-<I>könyvek</I>
+_könyvek_
 =
-books; <span style='color: red'><I>könyveken</I></span>
+books; <span style='color: red'>_könyveken_</span>
 =
 on books.
 
@@ -562,16 +562,16 @@ tree&rdquo;), and, by extension, in other figurative meanings as well
 (e.g. &ldquo;to university&rdquo;).
 
 Examples: [hu]
-<I>Belgrádtól 150 </I><span style='color: red'><I>kilométerre
-délnyugatra</I></span>
+_Belgrádtól 150 _<span style='color: red'>_kilométerre
+délnyugatra_</span>
 = lit.
 Belgrade.Abl
 150 kilometer.Sub southwest.Sub = 150 kilometers southwest of
-Belgrade; <I>hajó</I>
+Belgrade; _hajó_
 =
-ship; <span style='color: red'><I>hajóra</I></span>
+ship; <span style='color: red'>_hajóra_</span>
 =
-onto the ship; <span style='color: red'><I>bokorra</I></span>
+onto the ship; <span style='color: red'>_bokorra_</span>
 =
 on the shrub.
 
@@ -585,15 +585,15 @@ off the table&rdquo;). Other
 meanings are possible as well, e.g. &ldquo;about something&rdquo;.
 
 Examples: [hu]
-<I>asztal</I>
+_asztal_
 =
 table;
-<I>az </I><span style='color: red'><I>asztal</I></span><span style='color: red'><I>ról</I></span>
+_az _<span style='color: red'>_asztal_</span><span style='color: red'>_ról_</span>
 =
 off
 the table;
-<span style='color: red'><I>Budapestről</I></span><I>
-jövök</I>
+<span style='color: red'>_Budapestről_</span>_
+jövök_
 = I
 am coming from Budapest.
 
@@ -609,8 +609,8 @@ illative and sublative, while in Basque it is derived from allative,
 which also exists independently.
 
 Examples:
-[eu] <I>behe</I>
-= low; <span style='color: red'><I>beherantz</I></span>
+[eu] _behe_
+= low; <span style='color: red'>_beherantz_</span>
 = down.
 
 ### Tem: temporal
@@ -622,11 +622,11 @@ time.
 
 Examples:
 [hu]
-<I><span style='color:red'>hétkor</span></I>
+_<span style='color:red'>hétkor</span>_
 = at seven (o'clock);
-<I><span style='color:red'>éjfélkor</span></I>
+_<span style='color:red'>éjfélkor</span>_
 = at midnight;
-<I><span style='color:red'>karácsonykor</span></I>
+_<span style='color:red'>karácsonykor</span>_
 = at Christmas.
 
 ### Ter: terminative / terminal allative
@@ -640,15 +640,15 @@ terminal</EM>).
 
 Examples:
 [et]
-<span style='color: red'><I>j&otilde;eni</I></span>
-= down to the river; <I>kella
-</I><span style='color: red'><I>kuueni</I></span>
-= till six o'clock; [hu] <I>a
-</I><span style='color: red'><I>házig</I></span>
-= up to the house; <I>hat
-</I><span style='color: red'><I>óráig</I></span>
-= till six o'clock; [eu] <I>erdi</I>
-= half; <span style='color: red'><I>erdiraino</I></span>
+<span style='color: red'>_j&otilde;eni_</span>
+= down to the river; _kella
+_<span style='color: red'>_kuueni_</span>
+= till six o'clock; [hu] _a
+_<span style='color: red'>_házig_</span>
+= up to the house; _hat
+_<span style='color: red'>_óráig_</span>
+= till six o'clock; [eu] _erdi_
+= half; <span style='color: red'>_erdiraino_</span>
 = up to the half.
 
 ### Cau: causative / motivative
@@ -656,28 +656,28 @@ Examples:
 Noun
 in this case is the cause of something. In
 Hungarian it also seems to be used frequently with currency (&ldquo;to
-buy something <I>for</I>
+buy something _for_
 the money&rdquo;) and it also can mean the goal of something.
 
 Examples:
 [hu]
-<I>Egy
-világcég benzinkútjánál 7183 </I><span style='color: red'><I>forintért</I></span><I>
-tankoltam.</I> = lit. a world-wide.company petrol.station.Ade 7183 forint.Cau refueled = I refueled my car at the petrol station of a world-wide company for 7183 forints. 
-<I>Elmentem a boltba</I> <span style='color: red'><I>tejért</I></span><I>.</I> = lit. went the shop.Ill milk.Cau = I went to the shop to buy milk.
+_Egy
+világcég benzinkútjánál 7183 _<span style='color: red'>_forintért_</span>_
+tankoltam._ = lit. a world-wide.company petrol.station.Ade 7183 forint.Cau refueled = I refueled my car at the petrol station of a world-wide company for 7183 forints. 
+_Elmentem a boltba_ <span style='color: red'>_tejért_</span>_._ = lit. went the shop.Ill milk.Cau = I went to the shop to buy milk.
 [eu]
-<I>jokaera</I>
-= behavior; <span style='color: red'><I>jokaeragatik</I></span>
+_jokaera_
+= behavior; <span style='color: red'>_jokaeragatik_</span>
 = because of behavior.
 
 ### Ben: benefactive / destinative
 
 The
-benefactive case corresponds to the English preposition <I>for</I>.
+benefactive case corresponds to the English preposition _for_.
 
 Examples:
 [eu]
-<I>mutil</I>
+_mutil_
 = boy;
-<span style='color: red'><I>mutilarentzat</I></span>
+<span style='color: red'>_mutilarentzat_</span>
 = for boys.
