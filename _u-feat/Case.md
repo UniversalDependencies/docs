@@ -353,7 +353,7 @@ grew long; <I>englanti</I>
 = by six o'clock; [et] <I>kell
 kuus</I> =
 six o'clock; <I>kella </I><span style='color: red'><I>kuueks</I></span>
-= until six o'clock; [hu] <I>Oroszlány
+= by six o'clock; [hu] <I>Oroszlány
 halott </I><span style='color: red'><I>várossá</I></span><I>
 válhat.</I>
 = lit. Oroszlány dead city.Tra
@@ -426,7 +426,7 @@ the house; [fi] <I>talo</I>
 the house; [et] <I>maja</I>
 = house; <span style='color: red'><I>majas</I></span><span style='color: red'><I>se
 / majja</I></span>
-= to
+= into
 the house.
 
 ### Ela: elative
