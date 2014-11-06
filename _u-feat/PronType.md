@@ -8,85 +8,104 @@ This feature typically applies to [pronouns](u-pos/PRON),
 [determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
 (quantifiers) and pronominal [adverbs](u-pos/ADV).
 
-### Prs: personal or possessive personal pronoun or determiner
+### `Prs`: personal or possessive personal pronoun or determiner
 
-See also the <a href="Poss">Poss</a> feature that distinguishes normal
-personal pronouns from possessives. Note that `Prs` also includes reflexive
+See also the [Poss]() feature that distinguishes normal personal
+pronouns from possessives. Note that `Prs` also includes reflexive
 personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
-<a href="Reflex">Reflex</a> feature).
+[Reflex]() feature).
 
-Examples: [en] _I, you, he, she, it, we, they, my, your, his, her,
-its, our, their, mine, yours, hers, ours, theirs_
+#### Examples
 
-### Rcp: reciprocal pronoun
+* [en] _I, you, he, she, it, we, they, my, your, his, her, its, our,
+  their, mine, yours, hers, ours, theirs_
 
-Examples: [de] _einander,_ [da] _hinanden_ (= each other)
+### `Rcp`: reciprocal pronoun
 
-### Art: article
+#### Examples
+
+* [de] _einander,_ "each other"
+* [da] _hinanden_ "each other"
+
+### `Art`: article
 
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite) (in other languages, the feature may be
 marked directly on nouns).
 
-Examples: [en] _a, an, the;_ [de] _ein, eine, der, die, das;_ [es] _un, una, el, la_
+#### Examples
 
-### Int: interrogative pronoun, determiner, numeral or adverb
+* [en] _a, an, the_ 
+* [de] _ein, eine, der, die, das_ 
+* [es] _un, una, el, la_
 
-Note that possessive interrogative determiners _(whose)_ can be
-distinguished by the <a href="Poss.html">Poss</a> feature.
+### `Int`: interrogative pronoun, determiner, numeral or adverb
 
-Examples: [cs/en] _kdo / who, co / what, který / which, čí / whose,
-kolik / how many, how much, kolikátý / how-maniest_ (ordinal number),
-_kolikrát / how many times, kde / where, kam / where to, kdy / when,
-jak / how, proč / why_
+Note that possessive interrogative determiners (_whose_) can be
+distinguished by the [Poss]() feature.
 
-### Rel: relative pronoun, determiner, numeral or adverb
+#### Examples: 
+
+* [cs/en] _kdo / who, co / what, který / which, čí / whose, kolik /
+  how many, how much, kolikátý / how-maniest_ (ordinal number),
+  _kolikrát / how many times, kde / where, kam / where to, kdy / when,
+  jak / how, proč / why_
+
+### `Rel`: relative pronoun, determiner, numeral or adverb
 
 Note that in many languages this class heavily overlaps with
 interrogatives, yet there are pronouns that are only relative, and in
 some languages (Bulgarian, Hindi) the two classes seem to be distinct.
 
-Examples: [cs] _jenž, což_ (= “which”, “that”) are relative but not
-interrogative pronouns; _jehož_ (= “whose”) is a possessive relative
-pronoun.
+#### Examples: 
 
-### Dem: demonstrative pronoun, determiner, numeral or adverb
+* [cs] _jenž, což_ "which", "that" (relative but not interrogative
+  pronouns); _jehož_ "whose" (possessive relative pronoun)
+
+### `Dem`: demonstrative pronoun, determiner, numeral or adverb
 
 These are often parallel to interrogatives. Some tagsets might also
-distinguish a separate feature of distance _(here / there;_ [es]
-_aquí / ahí / allí)._
+distinguish a separate feature of distance (_here / there_; [es] _aquí
+/ ahí / allí_).
 
-Examples: [cs/en] _tento / this, tamten / that, takový / such, týž /
-same, tolik / so much, tolikátý / so-maniest_ (ordinal number),
-_tolikrát / so many times, tady / here, tam / there, teď / now, tehdy / then,
-tak / so_
+#### Examples
 
-### Tot: totality (collective) pronoun, determiner or adverb
+* [cs/en] _tento / this, tamten / that, takový / such, týž / same,
+  tolik / so much, tolikátý / so-maniest_ (ordinal number), _tolikrát
+  / so many times, tady / here, tam / there, teď / now, tehdy / then,
+  tak / so_
 
-Examples: [cs/en] _každý / every, everybody, everyone, each, všechno /
-everything, all, všude / everywhere, vždy / always_
+### `Tot`: totality (collective) pronoun, determiner or adverb
 
-### Neg: negative pronoun, determiner or adverb
+#### Examples
 
-Examples: [cs/en] _nikdo / nobody, nic / nothing, nijaký / no, ničí /
-no one's_ (possessive negative pronoun), _žádný / no, none, nikde /
-nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
+* [cs/en] _každý / every, everybody, everyone, each, všechno /
+  everything, all, všude / everywhere, vždy / always_
 
-### Ind: indefinite pronoun, determiner, numeral or adverb
+### `Neg`: negative pronoun, determiner or adverb
+
+Examples: 
+
+* [cs/en] _nikdo / nobody, nic / nothing, nijaký / no, ničí / no
+  one's_ (possessive negative pronoun), _žádný / no, none, nikde /
+  nowhere, nikdy / never, nijak / no way_ (lit. “no-how”)
+
+### `Ind`: indefinite pronoun, determiner, numeral or adverb
 
 Note that some tagsets might further subclassify this category to
-distinguish “some” from “any” etc. Such distinctions are not part of
+distinguish "some" from "any" etc. Such distinctions are not part of
 universal features but may be added in language-specific extensions.
 
-Examples 1: [cs/en] _někdo / somebody, něco / something, některý /
-some, něčí / someone's_ (possessive indefinite pronoun), _několik / a
-few, several_ (indefinite numeral/quantifier), _několikátý / “a fewth”, “severalth”_
-(indefinite ordinal numeral), _několikrát / a few times, several times,
-někde / somewhere, někdy / sometimes, nějak / somehow_
+#### Examples
 
-Examples 2: [cs/en] _kdokoli / anybody, cokoli / anything, kterýkoli /
-any, číkoli / anyone's_ (possessive indefinite pronoun), _kdekoli /
-anywhere, kdykoli / any time, jakkoli / anyhow_
-
-Examples 3: [cs/en] _málokdo / few people, leckdo / quite a few people,
-kdosi / somebody…_
+* [cs/en] _někdo / somebody, něco / something, některý / some, něčí /
+  someone's_ (possessive indefinite pronoun), _několik / a few,
+  several_ (indefinite numeral/quantifier), _několikátý / “a fewth”,
+  “severalth”_ (indefinite ordinal numeral), _několikrát / a few
+  times, several times, někde / somewhere, někdy / sometimes, nějak /
+  somehow_
+* [cs/en] _kdokoli / anybody, cokoli / anything, kterýkoli / any,
+  číkoli / anyone's_ (possessive indefinite pronoun), _kdekoli /
+  anywhere, kdykoli / any time, jakkoli / anyhow_
+* [cs/en] _málokdo / few people, leckdo / quite a few people, kdosi /
+  somebody…_

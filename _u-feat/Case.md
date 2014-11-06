@@ -10,20 +10,19 @@ depending on language, other parts of speech ([adjectives](u-pos/ADJ),
 it is also valency feature of [adpositions](u-pos/ADP) (saying that
 the adposition requires its argument to be in that case).
 
-Case helps specify the role of the noun
-phrase in the sentence, especially in free-word-order languages. For
-example, the nominative and accusative cases often distinguish
-subject and object of the verb, while in fixed-word-order languages
-these functions would be distinguished merely by the positions of the
-nouns in the sentence.
+Case helps specify the role of the noun phrase in the sentence,
+especially in free-word-order languages. For example, the nominative
+and accusative cases often distinguish subject and object of the verb,
+while in fixed-word-order languages these functions would be
+distinguished merely by the positions of the nouns in the sentence.
 
-Here on the level of morphosyntactic
-features we are dealing with case expressed morphologically, i.e. by
-bound morphemes (affixes). Note that on a higher level case can be
-understood more broadly as _the role,_ and it can be also
-expressed by adding an adposition to the noun. What is expressed by
-affixes in one language can be expressed using adpositions in another
-language. Cf. the [u-dep/case]() dependency label.
+Here on the level of morphosyntactic features we are dealing with case
+expressed morphologically, i.e. by bound morphemes (affixes). Note
+that on a higher level case can be understood more broadly as _the
+role,_ and it can be also expressed by adding an adposition to the
+noun. What is expressed by affixes in one language can be expressed
+using adpositions in another language. Cf. the [u-dep/case]()
+dependency label.
 
 #### Examples
 
@@ -35,58 +34,49 @@ language. Cf. the [u-dep/case]() dependency label.
 * [en] nominative/direct case _he, she_,
   accusative/oblique case _him, her._
 
-The descriptions of the individual case
-values below include semantic hints about the prototypical meaning of
-the case. Bear in mind that quite often a case will be used for a
-meaning that is totally unrelated to the meaning mentioned here.
-Valency of verbs, adpositions and other words will determine that the
-noun phrase must be in a particular grammatical case to fill a
-particular valency slot (semantic role). It is much the same as
-trying to explain the meaning of prepositions: most people would
-agree that the central meaning of English _in_ is location in
-space or time but there are phrases where the meaning is less
-locational: _In God we trust._ _Say it in English._
+The descriptions of the individual case values below include semantic
+hints about the prototypical meaning of the case. Bear in mind that
+quite often a case will be used for a meaning that is totally
+unrelated to the meaning mentioned here.  Valency of verbs,
+adpositions and other words will determine that the noun phrase must
+be in a particular grammatical case to fill a particular valency slot
+(semantic role). It is much the same as trying to explain the meaning
+of prepositions: most people would agree that the central meaning of
+English _in_ is location in space or time but there are phrases where
+the meaning is less locational: _In God we trust._ _Say it in
+English._
 
-Note
-that Indian corpora based on the so-called Paninian model use a
-related feature called _vibhakti_.
-It is a merger of the Case feature described here and of various
-postpositions. Values of the feature are language-dependent because
-they are copies of the relevant morphemes (either bound morphemes or
-postpositions). Vibhakti
-can be mapped on the Case values described here if we know 1. which
-source values are bound morphemes (postpositions are separate nodes
-for us) and 2. what is their meaning. For instance, the genitive case
-(Gen) in Bengali is marked using the suffix _-ra_
-(-র),
-i.e. vib=era.
-In Hindi, the suffix has been split off the noun and
-it is now written as a separate word &ndash; the postposition
-_kā/kī/ke_
-(का/की/के).
-Even
-if the
-postpositional phrase
-can be understood as a genitive noun phrase, the noun is not in
-genitive. Instead, the postposition requires that it takes one of
-three case forms that are marked directly on the noun: the oblique
-case (Acc).
+Note that Indian corpora based on the so-called Paninian model use a
+related feature called _vibhakti_.  It is a merger of the Case feature
+described here and of various postpositions. Values of the feature are
+language-dependent because they are copies of the relevant morphemes
+(either bound morphemes or postpositions). Vibhakti can be mapped on
+the Case values described here if we know 1. which source values are
+bound morphemes (postpositions are separate nodes for us) and 2. what
+is their meaning. For instance, the genitive case (`Gen`) in Bengali
+is marked using the suffix _-ra_ (-র), i.e. vib=era.  In Hindi, the
+suffix has been split off the noun and it is now written as a separate
+word &ndash; the postposition _kā/kī/ke_ (का/की/के).  Even if the
+postpositional phrase can be understood as a genitive noun phrase, the
+noun is not in genitive. Instead, the postposition requires that it
+takes one of three case forms that are marked directly on the noun:
+the oblique case (`Acc`).
 
-### Nom: nominative / direct
+### `Nom`: nominative / direct
 
 The base form of the noun, typically used as citation form (lemma).
 In many languages this is the word form used for subjects of clauses.
 If the language has only two cases, which are called "direct" and
 "oblique", the direct case will be marked Nom.
 
-### Acc: accusative / oblique
+### `Acc`: accusative / oblique
 
 Perhaps the second most widely spread morphological case. In many
 languages this is the word form used for direct objects of verbs.  If
 the language has only two cases, which are called "direct" and
 "oblique", the oblique case will be marked Acc.
 
-### Abs: absolutive
+### `Abs`: absolutive
 
 Some languages (e.g. Basque) do not use nominative-accusative to
 distinguish subjects and objects.  Instead, they use the contrast of
@@ -95,7 +85,7 @@ absolutive-ergative.
 The absolutive case marks subject of intransitive verb and direct
 object of transitive verb.
 
-### Erg: ergative
+### `Erg`: ergative
 
 Some languages (e.g. Basque) do not use nominative-accusative to
 distinguish subjects and objects.  Instead, they use the contrast of
@@ -103,7 +93,7 @@ absolutive-ergative.
 
 The ergative case marks subject of transitive verb.
 
-### Dat: dative
+### `Dat`: dative
 
 In many languages this is the word form used for indirect objects of verbs.
 
@@ -113,7 +103,7 @@ In many languages this is the word form used for indirect objects of verbs.
   brother a present." (_meinem Bruder_ "my brother" is dative and _ein
   Geschenk_ "a present" is accusative.)
 
-### Gen: genitive
+### `Gen`: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor; it would often be translated by the English
@@ -148,7 +138,7 @@ Note that in Basque, Gen should be used for possessive genitive (as
 opposed to locative genitive): _<b>diktadorearen</b> erregimena_
 "dictator's regime"; _diktadore_ "dictator".
 
-### Voc: vocative
+### `Voc`: vocative
 
 The vocative case is a special form of noun used to address
 someone. Thus it predominantly appears with animate nouns (see the
@@ -160,7 +150,7 @@ restriction and inanimate things can be addressed as well.
 * [cs] _Co myslíš, <b>Filip</b><b>e</b>?_ "What do you think,
   <b>Filip</b>?"
 
-### Loc: locative
+### `Loc`: locative
 
 The locative case often expresses location in space or time, which
 gave it its name. As elsewhere, non-locational meanings also exist and
@@ -181,7 +171,7 @@ other languages that have locative).
 * [cs] _Mluvili jsme tam o <b>morfologii</b>._ "We talked there about
   <b>morphology</b>." (Non-locational non-temporal example)
 
-### Ins: instrumental / instructive
+### `Ins`: instrumental / instructive
 
 The role from which the name of the instrumental case is derived is
 that the noun is used as instrument to do something (as in [cs] _psát
@@ -212,7 +202,7 @@ defined in Finnish).
   valtataisteluun_ lit. _was-involved-in by-surprise.Ins
   power-struggle.Ill._
 
-### Par: partitive
+### `Par`: partitive
 
 In Finnish the partitive case expresses indefinite identity and
 unfinished actions without result.
@@ -235,7 +225,7 @@ Using accusative instead of partitive may also substitute the missing
 future tense: _luen kirjan_ "I will read the book.Acc"; _luen kirjaa_
 "I am reading the book.Par".
 
-### Dis: distributive
+### `Dis`: distributive
 
 The distributive case conveys that something happened to every member
 of a set, one in a time. Or it may express frequency.
@@ -247,7 +237,7 @@ of a set, one in a time. Or it may express frequency.
 * [hu] _<b>hetenként</b>_ "once per week, weekly"
 * [hu] _<b>tízpercenként</b>_ "every ten minutes"
 
-### Ess: essive / prolative
+### `Ess`: essive / prolative
 
 The essive case expresses a temporary state, often it corresponds to
 English "as a &hellip;" A similar case in Basque is called prolative
@@ -259,7 +249,7 @@ and it should be tagged `Ess` too.
 * [et] _laps_ "child"; _<b>lapsena</b>_ "as a child"
 * [eu] _erreformista_ "reformer"; _<b>erreformistatzat</b>_ "as a reformer"
 
-### Tra: translative / factive
+### `Tra`: translative / factive
 
 The translative case expresses a change of state ("it becomes X", "it
 changes to X").  Also used for the phrase "in language X". In the
@@ -274,7 +264,7 @@ Szeged Treebank, this case is called factive.
 * [hu] _Oroszlány halott <b>várossá</b> válhat._ lit. _Oroszlány dead city.Tra
   could-become._ "Oroszlány could become a dead city."
 
-### Com: comitative / associative
+### `Com`: comitative / associative
 
 The comitative (also called associative) case corresponds to English
 "together with &hellip;"
@@ -283,7 +273,7 @@ The comitative (also called associative) case corresponds to English
 
 * [et] _koer_ "dog"; _<b>koeraga</b>_ "with dog"
 
-### Abe: abessive
+### `Abe`: abessive
 
 The abessive case corresponds to the English preposition _without_.
 
@@ -291,7 +281,7 @@ The abessive case corresponds to the English preposition _without_.
 
 * [fi] _raha_ "money"; _<b>rahatta</b>_ "without money"
 
-### Ine: inessive
+### `Ine`: inessive
 
 The inessive case expresses location inside of something.
 
@@ -301,7 +291,7 @@ The inessive case expresses location inside of something.
 * [fi] _talo_ "house"; _<b>talossa</b>_ "in the house"
 * [et] _maja_ "house"; _<b>majas</b>_ "in the house"
 
-### Ill: illative
+### `Ill`: illative
 
 The illative case expresses direction into something.
 
@@ -311,7 +301,7 @@ The illative case expresses direction into something.
 * [fi] _talo_ "house"; _<b>talo</b><b>on</b>_ "into the house"
 * [et] _maja_ "house"; _<b>majas</b><b>se / majja</b>_ "into the house"
 
-### Ela: elative
+### `Ela`: elative
 
 The elative case expresses direction out of something.
 
@@ -321,7 +311,7 @@ The elative case expresses direction out of something.
 * [fi] _talo_ "house"; _<b>talos</b><b>t</b><b>a</b>_ "from the house"
 * [et] _maja_ "house"; _<b>majas</b><b>t</b>_ "from the house"
 
-### Add: additive
+### `Add`: additive
 
 Distinguished by some scholars in Estonian, not recognized by
 traditional grammar, exists in the Multext-East Estonian tagset and in
@@ -329,7 +319,7 @@ the Eesti keele puudepank.  Reportedly same or similar meaning as
 illative. Forms of this case exist only in singular and not for all
 nouns.
 
-### Ade: adessive
+### `Ade`: adessive
 
 The adessive case expresses location at or on something.  The
 corresponding directional cases are allative (towards something) and
@@ -345,7 +335,7 @@ Note that adessive is used to express location on the surface of
 something in Finnish and Estonian, but does not carry this meaning in
 Hungarian.
 
-### All: allative
+### `All`: allative
 
 The allative case expresses direction to something (destination is
 adessive, i.e. at or on that something).
@@ -355,7 +345,7 @@ adessive, i.e. at or on that something).
 * [hu] _pénztár_ "cash desk"; _<b>pénztár</b><b>hoz</b>_ "to the cash desk"
 * [fi] _pöytä_ "table"; _<b>pöydäll</b><b>e</b>_ "onto the table"
 
-### Abl: ablative
+### `Abl`: ablative
 
 Prototypical meaning: direction from some point.
 
@@ -365,19 +355,19 @@ Prototypical meaning: direction from some point.
 * [fi] _pöydältä_ "from the table"; _katolta_ "from the roof";
   _rannalta_ "from the beach"
 
-### Sup: superessive
+### `Sup`: superessive
 
-Used, chiefly <A
-HREF="http://www.hungarianreference.com/Nouns/-n-superessive.aspx">in
-Hungarian</A>, to indicate location on top of something or on the
-surface of something.
+Used, chiefly [in
+Hungarian](http://www.hungarianreference.com/Nouns/-n-superessive.aspx),
+to indicate location on top of something or on the surface of
+something.
 
 #### Examples
 
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
 
-### Sub: sublative
+### `Sub`: sublative
 
 The sublative case is used in Finno-Ugric languages to express the
 destination of movement, originally to the surface of something
@@ -392,24 +382,24 @@ meanings as well (e.g. "to university").
 * [hu] _hajó_ "ship"; _<b>hajóra</b>_ "onto the ship"
 * [hu] _<b>bokorra</b>_ "on the shrub"
 
-### Del: delative
+### `Del`: delative
 
-Used, chiefly <A
-HREF="http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx">in
-Hungarian</A>, to express the movement from the surface of something
-(like "moved off the table"). Other meanings are possible as well,
-e.g. "about something".
+Used, chiefly [in
+Hungarian](http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx),
+to express the movement from the surface of something (like "moved off
+the table"). Other meanings are possible as well, e.g. "about
+something".
 
 #### Examples
 
 * [hu] _asztal_ "table"; _az <b>asztal</b><b>ról</b>_ "off the table"
 * [hu]_<b>Budapestről</b> jövök_ "I am coming from Budapest"
 
-### Lat: lative / directional allative
+### `Lat`: lative / directional allative
 
 The lative case denotes movement towards/to/into/onto
 something. Similar case in Basque is called directional allative
-(Spanish <EM>adlativo direccional</EM>).  However, lative is typically
+(Spanish _adlativo direccional_).  However, lative is typically
 thought of as a union of allative, illative and sublative, while in
 Basque it is derived from allative, which also exists independently.
 
@@ -417,7 +407,7 @@ Basque it is derived from allative, which also exists independently.
 
 * [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
 
-### Tem: temporal
+### `Tem`: temporal
 
 The temporal case is used to indicate time.
 
@@ -426,7 +416,7 @@ The temporal case is used to indicate time.
 * [hu] _<b>hétkor</b>_ "at seven (o'clock)"; _<b>éjfélkor</b>_ "at midnight";
   _<b>karácsonykor</b>_ "at Christmas"
 
-### Ter: terminative / terminal allative
+### `Ter`: terminative / terminal allative
 
 The terminative case specifies where something ends in space or
 time. Similar case in Basque is called terminal allative (Spanish
@@ -440,7 +430,7 @@ _adlativo terminal_).
   six o'clock"
 * [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
-### Cau: causative / motivative
+### `Cau`: causative / motivative
 
 Noun in this case is the cause of something. In Hungarian it also
 seems to be used frequently with currency ("to buy something _for_ the
@@ -457,7 +447,7 @@ money") and it also can mean the goal of something.
 * [eu] _jokaera_ "behavior"; _<b>jokaeragatik</b>_ "because of
   behavior"
 
-### Ben: benefactive / destinative
+### `Ben`: benefactive / destinative
 
 The benefactive case corresponds to the English preposition _for_.
 
