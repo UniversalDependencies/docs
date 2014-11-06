@@ -304,15 +304,17 @@ expressed by adding an adposition to the noun. What is expressed by
 affixes in one language can be expressed using adpositions in another
 language. Cf. the <a href="">u-dep/case</a> dependency label.</p>
 
-<p>Examples: [cs] nominative <em>matka</em>
-(mother), genitive <em>matky</em>,
-dative <em>matce</em>, accusative <em>matku</em>,
-vocative <em>matko</em>, locative <em>matce</em>,
-instrumental <em>matkou</em>;
-[de] nominative <em>der Mann</em> (the man), genitive <em>des
-Mannes</em>, dative <em>dem Mann</em>, accusative <em>den Mann</em>;
-[en] nominative/direct case <em>he, she</em>, accusative/oblique
-case <em>him, her.</em></p>
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>[cs] nominative <em>matka</em> “mother”, genitive <em>matky</em>, dative <em>matce</em>,
+accusative <em>matku</em>, vocative <em>matko</em>, locative <em>matce</em>,
+ instrumental <em>matkou</em></li>
+  <li>[de] nominative <em>der Mann</em> “the man”, genitive <em>des Mannes</em>,
+dative <em>dem Mann</em>, accusative <em>den Mann</em></li>
+  <li>[en] nominative/direct case <em>he, she</em>,
+accusative/oblique case <em>him, her.</em></li>
+</ul>
 
 <p>The descriptions of the individual case
 values below include semantic hints about the prototypical meaning of
@@ -353,612 +355,446 @@ case (Acc).</p>
 
 <h3 id="nom-nominative--direct">Nom: nominative / direct</h3>
 
-<p>The base form
-of the noun, typically
-used as citation form (lemma).
+<p>The base form of the noun, typically used as citation form (lemma).
 In many languages this is the word form used for subjects of clauses.
-If
-the language has only two cases, which are called “direct”
-and “oblique”, the direct case will be marked Nom.</p>
+If the language has only two cases, which are called “direct” and
+“oblique”, the direct case will be marked Nom.</p>
 
 <h3 id="acc-accusative--oblique">Acc: accusative / oblique</h3>
 
-<p>Perhaps the
-second most widely spread morphological case.
-In many languages this is the word form used for direct
-objects
-of
-verbs.
-If the language has only two cases, which are called “direct”
-and “oblique”, the oblique
-case will be marked Acc.</p>
+<p>Perhaps the second most widely spread morphological case. In many
+languages this is the word form used for direct objects of verbs.  If
+the language has only two cases, which are called “direct” and
+“oblique”, the oblique case will be marked Acc.</p>
 
 <h3 id="abs-absolutive">Abs: absolutive</h3>
 
-<p>Some
-languages (e.g.
-Basque)
-do not use nominative-accusative to distinguish subjects and objects.
-Instead, they use the contrast of absolutive-ergative.</p>
+<p>Some languages (e.g. Basque) do not use nominative-accusative to
+distinguish subjects and objects.  Instead, they use the contrast of
+absolutive-ergative.</p>
 
-<p>The absolutive case marks subject of
-intransitive verb and direct object of transitive verb.</p>
+<p>The absolutive case marks subject of intransitive verb and direct
+object of transitive verb.</p>
 
 <h3 id="erg-ergative">Erg: ergative</h3>
 
-<p>Some
-languages (e.g.
-Basque)
-do not use nominative-accusative to distinguish subjects and objects.
-Instead, they use the contrast of absolutive-ergative.</p>
+<p>Some languages (e.g. Basque) do not use nominative-accusative to
+distinguish subjects and objects.  Instead, they use the contrast of
+absolutive-ergative.</p>
 
-<p>The ergative case marks subject of
-transitive verb.</p>
+<p>The ergative case marks subject of transitive verb.</p>
 
 <h3 id="dat-dative">Dat: dative</h3>
 
 <p>In many languages this is the word form used for indirect objects of verbs.</p>
 
-<p>Example:
-[de] <em>Ich gebe <b>meinem
-Bruder</b> ein Geschenk.</em>
-(I
-give my brother a present.) “meinem Bruder” (my brother)
-is dative and “ein Geschenk” (a present) is accusative.</p>
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[de] <em>Ich gebe <b>meinem Bruder</b> ein Geschenk.</em> “I give my
+brother a present.” (<em>meinem Bruder</em> “my brother” is dative and <em>ein
+Geschenk</em> “a present” is accusative.)</li>
+</ul>
 
 <h3 id="gen-genitive">Gen: genitive</h3>
 
-<p>Prototypical
-meaning of genitive is that the noun phrase somehow belongs to its
-governor; it would often be translated by the English preposition <em>of</em>.
-English has the “saxon genitive” formed by the suffix <em>‘s</em>;
-but we will normally not need the feature in English because the
-suffix gets separated from the noun during tokenization.</p>
+<p>Prototypical meaning of genitive is that the noun phrase somehow
+belongs to its governor; it would often be translated by the English
+preposition <em>of</em>.  English has the “saxon genitive” formed by the
+suffix <em>‘s</em>; but we will normally not need the feature in English
+because the suffix gets separated from the noun during tokenization.</p>
 
-<p>Note that
-despite considerable semantic overlap, the genitive case is not the
-same as the feature of possessivity (<a href="">Poss</a>). Possessivity is a lexical
-feature, i.e. it applies to lemma and its whole paradigm. Genitive is
-a feature of just a subset of word forms of the lemma. Semantics
-of possessivity is much more clearly defined while the genitive (as
-many
-other
-cases) may be required in situations that have nothing to do with
-possessing. For example, [cs] <em>bez
-prezidentovy dcery</em>
-(without
-the president’s daughter) is a prepositional phrase containing the
-preposition <em>bez</em>
-(without),
-the possessive adjective <em>prezidentovy</em>
-(president’s)
-and the noun <em>dcery</em>
-(daughter).
-The possessive adjective is derived from the noun <em>prezident</em>
-but
-it is really an adjective (with separate lemma and paradigm), not
-just a form of the noun. In addition, both the adjective and the noun
-are in their genitive forms (the nominative would be <em>prezidentova
-dcera</em>).
-There is nothing possessive about this particular occurrence of the
-genitive. It is there because the preposition <em>bez</em>
-always
-requires its argument to be in genitive.</p>
+<p>Note that despite considerable semantic overlap, the genitive case is
+not the same as the feature of possessivity (<a href="">Poss</a>). Possessivity
+is a lexical feature, i.e. it applies to lemma and its whole
+paradigm. Genitive is a feature of just a subset of word forms of the
+lemma. Semantics of possessivity is much more clearly defined while
+the genitive (as many other cases) may be required in situations that
+have nothing to do with possessing. For example, [cs] <em>bez
+prezidentovy dcery</em> “without the president’s daughter” is a
+prepositional phrase containing the preposition <em>bez</em> “without”, the
+possessive adjective <em>prezidentovy</em> “president’s” and the noun <em>dcery</em>
+“daughter”.  The possessive adjective is derived from the noun
+<em>prezident</em> but it is really an adjective (with separate lemma and
+paradigm), not just a form of the noun. In addition, both the
+adjective and the noun are in their genitive forms (the nominative
+would be <em>prezidentova dcera</em>).  There is nothing possessive about
+this particular occurrence of the genitive. It is there because the
+preposition <em>bez</em> always requires its argument to be in genitive.</p>
 
-<p>Example: [cs] <em>Praha
-je hlavní město <b>České
-republiky</b>.</em>
-(Prague is the capital <b>of the Czech
-Republic</b>.)</p>
+<h4 id="examples-2">Examples</h4>
 
-<p>Note that in
-Basque, Gen should be used for possessive
-genitive (as opposed to locative genitive): <em><b>diktadorearen</b>
-erregimena</em> (dictator’s regime;
-<em>diktadore</em> = dictator).</p>
+<ul>
+  <li>[cs] <em>Praha je hlavní město <b>České republiky</b>.</em> “Prague is the
+capital <b>of the Czech Republic</b>.”</li>
+</ul>
+
+<p>Note that in Basque, Gen should be used for possessive genitive (as
+opposed to locative genitive): <em><b>diktadorearen</b> erregimena</em>
+“dictator’s regime”; <em>diktadore</em> “dictator”.</p>
 
 <h3 id="voc-vocative">Voc: vocative</h3>
 
-<p>The vocative
-case is a special form of noun used
-to address someone. Thus it predominantly appears with animate nouns
-(see the feature of <a href="">Animacy</a>). Nevertheless this is not a
-grammatical restriction and inanimate
-things can be addressed as well.</p>
+<p>The vocative case is a special form of noun used to address
+someone. Thus it predominantly appears with animate nouns (see the
+feature of <a href="">Animacy</a>). Nevertheless this is not a grammatical
+restriction and inanimate things can be addressed as well.</p>
 
-<p>Example: [cs]
-<em>Co myslíš, <b>Filip</b><b>e</b>?</em>
-(What
-do you think, <b>Filip</b>?)</p>
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[cs] <em>Co myslíš, <b>Filip</b><b>e</b>?</em> “What do you think,
+<b>Filip</b>?”</li>
+</ul>
 
 <h3 id="loc-locative">Loc: locative</h3>
 
-<p>The locative
-case often expresses location in space or time, which gave it its
-name. As elsewhere, non-locational meanings also exist
-and they are not rare. Uralic languages have a complex set of
-fine-grained locational and directional cases (see below) instead of
-the locative. Even in languages that have locative, some location
-roles may be expressed using other cases (e.g. because those cases
-are required by a preposition).</p>
+<p>The locative case often expresses location in space or time, which
+gave it its name. As elsewhere, non-locational meanings also exist and
+they are not rare. Uralic languages have a complex set of fine-grained
+locational and directional cases (see below) instead of the
+locative. Even in languages that have locative, some location roles
+may be expressed using other cases (e.g. because those cases are
+required by a preposition).</p>
 
-<p>In Slavic
-languages this is the only case that is used exclusively in
-combination with prepositions (but such a
-restriction may not hold in other languages that have locative).</p>
+<p>In Slavic languages this is the only case that is used exclusively in
+combination with prepositions (but such a restriction may not hold in
+other languages that have locative).</p>
 
-<p>Example: [cs]
-<em>V <b>červenci</b>
-jsem byl ve <b>Švédsku</b>.</em>
-(In
-<b>July</b>
-I was in <b>Sweden</b>.)</p>
+<h4 id="examples-4">Examples</h4>
 
-<p>Non-locational
-non-temporal example: [cs] <em>Mluvili
-jsme tam o <b>morfologii</b>.</em>
-(We
-talked there
-about <b>morphology</b>.)</p>
+<ul>
+  <li>[cs] <em>V <b>červenci</b> jsem byl ve <b>Švédsku</b>.</em> “In <b>July</b>
+I was in <b>Sweden</b>.”</li>
+  <li>[cs] <em>Mluvili jsme tam o <b>morfologii</b>.</em> “We talked there about
+<b>morphology</b>.” (Non-locational non-temporal example)</li>
+</ul>
 
 <h3 id="ins-instrumental--instructive">Ins: instrumental / instructive</h3>
 
-<p>The role from
-which the name of the instrumental case is derived is that the noun
-is used as instrument to do something (as in [cs] <em>psát
-<b>perem</b></em>
-(to
-write <b>using
-a pen</b>)).
-Many other meanings are possible, e.g. in Czech the instrumental is
-required by the preposition <em>s</em>
-(with)
-and thus it includes the meaning expressed in other languages by the
-comitative case.</p>
+<p>The role from which the name of the instrumental case is derived is
+that the noun is used as instrument to do something (as in [cs] <em>psát
+<b>perem</b></em> “to write <b>using a pen</b>”).  Many other meanings are
+possible, e.g. in Czech the instrumental is required by the
+preposition <em>s</em> “with” and thus it includes the meaning expressed in
+other languages by the comitative case.</p>
 
-<p>In Czech the
-instrumental is also used for the agent-object in passive
+<p>In Czech the instrumental is also used for the agent-object in passive
 constructions (cf. the English preposition <em>by</em>).</p>
 
-<p>Passive
-example: [cs] <em>Tento zákon byl
-schválen <b>vládou</b>.</em>
-(This
-bill has been approved <b>by
-the government</b>.)</p>
+<h4 id="examples-5">Examples</h4>
 
-<p>A semantically
-similar case called instructive is used
-rarely in Finnish to express “with (the aid of)”. It
-can be applied to infinitives that behave much like nouns in Finnish.
-We propose one label for both instrumental and instructive
-(instrumental is not defined in Finnish).</p>
+<ul>
+  <li>[cs] <em>Tento zákon byl schválen <b>vládou</b>.</em> “This bill has been
+approved <b>by the government</b>.” (Passive example)</li>
+</ul>
 
-<p>Examples: [fi]
-<em>lähteä</em>
-=
-to leave; <em>2003 <b>lähtien</b></em>
-(second
-infinitive in the instructive case: since 2003); <em>yllättää</em>
-=
-to surprise; <em>sekaantui <b>yllättäen</b>
-valtataisteluun</em>
-(lit.
-was-involved-in by-surprise.Ins
-power-struggle.Ill).</p>
+<p>A semantically similar case called instructive is used rarely in
+Finnish to express “with (the aid of)”. It can be applied to
+infinitives that behave much like nouns in Finnish.  We propose one
+label for both instrumental and instructive (instrumental is not
+defined in Finnish).</p>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li>[fi] <em>lähteä</em> “to leave”; <em>2003 <b>lähtien</b></em> “since 2003” (second
+infinitive in the instructive case)</li>
+  <li>[fi] <em>yllättää</em> “to surprise”; <em>sekaantui <b>yllättäen</b>
+valtataisteluun</em> lit. <em>was-involved-in by-surprise.Ins
+power-struggle.Ill.</em></li>
+</ul>
 
 <h3 id="par-partitive">Par: partitive</h3>
 
-<p>In Finnish the partitive case expresses
-indefinite identity and unfinished actions without result.</p>
+<p>In Finnish the partitive case expresses indefinite identity and
+unfinished actions without result.</p>
 
-<p>Examples: [fi]
-<em>kolme <b>taloa</b></em>
-(three
-<b>houses</b>;
-the <em>-a</em>
-suffix of <em>talo</em>);
-<em>rakastan tätä <b>taloa</b></em>
-(I
-love this <b>house</b>);
-<em>saanko lainata <b>kirjaa</b>?</em>
-(can
-I borrow the <b>book</b>?;
-the <em>-a</em>
-suffix of <em>kirja</em>);
-<em>lasissa on <b>maitoa</b></em>
-(there
-is (some) <b>milk</b>
-in the glass).</p>
+<h4 id="examples-7">Examples</h4>
 
-<p>Examples
-comparing partitive with accusative: <em>ammuin
-karhun</em>
-(I shot a bear.Acc (and I know that it is dead)); <em>ammuin
-karhua</em>
-(I shot at a bear.Par (but I may have missed)).</p>
+<ul>
+  <li>[fi] <em>kolme <b>taloa</b></em> “three <b>houses</b>”; (the <em>-a</em> suffix of
+<em>talo</em>)</li>
+  <li>[fi] <em>rakastan tätä <b>taloa</b></em> “I love this <b>house</b>”</li>
+  <li>[fi] <em>saanko lainata <b>kirjaa</b>?</em> “can I borrow the <b>book</b>?”
+(the <em>-a</em> suffix of <em>kirja</em>)</li>
+  <li>[fi]<em>lasissa on <b>maitoa</b></em> “there is (some) <b>milk</b> in the
+glass”</li>
+</ul>
 
-<p>Using
-accusative instead of partitive may also substitute the missing
-future tense: <em>luen kirjan</em>
-(I will read the book.Acc); <em>luen
-kirjaa</em>
-(I am reading the book.Par).</p>
+<p>Examples comparing partitive with accusative: <em>ammuin karhun</em> “I shot
+a bear.Acc” (and I know that it is dead); <em>ammuin karhua</em> “I shot at a
+bear.Par” (but I may have missed).</p>
+
+<p>Using accusative instead of partitive may also substitute the missing
+future tense: <em>luen kirjan</em> “I will read the book.Acc”; <em>luen kirjaa</em>
+“I am reading the book.Par”.</p>
 
 <h3 id="dis-distributive">Dis: distributive</h3>
 
-<p>The distributive case conveys that
-something happened to every member of a set, one in a time. Or it may
-express frequency.</p>
+<p>The distributive case conveys that something happened to every member
+of a set, one in a time. Or it may express frequency.</p>
 
-<p>Examples: [hu]
-<em><b>fejenként</b></em>
-(per
-capita); <em><b>esetenként</b></em>
-(in
-some cases); <em><b>hetenként</b></em>
-(once
-per week, weekly); <em><b>tízpercenként</b></em>
-(every
-ten minutes).</p>
+<h4 id="examples-8">Examples</h4>
+
+<ul>
+  <li>[hu] <em><b>fejenként</b></em> “per capita”</li>
+  <li>[hu] <em><b>esetenként</b></em> “in some cases”</li>
+  <li>[hu] <em><b>hetenként</b></em> “once per week, weekly”</li>
+  <li>[hu] <em><b>tízpercenként</b></em> “every ten minutes”</li>
+</ul>
 
 <h3 id="ess-essive--prolative">Ess: essive / prolative</h3>
 
-<p>The essive case expresses a temporary
-state, often it corresponds to English “as a …”
-A similar case in Basque is called prolative and it should be tagged <code>Ess</code> too.</p>
+<p>The essive case expresses a temporary state, often it corresponds to
+English “as a …” A similar case in Basque is called prolative
+and it should be tagged <code>Ess</code> too.</p>
 
-<p>Examples:
-[fi] <em>lapsi</em> = child; <em><b>lapsena</b></em> = as a child / when he/she was child;
-[et] <em>laps</em> = child; <em><b>lapsena</b></em> = as a child;
-[eu] <em>erreformista</em> = reformer; <em><b>erreformistatzat</b></em> = as a reformer.</p>
+<h4 id="examples-9">Examples</h4>
+
+<ul>
+  <li>[fi] <em>lapsi</em> “child”; <em><b>lapsena</b></em> “as a child / when he/she was child”</li>
+  <li>[et] <em>laps</em> “child”; <em><b>lapsena</b></em> “as a child”</li>
+  <li>[eu] <em>erreformista</em> “reformer”; <em><b>erreformistatzat</b></em> “as a reformer”</li>
+</ul>
 
 <h3 id="tra-translative--factive">Tra: translative / factive</h3>
 
-<p>The translative case expresses a change
-of state (“it becomes X”, “it changes to X”).
-Also used for the phrase “in language X”. In the Szeged
-Treebank [hu], this case is called factive.</p>
+<p>The translative case expresses a change of state (“it becomes X”, “it
+changes to X”).  Also used for the phrase “in language X”. In the
+Szeged Treebank, this case is called factive.</p>
 
-<p>Examples: [fi]
-<em>pitkä</em>
-=
-long; <em>kasvoi <b>pitkäksi</b></em>
-=
-grew long; <em>englanti</em>
-= English language; <em><b>englanniksi</b></em>
-= in/into English; <em>kello kuusi</em>
-= six o’clock; <em>kello <b>kuudeksi</b></em>
-= by six o’clock; [et] <em>kell
-kuus</em> =
-six o’clock; <em>kella <b>kuueks</b></em>
-= by six o’clock; [hu] <em>Oroszlány
-halott <b>várossá</b>
-válhat.</em>
-= lit. Oroszlány dead city.Tra
-could-become. = Oroszlány could become a dead city.</p>
+<h4 id="examples-10">Examples</h4>
+
+<ul>
+  <li>[fi] <em>pitkä</em> “long”; <em>kasvoi <b>pitkäksi</b></em> “grew long”</li>
+  <li>[fi] <em>englanti</em> “English language”; <em><b>englanniksi</b></em> “in/into English”</li>
+  <li>[fi] <em>kello kuusi</em> “six o’clock”; <em>kello <b>kuudeksi</b></em> “by six o’clock”</li>
+  <li>[et] <em>kell kuus</em> “six o’clock”; <em>kella <b>kuueks</b></em> “by six o’clock”</li>
+  <li>[hu] <em>Oroszlány halott <b>várossá</b> válhat.</em> lit. <em>Oroszlány dead city.Tra
+could-become.</em> “Oroszlány could become a dead city.”</li>
+</ul>
 
 <h3 id="com-comitative--associative">Com: comitative / associative</h3>
 
-<p>The comitative (also called
-associative) case corresponds to English “together with …”</p>
+<p>The comitative (also called associative) case corresponds to English
+“together with …”</p>
 
-<p>Examples: [et]
-<em>koer</em>
-=
-dog;
-<em><b>koeraga</b></em>
-=
-with
-dog.</p>
+<h4 id="examples-11">Examples</h4>
+
+<ul>
+  <li>[et] <em>koer</em> “dog”; <em><b>koeraga</b></em> “with dog”</li>
+</ul>
 
 <h3 id="abe-abessive">Abe: abessive</h3>
 
-<p>The abessive
-case corresponds to the
-English preposition <em>without</em>.</p>
+<p>The abessive case corresponds to the English preposition <em>without</em>.</p>
 
-<p>Examples: [fi]
-<em>raha</em>
-=
-money;
-<em><b>rahatta</b></em>
-=
-without
-money.</p>
+<h4 id="examples-12">Examples</h4>
+
+<ul>
+  <li>[fi] <em>raha</em> “money”; <em><b>rahatta</b></em> “without money”</li>
+</ul>
 
 <h3 id="ine-inessive">Ine: inessive</h3>
 
-<p>The inessive
-case expresses location inside of something.</p>
+<p>The inessive case expresses location inside of something.</p>
 
-<p>Examples: [hu]
-<em>ház</em>
-=
-house;
-<em><b>házban</b></em>
-=
-in
-the house; [fi] <em>talo</em>
-= house; <em><b>talossa</b></em>
-= in the house; [et] <em>maja</em>
-= house; <em><b>majas</b></em>
-= in the house.</p>
+<h4 id="examples-13">Examples</h4>
+
+<ul>
+  <li>[hu] <em>ház</em> “house”; <em><b>házban</b></em> “in the house”</li>
+  <li>[fi] <em>talo</em> “house”; <em><b>talossa</b></em> “in the house”</li>
+  <li>[et] <em>maja</em> “house”; <em><b>majas</b></em> “in the house”</li>
+</ul>
 
 <h3 id="ill-illative">Ill: illative</h3>
 
-<p>The illative
-case expresses direction
-into
-something.</p>
+<p>The illative case expresses direction into something.</p>
 
-<p>Examples: [hu]
-<em>ház</em>
-=
-house;
-<em><b>házb</b><b>a</b></em>
-=
-into
-the house; [fi] <em>talo</em>
-= house; <em><b>talo</b><b>on</b></em>
-= into
-the house; [et] <em>maja</em>
-= house; <em><b>majas</b><b>se
-/ majja</b></em>
-= into
-the house.</p>
+<h4 id="examples-14">Examples</h4>
+
+<ul>
+  <li>[hu]<em>ház</em> “house”; <em><b>házb</b><b>a</b></em> “into the house”</li>
+  <li>[fi] <em>talo</em> “house”; <em><b>talo</b><b>on</b></em> “into the house”</li>
+  <li>[et] <em>maja</em> “house”; <em><b>majas</b><b>se / majja</b></em> “into the house”</li>
+</ul>
 
 <h3 id="ela-elative">Ela: elative</h3>
 
-<p>The elative
-case expresses direction
-out
-of something.</p>
+<p>The elative case expresses direction out of something.</p>
 
-<p>Examples: [hu]
-<em>ház</em>
-=
-house;
-<em><b>házból</b></em>
-=
-from
-the house; [fi] <em>talo</em>
-= house; <em><b>talos</b><b>t</b><b>a</b></em>
-= from
-the house; [et] <em>maja</em>
-= house; <em><b>majas</b><b>t</b></em>
-= from
-the house.</p>
+<h4 id="examples-15">Examples</h4>
+
+<ul>
+  <li>[hu]<em>ház</em> “house”; <em><b>házból</b></em> “from the house”</li>
+  <li>[fi] <em>talo</em> “house”; <em><b>talos</b><b>t</b><b>a</b></em> “from the house”</li>
+  <li>[et] <em>maja</em> “house”; <em><b>majas</b><b>t</b></em> “from the house”</li>
+</ul>
 
 <h3 id="add-additive">Add: additive</h3>
 
-<p>Distinguished by some scholars in
-Estonian, not recognized by traditional grammar, exists in the
-Multext-East Estonian tagset and in the Eesti keele puudepank.
-Reportedly same or similar meaning as illative. Forms of this case
-exist only in singular and not for all nouns.</p>
+<p>Distinguished by some scholars in Estonian, not recognized by
+traditional grammar, exists in the Multext-East Estonian tagset and in
+the Eesti keele puudepank.  Reportedly same or similar meaning as
+illative. Forms of this case exist only in singular and not for all
+nouns.</p>
 
 <h3 id="ade-adessive">Ade: adessive</h3>
 
-<p>The adessive case expresses location at or on something.
-The corresponding directional cases are allative (towards something) and
+<p>The adessive case expresses location at or on something.  The
+corresponding directional cases are allative (towards something) and
 ablative (from something).</p>
 
-<p>Examples: [hu]
-<em>pénztár</em>
-=
-cash
-desk;
-<em><b>pénztárnál</b></em>
-=
-at
-the cash desk;
-[fi] <em>pöytä</em>
-= table;
-<em><b>pöydällä</b></em>
-= on
-the table;
-[et] <em>laud</em>
-= table;
-<em><b>laual</b></em>
-= on
-the table.</p>
+<h4 id="examples-16">Examples</h4>
+
+<ul>
+  <li>[hu] <em>pénztár</em> “cash desk”; <em><b>pénztárnál</b></em> “at the cash desk”</li>
+  <li>[fi] <em>pöytä</em> “table”; <em><b>pöydällä</b></em> “on the table”</li>
+  <li>[et] <em>laud</em> “table”;<em><b>laual</b></em> “on the table”</li>
+</ul>
 
 <p>Note that adessive is used to express location on the surface of
-something in Finnish and Estonian, but does not carry this meaning
-in Hungarian.</p>
+something in Finnish and Estonian, but does not carry this meaning in
+Hungarian.</p>
 
 <h3 id="all-allative">All: allative</h3>
 
-<p>The allative case expresses direction to something (destination
-is adessive, i.e. at or on that something).</p>
+<p>The allative case expresses direction to something (destination is
+adessive, i.e. at or on that something).</p>
 
-<p>Examples: [hu]
-<em>pénztár</em>
-=
-cash
-desk;
-<em><b>pénztár</b><b>hoz</b></em>
-=
-to
-the cash desk;
-[fi]
-<em>pöytä</em>
-= table;
-<em><b>pöydäll</b><b>e</b></em>
-= onto
-the table.</p>
+<h4 id="examples-17">Examples</h4>
+
+<ul>
+  <li>[hu] <em>pénztár</em> “cash desk”; <em><b>pénztár</b><b>hoz</b></em> “to the cash desk”</li>
+  <li>[fi] <em>pöytä</em> “table”; <em><b>pöydäll</b><b>e</b></em> “onto the table”</li>
+</ul>
 
 <h3 id="abl-ablative">Abl: ablative</h3>
 
-<p>Prototypical meaning: direction from
-some point.</p>
+<p>Prototypical meaning: direction from some point.</p>
 
-<p>Examples: [hu]
-a <em><b>barátomtól</b></em>
-jövök (I’m
-coming <b>from
-my friend</b>);
-[fi]
-<em>pöydältä</em>
-(from
-the table);
-<em>katolta</em>
-(from
-the roof);
-<em>rannalta</em>
-(from
-the beach)</p>
+<h4 id="examples-18">Examples</h4>
+
+<ul>
+  <li>[hu] <em>a <b>barátomtól</b> jövök</em> “I’m coming <b>from my friend</b>”</li>
+  <li>[fi] <em>pöydältä</em> “from the table”; <em>katolta</em> “from the roof”;
+<em>rannalta</em> “from the beach”</li>
+</ul>
 
 <h3 id="sup-superessive">Sup: superessive</h3>
 
-<p>Used,
-chiefly <a href="http://www.hungarianreference.com/Nouns/-n-superessive.aspx">in
-Hungarian</a>, to
-indicate location on top of something or on the surface of something.</p>
+<p>Used, chiefly <a href="http://www.hungarianreference.com/Nouns/-n-superessive.aspx">in
+Hungarian</a>, to indicate location on top of something or on the
+surface of something.</p>
 
-<p>Examples: [hu]
-<em>asztal</em>
-=
-table;
-<em><b>asztalon</b></em>
-=
-on
-the table;
-<em>könyvek</em>
-=
-books; <em><b>könyveken</b></em>
-=
-on books.</p>
+<h4 id="examples-19">Examples</h4>
+
+<ul>
+  <li>[hu] <em>asztal</em> “table”; <em><b>asztalon</b></em> “on the table”</li>
+  <li>[hu] <em>könyvek</em> “books”; <em><b>könyveken</b></em> “on books”</li>
+</ul>
 
 <h3 id="sub-sublative">Sub: sublative</h3>
 
-<p>The sublative
-case is
-used in Finno-Ugric languages to express the destination of movement,
-originally to the surface of something (e.g. “to climb a
-tree”), and, by extension, in other figurative meanings as well
-(e.g. “to university”).</p>
+<p>The sublative case is used in Finno-Ugric languages to express the
+destination of movement, originally to the surface of something
+(e.g. “to climb a tree”), and, by extension, in other figurative
+meanings as well (e.g. “to university”).</p>
 
-<p>Examples: [hu]
-<em>Belgrádtól 150 <b>kilométerre
-délnyugatra</b></em>
-= lit.
-Belgrade.Abl
-150 kilometer.Sub southwest.Sub = 150 kilometers southwest of
-Belgrade; <em>hajó</em>
-=
-ship; <em><b>hajóra</b></em>
-=
-onto the ship; <em><b>bokorra</b></em>
-=
-on the shrub.</p>
+<h4 id="examples-20">Examples</h4>
+
+<ul>
+  <li>[hu] <em>Belgrádtól 150 <b>kilométerre délnyugatra</b></em> lit.
+<em>Belgrade.Abl 150 kilometer.Sub southwest.Sub</em> “150 kilometers
+southwest of Belgrade”</li>
+  <li>[hu] <em>hajó</em> “ship”; <em><b>hajóra</b></em> “onto the ship”</li>
+  <li>[hu] <em><b>bokorra</b></em> “on the shrub”</li>
+</ul>
 
 <h3 id="del-delative">Del: delative</h3>
 
-<p>Used,
-chiefly <a href="http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx">in
-Hungarian</a>,
-to express the movement from the surface of something (like “moved
-off the table”). Other
-meanings are possible as well, e.g. “about something”.</p>
+<p>Used, chiefly <a href="http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx">in
+Hungarian</a>, to express the movement from the surface of something
+(like “moved off the table”). Other meanings are possible as well,
+e.g. “about something”.</p>
 
-<p>Examples: [hu]
-<em>asztal</em>
-=
-table;
-<em>az <b>asztal</b><b>ról</b></em>
-=
-off
-the table;
-<em><b>Budapestről</b>
-jövök</em>
-= I
-am coming from Budapest.</p>
+<h4 id="examples-21">Examples</h4>
+
+<ul>
+  <li>[hu] <em>asztal</em> “table”; <em>az <b>asztal</b><b>ról</b></em> “off the table”</li>
+  <li>[hu]<em><b>Budapestről</b> jövök</em> “I am coming from Budapest”</li>
+</ul>
 
 <h3 id="lat-lative--directional-allative">Lat: lative / directional allative</h3>
 
-<p>The
-lative case denotes
-movement towards/to/into/onto something. Similar case in Basque is
-called directional allative (Spanish <em>adlativo
-direccional</em>).
-However, lative is typically thought of as a union of allative,
-illative and sublative, while in Basque it is derived from allative,
-which also exists independently.</p>
+<p>The lative case denotes movement towards/to/into/onto
+something. Similar case in Basque is called directional allative
+(Spanish <em>adlativo direccional</em>).  However, lative is typically
+thought of as a union of allative, illative and sublative, while in
+Basque it is derived from allative, which also exists independently.</p>
 
-<p>Examples:
-[eu] <em>behe</em>
-= low; <em><b>beherantz</b></em>
-= down.</p>
+<h4 id="examples-22">Examples</h4>
+
+<ul>
+  <li>[eu] <em>behe</em> “low”; <em><b>beherantz</b></em> “down”</li>
+</ul>
 
 <h3 id="tem-temporal">Tem: temporal</h3>
 
-<p>The
-temporal
-case is used to indicate
-time.</p>
+<p>The temporal case is used to indicate time.</p>
 
-<p>Examples:
-[hu]
-<em><b>hétkor</b></em>
-= at seven (o’clock);
-<em><b>éjfélkor</b></em>
-= at midnight;
-<em><b>karácsonykor</b></em>
-= at Christmas.</p>
+<h4 id="examples-23">Examples</h4>
+
+<ul>
+  <li>[hu] <em><b>hétkor</b></em> “at seven (o’clock)”; <em><b>éjfélkor</b></em> “at midnight”;
+<em><b>karácsonykor</b></em> “at Christmas”</li>
+</ul>
 
 <h3 id="ter-terminative--terminal-allative">Ter: terminative / terminal allative</h3>
 
-<p>The
-terminative
-case specifies where something ends in space or time. Similar
-case in Basque is called terminal allative (Spanish <em>adlativo
-terminal</em>). </p>
+<p>The terminative case specifies where something ends in space or
+time. Similar case in Basque is called terminal allative (Spanish
+<em>adlativo terminal</em>).</p>
 
-<p>Examples:
-[et]
-<em><b>jõeni</b></em>
-= down to the river; <em>kella
-<b>kuueni</b></em>
-= till six o’clock; [hu] <em>a
-<b>házig</b></em>
-= up to the house; <em>hat
-<b>óráig</b></em>
-= till six o’clock; [eu] <em>erdi</em>
-= half; <em><b>erdiraino</b></em>
-= up to the half.</p>
+<h4 id="examples-24">Examples</h4>
+
+<ul>
+  <li>[et] <em><b>jõeni</b></em> “down to the river”; <em>kella <b>kuueni</b></em>
+“till six o’clock”</li>
+  <li>[hu] <em>a <b>házig</b></em> “up to the house”; <em>hat <b>óráig</b></em> “till
+six o’clock”</li>
+  <li>[eu] <em>erdi</em> “half”; <em><b>erdiraino</b></em> “up to the half”</li>
+</ul>
 
 <h3 id="cau-causative--motivative">Cau: causative / motivative</h3>
 
-<p>Noun
-in this case is the cause of something. In
-Hungarian it also seems to be used frequently with currency (“to
-buy something <em>for</em>
-the money”) and it also can mean the goal of something.</p>
+<p>Noun in this case is the cause of something. In Hungarian it also
+seems to be used frequently with currency (“to buy something <em>for</em> the
+money”) and it also can mean the goal of something.</p>
 
-<p>Examples:
-[hu]
-<em>Egy
-világcég benzinkútjánál 7183 <b>forintért</b>
-tankoltam.</em> = lit. a world-wide.company petrol.station.Ade 7183 forint.Cau refueled = I refueled my car at the petrol station of a world-wide company for 7183 forints. 
-<em>Elmentem a boltba <b>tejért</b>.</em> = lit. went the shop.Ill milk.Cau = I went to the shop to buy milk.
-[eu]
-<em>jokaera</em>
-= behavior; <em><b>jokaeragatik</b></em>
-= because of behavior.</p>
+<h4 id="examples-25">Examples</h4>
+
+<ul>
+  <li>[hu] <em>Egy világcég benzinkútjánál 7183 <b>forintért</b> tankoltam.</em>
+lit. <em>a world-wide.company petrol.station.Ade 7183 forint.Cau
+refueled</em> “I refueled my car at the petrol station of a world-wide
+company for 7183 forints.”</li>
+  <li>[hu] <em>Elmentem a boltba <b>tejért</b>.</em> lit. <em>went the shop.Ill
+milk.Cau</em> “I went to the shop to buy milk.”</li>
+  <li>[eu] <em>jokaera</em> “behavior”; <em><b>jokaeragatik</b></em> “because of
+behavior”</li>
+</ul>
 
 <h3 id="ben-benefactive--destinative">Ben: benefactive / destinative</h3>
 
-<p>The
-benefactive case corresponds to the English preposition <em>for</em>.</p>
+<p>The benefactive case corresponds to the English preposition <em>for</em>.</p>
 
-<p>Examples:
-[eu]
-<em>mutil</em>
-= boy;
-<em><b>mutilarentzat</b></em>
-= for boys.</p>
+<h4 id="examples-26">Examples</h4>
+
+<ul>
+  <li>[eu] <em>mutil</em> “boy”; <em><b>mutilarentzat</b></em> “for boys”</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-feat/Case.md" target="#">edit Case</a></p>
 
