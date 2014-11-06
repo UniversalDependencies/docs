@@ -36,61 +36,67 @@
 
           <h2><code>Gender</code>: gender</h2>
 
-<p>Gender is usually a lexical feature of nouns and inflectional
-feature of other parts of speech (adjectives, verbs) that mark
-agreement with nouns. In English gender affects only the choice of
-the personal pronoun <i>(he / she / it)</i> and the feature is
-usually not encoded in English tagsets.</p>
+<p>Gender is usually a lexical feature of nouns and inflectional feature
+of other parts of speech (adjectives, verbs) that mark agreement with
+nouns. In English gender affects only the choice of the personal
+pronoun <em>(he / she / it)</em> and the feature is usually not encoded in
+English tagsets.</p>
 
-<p>See also the related feature of <a href="Animacy.html">Animacy</a>.</p>
+<p>See also the related feature of <a href="">Animacy</a>.</p>
 
 <p>African languages have an analogous feature of noun classes: there
 might be separate grammatical categories for flat objects, long thin
 objects etc. African noun classes are not covered in the current
 proposal because none of the tagsets on which the proposal is based
-are for a language with noun classes. They might be added
-in future.</p>
+are for a language with noun classes. They might be added in future.</p>
 
-<h3 id="masc-masculine-gender">Masc: masculine gender</h3>
+<h3 id="masc-masculine-gender"><code>Masc</code>: masculine gender</h3>
 
 <p>Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.</p>
 
-<p>Example: [cs]
-<i><span style="color: red">hrad</span></i> (castle)</p>
+<h4 id="examples">Examples</h4>
 
-<h3 id="fem-feminine-gender">Fem: feminine gender</h3>
+<ul>
+  <li>[cs] <em><b>hrad</b></em> “castle”</li>
+</ul>
 
-<p>Nouns denoting
-female persons are feminine. Other nouns may be also grammatically
-feminine, without any relation to sex.</p>
+<h3 id="fem-feminine-gender"><code>Fem</code>: feminine gender</h3>
 
-<p>Example: [de] <i><span style="color: red">Burg</span></i>
-(castle)</p>
+<p>Nouns denoting female persons are feminine. Other nouns may be also
+grammatically feminine, without any relation to sex.</p>
 
-<h3 id="neut-neuter-gender">Neut: neuter gender</h3>
+<h4 id="examples-1">Examples</h4>
 
-<p>Some
-languages have only the masculine/feminine distinction while others
-also have this third gender for nouns that are neither masculine nor
-feminine (grammatically).</p>
+<ul>
+  <li>[de] <em><b>Burg</b></em> “castle”</li>
+</ul>
 
-<p>Example: [cs] <i><span style="color:red">dítě</span></i> (child)</p>
+<h3 id="neut-neuter-gender"><code>Neut</code>: neuter gender</h3>
 
-<h3 id="com-common-gender">Com: common gender</h3>
+<p>Some languages have only the masculine/feminine distinction while
+others also have this third gender for nouns that are neither
+masculine nor feminine (grammatically).</p>
 
-<p>Some languages do not distinguish
-masculine/feminine most of the time but they do distinguish neuter
-vs. non-neuter (Swedish neutrum / utrum). The non-neuter is called
-common gender.</p>
+<h4 id="examples-2">Examples</h4>
 
-<p>Note that it
-could also be expressed as a combined value <code>Gender=Fem,Masc</code>.
-Nevertheless we keep <code>Com</code> also as a separate value.
-Combined feature values should only be used in exceptional, undecided cases,
-not for something that occurs systematically in the grammar.
-Language-specific extensions to these guidelines should determine
-whether the <code>Com</code> value is appropriate for a particular language.</p>
+<ul>
+  <li>[cs] <em><b>dítě</b></em> “child”</li>
+</ul>
+
+<h3 id="com-common-gender"><code>Com</code>: common gender</h3>
+
+<p>Some languages do not distinguish masculine/feminine most of the time
+but they do distinguish neuter vs. non-neuter (Swedish neutrum /
+utrum). The non-neuter is called common gender.</p>
+
+<p>Note that it could also be expressed as a combined value
+<code>Gender=Fem,Masc</code>. Nevertheless we keep <code>Com</code> also as a separate
+value. Combined feature values should only be used in exceptional,
+undecided cases, not for something that occurs systematically in the
+grammar. Language-specific extensions to these guidelines should
+determine whether the <code>Com</code> value is appropriate for a particular
+language.</p>
 
 
 <!-- "in other languages" links -->

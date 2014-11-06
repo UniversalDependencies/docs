@@ -36,124 +36,107 @@
 
           <h2><code>VerbForm</code>: form of verb or deverbative</h2>
 
-<p>Even
-though the name of the feature seems to suggest that it is used
-exclusively with <a href="u-pos/VERB">verbs</a>, it is not the case. Some verb forms in some
-languages actually form a gray zone between verbs and other parts of
-speech (<a href="u-pos/NOUN">nouns</a>, <a href="u-pos/ADJ">adjectives</a> and 
-<a href="u-pos/ADV">adverbs</a>). For instance, participles may
-be either classified as verbs or as adjectives, depending on language
-and context. In both cases <code>VerbForm=Part</code> may be used to separate them
+<p>Even though the name of the feature seems to suggest that it is used
+exclusively with <a href="u-pos/VERB">verbs</a>, it is not the case. Some verb
+forms in some languages actually form a gray zone between verbs and
+other parts of speech (<a href="u-pos/NOUN">nouns</a>, <a href="u-pos/ADJ">adjectives</a>
+and <a href="u-pos/ADV">adverbs</a>). For instance, participles may be either
+classified as verbs or as adjectives, depending on language and
+context. In both cases <code>VerbForm=Part</code> may be used to separate them
 from other verb forms or other types of adjectives.</p>
 
-<h3 id="fin-finite-verb">Fin: finite verb</h3>
+<h3 id="fin-finite-verb"><code>Fin</code>: finite verb</h3>
 
-<p>Rule
-of thumb: if it has non-empty <a href="">Mood</a>, it is finite. But beware that
-some tagsets conflate verb forms and moods into one feature.</p>
+<p>Rule of thumb: if it has non-empty <a href="">Mood</a>, it is finite. But beware
+that some tagsets conflate verb forms and moods into one feature.</p>
 
-<p>Examples:
-[en]
-<i>I
-</i><span style="color: red"><i>do</i></span><i>,
-he </i><span style="color: red"><i>does</i></span>.</p>
-
-<h3 id="inf-infinitive">Inf: infinitive</h3>
-
-<p>Infinitive is
-the citation form of verbs in many languages. Unlike in English, it
-often has morphological form that is distinct from the finite forms.
-Infinitives may be used together with auxiliaries to form
-periphrastic tenses (e.g. future tense [cs] <i>budu
-</i><span style="color: red"><i>sedět</i></span><i>
-v letadle</i>
-(I
-will sit in a plane)), they appear as arguments of modal verbs etc.
-In some languages they behave similarly to nouns and are used as such
-(similar to the gerund in English).</p>
-
-<p>Examples:
-[de]
-<i>ich
-muss </i><span style="color: red"><i>gehen</i></span>
-(I must go).</p>
-
-<h3 id="sup-supine">Sup: supine</h3>
-
-<p>Supine is a rare verb form. It
-survives in some Slavic languages (Slovenian) and is used instead of
-infinitive as the argument of motion verbs
-(old [cs] <i>jdu <span style="color:red">spat</span></i> = lit. I-go sleep).</p>
-
-<p>A form called “supine” also
-exists in Swedish where it is a special form of the participle,
-used to form the composite past form of a verb.
-It is used after the auxiliary verb <i>ha</i> (to have) but not after
-<i>vara</i> (to be):</p>
+<h4 id="examples">Examples</h4>
 
 <ul>
-  <li>Simple past: I ate (the) dinner = <i>Jag åt maten</i> (using preterite)</li>
-  <li>Composite past: I have eaten (the) dinner = <i>Jag har <span style="color:red">ätit</span> maten</i> (using supine)</li>
-  <li>Past participle common: (The) dinner is eaten = <i>Maten är äten</i> (using past participle)</li>
-  <li>Past participle neuter: (The) apple is eaten = <i>Äpplet är ätet</i></li>
-  <li>Past participle plural: (The) apples are eaten = <i>Äpplena är ätna</i> </li>
+  <li>[en] <em>I <b>do</b>, he <b>does</b></em></li>
 </ul>
 
-<h3 id="part-participle">Part: participle</h3>
+<h3 id="inf-infinitive"><code>Inf</code>: infinitive</h3>
 
-<p>Participle
-is a non-finite verb form that shares properties of verbs and
-adjectives. Its usage varies across languages. It may be used to form
-various periphrastic verb forms such as complex tenses and passives;
-it may be also used purely adjectively.</p>
+<p>Infinitive is the citation form of verbs in many languages. Unlike in
+English, it often has morphological form that is distinct from the
+finite forms. Infinitives may be used together with auxiliaries to
+form periphrastic tenses (e.g. future tense [cs] <em>budu <b>sedět</b> v
+letadle</em> “I will sit in a plane”), they appear as arguments of modal
+verbs etc.  In some languages they behave similarly to nouns and are
+used as such (similar to the gerund in English).</p>
 
-<p>Other
-features may help to distinguish past/present participles (English),
-active/passive participles (Czech), imperfect/perfect participles
-(Hindi) etc.</p>
+<h4 id="examples-1">Examples</h4>
 
-<p>Examples:
-[en]
-<i>he
-could have </i><span style="color: red"><i>been
-prepared</i></span><i>
-if he had </i><span style="color: red"><i>forseen</i></span><i>
-it</i>;
-<i>I
-will be </i><span style="color: red"><i>driving</i></span><i>
-home</i>.</p>
+<ul>
+  <li>[de] _ich muss _<b><em>gehen</em></b> “I must <b>go</b>”</li>
+</ul>
 
-<h3 id="trans-transgressive">Trans: transgressive</h3>
+<h3 id="sup-supine"><code>Sup</code>: supine</h3>
 
-<p>The
-transgressive, also called adverbial participle, is a non-finite verb
-form that shares properties of verbs and adverbs. It appears e.g. in
-Slavic and Indo-Aryan languages.</p>
+<p>Supine is a rare verb form. It survives in some Slavic languages
+(Slovenian) and is used instead of infinitive as the argument of
+motion verbs (old [cs] <em>jdu <b>spat</b></em> lit. <em>I-go sleep</em>).</p>
 
-<p>Examples:
-[cs] <i>zírali na
-mne, pevně </i><span style="color: red"><i>svírajíce</i></span><i>
-své zbraně</i>
-(they stared at me <span style="color: red">while
-gripping</span> their guns firmly); <span style="color: red"><i>udělavši</i></span><i>
-večeři, zavolala rodinu ke stolu</i>
-(<span style="color: red">having
-prepared</span> the dinner, she called her
-family to the table).</p>
+<p>A form called “supine” also exists in Swedish where it is a special
+form of the participle, used to form the composite past form of a
+verb.  It is used after the auxiliary verb <em>ha</em> (to have) but not
+after <em>vara</em> (to be):</p>
 
-<h3 id="ger-gerund">Ger: gerund</h3>
+<ul>
+  <li>Simple past: I ate (the) dinner = <em>Jag åt maten</em> (using preterite)</li>
+  <li>Composite past: I have eaten (the) dinner = <em>Jag har <b>ätit</b> maten</em> (using supine)</li>
+  <li>Past participle common: (The) dinner is eaten = <em>Maten är äten</em> (using past participle)</li>
+  <li>Past participle neuter: (The) apple is eaten = <em>Äpplet är ätet</em></li>
+  <li>Past participle plural: (The) apples are eaten = <em>Äpplena är ätna</em> </li>
+</ul>
 
-<p>Gerund
-is a non-finite verb form that shares properties of verbs and nouns.
-In English it shares the morphological
-form with present participle, which may mean that the tagset will not
-distinguish it from the participle.</p>
+<h3 id="part-participle"><code>Part</code>: participle</h3>
 
-<p>Examples:
-[en] <i>I look forward to </i><span style="color: red"><i>seeing</i></span><i>
-you</i>; <i>he
-turns a blind eye to my </i><span style="color: red"><i>being</i></span><i>
-late</i>.</p>
+<p>Participle is a non-finite verb form that shares properties of verbs
+and adjectives. Its usage varies across languages. It may be used to
+form various periphrastic verb forms such as complex tenses and
+passives; it may be also used purely adjectively.</p>
+
+<p>Other features may help to distinguish past/present participles
+(English), active/passive participles (Czech), imperfect/perfect
+participles (Hindi) etc.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[en] <em>he could have <b>been prepared</b> if he had
+<b>forseen</b> it</em>; <em>I will be <b>driving</b> home</em>.</li>
+</ul>
+
+<h3 id="trans-transgressive"><code>Trans</code>: transgressive</h3>
+
+<p>The transgressive, also called adverbial participle, is a non-finite
+verb form that shares properties of verbs and adverbs. It appears
+e.g. in Slavic and Indo-Aryan languages.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[cs] <em>zírali na mne, pevně <b>svírajíce</b> své zbraně</em> “they
+stared at me <b>while gripping</b> their guns firmly”;
+<em><b>udělavši</b> večeři, zavolala rodinu ke stolu</em> “<b>having
+prepared</b> the dinner, she called her family to the table”</li>
+</ul>
+
+<h3 id="ger-gerund"><code>Ger</code>: gerund</h3>
+
+<p>Gerund is a non-finite verb form that shares properties of verbs and
+nouns. In English it shares the morphological form with present
+participle, which may mean that the tagset will not distinguish it
+from the participle.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[en] <em>I look forward to <b>seeing</b> you</em>; <em>he turns a blind
+eye to my <b>being</b> late</em></li>
+</ul>
 
 
 <!-- "in other languages" links -->

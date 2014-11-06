@@ -37,20 +37,20 @@
           <h2><code>NumType</code>: numeral type</h2>
 
 <p>Some languages (especially Slavic) have a complex system of
-<a href="u-pos/NUM">numerals</a>.
-For example, in the school grammar of Czech, the main part of speech
-is “numeral”, it includes almost everything where counting is
-involved and there are various subtypes. It also includes
-interrogative, relative, indefinite and demonstrative words referring
-to numbers (words like <em>kolik / how many, tolik / so many, několik / some, a few),</em>
-so at the same time we may have a non-empty value of <a href="">PronType</a>.
-(In English, these words are called quantifiers and they are
-considered a subgroup of <a href="u-pos/DET">determiners</a>.)</p>
+<a href="u-pos/NUM">numerals</a>. For example, in the school grammar of Czech,
+the main part of speech is “numeral”, it includes almost everything
+where counting is involved and there are various subtypes. It also
+includes interrogative, relative, indefinite and demonstrative words
+referring to numbers (words like <em>kolik / how many, tolik / so many,
+několik / some, a few),</em> so at the same time we may have a non-empty
+value of <a href="">PronType</a>.  (In English, these words are called
+quantifiers and they are considered a subgroup of
+<a href="u-pos/DET">determiners</a>.)</p>
 
-<p>From the syntactic point of view, some numtypes behave like
-adjectives and some behave like adverbs. We tag them <a href="">u-pos/ADJ</a>
-and <a href="">u-pos/ADV</a> respectively.
-Thus the NumType feature applies to several different parts of speech:</p>
+<p>From the syntactic point of view, some numtypes behave like adjectives
+and some behave like adverbs. We tag them <a href="">u-pos/ADJ</a> and
+<a href="">u-pos/ADV</a> respectively. Thus the <code>NumType</code> feature applies to
+several different parts of speech:</p>
 
 <ul>
   <li><a href="">u-pos/NUM</a>: cardinal numerals</li>
@@ -59,63 +59,100 @@ Thus the NumType feature applies to several different parts of speech:</p>
   <li><a href="">u-pos/ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal</li>
 </ul>
 
-<h3 id="card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word">Card: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+<h3 id="card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Card</code>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
 
 <p>Note that in some Indo-European languages there is a fuzzy borderline
 between numerals and nouns for <em>thousand, million</em> and <em>billion.</em></p>
 
-<p>Examples: [en] <em>one, two, three;</em> [cs] <em>jeden, dva, tři; kolik</em> (how many), <em>několik</em> (some),
-<em>tolik</em> (so many), <em>mnoho</em> (many), <em>málo</em> (few)_</p>
+<h4 id="examples">Examples</h4>
 
-<h3 id="ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word">Ord: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+<ul>
+  <li>[en] <em>one, two, three</em> </li>
+  <li>[cs] <em>jeden, dva, tři</em> “one, two, three”; <em>kolik</em> “how many”;
+<em>několik</em> “some”; <em>tolik</em> “so many”; <em>mnoho</em> “many”; <em>málo</em> “few”</li>
+</ul>
+
+<h3 id="ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Ord</code>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
 
 <p>This is a subtype of adjective or (in some languages) of adverb.</p>
 
-<p>Examples: [en] <em>first, second, third;</em> [cs] adjectival: <em>první</em> (first), <em>druhý</em> (second), <em>třetí</em>
-(third); <em>kolikátý</em> (“how manieth” = which rank), <em>několikátý</em> (some
-rank), <em>tolikátý</em> (this/that rank); [cs] adverbial: <em>poprvé</em> (for the first time), <em>podruhé</em> (for
-the second time), <em>potřetí</em> (for the third time); <em>pokolikáté</em> (for which
-time), <em>poněkolikáté</em> (for x-th time), <em>potolikáté</em></p>
+<h4 id="examples-1">Examples</h4>
 
-<h3 id="mult-multiplicative-numeral-or-corresponding-interrogative--relative--indefinite--demonstrative-word">Mult: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+<ul>
+  <li>[en] <em>first, second, third;</em> </li>
+  <li>[cs] adjectival: <em>první</em> “first”; <em>druhý</em> “second”, <em>třetí</em> “third”;
+<em>kolikátý</em> lit. <em>how manieth</em> “which rank”; <em>několikátý</em> “some
+rank”; <em>tolikátý</em> “this/that rank”</li>
+  <li>[cs] adverbial: <em>poprvé</em> “for the first time”; <em>podruhé</em> “for the
+second time”; <em>potřetí</em> “for the third time”; <em>pokolikáté</em> “for
+which time”, <em>poněkolikáté</em> “for x-th time”, <em>potolikáté</em></li>
+</ul>
+
+<h3 id="mult-multiplicative-numeral-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Mult</code>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word</h3>
 
 <p>This is subtype of adverb.</p>
 
-<p>Examples: [cs] <em>jednou</em> (once), <em>dvakrát</em> (twice), <em>třikrát</em> (three times);
-<em>kolikrát</em> (how many times), <em>několikrát</em> (several times), <em>tolikrát</em> (so
-many times)</p>
+<h4 id="examples-2">Examples</h4>
 
-<h3 id="frac-fraction">Frac: fraction</h3>
+<ul>
+  <li>[cs] <em>jednou</em> “once”; <em>dvakrát</em> “twice”; <em>třikrát</em> “three times”;
+<em>kolikrát</em> “how many times”, <em>několikrát</em> “several times”;
+<em>tolikrát</em> “so many times”</li>
+</ul>
 
-<p>This is a subtype of cardinal numbers, occasionally distinguished in corpora.
-It may denote a fraction or just the denominator of the fraction.
-In various languages these words may behave morphologically and syntactically
-as nouns or ordinal numerals.</p>
+<h3 id="frac-fraction"><code>Frac</code>: fraction</h3>
 
-<p>Examples: [en] <em>three-quarters;</em> [cs] <em>půl / polovina</em> (half), <em>třetina</em> (one third), <em>čtvrt / čtvrtina</em> (quarter)</p>
+<p>This is a subtype of cardinal numbers, occasionally distinguished in
+corpora. It may denote a fraction or just the denominator of the
+fraction. In various languages these words may behave morphologically
+and syntactically as nouns or ordinal numerals.</p>
 
-<h3 id="sets-number-of-sets-of-things">Sets: number of sets of things</h3>
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[en] <em>three-quarters</em></li>
+  <li>[cs] <em>půl / polovina</em> “half”; <em>třetina</em> “one third”; <em>čtvrt /
+čtvrtina</em> “quarter”</li>
+</ul>
+
+<h3 id="sets-number-of-sets-of-things"><code>Sets</code>: number of sets of things</h3>
 
 <p>Morphologically distinct class of numerals used to count sets of
 things, or nouns that are pluralia tantum.</p>
 
-<p>Examples: [cs] <em><span style="color:red">dvoje</span> / <span style="color:red">troje</span> boty</em> (two / three [pairs of] shoes); as opposed to normal cardinal numbers: <em>dvě / tři boty</em> (two / three shoes)</p>
+<h4 id="examples-4">Examples</h4>
 
-<h3 id="dist-distributive-numeral">Dist: distributive numeral</h3>
+<ul>
+  <li>[cs] <em><b>dvoje</b> / <b>troje</b> boty</em> “<b>two</b> / <b>three</b>
+[pairs of] shoes”; as opposed to normal cardinal numbers: <em>dvě / tři
+boty</em> “two / three shoes”</li>
+</ul>
 
-<p>Used to express that the same quantity is distributed to each member in a set of targets.</p>
+<h3 id="dist-distributive-numeral"><code>Dist</code>: distributive numeral</h3>
 
-<p>Examples: [hu] <em>három-három</em> in <em>gyermekenként <span style="color:red">három-három</span> ezer
-forinttal</em> (three thousand forint per child)</p>
+<p>Used to express that the same quantity is distributed to each member
+in a set of targets.</p>
 
-<h3 id="range-range-of-values">Range: range of values</h3>
+<h4 id="examples-5">Examples</h4>
 
-<p>This could be considered a subtype of cardinal numbers, occasionally distinguished in corpora.</p>
+<ul>
+  <li>[hu] <em>három-három in gyermekenként <b>három-három</b> ezer
+forinttal</em> “three thousand forint per child”</li>
+</ul>
 
-<p>Examples: [en] <em>two-five</em> (two to five) – provided tokenization
-leaves it as one token.</p>
+<h3 id="range-range-of-values"><code>Range</code>: range of values</h3>
 
-<h3 id="gen-generic-numeral-ie-a-numeral-that-is-neither-of-the-above">Gen: generic numeral, i.e. a numeral that is neither of the above</h3>
+<p>This could be considered a subtype of cardinal numbers, occasionally
+distinguished in corpora.</p>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li>[en] <em>two-five</em> “two to five” (provided tokenization leaves it as
+one token.)</li>
+</ul>
+
+<h3 id="gen-generic-numeral-ie-a-numeral-that-is-neither-of-the-above"><code>Gen</code>: generic numeral, i.e. a numeral that is neither of the above</h3>
 
 <p>Czech school grammar distinguishes this subclass, which is why it
 appears in Czech tagsets. Other Slavic languages may have similar
@@ -123,11 +160,15 @@ words but their traditional classification may differ. (Note that
 “generic numerals” in Czech grammar also include the <code>Sets</code> subclass
 mentioned above.)</p>
 
-<p>Examples: [cs] <em><span style="color:red">čtvero, patero, desatero</span></em> (specific forms of four,
-five, ten; they are morphologically, syntactically and stylistically distinct from the default
-forms <em>čtyři, pět, deset</em>);
-<em><span style="color:red">dvojí, trojí, čtverý</span></em> (twofold, threefold, fourfold; these are
-morphologically and syntactically adjectives).</p>
+<h4 id="examples-7">Examples</h4>
+
+<ul>
+  <li>[cs] <em><b>čtvero, patero, desatero</b></em> (specific forms of four,
+five, ten; they are morphologically, syntactically and stylistically
+distinct from the default forms <em>čtyři, pět, deset</em>); <em><b>dvojí,
+trojí, čtverý</b></em> (twofold, threefold, fourfold; these are
+morphologically and syntactically adjectives).</li>
+</ul>
 
 
 <!-- "in other languages" links -->
