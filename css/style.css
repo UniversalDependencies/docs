@@ -455,6 +455,11 @@ em strong, b {
   color: darkred;
 }
 
-h1, h2, h3, h4, h5, h6, strong {
+h1, h2, h3, strong {
   font-weight: 600; /* standard, not extra bold */
+}
+
+h4, h5, h6 {
+  font-weigth: normal;
+  text-decoration: underline;
 }
