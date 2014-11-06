@@ -59,7 +59,7 @@ et al.</A> page 3.
 
 #### Examples:
 
-* [ar] مُخْتَل_muxtalifun_ "different/various" (active participle,
+* [ar] مُخْتَلِفٌ  _muxtalifun_ "different/various" (active participle,
   Form VIII); نَوْعٌ ج أنْوَاعٌ _nawˀun ja anwāˀun_ "kind"; مُخْتَلِفُ
   الأنْوَاعِ _muxtalifu al-anwāˀi_ "of various kinds" (false iḍāfa);
   مَشَاكِلُ مُخْتَلِفَةُ الأنْوَاعِ _mašākilu muxtalifatu al-anwāˀi_

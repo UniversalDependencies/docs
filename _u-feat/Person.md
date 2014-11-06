@@ -24,7 +24,7 @@ them (i.e. _I + they_).
 #### Examples
 
 * [en] _<b>I</b>_, _<b>we</b>_
-* [cs] _<b>dělám</b> "<b>I</b> do"
+* [cs] _<b>dělám</b>_ "<b>I</b> do"
 
 ### `2`: second person
 
@@ -45,4 +45,4 @@ speakers nor addressees.
 #### Examples
 
 * [en] _<b>he</b>_, _<b>she</b>_, _<b>it</b>_, _<b>they</b>_
-* [cs] _<b>dělá</b>_ "<b>he/she/it does</b>)
+* [cs] _<b>dělá</b>_ "<b>he/she/it does</b>"
