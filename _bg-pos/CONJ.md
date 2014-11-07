@@ -16,17 +16,17 @@ In BulTreeBank tagset there are three types of conjunctions:
 
 ### Examples
 
-- _но_ // _no_ "but"
+- _но_ / _no_ "but"
 
 <b>Cr (repetitive conjunction). These usually contain at least two parts.</b>
 
 ### Examples
 
-- _хем..., хем..._ // _hem..., hem..._ "either.... or...."
+- _хем..., хем..._ / _hem..., hem..._ "either.... or...."
 
 <b>Cp (single and repetitive conjunction). These usually are used as singletons, but they also might be used
 in a repetitive chain.</b>
 
 ### Examples
 
-- _и_ // _i_ "and"
+- _и_ / _i_ "and"
