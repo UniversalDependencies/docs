@@ -6,12 +6,12 @@ shortdef: 'adverb'
 
 ### Definition
 
-In Bulgarian adverbs are also words that typically modify [verbs](VERB) for such
+In the group of Bulgarian adverbs there are words that typically modify [verbs](VERB) for such
 categories as time, place, direction or manner. They may also modify
 [adjectives](ADJ) and other adverbs, as in _<b>very briefly</b>_ or
 _<b>arguably</b> wrong_. Some adverbs can modify even [nouns] (Noun).
 
-In BulTreeBank tagset the corresponding POS tag is D.
+In BulTreeBank tagset the corresponding POS tag is `D`.
 
 There is a closed subclass of _pronominal adverbs_ that refer to
 circumstances in context, rather than naming them directly; similarly
@@ -41,14 +41,16 @@ Note that there are words that may be traditionally called numerals in
 some languages (e.g. Bulgarian) but they are treated as adverbs in the
 universal tagging scheme. In particular, _adverbial ordinal numerals_
 ([bg] _първо_ / _parvo_ "for the first time") are tagged `ADV`. 
-The mapped tags present the neuter singular indefinite forms of the ordinal numerals: Monsi.
+The mapped tags present the neuter singular indefinite forms of the ordinal numerals: `Monsi`.
 In this way there will be ambiguity with the class of [adjectives] (ADJ).
 
 
-Another adverbial numeral that goes under `ADV` is Md:
+Another adverbial numeral that goes under `ADV` is Md#:
 
 
 ### Examples
 
 - _много_ / _mnogo_ "very"
 - _малко_ /_malko_ "little"
+
+Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
