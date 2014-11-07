@@ -22,3 +22,4 @@ So, such cases are excluded here and analysed compositionally, as recommended in
 - _ако_ / _ako_ "if"
 - _щом_ / _shtom_ "as soon as"
 - _докато_ / _dokato_ "while"
+
