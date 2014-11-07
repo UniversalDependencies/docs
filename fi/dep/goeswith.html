@@ -36,8 +36,21 @@
 
           <h2><code>goeswith</code>: goeswith</h2>
 
-<p>The description of the USD relation <code>goeswith</code> in Finnish is not yet
-completed.</p>
+<p>This <code>goeswith</code> dependency relation links two parts of a compound word
+that are erroneously separated in text that is not well edited. The
+head is in some sense the “main” part, often the second part.</p>
+
+<!-- fname:nn_error.pdf -->
+<pre><code class="language-sdparse">Ruoka pöytä notkui herkkuja . \n Food table was_full_of goodies .
+compound:nn(pöytä-2, Ruoka-1)
+nsubj(notkui-3, pöytä-2)
+dobj(notkui-3, herkkuja-4)
+punct(notkui-3, .-5)
+</code></pre>
+
+<p>Note that the original <a href="http://bionlp.utu.fi/fintreebank.html">TDT
+corpus</a> used the <code>nn</code> relation
+(<a href="">compound:nn</a> in UD Finnish) to annotate these relations.</p>
 
 
 <!-- "in other languages" links -->
