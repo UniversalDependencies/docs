@@ -26,9 +26,3 @@ The feedback particles, such as: _yes_ and _no_ are mapped to INTJ with the labe
 
 - Ta (affirmative) - _да_ / _da_ "yes"
 - Tn (negative) - _не_ / _не_ "no"
-
-### Examples
-
-- _ех_ / _eh_ "oh"
-- _мяу_ / _myao_ "miaow"
-- _беж_ / _bezh_ "to take to one's feet"
