@@ -7,7 +7,7 @@ shortdef: 'adposition'
 ### Definition
 
 Adposition in Bulgarian is a preposition.
-In the BulTreeBank tagset it is encoded as R.
+In the BulTreeBank tagset it is encoded as `R`.
 Thus, the preposition comes before a complement composed of a noun
 phrase, noun, pronoun, or clause that functions as a noun phrase, and
 forms a single structure with the complement to express its
@@ -32,3 +32,4 @@ is analyzed as
 - _по_ / _po_ "in"
 - _време_ / _vreme_ "time"
 - _на_ / _na_ "of"
+
