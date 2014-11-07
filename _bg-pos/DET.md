@@ -42,5 +42,6 @@ The short forms are clitics and will be treated differently.
 - negative determiners: _никакъв_ / _nikakav_ "no.MASC.SG"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
+
 The symbol `@' marks the suppresion with one feature in the tag.
---
+
