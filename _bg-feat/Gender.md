@@ -8,7 +8,7 @@ Gender is usually a lexical feature of nouns and inflectional
 feature of other parts of speech (adjectives, verbs) that mark
 agreement with nouns. In Bulgarian gender is grammatical.
 
-There are three genders: masculine (m), feminine (f) and neuter (n).
+There are three genders: _masculine(m)_, _feminine (f)_ and _neuter (n)_.
 
 ### Masc: masculine gender
 
