@@ -15,7 +15,7 @@ categories like tense, mood, aspect and voice, which can either be
 expressed inflectionally or using auxilliary verbs or particles.
 
 
-The BulTreeBank annotation scheme provides the following mappings here: main verbs, copulas and modal verbs.
+The BulTreeBank annotation scheme provides the following mappings here: _main verbs_, _copulas_ and _modal verbs_.
 Note that modal verbs do not have special labels in our annotation scheme.
 Participles and gerund are considered also `VERB`. Below the specific labels that map to `VERB` are given.
 
