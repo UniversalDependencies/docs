@@ -13,7 +13,6 @@ The `NOUN` tag is intended for common nouns only.
 
 In Bultreebank the common nouns are annotated with the tag `Nc#`.
 
-
 ### Examples
 
 - _момиче_ / _momiche_ "girl"
@@ -21,3 +20,5 @@ In Bultreebank the common nouns are annotated with the tag `Nc#`.
 - _дърво_ / _darvo_ "tree"
 - _въздух_ / _vazduh_ "air"
 - _красота_ / _krasota_ "beauty"
+
+Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
