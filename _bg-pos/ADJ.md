@@ -17,17 +17,18 @@ for determiners and [NUM]() for numerals.
 
 In Bulgarian the words that map to the `ADJ` tag from the BulTreeBank tagset are: 
 
-- A (adjective)
+- A# (adjective)
 
 Example: [bg]
 <I><span style='color: red'>добър</span></I> / <I>dobar</I> (good)
+<I><span style='color: red'>7-годишен</span></I> / <I>7-godishen</I> (seven-years-old)
 
-- H (family name adjective)
+- H# (family name adjective)
 
 Example: [bg]
 <I><span style='color: red'><b>Иванова</b> книга</span></I> / <I>Ivanova kniga</I> (<b>Ivan's</b> book)
 
-- Mo (ordinal numeral)
+- Mo# (ordinal numeral)
 
 Example: [bg]
 <I><span style='color: red'>втори</span></I> / <I>vtori</I> (second)
@@ -37,7 +38,7 @@ Example: [bg]
 Example: [bg]
 <I><span style='color: red'>идващ</span></I> / <I>idvasht</I> (coming)
 
-- V#cv# (past participle)
+- V#cv# (past passive participle)
 
 Example: [bg]
 <I><span style='color: red'>намерен</span></I> / <I>nameren</I> (found)
@@ -48,5 +49,5 @@ Example: [bg]
 <I><span style='color: red'>направил</span></I> / <I>napravil</I> (made)
 
 
-Note that the symbol `#' indicates a holder for arbitrary number of features in the tag in the BulTreeBank
-tagset.
+Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
+
