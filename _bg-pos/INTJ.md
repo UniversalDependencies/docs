@@ -16,21 +16,14 @@ Note that words primarily belonging to another part of speech retains
 their original category when used in exclamations. For example, _God_
 is a [NOUN]() even in exclamatory uses.
 
-In BulTreeBank annotation scheme the interjections are tagged as _I_.
-They include the following groups: exclamations and onomatopoeic words.
+In BulTreeBank annotation scheme the interjections are tagged as `I`.
+These include the following groups: exclamations and onomatopoeic words.
 
-In cases like _God_, the lemmas are tagged as both: Noun and Interjection.
+In cases like _God_, the lemmas are tagged as both: `Noun` and `Interjection`.
 Thus, only the Noun usage will be kept in the universal setting.
 
-The feedback particles, such as: _yes_ and _no_ are mapped to INTJ with the following labels:
+The feedback particles, such as: _yes_ and _no_ are mapped to INTJ with the labels:
 
 - Ta (affirmative) - _да_ / _da_ "yes"
 - Tn (negative) - _не_ / _не_ "no"
-
-
-### Examples
-
-- _ех_ / _eh_ "oh"
-- _мяу_ / _myao_ "miaow"
-- _беж_ / _bezh_ "to take to one's feet"
 
