@@ -24,7 +24,7 @@ Also note that the notion of determiners is unknown in grammars of
 some languages (e.g. Czech); words equivalent to English determiners
 may be traditionally classified as [pronouns](PRON) and/or
 [numerals](NUM) in these languages. In order to annotate the same
-thing same way across languages, the words satisfying our definition
+thing the same way across languages, the words satisfying our definition
 of determiners should be tagged `DET` in these languages as well.
 
 For instance, [en] _this_ is either pronoun _(I saw <b>this</b>
