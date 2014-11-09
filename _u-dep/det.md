@@ -5,7 +5,7 @@ shortdef: 'determiner'
 ---
 
 A determiner is the relation between the head of a noun phrase and its
-determiner.
+determiner ([u-pos/DET]()).
 
 ~~~ sdparse
 The man is here
