@@ -270,6 +270,20 @@ collections:
   ja-overview:
     output: true
 #
+# Chinese
+#
+  zh-pos:
+    output: true
+    permalink: /zh/pos/:path.html
+  zh-feat:
+    output: true
+    permalink: /zh/feat/:path.html
+  zh-dep:
+    output: true
+    permalink: /zh/dep/:path.html
+  zh-overview:
+    output: true
+#
 # Template
 #
   template-pos:

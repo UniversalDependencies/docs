@@ -34,6 +34,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-zh">Chinese</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -500,6 +501,32 @@ have a stable version of this part of the documentation by 2015-01-01.
 [CoNLL-U format](format.html)
 
 <small>
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidlines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Chinese" tab -->
+<div id="language-zh" markdown="1" class="ui-tabs-hide">
+{% include zh-status-table.html %}
+
+[Introduction](zh/overview/introduction.html)
+
+* [Tokenization](zh/overview/tokenization.html)
+* Morphology
+  * [General principles](zh/overview/morphology.html)
+  * [Chinese POS tags](zh/pos/index.html) ([single document](zh/pos/all.html))
+  * [Chinese features](zh/feat/index.html) ([single document](zh/feat/all.html))
+* Syntax
+  * [General principles](zh/overview/syntax.html)
+  * [Specific constructions](zh/overview/specific-syntax.html)
+  * [Chinese dependency relations](zh/dep/index.html) ([single document](zh/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
 This is part of the language-specific documentation for Universal
 Dependencies. <strong>Language-specific guidlines are currently under
 revision and should not be considered final.</strong> Our goal is to
