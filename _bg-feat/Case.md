@@ -20,7 +20,7 @@ Examples:
 
 In our tagset another idiosyncratic case has been marked – the so-called ‘dative possessive case’ (s). It refers to situations where the short possessive pronoun comes before its possessor noun and thus – next to the verb.
 
-Examples: [bg] Той ми взе шапката / Toy mi vze shapkata 'He my.POSS took hat.DEF' (He took my hat.). 
+Examples: [bg] Той ми взе шапката / _Toy mi vze shapkata_ 'He my.POSS took hat.DEF' (He took my hat.). 
 
-The canonical sentence would be: Той взе шапката ми / Toy vze shapkata mi 'He took hat.DEF my.POSS' (He took my hat).
+The canonical sentence would be: Той взе шапката ми / _Toy vze shapkata mi_ 'He took hat.DEF my.POSS' (He took my hat).
 
