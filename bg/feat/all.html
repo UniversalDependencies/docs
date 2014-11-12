@@ -409,8 +409,62 @@ for <code>Tense</code>.</p>
 <p><a id="al-bg-feat/VerbForm" class="al-dest"></a></p>
 <h2><code>VerbForm</code>: form of verb or deverbative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VerbForm</code>.</p>
+<p>Even though the name of the feature seems to suggest that it is used
+exclusively with <a href="u-pos/VERB">verbs</a>, it is not the case. Some verb
+forms in some languages actually form a gray zone between verbs and
+other parts of speech (<a href="u-pos/NOUN">nouns</a>, <a href="u-pos/ADJ">adjectives</a>
+and <a href="u-pos/ADV">adverbs</a>). For instance, participles may be either
+classified as verbs or as adjectives, depending on language and
+context. In both cases <code>VerbForm=Part</code> may be used to separate them
+from other verb forms or other types of adjectives.</p>
+
+<p>Bulgarian does not have an infinitive. It distinguishes: finite verbs and non-finite verbs (participles
+and transgressives).</p>
+
+<h3 id="fin-finite-verb"><code>Fin</code>: finite verb</h3>
+
+<p>Rule of thumb: if it has non-empty <a href="">Mood</a>, it is finite.
+This features is encoded in the following values as second position in verbal tags: Vp# (personal verb); Vn# (impersonal verb); Vx#, Vy# and Vi# (auxiliary verbs).</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>Аз съм, ти си / <em>Az sam, ti si</em> “I am, you are”</li>
+  <li>Трябва да дойдеш /<em>Tryabva da doydesh</em> “You must come”</li>
+  <li>Прочетох книгата / <em>Prochetoh knigata</em> “I read the book”</li>
+</ul>
+
+<h3 id="part-participle"><code>Part</code>: participle</h3>
+
+<p>Participle is a non-finite verb form that shares properties of verbs
+and adjectives. The participle in Bulgarian is encoded as <code>c</code> in fifth position of the tag: <code>V#c#</code>.</p>
+
+<p>In Bulgarian there are four types of participles: <em>present active, past perfective active, past imperfective active, past passive</em>. The present active one can be used only adjectively; the past imperfective one can be used only in evidential verb forms; the other have the two usages. The <em>present active</em> can be derived only from imperfective verbs.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>виждащ / <em>vizhdasht</em> “seeing” (present active). BulTreeBank tag: <code>V#car#</code></li>
+  <li>видял / <em>vidyal</em> “seen” (past perfective active). BulTreeBank tag: <code>V#cao#</code></li>
+  <li>видел / <em>videl</em> “seen” (past imperfective active). BulTreeBank tag: <code>V#cam#</code></li>
+  <li>видян / <em>vidyan</em> “seen” (past passive). BulTreeBank tag: <code>V#cv#</code></li>
+</ul>
+
+<h3 id="trans-transgressive"><code>Trans</code>: transgressive</h3>
+
+<p>The transgressive, also called adverbial participle, is a non-finite
+verb form that shares properties of verbs and adverbs. It appears
+e.g. in Slavic and Indo-Aryan languages.</p>
+
+<p>In Bulgarian it can be derived only from imperfective verbs.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>Виждайки това, той се разстрои / _Vizhdayki tova, toy se razstroi “Having seen this, he became upset”. BulTreebang tag: <code>V#g</code></li>
+</ul>
+
+<p>Note that the symbol `#’, used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_bg-feat/VerbForm.md" target="#">edit VerbForm</a></p>
 
