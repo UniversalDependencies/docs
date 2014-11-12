@@ -6,7 +6,7 @@ shortdef: 'case'
 
 In Bulgarian only some nouns have special vocative forms (v):
 
-Examples: [bg] Иване, приятелю, Родино, Стефке / _Ivanem priyatelyu, Rodino, Stefke_ (Ivan, friend, homeland, Stefka)
+Examples: [bg] Иване, приятелю, Родино, Стефке / _Ivane, priyatelyu, Rodino, Stefke_ (Ivan, friend, homeland, Stefka)
 
 The cases are still alive in personal pronouns: _nominative (n)_, _accusative (a)_ and _dative (d)_.
 
