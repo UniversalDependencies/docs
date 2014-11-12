@@ -19,7 +19,7 @@ and transgressives).
 ### `Fin`: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite.
-This features is encoded in the following values as second position in verbal tags: Vp# (personal verb); Vn# (impersonal verb); Vx#, Vy# and Vi# (auxiliary verbs).
+This features is encoded in the following values as second position in verbal tags: `Vp#` (personal verb); `Vn#` (impersonal verb); `Vx#`, `Vy#` and `Vi#` (auxiliary verbs).
 
 #### Examples
 
@@ -52,7 +52,7 @@ In Bulgarian it can be derived only from imperfective verbs.
 
 #### Examples
 
-- Виждайки това, той се разстрои / _Vizhdayki tova, toy se razstroi "Having seen this, he became upset". BulTreebang tag: `V#g`
+- Виждайки това, той се разстрои / _Vizhdayki tova, toy se razstroi_ "Having seen this, he became upset". BulTreebang tag: `V#g`
 
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
