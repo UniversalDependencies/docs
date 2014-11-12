@@ -39,5 +39,5 @@ punct(pitää-4, .-6)
 
 In written Finnish, erroneously writing compounds as two words is a
 common mistake (e.g. *ruoka pöytä*). While these cases were annotated
-as `nn` in [TDT corpus](http://bionlp.utu.fi/fintreebank.html), in UD
-Finnish [goeswith]() is used instead.
+as `nn` in the [TDT corpus](http://bionlp.utu.fi/fintreebank.html), in
+UD Finnish [goeswith]() is used instead.
