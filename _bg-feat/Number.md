@@ -22,7 +22,7 @@ Examples: [bg] моливи / _molivi_ (pencils)
 
 A form that is used as plural for masculine non-person nouns after numerals. This is a remnant of the dual form.
 
-Examples: [bg] (2) молива / _(2) moliva_ (2 pencils-count)
+Examples: [bg]  (2) молива / _(2) moliva_ (2 pencils-count)
 
 ### Ptan: plurale tantum
 
