@@ -7,6 +7,10 @@ shortdef: 'degree of comparison'
 Degree of comparison is typically an inflectional feature of some
 [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
 
+In Bulgarian the comparative and superlative forms are created with the help of
+the particles `по` / _po_ "more" and `най` / _nay_ "most", which are part of the word and come in preposition,
+separated by a defice.
+
 ### `Pos`: positive, first degree
 
 This is the base form that merely states a quality of something,
@@ -14,9 +18,6 @@ without comparing it to qualities of others. Note that although this
 degree is traditionally called "positive", negative properties can be
 compared, too.
 
-In Bulgarian the comparative and superlative forms are created with the help of
-the particles `по` / _po_ "more" and `най` / _nay_ "most", which are part of the word and come in preposition,
-separated by a defice.
 
 #### Examples
 
