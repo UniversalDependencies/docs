@@ -547,10 +547,108 @@ conj(big, honest)
 <h2><code>cop</code>: copula</h2>
 
 <p>A copula is the relation between the complement of a copular verb and
-the copular verb.</p>
+the copular verb. Copular heads are avoided when possible.</p>
 
 <pre><code class="language-sdparse">Bill is an honest man
 cop(man, is)
+nsubj(man, Bill)
+amod(man, honest)
+det(man, an)
+</code></pre>
+
+<p>Prepositional phrases are annotated similarly, the only difference being that
+the nominal predicate has an additional case marker.</p>
+
+<pre><code class="language-sdparse">Bill is from California
+case(California, from)
+cop(California, is)
+nsubj(California, Bill)
+</code></pre>
+
+<p>When an adjective or adverb is being predicated of a nominal phrase, the
+adjective/adverb is the root, the nominal phrase is the nsubj, and the
+copula is the cop.</p>
+
+<pre><code class="language-sdparse">Bill is honest
+nsubj(honest, Bill)
+cop(honest, is)
+</code></pre>
+
+<pre><code class="language-sdparse">It was yesterday
+nsubj(yesterday, it)
+cop(yesterday, was)
+</code></pre>
+
+<p>Prepositions may also project a cop dependent.</p>
+
+<pre><code class="language-sdparse">The light is on
+cop(on, is)
+nsubj(on, light)
+det(light, the)
+</code></pre>
+
+<p>In predicative wh-constructions, the fronted wh-word is the head, and the copula is 
+another cop.</p>
+
+<pre><code class="language-sdparse">What is that ?
+cop(What, is)
+nsubj(What, that)
+</code></pre>
+
+<p>However, whenever the copula has a clausal argument/adjunct, the copula becomes the root, so the cop relation is not used.</p>
+
+<pre><code class="language-sdparse">It was because Bill is honest
+nsubj(was, It)
+mark(honest, because)
+ccomp(was, honest)
+nsubj(honest, Bill)
+cop(honest, is)
+</code></pre>
+
+<pre><code class="language-sdparse">My question is : was that really true ?
+nsubj(is, question)
+ccomp(is, true)
+cop(true, was)
+nsubj(true, that)
+advmod(true, really)
+</code></pre>
+
+<pre><code class="language-sdparse">This is to inform you of our decision
+nsubj(is, This)
+advcl(is, inform)
+aux(inform, to)
+dobj(inform, you)
+nmod(inform, decision)
+case(decision, of)
+poss(decision, our)
+</code></pre>
+
+<p>Predicative “be” is the only verb recognized as a copula; other copula-like verbs,such as “become”, “get”, and “seem”, are treated as regular raising verbs, and thus take xcomp arguments. Non-predicative uses of “be”–e.g., “be” when used in periphrastic verbal constructions, presentationals, or existentials–is annotated as an aux instead.
+of a cop.</p>
+
+<pre><code class="language-sdparse">Bill got rich
+nsubj(got, Bill)
+xcomp(got, rich)
+</code></pre>
+
+<pre><code class="language-sdparse">Bill is speaking
+nsubj(speaking, Bill)
+aux(speaking, is)
+</code></pre>
+
+<pre><code class="language-sdparse">Here are some bags
+advmod(are, Here)
+nsubj(are, bags)
+det(bags, some)
+</code></pre>
+
+<pre><code class="language-sdparse">There 's a cow in the field
+expl('s, There)
+nsubj('s, cow)
+det(cow, a)
+nmod('s, field)
+det(field, the)
+case(field, in)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cop.md" target="#">edit cop</a></p>
