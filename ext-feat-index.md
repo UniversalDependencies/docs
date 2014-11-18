@@ -45,6 +45,10 @@ through the
 * <a href="u/ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
 * <a href="u/ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
 
+The following features are included in the universal standard, but some values are missing there:
+
+* `PronType=Exc` … exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).
+
 There are automatically generated approximate
 <a href="tagset-conversion/">conversion tables</a>
 from existing tagsets of various languages to the universal part-of-speech tags and features.
