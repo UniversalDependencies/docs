@@ -23,7 +23,7 @@ mwe(as, well)
 ~~~ sdparse
 I like dogs as well as cats
 mwe(as-1, well)
-mwe(as-1, as-1)
+mwe(as-1, as-2)
 cc(dogs, as-1)
 ~~~
 
@@ -170,8 +170,8 @@ cc(rather, dog)
 
 ~~~ sdparse
 At least I like dogs
-mwe(at, least)
-advmod(at, like)
+mwe(At, least)
+advmod(like, At)
 ~~~
 
 *as if*
