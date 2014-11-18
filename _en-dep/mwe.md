@@ -22,9 +22,9 @@ mwe(as, well)
 
 ~~~ sdparse
 I like dogs as well as cats
-mwe(as, well)
-mwe(as, as)
-cc(dogs, as)
+mwe(as-1, well)
+mwe(as-1, as-1)
+cc(dogs, as-1)
 ~~~
 
 *such as*
@@ -161,9 +161,9 @@ mwe(in, order)
 *rather than*
 
 ~~~ sdparse
-I decided to get a dog rather than live alone in an empty apartment
+I decided to get a dog rather than a cat
 mwe(rather, than)
-cc(rather, live)
+cc(rather, dog)
 ~~~
 
 *at least* (when not used for quantities)
@@ -212,14 +212,6 @@ mwe(kind, of)
 advmod(like, kind)
 ~~~
 
-*what about*
-
-~~~ sdparse
-What about John ?
-mwe(What, about)
-case(John, What)
-~~~
-
 *whether or not*
 
 ~~~ sdparse
@@ -233,9 +225,9 @@ mark(feel, whether)
 
 ~~~ sdparse
 This restaurant is pretty cheap with good food, not to mention their friendly staff
-mwe(Not, to)
-mwe(Not, mention)
-cc(not, cheap)
+mwe(not, to)
+mwe(not, mention)
+cc(cheap, not)
 conj(staff, cheap)
 ~~~
 
@@ -244,7 +236,7 @@ conj(staff, cheap)
 ~~~ sdparse
 John decided to leave early , as opposed to Mary
 mwe(as, opposed)
-mwe(as, to)
+mwe(as, to-2)
 case(Mary, as)
 ~~~
 
@@ -285,7 +277,7 @@ advmod(all, left)
 *that is*
 
 ~~~ sdparse
-The dogs need to be housebroken -- that is, '' potty-trained ''
+The dogs need to be housebroken -- that is , '' potty-trained ''
 mwe(that, is)
 advmod(potty-trained, that)
 ~~~
@@ -304,4 +296,92 @@ mark(left, How)
 You had better apologize
 mwe(had, better)
 aux(had, apologize)
+~~~
+
+### Not `mwe`s
+The following are **not** annotated as `mwe`s, but are instead labeled according to their apparent internal structure.
+
+*out of*, *off of* (All double prepositions denoting spatial relations are annotated with two cases on the nominal)
+
+~~~ sdparse
+Get out of there !
+nmod(Get, there)
+case(there, out)
+case(there, of)
+~~~ sdparse
+
+~~~ sdparse
+Get off of that !
+nmod(Get, that)
+case(that, off)
+case(that, of)
+~~~ sdparse
+
+*by far*
+
+~~~ sdparse
+Dogs are the best animal by far
+nmod(animal, far)
+case(far, by)
+~~~
+
+*what about*
+
+~~~ sdparse
+What about John ?
+nmod(What, John)
+case(John, about)
+~~~
+
+*at all*
+
+~~~ sdparse
+I don't like her at all
+nmod(like, all)
+case(all, at)
+~~~
+
+*at most*, *at least* (when used for quantities. To determine whether *at least* should be an `mwe` or not in borderline cases, substitute it with *at most*; if the sentence remains grammatical, it should receive its surface analysis)
+
+~~~ sdparse
+at most 50 percent
+npadvmod(percent, most)
+case(most, at)
+~~~
+
+~~~ sdparse
+at least 50 percent
+npadvmod(percent, least)
+case(most, at)
+~~~
+
+*at best*, *at worst*
+
+~~~ sdparse
+At best, they were guesses
+npadvmod(guesses, best)
+case(best, at)
+~~~
+
+~~~ sdparse
+At worst, they were lies
+npadvmod(lies, worst)
+case(worst, at)
+~~~
+
+*what if*
+
+~~~ sdparse
+What if John left early ?
+advcl(What, left)
+mark(left, if)
+~~~
+
+*so long*
+
+~~~ sdparse
+So long , Ham 's ... you will be missed
+advmod(long, So)
+vocative(Ham, long)
+parataxis(long, missed)
 ~~~
