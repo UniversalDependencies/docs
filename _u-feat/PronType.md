@@ -75,7 +75,7 @@ distinguish a separate feature of distance (_here / there_; [es] _aquí
   / so many times, tady / here, tam / there, teď / now, tehdy / then,
   tak / so_
 
-### `Tot`: totality (collective) pronoun, determiner or adverb
+### `Tot`: total (collective) pronoun, determiner or adverb
 
 #### Examples
 
