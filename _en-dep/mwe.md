@@ -22,9 +22,9 @@ mwe(as, well)
 
 ~~~ sdparse
 I like dogs as well as cats
-mwe(as-1, well)
-mwe(as-1, as-2)
-cc(dogs, as-1)
+mwe(as-4, well)
+mwe(as-4, as-6)
+cc(dogs, as-4)
 ~~~
 
 *such as*
@@ -236,7 +236,7 @@ conj(staff, cheap)
 ~~~ sdparse
 John decided to leave early , as opposed to Mary
 mwe(as, opposed)
-mwe(as, to-2)
+mwe(as, to-9)
 case(Mary, as)
 ~~~
 
@@ -245,8 +245,8 @@ case(Mary, as)
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 mwe(let, alone)
-cc(alone, hurt)
-conj(hurt, hurt)
+cc(alone, hurt-6)
+conj(hurt-6, hurt-9)
 ~~~
 
 *so as to*
@@ -277,9 +277,9 @@ advmod(all, left)
 *that is*
 
 ~~~ sdparse
-The dogs need to be housebroken -- that is , '' potty-trained ''
+The dogs need to be housebroken -- that is , '' potty - trained ''
 mwe(that, is)
-advmod(potty-trained, that)
+advmod(rained, that)
 ~~~
 
 *how come*
@@ -308,14 +308,14 @@ Get out of there !
 nmod(Get, there)
 case(there, out)
 case(there, of)
-~~~ sdparse
+~~~
 
 ~~~ sdparse
 Get off of that !
 nmod(Get, that)
 case(that, off)
 case(that, of)
-~~~ sdparse
+~~~ 
 
 *by far*
 
@@ -352,7 +352,7 @@ case(most, at)
 ~~~ sdparse
 at least 50 percent
 npadvmod(percent, least)
-case(most, at)
+case(least, at)
 ~~~
 
 *at best*, *at worst*
@@ -360,13 +360,13 @@ case(most, at)
 ~~~ sdparse
 At best, they were guesses
 npadvmod(guesses, best)
-case(best, at)
+case(best, At)
 ~~~
 
 ~~~ sdparse
 At worst, they were lies
 npadvmod(lies, worst)
-case(worst, at)
+case(worst, At)
 ~~~
 
 *what if*
@@ -382,6 +382,6 @@ mark(left, if)
 ~~~ sdparse
 So long , Ham 's ... you will be missed
 advmod(long, So)
-vocative(Ham, long)
+vocative(long, Ham)
 parataxis(long, missed)
 ~~~
