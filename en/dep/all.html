@@ -879,9 +879,9 @@ mwe(as, well)
 <p><em>as well as</em></p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
-mwe(as, well)
-mwe(as, as)
-cc(dogs, as)
+mwe(as-1, well)
+mwe(as-1, as-1)
+cc(dogs, as-1)
 </code></pre>
 
 <p><em>such as</em></p>
@@ -999,9 +999,9 @@ mwe(in, order)
 
 <p><em>rather than</em></p>
 
-<pre><code class="language-sdparse">I decided to get a dog rather than live alone in an empty apartment
+<pre><code class="language-sdparse">I decided to get a dog rather than a cat
 mwe(rather, than)
-cc(rather, live)
+cc(rather, dog)
 </code></pre>
 
 <p><em>at least</em> (when not used for quantities)</p>
@@ -1044,13 +1044,6 @@ mwe(kind, of)
 advmod(like, kind)
 </code></pre>
 
-<p><em>what about</em></p>
-
-<pre><code class="language-sdparse">What about John ?
-mwe(What, about)
-case(John, What)
-</code></pre>
-
 <p><em>whether or not</em></p>
 
 <pre><code class="language-sdparse">He 's crying whether or not you feel bad about it
@@ -1062,9 +1055,9 @@ mark(feel, whether)
 <p><em>not to mention</em></p>
 
 <pre><code class="language-sdparse">This restaurant is pretty cheap with good food, not to mention their friendly staff
-mwe(Not, to)
-mwe(Not, mention)
-cc(not, cheap)
+mwe(not, to)
+mwe(not, mention)
+cc(cheap, not)
 conj(staff, cheap)
 </code></pre>
 
@@ -1072,7 +1065,7 @@ conj(staff, cheap)
 
 <pre><code class="language-sdparse">John decided to leave early , as opposed to Mary
 mwe(as, opposed)
-mwe(as, to)
+mwe(as, to-2)
 case(Mary, as)
 </code></pre>
 
@@ -1108,7 +1101,7 @@ advmod(all, left)
 
 <p><em>that is</em></p>
 
-<pre><code class="language-sdparse">The dogs need to be housebroken -- that is, '' potty-trained ''
+<pre><code class="language-sdparse">The dogs need to be housebroken -- that is , '' potty-trained ''
 mwe(that, is)
 advmod(potty-trained, that)
 </code></pre>
@@ -1125,6 +1118,85 @@ mark(left, How)
 <pre><code class="language-sdparse">You had better apologize
 mwe(had, better)
 aux(had, apologize)
+</code></pre>
+
+<h3 id="not-mwes">Not <code>mwe</code>s</h3>
+<p>The following are <strong>not</strong> annotated as <code>mwe</code>s, but are instead labeled according to their apparent internal structure.</p>
+
+<p><em>out of</em>, <em>off of</em> (All double prepositions denoting spatial relations are annotated with two cases on the nominal)</p>
+
+<pre><code class="language-sdparse">Get out of there !
+nmod(Get, there)
+case(there, out)
+case(there, of)
+~~~ sdparse
+
+~~~ sdparse
+Get off of that !
+nmod(Get, that)
+case(that, off)
+case(that, of)
+~~~ sdparse
+
+*by far*
+
+~~~ sdparse
+Dogs are the best animal by far
+nmod(animal, far)
+case(far, by)
+</code></pre>
+
+<p><em>what about</em></p>
+
+<pre><code class="language-sdparse">What about John ?
+nmod(What, John)
+case(John, about)
+</code></pre>
+
+<p><em>at all</em></p>
+
+<pre><code class="language-sdparse">I don't like her at all
+nmod(like, all)
+case(all, at)
+</code></pre>
+
+<p><em>at most</em>, <em>at least</em> (when used for quantities. To determine whether <em>at least</em> should be an <code>mwe</code> or not in borderline cases, substitute it with <em>at most</em>; if the sentence remains grammatical, it should receive its surface analysis)</p>
+
+<pre><code class="language-sdparse">at most 50 percent
+npadvmod(percent, most)
+case(most, at)
+</code></pre>
+
+<pre><code class="language-sdparse">at least 50 percent
+npadvmod(percent, least)
+case(most, at)
+</code></pre>
+
+<p><em>at best</em>, <em>at worst</em></p>
+
+<pre><code class="language-sdparse">At best, they were guesses
+npadvmod(guesses, best)
+case(best, at)
+</code></pre>
+
+<pre><code class="language-sdparse">At worst, they were lies
+npadvmod(lies, worst)
+case(worst, at)
+</code></pre>
+
+<p><em>what if</em></p>
+
+<pre><code class="language-sdparse">What if John left early ?
+advcl(What, left)
+mark(left, if)
+</code></pre>
+
+<p><em>so long</em></p>
+
+<pre><code class="language-sdparse">So long , Ham 's ... you will be missed
+advmod(long, So)
+vocative(Ham, long)
+parataxis(long, missed)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/mwe.md" target="#">edit mwe</a></p>
