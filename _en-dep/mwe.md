@@ -240,13 +240,13 @@ mwe(as, to-9)
 case(Mary, as)
 ~~~
 
-*as opposed to*
+*let alone*
 
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 mwe(let, alone)
-cc(alone, hurt-6)
-conj(hurt-6, hurt-9)
+cc(hurt-6, alone)
+conj(hurt-6, hurt-10)
 ~~~
 
 *so as to*
@@ -279,7 +279,7 @@ advmod(all, left)
 ~~~ sdparse
 The dogs need to be housebroken -- that is , '' potty - trained ''
 mwe(that, is)
-advmod(rained, that)
+advmod(trained, that)
 ~~~
 
 *how come*
@@ -358,13 +358,13 @@ case(least, at)
 *at best*, *at worst*
 
 ~~~ sdparse
-At best, they were guesses
+At best , they were guesses
 npadvmod(guesses, best)
 case(best, At)
 ~~~
 
 ~~~ sdparse
-At worst, they were lies
+At worst , they were lies
 npadvmod(lies, worst)
 case(worst, At)
 ~~~
