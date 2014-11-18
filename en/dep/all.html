@@ -879,9 +879,9 @@ mwe(as, well)
 <p><em>as well as</em></p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
-mwe(as-1, well)
-mwe(as-1, as-2)
-cc(dogs, as-1)
+mwe(as-4, well)
+mwe(as-4, as-6)
+cc(dogs, as-4)
 </code></pre>
 
 <p><em>such as</em></p>
@@ -1065,7 +1065,7 @@ conj(staff, cheap)
 
 <pre><code class="language-sdparse">John decided to leave early , as opposed to Mary
 mwe(as, opposed)
-mwe(as, to-2)
+mwe(as, to-9)
 case(Mary, as)
 </code></pre>
 
@@ -1073,8 +1073,8 @@ case(Mary, as)
 
 <pre><code class="language-sdparse">He could n't handle being hurt , let alone hurt by you
 mwe(let, alone)
-cc(alone, hurt)
-conj(hurt, hurt)
+cc(alone, hurt-6)
+conj(hurt-6, hurt-9)
 </code></pre>
 
 <p><em>so as to</em></p>
@@ -1101,9 +1101,9 @@ advmod(all, left)
 
 <p><em>that is</em></p>
 
-<pre><code class="language-sdparse">The dogs need to be housebroken -- that is , '' potty-trained ''
+<pre><code class="language-sdparse">The dogs need to be housebroken -- that is , '' potty - trained ''
 mwe(that, is)
-advmod(potty-trained, that)
+advmod(rained, that)
 </code></pre>
 
 <p><em>how come</em></p>
@@ -1129,19 +1129,17 @@ aux(had, apologize)
 nmod(Get, there)
 case(there, out)
 case(there, of)
-~~~ sdparse
+</code></pre>
 
-~~~ sdparse
-Get off of that !
+<pre><code class="language-sdparse">Get off of that !
 nmod(Get, that)
 case(that, off)
 case(that, of)
-~~~ sdparse
+</code></pre>
 
-*by far*
+<p><em>by far</em></p>
 
-~~~ sdparse
-Dogs are the best animal by far
+<pre><code class="language-sdparse">Dogs are the best animal by far
 nmod(animal, far)
 case(far, by)
 </code></pre>
@@ -1169,19 +1167,19 @@ case(most, at)
 
 <pre><code class="language-sdparse">at least 50 percent
 npadvmod(percent, least)
-case(most, at)
+case(least, at)
 </code></pre>
 
 <p><em>at best</em>, <em>at worst</em></p>
 
 <pre><code class="language-sdparse">At best, they were guesses
 npadvmod(guesses, best)
-case(best, at)
+case(best, At)
 </code></pre>
 
 <pre><code class="language-sdparse">At worst, they were lies
 npadvmod(lies, worst)
-case(worst, at)
+case(worst, At)
 </code></pre>
 
 <p><em>what if</em></p>
@@ -1195,7 +1193,7 @@ mark(left, if)
 
 <pre><code class="language-sdparse">So long , Ham 's ... you will be missed
 advmod(long, So)
-vocative(Ham, long)
+vocative(long, Ham)
 parataxis(long, missed)
 </code></pre>
 
