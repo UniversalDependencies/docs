@@ -17,7 +17,7 @@ We wish to thank all of the contributors to the original TDT annotation effort, 
 ## See also
 
 The University of Helsinki provides a different Finnish treebank, converted to the UD notation from a newly revised
-[FinnTreeBank 1](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/) (ftb1-2014.zip, beta). The 19089 sentences and fragments originate as grammatical examples in VISK (161906 tokens, sentence lengths from 1 to 72 tokens with quartiles 5, 7, 11). Minimally all notation will conform to the UD specification, with an effort to be also structurally as "universal" as possible (conversion is under way).
+[FinnTreeBank 1](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/) (ftb1-2014.zip, beta). The 19089 sentences and fragments originate as grammatical examples in VISK (161906 tokens, sentence lengths from 1 to 72 tokens with quartiles 5, 7, 11). Minimally all notation will conform to the UD specification, with an effort to be also structurally as universal as possible (conversion is under way).
 
 ## References
 
