@@ -22,7 +22,7 @@ Another group of symbols is emoticons and emoji.
 Strings that consists entirely of alphanumeric characters are not
 symbols but they may be [proper nouns](PROPN): _130XE_, _DC10_; others
 may be tagged `PROPN` (rather than `SYM`) even if they contain special
-characters: _DC-10_.
+characters: _DC-10_. Abbreviations of nouns (e.g., _km_ for kilometer,  _kg_ for kilogram, _M._ for Monsieur, _Dr_ for Doctor) are tagged as [nouns](NOUN).
 
 Characters used as bullets in itemized lists _(•, ‣)_ are not symbols,
 they are punctuation.
