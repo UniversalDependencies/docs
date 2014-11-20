@@ -23,10 +23,13 @@ proper noun, for example in _the Yellow Pages_, _United Airlines_ or
 _Thrall Manufacturing Company_.  This is certainly the practice for
 the English Penn Treebank tag set.
 
+Acronyms of proper nouns, such as _UN_ and _NATO_, should be tagged `PROPN`.
+
 ### Examples
 
-- _Mary, John_
+- _Mary_, _John_
 - _London_
+- _NATO_, _HBO_
 
 ### References
 
