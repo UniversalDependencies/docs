@@ -58,6 +58,13 @@ Thus in both the following examples, _yes_ will be tagged as interjection:
 * _Yes, I think so._
 * _I am waiting for his ‘yes’ on the matter._
 
+### See also
+
+The guidelines for the following cases are documented on the referenced pages
+for specific POS tags:
+
+* Abbreviations and acronyms: described under [SYM]()
+
 Similarly, in both the following examples, _precede_ will be tagged as verb:
 
 * _Such discussion must precede every decision._
