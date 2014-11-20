@@ -36,8 +36,158 @@
 
           <h2><code>mwe</code>: mwe</h2>
 
-<p>The description of the USD relation <code>mwe</code> in Finnish is not yet
-completed.</p>
+<p>The multi-word expression (modifier) relation is used for certain
+fixed expressions that behave as a unit.</p>
+
+<p>Multiword expressions are annotated in a flat, head-initial structure,
+in which all words in the expression modify the first one using the
+mwe label.</p>
+
+<!-- fname:dep.pdf -->
+<pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
+mwe(asiassa-2, Itse-1)
+advmod(tuli-4, asiassa-2)
+nsubj(tuli-4, hän-3)
+advmod(tuli-4, eilen-6)
+advmod(eilen-6, jo-5)
+punct(tuli-4, .-7)
+</code></pre>
+
+<!--details-->
+
+<p>The following expressions are considered idiomatic, and their parts
+are to be combined with the dependency type <code>mwe</code> in UD Finnish.  Note
+that this is not intended to be a closed list, but rather a list of
+examples that were encountered while annotating the TDT corpus.  The
+two-part expressions that fall into the categories of coordinating and
+subordinating conjunctions are omitted here, and instead listed under
+<a href="">cc</a> and <a href="">mark</a>, respectively. Due to the idiomatic nature of
+these two-part expressions, the translations may on occasion not be
+very natural.</p>
+
+<h3 id="adverbs">Adverbs:</h3>
+
+<ul>
+  <li><em>aika lailla</em> “quite some”</li>
+  <li><em>aina vain</em> “forever and ever”</li>
+  <li><em>aivan kuin</em> “just like”</li>
+  <li><em>alun alkaen</em> “from the beginning, originally”</li>
+  <li><em>alun perin</em> “originally”</li>
+  <li><em>ennen aikojaan</em> “prematurely”</li>
+  <li><em>ennen kaikkea</em> “first and foremost”</li>
+  <li><em>ennen muuta</em> “first and foremost”</li>
+  <li><em>ennen pitkää</em> “before long”</li>
+  <li><em>entä jos</em> “what if”</li>
+  <li><em>heti perään</em> “right after”</li>
+  <li><em>hyvissä ajoin</em> “on time, in good time”</li>
+  <li><em>ihan vaan</em> “only”</li>
+  <li><em>ikään kuin</em> “kind of”</li>
+  <li><em>ilman muuta</em> “of course”</li>
+  <li><em>itse asiassa</em> “as a matter of fact, in fact”</li>
+  <li><em>ja niin edelleen</em> “and so on”</li>
+  <li><em>jonkin verran</em> “some, to some extent”</li>
+  <li><em>jossain määrin, siinä määrin, missä määrin</em> “some, to some extent, to that extent”</li>
+  <li><em>kaiken aikaa</em> “all the time”</li>
+  <li><em>kaiken kaikkiaan</em> “all in all”</li>
+  <li><em>kaikin puolin</em> “in all ways”</li>
+  <li><em>kerta kaikkiaan</em> “completely, once and for all”</li>
+  <li><em>loppujen lopuksi</em> “in the end”</li>
+  <li><em>muun muassa</em> “among others”</li>
+  <li><em>miten niin</em> “how so”</li>
+  <li><em>missä sattuu, mistä sattuu, minne sattuu</em> “wherever”</li>
+  <li><em>mitä jos</em> “what if”</li>
+  <li><em>niin ikään</em> “also”</li>
+  <li><em>niin kuin</em> “like”</li>
+  <li><em>niin sanotusti</em> “so to say”</li>
+  <li><em>noin vain</em> “just like that”</li>
+  <li><em>no kun</em> “well”</li>
+  <li><em>no niin</em> “alright”</li>
+  <li><em>näillä näkymin</em> “with the current knowledge”</li>
+  <li><em>näin ollen</em> “this being so”</li>
+  <li><em>pikku hiljaa</em> “little by little”</li>
+  <li><em>pilvin pimein</em> “plenty of”</li>
+  <li><em>piri pintaan</em> “full”</li>
+  <li><em>päällisin puolin</em> “from the surface of it”</li>
+  <li><em>saman tien</em> “at once”</li>
+  <li><em>saman verran</em> “the same amount”</li>
+  <li><em>sen koom(m)in</em> “since then”</li>
+  <li><em>sen suuremmin</em> “any more than that”</li>
+  <li><em>sen kun vaan</em> “go ahead”</li>
+  <li><em>sen verran</em> “that amount”</li>
+  <li><em>siellä täällä</em> “here and there”</li>
+  <li><em>siinä sivussa</em> “on the side”</li>
+  <li><em>silloin tällöin</em> “every now and then”</li>
+  <li><em>sillä aikaa</em> “meanwhile”</li>
+  <li><em>sitä mukaa</em> “accordingly”</li>
+  <li><em>sitä paitsi</em> “besides”</li>
+  <li><em>sivumennen sanoen</em> “by the way”</li>
+  <li><em>summa summarum</em> “all in all”</li>
+  <li><em>suuna päänä</em> “headfirst”</li>
+  <li><em>suurin piirtein</em> “just about”</li>
+  <li><em>ties vaikka</em> “who knows”</li>
+  <li><em>toisin sanoen</em> “in other words”</li>
+  <li><em>tuon tuosta</em> “all the time”</li>
+  <li><em>tuosta vain</em> “just like that”</li>
+  <li><em>tämän tästä</em> “all the time”</li>
+  <li><em>vähän kuin</em> “a bit like”</li>
+  <li><em>yhtä aikaa</em> “at the same time”</li>
+  <li><em>yhtä kaikki</em> “all the same”</li>
+  <li><em>yhtä paljon</em> “the same amount, as much”</li>
+  <li><em>yleisesti ottaen</em> “generally speaking”</li>
+</ul>
+
+<h3 id="adjectives">Adjectives:</h3>
+
+<ul>
+  <li><em>niin kutsuttu</em> “so called”</li>
+  <li><em>niin sanottu</em> “so called”</li>
+</ul>
+
+<h3 id="adpositions">Adpositions:</h3>
+
+<ul>
+  <li><em>lukuun ottamatta</em> “disregarding”</li>
+</ul>
+
+<h3 id="determiners">Determiners:</h3>
+
+<ul>
+  <li><em>itse kukin</em> “each”</li>
+  <li><em>joka ainoa</em> “each and every one”</li>
+</ul>
+
+<h3 id="interjections">Interjections:</h3>
+
+<ul>
+  <li><em>ai ai</em> “oh oh, tut tut”</li>
+  <li><em>ai niin</em> “oh yeah”</li>
+  <li><em>ei jumalauta</em> “goddammit”</li>
+  <li><em>ei vitsit</em> “oh dear”</li>
+  <li><em>hei hei</em> “hey hey, bye bye”</li>
+  <li><em>hip hip hurraa</em> “hip hip hooray”</li>
+  <li><em>hitto vie</em> “dammit”</li>
+  <li><em>jep jep</em> “yep yep”</li>
+  <li><em>kas kummaa</em> “surprise surprise”</li>
+  <li><em>mitä vittua</em> “what the fuck”</li>
+  <li><em>no joo</em> “well yeah”</li>
+  <li><em>piru vie</em> “dammit”</li>
+  <li><em>totta kai</em> “of course”</li>
+  <li><em>voi että</em> “oh dear”</li>
+  <li><em>voi po(i)jat</em> “oh boy”</li>
+</ul>
+
+<h3 id="nominals">Nominals:</h3>
+
+<ul>
+  <li><em>missä ikinä</em> “wherever”</li>
+</ul>
+
+<h3 id="other-the-pos-may-vary">Other: (the POS may vary)</h3>
+
+<ul>
+  <li><em>mikä tahansa</em> “whichever, whatever”</li>
+  <li><em>mikä vain</em> “whichever, whatever”</li>
+</ul>
 
 
 <!-- "in other languages" links -->

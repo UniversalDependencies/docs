@@ -934,18 +934,6 @@ type applies, for example due to software limitation or error.</p>
 annotate a number of idiomatic multi-word-expressions. In UD Finnish,
 these are annotated as <a href="">mwe</a>.</p>
 
-<!-- fname:dep.pdf -->
-<pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
-dep(asiassa-2, Itse-1)
-advmod(tuli-4, asiassa-2)
-nsubj(tuli-4, hän-3)
-advmod(tuli-4, eilen-6)
-advmod(eilen-6, jo-5)
-punct(tuli-4, .-7)
-</code></pre>
-
-<p><a href="dep" class="al-doc">See details</a></p>
-
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/dep.md" target="#">edit dep</a></p>
 
 <p><a id="al-fi-dep/det" class="al-dest"></a></p>
@@ -1129,8 +1117,24 @@ punct(Sanoin-1, .-7)
 <p><a id="al-fi-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: mwe</h2>
 
-<p>The description of the USD relation <code>mwe</code> in Finnish is not yet
-completed.</p>
+<p>The multi-word expression (modifier) relation is used for certain
+fixed expressions that behave as a unit.</p>
+
+<p>Multiword expressions are annotated in a flat, head-initial structure,
+in which all words in the expression modify the first one using the
+mwe label.</p>
+
+<!-- fname:dep.pdf -->
+<pre><code class="language-sdparse">Itse asiassa hän tuli jo eilen . \n As_a matter_of_fact he came already yesterday .
+mwe(asiassa-2, Itse-1)
+advmod(tuli-4, asiassa-2)
+nsubj(tuli-4, hän-3)
+advmod(tuli-4, eilen-6)
+advmod(eilen-6, jo-5)
+punct(tuli-4, .-7)
+</code></pre>
+
+<p><a href="mwe" class="al-doc">See details</a></p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mwe.md" target="#">edit mwe</a></p>
 
