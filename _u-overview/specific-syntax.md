@@ -124,9 +124,6 @@ xcomp(barked, awake)
 
 ### Comparatives
 
-(Note: this section of the documentation is currently being updated and may be inconsistent.
-Please see <https://github.com/UniversalDependencies/docs/issues/104> for more information.)
-
 The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (_That car is as big as mine_) and inequality scalar comparisons (_Sue is taller than Jim_).
 
 In constructions of the form _as X as Y_ or _the same X as Y_, X and
