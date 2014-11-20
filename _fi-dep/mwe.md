@@ -1,7 +1,7 @@
 ---
 layout: entry
 title:  'mwe'
-shortdef : 'mwe'
+shortdef : 'multi-word expression'
 ---
 
 The multi-word expression (modifier) relation is used for certain
