@@ -1432,8 +1432,13 @@ completed.</p>
 <p><a id="al-fi-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>The description of the USD relation <code>root</code> in Finnish is not yet
-completed.</p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A
+fake node <code>ROOT</code> is used as the governor. The <code>ROOT</code> node is indexed
+with 0, since the indexing of real words in the sentence starts at 1.</p>
+
+<pre><code class="language-sdparse">ROOT Minä pidän oluesta .
+root(ROOT, pidän)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/root.md" target="#">edit root</a></p>
 
