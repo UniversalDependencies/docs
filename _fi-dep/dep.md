@@ -4,11 +4,12 @@ title:  'dep'
 shortdef : 'dependent'
 ---
 
-The name of the dependency type `dep` stands for *dependent*. It is
-the most general dependency type in SD, and it is meant to be used
-when no other, more specific dependency type applies. In TDT, the type
-`dep` is mostly used in idiomatic two-word expressions. There are also
-some fixed three-word expressions in the treebank.
+The dependency type `dep` is used when no other, more specific dependency
+type applies, for example due to software limitation or error.
+
+In the original TDT corpus, the type `dep` is additionally used to
+annotate a number of idiomatic multi-word-expressions. In UD Finnish,
+these are annotated as [mwe]().
 
 <!-- fname:dep.pdf -->
 ~~~ sdparse
