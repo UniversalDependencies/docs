@@ -19,3 +19,4 @@ title: 'Tagset conversion tables'
 * <a href="et-puudepank-uposf.html">et::puudepank</a> (Estonian)
 * <a href="eu-conll-uposf.html">eu::conll</a> (Basque)
 * <a href="fa-conll-uposf.html">fa::conll</a> (Persian)
+* <a href="fi-turku-uposf.html">fi::turku</a> (Finnish)
