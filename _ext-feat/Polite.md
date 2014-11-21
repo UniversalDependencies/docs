@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Politeness'
+title: 'Polite'
 shortdef: 'distinguish informal and polite registers'
 ---
 
