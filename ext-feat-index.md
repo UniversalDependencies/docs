@@ -28,7 +28,7 @@ The following Interset features are currently not part of the standard:
 * <a href="u/ext-feat/NumForm.html">NumForm</a>
 * <a href="u/ext-feat/NumValue.html">NumValue</a>
 * <a href="u/ext-feat/PartType.html">PartType</a>
-* <a href="u/ext-feat/Politeness.html">Politeness</a>
+* <a href="u/ext-feat/Politeness.html">Polite</a>
 * <a href="u/ext-feat/PrepCase.html">PrepCase</a>
 * <a href="u/ext-feat/PunctSide.html">PunctSide</a>
 * <a href="u/ext-feat/PunctType.html">PunctType</a>
@@ -44,6 +44,17 @@ through the
 * <a href="u/ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
 * <a href="u/ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
 * <a href="u/ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
+* AbsPerson = `Person[abs]`
+* ErgPerson = `Person[erg]`
+* DatPerson = `Person[dat]`
+* AbsNumber = `Number[abs]`
+* ErgNumber = `Number[erg]`
+* DatNumber = `Number[dat]`
+* AbsPolite = `Polite[abs]`
+* ErgPolite = `Polite[erg]`
+* DatPolite = `Polite[dat]`
+* ErgGender = `Gender[erg]`
+* DatGender = `Gender[dat]`
 
 The following features are included in the universal standard, but some values are missing there:
 
