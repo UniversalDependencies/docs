@@ -63,6 +63,13 @@ Similarly, in both the following examples, _precede_ will be tagged as verb:
 * _Such discussion must precede every decision._
 * _He pronounced ‘precede’ in a funny way._
 
+### See also
+
+The guidelines for the following cases are documented on the referenced pages
+for specific POS tags:
+
+* Abbreviations and acronyms: described under [SYM]()
+
 ## Features
 
 Features are additional pieces of information about the word, its part of speech

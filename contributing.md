@@ -78,7 +78,8 @@ occurrences in the same paragraph)
 * Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
   * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
   * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
-* To emphasize some part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
+* To emphasize part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
+  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag. 
 * If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
   * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
 * If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).

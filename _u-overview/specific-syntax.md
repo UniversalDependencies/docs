@@ -157,7 +157,7 @@ I put in as much flour as the recipe called for .
 advmod(much, as-4)
 ~~~
 
-We then take the complement of the comparative as an oblique dependent of the first _as_. It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [u-dep/advcl](), dependent on the first _as_, with the second _as_ analyzed as a mark.  That gives us:
+We then take the complement of the comparative as an oblique dependent of the first part. It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [u-dep/advcl](), with the second _as_ analyzed as a mark.  That gives us:
 
 ~~~ sdparse
 I do n't hear from my brother as often as I previously heard from him .
@@ -172,7 +172,7 @@ advmod(hear, often)
 mark(heard, as-10)
 nsubj(heard, I-11)
 advmod(heard, previously)
-advcl(as-8, heard)
+advcl(often, heard)
 case(him, from-14)
 nmod(heard, him)
 punct(hear, .)
@@ -183,14 +183,14 @@ The same basic analysis is given for inequality scalar comparatives, with _more_
 ~~~ sdparse
 more sausages than you bought last week
 amod(sausages, more)
-advcl(more, bought)
+advcl(sausages, bought)
 mark(bought, than)
 ~~~
 
 ~~~ sdparse
 more important than you thought
 advmod(important, more)
-advcl(more, thought)
+advcl(important, thought)
 mark(thought, than)
 ~~~
 
@@ -221,7 +221,7 @@ dobj(put, flour)
 mark(called, as-7)
 det(recipe, the)
 nsubj(called, recipe)
-advcl(as-4, called)
+advcl(much, called)
 nmod(called, for)
 punct(put, .)
 ~~~
@@ -248,12 +248,12 @@ The analysis in this case is unclear: Should the comparative complement still be
 as important as a player 's talent
 advmod(important, as-1)
 case(talent, as-3)
-nmod(as-1, talent)
+nmod(important, talent)
 ~~~
 
 ~~~ sdparse
 more important than a player 's talent
 advmod(important, more)
 case(talent, than)
-nmod(more, talent)
+nmod(important, talent)
 ~~~
