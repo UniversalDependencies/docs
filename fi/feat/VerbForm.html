@@ -36,8 +36,85 @@
 
           <h2><code>VerbForm</code>: form of verb or deverbative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VerbForm</code>.</p>
+<p>Finnish has multiple infinitive forms, often termed the first
+infinitive, second infinitive, etc. Traditionally five different
+infinitives have been recognized, but UD Finnish follows the modern
+<a href="http://scripta.kotus.fi/visk/etusivu.php">ISK grammar</a> in only
+recognizing three verb forms as infinitives, namely those known as the
+first, second and third infinitives (alternatively termed the A‑, E-
+and MA-infinitives, see e.g. <a href="http://kaino.kotus.fi/visk/sisallys.php?p=119">VISK §
+119</a>; in Finnish).</p>
+
+<h3 id="fin-finite-verb"><code>Fin</code>: finite verb</h3>
+
+<p>Verbs that inflect for mood (<a href="">Mood</a>), tense (<a href="">Tense</a>) or person
+(<a href="">Person</a>) are finite and are assigned the <code>VerbForm</code> value <code>Fin</code>.
+Additionally, the negation verb <em>ei</em> only has finite forms (<a href="http://scripta.kotus.fi/visk/sisallys.php?p=108">VISK §
+108</a>; in Finnish),
+and is always annotated with <code>VerbForm=Fin</code>.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>[fi] _Minä <b>ostin</b> kahvia “I <b>bought</b> coffee”</li>
+  <li>[fi] <em>Minulla <b>ei</b> ole autoa</em> “I <b>do not</b> have a car”</li>
+</ul>
+
+<h3 id="inf-infinitive"><code>Inf</code>: infinitive</h3>
+
+<p>Words in the first infinitive form (also known as the A-infinitive)
+are assigned the <code>VerbForm</code> value <code>Inf</code>.</p>
+
+<p>The base form of the first infinitive is used as the dictionary form
+for verbs.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[fi] <em>He haluavat <b>jutella</b></em> “They want to <b>talk</b>”</li>
+</ul>
+
+<h3 id="inf2-infinitive"><code>Inf2</code>: infinitive</h3>
+
+<p>Words in the second infinitive form (also known as the E-infinitive)
+are assigned the <code>VerbForm</code> value <code>Inf2</code>.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[fi] <em><b>ottaen</b> huomioon</em> “<b>taking</b> into account”</li>
+</ul>
+
+<h3 id="inf3-infinitive"><code>Inf3</code>: infinitive</h3>
+
+<p>Words in the third infinitive form (also known as the MA-infinitive)
+are assigned the <code>VerbForm</code> value <code>Inf3</code>.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Menen <b>katsomaan</b> musikaalia</em> “I am going to <b>see</b> a musical”</li>
+</ul>
+
+<h3 id="part-participle"><code>Part</code>: participle</h3>
+
+<p>Words in participle forms are assigned the <code>VerbForm</code> value <code>Part</code>.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Puolue on <b>saanut</b> tukea</em> “The party has <b>received</b> support”</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Finnish_verb_conjugation#Infinitives_and_participles">http://en.wikipedia.org/wiki/Finnish_verb_conjugation#Infinitives_and_participles</a></li>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=444">http://scripta.kotus.fi/visk/sisallys.php?p=444</a> (in Finnish)</li>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=108">http://scripta.kotus.fi/visk/sisallys.php?p=108</a> (in Finnish)</li>
+  <li><a href="http://kaino.kotus.fi/visk/sisallys.php?p=120">http://kaino.kotus.fi/visk/sisallys.php?p=120</a> (in Finnish)</li>
+  <li><a href="http://kaino.kotus.fi/visk/sisallys.php?p=121">http://kaino.kotus.fi/visk/sisallys.php?p=121</a> (in Finnish)</li>
+</ul>
 
 
 <!-- "in other languages" links -->
