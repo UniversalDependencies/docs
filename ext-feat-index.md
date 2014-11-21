@@ -28,7 +28,7 @@ The following Interset features are currently not part of the standard:
 * <a href="u/ext-feat/NumForm.html">NumForm</a>
 * <a href="u/ext-feat/NumValue.html">NumValue</a>
 * <a href="u/ext-feat/PartType.html">PartType</a>
-* <a href="u/ext-feat/Politeness.html">Polite</a>
+* <a href="u/ext-feat/Polite.html">Polite</a>
 * <a href="u/ext-feat/PrepCase.html">PrepCase</a>
 * <a href="u/ext-feat/PunctSide.html">PunctSide</a>
 * <a href="u/ext-feat/PunctType.html">PunctType</a>
