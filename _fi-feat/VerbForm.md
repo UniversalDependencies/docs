@@ -23,7 +23,7 @@ and is always annotated with `VerbForm=Fin`.
 
 #### Examples
 
-* [fi] _Minä <b>ostin</b> kahvia "I <b>bought</b> coffee"
+* [fi] _Minä <b>ostin</b> kahvia_ "I <b>bought</b> coffee"
 * [fi] _Minulla <b>ei</b> ole autoa_ "I <b>do not</b> have a car"
 
 ### `Inf`: infinitive
