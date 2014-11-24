@@ -1,0 +1,389 @@
+---
+layout: base
+title: 'Tagset he::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset he::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>he::conll</tt>, total 370 tags.
+
+<table>
+  <tr style="background:lightgray"><td>!!MISS!! !!MISS!! !!MISS!!</td><td>=&gt;</td><td>X</td><td>_</td><td>ב, ו, מ, ה, ניו</td></tr>
+  <tr><td>!!SOME_!! !!SOME_!! _</td><td>=&gt;</td><td>X</td><td>_</td><td>ה, מ, ., ש"ח, ו</td></tr>
+  <tr style="background:lightgray"><td>!!UNK!! !!UNK!! !!UNK!!</td><td>=&gt;</td><td>X</td><td>_</td><td>ב, ו, ל, ה, ש</td></tr>
+  <tr><td>!!ZVL!! !!ZVL!! _</td><td>=&gt;</td><td>X</td><td>_</td><td>ה, קפידבין, ב, קפספבין, יחסים</td></tr>
+  <tr style="background:lightgray"><td>ADVERB ADVERB _</td><td>=&gt;</td><td>ADV</td><td>_</td><td>כ</td></tr>
+  <tr><td>AT AT _</td><td>=&gt;</td><td>PART</td><td>_</td><td>את, אות, עם</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|P|A</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part</td><td>מו"לות</td></tr>
+  <tr><td>BN BN F|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מחזיקות, מגיעות, מעניקות, מובילות, מעסיקות</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|P|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתקבלות, מתנגדות, מתעוררות, מצטברות, מתנגשות</td></tr>
+  <tr><td>BN BN F|P|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מוקדמות, מותנות, מוטלות, מוצבות</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|P|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נחשבות, נפרסות, נעדרות, נמשכות, נרתעות</td></tr>
+  <tr><td>BN BN F|P|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td>נוגעות, נובעות, קשורות, עומדות, ספוגות</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|P|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Int</td><td>מטפלות, מקיימות, מחפשות, מלוות, משתקות</td></tr>
+  <tr><td>BN BN F|P|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Int,Pass</td><td>מיועדות, מאושפזות, מתועשות</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|S|3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|Person=3|VerbForm=Part</td><td>ממלאה</td></tr>
+  <tr><td>BN BN F|S|A</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part</td><td>מקבלת, מוליכה</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מוליכה, מתאימה, משפיעה, מגדירה, מעריכה</td></tr>
+  <tr><td>BN BN F|S|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid</td><td>מתחדשת, מתגבשת, מתנכרת, מתייצבת, מסתכמת</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|S|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau,Pass</td><td>מורכבת, מוקפת, מופנמת, מובטחת, מושמעת</td></tr>
+  <tr><td>BN BN F|S|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td>נמנעת, נקראת, נמצאת, נחשבת, נלווית</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td>כוללת, עומדת, נוגעת, עוברת, הולכת</td></tr>
+  <tr><td>BN BN F|S|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Int</td><td>מאפשרת, מבקשת, מבוססת, מבטלת, מטפלת</td></tr>
+  <tr style="background:lightgray"><td>BN BN F|S|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מדורגת, מיועדת, משולמת, מיובאת, משודרת</td></tr>
+  <tr><td>BN BN M|P|1</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|Person=1|VerbForm=Part</td><td>ממיסים</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|P|3|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Cau</td><td>מעיזים</td></tr>
+  <tr><td>BN BN M|P|A</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part</td><td>רבים, מבקיעים, נקלטים, סועדים, שתולים</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מגיעים, מובילים, מותירים, מעדיפים, מקיפים</td></tr>
+  <tr><td>BN BN M|P|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתגוררים, מתקיימים, מתבדחים, מתנהלים, מסתיידים</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|P|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מועסקים, מוזנים, מוצבים, מוזכרים, מופנים</td></tr>
+  <tr><td>BN BN M|P|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td>ניתנים, נמצאים, נחשבים, נערכים, נאמרים</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|P|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td>זוכים, חוסכים, סובלים, חולים, מלים</td></tr>
+  <tr><td>BN BN M|P|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int</td><td>מקבלים, משמשים, מנצלים, מצלמים, מנסים</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|P|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int,Pass</td><td>מקורבים, מעוניינים, מיוצרים, מיועדים, מבוצעים</td></tr>
+  <tr><td>BN BN M|S|A</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td>נוסף, זכור, הורג, חוסך, נעשה</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מופיע, מוביל, מתחיל, מגיע, מפגיש</td></tr>
+  <tr><td>BN BN M|S|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Mid</td><td>מצטבר, מתרחש, מתכוון, מתנהל, משתמש</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|S|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau,Pass</td><td>מוקדש, מוקם, מוקף, מופקד, מופשט</td></tr>
+  <tr><td>BN BN M|S|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td>נעשה, נחשב, ניתן, נמנע, נראה</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td>קשור, נוגע, כולל, דוקר, חוסך</td></tr>
+  <tr><td>BN BN M|S|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int</td><td>משמש, מנסה, מפרט, מכהן, מטבע</td></tr>
+  <tr style="background:lightgray"><td>BN BN M|S|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מדובר, ממונה, מזוהה, משולם, מהולל</td></tr>
+  <tr><td>BN BN_S_PP M|P|A|PAAL|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>לניהן, דומיהן</td></tr>
+  <tr style="background:lightgray"><td>BN BN_S_PP M|P|A|PAAL|suf_F|suf_S|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>יושביה</td></tr>
+  <tr><td>BN BN_S_PP M|P|A|PAAL|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>רוויו</td></tr>
+  <tr style="background:lightgray"><td>BN BN_S_PP M|S|A|HIFIL|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Cau</td><td>מקבילו</td></tr>
+  <tr><td>BN BN_S_PP M|S|A|PAAL|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>רוקמן, פולטן</td></tr>
+  <tr style="background:lightgray"><td>BN BN_S_PP M|S|A|PAAL|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>מותחם, צדם</td></tr>
+  <tr><td>BN BN_S_PP M|S|A|PIEL|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Int</td><td>מרקדו</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT F|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מחזיקות</td></tr>
+  <tr><td>BNT BNT F|P|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתעמלות</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT F|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרחיקת</td></tr>
+  <tr><td>BNT BNT F|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td>אוזלת, סרת</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part</td><td>ממלאי, מנחילי</td></tr>
+  <tr><td>BNT BNT M|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מנחילי, מקימי, מחזיקי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מוכי, מורשי, מורשעי</td></tr>
+  <tr><td>BNT BNT M|P|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נאנסי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td>לובשי, דורשי, לומדי, צדי, פושטי</td></tr>
+  <tr><td>BNT BNT M|P|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int</td><td>מיידי, מכסחי, מפזרי, מלבי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part</td><td>מגייס</td></tr>
+  <tr><td>BNT BNT M|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרבה</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td>לש, סולל</td></tr>
+  <tr><td>BNT BNT M|S|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int</td><td>מטבע, ממלא</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מלוקק</td></tr>
+  <tr><td>CC CC _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>ו, ש, בניגוד, כפי, ככל</td></tr>
+  <tr style="background:lightgray"><td>CC CC-COORD _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>ו</td></tr>
+  <tr><td>CC CC-REL _</td><td>=&gt;</td><td>CONJ</td><td>PronType=Rel</td><td>אשר</td></tr>
+  <tr style="background:lightgray"><td>CC CC-SUB _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td>כי, כדי, כאשר, לאחר, כמו</td></tr>
+  <tr><td>CD CD F|D</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Dual</td><td>מאתיים, אלפיים</td></tr>
+  <tr style="background:lightgray"><td>CD CD F|P</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Plur</td><td>ששים, שישים, שמונים, עשרים, ארבעים</td></tr>
+  <tr><td>CD CD F|S</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Sing</td><td>מאה</td></tr>
+  <tr style="background:lightgray"><td>CD CD M|D</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr><td>CD CD M|P</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Plur</td><td>מיליון, אלף, שלושה, מיליארד, ארבעה</td></tr>
+  <tr style="background:lightgray"><td>CD CD M|S</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Sing</td><td>אחד, שמונה, שישי</td></tr>
+  <tr><td>CD CD _</td><td>=&gt;</td><td>NUM</td><td>_</td><td>ש"ח, 1, 0, 2, 3</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT F|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Dual</td><td>שתי</td></tr>
+  <tr><td>CDT CDT F|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td>עשרים, ששים, שבעים, שלושים</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT F|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>CDT CDT M|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Dual</td><td>שני</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT M|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>אלפי, שלושת, מיליוני, ארבעת, מיליארדי</td></tr>
+  <tr><td>CDT CDT M|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>אחד</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינן</td></tr>
+  <tr><td>COP COP F|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbType=Cop</td><td>יהיו</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|2|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbType=Cop</td><td>היית</td></tr>
+  <tr><td>COP COP F|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינה, איננה</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>היא</td></tr>
+  <tr><td>COP COP F|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td>תהיה</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td>היתה, הייתה</td></tr>
+  <tr><td>COP COP M|P|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|1|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|P|1|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=2|VerbForm=Part|VerbType=Cop</td><td>אינכם</td></tr>
+  <tr><td>COP COP M|P|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbType=Cop</td><td>היו</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינם</td></tr>
+  <tr><td>COP COP M|P|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>הנם</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|S|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|1|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|S|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=2|VerbForm=Part|VerbType=Cop</td><td>אינך</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbType=Cop</td><td>הייה</td></tr>
+  <tr><td>COP COP M|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינו, איננו</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>הינו</td></tr>
+  <tr><td>COP COP M|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td>יהיה</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td>היה</td></tr>
+  <tr><td>COP COP-TOINFINITIVE POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|VerbType=Cop</td><td>להיות</td></tr>
+  <tr style="background:lightgray"><td>DEF DEF _</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td>ה</td></tr>
+  <tr><td>DEF@DT DEF@DT _</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Tot</td><td>הכל</td></tr>
+  <tr style="background:lightgray"><td>DT DT _</td><td>=&gt;</td><td>DET</td><td>_</td><td>מבחר, איזושהי, כל</td></tr>
+  <tr><td>DTT DTT _</td><td>=&gt;</td><td>DET</td><td>Definite=Red</td><td>כל, כמה, אותו, שום, הרבה</td></tr>
+  <tr style="background:lightgray"><td>EX EX _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Ex</td><td>יש, אין, ישנם</td></tr>
+  <tr><td>IN IN _</td><td>=&gt;</td><td>SCONJ</td><td>AdpType=Prep</td><td>על, ל, עם, ב, בין</td></tr>
+  <tr style="background:lightgray"><td>INTJ INTJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td>פוס, נא, אוף, חלילה, אוי</td></tr>
+  <tr><td>JJ JJ F|P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td>בעייתיות, ישנות</td></tr>
+  <tr style="background:lightgray"><td>JJ JJ F|S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td>ארצית, רבה, תחתית, קטנה, ארוגנטית</td></tr>
+  <tr><td>JJ JJ M|P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td>עשירים, טטרים, שנונים, הונגרים, זכאים</td></tr>
+  <tr style="background:lightgray"><td>JJ JJ M|S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td>קרוב, יהודי, רגיל, תיכון, בהיר</td></tr>
+  <tr><td>JJ JJ _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td>י"ד</td></tr>
+  <tr style="background:lightgray"><td>JJT JJT F|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>JJT JJT F|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td>חסרת, שוות, עטופת, מקפיאת, ארוכת</td></tr>
+  <tr style="background:lightgray"><td>JJT JJT M|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>מרובי, מהירי</td></tr>
+  <tr><td>JJT JJT M|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>מלא</td></tr>
+  <tr style="background:lightgray"><td>MD MD A</td><td>=&gt;</td><td>VERB</td><td>VerbType=Mod</td><td>אפשר, ייתכן, אסור, כדאי, מוטב</td></tr>
+  <tr><td>MD MD F|P|A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbType=Mod</td><td>אמורות</td></tr>
+  <tr style="background:lightgray"><td>MD MD F|P|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|VerbType=Mod</td><td>מאפשרות</td></tr>
+  <tr><td>MD MD F|S|3|FUTURE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|VerbType=Mod</td><td>תוכל</td></tr>
+  <tr style="background:lightgray"><td>MD MD F|S|A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbType=Mod</td><td>עלולה, חייבת, צריכה, מסוגלת, עשויה</td></tr>
+  <tr><td>MD MD F|S|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|VerbType=Mod</td><td>יכולה</td></tr>
+  <tr style="background:lightgray"><td>MD MD M|P|1|FUTURE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|Tense=Fut|VerbType=Mod</td><td></td></tr>
+  <tr><td>MD MD M|P|1|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|Tense=Past|VerbType=Mod</td><td></td></tr>
+  <tr style="background:lightgray"><td>MD MD M|P|3|FUTURE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Tense=Fut|VerbType=Mod</td><td></td></tr>
+  <tr><td>MD MD M|P|A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbType=Mod</td><td>צריכים, עלולים, אמורים, חייבים, עשויים</td></tr>
+  <tr style="background:lightgray"><td>MD MD M|P|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|VerbType=Mod</td><td>יכולים</td></tr>
+  <tr><td>MD MD M|S|2|FUTURE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Tense=Fut|VerbType=Mod</td><td>יוכל</td></tr>
+  <tr style="background:lightgray"><td>MD MD M|S|A</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbType=Mod</td><td>צריך, עלול, ניתן, אמור, חייב</td></tr>
+  <tr><td>MD MD M|S|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|VerbType=Mod</td><td>יכול</td></tr>
+  <tr style="background:lightgray"><td>MD MD M|S|A|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbType=Mod</td><td>קל</td></tr>
+  <tr><td>NCD NCD _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td>20.30, 20.00, 5.11.90, 2.3.3, 9:00</td></tr>
+  <tr style="background:lightgray"><td>NN NN F|D</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Dual</td><td>שעתיים, שנתיים</td></tr>
+  <tr><td>NN NN F|DP</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Dual,Plur</td><td>שפתיים</td></tr>
+  <tr style="background:lightgray"><td>NN NN F|P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td>פנים, סכינים</td></tr>
+  <tr><td>NN NN F|S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td>%, סכין, גיהנום, מטבע, דופן</td></tr>
+  <tr style="background:lightgray"><td>NN NN M</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc</td><td>מיתאר, וידיאו</td></tr>
+  <tr><td>NN NN M|D</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Dual</td><td>חודשיים, שבועיים, יומיים, משקפיים</td></tr>
+  <tr style="background:lightgray"><td>NN NN M|DP</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Dual,Plur</td><td>שוליים, משקפיים</td></tr>
+  <tr><td>NN NN M|P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Plur</td><td>ימים, שטחים, קיבוצים, חיים, חודשים</td></tr>
+  <tr style="background:lightgray"><td>NN NN M|S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td>פועל, מקום, קיבוץ, מפרץ, עבר</td></tr>
+  <tr><td>NN NN S</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>NN NN _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td>מיכל, תאולוגיה</td></tr>
+  <tr><td>NN NN_S_PP F|P|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>בנותיהן, השלכותיהן, תביעותיהן, שמלותיהן, הצלחותיהן</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|P|suf_F|suf_S|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes</td><td></td></tr>
+  <tr><td>NN NN_S_PP F|P|suf_F|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>ידיה</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|P|suf_MF|suf_P|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem,Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td>ידינו</td></tr>
+  <tr><td>NN NN_S_PP F|P|suf_MF|suf_S|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem,Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes</td><td>ידי</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|P|suf_M|suf_P|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes</td><td>מחשבותיכם</td></tr>
+  <tr><td>NN NN_S_PP F|P|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>ידיהם, אזניהם, עקבותיהם</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|P|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>ידיו, כליו</td></tr>
+  <tr><td>NN NN_S_PP F|S|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>עזרתן</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|S|suf_F|suf_S|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes</td><td>עירך, עבודתך, הליכתך, אישיותך, רשותך</td></tr>
+  <tr><td>NN NN_S_PP F|S|suf_F|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>ידה, דרכה, בתה</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|S|suf_MF|suf_P|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem,Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td>ארצנו, ממשלתנו, משפחתנו, שליטתנו, עבודתנו</td></tr>
+  <tr><td>NN NN_S_PP F|S|suf_MF|suf_S|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Fem,Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes</td><td>דעתי, דרכי, עבודתי, עצתי, שאלתי</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|S|suf_M|suf_P|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes</td><td>דעתכם</td></tr>
+  <tr><td>NN NN_S_PP F|S|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>דרכם, ידם</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP F|S|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>ידו, בירתו, בעלותו, דרכו</td></tr>
+  <tr><td>NN NN_S_PP M|P|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>יקיריהן, תנאיהן, הוריהן, קרסוליהן, מאחזיהן</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|P|suf_F|suf_S|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes</td><td>סיכוייך, אולריך</td></tr>
+  <tr><td>NN NN_S_PP M|P|suf_F|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>בעליה, הבליה</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|P|suf_MF|suf_P|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem,Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td>טורינו, אויבינו, צעירינו, ילדינו, בדרנינו</td></tr>
+  <tr><td>NN NN_S_PP M|P|suf_MF|suf_S|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem,Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes</td><td>יצרי, יוצרי</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|P|suf_M|suf_P|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes</td><td>מעשיכם</td></tr>
+  <tr><td>NN NN_S_PP M|P|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>פניהם</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|P|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>פניו</td></tr>
+  <tr><td>NN NN_S_PP M|S|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>רובן, קיצן, עזרן, מצבן, עיצומן</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|S|suf_F|suf_S|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes</td><td>מאמרך, ביתך, לבדך, חברך, מנך</td></tr>
+  <tr><td>NN NN_S_PP M|S|suf_F|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>דומה, מקומה, חוקה, טעמה, חוצה</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|S|suf_MF|suf_P|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem,Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td>צדנו, לבנו</td></tr>
+  <tr><td>NN NN_S_PP M|S|suf_MF|suf_S|suf_1</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Fem,Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes</td><td>רצוני, מישחקי, כותלי, זיכרוני, ביתי</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|S|suf_M|suf_P|suf_2</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes</td><td>לבכם</td></tr>
+  <tr><td>NN NN_S_PP M|S|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes</td><td>כללם, מקומם</td></tr>
+  <tr style="background:lightgray"><td>NN NN_S_PP M|S|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes</td><td>זמנו, מענו, מקומו, סוגו, צידו</td></tr>
+  <tr><td>NNP NNP F|S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Fem|Number=Sing</td><td>חן, נועם</td></tr>
+  <tr style="background:lightgray"><td>NNP NNP M|S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Masc|Number=Sing</td><td>רומא, מכבי, פרץ, גדות, ישראל</td></tr>
+  <tr><td>NNP NNP _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td>ישראל, -, ירושלים, כהנא, ארה"ב</td></tr>
+  <tr style="background:lightgray"><td>NNT NNT F|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td>פני</td></tr>
+  <tr><td>NNT NNT F|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td>סכין</td></tr>
+  <tr style="background:lightgray"><td>NNT NNT M|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>משטחי, ברזי, בני, דגמי, עלי</td></tr>
+  <tr><td>NNT NNT M|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>בן, סך, דבר, קרב, טעם</td></tr>
+  <tr style="background:lightgray"><td>P P _</td><td>=&gt;</td><td>PART</td><td>_</td><td>בלתי, אי, בין, אנטי, תת</td></tr>
+  <tr><td>POS POS _</td><td>=&gt;</td><td>PART</td><td>Poss=Yes</td><td>של</td></tr>
+  <tr style="background:lightgray"><td>PREPOSITION PREPOSITION _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td>ב, ל, מ, כ, כש</td></tr>
+  <tr><td>PRP PRP F|P|1|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=1|PronType=Prs</td><td>אנו, אנחנו</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP F|P|3|DEM</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Dem</td><td>אלה, אלו</td></tr>
+  <tr><td>PRP PRP F|P|3|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td>אלו</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP F|P|IMP</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Ind,Tot</td><td>כלשהן</td></tr>
+  <tr><td>PRP PRP F|S|1|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=1|PronType=Prs</td><td>אני</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP F|S|3|DEM</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Dem</td><td>זו, זאת, זוהי, היא</td></tr>
+  <tr><td>PRP PRP F|S|3|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td>אותה, זאת, זו, עצמן, עצמה</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP F|S|IMP</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Ind,Tot</td><td>כלשהי</td></tr>
+  <tr><td>PRP PRP M|P|1|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP PRP M|P|2|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td>אתם</td></tr>
+  <tr><td>PRP PRP M|P|3|DEM</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Dem</td><td>הללו, הם</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP M|P|3|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td>עצמם, אלה, אותם, שניהם</td></tr>
+  <tr><td>PRP PRP M|P|IMP</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Ind,Tot</td><td>כלשהם</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP M|S|1|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP PRP M|S|2|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td>אתה, לה, עצמך</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP M|S|3|DEM</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Dem</td><td>זה, זהו</td></tr>
+  <tr><td>PRP PRP M|S|3|PERS</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td>עצמו, זה, אותו, הכול</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP M|S|IMP</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Ind,Tot</td><td>כלשהו</td></tr>
+  <tr><td>PRP PRP-DEM _</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td>כך</td></tr>
+  <tr style="background:lightgray"><td>PRP PRP-IMP _</td><td>=&gt;</td><td>PRON</td><td>PronType=Neg</td><td>כלום</td></tr>
+  <tr><td>PUNC PUNC _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td>,, ., ", -, )</td></tr>
+  <tr style="background:lightgray"><td>QW QW _</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td>מה, מי, האם, מ, היכן</td></tr>
+  <tr><td>RB RB _</td><td>=&gt;</td><td>ADV</td><td>_</td><td>לא, יותר, עוד, כבר, אתמול</td></tr>
+  <tr style="background:lightgray"><td>REL REL-SUBCONJ _</td><td>=&gt;</td><td>DET</td><td>PronType=Rel</td><td>ש</td></tr>
+  <tr><td>S_ANP S_ANP F|P|3</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3</td><td>הן~</td></tr>
+  <tr style="background:lightgray"><td>S_ANP S_ANP F|S|3</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3</td><td>היא~</td></tr>
+  <tr><td>S_ANP S_ANP M|P|3</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3</td><td>הם~</td></tr>
+  <tr style="background:lightgray"><td>S_ANP S_ANP M|S|2</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2</td><td>אתה~</td></tr>
+  <tr><td>S_ANP S_ANP M|S|3</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3</td><td>הוא~</td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN F|P|1</td><td>=&gt;</td><td>PART</td><td>Gender=Fem|Number=Plur|Person=1|PronType=Prs</td><td>אנחנו~</td></tr>
+  <tr><td>S_PRN S_PRN F|P|3</td><td>=&gt;</td><td>PART</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td>הן~</td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN F|S|1</td><td>=&gt;</td><td>PART</td><td>Gender=Fem|Number=Sing|Person=1|PronType=Prs</td><td>אני~</td></tr>
+  <tr><td>S_PRN S_PRN F|S|2</td><td>=&gt;</td><td>PART</td><td>Gender=Fem|Number=Sing|Person=2|PronType=Prs</td><td>את~</td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN F|S|3</td><td>=&gt;</td><td>PART</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td>היא~</td></tr>
+  <tr><td>S_PRN S_PRN M|P|1</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN M|P|2</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td>אתם~</td></tr>
+  <tr><td>S_PRN S_PRN M|P|3</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td>הם~</td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN M|S|1</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>S_PRN S_PRN M|S|2</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td>אתה~</td></tr>
+  <tr style="background:lightgray"><td>S_PRN S_PRN M|S|3</td><td>=&gt;</td><td>PART</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td>הוא~</td></tr>
+  <tr><td>TEMP TEMP-SUBCONJ _</td><td>=&gt;</td><td>SCONJ</td><td>AdvType=Tim</td><td>כש, מש</td></tr>
+  <tr style="background:lightgray"><td>TTL TTL M|S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td>ניצב, פרופסור, מר, דון, סמל</td></tr>
+  <tr><td>TTL TTL S</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td>ד"ר, עו"ד, זצ"ל</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|2|IMPERATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Plur|Person=2</td><td>ישנו</td></tr>
+  <tr><td>VB VB F|P|2|IMPERATIVE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Plur|Person=2|Voice=Act</td><td>סעו, קחו, עצמו</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|3|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Tense=Fut|Voice=Act</td><td>יכלו, יקבלו, ירצו, ילכו, ילמדו</td></tr>
+  <tr><td>VB VB F|P|3|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Tense=Fut|Voice=Int</td><td>ינסו, ישמשו, יאפשרו, יבקשו, יעוררו</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|3|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Tense=Past</td><td>יטלו, פורטסמות, יתוספו, וורגם, יירדו</td></tr>
+  <tr><td>VB VB F|P|A|BEINONI|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מופיעות, מצביעות, מטילות, מעמידות, מספיקות</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|A|BEINONI|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתפרצות, מזדמנות, מתפתחות, מצטרפות, מתכוונות</td></tr>
+  <tr><td>VB VB F|P|A|BEINONI|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מודבקות, מוקעות, מוצדקות, מושפלות, מושלכות</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|A|BEINONI|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נמצאות, נסחרות, נערכות, נחקרות, נראות</td></tr>
+  <tr><td>VB VB F|P|A|BEINONI|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td>עולות, סובלות, עוסקות, פועלות, נושאות</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|P|A|BEINONI|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Int</td><td>מעוררות, מבוססות, משרתות, מאיימות, מעופפות</td></tr>
+  <tr><td>VB VB F|P|A|BEINONI|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|Voice=Int,Pass</td><td>משונות, מיועדות, מעוניינות, מפורטות, מאוחדות</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|2|FUTURE|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Fut|Voice=Cau,Pass</td><td>תוארי</td></tr>
+  <tr><td>VB VB F|S|2|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Fut|Voice=Act</td><td>תנעמי</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|2|IMPERATIVE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Sing|Person=2|Voice=Act</td><td>גאלי, נאפי, סבאי, בואי, פוגי</td></tr>
+  <tr><td>VB VB F|S|2|IMPERATIVE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Sing|Person=2|Voice=Int</td><td>גרזי, צייני, גפרי</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|2|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Past</td><td>ש22חת, א.ס.</td></tr>
+  <tr><td>VB VB F|S|2|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Past|Voice=Cau</td><td>השמטת, העדת, המשכת</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|2|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Past|Voice=Mid</td><td>התייחסת</td></tr>
+  <tr><td>VB VB F|S|2|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Past|Voice=Act</td><td>אמרת, זכית, כתבת, קראת</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|2|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Tense=Past|Voice=Int</td><td>לימדת, ליווית, ציינת</td></tr>
+  <tr><td>VB VB F|S|3|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Cau</td><td>תביא, תגיע, תמשיך, תוכיח, תתיר</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|FUTURE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Mid</td><td>תצטרך, תתמודד, תתבקש, תתחרה, תתפזר</td></tr>
+  <tr><td>VB VB F|S|3|FUTURE|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Cau,Pass</td><td>תותקף, תוקם, תושג, תובן, תוגש</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|FUTURE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Pass</td><td>תיפתר, תימשך, תיאלץ, תיראה, תישאר</td></tr>
+  <tr><td>VB VB F|S|3|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Act</td><td>תצא, תעמוד, תעסוק, תיפול, תאמר</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Int</td><td>תקבל, תאפשר, תחייב, תקיים, תספר</td></tr>
+  <tr><td>VB VB F|S|3|FUTURE|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Fut|Voice=Int,Pass</td><td>תבוצע, תצורף, תאוזכר, תנוהל, תמומש</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past</td><td>העמידה, הבינה, ערכה, הטילה</td></tr>
+  <tr><td>VB VB F|S|3|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Cau</td><td>החליטה, הגיעה, הצליחה, החלה, הודיעה</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Mid</td><td>התקיימה, התפרסמה, התארגנה, התקבלה, התחייבה</td></tr>
+  <tr><td>VB VB F|S|3|PAST|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Cau,Pass</td><td>הוגשה, הוקמה, הונהגה, הושגה, הובטחה</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|PAST|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td>ניתנה, נערכה, נותרה, נועדה, נמכרה</td></tr>
+  <tr><td>VB VB F|S|3|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act</td><td>אמרה, עלתה, הפכה, קבעה, עברה</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|3|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Int</td><td>ניצחה, קיבלה, סיימה, ביקשה, אישרה</td></tr>
+  <tr><td>VB VB F|S|3|PAST|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Int,Pass</td><td>פורסמה, נוצחה, בוטלה, גובשה, חוקקה</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part</td><td>מובלת</td></tr>
+  <tr><td>VB VB F|S|A|BEINONI|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מתחילה, מגיעה, מבטיחה, מעידה, ממשיכה</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|A|BEINONI|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Mid</td><td>מתמשכת, מסתמכת, מתקיימת, משתדלת, מתפוררת</td></tr>
+  <tr><td>VB VB F|S|A|BEINONI|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau,Pass</td><td>מותנית, מורגשת, מורכבת, מוכנה, מופרכת</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|A|BEINONI|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td>נעשית, נראית, נמצאת, נתפסת, ניתנת</td></tr>
+  <tr><td>VB VB F|S|A|BEINONI|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td>אומרת, כוללת, שוררת, הולכת, פועלת</td></tr>
+  <tr style="background:lightgray"><td>VB VB F|S|A|BEINONI|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Int</td><td>מאפשרת, מחפשת, מחייבת, מבקשת, מבוססת</td></tr>
+  <tr><td>VB VB F|S|A|BEINONI|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מתוארת, מצויינת, מעוניינת, מזויפת, מיובאת</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|2|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=2|Tense=Past|Voice=Act</td><td>יצאתם</td></tr>
+  <tr><td>VB VB M|P|2|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=2|Tense=Past|Voice=Int</td><td>תכננתם, חיכיתם</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|3|BEINONI|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|VerbForm=Part|Voice=Cau</td><td>מעיזים</td></tr>
+  <tr><td>VB VB M|P|3|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Tense=Fut|Voice=Int</td><td>ייאפשרו</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|3|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Tense=Past</td><td></td></tr>
+  <tr><td>VB VB M|P|A|BEINONI|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מגיעים, מאמינים, מכירים, ממשיכים, מעריכים</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|A|BEINONI|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Mid</td><td>משתמשים, מסתערים, מתנגדים, מסתפקים, מתעניינים</td></tr>
+  <tr><td>VB VB M|P|A|BEINONI|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מוכנים, מוצעים, מועדפים, מונחים, מודרכים</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|A|BEINONI|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נמצאים, נעשים, ניתנים, נהנים, נפגשים</td></tr>
+  <tr><td>VB VB M|P|A|BEINONI|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td>רוצים, אומרים, יודעים, טוענים, עוברים</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|P|A|BEINONI|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int</td><td>מצפים, מנהלים, מקבלים, מנסים, מקווים</td></tr>
+  <tr><td>VB VB M|P|A|BEINONI|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int,Pass</td><td>משוכנעים, מפורטים, מיוצרים, מקודשים, מצופים</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|1|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=1|Tense=Past</td><td>הישווה</td></tr>
+  <tr><td>VB VB M|S|2|IMPERATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2</td><td>קיוצי</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|2|IMPERATIVE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Cau</td><td>הכל, הפקע</td></tr>
+  <tr><td>VB VB M|S|2|IMPERATIVE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Mid</td><td>הידרדר</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|2|IMPERATIVE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Act</td><td>לך, פרוץ, בוא, סע, תפוס</td></tr>
+  <tr><td>VB VB M|S|2|IMPERATIVE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Int</td><td>חבר, מאן</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Cau</td><td>יגיע, יביא, יעביר, יכיר, יסכים</td></tr>
+  <tr><td>VB VB M|S|3|FUTURE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Mid</td><td>יצטרך, יצטרף, יתברר, יתקשה, יתכנס</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|FUTURE|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Cau,Pass</td><td>יועבר, יונס, יועלה, יוטל, יוקם</td></tr>
+  <tr><td>VB VB M|S|3|FUTURE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Pass</td><td>יישאר, יימשך, ייווצר, ייעשה, ייאמר</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Act</td><td>יחזור, יקרה, יהפוך, יזכה, יאמר</td></tr>
+  <tr><td>VB VB M|S|3|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Int</td><td>יקבל, יארח, ישמש, יסייע, ינצח</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|FUTURE|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Int,Pass</td><td>יצוין, ימונה, יצורף, יתוקן, ישובץ</td></tr>
+  <tr><td>VB VB M|S|3|PAST</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past</td><td>העיר, מעד, העז, ערך, הערים</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Cau</td><td>הגיע, החל, הצליח, החליט, הודיע</td></tr>
+  <tr><td>VB VB M|S|3|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Mid</td><td>התברר, הסתכם, התנהל, התקיים, השתמש</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|PAST|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Cau,Pass</td><td>הוחלט, הוטל, הושג, הורשע, הוגש</td></tr>
+  <tr><td>VB VB M|S|3|PAST|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td>נראה, נמצא, נאמר, נמסר, ניתן</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act</td><td>אמר, עבר, עלה, טען, מסר</td></tr>
+  <tr><td>VB VB M|S|3|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Int</td><td>אחד, קיים, סירב, ניצח, קיבל</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|3|PAST|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Int,Pass</td><td>מונה, סוכם, נוצח, פורסם, זוכה</td></tr>
+  <tr><td>VB VB M|S|A|BEINONI|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מגיע, מאמין, מציע, מוסיף, מביא</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|A|BEINONI|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Mid</td><td>מתכוון, מתברר, מתגורר, מתנהל, מסתבר</td></tr>
+  <tr><td>VB VB M|S|A|BEINONI|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau,Pass</td><td>מוכן, מוצג, מובן, מוצדק, מושפע</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|A|BEINONI|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td>נאלץ, נמנע, נמנה, נשאר, נדרש</td></tr>
+  <tr><td>VB VB M|S|A|BEINONI|PAAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td>אומר, יודע, רוצה, עולה, עומד</td></tr>
+  <tr style="background:lightgray"><td>VB VB M|S|A|BEINONI|PIEL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int</td><td>מנסה, מקבל, מדבר, ממלא, מהווה</td></tr>
+  <tr><td>VB VB M|S|A|BEINONI|PUAL</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מדובר, מנוכה, מיועד, מתוכנן, מצופה</td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Cau</td><td></td></tr>
+  <tr><td>VB VB P|1|FUTURE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Mid</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|FUTURE|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Cau,Pass</td><td></td></tr>
+  <tr><td>VB VB P|1|FUTURE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Act</td><td></td></tr>
+  <tr><td>VB VB P|1|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut|Voice=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|PAST</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past</td><td></td></tr>
+  <tr><td>VB VB P|1|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Cau</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Mid</td><td></td></tr>
+  <tr><td>VB VB P|1|PAST|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Act</td><td></td></tr>
+  <tr><td>VB VB P|1|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|1|PAST|PUAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Int,Pass</td><td></td></tr>
+  <tr><td>VB VB P|2|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Fut|Voice=Cau</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|2|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Fut|Voice=Act</td><td></td></tr>
+  <tr><td>VB VB P|2|IMPERATIVE</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|2|IMPERATIVE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Voice=Pass</td><td></td></tr>
+  <tr><td>VB VB P|2|IMPERATIVE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|FUTURE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut</td><td></td></tr>
+  <tr><td>VB VB P|3|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Cau</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|FUTURE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Mid</td><td></td></tr>
+  <tr><td>VB VB P|3|FUTURE|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Cau,Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|FUTURE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Pass</td><td></td></tr>
+  <tr><td>VB VB P|3|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Int</td><td></td></tr>
+  <tr><td>VB VB P|3|FUTURE|PUAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut|Voice=Int,Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|PAST</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past</td><td></td></tr>
+  <tr><td>VB VB P|3|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Cau</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Mid</td><td></td></tr>
+  <tr><td>VB VB P|3|PAST|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Cau,Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|PAST|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Pass</td><td></td></tr>
+  <tr><td>VB VB P|3|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB P|3|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Int</td><td></td></tr>
+  <tr><td>VB VB P|3|PAST|PUAL</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past|Voice=Int,Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|FUTURE|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Cau</td><td></td></tr>
+  <tr><td>VB VB S|1|FUTURE|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Mid</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|FUTURE|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Pass</td><td></td></tr>
+  <tr><td>VB VB S|1|FUTURE|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|FUTURE|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Int</td><td></td></tr>
+  <tr><td>VB VB S|1|FUTURE|PUAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Fut|Voice=Int,Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|PAST|HIFIL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Cau</td><td></td></tr>
+  <tr><td>VB VB S|1|PAST|HITPAEL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Mid</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|PAST|HUFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Cau,Pass</td><td></td></tr>
+  <tr><td>VB VB S|1|PAST|NIFAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|PAST|PAAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Act</td><td></td></tr>
+  <tr><td>VB VB S|1|PAST|PIEL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Int</td><td></td></tr>
+  <tr style="background:lightgray"><td>VB VB S|1|PAST|PUAL</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past|Voice=Int,Pass</td><td></td></tr>
+  <tr><td>VB VB-BAREINFINITIVE _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td>לרכב</td></tr>
+  <tr style="background:lightgray"><td>VB VB-TOINFINITIVE HIFIL</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Cau</td><td>להשיג, להעניק, להעלות, להגיע, להבין</td></tr>
+  <tr><td>VB VB-TOINFINITIVE HITPAEL</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Mid</td><td>להתמודד, להתקיים, להתערב, להשתתף, להשתלב</td></tr>
+  <tr style="background:lightgray"><td>VB VB-TOINFINITIVE NIFAL</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Pass</td><td>להיכנס, להישאר, להימנע, להיפגש, להילחם</td></tr>
+  <tr><td>VB VB-TOINFINITIVE PAAL</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Act</td><td>לעשות, לתת, למנוע, למצוא, לומר</td></tr>
+  <tr style="background:lightgray"><td>VB VB-TOINFINITIVE PIEL</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Int</td><td>לשלם, לבצע, לקבל, לאפשר, לבטל</td></tr>
+  <tr><td>VB VB-TOINFINITIVE _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td>לשער, לגשת, לזמן, לזהות, הסלטיין</td></tr>
+</table>
