@@ -21,7 +21,7 @@ shortdef: 'pronominal type'
 
 #### Examples
 
-* [fi] _kuka, mikä, kumpi, millainen, _ "who, what, which, like what"
+* [fi] _kuka, mikä, kumpi, millainen_ "who, what, which, like what"
 
 ### `Rel`: relative
 
