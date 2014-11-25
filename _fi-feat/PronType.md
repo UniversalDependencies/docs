@@ -24,11 +24,19 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 * [fi] _minä, sinä, hän, me, te, he_ "I, you, he/she, we, you, they"
 * [fi] _minun, sinun, hänen, meidän, teidän, heidän_ "my, your, his/her, our, your, their"
 
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=716> (in Finnish)
+
 ### `Rcp`: reciprocal
 
 #### Examples
 
 * [fi] _toisiaan_ "each other"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=732> (in Finnish)
 
 ### `Int`: interrogative
 
@@ -36,17 +44,29 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 * [fi] _kuka, mikä, kumpi, millainen_ "who, what, which, like what"
 
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=734> (in Finnish)
+
 ### `Rel`: relative
 
 #### Examples
 
 * [fi] _joka, mikä, kuka_ "which, what, who"
 
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=735> (in Finnish)
+
 ### `Dem`: demonstrative
 
 #### Examples
 
 * [fi] _tämä, tuo, se, nämä, nuo, ne_ "this, that, it/that, these, those, they/those"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=720> (in Finnish)
 
 ### `Ind`: indefinite
 
