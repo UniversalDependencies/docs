@@ -34,7 +34,7 @@ for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
 
 #### Examples
 
-* [fi] _kuka, mikä, kumpi, millainen, _ "who, what, which, like what"
+* [fi] _kuka, mikä, kumpi, millainen_ "who, what, which, like what"
 
 ### `Rel`: relative
 
