@@ -735,8 +735,82 @@ for <code>Poss</code>.</p>
 <p><a id="al-fi-feat/PronType" class="al-dest"></a></p>
 <h2><code>PronType</code>: pronominal type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PronType</code>.</p>
+<h3 id="prs-personal"><code>Prs</code>: personal</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>[fi] <em>minä, sinä, hän, me, te, he</em> “I, you, he/she, we, you, they”</li>
+  <li>[fi] <em>minun, sinun, hänen, meidän, teidän, heidän</em> “my, your, his/her, our, your, their”</li>
+</ul>
+
+<h3 id="rcp-reciprocal"><code>Rcp</code>: reciprocal</h3>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[fi] <em>toisiaan</em> “each other”</li>
+</ul>
+
+<h3 id="int-interrogative"><code>Int</code>: interrogative</h3>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[fi] _kuka, mikä, kumpi, millainen, _ “who, what, which, like what”</li>
+</ul>
+
+<h3 id="rel-relative"><code>Rel</code>: relative</h3>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[fi] <em>joka, mikä, kuka</em> “which, what, who”</li>
+</ul>
+
+<h3 id="dem-demonstrative"><code>Dem</code>: demonstrative</h3>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[fi] <em>tämä, tuo, se, nämä, nuo, ne</em> “this, that, it/that, these, those, they/those”</li>
+</ul>
+
+<h3 id="ind-indefinite"><code>Ind</code>: indefinite</h3>
+
+<p>TODO</p>
+
+<h3 id="notes-indefinite-vs-quantifier-pronouns">Notes: indefinite vs. quantifier pronouns</h3>
+
+<p>Some descriptions of Finnish avoid the category label “indefinite
+pronouns” (indefiniittipronomi) in favor of “quantifier/quantifying
+pronouns” (kvanttoripronomini)
+(e.g. <a href="http://scripta.kotus.fi/visk/sisallys.php?p=742">http://scripta.kotus.fi/visk/sisallys.php?p=742</a>; in Finnish),
+while others recognize both categories
+(http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf#page=37).
+UD Finnish only uses the <code>PronType</code> value <code>Ind</code> (indefinite) (See also
+the note on negative pronouns below).</p>
+
+<h3 id="notes-negative-pronouns">Notes: negative pronouns</h3>
+
+<p>Finnish has no “inherently negative” pronouns (see
+e.g. <a href="http://wals.info/chapter/115">http://wals.info/chapter/115</a>) such as [en] <em>nothing</em> or [de]
+<em>niemand</em> “nobody” but instead uses a negator to construct such
+expressions:</p>
+
+<ul>
+  <li><em>ei mitään</em> “nothing”</li>
+  <li><em>ei kukaan</em> “nobody”</li>
+</ul>
+
+<p>Some descriptions separate pronouns that can occur in such expressions
+into their own subcategory of negative polarity (kieltohakuiset)
+pronouns (see e.g. <a href="http://scripta.kotus.fi/visk/sisallys.php?p=757">VISK §
+757</a>; in Finnish).
+However, as the
+<a href="http://universaldependencies.github.io/docs/u/feat/PronType.html">UD <code>PronType=Neg</code></a>
+feature only covers inherently negative pronouns, UD Finnish assigns
+the <code>PronType</code> value <code>Ind</code> to these pronouns.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-feat/PronType.md" target="#">edit PronType</a></p>
 
