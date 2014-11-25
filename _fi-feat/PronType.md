@@ -6,6 +6,19 @@ shortdef: 'pronominal type'
 
 ### `Prs`: personal
 
+Formal written Finnish uses the following personal pronouns:
+
+| ---------------------------|
+|        |      | Person|    |
+| Number |  1   |  2   |  3  |
+| -------|-------------------|
+| Sing   | minä | sinä | hän |
+| Plur   | me   | te   | he  |
+|----------------------------|
+
+Colloquial Finnish and regional dialects include a number of variants
+for each, such as _mä, mie, mää_ and _myö_ for _minä_ "I".
+
 #### Examples
 
 * [fi] _minä, sinä, hän, me, te, he_ "I, you, he/she, we, you, they"
