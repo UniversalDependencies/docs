@@ -9,7 +9,8 @@ modifier* has two basic uses in the Finnish UD scheme.
 
 First, In Finnish, compounds are generally written as a single word,
 but for instance some compounds involving foreign words or proper
-names are written separately using a dash.
+names are written separately using a dash. These are annotated using
+`compound:nn`.
 
 <!-- fname:nn_foreign.pdf -->
 ~~~ sdparse
