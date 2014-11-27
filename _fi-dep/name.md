@@ -1,7 +1,7 @@
 ---
 layout: entry
 title:  'name'
-shortdef : 'multi-word named entity'
+shortdef : 'name'
 ---
 
 Proper names constituted of more than one word are annotated using the dependency type `name`. The first (leftmost) word is the head, and the other words are direct dependents of the head.
@@ -18,6 +18,6 @@ nmod(juhlivat-2, öisin-3)
 nsubj-cop(esikoisteos-7, juhlivat-2)
 cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
-name(Donna-6, Tarttin-5)
-poss(esikoisteos-7, Donna-6)
+name(Donna-5, Tarttin-6)
+poss(esikoisteos-7, Donna-5)
 ~~~
