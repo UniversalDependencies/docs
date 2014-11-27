@@ -38,7 +38,7 @@ punct(Sanoin-1, .-7)
 
 <!--details-->
 
-The main subordinating conjunctions in TDT are:
+The main subordinating conjunctions are the following:
 
 * _että_ "that"
 * _jotta_ "so that"
@@ -56,7 +56,7 @@ adverb modifier [advmod]() as well as a comparative conjunction
 
 In addition to the basic subordinating conjunctions, the following
 words or word combinations can be considered subordinating
-conjunctions in TDT. Not all of these expressions have a direct
+conjunctions. Not all of these expressions have a direct
 counterpart in English, and thus the translations are approximate.
 
 * _ennenkuin_ "before"
