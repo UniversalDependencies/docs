@@ -80,7 +80,7 @@ pronouns" (indefiniittipronomi) in favor of "quantifier/quantifying
 pronouns" (kvanttoripronomini)
 (e.g. <http://scripta.kotus.fi/visk/sisallys.php?p=742>; in Finnish),
 while others recognize both categories
-(http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf#page=37).
+(e.g. [Voutilainen et al. 2012](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf#page=37)).
 UD Finnish only uses the `PronType` value `Ind` (indefinite) (See also
 the note on negative pronouns below).
 
