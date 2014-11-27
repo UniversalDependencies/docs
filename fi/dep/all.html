@@ -1219,7 +1219,13 @@ nmod:gsubj(särkyminen-2, maljakon-1)
 <p><a id="al-fi-dep/nmod:own" class="al-dest"></a></p>
 <h2><code>nmod:own</code>: haver</h2>
 
-<p>In Finnish, there is no direct equivalent to the verb <em>have</em>. Rather, <em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance, the meaning of the sentence <em>I have a pen</em> would be expressed in Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In TDT, these so called <em>possessive clauses</em> (omistuslause)  are analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)  making the thing had (<em>kynä</em> in the previous example) the subject. </p>
+<p>In Finnish, there is no direct equivalent to the verb <em>have</em>. Rather,
+<em>having</em> is expressed using the verb <em>olla</em>, <em>to be</em>. For instance,
+the meaning of the sentence <em>I have a pen</em> would be expressed in
+Finnish by <em>Minulla on kynä</em>, literally <em>“At me is a pen”</em>. In UD
+Finnish, these so called <em>possessive clauses</em> (omistuslause)  are
+analyzed as a subtype to <em>existential clauses</em>, (eksistentiaalilause)
+making the thing had (<em>kynä</em> in the previous example) the subject.</p>
 
 <!-- TODO For more information on special cases of subjects, see Section [subj-obj](#sec-subj-obj). -->
 
@@ -1227,12 +1233,12 @@ nmod:gsubj(särkyminen-2, maljakon-1)
 marked as a nominal modifier, <a href="">nmod</a>. However, as <code>nmod</code> is a very
 frequent dependency type that encodes many different meanings, the
 information that the clause is about having or owning would be
-lost. Therefore, the Finnish-specific SD scheme introduces a separate
+lost. Therefore, the UD Finnish scheme applies the <code>nmod:own</code>
 dependency type for nominal modifiers that encode owning, 
-nmod:own. The governor of the dependency is the verb <em>olla</em>, and
-the dependent is the haver or owner, which is required to be in the
-<em>adessive</em> case. The haver must also be an animate being or a group of
-animate beings.</p>
+following the approach of <a href="http://bionlp.utu.fi/fintreebank.html">TDT</a>. 
+The governor of the dependency is the verb <em>olla</em>, and the dependent
+is the haver or owner, which is required to be in the <em>adessive</em> case.
+The haver must also be an animate being or a group of animate beings.</p>
 
 <!-- fname:omistus.pdf -->
 <pre><code class="language-sdparse">Matilla on uusi auto . \n At_Matti is new car .
