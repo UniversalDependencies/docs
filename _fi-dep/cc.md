@@ -20,7 +20,7 @@ conj(kirjat-1, viivottimet-5)
 
 Coordinating conjunctions that consist of parts separated by
 coordinated elements are marked so that the first part is marked with
-the type [preconj]() and the second part with `cc` in the regular
+the type [cc:preconj]() and the second part with `cc` in the regular
 fashion. Adjacent parts of conjunctions are joined together with the
 most general dependency type [dep](), the rightmost word being the
 head.
