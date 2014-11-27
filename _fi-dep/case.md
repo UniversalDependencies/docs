@@ -6,7 +6,7 @@ tags: ['case']
 ---
 
 The dependency type `case` is used for the adposition in pre- and
-postpositional phrases. In the Finnish-specific SD scheme, the head of
+postpositional phrases. The head of
 an adpositional phrase is the nominal, not the adposition, so as to
 analyze adpositional phrases similarly to nominal modifiers without an
 adposition. (Such nominal modifiers are frequent in Finnish, as cases
