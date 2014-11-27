@@ -45,17 +45,16 @@ conj(kynät-1, viivottimet-5)
 
 Coordinating conjunctions are a closed class of words, and the main conjunctions are as follows:
 
-* _ja_ "and)
-* _sekä_ "and)
-* _sekä... että_ "both... and)
-* _-kä_ "attached to negation words, nor)
-* _eli_ "a.k.a.)
-* _tai_ "or)
-* _vai_ "or, in a question context)
-* _joko... tai_ "either... or)
-* _mutta_ "but)
-* _vaan_ "but, in a negative context)
-
+* _ja_ "and"
+* _sekä_ "and"
+* _sekä... että_ "both... and"
+* _-kä_ "attached to negation words, nor"
+* _eli_ "a.k.a."
+* _tai_ "or"
+* _vai_ "or" (in a question context)
+* _joko... tai_ "either... or"
+* _mutta_ "but"
+* _vaan_ "but" (in a negative context)
 
 In addition, certain less frequent words or combinations of words are marked as coordinating conjunctions in TDT, namely:
 
