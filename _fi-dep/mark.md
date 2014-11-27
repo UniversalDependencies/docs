@@ -52,7 +52,7 @@ The main subordinating conjunctions in TDT are:
 Note that the conjunction *kuin* has several uses. In
 addition to a subordinating conjunction, it can also serve as an
 adverb modifier [advmod]() as well as a comparative conjunction
-[comparator]().
+[comparator](mark:comparator).
 
 In addition to the basic subordinating conjunctions, the following
 words or word combinations can be considered subordinating
