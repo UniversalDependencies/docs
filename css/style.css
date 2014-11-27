@@ -196,7 +196,8 @@ div.center {
 }
 
 #main {
-  width:1000px;
+  max-width:1000px;
+  min-width: 600px;
   padding-left: 2em;
   padding-right: 2em;
 }
