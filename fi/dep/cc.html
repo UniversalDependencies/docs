@@ -50,11 +50,11 @@ conj(kirjat-1, viivottimet-5)
 <!--details-->
 
 <p>Coordinating conjunctions that consist of parts separated by
-coordinated elements are marked so that the first part is marked with
+coordinated elements are annotated so that the first part is marked with
 the type <a href="">cc:preconj</a> and the second part with <code>cc</code> in the regular
-fashion. Adjacent parts of conjunctions are joined together with the
-most general dependency type <a href="">dep</a>, the rightmost word being the
-head.</p>
+fashion. Adjacent parts of acting as a single conjunction are joined
+together with the <a href="">mwe</a> dependency relation with the initial word
+as the head and others as direct dependents of this word.</p>
 
 <!-- fname:cc2.pdf -->
 <pre><code class="language-sdparse">toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
@@ -66,9 +66,9 @@ conj(kynät-2, viivottimet-5)
 
 <!-- fname:cc3.pdf -->
 <pre><code class="language-sdparse">kynät ja / tai viivottimet \n pencils and / or rulers
-cc(kynät-1, tai-4)
-dep(tai-4, /-3)
-dep(/-3, ja-2)
+cc(kynät-1, ja-2)
+mwe(ja-2, /-3)
+mwe(ja-2, tai-4)
 conj(kynät-1, viivottimet-5)
 </code></pre>
 
