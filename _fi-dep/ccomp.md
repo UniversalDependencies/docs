@@ -5,9 +5,9 @@ shortdef : 'clausal complement'
 ---
 
 *Clausal complements* that have a subject different from that of the
-main clause (Note that a clausal complement need not have a subject
-present at all; the clause could be, for instance, passive.)  are
-marked with the dependency type `ccomp`. The governor is most
+main clause are marked with the dependency type `ccomp` (note that
+a clausal complement need not have a subject present at all; the
+clause could be, for instance, passive). The governor is most
 commonly, although not always, the main verb or predicative of the
 main clause, and the dependent is the main verb or predicative of the
 dependent clause. The clausal complement can also modify a word other
