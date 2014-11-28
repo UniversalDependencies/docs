@@ -5,9 +5,9 @@ shortdef : 'participal modifier'
 ---
 
 The *participal modifier* (`acl:partmod`) most commonly modifies a noun
-phrase. Note that the participle (Also the MA-derivation is treated
-as a participle in TDT.)  can take arguments, for instance a subject,
-just as any verb.
+phrase. Note that the participle can take arguments, for instance a subject,
+just as any verb. (Also the MA-derivation is treated as a participle in UD
+Finnish.)  
 
 <!-- fname:partmod_NP.pdf -->
 ~~~ sdparse
