@@ -424,9 +424,104 @@ this intermediate type, and made `dobj` a direct subtype of
 `complement`.
 
 Second, the `neg` dependency type, for marking negations, has been
-moved from under adverbial modiﬁers to under auxiliaries in the
+moved from under adverbial modifiers to under auxiliaries in the
 hierarchy. This is because in Finnish, the negation word ei is in most
 contexts a verb and acts in an auxiliary-like manner. It should be
 noted, however, that in TDT there are few cases where it is considered
 that for instance a noun phrase has been negated or where *ei*
 functions as the counterpart of *kyllä* "yes", and is thus an adverb.
+
+# Annotating phenomena of Finnish
+
+This section gives detailed instructions on annotating certain common
+phenomena that require detailed decision rules.
+
+## 5.1 Subjects and objects
+
+Both subjects and objects are straightforward to recognize in their
+prototypical cases, but both phenomena also have some difficult cases,
+which are discussed here.
+
+The subject is the primary complement of the verb, usually denoting
+the entity doing something. In addition to the *basic subject* (see
+[ISK §910]), also *existential subjects* (eksistentiaalisubjekti,
+e-subjekti) are considered subjects in TDT.
+
+<!-- fname:nsubj_existential.pdf -->
+~~~ sdparse
+Tien vieressä on talo . \n Road beside is house .
+adpos(Tien-1, vieressä-2)
+nommod(on-3, Tien-1)
+nsubj(on-3, talo-4)
+punct(on-3, .-5)
+~~~
+
+Possessive clauses (omistuslause) are considered a subtype of
+existential clauses, and analyzed similarly. As explained in Section
+2.31, the owner in possessive clauses is marked using the type
+`nommod-own`.
+
+<!-- fname:nsubj_possessive.pdf -->
+~~~ sdparse
+Hänellä on oma asunto . \n At_him is own apartment .
+nommod-own(on-2, Hänellä-1)
+nsubj(on-2, asunto-4)
+amod(asunto-4, oma-3)
+punct(on-2, .-5)
+~~~
+
+Also the genitive subject (not to be confused with the genitive
+subject of a noun, discussed in Section 2.22) in for instance
+necessive structures (see Section 5.14) is annotated as an `nsubj`.
+
+<!-- fname:nsubj_necessive.pdf -->
+~~~ sdparse
+Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
+nsubj(mennä-4, Minun-1)
+cop(pakko-3, on-2)
+iccomp(pakko-3, mennä-4)
+nommod(mennä-4, kotiin-5)
+punct(pakko-3, .-6)
+~~~
+
+In TDT, subjects are allowed to be in the *nominative*, *genitive* and
+*partitive* cases, and in addition, also an *accusative* subject is
+possible (the accusative case only exists for certain pronouns). Two
+notable situations where a complement in the accusative form is
+analyzed as the subject are:
+
+1. Infinite clausal complements (*Sain hänet itkemään.* "I made him
+   cry.")
+
+2. Possessive clauses (*Minulla on sinut.* "I have you.")
+
+The same cases are allowed for objects as for subjects: the
+nominative, the partitive, the genitive and the
+accusative. Complements in other cases are analyzed as *nominal
+modifiers* (`nommod`), despite their complement status.
+
+*Object cased amount adverbials* (objektin sijainen määrän
+adverbiaali, OSMA [ISK, §972]), which, as the name implies, use the
+same cases as objects, are analyzed as nominal modifiers. However,
+certain verbs are considered such that they can take as their object
+an expression that would otherwise be considered an amount adverbial.
+Examples where an amount is considered the object are for instance:
+
+#### Examples
+
+* [fi] *Juoksin kilometrin.* "I ran a kilometer."
+* [fi] *Moottori pyöri kymmenen kierrosta.* "The motor ran ten rounds."
+* [fi] *Maitotölkki painaa kilon.* "A milk jar weighs a kilogram."
+
+Passive verbforms take a direct object and not a passive subject, as
+in for instance English.
+
+**FIGURE MISSING**
+
+However, there are certain verbs, so called *derived passives* [ISK,
+§336], which may resemble passive verbforms in meaning, but which in
+fact take a subject, not an object. (In English, the Finnish derived
+passives generally correspond to intransitive uses of a verb, such as
+*the door opens*, sometimes termed *inchoative*.).
+
+**FIGURE MISSING**
