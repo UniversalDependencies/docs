@@ -106,7 +106,7 @@ We have used the parataxis relation to connect the parts of a news article bylin
 There does not seem to be a better relation to use.
 
 ~~~ sdparse
-Washington -LRB CNN -RRB- :
+Washington ( CNN ) :
 parataxis(Washington, CNN)
 ~~~
 
@@ -115,7 +115,7 @@ parataxis(Washington, CNN)
 Single word or phrase interjections are analyzed as [discourse](), but when a whole clause is interjected, we use the relation parataxis.
 
 ~~~ sdparse
-Calafia has great fries -LRB- they are to die for ! -RRB-
+Calafia has great fries ( they are to die for ! )
 parataxis(has, are)
 ~~~
 
