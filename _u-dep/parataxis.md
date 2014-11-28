@@ -33,7 +33,7 @@ commonly an utterance turn. Even if the treebanker is doing the sentence divisio
 happen because there seems to be a clear discourse relation linking two clauses.
 
 ~~~ sdparse
-Bearded dragons are sight hunters, they need to see the food to move .
+Bearded dragons are sight hunters , they need to see the food to move .
 parataxis(hunters, need)
 ~~~
 
