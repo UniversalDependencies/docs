@@ -131,6 +131,197 @@ dobj(*null*-6, leivoksen-7)
 punct(tilasi-2, .-8)
 </code></pre>
 
+<hr />
+
+<h1 id="conjunct-propagation-and-additional-dependencies">3 Conjunct propagation and additional dependencies</h1>
+
+<p>This section describes four phenomena that are annotated in the second
+annotation layer of TDT, termed the <em>conjunct propagation and
+additional dependencies</em> layer. These phenomena are <em>the propagation
+of conjunct dependencies</em>, <em>external subjects</em>, <em>syntactic functions
+of relativizers</em> and <em>gapping</em>. The annotation of this layer is added
+on top of the first layer, meaning that the analyses are no longer
+trees.</p>
+
+<h2 id="conjunct-propagation">3.1 Conjunct propagation</h2>
+
+<p>The SD scheme analyzes coordinations so that the first coordinated
+element is the head of the whole coordination.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>In this analysis alone, it is not possible to distinguish dependents
+and governors of the first coordinated element from those of the whole
+coordination, nor from elements that depend on or govern some but not
+all conjuncts. Therefore in the extended variants of the SD scheme,
+this distinction is made explicit with additional dependencies on top
+of the tree structure. That is, if an element modifies or governs
+multiple coordinated elements, it should be <em>propagated</em> to them. In
+principle, any dependency type introduced in Sections 2 and 3, with
+the exceptions of <code>punct</code>, <code>conj</code>, <code>cc</code> and <code>ellipsis</code>, can propagate
+in the second layer of annotation. Note especially that the
+dependencies introduced in the second layer, that is, external
+subjects and syntactic functions of relativizers, are also allowed to
+propagate.</p>
+
+<!-- fname:propagation.pdf -->
+<pre><code class="language-sdparse">Tultuaan kotiin Maija söi ensin lounaan ja imuroi sitten . \n After_coming home Maija ate first lunch and hoovered then .
+nommod(Tultuaan-1, kotiin-2)
+advcl(söi-4, Tultuaan-1)
+nsubj(söi-4, Maija-3)
+advmod(söi-4, ensin-5)
+dobj(söi-4, lounaan-6)
+cc(söi-4, ja-7)
+conj(söi-4, imuroi-8)
+advmod(imuroi-8, sitten-9)
+punct(söi-4, .-10)
+advcl(imuroi-8, Tultuaan-1)
+nsubj(imuroi-8, Maija-3)
+</code></pre>
+
+<p>In addition to simply propagating to other coordinated elements, it is
+possible for a dependency to change its type while doing so. This may
+happen in coordinations of elements with differing parts-of-speech,
+and cases where a sentence element acts in one syntactic role for the
+first conjunct and in an another role for some other conjunct.</p>
+
+<!-- fname:propagation_typechange.pdf -->
+<pre><code class="language-sdparse">Pieni ja savuttava nuotio paloi yön ja sammutettiin sitten . \n Small and smoking bonfire burned for_night and was_extinguished then .
+amod(nuotio-4, Pieni-1)
+cc(Pieni-1, ja-2)
+conj(Pieni-1, savuttava-3)
+nsubj(paloi-5, nuotio-4)
+nommod(paloi-5, yön-6)
+cc(paloi-5, ja-7)
+conj(paloi-5, sammutettiin-8)
+nommod(sammutettiin-8, sitten-9)
+punct(paloi-5, .-10)
+partmod(nuotio-4, savuttava-3)
+dobj(sammutettiin-8, nuotio-4)
+</code></pre>
+
+<h2 id="external-subjects-xsubj">3.2 External subjects (xsubj)</h2>
+
+<p>Open clausal complements, as discussed in Section 2.46, share their
+subject with another verb. The fact that the subject of the main verb
+is also the subject of the complement cannot be annotated on the first
+layer of TDT, as this would violate the treeness restriction.
+Therefore, these subjects are marked on the second layer of annotation
+using the dependency types <code>xsubj</code> (<em>external subject</em>) and
+<code>xsubj-cop</code> (<em>external copular subject</em>). Note also that an open
+clausal complement may not always have a subject, in for instance
+passive constructions.</p>
+
+<!-- fname:xsubj.pdf -->
+<pre><code class="language-sdparse">Matti ryhtyi lukemaan . \n Matti started_to read .
+nsubj(ryhtyi-2, Matti-1)
+xcomp(ryhtyi-2, lukemaan-3)
+punct(ryhtyi-2, .-4)
+xsubj(lukemaan-3, Matti-1)
+</code></pre>
+
+<p>External subjects interact with conjunct propagation in two ways: an
+external subject may propagate, and also a propagated <code>nsubj</code>
+dependency may be the source of a new <code>xsubj</code> dependency.</p>
+
+<!-- fname:xsubj_propagation1.pdf -->
+<pre><code class="language-sdparse">Matti ryhtyi lukemaan ja kirjoittamaan . \n Matti started_to read and write .
+nsubj(ryhtyi-2, Matti-1)
+xcomp(ryhtyi-2, lukemaan-3)
+punct(ryhtyi-2, .-6)
+cc(lukemaan-3, ja-4)
+conj(lukemaan-3, kirjoittamaan-5)
+xsubj(lukemaan-3, Matti-1)
+xsubj(kirjoittamaan-5, Matti-1)
+</code></pre>
+
+<!-- fname:xsubj_propagation2.pdf -->
+<pre><code class="language-sdparse">Matti luki ja ryhtyi kirjoittamaan . \n Matti read and started_to write .
+nsubj(luki-2, Matti-1)
+punct(luki-2, .-6)
+cc(luki-2, ja-3)
+conj(luki-2, ryhtyi-4)
+xcomp(ryhtyi-4, kirjoittamaan-5)
+nsubj(ryhtyi-4, Matti-1)
+xsubj(kirjoittamaan-5, Matti-1)
+</code></pre>
+
+<h2 id="syntactic-functions-of-relativizers">3.3 Syntactic functions of relativizers</h2>
+
+<p>Relativizers, that is, the phrases containing the relative word are
+marked as such in the base layer of annotation, using the dependency
+type <code>rel</code> (see Section 2.44).  However, the relativizers also always
+have a secondary syntactic function, such as a subject, which cannot
+be marked on the base layer of annotation due to the treeness
+restriction. Therefore these functions are marked on the <em>conjunct
+propagation and additional dependencies</em> layer on top of the tree
+structure. In principle any dependency type from Section 2 may
+represent the syntactic function of a relativizer, although in
+practice certain types (such as <code>punct</code>) will not do so.</p>
+
+<!-- fname:rel_secondary.pdf -->
+<pre><code class="language-sdparse">Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
+nsubj(ajoi-7, Auto-1)
+punct(ajoi-7, .-10)
+advmod(ajoi-7, nopeasti-9)
+advmod(nopeasti-9, hyvin-8)
+rcmod(Auto-1, ohitti-4)
+punct(ohitti-4, ,-2)
+punct(ohitti-4, ,-6)
+rel(ohitti-4, joka-3)
+nsubj(ohitti-4, joka-3)
+</code></pre>
+
+<p>Relativizers and their secondary functions may propagate in
+coordinations, and if the dependencies are between the same tokens
+(see Section 5.6 for discussion of cases where they are not), they
+will propagate together.</p>
+
+<!-- fname:rel_propagation.pdf -->
+<pre><code class="language-sdparse">Mies , joka puhui ja puhui , oli serkkuni . \n The_man , who talked and talked , was my_cousin .
+nsubj-cop(serkkuni-9, Mies-1)
+cop(serkkuni-9, oli-8)
+punct(serkkuni-9, .-10)
+punct(puhui-4, ,-2)
+punct(puhui-4, ,-7)
+rel(puhui-4, joka-3)
+cc(puhui-4, ja-5)
+conj(puhui-4, puhui-6)
+nsubj(puhui-4, joka-3)
+rel(puhui-6, joka-3)
+nsubj(puhui-6, joka-3)
+</code></pre>
+
+<p>If the syntactic function of a relativizer is a subject, the
+relativizer may also act as an external subject to another verb.</p>
+
+<!-- fname:rel_xsubj.pdf -->
+<pre><code class="language-sdparse">mies , joka ryhtyi laulamaan \n the_man , who started_to sing
+rcmod(mies-1, ryhtyi-4)
+punct(ryhtyi-4, ,-2)
+rel(ryhtyi-4, joka-3)
+xcomp(ryhtyi-4, laulamaan-5)
+nsubj(ryhtyi-4, joka-3)
+xsubj(laulamaan-5, joka-3)
+</code></pre>
+
+<p>3.4 Gapping (ellipsis of a head word)</p>
+
+<p>As described in Section 2.47, gapping in TDT is marked by inserting a
+so called null token to represent the omitted token. In addition, the
+second layer annotation uses the dependency type <code>ellipsis</code> to mark
+the elided word so that the null token acts as the dependent, and the
+governor is the non-elided occurrence of the word (Note that the
+elided word can also precede the non-elided occurrence).</p>
+
+<p>Note that according to the policy of only inserting a null token where
+necessary for constructing an analysis (see Section 2.47), gapping
+is the only form of ellipsis marked using null tokens and <code>ellipsis</code>
+dependencies in TDT. Some other elliptical structures may be less
+explicitly marked as <em>conjunct propagation</em> (see Section 3.1).</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
 
       </div>
 
