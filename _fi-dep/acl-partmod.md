@@ -28,7 +28,7 @@ dobj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
 ~~~
 
-Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of `acl:partmod`, the complement is not a clause; otherwise it would be marked as an *infinite clausal complement* <a href="http://universaldependencies.github.io/docs/fi/iccomp.html">iccomp</a>.
+Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of `acl:partmod`, the complement is not a clause; otherwise it would be marked as a *non-finite clausal complement* [ccomp:nf]().
 
 <!-- fname:partmod_VP_mod.pdf -->
 ~~~ sdparse
