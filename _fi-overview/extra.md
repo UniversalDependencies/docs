@@ -303,3 +303,130 @@ dependencies in TDT. Some other elliptical structures may be less
 explicitly marked as *conjunct propagation* (see Section 3.1).
 
 **FIGURE MISSING**
+
+# 4 Differences between the Finnish and English versions of the SD scheme
+
+The original SD scheme by de Marneffe and Manning includes in total 55
+dependency types arranged in a hierarchy; excluding six intermediate
+types that are not meant to be used if a more specific type can be
+selected, the total number of dependency types is 49. The
+Finnish-specific scheme version used in this work includes 46
+dependency types in the base layer and 3 additional types in the
+conjunct propagation and additional dependencies layer. This section
+discusses the differences between the two scheme versions. Figure 1
+shows the original SD type hierarchy as described in the SD scheme
+manual, and Figure 2 the hierarchy of the Finnish-specific version.
+
+To maintain a hierarchy similar to the original one, Figure 2 includes
+four intermediate types which have not been introduced above and are
+not used in TDT: `arg` (argument), `comp` (complement), `subj`
+(subject) and `mod` (modifier). This makes the overall number of types
+in the Finnish SD scheme 53.
+
+## 4.1 Dependency types not used in Finnish-specific SD
+
+There are several reasons why the Finnish-specific SD scheme differs
+from the original scheme. First, some dependency types from the
+original scheme have been removed, as the corresponding phenomenon
+does not occur in Finnish. Types omitted for this reason include
+`expl` (expletive there), `csubjpass` (clausal passive subject),
+`nsubjpass` (nominal passive subject), `agent`, `possessive` (the
+possessive ’s) and `iobj` (indirect object). Finnish existential
+clauses do not contain an expletive there, nor do passive clauses have
+a subject. What in English is considered the passive subject is the
+direct object in Finnish, and thus the corresponding type, `dobj` is
+used instead, or in the case of a clause acting as the direct object,
+it is marked as a clausal complement (`ccomp`). Similarly, there are
+no agents in Finnish passive clauses, and constructions resembling the
+English agent can be analyzed according to their syntactic structure
+rather than semantically as agents. This makes the type `agent`
+unnecessary. Also the possessive ’s does not occur in Finnish, and
+thus the dependency type `possessive` is not needed. Finally, indirect
+objects do not occur in Finnish, as regardless of word order, the
+corresponding argument is expressed by a nominal modifier.
+
+Second, adpositional phrases are handled differently from the original
+SD scheme, so as to analyze them similarly to nominal modifiers without
+a pre- or postposition present. Thus, the original SD types `prep` and
+`pobj` are not used.  Third, the type `ref` (*referent*) is not
+included in the current TDT annotation. When used, it causes the
+structures to not be trees, meaning that it would be part of an
+additional layer of annotation.
+
+Fourth, three dependency types are considered semantic in nature, and
+thus not included in the first layer of annotation in TDT. These types
+include `purpcl` (purpose clause), `tmod` (temporal modifier) and
+`measure`. Instead of using these semantic types, the dependency types
+appropriate for the syntactic structure of each phenomenon are used in
+TDT. Finally, no distinction between apposition-like abbreviations
+(`abbrev`) (such as *United States of America (USA)*) and appositions
+(`appos`) is made, meaning both dependency types have been merged
+under the appos type, and instead of marking predicatives in some
+situations as attributives (`attr`), they are always analyzed as
+predicatives.
+
+**FIGURE 1 OMITTED**
+
+**FIGURE 2 OMITTED**
+
+## 4.2 New dependency types in Finnish-specific SD
+
+In addition to types not used in the Finnish-specific SD scheme, there
+are also dependency types that are new to this scheme version. First,
+two new dependency types were needed to accommodate the similar
+handling of nominal modifiers and adpositional phrases: `nommod` and
+`adpos`, both under the `modifier` subcategory.  It should be noted
+that although `nommod` is considered a modifier type, many nominal
+modifiers in the treebank are at least borderline complements, due to
+the fact that many Finnish verbs take inflected nominals as their
+arguments.
+
+Second, the dependency types `gsubj` and `gobj` were also added under
+the `modifier` subcategory, to accommodate the frequent constructions
+of nouns that take a subject- or object-like argument. The genitive
+subject and object take the form of a genitive modifier, and thus they
+are direct subtypes of `poss`.
+
+Third, under the `subject` category, both the nominal and clausal
+subject types have received a new subtype, `nsubj-cop` and
+`csubj-cop`, respectively, to be used for subjects of copular clauses,
+which have their own special treatment in the SD scheme. These two new
+types come in place of the passive subject types that were, as
+explained above, removed as unnecessary. Also we have moved the
+existing `xsubj` type from under the `sdep` category to under the
+`subject` category, and added a new subtype for `xsubj`, `xsubj-cop`.
+The external subject types are part of the *conjunct propagation and
+additional dependencies* layer of the treebank.
+
+Fourth, in the `complement` category, we have introduced one new
+subtype for clausal complements (`ccomp`): that of *infinite clausal
+complement*, `iccomp`. This is due to the fact that clausal
+complements in Finnish often involve an infinite main verb.
+
+Fifth, we have added five other new dependency types. The types
+`compar` and `comparator` are to be used in structures involving
+comparisons of adjectives (and occasionally other parts-of-speech).
+The type `voc` is introduced to be able to analyze *vocatives*, and
+the type `intj` is for *interjections*. The treebank contains only
+written Finnish, but both vocatives and interjections are fairly
+common in more informal genres, such as blog text.  The type
+`ellipsis` is part of the *conjunct propagation and additional
+dependencies* layer and used to mark the elided word in gapping.
+
+## 4.3 Hierarchy changes
+
+Finally, there are two minor changes made in the SD hierarchy. First,
+as prepositional objects are no longer needed in the Finnish-specific
+scheme due to the changes made to handling adpositional phrases, and
+as indirect objects do not occur in Finnish, the type `dobj` was the
+sole subtype of the intermediate, unused type `obj`, we have removed
+this intermediate type, and made `dobj` a direct subtype of
+`complement`.
+
+Second, the `neg` dependency type, for marking negations, has been
+moved from under adverbial modiﬁers to under auxiliaries in the
+hierarchy. This is because in Finnish, the negation word ei is in most
+contexts a verb and acts in an auxiliary-like manner. It should be
+noted, however, that in TDT there are few cases where it is considered
+that for instance a noun phrase has been negated or where *ei*
+functions as the counterpart of *kyllä* "yes", and is thus an adverb.
