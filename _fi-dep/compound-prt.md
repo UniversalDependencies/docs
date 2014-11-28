@@ -30,7 +30,7 @@ In contrast, *ottaa kiinni* (*catch*) is a phrasal verb, as it has a meaning dis
 
 <!--details-->
 
-The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)
+The following verb expressions are considered phrasal verbs. Note that this list is not closed, but includes the phrasal verbs encountered corpus annotation. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.
 
 * _ajaa takaa_ "chase"
 * _antaa periksi_ "give up"
