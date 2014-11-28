@@ -287,7 +287,7 @@ nsubj(ryhtyi-4, joka-3)
 xsubj(laulamaan-5, joka-3)
 ~~~
 
-3.4 Gapping (ellipsis of a head word)
+## 3.4 Gapping (ellipsis of a head word)
 
 As described in Section 2.47, gapping in TDT is marked by inserting a
 so called null token to represent the omitted token. In addition, the
