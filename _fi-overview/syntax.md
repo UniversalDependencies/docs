@@ -35,35 +35,35 @@ The following table provides a mapping from TDT dependency type labels
 to (nearly) corresponding UD Finnish labels. (See also [issue
 #64](https://github.com/UniversalDependencies/docs/issues/64).)
 
-|------------------------------------------------------|
-| TDT          | UD Finnish      | Notes               |
-|:-------------|:----------------|:--------------------|
-| `acomp`      | xcomp:a         |                     |
-| `adpos`      | case            |                     |
-| `compar`     | ?               | Mapping pending     |
-| `comparator` | mark:comparator |                     |
-| `complm`     | mark            | Removed distinction |
-| `csubj-cop`  | csubj:cop       |                     |
-| `gobj`       | nmod:gobj       |                     |
-| `gsubj`      | nmod:gsubj      |                     |
-| `iccomp`     | ccomp:nf        |                     |
-| `infmod`     | acl:infmod      |                     |
-| `intj`       | discourse       |                     |
-| `nn`         | compound:nn     |                     |
-| `nommod`     | nmod            |                     |
-| `nommod-own` | nmod:own        |                     |
-| `nsubj-cop`  | nsubj:cop       |                     |
-| `num`        | nummod          |                     |
-| `number`     | compound        | Removed distinction |
-| `partmod`    | acl:partmod     |                     |
-| `poss`       | nmod:poss       |                     |
-| `preconj`    | cc:preconj      |                     |
-| `prt`        | compound:prt    |                     |
-| `quantmod`   | advmod:q        |                     |
-| `rcmod`      | acl:relcl       |                     |
-| `rel`        | (multiple)      | See below           |
-| `voc`        | vocative        |                     |
-|--------------|-----------------|---------------------|
+|----------------------------------------------------------|
+| TDT          | UD Finnish          | Notes               |
+|:-------------|:--------------------|:--------------------|
+| `acomp`      | [xcomp:a]()         |                     |
+| `adpos`      | [case]()            |                     |
+| `compar`     | ?                   | Mapping pending     |
+| `comparator` | [mark:comparator]() |                     |
+| `complm`     | [mark]()            | Removed distinction |
+| `csubj-cop`  | [csubj:cop]()       |                     |
+| `gobj`       | [nmod:gobj]()       |                     |
+| `gsubj`      | [nmod:gsubj]()      |                     |
+| `iccomp`     | [ccomp:nf]()        |                     |
+| `infmod`     | [acl:infmod]()      |                     |
+| `intj`       | [discourse]()       |                     |
+| `nn`         | [compound:nn]()     |                     |
+| `nommod`     | [nmod]()            |                     |
+| `nommod-own` | [nmod:own]()        |                     |
+| `nsubj-cop`  | [nsubj:cop]()       |                     |
+| `num`        | [nummod]()          |                     |
+| `number`     | [compound]()        | Removed distinction |
+| `partmod`    | [acl:partmod]()     |                     |
+| `poss`       | [nmod:poss]()       |                     |
+| `preconj`    | [cc:preconj]()      |                     |
+| `prt`        | [compound:prt]()    |                     |
+| `quantmod`   | [advmod:q]()        |                     |
+| `rcmod`      | [acl:relcl]()       |                     |
+| `rel`        | (multiple)          | See below           |
+| `voc`        | [vocative]()        |                     |
+|--------------|---------------------|---------------------|
 
 The TDT dependency type `rel` is not mapped to any single UD type.
 Instead (... TODO document mapping using second layer)
