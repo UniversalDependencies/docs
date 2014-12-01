@@ -362,8 +362,8 @@ number of types in the Finnish SD scheme 53.</p>
 <h2 id="new-dependency-types-in-finnish-specific-sd">New dependency types in Finnish-specific SD</h2>
 <!-- this section originally from TDT guidelines section 4.2 -->
 
-<p>There are also dependency types that are specific to the UD Finnish
-scheme.</p>
+<p>(Parts of the content of this section are now found
+<a href="syntax.html#new-dependency-relations">here</a>)</p>
 
 <!-- not applicable in comparison to UD
 First, two new dependency types were needed to accommodate the similar
@@ -375,37 +375,20 @@ due to the fact that many Finnish verbs take inflected nominals as
 their arguments.
 -->
 
-<p>The dependency types <a href=""><code>nmod:gsubj</code></a> and <a href=""><code>nmod:gobj</code></a> were added
-to accommodate the frequent constructions of nouns that take a
-subject- or object-like argument. The genitive subject and object take
-the form of a genitive modifier, and thus they are subtypes of
-<a href=""><code>nmod:poss</code></a>.</p>
-
-<p>Under the <a href=""><code>subject</code></a> category, both the nominal and clausal subject
-types have received a new subtype, <a href=""><code>nsubj:cop</code></a> and
-<a href=""><code>csubj:cop</code></a>, respectively, to be used for subjects of copular
-clauses. These two new types come in place of the passive subject
-types that were, as explained above, removed as unnecessary.</p>
-
+<!-- 2nd layer only -->
 <p>Also we have moved the existing <a href=""><code>xsubj</code></a> type from under the
 <a href=""><code>sdep</code></a> category to under the <a href=""><code>subject</code></a> category, and added a
 new subtype for <a href=""><code>xsubj</code></a>, <a href=""><code>xsubj-cop</code></a>.  The external subject
 types are part of the <em>conjunct propagation and additional
 dependencies</em> layer of the treebank.</p>
 
-<p>In the <a href=""><code>complement</code></a> category, we have introduced one new subtype
-for clausal complements (<a href=""><code>ccomp</code></a>): that of <em>nonfinite clausal
-complement</em>, <a href=""><code>ccomp:nf</code></a>. This is due to the fact that clausal
-complements in Finnish often involve a nonfinite main verb.</p>
-
-<p>We have also added other new dependency types. The types <a href=""><code>compar</code></a>
-and <a href=""><code>mark:comparator</code></a> are to be used in structures involving
-comparisons of adjectives (and occasionally other parts-of-speech).
-The type <a href=""><code>vocative</code></a> is introduced to be able to analyze
+<!-- new wrt SD but not UD -->
+<p>The type <a href=""><code>vocative</code></a> is introduced to be able to analyze
 <em>vocatives</em>, and the type <a href=""><code>discourse</code></a> is for <em>interjections</em>. Both
 vocatives and interjections are fairly common in more informal genres,
 such as blog text.</p>
 
+<!-- 2nd layer only -->
 <p>The type <a href=""><code>ellipsis</code></a> is part of the <em>conjunct propagation and
 additional dependencies</em> layer and used to mark the elided word in
 gapping.</p>
