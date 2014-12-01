@@ -11,7 +11,7 @@ specific constructions is a work in progress.
 
 ---
 
-### Appositions and appellation modifiers
+## Appositions and appellation modifiers
 
 The Finnish Grammar (see ISK
 [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059),
@@ -57,7 +57,15 @@ modifiers, and thus marked with the dependency type `nn`. Note that
 the governor of the dependency in appellation modifiers is the latter
 of the two words.
 
-<!-- TODO missing fig \myfigexample{nn_appellation.pdf} -->
+<!-- fname:nn_appellation.pdf -->
+~~~ sdparse
+Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
+nn(Tamminen-3, Professori-1)
+name(Tamminen-3, Matti-2)
+nsubj(pitää-4, Tamminen-3)
+dobj(pitää-4, puheen-5)
+punct(pitää-4, .-6)
+~~~
 
 The remaining four cases are all considered appositions and marked
 with the type `appos`. Contrary to appellation modifiers, in
@@ -95,20 +103,20 @@ resolved on a case-by-case basis.)
 - \*_professorin Matti Tammisen mukaan_ "according to the professor's Matti Tamminen"
   (unless a possessive reading is intended)
 
-### References
+#### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=567> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1059> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1062> (in Finnish)
 
-### Comparatives and superlatives
+## Comparatives and superlatives
 
 This section describes the annotation of comparative and superlative
 structures, which, in UD Finnish, are considered to include also
 certain similar structures that do not contain a comparative or
 superlative wordform.
 
-#### Comparatives
+### Comparatives
 
 Structures with comparative adjectives and adverbs may be difficult
 to annotate: they are often elliptical, and it may be difficult to
@@ -199,7 +207,7 @@ comparison involved in the structure and, secondarily, whether the
 dependent structure is a clause. (Comparative structures can also
 occasionally be full clauses.)
 
-#### Superlatives
+### Superlatives
 
 Superlatives are less problematic than comparatives but deserve some
 attention nevertheless. The basic case with superlatives is simple:
