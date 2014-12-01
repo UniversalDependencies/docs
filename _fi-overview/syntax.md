@@ -37,7 +37,7 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 
 |------------------------------------------------------|
 | TDT          | UD Finnish      | Notes               |
-|--------------|-----------------|---------------------|
+|:-------------|:----------------|:--------------------|
 | `acomp`      | xcomp:a         |                     |
 | `adpos`      | case            |                     |
 | `compar`     | ?               | Mapping pending     |
