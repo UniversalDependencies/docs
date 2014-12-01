@@ -12,7 +12,7 @@ i.e. where the verb is an infinitive or a participle.
 
 Note that this subtype represents a departure from the general UD
 taxonomy approach in differentiating finite from nonfinite clauses
-(see [Syntax: General Principles](http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents).
+(see [Syntax: General Principles](http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents)).
 
 <!-- TODO The differences between types of verbal dependents, such as
 `ccomp:nf`, are thoroughly discussed in Section
