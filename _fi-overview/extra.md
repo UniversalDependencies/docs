@@ -338,22 +338,24 @@ There are several reasons why the Finnish-specific SD scheme differs
 from the original scheme. First, some dependency types from the
 original scheme have been removed, as the corresponding phenomenon
 does not occur in Finnish. Types omitted for this reason include
-[`expl`]() (expletive there), [`csubjpass`]() (clausal passive
-subject), [`nsubjpass`]() (nominal passive subject), [`agent`](),
-[`possessive`]() (the possessive 's) and [`iobj`]() (indirect
-object). Finnish existential clauses do not contain an expletive
-there, nor do passive clauses have a subject. What in English is
-considered the passive subject is the direct object in Finnish, and
-thus the corresponding type, [`dobj`]() is used instead, or in the
-case of a clause acting as the direct object, it is marked as a
-clausal complement ([`ccomp`]()). Similarly, there are no agents in
-Finnish passive clauses, and constructions resembling the English
-agent can be analyzed according to their syntactic structure rather
-than semantically as agents. This makes the type [`agent`]()
+[`expl`](u-dep/expl) (expletive there), [`csubjpass`](u-dep/csubjpass)
+(clausal passive subject), [`nsubjpass`](u-dep/nsubjpass) (nominal
+passive subject), and [`iobj`](u-dep/iobj) (indirect object).  <!--
+not UD: "[`agent`](), [`possessive`]() (the possessive 's)" -->
+Finnish existential clauses do not contain an expletive there, nor do
+passive clauses have a subject. What in English is considered the
+passive subject is the direct object in Finnish, and thus the
+corresponding type, [`dobj`]() is used instead, or in the case of a
+clause acting as the direct object, it is marked as a clausal
+complement ([`ccomp`]()). Finally, indirect objects do not occur in
+Finnish, as regardless of word order, the corresponding argument is
+expressed by a nominal modifier.
+<!-- not UD: "Similarly, there are no agents in Finnish passive
+clauses, and constructions resembling the English agent can be
+analyzed according to their syntactic structure rather than
+semantically as agents. This makes the type [`agent`]()
 unnecessary. Also the possessive 's does not occur in Finnish, and
-thus the dependency type [`possessive`]() is not needed. Finally,
-indirect objects do not occur in Finnish, as regardless of word order,
-the corresponding argument is expressed by a nominal modifier.
+thus the dependency type [`possessive`]() is not needed. -->
 
 **FIGURE 1 OMITTED**
 
