@@ -15,7 +15,7 @@ Finnish) the `ADJ` tag (e.g. *tämä/PRON* "this" -> *tällainen/ADJ*
 #### Examples
 
 * [fi] _suuri_ "big", _vanha_ "old", _vihreä_ "green"
-* [fi] _tällainen_ "like this", _tuollainen_ "like that"
+* [fi] _tällainen_ "like this", _tuollainen_ "like that", _semmoinen_ "like it"
 
 #### References
 
