@@ -403,25 +403,25 @@ phenomena that require detailed decision rules.
 ## Copulas
 <!-- this section originally from TDT guidelines section 5.2 -->
 
-The copular clause deserves some attention, in part due to the special
-treatment given to it in the SD scheme. This section discusses first
-defining copular verbs and predicatives, then copulas in combination
-with auxiliaries, and finally the distinction between the subject and
-the predicative in copular clauses.
+This section discusses first defining copular verbs and predicatives,
+then copulas in combination with auxiliaries, and finally the
+distinction between the subject and the predicative in copular
+clauses.
 
 ### What can be a predicative?
 <!-- this section originally from TDT guidelines section 5.2.1 -->
 
-In the SD scheme, the head of a copular clause is the predicative, not
+In the UD scheme, the head of a copular clause is the predicative, not
 the verb (copula), unlike in other clauses. The Finnish language only
-has one copular verb, *olla* "to be" [ISK, §891], and in order to
-avoid marking other verbs as copular and to prevent copular clauses
-from having multiple head words, strict rules are needed to define
+has one copular verb, *olla* "to be"
+[ISK §891](http://scripta.kotus.fi/visk/sisallys.php?p=891), and in
+order to avoid marking other verbs as copular and to prevent copular
+clauses from having multiple head words, rules are needed to define
 what is accepted as a predicative.
 
 The basic alternatives for predicatives are nominals (nouns,
-adjectives, pronouns and numerals). Words of these parts-of-speech are
-required to be in *nominative*, *partitive* or *genitive* to be
+adjectives, pronouns and numerals). Words of these parts of speech are
+required to be in *nominative*, *partitive* or *genitive* case to be
 accepted as predicatives.
 
 <!-- fname:pred_nom.pdf -->
@@ -453,8 +453,8 @@ punct(minun-4, .-5)
 Nominals in any other case are not marked as predicatives, even if
 they are associated with the verb *olla*. They, similarly to
 adpositional phrases, are marked as *nominal modifiers* ([`nmod`]()),
-and the verb is marked as the head of the clause, even if it is
-*olla*.
+and the verb is marked as the head of the clause, even if it is *olla*
+"to be".
 
 <!-- fname:nonpred_nommod.pdf -->
 ~~~ sdparse
@@ -482,11 +482,11 @@ following:
 * [fi] *Paketti on Oulusta ystävältäni.* "The package is from Oulu
   from my friend."
 
-Here both *Oulusta* and *ystävältäni* could be interpreted as
-predicatives, resulting in a clause with two heads, or alternatively,
-a decision between two equally likely head-candidates. Therefore, only
-nominative, genitive and partitive are allowed as cases for
-predicatives.
+Here both *Oulusta* "from Oulu" and *ystävältäni* "from my friend"
+could be interpreted as predicatives, resulting in a clause with two
+heads, or alternatively, a decision between two equally likely
+head-candidates. Therefore, only nominative, genitive and partitive
+are allowed as cases for predicatives.
 
 Note that cases not allowed for predicatives include the essive case;
 this is to avoid marking verbs other than *olla* as copulas.
@@ -522,13 +522,13 @@ as *naimisissa* "married" (inessive adverb) and *raskaana* "pregnant"
     the above for consistency.
 -->
 
-In TDT, also a full clause can act as a predicative, in addition to
-nominals and adverbs. In these cases, the head of the clause acting as
-the predicative becomes also the head of the main clause. (If the
-clause acting as the predicative is also a copular clause, this
-results in the predicative clause seemingly having two copula subjects
-and copulas. However, this is not how the analysis should be
-interpreted.)
+In UD Finnish, also a full clause can act as a predicative, in
+addition to nominals and adverbs. In these cases, the head of the
+clause acting as the predicative becomes also the head of the main
+clause. (If the clause acting as the predicative is also a copular
+clause, this results in the predicative clause seemingly having two
+copula subjects and copulas. However, this is not how the analysis
+should be interpreted.)
 
 <!-- fname:clause_predicative.pdf -->
 ~~~ sdparse
@@ -543,11 +543,11 @@ punct(järjestää-3, .-6)
 ### Copulas and auxiliaries
 <!-- this section originally from TDT guidelines section 5.2.2 -->
 
-**NOTE: the following description copied from the TDT manual conflicts
-with the UD specification. This should be revised or rephrased as a
-diff.**
+**NOTE/TODO: the following description copied from the TDT manual
+conflicts with the UD specification. This should be revised or
+rephrased as a diff.**
 
-In the Finnish-specific version of the SD scheme, copular verbs and
+In the Finnish-specific version of the UD scheme, copular verbs and
 auxiliaries take no dependents of their own, with one exception. An
 auxiliary of a copular verb is attached to the copula, and not the
 main predicative as is the usual case.  Note that this is the case
@@ -665,6 +665,10 @@ det(talo-3, tämä-2)
 cop(Kaunishan-1, on-4)
 punct(Kaunishan-1, .-5)
 ~~~
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=891> (in Finnish)
 
 ## Appositions and appellation modifiers
 <!-- this section originally from TDT guidelines section 5.3 -->
