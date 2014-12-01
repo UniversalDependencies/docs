@@ -87,7 +87,6 @@ Additionally, the following dependency relations cannot be directly
 created by mapping existing TDT annotations and may thus not occur in
 the TDT-derived UD Finnish corpus:
 
-* `discourse`
 * `dislocated`
 * `foreign`
 * `list`
