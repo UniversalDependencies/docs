@@ -409,10 +409,10 @@ phenomena that require detailed decision rules.
 ## Verbal dependents: Clauses, non-clauses, complements and modifiers
 <!-- this section originally from TDT guidelines section 5.4 -->
 
-One particularly difficult task in annotating in the SD scheme is
-selecting the correct dependency type for dependents that are
-verbal. Verbal dependents include different kinds of subordinate
-clauses, as well as infinitive and participal comp lements and
+One particularly challenging task in annotating in the UD Finnish
+scheme is selecting the correct dependency type for dependents that
+are verbal. Verbal dependents include different kinds of subordinate
+clauses as well as infinitive and participal complements and
 modifiers. A simplified description of the decision procedure for
 verbal dependents is given in Table 1, and the full details are given
 below.
@@ -425,7 +425,7 @@ clauses the type to be used is [`acl:relcl`]() and as indirect
 questions are clausal complements, the correct type for them is
 [`ccomp`]().
 
-If the subordinate clause is an conjunction clause, it can be either a
+If the subordinate clause is a conjunction clause, it can be either a
 complement or a modifier. In the majority of cases, conjunction
 clauses starting with the conjunction *että* are complements and
 clauses starting with any other conjunction are modifiers. However, it
@@ -437,7 +437,6 @@ the conjunction *jotta*, and respectively, also *jotta* can
 
 * [fi] *Minun täytyy nyt mennä, että en myöhästy.* / *~jotta en
   myöhästy.* "I have to go now so that I won't be late."
-
 * [fi] *Hän sanoi, jotta tulee vasta illalla.* / *~että tulee vasta
   illalla.* "He said that I will only come in the evening."
 
@@ -447,33 +446,35 @@ clauses are marked with [`ccomp`]() and modifier ones with
 [`advcl`]().
 
 If the dependent is not a subordinate clause, the next deciding factor
-is the POS of the governor. If the governor is a noun, the dependent
-can be an infinitive modifier ([`acl:infmod`]()) or a participle
-modifier ([`acl:partmod`]()).
+is the part of speech of the governor. If the governor is a noun, the
+dependent can be an infinitive modifier ([`acl:infmod`]()) or a
+participle modifier ([`acl:partmod`]()).
 
 If, in turn, the governor is a verb, then the dependent can be either
 a complement or a modifier. A complement can be either clausal or
 non-clausal. With clausal complements, there are three alternative
-dependency types available: [`xcomp`](), [`ccomp:nf`]() and
-[`ccomp`]().
+dependency types available: [`xcomp`](), [`ccomp`](), and
+[`ccomp:nf`]().
 
 If the subject of the dependent is shared with the governor (subject
 control), the correct type to use is [`xcomp`](). If not, the decision
 is made by the morphology of the dependent. If the form of the verb is
-an infinitive or a participle, the correct type is [`ccomp:nf`]();
-also participles are considered infinitival verb forms in TDT.
+nonfinite (an infinitive or a participle), the correct type is
+[`ccomp:nf`]().
 
 If, in turn, the verb is in a finite form, the correct type is
-[`ccomp`]().  (For instance, the verb form *juoksevan* can, in
-addition to a participle, be a finite form, as in *näin miehen
-juoksevan*. See for instance [ISK §938, §1452] about referative and
-temporal structures, which are considered finite.)
+[`ccomp`](). (For instance, the verb form *juoksevan* can, in addition
+to a participle, be a finite form, as in *näin miehen juoksevan*. See
+for instance ISK
+[§938](http://scripta.kotus.fi/visk/sisallys.php?p=938),
+[§1452](http://scripta.kotus.fi/visk/sisallys.php?p=1452) about
+referative and temporal structures, which are considered finite.)
 
 If the dependent is a non-clausal complement, it is a participal
 complement that resembles adjectival complements. Some of these
 complements can be modified, but all the same they do not form
-clauses.  These participal complements do not have their own
-dependency type, but the type [`acl:partmod`]() is used.
+clauses. These participal complements do not have their own dependency
+type, and the type [`acl:partmod`]() is used to annotate them.
 
 #### Examples
 
@@ -498,6 +499,11 @@ the essive case.
 
 * [fi] *Huolestuneena seurasin tilanteen kehittymistä.* "Worried, I
   followed the development of the situation."
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=938> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1452> (in Finnish)
 
 ## Attachment issues: word-order-dependent structures and ambiguity
 <!-- this section originally from TDT guidelines section 5.5 -->
