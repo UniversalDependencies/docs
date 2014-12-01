@@ -38,7 +38,7 @@ of the TDT corpus.
 <!-- fname:rel_basic.pdf -->
 ~~~ sdparse
 Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
-rcmod(Auto-1, ohitti-4)
+acl:relcl(Auto-1, ohitti-4)
 punct(ohitti-4, ,-2)
 rel(ohitti-4, joka-3)
 dobj(ohitti-4, meidät-5)
@@ -54,9 +54,9 @@ punct(ajoi-7, .-10)
 <!-- fname:rel_phrase.pdf -->
 ~~~ sdparse
 Nainen , jonka auto hajosi , pyysi apuamme . \n The_lady , whose car broke , asked_for our_help .
-rcmod(Nainen-1, hajosi-5)
+acl:relcl(Nainen-1, hajosi-5)
 punct(hajosi-5, ,-2)
-poss(auto-4, jonka-3)
+nmod:poss(auto-4, jonka-3)
 rel(hajosi-5, auto-4)
 punct(hajosi-5, ,-6)
 nsubj(pyysi-7, Nainen-1)
@@ -83,7 +83,7 @@ There are two basic uses for the null token. First, it is used in
 ~~~ sdparse
 Presidentti *null* Kiinaan solmimaan sopimusta . \n The_president *null* to_China to_make a_deal .
 nsubj(*null*-2, Presidentti-1)
-nommod(*null*-2, Kiinaan-3)
+nmod(*null*-2, Kiinaan-3)
 xcomp(*null*-2, solmimaan-4)
 dobj(solmimaan-4, sopimusta-5)
 punct(*null*-2, .-6)
@@ -145,7 +145,7 @@ also allowed to propagate.
 <!-- fname:propagation.pdf -->
 ~~~ sdparse
 Tultuaan kotiin Maija söi ensin lounaan ja imuroi sitten . \n After_coming home Maija ate first lunch and hoovered then .
-nommod(Tultuaan-1, kotiin-2)
+nmod(Tultuaan-1, kotiin-2)
 advcl(söi-4, Tultuaan-1)
 nsubj(söi-4, Maija-3)
 advmod(söi-4, ensin-5)
@@ -171,12 +171,12 @@ amod(nuotio-4, Pieni-1)
 cc(Pieni-1, ja-2)
 conj(Pieni-1, savuttava-3)
 nsubj(paloi-5, nuotio-4)
-nommod(paloi-5, yön-6)
+nmod(paloi-5, yön-6)
 cc(paloi-5, ja-7)
 conj(paloi-5, sammutettiin-8)
-nommod(sammutettiin-8, sitten-9)
+nmod(sammutettiin-8, sitten-9)
 punct(paloi-5, .-10)
-partmod(nuotio-4, savuttava-3)
+acl:partmod(nuotio-4, savuttava-3)
 dobj(sammutettiin-8, nuotio-4)
 ~~~
 
@@ -251,7 +251,7 @@ nsubj(ajoi-7, Auto-1)
 punct(ajoi-7, .-10)
 advmod(ajoi-7, nopeasti-9)
 advmod(nopeasti-9, hyvin-8)
-rcmod(Auto-1, ohitti-4)
+acl:relcl(Auto-1, ohitti-4)
 punct(ohitti-4, ,-2)
 punct(ohitti-4, ,-6)
 rel(ohitti-4, joka-3)
@@ -266,7 +266,7 @@ will propagate together.
 <!-- fname:rel_propagation.pdf -->
 ~~~ sdparse
 Mies , joka puhui ja puhui , oli serkkuni . \n The_man , who talked and talked , was my_cousin .
-nsubj-cop(serkkuni-9, Mies-1)
+nsubj:cop(serkkuni-9, Mies-1)
 cop(serkkuni-9, oli-8)
 punct(serkkuni-9, .-10)
 punct(puhui-4, ,-2)
@@ -285,7 +285,7 @@ relativizer may also act as an external subject to another verb.
 <!-- fname:rel_xsubj.pdf -->
 ~~~ sdparse
 mies , joka ryhtyi laulamaan \n the_man , who started_to sing
-rcmod(mies-1, ryhtyi-4)
+acl:relcl(mies-1, ryhtyi-4)
 punct(ryhtyi-4, ,-2)
 rel(ryhtyi-4, joka-3)
 xcomp(ryhtyi-4, laulamaan-5)
@@ -367,22 +367,22 @@ thus the dependency type [`possessive`]() is not needed. -->
 In addition to types not used in the Finnish-specific SD scheme, there
 are also dependency types that are new to this scheme version. First,
 two new dependency types were needed to accommodate the similar
-handling of nominal modifiers and adpositional phrases: [`nommod`]()
-and [`adpos`](), both under the [`modifier`]() subcategory.  It should
-be noted that although [`nommod`]() is considered a modifier type,
+handling of nominal modifiers and adpositional phrases: [`nmod`]()
+and [`case`](), both under the [`modifier`]() subcategory.  It should
+be noted that although [`nmod`]() is considered a modifier type,
 many nominal modifiers in the treebank are at least borderline
 complements, due to the fact that many Finnish verbs take inflected
 nominals as their arguments.
 
-Second, the dependency types [`gsubj`]() and [`gobj`]() were also
-added under the [`modifier`]() subcategory, to accommodate the
+Second, the dependency types [`nmod:gsubj`]() and [`nmod:gobj`]() were
+also added under the [`modifier`]() subcategory, to accommodate the
 frequent constructions of nouns that take a subject- or object-like
 argument. The genitive subject and object take the form of a genitive
-modifier, and thus they are direct subtypes of [`poss`]().
+modifier, and thus they are direct subtypes of [`nmod:poss`]().
 
 Third, under the [`subject`]() category, both the nominal and clausal
-subject types have received a new subtype, [`nsubj-cop`]() and
-[`csubj-cop`](), respectively, to be used for subjects of copular
+subject types have received a new subtype, [`nsubj:cop`]() and
+[`csubj:cop`](), respectively, to be used for subjects of copular
 clauses, which have their own special treatment in the SD
 scheme. These two new types come in place of the passive subject types
 that were, as explained above, removed as unnecessary. Also we have
@@ -394,14 +394,14 @@ treebank.
 
 Fourth, in the [`complement`]() category, we have introduced one new
 subtype for clausal complements ([`ccomp`]()): that of *infinite
-clausal complement*, [`iccomp`](). This is due to the fact that
+clausal complement*, [`ccomp:nf`](). This is due to the fact that
 clausal complements in Finnish often involve an infinite main verb.
 
 Fifth, we have added five other new dependency types. The types
-[`compar`]() and [`comparator`]() are to be used in structures
+[`compar`]() and [`mark:comparator`]() are to be used in structures
 involving comparisons of adjectives (and occasionally other
-parts-of-speech).  The type [`voc`]() is introduced to be able to
-analyze *vocatives*, and the type [`intj`]() is for
+parts-of-speech).  The type [`vocative`]() is introduced to be able to
+analyze *vocatives*, and the type [`discourse`]() is for
 *interjections*. The treebank contains only written Finnish, but both
 vocatives and interjections are fairly common in more informal genres,
 such as blog text.  The type [`ellipsis`]() is part of the *conjunct
@@ -448,8 +448,8 @@ e-subjekti) are considered subjects in UD Finnish.
 <!-- fname:nsubj_existential.pdf -->
 ~~~ sdparse
 Tien vieressä on talo . \n Road beside is house .
-adpos(Tien-1, vieressä-2)
-nommod(on-3, Tien-1)
+case(Tien-1, vieressä-2)
+nmod(on-3, Tien-1)
 nsubj(on-3, talo-4)
 punct(on-3, .-5)
 ~~~
@@ -457,12 +457,12 @@ punct(on-3, .-5)
 Possessive clauses (omistuslause) are considered a subtype of
 existential clauses, and analyzed similarly. As explained in Section
 2.31, the owner in possessive clauses is marked using the type
-[`nommod-own`]().
+[`nmod:own`]().
 
 <!-- fname:nsubj_possessive.pdf -->
 ~~~ sdparse
 Hänellä on oma asunto . \n At_him is own apartment .
-nommod-own(on-2, Hänellä-1)
+nmod:own(on-2, Hänellä-1)
 nsubj(on-2, asunto-4)
 amod(asunto-4, oma-3)
 punct(on-2, .-5)
@@ -477,8 +477,8 @@ necessive structures (see Section 5.14) is annotated as an [`nsubj`]().
 Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
 nsubj(mennä-4, Minun-1)
 cop(pakko-3, on-2)
-iccomp(pakko-3, mennä-4)
-nommod(mennä-4, kotiin-5)
+ccomp:nf(pakko-3, mennä-4)
+nmod(mennä-4, kotiin-5)
 punct(pakko-3, .-6)
 ~~~
 
@@ -496,7 +496,7 @@ analyzed as the subject are:
 The same cases are allowed for objects as for subjects: the
 nominative, the partitive, the genitive and the
 accusative. Complements in other cases are analyzed as *nominal
-modifiers* ([`nommod`]()), despite their complement status.
+modifiers* ([`nmod`]()), despite their complement status.
 
 *Object cased amount adverbials* (objektin sijainen määrän
 adverbiaali, OSMA [ISK, §972]), which, as the name implies, use the
@@ -551,7 +551,7 @@ accepted as predicatives.
 <!-- fname:pred_nom.pdf -->
 ~~~
 Varpunen on pieni lintu . \n Sparrow is small bird(nom.) .
-nsubj-cop(lintu-4, Varpunen-1)
+nsubj:cop(lintu-4, Varpunen-1)
 cop(lintu-4, on-2)
 amod(lintu-4, pieni-3)
 punct(lintu-4, .-5)
@@ -560,7 +560,7 @@ punct(lintu-4, .-5)
 <!-- fname:pred_part.pdf -->
 ~~~ sdparse
 Maali oli valkoista . \n Paint was white(part.) .
-nsubj-cop(valkoista-3, Maali-1)
+nsubj:cop(valkoista-3, Maali-1)
 cop(valkoista-3, oli-2)
 punct(valkoista-3, .-4)
 ~~~
@@ -569,14 +569,14 @@ punct(valkoista-3, .-4)
 ~~~ sdparse
 Tämä kirja on minun . \n This book is mine(gen.) .
 det(kirja-2, Tämä-1)
-nsubj-cop(minun-4, kirja-2)
+nsubj:cop(minun-4, kirja-2)
 cop(minun-4, on-3)
 punct(minun-4, .-5)
 ~~~
 
 Nominals in any other case are not marked as predicatives, even if
 they are associated with the verb *olla*. They, similarly to
-adpositional phrases, are marked as *nominal modifiers* ([`nommod`]()),
+adpositional phrases, are marked as *nominal modifiers* ([`nmod`]()),
 and the verb is marked as the head of the clause, even if it is
 *olla*.
 
@@ -584,7 +584,7 @@ and the verb is marked as the head of the clause, even if it is
 ~~~ sdparse
 Lapset olivat pihalla . \n Children were on_yard .
 nsubj(olivat-2, Lapset-1)
-nommod(olivat-2, pihalla-3)
+nmod(olivat-2, pihalla-3)
 punct(olivat-2, .-4)
 ~~~
 
@@ -592,8 +592,8 @@ punct(olivat-2, .-4)
 ~~~ sdparse
 Lapset olivat talon takana . \n Children were behind house .
 nsubj(olivat-2, Lapset-1)
-nommod(olivat-2, talon-3)
-adpos(talon-3, takana-4)
+nmod(olivat-2, talon-3)
+case(talon-3, takana-4)
 punct(olivat-2, .-5)
 ~~~
 
@@ -619,8 +619,8 @@ this is to avoid marking verbs other than *olla* as copulas.
 ~~~ sdparse
 Mies oli portsarina baarissa . \n Man was doorman(essive) in_bar .
 nsubj(oli-2, Mies-1)
-nommod(oli-2, portsarina-3)
-nommod(oli-2, baarissa-4)
+nmod(oli-2, portsarina-3)
+nmod(oli-2, baarissa-4)
 punct(oli-2, .-5)
 ~~~
 
@@ -628,8 +628,8 @@ punct(oli-2, .-5)
 ~~~ sdparse
 Mies toimi portsarina baarissa . \n Mand worked doorman(essive) in_bar .
 nsubj(toimi-2, Mies-1)
-nommod(toimi-2, portsarina-3)
-nommod(toimi-2, baarissa-4)
+nmod(toimi-2, portsarina-3)
+nmod(toimi-2, baarissa-4)
 punct(toimi-2, .-5)
 ~~~
 
@@ -657,7 +657,7 @@ interpreted.)
 <!-- fname:clause_predicative.pdf -->
 ~~~ sdparse
 Tarkoitus on järjestää lopuksi juhlat . \n The_meaning is to_arrange in_the_end a_party .
-nsubj-cop(järjestää-3, Tarkoitus-1)
+nsubj:cop(järjestää-3, Tarkoitus-1)
 cop(järjestää-3, on-2)
 dobj(järjestää-3, juhlat-5)
 advmod(järjestää-3, lopuksi-4)
@@ -680,7 +680,7 @@ even if the resulting analysis becomes non-projective.
 <!-- fname:copaux.pdf -->
 ~~~ sdparse
 Hänkin on joskus ollut nuori . \n He_too has some_time been young .
-nsubj-cop(nuori-5, Hänkin-1)
+nsubj:cop(nuori-5, Hänkin-1)
 aux(ollut-4, on-2)
 advmod(nuori-5, joskus-3)
 cop(nuori-5, ollut-4)
@@ -726,7 +726,7 @@ following manner:
 <!-- fname:giraffes1.pdf -->
 ~~~ sdparse
 Kirahvit ovat mielenkiintoisimpia eläimiä . \n Giraffes are the_most_interesting animals .
-nsubj-cop(eläimiä-4, Kirahvit-1)
+nsubj:cop(eläimiä-4, Kirahvit-1)
 cop(eläimiä-4, ovat-2)
 amod(eläimiä-4, mielenkiintoisimpia-3)
 punct(eläimiä-4, .-5)
@@ -736,7 +736,7 @@ punct(eläimiä-4, .-5)
 ~~~ sdparse
 Mielenkiintoisimpia eläimiä ovat kirahvit . \n The_most_interesting animals are giraffes .
 amod(eläimiä-2, Mielenkiintoisimpia-1)
-nsubj-cop(kirahvit-4, eläimiä-2)
+nsubj:cop(kirahvit-4, eläimiä-2)
 cop(kirahvit-4, ovat-3)
 punct(kirahvit-4, .-5)
 ~~~
@@ -751,7 +751,7 @@ especially in questions, several different word orders are possible.
 <!-- fname:indirectquestion_cop1.pdf -->
 ~~~ sdparse
 Millainen matka oli ? \n What_like trip was ?
-nsubj-cop(Millainen-1, matka-2)
+nsubj:cop(Millainen-1, matka-2)
 cop(Millainen-1, oli-3)
 punct(Millainen-1, ?-4)
 ~~~
@@ -763,16 +763,16 @@ ccomp(Kysyin-1, mukava-5)
 punct(Kysyin-1, .-6)
 punct(mukava-5, ,-2)
 cop(mukava-5, oliko-3)
-nsubj-cop(mukava-5, matka-4)
+nsubj:cop(mukava-5, matka-4)
 ~~~
 
 <!-- fname:relativeclause_cop.pdf -->
 ~~~ sdparse
 yhdistys , jonka puheenjohtaja Matikainen on \n association , of_which chairman Matikainen is
-rcmod(yhdistys-1, puheenjohtaja-4)
+acl:relcl(yhdistys-1, puheenjohtaja-4)
 punct(puheenjohtaja-4, ,-2)
 rel(puheenjohtaja-4, jonka-3)
-nsubj-cop(puheenjohtaja-4, Matikainen-5)
+nsubj:cop(puheenjohtaja-4, Matikainen-5)
 cop(puheenjohtaja-4, on-6)
 ~~~
 
@@ -784,7 +784,7 @@ subject.
 <!-- fname:adjectivefirst_cop.pdf -->
 ~~~ sdparse
 Kaunishan tämä talo on . \n Beautiful this house is .
-nsubj-cop(Kaunishan-1, talo-3)
+nsubj:cop(Kaunishan-1, talo-3)
 det(talo-3, tämä-2)
 cop(Kaunishan-1, on-4)
 punct(Kaunishan-1, .-5)
@@ -811,8 +811,9 @@ below.
 
 Some basic cases are relatively easy to decide. If the dependent is a
 regular subordinate clause, the choices are clear. For relative
-clauses the type to be used is [`rcmod`]() and as indirect questions
-are clausal complements, the correct type for them is [`ccomp`]().
+clauses the type to be used is [`acl:relcl`]() and as indirect
+questions are clausal complements, the correct type for them is
+[`ccomp`]().
 
 If the subordinate clause is an conjunction clause, it can be either a
 complement or a modifier. In the majority of cases, conjunction
@@ -837,19 +838,20 @@ clauses are marked with [`ccomp`]() and modifier ones with
 
 If the dependent is not a subordinate clause, the next deciding factor
 is the POS of the governor. If the governor is a noun, the dependent
-can be an infinitive modifier ([`infmod`]()) or a participle modifier
-([`partmod`]()).
+can be an infinitive modifier ([`acl:infmod`]()) or a participle
+modifier ([`acl:partmod`]()).
 
 If, in turn, the governor is a verb, then the dependent can be either
 a complement or a modifier. A complement can be either clausal or
 non-clausal. With clausal complements, there are three alternative
-dependency types available: [`xcomp`](), [`iccomp`]() and [`ccomp`]().
+dependency types available: [`xcomp`](), [`ccomp:nf`]() and
+[`ccomp`]().
 
 If the subject of the dependent is shared with the governor (subject
 control), the correct type to use is [`xcomp`](). If not, the decision
 is made by the morphology of the dependent. If the form of the verb is
-an infinitive or a participle, the correct type is [`iccomp`](); also
-participles are considered infinitival verb forms in TDT.
+an infinitive or a participle, the correct type is [`ccomp:nf`]();
+also participles are considered infinitival verb forms in TDT.
 
 If, in turn, the verb is in a finite form, the correct type is
 [`ccomp`]().  (For instance, the verb form *juoksevan* can, in
@@ -861,7 +863,7 @@ If the dependent is a non-clausal complement, it is a participal
 complement that resembles adjectival complements. Some of these
 complements can be modified, but all the same they do not form
 clauses.  These participal complements do not have their own
-dependency type, but the type [`partmod`]() is used.
+dependency type, but the type [`acl:partmod`]() is used.
 
 #### Examples
 
@@ -879,8 +881,8 @@ recognized as *lauseenvastike* ("substitute of a clause").
 * [fi] *Pyyhittyään pölyt hän imuroi.* "After dusting, he hoovered."
 
 If the dependent is a participle, the correct type is
-[`partmod`](). These participal modifiers of a verb are often in the
-essive case.
+[`acl:partmod`](). These participal modifiers of a verb are often in
+the essive case.
 
 #### Examples
 
@@ -908,7 +910,7 @@ follows:
 ~~~ sdparse
 Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
 dobj(Ammuin-1, elefantin-2)
-nommod(Ammuin-1, pyjamassani-3)
+nmod(Ammuin-1, pyjamassani-3)
 punct(Ammuin-1, .-4)
 ~~~
 
@@ -919,7 +921,7 @@ pajamas, in which case the correct analysis is:
 ~~~ sdparse
 Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
 dobj(Ammuin-1, elefantin-2)
-nommod(elefantin-2, pyjamassani-3)
+nmod(elefantin-2, pyjamassani-3)
 punct(Ammuin-1, .-4)
 ~~~
 
@@ -954,10 +956,10 @@ rules are akin to those used in the Prague Dependency Treebank [?].
 <!-- fname:browncoat1.pdf -->
 ~~~ sdparse
 Mies ruskeassa takissa tuli junaan . \n Man brown in_coat came into_train .
-nommod(Mies-1, takissa-3)
+nmod(Mies-1, takissa-3)
 amod(takissa-3, ruskeassa-2)
 nsubj(tuli-4, Mies-1)
-nommod(tuli-4, junaan-5)
+nmod(tuli-4, junaan-5)
 punct(tuli-4, .-6)
 ~~~
 
@@ -965,8 +967,8 @@ punct(tuli-4, .-6)
 ~~~ sdparse
 Mies tuli junaan ruskeassa takissa . \n Man came into_train brown in_coat .
 nsubj(tuli-2, Mies-1)
-nommod(tuli-2, junaan-3)
-nommod(tuli-2, takissa-5)
+nmod(tuli-2, junaan-3)
+nmod(tuli-2, takissa-5)
 amod(takissa-5, ruskeassa-4)
 punct(tuli-2, .-6)
 ~~~
@@ -983,15 +985,15 @@ be used in relative clauses modifying full clauses is *mikä*. However,
 in real, especially spoken, language, the use of the two relativizers
 is mixed, and not every joka clause actually refers to the word
 adjacent to it. In UD Finnish, the actual reference for the relative
-clause is chosen as the head of the [`rcmod`]() dependency wherever
-possible.
+clause is chosen as the head of the [`acl:relcl`]() dependency
+wherever possible.
 
 <!-- fname:relative_ungrammatical.pdf -->
 ~~~ sdparse
 Annoin hänelle kirjan , joka sitä oli pyytänyt . \n I_gave him the_book , who it had asked_for .
-nommod(Annoin-1, hänelle-2)
+nmod(Annoin-1, hänelle-2)
 dobj(Annoin-1, kirjan-3)
-rcmod(hänelle-2, pyytänyt-8)
+acl:relcl(hänelle-2, pyytänyt-8)
 punct(pyytänyt-8, ,-4)
 rel(pyytänyt-8, joka-5)
 dobj(pyytänyt-8, sitä-6)
@@ -1011,11 +1013,11 @@ relative clause, this does not hold for all cases.
 <!-- fname:rel_projectivity1.pdf -->
 ~~~ sdparse
 Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
-rcmod(Lapsi-1, sai-5)
+acl:relcl(Lapsi-1, sai-5)
 punct(sai-5, ,-2)
 rel(sai-5, jonka-3)
 nsubj(sai-5, hän-4)
-iccomp(sai-5, itkemään-6)
+ccomp:nf(sai-5, itkemään-6)
 punct(sai-5, ,-7)
 nsubj(parkui-8, Lapsi-1)
 advmod(parkui-8, yhä-9)
@@ -1028,7 +1030,7 @@ punct(parkui-8, .-11)
 Tuon lapsen hän sai itkemään . \n That child he made cry .
 det(lapsen-2, Tuon-1)
 nsubj(sai-4, hän-3)
-iccomp(sai-4, itkemään-5)
+ccomp:nf(sai-4, itkemään-5)
 nsubj(itkemään-5, lapsen-2)
 punct(sai-4, .-6)
 ~~~
@@ -1040,10 +1042,10 @@ itself.
 <!-- fname:relative_jonka.pdf -->
 ~~~ sdparse
 Nainen , jonka auto hajosi , seisoo tuolla . \n Lady , whose car broke , stands there .
-rcmod(Nainen-1, hajosi-5)
+acl:relcl(Nainen-1, hajosi-5)
 punct(hajosi-5, ,-2)
 punct(hajosi-5, ,-6)
-poss(auto-4, jonka-3)
+nmod:poss(auto-4, jonka-3)
 rel(hajosi-5, auto-4)
 nsubj(seisoo-7, Nainen-1)
 advmod(seisoo-7, tuolla-8)
@@ -1059,11 +1061,11 @@ expressing amount with numbers: *three apples*, *sixteen litres*.
 <!-- fname:amount_num.pdf -->
 ~~~ sdparse
 kolme litraa \n three litres
-num(litraa-2, kolme-1)
+nummod(litraa-2, kolme-1)
 ~~~
 
 The semantic head, *litraa* "litres" in the above example, is selected
-as the head, and the number is marked as a numeral modifier, [`num`]()
+as the head, and the number is marked as a numeral modifier, [`nummod`]()
 (Morpho-syntactically, the number *kolme* "three" could also be
 considered the head, as it determines the case used for the word
 *litra* "litre"). For more information on the internal structure of
@@ -1089,14 +1091,14 @@ first nominal is marked as the head.
 Hän joi kupin kahvia . \n He drank a_cup_of coffee .
 nsubj(joi-2, Hän-1)
 dobj(joi-2, kupin-3)
-nommod(kupin-3, kahvia-4)
+nmod(kupin-3, kahvia-4)
 punct(joi-2, .-5)
 ~~~
 
 <!-- fname:amount_joku.pdf -->
 ~~~ sdparse
 Joku pojista voisi auttaa minua . \n Someone from_boys could help me .
-nommod(Joku-1, pojista-2)
+nmod(Joku-1, pojista-2)
 nsubj(auttaa-4, Joku-1)
 aux(auttaa-4, voisi-3)
 dobj(auttaa-4, minua-5)
@@ -1127,7 +1129,7 @@ leads to *yksi pojista* "one of the boys" being analyzed similarly to
 ~~~ sdparse
 Yksi pojista juoksi ulos . \n One from_boys ran out .
 nsubj(juoksi-3, Yksi-1)
-nommod(Yksi-1, pojista-2)
+nmod(Yksi-1, pojista-2)
 advmod(juoksi-3, ulos-4)
 punct(juoksi-3, .-5)
 ~~~
@@ -1138,9 +1140,9 @@ a predicative, as the head of the expression is in nominative.
 <!-- fname:amount_joku_pred.pdf -->
 ~~~ sdparse
 Se oli joku pojista . \n It was someone from_boys .
-nsubj-cop(joku-3, Se-1)
+nsubj:cop(joku-3, Se-1)
 cop(joku-3, oli-2)
-nommod(joku-3, pojista-4)
+nmod(joku-3, pojista-4)
 punct(joku-3, .-5)
 ~~~
 
@@ -1165,8 +1167,8 @@ regardless of the part-of-speech of the head word.
 <!-- fname:jotain_sinista.pdf -->
 ~~~ sdparse
 Ikkunan takana oli jotain sinistä . \n Window behind was something blue .
-adpos(Ikkunan-1, takana-2)
-nommod(oli-3, Ikkunan-1)
+case(Ikkunan-1, takana-2)
+nmod(oli-3, Ikkunan-1)
 nsubj(oli-3, sinistä-5)
 det(sinistä-5, jotain-4)
 punct(oli-3, .-6)
@@ -1175,8 +1177,8 @@ punct(oli-3, .-6)
 <!-- fname:onnettomuudessa_olleille.pdf -->
 ~~~ sdparse
 Onnettomuudessa olleille suositeltiin terapiaa . \n In_accident been(_ones) was_recommended therapy .
-nommod(olleille-2, Onnettomuudessa-1)
-nommod(suositeltiin-3, olleille-2)
+nmod(olleille-2, Onnettomuudessa-1)
+nmod(suositeltiin-3, olleille-2)
 dobj(suositeltiin-3, terapiaa-4)
 punct(suositeltiin-3, .-5)
 ~~~
@@ -1244,8 +1246,8 @@ advcl(se-3, putosi-7)
 punct(putosi-7, ,-4)
 mark(putosi-7, kun-5)
 nsubj(putosi-7, poika-6)
-nommod(putosi-7, selästä-9)
-poss(selästä-9, hevosen-8)
+nmod(putosi-7, selästä-9)
+nmod:poss(selästä-9, hevosen-8)
 punct(säikäytti-2, .-10)
 ~~~
 
@@ -1257,16 +1259,16 @@ derivations of a verb or otherwise have a verb counterpart
 (verbivastineellinen substantiivi [ISK, §560]) to take a subject- or
 object-like complement. Both of these are identical in form to more
 general genitive modifiers of a noun, marked with the dependency type
-[`poss`]() in the UD Finnish scheme.
+[`nmod:poss`]() in the UD Finnish scheme.
 
 <!-- fname:regular_poss.pdf -->
 ~~~ sdparse
 talon katto \n house(gen.) roof(N)
-poss(katto-2, talon-1)
+nmod:poss(katto-2, talon-1)
 ~~~
 
-Genitive objects of a noun are marked the [`gobj`](), which is a
-subtype for the more general genitive-modifier type [`poss`](). Both
+Genitive objects of a noun are marked the [`nmod:gobj`](), which is a
+subtype for the more general genitive-modifier type [`nmod:poss`](). Both
 nominal derivations and other nouns with verb counterparts can take a
 genitive object, with the exception of JA- derivations, the genitive
 modifier of which is never considered an object in UD Finnish (*talon
@@ -1275,36 +1277,36 @@ rakentaja* "the builder of the house").
 <!-- fname:gobj_vs_poss.pdf -->
 ~~~ sdparse
 talon rakentaminen \n house(gen.) building(N+deriv.)
-gobj(rakentaminen-2, talon-1)
+nmod:gobj(rakentaminen-2, talon-1)
 ~~~
 
-Genitive subjects, in turn, are marked using the [`gsubj`]()
-dependency type, also a subtype of [`poss`](). Only nouns that are
+Genitive subjects, in turn, are marked using the [`nmod:gsubj`]()
+dependency type, also a subtype of [`nmod:poss`](). Only nouns that are
 marked as derivations of a verb in the morphological tagging receive a
-[`gsubj`]() dependent.
+[`nmod:gsubj`]() dependent.
 
 <!-- fname:gsubj_vs_poss.pdf -->
 ~~~ sdparse
 maljakon putoaminen \n vase(gen.) falling(N+deriv.)
-gsubj(putoaminen-2, maljakon-1)
+nmod:gsubj(putoaminen-2, maljakon-1)
 ~~~
 
 ## Numerical expressions
 <!-- this section originally from TDT guidelines section 5.12 -->
 
-The dependency type [`number`]() in the SD scheme is reserved for
-numerical expressions. Generally, with multi-token numerical
-expressions, the rightmost token of the expression is considered the
-head and the dependencies are chained.
+The dependency type [`compound`]() is used for numerical
+expressions. Generally, with multi-token numerical expressions, the
+rightmost token of the expression is considered the head and the
+dependencies are chained.
 
 <!-- fname:number.pdf -->
 ~~~ sdparse
 Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
-nsubj-cop(5-6, Poikasia-1)
+nsubj:cop(5-6, Poikasia-1)
 cop(5-6, on-2)
 advmod(5-6, yleensä-3)
-number(--5, 3-4)
-number(5-6, --5)
+compound(--5, 3-4)
+compound(5-6, --5)
 punct(5-6, .-7)
 ~~~
 
@@ -1317,12 +1319,12 @@ numerical expressions in UD Finnish.
 <!-- fname:number_complex.pdf -->
 ~~~ sdparse
 3. joulukuuta 1510 - 15. kesäkuuta 1579 \n 3rd December 1510 to 15th June 1579
-number(joulukuuta-2, 3.-1)
-number(1510-3, joulukuuta-2)
-number(--4, 1510-3)
-number(1579-7, --4)
-number(kesäkuuta-6, 15.-5)
-number(1579-7, kesäkuuta-6)
+compound(joulukuuta-2, 3.-1)
+compound(1510-3, joulukuuta-2)
+compound(--4, 1510-3)
+compound(1579-7, --4)
+compound(kesäkuuta-6, 15.-5)
+compound(1579-7, kesäkuuta-6)
 ~~~
 
 Dates can be expressed using many different forms, and all full dates
@@ -1333,7 +1335,7 @@ partial dates such as
 <!-- fname:3_joulukuuta.pdf -->
 ~~~ sdparse
 3. joulukuuta \n 3rd December
-number(joulukuuta-2, 3.-1)
+compound(joulukuuta-2, 3.-1)
 ~~~
 
 are considered numerical expressions. However, year expressions such
@@ -1343,28 +1345,28 @@ complex numerical expressions.
 <!-- fname:vuonna_1996.pdf -->
 ~~~ sdparse
 sanoi vuonna 1996 \n said in_the_year 1996
-nommod(sanoi-1, vuonna-2)
-num(vuonna-2, 1996-3)
+nmod(sanoi-1, vuonna-2)
+nummod(vuonna-2, 1996-3)
 ~~~
 
 <!-- fname:kesalla_1972.pdf -->
 ~~~ sdparse
 tapahtui kesällä 1972 \n happened in_the_summer 1972
-nommod(tapahtui-1, kesällä-2)
-num(kesällä-2, 1972-3)
+nmod(tapahtui-1, kesällä-2)
+nummod(kesällä-2, 1972-3)
 ~~~
 
 If a date expression has a clear internal syntactic structure, this
-structure is annotated instead of the default chain of [`number`]()
+structure is annotated instead of the default chain of [`compound`]()
 dependencies.
 
 <!-- fname:syyskuun_3_ja_4_paiva.pdf -->
 ~~~ sdparse
 syyskuun 3. ja 4. päivä \n September's 3rd and 4th day
-poss(3.-2, syyskuun-1)
+nmod:poss(3.-2, syyskuun-1)
 cc(3.-2, ja-3)
 conj(3.-2, 4.-4)
-num(päivä-5, 3.-2)
+nummod(päivä-5, 3.-2)
 ~~~
 
 If a date has a more specific time (such as *kello kuudelta* "at six
@@ -1376,23 +1378,23 @@ dates or numerical expressions in UD Finnish.
 <!-- fname:6_joulukuuta_kello18.pdf -->
 ~~~ sdparse
 6. joulukuuta kello 18 \n 6th December o'clock 18
-number(joulukuuta-2, 6.-1)
-nommod(joulukuuta-2, kello-3)
-num(kello-3, 18-4)
+compound(joulukuuta-2, 6.-1)
+nmod(joulukuuta-2, kello-3)
+nummod(kello-3, 18-4)
 ~~~
 
 In addition to dates, there is one more case of numerical expressions
 that deserves attention: numerical expressions with multiple units. If
 a single amount expression involves multiple units, the units are
 considered a compound unit so to say, and combined using the
-dependency type [`nn`]().
+dependency type [`compound:nn`]().
 
 <!-- fname:compound_unit.pdf -->
 ~~~ sdparse
 2 kg 315 g
-num(kg-2, 2-1)
-nn(g-4, kg-2)
-num(g-4, 315-3)
+nummod(kg-2, 2-1)
+compound:nn(g-4, kg-2)
+nummod(g-4, 315-3)
 ~~~
 
 In rare cases, however, the previous situation may occur with the
@@ -1402,8 +1404,8 @@ annotated flatly as numerical expressions, with no compound units.
 <!-- fname:no_compound_unit.pdf -->
 ~~~ sdparse
 2 kg 315
-number(kg-2, 2-1)
-number(315-3, kg-2)
+compound(kg-2, 2-1)
+compound(315-3, kg-2)
 ~~~
 
 ## Participal modifiers and predicatives
@@ -1416,7 +1418,7 @@ copular clause, the analysis is as follows.
 <!-- fname:pcp+cop1.pdf -->
 ~~~ sdparse
 Eeva on raskaana . \n Eeva is pregnant .
-nsubj-cop(raskaana-3, Eeva-1)
+nsubj:cop(raskaana-3, Eeva-1)
 cop(raskaana-3, on-2)
 punct(raskaana-3, .-4)
 ~~~
@@ -1427,8 +1429,8 @@ structure:
 
 Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
 cop(Raskaana-1, oleva-2)
-nsubj-cop(Raskaana-1, nainen-3)
-nsubj-cop(nälkäinen-5, nainen-3)
+nsubj:cop(Raskaana-1, nainen-3)
+nsubj:cop(nälkäinen-5, nainen-3)
 cop(nälkäinen-5, on-4)
 punct(nälkäinen-5, .-6)
 ~~~
@@ -1441,8 +1443,8 @@ structures.
 ~~~ sdparse
 Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
 advmod(oleva-2, Raskaana-1)
-partmod(nainen-3, oleva-2)
-nsubj-cop(nälkäinen-5, nainen-3)
+acl:partmod(nainen-3, oleva-2)
+nsubj:cop(nälkäinen-5, nainen-3)
 cop(nälkäinen-5, on-4)
 punct(nälkäinen-5, .-6)
 ~~~
@@ -1463,9 +1465,9 @@ punct(käytettävissä-3, .-4)
 <!-- fname:pcp+pass2.pdf -->
 ~~~ sdparse
 Käytettävissä olevat resurssit ovat rajalliset . \n Usable being resources are limited .
-partmod(olevat-2, Käytettävissä-1)
-partmod(resurssit-3, olevat-2)
-nsubj-cop(rajalliset-5, resurssit-3)
+acl:partmod(olevat-2, Käytettävissä-1)
+acl:partmod(resurssit-3, olevat-2)
+nsubj:cop(rajalliset-5, resurssit-3)
 cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
 ~~~
@@ -1477,7 +1479,7 @@ A clause can act as a subject to another clause (as well as an object,
 but these are marked as clausal complements, [`ccomp`]()), in which
 case it should be marked as a clausal subject, [`csubj`](), or, if the
 main clause is copular, a clausal copular subject,
-[`csubj-cop`](). However, in the case of clausal-copular subject, it
+[`csubj:cop`](). However, in the case of clausal-copular subject, it
 may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 *necessive structure*. Consider the following example.
@@ -1505,8 +1507,8 @@ what it is that is necessary).
 Hänen on pakko mennä kotiin . \n He has to go home .
 nsubj(mennä-4, Hänen-1)
 cop(pakko-3, on-2)
-iccomp(pakko-3, mennä-4)
-nommod(mennä-4, kotiin-5)
+ccomp:nf(pakko-3, mennä-4)
+nmod(mennä-4, kotiin-5)
 punct(pakko-3, .-6)
 ~~~
 
@@ -1535,7 +1537,7 @@ then the structure is considered a clausal subject case.
 ~~~ sdparse
 On mahtavaa mennä ulos . \n (it)_is splendid to_go out .
 cop(mahtavaa-2, On-1)
-csubj-cop(mahtavaa-2, mennä-3)
+csubj:cop(mahtavaa-2, mennä-3)
 advmod(mennä-3, ulos-4)
 punct(mahtavaa-2, .-5)
 ~~~
@@ -1548,8 +1550,8 @@ which cannot be confused with necessive structures.
 <!-- fname:csubj.pdf -->
 ~~~ sdparse
 Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
-poss(aikomuksenaan-2, Hänen-1)
-nommod(oli-3, aikomuksenaan-2)
+nmod:poss(aikomuksenaan-2, Hänen-1)
+nmod(oli-3, aikomuksenaan-2)
 csubj(oli-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
@@ -1634,9 +1636,9 @@ of *using* in this example.
 <!-- this section originally from TDT guidelines section 5.16 -->
 
 Distinctions between certain dependency types, most commonly between
-participial modifiers ([`partmod`]()) and adjectival modifiers
+participial modifiers ([`acl:partmod`]()) and adjectival modifiers
 ([`amod`]()) as well as adverbial modifiers ([`advmod`]()) and nominal
-modifiers ([`nommod`]()), are based on the corresponding morphological
+modifiers ([`nmod`]()), are based on the corresponding morphological
 distinction, which can sometimes be rather difficult. This section
 describes heuristics used to make these two most common
 morphology-based distinctions. Some of these heuristics resemble those
@@ -1649,14 +1651,14 @@ The distinction between verb participles and adjectives is difficult
 in several languages, and Finnish is no exception. In UD Finnish, this
 distinction affects the syntax annotation of mainly two kinds of
 structures. First, it affects the choice between the dependency types
-[`partmod`]() (participial modifier) and [`amod`]() (adjectival
+[`acl:partmod`]() (participial modifier) and [`amod`]() (adjectival
 modifier).
 
 <!-- fname:amod_or_partmod.pdf -->
 ~~~ sdparse
 Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
-amod/partmod?(näyttelijä-2, Tunnettu-1)
-nn(Travolta-4, näyttelijä-2)
+amod/acl:partmod?(näyttelijä-2, Tunnettu-1)
+compound:nn(Travolta-4, näyttelijä-2)
 name(Travolta-4, John-3)
 ~~~
 
@@ -1670,8 +1672,8 @@ considered a passive participle.
 <!-- fname:copula_or_passive.pdf -->
 ~~~ sdparse
 Uiminen järvessä on kielletty . \n Swimming in_lake is/has_been forbidden .
-nsubj-cop/dobj?(kielletty-4, Uiminen-1)
-nommod(Uiminen-1, järvessä-2)
+nsubj:cop/dobj?(kielletty-4, Uiminen-1)
+nmod(Uiminen-1, järvessä-2)
 cop/auxpass?(kielletty-4, on-3)
 punct(kielletty-4, .-5)
 ~~~
@@ -1738,7 +1740,7 @@ adverb, or alternatively, as an inflected form of the noun *pääasia*
 "the main thing".
 
 This distinction affects the choice between the dependency types
-[`advmod`]() (adverb modifier) and [`nommod`]() (nominal modifier).
+[`advmod`]() (adverb modifier) and [`nmod`]() (nominal modifier).
 Additionally, it can affect the choice of whether a word can be marked
 as a predicative (if it is an adverb) and thus head of the clause, or
 if it should me marked as a nominal modifier for the verb olla. In the
@@ -1748,10 +1750,10 @@ decision.
 <!-- fname:advmod_or_nommod.pdf -->
 ~~~ sdparse
 Pääasiassa tämä vaikuttaa koron suuruuteen . \n Mainly this affects interest's level .
-advmod/nommod?(vaikuttaa-3, Pääasiassa-1)
+advmod/nmod?(vaikuttaa-3, Pääasiassa-1)
 nsubj(vaikuttaa-3, tämä-2)
-nommod(vaikuttaa-3, suuruuteen-5)
-poss(suuruuteen-5, koron-4)
+nmod(vaikuttaa-3, suuruuteen-5)
+nmod:poss(suuruuteen-5, koron-4)
 punct(vaikuttaa-3, .-6)
 ~~~
 
@@ -1760,7 +1762,7 @@ punct(vaikuttaa-3, .-6)
 Elisa ja Elias ovat naimisissa . \n Elisa and Elias are married .
 cc(Elisa-1, ja-2)
 conj(Elisa-1, Elias-3)
-nsubj-cop?(naimisissa-5, Elisa-1)
+nsubj:cop?(naimisissa-5, Elisa-1)
 cop?(naimisissa-5, ovat-4)
 punct(naimisissa-5, .-6)
 ~~~
@@ -1769,7 +1771,7 @@ punct(naimisissa-5, .-6)
 ~~~ sdparse
 Matti oli humalassa . \n Matti was drunk .
 nsubj?(oli-2, Matti-1)
-nommod?(oli-2, humalassa-3)
+nmod?(oli-2, humalassa-3)
 punct(oli-2, .-4)
 ~~~
 
@@ -1841,7 +1843,7 @@ clause is selected.
 Jos syöt sieniä , jotka ovat myrkyllisiä , kuolet . \n If you_eat mushrooms , that are poisonous , you_die .
 mark(syöt-2, Jos-1)
 dobj(syöt-2, sieniä-3)
-rcmod(sieniä-3, myrkyllisiä-7)
+acl:relcl(sieniä-3, myrkyllisiä-7)
 punct(myrkyllisiä-7, ,-4)
 cop(myrkyllisiä-7, ovat-6)
 punct(myrkyllisiä-7, ,-8)
@@ -1870,7 +1872,7 @@ coordinations.
 ~~~ sdparse
 Matti tuli töistä ; Maija oli jo kotona . \n Matti came from_work ; Maija was already home .
 nsubj(tuli-2, Matti-1)
-nommod(tuli-2, töistä-3)
+nmod(tuli-2, töistä-3)
 punct(tuli-2, ;-4)
 parataxis(tuli-2, oli-6)
 nsubj(oli-6, Maija-5)
@@ -1902,11 +1904,11 @@ quotes are also attached to the head of the quote.
 <!-- fname:quotes.pdf -->
 ~~~ sdparse
 Illan elokuva on " Kuninkaan puhe " . \n Tonigt's movie is " The_King's speech " .
-poss(elokuva-2, Illan-1)
-nsubj-cop(puhe-6, elokuva-2)
+nmod:poss(elokuva-2, Illan-1)
+nsubj:cop(puhe-6, elokuva-2)
 cop(puhe-6, on-3)
 punct(puhe-6, "-4)
-poss(puhe-6, Kuninkaan-5)
+nmod:poss(puhe-6, Kuninkaan-5)
 name(puhe-6, Kuninkaan-5)
 punct(puhe-6, "-7)
 punct(puhe-6, .-8)
@@ -1915,13 +1917,13 @@ punct(puhe-6, .-8)
 <!-- fname:parentheses.pdf -->
 ~~~ sdparse
 Matikainen ( s. 1943 ) on ammatiltaan kirjailija . \n Matikainen ( born 1943 ) is by_profession author .
-nsubj-cop(kirjailija-8, Matikainen-1)
-partmod(Matikainen-1, s.-3)
+nsubj:cop(kirjailija-8, Matikainen-1)
+acl:partmod(Matikainen-1, s.-3)
 punct(s.-3, (-2)
-nommod(s.-3, 1943-4)
+nmod(s.-3, 1943-4)
 punct(s.-3, )-5)
 cop(kirjailija-8, on-6)
-nommod(kirjailija-8, ammatiltaan-7)
+nmod(kirjailija-8, ammatiltaan-7)
 punct(kirjailija-8, .-9)
 ~~~
 
@@ -1968,8 +1970,8 @@ punct(professori-4, ,-3)
 <!-- fname:punctnommod.pdf -->
 ~~~ sdparse
 Lähden matkalle , ainakin viikoksi . \n I_am_going to_trip , at_least for_a_week .
-nommod(Lähden-1, matkalle-2)
-nommod(Lähden-1, viikoksi-5)
+nmod(Lähden-1, matkalle-2)
+nmod(Lähden-1, viikoksi-5)
 punct(Lähden-1, .-6)
 punct(viikoksi-5, ,-3)
 advmod(viikoksi-5, ainakin-4)
@@ -1983,6 +1985,6 @@ marked as punctuation attached to the head of the list item.
 * Käy kaupassa . \n * Visit store .
 punct(Käy-2, *-1)
 punct(Käy-2, .-4)
-nommod(Käy-2, kaupassa-3)
+nmod(Käy-2, kaupassa-3)
 ~~~
 
