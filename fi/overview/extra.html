@@ -102,8 +102,8 @@ represented by null tokens when absent, because if they are absent,
 their dependents are as well. The null token is most commonly, but not
 always, a verb.</p>
 
-<p>There are two basic uses for the null token in TDT. First, it is used
-in <em>fragments</em>: sentences or clauses with an omitted main predicate.</p>
+<p>There are two basic uses for the null token. First, it is used in
+<em>fragments</em>: sentences or clauses with an omitted main predicate.</p>
 
 <!-- fname:null_fragment.pdf -->
 <pre><code class="language-sdparse">Presidentti *null* Kiinaan solmimaan sopimusta . \n The_president *null* to_China to_make a_deal .
@@ -158,11 +158,11 @@ this distinction is made explicit with additional dependencies on top
 of the tree structure. That is, if an element modifies or governs
 multiple coordinated elements, it should be <em>propagated</em> to them. In
 principle, any dependency type introduced in Sections 2 and 3, with
-the exceptions of <code>punct</code>, <code>conj</code>, <code>cc</code> and <code>ellipsis</code>, can propagate
-in the second layer of annotation. Note especially that the
-dependencies introduced in the second layer, that is, external
-subjects and syntactic functions of relativizers, are also allowed to
-propagate.</p>
+the exceptions of <a href=""><code>punct</code></a>, <a href=""><code>conj</code></a>, <a href=""><code>cc</code></a> and
+<a href=""><code>ellipsis</code></a>, can propagate in the second layer of annotation. Note
+especially that the dependencies introduced in the second layer, that
+is, external subjects and syntactic functions of relativizers, are
+also allowed to propagate.</p>
 
 <!-- fname:propagation.pdf -->
 <pre><code class="language-sdparse">Tultuaan kotiin Maija söi ensin lounaan ja imuroi sitten . \n After_coming home Maija ate first lunch and hoovered then .
@@ -207,8 +207,8 @@ subject with another verb. The fact that the subject of the main verb
 is also the subject of the complement cannot be annotated on the first
 layer of TDT, as this would violate the treeness restriction.
 Therefore, these subjects are marked on the second layer of annotation
-using the dependency types <code>xsubj</code> (<em>external subject</em>) and
-<code>xsubj-cop</code> (<em>external copular subject</em>). Note also that an open
+using the dependency types <a href=""><code>xsubj</code></a> (<em>external subject</em>) and
+<a href=""><code>xsubj-cop</code></a> (<em>external copular subject</em>). Note also that an open
 clausal complement may not always have a subject, in for instance
 passive constructions.</p>
 
@@ -221,8 +221,8 @@ xsubj(lukemaan-3, Matti-1)
 </code></pre>
 
 <p>External subjects interact with conjunct propagation in two ways: an
-external subject may propagate, and also a propagated <code>nsubj</code>
-dependency may be the source of a new <code>xsubj</code> dependency.</p>
+external subject may propagate, and also a propagated <a href=""><code>nsubj</code></a>
+dependency may be the source of a new <a href=""><code>xsubj</code></a> dependency.</p>
 
 <!-- fname:xsubj_propagation1.pdf -->
 <pre><code class="language-sdparse">Matti ryhtyi lukemaan ja kirjoittamaan . \n Matti started_to read and write .
@@ -250,14 +250,14 @@ xsubj(kirjoittamaan-5, Matti-1)
 
 <p>Relativizers, that is, the phrases containing the relative word are
 marked as such in the base layer of annotation, using the dependency
-type <code>rel</code> (see Section 2.44).  However, the relativizers also always
-have a secondary syntactic function, such as a subject, which cannot
-be marked on the base layer of annotation due to the treeness
+type <a href=""><code>rel</code></a> (see Section 2.44).  However, the relativizers also
+always have a secondary syntactic function, such as a subject, which
+cannot be marked on the base layer of annotation due to the treeness
 restriction. Therefore these functions are marked on the <em>conjunct
 propagation and additional dependencies</em> layer on top of the tree
 structure. In principle any dependency type from Section 2 may
 represent the syntactic function of a relativizer, although in
-practice certain types (such as <code>punct</code>) will not do so.</p>
+practice certain types (such as <a href=""><code>punct</code></a>) will not do so.</p>
 
 <!-- fname:rel_secondary.pdf -->
 <pre><code class="language-sdparse">Auto , joka ohitti meidät , ajoi hyvin nopeasti . \n The_car , which passed us , drove very fast .
@@ -309,14 +309,14 @@ xsubj(laulamaan-5, joka-3)
 
 <p>As described in Section 2.47, gapping in TDT is marked by inserting a
 so called null token to represent the omitted token. In addition, the
-second layer annotation uses the dependency type <code>ellipsis</code> to mark
-the elided word so that the null token acts as the dependent, and the
-governor is the non-elided occurrence of the word (Note that the
+second layer annotation uses the dependency type <a href=""><code>ellipsis</code></a> to
+mark the elided word so that the null token acts as the dependent, and
+the governor is the non-elided occurrence of the word (Note that the
 elided word can also precede the non-elided occurrence).</p>
 
 <p>Note that according to the policy of only inserting a null token where
-necessary for constructing an analysis (see Section 2.47), gapping
-is the only form of ellipsis marked using null tokens and <code>ellipsis</code>
+necessary for constructing an analysis (see Section 2.47), gapping is
+the only form of ellipsis marked using null tokens and <a href=""><code>ellipsis</code></a>
 dependencies in TDT. Some other elliptical structures may be less
 explicitly marked as <em>conjunct propagation</em> (see Section 3.1).</p>
 
@@ -337,9 +337,9 @@ manual, and Figure 2 the hierarchy of the Finnish-specific version.</p>
 
 <p>To maintain a hierarchy similar to the original one, Figure 2 includes
 four intermediate types which have not been introduced above and are
-not used in TDT: <code>arg</code> (argument), <code>comp</code> (complement), <code>subj</code>
-(subject) and <code>mod</code> (modifier). This makes the overall number of types
-in the Finnish SD scheme 53.</p>
+not used in TDT: <a href=""><code>arg</code></a> (argument), <a href=""><code>comp</code></a> (complement),
+<a href=""><code>subj</code></a> (subject) and <a href=""><code>mod</code></a> (modifier). This makes the overall
+number of types in the Finnish SD scheme 53.</p>
 
 <h2 id="dependency-types-not-used-in-finnish-specific-sd">4.1 Dependency types not used in Finnish-specific SD</h2>
 
@@ -347,41 +347,42 @@ in the Finnish SD scheme 53.</p>
 from the original scheme. First, some dependency types from the
 original scheme have been removed, as the corresponding phenomenon
 does not occur in Finnish. Types omitted for this reason include
-<code>expl</code> (expletive there), <code>csubjpass</code> (clausal passive subject),
-<code>nsubjpass</code> (nominal passive subject), <code>agent</code>, <code>possessive</code> (the
-possessive ’s) and <code>iobj</code> (indirect object). Finnish existential
-clauses do not contain an expletive there, nor do passive clauses have
-a subject. What in English is considered the passive subject is the
-direct object in Finnish, and thus the corresponding type, <code>dobj</code> is
-used instead, or in the case of a clause acting as the direct object,
-it is marked as a clausal complement (<code>ccomp</code>). Similarly, there are
-no agents in Finnish passive clauses, and constructions resembling the
-English agent can be analyzed according to their syntactic structure
-rather than semantically as agents. This makes the type <code>agent</code>
-unnecessary. Also the possessive ’s does not occur in Finnish, and
-thus the dependency type <code>possessive</code> is not needed. Finally, indirect
-objects do not occur in Finnish, as regardless of word order, the
-corresponding argument is expressed by a nominal modifier.</p>
+<a href=""><code>expl</code></a> (expletive there), <a href=""><code>csubjpass</code></a> (clausal passive
+subject), <a href=""><code>nsubjpass</code></a> (nominal passive subject), <a href=""><code>agent</code></a>,
+<a href=""><code>possessive</code></a> (the possessive ‘s) and <a href=""><code>iobj</code></a> (indirect
+object). Finnish existential clauses do not contain an expletive
+there, nor do passive clauses have a subject. What in English is
+considered the passive subject is the direct object in Finnish, and
+thus the corresponding type, <a href=""><code>dobj</code></a> is used instead, or in the
+case of a clause acting as the direct object, it is marked as a
+clausal complement (<a href=""><code>ccomp</code></a>). Similarly, there are no agents in
+Finnish passive clauses, and constructions resembling the English
+agent can be analyzed according to their syntactic structure rather
+than semantically as agents. This makes the type <a href=""><code>agent</code></a>
+unnecessary. Also the possessive ‘s does not occur in Finnish, and
+thus the dependency type <a href=""><code>possessive</code></a> is not needed. Finally,
+indirect objects do not occur in Finnish, as regardless of word order,
+the corresponding argument is expressed by a nominal modifier.</p>
 
 <p>Second, adpositional phrases are handled differently from the original
-SD scheme, so as to analyze them similarly to nominal modifiers without
-a pre- or postposition present. Thus, the original SD types <code>prep</code> and
-<code>pobj</code> are not used.  Third, the type <code>ref</code> (<em>referent</em>) is not
-included in the current TDT annotation. When used, it causes the
-structures to not be trees, meaning that it would be part of an
-additional layer of annotation.</p>
+SD scheme, so as to analyze them similarly to nominal modifiers
+without a pre- or postposition present. Thus, the original SD types
+<a href=""><code>prep</code></a> and <a href=""><code>pobj</code></a> are not used.  Third, the type <a href=""><code>ref</code></a>
+(<em>referent</em>) is not included in the current TDT annotation. When used,
+it causes the structures to not be trees, meaning that it would be
+part of an additional layer of annotation.</p>
 
 <p>Fourth, three dependency types are considered semantic in nature, and
 thus not included in the first layer of annotation in TDT. These types
-include <code>purpcl</code> (purpose clause), <code>tmod</code> (temporal modifier) and
-<code>measure</code>. Instead of using these semantic types, the dependency types
-appropriate for the syntactic structure of each phenomenon are used in
-TDT. Finally, no distinction between apposition-like abbreviations
-(<code>abbrev</code>) (such as <em>United States of America (USA)</em>) and appositions
-(<code>appos</code>) is made, meaning both dependency types have been merged
-under the appos type, and instead of marking predicatives in some
-situations as attributives (<code>attr</code>), they are always analyzed as
-predicatives.</p>
+include <a href=""><code>purpcl</code></a> (purpose clause), <a href=""><code>tmod</code></a> (temporal modifier)
+and <a href=""><code>measure</code></a>. Instead of using these semantic types, the
+dependency types appropriate for the syntactic structure of each
+phenomenon are used in TDT. Finally, no distinction between
+apposition-like abbreviations (<a href=""><code>abbrev</code></a>) (such as <em>United States
+of America (USA)</em>) and appositions (<a href=""><code>appos</code></a>) is made, meaning both
+dependency types have been merged under the appos type, and instead of
+marking predicatives in some situations as attributives (<a href=""><code>attr</code></a>),
+they are always analyzed as predicatives.</p>
 
 <p><strong>FIGURE 1 OMITTED</strong></p>
 
@@ -392,56 +393,58 @@ predicatives.</p>
 <p>In addition to types not used in the Finnish-specific SD scheme, there
 are also dependency types that are new to this scheme version. First,
 two new dependency types were needed to accommodate the similar
-handling of nominal modifiers and adpositional phrases: <code>nommod</code> and
-<code>adpos</code>, both under the <code>modifier</code> subcategory.  It should be noted
-that although <code>nommod</code> is considered a modifier type, many nominal
-modifiers in the treebank are at least borderline complements, due to
-the fact that many Finnish verbs take inflected nominals as their
-arguments.</p>
+handling of nominal modifiers and adpositional phrases: <a href=""><code>nommod</code></a>
+and <a href=""><code>adpos</code></a>, both under the <a href=""><code>modifier</code></a> subcategory.  It should
+be noted that although <a href=""><code>nommod</code></a> is considered a modifier type,
+many nominal modifiers in the treebank are at least borderline
+complements, due to the fact that many Finnish verbs take inflected
+nominals as their arguments.</p>
 
-<p>Second, the dependency types <code>gsubj</code> and <code>gobj</code> were also added under
-the <code>modifier</code> subcategory, to accommodate the frequent constructions
-of nouns that take a subject- or object-like argument. The genitive
-subject and object take the form of a genitive modifier, and thus they
-are direct subtypes of <code>poss</code>.</p>
+<p>Second, the dependency types <a href=""><code>gsubj</code></a> and <a href=""><code>gobj</code></a> were also
+added under the <a href=""><code>modifier</code></a> subcategory, to accommodate the
+frequent constructions of nouns that take a subject- or object-like
+argument. The genitive subject and object take the form of a genitive
+modifier, and thus they are direct subtypes of <a href=""><code>poss</code></a>.</p>
 
-<p>Third, under the <code>subject</code> category, both the nominal and clausal
-subject types have received a new subtype, <code>nsubj-cop</code> and
-<code>csubj-cop</code>, respectively, to be used for subjects of copular clauses,
-which have their own special treatment in the SD scheme. These two new
-types come in place of the passive subject types that were, as
-explained above, removed as unnecessary. Also we have moved the
-existing <code>xsubj</code> type from under the <code>sdep</code> category to under the
-<code>subject</code> category, and added a new subtype for <code>xsubj</code>, <code>xsubj-cop</code>.
-The external subject types are part of the <em>conjunct propagation and
-additional dependencies</em> layer of the treebank.</p>
+<p>Third, under the <a href=""><code>subject</code></a> category, both the nominal and clausal
+subject types have received a new subtype, <a href=""><code>nsubj-cop</code></a> and
+<a href=""><code>csubj-cop</code></a>, respectively, to be used for subjects of copular
+clauses, which have their own special treatment in the SD
+scheme. These two new types come in place of the passive subject types
+that were, as explained above, removed as unnecessary. Also we have
+moved the existing <a href=""><code>xsubj</code></a> type from under the <a href=""><code>sdep</code></a> category
+to under the <a href=""><code>subject</code></a> category, and added a new subtype for
+<a href=""><code>xsubj</code></a>, <a href=""><code>xsubj-cop</code></a>.  The external subject types are part of
+the <em>conjunct propagation and additional dependencies</em> layer of the
+treebank.</p>
 
-<p>Fourth, in the <code>complement</code> category, we have introduced one new
-subtype for clausal complements (<code>ccomp</code>): that of <em>infinite clausal
-complement</em>, <code>iccomp</code>. This is due to the fact that clausal
-complements in Finnish often involve an infinite main verb.</p>
+<p>Fourth, in the <a href=""><code>complement</code></a> category, we have introduced one new
+subtype for clausal complements (<a href=""><code>ccomp</code></a>): that of <em>infinite
+clausal complement</em>, <a href=""><code>iccomp</code></a>. This is due to the fact that
+clausal complements in Finnish often involve an infinite main verb.</p>
 
 <p>Fifth, we have added five other new dependency types. The types
-<code>compar</code> and <code>comparator</code> are to be used in structures involving
-comparisons of adjectives (and occasionally other parts-of-speech).
-The type <code>voc</code> is introduced to be able to analyze <em>vocatives</em>, and
-the type <code>intj</code> is for <em>interjections</em>. The treebank contains only
-written Finnish, but both vocatives and interjections are fairly
-common in more informal genres, such as blog text.  The type
-<code>ellipsis</code> is part of the <em>conjunct propagation and additional
-dependencies</em> layer and used to mark the elided word in gapping.</p>
+<a href=""><code>compar</code></a> and <a href=""><code>comparator</code></a> are to be used in structures
+involving comparisons of adjectives (and occasionally other
+parts-of-speech).  The type <a href=""><code>voc</code></a> is introduced to be able to
+analyze <em>vocatives</em>, and the type <a href=""><code>intj</code></a> is for
+<em>interjections</em>. The treebank contains only written Finnish, but both
+vocatives and interjections are fairly common in more informal genres,
+such as blog text.  The type <a href=""><code>ellipsis</code></a> is part of the <em>conjunct
+propagation and additional dependencies</em> layer and used to mark the
+elided word in gapping.</p>
 
 <h2 id="hierarchy-changes">4.3 Hierarchy changes</h2>
 
 <p>Finally, there are two minor changes made in the SD hierarchy. First,
 as prepositional objects are no longer needed in the Finnish-specific
 scheme due to the changes made to handling adpositional phrases, and
-as indirect objects do not occur in Finnish, the type <code>dobj</code> was the
-sole subtype of the intermediate, unused type <code>obj</code>, we have removed
-this intermediate type, and made <code>dobj</code> a direct subtype of
-<code>complement</code>.</p>
+as indirect objects do not occur in Finnish, the type <a href=""><code>dobj</code></a> was
+the sole subtype of the intermediate, unused type <a href=""><code>obj</code></a>, we have
+removed this intermediate type, and made <a href=""><code>dobj</code></a> a direct subtype
+of <a href=""><code>complement</code></a>.</p>
 
-<p>Second, the <code>neg</code> dependency type, for marking negations, has been
+<p>Second, the <a href=""><code>neg</code></a> dependency type, for marking negations, has been
 moved from under adverbial modifiers to under auxiliaries in the
 hierarchy. This is because in Finnish, the negation word ei is in most
 contexts a verb and acts in an auxiliary-like manner. It should be
@@ -449,7 +452,7 @@ noted, however, that in TDT there are few cases where it is considered
 that for instance a noun phrase has been negated or where <em>ei</em>
 functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb.</p>
 
-<h1 id="annotating-phenomena-of-finnish">Annotating phenomena of Finnish</h1>
+<h1 id="annotating-phenomena-of-finnish">5 Annotating phenomena of Finnish</h1>
 
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
@@ -463,7 +466,7 @@ which are discussed here.</p>
 <p>The subject is the primary complement of the verb, usually denoting
 the entity doing something. In addition to the <em>basic subject</em> (see
 [ISK §910]), also <em>existential subjects</em> (eksistentiaalisubjekti,
-e-subjekti) are considered subjects in TDT.</p>
+e-subjekti) are considered subjects in UD Finnish.</p>
 
 <!-- fname:nsubj_existential.pdf -->
 <pre><code class="language-sdparse">Tien vieressä on talo . \n Road beside is house .
@@ -476,7 +479,7 @@ punct(on-3, .-5)
 <p>Possessive clauses (omistuslause) are considered a subtype of
 existential clauses, and analyzed similarly. As explained in Section
 2.31, the owner in possessive clauses is marked using the type
-<code>nommod-own</code>.</p>
+<a href=""><code>nommod-own</code></a>.</p>
 
 <!-- fname:nsubj_possessive.pdf -->
 <pre><code class="language-sdparse">Hänellä on oma asunto . \n At_him is own apartment .
@@ -488,7 +491,7 @@ punct(on-2, .-5)
 
 <p>Also the genitive subject (not to be confused with the genitive
 subject of a noun, discussed in Section 2.22) in for instance
-necessive structures (see Section 5.14) is annotated as an <code>nsubj</code>.</p>
+necessive structures (see Section 5.14) is annotated as an <a href=""><code>nsubj</code></a>.</p>
 
 <!-- fname:nsubj_necessive.pdf -->
 <pre><code class="language-sdparse">Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
@@ -518,7 +521,7 @@ cry.”)</p>
 <p>The same cases are allowed for objects as for subjects: the
 nominative, the partitive, the genitive and the
 accusative. Complements in other cases are analyzed as <em>nominal
-modifiers</em> (<code>nommod</code>), despite their complement status.</p>
+modifiers</em> (<a href=""><code>nommod</code></a>), despite their complement status.</p>
 
 <p><em>Object cased amount adverbials</em> (objektin sijainen määrän
 adverbiaali, OSMA [ISK, §972]), which, as the name implies, use the
@@ -547,6 +550,1416 @@ passives generally correspond to intransitive uses of a verb, such as
 <em>the door opens</em>, sometimes termed <em>inchoative</em>.).</p>
 
 <p><strong>FIGURE MISSING</strong></p>
+
+<h2 id="copulas">5.2 Copulas</h2>
+
+<p>The copular clause deserves some attention, in part due to the special
+treatment given to it in the SD scheme. This section discusses first
+defining copular verbs and predicatives, then copulas in combination
+with auxiliaries, and finally the distinction between the subject and
+the predicative in copular clauses.</p>
+
+<h3 id="what-can-be-a-predicative">5.2.1 What can be a predicative?</h3>
+
+<p>In the SD scheme, the head of a copular clause is the predicative, not
+the verb (copula), unlike in other clauses. The Finnish language only
+has one copular verb, <em>olla</em> “to be” [ISK, §891], and in order to
+avoid marking other verbs as copular and to prevent copular clauses
+from having multiple head words, strict rules are needed to define
+what is accepted as a predicative.</p>
+
+<p>The basic alternatives for predicatives are nominals (nouns,
+adjectives, pronouns and numerals). Words of these parts-of-speech are
+required to be in <em>nominative</em>, <em>partitive</em> or <em>genitive</em> to be
+accepted as predicatives.</p>
+
+<!-- fname:pred_nom.pdf -->
+<pre><code>Varpunen on pieni lintu . \n Sparrow is small bird(nom.) .
+nsubj-cop(lintu-4, Varpunen-1)
+cop(lintu-4, on-2)
+amod(lintu-4, pieni-3)
+punct(lintu-4, .-5)
+</code></pre>
+
+<!-- fname:pred_part.pdf -->
+<pre><code class="language-sdparse">Maali oli valkoista . \n Paint was white(part.) .
+nsubj-cop(valkoista-3, Maali-1)
+cop(valkoista-3, oli-2)
+punct(valkoista-3, .-4)
+</code></pre>
+
+<!-- fname:pred_gen.pdf -->
+<pre><code class="language-sdparse">Tämä kirja on minun . \n This book is mine(gen.) .
+det(kirja-2, Tämä-1)
+nsubj-cop(minun-4, kirja-2)
+cop(minun-4, on-3)
+punct(minun-4, .-5)
+</code></pre>
+
+<p>Nominals in any other case are not marked as predicatives, even if
+they are associated with the verb <em>olla</em>. They, similarly to
+adpositional phrases, are marked as <em>nominal modifiers</em> (<a href=""><code>nommod</code></a>),
+and the verb is marked as the head of the clause, even if it is
+<em>olla</em>.</p>
+
+<!-- fname:nonpred_nommod.pdf -->
+<pre><code class="language-sdparse">Lapset olivat pihalla . \n Children were on_yard .
+nsubj(olivat-2, Lapset-1)
+nommod(olivat-2, pihalla-3)
+punct(olivat-2, .-4)
+</code></pre>
+
+<!-- fname:nonpred_adpos.pdf -->
+<pre><code class="language-sdparse">Lapset olivat talon takana . \n Children were behind house .
+nsubj(olivat-2, Lapset-1)
+nommod(olivat-2, talon-3)
+adpos(talon-3, takana-4)
+punct(olivat-2, .-5)
+</code></pre>
+
+<p>This restriction is to prevent a clause from having two predicatives
+and hence two heads, which would be the case in a sentence such as the
+following:</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Paketti on Oulusta ystävältäni.</em> “The package is from Oulu
+from my friend.”</li>
+</ul>
+
+<p>Here both <em>Oulusta</em> and <em>ystävältäni</em> could be interpreted as
+predicatives, resulting in a clause with two heads, or alternatively,
+a decision between two equally likely head-candidates. Therefore, only
+nominative, genitive and partitive are allowed as cases for
+predicatives.</p>
+
+<p>Note that cases not allowed for predicatives include the essive case;
+this is to avoid marking verbs other than <em>olla</em> as copulas.</p>
+
+<!-- fname:nonpred_ess1.pdf -->
+<pre><code class="language-sdparse">Mies oli portsarina baarissa . \n Man was doorman(essive) in_bar .
+nsubj(oli-2, Mies-1)
+nommod(oli-2, portsarina-3)
+nommod(oli-2, baarissa-4)
+punct(oli-2, .-5)
+</code></pre>
+
+<!-- fname:nonpred_ess2.pdf -->
+<pre><code class="language-sdparse">Mies toimi portsarina baarissa . \n Mand worked doorman(essive) in_bar .
+nsubj(toimi-2, Mies-1)
+nommod(toimi-2, portsarina-3)
+nommod(toimi-2, baarissa-4)
+punct(toimi-2, .-5)
+</code></pre>
+
+<p>In addition to nominals, also adverbs can act as predicatives, given
+that they do not express location or time. Note that with adverbs,
+there is no restriction with regard to case, only that they are not
+locational or temporal. As a result, adverbs such as <em>täällä</em> “here”
+or <em>huomenna</em> “tomorrow” can not act as predicatives, but others, such
+as <em>naimisissa</em> “married” (inessive adverb) and <em>raskaana</em> “pregnant”
+(essive adverb) can, regardless of their case.</p>
+
+<!-- 
+    TODO: Neither Omorfi nor UD Finnish marks case on adverbs, check
+    the above for consistency.
+-->
+
+<p>In TDT, also a full clause can act as a predicative, in addition to
+nominals and adverbs. In these cases, the head of the clause acting as
+the predicative becomes also the head of the main clause. (If the
+clause acting as the predicative is also a copular clause, this
+results in the predicative clause seemingly having two copula subjects
+and copulas. However, this is not how the analysis should be
+interpreted.)</p>
+
+<!-- fname:clause_predicative.pdf -->
+<pre><code class="language-sdparse">Tarkoitus on järjestää lopuksi juhlat . \n The_meaning is to_arrange in_the_end a_party .
+nsubj-cop(järjestää-3, Tarkoitus-1)
+cop(järjestää-3, on-2)
+dobj(järjestää-3, juhlat-5)
+advmod(järjestää-3, lopuksi-4)
+punct(järjestää-3, .-6)
+</code></pre>
+
+<h3 id="copulas-and-auxiliaries">5.2.2 Copulas and auxiliaries</h3>
+
+<p><strong>NOTE: the following description copied from the TDT manual conflicts
+with the UD specification. This should be revised or rephrased as a
+diff.</strong></p>
+
+<p>In the Finnish-specific version of the SD scheme, copular verbs and
+auxiliaries take no dependents of their own, with one exception. An
+auxiliary of a copular verb is attached to the copula, and not the
+main predicative as is the usual case.  Note that this is the case
+even if the resulting analysis becomes non-projective.</p>
+
+<!-- fname:copaux.pdf -->
+<pre><code class="language-sdparse">Hänkin on joskus ollut nuori . \n He_too has some_time been young .
+nsubj-cop(nuori-5, Hänkin-1)
+aux(ollut-4, on-2)
+advmod(nuori-5, joskus-3)
+cop(nuori-5, ollut-4)
+punct(nuori-5, .-6)
+</code></pre>
+
+<p>The same rule is applied to the auxiliary of another auxiliary as
+well. All other dependents are attached to the main verb or
+predicative. (Note that this includes negation as well, even though
+negation verbs are generally considered auxiliaries.)</p>
+
+<!-- fname:auxaux.pdf -->
+<pre><code class="language-sdparse">Minun ei ehkä olisi pitänyt sanoa niin . \n I not maybe have should said so .
+nsubj(sanoa-6, Minun-1)
+neg(sanoa-6, ei-2)
+advmod(sanoa-6, ehkä-3)
+aux(pitänyt-5, olisi-4)
+aux(sanoa-6, pitänyt-5)
+advmod(sanoa-6, niin-7)
+punct(sanoa-6, .-8)
+</code></pre>
+
+<h3 id="the-distinction-between-the-predicative-and-the-subject">5.2.3 The distinction between the predicative and the subject</h3>
+
+<p>Distinguishing the subject from the predicative in copular clauses can
+be difficult, as it would often be possible to invert the word-order
+and thus swap the positions of the two elements. For instance in the
+following sentences, either <em>kirahvit</em> “giraffes” or <em>eläimiä</em>
+“animals” could be the subject and the other the predicative.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Kirahvit ovat mielenkiintoisimpia eläimiä.</em> “Giraffes are the most interesting animals.”</li>
+  <li>[fi] <em>Mielenkiintoisimpia eläimiä ovat kirahvit.</em> “The most interesting animals are the giraffes.”</li>
+</ul>
+
+<p>In UD Finnish, the main rule in annotating copular structures is that
+the leftmost element is the subject and the rightmost one the
+predicative. Hence, the above sentences would be annotated in the
+following manner:</p>
+
+<!-- fname:giraffes1.pdf -->
+<pre><code class="language-sdparse">Kirahvit ovat mielenkiintoisimpia eläimiä . \n Giraffes are the_most_interesting animals .
+nsubj-cop(eläimiä-4, Kirahvit-1)
+cop(eläimiä-4, ovat-2)
+amod(eläimiä-4, mielenkiintoisimpia-3)
+punct(eläimiä-4, .-5)
+</code></pre>
+
+<!-- fname:giraffes2.pdf -->
+<pre><code class="language-sdparse">Mielenkiintoisimpia eläimiä ovat kirahvit . \n The_most_interesting animals are giraffes .
+amod(eläimiä-2, Mielenkiintoisimpia-1)
+nsubj-cop(kirahvit-4, eläimiä-2)
+cop(kirahvit-4, ovat-3)
+punct(kirahvit-4, .-5)
+</code></pre>
+
+<p>Semantic considerations such as which concept is a subconcept of the
+other are not taken into account in the annotation. However, it is
+possible to mark the leftmost element the predicative in cases where
+the word order is clearly inverted.  This occurs for instance in
+(indirect) questions and sometimes relative clauses.  Note that
+especially in questions, several different word orders are possible.</p>
+
+<!-- fname:indirectquestion_cop1.pdf -->
+<pre><code class="language-sdparse">Millainen matka oli ? \n What_like trip was ?
+nsubj-cop(Millainen-1, matka-2)
+cop(Millainen-1, oli-3)
+punct(Millainen-1, ?-4)
+</code></pre>
+
+<!-- fname:indirectquestion_cop2.pdf -->
+<pre><code class="language-sdparse">Kysyin , oliko matka mukava . \n I_asked , whether_was trip nice .
+ccomp(Kysyin-1, mukava-5)
+punct(Kysyin-1, .-6)
+punct(mukava-5, ,-2)
+cop(mukava-5, oliko-3)
+nsubj-cop(mukava-5, matka-4)
+</code></pre>
+
+<!-- fname:relativeclause_cop.pdf -->
+<pre><code class="language-sdparse">yhdistys , jonka puheenjohtaja Matikainen on \n association , of_which chairman Matikainen is
+rcmod(yhdistys-1, puheenjohtaja-4)
+punct(puheenjohtaja-4, ,-2)
+rel(puheenjohtaja-4, jonka-3)
+nsubj-cop(puheenjohtaja-4, Matikainen-5)
+cop(puheenjohtaja-4, on-6)
+</code></pre>
+
+<p>Also, if the leftmost element of the copular clause is an adjective
+rather than a noun or pronoun, it is considered that the word order is
+inverted, and thus the adjective is marked as the predicative, not the
+subject.</p>
+
+<!-- fname:adjectivefirst_cop.pdf -->
+<pre><code class="language-sdparse">Kaunishan tämä talo on . \n Beautiful this house is .
+nsubj-cop(Kaunishan-1, talo-3)
+det(talo-3, tämä-2)
+cop(Kaunishan-1, on-4)
+punct(Kaunishan-1, .-5)
+</code></pre>
+
+<h2 id="appositions-and-appellation-modifiers">5.3 Appositions and appellation modifiers</h2>
+
+<p>(The content of this section of the guidelines is found
+<a href="specific-syntax.html">here</a>.)</p>
+
+<h2 id="verbal-dependents-clauses-non-clauses-complements-and-modifiers">5.4 Verbal dependents: Clauses, non-clauses, complements and modifiers</h2>
+
+<p>One particularly difficult task in annotating in the SD scheme is
+selecting the correct dependency type for dependents that are
+verbal. Verbal dependents include different kinds of subordinate
+clauses, as well as infinitive and participal comp lements and
+modifiers. A simplified description of the decision procedure for
+verbal dependents is given in Table 1, and the full details are given
+below.</p>
+
+<p><strong>TABLE 1 OMITTED</strong></p>
+
+<p>Some basic cases are relatively easy to decide. If the dependent is a
+regular subordinate clause, the choices are clear. For relative
+clauses the type to be used is <a href=""><code>rcmod</code></a> and as indirect questions
+are clausal complements, the correct type for them is <a href=""><code>ccomp</code></a>.</p>
+
+<p>If the subordinate clause is an conjunction clause, it can be either a
+complement or a modifier. In the majority of cases, conjunction
+clauses starting with the conjunction <em>että</em> are complements and
+clauses starting with any other conjunction are modifiers. However, it
+should be noted that the conjunction <em>että</em> can be a used instead of
+the conjunction <em>jotta</em>, and respectively, also <em>jotta</em> can
+(especially in spoken language) be used instead of <em>että</em>.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>
+    <p>[fi] <em>Minun täytyy nyt mennä, että en myöhästy.</em> / <em>~jotta en
+myöhästy.</em> “I have to go now so that I won’t be late.”</p>
+  </li>
+  <li>
+    <p>[fi] <em>Hän sanoi, jotta tulee vasta illalla.</em> / <em>~että tulee vasta
+illalla.</em> “He said that I will only come in the evening.”</p>
+  </li>
+</ul>
+
+<p>In these cases, a clause starting with <em>että</em> is a modifier, and a
+clause starting with <em>jotta</em> is a complement. Complement conjunction
+clauses are marked with <a href=""><code>ccomp</code></a> and modifier ones with
+<a href=""><code>advcl</code></a>.</p>
+
+<p>If the dependent is not a subordinate clause, the next deciding factor
+is the POS of the governor. If the governor is a noun, the dependent
+can be an infinitive modifier (<a href=""><code>infmod</code></a>) or a participle modifier
+(<a href=""><code>partmod</code></a>).</p>
+
+<p>If, in turn, the governor is a verb, then the dependent can be either
+a complement or a modifier. A complement can be either clausal or
+non-clausal. With clausal complements, there are three alternative
+dependency types available: <a href=""><code>xcomp</code></a>, <a href=""><code>iccomp</code></a> and <a href=""><code>ccomp</code></a>.</p>
+
+<p>If the subject of the dependent is shared with the governor (subject
+control), the correct type to use is <a href=""><code>xcomp</code></a>. If not, the decision
+is made by the morphology of the dependent. If the form of the verb is
+an infinitive or a participle, the correct type is <a href=""><code>iccomp</code></a>; also
+participles are considered infinitival verb forms in TDT.</p>
+
+<p>If, in turn, the verb is in a finite form, the correct type is
+<a href=""><code>ccomp</code></a>.  (For instance, the verb form <em>juoksevan</em> can, in
+addition to a participle, be a finite form, as in <em>näin miehen
+juoksevan</em>. See for instance [ISK §938, §1452] about referative and
+temporal structures, which are considered finite.)</p>
+
+<p>If the dependent is a non-clausal complement, it is a participal
+complement that resembles adjectival complements. Some of these
+complements can be modified, but all the same they do not form
+clauses.  These participal complements do not have their own
+dependency type, but the type <a href=""><code>partmod</code></a> is used.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Poika vei kotitehtävän <b>opettajan tarkastettavaksi</b>.</em>
+“The boy took the homework to be inspected by the teacher.”</li>
+</ul>
+
+<p>If the dependent is not a complement but a modifier, again the
+morphology of the dependent decides the dependency type. If the
+dependent is either an infinitive or a temporal form, then the correct
+dependency type is <a href=""><code>advcl</code></a>. These cases are usually easily
+recognized as <em>lauseenvastike</em> (“substitute of a clause”).</p>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Pyyhittyään pölyt hän imuroi.</em> “After dusting, he hoovered.”</li>
+</ul>
+
+<p>If the dependent is a participle, the correct type is
+<a href=""><code>partmod</code></a>. These participal modifiers of a verb are often in the
+essive case.</p>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Huolestuneena seurasin tilanteen kehittymistä.</em> “Worried, I
+followed the development of the situation.”</li>
+</ul>
+
+<h2 id="attachment-issues-word-order-dependent-structures-and-ambiguity">5.5 Attachment issues: word-order-dependent structures and ambiguity</h2>
+
+<p>Occasionally determining the correct head word for a dependency may be
+difficult. Some structures are inherently ambiguous, and with some
+structures, often ones involving nominal modifiers, the dependent is
+most naturally seen to modify different sentence elements depending on
+the word-order. The following classic example is ambiguous:</p>
+
+<h4 id="examples-7">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Ammuin elefantin pyjamassani.</em> “I shot an elephant in my pajamas.”</li>
+</ul>
+
+<p>In this example, it is possible that the shooting happened while
+wearing the pajamas, in which case the correct syntax tree would be as
+follows:</p>
+
+<!-- fname:elephant1.pdf -->
+<pre><code class="language-sdparse">Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
+dobj(Ammuin-1, elefantin-2)
+nommod(Ammuin-1, pyjamassani-3)
+punct(Ammuin-1, .-4)
+</code></pre>
+
+<p>On the other hand, it is also possible that the elephant wore the
+pajamas, in which case the correct analysis is:</p>
+
+<!-- fname:elephant2.pdf -->
+<pre><code class="language-sdparse">Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
+dobj(Ammuin-1, elefantin-2)
+nommod(elefantin-2, pyjamassani-3)
+punct(Ammuin-1, .-4)
+</code></pre>
+
+<p>Ambiguities such as this one are resolved as far as possible, and also
+context is used to determine the correct reading where applicable.
+That is, if in the context there exists another sentence which makes
+it clear whether the shooter or the elephant wore the pajamas, then
+that sentence is used to disambiguate the structure.</p>
+
+<p>If, however, the ambiguity cannot be resolved even given context, or
+if an element seems to modify two or more elements simultaneously,
+then the attachment higher in the tree is chosen. In the case of the
+previous example, this would be the reading in which the shooting
+happens wearing the pajamas.</p>
+
+<p>In some structures, the most natural analysis may be word order
+dependent. Consider the following two examples.</p>
+
+<h4 id="examples-8">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Mies ruskeassa takissa tuli junaan.</em> “A man in a brown coat
+came into the train.”</li>
+  <li>[fi] <em>Mies tuli junaan ruskeassa takissa.</em> “A man came into the
+train in a brown coat.”</li>
+</ul>
+
+<p>In the former example, there is clearly a man in a brown coat, whereas
+in the latter case, the coming into the train happened while wearing a
+brown coat.  Therefore, the correct analyses for these examples differ
+in their attachment of the phrase in a brown coat. These attachment
+rules are akin to those used in the Prague Dependency Treebank [?].</p>
+
+<!-- fname:browncoat1.pdf -->
+<pre><code class="language-sdparse">Mies ruskeassa takissa tuli junaan . \n Man brown in_coat came into_train .
+nommod(Mies-1, takissa-3)
+amod(takissa-3, ruskeassa-2)
+nsubj(tuli-4, Mies-1)
+nommod(tuli-4, junaan-5)
+punct(tuli-4, .-6)
+</code></pre>
+
+<!-- fname:browncoat2.pdf -->
+<pre><code class="language-sdparse">Mies tuli junaan ruskeassa takissa . \n Man came into_train brown in_coat .
+nsubj(tuli-2, Mies-1)
+nommod(tuli-2, junaan-3)
+nommod(tuli-2, takissa-5)
+amod(takissa-5, ruskeassa-4)
+punct(tuli-2, .-6)
+</code></pre>
+
+<h2 id="relative-clauses">5.6 Relative clauses</h2>
+
+<p>Relative clauses most often modify noun phrases, but it is also
+possible for them to modify a whole clause. From a prescriptive
+perspective, the relativizer that should be used in relative clauses
+that modify noun phrases is <em>joka</em>, and the relative clause should
+always modify the word directly before it. The relativizer that should
+be used in relative clauses modifying full clauses is <em>mikä</em>. However,
+in real, especially spoken, language, the use of the two relativizers
+is mixed, and not every joka clause actually refers to the word
+adjacent to it. In UD Finnish, the actual reference for the relative
+clause is chosen as the head of the <a href=""><code>rcmod</code></a> dependency wherever
+possible.</p>
+
+<!-- fname:relative_ungrammatical.pdf -->
+<pre><code class="language-sdparse">Annoin hänelle kirjan , joka sitä oli pyytänyt . \n I_gave him the_book , who it had asked_for .
+nommod(Annoin-1, hänelle-2)
+dobj(Annoin-1, kirjan-3)
+rcmod(hänelle-2, pyytänyt-8)
+punct(pyytänyt-8, ,-4)
+rel(pyytänyt-8, joka-5)
+dobj(pyytänyt-8, sitä-6)
+aux(pyytänyt-8, oli-7)
+punct(Annoin-1, .-9)
+</code></pre>
+
+<p>As the analyses of the <em>base</em> layer of annotation are trees, the
+relativizer is always marked using the dependency type <a href=""><code>rel</code></a>, and
+its secondary syntactic function is marked in the separate <em>conjunct
+propagation and additional dependencies</em> layer (see Section 3.3). In
+most cases the rel dependency and its corresponding second layer
+dependency are between the exact same tokens. However, because the
+governor of the <a href=""><code>rel</code></a> dependency is always the head of the
+relative clause, this does not hold for all cases.</p>
+
+<!-- fname:rel_projectivity1.pdf -->
+<pre><code class="language-sdparse">Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
+rcmod(Lapsi-1, sai-5)
+punct(sai-5, ,-2)
+rel(sai-5, jonka-3)
+nsubj(sai-5, hän-4)
+iccomp(sai-5, itkemään-6)
+punct(sai-5, ,-7)
+nsubj(parkui-8, Lapsi-1)
+advmod(parkui-8, yhä-9)
+advmod(parkui-8, surkeasti-10)
+punct(parkui-8, .-11)
+</code></pre>
+
+<!-- fname:rel_projectivity2.pdf -->
+<pre><code class="language-sdparse">Tuon lapsen hän sai itkemään . \n That child he made cry .
+det(lapsen-2, Tuon-1)
+nsubj(sai-4, hän-3)
+iccomp(sai-4, itkemään-5)
+nsubj(itkemään-5, lapsen-2)
+punct(sai-4, .-6)
+</code></pre>
+
+<p>Note also that the dependent of the <a href=""><code>rel</code></a> dependency is always the
+head of the relative phrase, which may or may not be the relative word
+itself.</p>
+
+<!-- fname:relative_jonka.pdf -->
+<pre><code class="language-sdparse">Nainen , jonka auto hajosi , seisoo tuolla . \n Lady , whose car broke , stands there .
+rcmod(Nainen-1, hajosi-5)
+punct(hajosi-5, ,-2)
+punct(hajosi-5, ,-6)
+poss(auto-4, jonka-3)
+rel(hajosi-5, auto-4)
+nsubj(seisoo-7, Nainen-1)
+advmod(seisoo-7, tuolla-8)
+punct(seisoo-7, .-9)
+</code></pre>
+
+<h2 id="units-measures-and-amounts">5.7 Units, measures and amounts</h2>
+
+<p>There are several ways to express amounts. The most simple case is
+expressing amount with numbers: <em>three apples</em>, <em>sixteen litres</em>.</p>
+
+<!-- fname:amount_num.pdf -->
+<pre><code class="language-sdparse">kolme litraa \n three litres
+num(litraa-2, kolme-1)
+</code></pre>
+
+<p>The semantic head, <em>litraa</em> “litres” in the above example, is selected
+as the head, and the number is marked as a numeral modifier, <a href=""><code>num</code></a>
+(Morpho-syntactically, the number <em>kolme</em> “three” could also be
+considered the head, as it determines the case used for the word
+<em>litra</em> “litre”). For more information on the internal structure of
+numerical expressions, see Section 5.12.</p>
+
+<p>Amount can also be expressed with adverbs. This, too, is handled by
+selecting the semantic head as the head of the structure, that is, the
+noun.</p>
+
+<!-- fname:amount_advmod.pdf -->
+<pre><code class="language-sdparse">paljon maitoa \n a_lot_of milk
+advmod(maitoa-2, paljon-1)
+</code></pre>
+
+<p>In addition, amount can be expressed using a nominal, often in
+expressions such as <em>kuppi kahvia</em> “a cup of coffee” or <em>joku pojista</em>
+lit. <em>someone from the boys</em> “one of the boys”. In these cases, the
+first nominal is marked as the head.</p>
+
+<!-- fname:amount_kuppi1.pdf -->
+<pre><code class="language-sdparse">Hän joi kupin kahvia . \n He drank a_cup_of coffee .
+nsubj(joi-2, Hän-1)
+dobj(joi-2, kupin-3)
+nommod(kupin-3, kahvia-4)
+punct(joi-2, .-5)
+</code></pre>
+
+<!-- fname:amount_joku.pdf -->
+<pre><code class="language-sdparse">Joku pojista voisi auttaa minua . \n Someone from_boys could help me .
+nommod(Joku-1, pojista-2)
+nsubj(auttaa-4, Joku-1)
+aux(auttaa-4, voisi-3)
+dobj(auttaa-4, minua-5)
+punct(auttaa-4, .-6)
+</code></pre>
+
+<p>These structures are considered different from the amount expressions
+with numerals or adverbs, as their inflection behaves
+differently. Consider the following examples.</p>
+
+<h4 id="examples-9">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Kieltäydyin kolme<b>sta</b> donitsi<b>sta</b>.</em> “I refused three doughnuts.”</li>
+  <li>[fi] <em>Kieltäydyin kupi<b>sta</b> kahvia.</em> “I refused a cup of coffee.”</li>
+</ul>
+
+<p>In the first example, both parts of the amount expression inflect as
+required by the verb <em>kieltäytyä</em> “to refuse”, whereas in the latter
+case, only the first nominal inflects, signaling that the head, the
+thing refused in this expression, is the cup.  The structure <em>Joku
+pojista</em> behaves and is annotated similarly.</p>
+
+<p>Two things should be noted about the above analysis of <em>joku pojista</em>
+lit. <em>someone from the boys</em> “one of the boys”. First, this analysis
+leads to <em>yksi pojista</em> “one of the boys” being analyzed similarly to
+<em>joku pojista</em> rather than <em>yksi poika</em> “one boy”.</p>
+
+<!-- fname:amount_yksi_pojista.pdf -->
+<pre><code class="language-sdparse">Yksi pojista juoksi ulos . \n One from_boys ran out .
+nsubj(juoksi-3, Yksi-1)
+nommod(Yksi-1, pojista-2)
+advmod(juoksi-3, ulos-4)
+punct(juoksi-3, .-5)
+</code></pre>
+
+<p>Second, this analysis allows a structure like <em>joku pojista</em> to act as
+a predicative, as the head of the expression is in nominative.</p>
+
+<!-- fname:amount_joku_pred.pdf -->
+<pre><code class="language-sdparse">Se oli joku pojista . \n It was someone from_boys .
+nsubj-cop(joku-3, Se-1)
+cop(joku-3, oli-2)
+nommod(joku-3, pojista-4)
+punct(joku-3, .-5)
+</code></pre>
+
+<h2 id="noun-phrases-without-nouns">5.8 Noun phrases without nouns</h2>
+
+<p>In UD Finnish, it is possible for a phrase with a head word other than
+a noun (or pronoun) to act as a noun phrase. Typical cases of this
+include adjective-headed and participle-headed noun phrases.</p>
+
+<h4 id="examples-10">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Ikkunan takana oli <b>jotain sinistä</b>.</em> “There was something blue behind the window”.</li>
+  <li>[fi] <em><b>Kukista kaunein</b> oli punainen ruusu.</em> “The most beautiful of the flowers was a red rose.”</li>
+  <li>[fi] <em><b>Kirjaa kirjoittavat</b> sanoivat samaa.</em> “The (ones) writing a book said the same.”</li>
+  <li>[fi] <em><b>Onnettomuudessa olleille</b> suositeltiin terapiaa.</em> “Therapy was recommended for the (ones) been in the accident.”</li>
+</ul>
+
+<p>These structures are analyzed as standard noun phrases. For instance,
+they can be marked as the subject of a clause, or a nominal modifier,
+regardless of the part-of-speech of the head word.</p>
+
+<!-- fname:jotain_sinista.pdf -->
+<pre><code class="language-sdparse">Ikkunan takana oli jotain sinistä . \n Window behind was something blue .
+adpos(Ikkunan-1, takana-2)
+nommod(oli-3, Ikkunan-1)
+nsubj(oli-3, sinistä-5)
+det(sinistä-5, jotain-4)
+punct(oli-3, .-6)
+</code></pre>
+
+<!-- fname:onnettomuudessa_olleille.pdf -->
+<pre><code class="language-sdparse">Onnettomuudessa olleille suositeltiin terapiaa . \n In_accident been(_ones) was_recommended therapy .
+nommod(olleille-2, Onnettomuudessa-1)
+nommod(suositeltiin-3, olleille-2)
+dobj(suositeltiin-3, terapiaa-4)
+punct(suositeltiin-3, .-5)
+</code></pre>
+
+<h2 id="comparatives-and-superlatives">5.9 Comparatives and superlatives</h2>
+
+<p>(The content of this section of the guidelines is found
+<a href="specific-syntax.html">here</a>.)</p>
+
+<h2 id="subordinate-clauses-and-expressions-of-time">5.10 Subordinate clauses and expressions of time</h2>
+
+<p>Many subordinate clauses, especially ones starting with the
+conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
+time. Consider the following examples.</p>
+
+<h4 id="examples-11">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
+away, when I have hoovered.”</li>
+  <li>[fi] <em>Tapasin hänet sen jälkeen kun olin tullut kaupasta.</em> “I met
+him after I had come from the store.”</li>
+</ul>
+
+<p>It is often unclear where these time adverbials should be attached. On
+the one hand, they seem to modify the main clause, expressing when the
+action of the main clause takes place. On the other hand, they could
+also modify the subordinate clause, being a part of the time condition
+given in the subordinate clause.  A third option would be to make the
+time adverbial depend on the subordinating conjunction, to make the
+whole expression a two-part conjunction. The third option has some
+intuitive appeal, but this would make the number of subordinating
+conjunctions excessively large.</p>
+
+<p>In UD Finnish, a very limited number of these cases are considered
+especially tightly bound with the subordinating conjunction. These
+cases are considered multi-part subordinating conjunctions and listed
+as such in Section 2.26. Otherwise, these adverbials are consistently
+made dependents of the subordinate clause.</p>
+
+<!-- fname:subordinate+time_adverbial.pdf -->
+<pre><code class="language-sdparse">Tulen sinne heti , kun pääsen . \n I_will_come there right_away , when I_can .
+advmod(Tulen-1, sinne-2)
+advcl(Tulen-1, pääsen-6)
+advmod(pääsen-6, heti-3)
+punct(pääsen-6, ,-4)
+mark(pääsen-6, kun-5)
+punct(Tulen-1, .-7)
+</code></pre>
+
+<p>However, it should be noted that all subordinate clauses themselves
+are not dependents of the main verb. As discussed in Section 2.10,
+clausal complements can depend on nouns, pronouns or adverbs. Similar
+situations can occur with subordinate clauses that are modifiers, and
+they are also analyzed similarly. Most commonly this occurs with the
+pronoun <em>se</em> “it”.</p>
+
+<!-- fname:se_kun.pdf -->
+<pre><code class="language-sdparse">Hänet säikäytti se , kun poika putosi hevosen selästä . \n Him scared it , when boy fell horse's from_back .
+dobj(säikäytti-2, Hänet-1)
+nsubj(säikäytti-2, se-3)
+advcl(se-3, putosi-7)
+punct(putosi-7, ,-4)
+mark(putosi-7, kun-5)
+nsubj(putosi-7, poika-6)
+nommod(putosi-7, selästä-9)
+poss(selästä-9, hevosen-8)
+punct(säikäytti-2, .-10)
+</code></pre>
+
+<h2 id="subjects-and-objects-of-a-noun">5.11 Subjects and objects of a noun</h2>
+
+<p>In Finnish, it is possible for certain nouns which either are direct
+derivations of a verb or otherwise have a verb counterpart
+(verbivastineellinen substantiivi [ISK, §560]) to take a subject- or
+object-like complement. Both of these are identical in form to more
+general genitive modifiers of a noun, marked with the dependency type
+<a href=""><code>poss</code></a> in the UD Finnish scheme.</p>
+
+<!-- fname:regular_poss.pdf -->
+<pre><code class="language-sdparse">talon katto \n house(gen.) roof(N)
+poss(katto-2, talon-1)
+</code></pre>
+
+<p>Genitive objects of a noun are marked the <a href=""><code>gobj</code></a>, which is a
+subtype for the more general genitive-modifier type <a href=""><code>poss</code></a>. Both
+nominal derivations and other nouns with verb counterparts can take a
+genitive object, with the exception of JA- derivations, the genitive
+modifier of which is never considered an object in UD Finnish (<em>talon
+rakentaja</em> “the builder of the house”).</p>
+
+<!-- fname:gobj_vs_poss.pdf -->
+<pre><code class="language-sdparse">talon rakentaminen \n house(gen.) building(N+deriv.)
+gobj(rakentaminen-2, talon-1)
+</code></pre>
+
+<p>Genitive subjects, in turn, are marked using the <a href=""><code>gsubj</code></a>
+dependency type, also a subtype of <a href=""><code>poss</code></a>. Only nouns that are
+marked as derivations of a verb in the morphological tagging receive a
+<a href=""><code>gsubj</code></a> dependent.</p>
+
+<!-- fname:gsubj_vs_poss.pdf -->
+<pre><code class="language-sdparse">maljakon putoaminen \n vase(gen.) falling(N+deriv.)
+gsubj(putoaminen-2, maljakon-1)
+</code></pre>
+
+<h2 id="numerical-expressions">5.12 Numerical expressions</h2>
+
+<p>The dependency type <a href=""><code>number</code></a> in the SD scheme is reserved for
+numerical expressions. Generally, with multi-token numerical
+expressions, the rightmost token of the expression is considered the
+head and the dependencies are chained.</p>
+
+<!-- fname:number.pdf -->
+<pre><code class="language-sdparse">Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
+nsubj-cop(5-6, Poikasia-1)
+cop(5-6, on-2)
+advmod(5-6, yleensä-3)
+number(--5, 3-4)
+number(5-6, --5)
+punct(5-6, .-7)
+</code></pre>
+
+<p>However, it is possible that rather complex expressions are considered
+numerical, and in these cases the structure of the expression is also
+marked, showing the parts of which the expression consists. Often
+these complex expressions involve dates, which are also considered
+numerical expressions in UD Finnish.</p>
+
+<!-- fname:number_complex.pdf -->
+<pre><code class="language-sdparse">3. joulukuuta 1510 - 15. kesäkuuta 1579 \n 3rd December 1510 to 15th June 1579
+number(joulukuuta-2, 3.-1)
+number(1510-3, joulukuuta-2)
+number(--4, 1510-3)
+number(1579-7, --4)
+number(kesäkuuta-6, 15.-5)
+number(1579-7, kesäkuuta-6)
+</code></pre>
+
+<p>Dates can be expressed using many different forms, and all full dates
+are considered numerical expressions in UD Finnish, also those where
+some or all parts of the date are written with characters. Even
+partial dates such as</p>
+
+<!-- fname:3_joulukuuta.pdf -->
+<pre><code class="language-sdparse">3. joulukuuta \n 3rd December
+number(joulukuuta-2, 3.-1)
+</code></pre>
+
+<p>are considered numerical expressions. However, year expressions such
+as the following are not considered dates in UD Finnish, and thus not
+complex numerical expressions.</p>
+
+<!-- fname:vuonna_1996.pdf -->
+<pre><code class="language-sdparse">sanoi vuonna 1996 \n said in_the_year 1996
+nommod(sanoi-1, vuonna-2)
+num(vuonna-2, 1996-3)
+</code></pre>
+
+<!-- fname:kesalla_1972.pdf -->
+<pre><code class="language-sdparse">tapahtui kesällä 1972 \n happened in_the_summer 1972
+nommod(tapahtui-1, kesällä-2)
+num(kesällä-2, 1972-3)
+</code></pre>
+
+<p>If a date expression has a clear internal syntactic structure, this
+structure is annotated instead of the default chain of <a href=""><code>number</code></a>
+dependencies.</p>
+
+<!-- fname:syyskuun_3_ja_4_paiva.pdf -->
+<pre><code class="language-sdparse">syyskuun 3. ja 4. päivä \n September's 3rd and 4th day
+poss(3.-2, syyskuun-1)
+cc(3.-2, ja-3)
+conj(3.-2, 4.-4)
+num(päivä-5, 3.-2)
+</code></pre>
+
+<p>If a date has a more specific time (such as <em>kello kuudelta</em> “at six
+o’clock”) attached to it, the date is considered the head of the
+expression, and the more specific time depends on it. Clock
+expressions, alone or in conjunction with a date, are not considered
+dates or numerical expressions in UD Finnish.</p>
+
+<!-- fname:6_joulukuuta_kello18.pdf -->
+<pre><code class="language-sdparse">6. joulukuuta kello 18 \n 6th December o'clock 18
+number(joulukuuta-2, 6.-1)
+nommod(joulukuuta-2, kello-3)
+num(kello-3, 18-4)
+</code></pre>
+
+<p>In addition to dates, there is one more case of numerical expressions
+that deserves attention: numerical expressions with multiple units. If
+a single amount expression involves multiple units, the units are
+considered a compound unit so to say, and combined using the
+dependency type <a href=""><code>nn</code></a>.</p>
+
+<!-- fname:compound_unit.pdf -->
+<pre><code class="language-sdparse">2 kg 315 g
+num(kg-2, 2-1)
+nn(g-4, kg-2)
+num(g-4, 315-3)
+</code></pre>
+
+<p>In rare cases, however, the previous situation may occur with the
+rightmost part of the expression lacking the unit. These cases are
+annotated flatly as numerical expressions, with no compound units.</p>
+
+<!-- fname:no_compound_unit.pdf -->
+<pre><code class="language-sdparse">2 kg 315
+number(kg-2, 2-1)
+number(315-3, kg-2)
+</code></pre>
+
+<h2 id="participal-modifiers-and-predicatives">5.13 Participal modifiers and predicatives</h2>
+
+<p>In connection with participal modifiers, predicatives are given a
+slightly different treatment than in other contexts. In a regular
+copular clause, the analysis is as follows.</p>
+
+<!-- fname:pcp+cop1.pdf -->
+<pre><code class="language-sdparse">Eeva on raskaana . \n Eeva is pregnant .
+nsubj-cop(raskaana-3, Eeva-1)
+cop(raskaana-3, on-2)
+punct(raskaana-3, .-4)
+</code></pre>
+
+<p>However, if the same analysis were applied in a situation where olla
+acts as a participal modifier, this would result in a non-tree
+structure:</p>
+
+<p>Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
+cop(Raskaana-1, oleva-2)
+nsubj-cop(Raskaana-1, nainen-3)
+nsubj-cop(nälkäinen-5, nainen-3)
+cop(nälkäinen-5, on-4)
+punct(nälkäinen-5, .-6)
+~~~</p>
+
+<p>Therefore, in conjunction with participal modifiers, copular verbs are
+analyzed similarly to regular verbs, in order to avoid non-tree
+structures.</p>
+
+<!-- fname:pcp+cop3.pdf -->
+<pre><code class="language-sdparse">Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
+advmod(oleva-2, Raskaana-1)
+partmod(nainen-3, oleva-2)
+nsubj-cop(nälkäinen-5, nainen-3)
+cop(nälkäinen-5, on-4)
+punct(nälkäinen-5, .-6)
+</code></pre>
+
+<p>The same rule is applied to certain special constructions that are
+normally considered passive structures but can also appear in
+conjunction with participal modifiers. Here the application of the
+rule results in two chained participal modifiers.</p>
+
+<!-- fname:pcp+pass1.pdf -->
+<pre><code class="language-sdparse">Resurssit ovat käytettävissä . \n Resources are usable .
+dobj(käytettävissä-3, Resurssit-1)
+auxpass(käytettävissä-3, ovat-2)
+punct(käytettävissä-3, .-4)
+</code></pre>
+
+<!-- fname:pcp+pass2.pdf -->
+<pre><code class="language-sdparse">Käytettävissä olevat resurssit ovat rajalliset . \n Usable being resources are limited .
+partmod(olevat-2, Käytettävissä-1)
+partmod(resurssit-3, olevat-2)
+nsubj-cop(rajalliset-5, resurssit-3)
+cop(rajalliset-5, ovat-4)
+punct(rajalliset-5, .-6)
+</code></pre>
+
+<h2 id="necessive-structures-and-clausal-subjects">5.14 Necessive structures and clausal subjects</h2>
+
+<p>A clause can act as a subject to another clause (as well as an object,
+but these are marked as clausal complements, <a href=""><code>ccomp</code></a>), in which
+case it should be marked as a clausal subject, <a href=""><code>csubj</code></a>, or, if the
+main clause is copular, a clausal copular subject,
+<a href=""><code>csubj-cop</code></a>. However, in the case of clausal-copular subject, it
+may be difficult to determine whether a clause is, in fact, the
+subject of another clause, as the construct is similar to that of a
+<em>necessive structure</em>. Consider the following example.</p>
+
+<h4 id="examples-12">Examples</h4>
+
+<ul>
+  <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
+</ul>
+
+<p>At first glance, it seems that the clause <em>syödä hyvin</em> is the subject
+of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
+clausal subject. Instead, it is considered a necessive structure, as
+<em>on tärkeää</em> can be given a subject in the genitive form:</p>
+
+<h4 id="examples-13">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
+well.”</li>
+</ul>
+
+<p>The whole structure is considered a single unit, and the genitive
+subject is considered the subject of the latter verb (which expresses
+what it is that is necessary).</p>
+
+<!-- fname:necessive.pdf -->
+<pre><code class="language-sdparse">Hänen on pakko mennä kotiin . \n He has to go home .
+nsubj(mennä-4, Hänen-1)
+cop(pakko-3, on-2)
+iccomp(pakko-3, mennä-4)
+nommod(mennä-4, kotiin-5)
+punct(pakko-3, .-6)
+</code></pre>
+
+<p>The name <em>necessive structure</em> comes from the fact that these
+structures often express the necessity of doing something, but it does
+not mean that all of these structures would have such a meaning; for
+example, <em>on vaikea(a)</em> “it is difficult” is a necessive structure the
+meaning of which does not express necessity. Common necessive
+structures include expressions such as <em>on pakko</em>, <em>on tärkeää</em>, <em>on
+oleellista</em> and <em>on välttämätöntä</em>. They usually, but not always,
+involve the verb <em>olla</em> and an adjective. There are also some verbs,
+such as <em>kannattaa</em> “be worth it” and <em>kuulua</em> “be supposed to”, that
+are analyzed in a necessive manner.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>If it is not possible to insert a genitive subject into the clause,
+then the structure is considered a clausal subject case.</p>
+
+<h4 id="examples-14">Examples</h4>
+
+<ul>
+  <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
+go out.” (the Finnish sentence is ungrammatical.)</li>
+</ul>
+
+<!-- fname:not_necessive.pdf -->
+<pre><code class="language-sdparse">On mahtavaa mennä ulos . \n (it)_is splendid to_go out .
+cop(mahtavaa-2, On-1)
+csubj-cop(mahtavaa-2, mennä-3)
+advmod(mennä-3, ulos-4)
+punct(mahtavaa-2, .-5)
+</code></pre>
+
+<p>Note that due to the copular nature of the main clause, the clausal
+subjects in these clauses which resemble necessive structures are in
+fact clausal copular subjects. There are also other clausal subjects
+which cannot be confused with necessive structures.</p>
+
+<!-- fname:csubj.pdf -->
+<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
+poss(aikomuksenaan-2, Hänen-1)
+nommod(oli-3, aikomuksenaan-2)
+csubj(oli-3, mennä-4)
+advmod(mennä-4, ulos-5)
+punct(oli-3, .-6)
+</code></pre>
+
+<h2 id="passive-structures-and-zeroth-person-constructions">5.15 Passive structures and zeroth person constructions</h2>
+
+<p>The Finnish language has two notable cases of subjectless expressions:
+the passive voice and the zeroth person. In most cases, distinguishing
+these two is rather simple, as the zeroth person uses the same verb
+forms as the third person, whereas there is a morphological passive
+form that is used in constructions considered passive. However, there
+are at least two particular phenomena that deserve special attention.
+First, the <em>on tehtävä</em> -structure is worth examining:</p>
+
+<h4 id="examples-15">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
+</ul>
+
+<p>The form <em>tehtävä</em> is morphologically a passive participle of the verb
+<em>tehdä</em> “to do”. Still, <em>on tehtävä</em> can take a subject, which could
+perhaps point towards to the subjectless version being zeroth person
+after all.</p>
+
+<h4 id="examples-16">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
+</ul>
+
+<p>In UD Finnish, we use the presence or absence of a subject as a cue to
+whether the structure is passive or not. If a subject is present, the
+structure is marked as an active construction, and if not, it is
+assumed to be passive.</p>
+
+<!-- fname:tehtava1.pdf -->
+<pre><code class="language-sdparse">Tämä työ on tehtävä tänään . \n This work has_to_be done today .
+det(työ-2, Tämä-1)
+dobj(tehtävä-4, työ-2)
+auxpass(tehtävä-4, on-3)
+advmod(tehtävä-4, tänään-5)
+punct(tehtävä-4, .-6)
+</code></pre>
+
+<!-- fname:tehtava2.pdf -->
+<pre><code class="language-sdparse">Matin on tehtävä työ tänään . \n Matti has_to do work today .
+nsubj(tehtävä-3, Matin-1)
+aux(tehtävä-3, on-2)
+dobj(tehtävä-3, työ-4)
+advmod(tehtävä-3, tänään-5)
+punct(tehtävä-3, .-6)
+</code></pre>
+
+<p>Second, the <em>on tehtävissä</em> structure deserves a mention. Similarly to
+<em>tehtävä</em>, <em>tehtävissä</em> is a passive verb participle - in fact, the
+difference between the two forms is only that <em>tehtävissä</em> is the
+plural inessive form of the base participle <em>tehtävä</em>. The annotation
+of on tehtävissä follows a strategy similar to the previous one. In
+general, it is assumed that the structure is passive.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
+
+<h4 id="examples-17">Examples</h4>
+
+<ul>
+  <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
+</ul>
+
+<p>However, in some cases it is possible to attach a possessive suffix to
+the participle and use a corresponding personal pronoun as a nominal
+modifier (this is a rare phenomenon and not seen with many
+verbs). This case is analyzed as an active structure.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>However, as can be seen from the example, no subject is marked, but
+rather an object. It is still understood that <em>means</em> are the object
+of <em>using</em> in this example.</p>
+
+<h2 id="morphological-distinctions">5.16 Morphological distinctions</h2>
+
+<p>Distinctions between certain dependency types, most commonly between
+participial modifiers (<a href=""><code>partmod</code></a>) and adjectival modifiers
+(<a href=""><code>amod</code></a>) as well as adverbial modifiers (<a href=""><code>advmod</code></a>) and nominal
+modifiers (<a href=""><code>nommod</code></a>), are based on the corresponding morphological
+distinction, which can sometimes be rather difficult. This section
+describes heuristics used to make these two most common
+morphology-based distinctions. Some of these heuristics resemble those
+used in the Penn Treebank [?].</p>
+
+<h3 id="participles-versus-adjectives">5.16.1 Participles versus adjectives</h3>
+
+<p>The distinction between verb participles and adjectives is difficult
+in several languages, and Finnish is no exception. In UD Finnish, this
+distinction affects the syntax annotation of mainly two kinds of
+structures. First, it affects the choice between the dependency types
+<a href=""><code>partmod</code></a> (participial modifier) and <a href=""><code>amod</code></a> (adjectival
+modifier).</p>
+
+<!-- fname:amod_or_partmod.pdf -->
+<pre><code class="language-sdparse">Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
+amod/partmod?(näyttelijä-2, Tunnettu-1)
+nn(Travolta-4, näyttelijä-2)
+name(Travolta-4, John-3)
+</code></pre>
+
+<p>Second, it affects whether certain structures should be marked as
+copular clauses, or alternatively, as passive clauses in the present
+or past perfect form (<em>perfekti</em> and <em>pluskvamperfekti</em> in Finnish
+grammar). The same structure can be considered copular if the head
+word is an adjective, or a passive clause if the head word is
+considered a passive participle.</p>
+
+<!-- fname:copula_or_passive.pdf -->
+<pre><code class="language-sdparse">Uiminen järvessä on kielletty . \n Swimming in_lake is/has_been forbidden .
+nsubj-cop/dobj?(kielletty-4, Uiminen-1)
+nommod(Uiminen-1, järvessä-2)
+cop/auxpass?(kielletty-4, on-3)
+punct(kielletty-4, .-5)
+</code></pre>
+
+<p>Some words have several possible readings, and it is fairly common
+that a word can be given either a participal reading or an adjectival
+one. The following heuristics are used when deciding whether a word is
+an adjective or a participle.</p>
+
+<p>If a word can receive comparative and superlative forms, it is likely
+to be an adjective. For instance, the word <em>tunnettu</em> “well-known”,
+which has both and adjectival and a participal reading, inflects in
+these forms: <em>tunnettu</em>, <em>tunnetumpi</em>, <em>tunnetuin</em>.</p>
+
+<p>If, on the other hand, the word is modified by for instance a nominal
+or adverbial modifier, it is likely to be a verb participle. For
+instance, with the word <em>tunnettu</em>, the following contexts would be
+possible:</p>
+
+<h4 id="examples-18">Examples</h4>
+
+<ul>
+  <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
+  <li>[fi] <em>kalliista autoistaan tunnettu näyttelijä</em> “actor known for his expensive cars”</li>
+</ul>
+
+<p>Thus, it is the case that the same word can act both as an adjective
+and as a verbal participle, depending on context, and the decisions
+are made on a case-by-case basis. As a third heuristic used in the
+decision, the annotators are asked to consider whether someone is
+actively doing something in the example under consideration. If so,
+then the word is likely a verbal participle, otherwise it is an
+adjective. Consider the following examples:</p>
+
+<h4 id="examples-19">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
+future husband”</li>
+  <li>[fi] <em>Maijan Turusta tuleva aviomies</em> “Maija’s husband coming from
+Turku”</li>
+</ul>
+
+<p>In the first example, the husband is not actively doing anything, he
+simply is going to be Maija’s husband in the future. Thus <em>tuleva</em> in
+this example would be considered an adjective. In the second example,
+he is actively coming from the direction of Turku, and thus <em>tuleva</em>
+here would be a verbal participle.</p>
+
+<p>As a rule of thumb, if an adjectival reading is possible in a given
+context, it is generally preferred. For instance, in <em>tunnettu
+näyttelijä</em> “well-known actor”, if it was not specified a a by whom or
+for what the actor is known, it would be assumed that the adjectival
+reading is intended.  Similarly, in <em>uiminen on kielletty</em> “swimming
+is forbidden”, if the context does not reveal that there has been
+active forbidding of the swimming (the example is genuinely
+ambiguous), then it is assumed that it is a property of the swimming
+that it is forbidden.</p>
+
+<h3 id="adverbs-versus-nouns">5.16.2 Adverbs versus nouns</h3>
+
+<p>Due to the fact that certain Finnish adverbs have a partial case
+inflection, it is sometimes difficult to decide whether a word is an
+inflected form of a noun (or adjective), or rather an adverb. For
+instance, the word <em>pääasiassa</em> “mainly” could be analyzed as an
+adverb, or alternatively, as an inflected form of the noun <em>pääasia</em>
+“the main thing”.</p>
+
+<p>This distinction affects the choice between the dependency types
+<a href=""><code>advmod</code></a> (adverb modifier) and <a href=""><code>nommod</code></a> (nominal modifier).
+Additionally, it can affect the choice of whether a word can be marked
+as a predicative (if it is an adverb) and thus head of the clause, or
+if it should me marked as a nominal modifier for the verb olla. In the
+latter case, the structure of the whole clause is affected by the
+decision.</p>
+
+<!-- fname:advmod_or_nommod.pdf -->
+<pre><code class="language-sdparse">Pääasiassa tämä vaikuttaa koron suuruuteen . \n Mainly this affects interest's level .
+advmod/nommod?(vaikuttaa-3, Pääasiassa-1)
+nsubj(vaikuttaa-3, tämä-2)
+nommod(vaikuttaa-3, suuruuteen-5)
+poss(suuruuteen-5, koron-4)
+punct(vaikuttaa-3, .-6)
+</code></pre>
+
+<!-- fname:predicative_or_nommod1.pdf -->
+<pre><code class="language-sdparse">Elisa ja Elias ovat naimisissa . \n Elisa and Elias are married .
+cc(Elisa-1, ja-2)
+conj(Elisa-1, Elias-3)
+nsubj-cop?(naimisissa-5, Elisa-1)
+cop?(naimisissa-5, ovat-4)
+punct(naimisissa-5, .-6)
+</code></pre>
+
+<!-- fname:predicative_or_nommod2.pdf -->
+<pre><code class="language-sdparse">Matti oli humalassa . \n Matti was drunk .
+nsubj?(oli-2, Matti-1)
+nommod?(oli-2, humalassa-3)
+punct(oli-2, .-4)
+</code></pre>
+
+<p>Again, the main source of information while annotating is the
+morphological analysis of the word, but occasionally it is possible
+that the syntactic annotation uses a reading that has been omitted.
+It is less common that both an adverb and noun reading would be
+available. Decision heuristics are needed here as well.</p>
+
+<p>The main deciding factor between a noun and an adverb reading is
+whether there exists a corresponding noun in its baseform and whether
+and to what degree the word under question is related to that
+noun. For example, in the case of <em>pääasiassa</em> “mainly” there exists a
+corresponding noun <em>pääasia</em> “main thing”, but in the case of
+<em>naimisissa</em> “married” the only candidate for such a noun would be
+<em>naiminen</em>, which could technically be translated as “marrying”, but
+is in fact more often used (usually in spoken language) in the meaning
+“having sex”. As for <em>humalassa</em> “drunk”, there is a candidate noun,
+<em>humala</em>, which can be used to refer to the state of being drunk.</p>
+
+<p>As a test used to see whether the possible candidate noun is closely
+(enough) related to the word under question, annotators are asked to
+reflect on the hypothetical baseform of the noun reading and on
+whether it could be imagined to be involved in the current
+sentence. For instance, is there a main thing (<em>pääasia</em>) in which the
+interest rate is affected? Is there a state of being married
+(“<em>naimiset</em>”) in which Elisa and Elias are? Is there a state of being
+drunk (<em>humala</em>) in which Matti is? The answer to the first two
+questions is no, and thus <em>pääasiassa</em> and <em>naimisissa</em> are considered
+adverbs. The answer to the third question, however, is yes, and
+therefore the word <em>humalassa</em> is analyzed as an inflected form of the
+noun <em>humala</em>.</p>
+
+<h2 id="attaching-punctuation">5.17 Attaching punctuation</h2>
+
+<p>Dependencies signaling punctuation are labeled with the dependency
+type <a href=""><code>punct</code></a>, and the main rule is that the dependency should be
+attached to that element which it delimits. Thus, sentence-delimiting
+punctuation, such as “.”, “!” or “?” should be attached to the main
+verb (or predicative) of the sentence.</p>
+
+<!-- fname:sentpunct.pdf -->
+<pre><code class="language-sdparse">Söin jäätelöä . \n I_ate ice-cream .
+dobj(Söin-1, jäätelöä-2)
+punct(Söin-1, .-3)
+</code></pre>
+
+<p>According to the same rule, the comma delimiting a subordinate clause
+should be attached to the head word of said clause.</p>
+
+<!-- fname:subordpunct1.pdf -->
+<pre><code class="language-sdparse">Jos sataa , menen sisälle . \n If it_rains , I_go inside .
+mark(sataa-2, Jos-1)
+punct(sataa-2, ,-3)
+advcl(menen-4, sataa-2)
+advmod(menen-4, sisälle-5)
+punct(menen-4, .-6)
+</code></pre>
+
+<p>If there are several subordinate clauses within each other and the
+punctuation could delimit any of them, the shortest-spanning (closest)
+clause is selected.</p>
+
+<!-- fname:subordpunct2.pdf -->
+<pre><code class="language-sdparse">Jos syöt sieniä , jotka ovat myrkyllisiä , kuolet . \n If you_eat mushrooms , that are poisonous , you_die .
+mark(syöt-2, Jos-1)
+dobj(syöt-2, sieniä-3)
+rcmod(sieniä-3, myrkyllisiä-7)
+punct(myrkyllisiä-7, ,-4)
+cop(myrkyllisiä-7, ovat-6)
+punct(myrkyllisiä-7, ,-8)
+advcl(kuolet-9, syöt-2)
+punct(kuolet-9, .-10)
+</code></pre>
+
+<p>In coordinations, the punctuation symbols (usually commas) are treated
+similarly to the coordinating conjunction and attached to the head of
+the coordination, which is the first coordinated element.</p>
+
+<!-- fname:coordpunct.pdf -->
+<pre><code class="language-sdparse">kivet , kannot ja männynkävyt \n rocks , stumps and pinecones
+punct(kivet-1, ,-2)
+conj(kivet-1, kannot-3)
+cc(kivet-1, ja-4)
+conj(kivet-1, männynkävyt-5)
+</code></pre>
+
+<p>Punctuation related to coordination-like parataxis, that is, parataxis
+used in connection with a semicolon, colon or dash, is attached as in
+coordinations.</p>
+
+<!-- fname:parataxispunct1.pdf -->
+<pre><code class="language-sdparse">Matti tuli töistä ; Maija oli jo kotona . \n Matti came from_work ; Maija was already home .
+nsubj(tuli-2, Matti-1)
+nommod(tuli-2, töistä-3)
+punct(tuli-2, ;-4)
+parataxis(tuli-2, oli-6)
+nsubj(oli-6, Maija-5)
+advmod(oli-6, jo-7)
+advmod(oli-6, kotona-8)
+punct(tuli-2, .-9)
+</code></pre>
+
+<p>Punctuation with direct speech -type parataxis, however, is seen to
+delimit the utterance of the speaker.</p>
+
+<!-- fname:parataxispunct2.pdf -->
+<pre><code class="language-sdparse">" Älä sotke itseäsi " , äiti sanoi . \n " Don't mess yourself " , mother said .
+neg(sotke-3, Älä-2)
+dobj(sotke-3, itseäsi-4)
+punct(sotke-3, "-1)
+punct(sotke-3, "-5)
+punct(sotke-3, ,-6)
+parataxis(sanoi-8, sotke-3)
+nsubj(sanoi-8, äiti-7)
+punct(sanoi-8, .-9)
+</code></pre>
+
+<p>Single and double quotes as well as parentheses are attached to the
+head of the quoted/parenthetical clause or phrase. Dashes signifying
+quotes are also attached to the head of the quote.</p>
+
+<!-- fname:quotes.pdf -->
+<pre><code class="language-sdparse">Illan elokuva on " Kuninkaan puhe " . \n Tonigt's movie is " The_King's speech " .
+poss(elokuva-2, Illan-1)
+nsubj-cop(puhe-6, elokuva-2)
+cop(puhe-6, on-3)
+punct(puhe-6, "-4)
+poss(puhe-6, Kuninkaan-5)
+name(puhe-6, Kuninkaan-5)
+punct(puhe-6, "-7)
+punct(puhe-6, .-8)
+</code></pre>
+
+<!-- fname:parentheses.pdf -->
+<pre><code class="language-sdparse">Matikainen ( s. 1943 ) on ammatiltaan kirjailija . \n Matikainen ( born 1943 ) is by_profession author .
+nsubj-cop(kirjailija-8, Matikainen-1)
+partmod(Matikainen-1, s.-3)
+punct(s.-3, (-2)
+nommod(s.-3, 1943-4)
+punct(s.-3, )-5)
+cop(kirjailija-8, on-6)
+nommod(kirjailija-8, ammatiltaan-7)
+punct(kirjailija-8, .-9)
+</code></pre>
+
+<!-- fname:quotedash.pdf -->
+<pre><code class="language-sdparse">- Älä sotke itseäsi , sanoi äiti . \n - Don't mess yourself , said mother .
+punct(sotke-3, --1)
+neg(sotke-3, Älä-2)
+dobj(sotke-3, itseäsi-4)
+punct(sotke-3, ,-5)
+parataxis(sanoi-6, sotke-3)
+nsubj(sanoi-6, äiti-7)
+punct(sanoi-6, .-8)
+</code></pre>
+
+<p>If the quotes or parentheses contain two or more items, such as parts
+of a coordination, then the punctuation is attached to the closest
+enclosed element, so as to avoid unnecessary non-projectivity.</p>
+
+<!-- fname:quotecoord.pdf -->
+<pre><code class="language-sdparse">Hän pitää kirjoista ( ja näytelmistä ) . \n He likes books ( and plays ) .
+nsubj(pitää-2, Hän-1)
+dobj(pitää-2, kirjoista-3)
+cc(kirjoista-3, ja-5)
+conj(kirjoista-3, näytelmistä-6)
+punct(pitää-2, .-8)
+punct(ja-5, (-4)
+punct(näytelmistä-6, )-7)
+</code></pre>
+
+<p>Punctuation can also delimit short additions, such as nominal
+modifiers or appositions, and in such cases, the punctuation should be
+attached to the head of the addition.</p>
+
+<!-- fname:punctappos.pdf -->
+<pre><code class="language-sdparse">Matti Tamminen , professori \n Matti Tamminen , the_professor
+name(Tamminen-2, Matti-1)
+appos(Tamminen-2, professori-4)
+punct(professori-4, ,-3)
+</code></pre>
+
+<!-- fname:punctnommod.pdf -->
+<pre><code class="language-sdparse">Lähden matkalle , ainakin viikoksi . \n I_am_going to_trip , at_least for_a_week .
+nommod(Lähden-1, matkalle-2)
+nommod(Lähden-1, viikoksi-5)
+punct(Lähden-1, .-6)
+punct(viikoksi-5, ,-3)
+advmod(viikoksi-5, ainakin-4)
+</code></pre>
+
+<p>Finally, list item markers such as bullets of a bulleted list are
+marked as punctuation attached to the head of the list item.</p>
+
+<!-- fname:bullet.pdf -->
+<pre><code class="language-sdparse">* Käy kaupassa . \n * Visit store .
+punct(Käy-2, *-1)
+punct(Käy-2, .-4)
+nommod(Käy-2, kaupassa-3)
+</code></pre>
+
 
 
       </div>
