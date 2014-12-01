@@ -13,11 +13,26 @@ guidelines for syntactic annotation.
 found in [extra.html](extra.html))
 
 ## Unused UD dependency relations
+<!-- parts of this section originally from TDT guidelines section 4.1 -->
 
-* `csubjpass`
-* `expl`
-* `iobj`
-* `nsubjpass`
+Some dependency types defined by the general UD dependency annotation
+guidelines are not applied in UD Finnish as the phenomenon they are
+intended to annotate does not occur in Finnish. Specifically, the
+following UD dependency relations are not applied in UD Finnish:
+
+* [`expl`](u-dep/expl) (expletive)
+* [`nsubjpass`](u-dep/nsubjpass) (passive nominal subject)
+* [`csubjpass`](u-dep/csubjpass) (clausal passive subject)
+* [`iobj`](u-dep/iobj) (indirect object)
+
+Finnish existential clauses do not contain an expletive there, nor do
+passive clauses have a subject. What is considered the passive subject
+in e.g. English is the direct object in Finnish, and thus the
+corresponding type, [`dobj`]() is used instead, or in the case of a
+clause acting as the direct object, it is marked as a clausal
+complement ([`ccomp`]()). Finally, indirect objects do not occur in
+Finnish, as regardless of word order, the corresponding argument is
+expressed by a nominal modifier ([`nmod`]()).
 
 ---
 
