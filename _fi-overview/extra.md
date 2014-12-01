@@ -344,49 +344,53 @@ number of types in the Finnish SD scheme 53.
 ## New dependency types in Finnish-specific SD
 <!-- this section originally from TDT guidelines section 4.2 -->
 
-In addition to types not used in the Finnish-specific SD scheme, there
-are also dependency types that are new to this scheme version. First,
-two new dependency types were needed to accommodate the similar
-handling of nominal modifiers and adpositional phrases: [`nmod`]()
-and [`case`](), both under the [`modifier`]() subcategory.  It should
-be noted that although [`nmod`]() is considered a modifier type,
-many nominal modifiers in the treebank are at least borderline
-complements, due to the fact that many Finnish verbs take inflected
-nominals as their arguments.
+There are also dependency types that are specific to the UD Finnish
+scheme.
 
-Second, the dependency types [`nmod:gsubj`]() and [`nmod:gobj`]() were
-also added under the [`modifier`]() subcategory, to accommodate the
-frequent constructions of nouns that take a subject- or object-like
-argument. The genitive subject and object take the form of a genitive
-modifier, and thus they are direct subtypes of [`nmod:poss`]().
+<!-- not applicable in comparison to UD
+First, two new dependency types were needed to accommodate the similar
+handling of nominal modifiers and adpositional phrases: [`nmod`]() and
+[`case`](), both under the [`modifier`]() subcategory.  It should be
+noted that although [`nmod`]() is considered a modifier type, many
+nominal modifiers in the treebank are at least borderline complements,
+due to the fact that many Finnish verbs take inflected nominals as
+their arguments.
+-->
 
-Third, under the [`subject`]() category, both the nominal and clausal
-subject types have received a new subtype, [`nsubj:cop`]() and
+The dependency types [`nmod:gsubj`]() and [`nmod:gobj`]() were added
+to accommodate the frequent constructions of nouns that take a
+subject- or object-like argument. The genitive subject and object take
+the form of a genitive modifier, and thus they are subtypes of
+[`nmod:poss`]().
+
+Under the [`subject`]() category, both the nominal and clausal subject
+types have received a new subtype, [`nsubj:cop`]() and
 [`csubj:cop`](), respectively, to be used for subjects of copular
-clauses, which have their own special treatment in the SD
-scheme. These two new types come in place of the passive subject types
-that were, as explained above, removed as unnecessary. Also we have
-moved the existing [`xsubj`]() type from under the [`sdep`]() category
-to under the [`subject`]() category, and added a new subtype for
-[`xsubj`](), [`xsubj-cop`]().  The external subject types are part of
-the *conjunct propagation and additional dependencies* layer of the
-treebank.
+clauses. These two new types come in place of the passive subject
+types that were, as explained above, removed as unnecessary.
 
-Fourth, in the [`complement`]() category, we have introduced one new
-subtype for clausal complements ([`ccomp`]()): that of *infinite
-clausal complement*, [`ccomp:nf`](). This is due to the fact that
-clausal complements in Finnish often involve an infinite main verb.
+Also we have moved the existing [`xsubj`]() type from under the
+[`sdep`]() category to under the [`subject`]() category, and added a
+new subtype for [`xsubj`](), [`xsubj-cop`]().  The external subject
+types are part of the *conjunct propagation and additional
+dependencies* layer of the treebank.
 
-Fifth, we have added five other new dependency types. The types
-[`compar`]() and [`mark:comparator`]() are to be used in structures
-involving comparisons of adjectives (and occasionally other
-parts-of-speech).  The type [`vocative`]() is introduced to be able to
-analyze *vocatives*, and the type [`discourse`]() is for
-*interjections*. The treebank contains only written Finnish, but both
+In the [`complement`]() category, we have introduced one new subtype
+for clausal complements ([`ccomp`]()): that of *nonfinite clausal
+complement*, [`ccomp:nf`](). This is due to the fact that clausal
+complements in Finnish often involve a nonfinite main verb.
+
+We have also added other new dependency types. The types [`compar`]()
+and [`mark:comparator`]() are to be used in structures involving
+comparisons of adjectives (and occasionally other parts-of-speech).
+The type [`vocative`]() is introduced to be able to analyze
+*vocatives*, and the type [`discourse`]() is for *interjections*. Both
 vocatives and interjections are fairly common in more informal genres,
-such as blog text.  The type [`ellipsis`]() is part of the *conjunct
-propagation and additional dependencies* layer and used to mark the
-elided word in gapping.
+such as blog text.
+
+The type [`ellipsis`]() is part of the *conjunct propagation and
+additional dependencies* layer and used to mark the elided word in
+gapping.
 
 ## Hierarchy changes
 <!-- this section originally from TDT guidelines section 4.3 -->
