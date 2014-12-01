@@ -355,26 +355,6 @@ thus the dependency type [`possessive`]() is not needed. Finally,
 indirect objects do not occur in Finnish, as regardless of word order,
 the corresponding argument is expressed by a nominal modifier.
 
-Second, adpositional phrases are handled differently from the original
-SD scheme, so as to analyze them similarly to nominal modifiers
-without a pre- or postposition present. Thus, the original SD types
-[`prep`]() and [`pobj`]() are not used.  Third, the type [`ref`]()
-(*referent*) is not included in the current TDT annotation. When used,
-it causes the structures to not be trees, meaning that it would be
-part of an additional layer of annotation.
-
-Fourth, three dependency types are considered semantic in nature, and
-thus not included in the first layer of annotation in TDT. These types
-include [`purpcl`]() (purpose clause), [`tmod`]() (temporal modifier)
-and [`measure`](). Instead of using these semantic types, the
-dependency types appropriate for the syntactic structure of each
-phenomenon are used in TDT. Finally, no distinction between
-apposition-like abbreviations ([`abbrev`]()) (such as *United States
-of America (USA)*) and appositions ([`appos`]()) is made, meaning both
-dependency types have been merged under the appos type, and instead of
-marking predicatives in some situations as attributives ([`attr`]()),
-they are always analyzed as predicatives.
-
 **FIGURE 1 OMITTED**
 
 **FIGURE 2 OMITTED**
