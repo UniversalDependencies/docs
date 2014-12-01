@@ -43,13 +43,28 @@ guidelines for syntactic annotation.</p>
 found in <a href="extra.html">extra.html</a>)</p>
 
 <h2 id="unused-ud-dependency-relations">Unused UD dependency relations</h2>
+<!-- parts of this section originally from TDT guidelines section 4.1 -->
+
+<p>Some dependency types defined by the general UD dependency annotation
+guidelines are not applied in UD Finnish as the phenomenon they are
+intended to annotate does not occur in Finnish. Specifically, the
+following UD dependency relations are not applied in UD Finnish:</p>
 
 <ul>
-  <li><code>csubjpass</code></li>
-  <li><code>expl</code></li>
-  <li><code>iobj</code></li>
-  <li><code>nsubjpass</code></li>
+  <li><a href="u-dep/expl"><code>expl</code></a> (expletive)</li>
+  <li><a href="u-dep/nsubjpass"><code>nsubjpass</code></a> (passive nominal subject)</li>
+  <li><a href="u-dep/csubjpass"><code>csubjpass</code></a> (clausal passive subject)</li>
+  <li><a href="u-dep/iobj"><code>iobj</code></a> (indirect object)</li>
 </ul>
+
+<p>Finnish existential clauses do not contain an expletive there, nor do
+passive clauses have a subject. What is considered the passive subject
+in e.g. English is the direct object in Finnish, and thus the
+corresponding type, <a href=""><code>dobj</code></a> is used instead, or in the case of a
+clause acting as the direct object, it is marked as a clausal
+complement (<a href=""><code>ccomp</code></a>). Finally, indirect objects do not occur in
+Finnish, as regardless of word order, the corresponding argument is
+expressed by a nominal modifier (<a href=""><code>nmod</code></a>).</p>
 
 <hr />
 
