@@ -418,112 +418,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="subjects-and-objects">Subjects and objects</h2>
-<!-- this section originally from TDT guidelines section 5.1 -->
-
-<p>Finnish subjects and objects are straightforward to recognize in their
-prototypical cases, but both phenomena also have some difficult cases,
-which are discussed here.</p>
-
-<p>The subject is the primary complement of the verb, usually denoting
-the entity doing something. In addition to the <em>basic subject</em> (see
-<a href="http://scripta.kotus.fi/visk/sisallys.php?p=910">ISK §910</a>), also
-<em>existential subjects</em> (eksistentiaalisubjekti, e-subjekti) are
-considered subjects in UD Finnish.</p>
-
-<!-- fname:nsubj_existential.pdf -->
-<pre><code class="language-sdparse">Tien vieressä on talo . \n Road beside is house .
-case(Tien-1, vieressä-2)
-nmod(on-3, Tien-1)
-nsubj(on-3, talo-4)
-punct(on-3, .-5)
-</code></pre>
-
-<p>Possessive clauses (omistuslause) are considered a subtype of
-existential clauses, and analyzed similarly. The owner in possessive
-clauses is marked using the type <a href=""><code>nmod:own</code></a>.</p>
-
-<!-- fname:nsubj_possessive.pdf -->
-<pre><code class="language-sdparse">Hänellä on oma asunto . \n At_him is own apartment .
-nmod:own(on-2, Hänellä-1)
-nsubj(on-2, asunto-4)
-amod(asunto-4, oma-3)
-punct(on-2, .-5)
-</code></pre>
-
-<p>Also the genitive subject in for instance necessive structures (see
-Section 5.14) is annotated as <a href=""><code>nsubj</code></a>. (This is not to be confused
-with the genitive subject of a noun, <a href="">nmod:gsubj</a>)</p>
-
-<!-- fname:nsubj_necessive.pdf -->
-<pre><code class="language-sdparse">Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
-nsubj(mennä-4, Minun-1)
-cop(pakko-3, on-2)
-ccomp:nf(pakko-3, mennä-4)
-nmod(mennä-4, kotiin-5)
-punct(pakko-3, .-6)
-</code></pre>
-
-<p>In UD Finnish, subjects are allowed to be in the <em>nominative</em>,
-<em>genitive</em> and <em>partitive</em> <a href="Case">cases</a>, and in addition, also an
-<em>accusative</em> subject is possible (the accusative case only exists for
-certain pronouns). Two notable situations where a complement in the
-accusative form is analyzed as the subject are:</p>
-
-<ol>
-  <li>
-    <p>Nonfinite clausal complements (<em>Sain hänet itkemään.</em> “I made him
-cry.”)</p>
-  </li>
-  <li>
-    <p>Possessive clauses (<em>Minulla on sinut.</em> “I have you.”)</p>
-  </li>
-</ol>
-
-<p>The same cases are allowed for objects as for subjects: the
-nominative, the partitive, the genitive and the accusative.
-Complements in other cases are analyzed as <em>nominal modifiers</em>
-(<a href=""><code>nmod</code></a>), despite their complement status.</p>
-
-<p><em>Object cased amount adverbials</em> (objektin sijainen määrän
-adverbiaali, OSMA
-<a href="http://scripta.kotus.fi/visk/sisallys.php?p=972">ISK,§972</a>), which,
-as the name implies, use the same cases as objects, are analyzed as
-nominal modifiers. However, certain verbs are considered such that
-they can take as their object an expression that would otherwise be
-considered an amount adverbial. Examples where an amount is considered
-the object are for instance:</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Juoksin kilometrin.</em> “I ran a kilometer.”</li>
-  <li>[fi] <em>Moottori pyöri kymmenen kierrosta.</em> “The motor ran ten rounds.”</li>
-  <li>[fi] <em>Maitotölkki painaa kilon.</em> “A milk jar weighs a kilogram.”</li>
-</ul>
-
-<p>Passive verbforms take a direct object and not a passive subject, as
-in for instance English.</p>
-
-<p><strong>FIGURE MISSING</strong></p>
-
-<p>However, there are certain verbs, so called <em>derived passives</em>
-<a href="http://scripta.kotus.fi/visk/sisallys.php?p=336">ISK, §336</a>, which
-may resemble passive verbforms in meaning, but which in fact take a
-subject, not an object. (In English, the Finnish derived passives
-generally correspond to intransitive uses of a verb, such as <em>the door
-opens</em>, sometimes termed <em>inchoative</em>.).</p>
-
-<p><strong>FIGURE MISSING</strong></p>
-
-<h4 id="references">References</h4>
-
-<ul>
-  <li>http://scripta.kotus.fi/visk/sisallys.php?p=910 (in Finnish)</li>
-  <li>http://scripta.kotus.fi/visk/sisallys.php?p=972 (in Finnish)</li>
-  <li>http://scripta.kotus.fi/visk/sisallys.php?p=336 (in Finnish)</li>
-</ul>
-
 <h2 id="copulas">Copulas</h2>
 <!-- this section originally from TDT guidelines section 5.2 -->
 
@@ -596,7 +490,7 @@ punct(olivat-2, .-5)
 and hence two heads, which would be the case in a sentence such as the
 following:</p>
 
-<h4 id="examples-1">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>Paketti on Oulusta ystävältäni.</em> “The package is from Oulu
@@ -705,7 +599,7 @@ and thus swap the positions of the two elements. For instance in the
 following sentences, either <em>kirahvit</em> “giraffes” or <em>eläimiä</em>
 “animals” could be the subject and the other the predicative.</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kirahvit ovat mielenkiintoisimpia eläimiä.</em> “Giraffes are the most interesting animals.”</li>
@@ -811,7 +705,7 @@ should be noted that the conjunction <em>että</em> can be a used instead of
 the conjunction <em>jotta</em>, and respectively, also <em>jotta</em> can
 (especially in spoken language) be used instead of <em>että</em>.</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>
@@ -858,7 +752,7 @@ complements can be modified, but all the same they do not form
 clauses.  These participal complements do not have their own
 dependency type, but the type <a href=""><code>acl:partmod</code></a> is used.</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] <em>Poika vei kotitehtävän <b>opettajan tarkastettavaksi</b>.</em>
@@ -871,7 +765,7 @@ dependent is either an infinitive or a temporal form, then the correct
 dependency type is <a href=""><code>advcl</code></a>. These cases are usually easily
 recognized as <em>lauseenvastike</em> (“substitute of a clause”).</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Pyyhittyään pölyt hän imuroi.</em> “After dusting, he hoovered.”</li>
@@ -881,7 +775,7 @@ recognized as <em>lauseenvastike</em> (“substitute of a clause”).</p>
 <a href=""><code>acl:partmod</code></a>. These participal modifiers of a verb are often in
 the essive case.</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] <em>Huolestuneena seurasin tilanteen kehittymistä.</em> “Worried, I
@@ -897,7 +791,7 @@ structures, often ones involving nominal modifiers, the dependent is
 most naturally seen to modify different sentence elements depending on
 the word-order. The following classic example is ambiguous:</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-6">Examples</h4>
 
 <ul>
   <li>[fi] <em>Ammuin elefantin pyjamassani.</em> “I shot an elephant in my pajamas.”</li>
@@ -939,7 +833,7 @@ happens wearing the pajamas.</p>
 <p>In some structures, the most natural analysis may be word order
 dependent. Consider the following two examples.</p>
 
-<h4 id="examples-8">Examples</h4>
+<h4 id="examples-7">Examples</h4>
 
 <ul>
   <li>[fi] <em>Mies ruskeassa takissa tuli junaan.</em> “A man in a brown coat
@@ -1100,7 +994,7 @@ punct(auttaa-4, .-6)
 with numerals or adverbs, as their inflection behaves
 differently. Consider the following examples.</p>
 
-<h4 id="examples-9">Examples</h4>
+<h4 id="examples-8">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kieltäydyin kolme<b>sta</b> donitsi<b>sta</b>.</em> “I refused three doughnuts.”</li>
@@ -1144,7 +1038,7 @@ punct(joku-3, .-5)
 a noun (or pronoun) to act as a noun phrase. Typical cases of this
 include adjective-headed and participle-headed noun phrases.</p>
 
-<h4 id="examples-10">Examples</h4>
+<h4 id="examples-9">Examples</h4>
 
 <ul>
   <li>[fi] <em>Ikkunan takana oli <b>jotain sinistä</b>.</em> “There was something blue behind the window”.</li>
@@ -1187,7 +1081,7 @@ punct(suositeltiin-3, .-5)
 conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
 time. Consider the following examples.</p>
 
-<h4 id="examples-11">Examples</h4>
+<h4 id="examples-10">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
@@ -1459,7 +1353,7 @@ may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 <em>necessive structure</em>. Consider the following example.</p>
 
-<h4 id="examples-12">Examples</h4>
+<h4 id="examples-11">Examples</h4>
 
 <ul>
   <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
@@ -1470,7 +1364,7 @@ of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
 clausal subject. Instead, it is considered a necessive structure, as
 <em>on tärkeää</em> can be given a subject in the genitive form:</p>
 
-<h4 id="examples-13">Examples</h4>
+<h4 id="examples-12">Examples</h4>
 
 <ul>
   <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
@@ -1506,7 +1400,7 @@ are analyzed in a necessive manner.</p>
 <p>If it is not possible to insert a genitive subject into the clause,
 then the structure is considered a clausal subject case.</p>
 
-<h4 id="examples-14">Examples</h4>
+<h4 id="examples-13">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
@@ -1546,7 +1440,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-15">Examples</h4>
+<h4 id="examples-14">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -1557,7 +1451,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-16">Examples</h4>
+<h4 id="examples-15">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -1597,7 +1491,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-17">Examples</h4>
+<h4 id="examples-16">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -1673,7 +1567,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-18">Examples</h4>
+<h4 id="examples-17">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -1688,7 +1582,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-19">Examples</h4>
+<h4 id="examples-18">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
