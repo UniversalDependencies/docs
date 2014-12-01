@@ -511,6 +511,115 @@ resolved on a case-by-case basis.)</p>
   <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=1062">http://scripta.kotus.fi/visk/sisallys.php?p=1062</a> (in Finnish)</li>
 </ul>
 
+<h2 id="verbal-dependents-clauses-non-clauses-complements-and-modifiers">Verbal dependents: Clauses, non-clauses, complements and modifiers</h2>
+<!-- this section originally from TDT guidelines section 5.4 -->
+
+<p>One particularly challenging task in annotating in the UD Finnish
+scheme is selecting the correct dependency type for dependents that
+are verbal. Verbal dependents include different kinds of subordinate
+clauses as well as infinitive and participal complements and
+modifiers. A simplified description of the decision procedure for
+verbal dependents is given in Table 1, and the full details are given
+below.</p>
+
+<p><strong>TABLE 1 OMITTED</strong></p>
+
+<p>Some basic cases are relatively easy to decide. If the dependent is a
+regular subordinate clause, the choices are clear. For relative
+clauses the type to be used is <a href=""><code>acl:relcl</code></a> and as indirect
+questions are clausal complements, the correct type for them is
+<a href=""><code>ccomp</code></a>.</p>
+
+<p>If the subordinate clause is a conjunction clause, it can be either a
+complement or a modifier. In the majority of cases, conjunction
+clauses starting with the conjunction <em>että</em> are complements and
+clauses starting with any other conjunction are modifiers. However, it
+should be noted that the conjunction <em>että</em> can be a used instead of
+the conjunction <em>jotta</em>, and respectively, also <em>jotta</em> can
+(especially in spoken language) be used instead of <em>että</em>.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Minun täytyy nyt mennä, että en myöhästy.</em> / <em>~jotta en
+myöhästy.</em> “I have to go now so that I won’t be late.”</li>
+  <li>[fi] <em>Hän sanoi, jotta tulee vasta illalla.</em> / <em>~että tulee vasta
+illalla.</em> “He said that I will only come in the evening.”</li>
+</ul>
+
+<p>In these cases, a clause starting with <em>että</em> is a modifier, and a
+clause starting with <em>jotta</em> is a complement. Complement conjunction
+clauses are marked with <a href=""><code>ccomp</code></a> and modifier ones with
+<a href=""><code>advcl</code></a>.</p>
+
+<p>If the dependent is not a subordinate clause, the next deciding factor
+is the part of speech of the governor. If the governor is a noun, the
+dependent can be an infinitive modifier (<a href=""><code>acl:infmod</code></a>) or a
+participle modifier (<a href=""><code>acl:partmod</code></a>).</p>
+
+<p>If, in turn, the governor is a verb, then the dependent can be either
+a complement or a modifier. A complement can be either clausal or
+non-clausal. With clausal complements, there are three alternative
+dependency types available: <a href=""><code>xcomp</code></a>, <a href=""><code>ccomp</code></a>, and
+<a href=""><code>ccomp:nf</code></a>.</p>
+
+<p>If the subject of the dependent is shared with the governor (subject
+control), the correct type to use is <a href=""><code>xcomp</code></a>. If not, the decision
+is made by the morphology of the dependent. If the form of the verb is
+nonfinite (an infinitive or a participle), the correct type is
+<a href=""><code>ccomp:nf</code></a>.</p>
+
+<p>If, in turn, the verb is in a finite form, the correct type is
+<a href=""><code>ccomp</code></a>. (For instance, the verb form <em>juoksevan</em> can, in addition
+to a participle, be a finite form, as in <em>näin miehen juoksevan</em>. See
+for instance ISK
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=938">§938</a>,
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=1452">§1452</a> about
+referative and temporal structures, which are considered finite.)</p>
+
+<p>If the dependent is a non-clausal complement, it is a participal
+complement that resembles adjectival complements. Some of these
+complements can be modified, but all the same they do not form
+clauses. These participal complements do not have their own dependency
+type, and the type <a href=""><code>acl:partmod</code></a> is used to annotate them.</p>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Poika vei kotitehtävän <b>opettajan tarkastettavaksi</b>.</em>
+“The boy took the homework to be inspected by the teacher.”</li>
+</ul>
+
+<p>If the dependent is not a complement but a modifier, again the
+morphology of the dependent decides the dependency type. If the
+dependent is either an infinitive or a temporal form, then the correct
+dependency type is <a href=""><code>advcl</code></a>. These cases are usually easily
+recognized as <em>lauseenvastike</em> (“substitute of a clause”).</p>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Pyyhittyään pölyt hän imuroi.</em> “After dusting, he hoovered.”</li>
+</ul>
+
+<p>If the dependent is a participle, the correct type is
+<a href=""><code>acl:partmod</code></a>. These participal modifiers of a verb are often in
+the essive case.</p>
+
+<h4 id="examples-7">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Huolestuneena seurasin tilanteen kehittymistä.</em> “Worried, I
+followed the development of the situation.”</li>
+</ul>
+
+<h4 id="references-3">References</h4>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=938">http://scripta.kotus.fi/visk/sisallys.php?p=938</a> (in Finnish)</li>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=1452">http://scripta.kotus.fi/visk/sisallys.php?p=1452</a> (in Finnish)</li>
+</ul>
+
 <h2 id="comparatives-and-superlatives">Comparatives and superlatives</h2>
 <!-- this section originally from TDT guidelines section 5.9 -->
 
@@ -670,7 +779,7 @@ modifier can be turned into a copular clause in the following
 fashion, then the genitive modifier should modify the superlative or
 ordinal number.</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-8">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kokki on Suomen paras</em> “The cook is the best in Finland”</li>
@@ -679,7 +788,7 @@ ordinal number.</p>
 
 <p>are perfectly valid, but</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-9">Examples</h4>
 
 <ul>
   <li>[fi] ?<em>Vihollinen on rusakon pahin</em> ?”The enemy is the worst of
