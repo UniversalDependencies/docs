@@ -205,6 +205,12 @@ mark(thought, than)
 ~~~
 
 ~~~ sdparse
+fiksumpi kuin luulit
+advcl(fiksumpi, luulit)
+mark(luulit, kuin)
+~~~
+
+~~~ sdparse
 a smarter boy than you thought
 amod(boy, smarter)
 advcl(smarter, thought)
