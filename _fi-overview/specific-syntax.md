@@ -107,9 +107,9 @@ opens*, sometimes termed *inchoative*.).
 
 #### References
 
-* http://scripta.kotus.fi/visk/sisallys.php?p=910 (in Finnish)
-* http://scripta.kotus.fi/visk/sisallys.php?p=972 (in Finnish)
-* http://scripta.kotus.fi/visk/sisallys.php?p=336 (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=910> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=972> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=336> (in Finnish)
 
 ## Copulas
 <!-- this section originally from TDT guidelines section 5.2 -->
