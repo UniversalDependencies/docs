@@ -356,42 +356,24 @@ number of types in the Finnish SD scheme 53.</p>
 from the original scheme. First, some dependency types from the
 original scheme have been removed, as the corresponding phenomenon
 does not occur in Finnish. Types omitted for this reason include
-<a href=""><code>expl</code></a> (expletive there), <a href=""><code>csubjpass</code></a> (clausal passive
-subject), <a href=""><code>nsubjpass</code></a> (nominal passive subject), <a href=""><code>agent</code></a>,
-<a href=""><code>possessive</code></a> (the possessive ‘s) and <a href=""><code>iobj</code></a> (indirect
-object). Finnish existential clauses do not contain an expletive
-there, nor do passive clauses have a subject. What in English is
-considered the passive subject is the direct object in Finnish, and
-thus the corresponding type, <a href=""><code>dobj</code></a> is used instead, or in the
-case of a clause acting as the direct object, it is marked as a
-clausal complement (<a href=""><code>ccomp</code></a>). Similarly, there are no agents in
-Finnish passive clauses, and constructions resembling the English
-agent can be analyzed according to their syntactic structure rather
-than semantically as agents. This makes the type <a href=""><code>agent</code></a>
-unnecessary. Also the possessive ‘s does not occur in Finnish, and
-thus the dependency type <a href=""><code>possessive</code></a> is not needed. Finally,
-indirect objects do not occur in Finnish, as regardless of word order,
-the corresponding argument is expressed by a nominal modifier.</p>
-
-<p>Second, adpositional phrases are handled differently from the original
-SD scheme, so as to analyze them similarly to nominal modifiers
-without a pre- or postposition present. Thus, the original SD types
-<a href=""><code>prep</code></a> and <a href=""><code>pobj</code></a> are not used.  Third, the type <a href=""><code>ref</code></a>
-(<em>referent</em>) is not included in the current TDT annotation. When used,
-it causes the structures to not be trees, meaning that it would be
-part of an additional layer of annotation.</p>
-
-<p>Fourth, three dependency types are considered semantic in nature, and
-thus not included in the first layer of annotation in TDT. These types
-include <a href=""><code>purpcl</code></a> (purpose clause), <a href=""><code>tmod</code></a> (temporal modifier)
-and <a href=""><code>measure</code></a>. Instead of using these semantic types, the
-dependency types appropriate for the syntactic structure of each
-phenomenon are used in TDT. Finally, no distinction between
-apposition-like abbreviations (<a href=""><code>abbrev</code></a>) (such as <em>United States
-of America (USA)</em>) and appositions (<a href=""><code>appos</code></a>) is made, meaning both
-dependency types have been merged under the appos type, and instead of
-marking predicatives in some situations as attributives (<a href=""><code>attr</code></a>),
-they are always analyzed as predicatives.</p>
+<a href="u-dep/expl"><code>expl</code></a> (expletive there), <a href="u-dep/csubjpass"><code>csubjpass</code></a>
+(clausal passive subject), <a href="u-dep/nsubjpass"><code>nsubjpass</code></a> (nominal
+passive subject), and <a href="u-dep/iobj"><code>iobj</code></a> (indirect object).  <!--
+not UD: "[`agent`](), [`possessive`]() (the possessive 's)" -->
+Finnish existential clauses do not contain an expletive there, nor do
+passive clauses have a subject. What in English is considered the
+passive subject is the direct object in Finnish, and thus the
+corresponding type, <a href=""><code>dobj</code></a> is used instead, or in the case of a
+clause acting as the direct object, it is marked as a clausal
+complement (<a href=""><code>ccomp</code></a>). Finally, indirect objects do not occur in
+Finnish, as regardless of word order, the corresponding argument is
+expressed by a nominal modifier.
+<!-- not UD: "Similarly, there are no agents in Finnish passive
+clauses, and constructions resembling the English agent can be
+analyzed according to their syntactic structure rather than
+semantically as agents. This makes the type [`agent`]()
+unnecessary. Also the possessive 's does not occur in Finnish, and
+thus the dependency type [`possessive`]() is not needed. --></p>
 
 <p><strong>FIGURE 1 OMITTED</strong></p>
 
