@@ -144,6 +144,266 @@ opens</em>, sometimes termed <em>inchoative</em>.).</p>
   <li>http://scripta.kotus.fi/visk/sisallys.php?p=336 (in Finnish)</li>
 </ul>
 
+<h2 id="copulas">Copulas</h2>
+<!-- this section originally from TDT guidelines section 5.2 -->
+
+<p>This section discusses first defining copular verbs and predicatives,
+then copulas in combination with auxiliaries, and finally the
+distinction between the subject and the predicative in copular
+clauses.</p>
+
+<h3 id="what-can-be-a-predicative">What can be a predicative?</h3>
+<!-- this section originally from TDT guidelines section 5.2.1 -->
+
+<p>In the UD scheme, the head of a copular clause is the predicative, not
+the verb (copula), unlike in other clauses. The Finnish language only
+has one copular verb, <em>olla</em> “to be”
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">ISK §891</a>, and in
+order to avoid marking other verbs as copular and to prevent copular
+clauses from having multiple head words, rules are needed to define
+what is accepted as a predicative.</p>
+
+<p>The basic alternatives for predicatives are nominals (nouns,
+adjectives, pronouns and numerals). Words of these parts of speech are
+required to be in <em>nominative</em>, <em>partitive</em> or <em>genitive</em> case to be
+accepted as predicatives.</p>
+
+<!-- fname:pred_nom.pdf -->
+<pre><code>Varpunen on pieni lintu . \n Sparrow is small bird(nom.) .
+nsubj:cop(lintu-4, Varpunen-1)
+cop(lintu-4, on-2)
+amod(lintu-4, pieni-3)
+punct(lintu-4, .-5)
+</code></pre>
+
+<!-- fname:pred_part.pdf -->
+<pre><code class="language-sdparse">Maali oli valkoista . \n Paint was white(part.) .
+nsubj:cop(valkoista-3, Maali-1)
+cop(valkoista-3, oli-2)
+punct(valkoista-3, .-4)
+</code></pre>
+
+<!-- fname:pred_gen.pdf -->
+<pre><code class="language-sdparse">Tämä kirja on minun . \n This book is mine(gen.) .
+det(kirja-2, Tämä-1)
+nsubj:cop(minun-4, kirja-2)
+cop(minun-4, on-3)
+punct(minun-4, .-5)
+</code></pre>
+
+<p>Nominals in any other case are not marked as predicatives, even if
+they are associated with the verb <em>olla</em>. They, similarly to
+adpositional phrases, are marked as <em>nominal modifiers</em> (<a href=""><code>nmod</code></a>),
+and the verb is marked as the head of the clause, even if it is <em>olla</em>
+“to be”.</p>
+
+<!-- fname:nonpred_nommod.pdf -->
+<pre><code class="language-sdparse">Lapset olivat pihalla . \n Children were on_yard .
+nsubj(olivat-2, Lapset-1)
+nmod(olivat-2, pihalla-3)
+punct(olivat-2, .-4)
+</code></pre>
+
+<!-- fname:nonpred_adpos.pdf -->
+<pre><code class="language-sdparse">Lapset olivat talon takana . \n Children were behind house .
+nsubj(olivat-2, Lapset-1)
+nmod(olivat-2, talon-3)
+case(talon-3, takana-4)
+punct(olivat-2, .-5)
+</code></pre>
+
+<p>This restriction is to prevent a clause from having two predicatives
+and hence two heads, which would be the case in a sentence such as the
+following:</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Paketti on Oulusta ystävältäni.</em> “The package is from Oulu
+from my friend.”</li>
+</ul>
+
+<p>Here both <em>Oulusta</em> “from Oulu” and <em>ystävältäni</em> “from my friend”
+could be interpreted as predicatives, resulting in a clause with two
+heads, or alternatively, a decision between two equally likely
+head-candidates. Therefore, only nominative, genitive and partitive
+are allowed as cases for predicatives.</p>
+
+<p>Note that cases not allowed for predicatives include the essive case;
+this is to avoid marking verbs other than <em>olla</em> as copulas.</p>
+
+<!-- fname:nonpred_ess1.pdf -->
+<pre><code class="language-sdparse">Mies oli portsarina baarissa . \n Man was doorman(essive) in_bar .
+nsubj(oli-2, Mies-1)
+nmod(oli-2, portsarina-3)
+nmod(oli-2, baarissa-4)
+punct(oli-2, .-5)
+</code></pre>
+
+<!-- fname:nonpred_ess2.pdf -->
+<pre><code class="language-sdparse">Mies toimi portsarina baarissa . \n Mand worked doorman(essive) in_bar .
+nsubj(toimi-2, Mies-1)
+nmod(toimi-2, portsarina-3)
+nmod(toimi-2, baarissa-4)
+punct(toimi-2, .-5)
+</code></pre>
+
+<p>In addition to nominals, also adverbs can act as predicatives, given
+that they do not express location or time. Note that with adverbs,
+there is no restriction with regard to case, only that they are not
+locational or temporal. As a result, adverbs such as <em>täällä</em> “here”
+or <em>huomenna</em> “tomorrow” can not act as predicatives, but others, such
+as <em>naimisissa</em> “married” (inessive adverb) and <em>raskaana</em> “pregnant”
+(essive adverb) can, regardless of their case.</p>
+
+<!--
+    TODO: Neither Omorfi nor UD Finnish marks case on adverbs, check
+    the above for consistency.
+-->
+
+<p>In UD Finnish, also a full clause can act as a predicative, in
+addition to nominals and adverbs. In these cases, the head of the
+clause acting as the predicative becomes also the head of the main
+clause. (If the clause acting as the predicative is also a copular
+clause, this results in the predicative clause seemingly having two
+copula subjects and copulas. However, this is not how the analysis
+should be interpreted.)</p>
+
+<!-- fname:clause_predicative.pdf -->
+<pre><code class="language-sdparse">Tarkoitus on järjestää lopuksi juhlat . \n The_meaning is to_arrange in_the_end a_party .
+nsubj:cop(järjestää-3, Tarkoitus-1)
+cop(järjestää-3, on-2)
+dobj(järjestää-3, juhlat-5)
+advmod(järjestää-3, lopuksi-4)
+punct(järjestää-3, .-6)
+</code></pre>
+
+<h3 id="copulas-and-auxiliaries">Copulas and auxiliaries</h3>
+<!-- this section originally from TDT guidelines section 5.2.2 -->
+
+<p><strong>NOTE/TODO: the following description copied from the TDT manual
+conflicts with the UD specification. This should be revised or
+rephrased as a diff.</strong></p>
+
+<p>In the Finnish-specific version of the UD scheme, copular verbs and
+auxiliaries take no dependents of their own, with one exception. An
+auxiliary of a copular verb is attached to the copula, and not the
+main predicative as is the usual case.  Note that this is the case
+even if the resulting analysis becomes non-projective.</p>
+
+<!-- fname:copaux.pdf -->
+<pre><code class="language-sdparse">Hänkin on joskus ollut nuori . \n He_too has some_time been young .
+nsubj:cop(nuori-5, Hänkin-1)
+aux(ollut-4, on-2)
+advmod(nuori-5, joskus-3)
+cop(nuori-5, ollut-4)
+punct(nuori-5, .-6)
+</code></pre>
+
+<p>The same rule is applied to the auxiliary of another auxiliary as
+well. All other dependents are attached to the main verb or
+predicative. (Note that this includes negation as well, even though
+negation verbs are generally considered auxiliaries.)</p>
+
+<!-- fname:auxaux.pdf -->
+<pre><code class="language-sdparse">Minun ei ehkä olisi pitänyt sanoa niin . \n I not maybe have should said so .
+nsubj(sanoa-6, Minun-1)
+neg(sanoa-6, ei-2)
+advmod(sanoa-6, ehkä-3)
+aux(pitänyt-5, olisi-4)
+aux(sanoa-6, pitänyt-5)
+advmod(sanoa-6, niin-7)
+punct(sanoa-6, .-8)
+</code></pre>
+
+<h3 id="the-distinction-between-the-predicative-and-the-subject">The distinction between the predicative and the subject</h3>
+<!-- this section originally from TDT guidelines section 5.2.3 -->
+
+<p>Distinguishing the subject from the predicative in copular clauses can
+be difficult, as it would often be possible to invert the word-order
+and thus swap the positions of the two elements. For instance in the
+following sentences, either <em>kirahvit</em> “giraffes” or <em>eläimiä</em>
+“animals” could be the subject and the other the predicative.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Kirahvit ovat mielenkiintoisimpia eläimiä.</em> “Giraffes are the most interesting animals.”</li>
+  <li>[fi] <em>Mielenkiintoisimpia eläimiä ovat kirahvit.</em> “The most interesting animals are the giraffes.”</li>
+</ul>
+
+<p>In UD Finnish, the main rule in annotating copular structures is that
+the leftmost element is the subject and the rightmost one the
+predicative. Hence, the above sentences would be annotated in the
+following manner:</p>
+
+<!-- fname:giraffes1.pdf -->
+<pre><code class="language-sdparse">Kirahvit ovat mielenkiintoisimpia eläimiä . \n Giraffes are the_most_interesting animals .
+nsubj:cop(eläimiä-4, Kirahvit-1)
+cop(eläimiä-4, ovat-2)
+amod(eläimiä-4, mielenkiintoisimpia-3)
+punct(eläimiä-4, .-5)
+</code></pre>
+
+<!-- fname:giraffes2.pdf -->
+<pre><code class="language-sdparse">Mielenkiintoisimpia eläimiä ovat kirahvit . \n The_most_interesting animals are giraffes .
+amod(eläimiä-2, Mielenkiintoisimpia-1)
+nsubj:cop(kirahvit-4, eläimiä-2)
+cop(kirahvit-4, ovat-3)
+punct(kirahvit-4, .-5)
+</code></pre>
+
+<p>Semantic considerations such as which concept is a subconcept of the
+other are not taken into account in the annotation. However, it is
+possible to mark the leftmost element the predicative in cases where
+the word order is clearly inverted.  This occurs for instance in
+(indirect) questions and sometimes relative clauses.  Note that
+especially in questions, several different word orders are possible.</p>
+
+<!-- fname:indirectquestion_cop1.pdf -->
+<pre><code class="language-sdparse">Millainen matka oli ? \n What_like trip was ?
+nsubj:cop(Millainen-1, matka-2)
+cop(Millainen-1, oli-3)
+punct(Millainen-1, ?-4)
+</code></pre>
+
+<!-- fname:indirectquestion_cop2.pdf -->
+<pre><code class="language-sdparse">Kysyin , oliko matka mukava . \n I_asked , whether_was trip nice .
+ccomp(Kysyin-1, mukava-5)
+punct(Kysyin-1, .-6)
+punct(mukava-5, ,-2)
+cop(mukava-5, oliko-3)
+nsubj:cop(mukava-5, matka-4)
+</code></pre>
+
+<!-- fname:relativeclause_cop.pdf -->
+<pre><code class="language-sdparse">yhdistys , jonka puheenjohtaja Matikainen on \n association , of_which chairman Matikainen is
+acl:relcl(yhdistys-1, puheenjohtaja-4)
+punct(puheenjohtaja-4, ,-2)
+rel(puheenjohtaja-4, jonka-3)
+nsubj:cop(puheenjohtaja-4, Matikainen-5)
+cop(puheenjohtaja-4, on-6)
+</code></pre>
+
+<p>Also, if the leftmost element of the copular clause is an adjective
+rather than a noun or pronoun, it is considered that the word order is
+inverted, and thus the adjective is marked as the predicative, not the
+subject.</p>
+
+<!-- fname:adjectivefirst_cop.pdf -->
+<pre><code class="language-sdparse">Kaunishan tämä talo on . \n Beautiful this house is .
+nsubj:cop(Kaunishan-1, talo-3)
+det(talo-3, tämä-2)
+cop(Kaunishan-1, on-4)
+punct(Kaunishan-1, .-5)
+</code></pre>
+
+<h4 id="references-1">References</h4>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">http://scripta.kotus.fi/visk/sisallys.php?p=891</a> (in Finnish)</li>
+</ul>
+
 <h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
 <!-- this section originally from TDT guidelines section 5.3 -->
 
@@ -234,7 +494,7 @@ variations are ungrammatical. (Naturally, ungrammatical phenomena
 can and do occur in a corpus of actual language, but these cases are
 resolved on a case-by-case basis.)</p>
 
-<h4 id="examples-1">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] *<em>professori, Matti Tammisen mukaan</em> “according to professor, Matti Tamminen”</li>
@@ -243,7 +503,7 @@ resolved on a case-by-case basis.)</p>
 (unless a possessive reading is intended)</li>
 </ul>
 
-<h4 id="references-1">References</h4>
+<h4 id="references-2">References</h4>
 
 <ul>
   <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=567">http://scripta.kotus.fi/visk/sisallys.php?p=567</a> (in Finnish)</li>
@@ -410,7 +670,7 @@ modifier can be turned into a copular clause in the following
 fashion, then the genitive modifier should modify the superlative or
 ordinal number.</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kokki on Suomen paras</em> “The cook is the best in Finland”</li>
@@ -419,7 +679,7 @@ ordinal number.</p>
 
 <p>are perfectly valid, but</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] ?<em>Vihollinen on rusakon pahin</em> ?”The enemy is the worst of
