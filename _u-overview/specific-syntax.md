@@ -205,6 +205,12 @@ mark(thought, than)
 ~~~
 
 ~~~ sdparse
+fiksumpi kuin luulit
+advcl(fiksumpi, luulit)
+mark(luulit, kuin)
+~~~
+
+~~~ sdparse
 a smarter boy than you thought
 amod(boy, smarter)
 advcl(smarter, thought)
@@ -213,7 +219,7 @@ mark(thought, than)
 
 If the head is ellided, then the functional element can be promoted.
 
-~~~
+~~~ sdparse
 Wheat raises blood sugar even more than sugar does .
 advcl(more, does)
 ~~~
