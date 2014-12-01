@@ -42,6 +42,184 @@ guidelines for syntactic annotation.</p>
 <p>(note: some additional documentation-related material is for the time
 found in <a href="extra.html">extra.html</a>)</p>
 
+<h2 id="unused-ud-dependency-relations">Unused UD dependency relations</h2>
+
+<ul>
+  <li><code>csubjpass</code></li>
+  <li><code>expl</code></li>
+  <li><code>iobj</code></li>
+  <li><code>nsubjpass</code></li>
+</ul>
+
+<hr />
+
+<h2 id="differences-to-tdt">Differences to TDT</h2>
+
+<p>UD Finnish annotation differs in a number of ways from the <a href="http://bionlp.utu.fi/fintreebank.html">Turku
+Dependency Treebank</a> annotation.
+This section documents these differences.</p>
+
+<p>(Please note: this part of the documentation is a work in progress.)</p>
+
+<h3 id="dependency-type-mapping">Dependency type mapping</h3>
+
+<p>The following table provides a mapping from TDT dependency type labels
+to (nearly) corresponding UD Finnish labels. (See also <a href="https://github.com/UniversalDependencies/docs/issues/64">issue
+#64</a>.)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>TDT</th>
+      <th>UD Finnish</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>acomp</code></td>
+      <td>xcomp:a</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>adpos</code></td>
+      <td>case</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>compar</code></td>
+      <td>?</td>
+      <td>Mapping pending</td>
+    </tr>
+    <tr>
+      <td><code>comparator</code></td>
+      <td>mark:comparator</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>complm</code></td>
+      <td>mark</td>
+      <td>Removed distinction</td>
+    </tr>
+    <tr>
+      <td><code>csubj-cop</code></td>
+      <td>csubj:cop</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>gobj</code></td>
+      <td>nmod:gobj</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>gsubj</code></td>
+      <td>nmod:gsubj</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>iccomp</code></td>
+      <td>ccomp:nf</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>infmod</code></td>
+      <td>acl:infmod</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>intj</code></td>
+      <td>discourse</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>nn</code></td>
+      <td>compound:nn</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>nommod</code></td>
+      <td>nmod</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>nommod-own</code></td>
+      <td>nmod:own</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>nsubj-cop</code></td>
+      <td>nsubj:cop</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>num</code></td>
+      <td>nummod</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>number</code></td>
+      <td>compound</td>
+      <td>Removed distinction</td>
+    </tr>
+    <tr>
+      <td><code>partmod</code></td>
+      <td>acl:partmod</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>poss</code></td>
+      <td>nmod:poss</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>preconj</code></td>
+      <td>cc:preconj</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>prt</code></td>
+      <td>compound:prt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>quantmod</code></td>
+      <td>advmod:q</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>rcmod</code></td>
+      <td>acl:relcl</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>rel</code></td>
+      <td>(multiple)</td>
+      <td>See below</td>
+    </tr>
+    <tr>
+      <td><code>voc</code></td>
+      <td>vocative</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The TDT dependency type <code>rel</code> is not mapped to any single UD type.
+Instead (… TODO document mapping using second layer)</p>
+
+<p>Additionally, the following dependency relations cannot be directly
+created by mapping existing TDT annotations and may thus not occur in
+the TDT-derived UD Finnish corpus:</p>
+
+<ul>
+  <li><code>discourse</code></li>
+  <li><code>dislocated</code></li>
+  <li><code>foreign</code></li>
+  <li><code>list</code></li>
+  <li><code>remnant</code></li>
+  <li><code>reparandum</code></li>
+</ul>
+
 
       </div>
 
