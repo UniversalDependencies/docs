@@ -12,6 +12,7 @@ specific constructions is a work in progress.
 ---
 
 ## Appositions and appellation modifiers
+<!-- this section originally from TDT guidelines section 5.3 -->
 
 The Finnish Grammar (see ISK
 [§1059](http://scripta.kotus.fi/visk/sisallys.php?p=1059),
@@ -98,9 +99,11 @@ variations are ungrammatical. (Naturally, ungrammatical phenomena
 can and do occur in a corpus of actual language, but these cases are
 resolved on a case-by-case basis.)
 
-- \*_professori, Matti Tammisen mukaan_ "according to professor, Matti Tamminen"
-- \*_romaanissa, Putkinotko_ "in the novel, Putkinotko"
-- \*_professorin Matti Tammisen mukaan_ "according to the professor's Matti Tamminen"
+#### Examples
+
+* [fi] \*_professori, Matti Tammisen mukaan_ "according to professor, Matti Tamminen"
+* [fi] \*_romaanissa, Putkinotko_ "in the novel, Putkinotko"
+* [fi] \*_professorin Matti Tammisen mukaan_ "according to the professor's Matti Tamminen"
   (unless a possessive reading is intended)
 
 #### References
@@ -110,6 +113,7 @@ resolved on a case-by-case basis.)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1062> (in Finnish)
 
 ## Comparatives and superlatives
+<!-- this section originally from TDT guidelines section 5.9 -->
 
 This section describes the annotation of comparative and superlative
 structures, which, in UD Finnish, are considered to include also
@@ -117,6 +121,7 @@ certain similar structures that do not contain a comparative or
 superlative wordform.
 
 ### Comparatives
+<!-- this section originally from TDT guidelines section 5.9.1 -->
 
 Structures with comparative adjectives and adverbs may be difficult
 to annotate: they are often elliptical, and it may be difficult to
@@ -208,6 +213,7 @@ dependent structure is a clause. (Comparative structures can also
 occasionally be full clauses.)
 
 ### Superlatives
+<!-- this section originally from TDT guidelines section 5.9.2 -->
 
 Superlatives are less problematic than comparatives but deserve some
 attention nevertheless. The basic case with superlatives is simple:
@@ -273,12 +279,16 @@ modifier can be turned into a copular clause in the following
 fashion, then the genitive modifier should modify the superlative or
 ordinal number.
 
-* _Kokki on Suomen paras_ "The cook is the best in Finland"
-* _Mestaruus on Virtasen kuudes_ "The championship is the sixth for Virtanen"
+#### Examples
+
+* [fi] _Kokki on Suomen paras_ "The cook is the best in Finland"
+* [fi] _Mestaruus on Virtasen kuudes_ "The championship is the sixth for Virtanen"
 
 are perfectly valid, but
 
-* ?_Vihollinen on rusakon pahin_ ?"The enemy is the worst of
+#### Examples
+
+* [fi] ?_Vihollinen on rusakon pahin_ ?"The enemy is the worst of
   the hare"
 
 is questionable at best. Thus, in _Suomen paras kokki_ and _Virtasen
