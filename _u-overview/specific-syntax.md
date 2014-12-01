@@ -219,7 +219,7 @@ mark(thought, than)
 
 If the head is ellided, then the functional element can be promoted.
 
-~~~
+~~~ sdparse
 Wheat raises blood sugar even more than sugar does .
 advcl(more, does)
 ~~~
