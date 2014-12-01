@@ -13,7 +13,8 @@ guidelines.
 
 ---
 
-## 2.44 rel (relativizer)
+## `rel` (relativizer)
+<!-- this section originally from TDT guidelines section 2.44 -->
 
 (The following section was lifted from the TDT documentation for
 `rel`, which is removed in UD Finnish. See
@@ -63,7 +64,8 @@ dobj(pyysi-7, apuamme-8)
 punct(pyysi-7, .-9)
 ~~~
 
-## 2.47 The null token
+## The null token
+<!-- this section originally from TDT guidelines section 2.47 -->
 
 The *null token* is not a dependency type, but an extra token that is
 added into the sentence to represent a missing token. A null token is
@@ -107,7 +109,8 @@ punct(tilasi-2, .-8)
 
 ---
 
-# 3 Conjunct propagation and additional dependencies
+# Conjunct propagation and additional dependencies
+<!-- this section originally from TDT guidelines section 3 -->
 
 This section describes four phenomena that are annotated in the second
 annotation layer of TDT, termed the *conjunct propagation and
@@ -117,7 +120,8 @@ of relativizers* and *gapping*. The annotation of this layer is added
 on top of the first layer, meaning that the analyses are no longer
 trees.
 
-## 3.1 Conjunct propagation
+## Conjunct propagation
+<!-- this section originally from TDT guidelines section 3.1 -->
 
 The SD scheme analyzes coordinations so that the first coordinated
 element is the head of the whole coordination.
@@ -176,7 +180,8 @@ partmod(nuotio-4, savuttava-3)
 dobj(sammutettiin-8, nuotio-4)
 ~~~
 
-## 3.2 External subjects (xsubj)
+## External subjects (xsubj)
+<!-- this section originally from TDT guidelines section 3.2 -->
 
 Open clausal complements, as discussed in Section 2.46, share their
 subject with another verb. The fact that the subject of the main verb
@@ -225,7 +230,8 @@ nsubj(ryhtyi-4, Matti-1)
 xsubj(kirjoittamaan-5, Matti-1)
 ~~~
 
-## 3.3 Syntactic functions of relativizers
+## Syntactic functions of relativizers
+<!-- this section originally from TDT guidelines section 3.3 -->
 
 Relativizers, that is, the phrases containing the relative word are
 marked as such in the base layer of annotation, using the dependency
@@ -287,7 +293,8 @@ nsubj(ryhtyi-4, joka-3)
 xsubj(laulamaan-5, joka-3)
 ~~~
 
-## 3.4 Gapping (ellipsis of a head word)
+## Gapping (ellipsis of a head word)
+<!-- this section originally from TDT guidelines section 3.4 -->
 
 As described in Section 2.47, gapping in TDT is marked by inserting a
 so called null token to represent the omitted token. In addition, the
@@ -304,7 +311,8 @@ explicitly marked as *conjunct propagation* (see Section 3.1).
 
 **FIGURE MISSING**
 
-# 4 Differences between the Finnish and English versions of the SD scheme
+# Differences between the Finnish and English versions of the SD scheme
+<!-- this section originally from TDT guidelines section 4 -->
 
 The original SD scheme by de Marneffe and Manning includes in total 55
 dependency types arranged in a hierarchy; excluding six intermediate
@@ -323,7 +331,8 @@ not used in TDT: [`arg`]() (argument), [`comp`]() (complement),
 [`subj`]() (subject) and [`mod`]() (modifier). This makes the overall
 number of types in the Finnish SD scheme 53.
 
-## 4.1 Dependency types not used in Finnish-specific SD
+## Dependency types not used in Finnish-specific SD
+<!-- this section originally from TDT guidelines section 4.1 -->
 
 There are several reasons why the Finnish-specific SD scheme differs
 from the original scheme. First, some dependency types from the
@@ -370,7 +379,8 @@ they are always analyzed as predicatives.
 
 **FIGURE 2 OMITTED**
 
-## 4.2 New dependency types in Finnish-specific SD
+## New dependency types in Finnish-specific SD
+<!-- this section originally from TDT guidelines section 4.2 -->
 
 In addition to types not used in the Finnish-specific SD scheme, there
 are also dependency types that are new to this scheme version. First,
@@ -416,7 +426,8 @@ such as blog text.  The type [`ellipsis`]() is part of the *conjunct
 propagation and additional dependencies* layer and used to mark the
 elided word in gapping.
 
-## 4.3 Hierarchy changes
+## Hierarchy changes
+<!-- this section originally from TDT guidelines section 4.3 -->
 
 Finally, there are two minor changes made in the SD hierarchy. First,
 as prepositional objects are no longer needed in the Finnish-specific
@@ -434,12 +445,14 @@ noted, however, that in TDT there are few cases where it is considered
 that for instance a noun phrase has been negated or where *ei*
 functions as the counterpart of *kyllä* "yes", and is thus an adverb.
 
-# 5 Annotating phenomena of Finnish
+# Annotating phenomena of Finnish
+<!-- this section originally from TDT guidelines section 5 -->
 
 This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.
 
-## 5.1 Subjects and objects
+## Subjects and objects
+<!-- this section originally from TDT guidelines section 5.1 -->
 
 Both subjects and objects are straightforward to recognize in their
 prototypical cases, but both phenomena also have some difficult cases,
@@ -529,7 +542,8 @@ passives generally correspond to intransitive uses of a verb, such as
 
 **FIGURE MISSING**
 
-## 5.2 Copulas
+## Copulas
+<!-- this section originally from TDT guidelines section 5.2 -->
 
 The copular clause deserves some attention, in part due to the special
 treatment given to it in the SD scheme. This section discusses first
@@ -537,7 +551,8 @@ defining copular verbs and predicatives, then copulas in combination
 with auxiliaries, and finally the distinction between the subject and
 the predicative in copular clauses.
 
-### 5.2.1 What can be a predicative?
+### What can be a predicative?
+<!-- this section originally from TDT guidelines section 5.2.1 -->
 
 In the SD scheme, the head of a copular clause is the predicative, not
 the verb (copula), unlike in other clauses. The Finnish language only
@@ -667,7 +682,8 @@ advmod(järjestää-3, lopuksi-4)
 punct(järjestää-3, .-6)
 ~~~
 
-### 5.2.2 Copulas and auxiliaries
+### Copulas and auxiliaries
+<!-- this section originally from TDT guidelines section 5.2.2 -->
 
 **NOTE: the following description copied from the TDT manual conflicts
 with the UD specification. This should be revised or rephrased as a
@@ -706,7 +722,8 @@ advmod(sanoa-6, niin-7)
 punct(sanoa-6, .-8)
 ~~~
 
-### 5.2.3 The distinction between the predicative and the subject
+### The distinction between the predicative and the subject
+<!-- this section originally from TDT guidelines section 5.2.3 -->
 
 Distinguishing the subject from the predicative in copular clauses can
 be difficult, as it would often be possible to invert the word-order
@@ -791,12 +808,14 @@ cop(Kaunishan-1, on-4)
 punct(Kaunishan-1, .-5)
 ~~~
 
-## 5.3 Appositions and appellation modifiers
+## Appositions and appellation modifiers
+<!-- this section originally from TDT guidelines section 5.3 -->
 
 (The content of this section of the guidelines is found
 [here](specific-syntax.html).)
 
-## 5.4 Verbal dependents: Clauses, non-clauses, complements and modifiers
+## Verbal dependents: Clauses, non-clauses, complements and modifiers
+<!-- this section originally from TDT guidelines section 5.4 -->
 
 One particularly difficult task in annotating in the SD scheme is
 selecting the correct dependency type for dependents that are
@@ -886,7 +905,8 @@ essive case.
 * [fi] *Huolestuneena seurasin tilanteen kehittymistä.* "Worried, I
   followed the development of the situation."
 
-## 5.5 Attachment issues: word-order-dependent structures and ambiguity
+## Attachment issues: word-order-dependent structures and ambiguity
+<!-- this section originally from TDT guidelines section 5.5 -->
 
 Occasionally determining the correct head word for a dependency may be
 difficult. Some structures are inherently ambiguous, and with some
@@ -969,7 +989,8 @@ amod(takissa-5, ruskeassa-4)
 punct(tuli-2, .-6)
 ~~~
 
-## 5.6 Relative clauses
+## Relative clauses
+<!-- this section originally from TDT guidelines section 5.6 -->
 
 Relative clauses most often modify noun phrases, but it is also
 possible for them to modify a whole clause. From a prescriptive
@@ -1047,7 +1068,8 @@ advmod(seisoo-7, tuolla-8)
 punct(seisoo-7, .-9)
 ~~~
 
-## 5.7 Units, measures and amounts
+## Units, measures and amounts
+<!-- this section originally from TDT guidelines section 5.7 -->
 
 There are several ways to express amounts. The most simple case is
 expressing amount with numbers: *three apples*, *sixteen litres*.
@@ -1140,7 +1162,8 @@ nommod(joku-3, pojista-4)
 punct(joku-3, .-5)
 ~~~
 
-## 5.8 Noun phrases without nouns
+## Noun phrases without nouns
+<!-- this section originally from TDT guidelines section 5.8 -->
 
 In UD Finnish, it is possible for a phrase with a head word other than
 a noun (or pronoun) to act as a noun phrase. Typical cases of this
@@ -1176,12 +1199,14 @@ dobj(suositeltiin-3, terapiaa-4)
 punct(suositeltiin-3, .-5)
 ~~~
 
-## 5.9 Comparatives and superlatives
+## Comparatives and superlatives
+<!-- this section originally from TDT guidelines section 5.9 -->
 
 (The content of this section of the guidelines is found
 [here](specific-syntax.html).)
 
-## 5.10 Subordinate clauses and expressions of time
+## Subordinate clauses and expressions of time
+<!-- this section originally from TDT guidelines section 5.10 -->
 
 Many subordinate clauses, especially ones starting with the
 conjunction *kun* "when", come with an adverbial, usually expressing
@@ -1242,7 +1267,8 @@ poss(selästä-9, hevosen-8)
 punct(säikäytti-2, .-10)
 ~~~
 
-## 5.11 Subjects and objects of a noun
+## Subjects and objects of a noun
+<!-- this section originally from TDT guidelines section 5.11 -->
 
 In Finnish, it is possible for certain nouns which either are direct
 derivations of a verb or otherwise have a verb counterpart
@@ -1281,7 +1307,8 @@ maljakon putoaminen \n vase(gen.) falling(N+deriv.)
 gsubj(putoaminen-2, maljakon-1)
 ~~~
 
-## 5.12 Numerical expressions
+## Numerical expressions
+<!-- this section originally from TDT guidelines section 5.12 -->
 
 The dependency type [`number`]() in the SD scheme is reserved for
 numerical expressions. Generally, with multi-token numerical
@@ -1397,7 +1424,8 @@ number(kg-2, 2-1)
 number(315-3, kg-2)
 ~~~
 
-## 5.13 Participal modifiers and predicatives
+## Participal modifiers and predicatives
+<!-- this section originally from TDT guidelines section 5.13 -->
 
 In connection with participal modifiers, predicatives are given a
 slightly different treatment than in other contexts. In a regular
@@ -1460,7 +1488,8 @@ cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
 ~~~
 
-## 5.14 Necessive structures and clausal subjects
+## Necessive structures and clausal subjects
+<!-- this section originally from TDT guidelines section 5.14 -->
 
 A clause can act as a subject to another clause (as well as an object,
 but these are marked as clausal complements, [`ccomp`]()), in which
@@ -1544,7 +1573,8 @@ advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
 ~~~
 
-## 5.15 Passive structures and zeroth person constructions
+## Passive structures and zeroth person constructions
+<!-- this section originally from TDT guidelines section 5.15 -->
 
 The Finnish language has two notable cases of subjectless expressions:
 the passive voice and the zeroth person. In most cases, distinguishing
@@ -1618,7 +1648,8 @@ However, as can be seen from the example, no subject is marked, but
 rather an object. It is still understood that *means* are the object
 of *using* in this example.
 
-## 5.16 Morphological distinctions
+## Morphological distinctions
+<!-- this section originally from TDT guidelines section 5.16 -->
 
 Distinctions between certain dependency types, most commonly between
 participial modifiers ([`partmod`]()) and adjectival modifiers
@@ -1629,7 +1660,8 @@ describes heuristics used to make these two most common
 morphology-based distinctions. Some of these heuristics resemble those
 used in the Penn Treebank [?].
 
-### 5.16.1 Participles versus adjectives
+### Participles versus adjectives
+<!-- this section originally from TDT guidelines section 5.16.1 -->
 
 The distinction between verb participles and adjectives is difficult
 in several languages, and Finnish is no exception. In UD Finnish, this
@@ -1713,7 +1745,8 @@ active forbidding of the swimming (the example is genuinely
 ambiguous), then it is assumed that it is a property of the swimming
 that it is forbidden.
 
-### 5.16.2 Adverbs versus nouns
+### Adverbs versus nouns
+<!-- this section originally from TDT guidelines section 5.16.2 -->
 
 Due to the fact that certain Finnish adverbs have a partial case
 inflection, it is sometimes difficult to decide whether a word is an
@@ -1788,7 +1821,8 @@ adverbs. The answer to the third question, however, is yes, and
 therefore the word *humalassa* is analyzed as an inflected form of the
 noun *humala*.
 
-## 5.17 Attaching punctuation
+## Attaching punctuation
+<!-- this section originally from TDT guidelines section 5.17 -->
 
 Dependencies signaling punctuation are labeled with the dependency
 type [`punct`](), and the main rule is that the dependency should be
