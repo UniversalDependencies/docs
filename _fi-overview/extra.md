@@ -344,8 +344,8 @@ number of types in the Finnish SD scheme 53.
 ## New dependency types in Finnish-specific SD
 <!-- this section originally from TDT guidelines section 4.2 -->
 
-There are also dependency types that are specific to the UD Finnish
-scheme.
+(Parts of the content of this section are now found
+[here](syntax.html#new-dependency-relations))
 
 <!-- not applicable in comparison to UD
 First, two new dependency types were needed to accommodate the similar
@@ -357,37 +357,20 @@ due to the fact that many Finnish verbs take inflected nominals as
 their arguments.
 -->
 
-The dependency types [`nmod:gsubj`]() and [`nmod:gobj`]() were added
-to accommodate the frequent constructions of nouns that take a
-subject- or object-like argument. The genitive subject and object take
-the form of a genitive modifier, and thus they are subtypes of
-[`nmod:poss`]().
-
-Under the [`subject`]() category, both the nominal and clausal subject
-types have received a new subtype, [`nsubj:cop`]() and
-[`csubj:cop`](), respectively, to be used for subjects of copular
-clauses. These two new types come in place of the passive subject
-types that were, as explained above, removed as unnecessary.
-
+<!-- 2nd layer only -->
 Also we have moved the existing [`xsubj`]() type from under the
 [`sdep`]() category to under the [`subject`]() category, and added a
 new subtype for [`xsubj`](), [`xsubj-cop`]().  The external subject
 types are part of the *conjunct propagation and additional
 dependencies* layer of the treebank.
 
-In the [`complement`]() category, we have introduced one new subtype
-for clausal complements ([`ccomp`]()): that of *nonfinite clausal
-complement*, [`ccomp:nf`](). This is due to the fact that clausal
-complements in Finnish often involve a nonfinite main verb.
-
-We have also added other new dependency types. The types [`compar`]()
-and [`mark:comparator`]() are to be used in structures involving
-comparisons of adjectives (and occasionally other parts-of-speech).
+<!-- new wrt SD but not UD -->
 The type [`vocative`]() is introduced to be able to analyze
 *vocatives*, and the type [`discourse`]() is for *interjections*. Both
 vocatives and interjections are fairly common in more informal genres,
 such as blog text.
 
+<!-- 2nd layer only -->
 The type [`ellipsis`]() is part of the *conjunct propagation and
 additional dependencies* layer and used to mark the elided word in
 gapping.

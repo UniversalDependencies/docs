@@ -34,6 +34,33 @@ complement ([`ccomp`]()). Finally, indirect objects do not occur in
 Finnish, as regardless of word order, the corresponding argument is
 expressed by a nominal modifier ([`nmod`]()).
 
+## New dependency relations
+<!-- parts of this section originally from TDT guidelines section 4.2 -->
+
+There are also dependency types that are specific to the UD Finnish
+scheme.
+
+The dependency types [`nmod:gsubj`]() and [`nmod:gobj`]() were added
+to accommodate the frequent constructions of nouns that take a
+subject- or object-like argument. The genitive subject and object take
+the form of a genitive modifier, and thus they are subtypes of
+[`nmod:poss`]().
+
+The nominal and clausal subject types have received a new subtype
+each, [`nsubj:cop`]() and [`csubj:cop`](), respectively, to be used
+for subjects of copular clauses. These two new types come in place of
+the passive subject types that are, as explained above, not applied in
+UD Finnish.
+
+We have introduced one new subtype for clausal complements
+([`ccomp`]()): *nonfinite clausal complement*, [`ccomp:nf`](). This is
+due to the fact that clausal complements in Finnish often involve a
+nonfinite main verb.
+
+The new types [`compar`]() and [`mark:comparator`]() are to be used in
+structures involving comparisons of adjectives (and occasionally other
+parts-of-speech).
+
 ---
 
 ## Differences to TDT
