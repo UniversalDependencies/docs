@@ -438,14 +438,15 @@ phenomena that require detailed decision rules.</p>
 <h2 id="subjects-and-objects">Subjects and objects</h2>
 <!-- this section originally from TDT guidelines section 5.1 -->
 
-<p>Both subjects and objects are straightforward to recognize in their
+<p>Finnish subjects and objects are straightforward to recognize in their
 prototypical cases, but both phenomena also have some difficult cases,
 which are discussed here.</p>
 
 <p>The subject is the primary complement of the verb, usually denoting
 the entity doing something. In addition to the <em>basic subject</em> (see
-[ISK §910]), also <em>existential subjects</em> (eksistentiaalisubjekti,
-e-subjekti) are considered subjects in UD Finnish.</p>
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=910">ISK §910</a>), also
+<em>existential subjects</em> (eksistentiaalisubjekti, e-subjekti) are
+considered subjects in UD Finnish.</p>
 
 <!-- fname:nsubj_existential.pdf -->
 <pre><code class="language-sdparse">Tien vieressä on talo . \n Road beside is house .
@@ -456,9 +457,8 @@ punct(on-3, .-5)
 </code></pre>
 
 <p>Possessive clauses (omistuslause) are considered a subtype of
-existential clauses, and analyzed similarly. As explained in Section
-2.31, the owner in possessive clauses is marked using the type
-<a href=""><code>nmod:own</code></a>.</p>
+existential clauses, and analyzed similarly. The owner in possessive
+clauses is marked using the type <a href=""><code>nmod:own</code></a>.</p>
 
 <!-- fname:nsubj_possessive.pdf -->
 <pre><code class="language-sdparse">Hänellä on oma asunto . \n At_him is own apartment .
@@ -468,9 +468,9 @@ amod(asunto-4, oma-3)
 punct(on-2, .-5)
 </code></pre>
 
-<p>Also the genitive subject (not to be confused with the genitive
-subject of a noun, discussed in Section 2.22) in for instance
-necessive structures (see Section 5.14) is annotated as an <a href=""><code>nsubj</code></a>.</p>
+<p>Also the genitive subject in for instance necessive structures (see
+Section 5.14) is annotated as <a href=""><code>nsubj</code></a>. (This is not to be confused
+with the genitive subject of a noun, <a href="">nmod:gsubj</a>)</p>
 
 <!-- fname:nsubj_necessive.pdf -->
 <pre><code class="language-sdparse">Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
@@ -481,15 +481,15 @@ nmod(mennä-4, kotiin-5)
 punct(pakko-3, .-6)
 </code></pre>
 
-<p>In TDT, subjects are allowed to be in the <em>nominative</em>, <em>genitive</em> and
-<em>partitive</em> cases, and in addition, also an <em>accusative</em> subject is
-possible (the accusative case only exists for certain pronouns). Two
-notable situations where a complement in the accusative form is
-analyzed as the subject are:</p>
+<p>In UD Finnish, subjects are allowed to be in the <em>nominative</em>,
+<em>genitive</em> and <em>partitive</em> <a href="Case">cases</a>, and in addition, also an
+<em>accusative</em> subject is possible (the accusative case only exists for
+certain pronouns). Two notable situations where a complement in the
+accusative form is analyzed as the subject are:</p>
 
 <ol>
   <li>
-    <p>Infinite clausal complements (<em>Sain hänet itkemään.</em> “I made him
+    <p>Nonfinite clausal complements (<em>Sain hänet itkemään.</em> “I made him
 cry.”)</p>
   </li>
   <li>
@@ -498,16 +498,18 @@ cry.”)</p>
 </ol>
 
 <p>The same cases are allowed for objects as for subjects: the
-nominative, the partitive, the genitive and the
-accusative. Complements in other cases are analyzed as <em>nominal
-modifiers</em> (<a href=""><code>nmod</code></a>), despite their complement status.</p>
+nominative, the partitive, the genitive and the accusative.
+Complements in other cases are analyzed as <em>nominal modifiers</em>
+(<a href=""><code>nmod</code></a>), despite their complement status.</p>
 
 <p><em>Object cased amount adverbials</em> (objektin sijainen määrän
-adverbiaali, OSMA [ISK, §972]), which, as the name implies, use the
-same cases as objects, are analyzed as nominal modifiers. However,
-certain verbs are considered such that they can take as their object
-an expression that would otherwise be considered an amount adverbial.
-Examples where an amount is considered the object are for instance:</p>
+adverbiaali, OSMA
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=972">ISK,§972</a>), which,
+as the name implies, use the same cases as objects, are analyzed as
+nominal modifiers. However, certain verbs are considered such that
+they can take as their object an expression that would otherwise be
+considered an amount adverbial. Examples where an amount is considered
+the object are for instance:</p>
 
 <h4 id="examples">Examples</h4>
 
@@ -522,13 +524,22 @@ in for instance English.</p>
 
 <p><strong>FIGURE MISSING</strong></p>
 
-<p>However, there are certain verbs, so called <em>derived passives</em> [ISK,
-§336], which may resemble passive verbforms in meaning, but which in
-fact take a subject, not an object. (In English, the Finnish derived
-passives generally correspond to intransitive uses of a verb, such as
-<em>the door opens</em>, sometimes termed <em>inchoative</em>.).</p>
+<p>However, there are certain verbs, so called <em>derived passives</em>
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=336">ISK, §336</a>, which
+may resemble passive verbforms in meaning, but which in fact take a
+subject, not an object. (In English, the Finnish derived passives
+generally correspond to intransitive uses of a verb, such as <em>the door
+opens</em>, sometimes termed <em>inchoative</em>.).</p>
 
 <p><strong>FIGURE MISSING</strong></p>
+
+<h4 id="references">References</h4>
+
+<ul>
+  <li>http://scripta.kotus.fi/visk/sisallys.php?p=910 (in Finnish)</li>
+  <li>http://scripta.kotus.fi/visk/sisallys.php?p=972 (in Finnish)</li>
+  <li>http://scripta.kotus.fi/visk/sisallys.php?p=336 (in Finnish)</li>
+</ul>
 
 <h2 id="copulas">Copulas</h2>
 <!-- this section originally from TDT guidelines section 5.2 -->
