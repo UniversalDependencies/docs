@@ -1495,6 +1495,86 @@ advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
 </code></pre>
 
+<h2 id="passive-structures-and-zeroth-person-constructions">Passive structures and zeroth person constructions</h2>
+<!-- this section originally from TDT guidelines section 5.15 -->
+
+<p>The Finnish language has two notable cases of subjectless expressions:
+the passive voice and the zeroth person. In most cases, distinguishing
+these two is rather simple, as the zeroth person uses the same verb
+forms as the third person, whereas there is a morphological passive
+form that is used in constructions considered passive. However, there
+are at least two particular phenomena that deserve special attention.
+First, the <em>on tehtävä</em> -structure is worth examining:</p>
+
+<h4 id="examples-18">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
+</ul>
+
+<p>The form <em>tehtävä</em> is morphologically a passive participle of the verb
+<em>tehdä</em> “to do”. Still, <em>on tehtävä</em> can take a subject, which could
+perhaps point towards to the subjectless version being zeroth person
+after all.</p>
+
+<h4 id="examples-19">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
+</ul>
+
+<p>In UD Finnish, we use the presence or absence of a subject as a cue to
+whether the structure is passive or not. If a subject is present, the
+structure is marked as an active construction, and if not, it is
+assumed to be passive.</p>
+
+<!-- fname:tehtava1.pdf -->
+<pre><code class="language-sdparse">Tämä työ on tehtävä tänään . \n This work has_to_be done today .
+det(työ-2, Tämä-1)
+dobj(tehtävä-4, työ-2)
+auxpass(tehtävä-4, on-3)
+advmod(tehtävä-4, tänään-5)
+punct(tehtävä-4, .-6)
+</code></pre>
+
+<!-- fname:tehtava2.pdf -->
+<pre><code class="language-sdparse">Matin on tehtävä työ tänään . \n Matti has_to do work today .
+nsubj(tehtävä-3, Matin-1)
+aux(tehtävä-3, on-2)
+dobj(tehtävä-3, työ-4)
+advmod(tehtävä-3, tänään-5)
+punct(tehtävä-3, .-6)
+</code></pre>
+
+<p>Second, the <em>on tehtävissä</em> structure deserves a mention. Similarly to
+<em>tehtävä</em>, <em>tehtävissä</em> is a passive verb participle - in fact, the
+difference between the two forms is only that <em>tehtävissä</em> is the
+plural inessive form of the base participle <em>tehtävä</em>. The annotation
+of on tehtävissä follows a strategy similar to the previous one. In
+general, it is assumed that the structure is passive.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>Unlike <em>on tehtävä</em>, <em>on tehtävissä</em> cannot take a genitive form
+subject:</p>
+
+<h4 id="examples-20">Examples</h4>
+
+<ul>
+  <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
+</ul>
+
+<p>However, in some cases it is possible to attach a possessive suffix to
+the participle and use a corresponding personal pronoun as a nominal
+modifier (this is a rare phenomenon and not seen with many
+verbs). This case is analyzed as an active structure.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>However, as can be seen from the example, no subject is marked, but
+rather an object. It is still understood that <em>means</em> are the object
+of <em>using</em> in this example.</p>
+
 
       </div>
 
