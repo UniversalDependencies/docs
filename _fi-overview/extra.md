@@ -403,6 +403,10 @@ phenomena that require detailed decision rules.
 ## Relative clauses
 <!-- this section originally from TDT guidelines section 5.6 -->
 
+(NOTE/TODO: the following section is originally from the TDT
+documentation and has not yet been fully updated for UD. Some of
+the guidelines here may not apply to UD Finnish.)
+
 Relative clauses most often modify noun phrases, but it is also
 possible for them to modify a whole clause. From a prescriptive
 perspective, the relativizer that should be used in relative clauses
@@ -414,6 +418,8 @@ is mixed, and not every joka clause actually refers to the word
 adjacent to it. In UD Finnish, the actual reference for the relative
 clause is chosen as the head of the [`acl:relcl`]() dependency
 wherever possible.
+
+(**TODO**: update example to remove `rel`)
 
 <!-- fname:relative_ungrammatical.pdf -->
 ~~~ sdparse
@@ -428,14 +434,15 @@ aux(pyytänyt-8, oli-7)
 punct(Annoin-1, .-9)
 ~~~
 
-As the analyses of the *base* layer of annotation are trees, the
-relativizer is always marked using the dependency type [`rel`](), and
-its secondary syntactic function is marked in the separate *conjunct
-propagation and additional dependencies* layer (see Section 3.3). In
-most cases the rel dependency and its corresponding second layer
-dependency are between the exact same tokens. However, because the
-governor of the [`rel`]() dependency is always the head of the
-relative clause, this does not hold for all cases.
+The relativizer is annotated with the standard syntactic role that it
+plays in the relative clause, such as [nsubj]() or [dobj]().  (Note
+that this treatment differs from the annotation of relative clauses in
+previously proposed related schemes, which used specific dependency
+types (e.g. `rel`) to mark the relativizer. In particular, in the TDT
+corpus the basic dependency layer used `rel` and the second annotation
+layer identified the actual syntactic role.)
+
+(**TODO**: update example to remove `rel`)
 
 <!-- fname:rel_projectivity1.pdf -->
 ~~~ sdparse
@@ -452,6 +459,8 @@ advmod(parkui-8, surkeasti-10)
 punct(parkui-8, .-11)
 ~~~
 
+(**TODO**: update example)
+
 <!-- fname:rel_projectivity2.pdf -->
 ~~~ sdparse
 Tuon lapsen hän sai itkemään . \n That child he made cry .
@@ -462,9 +471,11 @@ nsubj(itkemään-5, lapsen-2)
 punct(sai-4, .-6)
 ~~~
 
-Note also that the dependent of the [`rel`]() dependency is always the
+Note also that the dependent of this dependency is always the
 head of the relative phrase, which may or may not be the relative word
 itself.
+
+(**TODO**: update example to remove `rel`)
 
 <!-- fname:relative_jonka.pdf -->
 ~~~ sdparse
