@@ -1734,3 +1734,186 @@ noun *humala*.
 * Marcus et al. 1993 [Building a Large Annotated Corpus of English:
   The Penn Treebank](http://www.aclweb.org/anthology/J/J93/J93-2004.pdf)
   *Computational Linguistics* 19(2):313–330.
+
+## Attaching punctuation
+<!-- this section originally from TDT guidelines section 5.17 -->
+
+Dependencies signaling punctuation are labeled with the dependency
+type [`punct`](), and the main rule is that the dependency should be
+attached to that element which it delimits. Thus, sentence-delimiting
+punctuation, such as ".", "!" or "?" should be attached to the main
+verb (or predicative) of the sentence.
+
+<!-- fname:sentpunct.pdf -->
+~~~ sdparse
+Söin jäätelöä . \n I_ate ice-cream .
+dobj(Söin-1, jäätelöä-2)
+punct(Söin-1, .-3)
+~~~
+
+According to the same rule, the comma delimiting a subordinate clause
+should be attached to the head word of said clause.
+
+<!-- fname:subordpunct1.pdf -->
+~~~ sdparse
+Jos sataa , menen sisälle . \n If it_rains , I_go inside .
+mark(sataa-2, Jos-1)
+punct(sataa-2, ,-3)
+advcl(menen-4, sataa-2)
+advmod(menen-4, sisälle-5)
+punct(menen-4, .-6)
+~~~
+
+If there are several subordinate clauses within each other and the
+punctuation could delimit any of them, the shortest-spanning (closest)
+clause is selected.
+
+<!-- fname:subordpunct2.pdf -->
+~~~ sdparse
+Jos syöt sieniä , jotka ovat myrkyllisiä , kuolet . \n If you_eat mushrooms , that are poisonous , you_die .
+mark(syöt-2, Jos-1)
+dobj(syöt-2, sieniä-3)
+acl:relcl(sieniä-3, myrkyllisiä-7)
+punct(myrkyllisiä-7, ,-4)
+cop(myrkyllisiä-7, ovat-6)
+punct(myrkyllisiä-7, ,-8)
+advcl(kuolet-9, syöt-2)
+punct(kuolet-9, .-10)
+~~~
+
+In coordinations, the punctuation symbols (usually commas) are treated
+similarly to the coordinating conjunction and attached to the head of
+the coordination, which is the first coordinated element.
+
+<!-- fname:coordpunct.pdf -->
+~~~ sdparse
+kivet , kannot ja männynkävyt \n rocks , stumps and pinecones
+punct(kivet-1, ,-2)
+conj(kivet-1, kannot-3)
+cc(kivet-1, ja-4)
+conj(kivet-1, männynkävyt-5)
+~~~
+
+Punctuation related to coordination-like parataxis, that is, parataxis
+used in connection with a semicolon, colon or dash, is attached as in
+coordinations.
+
+<!-- fname:parataxispunct1.pdf -->
+~~~ sdparse
+Matti tuli töistä ; Maija oli jo kotona . \n Matti came from_work ; Maija was already home .
+nsubj(tuli-2, Matti-1)
+nmod(tuli-2, töistä-3)
+punct(tuli-2, ;-4)
+parataxis(tuli-2, oli-6)
+nsubj(oli-6, Maija-5)
+advmod(oli-6, jo-7)
+advmod(oli-6, kotona-8)
+punct(tuli-2, .-9)
+~~~
+
+Punctuation with direct speech -type parataxis, however, is seen to
+delimit the utterance of the speaker.
+
+<!-- fname:parataxispunct2.pdf -->
+~~~ sdparse
+" Älä sotke itseäsi " , äiti sanoi . \n " Don't mess yourself " , mother said .
+neg(sotke-3, Älä-2)
+dobj(sotke-3, itseäsi-4)
+punct(sotke-3, "-1)
+punct(sotke-3, "-5)
+punct(sotke-3, ,-6)
+parataxis(sanoi-8, sotke-3)
+nsubj(sanoi-8, äiti-7)
+punct(sanoi-8, .-9)
+~~~
+
+Single and double quotes as well as parentheses are attached to the
+head of the quoted/parenthetical clause or phrase. Dashes signifying
+quotes are also attached to the head of the quote.
+
+<!-- fname:quotes.pdf -->
+~~~ sdparse
+Illan elokuva on " Kuninkaan puhe " . \n Tonigt's movie is " The_King's speech " .
+nmod:poss(elokuva-2, Illan-1)
+nsubj:cop(puhe-6, elokuva-2)
+cop(puhe-6, on-3)
+punct(puhe-6, "-4)
+nmod:poss(puhe-6, Kuninkaan-5)
+name(puhe-6, Kuninkaan-5)
+punct(puhe-6, "-7)
+punct(puhe-6, .-8)
+~~~
+
+<!-- fname:parentheses.pdf -->
+~~~ sdparse
+Matikainen ( s. 1943 ) on ammatiltaan kirjailija . \n Matikainen ( born 1943 ) is by_profession author .
+nsubj:cop(kirjailija-8, Matikainen-1)
+acl:partmod(Matikainen-1, s.-3)
+punct(s.-3, (-2)
+nmod(s.-3, 1943-4)
+punct(s.-3, )-5)
+cop(kirjailija-8, on-6)
+nmod(kirjailija-8, ammatiltaan-7)
+punct(kirjailija-8, .-9)
+~~~
+
+<!-- fname:quotedash.pdf -->
+~~~ sdparse
+- Älä sotke itseäsi , sanoi äiti . \n - Don't mess yourself , said mother .
+punct(sotke-3, --1)
+neg(sotke-3, Älä-2)
+dobj(sotke-3, itseäsi-4)
+punct(sotke-3, ,-5)
+parataxis(sanoi-6, sotke-3)
+nsubj(sanoi-6, äiti-7)
+punct(sanoi-6, .-8)
+~~~
+
+If the quotes or parentheses contain two or more items, such as parts
+of a coordination, then the punctuation is attached to the closest
+enclosed element, so as to avoid unnecessary non-projectivity.
+
+<!-- fname:quotecoord.pdf -->
+~~~ sdparse
+Hän pitää kirjoista ( ja näytelmistä ) . \n He likes books ( and plays ) .
+nsubj(pitää-2, Hän-1)
+dobj(pitää-2, kirjoista-3)
+cc(kirjoista-3, ja-5)
+conj(kirjoista-3, näytelmistä-6)
+punct(pitää-2, .-8)
+punct(ja-5, (-4)
+punct(näytelmistä-6, )-7)
+~~~
+
+Punctuation can also delimit short additions, such as nominal
+modifiers or appositions, and in such cases, the punctuation should be
+attached to the head of the addition.
+
+<!-- fname:punctappos.pdf -->
+~~~ sdparse
+Matti Tamminen , professori \n Matti Tamminen , the_professor
+name(Tamminen-2, Matti-1)
+appos(Tamminen-2, professori-4)
+punct(professori-4, ,-3)
+~~~
+
+<!-- fname:punctnommod.pdf -->
+~~~ sdparse
+Lähden matkalle , ainakin viikoksi . \n I_am_going to_trip , at_least for_a_week .
+nmod(Lähden-1, matkalle-2)
+nmod(Lähden-1, viikoksi-5)
+punct(Lähden-1, .-6)
+punct(viikoksi-5, ,-3)
+advmod(viikoksi-5, ainakin-4)
+~~~
+
+Finally, list item markers such as bullets of a bulleted list are
+marked as punctuation attached to the head of the list item.
+
+<!-- fname:bullet.pdf -->
+~~~ sdparse
+* Käy kaupassa . \n * Visit store .
+punct(Käy-2, *-1)
+punct(Käy-2, .-4)
+nmod(Käy-2, kaupassa-3)
+~~~
