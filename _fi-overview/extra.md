@@ -468,7 +468,8 @@ In the former example, there is clearly a man in a brown coat, whereas
 in the latter case, the coming into the train happened while wearing a
 brown coat.  Therefore, the correct analyses for these examples differ
 in their attachment of the phrase in a brown coat. These attachment
-rules are akin to those used in the Prague Dependency Treebank [?].
+rules are akin to those used in the
+[Prague Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/pdtiovam.pdf).
 
 <!-- fname:browncoat1.pdf -->
 ~~~ sdparse
@@ -489,6 +490,11 @@ nmod(tuli-2, takissa-5)
 amod(takissa-5, ruskeassa-4)
 punct(tuli-2, .-6)
 ~~~
+
+#### References
+
+* Hajič 1998 [Building a Syntactically Annotated Corpus: The Prague
+  Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/Czech_PDT.pdf) [pdf]
 
 ## Relative clauses
 <!-- this section originally from TDT guidelines section 5.6 -->
