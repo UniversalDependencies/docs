@@ -418,14 +418,12 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
-<!-- this section originally from TDT guidelines section 5.3 -->
-
-<p>(The content of this section of the guidelines is found
-<a href="specific-syntax.html">here</a>.)</p>
-
 <h2 id="relative-clauses">Relative clauses</h2>
 <!-- this section originally from TDT guidelines section 5.6 -->
+
+<p>(NOTE/TODO: the following section is originally from the TDT
+documentation and has not yet been fully updated for UD. Some of
+the guidelines here may not apply to UD Finnish.)</p>
 
 <p>Relative clauses most often modify noun phrases, but it is also
 possible for them to modify a whole clause. From a prescriptive
@@ -439,6 +437,8 @@ adjacent to it. In UD Finnish, the actual reference for the relative
 clause is chosen as the head of the <a href=""><code>acl:relcl</code></a> dependency
 wherever possible.</p>
 
+<p>(<strong>TODO</strong>: update example to remove <code>rel</code>)</p>
+
 <!-- fname:relative_ungrammatical.pdf -->
 <pre><code class="language-sdparse">Annoin hänelle kirjan , joka sitä oli pyytänyt . \n I_gave him the_book , who it had asked_for .
 nmod(Annoin-1, hänelle-2)
@@ -451,14 +451,15 @@ aux(pyytänyt-8, oli-7)
 punct(Annoin-1, .-9)
 </code></pre>
 
-<p>As the analyses of the <em>base</em> layer of annotation are trees, the
-relativizer is always marked using the dependency type <a href=""><code>rel</code></a>, and
-its secondary syntactic function is marked in the separate <em>conjunct
-propagation and additional dependencies</em> layer (see Section 3.3). In
-most cases the rel dependency and its corresponding second layer
-dependency are between the exact same tokens. However, because the
-governor of the <a href=""><code>rel</code></a> dependency is always the head of the
-relative clause, this does not hold for all cases.</p>
+<p>The relativizer is annotated with the standard syntactic role that it
+plays in the relative clause, such as <a href="">nsubj</a> or <a href="">dobj</a>.  (Note
+that this treatment differs from the annotation of relative clauses in
+previously proposed related schemes, which used specific dependency
+types (e.g. <code>rel</code>) to mark the relativizer. In particular, in the TDT
+corpus the basic dependency layer used <code>rel</code> and the second annotation
+layer identified the actual syntactic role.)</p>
+
+<p>(<strong>TODO</strong>: update example to remove <code>rel</code>)</p>
 
 <!-- fname:rel_projectivity1.pdf -->
 <pre><code class="language-sdparse">Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
@@ -474,6 +475,8 @@ advmod(parkui-8, surkeasti-10)
 punct(parkui-8, .-11)
 </code></pre>
 
+<p>(<strong>TODO</strong>: update example)</p>
+
 <!-- fname:rel_projectivity2.pdf -->
 <pre><code class="language-sdparse">Tuon lapsen hän sai itkemään . \n That child he made cry .
 det(lapsen-2, Tuon-1)
@@ -483,9 +486,11 @@ nsubj(itkemään-5, lapsen-2)
 punct(sai-4, .-6)
 </code></pre>
 
-<p>Note also that the dependent of the <a href=""><code>rel</code></a> dependency is always the
+<p>Note also that the dependent of this dependency is always the
 head of the relative phrase, which may or may not be the relative word
 itself.</p>
+
+<p>(<strong>TODO</strong>: update example to remove <code>rel</code>)</p>
 
 <!-- fname:relative_jonka.pdf -->
 <pre><code class="language-sdparse">Nainen , jonka auto hajosi , seisoo tuolla . \n Lady , whose car broke , stands there .
