@@ -400,7 +400,8 @@ modifiers ([`nmod`]()), are based on the corresponding morphological
 distinction, which can sometimes be rather difficult. This section
 describes heuristics used to make these two most common
 morphology-based distinctions. Some of these heuristics resemble those
-used in the Penn Treebank [?].
+used in the
+[Penn Treebank](http://www.aclweb.org/anthology/J/J93/J93-2004.pdf).
 
 ### Participles versus adjectives
 <!-- this section originally from TDT guidelines section 5.16.1 -->
@@ -429,7 +430,7 @@ considered a passive participle.
 
 <!-- fname:copula_or_passive.pdf -->
 ~~~ sdparse
-Uiminen järvessä on kielletty . \n Swimming in_lake is/has_been forbidden .
+Uiminen järvessä on kielletty . \n Swimming in_lake is\/has_been forbidden .
 nsubj:cop/dobj?(kielletty-4, Uiminen-1)
 nmod(Uiminen-1, järvessä-2)
 cop/auxpass?(kielletty-4, on-3)
@@ -562,6 +563,12 @@ questions is no, and thus *pääasiassa* and *naimisissa* are considered
 adverbs. The answer to the third question, however, is yes, and
 therefore the word *humalassa* is analyzed as an inflected form of the
 noun *humala*.
+
+#### References
+
+* Marcus et al. 1993 [Building a Large Annotated Corpus of English:
+  The Penn Treebank](http://www.aclweb.org/anthology/J/J93/J93-2004.pdf)
+  *Computational Linguistics* 19(2):313–330.
 
 ## Attaching punctuation
 <!-- this section originally from TDT guidelines section 5.17 -->
