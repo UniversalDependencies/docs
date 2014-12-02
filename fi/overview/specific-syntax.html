@@ -1407,6 +1407,94 @@ cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
 </code></pre>
 
+<h2 id="necessive-structures-and-clausal-subjects">Necessive structures and clausal subjects</h2>
+<!-- this section originally from TDT guidelines section 5.14 -->
+
+<p>A clause can act as a subject to another clause (as well as an object,
+but these are marked as clausal complements, <a href=""><code>ccomp</code></a>), in which
+case it should be marked as a clausal subject, <a href=""><code>csubj</code></a>, or, if the
+main clause is copular, a clausal copular subject,
+<a href=""><code>csubj:cop</code></a>. However, in the case of clausal-copular subject, it
+may be difficult to determine whether a clause is, in fact, the
+subject of another clause, as the construct is similar to that of a
+<em>necessive structure</em>. Consider the following example.</p>
+
+<h4 id="examples-15">Examples</h4>
+
+<ul>
+  <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
+</ul>
+
+<p>At first glance, it seems that the clause <em>syödä hyvin</em> is the subject
+of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
+clausal subject. Instead, it is considered a necessive structure, as
+<em>on tärkeää</em> can be given a subject in the genitive form:</p>
+
+<h4 id="examples-16">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
+well.”</li>
+</ul>
+
+<p>The whole structure is considered a single unit, and the genitive
+subject is considered the subject of the latter verb (which expresses
+what it is that is necessary).</p>
+
+<!-- fname:necessive.pdf -->
+<pre><code class="language-sdparse">Hänen on pakko mennä kotiin . \n He has to go home .
+nsubj(mennä-4, Hänen-1)
+cop(pakko-3, on-2)
+ccomp:nf(pakko-3, mennä-4)
+nmod(mennä-4, kotiin-5)
+punct(pakko-3, .-6)
+</code></pre>
+
+<p>The name <em>necessive structure</em> comes from the fact that these
+structures often express the necessity of doing something, but it does
+not mean that all of these structures would have such a meaning; for
+example, <em>on vaikea(a)</em> “it is difficult” is a necessive structure the
+meaning of which does not express necessity. Common necessive
+structures include expressions such as <em>on pakko</em>, <em>on tärkeää</em>, <em>on
+oleellista</em> and <em>on välttämätöntä</em>. They usually, but not always,
+involve the verb <em>olla</em> and an adjective. There are also some verbs,
+such as <em>kannattaa</em> “be worth it” and <em>kuulua</em> “be supposed to”, that
+are analyzed in a necessive manner.</p>
+
+<p><strong>FIGURE MISSING</strong></p>
+
+<p>If it is not possible to insert a genitive subject into the clause,
+then the structure is considered a clausal subject case.</p>
+
+<h4 id="examples-17">Examples</h4>
+
+<ul>
+  <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
+go out.” (the Finnish sentence is ungrammatical.)</li>
+</ul>
+
+<!-- fname:not_necessive.pdf -->
+<pre><code class="language-sdparse">On mahtavaa mennä ulos . \n (it)_is splendid to_go out .
+cop(mahtavaa-2, On-1)
+csubj:cop(mahtavaa-2, mennä-3)
+advmod(mennä-3, ulos-4)
+punct(mahtavaa-2, .-5)
+</code></pre>
+
+<p>Note that due to the copular nature of the main clause, the clausal
+subjects in these clauses which resemble necessive structures are in
+fact clausal copular subjects. There are also other clausal subjects
+which cannot be confused with necessive structures.</p>
+
+<!-- fname:csubj.pdf -->
+<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
+nmod:poss(aikomuksenaan-2, Hänen-1)
+nmod(oli-3, aikomuksenaan-2)
+csubj(oli-3, mennä-4)
+advmod(mennä-4, ulos-5)
+punct(oli-3, .-6)
+</code></pre>
+
 
       </div>
 

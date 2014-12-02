@@ -408,94 +408,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="necessive-structures-and-clausal-subjects">Necessive structures and clausal subjects</h2>
-<!-- this section originally from TDT guidelines section 5.14 -->
-
-<p>A clause can act as a subject to another clause (as well as an object,
-but these are marked as clausal complements, <a href=""><code>ccomp</code></a>), in which
-case it should be marked as a clausal subject, <a href=""><code>csubj</code></a>, or, if the
-main clause is copular, a clausal copular subject,
-<a href=""><code>csubj:cop</code></a>. However, in the case of clausal-copular subject, it
-may be difficult to determine whether a clause is, in fact, the
-subject of another clause, as the construct is similar to that of a
-<em>necessive structure</em>. Consider the following example.</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
-</ul>
-
-<p>At first glance, it seems that the clause <em>syödä hyvin</em> is the subject
-of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
-clausal subject. Instead, it is considered a necessive structure, as
-<em>on tärkeää</em> can be given a subject in the genitive form:</p>
-
-<h4 id="examples-1">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
-well.”</li>
-</ul>
-
-<p>The whole structure is considered a single unit, and the genitive
-subject is considered the subject of the latter verb (which expresses
-what it is that is necessary).</p>
-
-<!-- fname:necessive.pdf -->
-<pre><code class="language-sdparse">Hänen on pakko mennä kotiin . \n He has to go home .
-nsubj(mennä-4, Hänen-1)
-cop(pakko-3, on-2)
-ccomp:nf(pakko-3, mennä-4)
-nmod(mennä-4, kotiin-5)
-punct(pakko-3, .-6)
-</code></pre>
-
-<p>The name <em>necessive structure</em> comes from the fact that these
-structures often express the necessity of doing something, but it does
-not mean that all of these structures would have such a meaning; for
-example, <em>on vaikea(a)</em> “it is difficult” is a necessive structure the
-meaning of which does not express necessity. Common necessive
-structures include expressions such as <em>on pakko</em>, <em>on tärkeää</em>, <em>on
-oleellista</em> and <em>on välttämätöntä</em>. They usually, but not always,
-involve the verb <em>olla</em> and an adjective. There are also some verbs,
-such as <em>kannattaa</em> “be worth it” and <em>kuulua</em> “be supposed to”, that
-are analyzed in a necessive manner.</p>
-
-<p><strong>FIGURE MISSING</strong></p>
-
-<p>If it is not possible to insert a genitive subject into the clause,
-then the structure is considered a clausal subject case.</p>
-
-<h4 id="examples-2">Examples</h4>
-
-<ul>
-  <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
-go out.” (the Finnish sentence is ungrammatical.)</li>
-</ul>
-
-<!-- fname:not_necessive.pdf -->
-<pre><code class="language-sdparse">On mahtavaa mennä ulos . \n (it)_is splendid to_go out .
-cop(mahtavaa-2, On-1)
-csubj:cop(mahtavaa-2, mennä-3)
-advmod(mennä-3, ulos-4)
-punct(mahtavaa-2, .-5)
-</code></pre>
-
-<p>Note that due to the copular nature of the main clause, the clausal
-subjects in these clauses which resemble necessive structures are in
-fact clausal copular subjects. There are also other clausal subjects
-which cannot be confused with necessive structures.</p>
-
-<!-- fname:csubj.pdf -->
-<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
-nmod:poss(aikomuksenaan-2, Hänen-1)
-nmod(oli-3, aikomuksenaan-2)
-csubj(oli-3, mennä-4)
-advmod(mennä-4, ulos-5)
-punct(oli-3, .-6)
-</code></pre>
-
 <h2 id="passive-structures-and-zeroth-person-constructions">Passive structures and zeroth person constructions</h2>
 <!-- this section originally from TDT guidelines section 5.15 -->
 
@@ -507,7 +419,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -518,7 +430,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -558,7 +470,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -634,7 +546,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -649,7 +561,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
