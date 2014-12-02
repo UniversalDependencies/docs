@@ -1103,3 +1103,65 @@ as a noun phrase (it is the subject of the clause), even though its
 head word is an adjective.
 
 <!-- TODO See Section~\ref{sec-NP-no-N} on nounless noun phrases.-->
+
+## Subordinate clauses and expressions of time
+<!-- this section originally from TDT guidelines section 5.10 -->
+
+Many subordinate clauses, especially ones starting with the
+conjunction *kun* "when", come with an adverbial, usually expressing
+time. Consider the following examples.
+
+#### Examples
+
+* [fi] *Tulen sinne heti, kun olen imuroinut.* "I'll come there right
+  away, when I have hoovered."
+* [fi] *Tapasin hänet sen jälkeen kun olin tullut kaupasta.* "I met
+  him after I had come from the store."
+
+It is often unclear where these time adverbials should be attached. On
+the one hand, they seem to modify the main clause, expressing when the
+action of the main clause takes place. On the other hand, they could
+also modify the subordinate clause, being a part of the time condition
+given in the subordinate clause.  A third option would be to make the
+time adverbial depend on the subordinating conjunction, to make the
+whole expression a two-part conjunction. The third option has some
+intuitive appeal, but this would make the number of subordinating
+conjunctions excessively large.
+
+In UD Finnish, a very limited number of these cases are considered
+especially tightly bound with the subordinating conjunction. These
+cases are considered multi-part subordinating conjunctions and listed
+as such in the documentation for [mark](). Otherwise, these adverbials
+are consistently made dependents of the subordinate clause.
+
+<!-- fname:subordinate+time_adverbial.pdf -->
+~~~ sdparse
+Tulen sinne heti , kun pääsen . \n I_will_come there right_away , when I_can .
+advmod(Tulen-1, sinne-2)
+advcl(Tulen-1, pääsen-6)
+advmod(pääsen-6, heti-3)
+punct(pääsen-6, ,-4)
+mark(pääsen-6, kun-5)
+punct(Tulen-1, .-7)
+~~~
+
+However, it should be noted that all subordinate clauses themselves
+are not dependents of the main verb. As discussed in the documentation
+for [ccomp](), clausal complements can depend on nouns, pronouns or
+adverbs. Similar situations can occur with subordinate clauses that
+are modifiers, and they are also analyzed similarly. Most commonly
+this occurs with the pronoun *se* "it".
+
+<!-- fname:se_kun.pdf -->
+~~~ sdparse
+Hänet säikäytti se , kun poika putosi hevosen selästä . \n Him scared it , when boy fell horse's from_back .
+dobj(säikäytti-2, Hänet-1)
+nsubj(säikäytti-2, se-3)
+advcl(se-3, putosi-7)
+punct(putosi-7, ,-4)
+mark(putosi-7, kun-5)
+nsubj(putosi-7, poika-6)
+nmod(putosi-7, selästä-9)
+nmod:poss(selästä-9, hevosen-8)
+punct(säikäytti-2, .-10)
+~~~
