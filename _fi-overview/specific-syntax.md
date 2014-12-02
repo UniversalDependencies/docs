@@ -669,7 +669,7 @@ punct(tuli-2, .-6)
 #### References
 
 * Hajič 1998 [Building a Syntactically Annotated Corpus: The Prague
-  Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/Czech_PDT.pdf) [pdf]
+  Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/pdtiovam.pdf) [pdf]
 
 ## Comparatives and superlatives
 <!-- this section originally from TDT guidelines section 5.9 -->
