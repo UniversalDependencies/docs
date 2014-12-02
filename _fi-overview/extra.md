@@ -390,10 +390,10 @@ functions as the counterpart of *kyllä* "yes", and is thus an adverb.
 This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.
 
-## Participal modifiers and predicatives
+## Participial modifiers and predicatives
 <!-- this section originally from TDT guidelines section 5.13 -->
 
-In connection with participal modifiers, predicatives are given a
+In connection with participial modifiers, predicatives are given a
 slightly different treatment than in other contexts. In a regular
 copular clause, the analysis is as follows.
 
@@ -406,7 +406,7 @@ punct(raskaana-3, .-4)
 ~~~
 
 However, if the same analysis were applied in a situation where olla
-acts as a participal modifier, this would result in a non-tree
+acts as a participial modifier, this would result in a non-tree
 structure:
 
 Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
@@ -417,7 +417,7 @@ cop(nälkäinen-5, on-4)
 punct(nälkäinen-5, .-6)
 ~~~
 
-Therefore, in conjunction with participal modifiers, copular verbs are
+Therefore, in conjunction with participial modifiers, copular verbs are
 analyzed similarly to regular verbs, in order to avoid non-tree
 structures.
 
@@ -433,8 +433,8 @@ punct(nälkäinen-5, .-6)
 
 The same rule is applied to certain special constructions that are
 normally considered passive structures but can also appear in
-conjunction with participal modifiers. Here the application of the
-rule results in two chained participal modifiers.
+conjunction with participial modifiers. Here the application of the
+rule results in two chained participial modifiers.
 
 <!-- fname:pcp+pass1.pdf -->
 ~~~ sdparse
@@ -661,13 +661,13 @@ punct(kielletty-4, .-5)
 ~~~
 
 Some words have several possible readings, and it is fairly common
-that a word can be given either a participal reading or an adjectival
+that a word can be given either a participial reading or an adjectival
 one. The following heuristics are used when deciding whether a word is
 an adjective or a participle.
 
 If a word can receive comparative and superlative forms, it is likely
 to be an adjective. For instance, the word *tunnettu* "well-known",
-which has both and adjectival and a participal reading, inflects in
+which has both and adjectival and a participial reading, inflects in
 these forms: *tunnettu*, *tunnetumpi*, *tunnetuin*.
 
 If, on the other hand, the word is modified by for instance a nominal

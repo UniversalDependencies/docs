@@ -1,10 +1,10 @@
 ---
 layout: entry
 title:  'acl:partmod'
-shortdef : 'participal modifier'
+shortdef : 'participial modifier'
 ---
 
-The *participal modifier* (`acl:partmod`) most commonly modifies a noun
+The *participial modifier* (`acl:partmod`) most commonly modifies a noun
 phrase. Note that the participle can take arguments, for instance a subject,
 just as any verb. (Also the MA-derivation is treated as a participle in UD
 Finnish.)  

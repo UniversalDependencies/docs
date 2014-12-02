@@ -488,7 +488,7 @@ resolved on a case-by-case basis.)
 One particularly challenging task in annotating in the UD Finnish
 scheme is selecting the correct dependency type for dependents that
 are verbal. Verbal dependents include different kinds of subordinate
-clauses as well as infinitive and participal complements and
+clauses as well as infinitive and participial complements and
 modifiers. A simplified description of the decision procedure for
 verbal dependents is given in Table 1, and the full details are given
 below.
@@ -546,10 +546,10 @@ for instance ISK
 [§1452](http://scripta.kotus.fi/visk/sisallys.php?p=1452) about
 referative and temporal structures, which are considered finite.)
 
-If the dependent is a non-clausal complement, it is a participal
+If the dependent is a non-clausal complement, it is a participial
 complement that resembles adjectival complements. Some of these
 complements can be modified, but all the same they do not form
-clauses. These participal complements do not have their own dependency
+clauses. These participial complements do not have their own dependency
 type, and the type [`acl:partmod`]() is used to annotate them.
 
 #### Examples
@@ -568,7 +568,7 @@ recognized as *lauseenvastike* ("substitute of a clause").
 * [fi] *Pyyhittyään pölyt hän imuroi.* "After dusting, he hoovered."
 
 If the dependent is a participle, the correct type is
-[`acl:partmod`](). These participal modifiers of a verb are often in
+[`acl:partmod`](). These participial modifiers of a verb are often in
 the essive case.
 
 #### Examples
