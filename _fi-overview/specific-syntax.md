@@ -671,6 +671,96 @@ punct(tuli-2, .-6)
 * Hajič 1998 [Building a Syntactically Annotated Corpus: The Prague
   Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/pdtiovam.pdf) [pdf]
 
+## Relative clauses
+<!-- this section originally from TDT guidelines section 5.6 -->
+
+(NOTE/TODO: the following section is originally from the TDT
+documentation and has not yet been fully updated for UD. Some of
+the guidelines here may not apply to UD Finnish.)
+
+Relative clauses most often modify noun phrases, but it is also
+possible for them to modify a whole clause. From a prescriptive
+perspective, the relativizer that should be used in relative clauses
+that modify noun phrases is *joka*, and the relative clause should
+always modify the word directly before it. The relativizer that should
+be used in relative clauses modifying full clauses is *mikä*. However,
+in real, especially spoken, language, the use of the two relativizers
+is mixed, and not every joka clause actually refers to the word
+adjacent to it. In UD Finnish, the actual reference for the relative
+clause is chosen as the head of the [`acl:relcl`]() dependency
+wherever possible.
+
+(**TODO**: update example to remove `rel`)
+
+<!-- fname:relative_ungrammatical.pdf -->
+~~~ sdparse
+Annoin hänelle kirjan , joka sitä oli pyytänyt . \n I_gave him the_book , who it had asked_for .
+nmod(Annoin-1, hänelle-2)
+dobj(Annoin-1, kirjan-3)
+acl:relcl(hänelle-2, pyytänyt-8)
+punct(pyytänyt-8, ,-4)
+rel(pyytänyt-8, joka-5)
+dobj(pyytänyt-8, sitä-6)
+aux(pyytänyt-8, oli-7)
+punct(Annoin-1, .-9)
+~~~
+
+The relativizer is annotated with the standard syntactic role that it
+plays in the relative clause, such as [nsubj]() or [dobj]().  (Note
+that this treatment differs from the annotation of relative clauses in
+previously proposed related schemes, which used specific dependency
+types (e.g. `rel`) to mark the relativizer. In particular, in the TDT
+corpus the basic dependency layer used `rel` and the second annotation
+layer identified the actual syntactic role.)
+
+(**TODO**: update example to remove `rel`)
+
+<!-- fname:rel_projectivity1.pdf -->
+~~~ sdparse
+Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
+acl:relcl(Lapsi-1, sai-5)
+punct(sai-5, ,-2)
+rel(sai-5, jonka-3)
+nsubj(sai-5, hän-4)
+ccomp:nf(sai-5, itkemään-6)
+punct(sai-5, ,-7)
+nsubj(parkui-8, Lapsi-1)
+advmod(parkui-8, yhä-9)
+advmod(parkui-8, surkeasti-10)
+punct(parkui-8, .-11)
+~~~
+
+(**TODO**: update example)
+
+<!-- fname:rel_projectivity2.pdf -->
+~~~ sdparse
+Tuon lapsen hän sai itkemään . \n That child he made cry .
+det(lapsen-2, Tuon-1)
+nsubj(sai-4, hän-3)
+ccomp:nf(sai-4, itkemään-5)
+nsubj(itkemään-5, lapsen-2)
+punct(sai-4, .-6)
+~~~
+
+Note also that the dependent of this dependency is always the
+head of the relative phrase, which may or may not be the relative word
+itself.
+
+(**TODO**: update example to remove `rel`)
+
+<!-- fname:relative_jonka.pdf -->
+~~~ sdparse
+Nainen , jonka auto hajosi , seisoo tuolla . \n Lady , whose car broke , stands there .
+acl:relcl(Nainen-1, hajosi-5)
+punct(hajosi-5, ,-2)
+punct(hajosi-5, ,-6)
+nmod:poss(auto-4, jonka-3)
+rel(hajosi-5, auto-4)
+nsubj(seisoo-7, Nainen-1)
+advmod(seisoo-7, tuolla-8)
+punct(seisoo-7, .-9)
+~~~
+
 ## Comparatives and superlatives
 <!-- this section originally from TDT guidelines section 5.9 -->
 
