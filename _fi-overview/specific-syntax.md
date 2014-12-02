@@ -855,6 +855,43 @@ nmod(joku-3, pojista-4)
 punct(joku-3, .-5)
 ~~~
 
+## Noun phrases without nouns
+<!-- this section originally from TDT guidelines section 5.8 -->
+
+In UD Finnish, it is possible for a phrase with a head word other than
+a noun (or pronoun) to act as a noun phrase. Typical cases of this
+include adjective-headed and participle-headed noun phrases.
+
+#### Examples
+
+* [fi] *Ikkunan takana oli <b>jotain sinistä</b>.* "There was <b>something blue</b> behind the window".
+* [fi] *<b>Kukista kaunein</b> oli punainen ruusu.* "<b>The most beautiful of the flowers</b> was a red rose."
+* [fi] *<b>Kirjaa kirjoittavat</b> sanoivat samaa.* "<b>The (ones) writing a book</b> said the same."
+* [fi] *<b>Onnettomuudessa olleille</b> suositeltiin terapiaa.* "Therapy was recommended for <b>the (ones) been in the accident</b>."
+
+These structures are analyzed as standard noun phrases. For instance,
+they can be marked as the subject of a clause, or a nominal modifier,
+regardless of the part of speech of the head word.
+
+<!-- fname:jotain_sinista.pdf -->
+~~~ sdparse
+Ikkunan takana oli jotain sinistä . \n Window behind was something blue .
+case(Ikkunan-1, takana-2)
+nmod(oli-3, Ikkunan-1)
+nsubj(oli-3, sinistä-5)
+det(sinistä-5, jotain-4)
+punct(oli-3, .-6)
+~~~
+
+<!-- fname:onnettomuudessa_olleille.pdf -->
+~~~ sdparse
+Onnettomuudessa olleille suositeltiin terapiaa . \n In_accident been(_ones) was_recommended therapy .
+nmod(olleille-2, Onnettomuudessa-1)
+nmod(suositeltiin-3, olleille-2)
+dobj(suositeltiin-3, terapiaa-4)
+punct(suositeltiin-3, .-5)
+~~~
+
 ## Comparatives and superlatives
 <!-- this section originally from TDT guidelines section 5.9 -->
 
