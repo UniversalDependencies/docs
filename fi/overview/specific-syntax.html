@@ -1194,6 +1194,51 @@ nmod:poss(selästä-9, hevosen-8)
 punct(säikäytti-2, .-10)
 </code></pre>
 
+<h2 id="subjects-and-objects-of-a-noun">Subjects and objects of a noun</h2>
+<!-- this section originally from TDT guidelines section 5.11 -->
+
+<p>In Finnish, it is possible for certain nouns which either are direct
+derivations of a verb or otherwise have a verb counterpart
+(verbivastineellinen substantiivi
+<a href="http://scripta.kotus.fi/visk/sisallys.php?p=560">ISK §560</a>; in
+Finnish) to take a subject- or object-like complement. Both of these
+are identical in form to more general genitive modifiers of a noun,
+marked with the dependency type <a href=""><code>nmod:poss</code></a> in the UD Finnish
+scheme.</p>
+
+<!-- fname:regular_poss.pdf -->
+<pre><code class="language-sdparse">talon katto \n house(gen.) roof(N)
+nmod:poss(katto-2, talon-1)
+</code></pre>
+
+<p>Genitive objects of a noun are marked the <a href=""><code>nmod:gobj</code></a>, which is a
+subtype for the more general genitive-modifier type <a href=""><code>nmod:poss</code></a>.
+Both nominal derivations and other nouns with verb counterparts can
+take a genitive object, with the exception of JA- derivations, the
+genitive modifier of which is never considered an object in UD Finnish
+(<em>talon rakentaja</em> “the builder of the house”).</p>
+
+<!-- fname:gobj_vs_poss.pdf -->
+<pre><code class="language-sdparse">talon rakentaminen \n house(gen.) building(N+deriv.)
+nmod:gobj(rakentaminen-2, talon-1)
+</code></pre>
+
+<p>Genitive subjects, in turn, are marked using the <a href=""><code>nmod:gsubj</code></a>
+dependency type, also a subtype of <a href=""><code>nmod:poss</code></a>. Only nouns that
+are marked as derivations of a verb in the morphological tagging
+receive a <a href=""><code>nmod:gsubj</code></a> dependent.</p>
+
+<!-- fname:gsubj_vs_poss.pdf -->
+<pre><code class="language-sdparse">maljakon putoaminen \n vase(gen.) falling(N+deriv.)
+nmod:gsubj(putoaminen-2, maljakon-1)
+</code></pre>
+
+<h4 id="references-5">References</h4>
+
+<ul>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=560">http://scripta.kotus.fi/visk/sisallys.php?p=560</a> (in Finnish)</li>
+</ul>
+
 
       </div>
 
