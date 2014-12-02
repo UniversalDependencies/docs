@@ -395,10 +395,12 @@ phenomena that require detailed decision rules.
 
 In Finnish, it is possible for certain nouns which either are direct
 derivations of a verb or otherwise have a verb counterpart
-(verbivastineellinen substantiivi [ISK, §560]) to take a subject- or
-object-like complement. Both of these are identical in form to more
-general genitive modifiers of a noun, marked with the dependency type
-[`nmod:poss`]() in the UD Finnish scheme.
+(verbivastineellinen substantiivi
+[ISK §560](http://scripta.kotus.fi/visk/sisallys.php?p=560); in
+Finnish) to take a subject- or object-like complement. Both of these
+are identical in form to more general genitive modifiers of a noun,
+marked with the dependency type [`nmod:poss`]() in the UD Finnish
+scheme.
 
 <!-- fname:regular_poss.pdf -->
 ~~~ sdparse
@@ -407,11 +409,11 @@ nmod:poss(katto-2, talon-1)
 ~~~
 
 Genitive objects of a noun are marked the [`nmod:gobj`](), which is a
-subtype for the more general genitive-modifier type [`nmod:poss`](). Both
-nominal derivations and other nouns with verb counterparts can take a
-genitive object, with the exception of JA- derivations, the genitive
-modifier of which is never considered an object in UD Finnish (*talon
-rakentaja* "the builder of the house").
+subtype for the more general genitive-modifier type [`nmod:poss`]().
+Both nominal derivations and other nouns with verb counterparts can
+take a genitive object, with the exception of JA- derivations, the
+genitive modifier of which is never considered an object in UD Finnish
+(*talon rakentaja* "the builder of the house").
 
 <!-- fname:gobj_vs_poss.pdf -->
 ~~~ sdparse
@@ -420,15 +422,19 @@ nmod:gobj(rakentaminen-2, talon-1)
 ~~~
 
 Genitive subjects, in turn, are marked using the [`nmod:gsubj`]()
-dependency type, also a subtype of [`nmod:poss`](). Only nouns that are
-marked as derivations of a verb in the morphological tagging receive a
-[`nmod:gsubj`]() dependent.
+dependency type, also a subtype of [`nmod:poss`](). Only nouns that
+are marked as derivations of a verb in the morphological tagging
+receive a [`nmod:gsubj`]() dependent.
 
 <!-- fname:gsubj_vs_poss.pdf -->
 ~~~ sdparse
 maljakon putoaminen \n vase(gen.) falling(N+deriv.)
 nmod:gsubj(putoaminen-2, maljakon-1)
 ~~~
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=560> (in Finnish)
 
 ## Numerical expressions
 <!-- this section originally from TDT guidelines section 5.12 -->
