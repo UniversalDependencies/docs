@@ -91,7 +91,7 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td>↳<a>nmod:own</a></td>
-	  <td></td>
+	  <td>↳<a>advcl:compar</a></td>
 	  <td>↳<a>advmod:q</a></td>
 	</tr>
 	<tr>
@@ -369,6 +369,26 @@ that is modified, and the dependent is the head of the clause that
 modifies the noun.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
+
+<p><a id="al-fi-dep/advcl:compar" class="al-dest"></a></p>
+<h2><code>advcl:compar</code>: comparative</h2>
+
+<p>The dependency type <code>advcl:compar</code> is used in comparative
+constructions, most often involving adjectives in the comparative
+form. The head of the <code>advcl:compar</code> dependency is the comparative
+wordform, and the dependent is the compared element.</p>
+
+<p>The annotation of comparative and superlative structures is described in
+<a href="/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives">Comparatives and superlatives</a>.</p>
+
+<!-- fname:compar.pdf -->
+<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
+advcl:compar(parempi-1, näytelmä-4)
+comparator(näytelmä-4, kuin-2)
+amod(näytelmä-4, eilinen-3)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl-compar.md" target="#">edit advcl:compar</a></p>
 
 <p><a id="al-fi-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
@@ -731,26 +751,6 @@ punct(suututti-9, .-11)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp.md" target="#">edit ccomp</a></p>
 
-<p><a id="al-fi-dep/compar" class="al-dest"></a></p>
-<h2><code>compar</code>: comparative</h2>
-
-<p>The dependency type <code>compar</code> is used in comparative constructions,
-most often involving adjectives in the comparative form. The head of
-the <code>compar</code> dependency is the comparative wordform, and the dependent
-is the compared element.</p>
-
-<p>The annotation of comparative and superlative structures is described
-in <a href="/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives">Comparatives and superlatives</a>.</p>
-
-<!-- fname:compar.pdf -->
-<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
-compar(parempi-1, näytelmä-4)
-comparator(näytelmä-4, kuin-2)
-amod(näytelmä-4, eilinen-3)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compar.md" target="#">edit compar</a></p>
-
 <p><a id="al-fi-dep/compound:nn" class="al-dest"></a></p>
 <h2><code>compound:nn</code>: noun compound modifier</h2>
 
@@ -1072,7 +1072,7 @@ being compared.</p>
 
 <!-- fname:comparator.pdf -->
 <pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
-compar(enemmän-1, haluaisin-3)
+advcl:compar(enemmän-1, haluaisin-3)
 mark:comparator(haluaisin-3, kuin-2)
 </code></pre>
 
