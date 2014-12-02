@@ -417,8 +417,8 @@ conjunctions excessively large.
 In UD Finnish, a very limited number of these cases are considered
 especially tightly bound with the subordinating conjunction. These
 cases are considered multi-part subordinating conjunctions and listed
-as such in Section 2.26. Otherwise, these adverbials are consistently
-made dependents of the subordinate clause.
+as such in the documentation for [mark](). Otherwise, these adverbials
+are consistently made dependents of the subordinate clause.
 
 <!-- fname:subordinate+time_adverbial.pdf -->
 ~~~ sdparse
@@ -432,11 +432,11 @@ punct(Tulen-1, .-7)
 ~~~
 
 However, it should be noted that all subordinate clauses themselves
-are not dependents of the main verb. As discussed in Section 2.10,
-clausal complements can depend on nouns, pronouns or adverbs. Similar
-situations can occur with subordinate clauses that are modifiers, and
-they are also analyzed similarly. Most commonly this occurs with the
-pronoun *se* "it".
+are not dependents of the main verb. As discussed in the documentation
+for [ccomp](), clausal complements can depend on nouns, pronouns or
+adverbs. Similar situations can occur with subordinate clauses that
+are modifiers, and they are also analyzed similarly. Most commonly
+this occurs with the pronoun *se* "it".
 
 <!-- fname:se_kun.pdf -->
 ~~~ sdparse
