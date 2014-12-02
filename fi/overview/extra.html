@@ -408,66 +408,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="participial-modifiers-and-predicatives">Participial modifiers and predicatives</h2>
-<!-- this section originally from TDT guidelines section 5.13 -->
-
-<p>In connection with participial modifiers, predicatives are given a
-slightly different treatment than in other contexts. In a regular
-copular clause, the analysis is as follows.</p>
-
-<!-- fname:pcp+cop1.pdf -->
-<pre><code class="language-sdparse">Eeva on raskaana . \n Eeva is pregnant .
-nsubj:cop(raskaana-3, Eeva-1)
-cop(raskaana-3, on-2)
-punct(raskaana-3, .-4)
-</code></pre>
-
-<p>However, if the same analysis were applied in a situation where olla
-acts as a participial modifier, this would result in a non-tree
-structure:</p>
-
-<pre><code class="language-sdparse">Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
-cop(Raskaana-1, oleva-2)
-nsubj:cop(Raskaana-1, nainen-3)
-nsubj:cop(nälkäinen-5, nainen-3)
-cop(nälkäinen-5, on-4)
-punct(nälkäinen-5, .-6)
-</code></pre>
-
-<p>Therefore, in conjunction with participial modifiers, copular verbs are
-analyzed similarly to regular verbs, in order to avoid non-tree
-structures.</p>
-
-<!-- fname:pcp+cop3.pdf -->
-<pre><code class="language-sdparse">Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
-advmod(oleva-2, Raskaana-1)
-acl:partmod(nainen-3, oleva-2)
-nsubj:cop(nälkäinen-5, nainen-3)
-cop(nälkäinen-5, on-4)
-punct(nälkäinen-5, .-6)
-</code></pre>
-
-<p>The same rule is applied to certain special constructions that are
-normally considered passive structures but can also appear in
-conjunction with participial modifiers. Here the application of the
-rule results in two chained participial modifiers.</p>
-
-<!-- fname:pcp+pass1.pdf -->
-<pre><code class="language-sdparse">Resurssit ovat käytettävissä . \n Resources are usable .
-dobj(käytettävissä-3, Resurssit-1)
-auxpass(käytettävissä-3, ovat-2)
-punct(käytettävissä-3, .-4)
-</code></pre>
-
-<!-- fname:pcp+pass2.pdf -->
-<pre><code class="language-sdparse">Käytettävissä olevat resurssit ovat rajalliset . \n Usable being resources are limited .
-acl:partmod(olevat-2, Käytettävissä-1)
-acl:partmod(resurssit-3, olevat-2)
-nsubj:cop(rajalliset-5, resurssit-3)
-cop(rajalliset-5, ovat-4)
-punct(rajalliset-5, .-6)
-</code></pre>
-
 <h2 id="necessive-structures-and-clausal-subjects">Necessive structures and clausal subjects</h2>
 <!-- this section originally from TDT guidelines section 5.14 -->
 
