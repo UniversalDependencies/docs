@@ -390,12 +390,6 @@ functions as the counterpart of *kyllä* "yes", and is thus an adverb.
 This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.
 
-## Comparatives and superlatives
-<!-- this section originally from TDT guidelines section 5.9 -->
-
-(The content of this section of the guidelines is found
-[here](specific-syntax.html).)
-
 ## Subordinate clauses and expressions of time
 <!-- this section originally from TDT guidelines section 5.10 -->
 
