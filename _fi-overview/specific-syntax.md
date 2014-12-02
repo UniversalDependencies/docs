@@ -1554,3 +1554,183 @@ verbs). This case is analyzed as an active structure.
 However, as can be seen from the example, no subject is marked, but
 rather an object. It is still understood that *means* are the object
 of *using* in this example.
+
+## Morphological distinctions
+<!-- this section originally from TDT guidelines section 5.16 -->
+
+Distinctions between certain dependency types, most commonly between
+participial modifiers ([`acl:partmod`]()) and adjectival modifiers
+([`amod`]()) as well as adverbial modifiers ([`advmod`]()) and nominal
+modifiers ([`nmod`]()), are based on the corresponding morphological
+distinction, which can sometimes be rather difficult. This section
+describes heuristics used to make these two most common
+morphology-based distinctions. Some of these heuristics resemble those
+used in the
+[Penn Treebank](http://www.aclweb.org/anthology/J/J93/J93-2004.pdf).
+
+### Participles versus adjectives
+<!-- this section originally from TDT guidelines section 5.16.1 -->
+
+The distinction between verb participles and adjectives is difficult
+in several languages, and Finnish is no exception. In UD Finnish, this
+distinction affects the syntax annotation of mainly two kinds of
+structures. First, it affects the choice between the dependency types
+[`acl:partmod`]() (participial modifier) and [`amod`]() (adjectival
+modifier).
+
+<!-- fname:amod_or_partmod.pdf -->
+~~~ sdparse
+Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
+amod/acl:partmod?(näyttelijä-2, Tunnettu-1)
+compound:nn(Travolta-4, näyttelijä-2)
+name(Travolta-4, John-3)
+~~~
+
+Second, it affects whether certain structures should be marked as
+copular clauses, or alternatively, as passive clauses in the present
+or past perfect form (*perfekti* and *pluskvamperfekti* in Finnish
+grammar). The same structure can be considered copular if the head
+word is an adjective, or a passive clause if the head word is
+considered a passive participle.
+
+<!-- fname:copula_or_passive.pdf -->
+~~~ sdparse
+Uiminen järvessä on kielletty . \n Swimming in_lake is\/has_been forbidden .
+nsubj:cop/dobj?(kielletty-4, Uiminen-1)
+nmod(Uiminen-1, järvessä-2)
+cop/auxpass?(kielletty-4, on-3)
+punct(kielletty-4, .-5)
+~~~
+
+Some words have several possible readings, and it is fairly common
+that a word can be given either a participial reading or an adjectival
+one. The following heuristics are used when deciding whether a word is
+an adjective or a participle.
+
+If a word can receive comparative and superlative forms, it is likely
+to be an adjective. For instance, the word *tunnettu* "well-known",
+which has both and adjectival and a participial reading, inflects in
+these forms: *tunnettu*, *tunnetumpi*, *tunnetuin*.
+
+If, on the other hand, the word is modified by for instance a nominal
+or adverbial modifier, it is likely to be a verb participle. For
+instance, with the word *tunnettu*, the following contexts would be
+possible:
+
+#### Examples
+
+* [fi] *laajalti tunnettu näyttelijä* "widely known actor"
+* [fi] *kalliista autoistaan tunnettu näyttelijä* "actor known for his expensive cars"
+
+Thus, it is the case that the same word can act both as an adjective
+and as a verbal participle, depending on context, and the decisions
+are made on a case-by-case basis. As a third heuristic used in the
+decision, the annotators are asked to consider whether someone is
+actively doing something in the example under consideration. If so,
+then the word is likely a verbal participle, otherwise it is an
+adjective. Consider the following examples:
+
+#### Examples
+
+* [fi] *Maijan tuleva aviomies* lit. *Maija's coming husband* "Maija's
+  future husband"
+* [fi] *Maijan Turusta tuleva aviomies* "Maija's husband coming from
+  Turku"
+
+In the first example, the husband is not actively doing anything, he
+simply is going to be Maija's husband in the future. Thus *tuleva* in
+this example would be considered an adjective. In the second example,
+he is actively coming from the direction of Turku, and thus *tuleva*
+here would be a verbal participle.
+
+As a rule of thumb, if an adjectival reading is possible in a given
+context, it is generally preferred. For instance, in *tunnettu
+näyttelijä* "well-known actor", if it was not specified a a by whom or
+for what the actor is known, it would be assumed that the adjectival
+reading is intended.  Similarly, in *uiminen on kielletty* "swimming
+is forbidden", if the context does not reveal that there has been
+active forbidding of the swimming (the example is genuinely
+ambiguous), then it is assumed that it is a property of the swimming
+that it is forbidden.
+
+### Adverbs versus nouns
+<!-- this section originally from TDT guidelines section 5.16.2 -->
+
+Due to the fact that certain Finnish adverbs have a partial case
+inflection, it is sometimes difficult to decide whether a word is an
+inflected form of a noun (or adjective), or rather an adverb. For
+instance, the word *pääasiassa* "mainly" could be analyzed as an
+adverb, or alternatively, as an inflected form of the noun *pääasia*
+"the main thing".
+
+This distinction affects the choice between the dependency types
+[`advmod`]() (adverb modifier) and [`nmod`]() (nominal modifier).
+Additionally, it can affect the choice of whether a word can be marked
+as a predicative (if it is an adverb) and thus head of the clause, or
+if it should me marked as a nominal modifier for the verb olla. In the
+latter case, the structure of the whole clause is affected by the
+decision.
+
+<!-- fname:advmod_or_nommod.pdf -->
+~~~ sdparse
+Pääasiassa tämä vaikuttaa koron suuruuteen . \n Mainly this affects interest's level .
+advmod/nmod?(vaikuttaa-3, Pääasiassa-1)
+nsubj(vaikuttaa-3, tämä-2)
+nmod(vaikuttaa-3, suuruuteen-5)
+nmod:poss(suuruuteen-5, koron-4)
+punct(vaikuttaa-3, .-6)
+~~~
+
+<!-- fname:predicative_or_nommod1.pdf -->
+~~~ sdparse
+Elisa ja Elias ovat naimisissa . \n Elisa and Elias are married .
+cc(Elisa-1, ja-2)
+conj(Elisa-1, Elias-3)
+nsubj:cop?(naimisissa-5, Elisa-1)
+cop?(naimisissa-5, ovat-4)
+punct(naimisissa-5, .-6)
+~~~
+
+<!-- fname:predicative_or_nommod2.pdf -->
+~~~ sdparse
+Matti oli humalassa . \n Matti was drunk .
+nsubj?(oli-2, Matti-1)
+nmod?(oli-2, humalassa-3)
+punct(oli-2, .-4)
+~~~
+
+Again, the main source of information while annotating is the
+morphological analysis of the word, but occasionally it is possible
+that the syntactic annotation uses a reading that has been omitted.
+It is less common that both an adverb and noun reading would be
+available. Decision heuristics are needed here as well.
+
+The main deciding factor between a noun and an adverb reading is
+whether there exists a corresponding noun in its baseform and whether
+and to what degree the word under question is related to that
+noun. For example, in the case of *pääasiassa* "mainly" there exists a
+corresponding noun *pääasia* "main thing", but in the case of
+*naimisissa* "married" the only candidate for such a noun would be
+*naiminen*, which could technically be translated as "marrying", but
+is in fact more often used (usually in spoken language) in the meaning
+"having sex". As for *humalassa* "drunk", there is a candidate noun,
+*humala*, which can be used to refer to the state of being drunk.
+
+As a test used to see whether the possible candidate noun is closely
+(enough) related to the word under question, annotators are asked to
+reflect on the hypothetical baseform of the noun reading and on
+whether it could be imagined to be involved in the current
+sentence. For instance, is there a main thing (*pääasia*) in which the
+interest rate is affected? Is there a state of being married
+("*naimiset*") in which Elisa and Elias are? Is there a state of being
+drunk (*humala*) in which Matti is? The answer to the first two
+questions is no, and thus *pääasiassa* and *naimisissa* are considered
+adverbs. The answer to the third question, however, is yes, and
+therefore the word *humalassa* is analyzed as an inflected form of the
+noun *humala*.
+
+#### References
+
+* Marcus et al. 1993 [Building a Large Annotated Corpus of English:
+  The Penn Treebank](http://www.aclweb.org/anthology/J/J93/J93-2004.pdf)
+  *Computational Linguistics* 19(2):313–330.
