@@ -424,90 +424,6 @@ phenomena that require detailed decision rules.</p>
 <p>(The content of this section of the guidelines is found
 <a href="specific-syntax.html">here</a>.)</p>
 
-<h2 id="attachment-issues-word-order-dependent-structures-and-ambiguity">Attachment issues: word-order-dependent structures and ambiguity</h2>
-<!-- this section originally from TDT guidelines section 5.5 -->
-
-<p>Occasionally determining the correct head word for a dependency may be
-difficult. Some structures are inherently ambiguous, and with some
-structures, often ones involving nominal modifiers, the dependent is
-most naturally seen to modify different sentence elements depending on
-the word-order. The following classic example is ambiguous:</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Ammuin elefantin pyjamassani.</em> “I shot an elephant in my pajamas.”</li>
-</ul>
-
-<p>In this example, it is possible that the shooting happened while
-wearing the pajamas, in which case the correct syntax tree would be as
-follows:</p>
-
-<!-- fname:elephant1.pdf -->
-<pre><code class="language-sdparse">Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
-dobj(Ammuin-1, elefantin-2)
-nmod(Ammuin-1, pyjamassani-3)
-punct(Ammuin-1, .-4)
-</code></pre>
-
-<p>On the other hand, it is also possible that the elephant wore the
-pajamas, in which case the correct analysis is:</p>
-
-<!-- fname:elephant2.pdf -->
-<pre><code class="language-sdparse">Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
-dobj(Ammuin-1, elefantin-2)
-nmod(elefantin-2, pyjamassani-3)
-punct(Ammuin-1, .-4)
-</code></pre>
-
-<p>Ambiguities such as this one are resolved as far as possible, and also
-context is used to determine the correct reading where applicable.
-That is, if in the context there exists another sentence which makes
-it clear whether the shooter or the elephant wore the pajamas, then
-that sentence is used to disambiguate the structure.</p>
-
-<p>If, however, the ambiguity cannot be resolved even given context, or
-if an element seems to modify two or more elements simultaneously,
-then the attachment higher in the tree is chosen. In the case of the
-previous example, this would be the reading in which the shooting
-happens wearing the pajamas.</p>
-
-<p>In some structures, the most natural analysis may be word order
-dependent. Consider the following two examples.</p>
-
-<h4 id="examples-1">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Mies ruskeassa takissa tuli junaan.</em> “A man in a brown coat
-came into the train.”</li>
-  <li>[fi] <em>Mies tuli junaan ruskeassa takissa.</em> “A man came into the
-train in a brown coat.”</li>
-</ul>
-
-<p>In the former example, there is clearly a man in a brown coat, whereas
-in the latter case, the coming into the train happened while wearing a
-brown coat.  Therefore, the correct analyses for these examples differ
-in their attachment of the phrase in a brown coat. These attachment
-rules are akin to those used in the Prague Dependency Treebank [?].</p>
-
-<!-- fname:browncoat1.pdf -->
-<pre><code class="language-sdparse">Mies ruskeassa takissa tuli junaan . \n Man brown in_coat came into_train .
-nmod(Mies-1, takissa-3)
-amod(takissa-3, ruskeassa-2)
-nsubj(tuli-4, Mies-1)
-nmod(tuli-4, junaan-5)
-punct(tuli-4, .-6)
-</code></pre>
-
-<!-- fname:browncoat2.pdf -->
-<pre><code class="language-sdparse">Mies tuli junaan ruskeassa takissa . \n Man came into_train brown in_coat .
-nsubj(tuli-2, Mies-1)
-nmod(tuli-2, junaan-3)
-nmod(tuli-2, takissa-5)
-amod(takissa-5, ruskeassa-4)
-punct(tuli-2, .-6)
-</code></pre>
-
 <h2 id="relative-clauses">Relative clauses</h2>
 <!-- this section originally from TDT guidelines section 5.6 -->
 
@@ -636,7 +552,7 @@ punct(auttaa-4, .-6)
 with numerals or adverbs, as their inflection behaves
 differently. Consider the following examples.</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kieltäydyin kolme<b>sta</b> donitsi<b>sta</b>.</em> “I refused three doughnuts.”</li>
@@ -680,7 +596,7 @@ punct(joku-3, .-5)
 a noun (or pronoun) to act as a noun phrase. Typical cases of this
 include adjective-headed and participle-headed noun phrases.</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>Ikkunan takana oli <b>jotain sinistä</b>.</em> “There was something blue behind the window”.</li>
@@ -723,7 +639,7 @@ punct(suositeltiin-3, .-5)
 conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
 time. Consider the following examples.</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
@@ -995,7 +911,7 @@ may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 <em>necessive structure</em>. Consider the following example.</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
@@ -1006,7 +922,7 @@ of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
 clausal subject. Instead, it is considered a necessive structure, as
 <em>on tärkeää</em> can be given a subject in the genitive form:</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
@@ -1042,7 +958,7 @@ are analyzed in a necessive manner.</p>
 <p>If it is not possible to insert a genitive subject into the clause,
 then the structure is considered a clausal subject case.</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
@@ -1082,7 +998,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-8">Examples</h4>
+<h4 id="examples-6">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -1093,7 +1009,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-9">Examples</h4>
+<h4 id="examples-7">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -1133,7 +1049,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-10">Examples</h4>
+<h4 id="examples-8">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -1209,7 +1125,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-11">Examples</h4>
+<h4 id="examples-9">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -1224,7 +1140,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-12">Examples</h4>
+<h4 id="examples-10">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
