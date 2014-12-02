@@ -1575,6 +1575,187 @@ verbs). This case is analyzed as an active structure.</p>
 rather an object. It is still understood that <em>means</em> are the object
 of <em>using</em> in this example.</p>
 
+<h2 id="morphological-distinctions">Morphological distinctions</h2>
+<!-- this section originally from TDT guidelines section 5.16 -->
+
+<p>Distinctions between certain dependency types, most commonly between
+participial modifiers (<a href=""><code>acl:partmod</code></a>) and adjectival modifiers
+(<a href=""><code>amod</code></a>) as well as adverbial modifiers (<a href=""><code>advmod</code></a>) and nominal
+modifiers (<a href=""><code>nmod</code></a>), are based on the corresponding morphological
+distinction, which can sometimes be rather difficult. This section
+describes heuristics used to make these two most common
+morphology-based distinctions. Some of these heuristics resemble those
+used in the
+<a href="http://www.aclweb.org/anthology/J/J93/J93-2004.pdf">Penn Treebank</a>.</p>
+
+<h3 id="participles-versus-adjectives">Participles versus adjectives</h3>
+<!-- this section originally from TDT guidelines section 5.16.1 -->
+
+<p>The distinction between verb participles and adjectives is difficult
+in several languages, and Finnish is no exception. In UD Finnish, this
+distinction affects the syntax annotation of mainly two kinds of
+structures. First, it affects the choice between the dependency types
+<a href=""><code>acl:partmod</code></a> (participial modifier) and <a href=""><code>amod</code></a> (adjectival
+modifier).</p>
+
+<!-- fname:amod_or_partmod.pdf -->
+<pre><code class="language-sdparse">Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
+amod/acl:partmod?(näyttelijä-2, Tunnettu-1)
+compound:nn(Travolta-4, näyttelijä-2)
+name(Travolta-4, John-3)
+</code></pre>
+
+<p>Second, it affects whether certain structures should be marked as
+copular clauses, or alternatively, as passive clauses in the present
+or past perfect form (<em>perfekti</em> and <em>pluskvamperfekti</em> in Finnish
+grammar). The same structure can be considered copular if the head
+word is an adjective, or a passive clause if the head word is
+considered a passive participle.</p>
+
+<!-- fname:copula_or_passive.pdf -->
+<pre><code class="language-sdparse">Uiminen järvessä on kielletty . \n Swimming in_lake is\/has_been forbidden .
+nsubj:cop/dobj?(kielletty-4, Uiminen-1)
+nmod(Uiminen-1, järvessä-2)
+cop/auxpass?(kielletty-4, on-3)
+punct(kielletty-4, .-5)
+</code></pre>
+
+<p>Some words have several possible readings, and it is fairly common
+that a word can be given either a participial reading or an adjectival
+one. The following heuristics are used when deciding whether a word is
+an adjective or a participle.</p>
+
+<p>If a word can receive comparative and superlative forms, it is likely
+to be an adjective. For instance, the word <em>tunnettu</em> “well-known”,
+which has both and adjectival and a participial reading, inflects in
+these forms: <em>tunnettu</em>, <em>tunnetumpi</em>, <em>tunnetuin</em>.</p>
+
+<p>If, on the other hand, the word is modified by for instance a nominal
+or adverbial modifier, it is likely to be a verb participle. For
+instance, with the word <em>tunnettu</em>, the following contexts would be
+possible:</p>
+
+<h4 id="examples-21">Examples</h4>
+
+<ul>
+  <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
+  <li>[fi] <em>kalliista autoistaan tunnettu näyttelijä</em> “actor known for his expensive cars”</li>
+</ul>
+
+<p>Thus, it is the case that the same word can act both as an adjective
+and as a verbal participle, depending on context, and the decisions
+are made on a case-by-case basis. As a third heuristic used in the
+decision, the annotators are asked to consider whether someone is
+actively doing something in the example under consideration. If so,
+then the word is likely a verbal participle, otherwise it is an
+adjective. Consider the following examples:</p>
+
+<h4 id="examples-22">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
+future husband”</li>
+  <li>[fi] <em>Maijan Turusta tuleva aviomies</em> “Maija’s husband coming from
+Turku”</li>
+</ul>
+
+<p>In the first example, the husband is not actively doing anything, he
+simply is going to be Maija’s husband in the future. Thus <em>tuleva</em> in
+this example would be considered an adjective. In the second example,
+he is actively coming from the direction of Turku, and thus <em>tuleva</em>
+here would be a verbal participle.</p>
+
+<p>As a rule of thumb, if an adjectival reading is possible in a given
+context, it is generally preferred. For instance, in <em>tunnettu
+näyttelijä</em> “well-known actor”, if it was not specified a a by whom or
+for what the actor is known, it would be assumed that the adjectival
+reading is intended.  Similarly, in <em>uiminen on kielletty</em> “swimming
+is forbidden”, if the context does not reveal that there has been
+active forbidding of the swimming (the example is genuinely
+ambiguous), then it is assumed that it is a property of the swimming
+that it is forbidden.</p>
+
+<h3 id="adverbs-versus-nouns">Adverbs versus nouns</h3>
+<!-- this section originally from TDT guidelines section 5.16.2 -->
+
+<p>Due to the fact that certain Finnish adverbs have a partial case
+inflection, it is sometimes difficult to decide whether a word is an
+inflected form of a noun (or adjective), or rather an adverb. For
+instance, the word <em>pääasiassa</em> “mainly” could be analyzed as an
+adverb, or alternatively, as an inflected form of the noun <em>pääasia</em>
+“the main thing”.</p>
+
+<p>This distinction affects the choice between the dependency types
+<a href=""><code>advmod</code></a> (adverb modifier) and <a href=""><code>nmod</code></a> (nominal modifier).
+Additionally, it can affect the choice of whether a word can be marked
+as a predicative (if it is an adverb) and thus head of the clause, or
+if it should me marked as a nominal modifier for the verb olla. In the
+latter case, the structure of the whole clause is affected by the
+decision.</p>
+
+<!-- fname:advmod_or_nommod.pdf -->
+<pre><code class="language-sdparse">Pääasiassa tämä vaikuttaa koron suuruuteen . \n Mainly this affects interest's level .
+advmod/nmod?(vaikuttaa-3, Pääasiassa-1)
+nsubj(vaikuttaa-3, tämä-2)
+nmod(vaikuttaa-3, suuruuteen-5)
+nmod:poss(suuruuteen-5, koron-4)
+punct(vaikuttaa-3, .-6)
+</code></pre>
+
+<!-- fname:predicative_or_nommod1.pdf -->
+<pre><code class="language-sdparse">Elisa ja Elias ovat naimisissa . \n Elisa and Elias are married .
+cc(Elisa-1, ja-2)
+conj(Elisa-1, Elias-3)
+nsubj:cop?(naimisissa-5, Elisa-1)
+cop?(naimisissa-5, ovat-4)
+punct(naimisissa-5, .-6)
+</code></pre>
+
+<!-- fname:predicative_or_nommod2.pdf -->
+<pre><code class="language-sdparse">Matti oli humalassa . \n Matti was drunk .
+nsubj?(oli-2, Matti-1)
+nmod?(oli-2, humalassa-3)
+punct(oli-2, .-4)
+</code></pre>
+
+<p>Again, the main source of information while annotating is the
+morphological analysis of the word, but occasionally it is possible
+that the syntactic annotation uses a reading that has been omitted.
+It is less common that both an adverb and noun reading would be
+available. Decision heuristics are needed here as well.</p>
+
+<p>The main deciding factor between a noun and an adverb reading is
+whether there exists a corresponding noun in its baseform and whether
+and to what degree the word under question is related to that
+noun. For example, in the case of <em>pääasiassa</em> “mainly” there exists a
+corresponding noun <em>pääasia</em> “main thing”, but in the case of
+<em>naimisissa</em> “married” the only candidate for such a noun would be
+<em>naiminen</em>, which could technically be translated as “marrying”, but
+is in fact more often used (usually in spoken language) in the meaning
+“having sex”. As for <em>humalassa</em> “drunk”, there is a candidate noun,
+<em>humala</em>, which can be used to refer to the state of being drunk.</p>
+
+<p>As a test used to see whether the possible candidate noun is closely
+(enough) related to the word under question, annotators are asked to
+reflect on the hypothetical baseform of the noun reading and on
+whether it could be imagined to be involved in the current
+sentence. For instance, is there a main thing (<em>pääasia</em>) in which the
+interest rate is affected? Is there a state of being married
+(“<em>naimiset</em>”) in which Elisa and Elias are? Is there a state of being
+drunk (<em>humala</em>) in which Matti is? The answer to the first two
+questions is no, and thus <em>pääasiassa</em> and <em>naimisissa</em> are considered
+adverbs. The answer to the third question, however, is yes, and
+therefore the word <em>humalassa</em> is analyzed as an inflected form of the
+noun <em>humala</em>.</p>
+
+<h4 id="references-6">References</h4>
+
+<ul>
+  <li>Marcus et al. 1993 <a href="http://www.aclweb.org/anthology/J/J93/J93-2004.pdf">Building a Large Annotated Corpus of English:
+The Penn Treebank</a>
+<em>Computational Linguistics</em> 19(2):313–330.</li>
+</ul>
+
 
       </div>
 
