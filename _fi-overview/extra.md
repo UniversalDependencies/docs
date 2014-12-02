@@ -383,9 +383,3 @@ contexts a verb and acts in an auxiliary-like manner. It should be
 noted, however, that in TDT there are few cases where it is considered
 that for instance a noun phrase has been negated or where *ei*
 functions as the counterpart of *kyllä* "yes", and is thus an adverb.
-
-# Annotating phenomena of Finnish
-<!-- this section originally from TDT guidelines section 5 -->
-
-This section gives detailed instructions on annotating certain common
-phenomena that require detailed decision rules.
