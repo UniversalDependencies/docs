@@ -331,16 +331,6 @@ not used in TDT: [`arg`]() (argument), [`comp`]() (complement),
 [`subj`]() (subject) and [`mod`]() (modifier). This makes the overall
 number of types in the Finnish SD scheme 53.
 
-## Dependency types not used in Finnish-specific SD
-<!-- this section originally from TDT guidelines section 4.1 -->
-
-(Parts of the content of this section are now found
-[here](syntax.html#unused-ud-dependency-relations))
-
-**FIGURE 1 OMITTED**
-
-**FIGURE 2 OMITTED**
-
 ## New dependency types in Finnish-specific SD
 <!-- this section originally from TDT guidelines section 4.2 -->
 
