@@ -400,12 +400,6 @@ functions as the counterpart of *kyllä* "yes", and is thus an adverb.
 This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.
 
-## Appositions and appellation modifiers
-<!-- this section originally from TDT guidelines section 5.3 -->
-
-(The content of this section of the guidelines is found
-[here](specific-syntax.html).)
-
 ## Relative clauses
 <!-- this section originally from TDT guidelines section 5.6 -->
 
