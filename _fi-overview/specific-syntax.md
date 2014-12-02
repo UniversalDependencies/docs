@@ -581,6 +581,96 @@ the essive case.
 * <http://scripta.kotus.fi/visk/sisallys.php?p=938> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1452> (in Finnish)
 
+## Attachment issues: word-order-dependent structures and ambiguity
+<!-- this section originally from TDT guidelines section 5.5 -->
+
+Occasionally determining the correct head word for a dependency may be
+difficult. Some structures are inherently ambiguous, and with some
+structures, often ones involving nominal modifiers, the dependent is
+most naturally seen to modify different sentence elements depending on
+the word-order. The following classic example is ambiguous:
+
+#### Examples
+
+* [fi] *Ammuin elefantin pyjamassani.* "I shot an elephant in my pajamas."
+
+In this example, it is possible that the shooting happened while
+wearing the pajamas, in which case the correct syntax tree would be as
+follows:
+
+<!-- fname:elephant1.pdf -->
+~~~ sdparse
+Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
+dobj(Ammuin-1, elefantin-2)
+nmod(Ammuin-1, pyjamassani-3)
+punct(Ammuin-1, .-4)
+~~~
+
+On the other hand, it is also possible that the elephant wore the
+pajamas, in which case the correct analysis is:
+
+<!-- fname:elephant2.pdf -->
+~~~ sdparse
+Ammuin elefantin pyjamassani . \n I_shot an_elephant in_my_pajamas .
+dobj(Ammuin-1, elefantin-2)
+nmod(elefantin-2, pyjamassani-3)
+punct(Ammuin-1, .-4)
+~~~
+
+Ambiguities such as this one are resolved as far as possible, and also
+context is used to determine the correct reading where applicable.
+That is, if in the context there exists another sentence which makes
+it clear whether the shooter or the elephant wore the pajamas, then
+that sentence is used to disambiguate the structure.
+
+If, however, the ambiguity cannot be resolved even given context, or
+if an element seems to modify two or more elements simultaneously,
+then the attachment higher in the tree is chosen. In the case of the
+previous example, this would be the reading in which the shooting
+happens wearing the pajamas.
+
+In some structures, the most natural analysis may be word order
+dependent. Consider the following two examples.
+
+#### Examples
+
+* [fi] *Mies ruskeassa takissa tuli junaan.* "A man in a brown coat
+  came into the train."
+* [fi] *Mies tuli junaan ruskeassa takissa.* "A man came into the
+  train in a brown coat."
+
+In the former example, there is clearly a man in a brown coat, whereas
+in the latter case, the coming into the train happened while wearing a
+brown coat.  Therefore, the correct analyses for these examples differ
+in their attachment of the phrase in a brown coat. These attachment
+rules are akin to those used in the
+[Prague Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/pdtiovam.pdf).
+
+<!-- fname:browncoat1.pdf -->
+~~~ sdparse
+Mies ruskeassa takissa tuli junaan . \n Man brown in_coat came into_train .
+nmod(Mies-1, takissa-3)
+amod(takissa-3, ruskeassa-2)
+nsubj(tuli-4, Mies-1)
+nmod(tuli-4, junaan-5)
+punct(tuli-4, .-6)
+~~~
+
+<!-- fname:browncoat2.pdf -->
+~~~ sdparse
+Mies tuli junaan ruskeassa takissa . \n Man came into_train brown in_coat .
+nsubj(tuli-2, Mies-1)
+nmod(tuli-2, junaan-3)
+nmod(tuli-2, takissa-5)
+amod(takissa-5, ruskeassa-4)
+punct(tuli-2, .-6)
+~~~
+
+#### References
+
+* Hajič 1998 [Building a Syntactically Annotated Corpus: The Prague
+  Dependency Treebank](https://ufal.mff.cuni.cz/pdt/Corpora/PDT_1.0/References/Czech_PDT.pdf) [pdf]
+
 ## Comparatives and superlatives
 <!-- this section originally from TDT guidelines section 5.9 -->
 
