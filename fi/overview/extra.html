@@ -408,43 +408,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="noun-phrases-without-nouns">Noun phrases without nouns</h2>
-<!-- this section originally from TDT guidelines section 5.8 -->
-
-<p>In UD Finnish, it is possible for a phrase with a head word other than
-a noun (or pronoun) to act as a noun phrase. Typical cases of this
-include adjective-headed and participle-headed noun phrases.</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Ikkunan takana oli <b>jotain sinistä</b>.</em> “There was something blue behind the window”.</li>
-  <li>[fi] <em><b>Kukista kaunein</b> oli punainen ruusu.</em> “The most beautiful of the flowers was a red rose.”</li>
-  <li>[fi] <em><b>Kirjaa kirjoittavat</b> sanoivat samaa.</em> “The (ones) writing a book said the same.”</li>
-  <li>[fi] <em><b>Onnettomuudessa olleille</b> suositeltiin terapiaa.</em> “Therapy was recommended for the (ones) been in the accident.”</li>
-</ul>
-
-<p>These structures are analyzed as standard noun phrases. For instance,
-they can be marked as the subject of a clause, or a nominal modifier,
-regardless of the part-of-speech of the head word.</p>
-
-<!-- fname:jotain_sinista.pdf -->
-<pre><code class="language-sdparse">Ikkunan takana oli jotain sinistä . \n Window behind was something blue .
-case(Ikkunan-1, takana-2)
-nmod(oli-3, Ikkunan-1)
-nsubj(oli-3, sinistä-5)
-det(sinistä-5, jotain-4)
-punct(oli-3, .-6)
-</code></pre>
-
-<!-- fname:onnettomuudessa_olleille.pdf -->
-<pre><code class="language-sdparse">Onnettomuudessa olleille suositeltiin terapiaa . \n In_accident been(_ones) was_recommended therapy .
-nmod(olleille-2, Onnettomuudessa-1)
-nmod(suositeltiin-3, olleille-2)
-dobj(suositeltiin-3, terapiaa-4)
-punct(suositeltiin-3, .-5)
-</code></pre>
-
 <h2 id="comparatives-and-superlatives">Comparatives and superlatives</h2>
 <!-- this section originally from TDT guidelines section 5.9 -->
 
@@ -458,7 +421,7 @@ punct(suositeltiin-3, .-5)
 conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
 time. Consider the following examples.</p>
 
-<h4 id="examples-1">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
@@ -730,7 +693,7 @@ may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 <em>necessive structure</em>. Consider the following example.</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
@@ -741,7 +704,7 @@ of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
 clausal subject. Instead, it is considered a necessive structure, as
 <em>on tärkeää</em> can be given a subject in the genitive form:</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
@@ -777,7 +740,7 @@ are analyzed in a necessive manner.</p>
 <p>If it is not possible to insert a genitive subject into the clause,
 then the structure is considered a clausal subject case.</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
@@ -817,7 +780,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -828,7 +791,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -868,7 +831,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-6">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -944,7 +907,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-8">Examples</h4>
+<h4 id="examples-7">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -959,7 +922,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-9">Examples</h4>
+<h4 id="examples-8">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
