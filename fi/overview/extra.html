@@ -408,74 +408,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="comparatives-and-superlatives">Comparatives and superlatives</h2>
-<!-- this section originally from TDT guidelines section 5.9 -->
-
-<p>(The content of this section of the guidelines is found
-<a href="specific-syntax.html">here</a>.)</p>
-
-<h2 id="subordinate-clauses-and-expressions-of-time">Subordinate clauses and expressions of time</h2>
-<!-- this section originally from TDT guidelines section 5.10 -->
-
-<p>Many subordinate clauses, especially ones starting with the
-conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
-time. Consider the following examples.</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
-away, when I have hoovered.”</li>
-  <li>[fi] <em>Tapasin hänet sen jälkeen kun olin tullut kaupasta.</em> “I met
-him after I had come from the store.”</li>
-</ul>
-
-<p>It is often unclear where these time adverbials should be attached. On
-the one hand, they seem to modify the main clause, expressing when the
-action of the main clause takes place. On the other hand, they could
-also modify the subordinate clause, being a part of the time condition
-given in the subordinate clause.  A third option would be to make the
-time adverbial depend on the subordinating conjunction, to make the
-whole expression a two-part conjunction. The third option has some
-intuitive appeal, but this would make the number of subordinating
-conjunctions excessively large.</p>
-
-<p>In UD Finnish, a very limited number of these cases are considered
-especially tightly bound with the subordinating conjunction. These
-cases are considered multi-part subordinating conjunctions and listed
-as such in Section 2.26. Otherwise, these adverbials are consistently
-made dependents of the subordinate clause.</p>
-
-<!-- fname:subordinate+time_adverbial.pdf -->
-<pre><code class="language-sdparse">Tulen sinne heti , kun pääsen . \n I_will_come there right_away , when I_can .
-advmod(Tulen-1, sinne-2)
-advcl(Tulen-1, pääsen-6)
-advmod(pääsen-6, heti-3)
-punct(pääsen-6, ,-4)
-mark(pääsen-6, kun-5)
-punct(Tulen-1, .-7)
-</code></pre>
-
-<p>However, it should be noted that all subordinate clauses themselves
-are not dependents of the main verb. As discussed in Section 2.10,
-clausal complements can depend on nouns, pronouns or adverbs. Similar
-situations can occur with subordinate clauses that are modifiers, and
-they are also analyzed similarly. Most commonly this occurs with the
-pronoun <em>se</em> “it”.</p>
-
-<!-- fname:se_kun.pdf -->
-<pre><code class="language-sdparse">Hänet säikäytti se , kun poika putosi hevosen selästä . \n Him scared it , when boy fell horse's from_back .
-dobj(säikäytti-2, Hänet-1)
-nsubj(säikäytti-2, se-3)
-advcl(se-3, putosi-7)
-punct(putosi-7, ,-4)
-mark(putosi-7, kun-5)
-nsubj(putosi-7, poika-6)
-nmod(putosi-7, selästä-9)
-nmod:poss(selästä-9, hevosen-8)
-punct(säikäytti-2, .-10)
-</code></pre>
-
 <h2 id="subjects-and-objects-of-a-noun">Subjects and objects of a noun</h2>
 <!-- this section originally from TDT guidelines section 5.11 -->
 
@@ -693,7 +625,7 @@ may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 <em>necessive structure</em>. Consider the following example.</p>
 
-<h4 id="examples-1">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
@@ -704,7 +636,7 @@ of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
 clausal subject. Instead, it is considered a necessive structure, as
 <em>on tärkeää</em> can be given a subject in the genitive form:</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
@@ -740,7 +672,7 @@ are analyzed in a necessive manner.</p>
 <p>If it is not possible to insert a genitive subject into the clause,
 then the structure is considered a clausal subject case.</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
@@ -780,7 +712,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -791,7 +723,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -831,7 +763,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -907,7 +839,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-6">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -922,7 +854,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-8">Examples</h4>
+<h4 id="examples-7">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s
