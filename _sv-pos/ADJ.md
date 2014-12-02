@@ -4,4 +4,14 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-This is a test.
+### Definition
+
+Adjectives are words that typically modify nouns and specify their
+properties or attributes.
+
+### Examples
+
+- _stort_
+- _gammalt_
+- _grönt_
+- _ofattbart_
