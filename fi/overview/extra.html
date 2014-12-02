@@ -349,16 +349,6 @@ not used in TDT: <a href=""><code>arg</code></a> (argument), <a href=""><code>co
 <a href=""><code>subj</code></a> (subject) and <a href=""><code>mod</code></a> (modifier). This makes the overall
 number of types in the Finnish SD scheme 53.</p>
 
-<h2 id="dependency-types-not-used-in-finnish-specific-sd">Dependency types not used in Finnish-specific SD</h2>
-<!-- this section originally from TDT guidelines section 4.1 -->
-
-<p>(Parts of the content of this section are now found
-<a href="syntax.html#unused-ud-dependency-relations">here</a>)</p>
-
-<p><strong>FIGURE 1 OMITTED</strong></p>
-
-<p><strong>FIGURE 2 OMITTED</strong></p>
-
 <h2 id="new-dependency-types-in-finnish-specific-sd">New dependency types in Finnish-specific SD</h2>
 <!-- this section originally from TDT guidelines section 4.2 -->
 
@@ -418,96 +408,6 @@ functions as the counterpart of <em>kyllä</em> “yes”, and is thus an adverb
 <p>This section gives detailed instructions on annotating certain common
 phenomena that require detailed decision rules.</p>
 
-<h2 id="units-measures-and-amounts">Units, measures and amounts</h2>
-<!-- this section originally from TDT guidelines section 5.7 -->
-
-<p>There are several ways to express amounts. The most simple case is
-expressing amount with numbers: <em>three apples</em>, <em>sixteen litres</em>.</p>
-
-<!-- fname:amount_num.pdf -->
-<pre><code class="language-sdparse">kolme litraa \n three litres
-nummod(litraa-2, kolme-1)
-</code></pre>
-
-<p>The semantic head, <em>litraa</em> “litres” in the above example, is selected
-as the head, and the number is marked as a numeral modifier, <a href=""><code>nummod</code></a>
-(Morpho-syntactically, the number <em>kolme</em> “three” could also be
-considered the head, as it determines the case used for the word
-<em>litra</em> “litre”). For more information on the internal structure of
-numerical expressions, see Section 5.12.</p>
-
-<p>Amount can also be expressed with adverbs. This, too, is handled by
-selecting the semantic head as the head of the structure, that is, the
-noun.</p>
-
-<!-- fname:amount_advmod.pdf -->
-<pre><code class="language-sdparse">paljon maitoa \n a_lot_of milk
-advmod(maitoa-2, paljon-1)
-</code></pre>
-
-<p>In addition, amount can be expressed using a nominal, often in
-expressions such as <em>kuppi kahvia</em> “a cup of coffee” or <em>joku pojista</em>
-lit. <em>someone from the boys</em> “one of the boys”. In these cases, the
-first nominal is marked as the head.</p>
-
-<!-- fname:amount_kuppi1.pdf -->
-<pre><code class="language-sdparse">Hän joi kupin kahvia . \n He drank a_cup_of coffee .
-nsubj(joi-2, Hän-1)
-dobj(joi-2, kupin-3)
-nmod(kupin-3, kahvia-4)
-punct(joi-2, .-5)
-</code></pre>
-
-<!-- fname:amount_joku.pdf -->
-<pre><code class="language-sdparse">Joku pojista voisi auttaa minua . \n Someone from_boys could help me .
-nmod(Joku-1, pojista-2)
-nsubj(auttaa-4, Joku-1)
-aux(auttaa-4, voisi-3)
-dobj(auttaa-4, minua-5)
-punct(auttaa-4, .-6)
-</code></pre>
-
-<p>These structures are considered different from the amount expressions
-with numerals or adverbs, as their inflection behaves
-differently. Consider the following examples.</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li>[fi] <em>Kieltäydyin kolme<b>sta</b> donitsi<b>sta</b>.</em> “I refused three doughnuts.”</li>
-  <li>[fi] <em>Kieltäydyin kupi<b>sta</b> kahvia.</em> “I refused a cup of coffee.”</li>
-</ul>
-
-<p>In the first example, both parts of the amount expression inflect as
-required by the verb <em>kieltäytyä</em> “to refuse”, whereas in the latter
-case, only the first nominal inflects, signaling that the head, the
-thing refused in this expression, is the cup.  The structure <em>Joku
-pojista</em> behaves and is annotated similarly.</p>
-
-<p>Two things should be noted about the above analysis of <em>joku pojista</em>
-lit. <em>someone from the boys</em> “one of the boys”. First, this analysis
-leads to <em>yksi pojista</em> “one of the boys” being analyzed similarly to
-<em>joku pojista</em> rather than <em>yksi poika</em> “one boy”.</p>
-
-<!-- fname:amount_yksi_pojista.pdf -->
-<pre><code class="language-sdparse">Yksi pojista juoksi ulos . \n One from_boys ran out .
-nsubj(juoksi-3, Yksi-1)
-nmod(Yksi-1, pojista-2)
-advmod(juoksi-3, ulos-4)
-punct(juoksi-3, .-5)
-</code></pre>
-
-<p>Second, this analysis allows a structure like <em>joku pojista</em> to act as
-a predicative, as the head of the expression is in nominative.</p>
-
-<!-- fname:amount_joku_pred.pdf -->
-<pre><code class="language-sdparse">Se oli joku pojista . \n It was someone from_boys .
-nsubj:cop(joku-3, Se-1)
-cop(joku-3, oli-2)
-nmod(joku-3, pojista-4)
-punct(joku-3, .-5)
-</code></pre>
-
 <h2 id="noun-phrases-without-nouns">Noun phrases without nouns</h2>
 <!-- this section originally from TDT guidelines section 5.8 -->
 
@@ -515,7 +415,7 @@ punct(joku-3, .-5)
 a noun (or pronoun) to act as a noun phrase. Typical cases of this
 include adjective-headed and participle-headed noun phrases.</p>
 
-<h4 id="examples-1">Examples</h4>
+<h4 id="examples">Examples</h4>
 
 <ul>
   <li>[fi] <em>Ikkunan takana oli <b>jotain sinistä</b>.</em> “There was something blue behind the window”.</li>
@@ -558,7 +458,7 @@ punct(suositeltiin-3, .-5)
 conjunction <em>kun</em> “when”, come with an adverbial, usually expressing
 time. Consider the following examples.</p>
 
-<h4 id="examples-2">Examples</h4>
+<h4 id="examples-1">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tulen sinne heti, kun olen imuroinut.</em> “I’ll come there right
@@ -830,7 +730,7 @@ may be difficult to determine whether a clause is, in fact, the
 subject of another clause, as the construct is similar to that of a
 <em>necessive structure</em>. Consider the following example.</p>
 
-<h4 id="examples-3">Examples</h4>
+<h4 id="examples-2">Examples</h4>
 
 <ul>
   <li>[fi] <em>On tärkeää syödä hyvin.</em> “It is important to eat well.”</li>
@@ -841,7 +741,7 @@ of <em>on tärkeää</em>. However, in UD Finnish, this is not considered a
 clausal subject. Instead, it is considered a necessive structure, as
 <em>on tärkeää</em> can be given a subject in the genitive form:</p>
 
-<h4 id="examples-4">Examples</h4>
+<h4 id="examples-3">Examples</h4>
 
 <ul>
   <li>[fi] <em>Hänen on tärkeää syödä hyvin.</em> “It is important for him to eat
@@ -877,7 +777,7 @@ are analyzed in a necessive manner.</p>
 <p>If it is not possible to insert a genitive subject into the clause,
 then the structure is considered a clausal subject case.</p>
 
-<h4 id="examples-5">Examples</h4>
+<h4 id="examples-4">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Hänen on mahtavaa käydä ulkona.</em> “It is splendid for him to
@@ -917,7 +817,7 @@ form that is used in constructions considered passive. However, there
 are at least two particular phenomena that deserve special attention.
 First, the <em>on tehtävä</em> -structure is worth examining:</p>
 
-<h4 id="examples-6">Examples</h4>
+<h4 id="examples-5">Examples</h4>
 
 <ul>
   <li>[fi] <em>Tämä työ on tehtävä tänään.</em> “This work has to be done today.”</li>
@@ -928,7 +828,7 @@ First, the <em>on tehtävä</em> -structure is worth examining:</p>
 perhaps point towards to the subjectless version being zeroth person
 after all.</p>
 
-<h4 id="examples-7">Examples</h4>
+<h4 id="examples-6">Examples</h4>
 
 <ul>
   <li>[fi] <em>Matin on tehtävä työ tänään.</em> “Matti has to do the work today.”</li>
@@ -968,7 +868,7 @@ general, it is assumed that the structure is passive.</p>
 
 <p>Unlike on tehtävä, on tehtävissä cannot take a genitive form subject:</p>
 
-<h4 id="examples-8">Examples</h4>
+<h4 id="examples-7">Examples</h4>
 
 <ul>
   <li>[fi] *<em>Minun on tehtävissä tämä.</em> “*I this is doable.”</li>
@@ -1044,7 +944,7 @@ or adverbial modifier, it is likely to be a verb participle. For
 instance, with the word <em>tunnettu</em>, the following contexts would be
 possible:</p>
 
-<h4 id="examples-9">Examples</h4>
+<h4 id="examples-8">Examples</h4>
 
 <ul>
   <li>[fi] <em>laajalti tunnettu näyttelijä</em> “widely known actor”</li>
@@ -1059,7 +959,7 @@ actively doing something in the example under consideration. If so,
 then the word is likely a verbal participle, otherwise it is an
 adjective. Consider the following examples:</p>
 
-<h4 id="examples-10">Examples</h4>
+<h4 id="examples-9">Examples</h4>
 
 <ul>
   <li>[fi] <em>Maijan tuleva aviomies</em> lit. <em>Maija’s coming husband</em> “Maija’s

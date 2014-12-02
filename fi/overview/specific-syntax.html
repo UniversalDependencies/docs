@@ -798,6 +798,96 @@ advmod(seisoo-7, tuolla-8)
 punct(seisoo-7, .-9)
 </code></pre>
 
+<h2 id="units-measures-and-amounts">Units, measures and amounts</h2>
+<!-- this section originally from TDT guidelines section 5.7 -->
+
+<p>There are several ways to express amounts. The most simple case is
+expressing amount with numbers: <em>three apples</em>, <em>sixteen litres</em>.</p>
+
+<!-- fname:amount_num.pdf -->
+<pre><code class="language-sdparse">kolme litraa \n three litres
+nummod(litraa-2, kolme-1)
+</code></pre>
+
+<p>The semantic head, <em>litraa</em> “litres” in the above example, is selected
+as the head, and the number is marked as a numeral modifier, <a href=""><code>nummod</code></a>
+(Morpho-syntactically, the number <em>kolme</em> “three” could also be
+considered the head, as it determines the case used for the word
+<em>litra</em> “litre”). For more information on the internal structure of
+numerical expressions, see Section 5.12.</p>
+
+<p>Amount can also be expressed with adverbs. This, too, is handled by
+selecting the semantic head as the head of the structure, that is, the
+noun.</p>
+
+<!-- fname:amount_advmod.pdf -->
+<pre><code class="language-sdparse">paljon maitoa \n a_lot_of milk
+advmod(maitoa-2, paljon-1)
+</code></pre>
+
+<p>In addition, amount can be expressed using a nominal, often in
+expressions such as <em>kuppi kahvia</em> “a cup of coffee” or <em>joku pojista</em>
+lit. <em>someone from the boys</em> “one of the boys”. In these cases, the
+first nominal is marked as the head.</p>
+
+<!-- fname:amount_kuppi1.pdf -->
+<pre><code class="language-sdparse">Hän joi kupin kahvia . \n He drank a_cup_of coffee .
+nsubj(joi-2, Hän-1)
+dobj(joi-2, kupin-3)
+nmod(kupin-3, kahvia-4)
+punct(joi-2, .-5)
+</code></pre>
+
+<!-- fname:amount_joku.pdf -->
+<pre><code class="language-sdparse">Joku pojista voisi auttaa minua . \n Someone from_boys could help me .
+nmod(Joku-1, pojista-2)
+nsubj(auttaa-4, Joku-1)
+aux(auttaa-4, voisi-3)
+dobj(auttaa-4, minua-5)
+punct(auttaa-4, .-6)
+</code></pre>
+
+<p>These structures are considered different from the amount expressions
+with numerals or adverbs, as their inflection behaves
+differently. Consider the following examples.</p>
+
+<h4 id="examples-10">Examples</h4>
+
+<ul>
+  <li>[fi] <em>Kieltäydyin kolme<b>sta</b> donitsi<b>sta</b>.</em> “I refused three doughnuts.”</li>
+  <li>[fi] <em>Kieltäydyin kupi<b>sta</b> kahvia.</em> “I refused a cup of coffee.”</li>
+</ul>
+
+<p>In the first example, both parts of the amount expression inflect as
+required by the verb <em>kieltäytyä</em> “to refuse”, whereas in the latter
+case, only the first nominal inflects, signaling that the head, the
+thing refused in this expression, is the cup.  The structure <em>Joku
+pojista</em> behaves and is annotated similarly.</p>
+
+<p>Two things should be noted about the above analysis of <em>joku pojista</em>
+lit. <em>someone from the boys</em> “one of the boys”. First, this analysis
+leads to <em>yksi pojista</em> “one of the boys” being analyzed similarly to
+<em>joku pojista</em> rather than <em>yksi poika</em> “one boy”.</p>
+
+<!-- fname:amount_yksi_pojista.pdf -->
+<pre><code class="language-sdparse">Yksi pojista juoksi ulos . \n One from_boys ran out .
+nsubj(juoksi-3, Yksi-1)
+nmod(Yksi-1, pojista-2)
+advmod(juoksi-3, ulos-4)
+punct(juoksi-3, .-5)
+</code></pre>
+
+<p>Second, this analysis allows a structure like <em>joku pojista</em> to act as
+a predicative, as the head of the expression is in nominative.</p>
+
+<!-- fname:amount_joku_pred.pdf -->
+<pre><code class="language-sdparse">Se oli joku pojista . \n It was someone from_boys .
+nsubj:cop(joku-3, Se-1)
+cop(joku-3, oli-2)
+nmod(joku-3, pojista-4)
+punct(joku-3, .-5)
+</code></pre>
+
 <h2 id="comparatives-and-superlatives">Comparatives and superlatives</h2>
 <!-- this section originally from TDT guidelines section 5.9 -->
 
@@ -957,7 +1047,7 @@ modifier can be turned into a copular clause in the following
 fashion, then the genitive modifier should modify the superlative or
 ordinal number.</p>
 
-<h4 id="examples-10">Examples</h4>
+<h4 id="examples-11">Examples</h4>
 
 <ul>
   <li>[fi] <em>Kokki on Suomen paras</em> “The cook is the best in Finland”</li>
@@ -966,7 +1056,7 @@ ordinal number.</p>
 
 <p>are perfectly valid, but</p>
 
-<h4 id="examples-11">Examples</h4>
+<h4 id="examples-12">Examples</h4>
 
 <ul>
   <li>[fi] ?<em>Vihollinen on rusakon pahin</em> ?”The enemy is the worst of
