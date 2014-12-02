@@ -399,14 +399,14 @@ include adjective-headed and participle-headed noun phrases.
 
 #### Examples
 
-* [fi] *Ikkunan takana oli <b>jotain sinistä</b>.* "There was something blue behind the window".
-* [fi] *<b>Kukista kaunein</b> oli punainen ruusu.* "The most beautiful of the flowers was a red rose."
-* [fi] *<b>Kirjaa kirjoittavat</b> sanoivat samaa.* "The (ones) writing a book said the same."
-* [fi] *<b>Onnettomuudessa olleille</b> suositeltiin terapiaa.* "Therapy was recommended for the (ones) been in the accident."
+* [fi] *Ikkunan takana oli <b>jotain sinistä</b>.* "There was <b>something blue</b> behind the window".
+* [fi] *<b>Kukista kaunein</b> oli punainen ruusu.* "<b>The most beautiful of the flowers</b> was a red rose."
+* [fi] *<b>Kirjaa kirjoittavat</b> sanoivat samaa.* "<b>The (ones) writing a book</b> said the same."
+* [fi] *<b>Onnettomuudessa olleille</b> suositeltiin terapiaa.* "Therapy was recommended for <b>the (ones) been in the accident</b>."
 
 These structures are analyzed as standard noun phrases. For instance,
 they can be marked as the subject of a clause, or a nominal modifier,
-regardless of the part-of-speech of the head word.
+regardless of the part of speech of the head word.
 
 <!-- fname:jotain_sinista.pdf -->
 ~~~ sdparse
