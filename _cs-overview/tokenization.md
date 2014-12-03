@@ -11,7 +11,7 @@ The low-level tokenization of the Czech UD treebank follows the tokenization of 
 
 * In general, tokens are delimited by whitespace.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
-  This includes the following special cases:
+  Some special cases worth mentioning:
   * An abbreviation marked by a period, as in *atd.* “etc.”, becomes two tokens, *<b>atd</b>* and *<b>.</b>*. The same holds for ordinal numbers *(<b>1.</b>)*
   * A compound containing a hyphen becomes three tokens (two words and the hyphen), as in *česko-slovenský* “Czech-Slovak”, *česko-německý* “Czech-German” or *německo-český* “German-Czech”.
   * Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
@@ -21,24 +21,24 @@ The low-level tokenization of the Czech UD treebank follows the tokenization of 
 
 In Czech there are fused words that correspond to multiple syntactic words.
 The original PDT data use special part-of-speech tags to identify fused words,
-nevertheless the fused token is not split in PDT, it corresponds to just one node in the dependency tree.
-(Note: An exception was splitting of *aby* and *kdyby* in PDT 1.0 but it was abandoned in later versions.)
+nevertheless the fused token is not split in PDT and it corresponds to just one node in the dependency tree.
+(Note: An exception was the splitting of *aby* and *kdyby* in PDT 1.0 but it was abandoned in later versions.)
 
-In contrast, the UD format requires that certain types of fused words be split (see also
-<a href="../../u/overview/tokenization.html">universal tokenization</a>).
+In contrast, the UD format requires that certain types of fused words be split.
+We say that there is a multi-word token consisting of several syntactic words, each having its own node in the tree
+(see also <a href="../../u/overview/tokenization.html">universal tokenization</a>).
+
+### Preposition + Personal Pronoun *on* in the Accusative *(něj)*
+
+* _proň_ = _pro něj_ = “for him”
+* _naň_ = _na něj_ = “on him”
+* _oň_ = _o něj_ = “about him”
+* _zaň_ = _za něj_ = “behind him”
+
+Note: There are analogically fused words containing a preposition and the interrogative pronoun _co_ “what”.
+In this case, the resulting token is an interrogative adverb and it is not split: _proč_ “why”, _nač, oč, zač_ “for what”.
 
 ## TO DO
-
-Stažené tvary v češtině
-
-1. předložka + osobní zájmeno "on" ("něj")
-
-proň = pro něj = for him
-naň = na něj = on him
-oň = o něj = about him
-zaň = za něj = behind him
-
-Poznámka: Analogicky stažené tvary předložky a tázacího zájmena "co" se nerozdělují, protože výsledkem je příslovce: proč, nač, oč, zač.
 
 2. příčestí, zájmeno nebo podřadící spojka + pomocné sloveso "být" ve 2. osobě jednotného čísla ("jsi")
 
