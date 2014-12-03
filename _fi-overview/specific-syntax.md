@@ -94,7 +94,12 @@ the object are for instance:
 Passive verbforms take a direct object and not a passive subject, as
 in for instance English.
 
-**FIGURE MISSING**
+~~~ sdparse
+Oppitunti valmisteltiin huolellisesti . \n Lesson was_prepared carefully .
+dobj(valmisteltiin, Oppitunti)
+advmod(valmisteltiin, huolellisesti)
+punct(valmisteltiin, .)
+~~~
 
 However, there are certain verbs, so called *derived passives*
 [ISK, §336](http://scripta.kotus.fi/visk/sisallys.php?p=336), which
