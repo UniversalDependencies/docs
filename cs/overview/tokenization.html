@@ -36,8 +36,33 @@
 
           <h1 id="tokenization">Tokenization</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for tokenization.</p>
+<p>The low-level tokenization of the Czech UD treebank follows the tokenization of the
+<a href="http://ufal.mff.cuni.cz/pdt3.0">Prague Dependency Treebank 3.0</a> (PDT):</p>
+
+<ul>
+  <li>In general, tokens are delimited by whitespace.</li>
+  <li>Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
+This includes the following special cases:
+    <ul>
+      <li>An abbreviation marked by a period, as in <em>atd.</em> “etc.”, becomes two tokens, <em><b>atd</b></em> and <em><b>.</b></em>. The same holds for ordinal numbers <em>(<b>1.</b>)</em></li>
+      <li>A compound containing a hyphen becomes three tokens (two words and the hyphen), as in <em>česko-slovenský</em> “Czech-Slovak”, <em>česko-německý</em> “Czech-German” or <em>německo-český</em> “German-Czech”.</li>
+      <li>Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. <em><b>2.1</b></em>.</li>
+    </ul>
+  </li>
+  <li>Most of the time, every punctuation character constitutes a token of its own. Thus <em><b>…</b></em> will become three tokens.</li>
+</ul>
+
+<h2 id="words-and-tokens">Words and Tokens</h2>
+
+<p>In Czech there are fused words that correspond to multiple syntactic words.
+The original PDT data use special part-of-speech tags to identify fused words,
+nevertheless the fused token is not split in PDT, it corresponds to just one node in the dependency tree.
+(Note: An exception was splitting of <em>aby</em> and <em>kdyby</em> in PDT 1.0 but it was abandoned in later versions.)</p>
+
+<p>In contrast, the UD format requires that certain types of fused words be split (see also
+<a href="../../u/overview/tokenization.html">universal tokenization</a>).</p>
+
+<h2 id="to-do">TO DO</h2>
 
 <p>Stažené tvary v češtině</p>
 
