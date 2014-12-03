@@ -20,11 +20,6 @@ The low-level tokenization of the Czech UD treebank follows the tokenization of 
   * Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
 * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>...</b>* will become three tokens.
 
-Rozdělování je v tomto případě výhodné kvůli statistickým modelům, ale není nezbytné pro zachycení syntaxe.
-V PDT se to tak nicméně tradičně dělá. Je vhodné na to upozornit, protože tím dostáváme jinak neexistující
-tvar přídavného jména "česko-", "německo-" atd., který potřebuje svou vlastní morfologickou značku.
-Složeniny bez spojovníku ("středopravý") se nerozdělují.
-
 ## Words and Tokens
 
 In Czech there are fused words that correspond to multiple syntactic words.
