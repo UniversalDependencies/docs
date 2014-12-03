@@ -38,36 +38,38 @@ We say that there is a multi-word token consisting of several syntactic words, e
 Note: There are analogically fused words containing a preposition and the interrogative pronoun _co_ “what”.
 In this case, the resulting token is an interrogative adverb and it is not split: _proč_ “why”, _nač, oč, zač_ “for what”.
 
+### Participle, Pronoun or Subordinating Conjunction + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
+
+* _udělals_ = _udělal jsi_ = “you have done”
+* _tys_ = _ty jsi_ = “you have”
+* _ses_ = _jsi se (se jsi)_ = “you have … yourself”
+* _sis_ = _jsi si (si jsi)_ = “you have … yourself”
+* _cos_ = _co jsi_ = “what you have”
+* _tos_ = _to jsi_ = “you have … that”
+* _žes_ = _že jsi_ = “that you have”
+
+Note: This rule does not include the words _bys, abys_ and _kdybys._
+They resemble the words above but _bys_ is an independent form of the auxiliary verb _být_ “to be”,
+and _abys_ and _kdybys_ are in fact fused words, but they were formed using _bys,_ not _jsi._
+
+### Subordinating Conjunction *aby* or *kdyby*
+
+* _abych_ = _aby bych_ = “so that I would”
+* _abys_ = _aby bys_ = “so that you would”
+* _aby_ = _aby by_ = “so that he/she/it/they would”
+* _abychom_ = _aby bychom_ = “so that we would”
+* _abyste_ = _aby byste_ = “so that you would”
+* _kdybych_ = _když bych_ = “if I were”
+* _kdybys_ = _když bys_ = “if you were”
+* _kdyby_ = _když by_ = “if he/she/it/they were”
+* _kdybychom_ = _když bychom_ = “if we were”
+* _kdybyste_ = _když byste_ = “if you were”
+
+Note: It is not clear even to a native speaker what exactly the first word should be _(aby, až, kdyby_ or _když)._
+It is a conjunction and it is never used without the _by_ part.
+However, it is clear that the second word is a conditional form of _být._
+
 ## TO DO
-
-2. příčestí, zájmeno nebo podřadící spojka + pomocné sloveso "být" ve 2. osobě jednotného čísla ("jsi")
-
-udělals = udělal jsi = you have done
-tys = ty jsi = you have
-ses = jsi se (se jsi) = you have ... yourself
-sis = jsi si (si jsi) = you have ... yourself
-cos = co jsi = what you have
-tos = to jsi = you have ... that
-žes = že jsi = that you have
-
-Poznámka: Toto pravidlo se nevztahuje na slova "bys", "abys" a "kdybys". Vypadají sice podobně, ale "bys" je samostatným tvarem pomocného slovesa "být" a "abys" a "kdybys" sice jsou stažené tvary, ale vznikly z "bys", ne ze "jsi".
-
-3. podřadící spojka "aby" nebo "kdyby" + podmiňovací tvar pomocného slovesa "být"
-
-Zdá se mi, že etymologicky jde o spojení "až+by" a "když+by", ale nemám to ověřené v literatuře.
-Asi je ale přirozenější vidět v datech "aby+by" a "kdyby+by", jako to bylo v PDT 1.0.
-Co na to ostatní?
-
-abych = až bych = so that I would
-abys = až bys = so that you would
-aby = až by = so that he/she/it/they would
-abychom = až bychom = so that we would
-abyste = až byste = so that you would
-kdybych = když bych = if I would
-kdybys = když bys = if you would
-kdyby = když by = if he/she/it/they would
-kdybychom = když bychom = if we would
-kdybyste = když byste = if you would
 
 4. sloveso + spojka "neboť"
 
