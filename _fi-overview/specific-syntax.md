@@ -690,8 +690,6 @@ adjacent to it. In UD Finnish, the actual reference for the relative
 clause is chosen as the head of the [`acl:relcl`]() dependency
 wherever possible.
 
-(**TODO**: update example to remove `rel`)
-
 <!-- fname:relative_ungrammatical.pdf -->
 ~~~ sdparse
 Annoin hänelle kirjan , joka sitä oli pyytänyt . \n I_gave him the_book , who it had asked_for .
@@ -699,7 +697,7 @@ nmod(Annoin-1, hänelle-2)
 dobj(Annoin-1, kirjan-3)
 acl:relcl(hänelle-2, pyytänyt-8)
 punct(pyytänyt-8, ,-4)
-rel(pyytänyt-8, joka-5)
+nsubj(pyytänyt-8, joka-5)
 dobj(pyytänyt-8, sitä-6)
 aux(pyytänyt-8, oli-7)
 punct(Annoin-1, .-9)
@@ -713,14 +711,14 @@ types (e.g. `rel`) to mark the relativizer. In particular, in the TDT
 corpus the basic dependency layer used `rel` and the second annotation
 layer identified the actual syntactic role.)
 
-(**TODO**: update example to remove `rel`)
+(**TODO**: example may not follow the UD definitions, check "xobj")
 
 <!-- fname:rel_projectivity1.pdf -->
 ~~~ sdparse
 Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
 acl:relcl(Lapsi-1, sai-5)
 punct(sai-5, ,-2)
-rel(sai-5, jonka-3)
+nsubj(itkemään-6, jonka-3)
 nsubj(sai-5, hän-4)
 ccomp:nf(sai-5, itkemään-6)
 punct(sai-5, ,-7)
@@ -746,8 +744,6 @@ Note also that the dependent of this dependency is always the
 head of the relative phrase, which may or may not be the relative word
 itself.
 
-(**TODO**: update example to remove `rel`)
-
 <!-- fname:relative_jonka.pdf -->
 ~~~ sdparse
 Nainen , jonka auto hajosi , seisoo tuolla . \n Lady , whose car broke , stands there .
@@ -755,7 +751,7 @@ acl:relcl(Nainen-1, hajosi-5)
 punct(hajosi-5, ,-2)
 punct(hajosi-5, ,-6)
 nmod:poss(auto-4, jonka-3)
-rel(hajosi-5, auto-4)
+nsubj(hajosi-5, auto-4)
 nsubj(seisoo-7, Nainen-1)
 advmod(seisoo-7, tuolla-8)
 punct(seisoo-7, .-9)
