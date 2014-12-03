@@ -205,7 +205,7 @@ mark(thought, than)
 ~~~
 
 ~~~ sdparse
-fiksumpi kuin luulit
+fiksumpi kuin luulit \n smarter than you_thought
 advcl(fiksumpi, luulit)
 mark(luulit, kuin)
 ~~~
