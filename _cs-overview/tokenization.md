@@ -65,19 +65,23 @@ and _abys_ and _kdybys_ are in fact fused words, but they were formed using _bys
 * _kdybychom_ = _když bychom_ = “if we were”
 * _kdybyste_ = _když byste_ = “if you were”
 
-Note: It is not clear even to a native speaker what exactly the first word should be _(aby, až, kdyby_ or _když)._
-It is a conjunction and it is never used without the _by_ part.
+Note: It is not clear even to a native speaker what exactly the first word should be _(aby, až, kdyby_ or _když);_
+in any case, it is a conjunction.
 However, it is clear that the second word is a conditional form of _být._
+
+### Verb + Conjunction _neboť_
+
+* _dělámť_ = _neboť dělám_ = “because I do”
+* _děláť_ = _neboť dělá_ = “because he/she/it does”
+* _dělalť_ = _neboť dělal_ = “because he did”
+
+The word forms in this group can be considered archaic.
+
+
 
 ## TO DO
 
-4. sloveso + spojka "neboť"
-
-dělámť = because I do
-děláť = because he/she/it does
-dělalť = because he did
-
-Tvary z této skupiny lze považovat za zastaralé.
+“”
 
 5. sloveso + spojka "li"
 
