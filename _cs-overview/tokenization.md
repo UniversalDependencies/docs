@@ -6,8 +6,28 @@ permalink: cs/overview/tokenization.html
 
 # Tokenization
 
-This document is a placeholder for the language-specific overview of
-guidelines for tokenization.
+The low-level tokenization of the Czech UD treebank follows the tokenization of the
+[Prague Dependency Treebank 3.0](http://ufal.mff.cuni.cz/pdt3.0) (PDT):
+
+* In general, tokens are delimited by whitespace.
+* Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
+  This includes the following special cases:
+  * An abbreviation marked by a period, as in *atd.* “etc.”, becomes two tokens, *<b>atd</b>* and *<b>.</b>*. The same holds for ordinal numbers *(<b>1.</b>)*
+  * A compound containing a hyphen becomes three tokens (two words and the hyphen), as in *česko-slovenský* “Czech-Slovak”, *česko-německý* “Czech-German” or *německo-český* “German-Czech”.
+  * Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
+* Most of the time, every punctuation character constitutes a token of its own. Thus *<b>...</b>* will become three tokens.
+
+## Words and Tokens
+
+In Czech there are fused words that correspond to multiple syntactic words.
+The original PDT data use special part-of-speech tags to identify fused words,
+nevertheless the fused token is not split in PDT, it corresponds to just one node in the dependency tree.
+(Note: An exception was splitting of *aby* and *kdyby* in PDT 1.0 but it was abandoned in later versions.)
+
+In contrast, the UD format requires that certain types of fused words be split (see also
+<a href="../../u/overview/tokenization.html">universal tokenization</a>).
+
+## TO DO
 
 Stažené tvary v češtině
 

@@ -14,6 +14,7 @@ and its original (non-UD) version can be downloaded from
 [http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3](http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3).
 
 The morphological and syntactic annotation of the Czech UD treebank is created through a conversion of PDT data.
+The conversion procedure has been designed by Dan Zeman.
 
 ## Acknowledgments
 
