@@ -14,8 +14,16 @@ The low-level tokenization of the Czech UD treebank follows the tokenization of 
   Some special cases worth mentioning:
   * An abbreviation marked by a period, as in *atd.* “etc.”, becomes two tokens, *<b>atd</b>* and *<b>.</b>*. The same holds for ordinal numbers *(<b>1.</b>)*
   * A compound containing a hyphen becomes three tokens (two words and the hyphen), as in *česko-slovenský* “Czech-Slovak”, *česko-německý* “Czech-German” or *německo-český* “German-Czech”.
+    In these cases, the first token is a special form of adjective that never occurs independently.
+    Compounds without a hyphen are not split, thus _středopravý_ “right-centrist” is one token but _středo-pravý_ would be three tokens.
+    Another common case of splitting-on-hyphen is the conjunction _li_ “if”, attached to verbs as in _bude-li_ “if will be”.
   * Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
 * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>...</b>* will become three tokens.
+
+Rozdělování je v tomto případě výhodné kvůli statistickým modelům, ale není nezbytné pro zachycení syntaxe.
+V PDT se to tak nicméně tradičně dělá. Je vhodné na to upozornit, protože tím dostáváme jinak neexistující
+tvar přídavného jména "česko-", "německo-" atd., který potřebuje svou vlastní morfologickou značku.
+Složeniny bez spojovníku ("středopravý") se nerozdělují.
 
 ## Words and Tokens
 
@@ -76,32 +84,3 @@ However, it is clear that the second word is a conditional form of _být._
 * _dělalť_ = _neboť dělal_ = “because he did”
 
 The word forms in this group can be considered archaic.
-
-
-
-## TO DO
-
-“”
-
-5. sloveso + spojka "li"
-
-Tato spojka se připojuje ke slovesnému tvaru pomocí spojovníku (bez mezer), ale během tokenizace je nutné ji oddělit jako samostatné syntaktické slovo.
-
-je-li = je + - + li = if he/she/it is
-bude-li = bude + - + li = if he/she/it will be
-byl-li = byl + - + li = if he was
-
-6. ostatní složeniny s využitím spojovníku, zejména (ale nejen) přídavných jmen, také rozdělujeme
-
-česko-slovenský
-česko-německý
-německo-český
-
-Rozdělování je v tomto případě výhodné kvůli statistickým modelům, ale není nezbytné pro zachycení syntaxe.
-V PDT se to tak nicméně tradičně dělá. Je vhodné na to upozornit, protože tím dostáváme jinak neexistující
-tvar přídavného jména "česko-", "německo-" atd., který potřebuje svou vlastní morfologickou značku.
-Složeniny bez spojovníku ("středopravý") se nerozdělují.
-
-----------
-
-Chceme tvrdit, že povinně zvratná slovesa jsou "mwe"? Já jsem spíš proti, ale umožnilo by to jednak odlišit závislosti typu AuxT, jednak by nám to dovolilo u "dát se" věšet "se" na "dát" a ne na infinitiv plnovýznamového slovesa.
