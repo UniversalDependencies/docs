@@ -245,23 +245,6 @@ in two places.</p>
 
 <hr />
 
-<p><a id="al-en-dep/acl:relcl" class="al-dest"></a></p>
-<h2><code>acl:relcl</code>: relative clause modifier</h2>
-
-<p>A relative clause modifier of an noun is a relative clause modifying
-the noun.  The relation points from the noun that is modified to the
-head of the relative clause. Relative clauses are finite.</p>
-
-<pre><code class="language-sdparse">I saw the man you love
-acl:relcl(man, love)
-</code></pre>
-
-<pre><code class="language-sdparse">I saw the book which you bought
-acl:relcl(book, bought)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
-
 <p><a id="al-en-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
@@ -291,6 +274,23 @@ nsubj(honest, you)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl.md" target="#">edit acl</a></p>
+
+<p><a id="al-en-dep/acl:relcl" class="al-dest"></a></p>
+<h2><code>acl:relcl</code>: relative clause modifier</h2>
+
+<p>A relative clause modifier of an noun is a relative clause modifying
+the noun.  The relation points from the noun that is modified to the
+head of the relative clause. Relative clauses are finite.</p>
+
+<pre><code class="language-sdparse">I saw the man you love
+acl:relcl(man, love)
+</code></pre>
+
+<pre><code class="language-sdparse">I saw the book which you bought
+acl:relcl(book, bought)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
 
 <p><a id="al-en-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
@@ -441,6 +441,17 @@ case(head, 's)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/case.md" target="#">edit case</a></p>
 
+<p><a id="al-en-dep/cc" class="al-dest"></a></p>
+<h2><code>cc</code>: coordination</h2>
+
+<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence. </p>
+
+<pre><code class="language-sdparse">And then we left .
+cc(left, And)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc.md" target="#">edit cc</a></p>
+
 <p><a id="al-en-dep/cc:preconj" class="al-dest"></a></p>
 <h2><code>cc:preconj</code>: preconjunct</h2>
 
@@ -453,17 +464,6 @@ cc:preconj(boys, Both)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc-preconj.md" target="#">edit cc:preconj</a></p>
-
-<p><a id="al-en-dep/cc" class="al-dest"></a></p>
-<h2><code>cc</code>: coordination</h2>
-
-<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence. </p>
-
-<pre><code class="language-sdparse">And then we left .
-cc(left, And)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/cc.md" target="#">edit cc</a></p>
 
 <p><a id="al-en-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
@@ -480,23 +480,6 @@ mark(did, that)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/ccomp.md" target="#">edit ccomp</a></p>
-
-<p><a id="al-en-dep/compound:prt" class="al-dest"></a></p>
-<h2><code>compound:prt</code>: phrasal verb particle</h2>
-
-<p>The phrasal verb particle relation identifies a phrasal verb, and
-holds between the verb and its particle. It is a subtype of the
-<a href="">compound</a> relation.</p>
-
-<pre><code class="language-sdparse">They shut down the station
-compound:prt(shut, down)
-</code></pre>
-
-<pre><code class="language-sdparse">They shut the station down
-compound:prt(shut, down)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound-prt.md" target="#">edit compound:prt</a></p>
 
 <p><a id="al-en-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
@@ -528,6 +511,23 @@ compound(billion, 3.2)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound.md" target="#">edit compound</a></p>
+
+<p><a id="al-en-dep/compound:prt" class="al-dest"></a></p>
+<h2><code>compound:prt</code>: phrasal verb particle</h2>
+
+<p>The phrasal verb particle relation identifies a phrasal verb, and
+holds between the verb and its particle. It is a subtype of the
+<a href="">compound</a> relation.</p>
+
+<pre><code class="language-sdparse">They shut down the station
+compound:prt(shut, down)
+</code></pre>
+
+<pre><code class="language-sdparse">They shut the station down
+compound:prt(shut, down)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/compound-prt.md" target="#">edit compound:prt</a></p>
 
 <p><a id="al-en-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
@@ -691,18 +691,6 @@ dep(show, if)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/dep.md" target="#">edit dep</a></p>
 
-<p><a id="al-en-dep/det:predet" class="al-dest"></a></p>
-<h2><code>det:predet</code>: predeterminer</h2>
-
-<p>A predeterminer is the relation between the head of an NP and a word
-that precedes and modifies the meaning of the NP determiner.</p>
-
-<pre><code class="language-sdparse">All the boys are here
-det:predet(boys, All)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det-predet.md" target="#">edit det:predet</a></p>
-
 <p><a id="al-en-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
@@ -717,6 +705,18 @@ det(book, Which)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det.md" target="#">edit det</a></p>
+
+<p><a id="al-en-dep/det:predet" class="al-dest"></a></p>
+<h2><code>det:predet</code>: predeterminer</h2>
+
+<p>A predeterminer is the relation between the head of an NP and a word
+that precedes and modifies the meaning of the NP determiner.</p>
+
+<pre><code class="language-sdparse">All the boys are here
+det:predet(boys, All)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/det-predet.md" target="#">edit det:predet</a></p>
 
 <p><a id="al-en-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
@@ -1242,6 +1242,50 @@ neg(drive, n't)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
 
+<p><a id="al-en-dep/nmod" class="al-dest"></a></p>
+<h2><code>nmod</code>: nominal modifier</h2>
+
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
+predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
+argument or adjunct. In English, <code>nmod</code> is used</p>
+
+<ul>
+  <li>for prepositional complements:</li>
+</ul>
+
+<pre><code class="language-sdparse">the office of the Chair
+det(office-2, the-1)
+nmod(office-2, Chair-5)
+case(Chair-5, of-3)
+det(Chair-5, the-4)
+</code></pre>
+
+<pre><code class="language-sdparse">give the toys to the children
+dobj(give, toys)
+nmod(give, children)
+case(children, to)
+</code></pre>
+
+<p>The <code>nmod</code> relation holds between the noun/predicate modified by the
+prepositional complement and the noun introduced by the preposition.</p>
+
+<ul>
+  <li>for ‘s genitives:</li>
+</ul>
+
+<pre><code class="language-sdparse">the Chair 's office
+det(Chair-2, the-1)
+nmod(office-4, Chair-2)
+poss(Chair-2, 's-3)
+</code></pre>
+
+<p>Nominal modifiers not introduced by a preposition or not ‘s genitives
+are tagged <a href="">nmod:npmod</a>, a subtype of <code>nmod</code>. Temporal nominal
+modifiers are also marked with a separate relation <a href="">nmod:tmod</a>. See
+the definitions of these relations.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
+
 <p><a id="al-en-dep/nmod:npmod" class="al-dest"></a></p>
 <h2><code>nmod:npmod</code>: noun phrase as adverbial modifier</h2>
 
@@ -1305,50 +1349,6 @@ nmod:tmod(turn, week)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod-tmod.md" target="#">edit nmod:tmod</a></p>
-
-<p><a id="al-en-dep/nmod" class="al-dest"></a></p>
-<h2><code>nmod</code>: nominal modifier</h2>
-
-<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
-predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
-argument or adjunct. In English, <code>nmod</code> is used</p>
-
-<ul>
-  <li>for prepositional complements:</li>
-</ul>
-
-<pre><code class="language-sdparse">the office of the Chair
-det(office-2, the-1)
-nmod(office-2, Chair-5)
-case(Chair-5, of-3)
-det(Chair-5, the-4)
-</code></pre>
-
-<pre><code class="language-sdparse">give the toys to the children
-dobj(give, toys)
-nmod(give, children)
-case(children, to)
-</code></pre>
-
-<p>The <code>nmod</code> relation holds between the noun/predicate modified by the
-prepositional complement and the noun introduced by the preposition.</p>
-
-<ul>
-  <li>for ‘s genitives:</li>
-</ul>
-
-<pre><code class="language-sdparse">the Chair 's office
-det(Chair-2, the-1)
-nmod(office-4, Chair-2)
-poss(Chair-2, 's-3)
-</code></pre>
-
-<p>Nominal modifiers not introduced by a preposition or not ‘s genitives
-are tagged <a href="">nmod:npmod</a>, a subtype of <code>nmod</code>. Temporal nominal
-modifiers are also marked with a separate relation <a href="">nmod:tmod</a>. See
-the definitions of these relations.</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod.md" target="#">edit nmod</a></p>
 
 <p><a id="al-en-dep/nsubj" class="al-dest"></a></p>
 <h2><code>nsubj</code>: nominal subject</h2>
