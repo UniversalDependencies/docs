@@ -13,5 +13,5 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 
 Alphabetical listing
 
-{% for p in site.fi-dep %}
+{% assign sorted = site.fi-dep | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
