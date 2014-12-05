@@ -259,6 +259,17 @@ and <i>punct</i> appear in two places.</p>
 
 <hr />
 
+<p><a id="al-fi-dep/acl" class="al-dest"></a></p>
+<h2><code>acl</code>: clausal modifier of noun</h2>
+
+<p><code>acl</code> stands for finite and non-finite clauses that modify a noun, in
+contrast to the <a href="">advcl</a> relation which is used for adverbial clauses
+that modify a predicate. The head of the <code>acl</code> relation is the noun
+that is modified, and the dependent is the head of the clause that
+modifies the noun.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
+
 <p><a id="al-fi-dep/acl:infmod" class="al-dest"></a></p>
 <h2><code>acl:infmod</code>: infinitive modifier</h2>
 
@@ -359,37 +370,6 @@ punct(kolahti-2, .-8)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
 
-<p><a id="al-fi-dep/acl" class="al-dest"></a></p>
-<h2><code>acl</code>: clausal modifier of noun</h2>
-
-<p><code>acl</code> stands for finite and non-finite clauses that modify a noun, in
-contrast to the <a href="">advcl</a> relation which is used for adverbial clauses
-that modify a predicate. The head of the <code>acl</code> relation is the noun
-that is modified, and the dependent is the head of the clause that
-modifies the noun.</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
-
-<p><a id="al-fi-dep/advcl:compar" class="al-dest"></a></p>
-<h2><code>advcl:compar</code>: comparative</h2>
-
-<p>The dependency type <code>advcl:compar</code> is used in comparative
-constructions, most often involving adjectives in the comparative
-form. The head of the <code>advcl:compar</code> dependency is the comparative
-wordform, and the dependent is the compared element.</p>
-
-<p>The annotation of comparative and superlative structures is described in
-<a href="/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives">Comparatives and superlatives</a>.</p>
-
-<!-- fname:compar.pdf -->
-<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
-advcl:compar(parempi-1, näytelmä-4)
-comparator(näytelmä-4, kuin-2)
-amod(näytelmä-4, eilinen-3)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl-compar.md" target="#">edit advcl:compar</a></p>
-
 <p><a id="al-fi-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
@@ -419,6 +399,51 @@ punct(keitti-7, .-9)
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
+
+<p><a id="al-fi-dep/advcl:compar" class="al-dest"></a></p>
+<h2><code>advcl:compar</code>: comparative</h2>
+
+<p>The dependency type <code>advcl:compar</code> is used in comparative
+constructions, most often involving adjectives in the comparative
+form. The head of the <code>advcl:compar</code> dependency is the comparative
+wordform, and the dependent is the compared element.</p>
+
+<p>The annotation of comparative and superlative structures is described in
+<a href="/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives">Comparatives and superlatives</a>.</p>
+
+<!-- fname:compar.pdf -->
+<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
+advcl:compar(parempi-1, näytelmä-4)
+comparator(näytelmä-4, kuin-2)
+amod(näytelmä-4, eilinen-3)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl-compar.md" target="#">edit advcl:compar</a></p>
+
+<p><a id="al-fi-dep/advmod" class="al-dest"></a></p>
+<h2><code>advmod</code>: adverb modifier</h2>
+
+<p>The dependency type <code>advmod</code> is used for <em>adverb modifiers</em> of verbs,
+nominals and adverbs alike.</p>
+
+<!-- fname:advmod_verb.pdf -->
+<pre><code class="language-sdparse">Hän käveli kotiin hitaasti . \n He walked home slowly .
+nsubj(käveli-2, Hän-1)
+nmod(käveli-2, kotiin-3)
+advmod(käveli-2, hitaasti-4)
+punct(käveli-2, .-5)
+</code></pre>
+
+<!-- fname:advmod_noun.pdf -->
+<pre><code class="language-sdparse">Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
+nsubj(otin-2, Minä-1)
+nmod(otin-2, kaapista-3)
+dobj(otin-2, vasaran-5)
+advmod(vasaran-5, myös-4)
+punct(otin-2, .-6)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod.md" target="#">edit advmod</a></p>
 
 <p><a id="al-fi-dep/advmod:q" class="al-dest"></a></p>
 <h2><code>advmod:q</code>: quantification modifier</h2>
@@ -451,31 +476,6 @@ punct(neliökilometriä-6, .-7)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-q.md" target="#">edit advmod:q</a></p>
-
-<p><a id="al-fi-dep/advmod" class="al-dest"></a></p>
-<h2><code>advmod</code>: adverb modifier</h2>
-
-<p>The dependency type <code>advmod</code> is used for <em>adverb modifiers</em> of verbs,
-nominals and adverbs alike.</p>
-
-<!-- fname:advmod_verb.pdf -->
-<pre><code class="language-sdparse">Hän käveli kotiin hitaasti . \n He walked home slowly .
-nsubj(käveli-2, Hän-1)
-nmod(käveli-2, kotiin-3)
-advmod(käveli-2, hitaasti-4)
-punct(käveli-2, .-5)
-</code></pre>
-
-<!-- fname:advmod_noun.pdf -->
-<pre><code class="language-sdparse">Minä otin kaapista myös vasaran . \n I took from_closet also hammer .
-nsubj(otin-2, Minä-1)
-nmod(otin-2, kaapista-3)
-dobj(otin-2, vasaran-5)
-advmod(vasaran-5, myös-4)
-punct(otin-2, .-6)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod.md" target="#">edit advmod</a></p>
 
 <p><a id="al-fi-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
@@ -631,6 +631,24 @@ punct(sijaitsee-2, .-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/case.md" target="#">edit case</a></p>
 
+<p><a id="al-fi-dep/cc" class="al-dest"></a></p>
+<h2><code>cc</code>: coordinating conjunction</h2>
+
+<p><em>Coordinating conjunctions</em> are marked as dependents of the first
+coordinated element, and the dependency type used is <code>cc</code>.</p>
+
+<!-- fname:cc1.pdf -->
+<pre><code class="language-sdparse">kirjat , kynät ja viivottimet \n books , pencils and rulers
+conj(kirjat-1, kynät-3)
+punct(kirjat-1, ,-2)
+cc(kirjat-1, ja-4)
+conj(kirjat-1, viivottimet-5)
+</code></pre>
+
+<p><a href="cc" class="al-doc">See details</a></p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cc.md" target="#">edit cc</a></p>
+
 <p><a id="al-fi-dep/cc:preconj" class="al-dest"></a></p>
 <h2><code>cc:preconj</code>: preconjunct</h2>
 
@@ -664,50 +682,6 @@ conj(talo-2, piha-4)
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cc-preconj.md" target="#">edit cc:preconj</a></p>
-
-<p><a id="al-fi-dep/cc" class="al-dest"></a></p>
-<h2><code>cc</code>: coordinating conjunction</h2>
-
-<p><em>Coordinating conjunctions</em> are marked as dependents of the first
-coordinated element, and the dependency type used is <code>cc</code>.</p>
-
-<!-- fname:cc1.pdf -->
-<pre><code class="language-sdparse">kirjat , kynät ja viivottimet \n books , pencils and rulers
-conj(kirjat-1, kynät-3)
-punct(kirjat-1, ,-2)
-cc(kirjat-1, ja-4)
-conj(kirjat-1, viivottimet-5)
-</code></pre>
-
-<p><a href="cc" class="al-doc">See details</a></p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cc.md" target="#">edit cc</a></p>
-
-<p><a id="al-fi-dep/ccomp:nf" class="al-dest"></a></p>
-<h2><code>ccomp:nf</code>: non-finite clausal complement</h2>
-
-<p>The dependency type <code>ccomp:nf</code>, which stands for <em>non-finite clausal
-complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).  It is
-used for clausal complements where the complement clause has a
-different subject from that of the governing clause and is nonfinite,
-i.e. where the verb is an infinitive or a participle.</p>
-
-<p>Note that this subtype represents a departure from the general UD
-taxonomy approach in differentiating finite from nonfinite clauses
-(see <a href="http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents">Syntax: General Principles</a>).</p>
-
-<!-- TODO The differences between types of verbal dependents, such as
-`ccomp:nf`, are thoroughly discussed in Section
-[verbal](#sec-verbal). -->
-
-<!-- fname:iccomp.pdf -->
-<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
-ccomp:nf(Sain-1, itkemään-3)
-nsubj(itkemään-3, hänet-2)
-punct(Sain-1, .-4)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp-nf.md" target="#">edit ccomp:nf</a></p>
 
 <p><a id="al-fi-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
@@ -750,6 +724,59 @@ punct(suututti-9, .-11)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp.md" target="#">edit ccomp</a></p>
+
+<p><a id="al-fi-dep/ccomp:nf" class="al-dest"></a></p>
+<h2><code>ccomp:nf</code>: non-finite clausal complement</h2>
+
+<p>The dependency type <code>ccomp:nf</code>, which stands for <em>non-finite clausal
+complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).  It is
+used for clausal complements where the complement clause has a
+different subject from that of the governing clause and is nonfinite,
+i.e. where the verb is an infinitive or a participle.</p>
+
+<p>Note that this subtype represents a departure from the general UD
+taxonomy approach in differentiating finite from nonfinite clauses
+(see <a href="http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents">Syntax: General Principles</a>).</p>
+
+<!-- TODO The differences between types of verbal dependents, such as
+`ccomp:nf`, are thoroughly discussed in Section
+[verbal](#sec-verbal). -->
+
+<!-- fname:iccomp.pdf -->
+<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
+ccomp:nf(Sain-1, itkemään-3)
+nsubj(itkemään-3, hänet-2)
+punct(Sain-1, .-4)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp-nf.md" target="#">edit ccomp:nf</a></p>
+
+<p><a id="al-fi-dep/compound" class="al-dest"></a></p>
+<h2><code>compound</code>: compound</h2>
+
+<p>The primary description of the USD relation <code>compound</code> in Finnish is
+not yet completed.</p>
+
+<hr />
+
+<p>Numerical expressions consisting of multiple tokens are also annotated
+using the <code>compound</code> dependency type. The last word of the numerical
+expression is the governor, and the number dependencies are chained.</p>
+
+<p>(These relations are annotated <code>number</code> in
+<a href="http://bionlp.utu.fi/fintreebank.html">TDT</a>.)</p>
+
+<!-- fname:number.pdf -->
+<pre><code class="language-sdparse">Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
+nsubj-cop(5-6, Poikasia-1)
+cop(5-6, on-2)
+advmod(5-6, yleensä-3)
+compound(--5, 3-4)
+compound(5-6, --5)
+punct(5-6, .-7)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound.md" target="#">edit compound</a></p>
 
 <p><a id="al-fi-dep/compound:nn" class="al-dest"></a></p>
 <h2><code>compound:nn</code>: noun compound modifier</h2>
@@ -824,33 +851,6 @@ punct(hyvä-7, .-8)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound-prt.md" target="#">edit compound:prt</a></p>
 
-<p><a id="al-fi-dep/compound" class="al-dest"></a></p>
-<h2><code>compound</code>: compound</h2>
-
-<p>The primary description of the USD relation <code>compound</code> in Finnish is
-not yet completed.</p>
-
-<hr />
-
-<p>Numerical expressions consisting of multiple tokens are also annotated
-using the <code>compound</code> dependency type. The last word of the numerical
-expression is the governor, and the number dependencies are chained.</p>
-
-<p>(These relations are annotated <code>number</code> in
-<a href="http://bionlp.utu.fi/fintreebank.html">TDT</a>.)</p>
-
-<!-- fname:number.pdf -->
-<pre><code class="language-sdparse">Poikasia on yleensä 3 - 5 . \n Youngsters are usually 3 to 5 .
-nsubj-cop(5-6, Poikasia-1)
-cop(5-6, on-2)
-advmod(5-6, yleensä-3)
-compound(--5, 3-4)
-compound(5-6, --5)
-punct(5-6, .-7)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/compound.md" target="#">edit compound</a></p>
-
 <p><a id="al-fi-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: coordinated element</h2>
 
@@ -894,6 +894,23 @@ punct(punainen-3, .-4)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/cop.md" target="#">edit cop</a></p>
 
+<p><a id="al-fi-dep/csubj" class="al-dest"></a></p>
+<h2><code>csubj</code>: clausal subject</h2>
+
+<p>A <em>clausal subject</em> (<code>csubj</code>) is a clause that acts as the subject of
+another clause.</p>
+
+<!-- fname:csubj.pdf -->
+<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
+poss(aikomuksenaan-2, Hänen-1)
+nmod(oli-3, aikomuksenaan-2)
+csubj(oli-3, mennä-4)
+advmod(mennä-4, ulos-5)
+punct(oli-3, .-6)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj.md" target="#">edit csubj</a></p>
+
 <p><a id="al-fi-dep/csubj:cop" class="al-dest"></a></p>
 <h2><code>csubj:cop</code>: clausal copular subject</h2>
 
@@ -915,23 +932,6 @@ punct(hauskaa-2, .-5)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj-cop.md" target="#">edit csubj:cop</a></p>
-
-<p><a id="al-fi-dep/csubj" class="al-dest"></a></p>
-<h2><code>csubj</code>: clausal subject</h2>
-
-<p>A <em>clausal subject</em> (<code>csubj</code>) is a clause that acts as the subject of
-another clause.</p>
-
-<!-- fname:csubj.pdf -->
-<pre><code class="language-sdparse">Hänen aikomuksenaan oli mennä ulos . \n His intention(essive) was to_go out .
-poss(aikomuksenaan-2, Hänen-1)
-nmod(oli-3, aikomuksenaan-2)
-csubj(oli-3, mennä-4)
-advmod(mennä-4, ulos-5)
-punct(oli-3, .-6)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/csubj.md" target="#">edit csubj</a></p>
 
 <p><a id="al-fi-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: dependent</h2>
@@ -1062,22 +1062,6 @@ completed.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/list.md" target="#">edit list</a></p>
 
-<p><a id="al-fi-dep/mark:comparator" class="al-dest"></a></p>
-<h2><code>mark:comparator</code>: comparative conjunction</h2>
-
-<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
-roughly to “than” and “as” in English) is marked with the dependency
-type <code>mark:comparator</code>. The head of the dependency is the element
-being compared.</p>
-
-<!-- fname:comparator.pdf -->
-<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
-advcl:compar(enemmän-1, haluaisin-3)
-mark:comparator(haluaisin-3, kuin-2)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-comparator.md" target="#">edit mark:comparator</a></p>
-
 <p><a id="al-fi-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
@@ -1114,6 +1098,22 @@ punct(Sanoin-1, .-7)
 <p><a href="mark" class="al-doc">See details</a></p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark.md" target="#">edit mark</a></p>
+
+<p><a id="al-fi-dep/mark:comparator" class="al-dest"></a></p>
+<h2><code>mark:comparator</code>: comparative conjunction</h2>
+
+<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
+roughly to “than” and “as” in English) is marked with the dependency
+type <code>mark:comparator</code>. The head of the dependency is the element
+being compared.</p>
+
+<!-- fname:comparator.pdf -->
+<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
+advcl:compar(enemmän-1, haluaisin-3)
+mark:comparator(haluaisin-3, kuin-2)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-comparator.md" target="#">edit mark:comparator</a></p>
 
 <p><a id="al-fi-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: multi-word expression</h2>
@@ -1177,6 +1177,28 @@ punct(sanonut-3, .-5)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/neg.md" target="#">edit neg</a></p>
+
+<p><a id="al-fi-dep/nmod" class="al-dest"></a></p>
+<h2><code>nmod</code>: nominal modifier</h2>
+
+<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
+
+<!-- fname:nmod_alone.pdf -->
+<pre><code class="language-sdparse">Maljakko oli pöydällä . \n The_vase was on_the_table .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydällä-3)
+punct(oli-2, .-4)
+</code></pre>
+
+<!-- fname:nmod_adpos.pdf -->
+<pre><code class="language-sdparse">Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
+nsubj(oli-2, Maljakko-1)
+nmod(oli-2, pöydän-3)
+adpos(pöydän-3, päällä-4)
+punct(oli-2, .-5)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod.md" target="#">edit nmod</a></p>
 
 <p><a id="al-fi-dep/nmod:gobj" class="al-dest"></a></p>
 <h2><code>nmod:gobj</code>: genitive object</h2>
@@ -1275,27 +1297,23 @@ num(litran-4, kahden-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod-poss.md" target="#">edit nmod:poss</a></p>
 
-<p><a id="al-fi-dep/nmod" class="al-dest"></a></p>
-<h2><code>nmod</code>: nominal modifier</h2>
+<p><a id="al-fi-dep/nsubj" class="al-dest"></a></p>
+<h2><code>nsubj</code>: nominal subject</h2>
 
-<p><em>Nominal modifiers</em> are inflected nominals which modify most commonly a verb or a noun phrase. They can occur alone or together with an adposition in an adpositional phrase. Both cases are analyzed similarly, as semantically nominal modifiers and adpositional phrases are similar.</p>
+<p>The dependency type <code>nsubj</code> marks nominal subjects of the non-copular
+clause.</p>
 
-<!-- fname:nmod_alone.pdf -->
-<pre><code class="language-sdparse">Maljakko oli pöydällä . \n The_vase was on_the_table .
-nsubj(oli-2, Maljakko-1)
-nmod(oli-2, pöydällä-3)
-punct(oli-2, .-4)
+<!-- For thorough discussion of different types of subjects in
+Finnish, see Section [subj-obj](#sec-subj-obj).-->
+
+<!-- fname:nsubj_basic.pdf -->
+<pre><code class="language-sdparse">Eeva tuli töistä . \n Eeva came from_work .
+nsubj(tuli-2, Eeva-1)
+nmod(tuli-2, töistä-3)
+punct(tuli-2, .-4)
 </code></pre>
 
-<!-- fname:nmod_adpos.pdf -->
-<pre><code class="language-sdparse">Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
-nsubj(oli-2, Maljakko-1)
-nmod(oli-2, pöydän-3)
-adpos(pöydän-3, päällä-4)
-punct(oli-2, .-5)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nmod.md" target="#">edit nmod</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj.md" target="#">edit nsubj</a></p>
 
 <p><a id="al-fi-dep/nsubj:cop" class="al-dest"></a></p>
 <h2><code>nsubj:cop</code>: nominal copular subject</h2>
@@ -1315,24 +1333,6 @@ punct(kuiva-4, .-5)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj-cop.md" target="#">edit nsubj:cop</a></p>
-
-<p><a id="al-fi-dep/nsubj" class="al-dest"></a></p>
-<h2><code>nsubj</code>: nominal subject</h2>
-
-<p>The dependency type <code>nsubj</code> marks nominal subjects of the non-copular
-clause.</p>
-
-<!-- For thorough discussion of different types of subjects in
-Finnish, see Section [subj-obj](#sec-subj-obj).-->
-
-<!-- fname:nsubj_basic.pdf -->
-<pre><code class="language-sdparse">Eeva tuli töistä . \n Eeva came from_work .
-nsubj(tuli-2, Eeva-1)
-nmod(tuli-2, töistä-3)
-punct(tuli-2, .-4)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj.md" target="#">edit nsubj</a></p>
 
 <p><a id="al-fi-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
@@ -1465,6 +1465,23 @@ punct(tulisitko-3, ?-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/vocative.md" target="#">edit vocative</a></p>
 
+<p><a id="al-fi-dep/xcomp" class="al-dest"></a></p>
+<h2><code>xcomp</code>: open clausal complement</h2>
+
+<p>The dependency type <code>xcomp</code> is reserved for clausal complements which have an external subject, that is, whose subject is shared with the complemented verb (a phenomenon also known as subject control). Note that the subject of the complementing clause must be the <em>subject</em> of the complemented verb, not any other sentence element.</p>
+
+<!-- fname:xcomp.pdf -->
+<pre><code class="language-sdparse">Hän alkoi hakata halkoja . \n He started chopping the_wood .
+nsubj(alkoi-2, Hän-1)
+xcomp(alkoi-2, hakata-3)
+dobj(hakata-3, halkoja-4)
+punct(alkoi-2, .-5)
+</code></pre>
+
+<p>Many of the complements with an external subject resemble cases that are analyzed as main verbs with auxiliaries. Both auxiliaries and <code>xcomp</code> complements share their subject with another verb, but only a closed list of verbs are analyzed as auxiliaries (see <a href="">aux</a>). Note also that in auxiliary cases the second verb is the governor, whereas with <code>xcomp</code> the first verb becomes governor (unless the word order is inverse).</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp.md" target="#">edit xcomp</a></p>
+
 <p><a id="al-fi-dep/xcomp:a" class="al-dest"></a></p>
 <h2><code>xcomp:a</code>: adjectival complement</h2>
 
@@ -1484,23 +1501,6 @@ punct(teki, .)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-a.md" target="#">edit xcomp:a</a></p>
-
-<p><a id="al-fi-dep/xcomp" class="al-dest"></a></p>
-<h2><code>xcomp</code>: open clausal complement</h2>
-
-<p>The dependency type <code>xcomp</code> is reserved for clausal complements which have an external subject, that is, whose subject is shared with the complemented verb (a phenomenon also known as subject control). Note that the subject of the complementing clause must be the <em>subject</em> of the complemented verb, not any other sentence element.</p>
-
-<!-- fname:xcomp.pdf -->
-<pre><code class="language-sdparse">Hän alkoi hakata halkoja . \n He started chopping the_wood .
-nsubj(alkoi-2, Hän-1)
-xcomp(alkoi-2, hakata-3)
-dobj(hakata-3, halkoja-4)
-punct(alkoi-2, .-5)
-</code></pre>
-
-<p>Many of the complements with an external subject resemble cases that are analyzed as main verbs with auxiliaries. Both auxiliaries and <code>xcomp</code> complements share their subject with another verb, but only a closed list of verbs are analyzed as auxiliaries (see <a href="">aux</a>). Note also that in auxiliary cases the second verb is the governor, whereas with <code>xcomp</code> the first verb becomes governor (unless the word order is inverse).</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp.md" target="#">edit xcomp</a></p>
 
 
 
