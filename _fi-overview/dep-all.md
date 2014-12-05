@@ -11,7 +11,7 @@ Note: This document is a draft. Not all relations have been converted to USD-com
 
 ----------
 
-{% assign sorted = site.fi-dep | sort: 'title' %}{% for p in sorted %}
+{% for p in site.fi-dep %}
 <a id="al-fi-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
