@@ -13,5 +13,5 @@ permalink: ga/pos/index.html
 
 Alphabetical listing
 
-{% for p in site.ga-pos %}
+{% assign sorted = site.ga-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

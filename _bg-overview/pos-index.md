@@ -13,5 +13,5 @@ permalink: bg/pos/index.html
 
 Alphabetical listing
 
-{% for p in site.bg-pos %}
+{% assign sorted = site.bg-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

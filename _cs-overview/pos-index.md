@@ -13,5 +13,5 @@ permalink: cs/pos/index.html
 
 Alphabetical listing
 
-{% for p in site.cs-pos %}
+{% assign sorted = site.cs-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

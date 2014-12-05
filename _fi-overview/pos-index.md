@@ -13,5 +13,5 @@ permalink: fi/pos/index.html
 
 Alphabetical listing
 
-{% for p in site.fi-pos %}
+{% assign sorted = site.fi-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

@@ -13,5 +13,5 @@ permalink: zh/dep/index.html
 
 Alphabetical listing
 
-{% for p in site.zh-dep %}
+{% assign sorted = site.zh-dep | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

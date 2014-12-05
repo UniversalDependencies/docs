@@ -16,5 +16,5 @@ A cross-linguistic typology* (de Marneffe *et al.* 2014). There have been modifi
 
 Alphabetical listing
 
-{% for p in site.u-dep %}
+{% assign sorted = site.u-dep | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
