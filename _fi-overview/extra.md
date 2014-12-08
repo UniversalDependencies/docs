@@ -183,24 +183,7 @@ dobj(sammutettiin-8, nuotio-4)
 ## External subjects (xsubj)
 <!-- this section originally from TDT guidelines section 3.2 -->
 
-Open clausal complements, as discussed in Section 2.46, share their
-subject with another verb. The fact that the subject of the main verb
-is also the subject of the complement cannot be annotated on the first
-layer of TDT, as this would violate the treeness restriction.
-Therefore, these subjects are marked on the second layer of annotation
-using the dependency types [`xsubj`]() (*external subject*) and
-[`xsubj-cop`]() (*external copular subject*). Note also that an open
-clausal complement may not always have a subject, in for instance
-passive constructions.
-
-<!-- fname:xsubj.pdf -->
-~~~ sdparse
-Matti ryhtyi lukemaan . \n Matti started_to read .
-nsubj(ryhtyi-2, Matti-1)
-xcomp(ryhtyi-2, lukemaan-3)
-punct(ryhtyi-2, .-4)
-xsubj(lukemaan-3, Matti-1)
-~~~
+(see [xsubj] for start of section)
 
 External subjects interact with conjunct propagation in two ways: an
 external subject may propagate, and also a propagated [`nsubj`]()
