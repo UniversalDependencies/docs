@@ -7,8 +7,8 @@ shortdef : 'external subject'
 (Note: this type is *not* part of the basic UD Finnish dependency 
 representation and is only used in the second layer of annotation.)
 
-Open clausal complements, as discussed in the documentation for
-[xcomp](), share their subject with another verb. The fact that the
+Open clausal complements share their subject with another verb
+(see also the documentation for [xcomp]()). The fact that the
 subject of the main verb is also the subject of the complement cannot
 be annotated using basic dependencies in UD Finnish, as this would
 violate the treeness restriction.  Therefore, these subjects are
