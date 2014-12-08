@@ -11,6 +11,7 @@ extralinguistic context.
 ### Examples
 
 * personal pronouns: _minä, sinä, hän, se, me, te, he_ "I, you, he/she, it, we, you, they"
+* _muu_ "other", _sama_ "same"
 * TODO
 
 (This language-specific documentation is work in progress.)
