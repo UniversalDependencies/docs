@@ -1,7 +1,7 @@
 ---
 layout: entry
 title:  'reparandum'
-shortdef : 'reparandum'
+shortdef : 'overridden disfluency'
 ---
 
 We use `reparandum` to indicate disfluencies overridden in a speech
