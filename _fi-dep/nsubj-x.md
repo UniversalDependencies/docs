@@ -13,7 +13,7 @@ subject of the main verb is also the subject of the complement cannot
 be annotated using basic dependencies in UD Finnish, as this would
 violate the treeness restriction.  Therefore, these subjects are
 marked on the second layer of annotation (`DEPS` field) using the
-dependency types `nsubj:x` and [`xsubj-cop`](). Note also that an open
+dependency types `nsubj:x` and [`nsubj:xcop`](). Note also that an open
 clausal complement may not always have a subject, in for instance
 passive constructions.
 
