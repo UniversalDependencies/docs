@@ -22,3 +22,4 @@ title: 'Tagset conversion tables'
 * <a href="fi-turku-uposf.html">fi::turku</a> (Finnish)
 * <a href="grc-conll-uposf.html">grc::conll</a> (Ancient Greek)
 * <a href="he-conll-uposf.html">he::conll</a> (Hebrew)
+* <a href="hi-conll-uposf.html">hi::conll</a> (Hindi)
