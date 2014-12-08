@@ -13,5 +13,5 @@ permalink: fr/feat/index.html
 
 Alphabetical listing
 
-{% for p in site.fr-feat %}
+{% assign sorted = site.fr-feat | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

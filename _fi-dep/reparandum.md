@@ -1,8 +1,15 @@
 ---
 layout: entry
 title:  'reparandum'
-shortdef : 'reparandum'
+shortdef : 'overridden disfluency'
 ---
 
-The description of the USD relation `reparandum` in Finnish is not yet
-completed.
+We use `reparandum` to indicate disfluencies overridden in a speech
+repair. The disfluency is the dependent of the repair.
+
+(TODO: Finnish `reparandum` example)
+
+---
+
+Note/diff: `reparandum` is not annotated in TDT and is not used in
+the current version of the UD Finnish corpus.

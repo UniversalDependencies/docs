@@ -5,7 +5,7 @@ shortdef : 'adverbial clause modifier'
 ---
 
 *Adverbial clause modifiers* (`advcl`) are subordinate clauses that
-are not complements. Also non-complement infinite or temporal clauses
+are not complements. Also non-complement infinitival or temporal clauses
 (*lauseenvastike*, see for instance 
 (see ISK [§876](http://scripta.kotus.fi/visk/sisallys.php?p=876)) are
 marked as `advcl`. If there is a subordinating conjunction present, it

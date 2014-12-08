@@ -18,7 +18,7 @@ cop(hyvä-7, oli-6)
 punct(hyvä-7, .-8)
 ~~~
 
-Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in TDT. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.
+Verb particles (see ISK <a href="http://scripta.kotus.fi/visk/sisallys.php?p=455">§455</a> and <a href="http://scripta.kotus.fi/visk/sisallys.php?p=658">§658</a>) are the only case where particles are distinguished from adverbs in UD Finnish. This distinction can be made by the following rough rules. A word is a verbal particle if it, together with the verb, forms an expression that has a meaning that differs from the meaning of the verb alone, and if the word cannot be modified by an adverb.
 
 For instance, *laittaa kiinni* (*make closed, close*) is not a phrasal verb, as *kiinni* can be modified.
 
@@ -30,7 +30,7 @@ In contrast, *ottaa kiinni* (*catch*) is a phrasal verb, as it has a meaning dis
 
 <!--details-->
 
-The following verb expressions are considered phrasal verbs in TDT: (The list is not closed, but includes the phrasal verbs encountered in the corpus text. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.)
+The following verb expressions are considered phrasal verbs. Note that this list is not closed, but includes the phrasal verbs encountered corpus annotation. Also, due to the figurative meanings of many of these expressions, the English translations are approximate.
 
 * _ajaa takaa_ "chase"
 * _antaa periksi_ "give up"

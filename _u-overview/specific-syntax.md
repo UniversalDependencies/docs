@@ -178,6 +178,8 @@ nmod(heard, him)
 punct(hear, .)
 ~~~
 
+While a plausible alternative analysis would be to make the clausal dependent headed by _as_, here we make _heard_ the head. This is motivated by a desire for crosslinguistic adequacy: in languages such as Finnish, this functional element is not present. Since _as_ is a functional element here, the dependent can be understood to modify the whole phrase _as often_, and therefore attached to the head of that phrase.
+
 The same basic analysis is given for inequality scalar comparatives, with _more_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
 
 ~~~ sdparse
@@ -194,7 +196,7 @@ advcl(important, thought)
 mark(thought, than)
 ~~~
 
-If the comparative form becomes a single word, then the comparative complement depends on that word:
+In addition to crosslinguistic adequacy, we can see here another advantage of not attaching the _than_ clause to _more_: since the word alternates with a bound morpheme, not allowing it to have dependents yields a consistent analysis for the alternation.
 
 ~~~ sdparse
 smarter than you thought
@@ -203,10 +205,23 @@ mark(thought, than)
 ~~~
 
 ~~~ sdparse
+fiksumpi kuin luulit \n smarter than you_thought
+advcl(fiksumpi, luulit)
+mark(luulit, kuin)
+~~~
+
+~~~ sdparse
 a smarter boy than you thought
 amod(boy, smarter)
 advcl(smarter, thought)
 mark(thought, than)
+~~~
+
+If the head is ellided, then the functional element can be promoted.
+
+~~~ sdparse
+Wheat raises blood sugar even more than sugar does .
+advcl(more, does)
 ~~~
 
 Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:

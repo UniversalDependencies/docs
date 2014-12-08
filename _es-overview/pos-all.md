@@ -11,7 +11,7 @@ permalink: es/pos/all.html
 
 ----------
 
-{% for p in site.es-pos %}
+{% assign sorted = site.es-pos | sort: 'title' %}{% for p in sorted %}
 <a id="al-es-pos/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    

@@ -14,7 +14,7 @@ Marneffe and Manning 2008).
 
 ----------
 
-{% for p in site.en-dep %}
+{% assign sorted = site.en-dep | sort: 'title' %}{% for p in sorted %}
 <a id="al-en-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    

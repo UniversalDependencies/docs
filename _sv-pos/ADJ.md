@@ -4,5 +4,14 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADJ`.
+### Definition
+
+Adjectives are words that typically modify nouns and specify their
+properties or attributes.
+
+### Examples
+
+- _stort_
+- _gammalt_
+- _grönt_
+- _ofattbart_

@@ -86,7 +86,7 @@ so that we can avoid problems with conflicting versions.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -112,7 +112,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -138,7 +138,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -164,7 +164,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -190,7 +190,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small>
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -216,7 +216,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -242,7 +242,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -268,7 +268,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -294,7 +294,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -320,7 +320,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -346,7 +346,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -372,7 +372,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -398,7 +398,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -424,7 +424,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -450,7 +450,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -476,7 +476,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -502,7 +502,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small> 
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -528,7 +528,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 <small>
 This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidlines are currently under
+Dependencies. <strong>Language-specific guidelines are currently under
 revision and should not be considered final.</strong> Our goal is to
 have a stable version of this part of the documentation by 2015-01-01.
 </small>
@@ -553,7 +553,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 <!-- -->
 <!-- <small>  -->
 <!-- This is part of the language-specific documentation for Universal -->
-<!-- Dependencies. <strong>Language-specific guidlines are currently under -->
+<!-- Dependencies. <strong>Language-specific guidelines are currently under -->
 <!-- revision and should not be considered final.</strong> Our goal is to -->
 <!-- have a stable version of this part of the documentation by 2015-01-01. -->
 <!-- </small> -->

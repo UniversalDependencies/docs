@@ -14,7 +14,7 @@ predicate of the relative clause.
 Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
 acl:relcl(Mies-1, nähnyt-6)
 punct(nähnyt-6, ,-2)
-rel(nähnyt-6, jonka-3)
+dobj(nähnyt-6, jonka-3)
 nsubj(nähnyt-6, hän-4)
 aux(nähnyt-6, oli-5)
 advmod(nähnyt-6, eilen-7)
@@ -32,7 +32,7 @@ nsubj(kolahti-2, Ovi-1)
 advmod(kolahti-2, auki-3)
 acl:relcl(kolahti-2, säikäytti-6)
 punct(säikäytti-6, ,-4)
-rel(säikäytti-6, mikä-5)
+nsubj(säikäytti-6, mikä-5)
 dobj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
 ~~~

@@ -19,11 +19,11 @@ conj(kirjat-1, viivottimet-5)
 <!--details-->
 
 Coordinating conjunctions that consist of parts separated by
-coordinated elements are marked so that the first part is marked with
-the type [preconj]() and the second part with `cc` in the regular
-fashion. Adjacent parts of conjunctions are joined together with the
-most general dependency type [dep](), the rightmost word being the
-head.
+coordinated elements are annotated so that the first part is marked with
+the type [cc:preconj]() and the second part with `cc` in the regular
+fashion. Adjacent parts of acting as a single conjunction are joined
+together with the [mwe]() dependency relation with the initial word
+as the head and others as direct dependents of this word.
 
 <!-- fname:cc2.pdf -->
 ~~~ sdparse
@@ -37,29 +37,28 @@ conj(kynät-2, viivottimet-5)
 <!-- fname:cc3.pdf -->
 ~~~ sdparse
 kynät ja / tai viivottimet \n pencils and / or rulers
-cc(kynät-1, tai-4)
-dep(tai-4, /-3)
-dep(/-3, ja-2)
+cc(kynät-1, ja-2)
+mwe(ja-2, /-3)
+mwe(ja-2, tai-4)
 conj(kynät-1, viivottimet-5)
 ~~~
 
 Coordinating conjunctions are a closed class of words, and the main conjunctions are as follows:
 
-* _ja_ "and)
-* _sekä_ "and)
-* _sekä... että_ "both... and)
-* _-kä_ "attached to negation words, nor)
-* _eli_ "a.k.a.)
-* _tai_ "or)
-* _vai_ "or, in a question context)
-* _joko... tai_ "either... or)
-* _mutta_ "but)
-* _vaan_ "but, in a negative context)
-
+* _ja_ "and"
+* _sekä_ "and"
+* _sekä... että_ "both... and"
+* _-kä_ "attached to negation words, nor"
+* _eli_ "a.k.a."
+* _tai_ "or"
+* _vai_ "or" (in a question context)
+* _joko... tai_ "either... or"
+* _mutta_ "but"
+* _vaan_ "but" (in a negative context)
 
 In addition, certain less frequent words or combinations of words are marked as coordinating conjunctions in TDT, namely:
 
-* _&
+* _&_
 * _elikkä_ "colloquial version of *eli*, a.k.a"
 * _ja / tai_ "and / or"
 * _ja toisaalta_ "and on the other hand"

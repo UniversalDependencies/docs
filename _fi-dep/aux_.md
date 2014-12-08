@@ -7,12 +7,12 @@ shortdef : 'auxiliary'
 redirect_from: "fi/dep/aux.html"
 ---
 
-In TDT, only a closed list of verbs can act as auxiliaries, including
+In UD Finnish, only a closed list of verbs can act as auxiliaries, including
 the main modal verbs 
 (see ISK [§1562](http://scripta.kotus.fi/visk/sisallys.php?p=1562))
 and in addition the verbs _olla_ "to be" and _aikoa_ "to be going to".
 
-The full list of auxiliaries in TDT is as follows:
+The full list of auxiliaries is as follows:
 
 * _täytyä_ "must"
 * _pitää_ "have to"
@@ -25,6 +25,8 @@ The full list of auxiliaries in TDT is as follows:
 * _olla_ "be"
 * _aikoa_ "be going to"
 
+#### Examples
+
 <!-- fname:aux.pdf -->
 ~~~ sdparse
 Hän saattoi lähteä jo . \n He may(impf.) leave already .
@@ -34,6 +36,6 @@ advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
 ~~~
 
-### References
+#### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1562> (in Finnish)

@@ -1,10 +1,10 @@
 ---
 layout: entry
 title:  'nummod'
-shortdef : 'numeral modifier'
+shortdef : 'numeric modifier'
 ---
 
-*Numeral modifiers* of a noun or NP, including both cardinal and
+*Numeric modifiers* of a noun or NP, including both cardinal and
 ordinal numbers, are marked with the `nummod` dependency type. This
 dependency type is used also with for instance years and program
 versions.
