@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>xsubj</title>
+    <title>nsubj:x</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -19,7 +19,7 @@
       <div id="hp-header">
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xsubj.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj-x.md" target="#">edit page</a></span>
 
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
@@ -34,7 +34,7 @@
 	  </div>
 	</noscript>
 
-          <h2><code>xsubj</code>: external subject</h2>
+          <h2><code>nsubj:x</code>: external subject</h2>
 
 <p>Open clausal complements, as discussed in the documentation for
 <a href="">xcomp</a>, share their subject with another verb. The fact that the
@@ -42,7 +42,7 @@ subject of the main verb is also the subject of the complement cannot
 be annotated using basic dependencies in UD Finnish, as this would
 violate the treeness restriction.  Therefore, these subjects are
 marked on the second layer of annotation (<code>DEPS</code> field) using the
-dependency types <code>xsubj</code> and <a href=""><code>xsubj-cop</code></a>. Note also that an open
+dependency types <code>nsubj:x</code> and <a href=""><code>xsubj-cop</code></a>. Note also that an open
 clausal complement may not always have a subject, in for instance
 passive constructions.</p>
 
@@ -51,7 +51,7 @@ passive constructions.</p>
 nsubj(ryhtyi-2, Matti-1)
 xcomp(ryhtyi-2, lukemaan-3)
 punct(ryhtyi-2, .-4)
-xsubj(lukemaan-3, Matti-1)
+nsubj:x(lukemaan-3, Matti-1)
 </code></pre>
 
 

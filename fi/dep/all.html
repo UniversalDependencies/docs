@@ -56,7 +56,7 @@ and <i>punct</i> appear in two places.</p>
 	  <td>↳<a>csubj:cop</a></td>
 	</tr>
 	<tr>
-	  <td>↳<a>xsubj</a> (TODO name)</td>
+	  <td>↳<a>nsubj:x</a></td>
 	  <td><strike>csubjpass</strike></td>
 	</tr>
 	<tr>
@@ -1362,6 +1362,29 @@ punct(kuiva-4, .-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj-cop.md" target="#">edit nsubj:cop</a></p>
 
+<p><a id="al-fi-dep/nsubj:x" class="al-dest"></a></p>
+<h2><code>nsubj:x</code>: external subject</h2>
+
+<p>Open clausal complements, as discussed in the documentation for
+<a href="">xcomp</a>, share their subject with another verb. The fact that the
+subject of the main verb is also the subject of the complement cannot
+be annotated using basic dependencies in UD Finnish, as this would
+violate the treeness restriction.  Therefore, these subjects are
+marked on the second layer of annotation (<code>DEPS</code> field) using the
+dependency types <code>nsubj:x</code> and <a href=""><code>xsubj-cop</code></a>. Note also that an open
+clausal complement may not always have a subject, in for instance
+passive constructions.</p>
+
+<!-- fname:xsubj.pdf -->
+<pre><code class="language-sdparse">Matti ryhtyi lukemaan . \n Matti started_to read .
+nsubj(ryhtyi-2, Matti-1)
+xcomp(ryhtyi-2, lukemaan-3)
+punct(ryhtyi-2, .-4)
+nsubj:x(lukemaan-3, Matti-1)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/nsubj-x.md" target="#">edit nsubj:x</a></p>
+
 <p><a id="al-fi-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
 
@@ -1539,29 +1562,6 @@ punct(teki, .)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-a.md" target="#">edit xcomp:a</a></p>
-
-<p><a id="al-fi-dep/xsubj" class="al-dest"></a></p>
-<h2><code>xsubj</code>: external subject</h2>
-
-<p>Open clausal complements, as discussed in the documentation for
-<a href="">xcomp</a>, share their subject with another verb. The fact that the
-subject of the main verb is also the subject of the complement cannot
-be annotated using basic dependencies in UD Finnish, as this would
-violate the treeness restriction.  Therefore, these subjects are
-marked on the second layer of annotation (<code>DEPS</code> field) using the
-dependency types <code>xsubj</code> and <a href=""><code>xsubj-cop</code></a>. Note also that an open
-clausal complement may not always have a subject, in for instance
-passive constructions.</p>
-
-<!-- fname:xsubj.pdf -->
-<pre><code class="language-sdparse">Matti ryhtyi lukemaan . \n Matti started_to read .
-nsubj(ryhtyi-2, Matti-1)
-xcomp(ryhtyi-2, lukemaan-3)
-punct(ryhtyi-2, .-4)
-xsubj(lukemaan-3, Matti-1)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xsubj.md" target="#">edit xsubj</a></p>
 
 
 
