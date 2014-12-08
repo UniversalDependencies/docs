@@ -4,6 +4,9 @@ title:  'nsubj:x'
 shortdef : 'external subject'
 ---
 
+(Note: this type is *not* part of the basic UD Finnish dependency 
+representation and is only used in the second layer of annotation.)
+
 Open clausal complements, as discussed in the documentation for
 [xcomp](), share their subject with another verb. The fact that the
 subject of the main verb is also the subject of the complement cannot
