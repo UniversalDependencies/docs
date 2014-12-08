@@ -4,7 +4,7 @@ title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---
 
-We use *reparandum* to indicate disfluencies overridden in a speech
+We use `reparandum` to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair.
 
 ~~~ sdparse
