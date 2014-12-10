@@ -4,15 +4,6 @@ title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
 ---
 
-Finnish has multiple infinitive forms, often termed the first
-infinitive, second infinitive, etc. Traditionally five different
-infinitives have been recognized, but UD Finnish follows the modern
-[ISK grammar](http://scripta.kotus.fi/visk/etusivu.php) in only
-recognizing three verb forms as infinitives, namely those known as the
-first, second and third infinitives (alternatively termed the A‑, E-
-and MA-infinitives, see e.g. [VISK §
-119](http://kaino.kotus.fi/visk/sisallys.php?p=119); in Finnish).
-
 ### `Fin`: finite verb
 
 Verbs that inflect for mood ([Mood]()), tense ([Tense]()) or person
@@ -28,8 +19,18 @@ and is always annotated with `VerbForm=Fin`.
 
 ### `Inf`: infinitive
 
-Words in the first infinitive form (also known as the A-infinitive)
-are assigned the `VerbForm` value `Inf`.
+Words in infinitive forms are assigned the `VerbForm` value `Inf`.
+Infinitive forms are further differentiated using the feature
+[InfForm]().
+
+Finnish has multiple infinitive forms, often termed the first
+infinitive, second infinitive, etc. Traditionally five different
+infinitives have been recognized, but UD Finnish follows the modern
+[ISK grammar](http://scripta.kotus.fi/visk/etusivu.php) in only
+recognizing three verb forms as infinitives, namely those known as the
+first, second and third infinitives (alternatively termed the A‑, E-
+and MA-infinitives, see e.g. [VISK §
+119](http://kaino.kotus.fi/visk/sisallys.php?p=119); in Finnish).
 
 The base form of the first infinitive is used as the dictionary form
 for verbs.
@@ -37,24 +38,11 @@ for verbs.
 #### Examples
 
 * [fi] _He haluavat <b>jutella</b>_ "They want to <b>talk</b>"
-
-### `Inf2`: infinitive
-
-Words in the second infinitive form (also known as the E-infinitive)
-are assigned the `VerbForm` value `Inf2`.
-
-#### Examples
-
+  (first infinitive)
 * [fi] _<b>ottaen</b> huomioon_ "<b>taking</b> into account"
-
-### `Inf3`: infinitive
-
-Words in the third infinitive form (also known as the MA-infinitive)
-are assigned the `VerbForm` value `Inf3`.
-
-#### Examples
-
+  (second infinitive)
 * [fi] _Menen <b>katsomaan</b> musikaalia_ "I am going to <b>see</b> a musical"
+  (third infinitive)
 
 ### `Part`: participle
 
