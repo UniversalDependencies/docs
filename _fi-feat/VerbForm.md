@@ -47,6 +47,8 @@ for verbs.
 ### `Part`: participle
 
 Words in participle forms are assigned the `VerbForm` value `Part`.
+Participle forms are further differentiated using the feature
+[PartForm]().
 
 #### Examples
 
