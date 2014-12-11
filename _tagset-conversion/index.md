@@ -23,3 +23,5 @@ title: 'Tagset conversion tables'
 * <a href="grc-conll-uposf.html">grc::conll</a> (Ancient Greek)
 * <a href="he-conll-uposf.html">he::conll</a> (Hebrew)
 * <a href="hi-conll-uposf.html">hi::conll</a> (Hindi)
+* <a href="hr-multext-uposf.html">hr::multext</a> (Croatian)
+* <a href="hu-conll-uposf.html">hu::conll</a> (Hungarian)
