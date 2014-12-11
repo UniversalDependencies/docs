@@ -1,0 +1,719 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Tagset hu::conll conversion to universal POS tags and features</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_tagset-conversion/hu-conll-uposf.md" target="#">edit page</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <p><a href="index.html">all tables</a></p>
+
+<h2 id="tagset-huconll">Tagset hu::conll</h2>
+
+<p><strong>Disclaimer:</strong>
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.</p>
+
+<p>Tagset <tt>hu::conll</tt>, total 576 tags.</p>
+
+<table>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Plur</td><td><em>szegényebbeket</em></td></tr>
+  <tr><td>A Af deg=comparative|n=plural|case=adessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur</td><td><em>értékesebbeknél</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em>idősebbek, kelendőbbek, mindenhatóbbak, tehetősebbek, hevültebbek</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Sing</td><td><em>nagyobbat, profibbat, rövidebbet, nehezebbet</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Number=Sing</td><td><em>jobbnak, kockázatosabbnak, Találóbbnak, idősebbnek, fontosabbnak</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=delative</td><td>=&gt;</td><td>ADJ</td><td>Case=Del|Degree=Comp|Number=Sing</td><td><em>messzebbről</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing</td><td><em>gyorsabban, pontosabban, olcsóbban, különösebben, lassabban</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=factive</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing</td><td><em>szebbé, valószínűbbé, könnyebbé, feszültebbé, óvatosabbá</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em>rosszabban</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing</td><td><em>nagyobb, újabb, korábbi, kisebb, utóbbi</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Comp|Number=Sing</td><td><em>magasabbra, szorosabbra, jobbra, fehérebbre, messzebbre</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=ablative</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur</td><td><em>jövedelműektől, szabaddemokratáktól, jövőbeliektől, veszélyesektől, szélsőjobboldaliaktól</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=ablative|pednumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur|Number[psee]=Sing</td><td><em>államiakétól</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Number=Plur</td><td><em>lévőket, érkezőket, nyelvűeket, szerződéseseket, fogottakat</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=adessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|Number=Plur</td><td><em>rendelkezőknél, előírtaknál, fenntartásúaknál</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=allative</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|Number=Plur</td><td><em>felsoroltakhoz</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Number=Plur</td><td><em>kitartóknak, perverzeknek, megkérdezetteknek, illetékességűeknek, túlzottaknak</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=delative</td><td>=&gt;</td><td>ADJ</td><td>Case=Del|Degree=Pos|Number=Plur</td><td><em>elhangzottakról</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=factive</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Plur</td><td><em>létezőkké</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=genitive</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Number=Plur</td><td><em>elváltaknak</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=illative</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|Number=Plur</td><td><em>égetőkbe</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|Number=Plur</td><td><em>nyolcvanasokban</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=instrumental</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Number=Plur</td><td><em>ideiglenesekkel, égetőkkel, elhangzottakkal, előzőekkel</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Plur</td><td><em>képesek, kénytelenek, kíváncsiak, biztosak, hajlandók</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=nominative|pednumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Plur|Number[psee]=Sing</td><td><em>foglalkozásúaké</em></td></tr>
+  <tr><td>A Af deg=positive|n=plural|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>leszármazottai, elkészítői</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Pos|Number=Plur</td><td><em>részesülőkre</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=ablative</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Sing</td><td><em>várttól, jelenlegitől, fölsőtől</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Number=Sing</td><td><em>kicsit, picit, hasonlót, nagyot, alapút</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=adessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Pos|Number=Sing</td><td><em>évinél, tavalyinál, ezresnél, vártnál, valóságosnál</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=allative</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Pos|Number=Sing</td><td><em>tavalyihoz, mostanihoz, Leonardo_da_Vinci_utcaihoz, üzletihez, 1997-eshez</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=causalis</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Degree=Pos|Number=Sing</td><td><em>rosszért</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Number=Sing</td><td><em>jónak, hajlandónak, fontosnak, természetesnek, életképesnek</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=dative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>megtestesítőjének, ismerőjének</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=elative</td><td>=&gt;</td><td>ADJ</td><td>Case=Ela|Degree=Pos|Number=Sing</td><td><em>közösből</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|Number=Sing</td><td><em>követően, teljesen, pontosan, gyorsan, egyszerűen</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=essiveformal</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Pos|Number=Sing|Style=Form</td><td><em>Hasonlóképpen, következőképpen, kellőképpen, hasonlóképp, különösképp</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=factive</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing</td><td><em>lehetővé, gyógyíthatóvá, feleslegessé, híressé, érdektelenné</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=factive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>hegemónjává</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=genitive</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Number=Sing</td><td><em>ezelőttinek, megszokottnak</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=illative</td><td>=&gt;</td><td>ADJ</td><td>Case=Ill|Degree=Pos|Number=Sing</td><td><em>pozitívba</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Pos|Number=Sing</td><td><em>élőben, országosban, egyenesben, élesben, fapadosban</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=instrumental</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Number=Sing</td><td><em>liliputival, kilométernyivel, hasonlóval, rosszal</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Sing</td><td><em>új, magyar, nagy, amerikai, német</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=nominative|pednumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Sing|Number[psee]=Sing</td><td><em>négyzetméteresé, komplexé, svédé</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>felszámolója, megértője, elvarázsoltja, kiváltója, ismerője</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=positive|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Pos|Number=Sing</td><td><em>fősre, tisztára, Hasonlóra, körülire, válságosra</em></td></tr>
+  <tr><td>A Af deg=positive|n=singular|case=sublative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>tizenötszörösére, negyvenszeresére</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=superlative|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Number=Plur</td><td><em>legkülönösebbeket, legelesettebbeket, leggazdagabbakat, legszegényebbeket, legszebbeket</em></td></tr>
+  <tr><td>A Af deg=superlative|n=plural|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>legszegényebbjeit</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=superlative|n=plural|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Number=Plur</td><td><em>legnagyobbak, leggyengébbek, leggyakoribbak, legszebbek, legképzettebbek</em></td></tr>
+  <tr><td>A Af deg=superlative|n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Sing</td><td><em>legjobbnak, legtekintélyesebbnek, leginformatívabbnak, legharciasabbnak, legfontosabbnak</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=superlative|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Sup|Number=Sing</td><td><em>leghihetőbben, leglátványosabban, legteljesebben</em></td></tr>
+  <tr><td>A Af deg=superlative|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Number=Sing</td><td><em>legnagyobb, legfontosabb, legfőbb, legjobb, legkisebb</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=superlative|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Sup|Number=Sing</td><td><em>legújabbra, leggyorsabbra, legfehérebbre</em></td></tr>
+  <tr><td>C Cc ctype=coordinating</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>és, is, s, de, vagy</em></td></tr>
+  <tr style="background:lightgray"><td>C Cs ctype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>hogy, mint, ha, mert, mivel</em></td></tr>
+  <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ja, Hiába</em></td></tr>
+  <tr style="background:lightgray"><td>I Io _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>persze, Íme, mindegy, sajnos, nem</em></td></tr>
+  <tr><td>M Mc n=plural|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td><em>százmilliárdokat, dollármilliárdokat, sokakat</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em>sokaknak</em></td></tr>
+  <tr><td>M Mc n=plural|case=genitive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>tízezreinek</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em>sokakban</em></td></tr>
+  <tr><td>M Mc n=plural|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Plur</td><td><em>milliárdokkal</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Plur</td><td><em>többek, sokak, tízezrek, kevesek, százmilliók</em></td></tr>
+  <tr><td>M Mc n=plural|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>tízezrei</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>többször, sokszor, kétszer, egyszer, háromszor</em></td></tr>
+  <tr><td>M Mc n=singular|case=ablative</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em>1991-től, 2000-től, 1997-től, egytől, 1973-tól</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Sing</td><td><em>sokat, többet, kevesebbet, kettőt, legtöbbet</em></td></tr>
+  <tr><td>M Mc n=singular|case=adessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Card|Number=Sing</td><td><em>ezernél, 11-nél, száznál, százötvennél, hatvannál</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=causalis</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|Number=Sing</td><td><em>hatvanért, 4_millióért, ötvenhatért, többért, negyvenötért</em></td></tr>
+  <tr><td>M Mc n=singular|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Sing</td><td><em>soknak, kettőnek, egynek, 500-nak</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=delative</td><td>=&gt;</td><td>NUM</td><td>Case=Del|NumType=Card|Number=Sing</td><td><em>3-ról, 28-ról, Huszonegyről, 386-ról, 4-ről</em></td></tr>
+  <tr><td>M Mc n=singular|case=elative</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|NumType=Card|Number=Sing</td><td><em>negyvenötmillióból, ezerből, 1927-ből, 17-ből, 1641-ből</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=essive</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|NumType=Card|Number=Sing</td><td><em>többen, ezren, legtöbben, ketten, kevesen</em></td></tr>
+  <tr><td>M Mc n=singular|case=genitive</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Sing</td><td><em>35-nek, egynek</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=illative</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|NumType=Card|Number=Sing</td><td><em>sokba, többe, millióba, 7_millióba, egymillióba</em></td></tr>
+  <tr><td>M Mc n=singular|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em>1997-ben, 1998-ban, 1996-ban, 1991-ben, 1995-ben</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em>eggyel, 2_milliárddal, 5_millióval, 160_ezerrel, hárommillióval</em></td></tr>
+  <tr><td>M Mc n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>százával, tízezrével</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing</td><td><em>több, két, egy, három, sok</em></td></tr>
+  <tr><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>legtöbbje, 10_milliárdja</em></td></tr>
+  <tr><td>M Mc n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Card|Number=Sing</td><td><em>2000-re, 2002-re, egyre, háromra, tizenkétmillióra</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=temporalis</td><td>=&gt;</td><td>NUM</td><td>Case=Tem|NumType=Card|Number=Sing</td><td><em>8-kor, kilenckor</em></td></tr>
+  <tr><td>M Mc n=singular|case=terminative</td><td>=&gt;</td><td>NUM</td><td>Case=Ter|NumType=Card|Number=Sing</td><td><em>1997-ig, 1924-ig, 1998-ig, 2003-ig, 1927-ig</em></td></tr>
+  <tr style="background:lightgray"><td>M Md n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Dist|Number=Sing</td><td><em>egy-egy, 9-9, 15-15, három-három, 150-150</em></td></tr>
+  <tr><td>M Mf n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>negyedét, egyharmadát, egyhatodát, ötödét, háromnegyedét</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=adessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>egytizedénél</em></td></tr>
+  <tr><td>M Mf n=singular|case=causalis|pednumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Frac|Number=Sing|Number[psee]=Sing</td><td><em>harmadáért-negyedéért</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=inessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>negyedében</em></td></tr>
+  <tr><td>M Mf n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Frac|Number=Sing</td><td><em>tizeddel, 8,9-del</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>harmadával</em></td></tr>
+  <tr><td>M Mf n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Frac|Number=Sing</td><td><em>fél, másfél, 1,5-2, 2,5, 3,5</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>egyharmada, kétharmada, háromnegyede, negyede, tizede</em></td></tr>
+  <tr><td>M Mf n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Frac|Number=Sing</td><td><em>76,8-ra</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=sublative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>tizedére</em></td></tr>
+  <tr><td>M Mo n=singular</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Sing</td><td><em>másodszor</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Ord|Number=Sing</td><td><em>másodiknak</em></td></tr>
+  <tr><td>M Mo n=singular|case=essiveformal</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|NumType=Ord|Number=Sing|Style=Form</td><td><em>elsőként, ötödikként</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Sing</td><td><em>tizenhetedikben</em></td></tr>
+  <tr><td>M Mo n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord|Number=Sing</td><td><em>első, második, 20., 1999., harmadik</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|NumType=Ord|Number=Sing</td><td><em>harmadikra</em></td></tr>
+  <tr><td>N Nc n=plural|case=ablative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur</td><td><em>évektől, olvasóktól, szülőktől, Vízimadaraktól, túlkapásoktól</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=ablative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|Number[psee]=Sing</td><td><em>korábbiakétól</em></td></tr>
+  <tr><td>N Nc n=plural|case=ablative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>határainktól</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=ablative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>szerveitől, sovinisztáitól, lakóitól, fuvarosaitól, felfedezéseitől</em></td></tr>
+  <tr><td>N Nc n=plural|case=accusative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur</td><td><em>adatokat, embereket, feltételeket, tojásokat, kötvényeket</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=accusative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psee]=Sing</td><td><em>járőrökét, nyomozókét, ügyeletekét, legelőkét</em></td></tr>
+  <tr><td>N Nc n=plural|case=accusative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>gyermekeinket, vendégeinket, nagyjainkat, termelőinket, tojásainkat</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=accusative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=1</td><td><em>barátaimat</em></td></tr>
+  <tr><td>N Nc n=plural|case=accusative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>terveiket, jövedelmeiket, ügyeiket, erőiket, erőfeszítéseiket</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=accusative|proper=no|pperson=3rd|pnumber=plural|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psee]=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>sorstársaikét</em></td></tr>
+  <tr><td>N Nc n=plural|case=accusative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>lehetőségeit, adatait, eredményeit, vezetőit, költségeit</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=adessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur</td><td><em>ingatlanoknál, lakásingatlanoknál, eddigieknél, lakásoknál, fentieknél</em></td></tr>
+  <tr><td>N Nc n=plural|case=adessive|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|Number[psor]=Sing|Person[psor]=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=adessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>szomszédaiknál</em></td></tr>
+  <tr><td>N Nc n=plural|case=adessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>partjainál, önkormányzatainál, leányvállalatainál, határainál, kirendeltségeinél</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=adessive|proper=no|pperson=3rd|pnumber=singular|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Plur|Number[psee]=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>irodáiénál</em></td></tr>
+  <tr><td>N Nc n=plural|case=allative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur</td><td><em>feltételekhez, erőművekhez, abházokhoz, áramlatokhoz, évekhez</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=allative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|Number[psee]=Sing</td><td><em>képviselőkéhez, férfiakéhoz</em></td></tr>
+  <tr><td>N Nc n=plural|case=allative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>partnereinkhez</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=allative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>rendszereihez, igényeihez, lakásaihoz, italaihoz, normáihoz</em></td></tr>
+  <tr><td>N Nc n=plural|case=causalis|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Cau|Number=Plur</td><td><em>ügyekért, operaprogramokért, magyarokért, ingyenpénzekért, sírhelyekért</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=causalis|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Cau|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>kegyeiért</em></td></tr>
+  <tr><td>N Nc n=plural|case=dative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur</td><td><em>embereknek, szerbeknek, befektetőknek, önkormányzatoknak, családoknak</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=dative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>barátainknak</em></td></tr>
+  <tr><td>N Nc n=plural|case=dative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>követelményeiknek, munkatársaiknak</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=dative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>vezetőinek, normáinak, kérdéseinek, szándékainak, karjainak</em></td></tr>
+  <tr><td>N Nc n=plural|case=delative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Plur</td><td><em>eseményekről, kérdésekről, kezdetekről, szenvedélyekről, érzelmekről</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=delative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Plur|Number[psee]=Sing</td><td><em>nagykinizsieké</em></td></tr>
+  <tr><td>N Nc n=plural|case=delative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>szomszédainkról</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=delative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>kávézóikról</em></td></tr>
+  <tr><td>N Nc n=plural|case=delative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>kérdéseiről, tulajdonságairól, szándékairól, vezetőiről, darabjairól</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=elative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur</td><td><em>forrásokból, okokból, támogatásokból, jegyeladásokból, anyagokból</em></td></tr>
+  <tr><td>N Nc n=plural|case=elative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|Number[psee]=Sing</td><td><em>országokéból</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=elative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>szokásainkból</em></td></tr>
+  <tr><td>N Nc n=plural|case=elative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>szobáikból, ruháikból</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=elative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>földjeiből, visszaemlékezéseiből, tanulmányaiból, halottaiból, törzseiből</em></td></tr>
+  <tr><td>N Nc n=plural|case=essiveformal|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|Style=Form</td><td><em>istenekként, dokumentumokként</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=essiveformal|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Plur|Number[psor]=Sing|Person[psor]=3|Style=Form</td><td><em>fiókegyházaiként, bástyáiként</em></td></tr>
+  <tr><td>N Nc n=plural|case=factive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur</td><td><em>emberekké, tettekké</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=factive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>fordulataivá</em></td></tr>
+  <tr><td>N Nc n=plural|case=genitive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur</td><td><em>eszközöknek, embereknek, nőknek, menekülteknek, törvénytábláknak</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=genitive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>NATO-képviselőnknek</em></td></tr>
+  <tr><td>N Nc n=plural|case=genitive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>céljaiknak</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=genitive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>részvényeinek, vezetőinek, gondjainak, áldozatainak, képviselőinek</em></td></tr>
+  <tr><td>N Nc n=plural|case=illative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur</td><td><em>számítógépekbe, lakásokba, termekbe, tárgyalásokba, midibuszokba</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=illative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>mindennapjainkba</em></td></tr>
+  <tr><td>N Nc n=plural|case=illative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>pórusaiba, annaleseibe, költségeibe, alagútjaiba, szabályaiba</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=inessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur</td><td><em>években, napokban, országokban, hónapokban, hetekben</em></td></tr>
+  <tr><td>N Nc n=plural|case=inessive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>napjainkban, csapatainkban</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=inessive|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=1</td><td><em>ereimben</em></td></tr>
+  <tr><td>N Nc n=plural|case=inessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>szatyraikban, téziseikben</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=inessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>alapjaiban, éveiben, kávébárjaiban, portrészobraiban, háborúiban</em></td></tr>
+  <tr><td>N Nc n=plural|case=instrumental|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur</td><td><em>eszközökkel, következményekkel, erőkkel, NATO-csapásokkal, módszerekkel</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=instrumental|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|Number[psee]=Sing</td><td><em>vezetőkével</em></td></tr>
+  <tr><td>N Nc n=plural|case=instrumental|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>társainkkal</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=instrumental|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>műveikkel, döntéseikkel, törekvéseikkel</em></td></tr>
+  <tr><td>N Nc n=plural|case=instrumental|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>terveivel, kollégáival, vezetőivel, elképzeléseivel, alakzataival</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=nominative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur</td><td><em>évek, szerbek, emberek, albánok, nők</em></td></tr>
+  <tr><td>N Nc n=plural|case=nominative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psee]=Sing</td><td><em>szerbeké, mellsebészeké, ortodoxoké, festőké, albánoké</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=nominative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>olvasóink, eleink, napjaink, Információink, számításaink</em></td></tr>
+  <tr><td>N Nc n=plural|case=nominative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1</td><td><em>olvasmányélményeim, Tapasztalataim, Szüleim, Uraim, gyerekeim</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=nominative|proper=no|pperson=2nd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=2</td><td><em>művészeteitek, hőseitek</em></td></tr>
+  <tr><td>N Nc n=plural|case=nominative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>elődeik, kortársaik, juttatásaik, szavazóik, számításaik</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=nominative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>tagjai, adatai, vezetői, képviselői, hívei</em></td></tr>
+  <tr><td>N Nc n=plural|case=sublative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Plur</td><td><em>célokra, feladatokra, időkre, bajokra, területekre</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=sublative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>intézményeinkre, szüleinkre</em></td></tr>
+  <tr><td>N Nc n=plural|case=sublative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=1</td><td><em>Nézeteimre</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=sublative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>bázisaikra</em></td></tr>
+  <tr><td>N Nc n=plural|case=sublative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>mellékfolyóira, eredményeire, vidékeire, költségeire, hiteleire</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=superessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Plur</td><td><em>területeken, településeken, kormányüléseken, utakon, éveken</em></td></tr>
+  <tr><td>N Nc n=plural|case=superessive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>határainkon</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=superessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Plur|Number[psor]=Plur|Person[psor]=3</td><td><em>koncertjeiken, gyűjtőútjaikon</em></td></tr>
+  <tr><td>N Nc n=plural|case=superessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>határain, ülésein, eredményein, területein, bankárain</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=temporalis|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Tem|Number=Plur</td><td><em>alkalmakkor</em></td></tr>
+  <tr><td>N Nc n=plural|case=terminative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Plur</td><td><em>évekig, napokig, évtizedekig, éttermekig, ínyencségekig</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=plural|case=terminative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>napjainkig</em></td></tr>
+  <tr><td>N Nc n=singular|case=ablative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing</td><td><em>évtől, kormánytól, tárcától, politikától, lőfegyvertől</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=ablative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>koromtól</em></td></tr>
+  <tr><td>N Nc n=singular|case=ablative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>szülőhazájuktól, elnöküktől</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=ablative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>1-jétől, vezetőjétől, közepétől, elsejétől, felétől</em></td></tr>
+  <tr><td>N Nc n=singular|case=accusative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing</td><td><em>forintot, részt, pénzt, dollárt, szerepet</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=accusative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psee]=Sing</td><td><em>bányáét, teáét</em></td></tr>
+  <tr><td>N Nc n=singular|case=accusative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>írásunkat, lapunkat, rendszerünket, életünket, kérdésünket</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=accusative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>apámat, részemet, kedvemet, Mentalitásomat, anyámat</em></td></tr>
+  <tr><td>N Nc n=singular|case=accusative|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>Excellenciádat</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=accusative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>pénzüket, igényüket, hozzájárulásukat, különvéleményüket, helyüket</em></td></tr>
+  <tr><td>N Nc n=singular|case=accusative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>százalékát, részét, életét, munkáját, szerepét</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=accusative|proper=no|pperson=3rd|pnumber=singular|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Number=Sing|Number[psee]=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>elnökéét</em></td></tr>
+  <tr><td>N Nc n=singular|case=adessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing</td><td><em>évnél, korábbinál, százaléknál, vadásztársaságnál, óránál</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=adessive|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|Number[psee]=Sing</td><td><em>kancellárénál</em></td></tr>
+  <tr><td>N Nc n=singular|case=adessive|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=adessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>környezetüknél</em></td></tr>
+  <tr><td>N Nc n=singular|case=adessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>megállójánál, tervezésénél, szentségénél, életénél, meghatározásánál</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=allative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing</td><td><em>tárgyalóasztalhoz, földhöz, bravúrhoz, feltételhez, békéhez</em></td></tr>
+  <tr><td>N Nc n=singular|case=allative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|Number[psee]=Sing</td><td><em>átalakításéhoz</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=allative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>lakhelyemhez, könyvemhez</em></td></tr>
+  <tr><td>N Nc n=singular|case=allative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>kiképzésükhöz, állításukhoz, környezetükhöz, oldalukhoz, felszerelésükhöz</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=allative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>nevéhez, megteremtéséhez, eléréséhez, felújításához, előállításához</em></td></tr>
+  <tr><td>N Nc n=singular|case=causalis|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Cau|Number=Sing</td><td><em>forintért, dollárért, pénzért, euróért, májátültetésért</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=causalis|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Cau|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>pénzükért</em></td></tr>
+  <tr><td>N Nc n=singular|case=causalis|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>újrafelosztásáért, kedvéért, módosításáért, megszüntetéséért, tendenciájáért</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=dative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Sing</td><td><em>kormánynak, embernek, parlamentnek, fegyvernek, sikernek</em></td></tr>
+  <tr><td>N Nc n=singular|case=dative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>lapunknak, tudósítónknak, kedvesünknek, munkatársunknak, születésünknek</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=dative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>sportszerüzletemnek</em></td></tr>
+  <tr><td>N Nc n=singular|case=dative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>előrejelzésüknek, apjuknak, szervezetüknek</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=dative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>százalékának, követelményének, többségének, akaratának, bázisának</em></td></tr>
+  <tr><td>N Nc n=singular|case=delative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Sing</td><td><em>százalékról, háborúról, dollárról, ügyről, dologról</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=delative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>Bolygónkról, oldalunkról, felsőbbrendűségünkről</em></td></tr>
+  <tr><td>N Nc n=singular|case=delative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>jelenlétükről, takarításukról</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=delative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>módosításáról, posztjáról, átalakításáról, éléről, túloldaláról</em></td></tr>
+  <tr><td>N Nc n=singular|case=distributive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Dis|Number=Sing</td><td><em>másodpercenként, négyzetméterenként, tonnánként, óránként, esténként</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=elative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing</td><td><em>szempontból, költségvetésből, forintból, önerőből, forrásból</em></td></tr>
+  <tr><td>N Nc n=singular|case=elative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>tudatunkból</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=elative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>megvalósításukból, költségvetésükből, lábukból, vagyonukból, házukból</em></td></tr>
+  <tr><td>N Nc n=singular|case=elative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>szempontjából, jóvoltából, monográfiájából, zsebéből, szövegéből</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=essiveformal|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Form</td><td><em>szükségképpen, miniszterként, tulajdonosként, személyként, példaként</em></td></tr>
+  <tr><td>N Nc n=singular|case=essiveformal|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3|Style=Form</td><td><em>részeként, következményeként, alapegységeként, alelnökeként, írójaként</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=essive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing</td><td><em>ráadásul, hírül, célul, segítségül, tudomásul</em></td></tr>
+  <tr><td>N Nc n=singular|case=essive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>kalauzunkul</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=essive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>példájául, központjául</em></td></tr>
+  <tr><td>N Nc n=singular|case=factive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing</td><td><em>várossá, bérmunkássá, sztárrá, társasággá, panzióvá</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=factive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>részévé, célpontjává, törvényévé, tagjává, korává</em></td></tr>
+  <tr><td>N Nc n=singular|case=genitive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing</td><td><em>rendőrségnek, kormánynak, embernek, államnak, tárcának</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=genitive|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|Number[psee]=Sing</td><td><em>kerületének, flopikénak</em></td></tr>
+  <tr><td>N Nc n=singular|case=genitive|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>méhednek</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=genitive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>üzletközpontjuknak, vendégforgalmuknak</em></td></tr>
+  <tr><td>N Nc n=singular|case=genitive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>történetének, lakosságának, bizottságának, tevékenységének, tanszékének</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=illative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing</td><td><em>figyelembe, forgalomba, helyzetbe, igénybe, őrizetbe</em></td></tr>
+  <tr><td>N Nc n=singular|case=illative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>nyakunkba, állományunkba, szívünkbe, hazánkba</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=illative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>eszembe, kezembe, Cégembe</em></td></tr>
+  <tr><td>N Nc n=singular|case=illative|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>gépedbe</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=illative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>programjukba, eszükbe, prospektusukba, kezükbe, laboratóriumukba</em></td></tr>
+  <tr><td>N Nc n=singular|case=illative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>felszámolásába, eszébe, tulajdonába, birtokába, irányába</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=inessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing</td><td><em>évben, kapcsolatban, esetben, mértékben, időben</em></td></tr>
+  <tr><td>N Nc n=singular|case=inessive|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psee]=Sing</td><td><em>lényegében, többségében, összességében, ijedtükben</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=inessive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>életünkben, matyószobánkban, korunkban, hazánkban, birodalmunkban</em></td></tr>
+  <tr><td>N Nc n=singular|case=inessive|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>könyvemben, koromban, lakásomban, írásomban, szenvedélyemben</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=inessive|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>kibontakozásodban, kezedben, életedben</em></td></tr>
+  <tr><td>N Nc n=singular|case=inessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>fodrászatukban, érdekükben, tulajdonukban, Adatbázisukban, leleményességükben</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=inessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>esetében, érdekében, felében, könyvében, körében</em></td></tr>
+  <tr><td>N Nc n=singular|case=instrumental|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing</td><td><em>évvel, százalékkal, nappal, sikerrel, alkalommal</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=instrumental|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psee]=Sing</td><td><em>erőműével</em></td></tr>
+  <tr><td>N Nc n=singular|case=instrumental|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>programunkkal, akciónkkal, lapunkkal, múltunkkal</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=instrumental|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>életformámmal, unokabátyámmal, szememmel, keresztnevemmel</em></td></tr>
+  <tr><td>N Nc n=singular|case=instrumental|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>jogoddal</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=instrumental|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>kínálatukkal, öltözetükkel, múltjukkal, igényükkel, gyakorlatukkal</em></td></tr>
+  <tr><td>N Nc n=singular|case=instrumental|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>segítségével, kivételével, bevonásával, támogatásával, részével</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=locative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>helyütt</em></td></tr>
+  <tr><td>N Nc n=singular|case=nominative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td><em>kormány, év, század, forint, cég</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=nominative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psee]=Sing</td><td><em>pártarányosításé, kerületé, szövetségé, férfié, cukoré</em></td></tr>
+  <tr><td>N Nc n=singular|case=nominative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>kultúránk, tudósítónk, hazánk, szükségünk, pénzünk</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=nominative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>időm, barátom, ismerősöm, édesanyám, álmom</em></td></tr>
+  <tr><td>N Nc n=singular|case=nominative|proper=no|pperson=2nd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=2</td><td><em>bálványotok, vezetőtök, paradicsomotok, reményetek</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=nominative|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>ellenfeled, kapcsolatod, aranytartalékod</em></td></tr>
+  <tr><td>N Nc n=singular|case=nominative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>követelésük, számuk, árbevételük, esélyük, százalékuk</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=nominative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>százaléka, éve, vezetője, száma, elnöke</em></td></tr>
+  <tr><td>N Nc n=singular|case=nominative|proper=no|pperson=3rd|pnumber=singular|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing|Number[psee]=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>vezetőjéé</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=sociative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing</td><td><em>kamatostul, családostul</em></td></tr>
+  <tr><td>N Nc n=singular|case=sublative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing</td><td><em>évre, forintra, nyilvánosságra, kilométerre, kérdésre</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=sublative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing|Number[psee]=Sing</td><td><em>uralkodóéra</em></td></tr>
+  <tr><td>N Nc n=singular|case=sublative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>kérdésünkre, érdeklődésünkre, figyelmünkre, kedvünkre, családunkra</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=sublative|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>szülőföldemre, kérdésemre, pártomra, soromra, Kopogtatásomra</em></td></tr>
+  <tr><td>N Nc n=singular|case=sublative|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>követelésükre, zászlójukra, sajtójukra, rögzítésükre, sorsukra</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=sublative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>végére, kérdésére, élére, hatására, százalékára</em></td></tr>
+  <tr><td>N Nc n=singular|case=superessive|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing</td><td><em>héten, módon, helyen, területen, pénteken</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=superessive|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>képünkön, születésnapunkon, tájegységünkön, bolygónkon</em></td></tr>
+  <tr><td>N Nc n=singular|case=superessive|proper=no|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>nénémen, fejemen</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=superessive|proper=no|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>számítógépeden</em></td></tr>
+  <tr><td>N Nc n=singular|case=superessive|proper=no|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em>élükön, lakóhelyükön, sérülésükön, megtelepülésükön, döntésükön</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=superessive|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>alapján, során, elején, végén, esetén</em></td></tr>
+  <tr><td>N Nc n=singular|case=temporalis|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Tem|Number=Sing</td><td><em>órakor, induláskor, perckor, átültetéskor, záráskor</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=temporalis|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Tem|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>lapzártánkkor</em></td></tr>
+  <tr><td>N Nc n=singular|case=temporalis|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>lejártakor, elkövetésekor, készítésekor, átadásakor, kialakításakor</em></td></tr>
+  <tr style="background:lightgray"><td>N Nc n=singular|case=terminative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Sing</td><td><em>ideig, évig, máig, napig, hónapig</em></td></tr>
+  <tr><td>N Nc n=singular|case=terminative|proper=no|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>végéig, 30-áig, 31-ig, elejéig, elfogadásáig</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=plural|case=accusative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Plur</td><td><em>Altemps-_és_Ludovisi-gyűjteményeket</em></td></tr>
+  <tr><td>N Np n=plural|case=allative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Plur</td><td><em>Koris_Jánosékat</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=plural|case=dative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N Np n=plural|case=instrumental|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Number=Plur</td><td><em>Sári_Jánosékkal</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=plural|case=nominative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Plur</td><td><em>HVK-k, Wrighték, Zastavák, Mussoliniék, Berlini_Filharmonikusok</em></td></tr>
+  <tr><td>N Np n=plural|case=sublative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Sub|Number=Plur</td><td><em>Habsburgokra</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=ablative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Number=Sing</td><td><em>Belgrádtól, Postabanktól, Cu_Tron-szigettől, Afganisztántól, Tallintól</em></td></tr>
+  <tr><td>N Np n=singular|case=accusative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Sing</td><td><em>Koszovót, Pinochetet, Földet, Vjahirevet, HVG-t</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=accusative|proper=yes|pednumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Sing|Number[psee]=Sing</td><td><em>Gazdasági_Versenyhivatalét, Faust_elkárhozását</em></td></tr>
+  <tr><td>N Np n=singular|case=accusative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Mein_Kampfját, Magyarországát, Dubrovnikját, Olümpuszát</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=adessive|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Number=Sing</td><td><em>IBM-nél, Gazpromnál, ÖIAG-nál, London_Brókernél, Morininál</em></td></tr>
+  <tr><td>N Np n=singular|case=allative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Sing</td><td><em>Csehországhoz, Fazokas_Károlyhoz, Kínához, Nehézipari_Munkások_Nemzeti_Sport_Köréhez, Nógrád_Megyei_Horgász_Szövetséghez</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=allative|proper=yes|pednumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Sing|Number[psee]=Sing</td><td><em>Daewooéhoz, McDonald'séhoz</em></td></tr>
+  <tr><td>N Np n=singular|case=allative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Aranypálmájához</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=causalis|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Cau|Number=Sing</td><td><em>Magyarországért, Kék_Szalagért</em></td></tr>
+  <tr><td>N Np n=singular|case=dative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Sing</td><td><em>HVG-nek, Magyarországnak, Sínai-hegynek, Reményinek, MTI-nek</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=dative|proper=yes|pperson=2nd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2</td><td><em>Nagyméltóságodnak, Excellenciádnak</em></td></tr>
+  <tr><td>N Np n=singular|case=dative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Sínai-hegyének</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=delative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Del|Number=Sing</td><td><em>Kecskemétről, Magyarországról, Ibériai-félszigetről, Rózsadombról, Szkuratovról</em></td></tr>
+  <tr><td>N Np n=singular|case=delative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Nagy_Terrorjáról</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=elative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Number=Sing</td><td><em>Koszovóból, Németországból, Oroszországból, Pristinából, Jeruzsálemből</em></td></tr>
+  <tr><td>N Np n=singular|case=elative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Szent_Patrik-székesegyházából</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=essiveformal|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Number=Sing|Style=Form</td><td><em>Dragutinként</em></td></tr>
+  <tr><td>N Np n=singular|case=factive|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Number=Sing</td><td><em>Gérard_Philipe-pé</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=genitive|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing</td><td><em>Magyarországnak, Anatinak, Fonónak, DT-nek, Gazpromnak</em></td></tr>
+  <tr><td>N Np n=singular|case=genitive|proper=yes|pednumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing|Number[psee]=Sing</td><td><em>Faust_elkárhozásának</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=genitive|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Híradójának</em></td></tr>
+  <tr><td>N Np n=singular|case=illative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Number=Sing</td><td><em>Olaszországba, Londonba, NATO-ba, Belgrádba, Salzburgba</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=inessive|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Number=Sing</td><td><em>Európában, Franciaországban, USA-ban, Amerikában, Németországban</em></td></tr>
+  <tr><td>N Np n=singular|case=inessive|proper=yes|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1</td><td><em>Szépművészeti_Múzeumunkban</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=inessive|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Ausztriájában, Európájában, Frankensteinjében</em></td></tr>
+  <tr><td>N Np n=singular|case=instrumental|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Number=Sing</td><td><em>Ling_Antallal, Szovjetunióval, Jugoszláviával, Budapest_Bankkal, Ferenczy_Józseffel</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=nominative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing</td><td><em>HVG, Magyarország, NATO, Torgyán_József, Koszovó</em></td></tr>
+  <tr><td>N Np n=singular|case=nominative|proper=yes|pednumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing|Number[psee]=Sing</td><td><em>Horn_Gyuláé, Solymáré, Gérard_Depardieu-é, Őrbottyáné, Józsefvárosé</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=nominative|proper=yes|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1</td><td><em>Uram</em></td></tr>
+  <tr><td>N Np n=singular|case=nominative|proper=yes|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>Asta_Nielsené, Máriája, Spanyolországa, Rotonja, Álomfejtése</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=sublative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Sub|Number=Sing</td><td><em>Magyarországra, Koszovóra, Budapestre, Visegrádra, Földközi-tengerre</em></td></tr>
+  <tr><td>N Np n=singular|case=superessive|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Sup|Number=Sing</td><td><em>Magyarországon, Budapesten, Szolnokon, Pesten, Kecskeméten</em></td></tr>
+  <tr style="background:lightgray"><td>N Np n=singular|case=terminative|proper=yes</td><td>=&gt;</td><td>PROPN</td><td>Case=Ter|Number=Sing</td><td><em>Tésáig, Farkas_Jánosig, Kukesig, Csíkné_Horváth_Kláráig, Faragó_Tamásig</em></td></tr>
+  <tr><td>O Oh _</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>közép-, kis-, hang-, büntető-, bel-</em></td></tr>
+  <tr style="background:lightgray"><td>O Oi n=singular|case=nominative</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td><em>Cray-1, He-178, V3, R99, TX-0</em></td></tr>
+  <tr><td>O Oi n=singular|case=sublative</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing</td><td><em>Z1-re</em></td></tr>
+  <tr style="background:lightgray"><td>O On n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Digit|Number=Sing</td><td><em>6:2, 1:1, 7:6, 6:3, 3:39,82</em></td></tr>
+  <tr><td>O On n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumForm=Digit|Number=Sing</td><td><em>4:2-re</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Person=3|PronType=Dem</td><td><em>azokat, ezeket, mindazokat</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=adessive</td><td>=&gt;</td><td>DET</td><td>Case=Ade|Number=Plur|Person=3|PronType=Dem</td><td><em>azoknál</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=allative</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|Person=3|PronType=Dem</td><td><em>ezekhez, Mindezekhez, mindazokhoz</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=dative</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Person=3|PronType=Dem</td><td><em>azoknak, ezeknek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=delative</td><td>=&gt;</td><td>DET</td><td>Case=Del|Number=Plur|Person=3|PronType=Dem</td><td><em>azokról, Ezekről</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=elative</td><td>=&gt;</td><td>DET</td><td>Case=Ela|Number=Plur|Person=3|PronType=Dem</td><td><em>ezekből, ugyanazokból, azokból</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=genitive</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Person=3|PronType=Dem</td><td><em>azoknak, ezeknek, mindezeknek</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=inessive</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|Person=3|PronType=Dem</td><td><em>azokban, ezekben</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=instrumental</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Person=3|PronType=Dem</td><td><em>azokkal</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Plur|Person=3|PronType=Dem</td><td><em>azok, ezek, olyanok, mindazok, Mindezek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=sublative</td><td>=&gt;</td><td>DET</td><td>Case=Sub|Number=Plur|Person=3|PronType=Dem</td><td><em>ezekre, ugyanazokra</em></td></tr>
+  <tr><td>P Pd p=3rd|n=plural|case=superessive</td><td>=&gt;</td><td>DET</td><td>Case=Sup|Number=Plur|Person=3|PronType=Dem</td><td><em>ezeken, azokon</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|Person=3|PronType=Dem</td><td><em>attól, ettől</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|Person=3|PronType=Dem</td><td><em>azt, ezt, annyit, Mindezt, olyat</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=adessive</td><td>=&gt;</td><td>DET</td><td>Case=Ade|Number=Sing|Person=3|PronType=Dem</td><td><em>ennél, annál</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|Person=3|PronType=Dem</td><td><em>ahhoz, ehhez, mindehhez, ehhez-ahhoz</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=causalis</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|Person=3|PronType=Dem</td><td><em>azért, Mindezért, ezért, ugyanazért</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|Person=3|PronType=Dem</td><td><em>annak, ennek, ilyennek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=dative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Dem</td><td><em>mindannyiuknak</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=delative</td><td>=&gt;</td><td>DET</td><td>Case=Del|Number=Sing|Person=3|PronType=Dem</td><td><em>arról, erről</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=elative</td><td>=&gt;</td><td>DET</td><td>Case=Ela|Number=Sing|Person=3|PronType=Dem</td><td><em>ebből, abból, mindebből, ugyanabból</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=essive</td><td>=&gt;</td><td>DET</td><td>Case=Ess|Number=Sing|Person=3|PronType=Dem</td><td><em>ugyanennyien</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=factive</td><td>=&gt;</td><td>DET</td><td>Case=Tra|Number=Sing|Person=3|PronType=Dem</td><td><em>olyanná</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|Person=3|PronType=Dem</td><td><em>annak, ennek, mindannak, Mindennek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>DET</td><td>Case=Ill|Number=Sing|Person=3|PronType=Dem</td><td><em>ebbe, abba, annyiba</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|Person=3|PronType=Dem</td><td><em>abban, ebben, ugyanebben, annyiban</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|Person=3|PronType=Dem</td><td><em>azzal, ezzel, ennyivel, annyival, evvel</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Person=3|PronType=Dem</td><td><em>az, ez, olyan, e, ilyen</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=nominative|pednumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psee]=Sing|Person=3|PronType=Dem</td><td><em>azé</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>DET</td><td>Case=Sub|Number=Sing|Person=3|PronType=Dem</td><td><em>arra, erre, akkorára, Minderre</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd p=3rd|n=singular|case=superessive</td><td>=&gt;</td><td>DET</td><td>Case=Sup|Number=Sing|Person=3|PronType=Dem</td><td><em>azon, ezen, ugyanazon</em></td></tr>
+  <tr><td>P Pd p=3rd|n=singular|case=terminative</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|Person=3|PronType=Dem</td><td><em>addig</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Neg,Tot</td><td><em>mindegyikük</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindenkitől, mindentől, senkitől</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindent, semmit, senkit, mindenkit, mit</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Neg,Tot</td><td><em>mindenét, mindegyikét</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindenhez</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>senkinek, bárkinek, mindenkinek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=essive</td><td>=&gt;</td><td>PRON</td><td>Case=Ess|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>valamennyien, mindannyian</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>senkinek, mindenkinek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindenbe, semmibe</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindenkiben, mindenben</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=inessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Neg,Tot</td><td><em>mindegyikében</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>bármivel, mindegyikkel, mindenkivel, semmivel</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>minden, semmi, valamennyi, senki, mindenki</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=nominative|pednumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Number[psee]=Sing|Person=3|PronType=Neg,Tot</td><td><em>bármié, senkié</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Neg,Tot</td><td><em>valamennyiük</em></td></tr>
+  <tr><td>P Pg p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>mindenre, senkire, semmire</em></td></tr>
+  <tr style="background:lightgray"><td>P Pg p=3rd|n=singular|case=superessive</td><td>=&gt;</td><td>PRON</td><td>Case=Sup|Number=Sing|Person=3|PronType=Neg,Tot</td><td><em>Mindenen</em></td></tr>
+  <tr><td>P Pi p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Person=3|PronType=Ind</td><td><em>másokat, valakiket</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Plur|Person=3|PronType=Ind</td><td><em>egyebek, mások</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular</td><td>=&gt;</td><td>DET</td><td>Number=Sing|Person=3|PronType=Ind</td><td><em>néhányszor</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|Person=3|PronType=Ind</td><td><em>valakitől</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|Person=3|PronType=Ind</td><td><em>valamit, mást, valakit, egyiket, másikat</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=accusative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Ind</td><td><em>egyiküket</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind</td><td><em>egyikét</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|Person=3|PronType=Ind</td><td><em>másikhoz, valakihez</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=causalis</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|Person=3|PronType=Ind</td><td><em>valamiért</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|Person=3|PronType=Ind</td><td><em>valakinek, másnak</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=delative</td><td>=&gt;</td><td>DET</td><td>Case=Del|Number=Sing|Person=3|PronType=Ind</td><td><em>másról</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=essive</td><td>=&gt;</td><td>DET</td><td>Case=Ess|Number=Sing|Person=3|PronType=Ind</td><td><em>néhányan</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=essiveformal</td><td>=&gt;</td><td>DET</td><td>Case=Ess|Number=Sing|Person=3|PronType=Ind|Style=Form</td><td><em>egyébként</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=factive</td><td>=&gt;</td><td>DET</td><td>Case=Tra|Number=Sing|Person=3|PronType=Ind</td><td><em>mássá</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|Person=3|PronType=Ind</td><td><em>valakinek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>DET</td><td>Case=Ill|Number=Sing|Person=3|PronType=Ind</td><td><em>valamelyikbe</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|Person=3|PronType=Ind</td><td><em>egyikben</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|Person=3|PronType=Ind</td><td><em>valamivel, valakivel</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=instrumental|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Ind</td><td><em>egyikükkel</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Person=3|PronType=Ind</td><td><em>egyik, más, néhány, másik, valaki</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=nominative|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Ind</td><td><em>másikunk, egyikünk, néhányunk</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|PronType=Ind</td><td><em>egyikük</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind</td><td><em>egyike</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>DET</td><td>Case=Sub|Number=Sing|Person=3|PronType=Ind</td><td><em>másikra, másra</em></td></tr>
+  <tr><td>P Pi p=3rd|n=singular|case=superessive</td><td>=&gt;</td><td>DET</td><td>Case=Sup|Number=Sing|Person=3|PronType=Ind</td><td><em>másikon</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi p=3rd|n=singular|case=superessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Sup|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind</td><td><em>némelyikén</em></td></tr>
+  <tr><td>P Pp p=1st|n=plural|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs</td><td><em>bennünket, minket</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=1st|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs</td><td><em>mi</em></td></tr>
+  <tr><td>P Pp p=1st|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs</td><td><em>engem</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=1st|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td><em>én, magam</em></td></tr>
+  <tr><td>P Pp p=2nd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|PronType=Prs</td><td><em>ti</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=2nd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs</td><td><em>téged</em></td></tr>
+  <tr><td>P Pp p=2nd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs</td><td><em>te</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs</td><td><em>őket, magukat, önöket</em></td></tr>
+  <tr><td>P Pp p=3rd|n=plural|case=adessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ade|Number=Plur|Person=3|PronType=Prs</td><td><em>önöknél</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=plural|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Prs</td><td><em>maguknak</em></td></tr>
+  <tr><td>P Pp p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Prs</td><td><em>ők, maguk, önök</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Prs</td><td><em>magától</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Prs</td><td><em>őt, magát, önt</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=3|PronType=Prs</td><td><em>önmagához</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=causalis</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=3|PronType=Prs</td><td><em>önmagáért</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Prs</td><td><em>magának</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Sing|Person=3|PronType=Prs</td><td><em>önmagából</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=3|PronType=Prs</td><td><em>magának</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=3|PronType=Prs</td><td><em>önmagában, magában, egymagában</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Prs</td><td><em>önnel</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Prs</td><td><em>ő, maga, ön, önmaga</em></td></tr>
+  <tr style="background:lightgray"><td>P Pp p=3rd|n=singular|case=nominative|pednumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Number[psee]=Sing|Person=3|PronType=Prs</td><td><em>Övé</em></td></tr>
+  <tr><td>P Pp p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Prs</td><td><em>magára</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Int</td><td><em>kik, melyek, milyenek</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Int</td><td><em>mitől</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Int</td><td><em>mit, micsodát, kit, mennyit</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Int</td><td><em>kinek, minek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=delative</td><td>=&gt;</td><td>PRON</td><td>Case=Del|Number=Sing|Person=3|PronType=Int</td><td><em>miről</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Sing|Person=3|PronType=Int</td><td><em>miből, mennyiből</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=essive</td><td>=&gt;</td><td>PRON</td><td>Case=Ess|Number=Sing|Person=3|PronType=Int</td><td><em>hányan</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=3|PronType=Int</td><td><em>kinek, minek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Sing|Person=3|PronType=Int</td><td><em>Mennyibe</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=3|PronType=Int</td><td><em>mennyiben, Miben</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Int</td><td><em>mivel, mennyivel, kivel</em></td></tr>
+  <tr><td>P Pq p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Int</td><td><em>mi, milyen, ki, mekkora, melyik</em></td></tr>
+  <tr style="background:lightgray"><td>P Pq p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Int</td><td><em>mennyire, mire</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Plur|Person=3|PronType=Rel</td><td><em>akiktől, amelyektől</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyeket, akiket, melyeket, Amiket</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Plur|Person=3|PronType=Rel</td><td><em>amilyenekhez, amelyekhez</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Rel</td><td><em>akiknek</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=delative</td><td>=&gt;</td><td>PRON</td><td>Case=Del|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyekről, akikről</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyekből</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=genitive</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=3|PronType=Rel</td><td><em>akiknek, amelyeknek, melyeknek</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyekben, melyekben</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyekkel, melyekkel, akikkel</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Rel</td><td><em>akik, amelyek, melyek, amik</em></td></tr>
+  <tr><td>P Pr p=3rd|n=plural|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyekre, melyekre</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=plural|case=superessive</td><td>=&gt;</td><td>PRON</td><td>Case=Sup|Number=Plur|Person=3|PronType=Rel</td><td><em>amelyeken</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Rel</td><td><em>amitől, amelytől</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Rel</td><td><em>amit, amelyet, akit, amennyit, melyet</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=adessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ade|Number=Sing|Person=3|PronType=Rel</td><td><em>akinél</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=3|PronType=Rel</td><td><em>amihez, amelyhez, amelyikhez, akihez, melyhez</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=causalis</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=3|PronType=Rel</td><td><em>amiért, amelyért, melyért</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Rel</td><td><em>aminek, amilyennek, akinek, amelynek</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=delative</td><td>=&gt;</td><td>PRON</td><td>Case=Del|Number=Sing|Person=3|PronType=Rel</td><td><em>amelyről, amiről, akiről</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Sing|Person=3|PronType=Rel</td><td><em>amelyből, amiből, melyből</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=essive</td><td>=&gt;</td><td>PRON</td><td>Case=Ess|Number=Sing|Person=3|PronType=Rel</td><td><em>ahányan</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=genitive</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=3|PronType=Rel</td><td><em>amelynek, akinek, melynek, aminek, amelyiknek</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Sing|Person=3|PronType=Rel</td><td><em>amelybe, amibe</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=3|PronType=Rel</td><td><em>amelyben, melyben, Akiben, amiben</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Rel</td><td><em>akivel, amellyel, amelyikkel, amivel, mellyel</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Rel</td><td><em>amely, aki, ami, amelyik, mely</em></td></tr>
+  <tr><td>P Pr p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Rel</td><td><em>amire, amelyre, akire, amilyenre, mennyire</em></td></tr>
+  <tr style="background:lightgray"><td>P Pr p=3rd|n=singular|case=superessive</td><td>=&gt;</td><td>PRON</td><td>Case=Sup|Number=Sing|Person=3|PronType=Rel</td><td><em>amelyen, amin</em></td></tr>
+  <tr><td>P Ps p=1st|n=plural|case=accusative|pednumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psee]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>mieinket</em></td></tr>
+  <tr style="background:lightgray"><td>P Ps p=3rd|n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs</td><td><em>övét</em></td></tr>
+  <tr><td>P Ps p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>saját, önnön</em></td></tr>
+  <tr style="background:lightgray"><td>P Ps p=3rd|n=singular|case=nominative|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|Poss=Yes|PronType=Prs</td><td><em>miénk, mienk</em></td></tr>
+  <tr><td>P Ps p=3rd|n=singular|case=nominative|pperson=1st|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|Poss=Yes|PronType=Prs</td><td><em>enyém</em></td></tr>
+  <tr style="background:lightgray"><td>P Ps p=3rd|n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs</td><td><em>övék</em></td></tr>
+  <tr><td>P Ps p=3rd|n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs</td><td><em>sajátja</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=1st|n=plural|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td><em>magunkat</em></td></tr>
+  <tr><td>P Px p=1st|n=plural|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td><em>magunkkal</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=1st|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td><em>magunk</em></td></tr>
+  <tr><td>P Px p=1st|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td><em>magamban</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=1st|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td><em>magam</em></td></tr>
+  <tr><td>P Px p=2nd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs|Reflex=Yes</td><td><em>magad</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>maguktól</em></td></tr>
+  <tr><td>P Px p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukat</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>maguknak</em></td></tr>
+  <tr><td>P Px p=3rd|n=plural|case=dative|pednumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Number[psee]=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukénak</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukból</em></td></tr>
+  <tr><td>P Px p=3rd|n=plural|case=factive|pednumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Tra|Number=Plur|Number[psee]=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukévá</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukba</em></td></tr>
+  <tr><td>P Px p=3rd|n=plural|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukban, önmagukban</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukkal</em></td></tr>
+  <tr><td>P Px p=3rd|n=plural|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>maguk</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=plural|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magukra</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magától</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magát, önmagát</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magához</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magának</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=dative|pednumber=singular</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Number[psee]=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magáénak</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=elative</td><td>=&gt;</td><td>PRON</td><td>Case=Ela|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magából, magamagából</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=inessive</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magában</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magával</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>maga, önmaga</em></td></tr>
+  <tr><td>P Px p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magára</em></td></tr>
+  <tr style="background:lightgray"><td>P Px p=3rd|n=singular|case=superessive</td><td>=&gt;</td><td>PRON</td><td>Case=Sup|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td><em>magán</em></td></tr>
+  <tr><td>P Py p=3rd|n=singular|case=ablative</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymástól</em></td></tr>
+  <tr style="background:lightgray"><td>P Py p=3rd|n=singular|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymást</em></td></tr>
+  <tr><td>P Py p=3rd|n=singular|case=allative</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymáshoz</em></td></tr>
+  <tr style="background:lightgray"><td>P Py p=3rd|n=singular|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymásnak</em></td></tr>
+  <tr><td>P Py p=3rd|n=singular|case=illative</td><td>=&gt;</td><td>PRON</td><td>Case=Ill|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymásba</em></td></tr>
+  <tr style="background:lightgray"><td>P Py p=3rd|n=singular|case=instrumental</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymással</em></td></tr>
+  <tr><td>P Py p=3rd|n=singular|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymás</em></td></tr>
+  <tr style="background:lightgray"><td>P Py p=3rd|n=singular|case=sublative</td><td>=&gt;</td><td>PRON</td><td>Case=Sub|Number=Sing|Person=3|PronType=Rcp</td><td><em>egymásra</em></td></tr>
+  <tr><td>R Rd _</td><td>=&gt;</td><td>ADV</td><td>PronType=Dem</td><td><em>akkor, úgy, így, itt, ott</em></td></tr>
+  <tr style="background:lightgray"><td>R Rg _</td><td>=&gt;</td><td>ADV</td><td>PronType=Neg,Tot</td><td><em>mindig, soha, mindenképpen, mind, bármikor</em></td></tr>
+  <tr><td>R Ri _</td><td>=&gt;</td><td>ADV</td><td>PronType=Ind</td><td><em>sokáig, olykor, valahol, másrészt, egyrészt</em></td></tr>
+  <tr style="background:lightgray"><td>R Rl _</td><td>=&gt;</td><td>ADV</td><td>PronType=Prs</td><td><em>rá, neki, vele, benne, róla</em></td></tr>
+  <tr><td>R Rm _</td><td>=&gt;</td><td>ADV</td><td>Negative=Neg</td><td><em>nem, sem, ne, se</em></td></tr>
+  <tr style="background:lightgray"><td>R Rp _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>meg, el, ki, be, fel</em></td></tr>
+  <tr><td>R Rq _</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>-e, miért, hogyan, hol, vajon</em></td></tr>
+  <tr style="background:lightgray"><td>R Rr _</td><td>=&gt;</td><td>ADV</td><td>PronType=Rel</td><td><em>amikor, ahol, míg, miközben, ahogy</em></td></tr>
+  <tr><td>R Rv _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans</td><td><em>hivatkozva, kezdve, hozzátéve, mondván, véve</em></td></tr>
+  <tr style="background:lightgray"><td>R Rx _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>már, még, csak, is, például</em></td></tr>
+  <tr><td>S St _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td><em>szerint, után, között, által, alatt</em></td></tr>
+  <tr style="background:lightgray"><td>SPUNCT SPUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Excl,Peri,Qest</td><td><em>., ?, ", !, ...</em></td></tr>
+  <tr><td>T Tf def=yes</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td><em>a, az</em></td></tr>
+  <tr style="background:lightgray"><td>T Ti def=no</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|PronType=Art</td><td><em>egy</em></td></tr>
+  <tr><td>V Va mood=conditional|t=present|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>AUX</td><td>Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>volna</em></td></tr>
+  <tr style="background:lightgray"><td>V Va mood=indicative|t=present|p=1st|n=plural|def=no</td><td>=&gt;</td><td>AUX</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>fogunk</em></td></tr>
+  <tr><td>V Va mood=indicative|t=present|p=1st|n=singular|def=no</td><td>=&gt;</td><td>AUX</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>fogok</em></td></tr>
+  <tr style="background:lightgray"><td>V Va mood=indicative|t=present|p=3rd|n=plural|def=no</td><td>=&gt;</td><td>AUX</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>fognak</em></td></tr>
+  <tr><td>V Va mood=indicative|t=present|p=3rd|n=plural|def=yes</td><td>=&gt;</td><td>AUX</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>fogják</em></td></tr>
+  <tr style="background:lightgray"><td>V Va mood=indicative|t=present|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>AUX</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>fog</em></td></tr>
+  <tr><td>V Va mood=indicative|t=present|p=3rd|n=singular|def=yes</td><td>=&gt;</td><td>AUX</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>fogja</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=conditional|t=present|p=1st|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>szeretnénk, kapnánk, esnénk, jutnánk, folytathatnánk</em></td></tr>
+  <tr><td>V Vm mood=conditional|t=present|p=1st|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>szeretnénk, tudnánk, fordítanánk, mondhatnánk, teljesítenők</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=conditional|t=present|p=1st|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>szeretnék, lennék, hoznék, tartanék, megjegyeznék</em></td></tr>
+  <tr><td>V Vm mood=conditional|t=present|p=1st|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>szeretném, Említhetném, elvállalnám, mondanám, mondhatnám</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=conditional|t=present|p=3rd|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>lennének, kapnának, volnának, juthatnának, adnának</em></td></tr>
+  <tr><td>V Vm mood=conditional|t=present|p=3rd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>szeretnék, tartanák, bezárnák, emelnék, kapnák</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=conditional|t=present|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>lenne, kellene, lehetne, szeretne, volna</em></td></tr>
+  <tr><td>V Vm mood=conditional|t=present|p=3rd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>szeretné, tudná, tenné, akarná, illetné</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=1st|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>Legyünk, Bízzunk, vehessünk, kapcsolódjunk, vonjunk</em></td></tr>
+  <tr><td>V Vm mood=imperative|t=present|p=1st|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>mondjuk, tegyük, hisszük, lássuk, kiverjük</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=1st|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>mondjak, megjelenjek, éljek, megégjek, maradhassak</em></td></tr>
+  <tr><td>V Vm mood=imperative|t=present|p=1st|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>elvállaljam, tegyem, cseréljem, felhívassam, tájékoztassam</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=2nd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>Hozzátok</em></td></tr>
+  <tr><td>V Vm mood=imperative|t=present|p=2nd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>háborúzz, Szeretkezz, figyelj, legyél, szedj</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=2nd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>lásd, ismerd, tedd, hagyd, értesítsd</em></td></tr>
+  <tr><td>V Vm mood=imperative|t=present|p=3rd|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>legyenek, adjanak, kerüljenek, tárgyaljanak, gyűjtsenek</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=3rd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>segítsék, tegyék, ellenőrizhessék, igazítsák, osszák</em></td></tr>
+  <tr><td>V Vm mood=imperative|t=present|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>legyen, lehessen, maradjon, menjen, kelljen</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=imperative|t=present|p=3rd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>adja, tegye, mondja, növelje, semmisítse</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=1st|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin</td><td><em>voltunk, beszámoltunk, lettünk, kaptunk, gondoltunk</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=past|p=1st|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin</td><td><em>tudtuk, láttuk, megtudtuk, fizettük, gondoltuk</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=1st|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</td><td><em>éltem, tippeltem, jártam, születtem, kezdtem</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=past|p=1st|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</td><td><em>láttam, éreztem, adtam, mondtam, gondoltam</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=2nd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin</td><td><em>megöltétek</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=past|p=2nd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin</td><td><em>voltál, szültél, hordoztál, éltél, megtaláltál</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=2nd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin</td><td><em>adtad, vetted</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=past|p=3rd|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>voltak, kaptak, találtak, adtak, maradtak</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=3rd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>vették, adták, tudták, állították, akarták</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=past|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>volt, lett, kellett, került, lehetett</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=past|p=3rd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>mondta, elmondta, tette, közölte, jelentette</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=present|p=1st|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>vagyunk, kapunk, tartunk, beszélhetünk, leszünk</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=present|p=1st|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>tudjuk, látjuk, vesszük, mondjuk, fizetjük</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=present|p=1st|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>vagyok, akarok, gondolok, beszélek, írok</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=present|p=1st|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>tudom, hiszem, látom, értem, akarom</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=present|p=2nd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>vagy, szerezhetsz, akarsz, bedughatsz, lemész</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=present|p=2nd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>tudod</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=present|p=3rd|n=plural|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>vannak, nincsenek, tudnak, lesznek, kapnak</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=present|p=3rd|n=plural|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>mondják, tartják, tudják, teszik, állítják</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=indicative|t=present|p=3rd|n=singular|def=no</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>van, kell, lehet, lesz, nincs</em></td></tr>
+  <tr><td>V Vm mood=indicative|t=present|p=3rd|n=singular|def=yes</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>mondja, tudja, teszi, állítja, jelenti</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=infinitive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>tenni, tudni, tartani, venni, elérni</em></td></tr>
+  <tr><td>V Vm mood=infinitive|t=present|p=1st|n=plural</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|VerbForm=Inf</td><td><em>közelednünk, beszállítanunk, elképzelnünk, építenünk, végrehajtanunk</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=infinitive|t=present|p=1st|n=singular</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Pres|VerbForm=Inf</td><td><em>mondanom, vigyáznom, megismerkednem, mennem, lennem</em></td></tr>
+  <tr><td>V Vm mood=infinitive|t=present|p=2nd|n=singular</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Pres|VerbForm=Inf</td><td><em>megölnöd</em></td></tr>
+  <tr style="background:lightgray"><td>V Vm mood=infinitive|t=present|p=3rd|n=plural</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>megtalálniuk, válniuk, nyilatkozniuk, tenniük, válaszolniuk</em></td></tr>
+  <tr><td>V Vm mood=infinitive|t=present|p=3rd|n=singular</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>kifizetnie, maradnia, számolnia, lennie, mennie</em></td></tr>
+  <tr style="background:lightgray"><td>WPUNCT WPUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, —, ", :, (</em></td></tr>
+  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>homo, Ecce, vezette, szmsz, chaebolnak</em></td></tr>
+  <tr style="background:lightgray"><td>Y Y _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>stb., dr., Mr., T., ifj.</em></td></tr>
+  <tr><td>Z Z _</td><td>=&gt;</td><td>X</td><td>Typo=Yes</td><td><em>a, az, mind, igen, többek</em></td></tr>
+</table>
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = 'tagset-conversion';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
