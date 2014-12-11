@@ -66,11 +66,13 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td><strike>nsubjpass</strike></td>
-	  <td>↳<a>ccomp:nf</a></td>
-	  <td>↳<a>xcomp:a</a></td>
+	  <td />
+	  <td>↳<a>xcomp:nf</a></td>
 	</tr>
 	<tr>
 	  <td><a>dobj</a></td>
+	  <td />
+	  <td>↳<a>xcomp:a</a></td>
 	</tr>
 	<tr>
 	  <td><strike>iobj</strike></td>
@@ -727,32 +729,6 @@ punct(suututti-9, .-11)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp.md" target="#">edit ccomp</a></p>
-
-<p><a id="al-fi-dep/ccomp:nf" class="al-dest"></a></p>
-<h2><code>ccomp:nf</code>: non-finite clausal complement</h2>
-
-<p>The dependency type <code>ccomp:nf</code>, which stands for <em>non-finite clausal
-complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).  It is
-used for clausal complements where the complement clause has a
-different subject from that of the governing clause and is nonfinite,
-i.e. where the verb is an infinitive or a participle.</p>
-
-<p>Note that this subtype represents a departure from the general UD
-taxonomy approach in differentiating finite from nonfinite clauses
-(see <a href="http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents">Syntax: General Principles</a>).</p>
-
-<!-- TODO The differences between types of verbal dependents, such as
-`ccomp:nf`, are thoroughly discussed in Section
-[verbal](#sec-verbal). -->
-
-<!-- fname:iccomp.pdf -->
-<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
-ccomp:nf(Sain-1, itkemään-3)
-nsubj(itkemään-3, hänet-2)
-punct(Sain-1, .-4)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/ccomp-nf.md" target="#">edit ccomp:nf</a></p>
 
 <p><a id="al-fi-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
@@ -1579,6 +1555,32 @@ punct(teki, .)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-a.md" target="#">edit xcomp:a</a></p>
+
+<p><a id="al-fi-dep/xcomp:nf" class="al-dest"></a></p>
+<h2><code>xcomp:nf</code>: non-finite clausal complement</h2>
+
+<p>The dependency type <code>xcomp:nf</code>, which stands for <em>non-finite clausal
+complement</em>, is a subtype of <a href="">ccomp</a> (<em>clausal complement</em>).  It is
+used for clausal complements where the complement clause has a
+different subject from that of the governing clause and is nonfinite,
+i.e. where the verb is an infinitive or a participle.</p>
+
+<p>Note that this subtype represents a departure from the general UD
+taxonomy approach in differentiating finite from nonfinite clauses
+(see <a href="http://universaldependencies.github.io/docs/u/overview/syntax.html#clausal-dependents">Syntax: General Principles</a>).</p>
+
+<!-- TODO The differences between types of verbal dependents, such as
+`xcomp:nf`, are thoroughly discussed in Section
+[verbal](#sec-verbal). -->
+
+<!-- fname:iccomp.pdf -->
+<pre><code class="language-sdparse">Sain hänet itkemään . \n I_made him cry .
+xcomp:nf(Sain-1, itkemään-3)
+nsubj(itkemään-3, hänet-2)
+punct(Sain-1, .-4)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-nf.md" target="#">edit xcomp:nf</a></p>
 
 
 
