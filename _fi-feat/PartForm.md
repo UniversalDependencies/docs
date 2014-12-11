@@ -18,8 +18,8 @@ VA-participle, has active and passive forms.
 
 #### Examples
 
-* [fi] _<b>haihtuva vesi_ "<b>evaporating</b> water" (present active participle)
-* [fi] _<b>juotava vesi_ "<b>drinkable</b> water" (present passive participle)
+* [fi] _<b>haihtuva</b> vesi_ "<b>evaporating</b> water" (present active participle)
+* [fi] _<b>juotava</b> vesi_ "<b>drinkable</b> water" (present passive participle)
 
 #### References
 
