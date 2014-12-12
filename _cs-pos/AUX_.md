@@ -9,7 +9,8 @@ redirect_from: "cs/pos/AUX.html"
 
 ### Definition
 
-The only truly auxiliary verb in Czech is _být_ “to be”.
+The only truly auxiliary verb in Czech is _být_ “to be”,
+and its variant (with separate lemma) _bývat_ “to usually be”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
 
