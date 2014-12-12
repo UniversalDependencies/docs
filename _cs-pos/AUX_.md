@@ -61,6 +61,13 @@ It will be tagged [VERB]() in these cases.
 It is also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
 (_V&nbsp;Praze <b>by</b> bylo nové divadlo._ “There <b>would</b> be a new theatre in Prague.”)
 
+Note that the passive participle may be also used as nominal predicate with copula.
+Hence it may be difficult to distinguish a passive construction from a copula construction.
+The former focuses on the process while the latter emphasizes the result.
+
+- Passive: _Smlouva <b>byla</b>.`AUX` podepsána v&nbsp;Bílém domě._ &nbsp; “The contract was signed in the White House.”
+- Copula: _Smlouva <b>byla</b>.`VERB` podepsána červeným inkoustem._ &nbsp; “The contract was signed in red ink.”
+
 ### Modal verbs are not auxiliaries
 
 Czech modal verbs are not considered auxiliary and they are tagged `VERB`,
