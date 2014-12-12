@@ -49,12 +49,12 @@ grammatical distinctions not carried by the lexical verb.
   _<b>je</b> udělán_ “he is done”,
   _<b>bude</b> udělán_ “he will be done”,
   _<b>byl</b> udělán_ “he was done”,
-  _<b>byl by</b> udělán_ “we would be done”,
+  _<b>byl by</b> udělán_ “he would be done”,
   _<b>buď</b> udělán_ “be done”,
   _<b>být</b> udělán_ “to be done”.
 
 Note that the verb _být_ will not be tagged `AUX` if it is used as
-[u-dep/cop](copula) (_Moje auto <b>je</b> nové._ “My car <b>is</b> new.”)
+[copula](u-dep/cop) (_Moje auto <b>je</b> nové._ “My car <b>is</b> new.”)
 or as a content verb (_V&nbsp;Praze <b>je</b> nové divadlo._ “There <b>is</b> a new theatre in Prague.”)
 It will be tagged [VERB]() in these cases.
 It also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
