@@ -115,8 +115,79 @@ for <code>ADV</code>.</p>
 <p><a id="al-cs-pos/AUX" class="al-dest"></a></p>
 <h2><code>AUX</code>: auxiliary verb</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>AUX</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>The only truly auxiliary verb in Czech is <em>být</em> “to be”.
+It accompanies the lexical verb of a verb phrase and expresses
+grammatical distinctions not carried by the lexical verb.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>
+    <p>Future tense. Finite future form of <em>být</em> is combined with infinitive
+of the lexical verb. The auxiliary expresses person, number and tense:
+<em><b>budu</b> dělat</em> “I will do”,
+<em><b>budeš</b> dělat</em> “you will do”,
+<em><b>budou</b> dělat</em> “they will do”.
+Note that a limited set of verbs can form future morphologically, without
+the auxiliary.</p>
+  </li>
+  <li>
+    <p>Past tense in the first and second person.
+Finite present form of <em>být</em> is combined with past participle
+of the lexical verb. The auxiliary expresses person and number,
+the participle expresses gender and number:
+<em>dělal <b>jsem</b></em> “I did.<code>Masc</code>”,
+<em>dělala <b>jsem</b></em> “I did.<code>Fem</code>”,
+<em>dělal <b>jsi</b></em> “you did.<code>Masc</code>”,
+<em>dělali <b>jsme</b></em> “we did.<code>Masc</code>”.</p>
+  </li>
+  <li>
+    <p>Conditional mood.
+Conditional form (historically aorist) of <em>být</em> is combined with past participle
+of the lexical verb. The auxiliary expresses person and number,
+the participle expresses gender and number:
+<em>dělal <b>bych</b></em> “I would do.<code>Masc</code>”,
+<em>dělala <b>bych</b></em> “I would do.<code>Fem</code>”,
+<em>dělal <b>bys</b></em> “you would do.<code>Masc</code>”,
+<em>dělali <b>bychom</b></em> “we would do.<code>Masc</code>”.</p>
+  </li>
+  <li>
+    <p>Passive voice.
+A form of <em>být</em> (in various tenses and moods or in the infinitive) is combined with
+passive participle
+of the lexical verb. The auxiliary expresses person, number, tense and mood,
+the participle expresses gender, number and voice:
+<em><b>je</b> udělán</em> “he is done”,
+<em><b>bude</b> udělán</em> “he will be done”,
+<em><b>byl</b> udělán</em> “he was done”,
+<em><b>byl by</b> udělán</em> “we would be done”,
+<em><b>buď</b> udělán</em> “be done”,
+<em><b>být</b> udělán</em> “to be done”.</p>
+  </li>
+</ul>
+
+<p>Note that the verb <em>být</em> will not be tagged <code>AUX</code> if it is used as
+<a href="copula">u-dep/cop</a> (<em>Moje auto <b>je</b> nové.</em> “My car <b>is</b> new.”)
+or as a content verb (<em>V Praze <b>je</b> nové divadlo.</em> “There <b>is</b> a new theatre in Prague.”)
+It will be tagged <a href="">VERB</a> in these cases.
+It also possible that an auxiliary <em><b>být</b></em> modifies a lexical <em>být</em>
+(<em>V Praze <b>by</b> bylo nové divadlo.</em> “There <b>would</b> be a new theatre in Prague.”)</p>
+
+<h3 id="todo-do-czech-modal-verbs-count-as-auxiliaries">TODO: Do Czech modal verbs count as auxiliaries?</h3>
+
+<p><em>Modal verbs</em> may count as auxiliaries in some languages (English). In
+other languages their behavior is not too different from the <a href="VERB">main
+verbs</a> and they are thus tagged <code>VERB</code>. <em>Copulas</em> also stay with
+main verbs.</p>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Auxiliary_verb">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/AUX_.md" target="#">edit AUX</a></p>
 
