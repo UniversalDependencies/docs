@@ -54,10 +54,10 @@ grammatical distinctions not carried by the lexical verb.
   _<b>být</b> udělán_ “to be done”.
 
 Note that the verb _být_ will not be tagged `AUX` if it is used as
-[copula](u-dep/cop) (_Moje auto <b>je</b> nové._ “My car <b>is</b> new.”)
+[copula](cs-dep/cop) (_Moje auto <b>je</b> nové._ “My car <b>is</b> new.”)
 or as a content verb (_V&nbsp;Praze <b>je</b> nové divadlo._ “There <b>is</b> a new theatre in Prague.”)
 It will be tagged [VERB]() in these cases.
-It also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
+It is also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
 (_V&nbsp;Praze <b>by</b> bylo nové divadlo._ “There <b>would</b> be a new theatre in Prague.”)
 
 ### TODO: Do Czech modal verbs count as auxiliaries?
