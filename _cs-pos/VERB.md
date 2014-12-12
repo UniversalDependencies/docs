@@ -11,10 +11,6 @@ signal events and actions, can constitute a minimal predicate in a
 clause, and govern the number and types of other constituents which
 may occur in the clause.
 
-Verbs are often associated with grammatical
-categories like tense, mood, aspect and voice, which can either be
-expressed inflectionally or using auxilliary verbs or particles.
-
 Note that the `VERB` tag covers main verbs _(content verbs),_
 _modal verbs_ and
 _copulas_ but it does not cover _auxiliary verbs,_ for which there is
