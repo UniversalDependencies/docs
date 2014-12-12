@@ -36,8 +36,82 @@
 
           <h2><code>VERB</code>: verb</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VERB</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>A verb is a member of the syntactic class of words that typically
+signal events and actions, can constitute a minimal predicate in a
+clause, and govern the number and types of other constituents which
+may occur in the clause.</p>
+
+<p>Verbs are often associated with grammatical
+categories like tense, mood, aspect and voice, which can either be
+expressed inflectionally or using auxilliary verbs or particles.</p>
+
+<p>Note that the <code>VERB</code> tag covers main verbs <em>(content verbs),</em>
+<em>modal verbs</em> and
+<em>copulas</em> but it does not cover <em>auxiliary verbs,</em> for which there is
+the <a href="">AUX</a> tag. (Czech modal verbs are not considered auxiliary.)
+See the description of <code>AUX</code> for more information on the borderline
+between <code>VERB</code> and <code>AUX</code>.</p>
+
+<p>Czech verbs can take the following morphological forms:
+- Infinitive (this is the citation form)
+- Finite verb (indicative and imperative forms; conditional is constructed periphrastically)
+- Past participle (used to construct past and conditional)
+- Passive participle (used to construct passive voice; also used separately as an adjective)
+- Transgressive (also called adverbial participle)</p>
+
+<p>There are participial forms that are tagged as adjectives (<a href="">ADJ</a>) rather than verbs.
+See below for examples.</p>
+
+<p>A verbal noun can be derived productively from almost every verb
+(e.g. <em>dělat</em>  “to do” → <em>dělání</em>  “doing”).
+While in other languages a corresponding form may be called gerund and tagged <code>VERB</code>,
+in Czech it is tagged <a href="">NOUN</a>. It has always the <code>neuter</code> <a href="">cs-feat/Gender</a>
+and it inflects for <a href="">cs-feat/Number</a> and <a href="">cs-feat/Case</a>.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>nést</em>  “to carry”</li>
+  <li><em>nesu, neseš, nese, neseme, nesete, nesou</em>  “I carry, you carry, he/she/it carries, we carry, you carry, they carry”</li>
+  <li><em>nes, nesme, neste</em>  “carry” (imperative in different persons and numbers)</li>
+  <li><em>nesl, nesla, neslo, nesli, nesly</em>  “carried” (past participle in different genders and numbers)</li>
+  <li><em>nesen, nesena, neseno, neseni, neseny</em>  “carried” (passive participle in different genders and numbers)</li>
+  <li><em>nesa, nesouc, nesouce</em>  “carrying” (present transgressive in different genders and numbers)</li>
+</ul>
+
+<h3 id="border-cases">Border cases</h3>
+
+<p>There are passive participles as verb forms (<code>VERB</code>)
+and participial adjectives (<code>ADJ</code>). For example:
+- Verb: <em>nesen, nesena, neseno, neseni, neseny</em>  “carried”
+- Adjective: <em>nesený, nesená, nesené, nesení, nesené</em>  “carried”</p>
+
+<p>Their meaning is almost identical but the usage slightly varies.
+Both groups can be used in nominal predication with <a href="cs-dep/cop">copula</a>.
+Only true participles (verbs) can be used to form the passive voice
+(but it may be sometimes difficult to distinguish from copula constructions, see <a href="">AUX</a>).
+On the other hand, the participial adjectives inflect for case and thus
+can modify nouns.</p>
+
+<p>There is an analogy with some adjectives that preserved so called nominal (short) forms.
+And these adjectives are not derived from verbs. Example:</p>
+
+<ul>
+  <li>Normal (pronominal) forms: <em>starý, stará, staré</em>  “old”</li>
+  <li>Short (nominal) forms: <em>stár, stára, stáro</em>  “old”</li>
+</ul>
+
+<p>Here both groups are <code>ADJ</code>. The nominal forms are used in predication,
+the standard forms both in predication and to modify nouns.</p>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAVerbLinguistics.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a verb?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Verb">Wikipedia</a></li>
+</ul>
 
 
 <!-- "in other languages" links -->
