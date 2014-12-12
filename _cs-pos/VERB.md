@@ -32,7 +32,7 @@ See below for examples.
 A verbal noun can be derived productively from almost every verb
 (e.g. _dělat_ &nbsp;“to do” → _dělání_ &nbsp;“doing”).
 While in other languages a corresponding form may be called gerund and tagged `VERB`,
-in Czech it is tagged [NOUN](). It has always the `neuter` [cs-feat/Gender]()
+in Czech it is tagged [NOUN](). It has always the neuter [cs-feat/Gender]()
 and it inflects for [cs-feat/Number]() and [cs-feat/Case]().
 
 ### Examples
