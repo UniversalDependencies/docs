@@ -386,6 +386,35 @@ punct(Kaunishan-1, .-5)
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=891> (in Finnish)
 
+## External subjects
+<!-- this section adapted from TDT guidelines on xsubj and xsubj-cop -->
+
+Open clausal complements share their subject with another verb (see
+also the documentation for [xcomp]()). The fact that the subject of
+the main verb is also the subject of the complement cannot be
+annotated using basic dependencies, as this would violate the treeness
+restriction.  Therefore, in UD Finnish these subjects are marked on
+the second layer of annotation (`DEPS` field) using the standard
+dependency types [nsubj]() and [nsubj:cop](). Note that an open
+clausal complement may not always have a subject, in for instance
+passive constructions.
+
+Note that while some related schemes such as SD and TDT differentiate
+second-layer (or "additional") external subject dependencies by
+applying a specific type such as `xsubj`, [nsubj]() is used on both
+the basic and second layer in UD Finnish.
+
+<!-- fname:xsubj.pdf -->
+~~~ sdparse
+Matti ryhtyi lukemaan . \n Matti started_to read .
+nsubj(ryhtyi-2, Matti-1)
+xcomp(ryhtyi-2, lukemaan-3)
+punct(ryhtyi-2, .-4)
+nsubj(lukemaan-3, Matti-1)
+~~~
+
+TODO: description of second-layer UD Finnish relation `nsubj:cop`.
+
 ## Appositions and appellation modifiers
 <!-- this section originally from TDT guidelines section 5.3 -->
 

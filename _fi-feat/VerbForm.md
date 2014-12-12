@@ -23,17 +23,10 @@ Words in infinitive forms are assigned the `VerbForm` value `Inf`.
 Infinitive forms are further differentiated using the feature
 [InfForm]().
 
-Finnish has multiple infinitive forms, often termed the first
-infinitive, second infinitive, etc. Traditionally five different
-infinitives have been recognized, but UD Finnish follows the modern
-[ISK grammar](http://scripta.kotus.fi/visk/etusivu.php) in only
-recognizing three verb forms as infinitives, namely those known as the
-first, second and third infinitives (alternatively termed the A‑, E-
-and MA-infinitives, see e.g. [VISK §
+UD Finnish recognizes three verb forms as infinitives, namely those
+known as the first, second and third infinitives (alternatively termed
+the A-, E- and MA-infinitives, see e.g. [VISK §
 119](http://kaino.kotus.fi/visk/sisallys.php?p=119); in Finnish).
-
-The base form of the first infinitive is used as the dictionary form
-for verbs.
 
 #### Examples
 
