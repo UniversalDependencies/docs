@@ -23,6 +23,7 @@ See the description of `AUX` for more information on the borderline
 between `VERB` and `AUX`.
 
 Czech verbs can take the following morphological forms:
+
 - Infinitive (this is the citation form)
 - Finite verb (indicative and imperative forms; conditional is constructed periphrastically)
 - Past participle (used to construct past and conditional)
@@ -51,6 +52,7 @@ and it inflects for [cs-feat/Number]() and [cs-feat/Case]().
 
 There are passive participles as verb forms (`VERB`)
 and participial adjectives (`ADJ`). For example:
+
 - Verb: _nesen, nesena, neseno, neseni, neseny_ &nbsp;“carried”
 - Adjective: _nesený, nesená, nesené, nesení, nesené_ &nbsp;“carried”
 
