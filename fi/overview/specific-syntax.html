@@ -408,6 +408,34 @@ punct(Kaunishan-1, .-5)
   <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">http://scripta.kotus.fi/visk/sisallys.php?p=891</a> (in Finnish)</li>
 </ul>
 
+<h2 id="external-subjects">External subjects</h2>
+<!-- this section adapted from TDT guidelines on xsubj and xsubj-cop -->
+
+<p>Open clausal complements share their subject with another verb (see
+also the documentation for <a href="">xcomp</a>). The fact that the subject of
+the main verb is also the subject of the complement cannot be
+annotated using basic dependencies, as this would violate the treeness
+restriction.  Therefore, in UD Finnish these subjects are marked on
+the second layer of annotation (<code>DEPS</code> field) using the standard
+dependency types <a href="">nsubj</a> and <a href="">nsubj:cop</a>. Note that an open
+clausal complement may not always have a subject, in for instance
+passive constructions.</p>
+
+<p>Note that while some related schemes such as SD and TDT differentiate
+second-layer (or “additional”) external subject dependencies by
+applying a specific type such as <code>xsubj</code>, <a href="">nsubj</a> is used on both
+the basic and second layer in UD Finnish.</p>
+
+<!-- fname:xsubj.pdf -->
+<pre><code class="language-sdparse">Matti ryhtyi lukemaan . \n Matti started_to read .
+nsubj(ryhtyi-2, Matti-1)
+xcomp(ryhtyi-2, lukemaan-3)
+punct(ryhtyi-2, .-4)
+nsubj(lukemaan-3, Matti-1)
+</code></pre>
+
+<p>TODO: description of second-layer UD Finnish relation <code>nsubj:cop</code>.</p>
+
 <h2 id="appositions-and-appellation-modifiers">Appositions and appellation modifiers</h2>
 <!-- this section originally from TDT guidelines section 5.3 -->
 
