@@ -61,14 +61,14 @@ It will be tagged [VERB]() in these cases.
 It is also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
 (_V&nbsp;Praze <b>by</b> bylo nové divadlo._ “There <b>would</b> be a new theatre in Prague.”)
 
-### TODO: Do Czech modal verbs count as auxiliaries?
+### Modal verbs are not auxiliaries
 
-_Modal verbs_ may count as auxiliaries in some languages (English). In
-other languages their behavior is not too different from the [main
-verbs](VERB) and they are thus tagged `VERB`. _Copulas_ also stay with
-main verbs.
+Czech modal verbs are not considered auxiliary and they are tagged `VERB`,
+in accord with the annotation in the Prague Dependency Treebank.
+Their behavior is only slightly different from content verbs.
 
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
+- Jarmila Panevová, Eva Benešová, Petr Sgall. 1971. Čas a modalita v&nbsp;češtině (Tense and modality in Czech). Acta Universitatis Carolinae, Philologica Monographia XXXIV, Universita Karlova Praha
