@@ -187,6 +187,7 @@ advmod(important, as-3)
 
 <pre><code class="language-sdparse">I put in as much flour as the recipe called for .
 advmod(much, as-4)
+amod(flour, much)
 </code></pre>
 
 <p>We then take the complement of the comparative as an oblique dependent of the first part. It is clear that the material in the complement <em>as Y</em> can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an <a href="">u-dep/advcl</a>, with the second <em>as</em> analyzed as a mark.  That gives us:</p>
@@ -209,8 +210,7 @@ nmod(heard, him)
 punct(hear, .)
 </code></pre>
 
-<p>We take the <em>as Y</em> clause as a dependent of the content-word whose degree is being assessed (here <em>often</em>). We take its head to be the head of the clause, here <em>heard</em>.<br />
-An initially plausible alternative analysis would be to make the clausal dependent headed by <em>as</em> a dependent of the comparative modifier <em>as</em>, <em>more</em>, or <em>less</em>, and indeed this is the analysis which Huddleston and Pullum (2002) argue for in English. However, there are several reasons to doubt this analysis.  One is the general direction of UD in favoring content words as heads. A second argument is motivated by a desire for crosslinguistic adequacy: in languages such as Finnish and Japanese, this functional element is not present.</p>
+<p>We take the <em>as Y</em> clause as a dependent of the content-word whose degree is being assessed (here <em>often</em>). We take its head to be the head of the clause, here <em>heard</em>.  An initially plausible alternative analysis would be to make the clausal dependent headed by <em>as</em> a dependent of the comparative modifier <em>as</em>, <em>more</em>, or <em>less</em>, and indeed this is the analysis which Huddleston and Pullum (2002) argue for in English. However, there are several reasons to doubt this analysis.  One is the general principles of UD in favoring content words as heads. A second argument is motivated by a desire for crosslinguistic adequacy: in languages such as Finnish and Japanese, this functional element is not present.</p>
 
 <pre><code class="language-sdparse">“Y” より “X” が 面白い 。 \n Y than X NOM interesting .
 nsubj(面白い, “X”)
@@ -220,7 +220,7 @@ nmod(面白い, “Y”)
 punct(面白い, 。)
 </code></pre>
 
-<p>Since <em>as</em> is a functional element here, the dependent can be understood to modify the whole phrase <em>as often</em>, and therefore is attached to the head of that phrase. This analysis then means the dependency structure is more parallel with cases with a morphological comparative like <em>taller</em>, even though in such cases the <em>-er</em> could be argued to be the comparative head. Finally it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as <em>So don’t worry if you think that you have a girl-friend, who is intelligent than you.</em></p>
+<p>Since the first <em>as</em> is a functional element, the dependent can be understood to modify the whole phrase <em>as often</em>, and therefore is attached to the head of that phrase. Additionally, it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as <em>So don’t worry if you think that you have a girl-friend, who is intelligent than you.</em> One further argument from morphological comparatives is discussed below.</p>
 
 <p>The same basic analysis is given for inequality scalar comparatives, with <em>more</em> or <em>less</em> or a comparative adjective and <em>than</em>, parallel to the two uses of <em>as</em> above, except that <em>more</em> can also directly modify a noun, and is then taken to have the <a href="">u-dep/amod</a> relation to the noun.</p>
 
@@ -236,7 +236,7 @@ advcl(important, thought)
 mark(thought, than)
 </code></pre>
 
-<p>In addition to crosslinguistic adequacy, we can see here another advantage of not attaching the <em>than</em> clause to <em>more</em>: since the word alternates with a bound morpheme, not allowing it to have dependents yields a consistent analysis for the alternation.</p>
+<p>In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the <em>than</em> clause to <em>more</em>: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like <em>more intelligent</em> and a morphological comparative like <em>taller</em> (even though in bound morpheme cases, the <em>-er</em> could be argued to be the comparative head).</p>
 
 <pre><code class="language-sdparse">smarter than you thought
 advcl(smarter, thought)
