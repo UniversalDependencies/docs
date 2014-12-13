@@ -62,8 +62,8 @@ can modify nouns.
 There is an analogy with some adjectives that preserved so called nominal (short) forms.
 And these adjectives are not derived from verbs. Example:
 
-- Normal (pronominal) forms: _starý, stará, staré_ &nbsp;“old”
 - Short (nominal) forms: _stár, stára, stáro_ &nbsp;“old”
+- Normal (pronominal) forms: _starý, stará, staré_ &nbsp;“old”
 
 Here both groups are `ADJ`. The nominal forms are used in predication,
 the standard forms both in predication and to modify nouns.
