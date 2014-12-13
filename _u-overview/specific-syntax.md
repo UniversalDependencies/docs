@@ -155,6 +155,7 @@ advmod(important, as-3)
 ~~~ sdparse
 I put in as much flour as the recipe called for .
 advmod(much, as-4)
+amod(flour, much)
 ~~~
 
 We then take the complement of the comparative as an oblique dependent of the first part. It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [u-dep/advcl](), with the second _as_ analyzed as a mark.  That gives us:
@@ -178,8 +179,7 @@ nmod(heard, him)
 punct(hear, .)
 ~~~
 
-We take the _as Y_ clause as a dependent of the content-word whose degree is being assessed (here _often_). We take its head to be the head of the clause, here _heard_.  
-An initially plausible alternative analysis would be to make the clausal dependent headed by _as_ a dependent of the comparative modifier _as_, _more_, or _less_, and indeed this is the analysis which Huddleston and Pullum (2002) argue for in English. However, there are several reasons to doubt this analysis.  One is the general direction of UD in favoring content words as heads. A second argument is motivated by a desire for crosslinguistic adequacy: in languages such as Finnish and Japanese, this functional element is not present.
+We take the _as Y_ clause as a dependent of the content-word whose degree is being assessed (here _often_). We take its head to be the head of the clause, here _heard_.  An initially plausible alternative analysis would be to make the clausal dependent headed by _as_ a dependent of the comparative modifier _as_, _more_, or _less_, and indeed this is the analysis which Huddleston and Pullum (2002) argue for in English. However, there are several reasons to doubt this analysis.  One is the general principles of UD in favoring content words as heads. A second argument is motivated by a desire for crosslinguistic adequacy: in languages such as Finnish and Japanese, this functional element is not present.
 
 ~~~ sdparse
 “Y” より “X” が 面白い 。 \n Y than X NOM interesting .
@@ -190,7 +190,7 @@ nmod(面白い, “Y”)
 punct(面白い, 。)
 ~~~
 
-Since _as_ is a functional element here, the dependent can be understood to modify the whole phrase _as often_, and therefore is attached to the head of that phrase. This analysis then means the dependency structure is more parallel with cases with a morphological comparative like _taller_, even though in such cases the _-er_ could be argued to be the comparative head. Finally it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as _So don't worry if you think that you have a girl-friend, who is intelligent than you._
+Since the first _as_ is a functional element, the dependent can be understood to modify the whole phrase _as often_, and therefore is attached to the head of that phrase. Additionally, it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as _So don't worry if you think that you have a girl-friend, who is intelligent than you._ One further argument from morphological comparatives is discussed below.
 
 The same basic analysis is given for inequality scalar comparatives, with _more_ or _less_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
 
@@ -208,7 +208,7 @@ advcl(important, thought)
 mark(thought, than)
 ~~~
 
-In addition to crosslinguistic adequacy, we can see here another advantage of not attaching the _than_ clause to _more_: since the word alternates with a bound morpheme, not allowing it to have dependents yields a consistent analysis for the alternation.
+In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the _than_ clause to _more_: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like _more intelligent_ and a morphological comparative like _taller_ (even though in bound morpheme cases, the _-er_ could be argued to be the comparative head).
 
 ~~~ sdparse
 smarter than you thought
