@@ -76,18 +76,25 @@ encode that they entered Czech as parts of foreign names, but adjectives are
 not converted to `PROPN`.
 
 The following table lists the name types together with the most frequent examples.
-See [http://ufal.mff.cuni.cz/techrep/tr27.pdf](),
+See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
 page 8, section 2.1 (Lemma structure) for more details.
 
 <table>
-<tr><td>`Y`</td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td></tr>
-<tr><td>`S`</td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td></tr>
-<tr><td>`E`</td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td></tr>
-<tr><td>`G`</td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td></tr>
-<tr><td>`K`</td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td></tr>
-<tr><td>`R`</td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td></tr>
-<tr><td>`m`</td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td></tr>
+<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td></tr>
+<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td></tr>
+<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td></tr>
+<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td></tr>
+<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td></tr>
+<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td></tr>
+<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td></tr>
 </table>
+
+## Diffs
+
+### Prague Dependency Treebank
+
+Articles in foreign names _(the, die, le)&nbsp;_ are tagged [ADJ](), not [DET]().
+Otherwise, the morphological analysis usually includes the original part of speech of foreign words.
 
 ### References
 
