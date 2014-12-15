@@ -37,8 +37,63 @@
 
           <h2><code>NUM</code>: numeral</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NUM</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>A numeral is a word, functioning most typically as a determiner,
+adjective or pronoun, that expresses a number and a relation to the
+number, such as quantity, sequence, frequency or fraction.</p>
+
+<p>Note that cardinal numerals are covered by <code>NUM</code> whether they are used
+as determiners or not (as in <em>Windows <b>7</b></em>) and whether they
+are expressed as words <em>(čtyři)</em>, digits <em>(4)</em> or Roman numerals
+<em>(IV)</em>.</p>
+
+<p>Czech grammar distinguishes several subclasses of <em>pronominal numerals (quantifiers):</em>
+interrogative and relative <em>(kolik) </em> “how many”;
+demonstrative <em>(tolik) </em> “this many”;
+indefinite <em>(několik, mnoho, málo) </em> “several, many, few”.
+These words behave similarly to (most) cardinal numbers,
+e.g. they require that the counted noun phrase be in genitive.
+They are not similar to adjectives (unlike their English counterparts).
+However, in accord with the UD standard, they should be tagged <a href="">DET</a>, not <code>NUM</code>.</p>
+
+<p>In addition, several types of (non-pronominal) numerals, such as ordinal
+numerals and multiplicative numerals, are tagged <a href="">ADJ</a> or <a href="">ADV</a>, based on
+their syntactic and morphological behavior.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359</em></li>
+  <li><em>I, II, III, IV, V, MMXIV</em></li>
+  <li><em>jeden, dva, tři, čtyři, pět, sedmdesát </em> “one, two, three, four, five, seventy”</li>
+  <li><em>polovina, třetina, čtvrtina, pětina </em> “one-half, one third, quarter, one fifth”: denominators of fractions constitute a separate class of cardinal numerals.</li>
+  <li><em>čtvero, patero </em> “four, five” (These are special forms, so-called generic numerals. They are used rarely, in literary or archaic style.)</li>
+  <li><em>jedny, dvoje, troje, čtvery, patery, sedmdesátery </em> “one set of, two sets of, three sets of, four sets of, five sets of, seventy sets of”</li>
+</ul>
+
+<h3 id="counterexamples">Counterexamples</h3>
+
+<ul>
+  <li><em>první, druhý, třetí </em> “first, second, third”: adjectival ordinal numerals. They are tagged <a href="">ADJ</a>, and the <a href="">cs-feat/NumType</a> feature reveals their semantic relation to numbers.</li>
+  <li><em>poprvé, podruhé, potřetí </em> “for the first time, for the second time, for the third time”: adverbial ordinal numerals. They are tagged <a href="">ADV</a>, and the <a href="">cs-feat/NumType</a> feature reveals their semantic relation to numbers.</li>
+  <li><em>jednou, dvakrát, třikrát </em> “once, twice, three times”: multiplicative numerals. They are tagged <a href="">ADV</a>, and the <a href="">cs-feat/NumType</a> feature reveals their semantic relation to numbers.</li>
+  <li><em>dvojí, trojí, čtverý, paterý, sedmdesáterý </em> “twofold, three kinds of, four kinds of, five kinds of, seventy kinds of”: generic numerals. They are tagged <a href="">ADJ</a>.</li>
+  <li><em>dvojice, trojice, čtveřice </em> “pair, triplet, foursome”: n-tuples <em>(n-tice) </em> are not considered numerals in the Czech grammar. They are tagged <a href="">NOUN</a>.</li>
+  <li><em>jednička, dvojka, trojka, čtyřka, pětka </em> “number one, number two, number three, number four, number five”: names of numbers, or of objects identified by the number (e.g. of a bus route). They are not considered numerals and they are tagged <a href="">NOUN</a>.</li>
+  <li><em>tisíc, milión, miliarda, bilión </em> “thousand, million, billion, trillion”: words for large quantities are ambiguous between cardinal numerals (tagged <code>NUM</code>) and nouns.
+If they inflect as nouns, they are tagged <a href="">NOUN</a>; but the borderline is fuzzy.
+For instance, in phrases like <em><b>tisíce</b> lidí demonstrovaly v ulicích </em> (“<b>thousands</b> of people demonstrated in the streets”),
+<em>tisíce </em> is a noun.
+In numeric expressions, e.g. <em>110 <b>tisíc</b> dolarů </em> (“110 thousand dollars”), it is a cardinal numeral.</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Numeral_%28linguistics%29">Wikipedia: Numeral</a></li>
+</ul>
 
 
 <!-- "in other languages" links -->
