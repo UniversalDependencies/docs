@@ -21,6 +21,13 @@ them as numerals. They behave like adjectives both morphologically and
 syntactically, with the exception that they cannot be compared and
 negated.
 
+Most Czech adjectives inflect for
+[cs-feat/Gender]() _(velký – velká – velké)&nbsp;_ “big”,
+[cs-feat/Number]() _(velký – velcí),&nbsp;_
+[cs-feat/Case]() _(velký – velkého – velkému – velkém – velkým),&nbsp;_
+[cs-feat/Degree]() _(velký – větší – největší),&nbsp;_ and
+[Negation](cs-feat/Negative) _(velký – nevelký).&nbsp;_
+
 ### Examples
 
 - _velký&nbsp;_ “big”
