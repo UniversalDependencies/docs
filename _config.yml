@@ -1,7 +1,10 @@
 source:       .
 destination:  ./_site
 markdown:     kramdown
-# kramdown:
+# don't change the following; coderay will break the embedded
+# annotations.
+kramdown:
+  enable_coderay: false
 #   parse_block_html: true # allow markdown in <div> etc.
 permalink:    date
 # safe:         true
