@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Derivation'
-shortdef: 'abbreviation'
+shortdef: 'derivation'
 ---
 
 (Please note: this part of the documentation is not yet completed.)
