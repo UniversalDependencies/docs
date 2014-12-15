@@ -49,7 +49,7 @@ their syntactic and morphological behavior.
   If they inflect as nouns, they are tagged [NOUN](); but the borderline is fuzzy.
   For instance, in phrases like _<b>tisíce</b> lidí demonstrovaly v&nbsp;ulicích&nbsp;_ (“<b>thousands</b> of people demonstrated in the streets”),
   _tisíce&nbsp;_ is a noun.
-  In numeric expressions, e.g. _110 <b>tisíc</b> dolarů&nbsp;_ (“110 thousand dollars”), it is a cardinal numeral.
+  In numeric expressions, e.g. _110 <b>tisíc</b> dolarů&nbsp;_ (“110 <b>thousand</b> dollars”), it is a cardinal numeral.
 
 ### References
 
