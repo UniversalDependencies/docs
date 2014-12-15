@@ -49,31 +49,32 @@ part of speech is hidden for a Czech speaker.
 
 ### Examples
 
-- _<b>Bečov</b>.`PROPN` nad.`ADP` <b>Teplou</b>.`PROPN`&nbsp;_ is a city. _Bečov_ is the head
-  and the _nad Teplou_ part refers to the river flowing through the city,
+- _<b>Bečov</b>_.`PROPN` _nad_.`ADP` _<b>Teplou</b>_.`PROPN` is a city. _Bečov&nbsp;_ is the head
+  and the _nad Teplou&nbsp;_ part refers to the river flowing through the city,
   to distinguish it from other Bečovs.
-- _Červený.`ADJ` <b>Újezd</b>.`PROPN`&nbsp;_ is a village. _Újezd_ is the head and it is
-  tagged `PROPN` although it originates in the common noun _újezd_ “district, riding”.
-  There are many locations named _Újezd_ and the noun is perceived as a proper
-  noun in current Czech. _Červený_ is an adjective meaning “red” and it is
+- _Červený_.`ADJ` _<b>Újezd</b>_.`PROPN` is a village. _Újezd&nbsp;_ is the head and it is
+  tagged `PROPN` although it originates in the common noun _újezd&nbsp;_ “district, riding”.
+  There are many locations named _Újezd&nbsp;_ and the noun is perceived as a proper
+  noun in current Czech. _Červený&nbsp;_ is an adjective meaning “red” and it is
   tagged `ADJ`.
-- _Červená.`ADJ` řeka.`NOUN`&nbsp;_“Red River”. Even though the two words
+- _Červená_.`ADJ` _řeka_.`NOUN` “Red River”. Even though the two words
   together are a name of a particular river, _řeka_ is a common noun and is
   tagged as such.
-- _Organizace.`NOUN` spojených.`ADJ` národů.`NOUN`&nbsp;_“United Nations Organization”
-  consists of three words, none of which is proper noun. However, the abbreviation
-  _OSN&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`.
+- _Organizace_.`NOUN` _spojených_.`ADJ` _národů_.`NOUN` “United Nations Organization”
+  consists of three words, none of which is proper noun. However, the acronym
+  _<b>OSN</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`.
 
 ### Conversion from the Prague Dependency Treebank
 
-The PDT set of morphological (and part-of-speech) tags does not distinguish
+The PDT set of morphological (part-of-speech) tags does not distinguish
 common and proper nouns. However, lemmas in PDT contain additional features
 that also encode types of named entities. When converting the PDT annotation
 to UD, these lemma features are removed, the `PROPN` tag is used and the feature
 [cs-feat/NameType]() is added to the universal features to preserve the type.
-Only nouns are treated this way; PDT lemmas of some foreign adjectives also
-encode that they entered Czech as parts of foreign names, but adjectives are
-not converted to `PROPN`.
+Only nouns are treated this way.
+Foreign adjectives are not converted to `PROPN` despite the fact
+that they entered Czech as parts of foreign names and their lemmas contain
+the name type feature.
 
 The following table lists the name types together with the most frequent examples.
 See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
