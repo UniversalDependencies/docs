@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Features</title>
+    <title>Clitic</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -20,6 +20,8 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-fi">home</a></span>
 
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-feat/Clitic.md" target="#">edit page</a></span>
+
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -33,116 +35,105 @@
 	  </div>
 	</noscript>
 
-          <h1 id="features">Features</h1>
+          <h2><code>Clitic</code>: clitic</h2>
 
-<table class="typeindex">
-  <tr>
-    <td>
-      <table class="category">
-        <tr><td><strong>Lexical features</strong></td></tr>
-        <tr>
-          <td><a>PronType</a></td>
-        </tr>
-        <tr>
-          <td><a>NumType</a></td>
-        </tr>
-        <tr>
-          <td><a>Poss</a></td>
-        </tr>
-        <tr>
-          <td><a>Reflex</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Abbr</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Derivation</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Colloquial</a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-        <tr><td colspan="3"><strong>Inflectional features</strong></td></tr>
-        <tr>
-          <td><i>Nominal</i></td>
-          <td><i>Verbal</i></td>
-        </tr>
-        <tr>
-          <td><strike>Gender</strike></td>
-          <td><a>VerbForm</a></td>
-        </tr>
-        <tr>
-          <td><strike>Animacy</strike></td>
-          <td><strong>+</strong><a>InfForm</a></td>
-        </tr>
-        <tr>
-          <td><a>Number</a></td>
-          <td><strong>+</strong><a>PartForm</a></td>
-        </tr>
-        <tr>
-          <td><a>Case</a></td>
-          <td><a>Mood</a></td>
-        </tr>
-        <tr>
-          <td><strike>Definite</strike></td>
-          <td><a>Tense</a></td>
-        </tr>
-        <tr>
-          <td><a>Degree</a></td>
-          <td><strike>Aspect</strike></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Number[psor]</a></td>
-          <td><a>Voice</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Person[psor]</a></td>
-          <td><a>Person</a></td>
-        </tr>
-        <tr>
-          <td />
-          <td><a>Negative</a></td>
-        </tr>
-        <tr>
-          <td />
-          <td><strong>+</strong><a>Connegative</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p>(Please note: this part of the documentation is not yet completed.)</p>
 
-<hr />
+<p>Language-specific feature identifying clitics attached to the word.</p>
 
-<p>Alphabetical listing</p>
+<p>Finnish has a number of particle clitics used to express questions,
+politeness, or focus. UD Finnish captures the presence of these
+clitics using the <code>Clitic</code> feature, which takes one or more of the
+following values, with multiple values expressing combinations, for
+example <code>Clitic=Ko,S</code> for <em>-kos</em> (<em>-ko</em> + <em>-s</em>) as in <em>voi<b>kos</b></em>.</p>
+
+<h3 id="kin"><code>Kin</code></h3>
+
+<p>Expresses focus. Can often be translated into English as <em>also</em>.
+Forms contrasting pair with <em>-kaan</em>.</p>
+
+<h4 id="examples">Examples</h4>
 
 <ul>
-  <li><a href="">Abbr</a>: abbreviation</li>
-  <li><a href="">Case</a>: case</li>
-  <li><a href="">Clitic</a>: clitic</li>
-  <li><a href="">Colloquial</a>: colloquial</li>
-  <li><a href="">Connegative</a>: connegative</li>
-  <li><a href="">Degree</a>: degree of comparison</li>
-  <li><a href="">Derivation</a>: derivation</li>
-  <li><a href="">InfForm</a>: form of infinitive</li>
-  <li><a href="">Mood</a>: mood</li>
-  <li><a href="">Negative</a>: whether the word can be or is negated</li>
-  <li><a href="">NumType</a>: numeral type</li>
-  <li><a href="">Number</a>: number</li>
-  <li><a href="">Number[psor]</a>: number of possessor</li>
-  <li><a href="">PartForm</a>: form of participle</li>
-  <li><a href="">Person</a>: person</li>
-  <li><a href="">Person[psor]</a>: person of possessor</li>
-  <li><a href="">Poss</a>: possessive</li>
-  <li><a href="">PronType</a>: pronominal type</li>
-  <li><a href="">Reflex</a>: reflexive</li>
-  <li><a href="">Tense</a>: tense</li>
-  <li><a href="">VerbForm</a>: form of verb or deverbative</li>
-  <li><a href="">Voice</a>: voice</li>
+  <li>[fi] <em>minä<b>kin</b> menen</em> “<b>also</b> I am going”</li>
 </ul>
+
+<h3 id="kaan"><code>Kaan</code></h3>
+
+<p>Expresses focus in negative contexts. Realized as <em>-kaan</em> or <em>-kään</em>.
+Forms contrasting pair with <em>-kin</em>.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li>[fi] <em>minä<b>kään</b> en mene</em> “I am not going <b>either</b>”</li>
+</ul>
+
+<h3 id="ko"><code>Ko</code></h3>
+
+<p>Expresses a question. Realized as <em>-ko</em> or <em>-kö</em>.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[fi] <em>menen<b>kö</b> minä</em> “<b>do</b> I go<b>?</b>”</li>
+</ul>
+
+<h3 id="han"><code>Han</code></h3>
+
+<p>Realized as <em>-han</em> or <em>-hän</em>.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[fi] <em>ei<b>hän</b></em> “”</li>
+</ul>
+
+<h3 id="pa"><code>Pa</code></h3>
+
+<p>Realized as <em>-pa</em> or <em>-pä</em>.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li>[fi] <em>vaikka<b>pa</b></em> “”</li>
+</ul>
+
+<h3 id="s"><code>S</code></h3>
+
+<p>TODO</p>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li>[fi] <em>mitä<b>s</b></em> “”</li>
+</ul>
+
+<h3 id="ka"><code>Ka</code></h3>
+
+<p>Realized as <em>-ka</em> or <em>-kä</em>. Attached to the negative verb <em>ei</em>, serves
+also as a conjunction.</p>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li>[fi] <em>ei päätä ei<b>kä</b> häntää</em> “neither head <b>nor</b> tail”</li>
+</ul>
+
+<h4 id="references">References</h4>
+
+<ul>
+  <li>Karttunen and Karttunen (1976) <em>The Clitic -kin/-kaan in Finnish</em> (TODO link)</li>
+  <li><a href="http://www.cse.chalmers.se/~aarne/articles/discourse-clitics.pdf">http://www.cse.chalmers.se/~aarne/articles/discourse-clitics.pdf</a></li>
+  <li><a href="http://cowgill.ling.yale.edu/sra/clitics_iel.htm">http://cowgill.ling.yale.edu/sra/clitics_iel.htm</a></li>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=126">http://scripta.kotus.fi/visk/sisallys.php?p=126</a> (in Finnish)</li>
+  <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=1635">http://scripta.kotus.fi/visk/sisallys.php?p=1635</a> (in Finnish)</li>
+</ul>
+
+
+<!-- "in other languages" links -->
+<hr/>
+
 
 
       </div>
@@ -207,7 +198,7 @@
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'fi-overview';
+        Collections.listing['_current'] = 'fi-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
