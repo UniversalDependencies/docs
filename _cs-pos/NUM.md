@@ -16,9 +16,9 @@ are expressed as words _(čtyři)_, digits _(4)_ or Roman numerals
 _(IV)_.
 
 Czech grammar distinguishes several subclasses of _pronominal numerals (quantifiers):_
-interrogative and relative _(kolik)&nbsp;_ “how many”;
-demonstrative _(tolik)&nbsp;_ “this many”;
-indefinite _(několik, mnoho, málo)&nbsp;_ “several, many, few”.
+interrogative and relative _(kolik&nbsp;_ “how many”);
+demonstrative _(tolik&nbsp;_ “this many”);
+indefinite _(několik, mnoho, málo&nbsp;_ “several, many, few”).
 These words behave similarly to (most) cardinal numbers,
 e.g. they require that the counted noun phrase be in genitive.
 They are not similar to adjectives (unlike their English counterparts).
