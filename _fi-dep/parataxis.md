@@ -45,8 +45,8 @@ punct(Tulen-1, .-8)
 
 ~~~ sdparse
 Mies sanoi : Tulen kotiin vasta myöhään . \n The_man said : I_will_come home only late .
-nsubj(Mies-1 sanoi-2)
-punct(sanoi-2 :-3)
+nsubj(Mies-1, sanoi-2)
+punct(sanoi-2, :-3)
 nmod(Tulen-4, kotiin-5)
 advmod(Tulen-4, myöhään-7)
 advmod(myöhään-7, vasta-6)
