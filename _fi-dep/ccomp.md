@@ -24,7 +24,7 @@ Sanoin hänelle , että vesi kiehuu . \n I_said to_him , that water boils .
 nmod(Sanoin-1, hänelle-2)
 ccomp(Sanoin-1, kiehuu-6)
 punct(kiehuu-6, ,-3)
-complm(kiehuu-6, että-4)
+mark(kiehuu-6, että-4)
 nsubj(kiehuu-6, vesi-5)
 punct(Sanoin-1, .-7)
 ~~~
@@ -35,6 +35,7 @@ Se , että naapurin koira haukkui kovasti , suututti äitiä . \n It , that neig
 ccomp(Se-1, haukkui-6)
 punct(haukkui-6, ,-2)
 punct(haukkui-6, ,-8)
+mark(haukkui-6, että-3)
 poss(koira-5, naapurin-4)
 nsubj(haukkui-6, koira-5)
 advmod(haukkui-6, kovasti-7)
