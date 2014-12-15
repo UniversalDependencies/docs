@@ -17,7 +17,8 @@
     <div id="main" class="center">
 
       <div id="hp-header">
-          <span class="header-text"><a href="{{ site.home }}">home</a></span>
+	
+          <span class="header-text"><a href="{{ site.home }}{% if page.collection %}#language-{{ page.collection | split: '-' | first }}{% endif %}">home</a></span>
 {% if page.generated != 'true' %}
           <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path }}{% else %}{{ page.path }}{% endif %}" target="#">edit page</a></span>
 {% endif %}
