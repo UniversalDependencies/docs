@@ -91,8 +91,74 @@
 <p><a id="al-cs-pos/ADJ" class="al-dest"></a></p>
 <h2><code>ADJ</code>: adjective</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ADJ</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Adjectives are words that typically modify nouns and specify their
+properties or attributes. They may also function as predicates, as in</p>
+
+<p><em>To auto je zelené. </em> “The car is green.”</p>
+
+<p>The <code>ADJ</code> tag is intended for ordinary adjectives only. See <a href="">DET</a>
+for determiners and <a href="">NUM</a> for cardinal numerals.</p>
+
+<p>In accord with the UD approach,
+adjectival ordinal numerals <em>(první, sedmý, stopadesátý) </em>
+are tagged as adjectives, although the traditional grammar classifies
+them as numerals. They behave like adjectives both morphologically and
+syntactically, with the exception that they cannot be compared and
+negated.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>velký </em> “big”</li>
+  <li><em>starý </em> “old”</li>
+  <li><em>zelený </em> “green”</li>
+  <li><em>nejneobhospodařovávatelnějšímu </em> “to the most uncultivatable” (the longest Czech word)</li>
+  <li><em>otcův, matčin </em> “father’s, mother’s” (possessive adjectives)</li>
+  <li><em>první, druhý, třetí </em> “first, second, third”</li>
+  <li><em>udělaný </em> “done” (passive participial adjective, see below)</li>
+  <li><em>scvrklý </em> “shrivelled” (past participial adjective)</li>
+  <li><em>dělající </em> “doing” (present participial adjective, derived from present transgressive)</li>
+  <li><em>udělavší </em> “having done” (past participial adjective, derived from past transgressive)</li>
+</ul>
+
+<h3 id="border-cases">Border cases</h3>
+
+<p>Passive participles lie on the border between verbs and adjectives.
+Core participial forms (ending in consonant or short vowel) are tagged <code>VERB</code>.
+Long forms are participial adjectives and they are tagged <code>ADJ</code>.
+For example:</p>
+
+<ul>
+  <li>Verb: <em>nesen, nesena, neseno, neseni, neseny</em>  “carried”</li>
+  <li>Adjective: <em>nesený, nesená, nesené, nesení, nesené</em>  “carried”</li>
+</ul>
+
+<p>Their meaning is almost identical but the usage slightly varies.
+Both groups can be used in nominal predication with <a href="cs-dep/cop">copula</a>.
+Only true participles (verbs) can be used to form the passive voice
+(but it may be sometimes difficult to distinguish from copula constructions, see <a href="">AUX</a>).
+On the other hand, the participial adjectives inflect for case and thus
+can modify nouns.</p>
+
+<p>There is an analogy with some adjectives that preserved so called nominal (short) forms.
+And these adjectives are not derived from verbs. Example:</p>
+
+<ul>
+  <li>Short (nominal) forms: <em>stár, stára, stáro</em>  “old”</li>
+  <li>Normal (pronominal) forms: <em>starý, stará, staré</em>  “old”</li>
+</ul>
+
+<p>Here both groups are <code>ADJ</code>. The nominal forms are used in predication,
+the standard forms both in predication and to modify nouns.</p>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Adjective">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/ADJ.md" target="#">edit ADJ</a></p>
 
@@ -338,32 +404,33 @@ part of speech is hidden for a Czech speaker.</p>
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li><em><b>Bečov</b>.<code>PROPN</code> nad.<code>ADP</code> <b>Teplou</b>.<code>PROPN</code> </em> is a city. <em>Bečov</em> is the head
-and the <em>nad Teplou</em> part refers to the river flowing through the city,
+  <li><em><b>Bečov</b></em>.<code>PROPN</code> <em>nad</em>.<code>ADP</code> <em><b>Teplou</b></em>.<code>PROPN</code> is a city. <em>Bečov </em> is the head
+and the <em>nad Teplou </em> part refers to the river flowing through the city,
 to distinguish it from other Bečovs.</li>
-  <li><em>Červený.<code>ADJ</code> <b>Újezd</b>.<code>PROPN</code> </em> is a village. <em>Újezd</em> is the head and it is
-tagged <code>PROPN</code> although it originates in the common noun <em>újezd</em> “district, riding”.
-There are many locations named <em>Újezd</em> and the noun is perceived as a proper
-noun in current Czech. <em>Červený</em> is an adjective meaning “red” and it is
+  <li><em>Červený</em>.<code>ADJ</code> <em><b>Újezd</b></em>.<code>PROPN</code> is a village. <em>Újezd </em> is the head and it is
+tagged <code>PROPN</code> although it originates in the common noun <em>újezd </em> “district, riding”.
+There are many locations named <em>Újezd </em> and the noun is perceived as a proper
+noun in current Czech. <em>Červený </em> is an adjective meaning “red” and it is
 tagged <code>ADJ</code>.</li>
-  <li><em>Červená.<code>ADJ</code> řeka.<code>NOUN</code> </em>“Red River”. Even though the two words
+  <li><em>Červená</em>.<code>ADJ</code> <em>řeka</em>.<code>NOUN</code> “Red River”. Even though the two words
 together are a name of a particular river, <em>řeka</em> is a common noun and is
 tagged as such.</li>
-  <li><em>Organizace.<code>NOUN</code> spojených.<code>ADJ</code> národů.<code>NOUN</code> </em>“United Nations Organization”
-consists of three words, none of which is proper noun. However, the abbreviation
-<em>OSN </em> “UNO” is a single-token name and is tagged <code>PROPN</code>.</li>
+  <li><em>Organizace</em>.<code>NOUN</code> <em>spojených</em>.<code>ADJ</code> <em>národů</em>.<code>NOUN</code> “United Nations Organization”
+consists of three words, none of which is proper noun. However, the acronym
+<em><b>OSN</b> </em> “UNO” is a single-token name and is tagged <code>PROPN</code>.</li>
 </ul>
 
 <h3 id="conversion-from-the-prague-dependency-treebank">Conversion from the Prague Dependency Treebank</h3>
 
-<p>The PDT set of morphological (and part-of-speech) tags does not distinguish
+<p>The PDT set of morphological (part-of-speech) tags does not distinguish
 common and proper nouns. However, lemmas in PDT contain additional features
 that also encode types of named entities. When converting the PDT annotation
 to UD, these lemma features are removed, the <code>PROPN</code> tag is used and the feature
 <a href="">cs-feat/NameType</a> is added to the universal features to preserve the type.
-Only nouns are treated this way; PDT lemmas of some foreign adjectives also
-encode that they entered Czech as parts of foreign names, but adjectives are
-not converted to <code>PROPN</code>.</p>
+Only nouns are treated this way.
+Foreign adjectives are not converted to <code>PROPN</code> despite the fact
+that they entered Czech as parts of foreign names and their lemmas contain
+the name type feature.</p>
 
 <p>The following table lists the name types together with the most frequent examples.
 See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,

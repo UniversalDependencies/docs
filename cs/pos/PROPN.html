@@ -82,32 +82,33 @@ part of speech is hidden for a Czech speaker.</p>
 <h3 id="examples">Examples</h3>
 
 <ul>
-  <li><em><b>Bečov</b>.<code>PROPN</code> nad.<code>ADP</code> <b>Teplou</b>.<code>PROPN</code> </em> is a city. <em>Bečov</em> is the head
-and the <em>nad Teplou</em> part refers to the river flowing through the city,
+  <li><em><b>Bečov</b></em>.<code>PROPN</code> <em>nad</em>.<code>ADP</code> <em><b>Teplou</b></em>.<code>PROPN</code> is a city. <em>Bečov </em> is the head
+and the <em>nad Teplou </em> part refers to the river flowing through the city,
 to distinguish it from other Bečovs.</li>
-  <li><em>Červený.<code>ADJ</code> <b>Újezd</b>.<code>PROPN</code> </em> is a village. <em>Újezd</em> is the head and it is
-tagged <code>PROPN</code> although it originates in the common noun <em>újezd</em> “district, riding”.
-There are many locations named <em>Újezd</em> and the noun is perceived as a proper
-noun in current Czech. <em>Červený</em> is an adjective meaning “red” and it is
+  <li><em>Červený</em>.<code>ADJ</code> <em><b>Újezd</b></em>.<code>PROPN</code> is a village. <em>Újezd </em> is the head and it is
+tagged <code>PROPN</code> although it originates in the common noun <em>újezd </em> “district, riding”.
+There are many locations named <em>Újezd </em> and the noun is perceived as a proper
+noun in current Czech. <em>Červený </em> is an adjective meaning “red” and it is
 tagged <code>ADJ</code>.</li>
-  <li><em>Červená.<code>ADJ</code> řeka.<code>NOUN</code> </em>“Red River”. Even though the two words
+  <li><em>Červená</em>.<code>ADJ</code> <em>řeka</em>.<code>NOUN</code> “Red River”. Even though the two words
 together are a name of a particular river, <em>řeka</em> is a common noun and is
 tagged as such.</li>
-  <li><em>Organizace.<code>NOUN</code> spojených.<code>ADJ</code> národů.<code>NOUN</code> </em>“United Nations Organization”
-consists of three words, none of which is proper noun. However, the abbreviation
-<em>OSN </em> “UNO” is a single-token name and is tagged <code>PROPN</code>.</li>
+  <li><em>Organizace</em>.<code>NOUN</code> <em>spojených</em>.<code>ADJ</code> <em>národů</em>.<code>NOUN</code> “United Nations Organization”
+consists of three words, none of which is proper noun. However, the acronym
+<em><b>OSN</b> </em> “UNO” is a single-token name and is tagged <code>PROPN</code>.</li>
 </ul>
 
 <h3 id="conversion-from-the-prague-dependency-treebank">Conversion from the Prague Dependency Treebank</h3>
 
-<p>The PDT set of morphological (and part-of-speech) tags does not distinguish
+<p>The PDT set of morphological (part-of-speech) tags does not distinguish
 common and proper nouns. However, lemmas in PDT contain additional features
 that also encode types of named entities. When converting the PDT annotation
 to UD, these lemma features are removed, the <code>PROPN</code> tag is used and the feature
 <a href="">cs-feat/NameType</a> is added to the universal features to preserve the type.
-Only nouns are treated this way; PDT lemmas of some foreign adjectives also
-encode that they entered Czech as parts of foreign names, but adjectives are
-not converted to <code>PROPN</code>.</p>
+Only nouns are treated this way.
+Foreign adjectives are not converted to <code>PROPN</code> despite the fact
+that they entered Czech as parts of foreign names and their lemmas contain
+the name type feature.</p>
 
 <p>The following table lists the name types together with the most frequent examples.
 See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
