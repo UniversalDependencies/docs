@@ -12,5 +12,5 @@ part of an exclamation.
 ### Examples
 
 - _Tack!_ "Thanks!"
-- _Aj!_ "Bam!"
-- _Pang!_ "Ouch!"
+- _Aj!_ "Ouch!"
+- _Pang!_ "Bam!"

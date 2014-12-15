@@ -13,6 +13,6 @@ on the noun they modify, e.g. _en stor skillnad_ "a big difference", _ett stort 
 
 ### Examples
 
-- _gammal/gammalt/gammla_ "old"
+- _gammal/gammalt/gamla_ "old"
 - _grön/grönt/gröna_ "green"
 - _ofattbar/ofattbart/ofattbara_ "incomprehensible"
