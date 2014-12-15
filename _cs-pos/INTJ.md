@@ -29,6 +29,18 @@ cannot serve to judge the part of speech from the English perspective.)
 - _hle&nbsp;_ “look”
 - _proboha&nbsp;_ “for God's sake”
 
+## Diffs
+
+### Prague Dependency Treebank
+
+At present the UD-conversion of PDT keeps the PDT convention on tagging
+the response words (“yes, no”) as particles.
+Automatic conversion would not be straightforward because the negative particle
+_ne_ is sometime used as the response particle/interjection (English “no”)
+and sometimes as a free negative morpheme (English “not”).
+These two usages would have to be distinguished and only the first one
+converted to interjection.
+
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
