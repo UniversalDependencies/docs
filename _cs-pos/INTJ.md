@@ -14,6 +14,8 @@ language.
 
 As a special case of interjections, we recognize feedback particles
 such as _ano_, _jo_, _ne_, etc.
+Note that these words are considered particles in the PDT tagset
+and have to be retagged during the conversion process.
 
 ### Examples
 
