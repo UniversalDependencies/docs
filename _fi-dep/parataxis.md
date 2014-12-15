@@ -31,6 +31,17 @@ punct(käy-6, )-7)
 
 `parataxis` is also used for direct speech. If the verb of saying (or thinking, etc.) precedes the utterance, it acts as the governor, and the main verb or predicative of the utterance is the dependent. However, if the utterance precedes the speech verb, the relation is reversed. 
 
+~~~ sdparse
+Mies sanoi : Tulen kotiin vasta myöhään . \n The_man said : I_will_come home only late .
+nsubj(Mies-1, sanoi-2)
+punct(sanoi-2, :-3)
+nmod(Tulen-4, kotiin-5)
+advmod(Tulen-4, myöhään-7)
+advmod(myöhään-7, vasta-6)
+parataxis(sanoi-2, Tulen-4)
+punct(sanoi-2, .-8)
+~~~
+
 <!-- fname:parataxis_speech.pdf -->
 ~~~ sdparse
 Tulen kotiin vasta myöhään , mies sanoi . \n I_will_come home only late , the_man said .
@@ -41,15 +52,4 @@ punct(Tulen-1, ,-5)
 nsubj(sanoi-7, mies-6)
 parataxis(Tulen-1, sanoi-7)
 punct(Tulen-1, .-8)
-~~~
-
-~~~ sdparse
-Mies sanoi : Tulen kotiin vasta myöhään . \n The_man said : I_will_come home only late .
-nsubj(Mies-1, sanoi-2)
-punct(sanoi-2, :-3)
-nmod(Tulen-4, kotiin-5)
-advmod(Tulen-4, myöhään-7)
-advmod(myöhään-7, vasta-6)
-parataxis(sanoi-2, Tulen-4)
-punct(sanoi-2, .-8)
 ~~~
