@@ -81,13 +81,13 @@ See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/t
 page 8, section 2.1 (Lemma structure) for more details.
 
 <table>
-<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td></tr>
-<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td></tr>
-<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td></tr>
-<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td></tr>
-<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td></tr>
-<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td></tr>
-<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td></tr>
+<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td><td>“Jan, Jiří, Václav, Petr, Josef”</td></tr>
+<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td><td>“Klaus, Havel, Němec, Yeltsin, Svoboda”</td></tr>
+<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td><td>“German, Czech, Serbian, American, Slovak”</td></tr>
+<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td><td>“Prague, CR, Europe, Germany, Brno”</td></tr>
+<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td><td>“ODS, UN, Sparta, ODA, Slavia”</td></tr>
+<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td><td>“LN, Mercedes, Tatra, PC, MF”</td></tr>
+<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td><td>“US, PVP, Prix, Rapaport, Tour”</td></tr>
 </table>
 
 ## Diffs
