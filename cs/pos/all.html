@@ -598,8 +598,52 @@ In numeric expressions, e.g. <em>110 <b>tisíc</b> dolarů </em> (“110 <b>tho
 <p><a id="al-cs-pos/PART" class="al-dest"></a></p>
 <h2><code>PART</code>: particle</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PART</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Particles are function words that must be associated with another word
+or phrase to impart meaning and that do not satisfy definitions of
+other universal parts of speech (e.g. <a href="ADP">adpositions</a>,
+<a href="CONJ">coordinating conjunctions</a>, <a href="SCONJ">subordinating conjunctions</a>
+or <a href="AUX">auxiliary verbs</a>).  Particles may encode grammatical
+categories such as negation, mood, tense etc. Czech particles are
+not inflected.</p>
+
+<p>Note that response words such as <em>ano, jo </em> “yes”, <em>ne </em> “no”, etc.
+are considered particles in the PDT tagset but they should be retagged
+as interjections under the UD standard. Also note that <em>ne </em> can be
+used in two ways, one would be translated as English “no” and the other as “not”.
+Only the former should become interjection, while the latter will stay a particle.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Sentence modality: <em><b>ať</b>, <b>kéž</b>, <b>nechť</b> </em> (“<b>Let’s</b> do it!” “<b>If only</b> I could do it over.” “<b>May you</b> have an enjoyable stay!”)</li>
+  <li><em>jen </em> “just, only” <!-- 2125 occurrences, the most frequent particle. Strange: its partial synonym _pouze_ is tagged as adverb! --></li>
+  <li><em>až </em> “only, as late as, even, up to” <!-- Ambiguous: it could be also a conjunction. 1156 occ. TT, 570 J^, 96 J,. -->
+Use case: <em>až po stovky tisíc let </em> “up to hundreds of thousands of years”</li>
+  <li><em>asi </em> “about, roughly, maybe” <!-- All 846 occurrences are tagged as particles. --></li>
+</ul>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<ul>
+  <li><em>li </em> “if”: This is an encliticized morpheme that functions as subordinating conjunction but it always immediately follows
+the predicate of the subordinate clause.
+For example: <em>Nebude-<b>li</b> pršet, nezmoknem. </em>
+lit. <em>Will-not-<b>if</b> rain, we-will-not-get-wet. </em>
+“We will not get wet if it does not rain.”
+PDT tags the <em>li </em> morpheme as particle and it is currently kept so in the UD conversion
+but we should probably convert the tag to <code>SCONJ</code>.</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Grammatical_particle">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/PART.md" target="#">edit PART</a></p>
 
