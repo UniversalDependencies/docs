@@ -68,13 +68,24 @@ Use case: <em>až po stovky tisíc let </em> “up to hundreds of thousands of 
 <h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
 
 <ul>
-  <li><em>li </em> “if”: This is an encliticized morpheme that functions as subordinating conjunction but it always immediately follows
+  <li>
+    <p><em>li </em> “if”: This is an encliticized morpheme that functions as subordinating conjunction but it always immediately follows
 the predicate of the subordinate clause.
 For example: <em>Nebude-<b>li</b> pršet, nezmoknem. </em>
 lit. <em>Will-not-<b>if</b> rain, we-will-not-get-wet. </em>
 “We will not get wet if it does not rain.”
 PDT tags the <em>li </em> morpheme as particle and it is currently kept so in the UD conversion
-but we should probably convert the tag to <code>SCONJ</code>.</li>
+but we should probably convert the tag to <code>SCONJ</code>.</p>
+  </li>
+  <li>
+    <p>At present the UD-conversion of PDT keeps the PDT convention on tagging
+the response words (“yes, no”) as particles.
+Automatic conversion would not be straightforward because the negative particle
+<em>ne</em> is sometimes used as the response particle/interjection (English “no”)
+and sometimes as a free negative morpheme (English “not”).
+These two usages would have to be distinguished and only the first one
+converted to interjection.</p>
+  </li>
 </ul>
 
 <h3 id="references">References</h3>
