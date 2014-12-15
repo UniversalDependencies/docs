@@ -36,7 +36,7 @@ cannot serve to judge the part of speech from the English perspective.)
 At present the UD-conversion of PDT keeps the PDT convention on tagging
 the response words (“yes, no”) as particles.
 Automatic conversion would not be straightforward because the negative particle
-_ne_ is sometime used as the response particle/interjection (English “no”)
+_ne_ is sometimes used as the response particle/interjection (English “no”)
 and sometimes as a free negative morpheme (English “not”).
 These two usages would have to be distinguished and only the first one
 converted to interjection.
