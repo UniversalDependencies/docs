@@ -40,6 +40,14 @@ Only the former should become interjection, while the latter will stay a particl
   PDT tags the _li&nbsp;_ morpheme as particle and it is currently kept so in the UD conversion
   but we should probably convert the tag to `SCONJ`.
 
+- At present the UD-conversion of PDT keeps the PDT convention on tagging
+  the response words (“yes, no”) as particles.
+  Automatic conversion would not be straightforward because the negative particle
+  _ne_ is sometimes used as the response particle/interjection (English “no”)
+  and sometimes as a free negative morpheme (English “not”).
+  These two usages would have to be distinguished and only the first one
+  converted to interjection.
+
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
