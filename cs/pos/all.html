@@ -377,8 +377,67 @@ expresses a semantic relationship between them.</p>
 <p><a id="al-cs-pos/DET" class="al-dest"></a></p>
 <h2><code>DET</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>DET</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Determiners are words that modify <a href="NOUN">nouns</a> or noun phrases and
+express the reference of the noun phrase in context. That is, a
+determiner may indicate whether the noun is referring to a definite or
+indefinite element of a class, to a closer or more distant element, to
+an element belonging to a specified person or thing, to a particular
+number or quantity, etc.</p>
+
+<p>An important point to note is that the traditional grammar of Czech does not
+define determiners as a separate word class. Czech does not have articles.
+Most determiners are traditionally called pronouns; that is, an UD-conformant
+annotation of Czech must distinguish between substantive pronouns (UD tag <a href="">PRON</a>)
+and attributive pronouns (UD tag <code>DET</code>).</p>
+
+<p>Also note that the <code>DET</code> tag includes (pronominal) <em>quantifiers</em> (words
+like <em>mnoho, málo </em> “many, few”), which the traditional grammar classifies
+as a special subclass of numerals. However,
+<em>cardinal numerals</em> in the narrow sense <em>(jeden, pět, sto)</em> are not
+tagged <code>DET</code> even though some authors would include them in
+quantifiers. Cardinal numbers have their own tag <a href="">NUM</a>.</p>
+
+<h3 id="conversion-from-the-prague-dependency-treebank">Conversion from the Prague Dependency Treebank</h3>
+
+<p>Since the PDT tagset (like all other Czech tagsets) does not distinguish
+substantive and attributive pronouns, morphological tags alone are not enough
+to find the correct universal POS tag.
+Morphological rules could help, as the inflection patterns of some pronouns
+bear similarities to adjectival inflection; nevertheless, there will be other
+cases that cannot be solved this way.
+We have to examine the dependency tree.
+If a pronoun modifies a noun, it should be tagged <code>DET</code>.
+Otherwise it is <code>PRON</code>.
+As a result, all words that can be tagged <code>DET</code> can also be tagged <code>PRON</code>,
+but some words can only be tagged <code>PRON</code>.
+(We cannot recognize cases where the pronoun is in fact attributive, but the
+modified noun has been elided and is not represented in the tree.)</p>
+
+<p>For instance, <em>tohle </em> “this” is either pronoun
+<em>(<b>Tohle</b> jsem viděl včera. </em> “I saw <b>this</b> yesterday.”)
+or determiner
+<em>(<b>Tohle</b> auto jsem viděl včera. </em> “I saw <b>this</b> car yesterday.”)</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>possessive determiners: <em>můj, tvůj, jeho, její, náš, váš, jejich </em> “my, your, his, her, our, your, their”</li>
+  <li>demonstrative determiners: <em>tohle </em> as in <em><b>Tohle</b> auto jsem viděl včera. </em> “I saw <b>this</b> car yesterday.”</li>
+  <li>interrogative determiners: <em>který </em> as in <em><b>Které</b> auto se ti líbí? </em> “<b>Which</b> car do you like?”</li>
+  <li>relative determiners: <em>který </em> as in <em>Zajímá mě, <b>které</b> auto se ti líbí. </em> “I wonder <b>which</b> car you like.”</li>
+  <li>indefinite determiners: <em>nějaký, některý</em></li>
+  <li>total determiners: <em>každý, všechen</em></li>
+  <li>negative determiners: <em>žádný </em> as in <em>Nemáme <b>žádná</b> auta. </em> “We have <b>no</b> cars available.”</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Determiner">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/DET.md" target="#">edit DET</a></p>
 
