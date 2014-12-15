@@ -22,10 +22,10 @@ The approximate translations below are for orientation purposes and they
 cannot serve to judge the part of speech from the English perspective.)
 
 - _ach&nbsp;_ “oh”
-- _pink_
-- _inu_ “well”
-- _hle_ “look”
-- _proboha_ “for God's sake”
+- _pink&nbsp;_
+- _inu&nbsp;_ “well”
+- _hle&nbsp;_ “look”
+- _proboha&nbsp;_ “for God's sake”
 
 ### References
 
