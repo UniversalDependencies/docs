@@ -4,15 +4,15 @@ title:  'ccomp'
 shortdef : 'clausal complement'
 ---
 
-*Clausal complements* that have a subject different from that of the
-main clause are marked with the dependency type `ccomp` (note that
-a clausal complement need not have a subject present at all; the
-clause could be, for instance, passive). The governor is most
+*Clausal complement* is an object like clausal dependent. The governor is most
 commonly, although not always, the main verb or predicative of the
 main clause, and the dependent is the main verb or predicative of the
 dependent clause. The clausal complement can also modify a word other
 than a verb, most often a noun or pronoun. Most commonly clausal
 complements are _että_-clauses.
+
+If the subject of the clausal complement is controlled (that is, must be the same as the higher subject or object, with no other possible interpretation) the appropriate relation is either **xcomp** or **xcomp:ds**.
+
 
 <!--Distinguishing different verbal dependents, including different
 clausal complements, is discussed more closely in Section
