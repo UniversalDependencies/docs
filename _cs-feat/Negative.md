@@ -5,7 +5,7 @@ shortdef: 'whether the word can be or is negated'
 ---
 
 In Czech, negation is mostly done using the bound morpheme _ne-,_
-and independent negating particle (equivalent to English “not”)
+and an independent negating particle (equivalent to English “not”)
 is rarely seen. Words that can take the morpheme of negation have
 the feature of negativeness.
 
