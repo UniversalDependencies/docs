@@ -1,0 +1,13 @@
+---
+layout: entry
+title: 'expl'
+shortdef: 'expletive'
+---
+
+This relation captures pleonastic nominals. An expletive or pleonastic
+nominal is one where the nominal does not satisfy a semantic role of
+the predicate, such as the existential *there* in English. The main
+predicate of the clause (the verb or predicate adjective or noun) is
+the governor.
+
+(TODO example)
