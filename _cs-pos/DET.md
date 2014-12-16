@@ -50,9 +50,11 @@ _(<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterda
 ### Examples
 
 - possessive determiners: _můj, tvůj, jeho, její, náš, váš, jejich&nbsp;_ “my, your, his, her, our, your, their”
+- reflexive possessive determiner: _svůj&nbsp;_ “one's own”
 - demonstrative determiners: _tohle&nbsp;_ as in _<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterday.”
 - interrogative determiners: _který&nbsp;_ as in _<b>Které</b> auto se ti líbí?&nbsp;_ “<b>Which</b> car do you like?”
 - relative determiners: _který&nbsp;_ as in _Zajímá mě, <b>které</b> auto se ti líbí.&nbsp;_ “I wonder <b>which</b> car you like.”
+- relative possessive determiner: _jehož&nbsp;_ “whose”
 - indefinite determiners: _nějaký, některý_
 - total determiners: _každý, všechen_
 - negative determiners: _žádný&nbsp;_ as in _Nemáme <b>žádná</b> auta.&nbsp;_ “We have <b>no</b> cars available.”

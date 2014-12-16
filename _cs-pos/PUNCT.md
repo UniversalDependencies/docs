@@ -4,5 +4,32 @@ title: 'PUNCT'
 shortdef: 'punctuation'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PUNCT`.
+### Definition
+
+Punctuation marks are non-alphabetical characters and character groups
+used to delimit linguistic units in printed text.
+
+Punctuation is not taken to include logograms such as _$_, _%_, and
+_§_, which are instead tagged as [SYM]().
+
+### Examples
+
+- Period: _<b>.</b>_
+- Comma: _<b>,</b>_
+- Parentheses: _<b>()</b>_
+
+## Diffs
+
+### Prague Dependency Treebank
+
+The PDT part-of-speech tagset does not distinguish symbols from punctuation, hence all
+non-alphanumeric characters in the converted data are currently tagged [PUNCT]().
+
+The PDT texts are from the early 1990s and there are no e-mail addresses.
+If they were there, the PDT tokenization rules would break them up on all dots and at signs.
+The same holds for telephone numbers. For example,
+_tel.: (05) 4321 6014&nbsp;_ is analyzed as eight tokens (`NOUN PUNCT PUNCT PUNCT NUM PUNCT NUM NUM`).
+
+### References
+
+- [Wikipedia](http://en.wikipedia.org/wiki/Punctuation)

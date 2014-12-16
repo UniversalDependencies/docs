@@ -23,7 +23,9 @@ appos(Puhelin:-3, 555-9814-4)
 appos(Sähköposti:-5, mkorhonen@example.com-6)
 ~~~
 
----
+## Diffs
 
-Note/diff: `list` is not annotated in TDT and is not used in
+### Turku Dependency Treebank
+
+`list` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.

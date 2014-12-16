@@ -35,6 +35,7 @@ The following verb expressions are considered phrasal verbs. Note that this list
 * _ajaa takaa_ "chase"
 * _antaa periksi_ "give up"
 * _astua voimaan_ "become valid"
+* _hyökätä kimppuun_ "attack"
 * _jäädä jälkeen_ "be left behind"
 * _jäädä kiinni_ "be caught" (not in the sense _be stuck into something_) 
 * _jäädä käteen_ "be left in one's hand", "one is left with something" (figurative reading only.) 
@@ -45,6 +46,7 @@ The following verb expressions are considered phrasal verbs. Note that this list
 * _kutsua koolle_ "summon"
 * _käydä ilmi_ "come up"
 * _käydä kateeksi_ "make jealous"
+* _käydä kimppuun_ "attack"
 * _käydä läpi_ "go through"
 * _käydä sääliksi_ "be pitied"
 * _laskea alleen_ "wet one's pants"
@@ -71,6 +73,7 @@ The following verb expressions are considered phrasal verbs. Note that this list
 * _pitää kiinni_ "hold on"
 * _pitää voimassa_ "keep valid"
 * _pitää yllä_ "maintain"
+* _päästä kimppuun_ "attack, get close enough"
 * _päästä käsiksi_ "get one's hands on"
 * _päästä läpi_ "get through"
 * _päästää irti_ "let go"
