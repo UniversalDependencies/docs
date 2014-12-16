@@ -8,7 +8,7 @@ Aspect is a feature that specifies duration of the action in time,
 whether the action has been completed etc.
 
 In Czech, aspect is considered a lexical feature of [verbs](cs-pos/VERB).
-While many imperfect verbs have morphologically related perfect counterparts,
+While many imperfective verbs have morphologically related perfective counterparts,
 it is not a regular system
 and the two verbs are represented by different lemmas.
 
