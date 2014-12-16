@@ -9,7 +9,9 @@ repair. The disfluency is the dependent of the repair.
 
 (TODO: Finnish `reparandum` example)
 
----
+## Diffs
 
-Note/diff: `reparandum` is not annotated in TDT and is not used in
+### Turku Dependency Treebank
+
+`reparandum` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.
