@@ -343,8 +343,26 @@ requests</a>.</p>
 
 <h2 id="troubleshooting">Troubleshooting</h2>
 
-<p>No trouble reported yet. If you have any, just ask Sampo
-(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi)!</p>
+<p>Issue: when running locally, the system gives the error message
+<em>cannot load such file – <code>jekyll-redirect-from</code></em>.</p>
+
+<ul>
+  <li>Solution: install the ruby gem
+<a href="https://github.com/jekyll/jekyll-redirect-from"><code>jekyll-redirect-from</code></a>,
+for example with <code>gem install jekyll-redirect-from</code>.</li>
+</ul>
+
+<p>Issue: when running locally, the system gives the error message
+<em>CodeRay::Scanners could not load plugin</em>.</p>
+
+<ul>
+  <li>Solution: check that CodeRay is not running. The <code>_config.yml</code>
+option <code>kramdown: enable_coderay: false</code> should disable coderay.</li>
+</ul>
+
+<p>If you have any trouble with the system, just ask Sampo
+(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi) or open an issue
+at github.com/universaldependencies/docs/issues.</p>
 
 
       </div>
