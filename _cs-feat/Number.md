@@ -30,7 +30,7 @@ A plural noun denotes several persons, animals or things.
 
 ### `Dual`: dual number
 
-A dual noun denotes two persons, animals or things.
+A dual noun denotes two objects.
 The dual number has almost vanished from Czech with the exception
 of special instrumental case suffixes for body parts that occur in pairs,
 and any adjectives that modify them.
