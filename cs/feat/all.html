@@ -142,7 +142,7 @@ the cars may become and be inflected as animates.</p>
 whether the action has been completed etc.</p>
 
 <p>In Czech, aspect is considered a lexical feature of <a href="cs-pos/VERB">verbs</a>.
-While many imperfect verbs have morphologically related perfect counterparts,
+While many imperfective verbs have morphologically related perfective counterparts,
 it is not a regular system
 and the two verbs are represented by different lemmas.</p>
 
@@ -190,8 +190,144 @@ of verbs that work with both aspects.</p>
 <p><a id="al-cs-feat/Case" class="al-dest"></a></p>
 <h2><code>Case</code>: case</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Case</code>.</p>
+<p>Case is an inflectional feature of <a href="cs-pos/NOUN">nouns</a> and
+other parts of speech (<a href="cs-pos/ADJ">adjectives</a>,
+<a href="cs-pos/NUM">numerals</a>) that mark agreement with nouns.
+It is also valency feature of <a href="cs-pos/ADP">prepositions</a> (saying that
+the preposition requires its argument to be in that case).</p>
+
+<p>Case helps specify the role of the noun phrase in the sentence.
+For example, the nominative
+and accusative cases often distinguish subject and object of the verb,
+while in fixed-word-order languages these functions would be
+distinguished merely by the positions of the nouns in the sentence.</p>
+
+<p>Czech morphology distinguishes seven cases:
+<code>Nom</code>, <code>Gen</code>, <code>Dat</code>, <code>Acc</code>, <code>Voc</code>, <code>Loc</code> and <code>Ins</code>
+(this ordering is fixed in the grammar and the cases are also referred to by numbers 1–7).</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>singular nominative <em>matka </em> “mother”, genitive <em>matky ,</em> dative <em>matce, </em>
+accusative <em>matku, </em> vocative <em>matko, </em> locative <em>matce, </em> instrumental <em>matkou</em></li>
+  <li>plural nominative <em>matky, </em> genitive <em>matek, </em> dative <em>matkám, </em>
+accusative <em>matky, </em> vocative <em>matky, </em> locative <em>matkách, </em> instrumental <em>matkami</em></li>
+</ul>
+
+<p>The descriptions of the individual case values below include semantic
+hints about the prototypical meaning of the case. Bear in mind that
+quite often a case will be used for a meaning that is totally
+unrelated to the meaning mentioned here. Valency of verbs,
+adpositions and other words will determine that the noun phrase must
+be in a particular grammatical case to fill a particular valency slot
+(semantic role).</p>
+
+<h3 id="nom-nominative"><code>Nom</code>: nominative</h3>
+
+<p>The base form of the noun, also used as citation form (lemma).
+This is the word form used for subjects of clauses.</p>
+
+<h3 id="gen-genitive"><code>Gen</code>: genitive</h3>
+
+<p>Prototypical meaning of genitive is that the noun phrase somehow
+belongs to its governor; it would often be translated by the English
+preposition <em>of.</em></p>
+
+<p>Note that despite considerable semantic overlap, the genitive case is
+not the same as the feature of possessivity (<a href="">Poss</a>). Possessivity
+is a lexical feature, i.e. it applies to lemma and its whole
+paradigm. Genitive is a feature of just a subset of word forms of the
+lemma. Semantics of possessivity is much more clearly defined while
+the genitive (as many other cases) may be required in situations that
+have nothing to do with possessing. For example, <em>bez
+prezidentovy dcery </em> “without the president’s daughter” is a
+prepositional phrase containing the preposition <em>bez </em> “without”, the
+possessive adjective <em>prezidentovy </em> “president’s” and the noun <em>dcery </em>
+“daughter”. The possessive adjective is derived from the noun
+<em>prezident </em> but it is really an adjective (with separate lemma and
+paradigm), not just a form of the noun. In addition, both the
+adjective and the noun are in their genitive forms (the nominative
+would be <em>prezidentova dcera</em>).  There is nothing possessive about
+this particular occurrence of the genitive. It is there because the
+preposition <em>bez </em> always requires its argument to be in genitive.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>Praha je hlavní město <b>České republiky</b>. </em> “Prague is the
+capital <b>of the Czech Republic</b>.”</li>
+</ul>
+
+<h3 id="dat-dative"><code>Dat</code>: dative</h3>
+
+<p>This is the word form often used for indirect objects of verbs.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>Dal jsem dárek <b>svému bratrovi</b>. </em> “I gave my brother a present.”
+(<em>svému bratrovi </em> “my brother” is dative and
+<em>dárek </em> “present” is accusative.)</li>
+</ul>
+
+<h3 id="acc-accusative"><code>Acc</code>: accusative</h3>
+
+<p>Perhaps the second most widely spread morphological case.
+This is the word form most frequently used for direct objects of verbs.</p>
+
+<h3 id="voc-vocative"><code>Voc</code>: vocative</h3>
+
+<p>The vocative case is a special form of noun used to address
+someone. Thus it predominantly appears with animate nouns (see the
+feature of <a href="">Animacy</a>). Nevertheless this is not a grammatical
+restriction and inanimate things can be addressed as well.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em>Co myslíš, <b>Filipe</b>? </em> “What do you think,
+<b>Filip</b>?”</li>
+</ul>
+
+<h3 id="loc-locative"><code>Loc</code>: locative</h3>
+
+<p>The locative case often expresses location in space or time, which
+gave it its name. As elsewhere, non-locational meanings also exist and
+they are not rare. On the other hand, some location roles
+may be expressed using other cases (e.g. because those cases are
+required by a preposition).</p>
+
+<p>This is the only Czech case that is used exclusively in
+combination with prepositions.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li><em>V <b>červenci</b> jsem byl ve <b>Švédsku</b>. </em> “In <b>July</b>
+I was in <b>Sweden</b>.”</li>
+  <li><em>Mluvili jsme tam o <b>morfologii</b>. </em> “We talked there about
+<b>morphology</b>.” (Non-locational non-temporal example)</li>
+</ul>
+
+<h3 id="ins-instrumental--instructive"><code>Ins</code>: instrumental / instructive</h3>
+
+<p>The role from which the name of the instrumental case is derived is
+that the noun is used as instrument to do something (as in <em>psát
+<b>perem</b> </em> “to write <b>using a pen</b>”).  Many other meanings are
+possible, for example the instrumental is required by the
+preposition <em>s </em> “with” and thus it includes the meaning expressed in
+other languages by the comitative case.</p>
+
+<p>In Czech the instrumental is also used for the agent-object in passive
+constructions (cf. the English preposition <em>by</em>).</p>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li><em>Tento zákon byl schválen <b>vládou</b>. </em> “This bill has been
+approved <b>by the government</b>.” (Passive example)</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Case.md" target="#">edit Case</a></p>
 
