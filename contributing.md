@@ -281,5 +281,19 @@ requests](https://help.github.com/articles/using-pull-requests).
 
 ## Troubleshooting
 
-No trouble reported yet. If you have any, just ask Sampo
-(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi)!
+Issue: when running locally, the system gives the error message
+*cannot load such file -- `jekyll-redirect-from`*.
+
+* Solution: install the ruby gem
+  [`jekyll-redirect-from`](https://github.com/jekyll/jekyll-redirect-from),
+  for example with `gem install jekyll-redirect-from`.
+
+Issue: when running locally, the system gives the error message
+*CodeRay::Scanners could not load plugin*.
+
+* Solution: check that CodeRay is not running. The `_config.yml`
+  option `kramdown: enable_coderay: false` should disable coderay.
+
+If you have any trouble with the system, just ask Sampo
+(sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi) or open an issue
+at github.com/universaldependencies/docs/issues.
