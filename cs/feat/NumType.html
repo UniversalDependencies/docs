@@ -37,8 +37,113 @@
 
           <h2><code>NumType</code>: numeral type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NumType</code>.</p>
+<p>Czech has a complex system of
+<a href="cs-pos/NUM">numerals</a>. For example, in the school grammar of Czech,
+the main part of speech is “numeral”, it includes almost everything
+where counting is involved and there are various subtypes. It also
+includes interrogative, relative, indefinite and demonstrative quantifiers
+(words like <em>kolik </em> “how many”, <em>tolik </em> “so many”,
+<em>několik </em> “several”), so at the same time we may have a non-empty
+value of <a href="">PronType</a>.</p>
+
+<p>From the syntactic point of view, some numtypes behave like adjectives
+and some behave like adverbs. We tag them <a href="">cs-pos/ADJ</a> and
+<a href="">cs-pos/ADV</a> respectively. Thus the <code>NumType</code> feature applies to
+several different parts of speech:</p>
+
+<ul>
+  <li><a href="">cs-pos/NUM</a>: cardinal numerals</li>
+  <li><a href="">cs-pos/DET</a>: quantifiers</li>
+  <li><a href="">cs-pos/ADJ</a>: adjectival ordinal and some generic numerals</li>
+  <li><a href="">cs-pos/ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals</li>
+</ul>
+
+<h3 id="card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Card</code>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>jeden, dva, tři </em> “one, two, three”</li>
+  <li><em>kolik </em> “how many”</li>
+  <li><em>několik </em> “several”, <em>mnoho </em> “many”, <em>málo </em> “few”</li>
+  <li><em>tolik </em> “so many”</li>
+</ul>
+
+<h3 id="ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Ord</code>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<p>This is a subtype of adjective or adverb.</p>
+
+<h4 id="adjectival-examples">Adjectival examples</h4>
+
+<ul>
+  <li><em>první </em> “first”; <em>druhý </em> “second”, <em>třetí </em> “third”</li>
+  <li><em>kolikátý </em> lit. <em>how manieth </em> “which rank”</li>
+  <li><em>několikátý </em> “some rank”</li>
+  <li><em>tolikátý </em> “this/that rank”</li>
+</ul>
+
+<h4 id="adverbial-examples">Adverbial examples</h4>
+
+<ul>
+  <li><em>poprvé </em> “for the first time”; <em>podruhé </em> “for the second time”; <em>potřetí </em> “for the third time”</li>
+  <li><em>pokolikáté </em> “for which time”</li>
+  <li><em>poněkolikáté </em> “for x-th time”</li>
+  <li><em>potolikáté </em> “it has been so many times”</li>
+</ul>
+
+<h3 id="mult-multiplicative-numeral-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Mult</code>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<p>This is a subtype of adverb.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>jednou </em> “once”; <em>dvakrát </em> “twice”; <em>třikrát </em> “three times”</li>
+  <li><em>kolikrát </em> “how many times”</li>
+  <li><em>několikrát </em> “several times”</li>
+  <li><em>tolikrát </em> “so many times”</li>
+</ul>
+
+<h3 id="frac-fraction"><code>Frac</code>: fraction</h3>
+
+<p>This is a subtype of cardinal numbers.
+It may denote a fraction or just the denominator of the
+fraction.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>půl / polovina </em> “half”; <em>třetina </em> “one third”; <em>čtvrt / čtvrtina </em> “quarter”</li>
+</ul>
+
+<h3 id="sets-number-of-sets-of-things"><code>Sets</code>: number of sets of things</h3>
+
+<p>Morphologically distinct class of numerals used to count sets of
+things, or nouns that are pluralia tantum.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em><b>dvoje</b> / <b>troje</b> boty </em> “<b>two</b> / <b>three</b> [pairs of] shoes”;
+as opposed to normal cardinal numbers: <em>dvě / tři boty </em> “two / three shoes”</li>
+</ul>
+
+<h3 id="gen-generic-numeral-ie-a-numeral-that-is-neither-of-the-above"><code>Gen</code>: generic numeral, i.e. a numeral that is neither of the above</h3>
+
+<p>Czech school grammar distinguishes this subclass, which is why it
+appears in Czech tagsets. (Note that
+“generic numerals” in Czech grammar also include the <code>Sets</code> subclass
+mentioned above.)</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li><em><b>čtvero, patero, desatero</b> </em> (specific forms of four,
+five, ten; they are morphologically, syntactically and stylistically
+distinct from the default forms <em>čtyři, pět, deset</em>)</li>
+  <li><em><b>dvojí, trojí, čtverý</b> </em> (twofold, threefold, fourfold; these are
+morphologically and syntactically adjectives)</li>
+</ul>
 
 
 <!-- "in other languages" links -->
