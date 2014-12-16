@@ -114,7 +114,7 @@ combination with prepositions.
 * _Mluvili jsme tam o <b>morfologii</b>.&nbsp;_ “We talked there about
   <b>morphology</b>.” (Non-locational non-temporal example)
 
-### `Ins`: instrumental / instructive
+### `Ins`: instrumental
 
 The role from which the name of the instrumental case is derived is
 that the noun is used as instrument to do something (as in _psát
