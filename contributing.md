@@ -296,4 +296,4 @@ Issue: when running locally, the system gives the error message
 
 If you have any trouble with the system, just ask Sampo
 (sampo.pyysalo@gmail.com) or Filip (ginter@cs.utu.fi) or open an issue
-at github.com/universaldependencies/docs/issues.
+at <http://github.com/universaldependencies/docs/issues>.
