@@ -819,8 +819,125 @@ means that empty value has the <code>No</code> meaning.)</p>
 <p><a id="al-cs-feat/PronType" class="al-dest"></a></p>
 <h2><code>PronType</code>: pronominal type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PronType</code>.</p>
+<p>This feature typically applies to <a href="cs-pos/PRON">pronouns</a>,
+<a href="cs-pos/DET">determiners</a>, pronominal <a href="cs-pos/NUM">numerals</a>
+(quantifiers) and pronominal <a href="cs-pos/ADV">adverbs</a>.</p>
+
+<h3 id="prs-personal-or-possessive-personal-pronoun-or-determiner"><code>Prs</code>: personal or possessive personal pronoun or determiner</h3>
+
+<p>See also the <a href="">Poss</a> feature that distinguishes normal personal
+pronouns from possessives. Note that <code>Prs</code> also includes reflexive
+personal/possessive pronouns (e.g. <em>se / svůj;</em> see the
+<a href="">Reflex</a> feature).</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>já, ty, on, ona, ono, my, vy, oni, ony, ona </em> “I, you, he, she, it, we, you, they, they, they”</li>
+  <li><em>můj, tvůj, jeho, její, náš, váš, jejich, svůj </em> “my, your, his/its, her, our, your, their, one’s own”</li>
+</ul>
+
+<h3 id="int-interrogative-pronoun-determiner-numeral-or-adverb"><code>Int</code>: interrogative pronoun, determiner, numeral or adverb</h3>
+
+<p>Note that possessive interrogative determiners (<em>whose</em>) can be
+distinguished by the <a href="">Poss</a> feature.</p>
+
+<h4 id="examples-1">Examples:</h4>
+
+<ul>
+  <li><em>kdo </em> “who”</li>
+  <li><em>co </em> “what”</li>
+  <li><em>jaký </em> “what kind of”</li>
+  <li><em>který </em> “which”</li>
+  <li><em>čí </em> “whose”</li>
+  <li><em>kolik </em> “how many”</li>
+  <li><em>kolikátý </em> “how-maniest” (ordinal number)</li>
+  <li><em>kolikrát </em> “how many times”</li>
+  <li><em>kde </em> “where”</li>
+  <li><em>kam </em> “where to”</li>
+  <li><em>kdy </em> “when”</li>
+  <li><em>jak </em> “how”</li>
+  <li><em>proč </em> “why”</li>
+</ul>
+
+<h3 id="rel-relative-pronoun-determiner-numeral-or-adverb"><code>Rel</code>: relative pronoun, determiner, numeral or adverb</h3>
+
+<p>Note that this class heavily overlaps with
+interrogatives, yet there are pronouns that are only relative.</p>
+
+<h4 id="examples-2">Examples:</h4>
+
+<ul>
+  <li><em>jenž, což </em> “which, that” (relative but not interrogative pronouns)</li>
+  <li><em>jehož </em> “whose” (possessive relative pronoun)</li>
+</ul>
+
+<h3 id="dem-demonstrative-pronoun-determiner-numeral-or-adverb"><code>Dem</code>: demonstrative pronoun, determiner, numeral or adverb</h3>
+
+<p>These are to some extent parallel to interrogatives.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em>tento </em> “this”</li>
+  <li><em>tamten </em> “that”</li>
+  <li><em>takový </em> “such”</li>
+  <li><em>týž </em> “same”</li>
+  <li><em>tolik </em> “so many”</li>
+  <li><em>tolikátý </em> “so-maniest” (ordinal number)</li>
+  <li><em>tolikrát </em> “so many times”</li>
+  <li><em>tady </em> “here”</li>
+  <li><em>tam </em> “there”</li>
+  <li><em>teď </em> “now”</li>
+  <li><em>tehdy </em> “then”</li>
+  <li><em>tak </em> “so”</li>
+</ul>
+
+<h3 id="tot-total-collective-pronoun-determiner-or-adverb"><code>Tot</code>: total (collective) pronoun, determiner or adverb</h3>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li><em>každý </em> “every, everybody, everyone, each”</li>
+  <li><em>všechno </em> “everything, all”</li>
+  <li><em>všude </em> “everywhere”</li>
+  <li><em>vždy </em> “always”</li>
+</ul>
+
+<h3 id="neg-negative-pronoun-determiner-or-adverb"><code>Neg</code>: negative pronoun, determiner or adverb</h3>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li><em>nikdo </em> “nobody”</li>
+  <li><em>nic </em> “nothing”</li>
+  <li><em>nijaký </em> “no (kind)”</li>
+  <li><em>ničí </em> “no one’s”</li>
+  <li><em>žádný </em> “no, none”</li>
+  <li><em>nikde </em> “nowhere”</li>
+  <li><em>nikam </em> “(to) nowhere”</li>
+  <li><em>nikdy </em> “never”</li>
+  <li><em>nijak </em> “no way” (lit. “no-how”)</li>
+</ul>
+
+<h3 id="ind-indefinite-pronoun-determiner-numeral-or-adverb"><code>Ind</code>: indefinite pronoun, determiner, numeral or adverb</h3>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li><em>někdo </em> “somebody”; <em>kdokoli </em> “anybody”; <em>málokdo </em> “few people”; <em>leckdo </em> “quite a few people”; <em>kdosi </em> “somebody”</li>
+  <li><em>něco </em> “something”; <em>cokoli </em> “anything”; <em>máloco </em> “few things”; <em>lecco </em> “quite a few things”; <em>cosi </em> “something”</li>
+  <li><em>nějaký </em> “some kind of”; <em>jakýkoli </em> “any kind of”; <em>lecjaký </em> “just any”; <em>jakýsi </em> “some, certain”</li>
+  <li><em>některý </em> “some”; <em>kterýkoli </em> “any”; <em>málokterý </em> “few”; <em>leckterý </em> “quite a few”; <em>kterýsi </em> “some”</li>
+  <li><em>něčí </em> “someone’s”; <em>číkoli </em> “anyone’s”; <em>lecčí </em> “of quite a few people”; <em>čísi </em> “someone’s”</li>
+  <li><em>několik </em> “several”; <em>málo </em> “few”; <em>mnoho </em> “many”</li>
+  <li><em>několikátý </em> “severalth” (indefinite ordinal numeral)</li>
+  <li><em>několikrát </em> “several times”</li>
+  <li><em>někde </em> “somewhere”; <em>kdekoli </em> “anywhere”; <em>málokde </em> “few places”; <em>leckde </em> “quite a few places”; <em>kdesi </em> “somewhere”</li>
+  <li><em>někam </em> “(to) somewhere”; <em>kamkoli </em> “(to) anywhere”; <em>kamsi </em> “(to) somewhere”</li>
+  <li><em>někdy </em> “sometimes”; <em>kdykoli </em> “anytime”; <em>málokdy </em> “few times”; <em>leckdy </em> “quite a few times”; <em>kdysi </em> “once (long ago)”</li>
+  <li><em>nějak </em> “somehow”; <em>jakkoli </em> “anyhow”; <em>lecjak </em> “quite a few ways”; <em>jaksi </em> “somehow”</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/PronType.md" target="#">edit PronType</a></p>
 
