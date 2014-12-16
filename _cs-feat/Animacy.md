@@ -5,13 +5,13 @@ shortdef: 'animacy'
 ---
 
 Similarly to [Gender](), animacy is
-a lexical feature of [nouns](u-pos/NOUN) and inflectional
+a lexical feature of [nouns](cs-pos/NOUN) and inflectional
 feature of other parts of speech that mark agreement with nouns. It is
 independent of gender, therefore it is encoded separately in some
 tagsets (e.g. all the Multext-East tagsets). On the other hand, in
 Czech the (almost) only grammatical implications occur within the
 masculine gender, which is why the PDT tagset does not have
-animateness as separate feature and instead defines four genders:
+animacy as separate feature and instead defines four genders:
 masculine animate, masculine inanimate, feminine and neuter.
 
 ### `Anim`: animate
