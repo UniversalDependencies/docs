@@ -38,7 +38,7 @@
           <h2><code>xcomp:a</code>: adjectival complement</h2>
 
 <p>The dependency type <code>xcomp:a</code> is used for adjectival complements of
-verbs, except for predicatives.</p>
+verbs, except for predicatives, which generally (but not always) imply secondary predication. For example in the sentence <em>Hän teki siitä hyvin vaikeaa</em> there are two mixed predicates: 1) <em>hän teki jotain</em>, and 2) <em>se on vaikeaa</em>. The secondary predication can be provided to any higher clause element.</p>
 
 <p>Note: <code>xcomp:a</code> corresponds to <code>acomp</code> (adjectival complement) in
 the original Stanford Dependencies and the Turku Dependency
@@ -51,6 +51,13 @@ advmod(vaikeaa, hyvin)
 xcomp:a(teki, vaikeaa)
 punct(teki, .)
 </code></pre>
+
+<pre><code class="language-sdparse">Minulla oli mukavaa .
+xcomp:a(oli, mukavaa)
+nmod(oli, Minulla)
+punct(oli, .)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->
