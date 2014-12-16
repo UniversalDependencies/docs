@@ -424,9 +424,11 @@ or determiner
 
 <ul>
   <li>possessive determiners: <em>můj, tvůj, jeho, její, náš, váš, jejich </em> “my, your, his, her, our, your, their”</li>
+  <li>reflexive possessive determiner: <em>svůj </em> “one’s own”</li>
   <li>demonstrative determiners: <em>tohle </em> as in <em><b>Tohle</b> auto jsem viděl včera. </em> “I saw <b>this</b> car yesterday.”</li>
   <li>interrogative determiners: <em>který </em> as in <em><b>Které</b> auto se ti líbí? </em> “<b>Which</b> car do you like?”</li>
   <li>relative determiners: <em>který </em> as in <em>Zajímá mě, <b>které</b> auto se ti líbí. </em> “I wonder <b>which</b> car you like.”</li>
+  <li>relative possessive determiner: <em>jehož </em> “whose”</li>
   <li>indefinite determiners: <em>nějaký, některý</em></li>
   <li>total determiners: <em>každý, všechen</em></li>
   <li>negative determiners: <em>žádný </em> as in <em>Nemáme <b>žádná</b> auta. </em> “We have <b>no</b> cars available.”</li>
@@ -661,8 +663,44 @@ converted to interjection.</p>
 <p><a id="al-cs-pos/PRON" class="al-dest"></a></p>
 <h2><code>PRON</code>: pronoun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PRON</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Pronouns are words that substitute for <a href="NOUN">nouns</a> or noun phrases,
+whose meaning is recoverable from the linguistic or extralinguistic
+context.</p>
+
+<p>Pronouns under this definition function like nouns. Note that
+Czech grammar traditionally extends the term <em>pronoun</em> to words that
+substitute for <a href="ADJ">adjectives</a>. Such words are not tagged <code>PRON</code>
+under our universal scheme. They are tagged as <a href="DET">determiners</a> in
+order to annotate the same thing same way across languages.</p>
+
+<p>For instance, <em>tohle </em> “this” is traditionally called pronoun in
+Czech grammar, regardless of context (the notion of determiners does
+not exist in Czech grammar). To make the annotation parallel across
+languages, it should be now tagged <code>PRON</code> in <em><b>Tohle</b> jsem viděl
+včera. </em> “I saw <b>this</b> yesterday.” and <code>DET</code> in
+<em><b>Tohle</b> auto jsem viděl včera. </em> “I saw <b>this</b> car yesterday.”</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>personal pronouns: <em>já, ty, on, ona, ono, my, vy, oni, ony </em> “I, you, he, she, it, we, you, they, they”</li>
+  <li>reflexive pronouns: <em>sebe, se, sobě, si, sebou </em> “oneself”</li>
+  <li>demonstrative pronouns: <em>tohle </em> as in <em><b>Tohle</b> jsem viděl včera.</em></li>
+  <li>interrogative pronouns: <em>kdo, co </em> “who, what” as in <em><b>Co</b> si myslíš? </em> “<b>What</b> do you think?”</li>
+  <li>relative pronouns: <em>kdo, co </em> “who, what” as in <em>Zajímalo by mě, <b>co</b> si myslíš. </em>  “I wonder <b>what</b> you think.”</li>
+  <li>indefinite pronouns: <em>někdo, něco </em> “somebody, something”</li>
+  <li>total pronouns: <em>každý, všichni </em> “everybody, all”</li>
+  <li>negative pronouns: <em>nikdo, nic </em> “nobody, nothing”</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Pronoun">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/PRON.md" target="#">edit PRON</a></p>
 
