@@ -830,6 +830,18 @@ used to delimit linguistic units in printed text.</p>
   <li>Parentheses: <em><b>()</b></em></li>
 </ul>
 
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>The PDT part-of-speech tagset does not distinguish symbols from punctuation, hence all
+non-alphanumeric characters in the converted data are currently tagged <a href="">PUNCT</a>.</p>
+
+<p>The PDT texts are from the early 1990s and there are no e-mail addresses.
+If they were there, the PDT tokenization rules would break them up on all dots and at signs.
+The same holds for telephone numbers. For example,
+<em>tel.: (05) 4321 6014 </em> is analyzed as eight tokens (<code>NOUN PUNCT PUNCT PUNCT NUM PUNCT NUM NUM</code>).</p>
+
 <h3 id="references">References</h3>
 
 <ul>
@@ -890,7 +902,11 @@ involves all currency symbols, e.g. <em>$ 75</em> is identical to
 <p>Strings that consists entirely of alphanumeric characters are not
 symbols but they may be <a href="PROPN">proper nouns</a>: <em>130XE</em>, <em>DC10</em>; others
 may be tagged <code>PROPN</code> (rather than <code>SYM</code>) even if they contain special
-characters: <em>DC-10</em>. Similarly, abbreviations for single words are not symbols but are assigned the part of speech of the full form. For example, <em>Mr.</em> (mister), <em>kg</em> (kilogram), <em>km</em> (kilometer), <em>Dr</em> (Doctor) should be tagged <a href="NOUN">nouns</a>. Acronyms for proper names such as <em>UN</em> and <em>NATO</em> should be tagged as <a href="PROPN">proper nouns</a>.</p>
+characters: <em>DC-10</em>.
+Similarly, abbreviations for single words are not symbols but are assigned the part of speech
+of the full form. For example, <em>Mr.</em> (mister), <em>kg</em> (kilogram), <em>km</em> (kilometr), <em>dr</em> (doktor)
+should be tagged <a href="NOUN">nouns</a>.
+Acronyms for proper names such as <em>OSN</em> and <em>NATO</em> should be tagged as <a href="PROPN">proper nouns</a>.</p>
 
 <p>Characters used as bullets in itemized lists <em>(•, ‣)</em> are not symbols,
 they are punctuation.</p>
@@ -1005,8 +1021,28 @@ the standard forms both in predication and to modify nouns.</p>
 <p><a id="al-cs-pos/X" class="al-dest"></a></p>
 <h2><code>X</code>: other</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>X</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>The tag <code>X</code> is used for words that for some reason cannot be assigned
+a real part-of-speech category.</p>
+
+<p>A special usage of <code>X</code> is for cases of code-switching where it is not
+possible (or meaningful) to analyze the intervening language
+grammatically (and where the dependency relation <em>foreign</em> is
+typically used in the syntactic analysis).
+This rarely applies to the PDT data where many foreign words are tagged with their original
+part of speech.</p>
+
+<p>Even if foreign words are tagged <code>X</code>, this usage does not extend
+to ordinary loan words which should be assigned a normal
+part-of-speech. For example, in <em>Skotové nosí kilt </em> “Scots wear kilts”,
+<em>kilt</em> is an ordinary <a href="">NOUN</a>.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>A on pak akorát <b>xfgh pdl jklw</b> </em> “And then he just <b>xfgh pdl jklw</b>”</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/X.md" target="#">edit X</a></p>
 
