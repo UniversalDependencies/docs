@@ -9,6 +9,11 @@ of unanalyzed foreign words. These are annotated without regard
 to internal structure, marking all words in the sequence direct
 dependents of the head.
 
+Note that `foreign` does not apply to foreign *names*, which
+are annotated using [name](), or to sequences of *analyzed* words
+of foreign origin (such as established loanwords), which are
+annotated with their full syntactic structure.
+
 (TODO example)
 
 ## Diffs
