@@ -4,12 +4,16 @@ title:  'compound'
 shortdef : 'compound'
 ---
 
-The primary description of the USD relation `compound` in Finnish is
-not yet completed.
+`compound` is one of the three UD relations UD for compounding,
+together with [mwe]() and [name]().
 
----
+UD Finnish additionally defines two subtypes of `compound`,
+[compound:nn]() for noun compounds and [compound:prt]()
+for phrasal verb particles. As the other UD types and the
+UD Finnish subtypes cover most cases of compounding, only
+few cases are annotated specifically as `compound`.
 
-Numerical expressions consisting of multiple tokens are also annotated
+Numerical expressions consisting of multiple tokens are annotated
 using the `compound` dependency type. The last word of the numerical
 expression is the governor, and the number dependencies are chained.
 
