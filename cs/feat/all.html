@@ -542,8 +542,95 @@ for <code>NumType</code>.</p>
 <p><a id="al-cs-feat/Number" class="al-dest"></a></p>
 <h2><code>Number</code>: number</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Number</code>.</p>
+<p><code>Number</code> is an inflectional feature of <a href="cs-pos/NOUN">nouns</a> and
+other parts of speech (<a href="cs-pos/ADJ">adjectives</a>,
+<a href="cs-pos/VERB">verbs</a>) that mark agreement with nouns.</p>
+
+<h3 id="sing-singular-number"><code>Sing</code>: singular number</h3>
+
+<p>A singular noun denotes one person, animal or thing.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>starý muž přišel</b> </em> “an old man came”</li>
+  <li><em><b>mladá žena přišla</b> </em> “a young woman came”</li>
+  <li><em><b>malé kuře přišlo</b> </em> “a small chicken came”</li>
+</ul>
+
+<h3 id="plur-plural-number"><code>Plur</code>: plural number</h3>
+
+<p>A plural noun denotes several persons, animals or things.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>staří muži přišli</b> </em> “old men came”</li>
+  <li><em><b>mladé ženy přišly</b> </em> “young women came”</li>
+  <li><em><b>malá kuřata přišla</b> </em> “small chickens came”</li>
+</ul>
+
+<h3 id="dual-dual-number"><code>Dual</code>: dual number</h3>
+
+<p>A dual noun denotes two persons, animals or things.
+The dual number has almost vanished from Czech with the exception
+of special instrumental case suffixes for body parts that occur in pairs,
+and any adjectives that modify them.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<p>The noun <em>noha </em> means either “leg” of a human, or of a table.
+Dual is used for the former and plural for the latter:</p>
+
+<ul>
+  <li><em>holka s <b>dlouhýma nohama</b> </em> “a girl with <b>long legs</b>”</li>
+  <li><em>stůl s dlouhými nohami </em> “a table with long legs”</li>
+</ul>
+
+<p>The numeral <em>sto </em> “hundred” has also a special form of plural that is actually the dual:</p>
+
+<ul>
+  <li><em>dvě <b>stě</b> </em> “two <b>hundred</b>”</li>
+  <li><em>tři sta </em> “three hundred”</li>
+</ul>
+
+<h3 id="ptan-plurale-tantum"><code>Ptan</code>: plurale tantum</h3>
+
+<p>Some nouns appear only in the plural form even though they denote one
+thing (semantic singular); some tagsets mark this distinction.
+Grammatically they behave like plurals, so <code>Plur</code> is obviously the
+back-off value here; however, the
+non-existence of singular form sometimes means that the gender is
+unknown. In Czech, special type of numerals is used when counting
+nouns that are plurale tantum (<a href="">NumType</a><code>=Sets</code>).</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em><b>nůžky, kalhoty</b> </em> “scissors, pants”</li>
+</ul>
+
+<h3 id="coll-collective--mass--singulare-tantum"><code>Coll</code>: collective / mass / singulare tantum</h3>
+
+<p>Collective or mass or singulare tantum is a special case of
+singular. It applies to words that use grammatical singular to
+describe sets of objects, i.e. semantic plural. Although in theory
+they might be able to form plural, in practice it would be rarely
+semantically plausible. Sometimes, the plural form exists and means
+“several sorts of” or “several packages of”.</p>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li><em><b>lidstvo</b> </em> “mankind”</li>
+</ul>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>The PDT tagset does not distinguish <code>Ptan</code> from <code>Plur</code> and <code>Coll</code> from <code>Sing</code>,
+therefore this distinction is not being made in the converted data.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Number.md" target="#">edit Number</a></p>
 
