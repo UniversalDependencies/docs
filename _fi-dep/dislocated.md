@@ -10,7 +10,9 @@ sentence.
 
 (TODO: Finnish `dislocated` example)
 
----
+## Diffs
 
-Note/diff: `dislocated` is not annotated in TDT and is not used in
+### Turku Dependency Treebank
+
+`dislocated` is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.
