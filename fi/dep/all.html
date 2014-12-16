@@ -1455,11 +1455,15 @@ nsubj(palasi-7, hän-6)
 <p><a id="al-fi-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
+<p>The <code>remnant</code> relation is used to provide a treatment of ellipsis (in
 the case of gapping and stripping, where a predicational or verbal
-head gets elided).</p>
+head gets elided). In particular, <code>remnant</code> aims to provide analyses
+that do not postulate empty nodes.</p>
 
-<p>(TODO: Finnish <code>remnant</code> example)</p>
+<pre><code class="language-sdparse">Maija meni Pariisiin ja Mirja Prahaan \n Maija went to Paris and Mirja to Prague
+remnant(Maija, Mirja)
+remnant(Pariisiin, Prahaan)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/remnant.md" target="#">edit remnant</a></p>
 
