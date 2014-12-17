@@ -3,7 +3,8 @@
 
 /* style for home page and manual. */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin&effect=smoothing);
+/* @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing); */
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing);
 
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
@@ -133,8 +134,9 @@ img.icon {
 
 body { 
 /*   font-family: 'Open Sans', arial, sans-serif; */
-  font-family: 'Open Sans', Arial, freesans, sans-serif;
-  font-size: 13px;
+/*  font-family: 'Open Sans', Arial, freesans, sans-serif; */
+  font-family: 'Source Sans Pro', Arial, freesans, sans-serif;
+  font-size: 14px;
   overflow-y: scroll;
 }
 

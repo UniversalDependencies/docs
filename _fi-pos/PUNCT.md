@@ -5,9 +5,9 @@ shortdef: 'punctuation'
 ---
 
 Punctuation marks are non-alphabetical characters and character groups
-used in many languages to delimit linguistic units in printed text.
+used to delimit linguistic units in printed text.
 
-### Examples
+#### Examples
 
 * Period: _<b>.</b>_
 * Comma: _<b>,</b>_

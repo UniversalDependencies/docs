@@ -25,8 +25,13 @@ modal verbs are
 * _olla_ "be"
 * _aikoa_ "be going to"
 
-### Examples
+#### Examples
 
-* _<b>täytyy</b> tehdä_ "<b>must</b> do" 
-* _<b>olemme</b> tehneet_ "we <b>have</b> done"
-* _<b>olisi pitänyt</b> tehdä_ "<b>would have had</b> to do"
+* [fi] _<b>täytyy</b> tehdä_ "<b>must</b> do"
+* [fi] _<b>olemme</b> tehneet_ "we <b>have</b> done"
+* [fi] _<b>olisi pitänyt</b> tehdä_ "<b>would have had</b> to do"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=450> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=1562> (in Finnish)

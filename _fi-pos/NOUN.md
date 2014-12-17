@@ -4,11 +4,17 @@ title: 'NOUN'
 shortdef: 'noun'
 ---
 
-Nouns are a part of speech typically denoting a person, place, thing,
-animal or idea.
+Nouns inflect for [case](Case) and [number](Number) and denote things
+such as people, places, things, animals and ideas.
 
-### Examples
+Proper nouns are not annotated as `NOUN` but rather [PROPN]().
 
-* _tyttö_ "girl"
-* _kissa_ "cat"
-* _puu_ "tree"
+#### Examples
+
+* [fi] _tyttö_ "girl"
+* [fi] _kissa_ "cat"
+* [fi] _puu_ "tree"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=551> (in Finnish)

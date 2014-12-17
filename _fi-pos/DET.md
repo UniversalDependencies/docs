@@ -7,9 +7,20 @@ shortdef: 'determiner'
 Determiners are words that modify [nouns](NOUN) or noun phrases and
 express the reference of the noun phrase in context.
 
-(TODO: `DET` example)
+Finnish has no true articles
+(see e.g. [WALS](http://wals.info/valuesets/37A-fin)) and many
+formalizations of Finnish morphology don't involve a determiner (or
+related) tag. However, words such as _yksi_ "one" and _se_ "that"
+are used similarly to articles, especially in spoken language.
 
-Finnish has no true articles (see e.g. [WALS](http://wals.info/valuesets/37A-fin)) and many formalizations of Finnish morphology don't involve a determiner (or related) tag.
+#### Examples
+
+* [fi] _yksi mies lähti_ "a/one man left"
+* [fi] _se mies lähti_ "the/that man left"
+
+#### References
+
+* <http://scripta.kotus.fi/cgi-bin/visktermit/visktermit.cgi?h_id=aCHEBBEDH> (in Finnish)
 
 ## Diffs
 
