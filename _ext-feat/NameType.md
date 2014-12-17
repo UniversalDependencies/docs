@@ -1,20 +1,47 @@
 ---
 layout: feature
 title: 'NameType'
-shortdef: 'type of named entity or term'
+shortdef: 'type of named entity'
 ---
 
-### Class: classifier
+Classification of named entities (token-based, no nesting of entities etc.)
+The feature applies mainly to the [cs-pos/PROPN]() tag;
+in multi-word foreign names, [adjectives](cs-pos/ADJ) may also have this feature
+(they preserve the `ADJ` tag but at the same time they would not exist in Czech
+otherwise than in the named entity).
 
-Classification of named entities (token-based, no nesting of entities
-etc.) and terms. On one hand, this is pretty universal; on the other
-hand, most of us would probably see it as a separate level of
-annotation. There are treebanks where the FEAT column contains this
-information but they are rare: I saw it in the Czech CoNLL 2006 & 2007
-& 2009 data, and in one tagset for Japanese.
+### `Geo`: geographical name
 
-### Values for named entities: geo, prs, giv, sur, nat, com, pro, oth
+Names of cities, countries, rivers, mountains etc.
 
-### Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob
+#### Examples
 
-(See <a href="https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype">https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype</a>.)
+* _<b>Praha</b>&nbsp;_ “Prague”, _<b>Kostelec</b> nad Černými lesy&nbsp;_, _<b>Německo</b>&nbsp;_ “Germany”
+
+### `Prs`: name of person
+
+This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
+
+### `Giv`: given name of person
+
+Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.
+
+### `Sur`: surname / family name of person
+
+Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
+
+### `Nat`: nationality
+
+Name denoting a member of a particular nation, or inhabitant of a particular territory.
+
+#### Examples
+
+* _<b>Čech</b>&nbsp;_ “Czech”, _<b>Němec</b>&nbsp;_ “German”, _<b>Pražan</b>&nbsp;_ “Praguer”
+
+### `Com`: company, organization
+
+### `Pro`: product
+
+### `Oth`: other
+
+Names of stadiums, guerilla bases, events etc.
