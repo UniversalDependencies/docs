@@ -130,7 +130,7 @@
 <h2><code>Abbr</code>: abbreviation</h2>
 
 <p>Boolean feature. Is this an abbreviation? Note that the abbreviated
-word typically belongs to a part of speech other than <a href="">u-pos/X</a>.</p>
+word typically belongs to a part of speech other than <a href="">cs-pos/X</a>.</p>
 
 <h3 id="yes-it-is-abbreviation">Yes: it is abbreviation</h3>
 
@@ -431,6 +431,53 @@ objects within a set.</p>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Degree.md" target="#">edit Degree</a></p>
+
+<p><a id="al-cs-feat/Foreign" class="al-dest"></a></p>
+<h2><code>Foreign</code>: is this a foreign word?</h2>
+
+<p>Boolean feature. Is this a foreign word? Not a loan word and not a
+foreign name but a genuinely foreign word appearing inside native
+text, e.g. inside direct speech, titles of books etc.</p>
+
+<p>Note that Czech data (especially those from the PDT) often indicate the original part of speech
+of foreign words. Thus this feature may occur with any POS tag. If the original part of speech is
+not known, the feature will accompany the <a href="">cs-pos/X</a> tag.</p>
+
+<h3 id="foreign-it-is-foreign">Foreign: it is foreign</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>… nese jméno <b>VLIW</b> (<b>Very Long Instruction Word</b> – velmi dlouhé instrukční slovo)</em></li>
+</ul>
+
+<h3 id="fscript-it-is-foreign-and-written-in-a-foreign-script">Fscript: it is foreign and written in a foreign script</h3>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>V nepálštině se hora jmenuje <b>सगरमाथा</b>. </em> “In Nepali, the mountain is called <b>सगरमाथा</b>.”</li>
+</ul>
+
+<h3 id="tscript-it-is-foreign-and-transcribed-from-a-foreign-script">Tscript: it is foreign and transcribed from a foreign script</h3>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>Výše uvedené nepálské slovo lze přepsat jako <b>Sagaramāthā</b>. </em> “The above Nepali word can be transcribed <b>Sagaramāthā</b>.”</li>
+</ul>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>PDT does not contain words in foreign scripts (what it does contain are foreign letters based on
+the Latin script), and transcriptions from foreign scripts are not explicitly marked, hence the
+values <code>Fscript</code> and <code>Tscript</code> do not appear in the converted PDT data.</p>
+
+<p>Articles in foreign names <em>(the, die, le) </em> are tagged <a href="">cs-pos/ADJ</a>, not <a href="">cs-pos/DET</a>.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Foreign.md" target="#">edit Foreign</a></p>
 
 <p><a id="al-cs-feat/Gender" class="al-dest"></a></p>
 <h2><code>Gender</code>: gender</h2>
