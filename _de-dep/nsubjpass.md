@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title: 'nsubjpass'
 shortdef: 'passive nominal subject'
 ---

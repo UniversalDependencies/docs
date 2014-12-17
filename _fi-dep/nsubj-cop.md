@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'nsubj:cop'
 shortdef : 'nominal copular subject'
 ---

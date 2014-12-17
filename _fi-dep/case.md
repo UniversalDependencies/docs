@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'case'
 shortdef : 'case marking'
 tags: ['case']

@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'remnant'
 shortdef : 'remnant in ellipsis'
 ---

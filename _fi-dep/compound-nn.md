@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'compound:nn'
 shortdef : 'noun compound modifier'
 ---

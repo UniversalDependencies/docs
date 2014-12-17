@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
