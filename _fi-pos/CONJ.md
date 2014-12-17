@@ -8,6 +8,8 @@ A coordinating conjunction is a word that links words or larger
 constituents without syntactically subordinating one to the other and
 expresses a semantic relationship between them.
 
+For *subordinating* conjunctions, see [SCONJ]().
+
 In correlative (paired) coordinative conjuctions such as _sekä - että_
 "both - and" and _joko - tai_, both words are annotated as `CONJ` (see
 also [cc:preconj]()).

@@ -7,11 +7,16 @@ shortdef: 'subordinating conjunction'
 A subordinating conjunction is a conjunction that links constructions
 by making one of them a constituent of the other.
 
-Finnish complementizer _että_ and comparative conjunction _kuin_ are
-also tagged `SCONJ`.
+Both the Finnish complementizer _että_ and the comparative conjunction
+_kuin_ are tagged `SCONJ`.
 
-### Examples
+#### Examples
 
-* _koska_ "because"
-* _vaikka_ "although"
-* _parempi <b>kuin</b>_ "better <b>than</b>"
+* [fi] _koska_ "because"
+* [fi] _vaikka_ "although"
+* [fi] _parempi <b>kuin</b>_ "better <b>than</b>"
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=816> (in Finnish)
+* <http://scripta.kotus.fi/visk/sisallys.php?p=818> (in Finnish)
