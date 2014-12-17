@@ -435,8 +435,8 @@ objects within a set.</p>
 <p><a id="al-cs-feat/Foreign" class="al-dest"></a></p>
 <h2><code>Foreign</code>: is this a foreign word?</h2>
 
-<p>Boolean feature. Is this a foreign word? Not a loan word and not a
-foreign name but a genuinely foreign word appearing inside native
+<p>Boolean feature. Is this a foreign word? Not a loan word
+but a genuinely foreign word appearing inside native
 text, e.g. inside direct speech, titles of books etc.</p>
 
 <p>Note that Czech data (especially those from the PDT) often indicate the original part of speech
@@ -474,6 +474,10 @@ not known, the feature will accompany the <a href="">cs-pos/X</a> tag.</p>
 <p>PDT does not contain words in foreign scripts (what it does contain are foreign letters based on
 the Latin script), and transcriptions from foreign scripts are not explicitly marked, hence the
 values <code>Fscript</code> and <code>Tscript</code> do not appear in the converted PDT data.</p>
+
+<p>For proper nouns the borderline between foreign words and loan words is somewhat fuzzy,
+so e.g. the English personal name <em>George </em> is marked as foreign even though it
+would not normally be translated (except for names of rulers and saints, which would become <em>Jiří</em>).</p>
 
 <p>Articles in foreign names <em>(the, die, le) </em> are tagged <a href="">cs-pos/ADJ</a>, not <a href="">cs-pos/DET</a>.</p>
 
