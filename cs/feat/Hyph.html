@@ -5,7 +5,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Features</title>
+    <title>Hyph</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -21,6 +21,8 @@
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-cs">home</a></span>
 
 
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Hyph.md" target="#">edit page</a></span>
+
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -34,121 +36,27 @@
 	  </div>
 	</noscript>
 
-          <h1 id="features">Features</h1>
+          <h2><code>Hyph</code>: hyphenated compound or part of it</h2>
 
-<table class="typeindex">
-  <tr>
-    <td>
-      <table class="category">
-        <tr><td><strong>Lexical features</strong></td></tr>
-        <tr>
-          <td><a>PronType</a></td>
-        </tr>
-        <tr>
-          <td><a>NumType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumForm</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumValue</a></td>
-        </tr>
-        <tr>
-          <td><a>Poss</a></td>
-        </tr>
-        <tr>
-          <td><a>Reflex</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NameType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Abbr</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Hyph</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Foreign</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Style</a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-        <tr><td colspan="3"><strong>Inflectional features</strong></td></tr>
-        <tr>
-          <td><i>Nominal</i></td>
-          <td><i>Verbal</i></td>
-        </tr>
-        <tr>
-          <td><a>Gender</a></td>
-          <td><a>VerbForm</a></td>
-        </tr>
-        <tr>
-          <td><a>Animacy</a></td>
-          <td><a>Mood</a></td>
-        </tr>
-        <tr>
-          <td><a>Number</a></td>
-          <td><a>Tense</a></td>
-        </tr>
-        <tr>
-          <td><a>Case</a></td>
-          <td><a>Aspect</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>PrepCase</a></td>
-          <td><a>Voice</a></td>
-        </tr>
-        <tr>
-          <td><strike><tt>Definite</tt></strike></td>
-          <td><a>Person</a></td>
-        </tr>
-        <tr>
-          <td><a>Degree</a></td>
-          <td><a>Negative</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Gender[psor]</a><!--PossGender--></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Number[psor]</a><!--PossNumber--></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p>Boolean feature. Is this the first part of a hyphenated compound?</p>
 
-<hr />
+<p>Compound adjectives with hyphens, such as <em>česko-slovenský </em> “Czech-Slovak” get split during
+tokenization. The last part, <em>slovenský, </em> is an independent adjective with full inflection
+paradigm. However, the first part, <em>česko, </em> is a form that does not occur elsewhere than in
+compounds (the independent form would be <em>český</em>).</p>
 
-<p>Alphabetical listing</p>
+<h3 id="yes-it-is-part-of-hyphenated-compound">Yes: it is part of hyphenated compound</h3>
+
+<h4 id="examples">Examples</h4>
 
 <ul>
-  <li><a href="">Abbr</a>: abbreviation</li>
-  <li><a href="">Animacy</a>: animacy</li>
-  <li><a href="">Aspect</a>: aspect</li>
-  <li><a href="">Case</a>: case</li>
-  <li><a href="">Degree</a>: degree of comparison</li>
-  <li><a href="">Foreign</a>: is this a foreign word?</li>
-  <li><a href="">Gender</a>: gender</li>
-  <li><a href="">Hyph</a>: hyphenated compound or part of it</li>
-  <li><a href="">Mood</a>: mood</li>
-  <li><a href="">Negative</a>: whether the word can be or is negated</li>
-  <li><a href="">NumType</a>: numeral type</li>
-  <li><a href="">Number</a>: number</li>
-  <li><a href="">Person</a>: person</li>
-  <li><a href="">Poss</a>: possessive</li>
-  <li><a href="">PronType</a>: pronominal type</li>
-  <li><a href="">Reflex</a>: reflexive</li>
-  <li><a href="">Tense</a>: tense</li>
-  <li><a href="">VerbForm</a>: form of verb or deverbative</li>
-  <li><a href="">Voice</a>: voice</li>
+  <li><em><b>česko</b>-slovenský </em> “Czecho-Slovak”</li>
 </ul>
+
+
+<!-- "in other languages" links -->
+<hr/>
+
 
 
       </div>
@@ -213,7 +121,7 @@
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'cs-overview';
+        Collections.listing['_current'] = 'cs-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
