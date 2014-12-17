@@ -4,14 +4,19 @@ title: 'VERB'
 shortdef: 'verb'
 ---
 
-A verb is a member of the syntactic class of words that typically
-signal events and actions, can constitute a minimal predicate in a
-clause, and govern the number and types of other constituents which
-may occur in the clause.
+Verbs typically inflect for [tense](Tense), [mood](Mood) and
+[person](Person) and signal events and actions. Verbs can constitute a
+minimal predicate in a clause, and govern the number and types of
+other constituents which may occur in the clause.
 
-### Examples
+Auxiliary and modal verbs are not annotated as `VERB` but rather
+[AUX]().
 
-* _juosta, syödä_ "run, eat"
-* TODO
+#### Examples
 
-(This language-specific documentation is work in progress.)
+* [fi] _juosta, syödä_ "run, eat"
+* [fi] _ei_ "no" (negation verb)
+
+#### References
+
+* <http://scripta.kotus.fi/visk/sisallys.php?p=444> (in Finnish)
