@@ -7,10 +7,10 @@ shortdef: 'adjective'
 Adjectives are words that typically modify nouns and specify their
 properties or attributes.
 
-UD Finnish annotation follows VISK in assigning pro-adjectives (see
+UD Finnish annotation follows VISK in assigning pro-adjectives the
+`ADJ` tag (e.g. *tämä/PRON* "this" → *tällainen/ADJ* "like this"; see
 e.g. [VISK § 610](http://scripta.kotus.fi/visk/sisallys.php?p=610); in
-Finnish) the `ADJ` tag (e.g. *tämä/PRON* "this" -> *tällainen/ADJ*
-"like this").
+Finnish).
 
 #### Examples
 
