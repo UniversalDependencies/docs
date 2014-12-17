@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Features</title>
+    <title>PrepCase</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -17,8 +17,8 @@
       <div id="hp-header">
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-cs">home</a></span>
-
-
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/cs/feat">cs/feat</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/PrepCase.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,125 +32,39 @@
 	  </div>
 	</noscript>
 
-          <h1 id="features">Features</h1>
+          <h2><code>PrepCase</code>: case form sensitive to prepositions</h2>
 
-<table class="typeindex">
-  <tr>
-    <td>
-      <table class="category">
-        <tr><td><strong>Lexical features</strong></td></tr>
-        <tr>
-          <td><a>PronType</a></td>
-        </tr>
-        <tr>
-          <td><a>NumType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumForm</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumValue</a></td>
-        </tr>
-        <tr>
-          <td><a>Poss</a></td>
-        </tr>
-        <tr>
-          <td><a>Reflex</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NameType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Abbr</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Hyph</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Foreign</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Style</a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-        <tr><td colspan="3"><strong>Inflectional features</strong></td></tr>
-        <tr>
-          <td><i>Nominal</i></td>
-          <td><i>Verbal</i></td>
-        </tr>
-        <tr>
-          <td><a>Gender</a></td>
-          <td><a>VerbForm</a></td>
-        </tr>
-        <tr>
-          <td><a>Animacy</a></td>
-          <td><a>Mood</a></td>
-        </tr>
-        <tr>
-          <td><a>Number</a></td>
-          <td><a>Tense</a></td>
-        </tr>
-        <tr>
-          <td><a>Case</a></td>
-          <td><a>Aspect</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>PrepCase</a></td>
-          <td><a>Voice</a></td>
-        </tr>
-        <tr>
-          <td><strike><tt>Definite</tt></strike></td>
-          <td><a>Person</a></td>
-        </tr>
-        <tr>
-          <td><a>Degree</a></td>
-          <td><a>Negative</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Gender[psor]</a><!--PossGender--></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Number[psor]</a><!--PossNumber--></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p>Some personal pronouns
+have different forms depending on whether they are objects of
+prepositions or not.</p>
 
-<hr />
+<p>Default empty value means that the word form is neutral w.r.t.
+prepositions.</p>
 
-<p>Alphabetical listing</p>
+<h3 id="npr-non-prepositional-case">Npr: non-prepositional case</h3>
+
+<p>This word form must not be used after a preposition.</p>
+
+<h4 id="examples">Examples</h4>
 
 <ul>
-  <li><a href="">Abbr</a>: abbreviation</li>
-  <li><a href="">Animacy</a>: animacy</li>
-  <li><a href="">Aspect</a>: aspect</li>
-  <li><a href="">Case</a>: case</li>
-  <li><a href="">Degree</a>: degree of comparison</li>
-  <li><a href="">Foreign</a>: is this a foreign word?</li>
-  <li><a href="">Gender</a>: gender</li>
-  <li><a href="">Hyph</a>: hyphenated compound or part of it</li>
-  <li><a href="">Mood</a>: mood</li>
-  <li><a href="">NameType</a>: type of named entity</li>
-  <li><a href="">Negative</a>: whether the word can be or is negated</li>
-  <li><a href="">NumForm</a>: numeral form</li>
-  <li><a href="">NumType</a>: numeral type</li>
-  <li><a href="">NumValue</a>: numeric value</li>
-  <li><a href="">Number</a>: number</li>
-  <li><a href="">Person</a>: person</li>
-  <li><a href="">Poss</a>: possessive</li>
-  <li><a href="">PrepCase</a>: case form sensitive to prepositions</li>
-  <li><a href="">PronType</a>: pronominal type</li>
-  <li><a href="">Reflex</a>: reflexive</li>
-  <li><a href="">Tense</a>: tense</li>
-  <li><a href="">VerbForm</a>: form of verb or deverbative</li>
-  <li><a href="">Voice</a>: voice</li>
+  <li><em><b>jeho</b>, <b>jemu</b>, <b>jím</b></em> “him” (<code>Gen,Acc</code>, <code>Dat</code>, <code>Ins</code>)</li>
 </ul>
+
+<h3 id="pre-prepositional-case">Pre: prepositional case</h3>
+
+<p>This word form must be used after a preposition.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>něho</b>, <b>němu</b>, <b>něm</b>, <b>ním</b></em> “him” (<code>Gen,Acc</code>, <code>Dat</code>, <code>Loc</code>, <code>Ins</code>)</li>
+</ul>
+
+
+<!-- "in other languages" links -->
+<hr/>
+
 
 
       </div>
@@ -215,7 +129,7 @@
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'cs-overview';
+        Collections.listing['_current'] = 'cs-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
