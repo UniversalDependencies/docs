@@ -1061,8 +1061,85 @@ at the infinitive.</li>
 <p><a id="al-cs-feat/VerbForm" class="al-dest"></a></p>
 <h2><code>VerbForm</code>: form of verb or deverbative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VerbForm</code>.</p>
+<p>Even though the name of the feature seems to suggest that it is used
+exclusively with <a href="cs-pos/VERB">verbs</a>, it is not the case.
+The <code>Part</code> value can be used also with <a href="cs-pos/ADJ">adjectives</a>.
+It distinguishes participles from other verb forms,
+and participial adjectives from other adjectives.</p>
+
+<h3 id="fin-finite-verb"><code>Fin</code>: finite verb</h3>
+
+<p>Rule of thumb: if it has non-empty <a href="">Mood</a>, it is finite.
+In Czech this applies to indicative and imperative forms,
+and to the special conditional forms of the <a href="cs-pos/AUX">auxiliary verb</a> <em>být</em>.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>nesu, neseš, nese, neseme, nesete, nesou</em>  “I carry, you carry, he/she/it carries, we carry, you carry, they carry”</li>
+  <li><em>nes, nesme, neste</em>  “carry” (imperative in different persons and numbers)</li>
+  <li><em>jsem, jsi, je, jsme, jste, jsou</em>  “I am, you are, he/she/it is, we are, you are, they are”</li>
+  <li><em>budu, budeš, bude, budeme, budete, budou</em>  “I will be, you will be, he/she/it will be, we will be, you will be, they will be”</li>
+  <li><em>bych, bys, by, bychom, byste, by</em>  “I would, you would, he/she/it would, we would, you would, they would”</li>
+  <li><em>buď, buďme, buďte</em>  “be” (imperative in different persons and numbers)</li>
+</ul>
+
+<h3 id="inf-infinitive"><code>Inf</code>: infinitive</h3>
+
+<p>Infinitive is the citation form of verbs.
+It is also used with the auxiliary <em>být </em> to form periphrastic future tense,
+and it appears as the argument of modal and other verbs.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>nést</em>  “to carry”</li>
+  <li><em>být</em>  “to be”</li>
+</ul>
+
+<h3 id="part-participle"><code>Part</code>: participle</h3>
+
+<p>Participle is a non-finite verb form that shares properties of verbs
+and adjectives. Czech has two types of participles:</p>
+
+<ul>
+  <li>The past participle (also called active participle or l-participle)
+is used to form the past tense, and the conditional mood in present or past tense.</li>
+  <li>The passive participle
+is used to form the passive voice (in any tense or mood).</li>
+</ul>
+
+<p>Participles inflect for <a href="">Gender</a> and <a href="">Number</a> but not for <a href="">Person</a>.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>nesl, nesla, neslo, nesli, nesly</em>  “carried” (past participle in different genders and numbers)</li>
+  <li><em>nesen, nesena, neseno, neseni, neseny</em>  “carried” (passive participle in different genders and numbers)</li>
+  <li><em>byl, byla, bylo, byli, byly</em>  “was/been” (past participle in different genders and numbers)</li>
+</ul>
+
+<h3 id="trans-transgressive"><code>Trans</code>: transgressive</h3>
+
+<p>The transgressive, also called adverbial participle, is a non-finite
+verb form that shares properties of verbs and adverbs.</p>
+
+<p>Imperfective verbs form present transgressive, meaning “while doing”.</p>
+
+<p>Perfective verbs form past transgressive, meaning “having done”.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em>nesa, nesouc, nesouce</em>  “carrying” (present transgressive in different genders and numbers)</li>
+  <li><em>přines, přinesši, přinesše</em>  “having brought” (past transgressive in different genders and numbers)</li>
+  <li><em>jsa, jsouc, jsouce</em>  “being” (present transgressive in different genders and numbers)</li>
+  <li><em>byv, byvši, byvše</em>  “having been” (past transgressive in different genders and numbers)</li>
+  <li><em>zírali na mne, pevně <b>svírajíce</b> své zbraně </em> “they
+stared at me <b>while gripping</b> their guns firmly”</li>
+  <li><em><b>udělavši</b> večeři, zavolala rodinu ke stolu </em> “<b>having
+prepared</b> the dinner, she called her family to the table”</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/VerbForm.md" target="#">edit VerbForm</a></p>
 
