@@ -25,6 +25,11 @@ In Czech, reflexive pronouns have various functions:
   The pronoun does not alter the meaning in any way, but without it the sentence would not be grammatical:
   _Jan <b>se směje</b>&nbsp;_ “Jan laughs”
 
+Reflexive possessives indicate that the subject of the clause is the possessor:
+
+- _Jan prodal <b>své</b> auto.&nbsp;_ “Jan sold <b>his</b> [own] car.”
+- _Jan prodal jeho auto.&nbsp;_ “Jan sold his [someone else's] car.”
+
 ### `Yes`: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the
