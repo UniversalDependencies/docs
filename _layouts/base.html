@@ -19,6 +19,9 @@
       <div id="hp-header">
 	
           <span class="header-text"><a href="{{ site.home }}{% if page.collection %}#language-{{ page.collection | split: '-' | first }}{% endif %}">home</a></span>
+{% if page.category and page.collection %}{% capture lang %}{{ page.collection | split:'-' | first }}{% endcapture %}
+          <span class="header-text"><a href="{{ site.home }}/{{ lang }}/{{ page.category }}">{{ lang }}/{{ page.category }}s</a></span>
+{% endif %}
 {% if page.generated != 'true' %}
           <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path }}{% else %}{{ page.path }}{% endif %}" target="#">edit page</a></span>
 {% endif %}
