@@ -37,8 +37,41 @@
 
           <h2><code>Reflex</code>: reflexive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Reflex</code>.</p>
+<p>Boolean feature of <a href="cs-pos/PRON">pronouns</a> or
+<a href="cs-pos/DET">determiners</a>. It tells whether the word is reflexive,
+i.e. refers to the subject of its clause.</p>
+
+<p>In Czech, reflexive pronouns have various functions:</p>
+
+<ul>
+  <li>Reflexive object of a verb means that the object is the same entity as the subject:
+<em>Jan <b>si</b> koupil auto </em> = “Jan bought <b>himself</b> a car” vs.
+<em>Jan mu koupil auto </em> = “Jan bought him [someone else] a car”</li>
+  <li>Reflexive object of a verb in plural may also indicate a reciprocal action.
+This usage of the reflexive pronoun is translated to English as “each other”.
+Unlike e.g. German, Czech does not have a special reciprocal pronoun and the reflexive pronoun is used instead:
+<em>Jan a Marie <b>se</b> milují </em> = “Jan and Mary love <b>each other</b>”</li>
+  <li>Reflexive pronoun in a subjectless clause constitutes so-called reflexive passive:
+<em>To <b>se</b> napíše zítra </em> (reflexive passive, the verb is morphologically in active form) vs.
+<em>To bude napsáno zítra </em> (normal passive, with auxiliary finite verb and a passive participle)
+“That will be written tomorrow”</li>
+  <li>Some verbs are mandatorily reflexive, i.e. they never occur without the reflexive pronoun.
+The pronoun does not alter the meaning in any way, but without it the sentence would not be grammatical:
+<em>Jan <b>se směje</b> </em> “Jan laughs”</li>
+</ul>
+
+<h3 id="yes-it-is-reflexive"><code>Yes</code>: it is reflexive</h3>
+
+<p>Note that there is no <code>No</code> value. If the word is not reflexive, the
+<code>Reflex</code> feature will just not be mentioned in the <code>FEAT</code>
+column. (Which means that empty value has the <code>No</code> meaning.)</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>reflexive personal pronouns: <em>se, si, sebe, sobě, sebou</em> (occurs in various cases but not in nominative and vocative; does not distinguish <a href="">Number</a>)</li>
+  <li>reflexive possessive pronoun: <em>svůj</em></li>
+</ul>
 
 
 <!-- "in other languages" links -->
