@@ -4,8 +4,8 @@ title: 'Foreign'
 shortdef: 'is this a foreign word?'
 ---
 
-Boolean feature. Is this a foreign word? Not a loan word and not a
-foreign name but a genuinely foreign word appearing inside native
+Boolean feature. Is this a foreign word? Not a loan word
+but a genuinely foreign word appearing inside native
 text, e.g. inside direct speech, titles of books etc.
 
 Note that Czech data (especially those from the PDT) often indicate the original part of speech
@@ -37,5 +37,9 @@ not known, the feature will accompany the [cs-pos/X]() tag.
 PDT does not contain words in foreign scripts (what it does contain are foreign letters based on
 the Latin script), and transcriptions from foreign scripts are not explicitly marked, hence the
 values `Fscript` and `Tscript` do not appear in the converted PDT data.
+
+For proper nouns the borderline between foreign words and loan words is somewhat fuzzy,
+so e.g. the English personal name _George&nbsp;_ is marked as foreign even though it
+would not normally be translated (except for names of rulers and saints, which would become _Jiří_).
 
 Articles in foreign names _(the, die, le)&nbsp;_ are tagged [cs-pos/ADJ](), not [cs-pos/DET]().
