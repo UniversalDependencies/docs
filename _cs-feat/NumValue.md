@@ -20,14 +20,14 @@ together behaves as neuter singular (this is important for subject-verb agreemen
 Specific behavior of low-value numerals is the reason why there is a separate feature
 to mark these numerals.
 
-### 1: numeric value 1
+### `1`: numeric value 1
 
 * _jeden, jedna, jedno_ “one”
 
-### 2: numeric value 2
+### `2`: numeric value 2
 
 * _dva, dvě_ “two”
 
-### 3: numeric value 3 or 4
+### `3`: numeric value 3 or 4
 
 * _tři_ “three”, _čtyři_ “four”
