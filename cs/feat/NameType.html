@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>NameType</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+	
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-cs">home</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/cs/feat">cs/feat</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/NameType.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h2><code>NameType</code>: type of named entity</h2>
+
+<p>Classification of named entities (token-based, no nesting of entities etc.)
+The feature applies mainly to the <a href="">cs-pos/PROPN</a> tag;
+in multi-word foreign names, <a href="cs-pos/ADJ">adjectives</a> may also have this feature
+(they preserve the <code>ADJ</code> tag but at the same time they would not exist in Czech
+otherwise than in the named entity).</p>
+
+<h3 id="conversion-from-the-prague-dependency-treebank">Conversion from the Prague Dependency Treebank</h3>
+
+<p>Lemmas in PDT contain features
+that also encode types of named entities. When converting the PDT annotation
+to UD, these lemma features are removed and the feature
+<code>NameType</code> is added to the universal features to preserve the type.</p>
+
+<p>The following table lists the name types together with the most frequent examples.
+See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
+page 8, section 2.1 (Lemma structure) for more details.</p>
+
+<table>
+<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td><td>“Jan, Jiří, Václav, Petr, Josef”</td></tr>
+<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td><td>“Klaus, Havel, Němec, Yeltsin, Svoboda”</td></tr>
+<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td><td>“German, Czech, Serbian, American, Slovak”</td></tr>
+<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td><td>“Prague, CR, Europe, Germany, Brno”</td></tr>
+<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td><td>“ODS, UN, Sparta, ODA, Slavia”</td></tr>
+<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td><td>“LN, Mercedes, Tatra, PC, MF”</td></tr>
+<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td><td>“US, PVP, Prix, Rapaport, Tour”</td></tr>
+</table>
+
+<h3 id="geo-geographical-name"><code>Geo</code>: geographical name</h3>
+
+<p>Names of cities, countries, rivers, mountains etc.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>Praha</b> </em> “Prague”, <em><b>Kostelec</b> nad Černými lesy </em>, <em><b>Německo</b> </em> “Germany”</li>
+</ul>
+
+<h3 id="prs-name-of-person"><code>Prs</code>: name of person</h3>
+
+<p>This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.</p>
+
+<h3 id="giv-given-name-of-person"><code>Giv</code>: given name of person</h3>
+
+<p>Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.</p>
+
+<h3 id="sur-surname--family-name-of-person"><code>Sur</code>: surname / family name of person</h3>
+
+<p>Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.</p>
+
+<h3 id="nat-nationality"><code>Nat</code>: nationality</h3>
+
+<p>Name denoting a member of a particular nation, or inhabitant of a particular territory.
+This does not include derived adjectives,
+nor nouns denoting languages (both groups are written in lowercase).
+Thus <em><b>Čech</b> </em> “Czech [man]” belongs here
+but <em>český </em> “Czech” and <em>čeština </em> “Czech [language]” do not.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>Čech</b> </em> “Czech”, <em><b>Němec</b> </em> “German”, <em><b>Pražan</b> </em> “Praguer”</li>
+</ul>
+
+<h3 id="com-company-organization"><code>Com</code>: company, organization</h3>
+
+<h3 id="pro-product"><code>Pro</code>: product</h3>
+
+<h3 id="oth-other"><code>Oth</code>: other</h3>
+
+<p>Names of stadiums, guerilla bases, events etc.</p>
+
+
+<!-- "in other languages" links -->
+<hr/>
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = 'cs-feat';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>

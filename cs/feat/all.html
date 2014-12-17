@@ -615,6 +615,82 @@ university.”</li>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Mood.md" target="#">edit Mood</a></p>
 
+<p><a id="al-cs-feat/NameType" class="al-dest"></a></p>
+<h2><code>NameType</code>: type of named entity</h2>
+
+<p>Classification of named entities (token-based, no nesting of entities etc.)
+The feature applies mainly to the <a href="">cs-pos/PROPN</a> tag;
+in multi-word foreign names, <a href="cs-pos/ADJ">adjectives</a> may also have this feature
+(they preserve the <code>ADJ</code> tag but at the same time they would not exist in Czech
+otherwise than in the named entity).</p>
+
+<h3 id="conversion-from-the-prague-dependency-treebank">Conversion from the Prague Dependency Treebank</h3>
+
+<p>Lemmas in PDT contain features
+that also encode types of named entities. When converting the PDT annotation
+to UD, these lemma features are removed and the feature
+<code>NameType</code> is added to the universal features to preserve the type.</p>
+
+<p>The following table lists the name types together with the most frequent examples.
+See <a href="http://ufal.mff.cuni.cz/techrep/tr27.pdf">http://ufal.mff.cuni.cz/techrep/tr27.pdf</a>,
+page 8, section 2.1 (Lemma structure) for more details.</p>
+
+<table>
+<tr><td><tt>_;Y</tt></td><td>given name</td><td><em>Jan, Jiří, Václav, Petr, Josef</em></td><td>“Jan, Jiří, Václav, Petr, Josef”</td></tr>
+<tr><td><tt>_;S</tt></td><td>surname</td><td><em>Klaus, Havel, Němec, Jelcin, Svoboda</em></td><td>“Klaus, Havel, Němec, Yeltsin, Svoboda”</td></tr>
+<tr><td><tt>_;E</tt></td><td>member of a particular nation, inhabitant of a particular territory</td><td><em>Němec, Čech, Srb, Američan, Slovák</em></td><td>“German, Czech, Serbian, American, Slovak”</td></tr>
+<tr><td><tt>_;G</tt></td><td>geographical name</td><td><em>Praha, ČR, Evropa, Německo, Brno</em></td><td>“Prague, CR, Europe, Germany, Brno”</td></tr>
+<tr><td><tt>_;K</tt></td><td>company, organization, institution</td><td><em>ODS, OSN, Sparta, ODA, Slavia</em></td><td>“ODS, UN, Sparta, ODA, Slavia”</td></tr>
+<tr><td><tt>_;R</tt></td><td>product</td><td><em>LN, Mercedes, Tatra, PC, MF</em></td><td>“LN, Mercedes, Tatra, PC, MF”</td></tr>
+<tr><td><tt>_;m</tt></td><td>other proper name: names of mines, stadiums, guerilla bases etc.</td><td><em>US, PVP, Prix, Rapaport, Tour</em></td><td>“US, PVP, Prix, Rapaport, Tour”</td></tr>
+</table>
+
+<h3 id="geo-geographical-name"><code>Geo</code>: geographical name</h3>
+
+<p>Names of cities, countries, rivers, mountains etc.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>Praha</b> </em> “Prague”, <em><b>Kostelec</b> nad Černými lesy </em>, <em><b>Německo</b> </em> “Germany”</li>
+</ul>
+
+<h3 id="prs-name-of-person"><code>Prs</code>: name of person</h3>
+
+<p>This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.</p>
+
+<h3 id="giv-given-name-of-person"><code>Giv</code>: given name of person</h3>
+
+<p>Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.</p>
+
+<h3 id="sur-surname--family-name-of-person"><code>Sur</code>: surname / family name of person</h3>
+
+<p>Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.</p>
+
+<h3 id="nat-nationality"><code>Nat</code>: nationality</h3>
+
+<p>Name denoting a member of a particular nation, or inhabitant of a particular territory.
+This does not include derived adjectives,
+nor nouns denoting languages (both groups are written in lowercase).
+Thus <em><b>Čech</b> </em> “Czech [man]” belongs here
+but <em>český </em> “Czech” and <em>čeština </em> “Czech [language]” do not.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>Čech</b> </em> “Czech”, <em><b>Němec</b> </em> “German”, <em><b>Pražan</b> </em> “Praguer”</li>
+</ul>
+
+<h3 id="com-company-organization"><code>Com</code>: company, organization</h3>
+
+<h3 id="pro-product"><code>Pro</code>: product</h3>
+
+<h3 id="oth-other"><code>Oth</code>: other</h3>
+
+<p>Names of stadiums, guerilla bases, events etc.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/NameType.md" target="#">edit NameType</a></p>
+
 <p><a id="al-cs-feat/Negative" class="al-dest"></a></p>
 <h2><code>Negative</code>: whether the word can be or is negated</h2>
 
