@@ -11,3 +11,9 @@ predicate of the clause (the verb or predicate adjective or noun) is
 the governor.
 
 (TODO example)
+
+## Diffs
+
+### Turku Dependency Treebank
+
+`expl` is not annotated in TDT and is not used in the current version of the UD Finnish corpus.
