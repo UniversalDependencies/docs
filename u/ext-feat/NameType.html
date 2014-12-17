@@ -32,22 +32,53 @@
 	  </div>
 	</noscript>
 
-          <h2><code>NameType</code>: type of named entity or term</h2>
+          <h2><code>NameType</code>: type of named entity</h2>
 
-<h3 id="class-classifier">Class: classifier</h3>
+<p>Classification of named entities (token-based, no nesting of entities etc.)
+The feature applies mainly to the <a href="">cs-pos/PROPN</a> tag;
+in multi-word foreign names, <a href="cs-pos/ADJ">adjectives</a> may also have this feature
+(they preserve the <code>ADJ</code> tag but at the same time they would not exist in Czech
+otherwise than in the named entity).</p>
 
-<p>Classification of named entities (token-based, no nesting of entities
-etc.) and terms. On one hand, this is pretty universal; on the other
-hand, most of us would probably see it as a separate level of
-annotation. There are treebanks where the FEAT column contains this
-information but they are rare: I saw it in the Czech CoNLL 2006 &amp; 2007
-&amp; 2009 data, and in one tagset for Japanese.</p>
+<h3 id="geo-geographical-name"><code>Geo</code>: geographical name</h3>
 
-<h3 id="values-for-named-entities-geo-prs-giv-sur-nat-com-pro-oth">Values for named entities: geo, prs, giv, sur, nat, com, pro, oth</h3>
+<p>Names of cities, countries, rivers, mountains etc.</p>
 
-<h3 id="values-for-terms-col-sci-che-med-tec-cel-gov-jus-fin-env-cul-spo-hob">Values for terms: col, sci, che, med, tec, cel, gov, jus, fin, env, cul, spo, hob</h3>
+<h4 id="examples">Examples</h4>
 
-<p>(See <a href="https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype">https://wiki.ufal.ms.mff.cuni.cz/user:zeman:interset:features#nametype</a>.)</p>
+<ul>
+  <li><em><b>Praha</b> </em> “Prague”, <em><b>Kostelec</b> nad Černými lesy </em>, <em><b>Německo</b> </em> “Germany”</li>
+</ul>
+
+<h3 id="prs-name-of-person"><code>Prs</code>: name of person</h3>
+
+<p>This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.</p>
+
+<h3 id="giv-given-name-of-person"><code>Giv</code>: given name of person</h3>
+
+<p>Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.</p>
+
+<h3 id="sur-surname--family-name-of-person"><code>Sur</code>: surname / family name of person</h3>
+
+<p>Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.</p>
+
+<h3 id="nat-nationality"><code>Nat</code>: nationality</h3>
+
+<p>Name denoting a member of a particular nation, or inhabitant of a particular territory.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>Čech</b> </em> “Czech”, <em><b>Němec</b> </em> “German”, <em><b>Pražan</b> </em> “Praguer”</li>
+</ul>
+
+<h3 id="com-company-organization"><code>Com</code>: company, organization</h3>
+
+<h3 id="pro-product"><code>Pro</code>: product</h3>
+
+<h3 id="oth-other"><code>Oth</code>: other</h3>
+
+<p>Names of stadiums, guerilla bases, events etc.</p>
 
 
 <!-- "in other languages" links -->
