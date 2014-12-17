@@ -9,36 +9,36 @@ may be a lexical feature (some words-lemmas are archaic, some are
 colloquial) or a morphological feature (inflectional patterns may
 systematically change between dialects or styles).
 
-### Arch: archaic, obsolete
+### `Arch`: archaic, obsolete
 
 #### Examples
 
 * _biblí, bukův, dubův, činějí_
 
-### Rare: rare
+### `Rare`: rare
 
 ### Form: formal, literary
 
-### Poet: poetic
+### `Poet`: poetic
 
-### Norm: normal, neutral
+### `Norm`: normal, neutral
 
-### Coll: colloquial
+### `Coll`: colloquial
 
 #### Examples
 
 * normal paradigm of hard adjectives: _mladý, mladého, mladému, mladém, mladým, mladí, mladých, mladým, mladé, mladými_ “young”
 * colloquial paradigm of hard adjectives: _<b>mladej</b>, <b>mladýho</b>, <b>mladýmu</b>, <b>mladým</b>, <b>mladým</b>, <b>mladý</b>, <b>mladejch</b>, <b>mladejm</b>, <b>mladý</b>, <b>mladejma</b>_ “young”
 
-### Vrnc: vernacular
+### `Vrnc`: vernacular
 
-### Slng: slang
+### `Slng`: slang
 
-### Expr: expressive, emotional
+### `Expr`: expressive, emotional
 
-### Derg: derogative
+### `Derg`: derogative
 
-### Vulg: vulgar
+### `Vulg`: vulgar
 
 ## Diffs
 
