@@ -5,7 +5,7 @@ shortdef: 'misspelled'
 ---
 
 Boolean feature marking a word as involving misspelling, grammatical
-error etc.
+error, etc.
 
 ### Yes: word has typo
 
