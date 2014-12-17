@@ -8,5 +8,5 @@ Adposition is a cover term for prepositions and postpositions.
 
 ### Examples
 
-* alla "under"
-* päällä "over"
+* _alla_ "under"
+* _päällä_ "over"
