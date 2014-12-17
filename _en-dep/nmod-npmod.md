@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'nmod:npmod'
 shortdef : 'noun phrase as adverbial modifier'
 ---

@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
 ---

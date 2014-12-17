@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'xcomp:ds'
 shortdef : 'clausal complement with different subject'
 ---

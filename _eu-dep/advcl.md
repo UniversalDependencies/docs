@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
 ---

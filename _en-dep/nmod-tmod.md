@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'nmod:tmod'
 shortdef : 'temporal modifier'
 ---

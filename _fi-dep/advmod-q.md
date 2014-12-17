@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'advmod:q'
 shortdef : 'quantification modifier'
 ---

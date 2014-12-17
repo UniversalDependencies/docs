@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'nmod:gobj'
 shortdef : 'genitive object'
 ---

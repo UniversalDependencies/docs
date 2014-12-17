@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'csubjpass'
 shortdef : 'clausal passive subject'
 ---

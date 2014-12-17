@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'xcomp:a'
 shortdef : 'adjectival complement'
 ---

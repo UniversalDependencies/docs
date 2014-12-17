@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'goeswith'
 shortdef : 'goes with'
 ---

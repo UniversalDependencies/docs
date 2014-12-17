@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---

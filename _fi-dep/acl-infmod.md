@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'acl:infmod'
 shortdef : 'infinitive modifier'
 ---

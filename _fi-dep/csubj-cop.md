@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: relation
 title:  'csubj:cop'
 shortdef : 'clausal copular subject'
 ---
