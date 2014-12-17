@@ -5,7 +5,7 @@ shortdef: 'abbreviation'
 ---
 
 Boolean feature. Is this an abbreviation? Note that the abbreviated
-word typically belongs to a part of speech other than [u-pos/X]().
+word typically belongs to a part of speech other than [cs-pos/X]().
 
 ### Yes: it is abbreviation
 
