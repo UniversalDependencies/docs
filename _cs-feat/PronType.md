@@ -17,7 +17,7 @@ personal/possessive pronouns (e.g. _se / svůj;_ see the
 
 #### Examples
 
-* _já, ty, on, ona, ono, my, vy, oni, ony, ona&nbsp;_ “I, you, he, she, it, we, you, they, they, they”
+* _já, ty, on, ona, ono, my, vy, oni, ony, ona, se&nbsp;_ “I, you, he, she, it, we, you, they, they, they, oneself”
 * _můj, tvůj, jeho, její, náš, váš, jejich, svůj&nbsp;_ “my, your, his/its, her, our, your, their, one's own”
 
 ### `Int`: interrogative pronoun, determiner, numeral or adverb
