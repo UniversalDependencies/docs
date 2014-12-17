@@ -47,10 +47,31 @@
           <td><a>NumType</a></td>
         </tr>
         <tr>
+          <td><strong>+</strong><a>NumForm</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>NumValue</a></td>
+        </tr>
+        <tr>
           <td><a>Poss</a></td>
         </tr>
         <tr>
           <td><a>Reflex</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>NameType</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Abbr</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Hyph</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Foreign</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Style</a></td>
         </tr>
       </table>
     </td>
@@ -78,16 +99,24 @@
           <td><a>Aspect</a></td>
         </tr>
         <tr>
-          <td><strike><tt>Definite</tt></strike></td>
+          <td><strong>+</strong><a>PrepCase</a></td>
           <td><a>Voice</a></td>
         </tr>
         <tr>
-          <td><a>Degree</a></td>
+          <td><strike><tt>Definite</tt></strike></td>
           <td><a>Person</a></td>
         </tr>
         <tr>
-          <td></td>
+          <td><a>Degree</a></td>
           <td><a>Negative</a></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Gender[psor]</a><!--PossGender--></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><strong>+</strong><a>Number[psor]</a><!--PossNumber--></td>
+          <td></td>
         </tr>
       </table>
     </td>
@@ -95,6 +124,34 @@
 </table>
 
 <hr />
+
+<p><a id="al-cs-feat/Abbr" class="al-dest"></a></p>
+<h2><code>Abbr</code>: abbreviation</h2>
+
+<p>Boolean feature. Is this an abbreviation? Note that the abbreviated
+word typically belongs to a part of speech other than <a href="">u-pos/X</a>.</p>
+
+<h3 id="yes-it-is-abbreviation">Yes: it is abbreviation</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>Acronyms:
+<em>ČR (Česká republika) </em> “Czech Republic”,
+<em>LN (Lidové noviny) </em> (a newspaper),
+<em>ODS (Občanská demokratická strana) </em> “Civic Democratic Party”,
+<em>OSN (Organizace spojených národů) </em> “United Nations Organization”,
+<em>ODA (Občanská demokratická aliance) </em> “Civic Democratic Alliance”</li>
+  <li>Initials: <em>J, M, V, A, C</em></li>
+  <li>Abbreviations:
+<em><b>r</b>. (rok) </em> “year”,
+<em><b>např</b>. (například) </em> “for example”,
+<em><b>tzv</b>. (takzvaný) </em> “so-called”,
+<em><b>a</b>. <b>s</b>. (akciová společnost) </em> “joint-stock company”,
+<em><b>tel</b>. (telefon) </em> “phone”</li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Abbr.md" target="#">edit Abbr</a></p>
 
 <p><a id="al-cs-feat/Animacy" class="al-dest"></a></p>
 <h2><code>Animacy</code>: animacy</h2>
