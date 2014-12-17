@@ -37,7 +37,7 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Praha</b>&nbsp;_ “Prague”, _<b>Kostelec</b> nad Černými lesy&nbsp;_, _<b>Německo</b>&nbsp;_ “Germany”
+* _<b>Praha</b>&nbsp;_ “Prague”, _<b>Kostelec</b> nad Černými lesy, <b>Německo</b>&nbsp;_ “Germany”
 
 ### `Prs`: name of person
 
@@ -47,9 +47,17 @@ This value is used if it is not known whether it is a given or a family name, bu
 
 Given name (not family name). This is usually the first name in European and American names. In Chinese names, the last two syllables (of three) are usually the given name.
 
+#### Examples
+
+* _<b>Jan</b>, <b>Jiří</b>, <b>Václav</b>_
+
 ### `Sur`: surname / family name of person
 
 Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
+
+#### Examples
+
+* _<b>Klaus</b>, <b>Havel</b>, <b>Němec</b>_
 
 ### `Nat`: nationality
 
