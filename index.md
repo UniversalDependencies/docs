@@ -12,7 +12,8 @@ title:  'Universal Dependencies'
      then add a <div> with the tab content below, with the same ID as
      the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
  -->
-<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
+<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all"
+     style="min-width:1000px">
 
 <!-- links to per-language sections, shown as tab labels -->
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">

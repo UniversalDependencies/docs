@@ -8,6 +8,8 @@ The *preconjunct* (`cc:preconj`) dependency relation marks the
 first part of those two-part coordinating conjunctions where the
 two parts are separated by coordinated elements.
 
+See also [CONJ]().
+
 <!-- fname:preconj.pdf -->
 ~~~ sdparse
 sekä talo että piha \n both house and yard
