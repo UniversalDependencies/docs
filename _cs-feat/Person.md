@@ -29,7 +29,7 @@ optionally some third persons too.
 
 #### Examples
 
-* _<b>dělám</b>&nbsp;_ “<b>you</b>.`Sing` do”
+* _<b>děláš</b>&nbsp;_ “<b>you</b>.`Sing` do”
 * _<b>děláte</b>&nbsp;_ “<b>you</b>.`Plur` do”
 
 ### `3`: third person
