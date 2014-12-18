@@ -10,9 +10,9 @@ expresses a semantic relationship between them.
 
 For *subordinating* conjunctions, see [SCONJ]().
 
-In correlative (paired) coordinative conjuctions such as _sekä - että_
-"both - and" and _joko - tai_, both words are annotated as `CONJ` (see
-also [cc:preconj]()).
+In correlative (paired) coordinating conjuctions such as _sekä - että_
+"both - and" and _joko - tai_ "either - or", both words are annotated
+`CONJ` (see also [cc:preconj]()).
 
 #### Examples
 
