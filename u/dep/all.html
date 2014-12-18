@@ -1251,7 +1251,15 @@ mark(bring, to-22)
 
 <p>The multi-word expression (modifier) relation is one of the three
 relations (<a href="">compound</a>, <code>mwe</code>, <a href="">name</a>) for compounding.
-It used for certain fixed grammaticized expressions with function words that behave like a single function word.</p>
+It is used for certain fixed grammaticized expressions that behave
+like function words or short adverbials.</p>
+
+<p>The scope of <code>mwe</code> annotation corresponds roughly to the <em>fixed
+expressions</em> category of
+<a href="http://lingo.stanford.edu/pubs/WP-2001-03.pdf">Sag et al.</a>, but
+excludes any relations in scope of <a href="">name</a> or <a href="">compound</a>.
+Additionally, limited morphosyntactic variation may be allowed
+for MWEs in exceptional cases.</p>
 
 <pre><code class="language-sdparse">I like dogs as well as cats
 mwe(as-4, well-5)
