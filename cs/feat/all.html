@@ -61,6 +61,9 @@
           <td><strong>+</strong><a>NameType</a></td>
         </tr>
         <tr>
+          <td><strong>+</strong><a>AdpType</a></td>
+        </tr>
+        <tr>
           <td><strong>+</strong><a>Abbr</a></td>
         </tr>
         <tr>
@@ -151,6 +154,54 @@ word typically belongs to a part of speech other than <a href="">cs-pos/X</a>.</
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Abbr.md" target="#">edit Abbr</a></p>
+
+<p><a id="al-cs-feat/AdpType" class="al-dest"></a></p>
+<h2><code>AdpType</code>: adposition type</h2>
+
+<p>Czech has neither postpositions nor circumpositions but there are several forms of <a href="cs-pos/ADP">prepositions</a>
+that this feature distinguishes.</p>
+
+<h3 id="prep-normal-preposition"><code>Prep</code>: (normal) preposition</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>v</b></em> “in”, <em><b>na</b></em> “on”, <em><b>o</b></em> “about”, <em><b>z</b></em> “of”, <em><b>s</b></em> “with”, <em><b>do</b></em> “into”, <em><b>k</b></em> “to”, <em><b>pro</b></em> “for”, <em><b>za</b></em> “behind”, <em><b>po</b></em> “after”</li>
+</ul>
+
+<h3 id="voc-vocalized-preposition"><code>Voc</code>: vocalized preposition</h3>
+
+<p>Some Czech prepositions are non-syllabic and their form
+has to be changed in some contexts to facilitate pronunciation.
+Moreover, some syllabic prepositions are altered too, if the following word starts with certain consonant clusters.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<p>The first line shows examples of vocalized preposition forms,
+the second line shows corresponding base forms.</p>
+
+<ul>
+  <li><em><b>ve</b>, <b>se</b>, <b>ze</b>, <b>ke</b>, <b>ode</b>, <b>beze</b>, <b>ku</b>, <b>skrze</b>, <b>přede</b>, <b>nade</b></em></li>
+  <li><em>v, s, z, k, od, bez, k, skrz, před, nad</em></li>
+</ul>
+
+<h3 id="comprep-dependent-part-of-compound-preposition"><code>Comprep</code>: dependent part of compound preposition</h3>
+
+<p>This value marks dependent first part of a compound preposition. This word cannot occur alone.
+Not all compound prepositions contain words marked <code>Comprep</code>.
+Many compound prepositions consist of two normal prepositions and a noun
+(an example is <em>na rozdíl od</em> “in contrast to”).
+Sometimes there are just two words, the second one is normal preposition and the first one
+is a secondary preposition (etymologically some other part of speech, but it has been frozen as
+a preposition).</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em><b>vzhledem</b> k(e)</em> “due to”, <em><b>nehledě</b> na</em> “regardless of”, <em><b>narozdíl</b> od</em> “in contrast to”</li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/AdpType.md" target="#">edit AdpType</a></p>
 
 <p><a id="al-cs-feat/Animacy" class="al-dest"></a></p>
 <h2><code>Animacy</code>: animacy</h2>

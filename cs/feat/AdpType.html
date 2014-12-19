@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Features</title>
+    <title>AdpType</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -17,8 +17,8 @@
       <div id="hp-header">
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-cs">home</a></span>
-
-
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/cs/feat">cs/feat</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/AdpType.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,132 +32,55 @@
 	  </div>
 	</noscript>
 
-          <h1 id="features">Features</h1>
+          <h2><code>AdpType</code>: adposition type</h2>
 
-<table class="typeindex">
-  <tr>
-    <td>
-      <table class="category">
-        <tr><td><strong>Lexical features</strong></td></tr>
-        <tr>
-          <td><a>PronType</a></td>
-        </tr>
-        <tr>
-          <td><a>NumType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumForm</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NumValue</a></td>
-        </tr>
-        <tr>
-          <td><a>Poss</a></td>
-        </tr>
-        <tr>
-          <td><a>Reflex</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>NameType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>AdpType</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Abbr</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Hyph</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Foreign</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Style</a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-        <tr><td colspan="3"><strong>Inflectional features</strong></td></tr>
-        <tr>
-          <td><i>Nominal</i></td>
-          <td><i>Verbal</i></td>
-        </tr>
-        <tr>
-          <td><a>Gender</a></td>
-          <td><a>VerbForm</a></td>
-        </tr>
-        <tr>
-          <td><a>Animacy</a></td>
-          <td><a>Mood</a></td>
-        </tr>
-        <tr>
-          <td><a>Number</a></td>
-          <td><a>Tense</a></td>
-        </tr>
-        <tr>
-          <td><a>Case</a></td>
-          <td><a>Aspect</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>PrepCase</a></td>
-          <td><a>Voice</a></td>
-        </tr>
-        <tr>
-          <td><strike><tt>Definite</tt></strike></td>
-          <td><a>Person</a></td>
-        </tr>
-        <tr>
-          <td><a>Degree</a></td>
-          <td><a>Negative</a></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Gender[psor]</a><!--PossGender--></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><strong>+</strong><a>Number[psor]</a><!--PossNumber--></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p>Czech has neither postpositions nor circumpositions but there are several forms of <a href="cs-pos/ADP">prepositions</a>
+that this feature distinguishes.</p>
 
-<hr />
+<h3 id="prep-normal-preposition"><code>Prep</code>: (normal) preposition</h3>
 
-<p>Alphabetical listing</p>
+<h4 id="examples">Examples</h4>
 
 <ul>
-  <li><a href="">Abbr</a>: abbreviation</li>
-  <li><a href="">AdpType</a>: adposition type</li>
-  <li><a href="">Animacy</a>: animacy</li>
-  <li><a href="">Aspect</a>: aspect</li>
-  <li><a href="">Case</a>: case</li>
-  <li><a href="">Degree</a>: degree of comparison</li>
-  <li><a href="">Foreign</a>: is this a foreign word?</li>
-  <li><a href="">Gender</a>: gender</li>
-  <li><a href="">Gender[psor]</a>: possessor’s gender</li>
-  <li><a href="">Hyph</a>: hyphenated compound or part of it</li>
-  <li><a href="">Mood</a>: mood</li>
-  <li><a href="">NameType</a>: type of named entity</li>
-  <li><a href="">Negative</a>: whether the word can be or is negated</li>
-  <li><a href="">NumForm</a>: numeral form</li>
-  <li><a href="">NumType</a>: numeral type</li>
-  <li><a href="">NumValue</a>: numeric value</li>
-  <li><a href="">Number</a>: number</li>
-  <li><a href="">Number[psor]</a>: possessor’s number</li>
-  <li><a href="">Person</a>: person</li>
-  <li><a href="">Poss</a>: possessive</li>
-  <li><a href="">PrepCase</a>: case form sensitive to prepositions</li>
-  <li><a href="">PronType</a>: pronominal type</li>
-  <li><a href="">Reflex</a>: reflexive</li>
-  <li><a href="">Style</a>: style or sublanguage to which this word form belongs</li>
-  <li><a href="">Tense</a>: tense</li>
-  <li><a href="">VerbForm</a>: form of verb or deverbative</li>
-  <li><a href="">Voice</a>: voice</li>
+  <li><em><b>v</b></em> “in”, <em><b>na</b></em> “on”, <em><b>o</b></em> “about”, <em><b>z</b></em> “of”, <em><b>s</b></em> “with”, <em><b>do</b></em> “into”, <em><b>k</b></em> “to”, <em><b>pro</b></em> “for”, <em><b>za</b></em> “behind”, <em><b>po</b></em> “after”</li>
 </ul>
+
+<h3 id="voc-vocalized-preposition"><code>Voc</code>: vocalized preposition</h3>
+
+<p>Some Czech prepositions are non-syllabic and their form
+has to be changed in some contexts to facilitate pronunciation.
+Moreover, some syllabic prepositions are altered too, if the following word starts with certain consonant clusters.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<p>The first line shows examples of vocalized preposition forms,
+the second line shows corresponding base forms.</p>
+
+<ul>
+  <li><em><b>ve</b>, <b>se</b>, <b>ze</b>, <b>ke</b>, <b>ode</b>, <b>beze</b>, <b>ku</b>, <b>skrze</b>, <b>přede</b>, <b>nade</b></em></li>
+  <li><em>v, s, z, k, od, bez, k, skrz, před, nad</em></li>
+</ul>
+
+<h3 id="comprep-dependent-part-of-compound-preposition"><code>Comprep</code>: dependent part of compound preposition</h3>
+
+<p>This value marks dependent first part of a compound preposition. This word cannot occur alone.
+Not all compound prepositions contain words marked <code>Comprep</code>.
+Many compound prepositions consist of two normal prepositions and a noun
+(an example is <em>na rozdíl od</em> “in contrast to”).
+Sometimes there are just two words, the second one is normal preposition and the first one
+is a secondary preposition (etymologically some other part of speech, but it has been frozen as
+a preposition).</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em><b>vzhledem</b> k(e)</em> “due to”, <em><b>nehledě</b> na</em> “regardless of”, <em><b>narozdíl</b> od</em> “in contrast to”</li>
+</ul>
+
+
+<!-- "in other languages" links -->
+<hr/>
+
 
 
       </div>
@@ -222,7 +145,7 @@
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'cs-overview';
+        Collections.listing['_current'] = 'cs-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
