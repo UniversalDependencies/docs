@@ -16,3 +16,11 @@ shortdef: 'style'
 #### Examples
 
 * [fi] _wanha_ "old" (archaic form of _vanha_)
+
+## Diffs
+
+### Turku Dependency Treebank
+
+The value `Arch` is not annotated systematically in TDT
+and only very few instances of this value appear in the
+UD Finnish corpus.
