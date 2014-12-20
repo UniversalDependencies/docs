@@ -1,0 +1,185 @@
+---
+layout: base
+title: 'Tagset it::conll conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset it::conll
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>it::conll</tt>, total 166 tags.
+
+<table>
+  <tr style="background:lightgray"><td>A A gen=F|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td><em>piccole, ultime, nuove, politiche, unite</em></td></tr>
+  <tr><td>A A gen=F|num=P|sup=S</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs|Gender=Fem|Number=Plur</td><td><em>personalissime, gravissime, intelligentissime, numerosissime</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=F|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><em>stessa, italiana, ultima, serba, buona</em></td></tr>
+  <tr><td>A A gen=F|num=S|sup=S</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs|Gender=Fem|Number=Sing</td><td><em>ottima, durissima, minima, bellissima, attentissima</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=N</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc</td><td><em>bel, ricordo</em></td></tr>
+  <tr><td>A A gen=M|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td><em>ultimi, italiani, nuovi, buoni, scorsi</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=P|sup=S</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs|Gender=Masc|Number=Plur</td><td><em>pochissimi, ottimi, bellissimi, affollatissimi, densissimi</em></td></tr>
+  <tr><td>A A gen=M|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><em>vero, stesso, nuovo, scorso, lungo</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=M|num=S|sup=S</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs|Gender=Masc|Number=Sing</td><td><em>gravissimo, chiarissimo, bellissimo, ultimissimo, massimo</em></td></tr>
+  <tr><td>A A gen=N|num=N</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>ex, blu, più, anti, Battista</em></td></tr>
+  <tr style="background:lightgray"><td>A A gen=N|num=P</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td><em>grandi, simili, naturali, internazionali, comuni</em></td></tr>
+  <tr><td>A A gen=N|num=S</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td><em>grande, militare, possibile, semplice, facile</em></td></tr>
+  <tr style="background:lightgray"><td>A AP gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs</td><td><em>sue, nostre, proprie, sua, mie</em></td></tr>
+  <tr><td>A AP gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>sua, mia, nostra, propria, tua</em></td></tr>
+  <tr style="background:lightgray"><td>A AP gen=M|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><em>suoi, nostri, miei, propri, tuoi</em></td></tr>
+  <tr><td>A AP gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>suo, mio, nostro, proprio, tuo</em></td></tr>
+  <tr style="background:lightgray"><td>A AP gen=N|num=P</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Poss=Yes|PronType=Prs</td><td><em>loro, sua</em></td></tr>
+  <tr><td>B B _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>non, più, dove, c', solo</em></td></tr>
+  <tr style="background:lightgray"><td>B B sup=S</td><td>=&gt;</td><td>ADV</td><td>Degree=Abs</td><td><em>benissimo, moltissimo, lontanissimo, malissimo</em></td></tr>
+  <tr><td>C C _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>e, che, anche, ma, o</em></td></tr>
+  <tr style="background:lightgray"><td>D DD gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>queste, quelle</em></td></tr>
+  <tr><td>D DD gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>questa, quella, quell', quest'</em></td></tr>
+  <tr style="background:lightgray"><td>D DD gen=M|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>questi, quei, quegli, quest', quelli</em></td></tr>
+  <tr><td>D DD gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>questo, quel, quest', quell', quello</em></td></tr>
+  <tr style="background:lightgray"><td>D DD gen=N|num=S</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><em>tale, tal</em></td></tr>
+  <tr><td>D DE gen=N|num=N</td><td>=&gt;</td><td>DET</td><td>_</td><td><em>CHE, Che</em></td></tr>
+  <tr style="background:lightgray"><td>D DE gen=N|num=P</td><td>=&gt;</td><td>DET</td><td>Number=Plur</td><td><em>quali</em></td></tr>
+  <tr><td>D DI gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Ind,Neg,Tot</td><td><em>altre, tutte, certe, diverse, poche</em></td></tr>
+  <tr style="background:lightgray"><td>D DI gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind,Neg,Tot</td><td><em>tutta, altra, nessuna, molta, tanta</em></td></tr>
+  <tr><td>D DI gen=M|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Ind,Neg,Tot</td><td><em>tutti, altri, pochi, molti, alcuni</em></td></tr>
+  <tr style="background:lightgray"><td>D DI gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Ind,Neg,Tot</td><td><em>tutto, altro, certo, alcun, nessun</em></td></tr>
+  <tr><td>D DI gen=N|num=N</td><td>=&gt;</td><td>DET</td><td>PronType=Ind,Neg,Tot</td><td><em>qualsiasi, poco</em></td></tr>
+  <tr style="background:lightgray"><td>D DI gen=N|num=P</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Ind,Neg,Tot</td><td><em>entrambi</em></td></tr>
+  <tr><td>D DI gen=N|num=S</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind,Neg,Tot</td><td><em>qualche, ogni, qualunque, niente</em></td></tr>
+  <tr style="background:lightgray"><td>D DR gen=N|num=S</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Rel</td><td><em>quale</em></td></tr>
+  <tr><td>D DT gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Int</td><td><em>quante</em></td></tr>
+  <tr style="background:lightgray"><td>D DT gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em>quanta</em></td></tr>
+  <tr><td>D DT gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>qual</em></td></tr>
+  <tr style="background:lightgray"><td>D DT gen=N|num=N</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>che</em></td></tr>
+  <tr><td>D DT gen=N|num=P</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Int</td><td><em>quali</em></td></tr>
+  <tr style="background:lightgray"><td>D DT gen=N|num=S</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Int</td><td><em>quale</em></td></tr>
+  <tr><td>E E _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>di, a, in, per, con</em></td></tr>
+  <tr style="background:lightgray"><td>E E gen=F|num=P</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Fem|Number=Plur</td><td><em>delle, alle, nelle, dalle, sulle</em></td></tr>
+  <tr><td>E E gen=F|num=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Fem|Number=Sing</td><td><em>della, alla, nella, dell', dalla</em></td></tr>
+  <tr style="background:lightgray"><td>E E gen=M|num=P</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Masc|Number=Plur</td><td><em>dei, ai, degli, dai, nei</em></td></tr>
+  <tr><td>E E gen=M|num=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Masc|Number=Sing</td><td><em>del, al, nel, dal, dell'</em></td></tr>
+  <tr style="background:lightgray"><td>E E gen=N|num=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Number=Sing</td><td><em>dall', fino_all', davanti_all', dell', accanto_all'</em></td></tr>
+  <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ah, Grazie, ahimè, Vabbè, eh</em></td></tr>
+  <tr style="background:lightgray"><td>N N _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>3, 99, 1, 2, 8</em></td></tr>
+  <tr><td>N N gen=F|num=P</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>21, 16</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=N|num=S</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>113</em></td></tr>
+  <tr><td>N NO _</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em>ennesimo</em></td></tr>
+  <tr style="background:lightgray"><td>N NO gen=F|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Plur</td><td><em>prime</em></td></tr>
+  <tr><td>N NO gen=F|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Sing</td><td><em>prima, seconda, terza, settima, quarta</em></td></tr>
+  <tr style="background:lightgray"><td>N NO gen=M|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Plur</td><td><em>primi</em></td></tr>
+  <tr><td>N NO gen=M|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Sing</td><td><em>primo, secondo, terzo, quarto, sesto</em></td></tr>
+  <tr style="background:lightgray"><td>P PD gen=F|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>quelle, Queste</em></td></tr>
+  <tr><td>P PD gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>quella, questa, stessa, la</em></td></tr>
+  <tr style="background:lightgray"><td>P PD gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>quelli, questi, stessi</em></td></tr>
+  <tr><td>P PD gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><em>lo, quello, questo, ciò, stesso</em></td></tr>
+  <tr style="background:lightgray"><td>P PD gen=N|num=N</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td><em>ne, ci, ce, Vi, n'</em></td></tr>
+  <tr><td>P PD gen=N|num=P</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Dem</td><td><em>tali, costoro, coloro</em></td></tr>
+  <tr style="background:lightgray"><td>P PI gen=F|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Ind,Neg,Tot</td><td><em>tutte, altre, molte, poche</em></td></tr>
+  <tr><td>P PI gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Ind,Neg,Tot</td><td><em>una, altra, tutta, ciascuna, troppa</em></td></tr>
+  <tr style="background:lightgray"><td>P PI gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Ind,Neg,Tot</td><td><em>tutti, altri, molti, alcuni, tanti</em></td></tr>
+  <tr><td>P PI gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Ind,Neg,Tot</td><td><em>uno, tutto, altro, nessuno, qualcuno</em></td></tr>
+  <tr style="background:lightgray"><td>P PI gen=N|num=N</td><td>=&gt;</td><td>PRON</td><td>PronType=Ind,Neg,Tot</td><td><em>granché</em></td></tr>
+  <tr><td>P PI gen=N|num=P</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Ind,Neg,Tot</td><td><em>entrambi</em></td></tr>
+  <tr style="background:lightgray"><td>P PI gen=N|num=S</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Ind,Neg,Tot</td><td><em>nulla, qualcosa, niente, chiunque, chi</em></td></tr>
+  <tr><td>P PP gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>sua, tua</em></td></tr>
+  <tr style="background:lightgray"><td>P PP gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><em>miei, suoi, tuoi</em></td></tr>
+  <tr><td>P PP gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>tuo, lo, nostro</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=F|num=N</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|PronType=Prs</td><td><em>le</em></td></tr>
+  <tr><td>P PQ gen=F|num=N|per=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Person=3|PronType=Prs</td><td><em>le</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=F|num=P|per=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>esse</em></td></tr>
+  <tr><td>P PQ gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Prs</td><td><em>la, lei</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=F|num=S|per=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em>la, lei, essa, glie-</em></td></tr>
+  <tr><td>P PQ gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Prs</td><td><em>li</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=M|num=P|per=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em>li, essi, glie-</em></td></tr>
+  <tr><td>P PQ gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=M|num=S|per=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em>lo, lui, glie-, egli, esso</em></td></tr>
+  <tr><td>P PQ gen=N|num=N</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td><em>se, sè, ne, n'</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=N|num=N|per=3</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Prs</td><td><em>si, gli, ne, se, s'</em></td></tr>
+  <tr><td>P PQ gen=N|num=P|per=1</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td><em>ci, noi, ce</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=N|num=P|per=2</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td><em>vi, voi</em></td></tr>
+  <tr><td>P PQ gen=N|num=P|per=3</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td><em>loro, ci</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=N|num=S</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Prs</td><td><em>l'</em></td></tr>
+  <tr><td>P PQ gen=N|num=S|per=1</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td><em>mi, io, me, m-, m'</em></td></tr>
+  <tr style="background:lightgray"><td>P PQ gen=N|num=S|per=2</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td><em>ti, te, tu</em></td></tr>
+  <tr><td>P PQ gen=N|num=S|per=3</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs</td><td><em>l'</em></td></tr>
+  <tr style="background:lightgray"><td>P PR gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Rel</td><td><em>quanti</em></td></tr>
+  <tr><td>P PR gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><em>quanto, qual</em></td></tr>
+  <tr style="background:lightgray"><td>P PR gen=N|num=N</td><td>=&gt;</td><td>PRON</td><td>PronType=Rel</td><td><em>che, cui, chi, quale</em></td></tr>
+  <tr><td>P PR gen=N|num=P</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Rel</td><td><em>quali</em></td></tr>
+  <tr style="background:lightgray"><td>P PR gen=N|num=S</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Rel</td><td><em>chi, quale</em></td></tr>
+  <tr><td>P PT gen=M|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>quanto</em></td></tr>
+  <tr style="background:lightgray"><td>P PT gen=N|num=N</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td><em>che, CHI</em></td></tr>
+  <tr><td>P PT gen=N|num=S</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td><em>chi</em></td></tr>
+  <tr style="background:lightgray"><td>PU PU _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, ., ", :, )</em></td></tr>
+  <tr><td>R RD gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><em>le</em></td></tr>
+  <tr style="background:lightgray"><td>R RD gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><em>la</em></td></tr>
+  <tr><td>R RD gen=M|num=P</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><em>i, gli</em></td></tr>
+  <tr style="background:lightgray"><td>R RD gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><em>il, lo</em></td></tr>
+  <tr><td>R RD gen=N|num=S</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Sing|PronType=Art</td><td><em>l'</em></td></tr>
+  <tr style="background:lightgray"><td>R RI gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><em>una, un'</em></td></tr>
+  <tr><td>R RI gen=M|num=S</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><em>un, uno, il</em></td></tr>
+  <tr style="background:lightgray"><td>S S gen=F|num=N</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem</td><td><em>città, società, verità, attività, serie</em></td></tr>
+  <tr><td>S S gen=F|num=P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td><em>persone, donne, volte, lire, ore</em></td></tr>
+  <tr style="background:lightgray"><td>S S gen=F|num=S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td><em>volta, parte, casa, vita, cosa</em></td></tr>
+  <tr><td>S S gen=M|num=N</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc</td><td><em>cinema, film, gol, test, bar</em></td></tr>
+  <tr style="background:lightgray"><td>S S gen=M|num=P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Plur</td><td><em>anni, giorni, chilometri, uomini, metri</em></td></tr>
+  <tr><td>S S gen=M|num=S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td><em>presidente, anno, giorno, mondo, tempo</em></td></tr>
+  <tr style="background:lightgray"><td>S S gen=N|num=N</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>sub, leader, punk, fuorilegge, fan</em></td></tr>
+  <tr><td>S S gen=N|num=P</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td><em>giovani, agenti, ospiti, civili, militari</em></td></tr>
+  <tr style="background:lightgray"><td>S S gen=N|num=S</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td><em>ordine, fronte, giornalista, regista, carcere</em></td></tr>
+  <tr><td>S SP gen=N|num=N</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Italia, Milano, Nanni, Mayo, Allende</em></td></tr>
+  <tr style="background:lightgray"><td>S SW gen=N|num=N</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Yes</td><td><em>publishing, desktop, le, hard, talk_show</em></td></tr>
+  <tr><td>SA SA gen=N|num=N</td><td>=&gt;</td><td>NOUN</td><td>Abbr=Yes</td><td><em>L., mq, km, cm, tel.</em></td></tr>
+  <tr style="background:lightgray"><td>V V gen=F|num=P|mod=P|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>state, realizzate, fatte, date, arrivate</em></td></tr>
+  <tr><td>V V gen=F|num=S|mod=P|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>stata, finita, arrivata, uscita, fatta</em></td></tr>
+  <tr style="background:lightgray"><td>V V gen=M|num=P|mod=P|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>stati, fatti, rimasti, morti, andati</em></td></tr>
+  <tr><td>V V gen=M|num=S|mod=P|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>stato, fatto, detto, venduto, visto</em></td></tr>
+  <tr style="background:lightgray"><td>V V gen=N|num=P|mod=P|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Tense=Pres|VerbForm=Part</td><td><em>appartenenti, smarcanti, addolcenti, provenienti, frequentanti</em></td></tr>
+  <tr><td>V V gen=N|num=S|mod=P|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Tense=Pres|VerbForm=Part</td><td><em>rigenerante, paralizzante, Riscaldante, vincolante, terrorizzante</em></td></tr>
+  <tr style="background:lightgray"><td>V V mod=F</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>essere, fare, dire, aver, avere</em></td></tr>
+  <tr><td>V V mod=G</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Ger</td><td><em>portando, cercando, lavorando, dando, parlando</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=1|mod=C|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>fossimo</em></td></tr>
+  <tr><td>V V num=P|per=1|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>diciamo-, Diciamo, Intendiamo-, attendiamo, nascondiamo-</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=1|mod=D|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>dovremmo, vorremmo, saremmo, avremmo, potremmo</em></td></tr>
+  <tr><td>V V num=P|per=1|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>vedremo, continueremo, eseguiremo, sposeremo, voteremo</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=1|mod=I|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>giocavamo, eravamo, collaudavamo, avevamo, avanzavamo</em></td></tr>
+  <tr><td>V V num=P|per=1|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>abbiamo, siamo, possiamo, stiamo, veniamo</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=1|mod=I|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin</td><td><em>destinammo, pagammo</em></td></tr>
+  <tr><td>V V num=P|per=2|mod=C|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin</td><td><em>Sapeste</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=2|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>Venite, Cercate</em></td></tr>
+  <tr><td>V V num=P|per=2|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>Vedrete, dovrete</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=2|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>avete, scusate, sapete, fate, potete</em></td></tr>
+  <tr><td>V V num=P|per=2|mod=M|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>state, Fate-, Sospendete, andate, prendete</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=3|mod=C|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>fossero, diventassero, venissero, studiassero, giocassero</em></td></tr>
+  <tr><td>V V num=P|per=3|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>siano, facciano, abbiano, possano, rimettano</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=3|mod=D|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sarebbero, potrebbero, dovrebbero, avrebbero, commetterebbero</em></td></tr>
+  <tr><td>V V num=P|per=3|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>saranno, torneranno, dovranno, potranno, verranno</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=3|mod=I|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>erano, avevano, stavano, volevano, venivano</em></td></tr>
+  <tr><td>V V num=P|per=3|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sono, hanno, possono, stanno, fanno</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=P|per=3|mod=I|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><em>furono, fecero, videro, cacciarono, vennero</em></td></tr>
+  <tr><td>V V num=S|per=1|mod=C|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>incontrassi</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=1|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>venga, sposi</em></td></tr>
+  <tr><td>V V num=S|per=1|mod=D|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>direi, vorrei, avrei, cederei, arrabbierei</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=1|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>farò, sarò, crederò, terrò, cercherò</em></td></tr>
+  <tr><td>V V num=S|per=1|mod=I|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><em>avevo, sentivo, ero, volevo, andavo</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=1|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>ho, sono, so, voglio, sento</em></td></tr>
+  <tr><td>V V num=S|per=1|mod=I|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</td><td><em>riaprii, Consegnai, Rimasi, passai, Entrai</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=2|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>permetta, pensaci</em></td></tr>
+  <tr><td>V V num=S|per=2|mod=D|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>stupiresti</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=2|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>morirai, ammetterà, sentirai, vedrai</em></td></tr>
+  <tr><td>V V num=S|per=2|mod=I|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin</td><td><em>puoi, Dovevi</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=2|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>sei, hai, puoi, senti, vuoi</em></td></tr>
+  <tr><td>V V num=S|per=2|mod=M|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>vedi, Idrata-, ricorda-, rilassati, cerca</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=3|mod=C|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>fosse, avesse, venisse, accadesse, bastasse</em></td></tr>
+  <tr><td>V V num=S|per=3|mod=C|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sia, possa, abbia, vada, venga</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=3|mod=D|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>sarebbe, potrebbe, avrebbe, dovrebbe, vorrebbe</em></td></tr>
+  <tr><td>V V num=S|per=3|mod=I|tmp=F</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>sarà, farà, dovrà, potrà, verrà</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=3|mod=I|tmp=I</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><em>era, aveva, voleva, cercava, stava</em></td></tr>
+  <tr><td>V V num=S|per=3|mod=I|tmp=P</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>è, ha, può, fa, dice</em></td></tr>
+  <tr style="background:lightgray"><td>V V num=S|per=3|mod=I|tmp=R</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><em>fu, fece, venne, disse, vide</em></td></tr>
+  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>/, d', 6', 34', 11'06''</em></td></tr>
+</table>
