@@ -220,18 +220,29 @@ punct(面白い, 。)
 
 <p>Since the first <em>as</em> is a functional element, the dependent can be understood to modify the whole phrase <em>as often</em>, and therefore is attached to the head of that phrase. Additionally, it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as <em>So don’t worry if you think that you have a girl-friend, who is intelligent than you.</em> One further argument from morphological comparatives is discussed below.</p>
 
-<p>The same basic analysis is given for inequality scalar comparatives, with <em>more</em> or <em>less</em> or a comparative adjective and <em>than</em>, parallel to the two uses of <em>as</em> above, except that <em>more</em> can also directly modify a noun, and is then taken to have the <a href="">u-dep/amod</a> relation to the noun.</p>
+<p>The same basic analysis is given for inequality scalar comparatives, with <em>more</em> or <em>less</em> or a comparative adjective and <em>than</em>, parallel to the two uses of <em>as</em> above, except that <em>more</em> can also directly modify a noun, and <em>more_is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on _more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
 
-<pre><code class="language-sdparse">more sausages than you bought last week
-amod(sausages, more)
-advcl(sausages, bought)
-mark(bought, than)
+<pre><code class="language-sdparse">more problems than you thought of last week
+amod(problems, more)
+advcl(more, thought)
+mark(thought, than)
 </code></pre>
 
 <pre><code class="language-sdparse">more important than you thought
 advmod(important, more)
 advcl(important, thought)
 mark(thought, than)
+</code></pre>
+
+<pre><code class="language-sdparse">more rapidly than you thought
+advmod(rapidly, more)
+advcl(rapidly, thought)
+</code></pre>
+
+<pre><code class="language-sdparse">a more difficult problem than you thought
+advmod(difficult, more)
+amod(problem, difficult)
+advcl(difficult, thought)
 </code></pre>
 
 <p>In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the <em>than</em> clause to <em>more</em>: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like <em>more intelligent</em> and a morphological comparative like <em>taller</em> (even though in bound morpheme cases, the <em>-er</em> could be argued to be the comparative head).</p>
