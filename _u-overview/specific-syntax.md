@@ -192,13 +192,13 @@ punct(面白い, 。)
 
 Since the first _as_ is a functional element, the dependent can be understood to modify the whole phrase _as often_, and therefore is attached to the head of that phrase. Additionally, it might be noted that comparatives without a comparative word occur in certain varieties of English. For example in Indian English you find usages such as _So don't worry if you think that you have a girl-friend, who is intelligent than you._ One further argument from morphological comparatives is discussed below.
 
-The same basic analysis is given for inequality scalar comparatives, with _more_ or _less_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and is then taken to have the [u-dep/amod]() relation to the noun.
+The same basic analysis is given for inequality scalar comparatives, with _more_ or _less_ or a comparative adjective and _than_, parallel to the two uses of _as_ above, except that _more_ can also directly modify a noun, and _more_is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
 
 ~~~ sdparse
-more sausages than you bought last week
-amod(sausages, more)
-advcl(sausages, bought)
-mark(bought, than)
+more problems than you thought of last week
+amod(problems, more)
+advcl(more, thought)
+mark(thought, than)
 ~~~
 
 ~~~ sdparse
@@ -206,6 +206,19 @@ more important than you thought
 advmod(important, more)
 advcl(important, thought)
 mark(thought, than)
+~~~
+
+~~~ sdparse
+more rapidly than you thought
+advmod(rapidly, more)
+advcl(rapidly, thought)
+~~~
+
+~~~ sdparse
+a more difficult problem than you thought
+advmod(difficult, more)
+amod(problem, difficult)
+advcl(difficult, thought)
 ~~~
 
 In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the _than_ clause to _more_: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like _more intelligent_ and a morphological comparative like _taller_ (even though in bound morpheme cases, the _-er_ could be argued to be the comparative head).
