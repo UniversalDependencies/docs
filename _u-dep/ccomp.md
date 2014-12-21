@@ -5,7 +5,7 @@ shortdef: 'clausal complement'
 ---
 
 A clausal complement of a verb or adjective is a dependent clause 
-which functions like an object of the verb, or
+which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
@@ -13,20 +13,10 @@ He says that you like to swim
 ccomp(says, like)
 ~~~
 
-Clausal complements for nouns are limited to complement
-clauses with a subset of nouns like *fact* or *report*.  We analyze
-them the same (parallel to the analysis of this class as "content
-clauses" in Huddleston and Pullum 2002).
-
-~~~ sdparse
-the fact that nobody cares
-ccomp(fact, cares)
-~~~
-
 Such clausal complements may be finite or nonfinite. However, if the
 subject of the clausal complement is controlled (that is, must be the same
 as the higher subject or object, with no other possible interpretation)
-the appropriate relation is `xcomp`.
+the appropriate relation is [xcomp]().
 
 ~~~ sdparse
 The boss said to start digging
@@ -55,4 +45,9 @@ The problem is that this has never been tried .
 ccomp(is, tried)
 ~~~
 
-(In these cases, the copula is treated as a head.)
+(In these cases, the copula is treated as a head. This is a somewhat inconsistent and ugly feature of the current UD. An alternative solution was adopted for this case in the Turku TDT. It may be worth considering adopting it in a revision of UD.)
+
+_Note:_ In earlier versions of SD/USD, complement
+clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. 
+However, we now analyze them as [acl](). Hence, `ccomp` does not appear in nominals.
+This makes sense, since nominals normally do not take core arguments.
