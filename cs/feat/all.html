@@ -108,12 +108,16 @@
           <td><a>Voice</a></td>
         </tr>
         <tr>
-          <td><strike><tt>Definite</tt></strike></td>
+          <td><strong>+</strong><a>Variant</a></td>
           <td><a>Person</a></td>
         </tr>
         <tr>
-          <td><a>Degree</a></td>
+          <td><strike><tt>Definite</tt></strike></td>
           <td><a>Negative</a></td>
+        </tr>
+        <tr>
+          <td><a>Degree</a></td>
+          <td></td>
         </tr>
         <tr>
           <td><strong>+</strong><a>Gender[psor]</a><!--PossGender--></td>
@@ -1565,6 +1569,52 @@ at the infinitive.</li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Tense.md" target="#">edit Tense</a></p>
+
+<p><a id="al-cs-feat/Variant" class="al-dest"></a></p>
+<h2><code>Variant</code>: alternative form of word</h2>
+
+<p>Sometimes there are multiple word forms for the same lemma and set of features.
+The <code>Variant</code> feature helps distinguish alternate forms.</p>
+
+<p>In Czech there are two groups of words where double forms are regular and worth capturing:
+short forms of <a href="cs-pos/ADJ">adjectives</a> and short (clitic) forms of personal <a href="cs-pos/PRON">pronouns</a>.
+This feature only marks the non-standard short forms, hence there is only one value, <code>Short</code>.
+For the long standard forms the <code>Variant</code> feature remains unspecified.</p>
+
+<h3 id="short-short-form-of-adjectives"><code>Short</code>: short form of adjectives</h3>
+
+<p>The short form is called <em>nominal form of adjective (jmenný tvar přídavného jména),</em>
+as opposed to the long form, which is <em>pronominal</em> because it originated as
+a combination of a nominal form and a personal pronoun. But this is ancient history of the
+language. In modern Czech, only a subset of the nominal forms survive, and using them sometimes sounds
+slightly archaic. They are used as nominal predicates with copula, but they do not appear as premodifiers of nouns.
+The pronominal forms are considered standard, except for two frequent adjectives that
+do not have them: <em><b>třeba</b>, <b>rád</b>.</em></p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>možno</b></em> “possible”, <em><b>schopen</b></em> “able”, <em><b>nutno</b></em> “necessary”, <em><b>znám</b></em> “known”,
+<em><b>spokojen</b></em> “satisfied”, <em><b>povinen</b></em> “supposed to”, <em><b>ochoten</b></em> “willing”,
+<em><b>jist</b> “sure”, _<b>vědom</b></em> “knowing”, <em><b>přítomen</b></em> “present”, <em><b>roven</b></em> “equal”,
+<em><b>patrno</b></em> “apparent”, <em><b>hotov</b></em> “finished”, <em><b>spjat</b></em> “connected”, <em><b>vinen</b></em> “guilty”</li>
+  <li>Long equivalents: <em>možné, schopný, nutné, známý, spokojený, povinný, ochotný, jistý, vědomý, přítomný, rovný, patrný, hotový, spjatý, vinný</em></li>
+</ul>
+
+<h3 id="short-short-clitic-form-of-personal-pronouns"><code>Short</code>: short (clitic) form of personal pronouns</h3>
+
+<p>Some personal pronouns in dative and accusative <a href="">Case</a> have double forms.
+The normal (long) form is more independent in terms of positions it can take in word order.
+The short forms are clitics (<a href="http://cs.wikipedia.org/wiki/P%C5%99%C3%ADklonka">http://cs.wikipedia.org/wiki/P%C5%99%C3%ADklonka</a>).
+They are separate words (unlike in some other languages) but in the word order they usually stick to the second position.</p>
+
+<ul>
+  <li><em><b>mi</b>, <b>mě</b>, <b>ti</b>, <b>tě</b>, <b>mu</b>, <b>ho</b>, <b>si</b>, <b>se</b></em></li>
+  <li><em>mně, mne, tobě, tebe, jemu, jeho, sobě, sebe</em></li>
+  <li>“me, me, you, you, him, him, oneself, oneself”</li>
+</ul>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-feat/Variant.md" target="#">edit Variant</a></p>
 
 <p><a id="al-cs-feat/VerbForm" class="al-dest"></a></p>
 <h2><code>VerbForm</code>: form of verb or deverbative</h2>
