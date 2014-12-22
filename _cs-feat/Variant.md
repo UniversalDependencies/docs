@@ -26,9 +26,9 @@ do not have them: _<b>třeba</b>, <b>rád</b>._
 
 * _<b>možno</b>_ “possible”, _<b>schopen</b>_ “able”, _<b>nutno</b>_ “necessary”, _<b>znám</b>_ “known”,
   _<b>spokojen</b>_ “satisfied”, _<b>povinen</b>_ “supposed to”, _<b>ochoten</b>_ “willing”,
-  _<b>jist</b> “sure”, _<b>vědom</b>_ “knowing”, _<b>přítomen</b>_ “present”, _<b>roven</b>_ “equal”,
+  _<b>jist</b>_ “sure”, _<b>vědom</b>_ “knowing”, _<b>přítomen</b>_ “present”, _<b>roven</b>_ “equal”,
   _<b>patrno</b>_ “apparent”, _<b>hotov</b>_ “finished”, _<b>spjat</b>_ “connected”, _<b>vinen</b>_ “guilty”
-* Long equivalents: _možné, schopný, nutné, známý, spokojený, povinný, ochotný, jistý, vědomý, přítomný, rovný, patrný, hotový, spjatý, vinný_
+* Long equivalents: _možné, schopný, nutné, známý, spokojený, povinný, ochotný, jistý, vědomý, přítomný, rovný, patrné, hotový, spjatý, vinný_
 
 ### `Short`: short (clitic) form of personal pronouns
 
