@@ -1,4 +1,3 @@
----
 layout: base
 title:  'Introduction'
 permalink: it/overview/introduction.html
@@ -24,20 +23,14 @@ The final conversion step, leading to UD, is in progress. A first release is exp
 ## Corpus composition
 
 <table>
-<tr><th>Original format</th><th>Source</th><th>Genre</th><th>Size in tokens</th><th>Size in sentences</th>
+<tr style="background-color: #eee"><th>Original format</th><th>Source</th><th>Genre</th><th>Size in tokens</th><th>Size in sentences</th>
 </tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, codciv</td><td>Legal texts</td><td>30747</td><td>1250</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, costita</td><td>Legal texts
-</td><td>12703</td><td>682</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, eudir</td><td>Legal texts</td><td>6949</td><td>201</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, news</td><td>Newspaper articles from "Corriere della sera" and periodicals</td><td>19301</td><td>775</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, vedch</td><td>Sentences including the verbs "vedere" and "chiamare"</td><td>12045</td><td>400</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, wiki</td><td>Wikipedia articles</td><td>15813</td><td>534</td></tr>
-<tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80990</td><td>4136</td></tr>
-<tr><td>ISST-TANL</td><td>SPLeT 2012, European directives</td><td>Legal texts</td><td>5922</td><td>260</td></tr>
-<tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>21968</td><td>2228</td></tr>
-<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing: test data set (partial)</td><td>News articles</td><td>7386</td><td>304</td></tr>
-<tr><td></td><td></td><td>TOTAL</td><td>213829</td><td>10770</td></tr>
+<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing</td><td>Legal texts, news articles, Wikipedia articles</td><td>97,558</td><td>3,842</td></tr>
+<tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80,990</td><td>4,136</td></tr>
+<tr><td>ISST-TANL</td><td>SPLeT 2012 </td><td>Legal texts: European directives</td><td>5,922</td><td>260</td></tr>
+<tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>21,968</td><td>2,228</td></tr>
+<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing: test data set (partial)</td><td>News articles</td><td>7,386</td><td>304</td></tr>
+<tr><td></td><td></td><td>TOTAL</td><td><b>213,829</b></td><td><b>10,770</b></td></tr>
 </table>
 
 ## Acknowledgments
@@ -62,7 +55,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf). 
   In *COLING Workshop on Cross-framework and Cross-domain Parser Evaluation*.
 
-* Marie-Catherine de Marneffe, Connor M., Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning: 		More constructions, more genres: Extending Stanford Dependencies. *Proc. of the Second International Conference 	on Dependency Linguistics* (DepLing 2013), Prague, August 27–30, 2013, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.
+* Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning. 2013. [More constructions, more genres: Extending Stanford Dependencies] (https://www.aclweb.org/anthology/W/W13/W13-37.pdf), *Proc. of the Second International Conference on Dependency Linguistics* (DepLing 2013), Prague, August 27–30, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.
   
 * Marie-Catherine de Marneffe and Christopher D. Manning. 2013. [Stanford typed dependencies manual](http://nlp.stanford.edu/software/dependencies_manual.pdf), 
 	September 2008, Revised for the Stanford Parser v. 3.3 in December 2013. 
@@ -87,7 +80,8 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 * Maria Simi, Cristina Bosco, Simonetta Montemagni. 2014. [Less is More? Towards a Reduced
 	Inventory of Categories for Training a Parser for the
-	Italian Stanford Dependencies][http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html). 2014. In 			*Proceedings of LREC 2014*, ELRA, pp. 83–90.
+	Italian Stanford Dependencies](http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html). 2014. In *Proceedings of LREC 2014*, ELRA, pp. 83–90.
+
 
 
 
