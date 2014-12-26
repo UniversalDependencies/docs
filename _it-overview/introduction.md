@@ -55,33 +55,19 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf). 
   In *COLING Workshop on Cross-framework and Cross-domain Parser Evaluation*.
 
-* Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning. 2013. [More constructions, more genres: Extending Stanford Dependencies] (https://www.aclweb.org/anthology/W/W13/W13-37.pdf), *Proc. of the Second International Conference on Dependency Linguistics* (DepLing 2013), Prague, August 27–30, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.
+* Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning. 2013. [More constructions, more genres: Extending Stanford Dependencies](https://www.aclweb.org/anthology/W/W13/W13-37.pdf), *Proc. of the Second International Conference on Dependency Linguistics* (DepLing 2013), Prague, August 27–30, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.
   
 * Marie-Catherine de Marneffe and Christopher D. Manning. 2013. [Stanford typed dependencies manual](http://nlp.stanford.edu/software/dependencies_manual.pdf), 
 	September 2008, Revised for the Stanford Parser v. 3.3 in December 2013. 
 
 * Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
   Haverinen, Filip Ginter, Joakim Nivre, Christopher Manning. 2014.
-  [Universal Stanford Dependencies: A cross-linguistic
-  typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
+  [Universal Stanford Dependencies: A cross-linguistic typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
   In *Proceedings of LREC 2014*.
   
-<!-- 
-* S. Montemagni, F. Barsotti, M. Battista, N. Calzolari,
-	O. Corazzari, A. Lenci, A. Zampolli, F. Fanciulli,
-	M. Massetani, R. Raffaelli, R. Basili, M. T. Pazienza,
-	D. Saracino, F. Zanzotto, N. Mana, F. Pianesi, and
-	R. Delmonte. 2003. Building the Italian Syntactic-
-	Semantic Treebank. In A. Abeill´e, editor, Building and
-	Using syntactically annotated corpora. Kluwer.
--->
-* Simonetta Montemagni, Maria Simi. 2007. [The Italian dependency
-	annotated corpus developed for the CoNLL–2007
-	shared task](http://medialab.di.unipi.it/isst/). Technical report, ILC–CNR.
+* Simonetta Montemagni, Maria Simi. 2007. [The Italian dependency annotated corpus developed for the CoNLL–2007 shared task](http://medialab.di.unipi.it/isst/). Technical report, ILC–CNR.
 
-* Maria Simi, Cristina Bosco, Simonetta Montemagni. 2014. [Less is More? Towards a Reduced
-	Inventory of Categories for Training a Parser for the
-	Italian Stanford Dependencies](http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html). 2014. In *Proceedings of LREC 2014*, ELRA, pp. 83–90.
+* Maria Simi, Cristina Bosco, Simonetta Montemagni. 2014. [Less is More? Towards a Reduced Inventory of Categories for Training a Parser for the Italian Stanford Dependencies](http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html). 2014. In *Proceedings of LREC 2014*, ELRA, pp. 83–90.
 
 
 
