@@ -5,13 +5,13 @@ permalink: it/overview/introduction.html
 
 # Introduction
 
-The Italian corpus, annotated according to the UD annotation scheme, was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).
+The Italian corpus annotated according to the UD annotation scheme was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).
 
-ISDT is a resource annotated according to the Stanford dependencies scheme (de Marneffe and Manning 2008, 2013a, 2013b; de Marneffe 2014), obtained through a semi-automatic conversion process starting from MIDT (the Merged Italian Dependency Treebank).
+ISDT is a resource annotated according to the Stanford dependencies scheme (de Marneffe et al. 2008, 2013a, 2013b, 2014), obtained through a semi-automatic conversion process starting from MIDT (the Merged Italian Dependency Treebank).
 MIDT in turn was obtained merging two existing Italian treebanks, differing both in corpus composition and adopted annotation schemes: 
 
-* TUT (the Turin University Treebank) (Bosco et al. 2000)
-* ISST-TANL (an evolution of a subset of ISST (Montemagni et al. 2003), first released as ISST-CoNLL for CoNLL-2007 (Montemagni, Simi 2007).
+* TUT, the Turin University Treebank (Bosco et al. 2000)
+* ISST-TANL, first released as ISST-CoNLL for the CoNLL-2007 shared task (Montemagni, Simi 2007).
 
 The details of the harmonization and conversion process leading to MIDT were discussed in (Bosco, Montemagni, Simi, 2012). 
 The Stanford annotation scheme, obtained from an enriched version of MIDT,
@@ -29,7 +29,7 @@ The final conversion step, leading to UD, is in progress. A first release is exp
 <tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80,990</td><td>4,136</td></tr>
 <tr><td>ISST-TANL</td><td>SPLeT 2012 </td><td>Legal texts: European directives</td><td>5,922</td><td>260</td></tr>
 <tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>21,968</td><td>2,228</td></tr>
-<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing: test data set (partial)</td><td>News articles</td><td>7,386</td><td>304</td></tr>
+<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>7,386</td><td>304</td></tr>
 <tr><td></td><td></td><td>TOTAL</td><td><b>213,829</b></td><td><b>10,770</b></td></tr>
 </table>
 
@@ -60,6 +60,13 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 * Marie-Catherine de Marneffe and Christopher D. Manning. 2013. [Stanford typed dependencies manual](http://nlp.stanford.edu/software/dependencies_manual.pdf), 
 	September 2008, Revised for the Stanford Parser v. 3.3 in December 2013. 
 
+* Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
+  Haverinen, Filip Ginter, Joakim Nivre, Christopher Manning. 2014.
+  [Universal Stanford Dependencies: A cross-linguistic
+  typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
+  In *Proceedings of LREC 2014*.
+  
+<!-- 
 * S. Montemagni, F. Barsotti, M. Battista, N. Calzolari,
 	O. Corazzari, A. Lenci, A. Zampolli, F. Fanciulli,
 	M. Massetani, R. Raffaelli, R. Basili, M. T. Pazienza,
@@ -67,13 +74,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 	R. Delmonte. 2003. Building the Italian Syntactic-
 	Semantic Treebank. In A. Abeill´e, editor, Building and
 	Using syntactically annotated corpora. Kluwer.
-	
-* Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
-  Haverinen, Filip Ginter, Joakim Nivre, Christopher Manning. 2014.
-  [Universal Stanford Dependencies: A cross-linguistic
-  typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
-  In *Proceedings of LREC 2014*.
-
+-->
 * Simonetta Montemagni, Maria Simi. 2007. [The Italian dependency
 	annotated corpus developed for the CoNLL–2007
 	shared task](http://medialab.di.unipi.it/isst/). Technical report, ILC–CNR.
