@@ -34,14 +34,14 @@
 
           <h1 id="introduction">Introduction</h1>
 
-<p>The Italian corpus, annotated according to the UD annotation scheme, was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).</p>
+<p>The Italian corpus annotated according to the UD annotation scheme was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).</p>
 
-<p>ISDT is a resource annotated according to the Stanford dependencies scheme (de Marneffe and Manning 2008, 2013a, 2013b; de Marneffe 2014), obtained through a semi-automatic conversion process starting from MIDT (the Merged Italian Dependency Treebank).
+<p>ISDT is a resource annotated according to the Stanford dependencies scheme (de Marneffe et al. 2008, 2013a, 2013b, 2014), obtained through a semi-automatic conversion process starting from MIDT (the Merged Italian Dependency Treebank).
 MIDT in turn was obtained merging two existing Italian treebanks, differing both in corpus composition and adopted annotation schemes: </p>
 
 <ul>
-  <li>TUT (the Turin University Treebank) (Bosco et al. 2000)</li>
-  <li>ISST-TANL (an evolution of a subset of ISST (Montemagni et al. 2003), first released as ISST-CoNLL for CoNLL-2007 (Montemagni, Simi 2007).</li>
+  <li>TUT, the Turin University Treebank (Bosco et al. 2000)</li>
+  <li>ISST-TANL, first released as ISST-CoNLL for the CoNLL-2007 shared task (Montemagni, Simi 2007).</li>
 </ul>
 
 <p>The details of the harmonization and conversion process leading to MIDT were discussed in (Bosco, Montemagni, Simi, 2012). 
@@ -54,20 +54,14 @@ We refer to (Bosco, Montemagni, Simi, 2013 and 2014) for a discussion. </p>
 <h2 id="corpus-composition">Corpus composition</h2>
 
 <table>
-<tr><th>Original format</th><th>Source</th><th>Genre</th><th>Size in tokens</th><th>Size in sentences</th>
+<tr style="background-color: #eee"><th>Original format</th><th>Source</th><th>Genre</th><th>Size in tokens</th><th>Size in sentences</th>
 </tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, codciv</td><td>Legal texts</td><td>30747</td><td>1250</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, costita</td><td>Legal texts
-</td><td>12703</td><td>682</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, eudir</td><td>Legal texts</td><td>6949</td><td>201</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, news</td><td>Newspaper articles from "Corriere della sera" and periodicals</td><td>19301</td><td>775</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, vedch</td><td>Sentences including the verbs "vedere" and "chiamare"</td><td>12045</td><td>400</td></tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing, wiki</td><td>Wikipedia articles</td><td>15813</td><td>534</td></tr>
-<tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80990</td><td>4136</td></tr>
-<tr><td>ISST-TANL</td><td>SPLeT 2012, European directives</td><td>Legal texts</td><td>5922</td><td>260</td></tr>
-<tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>21968</td><td>2228</td></tr>
-<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing: test data set (partial)</td><td>News articles</td><td>7386</td><td>304</td></tr>
-<tr><td></td><td></td><td>TOTAL</td><td>213829</td><td>10770</td></tr>
+<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing</td><td>Legal texts, news articles, Wikipedia articles</td><td>97,558</td><td>3,842</td></tr>
+<tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80,990</td><td>4,136</td></tr>
+<tr><td>ISST-TANL</td><td>SPLeT 2012 </td><td>Legal texts: European directives</td><td>5,922</td><td>260</td></tr>
+<tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>21,968</td><td>2,228</td></tr>
+<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>7,386</td><td>304</td></tr>
+<tr><td></td><td></td><td>TOTAL</td><td><b>213,829</b></td><td><b>10,770</b></td></tr>
 </table>
 
 <h2 id="acknowledgments">Acknowledgments</h2>
@@ -99,37 +93,23 @@ We refer to (Bosco, Montemagni, Simi, 2013 and 2014) for a discussion. </p>
 In <em>COLING Workshop on Cross-framework and Cross-domain Parser Evaluation</em>.</p>
   </li>
   <li>
-    <p>Marie-Catherine de Marneffe, Connor M., Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning: 		More constructions, more genres: Extending Stanford Dependencies. <em>Proc. of the Second International Conference 	on Dependency Linguistics</em> (DepLing 2013), Prague, August 27–30, 2013, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.</p>
+    <p>Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Bowman S. R., Timothy Dozat, Christopher D. Manning. 2013. <a href="https://www.aclweb.org/anthology/W/W13/W13-37.pdf">More constructions, more genres: Extending Stanford Dependencies</a>, <em>Proc. of the Second International Conference on Dependency Linguistics</em> (DepLing 2013), Prague, August 27–30, Charles University in Prague, Matfyzpress, Prague, pp. 187–196.</p>
   </li>
   <li>
     <p>Marie-Catherine de Marneffe and Christopher D. Manning. 2013. <a href="http://nlp.stanford.edu/software/dependencies_manual.pdf">Stanford typed dependencies manual</a>, 
   September 2008, Revised for the Stanford Parser v. 3.3 in December 2013. </p>
   </li>
   <li>
-    <p>S. Montemagni, F. Barsotti, M. Battista, N. Calzolari,
-  O. Corazzari, A. Lenci, A. Zampolli, F. Fanciulli,
-  M. Massetani, R. Raffaelli, R. Basili, M. T. Pazienza,
-  D. Saracino, F. Zanzotto, N. Mana, F. Pianesi, and
-  R. Delmonte. 2003. Building the Italian Syntactic-
-  Semantic Treebank. In A. Abeill´e, editor, Building and
-  Using syntactically annotated corpora. Kluwer.</p>
-  </li>
-  <li>
     <p>Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
 Haverinen, Filip Ginter, Joakim Nivre, Christopher Manning. 2014.
-<a href="http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf">Universal Stanford Dependencies: A cross-linguistic
-typology</a>.
+<a href="http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf">Universal Stanford Dependencies: A cross-linguistic typology</a>.
 In <em>Proceedings of LREC 2014</em>.</p>
   </li>
   <li>
-    <p>Simonetta Montemagni, Maria Simi. 2007. <a href="http://medialab.di.unipi.it/isst/">The Italian dependency
-  annotated corpus developed for the CoNLL–2007
-  shared task</a>. Technical report, ILC–CNR.</p>
+    <p>Simonetta Montemagni, Maria Simi. 2007. <a href="http://medialab.di.unipi.it/isst/">The Italian dependency annotated corpus developed for the CoNLL–2007 shared task</a>. Technical report, ILC–CNR.</p>
   </li>
   <li>
-    <p>Maria Simi, Cristina Bosco, Simonetta Montemagni. 2014. [Less is More? Towards a Reduced
-  Inventory of Categories for Training a Parser for the
-  Italian Stanford Dependencies][http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html). 2014. In 			<em>Proceedings of LREC 2014</em>, ELRA, pp. 83–90.</p>
+    <p>Maria Simi, Cristina Bosco, Simonetta Montemagni. 2014. <a href="http://www.lrec-conf.org/proceedings/lrec2014/summaries/818.html">Less is More? Towards a Reduced Inventory of Categories for Training a Parser for the Italian Stanford Dependencies</a>. 2014. In <em>Proceedings of LREC 2014</em>, ELRA, pp. 83–90.</p>
   </li>
 </ul>
 
