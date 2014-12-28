@@ -19,7 +19,7 @@ Irish numbers are split into three categories: cardinal, ordinal and personal. T
 * _a hocht a chlog_ "8 o'clock"
 * _11ú céad_ "11th century"
 * _dhá theanga_ "two languages"
-* _an dara huair_ "the second year"
+* _an dara huair_ "the second time"
 * _cuig ghlúin_ "five generations"
 * _cúigear_ "five people"
 * _cúigear fear_ "five men"
