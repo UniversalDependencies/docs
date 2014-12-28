@@ -4,11 +4,11 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-###### Description
+#### Description
 
 Adjectives typically modify nouns. In Irish, the adjective follows the noun, and agrees in number, gender and case.
 
-###### Examples
+#### Examples
 
 * _lacha_ _bhuí_  "yellow ducks"   
   (_buí_)
