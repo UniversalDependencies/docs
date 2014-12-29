@@ -27,6 +27,6 @@ punct(sanoisi-5, ?-6)
 ~~~
 
 ~~~ sdparse 
-Iguazu on Argentiinassa :\]  \n Iguazu is in Argentina :\]
-discourse(on-2, :\]-4)
+Iguazu on Argentiinassa :]  \n Iguazu is in Argentina :]
+discourse(on-2, :]-4)
 ~~~
