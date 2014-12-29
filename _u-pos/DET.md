@@ -34,16 +34,16 @@ Czech grammar, regardless of context. To make the annotation parallel
 across languages, it should be now tagged [PRON]() in _<b>Tohle</b>
 jsem viděl včera._ and `DET` in _<b>Tohle</b> auto jsem viděl včera._
 
+Usually a nominal allows only one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as [en] _all_ in _<b>all</b> the children survived_.  In such cases, both _all_ and _the_ are given the POS `DET`.
+
 ### Examples
 
-- articles: _a, an, the_
+- articles (a closed class indicating definiteness, specificity or givenness): _a, an, the_
 - possessive determiners: _my, your, his, her, its, our, their_
 - demonstrative determiners: _this_ as in _I saw <b>this</b> car yesterday._
 - interrogative determiners: _which_ as in _"<b>Which</b> car do you like?"_
 - relative determiners: _which_ as in _"I wonder <b>which</b> car you like."_
-- indefinite determiners: _any_
-- totality determiners: _all_
-- negative determiners: _no_ as in _"We have <b>no</b> cars available."_
+- quantity/quantifier determiners: indefinite _any_, universal: _all_, and negative _no_ as in _"We have <b>no</b> cars available."_
 
 ### References
 
