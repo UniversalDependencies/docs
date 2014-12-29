@@ -5,9 +5,8 @@ shortdef : 'relative clause modifier'
 ---
 
 A *relative clause modifier* (`acl:relcl`) marks relative clauses. The
-governor is the phrase or clause modified, most often a noun phrase
-but occasionally a full clause as well. The dependent is the main
-predicate of the relative clause.
+governor is the phrase or clause modified. Usually, it is a noun, but in Finnish it can also be a verb, when the dependent refers to the entire action described. The dependent is the main
+predicate of the relative clause. 
 
 <!-- fname:relcl_NP.pdf -->
 ~~~ sdparse
