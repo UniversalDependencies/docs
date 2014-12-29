@@ -31,7 +31,8 @@ this aspect does not work well with the present tense for actual activities.
 
 #### Examples
 
-- кажа _kazha_ / "say"
-- намеря _namerya_ / "find"
-- разбера _razbera_ / "understand"
+- кажа / _kazha_ "say"
+- намеря / _namerya_ "find"
+- разбера / _razbera_ "understand"
+
 
