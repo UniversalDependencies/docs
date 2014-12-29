@@ -34,8 +34,31 @@
 
           <h2><code>Reflex</code>: reflexive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Reflex</code>.</p>
+<p>Reflex</p>
+
+<p>Boolean feature, typically of <a href="u-pos/PRON">pronouns</a> or
+<a href="u-pos/DET">determiners</a>. It tells whether the word is reflexive,
+i.e. refers to the subject of its clause.</p>
+
+<p>In Bulgarian the reflexive feature is not encoded as one of the pronoun types,
+but as a reference type (similarly to entity, attribute, possession, etc.)</p>
+
+<p>In Bulgarian there are reflexive verbs - both as form and as meaning. They are written
+separately: събуждам се / <em>sabuzhdam se</em> “to wake up”.</p>
+
+<h3 id="yes-it-is-reflexive"><code>Yes</code>: it is reflexive</h3>
+
+<p>Note that there is no <code>No</code> value. If the word is not reflexive, the
+<code>Reflex</code> feature will just not be mentioned in the <code>FEAT</code>
+column. (Which means that empty value has the <code>No</code> meaning.)</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>[bg] reflexive personal pronouns: се, си, себе си / <em>se, si, sebe si</em> “oneself”; reflexive possessive
+pronoun: свой / <em>svoy</em> “oneself’s”.</li>
+</ul>
+
 
 
 <!-- "in other languages" links -->
