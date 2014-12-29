@@ -5,7 +5,7 @@ shortdef : 'discourse element'
 ---
 
 *Discourse elements* are interjections, exclamations or emoticons. They are attached to the main verb or predicative of the
-sentence with the `discourse` dependency type.
+sentence with the `discourse` dependency type. In Finnish, these do not include other discourse markers.
 
 <!-- fname:intj1.pdf -->
 ~~~ sdparse
