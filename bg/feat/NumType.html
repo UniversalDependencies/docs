@@ -34,8 +34,74 @@
 
           <h2><code>NumType</code>: numeral type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NumType</code>.</p>
+<p>NumType</p>
+
+<p>Some languages (especially Slavic) have a complex system of
+<a href="u-pos/NUM">numerals</a>. For example, in the school grammar of Czech,
+the main part of speech is “numeral”, it includes almost everything
+where counting is involved and there are various subtypes. It also
+includes interrogative, relative, indefinite and demonstrative words
+referring to numbers (words like <em>kolik / how many, tolik / so many,
+několik / some, a few),</em> so at the same time we may have a non-empty
+value of <a href="">PronType</a>.  (In English, these words are called
+quantifiers and they are considered a subgroup of
+<a href="u-pos/DET">determiners</a>.)</p>
+
+<p>In this respect Bulgarian behaves like Czech language.</p>
+
+<p>From the syntactic point of view, some numtypes behave like adjectives
+and some behave like adverbs. We tag them <a href="">u-pos/ADJ</a> and
+<a href="">u-pos/ADV</a> respectively. Thus the <code>NumType</code> feature applies to
+several different parts of speech:</p>
+
+<ul>
+  <li><a href="">u-pos/NUM</a>: cardinal numerals</li>
+  <li><a href="">u-pos/DET</a>: quantifiers</li>
+  <li><a href="">u-pos/ADJ</a>: definite adjectival, e.g. ordinal numerals</li>
+  <li><a href="">u-pos/ADV</a>: adverbial (e.g. ordinal and multiplicative) numerals, both definite and pronominal</li>
+</ul>
+
+<h3 id="card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Card</code>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<p>Note that in some Indo-European languages there is a fuzzy borderline
+between numerals and nouns for <em>thousand, million</em> and <em>billion.</em></p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li>[bg] едно, две, три / <em>edno, dve, tri</em> “one, two, three”; колко / <em>kolko</em> “how many”;
+няколко / <em>nyakolko</em> “some”; толкова / <em>tolkova</em> “so many”; много / <em>mnogo</em> “many”; малко / <em>malko</em> “few”</li>
+</ul>
+
+<h3 id="ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Ord</code>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<p>This is a subtype of adjective.</p>
+
+<h4 id="examples-1">Examples</h4>
+<p>_ 
+* [bg] adjectival: първи / <em>parvi</em> “first”; втори / <em>vtori</em> “second”, трети / <em>treti</em> “third”, etc.</p>
+
+<h3 id="mult-multiplicative-numeral-or-corresponding-interrogative--relative--indefinite--demonstrative-word"><code>Mult</code>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word</h3>
+
+<p>This is subtype of adverb.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li>[bg] веднъж / <em>vednazh</em> “once”; дваж / <em>dvazh</em> “twice”</li>
+</ul>
+
+<h3 id="frac-fraction"><code>Frac</code>: fraction</h3>
+
+<p>This is a subtype of cardinal numbers, occasionally distinguished in
+corpora. It may denote a fraction or just the denominator of the
+fraction. In Bulgarian the numerator is cardinal numeral and denominator is ordinal numeral.</p>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li>[bg] две трети / <em>dve treti</em> “two thirds”</li>
+</ul>
 
 
 <!-- "in other languages" links -->
