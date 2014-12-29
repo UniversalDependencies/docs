@@ -44,7 +44,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 This is a subtype of adjective.
 
 #### Examples
-_ 
+
 * [bg] adjectival: първи / _parvi_ "first"; втори / _vtori_ "second", трети / _treti_ "third", etc.
 
 ### `Mult`: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
