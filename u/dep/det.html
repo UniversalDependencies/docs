@@ -34,8 +34,12 @@
 
           <h2><code>det</code>: determiner</h2>
 
-<p>A determiner is the relation between the head of a noun phrase and its
-<a href="u-pos/DET">determiner</a>.</p>
+<p>The relation determiner (<code>det</code>) holds between a nominal head and its
+<a href="u-pos/DET">determiner</a>. Most commonly, a word of POS <code>DET</code> will have the relation <code>det</code> and vice versa. The known exceptions at present are:</p>
+
+<ul>
+  <li>A possessive pronoun like [en] <em>my</em> is given the POS tag <code>DET</code> but the relation <a href="">nmod</a>, so that it is parallel with other possessive constructions.</li>
+</ul>
 
 <pre><code class="language-sdparse">The man is here
 det(man, The)
