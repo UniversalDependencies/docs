@@ -35,3 +35,9 @@ nsubj(säikäytti-6, mikä-5)
 dobj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
 ~~~
+
+##Diffs
+
+###Turku Dependency Treebank
+
+The governor can also be a verb, when the dependent refers to the entire action described in the main sentence.
