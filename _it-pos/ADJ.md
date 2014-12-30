@@ -30,4 +30,4 @@ Tagged as `ADJ`:
 
 Tagged as [VERB]():
 - Mi ha _aperto_ il cancello (*He has opened the gate*)
-- Quelli _appartenenti_ alla Chiesa Battista (*Those belonging to the Baptist Church*)
+- Quelli _appartenenti_ alla Chiesa Battista (*Those belonging to the Baptyst Church*)
