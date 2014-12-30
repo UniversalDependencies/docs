@@ -54,7 +54,7 @@ parataxis(Tulen-1, sanoi-7)
 punct(Tulen-1, .-8)
 ~~~
 
-##Diffs
-###Turku Dependency Treebank
+## Diffs
+### Turku Dependency Treebank
 
 If the clauses are separated by a comma and there is no coordinating conjunction, TDT does not use `parataxis` but `conj`.
