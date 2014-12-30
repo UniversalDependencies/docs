@@ -7,5 +7,4 @@ shortdef: 'auxiliary verb'
 redirect_from: "hu/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+We consider the verbs "volna", "fog", "talál" and "szokott" as `AUX` in Hungarian.

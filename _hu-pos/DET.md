@@ -4,5 +4,11 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `DET`.
+Demonstrative `DET`s and may be inflected in Hungarian (as a from of grammatical agreement with the noun it precedes):
+
+azokat a könyveket
+
+this-PL-ACC the book-PL-ACC
+
+``those books''
+

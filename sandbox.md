@@ -195,3 +195,18 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 {{ p.content }}
 {% endif %}
 {% endfor %}
+
+----------
+### Irish example
+~~~ conllu
+1	Eisean	eisean	PRON	PRON	_	0	ROOT	_	_
+2	a	a	PART	PART	_	3	mark:prt	_	_
+3	thug	tabhair	VERB	VERB	_	1	nsubj	_	_
+4	chuig	chuig	ADP	ADP	_	3	case	_	_
+5	an	an	DET	DET	_	6	det	_	_
+6	mbád	bád	NOUN	NOUN	_	4	nmod	_	_
+7	mé	mé	PRON	PRON	_	3	dobj	_	_
+8	arú	arú	ADV	ADV	_	9	advmod	_	_
+9	aréir	aréir	ADV	ADV	_	3	advmod	_	_
+10	.	.	PUNCT	PUNCT	_	1	punct	_	_
+~~~

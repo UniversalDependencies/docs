@@ -27,7 +27,7 @@ Examples: It *is* purple. He just *became* father.
 
 A group of verbs traditionally distinguished in grammars of some
 languages. They take infinitive of another verb as argument (with or
-without infinitve-marking conjunction, in languages that have it) and
+without infinitive-marking conjunction, in languages that have it) and
 add various modes of possibility, necessity etc. to the meaning of the
 infinitive. There are other verbs that take infinitives as arguments
 but they are not considered modal (e.g. phasal verbs such as "to

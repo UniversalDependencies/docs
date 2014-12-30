@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl'
-shortdef: 'clausal modifier of noun'
+shortdef: 'clausal modifier of noun (adjectival clause)'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation 
@@ -33,9 +33,18 @@ acl(model, naked)
 ~~~
 
 A relative clause is an instance of `acl`, characterized by finiteness and usually omission of 
-the modified noun in the embedded clause.
+the modified noun in the embedded clause. Some languages use a language-particular subtype for the traditional class of relative clauses.
 
 ~~~ sdparse
 I saw the man you love
 acl(man, love)
+~~~
+
+Some languages allow finite clausal complements for nouns with 
+a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any omitted role in the dependent clause. This is the class of "content
+clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
+
+~~~ sdparse
+the fact that nobody cares
+acl(fact, cares)
 ~~~

@@ -11,7 +11,7 @@ modifiers [nmod:poss]().
 
 <!-- fname:gobj.pdf -->
 ~~~ sdparse
-Perunan viljely oli tuolloin harvinaista . \n Potato growing(N) was then rare .
+Perunan viljely oli tuolloin harvinaista . \n Potato(N+genitive) growing(N+nominative) was then rare .
 nmod:gobj(viljely-2, Perunan-1)
 nsubj:cop(harvinaista-5, viljely-2)
 cop(harvinaista-5, oli-3)

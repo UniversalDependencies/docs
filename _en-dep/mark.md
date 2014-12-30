@@ -23,7 +23,6 @@ When a a noun or a verb takes a prepositionally marked non-core argument (modifi
 ~~~ sdparse
 We have no useful information on whether users are at risk .
 nsubj(have, We)
-root(ROOT, have)
 neg(information, no)
 amod(information, useful)
 dobj(have, information)

@@ -4,9 +4,8 @@ title:  'discourse'
 shortdef : 'discourse element'
 ---
 
-*Discourse elements* are typically exclamations or wordlike
-entities. They are attached to the main verb or predicative of the
-sentence with the `discourse` dependency type.
+*Discourse elements* are interjections, exclamations or emoticons. They are attached to the main verb or predicative of the
+sentence with the `discourse` dependency type. In Finnish, these do not include other discourse markers.
 
 <!-- fname:intj1.pdf -->
 ~~~ sdparse
@@ -26,3 +25,14 @@ dobj(sanoisi-5, Mitähän-3)
 nmod(sanoisi-5, tuohon-4)
 punct(sanoisi-5, ?-6)
 ~~~
+
+~~~ sdparse 
+Iguazu on Argentiinassa :]  \n Iguazu is in Argentina :]
+discourse(on-2, :]-4)
+~~~
+
+## Diffs
+
+### Turku Dependency Treebank
+
+These do not include other discourse markers than interjections or exclamations.
