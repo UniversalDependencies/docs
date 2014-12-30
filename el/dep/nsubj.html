@@ -34,8 +34,26 @@
 
           <h2><code>nsubj</code>: nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubj</code>.</p>
+<p>A nominal subject is a nominal phrase which is the syntactic subject of a clause. (See <a href="">csubj</a> for cases when the subject is clausal.</p>
+
+<!--
+TODO
+(See [csubj]() for when the subject is clausal. See [nsubjpass]() and [csubjpass]() for when the subject is not the proto-agent argument due to valence changing operations.)
+The governor of the `nsubj` relation might not always be a verb: when
+the verb is a copular verb, the root of the clause is the complement
+of the copular verb, which can be an adjective or noun.
+-->
+
+<pre><code class="language-sdparse">Ο υπουργός ενημέρωσε το σώμα
+nsubj(ενημέρωσε, υπουργός)
+</code></pre>
+
+<!--
+~~~ sdparse
+The car is red .
+nsubj(red, car)
+~~~
+-->
 
 
 <!-- "in other languages" links -->

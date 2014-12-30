@@ -34,8 +34,24 @@
 
           <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>The <em>vocative</em> relation is used to mark a dialogue participant addressed in text (common in emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+
+<pre><code class="language-sdparse">Κύριοι , έχετε βαριά ευθύνη 
+vocative(έχετε, Κύριοι)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT Καλημέρα , συνάδελφοι 
+vocative(Καλημέρα, συνάδελφοι)
+root(ROOT, Καλημέρα)
+</code></pre>
+
+<!--
+TODO
+~~~ sdparse
+Κύριε Πρόεδρε , έχετε το λόγο
+vocative(έχετε, Πρόεδρε)
+~~~
+-->
 
 
 <!-- "in other languages" links -->

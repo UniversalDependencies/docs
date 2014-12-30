@@ -34,8 +34,91 @@
 
           <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p>We use the <code>name</code> relation for proper nouns constituted of more than one words. 
+The first (leftmost) word is the head, and the other words are direct dependents of the head. </p>
+
+<pre><code class="language-sdparse">Τάκης Παπαδόπουλος
+name(Τάκης, Παπαδόπουλος)
+</code></pre>
+
+<pre><code class="language-sdparse">Ρωμανός Δ' Διογένης
+name(Ρωμανός, Δ')
+name(Ρωμανός, Διογένης)
+</code></pre>
+
+<pre><code class="language-sdparse">Μάο Τσε Τουνγκ
+name(Μάο, Τσε)
+name(Μάο, Τουνγκ)
+</code></pre>
+
+<p>Regular syntactic relations are used for Greek:
+(i) for a modifier word including determiners, adjectives and adverbs
+(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
+
+<pre><code class="language-sdparse">την Παλιά Κοκκινιά
+amod(Κοκκινιά, Παλιά)
+det(Κοκκινιά, την)
+</code></pre>
+
+<pre><code class="language-sdparse">της Νέας Υόρκης
+amod(Υόρκης, Νέας)
+det(Υόρκης, της)
+</code></pre>
+
+<pre><code class="language-sdparse">Τα Άνω Δολιανά
+det(Δολιανά, Τα)
+advmod(Δολιανά, Άνω)
+</code></pre>
+
+<pre><code class="language-sdparse">Ο Βασιλιάς της Αγγλίας
+det(Βασιλιάς, Ο)
+nmod(Βασιλιάς, Αγγλίας)
+det(Αγγλίας, της)
+</code></pre>
+
+<p>This also holds for organization names with clear syntactic modification structure as in:</p>
+
+<pre><code class="language-sdparse">Γενική Γραμματεία Εκπαίδευσης Ενηλίκων
+amod(Γραμματεία, Γενική)
+nmod(Γραμματεία, Εκπαίδευσης)
+nmod(Εκπαίδευσης, Ενηλίκων)
+</code></pre>
+
+<p>This convention is not used for foreign names (transliterated or not), which are annotated in a flat, head-initial structure, in 
+which all words in the name modify the first one using the <code>name</code> label.</p>
+
+<pre><code class="language-sdparse">Σαν Σεμπαστιάν
+name(Σαν, Σεμπαστιάν)
+</code></pre>
+
+<pre><code class="language-sdparse">Στράτφορντ απόν Έιβον
+name(Στράτφορντ, απόν)
+name(Στράτφορντ, Έιβον)
+</code></pre>
+
+<pre><code class="language-sdparse">Río de la Plata
+name(Río, de)
+name(Río, la)
+name(Río, Plata)
+</code></pre>
+
+<pre><code class="language-sdparse">Ζαν ντ' Αρκ
+name(Ζαν, ντ')
+name(Ζαν, Αρκ)
+</code></pre>
+
+<pre><code class="language-sdparse">Ludwig van Beethoven
+name(Ludwig, van)
+name(Ludwig, Beethoven)
+</code></pre>
+
+<pre><code class="language-sdparse">Miguel de Cervantes y Saavedra
+name(Miguel, de)
+name(Miguel, y)
+name(Miguel, Cervantes)
+name(Miguel, Saavedra)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->

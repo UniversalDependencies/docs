@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>acl</title>
+    <title>acl:relcl</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -18,7 +18,7 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-el">home</a></span>
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/el/dep">el/dep</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_el-dep/acl.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_el-dep/acl-rel.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,84 +32,48 @@
 	  </div>
 	</noscript>
 
-          <h2><code>acl</code>: clausal modifier of noun</h2>
+          <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
-<p><code>acl</code> stands for finite clauses that modify a nominal. The head of the <code>acl</code> relation is the noun
-that is modified, and the dependent is the head of the clause that modifies the noun. Greek relative 
-are assigned a specific subtype label <a href="">acl:relcl</a>.</p>
+<p>A relative clause modifier of an noun is a finite clause that modifies the noun and is introduced by <em>που</em> or a (structure including) an <em>οποίος</em>-relative pronoun. The relation points from the noun that is modified to the head of the relative clause. <em>οποίος</em>-relative pronoun are assigned typical nominal relations like  <a href="dobj">dobj</a>, <a href="nsubj">nsubj</a> and <a href="nmod">nmod</a>. A <a href="det">det</a> relation is also possible.</p>
 
-<pre><code class="language-sdparse">το γεγονός ότι έφυγε
-acl(γεγονός, έφυγε)
+<pre><code class="language-sdparse">το Όσκαρ με το οποίο τιμήθηκε
+acl:relcl(Όσκαρ, τιμήθηκε)
+nmod(τιμήθηκε, οποίο)
 </code></pre>
 
-<pre><code class="language-sdparse">η είδηση πως νίκησε
-acl(είδηση, νίκησε)
+<pre><code class="language-sdparse">το έκθεμα , για τη μόνιμη θέση του οποίου διαφωνούν 
+acl:relcl(έκθεμα, διαφωνούν)
+nmod(διαφωνούν, θέση)
+nmod(θέση, οποίου)
 </code></pre>
 
-<pre><code class="language-sdparse">ο στόχος της να παραμείνει
-acl(στόχος, παραμείνει)
+<pre><code class="language-sdparse">δάνειζαν ποσά σε ιδιώτες, τα οποία ποσά εκείνοι χρησιμοποιούσαν ...
+acl:relcl(ποσά, χρησιμοποιούσαν)
+dobj(χρησιμοποιούσαν, ποσά)
+det(ποσά, οποία)
 </code></pre>
 
-<pre><code class="language-sdparse">η αγωνία μήπως συνεχιστεί το Μνημόνιο
-acl(αγωνία, συνεχιστεί)
+<p>In the current version of the UD guidelines for Greek, we use the <a href="mark">mark</a> relation for the Greek relativizer <em>που</em>.</p>
+
+<pre><code class="language-sdparse">το βιβλίο που σου έδωσα
+acl:relcl(βιβλίο, έδωσα)
+mark(έδωσα, που)
 </code></pre>
 
-<pre><code class="language-sdparse">στην ερώτηση γιατί θα μετακόμιζαν
-acl(ερώτηση, μετακόμιζαν)
-</code></pre>
-
-<pre><code class="language-sdparse">η χαρά που πέρασε στο Πανεπιστήμιο
-acl(χαρά, πέρασε)
+<pre><code class="language-sdparse">μια έκθεση που να μην περιέχει λάθη
+acl:relcl(έκθεση, περιέχει)
+mark(περιέχει, που)
+aux(περιέχει, να)
+neg(περιέχει, μην)
 </code></pre>
 
 <!---
-TODO: advcl from nominals
-TODO: What about χαρά που πέρασε στο Πανεπιστήμιο
+TODO: Revisit arguments for pou being a marker or a relative pronoun
 -->
-
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-acl in other languages:
-
-[<a href="../../bg/dep/acl.html">bg</a>]
-
-[<a href="../../cs/dep/acl.html">cs</a>]
-
-[<a href="../../de/dep/acl.html">de</a>]
-
-[<a href="../../el/dep/acl.html">el</a>]
-
-[<a href="../../en/dep/acl.html">en</a>]
-
-[<a href="../../es/dep/acl.html">es</a>]
-
-[<a href="../../eu/dep/acl.html">eu</a>]
-
-[<a href="../../fa/dep/acl.html">fa</a>]
-
-[<a href="../../fi/dep/acl.html">fi</a>]
-
-[<a href="../../fr/dep/acl.html">fr</a>]
-
-[<a href="../../ga/dep/acl.html">ga</a>]
-
-[<a href="../../he/dep/acl.html">he</a>]
-
-[<a href="../../hu/dep/acl.html">hu</a>]
-
-[<a href="../../it/dep/acl.html">it</a>]
-
-[<a href="../../ja/dep/acl.html">ja</a>]
-
-[<a href="../../ko/dep/acl.html">ko</a>]
-
-[<a href="../../sv/dep/acl.html">sv</a>]
-
-[<a href="../../u/dep/acl.html">u</a>]
-
 
 
 

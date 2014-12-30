@@ -34,8 +34,81 @@
 
           <h2><code>aux</code>: auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>aux</code>.</p>
+<p>We use the <code>aux</code> relation for:</p>
+
+<ul>
+  <li>forms of the auxiliary verb <em>έχω</em> in periphrastic tenses. </li>
+</ul>
+
+<pre><code class="language-sdparse">έχουν πάει
+aux(πάει, έχουν)
+</code></pre>
+
+<pre><code class="language-sdparse">είχαν πάει
+aux(πάει, είχαν)
+</code></pre>
+
+<ul>
+  <li>the subjunctive particles  <em>να</em> and <em>ας</em></li>
+</ul>
+
+<pre><code class="language-sdparse">ας αρχίσουν να γράφουν
+aux(αρχίσουν, ας)
+aux(γράφουν, να)
+</code></pre>
+
+<ul>
+  <li>the future particle <em>θα</em></li>
+</ul>
+
+<pre><code class="language-sdparse">θα τον έχω συναντήσει μέχρι τη Δευτέρα
+aux(συναντήσει, θα)
+aux(συναντήσει, έχω)
+dobj(συναντήσει, τον)
+</code></pre>
+
+<ul>
+  <li>the impersonal verb <em>πρέπει</em> expressing obligation and probability</li>
+</ul>
+
+<pre><code class="language-sdparse">θα πρέπει να τον συναντήσω 
+aux(συναντήσω, θα)
+aux(συναντήσω, πρέπει)
+aux(συναντήσω, να)
+dobj(συναντήσω, τον)
+</code></pre>
+
+<pre><code class="language-sdparse">πρέπει να τον έχει δει
+aux(δει, πρέπει)
+aux(δει, έχει)
+aux(δει, να)
+dobj(δει, τον)
+</code></pre>
+
+<ul>
+  <li>the impersonal verb <em>μπορεί</em> when expressing possibility. </li>
+</ul>
+
+<pre><code class="language-sdparse">μπορεί να τον έχει δει 
+aux(δει, μπορεί)
+aux(δει, έχει)
+aux(δει, να)
+dobj(δει, τον)
+</code></pre>
+
+<p>The personal verb <em>μπορώ</em> expressing ability or permission should be treated as a regular verb.</p>
+
+<pre><code class="language-sdparse">μπορεί να φάει
+xcomp(μπορεί, φάει)
+aux(φάει, να)
+</code></pre>
+
+<p>Negative particles  <em>δεν</em> and <em>μην</em> are assigned the relation <a href="neg">neg</a>.</p>
+
+<!--
+TODO 
+Include φαίνεται πρόκειται?
+-->
 
 
 <!-- "in other languages" links -->

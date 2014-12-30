@@ -34,8 +34,63 @@
 
           <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers. They depend either
+on another noun (group “noun dependents”) or on a predicate (group
+“non-core dependents of clausal predicates”).</p>
+
+<p><code>nmod</code> is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a
+non-core (oblique) argument or adjunct.
+This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
+But when attaching to a noun, it corresponds to an attribute, or genitive complement.</p>
+
+<pre><code class="language-sdparse">οι άθλοι του Ηρακλή.Gen
+nmod(άθλοι, Ηρακλή.Gen)
+</code></pre>
+
+<p>The <code>nmod</code> relation can be further specified by the <a href="">case</a> label assigned to prepositions.</p>
+
+<pre><code class="language-sdparse">γράψαμε το άρθρο σε έξι ώρες
+nmod(γράψαμε, ώρες)
+case(γράψαμε, σε)
+</code></pre>
+
+<pre><code class="language-sdparse">είδα τις ανταποκρίσεις για το συμβάν
+nmod(ανταποκρίσεις, συμβάν)
+case(συμβάν, για)
+</code></pre>
+
+<pre><code class="language-sdparse">έφυγαν από την Αλεξανδρούπολη με το αεροπλάνο
+nmod(έφυγαν, Αλεξανδρούπολη)
+nmod(έφυγαν, αεροπλάνο)
+case(Αλεξανδρούπολη, από)
+case(αεροπλάνο, με)
+</code></pre>
+
+<pre><code class="language-sdparse">τελείωσε το διαγώνισμα χωρίς ένα λάθος
+nmod(τελείωσε, λάθος)
+case(λάθος, χωρίς)
+</code></pre>
+
+<ul>
+  <li>An exception for Greek is the  <a href="">iobj</a> label assigned to certain nominal elements preceded by <em>σε</em>, <em>από</em> and <em>για</em> prepositions. See  <a href="">iobj</a> for more.</li>
+</ul>
+
+<pre><code class="language-sdparse">Έδωσε στην Άννα αύξηση
+iobj(Έδωσε, Άννα)
+obj(Έδωσε, αύξηση)
+</code></pre>
+
+<pre><code class="language-sdparse">Ζήτησε από την Ελένη την κούκλα
+iobj(Ζήτησε, Ελένη)
+obj(Ζήτησε, κούκλα)
+</code></pre>
+
+<p><code>nmod</code> is also used for nominal modifiers indicating time, cause, amount etc.:</p>
+
+<pre><code class="language-sdparse">Θα σε δω την Κυριακή
+nmod(δω, Κυριακή)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->

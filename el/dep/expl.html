@@ -34,8 +34,21 @@
 
           <h2><code>expl</code>: expletive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>expl</code>.</p>
+<p>The <code>expl</code> relation is used in UD Greek for cases of clitic doubling.</p>
+
+<pre><code class="language-sdparse">Της τον έδωσε της Καίτης τον αναπτήρα
+expl(έδωσε, Της-1)
+iobj(έδωσε, Καίτης)
+expl(έδωσε, τον-2)
+dobj(έδωσε, αναπτήρα)
+</code></pre>
+
+<p>But when clitics appear alone in the sentence, they are labeled as core arguments.</p>
+
+<pre><code class="language-sdparse">Της τον έδωσε
+iobj(έδωσε, Της)
+dobj(έδωσε, τον)
+</code></pre>
 
 
 <!-- "in other languages" links -->

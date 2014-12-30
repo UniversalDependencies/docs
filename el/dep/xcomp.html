@@ -34,8 +34,76 @@
 
           <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>xcomp</code>.</p>
+<p>An (<code>xcomp</code>) label is used in cases of <em>obligatory coreference</em> between 
+the subject of a <em>finite</em> να-clause, which is not present as a separate 
+word, and an argument (subject or object) of the higher clause. </p>
+
+<pre><code class="language-sdparse">Ο γιατρός δεν ήξερε να του πει την αλήθεια. 
+xcomp(ήξερε, πει)
+</code></pre>
+
+<pre><code class="language-sdparse">Οι μεταφορείς αναγκάζουν τους οδηγούς να οδηγούν ασταμάτητα 
+iobj(αναγκάζουν, οδηγούς)
+xcomp(αναγκάζουν, οδηγούν)
+</code></pre>
+
+<p>There are some cases where the implied subject of both clauses is present in the complement clause. In these cases, we attach the subject to the verb of the complement clause.</p>
+
+<pre><code class="language-sdparse">Άρχισαν να λένε οι πολιτικοί την αλήθεια στον κόσμο ; 
+xcomp(Άρχισαν, λένε)
+nsubj(λένε, πολιτικοί)
+</code></pre>
+
+<p>The <code>xcomp</code> relation is also used for labelling <em>obligatory</em> predicatives in clauses where the verb heading the construction is not the copula <em>είμαι</em></p>
+
+<pre><code class="language-sdparse">Ο Γιάννης υπήρξε πρότυπο ανθρώπου 
+xcomp(υπήρξε, πρότυπο)
+</code></pre>
+
+<pre><code class="language-sdparse">Αυτή η συμπεριφορά μοιάζει παρορμητική .
+xcomp(μοιάζει, παρορμητική)
+</code></pre>
+
+<pre><code class="language-sdparse">Η σημερινή ημέρα αποτελεί αφετηρία εξελίξεων 
+xcomp(αποτελεί, αφετηρία)
+</code></pre>
+
+<pre><code class="language-sdparse">Τον εξέλεξαν βουλευτή 
+xcomp(εξέλεξαν, βουλευτή)
+</code></pre>
+
+<pre><code class="language-sdparse">διορίστηκε επιστημονικός συνεργάτης 
+xcomp(διορίστηκε, συνεργάτης)
+</code></pre>
+
+<pre><code class="language-sdparse">διορίστηκε ως επιστημονικός συνεργάτης 
+xcomp(διορίστηκε, συνεργάτης)
+case(συνεργάτης, ως)
+</code></pre>
+
+<pre><code class="language-sdparse">περνιέται για ωραίος
+xcomp(περνιέται, ωραίος)
+case(ωραίος, για)
+</code></pre>
+
+<p>This relation is also used for the small list of resultatives like </p>
+
+<pre><code class="language-sdparse">έβαψε το σπίτι μπλε
+dobj(έβαψε, σπίτι)
+xcomp(έβαψε, μπλε)
+</code></pre>
+
+<pre><code class="language-sdparse">έκοψε τα μαλιά της κοντά
+dobj(έκοψε, μαλιά)
+xcomp(έκοψε, κοντά)
+</code></pre>
+
+<pre><code class="language-sdparse">έκανε το άρθρο αγνώριστο
+dobj(έκανε, άρθρο)
+xcomp(έκανε, αγνώριστο)
+</code></pre>
+
+<p>For other optional secondary predicates of an adverbial nature, see <a href="el-dep/advcl">advcl</a>.</p>
 
 
 <!-- "in other languages" links -->

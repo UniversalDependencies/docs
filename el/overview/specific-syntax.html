@@ -32,10 +32,72 @@
 	  </div>
 	</noscript>
 
-          <h1 id="specific-constructions">Specific constructions</h1>
+          <h3 id="free-relatives">Free relatives</h3>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for specific constructions.</p>
+<p>Free relative clauses are marked as <a href="el-dep/ccomp">ccomp</a>, <a href="el-dep/csubj">csubj</a>, <a href="el-dep/advcl">advcl</a> and <a href="el-dep/advcl">advcl</a>, depending on their relation to their verbal or nominal head. </p>
+
+<pre><code class="language-sdparse">Για να εντυπωσιάζετε όποιον γνωρίζετε 
+ccomp(εντυπωσιάζετε, γνωρίζετε)
+dobj(γνωρίζετε, όποιον)
+</code></pre>
+
+<pre><code class="language-sdparse">Όποιος έφυγε , έχασε 
+csubj(έχασε, έφυγε)
+nsubj(έφυγε, Όποιος)
+</code></pre>
+
+<pre><code class="language-sdparse">Τιμώρησε όποιον μαθητή τον ενοχλούσε 
+ccomp(Τιμώρησε, ενοχλούσε)
+nsubj(ενοχλούσε, μαθητή)
+dobj(ενοχλούσε, τον)
+det(μαθητή, όποιον)
+</code></pre>
+
+<pre><code class="language-sdparse">η ενασχόληση με οποιοδήποτε θέμα σε ενδιαφέρει 
+acl(ενασχόληση, ενδιαφέρει)
+dobj(ενδιαφέρει, σε)
+nsubj(ενδιαφέρει, θέμα)
+det(θέμα, οποιοδήποτε)
+</code></pre>
+
+<pre><code class="language-sdparse">Έλα όποτε ευκαιρήσεις 
+advcl(Έλα, ευκαιρήσεις)
+advmod(ευκαιρήσεις, όποτε)
+</code></pre>
+
+<h3 id="comparatives">Comparatives</h3>
+
+<p>For basic comparative constructions, we connect nominal second terms of the comparison via a <a href="">nmod</a> relation.
+~~~ sdparse
+το νερό θεωρείται σημαντικότερο από το πετρέλαιο
+nmod(σημαντικότερο, πετρέλαιο)
+case(πετρέλαιο, από)
+~~~</p>
+
+<pre><code class="language-sdparse">το νερό θεωρείται πιο σημαντικό από το πετρέλαιο
+advmod(σημαντικό, πιο)
+nmod(σημαντικό, πετρέλαιο)
+case(πετρέλαιο, από)
+</code></pre>
+
+<p>We use the <a href="">advcl</a> relation for clausal elements.</p>
+
+<pre><code class="language-sdparse">εισφέρει περισσότερα από όσα εισπράττει
+advcl(περισσότερα, εισπράττει)
+mark(εισπράττει, από)
+dobj(εισπράττει, όσα)
+</code></pre>
+
+<p><strong>TODO</strong></p>
+
+<p>More comparative constructions</p>
+
+<h3 id="secondary-predicates">Secondary predicates</h3>
+
+<p>For obligatory secondary predicates, see <a href="el-dep/xcomp">xcomp</a>.</p>
+
+<p>For optional secondary predicates, see <a href="el-dep/advcl">advcl</a>.</p>
+
 
 
       </div>

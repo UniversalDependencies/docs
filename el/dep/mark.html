@@ -34,8 +34,76 @@
 
           <h2><code>mark</code>: marker</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mark</code>.</p>
+<p>A marker is the word introducing a finite clause subordinate to
+another clause. For a <a href="ccomp">complement clause</a>, these typically include <em>ότι</em>, <em>πως</em>, <em>μήπως</em>, <em>αν</em> etc.
+Notice that we annotate <em>να</em>, <em>θα</em> and <em>ας</em> particles as instances of <a href="aux">aux</a>.</p>
+
+<pre><code class="language-sdparse">Διαβεβαίωσε ότι οι εθελοντές θα συνεχίσουν το έργο τους 
+ccomp(Διαβεβαίωσε, συνεχίσουν)
+mark(συνεχίσουν, ότι)
+</code></pre>
+
+<pre><code class="language-sdparse">είπε πως άρχισαν να γράφουν
+mark(άρχισαν, πως)
+aux(γράφουν, να)
+</code></pre>
+
+<p>For an <a href="advcl">adverbial clause</a>, the marker is typically a
+subordinating conjunction like <em>αφού</em> or <em>επειδή</em>. The marker is a dependent of the
+subordinate clause head. </p>
+
+<pre><code class="language-sdparse">Αφού με περιμένουν δεν έχω άλλη επιλογή 
+advcl(έχω, περιμένουν)
+mark(περιμένουν, Αφού)
+</code></pre>
+
+<pre><code class="language-sdparse">Τη συνέλαβαν επειδή βιντεοσκοπούσε το περιστατικό 
+advcl(συνέλαβαν, βιντεοσκοπούσε)
+mark(βιντεοσκοπούσε, επειδή)
+</code></pre>
+
+<p>When prepositions are used as subordinate conjunctions to introduce clauses, they are also labelled with the <code>mark</code> relation. </p>
+
+<pre><code class="language-sdparse">Δεν συμμετείχα πριν τη συναντήσω .
+advcl(συμμετείχα, συναντήσω)
+mark(συναντήσω, πριν)
+</code></pre>
+
+<pre><code class="language-sdparse">Δεν συμμετείχα πριν να τη συναντήσω .
+advcl(συμμετείχα, συναντήσω)
+mark(συναντήσω, πριν)
+mwe(συναντήσω, να)
+</code></pre>
+
+<pre><code class="language-sdparse">Ψάχνουν τρόπους για να το σταματήσουν 
+advcl(Ψάχνουν, σταματήσουν)
+mark(σταματήσουν, για)
+aux(σταματήσουν, να)
+</code></pre>
+
+<pre><code class="language-sdparse">θα καταλάβουμε το βουνό προτού να ξημερώσει
+advcl(καταλάβουμε, ξημερώσει)
+mark(ξημερώσει, προτού)
+aux(ξημερώσει, να)
+</code></pre>
+
+<pre><code class="language-sdparse">Ο χρόνος επαρκεί προκειμένου να μάθει ο προπονητής το υλικό και να το δουλέψει 
+advcl(επαρκεί, μάθει)
+mark(δουλέψει, προκειμένου)
+aux(μάθει, να)
+cc(μάθει, και)
+conj(μάθει, δουλέψει)
+aux(δουλέψει, να)
+</code></pre>
+
+<p>For certain multiword subordinate conjunctions, we use combinations of the <code>mark</code> and the <a href="mwe">mwe</a> relations. </p>
+
+<pre><code class="language-sdparse">Αν και βρίσκεται στο σωστό δρόμο χρειάζεται περισσότερο χρόνο
+advcl(χρειάζεται, βρίσκεται)
+mark(βρίσκεται, Αν)
+mwe(Αν, και)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->

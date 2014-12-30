@@ -34,8 +34,67 @@
 
           <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advcl</code>.</p>
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
+as a modifier not as a core complement. This includes things such as a temporal, consequence, purpose, conditional 
+clauses, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
+
+<pre><code class="language-sdparse">Το ατύχημα συνέβη καθώς έπεφτε η νύχτα
+advcl(συνέβη, έπεφτε)
+</code></pre>
+
+<pre><code class="language-sdparse">το συνηθίσαμε τόσο πολύ ώστε δεν αντιλαμβανόμαστε 
+advcl(συνηθίσαμε, αντιλαμβανόμαστε)
+</code></pre>
+
+<pre><code class="language-sdparse">χάρηκε τόσο πολύ που ξανάνιωσε
+advcl(χάρηκε, ξανάνιωσε)
+</code></pre>
+
+<pre><code class="language-sdparse">ήρθε για να μείνει
+advcl(ήρθε, μείνει)
+</code></pre>
+
+<pre><code class="language-sdparse">αυξήθηκαν προκειμένου να στηριχθεί το ρούβλι
+advcl(αυξήθηκαν, στηριχθεί)
+</code></pre>
+
+<pre><code class="language-sdparse">να χορηγηθεί αμέσως ώστε να αντιμετωπιστεί το πρόβλημα
+advcl(χορηγηθεί, αντιμετωπιστεί)
+</code></pre>
+
+<pre><code class="language-sdparse">Αν δεν βρεθούν οι 180, θα πάμε σε εκλογές
+advcl(πάμε, βρεθούν)
+</code></pre>
+
+<pre><code class="language-sdparse">δεν αλλάζει γιατί θα διέλυε το σύστημα
+advcl(αλλάζει, διέλυε)
+</code></pre>
+
+<pre><code class="language-sdparse">η μετοχή της υποχωρεί μολονότι ανακοίνωσε κέρδη
+advcl(υποχωρεί, ανακοίνωσε)
+</code></pre>
+
+<pre><code class="language-sdparse">τον ακούς ακόμα κι αν διαφωνείς μαζί του
+advcl(ακούς, διαφωνείς)
+</code></pre>
+
+<p>This relation is also used for optional avderbial predicatives like</p>
+
+<pre><code class="language-sdparse">έφυγε θυμωμένος
+advcl(έφυγε, θυμωμένος)
+</code></pre>
+
+<pre><code class="language-sdparse">στέκεται αμίλητος
+advcl(στέκεται, αμίλητος)
+</code></pre>
+
+<!---
+TODO: επιρρηματικές αναφορικές όπως/καθώς/όταν/σαν/όσο σου είπα 
+TODO: επιρρηματικές μετοχές έφυγε τρέχοντας
+TODO: επιρρηματικά κατηγορούμενα έφυγε σκυφτός
+
+-->
+
 
 
 <!-- "in other languages" links -->

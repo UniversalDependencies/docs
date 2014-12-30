@@ -34,8 +34,44 @@
 
           <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>In copular clauses, the predicative acts as the head word of the clause, and the copular verb depends on it using a cop (copula) dependency. The only copular verb in the scheme for Greek is <em>είμαι</em> (<em>be</em>).</p>
+
+<pre><code class="language-sdparse">Η ρευστότητα ήταν φλέγον ζήτημα .
+nsubj(ζήτημα, ρευστότητα)
+cop(ζήτημα, ήταν)
+</code></pre>
+
+<pre><code class="language-sdparse">Η ρευστότητα ήταν χαμηλή .
+nsubj(χαμηλή, ρευστότητα)
+cop(χαμηλή, ήταν)
+</code></pre>
+
+<pre><code class="language-sdparse">Ήταν από την Κρήτη .
+cop(Κρήτη, Ήταν)
+</code></pre>
+
+<pre><code class="language-sdparse">Ο Νίκος είναι πάνω .
+nsubj(πάνω, Νίκος)
+cop(πάνω, είναι)
+</code></pre>
+
+<p>The same label is used in Greek sentences (often in informal discourse or headlines), where deletion of <em>είμαι</em>  may occur. </p>
+
+<pre><code class="language-sdparse">Φοβερό το γλυκό .
+nsubj(Φοβερό, γλυκό)
+</code></pre>
+
+<pre><code class="language-sdparse">Αμφίβολη η συμμετοχή της Γαλλίας .
+nsubj(συμμετοχή, Αμφίβολη)
+</code></pre>
+
+<p>Whenever the copula has a clausal argument, <a href="">ccomp</a> is used, with the copula being the head.</p>
+
+<pre><code class="language-sdparse">Αυτό που μας ενδιαφέρει είναι να μην κινδυνέψουν
+ccomp(είναι, κινδυνέψουν)
+nsubj(είναι, Αυτό)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->

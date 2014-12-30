@@ -34,8 +34,38 @@
 
           <h2><code>nsubjpass</code>: passive nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubjpass</code>.</p>
+<p>A passive nominal subject is a noun phrase which is the syntactic
+subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause).</p>
+
+<pre><code class="language-sdparse">Περιορίστηκε η μετάδοση του ιού
+nsubjpass(Περιορίστηκε, μετάδοση)
+</code></pre>
+
+<p>Notice that the <code>nsubj</code> relation is used for the subjects of </p>
+
+<ul>
+  <li>reflexive and reciprocal passive constructions</li>
+</ul>
+
+<pre><code class="language-sdparse">η Νίκη ετοιμάστηκε για το πάρτι
+nsubj(ετοιμάστηκε, Νίκη)
+</code></pre>
+
+<pre><code class="language-sdparse">Το ζευγάρι αγκαλιάστηκε 
+nsubj(αγκαλιάστηκε, ζευγάρι)
+</code></pre>
+
+<ul>
+  <li>deponent verbs (verbs that are active in meaning but have only passive voice forms)</li>
+</ul>
+
+<pre><code class="language-sdparse">το παιδί κοιμάται στην κούνια του
+nsubj(κοιμάται, παιδί)
+</code></pre>
+
+<pre><code class="language-sdparse">Έρχεται παγετός
+nsubj(Έρχεται, παγετός)
+</code></pre>
 
 
 <!-- "in other languages" links -->

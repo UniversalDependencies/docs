@@ -34,8 +34,45 @@
 
           <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p>We use the <code>compound</code> relation for </p>
+
+<ul>
+  <li>the few noun noun compounds of Modern Greek:</li>
+</ul>
+
+<pre><code class="language-sdparse">κράτος μέλος
+compound(κράτος, μέλος)
+</code></pre>
+
+<pre><code class="language-sdparse">απόφαση - κόλαφος
+compound(απόφαση, κόλαφος)
+punct(απόφαση, -)
+</code></pre>
+
+<pre><code class="language-sdparse">λέξης κλειδί
+compound(λέξης, κλειδί)
+</code></pre>
+
+<ul>
+  <li>for combinations of numbers:</li>
+</ul>
+
+<pre><code class="language-sdparse">Είκοσι χιλιάδες λεύγες
+compound(χιλιάδες, Είκοσι)
+nummod(χιλιάδες, λεύγες)
+</code></pre>
+
+<pre><code class="language-sdparse">Πάνω από τρία εκατομμύρια ευρώ
+compound(εκατομμύρια, τρία)
+nummod(ευρώ, εκατομμύρια)
+</code></pre>
+
+<p>The two other compounding relations are:</p>
+
+<ul>
+  <li><a href="">mwe</a> for fixed grammaticized expressions with function words</li>
+  <li><a href="">name</a> for proper nouns constituted of multiple nominal elements</li>
+</ul>
 
 
 <!-- "in other languages" links -->

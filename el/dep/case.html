@@ -34,8 +34,83 @@
 
           <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p>The <code>case</code> relation for Greek is used for prepositions.</p>
+
+<pre><code class="language-sdparse">« Κυριαρχήσαμε σε όλο το παιχνίδι » .
+case(παιχνίδι, σε)
+nmod(Κυριαρχήσαμε, παιχνίδι)
+</code></pre>
+
+<pre><code class="language-sdparse">Δε σταμάτησαν από την αρχή ως το τέλος 
+case(αρχή,  από)
+case(τέλος, ως)
+nmod(σταμάτησαν, αρχή)
+nmod(σταμάτησαν, τέλος)
+</code></pre>
+
+<p>A small list of postpositions in fixed expressions are labeled with <code>case</code>. <strong>TODO:</strong> An alternative analysis would be to label them using the <a href="mwe">mwe</a> relation.</p>
+
+<pre><code class="language-sdparse">λόγου χάριν 
+case(λόγου,  χάριν)
+</code></pre>
+
+<pre><code class="language-sdparse">παραδείγματος χάριν 
+case(παραδείγματος,  χάριν)
+</code></pre>
+
+<pre><code class="language-sdparse">τιμής ένεκεν
+case(τιμής,  ένεκεν)
+</code></pre>
+
+<p>For prepositional indirect objects, we use the <a href="">iobj</a> relation.</p>
+
+<pre><code class="language-sdparse">Έδωσε σε όλους αύξηση
+iobj(Έδωσε, όλους)
+obj(Έδωσε, αύξηση)
+</code></pre>
+
+<p>Certain adverbs may be followed by prepositions. We label these adverbs with the <code>case</code> relation and attach to them the prepositions with a [mwe] relation.</p>
+
+<pre><code class="language-sdparse">ενάντια σε όλα τα εμπόδια 
+case(εμπόδια, ενάντια)
+mwe(ενάντια, σε)
+</code></pre>
+
+<pre><code class="language-sdparse">ανεξάρτητα από τη θεματική περιοχή
+case(περιοχή, ανεξάρτητα)
+mwe(ανεξάρτητα, από)
+</code></pre>
+
+<pre><code class="language-sdparse">μαζί μ' εκείνους
+case(εκείνους, μαζί)
+mwe(μαζί, μ')
+</code></pre>
+
+<pre><code class="language-sdparse">πίσω από τον Γιάννη
+case(Γιάννη, πίσω)
+mwe(πίσω, από)
+</code></pre>
+
+<p>We use the <code>case</code> relation when these adverbs take a clitic in genitive as a complement.</p>
+
+<pre><code class="language-sdparse">ανάμεσά τους
+case(τους, ανάμεσά)
+</code></pre>
+
+<pre><code class="language-sdparse">δίπλα της
+case(της, δίπλα)
+</code></pre>
+
+<p>When prepositions are used as subordinate conjunctions to introduce clauses, they are labelled with the <a href="mark">mark</a> relation. See <a href="mark">mark</a> for more examples.</p>
+
+<pre><code class="language-sdparse">Δεν συμμετείχα πριν τη συναντήσω .
+advcl(συμμετείχα, συναντήσω)
+mark(συναντήσω, πριν)
+</code></pre>
+
+<h2 id="todo">TODO</h2>
+
+<p>Add guidelines on tokenization of  <em>στ-</em> preposition+article combinations.</p>
 
 
 <!-- "in other languages" links -->

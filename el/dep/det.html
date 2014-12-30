@@ -34,8 +34,31 @@
 
           <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>A determiner is the relation between the head of a noun phrase and its
+<a href="u-pos/DET">determiner</a>.</p>
+
+<pre><code class="language-sdparse">Είναι ένα έργο τέχνης 
+det(έργο, ένα)
+</code></pre>
+
+<pre><code class="language-sdparse">Ποια ηθοποιός θα ενσαρκώσει τη μυθική Μαρλέν ;
+det(ηθοποιός, Ποια)
+det(Μαρλέν, τη)
+</code></pre>
+
+<pre><code class="language-sdparse">την καταπληκτική αυτή προβολή που της χάρισε
+det(προβολή, αυτή-3)
+det(προβολή, την)
+amod(προβολή, καταπληκτική)
+</code></pre>
+
+<pre><code class="language-sdparse">όλη αυτή την καταπληκτική προβολή που της χάρισε
+det(προβολή, όλη)
+det(προβολή, αυτή-2)
+det(προβολή, την)
+amod(προβολή, καταπληκτική)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->
