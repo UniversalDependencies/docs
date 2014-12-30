@@ -37,8 +37,8 @@
 <p>The tokenization in the Swedish UD treebank follows the principles of the Stockholm-Umeå Corpus, Version 2.0 (SUC, 2006), which has become the <em>de facto</em> standard for Swedish tokenization and part-of-speech tagging. This is a straightforward segmentation based on whitespace and punctuation, but the following special cases deserve to be mentioned:</p>
 
 <ul>
-  <li>Abbreviations normalized and treated as single words regardless of whether they contain spaces and or dots or not. Thus the following three ways of abbreviating <em>till exempel</em> (for example) are all represented in the treebank as <em>t.ex.</em>: <code>t.ex.</code>, <code>t. ex.</code>, <code>t ex</code>.</li>
-  <li>Numerical expressions …</li>
+  <li>Abbreviations are treated as single words regardless of whether they contain spaces or not (and internal spaces are replaced by underscore characters). </li>
+  <li>Numerical expressions including dates are treated as single words and not segmented into their components.</li>
 </ul>
 
 <p>The Swedish UD treebank does not contain multiword tokens.</p>
