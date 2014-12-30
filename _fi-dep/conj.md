@@ -18,11 +18,12 @@ conj(maitoa-1, voita-5)
 `Conj` is in Finnish used also in implicit coordinations without a coordinating conjunction, when the coordinated elements are not separated by a colon, semicolon or dash. When one of these is present, `parataxis` is used.
 
 ~~~sdparse
-Kenkäkyllästyminen on kamala tauti, haluan kevään jo tänne. \n To\_get\_bored\_with\_shoes is an\_awful disease, I\_want spring already here.
-conj(tauti-4, haluan-5)
+Kenkäkyllästyminen on kamala tauti , haluan kevään jo tänne. \n To\_get\_bored\_with\_shoes is an\_awful disease , I\_want spring already here.
+conj(tauti-4, haluan-6)
 ~~~
 
-##Diffs
-###Turku Dependency Treebank
+## Diffs
+
+### Turku Dependency Treebank
 
 `Conj` is used also for implicit coordinations without a coordinating conjunction when the coordinated elements are not separated by a colon, semicolon or dash.
