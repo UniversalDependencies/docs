@@ -14,7 +14,7 @@ Irish verbs sometimes inflect for person in the form of synthetic verbs. (e.g. _
 
 There are four moods: indicative, imperative, conditional and subjunctive. Tenses include present habitual, simple past, past habitual and future. 
 
-There is an autonomous verb form, which most closely correlates to the English passive. However it is not technically a passive form as the subject is "understood" and the nominal argument is an object. E.g. _tugadh an liathróid dó_ "the ball was given to him" (lit. somebody gave the ball to him).
+There is an autonomous verb form, which most closely correlates to the English passive. However it is not technically a passive form as the subject is "understood" and the nominal argument is an object. (e.g. _tugadh an liathróid dó_ "the ball was given to him" (lit. somebody gave the ball to him)).
 
 ##### Copula vs substantive verb 'to be'
 
