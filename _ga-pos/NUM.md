@@ -15,11 +15,19 @@ Irish numbers are split into three categories: cardinal, ordinal and personal. T
 
 * _22 Meitheamh_ "22nd June"
 * _1920_
-* _ocht mbliana_ "eight years"
-* _a hocht a chlog_ "8 o'clock"
-* _11ú céad_ "11th century"
-* _dhá theanga_ "two languages"
-* _an dara huair_ "the second time"
-* _cuig ghlúin_ "five generations"
-* _cúigear_ "five people"
-* _cúigear fear_ "five men"
+
+* _<b>ocht</b> mbliana_ "eight years"
+* _a <b>hocht</b> a chlog_ "8 o'clock"
+
+* _<b>11ú</b> céad_ "11th century"
+
+* _a haon_ "one" (counting)
+* _duine amháin_ "one person"
+
+* _<b>dhá</b> theanga_ "two languages"
+* _<b>beirt</b> duine_ "two people"
+* _an <b>dara</b> huair_ "the second time"
+
+* _<b>cuig</b> ghlúin_ "five generations"
+* _<b>cúigear</b>_ "five people"
+* _<b>cúigear</b> fear_ "five men"
