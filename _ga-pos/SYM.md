@@ -4,5 +4,9 @@ title: 'SYM'
 shortdef: 'symbol'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SYM`.
+A symbol is a word-like entity that differs from ordinary words by form, function, or both.
+
+* $, %, §, ©
+* +, −, ×, ÷, =, <, >
+* :), ♥‿♥, 😝
+* post@clubsult.com
