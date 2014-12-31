@@ -4,14 +4,14 @@ title: 'NUM'
 shortdef: 'numeral'
 ---
 
-###### Description
+#### Description
 
 A numeral is a word, functioning most typically as a determiner, adjective or pronoun, that expresses a number and a relation to the number, such as quantity, sequence, frequency or fraction.
 
 Irish numbers are split into three categories: cardinal, ordinal and personal. The personal form is used for counting people. All three forms differ in spelling.
 
 
-###### Examples
+#### Examples
 
 * _22 Meitheamh_ "22nd June"
 * _1920_
