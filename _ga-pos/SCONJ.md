@@ -4,6 +4,8 @@ title: 'SCONJ'
 shortdef: 'subordinating conjunction'
 ---
 
+#### Description
+
 A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other.
 
 In Irish, subordinate conjunctions normally precede a subordinate clause marker such as _go_, _a_. 
@@ -11,7 +13,7 @@ In Irish, subordinate conjunctions normally precede a subordinate clause marker 
 There is also a special case of using _agus_ "and" (normally `CONJ`) as a subordinate conjunction, where the subordinate clause is missing a surface verb `to be', yet will have a subject in use with a progressive aspectual phrase, an adjective, a past participle  or locative adverb.
 
 
-Examples
+#### Examples
 
 * _nuair_ "when"
 * _tháinig sí ar ais <b>nuair</b> a chuala sí an nuacht_ "she came back <b>when</b> she heard the news"
