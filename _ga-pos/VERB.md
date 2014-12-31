@@ -16,7 +16,7 @@ There are four moods: indicative, imperative, conditional and subjunctive. Tense
 
 There is an autonomous verb form, which most closely correlates to the English passive. However it is not technically a passive form as the subject is "understood" and the nominal argument is an object. E.g. _tugadh an liathróid dó_ "the ball was given to him" (lit. somebody gave the ball to him).
 
-###### Copula vs substantive verb 'to be'
+##### Copula vs substantive verb 'to be'
 
 There are two translations of the English verb `to be' in Irish:
 
