@@ -4,7 +4,7 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
-###### Description
+#### Description
 
 There are many different particles in Irish:
 * verbal particles
@@ -16,7 +16,7 @@ There are many different particles in Irish:
 * comparative adjectival particles
 
 
-###### Examples
+#### Examples
 
 * _<b>d'</b>fhág sé_ "he left"
 * _<b>níor</b> fhág sé_ "he didn't leave"
