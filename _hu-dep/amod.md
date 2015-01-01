@@ -4,5 +4,4 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `amod`.
+Adverbial uses of adjectives are marked with amod:mode (szépen - nicely, which is marked as adjective in the Hungarian data). Other (attributive) uses of adjectives are marked with amod:att.
