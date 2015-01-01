@@ -4,5 +4,4 @@ title: 'NUM'
 shortdef: 'numeral'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NUM`.
+Numbers bear the nominal inflectional features (Number, Case, Number[psor], Person[psor], Number[psed]), plus the NumType feature.
