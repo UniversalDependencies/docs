@@ -4,5 +4,4 @@ title: 'X'
 shortdef: 'other'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `X`.
+The English tag `X` is used for the PTB tags FW, LS, XX, ADD, AFX, and GW. Some things tagged AFX would be candidates for retagging with other tags, but that has not been attempted.
