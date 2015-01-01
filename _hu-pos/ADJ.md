@@ -4,5 +4,4 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADJ`.
+Present, past and future participles are marked as ADJ, marked by the feature VerbForm. They are not comparable, thus their Degree feature is None, as opposed to normal adjectives.
