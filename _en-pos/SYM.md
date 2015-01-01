@@ -4,5 +4,4 @@ title: 'SYM'
 shortdef: 'symbol'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SYM`.
+The English `SYM` covers PTB tags NFP (except for lines of separators, which become PUNCT), #, $, SYM.
