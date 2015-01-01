@@ -4,5 +4,4 @@ title: 'Degree'
 shortdef: 'degree of comparison'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Degree`.
+Degree is relevant for adjectives and some adverbs in Hungarian.

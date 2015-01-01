@@ -4,5 +4,16 @@ title: 'Definite'
 shortdef: 'definiteness or state'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Definite`.
+Definiteness is relevant for determiners and verbs in Hungarian. Besides the values Def and Indef, we apply the value 2 for marking second preson objects, which trigger special inflectional suffixes on the verb:
+
+Szeret egy fiút.
+love-PRES-3SG-INDEF a boy-ACC
+"She loves a boy."
+
+Szereti a fiút.
+love-PRES-3SG-DEF the boy-ACC
+"She loves the boy."
+
+Szeretlek.
+love-PRES-1SG-2SGOBJ
+"I love you."
