@@ -4,5 +4,8 @@ title: 'Aspect'
 shortdef: 'aspect'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Aspect`.
+Two values of Aspect are used in Hungarian, both of which denote productive derivational processes:
+
+Freq (frequentative): üt - ütöget (hit - hit several times)
+
+Mod (modal): üt - üthet (hit - (he) may hit)
