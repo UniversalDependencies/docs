@@ -4,5 +4,8 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nmod`.
+nmod denotes the head noun of postpositional phrases.
+
+nmod:att denotes nominal dependents of other nouns, e.g. in a possessive structure: a fiú kutyája - the boy dog-3SGPOSS "the boy's dog", where fiú has the relation nmod:att.
+
+nmod:obl denotes nominal dependents that bear a case marker different from accusative or dative: Eljövök a kutyáért - away.come-PRES-1SG-INDEF the dog-CAU "I will come for the dog", where kutyáért has the relation nmod:obl.
