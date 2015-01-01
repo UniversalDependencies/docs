@@ -4,5 +4,4 @@ title: 'NOUN'
 shortdef: 'noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NOUN`.
+The English `NOUN` corresponds to all cases of PTB NN and NNS, except for %, which we retag as SYM.
