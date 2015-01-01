@@ -13,3 +13,5 @@ The English `PUNCT` covers PTB tags:
 * ,
 * .
 * :
+* HYPH
+* Some uses of NFP (for lines of hyphens, asterisks or tildes)
