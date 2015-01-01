@@ -4,5 +4,4 @@ title: 'PRON'
 shortdef: 'pronoun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PRON`.
+The English `PRON` corresponds to the PTB PRP, PRP$, WP, and WP$.
