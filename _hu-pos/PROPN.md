@@ -4,5 +4,4 @@ title: 'PROPN'
 shortdef: 'proper noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PROPN`.
+Proper nouns can have the following features: Number, Case, Number[psor], Person[psor], Number[psed]
