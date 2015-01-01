@@ -436,13 +436,19 @@ for <code>mwe</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe.md" target="#">edit mwe</a></p>
 
-<p><a id="al-cs-dep/mwe" class="al-dest"></a></p>
-<h2><code>mwe</code>: multi-word expression</h2>
+<p><a id="al-cs-dep/mwe:reflex" class="al-dest"></a></p>
+<h2><code>mwe:reflex</code>: reflexive verb</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mwe</code>.</p>
+<p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
+However, some verbs are obligatorily reflexive, i.e. the verb always occurs with a reflexive
+prounoun. With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
+but as a special sort of <code>mwe</code> relation.</p>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe-reflex.md" target="#">edit mwe</a></p>
+<pre><code class="language-sdparse">Martin se bojí zvířat .
+mwe:reflex(bojí, se)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe-reflex.md" target="#">edit mwe:reflex</a></p>
 
 <p><a id="al-cs-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
