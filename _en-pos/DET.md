@@ -4,5 +4,4 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `DET`.
+The English `DET` currently covers all case of PTB DT, WDT, EX. (There probably should be some more subtlety in this interpretation, but at present there isn't).

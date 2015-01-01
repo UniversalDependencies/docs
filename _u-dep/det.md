@@ -4,8 +4,10 @@ title: 'det'
 shortdef: 'determiner'
 ---
 
-A determiner is the relation between the head of a noun phrase and its
-[determiner](u-pos/DET).
+The relation determiner (`det`) holds between a nominal head and its
+[determiner](u-pos/DET). Most commonly, a word of POS `DET` will have the relation `det` and vice versa. The known exceptions at present are:
+
+* A possessive pronoun like [en] _my_ is given the POS tag `DET` but the relation [nmod](), so that it is parallel with other possessive constructions.
 
 ~~~ sdparse
 The man is here

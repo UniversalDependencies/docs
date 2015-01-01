@@ -4,5 +4,6 @@ title: 'auxpass'
 shortdef: 'passive auxiliary'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `auxpass`.
+## Diffs
+
+The `auxpass` is not used for UD Greek.

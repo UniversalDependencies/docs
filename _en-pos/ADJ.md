@@ -4,5 +4,4 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADJ`.
+The English `ADJ` is currently precisely the union of PTB JJ, JJR, and JJS.

@@ -4,5 +4,4 @@ title: 'PRON'
 shortdef: 'pronoun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PRON`.
+Besides the nominal inflectional features (Number, Case, Number[psor], Person[psor], Number[psed]), pronouns are marked for Number and Person and PronType. Reflexive pronouns bear the feature reflexive but no PronType.

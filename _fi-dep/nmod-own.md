@@ -7,8 +7,8 @@ shortdef : 'haver'
 In Finnish, there is no direct equivalent to the verb *have*. Rather,
 *having* is expressed using the verb *olla*, *to be*. For instance,
 the meaning of the sentence *I have a pen* would be expressed in
-Finnish by *Minulla on kynä*, literally *"At me is a pen"*. In UD
-Finnish, these so called *possessive clauses* (omistuslause)  are
+Finnish by *Minulla on kynä*, literally *"At me is a pen"*, with *"me"* 
+in the adessive and *"pen*" in the nominative case. In UD Finnish, these so called *possessive clauses* (omistuslause)  are
 analyzed as a subtype to *existential clauses*, (eksistentiaalilause)
 making the thing had (*kynä* in the previous example) the subject.
 
