@@ -4,5 +4,4 @@ title: 'VERB'
 shortdef: 'verb'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `VERB`.
+The tag `VERB` covers PTB tags VB, VBP, VBZ, VBD, VBG, VBN, except for auxiliary verb uses of _be_, _have_, _do_, and _get_.
