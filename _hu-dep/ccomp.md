@@ -4,5 +4,4 @@ title: 'ccomp'
 shortdef: 'clausal complement'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ccomp`.
+Clausal objects are marked with ccomp:obj, clauses that express a core dependent of the main verb but are not objects are marked with ccomp:obl, and clauses that express a predicative dependent of the main verb are marked with ccomp:pred.
