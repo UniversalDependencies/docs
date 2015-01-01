@@ -4,5 +4,4 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+The English `INTJ` corresponds to the PTB UH.
