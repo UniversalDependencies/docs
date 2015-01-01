@@ -4,5 +4,4 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+Case is used for nominal parts-of-speech (nouns, proper nouns, numerals, adjectives and pronouns).
