@@ -4,5 +4,4 @@ title: 'expl'
 shortdef: 'expletive'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `expl`.
+This relation is not relevant in Hungarian.
