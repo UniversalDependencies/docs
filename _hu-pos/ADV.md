@@ -4,5 +4,4 @@ title: 'ADV'
 shortdef: 'adverb'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADV`.
+Adverbial subclasses are marked with the feature PronType. Some of them are comparable, thus they bear the Degree feature.
