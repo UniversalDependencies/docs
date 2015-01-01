@@ -7,5 +7,4 @@ shortdef: 'auxiliary verb'
 redirect_from: "en/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+The English `AUX` covers PTB MD and uses of the various verbal tags (VB, VBP, VBG, VBN, VBP, VBZ) when they are forms of _be_, _have_, _go_, and _get_ when used as an auxiliary (we count passive _get_ as an auxiliary).
