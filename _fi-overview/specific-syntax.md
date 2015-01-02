@@ -35,7 +35,7 @@ punct(on-3, .-5)
 
 Possessive clauses (omistuslause) are considered a subtype of
 existential clauses, and analyzed similarly. The owner in possessive
-clauses is marked using the type [`nmod:own`]().
+clauses is marked using the type [`nmod:own`](). The haver must be an animate being or a group of animate beings.
 
 <!-- fname:nsubj_possessive.pdf -->
 ~~~ sdparse
@@ -56,7 +56,7 @@ genitive subject of a noun, [nmod:gsubj]())
 Minun on pakko mennä kotiin . \n I(gen.) is obligation go home .
 nsubj(mennä-4, Minun-1)
 cop(pakko-3, on-2)
-ccomp:nf(pakko-3, mennä-4)
+xcomp:ds(pakko-3, mennä-4)
 nmod(mennä-4, kotiin-5)
 punct(pakko-3, .-6)
 ~~~
@@ -73,8 +73,7 @@ accusative form is analyzed as the subject are:
 
 The same cases are allowed for objects as for subjects: the
 nominative, the partitive, the genitive and the accusative.
-Complements in other cases are analyzed as *nominal modifiers*
-([`nmod`]()), despite their complement status.
+Nominal and adjectival complements (other than predicatives), however, can be in other cases as well.
 
 *Object cased amount adverbials* (objektin sijainen määrän
 adverbiaali, OSMA
@@ -108,7 +107,18 @@ subject, not an object. (In English, the Finnish derived passives
 generally correspond to intransitive uses of a verb, such as *the door
 opens*, sometimes termed *inchoative*.).
 
-**FIGURE MISSING**
+~~~ sdparse
+Minä avasin oven . \n I opened the_door .
+nsubj(avasin-2, Minä-1)
+dobj(avasin-2, oven-3)
+punct(avasin-2, .-4)
+~~~
+
+~~~ sdparse
+Ovi aukeaa . \n The_door opens .
+nsubj(aukeaa-2, Ovi-1)
+punct(aukeaa-2, .-3)
+~~~
 
 #### References
 
@@ -168,7 +178,7 @@ punct(minun-4, .-5)
 
 Nominals in any other case are not marked as predicatives, even if
 they are associated with the verb *olla*. They, similarly to
-adpositional phrases, are marked as *nominal modifiers* ([`nmod`]()),
+adpositional phrases, are marked as *nominal modifiers* ([`nmod`]()) in case of modifiers and one of the clausal complement types ([`xcomp`](), [`xcomp:ds`]()) in case of complements including secondary predication,
 and the verb is marked as the head of the clause, even if it is *olla*
 "to be".
 
@@ -259,30 +269,18 @@ punct(järjestää-3, .-6)
 ### Copulas and auxiliaries
 <!-- this section originally from TDT guidelines section 5.2.2 -->
 
-**NOTE/TODO: the following description copied from the TDT manual
-conflicts with the UD specification. This should be revised or
-rephrased as a diff.**
-
 In the Finnish-specific version of the UD scheme, copular verbs and
-auxiliaries take no dependents of their own, with one exception. An
-auxiliary of a copular verb is attached to the copula, and not the
-main predicative as is the usual case.  Note that this is the case
-even if the resulting analysis becomes non-projective.
+auxiliaries take no dependents of their own. In cases of two auxiliaries or an auxiliary of a copular verb, all auxiliaries as well as the copular verb are attached to the main predicate or the predicative. The same principle applies also to negation verbs.
 
 <!-- fname:copaux.pdf -->
 ~~~ sdparse
 Hänkin on joskus ollut nuori . \n He_too has some_time been young .
 nsubj:cop(nuori-5, Hänkin-1)
-aux(ollut-4, on-2)
+aux(nuori-5, on-2)
 advmod(nuori-5, joskus-3)
 cop(nuori-5, ollut-4)
 punct(nuori-5, .-6)
 ~~~
-
-The same rule is applied to the auxiliary of another auxiliary as
-well. All other dependents are attached to the main verb or
-predicative. (Note that this includes negation as well, even though
-negation verbs are generally considered auxiliaries.)
 
 <!-- fname:auxaux.pdf -->
 ~~~ sdparse
@@ -290,7 +288,7 @@ Minun ei ehkä olisi pitänyt sanoa niin . \n I not maybe have should said so .
 nsubj(sanoa-6, Minun-1)
 neg(sanoa-6, ei-2)
 advmod(sanoa-6, ehkä-3)
-aux(pitänyt-5, olisi-4)
+aux(sanoa-6, olisi-4)
 aux(sanoa-6, pitänyt-5)
 advmod(sanoa-6, niin-7)
 punct(sanoa-6, .-8)
@@ -363,7 +361,7 @@ nsubj:cop(mukava-5, matka-4)
 yhdistys , jonka puheenjohtaja Matikainen on \n association , of_which chairman Matikainen is
 acl:relcl(yhdistys-1, puheenjohtaja-4)
 punct(puheenjohtaja-4, ,-2)
-rel(puheenjohtaja-4, jonka-3)
+poss(puheenjohtaja-4, jonka-3)
 nsubj:cop(puheenjohtaja-4, Matikainen-5)
 cop(puheenjohtaja-4, on-6)
 ~~~
@@ -413,7 +411,15 @@ punct(ryhtyi-2, .-4)
 nsubj(lukemaan-3, Matti-1)
 ~~~
 
-TODO: description of second-layer UD Finnish relation `nsubj:cop`.
+~~~ sdparse
+Hän vaikutti olevan hiljainen . \n He appeared to_be silent .
+nsubj(vaikutti-2, Hän-1)
+xcomp(vaikutti-2, hiljainen-4)
+cop(hiljainen-4, olevan-3)
+punct(vaikutti-2, .-5)
+nsubj:cop(hiljainen-4, Hän-1)
+~~~
+
 
 ## Appositions and appellation modifiers
 <!-- this section originally from TDT guidelines section 5.3 -->
@@ -465,7 +471,7 @@ of the two words.
 <!-- fname:nn_appellation.pdf -->
 ~~~ sdparse
 Professori Matti Tamminen pitää puheen . \n Professor Matti Tamminen gives a_speech .
-nn(Tamminen-3, Professori-1)
+compound:nn(Tamminen-3, Professori-1)
 name(Tamminen-3, Matti-2)
 nsubj(pitää-4, Tamminen-3)
 dobj(pitää-4, puheen-5)
@@ -561,52 +567,35 @@ dependent can be an infinitive modifier ([`acl:infmod`]()) or a
 participle modifier ([`acl:partmod`]()).
 
 If, in turn, the governor is a verb, then the dependent can be either
-a complement or a modifier. A complement can be either clausal or
-non-clausal. With clausal complements, there are three alternative
+a complement or a modifier. With complements, there are three alternative
 dependency types available: [`xcomp`](), [`ccomp`](), and
-[`ccomp:nf`]().
+[`xcomp:ds`]().
 
 If the subject of the dependent is shared with the governor (subject
-control), the correct type to use is [`xcomp`](). If not, the decision
-is made by the morphology of the dependent. If the form of the verb is
-nonfinite (an infinitive or a participle), the correct type is
-[`ccomp:nf`]().
+control), the correct type to use is [`xcomp`](). If any other sentence element is inherited from the higher clause (for example a `dobj`), the correct type is
+[`xcomp:ds`](), and otherwise [`ccomp`]().
 
-If, in turn, the verb is in a finite form, the correct type is
-[`ccomp`](). (For instance, the verb form *juoksevan* can, in addition
-to a participle, be a finite form, as in *näin miehen juoksevan*. See
-for instance ISK
-[§938](http://scripta.kotus.fi/visk/sisallys.php?p=938),
-[§1452](http://scripta.kotus.fi/visk/sisallys.php?p=1452) about
-referative and temporal structures, which are considered finite.)
+#### Examples
+* [fi] *Hän alkoi <b>hakata halkoja</b>.*
+  "He started chopping the wood."
+* [fi] *Sain <b>hänet itkemään</b>.*
+  "I made him cry."
 
-If the dependent is a non-clausal complement, it is a participial
-complement that resembles adjectival complements. Some of these
-complements can be modified, but all the same they do not form
-clauses. These participial complements do not have their own dependency
-type, and the type [`acl:partmod`]() is used to annotate them.
+The dependent can also be a participial
+complement that resembles adjectival complements. The above-mentioned three clausal complement types should be used in these cases as well.
 
 #### Examples
 
 * [fi] *Poika vei kotitehtävän <b>opettajan tarkastettavaksi</b>.*
   "The boy took the homework to be inspected by the teacher."
 
-If the dependent is not a complement but a modifier, again the
-morphology of the dependent decides the dependency type. If the
-dependent is either an infinitive or a temporal form, then the correct
-dependency type is [`advcl`](). These cases are usually easily
-recognized as *lauseenvastike* ("substitute of a clause").
+If the dependent is not a complement but a modifier, then the correct
+dependency type is [`advcl`](). These cases are usually
+recognized as *lauseenvastike* ("substitute of a clause") or *non-complement participles*.
 
 #### Examples
 
 * [fi] *Pyyhittyään pölyt hän imuroi.* "After dusting, he hoovered."
-
-If the dependent is a participle, the correct type is
-[`acl:partmod`](). These participial modifiers of a verb are often in
-the essive case.
-
-#### Examples
-
 * [fi] *Huolestuneena seurasin tilanteen kehittymistä.* "Worried, I
   followed the development of the situation."
 
@@ -708,10 +697,6 @@ punct(tuli-2, .-6)
 ## Relative clauses
 <!-- this section originally from TDT guidelines section 5.6 -->
 
-(NOTE/TODO: the following section is originally from the TDT
-documentation and has not yet been fully updated for UD. Some of
-the guidelines here may not apply to UD Finnish.)
-
 Relative clauses most often modify noun phrases, but it is also
 possible for them to modify a whole clause. From a prescriptive
 perspective, the relativizer that should be used in relative clauses
@@ -722,7 +707,7 @@ in real, especially spoken, language, the use of the two relativizers
 is mixed, and not every joka clause actually refers to the word
 adjacent to it. In UD Finnish, the actual reference for the relative
 clause is chosen as the head of the [`acl:relcl`]() dependency
-wherever possible.
+wherever possible. For this reason, the head of the [`acl:relcl`]() relation can occasionally be a verb.
 
 <!-- fname:relative_ungrammatical.pdf -->
 ~~~ sdparse
@@ -745,8 +730,6 @@ types (e.g. `rel`) to mark the relativizer. In particular, in the TDT
 corpus the basic dependency layer used `rel` and the second annotation
 layer identified the actual syntactic role.)
 
-(**TODO**: example may not follow the UD definitions, check "xobj")
-
 <!-- fname:rel_projectivity1.pdf -->
 ~~~ sdparse
 Lapsi , jonka hän sai itkemään , parkui yhä surkeasti . \n The_child , whom he made cry , wailed still miserably .
@@ -754,7 +737,7 @@ acl:relcl(Lapsi-1, sai-5)
 punct(sai-5, ,-2)
 nsubj(itkemään-6, jonka-3)
 nsubj(sai-5, hän-4)
-ccomp:nf(sai-5, itkemään-6)
+xcomp:ds(sai-5, itkemään-6)
 punct(sai-5, ,-7)
 nsubj(parkui-8, Lapsi-1)
 advmod(parkui-8, yhä-9)
@@ -762,14 +745,12 @@ advmod(parkui-8, surkeasti-10)
 punct(parkui-8, .-11)
 ~~~
 
-(**TODO**: update example)
-
 <!-- fname:rel_projectivity2.pdf -->
 ~~~ sdparse
 Tuon lapsen hän sai itkemään . \n That child he made cry .
 det(lapsen-2, Tuon-1)
 nsubj(sai-4, hän-3)
-ccomp:nf(sai-4, itkemään-5)
+xcomp:ds(sai-4, itkemään-5)
 nsubj(itkemään-5, lapsen-2)
 punct(sai-4, .-6)
 ~~~
@@ -937,15 +918,15 @@ Structures with comparative adjectives and adverbs may be difficult
 to annotate: they are often elliptical, and it may be difficult to
 tell what is being compared with what. In the Finnish-specific
 version of the SD scheme, there are two dependency types that are
-reserved for comparative structures, `compar` and
-`comparator`. Both of these types are new types not present
-in the original SD scheme.
+reserved for comparative structures, [`advcl:compar`]() and
+[`mark:comparator`](). Both of these types are new types not present
+in the UD nor the original SD scheme.
 
 The basic usage of these two types is as follows. The comparative
-adjective or adverb acts as the head for a `compar`
+adjective or adverb acts as the head for a [`advcl:compar`]()
 dependency, and *the element being compared* is its
 dependent. The element being compared also acts as the head for a
-`comparator` dependency, the dependent of which is a
+[`mark:comparator`]() dependency, the dependent of which is a
 comparative conjunction, nearly always *kuin*.
 
 <!-- fname:comparatives.pdf -->
@@ -953,13 +934,13 @@ comparative conjunction, nearly always *kuin*.
 Keittiö on pienempi kuin olohuone . \n Kitchen is smaller than livingroom .
 nsubj-cop(pienempi-3, Keittiö-1)
 cop(pienempi-3, on-2)
-compar(pienempi-3, olohuone-5)
-comparator(olohuone-5, kuin-4)
+advcl:compar(pienempi-3, olohuone-5)
+mark:comparator(olohuone-5, kuin-4)
 punct(pienempi-3, .-6)
 ~~~
 
 Note that the comparative adjective or adverb remains the head of
-the `compar` dependency even if the word order is such that
+the [`advcl:compar`]() dependency even if the word order is such that
 the dependency becomes non-projective.
 
 <!-- fname:comparatives_non-projective.pdf -->
@@ -968,8 +949,8 @@ Matilla on isompi auto kuin Pekalla . \n At_Matti is bigger car than Pekka .
 nmod(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, isompi-3)
-compar(isompi-3, Pekalla-6)
-comparator(Pekalla-6, kuin-5)
+advcl:compar(isompi-3, Pekalla-6)
+mark:comparator(Pekalla-6, kuin-5)
 punct(on-2, .-7)
 ~~~
 
@@ -983,16 +964,16 @@ the available elements are used wherever possible.
 
 It is also possible to make comparisons without the comparative
 conjunction *kuin*. In these cases, only the dependency type
-`compar` is used, marking the comparative adjective or
+[`advcl:compar`]() is used, marking the comparative adjective or
 adverb as the head, and the element compared as the dependent, just
 as in the case with the comparative conjunction present.
 
 <!-- fname:compar_no_comparator.pdf -->
 ~~~ sdparse
 Olohuone on keittiötä suurempi . \n Livingroom is (than_)kitchen bigger .
-nsubj-cop(suurempi-4, Olohuone-1)
+nsubj:cop(suurempi-4, Olohuone-1)
 cop(suurempi-4, on-2)
-compar(suurempi-4, keittiötä-3)
+advcl:compar(suurempi-4, keittiötä-3)
 punct(suurempi-4, .-5)
 ~~~
 
@@ -1009,8 +990,8 @@ example the word _sama_ "same" is in fact a pronoun in Finnish.)
 Luin saman kirjan kuin Pekka . \n I_read same book as Pekka .
 dobj(Luin-1, kirjan-3)
 det(kirjan-3, saman-2)
-compar(saman-2, Pekka-5)
-comparator(Pekka-5, kuin-4)
+advcl:compar(saman-2, Pekka-5)
+mark:comparator(Pekka-5, kuin-4)
 punct(Luin-1, .-6)
 ~~~
 
@@ -1153,24 +1134,21 @@ the one hand, they seem to modify the main clause, expressing when the
 action of the main clause takes place. On the other hand, they could
 also modify the subordinate clause, being a part of the time condition
 given in the subordinate clause.  A third option would be to make the
-time adverbial depend on the subordinating conjunction, to make the
-whole expression a two-part conjunction. The third option has some
-intuitive appeal, but this would make the number of subordinating
-conjunctions excessively large.
+time adverbial depend on the subordinating conjunction, becoming either multi-part conjunctions or conjunctions with adverbial modifiers.
 
 In UD Finnish, a very limited number of these cases are considered
 especially tightly bound with the subordinating conjunction. These
 cases are considered multi-part subordinating conjunctions and listed
 as such in the documentation for [mark](). Otherwise, these adverbials
-are consistently made dependents of the subordinate clause.
+are consistently made dependents of the subordinate conjunctions.
 
 <!-- fname:subordinate+time_adverbial.pdf -->
 ~~~ sdparse
 Tulen sinne heti , kun pääsen . \n I_will_come there right_away , when I_can .
 advmod(Tulen-1, sinne-2)
 advcl(Tulen-1, pääsen-6)
-advmod(pääsen-6, heti-3)
-punct(pääsen-6, ,-4)
+advmod(kun-5, heti-3)
+punct(kun-5, ,-4)
 mark(pääsen-6, kun-5)
 punct(Tulen-1, .-7)
 ~~~
@@ -1417,7 +1395,7 @@ punct(käytettävissä-3, .-4)
 <!-- fname:pcp+pass2.pdf -->
 ~~~ sdparse
 Käytettävissä olevat resurssit ovat rajalliset . \n Usable being resources are limited .
-acl:partmod(olevat-2, Käytettävissä-1)
+xcomp(olevat-2, Käytettävissä-1)
 acl:partmod(resurssit-3, olevat-2)
 nsubj:cop(rajalliset-5, resurssit-3)
 cop(rajalliset-5, ovat-4)
@@ -1459,7 +1437,7 @@ what it is that is necessary).
 Hänen on pakko mennä kotiin . \n He has to go home .
 nsubj(mennä-4, Hänen-1)
 cop(pakko-3, on-2)
-ccomp:nf(pakko-3, mennä-4)
+xcomp:ds(pakko-3, mennä-4)
 nmod(mennä-4, kotiin-5)
 punct(pakko-3, .-6)
 ~~~
@@ -1804,6 +1782,7 @@ Jos syöt sieniä , jotka ovat myrkyllisiä , kuolet . \n If you_eat mushrooms ,
 mark(syöt-2, Jos-1)
 dobj(syöt-2, sieniä-3)
 acl:relcl(sieniä-3, myrkyllisiä-7)
+nsubj:cop(myrkyllisiä-7, jotka-5)
 punct(myrkyllisiä-7, ,-4)
 cop(myrkyllisiä-7, ovat-6)
 punct(myrkyllisiä-7, ,-8)
@@ -1852,9 +1831,9 @@ dobj(sotke-3, itseäsi-4)
 punct(sotke-3, "-1)
 punct(sotke-3, "-5)
 punct(sotke-3, ,-6)
-parataxis(sanoi-8, sotke-3)
+parataxis(sotke-3, sanoi-8)
 nsubj(sanoi-8, äiti-7)
-punct(sanoi-8, .-9)
+punct(sotke-3, .-9)
 ~~~
 
 Single and double quotes as well as parentheses are attached to the
@@ -1894,9 +1873,9 @@ punct(sotke-3, --1)
 neg(sotke-3, Älä-2)
 dobj(sotke-3, itseäsi-4)
 punct(sotke-3, ,-5)
-parataxis(sanoi-6, sotke-3)
+parataxis(sotke-3, sanoi-6)
 nsubj(sanoi-6, äiti-7)
-punct(sanoi-6, .-8)
+punct(sotke-3, .-8)
 ~~~
 
 If the quotes or parentheses contain two or more items, such as parts
