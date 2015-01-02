@@ -19,6 +19,6 @@ punct(oli-2, .-4)
 Maljakko oli pöydän päällä . \n The_vase was table on_top_of .
 nsubj(oli-2, Maljakko-1)
 nmod(oli-2, pöydän-3)
-adpos(pöydän-3, päällä-4)
+case(pöydän-3, päällä-4)
 punct(oli-2, .-5)
 ~~~
