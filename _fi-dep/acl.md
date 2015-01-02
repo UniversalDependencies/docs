@@ -16,4 +16,4 @@ These modifiers are divided into three subtypes: *relative clause modifier* ([ac
 
 ### Turku Dependency Treebank
 
-We do not attempt to distinguish modifiers including secondary predication from other type of modifiers. Therefore, optional predicatives are attached to the main verb with one of the modifier relations.
+We do not attempt to distinguish modifiers including secondary predication from other type of modifiers. Therefore, optional predicative like modifiers are attached to the main verb with one of the modifier relations.
