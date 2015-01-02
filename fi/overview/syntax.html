@@ -82,12 +82,11 @@ for subjects of copular clauses. These two new types come in place of
 the passive subject types that are, as explained above, not applied in
 UD Finnish.</p>
 
-<p>We have introduced one new subtype for clausal complements
-(<a href=""><code>ccomp</code></a>): <em>nonfinite clausal complement</em>, <a href=""><code>ccomp:nf</code></a>. This is
-due to the fact that clausal complements in Finnish often involve a
-nonfinite main verb.</p>
+<p>We have introduced two new subtypes for open clausal complements
+(<a href=""><code>xcomp</code></a>): 1) <em>clausal complement with different subject</em>, <a href=""><code>xcomp:ds</code></a>. This is
+to distinguish which of the sentence elements is inherited from the higher clause. 2) <em>adjectival complement</em>, <a href=""><code>xcomp:a</code></a>, to be used when the complement is an adjective.</p>
 
-<p>The new types <a href=""><code>compar</code></a> and <a href=""><code>mark:comparator</code></a> are to be used in
+<p>The new types <a href=""><code>advcl:compar</code></a> and <a href=""><code>mark:comparator</code></a> are to be used in
 structures involving comparisons of adjectives (and occasionally other
 parts-of-speech).</p>
 
@@ -128,8 +127,8 @@ to (nearly) corresponding UD Finnish labels. (See also <a href="https://github.c
     </tr>
     <tr>
       <td style="text-align: left"><code>compar</code></td>
-      <td style="text-align: left">?</td>
-      <td style="text-align: left">Mapping pending</td>
+      <td style="text-align: left"><a href="">advcl:compar</a></td>
+      <td style="text-align: left"> </td>
     </tr>
     <tr>
       <td style="text-align: left"><code>comparator</code></td>
@@ -158,7 +157,7 @@ to (nearly) corresponding UD Finnish labels. (See also <a href="https://github.c
     </tr>
     <tr>
       <td style="text-align: left"><code>iccomp</code></td>
-      <td style="text-align: left"><a href="">ccomp:nf</a></td>
+      <td style="text-align: left"><a href="">xcomp:ds</a></td>
       <td style="text-align: left"> </td>
     </tr>
     <tr>
@@ -245,7 +244,7 @@ to (nearly) corresponding UD Finnish labels. (See also <a href="https://github.c
 </table>
 
 <p>The TDT dependency type <code>rel</code> is not mapped to any single UD type.
-Instead (… TODO document mapping using second layer)</p>
+Instead we use any normal dependency relation to catch the syntactic function of the relativizer (for example <code>nsubj</code> or <code>dobj</code>).</p>
 
 <p>Additionally, the following dependency relations cannot be directly
 created by mapping existing TDT annotations and may thus not occur in
