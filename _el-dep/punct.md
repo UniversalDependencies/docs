@@ -98,7 +98,7 @@ List item markers such as bullets of a bulleted list are marked as punctuation a
 
 ~~~ sdparse
 \* 9 σταθμούς εργασίας
-punct(σταθμούς, \*)
+punct(σταθμούς, *)
 ~~~
 
 
