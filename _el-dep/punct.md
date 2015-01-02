@@ -84,7 +84,7 @@ If the above rule leads to non-projectivity, the punctuation is attached to the 
 αν δεν υπήρχε αυτός ( ή αυτή )
 cc(αυτός, ή)
 punct(ή, (-5)
-punct(ή, (-8)
+punct(αυτή, )-8)
 ~~~
 
 Punctuation can also delimit short additions, such as nominal modifiers or appositions, and in such cases, the punctuation should be attached to the head of the addition.
