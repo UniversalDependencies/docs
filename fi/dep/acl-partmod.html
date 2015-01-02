@@ -56,11 +56,11 @@ dobj(ilahduttivat-3, lapsia-4)
 punct(ilahduttivat-3, .-5)
 </code></pre>
 
-<p>Occasionally, participles can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. Note that in the complement-like cases of <code>acl:partmod</code>, the complement is not a clause; otherwise it would be marked as a <em>non-finite clausal complement</em> <a href="">ccomp:nf</a>.</p>
+<p>Occasionally, participal verb forms can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. In the complement-like situations, one of the clausal complement types (<a href="">ccomp</a>, <a href="">xcomp</a> or <a href="">xcomp:ds</a>) should be used, whereas modifiers are marked as <em>adverbial clause modifiers</em> (<a href="">advcl</a>).</p>
 
 <!-- fname:partmod_VP_mod.pdf -->
 <pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
-acl:partmod(juoksin-2, Huolestuneena-1)
+advcl(juoksin-2, Huolestuneena-1)
 nmod(juoksin-2, hänen-3)
 adpos(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
@@ -69,7 +69,7 @@ punct(juoksin-2, .-5)
 <!-- fname:partmod_VP_comp.pdf -->
 <pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
 nsubj(osoittautui-2, Ksylitoli-1)
-acl:partmod(osoittautui-2, ehkäiseväksi-4)
+xcomp(osoittautui-2, ehkäiseväksi-4)
 dobj(ehkäiseväksi-4, kariesta-3)
 punct(osoittautui-2, .-5)
 </code></pre>
