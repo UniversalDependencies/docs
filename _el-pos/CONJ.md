@@ -15,5 +15,7 @@ _ή - ή_ "either - or", both words are annotated `CONJ`.
 
 #### Examples
 
-* _και_ "and", _ή_ "or", _αλλά_ "but"
+* _και_ "and"
+* _ή_ "or"
+* _αλλά_ "but"
 * _<b>είτε</b> εσύ <b>είτε</b> ο Παύλος_ "<b>either</b> you <b>or</b> Pavlos"
