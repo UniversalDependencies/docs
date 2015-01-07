@@ -1,9 +1,3 @@
----
-layout: base
-title:  'Introduction'
-permalink: ja/overview/introduction.html
----
-
 # Introduction
 
 The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.
@@ -20,6 +14,10 @@ We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
 ## PoS Tag
 
 UD PoS for Japanese is obtained from UniDic PoS Tagset.
+
+## Dependency Links
+
+## Dependency Relations
 
 # Background 
 (To be written)
