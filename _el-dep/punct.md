@@ -79,11 +79,12 @@ punct(Ανέβηκαν, »)
 ~~~
 
 If the above rule leads to non-projectivity, the punctuation is attached to the closest enclosed element.
+
 ~~~ sdparse
 αν δεν υπήρχε αυτός ( ή αυτή )
 cc(αυτός, ή)
 punct(ή, (-5)
-punct(ή, (-8)
+punct(αυτή, )-8)
 ~~~
 
 Punctuation can also delimit short additions, such as nominal modifiers or appositions, and in such cases, the punctuation should be attached to the head of the addition.
@@ -94,14 +95,15 @@ punct(άγχος, ,-4)
 ~~~
 
 List item markers such as bullets of a bulleted list are marked as punctuation attached to the head of the list item.
+
 ~~~ sdparse
-\* 9 σταθμούς εργασίας
-punct(σταθμούς, \*)
+* 9 σταθμούς εργασίας
+punct(σταθμούς, *)
 ~~~
 
 
 <!--
-What does the following regarding ellipsis mean from the UD guidelines?
+What does the following regarding ellipsis mean?
 Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
 -->
 

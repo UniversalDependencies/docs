@@ -4,5 +4,4 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Tense`.
+This feature is used for verbs and auxiliaries, with the values Past and Pres.

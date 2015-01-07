@@ -34,3 +34,19 @@ det(προβολή, την)
 amod(προβολή, καταπληκτική)
 ~~~
 
+In the case of polydefinites, we attach both definite articles to the nominal head.
+
+~~~ sdparse
+το μικρό το αυτοκίνητο
+det(αυτοκίνητο, το-1)
+det(αυτοκίνητο, το-3)
+amod(αυτοκίνητο, μικρό)
+~~~
+
+~~~ sdparse
+το πουκάμισο το θαλασσί
+det(πουκάμισο, το-1)
+det(πουκάμισο, το-3)
+amod(πουκάμισο, θαλασσί)
+~~~
+

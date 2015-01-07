@@ -4,5 +4,4 @@ title: 'auxpass'
 shortdef: 'passive auxiliary'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `auxpass`.
+This relation is not relevant in Hungarian.

@@ -4,5 +4,4 @@ title: 'Voice'
 shortdef: 'voice'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Voice`.
+We use Voice for verbs and auxiliaries with two values, Act and Cau.

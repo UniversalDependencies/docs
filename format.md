@@ -139,7 +139,7 @@ Here is an example, showing the first nine fields for the English sentence _They
     5    books    book    NOUN    NNS    Number=Plur                        2    dobj     4:dobj
     6    .        .       PUNCT   .      _                                  2    punct    _
 
-The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*`,
+The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*(:[a-z][a-z_-]*)?`,
 and use of the dash (`-`) character instead of underscore (`_`) is encouraged.
 
 # Miscellaneous

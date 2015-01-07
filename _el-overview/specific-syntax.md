@@ -45,6 +45,7 @@ advmod(ευκαιρήσεις, όποτε)
 ### Comparatives
 
 For basic comparative constructions, we connect nominal second terms of the comparison via a [nmod]() relation.
+
 ~~~ sdparse
 το νερό θεωρείται σημαντικότερο από το πετρέλαιο
 nmod(σημαντικότερο, πετρέλαιο)

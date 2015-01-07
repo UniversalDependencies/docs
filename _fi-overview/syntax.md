@@ -52,12 +52,11 @@ for subjects of copular clauses. These two new types come in place of
 the passive subject types that are, as explained above, not applied in
 UD Finnish.
 
-We have introduced one new subtype for clausal complements
-([`ccomp`]()): *nonfinite clausal complement*, [`ccomp:nf`](). This is
-due to the fact that clausal complements in Finnish often involve a
-nonfinite main verb.
+We have introduced two new subtypes for open clausal complements
+([`xcomp`]()): 1) *clausal complement with different subject*, [`xcomp:ds`](). This is
+to distinguish which of the sentence elements is inherited from the higher clause. 2) *adjectival complement*, [`xcomp:a`](), to be used when the complement is an adjective.
 
-The new types [`compar`]() and [`mark:comparator`]() are to be used in
+The new types [`advcl:compar`]() and [`mark:comparator`]() are to be used in
 structures involving comparisons of adjectives (and occasionally other
 parts-of-speech).
 
@@ -82,13 +81,13 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 |:-------------|:--------------------|:--------------------|
 | `acomp`      | [xcomp:a]()         |                     |
 | `adpos`      | [case]()            |                     |
-| `compar`     | ?                   | Mapping pending     |
+| `compar`     | [advcl:compar]()    |                     |
 | `comparator` | [mark:comparator]() |                     |
 | `complm`     | [mark]()            | Removed distinction |
 | `csubj-cop`  | [csubj:cop]()       |                     |
 | `gobj`       | [nmod:gobj]()       |                     |
 | `gsubj`      | [nmod:gsubj]()      |                     |
-| `iccomp`     | [ccomp:nf]()        |                     |
+| `iccomp`     | [xcomp:ds]()        |                     |
 | `infmod`     | [acl:infmod]()      |                     |
 | `intj`       | [discourse]()       |                     |
 | `nn`         | [compound:nn]()     |                     |
@@ -108,7 +107,7 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 |--------------|---------------------|---------------------|
 
 The TDT dependency type `rel` is not mapped to any single UD type.
-Instead (... TODO document mapping using second layer)
+Instead we use any normal dependency relation to catch the syntactic function of the relativizer (for example `nsubj` or `dobj`).
 
 Additionally, the following dependency relations cannot be directly
 created by mapping existing TDT annotations and may thus not occur in

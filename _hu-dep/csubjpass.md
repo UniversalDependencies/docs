@@ -4,5 +4,4 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+This relation is not relevant in Hungarian.

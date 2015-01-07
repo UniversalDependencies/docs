@@ -59,9 +59,9 @@ dobj(δει, τον)
 - the impersonal verb *μπορεί* when expressing possibility. 
 
 ~~~ sdparse
-μπορεί να τον έχει δει 
+μπορεί να τον έχουν δει 
 aux(δει, μπορεί)
-aux(δει, έχει)
+aux(δει, έχουν)
 aux(δει, να)
 dobj(δει, τον)
 ~~~

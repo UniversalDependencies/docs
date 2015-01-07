@@ -4,5 +4,4 @@ title: 'nsubjpass'
 shortdef: 'passive nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubjpass`.
+Passive is not relevant in Hungarian.

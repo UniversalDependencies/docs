@@ -4,5 +4,4 @@ title: 'Reflex'
 shortdef: 'reflexive'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Reflex`.
+This feature is relevant for pronouns in Hungarian.

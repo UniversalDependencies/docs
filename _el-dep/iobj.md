@@ -16,6 +16,13 @@ obj(Έδωσε, αύξηση)
 ~~~
 
 ~~~ sdparse
+Έδωσε σε όλους αύξηση
+case(όλους, σε)
+iobj(Έδωσε, όλους)
+obj(Έδωσε, αύξηση)
+~~~
+
+~~~ sdparse
 Έδωσε στην Άννα αύξηση
 iobj(Έδωσε, Άννα)
 obj(Έδωσε, αύξηση)
@@ -101,4 +108,4 @@ See the [expl]()  relation for cases of clitic doubling.
 ## Diffs
 
 At present and contrary to the general UD definition of [u-dep/iobj](), in
-UD Greek we allow prepositional indirect object.
+UD Greek we allow prepositional indirect objects.

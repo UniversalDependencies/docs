@@ -38,13 +38,6 @@ case(τιμής,  ένεκεν)
 ~~~
  
 
-For prepositional indirect objects, we use the [iobj]() relation.
-
-~~~ sdparse
-Έδωσε σε όλους αύξηση
-iobj(Έδωσε, όλους)
-obj(Έδωσε, αύξηση)
-~~~
 
 Certain adverbs may be followed by prepositions. We label these adverbs with the `case` relation and attach to them the prepositions with a [mwe] relation.
 

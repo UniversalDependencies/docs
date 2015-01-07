@@ -4,5 +4,4 @@ title: 'Mood'
 shortdef: 'mood'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Mood`.
+We apply the features Ind, Cnd and Imp in Hungarian.
