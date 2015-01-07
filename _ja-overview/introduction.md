@@ -13,7 +13,7 @@ We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
 
 ## PoS Tag
 
-UD PoS for Japanese is obtained from UniDic PoS Tagset.
+UD PoS for Japanese is obtained by conversion rules from UniDic PoS Tagset.
 
 ## Dependency Links
 
