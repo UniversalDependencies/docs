@@ -34,7 +34,7 @@ det(προβολή, την)
 amod(προβολή, καταπληκτική)
 ~~~
 
-In the case of polydefinites, we attach both determiners to the head.
+In the case of polydefinites, we attach both definite articles to the nominal head.
 
 ~~~ sdparse
 το μικρό το αυτοκίνητο
