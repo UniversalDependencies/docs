@@ -4,8 +4,6 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-### Anim: animate
-
 Similarly to [Gender]() (and to the African noun classes), animacy
 is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature of
 other parts of speech that mark agreement with nouns. It is
