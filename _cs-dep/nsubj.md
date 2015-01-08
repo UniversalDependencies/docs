@@ -13,11 +13,11 @@ the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun.
 
 ~~~ sdparse
-Novosvětskou symfonii napsal Antonín Dvořák .
+Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
 nsubj(napsal, Dvořák)
 ~~~
 
 ~~~ sdparse
-Auto je červené .
+Auto je červené . \n Car is red .
 nsubj(červené, Auto)
 ~~~
