@@ -4,5 +4,10 @@ title: 'nsubjpass'
 shortdef: 'passive nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubjpass`.
+A passive nominal subject is a noun phrase which is the syntactic
+subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause).
+
+~~~ sdparse
+Schwarzenberg byl poražen Zemanem . \n Schwarzenberg was defeated by-Zeman .
+nsubjpass(poražen, Schwarzenberg)
+~~~
