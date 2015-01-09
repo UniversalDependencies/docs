@@ -375,8 +375,50 @@ for <code>dislocated</code>.</p>
 <p><a id="al-cs-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dobj</code>.</p>
+<p>The direct object of a verb is the noun phrase that denotes the entity acted upon.
+Most often the direct object is in the <a href="cs-feat/Case">accusative case</a> but
+there are verbs that require their objects be in other cases (except for
+nominative and vocative).</p>
+
+<p>Accusative example:</p>
+
+<pre><code class="language-sdparse">Koupil jsem auto . \n Bought I-have car .
+dobj(Koupil, auto)
+</code></pre>
+
+<p>Genitive example:</p>
+
+<pre><code class="language-sdparse">Cením si vaší pomoci . \n I-appreciate REFLEX your help .
+dobj(Cením, pomoci)
+</code></pre>
+
+<p>Dative example:</p>
+
+<pre><code class="language-sdparse">Čelíme velkým problémům . \n We-face big problems .
+dobj(Čelíme, problémům)
+</code></pre>
+
+<p>Instrumental example:</p>
+
+<pre><code class="language-sdparse">Univerzita nedisponuje takovým rozpočtem . \n University does-not-have-at-disposal such budget .
+dobj(nedisponuje, rozpočtem)
+</code></pre>
+
+<p>In general, if there is just one object, it should be labeled <code>dobj</code>,
+regardless of the morphological case or semantic role that it bears. If there are two or more
+objects, one of them should be <code>dobj</code> and the others should be
+<a href="">iobj</a>. In such cases it is necessary to decide what is the most
+directly affected object <em>(patient).</em> The one exception is when there is a clausal complement. Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an iobj.</p>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>The manual annotation of the PDT does not distinguish direct and indirect objects.
+Therefore all non-clausal dependents labeled <code>Obj</code> in PDT are currently labeled <code>dobj</code>
+in the converted data, even if it results in two or more direct objects attached to one verb.
+In future, the valency lexicon <a href="http://ufal.mff.cuni.cz/vallex">Vallex</a>
+could be used to identify the main object.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/dobj.md" target="#">edit dobj</a></p>
 
