@@ -13,6 +13,7 @@ We also try to construct conversion rules on 'Balanced Corpus of Contemporary Wr
 
 # Basic Policy
 (To be written)
+
 ## Word Unit
 
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
