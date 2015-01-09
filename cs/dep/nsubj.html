@@ -42,12 +42,18 @@ The governor of the <code>nsubj</code> relation might not always be a verb: when
 the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun.</p>
 
-<pre><code class="language-sdparse">Novosvětskou symfonii napsal Antonín Dvořák .
+<pre><code class="language-sdparse">Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
 nsubj(napsal, Dvořák)
 </code></pre>
 
-<pre><code class="language-sdparse">Auto je červené .
+<pre><code class="language-sdparse">Auto je červené . \n Car is red .
 nsubj(červené, Auto)
+</code></pre>
+
+<pre><code class="language-sdparse">Eeva tuli töistä . \n Eeva came from_work .
+nsubj(tuli-2, Eeva-1)
+nmod(tuli-2, töistä-3)
+punct(tuli-2, .-4)
 </code></pre>
 
 
