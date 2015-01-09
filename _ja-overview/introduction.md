@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Introduction'
+permalink: ja/overview/introduction.html
+---
+
 # Introduction
 
 The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.
