@@ -33,3 +33,6 @@ in the UD version. This seems compatible with the goals of the
 universal model. [Possibly clitic particles should be split, too, but
 neither FinnTreeBank nor the current UD Finnish model does that. It
 might be a challenge for tool chains.]
+
+Punctuation is not handled properly in FinnTreeBank. Most punctuation
+marks are simply linked automatically to a nearby token.
