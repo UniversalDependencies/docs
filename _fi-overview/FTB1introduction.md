@@ -22,8 +22,9 @@ Some cases are still mapped to the catchall relation "dep".
 
 Auxiliary chains were undone by lifting the dependents of auxiliaries,
 including copulas, to their head. This also includes the "modal" words
-in FinnTreeBank, which are certain nominals in verb chains.
-[A similar lifting needs to be done to coordination chains.]
+in FinnTreeBank, which are certain nominals within verb chains.
+A similar lifting was done in conjunct chains, so that a conj of
+a conj became a conj of its head.
 
 There is a prominent difference in tokenization: many function words
 may be fused with the negative verb to become one surface word, and
