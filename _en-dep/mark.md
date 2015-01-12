@@ -18,6 +18,11 @@ mark(swim, that)
 
 The infinitive marker *to* is analyzed as a `mark`.
 
+~~~ sdparse
+I tried to finish it
+mark(finish, to)
+~~~
+
 When a a noun or a verb takes a prepositionally marked non-core argument (modifier) and that modifier is a clause, then we also label that prepositon as `mark` (as it would not seem reasonable to call it `case` when it is marking a clause). The result will commonly be a doubly marked clause.
 
 ~~~ sdparse
