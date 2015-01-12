@@ -76,6 +76,9 @@ We say that there is a multi-word token consisting of several syntactic words, e
 <p>Note: There are analogically fused words containing a preposition and the interrogative pronoun <em>co</em> “what”.
 In this case, the resulting token is an interrogative adverb and it is not split: <em>proč</em> “why”, <em>nač, oč, zač</em> “for what”.</p>
 
+<p>This category covers words that would be tagged by the PDT tag <code>P0-------------</code>.
+However, no such word occurs in the PDT 3.0 data.</p>
+
 <h3 id="participle-pronoun-or-subordinating-conjunction--the-auxiliary-bt-in-the-2nd-person-singular-jsi">Participle, Pronoun or Subordinating Conjunction + the Auxiliary <em>být</em> in the 2nd Person Singular <em>(jsi)</em></h3>
 
 <ul>
@@ -91,6 +94,15 @@ In this case, the resulting token is an interrogative adverb and it is not split
 <p>Note: This rule does not include the words <em>bys, abys</em> and <em>kdybys.</em>
 They resemble the words above but <em>bys</em> is an independent form of the auxiliary verb <em>být</em> “to be”,
 and <em>abys</em> and <em>kdybys</em> are in fact fused words, but they were formed using <em>bys,</em> not <em>jsi.</em></p>
+
+<p>This category does not have its own tag in PDT.
+The <em>ses, sis</em> pronouns are <code>P7.*</code> pronouns with the second person.
+The <em>tys</em> pronoun can be distinguished by having more verbal features in its tag (<code>PP-S1--2P-AA---</code>) than <em>ty</em> (<code>PP-S1--2-------</code>).
+The <em>žes</em> conjunction is tagged <code>J,-S---2-------</code> while <em>že</em> is tagged <code>J,-------------</code>.
+The participles can be distinguished by the value of person:
+normal participle <em>udělal</em> does not inflect for person (<code>VpYS---XR-AA---</code>)
+while participle fused with <em>jsi</em>, i.e. <em>udělals</em>, is tagged as being in the second person (<code>VpYS---2R-AA---</code>).
+None of these occur in the PDT 3.0 data.</p>
 
 <h3 id="subordinating-conjunction-aby-or-kdyby">Subordinating Conjunction <em>aby</em> or <em>kdyby</em></h3>
 
@@ -120,6 +132,8 @@ However, it is clear that the second word is a conditional form of <em>být.</em
 </ul>
 
 <p>The word forms in this group can be considered archaic.</p>
+
+<p>There is only one occurrence in the PDT 3.0 data of the word <em>neníť</em> “because it is not” (tagged <code>Vt-S---3P-NA--2</code>).</p>
 
 
       </div>
