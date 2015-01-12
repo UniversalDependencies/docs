@@ -41,6 +41,9 @@ We say that there is a multi-word token consisting of several syntactic words, e
 Note: There are analogically fused words containing a preposition and the interrogative pronoun _co_ “what”.
 In this case, the resulting token is an interrogative adverb and it is not split: _proč_ “why”, _nač, oč, zač_ “for what”.
 
+This category covers words that would be tagged by the PDT tag `P0-------------`.
+However, no such word occurs in the PDT 3.0 data.
+
 ### Participle, Pronoun or Subordinating Conjunction + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
 
 * _udělals_ = _udělal jsi_ = “you have done”
@@ -54,6 +57,15 @@ In this case, the resulting token is an interrogative adverb and it is not split
 Note: This rule does not include the words _bys, abys_ and _kdybys._
 They resemble the words above but _bys_ is an independent form of the auxiliary verb _být_ “to be”,
 and _abys_ and _kdybys_ are in fact fused words, but they were formed using _bys,_ not _jsi._
+
+This category does not have its own tag in PDT.
+The _ses, sis_ pronouns are `P7.*` pronouns with the second person.
+The _tys_ pronoun can be distinguished by having more verbal features in its tag (`PP-S1--2P-AA---`) than _ty_ (`PP-S1--2-------`).
+The _žes_ conjunction is tagged `J,-S---2-------` while _že_ is tagged `J,-------------`.
+The participles can be distinguished by the value of person:
+normal participle _udělal_ does not inflect for person (`VpYS---XR-AA---`)
+while participle fused with _jsi_, i.e. _udělals_, is tagged as being in the second person (`VpYS---2R-AA---`).
+None of these occur in the PDT 3.0 data.
 
 ### Subordinating Conjunction *aby* or *kdyby*
 
@@ -79,3 +91,5 @@ However, it is clear that the second word is a conditional form of _být._
 * _dělalť_ = _neboť dělal_ = “because he did”
 
 The word forms in this group can be considered archaic.
+
+There is only one occurrence in the PDT 3.0 data of the word _neníť_ “because it is not” (tagged `Vt-S---3P-NA--2`).
