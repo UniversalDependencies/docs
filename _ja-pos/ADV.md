@@ -8,8 +8,8 @@ shortdef: 'adverb'
 
 Adverbs are words that typically modify [verbs](VERB) for such
 categories as time, place, direction or manner. They may also modify
-[adjectives](ADJ) and other adverbs, as in _<b>とても はっきり</b>&nbsp;
-_ “very clearly” or _<b>おそらく</b> 悪い&nbsp;_ “probably wrong”.
+[adjectives](ADJ) and other adverbs, as in _<b>とても はっきり</b>&nbsp;_
+“very clearly” or _<b>おそらく</b> 悪い&nbsp;_ “probably wrong”.
 
 ### Examples
 
