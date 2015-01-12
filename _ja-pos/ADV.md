@@ -17,7 +17,7 @@ categories as time, place, direction or manner. They may also modify
 - _うまく&nbsp;_ “well”
 - _まさに&nbsp;_ “exactly”
 - _明日&nbsp;_ “tomorrow ”
-- total adverbs: _必ず&nbsp;_ “everywhere, always”
+- totality adverbs: _必ず&nbsp;_ “always”
 - negative adverbs: _決して&nbsp;_ “never”
 
 ### References
