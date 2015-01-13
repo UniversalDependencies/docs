@@ -10,5 +10,5 @@ subject of a passive clause (or more generally, any voice where the proto-agent 
 ~~~ sdparse
 Schwarzenberg byl poražen Zemanem . \n Schwarzenberg was defeated by-Zeman .
 nsubjpass(poražen, Schwarzenberg-1)
-nsubjpass(defeated, Schwarzenberg-6)
+nsubjpass(defeated, Schwarzenberg-7)
 ~~~
