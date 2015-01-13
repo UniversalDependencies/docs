@@ -34,8 +34,34 @@
 
           <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>A clausal complement of a verb or adjective is a dependent clause 
+which is a core argument. That is, it functions like an object of the verb, or
+adjective.</p>
+
+<pre><code class="language-sdparse">Říká, že ráda plaveš . \n He-says , that like-to you-swim .
+ccomp(Říká, plaveš)
+ccomp(He-says, you-swim)
+</code></pre>
+
+<p>Such clausal complements may be finite or nonfinite. However, if the
+subject of the clausal complement is controlled (that is, must be the same
+as the higher subject or object, with no other possible interpretation)
+the appropriate relation is <a href="">xcomp</a>.</p>
+
+<pre><code class="language-sdparse">Šéf nám nařídil vykopat příkop . \n Boss us ordered to-dig ditch .
+ccomp(nařídil, vykopat)
+ccomp(ordered, to-dig)
+</code></pre>
+
+<pre><code class="language-sdparse">Začali jsme kopat příkop . \n Started we-have to-dig ditch .
+xcomp(Začali, kopat)
+xcomp(Started, to-dig)
+</code></pre>
+
+<p>The key difference here is that, while it is possible to interpret the first
+sentence to mean that the boss will not be doing any digging, in the second
+sentence it is clear that the subject of <strong>digging</strong> can only be <strong>we</strong>. This is
+what distinguishes <code>ccomp</code> and <code>xcomp</code>.</p>
 
 
 <!-- "in other languages" links -->
