@@ -20,7 +20,7 @@ conj(Emperor, king)
 ~~~ sdparse
 Občanská demokratická strana ( ODS ) \n Civic Democratic Party ( ODS )
 appos(strana, ODS-5)
-appos(party, ODS-12)
+appos(Party, ODS-12)
 ~~~
 
 There is a slight deviation from the universal standard in case of more than one appositive nominal.
