@@ -38,9 +38,9 @@
 fake node <code>ROOT</code> is used as the governor. The <code>ROOT</code> node is indexed
 with 0, since the indexing of real words in the sentence starts at 1.</p>
 
-<pre><code class="language-sdparse">ROOT Miluju indická jídla . \n I-love Indian food .
-root(ROOT, Miluju)
-root(ROOT, I-love)
+<pre><code class="language-sdparse">ROOT Miluju indická jídla . \n ROOT I-love Indian food .
+root(ROOT-1, Miluju)
+root(ROOT-7, I-love)
 </code></pre>
 
 
