@@ -34,8 +34,24 @@
 
           <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the nominal predicate <em>(přísudek jmenný)</em> and
+the copular verb <em><b>být</b></em> “to be” (or its variants <em>bývat, bývávat</em>).
+The verb <em>stát se</em> “to become”, despite being counted among copular verbs by some authors,
+is not analyzed as <code>cop</code>.</p>
+
+<p>We normally take a copula as a dependent of its complement (the nominal predicate).
+The nominal predicate is usually a <a href="cs-pos/NOUN">noun</a>, an <a href="cs-pos/ADJ">adjective</a>
+or a <a href="cs-feat/VerbForm">participle</a>.</p>
+
+<pre><code class="language-sdparse">Ondřej je čestný muž . \n Ondřej is honest man .
+cop(muž, je)
+cop(man, is)
+</code></pre>
+
+<pre><code class="language-sdparse">Ondřej je čestný . \n Ondřej is honest .
+cop(čestný, je)
+cop(honest, is)
+</code></pre>
 
 
 <!-- "in other languages" links -->
