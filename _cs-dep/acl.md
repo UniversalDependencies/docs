@@ -23,7 +23,7 @@ See [u-dep/xcomp]() for further discussion of resultatives and depictives.
 ~~~ sdparse
 Alena vstoupila do místnosti smutná . \n Alena entered to room sad .
 acl(Alena-1, smutná)
-acl(Alena-1, sad)
+acl(Alena-8, sad)
 ~~~
 
 ~~~ sdparse
@@ -40,5 +40,5 @@ These are also analyzed as `acl`.
 ~~~ sdparse
 Příčinou není fakt , že by kina navštívilo víc diváků . \n Cause is-not the-fact , that would cinemas visit more filmgoers .
 acl(fakt, navštívilo)
-acl(fact, visit)
+acl(the-fact, visit)
 ~~~
