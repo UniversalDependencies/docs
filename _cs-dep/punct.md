@@ -4,5 +4,10 @@ title: 'punct'
 shortdef: 'punctuation'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `punct`.
+This is used for any piece of punctuation in a clause.
+
+~~~ sdparse
+Jdi domů ! \n Go home !
+punct(Jdi, !-3)
+punct(Go, !-7)
+~~~
