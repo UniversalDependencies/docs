@@ -4,8 +4,33 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nummod`.
+A numeric modifier of a noun is any [number](u-pos/NUM) phrase
+that serves to modify the meaning of the noun with a quantity.
+
+~~~ sdparse
+Jan snědl tři řízky . \n Jan ate three steaks .
+nummod(řízky, tři)
+nummod(steaks, three)
+~~~
+
+~~~ sdparse
+Jan utratil 944 korun . \n Jan spent 944 crowns .
+nummod(korun, 944-3)
+nummod(crowns, 944-9)
+~~~
+
+Note that indefinite quantifiers such as _few, many_ are tagged
+[u-pos/DET]() rather than [u-pos/NUM](). 
+Therefore their relation to the quantified noun is not `nummod` but
+[det]():
+
+~~~ sdparse
+Jan snědl mnoho řízků . \n Jan ate many steaks .
+det(řízků, mnoho)
+det(steaks, many)
+~~~
+
+
 
 Jak je to v PDT:
 
