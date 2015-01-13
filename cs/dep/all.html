@@ -255,8 +255,38 @@ advcl(He-rushed, come)
 <p><a id="al-cs-dep/advmod" class="al-dest"></a></p>
 <h2><code>advmod</code>: adverbial modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advmod</code>.</p>
+<p>An adverbial modifier of a word is a (non-clausal) <a href="cs-pos/ADV">adverb</a>
+or adverbial phrase that serves to modify the meaning of the word.</p>
+
+<p>Note that in the Czech grammatical tradition, the term <em>adverbial modifier</em> covers
+constituents that function like adverbs regardless whether they are realized
+by adverbs, adpositional phrases, or nouns in particular morphological 
+<a href="cs-feat/Case">cases</a>.
+We differentiate adverbials realized as adverbs (<code>advmod</code>) and
+adverbials realized by noun phrases or adpositional phrases
+(<a href="">nmod</a>).</p>
+
+<pre><code class="language-sdparse">geneticky upravené potraviny \n genetically modified food
+advmod(upravené, geneticky)
+advmod(modified, genetically)
+</code></pre>
+
+<pre><code class="language-sdparse">méně často \n less often
+advmod(často, méně)
+advmod(often, less)
+</code></pre>
+
+<pre><code class="language-sdparse">Kam/ADV chcete/VERB jít/VERB zítra/ADV ?/PUNCT \n Where do-you-want to-go tomorrow ?
+advmod(jít, Kam)
+advmod(jít, zítra)
+advmod(to-go, Where)
+advmod(to-go, tomorrow)
+</code></pre>
+
+<pre><code class="language-sdparse">Na demonstraci přišlo nanejvýš 200 lidí . \n To demonstration came at-most 200 people .
+advmod(200-5, nanejvýš)
+advmod(200-13, at-most)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/advmod.md" target="#">edit advmod</a></p>
 
