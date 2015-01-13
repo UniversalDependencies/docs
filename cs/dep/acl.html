@@ -34,8 +34,40 @@
 
           <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>acl</code>.</p>
+<p><code>acl</code> stands for finite and non-finite clauses that modify a nominal.  The <code>acl</code> relation 
+contrasts with the <a href="">advcl</a> relation, which is used for adverbial clauses
+that modify a predicate. The head of the <code>acl</code> relation is the noun
+that is modified, and the dependent is the head of the clause that
+modifies the noun.</p>
+
+<pre><code class="language-sdparse">muž , o kterém jsem mluvil \n man , about whom I-have talked
+acl(muž, mluvil)
+acl(man, talked)
+</code></pre>
+
+<p>This relation is also used for optional depictives.
+The adjective is taken to modify the nominal of which it provides a secondary predication.
+See <a href="">u-dep/xcomp</a> for further discussion of resultatives and depictives.</p>
+
+<pre><code class="language-sdparse">Alena vstoupila do místnosti smutná . \n Alena entered to room sad .
+acl(Alena-1, smutná)
+acl(Alena-1, sad)
+</code></pre>
+
+<pre><code class="language-sdparse">Namaloval svou ženu nahou . \n He-painted his wife naked .
+acl(ženu, nahou)
+acl(wife, naked)
+</code></pre>
+
+<p>Czech also allows finite clausal complements for nouns with 
+a subset of nouns like <em>fact</em> or <em>report</em>.
+These look roughly like relative clauses, but do not have any omitted role in the dependent clause.
+These are also analyzed as <code>acl</code>.</p>
+
+<pre><code class="language-sdparse">Příčinou není fakt , že by kina navštívilo víc diváků . \n Cause is-not the-fact , that would cinemas visit more filmgoers .
+acl(fakt, navštívilo)
+acl(fact, visit)
+</code></pre>
 
 
 <!-- "in other languages" links -->
