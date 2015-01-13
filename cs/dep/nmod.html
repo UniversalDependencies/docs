@@ -34,8 +34,40 @@
 
           <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers. They depend either
+on another noun (group “noun dependents”) or on a predicate (group
+“non-core dependents of clausal predicates”).</p>
+
+<p><code>nmod</code> is a <a href="u-pos/NOUN">noun</a> (or noun phrase) functioning as a
+non-core (oblique) argument or adjunct.
+This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
+But when attaching to a noun, it corresponds to a non-agreeing attribute <em>(přívlastek neshodný)</em>
+in genitive.</p>
+
+<p>In Czech the <code>nmod</code> relation covers only those possessives that are expressed using the genitive <a href="">cs-feat/Case</a>.
+If a possessive adjective is used, the relation is labeled <a href="">amod</a>.</p>
+
+<pre><code class="language-sdparse">kancelář ředitele \n office of-the-director
+nmod(kancelář, ředitele)
+nmod(office, of-the-director)
+</code></pre>
+
+<pre><code class="language-sdparse">ředitelova kancelář \n director's office
+amod(kancelář, ředitelova)
+amod(office, director's)
+</code></pre>
+
+<pre><code class="language-sdparse">jeho kancelář \n his office
+det(kancelář, jeho)
+det(office, his)
+</code></pre>
+
+<p><code>nmod</code> is also used for temporal nominal modifiers:</p>
+
+<pre><code class="language-sdparse">Potkal jsem ho minulý čtvrtek . \n Met I-have him last Thursday .
+nmod(Potkal, čtvrtek)
+nmod(Met, Thursday)
+</code></pre>
 
 
 <!-- "in other languages" links -->
