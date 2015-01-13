@@ -1463,6 +1463,62 @@ remnant(silver-6, gold-10)
 
 <p>Note in particular that (unlike for <a href="">conj</a>), <code>remnant</code> uses a chaining analysis where each subsequent remnant depends on the immediately preceding remnant/correlate. The reason for this is that otherwise in a sentence with 2 or more chained ellipses the dependency structure would no longer track which remnants go together. It would become impossible to determine whether Mary won silver and Sandy gold, or Mary won gold and Sandy silver.</p>
 
+<p>Instances of stripping typically occur when there is only one argument in the second clause, but with an accompanying adverbial modifier such as <em>not</em> or <em>only</em>. We model these sentences with the remnant relation as well.</p>
+
+<pre><code class="language-sdparse">Marie went to Paris , not Miriam
+nsubj(went-2, Marie-1)
+root(root-0, went-2)
+nmod(went-2, Paris-4)
+case(Paris-4, to-3)
+cc(went-2, and-5)
+remnant(Marie-1, Miriam-7)
+neg(Miriam-7, not-6)
+</code></pre>
+
+<pre><code class="language-sdparse">Marie did go to Europe , but only to Paris .
+nsubj(go-3, Marie-1)
+aux(go-3, did-2)
+root(root-0, go-3)
+case(Europe-5, to-4)
+nmod(go-3, Europe-5)
+cc(go-3, but-7)
+advmod(Paris-10, only-8)
+case(Paris-10, to-9)
+remnant(Europe-5, Paris-10)
+</code></pre>
+
+<p>Sometimes in these constructions adverbials will be “sprouted”, and have no correlate in the precedeing clause. In such a situation, the adverbial should attach to one of the remnants; in principle it shouldn’t matter which remnant it attaches to, since all remnants at a particular depth of embedding point back to the same semantic event (which the adverbial is a part of). However, to enforce a regular system, the adverbial should depend on the nearest leftmost dependent. </p>
+
+<pre><code class="language-sdparse">Mary will come today and Tom tomorrow , if he finds a ticket .
+nsubj(come-3, Mary-1)
+aux(come-3, will-2)
+root(root-0, come-3)
+advmod(come-3, today-4)
+cc(come-3, and-5)
+remnant(Mary-1, Tom-6)
+remnant(today-4, tomorrow-7)
+mark(finds-11, if-9)
+nsubj(finds-11, he-10)
+advcl(tomorrow-7, finds-11)
+det(ticket-13, a-12)
+dobj(finds-11, ticket-13)
+</code></pre>
+
+<pre><code class="language-sdparse">Mary will come today and , if he finds a ticket , Tom tomorrow .
+nsubj(come-3, Mary-1)
+aux(come-3, will-2)
+root(root-0, come-3)
+advmod(come-3, today-4)
+cc(come-3, and-5)
+mark(finds-9, if-7)
+nsubj(finds-9, he-8)
+advcl(Tom-13, finds-9)
+det(ticket-11, a-10)
+dobj(finds-9, ticket-11)
+remnant(Mary-1, Tom-13)
+remnant(today-4, tomorrow-14)
+</code></pre>
+
 <p>The <code>remnant</code> relation is used when no predicational material is present. In contrast, in right-node-raising (RNR) and VP-ellipsis constructions in which some kind of predicational or verbal material is still present, the <code>remnant</code> relation is not used. In RNR, the verbs are coordinated and the object is a <a href="">dobj</a> of the first verb:</p>
 
 <pre><code class="language-sdparse">John bought and ate an apple
