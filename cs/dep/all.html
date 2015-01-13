@@ -350,8 +350,17 @@ cop(The-essence, is)
 <p><a id="al-cs-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubjpass</code>.</p>
+<p>A clausal passive subject is a clausal syntactic subject of a passive
+clause (or more generally, any voice where the proto-agent argument does not become the subject 
+of the clause).</p>
+
+<pre><code class="language-sdparse">Bylo mi doporučeno , abych to velmi dobře zvážil . \n It-has-been to-me recommended , that-I it very well weigh .
+csubjpass(doporučeno, zvážil)
+csubjpass(recommended, weigh)
+</code></pre>
+
+<!--zvratné pasívum:
+Nepředpokládá se, že přijdete před devátou.-->
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
@@ -615,7 +624,7 @@ of the copular verb, which can be an adjective or noun.</p>
 
 <pre><code class="language-sdparse">Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
 nsubj(napsal, Dvořák-5)
-nsubj(wrote, Dvořák-11)
+nsubj(wrote, Dvořák-12)
 </code></pre>
 
 <pre><code class="language-sdparse">Auto je červené . \n Car is red .
@@ -633,7 +642,7 @@ subject of a passive clause (or more generally, any voice where the proto-agent 
 
 <pre><code class="language-sdparse">Schwarzenberg byl poražen Zemanem . \n Schwarzenberg was defeated by-Zeman .
 nsubjpass(poražen, Schwarzenberg-1)
-nsubjpass(defeated, Schwarzenberg-6)
+nsubjpass(defeated, Schwarzenberg-7)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
