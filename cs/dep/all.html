@@ -335,11 +335,14 @@ predicate of the subject clause.</p>
 
 <pre><code class="language-sdparse">Obžalovanému přitížilo , že neměl alibi . \n To-indictee did-a-disservice , that he-did-not-have alibi .
 csubj(přitížilo, neměl)
+csubj(did-a-disservice, he-did-not-have)
 </code></pre>
 
 <pre><code class="language-sdparse">Podstatou těchto vazeb je , že se děj rozloží na dvě složky . \n The-essence of-these constructions is , that one the-action splits to two parts .
 csubj(Podstatou, rozloží)
 cop(Podstatou, je)
+csubj(The-essence, splits)
+cop(The-essence, is)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/csubj.md" target="#">edit csubj</a></p>
@@ -396,24 +399,28 @@ nominative and vocative).</p>
 
 <pre><code class="language-sdparse">Koupil jsem auto . \n Bought I-have car .
 dobj(Koupil, auto)
+dobj(Bought, car)
 </code></pre>
 
 <p>Genitive example:</p>
 
 <pre><code class="language-sdparse">Cením si vaší pomoci . \n I-appreciate REFLEX your help .
 dobj(Cením, pomoci)
+dobj(I-appreciate, help)
 </code></pre>
 
 <p>Dative example:</p>
 
 <pre><code class="language-sdparse">Čelíme velkým problémům . \n We-face big problems .
 dobj(Čelíme, problémům)
+dobj(We-face, problems)
 </code></pre>
 
 <p>Instrumental example:</p>
 
 <pre><code class="language-sdparse">Univerzita nedisponuje takovým rozpočtem . \n University does-not-have-at-disposal such budget .
 dobj(nedisponuje, rozpočtem)
+dobj(does-not-have-at-disposal, budget)
 </code></pre>
 
 <p>In general, if there is just one object, it should be labeled <code>dobj</code>,
@@ -468,6 +475,7 @@ exchange:</p>
 
 <pre><code class="language-sdparse">Pavel dal Petrovi dvě hrušky . \n Pavel gave Petr two pears .
 iobj(dal, Petrovi)
+iobj(gave, Petr)
 </code></pre>
 
 <p>However, Czech allows other semantic roles as additional objects.
@@ -489,10 +497,12 @@ and in both cases it would be analyzed ad the <a href="">dobj</a>:</p>
 
 <pre><code class="language-sdparse">Učí úvod do logiky . \n He-teaches introduction to logic .
 dobj(Učí, úvod)
+dobj(He-teaches, introduction)
 </code></pre>
 
 <pre><code class="language-sdparse">Učí studenty prvního ročníku . \n He-teaches students of-first year .
 dobj(Učí, studenty)
+dobj(He-teaches, students)
 </code></pre>
 
 <p>The one exception is when there is a clausal complement.
@@ -502,11 +512,15 @@ the simple ditransitive case:</p>
 <pre><code class="language-sdparse">Řekla studentům , že dnes večer musí studovat . \n She-told students , that today evening they-needed to-study .
 iobj(Řekla, studentům)
 ccomp(Řekla, musí)
+iobj(She-told, students)
+ccomp(She-told, they-needed)
 </code></pre>
 
 <pre><code class="language-sdparse">Řekla studentům svůj plán . \n She-told students her plan .
 iobj(Řekla, studentům)
 dobj(Řekla, plán)
+iobj(She-told, students)
+dobj(She-told, plan)
 </code></pre>
 
 <p>If there are two or
@@ -600,8 +614,8 @@ the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun.</p>
 
 <pre><code class="language-sdparse">Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
-nsubj(napsal, Dvořák)
-nsubj(wrote, Dvořák)
+nsubj(napsal, Dvořák-5)
+nsubj(wrote, Dvořák-11)
 </code></pre>
 
 <pre><code class="language-sdparse">Auto je červené . \n Car is red .
@@ -618,7 +632,8 @@ nsubj(red, Car)
 subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause).</p>
 
 <pre><code class="language-sdparse">Schwarzenberg byl poražen Zemanem . \n Schwarzenberg was defeated by-Zeman .
-nsubjpass(poražen, Schwarzenberg)
+nsubjpass(poražen, Schwarzenberg-1)
+nsubjpass(defeated, Schwarzenberg-6)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
