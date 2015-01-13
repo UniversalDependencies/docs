@@ -1082,13 +1082,30 @@ det(řízků, mnoho)
 det(steaks, many)
 </code></pre>
 
-<p>Jak je to v PDT:</p>
+<p>In PDT the words <em>milión</em> “million”, <em>miliarda</em> “billion” and higher are usually tagged as <a href="cs-pos/NOUN">nouns</a>,
+not as <a href="cs-pos/NUM">numerals</a>.
+In the typical case, the million is in genitive, it is preceded by a smaller number,
+and it is not followed by smaller numerals (like in <em>million five hundred thousand</em>).
+It is followed by the counted noun.
+Thus the following examples receive parallel analysis:</p>
 
-<p>Slovo <em>milión</em> (a také <em>miliarda</em> a vyšší) je obvykle podstatné jméno.
-Ve většině případů je v genitivu, před ním je menší číslovka a za ním už nejsou drobné, ale rovnou počítané jméno.
-Takže stromy pro <em>50 miliónů korun</em> a pro <em>50 pytlů bankovek</em> budou mít stejný tvar.
-Naopak slovo <em>tisíc</em> může být sice podstatné jméno <em>(na náměstí demonstrovaly tisíce lidí),</em>
-ale v číselných výrazech bývá značkováno i jako číslovka:</p>
+<pre><code class="language-sdparse">50 miliónů korun \n 50 millions of-crowns
+nummod(miliónů, 50-1)
+nummod(millions, 50-5)
+nmod(miliónů, korun)
+nmod(millions, of-crowns)
+</code></pre>
+
+<pre><code class="language-sdparse">50 pytlů bankovek \n 50 sacks of-bills
+nummod(pytlů, 50-1)
+nummod(sacks, 50-5)
+nmod(pytlů, bankovek)
+nmod(sacks, of-bills)
+</code></pre>
+
+<p>On the other hand the word <em>tisíc</em> “thousand” may be a noun
+(<em>na náměstí byly tisíce lidí</em> “there were thousands of people in the square”)
+or a numeral:</p>
 
 <pre><code class="language-sdparse">nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
 AuxZ(50, nanejvýš)
