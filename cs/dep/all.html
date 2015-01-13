@@ -588,8 +588,21 @@ Nepředpokládá se, že přijdete před devátou.-->
 <p><a id="al-cs-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>A dependency is labeled as <code>dep</code> when a system is unable to
+determine a more precise dependency relation between two words.  This
+may be because of a weird grammatical construction, a limitation in
+software, a parser error, or
+because of an unresolved long distance dependency.</p>
+
+<p>Most <code>dep</code> instances in the current conversion of the PDT 3.0 data
+correspond to the PDT label <code>ExD</code>, which marks ellipsis.
+The current conversion software cannot produce the annotation conforming
+to the UD standard and using the <a href="">remnant</a> relation.</p>
+
+<pre><code class="language-sdparse">K čemu ovšem , to nebylo jasné . \n For what however , that was-not clear .
+dep(jasné, čemu)
+dep(clear, what)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/dep.md" target="#">edit dep</a></p>
 
