@@ -86,7 +86,7 @@ However, it is clear that the second word is a conditional form of _být._
 
 Heuristic to transform the tree if only surface tokens are desired as nodes:
 attach the fused token (e.g. _abychom_) to the parent and with the label of the first part _(aby)_.
-Tage it as subordinating conjunction and merge the features of both parts:
+Tag it as subordinating conjunction and merge the features of both parts:
 
 <pre>3-4   abychom   _      _      _                 _                                            _   _      _   _
 3     aby       aby   SCONJ   J,-------------   _                                            7   mark   _   _
