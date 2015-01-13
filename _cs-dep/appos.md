@@ -23,7 +23,7 @@ appos(strana, ODS-5)
 appos(Party, ODS-12)
 ~~~
 
-There is a slight deviation from the universal standard in case of more than one appositive nominal.
+There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal.
 Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination,
 then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
