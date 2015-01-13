@@ -10,5 +10,5 @@ The syntactic annotation in the Swedish UD treebank follows the general guidelin
 
 * _acl:relcl_ for relative clauses
 * _compound:prt_ for verb particles
-* _nmod:agent_ for agents of relative clauses
+* _nmod:agent_ for agents of passive verbs
 * _nmod:poss_ for possessive/genitive modifiers
