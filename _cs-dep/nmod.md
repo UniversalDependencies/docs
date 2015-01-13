@@ -8,7 +8,7 @@ The `nmod` relation is used for nominal modifiers. They depend either
 on another noun (group “noun dependents”) or on a predicate (group
 “non-core dependents of clausal predicates”).
 
-`nmod` is a [noun](u-pos/NOUN) (or noun phrase) functioning as a
+`nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 But when attaching to a noun, it corresponds to a non-agreeing attribute _(přívlastek neshodný)_

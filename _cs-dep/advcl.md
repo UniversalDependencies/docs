@@ -17,7 +17,7 @@ advcl(it-came, was-falling)
 ~~~ sdparse
 Jestliže víš , kdo to udělal , měl bys to říct učiteli . \n If you-know , who it did , should you it tell teacher .
 advcl(měl, víš)
-advcl(should, know)
+advcl(should, you-know)
 ~~~
 
 ~~~ sdparse
