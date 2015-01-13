@@ -1059,8 +1059,28 @@ nsubjpass(defeated, Schwarzenberg-7)
 <p><a id="al-cs-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nummod</code>.</p>
+<p>A numeric modifier of a noun is any <a href="u-pos/NUM">number</a> phrase
+that serves to modify the meaning of the noun with a quantity.</p>
+
+<pre><code class="language-sdparse">Jan snědl tři řízky . \n Jan ate three steaks .
+nummod(řízky, tři)
+nummod(steaks, three)
+</code></pre>
+
+<pre><code class="language-sdparse">Jan utratil 944 korun . \n Jan spent 944 crowns .
+nummod(korun, 944-3)
+nummod(crowns, 944-9)
+</code></pre>
+
+<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged
+<a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>. 
+Therefore their relation to the quantified noun is not <code>nummod</code> but
+<a href="">det</a>:</p>
+
+<pre><code class="language-sdparse">Jan snědl mnoho řízků . \n Jan ate many steaks .
+det(řízků, mnoho)
+det(steaks, many)
+</code></pre>
 
 <p>Jak je to v PDT:</p>
 
