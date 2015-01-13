@@ -34,8 +34,45 @@
 
           <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>A passive auxiliary of a clause is a form of the <a href="cs-pos/AUX">auxiliary verb</a> <em>být</em> “to be”
+used to construct the periphrastic passive voice (in any tense or in the infinitive).</p>
+
+<pre><code class="language-sdparse">Kennedy byl zabit . \n Kennedy was killed .
+auxpass(zabit, byl)
+auxpass(killed, was)
+</code></pre>
+
+<pre><code class="language-sdparse">Kennedy bude zabit . \n Kennedy will-be killed .
+auxpass(zabit, bude)
+auxpass(killed, will-be)
+</code></pre>
+
+<pre><code class="language-sdparse">Kennedy netušil , že jeho osudem je být zabit . \n Kennedy did-not-anticipate that his fate is to-be killed .
+auxpass(zabit, být)
+auxpass(killed, to-be)
+</code></pre>
+
+<p>Note that the passive participle may be also used as nominal predicate with <a href="cop">copula</a>.
+Hence it may be difficult to distinguish a passive construction from a copula construction.
+The former focuses on the process while the latter emphasizes the result.</p>
+
+<ul>
+  <li>Passive:</li>
+</ul>
+
+<pre><code class="language-sdparse">Smlouva byla podepsána v Bílém domě . \n Contract was signed in White House .
+auxpass(podepsána, byla)
+auxpass(signed, was)
+</code></pre>
+
+<ul>
+  <li>Copula:</li>
+</ul>
+
+<pre><code class="language-sdparse">Smlouva byla podepsána červeným inkoustem . \n Contract was signed in-red ink .
+cop(podepsána, byla)
+cop(signed, was)
+</code></pre>
 
 
 <!-- "in other languages" links -->
