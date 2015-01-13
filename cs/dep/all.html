@@ -377,7 +377,7 @@ appos(strana, ODS-5)
 appos(Party, ODS-12)
 </code></pre>
 
-<p>There is a slight deviation from the universal standard in case of more than one appositive nominal.
+<p>There is a slight deviation from the <a href="u-dep/appos">universal</a> standard in case of more than one appositive nominal.
 Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination,
 then attached as <code>appos</code> to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.</p>
@@ -721,8 +721,20 @@ dep(clear, what)
 <p><a id="al-cs-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>The relation determiner (<code>det</code>) holds between a nominal head and its
+<a href="u-pos/DET">determiner</a>.
+This relation is used for pronominal adjectival modifiers of noun phrases; the <code>det</code> modifier has the POS tag <a href="">cs-pos/DET</a> and vice versa.
+Non-pronominal adjectives are tagged <a href="">cs-pos/ADJ</a> and the relation is labeled <a href="">amod</a>.</p>
+
+<pre><code class="language-sdparse">Ten člověk už je tady . \n The man already is here .
+det(člověk, Ten)
+det(man, The)
+</code></pre>
+
+<pre><code class="language-sdparse">Která kniha se vám líbí nejvíc ? \n Which book is to-you nice the-most ?
+det(kniha, Která)
+det(book, Which)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/det.md" target="#">edit det</a></p>
 

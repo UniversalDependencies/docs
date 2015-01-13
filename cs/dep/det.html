@@ -34,8 +34,20 @@
 
           <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>The relation determiner (<code>det</code>) holds between a nominal head and its
+<a href="u-pos/DET">determiner</a>.
+This relation is used for pronominal adjectival modifiers of noun phrases; the <code>det</code> modifier has the POS tag <a href="">cs-pos/DET</a> and vice versa.
+Non-pronominal adjectives are tagged <a href="">cs-pos/ADJ</a> and the relation is labeled <a href="">amod</a>.</p>
+
+<pre><code class="language-sdparse">Ten člověk už je tady . \n The man already is here .
+det(člověk, Ten)
+det(man, The)
+</code></pre>
+
+<pre><code class="language-sdparse">Která kniha se vám líbí nejvíc ? \n Which book is to-you nice the-most ?
+det(kniha, Která)
+det(book, Which)
+</code></pre>
 
 
 <!-- "in other languages" links -->
