@@ -12,6 +12,7 @@ exchange:
 ~~~ sdparse
 Pavel dal Petrovi dvě hrušky . \n Pavel gave Petr two pears .
 iobj(dal, Petrovi)
+iobj(gave, Petr)
 ~~~
 
 However, Czech allows other semantic roles as additional objects.
@@ -35,11 +36,13 @@ and in both cases it would be analyzed ad the [dobj]():
 ~~~ sdparse
 Učí úvod do logiky . \n He-teaches introduction to logic .
 dobj(Učí, úvod)
+dobj(He-teaches, introduction)
 ~~~
 
 ~~~ sdparse
 Učí studenty prvního ročníku . \n He-teaches students of-first year .
 dobj(Učí, studenty)
+dobj(He-teaches, students)
 ~~~
 
 The one exception is when there is a clausal complement.
@@ -50,12 +53,16 @@ the simple ditransitive case:
 Řekla studentům , že dnes večer musí studovat . \n She-told students , that today evening they-needed to-study .
 iobj(Řekla, studentům)
 ccomp(Řekla, musí)
+iobj(She-told, students)
+ccomp(She-told, they-needed)
 ~~~
 
 ~~~ sdparse
 Řekla studentům svůj plán . \n She-told students her plan .
 iobj(Řekla, studentům)
 dobj(Řekla, plán)
+iobj(She-told, students)
+dobj(She-told, plan)
 ~~~
 
 If there are two or

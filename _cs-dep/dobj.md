@@ -14,6 +14,7 @@ Accusative example:
 ~~~ sdparse
 Koupil jsem auto . \n Bought I-have car .
 dobj(Koupil, auto)
+dobj(Bought, car)
 ~~~
 
 Genitive example:
@@ -21,6 +22,7 @@ Genitive example:
 ~~~ sdparse
 Cením si vaší pomoci . \n I-appreciate REFLEX your help .
 dobj(Cením, pomoci)
+dobj(I-appreciate, help)
 ~~~
 
 Dative example:
@@ -28,6 +30,7 @@ Dative example:
 ~~~ sdparse
 Čelíme velkým problémům . \n We-face big problems .
 dobj(Čelíme, problémům)
+dobj(We-face, problems)
 ~~~
 
 Instrumental example:
@@ -35,6 +38,7 @@ Instrumental example:
 ~~~ sdparse
 Univerzita nedisponuje takovým rozpočtem . \n University does-not-have-at-disposal such budget .
 dobj(nedisponuje, rozpočtem)
+dobj(does-not-have-at-disposal, budget)
 ~~~
 
 In general, if there is just one object, it should be labeled `dobj`,

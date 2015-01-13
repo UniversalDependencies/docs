@@ -14,8 +14,8 @@ of the copular verb, which can be an adjective or noun.
 
 ~~~ sdparse
 Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
-nsubj(napsal, Dvořák)
-nsubj(wrote, Dvořák)
+nsubj(napsal, Dvořák-5)
+nsubj(wrote, Dvořák-11)
 ~~~
 
 ~~~ sdparse

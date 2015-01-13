@@ -13,10 +13,13 @@ predicate of the subject clause.
 ~~~ sdparse
 Obžalovanému přitížilo , že neměl alibi . \n To-indictee did-a-disservice , that he-did-not-have alibi .
 csubj(přitížilo, neměl)
+csubj(did-a-disservice, he-did-not-have)
 ~~~
 
 ~~~ sdparse
 Podstatou těchto vazeb je , že se děj rozloží na dvě složky . \n The-essence of-these constructions is , that one the-action splits to two parts .
 csubj(Podstatou, rozloží)
 cop(Podstatou, je)
+csubj(The-essence, splits)
+cop(The-essence, is)
 ~~~
