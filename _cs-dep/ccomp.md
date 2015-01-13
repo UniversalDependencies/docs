@@ -9,7 +9,7 @@ which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
-Říká, že ráda plaveš . \n He-says , that like-to you-swim .
+Říká , že ráda plaveš . \n He-says , that like-to you-swim .
 ccomp(Říká, plaveš)
 ccomp(He-says, you-swim)
 ~~~
