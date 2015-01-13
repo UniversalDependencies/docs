@@ -134,3 +134,12 @@ Adv(do, března)
 ExD(od, 9)
 Atr(března, 12)
 ~~~
+
+House number in address is attached as `nummod` to the name of the street:
+
+~~~ sdparse
+v budově Na poříčí 12
+Atr(budově, Na)
+AuxP(Na, poříčí)
+Atr(poříčí, 12)
+~~~
