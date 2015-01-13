@@ -70,7 +70,10 @@ Zkonvertované do UD to bude vypadat takhle:
 nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
 advmod:auxz(korun, nanejvýš)
 nummod(korun, tisíc)
-compound(tisíc, 50)
+compound(tisíc, 50-2)
+advmod:auxz(crowns, at-most)
+nummod(crowns, thousand)
+compound(thousand, 50-7)
 ~~~
 
 Obdobně se s rematizátory v PDT zachází u číslovek shodných, které visí na počítaných podstatných jménech.
@@ -106,4 +109,28 @@ Tohle bych pak pověsil na minuty, zatímco ta AuxZ bych nechal na číslovce.
 Atr(5, minut)
 AuxP(5, včetně)
 Atr(včetně, seřízení)
+~~~
+
+Datum:
+
+<!-- mf920922_027.a.gz (3/19) -->
+~~~ sdparse
+Ředitel navrhl zrušit profesionální scénu k 31 . 12 . \n Director proposed to-disband professional scene towards 31 st December .
+AuxP(zrušit, k)
+Adv(k, 12)
+AuxG(12, .-10)
+Atr(12, 31-7)
+AuxG(31-7, .-8)
+~~~
+
+Číslovky vyjádřené číslicemi se změní v nummod, i když ve skutečnosti reprezentují řadové číslovky a mělo by z nich být amod:
+
+<!-- ln95045_123.a.gz (8/8) -->
+~~~ sdparse
+Letošní veletrh se uskuteční od 9 . do 12 . března .
+AuxP(uskuteční, od)
+AuxP(uskuteční, do)
+Adv(do, března)
+ExD(od, 9)
+Atr(března, 12)
 ~~~
