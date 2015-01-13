@@ -123,6 +123,18 @@ None of these occur in the PDT 3.0 data.</p>
 in any case, it is a conjunction.
 However, it is clear that the second word is a conditional form of <em>být.</em></p>
 
+<p>Heuristic to transform the tree if only surface tokens are desired as nodes:
+attach the fused token (e.g. <em>abychom</em>) to the parent and with the label of the first part <em>(aby)</em>.
+Tage it as subordinating conjunction and merge the features of both parts:</p>
+
+<pre>3-4   abychom   _      _      _                 _                                            _   _      _   _
+3     aby       aby   SCONJ   J,-------------   _                                            7   mark   _   _
+4     bychom    být   AUX     Vc-P---1-------   Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin   7   aux    _   _</pre>
+
+<p>will be transformed to</p>
+
+<pre>3     abychom   aby   SCONJ   J,-P---1-------   Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin   6   mark   _   _</pre>
+
 <h3 id="verb--conjunction-nebo">Verb + Conjunction <em>neboť</em></h3>
 
 <ul>
