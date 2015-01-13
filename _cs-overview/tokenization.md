@@ -84,6 +84,18 @@ Note: It is not clear even to a native speaker what exactly the first word shoul
 in any case, it is a conjunction.
 However, it is clear that the second word is a conditional form of _být._
 
+Heuristic to transform the tree if only surface tokens are desired as nodes:
+attach the fused token (e.g. _abychom_) to the parent and with the label of the first part _(aby)_.
+Tage it as subordinating conjunction and merge the features of both parts:
+
+<pre>3-4   abychom   _      _      _                 _                                            _   _      _   _
+3     aby       aby   SCONJ   J,-------------   _                                            7   mark   _   _
+4     bychom    být   AUX     Vc-P---1-------   Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin   7   aux    _   _</pre>
+
+will be transformed to
+
+<pre>3     abychom   aby   SCONJ   J,-P---1-------   Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin   6   mark   _   _</pre>
+
 ### Verb + Conjunction _neboť_
 
 * _dělámť_ = _neboť dělám_ = “because I do”
