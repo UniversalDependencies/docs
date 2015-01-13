@@ -325,8 +325,35 @@ advmod(200-13, at-most)
 <p><a id="al-cs-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>amod</code>.</p>
+<p>An adjectival modifier of a noun is any adjectival phrase that serves
+to modify the meaning of the noun.</p>
+
+<p>Exception: if the modifying adjectival word is pronominal (i.e. tagged <a href="">cs-pos/DET</a>),
+the relation is <a href="">det</a> instead of <code>amod</code>.</p>
+
+<pre><code class="language-sdparse">Václav jí vepřové maso . \n Václav eats pork meat .
+amod(maso, vepřové)
+amod(meat, pork)
+</code></pre>
+
+<pre><code class="language-sdparse">Václav si vzal třímiliónovou půjčku . \n Václav himself took-out three-million loan .
+amod(půjčku, třímiliónovou)
+amod(loan, three-million)
+</code></pre>
+
+<pre><code class="language-sdparse">První závodník byl rychlý . \n First racer was fast .
+amod(závodník, První)
+amod(racer, First)
+nsubj(rychlý, závodník)
+nsubj(fast, racer)
+</code></pre>
+
+<pre><code class="language-sdparse">Rychlý závodník byl první . \n Fast racer was first .
+amod(závodník, Rychlý)
+amod(racer, Fast)
+nsubj(první, závodník)
+nsubj(first, racer)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/amod.md" target="#">edit amod</a></p>
 
