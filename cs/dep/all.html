@@ -231,8 +231,24 @@ for <code>acl</code>.</p>
 <p><a id="al-cs-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advcl</code>.</p>
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
+as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
+clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
+
+<pre><code class="language-sdparse">K nehodě došlo , když přicházela noc . \n To accident it-came , when was-falling night .
+advcl(došlo, přicházela)
+advcl(it-came, was-falling)
+</code></pre>
+
+<pre><code class="language-sdparse">Jestliže víš , kdo to udělal , měl bys to říct učiteli . \n If you-know , who it did , should you it tell teacher .
+advcl(měl, víš)
+advcl(should, know)
+</code></pre>
+
+<pre><code class="language-sdparse">Spěchal , aby přišel včas . \n He-rushed , in-order-to come in-time .
+advcl(Spěchal, přišel)
+advcl(He-rushed, come)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/advcl.md" target="#">edit advcl</a></p>
 
