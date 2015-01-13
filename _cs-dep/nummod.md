@@ -30,15 +30,32 @@ det(řízků, mnoho)
 det(steaks, many)
 ~~~
 
+In PDT the words _milión_ “million”, _miliarda_ “billion” and higher are usually tagged as [nouns](cs-pos/NOUN),
+not as [numerals](cs-pos/NUM).
+In the typical case, the million is in genitive, it is preceded by a smaller number,
+and it is not followed by smaller numerals (like in _million five hundred thousand_).
+It is followed by the counted noun.
+Thus the following examples receive parallel analysis:
 
+~~~ sdparse
+50 miliónů korun \n 50 millions of-crowns
+nummod(miliónů, 50-1)
+nummod(millions, 50-5)
+nmod(miliónů, korun)
+nmod(millions, of-crowns)
+~~~
 
-Jak je to v PDT:
+~~~ sdparse
+50 pytlů bankovek \n 50 sacks of-bills
+nummod(pytlů, 50-1)
+nummod(sacks, 50-5)
+nmod(pytlů, bankovek)
+nmod(sacks, of-bills)
+~~~
 
-Slovo _milión_ (a také _miliarda_ a vyšší) je obvykle podstatné jméno.
-Ve většině případů je v genitivu, před ním je menší číslovka a za ním už nejsou drobné, ale rovnou počítané jméno.
-Takže stromy pro _50 miliónů korun_ a pro _50 pytlů bankovek_ budou mít stejný tvar.
-Naopak slovo _tisíc_ může být sice podstatné jméno _(na náměstí demonstrovaly tisíce lidí),_
-ale v číselných výrazech bývá značkováno i jako číslovka:
+On the other hand the word _tisíc_ “thousand” may be a noun
+(_na náměstí byly tisíce lidí_ “there were thousands of people in the square”)
+or a numeral:
 
 ~~~ sdparse
 nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
