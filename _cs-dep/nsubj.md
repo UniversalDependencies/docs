@@ -15,9 +15,11 @@ of the copular verb, which can be an adjective or noun.
 ~~~ sdparse
 Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
 nsubj(napsal, Dvořák)
+nsubj(wrote, Dvořák)
 ~~~
 
 ~~~ sdparse
 Auto je červené . \n Car is red .
 nsubj(červené, Auto)
+nsubj(red, Car)
 ~~~
