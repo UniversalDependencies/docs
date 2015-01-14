@@ -75,7 +75,7 @@ couple of examples as described below.
   <td>list</td><td>Listing</td><td>1. 東京(Tokyo) &lt;-list- 2. 大阪(Osaka)</td></tr>
   <tr><td>dislocated</td><td>a topic phrase (typically a prepositional
   phrase with topic marker "は")</td><td>象は(elephant-TOPIC) &lt;-dislocated-
-  (鼻が(nose-NOM) &lt;-nsubj- 長い(long))</td>/tr>
+  (鼻が(nose-NOM) &lt;-nsubj- 長い(long))</td></tr>
   <tr><td>parataxis</td><td>Listing of sentences</td><td>「太郎は花子が好き(Taro
   loves Hanako)。&lt;-parataxis- 次郎は梅子が好き。(Jiro loves Umeko)」と
   三郎が言った(Saburo said)。</td></tr>
@@ -98,7 +98,7 @@ couple of examples as described below.
   <tr><td>punct</td><td>punctuations</td><td>太郎が走る(Taro runs) -punct-&gt; 。</td>
   </tr>
   <tr><td rowspan="3">Coordination</td>
-  <td>conj</td><td>coordination</td><td>(太郎 -cc-&gt; と) -conj-&gt; 次郎</td>/tr>
+  <td>conj</td><td>coordination</td><td>(太郎 -cc-&gt; と) -conj-&gt; 次郎</td></tr>
   <tr><td>cc</td><td>conjunction, coordinating conjunctive particle
   (e.g. "と", "や")</td><td>(太郎 -cc-&gt; と) -conj-&gt; 次郎、また、&lt;-cc- …</td></tr>
   <tr><td>punct</td><td>punctuations</td><td>(太郎 -punct-&gt; 、) -conj-&gt; 次郎</td></tr>
