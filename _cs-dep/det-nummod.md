@@ -14,7 +14,7 @@ In these situations they are labeled `det:nummod`.
 ~~~ sdparse
 Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
 ccomp(Nepamatuji, hrál)
-mwe:reflex(Nepamatuji, si)
+compound:reflex(Nepamatuji, si)
 punct(hrál, ,-3)
 aux(hrál, jsem)
 dobj(hrál, karty)
@@ -23,7 +23,7 @@ case(muži, s)
 det:nummod(muži, kolika)
 punct(Nepamatuji, .-10)
 ccomp(I-do-not-remember, played)
-mwe:reflex(I-do-not-remember, myself)
+compound:reflex(I-do-not-remember, myself)
 punct(played, ,-14)
 aux(played, I-have)
 dobj(played, cards)
