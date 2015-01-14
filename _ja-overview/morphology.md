@@ -15,26 +15,25 @@ Universal Dependencies POS tags (this table is not finalized yet; any
 suggestions are welcome).
 
 <table>
-  <tr><th>UD POS<th>UniDic SUW POS</tr>
-  <tr><td>ADJ<td>形容詞(adjective), 連体詞(adnomial), 形状詞(adjectival noun)</tr>
-  <tr><td>ADV<td>副詞(adverb)</tr>
-  <tr><td>INTJ<td>感動詞(interjection)</tr>
-  <tr><td>NOUN<td>名詞-普通名詞(common noun), 接頭辞(prefix), 接尾辞(suffix)</tr>
-  <tr><td>PROPN<td>名詞-固有名詞(proper noun)</tr>
-  <tr><td>VERB<td>動詞(verb)</tr>
-  <tr><td>ADP<td>助詞-格助詞(case particle), 助詞-係助詞(binding particle)</tr>
-  <tr><td>AUX<td>助動詞(auxiliary verb)</tr>
-  <tr><td>CONJ<td>接続詞(conjunction), 助詞-格助詞(case particle)</tr>
-  <tr><td>DET<td>連体詞(adnomial)</tr>
-  <tr><td>NUM<td>名詞-数詞(numeral noun)</tr>
-  <tr><td>PART<td>助詞-副助詞(adverbial particle), 助詞-終助詞(phrase final particle)</tr>
-  <tr><td>PRON<td>代名詞(pronoun)</tr>
-  <tr><td>SCONJ<td>助詞-接続助詞(conjunctive particle), 助詞-準体助詞(nominal particle)</tr>
-  <tr><td>PUNCT<td>補助記号(supplementary symbol)</tr>
-  <tr><td>SYM<td>記号(symbol), 補助記号(supplementary symbol)</tr>
-  <tr><td>X<td>空白(white space)</tr>
+  <tr><th>UD POS</th><th>UniDic SUW POS</th></tr>
+  <tr><td>ADJ</td><td>形容詞(adjective), 連体詞(adnomial), 形状詞(adjectival noun)</td></tr>
+  <tr><td>ADV</td><td>副詞(adverb)</td></tr>
+  <tr><td>INTJ</td><td>感動詞(interjection)</td></tr>
+  <tr><td>NOUN</td><td>名詞-普通名詞(common noun), 接頭辞(prefix), 接尾辞(suffix)</td></tr>
+  <tr><td>PROPN</td><td>名詞-固有名詞(proper noun)</td></tr>
+  <tr><td>VERB</td><td>動詞(verb)</td></tr>
+  <tr><td>ADP</td><td>助詞-格助詞(case particle), 助詞-係助詞(binding particle)</td></tr>
+  <tr><td>AUX</td><td>助動詞(auxiliary verb)</td></tr>
+  <tr><td>CONJ</td><td>接続詞(conjunction), 助詞-格助詞(case particle)</td></tr>
+  <tr><td>DET</td><td>連体詞(adnomial)</td></tr>
+  <tr><td>NUM</td><td>名詞-数詞(numeral noun)</td></tr>
+  <tr><td>PART</td><td>助詞-副助詞(adverbial particle), 助詞-終助詞(phrase final particle)</td></tr>
+  <tr><td>PRON</td><td>代名詞(pronoun)</td></tr>
+  <tr><td>SCONJ</td><td>助詞-接続助詞(conjunctive particle), 助詞-準体助詞(nominal particle)</td></tr>
+  <tr><td>PUNCT</td><td>補助記号(supplementary symbol)</td></tr>
+  <tr><td>SYM</td><td>記号(symbol), 補助記号(supplementary symbol)</td></tr>
+  <tr><td>X</td><td>空白(white space)</td></tr>
 </table>
-
 
 Several UniDic POS tags are mapped into different UD POS tags
 depending on additional information like lemmas, and/or syntactic
