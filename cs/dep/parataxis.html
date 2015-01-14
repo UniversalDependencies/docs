@@ -34,8 +34,121 @@
 
           <h2><code>parataxis</code>: parataxis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>parataxis</code>.</p>
+<p>The parataxis relation (from Greek for “place side by side”) is a
+relation between a word (often the main predicate of a sentence) and other
+elements, such as a sentential parenthetical or a clause after a “:” or
+a “;”, placed side by side without any explicit
+coordination, subordination, or argument relation with the head word. Parataxis is a discourse-like equivalent of coordination, and so usually obeys an iconic ordering. Hence it is normal for the first part of a sentence to be the head and the second part to be the parataxis dependent, regardless of the headedness properties of the language.  But things do get more complicated, such as cases of parentheticals, which appear medially.</p>
+
+<pre><code class="language-sdparse">Let 's face it we 're annoyed
+parataxis(Let, annoyed)
+</code></pre>
+
+<pre><code class="language-sdparse">The guy , John said , left early in the morning
+parataxis(left, said)
+</code></pre>
+
+<h2 id="an-inventory-of-constructions-to-which-parataxis-has-been-applied">An inventory of constructions to which parataxis has been applied</h2>
+
+<h3 id="side-by-side-sentences-run-on-sentences">Side-by-side sentences (“run-on sentences”)</h3>
+
+<p>The relation parataxis is used for a pair of what could have been standalone sentences, 
+but which are being treated together as a single sentence. This may happen because sentence
+segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
+and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
+at all. In a spoken corpus, it may happen because what is labeled as a sentence is more
+commonly an utterance turn. Even if the treebanker is doing the sentence division, it may
+happen because there seems to be a clear discourse relation linking two clauses.</p>
+
+<pre><code class="language-sdparse">Bearded dragons are sight hunters , they need to see the food to move .
+parataxis(hunters, need)
+</code></pre>
+
+<p>This relation may happen with units that are smaller than sentences:</p>
+
+<pre><code class="language-sdparse">Divided world the CIA
+amod(world, Divided)
+parataxis(world, CIA)
+det(CIA, the)
+</code></pre>
+
+<h3 id="treatment-of-reported-speech">Treatment of reported speech</h3>
+
+<p>For this reported speech example:</p>
+
+<pre><code class="language-sdparse">The guy , John said , left early in the morning
+parataxis(left, said)
+</code></pre>
+
+<p>there are paraphrases that convey essentially the same meaning but
+with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
+without an overt complementizer <em>that</em>), the subordinate clause is a <a href="">ccomp</a> of the speech verb. When the
+reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
+that attaches to the preceding main clause with a <a href="">parataxis</a> relation, hence with the speech verb as its head.
+However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
+verb is treated as a <a href="">parataxis</a> of the reported speech. 
+This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002),
+<em>The Cambridge Grammar of the English Language</em> (see chapter 11, section 9). </p>
+
+<pre><code class="language-sdparse">John said that the guy left early in the morning .
+ccomp(said, left)
+</code></pre>
+
+<pre><code class="language-sdparse">John said the guy left early in the morning .
+ccomp(said, left)
+</code></pre>
+
+<pre><code class="language-sdparse">John said : “ The guy left early in the morning . ”
+parataxis(said, left)
+</code></pre>
+
+<pre><code class="language-sdparse">“ The guy left early in the morning ” , John said .
+parataxis(left, said)
+</code></pre>
+
+<pre><code class="language-sdparse">The guy left early in the morning , John said .
+parataxis(left, said)
+</code></pre>
+
+<pre><code class="language-sdparse">The guy , he said , left early in the morning .
+parataxis(left, said)
+</code></pre>
+
+<p>An argument for this analysis is that in the cases analyzed as embedding, the entire clause
+can be further embedded (<em>I was taken aback when John said the guy left early in the morning.</em>),
+while this is not possible with medial or final placement of the speech verb 
+(<em>*I was taken aback when the guy left early this morning, John said.</em>).</p>
+
+<h3 id="news-article-bylines">News article bylines</h3>
+
+<p>We have used the parataxis relation to connect the parts of a news article byline. 
+There does not seem to be a better relation to use.</p>
+
+<pre><code class="language-sdparse">Washington ( CNN ) :
+parataxis(Washington, CNN)
+</code></pre>
+
+<h3 id="interjected-clauses">Interjected clauses</h3>
+
+<p>Single word or phrase interjections are analyzed as <a href="">discourse</a>, but when a whole clause is interjected, we use the relation parataxis.</p>
+
+<pre><code class="language-sdparse">Calafia has great fries ( they are to die for ! )
+parataxis(has, are)
+</code></pre>
+
+<pre><code class="language-sdparse">Just to let you all know Matt has confirmed the booking for 3rd Dec is OK .
+parataxis(confirmed, let)
+</code></pre>
+
+<p>In the second example, we treat the second half as the head of the dependency
+because the first half feels like a whole clause interjection, not like the main clause of the utterance.</p>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>At present the PDT data converted to UD use <code>parataxis</code> only for interjected parentheticals.
+The other examples above are analyzed differently (legacy PDT structure).</p>
 
 
 <!-- "in other languages" links -->
