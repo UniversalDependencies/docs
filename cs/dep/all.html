@@ -1414,8 +1414,8 @@ which would be labeled <code>amod</code>:</p>
 # visual-style nodes yellow
 # visual-style arcs blue
 1    Letošní     letošní      ADJ     _   _   2   Atr    _   This-year's
-2    veletrh     veletrh      NOUN    _   _   0   Sb     _   fair
-3    se          se           PRON    _   _   2   AuxR   _   itself
+2    veletrh     veletrh      NOUN    _   _   4   Sb     _   fair
+3    se          se           PRON    _   _   4   AuxR   _   itself
 4    uskuteční   uskutečnit   VERB    _   _   0   Pred   _   will-take-place
 5    od          od           ADP     _   _   4   AuxP   _   from
 6    9           9            NUM     _   _   5   ExD    _   9
@@ -1429,12 +1429,12 @@ which would be labeled <code>amod</code>:</p>
 <pre><code class="language-sdparse">Letošní veletrh se uskuteční od 9 . do 12 . března . \n This-year's fair itself will-take-place from 9 th to 12 th March .
 advmod(uskuteční, března)
 case(března, do)
-nummod(března, 12)
+nummod(března, 12-9)
 remnant(12-9, 9-6)
 remnant(do, od)
 advmod(will-take-place, March)
 case(March, to)
-nummod(March, 12)
+nummod(March, 12-22)
 remnant(12-22, 9-19)
 remnant(to, from)
 </code></pre>
