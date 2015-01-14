@@ -22,7 +22,13 @@ couple of examples as described below.
   <tr><td rowspan="8">Core dependents of clausal predicates
   <td>nsubj<td>Nominal subjects (typically a postpositional phrase
   with a case marker "が")
-  <td>太郎が(Taro-NOM) &lt;-nsubj- 走る(run)</tr>
+  <!--<td>太郎が(Taro-NOM) &lt;-nsubj- 走る(run)</tr>-->
+  <td>
+~~~ sdparse
+太郎 が 走る
+nsubj(走る, 太郎)
+~~~
+  </td></tr>
   <tr><td>nsubjpass<td>Nominal subjects in passive forms<td>太郎が
   (Taro-NOM) &lt;-nsubjpass- ほめられる(praise-PASSIVE)</tr>
   <tr><td>dobj<td>Direct object (typically a postpositional phrase
