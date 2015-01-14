@@ -250,39 +250,27 @@ or a numeral:
 
 ~~~ sdparse
 nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
-advmod:auxz(korun, nanejvýš)
+advmod:emph(korun, nanejvýš)
 nummod:gov(korun, tisíc)
 compound(tisíc, 50-2)
-advmod:auxz(crowns, at-most)
+advmod:emph(crowns, at-most)
 nummod:gov(crowns, thousand)
 compound(thousand, 50-7)
 ~~~
 
 Note that the two numeral words in the above example are joined using the [compound]() relation.
+Also note that the [intensifier](advmod:emph) _nanejvýš_ is attached to the head of the phrase _(korun)_ and not to the number.
+This is in accord both with the UD guidelines
+and with the original PDT annotation of agreeing numerals (e.g. _jen čtyři firmy, jen několik procent_).
 
-Obdobně se s rematizátory v PDT zachází u číslovek shodných, které visí na počítaných podstatných jménech.
-I tam visí rematizátor na hlavě celé fráze, tedy na podstatném jménu.
-V tomto případě tedy bude strom UD vypadat stejně, pouze se vymění afuny PDT za deprely UD.
-
-~~~ sdparse
-jen čtyři firmy \n only four companies
-advmod:auxz(firmy, jen)
-nummod(firmy, čtyři)
-~~~
-
-Další ukázky z PDT:
+Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
+and they are related to the whole phrase rather than directly to the head noun:
 
 ~~~ sdparse
-( 9 dní )
-AuxG(9, (-1)
-Atr(9, dní)
-AuxG(9, )-4)
-~~~
-
-~~~ sdparse
-jen několik procent
-AuxZ(několik, jen)
-Atr(několik, procent)
+( 9 dní ) \n ( 9 days )
+punct(dní, ()
+nummod:gov(dní, 9)
+punct(dní, ))
 ~~~
 
 Na číselné frázi můžou viset i jiné věci než rematizátory.
