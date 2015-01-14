@@ -49,11 +49,15 @@ The whole phrase (numeral + counted noun) behaves as a noun phrase in neuter gen
 
 In PDT, these numerals are analyzed as heads of the counted nouns, which are attached to the numeral as `Atr`:
 
-~~~ sdparse
-Pět mužů hrálo karty . \n Five men played cards .
-Atr(Pět, mužů)
-Sb(hrálo, Pět)
-Obj(hrálo, karty)
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Pět     pět     NUM     _   _   3   Sb     _   Five
+2   mužů    muž     NOUN    _   _   1   Atr    _   men
+3   hrálo   hrát    VERB    _   _   0   Pred   _   played
+4   karty   karta   NOUN    _   _   3   Obj    _   cards
+7   .       .       PUNCT   _   _   0   AuxK   _   .
 ~~~
 
 
