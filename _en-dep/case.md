@@ -30,6 +30,7 @@ case(school, 's)
 
 ~~~ sdparse
 The head of school 's speech
-case(school, 's)
-case(speech, of)
+case(head, 's)
+case(school, of)
+nmod(speech, head)
 ~~~
