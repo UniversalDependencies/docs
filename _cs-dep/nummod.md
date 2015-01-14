@@ -172,6 +172,22 @@ dobj(played, cards)
 punct(played, ?-11)
 ~~~
 
+~~~ sdparse
+Hrál jsem karty s pěti muži . \n Played I-have cards with five men .
+aux(Hrál, jsem)
+dobj(Hrál, karty)
+iobj(Hrál, muži)
+case(muži, s)
+nummod(muži, pěti)
+punct(Hrál, .-7)
+aux(Played, I-have)
+dobj(Played, cards)
+iobj(Played, men)
+case(men, with)
+nummod(men, five)
+punct(Played, .-15)
+~~~
+
 
 
 ## Unsorted stuff
