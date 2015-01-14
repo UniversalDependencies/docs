@@ -60,6 +60,50 @@ In PDT, these numerals are analyzed as heads of the counted nouns, which are att
 5   .       .       PUNCT   _   _                                  0   AuxK   _   .
 ~~~
 
+There are both advantages and drawbacks to this solution.
+On the one hand, it reflects well the agreement in case, gender and number.
+On the other hand, it is confusing that there are two different analyses of counted noun constructions,
+depending on the numeric value.
+
+Moreover, the numeral does not govern the noun in all morphological cases.
+The following table shows the case of the whole phrase (numeral + noun; first column)
+and the consequences for the case of the parts (note that these numerals have only
+two distinct morphological forms, resulting in homonymy).
+
+<table>
+<tr><th>Phrase Case</th><th>Example</th><th>Numeral Case</th><th>Noun Case</th></tr>
+<tr><td>Nom</td><td>pět mužů</td>   <td>Nom</td><td>Gen</td></tr>
+<tr><td>Gen</td><td>pěti mužů</td>  <td>Gen</td><td>Gen</td></tr>
+<tr><td>Dat</td><td>pěti mužům</td> <td>Dat</td><td>Dat</td></tr>
+<tr><td>Acc</td><td>pět mužů</td>   <td>Acc</td><td>Gen</td></tr>
+<tr><td>Voc</td><td>pět mužů</td>   <td>Voc</td><td>Gen</td></tr>
+<tr><td>Loc</td><td>pěti mužích</td><td>Loc</td><td>Loc</td></tr>
+<tr><td>Ins</td><td>pěti muži</td>  <td>Ins</td><td>Ins</td></tr>
+</table>
+
+We can say that the noun has the case of the whole phrase if it is dative, locative or instrumental.
+The numeral then agrees with the noun in case.
+The numeral forces the noun to the genitive case if the whole phrase is nominative, accusative or vocative
+(but the vocative usage is rather hypothetical).
+In genitive, the noun and the numeral agree with each other; but note that the numeral uses its
+inflected form, as in the other cases where it agrees with the noun.
+
+In PDT, the genitive, dative, locative and instrumental cases are analyzed in parallel to the low-value numerals,
+i.e. the noun governs the numeral:
+
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Hrál      hrát    VERB    _   Gender=Masc|Number=Sing            0   Pred   _   He-played
+2   karty     karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    1   Obj    _   cards
+3   s         s       ADP     _   _                                  1   AuxP   _   with
+4   pěti      pět     NUM     _   Case=Ins                           6   Atr    _   five
+5   dalšími   další   ADJ     _   Case=Ins|Gender=Masc|Number=Plur   6   Atr    _   other
+6   muži      muž     NOUN    _   Case=Ins|Gender=Masc|Number=Plur   3   Obj    _   men
+7   .         .       PUNCT   _   _                                  0   AuxK   _   .
+~~~
+
 
 
 ## Unsorted stuff
