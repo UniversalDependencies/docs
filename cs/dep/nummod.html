@@ -142,6 +142,24 @@ i.e. the noun governs the numeral:</p>
   <li><em><b>22</b> mužů</em> (pronounced either way)</li>
 </ul>
 
+<p>Pronominal quantifiers behave as high-value numerals and govern the quantifed nouns:</p>
+
+<ul>
+  <li><em><b>Kolik</b> mužů hrálo karty?</em> “How many men played cards?”</li>
+  <li><em><b>Několik</b> (<b>mnoho</b>, <b>málo</b>) mužů hrálo karty.</em> “Several (many, few) men played cards.”</li>
+  <li><em><b>Tolik</b> mužů hrát karty jsem ještě neviděl.</em> “I have not seen so many men playing cards.”</li>
+</ul>
+
+<pre><code class="language-conllu"># This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Kolik   kolik   NUM     _   Case=Nom                           3   Sb     _   How-many
+2   mužů    muž     NOUN    _   Case=Gen|Gender=Masc|Number=Plur   1   Atr    _   men
+3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
+4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
+5   ?       ?       PUNCT   _   _                                  0   AuxK   _   ?
+</code></pre>
+
 <h2 id="unsorted-stuff">Unsorted stuff</h2>
 
 <pre><code class="language-sdparse">Jan utratil 944 korun . \n Jan spent 944 crowns .
