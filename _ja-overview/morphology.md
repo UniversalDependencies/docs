@@ -35,6 +35,7 @@ suggestions are welcome).
   <tr><td>X<td>空白(white space)</tr>
 </table>
 
+
 Several UniDic POS tags are mapped into different UD POS tags
 depending on additional information like lemmas, and/or syntactic
 context.
