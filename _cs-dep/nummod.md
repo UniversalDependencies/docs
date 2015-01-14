@@ -268,22 +268,22 @@ and they are related to the whole phrase rather than directly to the head noun:
 
 ~~~ sdparse
 ( 9 dní ) \n ( 9 days )
-punct(dní, ()
+punct(dní, (-1)
 nummod:gov(dní, 9)
-punct(dní, ))
+punct(dní, )-4)
 ~~~
 
 Na číselné frázi můžou viset i jiné věci než rematizátory.
 Tohle bych pak pověsil na minuty, zatímco ta AuxZ bych nechal na číslovce.
 
 ~~~ sdparse
-5 minut včetně seřízení
-Atr(5, minut)
-AuxP(5, včetně)
-Atr(včetně, seřízení)
+5 minut včetně seřízení \n 5 minutes including adjustment
+nummod:gov(minut, 5)
+nmod(minut, seřízení)
+case(seřízení, včetně)
 ~~~
 
-Datum:
+Dates:
 
 <!-- mf920922_027.a.gz (3/19) -->
 ~~~ sdparse
@@ -310,8 +310,8 @@ Atr(března, 12)
 House number in address is attached as `nummod` to the name of the street:
 
 ~~~ sdparse
-v budově Na poříčí 12
-Atr(budově, Na)
-AuxP(Na, poříčí)
-Atr(poříčí, 12)
+v budově Na poříčí 12 \n in the-building Na poříčí 12
+nmod(budově, poříčí)
+case(poříčí, Na)
+nummod(poříčí, 12)
 ~~~
