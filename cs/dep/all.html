@@ -1067,6 +1067,32 @@ nummod(řízky, tři)
 nummod(steaks, three)
 </code></pre>
 
+<h2 id="agreement-and-government-with-czech-quantifiers">Agreement and government with Czech quantifiers</h2>
+
+<p>The morphological and syntactic behavior of Czech numerals is a complex matter.
+Small cardinal numerals <em>jeden</em> “one”, <em>dva</em> “two”, <em>tři</em> “three” and <em>čtyři</em> “four” agree with the counted
+noun in <a href="">cs-feat/Case</a> (<em>jeden</em> also agrees in <a href="">cs-feat/Gender</a> and <a href="">cs-feat/Number</a>;
+<em>dva</em> also agrees in <a href="">cs-feat/Gender</a>).
+They behave as if they modify the counted noun; they are similar to adjectives in this respect.
+Examples:</p>
+
+<ul>
+  <li><em><b>Jeden</b> muž spal, <b>dva</b> muži hráli karty.</em> “One man slept, two men played cards.”</li>
+  <li><em><b>Jedna</b> žena spala, <b>dvě</b> ženy hrály karty.</em> “One woman slept, two women played cards.”</li>
+  <li><em><b>Jedno</b> kotě spalo, <b>dvě</b> koťata si hrála.</em> “One kitten slept, two kittens played.”</li>
+</ul>
+
+<p>In PDT, these numerals are attached to their counted nouns as <code>Atr</code> (attribute).
+It is straightforward to convert such dependencies to <code>nummod</code>:</p>
+
+<pre><code class="language-sdparse">Jedno kotě spalo . \n One kitten slept .
+nummod(kotě, jedno)
+nsubj(spalo, kotě)
+punct(spalo, .)
+</code></pre>
+
+<h2 id="unsorted-stuff">Unsorted stuff</h2>
+
 <pre><code class="language-sdparse">Jan utratil 944 korun . \n Jan spent 944 crowns .
 nummod(korun, 944-3)
 nummod(crowns, 944-9)
