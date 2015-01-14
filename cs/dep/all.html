@@ -1190,7 +1190,14 @@ and uses a structure that is parallel among all the above cases,
 and also with universal dependencies in other languages.
 The counted noun is always the head and the numeral is always attached as its modifier.
 Nevertheless, we use different relation labels to mark situations where the numeral (or quantifier)
-actually governs the morphological case of the noun:</p>
+actually governs the morphological case of the noun.
+There are four labels used:</p>
+
+<table>
+<tr><td></td><td><strong>Numeric</strong></td><td><strong>Pronominal</strong></td></tr>
+<tr><td><strong>Noun governs</strong></td><td>`nummod`</td><td>[det:nummod]()</td></tr>
+<tr><td><strong>Numeral governs</strong></td><td>[nummod:gov]()</td><td>[det:numgov]()</td></tr>
+</table>
 
 <pre><code class="language-sdparse">Tři muži hráli karty . \n Three men played cards .
 nummod(muži, Tři)
