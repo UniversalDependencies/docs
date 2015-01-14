@@ -4,5 +4,11 @@ title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `reparandum`.
+We use `reparandum` to indicate disfluencies overridden in a speech
+repair. The disfluency is the dependent of the repair.
+
+~~~ sdparse
+Jděte dopra- doleva . \n Go to-the-righ- to-the-left .
+reparandum(doleva, dopra-)
+reparandum(to-the-left, to-the-righ-)
+~~~
