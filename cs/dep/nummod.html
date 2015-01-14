@@ -288,21 +288,21 @@ and with the original PDT annotation of agreeing numerals (e.g. <em>jen čtyři 
 and they are related to the whole phrase rather than directly to the head noun:</p>
 
 <pre><code class="language-sdparse">( 9 dní ) \n ( 9 days )
-punct(dní, ()
+punct(dní, (-1)
 nummod:gov(dní, 9)
-punct(dní, ))
+punct(dní, )-4)
 </code></pre>
 
 <p>Na číselné frázi můžou viset i jiné věci než rematizátory.
 Tohle bych pak pověsil na minuty, zatímco ta AuxZ bych nechal na číslovce.</p>
 
-<pre><code class="language-sdparse">5 minut včetně seřízení
-Atr(5, minut)
-AuxP(5, včetně)
-Atr(včetně, seřízení)
+<pre><code class="language-sdparse">5 minut včetně seřízení \n 5 minutes including adjustment
+nummod:gov(minut, 5)
+nmod(minut, seřízení)
+case(seřízení, včetně)
 </code></pre>
 
-<p>Datum:</p>
+<p>Dates:</p>
 
 <!-- mf920922_027.a.gz (3/19) -->
 <pre><code class="language-sdparse">Ředitel navrhl zrušit profesionální scénu k 31 . 12 . \n Director proposed to-disband professional scene towards 31 st December .
@@ -326,10 +326,10 @@ Atr(března, 12)
 
 <p>House number in address is attached as <code>nummod</code> to the name of the street:</p>
 
-<pre><code class="language-sdparse">v budově Na poříčí 12
-Atr(budově, Na)
-AuxP(Na, poříčí)
-Atr(poříčí, 12)
+<pre><code class="language-sdparse">v budově Na poříčí 12 \n in the-building Na poříčí 12
+nmod(budově, poříčí)
+case(poříčí, Na)
+nummod(poříčí, 12)
 </code></pre>
 
 
