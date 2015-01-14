@@ -10,17 +10,17 @@ The `case` relation is also used for the possessive clitic _'s_ in English, whic
 
 ~~~ sdparse
 I saw a cat in a hat
-case(cat, in)
+case(hat, in)
 ~~~
 
 ~~~ sdparse
 I saw a cat with a telescope
-case(saw, with)
+case(telescope, with)
 ~~~
 
 ~~~ sdparse
 He is responsible for meals
-case(responsible, for)
+case(meals, for)
 ~~~
 
 ~~~ sdparse
@@ -30,5 +30,6 @@ case(school, 's)
 
 ~~~ sdparse
 The head of school 's speech
-case(head, 's)
+case(school, 's)
+case(speech, of)
 ~~~

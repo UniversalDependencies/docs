@@ -9,15 +9,15 @@ modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
 Sam ate 3 sheep
-num(sheep, 3)
+nummod(sheep, 3)
 ~~~
 
 ~~~ sdparse
 Sam spent forty dollars
-num(dollars, forty)
+nummod(dollars, forty)
 ~~~
 
 ~~~ sdparse
 Sam spent $ 40
-num($, 40)
+nummod($, 40)
 ~~~
