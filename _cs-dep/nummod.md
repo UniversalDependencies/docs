@@ -160,6 +160,18 @@ dobj(played, cards)
 punct(played, .-11)
 ~~~
 
+~~~ sdparse
+Kolik mužů hrálo karty ? \n How-many men played cards ?
+det:numgov(mužů, Kolik)
+nsubj(hrálo, mužů)
+dobj(hrálo, karty)
+punct(hrálo, ?-5)
+det:numgov(men, How-many)
+nsubj(played, men)
+dobj(played, cards)
+punct(played, ?-11)
+~~~
+
 
 
 ## Unsorted stuff
