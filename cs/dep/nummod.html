@@ -243,40 +243,25 @@ det:nummod(men, how-many)
 punct(I-do-not-remember, .-21)
 </code></pre>
 
-<h2 id="unsorted-stuff">Unsorted stuff</h2>
-
-<pre><code class="language-sdparse">Jan utratil 944 korun . \n Jan spent 944 crowns .
-nummod(korun, 944-3)
-nummod(crowns, 944-9)
-</code></pre>
-
-<p>Note that indefinite quantifiers such as <em>few, many</em> are tagged
-<a href="">u-pos/DET</a> rather than <a href="">u-pos/NUM</a>. 
-Therefore their relation to the quantified noun is not <code>nummod</code> but
-<a href="">det</a>:</p>
-
-<pre><code class="language-sdparse">Jan snědl mnoho řízků . \n Jan ate many steaks .
-det(řízků, mnoho)
-det(steaks, many)
-</code></pre>
+<h2 id="additional-remarks">Additional remarks</h2>
 
 <p>In PDT the words <em>milión</em> “million”, <em>miliarda</em> “billion” and higher are usually tagged as <a href="cs-pos/NOUN">nouns</a>,
 not as <a href="cs-pos/NUM">numerals</a>.
 In the typical case, the million is in genitive, it is preceded by a smaller number,
-and it is not followed by smaller numerals (like in <em>million five hundred thousand</em>).
+and it is not followed by smaller numerals (as it is in <em>million five hundred thousand</em>).
 It is followed by the counted noun.
-Thus the following examples receive parallel analysis:</p>
+Thus the following examples receive parallel analyses:</p>
 
 <pre><code class="language-sdparse">50 miliónů korun \n 50 millions of-crowns
-nummod(miliónů, 50-1)
-nummod(millions, 50-5)
+nummod:gov(miliónů, 50-1)
+nummod:gov(millions, 50-5)
 nmod(miliónů, korun)
 nmod(millions, of-crowns)
 </code></pre>
 
 <pre><code class="language-sdparse">50 pytlů bankovek \n 50 sacks of-bills
-nummod(pytlů, 50-1)
-nummod(sacks, 50-5)
+nummod:gov(pytlů, 50-1)
+nummod:gov(sacks, 50-5)
 nmod(pytlů, bankovek)
 nmod(sacks, of-bills)
 </code></pre>
@@ -286,21 +271,15 @@ nmod(sacks, of-bills)
 or a numeral:</p>
 
 <pre><code class="language-sdparse">nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
-AuxZ(50, nanejvýš)
-Atr(50, tisíc)
-Atr(tisíc, korun)
-</code></pre>
-
-<p>Zkonvertované do UD to bude vypadat takhle:</p>
-
-<pre><code class="language-sdparse">nanejvýš 50 tisíc korun \n at-most 50 thousand crowns
 advmod:auxz(korun, nanejvýš)
-nummod(korun, tisíc)
+nummod:gov(korun, tisíc)
 compound(tisíc, 50-2)
 advmod:auxz(crowns, at-most)
-nummod(crowns, thousand)
+nummod:gov(crowns, thousand)
 compound(thousand, 50-7)
 </code></pre>
+
+<p>Note that the two numeral words in the above example are joined using the <a href="">compound</a> relation.</p>
 
 <p>Obdobně se s rematizátory v PDT zachází u číslovek shodných, které visí na počítaných podstatných jménech.
 I tam visí rematizátor na hlavě celé fráze, tedy na podstatném jménu.
