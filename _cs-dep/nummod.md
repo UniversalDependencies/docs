@@ -283,16 +283,37 @@ nmod(minut, seřízení)
 case(seřízení, včetně)
 ~~~
 
-Dates:
+## Dates
 
 <!-- mf920922_027.a.gz (3/19) -->
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1    Ředitel         ředitel         NOUN    _   _   2   Sb     _   The-director
+2    navrhl          navrhnout       VERB    _   _   0   Pred   _   proposed
+3    zrušit          zrušit          VERB    _   _   2   Obj    _   to-disband
+4    profesionální   profesionální   ADJ     _   _   5   Atr    _   the-professional
+5    scénu           scéna           NOUN    _   _   3   Obj    _   scene
+6    k               k               ADP     _   _   3   AuxP   _   towards
+7    31              31              NUM     _   _   9   Atr    _   the-31
+8    .               .               PUNCT   _   _   7   AuxG   _   th
+9    12              12              NUM     _   _   6   Adv    _   December
+10   .               .               PUNCT   _   _   9   AuxG   _   .
+~~~
+
 ~~~ sdparse
 Ředitel navrhl zrušit profesionální scénu k 31 . 12 . \n Director proposed to-disband professional scene towards 31 st December .
-AuxP(zrušit, k)
-Adv(k, 12)
-AuxG(12, .-10)
-Atr(12, 31-7)
-AuxG(31-7, .-8)
+advmod(zrušit, 12)
+case(12, k)
+punct(12, .-10)
+nummod(12, 31-7)
+punct(31-7, .-8)
+advmod(to-disband, December)
+case(December, towards)
+punct(December, .-21)
+nummod(December, 31-18)
+punct(31-18, st)
 ~~~
 
 Číslovky vyjádřené číslicemi se změní v nummod, i když ve skutečnosti reprezentují řadové číslovky a mělo by z nich být amod:
