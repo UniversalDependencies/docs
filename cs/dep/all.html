@@ -182,8 +182,8 @@ in two places.</p>
 	  <td><a>goeswith</a></td>
 	</tr>
 	<tr>
+	  <td>↳<a>compound:reflex</a></td>
 	  <td><a>name</a></td>
-	  <td>↳<a>mwe:reflex</a></td>
 	  <td><a>foreign</a></td>
 	</tr>
       </table>
@@ -657,6 +657,20 @@ compound(thousand, 50-14)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound.md" target="#">edit compound</a></p>
 
+<p><a id="al-cs-dep/compound:reflex" class="al-dest"></a></p>
+<h2><code>compound:reflex</code>: reflexive verb</h2>
+
+<p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
+However, some verbs are obligatorily reflexive, i.e. the verb always occurs with a reflexive
+prounoun. With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
+but as a special sort of <code>compound</code> relation.</p>
+
+<pre><code class="language-sdparse">Martin se bojí zvířat .
+compound:reflex(bojí, se)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound-reflex.md" target="#">edit compound:reflex</a></p>
+
 <p><a id="al-cs-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
@@ -860,7 +874,7 @@ In these situations they are labeled <code>det:nummod</code>.</p>
 
 <pre><code class="language-sdparse">Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
 ccomp(Nepamatuji, hrál)
-mwe:reflex(Nepamatuji, si)
+compound:reflex(Nepamatuji, si)
 punct(hrál, ,-3)
 aux(hrál, jsem)
 dobj(hrál, karty)
@@ -869,7 +883,7 @@ case(muži, s)
 det:nummod(muži, kolika)
 punct(Nepamatuji, .-10)
 ccomp(I-do-not-remember, played)
-mwe:reflex(I-do-not-remember, myself)
+compound:reflex(I-do-not-remember, myself)
 punct(played, ,-14)
 aux(played, I-have)
 dobj(played, cards)
@@ -1101,20 +1115,6 @@ case(you, In)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe.md" target="#">edit mwe</a></p>
-
-<p><a id="al-cs-dep/mwe:reflex" class="al-dest"></a></p>
-<h2><code>mwe:reflex</code>: reflexive verb</h2>
-
-<p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
-However, some verbs are obligatorily reflexive, i.e. the verb always occurs with a reflexive
-prounoun. With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
-but as a special sort of <code>mwe</code> relation.</p>
-
-<pre><code class="language-sdparse">Martin se bojí zvířat .
-mwe:reflex(bojí, se)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe-reflex.md" target="#">edit mwe:reflex</a></p>
 
 <p><a id="al-cs-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: personal name</h2>
@@ -1426,7 +1426,7 @@ punct(Played, .-15)
 
 <pre><code class="language-sdparse">Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
 ccomp(Nepamatuji, hrál)
-mwe:reflex(Nepamatuji, si)
+compound:reflex(Nepamatuji, si)
 punct(hrál, ,-3)
 aux(hrál, jsem)
 dobj(hrál, karty)
@@ -1435,7 +1435,7 @@ case(muži, s)
 det:nummod(muži, kolika)
 punct(Nepamatuji, .-10)
 ccomp(I-do-not-remember, played)
-mwe:reflex(I-do-not-remember, myself)
+compound:reflex(I-do-not-remember, myself)
 punct(played, ,-14)
 aux(played, I-have)
 dobj(played, cards)
