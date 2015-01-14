@@ -116,7 +116,7 @@ Pronominal quantifiers behave as high-value numerals and govern the quantifed no
 
 - _<b>Kolik</b> mužů hrálo karty?_ “How many men played cards?”
 - _<b>Několik</b> (<b>mnoho</b>, <b>málo</b>) mužů hrálo karty._ “Several (many, few) men played cards.”
-- _<b>Tolik</b> mužů hrát karty jsem ještě neviděl._ “I have not seen so many men playing cards.”
+- _<b>Tolik</b> mužů hrát karty jsem ještě neviděl._ “I have never seen so many men playing cards.”
 
 ~~~ conllu
 # This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
@@ -127,6 +127,37 @@ Pronominal quantifiers behave as high-value numerals and govern the quantifed no
 3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
 4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
 5   ?       ?       PUNCT   _   _                                  0   AuxK   _   ?
+~~~
+
+The UD conversion of the PDT data unifies analyses of counted noun phrases
+and uses a structure that is parallel among all the above cases,
+and also with universal dependencies in other languages.
+The counted noun is always the head and the numeral is always attached as its modifier.
+Nevertheless, we use different relation labels to mark situations where the numeral (or quantifier)
+actually governs the morphological case of the noun:
+
+~~~ sdparse
+Tři muži hráli karty . \n Three men played cards .
+nummod(muži, Tři)
+nsubj(hráli, muži)
+dobj(hráli, karty)
+punct(hráli, .-5)
+nummod(men, Three)
+nsubj(played, men)
+dobj(played, cards)
+punct(played, .-11)
+~~~
+
+~~~ sdparse
+Pět mužů hrálo karty . \n Five men played cards .
+nummod:gov(mužů, Pět)
+nsubj(hrálo, mužů)
+dobj(hrálo, karty)
+punct(hrálo, .-5)
+nummod:gov(men, Five)
+nsubj(played, men)
+dobj(played, cards)
+punct(played, .-11)
 ~~~
 
 
