@@ -112,6 +112,23 @@ High-value numerals where the lowest-order digit is less than five (e.g. 21, 22,
 - _<b>22</b> muži_ (assuming the reader will pronounce _22_ as _dvacet dva,_ not _dvaadvacet_)
 - _<b>22</b> mužů_ (pronounced either way)
 
+Pronominal quantifiers behave as high-value numerals and govern the quantifed nouns:
+
+- _<b>Kolik</b> mužů hrálo karty?_ “How many men played cards?”
+- _<b>Několik</b> (<b>mnoho</b>, <b>málo</b>) mužů hrálo karty._ “Several (many, few) men played cards.”
+- _<b>Tolik</b> mužů hrát karty jsem ještě neviděl._ “I have not seen so many men playing cards.”
+
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Kolik   kolik   NUM     _   Case=Nom                           3   Sb     _   How-many
+2   mužů    muž     NOUN    _   Case=Gen|Gender=Masc|Number=Plur   1   Atr    _   men
+3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
+4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
+5   ?       ?       PUNCT   _   _                                  0   AuxK   _   ?
+~~~
+
 
 
 ## Unsorted stuff
