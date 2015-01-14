@@ -13,6 +13,35 @@ nummod(řízky, tři)
 nummod(steaks, three)
 ~~~
 
+
+
+## Agreement and government with Czech quantifiers
+
+The morphological and syntactic behavior of Czech numerals is a complex matter.
+Small cardinal numerals _jeden_ “one”, _dva_ “two”, _tři_ “three” and _čtyři_ “four” agree with the counted
+noun in [cs-feat/Case]() (_jeden_ also agrees in [cs-feat/Gender]() and [cs-feat/Number]();
+_dva_ also agrees in [cs-feat/Gender]()).
+They behave as if they modify the counted noun; they are similar to adjectives in this respect.
+Examples:
+
+- _<b>Jeden</b> muž spal, <b>dva</b> muži hráli karty._ “One man slept, two men played cards.”
+- _<b>Jedna</b> žena spala, <b>dvě</b> ženy hrály karty._ “One woman slept, two women played cards.”
+- _<b>Jedno</b> kotě spalo, <b>dvě</b> koťata si hrála._ “One kitten slept, two kittens played.”
+
+In PDT, these numerals are attached to their counted nouns as `Atr` (attribute).
+It is straightforward to convert such dependencies to `nummod`:
+
+~~~ sdparse
+Jedno kotě spalo . \n One kitten slept .
+nummod(kotě, jedno)
+nsubj(spalo, kotě)
+punct(spalo, .)
+~~~
+
+
+
+## Unsorted stuff
+
 ~~~ sdparse
 Jan utratil 944 korun . \n Jan spent 944 crowns .
 nummod(korun, 944-3)
