@@ -33,9 +33,27 @@ It is straightforward to convert such dependencies to `nummod`:
 
 ~~~ sdparse
 Jedno kotě spalo . \n One kitten slept .
-nummod(kotě, jedno)
+nummod(kotě, Jedno)
 nsubj(spalo, kotě)
 punct(spalo, .)
+~~~
+
+Larger cardinals behave differently.
+They require that the counted noun be in the genitive case; this indicates that they actually govern the noun.
+Such constructions are parallel to nouns modified by other noun phrases in genitive.
+The whole phrase (numeral + counted noun) behaves as a noun phrase in neuter gender and singular number
+(which is important for subject-verb agreement).
+
+- _<b>Pět</b> mužů hrálo karty._ “Five men played cards.”
+- _Skupina mužů hrála karty._ “A group of men played cards.”
+
+In PDT, these numerals are analyzed as heads of the counted nouns, which are attached to the numeral as `Atr`:
+
+~~~ sdparse
+Pět mužů hrálo karty . \n Five men played cards .
+Atr(Pět, mužů)
+Sb(hrálo, Pět)
+Obj(hrálo, karty)
 ~~~
 
 
