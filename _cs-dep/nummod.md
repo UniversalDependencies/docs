@@ -137,6 +137,7 @@ Nevertheless, we use different relation labels to mark situations where the nume
 actually governs the morphological case of the noun:
 
 ~~~ sdparse
+# visual-style 2 1 nummod	color:red
 Tři muži hráli karty . \n Three men played cards .
 nummod(muži, Tři)
 nsubj(hráli, muži)
