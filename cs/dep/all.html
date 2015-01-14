@@ -1113,8 +1113,24 @@ for <code>name</code>.</p>
 <p><a id="al-cs-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>neg</code>.</p>
+<p>The negation modifier is the relation between the negation word <em>ne</em> and the
+word it modifies.</p>
+
+<p>Negation in Czech is most of the time expressed using a bound morpheme (the prefix <em>ne-</em>).
+Occurrences of the morpheme as a separate word are rare in comparison to other languages,
+yet they exist.</p>
+
+<pre><code class="language-sdparse">Potřeboval čtyřnohého a ne dvounohého přítele . \n He-needed quadrupedal and not bipedal friend .
+neg(dvounohého, ne)
+neg(bipedal, not)
+</code></pre>
+
+<p>Note that the negative determiners (pronouns) are attached as <a href="">det</a>, not <code>neg</code>:</p>
+
+<pre><code class="language-sdparse">Premiér není žádný hlupák . \n The-Prime-Minister is-not no fool .
+det(hlupák, žádný)
+det(fool, no)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/neg.md" target="#">edit neg</a></p>
 
