@@ -360,7 +360,7 @@ v budově Na poříčí 12 \n in the-building Na poříčí 12
 nmod(budově, poříčí-4)
 case(poříčí-4, Na-3)
 nummod(poříčí-4, 12-5)
-nmod(building, poříčí-10)
+nmod(the-building, poříčí-10)
 case(poříčí-10, Na-9)
 nummod(poříčí-10, 12-11)
 ~~~
