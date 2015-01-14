@@ -188,6 +188,28 @@ nummod(men, five)
 punct(Played, .-15)
 ~~~
 
+~~~ sdparse
+Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
+ccomp(Nepamatuji, hrál)
+mwe:reflex(Nepamatuji, si)
+punct(hrál, ,-14)
+aux(hrál, jsem)
+dobj(hrál, karty)
+iobj(hrál, muži)
+case(muži, s)
+det:nummod(muži, kolika)
+punct(Nepamatuji, .-10)
+ccomp(I-do-not-remember, played)
+mwe:reflex(I-do-not-remember, myself)
+punct(played, ,-3)
+aux(played, I-have)
+dobj(played, cards)
+iobj(played, men)
+case(men, with)
+det:nummod(men, how-many)
+punct(I-do-not-remember, .-21)
+~~~
+
 
 
 ## Unsorted stuff
