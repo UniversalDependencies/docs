@@ -786,6 +786,81 @@ det(book, Which)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/det.md" target="#">edit det</a></p>
 
+<p><a id="al-cs-dep/det:numgov" class="al-dest"></a></p>
+<h2><code>det:numgov</code>: pronominal quantifier governing the case of the noun</h2>
+
+<p>Pronominal quantifiers are labeled <code>det:numgov</code> instead of <a href="">det</a>
+because they normally do not agree with the quantified noun in case
+(unlike non-quantifying determiners).</p>
+
+<p>The quantifier requires the counted noun to be in its genitive form.
+The whole phrase (quantifier + noun) is treated as a singular neuter noun phrase
+and it can fill roles where nominative, accusative or vocative noun phrases are expected.</p>
+
+<p>Such situations are analyzed in PDT so that the quantifier (numeral) is the head and the noun depends on it.
+In UD the dependency direction is reversed and the <code>det:numgov</code> label is used to preserve
+the information about case conditions.</p>
+
+<pre><code class="language-conllu"># This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Kolik   kolik   NUM     _   Case=Nom                           3   Sb     _   How-many
+2   mužů    muž     NOUN    _   Case=Gen|Gender=Masc|Number=Plur   1   Atr    _   men
+3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
+4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
+5   ?       ?       PUNCT   _   _                                  0   AuxK   _   ?
+</code></pre>
+
+<pre><code class="language-sdparse">Kolik mužů hrálo karty ? \n How-many men played cards ?
+det:numgov(mužů, Kolik)
+nsubj(hrálo, mužů)
+dobj(hrálo, karty)
+punct(hrálo, ?-5)
+det:numgov(men, How-many)
+nsubj(played, men)
+dobj(played, cards)
+punct(played, ?-11)
+</code></pre>
+
+<p>See <a href="">nummod</a> for a broader discussion of the various situations with quantifiers.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/det-numgov.md" target="#">edit det:numgov</a></p>
+
+<p><a id="al-cs-dep/det:nummod" class="al-dest"></a></p>
+<h2><code>det:nummod</code>: pronominal quantifier agreeing in case with the noun</h2>
+
+<p>Pronominal quantifiers are labeled <code>det:nummod</code> or <a href="">det:numgov</a> instead of <a href="">det</a>
+because they normally do not agree with the quantified noun in case
+(unlike non-quantifying determiners).
+They do agree only if the whole phrase (quantifier + noun) fills a role where
+genitive, dative, locative or instrumental noun phrases are expected.
+In these situations they are labeled <code>det:nummod</code>.</p>
+
+<pre><code class="language-sdparse">Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
+ccomp(Nepamatuji, hrál)
+mwe:reflex(Nepamatuji, si)
+punct(hrál, ,-3)
+aux(hrál, jsem)
+dobj(hrál, karty)
+iobj(hrál, muži)
+case(muži, s)
+det:nummod(muži, kolika)
+punct(Nepamatuji, .-10)
+ccomp(I-do-not-remember, played)
+mwe:reflex(I-do-not-remember, myself)
+punct(played, ,-14)
+aux(played, I-have)
+dobj(played, cards)
+iobj(played, men)
+case(men, with)
+det:nummod(men, how-many)
+punct(I-do-not-remember, .-21)
+</code></pre>
+
+<p>See <a href="">nummod</a> for a broader discussion of the various situations with quantifiers.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/det-nummod.md" target="#">edit det:nummod</a></p>
+
 <p><a id="al-cs-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
 
@@ -1453,6 +1528,43 @@ nummod(poříčí-10, 12-11)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/nummod.md" target="#">edit nummod</a></p>
+
+<p><a id="al-cs-dep/nummod:gov" class="al-dest"></a></p>
+<h2><code>nummod:gov</code>: numeric modifier governing the case of the noun</h2>
+
+<p><code>nummod:gov</code> differs from <a href="">nummod</a>
+in that the numeral requires the counted noun to be in its genitive form.
+The whole phrase (numeral + noun) is treated as a singular neuter noun phrase
+and it can fill roles where nominative, accusative or vocative noun phrases are expected.</p>
+
+<p>Such situations are analyzed in PDT so that the numeral is the head and the noun depends on it.
+In UD the dependency direction is reversed and the <code>nummod:gov</code> label is used to preserve
+the information about case conditions.</p>
+
+<pre><code class="language-conllu"># This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1   Pět     pět     NUM     _   Case=Nom                           3   Sb     _   Five
+2   mužů    muž     NOUN    _   Case=Gen|Gender=Masc|Number=Plur   1   Atr    _   men
+3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
+4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
+5   .       .       PUNCT   _   _                                  0   AuxK   _   .
+</code></pre>
+
+<pre><code class="language-sdparse">Pět mužů hrálo karty . \n Five men played cards .
+nummod:gov(mužů, Pět)
+nsubj(hrálo, mužů)
+dobj(hrálo, karty)
+punct(hrálo, .-5)
+nummod:gov(men, Five)
+nsubj(played, men)
+dobj(played, cards)
+punct(played, .-11)
+</code></pre>
+
+<p>See <a href="">nummod</a> for a broader discussion of the various situations with quantifiers.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/nummod-gov.md" target="#">edit nummod:gov</a></p>
 
 <p><a id="al-cs-dep/parataxis" class="al-dest"></a></p>
 <h2><code>parataxis</code>: parataxis</h2>
