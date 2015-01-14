@@ -53,11 +53,11 @@ In PDT, these numerals are analyzed as heads of the counted nouns, which are att
 # This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
 # visual-style nodes yellow
 # visual-style arcs blue
-1   Pět     pět     NUM     _   _   3   Sb     _   Five
-2   mužů    muž     NOUN    _   _   1   Atr    _   men
-3   hrálo   hrát    VERB    _   _   0   Pred   _   played
-4   karty   karta   NOUN    _   _   3   Obj    _   cards
-7   .       .       PUNCT   _   _   0   AuxK   _   .
+1   Pět     pět     NUM     _   Case=Nom                           3   Sb     _   Five
+2   mužů    muž     NOUN    _   Case=Gen|Gender=Masc|Number=Plur   1   Atr    _   men
+3   hrálo   hrát    VERB    _   Gender=Neut|Number=Sing            0   Pred   _   played
+4   karty   karta   NOUN    _   Case=Acc|Gender=Fem|Number=Plur    3   Obj    _   cards
+5   .       .       PUNCT   _   _                                  0   AuxK   _   .
 ~~~
 
 
