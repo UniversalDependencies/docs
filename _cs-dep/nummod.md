@@ -104,7 +104,7 @@ i.e. the noun governs the numeral:
 7   .         .       PUNCT   _   _                                  0   AuxK   _   .
 ~~~
 
-High-value numerals where the lowest-order digit is less than five (e.g. 21, 22, 23, 24) may behave both ways:
+High-value numerals where the lowest-order digit is more than zero and less than five (e.g. 21, 22, 23, 24) may behave both ways:
 
 - _dvacet <b>dva</b> muži_ (noun governs numeral)
 - _dvacet <b>dva</b> mužů_ (numeral governs noun)
