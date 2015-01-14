@@ -316,16 +316,39 @@ nummod(December, 31-18)
 punct(31-18, st)
 ~~~
 
-Číslovky vyjádřené číslicemi se změní v nummod, i když ve skutečnosti reprezentují řadové číslovky a mělo by z nich být amod:
+Numerals expressed using digits are labeled `nummod` even if they represent ordinal numerals,
+which would be labeled `amod`:
 
 <!-- ln95045_123.a.gz (8/8) -->
+~~~ conllu
+# This is not UD, it is Prague Dependency Treebank, and we want to clearly distinguish it from the UD examples.
+# visual-style nodes yellow
+# visual-style arcs blue
+1    Letošní     letošní      ADJ     _   _   2   Atr    _   This-year's
+2    veletrh     veletrh      NOUN    _   _   0   Sb     _   fair
+3    se          se           PRON    _   _   2   AuxR   _   itself
+4    uskuteční   uskutečnit   VERB    _   _   0   Pred   _   will-take-place
+5    od          od           ADP     _   _   4   AuxP   _   from
+6    9           9            NUM     _   _   5   ExD    _   9
+7    .           .            PUNCT   _   _   6   AuxG   _   th
+8    do          do           ADP     _   _   4   AuxP   _   to
+9    12          12           NUM     _   _   11  Atr    _   12
+10   .           .            PUNCT   _   _   9   AuxG   _   th
+11   března      březen       NOUN    _   _   8   Adv    _   March
+12   .           .            PUNCT   _   _   0   AuxK   _   .
+~~~
 ~~~ sdparse
-Letošní veletrh se uskuteční od 9 . do 12 . března .
-AuxP(uskuteční, od)
-AuxP(uskuteční, do)
-Adv(do, března)
-ExD(od, 9)
-Atr(března, 12)
+Letošní veletrh se uskuteční od 9 . do 12 . března . \n This-year's fair itself will-take-place from 9 th to 12 th March .
+advmod(uskuteční, března)
+case(března, do)
+nummod(března, 12)
+remnant(12-9, 9-6)
+remnant(do, od)
+advmod(will-take-place, March)
+case(March, to)
+nummod(March, 12)
+remnant(12-22, 9-19)
+remnant(to, from)
 ~~~
 
 House number in address is attached as `nummod` to the name of the street:
