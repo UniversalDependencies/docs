@@ -1117,10 +1117,19 @@ mwe:reflex(bojí, se)
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/mwe-reflex.md" target="#">edit mwe:reflex</a></p>
 
 <p><a id="al-cs-dep/name" class="al-dest"></a></p>
-<h2><code>name</code>: name</h2>
+<h2><code>name</code>: personal name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p><code>name</code> is one of the relations for compounding in UD.
+In Czech it is used to join the first (or middle) and the last name of a person.</p>
+
+<pre><code class="language-sdparse">Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
+name(Havel-3, Václav-2)
+nmod(Havel-3, Prezident)
+amod(Krumlov-7, Český-6)
+name(Havel-12, Václav-11)
+nmod(Havel-12, President)
+amod(Krumlov-16, Český-15)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/name.md" target="#">edit name</a></p>
 
