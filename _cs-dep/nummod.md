@@ -139,8 +139,8 @@ There are four labels used:
 
 <table>
 <tr><td></td><td><strong>Numeric</strong></td><td><strong>Pronominal</strong></td></tr>
-<tr><td><strong>Noun governs</strong></td><td>`nummod`</td><td>[det:nummod]()</td></tr>
-<tr><td><strong>Numeral governs</strong></td><td>[nummod:gov]()</td><td>[det:numgov]()</td></tr>
+<tr><td><strong>Noun governs</strong></td><td><tt>nummod</tt></td><td><tt><a href="det-nummod.html">det:nummod</a></tt></td></tr>
+<tr><td><strong>Numeral governs</strong></td><td><tt><a href="nummod-gov.html">nummod:gov</a></tt></td><td><tt><a href="det-numgov.html">det:numgov</a></tt></td></tr>
 </table>
 
 ~~~ sdparse
