@@ -1680,8 +1680,22 @@ punct(Go, !-7)
 <p><a id="al-cs-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
+the case of gapping and stripping, where a predicational or verbal
+head gets elided).</p>
+
+<h2 id="diffs">Diffs</h2>
+
+<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+
+<p>At present the conversion of the PDT data to UD does not handle ellipsis properly
+and the <code>remnant</code> relation is not used.</p>
+
+<p>In the analytical layer of PDT, ellipsis
+(together with some other issues, such as the <a href="">vocative</a>) is signalled by the
+dependency relation <code>ExD</code> (ex-dependent).
+All the <code>ExD</code> relations that are not vocatives are currently just re-labeled <a href="">dep</a>
+or <a href="">root</a>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/remnant.md" target="#">edit remnant</a></p>
 
