@@ -351,11 +351,16 @@ remnant(12-22, 9-19)
 remnant(to, from)
 ~~~
 
+## Numbered objects
+
 House number in address is attached as `nummod` to the name of the street:
 
 ~~~ sdparse
 v budově Na poříčí 12 \n in the-building Na poříčí 12
-nmod(budově, poříčí)
-case(poříčí, Na)
-nummod(poříčí, 12)
+nmod(budově, poříčí-4)
+case(poříčí-4, Na-3)
+nummod(poříčí-4, 12-5)
+nmod(building, poříčí-10)
+case(poříčí-10, Na-9)
+nummod(poříčí-10, 12-11)
 ~~~
