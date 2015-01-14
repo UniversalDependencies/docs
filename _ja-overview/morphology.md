@@ -14,7 +14,7 @@ The following table defines a mapping from UniDic SUW POS tags into
 Universal Dependencies POS tags (this table is not finalized yet; any
 suggestions are welcome).
 
-<table>
+<table border="1">
   <tr><th>UD POS</th><th>UniDic SUW POS</th></tr>
   <tr><td>ADJ</td><td>形容詞(adjective), 連体詞(adnomial), 形状詞(adjectival noun)</td></tr>
   <tr><td>ADV</td><td>副詞(adverb)</td></tr>
