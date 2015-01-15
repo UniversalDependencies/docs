@@ -35,7 +35,10 @@ It is straightforward to convert such dependencies to `nummod`:
 Jedno kotě spalo . \n One kitten slept .
 nummod(kotě, Jedno)
 nsubj(spalo, kotě)
-punct(spalo, .)
+punct(spalo, .-4)
+nummod(kitten, One)
+nsubj(slept, kitten)
+punct(slept, .-9)
 ~~~
 
 Larger cardinals behave differently.
