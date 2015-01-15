@@ -119,6 +119,8 @@ Universal and language-specific features of a word are listed together in the FE
   always ordered alphabetically; if a feature has multiple values, these are
   ordered alphabetically, too. This rule facilitates cases when it is necessary
   to compare feature sets of two words.
+  Alphabetical sorting means that uppercase letters are considered identical to their lowercase counterparts.
+  So for example, `Number` precedes `NumType`.
 * Description of individual features usually hints what parts of speech the
   feature is likely to appear with. This information is intended to help
   understand the typical usage of the feature; however, it is _not a strict rule!_
