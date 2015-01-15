@@ -1196,8 +1196,8 @@ on another noun (group “noun dependents”) or on a predicate (group
 <p><code>nmod</code> is a <a href="cs-pos/NOUN">noun</a> (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
-But when attaching to a noun, it corresponds to a non-agreeing attribute <em>(přívlastek neshodný)</em>
-in genitive.</p>
+But when attaching to a noun, it usually corresponds to a non-agreeing attribute <em>(přívlastek neshodný)</em>
+in genitive. (See below for an example of an agreeing attribute, <em>přívlastek shodný</em>.)</p>
 
 <p>In Czech the <code>nmod</code> relation covers only those possessives that are expressed using the genitive <a href="">cs-feat/Case</a>.
 If a possessive adjective is used, the relation is labeled <a href="">amod</a>.</p>
@@ -1222,6 +1222,29 @@ det(office, his)
 <pre><code class="language-sdparse">Potkal jsem ho minulý čtvrtek . \n Met I-have him last Thursday .
 nmod(Potkal, čtvrtek)
 nmod(Met, Thursday)
+</code></pre>
+
+<h2 id="agreeing-attribute-of-a-noun">Agreeing attribute of a noun</h2>
+
+<p><code>nmod</code> noun phrases attached to nouns are usually in the genitive <a href="">cs-feat/Case</a> and follow the modified noun.
+However, there is also a different kind of <code>nmod</code> that precedes the modified noun and agrees with it in case and number.
+A typical example is a title attached to a name of a person. The relation is similar to the <a href="">name</a> relation
+that links the first and the last name, but it is not labeled <code>name</code> because the title is not part of the name:</p>
+
+<pre><code class="language-sdparse">český prezident Václav Havel
+amod(prezident, český)
+nmod(Havel, prezident)
+name(Havel, Václav)
+</code></pre>
+
+<p>Note that the same thing can be also expressed using an <a href="appos">apposition</a>.
+In the case of apposition, the title follows the modified name and is separated by a punctuation symbol:</p>
+
+<pre><code class="language-sdparse">Václav Havel , český prezident
+name(Havel, Václav)
+punct(prezident, ,-3)
+amod(prezident, český)
+appos(Havel, prezident)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/nmod.md" target="#">edit nmod</a></p>
