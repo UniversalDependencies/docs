@@ -4,5 +4,6 @@ title: 'acl'
 shortdef: 'clausal modifier of noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `acl`.
+`acl` is used for finite and non-finite clauses that modify a noun. Note that in Irish, relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
+
+
