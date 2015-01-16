@@ -336,6 +336,17 @@ for <code>case</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/case.md" target="#">edit case</a></p>
 
+<p><a id="al-ga-dep/case:voc" class="al-dest"></a></p>
+<h2><code>case:voc</code>: vocative particle</h2>
+
+<p>A vocative particle precedes and marks the case of an addressee.</p>
+
+<pre><code class="language-sdparse">Slán leat, a chara \n Goodbye my friend
+case:voc(chara, a)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/case-voc.md" target="#">edit case:voc</a></p>
+
 <p><a id="al-ga-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
@@ -360,6 +371,17 @@ for <code>compound</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/compound.md" target="#">edit compound</a></p>
 
+<p><a id="al-ga-dep/compound:prt" class="al-dest"></a></p>
+<h2><code>compound:prt</code>: phrasal particles</h2>
+
+<p>Phrasal particles (compound:prt) are used in connection with phrasal verbs, where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
+
+<pre><code class="language-sdparse">Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
+compound:prt(leagtha, amach)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/compound-prt.md" target="#">edit compound:prt</a></p>
+
 <p><a id="al-ga-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
@@ -383,6 +405,20 @@ for <code>cop</code>.</p>
 for <code>csubj</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/csubj.md" target="#">edit csubj</a></p>
+
+<p><a id="al-ga-dep/csubj:cop" class="al-dest"></a></p>
+<h2><code>csubj:cop</code>: relative clause modifier</h2>
+
+<p>A <em>clausal copular subject</em> (<code>csubj:cop</code>) is a clause that acts as the
+subject of another, copular clause. As in all copular clauses, the
+predicate acts as the head of the clause and hence it is also the
+governor of the copular subject. </p>
+
+<pre><code class="language-sdparse">Is dócha go raibh an ceart aici \n It is likely that she was correct
+csubj:cop(Is, raibh)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/csubj-cop.md" target="#">edit csubj:cop</a></p>
 
 <p><a id="al-ga-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
@@ -480,6 +516,21 @@ for <code>mark</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/mark.md" target="#">edit mark</a></p>
 
+<p><a id="al-ga-dep/mark:prt" class="al-dest"></a></p>
+<h2><code>mark:prt</code>: particle</h2>
+
+<p>Placeholder for particle description</p>
+
+<pre><code class="language-sdparse">Is dóigh liom go raibh siad ann \n I believe they were there
+mark:prt(raibh, go)
+</code></pre>
+
+<pre><code class="language-sdparse">Ba í an difríocht is suntasaí \ It was the most remarkable difference
+mark:prt(suntasaí, is)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/mark-prt.md" target="#">edit mark:prt</a></p>
+
 <p><a id="al-ga-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: multi-word expression</h2>
 
@@ -511,6 +562,45 @@ for <code>neg</code>.</p>
 for <code>nmod</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod.md" target="#">edit nmod</a></p>
+
+<p><a id="al-ga-dep/nmod:poss" class="al-dest"></a></p>
+<h2><code>nmod:poss</code>: possessive pronoun</h2>
+
+<p>Placeholder for Irish possessive pronoun</p>
+
+<pre><code class="language-sdparse">Chuir mé ceist ar mo mhúinteoir \n I asked my teacher a question
+nmod:poss(mhúinteoir, mo)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod-poss.md" target="#">edit nmod:poss</a></p>
+
+<p><a id="al-ga-dep/nmod:prep" class="al-dest"></a></p>
+<h2><code>nmod:prep</code>: prepositional pronouns</h2>
+
+<p>Placeholder for description of prepositional pronouns</p>
+
+<pre><code class="language-sdparse">D'inis mé di \n I told her
+nmod:prep(inis, di)
+</code></pre>
+
+<pre><code class="language-sdparse">Is dóigh leis go bhfuil páirtíocht acu lena chéile \n He believes that they have a partnership together
+nmod:prep(dóigh, leis)
+nmod:prep(bhfuil, acu)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod-prep.md" target="#">edit nmod:prep</a></p>
+
+<p><a id="al-ga-dep/nmod:tmod" class="al-dest"></a></p>
+<h2><code>nmod:tmod</code>: temporal modifier</h2>
+
+<p>A temporal modifier is a subtype of the <a href="">nmod</a> relation: if the modifier is specifying a time, it is labeled as <em>tmod</em>. </p>
+
+<pre><code class="language-sdparse">daoine a mhair na milliúin bliain ó shin \n people who lived millions of years ago
+nmod:tmod(mhair, bliain)
+nmod:tmod(lived, years)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod-tmod.md" target="#">edit nmod:tmod</a></p>
 
 <p><a id="al-ga-dep/nsubj" class="al-dest"></a></p>
 <h2><code>nsubj</code>: nominal subject</h2>
@@ -591,6 +681,17 @@ for <code>vocative</code>.</p>
 for <code>xcomp</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/xcomp.md" target="#">edit xcomp</a></p>
+
+<p><a id="al-ga-dep/xcomp:pred" class="al-dest"></a></p>
+<h2><code>xcomp:pred</code>: predicate</h2>
+
+<p>Placeholder for description of xcomp:pred</p>
+
+<pre><code class="language-sdparse">Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
+xcomp:pred(bhí, dochreidte)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/xcomp-pred.md" target="#">edit xcomp:pred</a></p>
 
 
 
