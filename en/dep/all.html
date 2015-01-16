@@ -1249,7 +1249,7 @@ name(Service-4, Conservation-3)
 <h2><code>neg</code>: negation modifier</h2>
 
 <p>The negation modifier is the relation between a negation word and the
-word it modifies.</p>
+word it modifies. It is used both for predicate negation (canonically, <em>not</em>) and nominal negation (canonically <em>no</em>). Dependents labeled <code>neg</code> in the current treebank are the following (in various lowercase/uppercase forms): <em>n, n’t, neither, never, no, non, not, nt, t</em>. </p>
 
 <pre><code class="language-sdparse">Bill is not a scientist
 neg(scientist, not)
@@ -1257,6 +1257,10 @@ neg(scientist, not)
 
 <pre><code class="language-sdparse">Bill does n't drive
 neg(drive, n't)
+</code></pre>
+
+<pre><code class="language-sdparse">John saw no accidents
+neg(accidents, no)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/neg.md" target="#">edit neg</a></p>
