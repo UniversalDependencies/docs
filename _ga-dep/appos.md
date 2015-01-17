@@ -7,7 +7,7 @@ shortdef: 'appositional modifier'
 An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It also includes parenthesized examples.
 
 
-~~~sdparse
+~~~ sdparse
 1	Tá	bí	VERB	VERB	_	0	root	_	_
 2	gearán	gearán	NOUN	NOUN	_	1	nsubj	_	_
 3	déanta	déanta	ADJ	ADJ	_	1	xcomp:pred	_	_
