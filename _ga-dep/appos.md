@@ -8,12 +8,24 @@ An appositional modifier of an NP is an NP immediately to the right of the first
 
 
 ~~~ sdparse
-Tá gearán déanta ag Unison, ceardchumann lucht na mbónaí bána, leis an gCoimisiún
+Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún
 \n There is a complain made by Unison, the white-collar trade union, to the Commission.
+nsubj(Tá, gearán)
+xcomp:pred(Tá, déanta)
+nmod(déanta, Unison)
+case(Unison, ag)
+punct(ceardchumann, ,)
 appos(Unison, ceardchumann)
+compound(ceardchumann, lucht)
+compound(lucht, mbónaí)
+amod(mbónaí, bána)
+punct(leis, ,)
+nmod(déanta, gCoimisiún)
+det(gCoimisiún, an)
+case(gCoimisiún, leis)
 ~~~
 
-~~~ sdparse
+~~~ conllx
 1	Chas	Cas	PROPN	PROPN	_	0	root	_	_
 2	m'	mo	DET	DET	_	3	nmod:poss	_	_
 3	athair	athair	NOUN	NOUN	_	1	nsubj	_	_
