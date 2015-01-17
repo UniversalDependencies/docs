@@ -10,6 +10,7 @@ head of the relative clause. Relative clauses are finite.
 
 ~~~ sdparse
 Chaill sé pé rud a bhí aige \n He lost everything that he had
-acl:relcl(bhí, rud)
+acl:relcl(bhí, pé)
+acl:relcl(had, everything)
 ~~~
 
