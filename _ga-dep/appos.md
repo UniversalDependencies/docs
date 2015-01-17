@@ -8,20 +8,37 @@ An appositional modifier of an NP is an NP immediately to the right of the first
 
 
 ~~~ sdparse
-1	Tá	bí	VERB	VERB	_	0	root	_	_
-2	gearán	gearán	NOUN	NOUN	_	1	nsubj	_	_
-3	déanta	déanta	ADJ	ADJ	_	1	xcomp:pred	_	_
-4	ag	ag	ADP	ADP	_	5	case	_	_
-5	Unison	Unison	PROPN	PROPN	_	3	nmod	_	_
-6	,	,	PUNCT	PUNCT	_	7	punct	_	_
-7	ceardchumann	ceardchumann	NOUN	NOUN	_	5	appos	_	_
-8	lucht	lucht	NOUN	NOUN	_	7	compound	_	_
-9	na	na	DET	DET	_	10	det	_	_
-10	mbónaí	bóna	NOUN	NOUN	_	8	compound	_	_
-11	bána	bán	ADJ	ADJ	_	10	amod	_	_
-12	,	,	PUNCT	PUNCT	_	3	punct	_	_
-13	leis	le	ADP	ADP	_	15	case	_	_
-14	an	an	DET	DET	_	15	det	_	_
-15	gCoimisiún	gcoimisiún	NOUN	NOUN	_	12	nmod	_	_
+Tá gearán déanta ag Unison, ceardchumann lucht na mbónaí bána, leis an gCoimisiún
 \n There is a complain made by Unison, the white-collar trade union, to the Commission.
+
+nsubj(Tá, gearán)
+xcomp:pred(Tá, déanta)
+nmod(déanta, Unison)
+case(Unison, case)
+punct(ceardchumann, ,)
+appos(Unison, ceardchumann)
+compound(ceardchumann, lucht)
+compound(lucht, mbónaí)
+amod(mbónaí, bána)
+punct(leis, ,)
+nmod(déanta, gCoimisiún)
+det(gCoimisiún, an)
+case(gCoimisiún, leis)
+
+~~~
+
+
+~~~ sdparse
+1	Chas	Cas	PROPN	PROPN	_	0	root	_	_
+2	m'	mo	DET	DET	_	3	nmod:poss	_	_
+3	athair	athair	NOUN	NOUN	_	1	nsubj	_	_
+4	air	ar	ADP	ADP	_	1	nmod:prep	_	_
+5	sa	i	ADP	ADP	_	6	case	_	_
+6	tábhairne	tábhairne	NOUN	NOUN	_	1	nmod	_	_
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	O'	O'	PART	PART	_	9	name	_	_
+9	Shea's	Shea's	PROPN	PROPN	_	6	appos	_	_
+10	i	i	ADP	ADP	_	11	case	_	_
+11	nDomhnach	Domhnach	NOUN	NOUN	_	9	nmod	_	_
+12	Broc	Broc	PROPN	PROPN	_	11	compound	_	_
 ~~~
