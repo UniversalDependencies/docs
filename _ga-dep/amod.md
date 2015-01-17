@@ -8,7 +8,7 @@ An adjectival modifier of an NP is any adjectival phrase that serves to modify t
 
 
 ~~~ sdparse
-Bíonn cabhair ar fáil dóibh ón stát sna tíortha forbatha \n Help is available to them from the state in developed countries
+tíortha forbatha \n developed countries
 amod(tíortha, forbatha)
 ~~~
 
@@ -16,3 +16,4 @@ amod(tíortha, forbatha)
 Baineann na prionsabail chéanna leis \n The same principles apply
 amod(prionsabail, chéanna)
 ~~~
+
