@@ -16,3 +16,5 @@ list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
+
+In an itemized or numbered list, we have been taking the item marker as a dependent of the head of the contentful list item. This appears to be better than the alternative.
