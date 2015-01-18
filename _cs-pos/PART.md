@@ -38,7 +38,7 @@ Only the former should become interjection, while the latter will stay a particl
   lit. _Will-not-<b>if</b> rain, we-will-not-get-wet.&nbsp;_
   “We will not get wet if it does not rain.”
   PDT tags the _li&nbsp;_ morpheme as particle and it is currently kept so in the UD conversion
-  but we should probably convert the tag to `SCONJ`.
+  but it might be changed to `SCONJ` in the future releases.
 
 - At present the UD-conversion of PDT keeps the PDT convention on tagging
   the response words (“yes, no”) as particles.
