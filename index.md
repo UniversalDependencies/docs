@@ -57,6 +57,8 @@ title:  'Universal Dependencies'
 
 [CoNLL-U format](format.html)
 
+<strong style='bgcolor:yellow'>New (2015-01-15):</strong> Download the version 1.0 treebanks from <a href="http://hdl.handle.net/11234/1-1464">http://hdl.handle.net/11234/1-1464</a>
+
 <small>
 This is the online documentation and example treebank for Universal
 Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
