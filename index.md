@@ -41,7 +41,7 @@ title:  'Universal Dependencies'
 
 <!-- "Universal" tab -->
 <div id="language-u" markdown="1" class="ui-tabs-panel">
-[Introduction to Universal Dependencies](introduction.html)
+[Introduction to Universal Dependencies](introduction.html) <span style='background-color:yellow'>New to UD? Start here!</span>
 
 * [Tokenization](u/overview/tokenization.html)
 * Morphology
