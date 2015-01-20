@@ -3,12 +3,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>Introduction</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
-    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+    <title>FTB tokenization</title>
+    <link rel="root" href="../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/style-vis.css"/>
+    <script type="text/javascript" src="../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -18,7 +18,7 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-fi">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-overview/introduction.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-overview/FTB-tokenization.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,36 +32,22 @@
 	  </div>
 	</noscript>
 
-          <h1 id="introduction">Introduction</h1>
+          <h1 id="finntreebank-ud-tokenization">FinnTreeBank UD tokenization</h1>
 
-<p>The Finnish UD treebank is based on the <a href="http://bionlp.utu.fi/fintreebank.html">Turku Dependency Treebank</a> (TDT), created at the University of Turku by a team lead by Filip Ginter. The treebank consists of 15,000 sentences (200,000 tokens) and covers 10 different genres ranging from news to fiction and blog entries.</p>
+<p>FinnTreeBank 1 has two tokens for those surface forms
+where a function word is fused with the negative verb.
+For example, “ellei” ‘if not’ is analyzed as “ell ei” where
+“ell” is considered the same as, and lemmatized as, “jos” ‘if’.</p>
 
-<p>The morphological and syntactic annotation of the Finnish UD treebank is created through a conversion of TDT data, and much of the Finnish UD documentation draws directly on the TDT annotation guidelines (<a href="http://tucs.fi/publications/attachment.php?fname=tHaverinen_Katri13a.full.pdf">Haverinen et al. 2013</a>).</p>
-
-<h2 id="acknowledgments">Acknowledgments</h2>
-
-<p>We wish to thank all of the contributors to the original TDT annotation effort, including Katri Haverinen, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, and Tapio Salakoski, as well as the University of Turku, the Turku Centre for Computer Science, the Finnish Academy and the Turku University Foundation for supporting the original TDT annotation effort.</p>
-
-<h2 id="see-also">See also</h2>
-
-<p>The University of Helsinki provides a different Finnish treebank, in the process of being converted to the UD notation from a newly revised
-<a href="http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/">FinnTreeBank 1</a> (ftb1-2014.zip, beta). The 19089 sentences and fragments originate as grammatical examples in the VISK Finnish grammar reference (161906 tokens, sentence lengths from 1 to 72 tokens with quartiles 5, 7, 11).</p>
-
-<h2 id="references">References</h2>
-
-<ul>
-  <li>Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
-<a href="http://dx.doi.org/10.1007/s10579-013-9244-1">Building the essential resources for Finnish: the Turku Dependency Treebank</a>. <em>Language Resources and Evaluation</em>. Volume 48, Issue 3, pp 493-531.</li>
-  <li>Katri Haverinen. 2013.
-<a href="http://tucs.fi/publications/attachment.php?fname=tHaverinen_Katri13a.full.pdf">Syntax Annotation Guidelines for the Turku Dependency Treebank - 2nd edition, revised for the treebank release of July 2013</a>. <em>Technical report 1034, Turku Centre for Computer Science</em>.</li>
-</ul>
+<p>FinnTeeBank 1 contains a small number of proper names as
+“multiword” tokens.</p>
 
 
       </div>
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../../'; // filled in by jekyll
+    var root = '../'; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
