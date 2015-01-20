@@ -14,6 +14,11 @@ The morphological and syntactic annotation of the Finnish UD treebank is created
 
 We wish to thank all of the contributors to the original TDT annotation effort, including Katri Haverinen, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, and Tapio Salakoski, as well as the University of Turku, the Turku Centre for Computer Science, the Finnish Academy and the Turku University Foundation for supporting the original TDT annotation effort.
 
+## See also
+
+The University of Helsinki provides a different Finnish treebank, converted to the UD notation from a newly revised
+[FinnTreeBank 1](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/) (ftb1-2014.zip, beta). The 19089 sentences and fragments originate as grammatical examples in VISK (161906 tokens, sentence lengths from 1 to 72 tokens with quartiles 5, 7, 11). Minimally all notation will conform to the UD specification, with an effort to be also structurally as universal as possible (conversion is under way).
+
 ## References
 
 * Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
