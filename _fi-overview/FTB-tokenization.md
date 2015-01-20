@@ -1,3 +1,8 @@
+---
+layout: base
+title:  'FTB tokenization'
+---
+
 FinnTreeBank UD tokenization
 ============================
 
