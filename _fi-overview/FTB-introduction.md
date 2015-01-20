@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'FTB Introduction'
+---
+
+
 Introduction to FinnTreeBank 1 UD version
 =========================================
 
