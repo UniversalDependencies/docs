@@ -18,7 +18,7 @@ comparing it to qualities of others.
 
 ### `Cmp`: comparative, second degree
 
-The quality of one things is compared to the same quality of another.
+The quality of one thing is compared to the same quality of another.
 
 #### Examples
 
