@@ -26,3 +26,4 @@ title: 'Tagset conversion tables'
 * <a href="hr-multext-uposf.html">hr::multext</a> (Croatian)
 * <a href="hu-conll-uposf.html">hu::conll</a> (Hungarian)
 * <a href="it-conll-uposf.html">it::conll</a> (Italian)
+* <a href="ja-conll-uposf.html">ja::conll</a> (Japanese)
