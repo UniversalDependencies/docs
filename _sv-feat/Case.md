@@ -4,7 +4,7 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-Case is usually an inflectional feature of [nouns](sv-pos/NOUN), helping to specify the role of the noun phrase in the sentence. Swedish makes use of three cases: nominiative, accusative (personal pronouns only), and genitive.
+Case is usually an inflectional feature of [nouns](sv-pos/NOUN), helping to specify the role of the noun phrase in the sentence. Swedish makes use of three cases: nominative, accusative (personal pronouns only), and genitive.
 
 ### `Nom`: nominative
 
