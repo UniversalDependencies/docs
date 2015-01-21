@@ -1223,7 +1223,19 @@ parataxis(long, missed)
 <p><a id="al-en-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p><code>name</code> is used for proper nouns constituted of multiple nominal elements. For example, <code>name</code> would be used between the words of <em>Hillary Rodham Clinton</em>, <em>New York</em>, or <em>Carl XVI Gustaf</em> but not to replace the usual relations in a phrasal or clausal name like <em>The king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By Aliens</em>. Words joined by <code>name</code> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used.  This is basically similar to the treatment of noun compounds with <em>compound</em>, except that in many cases parts of the name may be another nominal elelment such as an adjective (<em>United Airlines</em>).</p>
+<p><code>name</code> is one of the three relations for compounding in UD (together
+with <a href="">compound</a> and <a href="">mwe</a>).
+It is used for proper nouns constituted of multiple nominal
+elements. For example, <code>name</code> would be used between the words of
+<em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to
+replace the usual relations in a phrasal or clausal name like <em>The
+king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By
+Aliens.</em>
+Words joined by <code>name</code> should all be part of a minimal noun phrase;
+otherwise regular syntactic relations should be used.  This is
+basically similar to the treatment of noun compounds with
+<a href="">compound</a>, except that in many cases parts of the name may be
+another nominal element such as an adjective <em>(United Airlines).</em></p>
 
 <p>In general, names are annotated in a flat, head-initial structure, in
 which all words in the name modify the first one using the <code>name</code>
@@ -1234,15 +1246,42 @@ name(Carl-1, Gustaf-3)
 name(Carl-1, XVI-2)
 </code></pre>
 
-<p>This is certainly the case for person names and foreign person or
-place names. For organization names with clear syntactic modification
-structure, the dependencies should reflect the semantics, as for noun
-compounding in <code>compound</code>.</p>
+<p>For organization names with clear syntactic modification structure, the dependencies should reflect the syntactic modification structure using regular syntactic relation, as in:.</p>
 
 <pre><code class="language-sdparse">Natural Resources Conservation Service
-name(Resources-2, Natural-1)
-name(Conservation-3, Resources-2)
-name(Service-4, Conservation-3)
+amod(Resources-2, Natural-1)
+compound(Conservation-3, Resources-2)
+compound(Service-4, Conservation-3)
+</code></pre>
+
+<p>In addition, regular syntactic relations are used:
+(i) for a modifying determiner or
+(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
+
+<pre><code class="language-sdparse">Le Japon
+det(Japon-2, Le-1)
+</code></pre>
+
+<pre><code class="language-sdparse">Ludwig van Beethoven
+case(Beethoven, van)
+</code></pre>
+
+<pre><code class="language-sdparse">Miguel de Cervantes y Saavedra
+conj(Cervantes, Saavedra)
+cc(Cervantes, y)
+case(Cervantes, de)
+</code></pre>
+
+<pre><code class="language-sdparse">The king of Sweden
+det(king-2, The-1)
+nmod(king-2, Sweden-4)
+case(Sweden-4, of-3)
+</code></pre>
+
+<pre><code class="language-sdparse">Río de la Plata
+case(Plata-4, de-2)
+det(Plata-4, la-3)
+nmod(Río-1, Plata-4)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/name.md" target="#">edit name</a></p>
