@@ -12,8 +12,8 @@ The base form, typically used as a citation form (lemma).
 
 #### Examples
 
-* [sv] _<b>riskerna</b> är stora_ "the <b>risks</b> are large"
 * [sv] _att ta <b>ansvar</b>_ "to take <b>responsibility</b>"
+* [sv] _<b>riskerna</b> är stora_ "the <b>risks</b> are large"
 
 ### `Acc`: accusative
 
@@ -25,6 +25,8 @@ In many languages used for direct objects of verbs. In Swedish this form is only
 * [sv] _ta med <b>dig</b>_ "take with <b>you</b>"
 
 ### `Gen`: genitive
+
+Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. The genetive in Swedish does not however always imply possession, for example _<b>Stillhetens</b> hav_ "Sea of <b>Tranquility</b>"
 
 #### Examples
 
