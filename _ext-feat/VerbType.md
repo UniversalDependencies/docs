@@ -42,3 +42,16 @@ müssen (must), sollen (shall), wollen (want to), wissen (know to)
 
 Czech examples: muset (must), mít (shall, have to), moci (can), smět
 (may, be allowed to), umět (know to), chtít (want to)
+
+### Light: light (support) verb
+
+Light or support verb is used in verbo-nominal constructions where the main
+part of the meaning is contributed by a noun complement.
+An English example would be _to take a nap,_ where _take_ is the light verb.
+It is often the case that the light verb can also function as a normal verb
+in the language (cf. _to take two dollars_).
+If the light verb constructions are used frequently in a language (e.g. Hindi or Japanese) or
+if there is a dedicated light verb that cannot be used as normal verb,
+it makes sense to mark light verbs with a dedicated feature value.
+
+Japanese example: suru
