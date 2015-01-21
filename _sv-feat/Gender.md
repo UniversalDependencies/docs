@@ -32,5 +32,5 @@ Some adjectives, when referring specifically to a male person, take a masculine 
 
 #### Examples
 
-* [sv] _den arbetslöse_ "the unemployed (man)"
+* [sv] _den <b>arbetslöse</b>_ "the <b>unemployed</b> (man)"
 * [sv] _den <b>brittiske</b> författaren_ "the <b>British</b> author"
