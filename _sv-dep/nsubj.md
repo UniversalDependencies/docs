@@ -4,5 +4,9 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubj`.
+The dependency type `nsubj` marks nominal subjects of the non-copular clause.
+
+~~~ sdparse
+Pappa hjälper till med tvätten . \n Dad helps with the laundry .
+nsubj(hjälper, Pappa)
+~~~
