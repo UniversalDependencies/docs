@@ -68,6 +68,7 @@ The following features are included in the universal standard, but some values a
 * New value 'rcp' of the feature 'voice': reciprocal (Turkish "kar&#305;şt&#305;", "tutuştular")
 * New value 'cau' of the feature 'voice': causative (Turkish "kar&#305;şt&#305;r&#305;yor" ("is confusing"))
 * New value 'int' of the feature 'voice': intensive voice/aspect (the PIEL binyan) in Hebrew.
+* New value 'gdv' of the feature 'verbform': gerundive (as opposed to the gerund) in Latin.
 
 There are automatically generated approximate
 <a href="tagset-conversion/">conversion tables</a>
