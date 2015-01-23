@@ -9,6 +9,7 @@ title: 'Tagset conversion tables'
 * <a href="ar-conll2007-uposf.html">ar::conll2007</a> (Arabic)
 * <a href="bg-conll-uposf.html">bg::conll</a> (Bulgarian)
 * <a href="ca-conll2009-uposf.html">ca::conll2009</a> (Catalan)
+* <a href="cs-pdt-uposf.html">cs::pdt</a> (Czech)
 * <a href="cs-conll-uposf.html">cs::conll</a> (Czech)
 * <a href="da-conll-uposf.html">da::conll</a> (Danish)
 * <a href="de-conll2009-uposf.html">de::conll2009</a> (German)
