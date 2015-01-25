@@ -1395,7 +1395,12 @@ distinguished as a separate relation.</p>
 <p><a id="al-en-dep/nmod:poss" class="al-dest"></a></p>
 <h2><code>nmod:poss</code>: TODO</h2>
 
-<p>content TODO</p>
+<p><code>nmod:poss</code> is used for a nominal modifier which occur before its head in the specifier position used for <em>‘s</em> possessives. It is marked with the <code>case</code> <em>‘s</em> or one of its variant forms. This relation isn’t used for other pre-head modifiers such as noun compounds or quotative phrases.</p>
+
+<pre><code class="language-sdparse">Marie 's book
+nmod:poss(book, Marie)
+case(Marie, 's)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-dep/nmod-poss.md" target="#">edit nmod:poss</a></p>
 
