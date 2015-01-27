@@ -49,6 +49,7 @@ title:  'Universal Dependencies'
   * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
   * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
   * [Language-specific features](ext-feat-index.html)
+  * [Conversion from other tagsets](tagset-conversion/index.html)
 * Syntax
   * [General principles](u/overview/syntax.html)
   * [Specific constructions](u/overview/specific-syntax.html)

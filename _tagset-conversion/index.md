@@ -5,6 +5,12 @@ title: 'Tagset conversion tables'
 
 ## Tagset conversion tables to universal tags and features
 
+**Disclaimer:**
+These conversion tables were generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The tables require manual postprocessing in order to provide accurate and complete information.
+
 * <a href="ar-conll-uposf.html">ar::conll</a> (Arabic)
 * <a href="ar-conll2007-uposf.html">ar::conll2007</a> (Arabic)
 * <a href="bg-conll-uposf.html">bg::conll</a> (Bulgarian)
