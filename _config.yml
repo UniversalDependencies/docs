@@ -287,6 +287,20 @@ collections:
   zh-overview:
     output: true
 #
+# Romanian
+#
+  ro-pos:
+    output: true
+    permalink: /ro/pos/:path.html
+  ro-feat:
+    output: true
+    permalink: /ro/feat/:path.html
+  ro-dep:
+    output: true
+    permalink: /ro/dep/:path.html
+  ro-overview:
+    output: true
+#
 # Template
 #
   template-pos:

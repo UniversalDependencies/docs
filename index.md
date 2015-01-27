@@ -37,6 +37,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-ro">Romanian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -470,6 +471,32 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
+</div>
+
+<!-- "Romanian" tab -->
+<div id="language-ro" markdown="1" class="ui-tabs-hide">
+{% include ro-status-table.html %}
+
+[Introduction](ro/overview/introduction.html)
+
+* [Tokenization](ro/overview/tokenization.html)
+* Morphology
+  * [General principles](ro/overview/morphology.html)
+  * [Romanian POS tags](ro/pos/index.html) ([single document](ro/pos/all.html))
+  * [Romanian features](ro/feat/index.html) ([single document](ro/feat/all.html))
+* Syntax
+  * [General principles](ro/overview/syntax.html)
+  * [Specific constructions](ro/overview/specific-syntax.html)
+  * [Romanian dependency relations](ro/dep/index.html) ([single document](ro/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
 </div>
 
 <!-- new tab template -->
