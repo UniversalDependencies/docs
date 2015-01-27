@@ -4,5 +4,10 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+A clausal passive subject is a clausal syntactic subject of a passive
+clause. In the example below, *att hon ljög* is the subject.
+
+~~~ sdparse
+Att hon ljög misstänktes av alla . \n That she lied was suspected by everyone .
+csubjpass(misstänktes, ljög)
+~~~
