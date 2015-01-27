@@ -44,5 +44,5 @@ Supine in Swedish is a special form of the participle, used to form the composit
 
 #### Examples
 
-* [sv] _Labourpartiet har <b>gjort</b> försök</b>_ "The Labour party has <b>made</b> an attempt"
+* [sv] _Labourpartiet har <b>gjort</b> försök_ "The Labour party has <b>made</b> an attempt"
 * [sv] _antalet lägenheter har <b>sjunkit</b>_ "the  number of apartments has <b>decreased</b>"
