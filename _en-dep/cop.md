@@ -37,7 +37,7 @@ cop(honest, is)
 
 ~~~ sdparse
 It was yesterday
-nsubj(yesterday, it)
+nsubj(yesterday, It)
 cop(yesterday, was)
 ~~~
 
@@ -47,7 +47,7 @@ Prepositions may also project a cop dependent.
 The light is on
 cop(on, is)
 nsubj(on, light)
-det(light, the)
+det(light, The)
 ~~~
 
 In predicative wh-constructions, the fronted wh-word is the head, and the copula is 

@@ -17,7 +17,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  1. ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
- 4. CPOSTAG: Google universal part-of-speech tag from the [universal POS tag](u/pos/index.html) set.
+ 4. CPOSTAG: [Universal part-of-speech tag](u/pos/index.html) drawn from our revised version of the Google universal POS tags.
  5. POSTAG: Language-specific part-of-speech tag; underscore if not available.
  6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined language-specific extension; underscore if not available.
  7. HEAD: Head of the current token, which is either a value of ID or zero (0).

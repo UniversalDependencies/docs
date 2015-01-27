@@ -5,10 +5,9 @@ generated: 'true'
 permalink: en/dep/all.html
 ---
 
-This page is an automatic merge of the pages with documentation and
-examples from Section 2 of *[Stanford typed dependencies
+These pages draw from Section 2 of *[Stanford typed dependencies
 manual](http://nlp.stanford.edu/software/dependencies_manual.pdf)* (de
-Marneffe and Manning 2008).
+Marneffe and Manning 2008), but have been updated for UD.
 
 {% include en-dep-table.html %}
 

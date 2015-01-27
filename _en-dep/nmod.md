@@ -34,7 +34,7 @@ prepositional complement and the noun introduced by the preposition.
 the Chair 's office
 det(Chair-2, the-1)
 nmod(office-4, Chair-2)
-poss(Chair-2, 's-3)
+case(Chair-2, 's-3)
 ~~~
 
 Nominal modifiers not introduced by a preposition or not 's genitives
