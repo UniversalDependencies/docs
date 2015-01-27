@@ -1,0 +1,174 @@
+---
+layout: base
+title: 'Tagset sv::suc conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset sv::suc
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>sv::suc</tt>, total 155 tags.
+
+<table>
+  <tr style="background:lightgray"><td>AB</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>inte, också, så, bara, nu</em></td></tr>
+  <tr><td>AB|AN</td><td>=&gt;</td><td>ADV</td><td>Abbr=Yes</td><td><em>t.ex., ca, t_ex, bl.a., s_k</em></td></tr>
+  <tr style="background:lightgray"><td>AB|KOM</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>mer, tidigare, mindre, vidare, mera</em></td></tr>
+  <tr><td>AB|POS</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em>mycket, helt, ofta, länge, långt</em></td></tr>
+  <tr style="background:lightgray"><td>AB|SMS</td><td>=&gt;</td><td>ADV</td><td>Hyph=Yes</td><td><em>över-, in-</em></td></tr>
+  <tr><td>AB|SUV</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>minst, mest, högst, främst, helst</em></td></tr>
+  <tr style="background:lightgray"><td>DT|MAS|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>DT|MAS|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DT|NEU|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing</td><td><em>det, detta</em></td></tr>
+  <tr><td>DT|NEU|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>ett, något, inget, vart, vartannat</em></td></tr>
+  <tr style="background:lightgray"><td>DT|NEU|SIN|IND/DEF</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing</td><td><em>allt</em></td></tr>
+  <tr><td>DT|UTR/NEU|PLU|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur</td><td><em>de, dessa, bägge, dom</em></td></tr>
+  <tr style="background:lightgray"><td>DT|UTR/NEU|PLU|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Plur</td><td><em>några, inga</em></td></tr>
+  <tr><td>DT|UTR/NEU|PLU|IND/DEF</td><td>=&gt;</td><td>DET</td><td>Number=Plur</td><td><em>alla</em></td></tr>
+  <tr style="background:lightgray"><td>DT|UTR/NEU|SIN/PLU|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind</td><td><em>samma</em></td></tr>
+  <tr><td>DT|UTR/NEU|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Sing</td><td><em>vardera</em></td></tr>
+  <tr style="background:lightgray"><td>DT|UTR/NEU|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Sing</td><td><em>varje, varenda</em></td></tr>
+  <tr><td>DT|UTR|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Com|Number=Sing</td><td><em>den, denna</em></td></tr>
+  <tr style="background:lightgray"><td>DT|UTR|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Com|Number=Sing</td><td><em>en, någon, ingen, var, varannan</em></td></tr>
+  <tr><td>DT|UTR|SIN|IND/DEF</td><td>=&gt;</td><td>DET</td><td>Gender=Com|Number=Sing</td><td><em>all</em></td></tr>
+  <tr style="background:lightgray"><td>HA</td><td>=&gt;</td><td>ADV</td><td>PronType=Int,Rel</td><td><em>när, där, hur, som, då</em></td></tr>
+  <tr><td>HD|NEU|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em>vilket</em></td></tr>
+  <tr style="background:lightgray"><td>HD|UTR/NEU|PLU|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Plur|PronType=Int,Rel</td><td><em>vilka</em></td></tr>
+  <tr><td>HD|UTR|SIN|IND</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Com|Number=Sing|PronType=Int,Rel</td><td><em>vilken</em></td></tr>
+  <tr style="background:lightgray"><td>HP|-|-|-</td><td>=&gt;</td><td>PRON</td><td>PronType=Int,Rel</td><td><em>som</em></td></tr>
+  <tr><td>HP|NEU|SIN|IND</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em>vad, vilket</em></td></tr>
+  <tr style="background:lightgray"><td>HP|NEU|SIN|IND|SMS</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Gender=Neut|Hyph=Yes|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>HP|UTR/NEU|PLU|IND</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Number=Plur|PronType=Int,Rel</td><td><em>vilka</em></td></tr>
+  <tr style="background:lightgray"><td>HP|UTR|SIN|IND</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Gender=Com|Number=Sing|PronType=Int,Rel</td><td><em>vilken, vem</em></td></tr>
+  <tr><td>HS|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Poss=Yes|PronType=Int,Rel</td><td><em>vars, vilkas, Vems</em></td></tr>
+  <tr style="background:lightgray"><td>IE</td><td>=&gt;</td><td>PART</td><td>VerbForm=Inf</td><td><em>att</em></td></tr>
+  <tr><td>IN</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>Jo, ja, nej, fan, visst</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|AN</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes</td><td><em>ev, S:t, Kungl, Kungl., Teol</em></td></tr>
+  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp</td><td><em>äldres</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp</td><td><em>större, högre, mindre, bättre, äldre</em></td></tr>
+  <tr><td>JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|SMS</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Hyph=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|MAS|SIN|DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>enskildes, sjukes, andres</em></td></tr>
+  <tr><td>JJ|POS|MAS|SIN|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>enskilde, sjuke, andre, unge, ene</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|NEU|SIN|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>eget</em></td></tr>
+  <tr><td>JJ|POS|NEU|SIN|IND|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|NEU|SIN|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing</td><td><em>annat, svårt, möjligt, nytt, sådant</em></td></tr>
+  <tr><td>JJ|POS|UTR/NEU|PLU|IND/DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Number=Plur</td><td><em>ogiftas, ungas, frånskildas, efterkommandes, färgblindas</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|UTR/NEU|PLU|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Number=Plur</td><td><em>olika, andra, många, stora, vissa</em></td></tr>
+  <tr><td>JJ|POS|UTR/NEU|PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Pos|Number=Plur</td><td><em>flera, sådana, fler, få, samtliga</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|UTR/NEU|SIN/PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Pos</td><td><em></em></td></tr>
+  <tr><td>JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos</td><td><em>bra, ena, enda, nästa, ringa</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|UTR/NEU|SIN|DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Degree=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>JJ|POS|UTR/NEU|SIN|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Pos|Number=Sing</td><td><em>hela, nya, andra, svenska, ekonomiska</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|UTR|-|-|SMS</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Gender=Com|Hyph=Yes</td><td><em>fri-, låg-, sexual-</em></td></tr>
+  <tr><td>JJ|POS|UTR|SIN|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Com|Number=Sing</td><td><em>egen</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|POS|UTR|SIN|IND|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing</td><td><em>enskilds</em></td></tr>
+  <tr><td>JJ|POS|UTR|SIN|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing</td><td><em>stor, annan, själv, sådan, viss</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|SUV|MAS|SIN|DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>JJ|SUV|MAS|SIN|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing</td><td><em>störste, främste, äldste, minste</em></td></tr>
+  <tr style="background:lightgray"><td>JJ|SUV|UTR/NEU|PLU|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Sup|Number=Plur</td><td><em>flesta</em></td></tr>
+  <tr><td>JJ|SUV|UTR/NEU|PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Sup</td><td><em>bästa, största, närmaste, viktigaste, högsta</em></td></tr>
+  <tr><td>JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Sup</td><td><em>störst, bäst, tidigast, högst, fattigast</em></td></tr>
+  <tr style="background:lightgray"><td>KN</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
+  <tr><td>KN|AN</td><td>=&gt;</td><td>CONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>MAD</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo,Excl,Peri,Qest</td><td><em>., ?, :, !, ...</em></td></tr>
+  <tr><td>MID</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo,Comm,Dash,Semi</td><td><em>,, -, :, *, ;</em></td></tr>
+  <tr style="background:lightgray"><td>NN|-|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>godo, fjol, fullo, somras, måtto</em></td></tr>
+  <tr><td>NN|AN</td><td>=&gt;</td><td>NOUN</td><td>Abbr=Yes</td><td><em>kr, %, s., dr, kap.</em></td></tr>
+  <tr style="background:lightgray"><td>NN|NEU|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Neut</td><td><em></em></td></tr>
+  <tr><td>NN|NEU|-|-|SMS</td><td>=&gt;</td><td>NOUN</td><td>Gender=Neut|Hyph=Yes</td><td><em>yrkes-, barn-, hem-, fack-, vatten-</em></td></tr>
+  <tr style="background:lightgray"><td>NN|NEU|PLU|DEF|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Neut|Number=Plur</td><td><em>barnens, årens, u-ländernas, företagens, århundradenas</em></td></tr>
+  <tr><td>NN|NEU|PLU|DEF|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Plur</td><td><em>barnen, u-länderna, åren, länderna, könen</em></td></tr>
+  <tr style="background:lightgray"><td>NN|NEU|PLU|IND|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Neut|Number=Plur</td><td><em>slags, års, barns, länders, tusentals</em></td></tr>
+  <tr><td>NN|NEU|PLU|IND|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Plur</td><td><em>barn, år, fall, länder, problem</em></td></tr>
+  <tr style="background:lightgray"><td>NN|NEU|SIN|DEF|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Neut|Number=Sing</td><td><em>äktenskapets, samhällets, barnets, 1800-talets, 1960-talets</em></td></tr>
+  <tr><td>NN|NEU|SIN|DEF|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Sing</td><td><em>äktenskapet, samhället, barnet, stället, hemmet</em></td></tr>
+  <tr style="background:lightgray"><td>NN|NEU|SIN|IND|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Neut|Number=Sing</td><td><em>års, slags, lands, havs, företags</em></td></tr>
+  <tr><td>NN|NEU|SIN|IND|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing</td><td><em>år, arbete, barn, sätt, äktenskap</em></td></tr>
+  <tr style="background:lightgray"><td>NN|SMS</td><td>=&gt;</td><td>NOUN</td><td>Hyph=Yes</td><td><em>PCB-, Syd-</em></td></tr>
+  <tr><td>NN|UTR|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>Gender=Com</td><td><em>dags, rätta</em></td></tr>
+  <tr style="background:lightgray"><td>NN|UTR|-|-|SMS</td><td>=&gt;</td><td>NOUN</td><td>Gender=Com|Hyph=Yes</td><td><em>far-, kibbutz-, röntgen-, barna-, hälso-</em></td></tr>
+  <tr><td>NN|UTR|PLU|DEF|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Com|Number=Plur</td><td><em>föräldrarnas, kvinnornas, elevernas, kibbutzernas, makarnas</em></td></tr>
+  <tr style="background:lightgray"><td>NN|UTR|PLU|DEF|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Com|Number=Plur</td><td><em>kvinnorna, föräldrarna, makarna, männen, hyrorna</em></td></tr>
+  <tr><td>NN|UTR|PLU|IND|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Com|Number=Plur</td><td><em>människors, kvinnors, dagars, tiders, månaders</em></td></tr>
+  <tr style="background:lightgray"><td>NN|UTR|PLU|IND|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Com|Number=Plur</td><td><em>procent, människor, kvinnor, miljoner, kronor</em></td></tr>
+  <tr><td>NN|UTR|SIN|DEF|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Com|Number=Sing</td><td><em>kvinnans, världens, familjens, dagens, jordens</em></td></tr>
+  <tr style="background:lightgray"><td>NN|UTR|SIN|DEF|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Com|Number=Sing</td><td><em>familjen, kvinnan, mannen, världen, skolan</em></td></tr>
+  <tr><td>NN|UTR|SIN|IND|GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Com|Number=Sing</td><td><em>sorts, medelålders, makes, kvinnas, veckas</em></td></tr>
+  <tr style="background:lightgray"><td>NN|UTR|SIN|IND|NOM</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Com|Number=Sing</td><td><em>del, tid, dag, fråga, man</em></td></tr>
+  <tr><td>PAD</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Brck,Quot</td><td><em>', ), (</em></td></tr>
+  <tr style="background:lightgray"><td>PC|AN</td><td>=&gt;</td><td>VERB</td><td>Abbr=Yes|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>PC|PRF|MAS|SIN|DEF|GEN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>avlidnes</em></td></tr>
+  <tr style="background:lightgray"><td>PC|PRF|MAS|SIN|DEF|NOM</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>PC|PRF|NEU|SIN|IND|NOM</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>taget, sett, särskilt, förbjudet, ökat</em></td></tr>
+  <tr style="background:lightgray"><td>PC|PRF|UTR/NEU|PLU|IND/DEF|GEN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>försäkrades, anställdas</em></td></tr>
+  <tr><td>PC|PRF|UTR/NEU|PLU|IND/DEF|NOM</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part</td><td><em>särskilda, gifta, ökade, handikappade, skilda</em></td></tr>
+  <tr style="background:lightgray"><td>PC|PRF|UTR/NEU|SIN|DEF|GEN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Definite=Def|Number=Sing|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>PC|PRF|UTR/NEU|SIN|DEF|NOM</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Definite=Def|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>ökade, gifta, nämnda, nedärvda, dolda</em></td></tr>
+  <tr style="background:lightgray"><td>PC|PRF|UTR|SIN|IND|GEN</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Gen|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>PC|PRF|UTR|SIN|IND|NOM</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>särskild, ökad, beredd, gift, oförändrad</em></td></tr>
+  <tr style="background:lightgray"><td>PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|GEN</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Tense=Pres|VerbForm=Part</td><td><em>studerandes, sammanboendes, dubbelarbetandes</em></td></tr>
+  <tr><td>PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Tense=Pres|VerbForm=Part</td><td><em>följande, beroende, nuvarande, motsvarande, liknande</em></td></tr>
+  <tr style="background:lightgray"><td>PL</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>ut, upp, in, till, med</em></td></tr>
+  <tr><td>PL|SMS</td><td>=&gt;</td><td>PART</td><td>Hyph=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PM</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>F, N, Liechtenstein, Danmark, DK</em></td></tr>
+  <tr><td>PM|GEN</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen</td><td><em>Sveriges, EEC:s, Guds, Stockholms, Kristi</em></td></tr>
+  <tr style="background:lightgray"><td>PM|NOM</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom</td><td><em>Sverige, EEC, Stockholm, USA, ATP</em></td></tr>
+  <tr><td>PM|SMS</td><td>=&gt;</td><td>PROPN</td><td>Hyph=Yes</td><td><em>Göteborgs-, Nord-, Väst-</em></td></tr>
+  <tr style="background:lightgray"><td>PN|MAS|SIN|DEF|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Def|Gender=Masc|Number=Sing</td><td><em>denne</em></td></tr>
+  <tr><td>PN|NEU|SIN|DEF|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Def|Gender=Neut|Number=Sing</td><td><em>det, detta, detsamma</em></td></tr>
+  <tr style="background:lightgray"><td>PN|NEU|SIN|IND|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>något, allt, mycket, annat, ingenting</em></td></tr>
+  <tr><td>PN|UTR/NEU|PLU|DEF|OBJ</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Definite=Def|Number=Plur</td><td><em>dem, varandra, varann</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR/NEU|PLU|DEF|SUB</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Number=Plur</td><td><em>de, bägge</em></td></tr>
+  <tr><td>PN|UTR/NEU|PLU|DEF|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Def|Number=Plur</td><td><em>dessa, dom, båda, den, bådadera</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR/NEU|PLU|IND|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Number=Plur</td><td><em>andra, alla, många, sådana, några</em></td></tr>
+  <tr><td>PN|UTR/NEU|SIN/PLU|DEF|OBJ</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Definite=Def</td><td><em>sig, sej</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR|PLU|DEF|OBJ</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Definite=Def|Gender=Com|Number=Plur</td><td><em>oss, er, eder</em></td></tr>
+  <tr><td>PN|UTR|PLU|DEF|SUB</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Com|Number=Plur</td><td><em>vi</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR|SIN|DEF|OBJ</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Definite=Def|Gender=Com|Number=Sing</td><td><em>dig, mig, henne, honom, Er</em></td></tr>
+  <tr><td>PN|UTR|SIN|DEF|SUB</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Com|Number=Sing</td><td><em>du, han, hon, jag, ni</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR|SIN|DEF|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Def|Gender=Com|Number=Sing</td><td><em>den, denna, densamma</em></td></tr>
+  <tr><td>PN|UTR|SIN|IND|SUB</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Ind|Gender=Com|Number=Sing</td><td><em>man</em></td></tr>
+  <tr style="background:lightgray"><td>PN|UTR|SIN|IND|SUB/OBJ</td><td>=&gt;</td><td>PRON</td><td>Definite=Ind|Gender=Com|Number=Sing</td><td><em>en, var, någon, ingen, Varannan</em></td></tr>
+  <tr><td>PP</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>i, av, på, för, till</em></td></tr>
+  <tr style="background:lightgray"><td>PP|AN</td><td>=&gt;</td><td>ADP</td><td>Abbr=Yes|AdpType=Prep</td><td><em>f</em></td></tr>
+  <tr><td>PS|AN</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PS|NEU|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>sitt, vårt, ditt, mitt, ert</em></td></tr>
+  <tr><td>PS|UTR/NEU|PLU|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Poss=Yes|PronType=Prs</td><td><em>sina, våra, dina, mina</em></td></tr>
+  <tr style="background:lightgray"><td>PS|UTR/NEU|SIN/PLU|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Poss=Yes|PronType=Prs</td><td><em>deras, dess, hans, hennes, varandras</em></td></tr>
+  <tr><td>PS|UTR|SIN|DEF</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs</td><td><em>sin, vår, din, min, er</em></td></tr>
+  <tr style="background:lightgray"><td>RG</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>2, 17, 20, 1, 18</em></td></tr>
+  <tr><td>RG|GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>RG|MAS|SIN|DEF|NOM</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>RG|NEU|SIN|IND|NOM</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card</td><td><em>ett</em></td></tr>
+  <tr style="background:lightgray"><td>RG|NOM</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card</td><td><em>två, tre, 1, 20, 2</em></td></tr>
+  <tr><td>RG|SMS</td><td>=&gt;</td><td>NUM</td><td>Hyph=Yes|NumType=Card</td><td><em>ett-, 1950-, två-, tre-, 1700-</em></td></tr>
+  <tr style="background:lightgray"><td>RG|UTR/NEU|SIN|DEF|NOM</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>RG|UTR|SIN|IND|NOM</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Com|Number=Sing|NumType=Card</td><td><em>en</em></td></tr>
+  <tr style="background:lightgray"><td>RO|MAS|SIN|IND/DEF|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>RO|MAS|SIN|IND/DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>förste</em></td></tr>
+  <tr style="background:lightgray"><td>RO|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>RO|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord</td><td><em>första, andra, tredje, fjärde, femte</em></td></tr>
+  <tr style="background:lightgray"><td>SN</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>att, om, innan, eftersom, medan</em></td></tr>
+  <tr><td>UO</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
+  <tr style="background:lightgray"><td>VB|AN</td><td>=&gt;</td><td>VERB</td><td>Abbr=Yes</td><td><em>jfr</em></td></tr>
+  <tr><td>VB|IMP|AKT</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Act</td><td><em>se, Diskutera, låt, Läs, Gå</em></td></tr>
+  <tr style="background:lightgray"><td>VB|IMP|SFO</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Pass</td><td><em>tas</em></td></tr>
+  <tr><td>VB|INF|AKT</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Act</td><td><em>vara, få, ha, bli, kunna</em></td></tr>
+  <tr style="background:lightgray"><td>VB|INF|SFO</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Pass</td><td><em>användas, finnas, göras, tas, ses</em></td></tr>
+  <tr><td>VB|KON|PRS|AKT</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>vare, Gånge</em></td></tr>
+  <tr style="background:lightgray"><td>VB|KON|PRT|AKT</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>vore, finge</em></td></tr>
+  <tr><td>VB|KON|PRT|SFO</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VB|PRS|AKT</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|Voice=Act</td><td><em>är, har, kan, får, måste</em></td></tr>
+  <tr><td>VB|PRS|SFO</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|Voice=Pass</td><td><em>finns, kallas, behövs, beräknas, används</em></td></tr>
+  <tr style="background:lightgray"><td>VB|PRT|AKT</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>skulle, var, hade, kunde, fick</em></td></tr>
+  <tr><td>VB|PRT|SFO</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Fin|Voice=Pass</td><td><em>fanns, gjordes, höjdes, användes, infördes</em></td></tr>
+  <tr style="background:lightgray"><td>VB|SMS</td><td>=&gt;</td><td>VERB</td><td>Hyph=Yes</td><td><em>läs-</em></td></tr>
+  <tr><td>VB|SUP|AKT</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Sup|Voice=Act</td><td><em>varit, fått, blivit, haft, kommit</em></td></tr>
+  <tr style="background:lightgray"><td>VB|SUP|SFO</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Sup|Voice=Pass</td><td><em>nämnts, gjorts, förändrats, sagts, framhållits</em></td></tr>
+</table>

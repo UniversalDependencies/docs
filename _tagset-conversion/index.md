@@ -29,3 +29,6 @@ title: 'Tagset conversion tables'
 * <a href="it-conll-uposf.html">it::conll</a> (Italian)
 * <a href="ja-conll-uposf.html">ja::conll</a> (Japanese)
 * <a href="la-conll-uposf.html">la::conll</a> (Latin)
+* <a href="sv-mamba-uposf.html">sv::mamba</a> (Swedish)
+* <a href="sv-parole-uposf.html">sv::parole</a> (Swedish)
+* <a href="sv-suc-uposf.html">sv::suc</a> (Swedish)
