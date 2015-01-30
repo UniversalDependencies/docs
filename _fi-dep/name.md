@@ -15,9 +15,17 @@ If a name has an obvious internal structure, as is often the case in names of bo
 Jumalat juhlivat öisin on Donna Tarttin esikoisteos . \n Gods celebrate by_night is Donna Tartt's first_work .
 nsubj(juhlivat-2, Jumalat-1)
 nmod(juhlivat-2, öisin-3)
-nsubj-cop(esikoisteos-7, juhlivat-2)
+nsubj:cop(esikoisteos-7, juhlivat-2)
 cop(esikoisteos-7, on-4)
 punct(esikoisteos-7, .-8)
-name(Donna-5, Tarttin-6)
-poss(esikoisteos-7, Donna-5)
+name(Tarttin-6, Donna-5)
+nmod:poss(esikoisteos-7, Tarttin-6)
 ~~~
+
+## Diffs
+
+### Turku Dependency Treebank
+
+Contrary to the general UD definition of [u-dep/name](), in
+UD Finnish the last word multi-word name is
+considered the head.
