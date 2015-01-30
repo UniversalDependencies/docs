@@ -270,7 +270,56 @@ that modify a predicate. The head of the <code>acl</code> relation is the noun
 that is modified, and the dependent is the head of the clause that
 modifies the noun.</p>
 
-<p>These modifiers are divided into three subtypes: <em>relative clause modifier</em> (<a href="">acl:relcl</a>), <em>infinitive modifier</em> (<a href="">acl:infmod</a>) and <em>participial modifier</em> (<a href="">acl:partmod</a>).</p>
+<p>These modifiers include infinitive and participial modifiers (correspond to infmod and partmod in the original Turku Dependency Treebank). Instead, the third possible type of clausal modifiers of nouns, <em>relative clause modifier</em> (<a href="">acl:relcl</a>), is defined as a subtype of <code>acl</code>.</p>
+
+<!-- fname:infmod.pdf -->
+<pre><code class="language-sdparse">Minulla oli lupa mennä ulos . \n I had permission to_go out .
+nmod:own(oli-2, Minulla-1)
+nsubj(oli-2, lupa-3)
+acl(lupa-3, mennä-4)
+advmod(mennä-4, ulos-5)
+punct(oli-2, .-6)
+</code></pre>
+
+<p>The participial modifier is a participle verb which modifies a noun
+phrase. Note that the participle can take arguments, for instance a subject,
+just as any verb. (Also the MA-derivation is treated as a participle in UD
+Finnish.)  </p>
+
+<!-- fname:partmod_NP.pdf -->
+<pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
+nsubj(leipoma-2, Äidin-1)
+acl(kakku-3, leipoma-2)
+nsubj:cop(menestys-5, kakku-3)
+cop(menestys-5, oli-4)
+punct(menestys-5, .-6)
+</code></pre>
+
+<!-- fname:partmod_NP_2.pdf -->
+<pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
+acl(lahjat-2, Saadut-1)
+nsubj(ilahduttivat-3, lahjat-2)
+dobj(ilahduttivat-3, lapsia-4)
+punct(ilahduttivat-3, .-5)
+</code></pre>
+
+<p>Occasionally, participial verb forms can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. In the complement-like situations, one of the clausal complement types (<a href="">ccomp</a>, <a href="">xcomp</a> or <a href="">xcomp:ds</a>) should be used, whereas modifiers are marked as <em>adverbial clause modifiers</em> (<a href="">advcl</a>).</p>
+
+<!-- fname:partmod_VP_mod.pdf -->
+<pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
+advcl(juoksin-2, Huolestuneena-1)
+nmod(juoksin-2, hänen-3)
+case(hänen-3, luokseen-4)
+punct(juoksin-2, .-5)
+</code></pre>
+
+<!-- fname:partmod_VP_comp.pdf -->
+<pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
+nsubj(osoittautui-2, Ksylitoli-1)
+xcomp(osoittautui-2, ehkäiseväksi-4)
+dobj(ehkäiseväksi-4, kariesta-3)
+punct(osoittautui-2, .-5)
+</code></pre>
 
 <h2 id="diffs">Diffs</h2>
 
