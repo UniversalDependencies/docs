@@ -25,3 +25,6 @@ dobj(otin-2, vasaran-5)
 advmod(vasaran-5, myös-4)
 punct(otin-2, .-6)
 ~~~
+
+
+Also quantification modifiers are annotated as *adverb modifiers* in UD Finnish (correspond to quantmod in the original Stanford Dependencies and the Turku Dependency Treebank). Quantification modifiers are quantifiers that modify a numerical expression. Typically quantifiers are adverbs, but also few adjectives are allowed as quantifiers.
