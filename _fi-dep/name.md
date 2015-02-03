@@ -4,7 +4,7 @@ title:  'name'
 shortdef : 'name'
 ---
 
-Proper names constituted of more than one word are annotated using the dependency type `name`. The first (leftmost) word is the head, and the other words are direct dependents of the head.
+Proper names constituted of more than one word are annotated using the dependency type `name`. The last (rightmost) word is the head, and the other words are direct dependents of the head. The last word is chosen to be the head because in Finnish the last word carries the inflectional information of the whole structure.
 
 The `name` dependency relation is used in cases where the multi-word name does not have an obvious internal syntactic structure, as is the case with for instance names of people (*Matti Virtanen*) or cities (*New York*).
 
@@ -27,5 +27,5 @@ nmod:poss(esikoisteos-7, Tarttin-6)
 ### Turku Dependency Treebank
 
 Contrary to the general UD definition of [u-dep/name](), in
-UD Finnish the last word multi-word name is
+UD Finnish the last word of the multi-word name expression is
 considered the head.
