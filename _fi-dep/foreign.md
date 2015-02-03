@@ -20,6 +20,8 @@ annotated with their full syntactic structure.
 
 ### Turku Dependency Treebank
 
+`foreign` is not annotated in TDT and is not used in the current version of the UD Finnish corpus.
+
 Contrary to the general UD definition of [u-dep/foreign](), in
 UD Finnish the last word in a sequence of foreign words is
 considered the head.
