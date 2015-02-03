@@ -1318,7 +1318,7 @@ punct(tuli-4, .-7)
 <p><a id="al-fi-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p>Proper names constituted of more than one word are annotated using the dependency type <code>name</code>. The first (leftmost) word is the head, and the other words are direct dependents of the head.</p>
+<p>Proper names constituted of more than one word are annotated using the dependency type <code>name</code>. The last (rightmost) word is the head, and the other words are direct dependents of the head. The last word is chosen to be the head because in Finnish the last word carries the inflectional information of the whole structure.</p>
 
 <p>The <code>name</code> dependency relation is used in cases where the multi-word name does not have an obvious internal syntactic structure, as is the case with for instance names of people (<em>Matti Virtanen</em>) or cities (<em>New York</em>).</p>
 
@@ -1340,7 +1340,7 @@ nmod:poss(esikoisteos-7, Tarttin-6)
 <h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
 
 <p>Contrary to the general UD definition of <a href="">u-dep/name</a>, in
-UD Finnish the last word multi-word name is
+UD Finnish the last word of the multi-word name expression is
 considered the head.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/name.md" target="#">edit name</a></p>
