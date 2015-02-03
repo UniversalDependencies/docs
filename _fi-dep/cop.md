@@ -17,7 +17,7 @@ Section [copulas](#sec-copulas). -->
 <!-- fname:cop.pdf -->
 ~~~ sdparse
 Huivi oli punainen . \n The_scarf was red .
-nsubj-cop(punainen-3, Huivi-1)
+nsubj:cop(punainen-3, Huivi-1)
 cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 ~~~
