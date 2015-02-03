@@ -324,70 +324,6 @@ punct(osoittautui-2, .-5)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl.md" target="#">edit acl</a></p>
 
-<p><a id="al-fi-dep/acl:infmod" class="al-dest"></a></p>
-<h2><code>acl:infmod</code>: infinitive modifier</h2>
-
-<p>The dependency type <code>acl:infmod</code> is used for infinitives that modify a
-nominal or a noun phrase.</p>
-
-<!-- fname:infmod.pdf -->
-<pre><code class="language-sdparse">Minulla oli lupa mennä ulos . \n I had permission to_go out .
-nmod(oli-2, Minulla-1)
-nsubj(oli-2, lupa-3)
-acl:infmod(lupa-3, mennä-4)
-advmod(mennä-4, ulos-5)
-punct(oli-2, .-6)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-infmod.md" target="#">edit acl:infmod</a></p>
-
-<p><a id="al-fi-dep/acl:partmod" class="al-dest"></a></p>
-<h2><code>acl:partmod</code>: participial modifier</h2>
-
-<p>The <em>participial modifier</em> (<code>acl:partmod</code>) is a participle verb which modifies a noun
-phrase. Note that the participle can take arguments, for instance a subject,
-just as any verb. (Also the MA-derivation is treated as a participle in UD
-Finnish.)  </p>
-
-<!-- fname:partmod_NP.pdf -->
-<pre><code class="language-sdparse">Äidin leipoma kakku oli menestys . \n Mother baked_by cake was success .
-nsubj(leipoma-2, Äidin-1)
-acl:partmod(kakku-3, leipoma-2)
-nsubj:cop(menestys-5, kakku-3)
-cop(menestys-5, oli-4)
-punct(menestys-5, .-6)
-</code></pre>
-
-<!-- fname:partmod_NP_2.pdf -->
-<pre><code class="language-sdparse">Saadut lahjat ilahduttivat lapsia . \n Received presents made_happy children .
-acl:partmod(lahjat-2, Saadut-1)
-nsubj(ilahduttivat-3, lahjat-2)
-dobj(ilahduttivat-3, lapsia-4)
-punct(ilahduttivat-3, .-5)
-</code></pre>
-
-<p>Occasionally, participial verb forms can modify a verb as well. These uses include cases that are clearly modifiers, as well as some more complement-like situations. In the complement-like situations, one of the clausal complement types (<a href="">ccomp</a>, <a href="">xcomp</a> or <a href="">xcomp:ds</a>) should be used, whereas modifiers are marked as <em>adverbial clause modifiers</em> (<a href="">advcl</a>).</p>
-
-<!-- fname:partmod_VP_mod.pdf -->
-<pre><code class="language-sdparse">Huolestuneena juoksin hänen luokseen . \n Worried I_ran him to .
-advcl(juoksin-2, Huolestuneena-1)
-nmod(juoksin-2, hänen-3)
-case(hänen-3, luokseen-4)
-punct(juoksin-2, .-5)
-</code></pre>
-
-<!-- fname:partmod_VP_comp.pdf -->
-<pre><code class="language-sdparse">Ksylitoli osoittautui kariesta ehkäiseväksi . \n Xylitol turned_out karies preventing .
-nsubj(osoittautui-2, Ksylitoli-1)
-xcomp(osoittautui-2, ehkäiseväksi-4)
-dobj(ehkäiseväksi-4, kariesta-3)
-punct(osoittautui-2, .-5)
-</code></pre>
-
-<!-- TODO For more information on different verb-headed constructions as dependents, see Section [verbal](#sec-verbal). -->
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/acl-partmod.md" target="#">edit acl:partmod</a></p>
-
 <p><a id="al-fi-dep/acl:relcl" class="al-dest"></a></p>
 <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
@@ -490,26 +426,6 @@ amod(näytelmä-4, eilinen-3)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl.md" target="#">edit advcl</a></p>
 
-<p><a id="al-fi-dep/advcl:compar" class="al-dest"></a></p>
-<h2><code>advcl:compar</code>: comparative</h2>
-
-<p>The dependency type <code>advcl:compar</code> is used in comparative
-constructions, most often involving adjectives in the comparative
-form. The head of the <code>advcl:compar</code> dependency is the comparative
-wordform, and the dependent is the compared element.</p>
-
-<p>The annotation of comparative and superlative structures is described in
-<a href="/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives">Comparatives and superlatives</a>.</p>
-
-<!-- fname:compar.pdf -->
-<pre><code class="language-sdparse">parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
-advcl:compar(parempi-1, näytelmä-4)
-comparator(näytelmä-4, kuin-2)
-amod(näytelmä-4, eilinen-3)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advcl-compar.md" target="#">edit advcl:compar</a></p>
-
 <p><a id="al-fi-dep/advmod" class="al-dest"></a></p>
 <h2><code>advmod</code>: adverb modifier</h2>
 
@@ -546,38 +462,6 @@ punct(neliökilometriä-6, .-7)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod.md" target="#">edit advmod</a></p>
-
-<p><a id="al-fi-dep/advmod:q" class="al-dest"></a></p>
-<h2><code>advmod:q</code>: quantification modifier</h2>
-
-<p><em>Quantification modifiers</em> (<code>advmod:q</code>) are quantifiers that
-modify a numerical expression. Certain adverbs (and ad-adjectives,
-which are sometimes regarded a separate category from adverbs but
-treated identically in UD Finnish) and few adjectives are allowed
-as quantifiers.</p>
-
-<p>Note that adverbs that describe the writer’s attitude towards the
-quantity, such as <em>vain</em> “only”, are not considered quantification
-modifiers, but regular adverb modifiers, although they modify the
-number. Some examples of words that can act as quantification
-modifiers include <em>noin</em> “about”, <em>vähintään</em> “at least”, <em>lähes</em>
-“almost” and <em>yli</em> “over”.</p>
-
-<p>Note: <code>advmod:q</code> corresponds to <code>quantmod</code> (quantifier phrase
-modifier) in the original Stanford Dependencies and the Turku
-Dependency Treebank.</p>
-
-<!-- fname:quantmod.pdf -->
-<pre><code class="language-sdparse">Alue oli suuruudeltaan noin kymmenen neliökilometriä . \n The_area was of_its_size about ten square_kilometres .
-nsubj-cop(neliökilometriä-6, Alue-1)
-cop(neliökilometriä-6, oli-2)
-nmod(neliökilometriä-6, suuruudeltaan-3)
-advmod:q(kymmenen-5, noin-4)
-num(neliökilometriä-6, kymmenen-5)
-punct(neliökilometriä-6, .-7)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/advmod-q.md" target="#">edit advmod:q</a></p>
 
 <p><a id="al-fi-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
@@ -1270,22 +1154,6 @@ punct(Sanoin-1, .-7)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark.md" target="#">edit mark</a></p>
 
-<p><a id="al-fi-dep/mark:comparator" class="al-dest"></a></p>
-<h2><code>mark:comparator</code>: comparative conjunction</h2>
-
-<p>The <em>comparative conjunction</em> (most commonly <em>kuin</em>, which corresponds
-roughly to “than” and “as” in English) is marked with the dependency
-type <code>mark:comparator</code>. The head of the dependency is the element
-being compared.</p>
-
-<!-- fname:comparator.pdf -->
-<pre><code class="language-sdparse">enemmän kuin haluaisin \n more than I_would_want
-advcl:compar(enemmän-1, haluaisin-3)
-mark:comparator(haluaisin-3, kuin-2)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/mark-comparator.md" target="#">edit mark:comparator</a></p>
-
 <p><a id="al-fi-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: multi-word expression</h2>
 
@@ -1724,32 +1592,6 @@ the original Stanford Dependencies and the Turku Dependency
 Treebank.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp.md" target="#">edit xcomp</a></p>
-
-<p><a id="al-fi-dep/xcomp:a" class="al-dest"></a></p>
-<h2><code>xcomp:a</code>: adjectival complement</h2>
-
-<p>The dependency type <code>xcomp:a</code> is used for adjectival complements of
-verbs, except for predicatives, which generally (but not always) imply secondary predication. For example in the sentence <em>Hän teki siitä hyvin vaikeaa</em> there are two mixed predicates: 1) <em>hän teki jotain</em>, and 2) <em>se on vaikeaa</em>. The secondary predication can be provided to any higher clause element.</p>
-
-<p>Note: <code>xcomp:a</code> corresponds to <code>acomp</code> (adjectival complement) in
-the original Stanford Dependencies and the Turku Dependency
-Treebank.</p>
-
-<pre><code class="language-sdparse">Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
-nsubj(teki, Hän)
-nmod(teki, siitä)
-advmod(vaikeaa, hyvin)
-xcomp:a(teki, vaikeaa)
-punct(teki, .)
-</code></pre>
-
-<pre><code class="language-sdparse">Minulla oli mukavaa .
-xcomp:a(oli, mukavaa)
-nmod(oli, Minulla)
-punct(oli, .)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/xcomp-a.md" target="#">edit xcomp:a</a></p>
 
 <p><a id="al-fi-dep/xcomp:ds" class="al-dest"></a></p>
 <h2><code>xcomp:ds</code>: clausal complement with different subject</h2>
