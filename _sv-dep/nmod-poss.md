@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'nmod:poss'
-shortdef : 'nominal modifier: possessive'
+shortdef : 'possessive nominal modifier'
 ---
 
 `nmod:poss` is used for a genetive nominal modifier.
