@@ -8,7 +8,7 @@ shortdef : 'nominal modifier: possessive'
 
 ~~~ sdparse
 Livets hårda sida \n The difficult side of life
-nmod:poss(sida, livets)
+nmod:poss(sida, Livets)
 ~~~
 
 ~~~ sdparse
