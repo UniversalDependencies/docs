@@ -474,8 +474,23 @@ for <code>neg</code>.</p>
 <p><a id="al-sv-dep/nmod" class="al-dest"></a></p>
 <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
+predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
+argument or adjunct. In Swedish, <code>nmod</code> is used for prepositional complements:</p>
+
+<pre><code class="language-sdparse">Ekonomiska bidrag till staten \n Financial contributions to the state
+nmod(bidrag, staten)
+</code></pre>
+
+<pre><code class="language-sdparse">Mamma har hand om barnen \n Mother takes care of the children
+nmod(har, barnen)
+</code></pre>
+
+<pre><code class="language-sdparse">Han växte upp i en kollektiv miljö \n He grew up in a collective environment
+nmod(växte, miljö)
+</code></pre>
+
+<p>Two subtypes of <code>nmod</code> are introduced in Swedish: <a href="">nmod:poss</a> for for possessive/genitive modifiers and <a href="">nmod:agent</a> for agents of passive verbs.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/nmod.md" target="#">edit nmod</a></p>
 
