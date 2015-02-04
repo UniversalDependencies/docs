@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'nmod:agent'
-shortdef : 'nominal modifier: agent'
+shortdef : 'agent nominal modifier'
 ---
 
 `nmod:agent` is used for agents of passive verbs
