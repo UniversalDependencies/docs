@@ -10,7 +10,7 @@ head of the relative clause. Relative clauses are finite.
 
 ~~~ sdparse
 Jag såg den man som du älskar \n I saw the man you love
-acl:relcl(mannen, älskar)
+acl:relcl(man, älskar)
 ~~~
 
 ~~~ sdparse
