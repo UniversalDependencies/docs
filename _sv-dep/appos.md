@@ -17,6 +17,6 @@ appos(Sebastian, kusin)
 ~~~
 
 ~~~ sdparse
-Svensk Kärnbränslehantering AB, SKB \n Swedish Nuclear Fuel and Waste Management Company (SKB)
+Svensk Kärnbränslehantering AB , SKB \n Swedish Nuclear Fuel and Waste Management Company (SKB)
 appos(AB, SKB)
 ~~~
