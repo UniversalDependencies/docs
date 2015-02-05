@@ -4,5 +4,28 @@ title: 'acl'
 shortdef: 'clausal modifier of noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `acl`.
+`acl` is used for finite and non-finite clauses that modify a
+noun. Note that in Swedish relative clauses get assigned a specific
+relation [acl:relcl](), a subtype of `acl`.
+
+~~~ sdparse
+En bild av vad som händer \n A picture of what happens
+acl(bild, händer)
+~~~
+
+~~~ sdparse
+Ta ansvar för vad du gör \n Take responsibility for what you do
+acl(ansvar, gör)
+~~~
+
+~~~ sdparse
+De utbildas främst för andra uppgifter än strid \n They are trained primarily for taks other than battle 
+acl(uppgifter, strid)
+~~~
+
+Non-relative clause finite clausal complements for nouns are limited to complement clauses with a subset of nouns like *faktum (fact)*.  We analyze them as `acl` (parallel to the analysis of this class as "content clauses" in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant Swedish subjunctives). 
+
+~~~ sdparse
+Hur förenas detta med det faktum att många äktenskap upplöses? \n How can that be reconciled with the fact that many marriages break up?
+acl(faktum, upplöses) 
+~~~
