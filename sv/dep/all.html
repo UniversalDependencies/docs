@@ -259,7 +259,7 @@ the noun. The relation points from the noun that is modified to the
 head of the relative clause. Relative clauses are finite.</p>
 
 <pre><code class="language-sdparse">Jag såg den man som du älskar \n I saw the man you love
-acl:relcl(mannen, älskar)
+acl:relcl(man, älskar)
 </code></pre>
 
 <pre><code class="language-sdparse">Jag såg den bok som du köpte \n I saw the book you bought
@@ -303,8 +303,20 @@ advmod(ofta, mindre)
 <p><a id="al-sv-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>amod</code>.</p>
+<p>An adjectival modifier of an NP is any adjectival phrase that serves
+to modify the meaning of the NP.</p>
+
+<pre><code class="language-sdparse">Olle äter rött kött \n Sam eats red meat
+amod(kött, rött)
+</code></pre>
+
+<pre><code class="language-sdparse">Den ortodoxa kyrkans praxis \n The Orthodox Church's custom
+amod(kyrkan, ortodoxa)
+</code></pre>
+
+<pre><code class="language-sdparse">De tre största hjälpinsatser \n The three biggest helping efforts
+amod(hjälpinsatser, största)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/amod.md" target="#">edit amod</a></p>
 
