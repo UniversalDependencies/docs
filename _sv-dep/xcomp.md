@@ -27,6 +27,7 @@ xcomp(betraktar, vän)
 ~~~
 
 ~~~ sdparse
-Vi betraktar den kvinna som får flera barn duktigare \n We consider the woman who has several children smarter xcomp(betraktar, duktigare)
+Vi betraktar den kvinna som får flera barn duktigare \n We consider the woman who has several children smarter
+xcomp(betraktar, duktigare)
 ~~~
 
