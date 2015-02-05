@@ -14,7 +14,7 @@ amod(kött, rött)
 
 ~~~ sdparse
 Den ortodoxa kyrkans praxis \n The Orthodox Church's custom
-amod(kyrkan, ortodoxa)
+amod(kyrkans, ortodoxa)
 ~~~
 
 ~~~ sdparse
