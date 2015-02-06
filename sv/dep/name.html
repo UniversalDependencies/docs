@@ -34,8 +34,36 @@
 
           <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p><code>name</code> is one of the three relations for compounding in UD (together
+with <a href="">compound</a> and <a href="">mwe</a>).
+It is used for proper nouns constituted of multiple nominal
+elements. For example, <code>name</code> would be used between the words of
+<em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to
+replace the usual relations in a phrasal or clausal name like <em>The
+king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By
+Aliens.</em>
+Words joined by <code>name</code> should all be part of a minimal noun phrase;
+otherwise regular syntactic relations should be used.  This is
+basically similar to the treatment of noun compounds with
+<a href="">compound</a>, except that in many cases parts of the name may be
+another nominal element such as an adjective <em>(United Airlines).</em></p>
+
+<p>In general, names are annotated in a flat, head-initial structure, in
+which all words in the name modify the first one using the <code>name</code>
+label.</p>
+
+<pre><code class="language-sdparse">Carl XVI Gustaf
+name(Carl-1, Gustaf-3)
+name(Carl-1, XVI-2)
+</code></pre>
+
+<p>For organization names with clear syntactic modification structure, the dependencies should reflect the syntactic modification structure using regular syntactic relation, as in:.</p>
+
+<pre><code class="language-sdparse">Natural Resources Conservation Service
+amod(Resources-2, Natural-1)
+compound(Conservation-3, Resources-2)
+compound(Service-4, Conservation-3)
+</code></pre>
 
 
 <!-- "in other languages" links -->
