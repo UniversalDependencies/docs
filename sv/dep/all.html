@@ -565,8 +565,24 @@ for <code>mark</code>.</p>
 <p><a id="al-sv-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: multi-word expression</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mwe</code>.</p>
+<p>The multi-word expression (modifier) relation is one of the three
+relations (<a href="">compound</a>, <code>mwe</code>, <a href="">name</a>) for compounding.
+It is used for certain fixed grammaticized expressions that behave
+like function words or short adverbials.</p>
+
+<pre><code class="language-sdparse">i dag \n today
+mwe(i, dag)
+</code></pre>
+
+<pre><code class="language-sdparse">över huvud taget \n at all
+mwe(över, huvud)
+mwe(över, taget)
+</code></pre>
+
+<pre><code class="language-sdparse">när det gäller \n when it comes to
+mwe(när, det)
+mwe(när, gäller)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/mwe.md" target="#">edit mwe</a></p>
 
