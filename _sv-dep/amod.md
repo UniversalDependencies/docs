@@ -8,7 +8,7 @@ An adjectival modifier of an NP is any adjectival phrase that serves
 to modify the meaning of the NP.
 
 ~~~ sdparse
-Olle äter rött kött \n Sam eats red meat
+Olle äter rött kött \n Olle eats red meat
 amod(kött, rött)
 ~~~
 
