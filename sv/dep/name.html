@@ -65,6 +65,36 @@ compound(Conservation-3, Resources-2)
 compound(Service-4, Conservation-3)
 </code></pre>
 
+<p>In addition, regular syntactic relations are used:
+(i) for a modifying determiner or
+(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.</p>
+
+<pre><code class="language-sdparse">Le Japon
+det(Japon-2, Le-1)
+</code></pre>
+
+<pre><code class="language-sdparse">Ludwig van Beethoven
+case(Beethoven, van)
+</code></pre>
+
+<pre><code class="language-sdparse">Miguel de Cervantes y Saavedra
+conj(Cervantes, Saavedra)
+cc(Cervantes, y)
+case(Cervantes, de)
+</code></pre>
+
+<pre><code class="language-sdparse">The king of Sweden
+det(king-2, The-1)
+nmod(king-2, Sweden-4)
+case(Sweden-4, of-3)
+</code></pre>
+
+<pre><code class="language-sdparse">Río de la Plata
+case(Plata-4, de-2)
+det(Plata-4, la-3)
+nmod(Río-1, Plata-4)
+</code></pre>
+
 
 <!-- "in other languages" links -->
 <hr/>
