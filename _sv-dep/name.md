@@ -36,3 +36,38 @@ amod(Resources-2, Natural-1)
 compound(Conservation-3, Resources-2)
 compound(Service-4, Conservation-3)
 ~~~
+
+In addition, regular syntactic relations are used:
+(i) for a modifying determiner or
+(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.
+
+~~~ sdparse
+Le Japon
+det(Japon-2, Le-1)
+~~~
+
+~~~ sdparse
+Ludwig van Beethoven
+case(Beethoven, van)
+~~~
+
+~~~ sdparse
+Miguel de Cervantes y Saavedra
+conj(Cervantes, Saavedra)
+cc(Cervantes, y)
+case(Cervantes, de)
+~~~
+
+~~~ sdparse
+The king of Sweden
+det(king-2, The-1)
+nmod(king-2, Sweden-4)
+case(Sweden-4, of-3)
+~~~
+
+~~~ sdparse
+Río de la Plata
+case(Plata-4, de-2)
+det(Plata-4, la-3)
+nmod(Río-1, Plata-4)
+~~~
