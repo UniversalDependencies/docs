@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'compound particle'
-shortdef: 'compound particle'
+title:  'compound:prt'
+shortdef : 'phrasal verb particle'
 ---
 
 *compound:prt* is used for the verb particles in phrasal verbs.
