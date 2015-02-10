@@ -473,8 +473,71 @@ conj(tvekan, slarv)
 <p><a id="al-sv-dep/cop" class="al-dest"></a></p>
 <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the complement of a copular verb and
+the copular verb. Copular heads are avoided when possible.</p>
+
+<pre><code class="language-sdparse">Bill är en ärlig man \n Bill is an honest man
+cop(man-5, är)
+nsubj(man-5, Bill-1)
+amod(man-5, ärlig)
+det(man-5, en)
+</code></pre>
+
+<p>Prepositional phrases are annotated similarly, the only difference being that
+the nominal predicate has an additional case marker.</p>
+
+<pre><code class="language-sdparse">Bill är från Kalifornien \n Bill is from California
+case(Kalifornien, från)
+cop(Kalifornien, är)
+nsubj(Kalifornien, Bill-1)
+</code></pre>
+
+<p>When an adjective or adverb is being predicated of a nominal phrase, the
+adjective/adverb is the root, the nominal phrase is the nsubj, and the
+copula is the cop.</p>
+
+<pre><code class="language-sdparse">Bill är ärlig \n Bill is honest
+nsubj(ärlig, Bill-1)
+cop(ärlig, är)
+</code></pre>
+
+<pre><code class="language-sdparse">Det var igår \n It was yesterday
+nsubj(igår, Det)
+cop(igår, var)
+</code></pre>
+
+<p>Prepositions may also project a cop dependent.</p>
+
+<pre><code class="language-sdparse">Ljuset är på \n The light is on
+cop(på, är)
+nsubj(på, ljuset)
+</code></pre>
+
+<p>In predicative wh-constructions, the fronted wh-word is the head, and the copula is 
+another cop.</p>
+
+<pre><code class="language-sdparse">Vad är det ? \n What is that ?
+cop(Vad, är)
+nsubj(Vad, det)
+</code></pre>
+
+<p>However, whenever the copula has a clausal argument/adjunct, the copula becomes the root, so the cop relation is not used.</p>
+
+<pre><code class="language-sdparse">Det var eftersom Bill är ärlig \n It was because Bill is honest
+nsubj(var, Det)
+mark(ärlig, eftersom)
+ccomp(var, ärlig)
+nsubj(ärlig, Bill-4)
+cop(ärlig, är)
+</code></pre>
+
+<pre><code class="language-sdparse">Min fråga är : var detta riktigt sant ? \n My question is : was that really true ?
+nsubj(är, fråga)
+ccomp(är, sant)
+cop(sant, var)
+nsubj(sant, detta)
+advmod(sant, riktigt)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/cop.md" target="#">edit cop</a></p>
 
