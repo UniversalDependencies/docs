@@ -601,8 +601,30 @@ discourse(är-2, :)-5)
 <p><a id="al-sv-dep/dislocated" class="al-dest"></a></p>
 <h2><code>dislocated</code>: dislocated elements</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dislocated</code>.</p>
+<p>The <code>dislocated</code> relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence. Dislocated elements are attached to the same governor as the dependent that they double for.</p>
+
+<pre><code class="language-sdparse">Det här är vårt kontor , jag och Sam \n This is our office , me and Sam
+dislocated(kontor, jag)
+cc(jag, och)
+conj(jag, Sam-9)
+</code></pre>
+
+<pre><code class="language-sdparse">Inte sprayflaska - ta pensel och rostskydd på burk \n Not a spray bottle , take a brush and anti-corrosive paint in a can
+dislocated(ta, sprayflaska)
+neg(sprayflaska, Inte)
+</code></pre>
+
+<p>In Swedish the <code>dislocated</code> relation is often used for the word <em>så</em> in cases like the following examples.</p>
+
+<pre><code class="language-sdparse">Släpper vi in britterna , så drar de med sig danskar \n If we let the Brits in they'll bring the Danish with them
+dislocated(Släpper, så)
+</code></pre>
+
+<pre><code class="language-sdparse">Men trots ökade statsutgifter så blir det inkomstökning för privatpersoner \n But despite increased public spending, there's an increase in income for private individuals
+dislocated(statsutgifter, så)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/dislocated.md" target="#">edit dislocated</a></p>
 
