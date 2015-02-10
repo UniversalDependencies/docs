@@ -510,8 +510,8 @@ det(bok, Vilken)
 
 <p>This is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way).</p>
 
-<pre><code class="language-sdparse">Iguazu är i Argentina \n Iguazu is in Argentina :)
-discourse(är, :))
+<pre><code class="language-sdparse">Iguazu är i Argentina :) \n Iguazu is in Argentina :)
+discourse(är-2, :)-5)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/discourse.md" target="#">edit discourse</a></p>
@@ -816,7 +816,7 @@ for <code>parataxis</code>.</p>
 <p><a id="al-sv-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output. </p>
+<p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output. More discussion on punctuation can be found on the universal dependency page (<a href="">u-dep/punct</a>).</p>
 
 <pre><code class="language-sdparse">Och alla vinsterna och skattefria ! \n And all profits are tax-free !
 punct(skattefria, !)
@@ -853,7 +853,7 @@ for <code>root</code>.</p>
 
 <p>The <em>vocative</em> relation is used to mark dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
 
-<pre><code class="language-sdparse">Killar, ta det lungt ! \n Guys , take it easy!
+<pre><code class="language-sdparse">Killar , ta det lungt ! \n Guys , take it easy!
 vocative(ta, Killar)
 </code></pre>
 
