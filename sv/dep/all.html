@@ -380,8 +380,18 @@ case(ersättning, för)
 <p><a id="al-sv-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cc</code>.</p>
+<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  For more on coordination, see the <a href="">conj</a> relation. </p>
+
+<pre><code class="language-sdparse">1500 kr per barn och år \n 1500 kr per child and year
+cc(barn, och)
+conj(barn, år)
+</code></pre>
+
+<p>A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence. </p>
+
+<pre><code class="language-sdparse">Och du har inte bara en chans \n And you don't have just one chance
+cc(har, Och)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/cc.md" target="#">edit cc</a></p>
 
