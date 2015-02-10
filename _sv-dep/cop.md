@@ -46,7 +46,7 @@ Prepositions may also project a cop dependent.
 ~~~ sdparse
 Ljuset är på \n The light is on
 cop(på, är)
-nsubj(på, ljuset)
+nsubj(på, Ljuset)
 ~~~
 
 In predicative wh-constructions, the fronted wh-word is the head, and the copula is 
