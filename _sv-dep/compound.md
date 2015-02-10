@@ -4,5 +4,4 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `compound`.
+The `compound` relation is not currently used in the Swedish treebank. A subtype, [compound:prt](), is used for verb particles in phrasal verbs.

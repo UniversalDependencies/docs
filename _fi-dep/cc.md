@@ -28,7 +28,7 @@ as the head and others as direct dependents of this word.
 <!-- fname:cc2.pdf -->
 ~~~ sdparse
 toisaalta kynät , toisaalta viivottimet \n on_the_one_hand pencils , on_the_other_hand rulers
-preconj(kynät-2, toisaalta-1)
+cc:preconj(kynät-2, toisaalta-1)
 punct(kynät-2, ,-3)
 cc(kynät-2, toisaalta-4)
 conj(kynät-2, viivottimet-5)
@@ -69,7 +69,7 @@ In addition, certain less frequent words or combinations of words are marked as 
 * _mitä... sitä_ "the... the"
 * _niin... kuin_ "as well as"
 * _niin kuin_ "like"
-* _paitsi että_ "except that" (a two-part *preconjunction*, see [preconj]())
+* _paitsi että_ "except that" (a two-part *preconjunction*, see [cc:preconj]())
 * _paitsi... myös_ "not only... but also"
 * _saati_ "let alone"
 * _saati että_ "let alone that"

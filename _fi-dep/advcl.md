@@ -42,7 +42,21 @@ case(hänen-3, luokseen-4)
 punct(juoksin-2, .-5)
 ~~~
 
+The dependency type `advcl` is used also in comparative
+constructions, most often involving adjectives in the comparative
+form. The head of the `advcl` dependency is the comparative
+wordform, and the dependent is the compared element.
 
+The annotation of comparative and superlative structures is described in
+[Comparatives and superlatives](/docs/fi/overview/specific-syntax.html#comparatives-and-superlatives).
+
+<!-- fname:compar.pdf -->
+~~~ sdparse
+parempi kuin eilinen näytelmä \n better than yesterday's(adj.) play
+advcl(parempi-1, näytelmä-4)
+mark(näytelmä-4, kuin-2)
+amod(näytelmä-4, eilinen-3)
+~~~
 
 ### References
 

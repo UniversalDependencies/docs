@@ -17,6 +17,26 @@ punct(alkoi-2, .-5)
 
 Many of the complements with an external subject resemble cases that are analyzed as main verbs with auxiliaries. Both auxiliaries and `xcomp` complements share their subject with another verb, but only a closed list of verbs are analyzed as auxiliaries (see [aux]()). Note also that in auxiliary cases the second verb is the governor, whereas with `xcomp` the first verb becomes governor (unless the word order is inverse).
 
-#### Secondary predicates
+### Secondary predicates
 
-TODO
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_, which are core arguments of the predicate. Most commonly these are adjetives, but also participial and nominal arguments are possible. For example in the sentence _Hän teki siitä hyvin vaikeaa_ there are two mixed predicates: 1) _hän teki jotain_, and 2) _se on vaikeaa_. The secondary predication can be provided to any higher clause element.
+
+~~~ sdparse
+Hän teki siitä hyvin vaikeaa . \n He made (from_)it very difficult .
+nsubj(teki, Hän)
+nmod(teki, siitä)
+advmod(vaikeaa, hyvin)
+xcomp(teki, vaikeaa)
+punct(teki, .)
+~~~
+
+~~~ sdparse
+Minulla oli mukavaa .
+xcomp(oli, mukavaa)
+nmod(oli, Minulla)
+punct(oli, .)
+~~~
+
+Note: Adjectival complements correspond to `acomp` (adjectival complement) in
+the original Stanford Dependencies and the Turku Dependency
+Treebank.

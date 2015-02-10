@@ -361,7 +361,7 @@ nsubj:cop(mukava-5, matka-4)
 yhdistys , jonka puheenjohtaja Matikainen on \n association , of_which chairman Matikainen is
 acl:relcl(yhdistys-1, puheenjohtaja-4)
 punct(puheenjohtaja-4, ,-2)
-poss(puheenjohtaja-4, jonka-3)
+nmod:poss(puheenjohtaja-4, jonka-3)
 nsubj:cop(puheenjohtaja-4, Matikainen-5)
 cop(puheenjohtaja-4, on-6)
 ~~~
@@ -542,7 +542,8 @@ questions are clausal complements, the correct type for them is
 [`ccomp`]().
 
 If the subordinate clause is a conjunction clause, it can be either a
-complement or a modifier. In the majority of cases, conjunction
+complement or a modifier. Complement clauses are marked with [`ccomp`]() and modifier ones with
+[`advcl`](). In the majority of cases, conjunction
 clauses starting with the conjunction *että* are complements and
 clauses starting with any other conjunction are modifiers. However, it
 should be noted that the conjunction *että* can be a used instead of
@@ -557,14 +558,12 @@ the conjunction *jotta*, and respectively, also *jotta* can
   illalla.* "He said that I will only come in the evening."
 
 In these cases, a clause starting with *että* is a modifier, and a
-clause starting with *jotta* is a complement. Complement conjunction
-clauses are marked with [`ccomp`]() and modifier ones with
-[`advcl`]().
+clause starting with *jotta* is a complement.
 
 If the dependent is not a subordinate clause, the next deciding factor
 is the part of speech of the governor. If the governor is a noun, the
-dependent can be an infinitive modifier ([`acl:infmod`]()) or a
-participle modifier ([`acl:partmod`]()).
+dependent can be an infinitive modifier or a
+participle modifier, both marked with [`acl`]().
 
 If, in turn, the governor is a verb, then the dependent can be either
 a complement or a modifier. With complements, there are three alternative
@@ -916,41 +915,38 @@ superlative wordform.
 
 Structures with comparative adjectives and adverbs may be difficult
 to annotate: they are often elliptical, and it may be difficult to
-tell what is being compared with what. In the Finnish-specific
-version of the SD scheme, there are two dependency types that are
-reserved for comparative structures, [`advcl:compar`]() and
-[`mark:comparator`](). Both of these types are new types not present
-in the UD nor the original SD scheme.
+tell what is being compared with what. To annotate comparative constructions, dependency types  [`advcl`]() and
+[`mark`]() are used.
 
 The basic usage of these two types is as follows. The comparative
-adjective or adverb acts as the head for a [`advcl:compar`]()
+adjective or adverb acts as the head for a [`advcl`]()
 dependency, and *the element being compared* is its
 dependent. The element being compared also acts as the head for a
-[`mark:comparator`]() dependency, the dependent of which is a
+[`mark`]() dependency, the dependent of which is a
 comparative conjunction, nearly always *kuin*.
 
 <!-- fname:comparatives.pdf -->
 ~~~ sdparse
 Keittiö on pienempi kuin olohuone . \n Kitchen is smaller than livingroom .
-nsubj-cop(pienempi-3, Keittiö-1)
+nsubj:cop(pienempi-3, Keittiö-1)
 cop(pienempi-3, on-2)
-advcl:compar(pienempi-3, olohuone-5)
-mark:comparator(olohuone-5, kuin-4)
+advcl(pienempi-3, olohuone-5)
+mark(olohuone-5, kuin-4)
 punct(pienempi-3, .-6)
 ~~~
 
 Note that the comparative adjective or adverb remains the head of
-the [`advcl:compar`]() dependency even if the word order is such that
+the [`advcl`]() dependency even if the word order is such that
 the dependency becomes non-projective.
 
 <!-- fname:comparatives_non-projective.pdf -->
 ~~~ sdparse
 Matilla on isompi auto kuin Pekalla . \n At_Matti is bigger car than Pekka .
-nmod(on-2, Matilla-1)
+nmod:own(on-2, Matilla-1)
 nsubj(on-2, auto-4)
 amod(auto-4, isompi-3)
-advcl:compar(isompi-3, Pekalla-6)
-mark:comparator(Pekalla-6, kuin-5)
+advcl(isompi-3, Pekalla-6)
+mark(Pekalla-6, kuin-5)
 punct(on-2, .-7)
 ~~~
 
@@ -964,7 +960,7 @@ the available elements are used wherever possible.
 
 It is also possible to make comparisons without the comparative
 conjunction *kuin*. In these cases, only the dependency type
-[`advcl:compar`]() is used, marking the comparative adjective or
+[`advcl`]() is used, marking the comparative adjective or
 adverb as the head, and the element compared as the dependent, just
 as in the case with the comparative conjunction present.
 
@@ -973,11 +969,11 @@ as in the case with the comparative conjunction present.
 Olohuone on keittiötä suurempi . \n Livingroom is (than_)kitchen bigger .
 nsubj:cop(suurempi-4, Olohuone-1)
 cop(suurempi-4, on-2)
-advcl:compar(suurempi-4, keittiötä-3)
+advcl(suurempi-4, keittiötä-3)
 punct(suurempi-4, .-5)
 ~~~
 
-In TDT, also some structures not involving a comparative adjective or
+Also some structures not involving a comparative adjective or
 adverb can be marked as comparatives. In order to qualify as a
 comparative construction, a structure has to contain either a
 comparative word form or a word form that otherwise semantically
@@ -990,8 +986,8 @@ example the word _sama_ "same" is in fact a pronoun in Finnish.)
 Luin saman kirjan kuin Pekka . \n I_read same book as Pekka .
 dobj(Luin-1, kirjan-3)
 det(kirjan-3, saman-2)
-advcl:compar(saman-2, Pekka-5)
-mark:comparator(Pekka-5, kuin-4)
+advcl(saman-2, Pekka-5)
+mark(Pekka-5, kuin-4)
 punct(Luin-1, .-6)
 ~~~
 
@@ -1032,7 +1028,7 @@ For instance, in an expression such as
 <!-- fname:super1.pdf -->
 ~~~ sdparse
 Suomen paras kokki \n Finland's best cook
-poss(paras-2, Suomen-1)
+nmod:poss(paras-2, Suomen-1)
 amod(kokki-3, paras-2)
 ~~~
 
@@ -1044,8 +1040,8 @@ example, in
 <!-- fname:super2.pdf -->
 ~~~ sdparse
 Virtasen kuudes mestaruus \n Virtanen's sixth championship
-poss(kuudes-2, Virtasen-1)
-num(mestaruus-3, kuudes-2)
+nmod:poss(kuudes-2, Virtasen-1)
+nummod(mestaruus-3, kuudes-2)
 ~~~
 
 the championship is the sixth out of *those of Virtanen*, and thus the
@@ -1057,7 +1053,7 @@ some cases. For instance, in
 <!-- fname:super3.pdf -->
 ~~~ sdparse
 Rusakon pahin vihollinen \n The_hare's worst enemy
-poss(vihollinen-3, Rusakon-1)
+nmod:poss(vihollinen-3, Rusakon-1)
 amod(vihollinen-3, pahin-2)
 ~~~
 
@@ -1373,7 +1369,7 @@ structures.
 ~~~ sdparse
 Raskaana oleva nainen on nälkäinen . \n Pregnant being woman is hungry .
 advmod(oleva-2, Raskaana-1)
-acl:partmod(nainen-3, oleva-2)
+acl(nainen-3, oleva-2)
 nsubj:cop(nälkäinen-5, nainen-3)
 cop(nälkäinen-5, on-4)
 punct(nälkäinen-5, .-6)
@@ -1396,7 +1392,7 @@ punct(käytettävissä-3, .-4)
 ~~~ sdparse
 Käytettävissä olevat resurssit ovat rajalliset . \n Usable being resources are limited .
 xcomp(olevat-2, Käytettävissä-1)
-acl:partmod(resurssit-3, olevat-2)
+acl(resurssit-3, olevat-2)
 nsubj:cop(rajalliset-5, resurssit-3)
 cop(rajalliset-5, ovat-4)
 punct(rajalliset-5, .-6)
@@ -1567,7 +1563,7 @@ of *using* in this example.
 <!-- this section originally from TDT guidelines section 5.16 -->
 
 Distinctions between certain dependency types, most commonly between
-participial modifiers ([`acl:partmod`]()) and adjectival modifiers
+participial modifiers ([`acl`]()) and adjectival modifiers
 ([`amod`]()) as well as adverbial modifiers ([`advmod`]()) and nominal
 modifiers ([`nmod`]()), are based on the corresponding morphological
 distinction, which can sometimes be rather difficult. This section
@@ -1583,13 +1579,13 @@ The distinction between verb participles and adjectives is difficult
 in several languages, and Finnish is no exception. In UD Finnish, this
 distinction affects the syntax annotation of mainly two kinds of
 structures. First, it affects the choice between the dependency types
-[`acl:partmod`]() (participial modifier) and [`amod`]() (adjectival
+[`acl`]() (participial modifier) and [`amod`]() (adjectival
 modifier).
 
 <!-- fname:amod_or_partmod.pdf -->
 ~~~ sdparse
 Tunnettu näyttelijä John Travolta \n Well-known actor John Travolta
-amod/acl:partmod?(näyttelijä-2, Tunnettu-1)
+amod/acl?(näyttelijä-2, Tunnettu-1)
 compound:nn(Travolta-4, näyttelijä-2)
 name(Travolta-4, John-3)
 ~~~
@@ -1820,8 +1816,7 @@ advmod(oli-6, kotona-8)
 punct(tuli-2, .-9)
 ~~~
 
-Punctuation with direct speech -type parataxis, however, is seen to
-delimit the utterance of the speaker.
+Punctuation with direct speech -type parataxis is attached to the first element.
 
 <!-- fname:parataxispunct2.pdf -->
 ~~~ sdparse
@@ -1857,7 +1852,7 @@ punct(puhe-6, .-8)
 ~~~ sdparse
 Matikainen ( s. 1943 ) on ammatiltaan kirjailija . \n Matikainen ( born 1943 ) is by_profession author .
 nsubj:cop(kirjailija-8, Matikainen-1)
-acl:partmod(Matikainen-1, s.-3)
+acl(Matikainen-1, s.-3)
 punct(s.-3, (-2)
 nmod(s.-3, 1943-4)
 punct(s.-3, )-5)

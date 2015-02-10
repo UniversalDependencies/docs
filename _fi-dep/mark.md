@@ -38,6 +38,19 @@ punct(Sanoin-1, .-7)
 
 <!--details-->
 
+The *comparative conjunction* (most commonly *kuin*, which corresponds
+roughly to "than" and "as" in English) is marked with the dependency
+type `mark`. The head of the dependency is the element
+being compared.
+
+<!-- fname:comparator.pdf -->
+~~~ sdparse
+enemmän kuin haluaisin \n more than I_would_want
+advcl(enemmän-1, haluaisin-3)
+mark(haluaisin-3, kuin-2)
+~~~
+
+
 The main subordinating conjunctions are the following:
 
 * _että_ "that"
@@ -49,10 +62,8 @@ The main subordinating conjunctions are the following:
 * _kunnes_ "until"
 * _kuin_ "as, than"
 
-Note that the conjunction *kuin* has several uses. In
-addition to a subordinating conjunction, it can also serve as an
-adverb modifier [advmod]() as well as a comparative conjunction
-[comparator](mark:comparator).
+Note that the conjunction *kuin* can also serve as an
+adverb modifier [advmod]().
 
 In addition to the basic subordinating conjunctions, the following
 words or word combinations can be considered subordinating

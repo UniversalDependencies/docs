@@ -7,5 +7,20 @@ shortdef: 'auxiliary'
 redirect_from: "sv/dep/aux.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `aux`.
+An auxiliary of a clause is a [non-main verb](sv-pos/AUX) of the
+clause.
+
+Exception: Auxiliary verb used to construct the passive
+[voice](sv-feat/Voice) is not labeled `aux` but [auxpass]().
+
+~~~ sdparse
+vilka funktioner den tidigare har haft \n which functions it previously has had
+aux(haft, har)
+~~~
+
+~~~ sdparse
+Vilka konsekvenser kan det ha ? \n what consequences can this have ?
+aux(ha, kan)
+~~~
+
+
