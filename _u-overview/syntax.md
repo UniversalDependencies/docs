@@ -290,7 +290,13 @@ that it is eliminated (echoing the viewpoint of the original Penn Treebank annot
 
 ### A mixed functional-structural system
 
-One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things: nominal phrases (which are the usual means of entity expression, but may also be used for other things), clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb), and miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates. This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations [u-dep/nmod](), [u-dep/advcl](), or [u-dep/advmod]() depending on which of these three sorts it is:
+One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. On the structural side, languages are taken to principally involve three things:
+
+* Nominal phrases (which are the usual means of entity expression, but may also be used for other things)
+* Clauses headed by a predicate (most commonly a verb, but it may be other things, such as an adjective or adverb, or even a predicate nominal, such as _He is **a wreck**_)
+* Miscellaneous other kinds of modifier words, which may themselves allow some modification, but do not expand into the same rich structures as nominal phrases and predicates.
+
+This three way distinction is generally encoded in dependency names.  For example, if a verb is taking an adverbial modifier, it may bear one of three relations [u-dep/nmod](), [u-dep/advcl](), or [u-dep/advmod]() depending on which of these three sorts it is:
 
 <div id="fss1" class="sd-parse">
 John talked in the movie theatre
@@ -316,7 +322,7 @@ advmod(quickly, very)
 advmod(talked, quickly)
 </div>
 
-Similarly, the core grammatical relations differentiate core arguments that are clauses (e.g., csubj, ccomp) from those that are nominal phrases (e.g., nsubj, dobj).
+Similarly, the core grammatical relations differentiate core arguments that are clauses (e.g., [u-dep/csubj](), [u-dep/ccomp]()) from those that are nominal phrases (e.g., [u-dep/nsubj](), [u-dep/dobj]()).
 
 ### Voice
 
