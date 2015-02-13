@@ -6,8 +6,8 @@ title: 'Tagset conversion tables'
 ## Tagset conversion tables to universal tags and features
 
 **Disclaimer:**
-These conversion tables were generated automatically via Interset.
-It uses only tags (+ features) as input, therefore it is only an approximation.
+These conversion tables were generated automatically via <a href="http://ufal.mff.cuni.cz/interset">Interset</a>.
+It uses only tags (+ features) as input, therefore the result is only an approximation.
 Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
 The tables require manual postprocessing in order to provide accurate and complete information.
 
