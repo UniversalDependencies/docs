@@ -7,7 +7,7 @@ shortdef: 'punctuation'
 ### Definition
 
 Punctuation marks are non-alphabetical characters and character groups
-used in many languages to delimit linguistic units in printed text.
+used to delimit linguistic units in printed text.
 
 ### Examples
 
