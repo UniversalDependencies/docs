@@ -982,8 +982,15 @@ case(vänster, till-4)
 <p><a id="al-sv-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>root</code>.</p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1. </p>
+
+<pre><code class="language-sdparse">ROOT \n Jag älskar pommes frites . \n ROOT I love French fries .
+root(ROOT, älskar)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT Bill är en ärlig man \n ROOT Bill is an honest man
+root(ROOT, man-6)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/root.md" target="#">edit root</a></p>
 
