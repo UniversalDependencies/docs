@@ -8,7 +8,7 @@ The remnant relation is currently not attested in the Swedish treebank. For a fu
 
 ~~~ sdparse
 Marie åkte till Paris och Miriam till Prague \n Marie went to Paris and Miriam to Prague
-nsubj(åket, Marie-1)
+nsubj(åkte, Marie-1)
 nmod(åkte-2, Paris-4)
 case(Paris-4, till-3)
 cc(åkte, och)
