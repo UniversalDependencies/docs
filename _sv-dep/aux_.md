@@ -19,7 +19,7 @@ aux(haft, har)
 ~~~
 
 ~~~ sdparse
-Vilka konsekvenser kan det ha ? \n what consequences can this have ?
+Vilka konsekvenser kan det ha ? \n What consequences can this have ?
 aux(ha, kan)
 ~~~
 
