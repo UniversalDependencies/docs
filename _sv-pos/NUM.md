@@ -16,5 +16,5 @@ are then separated by either a space or dot.
 ### Examples
 
 - _0, 1, 2, 3, 2014, 1 000 000, 3.000,15, 3,14159265359_
-- _ett_ "one", _två_ "two", _tre_ "three", _sjuttiosju_ "seventy-seven"_
+- _ett_ "one", _två_ "two", _tre_ "three", _sjuttiosju_ "seventy-seven"
 - _I, II, III, IV, V, MMXIV_
