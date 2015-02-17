@@ -29,7 +29,7 @@ Participle is a non-finite verb form that in Swedish is used adjectively. The re
 
 #### Examples
 
-* [sv] _<b>ökad</b> frånvaro</b>_ "<b>increased</b> absence"
+* [sv] _<b>ökad</b> frånvaro_ "<b>increased</b> absence"
 * [sv] _vår <b>bisulfitbehandlade</b> potatis_ "our <b>bisulfite-treated</b> potatoes"
 
 ### `Sup`: supine
