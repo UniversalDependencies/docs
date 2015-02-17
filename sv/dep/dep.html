@@ -34,8 +34,15 @@
 
           <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>A dependency is labeled as <code>dep</code> when a system is unable to
+determine a more precise dependency relation between two words. This
+may be because of a weird grammatical construction, a limitation in
+software, a parser error, or because of an unresolved long distance 
+dependency.</p>
+
+<pre><code class="language-sdparse">Svårast är att bestämma vilka förändringar som har skett \n The hardest part is to decide which changes have taken place
+dep(skett, som)
+</code></pre>
 
 
 <!-- "in other languages" links -->

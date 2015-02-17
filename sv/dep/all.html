@@ -567,8 +567,15 @@ csubjpass(misstänktes, ljög)
 <p><a id="al-sv-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>A dependency is labeled as <code>dep</code> when a system is unable to
+determine a more precise dependency relation between two words. This
+may be because of a weird grammatical construction, a limitation in
+software, a parser error, or because of an unresolved long distance 
+dependency.</p>
+
+<pre><code class="language-sdparse">Svårast är att bestämma vilka förändringar som har skett \n The hardest part is to decide which changes have taken place
+dep(skett, som)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/dep.md" target="#">edit dep</a></p>
 
