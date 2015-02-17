@@ -34,20 +34,36 @@
 
           <h2><code>mark</code>: marker</h2>
 
-<p>A marker is the word introducing a clause subordinate to another clause. The mark is a dependent of the subordinate clause head. </p>
+<p>A marker is the word introducing a clause subordinate to another clause. For a complement clause, this will typically be <em>that</em> or <em>whether</em>. For an adverbial clause, the marker is typically a preposition like <em>before</em> or a subordinating conjunction fulfilling a similar role like <em>while</em> or <em>although</em>. The mark is a dependent of the subordinate clause head. </p>
 
-<pre><code class="language-sdparse">Han säger att du gillar att simma \n He says that you like to swim
-mark(simma, att-3)
+<pre><code class="language-sdparse">Forces engaged in fighting after insurgents attacked
+mark(attacked, after)
 </code></pre>
 
-<pre><code class="language-sdparse">Snarast möjligt efter det att paketet har kommit fram \n As soon as possible after the package has arrived
-mark(kommit, efter)
+<pre><code class="language-sdparse">He says that you like to swim
+mark(swim, that)
 </code></pre>
 
 <p>The infinitive marker <em>to</em> is analyzed as a <code>mark</code>.</p>
 
-<pre><code class="language-sdparse">Det är svårt att tolka \n It is difficult to interpret
-mark(tolka, att)
+<pre><code class="language-sdparse">I tried to finish it
+mark(finish, to)
+</code></pre>
+
+<p>When a a noun or a verb takes a prepositionally marked non-core argument (modifier) and that modifier is a clause, then we also label that prepositon as <code>mark</code> (as it would not seem reasonable to call it <code>case</code> when it is marking a clause). The result will commonly be a doubly marked clause.</p>
+
+<pre><code class="language-sdparse">We have no useful information on whether users are at risk .
+nsubj(have, We)
+neg(information, no)
+amod(information, useful)
+dobj(have, information)
+mark(risk, on)
+mark(risk, whether)
+nsubj(risk, users)
+cop(risk, are)
+case(risk, at)
+acl(information, risk)
+punct(have, .)
 </code></pre>
 
 
