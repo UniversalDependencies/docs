@@ -38,6 +38,7 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="nl-conll-uposf.html">nl::conll</a> (Dutch)
 * <a href="nl-cgn-uposf.html">nl::cgn</a> (Dutch)
 * <a href="pl-ipipan-uposf.html">pl::ipipan</a> (Polish)
+* <a href="pt-conll-uposf.html">pt::conll</a> (Portuguese)
 * <a href="sv-mamba-uposf.html">sv::mamba</a> (Swedish)
 * <a href="sv-parole-uposf.html">sv::parole</a> (Swedish)
 * <a href="sv-suc-uposf.html">sv::suc</a> (Swedish)
