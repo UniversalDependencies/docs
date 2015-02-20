@@ -24,4 +24,8 @@ root(ROOT-0, frumoasă-3)
 root(ROOT-6, beautiful-9)
 ~~~
 
-
+~~~ sdparse
+ROOT Este bine să mănânci de dimineață . \n ROOT Is well SĂ eat in morning.
+root(ROOT-0, bine-2)
+root(ROOT-9, well-11)
+~~~
