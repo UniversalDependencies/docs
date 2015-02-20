@@ -1,4 +1,4 @@
----
+--
 layout: relation
 title: 'root'
 shortdef: 'root'
@@ -9,5 +9,24 @@ The `root` grammatical relation points to the root of the sentence. A fake node 
 ~~~ sdparse
 ROOT Copilul aleargă . \n ROOT Child-the runs .
 root(ROOT-2, aleargă)
-root(ROOT-2, runs)
+root(ROOT-7, runs)
 ~~~
+
+~~~ sdparse
+ROOT Vin imediat . \n ROOT Come-I immediately .
+root(ROOT-1, vin)
+root(ROOT-6, come-I)
+~~~
+
+~~~ sdparse
+ROOT Fata este frumoasă . \n ROOT Girl-the is beautiful .
+root(ROOT-3, frumoasă)
+root(ROOT-9, beautiful)
+~~~
+
+~~~ sdparse
+ROOT Vin imediat . \n ROOT Come-I immediately .
+root(ROOT-1, vin)
+root(ROOT-5, come-I)
+~~~
+
