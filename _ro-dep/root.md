@@ -13,7 +13,7 @@ root(ROOT, aleargă)
 
 ~~~ sdparse
 ROOT Vin imediat . \n ROOT Come-I immediately .
-root(ROOT, vin)
+root(ROOT, Vin)
 ~~~
 
 ~~~ sdparse
