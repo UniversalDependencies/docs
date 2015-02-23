@@ -8,8 +8,8 @@ The `root` grammatical relation points to the root of the sentence. A fake node 
 
 ~~~ sdparse
 ROOT Copilul aleargă . \n ROOT Child-the runs .
-root(ROOT-0, aleargă-2)
-root(ROOT-5, runs-7)
+root(ROOT-0, aleargă)
+root(ROOT-5, runs)
 ~~~
 
 ~~~ sdparse
