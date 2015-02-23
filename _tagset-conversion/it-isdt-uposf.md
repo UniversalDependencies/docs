@@ -1,0 +1,279 @@
+---
+layout: base
+title: 'Tagset it::isdt conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset it::isdt
+
+This table is courtesy by Maria Simi.
+
+Tagset <tt>it::isdt</tt>, total 264 tags.
+
+<table>
+<tr><td>A</td><td>A</td><td>num=n|gen=n</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><i>biposto, ultra, bene, best, live, running</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=p|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur</td><td><i>violente, personalissime, lisce, paritetiche, vive, immense</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=p|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td><i>romani, disoccupati, austeri, disposti, radioattivi, corrotti</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=p|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td><i>immobili, danesi, principali, presidenziali, lievi, ormonali</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><i>complicata, lontana, missilistica, esigua, immobiliare, famosa</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><i>misterioso, accentuato, preventivo, fondato, fisico, curioso</i></td></tr>
+<tr><td>A</td><td>A</td><td>num=s|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td><i>insostenibile, corresponsabile, militare, vergine, keniota, laziale</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=n|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Poss=Yes|PronType=Prs</td><td><i>loro, altrui, my</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=p|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>mie, vostre, sue, nostre, proprie</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=p|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>vostri, propri, tuoi, miei, suoi, nostri</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>vostra, mia, sua, propria, nostra, tua</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>proprio, tuo, nostro, suo, mio, vostro</i></td></tr>
+<tr><td>B</td><td>B</td><td>_</td><td>=&gt;</td><td>ADV</td><td>_</td><td><i>peggio, unicamente, legittimamente, forte, solennemente, carponi</i></td></tr>
+<tr><td>B</td><td>BN</td><td>_</td><td>=&gt;</td><td>ADV</td><td>PronType=Neg</td><td><i>no, mica, non, nemmeno, neanche, neppure</i></td></tr>
+<tr><td>C</td><td>CC</td><td>_</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><i>bensì, nè, sia, et, mentre, come</i></td></tr>
+<tr><td>C</td><td>CS</td><td>_</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><i>benché, affinché, quale, dopo, poiché, sebbene</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=n|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|PronType=Dem</td><td><i>tal</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><i>queste, quelle</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><i>quegli, questi, quei</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=p|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><i>tali</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><i>questa, quella, tal</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><i>quello, quel, questo, quest’</i></td></tr>
+<tr><td>D</td><td>DD</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><i>tale, tal, quest', quell'</i></td></tr>
+<tr><td>D</td><td>DE</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>_</td><td><i>che</i></td></tr>
+<tr><td>D</td><td>DE</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Sing</td><td><i>quale</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td><i>più</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Ind</td><td><i>determinate, alcune, altre, talune, molte, delle</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Ind</td><td><i>molti, numerosi, tutti, svariati, altrettanti, parecchi</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><i>alcuna, troppa, ciascuna, diversa, certa, tutta</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><i>molto, ciascuno, nessun, certo, poco, alcuno</i></td></tr>
+<tr><td>D</td><td>DI</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Ind</td><td><i>ogni, qualsivoglia, qualunque, qualche, niente, qualsiasi</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><i>che</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Int</td><td><i>quante</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><i>quanti</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=p|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Int</td><td><i>quali</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><i>quanta</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><i>quanto, quel</i></td></tr>
+<tr><td>D</td><td>DQ</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Int</td><td><i>qual, che, quale</i></td></tr>
+<tr><td>D</td><td>DR</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>PronType=Rel</td><td><i>cui</i></td></tr>
+<tr><td>D</td><td>DR</td><td>num=p|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Rel</td><td><i>quali</i></td></tr>
+<tr><td>D</td><td>DT</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>_</td><td><i>che</i></td></tr>
+<tr><td>D</td><td>DT</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing</td><td><i>quanta</i></td></tr>
+<tr><td>E</td><td>E</td><td>_</td><td>=&gt;</td><td>ADP</td><td>_</td><td><i>pro, entro, onde, fino, davanti, for</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=p|gen=f</td><td>=&gt;</td><td>ADP</td><td>Gender=Fem|Number=Plur</td><td><i>nelle, dalle, sulle, alle, colle, delle</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=p|gen=m</td><td>=&gt;</td><td>ADP</td><td>Gender=Masc|Number=Plur</td><td><i>sui, dagli, dei, sugli, agli, coi</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=p|gen=n</td><td>=&gt;</td><td>ADP</td><td>Number=Plur</td><td><i>dell'</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADP</td><td>Gender=Fem|Number=Sing</td><td><i>nella, del, alla, dall', delle, dalla</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADP</td><td>Gender=Masc|Number=Sing</td><td><i>sul, dal, nel, pel, nell', del</i></td></tr>
+<tr><td>E</td><td>EA</td><td>num=s|gen=n</td><td>=&gt;</td><td>ADP</td><td>Number=Sing</td><td><i>dell’, nell', all’, dall’, all', sull'</i></td></tr>
+<tr><td>F</td><td>FB</td><td>_</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><i>«, ), », ], ”, "</i></td></tr>
+<tr><td>F</td><td>FC</td><td>_</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><i>:, ;</i></td></tr>
+<tr><td>F</td><td>FF</td><td>_</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><i>/, –, ., *, ..., "</i></td></tr>
+<tr><td>F</td><td>FS</td><td>_</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><i>., :, !, ?</i></td></tr>
+<tr><td>I</td><td>I</td><td>_</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><i>grazie, già, ciao, ahò, chissà, vabbè</i></td></tr>
+<tr><td>N</td><td>N</td><td>_</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><i>864, 99, 932, 1453, 45227, 1989</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=n|gen=n</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><i>first, 20°, I, 35*, 2°, 3°</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=p|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|NumType=Ord</td><td><i>prime, ultime</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=p|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|NumType=Ord</td><td><i>terzi, quarti, ultimi, primi</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|NumType=Ord</td><td><i>sesta, settima, terza, nona, ennesima, XXIII</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|NumType=Ord</td><td><i>ultimo, settimo, secondo, penultimo, primo, decimo</i></td></tr>
+<tr><td>N</td><td>NO</td><td>num=s|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|NumType=Ord</td><td><i>II, XII, V, XVI, 20th, VII</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=n|gen=n</td><td>=&gt;</td><td>PRON</td><td>_</td><td><i>vi, si, ne, se, n', c'</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=n|per=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Person=3</td><td><i>le</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=n|per=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Person=3</td><td><i>si, l', glie, s', sè, se</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur</td><td><i>ci, vi</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=p|per=1|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1</td><td><i>ci</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=p|per=2|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2</td><td><i>vi</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=p|per=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3</td><td><i>le</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=p|per=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3</td><td><i>li</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=s|per=1|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1</td><td><i>m', me, mi</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=s|per=2|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2</td><td><i>ti, te</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=s|per=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3</td><td><i>la, le</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=s|per=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3</td><td><i>glie, gli, lo</i></td></tr>
+<tr><td>P</td><td>PC</td><td>num=s|per=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3</td><td><i>gli, l', la, glie</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=n|gen=n</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td><i>ciò</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=p|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><i>stesse, quelle, queste</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=p|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><i>medesimi, stessi, quelli, questi</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Dem</td><td><i>coloro, costoro, tali</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><i>quella, questa, stessa, medesima</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Dem</td><td><i>ciò, medesimo, costui, quello, quel, codesto</i></td></tr>
+<tr><td>P</td><td>PD</td><td>num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Dem</td><td><i>tale</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=n|per=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Prs</td><td><i>sè</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=p|per=1|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td><i>noi</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=p|per=2|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td><i>voi</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=p|per=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><i>esse</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=p|per=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><i>essi, uni, al.</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=p|per=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td><i>loro, costoro</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Prs</td><td><i>terzo</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|per=1|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td><i>io, me, i</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|per=2|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td><i>te, tu</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|per=3|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><i>lei, essa, ella</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|per=3|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><i>lui, ei, gli, granché, quegli, esso</i></td></tr>
+<tr><td>P</td><td>PE</td><td>num=s|per=3|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=3|PronType=Prs</td><td><i>sé, lei, costui</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=n|gen=n</td><td>=&gt;</td><td>PRON</td><td>PronType=Ind</td><td><i>granché, più, meno</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=p|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Ind</td><td><i>tutte, molte, altre, poche, alcune</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=p|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Ind</td><td><i>altrettanti, tantissimi, uni, diversi, entrambi, altri</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Ind</td><td><i>più, ambedue</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><i>ciascuna, tutta, troppa, ognuna, altra, una</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Ind</td><td><i>uno, nessuno, quello, ciascuno, diverso, nulla</i></td></tr>
+<tr><td>P</td><td>PI</td><td>num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Ind</td><td><i>qualunque, niente, nulla, alcunché, chiunque, qualcosa</i></td></tr>
+<tr><td>P</td><td>PP</td><td>num=p|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>tuoi, miei, suoi</i></td></tr>
+<tr><td>P</td><td>PP</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Poss=Yes|PronType=Prs</td><td><i>loro</i></td></tr>
+<tr><td>P</td><td>PP</td><td>num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>tua, sua, mia</i></td></tr>
+<tr><td>P</td><td>PP</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>mio, tuo, proprio, nostro, suo</i></td></tr>
+<tr><td>P</td><td>PP</td><td>num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Poss=Yes|PronType=Prs</td><td><i>sé</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>_</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td><i>quanto</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=n|gen=n</td><td>=&gt;</td><td>PRON</td><td>PronType=Int</td><td><i>che, qual, quanto, chi</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=p|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Int</td><td><i>quante</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=p|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><i>quanti</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Int</td><td><i>quali</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><i>quanta</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><i>quanto</i></td></tr>
+<tr><td>P</td><td>PQ</td><td>num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Int</td><td><i>quanto, cos', chi, cosa, qual, quale</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=n|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|PronType=Rel</td><td><i>che</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=n|gen=n</td><td>=&gt;</td><td>PRON</td><td>PronType=Rel</td><td><i>chi, cui, che, quanto, come, dove</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=p|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Rel</td><td><i>quanti</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=p|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|PronType=Rel</td><td><i>quali</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><i>quanto</i></td></tr>
+<tr><td>P</td><td>PR</td><td>num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Rel</td><td><i>chiunque, chi, che, quale, cui</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td><i>the</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Plur|PronType=Art</td><td><i>le</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Plur|PronType=Art</td><td><i>i, gli</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Fem|Number=Sing|PronType=Art</td><td><i>la, a, le</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Masc|Number=Sing|PronType=Art</td><td><i>lu, l’, lo, l', le, il</i></td></tr>
+<tr><td>R</td><td>RD</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Sing|PronType=Art</td><td><i>l’, l'</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|PronType=Art</td><td><i>a</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Plur|PronType=Art</td><td><i>delle</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Plur|PronType=Art</td><td><i>degli, dei</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Fem|Number=Sing|PronType=Art</td><td><i>un', una, un’</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Gender=Masc|Number=Sing|PronType=Art</td><td><i>uno, del, un</i></td></tr>
+<tr><td>R</td><td>RI</td><td>num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Sing|PronType=Art</td><td><i>a, dell'</i></td></tr>
+<tr><td>S</td><td>S</td><td>_</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><i>d, col., es., mq, cm, b.r.</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=n|gen=f</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem</td><td><i>finalità, umanità, metà, capolista, sovranità, insostenibilità</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=n|gen=m</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc</td><td><i>parser, totem, stage, papà, oscar, robot</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=n|gen=n</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><i>etagere, ten, soap, radio, show, research</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=p|gen=f</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td><i>architetture, scritte, iniziative, apparenze, cose, lunghezze</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=p|gen=m</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Plur</td><td><i>tentennamenti, interrogativi, governi, terroristi, altoparlanti, fianchi</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=p|gen=n</td><td>=&gt;</td><td>NOUN</td><td>Number=Plur</td><td><i>governanti, tossicomani, mecenati, militanti, simpatizzanti, debuttanti</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=s|gen=f</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td><i>generazione, spola, eccezione, grafica, miriade, tattica</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=s|gen=m</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing</td><td><i>viale, elettrodotto, ambasciatore, soffio, turno, moto</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=s|gen=n</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing</td><td><i>presidente, security, paziente, milanese, governante, amante</i></td></tr>
+<tr><td>S</td><td>S</td><td>num=s|mod=p|gen=m</td><td>=&gt;</td><td>NOUN</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td><i>previsto</i></td></tr>
+<tr><td>S</td><td>SP</td><td>_</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><i>Silvio, Respirazione, Apple, Mezzaluna, Ferrari, Springs</i></td></tr>
+<tr><td>S</td><td>SW</td><td>_</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><i>air, i, quo, santo, pars, pingendi</i></td></tr>
+<tr><td>T</td><td>T</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur</td><td><i>tutte, entrambe</i></td></tr>
+<tr><td>T</td><td>T</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur</td><td><i>entrambi, tutti</i></td></tr>
+<tr><td>T</td><td>T</td><td>num=p|gen=n</td><td>=&gt;</td><td>DET</td><td>Number=Plur</td><td><i>ambedue</i></td></tr>
+<tr><td>T</td><td>T</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing</td><td><i>tutta</i></td></tr>
+<tr><td>T</td><td>T</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing</td><td><i>tutto</i></td></tr>
+<tr><td>V</td><td>V</td><td>mod=f</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><i>diventare, sistemare, smettere, riaprire, parlar, commutare</i></td></tr>
+<tr><td>V</td><td>V</td><td>mod=g</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Ger</td><td><i>cavalcando, pianificando, sciando, mantenendo, assicurando, trasformando</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=n|mod=p|gen=n</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><i>distr.</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|mod=p</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Part</td><td><i>aventi, decorrenti, risultanti, luccicanti, partecipanti, facenti</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|mod=p|gen=f</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part</td><td><i>criptate, approvate, accadute, trattate, alimentate, partite</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|mod=p|gen=m</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|VerbForm=Part</td><td><i>anticipati, discriminati, soddisfatti, lasciati, schierati, imbambolati</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=c|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><i>fossimo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=c|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>nascondiamo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><i>agiremo, lavoreremo, sposeremo, permetteremo, andremo, presenteremo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=i|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin</td><td><i>chiamavamo, collaudavamo, giocavamo, sapevamo, ascoltavamo, avevamo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>dirigiamo, siamo, andiamo, riassumiamo, riusciamo, impediamo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=i|ten=s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin</td><td><i>pagammo, andammo, vedemmo, destinammo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=1|mod=m|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>diciamo, intendiamo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=c|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin</td><td><i>sapeste</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=d|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>avreste</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><i>vedrete</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=i|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin</td><td><i>eravate</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>spiate, salutate, state, siete, spezzate, somigliate</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=2|mod=m|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>sentite, cercate, chiedete, lasciate, rivolgetevi, sospendete</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=c|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><i>provenissero, fossero, arrivassero, equivalessero, andassero, giocassero</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=c|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>siano, corrano, riferiscano, consentano, minaccino, associno</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=d|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>rifarebbero, commetterebbero, sparerebbero, saprebbero, sarebbero, cesserebbero</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><i>incontreranno, capiranno, giocheranno, alzeranno, troveranno, vedranno</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=i|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</td><td><i>discutevano, vendevano, annotavano, provenivano, agitavano, volevano</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>combinano, estinguono, aumentano, smentiscono, allontanano, posseggono</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=p|per=3|mod=i|ten=s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin</td><td><i>confluirono, furono, stabilirono, nascosero, costrinsero, finirono</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|gen=f</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing</td><td><i>porta</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|mod=p</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Part</td><td><i>confinante, incombente, riducente, risultante, sbadigliante, spettante</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|mod=p|gen=f</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|VerbForm=Part</td><td><i>armonizzata, sciupata, scoperta, emessa, programmata, tarlata</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|mod=p|gen=m</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td><i>annegato, votato, rivendicato, depredato, riconosciuto, convertito</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=c|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><i>fossi, incontrassi, partecipassi</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=c|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>giochi</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=d|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>definirei, vorrei, farei, arrabbierei, direi, avrei</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><i>crederò, sarò, avrò, dedicherò, sorveglierò, troverò</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=i|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</td><td><i>amavo, saltavo, dicevo, temevo, sentivo, rispondevo</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><i>torno, chiedo, ammetto, racconto, continuo, voto</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=1|mod=i|ten=s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin</td><td><i>aspettai, decorsi, tornai, entrai, rimasi, andai</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=2|mod=c|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>permetta</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=2|mod=d|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>troveresti, stupiresti, percorreresti</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=2|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><i>vedrai, morirai, sentirai</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=2|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>ami, vieni, credi, sbagli, limiti, risulti</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=2|mod=m|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><i>immagina, cerca, elenca, asciuga, scopri, tonifica</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=c|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><i>vedesse, saltasse, riposasse, trovasse, bastasse, internazionalizzasse</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=c|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>richieda, comporti, consista, esegua, rovini, contrapponga</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=d|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>piacerebbe, parrebbe, saprebbe, equivarrebbe, renderebbe, prenderebbe</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=i|ten=f</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><i>porterà, finirà, rimpiangerà, accompagnerà, seguirà, invocherà</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=i|ten=i</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</td><td><i>preoccupava, rientrava, affidava, rincresceva, piantava, usciva</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=i|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>ripubblica, profetizza, sopporta, mostra, disegna, ha</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=i|ten=s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td><i>suicidò, operò, acquistò, sembrò, rovesciò, andò</i></td></tr>
+<tr><td>V</td><td>V</td><td>num=s|per=3|mod=m|ten=p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><i>nomina</i></td></tr>
+<tr><td>V</td><td>VA</td><td>mod=f</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf|VerbType=Aux</td><td><i>aver, avere, venire, esser, essere</i></td></tr>
+<tr><td>V</td><td>VA</td><td>mod=g</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Ger|VerbType=Aux</td><td><i>essendo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|mod=p|gen=f</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Plur|VerbForm=Part|VerbType=Aux</td><td><i>state</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|mod=p|gen=m</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Plur|VerbForm=Part|VerbType=Aux</td><td><i>stati</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=1|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>avremmo, saremmo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=1|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Aux</td><td><i>saremo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=1|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>avevamo, eravamo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=1|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>siamo, abbiamo, veniamo, stiamo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=2|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>siete, avete</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=c|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>avessero, fossero, venissero</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=c|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>vengano, siano, abbiano</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>sarebbero, avrebbero</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Aux</td><td><i>saranno, avranno, verranno</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>stavano, avevano, andavano, erano, venivano</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>stanno, vengono, son, vanno, sono, hanno</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=p|per=3|mod=i|ten=s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbType=Aux</td><td><i>vennero, furono</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|mod=p|gen=f</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Sing|VerbForm=Part|VerbType=Aux</td><td><i>stata</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|mod=p|gen=m</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|VerbForm=Part|VerbType=Aux</td><td><i>stato</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=1|mod=c|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>avessi, fossi</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=1|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>avrei</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=1|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>ero, avevo</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=1|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>sto, ho, sono</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=1|mod=i|ten=s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbType=Aux</td><td><i>fui</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=2|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>venivi</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=2|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>stai, sei, hai</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=c|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>avesse, fosse, venisse</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=c|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>stia, sia, venga, abbia</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>sarebbe, avrebbe</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Aux</td><td><i>sarà, verrà, avrà</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Aux</td><td><i>veniva, stava, era, aveva</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux</td><td><i>e', viene, è, va, sta, ha</i></td></tr>
+<tr><td>V</td><td>VA</td><td>num=s|per=3|mod=i|ten=s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Aux</td><td><i>fu, venne</i></td></tr>
+<tr><td>V</td><td>VM</td><td>mod=f</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf|VerbType=Mod</td><td><i>voler, dover, poter</i></td></tr>
+<tr><td>V</td><td>VM</td><td>mod=g</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Ger|VerbType=Mod</td><td><i>potendo, volendo, dovendo</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|mod=p|gen=m</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Plur|VerbForm=Part|VerbType=Mod</td><td><i>potuti</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=1|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>dovremmo, vorremmo, potremmo</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=1|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>potevamo</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=1|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>vogliamo, possiamo, dobbiamo</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=2|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>vorreste</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=2|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|VerbType=Mod</td><td><i>dovrete</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=2|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>potete, volete</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=2|mod=m|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>dovete</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=c|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>dovessero, potessero</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=c|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>possano, debbano, vogliano</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>potrebbero, dovrebbero</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Mod</td><td><i>dovranno, potranno</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>dovevano, potevano, volevano, andavano</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=p|per=3|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>debbono, devono, vogliono, sanno, possono, vanno</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|mod=p|gen=f</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Sing|VerbForm=Part|VerbType=Mod</td><td><i>potuta</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|mod=p|gen=m</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|VerbForm=Part|VerbType=Mod</td><td><i>voluto, dovuto, potuto</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=1|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>vorrei, potrei</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=1|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>volevo</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=1|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>devo, debbo, voglio, posso</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=2|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>dovresti</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=2|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>dovevi</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=2|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>devi, vuoi, puoi</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=2|mod=m|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>devi</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=c|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>potesse, dovesse, volesse</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=c|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>voglia, debba, possa</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=d|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>potrebbe, dovrebbe, vorrebbe</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=i|ten=f</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Mod</td><td><i>vorrà, potrà, dovrà</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=i|ten=i</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|VerbType=Mod</td><td><i>doveva, poteva, voleva</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=i|ten=p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod</td><td><i>deve, sa, dev', fa, vuole, può</i></td></tr>
+<tr><td>V</td><td>VM</td><td>num=s|per=3|mod=i|ten=s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod</td><td><i>dovette, potè</i></td></tr>
+<tr><td>X</td><td>X</td><td>_</td><td>=&gt;</td><td>X</td><td>_</td><td><i>20'01'', b, o, /, enni, 2'42''</i></td></tr>
+</table>

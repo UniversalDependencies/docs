@@ -33,6 +33,7 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="hr-multext-uposf.html">hr::multext</a> (Croatian)
 * <a href="hu-conll-uposf.html">hu::conll</a> (Hungarian)
 * <a href="it-conll-uposf.html">it::conll</a> (Italian)
+* <a href="it-isdt-uposf.html">it::isdt</a> (Italian)
 * <a href="ja-conll-uposf.html">ja::conll</a> (Japanese)
 * <a href="la-conll-uposf.html">la::conll</a> (Latin)
 * <a href="nl-conll-uposf.html">nl::conll</a> (Dutch)
