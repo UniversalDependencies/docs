@@ -1,0 +1,1476 @@
+---
+layout: base
+title: 'Tagset sk::snk conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset sk::snk
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>sk::snk</tt>, total 1457 tags.
+
+<table>
+  <tr style="background:lightgray"><td>AAfp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Zlate</em></td></tr>
+  <tr><td>AAfp1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>menšie, väčšie, staršie, bližšie, svetlejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najľehšie, nejdôležitejšir</em></td></tr>
+  <tr><td>AAfp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Církevných</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp2y</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>menších, neskorších, starších, vzdialenejších, vyšších</em></td></tr>
+  <tr><td>AAfp2z</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najväčších, najmenších, najstarších, najrôznejších, najdôležitejších</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Schengenským, Severským</em></td></tr>
+  <tr><td>AAfp3y</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>menším, nenáročnejším, lepším</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp3z</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najvýznamnejším, najlepším, najnavštevovanejším, najpozoruhodnejším, najrozporuplnejším</em></td></tr>
+  <tr><td>AAfp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Božie, Mesačné, Prorocké, Zlaté, Východoslovenké</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp4y</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>väčšie, nižšie, vyššie, menšie, lepšie</em></td></tr>
+  <tr><td>AAfp4z</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najpotrebnejšie, najvýznamnejšie, najväčšie, najmenšie, najnovšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAfp5y</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAfp5z</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAfp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Zlatých, Jaslovských, Božích, Skalistých</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp6y</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>vyšších, nižších, širších, kyslejších, menších</em></td></tr>
+  <tr><td>AAfp6z</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najväčších, najbližších, najtajnejších, najrôznejších, najzložitejších</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>Západoslovenskými, Ústrednými</em></td></tr>
+  <tr><td>AAfp7y</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>nižšími, menšími, dravšími, prísnejšími, staršími</em></td></tr>
+  <tr style="background:lightgray"><td>AAfp7z</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>najväčšími, najneuveriteľnejšími, najkrajšími, najlepšími, najvyššími</em></td></tr>
+  <tr><td>AAfs1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Slovenská, Veľká, Šípková, Európska, Nová</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>väčšia, staršia, menšia, vyššia, nižšia</em></td></tr>
+  <tr><td>AAfs1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>najväčšia, najlepšia, najkrajšia, najhoršia, najdrahšia</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Veľkéj, Mezinárodnej</em></td></tr>
+  <tr><td>AAfs2y</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Väčšej</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs2z</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Najstaršej</em></td></tr>
+  <tr><td>AAfs3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Spolkovej, Božej, Osmanskej, Slovenskej, Východofranskej</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs3y</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>väčšej, vyššej, podrobnejšej, častejšej, horšej</em></td></tr>
+  <tr><td>AAfs3z</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>najvyššej, najväčšej, najstaršej, najmocnejšej</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Americku, Kalifornsku, Filozoficku</em></td></tr>
+  <tr><td>AAfs4y</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>väčšiu, lepšiu, vyššiu, menšiu, mladšiu</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs4z</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>najmenšiu, najväčšiu, najvyššiu, najlepšiu, najhoršiu</em></td></tr>
+  <tr><td>AAfs5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>milá</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs5y</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>maličká</em></td></tr>
+  <tr><td>AAfs5z</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAfs6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Kazanškej, Velkej</em></td></tr>
+  <tr><td>AAfs6y</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>väčšej, vyššej, menšej, nižšej, neskoršej</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs6z</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>najnižšej, najmenšej, najväčšej, najvyššej, najdrahšej</em></td></tr>
+  <tr><td>AAfs7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Veľkou, Kráľovskou, Byzantskou, Osmanskou, Svätou</em></td></tr>
+  <tr style="background:lightgray"><td>AAfs7y</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>väčšou, vyššou, menšou, mladšou, lepšou</em></td></tr>
+  <tr><td>AAfs7z</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>najväčšou, najvyššou, najťažšou, najlepšou, najhlúpejšou</em></td></tr>
+  <tr style="background:lightgray"><td>AAip1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Pobaltské, Božie, Magnetické, Kralické, Štandardné</em></td></tr>
+  <tr><td>AAip1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>vyššie, menšie, väčšie, cennejšie, silnejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAip1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Najlepšie</em></td></tr>
+  <tr><td>AAip2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Slovenských, Spojených, Dunajských, Božích, Zlatých</em></td></tr>
+  <tr style="background:lightgray"><td>AAip2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>vyšších, starších, menších, lacnejších, neskorších</em></td></tr>
+  <tr><td>AAip2z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najstarších, najbližších, najväčších, najmenších, najvyšších</em></td></tr>
+  <tr style="background:lightgray"><td>AAip3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Mierovým</em></td></tr>
+  <tr><td>AAip3y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>častejším, väčším, starším</em></td></tr>
+  <tr style="background:lightgray"><td>AAip3z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najobľúbenejším, najlepším, najvážnejším, najúspešnejším, najvýznamnejším</em></td></tr>
+  <tr><td>AAip4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Pobaltské, Vzájomné, Olšanské, Malajské, Pseudoizidorské</em></td></tr>
+  <tr style="background:lightgray"><td>AAip4y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>menšie, lepšie, väčšie, vyššie, rušnejšie</em></td></tr>
+  <tr><td>AAip4z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najlepšie, najkrajšie, najbezvýznamnejšie, najnovšie, najočividnejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAip5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAip5y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAip5z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAip6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Božích, Slovenských, Kajmanských</em></td></tr>
+  <tr style="background:lightgray"><td>AAip6y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>neskorších, skorších, menších, mladších, starších</em></td></tr>
+  <tr><td>AAip6z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najbližších, najlepších, najstarších, najvyšších, najsmelších</em></td></tr>
+  <tr style="background:lightgray"><td>AAip7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Slovenskými, Spojenými</em></td></tr>
+  <tr><td>AAip7y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>konzervatívnejšími, miernejšími, jednoduchšími</em></td></tr>
+  <tr style="background:lightgray"><td>AAip7z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Najrozšírenejšími, najnovšími, Najdôležitejšími, najlepšími, Najvýznamnejšími</em></td></tr>
+  <tr><td>AAis1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Veľký, Nový, Prázdny, Sovietsky, Starý</em></td></tr>
+  <tr style="background:lightgray"><td>AAis1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčší, menší, lepší, starší, silnejší</em></td></tr>
+  <tr><td>AAis1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najvyšší</em></td></tr>
+  <tr style="background:lightgray"><td>AAis2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Veľkého, Sovietskeho, Nového, Apoštolského, Kjótskeho</em></td></tr>
+  <tr><td>AAis2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčšieho, vyššieho, staršieho, širšieho, výraznejšieho</em></td></tr>
+  <tr style="background:lightgray"><td>AAis2z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najvyššieho</em></td></tr>
+  <tr><td>AAis3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Apoštolskému, Božiemu, Sovietskemu, Maltézskemu, Populačnému</em></td></tr>
+  <tr style="background:lightgray"><td>AAis3y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčšiemu, prísnejšiemu, slabšiemu, neskoršiemu, menšiemu</em></td></tr>
+  <tr><td>AAis3z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najväčšiemu, najdlhšiemu, najnovšiemu, najvhodnejšiemu, najlepšiemu</em></td></tr>
+  <tr style="background:lightgray"><td>AAis4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Boží, Sovietsky, Západný, Nový, Lamanšský</em></td></tr>
+  <tr><td>AAis4y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčší, dlhší, vyšší, lepší, menší</em></td></tr>
+  <tr style="background:lightgray"><td>AAis4z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najväčší, najlepší, najmenší, najvyšší, najbližší</em></td></tr>
+  <tr><td>AAis5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAis5y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AAis5z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAis6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Novom, Nevskom, Starom, Liptovskom, Čudskom</em></td></tr>
+  <tr><td>AAis6y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčšom, dlhšom, menšom, užšom, prudšom</em></td></tr>
+  <tr style="background:lightgray"><td>AAis6z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najvyššom</em></td></tr>
+  <tr><td>AAis7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Sovietskym, Galaktickým, Veľkomoravským, Farským, Európskym</em></td></tr>
+  <tr style="background:lightgray"><td>AAis7y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>väčším, znesiteľnejším, zložitejším, povoľnejším, nebezpečnejším</em></td></tr>
+  <tr><td>AAis7z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najjednodušším</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Lužickí, Lombardskí, Dharmoví, Boží, Lyonskí</em></td></tr>
+  <tr><td>AAmp1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>starší, bohatší, silnejší, vyšší, mladší</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najlepší, najvýznamnejší, najnebezpečnejší, najvernejší, Najzáhadnejší</em></td></tr>
+  <tr><td>AAmp2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Nových, Dharmových, Kamských, Veľkých, Českých</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>starších, nižších, neskorších, skúsenejších, mladších</em></td></tr>
+  <tr><td>AAmp2z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najvýznamnejších, najväčších, najlepších, najmocnejších, najbohatších</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Lancashirským</em></td></tr>
+  <tr><td>AAmp3y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>mladším, neskorším, lepším, významnejším, starším</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp3z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najlepším, najvyšším, najpozoruhodnejším</em></td></tr>
+  <tr><td>AAmp4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>ostatných, ďalších, mladých, nových, cudzích</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp4y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>mladších, menších, starších, väčších, vyšších</em></td></tr>
+  <tr><td>AAmp4z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najznámejšich</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>milí</em></td></tr>
+  <tr><td>AAmp5y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAmp5z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAmp6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>sexuálnych, zlých, čarodejníckych, operných, egyptských</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp6y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAmp6z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najbližších</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Božími, Zelenými</em></td></tr>
+  <tr><td>AAmp7y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>horšími, väčšími</em></td></tr>
+  <tr style="background:lightgray"><td>AAmp7z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>najväčšími, najvyššími, najlepšími, Najhorlivejšími, najmocnejšími</em></td></tr>
+  <tr><td>AAms1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Veľký, Boží, Hlúpy, Svätý, Sexuálny</em></td></tr>
+  <tr style="background:lightgray"><td>AAms1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Mladší</em></td></tr>
+  <tr><td>AAms1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najväčší</em></td></tr>
+  <tr style="background:lightgray"><td>AAms2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Svätého, Veľkého, Čierneho, Pobožného, Štátneho</em></td></tr>
+  <tr><td>AAms2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Staršieho</em></td></tr>
+  <tr style="background:lightgray"><td>AAms2z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najvyššieho, najmladšieho, najmocnejšieho, najväčšieho, najvplyvnejšieho</em></td></tr>
+  <tr><td>AAms3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Svätému, Anglickému</em></td></tr>
+  <tr style="background:lightgray"><td>AAms3y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>staršiemu, inteligentnejšiemu</em></td></tr>
+  <tr><td>AAms3z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najslabším, Najmladšiemu</em></td></tr>
+  <tr style="background:lightgray"><td>AAms4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Hlúpeho, Čestného, Svätého, Veľkého</em></td></tr>
+  <tr><td>AAms4y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>mladšieho, neskoršieho, Krajšieho, väčšieho, horšieho</em></td></tr>
+  <tr style="background:lightgray"><td>AAms4z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najlepšieho, najväčšieho, najvyššieho, najschopnejšieho, najmocnejšieho</em></td></tr>
+  <tr><td>AAms5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>maličký, zbabelý, milý, malý, dobrotivý</em></td></tr>
+  <tr style="background:lightgray"><td>AAms5y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AAms5z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Najmocnejší, najmilší</em></td></tr>
+  <tr style="background:lightgray"><td>AAms6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>hlavnom, mladom, Veľkom, slávnom, pilnom</em></td></tr>
+  <tr><td>AAms6y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAms6z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najfantastickejšom, najväčšom</em></td></tr>
+  <tr><td>AAms7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Svätým, Božím</em></td></tr>
+  <tr style="background:lightgray"><td>AAms7y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Starším</em></td></tr>
+  <tr><td>AAms7z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>najväčším, najvyšším, najvýznamnejším, najbližším, najdôležitejším</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Zelené, Svetové</em></td></tr>
+  <tr><td>AAnp1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>staršie, neskoršie, Väčšie, mäkšie, Všeobecnejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najznámejšie, najmasovejšie, najtajnejšie</em></td></tr>
+  <tr><td>AAnp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Duchovných</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp2y</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>menších, šikovnejších, významnejších, väčších, novších</em></td></tr>
+  <tr><td>AAnp2z</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najvýznamnejších, najjednoduchších, najvyšších, najrôznejších, najskorších</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Zeleným</em></td></tr>
+  <tr><td>AAnp3y</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>mladším, starším</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp3z</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najobľúbenejším, najväčším, najlepším, najdôležitejším, najzákladnejším</em></td></tr>
+  <tr><td>AAnp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Zelené, Mladé</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp4y</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>vyššie, hrubšie, výhodnejšie, staršie, kratšie</em></td></tr>
+  <tr><td>AAnp4z</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najkrajšie, najbohatšie, najvýznamnejšie, najkľúčovejšie, Najostrejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAnp5y</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAnp5z</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AAnp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Božích</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp6y</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>významnejších, väčších, menších, krajších, skorších</em></td></tr>
+  <tr><td>AAnp6z</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najvyšších, najbližších</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>Zelenými, Chrisovými</em></td></tr>
+  <tr><td>AAnp7y</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>lepšími, menšími</em></td></tr>
+  <tr style="background:lightgray"><td>AAnp7z</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>najvulgárnejšími, najhrubšími, najvyberanejšími, najväčšími</em></td></tr>
+  <tr><td>AAns1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Saské, Grécke, Veľké, Nové, Životné</em></td></tr>
+  <tr style="background:lightgray"><td>AAns1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>lepšie, horšie, dôležitejšie, ľahšie, väčšie</em></td></tr>
+  <tr><td>AAns1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Njhoršie, Najnebezpečečnejšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAns2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Slovenského, Evanjelického, Národného, Britského, Svätého</em></td></tr>
+  <tr><td>AAns2y</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>väčšieho, staršieho, vyššieho, neskoršieho, slabšieho</em></td></tr>
+  <tr style="background:lightgray"><td>AAns2z</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>najlepšieho, najmenšieho, najhoršieho, najhrubšieho, najbližšieho</em></td></tr>
+  <tr><td>AAns3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Kopernikovskemu</em></td></tr>
+  <tr style="background:lightgray"><td>AAns3y</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>hrošiemu</em></td></tr>
+  <tr><td>AAns3z</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>najhoršiemu</em></td></tr>
+  <tr style="background:lightgray"><td>AAns4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Božie, Saské, Sväté, Slobodné, Popradské</em></td></tr>
+  <tr><td>AAns4y</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>väčšie, lepšie, efektívnejšie, dlhšie, menšie</em></td></tr>
+  <tr style="background:lightgray"><td>AAns4z</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>najlepšie, najväčšie, najmenšie, najdôležitejšie, najočividnejšie</em></td></tr>
+  <tr><td>AAns5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>ľudské</em></td></tr>
+  <tr style="background:lightgray"><td>AAns5y</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AAns5z</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AAns6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Dolnom, Stredozemnom, Novom, Južnom, Hornom</em></td></tr>
+  <tr><td>AAns6y</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>vačšom</em></td></tr>
+  <tr style="background:lightgray"><td>AAns6z</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>najmenšom, najbližšom, najširšom, najcitlivejšom, najhoršom</em></td></tr>
+  <tr><td>AAns7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Božím, Červeným, Ladožským, Čiernym, Stredozemným</em></td></tr>
+  <tr style="background:lightgray"><td>AAns7y</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>väčším, lepším, chladnejším, jasnejším, pevnejším</em></td></tr>
+  <tr><td>AAns7z</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>najväčším, najhorším, najmenším, najdôležitejším, najnovším</em></td></tr>
+  <tr style="background:lightgray"><td>AFfp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Nobelove, Božie, Margine, Tomášove, Hromovládcové</em></td></tr>
+  <tr><td>AFfp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Marginých, Božích, Ignácových, Einsteinových, Omarových</em></td></tr>
+  <tr style="background:lightgray"><td>AFfp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Menosovým, Petrovým, Hythlodeovým, Mojžišovým</em></td></tr>
+  <tr><td>AFfp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Mauglího, Herakleiove, Kasandrine, Abdullahove, Snyderove</em></td></tr>
+  <tr style="background:lightgray"><td>AFfp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AFfp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Božích, Morových, Hromádkových, Polybiových, Džafarových</em></td></tr>
+  <tr style="background:lightgray"><td>AFfp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Doležalovými, Marginými, Štefánikovými, Lorentzovými, Menosovými</em></td></tr>
+  <tr><td>AFfs1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Nobelova, Bushova, Lorina, Kristova, Brienova</em></td></tr>
+  <tr style="background:lightgray"><td>AFfs2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Nobelovy</em></td></tr>
+  <tr><td>AFfs3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Doležalovej, Rutherfordovej, Hádovej, Brienovej, Irvingovej</em></td></tr>
+  <tr style="background:lightgray"><td>AFfs4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Winstonovu, Nobelovu, Goldsteinovu, Brienovu, Božiu</em></td></tr>
+  <tr><td>AFfs5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AFfs6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Burchardovej, Anselmovej, Irminej, Vámbéryho, Winstonovej</em></td></tr>
+  <tr><td>AFfs7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Šafárikovou, Ulrichovou, Artemidinou, Kuprinovou, Maximianovou</em></td></tr>
+  <tr style="background:lightgray"><td>AFip1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Hurbanove, Kristove, Iňigove, Faradayove, Hviezdoslavove</em></td></tr>
+  <tr><td>AFip2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Delininých, Karlových, Irminých, Planckových, Teoderichových</em></td></tr>
+  <tr style="background:lightgray"><td>AFip3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Snyderovym</em></td></tr>
+  <tr><td>AFip4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Štefanove, Bibiných, Jupiterove, Kolomanove, Hlinkove</em></td></tr>
+  <tr style="background:lightgray"><td>AFip5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AFip6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Hurbanových, Sokratovych, Morových, Chrisových, Gregorových</em></td></tr>
+  <tr style="background:lightgray"><td>AFip7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Brienovými, Morovými, Štúrovými, Theodosiovými, Profesorovými</em></td></tr>
+  <tr><td>AFis1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Kolomanov, Brienov, Foodov, Lutherov, Hubblov</em></td></tr>
+  <tr style="background:lightgray"><td>AFis2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Cerberovho, Ladislavovho, Kolomanovho, Schwarzschildovho, Winstonovho</em></td></tr>
+  <tr><td>AFis3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Pálffyho, Justiniánovmu, Asparovmu, Dhanandžajovmu, Foodovmu</em></td></tr>
+  <tr style="background:lightgray"><td>AFis4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Morov, Winstonov, Abuov, Emanuelov, Chrisov</em></td></tr>
+  <tr><td>AFis5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AFis6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Kolomanovom, Morovom, Ladislavovom, Lajzerovom, Palkovičovom</em></td></tr>
+  <tr><td>AFis7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Winstonovým, Hubblovým, Tobyho, Lebedevovým, Smithsonovým</em></td></tr>
+  <tr style="background:lightgray"><td>AFmp1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Terkiní</em></td></tr>
+  <tr><td>AFmp2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Jaroslavových, Eugenových, Šápúrových, Fridolínových, Sviatoslavových</em></td></tr>
+  <tr style="background:lightgray"><td>AFmp3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Izjaslavovým, Vladimírovým, Belovým, Mahlerovým, Eugenovým</em></td></tr>
+  <tr><td>AFmp4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Čechovových, Kronových, Jilliných, Lutherových</em></td></tr>
+  <tr style="background:lightgray"><td>AFmp5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AFmp6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>otcových</em></td></tr>
+  <tr style="background:lightgray"><td>AFmp7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>Justiniovými, Ježišovými, Štefánikovými, Harbesovými, Schusterovými</em></td></tr>
+  <tr><td>AFms1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Morov, Málin, Brienov, Sergejov, Titov</em></td></tr>
+  <tr style="background:lightgray"><td>AFms2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Ježišovho, Kuberovho, Šápúrovho, Bernonovho, Formanovho</em></td></tr>
+  <tr><td>AFms3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Kristovmu</em></td></tr>
+  <tr style="background:lightgray"><td>AFms4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Meginho, Marginho, Levovho, Tatkovho, Hormizdovho</em></td></tr>
+  <tr><td>AFms5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AFms6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AFms7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>Hádovým, Faikiným, Hormizdovým, Brežnevovým, Ustašovým</em></td></tr>
+  <tr style="background:lightgray"><td>AFnp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Lorine, Margine, Maurikiove, Ferdove, Baghírove</em></td></tr>
+  <tr><td>AFnp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Winstonových, Faikiných, Brienovych, Chrisových, Júliiných</em></td></tr>
+  <tr style="background:lightgray"><td>AFnp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Asparovým, Morovým, Harbesovým</em></td></tr>
+  <tr><td>AFnp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Parsonsove, Brienove, Závodszkého, Jehovove, Lizine</em></td></tr>
+  <tr style="background:lightgray"><td>AFnp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AFnp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Brienových, Claudianových, Nostradamových, Randersových, Morových</em></td></tr>
+  <tr style="background:lightgray"><td>AFnp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em>Bellovými, Iofontovými, Sokratovými, Lizinými</em></td></tr>
+  <tr><td>AFns1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Speerove</em></td></tr>
+  <tr style="background:lightgray"><td>AFns2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Kolomanovho, Morovho, Lorinho, Ježišovho, Bushovho</em></td></tr>
+  <tr><td>AFns3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Thabitovmu, Kolomanovmu, Justinianovmu, Závodszkého, llarionovmu</em></td></tr>
+  <tr style="background:lightgray"><td>AFns4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Štúrov, Othonove</em></td></tr>
+  <tr><td>AFns5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AFns6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Štefanovom, Adamovom, Kolomanovom, Morovom, Gregorovom</em></td></tr>
+  <tr><td>AFns7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>Pilipovým, Belovým, Morovým, Hegelovým, Kopernikovým</em></td></tr>
+  <tr style="background:lightgray"><td>AUfp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>fajn, nanič</em></td></tr>
+  <tr><td>AUfp1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>radšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUfp1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUfp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>blues</em></td></tr>
+  <tr style="background:lightgray"><td>AUfp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUfp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>web, froté</em></td></tr>
+  <tr style="background:lightgray"><td>AUfp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUfp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>sexy, kaki</em></td></tr>
+  <tr style="background:lightgray"><td>AUfp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUfs1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>rada, super, fit, Nonstop, nanič</em></td></tr>
+  <tr style="background:lightgray"><td>AUfs1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>radšej</em></td></tr>
+  <tr><td>AUfs1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>najradšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUfs2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>country, kaki</em></td></tr>
+  <tr><td>AUfs3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUfs4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Dobrovského</em></td></tr>
+  <tr><td>AUfs5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUfs6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>inkognito, cool, fantasy</em></td></tr>
+  <tr><td>AUfs7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>nonstop</em></td></tr>
+  <tr style="background:lightgray"><td>AUip1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>rady, blond, online, Gama</em></td></tr>
+  <tr><td>AUip1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUip1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUip2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>energy</em></td></tr>
+  <tr style="background:lightgray"><td>AUip3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUip4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>gama, blond, infra, trendy, nóbl</em></td></tr>
+  <tr style="background:lightgray"><td>AUip5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUip6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUip7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUis1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>promo, video, Afro, fondue, extra</em></td></tr>
+  <tr style="background:lightgray"><td>AUis1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>radšej</em></td></tr>
+  <tr><td>AUis1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUis2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>video, transfer, retro, glam</em></td></tr>
+  <tr><td>AUis3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUis4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>audio, video, funky, sound</em></td></tr>
+  <tr><td>AUis5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUis6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AUis7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>line</em></td></tr>
+  <tr style="background:lightgray"><td>AUmp1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>radi, radšej, neradi, Media</em></td></tr>
+  <tr><td>AUmp1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>radšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUmp1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>najradšej</em></td></tr>
+  <tr><td>AUmp2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>top</em></td></tr>
+  <tr style="background:lightgray"><td>AUmp3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>hodným</em></td></tr>
+  <tr><td>AUmp4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>radšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUmp5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUmp6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUmp7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUms1x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>rád, nerád, príma, par, najradšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUms1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>radšej, neradšej</em></td></tr>
+  <tr><td>AUms1z</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>najradšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUms2x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AUms3x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUms4x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>rád</em></td></tr>
+  <tr><td>AUms5x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUms6x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AUms7x</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUnp1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>rady, radi, nonstop, fantasy</em></td></tr>
+  <tr><td>AUnp1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUnp1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUnp2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUnp3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUnp4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUnp5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUnp6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUnp7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>AUns1x</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>fitness, príma, super, fér, rado</em></td></tr>
+  <tr style="background:lightgray"><td>AUns1y</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>radšej</em></td></tr>
+  <tr><td>AUns1z</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Najradšej</em></td></tr>
+  <tr style="background:lightgray"><td>AUns2x</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Top, rock, gama, pop</em></td></tr>
+  <tr><td>AUns3x</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUns4x</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>nonstop</em></td></tr>
+  <tr><td>AUns5x</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>AUns6x</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>AUns7x</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Dx</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em>natešne, intelegentne, nevýslovné, neobvyklé, Uplne</em></td></tr>
+  <tr><td>Dy</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>Rýchlejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Dz</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>najčastejčie</em></td></tr>
+  <tr><td>Eu1</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Nom</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Eu2</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td><em>Od, U, Do, Mimo</em></td></tr>
+  <tr><td>Eu3</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Dat</td><td><em>Proti</em></td></tr>
+  <tr style="background:lightgray"><td>Eu4</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc</td><td><em>ma, sa, ne, k, pre</em></td></tr>
+  <tr><td>Eu6</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Loc</td><td><em>O, Na</em></td></tr>
+  <tr style="background:lightgray"><td>Eu7</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Ins</td><td><em>Medzi, Pod, S</em></td></tr>
+  <tr><td>Ev2</td><td>=&gt;</td><td>ADP</td><td>AdpType=Voc|Case=Gen</td><td><em>so</em></td></tr>
+  <tr style="background:lightgray"><td>Ev3</td><td>=&gt;</td><td>ADP</td><td>AdpType=Voc|Case=Dat</td><td><em>ku</em></td></tr>
+  <tr><td>Ev4</td><td>=&gt;</td><td>ADP</td><td>AdpType=Voc|Case=Acc</td><td><em>vo, predo, nado</em></td></tr>
+  <tr style="background:lightgray"><td>Ev6</td><td>=&gt;</td><td>ADP</td><td>AdpType=Voc|Case=Loc</td><td><em>vo</em></td></tr>
+  <tr><td>Ev7</td><td>=&gt;</td><td>ADP</td><td>AdpType=Voc|Case=Ins</td><td><em>zo, sos</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>obsahujúce, nasledujúce, slúžiace, vládnuce, súvisiace</em></td></tr>
+  <tr><td>Gkfp1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>súvisiach</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>ležiacim, rozpadajúcim, plávajúcim, meniacim, šetriacim</em></td></tr>
+  <tr><td>Gkfp3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>nasledujúce, vynikajúce, súvisiace, vyplývajúce, plávajúce</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>predchádzajúcich, hovoriacich, súvisiacich, využívajúcich, plávajúcich</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfp6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>hmýriacimi, prekvapujúcimi, volajúcimi, vyčerpávajúcimi, vejúcimi</em></td></tr>
+  <tr><td>Gkfp7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfp7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>Spaľujúca</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>prekvapujúcejšia, šokujúcejšia</em></td></tr>
+  <tr><td>Gkfs1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>vládnúcej</em></td></tr>
+  <tr><td>Gkfs2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>upevňujúcej, chýbajúcej, vyplývajúcej, súvisiacej, prenasledujúcej</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>rozhodujúcu, vynikajúcu, vedúcu, obsahujúcu, horiacu</em></td></tr>
+  <tr><td>Gkfs4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>predchádzajúcej, nasledujúcej, potápajúcej, vedúcej, rozhodujúcej</em></td></tr>
+  <tr><td>Gkfs6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>kotúľajúcov</em></td></tr>
+  <tr style="background:lightgray"><td>Gkfs7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkfs7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>obsahujúce, týkajúce, nefungujúce, susediace, riadiace</em></td></tr>
+  <tr><td>Gkip1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>všezahŕňujúcich</em></td></tr>
+  <tr style="background:lightgray"><td>Gkip2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>nabádajúcim, pracujúcim, trvajúcim, porušujúcim, začínajúcim</em></td></tr>
+  <tr><td>Gkip3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>probiehajúce</em></td></tr>
+  <tr style="background:lightgray"><td>Gkip4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>nasledujúcich, predchádzajúcich, súvisiacich, trvajúcich, dymiacich</em></td></tr>
+  <tr style="background:lightgray"><td>Gkip6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkip6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>pribúdajúcimi, traumatizujúcimi, evokujúcimi, nasledujúcimi, podmieňujúcimi</em></td></tr>
+  <tr><td>Gkip7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkip7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>udávajúcí</em></td></tr>
+  <tr style="background:lightgray"><td>Gkis1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>zapáchajúceho, rodiaceho, vyžarujúceho, deliaceho, pripomínajúceho</em></td></tr>
+  <tr><td>Gkis2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>hroziacemu, fungujúcemu, vzrastajúcemu, ochladzujúcemu, veriacemu</em></td></tr>
+  <tr style="background:lightgray"><td>Gkis3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>nasledujúci, rozhodujúci, ospravedlňujúci, kompromitujúci, nadchádzajúci</em></td></tr>
+  <tr><td>Gkis4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>zhrnujúcom</em></td></tr>
+  <tr><td>Gkis6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkis6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>rozhodujúcim, kvitnúcim, udávajúcim, vejúcim, osamostatňujúcim</em></td></tr>
+  <tr style="background:lightgray"><td>Gkis7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkis7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>žijúci, odpudzujúci, vystupujúci, pracujúci, improvizujúci</em></td></tr>
+  <tr><td>Gkmp1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>spochybňujúcim</em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>vedúcim, zhromažďujúcim, uvažujúcim, silnejúcim, veriacim</em></td></tr>
+  <tr><td>Gkmp3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>vedúcich, prichádzajúcich, nakladajúcich, patriacich, odchádzajúcich</em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>prichádzajúcich, bojujúcich</em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkmp6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>žijúcimi, predchádzajúcimi, živiacim, vedúcimi, zjednocujúcimi</em></td></tr>
+  <tr><td>Gkmp7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkmp7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>vládnuci, vynikajúci, milujúci, predsedajúci, prichádzajúci</em></td></tr>
+  <tr style="background:lightgray"><td>Gkms1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>vládnúceho</em></td></tr>
+  <tr><td>Gkms2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>Neveriacemu, onanujúcemu, stelesňujúcemu, pôsobiacemu, pracujúcemu</em></td></tr>
+  <tr style="background:lightgray"><td>Gkms3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>službukonajúceho, príchodiaceho, obetujúceho, cvičiaceho, trasúceho</em></td></tr>
+  <tr><td>Gkms4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>nastávajúcom</em></td></tr>
+  <tr><td>Gkms6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkms6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>žijúcim, stojacim, vedúcim, previnivším, vynikajúcim</em></td></tr>
+  <tr style="background:lightgray"><td>Gkms7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkms7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>ležiace, hladujúce, Hypnotizujúce, rozpadajúce, Provokujúce</em></td></tr>
+  <tr><td>Gknp1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>žijúcich, vyplývajúcich, nasledujúcich, rozhodujúcich, túžiacich</em></td></tr>
+  <tr style="background:lightgray"><td>Gknp2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>zodpovedajúcim, týkajúcim, predchádzajúcim, vlniacim</em></td></tr>
+  <tr><td>Gknp3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>týkajúce, zodpovedajúce, zabezpečujúce, strhujúce, odlišujúce</em></td></tr>
+  <tr style="background:lightgray"><td>Gknp4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>nasledujúcich, vzťahujúcich, pohlcujúcich</em></td></tr>
+  <tr style="background:lightgray"><td>Gknp6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gknp6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em>prečnievajúcimi, spiacimi, zodpovedajúcimi, prekvapujúcimi, horiacimi</em></td></tr>
+  <tr><td>Gknp7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gknp7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>Riadiace</em></td></tr>
+  <tr style="background:lightgray"><td>Gkns1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>prekvapujúcejšie</em></td></tr>
+  <tr><td>Gkns1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>odchádzajúceho, zapadajúceho, ležiaceho, odzbrojujúceho, existujúceho</em></td></tr>
+  <tr><td>Gkns2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>rozhodujúcemu, potvrdzujúcemu, splývajúcemu, pretrvávajúcemu, nasledujúcemu</em></td></tr>
+  <tr style="background:lightgray"><td>Gkns3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>spiace, rozhodujúce, nasledujúce, plniace, podnecujúce</em></td></tr>
+  <tr><td>Gkns4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>nasledujúcom, vzrušujúcom, sliepňajúcom, nadchádzajúcom, vedúcom</em></td></tr>
+  <tr><td>Gkns6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gkns6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em>vychádzajúcim, škrípajúcim, rozhodujúcim, zatieňujúcim, rozkladajúcim</em></td></tr>
+  <tr style="background:lightgray"><td>Gkns7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Gkns7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Ozbrojené, Utajené</em></td></tr>
+  <tr><td>Gtfp1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>umiernenejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najpoužívanejšie</em></td></tr>
+  <tr><td>Gtfp2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Ozbrojených, Aktualizovaných</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfp2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najvzdelanejších, najpredávanejších</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>namaľovaným, zalomeným, pripravovaným, vzdialeným, sofistikovaným</em></td></tr>
+  <tr><td>Gtfp3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>vzdialenejším</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfp4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>ozbrojené, zložené, odložené, spojené, spútané</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>vzdialenejšie, ucelenejšie</em></td></tr>
+  <tr><td>Gtfp4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najkomplikovanejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfp5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfp6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Odmietnutých</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfp6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>skríženými, založenými, zopnutými, rozostavenými, nafarbenými</em></td></tr>
+  <tr><td>Gtfp7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfp7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najobľúbenejšími</em></td></tr>
+  <tr><td>Gtfs1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Sedembodkovaná, Zasľúbená</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>podráždenejšia, zmätenejšia, vyčerpanejšia, vzdialenejšia, uhladenejšia</em></td></tr>
+  <tr><td>Gtfs1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najvznešenejšia, najvydávanejšia, najčítanejšia</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>ocenené</em></td></tr>
+  <tr><td>Gtfs2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>otvorenejšej</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najvydávanejšej</em></td></tr>
+  <tr><td>Gtfs3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Spojenej</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfs3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zakázanú</em></td></tr>
+  <tr><td>Gtfs4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>umiernenejšiu</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfs5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfs5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zakázanej</em></td></tr>
+  <tr><td>Gtfs6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtfs7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>opísanom</em></td></tr>
+  <tr style="background:lightgray"><td>Gtfs7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>skúsenejšou</em></td></tr>
+  <tr><td>Gtfs7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najrozšírenejšou, najotvorenejšou, najvydávanejšou, najpoužívanejšou, Najzavrhnutejšou</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Spojené, Nedokončené, Realizované, Oživené</em></td></tr>
+  <tr><td>Gtip1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtip1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Spojených</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najvzdialenejších</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>voleným, zakalenému, vybraným, vzdialeným, podrobovaným</em></td></tr>
+  <tr><td>Gtip3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtip3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najobľúbenejším</em></td></tr>
+  <tr><td>Gtip4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Oživené</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najhranejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtip5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Spojených, Realizovaných</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtip6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtip7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>tráviacími</em></td></tr>
+  <tr><td>Gtip7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>vzdialenejšími, špecializovanejšími</em></td></tr>
+  <tr style="background:lightgray"><td>Gtip7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtis1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>prichystraný, rozdelený</em></td></tr>
+  <tr style="background:lightgray"><td>Gtis1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>skalenejší</em></td></tr>
+  <tr><td>Gtis1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>nejobľúbenejší</em></td></tr>
+  <tr style="background:lightgray"><td>Gtis2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>prechádzajeho</em></td></tr>
+  <tr><td>Gtis2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtis2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtis3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>organizovanému, nazývanému, vyvrátenému, novozaloženému, vypitému</em></td></tr>
+  <tr style="background:lightgray"><td>Gtis3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtis3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtis4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>nečkaný, plánový</em></td></tr>
+  <tr><td>Gtis4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtis4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najvzdialenejší</em></td></tr>
+  <tr><td>Gtis5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtis5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtis5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtis6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>danom, vzdialenom, spomínanom, citovanom, nazývanom</em></td></tr>
+  <tr><td>Gtis6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>vzdialenejšom</em></td></tr>
+  <tr style="background:lightgray"><td>Gtis6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtis7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>zatajeným, nečakaným, zakriveným, zahnutým, zvýšeným</em></td></tr>
+  <tr style="background:lightgray"><td>Gtis7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>zafarbenejším</em></td></tr>
+  <tr><td>Gtis7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najpredávanejším</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>Vycvičení, Porazení</em></td></tr>
+  <tr><td>Gtmp1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>vzdelanejší</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najzapálenejší, najmotivovanejší</em></td></tr>
+  <tr><td>Gtmp2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>oslvených</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najnadanejších</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>uctievaným, zúčastneným, ozbrojeným, perzekuovaným, narodeným</em></td></tr>
+  <tr><td>Gtmp3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>nasáškovaných</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>obesených</em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtmp6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>volenými, neviazanými, ordinovanými, sofistikovanými, premúdrenými</em></td></tr>
+  <tr><td>Gtmp7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtmp7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najváženejšími</em></td></tr>
+  <tr><td>Gtms1x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zhlúpnutý, Zamilovaný, Znovuzvolený</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms1y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms1z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najuznávanejší</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms2x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zhlúpnutého</em></td></tr>
+  <tr><td>Gtms2y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>skúsenejšieho</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms2z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms3x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zhlúpnutému, Vzkriesenému</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms3y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms3z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtms4x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zhlúpnutého</em></td></tr>
+  <tr><td>Gtms4y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtms4z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms5x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>šialený, Vážený</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms5y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms5z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtms6x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Zamilovanom, Vzkriesenom</em></td></tr>
+  <tr><td>Gtms6y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtms6z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms7x</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>porazeným, plateným, nenarodeným, vznešeným, spomínaným</em></td></tr>
+  <tr style="background:lightgray"><td>Gtms7y</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtms7z</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>porazene</em></td></tr>
+  <tr><td>Gtnp1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>chránených, spomenutých, uvedených, spôsobených, zameraných</em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>premnoženým, nakloneným, stelesneným, citovaným, odrasteným</em></td></tr>
+  <tr><td>Gtnp3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>zoskupené, povylepované, vyberané, zamerané, otvorené</em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>vyberanejšie</em></td></tr>
+  <tr><td>Gtnp4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>najvyberanejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>oživených, neprivolaných, osvetlených, uvedených, krytých</em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtnp6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em>otvorenými, zatvorenými, privretými, spotenými, zdeformovanými</em></td></tr>
+  <tr><td>Gtnp7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtnp7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns1x</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Riadiace, Spojené</em></td></tr>
+  <tr style="background:lightgray"><td>Gtns1y</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns1z</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najučenejšie</em></td></tr>
+  <tr style="background:lightgray"><td>Gtns2x</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Spojeného</em></td></tr>
+  <tr><td>Gtns2y</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns2z</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns3x</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>otvorenému, osamotenému, obohatenému, zvetranému, vyslovenému</em></td></tr>
+  <tr style="background:lightgray"><td>Gtns3y</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns3z</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns4x</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Spojené</em></td></tr>
+  <tr><td>Gtns4y</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns4z</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najobľúbenejšie</em></td></tr>
+  <tr><td>Gtns5x</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns5y</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns5z</td><td>=&gt;</td><td>VERB</td><td>Case=Voc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns6x</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>Spojenom</em></td></tr>
+  <tr><td>Gtns6y</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Gtns6z</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>najvyľudnenejšom</em></td></tr>
+  <tr><td>Gtns7x</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em>otvoreným, zmiešaným, odrazeným, spomenutým, stiahnutým</em></td></tr>
+  <tr style="background:lightgray"><td>Gtns7y</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Gtns7z</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Degree=Sup|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>J</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>STOP</em></td></tr>
+  <tr><td>NAfp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>prvé, mnohé, druhé, posledné, ostatné</em></td></tr>
+  <tr style="background:lightgray"><td>NAfp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>mnohých, prvých, šestnástych, posledných, druhých</em></td></tr>
+  <tr><td>NAfp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>mnohým, posledným, viacerým</em></td></tr>
+  <tr style="background:lightgray"><td>NAfp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>prvé, mnohé, posledné, druhé, ostatné</em></td></tr>
+  <tr><td>NAfp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NAfp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>prvých, posledných, mnohých, osemnástych, druhých</em></td></tr>
+  <tr><td>NAfp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>mnohými, prvými, ostatnými</em></td></tr>
+  <tr style="background:lightgray"><td>NAfs1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Tretia, Prvá, Posledná</em></td></tr>
+  <tr><td>NAfs2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Druhej, Prvej</em></td></tr>
+  <tr style="background:lightgray"><td>NAfs3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>druhej, prvej, deviatej, ôsmej, jedinej</em></td></tr>
+  <tr><td>NAfs4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Tretiu, Štvrtú, Druhú</em></td></tr>
+  <tr style="background:lightgray"><td>NAfs5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NAfs6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Druhej, Prvej, Tretej</em></td></tr>
+  <tr style="background:lightgray"><td>NAfs7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Druhou, Treťou</em></td></tr>
+  <tr><td>NAip1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Posledné</em></td></tr>
+  <tr style="background:lightgray"><td>NAip2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>šesťdesiatych, mnohých, osemdesiatych, tridsiatych, prvých</em></td></tr>
+  <tr><td>NAip3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>dvadsiatym, mnohým</em></td></tr>
+  <tr style="background:lightgray"><td>NAip4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>posledné, mnohé, prvé, päťdesiate, šesťdesiate</em></td></tr>
+  <tr><td>NAip5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NAip6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>prvých, mnohých, päťdesiatych, posledných, šesťdesiatych</em></td></tr>
+  <tr><td>NAip7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>mnohými, prvými, ostatnými, storakými, dvadsiatymi</em></td></tr>
+  <tr style="background:lightgray"><td>NAis1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Prvý, Druhý, Tretí</em></td></tr>
+  <tr><td>NAis2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhého, jediného, prvého, posledného, tretieho</em></td></tr>
+  <tr style="background:lightgray"><td>NAis3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhému, prvému, jedinému, poslednému</em></td></tr>
+  <tr><td>NAis4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Piaty, Jedenásty, Tretí</em></td></tr>
+  <tr style="background:lightgray"><td>NAis5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NAis6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Piatom</em></td></tr>
+  <tr style="background:lightgray"><td>NAis7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>drahým</em></td></tr>
+  <tr><td>NAmp1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>ostatní</em></td></tr>
+  <tr style="background:lightgray"><td>NAmp2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>ostatných</em></td></tr>
+  <tr><td>NAmp3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>druhým, ostatným, mnohým</em></td></tr>
+  <tr style="background:lightgray"><td>NAmp4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>mnohých, ostatných, prvých, druhých, viacerých</em></td></tr>
+  <tr><td>NAmp5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NAmp6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>druhých</em></td></tr>
+  <tr><td>NAmp7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>prvými</em></td></tr>
+  <tr style="background:lightgray"><td>NAms1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>prvý, jediný, druhý, posledný, tretí</em></td></tr>
+  <tr><td>NAms2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhého, prvého, jediného, tretieho, posledného</em></td></tr>
+  <tr style="background:lightgray"><td>NAms3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhému, jedinému, prvému, poslednému, tretiemu</em></td></tr>
+  <tr><td>NAms4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhého, jediného, prvého, tretieho, posledného</em></td></tr>
+  <tr style="background:lightgray"><td>NAms5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NAms6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>druhom</em></td></tr>
+  <tr style="background:lightgray"><td>NAms7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>prvým, druhým, jediným, posledným, štvrtým</em></td></tr>
+  <tr><td>NAnp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>mnohé, prvé, posledné, ostatné</em></td></tr>
+  <tr style="background:lightgray"><td>NAnp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>mnohých, druhých, prvých, posledných</em></td></tr>
+  <tr><td>NAnp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>ostatným, mnohým</em></td></tr>
+  <tr style="background:lightgray"><td>NAnp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>posledné, mnohé, jediné, prvé, Druhých</em></td></tr>
+  <tr><td>NAnp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NAnp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>prvých, mnohých</em></td></tr>
+  <tr><td>NAnp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>mnohými, druhými</em></td></tr>
+  <tr style="background:lightgray"><td>NAns1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>jediné, prvé, druhé, posledné, tretie</em></td></tr>
+  <tr><td>NAns2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>prvého, dvadsiateho, jediného, druhého, devätnásteho</em></td></tr>
+  <tr style="background:lightgray"><td>NAns3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>mnohému, jedinému</em></td></tr>
+  <tr><td>NAns4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>prvné</em></td></tr>
+  <tr style="background:lightgray"><td>NAns5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NAns6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>devetnástom</em></td></tr>
+  <tr style="background:lightgray"><td>NAns7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>jediným, druhým, prvým, jedenástym, posledným</em></td></tr>
+  <tr><td>ND</td><td>=&gt;</td><td>NUM</td><td>MorphPos=Adv</td><td><em>šivornásobne, desetitisíckrát, niekoľkorát</em></td></tr>
+  <tr style="background:lightgray"><td>NFfp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>jedny</em></td></tr>
+  <tr><td>NFfp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFfp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFfp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>jedny</em></td></tr>
+  <tr style="background:lightgray"><td>NFfp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFfp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFfp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFfs1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jedna, jedná, nejedna</em></td></tr>
+  <tr style="background:lightgray"><td>NFfs2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jednej</em></td></tr>
+  <tr><td>NFfs3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jednej</em></td></tr>
+  <tr style="background:lightgray"><td>NFfs4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jednu, ľahkovážnu</em></td></tr>
+  <tr><td>NFfs5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFfs6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jednej</em></td></tr>
+  <tr><td>NFfs7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>jednou</em></td></tr>
+  <tr style="background:lightgray"><td>NFip1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>jedny</em></td></tr>
+  <tr><td>NFip2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFip3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFip4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFip5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFip6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>piatich</em></td></tr>
+  <tr style="background:lightgray"><td>NFip7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFis1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jeden</em></td></tr>
+  <tr style="background:lightgray"><td>NFis2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jedného</em></td></tr>
+  <tr><td>NFis3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jednému</em></td></tr>
+  <tr style="background:lightgray"><td>NFis4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jeden, jednu, nejeden</em></td></tr>
+  <tr><td>NFis5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFis6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jednom, nejednom</em></td></tr>
+  <tr><td>NFis7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jedným</em></td></tr>
+  <tr style="background:lightgray"><td>NFmp1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>jedni</em></td></tr>
+  <tr><td>NFmp2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em>jedných</em></td></tr>
+  <tr style="background:lightgray"><td>NFmp3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFmp4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFmp5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFmp6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFmp7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFms1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jeden</em></td></tr>
+  <tr style="background:lightgray"><td>NFms2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jedného</em></td></tr>
+  <tr><td>NFms3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jednému</em></td></tr>
+  <tr style="background:lightgray"><td>NFms4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jedného</em></td></tr>
+  <tr><td>NFms5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFms6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jednom</em></td></tr>
+  <tr><td>NFms7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Sing</td><td><em>jedním</em></td></tr>
+  <tr style="background:lightgray"><td>NFnp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFnp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFnp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFnp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFnp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFnp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NFnp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NFns1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jedno, jeden, Nejedno, jedna</em></td></tr>
+  <tr style="background:lightgray"><td>NFns2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jedného</em></td></tr>
+  <tr><td>NFns3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jednému</em></td></tr>
+  <tr style="background:lightgray"><td>NFns4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jedno, jeden, nejedno</em></td></tr>
+  <tr><td>NFns5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jedno</em></td></tr>
+  <tr style="background:lightgray"><td>NFns6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jednom</em></td></tr>
+  <tr><td>NFns7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Mix|Number=Sing</td><td><em>jedným</em></td></tr>
+  <tr style="background:lightgray"><td>NNfp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>Štyri, Tri, Dve</em></td></tr>
+  <tr><td>NNfp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>Troch</em></td></tr>
+  <tr style="background:lightgray"><td>NNfp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>dvom, trom, obidvom</em></td></tr>
+  <tr><td>NNfp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>Tri</em></td></tr>
+  <tr style="background:lightgray"><td>NNfp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NNfp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>dvoch, troch, oboch, obidvoch, štyroch</em></td></tr>
+  <tr style="background:lightgray"><td>NNfp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Num|Number=Plur</td><td><em>dvoma, oboma, tromi, štyrmi, obidvoma</em></td></tr>
+  <tr><td>NNip1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>Tri, Štyri, Dva</em></td></tr>
+  <tr style="background:lightgray"><td>NNip2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dvoch, troch, štyroch, oboch, obidvoch</em></td></tr>
+  <tr><td>NNip3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dvom, trom</em></td></tr>
+  <tr style="background:lightgray"><td>NNip4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dva, tri, štyri, oba, obidva</em></td></tr>
+  <tr><td>NNip5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NNip6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dvoch, oboch, troch, štyroch, obidvoch</em></td></tr>
+  <tr><td>NNip7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dvoma, troma, štyrmi, dvomi, tromi</em></td></tr>
+  <tr style="background:lightgray"><td>NNmp1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>Traja</em></td></tr>
+  <tr><td>NNmp2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>Troch</em></td></tr>
+  <tr style="background:lightgray"><td>NNmp3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>obom, obidvom, dvom, trom</em></td></tr>
+  <tr><td>NNmp4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>Troch</em></td></tr>
+  <tr style="background:lightgray"><td>NNmp5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NNmp6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>troch, dvoch</em></td></tr>
+  <tr style="background:lightgray"><td>NNmp7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Num|Number=Plur</td><td><em>dvoma, oboma, troma, tromi, obidvoma</em></td></tr>
+  <tr><td>NNnp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>Tri</em></td></tr>
+  <tr style="background:lightgray"><td>NNnp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>dvoch, troch, obidvoch, oboch, štyroch</em></td></tr>
+  <tr><td>NNnp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>štyrom</em></td></tr>
+  <tr style="background:lightgray"><td>NNnp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>dva</em></td></tr>
+  <tr><td>NNnp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NNnp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>dvoch, troch, obom, štyroch, obidvoch</em></td></tr>
+  <tr><td>NNnp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Num|Number=Plur</td><td><em>dvoma, tromi, oboma, štyrmi, troma</em></td></tr>
+  <tr style="background:lightgray"><td>NSfp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>miliardy</em></td></tr>
+  <tr><td>NSfp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>miliárd, núl, pätín</em></td></tr>
+  <tr style="background:lightgray"><td>NSfp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NSfp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>miliardy, nuly, tretiny</em></td></tr>
+  <tr style="background:lightgray"><td>NSfp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NSfp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSfp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>miliardami</em></td></tr>
+  <tr><td>NSfs1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>väčšina, miliarda, tretina, polovica, osmina</em></td></tr>
+  <tr style="background:lightgray"><td>NSfs2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>miliardy, tretiny, dvadsaťmilióntiny, stotiny</em></td></tr>
+  <tr><td>NSfs3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>nule, väčšine</em></td></tr>
+  <tr style="background:lightgray"><td>NSfs4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>trochu, väčšinu, tretinu, dvadsiatku, päťdesiatku</em></td></tr>
+  <tr><td>NSfs5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSfs6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>nule, štvrtine</em></td></tr>
+  <tr><td>NSfs7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSip1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>milióny, tisíce, státisíce, razy</em></td></tr>
+  <tr><td>NSip2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>milióny</em></td></tr>
+  <tr style="background:lightgray"><td>NSip3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>desaťtisícom, miliónom</em></td></tr>
+  <tr><td>NSip4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>razy, milióny, tisíce</em></td></tr>
+  <tr style="background:lightgray"><td>NSip5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NSip6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSip7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>miliónmi</em></td></tr>
+  <tr><td>NSis1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>raz, milión, Neraz</em></td></tr>
+  <tr style="background:lightgray"><td>NSis2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>milióna</em></td></tr>
+  <tr><td>NSis3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSis4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>raz, milión</em></td></tr>
+  <tr><td>NSis5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NSis6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>milióne</em></td></tr>
+  <tr><td>NSis7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>miliónom</em></td></tr>
+  <tr style="background:lightgray"><td>NUfp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>viaceré, mnohé, štvrte, šesť</em></td></tr>
+  <tr><td>NUfp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>viacerých, siedmich, mnohých, piatich, dvadsiatich</em></td></tr>
+  <tr style="background:lightgray"><td>NUfp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>mnohým, piatim</em></td></tr>
+  <tr><td>NUfp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>viaceré, mnohé, deväťdesiat, desať, šesť</em></td></tr>
+  <tr style="background:lightgray"><td>NUfp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NUfp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>tisicoch</em></td></tr>
+  <tr style="background:lightgray"><td>NUfp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>mnohými, ôsmimi, desiatimi, viacerými, siedmimi</em></td></tr>
+  <tr><td>NUip1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>tisíce, mnohé, viaceré, veľa, pár</em></td></tr>
+  <tr style="background:lightgray"><td>NUip2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>mnohých, desiatich, viacerých, tisíc, piatich</em></td></tr>
+  <tr><td>NUip3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>siedmim</em></td></tr>
+  <tr style="background:lightgray"><td>NUip4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>vieceré</em></td></tr>
+  <tr><td>NUip5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUip6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>mnohých, dvadsiatich, šiestich, deviatich, desiatich</em></td></tr>
+  <tr><td>NUip7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>pár, desiatimi, siedmimi, mnohými, piatimi</em></td></tr>
+  <tr style="background:lightgray"><td>NUis1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>pol, veľa, pár</em></td></tr>
+  <tr><td>NUis2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>poldruha, menej</em></td></tr>
+  <tr style="background:lightgray"><td>NUis3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NUis4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>pár, päť</em></td></tr>
+  <tr style="background:lightgray"><td>NUis5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>NUis6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>tisíc, menej</em></td></tr>
+  <tr style="background:lightgray"><td>NUis7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>poldruha</em></td></tr>
+  <tr><td>NUmp1</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>mnohí, viacerí, šiesti, piati, siedmi</em></td></tr>
+  <tr style="background:lightgray"><td>NUmp2</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>viacerých, veľa, šiestich, piatich, mnohých</em></td></tr>
+  <tr><td>NUmp3</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>mnohým, siedmim, piatim, dvanástim, desiatim</em></td></tr>
+  <tr style="background:lightgray"><td>NUmp4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>piatich, viacerých, mnohých, stopäťdesiat, sto</em></td></tr>
+  <tr><td>NUmp5</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUmp6</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>siedmych, mnohých, dvanástich</em></td></tr>
+  <tr><td>NUmp7</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>mnohými, desiatimi, dvadsiatimi, tisícimi, siedmimi</em></td></tr>
+  <tr style="background:lightgray"><td>NUnp1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>viaceré, päť, mnohé, jedenásť, tridsaťosem</em></td></tr>
+  <tr><td>NUnp2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>mnohých, viacerých, siedmich, piatich, osemdesiatich</em></td></tr>
+  <tr style="background:lightgray"><td>NUnp3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NUnp4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>päť, desať, sedem, viaceré, tisíc</em></td></tr>
+  <tr style="background:lightgray"><td>NUnp5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>NUnp6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>viacerých, piatich, veľa, desiatich, mnohých</em></td></tr>
+  <tr style="background:lightgray"><td>NUnp7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>desiatimi, dvanástimi, tridsiatimi, mnohými</em></td></tr>
+  <tr><td>NUns1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Štyridsať, Osem, Šesť, Dvanásť</em></td></tr>
+  <tr style="background:lightgray"><td>NUns2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>pol, viacej, dvesto, trochu, desať</em></td></tr>
+  <tr><td>NUns3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>málo, pár</em></td></tr>
+  <tr style="background:lightgray"><td>NUns4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>viac, veľa, zopár, desať, päť</em></td></tr>
+  <tr><td>NUns5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>NUns6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>pol, mnohom, pár, mnoho, šesť</em></td></tr>
+  <tr><td>NUns7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>viac, pár, päť</em></td></tr>
+  <tr style="background:lightgray"><td>O</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>Ako</em></td></tr>
+  <tr><td>OY</td><td>=&gt;</td><td>CONJ</td><td>Mood=Cnd</td><td><em>aby, akoby, keby, Žeby, Niežeby</em></td></tr>
+  <tr style="background:lightgray"><td>PAfp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>které, ktorí, takého</em></td></tr>
+  <tr><td>PAfp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>niekorých</em></td></tr>
+  <tr style="background:lightgray"><td>PAfp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorým, niektorým, iným, takým, istým</em></td></tr>
+  <tr><td>PAfp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktoré</em></td></tr>
+  <tr style="background:lightgray"><td>PAfp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PAfp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, niektorých, iných, takýchto, takých</em></td></tr>
+  <tr style="background:lightgray"><td>PAfp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorými, inými, akými, niektorými, takýmito</em></td></tr>
+  <tr><td>PAfs1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>takatá</em></td></tr>
+  <tr style="background:lightgray"><td>PAfs2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>teto</em></td></tr>
+  <tr><td>PAfs3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorej, každej, takej, nijakej, akejkoľvek</em></td></tr>
+  <tr style="background:lightgray"><td>PAfs4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorý</em></td></tr>
+  <tr><td>PAfs5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PAfs6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorom</em></td></tr>
+  <tr><td>PAfs7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>istou</em></td></tr>
+  <tr style="background:lightgray"><td>PAip1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorý</em></td></tr>
+  <tr><td>PAip2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, iných, niektorých, takýchto, takých</em></td></tr>
+  <tr style="background:lightgray"><td>PAip3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>niektorých</em></td></tr>
+  <tr><td>PAip4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktoré, také, iné, niektoré, nijaké</em></td></tr>
+  <tr style="background:lightgray"><td>PAip5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PAip6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, niektorých, iných, takých, akých</em></td></tr>
+  <tr style="background:lightgray"><td>PAip7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorými, inými, akými, niektorými, niekoľkými</em></td></tr>
+  <tr><td>PAis1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorí</em></td></tr>
+  <tr style="background:lightgray"><td>PAis2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>nejakej</em></td></tr>
+  <tr><td>PAis3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorému, inému, nejakému, každému, istému</em></td></tr>
+  <tr style="background:lightgray"><td>PAis4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorý, ktorí</em></td></tr>
+  <tr><td>PAis5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PAis6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>istom</em></td></tr>
+  <tr><td>PAis7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorým, akým, akýmsi, takým, každým</em></td></tr>
+  <tr style="background:lightgray"><td>PAmp1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>nejakí</em></td></tr>
+  <tr><td>PAmp2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, iných, niektorých, takých, akých</em></td></tr>
+  <tr style="background:lightgray"><td>PAmp3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorým, iným, niektorým, takýmto, takým</em></td></tr>
+  <tr><td>PAmp4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, iných, niektorých, takých, akých</em></td></tr>
+  <tr style="background:lightgray"><td>PAmp5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PAmp6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, samých, niektorých</em></td></tr>
+  <tr style="background:lightgray"><td>PAmp7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorými, inými, niektorými, samými, akými</em></td></tr>
+  <tr><td>PAms1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>akí, ktorí</em></td></tr>
+  <tr style="background:lightgray"><td>PAms2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorého, každého, niektorého, iného, nejakého</em></td></tr>
+  <tr><td>PAms3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorému, každému, inému, niektorému, nejakému</em></td></tr>
+  <tr style="background:lightgray"><td>PAms4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorého, každého, iného, akého, takého</em></td></tr>
+  <tr><td>PAms5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>taký</em></td></tr>
+  <tr style="background:lightgray"><td>PAms6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorom, každom, inom, nejakom, akom</em></td></tr>
+  <tr><td>PAms7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorým, iným, nejakým, akým, každým</em></td></tr>
+  <tr style="background:lightgray"><td>PAnp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>niekteré, ktorí, ktorého</em></td></tr>
+  <tr><td>PAnp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, iných, niektorých, takýchto, akých</em></td></tr>
+  <tr style="background:lightgray"><td>PAnp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorým, niektorým, iným, istým, takým</em></td></tr>
+  <tr><td>PAnp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorá</em></td></tr>
+  <tr style="background:lightgray"><td>PAnp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>akési</em></td></tr>
+  <tr><td>PAnp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorých, niektorých, iných, takých, takýchto</em></td></tr>
+  <tr style="background:lightgray"><td>PAnp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>inými, ktorými, takými, niektorými, takýmito</em></td></tr>
+  <tr><td>PAns1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorá, Ake</em></td></tr>
+  <tr style="background:lightgray"><td>PAns2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>thto</em></td></tr>
+  <tr><td>PAns3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorému, takému, žiadnemu, nejakému, akému</em></td></tr>
+  <tr style="background:lightgray"><td>PAns4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>každé, Isté</em></td></tr>
+  <tr><td>PAns5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PAns6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>ktorom, inom, každom, takom, istom</em></td></tr>
+  <tr><td>PAns7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Sing|PronType=Prs</td><td><em>toľkým</em></td></tr>
+  <tr style="background:lightgray"><td>PD</td><td>=&gt;</td><td>PRON</td><td>MorphPos=Adv|PronType=Prs</td><td><em>Ako, Nikde, tak, Niekde</em></td></tr>
+  <tr><td>PFfp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>všetky, tie, tieto, moje, naše</em></td></tr>
+  <tr style="background:lightgray"><td>PFfp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, všetkých, svojich, týchto, tých</em></td></tr>
+  <tr><td>PFfp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>im, svojim, nim, všetkým, týmto</em></td></tr>
+  <tr style="background:lightgray"><td>PFfp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>svojej</em></td></tr>
+  <tr><td>PFfp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PFfp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>všetkych</em></td></tr>
+  <tr><td>PFfp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nimi, svojimi, všetkými, týmito, tými</em></td></tr>
+  <tr style="background:lightgray"><td>PFfs1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>tato, Ta, všetko</em></td></tr>
+  <tr><td>PFfs2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojej, Vašej</em></td></tr>
+  <tr style="background:lightgray"><td>PFfs3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojej</em></td></tr>
+  <tr><td>PFfs4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Vašu</em></td></tr>
+  <tr style="background:lightgray"><td>PFfs5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>moja, vaša</em></td></tr>
+  <tr><td>PFfs6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojej</em></td></tr>
+  <tr style="background:lightgray"><td>PFfs7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojou</em></td></tr>
+  <tr><td>PFip1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>všetky, tieto, tie, moje, naše</em></td></tr>
+  <tr style="background:lightgray"><td>PFip2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>všetkých, nich, týchto, tých, svojich</em></td></tr>
+  <tr><td>PFip3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>im, nim, všetkým, svojim, týmto</em></td></tr>
+  <tr style="background:lightgray"><td>PFip4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>Vaše</em></td></tr>
+  <tr><td>PFip5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PFip6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, všetkých, tých, svojich, týchto</em></td></tr>
+  <tr><td>PFip7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nimi, svojimi, týmito, tými, všetkými</em></td></tr>
+  <tr style="background:lightgray"><td>PFis1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>ten, tento, môj, náš, sám</em></td></tr>
+  <tr><td>PFis2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>muojho, jednoho</em></td></tr>
+  <tr style="background:lightgray"><td>PFis2g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>doň, doňho</em></td></tr>
+  <tr><td>PFis3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>svojmu, nemu, tomuto, mu, tomu</em></td></tr>
+  <tr style="background:lightgray"><td>PFis4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>svôj</em></td></tr>
+  <tr><td>PFis4g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>naň, zaň, preň, oň, poň</em></td></tr>
+  <tr style="background:lightgray"><td>PFis5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PFis6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>tom, tomto, ňom, svojom, mojom</em></td></tr>
+  <tr style="background:lightgray"><td>PFis7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojím</em></td></tr>
+  <tr><td>PFmp1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>Našich</em></td></tr>
+  <tr style="background:lightgray"><td>PFmp2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, všetkých, tých, svojich, ich</em></td></tr>
+  <tr><td>PFmp3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>ním, svojím</em></td></tr>
+  <tr style="background:lightgray"><td>PFmp4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>svojích</em></td></tr>
+  <tr><td>PFmp5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PFmp6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, tých, všetkých, týchto, tvojich</em></td></tr>
+  <tr><td>PFmp7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nimi, svojimi, tými, všetkými, týmito</em></td></tr>
+  <tr style="background:lightgray"><td>PFms1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>On, Ten, Kto, Tvoj</em></td></tr>
+  <tr><td>PFms2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Neho, Ho</em></td></tr>
+  <tr style="background:lightgray"><td>PFms2g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>doňho, uňho, doň</em></td></tr>
+  <tr><td>PFms3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Nemu, Mu, Tvojmu</em></td></tr>
+  <tr style="background:lightgray"><td>PFms4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Ho</em></td></tr>
+  <tr><td>PFms4g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>naňho, preňho, naň, zaňho, oňho</em></td></tr>
+  <tr style="background:lightgray"><td>PFms5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>môj, náš</em></td></tr>
+  <tr><td>PFms6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>ňom, svojom, kom, niekom, tomto</em></td></tr>
+  <tr style="background:lightgray"><td>PFms7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Ním</em></td></tr>
+  <tr><td>PFnp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>tie, všetky, tieto, moje, naše</em></td></tr>
+  <tr style="background:lightgray"><td>PFnp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, týchto, svojich, tých, všetkých</em></td></tr>
+  <tr><td>PFnp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>im, tým, svojim, týmto, našim</em></td></tr>
+  <tr style="background:lightgray"><td>PFnp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>Vaše</em></td></tr>
+  <tr><td>PFnp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PFnp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nich, svojich, týchto, všetkých, tých</em></td></tr>
+  <tr><td>PFnp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Mix|Number=Plur|PronType=Prs</td><td><em>nimi, mojimi, tými, svojimi, našimi</em></td></tr>
+  <tr style="background:lightgray"><td>PFns1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvoje, Niečo, To</em></td></tr>
+  <tr><td>PFns2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>tohto, tohoto</em></td></tr>
+  <tr style="background:lightgray"><td>PFns2g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Case=Gen|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>doň, doňho</em></td></tr>
+  <tr><td>PFns3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvojmu, Čomu</em></td></tr>
+  <tr style="background:lightgray"><td>PFns4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>Tvoje</em></td></tr>
+  <tr><td>PFns4g</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Case=Acc|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>naň, cezeň, oň, poň, zaň</em></td></tr>
+  <tr style="background:lightgray"><td>PFns5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PFns6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>tom, tomto, čom, svojom, ňom</em></td></tr>
+  <tr style="background:lightgray"><td>PFns7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Mix|Number=Sing|PronType=Prs</td><td><em>svojim, tím, čim</em></td></tr>
+  <tr><td>PPhp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>Vy</em></td></tr>
+  <tr style="background:lightgray"><td>PPhp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>nás, vás</em></td></tr>
+  <tr><td>PPhp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>Vám</em></td></tr>
+  <tr style="background:lightgray"><td>PPhp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>Vás</em></td></tr>
+  <tr><td>PPhp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>vy</em></td></tr>
+  <tr style="background:lightgray"><td>PPhp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>nás, vás, sebe</em></td></tr>
+  <tr><td>PPhp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|MorphPos=Pron|Number=Plur|PronType=Prs</td><td><em>Vami</em></td></tr>
+  <tr style="background:lightgray"><td>PPhs1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>Ty, Ja</em></td></tr>
+  <tr><td>PPhs2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>Teba</em></td></tr>
+  <tr style="background:lightgray"><td>PPhs3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>Ti, Tebe, Vám</em></td></tr>
+  <tr><td>PPhs4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>Ťa, Teba</em></td></tr>
+  <tr style="background:lightgray"><td>PPhs5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>ty</em></td></tr>
+  <tr><td>PPhs6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>sobe</em></td></tr>
+  <tr style="background:lightgray"><td>PPhs7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|MorphPos=Pron|Number=Sing|PronType=Prs</td><td><em>Tebou</em></td></tr>
+  <tr><td>PSfp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfs1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfs2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfs3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfs4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfs5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSfs6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSfs7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSns1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSns2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSns3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSns4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSns5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PSns6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PSns7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Noun|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PUfp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej, niekoľko</em></td></tr>
+  <tr><td>PUfp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUfp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jej, niekoľkým, jeho</em></td></tr>
+  <tr><td>PUfp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr style="background:lightgray"><td>PUfp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PUfp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, niekoľkých, jej, toľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUfp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>niekoľkými, jeho, jej, ich, toľkými</em></td></tr>
+  <tr><td>PUfs1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUfs2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich, toľkej</em></td></tr>
+  <tr><td>PUfs3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr style="background:lightgray"><td>PUfs4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr><td>PUfs5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PUfs6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr><td>PUfs7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUip1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr><td>PUip2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, jej, ich, niekoľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUip3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr><td>PUip4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej, niekoľko</em></td></tr>
+  <tr style="background:lightgray"><td>PUip5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PUip6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>niekoľkých, jeho, ich, jej, koľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUip7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>niekoľkými, jeho, jej, ich, toľkými</em></td></tr>
+  <tr><td>PUis1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr style="background:lightgray"><td>PUis2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich, toľkého</em></td></tr>
+  <tr><td>PUis3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr style="background:lightgray"><td>PUis4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich, toľký</em></td></tr>
+  <tr><td>PUis5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PUis6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr><td>PUis7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr style="background:lightgray"><td>PUmp1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej, niekoľkí, toľkí</em></td></tr>
+  <tr><td>PUmp2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUmp3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr><td>PUmp4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, niekoľkých, jej, koľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUmp5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PUmp6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>ich, niekoľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUmp7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, niekoľkými, ich, jej, toľkými</em></td></tr>
+  <tr><td>PUms1</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr style="background:lightgray"><td>PUms2</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr><td>PUms3</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr style="background:lightgray"><td>PUms4</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr><td>PUms5</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PUms6</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho</em></td></tr>
+  <tr><td>PUms7</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr style="background:lightgray"><td>PUnp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr><td>PUnp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, jej, ich, niekoľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUnp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, jej</em></td></tr>
+  <tr><td>PUnp4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej, niekoľko</em></td></tr>
+  <tr style="background:lightgray"><td>PUnp5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PUnp6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>jeho, ich, jej, niekoľkých</em></td></tr>
+  <tr style="background:lightgray"><td>PUnp7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Plur|PronType=Prs</td><td><em>ich, jeho, niekoľkými, toľkými</em></td></tr>
+  <tr><td>PUns1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUns2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, ich, jej</em></td></tr>
+  <tr><td>PUns3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr style="background:lightgray"><td>PUns4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr><td>PUns5</td><td>=&gt;</td><td>PRON</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PUns6</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>Jeho</em></td></tr>
+  <tr><td>PUns7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Sing|PronType=Prs</td><td><em>jeho, jej, ich</em></td></tr>
+  <tr style="background:lightgray"><td>Q</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>Kyjevsko, Breton, Brand, Le, Izraelsko</em></td></tr>
+  <tr><td>R</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs|Reflex=Yes</td><td><em>se, sa, za, s, sas</em></td></tr>
+  <tr style="background:lightgray"><td>SAfp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>premenné, recepčné</em></td></tr>
+  <tr><td>SAfp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAfp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAfp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>premenné, produkčné</em></td></tr>
+  <tr style="background:lightgray"><td>SAfp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAfp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>neznámych</em></td></tr>
+  <tr style="background:lightgray"><td>SAfp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Plur</td><td><em>ženskými</em></td></tr>
+  <tr><td>SAfs1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Ponteová, Parsonsová, Wyseová, Turnerová, Wardová</em></td></tr>
+  <tr style="background:lightgray"><td>SAfs2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Parsonsovej, Prokopovej, Dobšinej, Jasnej, Medyncevovej</em></td></tr>
+  <tr><td>SAfs3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Hutchinsonovej, Wyseovej, Cenigovej, Gondovej, Wardovej</em></td></tr>
+  <tr style="background:lightgray"><td>SAfs4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Lipstadtovou</em></td></tr>
+  <tr><td>SAfs5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>drahá</em></td></tr>
+  <tr style="background:lightgray"><td>SAfs6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Dobšinej, Východnej, Hankovej, Bystrej, Uhorskej</em></td></tr>
+  <tr><td>SAfs7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Adj|Number=Sing</td><td><em>Boleynovou, Podlipskou, Nezvanovovou, Mižikovou, Klévskou</em></td></tr>
+  <tr style="background:lightgray"><td>SAip1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>drobné</em></td></tr>
+  <tr><td>SAip2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>bicích</em></td></tr>
+  <tr style="background:lightgray"><td>SAip3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAip4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>drobné, drobných</em></td></tr>
+  <tr style="background:lightgray"><td>SAip5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAip6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>zlatých</em></td></tr>
+  <tr style="background:lightgray"><td>SAip7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>príbuznými</em></td></tr>
+  <tr><td>SAis1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Zalesský</em></td></tr>
+  <tr style="background:lightgray"><td>SAis2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>drobných</em></td></tr>
+  <tr><td>SAis3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAis4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>drahý</em></td></tr>
+  <tr><td>SAis5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAis6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Slanom</em></td></tr>
+  <tr><td>SAis7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAmp1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Charlemontoví, Muránsky</em></td></tr>
+  <tr><td>SAmp2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Zelených, Motešických, Príkazských</em></td></tr>
+  <tr style="background:lightgray"><td>SAmp3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>Snyderovým</em></td></tr>
+  <tr><td>SAmp4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>veriacich, duchovných, mŕtvych, príbuzných, známych</em></td></tr>
+  <tr style="background:lightgray"><td>SAmp5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAmp6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>podriadených, vedúcich, mŕtvych</em></td></tr>
+  <tr style="background:lightgray"><td>SAmp7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Plur</td><td><em>živými, duchovnými, kupujúcimi, poddanými, známymi</em></td></tr>
+  <tr><td>SAms1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Veľký, Dobrovský, Nedožerský, Vrchlický, Druhý</em></td></tr>
+  <tr style="background:lightgray"><td>SAms2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Komenského, Veľkého, Múdreho, Nedožerského, Habsburského</em></td></tr>
+  <tr><td>SAms3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Rotterdamskému, Zelenskému, Skladanému</em></td></tr>
+  <tr style="background:lightgray"><td>SAms4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Veľkého, Saského, Loyolského, Borovského, Záborského</em></td></tr>
+  <tr><td>SAms5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>drahý</em></td></tr>
+  <tr style="background:lightgray"><td>SAms6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Komenskom, Veľkom, Rotterdamskom</em></td></tr>
+  <tr><td>SAms7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Adj|Number=Sing</td><td><em>Mecedónskym</em></td></tr>
+  <tr style="background:lightgray"><td>SAnp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAnp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAnp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAnp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em>drobné</em></td></tr>
+  <tr style="background:lightgray"><td>SAnp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAnp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAnp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SAns1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Hlboké</em></td></tr>
+  <tr style="background:lightgray"><td>SAns2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Otupného</em></td></tr>
+  <tr><td>SAns3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>uvedenému</em></td></tr>
+  <tr style="background:lightgray"><td>SAns4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>šampanské, nájomné, mnohé, vreckové, výživné</em></td></tr>
+  <tr><td>SAns5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SAns6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>Hlbokom, Otupnom</em></td></tr>
+  <tr><td>SAns7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Adj|Number=Sing</td><td><em>šampanským, posledným</em></td></tr>
+  <tr style="background:lightgray"><td>SFfp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em>Princezny</em></td></tr>
+  <tr><td>SFfp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SFfp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SFfp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SFfp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SFfp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SFfp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SFfs1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>princezná</em></td></tr>
+  <tr style="background:lightgray"><td>SFfs2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Kráľovnej</em></td></tr>
+  <tr><td>SFfs3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>kráľovnej, princeznej, cisárovne</em></td></tr>
+  <tr style="background:lightgray"><td>SFfs4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Kráľovnú</em></td></tr>
+  <tr><td>SFfs5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>princezná</em></td></tr>
+  <tr style="background:lightgray"><td>SFfs6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>kráľovnej, princeznej</em></td></tr>
+  <tr><td>SFfs7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Mix|Number=Sing</td><td><em>Kráľovnou</em></td></tr>
+  <tr style="background:lightgray"><td>SSfp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Olgy</em></td></tr>
+  <tr><td>SSfp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Atén, Čiech, Téb, Sán, Benátok</em></td></tr>
+  <tr style="background:lightgray"><td>SSfp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Hračkám, Polievkam, Hudobninám</em></td></tr>
+  <tr><td>SSfp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Vianoce, Čechy, Atény, Falklandy, Hračky</em></td></tr>
+  <tr style="background:lightgray"><td>SSfp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SSfp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Podlažicích</em></td></tr>
+  <tr style="background:lightgray"><td>SSfp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Plur</td><td><em>Benátkami, Záhradkami, Aténami, Alpami, Amazonkami</em></td></tr>
+  <tr><td>SSfs1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Jiŕina</em></td></tr>
+  <tr style="background:lightgray"><td>SSfs2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Provence, Vrakuňe</em></td></tr>
+  <tr><td>SSfs3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Margaréta</em></td></tr>
+  <tr style="background:lightgray"><td>SSfs4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Maju, Margu, Jazmínu, Júliu, Irmu</em></td></tr>
+  <tr><td>SSfs5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>China, Jazmína, Júlia, Syreeta, Anita</em></td></tr>
+  <tr style="background:lightgray"><td>SSfs6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Evrópe, Kakánií, Anatólie, Silistře, európe</em></td></tr>
+  <tr><td>SSfs7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Noun|Number=Sing</td><td><em>Koou</em></td></tr>
+  <tr style="background:lightgray"><td>SSip1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Microsoft, Rozhovory, Hity, Vzťahy, Zámky</em></td></tr>
+  <tr><td>SSip2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Times, Varov, Norfolku, Kopčian, veľtrhov</em></td></tr>
+  <tr style="background:lightgray"><td>SSip3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Odevom</em></td></tr>
+  <tr><td>SSip4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Mosty, Beny, Chrámy, cieľe, pretky</em></td></tr>
+  <tr style="background:lightgray"><td>SSip5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SSip6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Mostoch, Domovoch, Lešanoch, Ovčároch, Vajnoroch</em></td></tr>
+  <tr style="background:lightgray"><td>SSip7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>prsty, názorni, titulikami</em></td></tr>
+  <tr><td>SSis1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Vzdoroslavík</em></td></tr>
+  <tr style="background:lightgray"><td>SSis2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Nerli</em></td></tr>
+  <tr><td>SSis3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Meydane</em></td></tr>
+  <tr style="background:lightgray"><td>SSis4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Londýn, Rím, Mesiac, Egypt, Balkán</em></td></tr>
+  <tr><td>SSis5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>svete, vetríčku</em></td></tr>
+  <tr style="background:lightgray"><td>SSis6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Clintonu, Mindenu, Rímě, Kyjeva, Rustamu</em></td></tr>
+  <tr><td>SSis7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Rímom, Mesiacom, Tigridom, Konštantínopolom, Izraelom</em></td></tr>
+  <tr style="background:lightgray"><td>SSmp1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Peržaania, Araby, Rímania</em></td></tr>
+  <tr><td>SSmp2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Slovákov, Slovanov, Sásánovcov, Peržanov, Nemcov</em></td></tr>
+  <tr style="background:lightgray"><td>SSmp3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Rímanom</em></td></tr>
+  <tr><td>SSmp4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Slovákov, Čechov, Židov, Peržanov, Maďarov</em></td></tr>
+  <tr style="background:lightgray"><td>SSmp5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>súdruhovia, priatelia, zlodeji, kolegovia, páni</em></td></tr>
+  <tr><td>SSmp6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Šafárikovcom, Angličanoch, Rausingovcoch, Korinťanoch</em></td></tr>
+  <tr style="background:lightgray"><td>SSmp7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Plur</td><td><em>Rímanmi</em></td></tr>
+  <tr><td>SSms1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Rádža, Omrar, Jaroslavv, Eisnera, Gibsom</em></td></tr>
+  <tr style="background:lightgray"><td>SSms2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Al, Evangelisty, Tolkien, Justinána, Nikola</em></td></tr>
+  <tr><td>SSms3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Winstonovi, Bohu, Chrisovi, Petrovi, Eisnerovi</em></td></tr>
+  <tr style="background:lightgray"><td>SSms4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Oscra</em></td></tr>
+  <tr><td>SSms5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Winston, Smith, Pane, Bože, Martin</em></td></tr>
+  <tr style="background:lightgray"><td>SSms6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Klemovi, Kristovi, Bohu, Morovi, Chrisovi</em></td></tr>
+  <tr><td>SSms7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Noun|Number=Sing</td><td><em>Wowereitem, Sóchrou, Viliam</em></td></tr>
+  <tr style="background:lightgray"><td>SSnp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>Majstrostvá</em></td></tr>
+  <tr><td>SSnp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>Písem, Pravidiel, Sĺnk, Košarísk</em></td></tr>
+  <tr style="background:lightgray"><td>SSnp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>deťom, očiam, ušiam, opatreniam, mestám</em></td></tr>
+  <tr><td>SSnp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>reziduá, privilégia, slova, kritéria, detí</em></td></tr>
+  <tr style="background:lightgray"><td>SSnp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>Mravčiská</em></td></tr>
+  <tr><td>SSnp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>Košariskách</em></td></tr>
+  <tr style="background:lightgray"><td>SSnp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Noun|Number=Plur</td><td><em>ospravedlniami</em></td></tr>
+  <tr><td>SSns1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>Nemecko, Slovensko, Francúzsko, Taliansko, Rusko</em></td></tr>
+  <tr style="background:lightgray"><td>SSns2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>Tovaryšstva, Slunka</em></td></tr>
+  <tr><td>SSns3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>Slovensku, Nemecku, Poľsku, Maďarsku, Francúzsku</em></td></tr>
+  <tr style="background:lightgray"><td>SSns4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>Slovensko, Nemecko, Francúzsko, Taliansko, Poľsko</em></td></tr>
+  <tr><td>SSns5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>zlatko, strýco, slovo, srdiečko, mláďa</em></td></tr>
+  <tr style="background:lightgray"><td>SSns6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>slovensku</em></td></tr>
+  <tr><td>SSns7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Noun|Number=Sing</td><td><em>Holanskom</em></td></tr>
+  <tr style="background:lightgray"><td>SUfp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUfp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>Seychelles, Kratinech</em></td></tr>
+  <tr style="background:lightgray"><td>SUfp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUfp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>parties, šou</em></td></tr>
+  <tr style="background:lightgray"><td>SUfp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUfp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em>Tahiti</em></td></tr>
+  <tr style="background:lightgray"><td>SUfp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUfs1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Gdpi</em></td></tr>
+  <tr style="background:lightgray"><td>SUfs2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Party, Lori, Kratinech, Blythe, Hator</em></td></tr>
+  <tr><td>SUfs3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Lori, Blythe, Hator, Kratinech, Party</em></td></tr>
+  <tr style="background:lightgray"><td>SUfs4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Visa</em></td></tr>
+  <tr><td>SUfs5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Katharine</em></td></tr>
+  <tr style="background:lightgray"><td>SUfs6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Party, Chelsea, Lori, Franziskanergasse, Hall</em></td></tr>
+  <tr><td>SUfs7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|MorphPos=Def|Number=Sing</td><td><em>Kirscher</em></td></tr>
+  <tr style="background:lightgray"><td>SUip1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>Times</em></td></tr>
+  <tr><td>SUip2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>Times</em></td></tr>
+  <tr style="background:lightgray"><td>SUip3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUip4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>dhoti</em></td></tr>
+  <tr style="background:lightgray"><td>SUip5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUip6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>Times, Monopoly, Macintosh</em></td></tr>
+  <tr style="background:lightgray"><td>SUip7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUis1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Nom|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Topkapi, times, Vedem, Inn, McCoy</em></td></tr>
+  <tr style="background:lightgray"><td>SUis2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Chartres, Vedem, Inn, Breton, Yale</em></td></tr>
+  <tr><td>SUis3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUis4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Acc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Platz, Tzlabath, Windows, Peary, Araxes</em></td></tr>
+  <tr><td>SUis5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Voc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUis6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Inn, Yale, inZine, Maine, Lambethe</em></td></tr>
+  <tr><td>SUis7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Dajti</em></td></tr>
+  <tr style="background:lightgray"><td>SUmp1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>atašé</em></td></tr>
+  <tr><td>SUmp2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>Commandos, Hájkov, Laibach</em></td></tr>
+  <tr style="background:lightgray"><td>SUmp3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUmp4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUmp5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUmp6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUmp7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Def|Number=Plur</td><td><em>Commandos</em></td></tr>
+  <tr><td>SUms1</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Šer, Nur, Spee, Kuberdá, Stanley</em></td></tr>
+  <tr style="background:lightgray"><td>SUms2</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Karaosmanoğlu, Bonaparte, Abú, Aldo, Rene</em></td></tr>
+  <tr><td>SUms3</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Jersey, Ali, Šer</em></td></tr>
+  <tr style="background:lightgray"><td>SUms4</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Šer, Jean, Favata, Pavlů, Giuseppe</em></td></tr>
+  <tr><td>SUms5</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Voc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUms6</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Giuseppe</em></td></tr>
+  <tr><td>SUms7</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Masc|MorphPos=Def|Number=Sing</td><td><em>Golo, Žung, Šer, Ce, Struve</em></td></tr>
+  <tr style="background:lightgray"><td>SUnp1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>Leopoldville, Brazzaville, Cluny</em></td></tr>
+  <tr><td>SUnp2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUnp3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUnp4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>finále, chimichangas</em></td></tr>
+  <tr style="background:lightgray"><td>SUnp5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUnp6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em>Tahiti</em></td></tr>
+  <tr style="background:lightgray"><td>SUnp7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>SUns1</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Cluny, Jersey, Vasukani, Apollo, Nestlé</em></td></tr>
+  <tr style="background:lightgray"><td>SUns2</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Vasukani, Cluny, Sulpí, Peru, Aikido</em></td></tr>
+  <tr><td>SUns3</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Cluny</em></td></tr>
+  <tr style="background:lightgray"><td>SUns4</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Cluny, Miami, Tbilisi, Hampshire, Scrabble</em></td></tr>
+  <tr><td>SUns5</td><td>=&gt;</td><td>NOUN</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>SUns6</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Bailey, Canterbury, Halle, Cluny, Sydney</em></td></tr>
+  <tr><td>SUns7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Ordo, Kubání, Timbuktu, Louis, Taco</em></td></tr>
+  <tr style="background:lightgray"><td>T</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>nioe, aqj, natmä, menej, jen</em></td></tr>
+  <tr><td>TY</td><td>=&gt;</td><td>PART</td><td>Mood=Cnd</td><td><em>akoby, Niežeby, keby, Žeby, aby</em></td></tr>
+  <tr style="background:lightgray"><td>VBepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>nebudeme, Nepôjdeme</em></td></tr>
+  <tr><td>VBepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>budeme, pôjdeme, Poletíme</em></td></tr>
+  <tr style="background:lightgray"><td>VBepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>nebudete</em></td></tr>
+  <tr><td>VBepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>budete, pôjdete, Leťte, pobežíte</em></td></tr>
+  <tr style="background:lightgray"><td>VBepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>nebudú</em></td></tr>
+  <tr><td>VBepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>budú, pôjdu</em></td></tr>
+  <tr style="background:lightgray"><td>VBesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>nebudem, nepôjdem</em></td></tr>
+  <tr><td>VBesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>budem, pôjdem, Poletím, nájdem</em></td></tr>
+  <tr style="background:lightgray"><td>VBesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>nebudeš, nepôjdeš, nemusíš</em></td></tr>
+  <tr><td>VBesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>budeš, pôjdeš, buď, Pocestuješ, poletíš</em></td></tr>
+  <tr style="background:lightgray"><td>VBesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>nebude, nepovedie, nepôjde</em></td></tr>
+  <tr><td>VBesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>bude, pôjde, potrvá, Poletí, budú</em></td></tr>
+  <tr style="background:lightgray"><td>VBjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VHd-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|VerbForm=Trans</td><td><em>nezdvihnúc</em></td></tr>
+  <tr><td>VHd+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|VerbForm=Trans</td><td><em>povediac, použijúc, počnúc, vytvoriac, pojmúc</em></td></tr>
+  <tr style="background:lightgray"><td>VHe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|VerbForm=Trans</td><td><em>nehovoriac, nechtiac, nečakajúc, nespomínajúc, Nespúšťajúc</em></td></tr>
+  <tr><td>VHe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|VerbForm=Trans</td><td><em>požiciavajúc</em></td></tr>
+  <tr style="background:lightgray"><td>VHj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|VerbForm=Trans</td><td><em></em></td></tr>
+  <tr><td>VHj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|VerbForm=Trans</td><td><em>odpovedajúc, ignorujúc, dajúc</em></td></tr>
+  <tr style="background:lightgray"><td>VId-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|VerbForm=Inf</td><td><em>nekúpiť, neupútať, neprejaviť, neprečítať, nevyhovieť</em></td></tr>
+  <tr><td>VId+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|VerbForm=Inf</td><td><em>Zobraziť</em></td></tr>
+  <tr style="background:lightgray"><td>VIe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|VerbForm=Inf</td><td><em>Nevyrušovať</em></td></tr>
+  <tr><td>VIe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|VerbForm=Inf</td><td><em>rozbalovať, rozväzvovať, čítal, malovať, priklánať</em></td></tr>
+  <tr style="background:lightgray"><td>VIj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|VerbForm=Inf</td><td><em>nepočuť, nedať</em></td></tr>
+  <tr><td>VIj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|VerbForm=Inf</td><td><em>dať, venovať, počuť, realizovať, komunikovať</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>nedokážeme, nedozvieme, nenájdeme, neznášame, Nedovolíme</em></td></tr>
+  <tr><td>VKdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>presnunieme</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nezáhráte, Nepridátete</em></td></tr>
+  <tr><td>VKdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nájdete, dozviete, uvidíte, zistíte, dostanete</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nepohŕdnu</em></td></tr>
+  <tr><td>VKdpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>presvedčia, trumfnú, odbachnu, dznejú</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>neuspokjím</em></td></tr>
+  <tr><td>VKdsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>zavrem</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nevyrovnáš, nedokážeš, nedozvieš, nezomrieš, neuvidíš</em></td></tr>
+  <tr><td>VKdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>Uvodíš</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedokáže, nepodarí, nestane, nepríde, nedostane</em></td></tr>
+  <tr><td>VKdsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>pridfá</em></td></tr>
+  <tr style="background:lightgray"><td>VKe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VKepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>niesme</em></td></tr>
+  <tr style="background:lightgray"><td>VKepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>trpeme, možeme, mame, Posobíme</em></td></tr>
+  <tr><td>VKepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>ste, neviete, nemáte, nemusíte, nevidíte</em></td></tr>
+  <tr style="background:lightgray"><td>VKepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>myslite, ussporadúvate</em></td></tr>
+  <tr><td>VKepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nemôžete</em></td></tr>
+  <tr style="background:lightgray"><td>VKepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>možu, presazujú, tiahnú, existuju, konájú</em></td></tr>
+  <tr><td>VKesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>neviem, nemám, nemôžem, som, nechcem</em></td></tr>
+  <tr style="background:lightgray"><td>VKesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>ĎAKUJEM</em></td></tr>
+  <tr><td>VKesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>si, nemáš, nesmieš, nemôžeš, nevieš</em></td></tr>
+  <tr style="background:lightgray"><td>VKesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>si, máš, vieš, chceš, môžeš</em></td></tr>
+  <tr><td>VKesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>netrvalo</em></td></tr>
+  <tr style="background:lightgray"><td>VKesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>žiada</em></td></tr>
+  <tr><td>VKjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>Nestačíme, neexportujeme</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>poznáme, stačíme, investujeme, venujeme, menujeme</em></td></tr>
+  <tr><td>VKjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nedáte, nepoznáte</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>poznáte, dáte, Počujete, falšujete</em></td></tr>
+  <tr><td>VKjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedajú, nestačia, neignorujú, nerezignujú, nehodia</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>dajú, poznajú, venujú, komunikujú, symbolizujú</em></td></tr>
+  <tr><td>VKjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>nepoznám, neodpoviem, neodpovedám, nestačím, nedám</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>dám, poznám, počujem, venujem, odpoviem</em></td></tr>
+  <tr><td>VKjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nedáš</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>poznáš, dáš, venuješ, počuješ, odpovieš</em></td></tr>
+  <tr><td>VKjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedá, nestačí, nepočuje, nepozná, nevenuje</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>dá, stačí, venuje, počuje, reaguje</em></td></tr>
+  <tr><td>VLdpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nenašli, nedohodli, nepochopili, nezaspali, nešli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>našli, urobili, prišli, stretli, vyšli</em></td></tr>
+  <tr><td>VLdpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>nezistili, nenašli, nedokázali, nezdedili, neporadili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>urobili, prišli, povedali, našli, vykonali</em></td></tr>
+  <tr><td>VLdpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázali, neurobili, nezachovali, neprešli, nezavážili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>vykúkli, vykuli</em></td></tr>
+  <tr><td>VLdpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neskončili, nepriniesli, neujali, nestali, neuzatvorili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>prejavil, vedli, uspôsobili, vynesli, spôsobili</em></td></tr>
+  <tr><td>VLdpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázali, nenašli, neprehovorili, nevšimli, nepozreli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>hodnotili</em></td></tr>
+  <tr><td>VLdpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nevzišli, nevytvorili, nezhromaždili, nezačali, nežmurkli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dokkreslili</em></td></tr>
+  <tr><td>VLdsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nedokázal, neprechadla</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>odšuchatala</em></td></tr>
+  <tr><td>VLdsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nedpovedal</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>povyzvrtál</em></td></tr>
+  <tr><td>VLdsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nezlomila, neuhádla, neporanila, nestiahla, nepovedala</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>zistila, urobila, dostala, prišla, privoňala</em></td></tr>
+  <tr><td>VLdsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>neurobil, nestratil, nedorátal, nesotil, nezabudol</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>prišiel, dostal, odišiel, vrátil, uznal</em></td></tr>
+  <tr><td>VLdsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nezmenila, nezostala, nedokázala, nevšimla, neobjavila</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zasypela, masla, zoslábla, skalpla</em></td></tr>
+  <tr><td>VLdsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nezmenil, nedosiahol, neprišiel, nevyšiel</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>začal, stal, vznikol, nastal, prišiel</em></td></tr>
+  <tr><td>VLdscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nepovedal, nedostal, neurobil, nepozrel</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zapříčinil, privola, zúčasnil, odesekol, pomohl</em></td></tr>
+  <tr><td>VLdscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nespnilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>Zomrelo</em></td></tr>
+  <tr><td>VLepah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nerobili, nemali, neboli, nechceli, nemohli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>mali, boli, mohli, išli, videli</em></td></tr>
+  <tr><td>VLepbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nevydeli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>mali, mohli, boli, chceli, museli</em></td></tr>
+  <tr><td>VLepcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nemohli, nechceli, nejestvovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>vykresľovaly</em></td></tr>
+  <tr><td>VLepci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nejestvovali, nemohli, nevznikali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>zlatili, hlásli</em></td></tr>
+  <tr><td>VLepcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nemali, neboli, nemohli, nevedeli, nechceli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>šili, letelei, plýtvali, byli</em></td></tr>
+  <tr><td>VLepcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemohli, nevedeli, neposielali, neprinášali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>cítli</em></td></tr>
+  <tr><td>VLesaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nevidela, nemala, nemohla, nevedela, nebola</em></td></tr>
+  <tr style="background:lightgray"><td>VLesaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>odchádza</em></td></tr>
+  <tr><td>VLesai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nemohol, nemal, nevedel, nevidel, nebol</em></td></tr>
+  <tr style="background:lightgray"><td>VLesam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>Bol</em></td></tr>
+  <tr><td>VLesan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nechcela, nespomínala, Nehovorila</em></td></tr>
+  <tr style="background:lightgray"><td>VLesbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>bola, chcela, mala, plakala, Verila</em></td></tr>
+  <tr><td>VLesbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>nemal, nemohol, nevedel, nevidel, nemyslel</em></td></tr>
+  <tr style="background:lightgray"><td>VLesbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>mal, bol, chcel, mohol, vedel</em></td></tr>
+  <tr><td>VLesbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLescf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nemohla, nevedela, nechcela</em></td></tr>
+  <tr style="background:lightgray"><td>VLescf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>bol, preberela, pozeral</em></td></tr>
+  <tr><td>VLesci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebol, nemal, nemohol, nejestvoval, neexistoval</em></td></tr>
+  <tr style="background:lightgray"><td>VLesci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>Tvorilo, následoval, bolo</em></td></tr>
+  <tr><td>VLescm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nevyzera, Nemohlo, nchýbal</em></td></tr>
+  <tr style="background:lightgray"><td>VLescm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>vieodl, potláčala, škarbkal, mierul, pophyboval</em></td></tr>
+  <tr><td>VLescn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebolo, nemalo, nechcelo, nemohlo, nepáčilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLescn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>bol, viedol, bola, Bolo, mala</em></td></tr>
+  <tr><td>VLjpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nepoznali, nedali, nepočuli</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>počuli, dali, informovali, poznali, transformovali</em></td></tr>
+  <tr><td>VLjpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>nedali, nepočuli</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>počuli, stačili, dali, registrovali, komentovali</em></td></tr>
+  <tr><td>VLjpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali, nestačili</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>stačili, dali, počuli, generovali, explodovali</em></td></tr>
+  <tr><td>VLjpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali, neangažovali, nepoznali, nekolonizovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, formovali, stačili, charakterizovali, parafrázovali</em></td></tr>
+  <tr><td>VLjpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nestačili, neidentifikovali, nepočuli, nedemaskovali, nereagovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, počuli, venovali, reagovali, formulovali</em></td></tr>
+  <tr><td>VLjpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, symbolizovali, venovali, deklarovali, prezentovali</em></td></tr>
+  <tr><td>VLjsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nestačila, nepočula, nepoznala, neodpovedala</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>dala, počula, poznala, odpovedala, stačila</em></td></tr>
+  <tr><td>VLjsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nepočul, nepoznal, nedal, Neodpovedal, Nereagoval</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>počul, dal, poznal, odpovedal, demonštroval</em></td></tr>
+  <tr><td>VLjsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Počula, explodovala</em></td></tr>
+  <tr><td>VLjsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>počul</em></td></tr>
+  <tr><td>VLjsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nedal, nepočul</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>dal, počul, obetoval</em></td></tr>
+  <tr><td>VLjsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedala, nepočula, nevenovala, nestačila, nereagovala</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dala, počula, stačila, odpovedala, venovala</em></td></tr>
+  <tr><td>VLjsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedal, nestačil</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dal, stačil, datoval, informoval, formoval</em></td></tr>
+  <tr><td>VLjscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nepočul, nedal, neodpovedal, nevenoval, nestačil</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zvetoval</em></td></tr>
+  <tr><td>VLjscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedalo, nestačilo, Nezodpovedalo, Neinvestovalo, nehodilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dalo, stačilo, inšpirovalo, formovalo, deformovalo</em></td></tr>
+  <tr><td>VMdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em>Neuspokojme</em></td></tr>
+  <tr style="background:lightgray"><td>VMdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em>uveďme, spomeňme, urobme, Vezmime, Dokážme</em></td></tr>
+  <tr><td>VMdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>Nepodľahnite, Nenechajte, nebodnite, nezabudnite, Nezobuďte</em></td></tr>
+  <tr style="background:lightgray"><td>VMdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>ráčte</em></td></tr>
+  <tr><td>VMdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em>neudri, Nezabudni, Nepriblíž, neroztrúb, neopováž</em></td></tr>
+  <tr style="background:lightgray"><td>VMdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>pozri, povedz, počkaj, nechaj, predstav</em></td></tr>
+  <tr><td>VMepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em>nehovorme, Nerúhajme, nepozerajme, nereptajme, neobzerajme</em></td></tr>
+  <tr style="background:lightgray"><td>VMepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em>poďme, berme, pomáhajme, Myslime, Učme</em></td></tr>
+  <tr><td>VMepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>nemyslite, nehovorte, nepokúšajte, nepýtajte, Nemiešajte</em></td></tr>
+  <tr style="background:lightgray"><td>VMepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>choďte, buďte, počúvajte, vedzte, verte</em></td></tr>
+  <tr><td>VMesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em>neboj, nebuď, nehovor, nerob, Nezabúdaj</em></td></tr>
+  <tr style="background:lightgray"><td>VMesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>Čakaj</em></td></tr>
+  <tr><td>VMjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VMjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VMjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>nedajte, Neriskujte</em></td></tr>
+  <tr style="background:lightgray"><td>VMjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>Počujte, dajte, servírujte, obetujte, Dávajte</em></td></tr>
+  <tr><td>VMjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VMjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>daj, počuj, Obetuj, Dávaj, venuj</em></td></tr>
+  <tr><td>W</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>W, J</em></td></tr>
+  <tr style="background:lightgray"><td>Y</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd</td><td><em>mi</em></td></tr>
+</table>
