@@ -1,0 +1,252 @@
+---
+layout: base
+title: 'Tagset ta::tamiltb conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset ta::tamiltb
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>ta::tamiltb</tt>, total 233 tags.
+
+<table>
+  <tr style="background:lightgray"><td>AA-------</td><td>=&gt;</td><td>ADV</td><td>_</td><td>ஆக (āka), இன்று (inru), மேலும் (mēlum), ஆனால் (ānāl), பின்னர் (pinnar)</td></tr>
+  <tr><td>CC-------</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>மற்றும் (marrum), அல்லது (allatu)</td></tr>
+  <tr style="background:lightgray"><td>DD-------</td><td>=&gt;</td><td>DET</td><td>_</td><td>இந்த (inta), அந்த (anta), இந்தப் (intap), எந்த (enta), அந்தப் (antap)</td></tr>
+  <tr><td>JJ-------</td><td>=&gt;</td><td>ADJ</td><td>_</td><td>மத்திய (mattiya), ஒரு (oru), கடந்த (kaṭanta), புதிய (putiya), முன்னாள் (munnāḷ)</td></tr>
+  <tr style="background:lightgray"><td>Jd-D----A</td><td>=&gt;</td><td>ADJ</td><td>Negative=Pos|Tense=Past|VerbForm=Part</td><td>உள்ளிட்ட (uḷḷiṭṭa), இருந்த (irunta), நடைபெற்ற (naṭaiperra), வந்த (vanta), ஆகிய (ākiya)</td></tr>
+  <tr><td>Jd-F----A</td><td>=&gt;</td><td>ADJ</td><td>Negative=Pos|Tense=Fut|VerbForm=Part</td><td>வரும் (varum), நடைபெறும் (naṭaiperum), இருக்கும் (irukkum), வசிக்கும் (vacikkum), ஆளும் (āḷum)</td></tr>
+  <tr style="background:lightgray"><td>Jd-P----A</td><td>=&gt;</td><td>ADJ</td><td>Negative=Pos|Tense=Pres|VerbForm=Part</td><td>என்கிற (enkira), படுகிற (paṭukira), இருக்கிற (irukkira), மாற்றுகின்ற (mārrukinra), மடிகின்ற (maṭikinra)</td></tr>
+  <tr><td>Jd-T----A</td><td>=&gt;</td><td>ADJ</td><td>Negative=Pos|VerbForm=Part</td><td>உள்ள (uḷḷa), அங்குள்ள (aṅkuḷḷa)</td></tr>
+  <tr style="background:lightgray"><td>Jd-T----N</td><td>=&gt;</td><td>ADJ</td><td>Negative=Neg|VerbForm=Part</td><td>செய்யாத (ceyyāta), சாராத (cārāta), எடுக்காத (eṭukkāta), சரியில்லாத (cariyillāta), அல்லாத (allāta)</td></tr>
+  <tr><td>NEA-3PA--</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3</td><td>தமிழர்களை (tamilarkaḷai), தமிழர்களைச் (tamilarkaḷaic), எமெலேக்களை (emelēkkaḷai), இந்தியர்களை (intiyarkaḷai)</td></tr>
+  <tr style="background:lightgray"><td>NEA-3PN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3</td><td>செட்களைய் (ceṭkaḷaiy)</td></tr>
+  <tr><td>NEA-3SH--</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>ஜெயலலிதாவை (jeyalalitāvai), ராஜபட்சவை (rājapaṭcavai), தேவியைய் (tēviyaiy), தீட்சித்தை (tīṭcittai), லேடனை (lēṭanai)</td></tr>
+  <tr style="background:lightgray"><td>NEA-3SN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3</td><td>கங்கையை (kaṅkaiyai), தமிழினத்தையும் (tamilinattaiyum), இந்தியாவைச் (intiyāvaic), விஜயதசமியை (vijayatacamiyai), கோயமுத்தூரைச் (kōyamuttūraic)</td></tr>
+  <tr><td>NED-3PA--</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3</td><td>தமிழர்களுக்க் (tamilarkaḷukk), எம்பிக்களுக்க் (empikkaḷukk), எம்பிக்களுக்கு (empikkaḷukku), தமிழர்களுக்கு (tamilarkaḷukku), தமிழர்களுக்குத் (tamilarkaḷukkut)</td></tr>
+  <tr style="background:lightgray"><td>NED-3PN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Neut|Number=Plur|Person=3</td><td>பிகாருக்கு (pikārukku), இடங்களுக்கு (iṭaṅkaḷukku)</td></tr>
+  <tr><td>NED-3SH--</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>கருணாநிதிக்கு (karuṇānitikku), சிபலுக்கு (cipalukku), மனைவிக்கு (manaivikku), கருணாநிதிக்கும் (karuṇānitikkum), மிட்டலுக்கு (miṭṭalukku)</td></tr>
+  <tr style="background:lightgray"><td>NED-3SN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Gender=Neut|Number=Sing|Person=3</td><td>இந்தியாவுக்கு (intiyāvukku), தமிழகத்துக்கு (tamilakattukku), பாகிஸ்தானுக்குச் (pākistānukkuc), தில்லிக்கு (tillikku), பாகிஸ்தானுக்கு (pākistānukku)</td></tr>
+  <tr><td>NEG-3SH--</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>ஒபாமாவின் (opāmāvin), ஹென்றியின் (henriyin), ராஜபட்சவின் (rājapaṭcavin), தீட்சித்தின் (tīṭcittin), கருணாநிதியின் (karuṇānitiyin)</td></tr>
+  <tr style="background:lightgray"><td>NEG-3SN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3</td><td>அமெரிக்காவின் (amerikkāvin), இந்தியாவின் (intiyāvin), தமிழகத்தின் (tamilakattin), தமிழினத்தின் (tamilinattin), ஆசியான் (āciyān)</td></tr>
+  <tr><td>NEI-3PA--</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3</td><td>சிவாச்சாரியர்களால் (civāccāriyarkaḷāl)</td></tr>
+  <tr style="background:lightgray"><td>NEL-3PA--</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3</td><td>எம்பிக்களில் (empikkaḷil)</td></tr>
+  <tr><td>NEL-3PN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|Gender=Neut|Number=Plur|Person=3</td><td>தமிழர்களிடம் (tamilarkaḷiṭam)</td></tr>
+  <tr style="background:lightgray"><td>NEL-3SN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|Gender=Neut|Number=Sing|Person=3</td><td>இந்தியாவில் (intiyāvil), சென்னையில் (cennaiyil), பிகாரில் (pikāril), ஆப்கானிஸ்தானில் (āpkānistānil), ஹூஸ்டனில் (hūsṭanil)</td></tr>
+  <tr><td>NEN-3PA--</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3</td><td>இந்தியர்கள் (intiyarkaḷ), எமெலேக்கள் (emelēkkaḷ), மாவோயிஸ்டுகள் (māvōyisṭukaḷ), தமிழர்களின் (tamilarkaḷin), எமெலேக்களின் (emelēkkaḷin)</td></tr>
+  <tr style="background:lightgray"><td>NEN-3SH--</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>ஒபாமா (opāmā), ஜெயலலிதா (jeyalalitā), சிங் (ciṅ), வைகோ (vaikō), எடியூரப்பா (eṭiyūrappā)</td></tr>
+  <tr><td>NEN-3SN--</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3</td><td>இந்தியா (intiyā), இலங்கை (ilaṅkai), அதிமுக (atimuka), பாகிஸ்தான் (pākistān), கிரிக்கெட் (kirikkeṭ)</td></tr>
+  <tr style="background:lightgray"><td>NNA-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3</td><td>மக்களை (makkaḷai), கைதிகளை (kaitikaḷai), பெண்களைப் (peṇkaḷaip), ஏழைகளை (ēlaikaḷai), ஆகியோரை (ākiyōrai)</td></tr>
+  <tr><td>NNA-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3</td><td>வெடிகளை (veṭikaḷai), நிலையங்களை (nilaiyaṅkaḷai), பணிகளை (paṇikaḷai), ஜாக்கெட்டுகளை (jākkeṭṭukaḷai), வீடுகளை (vīṭukaḷai)</td></tr>
+  <tr style="background:lightgray"><td>NNA-3SH--</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>மகாலட்சுமியைய் (makālaṭcumiyaiy)</td></tr>
+  <tr><td>NNA-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3</td><td>இடத்தைய் (iṭattaiy), அரசை (aracai), ஆட்சியை (āṭciyai), உத்தரவை (uttaravai), ஊதியத்தை (ūtiyattai)</td></tr>
+  <tr style="background:lightgray"><td>NND-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3</td><td>மக்களுக்கு (makkaḷukku), பணியாளர்களுக்கு (paṇiyāḷarkaḷukku), பெண்களுக்க் (peṇkaḷukk), உறுப்பினர்களுக்கு (uruppinarkaḷukku), எல்லோருக்க் (ellōrukk)</td></tr>
+  <tr><td>NND-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|Number=Plur|Person=3</td><td>ஆண்டுகளுக்குப் (āṇṭukaḷukkup), நிலையங்களுக்குத் (nilaiyaṅkaḷukkut), பணிகளுக்கு (paṇikaḷukku), தொகுதிகளுக்க் (tokutikaḷukk), நாள்களுக்கு (nāḷkaḷukku)</td></tr>
+  <tr style="background:lightgray"><td>NND-3SH--</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>மக்களுக்குப் (makkaḷukkup), குற்றவாளிக்கு (kurravāḷikku), சாமிக்கும் (cāmikkum)</td></tr>
+  <tr><td>NND-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Neut|Number=Sing|Person=3</td><td>மணிக்கு (maṇikku), பேருக்க் (pērukk), ஆண்டுக்கு (āṇṭukku), அரசுக்கு (aracukku), கோடிக்க் (kōṭikk)</td></tr>
+  <tr style="background:lightgray"><td>NNG-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3</td><td>புலிகளின் (pulikaḷin), மக்களின் (makkaḷin), ஆகியோர் (ākiyōr), தலைவர்களின் (talaivarkaḷin), உறுப்பினர்களின் (uruppinarkaḷin)</td></tr>
+  <tr><td>NNG-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|Number=Plur|Person=3</td><td>நாடுகளின் (nāṭukaḷin), பதக்கங்களின் (patakkaṅkaḷin), ஆகியவற்றின் (ākiyavarrin), கட்டடங்களின் (kaṭṭaṭaṅkaḷin), ரயில்களின் (rayilkaḷin)</td></tr>
+  <tr style="background:lightgray"><td>NNG-3SH--</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>பிறருடைய (piraruṭaiya), அமைச்சரின் (amaiccarin), முதல்வரின் (mutalvarin), கொறடாவின் (koraṭāvin)</td></tr>
+  <tr><td>NNG-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3</td><td>அரசின் (aracin), நாட்டின் (nāṭṭin), சபையின் (capaiyin), சட்டத்தின் (caṭṭattin), பயணத்தின் (payaṇattin)</td></tr>
+  <tr style="background:lightgray"><td>NNI-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3</td><td>விடுதலைப்புலிகளால் (viṭutalaippulikaḷāl)</td></tr>
+  <tr><td>NNI-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|Number=Plur|Person=3</td><td>செயல்களால் (ceyalkaḷāl)</td></tr>
+  <tr style="background:lightgray"><td>NNI-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|Number=Sing|Person=3</td><td>காரணத்தால் (kāraṇattāl), போரினால் (pōrināl), ஒப்பந்தத்தால் (oppantattāl), தங்கத்தால் (taṅkattāl), நோயால் (nōyāl)</td></tr>
+  <tr><td>NNL-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Gender=Com|Number=Plur|Person=3</td><td>செய்தியாளர்களிடம் (ceytiyāḷarkaḷiṭam), வாக்காளர்களில் (vākkāḷarkaḷil), பக்தர்களில் (paktarkaḷil), நபர்களில் (naparkaḷil), முக்கியமானவர்களில் (mukkiyamānavarkaḷil)</td></tr>
+  <tr style="background:lightgray"><td>NNL-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|Number=Plur|Person=3</td><td>நாடுகளில் (nāṭukaḷil), முகாம்களில் (mukāmkaḷil), இடங்களில் (iṭaṅkaḷil), பகுதிகளில் (pakutikaḷil), பணிகளில் (paṇikaḷil)</td></tr>
+  <tr><td>NNL-3SH--</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>சாமியிடம் (cāmiyiṭam)</td></tr>
+  <tr style="background:lightgray"><td>NNL-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Neut|Number=Sing|Person=3</td><td>நிலையில் (nilaiyil), அறிக்கையில் (arikkaiyil), வகையில் (vakaiyil), பகுதியில் (pakutiyil), கவுன்சிலில் (kavuncilil)</td></tr>
+  <tr><td>NNN-3PA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3</td><td>பேர் (pēr), மக்கள் (makkaḷ), அதிகாரிகள் (atikārikaḷ), போலீஸார் (pōlīsār), புலிகள் (pulikaḷ)</td></tr>
+  <tr style="background:lightgray"><td>NNN-3PN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3</td><td>நாடுகள் (nāṭukaḷ), வட்டாரங்கள் (vaṭṭāraṅkaḷ), நாட்கள் (nāṭkaḷ), குழுக்கள் (kulukkaḷ), ஆண்டுகள் (āṇṭukaḷ)</td></tr>
+  <tr><td>NNN-3SH--</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol</td><td>தலைவர் (talaivar), செயலாளர் (ceyalāḷar), முதல்வர் (mutalvar), அமைச்சர் (amaiccar), உறுப்பினர் (uruppinar)</td></tr>
+  <tr style="background:lightgray"><td>NNN-3SM--</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3</td><td>ஆடவனின் (āṭavanin)</td></tr>
+  <tr><td>NNN-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3</td><td>அரசு (aracu), ஆண்டு (āṇṭu), கட்சி (kaṭci), தலைமைச் (talaimaic), அணு (aṇu)</td></tr>
+  <tr style="background:lightgray"><td>NNS-3SA--</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Com|Gender=Com|Number=Sing|Person=3</td><td>சிலருடன் (cilaruṭan)</td></tr>
+  <tr><td>NNS-3SN--</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Gender=Neut|Number=Sing|Person=3</td><td>மனிதாபிமானத்தோடு (manitāpimānattōṭu), நம்பிக்கையோடு (nampikkaiyōṭu), துணையோடு (tuṇaiyōṭu), மனப்பான்மையோடு (manappānmaiyōṭu), அமைப்புடன் (amaippuṭan)</td></tr>
+  <tr style="background:lightgray"><td>NO--3SN--</td><td>=&gt;</td><td>PROPN</td><td>Gender=Neut|Number=Sing|Person=3</td><td>இந்திய (intiya), அமெரிக்க (amerikka), தமிழக (tamilaka), சர்வதேச (carvatēca), மாநில (mānila)</td></tr>
+  <tr><td>NPDF3PH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Gender=Com|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Fut|VerbForm=Part</td><td>மீறுவோருக்கு (mīruvōrukku)</td></tr>
+  <tr style="background:lightgray"><td>NPLF3PH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Gender=Com|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Fut|VerbForm=Part</td><td>செய்தவர்களில் (ceytavarkaḷil)</td></tr>
+  <tr><td>NPND3PH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Past|VerbForm=Part</td><td>வாழ்ந்தவர்கள் (vālntavarkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>NPND3SH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Part</td><td>சேர்ந்தவர் (cērntavar), தெரிந்தவர் (terintavar)</td></tr>
+  <tr><td>NPNF3PA-A</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Nom|Gender=Com|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Part</td><td>சேர்ந்தவர்கள் (cērntavarkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>NPNF3PH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Fut|VerbForm=Part</td><td>சேர்ந்தவர்கள் (cērntavarkaḷ), உயிரிழந்தவர்கள் (uyirilantavarkaḷ), செய்தவர்கள் (ceytavarkaḷ)</td></tr>
+  <tr><td>NPNF3SH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Part</td><td>என்பவர் (enpavar)</td></tr>
+  <tr style="background:lightgray"><td>NPNP3SH-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Com|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Part</td><td>இருந்தவர் (iruntavar)</td></tr>
+  <tr><td>NPNT3SM-A</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Masc|Negative=Pos|Number=Sing|Person=3|VerbForm=Part</td><td>அற்றவன் (arravan)</td></tr>
+  <tr style="background:lightgray"><td>PP-------</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td>ஆக (āka), உடன் (uṭan), இலிருந்து (iliruntu), குறித்து (kurittu), மீது (mītu)</td></tr>
+  <tr><td>QQ-------</td><td>=&gt;</td><td>DET</td><td>NumType=Card</td><td>மிக (mika), மிகப் (mikap), மிகச் (mikac), அதிகம் (atikam), அதிக (atika)</td></tr>
+  <tr style="background:lightgray"><td>RBA-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Ind</td><td>யாரையும் (yāraiyum)</td></tr>
+  <tr><td>RBD-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Ind</td><td>யாருக்கும் (yārukkum)</td></tr>
+  <tr style="background:lightgray"><td>RBN-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Ind</td><td>யாரும் (yārum)</td></tr>
+  <tr><td>RBN-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind</td><td>எதுவும் (etuvum)</td></tr>
+  <tr style="background:lightgray"><td>RhA-1SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td>தன்னைப் (tannaip)</td></tr>
+  <tr><td>RhD-1SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs|Reflex=Yes</td><td>தனக்கு (tanakku)</td></tr>
+  <tr style="background:lightgray"><td>RhD-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td>தமக்க் (tamakk)</td></tr>
+  <tr><td>RhG-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3|PronType=Prs|Reflex=Yes</td><td>தங்களின் (taṅkaḷin), தங்களது (taṅkaḷatu)</td></tr>
+  <tr style="background:lightgray"><td>RhG-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=3|PronType=Prs|Reflex=Yes</td><td>தனது (tanatu)</td></tr>
+  <tr><td>RiG-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=3|PronType=Int</td><td>யாருடைய (yāruṭaiya)</td></tr>
+  <tr style="background:lightgray"><td>RiN-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Int</td><td>யார் (yār)</td></tr>
+  <tr><td>RiN-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int</td><td>எத்தகையது (ettakaiyatu), ஏத் (ēt)</td></tr>
+  <tr style="background:lightgray"><td>RpA-1PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs</td><td>நம்மை (nammai)</td></tr>
+  <tr><td>RpA-2SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>உங்களைச் (uṅkaḷaic)</td></tr>
+  <tr style="background:lightgray"><td>RpA-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Com|Number=Plur|Person=3|PronType=Prs</td><td>அவர்களை (avarkaḷai)</td></tr>
+  <tr><td>RpA-3PN--</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs</td><td>அவற்றை (avarrai), இவற்றை (ivarrai)</td></tr>
+  <tr style="background:lightgray"><td>RpA-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td>அதை (atai), இதை (itai), இதைத் (itait), அதைப் (ataip), இதைச் (itaic)</td></tr>
+  <tr><td>RpD-1SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs</td><td>எனக்கு (enakku), எனக்க் (enakk)</td></tr>
+  <tr style="background:lightgray"><td>RpD-2PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=2|PronType=Prs</td><td>உங்களுக்கு (uṅkaḷukku)</td></tr>
+  <tr><td>RpD-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3|PronType=Prs</td><td>அவர்களுக்கு (avarkaḷukku), இவர்களுக்க் (ivarkaḷukk)</td></tr>
+  <tr style="background:lightgray"><td>RpD-3SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>அவருக்கு (avarukku), அவருக்குப் (avarukkup)</td></tr>
+  <tr><td>RpD-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td>அதற்க் (atark), இதற்கு (itarku), அதற்கு (atarku)</td></tr>
+  <tr style="background:lightgray"><td>RpG-1PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=1|PronType=Prs</td><td>நம்முடைய (nammuṭaiya), நமது (namatu)</td></tr>
+  <tr><td>RpG-1SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=1|PronType=Prs</td><td>எனது (enatu), என் (en), தன்னுடைய (tannuṭaiya), என்ன் (enn), என்னுடைய (ennuṭaiya)</td></tr>
+  <tr style="background:lightgray"><td>RpG-2SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>உங்கள் (uṅkaḷ)</td></tr>
+  <tr><td>RpG-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Gen|Gender=Com|Number=Plur|Person=3|PronType=Prs</td><td>அவர்களது (avarkaḷatu), தங்கள் (taṅkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>RpG-3SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>அவரது (avaratu)</td></tr>
+  <tr><td>RpG-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td>இதன் (itan), அதன் (atan)</td></tr>
+  <tr style="background:lightgray"><td>RpI-1PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=1|PronType=Prs</td><td>எங்களால் (eṅkaḷāl)</td></tr>
+  <tr><td>RpI-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Ins|Gender=Com|Number=Plur|Person=3|PronType=Prs</td><td>அவர்களால் (avarkaḷāl)</td></tr>
+  <tr style="background:lightgray"><td>RpL-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td>அதில் (atil)</td></tr>
+  <tr><td>RpN-1PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs</td><td>நாம் (nām), நாங்கள் (nāṅkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>RpN-1SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs</td><td>நான் (nān)</td></tr>
+  <tr><td>RpN-2PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=2|PronType=Prs</td><td>நீங்கள் (nīṅkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>RpN-2SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>நீங்கள் (nīṅkaḷ)</td></tr>
+  <tr><td>RpN-3PA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3|PronType=Prs</td><td>அவர்கள் (avarkaḷ), அனைவரும் (anaivarum)</td></tr>
+  <tr style="background:lightgray"><td>RpN-3PN--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs</td><td>அனைத்தும் (anaittum), இவை (ivai)</td></tr>
+  <tr><td>RpN-3SA--</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs</td><td>தான் (tān)</td></tr>
+  <tr style="background:lightgray"><td>RpN-3SH--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>அவர் (avar), இவர் (ivar)</td></tr>
+  <tr><td>RpN-3SN--</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td>இது (itu), அது (atu), இத் (it)</td></tr>
+  <tr style="background:lightgray"><td>TS-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>உம் (um)</td></tr>
+  <tr><td>Tb-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>காட்டிலும் (kāṭṭilum), விட (viṭa)</td></tr>
+  <tr style="background:lightgray"><td>Td-D----A</td><td>=&gt;</td><td>PART</td><td>Negative=Pos|Tense=Past|VerbForm=Part</td><td>என்ற (enra)</td></tr>
+  <tr><td>Td-P----A</td><td>=&gt;</td><td>PART</td><td>Negative=Pos|Tense=Pres|VerbForm=Part</td><td>என்கிற (enkira)</td></tr>
+  <tr style="background:lightgray"><td>Te-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>ஆ (ā)</td></tr>
+  <tr><td>Tg-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>ஆன (āna), ஆக (āka), ஆகவ் (ākav), ஆகத் (ākat), ஆகக் (ākak)</td></tr>
+  <tr style="background:lightgray"><td>Tk-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>ஏ (ē), ஏயே (ēyē), தான் (tān), ஏய் (ēy)</td></tr>
+  <tr><td>Tl-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>ஆவது (āvatu)</td></tr>
+  <tr style="background:lightgray"><td>Tm-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>மட்டுமே (maṭṭumē)</td></tr>
+  <tr><td>Tn-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>போது (pōtu), ஆறு (āru), வரை (varai), உடன் (uṭan), பிறகே (pirakē)</td></tr>
+  <tr style="background:lightgray"><td>To-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>ஓ (ō)</td></tr>
+  <tr><td>Tq-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>தான் (tān), ஏ (ē), ஏயே (ēyē)</td></tr>
+  <tr style="background:lightgray"><td>Ts-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>உம் (um)</td></tr>
+  <tr><td>Tt-T----A</td><td>=&gt;</td><td>PART</td><td>Negative=Pos|VerbForm=Inf</td><td>என்று (enru), என (ena), என்ற் (enr), எனத் (enat), எனக் (enak)</td></tr>
+  <tr style="background:lightgray"><td>Tv-------</td><td>=&gt;</td><td>PART</td><td>_</td><td>உம் (um), கூட (kūṭa)</td></tr>
+  <tr><td>Tw-T----A</td><td>=&gt;</td><td>PART</td><td>Mood=Cnd|Negative=Pos|VerbForm=Fin</td><td>என்றால் (enrāl)</td></tr>
+  <tr style="background:lightgray"><td>TzAF3SN-A</td><td>=&gt;</td><td>PART</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger</td><td>என்பதை (enpatai), என்பதைய் (enpataiy)</td></tr>
+  <tr><td>TzIF3SN-A</td><td>=&gt;</td><td>PART</td><td>Case=Ins|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger</td><td>என்பதால் (enpatāl)</td></tr>
+  <tr style="background:lightgray"><td>TzNF3SN-A</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger</td><td>என்பது (enpatu), எடுப்பத் (eṭuppat), கொடுப்பத் (koṭuppat)</td></tr>
+  <tr><td>U=-------</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td>2 (2), 10 (10), 20 (20), 80 (80), 3 (3)</td></tr>
+  <tr style="background:lightgray"><td>U=D-3SN-A</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|NumForm=Digit|Person=3</td><td>10-க்க் (10-kk), 1200க்க் (1200kk)</td></tr>
+  <tr><td>U=L-3SN-A</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|NumForm=Digit|Person=3</td><td>மூன்றில் (mūnril), 444-ல் (444-l), 1995ல் (1995l), 1992-96ல் (1992-96l), 2009-ல் (2009-l)</td></tr>
+  <tr style="background:lightgray"><td>Ux-------</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td>இரு (iru), ஆயிரம் (āyiram), மூன்று (mūnru), லட்சம் (laṭcam), இரண்டு (iraṇṭu)</td></tr>
+  <tr><td>UxA-3SN-A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|NumType=Card|Person=3</td><td>ஒன்றை (onrai)</td></tr>
+  <tr style="background:lightgray"><td>UxD-3SN-A</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|NumType=Card|Person=3</td><td>ஒன்றுக்கு (onrukku)</td></tr>
+  <tr><td>UxL-3SN--</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Card|Person=3</td><td>ஒன்றில் (onril)</td></tr>
+  <tr style="background:lightgray"><td>UxL-3SN-A</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|NumType=Card|Person=3</td><td>ஐந்தில் (aintil), ஆயிரத்த் (āyiratt)</td></tr>
+  <tr><td>UxN-3SH--</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Com|Number=Sing|NumType=Card|Person=3|Polite=Pol</td><td>ஒருவர் (oruvar)</td></tr>
+  <tr style="background:lightgray"><td>Uy-------</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td>முதல் (mutal), இரண்டாவது (iraṇṭāvatu), 1992-ம் (1992-m), 1-ம் (1-m), 21-ம் (21-m)</td></tr>
+  <tr><td>VR-D1SAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>போனேன் (pōnēn)</td></tr>
+  <tr style="background:lightgray"><td>VR-D3PHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>விட்டனர் (viṭṭanar), கொண்டனர் (koṇṭanar), வந்தனர் (vantanar)</td></tr>
+  <tr><td>VR-D3PHPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>பட்டனர் (paṭṭanar)</td></tr>
+  <tr style="background:lightgray"><td>VR-D3PNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>இருந்தன (iruntana), வந்தன (vantana), விட்டன (viṭṭana)</td></tr>
+  <tr><td>VR-D3PNPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>பட்டன (paṭṭana)</td></tr>
+  <tr style="background:lightgray"><td>VR-D3SHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>இருந்தார் (iruntār), கொண்டார் (koṇṭār), என்றார் (enrār), வந்தார் (vantār)</td></tr>
+  <tr><td>VR-D3SHPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>பட்டார் (paṭṭār)</td></tr>
+  <tr style="background:lightgray"><td>VR-D3SNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>இருந்தது (iruntatu), விட்டது (viṭṭatu), தக்கது (takkatu), கொண்டது (koṇṭatu), கூடியது (kūṭiyatu)</td></tr>
+  <tr><td>VR-D3SNPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass</td><td>பட்டது (paṭṭatu)</td></tr>
+  <tr style="background:lightgray"><td>VR-F3PAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>ஆவர் (āvar)</td></tr>
+  <tr><td>VR-F3PHPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>படுவார்கள் (paṭuvārkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>VR-F3SHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>கொள்வார் (koḷvār)</td></tr>
+  <tr><td>VR-F3SNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>வேண்டும் (vēṇṭum), முடியும் (muṭiyum), கூடும் (kūṭum), விடும் (viṭum)</td></tr>
+  <tr style="background:lightgray"><td>VR-F3SNPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>ப்படும் (ppaṭum), படும் (paṭum)</td></tr>
+  <tr><td>VR-P1PAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>வருகிறோம் (varukirōm), இருக்கிறோம் (irukkirōm)</td></tr>
+  <tr style="background:lightgray"><td>VR-P2PHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>இருக்கிறீர்கள் (irukkirīrkaḷ)</td></tr>
+  <tr><td>VR-P3PAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>வருகின்றனர் (varukinranar)</td></tr>
+  <tr style="background:lightgray"><td>VR-P3PAPA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>படுகின்றனர் (paṭukinranar)</td></tr>
+  <tr><td>VR-P3PHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>வருகின்றனர் (varukinranar), இருக்கிறார்கள் (irukkirārkaḷ), இருக்கினறனர் (irukkinaranar)</td></tr>
+  <tr style="background:lightgray"><td>VR-P3PHPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>படுகின்றனர் (paṭukinranar)</td></tr>
+  <tr><td>VR-P3PNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>வருகின்றன (varukinrana), இருக்கின்றன (irukkinrana)</td></tr>
+  <tr style="background:lightgray"><td>VR-P3PNPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>படுகின்றன (paṭukinrana)</td></tr>
+  <tr><td>VR-P3SHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>இருக்கிறார் (irukkirār)</td></tr>
+  <tr style="background:lightgray"><td>VR-P3SNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>வருகிறது (varukiratu), இருக்கிறது (irukkiratu)</td></tr>
+  <tr><td>VR-P3SNPA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass</td><td>படுகிறது (paṭukiratu)</td></tr>
+  <tr style="background:lightgray"><td>VR-T1PAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td>உள்ளோம் (uḷḷōm)</td></tr>
+  <tr><td>VR-T1SAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=1|VerbForm=Fin|Voice=Act</td><td>மாட்டேன் (māṭṭēn), உள்ளேன் (uḷḷēn)</td></tr>
+  <tr style="background:lightgray"><td>VR-T3PAAA</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td>உள்ளனர் (uḷḷanar)</td></tr>
+  <tr><td>VR-T3PHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|VerbForm=Fin|Voice=Act</td><td>மாட்டார்கள் (māṭṭārkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>VR-T3PNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td>இல்லை (illai), உள்ளன (uḷḷana), அல்ல (alla)</td></tr>
+  <tr><td>VR-T3SHAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|VerbForm=Fin|Voice=Act</td><td>உள்ளார் (uḷḷār), மாட்டார் (māṭṭār)</td></tr>
+  <tr style="background:lightgray"><td>VR-T3SN-N</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Neg|Number=Sing|Person=3|VerbForm=Fin</td><td>முடியாது (muṭiyātu), கூடாது (kūṭātu), மாட்டாது (māṭṭātu), படாது (paṭātu), வேண்டாம் (vēṇṭām)</td></tr>
+  <tr><td>VR-T3SNAA</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td>உள்ளது (uḷḷatu), ஆம் (ām), பெற்றுள்ளது (perruḷḷatu)</td></tr>
+  <tr style="background:lightgray"><td>VT-T---AA</td><td>=&gt;</td><td>AUX</td><td>Negative=Pos|VerbForm=Part|Voice=Act</td><td>கொண்டு (koṇṭu), விட்டு (viṭṭu), வந்து (vantu), கொண்ட் (koṇṭ), வந்த் (vant)</td></tr>
+  <tr><td>VT-T---PA</td><td>=&gt;</td><td>AUX</td><td>Negative=Pos|VerbForm=Part|Voice=Pass</td><td>பட்ட் (paṭṭ), பட்டு (paṭṭu), ப்பட்ட் (ppaṭṭ)</td></tr>
+  <tr style="background:lightgray"><td>VU-T---AA</td><td>=&gt;</td><td>AUX</td><td>Negative=Pos|VerbForm=Inf|Voice=Act</td><td>விடக் (viṭak), விடப் (viṭap), கொள்ள (koḷḷa), விட (viṭa)</td></tr>
+  <tr><td>VU-T---PA</td><td>=&gt;</td><td>AUX</td><td>Negative=Pos|VerbForm=Inf|Voice=Pass</td><td>ப்பட (ppaṭa), படவ் (paṭav), பட்ட (paṭṭa), பட (paṭa), படக் (paṭak)</td></tr>
+  <tr style="background:lightgray"><td>VW-T---AA</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Negative=Pos|VerbForm=Fin|Voice=Act</td><td>விட்டால் (viṭṭāl), இருந்தால் (iruntāl), வந்தால் (vantāl), விடில் (viṭil), வைத்தால் (vaittāl)</td></tr>
+  <tr><td>VW-T---PA</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|Negative=Pos|VerbForm=Fin|Voice=Pass</td><td>பட்டால் (paṭṭāl)</td></tr>
+  <tr style="background:lightgray"><td>VZAF3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>கொள்வதைய் (koḷvataiy)</td></tr>
+  <tr><td>VZAT3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>உள்ளதைய் (uḷḷataiy)</td></tr>
+  <tr style="background:lightgray"><td>VZDD3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>கொண்டதற்க் (koṇṭatark)</td></tr>
+  <tr><td>VZDD3SNPA</td><td>=&gt;</td><td>AUX</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Pass</td><td>பட்டதற்கு (paṭṭatarku)</td></tr>
+  <tr style="background:lightgray"><td>VZIT3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Ins|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>உள்ளதால் (uḷḷatāl)</td></tr>
+  <tr><td>VZND3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>விட்டத் (viṭṭat), கூடியத் (kūṭiyat), இருந்தத் (iruntat), பெற்றுவிட்டத் (perruviṭṭat)</td></tr>
+  <tr style="background:lightgray"><td>VZND3SNPA</td><td>=&gt;</td><td>AUX</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Pass</td><td>பட்டது (paṭṭatu), பட்டத் (paṭṭat)</td></tr>
+  <tr><td>VZNF3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>இருப்பத் (iruppat), வருவது (varuvatu), வருவத் (varuvat), போவத் (pōvat), இருப்பது (iruppatu)</td></tr>
+  <tr style="background:lightgray"><td>VZNT3SNAA</td><td>=&gt;</td><td>AUX</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>உள்ளத் (uḷḷat), கொள்ளல் (koḷḷal), உள்ளது (uḷḷatu), வரல் (varal)</td></tr>
+  <tr><td>Vj-T2PAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td>இருங்கள் (iruṅkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>Vr-D1P-AA</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>வாழ்ந்தோம் (vālntōm)</td></tr>
+  <tr><td>Vr-D1SAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act</td><td>மேற்கொண்டேன் (mērkoṇṭēn)</td></tr>
+  <tr style="background:lightgray"><td>Vr-D3PAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>காயமடைந்தனர் (kāyamaṭaintanar)</td></tr>
+  <tr><td>Vr-D3PHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>உயிரிழந்தனர் (uyirilantanar), தெரிவித்தனர் (terivittanar), சென்றனர் (cenranar), செய்தனர் (ceytanar), வரவேற்றனர் (varavērranar)</td></tr>
+  <tr style="background:lightgray"><td>Vr-D3PNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>தெரிவித்தன (terivittana), தீர்ந்தன (tīrntana), இருந்தன (iruntana), பதிவாயின (pativāyina), எழுந்தன (eluntana)</td></tr>
+  <tr><td>Vr-D3SHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>தெரிவித்தார் (terivittār), என்றார் (enrār), கூறினார் (kūrinār), இருந்தார் (iruntār), பார்வையிட்டார் (pārvaiyiṭṭār)</td></tr>
+  <tr style="background:lightgray"><td>Vr-D3SNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act</td><td>நடைபெற்றது (naṭaiperratu), தக்கது (takkatu), இருந்தது (iruntatu), தொடங்கியது (toṭaṅkiyatu), எழுந்தது (eluntatu)</td></tr>
+  <tr><td>Vr-F1P-AA</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>போராடுவோம் (pōrāṭuvōm), வைப்போம் (vaippōm), கட்டுவோம் (kaṭṭuvōm), செய்வோம் (ceyvōm), நிறைவேற்றுவோம் (niraivērruvōm)</td></tr>
+  <tr style="background:lightgray"><td>Vr-F3PHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>திரும்புவார்கள் (tirumpuvārkaḷ), நடத்துவர் (naṭattuvar)</td></tr>
+  <tr><td>Vr-F3PNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>பங்காற்றும் (paṅkārrum)</td></tr>
+  <tr style="background:lightgray"><td>Vr-F3SHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>செய்வார் (ceyvār), செல்வார் (celvār)</td></tr>
+  <tr><td>Vr-F3SNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>நடைபெறும் (naṭaiperum), இருக்கும் (irukkum), ஏற்படுத்தும் (ērpaṭuttum), பொருந்தும் (poruntum), அமையும் (amaiyum)</td></tr>
+  <tr style="background:lightgray"><td>Vr-P1P-AA</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>போட்டியிடுகிறோம் (pōṭṭiyiṭukirōm), ஆற்றுகிறோம் (ārrukirōm), வற்புறுத்துகிறோம் (varpuruttukirōm)</td></tr>
+  <tr><td>Vr-P1PAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>எதிர்க்கிறோம் (etirkkirōm), செய்கிறோம் (ceykirōm)</td></tr>
+  <tr style="background:lightgray"><td>Vr-P1SAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>கொள்கிறேன் (koḷkirēn), புறக்கணிக்கிறேன் (purakkaṇikkirēn), கருதுகிறேன் (karutukirēn), கேட்டுக்கொள்கிறேன் (kēṭṭukkoḷkirēn), இருக்கிறேன் (irukkirēn)</td></tr>
+  <tr><td>Vr-P2PAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>அஞ்சுகிறீர்கள் (añcukirīrkaḷ), வருகிறீர்கள் (varukirīrkaḷ)</td></tr>
+  <tr style="background:lightgray"><td>Vr-P2PHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>விரும்புகிறீர்கள் (virumpukirīrkaḷ)</td></tr>
+  <tr><td>Vr-P3PHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>தெரிவிக்கின்றனர் (terivikkinranar), நடத்துகின்றனர் (naṭattukinranar), வழிபடுகிறார்கள் (valipaṭukirārkaḷ), உயிரிழக்கின்றனர் (uyirilakkinranar)</td></tr>
+  <tr style="background:lightgray"><td>Vr-P3PNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>ஏற்படுகின்றன (ērpaṭukinrana), போட்டியிடுகின்றன (pōṭṭiyiṭukinrana), செயல்படுகின்றன (ceyalpaṭukinrana), முயல்கின்றன (muyalkinrana)</td></tr>
+  <tr><td>Vr-P3SHAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>செல்கிறார் (celkirār), சந்திக்கிறார் (cantikkirār)</td></tr>
+  <tr style="background:lightgray"><td>Vr-P3SNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>தெரிகிறது (terikiratu), தெரிவிக்கிறது (terivikkiratu), இருக்கிறது (irukkiratu), கூறுகிறது (kūrukiratu), நிலவுகிறது (nilavukiratu)</td></tr>
+  <tr><td>Vr-T1SAAA</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Com|Mood=Ind|Negative=Pos|Number=Sing|Person=1|VerbForm=Fin|Voice=Act</td><td>உள்ளேன் (uḷḷēn)</td></tr>
+  <tr style="background:lightgray"><td>Vr-T2SH-N</td><td>=&gt;</td><td>VERB</td><td>Gender=Com|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Polite=Pol|VerbForm=Fin</td><td>கவலைப்படாதீர்கள் (kavalaippaṭātīrkaḷ)</td></tr>
+  <tr><td>Vr-T3PNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td>இல்லை (illai), உள்ளன (uḷḷana), கிடைக்காது (kiṭaikkātu), கட்டுப்படுத்தாது (kaṭṭuppaṭuttātu), பயனில்லை (payanillai)</td></tr>
+  <tr style="background:lightgray"><td>Vr-T3SNAA</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td>உள்ளது (uḷḷatu)</td></tr>
+  <tr><td>Vt-T----N</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|VerbForm=Part</td><td>செயல்படாமல் (ceyalpaṭāmal), இல்லாமல் (illāmal), தரா (tarā), நிறைவேற்றா (niraivērrā), முடியாமல் (muṭiyāmal)</td></tr>
+  <tr style="background:lightgray"><td>Vt-T---AA</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Part|Voice=Act</td><td>தெரிவித்த் (terivitt), செய்து (ceytu), கொண்டு (koṇṭu), செய்த் (ceyt), கூறிய் (kūriy)</td></tr>
+  <tr><td>Vu-T---AA</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|Voice=Act</td><td>செய்யப் (ceyyap), தெரிவிக்கப் (terivikkap), வழங்கப் (valaṅkap), செய்ய (ceyya), நியமிக்கப் (niyamikkap)</td></tr>
+  <tr style="background:lightgray"><td>Vu-T---PA</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|Voice=Pass</td><td>பட (paṭa)</td></tr>
+  <tr><td>Vw-T---AA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|VerbForm=Fin|Voice=Act</td><td>ஆனால் (ānāl), பெற்றால் (perrāl), ஏற்பட்டால் (ērpaṭṭāl), கட்டினால் (kaṭṭināl), உடைத்தால் (uṭaittāl)</td></tr>
+  <tr style="background:lightgray"><td>VzAD3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>போராடியதைப் (pōrāṭiyataip), ஓய்வுபெற்றதைத் (ōyvuperratait), முடிவடைந்ததைத் (muṭivaṭaintatait)</td></tr>
+  <tr><td>VzAF3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>கூறுவதைய் (kūruvataiy), செலுத்துவதை (celuttuvatai)</td></tr>
+  <tr style="background:lightgray"><td>VzDD3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>தெரிவித்ததற்க் (terivittatark)</td></tr>
+  <tr><td>VzDF3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>கொள்வதற்க் (koḷvatark), வாழ்வதற்கு (vālvatarku), நடத்துவதற்க் (naṭattuvatark), இடம்பெறுவதற்கு (iṭamperuvatarku), பயமுறுத்துவதற்க் (payamuruttuvatark)</td></tr>
+  <tr style="background:lightgray"><td>VzDF3SNPA</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Pass</td><td>படுவதற்க் (paṭuvatark)</td></tr>
+  <tr><td>VzGD3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Gen|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>விடுத்ததன் (viṭuttatan)</td></tr>
+  <tr style="background:lightgray"><td>VzID3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>ஆனதால் (ānatāl), ஆகியதால் (ākiyatāl)</td></tr>
+  <tr><td>VzIF3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>புறக்கணிப்பதால் (purakkaṇippatāl), போட்டியிடுவதால் (pōṭṭiyiṭuvatāl)</td></tr>
+  <tr style="background:lightgray"><td>VzIT3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>இல்லாததால் (illātatāl), அளிக்காததால் (aḷikkātatāl)</td></tr>
+  <tr><td>VzLD3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>வெடித்ததில் (veṭittatil), தொகுத்ததில் (tokuttatil), கிடைத்ததில் (kiṭaittatil), விபத்துக்குள்ளானதில் (vipattukkuḷḷānatil), மோதியதில் (mōtiyatil)</td></tr>
+  <tr style="background:lightgray"><td>VzLF3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>நிறைவேற்றுவதில் (niraivērruvatil), கையெழுத்தாவதில் (kaiyeluttāvatil), செயல்படுத்துவதில் (ceyalpaṭuttuvatil), சுத்தப்படுத்துவதில் (cuttappaṭuttuvatil)</td></tr>
+  <tr><td>VzLT3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Loc|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>உள்ளதால் (uḷḷatāl)</td></tr>
+  <tr style="background:lightgray"><td>VzND3PNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>வேண்டியவை (vēṇṭiyavai)</td></tr>
+  <tr><td>VzND3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Act</td><td>கூறியத் (kūriyat), உயிரிழந்தத் (uyirilantat), பேசியத் (pēciyat), இருந்தத் (iruntat), செய்தத் (ceytat)</td></tr>
+  <tr style="background:lightgray"><td>VzND3SNPA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Ger|Voice=Pass</td><td>பட்டத் (paṭṭat)</td></tr>
+  <tr><td>VzNF3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Ger|Voice=Act</td><td>உயிரிழப்பத் (uyirilappat), நம்புவத் (nampuvat), செயல்படுவதற்க் (ceyalpaṭuvatark), போவத் (pōvat), விரிப்பது (virippatu)</td></tr>
+  <tr style="background:lightgray"><td>VzNP3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Ger|Voice=Act</td><td>கூறுகிறார் (kūrukirār)</td></tr>
+  <tr><td>VzNT3SN-N</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Neg|Number=Sing|Person=3|VerbForm=Ger</td><td>முடியாதது (muṭiyātatu)</td></tr>
+  <tr style="background:lightgray"><td>VzNT3SNAA</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Neut|Negative=Pos|Number=Sing|Person=3|VerbForm=Ger|Voice=Act</td><td>உள்ளத் (uḷḷat), செல்லல் (cellal)</td></tr>
+  <tr><td>Z#-------</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td>. (.)</td></tr>
+  <tr style="background:lightgray"><td>Z:-------</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td>, (,), - (-), : (:), ( ((), ) ())</td></tr>
+</table>
