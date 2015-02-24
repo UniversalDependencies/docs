@@ -1,0 +1,354 @@
+---
+layout: base
+title: 'Tagset ar::padt conversion to universal POS tags and features'
+---
+
+<a href="index.html">all tables</a>
+
+## Tagset ar::padt
+
+**Disclaimer:**
+This conversion table was generated automatically via Interset.
+It uses only tags (+ features) as input, therefore it is only an approximation.
+Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
+The table requires manual postprocessing in order to provide accurate and complete information.
+
+Tagset <tt>ar::padt</tt>, total 335 tags.
+
+<table>
+  <tr style="background:lightgray"><td>A-----FD1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr><td>A-----FD1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FD1R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr><td>A-----FD2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FD2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr><td>A-----FD4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FD4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Dual</td><td></td></tr>
+  <tr><td>A-----FP1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FP1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>A-----FP1R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FP2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>A-----FP2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FP2R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>A-----FP4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FP4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>A-----FP4R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----FS1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS1R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----FS2C</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Com|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----FS2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS2R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----FS4C</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Com|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----FS4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----FS4R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MD1C</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Com|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MD1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr><td>A-----MD1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MD2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr><td>A-----MD2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MD2R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr><td>A-----MD4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MD4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Dual</td><td></td></tr>
+  <tr><td>A-----MP1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MP1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr><td>A-----MP1R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MP2C</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Com|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr><td>A-----MP2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MP2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr><td>A-----MP2R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MP4C</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Com|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr><td>A-----MP4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MP4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr><td>A-----MP4R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS1C</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Com|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS1D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS1I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS1R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS2C</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Com|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS2D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS2I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS2R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS4A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Negative=Neg|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS4C</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Com|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS4D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>A-----MS4I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>A-----MS4R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Sing</td><td></td></tr>
+  <tr><td>C---------</td><td>=&gt;</td><td>CONJ</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>D---------</td><td>=&gt;</td><td>ADV</td><td>_</td><td></td></tr>
+  <tr><td>F---------</td><td>=&gt;</td><td>PART</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>G---------</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td></td></tr>
+  <tr><td>I---------</td><td>=&gt;</td><td>INTJ</td><td>_</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------D1D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Number=Dual</td><td></td></tr>
+  <tr><td>N------D1I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------D1R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Number=Dual</td><td></td></tr>
+  <tr><td>N------D2D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------D2I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Number=Dual</td><td></td></tr>
+  <tr><td>N------D2R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------D4D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Number=Dual</td><td></td></tr>
+  <tr><td>N------D4I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Number=Dual</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------D4R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Number=Dual</td><td></td></tr>
+  <tr><td>N------P1D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------P1I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Number=Plur</td><td></td></tr>
+  <tr><td>N------P1R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------P2D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Number=Plur</td><td></td></tr>
+  <tr><td>N------P2I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------P2R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Number=Plur</td><td></td></tr>
+  <tr><td>N------P4D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------P4I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Number=Plur</td><td></td></tr>
+  <tr><td>N------P4R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Number=Plur</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------S1D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Number=Sing</td><td></td></tr>
+  <tr><td>N------S1I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------S1R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Number=Sing</td><td></td></tr>
+  <tr><td>N------S2D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------S2I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Number=Sing</td><td></td></tr>
+  <tr><td>N------S2R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------S4A</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Negative=Neg|Number=Sing</td><td></td></tr>
+  <tr><td>N------S4D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>N------S4I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Number=Sing</td><td></td></tr>
+  <tr><td>N------S4R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Number=Sing</td><td></td></tr>
+  <tr style="background:lightgray"><td>P---------</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td></td></tr>
+  <tr><td>PI------1-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Nom</td><td></td></tr>
+  <tr style="background:lightgray"><td>PI------2-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td></td></tr>
+  <tr><td>PI------4-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc</td><td></td></tr>
+  <tr style="background:lightgray"><td>Q---------</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td></td></tr>
+  <tr><td>QC-----S1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----S4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----S2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----S1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----S4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----S2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----S4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----D2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----D4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QC-----P2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QC-----P4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QI----F-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Fem|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>QI----F-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr><td>QI----F-4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>QI----M-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr><td>QI----M-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>QI----M-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr><td>QI----M-4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>QI----M-4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr><td>QI----M-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Masc|NumForm=Word|NumValue=1</td><td></td></tr>
+  <tr style="background:lightgray"><td>QL------1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|NumForm=Word</td><td></td></tr>
+  <tr><td>QL------2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QL------2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|NumForm=Word</td><td></td></tr>
+  <tr><td>QL------4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QL------4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|NumForm=Word</td><td></td></tr>
+  <tr><td>QL------4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----S2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----S4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Sing|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----D2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----D4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Dual|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P1A</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QM-----P2A</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr><td>QM-----P4A</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Negative=Neg|Number=Plur|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QU----F---</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumForm=Word</td><td></td></tr>
+  <tr><td>QU----M---</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----F-1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----F-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----F-1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----F-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----F-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----F-2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----F-4C</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Com|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----F-4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----F-4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----F-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Fem|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----M-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----M-2C</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Com|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----M-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----M-4C</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Com|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QV----M-4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr style="background:lightgray"><td>QV----M-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Masc|NumForm=Word|NumValue=3</td><td></td></tr>
+  <tr><td>QX----F-1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Fem|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----F-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Fem|NumForm=Word</td><td></td></tr>
+  <tr><td>QX----F-2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Gender=Fem|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----F-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Fem|NumForm=Word</td><td></td></tr>
+  <tr><td>QX----M-1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----M-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr><td>QX----M-1R</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Red|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----M-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr><td>QX----M-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----M-2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr><td>QX----M-4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr style="background:lightgray"><td>QX----M-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Masc|NumForm=Word</td><td></td></tr>
+  <tr><td>QY----F-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Fem|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>QY----F-2R</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Red|Gender=Fem|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr><td>QY----M-1D</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Def|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>QY----M-1I</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr><td>QY----M-2D</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Def|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>QY----M-2I</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr><td>QY----M-4D</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Def|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>QY----M-4I</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr><td>QY----M-4R</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Definite=Red|Gender=Masc|NumForm=Word|NumValue=2</td><td></td></tr>
+  <tr style="background:lightgray"><td>S---------</td><td>=&gt;</td><td>PRON</td><td>_</td><td></td></tr>
+  <tr><td>SD----FD1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----FD2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Dual|PronType=Dem</td><td></td></tr>
+  <tr><td>SD----FS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----FS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr><td>SD----FS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----MD1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Dual|PronType=Dem</td><td></td></tr>
+  <tr><td>SD----MD2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Dual|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----MP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|PronType=Dem</td><td></td></tr>
+  <tr><td>SD----MP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----MS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr><td>SD----MS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr style="background:lightgray"><td>SD----MS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td></td></tr>
+  <tr><td>SP---1MP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---1MP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---1MS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---2FS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---2MP1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---2MP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---2MP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---2MS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---2MS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---2MS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3FP1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3FP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3FP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3FS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3FS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3FS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3MD2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3MP1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3MP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3MP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3MS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SP---3MS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr><td>SP---3MS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>SR----FD1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|PronType=Rel</td><td></td></tr>
+  <tr><td>SR----FS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr style="background:lightgray"><td>SR----FS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr><td>SR----FS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr style="background:lightgray"><td>SR----MD1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Dual|PronType=Rel</td><td></td></tr>
+  <tr><td>SR----MP2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|PronType=Rel</td><td></td></tr>
+  <tr style="background:lightgray"><td>SR----MP4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Rel</td><td></td></tr>
+  <tr><td>SR----MS1-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr style="background:lightgray"><td>SR----MS2-</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr><td>SR----MS4-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Rel</td><td></td></tr>
+  <tr style="background:lightgray"><td>U---------</td><td>=&gt;</td><td>X</td><td>_</td><td>,, ., -, ", )</td></tr>
+  <tr><td>VCE---MD--</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Dual|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VCJ---FP--</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Plur|VerbForm=Fin</td><td></td></tr>
+  <tr><td>VCJ---FS--</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Imp|Number=Sing|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VCJ---MP--</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Plur|VerbForm=Fin</td><td></td></tr>
+  <tr><td>VCJ---MS--</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIA-1MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIIA-1MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIA-2MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIIA-2MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIA-3FD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIIA-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIA-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIIA-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIA-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIIP-2MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIP-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VIIP-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIIP-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VIIP-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJA-1MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIJA-2MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJA-3FD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Jus|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIJA-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJA-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIJA-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJA-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VIJP-1MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJP-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VIJP-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VIJP-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VISA-1MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISA-2MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VISA-2MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISA-3FD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Sub|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VISA-3FP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISA-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VISA-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Dual|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISA-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VISA-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISP-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VISP-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Dual|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VISP-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr><td>VISP-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-A-1MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Voice=Act</td><td></td></tr>
+  <tr><td>VP-A-2MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=2|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-A-2MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Voice=Act</td><td></td></tr>
+  <tr><td>VP-A-3FD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Dual|Person=3|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-A-3FP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Voice=Act</td><td></td></tr>
+  <tr><td>VP-A-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-A-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Dual|Person=3|Voice=Act</td><td></td></tr>
+  <tr><td>VP-A-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-A-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act</td><td></td></tr>
+  <tr><td>VP-P-3FP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-P-3FS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Pass</td><td></td></tr>
+  <tr><td>VP-P-3MD--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Dual|Person=3|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VP-P-3MP--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Pass</td><td></td></tr>
+  <tr><td>VP-P-3MS--</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>X---------</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td></td></tr>
+  <tr><td>Y---------</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td></td></tr>
+  <tr style="background:lightgray"><td>Z---------</td><td>=&gt;</td><td>PROPN</td><td>_</td><td></td></tr>
+</table>

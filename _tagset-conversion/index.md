@@ -11,6 +11,7 @@ It uses only tags (+ features) as input, therefore the result is only an approxi
 Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
 The tables require manual postprocessing in order to provide accurate and complete information.
 
+* <a href="ar-padt-uposf.html">ar::padt</a> (Arabic)
 * <a href="ar-conll-uposf.html">ar::conll</a> (Arabic)
 * <a href="ar-conll2007-uposf.html">ar::conll2007</a> (Arabic)
 * <a href="bg-conll-uposf.html">bg::conll</a> (Bulgarian)
@@ -18,6 +19,8 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="ca-conll2009-uposf.html">ca::conll2009</a> (Catalan)
 * <a href="cs-pdt-uposf.html">cs::pdt</a> (Czech)
 * <a href="cs-conll-uposf.html">cs::conll</a> (Czech)
+* <a href="cs-ajka-uposf.html">cs::ajka</a> (Czech)
+* <a href="cs-multext-uposf.html">cs::multext</a> (Czech)
 * <a href="da-conll-uposf.html">da::conll</a> (Danish)
 * <a href="de-conll2009-uposf.html">de::conll2009</a> (German)
 * <a href="de-smor-uposf.html">de::smor</a> (German)
@@ -37,10 +40,12 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="it-conll-uposf.html">it::conll</a> (Italian)
 * <a href="it-isdt-uposf.html">it::isdt</a> (Italian)
 * <a href="ja-conll-uposf.html">ja::conll</a> (Japanese)
+* <a href="ja-ipadic-uposf.html">ja::ipadic</a> (Japanese)
 * <a href="la-conll-uposf.html">la::conll</a> (Latin)
 * <a href="nl-conll-uposf.html">nl::conll</a> (Dutch)
 * <a href="nl-cgn-uposf.html">nl::cgn</a> (Dutch)
 * <a href="pl-ipipan-uposf.html">pl::ipipan</a> (Polish)
+* <a href="pt-cintil-uposf.html">pt::cintil</a> (Portuguese)
 * <a href="pt-conll-uposf.html">pt::conll</a> (Portuguese)
 * <a href="ro-rdt-uposf.html">ro::rdt</a> (Romanian)
 * <a href="ru-syntagrus-uposf.html">ru::syntagrus</a> (Russian)
