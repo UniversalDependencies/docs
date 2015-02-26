@@ -56,3 +56,4 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="sv-suc-uposf.html">sv::suc</a> (Swedish)
 * <a href="ta-tamiltb-uposf.html">ta::tamiltb</a> (Tamil)
 * <a href="te-conll-uposf.html">te::conll</a> (Telugu)
+* <a href="tr-conll-uposf.html">tr::conll</a> (Turkish)
