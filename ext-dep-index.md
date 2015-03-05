@@ -30,6 +30,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## compound
 - compound:prt
 [English](en-dep/compound:prt)
+[Swedish](sv-dep/compound:prt)
 
 
 ## csubj
@@ -58,10 +59,13 @@ Labels of language-specific relations explictly encode the core UD relation that
 - nmod:poss
 [English](en-dep/nmod:poss)
 [Finnish](fi-dep/nmod:poss)
+[Swedish](sv-dep/nmod:poss)
 
 - nmod:tmod
 [English](en-dep/nmod:tmod)
 
+- nmod:agent
+[Swedish](sv-dep/nmod:agent)
 
 ## nsubj
 - nsubj:cop
