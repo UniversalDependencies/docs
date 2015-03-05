@@ -7,7 +7,7 @@ shortdef : 'agent nominal modifier'
 `nmod:agent` is used for agents of passive verbs
 
 ~~~ sdparse
-Börja hennes jobb att delas av den moderne mannen ? \n Will her job start being shared by the modern man ?
+Börjar hennes jobb att delas av den moderne mannen ? \n Will her job start being shared by the modern man ?
 nmod:agent(delas, mannen)
 ~~~
 
