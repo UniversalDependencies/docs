@@ -11,9 +11,9 @@ In Czech it is used for multi-word prepositions.
 ~~~ sdparse
 Na rozdíl od tebe já se nemám zač stydět . \n In contrast to you I myself have-not of-what to-be-ashamed .
 mwe(Na, rozdíl)
-mwe(rozdíl, od)
+mwe(Na, od)
 case(tebe, Na)
 mwe(In, contrast)
-mwe(contrast, to)
+mwe(In, to)
 case(you, In)
 ~~~
