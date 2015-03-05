@@ -10,7 +10,7 @@ permalink: sv/overview/specific-syntax.html
 
 ### Passives
 
-Swedish has two ways of forming the passive form of verbs, a morphological passive (s-passive) and a periphrastic passive (bli-passive).
+Swedish has two ways of forming passives, a morphological passive (s-passive) and a periphrastic passive (bli-passive).
 
 ~~~ sdparse
 Han jagades av polisen .
