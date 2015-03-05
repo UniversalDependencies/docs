@@ -14,6 +14,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 - acl:relcl
 [English](en-dep/acl:relcl)
 [Finnish](fi-dep/acl:relcl)
+[Swedish](sv-dep/acl:relcl)
 
 
 ## cc
