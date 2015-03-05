@@ -29,8 +29,7 @@ auxpass(jagad, blev)
 He was chased by the-police
 ~~~
 
-
-
 ## Elements of a nominal
+
 
 ## Adjectival and adverbial constructions
