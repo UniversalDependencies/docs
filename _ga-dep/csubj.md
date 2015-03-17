@@ -4,5 +4,4 @@ title: 'csubj'
 shortdef: 'clausal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubj`.
+The super type label `csubj` is not used in this version of the treebank. See `csubj:cop` instead.
