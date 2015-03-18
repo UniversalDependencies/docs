@@ -17,7 +17,7 @@ In a copula construction, the `nsubj` is dependent on the predicate.
 ~~~ sdparse
 Is réitigh sealadach iad \n They are temporary solutions
 nsubj(réitigh, iad)
-
+~~~
 
 The head of an infinitive phrase can also be `nsubj' in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
 
