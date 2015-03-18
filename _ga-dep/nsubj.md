@@ -12,11 +12,12 @@ Rachaidh sí abhaile \n She will go home
 nsubj(Rachaidh, sí)
 ~~~ 
 
-In a copula construction, the `nsubj` is dependent on the predicate.
+In a copula construction, the `nsubj` is dependent on the predicate (in this case the noun _réitigh_ 'solution').
 
 ~~~ sdparse
 Is réitigh sealadach iad \n They are temporary solutions
 nsubj(réitigh, iad)
+cop(réitigh, Is)
 ~~~
 
 The head of an infinitive phrase can also be `nsubj' in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
