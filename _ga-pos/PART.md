@@ -7,26 +7,27 @@ shortdef: 'particle'
 #### Description
 
 There are many different particles in Irish:
-* verbal particles
-* surname particles
-* vocative particle
-* adverbial particles
-* relative particles
-* numeral particles
-* comparative adjectival particles
+
+* verbal 
+* surname 
+* vocative 
+* adverbial 
+* relative 
+* numeral 
+* comparative/superlative adjectival 
 
 
 #### Examples
 
-* _<b>d'</b>fhág sé_ "he left"
-* _<b>níor</b> fhág sé_ "he didn't leave"
-* _Sean <b>O'</b>Connell_ (O') 
+* _<b>d'</b>fhág sé_ "he left" (verbal)
+* _<b>níor</b> fhág sé_ "he didn't leave" (negative)
+* _Sean <b>O'</b>Connell_ (O') (name)
 * _<b>a</b> Sheáin_ "John!" (vocative)
-* _<b>go</b> cúramach_ "carefully"
-* _an fear <b>a</b> chonaic sé_ "the man [] he saw"
-* _<b>a</b> hocht_ "eight" (counting)
-* _<b>níos</b> mó_ "bigger"
-* _<b>is</b> mó_ "biggest"
+* _<b>go</b> cúramach_ "carefully" (adverbial)
+* _an fear <b>a</b> chonaic sé_ "the man [] he saw" (relative)
+* _<b>a</b> hocht_ "eight" (numeral)
+* _<b>níos</b> mó_ "bigger" (comparative)
+* _<b>is</b> mó_ "biggest" (superlative)
  
 
 
