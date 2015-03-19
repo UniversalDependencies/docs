@@ -37,10 +37,10 @@ Verbal nouns are marked as `NOUN` in the UD scheme. Verbal noun forms are used w
 
 ##### Verbal nouns
 
-* _ag déanamh iarracht_ "making an attempt"
-* _beidh orthu gnó a dhéanamh leis_ "they will have to do business with him"
-* _scannán a dhéanamh_ "to make a movie"
-* _tá obair le déanamh_ "there is work to be done"
+* _ag <b>déanamh</b> iarracht_ "making an attempt"
+* _beidh orthu gnó a <b>dhéanamh</b> leis_ "they will have to do business with him"
+* _scannán a <b>dhéanamh</b>_ "to make a movie"
+* _tá obair le <b>déanamh</b>_ "there is work to be done"
 
 
 
