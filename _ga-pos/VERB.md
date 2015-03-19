@@ -23,13 +23,13 @@ There are two translations of the English verb `to be' in Irish:
 * Copula `is'
 * Substantive Verb `bí'
 
-Both these forms behave very differently syntactically. 
+Both these forms behave very differently syntactically, yet both are labelled with the tag VERB. 
 
 ***copula***
 The copula construction follows a COP PRED SUBJ order. An example of copula use is identity constructions (equating two noun phrases). _<b>Is</b> múinteoir é_ "he is a teacher".
 The copula is also part of the frequently used cleft/ fronting construction. These constructions are often used to show emphasis. (e.g. _<b>Is</b> leabhar a thug sí dom_ it's a book she gave me).
 
-***substantive _bí_*** 
+***substantive bí*** 
 The substantive verb behaves just like normal Irish verbs. It inflects for person, number and tense.
 It can never be used for an identity construction with two noun phrases. If it is used for identity, it follows the pattern of Verb Noun PP (e.g. _<b>tá</b> sé ina mhúinteoir_ "he is a teacher" (lit. He is in his teacher))
 The pattern followed here is: VERB SUBJ PRED
