@@ -6,10 +6,12 @@ shortdef: 'appositional modifier'
 
 An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It also includes parenthesized examples.
 
+### Examples: 
+_Tá gearán déanta ag Unison , <b>ceardchumann</b> lucht na mbónaí bána , leis an gCoimisiún_ 
+ `There is a complain made by Unison, the white-collar <b>trade union</b>, to the Commission'
 
 ~~~ sdparse
-Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún
-\n There is a complain made by Unison, the white-collar trade union, to the Commission.
+
 nsubj(Tá, gearán)
 xcomp:pred(Tá, déanta)
 nmod(déanta, Unison)
@@ -25,6 +27,8 @@ nmod(déanta, gCoimisiún)
 det(gCoimisiún, an)
 case(gCoimisiún, leis)
 ~~~
+
+_Chas m'athair air sa tábhairne, <b>O' Shea's</b> i nDomhnach Broc_ `My father met him in the pub, <b>O'Shea's</b> in Donnybrook'
 
 ~~~ conllx
 1	Chas	Cas	PROPN	PROPN	_	0	root	_	_
