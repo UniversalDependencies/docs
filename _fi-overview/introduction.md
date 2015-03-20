@@ -10,8 +10,6 @@ The Finnish UD treebank is based on the [Turku Dependency Treebank](http://bionl
 
 The morphological and syntactic annotation of the Finnish UD treebank is created through a conversion of TDT data, and much of the Finnish UD documentation draws directly on the TDT annotation guidelines ([Haverinen et al. 2013](http://tucs.fi/publications/attachment.php?fname=tHaverinen_Katri13a.full.pdf)).
 
-ignore this, testing webhook
-
 ## Acknowledgments
 
 We wish to thank all of the contributors to the original TDT annotation effort, including Katri Haverinen, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, and Tapio Salakoski, as well as the University of Turku, the Turku Centre for Computer Science, the Finnish Academy and the Turku University Foundation for supporting the original TDT annotation effort.
