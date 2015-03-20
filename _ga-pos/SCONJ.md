@@ -21,7 +21,7 @@ There is also a special case of using _agus_ "and" (normally `CONJ`) as a subord
 * _<b>cé</b> go raibh cuid mhaith ann san am gcéanna_ "<b>even though</b> there was a lot there at the same time"
 * _sula_/_sular_ "before"
 * _<b>sular</b> féidir linn imeacht, ní mór dúinn léarscáil a cheannach_ "<b>before</b> we leave, we need to buy a map"
-* _Seo pictúir a tógadh dhó <b>agus</b> é briste_ "here picture that was taken of it <b>and</b> it broken"
+* _Seo pictúir a tógadh dhó <b>agus</b> é briste_ "here is a picture that was taken of it <b>and</b> it broken"
 
 
 
