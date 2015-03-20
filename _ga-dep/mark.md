@@ -4,5 +4,4 @@ title: 'mark'
 shortdef: 'marker'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `mark`.
+In Irish the `mark`label is used for infinitive markers and for subordinate conjunctions.
