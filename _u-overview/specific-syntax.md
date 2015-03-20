@@ -297,3 +297,14 @@ advmod(important, more)
 case(talent, than)
 nmod(important, talent)
 ~~~
+
+## Clause-external elements
+
+### Feedback words
+
+In a sentence starting with a feedback words such as _yes_ or _no_ and continuing with a main clause, we take the predicate of the main clause to be the root of the sentence and attach the feedback word to this predicate with a [discourse]() relation:
+
+~~~ sdparse
+yes , we have applied for membership .
+discoure(applied, yes)
+~~~
