@@ -34,7 +34,51 @@
 
           <h2><code>case</code>: case marking</h2>
 
-<p>The case relation is used for any preposition in English. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+<p>The case relation is used for most prepositions in Irish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+
+<p>See <a href="">nmod:pred</a> for labelling of prepositional pronouns, and <a href="">xcomp:pred</a> for prepositional predicates.</p>
+
+<p>Prepositions have many functions in Irish.</p>
+
+<p>Regular prepositional phrases can precede or follow a verb. </p>
+
+<p>(i) <b>Sa</b> bhliain sin, bhuaigh siad an Chorn `In that year, they won the Cup’</p>
+
+<p>(ii) Bhuaigh siad an Chorn <b>sa</b> bhliain sin `They won the Cup in that year’</p>
+
+<h4 id="progressive-aspectuals">progressive aspectuals</h4>
+
+<p>The preposition <em>ag</em> is used with verbal nouns to form progressive aspectual phrases in Irish.</p>
+
+<pre><code class="language-sdparse">Tá sí ag rith \n She is running
+nmod(Tá, rith)
+nsubj(Tá, sí)
+case(rith, ag)
+</code></pre>
+
+<h4 id="ownership-state">ownership/ state</h4>
+
+<p>Prepositions are also used in phrasal constructions to denote ownership or a state of being.
+<em>Tá airgead ag na daoine</em> `The people have money’ (lit. Money is at the people)</p>
+
+<pre><code class="language-sdparse">Tá peann ag an bhfear \n The man has a pen
+nmod(Tá, bhfear)
+case(bhfear, ag)
+</code></pre>
+
+<pre><code class="language-sdparse">Tá brón ar an gcuairteoir \n The visitor is sorry (lit. sorry is on the visitor)
+nmod(Tá, gcuairteoir)
+case(gcuairteoir, ar)
+</code></pre>
+
+<h4 id="obliques">obliques</h4>
+
+<p>Oblique arguments are also labelled `case’.</p>
+
+<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna Fáil
+nmod(Tá, Fianna_Fáil)
+case(Fianna_Fáil, le)
+</code></pre>
 
 
 

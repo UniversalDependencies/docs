@@ -1546,17 +1546,20 @@ and they are related to the whole phrase rather than directly to the head noun:<
 
 <pre><code class="language-sdparse">( 9 dní ) \n ( 9 days )
 punct(dní, (-1)
-nummod:gov(dní, 9)
+nummod:gov(dní, 9-2)
 punct(dní, )-4)
+punct(days, (-6)
+nummod:gov(days, 9-7)
+punct(days, )-9)
 </code></pre>
 
-<p>Na číselné frázi můžou viset i jiné věci než rematizátory.
-Tohle bych pak pověsil na minuty, zatímco ta AuxZ bych nechal na číslovce.</p>
-
 <pre><code class="language-sdparse">5 minut včetně seřízení \n 5 minutes including adjustment
-nummod:gov(minut, 5)
+nummod:gov(minut, 5-1)
 nmod(minut, seřízení)
 case(seřízení, včetně)
+nummod:gov(minutes, 5-6)
+nmod(minutes, adjustment)
+case(adjustment, including)
 </code></pre>
 
 <h2 id="dates">Dates</h2>

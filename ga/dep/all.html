@@ -240,16 +240,18 @@ in two places.</p>
 <p><a id="al-ga-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p><code>acl</code> is used for finite and non-finite clauses that modify a noun. Note that in Irish, relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
+<p><code>acl</code> is used for finite and non-finite clauses that modify a noun. </p>
+
+<p>Note that in Irish, relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.
+The super type <code>acl</code> is not used in version 1 of the Irish treebank.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/acl.md" target="#">edit acl</a></p>
 
 <p><a id="al-ga-dep/acl:relcl" class="al-dest"></a></p>
 <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
-<p>A relative clause modifier of an noun is a relative clause modifying
-the noun.  The relation points from the noun that is modified to the
-head of the relative clause. Relative clauses are finite.</p>
+<p>A relative clause modifier marks the relation between relative clauses and a noun phrase in a preceding clause.<br />
+The head of the relative clause is usually a verb.</p>
 
 <pre><code class="language-sdparse">Chaill sé pé rud a bhí aige \n He lost everything that he had
 acl:relcl(bhí, pé)
@@ -328,8 +330,11 @@ amod(prionsabail, chéanna)
 
 <p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It also includes parenthesized examples.</p>
 
-<pre><code class="language-sdparse">Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún
-\n There is a complain made by Unison, the white-collar trade union, to the Commission.
+<h3 id="examples">Examples:</h3>
+<p><em>Tá gearán déanta ag Unison , <b>ceardchumann</b> lucht na mbónaí bána , leis an gCoimisiún</em> 
+ `There is a complain made by Unison, the white-collar <b>trade union</b>, to the Commission’</p>
+
+<pre><code class="language-sdparse">
 nsubj(Tá, gearán)
 xcomp:pred(Tá, déanta)
 nmod(déanta, Unison)
@@ -345,6 +350,8 @@ nmod(déanta, gCoimisiún)
 det(gCoimisiún, an)
 case(gCoimisiún, leis)
 </code></pre>
+
+<p><em>Chas m’athair air sa tábhairne, <b>O’ Shea’s</b> i nDomhnach Broc</em> `My father met him in the pub, <b>O’Shea’s</b> in Donnybrook’</p>
 
 <pre><code class="language-conllx">1	Chas	Cas	PROPN	PROPN	_	0	root	_	_
 2	m'	mo	DET	DET	_	3	nmod:poss	_	_
@@ -365,7 +372,51 @@ case(gCoimisiún, leis)
 <p><a id="al-ga-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>The case relation is used for any preposition in English. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+<p>The case relation is used for most prepositions in Irish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+
+<p>See <a href="">nmod:pred</a> for labelling of prepositional pronouns, and <a href="">xcomp:pred</a> for prepositional predicates.</p>
+
+<p>Prepositions have many functions in Irish.</p>
+
+<p>Regular prepositional phrases can precede or follow a verb. </p>
+
+<p>(i) <b>Sa</b> bhliain sin, bhuaigh siad an Chorn `In that year, they won the Cup’</p>
+
+<p>(ii) Bhuaigh siad an Chorn <b>sa</b> bhliain sin `They won the Cup in that year’</p>
+
+<h4 id="progressive-aspectuals">progressive aspectuals</h4>
+
+<p>The preposition <em>ag</em> is used with verbal nouns to form progressive aspectual phrases in Irish.</p>
+
+<pre><code class="language-sdparse">Tá sí ag rith \n She is running
+nmod(Tá, rith)
+nsubj(Tá, sí)
+case(rith, ag)
+</code></pre>
+
+<h4 id="ownership-state">ownership/ state</h4>
+
+<p>Prepositions are also used in phrasal constructions to denote ownership or a state of being.
+<em>Tá airgead ag na daoine</em> `The people have money’ (lit. Money is at the people)</p>
+
+<pre><code class="language-sdparse">Tá peann ag an bhfear \n The man has a pen
+nmod(Tá, bhfear)
+case(bhfear, ag)
+</code></pre>
+
+<pre><code class="language-sdparse">Tá brón ar an gcuairteoir \n The visitor is sorry (lit. sorry is on the visitor)
+nmod(Tá, gcuairteoir)
+case(gcuairteoir, ar)
+</code></pre>
+
+<h4 id="obliques">obliques</h4>
+
+<p>Oblique arguments are also labelled `case’.</p>
+
+<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna Fáil
+nmod(Tá, Fianna_Fáil)
+case(Fianna_Fáil, le)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/case.md" target="#">edit case</a></p>
 
@@ -374,7 +425,7 @@ case(gCoimisiún, leis)
 
 <p>A vocative particle precedes and marks the case of an addressee.</p>
 
-<pre><code class="language-sdparse">Slán leat, a chara \n Goodbye my friend
+<pre><code class="language-sdparse">Slán leat, a chara \n Goodbye friend
 case:voc(chara, a)
 </code></pre>
 
@@ -434,8 +485,7 @@ for <code>cop</code>.</p>
 <p><a id="al-ga-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>The super type label <code>csubj</code> is not used in this version of the treebank. See <code>csubj:cop</code> instead.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/csubj.md" target="#">edit csubj</a></p>
 
@@ -480,8 +530,7 @@ for <code>discourse</code>.</p>
 <p><a id="al-ga-dep/dislocated" class="al-dest"></a></p>
 <h2><code>dislocated</code>: dislocated elements</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dislocated</code>.</p>
+<p>The <code>dislocated</code> label has not been applied to the Irish in this release. No examples have been observed yet, but a more thorough analysis may reveal some instances in the next version of the treebank.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/dislocated.md" target="#">edit dislocated</a></p>
 
@@ -559,7 +608,16 @@ for <code>nmod</code>.</p>
 <p><a id="al-ga-dep/nmod:poss" class="al-dest"></a></p>
 <h2><code>nmod:poss</code>: possessive pronoun</h2>
 
-<p>Placeholder for Irish possessive pronoun</p>
+<p>Irish denoted possession through the use of possessive pronouns: </p>
+
+<ul>
+  <li><em>mo</em> “my”</li>
+  <li><em>do</em> “your” (SG),</li>
+  <li><em>a</em>  “his/her”</li>
+  <li><em>ár</em> “our”</li>
+  <li><em>bhur</em> “your” (PL),</li>
+  <li><em>a</em> “their”</li>
+</ul>
 
 <pre><code class="language-sdparse">Chuir mé ceist ar mo mhúinteoir \n I asked my teacher a question
 nmod:poss(mhúinteoir, mo)
@@ -613,16 +671,16 @@ nmod:tmod(lived, years)
 nsubj(Rachaidh, sí)
 </code></pre>
 
-<p>In a copula construction, the <code>nsubj</code> is dependent on the predicate.</p>
+<p>In a copula construction, the <code>nsubj</code> is dependent on the predicate (in this case the noun <em>réitigh</em> ‘solution’).</p>
 
 <pre><code class="language-sdparse">Is réitigh sealadach iad \n They are temporary solutions
 nsubj(réitigh, iad)
+cop(réitigh, Is)
+</code></pre>
 
+<p>The head of an infinitive phrase can also be `nsubj’ in a copula construction – in Irish, the infinitive verb form is a verbal noun.</p>
 
-The head of an infinitive phrase can also be `nsubj' in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
-
-~~~ conllx
-1	Ar	is	VERB	VERB	_	2	cop	_	_
+<pre><code class="language-conllu">1	Ar	is	VERB	VERB	_	2	cop	_	_
 2	mhaith	maith	ADJ	ADJ	_	0	root	_	_
 3	leat	le	ADP	ADP	_	2	nmod:prep	_	_
 4	teach	teach	NOUN	NOUN	_	6	dobj	_	_
@@ -672,8 +730,7 @@ for <code>punct</code>.</p>
 <p><a id="al-ga-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
+<p>The <code>remnant</code> label has not been applied to the Irish in this release. No examples have been observed yet, but a more thorough analysis may reveal some instances in the next version of the treebank.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/remnant.md" target="#">edit remnant</a></p>
 
@@ -704,10 +761,23 @@ for <code>xcomp</code>.</p>
 <p><a id="al-ga-dep/xcomp:pred" class="al-dest"></a></p>
 <h2><code>xcomp:pred</code>: predicate</h2>
 
-<p>Placeholder for description of xcomp:pred</p>
+<p>In Irish, the substantive verb <em>bí</em> `to be’ can have predicate arguments in the form of adverbs, adjectives and prepositional phrases.</p>
 
+<h4 id="adjective-predicate">Adjective Predicate</h4>
 <pre><code class="language-sdparse">Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
 xcomp:pred(bhí, dochreidte)
+</code></pre>
+
+<h4 id="prepositional-predicate">Prepositional Predicate</h4>
+<p>Note that the head of the prepositional phrase is the object.
+~~~ sdparse
+Tá duine eile i mbun peannaireachta \n Someone else was in charge of writing
+xcomp:pred(Tá, peannaireachta)
+~~~</p>
+
+<h4 id="adverbial-predicate">Adverbial Predicate</h4>
+<pre><code class="language-sdparse">Tá Mel Gibson go hiontach sa scannán sin \n Mel Gibson is wonderful in that movie
+xcomp:pred(Tá, hiontach)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/xcomp-pred.md" target="#">edit xcomp:pred</a></p>

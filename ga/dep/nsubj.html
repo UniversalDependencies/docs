@@ -40,16 +40,16 @@
 nsubj(Rachaidh, sí)
 </code></pre>
 
-<p>In a copula construction, the <code>nsubj</code> is dependent on the predicate.</p>
+<p>In a copula construction, the <code>nsubj</code> is dependent on the predicate (in this case the noun <em>réitigh</em> ‘solution’).</p>
 
 <pre><code class="language-sdparse">Is réitigh sealadach iad \n They are temporary solutions
 nsubj(réitigh, iad)
+cop(réitigh, Is)
+</code></pre>
 
+<p>The head of an infinitive phrase can also be `nsubj’ in a copula construction – in Irish, the infinitive verb form is a verbal noun.</p>
 
-The head of an infinitive phrase can also be `nsubj' in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
-
-~~~ conllx
-1	Ar	is	VERB	VERB	_	2	cop	_	_
+<pre><code class="language-conllu">1	Ar	is	VERB	VERB	_	2	cop	_	_
 2	mhaith	maith	ADJ	ADJ	_	0	root	_	_
 3	leat	le	ADP	ADP	_	2	nmod:prep	_	_
 4	teach	teach	NOUN	NOUN	_	6	dobj	_	_
