@@ -14,9 +14,11 @@ xcomp:pred(bhí, dochreidte)
 
 #### Prepositional Predicate
 Note that the head of the prepositional phrase is the object.
+
 ~~~ sdparse
-Tá duine eile i mbun peannaireachta \n Someone else was in charge of writing
+Tá duine eile i_mbun peannaireachta \n Someone else was in charge of writing
 xcomp:pred(Tá, peannaireachta)
+case(peannaireachta, i_mbun)
 ~~~
 
 
