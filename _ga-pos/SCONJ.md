@@ -10,7 +10,7 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 In Irish, subordinate conjunctions normally precede a subordinate clause marker such as _go_, _a_. 
 
-There is also a special case of using _agus_ "and" (normally `CONJ`) as a subordinate conjunction, where the subordinate clause is missing a surface verb `to be', yet will have a subject in use with a progressive aspectual phrase, an adjective, a past participle  or locative adverb.
+There is also a special case of using _agus_ "and" (normally [CONJ]()) as a subordinate conjunction, where the subordinate clause is missing a surface verb `to be', yet will have a subject in use with a progressive aspectual phrase, an adjective, a past participle  or locative adverb.
 
 
 #### Examples
