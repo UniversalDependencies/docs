@@ -302,9 +302,16 @@ nmod(important, talent)
 
 ### Feedback words
 
-In a sentence starting with a feedback words such as _yes_ or _no_ and continuing with a main clause, we take the predicate of the main clause to be the root of the sentence and attach the feedback word to this predicate with a [discourse]() relation:
+In a sentence starting with a feedback word such as _yes_ or _no_ and continuing with a main clause, we take the predicate of the main clause to be the root of the sentence and attach the feedback word to this predicate with a [discourse]() relation:
 
 ~~~ sdparse
-yes , we have applied for membership .
-discoure(applied, yes)
+yes , we should apply for membership .
+discourse(apply, yes)
+~~~
+
+However, when the feedback is expressed by a full clause instead of a feedback word, the predicate of this clause is taken as the root and the predicate of the following clause is attached with a [parataxis]() relation:
+
+~~~ sdparse
+I agree , we should apply for membership .
+parataxis(agree, apply)
 ~~~
