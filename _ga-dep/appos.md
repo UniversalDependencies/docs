@@ -10,20 +10,20 @@ An appositional modifier of an NP is an NP immediately to the right of the first
 
 
 ~~~ sdparse
-Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún 
+Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún \n
  `There is a complain made by Unison, the white-collar trade union, to the Commission'
 
 nsubj(Tá, gearán)
 xcomp:pred(Tá, déanta)
 nmod(déanta, Unison)
 case(Unison, ag)
-punct(ceardchumann, ,-6)
+punct(ceardchumann, ,)
 appos(Unison, ceardchumann)
 compound(ceardchumann, lucht)
 compound(lucht, mbónaí)
 det(mbónaí, na)
 amod(mbónaí, bána)
-punct(leis, ,-12)
+punct(gCoimisiún, ,)
 nmod(déanta, gCoimisiún)
 det(gCoimisiún, an)
 case(gCoimisiún, leis)
