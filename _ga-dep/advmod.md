@@ -15,7 +15,7 @@ advmod(going, around)
 ~~~ sdparse
 Chaithimid an oíche amuigh ar an fharraige \n We spent the night out on the sea
 advmod(Chaithimid, amuigh)
-advmod(Spent, out)
+advmod(spent, out)
 ~~~
 
 ~~~ sdparse
