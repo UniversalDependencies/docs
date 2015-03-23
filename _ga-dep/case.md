@@ -11,11 +11,13 @@ See [nmod:pred]() for labelling of prepositional pronouns, and [xcomp:pred]() fo
 
 Prepositions have many functions in Irish.
 
-Regular prepositional phrases can precede or follow a verb. 
+#### regular prepositional phrases 
+
+Regular PP phrases can precede or follow a verb. 
 
 (i) <b>Sa</b> bhliain sin, bhuaigh siad an Chorn `In that year, they won the Cup'
 
-(ii) Bhuaigh siad an Chorn <b>sa</b> bhliain sin `They won the Cup in that year'
+(ii) Bhuaigh siad an Chorn <b>sa</b> bhliain sin `They won the Cup <b>in</b> that year'
 
 
 #### progressive aspectuals
@@ -48,12 +50,15 @@ case(gcuairteoir, ar)
 ~~~
 
 
-####obliques
+#### obliques
 
 Oblique arguments are also labelled `case'.
 
 ~~~ sdparse
 Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna_Fáil
+nsubj(Tá, muintir)
+compound(muintir, Chorcaí)
+xcomp:pred(an-mhíshásta)
 nmod(Tá, Fianna_Fáil)
 case(Fianna_Fáil, le)
 ~~~
