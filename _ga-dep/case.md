@@ -40,8 +40,9 @@ nmod(Tá, bhfear)
 case(bhfear, ag)
 ~~~
 
+_Tá brón ar an gcuairteoir_  `The visitor is sorry' (lit. sorry is on the visitor)
 ~~~ sdparse
-Tá brón ar an gcuairteoir \n The visitor is sorry (lit. sorry is on the visitor)
+Tá brón ar an gcuairteoir \n The visitor is sorry
 nmod(Tá, gcuairteoir)
 case(gcuairteoir, ar)
 ~~~
@@ -52,7 +53,7 @@ case(gcuairteoir, ar)
 Oblique arguments are also labelled `case'.
 
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna Fáil
+Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna_Fáil
 nmod(Tá, Fianna_Fáil)
 case(Fianna_Fáil, le)
 ~~~
