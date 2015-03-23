@@ -8,6 +8,7 @@ An appositional modifier of an NP is an NP immediately to the right of the first
 
 ### Examples: 
 
+_Tá gearán déanta ag Unison , <b>ceardchumann</b> lucht na mbónaí bána , leis an gCoimisiún_ `Unison, the workers' <b>trade union</b>, have made a complaint to the Commission' 
 
 ~~~ sdparse
 Tá gearán déanta ag Unison , ceardchumann lucht na mbónaí bána , leis an gCoimisiún \n
