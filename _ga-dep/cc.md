@@ -7,7 +7,7 @@ shortdef: 'coordinating conjunction'
 The `cc' label markes the relation between the first conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of _agus_ `and', _nó_ `or', _ná_ `than'.
 UD takes the first conjunct as the head of a coordinated phrase. (Note that this differs from the Irish Dependency Treebank structure, where the coordinating conjunction is the head of the cooordinated phrase.)
 
-_caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ to establish a relationship between banking authorities <b>and</b> financial institutions in other countries.
+_caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ to establish a relationship between central banks <b>and</b> financial institutions in other countries.
 
 ~~~ conllu
 1	caidreamh	caidreamh	NOUN	NOUN	_	3	dobj	_	_
