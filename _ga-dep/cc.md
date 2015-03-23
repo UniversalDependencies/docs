@@ -9,7 +9,7 @@ UD takes the first conjunct as the head of a coordinated phrase. (Note that this
 
 _caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ to establish a relationship between central banks <b>and</b> financial institutions in other countries.
 
-~~~ conllu
+~~~ conllx
 1	caidreamh	caidreamh	NOUN	NOUN	_	3	dobj	_	_
 2	a	a	PART	PART	_	3	mark	_	_
 3	bhunú	bunú	NOUN	NOUN	_	0	root	_	_
@@ -25,11 +25,12 @@ _caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais 
 25	eile	eile	DET	DET	_	12	det	_	_
 ~~~
 
+
 Coordination of more than two elements is as follows (note there is also embedded coordination within the main coordinated phrase).
 
+_Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe_ \n `Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers'
 
-
-~~~ conllu
+~~~ conllx
 1	Gáis	gás	NOUN	NOUN	_	1	nmod	_	_
 2	a	a	PART	PART	_	4	dobj	_	_
 3	úsáidtear	úsáid	VERB	VERB	_	1	acl:relcl	_	_
