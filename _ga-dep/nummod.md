@@ -18,8 +18,9 @@ nummod(chéim, chéad)
 ~~~
 
 ~~~ sdparse
-fo-alt (1) \ sub-paragraph (1)
+fo-alt (1) \n sub-paragraph (1)
 nummod(fo-alt, (1))
+nummod(subparagraph, (1))
 ~~~
 
 
