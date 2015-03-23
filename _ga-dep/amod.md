@@ -10,10 +10,12 @@ An adjectival modifier of an NP is any adjectival phrase that serves to modify t
 ~~~ sdparse
 tíortha forbatha \n developed countries
 amod(tíortha, forbatha)
+admod(countries, developed)
 ~~~
 
 ~~~ sdparse
 Baineann na prionsabail chéanna leis \n The same principles apply
 amod(prionsabail, chéanna)
+amod(principles, same)
 ~~~
 
