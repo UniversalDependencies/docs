@@ -301,14 +301,17 @@ advcl(asked, given)
 
 <pre><code class="language-sdparse">Fuair mé fliú mór a bhí ag dul thart \n I caught a bad flu that was going around
 advmod(dul, thart)
+advmod(going, around)
 </code></pre>
 
 <pre><code class="language-sdparse">Chaithimid an oíche amuigh ar an fharraige \n We spent the night out on the sea
 advmod(Chaithimid, amuigh)
+advmod(Spent, out)
 </code></pre>
 
 <pre><code class="language-sdparse">Níor tháinig sé go fóill \n He hasn't arrived yet
 advmod(tháinig, fóill)
+advmod(arrived, yet)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/advmod.md" target="#">edit advmod</a></p>
@@ -320,10 +323,12 @@ advmod(tháinig, fóill)
 
 <pre><code class="language-sdparse">tíortha forbatha \n developed countries
 amod(tíortha, forbatha)
+admod(countries, developed)
 </code></pre>
 
 <pre><code class="language-sdparse">Baineann na prionsabail chéanna leis \n The same principles apply
 amod(prionsabail, chéanna)
+amod(principles, same)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/amod.md" target="#">edit amod</a></p>
@@ -334,11 +339,11 @@ amod(prionsabail, chéanna)
 <p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It also includes parenthesized examples.</p>
 
 <h3 id="examples">Examples:</h3>
+
 <p><em>Tá gearán déanta ag Unison , <b>ceardchumann</b> lucht na mbónaí bána , leis an gCoimisiún</em> 
  `There is a complain made by Unison, the white-collar <b>trade union</b>, to the Commission’</p>
 
-<pre><code class="language-sdparse">
-nsubj(Tá, gearán)
+<pre><code class="language-sdparse">nsubj(Tá, gearán)
 xcomp:pred(Tá, déanta)
 nmod(déanta, Unison)
 case(Unison, ag)
