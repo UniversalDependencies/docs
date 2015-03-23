@@ -347,13 +347,13 @@ nsubj(Tá, gearán)
 xcomp:pred(Tá, déanta)
 nmod(déanta, Unison)
 case(Unison, ag)
-punct(ceardchumann, ,)
+punct(ceardchumann, ,-6)
 appos(Unison, ceardchumann)
 compound(ceardchumann, lucht)
 compound(lucht, mbónaí)
 det(mbónaí, na)
 amod(mbónaí, bána)
-punct(gCoimisiún, ,)
+punct(gCoimisiún, ,-12)
 nmod(déanta, gCoimisiún)
 det(gCoimisiún, an)
 case(gCoimisiún, leis)
@@ -426,7 +426,7 @@ case(gcuairteoir, ar)
 
 <p>Oblique arguments are also labelled `case’.</p>
 
-<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna_Fáil
+<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n The people of Cork are very unhappy with Fianna\_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(an-mhíshásta)
@@ -450,8 +450,25 @@ case:voc(chara, a)
 <p><a id="al-ga-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cc</code>.</p>
+<p>The <code>cc' label markes the relation between the first conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of _agus_ </code>and’, <em>nó</em> <code>or', _ná_ </code>than’.
+UD takes the first conjunct as the head of a coordinated phrase. (Note that this differs from the Irish Dependency Treebank structure, where the coordinating conjunction is the head of the cooordinated phrase.)</p>
+
+<p><em>caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile</em> to establish a relationship between banking authorities <b>and</b> financial institutions in other countries.</p>
+
+<pre><code class="language-conllu">1	caidreamh	caidreamh	NOUN	NOUN	_	3	dobj	_	_
+2	a	a	PART	PART	_	3	mark	_	_
+3	bhunú	bunú	NOUN	NOUN	_	0	root	_	_
+4	le	le	ADP	ADP	_	5	case	_	_
+5	bainc	banc	NOUN	NOUN	_	3	nmod	_	_
+6	cheannais	ceannas	NOUN	NOUN	_	5	compound	_	_
+7	agus	agus	CONJ	CONJ	_	5	cc	_	_
+8	le	le	ADP	ADP	_	9	case	_	_
+9	hinstitiúidí	institiúid	NOUN	NOUN	_	5	conj	_	_
+10	airgeadais	airgeadas	NOUN	NOUN	_	9	compound	_	_
+11	i	i	ADP	ADP	_	12	case	_	_
+12	dtíortha	tír	NOUN	NOUN	_	9	nmod	_	_
+25	eile	eile	DET	DET	_	12	det	_	_
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/cc.md" target="#">edit cc</a></p>
 
