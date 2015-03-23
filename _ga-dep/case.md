@@ -55,7 +55,7 @@ case(gcuairteoir, ar)
 Oblique arguments are also labelled `case'.
 
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna_Fáil
+Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n The people of Cork are very unhappy with Fianna\_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(an-mhíshásta)
