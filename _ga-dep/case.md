@@ -58,7 +58,7 @@ Oblique arguments are also labelled `case'.
 Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n The people of Cork are very unhappy with Fianna\_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
-xcomp:pred(an-mhíshásta)
+xcomp:pred(Tá, an-mhíshásta)
 nmod(Tá, Fianna_Fáil)
 case(Fianna_Fáil, le)
 ~~~
