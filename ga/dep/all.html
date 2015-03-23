@@ -306,7 +306,7 @@ advmod(going, around)
 
 <pre><code class="language-sdparse">Chaithimid an oíche amuigh ar an fharraige \n We spent the night out on the sea
 advmod(Chaithimid, amuigh)
-advmod(Spent, out)
+advmod(spent, out)
 </code></pre>
 
 <pre><code class="language-sdparse">Níor tháinig sé go fóill \n He hasn't arrived yet
@@ -413,16 +413,18 @@ nmod(Tá, bhfear)
 case(bhfear, ag)
 </code></pre>
 
-<pre><code class="language-sdparse">Tá brón ar an gcuairteoir \n The visitor is sorry (lit. sorry is on the visitor)
+<p><em>Tá brón ar an gcuairteoir</em>  `The visitor is sorry’ (lit. sorry is on the visitor)
+~~~ sdparse
+Tá brón ar an gcuairteoir \n The visitor is sorry
 nmod(Tá, gcuairteoir)
 case(gcuairteoir, ar)
-</code></pre>
+~~~</p>
 
 <h4 id="obliques">obliques</h4>
 
 <p>Oblique arguments are also labelled `case’.</p>
 
-<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna Fáil
+<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n The people of Cork are very unhappy with Fianna_Fáil
 nmod(Tá, Fianna_Fáil)
 case(Fianna_Fáil, le)
 </code></pre>
