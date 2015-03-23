@@ -10,11 +10,13 @@ ordinal numbers, are marked with the `nummod` dependency type. Quantifiers are a
 ~~~ sdparse
 sa bhliain 1975 \n in the year 1975
 nummod(bhliain, 1975)
+nummod(year, 1975)
 ~~~
 
 ~~~ sdparse
 an chéad chéim \n the first year
 nummod(chéim, chéad)
+nummod(first, year)
 ~~~
 
 ~~~ sdparse
