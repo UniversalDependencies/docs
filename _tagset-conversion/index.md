@@ -36,7 +36,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="de-smor-uposf.html">de::smor</a> (German)
 * <a href="de-stts-uposf.html">de::stts</a> (German)
 * <a href="el-conll-uposf.html">el::conll</a> (Greek)
-* <a href="en-penn-uposf.html">en::penn</a> (English) (see also the Tsurgeon context-sensitive conversion file discussed on the <a href="../en/overview/morphology.html>English POS and Morphology page</a>
+* <a href="en-penn-uposf.html">en::penn</a> (English) (see also the Tsurgeon converter on the <a href="../en/overview/morphology.html">English POS and Morphology page</a>
 * <a href="es-conll2009-uposf.html">es::conll2009</a> (Spanish)
 * <a href="et-puudepank-uposf.html">et::puudepank</a> (Estonian)
 * <a href="eu-conll-uposf.html">eu::conll</a> (Basque)
