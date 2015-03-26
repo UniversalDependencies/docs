@@ -6,10 +6,20 @@ title: 'Tagset conversion tables'
 ## Tagset conversion tables to universal tags and features
 
 **Disclaimer:**
+The UD tags have substantive definitions and are not simply equivalence classes of the part-of-speech (POS) tags of
+language-particular treebanks. That is, the situation is different from the pure equivalence class approach used in
+the original 2011 Google Universal POS Tags work. Some tags can only be mapped correctly if we also know the lemma
+or the syntactic context. As a concrete example, we now distinguish adpositions (`ADP`) from subordinating conjunctions (`SCONJ`).
+This distinction is not available in the Penn Treebank English POS tag set (where both are IN), and for words that 
+can be used in either role, the correct UD POS tag can only be
+recovered by looking at the syntactic context in which the word appears. Such information is not used in the 
+mappings made available here. 
 These conversion tables were generated automatically via <a href="http://ufal.mff.cuni.cz/interset">Interset</a>.
-It uses only tags (+ features) as input, therefore the result is only an approximation.
-Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
-The tables require manual postprocessing in order to provide accurate and complete information.
+It uses only tags (+ features) as input; therefore the result is only an approximation of correct UD tags.
+Thus both the tables and  the applications of them to POS-tagged text will likely require manual postprocessing
+in order to provide accurate and complete UD information.
+Nevertheless, in practice, most tags in most languages can still be mapped correctly without 
+such use of syntactic content of morphological analysis, and hence this automatic conversion can be quite useful.
 
 * <a href="ar-padt-uposf.html">ar::padt</a> (Arabic)
 * <a href="ar-conll-uposf.html">ar::conll</a> (Arabic)
@@ -26,7 +36,7 @@ The tables require manual postprocessing in order to provide accurate and comple
 * <a href="de-smor-uposf.html">de::smor</a> (German)
 * <a href="de-stts-uposf.html">de::stts</a> (German)
 * <a href="el-conll-uposf.html">el::conll</a> (Greek)
-* <a href="en-penn-uposf.html">en::penn</a> (English)
+* <a href="en-penn-uposf.html">en::penn</a> (English) (see also the Tsurgeon context-sensitive conversion file discussed on the <a href="../en/overview/morphology.html>English POS and Morphology page</a>
 * <a href="es-conll2009-uposf.html">es::conll2009</a> (Spanish)
 * <a href="et-puudepank-uposf.html">et::puudepank</a> (Estonian)
 * <a href="eu-conll-uposf.html">eu::conll</a> (Basque)
