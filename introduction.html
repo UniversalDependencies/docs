@@ -34,14 +34,36 @@
 
           <h2 id="introduction">Introduction</h2>
 
-<p>Universal Dependencies is a project that seeks to develop cross-linguistically consistent treebank
+<p>Universal Dependencies is a project that is developing cross-linguistically consistent treebank
 annotation for many languages, with the goal of facilitating multilingual parser development, 
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
-scheme is based on (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
+scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
 universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
 morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal 
 inventory of categories and guidelines to facilitate consistent annotation of similar 
 constructions across languages, while allowing language-specific extensions when necessary.</p>
+
+<h2 id="current-work">Current work</h2>
+
+<p>After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
+This set makes some distinctions that were missing in the original proposal, but were perceived to
+be of importance by many, and clarifies the definition of categories. As a result of this work,
+universal POS categories have substantive definitions and are not necessarily just equivalence classes
+of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
+requires context-sensitive rules, or some hand correction.</p>
+
+<p>The UD morphological features aims to provide a stripped down basic set of feature which are most crucial for 
+analysis and are widespread across languages.</p>
+
+<p>The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
+of grammatical relations-focused description that can be found in many linguistic frameworks. That is,
+it is centrally organized around notions of subject, object, clausal complement, noun determiner, noun modifier, etc.
+The goal of the new work was to simultaneously:</p>
+
+<ul>
+  <li>Add or refine relations to better accommodate the grammatical structures of typologically different languages</li>
+  <li>To clean up some of the quirkier and more English-specific features of the original version. Hence, the new taxonomy has <em>less</em> relations than the original SD.</li>
+</ul>
 
 <h2 id="history">History</h2>
 
