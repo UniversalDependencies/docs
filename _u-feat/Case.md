@@ -4,9 +4,10 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-Case is usually an inflectional feature of [nouns](u-pos/NOUN) and,
-depending on language, other parts of speech ([adjectives](u-pos/ADJ),
-[numerals](u-pos/NUM)) that mark agreement with nouns. In some tagsets
+`Case` is usually an inflectional feature of [nouns](u-pos/NOUN) and,
+depending on language, other parts of speech ([pronouns](u-pos/PRON),
+[adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
+[verbs](u-pos/VERB)) that mark agreement with nouns. In some tagsets
 it is also valency feature of [adpositions](u-pos/ADP) (saying that
 the adposition requires its argument to be in that case).
 
