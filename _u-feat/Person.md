@@ -5,7 +5,7 @@ shortdef: 'person'
 ---
 
 Person is typically feature of personal and possessive
-[pronouns](u-pos/PRON), and of [verbs](u-pos/VERB). On verbs it is in
+[pronouns](u-pos/PRON) / [determiners](u-pos/DET), and of [verbs](u-pos/VERB). On verbs it is in
 fact an agreement feature that marks the person of the verb's subject
 (some languages, e.g. Basque, can also mark person of objects). Person
 marked on verbs makes it unnecessary to always add a personal pronoun
