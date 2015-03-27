@@ -5,8 +5,11 @@ shortdef: 'animacy'
 ---
 
 Similarly to [Gender]() (and to the African noun classes), animacy is
-usually a lexical feature of [nouns](u-pos/NOUN) and inflectional
-feature of other parts of speech that mark agreement with nouns. It is
+usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature
+of other parts of speech ([pronouns](u-pos/PRON),
+[adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
+[verbs](u-pos/VERB)) that mark agreement with
+nouns. It is
 independent of gender, therefore it is encoded separately in some
 tagsets (e.g. all the Multext-East tagsets). On the other hand, in
 Czech the (almost) only grammatical implications occur within the
