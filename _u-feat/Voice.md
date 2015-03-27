@@ -11,7 +11,7 @@ categorized as voice.
 ### `Act`: active voice
 
 The subject of the verb is the doer of the action (agent), the object
-is affected by the action (pacient).
+is affected by the action (patient).
 
 #### Examples
 
