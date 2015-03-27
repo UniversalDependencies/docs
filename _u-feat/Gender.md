@@ -4,8 +4,10 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-Gender is usually a lexical feature of nouns and inflectional feature
-of other parts of speech (adjectives, verbs) that mark agreement with
+`Gender` is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature
+of other parts of speech ([pronouns](u-pos/PRON),
+[adjectives](u-pos/ADJ), [determiners](u-pos/DET), [numerals](u-pos/NUM),
+[verbs](u-pos/VERB)) that mark agreement with
 nouns. In English gender affects only the choice of the personal
 pronoun _(he / she / it)_ and the feature is usually not encoded in
 English tagsets.
