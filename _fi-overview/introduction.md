@@ -6,8 +6,6 @@ permalink: fi/overview/introduction.html
 
 # Introduction
 
-This is test, please ignore.
-
 The Finnish UD treebank is based on the [Turku Dependency Treebank](http://bionlp.utu.fi/fintreebank.html) (TDT), created at the University of Turku by a team lead by Filip Ginter. The treebank consists of 15,000 sentences (200,000 tokens) and covers 10 different genres ranging from news to fiction and blog entries.
 
 The morphological and syntactic annotation of the Finnish UD treebank is created through a conversion of TDT data, and much of the Finnish UD documentation draws directly on the TDT annotation guidelines ([Haverinen et al. 2013](http://tucs.fi/publications/attachment.php?fname=tHaverinen_Katri13a.full.pdf)).
