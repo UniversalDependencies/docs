@@ -10,7 +10,7 @@ It is used for
 
 - any kind of X<sup>0</sup> compounding: noun compounds (e.g., *phone book*), but also verb and
 adjective compounds that are more common in other languages (such as
-Persian or Japanese light verb constructions)
+Persian or Japanese light verb constructions). It is also used for the "phrasal verb" construction of European languages (e.g., *throw up*), with the adposition as the `compound` dependent of the verb.
 
 ~~~ sdparse
 Phone book
