@@ -22,7 +22,7 @@ have_ and the past participle of the main verb _to be_. The auxiliary
 will be tagged `VerbForm=Fin|Mood=Ind|Tense=Past` and the participle
 will have `VerbForm=Part|Tense=Past`; none of the two will have
 `Tense=Pqp`.  On the other hand, Portuguese can form the pluperfect
-morphologically as just one word, which will thus be tagged
+morphologically as just one word, such as _estivera_, which will thus be tagged
 `VerbForm=Fin|Mood=Ind|Tense=Pqp`.
 
 ### `Past`: past tense / preterite / aorist
