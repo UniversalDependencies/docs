@@ -34,8 +34,138 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for specific constructions.</p>
+<h2 id="adjectival-and-adverbial-constructions">Adjectival and adverbial constructions</h2>
+
+<h3 id="comparatives">Comparatives</h3>
+
+<p>Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the <a href="">u-feat/Degree</a> feature):
+<em>chytrý</em> “smart”, <em>chytřejší</em> “smarter”, <em>nejchytřejší</em> “smartest”. Periphrastic constructions such as English <em>more intelligent</em>
+cannot be completely excluded but they are infrequent and often deemed poor style: <em>inteligentnější</em> is preferred over <em>více inteligentní.</em>
+The exception is when the adjective or adverb applies less to the entity being compared than to the entity being compared to:
+<em>méně inteligentní</em> “less intelligent” is the only way of reversing the comparison.
+Equality comparisons are also periphrastic.</p>
+
+<ul>
+  <li><em>Martin je <b>inteligentnější</b> než Vojta.</em> “Martin is <b>more intelligent</b> than Vojta.”</li>
+  <li><em>Vojta je <b>méně inteligentní</b> než Martin.</em> “Vojta is <b>less intelligent</b> than Martin.”</li>
+  <li><em>Vojta je <b>stejně inteligentní</b> jako Matěj.</em> “Vojta is <b>as intelligent</b> as Matěj.”</li>
+  <li><em>Martin je <b>nejinteligentnější</b> ze všech.</em> “Martin is <b>the most intelligent one</b> of them all.”</li>
+</ul>
+
+<pre><code class="language-sdparse">Martin je inteligentnější než Vojta .
+nsubj(inteligentnější, Martin)
+cop(inteligentnější, je)
+nmod(inteligentnější, Vojta)
+case(Vojta, než)
+</code></pre>
+
+<p>To keep the analyses of the morphological and the periphrastic cases parallel
+(and also to keep the analyses parallel cross-linguistically),
+in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:</p>
+
+<pre><code class="language-sdparse">Vojta je méně inteligentní než Martin .
+nsubj(inteligentní, Vojta)
+cop(inteligentní, je)
+advmod(inteligentní, méně)
+nmod(inteligentní, Martin)
+case(Martin, než)
+</code></pre>
+
+<p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
+
+<pre><code class="language-sdparse">more problems than you thought of last week
+amod(problems, more)
+advcl(more, thought)
+mark(thought, than)
+</code></pre>
+
+<pre><code class="language-sdparse">more important than you thought
+advmod(important, more)
+advcl(important, thought)
+mark(thought, than)
+</code></pre>
+
+<pre><code class="language-sdparse">more rapidly than you thought
+advmod(rapidly, more)
+advcl(rapidly, thought)
+</code></pre>
+
+<pre><code class="language-sdparse">a more difficult problem than you thought
+advmod(difficult, more)
+amod(problem, difficult)
+advcl(difficult, thought)
+</code></pre>
+
+<p>In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the <em>than</em> clause to <em>more</em>: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like <em>more intelligent</em> and a morphological comparative like <em>taller</em> (even though in bound morpheme cases, the <em>-er</em> could be argued to be the comparative head).</p>
+
+<pre><code class="language-sdparse">smarter than you thought
+advcl(smarter, thought)
+mark(thought, than)
+</code></pre>
+
+<pre><code class="language-sdparse">fiksumpi kuin luulit \n smarter than you_thought
+advcl(fiksumpi, luulit)
+mark(luulit, kuin)
+</code></pre>
+
+<pre><code class="language-sdparse">a smarter boy than you thought
+amod(boy, smarter)
+advcl(smarter, thought)
+mark(thought, than)
+</code></pre>
+
+<p>If the head is ellided, then the functional element can be promoted.</p>
+
+<pre><code class="language-sdparse">Wheat raises blood sugar even more than sugar does .
+advcl(more, does)
+</code></pre>
+
+<p>Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:</p>
+
+<pre><code class="language-sdparse">I put in as much flour as the recipe called for .
+nsubj(put, I)
+compound(put, in)
+advmod(much, as-4)
+amod(flour, much)
+dobj(put, flour)
+mark(called, as-7)
+det(recipe, the)
+nsubj(called, recipe)
+advcl(much, called)
+nmod(called, for)
+punct(put, .)
+</code></pre>
+
+<pre><code class="language-sdparse">He plays better drunk than sober
+nsubj(plays, He)
+advmod(plays, better)
+acl(He, drunk)
+mark(sober, than)
+advcl(better, sober)
+</code></pre>
+
+<p>In general, we treat whatever remnant that remains as still an <a href="">u-dep/advcl</a>, as above. </p>
+
+<p>However, a limiting case of this is that only a nominal is present:</p>
+
+<ul>
+  <li><em>as important as a player ‘s talent</em></li>
+  <li><em>more important than a player ‘s talent</em></li>
+</ul>
+
+<p>The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? There are arguments for both positions. For English, there is a long discussion of the arguments in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:</p>
+
+<pre><code class="language-sdparse">as important as a player 's talent
+advmod(important, as-1)
+case(talent, as-3)
+nmod(important, talent)
+</code></pre>
+
+<pre><code class="language-sdparse">more important than a player 's talent
+advmod(important, more)
+case(talent, than)
+nmod(important, talent)
+</code></pre>
 
 
       </div>
