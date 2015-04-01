@@ -10,7 +10,7 @@ permalink: cs/overview/specific-syntax.html
 
 ### Comparatives
 
-Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the [u-feat/Degree]() feature):
+Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the [cs-feat/Degree]() feature):
 _chytrý_ “smart”, _chytřejší_ “smarter”, _nejchytřejší_ “smartest”. Periphrastic constructions such as English _more intelligent_
 cannot be completely excluded but they are infrequent and often deemed poor style: _inteligentnější_ is preferred over _více inteligentní._
 The exception is when the adjective or adverb applies less to the entity being compared than to the entity being compared to:
@@ -53,6 +53,29 @@ nmod(inteligentní, Martin)
 case(Martin, než)
 punct(inteligentní, .)
 ~~~
+
+If a property is compared to a clause, the clause is attached as [cs-dep/advcl]() instead of [cs-dep/nmod]()
+and the conjunction _(než, jako)_ is attached to the subordinate clause as [cs-dep/mark]().
+
+~~~ sdparse
+Martin je inteligentnější , než jsme mysleli . \n Martin is more-intelligent , than we-have thought .
+nsubj(inteligentnější, Martin-1)
+cop(inteligentnější, je)
+advcl(inteligentnější, mysleli)
+punct(mysleli, ,-4)
+mark(mysleli, než)
+aux(mysleli, jsme)
+punct(inteligentnější, .-8)
+nsubj(more-intelligent, Martin-10)
+cop(more-intelligent, is)
+advcl(more-intelligent, thought)
+punct(thought, ,-13)
+mark(thought, than)
+aux(thought, we-have)
+punct(more-intelligent, .-17)
+~~~
+
+
 
 except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
 
