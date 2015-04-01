@@ -28,6 +28,7 @@ nsubj(inteligentnější, Martin)
 cop(inteligentnější, je)
 nmod(inteligentnější, Vojta)
 case(Vojta, než)
+punct(inteligentnější, .)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
@@ -41,6 +42,7 @@ cop(inteligentní, je)
 advmod(inteligentní, méně)
 nmod(inteligentní, Martin)
 case(Martin, než)
+punct(inteligentní, .)
 ~~~
 
 except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
