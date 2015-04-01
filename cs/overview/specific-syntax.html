@@ -38,7 +38,7 @@
 
 <h3 id="comparatives">Comparatives</h3>
 
-<p>Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the <a href="">u-feat/Degree</a> feature):
+<p>Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the <a href="">cs-feat/Degree</a> feature):
 <em>chytrý</em> “smart”, <em>chytřejší</em> “smarter”, <em>nejchytřejší</em> “smartest”. Periphrastic constructions such as English <em>more intelligent</em>
 cannot be completely excluded but they are infrequent and often deemed poor style: <em>inteligentnější</em> is preferred over <em>více inteligentní.</em>
 The exception is when the adjective or adverb applies less to the entity being compared than to the entity being compared to:
@@ -79,6 +79,26 @@ advmod(inteligentní, méně)
 nmod(inteligentní, Martin)
 case(Martin, než)
 punct(inteligentní, .)
+</code></pre>
+
+<p>If a property is compared to a clause, the clause is attached as <a href="">cs-dep/advcl</a> instead of <a href="">cs-dep/nmod</a>
+and the conjunction <em>(než, jako)</em> is attached to the subordinate clause as <a href="">cs-dep/mark</a>.</p>
+
+<pre><code class="language-sdparse">Martin je inteligentnější , než jsme mysleli . \n Martin is more-intelligent , than we-have thought .
+nsubj(inteligentnější, Martin-1)
+cop(inteligentnější, je)
+advcl(inteligentnější, mysleli)
+punct(mysleli, ,-4)
+mark(mysleli, než)
+aux(mysleli, jsme)
+punct(inteligentnější, .-8)
+nsubj(more-intelligent, Martin-10)
+cop(more-intelligent, is)
+advcl(more-intelligent, thought)
+punct(thought, ,-13)
+mark(thought, than)
+aux(thought, we-have)
+punct(more-intelligent, .-17)
 </code></pre>
 
 <p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
