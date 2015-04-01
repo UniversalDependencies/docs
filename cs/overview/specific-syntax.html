@@ -101,80 +101,23 @@ aux(thought, we-have)
 punct(more-intelligent, .-17)
 </code></pre>
 
-<p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
+<p>Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent.
+In general, we treat whatever remnant that remains as still an <a href="">cs-dep/advcl</a>, as above.</p>
 
-<pre><code class="language-sdparse">more problems than you thought of last week
-amod(problems, more)
-advcl(more, thought)
-mark(thought, than)
-</code></pre>
-
-<pre><code class="language-sdparse">more important than you thought
-advmod(important, more)
-advcl(important, thought)
-mark(thought, than)
-</code></pre>
-
-<pre><code class="language-sdparse">more rapidly than you thought
-advmod(rapidly, more)
-advcl(rapidly, thought)
-</code></pre>
-
-<pre><code class="language-sdparse">a more difficult problem than you thought
-advmod(difficult, more)
-amod(problem, difficult)
-advcl(difficult, thought)
-</code></pre>
-
-<p>In addition to crosslinguistic adequacy, we can see here another possible advantage of not attaching the <em>than</em> clause to <em>more</em>: This analysis then means that the dependency structure is more parallel between cases with a periphrastic comparative like <em>more intelligent</em> and a morphological comparative like <em>taller</em> (even though in bound morpheme cases, the <em>-er</em> could be argued to be the comparative head).</p>
-
-<pre><code class="language-sdparse">smarter than you thought
-advcl(smarter, thought)
-mark(thought, than)
-</code></pre>
-
-<pre><code class="language-sdparse">fiksumpi kuin luulit \n smarter than you_thought
-advcl(fiksumpi, luulit)
-mark(luulit, kuin)
-</code></pre>
-
-<pre><code class="language-sdparse">a smarter boy than you thought
-amod(boy, smarter)
-advcl(smarter, thought)
-mark(thought, than)
-</code></pre>
-
-<p>If the head is ellided, then the functional element can be promoted.</p>
-
-<pre><code class="language-sdparse">Wheat raises blood sugar even more than sugar does .
-advcl(more, does)
-</code></pre>
-
-<p>Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent:</p>
-
-<pre><code class="language-sdparse">I put in as much flour as the recipe called for .
-nsubj(put, I)
-compound(put, in)
-advmod(much, as-4)
-amod(flour, much)
-dobj(put, flour)
-mark(called, as-7)
-det(recipe, the)
-nsubj(called, recipe)
-advcl(much, called)
-nmod(called, for)
-punct(put, .)
-</code></pre>
-
-<pre><code class="language-sdparse">He plays better drunk than sober
-nsubj(plays, He)
+<pre><code class="language-sdparse">Opilý hraje lépe než střízlivý . \n Drunk he-plays better than sober .
+advcl(hraje, Opilý)
+advmod(hraje, lépe)
+advcl(lépe, střízlivý)
+mark(střízlivý, než)
+punct(hraje, .-6)
+advcl(plays, Drunk)
 advmod(plays, better)
-acl(He, drunk)
-mark(sober, than)
 advcl(better, sober)
+mark(sober, than)
+punct(plays, .-13)
 </code></pre>
 
-<p>In general, we treat whatever remnant that remains as still an <a href="">u-dep/advcl</a>, as above. </p>
+<p>The limiting case is that only a nominal is present; then we analyze it as an <a href="">cs-dep/nmod</a>, although one could see it </p>
 
 <p>However, a limiting case of this is that only a nominal is present:</p>
 
@@ -195,6 +138,14 @@ nmod(important, talent)
 advmod(important, more)
 case(talent, than)
 nmod(important, talent)
+</code></pre>
+
+<p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
+
+<pre><code class="language-sdparse">more problems than you thought of last week
+amod(problems, more)
+advcl(more, thought)
+mark(thought, than)
 </code></pre>
 
 
