@@ -36,7 +36,7 @@
 
 <h2 id="adjectival-and-adverbial-constructions">Adjectival and adverbial constructions</h2>
 
-<h3 id="comparatives">Comparatives</h3>
+<h3 id="comparatives-degree">Comparatives (degree)</h3>
 
 <p>Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the <a href="">cs-feat/Degree</a> feature):
 <em>chytrý</em> “smart”, <em>chytřejší</em> “smarter”, <em>nejchytřejší</em> “smartest”. Periphrastic constructions such as English <em>more intelligent</em>
@@ -122,6 +122,13 @@ punct(plays, .-15)
 <p>The limiting case is that only a nominal is present; then we analyze it as an <a href="">cs-dep/nmod</a>, although one could see
 <em>Martin is more intelligent than Vojta</em> as a reduced expression of <em>Martin is more intelligent than how Vojta is intelligent.</em>
 We lean towards minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement.</p>
+
+<h3 id="comparatives-quantity">Comparatives (quantity)</h3>
+
+<p>In the periphrastic comparatives in the previous section, the words <em>více</em> “more” and <em>méně</em> “less”
+are comparative forms of the <a href="cs-pos/ADV">adverbs</a> <em>hodně</em> “much” and <em>málo</em> “little”, respectively.
+However, in other situations they combine directly with nouns and act as quantifiers
+(termed <em>indefinite <a href="cs-pos/NUM">numerals</a></em> in the Czech grammar but labeled <a href="">cs-det/DET</a> in accord with our definition).</p>
 
 <p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
 
