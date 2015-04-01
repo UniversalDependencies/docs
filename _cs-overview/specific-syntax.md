@@ -8,7 +8,7 @@ permalink: cs/overview/specific-syntax.html
 
 ## Adjectival and adverbial constructions
 
-### Comparatives
+### Comparatives (degree)
 
 Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the [cs-feat/Degree]() feature):
 _chytrý_ “smart”, _chytřejší_ “smarter”, _nejchytřejší_ “smartest”. Periphrastic constructions such as English _more intelligent_
@@ -98,6 +98,12 @@ The limiting case is that only a nominal is present; then we analyze it as an [c
 _Martin is more intelligent than Vojta_ as a reduced expression of _Martin is more intelligent than how Vojta is intelligent._
 We lean towards minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement.
 
+### Comparatives (quantity)
+
+In the periphrastic comparatives in the previous section, the words _více_ “more” and _méně_ “less”
+are comparative forms of the [adverbs](cs-pos/ADV) _hodně_ “much” and _málo_ “little”, respectively.
+However, in other situations they combine directly with nouns and act as quantifiers
+(termed _indefinite [numerals](cs-pos/NUM)_ in the Czech grammar but labeled [cs-det/DET]() in accord with our definition).
 
 
 except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
