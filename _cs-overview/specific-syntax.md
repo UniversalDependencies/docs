@@ -31,6 +31,15 @@ case(Vojta, než)
 punct(inteligentnější, .)
 ~~~
 
+~~~ sdparse
+Martin je nejinteligentnější ze všech .
+nsubj(nejinteligentnější, Martin)
+cop(nejinteligentnější, je)
+nmod(nejinteligentnější, všech)
+case(všech, ze)
+punct(nejinteligentnější, .)
+~~~
+
 To keep the analyses of the morphological and the periphrastic cases parallel
 (and also to keep the analyses parallel cross-linguistically),
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
