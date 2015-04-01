@@ -79,17 +79,19 @@ Very commonly the complement clause in a comparative undergoes various amounts o
 In general, we treat whatever remnant that remains as still an [cs-dep/advcl](), as above.
 
 ~~~ sdparse
-Opilý hraje lépe než střízlivý . \n Drunk he-plays better than sober .
-advcl(hraje, Opilý)
+On hraje opilý lépe než střízlivý . \n He plays drunk better than sober .
+nsubj(hraje, On)
+advcl(hraje, opilý)
 advmod(hraje, lépe)
 advcl(lépe, střízlivý)
 mark(střízlivý, než)
-punct(hraje, .-6)
-advcl(he-plays, Drunk)
-advmod(he-plays, better)
+punct(hraje, .-7)
+nsubj(plays, He)
+advcl(plays, drunk)
+advmod(plays, better)
 advcl(better, sober)
 mark(sober, than)
-punct(he-plays, .-13)
+punct(plays, .-15)
 ~~~
 
 The limiting case is that only a nominal is present; then we analyze it as an [cs-dep/nmod](), although one could see
