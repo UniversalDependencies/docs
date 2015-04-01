@@ -110,35 +110,16 @@ advmod(hraje, lépe)
 advcl(lépe, střízlivý)
 mark(střízlivý, než)
 punct(hraje, .-6)
-advcl(plays, Drunk)
-advmod(plays, better)
+advcl(he-plays, Drunk)
+advmod(he-plays, better)
 advcl(better, sober)
 mark(sober, than)
-punct(plays, .-13)
+punct(he-plays, .-13)
 </code></pre>
 
-<p>The limiting case is that only a nominal is present; then we analyze it as an <a href="">cs-dep/nmod</a>, although one could see it </p>
-
-<p>However, a limiting case of this is that only a nominal is present:</p>
-
-<ul>
-  <li><em>as important as a player ‘s talent</em></li>
-  <li><em>more important than a player ‘s talent</em></li>
-</ul>
-
-<p>The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? There are arguments for both positions. For English, there is a long discussion of the arguments in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:</p>
-
-<pre><code class="language-sdparse">as important as a player 's talent
-advmod(important, as-1)
-case(talent, as-3)
-nmod(important, talent)
-</code></pre>
-
-<pre><code class="language-sdparse">more important than a player 's talent
-advmod(important, more)
-case(talent, than)
-nmod(important, talent)
-</code></pre>
+<p>The limiting case is that only a nominal is present; then we analyze it as an <a href="">cs-dep/nmod</a>, although one could see
+<em>Martin is more intelligent than Vojta</em> as a reduced expression of <em>Martin is more intelligent than how Vojta is intelligent.</em>
+We lean towards minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement.</p>
 
 <p>except that <em>more</em> can also directly modify a noun, and <em>more</em> is then taken to have the <a href="">u-dep/amod</a> relation to the noun.  In this case, we take the comparative complement as directly depending on <em>more</em>, roughly seeing it as elliptical for <em>more numerous</em>.  In general, the comparative complement always depends on an adjective or adverb, and is usually an <a href="">advcl</a> except when it is directly analyzed as an <a href="">nmod</a> (as discussed at the end of this section).</p>
 
