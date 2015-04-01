@@ -85,35 +85,16 @@ advmod(hraje, lépe)
 advcl(lépe, střízlivý)
 mark(střízlivý, než)
 punct(hraje, .-6)
-advcl(plays, Drunk)
-advmod(plays, better)
+advcl(he-plays, Drunk)
+advmod(he-plays, better)
 advcl(better, sober)
 mark(sober, than)
-punct(plays, .-13)
+punct(he-plays, .-13)
 ~~~
 
-The limiting case is that only a nominal is present; then we analyze it as an [cs-dep/nmod](), although one could see it 
-
-However, a limiting case of this is that only a nominal is present:
-
-* _as important as a player 's talent_
-* _more important than a player 's talent_
-
-The analysis in this case is unclear: Should the comparative complement still be analyzed as an extremely reduced complement clause or analyzed as simply a nominal modifier? There are arguments for both positions. For English, there is a long discussion of the arguments in section 2.2 of chapter 13 of Huddleston and Pullum (2002). We err on the side of minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement:
-
-~~~ sdparse
-as important as a player 's talent
-advmod(important, as-1)
-case(talent, as-3)
-nmod(important, talent)
-~~~
-
-~~~ sdparse
-more important than a player 's talent
-advmod(important, more)
-case(talent, than)
-nmod(important, talent)
-~~~
+The limiting case is that only a nominal is present; then we analyze it as an [cs-dep/nmod](), although one could see
+_Martin is more intelligent than Vojta_ as a reduced expression of _Martin is more intelligent than how Vojta is intelligent._
+We lean towards minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement.
 
 
 
