@@ -298,6 +298,27 @@ case(talent, than)
 nmod(important, talent)
 ~~~
 
+### _More than_ as a multi-word expression
+
+In certain contexts the comparative complement combines both the action or adjective that is being compared
+and the quantity it is compared to:
+
+* _more than 90 percent (= over 90 percent)_
+* _more than likely_
+* _Home prices have more than doubled in the past decade._
+
+In these cases we consider _more than_ to be a multi-word expression because the two words are inseparable.
+One cannot say _*more percent than 90._
+
+~~~ sdparse
+That is more than likely .
+nsubj(likely, That)
+cop(likely, is)
+advmod(likely, more)
+mwe(more, than)
+punct(likely, .-6)
+~~~
+
 ## Clause-external elements
 
 ### Feedback words
