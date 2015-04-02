@@ -146,6 +146,8 @@ det:numgov(peněz, více)
 det:numgov(money, more)
 nmod(více, Pavel-6)
 nmod(more, Pavel-14)
+case(Pavel-6, než)
+case(Pavel-14, than)
 punct(má, .-7)
 punct(has, .-15)
 ~~~
