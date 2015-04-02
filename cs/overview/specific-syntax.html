@@ -177,6 +177,38 @@ punct(má, .-7)
 punct(has, .-15)
 </code></pre>
 
+<ul>
+  <li><em>Martin přečetl více knížek než Vojta.</em> “Martin has read more books than Vojta [has read].”</li>
+  <li><em>Martin přečetl více knížek než časopisů.</em> “Martin has read more books than [he has read] magazines.”</li>
+</ul>
+
+<p>In certain contexts the comparative complement combines both the action or adjective that is being compared
+and the quantity it is compared to:</p>
+
+<ul>
+  <li><em>více než 90 procent</em> “more than 90 percent”</li>
+  <li><em>více než tříletá práce</em> “more than three-years work”</li>
+  <li><em>více než pravděpodobné</em> “more than likely”</li>
+  <li><em>Ceny domů se za posledních deset let více než zdvojnásobily.</em> “Home prices have more than doubled in the past decade.”</li>
+</ul>
+
+<p>In these cases we consider <em>více než</em> to be a multi-word expression because the two words are inseparable.
+One cannot say <em>*více procent než 90</em> (the word <em>procent</em> can be pulled to the front but then it will skip the whole MWE,
+as in <em>těch procent nebylo více než 90</em> lit. <em>the percent were-not more than 90.</em>)</p>
+
+<pre><code class="language-sdparse">To je více než pravděpodobné . \n That is more than likely .
+nsubj(pravděpodobné, To)
+nsubj(likely, That)
+cop(pravděpodobné, je)
+cop(likely, is)
+advmod(pravděpodobné, více)
+advmod(likely, more)
+mwe(více, než)
+mwe(more, than)
+punct(pravděpodobné, .-6)
+punct(likely, .-13)
+</code></pre>
+
 
       </div>
 
