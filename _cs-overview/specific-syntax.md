@@ -114,23 +114,38 @@ and we attach them as [cs-dep/det:numgov]() or [cs-dep/det:nummod]().
 * _více než třicet let_ “more than thirty years”
 
 ~~~ sdparse
-Dnes přišlo více chlapců . \n Today came more boys .
+Dnes přišlo více chlapců , než jsme čekali . \n Today came more boys , than we-have expected .
 advmod(přišlo, Dnes)
 nsubj(přišlo, chlapců)
 det:numgov(chlapců, více)
-punct(přišlo, .-5)
+advcl(více, čekali)
+mark(čekali, než)
+aux(čekali, jsme)
+punct(čekali, ,-5)
+punct(přišlo, .-9)
 advmod(came, Today)
 nsubj(came, boys)
 det:numgov(boys, more)
-punct(came, .-11)
+advcl(more, expected)
+mark(expected, than)
+aux(expected, we-have)
+punct(expected, ,-15)
+punct(came, .-19)
 ~~~
 
-
-In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
+As with qualitative comparisons, we use `nmod` instead of `advcl` and `case` instead of `mark`
+when the comparative complement is reduced to just a nominal:
 
 ~~~ sdparse
-more problems than you thought of last week
-amod(problems, more)
-advcl(more, thought)
-mark(thought, than)
+Petr má více peněz než Pavel . \n Petr has more money than Pavel .
+nsubj(má, Petr-1)
+nsubj(has, Petr-9)
+dobj(má, peněz)
+dobj(has, money)
+det:numgov(peněz, více)
+det:numgov(money, more)
+nmod(více, Pavel-6)
+nmod(more, Pavel-14)
+punct(má, .-7)
+punct(has, .-15)
 ~~~
