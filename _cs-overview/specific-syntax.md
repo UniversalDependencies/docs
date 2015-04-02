@@ -111,7 +111,7 @@ and we attach them as [cs-dep/det:numgov]() or [cs-dep/det:nummod]().
 * _mnoho let_ “many years”
 * _více let_ “more years [than average/usual/expected]”
 * _více let, než jsme čekali_ “more years than we expected”
-* _více než let_ “more than thirty years”
+* _více než třicet let_ “more than thirty years”
 
 ~~~ sdparse
 Dnes přišlo více chlapců . \n Today came more boys .
