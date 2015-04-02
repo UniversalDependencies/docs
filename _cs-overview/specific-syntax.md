@@ -101,12 +101,32 @@ We lean towards minimizing the postulation of unobserved structure and opt to tr
 ### Comparatives (quantity)
 
 In the periphrastic comparatives in the previous section, the words _více_ “more” and _méně_ “less”
-are comparative forms of the [adverbs](cs-pos/ADV) _hodně_ “much” and _málo_ “little”, respectively.
+are comparative forms of the [adverbs](cs-pos/ADV) _hodně/mnoho_ “much/many” and _málo_ “little”, respectively.
 However, in other situations they combine directly with nouns and act as quantifiers
-(termed _indefinite [numerals](cs-pos/NUM)_ in the Czech grammar but labeled [cs-det/DET]() in accord with our definition).
+(termed _indefinite [numerals](cs-pos/NUM)_ in the Czech grammar but labeled [cs-pos/DET]() in accord with our definition).
+They behave syntactically like high-value numerals (see [cs-dep/nummod]() for details)
+and we attach them as [cs-dep/det:numgov]() or [cs-dep/det:nummod]().
+
+* _třicet let_ “thirty years”
+* _mnoho let_ “many years”
+* _více let_ “more years [than average/usual/expected]”
+* _více let, než jsme čekali_ “more years than we expected”
+* _více než let_ “more than thirty years”
+
+~~~ sdparse
+Dnes přišlo více chlapců . \n Today came more boys .
+advmod(přišlo, Dnes)
+nsubj(přišlo, chlapců)
+det:numgov(chlapců, více)
+punct(přišlo, .-5)
+advmod(came, Today)
+nsubj(came, boys)
+det:numgov(boys, more)
+punct(came, .-11)
+~~~
 
 
-except that _more_ can also directly modify a noun, and _more_ is then taken to have the [u-dep/amod]() relation to the noun.  In this case, we take the comparative complement as directly depending on _more_, roughly seeing it as elliptical for _more numerous_.  In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
+In general, the comparative complement always depends on an adjective or adverb, and is usually an [advcl]() except when it is directly analyzed as an [nmod]() (as discussed at the end of this section).
 
 ~~~ sdparse
 more problems than you thought of last week
