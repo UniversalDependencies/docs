@@ -14,7 +14,7 @@ Pronouns under this definition function like nouns. Note that some
 languages traditionally extend the term _pronoun_ to words that
 substitute for [adjectives](ADJ). Such words are not tagged `PRON`
 under our universal scheme. They are tagged as [determiners](DET) in
-order to annotate the same thing same way across languages.
+order to annotate the same thing the same way across languages.
 
 For instance, [en] _this_ is either pronoun _(I saw <b>this</b>
 yesterday.)_ or determiner _(I saw <b>this</b> car yesterday.)_ Its
@@ -30,7 +30,7 @@ včera._ and `DET` in _<b>Tohle</b> auto jsem viděl včera._
 - reflexive pronouns: _myself, yourself, himself, herself, itself, ourselves, yourselves, theirselves_
 - demonstrative pronouns: _this_ as in _I saw <b>this</b> yesterday._
 - interrogative pronouns: _who, what_ as in _<b>What</b> do you think?_
-- relative pronouns: _who, what_ as in _I wonder <b>what</b> you think._ (Note, nowever, that some relative clause introducing words, such as [en] _that_ are better analyzed as subordinating conjunctions (otherwise known as "complementizers" in the literature), and so are tagged as [SCONJ]().)
+- relative pronouns: _who, what_ as in _I wonder <b>what</b> you think._ (Note, however, that some relative clause introducing words, such as [en] _that_ are better analyzed as subordinating conjunctions (otherwise known as "complementizers" in the literature), and so are tagged as [SCONJ]().)
 - indefinite pronouns: _somebody, something, anybody, anything_
 - totality pronouns: _everybody, everything_
 - negative pronouns: _nobody, nothing_
