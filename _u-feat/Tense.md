@@ -4,6 +4,12 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
+Tense is typically a feature of [verbs](u-pos/VERB).
+It may also occur with other parts of speech
+([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
+depending on whether borderline word forms such as gerunds and participles
+are classified as verbs or as the other category.
+
 Tense is a feature that specifies the time when the action took /
 takes / will take place, in relation to the current moment or to
 another action in the utterance. In some languages (e.g. English),
@@ -21,7 +27,7 @@ formed periphrastically by the simple past tense of the auxiliary _to
 have_ and the past participle of the main verb _to be_. The auxiliary
 will be tagged `VerbForm=Fin|Mood=Ind|Tense=Past` and the participle
 will have `VerbForm=Part|Tense=Past`; none of the two will have
-`Tense=Pqp`.  On the other hand, Portuguese can form the pluperfect
+`Tense=Pqp`. On the other hand, Portuguese can form the pluperfect
 morphologically as just one word, such as _estivera_, which will thus be tagged
 `VerbForm=Fin|Mood=Ind|Tense=Pqp`.
 

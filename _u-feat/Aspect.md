@@ -4,6 +4,12 @@ title: 'Aspect'
 shortdef: 'aspect'
 ---
 
+Aspect is typically a feature of [verbs](u-pos/VERB).
+It may also occur with other parts of speech
+([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
+depending on whether borderline word forms such as gerunds and participles
+are classified as verbs or as the other category.
+
 Aspect is a feature that specifies duration of the action in time,
 whether the action has been completed etc. In some languages
 (e.g. English), some [tenses](Tense) are actually combinations of

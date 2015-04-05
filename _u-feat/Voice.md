@@ -4,6 +4,12 @@ title: 'Voice'
 shortdef: 'voice'
 ---
 
+Voice is typically a feature of [verbs](u-pos/VERB).
+It may also occur with other parts of speech
+([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
+depending on whether borderline word forms such as gerunds and participles
+are classified as verbs or as the other category.
+
 For Indo-European speakers, voice means mainly the active-passive
 distinction. In other languages, other shades of verb meaning are
 categorized as voice.
@@ -15,7 +21,7 @@ is affected by the action (patient).
 
 #### Examples
 
-* [cs] _<b>Napadli</b> jsme nepřítele._ "We <b>attacked</b> the enemy"
+* [cs] _<b>Napadli</b> jsme nepřítele._ “We <b>attacked</b> the enemy”
   (the active participle _napadli_ can be used to form either past
   tense or conditional mood; here it forms the past tense.)
 
@@ -26,8 +32,8 @@ The subject of the verb is affected by the action (patient). The doer
 
 #### Examples
 
-* [cs] _Jsme <b>napadeni</b> nepřítelem._ "We are <b>attacked</b> by
-  the enemy" (the passive participle _napadeni_ is used to form
+* [cs] _Jsme <b>napadeni</b> nepřítelem._ “We are <b>attacked</b> by
+  the enemy” (the passive participle _napadeni_ is used to form
   passive in all tenses; here it forms the present passive.)
 
 ### `Rcp`: reciprocal voice
