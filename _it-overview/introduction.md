@@ -19,8 +19,8 @@ The Stanford annotation scheme, obtained from an enriched version of MIDT,
 was adapted to the specificity of the Italian language. 
 We refer to (Bosco, Montemagni, Simi, 2013 and 2014) for a discussion. 
 
-The final conversion step, leading to UD, is in progress. A first release is expected by January 2015.
-<!--
+The final conversion step, leading to UD, is in progress. A first preliminary release was issued in January 2015.
+
 ## Corpus composition
 
 <table>
@@ -33,7 +33,7 @@ The final conversion step, leading to UD, is in progress. A first release is exp
 <tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>7,386</td><td>304</td></tr>
 <tr><td></td><td></td><td>TOTAL</td><td><b>213,829</b></td><td><b>10,770</b></td></tr>
 </table>
--->
+
 
 ## Acknowledgments
 
