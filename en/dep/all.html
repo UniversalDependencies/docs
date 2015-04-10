@@ -1181,24 +1181,24 @@ case(all, at)
 <p><em>at most</em>, <em>at least</em> (when used for quantities. To determine whether <em>at least</em> should be an <code>mwe</code> or not in borderline cases, substitute it with <em>at most</em>; if the sentence remains grammatical, it should receive its surface analysis)</p>
 
 <pre><code class="language-sdparse">at most 50 percent
-npadvmod(percent, most)
+nmod:npmod(percent, most)
 case(most, at)
 </code></pre>
 
 <pre><code class="language-sdparse">at least 50 percent
-npadvmod(percent, least)
+nmod:npmod(percent, least)
 case(least, at)
 </code></pre>
 
 <p><em>at best</em>, <em>at worst</em></p>
 
 <pre><code class="language-sdparse">At best , they were guesses
-npadvmod(guesses, best)
+nmod:npmod(guesses, best)
 case(best, At)
 </code></pre>
 
 <pre><code class="language-sdparse">At worst , they were lies
-npadvmod(lies, worst)
+nmod:npmod(lies, worst)
 case(worst, At)
 </code></pre>
 
