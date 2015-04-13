@@ -30,7 +30,9 @@ segmentation of the sentence was done primarily following the presence of senten
 and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
 at all. In a spoken corpus, it may happen because what is labeled as a sentence is more
 commonly an utterance turn. Even if the treebanker is doing the sentence division, it may
-happen because there seems to be a clear discourse relation linking two clauses.
+happen because there seems to be a clear discourse relation linking two clauses. 
+Sometimes there are more than two sentences joined in this way. In this case we make all the later sentences
+dependents of the first one, to maximize similarity to the analysis used for conjunction.
 
 ~~~ sdparse
 Bearded dragons are sight hunters , they need to see the food to move .
