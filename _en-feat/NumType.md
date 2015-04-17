@@ -22,10 +22,11 @@ Ordinal numbers with the PTB tag `JJ`.
 
 * _second, 23rd, ..._
 
+(Note that our automatic feature extractor only marks written-out ordinal numbers up to _tenth_ as ordinal numbers. Ordinals expressed with digits such as _42nd_ can be arbitrarily large.)
+
 ### `Mult`: multiplicative numbers
 
 The following adverbs with the PTB tag `RB`:
 * _once, twice_
 
 
-(Note that our automatic feature extractor only marks written-out ordinal numbers up to _tenth_ as ordinal numbers. Ordinals expressed with digits such as _23rd_ can be arbitrarily large.)
