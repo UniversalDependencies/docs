@@ -23,7 +23,7 @@ action of the verb.
 
 #### Examples
 
-* _<b>Make a sandwich!</b>_
+* _<b>Make</b> a sandwich!_
 
 ### `Sub`: subjunctive
 
