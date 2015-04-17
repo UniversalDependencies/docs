@@ -5,7 +5,7 @@ title:  'Universal Dependencies'
 
 ## Introduction
 
-Universal Dependencies is a project that is developing cross-linguistically consistent treebank
+Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank
 annotation for many languages, with the goal of facilitating multilingual parser development, 
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
 scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
