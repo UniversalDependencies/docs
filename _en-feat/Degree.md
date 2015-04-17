@@ -17,7 +17,7 @@ feature.
 #### Examples
 
 *  _<b>young</b> man_
-* _The woman runs <b>fast</b>._
+* _The woman ran <b>fast</b>._
 
 ### `Cmp`: comparative, second degree
 
