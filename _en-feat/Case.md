@@ -4,8 +4,7 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-In English `Case` is only used for some personal [pronouns](en-pos/PRON). Pronouns can be either in the direct or oblique 
-case.
+In English, the `Case` feature is only used for some personal [pronouns](en-pos/PRON). Pronouns can be either in the direct or oblique case.
  
 ### `Nom`: direct
 
