@@ -34,8 +34,34 @@
 
           <h2><code>NumType</code>: numeral type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NumType</code>.</p>
+<p>In English, numerical expressions such as cardinal and ordinal numbers have a <code>NumType</code> feature. </p>
+
+<h3 id="card-cardinal-number"><code>Card</code>: cardinal number</h3>
+
+<p>Cardinal numbers with the PTB tag <code>CD</code>.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>one, 11, …</em></li>
+</ul>
+
+<h3 id="ord-ordinal-number"><code>Ord</code>: ordinal number</h3>
+
+<p>Ordinal numbers with the PTB tag <code>JJ</code>.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>second, 23rd, …</em></li>
+</ul>
+
+<h3 id="mult-multiplicative-numbers"><code>Mult</code>: multiplicative numbers</h3>
+
+<p>The following adverbs with the PTB tag <code>RB</code>:
+* <em>once, twice</em></p>
+
+<p>(Note that our automatic feature extractor only marks written-out ordinal numbers up to <em>tenth</em> as ordinal numbers. Ordinals expressed with digits such as <em>23rd</em> can be arbitrarily large.)</p>
 
 
 <!-- "in other languages" links -->
