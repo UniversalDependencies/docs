@@ -7,5 +7,12 @@ shortdef: 'auxiliary verb'
 redirect_from: "ja/pos/AUX.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `AUX`.
+The definition of Japanese `AUX` is different from that in European language focused on modal verbs.  THe `AUX` tag is used for words tagged by 助動詞 (auxiriary verb) in UniDic and functional verbs/adjectives.  Here are examples:
+
+<ul>
+<li>食べ<b>た</b> ('eat' + PAST) : `AUX` for past tense marker which follows a `VERB' "食べ"</li>
+<li>勉強<b>する</b> ('study') : verbify a functional noun</li>
+<li>食べて<b>いる</b> : a functional verb for progressive aspect
+<li>食べ</b>ない</b> : a functional adjective for negation 
+</ul>
+
