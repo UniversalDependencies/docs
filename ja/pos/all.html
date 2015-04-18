@@ -272,30 +272,20 @@ for <code>SYM</code>.</p>
 A <code>VERB</code> consists of the stem and inflection parts as below:</p>
 
 <ul>
-  <li>
-    <u>遊ぶ</u>
-    <p>(‘play’) </p>
-  </li>
-  <li>
-    <u>遊ん</u>
-    <p>だ (‘play’ + PAST)   : “だ” is another word tagged by <code>AUX</code></p>
-  </li>
-  <li>
-    <u>遊ば</u>
-    <p>ない (‘play’ + NEG)  : “ない” is another word tagged by <code>AUX</code></p>
-  </li>
-  <li>
-    <u>来る</u>
-    <p>(‘come’)</p>
-  </li>
-  <li>etc.</li>
+<li><b>遊ぶ</b> ('play') </li>
+<li><b>遊ん</b>だ ('play' + PAST)   : "だ" is another word tagged as `AUX`</li>
+<li><b>遊ば</b>ない ('play' + NEG)  : "ない" is another word tagged as `AUX`</li>
+<li><b>見</b>ている ('see' + PROGRESSIVE) : "て" `CONJ', "いる" `AUX`</li>
+<li><b>来る</b> ('come')</li>
+<li><b>勉強</b>する ('study') : "する" is another word tagged as `AUX`</li>
+<li><i>etc.</i></li>
 </ul>
 
-<p>The differences from UniDic’s “動詞 (verb)” are as follows:</p>
+<p>The differences between <code>VERB</code> tag and UniDic’s “動詞 (verb)” are as follows:</p>
 
 <ul>
-  <li><code>VERB</code> is used for stem of nominal verbs (so-called <i>suru<i>-verbs or サ変動詞), while they are tagged as “名詞 (noun) - サ変動詞可能 (possibly nominal verb)” <i>e.g.</i> <u>勉強</u>する (‘study’) : “する” is another word tagged by <code>AUX</code></i></i></li>
-  <li><code>VERB</code> is NOT used for non-content verbs, while they are taged as “動詞 (verb) - 非自立可能 (possibly non-content verbs)” <i>e.g.</i> 食べて<u>いる</u> (‘eat’ + PROGRESSIVE)</li>
+  <li>The stem of nominal verbs (so-called <i>suru</i>-verbs or サ変動詞) is also tagged as <code>VERB</code>, while in UniDic it is tagged as “名詞 (noun) - 普通名詞 (common noun) - サ変動詞可能 (possibly nominal verb)”.  Note that such a nominal verb is tagged as <code>VERB</code> when it behaves as a verb (typically followed by “する”).</li>
+  <li><code>VERB</code> is NOT used for non-content (functional) verbs, while they are taged as “動詞 (verb) - 非自立可能 (possibly non-content verbs)” <i>e.g.</i> 食べて<b>いる</b> (‘eat’ + PROGRESSIVE): <code>AUX</code> tag is used for them.</li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-pos/VERB.md" target="#">edit VERB</a></p>
