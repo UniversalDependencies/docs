@@ -268,10 +268,35 @@ for <code>SYM</code>.</p>
 <p><a id="al-ja-pos/VERB" class="al-dest"></a></p>
 <h2><code>VERB</code>: verb</h2>
 
-<p><code>VERB</code> is a word with one of verb inflection.  A <code>VERB</code> consists of the stem and inflection parts.</p>
+<p><code>VERB</code> tag is used for words with one of Japanese verb inflection types.  Basically it corresponds to PoS tag “動詞 (verb)” in UniDic SUW (Short Unit Word).
+A <code>VERB</code> consists of the stem and inflection parts as below:</p>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VERB</code>.</p>
+<ul>
+  <li>
+    <u>遊ぶ</u>
+    <p>(‘play’) </p>
+  </li>
+  <li>
+    <u>遊ん</u>
+    <p>だ (‘play’ + PAST)   : “だ” is another word tagged by <code>AUX</code></p>
+  </li>
+  <li>
+    <u>遊ば</u>
+    <p>ない (‘play’ + NEG)  : “ない” is another word tagged by <code>AUX</code></p>
+  </li>
+  <li>
+    <u>来る</u>
+    <p>(‘come’)</p>
+  </li>
+  <li>etc.</li>
+</ul>
+
+<p>The differences from UniDic’s “動詞 (verb)” are as follows:</p>
+
+<ul>
+  <li><code>VERB</code> is used for stem of nominal verbs (so-called <i>suru<i>-verbs or サ変動詞), while they are tagged as “名詞 (noun) - サ変動詞可能 (possibly nominal verb)” <i>e.g.</i> <u>勉強</u>する (‘study’) : “する” is another word tagged by <code>AUX</code></i></i></li>
+  <li><code>VERB</code> is NOT used for non-content verbs, while they are taged as “動詞 (verb) - 非自立可能 (possibly non-content verbs)” <i>e.g.</i> 食べて<u>いる</u> (‘eat’ + PROGRESSIVE)</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-pos/VERB.md" target="#">edit VERB</a></p>
 
