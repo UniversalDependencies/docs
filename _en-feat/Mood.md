@@ -4,7 +4,7 @@ title: 'Mood'
 shortdef: 'mood'
 ---
 
-In English, `Mood` is a feature of (finite)[VerbForm] (verbs)[en-pos/Verb]. It is used to express modality and further subclassify finite verb forms.
+In English, `Mood` is a feature of [finite](VerbForm) [verbs](en-pos/Verb). It is used to express modality and further subclassify finite verb forms.
 
 ### `Ind`: indicative
 
