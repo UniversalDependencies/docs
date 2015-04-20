@@ -16,7 +16,7 @@ for determiners and [NUM]() for cardinal numerals.
 
 Nominal adjectives (_自由&nbsp;_ “free”) are also classified into `ADJ`,
 which are a kind of noun and behave like
-ordinary adjectives in being followed by a auxiliary verb (e.g. だ). 
+ordinary adjectives in being followed by an auxiliary verb (e.g. だ). 
 Note that they are tagged [NOUN](), when they are used as nouns 
 (e.g. _自由&nbsp;を&nbsp;手に入れる&nbsp;_ “gain freedom”).
 
