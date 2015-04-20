@@ -32,7 +32,7 @@ some words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_
 - _自由 (+だ)&nbsp;_ “free” (形状詞-一般)
 - _赤い&nbsp;_ “red” (形状詞-一般)
 - _同じ&nbsp;_ “same” (連体詞)
-
+- _いろんな&nbsp;_ “various” (連体詞)
 
 
 ### References
