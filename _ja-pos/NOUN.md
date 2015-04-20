@@ -24,7 +24,7 @@ Stems of nominal verbs (e.g. 質問“question”) are tagged also classified in
 - _<b>質問</b>&nbsp;_ “question” (名詞)
 - _<b>こと&</b>nbsp;_  formal noun (名詞)
 - _<b>副</b>社長&nbsp;_ “vice president” (接頭辞)
-- _5<b>回</b>&nbsp;_ “5 <b>times<b>” (接尾辞)
+- _5<b>回</b>&nbsp;_ “5 <b>times</b>” (接尾辞)
 
 
 
