@@ -17,11 +17,6 @@ Note that they are tagged `VERB', when they function as verbs in being followed 
 Stems of nominal verbs (e.g. 質問“question”) are tagged also classified into ADJ, which are a kind of noun and behave like ordinary adjectives in being followed by a auxiliary verb (e.g. だ). Note that they are tagged NOUN, when they are used as nouns (e.g. 自由 を 手に入れる  “gain freedom”).
 
 
-Czech nouns have the lexical feature Gender. Furthermore, the nouns inflect for Number and Case.
-
-A verbal noun can be derived productively from almost every verb (e.g. dělat  “to do” → dělání  “doing”). While in other languages a corresponding form may be called gerund and tagged VERB, in Czech it is tagged NOUN. It has always the neuter gender and the full number-case inflectional paradigm.
-
-
 ### Examples
 
 - _猫&nbsp;_ “cat” (名詞)
