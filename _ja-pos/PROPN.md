@@ -17,4 +17,3 @@ _長谷&nbsp;_ “Hase”and an ordinary noun _寺&nbsp;_ “temple”.
 
 - _京都&nbsp;_ “Kyoto” city name(名詞-固有名詞)
 - _鈴木&nbsp;_ “Suzuki” personal name(名詞-固有名詞)
-- 
