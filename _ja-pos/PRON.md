@@ -17,4 +17,4 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
 - possesive pronouns: _我が&nbsp;_ “my” (連体詞)
 - interrogative pronouns:_何, 誰, いつ, どこ&nbsp;_ “what, who, when,  where” (代名詞)
 - _ここ&nbsp;_ “here” (代名詞)
-- 
+
