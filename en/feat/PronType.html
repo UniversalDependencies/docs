@@ -34,8 +34,72 @@
 
           <h2><code>PronType</code>: pronominal type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PronType</code>.</p>
+<p>In English, this featureapplies to <a href="en-pos/PRON">pronouns</a>,
+<a href="en-pos/DET">determiners</a> and pronominal <a href="u-pos/ADV">adverbs</a>.</p>
+
+<h3 id="prs-personal-or-possessive-personal-pronoun-or-determiner"><code>Prs</code>: personal or possessive personal pronoun or determiner</h3>
+
+<p>See also the <a href="">Poss</a> feature that distinguishes normal personal
+pronouns from possessives. Note that <code>Prs</code> also includes reflexive
+personal/possessive pronouns.</p>
+
+<p>The following pronouns have this feature:</p>
+
+<ul>
+  <li><em>I, you, he, she, it, we, they, my, your, his, her, its, our,
+their, mine, yours, hers, ours, theirs, me, him, us, them, 
+myself, yourself, himself, herself, itself, ourselves, youselves,
+theirselves</em></li>
+</ul>
+
+<h3 id="art-article"><code>Art</code>: article</h3>
+
+<p>Article is a special case of determiner that bears the feature of
+<a href="Definite">definiteness</a>.</p>
+
+<p>In English, the following three determiners have this feature:</p>
+
+<ul>
+  <li><em>a, an, the</em> </li>
+</ul>
+
+<h3 id="int-interrogative-pronoun-determiner-or-adverb"><code>Int</code>: interrogative pronoun, determiner or adverb</h3>
+
+<p>Note that the possessive interrogative determiner (<em>whose</em>) can be
+distinguished by the <a href="">Poss</a> feature.</p>
+
+<p>In English, all words with the PTB tag <code>WDT</code>, <code>WP</code>, <code>WP$</code> or <code>WRB</code> have this feature unless
+they mark the beginning of a <a href="en-dep/acl-relcl">relative clause</a>.</p>
+
+<h4 id="examples">Examples:</h4>
+<ul>
+  <li><em><b>Which</b> one should I get?</em></li>
+  <li><em><b>Who</b> was elected president?</em></li>
+  <li><em><b>Whose</b> car is this?</em></li>
+  <li><em><b>How</b> old is he?</em></li>
+</ul>
+
+<h3 id="rel-relative-pronoun-or-determiner"><code>Rel</code>: relative pronoun or determiner</h3>
+
+<p>All pronouns and determiners that mark the beginning of a <a href="en-dep/acl-relcl">relative clause</a> have this feature.</p>
+
+<h4 id="examples-1">Examples:</h4>
+
+<ul>
+  <li><em>The book <b>that</b> I read</em></li>
+  <li><em>The book <b>which</b> she bought</em></li>
+  <li><em>The book <b>whose</b> author was arrested</em></li>
+</ul>
+
+<h3 id="dem-demonstrative-determiner-or-adverb"><code>Dem</code>: demonstrative determiner or adverb</h3>
+
+<p>The following determiners and adverbs have this feature:</p>
+
+<ul>
+  <li><em>this, that, those, these, here, there</em></li>
+</ul>
+
+<p>Note that <em>that</em> only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a <a href="en-dep/ccomp">clausal complement</a> or a <a href="en-dep/acl-relcl">relative clause</a> it does not have this feature.</p>
 
 
 <!-- "in other languages" links -->
