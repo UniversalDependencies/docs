@@ -12,7 +12,7 @@ In singular, the first person refers just to the speaker / author. In plural, it
 
 This feature is only used for pronouns and two inflections of _be_:
 
-* _am, was, I, we, me, us, my, mine, our, ours, myself, ourselves_
+* _am, was_ (if _I_ is its subject)_, I, we, me, us, my, mine, our, ours, myself, ourselves_
 
 ### `2`: second person
 
