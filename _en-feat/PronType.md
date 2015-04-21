@@ -4,7 +4,7 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
-In English, this featureapplies to [pronouns](en-pos/PRON),
+In English, this feature applies to [pronouns](en-pos/PRON),
 [determiners](en-pos/DET) and pronominal [adverbs](u-pos/ADV).
 
 ### `Prs`: personal or possessive personal pronoun or determiner
