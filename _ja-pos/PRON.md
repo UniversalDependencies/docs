@@ -16,5 +16,5 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
 - personal pronouns (3rd person): _彼, 彼女&nbsp;_ “he, she” (代名詞)
 - possesive pronouns: _我が&nbsp;_ “my” (連体詞)
 - interrogative pronouns:_何, 誰, いつ, どこ&nbsp;_ “what, who, when,  where” (代名詞)
-- _ここ&nbsp;_ “here” (代名詞)
+- _ここ, そこ&nbsp;_ “here, there” (代名詞)
 
