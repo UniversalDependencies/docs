@@ -398,7 +398,7 @@ for <code>Negative</code>.</p>
 <p>This feature is only used for pronouns and two inflections of <em>be</em>:</p>
 
 <ul>
-  <li><em>am, was, I, we, me, us, my, mine, our, ours, myself, ourselves</em></li>
+  <li><em>am, was</em> (if <em>I</em> is its subject)<em>, I, we, me, us, my, mine, our, ours, myself, ourselves</em></li>
 </ul>
 
 <h3 id="second-person"><code>2</code>: second person</h3>
@@ -435,8 +435,17 @@ for <code>Negative</code>.</p>
 <p><a id="al-en-feat/Poss" class="al-dest"></a></p>
 <h2><code>Poss</code>: possessive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Poss</code>.</p>
+<p>In English, <code>Poss</code> is a Boolean feature of <a href="en-pos/PRON">pronouns</a>. It tells whether the word is possessive.</p>
+
+<h3 id="yes-it-is-possesive"><code>Yes</code>: it is possesive</h3>
+
+<p>The following English pronouns have this feature:</p>
+
+<ul>
+  <li><em>my, mine, your, yours, his, her</em> (if it has the PTB tag <code>PRP$</code>)<em>, hers, its, our, ours, their, theirs</em></li>
+</ul>
+
+<p>Note that there is no <code>No</code> value. If the word is not possessive, the <code>Poss</code> feature will just not be mentioned in the <code>FEAT</code> column.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-feat/Poss.md" target="#">edit Poss</a></p>
 
