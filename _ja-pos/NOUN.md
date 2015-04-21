@@ -14,9 +14,6 @@ Stems of nominal verbs (e.g. _質問&nbsp;_ “question”) are also tagged with
 “there is no question”).
 Note that they are tagged `VERB', when they function as verbs in being followed by an auxiliary verb (e.g. する).
 
-Stems of nominal verbs (e.g. 質問“question”) are tagged also classified into ADJ, which are a kind of noun and behave like ordinary adjectives in being followed by a auxiliary verb (e.g. だ). Note that they are tagged NOUN, when they are used as nouns (e.g. 自由 を 手に入れる  “gain freedom”).
-
-
 ### Examples
 
 - _<b>猫</b>&nbsp;_ “cat” (名詞)
