@@ -19,5 +19,5 @@ A `VERB` consists of the stem and inflection parts as below:
  
 The differences between `VERB` tag and UniDic's "動詞 (verb)" are as follows:
 
-* The stem of nominal verbs (so-called <i>suru</i>-verbs or サ変動詞) is also tagged as `VERB`, while in UniDic it is tagged as "名詞 (noun) - 普通名詞 (common noun) - サ変動詞可能 (possibly nominal verb)".  Note that such a nominal verb is tagged as `VERB` when it behaves as a verb (typically followed by "する").
+* The stem of nominal verbs (so-called <i>suru</i>-verbs or サ変動詞) is also tagged as `VERB`, while in UniDic it is tagged as "名詞 (noun) - 普通名詞 (common noun) - サ変動詞可能 (possibly nominal verb)".  Note that such a nominal verb is tagged as `VERB` when it behaves as a verb (typically followed by "する" or "できる"), otherwise is tagged as `NOUN` (e.g. <b>勉強</b>が好きだ ('like studying') )
 * `VERB` is NOT used for non-content (functional) verbs, while they are taged as "動詞 (verb) - 非自立可能 (possibly non-content verbs)" <i>e.g.</i> 食べて<b>いる</b> ('eat' + PROGRESSIVE): `AUX` tag is used for them.
