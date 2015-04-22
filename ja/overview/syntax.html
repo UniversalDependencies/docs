@@ -48,101 +48,345 @@ while we still have unclear cases.</p>
 couple of examples.  See the section <a href="http://universaldependencies.github.io/docs/ja/dep/index.html">Japanese dependency relations</a>
 for the definition of each label.</p>
 
-<table border="1">
-  <tr><td rowspan="8">Core dependents of clausal predicates</td>
-  <td>`nsubj`</td><td>Nominal subjects (typically a postpositional phrase
-  with a case marker が / <i>ga</i> or sometimes with は / <i>wa</i>)</td>
-  <td>太郎 が / <i>Taro ga</i>"Taro-NOM" &lt;-`nsubj`- 走る /
-  <i>hashiru</i> "run"</td></tr>
-  <tr><td>`nsubjpass`</td><td>Nominal subjects in passive forms</td>
-  <td>太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubjpass`- ほめ られ
-  る / <i>home rareru</i> "praise-PASSIVE"</td></tr>
-  <tr><td>`dobj`</td><td>Direct object (typically a postpositional phrase
-  with a case marker を / <i>o</i>)</td>
-  <td>ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`dobj`- 食べる /
-  <i>taberu</i> "eat"</td></tr>
-  <tr><td>`iobj`</td><td>Indirect object (typicall a postpositional phrase
-  with a case marker に / <i>ni</i>)</td>
-  <td>花子 に / <i>Hanako ni</i> "Hanako-ACC" &lt;-`iobj`- あげる / <i>ageru</i>
-  "give"</td></tr>
-  <tr><td>`csubj`</td><td>Clausal subjects introduced by a nominal
-  marker の / <i>no</i></td>
-  <td>太郎 が 怒ら れる の は / Taro ga okora reru no ha "that-TOPIC Taro is
-  punished" &lt;-`csubj`- いやだ / iyada "dislike"</td></tr>
-  <tr><td>`csubjpass`</td><td>Clausal subjects in passive forms</td>
-  <td>言っ た の が / <i>It ta no ga</i> "that-NOM (someone) said"
-  &lt;-`csubjpass`- 悔やま れる / <i>kuyama reru</i> "regret-PASSIVE"</td></tr>
-  <tr><td>`ccomp`</td><td>Complement clause (typically a clause introduced by
-  と / <i>to</i>)</td>
-  <td>きれい だ と / <i>kirei da to</i> "that (something) is
-  beautiful" &lt;-`ccomp`- 思う / <i>omou</i> "think"</td></tr>
-  <tr><td>`xcomp`</td><td>Not used in Japanese</td><td><br /></td></tr>
-  <tr><td rowspan="4">Non-core dependents of clausal predicate</td>
-  <td>nmod</td><td>Prepositional/noun phrases modifying another
-  phrase</td><td>北海道へ(Hokkaido-TO) &lt;-nmod- 行く(go)、昨日(yesterday)
-  &lt;-nmod- 行った(go-PAST)</td></tr>
-  <tr><td>advcl</td><td>Subordinate clause</td><td>食べた(eat)なら(if) &lt;-advcl- 行く(go)</td></tr>
-  <tr><td>advmod</td><td>Adverbial modifiers</td><td>ゆっくり(slowly) &lt;-advmod- 走る(run)</td></tr>
-  <tr><td>neg</td><td>Negation with "ない" "ず"</td><td>食べ(eat) -neg-&gt; ない
-  (NEG)、走ら(run) -neg-&gt; ず(NEG)</td></tr>
-  <tr><td rowspan="7">Noun dependents</td>
-  <td>nummod</td><td>Numeral classifier phrases</td><td>3冊の(three books-OF) &lt;-nummod- 本(books)</td></tr>
-  <tr><td>appos</td><td>Appositive relations</td><td>形態素解析器(morphological analyzer) &lt;-appos- juman</td></tr>
-  <tr><td>nmod</td><td>Prepositional phrases modifying another phrase</td><td>リンゴの(apple-OF) &lt;-nmod- ジュース(juice)</td></tr>
-  <tr><td>acl</td><td>Relative clause, clausal complement of nouns</td><td>太郎
-  が食べた(Taro-NOM eat-PAST) &lt;-acl- リンゴ(apple)、ほめられた
-  (praise-PASSIVE) &lt;-acl- こと(fact)</td></tr>
-  <tr><td>amod</td><td>Adjectival modifiers; adjectives with arguments are
-  tagged as "acl"</td><td>きれいな(beautiful) &lt;-amod- 本(book)</td></tr>
-  <tr><td>det</td><td>この/こんな(this)、あの/あんな(that)、その/そんな(that)、どの/どんな(which)
-  modifying a noun</td><td>この(this) &lt;-det- 本(book)</td></tr>
-  <tr><td>neg</td><td>Negation with "ない"</td><td>ない(NEG) &lt;-neg- 本(book)</td></tr>
-  <tr><td>Case-marking, prepositions, possessive</td><td>case</td><td>Postpositions and particles attach to a noun
-  phrase</td><td>太郎(Taro) -case-&gt; が(NOM)、太郎(Taro) -case-&gt; の(POSS)、
-  東京(Tokyo) -case-&gt; へ(TO)</td></tr>
-  <tr><td rowspan="5">Compounding and unanalyzed</td>
-  <td>compound</td><td>Noun compounds, verb compounds</td><td>構文(syntax)
-  &lt;-compound- 解析(analysis)、泳ぎ(swim) &lt;-compound- 着く(reach)</td></tr>
-  <tr><td>name</td><td>Proper noun compounds</td><td>山田(Yamada) -name-&gt; 太郎(Taro)</td></tr>
-  <tr><td>mwe</td><td>Multi-word functional expressions</td><td>に -mwe-&gt; よって
-  (by)、かも -mwe-&gt; しれ -mwe-&gt; ない (maybe)</td></tr>
-  <tr><td>foreign</td><td>Foreign words in non-Japanese
-  characters</td><td>google &lt;-foreign- docs</td></tr>
-  <tr><td>goeswith</td><td>used when a word is somehow split into tokens</td><td><br /></td></tr>
-  <tr><td rowspan="5">Loose joining relations</td>
-  <td>list</td><td>Listing</td><td>1. 東京(Tokyo) &lt;-list- 2. 大阪(Osaka)</td></tr>
-  <tr><td>dislocated</td><td>a topic phrase (typically a prepositional
-  phrase with topic marker "は")</td><td>象は(elephant-TOPIC) &lt;-dislocated-
-  (鼻が(nose-NOM) &lt;-nsubj- 長い(long))</td></tr>
-  <tr><td>parataxis</td><td>Listing of sentences</td><td>「太郎は花子が好き(Taro
-  loves Hanako)。&lt;-parataxis- 次郎は梅子が好き。(Jiro loves Umeko)」と
-  三郎が言った(Saburo said)。</td></tr>
-  <tr><td>remnant</td><td>used to annotate head-less coordination (see the
-  definition in Universal Dependencies for details)</td><td><br /></td></tr>
-  <tr><td>reparandum</td><td>speech repair</td><td>(大阪(Osaka)、えー(Umm)、) &lt;-reparandum- 梅田(Umeda) に(TO) 行きます(go)。</td></tr>
-  <tr><td rowspan="8">Special clausal dependents</td>
-  <td>vocative</td><td>dialogue participant names in text</td><td>太郎(Taro) &lt;-vocative- 食べなさい(eat)</td></tr>
-  <tr><td>discourse</td><td>discourse elements like interjection and
-  emoticons</td><td>あー(ah) &lt;-discourse- つかれた(tired)</td></tr>
-  <tr><td>expl</td><td>not used in Japanese</td><td><br /></td></tr>
-  <tr><td>aux</td><td>auxiliary verbs and particles that attach to
-  verbs</td><td>食べ(eat) -aux-&gt; た(past)、(行き(go) -aux-&gt; ます(POLITE))
-  -aux-&gt; か(QUESTION)</td></tr>
-  <tr><td>auxpass</td><td>passive auxiliary</td><td>食べ(eat) -auxpass-&gt; られる(PASSIVE)</td></tr>
-  <tr><td>cop</td><td>copular auxiliary "だ"</td><td>太郎は(Taro-TOPIC) &lt;-nsubj-
-  学生(student) -cop-&gt; だ(COPULA)</td></tr>
-  <tr><td>mark</td><td>subordinating conjunction, conjunctive particle,
-  complementizer ("と", "か)</td><td>東京へ行く(go to Tokyo) -mark-&gt; と 言った</td></tr>
-  <tr><td>punct</td><td>punctuations</td><td>太郎が走る(Taro runs) -punct-&gt; 。</td>
-  </tr>
-  <tr><td rowspan="3">Coordination</td>
-  <td>conj</td><td>coordination</td><td>(太郎 -cc-&gt; と) -conj-&gt; 次郎</td></tr>
-  <tr><td>cc</td><td>conjunction, coordinating conjunctive particle
-  (e.g. "と", "や")</td><td>(太郎 -cc-&gt; と) -conj-&gt; 次郎、また、&lt;-cc- …</td></tr>
-  <tr><td>punct</td><td>punctuations</td><td>(太郎 -punct-&gt; 、) -conj-&gt; 次郎</td></tr>
-  <tr><td rowspan="2">Other</td>
-  <td>root</td><td>head of a sentence</td><td><br /></td></tr>
-  <tr><td>dep</td><td>undefined</td><td><br /></td></tr>
+<h2 id="core-dependents-of-clausal-predicates">Core dependents of clausal predicates</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>nsubj</code></td>
+      <td>Nominal subjects (typically a postpositional phrase with a case marker が / <i>ga</i> or sometimes with は / <i>wa</i>)&lt;/td&gt;</td>
+      <td>太郎 が / <i>Taro ga</i> “Taro-NOM” &lt;-<code>nsubj</code>- 走る / <i>hashiru</i> “run”</td>
+    </tr>
+    <tr>
+      <td><code>nsubjpass</code></td>
+      <td>Nominal subjects in passive forms</td>
+      <td>太郎 が / <i>Taro ga</i> “Taro-NOM” &lt;-<code>nsubjpass</code>- ほめ られる / <i>home rareru</i> “praise-PASSIVE”</td>
+    </tr>
+    <tr>
+      <td><code>dobj</code></td>
+      <td>Direct object (typically a postpositional phrase with a case marker を / <i>o</i>)</td>
+      <td>ご飯 を / <i>gohan o</i> “rice-ACC” &lt;-<code>dobj</code>- 食べる / <i>taberu</i> “eat”</td>
+    </tr>
+    <tr>
+      <td><code>iobj</code></td>
+      <td>Indirect object (typicall a postpositional phrase with a case marker に / <i>ni</i>)</td>
+      <td>花子 に / <i>Hanako ni</i> “Hanako-ACC” &lt;-<code>iobj</code>- あげる / <i>ageru</i> “give”</td>
+    </tr>
+    <tr>
+      <td><code>csubj</code></td>
+      <td>Clausal subjects introduced by a nominal marker の / <i>no</i></td>
+      <td>太郎 が 怒ら れる の は / Taro ga okora reru no ha “that-TOPIC Taro is punished” &lt;-<code>csubj</code>- いやだ / iyada “dislike”</td>
+    </tr>
+    <tr>
+      <td><code>csubjpass</code></td>
+      <td>Clausal subjects in passive forms</td>
+      <td>言っ た の が / <i>It ta no ga</i> “that-NOM (someone) said” &lt;-<code>csubjpass</code>- 悔やま れる / <i>kuyama reru</i> “regret-PASSIVE”</td>
+    </tr>
+    <tr>
+      <td><code>ccomp</code></td>
+      <td>Complement clause (typically a clause introduced by と / <i>to</i>)</td>
+      <td>きれい だ と / <i>kirei da to</i> “that (something) is beautiful” &lt;-<code>ccomp</code>- 思う / <i>omou</i> “think”</td>
+    </tr>
+    <tr>
+      <td><code>xcomp</code></td>
+      <td>Not used in Japanese</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="non-core-dependents-of-clausal-predicate">Non-core dependents of clausal predicate</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>nmod</code></td>
+      <td>Prepositional/noun phrases modifying another phrase</td>
+      <td>北海道 へ / <i>Hokkaido e</i> “Hokkaido-TO” &lt;-<code>nmod</code>- 行く / <i>iku</i> “go” <br /> 明日 / <i>ashita</i> “tomorrow” &lt;-<code>nmod</code>- 行く <i>iku</i> “go”</td>
+    </tr>
+    <tr>
+      <td><code>advcl</code></td>
+      <td>Subordinate clause</td>
+      <td>食べ た なら / <i>tabe ta nara</i> “if (someone) ate &lt;-<code>advcl</code>- 行く / <i>iku</i> “go”</td>
+    </tr>
+    <tr>
+      <td><code>advmod</code></td>
+      <td>Adverbial modifiers</td>
+      <td>ゆっくり / <i>yukkuri</i> “slowly” &lt;-<code>advmod</code>- 走る <i>hashiru</i> “run”</td>
+    </tr>
+    <tr>
+      <td><code>neg</code></td>
+      <td>Negation with ない / <i>nai</i>, ず / <i>zu</i></td>
+      <td>食べ <i>tabe</i> “eat” -<code>neg</code>-&gt; ない / <i>nai</i> “not”</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="noun-dependents">Noun dependents</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>nummod</code></td>
+      <td>Numeral classifier phrases</td>
+      <td>3 冊 の / <i>san satsu no</i> “three books of” &lt;-<code>nummod</code>- 本 / <i>hon</i> “books”</td>
+    </tr>
+    <tr>
+      <td><code>appos</code></td>
+      <td>Appositive relations</td>
+      <td>形態素 解析 器 / <i>keitaiso kaiseki ki</i> “morphological analyzer” &lt;-<code>appos</code>- Mecab / <i>mekabu</i> “mecab”</td>
+    </tr>
+    <tr>
+      <td><code>nmod</code></td>
+      <td>Prepositional phrases modifying another phrase</td>
+      <td>リンゴ の / <i>ringo no</i> “of apple” &lt;-<code>nmod</code>- ジュース <i>jusu</i> “juice”</td>
+    </tr>
+    <tr>
+      <td><code>acl</code></td>
+      <td>Relative clause, clausal complement of nouns</td>
+      <td>太郎 が 食べ た / <i>Taro ga tabe ta “Taro ate” &lt;-<code>acl</code>- リンゴ / <i>ringo</i> “apple” <br /> ほめ られた / <i>home rareta</i> “praise-PASSIVE” &lt;-<code>acl</code>- こと / <i>koto</i> “fact”</i></td>
+    </tr>
+    <tr>
+      <td><code>amod</code></td>
+      <td>Adjectival modifiers; adjectives with arguments are tagged as “acl”</td>
+      <td>きれいな / <i>kireina</i> “beautiful” &lt;-<code>amod</code>- リンゴ / <i>ringo</i> “apple”</td>
+    </tr>
+    <tr>
+      <td><code>det</code></td>
+      <td>この / <i>kono</i> “this”, こんな / <i>konna</i> “this”, あの / <i>ano</i> “that”, あんな  / <i>anna</i> “that”, その / <i>sono</i> “that”, そんな / <i>sonna</i> “that”, どの / <i>dono</i> “which”, どんな / <i>donna</i> “which” modifying a noun</td>
+      <td>この / <i>kono</i> “this” &lt;-<code>det</code>- 本 / <i>hon</i> “book”</td>
+    </tr>
+    <tr>
+      <td><code>neg</code></td>
+      <td>Negation with 不 / <i>fu</i>, 非 / <i>hi</i></td>
+      <td>不 / <i>fu</i> “not” &lt;-<code>neg</code>- 支持 / <i>shiji</i> “support”</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="case-marking-prepositions-possessive">Case-marking, prepositions, possessive</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>case</code></td>
+      <td>Postpositions and particles attach to a noun phrase</td>
+      <td>太郎 / <i>Taro</i> “Taro” -<code>case</code>-&gt; が / <i>ga</i> “NOM”, 太郎 / <i>Taro</i> “Taro” -<code>case</code>-&gt; の / <i>no</i> “of”, 東京 / <i>Tokyo</i> “Tokyo” -<code>case</code>-&gt; へ / <i>e</i> “to”</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="compounding-and-unanalyzed">Compounding and unanalyzed</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>compound</code></td>
+      <td>Noun compounds, verb compounds</td>
+      <td>構文 / <i>kobun</i> “syntax” &lt;-<code>compound</code>- 解析 / <i>kaiseki</i> “analysis”, 泳ぎ / <i>oyogi</i> “swim” &lt;-<code>compound</code>- 着く / <i>tsuku</i> “reach”</td>
+    </tr>
+    <tr>
+      <td><code>name</code></td>
+      <td>Proper noun compounds</td>
+      <td>山田 / <i>Yamada</i> “Yamada” -<code>name</code>-&gt; 太郎 / <i>Taro</i> “Taro”</td>
+    </tr>
+    <tr>
+      <td><code>mwe</code></td>
+      <td>Multi-word functional expressions</td>
+      <td>に / <i>ni</i> -<code>mwe</code>-&gt; よって / <i>yotte</i> “by”, かも / <i>kamo</i> -<code>mwe</code>-&gt; しれ / <i>shire</i> -<code>mwe</code>-&gt; ない / <i>nai</i> (maybe)</td>
+    </tr>
+    <tr>
+      <td><code>foreign</code></td>
+      <td>Foreign words in non-Japanese characters</td>
+      <td>google &lt;-<code>foreign</code>- docs</td>
+    </tr>
+    <tr>
+      <td><code>goeswith</code></td>
+      <td>used when a word is somehow split into tokens</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="loose-joining-relations">Loose joining relations</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>list</code></td>
+      <td>Listing</td>
+      <td>1. 東京 / <i>Tokyo</i> “Tokyo” &lt;-<code>list</code>- 2. 大阪 / <i>Osaka</i> “Osaka”&lt;/td&gt;&lt;/tr&gt;</td>
+    </tr>
+    <tr>
+      <td><code>dislocated</code></td>
+      <td>a topic phrase (typically a prepositionalphrase with topic marker は / <i>ha</i>)</td>
+      <td>象 は / <i>zo wa</i> “elephant-TOPIC” &lt;-<code>dislocated</code>- 鼻 が 長い / <i>hana ga nagai</i> “nose is long”</td>
+    </tr>
+    <tr>
+      <td><code>parataxis</code></td>
+      <td>Listing of sentences</td>
+      <td>「 太郎 は 花子 が 好き 。 / <i>Taro wa Hanako ga suki .</i> “Taro loves Hanako.” &lt;-<code>parataxis</code>- 次郎 は 梅子 が 好き 。 / <i>Jiro wa Umeko ga suki .</i> “Jiro loves Umeko” 」 と 三郎 が 言っ た / <i>to Saburo ga it ta</i> “Saburo said”</td>
+    </tr>
+    <tr>
+      <td><code>remnant</code></td>
+      <td>used to annotate head-less coordination (see the definition in Universal Dependencies for details)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>reparandum</code></td>
+      <td>speech repair</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="special-clausal-dependents">Special clausal dependents</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>vocative</code></td>
+      <td>dialogue participant names in text</td>
+      <td>太郎 / <i>Taro</i> “Taro” &lt;-<code>vocative</code>- 食べ なさい / <i>tabe nasai</i> “eat-IMPERATIVE”</td>
+    </tr>
+    <tr>
+      <td><code>discourse</code></td>
+      <td>discourse elements like interjection and emoticons</td>
+      <td>あー / <i>a</i> “ah” &lt;-<code>discourse</code>- つかれ た <i>tsukare ta</i> “tired”</td>
+    </tr>
+    <tr>
+      <td><code>expl</code></td>
+      <td>not used in Japanese</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>aux</code></td>
+      <td>auxiliary verbs and particles that attach to verbs</td>
+      <td>食べ <i>tabe</i> “eat” -<code>aux</code>-&gt; た / <i>ta</i> “PAST”, 行き / <i>iki</i> “go” -<code>aux</code>-&gt; ます / <i>masu</i> “POLITE” -<code>aux</code>-&gt; か / <i>ka</i> “QUESTION”</td>
+    </tr>
+    <tr>
+      <td><code>auxpass</code></td>
+      <td>passive auxiliary</td>
+      <td>食べ / <i>tabe</i> “eat” -<code>auxpass</code>-&gt; られる / <i>rareru</i> “PASSIVE”</td>
+    </tr>
+    <tr>
+      <td><code>cop</code></td>
+      <td>copular auxiliary だ / <i>da</i></td>
+      <td>太郎 は / <i>Taro wa</i> “Taro-TOPIC” &lt;-<code>nsubj</code>- 学生 / <i>gakusei</i> “student” -<code>cop</code>-&gt; だ / <i>da</i> “COPULA”</td>
+    </tr>
+    <tr>
+      <td><code>mark</code></td>
+      <td>subordinating conjunction, conjunctive particle, complementizer (と / <i>to</i>, か / <i>ka</i>)</td>
+      <td>東京 へ 行く / <i>Tokyo e iku</i> “go to Tokyo” -<code>mark</code>-&gt; と / <i>to</i> “that” 言っ た / <i>it ta</i> “said”</td>
+    </tr>
+    <tr>
+      <td><code>punct</code></td>
+      <td>punctuations</td>
+      <td>太郎 が 走る / <i>Taro ga hashiru</i> “Taro runs” -<code>punct</code>-&gt; 。&lt;/td&gt;</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="coordination">Coordination</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>conj</code></td>
+      <td>coordination</td>
+      <td>(太郎 / <i>Taro</i> “Taro” -<code>cc</code>-&gt; と / <i>to</i> “and”) -<code>conj</code>-&gt; 次郎 / <i>Jiro</i> “Jiro”</td>
+    </tr>
+    <tr>
+      <td><code>cc</code></td>
+      <td>conjunction, coordinating conjunctive particle (e.g. と / <i>to</i>, や / <i>ya</i>)</td>
+      <td>See the example above</td>
+    </tr>
+    <tr>
+      <td><code>punct</code></td>
+      <td>punctuations</td>
+      <td>(太郎 / <i>Taro</i> “Taro” -<code>punct</code>-&gt; 、) -<code>conj</code>-&gt; 次郎 / <i>Jiro</i> “Jiro”</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="other">Other</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>label</th>
+      <th>description</th>
+      <th>examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>root</code></td>
+      <td>head of a sentence</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>dep</code></td>
+      <td>undefined</td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
 
 
