@@ -4,7 +4,7 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  For more on coordination, see the [conj]() relation. 
+A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like _både ... och_ "both ... and" and _antingen ... eller_ "either ... or". For more on coordination, see the [conj]() relation. 
 
 ~~~ sdparse
 1500 kr per barn och år \n 1500 kr per child and year
@@ -12,7 +12,11 @@ cc(barn, och)
 conj(barn, år)
 ~~~
 
-A conjunction may also appear at the beginning of a sentence.  This is also called a `cc`, and dependent on the root predicate of the sentence. 
+~~~ sdparse
+både äpplen och päron \n both apples and pears
+cc(äpplen, både)
+cc(äpplen, och)
+conj(äpplen, päron)
 
 ~~~ sdparse
 Och du har inte bara en chans \n And you don't have just one chance
