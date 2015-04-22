@@ -13,8 +13,8 @@ comparing it to qualities of others.
 
 #### Examples
 
-* [sv] _<b>vanlig</b> karakteristik_ "<b>normal</b> characteristic"
-* [sv] _<b>naturliga</b> resurser_ "<b>natural</b> resources"
+* [sv] _<b>vanlig</b> karakteristik_ "normal characteristic"
+* [sv] _<b>naturliga</b> resurser_ "natural resources"
 
 ### `Cmp`: comparative, second degree
 
@@ -22,8 +22,8 @@ The quality of one thing is compared to the same quality of another.
 
 #### Examples
 
-* [sv] _<b>färre</b> barn_ "<b>fewer</b> children"
-* [sv] _att röka <b>mindre</b>_ "to smoke <b>less</b>"
+* [sv] _<b>färre</b> barn_ "fewer children"
+* [sv] _att röka <b>mindre</b>_ "to smoke less"
 
 ### `Sup`: superlative, third degree
 
@@ -32,5 +32,5 @@ things within a set.
 
 #### Examples
 
-* [sv] _<b>längst</b> till höger_ "<b>furthest</b> to the right"
-* [sv] _<b>största</b> valdistriktet_ "<b>largest</b> constituency"
+* [sv] _<b>längst</b> till höger_ "furthest to the right"
+* [sv] _<b>största</b> valdistriktet_ "largest constituency"
