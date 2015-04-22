@@ -18,4 +18,4 @@ The syntactic annotation has been automatically converted from the original MAMB
 * The blocks of discontiguous phrases appear as separate phrases with the same syntactic function.
 * The _remnant_ analysis of ellipsis has not been fully implemented.
 * Complex names with compositional internal structure are annotated in the same way as non-compositional cases.
-* Comparative modifiers are not always attached to the comparative element itself but to its head.
+* Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
