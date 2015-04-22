@@ -4,7 +4,7 @@ title:  'nmod:poss'
 shortdef : 'possessive nominal modifier'
 ---
 
-`nmod:poss` is used for a genetive nominal modifier.
+The relation `nmod:poss` is used for a genitive/possessive nominal modifier, expressed either by a nominal in the genitive or by a possessive determiner.
 
 ~~~ sdparse
 Livets hårda sida \n The difficult side of life
