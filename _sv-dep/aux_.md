@@ -10,7 +10,7 @@ redirect_from: "sv/dep/aux.html"
 An auxiliary of a clause is a [non-main verb](sv-pos/AUX) of the
 clause.
 
-Exception: Auxiliary verb used to construct the passive
+Exception: An auxiliary verb used to construct the passive
 [voice](sv-feat/Voice) is not labeled `aux` but [auxpass]().
 
 ~~~ sdparse
