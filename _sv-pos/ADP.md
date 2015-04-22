@@ -8,9 +8,7 @@ shortdef: 'adposition'
 
 Adposition is a cover term for prepositions and postpositions. 
 
-In Swedish, some prepositions may also function
-as verbal particles, as in _säga <b>till</b>_ "tell" or _komma <b>åt</b>_ "get at". They
-are still tagged `ADP` and not [PART]().
+Swedish as prepositions but not postpositions (except in a few fixed archaic phrases). In Swedish, some prepositions may also function as verb particles, as in _säga <b>till</b>_ "tell" or _komma <b>åt</b>_ "get at". They are still tagged `ADP` and not [PART]().
 
 ### Examples
 
