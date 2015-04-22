@@ -279,7 +279,6 @@ dobj(älskar, som)
 <pre><code class="language-sdparse">Jag såg den man du älskar \n I saw the man you love
 acl:relcl(man, love)
 nsubj(älskar, du)
-dobj(älskar, som)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
@@ -462,7 +461,7 @@ ccomp(säker, gjorde)
 <p>The <code>compound</code> relation is used in Swedish only for compounds borrowed from other languages and therefore written as two (or more) separate words. Compounds in Swedish are normally written as a single word without space between the compound elements. A subtype, <a href="">compound:prt</a>, is used for verb particles in phrasal verbs.</p>
 
 <pre><code class="language-sdparse">Hon gillar corn flakes \n She likes corn flakes
-dobj(giller, flakes)
+dobj(gillar, flakes)
 compound(flakes, corn)
 </code></pre>
 
@@ -623,10 +622,11 @@ det(bok, Vilken)
 <p><a id="al-sv-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
 
-<p>This is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way).</p>
+<p>This is used for interjections and other discourse particles and elements, which are not clearly linked to the structure of the sentence except in an expressive way.</p>
 
-<pre><code class="language-sdparse">Iguazu är i Argentina :) \n Iguazu is in Argentina :)
-discourse(är-2, :)-5)
+<pre><code class="language-sdparse">Wow , det var kul :) \n Wow , that was fun :)
+discourse(kul, :)-6)
+discourse(kul, Wow)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/discourse.md" target="#">edit discourse</a></p>
