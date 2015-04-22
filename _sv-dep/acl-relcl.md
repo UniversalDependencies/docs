@@ -4,16 +4,27 @@ title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-A relative clause modifier of an noun is a relative clause modifying
-the noun. The relation points from the noun that is modified to the
-head of the relative clause. Relative clauses are finite.
+The `acl:relcl` relation is used for relative clauses modifying
+a nominal. The relation points from the head of the nominal to the
+head of the relative clause. Relative clauses are always finite in Swedish
+and the relative pronoun can be omitted when it does not have the subject function.
 
 ~~~ sdparse
-Jag såg den man som du älskar \n I saw the man you love
+Jag såg den man som älskar dig \n I saw the man who loves you
 acl:relcl(man, älskar)
+nsubj(älskar, som)
+dobj(älskar, dig)
+~~~
+~~~ sdparse
+Jag såg den man som du älskar \n I saw the man who you love
+acl:relcl(man, älskar)
+nsubj(älskar, du)
+dobj(älskar, som)
 ~~~
 
 ~~~ sdparse
-Jag såg den bok som du köpte \n I saw the book you bought
-acl:relcl(bok, köpte)
+Jag såg den man du älskar \n I saw the man you love
+acl:relcl(man, love)
+nsubj(älskar, du)
+dobj(älskar, som)
 ~~~
