@@ -6,7 +6,7 @@ permalink: sv/overview/introduction.html
 
 # Introduction
 
-The Swedish UD treebank is based on the Professional Prose section of Talbanken (Einarsson, 1976), originally annotated by a team led by Ulf Teleman at Lund University according to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences and 95,000 tokens taken from a variety of genres, including text books, information brochures, and newspaper articles. The syntactic annotation is converted directly from the original MAMBA annotation, while the morphological annotation is based on the reannotation performed when incorporating Talbanken into the Swedish Treebank (Nivre and Megyesi, 2007). 
+The Swedish UD treebank is based on the Professional Prose section of Talbanken (Einarsson, 1976), originally annotated by a team led by Ulf Teleman at Lund University according to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences and 97,000 tokens taken from a variety of genres, including text books, information brochures, and newspaper articles. The syntactic annotation is converted directly from the original MAMBA annotation, while the morphological annotation is based on the reannotation performed when incorporating Talbanken into the Swedish Treebank (Nivre and Megyesi, 2007). 
 
 **Caveat:** Version 1.1 of the Swedish UD treebank conforms to the UD guidelines in all major respects, but there are still a number of minor issues that remain to be fixed, in particular in the treatment of ellipsis and discontiguous phrases.
 
