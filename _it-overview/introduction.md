@@ -31,7 +31,7 @@ The final conversion step, leading to UD, is in progress. A first preliminary re
 <tr><td>ISST-TANL</td><td>SPLeT 2012 </td><td>Legal texts: European directives</td><td>7,200</td><td>260</td></tr>
 <tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>26,078</td><td>2,228</td></tr>
 <tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>8,776</td><td>304</td></tr>
-<tr><td>TUT</td><td>Parallel TUT (Italian part)</td><td>Various genres</td><td>52,013</td><td>1,694</td></tr>
+<tr><td>TUT-CONLL</td><td>Parallel TUT (Italian part)</td><td>Various genres</td><td>52,013</td><td>1,694</td></tr>
 <tr><td></td><td></td><td>TOTAL</td><td><b>304,774</b></td><td><b>12,463</b></td></tr>
 </table>
 
