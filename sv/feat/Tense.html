@@ -36,7 +36,7 @@
 
 <p>The <code>Tense</code> feature applies to verbs (<a href="">VERB</a> and <a href="">AUX</a>), specifying the time when the action took / takes place, in relation to the current moment or to another action in the utterance.</p>
 
-<p>Note that we are defining features that apply to a single word. If a tense is constructed periphrastically (two or more words, e.g. auxiliary verb indicative + supine of the main verb) and none of the participating words are specific to this tense, then the features will not directly reveal the tense. For instance, [sv] <em>Jag <b>hade varit</b> där</em> “I <b>had been</b> there” is past perfect (pluperfect) tense, formed periphrastically by the simple past tense of the auxiliary <em>att ha</em> “to have” and the supine form of the main verb <em>att vara</em> “to be”. The auxiliary will be tagged <code>VerbForm=Fin|Mood=Ind|Tense=Past</code> and the participle will have <code>VerbForm=Sup|Tense=Past</code>; neither of the two will have <code>Tense=Pqp</code>, which is only used in languages where this tense can be directly represented morphologically on the verb.</p>
+<p>Note that we are defining features that apply to a single word. If a tense is constructed periphrastically (two or more words, e.g. present tense auxiliary verb + supine of the main verb) and none of the participating words are specific to this tense, then the features will not directly reveal the tense. For instance, [sv] <em>Jag <b>hade varit</b> där</em> “I had been there” is past perfect (pluperfect) tense, formed periphrastically by the simple past tense of the auxiliary <em>att ha</em> “to have” and the supine form of the main verb <em>att vara</em> “to be”. The auxiliary will be tagged <code>VerbForm=Fin|Mood=Ind|Tense=Past</code> and the participle will have <code>VerbForm=Sup|Tense=Past</code>; neither of the two will have <code>Tense=Pqp</code>, which is only used in languages where this tense can be directly represented morphologically on the verb.</p>
 
 <h3 id="pres-present-tense"><code>Pres</code>: present tense</h3>
 
@@ -45,8 +45,8 @@
 <h4 id="examples">Examples</h4>
 
 <ul>
-  <li>[sv] <em>hon <b>säger</b> saker</em> “she <b>says</b> things”</li>
-  <li>[sv] <em>det <b>blir</b> svårare</em> “it <b>becomes</b> more difficult”</li>
+  <li>[sv] <em>hon <b>säger</b> saker</em> “she says things”</li>
+  <li>[sv] <em>det <b>blir</b> svårare</em> “it becomes more difficult”</li>
 </ul>
 
 <h3 id="past-preterite"><code>Past</code>: preterite</h3>
@@ -56,8 +56,8 @@
 <h4 id="examples-1">Examples</h4>
 
 <ul>
-  <li>[sv] <em>innan stadskulturen <b>började</b></em> “before urban culture <b>began</b>”</li>
-  <li>[sv] <em>han önskar att han <b>var</b> i Spanien</em> “he wishes that he <b>were</b> in Spain”</li>
+  <li>[sv] <em>innan stadskulturen <b>började</b></em> “before urban culture began”</li>
+  <li>[sv] <em>han önskar att han <b>var</b> i Spanien</em> “he wishes that he was in Spain”</li>
 </ul>
 
 
