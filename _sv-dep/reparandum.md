@@ -4,7 +4,7 @@ title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---
 
-`reparandum` is used to indicate disfluencies overridden in a speech
+The `reparandum` relation is used to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair. There are currently
 no attested uses of this relation in the Swedish treebank.
 
