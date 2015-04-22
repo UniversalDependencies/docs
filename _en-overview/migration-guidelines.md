@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Introduction'
+title:  'Migration Guidelines'
 permalink: en/overview/migration-guidelines.html
 ---
 
