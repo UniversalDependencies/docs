@@ -26,7 +26,7 @@ In many languages used for direct objects of verbs. In Swedish this form is only
 
 ### `Gen`: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. The genetive in Swedish does not however always imply possession, for example _<b>Stillhetens</b> hav_ "Sea of <b>Tranquility</b>"
+Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. The genitive in Swedish does not however always imply possession, for example _<b>Stillhetens</b> hav_ "Sea of <b>Tranquility</b>"
 
 #### Examples
 
