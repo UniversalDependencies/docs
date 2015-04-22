@@ -586,8 +586,21 @@ may be because of a weird grammatical construction, a limitation in
 software, a parser error, or because of an unresolved long distance 
 dependency.</p>
 
+<p>In the current version of the Swedish UD treebank, the <em>dep</em> relation is (temporarily) used in two constructions, due to the automatic conversion. This should be reanalyzed in later versions.</p>
+
+<p>First, the relative pronoun <em>som</em> is assigned the <em>dep</em> relation when it duplicates the function of a wh word or phrase:</p>
+
 <pre><code class="language-sdparse">Svårast är att bestämma vilka förändringar som har skett \n The hardest part is to decide which changes have taken place
+dobj(bestämma, skett)
+nsubj(skett, förändringar)
 dep(skett, som)
+</code></pre>
+
+<p>Secondly, the focus element in a cleft sentence is analyzed as having a <em>dep</em> relation to the verb introducing it:</p>
+
+<pre><code class="language-sdparse">Det var Pelle som gjorde det \n It was Pelle who did it
+dep(var, Pelle)
+acl:relcl(Pelle, gjorde)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/dep.md" target="#">edit dep</a></p>
@@ -595,7 +608,7 @@ dep(skett, som)
 <p><a id="al-sv-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>A determiner is the relation between the head of an NP and its determiner. </p>
+<p>A determiner is the relation between the head of a nominal phrase and its determiner. </p>
 
 <pre><code class="language-sdparse">Den engelska parken är vacker \n The English park is beautiful
 det(parken, Den)
