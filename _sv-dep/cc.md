@@ -17,6 +17,7 @@ både äpplen och päron \n both apples and pears
 cc(äpplen, både)
 cc(äpplen, och)
 conj(äpplen, päron)
+~~~
 
 ~~~ sdparse
 Och du har inte bara en chans \n And you don't have just one chance
