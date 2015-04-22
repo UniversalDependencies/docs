@@ -34,7 +34,8 @@
 
           <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>både … och</em> “both … and” and <em>antingen … eller</em> “either … or”. For more on coordination, see the <a href="">conj</a> relation. </p>
+<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>både … och</em> “both … and” and <em>antingen … eller</em> “either … or”. Note that we never treat punctuation as coordinating conjunctions.
+For more on coordination, see the <a href="">conj</a> relation. </p>
 
 <pre><code class="language-sdparse">1500 kr per barn och år \n 1500 kr per child and year
 cc(barn, och)
@@ -45,9 +46,16 @@ conj(barn, år)
 cc(äpplen, både)
 cc(äpplen, och)
 conj(äpplen, päron)
+</code></pre>
 
-~~~ sdparse
-Och du har inte bara en chans \n And you don't have just one chance
+<pre><code class="language-sdparse">äpplen , apelsiner och päron \n apples , oranges and pears
+punct(äpplen, ,)
+cc(äpplen, och)
+conj(äpplen, päron)
+conj(äpplen, apelsiner)
+</code></pre>
+
+<pre><code class="language-sdparse">Och du har inte bara en chans \n And you don't have just one chance
 cc(har, Och)
 </code></pre>
 
