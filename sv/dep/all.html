@@ -379,20 +379,23 @@ aux(ha, kan)
 <p>A passive auxiliary of a clause is a non-main verb of the clause which
 contains the passive information.</p>
 
-<pre><code class="language-sdparse">Kennedy har blivit mördad \n Kennedy has been killed
-auxpass(mördad, blivit)
-</code></pre>
-
-<pre><code class="language-sdparse">Kennedy blev mördad \n Kennedy was killed
+<pre><code class="language-sdparse">Kennedy blev mördad \n Kennedy was murdered
 auxpass(mördad, blev)
 </code></pre>
+
+<p>Other auxiliaries associated with the same main verb are not labeled <code>auxpass</code> since they do not themselves indicate passive voice.
+~~~ sdparse
+Kennedy har blivit mördad \n Kennedy has been murdered
+auxpass(mördad, blivit)
+aux(mördad, har)
+~~~</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/auxpass.md" target="#">edit auxpass</a></p>
 
 <p><a id="al-sv-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>The <code>case</code> relation is used for any preposition in Swedish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages. </p>
+<p>The <code>case</code> relation is used for any preposition in Swedish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages. </p>
 
 <pre><code class="language-sdparse">Individuell beskattning av arbetsinkomster \n Individual taxation of employment income
 case(arbetsinkomster, av)
