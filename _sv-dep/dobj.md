@@ -4,9 +4,23 @@ title: 'dobj'
 shortdef: 'direct object'
 ---
 
-The direct object of a VP is the noun phrase which is the (accusative) object of the verb. 
+A direct object is a nominal which is the (accusative) object of the verbal predicate. 
 
 ~~~ sdparse
-Han skickar mig en anmälan . \n He sends me a report .
-dobj(skickar, anmälan)
+Han äter en smörgås . \n He eats a sandwich .
+dobj(äter, smörgås)
+~~~
+
+If there is only one object present, it is always analyzed as _dobj_ regardless of the semantic relation to the predicate. If there are two objects, the one most directly related to the verb is treated as the direct object.
+
+~~~ sdparse
+Han informerar dig . \n He informs you .
+dobj(informerar, dig)
+~~~
+
+~~~ sdparse
+Han skickar dig information . \n He sends you information .
+dobj(skickar, information)
+iobj(skickar, dig)
+
 ~~~
