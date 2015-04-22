@@ -19,3 +19,4 @@ The syntactic annotation has been automatically converted from the original MAMB
 * The _remnant_ analysis of ellipsis has not been fully implemented.
 * Complex names with compositional internal structure are annotated in the same way as non-compositional cases.
 * Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
+* The unspecified _dep_ relation is used in the annotation of cleft sentences and interrogative subclauses
