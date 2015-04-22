@@ -451,14 +451,19 @@ ccomp(säker, gjorde)
 <p><a id="al-sv-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>The <code>compound</code> relation is not currently used in the Swedish treebank. A subtype, <a href="">compound:prt</a>, is used for verb particles in phrasal verbs.</p>
+<p>The <code>compound</code> relation is used in Swedish only for compounds borrowed from other languages and therefore written as two (or more) separate words. Compounds in Swedish are normally written as a single word without space between the compound elements. A subtype, <a href="">compound:prt</a>, is used for verb particles in phrasal verbs.</p>
+
+<pre><code class="language-sdparse">Hon gillar corn flakes \n She likes corn flakes
+dobj(giller, flakes)
+compound(flakes, corn)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/compound.md" target="#">edit compound</a></p>
 
 <p><a id="al-sv-dep/compound:prt" class="al-dest"></a></p>
-<h2><code>compound:prt</code>: phrasal verb particle</h2>
+<h2><code>compound:prt</code>: verb particle</h2>
 
-<p><em>compound:prt</em> is used for the verb particles in phrasal verbs.</p>
+<p>The verb particle relation <em>compound:prt</em> is used for the particle element of a particle verb construction.</p>
 
 <pre><code class="language-sdparse">Paketet har kommit fram \n The package has arrived
 compound(kommit, fram)
@@ -473,10 +478,9 @@ compound(vara, med)
 <p><a id="al-sv-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as <em>and</em>, <em>or</em>, etc.  We treat
-conjunctions asymmetrically: The head of the relation is the first
-conjunct and other conjunctions depend on it via the <code>conj</code> relation.</p>
+<p>The conjunct relation holds between coordinated elements. We treat
+coordination asymmetrically: The head of the relation is the first
+conjunct and other conjuncts depend on it via the <code>conj</code> relation.</p>
 
 <pre><code class="language-sdparse">1500 kr per barn och år \n 1500 kr per child and year
 conj(barn, år)
