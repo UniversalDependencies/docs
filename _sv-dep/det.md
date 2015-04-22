@@ -4,7 +4,7 @@ title: 'det'
 shortdef: 'determiner'
 ---
 
-A determiner is the relation between the head of an NP and its determiner. 
+A determiner is the relation between the head of a nominal phrase and its determiner. 
 
 ~~~ sdparse
 Den engelska parken är vacker \n The English park is beautiful
