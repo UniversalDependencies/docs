@@ -26,5 +26,4 @@ dobj(älskar, som)
 Jag såg den man du älskar \n I saw the man you love
 acl:relcl(man, love)
 nsubj(älskar, du)
-dobj(älskar, som)
 ~~~
