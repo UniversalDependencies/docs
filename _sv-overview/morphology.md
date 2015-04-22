@@ -8,7 +8,9 @@ permalink: sv/overview/morphology.html
 
 The morphological annotation in the Swedish UD treebank follows the general guidelines and does not add any language-specific features. The language-specific tags (including features) follow the guidelines of the Stockholm-Umeå Corpus.
 
-The mapping from language-specific tags and features to universal tags and features was done automatically with a simple lookup table and has a few known bugs. The verb particle tag PL in SUC is always mapped to ADP but should be divided into several categories (ADV, NOUN, etc.); the verb tag VB in SUC is always mapped to VERB but should be divided into AUX and VERB; the foreign word tag UO in SUC is always mapped to X but should (sometimes) be mapped to a real tag.
+The mapping from language-specific tags and features to universal tags and features was done automatically. We are not aware of any remaining errors or inconsistences but the mapping has not been validated manually. 
+
+Lemmas were assigned using SALDO in combination with the language-specific SUC tags. Cases of remaining ambiguity were resolved heuristically, which may have introduced errors. For words and symbols not covered by SALDO, lemmas were added manually.
 
 ## References
 
