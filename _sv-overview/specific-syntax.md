@@ -29,6 +29,16 @@ auxpass(jagad, blev)
 He was chased by the-police
 ~~~
 
+In addition, the morphological passive form (s-form) is sometimes used without a passive meaning (so-called deponens and
+reciprocal verbs). These are distinguished from true passives by having the feature `Voice=Pass` (passive form) but the dependency relation _nsubj_ (not _nsubjpass_) to their subjects.
+
+~~~ sdparse
+Jag hoppas att du kommer .
+nsubj(hoppas, Jag)
+ccomp(hoppas, kommer)
+I hope that you come
+~~~
+
 ## Elements of a nominal
 
 
