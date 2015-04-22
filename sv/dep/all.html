@@ -1002,7 +1002,7 @@ punct(blir, .)
 <p><a id="al-sv-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>The remnant relation is currently not attested in the Swedish treebank. For a full discussion of its use, see the universal dependency description (<a href="">u-dep/remnant</a>).</p>
+<p>The remnant relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word. For a full discussion of its use, see the universal dependency description (<a href="">u-dep/remnant</a>).</p>
 
 <pre><code class="language-sdparse">Marie åkte till Paris och Miriam till Prague \n Marie went to Paris and Miriam to Prague
 nsubj(åkte, Marie-1)
@@ -1019,7 +1019,7 @@ remnant(Paris-4, Prague-8)
 <p><a id="al-sv-dep/reparandum" class="al-dest"></a></p>
 <h2><code>reparandum</code>: overridden disfluency</h2>
 
-<p><code>reparandum</code> is used to indicate disfluencies overridden in a speech
+<p>The <code>reparandum</code> relation is used to indicate disfluencies overridden in a speech
 repair. The disfluency is the dependent of the repair. There are currently
 no attested uses of this relation in the Swedish treebank.</p>
 
@@ -1050,14 +1050,14 @@ root(ROOT, man-6)
 <p><a id="al-sv-dep/vocative" class="al-dest"></a></p>
 <h2><code>vocative</code>: vocative</h2>
 
-<p>The <em>vocative</em> relation is used to mark dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+<p>The <em>vocative</em> relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
 
 <pre><code class="language-sdparse">Killar , ta det lungt ! \n Guys , take it easy!
 vocative(ta, Killar)
 </code></pre>
 
 <pre><code class="language-sdparse">David , hur är läget ? \n David, how 's it going ?
-vocative(är, David)
+vocative(hur, David)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/vocative.md" target="#">edit vocative</a></p>
