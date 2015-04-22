@@ -8,12 +8,15 @@ A passive auxiliary of a clause is a non-main verb of the clause which
 contains the passive information.
 
 ~~~ sdparse
-Kennedy har blivit mördad \n Kennedy has been killed
-auxpass(mördad, blivit)
+Kennedy blev mördad \n Kennedy was murdered
+auxpass(mördad, blev)
 ~~~
 
+
+Other auxiliaries associated with the same main verb are not labeled `auxpass` since they do not themselves indicate passive voice.
 ~~~ sdparse
-Kennedy blev mördad \n Kennedy was killed
-auxpass(mördad, blev)
+Kennedy har blivit mördad \n Kennedy has been murdered
+auxpass(mördad, blivit)
+aux(mördad, har)
 ~~~
 
