@@ -12,33 +12,43 @@ the definition of Japanese syntax under Universal Dependencies
 involves several issues to be discussed.  For example, the definition
 of "clause" is not clear, while dependency labels rely on the
 definition of "clause", such as the distinction between "nsubj" and
-"csubj".  These issues are still under discussions and we have not yet
-reached the sufficient definition of Japanese syntax.
+"csubj".  These issues are detailed in the section
+[Specific Constructions](http://universaldependencies.github.io/docs/ja/overview/specific-syntax.html),
+while we still have unclear cases.
 
-Currently, we give an informal definition of dependency labels with a
-couple of examples as described below.
+In the following, we give a rough sketch of dependency labels with a
+couple of examples.  See the section [Japanese dependency relations](http://universaldependencies.github.io/docs/ja/dep/index.html)
+for the definition of each label.
 
 <table border="1">
   <tr><td rowspan="8">Core dependents of clausal predicates</td>
-  <td>nsubj</td><td>Nominal subjects (typically a postpositional phrase
-  with a case marker "が")</td>
-  <td>太郎が(Taro-NOM) &lt;-nsubj- 走る(run)</td></tr>
-  <tr><td>nsubjpass</td><td>Nominal subjects in passive forms</td><td>太郎が
-  (Taro-NOM) &lt;-nsubjpass- ほめられる(praise-PASSIVE)</td></tr>
-  <tr><td>dobj</td><td>Direct object (typically a postpositional phrase
-  with a case marker "を")</td><td>ご飯を(rice-ACC) &lt;-dobj- 食べる
-  (eat)</td></tr>
-  <tr><td>iobj</td><td>Indirect object (typicall a postpositional phrase
-  with a case marker "に")</td><td>花子に(Hanako-ACC) &lt;-iobj- あげる
-  (give)</td></tr>
-  <tr><td>csubj</td><td>Clausal subjects introduced by a nominal marker "の"</td>
-  <td>太郎が(Taro-NOM)怒られる(punish-PASSIVE)の(NOMINAL)は(TOPIC)
-  &lt;-csubj- いやだ(dislike)</td></tr>
-  <tr><td>csubjpass</td><td>Clausal subjects in passive forms</td><td>言った
-  (say-PAST)の(NOMINAL)が(NOM) &lt;-csubjpass- 悔やまれる(feel bad)</td></tr>
-  <tr><td>ccomp</td><td>Complement clause (typically a clause introduced by
-  "と")</td><td>太郎は花子が好きだと(Taro loves Hanako-CL) &lt;-ccomp- 思う(think)</td></tr>
-  <tr><td>xcomp</td><td>Not used in Japanese</td><td><br></td></tr>
+  <td>`nsubj`</td><td>Nominal subjects (typically a postpositional phrase
+  with a case marker が / <i>ga</i> or sometimes with は / <i>wa</i>)</td>
+  <td>太郎 が / <i>Taro ga</i>"Taro-NOM" &lt;-`nsubj`- 走る /
+  <i>hashiru</i> "run"</td></tr>
+  <tr><td>`nsubjpass`</td><td>Nominal subjects in passive forms</td>
+  <td>太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubjpass`- ほめ られ
+  る / <i>home rareru</i> "praise-PASSIVE"</td></tr>
+  <tr><td>`dobj`</td><td>Direct object (typically a postpositional phrase
+  with a case marker を / <i>o</i>)</td>
+  <td>ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`dobj`- 食べる /
+  <i>taberu</i> "eat"</td></tr>
+  <tr><td>`iobj`</td><td>Indirect object (typicall a postpositional phrase
+  with a case marker に / <i>ni</i>)</td>
+  <td>花子 に / <i>Hanako ni</i> "Hanako-ACC" &lt;-`iobj`- あげる / <i>ageru</i>
+  "give"</td></tr>
+  <tr><td>`csubj`</td><td>Clausal subjects introduced by a nominal
+  marker の / <i>no</i></td>
+  <td>太郎 が 怒ら れる の は / Taro ga okora reru no ha "that-TOPIC Taro is
+  punished" &lt;-`csubj`- いやだ / iyada "dislike"</td></tr>
+  <tr><td>`csubjpass`</td><td>Clausal subjects in passive forms</td>
+  <td>言っ た の が / <i>It ta no ga</i> "that-NOM (someone) said"
+  &lt;-`csubjpass`- 悔やま れる / <i>kuyama reru</i> "regret-PASSIVE"</td></tr>
+  <tr><td>`ccomp`</td><td>Complement clause (typically a clause introduced by
+  と / <i>to</i>)</td>
+  <td>きれい だ と / <i>kirei da to</i> "that (something) is
+  beautiful" &lt;-`ccomp`- 思う / <i>omou</i> "think"</td></tr>
+  <tr><td>`xcomp`</td><td>Not used in Japanese</td><td><br></td></tr>
   <tr><td rowspan="4">Non-core dependents of clausal predicate</td>
   <td>nmod</td><td>Prepositional/noun phrases modifying another
   phrase</td><td>北海道へ(Hokkaido-TO) &lt;-nmod- 行く(go)、昨日(yesterday)
