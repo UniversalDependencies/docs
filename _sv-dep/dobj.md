@@ -22,5 +22,4 @@ dobj(informerar, dig)
 Han skickar dig information . \n He sends you information .
 dobj(skickar, information)
 iobj(skickar, dig)
-
 ~~~
