@@ -18,7 +18,7 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-en">home</a></span>
 
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-overview/migration-guidelines.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-overview/introduction.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,97 +32,9 @@
 	  </div>
 	</noscript>
 
-          <h1 id="migration-guidelines">Migration Guidelines</h1>
+          <h1 id="introduction">Introduction</h1>
 
-<p>The following list provides for each relation in the original Stanford Dependencies representation the name of
-the equivalent relation in the Universal Dependencies representation. For some relations there doesn’t exist
-a 1:1 mapping. In these cases you’ll find a description of how different instances of the relation are treated
-according to the UD representation. The list also provides the name of the GrammaticalRelation object as defined
-in Stanford CoreNLP and the Stanford Parser.</p>
-
-<h3 id="acomp-xcomp"><code>acomp</code>: <code>xcomp</code></h3>
-
-<p><code>acomp</code> no longer exists as a relation in UD and is folded into <a href="en-dep/xcomp"><code>xcomp</code></a>. </p>
-
-<h4 id="grammaticalrelation-object">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT</code></p>
-
-<h3 id="advcl-advcl"><code>advcl</code>: <code>advcl</code></h3>
-
-<p><code>advcl</code> relations in SD are still annotated as <a href="en-dep/advcl"><code>advcl</code></a> in UD. </p>
-
-<p>Note, however, that this relation is now also used for prepositional phrases modifying a predicate (some instances of <code>pcomp</code> and <code>prepc</code> in SD) and for reduced non-finite verbal modifiers that modify a predicate (some instances of <code>vmod</code> in SD).</p>
-
-<h4 id="grammaticalrelation-object-1">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER</code></p>
-
-<h3 id="advmod-advmod"><code>advmod</code>: <code>advmod</code></h3>
-
-<p><code>advmod</code> relations in SD are still annotated as <a href="en-dep/advmod"><code>advmod</code></a> in UD.</p>
-
-<p>Note, however, that this relation is now also used for quantifier phrase modifiers (<code>quantmod</code> in SD).</p>
-
-<h4 id="grammaticalrelation-object-2">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER</code></p>
-
-<h3 id="agent-nmodagent"><code>agent</code>: <code>nmod:agent</code></h3>
-
-<p>This relation has been renamed to <code>nmod:agent</code>.</p>
-
-<h4 id="grammaticalrelation-object-3">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AGENT</code></p>
-
-<h3 id="amod-amod"><code>amod</code>: <code>amod</code></h3>
-
-<p><code>amod</code> relations in SD are still annotated as <a href="en-dep/amod"><code>amod</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-4">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADJECTIVAL_MODIFIER</code></p>
-
-<h3 id="appos-appos"><code>appos</code>: <code>appos</code></h3>
-
-<p><code>appos</code> relations in SD are still annotated as <a href="en-dep/appos"><code>appos</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-5">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.APPOSITIONAL_MODIFIER</code></p>
-
-<h3 id="aux-aux"><code>aux</code>: <code>aux</code></h3>
-
-<p><code>aux</code> relations in SD are still annotated as <a href="en-dep/aux"><code>aux</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-6">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AUX_MODIFIER</code></p>
-
-<h3 id="auxpass-auxpass"><code>auxpass</code>: <code>auxpass</code></h3>
-
-<p><code>auxpass</code> relations in SD are still annotated as <a href="en-dep/auxpass"><code>auxpass</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-7">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AUX_PASSIVE_MODIFIER</code></p>
-
-<h3 id="cc-cc"><code>cc</code>: <code>cc</code></h3>
-
-<p><code>cc</code> relations in SD are still annotated as <a href="en-dep/cc"><code>cc</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-8">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COORDINATION</code></p>
-
-<h3 id="ccomp-ccomp"><code>ccomp</code>: <code>ccomp</code></h3>
-
-<p><code>ccomp</code> relations in SD are still annotated as <a href="en-dep/ccomp"><code>ccomp</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-9">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_COMPLEMENT</code></p>
-
-<h3 id="conj-conj"><code>conj</code>: <code>conj</code></h3>
-
-<p><code>conj</code> relations in SD are still annotated as <a href="en-dep/conj"><code>conj</code></a> in UD.</p>
-
-<p>Note that in the <em>enhanced</em> representation (formerly known as <em>CCprocessed</em> representation), the relation name and the coordinating conjunction are now separated by <code>:</code> instead of <code>_</code>, e.g. <code>conj:and</code> instead of <code>conj_and</code>.</p>
-
-<h4 id="grammaticalrelation-object-10">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CONJUNCT</code></p>
-
+<p>This document is a placeholder for the language-specific introduction.</p>
 
 
       </div>

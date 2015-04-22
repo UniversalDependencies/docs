@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Migration Guidelines</title>
+    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+	
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-en">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-overview/migration-guidelines.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h1 id="migration-guidelines">Migration Guidelines</h1>
+
+<p>The following list provides for each relation in the original Stanford Dependencies representation the name of
+the equivalent relation in the Universal Dependencies representation. For some relations there doesn’t exist
+a 1:1 mapping. In these cases you’ll find a description of how different instances of the relation are treated
+according to the UD representation. The list also provides the name of the GrammaticalRelation object as defined
+in Stanford CoreNLP and the Stanford Parser.</p>
+
+<h3 id="acomp-xcomp"><code>acomp</code>: <code>xcomp</code></h3>
+
+<p><code>acomp</code> no longer exists as a relation in UD and is folded into <a href="en-dep/xcomp"><code>xcomp</code></a>. </p>
+
+<h4 id="grammaticalrelation-object">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT</code></p>
+
+<h3 id="advcl-advcl"><code>advcl</code>: <code>advcl</code></h3>
+
+<p><code>advcl</code> relations in SD are still annotated as <a href="en-dep/advcl"><code>advcl</code></a> in UD. </p>
+
+<p>Note, however, that this relation is now also used for prepositional phrases modifying a predicate (some instances of <code>pcomp</code> and <code>prepc</code> in SD) and for reduced non-finite verbal modifiers that modify a predicate (some instances of <code>vmod</code> in SD).</p>
+
+<h4 id="grammaticalrelation-object-1">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER</code></p>
+
+<h3 id="advmod-advmod"><code>advmod</code>: <code>advmod</code></h3>
+
+<p><code>advmod</code> relations in SD are still annotated as <a href="en-dep/advmod"><code>advmod</code></a> in UD.</p>
+
+<p>Note, however, that this relation is now also used for quantifier phrase modifiers (<code>quantmod</code> in SD).</p>
+
+<h4 id="grammaticalrelation-object-2">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER</code></p>
+
+<h3 id="agent-nmodagent"><code>agent</code>: <code>nmod:agent</code></h3>
+
+<p>This relation has been renamed to <code>nmod:agent</code>.</p>
+
+<h4 id="grammaticalrelation-object-3">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AGENT</code></p>
+
+<h3 id="amod-amod"><code>amod</code>: <code>amod</code></h3>
+
+<p><code>amod</code> relations in SD are still annotated as <a href="en-dep/amod"><code>amod</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-4">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADJECTIVAL_MODIFIER</code></p>
+
+<h3 id="appos-appos"><code>appos</code>: <code>appos</code></h3>
+
+<p><code>appos</code> relations in SD are still annotated as <a href="en-dep/appos"><code>appos</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-5">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.APPOSITIONAL_MODIFIER</code></p>
+
+<h3 id="aux-aux"><code>aux</code>: <code>aux</code></h3>
+
+<p><code>aux</code> relations in SD are still annotated as <a href="en-dep/aux"><code>aux</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-6">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AUX_MODIFIER</code></p>
+
+<h3 id="auxpass-auxpass"><code>auxpass</code>: <code>auxpass</code></h3>
+
+<p><code>auxpass</code> relations in SD are still annotated as <a href="en-dep/auxpass"><code>auxpass</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-7">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.AUX_PASSIVE_MODIFIER</code></p>
+
+<h3 id="cc-cc"><code>cc</code>: <code>cc</code></h3>
+
+<p><code>cc</code> relations in SD are still annotated as <a href="en-dep/cc"><code>cc</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-8">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COORDINATION</code></p>
+
+<h3 id="ccomp-ccomp"><code>ccomp</code>: <code>ccomp</code></h3>
+
+<p><code>ccomp</code> relations in SD are still annotated as <a href="en-dep/ccomp"><code>ccomp</code></a> in UD.</p>
+
+<h4 id="grammaticalrelation-object-9">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_COMPLEMENT</code></p>
+
+<h3 id="conj-conj"><code>conj</code>: <code>conj</code></h3>
+
+<p><code>conj</code> relations in SD are still annotated as <a href="en-dep/conj"><code>conj</code></a> in UD.</p>
+
+<p>Note that in the <em>enhanced</em> representation (formerly known as <em>CCprocessed</em> representation), the relation name and the coordinating conjunction are now separated by <code>:</code> instead of <code>_</code>, e.g. <code>conj:and</code> instead of <code>conj_and</code>.</p>
+
+<h4 id="grammaticalrelation-object-10">GrammaticalRelation object:</h4>
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CONJUNCT</code></p>
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = '../../'; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = 'en-overview';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
