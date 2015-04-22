@@ -8,8 +8,9 @@ shortdef: 'determiner'
 
 Determiners are words that modify [nouns](NOUN) or noun phrases and
 express the reference of the noun phrase in context. Like [adjectives](ADJ),
-Swedish determiners are typically inflected depending on the noun they modify,
-e.g. _vår kost_ "our diet", _vårt samhälle_ "our society", _våra åsikter_ "our opinions". 
+Swedish determiners typically agree with the noun they modify for gender and number,
+e.g. _<b>vår</b> kost_ "our diet" (common singular), _<b>vårt</b> samhälle_ "our society" (neuter singular), 
+_<b>våra</b> åsikter_ "our opinions" (plural). 
 
 ### Examples
 
