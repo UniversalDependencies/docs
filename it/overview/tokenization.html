@@ -34,8 +34,38 @@
 
           <h1 id="tokenization">Tokenization</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for tokenization.</p>
+<p>The tokenization in the Italian UD treebank is a straightforward segmentation based on whitespace and punctuation. The following special cases deserve to be mentioned:</p>
+
+<pre><code>* Abbreviations are treated as single words regardless of whether they contain spaces and or dots or not. 
+Examples: _etc._, _ecc._, _es._, _art._, _tel._,, _U.S.A._, _a.C._, _S.O.S._, _L._, _sig._
+* Numerical expressions: dots (separating thousands), commas (separating decimals) and colons, (separating hours from minutes, and minutes from seconds) are part of the same token.
+Examples: _4.755.000_, _19,30_, _355.089,40_, _20:24:0_, _19:30_
+* Urls: are rendered as a single token
+* Proper names may contain a '-'
+Examples: _C-212-300_, _E-commerce_, _D-day_, _Yamate-dōri_ 
+* Punctuation: ...
+</code></pre>
+
+<h2 id="multi-word-tokens">Multi-word tokens</h2>
+
+<p>The Italian UD treebank does not contain multiword tokens.</p>
+
+<p>Verbs with clitic pronouns and articulated prepositions are split and result in separate tokens. As follows:</p>
+
+<ul>
+  <li><em>specializzarsi</em> becomes <em>specializzare si</em> (<em>to specialize oneself</em>)</li>
+  <li><em>andarsene</em> becomes <em>andare se ne</em> (<em>to go away</em>)</li>
+  <li><em>mangiarlo</em> becomes <em>mangiare lo</em> (<em>to eat it</em>)</li>
+  <li><em>mangiarselo</em> becomes <em>mangiare se lo</em> (<em>to eat it oneself</em>)</li>
+  <li><em>della</em> becomes <em>di</em> <em>la</em> (<em>of the</em>)</li>
+  <li><em>all’</em> becomes <em>a l’</em> (<em>to the</em>)</li>
+  <li><em>degli</em> becomes <em>di gli</em> (<em>of the</em>)</li>
+</ul>
+
+<h2 id="sentence-splitting">Sentence splitting</h2>
+
+<p>Each sentence contains only one root.
+Splitting is usually performed after an end-of-sentence dot or after a colon or semicolon when these punctuation marks serve to separate unrelated subparts of a sentence. Items in a list may sometimes be rendered as separate sentences.</p>
 
 
       </div>
