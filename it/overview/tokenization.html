@@ -37,14 +37,14 @@
 <p>The tokenization in the Italian UD treebank is a straightforward segmentation based on whitespace and punctuation. The following special cases deserve to be mentioned:</p>
 
 <ul>
-  <li>Abbreviations are treated as single words regardless of whether they contain spaces and or dots or not. 
+  <li>Abbreviations are treated as single words regardless of whether they contain spaces and dots. 
 Examples: <em>etc.</em>, <em>ecc.</em>, <em>es.</em>, <em>art.</em>, <em>tel.</em>, <em>U.S.A.</em>, <em>a.C.</em>, <em>S.O.S.</em>, <em>L.</em>, <em>sig.</em></li>
-  <li>Numerical expressions: dots (separating thousands), commas (separating decimals) and colons, (separating hours from minutes, and minutes from seconds) are part of the same token.
-Examples: <em>4.755.000</em>, <em>19,30</em>, <em>355.089,40</em>, <em>20:24:0</em>, <em>19:30</em></li>
+  <li>Numerical expressions: dots (separating thousands), commas (separating decimals) and colons, (separating hours from minutes, and minutes from seconds) are part of the same token. 
+Examples: <em>4.755.000</em>, <em>19,30</em>, <em>355.089,40</em>, <em>20:24:0</em></li>
   <li>Urls: are rendered as a single token</li>
-  <li>Proper names may contain a ‘-‘
+  <li>Proper names may contain a dash “-“
 Examples: <em>C-212-300</em>, <em>E-commerce</em>, <em>D-day</em>, <em>Yamate-dōri</em> </li>
-  <li>Punctuation: …</li>
+  <li>Punctuation: “…” is single token</li>
 </ul>
 
 <h2 id="multi-word-tokens">Multi-word tokens</h2>
@@ -65,7 +65,7 @@ Examples: <em>C-212-300</em>, <em>E-commerce</em>, <em>D-day</em>, <em>Yamate-d�
   <li><em>degli</em> = <em>di gli</em> = “of the”</li>
 </ul>
 
-<h2 id="sentence-splitting">Sentence splitting</h2>
+<h1 id="sentence-splitting">Sentence splitting</h1>
 
 <p>Each sentence contains only one root.
 Splitting is usually performed after an end-of-sentence dot or after a colon or semicolon when these punctuation marks separate unrelated subparts of a sentence. Items in a list may sometimes be rendered as separate sentences.</p>
