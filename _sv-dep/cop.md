@@ -57,23 +57,3 @@ Vad är det ? \n What is that ?
 cop(Vad, är)
 nsubj(Vad, det)
 ~~~
-
-However, whenever the copula has a clausal argument/adjunct, the copula becomes the root, so the cop relation is not used.
-
-~~~ sdparse
-Det var eftersom Bill är ärlig \n It was because Bill is honest
-nsubj(var, Det)
-mark(ärlig, eftersom)
-ccomp(var, ärlig)
-nsubj(ärlig, Bill-4)
-cop(ärlig, är)
-~~~
-
-~~~ sdparse
-Min fråga är : var detta riktigt sant ? \n My question is : was that really true ?
-nsubj(är, fråga)
-ccomp(är, sant)
-cop(sant, var)
-nsubj(sant, detta)
-advmod(sant, riktigt)
-~~~
