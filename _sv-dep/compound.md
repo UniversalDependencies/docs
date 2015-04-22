@@ -8,6 +8,6 @@ The `compound` relation is used in Swedish only for compounds borrowed from othe
 
 ~~~ sdparse
 Hon gillar corn flakes \n She likes corn flakes
-dobj(giller, flakes)
+dobj(gillar, flakes)
 compound(flakes, corn)
 ~~~
