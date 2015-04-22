@@ -4,16 +4,16 @@ title: 'mark'
 shortdef: 'marker'
 ---
 
-A marker is the word introducing a clause subordinate to another clause. The mark is a dependent of the subordinate clause head. 
+A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. 
 
 ~~~ sdparse
 Han säger att du gillar att simma \n He says that you like to swim
-mark(simma, att-3)
+mark(gillar, att-3)
 ~~~
 
 ~~~ sdparse
-Snarast möjligt efter det att paketet har kommit fram \n As soon as possible after the package has arrived
-mark(kommit, efter)
+Om det regnar , blir man blöt \n If it rains , one gets wet
+mark(regnar, Om)
 ~~~
 
 The infinitive marker *att* is analyzed as a `mark`.
