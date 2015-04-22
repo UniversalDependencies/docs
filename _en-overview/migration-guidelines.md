@@ -1,3 +1,11 @@
+---
+layout: base
+title:  'Introduction'
+permalink: en/overview/introduction.html
+---
+
+# Migration Guidelines
+
 The following list provides for each relation in the original Stanford Dependencies representation the name of
 the equivalent relation in the Universal Dependencies representation. For some relations there doesn't exist
 a 1:1 mapping. In these cases you'll find a description of how different instances of the relation are treated
