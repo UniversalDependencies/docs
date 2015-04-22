@@ -3,12 +3,12 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>X</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
-    <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
-    <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
+    <title>Dataset release checklist</title>
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
+    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
   </head>
   <body>
@@ -16,9 +16,9 @@
 
       <div id="hp-header">
 	
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-sv">home</a></span>
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/sv/pos">sv/pos</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-pos/X.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/release_checklist.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,58 +32,14 @@
 	  </div>
 	</noscript>
 
-          <h2><code>X</code>: other</h2>
+          <h1 id="release-checklist">Release checklist</h1>
 
-<h3 id="definition">Definition</h3>
+<h2 id="data-validation">Data validation</h2>
 
-<p>The tag <code>X</code> is used for words that for some reason cannot be assigned
-a real part-of-speech category.</p>
+<p>TODO (@fginter)</p>
 
-<p><b>Note:</b> Version 1 of the Swedish UD treebank used X for foreign words (corresponding to the language-specific tag UO), but from version 1.1 these words are given a proper linguistic category and X is currently not used in Swedish. However, it still exists as a potentially permissible tag.</p>
-
-
-
-<!-- "in other languages" links -->
-<hr/>
-
-X in other languages:
-
-[<a href="../../bg/pos/X.html">bg</a>]
-
-[<a href="../../cs/pos/X.html">cs</a>]
-
-[<a href="../../de/pos/X.html">de</a>]
-
-[<a href="../../el/pos/X.html">el</a>]
-
-[<a href="../../en/pos/X.html">en</a>]
-
-[<a href="../../es/pos/X.html">es</a>]
-
-[<a href="../../eu/pos/X.html">eu</a>]
-
-[<a href="../../fa/pos/X.html">fa</a>]
-
-[<a href="../../fi/pos/X.html">fi</a>]
-
-[<a href="../../fr/pos/X.html">fr</a>]
-
-[<a href="../../ga/pos/X.html">ga</a>]
-
-[<a href="../../he/pos/X.html">he</a>]
-
-[<a href="../../hu/pos/X.html">hu</a>]
-
-[<a href="../../it/pos/X.html">it</a>]
-
-[<a href="../../ja/pos/X.html">ja</a>]
-
-[<a href="../../ko/pos/X.html">ko</a>]
-
-[<a href="../../sv/pos/X.html">sv</a>]
-
-[<a href="../../u/pos/X.html">u</a>]
-
+<pre><code>python validate.py ... 
+</code></pre>
 
 
 
@@ -91,7 +47,7 @@ X in other languages:
 
 <!-- support for embedded visualizations -->
 <script type="text/javascript">
-    var root = '../../'; // filled in by jekyll
+    var root = ''; // filled in by jekyll
     head.js(
         // External libraries
         root + 'lib/ext/jquery.min.js',
@@ -149,7 +105,7 @@ X in other languages:
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'sv-pos';
+        Collections.listing['_current'] = '';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
