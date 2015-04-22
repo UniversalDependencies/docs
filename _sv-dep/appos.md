@@ -4,7 +4,7 @@ title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. 
+An appositional modifier of a nominal is a nominal immediately following the first that serves to define or modify it. Appositional modifiers include parenthesized examples, as well as defining abbreviations in one of these structures. 
 
 ~~~ sdparse
 Olle , min bror , kom \n Olle , my brother , arrived
