@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Introduction'
-permalink: en/overview/introduction.html
+permalink: en/overview/migration-guidelines.html
 ---
 
 # Migration Guidelines
