@@ -34,10 +34,17 @@
 
           <h2><code>iobj</code>: indirect object</h2>
 
-<p>The indirect object of a VP is the noun phrase which is the (dative) object of the verb.</p>
+<p>An indirect object is a nominal which is the second object of the verb, often corresponding to a dative object.</p>
 
-<pre><code class="language-sdparse">Han skickar mig en anmälan . \n He sends me a report .
+<pre><code class="language-sdparse">Han skickar mig ett brev . \n He sends me a letter .
 iobj(skickar, mig)
+</code></pre>
+
+<p>In Swedish, the indirect object can never be constructed with a preposition. In that case, the <em>nmod</em> relation is used even if the meaning is very similar to that of an indirect object.</p>
+
+<pre><code class="language-sdparse">Han skickar ett brev till mig . \n He sends a letter to me .
+nmod(skickar, mig)
+case(mig, till)
 </code></pre>
 
 
