@@ -303,7 +303,7 @@ advcl(arbeta, gå)
 <h2><code>advmod</code>: adverbial modifier</h2>
 
 <p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial
-phrase (ADVP) that serves to modify the meaning of the word.</p>
+phrase that serves to modify the meaning of the word.</p>
 
 <pre><code class="language-sdparse">Det bör kraftigt understrykas \n It should be strongly emphasised
 advmod(understrykas, kraftigt)
@@ -318,8 +318,8 @@ advmod(ofta, mindre)
 <p><a id="al-sv-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>An adjectival modifier of an NP is any adjectival phrase that serves
-to modify the meaning of the NP.</p>
+<p>An adjectival modifier of a nominal is any adjectival phrase that serves
+to modify the meaning of the nominal head.</p>
 
 <pre><code class="language-sdparse">Olle äter rött kött \n Olle eats red meat
 amod(kött, rött)
@@ -329,8 +329,8 @@ amod(kött, rött)
 amod(kyrkans, ortodoxa)
 </code></pre>
 
-<pre><code class="language-sdparse">De tre största hjälpinsatser \n The three biggest helping efforts
-amod(hjälpinsatser, största)
+<pre><code class="language-sdparse">De tre största hjälpinsatserna \n The three biggest helping efforts
+amod(hjälpinsatserna, största)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/amod.md" target="#">edit amod</a></p>
@@ -338,7 +338,7 @@ amod(hjälpinsatser, största)
 <p><a id="al-sv-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. </p>
+<p>An appositional modifier of a nominal is a nominal immediately following the first that serves to define or modify it. Appositional modifiers include parenthesized examples, as well as defining abbreviations in one of these structures. </p>
 
 <pre><code class="language-sdparse">Olle , min bror , kom \n Olle , my brother , arrived
 appos(Olle, bror)
@@ -360,7 +360,7 @@ appos(AB, SKB)
 <p>An auxiliary of a clause is a <a href="sv-pos/AUX">non-main verb</a> of the
 clause.</p>
 
-<p>Exception: Auxiliary verb used to construct the passive
+<p>Exception: An auxiliary verb used to construct the passive
 <a href="sv-feat/Voice">voice</a> is not labeled <code>aux</code> but <a href="">auxpass</a>.</p>
 
 <pre><code class="language-sdparse">vilka funktioner den tidigare har haft \n which functions it previously has had
