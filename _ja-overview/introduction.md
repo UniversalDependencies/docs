@@ -16,6 +16,18 @@ We also try to construct conversion rules on 'Balanced Corpus of Contemporary Wr
 
 ## Word Unit
 
+Japanese sentences are not split into words or morphemes by spaces.
+We have several word unit standards by corpus annotation schema or morphological analyzers' outputs.
+The representative word unit standards are follows:
+
+- JUMANdic word unit: This word unit standard was derived by the morphological analyzer JUMAN.
+- IPADIC word unit: This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
+- NINJAL UniDic word units: NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
+-- Short Unit Word (SUW): The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
+-- Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁).
+-- Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit.
+
+## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
 
 ## PoS Tag
