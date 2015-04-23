@@ -126,7 +126,7 @@ csubj(好き, 食べる)
 食べる こと が 好き
 acl(こと, 食べる)
 case(こと, が)
-csubj(好き, こと)
+nsubj(好き, こと)
 ~~~
 
 ## Distinction between `amod` and `acl`
@@ -160,6 +160,7 @@ amod(人形, かわいい)
 
 ~~~ sdparse
 服 が かわいい 人形
+nsubj(かわいい, 服)
 acl(人形, かわいい)
 ~~~
 
@@ -174,7 +175,7 @@ dependency labels like `nsubjpass` and `auxpass`.  This is useful for
 recognizing semantic dependencies.  However, Japanese syntax involves
 other voice that involves case alternations.
 
-* causative: 太郎 が 次郎 に りんご を 食べ　させる / <i>Taro ga Jiro
+* causative: 太郎 が 次郎 に りんご を 食べ させる / <i>Taro ga Jiro
   ni ringo o tabe saseru</i> "Taro makes Jiro eat an apple"
 * benefactive: 太郎 が 次郎 に りんご を 食べ て もらう / <i>Taro ga
   Jiro ni ringo o tabe te morau</i> "Taro asks Jiro to eat an apple"
@@ -190,7 +191,7 @@ Currently, we give dependency labels based on surface expressions,
 without any markings of case alternations.
 
 ~~~ sdparse
-太郎 が 次郎 に りんご を 食べ　させる
+太郎 が 次郎 に りんご を 食べ させる
 nsubj(食べ, 太郎)
 dobj(食べ, りんご)
 iobj(食べ, 次郎)
@@ -198,7 +199,7 @@ aux(食べ, させる)
 ~~~
 
 ~~~ sdparse
-太郎 が 次郎 に りんご を 食べ　て もらう
+太郎 が 次郎 に りんご を 食べ て もらう
 nsubj(食べ, 太郎)
 dobj(食べ, りんご)
 iobj(食べ, 次郎)
