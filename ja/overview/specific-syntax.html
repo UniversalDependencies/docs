@@ -34,8 +34,208 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for specific constructions.</p>
+<p>This document describes specific issues we encountered when applying
+the schema of Universal Dependencies to Japanese syntax.</p>
+
+<h2 id="isaheni-verbs">サ変 / <i>Sahen</i> verbs</h2>
+
+<p>Many verbs in Japanese have the form that a noun is followed by a
+verbal suffix する / <i>suru</i> “do”.</p>
+
+<ul>
+  <li>勉強 する / <i>benkyo suru</i> “study”</li>
+  <li>登校 する / <i>toko suru</i> “go to a school”</li>
+</ul>
+
+<p>Since the first part (勉強, 登校) can be used as a noun (e.g. 勉強 が
+好き / <i>benkyo ga suki</i> “(I) like studying”, the problem here is
+which word can be considered as a main verb.  We have the following
+choices for this analysis.</p>
+
+<pre><code class="language-sdparse">勉強 する
+aux(勉強, する)
+</code></pre>
+
+<pre><code class="language-sdparse">勉強 する
+nmod(する, 勉強)
+</code></pre>
+
+<p>The first analysis regards 勉強 as a main verb, and する as an
+auxiliary verb.  The second analysis regards する as a main verb, and
+勉強 as a modifier.</p>
+
+<p>We choose the first analysis, mainly because the noun part carries
+semantic content, as well as syntactic frames.</p>
+
+<h2 id="suffixes-changing-pos">Suffixes changing POS</h2>
+
+<p>A similar issue appears in other constructions.  The suffix さ /
+<i>sa</i> changes an adjective into a noun, and っぽい / <i>ppoi</i>
+changes a noun into an adjective.</p>
+
+<ul>
+  <li>かわい さ / <i>kawai sa</i> “cuteness”</li>
+  <li>春 っぽい / <i>haru ppoi</i> “spring-like”</li>
+</ul>
+
+<p>We choose the analysis similar to the case of サ変, in which we
+regard the first content word as a head, and the suffix as a function
+word.</p>
+
+<pre><code class="language-sdparse">かわい さ
+mark(かわい, さ)
+</code></pre>
+
+<h2 id="auxiliary-verbs">Auxiliary verbs</h2>
+
+<p>The distinction between main verbs and auxiliary verbs are unclear in
+some cases.</p>
+
+<ul>
+  <li>走っ <em>た</em> / <i>hashit ta</i> “ran”</li>
+  <li>走っ て <em>いる</em> / <i>hashit te iru</i> “running”</li>
+  <li>走っ て <em>ほしい</em> / <i>hashit te hoshii</i> “want (you) to run”</li>
+  <li>走り <em>始める</em> / <i>hashiri hajimeru</i> “begin to run”</li>
+</ul>
+
+<p>The first example is a clear case of an auxiliary verb, because た
+does not appear independently.  The other cases are unclear, because
+the verbs like いる, ほしい, 始める can be used as a main verb.
+However, in the above examples, proper meanings of these verbs are
+lost (this is similar to a light verb) and auxiliary meanings are
+added to a preceding verb.</p>
+
+<p>These verbs are defined as 非自立 <i>hijiritsu</i> in UniDic, and we
+define 非自立 verbs preceded by another verb as an auxiliary verb.  If
+these verbs appear independently, they are regarded as a main verb.</p>
+
+<pre><code class="language-sdparse">太郎 が 走り 始める
+nsubj(走り, 太郎)
+aux(走り, 始める)
+</code></pre>
+
+<pre><code class="language-sdparse">商売 を 始め た
+dobj(始め, 商売)
+aux(始め, た)
+</code></pre>
+
+<h2 id="distinction-between-nsubj-vs-csubj">Distinction between <code>nsubj</code> vs. <code>csubj</code></h2>
+
+<p>Dependency labels of Universal Dependencies are sensitive to the
+distinction between a clause and a non-clause; e.g, 
+<code>nsubj</code> vs. <code>csubj</code> and <code>amod</code> vs. <code>acl</code>.  However, it is not evident
+what is “clause” in Japanese.  In the case of the distinction between
+<code>nsubj</code> and <code>csubj</code>, we have the following gradation.</p>
+
+<ul>
+  <li>食べる <em>の</em> が 好き / <i>taberu no ga suki</i> “(I) like eating”</li>
+  <li>食べる <em>こと</em> が 好き / <i>taberu koto ga suki</i> “(I) like eating”</li>
+  <li>食べる <em>ところ</em> が 好き / <i>taberu tokoro ga suki</i> “(I) like where eating”</li>
+  <li>食べる <em>まで</em> が 好き / <i>taberu made ga suki</i> “(I) like (the situation) before eating”</li>
+</ul>
+
+<p>The first one is a clear case, because の does not appear
+independently.  This can be regarded as a complementizer.  However,
+the following cases are not clear.  こと, ところ are used as a noun,
+but in these examples they have light meanings.  In particular, the
+second example has almost the same meaning as the first one.  The last
+example, まで, is a function word, but in this case it adds an
+additional meaning.</p>
+
+<p>In the current definition, we define the first case, i.e., a phrase
+introduced by の, is a clausal subject, while the other cases are
+regarded as a noun phrase.</p>
+
+<pre><code class="language-sdparse">食べる の が 好き
+mark(食べる, の)
+case(食べる, が)
+csubj(好き, 食べる)
+</code></pre>
+
+<pre><code class="language-sdparse">食べる こと が 好き
+acl(こと, 食べる)
+case(こと, が)
+csubj(好き, こと)
+</code></pre>
+
+<h2 id="distinction-between-amod-and-acl">Distinction between <code>amod</code> and <code>acl</code></h2>
+
+<p>A similar issue appears for the distinction between <code>amod</code> and <code>acl</code>.
+In Japanese, relative clauses do not accompany with a relativizer, and
+a simple adjective-noun construction has no difference from a relative
+construction.</p>
+
+<ul>
+  <li>かわいい 人形 / <i>kawaii ningyo</i> “cute doll”</li>
+  <li>とても かわいい 人形 / <i>totemo kawaii ningyo</i> “very cute doll”</li>
+  <li>服 が かわいい 人形 / <i>fuku ga kawaii ningyo</i> “a doll whose cloth is cute”</li>
+  <li>かわいかっ た 人形 / <i>kawaikat ta ningyo</i> “a doll which was cute”</li>
+</ul>
+
+<p>There is no clear boundary in these examples.  A possible solution is
+to regard everything as <code>acl</code>, and never use <code>amod</code>.  However, this
+analysis decreases the parallelism with other languages.  Therefore,
+we give the following definition.</p>
+
+<ul>
+  <li><code>amod</code>: an adjective without any arguments (e.g. <code>nsubj</code>) and
+auxiliary verbs (e.g. た / <i>ta</i>)</li>
+  <li><code>acl</code>: otherwise</li>
+</ul>
+
+<p>In the above examples, the first two cases are annotated as <code>amod</code>,
+while the others are as <code>acl</code>.</p>
+
+<pre><code class="language-sdparse">かわいい 人形
+amod(人形, かわいい)
+</code></pre>
+
+<pre><code class="language-sdparse">服 が かわいい 人形
+acl(人形, かわいい)
+</code></pre>
+
+<p>This definition gives analyses mostly corresponding to English
+translations.  However, this is not a linguistically justified
+definition and a better solution is necessary.</p>
+
+<h2 id="voice">Voice</h2>
+
+<p>In Universal Dependencies, passive voice is marked with special
+dependency labels like <code>nsubjpass</code> and <code>auxpass</code>.  This is useful for
+recognizing semantic dependencies.  However, Japanese syntax involves
+other voice that involves case alternations.</p>
+
+<ul>
+  <li>causative: 太郎 が 次郎 に りんご を 食べ　させる / <i>Taro ga Jiro
+ni ringo o tabe saseru</i> “Taro makes Jiro eat an apple”</li>
+  <li>benefactive: 太郎 が 次郎 に りんご を 食べ て もらう / <i>Taro ga
+Jiro ni ringo o tabe te morau</i> “Taro asks Jiro to eat an apple”</li>
+</ul>
+
+<p>The problem here is that auxiliary verbs like させる and もらう
+changes case markers (e.g. 次郎 is a subject of 食べ, but is marked
+with に).  In addition, these constructions introduces an additional
+argument (太郎 in these cases), which is a causer in the first example
+and a benefactive in the second.  We don’t have a method to indicate
+these case alternations in Universal Dependencies.</p>
+
+<p>Currently, we give dependency labels based on surface expressions,
+without any markings of case alternations.</p>
+
+<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ　させる
+nsubj(食べ, 太郎)
+dobj(食べ, りんご)
+iobj(食べ, 次郎)
+aux(食べ, させる)
+</code></pre>
+
+<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ　て もらう
+nsubj(食べ, 太郎)
+dobj(食べ, りんご)
+iobj(食べ, 次郎)
+aux(食べ, もらう)
+</code></pre>
+
 
 
       </div>
