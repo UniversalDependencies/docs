@@ -13,14 +13,14 @@ in the UD representation. The list also provides the name of the GrammaticalRela
 in Stanford CoreNLP and the Stanford Parser.
 
 
-### `acomp`: `xcomp`
+### <b>`acomp`: `xcomp`</b>
 
 `acomp` no longer exists as a relation in UD and has been folded into [`xcomp`](en-dep/xcomp). 
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT`
 
-### `advcl`: `advcl`
+### <b>`advcl`: `advcl`</b>
 
 `advcl` relations in SD are still annotated as [`advcl`](en-dep/advcl) in UD. 
 
@@ -29,7 +29,7 @@ Note, however, that this relation is now also used for prepositional phrases mod
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER`
 
-### `advmod`: `advmod`
+### <b>`advmod`: `advmod`</b>
 
 `advmod` relations in SD are still annotated as [`advmod`](en-dep/advmod) in UD.
 
@@ -39,7 +39,7 @@ Note, however, that this relation is now also used for quantifier phrase modifie
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER`
 
 
-### `agent`: `nmod:agent`
+### <b>`agent`: `nmod:agent`</b>
 
 This relation has been renamed to `nmod:agent`.
 
@@ -94,7 +94,7 @@ This relation has been renamed to `nmod:agent`.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_COMPLEMENT`
 
 
-### `conj`: `conj`
+### <b>`conj`: `conj`</b>
 
 `conj` relations in SD are still annotated as [`conj`](en-dep/conj) in UD.
 
@@ -105,7 +105,7 @@ relation name and the coordinating conjunction are now separated by `:` instead 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CONJUNCT`
 
-### `cop`: `cop`
+### <b>`cop`: `cop`</b>
 
 `cop` relations in SD are still annotated as [`cop`](en-dep/cop) in UD.
 
@@ -125,7 +125,8 @@ root(ROOT-0, house-5)
 ~~~
 
 Note that this change is currently only partially implemented in the Stanford Parser. In copular
-constructions with an adverbial predicate the copula verb is still treated as the head. 
+constructions with an adverbial predicate the copula verb is still treated as the head. The change
+will be completely implemented in future versions of the parser.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COPULA`
@@ -171,7 +172,7 @@ constructions with an adverbial predicate the copula verb is still treated as th
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DIRECT_OBJECT`
 
 
-### `expl`: `expl`
+### <b>`expl`: `expl`</b>
 
 `expl` relations in SD are still annotated as [`expl`](en-dep/expl) in UD.
 
@@ -207,7 +208,7 @@ of the pleonastic _it_ differently.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER`
 
 
-### `mwe`: `mwe`
+### <b>`mwe`: `mwe`</b>
 
 `mwe` relations in SD are still annotated as [`mwe`](en-dep/mwe) in UD.
 
@@ -226,15 +227,18 @@ description of the [`mwe` relation](en-dep/mwe) for the list of multi-word expre
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NEGATION_MODIFIER`
 
 
-### `nn`: `compound`
+### <b>`nn`: `compound`</b>
 
 The `nn` relation in SD has been renamed to [`compound`](en-dep/compound) in UD.
+
+This relation is now also used for elements of compound numbers in UD instead of the `number` relation in SD.
+
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND_MODIFIER`
 
 
-### `npadvmod`: `nmod:npmod`
+### <b>`npadvmod`: `nmod:npmod`</b>
 
 The `npadvmod` relation in SD has been renamed to [`nmod:npmod`](en-dep/nmod-npmod) in UD.
 
@@ -258,7 +262,7 @@ The `npadvmod` relation in SD has been renamed to [`nmod:npmod`](en-dep/nmod-npm
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_PASSIVE_SUBJECT`
 
 
-### `num`: `nummod`
+### <b>`num`: `nummod`</b>
 
 The `num` relation in SD has been renamed to [`nummod`](en-dep/nummod) in UD.
 
@@ -266,7 +270,7 @@ The `num` relation in SD has been renamed to [`nummod`](en-dep/nummod) in UD.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NUMERIC_MODIFIER`
 
 
-### `number`: `compound`
+### <b>`number`: `compound`</b>
 
 The `number` relation in SD no longer exists as a relation in UD and has been folded into [`compound`](en-dep/compound). 
 
@@ -282,7 +286,7 @@ The `number` relation in SD no longer exists as a relation in UD and has been fo
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_PASSIVE_SUBJECT`
 
 
-### `poss`: `nmod:poss`
+### <b>`poss`: `nmod:poss`</b>
 
 The `poss` relation in SD has been renamed to [`nmod:poss`](en-dep/nmod-poss) in UD.
 
@@ -290,7 +294,7 @@ The `poss` relation in SD has been renamed to [`nmod:poss`](en-dep/nmod-poss) in
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.POSSESSION_MODIFIER`
 
 
-### `possesive`: `case`
+### <b>`possesive`: `case`</b>
 
 The `possesive` relation in SD no longer exists as a relation in UD and has been folded into [`case`](en-dep/case). 
 
@@ -298,7 +302,7 @@ The `possesive` relation in SD no longer exists as a relation in UD and has been
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER`
 
 
-### `pcomp`: `acl` or `advcl` 
+### <b>`pcomp`: `acl` or `advcl`</b>
 
 Prepositional phrases are treated differently in UD and therefore the `pcomp` relation no longer exists.
 See [#TreatmentOfPrepositonalPhrases]() for more details on when to use `acl` and when `advcl`.
@@ -309,7 +313,7 @@ See [#TreatmentOfPrepositonalPhrases]() for more details on when to use `acl` an
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER` (`advcl`)
 
 
-### `pobj`: `nmod`
+### <b>`pobj`: `nmod`</b>
 
 The `pobj` relation in SD has been renamed to [`nmod`](en-dep/nmod) in UD.
 
@@ -321,7 +325,7 @@ new treatment of prepositional phrases.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_MODIFIER`
 
 
-### `preconj`: `conj:preconj`
+### <b>`preconj`: `conj:preconj`</b>
 
 The `preconj` relation in SD has been renamed to [`conj:preconj`](en-dep/conj-preconj) in UD.
 
@@ -329,7 +333,7 @@ The `preconj` relation in SD has been renamed to [`conj:preconj`](en-dep/conj-pr
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PRECONJUNCT`
 
 
-### `predet`: `det:predet`
+### <b>`predet`: `det:predet`</b>
 
 The `predet` relation in SD has been renamed to [`det:predet`](en-dep/det-predet) in UD.
 
@@ -337,7 +341,7 @@ The `predet` relation in SD has been renamed to [`det:predet`](en-dep/det-predet
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PREDETERMINER`
 
 
-### `prep`: `case`
+### <b>`prep`: `case`</b>
 
 The `prep` relation in SD has been renamed to [`case`](en-dep/case) in UD.
 
@@ -354,7 +358,7 @@ have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ repr
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER`
 
 
-### `prepc`: `acl` or `advcl`
+### <b>`prepc`: `acl` or `advcl`</b>
 
 The `prepc_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations have been 
 replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD _enhanced_ representation. 
@@ -362,7 +366,7 @@ replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD 
 See [#TreatmentOfPrepositonalPhrases]() for more details on the new treatment of prepositional phrases. 
 
 
-### `prt`: `compound:prt`
+### <b>`prt`: `compound:prt`</b>
 
 The `prt` relation in SD has been renamed to [`compound:prt`](en-dep/compound-prt) in UD.
 
@@ -378,7 +382,7 @@ The `prt` relation in SD has been renamed to [`compound:prt`](en-dep/compound-pr
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PUNCTUATION`
 
 
-### `quantmod`: `advmod`
+### <b>`quantmod`: `advmod`</b>
 
 The `quantmod` relation in SD no longer exists as a relation in UD and has been folded into [`advmod`](en-dep/advmod). 
 
@@ -404,15 +408,7 @@ Note that referents are only part of the _enhanced_ UD representation.
 `edu.stanford.nlp.trees.GrammaticalRelation.ROOT`
 
 
-### `root`: `root`
-
-`root` relations in SD are still annotated as [`root`](en-dep/punct) in UD.
-
-#### GrammaticalRelation object:
-`edu.stanford.nlp.trees.GrammaticalRelation.ROOT`
-
-
-### `tmod`: `nmod:tmod`
+### <b>`tmod`: `nmod:tmod`</b>
 
 The `tmod` relation in SD has been renamed to [`nmod:tmod`](en-dep/nmod-tmod) in UD.
 
@@ -420,7 +416,7 @@ The `tmod` relation in SD has been renamed to [`nmod:tmod`](en-dep/nmod-tmod) in
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.TEMPORAL_MODIFIER`
 
 
-### `vmod`: `acl` or `advcl`
+### <b>`vmod`: `acl` or `advcl`</b>
 
 The `vmod` relation in SD no longer exists as a relation in UD and has been folded into the [`acl`](en-dep/acl) and [`advcl`](en-dep/advcl) relations in UD.
 
