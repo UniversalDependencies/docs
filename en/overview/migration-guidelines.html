@@ -40,14 +40,14 @@ a 1:1 mapping. In these cases you’ll find a description of how different insta
 in the UD representation. The list also provides the name of the GrammaticalRelation object as defined
 in Stanford CoreNLP and the Stanford Parser.</p>
 
-<h3 id="acomp-xcomp"><code>acomp</code>: <code>xcomp</code></h3>
+<h3 id="bacomp-xcompb"><b><code>acomp</code>: <code>xcomp</code></b></h3>
 
 <p><code>acomp</code> no longer exists as a relation in UD and has been folded into <a href="en-dep/xcomp"><code>xcomp</code></a>. </p>
 
 <h4 id="grammaticalrelation-object">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT</code></p>
 
-<h3 id="advcl-advcl"><code>advcl</code>: <code>advcl</code></h3>
+<h3 id="badvcl-advclb"><b><code>advcl</code>: <code>advcl</code></b></h3>
 
 <p><code>advcl</code> relations in SD are still annotated as <a href="en-dep/advcl"><code>advcl</code></a> in UD. </p>
 
@@ -56,7 +56,7 @@ in Stanford CoreNLP and the Stanford Parser.</p>
 <h4 id="grammaticalrelation-object-1">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER</code></p>
 
-<h3 id="advmod-advmod"><code>advmod</code>: <code>advmod</code></h3>
+<h3 id="badvmod-advmodb"><b><code>advmod</code>: <code>advmod</code></b></h3>
 
 <p><code>advmod</code> relations in SD are still annotated as <a href="en-dep/advmod"><code>advmod</code></a> in UD.</p>
 
@@ -65,7 +65,7 @@ in Stanford CoreNLP and the Stanford Parser.</p>
 <h4 id="grammaticalrelation-object-2">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER</code></p>
 
-<h3 id="agent-nmodagent"><code>agent</code>: <code>nmod:agent</code></h3>
+<h3 id="bagent-nmodagentb"><b><code>agent</code>: <code>nmod:agent</code></b></h3>
 
 <p>This relation has been renamed to <code>nmod:agent</code>.</p>
 
@@ -114,7 +114,7 @@ in Stanford CoreNLP and the Stanford Parser.</p>
 <h4 id="grammaticalrelation-object-9">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_COMPLEMENT</code></p>
 
-<h3 id="conj-conj"><code>conj</code>: <code>conj</code></h3>
+<h3 id="bconj-conjb"><b><code>conj</code>: <code>conj</code></b></h3>
 
 <p><code>conj</code> relations in SD are still annotated as <a href="en-dep/conj"><code>conj</code></a> in UD.</p>
 
@@ -125,7 +125,7 @@ relation name and the coordinating conjunction are now separated by <code>:</cod
 <h4 id="grammaticalrelation-object-10">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CONJUNCT</code></p>
 
-<h3 id="cop-cop"><code>cop</code>: <code>cop</code></h3>
+<h3 id="bcop-copb"><b><code>cop</code>: <code>cop</code></b></h3>
 
 <p><code>cop</code> relations in SD are still annotated as <a href="en-dep/cop"><code>cop</code></a> in UD.</p>
 
@@ -143,7 +143,8 @@ root(ROOT-0, house-5)
 </code></pre>
 
 <p>Note that this change is currently only partially implemented in the Stanford Parser. In copular
-constructions with an adverbial predicate the copula verb is still treated as the head. </p>
+constructions with an adverbial predicate the copula verb is still treated as the head. The change
+will be completely implemented in future versions of the parser.</p>
 
 <h4 id="grammaticalrelation-object-11">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COPULA</code></p>
@@ -183,7 +184,7 @@ constructions with an adverbial predicate the copula verb is still treated as th
 <h4 id="grammaticalrelation-object-16">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DIRECT_OBJECT</code></p>
 
-<h3 id="expl-expl"><code>expl</code>: <code>expl</code></h3>
+<h3 id="bexpl-explb"><b><code>expl</code>: <code>expl</code></b></h3>
 
 <p><code>expl</code> relations in SD are still annotated as <a href="en-dep/expl"><code>expl</code></a> in UD.</p>
 
@@ -215,7 +216,7 @@ of the pleonastic <em>it</em> differently.</p>
 <h4 id="grammaticalrelation-object-20">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER</code></p>
 
-<h3 id="mwe-mwe"><code>mwe</code>: <code>mwe</code></h3>
+<h3 id="bmwe-mweb"><b><code>mwe</code>: <code>mwe</code></b></h3>
 
 <p><code>mwe</code> relations in SD are still annotated as <a href="en-dep/mwe"><code>mwe</code></a> in UD.</p>
 
@@ -232,14 +233,16 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 <h4 id="grammaticalrelation-object-22">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NEGATION_MODIFIER</code></p>
 
-<h3 id="nn-compound"><code>nn</code>: <code>compound</code></h3>
+<h3 id="bnn-compoundb"><b><code>nn</code>: <code>compound</code></b></h3>
 
 <p>The <code>nn</code> relation in SD has been renamed to <a href="en-dep/compound"><code>compound</code></a> in UD.</p>
+
+<p>This relation is now also used for elements of compound numbers in UD instead of the <code>number</code> relation in SD.</p>
 
 <h4 id="grammaticalrelation-object-23">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND_MODIFIER</code></p>
 
-<h3 id="npadvmod-nmodnpmod"><code>npadvmod</code>: <code>nmod:npmod</code></h3>
+<h3 id="bnpadvmod-nmodnpmodb"><b><code>npadvmod</code>: <code>nmod:npmod</code></b></h3>
 
 <p>The <code>npadvmod</code> relation in SD has been renamed to <a href="en-dep/nmod-npmod"><code>nmod:npmod</code></a> in UD.</p>
 
@@ -260,14 +263,14 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 <h4 id="grammaticalrelation-object-26">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_PASSIVE_SUBJECT</code></p>
 
-<h3 id="num-nummod"><code>num</code>: <code>nummod</code></h3>
+<h3 id="bnum-nummodb"><b><code>num</code>: <code>nummod</code></b></h3>
 
 <p>The <code>num</code> relation in SD has been renamed to <a href="en-dep/nummod"><code>nummod</code></a> in UD.</p>
 
 <h4 id="grammaticalrelation-object-27">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NUMERIC_MODIFIER</code></p>
 
-<h3 id="number-compound"><code>number</code>: <code>compound</code></h3>
+<h3 id="bnumber-compoundb"><b><code>number</code>: <code>compound</code></b></h3>
 
 <p>The <code>number</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/compound"><code>compound</code></a>. </p>
 
@@ -281,21 +284,21 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 <h4 id="grammaticalrelation-object-29">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_PASSIVE_SUBJECT</code></p>
 
-<h3 id="poss-nmodposs"><code>poss</code>: <code>nmod:poss</code></h3>
+<h3 id="bposs-nmodpossb"><b><code>poss</code>: <code>nmod:poss</code></b></h3>
 
 <p>The <code>poss</code> relation in SD has been renamed to <a href="en-dep/nmod-poss"><code>nmod:poss</code></a> in UD.</p>
 
 <h4 id="grammaticalrelation-object-30">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.POSSESSION_MODIFIER</code></p>
 
-<h3 id="possesive-case"><code>possesive</code>: <code>case</code></h3>
+<h3 id="bpossesive-caseb"><b><code>possesive</code>: <code>case</code></b></h3>
 
 <p>The <code>possesive</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/case"><code>case</code></a>. </p>
 
 <h4 id="grammaticalrelation-object-31">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER</code></p>
 
-<h3 id="pcomp-acl-or-advcl"><code>pcomp</code>: <code>acl</code> or <code>advcl</code></h3>
+<h3 id="bpcomp-acl-or-advclb"><b><code>pcomp</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>Prepositional phrases are treated differently in UD and therefore the <code>pcomp</code> relation no longer exists.
 See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on when to use <code>acl</code> and when <code>advcl</code>.</p>
@@ -305,7 +308,7 @@ See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on when to u
 
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER</code> (<code>advcl</code>)</p>
 
-<h3 id="pobj-nmod"><code>pobj</code>: <code>nmod</code></h3>
+<h3 id="bpobj-nmodb"><b><code>pobj</code>: <code>nmod</code></b></h3>
 
 <p>The <code>pobj</code> relation in SD has been renamed to <a href="en-dep/nmod"><code>nmod</code></a> in UD.</p>
 
@@ -316,21 +319,21 @@ new treatment of prepositional phrases. </p>
 <h4 id="grammaticalrelation-object-33">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_MODIFIER</code></p>
 
-<h3 id="preconj-conjpreconj"><code>preconj</code>: <code>conj:preconj</code></h3>
+<h3 id="bpreconj-conjpreconjb"><b><code>preconj</code>: <code>conj:preconj</code></b></h3>
 
 <p>The <code>preconj</code> relation in SD has been renamed to <a href="en-dep/conj-preconj"><code>conj:preconj</code></a> in UD.</p>
 
 <h4 id="grammaticalrelation-object-34">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PRECONJUNCT</code></p>
 
-<h3 id="predet-detpredet"><code>predet</code>: <code>det:predet</code></h3>
+<h3 id="bpredet-detpredetb"><b><code>predet</code>: <code>det:predet</code></b></h3>
 
 <p>The <code>predet</code> relation in SD has been renamed to <a href="en-dep/det-predet"><code>det:predet</code></a> in UD.</p>
 
 <h4 id="grammaticalrelation-object-35">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PREDETERMINER</code></p>
 
-<h3 id="prep-case"><code>prep</code>: <code>case</code></h3>
+<h3 id="bprep-caseb"><b><code>prep</code>: <code>case</code></b></h3>
 
 <p>The <code>prep</code> relation in SD has been renamed to <a href="en-dep/case"><code>case</code></a> in UD.</p>
 
@@ -346,14 +349,14 @@ have been replaced with <code>nmod:&lt;PREPOSITION&gt;</code> relations in the U
 <h4 id="grammaticalrelation-object-36">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER</code></p>
 
-<h3 id="prepc-acl-or-advcl"><code>prepc</code>: <code>acl</code> or <code>advcl</code></h3>
+<h3 id="bprepc-acl-or-advclb"><b><code>prepc</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>The <code>prepc_&lt;PREPOSITION&gt;</code> relations in the <em>collapsed</em> and <em>CCprocessed</em> SD representations have been 
 replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation. </p>
 
 <p>See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on the new treatment of prepositional phrases. </p>
 
-<h3 id="prt-compoundprt"><code>prt</code>: <code>compound:prt</code></h3>
+<h3 id="bprt-compoundprtb"><b><code>prt</code>: <code>compound:prt</code></b></h3>
 
 <p>The <code>prt</code> relation in SD has been renamed to <a href="en-dep/compound-prt"><code>compound:prt</code></a> in UD.</p>
 
@@ -367,7 +370,7 @@ replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITI
 <h4 id="grammaticalrelation-object-38">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PUNCTUATION</code></p>
 
-<h3 id="quantmod-advmod"><code>quantmod</code>: <code>advmod</code></h3>
+<h3 id="bquantmod-advmodb"><b><code>quantmod</code>: <code>advmod</code></b></h3>
 
 <p>The <code>quantmod</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/advmod"><code>advmod</code></a>. </p>
 
@@ -390,28 +393,21 @@ replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITI
 <h4 id="grammaticalrelation-object-41">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.GrammaticalRelation.ROOT</code></p>
 
-<h3 id="root-root-1"><code>root</code>: <code>root</code></h3>
-
-<p><code>root</code> relations in SD are still annotated as <a href="en-dep/punct"><code>root</code></a> in UD.</p>
-
-<h4 id="grammaticalrelation-object-42">GrammaticalRelation object:</h4>
-<p><code>edu.stanford.nlp.trees.GrammaticalRelation.ROOT</code></p>
-
-<h3 id="tmod-nmodtmod"><code>tmod</code>: <code>nmod:tmod</code></h3>
+<h3 id="btmod-nmodtmodb"><b><code>tmod</code>: <code>nmod:tmod</code></b></h3>
 
 <p>The <code>tmod</code> relation in SD has been renamed to <a href="en-dep/nmod-tmod"><code>nmod:tmod</code></a> in UD.</p>
 
-<h4 id="grammaticalrelation-object-43">GrammaticalRelation object:</h4>
+<h4 id="grammaticalrelation-object-42">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.TEMPORAL_MODIFIER</code></p>
 
-<h3 id="vmod-acl-or-advcl"><code>vmod</code>: <code>acl</code> or <code>advcl</code></h3>
+<h3 id="bvmod-acl-or-advclb"><b><code>vmod</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>The <code>vmod</code> relation in SD no longer exists as a relation in UD and has been folded into the <a href="en-dep/acl"><code>acl</code></a> and <a href="en-dep/advcl"><code>advcl</code></a> relations in UD.</p>
 
 <p>The <code>acl</code> relation is used for clauses that modify a noun unless the noun is a predicate in a copular 
 construction. The <code>advcl</code> relation is used for clauses that modify a verb or any other predicate.</p>
 
-<h4 id="grammaticalrelation-object-44">GrammaticalRelation object:</h4>
+<h4 id="grammaticalrelation-object-43">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER</code> (<code>acl</code>)</p>
 
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADV_CLAUSE_MODIFIER</code> (<code>advcl</code>)</p>
@@ -420,7 +416,7 @@ construction. The <code>advcl</code> relation is used for clauses that modify a 
 
 <p><code>xcomp</code> relations in SD are still annotated as <a href="en-dep/xcomp"><code>xcomp</code></a> in UD.</p>
 
-<h4 id="grammaticalrelation-object-45">GrammaticalRelation object:</h4>
+<h4 id="grammaticalrelation-object-44">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT</code></p>
 
 
