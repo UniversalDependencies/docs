@@ -6,6 +6,18 @@ permalink: en/overview/migration-guidelines.html
 
 # Migration Guidelines
 
+## Introduction
+
+## Changes Affecting the Tree Structure
+
+### Treatment of Copula
+### Treatment of Prepositional Phrases
+### Multi-Word Expressions
+
+
+## Mapping of Stanford Dependencies to Universal Depencies
+
+
 The following list provides for each relation in the original Stanford Dependencies representation the name of
 the equivalent relation in the Universal Dependencies representation. For some relations there doesn't exist
 a 1:1 mapping. In these cases you'll find a description of how different instances of the relation are treated
@@ -435,5 +447,9 @@ construction. The `advcl` relation is used for clauses that modify a verb or any
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT`
+
+## New Relations
+
+## _Enhanced_ Universal Depencies
 
 
