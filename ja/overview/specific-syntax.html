@@ -155,7 +155,7 @@ csubj(好き, 食べる)
 <pre><code class="language-sdparse">食べる こと が 好き
 acl(こと, 食べる)
 case(こと, が)
-csubj(好き, こと)
+nsubj(好き, こと)
 </code></pre>
 
 <h2 id="distinction-between-amod-and-acl">Distinction between <code>amod</code> and <code>acl</code></h2>
@@ -191,6 +191,7 @@ amod(人形, かわいい)
 </code></pre>
 
 <pre><code class="language-sdparse">服 が かわいい 人形
+nsubj(かわいい, 服)
 acl(人形, かわいい)
 </code></pre>
 
@@ -206,7 +207,7 @@ recognizing semantic dependencies.  However, Japanese syntax involves
 other voice that involves case alternations.</p>
 
 <ul>
-  <li>causative: 太郎 が 次郎 に りんご を 食べ　させる / <i>Taro ga Jiro
+  <li>causative: 太郎 が 次郎 に りんご を 食べ させる / <i>Taro ga Jiro
 ni ringo o tabe saseru</i> “Taro makes Jiro eat an apple”</li>
   <li>benefactive: 太郎 が 次郎 に りんご を 食べ て もらう / <i>Taro ga
 Jiro ni ringo o tabe te morau</i> “Taro asks Jiro to eat an apple”</li>
@@ -222,14 +223,14 @@ these case alternations in Universal Dependencies.</p>
 <p>Currently, we give dependency labels based on surface expressions,
 without any markings of case alternations.</p>
 
-<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ　させる
+<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ させる
 nsubj(食べ, 太郎)
 dobj(食べ, りんご)
 iobj(食べ, 次郎)
 aux(食べ, させる)
 </code></pre>
 
-<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ　て もらう
+<pre><code class="language-sdparse">太郎 が 次郎 に りんご を 食べ て もらう
 nsubj(食べ, 太郎)
 dobj(食べ, りんご)
 iobj(食べ, 次郎)
