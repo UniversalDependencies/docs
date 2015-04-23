@@ -390,7 +390,7 @@ The `quantmod` relation in SD no longer exists as a relation in UD and has been 
 
 `ref` relations in SD are still annotated as `ref` in UD.
 
-Note that referents are only part of th _enhanced_ UD representation.
+Note that referents are only part of the _enhanced_ UD representation.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.REFERENT`
