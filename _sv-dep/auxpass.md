@@ -14,6 +14,7 @@ auxpass(mördad, blev)
 
 
 Other auxiliaries associated with the same main verb are not labeled `auxpass` since they do not themselves indicate passive voice.
+
 ~~~ sdparse
 Kennedy har blivit mördad \n Kennedy has been murdered
 auxpass(mördad, blivit)
