@@ -59,7 +59,8 @@ title:  'Universal Dependencies'
 
 [CoNLL-U format](format.html)
 
-<span style='background-color:yellow'><strong>New (2015-01-15):</strong> Download the version 1.0 treebanks from the LINDAT/CLARIN repository:<br />
+<!--span style='background-color:yellow'-->
+<span><strong>Download:</strong> the version 1.0 treebanks from the LINDAT/CLARIN repository:<br />
 <a href="http://hdl.handle.net/11234/1-1464">http://hdl.handle.net/11234/1-1464</a></span>
 
 <small>
