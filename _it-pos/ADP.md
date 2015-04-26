@@ -7,12 +7,7 @@ shortdef: 'adposition'
 ### Definition
 
 Adposition is a cover term for prepositions and postpositions.
-
-In Italian, adpositions belong to a closed set of items that occur before
-(preposition) a complement composed of a noun
-phrase, noun, pronoun, or clause that functions as a noun phrase, and
-that form a single structure with the complement to express its
-grammatical and semantic relation to another unit within a clause.
+In Italian, there are only prepositions.
 
 Adpositions can take the form of fixed multiword
 expressions, such as _invece di_, _a causa di_, _davanti a_. The
