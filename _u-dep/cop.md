@@ -42,6 +42,16 @@ Email usually free if you have Wifi.
 nsubj(free, Email)
 ~~~
 
+This analysis is adopted also when the predicate is a prepositional phrase, in which case the nominal part of the 
+prepositional phrase is the head of the clause.
+
+~~~ sdparse
+Sue is in shape
+nsubj(shape, Sue)
+cop(shape, is)
+case(shape, in)
+~~~
+
 A parallel can also be drawn to so-called raising-to-object or small clause constructions in English.
 Under the basic analysis proposed for SD, the predicate complement is
 not linked to its subject argument, but in the enhanced representation
