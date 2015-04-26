@@ -51,10 +51,12 @@ In contrast, prepositional phrases specifying location are not predicates.
 The verb _být_ is understood as the existential “to be” in such cases, and thus it itself is the predicate, not just a copula.
 
 Thus the following two sentences receive parallel analyses:
+
 - _Lenka je skvělá._ “Lenka is brilliant.”
 - _Lenka je v kondici._ “Lenka is in shape.”
 
 The following two will be parallel, too:
+
 - _Lenka je v kuchyni._ “Lenka is in the kitchen.”
 - _Lenka zůstala v kuchyni._ “Lenka stayed in the kitchen.”
 
