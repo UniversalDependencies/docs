@@ -727,7 +727,7 @@ is not analyzed as <code>cop</code>.</p>
 
 <p>We normally take a copula as a dependent of its complement (the nominal predicate).
 The nominal predicate is usually a <a href="cs-pos/NOUN">noun</a>, an <a href="cs-pos/ADJ">adjective</a>
-or a <a href="cs-feat/VerbForm">participle</a>.</p>
+or a <a href="cs-feat/VerbForm#part-participle">participle</a>.</p>
 
 <pre><code class="language-sdparse">Ondřej je čestný muž . \n Ondřej is honest man .
 cop(muž, je)
@@ -737,6 +737,49 @@ cop(man, is)
 <pre><code class="language-sdparse">Ondřej je čestný . \n Ondřej is honest .
 cop(čestný, je)
 cop(honest, is)
+</code></pre>
+
+<p>Note that the passive participle may be also used as nominal predicate with copula.
+Hence it may be difficult to distinguish a passive construction from a copula construction.
+The former focuses on the process while the latter emphasizes the result.</p>
+
+<ul>
+  <li>Passive: <em>Smlouva <b>byla</b>.<code>AUX</code> podepsána v Bílém domě.</em>   “The contract was signed in the White House.”</li>
+  <li>Copula: <em>Smlouva <b>byla</b>.<code>VERB</code> podepsána červeným inkoustem.</em>   “The contract was signed in red ink.”</li>
+</ul>
+
+<pre><code class="language-sdparse">Smlouva byla podepsána v Bílém domě . \n Contract was signed in White House .
+auxpass(podepsána, byla)
+auxpass(signed, was)
+</code></pre>
+
+<pre><code class="language-sdparse">Smlouva byla podepsána červeným inkoustem . \n Contract was signed in-red ink .
+cop(podepsána, byla)
+cop(signed, was)
+</code></pre>
+
+<p>The nominal predicate may also be expressed using a prepositional phrase.
+However, not every occurrence of <em>být</em> “to be” with a prepositional phrase is a copula with a nominal predicate.
+Phrases expressing the state of the subject are predicates, e.g. <em>Lenka je v kondici</em> “Lenka is in shape”.
+In contrast, prepositional phrases specifying location are not predicates.
+The verb <em>být</em> is understood as the existential “to be” in such cases, and thus it itself is the predicate, not just a copula.</p>
+
+<pre><code class="language-sdparse">Lenka je v kondici . \n Lenka is in shape .
+cop(kondici, je)
+cop(shape, is)
+case(kondici, v)
+case(shape, in)
+nsubj(kondici, Lenka-1)
+nsubj(shape, Lenka-7)
+</code></pre>
+
+<pre><code class="language-sdparse">Lenka je v kuchyni . \n Lenka is in kitchen .
+nsubj(je, Lenka-1)
+nsubj(is, Lenka-7)
+nmod(je, kuchyni)
+nmod(is, kitchen)
+case(kuchyni, v)
+case(kitchen, in)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/cop.md" target="#">edit cop</a></p>
