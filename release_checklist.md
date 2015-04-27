@@ -5,11 +5,19 @@ title:  'Dataset release checklist'
 
 # Release checklist
 
-This check list is meant to provide guidance for teams contributing treebanks and/or guidelines for a new release of Universal Dependencies. It is created for release v1.2 but applies, unless otherwise noted, to any upcoming release.
+This check list is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It is created for release v1.2 but applies, unless otherwise noted, to any upcoming release.
 
-## Treebanks
+## Repository
 
-TODO (@jnivre)
+Every language has its own GitHub repository called ``UD\_Language``, where ``Language`` is the name of the language. For example, the repository for Finnish is called ``UD\_Finnish``. Make sure to create the repository for your language if it does not already exist. 
+
+Every language repository should contain the following five files (where `xx` is the ISO code for the given language):
+
+ 1. ``LICENSE``
+ 2. ``README``
+ 3. ``xx-ud-dev.conllu``
+ 4. ``xx-ud-test.conllu``
+ 5. ``xx-ud-train.conllu``
 
 ## Documentation
 
