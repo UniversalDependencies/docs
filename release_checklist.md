@@ -5,23 +5,33 @@ title:  'Dataset release checklist'
 
 # Release checklist
 
-This check list is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It is created for release v1.2 but applies, unless otherwise noted, to any upcoming release.
+This checklist is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It is created for release v1.2 but applies, unless otherwise noted, to any upcoming release.
 
-## Repository
+## Repository and Files
 
-Every language has its own GitHub repository called ``UD\_Language``, where ``Language`` is the name of the language. For example, the repository for Finnish is called ``UD\_Finnish``. Make sure to create the repository for your language if it does not already exist. 
+Every language has its own GitHub repository called `UD\_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD\_Finnish`. Make sure to create the repository for your language if it does not already exist. 
 
 Every language repository should contain the following five files (where `xx` is the ISO code for the given language):
 
- 1. ``LICENSE``
- 2. ``README``
- 3. ``xx-ud-dev.conllu``
- 4. ``xx-ud-test.conllu``
- 5. ``xx-ud-train.conllu``
+ 1. `xx-ud-train.conllu`
+ 2. `xx-ud-dev.conllu`
+ 3. `xx-ud-test.conllu`
+ 4. `README`
+ 5. `LICENSE`
 
-## Documentation
+The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below. The `README` file contains basic documentation of the treebank (see below) and the `LICENSE` specifies under what license the treebank is made available.
 
-TODO (@jnivre)
+The `README` file should minimally contain the following information:
+
+ 1. A description of the treebank and its origin (creation method, data sources, etc.)
+ 2. A description of how the data was split into training, development and test sets
+ 3. Basic statistics about number of sentences, tokens, etc.
+ 4. Acknowledgments and references that should be cited when using the treebank
+
+Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` 
+repository and run as follows:
+
+    $ python conllu-stats.py --stats ../UD_Finnish/*.conllu
 
 ## Validation
 
@@ -65,4 +75,12 @@ the repository:
     $ git commit -m "Adding language-specific data for xx."
     $ git push
 
+## Language-specific guidelines
+
+Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.github.io/docs/. These guidelines should minimally specifcy the following:
+
+ 1. Tokenization: How was word segmentation performed? Does the treebank include multiword tokens?
+ 2. POS tags: What universal POS tags (if any) are not used?
+ 3. Features: What universal features are not used? What language-specific features/values have been added?
+ 4. Relations: What universal relations are not used? What language-specific subtypes have been added?
 
