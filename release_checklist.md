@@ -77,7 +77,7 @@ the repository:
 
 ## Language-specific guidelines
 
-Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.github.io/docs/. These guidelines should minimally specifcy the following:
+Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.github.io/docs/. These guidelines should minimally specify the following:
 
 1. Tokenization: How was word segmentation performed? Does the treebank include multiword tokens?
 2. POS tags: What universal POS tags (if any) are not used?
