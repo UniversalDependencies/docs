@@ -4,7 +4,7 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-In English, `Tense` is a feature of verbs that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. 
+In English, `Tense` is a feature of [verbs](en-pos/VERB) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. 
 
 
 ### `Pres`: present tense
