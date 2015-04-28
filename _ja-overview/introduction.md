@@ -115,8 +115,27 @@ Here, we describe Japanese language resources such as basic language resources, 
 * JUMAN: http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN
 * MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
 * KyTea: http://www.phontron.com/kytea/index-ja.html
-## Lexicon for Morphological Analyzer 
 
-## Syntactic Dependency Parser
+## Lexicon for Morphological Analyzer 
+* IPADIC legacy: http://sourceforge.jp/projects/ipadic/
+* NAIST-jdic: http://sourceforge.jp/projects/naist-jdic/
+* UniDic (contemporary): http://sourceforge.jp/projects/unidic/ will be moved to http://download.unidic.org/
+* UniDic (modern): http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic
+* UniDic (early middle): http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic
+
+## Chunkers (for Bunsetsu Analysis)
+* Comainu: http://comainu.org/
+* CRF++: http://taku910.github.io/crfpp/
+* YamCha: http://chasen.org/~taku/software/yamcha/
+
+## Bunsetsu-based Syntactic Dependency Parser
 * KNP: http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP
 * CaboCha: http://taku910.github.io/cabocha/
+* jdepp: http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/
+* Yahoo! API: http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html
+
+## Bunsetsu-based Syntactic Dependency Annotation Corpus
+* Kyoto Corpus: http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9
+* NAIST Text Corpus: https://sites.google.com/site/naisttextcorpus/
+* Corpus of Spontaneous Japanese: http://pj.ninjal.ac.jp/corpus_center/csj/
+* Balanced Corpus of Contemporary Written Japanese: http://pj.ninjal.ac.jp/corpus_center/bccwj/
