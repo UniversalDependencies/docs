@@ -18,7 +18,7 @@ they should be encoded in all the languages identically.
 
 For the universal features, there may be additional language-specific values that are not (yet) defined at the universal level.
 
-Features that have brackets in their name (such as `Gender[psor]`) are <a href="overview/feat-layers.html">layered features</a>.
+Features that have brackets in their name (such as `Gender[psor]`) are <a href="u/overview/feat-layers.html">layered features</a>.
 It means that a feature applies more than once to a word, in layers. The layer is indicated in the brackets.
 Layered features are clones of existing non-layered universal or language-specific features.
 They have their own language-specific documentation that describes what is the meaning of the layer,
