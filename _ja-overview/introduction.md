@@ -22,16 +22,21 @@ Japanese sentences are not split into words or morphemes by spaces.
 We have several word unit standards by corpus annotation schema or morphological analyzers' outputs.
 The representative word unit standards are the following subsubsections.
 
-### JUMANdic word unit: 
-This word unit standard was derived by the morphological analyzer JUMAN.
 ### IPADIC word unit: 
 This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
+
 ### NINJAL UniDic word units: 
 NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
 - Short Unit Word (SUW): 
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
-- Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁).
-- Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit.
+- Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
+- Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+
+### JUMANdic word unit: 
+This word unit standard was derived by the morphological analyzer JUMAN. The
+
+### Analyzers
+
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -104,3 +109,14 @@ Here, we describe Japanese language resources such as basic language resources, 
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
 * Shinsuke Mori, and Hideki Ogura and Tetsuro Sasada. 2014. '[A Japanese Word Dependency Corpus](http://www.lrec-conf.org/proceedings/lrec2014/pdf/42_Paper.pdf)' In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)
+
+# Links
+## Morphological Analyzer 
+* JUMAN: http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN
+* MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
+* KyTea: http://www.phontron.com/kytea/index-ja.html
+## Lexicon for Morphological Analyzer 
+
+## Syntactic Dependency Parser
+* KNP: http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP
+* CaboCha: http://taku910.github.io/cabocha/
