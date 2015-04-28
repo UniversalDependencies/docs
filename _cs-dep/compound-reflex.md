@@ -5,8 +5,9 @@ shortdef: 'reflexive verb'
 ---
 
 Reflexive pronouns (see the feature [cs-feat/Reflex]()) usually replace objects of verbs.
-However, some verbs are obligatorily reflexive, i.e. the verb always occurs with a reflexive
-prounoun. With these verbs, the reflexive pronoun is not attached as [dobj]()
+However, some verbs are inherently reflexive, i.e. the verb always occurs with a reflexive
+prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.
+With these verbs, the reflexive pronoun is not attached as [dobj]()
 but as a special sort of `compound` relation.
 
 ~~~ sdparse
