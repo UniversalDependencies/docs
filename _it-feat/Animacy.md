@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: '<strike>Animacy</strike>'
+title: 'Animacy'
 shortdef: 'animacy'
 ---
 
