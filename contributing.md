@@ -61,6 +61,7 @@ system](#using-git) and work on the files on your own computer.
 
 ### Style guidelines
 
+See also the <a href="contributing_language_specific.html">guidelines for language-specific documentation</a>.
 To maintain the consistency of the documentation, please follow these guidelines:
 
 * All types / labels (POS tags, feature names/values, relation labels) are in
