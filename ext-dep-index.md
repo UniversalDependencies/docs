@@ -17,6 +17,16 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Swedish](sv-dep/acl:relcl)
 
 
+## advmod
+- advmod:emph
+[Czech](cs-dep/advmod:emph)
+
+
+## auxpass
+- auxpass:reflex
+[Czech](cs-dep/auxpass:reflex)
+
+
 ## cc
 - cc:preconj
 [English](en-dep/cc:preconj)
@@ -31,6 +41,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 - compound:prt
 [English](en-dep/compound:prt)
 [Swedish](sv-dep/compound:prt)
+- compound:reflex
+[Czech](cs-dep/compound:reflex)
 
 
 ## csubj
@@ -39,6 +51,10 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## det
+- det:numgov
+[Czech](cs-dep/det:numgov)
+- det:nummod
+[Czech](cs-dep/det:nummod)
 - det:predet
 [English](en-dep/det:predet)
 
@@ -67,6 +83,12 @@ Labels of language-specific relations explictly encode the core UD relation that
 - nmod:agent
 [Swedish](sv-dep/nmod:agent)
 
+
 ## nsubj
 - nsubj:cop
 [Finnish](fi-dep/nsubj:cop)
+
+
+## nummod
+- nummod:gov
+[Czech](cs-dep/nummod:gov)
