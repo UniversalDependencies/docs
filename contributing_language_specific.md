@@ -68,8 +68,9 @@ Minimally, this should be a restatement of the universal definition with at leas
 ## Global list of language-specific features and relations
 
 The owners of each language should also make sure that their language-specific features and relations are added to:
-http://universaldependencies.github.io/docs/ext-feat-index.html
-http://universaldependencies.github.io/docs/ext-dep-index.html
+
+* <a href="http://universaldependencies.github.io/docs/ext-feat-index.html">http://universaldependencies.github.io/docs/ext-feat-index.html</a>
+* <a href="http://universaldependencies.github.io/docs/ext-dep-index.html">http://universaldependencies.github.io/docs/ext-dep-index.html</a>
 
 <!--Ideally, this should happen automagically given the language-specific documentation to ensure consistency.-->
 
