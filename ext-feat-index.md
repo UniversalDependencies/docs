@@ -29,20 +29,20 @@ There are automatically generated approximate
 from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
 
 ## Abbr
-* <a href="u/ext-feat/Abbr.html">Abbr</a>
 * [Czech values](cs-feat/Abbr): Yes
+* [Interset](ext-feat/Abbr): Yes
 
 ## AdpType
-* <a href="u/ext-feat/AdpType.html">AdpType</a>
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
+* <a href="u/ext-feat/AdpType.html">AdpType</a>
 
 ## ConjType
-* <a href="u/ext-feat/ConjType.html">ConjType</a>
 * [Czech values](cs-feat/ConjType): Oper
+* <a href="u/ext-feat/ConjType.html">ConjType</a>
 
 ## Foreign
-* <a href="u/ext-feat/Foreign.html">Foreign</a>
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
+* <a href="u/ext-feat/Foreign.html">Foreign</a>
 
 ## Gender[psor]
 * [Czech values](cs-feat/Gender[psor]): Masc, Fem
@@ -51,27 +51,27 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/Hyph): Yes
 
 ## NameType
-* <a href="u/ext-feat/NameType.html">NameType</a>
 * [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
+* <a href="u/ext-feat/NameType.html">NameType</a>
 
 ## Number[psor]
 * [Czech values](cs-feat/Number-psor): Sing, Plur
 
 ## NumForm
-* <a href="u/ext-feat/NumForm.html">NumForm</a>
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
+* <a href="u/ext-feat/NumForm.html">NumForm</a>
 
 ## NumValue
-* <a href="u/ext-feat/NumValue.html">NumValue</a>
 * [Czech values](cs-feat/NumValue): 1, 2, 3
+* <a href="u/ext-feat/NumValue.html">NumValue</a>
 
 ## PrepCase
-* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
 * [Czech values](cs-feat/PrepCase): Npr, Pre
+* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
 
 ## Style
-* <a href="u/ext-feat/Style.html">Style</a>
 * [Czech values](cs-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
+* <a href="u/ext-feat/Style.html">Style</a>
 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
