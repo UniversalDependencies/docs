@@ -79,9 +79,9 @@ Known discrepancies from the guidelines should be mentioned under the most relev
 
 There should be a diffs section at the bottom as a hash-hash section, which would then be followed by a hash-hash-hash section for each individual treebank. E.g.:
 
-  ## Diffs
+    ## Diffs
+    
+    ### English Web Treebank
+    
+    At present what is tagged PNOUN reflects the Penn Treebank annotation guidelines rather than UD discussion and conventions.
 
-  ### English Web Treebank
-
-  At present what is tagged PNOUN reflects the Penn Treebank annotation guidelines rather than UD discussion and conventions.
-	
