@@ -31,48 +31,75 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Abbr
 * [Czech values](cs-feat/Abbr): Yes
+* [Finnish values](fi-feat/Abbr): Yes
 * [Interset](ext-feat/Abbr): Yes
 
 ## AdpType
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
-* <a href="u/ext-feat/AdpType.html">AdpType</a>
+* [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## ConjType
 * [Czech values](cs-feat/ConjType): Oper
-* <a href="u/ext-feat/ConjType.html">ConjType</a>
+* [Interset](ext-feat/ConjType): Comp, Oper
+
+## Connegative
+* [Finnish values](fi-feat/Connegative): Yes
+
+## Derivation
+* [Finnish values](fi-feat/Derivation): Minen, Sti, Inen, Lainen, Ja, Ton, Vs, Ttain, Ttaa
 
 ## Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
-* <a href="u/ext-feat/Foreign.html">Foreign</a>
+* [Finnish values](fi-feat/Foreign): Foreign, Fscript
+* [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[psor]
 * [Czech values](cs-feat/Gender[psor]): Masc, Fem
+* [Interset](ext-feat/PossGender): Masc, Fem
 
 ## Hyph
 * [Czech values](cs-feat/Hyph): Yes
+* [Interset](ext-feat/Hyph): Yes
+
+## InfForm
+* [Finnish values](fi-feat/InfForm): 1, 2, 3
 
 ## NameType
 * [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
-* <a href="u/ext-feat/NameType.html">NameType</a>
+* [Interset](ext-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 
 ## Number[psor]
 * [Czech values](cs-feat/Number-psor): Sing, Plur
+* [Finnish values](fi-feat/Number-psor): Sing, Plur
+* [Interset](ext-feat/PossNumber): Sing, Plur
 
 ## NumForm
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
-* <a href="u/ext-feat/NumForm.html">NumForm</a>
+* [Interset](ext-feat/NumForm): Digit, Roman, Word
 
 ## NumValue
 * [Czech values](cs-feat/NumValue): 1, 2, 3
-* <a href="u/ext-feat/NumValue.html">NumValue</a>
+* [Interset](ext-feat/NumValue): 1, 2, 3
+
+## PartForm
+* [Finnish values](fi-feat/PartForm): Pres, Past, Agt, Neg
+
+## Person[psor]
+* [Finnish values](fi-feat/Person-psor): 1, 2, 3
+* [Interset](ext-feat/PossPerson): 1, 2, 3
 
 ## PrepCase
 * [Czech values](cs-feat/PrepCase): Npr, Pre
-* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
+* [Interset](ext-feat/PrepCase): Npr, Pre
 
 ## Style
 * [Czech values](cs-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
-* <a href="u/ext-feat/Style.html">Style</a>
+* [Finnish values](fi-feat/Style): Arch, Coll
+* [Interset](ext-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
+
+## Typo
+* [Finnish values](fi-feat/Typo): Yes
+* [Interset](ext-feat/Typo): Yes
 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
@@ -91,14 +118,12 @@ nor have they been used in one of the languages as language- or treebank-specifi
 
 * <a href="u/ext-feat/AdvType.html">AdvType</a>
 * <a href="u/ext-feat/Echo.html">Echo</a>
-* <a href="u/ext-feat/Hyph.html">Hyph</a>
 * <a href="u/ext-feat/NounType.html">NounType</a>
 * <a href="u/ext-feat/PartType.html">PartType</a>
 * <a href="u/ext-feat/Polite.html">Polite</a>
 * <a href="u/ext-feat/Prefix.html">Prefix</a>
 * <a href="u/ext-feat/PunctSide.html">PunctSide</a>
 * <a href="u/ext-feat/PunctType.html">PunctType</a>
-* <a href="u/ext-feat/Typo.html">Typo</a>
 * <a href="u/ext-feat/VerbType.html">VerbType</a>
 
 The following Interset features are not used under their Interset names but they are included
