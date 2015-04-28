@@ -4,7 +4,7 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
-Pronominal type is a feature of (some) pronouns, determiners and pronominal adverbs in Swedish. Currently, we only use the `Int` and `Rel` values and do not disambiguate between them.
+Pronominal type is a feature of (some) pronouns, determiners and pronominal adverbs in Swedish. 
 
 ### `Int`: interrogative pronoun, determiner, or adverb
 
@@ -16,11 +16,12 @@ Pronominal type is a feature of (some) pronouns, determiners and pronominal adve
 
 ### `Rel`: relative pronoun, determiner, or adverb
 
+#### Examples: 
 
 * Pronouns: _som_ "that", _vilken_ "who"
 * Determiners: _vars_, _vilkens_ "whose"
 * Adverbs: _då_ "when", _där_ "where"
 
-
-* [cs] _jenž, což_ "which", "that" (relative but not interrogative
-  pronouns); _jehož_ "whose" (possessive relative pronoun)
+<b>Note:</b> Because the original Swedish treebank annotation uses a single category subsuming both interrogative and relative
+(corresponding to the English wh-category), we currently do not disambiguate between `Int` and `Rel`, which means 
+that any word belonging to one of these categories is assigned the feature `PronType=Int,Rel`. 
