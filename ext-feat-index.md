@@ -44,7 +44,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[psor]
-* [Czech values](cs-feat/Gender-psor): Masc, Fem
+* [Czech values](cs-feat/Gender[psor]): Masc, Fem
 
 ## Hyph
 * [Czech values](cs-feat/Hyph): Yes
