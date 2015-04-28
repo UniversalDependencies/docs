@@ -40,23 +40,14 @@ may be because of a weird grammatical construction, a limitation in
 software, a parser error, or because of an unresolved long distance 
 dependency.</p>
 
-<p>In the current version of the Swedish UD treebank, the <em>dep</em> relation is (temporarily) used in two constructions, due to the automatic conversion. This should be reanalyzed in later versions.</p>
-
-<p>First, the relative pronoun <em>som</em> is assigned the <em>dep</em> relation when it duplicates the function of a wh word or phrase:</p>
+<p>In the current version of the Swedish UD treebank, the <em>dep</em> relation is (temporarily) used when
+the relative pronoun <em>som</em> duplicates the function of a wh word or phrase:</p>
 
 <pre><code class="language-sdparse">Svårast är att bestämma vilka förändringar som har skett \n The hardest part is to decide which changes have taken place
 dobj(bestämma, skett)
 nsubj(skett, förändringar)
 dep(skett, som)
 </code></pre>
-
-<p>Secondly, the focus element in a cleft sentence is analyzed as having a <em>dep</em> relation to the verb introducing it:</p>
-
-<pre><code class="language-sdparse">Det var Pelle som gjorde det \n It was Pelle who did it
-dep(var, Pelle)
-acl:relcl(Pelle, gjorde)
-</code></pre>
-
 
 
 <!-- "in other languages" links -->
