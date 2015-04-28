@@ -335,7 +335,31 @@ Swedish treebank. For further discussion of <code>Person</code> see the universa
 <p><a id="al-sv-feat/PronType" class="al-dest"></a></p>
 <h2><code>PronType</code>: pronominal type</h2>
 
-<p>PronType</p>
+<p>Pronominal type is a feature of (some) pronouns, determiners and pronominal adverbs in Swedish. </p>
+
+<h3 id="int-interrogative-pronoun-determiner-or-adverb"><code>Int</code>: interrogative pronoun, determiner, or adverb</h3>
+
+<h4 id="examples">Examples:</h4>
+
+<ul>
+  <li>Pronouns: <em>vem</em> “who”, <em>vad</em> “what”</li>
+  <li>Determiners: <em>vilken</em> (common singular) “which”, <em>vilket</em> (neuter singular) “which”, <em>vilka</em> (plural) “which”</li>
+  <li>Adverbs: <em>när</em> “when”, <em>var</em> “where”, <em>hur</em> “how”</li>
+</ul>
+
+<h3 id="rel-relative-pronoun-determiner-or-adverb"><code>Rel</code>: relative pronoun, determiner, or adverb</h3>
+
+<h4 id="examples-1">Examples:</h4>
+
+<ul>
+  <li>Pronouns: <em>som</em> “that”, <em>vilken</em> “who”</li>
+  <li>Determiners: <em>vars</em>, <em>vilkens</em> “whose”</li>
+  <li>Adverbs: <em>då</em> “when”, <em>där</em> “where”</li>
+</ul>
+
+<p><b>Note:</b> Because the original Swedish treebank annotation uses a single category subsuming both interrogative and relative
+(corresponding to the English wh-category), we currently do not disambiguate between <code>Int</code> and <code>Rel</code>, which means 
+that any word belonging to one of these categories is assigned the feature <code>PronType=Int,Rel</code>. </p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-feat/PronType.md" target="#">edit PronType</a></p>
 
