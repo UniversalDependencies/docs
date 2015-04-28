@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Guidelines for Language-Specific Documentation</title>
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
+    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+	
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/contributing_language_specific.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h1 id="guidelines-for-language-specific-documentation">Guidelines for language-specific documentation</h1>
+
+<p>See also <a href="contributing.html">How to contribute</a>, especially the section <a href="contributing.html#style-guidelines">Style guidelines</a>.</p>
+
+<p>The language-specific documentation is organized by sections.
+Swedish may serve as an example conforming to these guidelines.</p>
+
+<h2 id="overviewintroductionhtml">overview/introduction.html</h2>
+
+<p>Short description of the treebank, size, types of texts, annotation/conversion process, etc.</p>
+
+<p>Optional subheadings: “Acknowledgments”, “References”</p>
+
+<h2 id="overviewtokenizationhtml">overview/tokenization.html</h2>
+
+<p>Short description of the principles for word segmentation with references to additional documentation and/or standard tokenizers as appropriate.
+The description must state whether the treebank contains multiword tokens and, if so, describe the major cases in a separate subsection
+(see the Czech documentation for an example of this). It is also desirable to describe the heuristics how annotations of syntactic words should
+be recombined if a user chooses to work with surface tokens only.</p>
+
+<p>Optional subheadings: “Multiword tokens”, “References”</p>
+
+<h2 id="overviewmorphologyhtml">overview/morphology.html</h2>
+
+<p>Short description of the use of universal tags and features making clear whether language-specific features have been added (but without describing them).
+Short description of language-specific tags if relevant.</p>
+
+<p>Optional subheading: “References”</p>
+
+<h2 id="posindexhtml">pos/index.html</h2>
+
+<p>List of universal tags with unused tags crossed out (see Finnish for an example).
+Each tag is linked to a subpage with a language-specific definition and examples.
+Minimally, this should be a restatement of the universal definition with at least one language-specific example added.
+Preferably, it should add more information, for example, about inflectional categories of a part of speech in the specific language (see Swedish ADJ documentation for an example).</p>
+
+<h2 id="featindexhtml">feat/index.html</h2>
+
+<p>List of morphological features with unused universal features crossed out and language-specific features preceded by a + (see Finnish for an example).
+Each feature is linked to a subpage with a language-specific definition and examples.
+Minimally, this should be a restatement of the universal definition with at least one language-specific example added.
+It should also make clear which values are used for a given feature, since this may vary across languages (see Swedish Case documentation for an example).</p>
+
+<h2 id="overviewsyntaxhtml">overview/syntax.html</h2>
+
+<p>Short description of the use of universal dependency relations making clear whether language-specific subtypes have been added (but without describing them).</p>
+
+<h2 id="overviewspecific-syntaxhtml">overview/specific-syntax.html</h2>
+
+<p>Optional description of specific constructions (see Finnish for examples).
+Ideally, this should be structured in the same way as the universal documentation, but since the latter is not very developed it seems hard to enforce this.
+If possible, use the main headings “Elements of a clause”, “Elements of a nominal”, “Adjectival and adverbial constructions”,
+and add additional headings as needed (for example, “Coordination”, “Compounding”, etc.)
+Use any subheadings that are appropriate.</p>
+
+<h2 id="depindexhtml">dep/index.html</h2>
+
+<p>List of universal dependencies with unused relations crossed out and language-specific subtypes indented below their supertype (see Finnish for an example).
+Each relation is linked to a subpage with a language-specific definition and examples.
+Minimally, this should be a restatement of the universal definition with at least one language-specific example added. </p>
+
+<h2 id="global-list-of-language-specific-features-and-relations">Global list of language-specific features and relations</h2>
+
+<p>The owners of each language should also make sure that their language-specific features and relations are added to:
+http://universaldependencies.github.io/docs/ext-feat-index.html
+http://universaldependencies.github.io/docs/ext-dep-index.html</p>
+
+<!--Ideally, this should happen automagically given the language-specific documentation to ensure consistency.-->
+
+<h2 id="discrepancies-between-the-guidelines-and-the-released-data">Discrepancies between the guidelines and the released data</h2>
+
+<p>Known discrepancies from the guidelines should be mentioned under the most relevant heading.</p>
+
+<p>There should be a diffs section at the bottom as a hash-hash section, which would then be followed by a hash-hash-hash section for each individual treebank. E.g.:</p>
+
+<p>## Diffs</p>
+
+<p>### English Web Treebank</p>
+
+<p>At present what is tagged PNOUN reflects the Penn Treebank annotation guidelines rather than UD discussion and conventions.</p>
+
+
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = ''; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'http://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs on page
+        setupTabs();
+
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = '';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
