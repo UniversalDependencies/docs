@@ -23,10 +23,10 @@ Tagged as `DET`:
 - definite articles: _il, lo, la, gli_ "the"
 - indefinite articles: _un, uno, una_ "a, an"
 - possessive determiners: _mio, mia_ "my", _tuo, tua_ "your", _suo, sua_ "his, her, its", _nostro_ "our", _loro_ "their"
-- demonstrative determiners: _questo_ "this" as in _Ho visto <b>questa</b> macchina ieri._ "I saw <b>this</b> car yesterday."
-- interrogative determiners: _quale_ "which" as in _<b>Quale</b> macchina ti piace?_ "<b>Which</b> car do you like?"
-- relative determiners: _quale_ "which" as in _Mi chiedo <b>quale</b> macchina ti piace_ "I wonder <b>which</b> car you like."_
-- indefinite, quantity and negative determiners: _ogni_ "any", _tutti_ "all", _alcuni_ "some", _nessuno, nessuna_ "no" as in _Non abbiamo <b>nessuna</b> macchina disponibile_ "We have <b>no</b> car available."_
+- demonstrative determiners: _questo_ "this", e.g. _Ho visto <b>questa</b> macchina ieri._ "I saw <b>this</b> car yesterday."
+- interrogative determiners: _quale_ "which", e.g. _<b>Quale</b> macchina ti piace?_ "<b>Which</b> car do you like?"
+- relative determiners: _quale_ "which", e.g. _Mi chiedo <b>quale</b> macchina ti piace._ "I wonder <b>which</b> car you like."
+- indefinite, quantity and negative determiners: _ogni_ "any", _tutti_ "all", _alcuni_ "some", _nessuno, nessuna_ "no", e.g. _Non abbiamo <b>nessuna</b> macchina disponibile_ "We have <b>no</b> car available."
 
 Tagged as [PRON]():
 
