@@ -5,7 +5,8 @@ title:  'Language-specific features'
 
 # Language-specific features
 
-In addition to the [universal set of features](u-feat/index), it is desirable to recognize word features that are particular
+In addition to the <a href="u/feat/index.html">universal set of features</a>,
+it is desirable to recognize word features that are particular
 to one language or a small group of related languages.
 We also include here features that are not language-specific but rather treebank-specific.
 They encode something that could occur in many languages but only a few treebanks choose to tag it
@@ -16,7 +17,7 @@ but if they appear in more than one language, they should still be encoded the s
 
 For the universal features, there may be additional language-specific values that are not (yet) defined at the universal level.
 
-Features that have brackets in their name (such as `Gender[psor]`) are [layered features](overview/feat-layers).
+Features that have brackets in their name (such as `Gender[psor]`) are <a href="overview/feat-layers.html">layered features</a>.
 It means that a feature applies more than once to a word, in layers. The layer is indicated in the brackets.
 Layered features are clones of existing non-layered universal or language-specific features.
 They have their own language-specific documentation that describes what is the meaning of the layer,
