@@ -127,11 +127,11 @@ Here, we describe Japanese language resources such as basic language resources, 
 * KyTea: http://www.phontron.com/kytea/index-ja.html
 
 ## Lexicon for Morphological Analyzer 
-* IPADIC legacy: http://sourceforge.jp/projects/ipadic/
-* NAIST-jdic: http://sourceforge.jp/projects/naist-jdic/
-* UniDic (contemporary): http://sourceforge.jp/projects/unidic/ will be moved to http://download.unidic.org/
-* UniDic (modern): http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic
-* UniDic (early middle): http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic
+* IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
+* NAIST-jdic: [http://sourceforge.jp/projects/naist-jdic/](http://sourceforge.jp/projects/naist-jdic/)
+* UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
+* UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
+* UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
 ## Chunkers (for Bunsetsu Analysis)
 * Comainu: http://comainu.org/
