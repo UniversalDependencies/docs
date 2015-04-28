@@ -5,7 +5,77 @@ title:  'Language-specific features'
 
 # Language-specific features
 
-## Interset features that are not part of this standard
+In addition to the [universal set of features](u-feat/index), it is desirable to recognize word features that are particular
+to one language or a small group of related languages.
+We also include here features that are not language-specific but rather treebank-specific.
+They encode something that could occur in many languages but only a few treebanks choose to tag it
+(for example, whether a word is an abbreviation).
+
+These features are not part of the core universal set
+but if they appear in more than one language, they should still be encoded the same way.
+
+For the universal features, there may be additional language-specific values that are not (yet) defined at the universal level.
+
+Features that have brackets in their name (such as `Gender[psor]`) are [layered features](overview/feat-layers).
+It means that a feature applies more than once to a word, in layers. The layer is indicated in the brackets.
+Layered features are clones of existing non-layered universal or language-specific features.
+They have their own language-specific documentation that describes what is the meaning of the layer,
+how the list of values is modified for the layer (if at all),
+and provides layer-specific examples.
+
+There are automatically generated approximate
+<a href="tagset-conversion/">conversion tables</a>
+from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
+
+## Abbr
+* <a href="u/ext-feat/Abbr.html">Abbr</a>
+* [Czech values](cs-feat/Abbr): Yes
+
+## AdpType
+* <a href="u/ext-feat/AdpType.html">AdpType</a>
+* [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
+
+## ConjType
+* <a href="u/ext-feat/ConjType.html">ConjType</a>
+* [Czech values](cs-feat/ConjType): Oper
+
+## Foreign
+* <a href="u/ext-feat/Foreign.html">Foreign</a>
+* [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
+
+## Gender[psor]
+* [Czech values](cs-feat/Gender-psor): Masc, Fem
+
+## Hyph
+* [Czech values](cs-feat/Hyph): Yes
+
+## NameType
+* <a href="u/ext-feat/NameType.html">NameType</a>
+* [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
+
+## Number[psor]
+* [Czech values](cs-feat/Number-psor): Sing, Plur
+
+## NumForm
+* <a href="u/ext-feat/NumForm.html">NumForm</a>
+* [Czech values](cs-feat/NumForm): Digit, Roman, Word
+
+## NumValue
+* <a href="u/ext-feat/NumValue.html">NumValue</a>
+* [Czech values](cs-feat/NumValue): 1, 2, 3
+
+## PrepCase
+* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
+* [Czech values](cs-feat/PrepCase): Npr, Pre
+
+## Style
+* <a href="u/ext-feat/Style.html">Style</a>
+* [Czech values](cs-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
+
+## Variant
+* [Czech values](cs-feat/Variant): Short
+
+# Interset features that are not part of this standard
 
 The universal features are mostly derived from the
 <a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
@@ -14,26 +84,18 @@ Interset contains additional features that have not yet been adopted as
 universal features. However, they may be used, if necessary, as part of the
 "language-specific extensions" to the universal features.
 
-The following Interset features are currently not part of the standard:
+The following Interset features are currently neither adopted as universal features,
+nor have they been used in one of the languages as language- or treebank-specific features.
 
-* <a href="u/ext-feat/Abbr.html">Abbr</a>
-* <a href="u/ext-feat/AdpType.html">AdpType</a>
 * <a href="u/ext-feat/AdvType.html">AdvType</a>
-* <a href="u/ext-feat/ConjType.html">ConjType</a>
 * <a href="u/ext-feat/Echo.html">Echo</a>
-* <a href="u/ext-feat/Foreign.html">Foreign</a>
 * <a href="u/ext-feat/Hyph.html">Hyph</a>
-* <a href="u/ext-feat/NameType.html">NameType</a>
 * <a href="u/ext-feat/NounType.html">NounType</a>
-* <a href="u/ext-feat/NumForm.html">NumForm</a>
-* <a href="u/ext-feat/NumValue.html">NumValue</a>
 * <a href="u/ext-feat/PartType.html">PartType</a>
 * <a href="u/ext-feat/Polite.html">Polite</a>
 * <a href="u/ext-feat/Prefix.html">Prefix</a>
-* <a href="u/ext-feat/PrepCase.html">PrepCase</a>
 * <a href="u/ext-feat/PunctSide.html">PunctSide</a>
 * <a href="u/ext-feat/PunctType.html">PunctType</a>
-* <a href="u/ext-feat/Style.html">Style</a>
 * <a href="u/ext-feat/Typo.html">Typo</a>
 * <a href="u/ext-feat/VerbType.html">VerbType</a>
 
@@ -70,7 +132,3 @@ The following features are included in the universal standard, but some values a
 * New value 'int' of the feature 'voice': intensive voice/aspect (the PIEL binyan) in Hebrew.
 * New value 'gdv' of the feature 'verbform': gerundive (as opposed to the gerund) in Latin.
 * New value 'dim' of the feature 'degree': diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
-
-There are automatically generated approximate
-<a href="tagset-conversion/">conversion tables</a>
-from existing tagsets of various languages to the universal part-of-speech tags and features.
