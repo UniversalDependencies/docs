@@ -33,10 +33,15 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 - Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
 
 ### JUMANdic word unit: 
-This word unit standard was derived by the morphological analyzer JUMAN. The
+This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 
 ### Analyzers
 
+- MeCab: lexicon-based morphological analyzer by CRFs.
+
+- JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
+
+- Comainu: 
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -50,6 +55,17 @@ IPADIC and NAIST-jdic are shared the same POS tagset.
 - The English Translation of POS Tagset by Dr. Francis Bond: http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt
 - English Manual: http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/
 
+### Juman POS Tagset
+
+### UniDic POS Tagset
+
+### Lexicon-based or Usage-based
+
+The term 'usage-based' is not exactly same as Langacker's Usage-based model.
+
+### Issues on UD Pos tagset
+
+The UD doesn't define lexicon-based or usage-based PoS tagset.
 
 ## Dependency Links
 
