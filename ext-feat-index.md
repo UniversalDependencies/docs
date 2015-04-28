@@ -13,7 +13,8 @@ They encode something that could occur in many languages but only a few treebank
 (for example, whether a word is an abbreviation).
 
 These features are not part of the core universal set
-but if they appear in more than one language, they should still be encoded the same way.
+but if they appear in more than one language,
+they should be encoded in all the languages identically.
 
 For the universal features, there may be additional language-specific values that are not (yet) defined at the universal level.
 
