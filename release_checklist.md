@@ -84,3 +84,5 @@ Every treebank should be accompanied by a set of language-specific guidelines at
 3. Features: What universal features are not used? What language-specific features/values have been added?
 4. Relations: What universal relations are not used? What language-specific subtypes have been added?
 
+There are <a href="contributing_language_specific.html">more detailed guidelines for language-specific documentation.</a>
+Also see the general guidelines about <a href="contributing.html">how to contribute.</a>
