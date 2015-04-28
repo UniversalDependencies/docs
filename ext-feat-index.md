@@ -54,7 +54,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[psor]
-* [Czech values](cs-feat/Gender[psor]): Masc, Fem
+* <a href="cs/feat/Gender-psor.html">Czech values</a>: Masc, Fem
 * [Interset](ext-feat/PossGender): Masc, Fem
 
 ## Hyph
@@ -69,8 +69,8 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 
 ## Number[psor]
-* [Czech values](cs-feat/Number-psor): Sing, Plur
-* [Finnish values](fi-feat/Number-psor): Sing, Plur
+* <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
+* <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
 * [Interset](ext-feat/PossNumber): Sing, Plur
 
 ## NumForm
@@ -85,7 +85,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Finnish values](fi-feat/PartForm): Pres, Past, Agt, Neg
 
 ## Person[psor]
-* [Finnish values](fi-feat/Person-psor): 1, 2, 3
+* <a href="fi/feat/Person-psor.html">Finnish values</a>: 1, 2, 3
 * [Interset](ext-feat/PossPerson): 1, 2, 3
 
 ## PrepCase
