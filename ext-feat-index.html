@@ -34,7 +34,103 @@
 
           <h1 id="language-specific-features">Language-specific features</h1>
 
-<h2 id="interset-features-that-are-not-part-of-this-standard">Interset features that are not part of this standard</h2>
+<p>In addition to the <a href="u-feat/index">universal set of features</a>, it is desirable to recognize word features that are particular
+to one language or a small group of related languages.
+We also include here features that are not language-specific but rather treebank-specific.
+They encode something that could occur in many languages but only a few treebanks choose to tag it
+(for example, whether a word is an abbreviation).</p>
+
+<p>These features are not part of the core universal set
+but if they appear in more than one language, they should still be encoded the same way.</p>
+
+<p>For the universal features, there may be additional language-specific values that are not (yet) defined at the universal level.</p>
+
+<p>Features that have brackets in their name (such as <code>Gender[psor]</code>) are <a href="overview/feat-layers">layered features</a>.
+It means that a feature applies more than once to a word, in layers. The layer is indicated in the brackets.
+Layered features are clones of existing non-layered universal or language-specific features.
+They have their own language-specific documentation that describes what is the meaning of the layer,
+how the list of values is modified for the layer (if at all),
+and provides layer-specific examples.</p>
+
+<p>There are automatically generated approximate
+<a href="tagset-conversion/">conversion tables</a>
+from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.</p>
+
+<h2 id="abbr">Abbr</h2>
+<ul>
+  <li><a href="u/ext-feat/Abbr.html">Abbr</a></li>
+  <li><a href="cs-feat/Abbr">Czech values</a>: Yes</li>
+</ul>
+
+<h2 id="adptype">AdpType</h2>
+<ul>
+  <li><a href="u/ext-feat/AdpType.html">AdpType</a></li>
+  <li><a href="cs-feat/AdpType">Czech values</a>: Prep, Voc, Comprep</li>
+</ul>
+
+<h2 id="conjtype">ConjType</h2>
+<ul>
+  <li><a href="u/ext-feat/ConjType.html">ConjType</a></li>
+  <li><a href="cs-feat/ConjType">Czech values</a>: Oper</li>
+</ul>
+
+<h2 id="foreign">Foreign</h2>
+<ul>
+  <li><a href="u/ext-feat/Foreign.html">Foreign</a></li>
+  <li><a href="cs-feat/Foreign">Czech values</a>: Foreign, Fscript, Tscript</li>
+</ul>
+
+<h2 id="genderpsor">Gender[psor]</h2>
+<ul>
+  <li><a href="cs-feat/Gender-psor">Czech values</a>: Masc, Fem</li>
+</ul>
+
+<h2 id="hyph">Hyph</h2>
+<ul>
+  <li><a href="cs-feat/Hyph">Czech values</a>: Yes</li>
+</ul>
+
+<h2 id="nametype">NameType</h2>
+<ul>
+  <li><a href="u/ext-feat/NameType.html">NameType</a></li>
+  <li><a href="cs-feat/NameType">Czech values</a>: Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth</li>
+</ul>
+
+<h2 id="numberpsor">Number[psor]</h2>
+<ul>
+  <li><a href="cs-feat/Number-psor">Czech values</a>: Sing, Plur</li>
+</ul>
+
+<h2 id="numform">NumForm</h2>
+<ul>
+  <li><a href="u/ext-feat/NumForm.html">NumForm</a></li>
+  <li><a href="cs-feat/NumForm">Czech values</a>: Digit, Roman, Word</li>
+</ul>
+
+<h2 id="numvalue">NumValue</h2>
+<ul>
+  <li><a href="u/ext-feat/NumValue.html">NumValue</a></li>
+  <li><a href="cs-feat/NumValue">Czech values</a>: 1, 2, 3</li>
+</ul>
+
+<h2 id="prepcase">PrepCase</h2>
+<ul>
+  <li><a href="u/ext-feat/PrepCase.html">PrepCase</a></li>
+  <li><a href="cs-feat/PrepCase">Czech values</a>: Npr, Pre</li>
+</ul>
+
+<h2 id="style">Style</h2>
+<ul>
+  <li><a href="u/ext-feat/Style.html">Style</a></li>
+  <li><a href="cs-feat/Style">Czech values</a>: Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg</li>
+</ul>
+
+<h2 id="variant">Variant</h2>
+<ul>
+  <li><a href="cs-feat/Variant">Czech values</a>: Short</li>
+</ul>
+
+<h1 id="interset-features-that-are-not-part-of-this-standard">Interset features that are not part of this standard</h1>
 
 <p>The universal features are mostly derived from the
 <a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
@@ -43,27 +139,19 @@ Interset contains additional features that have not yet been adopted as
 universal features. However, they may be used, if necessary, as part of the
 “language-specific extensions” to the universal features.</p>
 
-<p>The following Interset features are currently not part of the standard:</p>
+<p>The following Interset features are currently neither adopted as universal features,
+nor have they been used in one of the languages as language- or treebank-specific features.</p>
 
 <ul>
-  <li><a href="u/ext-feat/Abbr.html">Abbr</a></li>
-  <li><a href="u/ext-feat/AdpType.html">AdpType</a></li>
   <li><a href="u/ext-feat/AdvType.html">AdvType</a></li>
-  <li><a href="u/ext-feat/ConjType.html">ConjType</a></li>
   <li><a href="u/ext-feat/Echo.html">Echo</a></li>
-  <li><a href="u/ext-feat/Foreign.html">Foreign</a></li>
   <li><a href="u/ext-feat/Hyph.html">Hyph</a></li>
-  <li><a href="u/ext-feat/NameType.html">NameType</a></li>
   <li><a href="u/ext-feat/NounType.html">NounType</a></li>
-  <li><a href="u/ext-feat/NumForm.html">NumForm</a></li>
-  <li><a href="u/ext-feat/NumValue.html">NumValue</a></li>
   <li><a href="u/ext-feat/PartType.html">PartType</a></li>
   <li><a href="u/ext-feat/Polite.html">Polite</a></li>
   <li><a href="u/ext-feat/Prefix.html">Prefix</a></li>
-  <li><a href="u/ext-feat/PrepCase.html">PrepCase</a></li>
   <li><a href="u/ext-feat/PunctSide.html">PunctSide</a></li>
   <li><a href="u/ext-feat/PunctType.html">PunctType</a></li>
-  <li><a href="u/ext-feat/Style.html">Style</a></li>
   <li><a href="u/ext-feat/Typo.html">Typo</a></li>
   <li><a href="u/ext-feat/VerbType.html">VerbType</a></li>
 </ul>
@@ -114,10 +202,6 @@ through the
   <li>New value ‘gdv’ of the feature ‘verbform’: gerundive (as opposed to the gerund) in Latin.</li>
   <li>New value ‘dim’ of the feature ‘degree’: diminutive (used for nouns e.g. in Dutch: <em>stoeltje, huisje, nippertje</em>)</li>
 </ul>
-
-<p>There are automatically generated approximate
-<a href="tagset-conversion/">conversion tables</a>
-from existing tagsets of various languages to the universal part-of-speech tags and features.</p>
 
 
       </div>
