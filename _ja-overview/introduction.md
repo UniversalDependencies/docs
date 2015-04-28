@@ -15,6 +15,8 @@ We also try to construct conversion rules on 'Balanced Corpus of Contemporary Wr
 
 UD annotation scheme is far from Japanese linguistic researches for several layers.
 
+# Background Information
+
 ## Word Unit
 
 ### Overview of Word Unit
