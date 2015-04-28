@@ -25,6 +25,13 @@ They have their own language-specific documentation that describes what is the m
 how the list of values is modified for the layer (if at all),
 and provides layer-specific examples.
 
+The universal features are mostly derived from the
+<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
+(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
+Interset contains additional features that have not yet been adopted as
+universal features. However, they may be used, if necessary, as part of the
+"language-specific extensions" to the universal features.
+
 There are automatically generated approximate
 <a href="tagset-conversion/">conversion tables</a>
 from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
@@ -38,6 +45,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
+## AdvType
+* [Interset](ext-feat/AdvType): Man, Loc, Tim, Deg, Cau, Mod, Sta, Ex, Adadj
+
 ## ConjType
 * [Czech values](cs-feat/ConjType): Oper
 * [Interset](ext-feat/ConjType): Comp, Oper
@@ -47,6 +57,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Derivation
 * [Finnish values](fi-feat/Derivation): Minen, Sti, Inen, Lainen, Ja, Ton, Vs, Ttain, Ttaa
+
+## Echo
+* [Interset](ext-feat/Echo): Rdp, Ech
 
 ## Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
@@ -68,6 +81,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 * [Interset](ext-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 
+## NounType
+* [Interset](ext-feat/NounType): Com, Prop, Class
+
 ## Number[psor]
 * <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
 * <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
@@ -84,13 +100,28 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## PartForm
 * [Finnish values](fi-feat/PartForm): Pres, Past, Agt, Neg
 
+## PartType
+* [Interset](ext-feat/PartType): Mod, Emp, Res, Inf, Vbp
+
 ## Person[psor]
 * <a href="fi/feat/Person-psor.html">Finnish values</a>: 1, 2, 3
 * [Interset](ext-feat/PossPerson): 1, 2, 3
 
+## Polite
+* [Interset](ext-feat/Polite): Inf, Pol
+
+## Prefix
+* [Interset](ext-feat/Prefix): Yes
+
 ## PrepCase
 * [Czech values](cs-feat/PrepCase): Npr, Pre
 * [Interset](ext-feat/PrepCase): Npr, Pre
+
+## PunctSide
+* [Interset](ext-feat/PunctSide): Ini, Fin
+
+## PunctType
+* [Interset](ext-feat/PunctType): Peri, Qest, Excl, Quot, Brck, Comm, Colo, Semi, Dash
 
 ## Style
 * [Czech values](cs-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
@@ -104,36 +135,16 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
 
+## VerbType
+* [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
+
 # Interset features that are not part of this standard
-
-The universal features are mostly derived from the
-<a href="http://ufal.mff.cuni.cz/interset">Interset Project</a>
-(<a href="http://ufal.mff.cuni.cz/~zeman/publikace/2008-02/tagdrivers-marrakech-styl-lrec.pdf">Zeman, 2008</a>).
-Interset contains additional features that have not yet been adopted as
-universal features. However, they may be used, if necessary, as part of the
-"language-specific extensions" to the universal features.
-
-The following Interset features are currently neither adopted as universal features,
-nor have they been used in one of the languages as language- or treebank-specific features.
-
-* <a href="u/ext-feat/AdvType.html">AdvType</a>
-* <a href="u/ext-feat/Echo.html">Echo</a>
-* <a href="u/ext-feat/NounType.html">NounType</a>
-* <a href="u/ext-feat/PartType.html">PartType</a>
-* <a href="u/ext-feat/Polite.html">Polite</a>
-* <a href="u/ext-feat/Prefix.html">Prefix</a>
-* <a href="u/ext-feat/PunctSide.html">PunctSide</a>
-* <a href="u/ext-feat/PunctType.html">PunctType</a>
-* <a href="u/ext-feat/VerbType.html">VerbType</a>
 
 The following Interset features are not used under their Interset names but they are included
 through the
 <a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
 * <a href="u/ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
-* <a href="u/ext-feat/PossGender.html">PossGender</a> = `Gender[psor]`
-* <a href="u/ext-feat/PossNumber.html">PossNumber</a> = `Number[psor]`
-* <a href="u/ext-feat/PossPerson.html">PossPerson</a> = `Person[psor]`
 * AbsPerson = `Person[abs]`
 * ErgPerson = `Person[erg]`
 * DatPerson = `Person[dat]`
