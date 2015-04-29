@@ -111,6 +111,16 @@ from existing tagsets of various languages to the universal part-of-speech tags 
   <li><a href="ext-feat/Foreign">Interset</a>: Foreign, Fscript, Tscript</li>
 </ul>
 
+<h2 id="genderdat">Gender[dat]</h2>
+<ul>
+  <li><a href="ext-feat/ErgDatGender">Interset</a>: Masc, Fem</li>
+</ul>
+
+<h2 id="gendererg">Gender[erg]</h2>
+<ul>
+  <li><a href="ext-feat/ErgDatGender">Interset</a>: Masc, Fem</li>
+</ul>
+
 <h2 id="genderpsor">Gender[psor]</h2>
 <ul>
   <li><a href="cs/feat/Gender-psor.html">Czech values</a>: Masc, Fem</li>
@@ -273,18 +283,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
   <li><a href="ext-feat/VerbType">Interset</a>: Aux, Cop, Mod, Light</li>
 </ul>
 
-<h1 id="interset-features-that-are-not-part-of-this-standard">Interset features that are not part of this standard</h1>
+<h1 id="additional-language-specific-values-for-universal-features">Additional language-specific values for universal features</h1>
 
-<p>The following Interset features are not used under their Interset names but they are included
-through the
-<a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:</p>
-
-<ul>
-  <li>ErgGender = <code>Gender[erg]</code></li>
-  <li>DatGender = <code>Gender[dat]</code></li>
-</ul>
-
-<p>The following features are included in the universal standard, but some values are missing there:</p>
+<p>The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:</p>
 
 <ul>
   <li><a href="u/feat/PronType.html"><tt>PronType</tt></a><code>=Exc</code> … exclamative pronoun or determiner. It expresses the speaker’s surprise towards the modified noun, e.g. <em>what</em> in <em><b>What</b> a surprise!</em> In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).</li>
