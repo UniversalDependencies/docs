@@ -23,6 +23,20 @@ _gu_ stands for “we” (ergative argument is the subject of transitive verbs).
 * `Number[erg]` is the number of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called `ergnumber`.
 * `Number[dat]` is the number of the dative argument of the verb. The corresponding feature in Interset 2.041 is called `datnumber`.
 
+One may want to use just `Number` instead of `Number[abs]`.
+However, there are two issues with that (at least in Basque).
+First, the absolutive argument is not always the subject. For transitive verbs, it is the object, so the parallelism with nominative-accusative languages would be weak anyway.
+Second, and more important, some Basque finite verbs have additional morphemes of nominal inflection.
+Thus their form reflects the person-number agreement with the absolutive argument _(nor)_, and nominal inflection (case, number etc.) at the same time.
+Examples: _dena_ (`Number=Sing|Number[abs]=Sing`),
+_dituena_ (`Number=Sing|Number[abs]=Plur|Number[erg]=Sing`),
+_dugunak_ (`Number=Plur|Number[abs]=Sing|Number[erg]=Plur`),
+_direnak_ (`Number=Plur|Number[abs]=Plur`).
+So we reserve the `Number` feature for nominal inflection, and the `Number[abs]` feature for agreement.
+
+Note that we also define `Person[abs]` and `Polite[abs]`, although there is no direct conflict for these features.
+But it is better to have these features aligned with `Person[erg]`, `Polite[erg]`, `Person[dat]` and `Polite[dat]`.
+
 ### Sing: singular
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`

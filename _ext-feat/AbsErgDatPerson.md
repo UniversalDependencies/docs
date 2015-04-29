@@ -23,6 +23,12 @@ _gu_ stands for “we” (ergative argument is the subject of transitive verbs).
 * `Person[erg]` is the person of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called `ergperson`.
 * `Person[dat]` is the person of the dative argument of the verb. The corresponding feature in Interset 2.041 is called `datperson`.
 
+One may want to use just `Person` instead of `Person[abs]`.
+However, there are two issues with that (at least in Basque).
+First, the absolutive argument is not always the subject. For transitive verbs, it is the object, so the parallelism with nominative-accusative languages would be weak anyway.
+Second, we cannot avoid `Number[abs]` (both `Number` and `Number[abs]` can occur at one word)
+and thus we keep `Person[abs]` to demonstrate that it is the same layer of agreement for both the features.
+
 ### 1: first person
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Person[erg]=1`

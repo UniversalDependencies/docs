@@ -24,6 +24,12 @@ _gu_ stands for “we” (ergative argument is the subject of transitive verbs).
 * `Polite[erg]` is the politeness of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called `ergpoliteness`.
 * `Polite[dat]` is the politeness of the dative argument of the verb. The corresponding feature in Interset 2.041 is called `datpoliteness`.
 
+One may want to use just `Polite` instead of `Polite[abs]`.
+However, there are two issues with that (at least in Basque).
+First, the absolutive argument is not always the subject. For transitive verbs, it is the object, so the parallelism with nominative-accusative languages would be weak anyway.
+Second, we cannot avoid `Number[abs]` (both `Number` and `Number[abs]` can occur at one word)
+and thus we keep `Polite[abs]` to demonstrate that it is the same layer of agreement for both the features.
+
 ### Inf: informal
 
 Examples: [eu] _ezan, ezak_ `Polite[erg]=Inf`
