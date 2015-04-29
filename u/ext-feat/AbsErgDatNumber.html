@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>AbsErgDatPerson</title>
+    <title>AbsErgDatNumber</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -18,7 +18,7 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-ext">home</a></span>
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/ext/feat">ext/feat</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/AbsErgDatPerson.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ext-feat/AbsErgDatNumber.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,11 +32,11 @@
 	  </div>
 	</noscript>
 
-          <h2><code>AbsErgDatPerson</code>: person agreement with absolutive/ergative/dative argument</h2>
+          <h2><code>AbsErgDatNumber</code>: number agreement with absolutive/ergative/dative argument</h2>
 
-<h2 id="personabs-personerg-persondat">Person[abs], Person[erg], Person[dat]</h2>
+<h2 id="numberabs-numbererg-numberdat">Number[abs], Number[erg], Number[dat]</h2>
 
-<p>Finite verbs in many Indo-European languages agree in <a href="u-feat/Person">person</a> and number with their subject.
+<p>Finite verbs in many Indo-European languages agree in person and <a href="u-feat/Number">number</a> with their subject.
 In Basque (a <a href="http://en.wikipedia.org/wiki/Polypersonal_agreement">polypersonal language</a>),
 certain verbs overtly mark agreement with up to three arguments:
 one in the absolutive <a href="u-feat/Case">case</a>,
@@ -50,22 +50,18 @@ Thus in <em>dakarkiogu</em> “we bring it to him/her”,
 <em>gu</em> stands for “we” (ergative argument is the subject of transitive verbs).</p>
 
 <ul>
-  <li><code>Person[abs]</code> is the person of the absolutive argument of the verb. The corresponding feature in Interset 2.041 is called <code>absperson</code>.</li>
-  <li><code>Person[erg]</code> is the person of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called <code>ergperson</code>.</li>
-  <li><code>Person[dat]</code> is the person of the dative argument of the verb. The corresponding feature in Interset 2.041 is called <code>datperson</code>.</li>
+  <li><code>Number[abs]</code> is the number of the absolutive argument of the verb. The corresponding feature in Interset 2.041 is called <code>absnumber</code>.</li>
+  <li><code>Number[erg]</code> is the number of the ergative argument of the verb. The corresponding feature in Interset 2.041 is called <code>ergnumber</code>.</li>
+  <li><code>Number[dat]</code> is the number of the dative argument of the verb. The corresponding feature in Interset 2.041 is called <code>datnumber</code>.</li>
 </ul>
 
-<h3 id="first-person">1: first person</h3>
+<h3 id="sing-singular">Sing: singular</h3>
 
-<p>Examples: [eu] <em>dakarkio<b>gu</b></em> <code>Person[erg]=1</code></p>
+<p>Examples: [eu] <em><b>d</b>akarki<b>o</b>gu</em> <code>Number[abs]=Sing|Number[dat]=Sing</code></p>
 
-<h3 id="second-person">2: second person</h3>
+<h3 id="plur-plural">Plur: plural</h3>
 
-<p>Examples: [eu] <em>dakarkio<b>zu</b></em> <code>Person[erg]=2</code></p>
-
-<h3 id="third-person">3: third person</h3>
-
-<p>Examples: [eu] <em><b>d</b>akarki<b>o</b>gu</em> <code>Person[abs]=3|Person[dat]=3</code></p>
+<p>Examples: [eu] <em>dakarkio<b>gu</b></em> <code>Number[erg]=Plur</code></p>
 
 
 <!-- "in other languages" links -->
