@@ -1,10 +1,12 @@
 ---
 layout: feature
-title: 'Person[abs], Person[erg], Person[dat]'
+title: 'AbsErgDatPerson'
 shortdef: 'person agreement with absolutive/ergative/dative argument'
 ---
 
-Finite verbs in many Indo-European languages agree in person and number with their subject.
+## Person[abs], Person[erg], Person[dat]
+
+Finite verbs in many Indo-European languages agree in [person](u-feat/Person) and number with their subject.
 In Basque (a <a href="http://en.wikipedia.org/wiki/Polypersonal_agreement">polypersonal language</a>),
 certain verbs overtly mark agreement with up to three arguments:
 one in the absolutive [case](u-feat/Case),
