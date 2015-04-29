@@ -55,6 +55,20 @@ Thus in <em>dakarkiogu</em> “we bring it to him/her”,
   <li><code>Number[dat]</code> is the number of the dative argument of the verb. The corresponding feature in Interset 2.041 is called <code>datnumber</code>.</li>
 </ul>
 
+<p>One may want to use just <code>Number</code> instead of <code>Number[abs]</code>.
+However, there are two issues with that (at least in Basque).
+First, the absolutive argument is not always the subject. For transitive verbs, it is the object, so the parallelism with nominative-accusative languages would be weak anyway.
+Second, and more important, some Basque finite verbs have additional morphemes of nominal inflection.
+Thus their form reflects the person-number agreement with the absolutive argument <em>(nor)</em>, and nominal inflection (case, number etc.) at the same time.
+Examples: <em>dena</em> (<code>Number=Sing|Number[abs]=Sing</code>),
+<em>dituena</em> (<code>Number=Sing|Number[abs]=Plur|Number[erg]=Sing</code>),
+<em>dugunak</em> (<code>Number=Plur|Number[abs]=Sing|Number[erg]=Plur</code>),
+<em>direnak</em> (<code>Number=Plur|Number[abs]=Plur</code>).
+So we reserve the <code>Number</code> feature for nominal inflection, and the <code>Number[abs]</code> feature for agreement.</p>
+
+<p>Note that we also define <code>Person[abs]</code> and <code>Polite[abs]</code>, although there is no direct conflict for these features.
+But it is better to have these features aligned with <code>Person[erg]</code>, <code>Polite[erg]</code>, <code>Person[dat]</code> and <code>Polite[dat]</code>.</p>
+
 <h3 id="sing-singular">Sing: singular</h3>
 
 <p>Examples: [eu] <em><b>d</b>akarki<b>o</b>gu</em> <code>Number[abs]=Sing|Number[dat]=Sing</code></p>
