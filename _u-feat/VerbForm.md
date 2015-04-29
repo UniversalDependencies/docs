@@ -34,7 +34,7 @@ used as such (similar to the gerund in English).
 
 #### Examples
 
-* [de] _ich muss _<b>_gehen_</b> "I must <b>go</b>"
+* [de] _ich muss <b>gehen</b>_ “I must <b>go</b>”
 
 ### `Sup`: supine
 
