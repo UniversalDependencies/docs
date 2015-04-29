@@ -84,6 +84,15 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## NounType
 * [Interset](ext-feat/NounType): Com, Prop, Class
 
+## Number[abs]
+* [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
+
+## Number[dat]
+* [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
+
+## Number[erg]
+* [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
+
 ## Number[psee]
 * [Interset](ext-feat/PossedNumber): Sing, Plur
 
@@ -156,9 +165,6 @@ The following Interset features are not used under their Interset names but they
 through the
 <a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
-* AbsNumber = `Number[abs]`
-* ErgNumber = `Number[erg]`
-* DatNumber = `Number[dat]`
 * AbsPolite = `Polite[abs]`
 * ErgPolite = `Polite[erg]`
 * DatPolite = `Polite[dat]`
