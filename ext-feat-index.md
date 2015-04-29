@@ -106,6 +106,15 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## PartType
 * [Interset](ext-feat/PartType): Mod, Emp, Res, Inf, Vbp
 
+## Person[abs]
+* [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
+
+## Person[dat]
+* [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
+
+## Person[erg]
+* [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
+
 ## Person[psor]
 * <a href="fi/feat/Person-psor.html">Finnish values</a>: 1, 2, 3
 * [Interset](ext-feat/PossPerson): 1, 2, 3
@@ -147,9 +156,6 @@ The following Interset features are not used under their Interset names but they
 through the
 <a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
-* AbsPerson = `Person[abs]`
-* ErgPerson = `Person[erg]`
-* DatPerson = `Person[dat]`
 * AbsNumber = `Number[abs]`
 * ErgNumber = `Number[erg]`
 * DatNumber = `Number[dat]`
