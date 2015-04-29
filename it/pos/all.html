@@ -304,8 +304,48 @@ proper nouns and <a href="">PRON</a> for pronouns.</p>
 <p><a id="al-it-pos/NUM" class="al-dest"></a></p>
 <h2><code>NUM</code>: numeral</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NUM</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>A numeral is a word, functioning most typically as a determiner,
+adjective or pronoun, that expresses a number and a relation to the
+number, such as quantity, sequence, frequency or fraction.</p>
+
+<p>Cardinal numerals are covered by <code>NUM</code> whether they are used
+as determiners or not (as in <em>Windows <b>Seven</b></em>) and whether they
+are expressed as words <em>(four)</em>, or digits <em>(4)</em>.</p>
+
+<p>There are numerals belonging to other parts of speech in the universal
+tagging scheme, based mainly on syntactic criteria: e.g. ordinal numerals
+are tagged as <a href="ADJ">adjectives</a> <em>(first, second, third, …)</em>. 
+In Italian there are no adverbial numerals like [cs] <em>poprvé</em> “for the first time” nor multiplicative numerals such as [en] <em>(once, twice)</em>.</p>
+
+<p>Note that, since Roman numerals <em>(IV)</em> are only used as ordinal numerals in Italian (Enciclopedia Treccani), are tagged <a href="">ADJ</a> for coherence with other ordinal numerals. 
+In this case we specify <code>NumType=Ord</code> as morphological feature. 
+Similarly a cardinal number followed by <em>a</em>, <em>o</em>, <em>esimo</em>, <em>esima</em>, or the symbol <em>°</em>.</p>
+
+<p>Other words functioning as determiners (including quantifiers
+such as <em>many</em> and <em>few</em>) are tagged <a href="">DET</a>.</p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Tagged as <code>NUM</code>:</p>
+
+<ul>
+  <li><em>0, 1, 2, 3, 4, 5, 2014, 1000000, 3,14159265359</em></li>
+  <li><em>uno, due, tre, settantasette</em></li>
+</ul>
+
+<p>Tagged as <a href="">ADJ</a>:</p>
+
+<ul>
+  <li><em>XX</em> secolo </li>
+  <li>48esimo</li>
+  <li>20°</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<p><a href="http://www.treccani.it/enciclopedia/aggettivi-numerali-ordinali_%28La_grammatica_italiana%29/">Enciclopedia Treccani</a></p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-pos/NUM.md" target="#">edit NUM</a></p>
 
