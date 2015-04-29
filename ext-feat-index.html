@@ -287,27 +287,34 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 <p>The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:</p>
 
+<h2 id="degree">Degree</h2>
 <ul>
-  <li><a href="u/feat/PronType.html"><tt>PronType</tt></a><code>=Exc</code> … exclamative pronoun or determiner. It expresses the speaker’s surprise towards the modified noun, e.g. <em>what</em> in <em><b>What</b> a surprise!</em> In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).</li>
-  <li>New value ‘opt’ of the feature ‘mood’: optative mood in Ancient Greek and Turkish, to express wishes:
-“May you have a long life!” “If only I were rich!”</li>
-  <li>New value ‘des’ of the feature ‘mood’: desiderative mood in Turkish: “He wants to come.”</li>
-  <li>New value ‘nec’ of the feature ‘mood’: necessitative mood in Turkish: “He must come. He should come.”</li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>New value ‘mid’ of the feature ‘voice’: middle voice in Ancient Greek. (The mediopassive voice can be expressed as ‘mid</td>
-          <td>pass’.)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
-  <li>New value ‘rcp’ of the feature ‘voice’: reciprocal (Turkish “karıştı”, “tutuştular”)</li>
-  <li>New value ‘cau’ of the feature ‘voice’: causative (Turkish “karıştırıyor” (“is confusing”))</li>
-  <li>New value ‘int’ of the feature ‘voice’: intensive voice/aspect (the PIEL binyan) in Hebrew.</li>
-  <li>New value ‘gdv’ of the feature ‘verbform’: gerundive (as opposed to the gerund) in Latin.</li>
-  <li>New value ‘dim’ of the feature ‘degree’: diminutive (used for nouns e.g. in Dutch: <em>stoeltje, huisje, nippertje</em>)</li>
+  <li><a href="">u-feat/Degree</a><code>=Dim</code>: diminutive (used for nouns e.g. in Dutch: <em>stoeltje, huisje, nippertje</em>)</li>
+</ul>
+
+<h2 id="mood">Mood</h2>
+<ul>
+  <li><a href="">u-feat/Mood</a><code>=Opt</code>: optative mood in Ancient Greek and Turkish, to express wishes: “May you have a long life!” “If only I were rich!”</li>
+  <li><code>Mood=Des</code>: desiderative mood in Turkish: “He wants to come.”</li>
+  <li><code>Mood=Nec</code>: necessitative mood in Turkish: “He must come. He should come.”</li>
+</ul>
+
+<h2 id="prontype">PronType</h2>
+<ul>
+  <li><a href="">u-feat/PronType</a><code>=Exc</code>: exclamative pronoun or determiner. It expresses the speaker’s surprise towards the modified noun, e.g. <em>what</em> in <em><b>What</b> a surprise!</em> In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).</li>
+</ul>
+
+<h2 id="verbform">VerbForm</h2>
+<ul>
+  <li><a href="">u-feat/VerbForm</a><code>=Gdv</code>: gerundive (as opposed to the gerund) in Latin.</li>
+</ul>
+
+<h2 id="voice">Voice</h2>
+<ul>
+  <li><a href="">u-feat/Voice</a><code>=Mid</code>: middle voice in Ancient Greek. (The mediopassive voice can be expressed as <code>Voice=Mid,Pass</code>.)</li>
+  <li><code>Voice=Rcp</code>: reciprocal (Turkish <em>karıştı, tutuştular</em>)</li>
+  <li><code>Voice=Cau</code>: causative (Turkish <em>karıştırıyor</em> “is confusing”)</li>
+  <li><code>Voice=Int</code>: intensive voice/aspect (the PIEL binyan) in Hebrew.</li>
 </ul>
 
 
