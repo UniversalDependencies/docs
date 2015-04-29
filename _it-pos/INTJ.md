@@ -22,6 +22,6 @@ Are marked as interjections:
 
 Are markes as adverbs:
 
-- _Elezioni sì, elezioni no_ "Elections yes, elections no"
-- _Voteremo sì_ "We will vote yes"
+- _Elezioni sì, elezioni no_ "Elections <b>yes</b>, elections <b>no</b>"
+- _Voteremo <b>sì</b>_ "We will vote <b>yes</b>"
 
