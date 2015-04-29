@@ -15,8 +15,19 @@ We also try to construct conversion rules on 'Balanced Corpus of Contemporary Wr
 
 UD annotation scheme is far from Japanese linguistic researches for several layers.
 
-# Background Information
+# Background
 
+Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.
+
+## Basic Language Resources
+* RWCP Corpus
+* Kyoto Corpus
+* EDR Corpus
+* CSJ
+* BCCWJ
+* KNBC Corpus (free)
+* Others
+* 
 ## Word Unit
 
 ### Overview of Word Unit
@@ -65,41 +76,19 @@ IPADIC and NAIST-jdic are shared the same POS tagset.
 
 The term 'usage-based' is not exactly same as Langacker's Usage-based model.
 
-### Issues on UD Pos tagset
+### Issues on UD PoS tagset
 
 The UD doesn't define lexicon-based or usage-based PoS tagset.
 
 ## Dependency Links
 
-## Dependency Relations
-
-# Background 
-(To be written)
-
-Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.
-
-## Basic Language Resources
-* RWCP Corpus
-* Kyoto Corpus
-* EDR Corpus
-* CSJ
-* BCCWJ
-* KNBC Corpus (free)
-* Others
-
-## PoS Tagsets (with lexicon, corpus)
-* IPADIC POS Tagset (RWCP Corpus)
-* Masuoka Takubo POS Tagset (Kyoto Corpus/JUMAN)
-* UniDic POS Tagset (CSJ, BCCWJ)
-
-## Syntactic Dependency Annotation Schema (with corpus), Syntactic Dependency Parser
 * Kyoto Corpus Schema
 * CSJ Schema
 * BCCWJ-DepPara Schema
 * Word Dependency by Mori (Mori et al. 2014)
+* 
+## Dependency Relations
 
-* KNP
-* CaboCha
 
 ## Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser
 * Kyoto Corpus Schema (on Mainichi Newspaper)
@@ -116,7 +105,7 @@ Here, we describe Japanese language resources such as basic language resources, 
 * Scope of Negation for BCCWJ
 * Passive Auxiliary Verb for BCCWJ
 
-# Issues
+## Issues General
 * Both of Mainichi Newspaper and BCCWJ are non-free resources.
 
 # Contributors
@@ -133,6 +122,7 @@ Here, we describe Japanese language resources such as basic language resources, 
 ## Lexicon
 * Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
+* 
 ## Corpora
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
@@ -140,9 +130,9 @@ Here, we describe Japanese language resources such as basic language resources, 
 
 # Links
 ## Morphological Analyzer 
-* JUMAN: http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN
-* MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
-* KyTea: http://www.phontron.com/kytea/index-ja.html
+* JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
+* MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
+* KyTea: [http://www.phontron.com/kytea/index-ja.html](http://www.phontron.com/kytea/index-ja.html)
 
 ## Lexicon for Morphological Analyzer 
 * IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
@@ -152,18 +142,18 @@ Here, we describe Japanese language resources such as basic language resources, 
 * UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
 ## Chunkers (for Bunsetsu Analysis)
-* Comainu: http://comainu.org/
-* CRF++: http://taku910.github.io/crfpp/
-* YamCha: http://chasen.org/~taku/software/yamcha/
+* Comainu: [http://comainu.org/](http://comainu.org/)
+* CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
+* YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
 
 ## Bunsetsu-based Syntactic Dependency Parser
-* KNP: http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP
-* CaboCha: http://taku910.github.io/cabocha/
-* jdepp: http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/
-* Yahoo! API: http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html
+* KNP: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
+* CaboCha: [http://taku910.github.io/cabocha/](http://taku910.github.io/cabocha/)
+* jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
+* Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
 
 ## Bunsetsu-based Syntactic Dependency Annotation Corpus
-* Kyoto Corpus: http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9
-* NAIST Text Corpus: https://sites.google.com/site/naisttextcorpus/
-* Corpus of Spontaneous Japanese: http://pj.ninjal.ac.jp/corpus_center/csj/
-* Balanced Corpus of Contemporary Written Japanese: http://pj.ninjal.ac.jp/corpus_center/bccwj/
+* Kyoto Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
+* NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
+* Corpus of Spontaneous Japanese: [http://pj.ninjal.ac.jp/corpus_center/csj/](http://pj.ninjal.ac.jp/corpus_center/csj/)
+* Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
