@@ -40,21 +40,21 @@ This word unit standard was derived by the morphological analyzer ChaSen. IPADIC
 
 ### NINJAL UniDic word units: 
 NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
-- Short Unit Word (SUW): 
+* Short Unit Word (SUW): 
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
-- Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
-- Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+* Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
+* Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
 
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 
 ### Analyzers
 
-- MeCab: lexicon-based morphological analyzer by CRFs.
+* MeCab: lexicon-based morphological analyzer by CRFs.
 
-- JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
+* JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
 
-- Comainu: 
+* Comainu: compound word construction by dependency parsing model.
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
