@@ -43,9 +43,23 @@ We also try to construct conversion rules on ‘Balanced Corpus of Contemporary 
 
 <p>UD annotation scheme is far from Japanese linguistic researches for several layers.</p>
 
-<h1 id="background-information">Background Information</h1>
+<h1 id="background">Background</h1>
 
-<h2 id="word-unit">Word Unit</h2>
+<p>Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.</p>
+
+<h2 id="basic-language-resources">Basic Language Resources</h2>
+<ul>
+  <li>RWCP Corpus</li>
+  <li>Kyoto Corpus</li>
+  <li>EDR Corpus</li>
+  <li>CSJ</li>
+  <li>BCCWJ</li>
+  <li>KNBC Corpus (free)</li>
+  <li>Others</li>
+  <li>
+    <h2 id="word-unit">Word Unit</h2>
+  </li>
+</ul>
 
 <h3 id="overview-of-word-unit">Overview of Word Unit</h3>
 <p>Japanese sentences are not split into words or morphemes by spaces.
@@ -99,47 +113,20 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 
 <p>The term ‘usage-based’ is not exactly same as Langacker’s Usage-based model.</p>
 
-<h3 id="issues-on-ud-pos-tagset">Issues on UD Pos tagset</h3>
+<h3 id="issues-on-ud-pos-tagset">Issues on UD PoS tagset</h3>
 
 <p>The UD doesn’t define lexicon-based or usage-based PoS tagset.</p>
 
 <h2 id="dependency-links">Dependency Links</h2>
 
-<h2 id="dependency-relations">Dependency Relations</h2>
-
-<h1 id="background">Background</h1>
-<p>(To be written)</p>
-
-<p>Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.</p>
-
-<h2 id="basic-language-resources">Basic Language Resources</h2>
-<ul>
-  <li>RWCP Corpus</li>
-  <li>Kyoto Corpus</li>
-  <li>EDR Corpus</li>
-  <li>CSJ</li>
-  <li>BCCWJ</li>
-  <li>KNBC Corpus (free)</li>
-  <li>Others</li>
-</ul>
-
-<h2 id="pos-tagsets-with-lexicon-corpus">PoS Tagsets (with lexicon, corpus)</h2>
-<ul>
-  <li>IPADIC POS Tagset (RWCP Corpus)</li>
-  <li>Masuoka Takubo POS Tagset (Kyoto Corpus/JUMAN)</li>
-  <li>UniDic POS Tagset (CSJ, BCCWJ)</li>
-</ul>
-
-<h2 id="syntactic-dependency-annotation-schema-with-corpus-syntactic-dependency-parser">Syntactic Dependency Annotation Schema (with corpus), Syntactic Dependency Parser</h2>
 <ul>
   <li>Kyoto Corpus Schema</li>
   <li>CSJ Schema</li>
   <li>BCCWJ-DepPara Schema</li>
+  <li>Word Dependency by Mori (Mori et al. 2014)</li>
   <li>
-    <p>Word Dependency by Mori (Mori et al. 2014)</p>
+    <h2 id="dependency-relations">Dependency Relations</h2>
   </li>
-  <li>KNP</li>
-  <li>CaboCha</li>
 </ul>
 
 <h2 id="semantic-dependency-annotation-schema-with-corpus-semantic-dependency-parser">Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser</h2>
@@ -164,7 +151,7 @@ The standard is used as the most fine grained morpheme for the corpus statistics
   <li>Passive Auxiliary Verb for BCCWJ</li>
 </ul>
 
-<h1 id="issues">Issues</h1>
+<h2 id="issues-general">Issues General</h2>
 <ul>
   <li>Both of Mainichi Newspaper and BCCWJ are non-free resources.</li>
 </ul>
@@ -185,8 +172,10 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 <h2 id="lexicon">Lexicon</h2>
 <ul>
   <li>Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. ‘<a href="http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf">A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.</a>’. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).</li>
-  <li>Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 ‘<a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf">UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese</a>’. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
-## Corpora</li>
+  <li>Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 ‘<a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf">UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese</a>’. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).</li>
+  <li>
+    <h2 id="corpora">Corpora</h2>
+  </li>
   <li>Takaaki Tanaka and Masaaki Nagata. 2013. ‘<a href="http://www.aclweb.org/anthology/W13-4913">Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels</a>’ In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages</li>
   <li>Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. ‘<a href="http://link.springer.com/article/10.1007/s10579-013-9261-0">Balanced corpus of contemporary written Japanese</a>’. Language Resources and Evaluation 48 (2), pp.345-371</li>
   <li>Shinsuke Mori, and Hideki Ogura and Tetsuro Sasada. 2014. ‘<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/42_Paper.pdf">A Japanese Word Dependency Corpus</a>’ In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14)</li>
@@ -194,9 +183,9 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 
 <h1 id="links">Links</h1>
 <p>## Morphological Analyzer 
-* JUMAN: http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN
-* MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
-* KyTea: http://www.phontron.com/kytea/index-ja.html</p>
+* JUMAN: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN">http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN</a>
+* MeCab: <a href="http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html">http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html</a>
+* KyTea: <a href="http://www.phontron.com/kytea/index-ja.html">http://www.phontron.com/kytea/index-ja.html</a></p>
 
 <h2 id="lexicon-for-morphological-analyzer">Lexicon for Morphological Analyzer</h2>
 <ul>
@@ -209,25 +198,25 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 
 <h2 id="chunkers-for-bunsetsu-analysis">Chunkers (for Bunsetsu Analysis)</h2>
 <ul>
-  <li>Comainu: http://comainu.org/</li>
-  <li>CRF++: http://taku910.github.io/crfpp/</li>
-  <li>YamCha: http://chasen.org/~taku/software/yamcha/</li>
+  <li>Comainu: <a href="http://comainu.org/">http://comainu.org/</a></li>
+  <li>CRF++: <a href="http://taku910.github.io/crfpp/">http://taku910.github.io/crfpp/</a></li>
+  <li>YamCha: <a href="http://chasen.org/~taku/software/yamcha/">http://chasen.org/~taku/software/yamcha/</a></li>
 </ul>
 
 <h2 id="bunsetsu-based-syntactic-dependency-parser">Bunsetsu-based Syntactic Dependency Parser</h2>
 <ul>
-  <li>KNP: http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP</li>
-  <li>CaboCha: http://taku910.github.io/cabocha/</li>
-  <li>jdepp: http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/</li>
-  <li>Yahoo! API: http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html</li>
+  <li>KNP: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP">http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP</a></li>
+  <li>CaboCha: <a href="http://taku910.github.io/cabocha/">http://taku910.github.io/cabocha/</a></li>
+  <li>jdepp: <a href="http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/">http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/</a></li>
+  <li>Yahoo! API: <a href="http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html">http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html</a></li>
 </ul>
 
 <h2 id="bunsetsu-based-syntactic-dependency-annotation-corpus">Bunsetsu-based Syntactic Dependency Annotation Corpus</h2>
 <ul>
-  <li>Kyoto Corpus: http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9</li>
-  <li>NAIST Text Corpus: https://sites.google.com/site/naisttextcorpus/</li>
-  <li>Corpus of Spontaneous Japanese: http://pj.ninjal.ac.jp/corpus_center/csj/</li>
-  <li>Balanced Corpus of Contemporary Written Japanese: http://pj.ninjal.ac.jp/corpus_center/bccwj/</li>
+  <li>Kyoto Corpus: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9">page</a></li>
+  <li>NAIST Text Corpus: <a href="https://sites.google.com/site/naisttextcorpus/">https://sites.google.com/site/naisttextcorpus/</a></li>
+  <li>Corpus of Spontaneous Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/csj/">http://pj.ninjal.ac.jp/corpus_center/csj/</a></li>
+  <li>Balanced Corpus of Contemporary Written Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/bccwj/">http://pj.ninjal.ac.jp/corpus_center/bccwj/</a></li>
 </ul>
 
 
