@@ -66,6 +66,12 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
+## Gender[dat]
+* [Interset](ext-feat/ErgDatGender): Masc, Fem
+
+## Gender[erg]
+* [Interset](ext-feat/ErgDatGender): Masc, Fem
+
 ## Gender[psor]
 * <a href="cs/feat/Gender-psor.html">Czech values</a>: Masc, Fem
 * [Interset](ext-feat/PossGender): Masc, Fem
@@ -168,16 +174,11 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## VerbType
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
 
-# Interset features that are not part of this standard
 
-The following Interset features are not used under their Interset names but they are included
-through the
-<a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
-* ErgGender = `Gender[erg]`
-* DatGender = `Gender[dat]`
+# Additional language-specific values for universal features
 
-The following features are included in the universal standard, but some values are missing there:
+The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:
 
 * <a href="u/feat/PronType.html"><tt>PronType</tt></a>`=Exc` … exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).
 * New value 'opt' of the feature 'mood': optative mood in Ancient Greek and Turkish, to express wishes:
