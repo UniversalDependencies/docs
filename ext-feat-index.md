@@ -84,6 +84,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## NounType
 * [Interset](ext-feat/NounType): Com, Prop, Class
 
+## Number[psee]
+* [Interset](ext-feat/PossedNumber): Sing, Plur
+
 ## Number[psor]
 * <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
 * <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
@@ -144,7 +147,6 @@ The following Interset features are not used under their Interset names but they
 through the
 <a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
-* <a href="u/ext-feat/PossedNumber.html">PossedNumber</a> = `Number[psee]`
 * AbsPerson = `Person[abs]`
 * ErgPerson = `Person[erg]`
 * DatPerson = `Person[dat]`
