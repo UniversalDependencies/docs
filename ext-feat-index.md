@@ -131,6 +131,15 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Polite
 * [Interset](ext-feat/Polite): Inf, Pol
 
+## Polite[abs]
+* [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
+
+## Polite[erg]
+* [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
+
+## Polite[dat]
+* [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
+
 ## Prefix
 * [Interset](ext-feat/Prefix): Yes
 
@@ -165,9 +174,6 @@ The following Interset features are not used under their Interset names but they
 through the
 <a href="http://universaldependencies.github.io/docs/u/overview/feat-layers.html">layered feature scheme</a>:
 
-* AbsPolite = `Polite[abs]`
-* ErgPolite = `Polite[erg]`
-* DatPolite = `Polite[dat]`
 * ErgGender = `Gender[erg]`
 * DatGender = `Gender[dat]`
 
