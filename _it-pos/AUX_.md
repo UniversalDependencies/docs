@@ -19,5 +19,5 @@ _Modal verbs_, such as _dovere_ "to have to" and _potere_ "to can" may serve as 
 ### Examples
 
 - Tense auxiliaries: _<b>ha</b> fatto_ "he has done", _<b>è</b> arrivato_ "he has arrived", _<b>sarà</b> finito_ "it will be finished"
-- Passive auxiliaries: _<b>fu</b> distrutto_ "it was destroyed", _<b>è stato</b> comprato_ "it ha been bought"
-- Modal auxiliaries: _<b>dovrebbe</b> fare_ "he should do", _<b>può</b> avere successo_ "he can succeed"
+- Passive auxiliaries: _<b>fu</b> distrutto_ "it was destroyed", _<b>è stato</b> comprato_ "it has been bought"
+- Modal auxiliaries: _<b>dovrebbe</b> fare_ "he should do", _<b>può</b> avere successo_ "he can have success"
