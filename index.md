@@ -35,9 +35,9 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovene</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-sl">Slovene</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -460,6 +460,32 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
+<!-- "Slovene" tab -->
+<div id="language-sl" markdown="1" class="ui-tabs-hide">
+{% include sl-status-table.html %}
+
+[Introduction](sl/overview/introduction.html)
+
+* [Tokenization](sl/overview/tokenization.html)
+* Morphology
+  * [General principles](sl/overview/morphology.html)
+  * [Slovene POS tags](sl/pos/index.html) ([single document](sl/pos/all.html))
+  * [Slovene features](sl/feat/index.html) ([single document](sl/feat/all.html))
+* Syntax
+  * [General principles](sl/overview/syntax.html)
+  * [Specific constructions](sl/overview/specific-syntax.html)
+  * [Slovene dependency relations](sl/dep/index.html) ([single document](sl/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
 <!-- "Spanish" tab -->
 <div id="language-es" markdown="1" class="ui-tabs-hide">
 {% include es-status-table.html %}
@@ -498,32 +524,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-</div>
-
-<!-- "Slovene" tab -->
-<div id="language-sl" markdown="1" class="ui-tabs-hide">
-{% include sl-status-table.html %}
-
-[Introduction](sl/overview/introduction.html)
-
-* [Tokenization](sl/overview/tokenization.html)
-* Morphology
-  * [General principles](sl/overview/morphology.html)
-  * [Slovene POS tags](sl/pos/index.html) ([single document](sl/pos/all.html))
-  * [Slovene features](sl/feat/index.html) ([single document](sl/feat/all.html))
-* Syntax
-  * [General principles](sl/overview/syntax.html)
-  * [Specific constructions](sl/overview/specific-syntax.html)
-  * [Slovene dependency relations](sl/dep/index.html) ([single document](sl/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- new tab template -->
