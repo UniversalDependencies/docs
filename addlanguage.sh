@@ -45,7 +45,7 @@ done
 # code in the copied materials:
 perl -p -i -e 's/template/'"$lc"'/' "_${lc}-"{overview,pos,feat,dep}/*.md
 
-tmp=`mktemp`
+tmp=`mktemp addlanguage-tmp-XXX`
 
 # add the newly created collections to config.yml.
 (perl -pe 'exit if(/^# Template\s*$/)' _config.yml;
