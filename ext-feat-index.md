@@ -183,11 +183,6 @@ The following features are included in the <a href="u/feat/index.html">universal
 ## Degree
 * [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
 
-## Mood
-* [u-feat/Mood]()` = Opt`: optative mood in Ancient Greek and Turkish, to express wishes: “May you have a long life!” “If only I were rich!”
-* `Mood = Des`: desiderative mood in Turkish: “He wants to come.”
-* `Mood = Nec`: necessitative mood in Turkish: “He must come. He should come.”
-
 ## PronType
 * [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).
 
@@ -196,6 +191,4 @@ The following features are included in the <a href="u/feat/index.html">universal
 
 ## Voice
 * [u-feat/Voice]()` = Mid`: middle voice in Ancient Greek. (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
-* `Voice = Rcp`: reciprocal (Turkish _kar&#305;şt&#305;, tutuştular_)
-* `Voice = Cau`: causative (Turkish _kar&#305;şt&#305;r&#305;yor_ “is confusing”)
 * `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
