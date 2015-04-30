@@ -301,6 +301,20 @@ collections:
   ro-overview:
     output: true
 #
+# Slovene
+#
+  sl-pos:
+    output: true
+    permalink: /sl/pos/:path.html
+  sl-feat:
+    output: true
+    permalink: /sl/feat/:path.html
+  sl-dep:
+    output: true
+    permalink: /sl/dep/:path.html
+  sl-overview:
+    output: true
+#
 # Template
 #
   template-pos:
