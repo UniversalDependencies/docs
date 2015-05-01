@@ -97,7 +97,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu
-<!--* <a href="index.html#language-es">Spanish</a>: Miguel Ballesteros, Ryan Mcdonald-->
+* <a href="index.html#language-es">Spanish</a>: Miguel Ballesteros, Ryan Mcdonald
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
 
 ## References
