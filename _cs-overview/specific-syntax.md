@@ -255,7 +255,7 @@ _A co na to [říká] MF?_
 “And what [does] MF [say] to it?”
 If there is just one orphaned noun phrase, it is promoted to the top position and its head is
 labeled [cs-dep/root]().
-However, if there are multiple orphans, each of them is attached to root and we get multiple top nodes:
+However, if there are multiple orphans, each of them is attached to the root and we get multiple top nodes:
 
 ~~~ sdparse
 ROOT A co na to MF ? \n ROOT And what to it MF ?
