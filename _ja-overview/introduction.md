@@ -82,11 +82,16 @@ The UD doesn't define lexicon-based or usage-based PoS tagset.
 
 ## Dependency Links
 
+### General Description
+* Strictly Head Final
+* Arrow from modifier to head 
+### Annotation Schema
 * Kyoto Corpus Schema
+Label: D, P, I, A
 * CSJ Schema
 * BCCWJ-DepPara Schema
 * Word Dependency by Mori (Mori et al. 2014)
-* 
+
 ## Dependency Relations
 
 
@@ -94,9 +99,7 @@ The UD doesn't define lexicon-based or usage-based PoS tagset.
 * Kyoto Corpus Schema (on Mainichi Newspaper)
 * NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)
 
-* KNP
-* YuCha
-* ChaPas
+
 
 ## Syntactic phrase structure tree annotations
 * NTT Japanese phrase structure treebank
