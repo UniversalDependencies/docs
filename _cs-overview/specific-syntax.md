@@ -180,3 +180,93 @@ mwe(more, than)
 punct(pravděpodobné, .-6)
 punct(likely, .-13)
 ~~~
+
+## Ellipsis
+
+Ellipsis means that there is something missing in the sentence.
+Something that has been omitted from the surface form, although it is understood by both the speaker and the listener.
+Various phenomena can be classified as ellipsis;
+the most important and difficult are those where the missing word has dependents.
+Where do we attach these _orphans_ to?
+
+Several different solutions can be found in treebanks.
+One of them is to include an **empty node** (labeled `NULL`, `#Fantom` etc.) that represents the missing word.
+Orphans are then attached to the empty node with their real dependency relation labels.
+Such analysis would be linguistically adequate but it would violate our principle that dependencies exist
+between real syntactic words. (It would also make parsing more difficult.)
+We do not insert empty nodes.
+
+If empty nodes are not an option, some treebanks attach all orphans to the **grandparent,**
+i.e. to the parent of the missing parent node. Then they may
+
+* keep the labels they would have if attached to the missing parent (but that would yield strange combinations of parts of speech and dependency relations)
+* get a special label such as the `ExD` in Prague-style treebanks (it does not say much but at least it warns the user that this relation is not a normal dependency)
+* combine both (in the Danish treebank, the original labels are surrounded by angle brackets to indicate that this is not the real parent; in the Ancient Greek and Latin treebanks, the labels on the path via missing node(s) are chained into one long label)
+
+Another possibility is that one of the orphans gets **promoted** to the place of the missing parent
+and the other orphans are attached to it.
+
+We use a combination of approaches in the Czech UD. The only limitation is that we do not reconstruct nodes that
+are not present in the surface sentence form.
+
+If the head noun is missing from a noun phrase, i.e. there is just an adjective, possibly also a numeral or
+a determiner, then one orphan is selected as the main dependent and it gets promoted:
+
+~~~ sdparse
+Zatímco mně zbylo pět malých zelených jablíček , Petra měla tři velká červená . \n While to-me remained five small green apples , Petra had three big red .
+dobj(měla, červená)
+dobj(had, red)
+nummod(červená, tři)
+nummod(red, three)
+amod(červená, velká)
+amod(red, big)
+~~~
+
+Note that Czech does not have promotion of auxiliaries like in English _I did not come but he did._
+
+We do not use promotion when a verb is missing and two or more arguments of the verb are present.
+A frequent special case of this is coordination of clauses that share the same verb but only the
+first occurrence of the verb is retained on the surface, while the other copies have been deleted
+and only their dependents remain:
+_Pavel si objednal hovězí a Markéta [si objednala] vepřové._
+“Pavel ordered beef and Markéta [ordered] pork.”
+Universal Dependencies annnotate such cases using the [cs-dep/remnant]() relation,
+which enables reconstruction of the functions of the arguments,
+without inserting an empty node for the missing verb:
+
+~~~ sdparse
+Pavel si objednal hovězí a Markéta vepřové . \n Pavel himself ordered beef and Markéta pork .
+nsubj(objednal, Pavel-1)
+nsubj(ordered, Pavel-10)
+dobj(objednal, hovězí)
+dobj(ordered, beef)
+remnant(Pavel-1, Markéta-6)
+remnant(Pavel-10, Markéta-15)
+remnant(hovězí, vepřové)
+remnant(beef, pork)
+~~~
+
+Sometimes a verb is missing but there is no coordination and no overt copy of the verb,
+hence we cannot use the `remnant` analysis.
+In particular, there are sentence-like segments that lack the main verb:
+_A co na to [říká] MF?_
+“And what [does] MF [say] to it?”
+If there is just one orphaned noun phrase, it is promoted to the top position and its head is
+labeled [cs-dep/root]().
+However, if there are multiple orphans, each of them is attached to root and we get multiple top nodes:
+
+~~~ sdparse
+ROOT A co na to MF ? \n ROOT And what to it MF ?
+root(ROOT-1, A)
+root(ROOT-9, And)
+root(ROOT-1, co)
+root(ROOT-9, what)
+root(ROOT-1, to-5)
+root(ROOT-9, it)
+case(to-5, na)
+case(it, to-12)
+root(ROOT-1, MF-6)
+root(ROOT-9, MF-14)
+root(ROOT-1, ?-7)
+root(ROOT-9, ?-15)
+~~~
