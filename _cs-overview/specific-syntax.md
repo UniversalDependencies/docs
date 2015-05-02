@@ -98,6 +98,26 @@ The limiting case is that only a nominal is present; then we analyze it as an [c
 _Martin is more intelligent than Vojta_ as a reduced expression of _Martin is more intelligent than how Vojta is intelligent._
 We lean towards minimizing the postulation of unobserved structure and opt to treat these cases as just an oblique nominal complement.
 
+~~~ sdparse
+více závisí na stavu linky než na rychlosti přístroje \n more depends on state of-line than on speed of-device
+advmod(závisí, více)
+advmod(depends, more)
+dobj(závisí, stavu)
+dobj(depends, state)
+case(stavu, na-3)
+case(state, on-13)
+nmod(stavu, linky)
+nmod(state, of-line)
+nmod(více, rychlosti)
+nmod(more, speed)
+case(rychlosti, na-7)
+case(speed, on-17)
+case(rychlosti, než)
+case(speed, than)
+nmod(rychlosti, přístroje)
+nmod(speed, of-device)
+~~~
+
 ### Comparatives (quantity)
 
 In the periphrastic comparatives in the previous section, the words _více_ “more” and _méně_ “less”
