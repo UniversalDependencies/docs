@@ -223,6 +223,8 @@ amod(red, big)
 ~~~
 
 Note that Czech does not have promotion of auxiliaries like in English _I did not come but he did._
+Occasionally _yes/no_ is used to construct similar sentences, as in
+_Já jsem nepřišel, ale on ano._ lit. _I have not-come, but he yes._
 
 We do not use promotion when a verb is missing and two or more arguments of the verb are present.
 A frequent special case of this is coordination of clauses that share the same verb but only the
