@@ -301,7 +301,7 @@ collections:
   ro-overview:
     output: true
 #
-# Slovene
+# Slovenian
 #
   sl-pos:
     output: true

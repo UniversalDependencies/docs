@@ -35,7 +35,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-fa">Persian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovene</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
@@ -460,7 +460,7 @@ have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
-<!-- "Slovene" tab -->
+<!-- "Slovenian" tab -->
 <div id="language-sl" markdown="1" class="ui-tabs-hide">
 {% include sl-status-table.html %}
 
@@ -469,12 +469,12 @@ have a stable version of this part of the documentation by 2015-01-01.
 * [Tokenization](sl/overview/tokenization.html)
 * Morphology
   * [General principles](sl/overview/morphology.html)
-  * [Slovene POS tags](sl/pos/index.html) ([single document](sl/pos/all.html))
-  * [Slovene features](sl/feat/index.html) ([single document](sl/feat/all.html))
+  * [Slovenian POS tags](sl/pos/index.html) ([single document](sl/pos/all.html))
+  * [Slovenian features](sl/feat/index.html) ([single document](sl/feat/all.html))
 * Syntax
   * [General principles](sl/overview/syntax.html)
   * [Specific constructions](sl/overview/specific-syntax.html)
-  * [Slovene dependency relations](sl/dep/index.html) ([single document](sl/dep/all.html))
+  * [Slovenian dependency relations](sl/dep/index.html) ([single document](sl/dep/all.html))
 
 [CoNLL-U format](format.html)
 
