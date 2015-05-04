@@ -12,6 +12,12 @@ Nouns are a part of speech typically denoting a person, place, thing, animal or 
 The `NOUN` tag is intended for common nouns only. See [PROPN]() for
 proper nouns and [PRON]() for pronouns.
 
+
+###Corresponding language-specific part-of-speech tags
+
+S:	Common noun
+
+
 ### Examples
 
 - _ragazza_ "girl"
