@@ -24,12 +24,13 @@ NO: Ordinal Number
 
 ### Examples
 
-Tagged as `ADJ`:
-
 * _grande_ "big"
 * _vecchio_ "old"
 * _verde_ "green"
+* Un _caro_ amico_ "a dear friend"
+* Un libro _interessante_ "An interesting book"
 * Il cancello è _aperto_ "The gate is open"
 * È stato _illuminante_ "It has been illuminating"
 * _primo_ "first", _secondo_ "second", _terzo_ "third", _IV_ "fourth", _ennesimo_ "nth", _ultimo_ "last"
+
 
