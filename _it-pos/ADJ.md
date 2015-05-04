@@ -6,17 +6,20 @@ shortdef: 'adjective'
 
 ### Definition
 
-Adjectives are words that typically modify nouns and specify their
-properties or attributes. They may also function as predicates as in
+Adjectives are words that typically modify nouns and specify their properties or attributes. In Italian, adjectives can be used predicatively (as in _La casa è gialla_ "The house is yellow") and attributively (as in _La casa gialla è a destra_ "The yellow house is on the right side").
 
-_La casa è gialla_
+Adjectives in Italian normally agree in number and gender with the noun they modify (both in attributive and predicative position), e.g. _la casa gialla_ (feminine singular), _le case gialle_ (feminine plural).
 
-Note: _ordinal numerals_ behave both morphologically and syntactically as
-adjectives and are tagged `ADJ`.
+The class of adjectives in Italian UD also includes ordinal numbers and participial adjectives, both behaving as adjectives morphologically and syntactically.
 
-_Participles_ are word forms that may share properties and
-usage of adjectives and verbs. Depending on context, they
-may be classified as either `VERB` or `ADJ`.
+To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
+
+
+###Language-specific part-of-speech tags
+
+A:  Adjective
+NO: Ordinal Number
+
 
 ### Examples
 
@@ -29,7 +32,3 @@ Tagged as `ADJ`:
 * È stato _illuminante_ "It has been illuminating"
 * _primo_ "first", _secondo_ "second", _terzo_ "third", _IV_ "fourth", _ennesimo_ "nth", _ultimo_ "last"
 
-Tagged as [VERB]():
-
-* Mi ha _aperto_ il cancello "He has opened the gate"
-* Quelli _appartenenti_ alla Chiesa Battista "Those belonging to the Baptist Church"
