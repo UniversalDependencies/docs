@@ -157,10 +157,15 @@ multiword expressions is accounted for in the syntactic annotation.</p>
 
 <h3 id="definition">Definition</h3>
 
-<p>Adverbs are words that typically modify <a href="VERB">verbs</a> for such
-categories as time, place, direction or manner. They may also modify
-<a href="ADJ">adjectives</a> and other adverbs, as in <em><b>molto bene</b></em> or
-<em><b>palesemente</b> falso</em>.</p>
+<p>Adverbs are words that typically modify <a href="VERB">verbs</a> for such categories as time, place, direction or manner. In Italian, they may also modify <a href="ADJ">adjectives</a> (as in <em><b>palesemente</b> falso</em> “clearly fake”), other adverbs (as in <em><b>molto</b> bene</em> “very well”), or even <a href="NOUN">nouns</a> / <a href="PRON">pronouns</a> (as in <em><b>proprio</b> lui</em> “exactly him”).</p>
+
+<p>Since in traditional Italian grammars there is no clear consensus on the existence of <em>pronominal adverbs</em> as an independent morpho-syntactic category, we decided to avoid using the <code>ADV</code> postag to deal with potential pronominal adverbs which are rather treated as <a href="">PRON</a>. </p>
+
+<h3 id="corresponding-language-specific-part-of-speech-tags">Corresponding language-specific part-of-speech tags</h3>
+
+<p>B: 	Adverb</p>
+
+<p>BN:	Negation adverb</p>
 
 <h3 id="examples">Examples</h3>
 
@@ -174,7 +179,7 @@ categories as time, place, direction or manner. They may also modify
   <li>demonstrative adverbs: <em>qui, là, ora, adesso, poi</em></li>
   <li>indefinite adverbs: <em>talvolta</em></li>
   <li>totality adverbs: <em>dovunque, sempre</em></li>
-  <li>negative adverbs: <em>mai</em></li>
+  <li>negation adverbs: <em>no, mica, non, nemmeno, neanche, neppure</em></li>
 </ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-pos/ADV.md" target="#">edit ADV</a></p>
@@ -267,11 +272,15 @@ like <em>molti</em> “many”, <em>pochi</em> “few”, <em>diversi</em> “se
 <p>An interjection is a form, typically brief, which is used most often as an exclamation or part of an exclamation.</p>
 
 <p>As a special case of interjections, we recognize feedback particles
-such as: <em>sì</em> “yes” and <em>no</em> “no”. Note that uses of <em>sì</em> and <em>no</em> syntactically related to other accompanying expressions in a sentence are recognized ad <a href="">ADV</a>.</p>
+such as: <em>sì</em> “yes” and <em>no</em> “no”. Note that uses of <em>sì</em> and <em>no</em> syntactically related to other accompanying expressions in a sentence are recognized as <a href="">ADV</a>.</p>
+
+<h3 id="corresponding-language-specific-part-of-speech-tags">Corresponding language-specific part-of-speech tags</h3>
+
+<p>I:	Interjection</p>
 
 <h3 id="examples">Examples</h3>
 
-<p>Are marked as interjections:</p>
+<p>Marked as interjections:</p>
 
 <ul>
   <li><em>vabbè</em></li>
@@ -283,7 +292,7 @@ such as: <em>sì</em> “yes” and <em>no</em> “no”. Note that uses of <em>
   <li><em>no</em>, e.g. <em>No, non lo credo</em> “No, I don’t believe it”</li>
 </ul>
 
-<p>Are markes as adverbs:</p>
+<p>Marked as adverbs:</p>
 
 <ul>
   <li><em>Elezioni sì, elezioni no</em> “Elections <b>yes</b>, elections <b>no</b>”</li>
