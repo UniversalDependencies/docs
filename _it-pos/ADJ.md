@@ -15,9 +15,10 @@ The class of adjectives in Italian UD also includes ordinal numbers and particip
 To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
 
 
-###Language-specific part-of-speech tags
+###Corresponding language-specific part-of-speech tags
 
 A:  Adjective
+
 NO: Ordinal Number
 
 
