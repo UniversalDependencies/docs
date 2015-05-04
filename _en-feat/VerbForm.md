@@ -33,7 +33,7 @@ Participle is a non-finite verb form that shares properties of verbs and adjecti
 * _I will be <b>driving</b> home_.
 
 
-Ger: gerund
+### Ger: gerund
 
 Gerund is a non-finite verb form that shares properties of verbs and nouns. In English, all words with the PTB tag `VBG` have this feature if they are not preceded by an inflection of _to be_.
 
