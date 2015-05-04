@@ -19,11 +19,11 @@ Tagset <tt>it::isdt</tt>, total 264 tags.
 <tr style="background:lightgray"><td>A</td><td>A</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td><i>complicata, lontana, missilistica, esigua, immobiliare, famosa</i></td></tr>
 <tr><td>A</td><td>A</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><i>misterioso, accentuato, preventivo, fondato, fisico, curioso</i></td></tr>
 <tr style="background:lightgray"><td>A</td><td>A</td><td>num=s|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td><i>insostenibile, corresponsabile, militare, vergine, keniota, laziale</i></td></tr>
-<tr><td>A</td><td>AP</td><td>num=n|gen=n</td><td>=&gt;</td><td>ADJ</td><td>Poss=Yes|PronType=Prs</td><td><i>loro, altrui, my</i></td></tr>
-<tr style="background:lightgray"><td>A</td><td>AP</td><td>num=p|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>mie, vostre, sue, nostre, proprie</i></td></tr>
-<tr><td>A</td><td>AP</td><td>num=p|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>vostri, propri, tuoi, miei, suoi, nostri</i></td></tr>
-<tr style="background:lightgray"><td>A</td><td>AP</td><td>num=s|gen=f</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>vostra, mia, sua, propria, nostra, tua</i></td></tr>
-<tr><td>A</td><td>AP</td><td>num=s|gen=m</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>proprio, tuo, nostro, suo, mio, vostro</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=n|gen=n</td><td>=&gt;</td><td>DET</td><td>Poss=Yes|PronType=Prs</td><td><i>loro, altrui, my</i></td></tr>
+<tr style="background:lightgray"><td>A</td><td>AP</td><td>num=p|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>mie, vostre, sue, nostre, proprie</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=p|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs</td><td><i>vostri, propri, tuoi, miei, suoi, nostri</i></td></tr>
+<tr style="background:lightgray"><td>A</td><td>AP</td><td>num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>vostra, mia, sua, propria, nostra, tua</i></td></tr>
+<tr><td>A</td><td>AP</td><td>num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs</td><td><i>proprio, tuo, nostro, suo, mio, vostro</i></td></tr>
 <tr style="background:lightgray"><td>B</td><td>B</td><td>_</td><td>=&gt;</td><td>ADV</td><td>_</td><td><i>peggio, unicamente, legittimamente, forte, solennemente, carponi</i></td></tr>
 <tr><td>B</td><td>BN</td><td>_</td><td>=&gt;</td><td>ADV</td><td>PronType=Neg</td><td><i>no, mica, non, nemmeno, neanche, neppure</i></td></tr>
 <tr style="background:lightgray"><td>C</td><td>CC</td><td>_</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><i>bensì, nè, sia, et, mentre, come</i></td></tr>
