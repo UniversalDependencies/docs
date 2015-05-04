@@ -22,7 +22,6 @@ Tagged as `DET`:
 
 - definite articles: _il, lo, la, gli_ "the"
 - indefinite articles: _un, uno, una_ "a, an"
-- possessive determiners: _mio, mia_ "my", _tuo, tua_ "your", _suo, sua_ "his, her, its", _nostro_ "our", _loro_ "their"
 - demonstrative determiners: _questo_ "this", e.g. _Ho visto <b>questa</b> macchina ieri._ "I saw <b>this</b> car yesterday."
 - interrogative determiners: _quale_ "which", e.g. _<b>Quale</b> macchina ti piace?_ "<b>Which</b> car do you like?"
 - relative determiners: _quale_ "which", e.g. _Mi chiedo <b>quale</b> macchina ti piace._ "I wonder <b>which</b> car you like."
