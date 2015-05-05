@@ -1200,8 +1200,9 @@ advmod(arrive, when)
 <h2><code>mwe</code>: multi-word expression</h2>
 
 <p>The multi-word expression (modifier) relation is one of the
-relations for compounding.
-In Czech it is used for multi-word prepositions.</p>
+relations for compounding and it is intended for function words.
+In Czech it is used for multi-word prepositions.
+The leftmost word is the head and all the other words are attached as its <code>mwe</code> modifiers.</p>
 
 <pre><code class="language-sdparse">Na rozdíl od tebe já se nemám zač stydět . \n In contrast to you I myself have-not of-what to-be-ashamed .
 mwe(Na, rozdíl)
@@ -1218,7 +1219,8 @@ case(you, In)
 <h2><code>name</code>: personal name</h2>
 
 <p><code>name</code> is one of the relations for compounding in UD.
-In Czech it is used to join the first (or middle) and the last name of a person.</p>
+In Czech it is used to join the first (or middle) and the last name of a person.
+We keep the PDT rule that the family name is the head and the given name(s) is/are its modifier(s).</p>
 
 <pre><code class="language-sdparse">Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
 name(Havel-3, Václav-2)
