@@ -972,8 +972,30 @@ for <code>root</code>.</p>
 <p><a id="al-ga-dep/vocative" class="al-dest"></a></p>
 <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>The <code>vocative</code> relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+
+<h3 id="examples">Examples:</h3>
+
+<pre><code class="language-sdparse">Slán leat, a chara \n Goodbye, friend
+vocative(Slán, chara)
+vocative(Goodbye, friend)
+</code></pre>
+
+<p><em>Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat</em>  `I think Mairead, that I’m in love with you’</p>
+
+<pre><code class="language-conllx">10	Is	is	VERB	VERB	_	11	cop	_	_
+11	dóigh	dóigh	NOUN	NOUN	_	6	ccomp	_	_
+12	liom	le	ADP	ADP	_	11	nmod:prep	_	_
+13	a	a	PART	PART	_	14	case:voc	_	_
+14	Mháiréad	Máiréad	PROPN	PROPN	_	11	vocative	_	_
+15	,	,	PUNCT	PUNCT	_	16	punct	_	_
+16	go	go	PART	PART	_	17	mark:prt	_	_
+17	bhfuil	bí	VERB	VERB	_	11	csubj:cop	_	_
+18	mé	mé	PRON	PRON	_	17	nsubj	_	_
+19	i	i	ADP	ADP	_	20	case	_	_
+20	ngrá	grá	NOUN	NOUN	_	17	xcomp:pred	_	_
+21	leat	le	ADP	ADP	_	20	nmod:prep	_	_
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/vocative.md" target="#">edit vocative</a></p>
 
