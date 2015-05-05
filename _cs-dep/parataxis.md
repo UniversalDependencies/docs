@@ -22,30 +22,6 @@ parataxis(left, said)
 
 ## An inventory of constructions to which parataxis has been applied
 
-### Side-by-side sentences ("run-on sentences")
-
-The relation parataxis is used for a pair of what could have been standalone sentences, 
-but which are being treated together as a single sentence. This may happen because sentence
-segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
-and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
-at all. In a spoken corpus, it may happen because what is labeled as a sentence is more
-commonly an utterance turn. Even if the treebanker is doing the sentence division, it may
-happen because there seems to be a clear discourse relation linking two clauses.
-
-~~~ sdparse
-Bearded dragons are sight hunters , they need to see the food to move .
-parataxis(hunters, need)
-~~~
-
-This relation may happen with units that are smaller than sentences:
-
-~~~ sdparse
-Divided world the CIA
-amod(world, Divided)
-parataxis(world, CIA)
-det(CIA, the)
-~~~
-
 ### Treatment of reported speech
 
 For this reported speech example:
