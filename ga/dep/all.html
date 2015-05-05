@@ -768,20 +768,22 @@ name(Sheán,Gallchóir)
 <p><a id="al-ga-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>The <code>neg</code> label is used for Irish negative verb particles. These particles take the form of:
-* <em>ní</em> (present/future/conditional/habitual past and irregular past), 
-* <em>nach</em> (present/future/conditional/habitual past and irregular past interrogative and negative)
-* <em>níor</em> (past tense)
-* <em>nár</em> (past tense interrogative + negative)
-* <em>ná</em> (imperative)</p>
+<p>The <code>neg</code> label is used for Irish negative verb particles. These particles take the form of:</p>
+
+<ul>
+  <li><em>ní</em> (present/future/conditional/habitual past and irregular past), </li>
+  <li><em>nach</em> (present/future/conditional/habitual past and irregular past interrogative and negative)</li>
+  <li><em>níor</em> (past tense)</li>
+  <li><em>nár</em> (past tense interrogative + negative)</li>
+  <li><em>ná</em> (imperative)</li>
+</ul>
 
 <pre><code class="language-sdparse">Ní raibh aon Teresa ina measc \n There were no Teresa's among them
-neg(raibh,ní)
+neg(raibh,Ní)
 </code></pre>
 
-<pre><code class="language-sdparse">Ná déan seo agus ná déan súid \n Don't do this and don't do that
+<pre><code class="language-sdparse">Ná déan seo \n Don't do this 
 neg(déan,Ná)
-neg(déan,ná)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/neg.md" target="#">edit neg</a></p>
@@ -789,8 +791,42 @@ neg(déan,ná)
 <p><a id="al-ga-dep/nmod" class="al-dest"></a></p>
 <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal predicates. <code>nmod</code> is a noun functioning as a non-core (oblique) argument or adjunct. It is also used for objects of prepositions.</p>
+
+<pre><code class="language-sdparse">Tá sé ráite ag tráchtairí áirithe \n It is said by some commentators
+nmod(ráite, tráchtairí)
+case(tráchtairí, ag)
+</code></pre>
+
+<pre><code class="language-sdparse">Tá an Roinn ag obair le réimse tionscadal \n The Department is working with a range of projects
+nmod(obair,réimse)
+case(réimse, le)
+</code></pre>
+
+<p>It is also used for attaching noun phrases, such as headings, to clauses:</p>
+
+<p>TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS “CENTRE PROJECT - To provide information on employment opportunities with FÁS.</p>
+
+<pre><code class="language-conllx">1	TOGRA	TOGRA	X	X	_	4	nmod	_	_
+2	IONAID	ionad	NOUN	NOUN	_	1	compound	_	_
+3	-	-	PUNCT	PUNCT	_	4	punct	_	_
+4	Eolas	eolas	NOUN	NOUN	_	0	root	_	_
+5	a	a	PART	PART	_	6	mark	_	_
+6	chur	cur	NOUN	NOUN	_	4	xcomp	_	_
+7	ar	ar	ADP	ADP	_	8	case	_	_
+8	fáil	fáil	NOUN	NOUN	_	6	xcomp	_	_
+9	ar	ar	ADP	ADP	_	10	case	_	_
+10	fholúntais	folúntas	NOUN	NOUN	_	6	nmod	_	_
+11	fostaíochta	fostaíocht	NOUN	NOUN	_	10	compound	_	_
+12	le	le	ADP	ADP	_	13	case	_	_
+13	FÁS	FÁS	X	X	_	10	nmod	_	_
+</code></pre>
+
+<p>It is also used to label the attachment of <em>augment pronouns</em> to their nominal head:</p>
+
+<pre><code class="language-sdparse">Comharsain aoibhne ab ea iad \n They were lovely neighbours
+aug(iad, ea)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod.md" target="#">edit nmod</a></p>
 
@@ -869,7 +905,7 @@ cop(réitigh, Is)
 
 <p>The head of an infinitive phrase can also be `nsubj’ in a copula construction – in Irish, the infinitive verb form is a verbal noun.</p>
 
-<pre><code class="language-conllu">1	Ar	is	VERB	VERB	_	2	cop	_	_
+<pre><code class="language-conllx">1	Ar	is	VERB	VERB	_	2	cop	_	_
 2	mhaith	maith	ADJ	ADJ	_	0	root	_	_
 3	leat	le	ADP	ADP	_	2	nmod:prep	_	_
 4	teach	teach	NOUN	NOUN	_	6	dobj	_	_
