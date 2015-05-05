@@ -34,9 +34,21 @@
 
           <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis (in
-the case of gapping and stripping, where a predicational or verbal
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of certain instances of
+<a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">ellipsis</a>
+(in the case of gapping and stripping, where a predicational or verbal
 head gets elided).</p>
+
+<pre><code class="language-sdparse">Pavel si objednal hovězí a Markéta vepřové . \n Pavel himself ordered beef and Markéta pork .
+nsubj(objednal, Pavel-1)
+nsubj(ordered, Pavel-10)
+dobj(objednal, hovězí)
+dobj(ordered, beef)
+remnant(Pavel-1, Markéta-6)
+remnant(Pavel-10, Markéta-15)
+remnant(hovězí, vepřové)
+remnant(beef, pork)
+</code></pre>
 
 <h2 id="diffs">Diffs</h2>
 
@@ -48,7 +60,7 @@ and the <code>remnant</code> relation is not used.</p>
 <p>In the analytical layer of PDT, ellipsis
 (together with some other issues, such as the <a href="">vocative</a>) is signalled by the
 dependency relation <code>ExD</code> (ex-dependent).
-All the <code>ExD</code> relations that are not vocatives are currently just re-labeled <a href="">dep</a>
+All the <code>ExD</code> relations that are not vocatives or comparatives are currently just re-labeled <a href="">dep</a>
 or <a href="">root</a>.</p>
 
 
