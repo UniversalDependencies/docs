@@ -11,12 +11,14 @@ Note that subordinate conjunctions are attached to the head of the complement cl
 
 ~~~ sdparse
 Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n Although he goes overboard with that opinion , it is certain that many English writers had the same opinion
-mark(is, ndeachaigh)
+mark(ndeachaigh, Cé)
+mark(goes, Although)
 ~~~
 
 ~~~ sdparse
 Ba ar Mháirín a smaoiníodh sé nuair a d' fheicfeadh sé iad \n He would think of Máirín when he would see them
 mark(fheicfeadh, nuair)
+mark(see, when)
 ~~~
 
 #### infinitive marker
