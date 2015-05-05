@@ -39,6 +39,9 @@
 This relation is used for pronominal adjectival modifiers of noun phrases; the <code>det</code> modifier has the POS tag <a href="">cs-pos/DET</a> and vice versa.
 Non-pronominal adjectives are tagged <a href="">cs-pos/ADJ</a> and the relation is labeled <a href="">amod</a>.</p>
 
+<p>Pronominal quantifiers are tagged <code>DET</code> but their relation to their head is a subtype of the <code>det</code> relation:
+either <a href="">cs-dep/det:numgov</a> or <a href="">cs-dep/det:nummod</a>.</p>
+
 <pre><code class="language-sdparse">Ten člověk už je tady . \n The man already is here .
 det(člověk, Ten)
 det(man, The)
