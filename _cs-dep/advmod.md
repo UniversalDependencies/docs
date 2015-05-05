@@ -34,9 +34,3 @@ advmod(jít, zítra)
 advmod(to-go, Where)
 advmod(to-go, tomorrow)
 ~~~
-
-~~~ sdparse
-Na demonstraci přišlo nanejvýš 200 lidí . \n To demonstration came at-most 200 people .
-advmod(200-5, nanejvýš)
-advmod(200-13, at-most)
-~~~

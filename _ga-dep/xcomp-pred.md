@@ -9,7 +9,7 @@ In Irish, the substantive verb _bí_ `to be' can have predicate arguments in the
 #### Adjective Predicate
 ~~~ sdparse
 Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
-xcomp:pred(bhí, dochreidte)
+xcomp:pred(Bhí, dochreidte)
 ~~~
 
 #### Prepositional Predicate

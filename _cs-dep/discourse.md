@@ -12,3 +12,4 @@ redundant or emotional items, redundant coreferential pronoun.
 discourse(zpronevěřily, to)
 discourse(they-betrayed, it)
 ~~~
+(meaning “… what they betrayed”)

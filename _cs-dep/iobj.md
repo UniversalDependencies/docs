@@ -31,7 +31,7 @@ iobj(teaches, daughter.Acc)
 In general, if there is just one object, it should be labeled
 [dobj](), regardless of the morphological case or semantic role.
 For example, _učit_ “to teach” can take either the subject matter or the recipient as the only object,
-and in both cases it would be analyzed ad the [dobj]():
+and in both cases it would be analyzed as the [dobj]():
 
 ~~~ sdparse
 Učí úvod do logiky . \n He-teaches introduction to logic .

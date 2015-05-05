@@ -4,10 +4,10 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-The `cc' label markes the relation between the first conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of _agus_ `and', _nó_ `or', _ná_ `than'.
+The cc label markes the relation between the first conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of _agus_ "and", _nó_ "or", _ná_ "than".
 UD takes the first conjunct as the head of a coordinated phrase. (Note that this differs from the Irish Dependency Treebank structure, where the coordinating conjunction is the head of the cooordinated phrase.)
 
-_caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ to establish a relationship between central banks <b>and</b> financial institutions in other countries.
+_caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ "to establish a relationship between central banks <b>and</b> financial institutions in other countries".
 
 ~~~ conllx
 1	caidreamh	caidreamh	NOUN	NOUN	_	3	dobj	_	_
@@ -28,7 +28,8 @@ _caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais 
 
 Coordination of more than two elements is as follows (note there is also embedded coordination within the main coordinated phrase).
 
-_Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe_ \n `Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers'
+_Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe_ 
+"Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers"
 
 ~~~ conllx
 1	gcannaí	canna	NOUN	NOUN	_	3	root	_	_

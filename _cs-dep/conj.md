@@ -6,7 +6,7 @@ shortdef: 'conjunct'
 
 A conjunct is the relation between two elements connected by a
 coordinating conjunction, such as _and, or,_ or a comma or other punctuation.
-We treat conjunctions asymmetrically in what is known as the Stanford style:
+We treat coordination asymmetrically in what is known as the Stanford style:
 The head of the relation is the first
 conjunct and all the other conjuncts depend on it via the `conj` relation.
 
@@ -47,3 +47,7 @@ punct(He-came, ,-15)
 cc(Přišel, a)
 cc(He-came, and)
 ~~~
+
+See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
+Note that the present conversion procedure loses some annotations of shared modifiers and nested
+coordination.
