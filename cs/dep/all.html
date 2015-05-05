@@ -1776,13 +1776,14 @@ coordination, subordination, or argument relation with the head word. Parataxis 
 
 <p>For this reported speech example:</p>
 
-<pre><code class="language-sdparse">The guy , John said , left early in the morning
+<pre><code class="language-sdparse">Ten člověk , řekl Honza , odjel brzy ráno . \n The guy , said Honza , left early in-the-morning .
+parataxis(odjel, řekl)
 parataxis(left, said)
 </code></pre>
 
 <p>there are paraphrases that convey essentially the same meaning but
 with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
-without an overt complementizer <em>that</em>), the subordinate clause is a <a href="">ccomp</a> of the speech verb. When the
+without an overt complementizer <em>že</em> “that”), the subordinate clause is a <a href="">ccomp</a> of the speech verb. When the
 reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
 that attaches to the preceding main clause with a <a href="">parataxis</a> relation, hence with the speech verb as its head.
 However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
@@ -1790,27 +1791,23 @@ verb is treated as a <a href="">parataxis</a> of the reported speech.
 This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002),
 <em>The Cambridge Grammar of the English Language</em> (see chapter 11, section 9). </p>
 
-<pre><code class="language-sdparse">John said that the guy left early in the morning .
+<pre><code class="language-sdparse">Honza řekl , že ten člověk odjel brzy ráno . \n Honza said , that the guy left early in-the-morning .
+ccomp(řekl, odjel)
 ccomp(said, left)
 </code></pre>
 
-<pre><code class="language-sdparse">John said the guy left early in the morning .
-ccomp(said, left)
-</code></pre>
-
-<pre><code class="language-sdparse">John said : “ The guy left early in the morning . ”
+<pre><code class="language-sdparse">Honza řekl : „ Ten člověk odjel brzy ráno . “ \n Honza said : “ The guy left early in-the-morning . ”
+parataxis(řekl, odjel)
 parataxis(said, left)
 </code></pre>
 
-<pre><code class="language-sdparse">“ The guy left early in the morning ” , John said .
+<pre><code class="language-sdparse">„ Ten člověk odjel brzy ráno , “ řekl Honza . \n “ The guy left early in-the-morning , ” said Honza .
+parataxis(odjel, řekl)
 parataxis(left, said)
 </code></pre>
 
-<pre><code class="language-sdparse">The guy left early in the morning , John said .
-parataxis(left, said)
-</code></pre>
-
-<pre><code class="language-sdparse">The guy , he said , left early in the morning .
+<pre><code class="language-sdparse">„ Ten člověk , “ řekl Honza , „ odjel brzy ráno . “ \n “ The guy , ” said Honza , “ left early in-the-morning . ”
+parataxis(odjel, řekl)
 parataxis(left, said)
 </code></pre>
 
@@ -1821,27 +1818,19 @@ while this is not possible with medial or final placement of the speech verb
 
 <h3 id="news-article-bylines">News article bylines</h3>
 
-<p>We have used the parataxis relation to connect the parts of a news article byline. 
+<p>The <code>parataxis</code> relation should be used to connect the parts of a news article byline.
 There does not seem to be a better relation to use.</p>
 
 <pre><code class="language-sdparse">Washington ( CNN ) :
 parataxis(Washington, CNN)
 </code></pre>
 
-<h3 id="interjected-clauses">Interjected clauses</h3>
+<h3 id="interjected-clauses-and-phrases">Interjected clauses and phrases</h3>
 
-<p>Single word or phrase interjections are analyzed as <a href="">discourse</a>, but when a whole clause is interjected, we use the relation parataxis.</p>
-
-<pre><code class="language-sdparse">Calafia has great fries ( they are to die for ! )
-parataxis(has, are)
+<pre><code class="language-sdparse">V posledních letech se srovnávání rozšiřuje , přinejmenším pokud jde o platy , na sousední státy . \n In recent years is comparison extended , at-least as concerns about salaries , to neighboring countries .
+parataxis(rozšiřuje, jde)
+parataxis(extended, concerns)
 </code></pre>
-
-<pre><code class="language-sdparse">Just to let you all know Matt has confirmed the booking for 3rd Dec is OK .
-parataxis(confirmed, let)
-</code></pre>
-
-<p>In the second example, we treat the second half as the head of the dependency
-because the first half feels like a whole clause interjection, not like the main clause of the utterance.</p>
 
 <h2 id="diffs">Diffs</h2>
 
