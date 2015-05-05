@@ -20,7 +20,7 @@ det(cláranna, na)
 ~~~
 
 
-Sometimes there are two pre-determiners:
+ Two pre-determiners can occur before a noun:
 
 ~~~ sdparse
 gach uile ábhar \n every single subject 
@@ -28,7 +28,7 @@ det(ábhar, gach)
 det(ábhar, uile)
 ~~~
 
-Sometimes two determiners are used each side of a noun: pre-determiners and post-determiners:
+Two determiners can be used each side of a noun: pre-determiners and post-determiners:
 
 ~~~ sdparse
 an tuairim sin \n that opinion
