@@ -10,15 +10,14 @@ Note that subordinate conjunctions are attached to the head of the complement cl
 #### subordinate conjunctions
 
 ~~~ sdparse
-Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n
-Although he goes overboard with that opinion , it is certain that many English writers had the same opinion
+Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n Although he goes overboard with that opinion , it is certain that many English writers had the same opinion
 mark(is, ndeachaigh)
 ~~~
 
 ~~~ sdparse
 Ba ar Mháirín a smaoiníodh sé nuair a d' fheicfeadh sé iad \n He would think of Máirín when he would see them
 mark(fheicfeadh, nuair)
-
+~~~
 
 #### infinitive marker
 
