@@ -17,8 +17,8 @@ In particular, the lemmas in PDT themselves may contain additional features;
 these were removed from lemmas and converted to additional language-specific features
 in the FEATS column.
 
-The set of [universal features](u-feat/index) was extended with several additional
-[features for Czech](cs-feat/index).
+The set of [universal features](../../u/feat/index.html) was extended with several additional
+[features for Czech](../feat/index.html).
 Some of the additional features are language-specific,
 others are more general and they are needed to preserve information originally encoded in PDT.
 On the other hand, the [u-feat/Definite]() feature is not used in Czech.
