@@ -17,13 +17,14 @@ coordination, subordination, or argument relation with the head word. Parataxis 
 For this reported speech example:
 
 ~~~ sdparse
-The guy , John said , left early in the morning
+Ten člověk , řekl Honza , odjel brzy ráno . \n The guy , said Honza , left early in-the-morning .
+parataxis(odjel, řekl)
 parataxis(left, said)
 ~~~
 
 there are paraphrases that convey essentially the same meaning but
 with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
-without an overt complementizer _that_), the subordinate clause is a [ccomp]() of the speech verb. When the
+without an overt complementizer _že_ “that”), the subordinate clause is a [ccomp]() of the speech verb. When the
 reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
 that attaches to the preceding main clause with a [parataxis]() relation, hence with the speech verb as its head.
 However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
@@ -32,32 +33,26 @@ This analysis is not uncontroversial but follows many authorities, such as Huddl
 _The Cambridge Grammar of the English Language_ (see chapter 11, section 9). 
 
 ~~~ sdparse
-John said that the guy left early in the morning .
+Honza řekl , že ten člověk odjel brzy ráno . \n Honza said , that the guy left early in-the-morning .
+ccomp(řekl, odjel)
 ccomp(said, left)
 ~~~
 
 ~~~ sdparse
-John said the guy left early in the morning .
-ccomp(said, left)
-~~~
-
-~~~ sdparse
-John said : “ The guy left early in the morning . ”
+Honza řekl : „ Ten člověk odjel brzy ráno . “ \n Honza said : “ The guy left early in-the-morning . ”
+parataxis(řekl, odjel)
 parataxis(said, left)
 ~~~
 
 ~~~ sdparse
-“ The guy left early in the morning ” , John said .
+„ Ten člověk odjel brzy ráno , “ řekl Honza . \n “ The guy left early in-the-morning , ” said Honza .
+parataxis(odjel, řekl)
 parataxis(left, said)
 ~~~
 
 ~~~ sdparse
-The guy left early in the morning , John said .
-parataxis(left, said)
-~~~
-
-~~~ sdparse
-The guy , he said , left early in the morning .
+„ Ten člověk , “ řekl Honza , „ odjel brzy ráno . “ \n “ The guy , ” said Honza , “ left early in-the-morning . ”
+parataxis(odjel, řekl)
 parataxis(left, said)
 ~~~
 
@@ -68,7 +63,7 @@ while this is not possible with medial or final placement of the speech verb
 
 ### News article bylines
 
-We have used the parataxis relation to connect the parts of a news article byline. 
+The `parataxis` relation should be used to connect the parts of a news article byline.
 There does not seem to be a better relation to use.
 
 ~~~ sdparse
@@ -76,22 +71,13 @@ Washington ( CNN ) :
 parataxis(Washington, CNN)
 ~~~
 
-### Interjected clauses
-
-Single word or phrase interjections are analyzed as [discourse](), but when a whole clause is interjected, we use the relation parataxis.
+### Interjected clauses and phrases
 
 ~~~ sdparse
-Calafia has great fries ( they are to die for ! )
-parataxis(has, are)
+V posledních letech se srovnávání rozšiřuje , přinejmenším pokud jde o platy , na sousední státy . \n In recent years is comparison extended , at-least as concerns about salaries , to neighboring countries .
+parataxis(rozšiřuje, jde)
+parataxis(extended, concerns)
 ~~~
-
-~~~ sdparse
-Just to let you all know Matt has confirmed the booking for 3rd Dec is OK .
-parataxis(confirmed, let)
-~~~
-
-In the second example, we treat the second half as the head of the dependency
-because the first half feels like a whole clause interjection, not like the main clause of the utterance.
 
 ## Diffs
 
