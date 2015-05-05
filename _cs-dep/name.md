@@ -6,6 +6,7 @@ shortdef: 'personal name'
 
 `name` is one of the relations for compounding in UD.
 In Czech it is used to join the first (or middle) and the last name of a person.
+We keep the PDT rule that the family name is the head and the given name(s) is/are its modifier(s).
 
 ~~~ sdparse
 Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
