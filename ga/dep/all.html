@@ -633,6 +633,7 @@ det(alt, seo)
 <pre><code class="language-sdparse">an chéad cheannaire eile \n the next leader
 det(cheannaire, an)
 det(cheannaire, eile)
+quant(cheannaire, chéad)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/det.md" target="#">edit det</a></p>
@@ -685,8 +686,13 @@ dobj(cuireadh, é)
 <p><a id="al-ga-dep/foreign" class="al-dest"></a></p>
 <h2><code>foreign</code>: foreign words</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>foreign</code>.</p>
+<p>The <code>foreign</code> relation can be used to label sequences of foreign words. These are given a linear analysis: the head is the first token in the foreign phrase.</p>
+
+<pre><code class="language-sdparse">ar oscailt / open : Bealtaine - Meán Fómhair / May - September \n open / open : May - September / May - September
+foreign(oscailt,open)
+foreign(Bealtaine,May)
+foreign(May,September)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/foreign.md" target="#">edit foreign</a></p>
 
