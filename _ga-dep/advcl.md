@@ -10,7 +10,7 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 ~~~ sdparse
 Nuair a bhí siad ag teacht ar ais, chonaic siad é \n When they were coming back, they saw it
 advcl(chonaic, bhí)
-advcl(saw, when)
+advcl(saw, When)
 ~~~
 
 
