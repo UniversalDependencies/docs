@@ -5,7 +5,7 @@ shortdef: 'determiner'
 ---
 
 The relation determiner (`det`) holds between a nominal head and its
-[determiner](u-pos/DET).
+[determiner](cs-pos/DET).
 This relation is used for pronominal adjectival modifiers of noun phrases; the `det` modifier has the POS tag [cs-pos/DET]() and vice versa.
 Non-pronominal adjectives are tagged [cs-pos/ADJ]() and the relation is labeled [amod]().
 
