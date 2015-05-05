@@ -13,12 +13,12 @@ Note that the `VERB` tag covers main verbs (content verbs) and copulas but it do
 Participles used as adjectives are classified as [ADJ]().
 
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 V:	Main verb
 
 
- ### Examples
+### Examples
 
 - _correre_ "run", _mangiare_ "eat"
 - _corse, mangiò_
