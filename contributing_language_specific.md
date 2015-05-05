@@ -53,7 +53,7 @@ Short description of the use of universal dependency relations making clear whet
 
 ## overview/specific-syntax.html
 
-Optional description of specific constructions (see Finnish for examples).
+Optional description of specific constructions (see <a href="http://universaldependencies.github.io/docs/fi/overview/specific-syntax.html">Finnish</a> for examples).
 Ideally, this should be structured in the same way as the universal documentation, but since the latter is not very developed it seems hard to enforce this.
 If possible, use the main headings "Elements of a clause", "Elements of a nominal", "Adjectival and adverbial constructions",
 and add additional headings as needed (for example, "Coordination", "Compounding", etc.)
