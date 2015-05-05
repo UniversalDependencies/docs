@@ -52,5 +52,6 @@ det(alt, seo)
 an chéad cheannaire eile \n the next leader
 det(cheannaire, an)
 det(cheannaire, eile)
+quant(cheannaire, chéad)
 ~~~
 
