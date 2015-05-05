@@ -641,13 +641,23 @@ what distinguishes <code>ccomp</code> and <code>xcomp</code>.</p>
 <h2><code>compound</code>: compound</h2>
 
 <p><code>compound</code> is one of the relations in UD for compounding.
-In Czech it is used only for compound numbers.</p>
+In Czech it is used only for compound numbers.
+The rightmost numeral is the head, the other numerals are attached as its modifiers.</p>
 
 <pre><code class="language-sdparse">Bude to stát nanejvýš 50 tisíc korun . \n Will it cost at-most 50 thousand crowns .
 nummod:gov(korun, tisíc)
-compound(tisíc, 50-5)
 nummod:gov(crowns, thousand)
+compound(tisíc, 50-5)
 compound(thousand, 50-14)
+</code></pre>
+
+<pre><code class="language-sdparse">Bude to stát padesát pět tisíc korun . \n Will it cost fifty five thousand crowns .
+nummod:gov(korun, tisíc)
+nummod:gov(crowns, thousand)
+compound(tisíc, padesát)
+compound(thousand, fifty)
+compound(tisíc, pět)
+compound(thousand, five)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound.md" target="#">edit compound</a></p>
@@ -661,8 +671,9 @@ prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.
 With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
 but as a special sort of <code>compound</code> relation.</p>
 
-<pre><code class="language-sdparse">Martin se bojí zvířat .
+<pre><code class="language-sdparse">Martin se bojí zvířat . \n Martin REFLEX fears animals .
 compound:reflex(bojí, se)
+compound:reflex(fears, REFLEX)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound-reflex.md" target="#">edit compound:reflex</a></p>
