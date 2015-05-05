@@ -5,6 +5,7 @@ shortdef: 'negation modifier'
 ---
 
 The `neg` label is used for Irish negative verb particles. These particles take the form of:
+
 * _ní_ (present/future/conditional/habitual past and irregular past), 
 * _nach_ (present/future/conditional/habitual past and irregular past interrogative and negative)
 * _níor_ (past tense)
@@ -14,13 +15,12 @@ The `neg` label is used for Irish negative verb particles. These particles take 
 
 ~~~ sdparse
 Ní raibh aon Teresa ina measc \n There were no Teresa's among them
-neg(raibh,ní)
+neg(raibh,Ní)
 ~~~
 
 ~~~ sdparse
-Ná déan seo agus ná déan súid \n Don't do this and don't do that
+Ná déan seo \n Don't do this 
 neg(déan,Ná)
-neg(déan,ná)
 ~~~
 
 
