@@ -14,7 +14,7 @@ dobj(Bhailigh, eolas)
 Note that the object of infinitive phrase occurs before the infinitive form (Verbal Noun), despite Irish being a VSO language.
 
 ~~~ sdparse
-eolas a chur ar fáil \ to make information available
+eolas a chur ar fáil \n to make information available
 dobj(chur, eolas)
 ~~~
 
