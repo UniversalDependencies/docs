@@ -4,7 +4,7 @@ title: 'parataxis'
 shortdef: 'parataxis'
 ---
 
-The parataxis relation (from Greek for "place side by side") is a
+The parataxis relation (from Greek for “place side by side”) is a
 relation between a word (often the main predicate of a sentence) and other
 elements, such as a sentential parenthetical or a clause after a “:” or
 a “;”, placed side by side without any explicit
