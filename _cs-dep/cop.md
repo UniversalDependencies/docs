@@ -11,7 +11,7 @@ is not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
 The nominal predicate is usually a [noun](cs-pos/NOUN), an [adjective](cs-pos/ADJ)
-or a [participle](cs-feat/VerbForm#part-participle).
+or a <a href="../feat/VerbForm.html#part-participle">participle</a>.
 
 ~~~ sdparse
 Ondřej je čestný muž . \n Ondřej is honest man .
