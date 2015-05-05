@@ -11,6 +11,7 @@ With these verbs, the reflexive pronoun is not attached as [dobj]()
 but as a special sort of `compound` relation.
 
 ~~~ sdparse
-Martin se bojí zvířat .
+Martin se bojí zvířat . \n Martin REFLEX fears animals .
 compound:reflex(bojí, se)
+compound:reflex(fears, REFLEX)
 ~~~
