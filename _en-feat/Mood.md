@@ -34,5 +34,5 @@ otherwise uncertain such as expressing an opinion or describing one's state of m
 * _I suggest that he <b>see</b> a doctor._
 * _If I <b>were</b> rich..._
 
-(Note that our automatic feature extractor only marks verbs with the POS tag `VB` with the subjunctive mood feature and therefore also marks past tense verbs in subjunctive mood as indicative.)
+(Note that there is currently no reliable way of identifying subjunctive verbs in an automatic way and therefore we currently also mark present subjunctive verbs as [infinitives](VerbForm) and past subjunctive verbs as past indicative verbs.)
 
