@@ -111,13 +111,23 @@ nsubjpass(sold, cars)
 nsubjpass(delivered, Messages)
 </code></pre>
 
-<p>Expletives are represented with the label <code>expl</code>.</p>
+<p>Expletives can occur in subject or object position, and are represented with the label <code>expl</code>.</p>
 
 <pre><code class="language-sdparse">It is raining .
 expl(raining, It)
 </code></pre>
 
-<p>Expletives can cooccur with a subject.</p>
+<pre><code class="language-sdparse">It was Joseph Goebbels who said that .
+expl(Goebbels, It)
+</code></pre>
+
+<pre><code class="language-sdparse">I find it best not to think about that .
+ccomp(find, think)
+expl(find, it)
+xcomp(find, best)
+</code></pre>
+
+<p>Expletives can have a subject-labeled sister.</p>
 
 <pre><code class="language-sdparse">There is dinner in the fridge .
 expl(is, There)
@@ -161,6 +171,11 @@ csubjpass(sanctioned, killing)
 csubj(question, pick)
 </code></pre>
 
+<pre><code class="language-sdparse">On the side is a waste , leave it on the bottom .
+csubj(waste, side)
+cop(waste, is)
+</code></pre>
+
 <p>Much like <code>nsubj(pass)</code>, <code>csubj(pass)</code> can (and often does) cooccur with an expletive.</p>
 
 <pre><code class="language-sdparse">It is rare to find a company with such nice workers .
@@ -172,18 +187,33 @@ csubj(rare, find)
 
 <h4 id="functional-control">Functional control</h4>
 
-<p>The label <code>xcomp</code> is used for predicates whose external argument is <em>controlled</em> by an argument of a higher clause. This applies in multiple types of constructions: raising, obligatory control, resultatives and obligatory depictives.</p>
+<p>The label <code>xcomp</code> is used for predicates whose external argument is <em>controlled</em> by an argument of a higher clause. This applies in multiple types of constructions: <em>raising</em>, <em>obligatory control</em>, <em>resultatives</em> (obligatory and optional alike) and <em>obligatory depictives</em>.</p>
 
-<pre><code class="language-sdparse">RAISING
+<pre><code class="language-sdparse">The cat seems to be in pain .
+nsubj(seems, cat)
+xcomp(seems, be)
 </code></pre>
 
-<pre><code class="language-sdparse">CONTROL
+<pre><code class="language-sdparse">Convince your parents to let you get a pet .
+dobj(Convince, parents)
+xcomp(Convince, let)
+dobj(let, you)
+xcomp(let, get)
 </code></pre>
 
-<pre><code class="language-sdparse">RESULTATIVES
+<pre><code class="language-sdparse">Put an oily sauce on the food to make it moist .
+dobj(make, it)
+xcomp(make, moist)
 </code></pre>
 
-<pre><code class="language-sdparse">OBLIGATORY DEPICTIVES
+<pre><code class="language-sdparse">The pond froze solid .
+nsubj(pond, froze)
+xcomp(froze, solid)
+</code></pre>
+
+<pre><code class="language-sdparse">She thinks it looks artistic .
+nsubj(looks, it)
+xcomp(looks, artistic)
 </code></pre>
 
 <h3 id="noncore-arguments-and-predicate-modifiers">Noncore arguments and predicate modifiers</h3>
