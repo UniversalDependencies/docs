@@ -34,7 +34,15 @@ nsubj(interesting, this)
 
 Here, the head of *this* is *interesting*, because `nsubj`-labeled dependents attach at the clausal level, and the head of the lower clause is the adjective *interesting*. Similarly, it is the predicate that receives the clausal label `ccomp`.
 
-The copular verb *is* is treated as a function word: it is attached to the predicate and labeled `cop`, a special label for copular verbs. In English, only `be` receives this treatment. See [](#### Functional control) for copula-like verbs such as *become*.
+In equative uses of copulas, the distinction between predicate ans subject is somewhat arbitrary. In those cases, linear order is used as a cue: the subject is taken to appear first.
+
+In some of these equative uses, the right-hand side may be a clause, finite or not. In those cases, exceptionally, the copular verb is treated as the predicate, and the clause is given attached to it, with the `ccomp` label.
+
+~~~sdparse
+-ROOT- The problem is that these sentences are very difficult to analyze .
+root(-ROOT-, is)
+ccomp(is, difficult)
+~~~
 
 #### Nonverbal predicates with no copular verb
 
@@ -132,7 +140,7 @@ dobj(gave, trip)
 The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `dobj`, but does cooccur with `dobj`.
 
 ~~~sdparse
-I told them that I'm planning to come visit.
+I told them that I 'm planning to come visit.
 ccomp(told, visit)
 iobj(told, them)
 ~~~
@@ -215,9 +223,17 @@ xcomp(looks, artistic)
 
 ### Noncore arguments and predicate modifiers
 
-### Functional dependents
+### Function words attaching to predicates
 
-### Secondary predication
+#### Complementizers and subordinating conjunctions
+
+#### Copular verbs
+
+The copular verb *is* is treated as a function word: it is attached to the predicate and labeled `cop`, a special label for copular verbs. In English, only `be` receives this treatment. See [](#### Functional control) for copula-like verbs such as *become*.
+
+#### Auxiliaries
+
+### Resultatives and depictives
 
 ## Below the clause
 
