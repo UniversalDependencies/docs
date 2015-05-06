@@ -60,7 +60,14 @@ nsubj(interesting, this)
 
 <p>Here, the head of <em>this</em> is <em>interesting</em>, because <code>nsubj</code>-labeled dependents attach at the clausal level, and the head of the lower clause is the adjective <em>interesting</em>. Similarly, it is the predicate that receives the clausal label <code>ccomp</code>.</p>
 
-<p>The copular verb <em>is</em> is treated as a function word: it is attached to the predicate and labeled <code>cop</code>, a special label for copular verbs. In English, only <code>be</code> receives this treatment. See [](#### Functional control) for copula-like verbs such as <em>become</em>.</p>
+<p>In equative uses of copulas, the distinction between predicate ans subject is somewhat arbitrary. In those cases, linear order is used as a cue: the subject is taken to appear first.</p>
+
+<p>In some of these equative uses, the right-hand side may be a clause, finite or not. In those cases, exceptionally, the copular verb is treated as the predicate, and the clause is given attached to it, with the <code>ccomp</code> label.</p>
+
+<pre><code class="language-sdparse">-ROOT- The problem is that these sentences are very difficult to analyze .
+root(-ROOT-, is)
+ccomp(is, difficult)
+</code></pre>
 
 <h4 id="nonverbal-predicates-with-no-copular-verb">Nonverbal predicates with no copular verb</h4>
 
@@ -145,7 +152,7 @@ dobj(gave, trip)
 
 <p>The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an <code>iobj</code> serving as a “second object” to the clausal complement. For that reason, the clausal complement label <code>ccomp</code> never cooccurs with <code>dobj</code>, but does cooccur with <code>dobj</code>.</p>
 
-<pre><code class="language-sdparse">I told them that I'm planning to come visit.
+<pre><code class="language-sdparse">I told them that I 'm planning to come visit.
 ccomp(told, visit)
 iobj(told, them)
 </code></pre>
@@ -218,9 +225,17 @@ xcomp(looks, artistic)
 
 <h3 id="noncore-arguments-and-predicate-modifiers">Noncore arguments and predicate modifiers</h3>
 
-<h3 id="functional-dependents">Functional dependents</h3>
+<h3 id="function-words-attaching-to-predicates">Function words attaching to predicates</h3>
 
-<h3 id="secondary-predication">Secondary predication</h3>
+<h4 id="complementizers-and-subordinating-conjunctions">Complementizers and subordinating conjunctions</h4>
+
+<h4 id="copular-verbs">Copular verbs</h4>
+
+<p>The copular verb <em>is</em> is treated as a function word: it is attached to the predicate and labeled <code>cop</code>, a special label for copular verbs. In English, only <code>be</code> receives this treatment. See [](#### Functional control) for copula-like verbs such as <em>become</em>.</p>
+
+<h4 id="auxiliaries">Auxiliaries</h4>
+
+<h3 id="resultatives-and-depictives">Resultatives and depictives</h3>
 
 <h2 id="below-the-clause">Below the clause</h2>
 
@@ -234,7 +249,7 @@ xcomp(looks, artistic)
 
 <h4 id="quantifier-phrases">Quantifier phrases</h4>
 
-<h4 id="functional-dependents-1">Functional dependents</h4>
+<h4 id="functional-dependents">Functional dependents</h4>
 
 <h2 id="above-the-clause">Above the clause</h2>
 
