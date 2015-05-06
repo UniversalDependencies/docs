@@ -38,14 +38,14 @@ The following adverbs with PTB tag `RBR` also have this feature:
 ### `Sup`: superlative, third degree
 
 The quality of one object is compared to the same quality of all other
-objects within a set. All words with PTB tags `JJS` or `RBS` are marked with this
+objects within a set. All words with PTB tags `JJS` are marked with this
 feature.
 
 #### Examples
 
 * _This is the <b>youngest</b> woman in our team._
 
-The following adverbs with PTB tag `RBR` also have this feature:
+The following adverbs with PTB tag `RBS` also have this feature:
 
 * _hardest, fastest, latest, longest, highest, easiest, earliest, furthest, farthest, soonest, lowest, closest, best, worst, least, quickest, slowest_
 
