@@ -38,10 +38,30 @@
 
 <h2 id="changes-affecting-the-tree-structure">Changes Affecting the Tree Structure</h2>
 
-<h3 id="treatment-of-copulae">Treatment of Copulae</h3>
-<p>### Treatment of Prepositional Phrases</p>
+<p>This section lists the changes to the represenation that affect the structure of dependency trees.</p>
 
-<p>One major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies represenation the head of a prepositional phrase is always a content word – either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case <a href="en-dep/case">case</a> or a <a href="en-dep/mark">marker</a> relation.</p>
+<h3 id="treatment-of-copular-constructions">Treatment of Copular Constructions</h3>
+
+<p>The first difference between between Universal Dependencies and Stanford Dependencies is the treatment of copular constructions. While only nominal and adjectival predicates were treated as heads of copular constructions in the Stanford Dependencies represtnation, we also treat prepositional and adverbial predicates as the head of <a href="en-dep/cop">copular</a> constructions in the Universal Dependencies represenation.</p>
+
+<pre><code class="language-sdparse">ROOT He is in the house
+cop(house, is)
+root(ROOT, house)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT She is here
+cop(here, is)
+root(ROOT, here)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT She is a lawyer
+cop(lawyer, is)
+root(ROOT, lawyer)
+</code></pre>
+
+<h3 id="treatment-of-prepositional-phrases">Treatment of Prepositional Phrases</h3>
+
+<p>Another major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies represenation the head of a prepositional phrase is always a content word – either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case <a href="en-dep/case">case</a> or a <a href="en-dep/mark">marker</a> relation.</p>
 
 <p>If the prepositional phrase only consists of a preposition followed by a noun phrase we use the <a href="en-dep/nmod">nmod</a> relation between the head of the prepositional phrase and the noun or predicate which it modifies.</p>
 
@@ -194,14 +214,14 @@ relation name and the coordinating conjunction are now separated by <code>:</cod
 <p>Unlike in the SD representation, prepositional phrases and adverbial phrases are also 
 treated as the head of copular constructions in UD as illustrated in the following examples:</p>
 
-<pre><code class="language-sdparse">She is here
-cop(here-3, is-2)
-root(ROOT-0, here-3)
+<pre><code class="language-sdparse">ROOT She is here
+cop(here, is)
+root(ROOT, here)
 </code></pre>
 
-<pre><code class="language-sdparse">He is in the house
-cop(house-5, is-2)
-root(ROOT-0, house-5)
+<pre><code class="language-sdparse">ROOT He is in the house
+cop(house, is)
+root(ROOT, house)
 </code></pre>
 
 <p>Note that this change is currently only partially implemented in the Stanford Parser. In copular
