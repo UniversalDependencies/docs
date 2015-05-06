@@ -76,12 +76,11 @@ There are two differences regarding the treatment of multi-word expressions in U
 
 ## Mapping of Stanford Dependencies to Universal Dependencies
 
-
 The following list provides for each relation in the original Stanford Dependencies representation the name of
 the equivalent relation in the Universal Dependencies representation. For some relations there doesn't exist
 a 1:1 mapping. In these cases you'll find a description of how different instances of the relation are treated
 in the UD representation. The list also provides the name of the GrammaticalRelation object as defined
-in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded into other relations or otherwise changedare highlighted in <b>red</b>.
+in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded into other relations or changed otherwise are highlighted in <b>red</b>.
 
 
 ### <b>`acomp`: `xcomp`</b>
@@ -181,7 +180,7 @@ relation name and the coordinating conjunction are now separated by `:` instead 
 `cop` relations in SD are still annotated as [`cop`](en-dep/cop) in UD.
 
 Unlike in the SD representation, prepositional phrases and adverbial phrases are also 
-treated as the head of a copular construction in UD as illustrated in the following examples:
+treated as the head of copular constructions in UD as illustrated in the following examples:
 
 ~~~ sdparse
 She is here
