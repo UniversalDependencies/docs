@@ -4,7 +4,8 @@ title:  'xcomp:pred'
 shortdef : 'predicate'
 ---
 
-In Irish, the substantive verb _bí_ `to be' can have predicate arguments in the form of adverbs, adjectives and prepositional phrases.
+In LFG, the `xcomp' label is used to represent predicates. We extend it here as a UD Irish subtype `xcomp:pred'.
+In Irish, the substantive verb _bí_ "to be" can have predicate arguments in the form of adverbs, adjectives and prepositional phrases. 
 Note that this differs from ([copula]()) constructions. 
 
 #### Adjective Predicate
