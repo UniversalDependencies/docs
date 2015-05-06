@@ -14,7 +14,7 @@ The `neg` label is used for Irish negative verb particles. These particles take 
  
 
 ~~~ sdparse
-Ní raibh aon Teresa ina measc \n There were no Teresa's among them
+Ní raibh aon Teresa ina measc \n There was not any Teresa's among them
 neg(raibh,Ní)
 ~~~
 
