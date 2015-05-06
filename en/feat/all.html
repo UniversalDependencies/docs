@@ -162,34 +162,43 @@ position, they are marked as <code>Nom</code>, while if they appear in object po
 <p><a id="al-en-feat/Degree" class="al-dest"></a></p>
 <h2><code>Degree</code>: degree of comparison</h2>
 
-<p>In English,  <code>Degree</code> is a feature of (adjectives)[en-pos/ADJ] and (adverbs)[en-pos/ADV].</p>
+<p>In English,  <code>Degree</code> is a feature of (adjectives)[en-pos/ADJ] and some (adverbs)[en-pos/ADV]. </p>
 
 <h3 id="pos-positive-first-degree"><code>Pos</code>: positive, first degree</h3>
 
 <p>This is the base form that merely states a quality of something,
 without comparing it to qualities of others. Note that although this
 degree is traditionally called “positive”, negative properties can be
-compared, too. All words with PTB tags <code>JJ</code> or <code>RB</code> are marked with this
-feature.</p>
+compared, too. All words with PTB tags <code>JJ</code> have this feature.</p>
 
 <h4 id="examples">Examples</h4>
 
 <ul>
-  <li><em><b>young</b> man</em></li>
-  <li><em>The woman ran <b>fast</b>.</em></li>
+  <li><em><b>young</b> woman</em></li>
+</ul>
+
+<p>Additionally, the following adverbs with PTB tag <code>RB</code> also have this feature:</p>
+
+<ul>
+  <li><em>hard, fast, late, long, high, easy, early, far, soon, low, close, well, badly, little</em></li>
 </ul>
 
 <h3 id="cmp-comparative-second-degree"><code>Cmp</code>: comparative, second degree</h3>
 
 <p>The quality of one object is compared to the same quality of another
-object. All words with PTB tags <code>JJR</code> or <code>RBR</code> are marked with this
+object. All words with PTB tags <code>JJR</code> are marked with this
 feature.</p>
 
 <h4 id="examples-1">Examples</h4>
 
 <ul>
   <li><em>The man is <b>younger</b> than me.</em></li>
-  <li><em>She ran <b>faster</b> than anyone else.</em></li>
+</ul>
+
+<p>The following adverbs with PTB tag <code>RBR</code> also have this feature:</p>
+
+<ul>
+  <li><em>harder, faster, later, longer, higher, easier, earlier, further, farther, sooner, lower, closer, better, worse, less, quicker, slower</em></li>
 </ul>
 
 <h3 id="sup-superlative-third-degree"><code>Sup</code>: superlative, third degree</h3>
@@ -201,9 +210,16 @@ feature.</p>
 <h4 id="examples-2">Examples</h4>
 
 <ul>
-  <li><em>This is the <b>youngest</b> man in our team.</em></li>
-  <li><em><b>Best</b> of all, there are no ads.</em></li>
+  <li><em>This is the <b>youngest</b> woman in our team.</em></li>
 </ul>
+
+<p>The following adverbs with PTB tag <code>RBR</code> also have this feature:</p>
+
+<ul>
+  <li><em>hardest, fastest, latest, longest, highest, easiest, earliest, furthest, farthest, soonest, lowest, closest, best, worst, least, quickest, slowest</em></li>
+</ul>
+
+<p>Note that most adverbs in English don’t have a <code>Degree</code> feature because their sencond and third degree are constructed periphrastically using the adverbs <em>more</em> and <em>most</em>, e.g. <em>more quietly</em>, <em>most seriously</em>. </p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-feat/Degree.md" target="#">edit Degree</a></p>
 
