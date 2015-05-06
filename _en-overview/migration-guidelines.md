@@ -95,7 +95,7 @@ In this example the prepositional phrase modifies a nominal predicate in a copul
 
 ### Multi-Word Expressions
 
-There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now <b>always head-inital</b> and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the [mwe relation](en-dep/mwe) for a complete list of multi-word expressions in UD.
+There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now always head-inital and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the [mwe relation](en-dep/mwe) for a complete list of multi-word expressions in UD.
 
 
 ## Mapping of Stanford Dependencies to Universal Dependencies
