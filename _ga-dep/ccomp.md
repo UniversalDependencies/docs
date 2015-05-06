@@ -6,6 +6,15 @@ shortdef: 'clausal complement'
 
 `ccomp' marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers _go_, _nach_, and _gur_.
 
+~~~ sdparse
+Tá a fhios agam gur imigh mo mháthair \n I know that my mother left
+ccomp(Tá, imigh)
+ccomp(know,left)
+~~~
+
+_Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta_ \n `We believe, that the students <b>develop</b> their understanding of professional life of industry'
+
+
 ~~~ conllx
 1	Creidimidne	creid	VERB	VERB	_	40	root	_	_
 2	,	,	PUNCT	PUNCT	_	4	punct	_	_
