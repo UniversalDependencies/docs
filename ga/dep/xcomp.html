@@ -34,8 +34,32 @@
 
           <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>xcomp</code>.</p>
+<p>The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. 
+An open clausal complement (xcomp) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp.
+These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers.</p>
+
+<pre><code class="language-sdparse">Is leor breathnú ar na staitisticí chun a fheiceáil gur thit na caighdeáin \n You must look at the statistics to see that the standards dropped
+xcomp(leor, fheiceáil)
+</code></pre>
+
+<pre><code class="language-sdparse">Caithfidh mé a dhul abhaile \n I have to go home
+xcomp(Caithfidh, dhul)
+</code></pre>
+
+<p>The UD Irish scheme uses <code>xcomp</code> to denote progressive aspectual phrases, the structure of which follows:
+Be + SUBJ + at (ag) + Verbal Noun
+In these cases, and in keeping with regular prepositional phrases, we attach the verbal noun to the higher verb (“be”) using the <code>xcomp</code> label. The preposition is then a dependent of the verbal noun, with that relationship labelled as `case’.</p>
+
+<pre><code class="language-sdparse">Tá sé ag rith \n He is running
+xcomp(Tá, rith)
+</code></pre>
+
+<p>There are also some similar periphrastic constructions similar to these progressives that use <em>le</em> or <em>ar</em></p>
+
+<pre><code class="language-sdparse">chuirfeadh iad ar fáil \n they would be made available
+xcomp(fáil, ar)
+
+</code></pre>
 
 
 <!-- "in other languages" links -->
