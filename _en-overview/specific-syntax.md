@@ -92,14 +92,26 @@ Messages will not be delivered simultaneously .
 nsubjpass(delivered, Messages)
 ~~~
 
-Expletives are represented with the label `expl`.
+Expletives can occur in subject or object position, and are represented with the label `expl`.
 
 ~~~sdparse
 It is raining .
 expl(raining, It)
 ~~~
 
-Expletives can cooccur with a subject.
+~~~sdparse
+It was Joseph Goebbels who said that .
+expl(Goebbels, It)
+~~~
+
+~~~sdparse
+I find it best not to think about that .
+ccomp(find, think)
+expl(find, it)
+xcomp(find, best)
+~~~
+
+Expletives can have a subject-labeled sister.
 
 ~~~sdparse
 There is dinner in the fridge .
@@ -149,6 +161,12 @@ Whether or not you pick them up again is probably a question of practice .
 csubj(question, pick)
 ~~~
 
+~~~sdparse
+On the side is a waste , leave it on the bottom .
+csubj(waste, side)
+cop(waste, is)
+~~~
+
 Much like `nsubj(pass)`, `csubj(pass)` can (and often does) cooccur with an expletive.
 
 ~~~sdparse
@@ -161,22 +179,38 @@ Clausal core arguments are restricted to verbal and adjectival predicates. Nouns
 
 #### Functional control
 
-The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions: raising, obligatory control, resultatives and obligatory depictives.
+The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions: _raising_, _obligatory control_, _resultatives_ (obligatory and optional alike) and _obligatory depictives_.
 
 ~~~sdparse
-RAISING
+The cat seems to be in pain .
+nsubj(seems, cat)
+xcomp(seems, be)
 ~~~
 
 ~~~sdparse
-CONTROL
+Convince your parents to let you get a pet .
+dobj(Convince, parents)
+xcomp(Convince, let)
+dobj(let, you)
+xcomp(let, get)
 ~~~
 
 ~~~sdparse
-RESULTATIVES
+Put an oily sauce on the food to make it moist .
+dobj(make, it)
+xcomp(make, moist)
 ~~~
 
 ~~~sdparse
-OBLIGATORY DEPICTIVES
+The pond froze solid .
+nsubj(pond, froze)
+xcomp(froze, solid)
+~~~
+
+~~~sdparse
+She thinks it looks artistic .
+nsubj(looks, it)
+xcomp(looks, artistic)
 ~~~
 
 ### Noncore arguments and predicate modifiers
