@@ -574,7 +574,7 @@ compound(bean, Choilm)
 <p><a id="al-ga-dep/compound:prt" class="al-dest"></a></p>
 <h2><code>compound:prt</code>: phrasal particles</h2>
 
-<p>Phrasal particles (compound:prt) are used in connection with phrasal verbs, where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
+<p>In UD Irish, the subtype `compound:prt’ (phrasal particle) is used in connection with phrasal verbs, where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
 
 <pre><code class="language-sdparse">Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
@@ -592,7 +592,7 @@ compound:prt(laid, out)
 conj(Tigh,Lóistín)
 </code></pre>
 
-<pre><code class="language-sdparse">ionaid oidhreachta, chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
+<pre><code class="language-sdparse">ionaid oidhreachta , chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
 conj(oidhreachta,chultúrtha)
 conj(oidhreachta,Ghaeilge)
 </code></pre>
@@ -617,8 +617,8 @@ for <code>cop</code>.</p>
 <p><a id="al-ga-dep/csubj:cop" class="al-dest"></a></p>
 <h2><code>csubj:cop</code>: relative clause modifier</h2>
 
-<p>A <em>clausal copular subject</em> (<code>csubj:cop</code>) is a clause that acts as the
-subject of another, copular clause. As in all copular clauses, the
+<p>A <em>clausal copular subject</em> (<code>csubj:cop</code>) is a UD Irish subtype, used to label a clause that acts as the
+subject of another (copular) clause. As in all copular clauses, the
 predicate acts as the head of the clause and hence it is also the
 governor of the copular subject. </p>
 
@@ -688,12 +688,14 @@ quant(cheannaire, chéad)
 
 <p>The <code>discourse</code> label is used to connect interjections and other discourse particles to a clause.</p>
 
-<pre><code class="language-sdparse">Á , níl sé chomh holc sin \n Aw, it is not as bad as that !
+<pre><code class="language-sdparse">Á , níl sé chomh holc sin ! \n Aw, it is not as bad as that !
 discourse(níl, Á)
+discourse(is, Aw)
 </code></pre>
 
 <pre><code class="language-sdparse">Leoga , tá aitheantas tugtha dóibh \n Indeed , they are given recognition
 discourse(tá, Leoga)
+discourse(are, Indeed)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/discourse.md" target="#">edit discourse</a></p>
