@@ -26,7 +26,7 @@ advcl(n-iarrtar, thugtar)
 advcl(asked, given)
 ~~~
 
-
+_Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo_ `But when they were going down, they met sailors'
 
 ~~~ conllx
 1	Ach	ach	SCONJ	SCONJ	_	4	mark	_	_
