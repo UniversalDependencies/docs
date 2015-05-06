@@ -521,8 +521,46 @@ UD takes the first conjunct as the head of a coordinated phrase. (Note that this
 <p><a id="al-ga-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p>UD Irish uses the <code>compound</code> for noun compounding. In Irish, when two nouns are compounded, the second is in the genitive case. Compounds can denote ownership or  an attribute.</p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Attributive:</p>
+
+<p><em>Oifig an Phoist</em> `Post Office’   (lit. Office the Post)</p>
+
+<pre><code class="language-sdparse">ag cosaint na n-oifigí poist tuaithe \n protecting the rural post offices
+compound(n-oifigí, poist)
+compound(n-oifigí, tuaithe)
+</code></pre>
+
+<pre><code class="language-sdparse">roimh teacht na traenach \n before the train's arrival
+compound(teacht, traenach)
+</code></pre>
+
+<p>Titles:</p>
+
+<pre><code class="language-sdparse">an tSúir Concepta \n Sr. Concepta
+compound(Concepta, tSúir)
+</code></pre>
+
+<p>Reflexive Pronoun: féin</p>
+
+<p>Similar to the emphatic pronoun -self in Engish in himself, themselves, itself etc.</p>
+
+<pre><code class="language-sdparse">Cé hiad féin ? \n Who are THEY ?
+compound(hiad, féin)
+</code></pre>
+
+<p>It can also translate as ownership, yet the possessive pronoun will also be present in those constructions using <em>féin</em>:</p>
+
+<pre><code class="language-sdparse">ábalta a rá lena bpobal féin \n able to say to their own community
+compound(bpobal, féin)
+</code></pre>
+
+<pre><code class="language-sdparse">le bean Choilm \n with Colm's wife
+compound(bean, Choilm)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/compound.md" target="#">edit compound</a></p>
 
