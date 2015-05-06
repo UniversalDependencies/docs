@@ -31,7 +31,7 @@ case(table-7, on-5)
 nmod(is-2, table-7)
 ~~~
 
-If the prepositional phrase cosists of a preposition followed by a clause we either use the [acl](en-dep/nmod) or [advcl](en-dep/advcl) relation between the head of the prepositional phrase and the noun or predicate it modifies. `acl` is being used whenever the prepositional phrase modifies a noun unless it is a predicate in a [copular](en-dep/cop) construction. `advcl` is being used whenever the prepositional phrase modifies a verb, adjective or nominal predicate in a copular construction. The preposition is attached as a [marker](en-dep/mark).
+If the prepositional phrase consists of a preposition followed by a clause we either use the [acl](en-dep/nmod) or [advcl](en-dep/advcl) relation between the head of the prepositional phrase and the noun or predicate it modifies. `acl` is being used whenever the prepositional phrase modifies a noun unless it is a predicate in a [copular](en-dep/cop) construction. `advcl` is being used whenever the prepositional phrase modifies a verb, adjective or nominal predicate in a copular construction. The preposition is attached as a [marker](en-dep/mark).
 
 #### Examples:
 
@@ -66,7 +66,7 @@ mark(over, from)
 advcl(war, over)
 ~~~
 
-In this example the prepositional phrase modifies a nominal predicate in a copular construction, namely war, and therefore we use `advcl`.
+In this example the prepositional phrase modifies a nominal predicate in a copular construction, namely _war_, and therefore we use `advcl`. Also note that the prepositional phrase does also contain a copular construction and therefore the adverbial predicate _over_ is the head of the prepositional phrase.
 
 
 ### Multi-Word Expressions
