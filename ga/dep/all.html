@@ -1032,8 +1032,11 @@ parataxis(Fuaireamar, féach)
 <p><a id="al-ga-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>root</code>.</p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
+
+<pre><code class="language-sdparse">Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not made if they are not requested
+root(ROOT, thugtar)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/root.md" target="#">edit root</a></p>
 
@@ -1044,7 +1047,7 @@ for <code>root</code>.</p>
 
 <h3 id="examples">Examples:</h3>
 
-<pre><code class="language-sdparse">Slán leat, a chara \n Goodbye, friend
+<pre><code class="language-sdparse">Slán leat , a chara \n Goodbye , friend
 vocative(Slán, chara)
 vocative(Goodbye, friend)
 </code></pre>
