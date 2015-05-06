@@ -12,7 +12,7 @@ conj(Tigh,Lóistín)
 ~~~
 
 ~~~ sdparse
-ionaid oidhreachta, chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
+ionaid oidhreachta , chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
 conj(oidhreachta,chultúrtha)
 conj(oidhreachta,Ghaeilge)
 ~~~
