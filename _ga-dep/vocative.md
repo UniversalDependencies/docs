@@ -9,7 +9,7 @@ The `vocative` relation is used to mark a dialogue participant addressed in text
 ### Examples:
 
 ~~~ sdparse
-Slán leat, a chara \n Goodbye, friend
+Slán leat , a chara \n Goodbye , friend
 vocative(Slán, chara)
 vocative(Goodbye, friend)
 ~~~
