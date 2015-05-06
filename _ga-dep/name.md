@@ -7,7 +7,7 @@ shortdef: 'name'
 The `name` relation is used with compounding proper nouns, typically for
 names of people, places, organisations and so on.
 
-In Irish, this not only includes surnames, but also surname particles such as Mac, Mc, Ó, de, Uí, Ní etc.
+In UD Irish, this not only includes surnames, but also surname particles such as Mac, Mc, Ó, de, Uí, Ní etc.
 
 
 ~~~ sdparse
