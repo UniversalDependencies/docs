@@ -78,9 +78,106 @@ mark(predicting, with)
 
 ### Core arguments
 
+UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are `nsubj`, `nsubjpass`, `dobj` and `iobj` for nominal arguments, and `ccomp`, `xcomp`, `csubj` and `csubjpass` for clausal arguments.
+
+`nsubj` and `nsubjpass` are used for external arguments of any predicate (as in the examples above); the only difference is that `nsubjpass` is used in passive-voice clauses.
+
+~~~sdparse
+Unsafe cars sold here !
+nsubjpass(sold, cars)
+~~~
+
+~~~sdparse
+Messages will not be delivered simultaneously .
+nsubjpass(delivered, Messages)
+~~~
+
+Expletives are represented with the label `expl`.
+
+~~~sdparse
+It is raining .
+expl(raining, It)
+~~~
+
+Expletives can cooccur with a subject.
+
+~~~sdparse
+There is dinner in the fridge .
+expl(is, There)
+nsubj(is, dinner)
+~~~
+
+The internal argument labels, `dobj` and `iobj`, are exclusive to verbal predicates and a handful of adjectives (namely: *worth*, *like* and *unlike*, following Huddleston and Pullum (2001)).
+
+The distinction between `dobj` and `iobj` is strictly syntactic; `iobj` is reserved for "second objects" with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can `iobj` occur.
+
+~~~sdparse
+They gave me the trip as a gift.
+iobj(gave, me)
+dobj(gave, trip)
+~~~
+
+The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `dobj`, but does cooccur with `dobj`.
+
+~~~sdparse
+I told them that I'm planning to come visit.
+ccomp(told, visit)
+iobj(told, them)
+~~~
+
+However, the same observation does not hold of verbs that take open complements, labeled `xcomp` (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with `xcomp` are uniformly labeled `dobj`, and never `iobj`.
+
+~~~sdparse
+I told them to expect my visit.
+dobj(told, them)
+xcomp(told, expect)
+~~~
+
 #### Clausal core arguments
 
+Like other clausal labels, the clausal core argument labels apply to finite and nonfinite clauses without distinction. (In English `xcomp` can only be applied to nonfinite clauses because there is no control into finite clauses; but this is not part of the definition of `xcomp`.)
+
+The clausal subject labels apply to verbal as well as nonverbal predicates. The distinction between `csubj` and `csubjpass` mirrors that between `nsubj` and `nsubjpass`.
+
+~~~sdparse
+Islamists may disagree on whether killing innocents is sanctioned by the laws of jihad .
+csubjpass(sanctioned, killing)
+~~~
+
+~~~sdparse
+Whether or not you pick them up again is probably a question of practice .
+csubj(question, pick)
+~~~
+
+Much like `nsubj(pass)`, `csubj(pass)` can (and often does) cooccur with an expletive.
+
+~~~sdparse
+It is rare to find a company with such nice workers .
+expl(rare, It)
+csubj(rare, find)
+~~~
+
+Clausal core arguments are restricted to verbal and adjectival predicates. Nouns never take clausal core arguments. (See [](#### Clausal modifiers of nouns) for how to represent clausal dependents of nouns.)
+
 #### Functional control
+
+The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions: raising, obligatory control, resultatives and obligatory depictives.
+
+~~~sdparse
+RAISING
+~~~
+
+~~~sdparse
+CONTROL
+~~~
+
+~~~sdparse
+RESULTATIVES
+~~~
+
+~~~sdparse
+OBLIGATORY DEPICTIVES
+~~~
 
 ### Noncore arguments and predicate modifiers
 
