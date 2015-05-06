@@ -108,7 +108,7 @@ xcomp(painted, blue)
 ~~~
 
 Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
-(he is painting something blue), in a way that is not true of depictives. Such an analysis of optional depictives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
+(he is painting something blue), in a way that is not true of depictives. Such an analysis of optional resultatives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
 subcategorization frame by application of a lexical rule, and that this frame
 includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that normally intransitive verbs like _to bark_ can also form similar resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
 
