@@ -225,10 +225,10 @@ case(midnight, before)
 advmod(midnight, right)
 </div>
 
-The analysis here is that _right_ modifies the entire phrase _after midnight_ and therefore attaches to _midnight_, 
+The analysis here is that _right_ modifies the entire phrase _before midnight_ and therefore attaches to _midnight_, 
 which is the head of this phrase. (It is a general property of dependency trees that phrase modification is 
 structurally indistinguishable from head modification.) Further support for this analysis comes from the possibility
-of replacing _after midnight_ by the adverb _then_.
+of replacing _before midnight_ by the adverb _then_.
 
 <div id="s7e" class="sd-parse">
 right then
