@@ -9,5 +9,6 @@ Phrasal particles (compound:prt) are used in connection with phrasal verbs, wher
 ~~~ sdparse
 Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
+compound:prt(laid, out)
 ~~~
 
