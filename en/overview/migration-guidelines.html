@@ -38,11 +38,63 @@
 
 <h2 id="changes-affecting-the-tree-structure">Changes Affecting the Tree Structure</h2>
 
-<h3 id="treatment-of-copula">Treatment of Copula</h3>
-<p>### Treatment of Prepositional Phrases
-### Multi-Word Expressions</p>
+<h3 id="treatment-of-copulae">Treatment of Copulae</h3>
+<p>### Treatment of Prepositional Phrases</p>
 
-<h2 id="mapping-of-stanford-dependencies-to-universal-depencies">Mapping of Stanford Dependencies to Universal Depencies</h2>
+<p>One major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies represenation the head of a prepositional phrase is always a content word – either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case <a href="en-dep/case">case</a> or a <a href="en-dep/mark">marker</a> relation.</p>
+
+<p>If the prepositional phrase only consists of a preposition followed by a noun phrase we use the <a href="en-dep/nmod">nmod</a> relation between the head of the prepositional phrase and the noun or predicate which it modifies.</p>
+
+<h4 id="examples">Examples:</h4>
+
+<pre><code class="language-sdparse">The office of the chair.
+case(chair-5, of-3)
+nmod(office-2, chair-5)
+</code></pre>
+
+<pre><code class="language-sdparse">There is a ball on the table.
+case(table-7, on-5)
+nmod(is-2, table-7)
+</code></pre>
+
+<p>If the prepositional phrase cosists of a preposition followed by a clause we either use the <a href="en-dep/nmod">acl</a> or <a href="en-dep/advcl">advcl</a> relation between the head of the prepositional phrase and the noun or predicate it modifies. <code>acl</code> is being used whenever the prepositional phrase modifies a noun unless it is a predicate in a <a href="en-dep/cop">copular</a> construction. <code>advcl</code> is being used whenever the prepositional phrase modifies a verb, adjective or nominal predicate in a copular construction. The preposition is attached as a <a href="en-dep/mark">marker</a>.</p>
+
+<h4 id="examples-1">Examples:</h4>
+
+<pre><code class="language-sdparse">The accident happened as the night was falling
+mark(falling, as)
+advcl(happened, falling)
+</code></pre>
+
+<p>In this example the prepositional phrase modifies a verb, namely <em>happened</em>, and therefore we use <code>advcl</code>.</p>
+
+<pre><code class="language-sdparse">I am just very nervous after watching the movie.
+mark(watching, after)
+advcl(nervous, watching)
+</code></pre>
+
+<p>In this example the prepositional phrase modifies an adjectival predicate, namely <em>nervous</em>, and therefore we use <code>advcl</code>.</p>
+
+<pre><code class="language-sdparse">We have no information on whether users are experiencing problems.
+mark(experiencing, on)
+acl(information, experiencing)
+</code></pre>
+
+<p>In this example the prepositional phrase modifies a noun phrase, namely <em>information</em>, and therefore we use <code>acl</code>.</p>
+
+<pre><code class="language-sdparse">The war was a long way from being over.
+cop(way, was)
+mark(over, from)
+advcl(war, over)
+</code></pre>
+
+<p>In this example the prepositional phrase modifies a nominal predicate in a copular construction, namely war, and therefore we use <code>advcl</code>.</p>
+
+<h3 id="multi-word-expressions">Multi-Word Expressions</h3>
+
+<p>There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now <b>always head-inital</b> and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the <a href="en-dep/mwe">mwe relation</a> for a complete list of multi-word expressions in UD.</p>
+
+<h2 id="mapping-of-stanford-dependencies-to-universal-dependencies">Mapping of Stanford Dependencies to Universal Dependencies</h2>
 
 <p>The following list provides for each relation in the original Stanford Dependencies representation the name of
 the equivalent relation in the Universal Dependencies representation. For some relations there doesn’t exist
