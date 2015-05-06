@@ -8,7 +8,7 @@ UD Irish uses the `compound` for noun compounding. In Irish, when two nouns are 
 
 ### Examples
 
-Attributive:
+#### Attributive:
 
 _Oifig an Phoist_ `Post Office'   (lit. Office the Post)
 
@@ -24,7 +24,7 @@ compound(teacht, traenach)
 ~~~
 
 
-Titles:
+#### Titles:
 
 ~~~ sdparse
 an tSúir Concepta \n Sr. Concepta
@@ -32,7 +32,7 @@ compound(Concepta, tSúir)
 ~~~
 
 
-Reflexive Pronoun: féin
+#### Reflexive Pronoun: féin
 
 Similar to the emphatic pronoun -self in Engish in himself, themselves, itself etc.
 
@@ -41,6 +41,7 @@ Cé hiad féin ? \n Who are THEY ?
 compound(hiad, féin)
 ~~~ 
 
+#### Ownsership:
 
 It can also translate as ownership, yet the possessive pronoun will also be present in those constructions using _féin_:
 
