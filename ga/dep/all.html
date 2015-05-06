@@ -945,7 +945,7 @@ nmod:poss(mhúinteoir, mo)
 <p><a id="al-ga-dep/nmod:prep" class="al-dest"></a></p>
 <h2><code>nmod:prep</code>: prepositional pronouns</h2>
 
-<p>A prepositional pronouns is a subtype of the <a href="">nmod</a> relation: </p>
+<p>`nmod:prep’, used for prepositional pronouns is a UD Irish subtype of the <a href="">nmod</a> relation: </p>
 
 <p>16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. In the UD scheme, we regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the langauge-specific label <code>nmod:prep</code> so as not to lose information regarding the presence of the preposition.</p>
 
@@ -1078,7 +1078,7 @@ parataxis(Fuaireamar, féach)
 
 <p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
 
-<pre><code class="language-sdparse">Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not made if they are not requested
+<pre><code class="language-sdparse">ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not made if they are not requested
 root(ROOT, thugtar)
 </code></pre>
 
@@ -1149,7 +1149,8 @@ xcomp(fáil, ar)
 <p><a id="al-ga-dep/xcomp:pred" class="al-dest"></a></p>
 <h2><code>xcomp:pred</code>: predicate</h2>
 
-<p>In Irish, the substantive verb <em>bí</em> `to be’ can have predicate arguments in the form of adverbs, adjectives and prepositional phrases.
+<p>In LFG, the <code>xcomp' label is used to represent predicates. We extend it here as a UD Irish subtype </code>xcomp:pred’.
+In Irish, the substantive verb <em>bí</em> “to be” can have predicate arguments in the form of adverbs, adjectives and prepositional phrases. 
 Note that this differs from (<a href="">copula</a>) constructions. </p>
 
 <h4 id="adjective-predicate">Adjective Predicate</h4>
