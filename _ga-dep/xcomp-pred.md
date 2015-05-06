@@ -29,7 +29,7 @@ xcomp:pred(is, charge)
 ~~~ sdparse
 Tá Mel Gibson go hiontach sa scannán sin \n Mel Gibson is wonderful in that movie
 xcomp:pred(Tá, hiontach)
-xcomp:pred(Tá, wonderful)
+xcomp:pred(is, wonderful)
 ~~~
 
 
