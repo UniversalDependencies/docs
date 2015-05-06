@@ -11,7 +11,6 @@ Note that this differs from ([copula]()) constructions.
 ~~~ sdparse
 Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
 xcomp:pred(Bhí, dochreidte)
-xcomp:pred(was, unbelievable)
 ~~~
 
 #### Prepositional Predicate
