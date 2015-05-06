@@ -22,7 +22,6 @@ nummod(first, year)
 ~~~ sdparse
 fo-alt (1) \n sub-paragraph (1)
 nummod(fo-alt, (1))
-nummod(sub-paragraph, (1))
 ~~~
 
 
