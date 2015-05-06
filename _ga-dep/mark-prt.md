@@ -44,6 +44,12 @@ mark:prt(inis, D')
 ~~~
 
 
+~~~ sdparse
+Ar a seacht a chlog \n At seven o' clock
+mark:prt(chlog, a)
+mark:prt(clock, o')
+~~~
+
 
 
 
