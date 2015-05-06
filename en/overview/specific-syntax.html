@@ -99,9 +99,92 @@ mark(predicting, with)
 
 <h3 id="core-arguments">Core arguments</h3>
 
+<p>UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are <code>nsubj</code>, <code>nsubjpass</code>, <code>dobj</code> and <code>iobj</code> for nominal arguments, and <code>ccomp</code>, <code>xcomp</code>, <code>csubj</code> and <code>csubjpass</code> for clausal arguments.</p>
+
+<p><code>nsubj</code> and <code>nsubjpass</code> are used for external arguments of any predicate (as in the examples above); the only difference is that <code>nsubjpass</code> is used in passive-voice clauses.</p>
+
+<pre><code class="language-sdparse">Unsafe cars sold here !
+nsubjpass(sold, cars)
+</code></pre>
+
+<pre><code class="language-sdparse">Messages will not be delivered simultaneously .
+nsubjpass(delivered, Messages)
+</code></pre>
+
+<p>Expletives are represented with the label <code>expl</code>.</p>
+
+<pre><code class="language-sdparse">It is raining .
+expl(raining, It)
+</code></pre>
+
+<p>Expletives can cooccur with a subject.</p>
+
+<pre><code class="language-sdparse">There is dinner in the fridge .
+expl(is, There)
+nsubj(is, dinner)
+</code></pre>
+
+<p>The internal argument labels, <code>dobj</code> and <code>iobj</code>, are exclusive to verbal predicates and a handful of adjectives (namely: <em>worth</em>, <em>like</em> and <em>unlike</em>, following Huddleston and Pullum (2001)).</p>
+
+<p>The distinction between <code>dobj</code> and <code>iobj</code> is strictly syntactic; <code>iobj</code> is reserved for “second objects” with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can <code>iobj</code> occur.</p>
+
+<pre><code class="language-sdparse">They gave me the trip as a gift.
+iobj(gave, me)
+dobj(gave, trip)
+</code></pre>
+
+<p>The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an <code>iobj</code> serving as a “second object” to the clausal complement. For that reason, the clausal complement label <code>ccomp</code> never cooccurs with <code>dobj</code>, but does cooccur with <code>dobj</code>.</p>
+
+<pre><code class="language-sdparse">I told them that I'm planning to come visit.
+ccomp(told, visit)
+iobj(told, them)
+</code></pre>
+
+<p>However, the same observation does not hold of verbs that take open complements, labeled <code>xcomp</code> (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with <code>xcomp</code> are uniformly labeled <code>dobj</code>, and never <code>iobj</code>.</p>
+
+<pre><code class="language-sdparse">I told them to expect my visit.
+dobj(told, them)
+xcomp(told, expect)
+</code></pre>
+
 <h4 id="clausal-core-arguments">Clausal core arguments</h4>
 
+<p>Like other clausal labels, the clausal core argument labels apply to finite and nonfinite clauses without distinction. (In English <code>xcomp</code> can only be applied to nonfinite clauses because there is no control into finite clauses; but this is not part of the definition of <code>xcomp</code>.)</p>
+
+<p>The clausal subject labels apply to verbal as well as nonverbal predicates. The distinction between <code>csubj</code> and <code>csubjpass</code> mirrors that between <code>nsubj</code> and <code>nsubjpass</code>.</p>
+
+<pre><code class="language-sdparse">Islamists may disagree on whether killing innocents is sanctioned by the laws of jihad .
+csubjpass(sanctioned, killing)
+</code></pre>
+
+<pre><code class="language-sdparse">Whether or not you pick them up again is probably a question of practice .
+csubj(question, pick)
+</code></pre>
+
+<p>Much like <code>nsubj(pass)</code>, <code>csubj(pass)</code> can (and often does) cooccur with an expletive.</p>
+
+<pre><code class="language-sdparse">It is rare to find a company with such nice workers .
+expl(rare, It)
+csubj(rare, find)
+</code></pre>
+
+<p>Clausal core arguments are restricted to verbal and adjectival predicates. Nouns never take clausal core arguments. (See [](#### Clausal modifiers of nouns) for how to represent clausal dependents of nouns.)</p>
+
 <h4 id="functional-control">Functional control</h4>
+
+<p>The label <code>xcomp</code> is used for predicates whose external argument is <em>controlled</em> by an argument of a higher clause. This applies in multiple types of constructions: raising, obligatory control, resultatives and obligatory depictives.</p>
+
+<pre><code class="language-sdparse">RAISING
+</code></pre>
+
+<pre><code class="language-sdparse">CONTROL
+</code></pre>
+
+<pre><code class="language-sdparse">RESULTATIVES
+</code></pre>
+
+<pre><code class="language-sdparse">OBLIGATORY DEPICTIVES
+</code></pre>
 
 <h3 id="noncore-arguments-and-predicate-modifiers">Noncore arguments and predicate modifiers</h3>
 
