@@ -20,13 +20,13 @@ If the prepositional phrase only consists of a preposition followed by a noun ph
 #### Examples:
 
 ~~~ sdparse
-The office of the chair.
+The office of the chair .
 case(chair-5, of-3)
 nmod(office-2, chair-5)
 ~~~
 
 ~~~ sdparse
-There is a ball on the table.
+There is a ball on the table .
 case(table-7, on-5)
 nmod(is-2, table-7)
 ~~~
@@ -36,7 +36,7 @@ If the prepositional phrase consists of a preposition followed by a clause we ei
 #### Examples:
 
 ~~~ sdparse
-The accident happened as the night was falling
+The accident happened as the night was falling .
 mark(falling, as)
 advcl(happened, falling)
 ~~~
@@ -44,7 +44,7 @@ advcl(happened, falling)
 In this example the prepositional phrase modifies a verb, namely _happened_, and therefore we use `advcl`.
 
 ~~~ sdparse
-I am just very nervous after watching the movie.
+I am just very nervous after watching the movie .
 mark(watching, after)
 advcl(nervous, watching)
 ~~~
@@ -52,7 +52,7 @@ advcl(nervous, watching)
 In this example the prepositional phrase modifies an adjectival predicate, namely _nervous_, and therefore we use `advcl`.
 
 ~~~ sdparse
-We have no information on whether users are experiencing problems.
+We have no information on whether users are experiencing problems .
 mark(experiencing, on)
 acl(information, experiencing)
 ~~~
@@ -60,7 +60,7 @@ acl(information, experiencing)
 In this example the prepositional phrase modifies a noun phrase, namely _information_, and therefore we use `acl`.
 
 ~~~ sdparse
-The war was a long way from being over.
+The war was a long way from being over .
 cop(way, was)
 mark(over, from)
 advcl(war, over)
