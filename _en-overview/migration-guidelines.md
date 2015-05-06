@@ -10,12 +10,71 @@ permalink: en/overview/migration-guidelines.html
 
 ## Changes Affecting the Tree Structure
 
-### Treatment of Copula
+### Treatment of Copulae
 ### Treatment of Prepositional Phrases
+
+One major difference between Universal Dependencies and Stanford Dependencies is the treatment of prepositional phrases. In the Stanford Dependencies representation the preposition is always being treated the head of the prepositional phrase while in the Universal Dependencies represenation the head of a prepositional phrase is always a content word -- either a noun phrase or the main predicate of a clause introduced by a preposition. The preposition itself is attached to the head of the prepositional phrase with the case [case](en-dep/case) or a [marker](en-dep/mark) relation.
+
+If the prepositional phrase only consists of a preposition followed by a noun phrase we use the [nmod](en-dep/nmod) relation between the head of the prepositional phrase and the noun or predicate which it modifies.
+
+#### Examples:
+
+~~~ sdparse
+The office of the chair.
+case(chair-5, of-3)
+nmod(office-2, chair-5)
+~~~
+
+~~~ sdparse
+There is a ball on the table.
+case(table-7, on-5)
+nmod(is-2, table-7)
+~~~
+
+If the prepositional phrase cosists of a preposition followed by a clause we either use the [acl](en-dep/nmod) or [advcl](en-dep/advcl) relation between the head of the prepositional phrase and the noun or predicate it modifies. `acl` is being used whenever the prepositional phrase modifies a noun unless it is a predicate in a [copular](en-dep/cop) construction. `advcl` is being used whenever the prepositional phrase modifies a verb, adjective or nominal predicate in a copular construction. The preposition is attached as a [marker](en-dep/mark).
+
+#### Examples:
+
+~~~ sdparse
+The accident happened as the night was falling
+mark(falling, as)
+advcl(happened, falling)
+~~~
+
+In this example the prepositional phrase modifies a verb, namely _happened_, and therefore we use `advcl`.
+
+~~~ sdparse
+I am just very nervous after watching the movie.
+mark(watching, after)
+advcl(nervous, watching)
+~~~
+
+In this example the prepositional phrase modifies an adjectival predicate, namely _nervous_, and therefore we use `advcl`.
+
+~~~ sdparse
+We have no information on whether users are experiencing problems.
+mark(experiencing, on)
+acl(information, experiencing)
+~~~
+
+In this example the prepositional phrase modifies a noun phrase, namely _information_, and therefore we use `acl`.
+
+~~~ sdparse
+The war was a long way from being over.
+cop(way, was)
+mark(over, from)
+advcl(war, over)
+~~~
+
+In this example the prepositional phrase modifies a nominal predicate in a copular construction, namely war, and therefore we use `advcl`.
+
+
 ### Multi-Word Expressions
 
+There are two differences regarding the treatment of multi-word expressions in Universal Dependencies as compared to Stanford Dependencies. First, multi-word expressions are now <b>always head-inital</b> and all other words in the expression depend on the first word. Second, the list of expressions which are being treated as multi-word expressions changed. See the description of the [mwe relation](en-dep/mwe) for a complete list of multi-word expressions in UD.
 
-## Mapping of Stanford Dependencies to Universal Depencies
+
+## Mapping of Stanford Dependencies to Universal Dependencies
 
 
 The following list provides for each relation in the original Stanford Dependencies representation the name of
