@@ -12,7 +12,8 @@ mark:prt(raibh, go)
 ~~~
 
 ~~~ sdparse
-Ba í an difríocht is suntasaí \ It was the most remarkable difference
+Ba í an difríocht is suntasaí \n It was the most remarkable difference
 mark:prt(suntasaí, is)
+mark:prt(remarkable, most)
 ~~~
 
