@@ -140,8 +140,8 @@ dobj(gave, trip)
 The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `dobj`, but does cooccur with `dobj`.
 
 ~~~sdparse
-I told them that I 'm planning to come visit.
-ccomp(told, visit)
+I told them that I 'm planning to come visit .
+ccomp(told, planning)
 iobj(told, them)
 ~~~
 
