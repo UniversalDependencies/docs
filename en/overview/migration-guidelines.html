@@ -47,12 +47,12 @@
 
 <h4 id="examples">Examples:</h4>
 
-<pre><code class="language-sdparse">The office of the chair.
+<pre><code class="language-sdparse">The office of the chair .
 case(chair-5, of-3)
 nmod(office-2, chair-5)
 </code></pre>
 
-<pre><code class="language-sdparse">There is a ball on the table.
+<pre><code class="language-sdparse">There is a ball on the table .
 case(table-7, on-5)
 nmod(is-2, table-7)
 </code></pre>
@@ -61,28 +61,28 @@ nmod(is-2, table-7)
 
 <h4 id="examples-1">Examples:</h4>
 
-<pre><code class="language-sdparse">The accident happened as the night was falling
+<pre><code class="language-sdparse">The accident happened as the night was falling .
 mark(falling, as)
 advcl(happened, falling)
 </code></pre>
 
 <p>In this example the prepositional phrase modifies a verb, namely <em>happened</em>, and therefore we use <code>advcl</code>.</p>
 
-<pre><code class="language-sdparse">I am just very nervous after watching the movie.
+<pre><code class="language-sdparse">I am just very nervous after watching the movie .
 mark(watching, after)
 advcl(nervous, watching)
 </code></pre>
 
 <p>In this example the prepositional phrase modifies an adjectival predicate, namely <em>nervous</em>, and therefore we use <code>advcl</code>.</p>
 
-<pre><code class="language-sdparse">We have no information on whether users are experiencing problems.
+<pre><code class="language-sdparse">We have no information on whether users are experiencing problems .
 mark(experiencing, on)
 acl(information, experiencing)
 </code></pre>
 
 <p>In this example the prepositional phrase modifies a noun phrase, namely <em>information</em>, and therefore we use <code>acl</code>.</p>
 
-<pre><code class="language-sdparse">The war was a long way from being over.
+<pre><code class="language-sdparse">The war was a long way from being over .
 cop(way, was)
 mark(over, from)
 advcl(war, over)
@@ -100,7 +100,7 @@ advcl(war, over)
 the equivalent relation in the Universal Dependencies representation. For some relations there doesn’t exist
 a 1:1 mapping. In these cases you’ll find a description of how different instances of the relation are treated
 in the UD representation. The list also provides the name of the GrammaticalRelation object as defined
-in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded into other relations or otherwise changedare highlighted in <b>red</b>.</p>
+in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded into other relations or changed otherwise are highlighted in <b>red</b>.</p>
 
 <h3 id="bacomp-xcompb"><b><code>acomp</code>: <code>xcomp</code></b></h3>
 
@@ -192,7 +192,7 @@ relation name and the coordinating conjunction are now separated by <code>:</cod
 <p><code>cop</code> relations in SD are still annotated as <a href="en-dep/cop"><code>cop</code></a> in UD.</p>
 
 <p>Unlike in the SD representation, prepositional phrases and adverbial phrases are also 
-treated as the head of a copular construction in UD as illustrated in the following examples:</p>
+treated as the head of copular constructions in UD as illustrated in the following examples:</p>
 
 <pre><code class="language-sdparse">She is here
 cop(here-3, is-2)
