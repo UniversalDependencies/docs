@@ -18,9 +18,11 @@ nmod(obair,réimse)
 case(réimse, le)
 ~~~
 
+
+
 It is also used for attaching noun phrases, such as headings, to clauses:
 
-TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS "CENTRE PROJECT - To provide information on employment opportunities with FÁS.
+_TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS "CENTRE PROJECT_ - `To provide information on employment opportunities with FÁS.'
 
 ~~~ conllx
 1	TOGRA	TOGRA	X	X	_	4	nmod	_	_
@@ -42,7 +44,7 @@ It is also used to label the attachment of _augment pronouns_ to their nominal h
 
 ~~~ sdparse
 Comharsain aoibhne ab ea iad \n They were lovely neighbours
-aug(iad, ea)
+nmod(iad, ea)
 ~~~
 
 
