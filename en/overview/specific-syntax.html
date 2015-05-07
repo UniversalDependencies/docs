@@ -223,9 +223,62 @@ nsubj(looks, it)
 xcomp(looks, artistic)
 </code></pre>
 
+<p>This includes copula-like English verbs such as <em>become</em>, <em>remain</em>.</p>
+
+<pre><code class="language-sdparse">I became very upset .
+nsubj(became, I)
+xcomp(became, upset)
+</code></pre>
+
 <h3 id="noncore-arguments-and-predicate-modifiers">Noncore arguments and predicate modifiers</h3>
 
+<p>UD marks core arguments, but it does not make a distinction between noncore arguments and modifiers of a predicate. In English, noncore arguments are introduced by prepositions or subordinating conjunctions (which largely overlap with each other). Optional modifiers can also be introduced by such words. In UD, the representation of noncore arguments and predicate modifiers, while distinct from that of core arguments, is uniform. The entire set will be referred to here as <em>noncore dependents</em>.</p>
+
+<p>Noncore dependents are classified by their syntactic properties. Nominal dependents (i.e., phrases whose lexical head is a noun) are labeled <code>nmod</code>. Most of these, in English, are introduced by prepositions.</p>
+
+<pre><code class="language-sdparse">My parents lived in England in the 1980s .
+nmod(lived, England)
+nmod(lived, 1980s)
+</code></pre>
+
+<p>In the example above, note that <em>in England</em> and <em>in the 1980s</em> are annotated with the same label, even though the former is arguably a noncore argument of <em>live</em>, while the latter is certainly not.</p>
+
+<p>Bare nominals receive the label <code>nmod:npmod</code>, which is an English-specific relation.</p>
+
+<pre><code class="language-sdparse">I am 3 blocks west of Broadway .
+nmod:npmod(west, blocks)
+</code></pre>
+
+<pre><code class="language-sdparse">The price of crude oil advanced 53 cents .
+nmod:npmod(advanced, cents)
+</code></pre>
+
+<p>More narrowly, bare nominals denoting a point in time receive the label <code>nmod:tmod</code>, also English-specific.</p>
+
+<pre><code class="language-sdparse">The company will be making an announcement this year that formalizes the relationship.
+nmod:tmod(company, year)
+</code></pre>
+
+<p>Clausal noncore dependents, whether finite or nonfinite, receive the label <code>advcl</code>.</p>
+
+<p>This label can also apply to nonverbal predicates, as shown in this example (repeated from [](#### Nonverbal predicates with no copular verb)).</p>
+
+<pre><code class="language-sdparse">The year was bad news for animals , with many species now close to extinction .
+advcl(news, close)
+nsubj(close, species)
+mark(close, with)
+advmod(close, now)
+</code></pre>
+
+<pre><code class="language-sdparse">I know what they are , so no suggestions on just going out to buy one .
+advcl(know, suggestions)
+</code></pre>
+
+<p>In the example above, an alternative analysis might represent <em>no suggestions</em> as a nominal dependent. However, we take the presence of <em>so</em>, which usually attaches to predicates, as evidence of clausal status.</p>
+
 <h3 id="function-words-attaching-to-predicates">Function words attaching to predicates</h3>
+
+<p>The labels <code>mark</code>, <code>aux</code>, <code>auxpass</code> and <code>cop</code> are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.</p>
 
 <h4 id="complementizers-and-subordinating-conjunctions">Complementizers and subordinating conjunctions</h4>
 
@@ -235,13 +288,22 @@ xcomp(looks, artistic)
 
 <h4 id="auxiliaries">Auxiliaries</h4>
 
+<p>Modal and auxiliary verbs are uniformly labeled as <code>aux</code> or <code>auxpass</code> in UD. The <code>auxpass</code> label applies when the clausal voice is passive, much like the <code>nsubjpass</code> label.</p>
+
+<p>The verb <em>get</em> can behave as a passive auxiliary, and is annotated as such when appropriate.</p>
+
+<pre><code class="language-sdparse">I got put on hold twice .
+auxpass(put, got)
+nsubjpass(put, I)
+</code></pre>
+
 <h3 id="resultatives-and-depictives">Resultatives and depictives</h3>
 
 <h2 id="below-the-clause">Below the clause</h2>
 
 <h3 id="word-level-dependents-multiword-expressions-compounds-etc">Word-level dependents: multiword expressions, compounds, etc.</h3>
 
-<h3 id="the-nominal-domain">The nominal domain</h3>
+<h3 id="the-nominal-domain-nominal-and-adjectival-phrases">The nominal domain: nominal and adjectival phrases</h3>
 
 <h4 id="clausal-modifiers-of-nouns">Clausal modifiers of nouns</h4>
 
@@ -251,13 +313,13 @@ xcomp(looks, artistic)
 
 <h4 id="functional-dependents">Functional dependents</h4>
 
-<h2 id="above-the-clause">Above the clause</h2>
+<h3 id="the-adverbial-domain-adverbial-and-prepositional-phrases">The adverbial domain: adverbial and prepositional phrases</h3>
+
+<h2 id="beyond-the-clause">Beyond the clause</h2>
 
 <h3 id="discourse-level-dependents">Discourse-level dependents</h3>
 
-<h3 id="loose-joining-relations">Loose joining relations</h3>
-
-<h2 id="outside-the-clause">Outside the clause</h2>
+<h3 id="coordination-and-loose-joining">Coordination and loose joining</h3>
 
 <h3 id="special-annotation-conventions">Special annotation conventions</h3>
 
