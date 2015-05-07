@@ -221,9 +221,69 @@ nsubj(looks, it)
 xcomp(looks, artistic)
 ~~~
 
+This includes copula-like English verbs such as *become*, *remain*.
+
+~~~sdparse
+I became very upset .
+nsubj(became, I)
+xcomp(became, upset)
+~~~
+
 ### Noncore arguments and predicate modifiers
 
+UD marks core arguments, but it does not make a distinction between noncore arguments and modifiers of a predicate. In English, noncore arguments are introduced by prepositions or subordinating conjunctions (which largely overlap with each other). Optional modifiers can also be introduced by such words. In UD, the representation of noncore arguments and predicate modifiers, while distinct from that of core arguments, is uniform. The entire set will be referred to here as _noncore dependents_.
+
+Noncore dependents are classified by their syntactic properties. Nominal dependents (i.e., phrases whose lexical head is a noun) are labeled `nmod`. Most of these, in English, are introduced by prepositions.
+
+~~~sdparse
+My parents lived in England in the 1980s .
+nmod(lived, England)
+nmod(lived, 1980s)
+~~~
+
+In the example above, note that *in England* and *in the 1980s* are annotated with the same label, even though the former is arguably a noncore argument of *live*, while the latter is certainly not.
+
+Bare nominals receive the label `nmod:npmod`, which is an English-specific relation.
+
+~~~sdparse
+I am 3 blocks west of Broadway .
+nmod:npmod(west, blocks)
+~~~
+
+~~~sdparse
+The price of crude oil advanced 53 cents .
+nmod:npmod(advanced, cents)
+~~~
+
+More narrowly, bare nominals denoting a point in time receive the label `nmod:tmod`, also English-specific.
+
+~~~sdparse
+The company will be making an announcement this year that formalizes the relationship.
+nmod:tmod(company, year)
+~~~
+
+Clausal noncore dependents, whether finite or nonfinite, receive the label `advcl`.
+
+This label can also apply to nonverbal predicates, as shown in this example (repeated from [](#### Nonverbal predicates with no copular verb)).
+
+~~~sdparse
+The year was bad news for animals , with many species now close to extinction .
+advcl(news, close)
+nsubj(close, species)
+mark(close, with)
+advmod(close, now)
+~~~
+
+~~~sdparse
+I know what they are , so no suggestions on just going out to buy one .
+advcl(know, suggestions)
+~~~
+
+In the example above, an alternative analysis might represent *no suggestions* as a nominal dependent. However, we take the presence of *so*, which usually attaches to predicates, as evidence of clausal status.
+
 ### Function words attaching to predicates
+
+The labels `mark`, `aux`, `auxpass` and `cop` are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.
 
 #### Complementizers and subordinating conjunctions
 
@@ -233,13 +293,23 @@ The copular verb *is* is treated as a function word: it is attached to the predi
 
 #### Auxiliaries
 
+Modal and auxiliary verbs are uniformly labeled as `aux` or `auxpass` in UD. The `auxpass` label applies when the clausal voice is passive, much like the `nsubjpass` label.
+
+The verb *get* can behave as a passive auxiliary, and is annotated as such when appropriate.
+
+~~~sdparse
+I got put on hold twice .
+auxpass(put, got)
+nsubjpass(put, I)
+~~~
+
 ### Resultatives and depictives
 
 ## Below the clause
 
 ### Word-level dependents: multiword expressions, compounds, etc.
 
-### The nominal domain
+### The nominal domain: nominal and adjectival phrases
 
 #### Clausal modifiers of nouns
 
@@ -249,13 +319,13 @@ The copular verb *is* is treated as a function word: it is attached to the predi
 
 #### Functional dependents
 
-## Above the clause
+### The adverbial domain: adverbial and prepositional phrases
+
+## Beyond the clause
 
 ### Discourse-level dependents
 
-### Loose joining relations
-
-## Outside the clause
+### Coordination and loose joining
 
 ### Special annotation conventions
 
