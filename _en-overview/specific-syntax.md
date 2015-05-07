@@ -95,6 +95,8 @@ Unsafe cars sold here !
 nsubjpass(sold, cars)
 ~~~
 
+In the above example, it is important to mention that a plausible alternative representation would analyze this as a nominal phrase with a reduced relative. However, when possible, we prefer to choose a predicate as the root of a sentence.
+
 ~~~sdparse
 Messages will not be delivered simultaneously .
 nsubjpass(delivered, Messages)
@@ -285,17 +287,64 @@ In the example above, an alternative analysis might represent *no suggestions* a
 
 The labels `mark`, `aux`, `auxpass` and `cop` are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.
 
-#### Complementizers and subordinating conjunctions
+#### Complementizers, subordinating conjunctions and the infinitival marker
+
+In English, the label `mark` applies uniformly to complementizers, subordinating conjunctions and the infinitival marker.
+
+~~~sdparse
+Remember that the occupation is ephemeral .
+mark(ephemeral, that)
+~~~
+
+~~~sdparse
+They already have rights to take it .
+mark(take, to)
+~~~
+
+~~~sdparse
+Probably just gon na kick it .
+mark(kick, na)
+~~~
+
+~~~sdparse
+This gives the company a way of influencing and anticipating the direction of change .
+mark(influencing, of)
+~~~
+
+~~~sdparse
+A warming of the magnitude predicted is more likely than not to be beneficial .
+mark(not, than)
+~~~
+
+~~~sdparse
+Bush spent little time reviewing capital punishment cases while governor of Texas .
+mark(governor, while)
+~~~
 
 #### Copular verbs
 
-The copular verb *is* is treated as a function word: it is attached to the predicate and labeled `cop`, a special label for copular verbs. In English, only `be` receives this treatment. See [](#### Functional control) for copula-like verbs such as *become*.
+~~~sdparse
+I think this is very interesting .
+ccomp(think, interesting)
+nsubj(interesting, this)
+~~~
+
+The copular verb *be* is treated as a function word: it is attached to the predicate and labeled `cop`, a special label for copular verbs. In English, only *be* receives this treatment. See [](#### Functional control) for copula-like verbs such as *become*.
 
 #### Auxiliaries
 
-Modal and auxiliary verbs are uniformly labeled as `aux` or `auxpass` in UD. The `auxpass` label applies when the clausal voice is passive, much like the `nsubjpass` label.
+Modal and auxiliary verbs are uniformly labeled as `aux` or `auxpass` in UD, and attached to their main verb. (When there is no main verb, the auxiliary is promoted by head ellision.) This is the case even when there are multiple auxiliaries; rather than chained together to reflect scope properties, they are flatly attached to the main verb.
 
-The verb *get* can behave as a passive auxiliary, and is annotated as such when appropriate.
+The `auxpass` label applies only to passive auxiliaries.
+
+~~~sdparse
+By that time , Elena 's story would have been revealed to be a fake .
+aux(revealed, would)
+aux(revealed, have)
+auxpass(revealed, been)
+~~~
+
+The verb *get* can behave as a passive auxiliary, and when it does, it is annotated as such.
 
 ~~~sdparse
 I got put on hold twice .
