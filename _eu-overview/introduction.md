@@ -13,7 +13,7 @@ The morphological and syntactic annotation of the Basque UD treebank is created 
 
 #Acknowledgments
 
-We wish to thank all of the contributors to the original BDT annotation effort, including XXX and XXX, as well as the IXA NLP research group.
+We wish to thank all of the contributors to the original BDT annotation effort, including Larraitz Uría, Aitziber Atutxa, Maria Jesus Aranzabe and XXX, as well as the IXA NLP research group.
 
 
 #References
