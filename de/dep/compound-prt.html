@@ -32,20 +32,20 @@
 	  </div>
 	</noscript>
 
-          <h2><code>compound:prt</code>: verb particle</h2>
+          <h2><code>compound:prt</code>: separable verb particle</h2>
 
 <p>Depending on the clause type in German, particles and verb stems of particle verbs either stand together or separate in the sentence. <code>compound:prt</code> is used to mark the separated particles of particle verbs. It is a subtype of the <a href="">compound</a> relation.</p>
 
-<p>In main clauses, particles appear in sentence-final position separate from their verb stem, which stands in second position.
-~~~ sdparse
-Der Koch schlägt die Eier auf . \n The chef breaks the eggs .
-compound:prt(schlägt, auf)
-~~~</p>
+<p>In main clauses, particles appear in sentence-final position separate from their verb stem, which stands in second position.</p>
 
-<p>In subordinate clauses, particle verbs appear with their particles in sentence-final position. In this case, they form a single token.
-~~~ sdparse
-… , weil der Koch die Eier aufschlägt . \n … , because the chef breaks the eggs .
-~~~</p>
+<pre><code class="language-sdparse">Der Koch schlägt die Eier auf . \n The chef breaks the eggs .
+compound:prt(schlägt, auf)
+</code></pre>
+
+<p>In subordinate clauses, particle verbs appear with their particles in sentence-final position. In this case, they form a single token.</p>
+
+<pre><code class="language-sdparse">... , weil der Koch die Eier aufschlägt . \n ... , because the chef breaks the eggs .
+</code></pre>
 
 
 <!-- "in other languages" links -->
