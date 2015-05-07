@@ -114,6 +114,8 @@ mark(predicting, with)
 nsubjpass(sold, cars)
 </code></pre>
 
+<p>In the above example, it is important to mention that a plausible alternative representation would analyze this as a nominal phrase with a reduced relative. However, when possible, we prefer to choose a predicate as the root of a sentence.</p>
+
 <pre><code class="language-sdparse">Messages will not be delivered simultaneously .
 nsubjpass(delivered, Messages)
 </code></pre>
@@ -280,17 +282,56 @@ advcl(know, suggestions)
 
 <p>The labels <code>mark</code>, <code>aux</code>, <code>auxpass</code> and <code>cop</code> are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.</p>
 
-<h4 id="complementizers-and-subordinating-conjunctions">Complementizers and subordinating conjunctions</h4>
+<h4 id="complementizers-subordinating-conjunctions-and-the-infinitival-marker">Complementizers, subordinating conjunctions and the infinitival marker</h4>
+
+<p>In English, the label <code>mark</code> applies uniformly to complementizers, subordinating conjunctions and the infinitival marker.</p>
+
+<pre><code class="language-sdparse">Remember that the occupation is ephemeral .
+mark(ephemeral, that)
+</code></pre>
+
+<pre><code class="language-sdparse">They already have rights to take it .
+mark(take, to)
+</code></pre>
+
+<pre><code class="language-sdparse">Probably just gon na kick it .
+mark(kick, na)
+</code></pre>
+
+<pre><code class="language-sdparse">This gives the company a way of influencing and anticipating the direction of change .
+mark(influencing, of)
+</code></pre>
+
+<pre><code class="language-sdparse">A warming of the magnitude predicted is more likely than not to be beneficial .
+mark(not, than)
+</code></pre>
+
+<pre><code class="language-sdparse">Bush spent little time reviewing capital punishment cases while governor of Texas .
+mark(governor, while)
+</code></pre>
 
 <h4 id="copular-verbs">Copular verbs</h4>
 
-<p>The copular verb <em>is</em> is treated as a function word: it is attached to the predicate and labeled <code>cop</code>, a special label for copular verbs. In English, only <code>be</code> receives this treatment. See [](#### Functional control) for copula-like verbs such as <em>become</em>.</p>
+<pre><code class="language-sdparse">I think this is very interesting .
+ccomp(think, interesting)
+nsubj(interesting, this)
+</code></pre>
+
+<p>The copular verb <em>be</em> is treated as a function word: it is attached to the predicate and labeled <code>cop</code>, a special label for copular verbs. In English, only <em>be</em> receives this treatment. See [](#### Functional control) for copula-like verbs such as <em>become</em>.</p>
 
 <h4 id="auxiliaries">Auxiliaries</h4>
 
-<p>Modal and auxiliary verbs are uniformly labeled as <code>aux</code> or <code>auxpass</code> in UD. The <code>auxpass</code> label applies when the clausal voice is passive, much like the <code>nsubjpass</code> label.</p>
+<p>Modal and auxiliary verbs are uniformly labeled as <code>aux</code> or <code>auxpass</code> in UD, and attached to their main verb. (When there is no main verb, the auxiliary is promoted by head ellision.) This is the case even when there are multiple auxiliaries; rather than chained together to reflect scope properties, they are flatly attached to the main verb.</p>
 
-<p>The verb <em>get</em> can behave as a passive auxiliary, and is annotated as such when appropriate.</p>
+<p>The <code>auxpass</code> label applies only to passive auxiliaries.</p>
+
+<pre><code class="language-sdparse">By that time , Elena 's story would have been revealed to be a fake .
+aux(revealed, would)
+aux(revealed, have)
+auxpass(revealed, been)
+</code></pre>
+
+<p>The verb <em>get</em> can behave as a passive auxiliary, and when it does, it is annotated as such.</p>
 
 <pre><code class="language-sdparse">I got put on hold twice .
 auxpass(put, got)
