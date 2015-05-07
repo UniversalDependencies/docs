@@ -197,6 +197,7 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 {% endfor %}
 
 ----------
+
 ### Irish example
 ~~~ conllu
 1	Eisean	eisean	PRON	PRON	_	0	ROOT	_	_
@@ -210,3 +211,19 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 9	aréir	aréir	ADV	ADV	_	3	advmod	_	_
 10	.	.	PUNCT	PUNCT	_	1	punct	_	_
 ~~~
+
+---------
+
+### German
+~~~ sdparse
+Alles hat ein Ende, nur die Wurst hat zwei .
+nsubj(hat,Alles)
+dobj(hat,Ende)
+det(Ende,ein)
+nsubj(hat,Wurst)
+dobj(hat,zwei)
+det(Wurst,die)
+advmod(hat,nur)
+parataxis(hat,hat)
+~~~
+
