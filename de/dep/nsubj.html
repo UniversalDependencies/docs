@@ -34,8 +34,20 @@
 
           <h2><code>nsubj</code>: nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubj</code>.</p>
+<p><code>nsubj</code> marks noun phrases that are the subject of a finite clause. The head of <code>nsubj</code> is typically a verb, but can be another noun phrase or adjective, for example in copula constructions.</p>
+
+<pre><code class="language-sdparse">Die Frau schläft . \n The woman sleeps .
+nsubj(schläft, Frau)
+</code></pre>
+
+<pre><code class="language-sdparse">Die Frau ist Ärztin . \n The woman is a doctor .
+nsubj(Ärztin, Frau)
+</code></pre>
+
+<pre><code class="language-sdparse">Die Frau ist müde . \n The woman is tired .
+nsubj(müde, Frau)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->
