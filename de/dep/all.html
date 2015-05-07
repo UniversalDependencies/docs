@@ -307,6 +307,24 @@ for <code>compound</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/compound.md" target="#">edit compound</a></p>
 
+<p><a id="al-de-dep/compound:prt" class="al-dest"></a></p>
+<h2><code>compound:prt</code>: verb particle</h2>
+
+<p>Depending on the clause type in German, particles and verb stems of particle verbs either stand together or separate in the sentence. <code>compound:prt</code> is used to mark the separated particles of particle verbs. It is a subtype of the <a href="">compound</a> relation.</p>
+
+<p>In main clauses, particles appear in sentence-final position separate from their verb stem, which stands in second position.
+~~~ sdparse
+Der Koch schlägt die Eier auf . \n The chef breaks the eggs .
+compound:prt(schlägt, auf)
+~~~</p>
+
+<p>In subordinate clauses, particle verbs appear with their particles in sentence-final position. In this case, they form a single token.
+~~~ sdparse
+… , weil der Koch die Eier aufschlägt . \n … , because the chef breaks the eggs .
+~~~</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/compound-prt.md" target="#">edit compound:prt</a></p>
+
 <p><a id="al-de-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
