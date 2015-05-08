@@ -7,4 +7,4 @@ shortdef: 'auxiliary verb'
 redirect_from: "ga/pos/AUX.html"
 ---
 
-There are no Auxiliary verbs in Irish.
+There are no auxiliary verbs in Irish.
