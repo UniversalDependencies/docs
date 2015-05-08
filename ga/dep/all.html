@@ -250,7 +250,7 @@ The super type <code>acl</code> is not used in version 1.0 or 1.1 of the Irish t
 <p><a id="al-ga-dep/acl:relcl" class="al-dest"></a></p>
 <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
-<p>A relative clause modifier marks the relation between relative clauses and a noun phrase in a preceding clause.<br />
+<p>A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause.<br />
 The head of the relative clause is usually a verb.</p>
 
 <pre><code class="language-sdparse">Chaill sé pé rud a bhí aige \n He lost everything that he had
@@ -263,7 +263,7 @@ acl:relcl(had, everything)
 <p><a id="al-ga-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes temporal, consequence, conditional and purpose clauses. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
 
 <pre><code class="language-sdparse">Nuair a bhí siad ag teacht ar ais, chonaic siad é \n When they were coming back, they saw it
 advcl(chonaic, bhí)
@@ -280,18 +280,9 @@ advcl(n-iarrtar, thugtar)
 advcl(asked, given)
 </code></pre>
 
-<p><em>Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo</em> `But when they were going down, they met sailors’</p>
-
-<pre><code class="language-conllx">1	Ach	ach	SCONJ	SCONJ	_	4	mark	_	_
-2	nuair	nuair	SCONJ	SCONJ	_	4	mark	_	_
-3	a	a	PART	PART	_	4	mark:prt	_	_
-4	bhíodar	bí	VERB	VERB	_	8	advcl	_	_
-5	ag	ag	ADP	ADP	_	6	case	_	_
-6	dul	dul	NOUN	NOUN	_	4	xcomp	_	_
-7	aníos	aníos	ADV	ADV	_	6	advmod	_	_
-8	casadh	cas	VERB	VERB	_	0	ROOT	_	_
-9	mairnéalach	mairnéalach	NOUN	NOUN	_	8	nsubj	_	_
-10	leo	le	ADP	ADP	_	8	nmod:prep	_	_
+<pre><code class="language-sdparse">Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when they were going down, they met sailors
+advcl(bhíodar, casadh)
+advcl(going,met)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/advcl.md" target="#">edit advcl</a></p>
