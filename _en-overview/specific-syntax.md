@@ -397,17 +397,19 @@ mwe(due, to)
 case(reasons, due)
 ~~~
 
-### The nominal domain: nominal and adjectival phrases
-
-#### Clausal modifiers of nouns
+### The nominal domain: nominal and prepositional phrases
 
 #### Appositives
 
+#### Prepositions
+
+#### Other functional dependents
+
+### Optional modifiers: adverbial and adjectival phrases
+
+#### Clausal modifiers of nouns
+
 #### Quantifier phrases
-
-#### Functional dependents
-
-### The adverbial domain: adverbial and prepositional phrases
 
 ## Beyond the clause
 
