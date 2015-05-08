@@ -31,9 +31,8 @@ Verbal nouns are marked as `NOUN` in the UD scheme. Verbal noun forms are used w
 
 * _fear_ "man"
 * _hata an fhir_ "the man's hat"
-* _Bhuail sé é_ "He hit him" 
 * _a mhúinteoir_ "teacher!"
-*
+
 
 ##### Verbal nouns
 
