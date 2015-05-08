@@ -21,7 +21,7 @@ There are many different particles in Irish:
 
 * _<b>d'</b>fhág sé_ "he left" (verbal)
 * _<b>níor</b> fhág sé_ "he didn't leave" (negative)
-* _Sean <b>O'</b>Connell_ (O') (name)
+* _Sean <b>O'</b>Connell_ (name)
 * _<b>a</b> Sheáin_ "John!" (vocative)
 * _<b>go</b> cúramach_ "carefully" (adverbial)
 * _an fear <b>a</b> chonaic sé_ "the man [] he saw" (relative)
