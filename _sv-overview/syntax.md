@@ -15,8 +15,6 @@ The syntactic annotation in the Swedish UD treebank follows the general guidelin
 
 The syntactic annotation has been automatically converted from the original MAMBA annotation scheme in Talbanken. The following phenomena are known to deviate from the general guidelines and will be fixed in future versions:
 
-* The blocks of discontiguous phrases appear as separate phrases with the same syntactic function.
 * The _remnant_ analysis of ellipsis has not been fully implemented.
 * Complex names with compositional internal structure are annotated in the same way as non-compositional cases.
 * Comparative modifiers are sometimes not attached to the comparative element itself but to its head.
-* The unspecified _dep_ relation is used in the annotation of cleft sentences and interrogative subclauses
