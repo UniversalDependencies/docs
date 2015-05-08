@@ -22,6 +22,14 @@ root(-ROOT-, impossible)
 
 Any dependent that can be said to attach at the clausal level (for example, core arguments, adverbial modifiers, complementizers, or conjoined clauses) will have the predicate word as its head.
 
+UD does not distinguish light verbs from full verbs.
+
+~~~sdparse
+I 'm going to take a nap .
+nsubj(take, I)
+dobj(take, nap)
+~~~
+
 #### Copulas
 
 This is true even in the case of nonverbal predicates, which is a distinguishing feature of Universal Dependencies. This is evident in the UD treatment of copulas.
@@ -352,8 +360,6 @@ auxpass(put, got)
 nsubjpass(put, I)
 ~~~
 
-### Resultatives and depictives
-
 ## Below the clause
 
 ### Word-level dependents: multiword expressions, compounds, etc.
@@ -378,5 +384,18 @@ nsubjpass(put, I)
 
 ### Special annotation conventions
 
-## Unpronounced material
+#### Dates, times, addresses
 
+#### Contact information
+
+#### Itemizations
+
+## Specific constructions
+
+### Unpronounced material
+
+### Resultatives and depictives
+
+### *Tough*-movement
+
+### Comparatives
