@@ -19,6 +19,7 @@ appos(Unison, union)
 _Chas m'athair air sa tábhairne, <b>O' Shea's</b> i nDomhnach Broc_ `My father met him in the pub, <b>O' Shea's</b> in Donnybrook'
 
 ~~~ sdparse
-appos(tábhairne,Shea's)
-appos(pub,Shea's)
+Chas m'athair air sa tábhairne, <b>O' Shea's</b> i nDomhnach Broc \n My father met him in the pub, <b>O' Shea's</b> in Donnybrook
+appos(tábhairne, Shea's)
+appos(pub, Shea's)
 ~~~
