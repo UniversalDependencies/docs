@@ -222,8 +222,15 @@ in two places.</p>
 <p><a id="al-de-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>acl</code>.</p>
+<p><code>acl</code> marks finite and non-finite clauses that modify a noun except for relative clauses which get the relation <a href="">acl:relcl</a>.</p>
+
+<pre><code class="language-sdparse">Haben Sie den Eindruck , daß das Licht heller geworden ist ? \n Do you have the impression that the light got brighter ?
+acl(Eindruck, geworden)
+</code></pre>
+
+<pre><code class="language-sdparse">Tatsächlich gibt es Bestrebungen, den Straßenverkehr sicherer zu machen . \n There are indeed efforts to make the traffic safer .
+acl(Bestrebungen, machen)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/acl.md" target="#">edit acl</a></p>
 
@@ -246,16 +253,31 @@ for <code>advmod</code>.</p>
 <p><a id="al-de-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>amod</code>.</p>
+<p><code>amod</code> marks adjectival modifiers that modify the meaning of a noun.</p>
+
+<pre><code class="language-sdparse">Er ißt rohes Fleisch . \n He eats raw meat .
+amod(Fleisch, rohes)
+</code></pre>
+
+<pre><code class="language-sdparse">die Rheintaler Bauern \n the farmers from the Rhine valley
+amod(Bauern, Rheintaler)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/amod.md" target="#">edit amod</a></p>
 
 <p><a id="al-de-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>appos</code>.</p>
+<p><code>appos</code> marks nominal appositions to noun phrases. This includes parenthesized noun phrases and abbreviations that specify the modified noun.</p>
+
+<pre><code class="language-sdparse">Die neue Senatorin für Stadtentwicklung , Traute Müller , tritt heute ihren Dienst an . \n The new senator for city development , Traute Müller , assumes her office today . 
+appos(Senatorin, Traute)
+name(Traute, Müller)
+</code></pre>
+
+<pre><code class="language-sdparse">das Niedersächsische Landeskriminalamt ( LKA ) \n the Lower-Saxonian state police office ( LKA ) 
+appos(Landeskriminalamt, LKA)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/appos.md" target="#">edit appos</a></p>
 
@@ -278,8 +300,25 @@ for <code>auxpass</code>.</p>
 <p><a id="al-de-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p><code>case</code> marks mostly prepositions in prepositional phrases. Prepositions are considered dependents of the noun whose case value they govern. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
+
+<pre><code class="language-sdparse">Sie stehen an der Straße . \n They stand on the street .
+case(Straße, an)
+</code></pre>
+
+<pre><code class="language-sdparse">Sie warten auf den Bus . \n They wait for the bus .
+case(Bus, auf)
+</code></pre>
+
+<p><code>case</code> is also used to mark the comparative marker in comparative constructions that involve noun phrases, prepositional phrases, or adjectives.</p>
+
+<pre><code class="language-sdparse">Der Bus ist schneller als die Straßenbahn . \n The bus is faster than the tram .
+case(Straßenbahn, als)
+</code></pre>
+
+<pre><code class="language-sdparse">Das sieht alles andere als einfach aus . \n This looks anything but simple .
+case(einfach, als)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/case.md" target="#">edit case</a></p>
 
@@ -294,8 +333,20 @@ for <code>cc</code>.</p>
 <p><a id="al-de-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p><code>ccomp</code> marks clausal dependents of verbs that function like a complement of that verb. The complement clause has its own internal subject.</p>
+
+<pre><code class="language-sdparse">Jeder hier glaubt , daß er eine Chance hat . \n Everyone here thinks that he has a chance .
+ccomp(glaubt, hat)
+nsubj(hat, er)
+</code></pre>
+
+<pre><code class="language-sdparse">Es heißt , die Arbeiter würden streiken . \n People say the workers are on strike .
+ccomp(heißt, streiken)
+</code></pre>
+
+<pre><code class="language-sdparse">Wann kann ich mir anschauen , was du gemacht hast ? \n When will I see what you have done .
+ccomp(anschauen, gemacht)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/ccomp.md" target="#">edit ccomp</a></p>
 
@@ -344,16 +395,28 @@ for <code>cop</code>.</p>
 <p><a id="al-de-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p><code>csubj</code> marks a clausal subject of a sentence.</p>
+
+<pre><code class="language-sdparse">Aber warum nur so wenige Frauen ein Polizeipräsidium leiten , hat verschiedene Gründe . \n But why only so few women lead a police department has different reasons .
+csubj(hat, leiten)
+</code></pre>
+
+<p>For copula constructions, the head of the clausal subject is the predicative complement of the copula.</p>
+
+<pre><code class="language-sdparse">Ob dies die Unzufriedenheit zu zügeln vermag , ist zweifelhaft \n Whether this can control the unrest is dubious .
+csubj(zweifelhaft, vermag)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/csubj.md" target="#">edit csubj</a></p>
 
 <p><a id="al-de-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubjpass</code>.</p>
+<p><code>csubjpass</code> marks clausal subjects of passive clauses.</p>
+
+<pre><code class="language-sdparse">Hier kann nicht mehr eingeschätzt werden, wann es anfängt zu brennen . \n It cannot be estimated anymore when it starts burning .
+csubjpass(eingeschätzt, anfängt)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
@@ -368,8 +431,18 @@ for <code>dep</code>.</p>
 <p><a id="al-de-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p><code>det</code> marks the relation between a noun and its determiner. Attributively used indefinite, demonstrative, or interrogative pronouns are also marked with <code>det</code>.</p>
+
+<pre><code class="language-sdparse">Der Mann betrat eine Küche . \n The man entered a kitchen .
+det(Mann, Der)
+det(Küche, eine)
+</code></pre>
+
+<pre><code class="language-sdparse">Dieses Mädchen erfuhr wenige Sekunden später, welche Note sie bekommen hatte . \n This girl found out only few seconds later which grade she had gotten.
+det(Mädchen, dieses)
+det(Sekunden, wenige)
+det(Note, welche)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/det.md" target="#">edit det</a></p>
 
@@ -392,8 +465,12 @@ for <code>dislocated</code>.</p>
 <p><a id="al-de-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dobj</code>.</p>
+<p><code>dobj</code> marks a noun phrase that is the direct object of a verb. The direct object is in accusative case.</p>
+
+<p>~~~ sdparse
+Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
+dobj(gibt, Apfel)
+~~~ sdparse</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/dobj.md" target="#">edit dobj</a></p>
 
@@ -424,8 +501,12 @@ for <code>goeswith</code>.</p>
 <p><a id="al-de-dep/iobj" class="al-dest"></a></p>
 <h2><code>iobj</code>: indirect object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>iobj</code>.</p>
+<p><code>iobj</code> marks a noun phrase that is the indirect object of a verb. The indirect object is in dative case.</p>
+
+<p>~~~ sdparse
+Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
+iobj(gibt, Kind)
+~~~ sdparse</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/iobj.md" target="#">edit iobj</a></p>
 
@@ -456,16 +537,40 @@ for <code>mwe</code>.</p>
 <p><a id="al-de-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p>The <code>name</code> relation is one of the three relations for compounding in UD (together with <a href="">compound</a> and <a href="">mwe</a>). It is used for proper nouns constituted of multiple nominal elements. For example, <code>name</code> would be used between the words of <em>Hillary Rodham Clinton</em>, <em>New York</em>, or <em>Carl XVI Gustaf</em> but not to replace the usual relations in a phrasal or clausal name like <em>The king of Sweden</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By Aliens</em>. </p>
+
+<p>Words joined by <code>name</code> should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used. This is basically similar to the treatment of noun compounds with <a href="">compound</a>, except that in many cases parts of the name may be another nominal element such as an adjective (<em>United Airlines</em>).</p>
+
+<p>In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <code>name</code> label.</p>
+
+<pre><code class="language-sdparse">Carl XVI Gustav
+name(Carl, XVI)
+name(Carl, Gustav)
+</code></pre>
+
+<pre><code class="language-sdparse">Frankfurt am Main
+nmod(Frankfurt, Main)
+case(Main, am)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/name.md" target="#">edit name</a></p>
 
 <p><a id="al-de-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>neg</code>.</p>
+<p><code>neg</code> marks the relation between a negation word and the word it modifies.</p>
+
+<pre><code class="language-sdparse">Er hat den Mann nicht gesehen . \n He didn't see the man .
+neg(gesehen, nicht)
+</code></pre>
+
+<pre><code class="language-sdparse">Er will nicht mehr Fußball spielen . \n He doesn't want to play soccer anymore .
+neg(mehr, nicht)
+</code></pre>
+
+<pre><code class="language-sdparse">Er hat keinen Regenschirm mitgebracht . \n He didn't bring an umbrella .
+neg(Regenschirm, keinen)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/neg.md" target="#">edit neg</a></p>
 
@@ -499,16 +604,26 @@ nsubj(müde, Frau)
 <p><a id="al-de-dep/nsubjpass" class="al-dest"></a></p>
 <h2><code>nsubjpass</code>: passive nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubjpass</code>.</p>
+<p><code>nsubjpass</code> marks the subject of a passive clause.</p>
+
+<pre><code class="language-sdparse">Das Bild wurde von Picasso gemalt . \n The painting was painted by Picasso .
+nsubjpass(gemalt, Bild)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
 
 <p><a id="al-de-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nummod</code>.</p>
+<p><code>nummod</code> marks numeric modifiers that modify the meaning of a noun with a quantity.</p>
+
+<pre><code class="language-sdparse">eine Milliarde Menschen \n one billion people
+nummod(Menschen, Milliarde)
+</code></pre>
+
+<pre><code class="language-sdparse">Er bezahlte 50 Euro . \n He paid 50 Euros .
+nummod(Euro, 50)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/nummod.md" target="#">edit nummod</a></p>
 
