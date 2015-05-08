@@ -234,6 +234,34 @@ acl(Bestrebungen, machen)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/acl.md" target="#">edit acl</a></p>
 
+<p><a id="al-de-dep/acl:relcl" class="al-dest"></a></p>
+<h2><code>acl:relcl</code>: relative clause modifier</h2>
+
+<p>A relative clause is a clause that modifies a noun. Relative clauses
+are finite and are introduced with a relative pronoun that refers back to the noun.
+<code>acl:relcl</code> is a subtype of the <a href="">acl</a> relation.</p>
+
+<pre><code class="language-sdparse">Lege das Buch auf den Tisch , der dort drüben steht . \n Put the book on the table that stands over there .
+acl:relcl(Tisch, steht)
+nsubj(steht, der)
+</code></pre>
+
+<pre><code class="language-sdparse">Stelle den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
+acl:relcl(Tisch, liegt)
+nmod(steht, dem)
+</code></pre>
+
+<p>Extraposed relative clauses often introduce non-projective structures.</p>
+
+<pre><code class="language-sdparse">Petra hat diese Frau angerufen , die er gestern getroffen hat . \n Petra called this woman who she met yesterday .
+acl:relcl(Frau, getroffen)
+dobj(angerufen, Frau)
+aux(angerufen, hat)
+nsubj(getroffen, die)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
+
 <p><a id="al-de-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 

@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>VERB</title>
+    <title>acl:relcl</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -16,9 +16,9 @@
 
       <div id="hp-header">
 	
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-ga">home</a></span>
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/ga/pos">ga/pos</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-pos/VERB.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-de">home</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/de/dep">de/dep</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_de-dep/acl-relcl.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,100 +32,34 @@
 	  </div>
 	</noscript>
 
-          <h2><code>VERB</code>: verb</h2>
+          <h2><code>acl:relcl</code>: relative clause modifier</h2>
 
-<h4 id="description">Description</h4>
+<p>A relative clause is a clause that modifies a noun. Relative clauses
+are finite and are introduced with a relative pronoun that refers back to the noun.
+<code>acl:relcl</code> is a subtype of the <a href="">acl</a> relation.</p>
 
-<p>Verbs typically inflect for tense and mood. Verbs signal events and actions. Verbs can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause.</p>
+<pre><code class="language-sdparse">Lege das Buch auf den Tisch , der dort drüben steht . \n Put the book on the table that stands over there .
+acl:relcl(Tisch, steht)
+nsubj(steht, der)
+</code></pre>
 
-<p>Irish is a VSO language, thus the verb comes first.</p>
+<pre><code class="language-sdparse">Stelle den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
+acl:relcl(Tisch, liegt)
+nmod(steht, dem)
+</code></pre>
 
-<p>Irish verbs sometimes inflect for person in the form of synthetic verbs. (e.g. <em>ithim</em> “I eat”; <em>ithimid</em> “we eat”)</p>
+<p>Extraposed relative clauses often introduce non-projective structures.</p>
 
-<p>There are four moods: indicative, imperative, conditional and subjunctive. Tenses include present habitual, simple past, past habitual and future. </p>
-
-<p>There is an autonomous verb form, which most closely correlates to the English passive. However it is not technically a passive form as the subject is “understood” and the nominal argument is an object (e.g. <em>tugadh an liathróid dó</em> “the ball was given to him” (lit. somebody gave the ball to him)).</p>
-
-<h5 id="copula-vs-substantive-verb-to-be">Copula vs substantive verb ‘to be’</h5>
-
-<p>There are two translations of the English verb `to be’ in Irish:</p>
-
-<ul>
-  <li>Copula `is’</li>
-  <li>Substantive Verb `bí’</li>
-</ul>
-
-<p>These forms behave very differently syntactically, yet both are labelled with the tag VERB. </p>
-
-<p><strong><em>copula</em></strong>
-The copula construction follows a COP PRED SUBJ order. An example of copula use is identity constructions (equating two noun phrases). <em><b>Is</b> múinteoir é</em> “he is a teacher”.
-The copula is also part of the frequently used cleft/ fronting construction. These constructions are often used to show emphasis. (e.g. <em><b>Is</b> leabhar a thug sí dom</em> “It’s a book she gave me”).</p>
-
-<p><strong><em>substantive bí</em></strong> 
-The substantive verb behaves just like normal Irish verbs. It inflects for person, number and tense.
-It can never be used for an identity construction with two noun phrases. If it is used for identity, it follows the pattern of Verb NP PP (e.g. <em><b>tá</b> sé ina mhúinteoir</em> “he is a teacher” (lit. He is in his teacher))
-The pattern followed here is: VERB SUBJ PRED</p>
-
-<p>The substantive verb is also used in conjunction with a verbal noun to form  progressive aspectual phrases.
-(e.g. <em><b>tá</b> sé ag rith</em> “he is running” (lit. he is at running)).</p>
-
-<h4 id="examples">Examples</h4>
-
-<ul>
-  <li><em>D’imigh mé</em> “I left”</li>
-  <li><em>D’imíomar</em> “We left”</li>
-  <li><em>Imím</em> “I leave”</li>
-  <li><em>Imímid</em> “We leave”</li>
-  <li><em>Imeoidh mé</em> “I will leave”</li>
-  <li><em>Imeoimid</em> “We will leave”</li>
-  <li><em>Cuirtear an leabhar ar an mbord</em> “the book was put on the table”</li>
-</ul>
-
-<p>Source: Studies in Irish Syntax. Stenson (1981) </p>
-
+<pre><code class="language-sdparse">Petra hat diese Frau angerufen , die er gestern getroffen hat . \n Petra called this woman who she met yesterday .
+acl:relcl(Frau, getroffen)
+dobj(angerufen, Frau)
+aux(angerufen, hat)
+nsubj(getroffen, die)
+</code></pre>
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-VERB in other languages:
-
-[<a href="../../bg/pos/VERB.html">bg</a>]
-
-[<a href="../../cs/pos/VERB.html">cs</a>]
-
-[<a href="../../de/pos/VERB.html">de</a>]
-
-[<a href="../../el/pos/VERB.html">el</a>]
-
-[<a href="../../en/pos/VERB.html">en</a>]
-
-[<a href="../../es/pos/VERB.html">es</a>]
-
-[<a href="../../eu/pos/VERB.html">eu</a>]
-
-[<a href="../../fa/pos/VERB.html">fa</a>]
-
-[<a href="../../fi/pos/VERB.html">fi</a>]
-
-[<a href="../../fr/pos/VERB.html">fr</a>]
-
-[<a href="../../ga/pos/VERB.html">ga</a>]
-
-[<a href="../../he/pos/VERB.html">he</a>]
-
-[<a href="../../hu/pos/VERB.html">hu</a>]
-
-[<a href="../../it/pos/VERB.html">it</a>]
-
-[<a href="../../ja/pos/VERB.html">ja</a>]
-
-[<a href="../../ko/pos/VERB.html">ko</a>]
-
-[<a href="../../sv/pos/VERB.html">sv</a>]
-
-[<a href="../../u/pos/VERB.html">u</a>]
-
 
 
 
@@ -191,7 +125,7 @@ VERB in other languages:
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'ga-pos';
+        Collections.listing['_current'] = 'de-dep';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
