@@ -6,7 +6,7 @@ permalink: en/overview/specific-syntax.html
 
 # Specific constructions
 
-## Core clausal syntax
+## Core clausal syntax: predicates and their arguments
 
 ### Predicates
 
@@ -167,7 +167,7 @@ xcomp(told, expect)
 
 Like other clausal labels, the clausal core argument labels apply to finite and nonfinite clauses without distinction. (In English `xcomp` can only be applied to nonfinite clauses because there is no control into finite clauses; but this is not part of the definition of `xcomp`.)
 
-The clausal subject labels apply to verbal as well as nonverbal predicates. The distinction between `csubj` and `csubjpass` mirrors that between `nsubj` and `nsubjpass`.
+The distinction between `csubj` and `csubjpass` mirrors that between `nsubj` and `nsubjpass`.
 
 ~~~sdparse
 Islamists may disagree on whether killing innocents is sanctioned by the laws of jihad .
@@ -178,6 +178,8 @@ csubjpass(sanctioned, killing)
 Whether or not you pick them up again is probably a question of practice .
 csubj(question, pick)
 ~~~
+
+The clausal subject labels apply to verbal as well as nonverbal predicates.
 
 ~~~sdparse
 On the side is a waste , leave it on the bottom .
@@ -293,7 +295,7 @@ In the example above, an alternative analysis might represent *no suggestions* a
 
 ### Function words attaching to predicates
 
-The labels `mark`, `aux`, `auxpass` and `cop` are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.
+The labels `mark`, `aux`, `auxpass` and `cop` are used for function words that attach to predicates. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words.
 
 #### Complementizers, subordinating conjunctions and the infinitival marker
 
@@ -362,7 +364,38 @@ nsubjpass(put, I)
 
 ## Below the clause
 
-### Word-level dependents: multiword expressions, compounds, etc.
+### Word-level dependents: complex lexical units
+
+While most types of dependents can be said to attach to phrases (i.e., `nsubj` dependents attach to verbal phrases; `det` dependents attach to noun phrases), some attach only at the word level. These types of dependencies form complex lexical units which then enter, as a composite, dependencies of their own.
+
+Three relations can be used to form complex lexical units. The most straightforward one is `goeswith`, which can be used between any two tokens and serves to indicate that, as a result of input error, a single orthographic word is split into two space-separated tokens in the data.
+
+~~~sdparse
+I felt as if I was in an over priced Olive Garden .
+goeswith(priced, over)
+~~~
+
+The other two relations, `mwe` and `compound`, are more interesting. The main difference between them is that `mwe` applies between function words and other function words or lexical words, while `compound` applies only between lexical words.
+
+The `mwe` relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the `mwe` relation often have equal claim to the status of head, any such construction is, by convention, head-initial.
+
+~~~sdparse
+How come no one bothers to ask any questions in this section ?
+mwe(How, come)
+advmod(bothers, How)
+~~~
+
+~~~sdparse
+I just kind of sat there .
+mwe(kind, of)
+advmod(sat, kind)
+~~~
+
+~~~sdparse
+You have to wait , due to financial reasons .
+mwe(due, to)
+case(reasons, due)
+~~~
 
 ### The nominal domain: nominal and adjectival phrases
 
