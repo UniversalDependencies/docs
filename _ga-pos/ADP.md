@@ -4,7 +4,7 @@ title: 'ADP'
 shortdef: 'adposition'
 ---
 
-Adpositions is a term that covers both preposition and postpositions. Irish only has prepositions.
+Adpositions is a term that covers both prepositions and postpositions. Irish only has prepositions.
 
 #### Regular prepositions
 
