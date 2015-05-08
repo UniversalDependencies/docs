@@ -12,6 +12,6 @@ acl(Eindruck, geworden)
 ~~~
 
 ~~~ sdparse
-Tatsächlich gibt es Bestrebungen, den Straßenverkehr sicherer zu machen . \n There are indeed efforts to make the traffic safer .
+Tatsächlich gibt es Bestrebungen , den Straßenverkehr sicherer zu machen . \n There are indeed efforts to make the traffic safer .
 acl(Bestrebungen, machen)
 ~~~
