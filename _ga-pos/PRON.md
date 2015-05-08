@@ -7,7 +7,7 @@ shortdef: 'pronoun'
 
 Pronouns are words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context.
 
-In Irish, third person pronouns have two forms, roughly corresponding to nominative (e.g. sé) and accusative (e.g. é) cases.
+In Irish, third person pronouns have two forms, roughly corresponding to nominative (e.g. _sé_) and accusative (e.g. _é_) cases.
 Irish pronouns also have emphatic forms. 
 Pronouns are often incorporated through inflection in synthetic verb forms and prepositions.
 
