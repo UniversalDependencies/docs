@@ -34,7 +34,7 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
-<h2 id="core-clausal-syntax">Core clausal syntax</h2>
+<h2 id="core-clausal-syntax-predicates-and-their-arguments">Core clausal syntax: predicates and their arguments</h2>
 
 <h3 id="predicates">Predicates</h3>
 
@@ -177,7 +177,7 @@ xcomp(told, expect)
 
 <p>Like other clausal labels, the clausal core argument labels apply to finite and nonfinite clauses without distinction. (In English <code>xcomp</code> can only be applied to nonfinite clauses because there is no control into finite clauses; but this is not part of the definition of <code>xcomp</code>.)</p>
 
-<p>The clausal subject labels apply to verbal as well as nonverbal predicates. The distinction between <code>csubj</code> and <code>csubjpass</code> mirrors that between <code>nsubj</code> and <code>nsubjpass</code>.</p>
+<p>The distinction between <code>csubj</code> and <code>csubjpass</code> mirrors that between <code>nsubj</code> and <code>nsubjpass</code>.</p>
 
 <pre><code class="language-sdparse">Islamists may disagree on whether killing innocents is sanctioned by the laws of jihad .
 csubjpass(sanctioned, killing)
@@ -186,6 +186,8 @@ csubjpass(sanctioned, killing)
 <pre><code class="language-sdparse">Whether or not you pick them up again is probably a question of practice .
 csubj(question, pick)
 </code></pre>
+
+<p>The clausal subject labels apply to verbal as well as nonverbal predicates.</p>
 
 <pre><code class="language-sdparse">On the side is a waste , leave it on the bottom .
 csubj(waste, side)
@@ -287,7 +289,7 @@ advcl(know, suggestions)
 
 <h3 id="function-words-attaching-to-predicates">Function words attaching to predicates</h3>
 
-<p>The labels <code>mark</code>, <code>aux</code>, <code>auxpass</code> and <code>cop</code> are used for function words that attach to predicate. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words in the representation.</p>
+<p>The labels <code>mark</code>, <code>aux</code>, <code>auxpass</code> and <code>cop</code> are used for function words that attach to predicates. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words.</p>
 
 <h4 id="complementizers-subordinating-conjunctions-and-the-infinitival-marker">Complementizers, subordinating conjunctions and the infinitival marker</h4>
 
@@ -347,7 +349,34 @@ nsubjpass(put, I)
 
 <h2 id="below-the-clause">Below the clause</h2>
 
-<h3 id="word-level-dependents-multiword-expressions-compounds-etc">Word-level dependents: multiword expressions, compounds, etc.</h3>
+<h3 id="word-level-dependents-complex-lexical-units">Word-level dependents: complex lexical units</h3>
+
+<p>While most types of dependents can be said to attach to phrases (i.e., <code>nsubj</code> dependents attach to verbal phrases; <code>det</code> dependents attach to noun phrases), some attach only at the word level. These types of dependencies form complex lexical units which then enter, as a composite, dependencies of their own.</p>
+
+<p>Three relations can be used to form complex lexical units. The most straightforward one is <code>goeswith</code>, which can be used between any two tokens and serves to indicate that, as a result of input error, a single orthographic word is split into two space-separated tokens in the data.</p>
+
+<pre><code class="language-sdparse">I felt as if I was in an over priced Olive Garden .
+goeswith(priced, over)
+</code></pre>
+
+<p>The other two relations, <code>mwe</code> and <code>compound</code>, are more interesting. The main difference between them is that <code>mwe</code> applies between function words and other function words or lexical words, while <code>compound</code> applies only between lexical words.</p>
+
+<p>The <code>mwe</code> relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the <code>mwe</code> relation often have equal claim to the status of head, any such construction is, by convention, head-initial.</p>
+
+<pre><code class="language-sdparse">How come no one bothers to ask any questions in this section ?
+mwe(How, come)
+advmod(bothers, How)
+</code></pre>
+
+<pre><code class="language-sdparse">I just kind of sat there .
+mwe(kind, of)
+advmod(sat, kind)
+</code></pre>
+
+<pre><code class="language-sdparse">You have to wait , due to financial reasons .
+mwe(due, to)
+case(reasons, due)
+</code></pre>
 
 <h3 id="the-nominal-domain-nominal-and-adjectival-phrases">The nominal domain: nominal and adjectival phrases</h3>
 
