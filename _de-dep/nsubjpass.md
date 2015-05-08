@@ -4,5 +4,10 @@ title: 'nsubjpass'
 shortdef: 'passive nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubjpass`.
+`nsubjpass` marks the subject of a passive clause.
+
+~~~ sdparse
+Das Bild wurde von Picasso gemalt . \n The painting was painted by Picasso .
+nsubjpass(gemalt, Bild)
+~~~
+

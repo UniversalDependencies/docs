@@ -4,5 +4,14 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `amod`.
+`amod` marks adjectival modifiers that modify the meaning of a noun.
+
+~~~ sdparse
+Er ißt rohes Fleisch . \n He eats raw meat .
+amod(Fleisch, rohes)
+~~~
+
+~~~ sdparse
+die Rheintaler Bauern \n the farmers from the Rhine valley
+amod(Bauern, Rheintaler)
+~~~

@@ -4,5 +4,10 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+`csubjpass` marks clausal subjects of passive clauses.
+
+~~~ sdparse
+Hier kann nicht mehr eingeschätzt werden, wann es anfängt zu brennen . \n It cannot be estimated anymore when it starts burning .
+csubjpass(eingeschätzt, anfängt)
+~~~
+
