@@ -22,12 +22,12 @@ advcl(believe, play)
 
 ~~~ sdparse
 Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not given if they are not asked for
-advcl(n-iarrtar, thugtar)
-advcl(asked, given)
+advcl(thugtar, n-iarrtar)
+advcl(given, asked)
 ~~~
 
 ~~~ sdparse
 Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when they were going down, they met sailors
-advcl(bhíodar, casadh)
-advcl(going,met)
+advcl(casadh, bhíodar)
+advcl(met, going)
 ~~~
