@@ -14,7 +14,7 @@ det(Küche, eine)
 
 ~~~ sdparse
 Dieses Mädchen erfuhr wenige Sekunden später, welche Note sie bekommen hatte . \n This girl found out only few seconds later which grade she had gotten.
-det(Mädchen, dieses)
+det(Mädchen, Dieses)
 det(Sekunden, wenige)
 det(Note, welche)
 ~~~

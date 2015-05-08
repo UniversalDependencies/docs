@@ -9,5 +9,5 @@ shortdef: 'indirect object'
 ~~~ sdparse
 Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
 iobj(gibt, Kind)
-~~~ sdparse
+~~~
 
