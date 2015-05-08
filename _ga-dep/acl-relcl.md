@@ -4,7 +4,7 @@ title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-A relative clause modifier marks the relation between relative clauses and a noun phrase in a preceding clause.  
+A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause.  
 The head of the relative clause is usually a verb.
 
 ~~~ sdparse
