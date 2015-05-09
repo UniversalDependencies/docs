@@ -423,7 +423,47 @@ compound(tea, extract)
 
 <h4 id="prepositions">Prepositions</h4>
 
-<h4 id="other-functional-dependents">Other functional dependents</h4>
+<h4 id="determiners">Determiners</h4>
+
+<p>In addition to <code>case</code>, the label <code>det</code> and its language-specific extension <code>det:predet</code> also designate function-word dependents of nominal heads. These labels are used for determiners: definite and indefinite articles, demonstrative determiners, quantifiers such as <code>all</code>, <code>some</code>, <code>every</code> and <code>each</code>.</p>
+
+<pre><code class="language-sdparse">I did find this website .
+det(website, this)
+</code></pre>
+
+<p>Floating quantifiers are attached to the nominal head they modify.</p>
+
+<pre><code class="language-sdparse">The five companies that made the short list all proposed structural changes .
+det(companies, all)
+</code></pre>
+
+<p>In some English constructions, pronouns can cooccur with nominal heads and exhibit determiner-like behavior. In those constructions, these pronouns are annotated as <code>det</code>.</p>
+
+<pre><code class="language-sdparse">You guys do everything wonderful !
+det(guys, You)
+</code></pre>
+
+<pre><code class="language-sdparse">She is a disgrace to the rest of us Pet Smart associates .
+det(associates, us)
+</code></pre>
+
+<p>The label <code>det:predet</code> applies when a determiner is present, and preceding it is another determiner.</p>
+
+<pre><code class="language-sparse">All the girls were totally shocked .
+det(girls, the)
+det:predet(girls, All)
+</code></pre>
+
+<pre><code class="language-sparse">What an amazing group !
+det:predet(group, What)
+det(group, an)
+</code></pre>
+
+<p>The label can only apply when <code>det</code> is also present.</p>
+
+<pre><code class="language-sparse">All girls were totally shocked .
+det(girls, All)
+</code></pre>
 
 <h3 id="optional-modifiers-adverbial-and-adjectival-phrases">Optional modifiers: adverbial and adjectival phrases</h3>
 
