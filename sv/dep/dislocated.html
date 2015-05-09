@@ -34,34 +34,29 @@
 
           <h2><code>dislocated</code>: dislocated elements</h2>
 
-<p>The <code>dislocated</code> relation is used for fronted or postposed elements
-that do not fulfill the usual core grammatical relations of a
-sentence. Dislocated elements are attached to the same governor as the dependent that they double for.</p>
+<p>The <code>dislocated</code> relation is used for fronted or postposed elements that do not fulfill the usual core grammatical 
+relations of a sentence. Dislocated elements are attached to the same governor as the dependent that they double 
+for and are subtyped by the relation of this dependent.</p>
 
 <pre><code class="language-sdparse">Peter , honom gillar jag inte \n Peter, I don't like him
-dislocated(gillar, Peter)
+dislocated:dobj(gillar, Peter)
 dobj(gillar, honom)
 </code></pre>
 
-<p>In Swedish the <code>dislocated</code> relation is often used for the word <em>så</em> in cases like the following, where it 
-duplicates the function of a preposed adverbial clause.</p>
+<p>A frequent case in Swedish is that of an adverbial clause resumed by the pronominal adverb <em>så</em>:</p>
 
 <pre><code class="language-sdparse">Släpper vi in britterna , så drar de med sig danskar \n If we let the Brits in they'll bring the Danish with them
-dislocated(drar, så)
-advcl(drar, Släpper)
-</code></pre>
-
-<pre><code class="language-sdparse">Men trots ökade statsutgifter så blir det inkomstökning för privatpersoner \n But despite increased public spending, there's an increase in income for private individuals
-dislocated(blir, så)
-nmod(blir, statsutgifter)
+dislocated:advcl(drar, Släpper)
+advcl(drar, så)
 </code></pre>
 
 <p>In addition, the <code>dislocated</code> relation is used for the focus element in a cleft sentence. This is a slight
 abuse of the relation, because the focus element is not a dislocated dependent of its syntactic head, but 
-rather of the predicate in the relative clause making up the second part of the cleft construction.</p>
+rather of the predicate in the relative clause making up the second part of the cleft construction. We therefore
+use a special subtype <code>dislocated:cleft</code> in this case.</p>
 
 <pre><code class="language-sdparse">Det var Peter som gjorde det \n It was Peter who did it
-dislocated(var, Peter)
+dislocated:cleft(var, Peter)
 expletive(var, Det)
 acl:relcl(Peter, gjorde)
 nsubj(gjorde, som)
