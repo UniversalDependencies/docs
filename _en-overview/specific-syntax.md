@@ -397,6 +397,51 @@ mwe(due, to)
 case(reasons, due)
 ~~~
 
+When the multiword expression is composed of more than two words, all non-head words attach directly to the head, in a flat structure.
+
+Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `mwe` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
+
+Notably, in English we purposefully do not represent spatial multiword prepositions such as *out of* with the label `mwe`.
+
+~~~sdparse
+She ran out of the room .
+advmod(ran, out)
+nmod(out, room)
+case(room, of)
+~~~
+
+The `compound` relation, on the other hand, can be used freely to represent productive phrase-building. The difference is that `compound` is used when a string of words joined together are analyzed as a single lexical unit that behaves as a head (i.e., an X^0 node) rather than as a constituent (i.e., an XP node) in the sentence.
+
+~~~sdparse
+Most of those making charges flip - flopped .
+compound(flopped, flip)
+~~~
+
+~~~sdparse
+The duck breast was really good .
+compound(breast, duck)
+~~~
+
+~~~sdparse
+There is a pool for the potty - trained children .
+compound(trained, potty)
+~~~
+
+A distinguished type of compound is the English particle verb. Particles that combine with verbs receive the language-specific label `compound:prt`.
+
+~~~sdparse
+What time are you going to pick me up ?
+compound:prt(pick, up)
+~~~
+
+Unlike multiword expressions, compounds can have inner structure, when appropriate.
+
+~~~sdparse
+The therapeutic agents under discussion include oolong tea extract .
+compound(tea, oolong)
+compound(tea, extract)
+~~~
+
 ### The nominal domain: nominal and prepositional phrases
 
 #### Appositives
