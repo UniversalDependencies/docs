@@ -411,27 +411,49 @@ compound(tea, extract)
 
 <h3 id="the-nominal-domain-nominal-and-prepositional-phrases">The nominal domain: nominal and prepositional phrases</h3>
 
-<p>Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD.</p>
+<p>Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled <code>nsubj</code>, <code>nsubjpass</code>, <code>dobj</code> and <code>iobj</code>, nominal phrases can have roles as noncore dependents. In these roles, they are labeled <code>nmod</code> (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.</p>
 
 <h4 id="prepositions">Prepositions</h4>
 
-<p>Prepositions are represented as dependents of their complements and labeled <code>case</code>.</p>
+<p>Within prepositional phrases, prepositions are represented as dependents of their complements and labeled <code>case</code>.</p>
 
-<pre><code class="language-sdparse">
+<pre><code class="language-sdparse">Foz on the Brazilian side is the larger town.
+nmod(Foz, side)
+case(side, on)
 </code></pre>
 
-<pre><code class="language-sdparse">
+<pre><code class="language-sdparse">Convert into DVD .
+nmod(Convert, DVD)
+case(DVD, into)
 </code></pre>
 
-<pre><code class="language-sdparse">
+<p>Nested prepositional phrases are also organized around the single lexical head, in a flat representation parallel to that of verb groups.</p>
+
+<pre><code class="language-sdparse">She ran out of the room .
+nmod(ran, room)
+case(room, of)
+case(room, out)
 </code></pre>
 
-<h4 id="the-genitive-case">The genitive case</h4>
+<h4 id="possessives">Possessives</h4>
 
-<p>The label <code>case</code> is also used for the genitive <em>’s</em> in English.</p>
+<p>The label <code>case</code> is also used for the genitive <em>’s</em> in English. The genitive nominal phrase receives the language-specific label <code>nmod:poss</code>.</p>
 
 <pre><code class="language-sdparse">Tomorrow is Mother 's Day .
+nmod:poss(Mother, Day)
 case(Mother, 's)
+</code></pre>
+
+<p>The <code>nmod:poss</code> label is also used for possessive determiners.</p>
+
+<pre><code class="language-sdparse">That 's your prerogative.
+nmod:poss(prerogative, your)
+</code></pre>
+
+<p>This possessive modifier analysis is also used for genitives attaching to gerunds.</p>
+
+<pre><code class="language-sdparse">I appreciate your coming here .
+nmod:poss(coming, your)
 </code></pre>
 
 <h4 id="determiners">Determiners</h4>
