@@ -382,14 +382,6 @@ case(reasons, due)
 
 <p>Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the <code>mwe</code> label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.</p>
 
-<p>Notably, in English we purposefully do not represent spatial multiword prepositions such as <em>out of</em> with the label <code>mwe</code>.</p>
-
-<pre><code class="language-sdparse">She ran out of the room .
-advmod(ran, out)
-nmod(out, room)
-case(room, of)
-</code></pre>
-
 <p>The <code>compound</code> relation, on the other hand, can be used freely to represent productive phrase-building. The difference is that <code>compound</code> is used when a string of words joined together are analyzed as a single lexical unit that behaves as a head (i.e., an X^0 node) rather than as a constituent (i.e., an XP node) in the sentence.</p>
 
 <pre><code class="language-sdparse">Most of those making charges flip - flopped .
@@ -419,9 +411,28 @@ compound(tea, extract)
 
 <h3 id="the-nominal-domain-nominal-and-prepositional-phrases">The nominal domain: nominal and prepositional phrases</h3>
 
-<h4 id="appositives">Appositives</h4>
+<p>Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD.</p>
 
 <h4 id="prepositions">Prepositions</h4>
+
+<p>Prepositions are represented as dependents of their complements and labeled <code>case</code>.</p>
+
+<pre><code class="language-sdparse">
+</code></pre>
+
+<pre><code class="language-sdparse">
+</code></pre>
+
+<pre><code class="language-sdparse">
+</code></pre>
+
+<h4 id="the-genitive-case">The genitive case</h4>
+
+<p>The label <code>case</code> is also used for the genitive <em>’s</em> in English.</p>
+
+<pre><code class="language-sdparse">Tomorrow is Mother 's Day .
+case(Mother, 's)
+</code></pre>
 
 <h4 id="determiners">Determiners</h4>
 
@@ -449,21 +460,29 @@ det(associates, us)
 
 <p>The label <code>det:predet</code> applies when a determiner is present, and preceding it is another determiner.</p>
 
-<pre><code class="language-sparse">All the girls were totally shocked .
+<pre><code class="language-sdparse">All the girls were totally shocked .
 det(girls, the)
 det:predet(girls, All)
 </code></pre>
 
-<pre><code class="language-sparse">What an amazing group !
+<pre><code class="language-sdparse">What an amazing group !
 det:predet(group, What)
 det(group, an)
 </code></pre>
 
 <p>The label can only apply when <code>det</code> is also present.</p>
 
-<pre><code class="language-sparse">All girls were totally shocked .
+<pre><code class="language-sdparse">All girls were totally shocked .
 det(girls, All)
 </code></pre>
+
+<p>Determiners with negative meaning receive the label <code>neg</code> instead of <code>det</code>.</p>
+
+<pre><code class="language-sdparse">I have no inside information .
+neg(information, no)
+</code></pre>
+
+<h4 id="appositives">Appositives</h4>
 
 <h3 id="optional-modifiers-adverbial-and-adjectival-phrases">Optional modifiers: adverbial and adjectival phrases</h3>
 
