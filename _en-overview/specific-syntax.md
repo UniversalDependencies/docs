@@ -401,15 +401,6 @@ When the multiword expression is composed of more than two words, all non-head w
 
 Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `mwe` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
 
-Notably, in English we purposefully do not represent spatial multiword prepositions such as *out of* with the label `mwe`.
-
-~~~sdparse
-She ran out of the room .
-advmod(ran, out)
-nmod(out, room)
-case(room, of)
-~~~
-
 The `compound` relation, on the other hand, can be used freely to represent productive phrase-building. The difference is that `compound` is used when a string of words joined together are analyzed as a single lexical unit that behaves as a head (i.e., an X^0 node) rather than as a constituent (i.e., an XP node) in the sentence.
 
 ~~~sdparse
@@ -444,11 +435,31 @@ compound(tea, extract)
 
 ### The nominal domain: nominal and prepositional phrases
 
-
-
-#### Appositives
+Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD.
 
 #### Prepositions
+
+Prepositions are represented as dependents of their complements and labeled `case`.
+
+~~~sdparse
+
+~~~
+
+~~~sdparse
+
+~~~
+
+~~~sdparse
+~~~
+
+#### The genitive case
+
+The label `case` is also used for the genitive *'s* in English.
+
+~~~sdparse
+Tomorrow is Mother 's Day .
+case(Mother, 's)
+~~~
 
 #### Determiners
 
@@ -480,13 +491,13 @@ det(associates, us)
 
 The label `det:predet` applies when a determiner is present, and preceding it is another determiner.
 
-~~~sparse
+~~~sdparse
 All the girls were totally shocked .
 det(girls, the)
 det:predet(girls, All)
 ~~~
 
-~~~sparse
+~~~sdparse
 What an amazing group !
 det:predet(group, What)
 det(group, an)
@@ -494,10 +505,19 @@ det(group, an)
 
 The label can only apply when `det` is also present.
 
-~~~sparse
+~~~sdparse
 All girls were totally shocked .
 det(girls, All)
 ~~~
+
+Determiners with negative meaning receive the label `neg` instead of `det`.
+
+~~~sdparse
+I have no inside information .
+neg(information, no)
+~~~
+
+#### Appositives
 
 ### Optional modifiers: adverbial and adjectival phrases
 
