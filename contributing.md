@@ -23,6 +23,7 @@ Quick links:
 
 * [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Embedded visualization of dependencies](visualization.html)
+* [Release checklist](release_checklist.html)
 
 ## Preliminaries
 
