@@ -430,7 +430,7 @@ Unlike multiword expressions, compounds can have inner structure, when appropria
 ~~~sdparse
 The therapeutic agents under discussion include oolong tea extract .
 compound(tea, oolong)
-compound(tea, extract)
+compound(extract, tea)
 ~~~
 
 ### The nominal domain: nominal and prepositional phrases
