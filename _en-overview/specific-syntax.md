@@ -435,30 +435,55 @@ compound(tea, extract)
 
 ### The nominal domain: nominal and prepositional phrases
 
-Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD.
+Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled `nsubj`, `nsubjpass`, `dobj` and `iobj`, nominal phrases can have roles as noncore dependents. In these roles, they are labeled `nmod` (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.
 
 #### Prepositions
 
-Prepositions are represented as dependents of their complements and labeled `case`.
+Within prepositional phrases, prepositions are represented as dependents of their complements and labeled `case`.
 
 ~~~sdparse
-
+Foz on the Brazilian side is the larger town.
+nmod(Foz, side)
+case(side, on)
 ~~~
 
 ~~~sdparse
-
+Convert into DVD .
+nmod(Convert, DVD)
+case(DVD, into)
 ~~~
+
+Nested prepositional phrases are also organized around the single lexical head, in a flat representation parallel to that of verb groups.
 
 ~~~sdparse
+She ran out of the room .
+nmod(ran, room)
+case(room, of)
+case(room, out)
 ~~~
 
-#### The genitive case
+#### Possessives
 
-The label `case` is also used for the genitive *'s* in English.
+The label `case` is also used for the genitive *'s* in English. The genitive nominal phrase receives the language-specific label `nmod:poss`.
 
 ~~~sdparse
 Tomorrow is Mother 's Day .
+nmod:poss(Mother, Day)
 case(Mother, 's)
+~~~
+
+The `nmod:poss` label is also used for possessive determiners.
+
+~~~sdparse
+That 's your prerogative.
+nmod:poss(prerogative, your)
+~~~
+
+This possessive modifier analysis is also used for genitives attaching to gerunds.
+
+~~~sdparse
+I appreciate your coming here .
+nmod:poss(coming, your)
 ~~~
 
 #### Determiners
