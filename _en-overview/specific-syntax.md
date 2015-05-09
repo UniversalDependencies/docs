@@ -546,7 +546,19 @@ neg(information, no)
 
 ### Optional modifiers: adverbial and adjectival phrases
 
+Both predicates and nominals can be modified by optional phrases -- adverbial and adjectival, respectively. Again, a distinction is made between clausal and nonclausal dependents. Adverbial clauses are labeled `advcl`. Adjectival clauses (of which relative clauses are a subtype) are labeled `acl`. Nonclausal adverbials are labeled `advmod`, and nonclausal adjectivals are labeled `amod`.
+
 #### Clausal modifiers of nouns
+
+Relative clauses are the canonical case of clausal modifiers of nouns, and they receive a special language-specific label, `acl:relcl`.
+
+~~~sdparse
+~~~
+
+This label applies only to full relative clauses; reduced relative clauses are typed `acl`.
+
+~~~sdparse
+~~~
 
 #### Quantifier phrases
 
