@@ -444,11 +444,60 @@ compound(tea, extract)
 
 ### The nominal domain: nominal and prepositional phrases
 
+
+
 #### Appositives
 
 #### Prepositions
 
-#### Other functional dependents
+#### Determiners
+
+In addition to `case`, the label `det` and its language-specific extension `det:predet` also designate function-word dependents of nominal heads. These labels are used for determiners: definite and indefinite articles, demonstrative determiners, quantifiers such as `all`, `some`, `every` and `each`.
+
+~~~sdparse
+I did find this website .
+det(website, this)
+~~~
+
+Floating quantifiers are attached to the nominal head they modify.
+
+~~~sdparse
+The five companies that made the short list all proposed structural changes .
+det(companies, all)
+~~~
+
+In some English constructions, pronouns can cooccur with nominal heads and exhibit determiner-like behavior. In those constructions, these pronouns are annotated as `det`.
+
+~~~sdparse
+You guys do everything wonderful !
+det(guys, You)
+~~~
+
+~~~sdparse
+She is a disgrace to the rest of us Pet Smart associates .
+det(associates, us)
+~~~
+
+The label `det:predet` applies when a determiner is present, and preceding it is another determiner.
+
+~~~sparse
+All the girls were totally shocked .
+det(girls, the)
+det:predet(girls, All)
+~~~
+
+~~~sparse
+What an amazing group !
+det:predet(group, What)
+det(group, an)
+~~~
+
+The label can only apply when `det` is also present.
+
+~~~sparse
+All girls were totally shocked .
+det(girls, All)
+~~~
 
 ### Optional modifiers: adverbial and adjectival phrases
 
