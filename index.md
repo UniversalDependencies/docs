@@ -170,7 +170,7 @@ revision and should not be considered final.</strong>
   * [Specific constructions](cs/overview/specific-syntax.html)
   * [Czech dependency relations](cs/dep/index.html) ([single document](cs/dep/all.html))
 
-[CoNLL-U format](format.html)
+[CoNLL-U format](format.html) and Czech [MISC extensions](cs/overview/format.html)
 
 </div>
 
