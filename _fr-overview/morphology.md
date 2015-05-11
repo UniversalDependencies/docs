@@ -6,5 +6,4 @@ permalink: fr/overview/morphology.html
 
 # Morphology
 
-This document is a placeholder for the language-specific overview of
-guidelines for part-of-speech tags and features.
+At present there are no features available for French. In a future release, we hope to add lemmas and other features.
