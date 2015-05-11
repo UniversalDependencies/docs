@@ -4,7 +4,7 @@ title: 'advcl'
 shortdef: 'adverbial clause modifier'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes temporal, consequence, conditional and purpose clauses. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes temporal, consequence, conditional and purpose clauses. The dependent must be clausal (or else it is an [advmod]()) and the head is the main predicate of the clause.
 
 
 ~~~ sdparse
