@@ -42,7 +42,7 @@ nmod(Tá, bhfear)
 case(bhfear, ag)
 ~~~
 
-_Tá brón ar an gcuairteoir_  `The visitor is sorry' (lit. sorry is on the visitor)
+_Tá brón ar an gcuairteoir_  `The visitor is sorry' (lit. sorrow is on the visitor)
 
 ~~~ sdparse
 Tá brón ar an gcuairteoir \n The visitor is sorry
