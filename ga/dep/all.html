@@ -558,15 +558,18 @@ compound:prt(laid, out)
 <p><a id="al-ga-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>The UD coordindation is in a right-adjunct structure (Note that this differs from the structure of the Irish Dependency Treebank). The first conjunct (conjoined element) is the head of the conjoined phrase and all other conjuncts are dependents, labelled with the `conj’ relation. </p>
+<p>UD coordination has a right-adjunct structure (note that this differs from the structure of the Irish Dependency Treebank). The first conjunct (conjoined element) is the head of the conjoined phrase and all other conjuncts are dependents, labelled with the `conj’ relation. </p>
 
 <pre><code class="language-sdparse">Tigh Tábhairne agus Lóistín atá anois ann \n Public Bar and Hotel is what is there now.
 conj(Tigh,Lóistín)
+conj(Bar,Hotel)
 </code></pre>
 
 <pre><code class="language-sdparse">ionaid oidhreachta , chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
 conj(oidhreachta,chultúrtha)
 conj(oidhreachta,Ghaeilge)
+conj(heritage,culture)
+conj(heritage,Irish)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/conj.md" target="#">edit conj</a></p>
@@ -580,7 +583,7 @@ conj(oidhreachta,Ghaeilge)
 inflects for tense, mood and person as per all Irish verbs – and the copula <em>is</em>, which
 only has two tensed forms - present/future and past/conditional.</p>
 
-<p>Bí, as a verb, uses separate particles in negative and interrogative constructions. 
+<p><em>Bí</em>, as a verb, uses separate particles in negative and interrogative constructions. 
 <em>Is</em> (copula) uses its own forms in these constructions. For example: </p>
 
 <ul>
@@ -596,15 +599,14 @@ only has two tensed forms - present/future and past/conditional.</p>
 <h4 id="equative-construction">equative construction</h4>
 
 <pre><code class="language-sdparse">Is múinteor é \n He is a teacher
-cop(múnteoir, Is)
+cop(múinteoir, Is)
 </code></pre>
 
 <h4 id="idiomatic-expressions">idiomatic expressions</h4>
 
-<p>~~ sdparse
-Ba mhaith liom gan fanacht \n I would like not to stay
+<pre><code class="language-sdparse">Ba mhaith liom gan fanacht \n I would like not to stay
 cop(mhaith, Ba)
-~~~</p>
+</code></pre>
 
 <h4 id="cleft-constructions">cleft constructions</h4>
 
