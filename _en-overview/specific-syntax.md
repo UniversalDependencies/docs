@@ -475,7 +475,7 @@ case(Mother, 's)
 The `nmod:poss` label is also used for possessive determiners.
 
 ~~~sdparse
-That 's your prerogative.
+That 's your prerogative .
 nmod:poss(prerogative, your)
 ~~~
 
