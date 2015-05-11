@@ -393,7 +393,7 @@ advmod(sat, kind)
 
 ~~~sdparse
 You have to wait , due to financial reasons .
-mwe(due, to)
+mwe(due, to-7)
 case(reasons, due)
 ~~~
 
