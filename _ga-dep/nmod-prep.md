@@ -6,7 +6,7 @@ shortdef : 'prepositional pronouns'
 
 `nmod:prep`, used for prepositional pronouns, is a UD Irish subtype of the [nmod]() relation: 
 
-16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. In the UD scheme, we regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the language-specific label `nmod:prep` so as not to lose information regarding the presence of the preposition.
+16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. We regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the language-specific label `nmod:prep` so as not to lose information regarding the presence of the preposition.
 
 Examples: _agam_ "at me"; _leis_ "with him", _uainn_ "from us"
  
