@@ -7,7 +7,7 @@ permalink: cs/overview/format.html
 # Czech Format Extension: Miscellaneous
 
 The final MISC field is for storing any additional information that does not fit into any of
-the other fields. See also the description of the [CoNLL-U file format](../format.html).
+the other fields. See also the description of the [CoNLL-U file format](../../format.html).
 
 ## Untokenized text
 
