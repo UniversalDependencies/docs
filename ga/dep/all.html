@@ -1165,17 +1165,17 @@ xcomp(fáil, ar)
 <p><a id="al-ga-dep/xcomp:pred" class="al-dest"></a></p>
 <h2><code>xcomp:pred</code>: predicate</h2>
 
-<p>In LFG, the <code>xcomp' label is used to represent predicates. We extend it here as a UD Irish subtype </code>xcomp:pred’.
-In Irish, the substantive verb <em>bí</em> “to be” can have predicate arguments in the form of adverbs, adjectives and prepositional phrases. 
-Note that this differs from (<a href="">copula</a>) constructions. </p>
+<p>We extend the label <code>xcomp' as a UD Irish subtype </code>xcomp:pred` to mark predicates of the substantive verb <em>bí</em> (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
+Note that this differs from Irish (<a href="">copula</a>) constructions. </p>
 
-<h4 id="adjective-predicate">Adjective Predicate</h4>
+<h4 id="adjectival-predicate">Adjectival Predicate</h4>
 <pre><code class="language-sdparse">Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
 xcomp:pred(Bhí, dochreidte)
+xcomp:pred(was, unbelieveable)
 </code></pre>
 
-<h4 id="prepositional-predicate">Prepositional Predicate</h4>
-<p>Note that the head of the prepositional phrase is the object.</p>
+<h4 id="pp-predicate">PP Predicate</h4>
+<p>Note that the head of the prepositional phrase is the noun.</p>
 
 <pre><code class="language-sdparse">Tá duine eile i_mbun peannaireachta \n Someone else is in charge of writing
 xcomp:pred(Tá, peannaireachta)
