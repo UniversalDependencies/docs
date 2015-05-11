@@ -9,6 +9,7 @@ The `parataxis` relation is a relation between the main verb of a clause and oth
 
 ~~~ sdparse
 Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n We found this ; look is it your son's coat or not?
-parataxis(Fuaireamar, féach)
+parataxis(Fuaireamar,féach)
+parataxis(found,look)
 ~~~
 
