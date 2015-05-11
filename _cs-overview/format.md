@@ -25,7 +25,7 @@ occur at most once per node.
 * `LId` is a unique identifier of the dictionary entry, used with homonyms. It is the lemma itself, followed by a hyphen and a numeric identifier. Example: *jen-1*.
 * `LGloss` is a comment that further explains the meaning of the lemma. It is particularly useful with homonyms. Typically it is a synonym or a longer explanation in Czech. See below for an example.
 * `LDeriv` is another lemma from which this one has been derived. Only those derivations are marked that the underlying morphological lexicon considers productive.
-* `LNumValue` numeric value of numeral words. Unlike the FEAT feature [cs-feat/NumValue](), here the exact value is given, not just a category of values.
+* `LNumValue` is the numeric value of numeral words. Unlike the FEAT feature [cs-feat/NumValue](), here the exact value is given, not just a category of values.
 
 <pre># sent_id a-cmpr9406-001-p3s1B
 # orig_file_sentence cmpr9406_001#3
