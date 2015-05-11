@@ -6,7 +6,7 @@ shortdef: 'determiner'
 
 The `det`label marks the relationship between a noun and its determiner.
 
-In Irish there is no indefinite article, only a definite article. The definite article can be singular (an) or plural (na).
+In Irish there is no indefinite article, only a definite article. The definite article can be singular (_an_) or plural (_na_).
 
 
 ~~~ sdparse
