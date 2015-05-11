@@ -16,8 +16,6 @@ conj(Bar,Hotel)
 ionaid oidhreachta , chultúrtha agus Ghaeilge \n heritage, culture and Irish language centre.
 conj(oidhreachta,chultúrtha)
 conj(oidhreachta,Ghaeilge)
-conj(heritage,culture)
-conj(heritage,Irish)
 ~~~
 
 
