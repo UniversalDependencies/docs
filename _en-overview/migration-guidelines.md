@@ -531,6 +531,14 @@ See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional
 
 ## New Relations
 
+The UD represenation also introduces the following new relations which didn't exist in SD.
+
+* [`dislocated`](en-dep/dislocated)
+* [`foreign`](en-dep/foreign)
+* [`list`](en-dep/list)
+* [`remnant`](en-dep/remnant)
+* [`vocative`](en-dep/vocative)
+
 ## _Enhanced_ Universal Depencies
 
 
