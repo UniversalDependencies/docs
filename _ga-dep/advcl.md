@@ -29,5 +29,5 @@ advcl(given, asked)
 ~~~ sdparse
 Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when they were going down, they met sailors
 advcl(casadh, bhíodar)
-advcl(met, going)
+advcl(met, were)
 ~~~
