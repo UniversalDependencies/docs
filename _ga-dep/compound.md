@@ -41,7 +41,7 @@ Cé hiad féin ? \n Who are THEY ?
 compound(hiad, féin)
 ~~~ 
 
-#### Ownsership:
+#### Ownership:
 
 It can also translate as ownership, yet the possessive pronoun will also be present in those constructions using _féin_:
 
