@@ -6,5 +6,4 @@ permalink: eu/overview/tokenization.html
 
 # Tokenization
 
-This document is a placeholder for the language-specific overview of
-guidelines for tokenization.
+The tokenization of the UD Basque treebank follows the tokenization of the Basque Dependency Treebank (BDT), which is a straightforward whitespace-based tokenization with conventional separation of punctuation. The Basque UD treebank does not contain multiword tokens.
