@@ -4,7 +4,7 @@ title: 'ccomp'
 shortdef: 'clausal complement'
 ---
 
-`ccomp' marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers _go_, _nach_, and _gur_.
+The ccomp relation marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers _go_, _nach_, and _gur_.
 
 ~~~ sdparse
 Tá a fhios agam gur imigh mo mháthair \n I know that my mother left
