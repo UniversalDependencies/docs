@@ -15,11 +15,11 @@ and reflexive(se)-based:
 ~~~ sdparse
 Биячите не бяха разкрити . \n Bullies-the not-were detected .
 nsubjpass(разкрити, Биячите)
-nsubjpass(detected, Bullies)
+nsubjpass(detected, Bullies-the)
 ~~~
 
 ~~~ sdparse
 Черквата се затопли от свещите . \n Church-the REFL.got-warm from candles-the .
 nsubjpass(затопли, Черквата)
-nsubjpass(got-warm, Church)
+nsubjpass(REFL.got-warm, Church-the)
 ~~~
