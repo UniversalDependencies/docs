@@ -44,20 +44,24 @@
 
 <p>The first difference between between Universal Dependencies and Stanford Dependencies is the treatment of copular constructions. While only nominal and adjectival predicates were treated as heads of copular constructions in the Stanford Dependencies represtnation, we also treat prepositional and adverbial predicates as the head of <a href="en-dep/cop">copular</a> constructions in the Universal Dependencies represenation.</p>
 
-<pre><code class="language-sdparse">ROOT He is in the house
+<pre><code class="language-sdparse">ROOT He is in the house .
 cop(house, is)
 root(ROOT, house)
 </code></pre>
 
-<pre><code class="language-sdparse">ROOT She is here
+<pre><code class="language-sdparse">ROOT She is here .
 cop(here, is)
 root(ROOT, here)
 </code></pre>
 
-<pre><code class="language-sdparse">ROOT She is a lawyer
+<pre><code class="language-sdparse">ROOT She is a lawyer .
 cop(lawyer, is)
 root(ROOT, lawyer)
 </code></pre>
+
+<p>Note that this change is currently only partially implemented in the Stanford Parser. In copular
+constructions with an adverbial predicate the copula verb is still treated as the head. The change
+will be completely implemented in future versions of the parser.</p>
 
 <h3 id="treatment-of-prepositional-phrases">Treatment of Prepositional Phrases</h3>
 
@@ -319,7 +323,7 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 
 <p>The <code>nn</code> relation in SD has been renamed to <a href="en-dep/compound"><code>compound</code></a> in UD.</p>
 
-<p>This relation is now also used for elements of compound numbers in UD instead of the <code>number</code> relation in SD.</p>
+<p>This relation is now also used for elements of compound numbers instead of the <code>number</code> relation in SD.</p>
 
 <h4 id="grammaticalrelation-object-23">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND_MODIFIER</code></p>
@@ -383,7 +387,7 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 <h3 id="bpcomp-acl-or-advclb"><b><code>pcomp</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>Prepositional phrases are treated differently in UD and therefore the <code>pcomp</code> relation no longer exists.
-See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on when to use <code>acl</code> and when <code>advcl</code>.</p>
+See the section <a href="#Treatment-of-Prepositional-Phrases">Treatment of Prepositional Phrases</a> for more details on when to use <code>acl</code> or <code>advcl</code>.</p>
 
 <h4 id="grammaticalrelation-object-32">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER</code> (<code>acl</code>)</p>
@@ -395,8 +399,7 @@ See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on when to u
 <p>The <code>pobj</code> relation in SD has been renamed to <a href="en-dep/nmod"><code>nmod</code></a> in UD.</p>
 
 <p>Note that prepositional phrases are treated differently in UD and not only the name of this relation
-but also the tree structure changed. See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on the
-new treatment of prepositional phrases. </p>
+but also the tree structure changed. See the section <a href="#Treatment-of-Prepositional-Phrases">Treatment of Prepositional Phrases</a> for more details on the new treatment of prepositional phrases.</p>
 
 <h4 id="grammaticalrelation-object-33">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_MODIFIER</code></p>
@@ -415,15 +418,9 @@ new treatment of prepositional phrases. </p>
 <h4 id="grammaticalrelation-object-35">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PREDETERMINER</code></p>
 
-<h3 id="bprep-caseb"><b><code>prep</code>: <code>case</code></b></h3>
+<h3 id="bprep-case-or-markb"><b><code>prep</code>: <code>case</code> or <code>mark</code></b></h3>
 
-<p>The <code>prep</code> relation in SD has been renamed to <a href="en-dep/case"><code>case</code></a> in UD.</p>
-
-<p>Note that prepositional phrases are treated differently in UD and not only the name of this relation
-but also the tree structure changed. See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on the
-new treatment of prepositional phrases. </p>
-
-<p>Further, the <code>possesive</code> relation is now also annotated as <code>case</code> in UD.</p>
+<p>Prepositional phrases are treated differently in UD. See the section <a href="#Treatment-of-Prepositional-Phrases">Treatment of Prepositional Phrases</a> for more details on the new treatment of prepositional phrases. </p>
 
 <p>The various <code>prep_&lt;PREPOSITION&gt;</code> relations in the <em>collapsed</em> and <em>CCprocessed</em> SD representations 
 have been replaced with <code>nmod:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation.</p>
@@ -431,12 +428,14 @@ have been replaced with <code>nmod:&lt;PREPOSITION&gt;</code> relations in the U
 <h4 id="grammaticalrelation-object-36">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER</code></p>
 
+<p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER</code></p>
+
 <h3 id="bprepc-acl-or-advclb"><b><code>prepc</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>The <code>prepc_&lt;PREPOSITION&gt;</code> relations in the <em>collapsed</em> and <em>CCprocessed</em> SD representations have been 
 replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation. </p>
 
-<p>See <a href="">#TreatmentOfPrepositonalPhrases</a> for more details on the new treatment of prepositional phrases. </p>
+<p>See the section <a href="#Treatment-of-Prepositional-Phrases">Treatment of Prepositional Phrases</a> for more details.</p>
 
 <h3 id="bprt-compoundprtb"><b><code>prt</code>: <code>compound:prt</code></b></h3>
 
@@ -488,6 +487,9 @@ replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITI
 
 <p>The <code>acl</code> relation is used for clauses that modify a noun unless the noun is a predicate in a copular 
 construction. The <code>advcl</code> relation is used for clauses that modify a verb or any other predicate.</p>
+
+<p>See the section <a href="#Treatment-of-Prepositional-Phrases">Treatment of Prepositional Phrases</a> for more details on when to use
+<code>acl</code> or <code>advcl</code>.</p>
 
 <h4 id="grammaticalrelation-object-43">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER</code> (<code>acl</code>)</p>
