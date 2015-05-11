@@ -4,5 +4,15 @@ title: 'PROPN'
 shortdef: 'proper noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PROPN`.
+### Definition
+
+A proper noun is a noun that is the name (or part of the name) of a specific individual, place, or object and is usually written with an initial uppercase letter.
+
+### Examples
+
+- _Slovenia_ "Slovenia"
+- _Evropa_ "Europe"
+- _ZDA_ "USA"
+- _Janez_ (personal names)
+- _Olimpija_ (name of sport club)
+- _Krka_ (name of river and company)
