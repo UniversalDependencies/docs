@@ -10,7 +10,7 @@ In Irish, there is a distinction between the substantive verb _bí_ `to be', whi
 inflects for tense, mood and person as per all Irish verbs -- and the copula _is_, which
 only has two tensed forms - present/future and past/conditional.
 
-Bí, as a verb, uses separate particles in negative and interrogative constructions. 
+_Bí_, as a verb, uses separate particles in negative and interrogative constructions. 
 _Is_ (copula) uses its own forms in these constructions. For example: 
 
 * ba (conditional/ past - positive)
@@ -26,13 +26,13 @@ The order of elements in a copula construction is in general:
 
 ~~~ sdparse
 Is múinteor é \n He is a teacher
-cop(múnteoir, Is)
+cop(múinteoir, Is)
 ~~~
 
 
 #### idiomatic expressions
 
-~~ sdparse
+~~~ sdparse
 Ba mhaith liom gan fanacht \n I would like not to stay
 cop(mhaith, Ba)
 ~~~
