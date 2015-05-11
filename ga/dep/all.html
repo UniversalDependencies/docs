@@ -960,9 +960,9 @@ nmod:poss(mhúinteoir, mo)
 <p><a id="al-ga-dep/nmod:prep" class="al-dest"></a></p>
 <h2><code>nmod:prep</code>: prepositional pronouns</h2>
 
-<p>`nmod:prep’, used for prepositional pronouns is a UD Irish subtype of the <a href="">nmod</a> relation: </p>
+<p><code>nmod:prep</code>, used for prepositional pronouns, is a UD Irish subtype of the <a href="">nmod</a> relation: </p>
 
-<p>16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. In the UD scheme, we regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the langauge-specific label <code>nmod:prep</code> so as not to lose information regarding the presence of the preposition.</p>
+<p>16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. In the UD scheme, we regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the language-specific label <code>nmod:prep</code> so as not to lose information regarding the presence of the preposition.</p>
 
 <p>Examples: <em>agam</em> “at me”; <em>leis</em> “with him”, <em>uainn</em> “from us”</p>
 
@@ -975,9 +975,8 @@ nmod:prep(dóigh, leis)
 nmod:prep(bhfuil, acu)
 </code></pre>
 
-<pre><code class="language-conllx">2	Níl	bí	VERB	VERB	_	0	root	_	_
-3	fhios	fios	NOUN	NOUN	_	2	nsubj	_	_
-4	agam	ag	ADP	ADP	_	2	nmod:prep	_	_
+<pre><code class="language-sdparse">Níl fhios agam \n I don't now
+nmod:prep(Níl,agam)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/nmod-prep.md" target="#">edit nmod:prep</a></p>
@@ -1010,7 +1009,7 @@ nsubj(réitigh, iad)
 cop(réitigh, Is)
 </code></pre>
 
-<p>The head of an infinitive phrase can also be `nsubj’ in a copula construction – in Irish, the infinitive verb form is a verbal noun.</p>
+<p>The head of an infinitival phrase can also be <code>nsubj</code> in a copula construction – in Irish, the infinitive verb form is a verbal noun.</p>
 
 <pre><code class="language-conllx">1	Ar	is	VERB	VERB	_	2	cop	_	_
 2	mhaith	maith	ADJ	ADJ	_	0	root	_	_
@@ -1050,7 +1049,8 @@ nummod(fo-alt, (1))
 <p>The <code>parataxis</code> relation is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. More information can be found on the universal dependency page (<a href="">u-dep/parataxis</a>)</p>
 
 <pre><code class="language-sdparse">Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n We found this ; look is it your son's coat or not?
-parataxis(Fuaireamar, féach)
+parataxis(Fuaireamar,féach)
+parataxis(found,look)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/parataxis.md" target="#">edit parataxis</a></p>
@@ -1084,14 +1084,14 @@ parataxis(Fuaireamar, féach)
 <p><a id="al-ga-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>The <code>remnant</code> label has not been applied to the Irish in this release. No examples have been observed yet, but a more thorough analysis may reveal some instances in the next version of the treebank.</p>
+<p>The <code>remnant</code> label has not been applied to the Irish in this release. No examples have been observed yet, but a more thorough analysis may reveal some instances which will be marked in subsequent versions of the treebank.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/remnant.md" target="#">edit remnant</a></p>
 
 <p><a id="al-ga-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A dummy node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
 
 <pre><code class="language-sdparse">ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not made if they are not requested
 root(ROOT, thugtar)
