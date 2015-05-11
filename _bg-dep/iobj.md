@@ -22,12 +22,6 @@ The other examples include all arguments of a head that are not direct objects o
 are PPs introduced by various prepositions. These cases are handled in the valency dictionary:
 
 ~~~ sdparse
-Говореше на всички като началник . \n Spoke-he to everybody like a-boss .
-iobj(Говореше, всички)
-iobj(Spoke-he, everybody)
-~~~
-
-~~~ sdparse
 Ще те питам за нещо . \n Will you ask-I for something .
 iobj(питам, нещо)
 iobj(ask-I, something)
