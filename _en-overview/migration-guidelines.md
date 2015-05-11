@@ -531,7 +531,7 @@ See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional
 
 ## New Relations
 
-The UD represenation also introduces the following new relations which didn't exist in SD.
+The UD represenation also introduces the following new relations which did not exist in SD.
 
 * [`dislocated`](en-dep/dislocated)
 * [`foreign`](en-dep/foreign)
@@ -540,5 +540,23 @@ The UD represenation also introduces the following new relations which didn't ex
 * [`vocative`](en-dep/vocative)
 
 ## _Enhanced_ Universal Depencies
+
+Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the _collapsed_ and _CCprocessed_ representations. The main purpose of the _collapsed_ representation was to collapse prepositions to get direct dependencies between content words. Considering the new [treatment of prepositional phrases](#treatment-of-prepositional-phrases) the basic representation already has direct dependencies between content words which makes the _collapsed_ representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD. 
+
+For these reasons we decided to reduce the total number of representations to the following three:
+
+* _basic_ representation
+* _enhanced_ representation
+* _enhanced-tree_ representation preserving a tree structure
+
+The _basic_ representation uses the dependencies defined above, and forms a tree structure. Each
+word in the sentence is the dependent of exactly one thing, either another word in the sentence or the
+distingushed _ROOT_ token. 
+
+The _enhanced_ representation roughly corresponds to the _CCprocessed_ representation in SD. However, there are two main differences:
+
+* The delimiter between the original relation name and the conjunction or the preposition was changed from `_` to `:`. For example, what used to be `conj_and` is now `conj:and`, or `prep_in_front_of` is now `nmod:in_front_of`. 
+* We no longer delete words in the _enhanced_ representation.
+
 
 
