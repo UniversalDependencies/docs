@@ -17,5 +17,6 @@ Accusative example:
 ~~~ sdparse
 Купувам му къща . \n Buy-I him house .
 dobj(Купувам, къща)
-dobj(Buy, house)
+dobj(Buy-I, house)
 ~~~
+
