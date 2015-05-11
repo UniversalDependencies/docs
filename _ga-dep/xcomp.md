@@ -21,11 +21,12 @@ xcomp(Caithfidh, dhul)
 
 The UD Irish scheme uses `xcomp` to denote progressive aspectual phrases, the structure of which follows:
 Be + SUBJ + at (ag) + Verbal Noun
-In these cases, and in keeping with regular prepositional phrases, we attach the verbal noun to the higher verb ("be") using the `xcomp` label. The preposition is then a dependent of the verbal noun, with that relationship labelled as `case'.
+In these cases, and in keeping with the analysis of prepositional phrases, we attach the verbal noun to the higher verb ("be") (using the `xcomp` label instead of the `nmod` used in standard PPs). The preposition is then a dependent of the verbal noun, with that relationship labelled as `case`.
 
 ~~~ sdparse
 Tá sé ag rith \n He is running
 xcomp(Tá, rith)
+case(rith, ag)
 ~~~
 
 There are also some similar periphrastic constructions similar to these progressives that use _le_ or _ar_
