@@ -29,7 +29,7 @@ The order of elements in a copula construction is in general:
 
 ~~~ sdparse
 Is múinteor é \n He is a teacher
-cop(múinteoir, Is)
+cop(múinteor, Is)
 ~~~
 
 
