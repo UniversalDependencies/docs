@@ -4,7 +4,7 @@ title:  'nmod:poss'
 shortdef : 'possessive pronoun'
 ---
 
-Irish denoted possession through the use of possessive pronouns: 
+Irish denotes possession through the use of possessive pronouns: 
 
  * _mo_ "my"
  * _do_ "your" (SG),
