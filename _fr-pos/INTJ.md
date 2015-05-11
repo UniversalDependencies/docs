@@ -4,5 +4,12 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+### Definition
+
+An interjection is a word that is used most often as an exclamation or part of an exclamation.
+
+### Examples
+
+- _bref_
+- _bon_ "well"
+- _enfin_
