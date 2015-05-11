@@ -17,8 +17,8 @@ of the copular verb, which can be an adjective or noun.
 
 ~~~ sdparse
 В небето наизскачаха звезди . \n In-sky-the dashed stars .
-nsubj(наизскачаха, звезди-5)
-nsubj(dashed, stars-12)
+nsubj(наизскачаха, звезди)
+nsubj(dashed, stars)
 ~~~
 
 ~~~ sdparse
