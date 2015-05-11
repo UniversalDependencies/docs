@@ -20,7 +20,7 @@ nsubj(réitigh, iad)
 cop(réitigh, Is)
 ~~~
 
-The head of an infinitive phrase can also be `nsubj' in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
+The head of an infinitival phrase can also be `nsubj` in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
 
 ~~~ conllx
 1	Ar	is	VERB	VERB	_	2	cop	_	_
