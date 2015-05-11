@@ -14,7 +14,7 @@ vocative(Slán, chara)
 vocative(Goodbye, friend)
 ~~~
 
-_Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat_  `I think Mairead, that I'm in love with you'
+_Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat_  `I think <b>Mairead</b>, that I'm in love with you'
 
 ~~~ conllx
 10	Is	is	VERB	VERB	_	11	cop	_	_
