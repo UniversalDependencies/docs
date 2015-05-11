@@ -4,5 +4,15 @@ title: 'NOUN'
 shortdef: 'noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NOUN`.
+### Definition
+
+Nouns are a part of speech typically denoting a person, place, thing, animal or idea. Common nouns are tagged as `NOUN`.
+
+### Examples
+
+- _fille_ "girl"
+- _chat_ "cat"
+- _arbre_ "tree"
+- _air_ "air"
+- _beauté_ "beauty"
+
