@@ -18,22 +18,26 @@ The first difference between between Universal Dependencies and Stanford Depende
 
 
 ~~~ sdparse
-ROOT He is in the house
+ROOT He is in the house .
 cop(house, is)
 root(ROOT, house)
 ~~~
 
 ~~~ sdparse
-ROOT She is here
+ROOT She is here .
 cop(here, is)
 root(ROOT, here)
 ~~~
 
 ~~~ sdparse
-ROOT She is a lawyer
+ROOT She is a lawyer .
 cop(lawyer, is)
 root(ROOT, lawyer)
 ~~~
+
+Note that this change is currently only partially implemented in the Stanford Parser. In copular
+constructions with an adverbial predicate the copula verb is still treated as the head. The change
+will be completely implemented in future versions of the parser.
 
 ### Treatment of Prepositional Phrases
 
@@ -325,8 +329,7 @@ description of the [`mwe` relation](en-dep/mwe) for the list of multi-word expre
 
 The `nn` relation in SD has been renamed to [`compound`](en-dep/compound) in UD.
 
-This relation is now also used for elements of compound numbers in UD instead of the `number` relation in SD.
-
+This relation is now also used for elements of compound numbers instead of the `number` relation in SD.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND_MODIFIER`
@@ -399,7 +402,7 @@ The `possesive` relation in SD no longer exists as a relation in UD and has been
 ### <b>`pcomp`: `acl` or `advcl`</b>
 
 Prepositional phrases are treated differently in UD and therefore the `pcomp` relation no longer exists.
-See [#TreatmentOfPrepositonalPhrases]() for more details on when to use `acl` and when `advcl`.
+See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on when to use `acl` or `advcl`.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER` (`acl`)
@@ -412,8 +415,7 @@ See [#TreatmentOfPrepositonalPhrases]() for more details on when to use `acl` an
 The `pobj` relation in SD has been renamed to [`nmod`](en-dep/nmod) in UD.
 
 Note that prepositional phrases are treated differently in UD and not only the name of this relation
-but also the tree structure changed. See [#TreatmentOfPrepositonalPhrases]() for more details on the
-new treatment of prepositional phrases. 
+but also the tree structure changed. See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on the new treatment of prepositional phrases.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_MODIFIER`
@@ -435,15 +437,9 @@ The `predet` relation in SD has been renamed to [`det:predet`](en-dep/det-predet
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.PREDETERMINER`
 
 
-### <b>`prep`: `case`</b>
+### <b>`prep`: `case` or `mark`</b>
 
-The `prep` relation in SD has been renamed to [`case`](en-dep/case) in UD.
-
-Note that prepositional phrases are treated differently in UD and not only the name of this relation
-but also the tree structure changed. See [#TreatmentOfPrepositonalPhrases]() for more details on the
-new treatment of prepositional phrases. 
-
-Further, the `possesive` relation is now also annotated as `case` in UD.
+Prepositional phrases are treated differently in UD. See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on the new treatment of prepositional phrases. 
 
 The various `prep_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations 
 have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ representation.
@@ -451,14 +447,14 @@ have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ repr
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER`
 
+`edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER`
 
 ### <b>`prepc`: `acl` or `advcl`</b>
 
 The `prepc_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations have been 
 replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD _enhanced_ representation. 
 
-See [#TreatmentOfPrepositonalPhrases]() for more details on the new treatment of prepositional phrases. 
-
+See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details.
 
 ### <b>`prt`: `compound:prt`</b>
 
@@ -516,6 +512,9 @@ The `vmod` relation in SD no longer exists as a relation in UD and has been fold
 
 The `acl` relation is used for clauses that modify a noun unless the noun is a predicate in a copular 
 construction. The `advcl` relation is used for clauses that modify a verb or any other predicate.
+
+See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on when to use
+`acl` or `advcl`.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER` (`acl`)
