@@ -7,7 +7,7 @@ shortdef: 'adposition'
 
 Adposition is a cover term for prepositions and postpositions, however Slovenian only has prepositions. They normally occur before noun phrases to express its grammatical and semantic relation to another unit within a clause. 
 
-Adpositions determine the case of the noun phrases, e.g. _<b>brez</b> časpopisa_ "without newspaper" (genitive), _<b>k</b> časopisu_ "to newspaper" (dative), _<b>za</b> časopis_ "for newspaper" (accusative), _<b>v</b> časopisu_ "in newspaper" (locative), _<b>s</b> časopisom_ "with newspaper" (instrumental). 
+Adpositions determine the [case]() of the complement phrase, e.g. _<b>brez</b> časpopisa_ "without newspaper" (genitive), _<b>k</b> časopisu_ "to newspaper" (dative), _<b>za</b> časopis_ "for newspaper" (accusative), _<b>v</b> časopisu_ "in newspaper" (locative), _<b>s</b> časopisom_ "with newspaper" (instrumental). 
 
 ### Examples
 
