@@ -6,4 +6,4 @@ permalink: fr/overview/morphology.html
 
 # Morphology
 
-At present there are no features available for French. In a future release, we hope to add lemmas and other features.
+The French morphology follows the UD guidelines for POS tagging. However at present there are no features available for French.
