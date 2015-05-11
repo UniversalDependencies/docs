@@ -16,7 +16,8 @@ Other word types expressing a number or a relation to a number in Slovenian are 
 
 - _1, 2, 3_
 - _1., 2., 3._
-- _I, II, III_ or _I., II., III._
+- _I, II, III_
+- _I., II., III._
 - _en_ "one", _dva_ "two", _tri_ "three"
 - _enoje_ "one set of", _dvoje_ "two sets of", _troje_ "three sets of"
 
