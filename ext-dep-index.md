@@ -14,6 +14,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 - acl:relcl
 [English](en-dep/acl:relcl)
 [Finnish](fi-dep/acl:relcl)
+[French](fr-dep/acl:relcl)
+[Spanish](es-dep/acl:relcl)
 [Swedish](sv-dep/acl:relcl)
 
 
@@ -75,6 +77,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 - nmod:poss
 [English](en-dep/nmod:poss)
 [Finnish](fi-dep/nmod:poss)
+[French](fr-dep/nmod:poss)
+[Spanish](es-dep/nmod:poss)
 [Swedish](sv-dep/nmod:poss)
 
 - nmod:tmod
