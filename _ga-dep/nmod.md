@@ -4,7 +4,7 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-The `nmod` relation is used for nominal modifiers of nouns or clausal predicates. `nmod` is a noun functioning as a non-core (oblique) argument or adjunct. It is also used for objects of prepositions.
+The `nmod` relation is used for nominal modifiers of nouns or clausal predicates. `nmod` is typically a noun functioning as a non-core (oblique) argument or adjunct, and often marked by a preposition using `case`.
 
 ~~~ sdparse
 Tá sé ráite ag tráchtairí áirithe \n It is said by some commentators
