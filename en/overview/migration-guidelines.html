@@ -505,7 +505,7 @@ construction. The <code>advcl</code> relation is used for clauses that modify a 
 
 <h2 id="new-relations">New Relations</h2>
 
-<p>The UD represenation also introduces the following new relations which didn’t exist in SD.</p>
+<p>The UD represenation also introduces the following new relations which did not exist in SD.</p>
 
 <ul>
   <li><a href="en-dep/dislocated"><code>dislocated</code></a></li>
@@ -516,6 +516,27 @@ construction. The <code>advcl</code> relation is used for clauses that modify a 
 </ul>
 
 <h2 id="enhanced-universal-depencies"><em>Enhanced</em> Universal Depencies</h2>
+
+<p>Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the <em>collapsed</em> and <em>CCprocessed</em> representations. The main purpose of the <em>collapsed</em> representation was to collapse prepositions to get direct dependencies between content words. Considering the new <a href="#treatment-of-prepositional-phrases">treatment of prepositional phrases</a> the basic representation already has direct dependencies between content words which makes the <em>collapsed</em> representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD. </p>
+
+<p>For these reasons we decided to reduce the total number of representations to the following three:</p>
+
+<ul>
+  <li><em>basic</em> representation</li>
+  <li><em>enhanced</em> representation</li>
+  <li><em>enhanced-tree</em> representation preserving a tree structure</li>
+</ul>
+
+<p>The <em>basic</em> representation uses the dependencies defined above, and forms a tree structure. Each
+word in the sentence is the dependent of exactly one thing, either another word in the sentence or the
+distingushed <em>ROOT</em> token. </p>
+
+<p>The <em>enhanced</em> representation roughly corresponds to the <em>CCprocessed</em> representation in SD. However, there are two main differences:</p>
+
+<ul>
+  <li>The delimiter between the original relation name and the conjunction or the preposition was changed from <code>_</code> to <code>:</code>. For example, what used to be <code>conj_and</code> is now <code>conj:and</code>, or <code>prep_in_front_of</code> is now <code>nmod:in_front_of</code>. </li>
+  <li>We no longer delete words in the <em>enhanced</em> representation.</li>
+</ul>
 
 
 
