@@ -35,7 +35,7 @@
           <h1 id="czech-format-extension-miscellaneous">Czech Format Extension: Miscellaneous</h1>
 
 <p>The final MISC field is for storing any additional information that does not fit into any of
-the other fields. See also the description of the <a href="../format.html">CoNLL-U file format</a>.</p>
+the other fields. See also the description of the <a href="../../format.html">CoNLL-U file format</a>.</p>
 
 <h2 id="untokenized-text">Untokenized text</h2>
 
@@ -54,18 +54,16 @@ occur at most once per node.</p>
   <li><code>LId</code> is a unique identifier of the dictionary entry, used with homonyms. It is the lemma itself, followed by a hyphen and a numeric identifier. Example: <em>jen-1</em>.</li>
   <li><code>LGloss</code> is a comment that further explains the meaning of the lemma. It is particularly useful with homonyms. Typically it is a synonym or a longer explanation in Czech. See below for an example.</li>
   <li><code>LDeriv</code> is another lemma from which this one has been derived. Only those derivations are marked that the underlying morphological lexicon considers productive.</li>
-  <li>
-    <p><code>LNumValue</code> numeric value of numeral words. Unlike the FEAT feature <a href="">cs-feat/NumValue</a>, here the exact value is given, not just a category of values.</p>
-
-    <h1 id="sentid-a-cmpr9406-001-p3s1b">sent_id a-cmpr9406-001-p3s1B</h1>
-    <p># orig_file_sentence cmpr9406_001#3
-1  Pomocí  pomoc   NOUN  NNFS7—–A—-  Case=Ins|Gender=Fem|Negative=Pos|Number=Sing                                  2  xcomp  _  _
-2  může    moci    VERB  VB-S—3P-AA—  Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act  0  root   _  LGloss=(mít_možnost_[něco_dělat])
-3  být     být     VERB  Vf——–A—-  Negative=Pos|VerbForm=Inf                                                     1  cop    _  _
-4  systém  systém  NOUN  NNIS1—–A—-  Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing                    2  nsubj  _  _
-5  ECM     ECM     NOUN  NNIXX—–A—8  Abbr=Yes|Animacy=Inan|Foreign=Yes|Gender=Masc|Negative=Pos                    4  nmod   _  LId=ECM-3|LGloss=(Error_Correction_Mode,_mód_u_faxů)</p>
-  </li>
+  <li><code>LNumValue</code> is the numeric value of numeral words. Unlike the FEAT feature <a href="">cs-feat/NumValue</a>, here the exact value is given, not just a category of values.</li>
 </ul>
+
+<pre># sent_id a-cmpr9406-001-p3s1B
+# orig_file_sentence cmpr9406_001#3
+1  Pomocí  pomoc   NOUN  NNFS7-----A----  Case=Ins|Gender=Fem|Negative=Pos|Number=Sing                                  2  xcomp  _  _
+2  může    moci    VERB  VB-S---3P-AA---  Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act  0  root   _  LGloss=(mít_možnost_[něco_dělat])
+3  být     být     VERB  Vf--------A----  Negative=Pos|VerbForm=Inf                                                     1  cop    _  _
+4  systém  systém  NOUN  NNIS1-----A----  Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing                    2  nsubj  _  _
+5  ECM     ECM     NOUN  NNIXX-----A---8  Abbr=Yes|Animacy=Inan|Foreign=Yes|Gender=Masc|Negative=Pos                    4  nmod   _  LId=ECM-3|LGloss=(Error_Correction_Mode,_mód_u_faxů)</pre>
 
 
 

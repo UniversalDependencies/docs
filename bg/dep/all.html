@@ -377,6 +377,17 @@ for <code>dislocated</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>dobj</code>.</p>
 
+<p>The direct object of a verb is the noun phrase that denotes the entity acted upon.
+The direct object in Bulgarian corresponds to the position of the “Accusative” case, 
+since nominals in Bulgarian do not have declension.</p>
+
+<p>Accusative example:</p>
+
+<pre><code class="language-sdparse">Купувам му къща . \n Buy-I him house .
+dobj(Купувам, къща)
+dobj(Buy, house)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_bg-dep/dobj.md" target="#">edit dobj</a></p>
 
 <p><a id="al-bg-dep/expl" class="al-dest"></a></p>
@@ -497,15 +508,13 @@ two kinds of passive: participle-based
 and reflexive(se)-based:</p>
 
 <pre><code class="language-sdparse">Биячите не бяха разкрити . \n Bullies-the not-were detected .
-nsubjpass(разкрити, биячите)
-nsubjpass(detected, bullies)
+nsubjpass(разкрити, Биячите)
+nsubjpass(detected, Bullies)
 </code></pre>
 
-<p>Reflexive passive (the meaning is “This will be solved tomorrow.”)</p>
-
 <pre><code class="language-sdparse">Черквата се затопли от свещите . \n Church-the REFL.got-warm from candles-the .
-nsubjpass(затопли, черквата)
-nsubjpass(got-warm, church)
+nsubjpass(затопли, Черквата)
+nsubjpass(got-warm, Church)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_bg-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
