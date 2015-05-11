@@ -6,7 +6,10 @@ shortdef: 'determiner'
 
 ### Definition
 We follow the definition for `DET` proposed in the universal scheme.
+
 However note that at the moment numerals are not consistently annotated as `NUM`, and are sometimes marked as `DET`.
+
+For demonstratives such as _ce ...-là, ce ...-ci_ (as in _cet homme-ci, cette femme-là_ "this man, that women"), the first part of the determiner is annotated as `DET` and the clitic _ci, là_ (which are split from the noun) are marked as `PART`.
 
 ### Examples
 
