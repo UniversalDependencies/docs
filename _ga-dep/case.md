@@ -4,20 +4,20 @@ title: 'case'
 shortdef: 'case marking'
 ---
 
-The case relation is used for most prepositions in Irish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
+The case relation is used for most prepositions in Irish. Prepositions are treated as dependents of the noun they introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
 
 See [nmod:pred]() for labelling of prepositional pronouns, and [xcomp:pred]() for prepositional predicates.
 
 
 Prepositions have many functions in Irish.
 
-#### regular prepositional phrases 
+#### adjuncts 
 
-Regular PP phrases can precede or follow a verb. 
+PPs can precede or follow the verb they modify. 
 
-(i) <b>Sa</b> bhliain sin, bhuaigh siad an Chorn `In that year, they won the Cup'
+(i) _<b>Sa</b> bhliain sin, bhuaigh siad an Chorn_ `In that year, they won the Cup'
 
-(ii) Bhuaigh siad an Chorn <b>sa</b> bhliain sin `They won the Cup <b>in</b> that year'
+(ii) _Bhuaigh siad an Chorn <b>sa</b> bhliain sin_ `They won the Cup <b>in</b> that year'
 
 
 #### progressive aspectuals
@@ -53,7 +53,7 @@ case(gcuairteoir, ar)
 
 #### obliques
 
-Oblique arguments are also labelled `case'.
+Oblique arguments are also labelled `case`.
 
 ~~~ sdparse
 Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n The people of Cork are very unhappy with Fianna\_Fáil
