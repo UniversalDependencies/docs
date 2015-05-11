@@ -4,5 +4,13 @@ title: 'ADP'
 shortdef: 'adposition'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADP`.
+### Definition
+
+Adposition is a cover term for prepositions and postpositions. French has only prepositions.
+
+### Examples
+
+- _pour_ "for"
+- _de_ "of, to"
+- _à_ "to"
+- _dans_ "in"
