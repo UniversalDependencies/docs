@@ -402,7 +402,7 @@ The `possesive` relation in SD no longer exists as a relation in UD and has been
 ### <b>`pcomp`: `acl` or `advcl`</b>
 
 Prepositional phrases are treated differently in UD and therefore the `pcomp` relation no longer exists.
-See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on when to use `acl` or `advcl`.
+See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on when to use `acl` or `advcl`.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CLAUSAL_MODIFIER` (`acl`)
@@ -415,7 +415,7 @@ See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional
 The `pobj` relation in SD has been renamed to [`nmod`](en-dep/nmod) in UD.
 
 Note that prepositional phrases are treated differently in UD and not only the name of this relation
-but also the tree structure changed. See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on the new treatment of prepositional phrases.
+but also the tree structure changed. See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on the new treatment of prepositional phrases.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.NOMINAL_MODIFIER`
@@ -439,7 +439,7 @@ The `predet` relation in SD has been renamed to [`det:predet`](en-dep/det-predet
 
 ### <b>`prep`: `case` or `mark`</b>
 
-Prepositional phrases are treated differently in UD. See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on the new treatment of prepositional phrases. 
+Prepositional phrases are treated differently in UD. See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on the new treatment of prepositional phrases. 
 
 The various `prep_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations 
 have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ representation.
@@ -454,7 +454,7 @@ have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ repr
 The `prepc_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations have been 
 replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD _enhanced_ representation. 
 
-See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details.
+See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details.
 
 ### <b>`prt`: `compound:prt`</b>
 
@@ -513,7 +513,7 @@ The `vmod` relation in SD no longer exists as a relation in UD and has been fold
 The `acl` relation is used for clauses that modify a noun unless the noun is a predicate in a copular 
 construction. The `advcl` relation is used for clauses that modify a verb or any other predicate.
 
-See the section [Treatment of Prepositional Phrases](#Treatment-of-Prepositional-Phrases) for more details on when to use
+See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on when to use
 `acl` or `advcl`.
 
 #### GrammaticalRelation object:
