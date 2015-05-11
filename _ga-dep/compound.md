@@ -4,7 +4,7 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-UD Irish uses the `compound` for noun compounding. In Irish, when two nouns are compounded, the second is in the genitive case. Compounds can denote ownership or  an attribute.
+UD Irish uses the `compound` relation for noun compounding. In Irish, when two nouns are compounded, the second is in the genitive case. Compounds can denote ownership or  an attribute.
 
 ### Examples
 
@@ -34,7 +34,7 @@ compound(Concepta, tSúir)
 
 #### Reflexive Pronoun: féin
 
-Similar to the emphatic pronoun -self in Engish in himself, themselves, itself etc.
+Similar to the emphatic pronoun _self_ in English, e.g. himself, themselves.
 
 ~~~ sdparse
 Cé hiad féin ? \n Who are THEY ?
