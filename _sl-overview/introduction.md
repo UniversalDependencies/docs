@@ -10,7 +10,7 @@ The Slovenian UD Treebank is based on the [ssj500k Dependency Treebank](http://e
 
 The Slovenian UD Treebank thus includes 11.411 sentences with 235.864 tokens taken from a variety of text genres, such as fiction, non-fiction and periodicals, dating from 1990 to 2000. 
 
-The current version of the Slovene UD Treebank (released within the UD v1.1) includes automatic conversions of POS categories, features and values from JOS to UD, which have also been described in the corresponding [Slovenian UD Guidelines](http://universaldependencies.github.io/docs/#language-sl). Further revisions of this work and syntactic mapping remains a work in progress.
+The current version of the Slovene UD Treebank (not yet officially released) includes automatic conversions of POS categories, features and values from JOS to UD, which have also been described in the corresponding [Slovenian UD Guidelines](http://universaldependencies.github.io/docs/#language-sl). Further revisions of this work and syntactic mapping remains a work in progress.
 
 ## Acknowledgments
 
