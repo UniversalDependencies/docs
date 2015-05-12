@@ -24,7 +24,7 @@ There are many different particles in Irish:
 * _Sean <b>O'</b>Connell_ (name)
 * _<b>a</b> Sheáin_ "John!" (vocative)
 * _<b>go</b> cúramach_ "carefully" (adverbial)
-* _an fear <b>a</b> chonaic sé_ "the man [] he saw" (relative)
+* _an fear <b>a</b> chonaic sé_ "the man he saw" (relative)
 * _<b>a</b> hocht_ "eight" (numeral)
 * _<b>níos</b> mó_ "bigger" (comparative)
 * _<b>is</b> mó_ "biggest" (superlative)
