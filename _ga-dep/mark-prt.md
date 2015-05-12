@@ -9,7 +9,7 @@ The UD Irish subtype `mark:prt' is used for the various particles in Irish, incl
 * adverbial particle: _go_
 * quantifier particle: _a_
 * cleft particle: _a_
-* verb particles: _d'_, _a_,  (including complementisers) _go_, _nach_, _nár_, _gur_, _gurbh_, 
+* verb particles: _d'_, _a_, and the complementisers _go_, _nach_, _nár_, _gur_, _gurbh_, 
 * comparative and superlative particles: _is_, _níos_
 * days of the week particle: _Dé_
 
