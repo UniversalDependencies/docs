@@ -5,7 +5,7 @@ shortdef : 'predicate'
 ---
 
 We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
-Note that this differs from Irish ([copula]()) constructions. 
+Note that this differs from Irish ([cop]()) constructions. 
 
 #### Adjectival Predicate
 ~~~ sdparse
@@ -27,7 +27,7 @@ xcomp:pred(is, charge)
 
 #### Adverbial Predicate
 ~~~ sdparse
-Tá Mel Gibson go hiontach sa scannán sin \n Mel Gibson is wonderful in that movie
+Tá Meryl Streep go hiontach sa scannán sin \n Meryl Streep is wonderful in that movie
 xcomp:pred(Tá, hiontach)
 xcomp:pred(is, wonderful)
 ~~~
