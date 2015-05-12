@@ -18,9 +18,9 @@ nummod(floors, two)
 ~~~
 
 ~~~ sdparse
-Бензинът поевтинява средно с 10-12 стотинки . \n Petrol-the gets-cheap average with 10-12 stotinki  .
-nummod(стотинки, 10-12)
-nummod(stotinki, 10-12)
+Бензинът поевтинява средно с десет стотинки . \n Petrol-the gets-cheap average with deset stotinki  .
+nummod(стотинки, десет)
+nummod(stotinki, deset)
 ~~~
 
 Note that indefinite quantifiers such as _few, many_ are tagged
