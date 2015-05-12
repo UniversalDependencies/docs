@@ -8,7 +8,7 @@ In contrast to some other languages, the Slovenian tagset does not consider `Ani
 
 Animacy is thus only marked as an inflectional feature of [masculine](Gender) [nouns](NOUN) and [proper nouns](PROPN) to distinguish between animate and inanimate word forms in [accusative](Case) [singular](Number) for , e.g. _Odstrigla si je <b>koder</b>._ "She cut off a curl." (inanimate) vs. _Videla je <b>kodra</b>._ "She saw a poodle." (animate).
 
-#### Anim: animate
+#### `Anim`: animate
 
 `Animate` value is attributed to masculine nouns in accusative singular usually ending in -a:
 
