@@ -4,5 +4,17 @@ title: 'Animacy'
 shortdef: 'animacy'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Animacy`.
+In contrast to some other languages, the Slovenian tagset does not consider `Animacy` to be a lexical feature, as certain types of inanimate nouns, such as institutions, personified objects, brand names etc., often take on both semantic and grammatical features of animate nouns.
+
+Animacy is thus only marked as an inflectional feature of [masculine](Gender) [nouns](NOUN) and [proper nouns](PROPN) to distinguish between animate and inanimate word forms in [accusative](Case) [singular](Number) for , e.g. _Odstrigla si je <b>koder</b>._ "She cut off a curl." (inanimate) vs. _Videla je <b>kodra</b>._ "She saw a poodle." (animate).
+
+#### Anim: animate
+
+`Animate` value is attributed to masculine nouns in accusative singular usually ending in -a:
+
+* _človeka_ "man", _delfina_ "dolphin", _Davida_ "David", _ministra_ "minister"
+
+Note that grammatical animatness can also apply to semantically inanimate nouns, such as car names, personified objects, brand names, card names etc.
+
+* _Renaulta_ "Renault", _pomivalca_ "washing machine", _bordojca_ "Bordeaux wine", _asa_ "ace" etc.
+
