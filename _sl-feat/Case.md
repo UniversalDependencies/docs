@@ -9,13 +9,13 @@ shortdef: 'case'
 Slovenian morphology distinguishes six cases:
 `Nom`, `Gen`, `Dat`, `Acc`, `Loc` and `Ins`.
 
-### `Nom`: nominative
+#### `Nom`: nominative
 
 The base form of the noun, also used as citation form (lemma). This is the word form usually used for subjects of clauses and answers the question _Kdo ali kaj (je)?_ "Who or what (is there)?".
 
 * _<b>Država</b> je dala jamstva_. "The state has given guarantees."
 
-### `Gen`: genitive
+#### `Gen`: genitive
 
 In addition to its prototypical meaning of a noun modifying another noun, genitive in Slovenian is used in certain syntactic positions, such as negation, or with certain prepositions. Word form in genetive answers the question _Koga ali česa (ni)?_ "Who or what (is not there)?"
 
