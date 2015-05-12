@@ -13,12 +13,13 @@ Prepositions have many functions in Irish.
 
 #### adjuncts 
 
-PPs can precede or follow the verb they modify. 
+PPs can precede or follow the verb they modify, or follow the noun they modify. 
 
 (i) _<b>Sa</b> bhliain sin, bhuaigh siad an Chorn_ `In that year, they won the Cup'
 
 (ii) _Bhuaigh siad an Chorn <b>sa</b> bhliain sin_ `They won the Cup <b>in</b> that year'
 
+(iii) _An teach sa chathair_ `The house in the city'
 
 #### progressive aspectuals
 
