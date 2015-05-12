@@ -23,7 +23,7 @@ _Is_ (copula) uses its own forms in these constructions. For example:
 The order of elements in a copula construction is in general: 
 <b>copula</b>, <b>predicate</b> (new or focussed information), and <b>subject</b>
 
-`cop` is used to link the copula verb _is_ and its predicate. 
+`cop` is used to link the copula verb _is_ and its predicate. See [xcomp:pred]() to see how the verb _bí_ is linked to a predicate.
 
 #### equative construction
 
