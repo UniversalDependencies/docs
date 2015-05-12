@@ -67,9 +67,11 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[dat]
+* [Basque values](ext-feat/ErgDatGender): Masc, Fem
 * [Interset](ext-feat/ErgDatGender): Masc, Fem
 
 ## Gender[erg]
+* [Basque values](ext-feat/ErgDatGender): Masc, Fem
 * [Interset](ext-feat/ErgDatGender): Masc, Fem
 
 ## Gender[psor]
@@ -91,12 +93,15 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/NounType): Com, Prop, Class
 
 ## Number[abs]
+* [Basque values](ext-feat/AbsErgDatNumber): Sing, Plur
 * [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
 
 ## Number[dat]
+* [Basque values](ext-feat/AbsErgDatNumber): Sing, Plur
 * [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
 
 ## Number[erg]
+* [Basque values](ext-feat/AbsErgDatNumber): Sing, Plur
 * [Interset](ext-feat/AbsErgDatNumber): Sing, Plur
 
 ## Number[psee]
@@ -122,12 +127,15 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/PartType): Mod, Emp, Res, Inf, Vbp
 
 ## Person[abs]
+* [Basque values](ext-feat/AbsErgDatPerson): 1, 2, 3
 * [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
 
 ## Person[dat]
+* [Basque values](ext-feat/AbsErgDatPerson): 1, 2, 3
 * [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
 
 ## Person[erg]
+* [Basque values](ext-feat/AbsErgDatPerson): 1, 2, 3
 * [Interset](ext-feat/AbsErgDatPerson): 1, 2, 3
 
 ## Person[psor]
@@ -135,15 +143,19 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/PossPerson): 1, 2, 3
 
 ## Polite
+* [Basque values](ext-feat/Polite): Inf, Pol
 * [Interset](ext-feat/Polite): Inf, Pol
 
 ## Polite[abs]
+* [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
 ## Polite[erg]
+* [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
 ## Polite[dat]
+* [Basque values](ext-feat/AbsErgDatPolite): Inf, Pol
 * [Interset](ext-feat/AbsErgDatPolite): Inf, Pol
 
 ## Prefix
