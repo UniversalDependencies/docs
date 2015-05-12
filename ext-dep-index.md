@@ -15,6 +15,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [English](en-dep/acl:relcl)
 [Finnish](fi-dep/acl:relcl)
 [French](fr-dep/acl:relcl)
+[German](de-dep/acl:relcl)
 [Spanish](es-dep/acl:relcl)
 [Swedish](sv-dep/acl:relcl)
 
@@ -42,6 +43,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## compound
 - compound:prt
 [English](en-dep/compound:prt)
+[German](de-dep/compound:prt)
 [Swedish](sv-dep/compound:prt)
 - compound:reflex
 [Czech](cs-dep/compound:reflex)
