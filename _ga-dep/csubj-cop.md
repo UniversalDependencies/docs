@@ -12,6 +12,6 @@ governor of the copular subject.
 
 ~~~ sdparse
 Is dócha go raibh an ceart aici \n It is likely that she was correct
-csubj:cop(Is, raibh)
+csubj:cop(dócha, raibh)
 ~~~
 
