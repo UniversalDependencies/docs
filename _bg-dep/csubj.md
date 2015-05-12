@@ -16,15 +16,7 @@ not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. The dependent is the main lexical verb or other 
 predicate of the subject clause. 
 
-Example 1: Since the verb is a copula, its complement is the head. The clausal subject is the to-clause (да я накараш). 
-
-~~~ sdparse
-Трудно е да я накараш да признае . \n Difficult-it is to her make confess .
-csubj(Трудно, накараш)
-csubj(Difficult-it, make)
-~~~
-
-Example 2: The clausal subject is the relative clause, which has a main verb.
+Example 1: The clausal subject is the relative clause, which has a main verb.
 
 ~~~ sdparse
 Който е закъснял, ще чака . \n Who is late, will wait-he .
@@ -32,10 +24,9 @@ csubj(чака, закъснял)
 csubj(wait-he, late)
 ~~~
 
-Example 3:
+Example 2: The clausal subject is the to-clause (да се срещнем)
 
 ~~~ sdparse
 Предстои да се срещнем . \n Coming-it-is to REFL.meet-each-other .
 csubj(Предстои, срещнем)
 csubj(Coming-it-is, REFL.meet-each-other)
-~~~
