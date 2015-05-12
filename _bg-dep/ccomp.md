@@ -11,10 +11,12 @@ A clausal complement of a verb or adjective is a dependent clause
 which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
+Example 1: The clausal subject is the relative clause, which has a main verb.
+
 ~~~ sdparse
-Виждам, че идва често . \n See-I that comes-he often .
-ccomp(Виждам, идва)
-ccomp(See-I, comes-he)
+Който е закъснял , ще чака . \n Who is late , will wait-he .
+csubj(чака, закъснял)
+csubj(wait-he, late)
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the
