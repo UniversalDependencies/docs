@@ -18,7 +18,7 @@ nummod(floors, two)
 ~~~
 
 ~~~ sdparse
-Бензинът поевтинява средно с 10-12 стотинки . \n Petrol-the gets-cheap average with 10-12 stitinki  .
+Бензинът поевтинява средно с 10-12 стотинки . \n Petrol-the gets-cheap average with 10-12 stotinki  .
 nummod(стотинки, 10-12)
 nummod(stotinki, 10-12)
 ~~~
