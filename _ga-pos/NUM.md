@@ -14,6 +14,7 @@ Irish numbers are split into three categories: cardinal, ordinal and personal. T
 #### Examples
 
 * _22 Meitheamh_ "22nd June"
+
 * _1920_
 
 * _<b>ocht</b> mbliana_ "eight years"
