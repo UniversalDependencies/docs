@@ -18,7 +18,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
 
 ## References
 
-* Simon Krek and Tomaž Erjavec. 2014. Training corpus ssj500kv1.2. Jožef Stefan Institute, Slovenia. [http://hdl.handle.net/11356/4](http://hdl.handle.net/11356/4)
+* Simon Krek and Tomaž Erjavec. 2014. Training corpus ssj500kv1.2. Jožef Stefan Institute, Slovenia. 
 * Špela Arhar and Vojko Gorjanc. 2007. Korpus FidaPLUS: nova generacija slovenskega referenčnega korpusa (The FidaPLUS corpus: a new generation of the Slovene reference corpus). Jezik in slovstvo, 52(2). 
 * Tomaž Erjavec, Darja Fišer, Simon Krek and Nina Ledinek. 2010. The JOS Linguistically Tagged Corpus of Slovene. In: Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC'10), Malta.
 
