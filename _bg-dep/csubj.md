@@ -16,7 +16,7 @@ predicate of the subject clause.
 Example 1: The clausal subject is the relative clause, which has a main verb.
 
 ~~~ sdparse
-Който е закъснял, ще чака . \n Who is late, will wait-he .
+Който е закъснял , ще чака . \n Who is late , will wait-he .
 csubj(чака, закъснял)
 csubj(wait-he, late)
 ~~~
