@@ -10,9 +10,9 @@ Determiners are words that modify nouns or noun phrases and express the referenc
 
 The traditional grammar of Slovenian does not define determiners as a separate word class. Instead, words that perform the syntactic function of determiners are either categorizied as adverbs (_nekaj_ "some", _veliko_ "a lot of", _dovolj_ "enough of" etc.) or pronouns (_ta_ "this", _ves_ "all", _moj_ "my", _vsak_ "each" etc.), regardless of the fact whether they are used as attributives (_<b>To</b>.`DET` besedilo je nerazumljivo._ "This text is incomprehensible.") or substantives (_<b>To</b>.`PRON` sem že slišal._ "I have heard this before.").  
 
-### Conversion from JOS tagset
+#### Conversion from JOS
 
-Since JOS morphosyntactic specifications do not distinguish substantive and attributive pronouns or quantifying and other adverbs, the conversion was done based on syntactic information. The pronouns modifying a noun have thus been marked as `DET`, otherwise they were marked as [PRON](PRON). Similarly, the list of adverbs modifying a noun was manually validated to define a closed set of quantifying adverbs marked as `DET`. 
+Since JOS morphosyntactic specifications do not distinguish substantive and attributive pronouns or quantifying and other adverbs, the conversion is done based on syntactic information. The pronouns modifying a noun are thus marked as `DET`, otherwise they are marked as [PRON](PRON). Similarly, the list of adverbs modifying a noun was manually validated to define a closed set of quantifying adverbs marked as `DET`. 
 
 ### Examples
 
