@@ -64,7 +64,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ## UD publications
 
-Nivre (2014), Nivre (2015)
+Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 
 ## Contributors
 
@@ -187,3 +187,5 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
 
 * Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
+
+* Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
