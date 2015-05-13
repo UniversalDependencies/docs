@@ -18,3 +18,6 @@ Word forms that etymologically derive from verbs, but have different syntactic p
 * _morati_ "to must", _moči_ "to be able to", _postati_ "to become"
 * _začeti_ "to start,  _iti_ "to go", _priti_ "to come"
 
+### Conversion from JOS
+
+All JOS main verbs have been converted to `VERB`. Additionally, those instances of JOS auxiliary verb _biti_ that do not function as universal [auxiliaries](AUX) have also been converted to `VERB`.
