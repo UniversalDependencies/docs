@@ -16,3 +16,7 @@ A proper noun is a noun that is the name (or part of the name) of a specific ind
 - _Janez_ (personal names)
 - _Olimpija_ (name of sport club)
 - _Krka_ (name of river and company)
+
+#### Conversion from JOS
+
+All nouns with Type=proper are converted to `NPROP`.
