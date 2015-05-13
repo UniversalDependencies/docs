@@ -11,6 +11,5 @@ _Na sonraí atá leagtha <b>amach</b> in Airteagal J_  'The details that are lai
 ~~~ sdparse
 Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
-compound:prt(laid, out)
 ~~~
 
