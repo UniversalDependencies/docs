@@ -20,7 +20,7 @@ In the same way, all adjectival participles are classified as adjectives, regard
 - _prvi_ "first", _drugi_ "second", _tretji_ "third"
 - _enojen_ "single", _dvojen_ "double", _trojen_ "triple"
 
-### Conversion from JOS
+#### Conversion from JOS
 
 All adjectives are converted to `ADJ`. In addition to that, some numerals also become `ADJ`, namely:
 * numerals with Form=letter and Type=ordinal: _prvi_ "first", _tretji_ "third", _četrti_ "fourth" etc.
