@@ -10,16 +10,18 @@ UD Irish uses the `compound` relation for noun compounding. In Irish, when two n
 
 #### Attributive:
 
-_Oifig an Phoist_ `Post Office'   (lit. Office the Post)
+_Oifig an <b>Phoist</b>_ `<b>Post</b> Office'   (lit. Office the Post)
 
 ~~~ sdparse
-ag cosaint na n-oifigí poist tuaithe \n protecting the rural post offices
+ag cosaint na n-oifigí poist tuaithe \n at protecting the offices post country
 compound(n-oifigí, poist)
 compound(n-oifigí, tuaithe)
 ~~~
 
+_roimh teacht na traenach_ 'before the <b>train</b>'s arrival'
+
 ~~~ sdparse
-roimh teacht na traenach \n before the train's arrival
+roimh teacht na traenach \n before arrival the train
 compound(teacht, traenach)
 ~~~
 
