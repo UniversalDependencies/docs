@@ -15,3 +15,7 @@ Note that in Slovenian transgressives (adverbial participles) are marked as adve
 
 - _vedno_ "always", _tako_ "like that", _zelo_ "very"
 - _sodeč_ "judging", _upoštevaje_ "taking into account", _molče_ "silently"
+
+#### Conversion from JOS
+
+All adverbs become `ADV`.
