@@ -64,7 +64,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 ## UD publications
 
-Nivre (2014)
+Nivre (2014), Nivre (2015)
 
 ## Contributors
 
@@ -185,3 +185,5 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 
 * Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
   In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
+
+* Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
