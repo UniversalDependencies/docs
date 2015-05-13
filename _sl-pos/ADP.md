@@ -16,3 +16,7 @@ Adpositions determine the [case]() of the complement phrase, e.g. _<b>brez</b> Ä
 - _za_ "for", _na_ "on", _v_ "in"
 - _po_ "after", _o_ "about", _pri_ "at"
 - _z_ "with", _med_ "between", _pred_ "before"
+
+### Conversion from JOS
+
+All prepositions become `ADP`.
