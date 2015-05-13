@@ -27,8 +27,9 @@ Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not given payments if_not reque
 advcl(thugtar, n-iarrtar)
 ~~~
 
+_Ach nuair a <b>bhíodar</b> ag dul aníos casadh mairnéalach leo_ `But when <b>they were</b> going down, they met sailors'
+
 ~~~ sdparse
-Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when they were going down, they met sailors
+Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when [] were_they at going down  were_met sailors with_them
 advcl(casadh, bhíodar)
-advcl(met, were)
 ~~~
