@@ -15,3 +15,7 @@ A coordinating conjunction is a word that links words or larger constituents wit
 - _vendar_ "however"; _toda_, _ampak_ "but"
 - _namreč_ "namely"
 - _saj_ "as/since"
+
+#### Conversion from JOS
+
+All conjunctions with Type=coordinating become `CONJ`.
