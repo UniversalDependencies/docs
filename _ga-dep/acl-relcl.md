@@ -10,7 +10,7 @@ The head of the relative clause is usually a verb.
 _Chaill sé pé rud a <b>bhí</b> aige_ `He lost everything that he <b>had</b>'
 
 ~~~ sdparse
-Chaill sé pé rud a bhí aige \n Lost he whatever thing REL had he
+Chaill sé pé rud a bhí aige \n Lost he whatever thing that had he
 acl:relcl(bhí, pé)
 ~~~
 
