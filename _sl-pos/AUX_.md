@@ -17,10 +17,14 @@ An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase a
 * _V bolnišnici <b>bodo</b>.`AUX` uvedli.`VERB` šolo za starše._ "A parenting school will be introduced in the hospital."
 * _Kam <b>bi</b>.`AUX` se lahko zatekla.`VERB`?_ "Where could she have hidden?"
 
-### Delimitation
+#### Delimitation
  
 Note that in cases, where _biti_ is used independently as a copula or a content verb, it is marked as [verb](VERB):
 
 * _To <b>je</b>.`VERB` grozno._ "This is horrible."
 * _Za nami <b>je</b>.`VERB` dolga vrsta._ "There is a long queue behind us."
 * _Vsi smo.`AUX` <b>bili</b>.`VERB` zadovoljni._ "We were all content."  
+
+#### Conversion from JOS
+
+In ssj500k, all instances of verb _biti_ "to be" have been annotated as Type=auxiliary. To separate the actual auxiliary function from other functions, syntax has to be taken into account. Thus, tokens of _biti_ bearing the dependency relation PPart with a main verb become annotated as `AUX˙.
