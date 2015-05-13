@@ -19,3 +19,7 @@ A subordinating conjunction is a conjunction that links constructions by making 
 * _ko_ "when"
 * _čeprav_ "even_though"
 * _kakor_ "as"
+
+#### Conversion from JOS
+
+All conjunctions with Type=subordinate are converted to `SCONJ`.
