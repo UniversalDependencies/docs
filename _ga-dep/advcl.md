@@ -6,7 +6,7 @@ shortdef: 'adverbial clause modifier'
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes temporal, consequence, conditional and purpose clauses. The dependent must be clausal (or else it is an [advmod]()) and the head is the main predicate of the clause.
 
-_Nuair a <b>bhí</b> siad ag teacht ar ais, chonaic siad é_ 'When they <b>were<\b> coming back, they saw it'
+_Nuair a <b>bhí</b> siad ag teacht ar ais, chonaic siad é_ 'When they <b>were</b> coming back, they saw it'
 
 ~~~ sdparse
 Nuair a bhí siad ag teacht ar ais, chonaic siad é \n When [] were they at coming on back, saw they it
@@ -20,10 +20,11 @@ Má imríonn siad mar faoi is féidir leo, is dóigh liom go bhfillfidh siad ar 
 advcl(dóigh, imríonn)
 ~~~
 
+_Ní thugtar íocaíochtaí mura <b>n-iarrtar</b> iad_ `Payments are not given if they are not <b>asked</b> for'
+
 ~~~ sdparse
-Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not given if they are not asked for
+Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not given payments if_not requested them
 advcl(thugtar, n-iarrtar)
-advcl(given, asked)
 ~~~
 
 ~~~ sdparse
