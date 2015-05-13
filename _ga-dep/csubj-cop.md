@@ -9,9 +9,10 @@ subject of another (copular) clause. As in all copular clauses, the
 predicate acts as the head of the clause and hence it is also the
 governor of the copular subject. 
 
+_Is dócha go <b>raibh</b> an ceart aici_  'It is likely that she <b>was</b> correct'
 
 ~~~ sdparse
-Is dócha go raibh an ceart aici \n It is likely that she was correct
+Is dócha go raibh an ceart aici \n Is probable that was the right at_her
 csubj:cop(dócha, raibh)
 ~~~
 
