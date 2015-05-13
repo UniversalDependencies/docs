@@ -48,3 +48,7 @@ The locative case often expresses location in space or time, but non-locational 
 The instrumental case often expresses the instrument, means or accompaniment of an action, but other meanings also exist. The instrumental word form answers the question _S kom ali čim (delam)?_ "With whom or what (do I work)?"
 
 * _z <b>državo</b>_ "ith country", _pred <b>državo</b>_ "before country", _nad <b>državo</b>_ "above country"
+
+#### Conversion from JOS
+
+Tokens with feature Case=nominative are converted to `Case=Nom`, tokens with feature Case=genitive are converted to `Case=Gen`, tokens with feature Case=dative are converted to `Case=Dat`, tokens with feature Case=accusative are converted to `Case=Acc`, tokens with feature Case=locative are converted to `Case=Loc`, tokens with feature Case=instrumental are converted to `Case=Ins`.
