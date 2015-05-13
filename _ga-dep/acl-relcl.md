@@ -7,9 +7,10 @@ shortdef : 'relative clause modifier'
 A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause.  
 The head of the relative clause is usually a verb.
 
+_Chaill sé pé rud a bhí aige_ `He lost everything that he <b>had</b>'
+
 ~~~ sdparse
-Chaill sé pé rud a bhí aige \n He lost everything that he had
+Chaill sé pé rud a bhí aige \n Lost he whatever thing REL had he
 acl:relcl(bhí, pé)
-acl:relcl(had, everything)
 ~~~
 
