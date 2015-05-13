@@ -37,9 +37,8 @@ case(rith, ag)
 #### ownership/ state
 
 Prepositions are also used in phrasal constructions to denote ownership or a state of being.
-_Tá airgead ag na daoine_ `The people have money' (lit. Money is at the people)
 
-_Tá airgead <b>ag</b> na daoine 'The people have money'
+_Tá airgead <b>ag</b> na daoine_ 'The people have money' (lit. Money is <b>at</b> the people)
 
 ~~~ sdparse
 Tá airgead ag na daoine \n Is pen at the man
@@ -47,7 +46,7 @@ nmod(Tá, bhfear)
 case(bhfear, ag)
 ~~~
 
-_Tá brón <b>ar</b> an gcuairteoir_  `The visitor is sorry' (lit. sorrow is on the visitor)
+_Tá brón <b>ar</b> an gcuairteoir_  `The visitor is sorry' (lit. sorrow is <b>on</b> the visitor)
 
 ~~~ sdparse
 Tá brón ar an gcuairteoir \n Is sorrow on the visitor
@@ -63,7 +62,7 @@ Oblique arguments are also labelled `case`.
 _Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil_ 'The people of Cork are very unhappy with Fianna Fáil'
 
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n Be people Cork very_unhappy with Fianna\_Fáil
+Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n Be people Cork very_unhappy with Fianna_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(Tá, an-mhíshásta)
