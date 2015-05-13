@@ -308,7 +308,7 @@ for <code>case</code>.</p>
 <p><a id="al-fr-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>ni … ni</em> “nor … nor”. Note that we never treat punctuation as coordinating conjunctions. For more on coordination, see the <a href="">conj</a> relation. </p>
+<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>ni … ni</em> “nor … nor”. Note that we never treat punctuation as coordinating conjunctions. For more on coordination, see the French <a href="">conj</a> relation as well as the universal dependency page (<a href="">u-dep/conj</a>). </p>
 
 <pre><code class="language-sdparse">1500 euros par an et par enfant \n 1500 euros per child and per year
 cc(an, et)
@@ -595,8 +595,16 @@ for <code>parataxis</code>.</p>
 <p><a id="al-fr-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>punct</code>.</p>
+<p>This is used for any piece of punctuation in a clause, regardless of its function. The punctuation mark is attached to the head of the phrase or clause to which it belongs unless this introduces a non-projective dependency. More discussion on punctuation can be found on the universal dependency page (<a href="">u-dep/punct</a>).</p>
+
+<pre><code class="language-sdparse">Tous les bénéfices sont hors-taxe ! \n All profits are tax-free !
+punct(hors-taxe, !)
+</code></pre>
+
+<pre><code class="language-sdparse">S'il pleut, on sera mouillé . \n If it rains , we will get wet .
+punct(pleut, ,)
+punct(mouillé, .)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/punct.md" target="#">edit punct</a></p>
 
