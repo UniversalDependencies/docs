@@ -4,5 +4,4 @@ title: 'dep'
 shortdef: 'unspecified dependency'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dep`.
+A dependency is labeled as `dep` when a more precise dependency relation between two words cannot be determined. This may be because of a weird grammatical construction, a limitation in software, a parser error, or because of an unresolved long distance dependency.
