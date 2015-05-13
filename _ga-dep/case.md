@@ -41,9 +41,9 @@ Prepositions are also used in phrasal constructions to denote ownership or a sta
 _Tá airgead <b>ag</b> na daoine_ 'The people have money' (lit. Money is <b>at</b> the people)
 
 ~~~ sdparse
-Tá airgead ag na daoine \n Is pen at the man
-nmod(Tá, bhfear)
-case(bhfear, ag)
+Tá airgead ag na daoine \n Is pen at the people
+nmod(Tá, daoine)
+case(daoine, ag)
 ~~~
 
 _Tá brón <b>ar</b> an gcuairteoir_  `The visitor is sorry' (lit. sorrow is <b>on</b> the visitor)
