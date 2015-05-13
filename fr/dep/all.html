@@ -602,8 +602,17 @@ for <code>reparandum</code>.</p>
 <p><a id="al-fr-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>root</code>.</p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A
+fake node <code>ROOT</code> is used as the governor. The <code>ROOT</code> node is indexed
+with 0, since the indexing of real words in the sentence starts at 1.</p>
+
+<pre><code class="language-sdparse">ROOT J'aime les frites . \n I love French fries .
+root(ROOT, aime)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT Il est grand . \n He is tall .
+root(ROOT, grand)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/root.md" target="#">edit root</a></p>
 
@@ -618,8 +627,19 @@ for <code>vocative</code>.</p>
 <p><a id="al-fr-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>xcomp</code>.</p>
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause). These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. </p>
+
+<pre><code class="language-sdparse">Il dit que tu aimes nager \n He says that you like to swim
+xcomp(aimes, nager)
+</code></pre>
+
+<pre><code class="language-sdparse">Je compte y retourner \n I am planning to go back there
+xcomp(compte, retourner)
+</code></pre>
+
+<pre><code class="language-sdparse">Je le considère comme un ami \n I consider him as a friend
+xcomp(considère, ami)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/xcomp.md" target="#">edit xcomp</a></p>
 
