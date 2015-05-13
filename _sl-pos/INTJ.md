@@ -15,3 +15,7 @@ As a special case of interjections, the universal tagging scheme also recognizes
 - _ah_, _oh_, _ha_
 - _zbogom_, _živijo_, _adijo_ 
 - _jebemti_, _bravo_, _ups_
+
+#### Conversion from JOS.
+
+All interjections become `INTJ`.
