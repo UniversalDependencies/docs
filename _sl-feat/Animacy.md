@@ -8,7 +8,7 @@ In contrast to some other languages, the Slovenian tagset does not consider `Ani
 
 Animacy is thus only marked as an inflectional feature of [masculine](Gender) [nouns](NOUN) and [proper nouns](PROPN) to distinguish between animate and inanimate word forms in [accusative](Case) [singular](Number), e.g. _Odstrigla si je <b>koder</b>._ "She cut off a curl." (inanimate) vs. _Videla je <b>kodra</b>._ "She saw a poodle." (animate).
 
-#### `Anim`: animate
+### `Anim`: animate
 
 `Animate` value is attributed to masculine nouns in accusative singular usually ending in -a:
 
@@ -19,13 +19,13 @@ Note that grammatical animatness can also apply to semantically inanimate nouns,
 * _Renaulta_ "Renault", _pomivalca_ "washing machine", _bordojca_ "Bordeaux wine", _asa_ "ace" etc.
 
 
-#### `Inan`: inanimate
+### `Inan`: inanimate
 
 `Inanimate` value is attributed to all other masculine nouns in accusative singular:
 
 * _avto_ "car", _fikus_ "ficus", _čevelj_ "shoe"
 
 
-##### Conversion from JOS
+#### Conversion from JOS
 
 All nouns with Animate=yes are converted to `Animacy=Anim` and all nouns with Animate=no are converted to `Animacy=Inan`.
