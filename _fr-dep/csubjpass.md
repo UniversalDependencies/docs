@@ -1,12 +1,13 @@
 ---
 layout: relation
-title: 'csubj'
-shortdef: 'clausal subject'
+title: 'csubjpass'
+shortdef: 'clausal passive subject'
 ---
 
-A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause (finite or non-finite). The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.
+A clausal passive subject is a clausal syntactic subject of a passive
+clause. It is not a very common construction in French. In the example below, _qu'il avait triché_ is the clausal subject.
 
 ~~~ sdparse
-Envisager la question est une bonne idée . \n Think about the question is a good idea .
-csubj(idée, envisager)
+Qu'il avait triché était cru par tout le monde . \n That he cheated was believed by everyone .
+csubjpass(cru, triché)
 ~~~
