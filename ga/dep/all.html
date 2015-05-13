@@ -444,19 +444,10 @@ UD takes the first conjunct as the head of a coordinated phrase. Note that this 
 
 <p><em>caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile</em> “to establish a relationship between central banks <b>and</b> financial institutions in other countries”.</p>
 
-<pre><code class="language-conllx">1	caidreamh	caidreamh	NOUN	NOUN	_	3	dobj	_	_
-2	a	a	PART	PART	_	3	mark	_	_
-3	bhunú	bunú	NOUN	NOUN	_	0	root	_	_
-4	le	le	ADP	ADP	_	5	case	_	_
-5	bainc	banc	NOUN	NOUN	_	3	nmod	_	_
-6	cheannais	ceannas	NOUN	NOUN	_	5	compound	_	_
-7	agus	agus	CONJ	CONJ	_	5	cc	_	_
-8	le	le	ADP	ADP	_	9	case	_	_
-9	hinstitiúidí	institiúid	NOUN	NOUN	_	5	conj	_	_
-10	airgeadais	airgeadas	NOUN	NOUN	_	9	compound	_	_
-11	i	i	ADP	ADP	_	12	case	_	_
-12	dtíortha	tír	NOUN	NOUN	_	9	nmod	_	_
-25	eile	eile	DET	DET	_	12	det	_	_
+<pre><code class="language-sdparse">caidreamh a bhunú le bainc cheannais agus le hinstitiúidí airgeadais i dtíortha eile \n to establish a relationship between central banks and financial institutions in other countries
+
+cc(bainc,agus)
+conj(bainc,hinstitiúidí)
 </code></pre>
 
 <p>Coordination of more than two elements is as follows (note there is also embedded coordination within the main coordinated phrase).</p>
@@ -464,20 +455,10 @@ UD takes the first conjunct as the head of a coordinated phrase. Note that this 
 <p><em>Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe</em> 
 “Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers”</p>
 
-<pre><code class="language-conllx">1	gcannaí	canna	NOUN	NOUN	_	3	root	_	_
-2	aerasóil	aerasól	NOUN	NOUN	_	1	compound	_	_
-3	áirithe	áirithe	ADJ	ADJ	_	1	amod	_	_
-4	,	,	PUNCT	PUNCT	_	5	punct	_	_
-5	i	i	ADP	ADP	_	6	case	_	_
-6	gcuisneoirí	cuisneoir	NOUN	NOUN	_	1	conj	_	_
-7	agus	agus	CONJ	CONJ	_	1	cc	_	_
-8	i	i	ADP	ADP	_	9	case	_	_
-9	ndéantús	déantús	NOUN	NOUN	_	1	conj	_	_
-10	cupán	cupán	NOUN	NOUN	_	9	compound	_	_
-11	agus	agus	CONJ	CONJ	_	10	cc	_	_
-12	coimeádán	coimeádán	NOUN	NOUN	_	10	conj	_	_
-13	plaisteach	plaisteach	ADJ	ADJ	_	12	amod	_	_
-14	áirithe	áirithe	ADJ	ADJ	_	12	amod	_	_
+<pre><code class="language-sdparse">Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe \n Gas that is used in some aerosol cans, in refrigerators and in the making of some plastic cups and containers
+
+cc(cupán,agus)
+conj(agus,coimeádán)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/cc.md" target="#">edit cc</a></p>
@@ -487,28 +468,15 @@ UD takes the first conjunct as the head of a coordinated phrase. Note that this 
 
 <p>The <code>ccomp</code> relation marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers <em>go</em>, <em>nach</em>, and <em>gur</em>.</p>
 
-<pre><code class="language-sdparse">Tá a fhios agam gur imigh mo mháthair \n I know that my mother left
+<pre><code class="language-sdparse">Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at_me that left my mother
 ccomp(Tá, imigh)
-ccomp(know,left)
 </code></pre>
 
-<p><em>Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta</em> \n `We believe, that the students <b>develop</b> their understanding of professional life of industry’</p>
+<p><em>Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta</em> `We believe, that the students <b>develop</b> their understanding of professional life of industry’</p>
 
-<pre><code class="language-conllx">1	Creidimidne	creid	VERB	VERB	_	40	root	_	_
-2	,	,	PUNCT	PUNCT	_	4	punct	_	_
-3	go	go	PART	PART	_	4	mark:prt	_	_
-4	bhforbraíonn	forbair	VERB	VERB	_	1	ccomp	_	_
-5	na	na	DET	DET	_	6	det	_	_
-6	mic	mac	NOUN	NOUN	_	4	nsubj	_	_
-7	léinn	léann	NOUN	NOUN	_	6	compound	_	_
-8	a	a	DET	DET	_	9	nmod:poss	_	_
-9	gcuid	cuid	NOUN	NOUN	_	10	advmod	_	_
-10	tuisceana	tuisceana	NOUN	NOUN	_	4	dobj	_	_
-11	ar	ar	ADP	ADP	_	12	case	_	_
-12	shaol	saol	NOUN	NOUN	_	10	nmod	_	_
-13	proifisiúnta	proifisiúnta	ADJ	ADJ	_	12	amod	_	_
-14	na	na	DET	DET	_	15	det	_	_
-15	tionsclaíochta	tionsclaíocht	NOUN	NOUN	_	12	compound	_	_
+<pre><code class="language-sdparse">Creidimidne, go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe_we, that develop the students  their own understanding on life professional the industry
+
+ccomp(Creidimidne, bhforbraíonn)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/ccomp.md" target="#">edit ccomp</a></p>
