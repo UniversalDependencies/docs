@@ -15,3 +15,7 @@ Nouns deriving from verbs (gerunds) are categorized as nouns in Slovenian.
 - _čas_ "time", _dan_ "day", _človek_ "human"
 - _leto_ "year", _delo_ "work", _mesto_ "city"
 - _država_ "country", _stran_ "page", _ura_ "hour"
+
+#### Conversion from JOS
+
+Nouns with Type=common are converted to `NOUN`.
