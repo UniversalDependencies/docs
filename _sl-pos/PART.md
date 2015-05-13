@@ -24,3 +24,7 @@ In Slovenian, particles, such as _ja_ "yes" and _no_ "no", are always tagged as 
 - _sicer_ "else"
 - _celo_ "even"
 - _seveda_ "of course"
+
+#### Conversion from JOS
+
+All particles are converted to `PART`.
