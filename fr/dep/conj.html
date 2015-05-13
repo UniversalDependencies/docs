@@ -34,8 +34,18 @@
 
           <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>The conjunct relation holds between coordinated elements. We treat
+coordination asymmetrically: The head of the relation is the first
+conjunct and other conjuncts depend on it via the <code>conj</code> relation.</p>
+
+<pre><code class="language-sdparse">1500 euros par an et par enfant \n 1500 euros per child and per year
+conj(an, enfant)
+</code></pre>
+
+<pre><code class="language-sdparse">Une seconde d'hésitation, d'inattention ou de retard  \n A second of hesitation, carelessness or delay
+conj(hésitation, inattention)
+conj(hésitation, retard)
+</code></pre>
 
 
 <!-- "in other languages" links -->

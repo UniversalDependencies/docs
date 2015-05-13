@@ -339,8 +339,18 @@ for <code>compound</code>.</p>
 <p><a id="al-fr-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>The conjunct relation holds between coordinated elements. We treat
+coordination asymmetrically: The head of the relation is the first
+conjunct and other conjuncts depend on it via the <code>conj</code> relation.</p>
+
+<pre><code class="language-sdparse">1500 euros par an et par enfant \n 1500 euros per child and per year
+conj(an, enfant)
+</code></pre>
+
+<pre><code class="language-sdparse">Une seconde d'hésitation, d'inattention ou de retard  \n A second of hesitation, carelessness or delay
+conj(hésitation, inattention)
+conj(hésitation, retard)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/conj.md" target="#">edit conj</a></p>
 
@@ -375,8 +385,7 @@ csubjpass(cru, triché)
 <p><a id="al-fr-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>A dependency is labeled as <code>dep</code> when a more precise dependency relation between two words cannot be determined. This may be because of a weird grammatical construction, a limitation in software, a parser error, or because of an unresolved long distance dependency.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/dep.md" target="#">edit dep</a></p>
 
