@@ -16,7 +16,7 @@ advcl(chonaic, bhí)
 Má <b>imríonn</b> siad mar faoi is féidir leo, is dóigh liom go bhfillfidh siad ar Staid Semple 'If they <b>play</b> as well as they can, I believe they will return to Semple Stadium'
 
 ~~~ sdparse
-Má imríonn siad mar faoi is féidir leo, is dóigh liom go bhfillfidh siad ar Staid Semple \n If play they as about be ability with-them, be belief with-me that will_return they to Stadium Semple
+Má imríonn siad mar faoi is féidir leo , is dóigh liom go bhfillfidh siad ar Staid Semple \n If play they as about be ability with-them , be belief with-me that will_return they to Stadium Semple
 advcl(dóigh, imríonn)
 ~~~
 
