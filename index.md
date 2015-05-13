@@ -21,7 +21,9 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-eu">Basque</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-zh">Chinese</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-hr">Croatian</a></li>
   <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-da">Danish</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-fr">French</a></li>
@@ -29,6 +31,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-el">Greek</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-he">Hebrew</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-id">Indonesian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-it">Italian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ja">Japanese</a></li>
@@ -38,9 +41,6 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-da">Danish</a></li>
-  <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
-  <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -157,6 +157,32 @@ revision and should not be considered final.</strong>
 </small>
 </div>
 
+<!-- "Croatian" tab -->
+<div id="language-hr" markdown="1" class="ui-tabs-hide">
+{% include hr-status-table.html %}
+
+[Introduction](hr/overview/introduction.html)
+
+* [Tokenization](hr/overview/tokenization.html)
+* Morphology
+  * [General principles](hr/overview/morphology.html)
+  * [Croatian POS tags](hr/pos/index.html) ([single document](hr/pos/all.html))
+  * [Croatian features](hr/feat/index.html) ([single document](hr/feat/all.html))
+* Syntax
+  * [General principles](hr/overview/syntax.html)
+  * [Specific constructions](hr/overview/specific-syntax.html)
+  * [Croatian dependency relations](hr/dep/index.html) ([single document](hr/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
 <!-- "Czech" tab -->
 <div id="language-cs" markdown="1" class="ui-tabs-hide">
 {% include cs-status-table.html %}
@@ -175,6 +201,32 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html) and Czech [MISC extensions](cs/overview/format.html)
 
+</div>
+
+<!-- "Danish" tab -->
+<div id="language-da" markdown="1" class="ui-tabs-hide">
+{% include da-status-table.html %}
+
+[Introduction](da/overview/introduction.html)
+
+* [Tokenization](da/overview/tokenization.html)
+* Morphology
+  * [General principles](da/overview/morphology.html)
+  * [Danish POS tags](da/pos/index.html) ([single document](da/pos/all.html))
+  * [Danish features](da/feat/index.html) ([single document](da/feat/all.html))
+* Syntax
+  * [General principles](da/overview/syntax.html)
+  * [Specific constructions](da/overview/specific-syntax.html)
+  * [Danish dependency relations](da/dep/index.html) ([single document](da/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
 </div>
 
 <!-- "English" tab -->
@@ -325,6 +377,32 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
+</div>
+
+<!-- "Indonesian" tab -->
+<div id="language-id" markdown="1" class="ui-tabs-hide">
+{% include id-status-table.html %}
+
+[Introduction](id/overview/introduction.html)
+
+* [Tokenization](id/overview/tokenization.html)
+* Morphology
+  * [General principles](id/overview/morphology.html)
+  * [Indonesian POS tags](id/pos/index.html) ([single document](id/pos/all.html))
+  * [Indonesian features](id/feat/index.html) ([single document](id/feat/all.html))
+* Syntax
+  * [General principles](id/overview/syntax.html)
+  * [Specific constructions](id/overview/specific-syntax.html)
+  * [Indonesian dependency relations](id/dep/index.html) ([single document](id/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
 </div>
 
 <!-- "Irish" tab -->
@@ -532,84 +610,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-</div>
-
-<!-- "Danish" tab -->
-<div id="language-da" markdown="1" class="ui-tabs-hide">
-{% include da-status-table.html %}
-
-[Introduction](da/overview/introduction.html)
-
-* [Tokenization](da/overview/tokenization.html)
-* Morphology
-  * [General principles](da/overview/morphology.html)
-  * [Danish POS tags](da/pos/index.html) ([single document](da/pos/all.html))
-  * [Danish features](da/feat/index.html) ([single document](da/feat/all.html))
-* Syntax
-  * [General principles](da/overview/syntax.html)
-  * [Specific constructions](da/overview/specific-syntax.html)
-  * [Danish dependency relations](da/dep/index.html) ([single document](da/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
-<!-- "Croatian" tab -->
-<div id="language-hr" markdown="1" class="ui-tabs-hide">
-{% include hr-status-table.html %}
-
-[Introduction](hr/overview/introduction.html)
-
-* [Tokenization](hr/overview/tokenization.html)
-* Morphology
-  * [General principles](hr/overview/morphology.html)
-  * [Croatian POS tags](hr/pos/index.html) ([single document](hr/pos/all.html))
-  * [Croatian features](hr/feat/index.html) ([single document](hr/feat/all.html))
-* Syntax
-  * [General principles](hr/overview/syntax.html)
-  * [Specific constructions](hr/overview/specific-syntax.html)
-  * [Croatian dependency relations](hr/dep/index.html) ([single document](hr/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
-
-<!-- "Indonesian" tab -->
-<div id="language-id" markdown="1" class="ui-tabs-hide">
-{% include id-status-table.html %}
-
-[Introduction](id/overview/introduction.html)
-
-* [Tokenization](id/overview/tokenization.html)
-* Morphology
-  * [General principles](id/overview/morphology.html)
-  * [Indonesian POS tags](id/pos/index.html) ([single document](id/pos/all.html))
-  * [Indonesian features](id/feat/index.html) ([single document](id/feat/all.html))
-* Syntax
-  * [General principles](id/overview/syntax.html)
-  * [Specific constructions](id/overview/specific-syntax.html)
-  * [Indonesian dependency relations](id/dep/index.html) ([single document](id/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- new tab template -->
