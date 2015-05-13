@@ -28,10 +28,20 @@ The `README` file should minimally contain the following information:
 3. Basic statistics about number of sentences, tokens, etc.
 4. Acknowledgments and references that should be cited when using the treebank
 
-Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` 
-repository and run as follows:
+Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
 
     $ python conllu-stats.py --stats ../UD_Finnish/*.conllu
+
+For previously released corpora, the README file should also include a "[changelog](http://en.wikipedia.org/wiki/Changelog)" section summarizing changes between versions e.g. as follows
+
+```
+Changelog
+
+2015-05-15 v1.1
+    * Added lemmas
+
+    * Corrected tokenization in sentences 123 and 456
+```
 
 ## Validation
 
