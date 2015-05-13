@@ -38,6 +38,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-da">Danish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -529,6 +530,32 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
+</div>
+
+<!-- "Danish" tab -->
+<div id="language-da" markdown="1" class="ui-tabs-hide">
+{% include da-status-table.html %}
+
+[Introduction](da/overview/introduction.html)
+
+* [Tokenization](da/overview/tokenization.html)
+* Morphology
+  * [General principles](da/overview/morphology.html)
+  * [Danish POS tags](da/pos/index.html) ([single document](da/pos/all.html))
+  * [Danish features](da/feat/index.html) ([single document](da/feat/all.html))
+* Syntax
+  * [General principles](da/overview/syntax.html)
+  * [Specific constructions](da/overview/specific-syntax.html)
+  * [Danish dependency relations](da/dep/index.html) ([single document](da/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
 </div>
 
 <!-- new tab template -->

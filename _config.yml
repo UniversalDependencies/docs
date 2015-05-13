@@ -315,6 +315,20 @@ collections:
   sl-overview:
     output: true
 #
+# Danish
+#
+  da-pos:
+    output: true
+    permalink: /da/pos/:path.html
+  da-feat:
+    output: true
+    permalink: /da/feat/:path.html
+  da-dep:
+    output: true
+    permalink: /da/dep/:path.html
+  da-overview:
+    output: true
+#
 # Template
 #
   template-pos:
