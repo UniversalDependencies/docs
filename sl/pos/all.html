@@ -195,8 +195,29 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
 <p><a id="al-sl-pos/DET" class="al-dest"></a></p>
 <h2><code>DET</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>DET</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.</p>
+
+<p>The traditional grammar of Slovenian does not define determiners as a separate word class. Instead, words that perform the syntactic function of determiners are either categorizied as adverbs (<em>nekaj</em> “some”, <em>veliko</em> “a lot of”, <em>dovolj</em> “enough of” etc.) or pronouns (<em>ta</em> “this”, <em>ves</em> “all”, <em>moj</em> “my”, <em>vsak</em> “each” etc.), regardless of the fact whether they are used as attributives (<em><b>To</b>.<code>DET</code> besedilo je nerazumljivo.</em> “This text is incomprehensible.”) or substantives (<em><b>To</b>.<code>PRON</code> sem že slišal.</em> “I have heard this before.”).  </p>
+
+<h3 id="conversion-from-jos-tagset">Conversion from JOS tagset</h3>
+
+<p>Since JOS morphosyntactic specifications do not distinguish substantive and attributive pronouns or quantifying and other adverbs, the conversion was done based on syntactic information. The pronouns modifying a noun have thus been marked as <code>DET</code>, otherwise they were marked as <a href="PRON">PRON</a>. Similarly, the list of adverbs modifying a noun was manually validated to define a closed set of quantifying adverbs marked as <code>DET</code>. </p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>njegov</em> “his”, <em>njen</em> “her”, <em>naš</em> “our”, <em>njihov</em> “their”<em>, _moj</em> “my”<em>, _vaš</em> “your” etc. (JOS possessive pronouns)</li>
+  <li><em>ta</em> “this”, <em>tisti</em> “that”, <em>takšen</em> “such”, <em>tak</em> “such”<em>, _tolikšen</em> “so big” etc. (JOS demonstrative pronouns)</li>
+  <li><em>ves</em> “all”, <em>vsak</em> “each”, <em>oba</em> “both”, <em>vsakršen</em> “any” (JOS general pronouns)</li>
+  <li><em>svoj</em> “one’s own” (JOS reflexive pronouns)</li>
+  <li><em>nekateri</em> “some”, <em>nek</em> “some kind”, <em>isti</em> “identical”, <em>enak</em> “same”, <em>mnog</em> “many” (JOS indefinite pronouns)</li>
+  <li><em>kakšen</em> “what kind”, <em>kateri</em> “what type”, <em>čigav</em> “whose” (JOS interrogative pronouns)</li>
+  <li><em>noben</em> “no one”, <em>nikakršen</em> “no kind”, <em>nič</em> “nothing” (JOS negative pronouns)</li>
+  <li><em>kakršenkoli</em> “any kind of”, <em>katerikoli</em> “any type of”, <em>čigar</em> “whose” (JOS relative pronouns)</li>
+  <li><em>nekaj</em> “some”, <em>več</em> “more”, <em>veliko</em> “a lot of”, <em>dovolj</em> “enough of”, <em>pol</em> “half of”, <em>malo</em> “little of” (JOS adverbs)</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/DET.md" target="#">edit DET</a></p>
 
