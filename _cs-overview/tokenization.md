@@ -44,6 +44,18 @@ In this case, the resulting token is an interrogative adverb and it is not split
 This category covers words that would be tagged by the PDT tag `P0-------------`.
 However, no such word occurs in the PDT 3.0 data.
 
+### Preposition + Pronoun *on* in the Accusative *něj* + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
+
+* _proňs_ = _pro něj jsi_ = “for him you have”
+* _naňs_ = _na něj jsi_ = “on him you have”
+* _oňs_ = _o něj jsi_ = “about him you have”
+* _zaňs_ = _za něj jsi_ = “behind him you have”
+
+Note: There are analogically fused words containing a preposition, the interrogative pronoun _co_ “what” and the 2nd Person Singular auxiliary *(jsi)*.
+The resulting token is a PP+auxiliary contraction: _pročs_ “why you have”, _načs, očs, začs_ “for what you have”.
+
+For this category no PDT tag is available. However, no such word occurs in the PDT 3.0 data.
+
 ### Participle, Pronoun or Subordinating Conjunction + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
 
 * _udělals_ = _udělal jsi_ = “you have done”
@@ -66,6 +78,8 @@ The participles can be distinguished by the value of person:
 normal participle _udělal_ does not inflect for person (`VpYS---XR-AA---`)
 while participle fused with _jsi_, i.e. _udělals_, is tagged as being in the second person (`VpYS---2R-AA---`).
 None of these occur in the PDT 3.0 data.
+
+There can be many other forms including the 2nd Person Singular auxiliary _-s_ in addition to those listed above, e.g. _Na kohos čekal?_ “For whom did you wait?”, _Teďs to zvoral._ “You have messed that up now.”   
 
 ### Subordinating Conjunction *aby* or *kdyby*
 
