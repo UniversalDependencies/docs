@@ -34,8 +34,26 @@
 
           <h1 id="syntax">Syntax</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for syntactic annotation.</p>
+<p>The syntactic annotation in the Hungarian UD treebank was semi-automatically converted from the Szeged Dependency Treebank (Vincze et al. 2010), with an additional phase of manual refinement.</p>
+
+<p>As for dependency relations and annotation principles, we apply the following language-specific extensions to the universal principles:</p>
+
+<ul>
+  <li>nsubjpass and csubjpass: not applied in Hungarian</li>
+  <li>ccomp: clausal objects are marked with ccomp:obj, clauses that express a core dependent of the main verb but are not objects are marked with ccomp:obl, and clauses that express a predicative dependent of the main verb are marked with ccomp:pred.</li>
+  <li>xcomp: it is mainly used for infinitival complements.</li>
+  <li>nmod: it denotes the head noun of postpositional phrases. nmod:att denotes nominal dependents of other nouns. nmod:obl denotes nominal dependents that bear a case marker different from accusative or dative.</li>
+  <li>amod: adverbial uses of adjectives are marked with amod:mode. Other (attributive) uses of adjectives are marked with amod:att.</li>
+  <li>advmod: we differentiate subtypes of adverbial modifiers according to the tridirectionality of Hungarian adverbs</li>
+  <li>compound: multiword numerals are marked as compound: the last element is the head, and all the other elements are attached to the one to its right with the relation compound. compound:preverb holds between the preverb and its parent verb whenever they are spelt in two words.</li>
+  <li>name: the last element is the head, and all the other elements are attached to the one to its right with the relation name</li>
+  <li>mwe: not applied per se in Hungarian (but see language specific documentation for the treatment of light verb constructions)</li>
+  <li>TBC</li>
+</ul>
+
+<p>References</p>
+
+<p>Vincze, Veronika; Szauter, Dóra; Almási, Attila; Móra, György; Alexin, Zoltán; Csirik, János 2010: Hungarian Dependency Treebank. In: Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC’10), Valletta, Malta.</p>
 
 
       </div>
