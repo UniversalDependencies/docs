@@ -316,8 +316,15 @@ for <code>cc</code>.</p>
 <p><a id="al-fr-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>A clausal complement of a verb or adjective is a dependent clause where the subject is not determined by obligatory control, either because the clause has its own overt subject or because the subject is arbitrary or determined anaphorically. (This contrasts with the <em>xcomp</em> relation, which is used for clausal complements with obligatory control.)</p>
+
+<pre><code class="language-sdparse">Il dit que tu aimes nager \n He says that you like to swim
+ccomp(dit, aimes)
+</code></pre>
+
+<pre><code class="language-sdparse">Je suis certain qu'il l'a fait \n I am certain that he did it 
+ccomp(certain, fait) 
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/ccomp.md" target="#">edit ccomp</a></p>
 
@@ -353,16 +360,17 @@ for <code>csubj</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/csubj.md" target="#">edit csubj</a></p>
 
-<p><a id="al-fr-dep/csubj" class="al-dest"></a></p>
-<h2><code>csubj</code>: clausal subject</h2>
+<p><a id="al-fr-dep/csubjpass" class="al-dest"></a></p>
+<h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause (finite or non-finite). The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.</p>
+<p>A clausal passive subject is a clausal syntactic subject of a passive
+clause. It is not a very common construction in French. In the example below, <em>qu’il avait triché</em> is the clausal subject.</p>
 
-<pre><code class="language-sdparse">Envisager la question est une bonne idée . \n Think about the question is a good idea .
-csubj(idée, envisager)
+<pre><code class="language-sdparse">Qu'il avait triché était cru par tout le monde . \n That he cheated was believed by everyone .
+csubjpass(cru, triché)
 </code></pre>
 
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/csubjpass.md" target="#">edit csubj</a></p>
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
 <p><a id="al-fr-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
