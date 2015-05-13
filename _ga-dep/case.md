@@ -25,8 +25,10 @@ PPs can precede or follow the verb they modify, or follow the noun they modify.
 
 The preposition _ag_ is used with verbal nouns to form progressive aspectual phrases in Irish.
 
+_Tá sí <b>ag</b> rith_ 'She is running'
+
 ~~~ sdparse
-Tá sí ag rith \n She is running
+Tá sí ag rith \n Is she at running
 nmod(Tá, rith)
 nsubj(Tá, sí)
 case(rith, ag)
@@ -37,16 +39,18 @@ case(rith, ag)
 Prepositions are also used in phrasal constructions to denote ownership or a state of being.
 _Tá airgead ag na daoine_ `The people have money' (lit. Money is at the people)
 
+_Tá airgead <b>ag</b> na daoine 'The people have money'
+
 ~~~ sdparse
-Tá peann ag an bhfear \n The man has a pen
+Tá airgead ag na daoine \n Is pen at the man
 nmod(Tá, bhfear)
 case(bhfear, ag)
 ~~~
 
-_Tá brón ar an gcuairteoir_  `The visitor is sorry' (lit. sorrow is on the visitor)
+_Tá brón <b>ar</b> an gcuairteoir_  `The visitor is sorry' (lit. sorrow is on the visitor)
 
 ~~~ sdparse
-Tá brón ar an gcuairteoir \n The visitor is sorry
+Tá brón ar an gcuairteoir \n Is sorrow on the visitor
 nmod(Tá, gcuairteoir)
 case(gcuairteoir, ar)
 ~~~
@@ -56,8 +60,10 @@ case(gcuairteoir, ar)
 
 Oblique arguments are also labelled `case`.
 
+_Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil_ 'The people of Cork are very unhappy with Fianna Fáil'
+
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n The people of Cork are very unhappy with Fianna\_Fáil
+Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n Be people Cork very_unhappy with Fianna\_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(Tá, an-mhíshásta)
