@@ -27,6 +27,13 @@ where necessary. Every syntactic word will then get its own part-of-speech tag
 and features. See also <a href="tokenization.html">Tokenization</a> and
 <a href="../../format.html">Format</a>.
 
+## Lemmas
+
+The `LEMMA` field should contain the canonical or base form of the word, such as the form typically found in dictionaries.
+
+If the lemma is not available, an underscore ("`_`") can be used to indicate its absence.
+
+The `LEMMA` field should not be used to encode features or other similar properties of the word (use `FEATS` and `MISC` instead; see [format](../../format.html)).
 
 ## Part-of-Speech Tags
 
