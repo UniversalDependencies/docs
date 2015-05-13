@@ -22,6 +22,6 @@ For instance, _<b>to</b>_ “this” is traditionally called pronoun in Slovenia
 * _kaj_ "what", _kdo_ "who"
 * _nekaj_ "something", _nekdo_ "somebody", _malokdo_ "not a lot of people"
 
-### Conversion from ssj500k
+#### Conversion from JOS
 
-All tokens annotated as pronouns within the JOS annotation scheme have been converted to `PRON`, except for those pronouns that appear as attributes to nouns, which have been converted to `DET`.
+All pronouns are converted to `PRON`, except for pronouns that function as attributes to nouns (through Attr dependency relation), which are converted to `DET`.
