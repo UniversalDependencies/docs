@@ -34,8 +34,25 @@
 
           <h2><code>iobj</code>: indirect object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>iobj</code>.</p>
+<p>An indirect object is a nominal which corresponds to a dative object.</p>
+
+<pre><code class="language-sdparse">Il m'envoie une lettre . \n He sends me a letter .
+iobj(envoie, m')
+</code></pre>
+
+<p>When the indirect object is realized with a preposition, it gets analyzed with the <em>nmod</em> relation:</p>
+
+<pre><code class="language-sdparse">Il envoie la lettre à la présidente . \n He sends the letter to the president .
+nmod(envoie, présidente)
+case(présidente, à)
+</code></pre>
+
+<p>The <em>iobj</em> relation is also used for pronouns in prononimal verbs which are indirect objects:</p>
+
+<pre><code class="language-sdparse">Il se parle tout haut. \n He speaks to himself out loud .
+iobj(parle, se)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->
