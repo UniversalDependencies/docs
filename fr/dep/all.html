@@ -234,6 +234,21 @@ for <code>acl</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/acl.md" target="#">edit acl</a></p>
 
+<p><a id="al-fr-dep/acl:relcl" class="al-dest"></a></p>
+<h2><code>acl:relcl</code>: relative clause modifier</h2>
+
+<p>The <code>acl:relcl</code> relation is used for relative clauses modifying
+a nominal. The relation points from the head of the nominal to the
+head of the relative clause.</p>
+
+<pre><code class="language-sdparse">J'ai vu l'homme qui t'aime \n I saw the man who loves you
+acl:relcl(homme, aime)
+nsubj(aime, qui)
+dobj(aime, t')
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
+
 <p><a id="al-fr-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 

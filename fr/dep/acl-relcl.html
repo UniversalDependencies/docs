@@ -16,9 +16,9 @@
 
       <div id="hp-header">
 	
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-sv">home</a></span>
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/sv/dep">sv/dep</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sv-dep/acl-relcl.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-fr">home</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/fr/dep">fr/dep</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/acl-relcl.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -36,23 +36,12 @@
 
 <p>The <code>acl:relcl</code> relation is used for relative clauses modifying
 a nominal. The relation points from the head of the nominal to the
-head of the relative clause. Relative clauses are always finite in Swedish
-and the relative pronoun can be omitted when it does not have the subject function.</p>
+head of the relative clause.</p>
 
-<pre><code class="language-sdparse">Jag såg den man-1 som älskar dig \n I saw the man who loves you
-acl:relcl(man-1, älskar)
-nsubj(älskar, som)
-dobj(älskar, dig)
-</code></pre>
-<pre><code class="language-sdparse">Jag såg den man-1 som du älskar \n I saw the man who you love
-acl:relcl(man-1, älskar)
-nsubj(älskar, du)
-dobj(älskar, som)
-</code></pre>
-
-<pre><code class="language-sdparse">Jag såg den man-1 du älskar \n I saw the man you love
-acl:relcl(man-1, älskar)
-nsubj(älskar, du)
+<pre><code class="language-sdparse">J'ai vu l'homme qui t'aime \n I saw the man who loves you
+acl:relcl(homme, aime)
+nsubj(aime, qui)
+dobj(aime, t')
 </code></pre>
 
 
@@ -123,7 +112,7 @@ nsubj(älskar, du)
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'sv-dep';
+        Collections.listing['_current'] = 'fr-dep';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
