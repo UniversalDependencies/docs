@@ -329,6 +329,20 @@ collections:
   da-overview:
     output: true
 #
+# Croatian
+#
+  hr-pos:
+    output: true
+    permalink: /hr/pos/:path.html
+  hr-feat:
+    output: true
+    permalink: /hr/feat/:path.html
+  hr-dep:
+    output: true
+    permalink: /hr/dep/:path.html
+  hr-overview:
+    output: true
+#
 # Template
 #
   template-pos:

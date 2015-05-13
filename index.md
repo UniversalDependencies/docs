@@ -39,6 +39,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-da">Danish</a></li>
+  <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -547,6 +548,32 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [General principles](da/overview/syntax.html)
   * [Specific constructions](da/overview/specific-syntax.html)
   * [Danish dependency relations](da/dep/index.html) ([single document](da/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Croatian" tab -->
+<div id="language-hr" markdown="1" class="ui-tabs-hide">
+{% include hr-status-table.html %}
+
+[Introduction](hr/overview/introduction.html)
+
+* [Tokenization](hr/overview/tokenization.html)
+* Morphology
+  * [General principles](hr/overview/morphology.html)
+  * [Croatian POS tags](hr/pos/index.html) ([single document](hr/pos/all.html))
+  * [Croatian features](hr/feat/index.html) ([single document](hr/feat/all.html))
+* Syntax
+  * [General principles](hr/overview/syntax.html)
+  * [Specific constructions](hr/overview/specific-syntax.html)
+  * [Croatian dependency relations](hr/dep/index.html) ([single document](hr/dep/all.html))
 
 [CoNLL-U format](format.html)
 
