@@ -343,6 +343,20 @@ collections:
   hr-overview:
     output: true
 #
+# Indonesian
+#
+  id-pos:
+    output: true
+    permalink: /id/pos/:path.html
+  id-feat:
+    output: true
+    permalink: /id/feat/:path.html
+  id-dep:
+    output: true
+    permalink: /id/dep/:path.html
+  id-overview:
+    output: true
+#
 # Template
 #
   template-pos:

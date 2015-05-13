@@ -40,6 +40,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a href="#language-da">Danish</a></li>
   <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
+  <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -574,6 +575,32 @@ have a stable version of this part of the documentation by 2015-01-01.
   * [General principles](hr/overview/syntax.html)
   * [Specific constructions](hr/overview/specific-syntax.html)
   * [Croatian dependency relations](hr/dep/index.html) ([single document](hr/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
+</small>
+</div>
+
+<!-- "Indonesian" tab -->
+<div id="language-id" markdown="1" class="ui-tabs-hide">
+{% include id-status-table.html %}
+
+[Introduction](id/overview/introduction.html)
+
+* [Tokenization](id/overview/tokenization.html)
+* Morphology
+  * [General principles](id/overview/morphology.html)
+  * [Indonesian POS tags](id/pos/index.html) ([single document](id/pos/all.html))
+  * [Indonesian features](id/feat/index.html) ([single document](id/feat/all.html))
+* Syntax
+  * [General principles](id/overview/syntax.html)
+  * [Specific constructions](id/overview/specific-syntax.html)
+  * [Indonesian dependency relations](id/dep/index.html) ([single document](id/dep/all.html))
 
 [CoNLL-U format](format.html)
 
