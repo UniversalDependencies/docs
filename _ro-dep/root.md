@@ -9,23 +9,19 @@ The `root` grammatical relation points to the root of the sentence. A fake node 
 ~~~ sdparse
 ROOT Copilul aleargă . \n ROOT Child-the runs .
 root(ROOT, aleargă)
-root(ROOT, runs)
 ~~~
 
 ~~~ sdparse
 ROOT Vin imediat . \n ROOT Come-I immediately .
 root(ROOT, Vin)
-root(ROOT, Come)
 ~~~
 
 ~~~ sdparse
 ROOT Fata este frumoasă . \n ROOT Girl-the is beautiful .
 root(ROOT, frumoasă)
-root(ROOT, beautiful)
 ~~~
 
 ~~~ sdparse
 ROOT Este bine să mănânci de dimineață . \n ROOT Is well SA eat in morning.
 root(ROOT, bine)
-root(ROOT, well)
 ~~~
