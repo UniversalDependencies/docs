@@ -62,6 +62,10 @@ The new Universal Dependencies is the result of merging all these initiatives in
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
 
+## UD publications
+
+Nivre (2014)
+
 ## Contributors
 
 <!-- alphabetical by surname -->
@@ -178,3 +182,6 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   [HamleDT: Harmonized multi-language dependency treebank](http://link.springer.com/article/10.1007/s10579-014-9275-2).
   In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
   (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
+
+* Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
+  In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
