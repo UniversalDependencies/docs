@@ -23,7 +23,7 @@ _Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéan
 "Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers"
 
 ~~~ sdparse
-Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe \n Gas that is used in some aerosol cans, in refrigerators and in the making of some plastic cups and containers
+Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe \n Gas REL is used in cans aerosol certain, in refrigerators and in making cups and and containers plastic certain
 
 cc(cupán,agus)
 conj(agus,coimeádán)
