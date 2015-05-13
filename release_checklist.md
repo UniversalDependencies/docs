@@ -38,6 +38,7 @@ For previously released corpora, the README file should also include a "[changel
 Changelog
 
 2015-05-15 v1.1
+
     * Added lemmas
 
     * Corrected tokenization in sentences 123 and 456
