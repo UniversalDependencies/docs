@@ -1,8 +1,12 @@
 ---
 layout: relation
-title: 'csubjpass'
-shortdef: 'clausal passive subject'
+title: 'csubj'
+shortdef: 'clausal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause (finite or non-finite). The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.
+
+~~~ sdparse
+Envisager la question est une bonne idée . \n Think about the question is a good idea .
+csubj(idée, envisager)
+~~~
