@@ -27,30 +27,38 @@ The order of elements in a copula construction is in general:
 
 #### equative construction
 
+_<b>Is</b> múinteoir é_  'He <b>is</b> a teacher'
+
 ~~~ sdparse
-Is múinteor é \n He is a teacher
-cop(múinteor, Is)
+Is múinteoir é \n is teacher him
+cop(múinteoir, Is)
 ~~~
 
 
 #### idiomatic expressions
 
+_<b>Ba</b> mhaith liom gan fanacht_ 'I would like not to stay'
+
 ~~~ sdparse
-Ba mhaith liom gan fanacht \n I would like not to stay
+Ba mhaith liom gan fanacht \n Be good with_me without staying
 cop(mhaith, Ba)
 ~~~
 
 #### cleft constructions
 
+_Is iad a bheidh ina gcomhaltaí de na coistí sin_ 'It is they who will be members of those committees'
+
 ~~~ sdparse
-Is iad a bheidh ina gcomhaltaí de na coistí sin \n It is they who will be members of those committees
+Is iad a bheidh ina gcomhaltaí de na coistí sin \n Is they who will_be in_their members of the committees that
 cop(iad,Is)
 ~~~
 
 ####  ownership constructions
 
+_<b>An</b> leatsa é?_ 'Is it yours?'
+
 ~~~ sdparse
-An leatsa é ? \n Is it yours ?
+An leatsa é ? \n Is with_you it ?
 cop(leatsa, An)
 ~~~
 
