@@ -13,7 +13,7 @@ tíortha forbatha \n countries developed
 amod(tíortha, forbatha)
 ~~~
 
-_Baineann na prionsabail <b>chéanna</b> leis_ \n The same principles apply
+_Baineann na prionsabail <b>chéanna</b> leis_ \n The <b>same</b> principles apply
 
 ~~~ sdparse
 Baineann na prionsabail chéanna leis \n Relate the principles same with_it
