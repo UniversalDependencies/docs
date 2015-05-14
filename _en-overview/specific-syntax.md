@@ -574,18 +574,97 @@ Relative clauses are the canonical case of clausal modifiers of nouns, and they 
 ~~~sdparse
 ~~~
 
-This label applies only to full relative clauses; reduced relative clauses are typed `acl`.
+Relatives clauses are not, however, the only type of clausa modifiers of nouns. For one example, reduced relative clauses are not typed `acl:relcl`, but rather `acl`.
+
+~~~sdparse
+~~~
+
+Additionally, many optional clausal dependents on nominals receive the `acl` label.
+
+~~~sdparse
+~~~
+
+~~~sdparse
+~~~
 
 ~~~sdparse
 ~~~
 
 #### Quantifier phrases
 
+The notion of _quantifier phrase_ is applied loosely here to a variety of structures that modify nominals. The simplest type is probably simple numerical adjectives, which are labeled `nummod`.
+
+~~~sdparse
+~~~
+
+Often some form of modification is applied to these numerical dependents, in the form of expressions such as *more than*, *about*, *over*. These are analyzed as dependents of the numerical modifier, forming a complex quantifier phrase.
+
 ## Beyond the clause
+
+Beyond core clausal structures, there are many linguistic constructions, usually with discourse functions, that need to be represented in a complete dependency tree. Additionally, complex structures such as coordination and juxtaposition of structures in the same ortographical sentence need to be analyzed. Finally, written communication includes a wealth of information that is structured by rules that exist at the fringes of (or perhaps outside) the grammar of a language. In order to provide a complete representation, we integrate even that information into syntax trees, leading to some special dependency labels, and some peculiar annotation conventions.
 
 ### Discourse-level dependents
 
+UD introduces two special relations for discourse-level dependents: `discourse`, which is used to type a limited range of discourse markers, and the informatively named `vocative`, which is used for vocatives. These always attach to predicates, not because they modify them directly, but to express the fact that they have the highest-possible level of attachment.
+
+~~~sdparse
+~~~
+
+~~~sdparse
+~~~
+
 ### Coordination and loose joining
+
+Coordination is, in a sense, below as well as beyond the clause, since it can occur at any level. But that property is exactly what distinguishes it, and justifies placing it outside of core clausal syntax.
+
+The difficulty of representing coordination, which is symmetrical, with an inherently-asymmetric dependency representation is well-known. UD makes no attempt to disguise this, and adopts first conjuncts, by convention, as the heads of coordinated phrases. Any other conjuncts and conjunctions are attached to that first conjunct.
+
+~~~sdparse
+The elated bride and groom danced and sang songs .
+cc(bride, and)
+conj(bride, groom)
+cc(danced, and)
+conj(danced, sang)
+amod(bride, excited)
+dobj(sang, songs)
+~~~
+
+This creates some ambiguities: it is not possible to tell, from the representation alone, whether *elated* modified *bride* only, or *bride and groom*. Conversely, it is clear that *songs* is an object only of *sang*, since it attaches to that verb directly rather than to the head of the conjunction, which is *danced*. A change in the ordering of these constituents can introduce that ambiguity.
+
+~~~sdparse
+The excited bride and groom sang songs and danced .
+cc(sang, and)
+conj(sang, danced)
+dobj(sang, songs)
+~~~
+
+Another (much less frequent) difficulty is the representation of nested coordinations, which is not always possible. In the following example, the heterogeneous coordination of *incarcerated*, *on probation* and *on parole* forms a complex predicate for the first verbal phrase in this sentence. That first VP is then itself coordinated with *once were in one of those categories*. The fact that there are two levels of coordination does not come through in the UD representation.
+
+~~~sdparse
+Approximately 10 million Americans are incarcerated , on probation , on parole , or once were in one of those categories ?
+cop(incarcerated, are)
+conj(incarcerated, probation)
+conj(incarcerated, parole)
+conj(incarcerated, one)
+cop(were, one)
+nmod(one, categories)
+~~~
+
+The auxiliaries *have* and *be* occasionally appear outside of coordinated predicates having a different function with respect to each predicate, as shown below. In such cases, we annotate the verb only as a dependent of the first conjunct.
+
+~~~sdparse
+The toilet seat was peeling and rough .
+conj(peeling, rough)
+cc(peeling, and)
+nsubj(peeling, seat)
+aux(peeling, was)
+~~~
+
+In this sentence, *was* is also a `cop` dependent of *rough*, but that edge is not represented.
+
+#### Conjunctions
+
+#### Loose joining: parataxis and list
 
 ### Special annotation conventions
 
