@@ -20,6 +20,7 @@ ccomp(putem, schia)
 The clausal predicative of the copula verb `a fi` is also analysed as ccomp. NB: This is the only case when the copula verb `a fi` is treated as a head.
 
 ~~~ sdparse
-Noi suntem cum ne știi . \n We are how us know-you .
+ROOT Noi suntem cum ne știi . \n We are how us know-you .
+root(ROOT, suntem)
 ccomp(suntem, știi)
 ~~~
