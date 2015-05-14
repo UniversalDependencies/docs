@@ -4,5 +4,11 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADJ`.
+#### Description
+
+Adjectives typically modify nouns. In Basque, the adjective follows the noun, although some of them precede it.
+
+#### Examples
+
+* _etxe_ <b>_handia_</b>  "yellow ducks"   
+* <b>goiko</b>_  _etxea  "technical work"   
