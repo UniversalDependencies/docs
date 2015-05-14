@@ -4,4 +4,4 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-We do not use the feature `Case`.
+`Case` is not used.
