@@ -25,4 +25,4 @@ There is also a special case of using _agus_ "and" (normally [CONJ]()) as a subo
 
 
 
-Source: Studies in Irish Syntax, Stenson (1981)
+Source: Studies in Irish Syntax, Nancy Stenson (1981), Tübingen: Gunter Narr Verlag
