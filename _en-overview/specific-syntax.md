@@ -569,25 +569,49 @@ Both predicates and nominals can be modified by optional phrases -- adverbial an
 
 #### Clausal modifiers of nouns
 
-Relative clauses are the canonical case of clausal modifiers of nouns, and they receive a special language-specific label, `acl:relcl`.
+Relative clauses are the canonical case of clausal modifiers of nouns, and they receive a special language-specific label, `acl:relcl`. In these clauses, the relative pronoun is analyzed in the function it takes in the lower clause, as illustrated here by *that*, labeled `nsubj`, and *which*, labeled `nmod`.
 
 ~~~sdparse
+These links present the many viewpoints that existed .
+acl:relcl(viewpoints, existed)
+nsubj(existed, that)
 ~~~
 
-Relatives clauses are not, however, the only type of clausa modifiers of nouns. For one example, reduced relative clauses are not typed `acl:relcl`, but rather `acl`.
+~~~sdparse
+Archibald says the frequency with which the subject was discussed was off-putting .
+acl:relcl(frequency, discussed)
+nmod(discussed, which)
+case(which, with)
+~~~
+
+The `acl:relcl` relation is also used in free relatives, which are discussed in [](### Free relatives).
+
+Relatives clauses are not, however, the only type of clausal modifiers of nouns. For one example, reduced relative clauses are not typed `acl:relcl`, but rather `acl`.
 
 ~~~sdparse
+There are many online sites offering booking facilities .
+acl(hotels, offering)
+~~~
+
+~~~sdparse
+I have a parakeet named cookie .
+acl(parakeet, named)
 ~~~
 
 Additionally, many optional clausal dependents on nominals receive the `acl` label.
 
 ~~~sdparse
+These are the issues as I see them .
+acl(issues, see)
 ~~~
 
 ~~~sdparse
+I just want a simple way to get my discount .
+acl(way, get)
 ~~~
 
 ~~~sdparse
+
 ~~~
 
 #### Quantifier phrases
@@ -595,9 +619,27 @@ Additionally, many optional clausal dependents on nominals receive the `acl` lab
 The notion of _quantifier phrase_ is applied loosely here to a variety of structures that modify nominals. The simplest type is probably simple numerical adjectives, which are labeled `nummod`.
 
 ~~~sdparse
+I don 't want to spend more than 20 dollars .
+nummod(dollars, 20)
 ~~~
 
-Often some form of modification is applied to these numerical dependents, in the form of expressions such as *more than*, *about*, *over*. These are analyzed as dependents of the numerical modifier, forming a complex quantifier phrase.
+Often some form of modification is applied to these numerical dependents, in the form of expressions such as *more than* (which is considered a multiword expression), *about*, *over*. These are analyzed as dependents of the numerical modifier, forming a complex quantifier phrase.
+
+~~~sdparse
+I don 't want to spend more than 20 dollars .
+nummod(dollars, 20)
+advmod(20, more)
+mwe(more, than)
+~~~
+
+Ranges are also treated as numerical dependents. Note that in this case the dash *-* is represented as a preposition, because it is a functional equivalent of *to* (as becomes clear from the fact that it is normally read that way).
+
+~~~sdparse
+In just 2 - 3 focused lessons, you will be ready .
+nummod(lessons, 2)
+nmod(2, 3)
+case(3,-)
+~~~
 
 ## Beyond the clause
 
@@ -608,9 +650,29 @@ Beyond core clausal structures, there are many linguistic constructions, usually
 UD introduces two special relations for discourse-level dependents: `discourse`, which is used to type a limited range of discourse markers, and the informatively named `vocative`, which is used for vocatives. These always attach to predicates, not because they modify them directly, but to express the fact that they have the highest-possible level of attachment.
 
 ~~~sdparse
+Malach , what say makes sense .
+vocative(Malach, makes)
 ~~~
 
 ~~~sdparse
+Okay , it 's partly about strippers .
+discourse(strippers, Okay)
+~~~
+
+~~~sdparse
+Morcillas is coagulated blood from animals , ewww .
+discourse(blood, ewww)
+~~~
+
+~~~sdparse
+Can somebody please list ALL the food ?
+discourse(list, please)
+~~~
+
+~~~sdparse
+Of course you can .
+discourse(can, Of)
+mwe(Of, course)
 ~~~
 
 ### Coordination and loose joining
@@ -683,3 +745,5 @@ In this sentence, *was* is also a `cop` dependent of *rough*, but that edge is n
 ### *Tough*-movement
 
 ### Comparatives
+
+### Free relatives
