@@ -12,14 +12,17 @@ The `neg` label is used for Irish negative verb particles. These particles take 
 * _nár_ (past interrogative)
 * _ná_ (imperative)
  
+_<b>Ní</b> raibh aon Teresa ina measc_ `There was not any Teresa's among them'
 
 ~~~ sdparse
-Ní raibh aon Teresa ina measc \n There was not any Teresa's among them
+Ní raibh aon Teresa ina measc \n NEG was any Teresa in_their midst
 neg(raibh,Ní)
 ~~~
 
+_<b>Ná</b> déan seo_ `Don't do this' 
+
 ~~~ sdparse
-Ná déan seo \n Don't do this 
+Ná déan seo \n NEG do this 
 neg(déan,Ná)
 ~~~
 
