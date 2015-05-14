@@ -18,58 +18,74 @@ The UD Irish subtype `mark:prt' is used for the various particles in Irish, incl
 
 #### adverbial particle
 
+_Níor tháinig sé <b>go</b> fóill_ `He has not arrived yet'
 ~~~ sdparse
-Níor tháinig sé go fóill \n He has not arrived yet
+Níor tháinig sé go fóill \n NEG arrived he PART yet
 mark:prt(fóill, go)
 ~~~ 
 
 #### quantifier particle
 
+_Ar <b>a</b> seacht a chlog_ `At seven o' clock'
+
 ~~~ sdparse
-Ar a seacht a chlog \n At seven o' clock
+Ar a seacht a chlog \n At PART seven o' clock
 mark:prt(seacht, a)
 ~~~
 
+_Roinn <b>a</b>_ 2 `Division 2'
+
 ~~~ sdparse
-Roinn a 2 \n Division 2
+Roinn a 2 Division PART 2
 mark:prt(2, a)
 ~~~
 
 #### cleft particle
 
+_Is leabhar <b>a </b>thug sí dom_ `It is a book that she gave me'
+
 ~~~ sdparse
-Is leabhar a thug sí dom \n It is a book that she gave me
+Is leabhar a thug sí dom \n Is book PART gave she to_me
 mark:prt(thug, a)
 ~~~
 
 
-
 #### verb particles
+
+_Nuair <b>a</b> tógadh na scadáin ar bord_ `When the herring were brought onboard'
+
 ~~~ sdparse
-Nuair a tógadh na scadáin ar bord \n When the herring were brought onboard
+Nuair a tógadh na scadáin ar bord \n When PART brought the herring on board
 mark:prt(tógadh, a)
 ~~~
 
-#### complementiser
+_<b>D'</b> inis tú dom_ `You told me'
 
 ~~~ sdparse
-Is dóigh liom go raibh siad ann \n I believe they were there
+D' inis tú dom \n PART told you to_me
+mark:prt(inis, D')
+~~~
+
+
+#### complementiser
+
+_Is dóigh liom <b>go</b> raibh siad ann_ `I believe they were there'
+
+~~~ sdparse
+Is dóigh liom go raibh siad ann \n Is belief to_me PART were they there
 mark:prt(raibh, go)
 ~~~
 
 #### superlative particle
 
+_Ba í an difríocht <b>is</b> suntasaí_ `It was the most remarkable difference'
+
 ~~~ sdparse
-Ba í an difríocht is suntasaí \n It was the most remarkable difference
+Ba í an difríocht is suntasaí \n Was AUG the difference most remarkable
 mark:prt(suntasaí, is)
-mark:prt(remarkable, most)
 ~~~
 
 
-~~~ sdparse
-D' inis tú dom \n You told me
-mark:prt(inis, D')
-~~~
 
 
 
