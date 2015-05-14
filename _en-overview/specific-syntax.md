@@ -297,6 +297,25 @@ In the example above, an alternative analysis might represent *no suggestions* a
 
 The labels `mark`, `aux`, `auxpass` and `cop` are used for function words that attach to predicates. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words.
 
+These function words do not normally have dependents, but there are exceptions. They may have word-level dependents; they may also be coordinated (on the surface, due to VP-ellipsis), and have conjunction and conjunct dependents.
+
+~~~sdparse
+We can and will get to the bottom of this .
+aux(get, can)
+cc(can, and)
+conj(can, will)
+~~~
+
+Unfortunately, not all conjunctions of function words attaching to predicates lend themselves of this analysis, which leads to a lack of parallelism across some constructions. In the following example, the first conjunct receives a promotion-by-head-ellision treatment.
+
+~~~sdparse
+-ROOT- This change has been and will be taken to provide focus for the project .
+root(-ROOT-, has)
+auxpass(has, been)
+cc(has, and)
+conj(has, taken)
+~~~
+
 #### Complementizers, subordinating conjunctions and the infinitival marker
 
 In English, the label `mark` applies uniformly to complementizers, subordinating conjunctions and the infinitival marker.
