@@ -6,5 +6,6 @@ permalink: eu/overview/morphology.html
 
 # Morphology
 
-This document is a placeholder for the language-specific overview of
-guidelines for part-of-speech tags and features.
+The UD treebank follows the UD guidelines for part-of-speech tags and features.
+
+ <a href="u/overview/morphology.html">universal set of features</a>,
