@@ -4,7 +4,7 @@ title: 'NumType'
 shortdef: 'numeral type'
 ---
 
-In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and some [adjectives](ADJ) that denote counting by numbers. It is currently not assigned to other quantifying interrogative, relative, indefinite and demonstrative words, such as ...
+In Slovenian UD Treebank, `NumType` is a lexical feature of [numerals](NUM) and some [adjectives](ADJ) that denote counting by numbers.
 
 ### `Card`: cardinal number
 
