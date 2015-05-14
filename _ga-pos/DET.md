@@ -18,13 +18,13 @@ Post-determiners occur with an article, and follow the noun. Some of these are d
 #### Examples
 
 ##### Pre-determiners
-* _an duine_ "the person"
-* _na daoine_ "the people"
+* _<b>an</b> duine_ "the person"
+* _<b>na</b> daoine_ "the people"
 
 ##### Post-determiners
-* _an duine seo_ "this person"
-* _an duine sin_ "that person"
-* _na daoine siúd_ "those people"
-* _an duine eile_ "the other person"
+* _<b>an</b> duine <b>seo</b>_ "this person"
+* _<b>an</b> duine <b>sin</b>_ "that person"
+* _<b>na</b> daoine <b>siúd</b>_ "those people"
+* _<b>an</b> duine <b>eile</b>_ "the other person"
 
 
