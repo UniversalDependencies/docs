@@ -197,6 +197,7 @@ The following features are included in the <a href="u/feat/index.html">universal
 
 ## PronType
 * [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
+* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
 
 ## VerbForm
 * [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in Latin.
