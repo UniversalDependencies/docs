@@ -16,7 +16,7 @@ are expressed as words _(four)_, or digits _(4)_.
 
 There are numerals belonging to other parts of speech in the universal
 tagging scheme, based mainly on syntactic criteria: e.g. ordinal numerals
-are tagged as [adjectives](ADJ) _(first, second, third, ...)_. 
+are tagged as [adjectives](ADJ) or [pronouns](PRON) _(first, second, third, ...)_. 
 In Italian there are no adverbial numerals like [cs] _poprvé_ "for the first time" nor multiplicative numerals such as [en] _(once, twice)_.
 
 Note that, since Roman numerals _(IV)_ are only used as ordinal numerals in Italian (Enciclopedia Treccani), are tagged [ADJ]() for coherence with other ordinal numerals. 
@@ -38,6 +38,10 @@ Tagged as [ADJ]():
 - _48esimo_
 - _primo_, _secondo_, _ultima_
 - _20°_
+
+Tagged as [PRON]():
+
+- _il terzo ad arrivare_ "the third to arrive"
 
 ### References
 
