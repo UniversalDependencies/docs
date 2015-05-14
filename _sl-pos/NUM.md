@@ -23,5 +23,5 @@ Other word types expressing a number or a relation to a number in Slovenian are 
 
 #### Conversion from JOS
 
-The following numerals are converted to `NUM`: numerals with Form=digit; numerals with Form=roman; numerals with Form=letter and Type=cardinal; numeral with Form=letter, Type=pronominal and lemma _en_; and numerals with Form=letter, Type=special and lemma not ending in _-en_.
+The following numerals are converted to `NUM`: numerals with Form=digit; numerals with Form=roman; numerals with Form=letter and Type=cardinal; numeral with Form=letter, Type=pronominal and lemma _en_ or _eden_; and numerals with Form=letter, Type=special and lemma not ending in _-en_.
 
