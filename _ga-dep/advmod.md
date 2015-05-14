@@ -16,7 +16,7 @@ advmod(dul, thart)
 _Chaithimid an oíche <b>amuigh</b> ar an fharraige_ 'We spent the night <b>out</b> on the sea'
 
 ~~~ sdparse
-Chaithimid an oíche amuigh ar an fharraige 'Spent_we the night out on the sea'
+Chaithimid an oíche amuigh ar an fharraige \n 'Spent_we the night out on the sea'
 advmod(Chaithimid, amuigh)
 ~~~
 
