@@ -19,7 +19,8 @@ As for dependency relations and annotation principles, we apply the following la
 - compound: multiword numerals are marked as compound: the last element is the head, and all the other elements are attached to the one to its right with the relation compound. compound:preverb holds between the preverb and its parent verb whenever they are spelt in two words.
 - name: the last element is the head, and all the other elements are attached to the one to its right with the relation name
 - mwe: not applied per se in Hungarian (but see language specific documentation for the treatment of light verb constructions)
-- TBC
+- expl: not applied in Hungarian
+- auxpass: not applied in Hungarian
 
 References
 
