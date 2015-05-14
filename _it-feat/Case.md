@@ -4,5 +4,4 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+We do not use this feature `Case`.
