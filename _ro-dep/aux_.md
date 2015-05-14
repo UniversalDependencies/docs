@@ -7,5 +7,11 @@ shortdef: 'auxiliary'
 redirect_from: "ro/dep/aux.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `aux`.
+An auxiliary of a clause is a non-main verb of the clause.
+
+~~~ sdparse
+Aș vrea o portocală . \n Would-I want an orange . 
+aux(vrea, Aș)
+~~~
+
+Exception: The auxiliary verb used to construct the passive voice is not labeled 'aux', but 'auxpass'.
