@@ -196,7 +196,7 @@ The following features are included in the <a href="u/feat/index.html">universal
 * [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
 
 ## PronType
-* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009) and Persian (fa::conll).
+* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
 
 ## VerbForm
 * [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in Latin.
