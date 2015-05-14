@@ -10,5 +10,5 @@ Adjectives typically modify nouns. In Basque, the adjective follows the noun, al
 
 #### Examples
 
-* _etxe_ <b>_handia_</b>  "yellow ducks"   
-* <b>goiko</b>_  _etxea  "technical work"   
+* Following the noun: _etxe_ <b>_handia_</b>  "big house"   
+* Preceding the noun: <b>goiko</b>  _etxea_  "the upper house"   
