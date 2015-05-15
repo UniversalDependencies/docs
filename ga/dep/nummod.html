@@ -37,14 +37,19 @@
 <p><em>Numeric modifiers</em> of a noun or NP, including both cardinal and
 ordinal numbers, are marked with the <code>nummod</code> dependency type. Quantifiers are also included.</p>
 
-<pre><code class="language-sdparse">sa bhliain 1975 \n in the year 1975
+<p><em>sa bhliain <b>1975</b></em> `in the year <b>1975</b>’</p>
+
+<pre><code class="language-sdparse">sa bhliain 1975 \n in year 1975
 nummod(bhliain, 1975)
 </code></pre>
 
-<pre><code class="language-sdparse">an chéad chéim \n the first year
+<p><em>an <b>chéad</b> chéim</em> `the <b>first</b> year’</p>
+
+<pre><code class="language-sdparse">an chéad chéim \n in &lt;b&gt;first&lt;/b&gt; year
 nummod(chéim, chéad)
-nummod(first, year)
 </code></pre>
+
+<p><em>fo-alt <b>(1)</b></em> `sub-paragraph <b>(1)</b>’</p>
 
 <pre><code class="language-sdparse">fo-alt (1) \n sub-paragraph (1)
 nummod(fo-alt, (1))
