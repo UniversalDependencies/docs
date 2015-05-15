@@ -6,6 +6,8 @@ shortdef: 'clausal complement'
 
 The `ccomp` relation marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers _go_, _nach_, and _gur_.
 
+### Examples
+
 ~~~ sdparse
 Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at_me that left my mother
 ccomp(Tá, imigh)
