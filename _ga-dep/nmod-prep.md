@@ -13,14 +13,14 @@ Examples: _agam_ "at me"; _leis_ "with him", _uainn_ "from us"
 _D'inis mé <b>di</b>_ `I told her'
  
 ~~~ sdparse
-D'inis mé di \n  Told I to_her
-nmod:prep(D'inis, di)
+D' inis mé di \n  [] told I to_her
+nmod:prep(inis, di)
 ~~~
 
-_Is dóigh <b>leis</b> go bhfuil páirtíocht </b>acu</b> lena chéile_ `He believes that they have a partnership together'
+_Is dóigh <b>leis</b> go bhfuil páirtíocht <b>acu</b> lena chéile_ `He believes that they have a partnership together'
 
 ~~~ sdparse
-Is dóigh leis go bhfuil páirtíocht acu lena chéile \n Is belief with_him that partnership at_them with each_other
+Is dóigh leis go bhfuil páirtíocht acu lena chéile \n Is belief with_him that is partnership at_them with each_other
 nmod:prep(dóigh, leis)
 nmod:prep(bhfuil, acu)
 ~~~
