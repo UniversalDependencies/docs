@@ -6,30 +6,29 @@ shortdef: 'nominal subject'
 
 A nominal subject is a noun phrase which is the syntactic subject of a clause. 
 
+_Rachaidh <b>sí</b> abhaile_ `<b>She</b> will go home'
 
 ~~~ sdparse
-Rachaidh sí abhaile \n She will go home
+Rachaidh sí abhaile \n Go_FUT she to_home
 nsubj(Rachaidh, sí)
 ~~~ 
 
 In a copula construction, the `nsubj` is dependent on the predicate (in this case the noun _réitigh_ 'solution').
 
+_Is réitigh sealadach <b>iad</b>_ `They are temporary solutions'
+
 ~~~ sdparse
-Is réitigh sealadach iad \n They are temporary solutions
+Is réitigh sealadach iad \n Is temporary solutions them
 nsubj(réitigh, iad)
 cop(réitigh, Is)
 ~~~
 
 The head of an infinitival phrase can also be `nsubj` in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
 
-~~~ conllx
-1	Ar	is	VERB	VERB	_	2	cop	_	_
-2	mhaith	maith	ADJ	ADJ	_	0	root	_	_
-3	leat	le	ADP	ADP	_	2	nmod:prep	_	_
-4	teach	teach	NOUN	NOUN	_	6	dobj	_	_
-5	a	a	PART	PART	_	6	mark	_	_
-6	cheannach	ceannach	NOUN	NOUN	_	2	nsubj	_	_
-7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+_Ar mhaith leat teach a <b>cheannach</b> ?_ 'Would you like to buy a house?'
+~~~ sdparse
+Ar mhaith leat teach a cheannach ? \n Is desire with_you house to buy?
+nsubj(mhaith, cheannach)
 ~~~
 
 
