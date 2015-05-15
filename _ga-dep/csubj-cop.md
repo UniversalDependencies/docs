@@ -9,6 +9,8 @@ subject of another (copular) clause. As in all copular clauses, the
 predicate acts as the head of the clause and hence it is also the
 governor of the copular subject. 
 
+### Example
+
 _Is dócha go <b>raibh</b> an ceart aici_  'It is likely that she <b>was</b> correct'
 
 ~~~ sdparse
