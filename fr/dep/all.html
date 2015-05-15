@@ -416,8 +416,16 @@ for <code>discourse</code>.</p>
 <p><a id="al-fr-dep/dislocated" class="al-dest"></a></p>
 <h2><code>dislocated</code>: dislocated elements</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dislocated</code>.</p>
+<p>The <code>dislocated</code> relation is used for fronted or postposed elements
+that do not fulfill the usual core grammatical relations of a
+sentence. Dislocated elements are attached to the same governor as the dependent that they double for.</p>
+
+<p>This construction is quite frequent is spoken French. It has not been yet annotated in the French treebank.</p>
+
+<pre><code class="language-sdparse">Pierre je ne l' aime pas beaucoup  \n Peter I don't like him much
+dislocated(l', Pierre)
+dobj(aime, l')
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/dislocated.md" target="#">edit dislocated</a></p>
 
@@ -489,8 +497,19 @@ iobj(parle, se)
 <p><a id="al-fr-dep/list" class="al-dest"></a></p>
 <h2><code>list</code>: list</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>list</code>.</p>
+<p>The <code>list</code> relation is used for chains of comparable items. It is not currently attested in the French treebank.</p>
+
+<p>Web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures in particular contain these structures, in the form of contact information: the different contact information items are labeled as <code>list</code>; the key-value pair relations are labeled as <a href="">appos</a>.</p>
+
+<p>In lists with more than two items, all items of the list shoud modify the first one.</p>
+
+<pre><code class="language-sdparse">Steve Jones GSM: 555-9814 Email: jones@abc.edf
+name(Steve-1, Jones-2)
+list(Steve-1, GSM:-3)
+list(Steve-1, Email:-5)
+appos(GSM:-3, 555-9814-4)
+appos(Email:-5, jones@abc.edf-6)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/list.md" target="#">edit list</a></p>
 
@@ -587,8 +606,19 @@ for <code>nummod</code>.</p>
 <p><a id="al-fr-dep/parataxis" class="al-dest"></a></p>
 <h2><code>parataxis</code>: parataxis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>parataxis</code>.</p>
+<p>The parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. More information can be found on the universal dependency page (<a href="">u-dep/parataxis</a>)</p>
+
+<pre><code class="language-sdparse">Les enfants jouent tout le temps, jouer est leur travail \n Children play all the time , play is their work  
+parataxis(jouent, travail)
+</code></pre>
+
+<pre><code class="language-sdparse">Les enfants ont le droit d'avoir du temps libre ( voir ci-dessous ) \n Children have a right to free time ( see below )
+parataxis(ont, voir)
+</code></pre>
+
+<pre><code class="language-sdparse">C'est l'idée : les enfants sont le futur \n That is the thought : children are the future
+parataxis(idée, futur)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/parataxis.md" target="#">edit parataxis</a></p>
 
