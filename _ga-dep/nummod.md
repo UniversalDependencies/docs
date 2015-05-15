@@ -21,6 +21,8 @@ an chéad chéim \n in <b>first</b> year
 nummod(chéim, chéad)
 ~~~
 
+_fo-alt <b>(1)</b>_ `sub-paragraph <b>(1)</b>'
+
 ~~~ sdparse
 fo-alt (1) \n sub-paragraph (1)
 nummod(fo-alt, (1))
