@@ -7,29 +7,33 @@ shortdef : 'predicate'
 We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
 Note that this differs from Irish ([cop]()) constructions. 
 
+_Bhí sé <b>dochreidte</b> go raibh sé fós beo_ `It was <b>unbelieveable</b> that he was still alive'
+
 #### Adjectival Predicate
 ~~~ sdparse
-Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
+Bhí sé dochreidte go raibh sé fós beo \n Was it unbelieveable that was he still alive
 xcomp:pred(Bhí, dochreidte)
-xcomp:pred(was, unbelieveable)
 ~~~
 
 #### PP Predicate
 Note that the head of the prepositional phrase is the noun.
 
+_Tá duine eile <b>i_mbun peannaireachta</b>_ `Someone else is <b>in charge of writing</b>'
+
 ~~~ sdparse
-Tá duine eile i_mbun peannaireachta \n Someone else is in charge of writing
+Tá duine eile i_mbun peannaireachta \n Is someone else in_charge_of writing 
 xcomp:pred(Tá, peannaireachta)
 case(peannaireachta, i_mbun)
-xcomp:pred(is, charge)
 ~~~
 
 
 #### Adverbial Predicate
+
+_Tá Meryl Streep <b>go hiontach</b> sa scannán sin_ `Meryl Streep is <b>wonderful</b> in that movie'
+
 ~~~ sdparse
-Tá Meryl Streep go hiontach sa scannán sin \n Meryl Streep is wonderful in that movie
+Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep PART wonderful in movie that
 xcomp:pred(Tá, hiontach)
-xcomp:pred(is, wonderful)
 ~~~
 
 
