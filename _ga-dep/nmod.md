@@ -6,6 +6,8 @@ shortdef: 'nominal modifier'
 
 The `nmod` relation is used for nominal modifiers of nouns or clausal predicates. `nmod` is typically a noun functioning as a non-core (oblique) argument or adjunct, and often marked by a preposition using [case]().
 
+### Examples
+
 _Tá sé ráite ag <b>tráchtairí</b> áirithe_ `It is said by some <b>commentators</b>'
 
 ~~~ sdparse
@@ -29,7 +31,7 @@ It is also used for attaching noun phrases, such as headings, to clauses:
 _<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ `CENTRE <b>PROJECT</b> - To provide information on employment opportunities with FÁS.'
 
 ~~~ sdparse
-TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n PROJECT CENTRE- Information to put on getting on opportunities employment with FÁS.
+TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n PROJECT CENTRE - Information to put on getting on opportunities employment with FÁS.
 nmod(Eolas, TOGRA)
 ~~~ 
 
