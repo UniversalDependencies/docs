@@ -253,6 +253,8 @@ The super type <code>acl</code> is not used in version 1.0 or 1.1 of the Irish t
 <p>A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause.<br />
 The head of the relative clause is usually a verb.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Chaill sé pé rud a <b>bhí</b> aige</em> `He lost everything that he <b>had</b>’</p>
 
 <pre><code class="language-sdparse">Chaill sé pé rud a bhí aige \n Lost he whatever thing that had he
@@ -265,6 +267,8 @@ acl:relcl(bhí, pé)
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
 <p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes temporal, consequence, conditional and purpose clauses. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the head is the main predicate of the clause.</p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>Nuair a <b>bhí</b> siad ag teacht ar ais, chonaic siad é</em> ‘When they <b>were</b> coming back, they saw it’</p>
 
@@ -297,6 +301,8 @@ advcl(casadh, bhíodar)
 
 <p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.</p>
 
+<h3 id="examples">Examples</h3>
+
 <p><em>Fuair mé fliú mór a bhí ag dul <b>thart</b></em> ‘I caught a bad flu that was going <b>around</b>’</p>
 
 <pre><code class="language-sdparse">Fuair mé fliú mór a bhí ag dul thart \n Caught I flu big [] was at going around
@@ -321,6 +327,8 @@ advmod(tháinig, fóill)
 <h2><code>amod</code>: adjectival modifier</h2>
 
 <p>An adjectival modifier of an NP is any adjectival phrase that serves to modify the meaning of the NP.</p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>tíortha <b>forbatha</b></em>  ‘<b>developed</b> countries’</p>
 
@@ -365,6 +373,8 @@ appos(tábhairne, Shea's)
 <p>See <a href="">nmod:pred</a> for labelling of prepositional pronouns, and <a href="">xcomp:pred</a> for prepositional predicates.</p>
 
 <p>Prepositions have many functions in Irish.</p>
+
+<h3 id="examples">Examples</h3>
 
 <h4 id="adjuncts">adjuncts</h4>
 
@@ -427,6 +437,8 @@ case(Fianna_Fáil, le)
 
 <p>A vocative particle precedes and marks the case of an addressee.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Slán leat, <b>a</b> chara</em> ‘Goodbye, friend’</p>
 
 <pre><code class="language-sdparse">Slán leat, a chara \n goodbye with_you, [] friend
@@ -440,13 +452,15 @@ case:voc(chara, a)
 
 <p>The <code>ccomp</code> relation marks a clausal complement of a verb or adjective, that has its own internal subject. In Irish, clausal complements are usually introduced by complementizers <em>go</em>, <em>nach</em>, and <em>gur</em>.</p>
 
+<h3 id="examples">Examples</h3>
+
 <pre><code class="language-sdparse">Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at_me that left my mother
 ccomp(Tá, imigh)
 </code></pre>
 
 <p><em>Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta</em> `We believe, that the students <b>develop</b> their understanding of professional life of industry’</p>
 
-<pre><code class="language-sdparse">Creidimidne, go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe_we, that develop the students  their own understanding on life professional the industry
+<pre><code class="language-sdparse">Creidimidne , go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe_we , that develop the students  their own understanding on life professional the industry
 
 ccomp(Creidimidne, bhforbraíonn)
 </code></pre>
@@ -508,6 +522,8 @@ compound(bean, Choilm)
 
 <p>In UD Irish, the subtype <code>compound:prt</code> (phrasal particle) is used in connection with phrasal verbs, where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Na sonraí atá leagtha <b>amach</b> in Airteagal J</em>  ‘The details that are laid <b>out</b> in Article J’</p>
 
 <pre><code class="language-sdparse">Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
@@ -521,7 +537,9 @@ compound:prt(leagtha, amach)
 
 <p>UD coordination has a right-adjunct structure (note that this differs from the structure of the Irish Dependency Treebank). The first conjunct (conjoined element) is the head of the conjoined phrase and all other conjuncts are dependents, labelled with the <code>conj</code> relation. </p>
 
-<p><em>Tigh Tábhairne agus Lóistín atá anois ann</em> ‘Public Bar and Hotel is what is there now’</p>
+<h3 id="examples">Examples</h3>
+
+<p><em>Tigh <b>Tábhairne</b> agus <b>Lóistín</b> atá anois ann</em> ‘A Public Bar and Hotel is what is there now’</p>
 
 <pre><code class="language-sdparse">Tigh Tábhairne agus Lóistín atá anois ann \n Houses Tavern and Accommodation that_is now there
 conj(Tábhairne,Lóistín)
@@ -558,7 +576,8 @@ only has two tensed forms - present/future and past/conditional.</p>
 
 <p><code>cop</code> is used to link the copula verb <em>is</em> and its predicate. See <a href="">xcomp:pred</a> to see how the verb <em>bí</em> is linked to a predicate.</p>
 
-<h4 id="equative-construction">equative construction</h4>
+<h3 id="examples">Examples</h3>
+<p>#### equative construction</p>
 
 <p><em><b>Is</b> múinteoir é</em>  ‘He <b>is</b> a teacher’</p>
 
@@ -607,6 +626,8 @@ We use <a href="">csubj:cleft</a> for subjects of cleft constructions.</p>
 <p>Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ. 
 In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. </p>
 
+<h3 id="examples">Examples</h3>
+
 <h4 id="nominal-fronting">Nominal fronting</h4>
 
 <p><em>Is leabhar a <b>thug</b> sí dom</em> ‘It is a book that she <b>gave</b> me’</p>
@@ -644,6 +665,8 @@ subject of another (copular) clause. As in all copular clauses, the
 predicate acts as the head of the clause and hence it is also the
 governor of the copular subject. </p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Is dócha go <b>raibh</b> an ceart aici</em>  ‘It is likely that she <b>was</b> correct’</p>
 
 <pre><code class="language-sdparse">Is dócha go raibh an ceart aici \n Is probable that was the right at_her
@@ -666,6 +689,8 @@ csubj:cop(dócha, raibh)
 
 <p>In Irish there is no indefinite article, only a definite article. The definite article can be singular (<em>an</em>) or plural (<em>na</em>).</p>
 
+<h3 id="examples">Examples</h3>
+
 <p><em><b>an</b> clár</em> ‘<b>the</b> programme’</p>
 
 <pre><code class="language-sdparse">an clár \n the programme
@@ -679,6 +704,8 @@ det(cláranna, na)
 </code></pre>
 
 <p>Two pre-determiners can occur before a noun:</p>
+
+<h3 id="examples-1">Examples</h3>
 
 <p><em><b>gach uile</b> ábhar</em>  ‘<b>every single</b> subject’</p>
 
@@ -725,6 +752,8 @@ quant(cheannaire, chéad)
 
 <p>The <code>discourse</code> label is used to connect interjections and other discourse particles to a clause.</p>
 
+<h3 id="examples">Examples</h3>
+
 <p><em><b>Á</b>, níl sé chomh holc sin!</em>  ‘<b>Aw</b>, it is not as bad as that!’</p>
 
 <pre><code class="language-sdparse">Á , níl sé chomh holc sin ! \n Aw , is_not it as bad that !
@@ -751,6 +780,8 @@ but should any be identified, they will be marked in subsequent versions of the 
 <h2><code>dobj</code>: direct object</h2>
 
 <p>The <code>dobj</code> label is used to mark the relationship between a verb and its direct object.</p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>Bhailigh siad eolas</em> ‘They collected <b>information</b>’</p>
 
@@ -782,6 +813,8 @@ dobj(cuireadh, é)
 <p>There are a handful of instances of intra-sentential Irish/English code-mixing in the treebank. Where possible we analyse the sentential structure using the appropriate labels for the English words. We only use the <code>foreign</code> relation
 when we want to explicitly mark the English words as foreign, e.g. the title of an English film in quotation marks, an example of an Irish-English dictionary entry within a sentence, or an Irish-English sign (see example below). When the <code>foreign</code> label is used, the sequence of words is given a linear analysis with the first word as the head.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>ar oscailt / <b>open</b> : Bealtaine - Meán Fómhair / <b>May - September</b></em>  `open / open : May - September / May - September
 ‘</p>
 
@@ -798,6 +831,8 @@ foreign(May,September)
 
 <p>The <code>list</code> relation is used for chains of comparable items.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Is iad seo na príomhchineálacha breiseán bia : <b>1)</b> dathuithe <b>2)</b> leasaithigh <b>3)</b> antocsaídigh</em> `These are the main types of food additives : <b>1)</b> colouring <b>2)</b> preservatives <b>3)</b> antioxidants’ </p>
 
 <pre><code class="language-sdparse">Is iad seo na príomhchineálacha breiseán bia : 1) dathuithe 2) leasaithigh 3) antocsaídigh \n Is they DEM the main_types additives food : 1) colouring 2) preservatives 3) antioxidants 
@@ -813,6 +848,8 @@ list(príomhchineálacha,3))
 
 <p>In Irish the <code>mark</code> label is used for infinitive markers and for subordinate conjunctions. 
 Note that subordinate conjunctions are attached to the head of the complement clause (not the matrix clause as is the case in the Irish Dependency Treebank).</p>
+
+<h3 id="examples">Examples</h3>
 
 <h4 id="subordinate-conjunctions">subordinate conjunctions</h4>
 
@@ -1245,7 +1282,7 @@ xcomp:pred(Bhí, dochreidte)
 <h4 id="pp-predicate">PP Predicate</h4>
 <p>Note that the head of the prepositional phrase is the noun.</p>
 
-<p><em>Tá duine eile <b>i_mbun peannaireachta</b></em> `Someone else is <b>in charge of writing</b>’</p>
+<p><em>Tá duine eile <b>i_mbun</b> peannaireachta</em> `Someone else is <b>in charge of</b> writing’</p>
 
 <pre><code class="language-sdparse">Tá duine eile i_mbun peannaireachta \n Is someone else in_charge_of writing 
 xcomp:pred(Tá, peannaireachta)
@@ -1254,9 +1291,9 @@ case(peannaireachta, i_mbun)
 
 <h4 id="adverbial-predicate">Adverbial Predicate</h4>
 
-<p><em>Tá Meryl Streep <b>go hiontach</b> sa scannán sin</em> `Meryl Streep is <b>wonderful</b> in that movie’</p>
+<p><em>Tá Meryl Streep go <b>hiontach</b> sa scannán sin</em> `Meryl Streep is <b>wonderful</b> in that movie’</p>
 
-<pre><code class="language-sdparse">Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep PART wonderful in movie that
+<pre><code class="language-sdparse">Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep [] wonderful in movie that
 xcomp:pred(Tá, hiontach)
 </code></pre>
 
