@@ -4,5 +4,9 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubj`.
+A nominal subject is a nominal phrase which is the syntactic subject of a clause.
+
+~~~sdparse
+El citește . \n He reads .
+nsubj(citește, El)
+~~~
