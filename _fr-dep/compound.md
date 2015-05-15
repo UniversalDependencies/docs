@@ -4,5 +4,14 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `compound`.
+`compound` in French is used for compounds like the following:
+
+~~~ sdparse
+ambiance chalet \n
+compound(ambiance, chalet)
+~~~
+
+~~~ sdparse
+début décembre  \n beginning (of) December
+compound(début, décembre)
+~~~
