@@ -11,13 +11,13 @@ The `vocative` relation is used to mark a dialogue participant addressed in text
 _Slán leat , a <b>chara</b>_ `Goodbye , <b>friend</b>'
 
 ~~~ sdparse
-Slán leat , a chara \n Goodbye with_you, PART friend
+Slán leat , a chara \n Goodbye with_you, [] friend
 vocative(Slán, chara)
 ~~~
 
 _Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat_  `I think <b>Mairead</b>, that I'm in love with you'
 
 ~~~ sdparse
-Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me PART Mairead, that am I in love with_you
+Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead, that am I in love with_you
 vocative(dóigh, Mháiréad)
 ~~~
