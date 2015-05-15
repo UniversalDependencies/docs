@@ -26,10 +26,10 @@ case(réimse, le)
 
 It is also used for attaching noun phrases, such as headings, to clauses:
 
-_<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ `<b>CENTRE</b> PROJECT - To provide information on employment opportunities with FÁS.'
+_<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ `CENTRE <b>PROJECT</b> - To provide information on employment opportunities with FÁS.'
 
 ~~~ sdparse
-TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n>PROJECT CENTRE- Information to put to hand on opportunities employment with FÁS.
+TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n PROJECT CENTRE- Information to put on getting on opportunities employment with FÁS.
 nmod(Eolas, TOGRA)
 ~~~ 
 
@@ -38,7 +38,7 @@ It is also used to label the attachment of _augment pronouns_ to their nominal h
 _Comharsain aoibhne ab <b>ea</b> iad_ `They were lovely neighbours'
 
 ~~~ sdparse
-Comharsain aoibhne ab ea iad \n Neighbours lovely were AUG them
+Comharsain aoibhne ab ea iad \n Neighbours lovely were they them
 nmod(iad, ea)
 ~~~
 
