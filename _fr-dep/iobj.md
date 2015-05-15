@@ -7,7 +7,7 @@ shortdef: 'indirect object'
 An indirect object is a nominal which corresponds to a dative object.
 
 ~~~ sdparse
-Il m'envoie une lettre . \n He sends me a letter .
+Il m' envoie une lettre . \n He sends me a letter .
 iobj(envoie, m')
 ~~~
 
