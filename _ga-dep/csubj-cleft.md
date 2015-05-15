@@ -7,6 +7,8 @@ shortdef : 'relative clause modifier'
 Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ. 
 In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. 
 
+### Examples
+
 #### Nominal fronting ####
 
 _Is leabhar a <b>thug</b> sí dom_ 'It is a book that she <b>gave</b> me'
