@@ -6,6 +6,7 @@ shortdef: 'list'
 
 The `list` relation is used for chains of comparable items.
 
+### Example
 
 _Is iad seo na príomhchineálacha breiseán bia : <b>1)</b> dathuithe <b>2)</b> leasaithigh <b>3)</b> antocsaídigh_ `These are the main types of food additives : <b>1)</b> colouring <b>2)</b> preservatives <b>3)</b> antioxidants' 
 
