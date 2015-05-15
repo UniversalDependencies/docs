@@ -10,18 +10,23 @@ shortdef : 'prepositional pronouns'
 
 Examples: _agam_ "at me"; _leis_ "with him", _uainn_ "from us"
  
+ _D'inis mé <b>di</b>_ `I told her'
 ~~~ sdparse
-D'inis mé di \n I told her
+D'inis mé di \n  Told I to_her
 nmod:prep(D'inis, di)
 ~~~
 
+_Is dóigh <b>leis</b> go bhfuil páirtíocht </b>acu</b> lena chéile_ `He believes that they have a partnership together'
+
 ~~~ sdparse
-Is dóigh leis go bhfuil páirtíocht acu lena chéile \n He believes that they have a partnership together
+Is dóigh leis go bhfuil páirtíocht acu lena chéile \n Is belief with_him that partnership at_them with each_other
 nmod:prep(dóigh, leis)
 nmod:prep(bhfuil, acu)
 ~~~
 
+_Níl fhios <b>agam</b>_ `I don't know'
+
 ~~~ sdparse
-Níl fhios agam \n I don't now
+Níl fhios agam \n Is_not knowledge at_me
 nmod:prep(Níl,agam)
 ~~~
