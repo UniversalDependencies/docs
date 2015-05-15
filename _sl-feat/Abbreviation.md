@@ -14,7 +14,7 @@ Abbreviation is a feature of [X: other](X) to mark abbreviations ending with a d
 * _prim._ "compare"
 * _B. O._ "Barack Obama"
 
-#### Conversion from JOS
+### Conversion from JOS
 
 Currently, all abbreviations are converted to `X` and assigned the `Abbr=Yes` feature.
 
