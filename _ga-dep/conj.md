@@ -6,7 +6,9 @@ shortdef: 'conjunct'
 
 UD coordination has a right-adjunct structure (note that this differs from the structure of the Irish Dependency Treebank). The first conjunct (conjoined element) is the head of the conjoined phrase and all other conjuncts are dependents, labelled with the `conj` relation. 
 
-_Tigh Tábhairne agus Lóistín atá anois ann_ 'Public Bar and Hotel is what is there now'
+### Examples
+
+_Tigh <b>Tábhairne</b> agus <b>Lóistín</b> atá anois ann_ 'A Public Bar and Hotel is what is there now'
 
 ~~~ sdparse
 Tigh Tábhairne agus Lóistín atá anois ann \n Houses Tavern and Accommodation that_is now there
