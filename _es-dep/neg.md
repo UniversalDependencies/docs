@@ -15,5 +15,5 @@ neg(canta, no)
 
 ~~~ sdparse
 Nunca llueve . \n It never rains .
-neg(llueve, nunca)
+neg(llueve, Nunca)
 ~~~
