@@ -784,8 +784,101 @@
 <p><a id="al-sl-feat/PronType" class="al-dest"></a></p>
 <h2><code>PronType</code>: pronominal type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PronType</code>.</p>
+<p>This is a lexical feature of <a href="PRON">pronouns</a> and some <a href="DET">determiners</a>.</p>
+
+<h3 id="prs-personal-pronoun-or-determiner"><code>Prs</code>: personal pronoun or determiner</h3>
+
+<p>This feature includes both nominal personal, possessive and reflexive pronouns or determiners.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>jaz</b></em> “I”, <em><b>ti</b></em> “you”, <em><b>on</b></em> “on”, <em><b>ona</b></em> “she” etc.</li>
+  <li><em><b>moj</b></em> “my/mine”, <em><b>tvoj</b></em> “your/yours”, <em><b>njegov</b></em> “his”, <em><b>njen</b></em> “her/hers” etc.</li>
+  <li><em><b>se</b></em> “oneself”, <em><b>svoj</b></em> “one’s own”</li>
+</ul>
+
+<h3 id="int-interrogative-pronoun-or-determiner"><code>Int</code>: interrogative pronoun or determiner</h3>
+
+<h4 id="examples-1">Examples:</h4>
+
+<ul>
+  <li><em>kdo</em> “who”</li>
+  <li><em>kaj</em> “what”</li>
+  <li><em>kakšen</em> “what kind of”</li>
+  <li><em>kateri</em> “which”</li>
+  <li><em>čigav</em> “whose”</li>
+</ul>
+
+<h3 id="rel-relative-pronoun-or-determiner"><code>Rel</code>: relative pronoun or determiner</h3>
+
+<h4 id="examples-2">Examples:</h4>
+
+<ul>
+  <li><em>kar</em> “which/that”</li>
+  <li><em>kdor</em> “who”</li>
+  <li><em>ćigar</em> “kdor”</li>
+  <li><em>kakršen</em> “as/like”</li>
+  <li><em>karkoli</em> “anything”</li>
+  <li><em>kdorkoli</em> “anyone”</li>
+  <li><em>kakršenkoli</em> “any, of any kind”</li>
+</ul>
+
+<h3 id="dem-demonstrative-pronoun-or-determiner"><code>Dem</code>: demonstrative pronoun or determiner</h3>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em>ta</em> “this”</li>
+  <li><em>tisti</em> “that”</li>
+  <li><em>takšen</em> “such”</li>
+  <li><em>tale</em> “this here”</li>
+  <li><em>oni</em> “that there”</li>
+  <li><em>tak</em> “such”</li>
+  <li><em>tadva</em> “these two”</li>
+</ul>
+
+<h3 id="tot-total-collective-pronoun-or-determiner"><code>Tot</code>: total (collective) pronoun or determiner</h3>
+
+<h4 id="examples-4">Examples</h4>
+
+<ul>
+  <li><em>ves</em> “all”</li>
+  <li><em>vsak</em> “each”</li>
+  <li><em>vsakdo</em> “everyone”* <em>oba</em> “both”</li>
+  <li><em>vsakršen</em> “any kind”</li>
+</ul>
+
+<h3 id="neg-negative-pronoun-determiner-or-adverb"><code>Neg</code>: negative pronoun, determiner or adverb</h3>
+
+<h4 id="examples-5">Examples</h4>
+
+<ul>
+  <li><em>nič</em> “nothing”</li>
+  <li><em>nihče, noben, nobeden</em> “nobody”</li>
+  <li><em>nikakršen, nikak</em> “no kind”</li>
+  <li><em>nikogaršnji</em> “nobody’s”</li>
+  <li><em>nikak</em> “no way”</li>
+</ul>
+
+<h3 id="ind-indefinite-pronoun-determiner-numeral-or-adverb"><code>Ind</code>: indefinite pronoun, determiner, numeral or adverb</h3>
+
+<h4 id="examples-6">Examples</h4>
+
+<ul>
+  <li><em>nekateri</em> “some/someone”</li>
+  <li><em>nekaj</em> “something”</li>
+  <li><em>isti</em> “same”</li>
+  <li><em>nek, nekakšen</em> “some kind of”</li>
+  <li><em>mnog, premnog</em> “many”</li>
+  <li><em>marsikaj</em> “many”</li>
+</ul>
+
+<h3 id="conversion-from-jos">Conversion from JOS</h3>
+
+<p>All pronouns with feature Type=personal, Type=reflexive and Type=possessive are converted to UD <code>PronType=Prs</code>. All pronouns with Type=interrogative are converted to UD <code>PronType=Int</code>, all pronouns with Type=relative are converted to UD <code>PronType=Rel</code>, all pronouns with Type=demonstrative are converted to UD <code>PronType=Dem</code>, all pronouns with Type=general are converted to UD <code>PronType=Tot</code>, all pronouns with Type=negative are converted to UD <code>PronType=Neg</code> and all pronouns with Type=indefinite are converted to UD <code>PronType=Ind</code>. </p>
+
+<p>Not that currently <code>PronType</code> is only assigned to pronouns and determiners, but not to other POS categories, such as adverbs (<em>zakaj</em> “why”, <em>čemu</em> “what for”, <em>kako</em> “how”, <em>tukaj</em> “here”, <em>tam</em> “there”, <em>tolikokrat</em> “this many times” etc.)</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-feat/PronType.md" target="#">edit PronType</a></p>
 

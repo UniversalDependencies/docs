@@ -611,16 +611,35 @@ punct(mouillé, .)
 <p><a id="al-fr-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
+<p>The remnant relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word. For a full discussion of its use, see the universal dependency description (<a href="">u-dep/remnant</a>).</p>
+
+<p>Currently this construction is not correctly annotated in the French treebank.</p>
+
+<pre><code class="language-sdparse">Marie-1 a-2 été-3 à-4 Paris-5 et-6 Miriam-7 à-8 Prague-9 \n Marie went to Paris and Miriam to Prague
+nsubj(été-3, Marie-1)
+nmod(été-3, Paris-5)
+case(Paris-5, à-4)
+cc(été-3, et-6)
+remnant(Marie-1, Miriam-7)
+case(Prague-9, à-8)
+remnant(Paris-5, Prague-9)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/remnant.md" target="#">edit remnant</a></p>
 
 <p><a id="al-fr-dep/reparandum" class="al-dest"></a></p>
 <h2><code>reparandum</code>: overridden disfluency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>reparandum</code>.</p>
+<p>The <code>reparandum</code> relation is used to indicate disfluencies overridden in a speech
+repair. The disfluency is the dependent of the repair.</p>
+
+<p>Currently this construction is not annotated in the French treebank (but there are probably no attested uses).</p>
+
+<pre><code class="language-sdparse">Va à-2 droi- à-4 gauche . \n Go to the righ- to the left .
+nmod(Va, gauche)
+reparandum(gauche, droi-)
+case(droi-, à-2)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/reparandum.md" target="#">edit reparandum</a></p>
 
