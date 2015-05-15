@@ -10,7 +10,8 @@ shortdef : 'prepositional pronouns'
 
 Examples: _agam_ "at me"; _leis_ "with him", _uainn_ "from us"
  
- _D'inis mé <b>di</b>_ `I told her'
+_D'inis mé <b>di</b>_ `I told her'
+ 
 ~~~ sdparse
 D'inis mé di \n  Told I to_her
 nmod:prep(D'inis, di)
