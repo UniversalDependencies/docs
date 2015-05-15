@@ -28,6 +28,6 @@ Verbs without `Aspect` are considered to be biaspectual, i.e. they can either de
 * _Takoj sem <b>telefoniral</b> na policijo._ "I called the police immediately"
 * _Cel dan sem <b>telefoniral</b>, a se nihče ni javil._ "I have been calling all day, but no one answered."
 
-#### Conversion from JOS
+### Conversion from JOS
 
 Verbs with Aspect=perfective are converted to `Aspect=Perf`, verbs with Aspect=imperfective are converted `Aspect=Imp` and verbs with Aspect=biaspectual are not assigned the `Aspect` feature.
