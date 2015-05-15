@@ -4,5 +4,10 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `amod`.
+An adjectival modifier of a nominal is any adjectival phrase that serves
+to modify the meaning of the nominal head.
+
+~~~ sdparse
+Marc boit du vin rouge \n Marc drinks red wine
+amod(vin, rouge)
+~~~
