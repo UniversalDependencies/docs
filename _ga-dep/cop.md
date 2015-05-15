@@ -25,6 +25,7 @@ The order of elements in a copula construction is in general:
 
 `cop` is used to link the copula verb _is_ and its predicate. See [xcomp:pred]() to see how the verb _bí_ is linked to a predicate.
 
+### Examples
 #### equative construction
 
 _<b>Is</b> múinteoir é_  'He <b>is</b> a teacher'
