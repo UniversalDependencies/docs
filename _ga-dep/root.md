@@ -6,7 +6,9 @@ shortdef: 'root'
 
 The `root` grammatical relation points to the root of the sentence. A dummy node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.
 
+_Ní <b>thugtar</b> íocaíochtaí mura n-iarrtar iad_ `Payments are not <b>made</b> if they are not requested'
+
 ~~~ sdparse
-ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n Payments are not made if they are not requested
+ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not made Payments if_not requested them 
 root(ROOT, thugtar)
 ~~~
