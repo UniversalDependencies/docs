@@ -12,6 +12,8 @@ The `neg` label is used for Irish negative verb particles. These particles take 
 * _nár_ (past interrogative)
 * _ná_ (imperative)
  
+### Examples
+
 _<b>Ní</b> raibh aon Teresa ina measc_ `There was not any Teresa's among them'
 
 ~~~ sdparse
