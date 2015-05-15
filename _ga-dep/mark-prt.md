@@ -55,14 +55,14 @@ mark:prt(thug, a)
 _Nuair <b>a</b> tógadh na scadáin ar bord_ `When the herring were brought onboard'
 
 ~~~ sdparse
-Nuair a tógadh na scadáin ar bord \n When PART brought the herring on board
+Nuair a tógadh na scadáin ar bord \n When PART was_brought the herring on board
 mark:prt(tógadh, a)
 ~~~
 
 _<b>D'</b> inis tú dom_ `You told me'
 
 ~~~ sdparse
-D' inis tú dom \n PAST told you to_me
+D' inis tú dom \n PART told you to_me
 mark:prt(inis, D')
 ~~~
 
@@ -81,7 +81,7 @@ mark:prt(raibh, go)
 _Ba í an difríocht <b>is</b> suntasaí_ `It was the most remarkable difference'
 
 ~~~ sdparse
-Ba í an difríocht is suntasaí \n Was AUG the difference most remarkable
+Ba í an difríocht is suntasaí \n Was it the difference most remarkable
 mark:prt(suntasaí, is)
 ~~~
 
