@@ -30,5 +30,5 @@ The `acl` relation is also used for secondary predicates modifying a nominal.
 
 ~~~ sdparse
 Han lämnade rummet gråtande . \n He left the room crying .
-acl(han, gråtande)
+acl(Han, gråtande)
 ~~~
