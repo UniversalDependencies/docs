@@ -37,25 +37,29 @@
 <p>We extend the label <code>xcomp</code> as a UD Irish subtype <code>xcomp:pred</code> to mark predicates of the substantive verb <em>bí</em> (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
 Note that this differs from Irish (<a href="">cop</a>) constructions. </p>
 
+<p><em>Bhí sé <b>dochreidte</b> go raibh sé fós beo</em> `It was <b>unbelieveable</b> that he was still alive’</p>
+
 <h4 id="adjectival-predicate">Adjectival Predicate</h4>
-<pre><code class="language-sdparse">Bhí sé dochreidte go raibh sé fós beo \n It was unbelieveable that he was still alive
+<pre><code class="language-sdparse">Bhí sé dochreidte go raibh sé fós beo \n Was it unbelieveable that was he still alive
 xcomp:pred(Bhí, dochreidte)
-xcomp:pred(was, unbelieveable)
 </code></pre>
 
 <h4 id="pp-predicate">PP Predicate</h4>
 <p>Note that the head of the prepositional phrase is the noun.</p>
 
-<pre><code class="language-sdparse">Tá duine eile i_mbun peannaireachta \n Someone else is in charge of writing
+<p><em>Tá duine eile <b>i_mbun peannaireachta</b></em> `Someone else is <b>in charge of writing</b>’</p>
+
+<pre><code class="language-sdparse">Tá duine eile i_mbun peannaireachta \n Is someone else in_charge_of writing 
 xcomp:pred(Tá, peannaireachta)
 case(peannaireachta, i_mbun)
-xcomp:pred(is, charge)
 </code></pre>
 
 <h4 id="adverbial-predicate">Adverbial Predicate</h4>
-<pre><code class="language-sdparse">Tá Meryl Streep go hiontach sa scannán sin \n Meryl Streep is wonderful in that movie
+
+<p><em>Tá Meryl Streep <b>go hiontach</b> sa scannán sin</em> `Meryl Streep is <b>wonderful</b> in that movie’</p>
+
+<pre><code class="language-sdparse">Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep PART wonderful in movie that
 xcomp:pred(Tá, hiontach)
-xcomp:pred(is, wonderful)
 </code></pre>
 
 
