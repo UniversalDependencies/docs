@@ -13,8 +13,10 @@ Irish denotes possession through the use of possessive pronouns:
  * _bhur_ "your" (PL),
  * _a_ "their"
 
+_Chuir mé ceist ar <b>mo</b> mhúinteoir_ `I asked <b>my</b> teacher a question'
+
 ~~~ sdparse
-Chuir mé ceist ar mo mhúinteoir \n I asked my teacher a question
+Chuir mé ceist ar mo mhúinteoir \n Put I question to my teacher
 nmod:poss(mhúinteoir, mo)
 ~~~
 
