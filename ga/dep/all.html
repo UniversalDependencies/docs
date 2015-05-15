@@ -1135,9 +1135,9 @@ parataxis(Fuaireamar,féach)
 
 <p>This is used for any piece of punctuation in a clause, regardless of its function. The punctuation mark is attached to the head of the phrase or clause to which it belongs unless this introduces a non-projective dependency. More discussion on punctuation can be found on the universal dependency page (<a href="">u-dep/punct</a>).</p>
 
-<p><em><b>’</b> Tá an méid sin suimiúil a d’ inis tú dom <b>,</b> <b>’</b> a dúirt sé <b>.</b></em> `<b>’</b> What you have told me is interesting <b>,</b><b>’</b> he said to me<b>.</b>’</p>
+<p>_<b><code>&lt;/b&gt; Tá an méid sin suimiúil a d' inis tú dom &lt;b&gt;,&lt;/b&gt; &lt;b&gt;'&lt;/b&gt; a dúirt sé &lt;b&gt;.&lt;/b&gt;_ </code><b>`</b> What you have told me is interesting <b>,</b><b>’</b> he said to me<b>.</b>’</b></p>
 
-<pre><code class="language-sdparse">` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount that interesting that PAST tell you to_me , ' PART said you to_me .
+<pre><code class="language-sdparse">` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount DEM interesting [] [] told you to_me , ' [] said he .
 punct(dúirt, `)
 punct(dúirt, ,)
 punct(dúirt, ')
@@ -1160,7 +1160,7 @@ punct(dúirt, .)
 
 <p><em>Ní <b>thugtar</b> íocaíochtaí mura n-iarrtar iad</em> `Payments are not <b>made</b> if they are not requested’</p>
 
-<pre><code class="language-sdparse">ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not made payments if_not requested them 
+<pre><code class="language-sdparse">ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n ROOT Not given payments if_not requested them 
 root(ROOT, thugtar)
 </code></pre>
 
@@ -1175,13 +1175,13 @@ root(ROOT, thugtar)
 
 <p><em>Slán leat , a <b>chara</b></em> `Goodbye , <b>friend</b>’</p>
 
-<pre><code class="language-sdparse">Slán leat , a chara \n Goodbye with_you, PART friend
+<pre><code class="language-sdparse">Slán leat , a chara \n Goodbye with_you, [] friend
 vocative(Slán, chara)
 </code></pre>
 
 <p><em>Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat</em>  `I think <b>Mairead</b>, that I’m in love with you’</p>
 
-<pre><code class="language-sdparse">Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me PART Mairead, that am I in love with_you
+<pre><code class="language-sdparse">Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead, that am I in love with_you
 vocative(dóigh, Mháiréad)
 </code></pre>
 
@@ -1217,12 +1217,13 @@ xcomp(Tá, rith)
 case(rith, ag)
 </code></pre>
 
-<p>There are also some similar periphrastic constructions similar to these progressives that use <em>le</em> or <em>ar</em></p>
+<p>There are also some similar periphrastic constructions similar to these progressives that use <em>le</em> or <em>ar</em>:</p>
 
-<p><em>chuirfeadh iad ar <b>fáil</b></em> `they would be made available’</p>
+<p><em>Chuirfeadh iad ar <b>fáil</b></em> `They would be made available’</p>
 
-<pre><code class="language-sdparse">chuirfeadh iad ar fáil \n put_COND they to get
+<pre><code class="language-sdparse">Chuirfeadh iad ar fáil \n Would_be_put they on getting
 xcomp(chuirfeadh,fáil)
+case(fáil, ar)
 
 </code></pre>
 

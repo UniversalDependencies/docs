@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>punct</title>
+    <title>Variant</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -16,9 +16,9 @@
 
       <div id="hp-header">
 	
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-ga">home</a></span>
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/ga/dep">ga/dep</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/punct.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-sl">home</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/sl/feat">sl/feat</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-feat/Variant.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,61 +32,38 @@
 	  </div>
 	</noscript>
 
-          <h2><code>punct</code>: punctuation</h2>
+          <h2><code>Variant</code>: alternative form of word</h2>
 
-<p>This is used for any piece of punctuation in a clause, regardless of its function. The punctuation mark is attached to the head of the phrase or clause to which it belongs unless this introduces a non-projective dependency. More discussion on punctuation can be found on the universal dependency page (<a href="">u-dep/punct</a>).</p>
+<p>In Slovenian, the <code>Variant</code> feature is either a lexical or inflectional features of some <a href="PRON">pronouns</a>.</p>
 
-<p>_<b><code>&lt;/b&gt; Tá an méid sin suimiúil a d' inis tú dom &lt;b&gt;,&lt;/b&gt; &lt;b&gt;'&lt;/b&gt; a dúirt sé &lt;b&gt;.&lt;/b&gt;_ </code><b>`</b> What you have told me is interesting <b>,</b><b>’</b> he said to me<b>.</b>’</b></p>
+<h3 id="bound-bound-form"><code>Bound</code>: bound form</h3>
 
-<pre><code class="language-sdparse">` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount DEM interesting [] [] told you to_me , ' [] said he .
-punct(dúirt, `)
-punct(dúirt, ,)
-punct(dúirt, ')
-punct(dúirt, .)
-</code></pre>
+<p>This value is assigned as a lexical feature of fused combinations of prepositions and personal pronouns that are currently tokenized as one word form and annotated as <a href="PronType">personal</a> pronouns.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>To je <b>zame</b> preveč.</em> “This is too much <em>for me</em>”</li>
+  <li><em><b>Skozenj</b> je stekel električni tok.</em> “Electric current ran <em>through him</em>.”</li>
+  <li><em><b>Prednjo</b> so postavili kozarec vina.</em> “A glass of wine was put <em>in front of her.</em>”</li>
+</ul>
+
+<h3 id="short-clitic-form"><code>Short</code>: clitic form</h3>
+
+<p>This value is assigned as an inflectional feature to clitic personal pronouns in genitive, dative and accusative to distinguish them from their longer counterparts with the same lemma and set of features.</p>
+
+<h4 id="examples-1">Examples</h4>
+<ul>
+  <li><em>ga</em> (“him”, variant of <em>njega</em>)</li>
+  <li><em>jih</em> (“them”, variant of <em>njih</em>)</li>
+  <li><em>jo</em> (“her”, variant of <em>njo</em>)</li>
+  <li><em>mi</em> (“to me”, variant of <em>meni</em>)
+*<em>se</em> (“oneself”, used either as a variant of reflexive pronoun <em>sebi</em> or as an obligatory free morpheme with pseudo-reflexive verbs, such as <em>smejati se</em> “to laugh”)</li>
+</ul>
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-punct in other languages:
-
-[<a href="../../bg/dep/punct.html">bg</a>]
-
-[<a href="../../cs/dep/punct.html">cs</a>]
-
-[<a href="../../de/dep/punct.html">de</a>]
-
-[<a href="../../el/dep/punct.html">el</a>]
-
-[<a href="../../en/dep/punct.html">en</a>]
-
-[<a href="../../es/dep/punct.html">es</a>]
-
-[<a href="../../eu/dep/punct.html">eu</a>]
-
-[<a href="../../fa/dep/punct.html">fa</a>]
-
-[<a href="../../fi/dep/punct.html">fi</a>]
-
-[<a href="../../fr/dep/punct.html">fr</a>]
-
-[<a href="../../ga/dep/punct.html">ga</a>]
-
-[<a href="../../he/dep/punct.html">he</a>]
-
-[<a href="../../hu/dep/punct.html">hu</a>]
-
-[<a href="../../it/dep/punct.html">it</a>]
-
-[<a href="../../ja/dep/punct.html">ja</a>]
-
-[<a href="../../ko/dep/punct.html">ko</a>]
-
-[<a href="../../sv/dep/punct.html">sv</a>]
-
-[<a href="../../u/dep/punct.html">u</a>]
-
 
 
 
@@ -152,7 +129,7 @@ punct in other languages:
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'ga-dep';
+        Collections.listing['_current'] = 'sl-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
