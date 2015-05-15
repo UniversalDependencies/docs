@@ -869,7 +869,7 @@ mark:prt(seacht, a)
 
 <p><em>Roinn <b>a</b></em> 2 `Division 2’</p>
 
-<pre><code class="language-sdparse">Roinn a 2 Division PART 2
+<pre><code class="language-sdparse">Roinn a 2 \n Division PART 2
 mark:prt(2, a)
 </code></pre>
 
@@ -891,7 +891,7 @@ mark:prt(tógadh, a)
 
 <p><em><b>D’</b> inis tú dom</em> `You told me’</p>
 
-<pre><code class="language-sdparse">D' inis tú dom \n PART told you to_me
+<pre><code class="language-sdparse">D' inis tú dom \n PAST told you to_me
 mark:prt(inis, D')
 </code></pre>
 
@@ -945,13 +945,13 @@ name(Sheán,Gallchóir)
 
 <p><em><b>Ní</b> raibh aon Teresa ina measc</em> `There was not any Teresa’s among them’</p>
 
-<pre><code class="language-sdparse">Ní raibh aon Teresa ina measc \n NEG was any Teresa in_their midst
+<pre><code class="language-sdparse">Ní raibh aon Teresa ina measc \n Not was any Teresa in_their midst
 neg(raibh,Ní)
 </code></pre>
 
 <p><em><b>Ná</b> déan seo</em> `Don’t do this’ </p>
 
-<pre><code class="language-sdparse">Ná déan seo \n NEG do this 
+<pre><code class="language-sdparse">Ná déan seo \n Not do this 
 neg(déan,Ná)
 </code></pre>
 
@@ -980,7 +980,7 @@ case(réimse, le)
 
 <p><em><b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS</em> `<b>CENTRE</b> PROJECT - To provide information on employment opportunities with FÁS.’</p>
 
-<pre><code class="language-sdparse">TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n&gt;PROJECT CENTRE- `Information to put to hand on opportunities employment with FÁS.
+<pre><code class="language-sdparse">TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n&gt;PROJECT CENTRE- Information to put to hand on opportunities employment with FÁS.
 nmod(Eolas, TOGRA)
 </code></pre>
 
@@ -1025,11 +1025,11 @@ nmod:poss(mhúinteoir, mo)
 
 <p>Examples: <em>agam</em> “at me”; <em>leis</em> “with him”, <em>uainn</em> “from us”</p>
 
-<p><em>D’inis mé <b>di</b></em> `I told her’
-~~~ sdparse
-D’inis mé di \n  Told I to_her
-nmod:prep(D’inis, di)
-~~~</p>
+<p><em>D’inis mé <b>di</b></em> `I told her’</p>
+
+<pre><code class="language-sdparse">D'inis mé di \n  Told I to_her
+nmod:prep(D'inis, di)
+</code></pre>
 
 <p><em>Is dóigh <b>leis</b> go bhfuil páirtíocht &lt;/b&gt;acu&lt;/b&gt; lena chéile</em> `He believes that they have a partnership together’</p>
 
@@ -1066,7 +1066,7 @@ nmod:tmod(mhair, bliain)
 
 <p><em>Rachaidh <b>sí</b> abhaile</em> `<b>She</b> will go home’</p>
 
-<pre><code class="language-sdparse">Rachaidh sí abhaile \n Go_FUT she to_home
+<pre><code class="language-sdparse">Rachaidh sí abhaile \n Go_FUT she home
 nsubj(Rachaidh, sí)
 </code></pre>
 
@@ -1074,7 +1074,7 @@ nsubj(Rachaidh, sí)
 
 <p><em>Is réitigh sealadach <b>iad</b></em> `They are temporary solutions’</p>
 
-<pre><code class="language-sdparse">Is réitigh sealadach iad \n Is temporary solutions them
+<pre><code class="language-sdparse">Is réitigh sealadach iad \n Is temporary solutions they
 nsubj(réitigh, iad)
 cop(réitigh, Is)
 </code></pre>
@@ -1103,7 +1103,7 @@ nummod(bhliain, 1975)
 
 <p><em>an <b>chéad</b> chéim</em> `the <b>first</b> year’</p>
 
-<pre><code class="language-sdparse">an chéad chéim \n in &lt;b&gt;first&lt;/b&gt; year
+<pre><code class="language-sdparse">an chéad chéim \n in first year
 nummod(chéim, chéad)
 </code></pre>
 
@@ -1122,7 +1122,7 @@ nummod(fo-alt, (1))
 
 <p><em>Fuaireamar é seo ; <b>féach</b> an é cóta do mhic é nó nach é?</em> `We found this ; <b>look</b> is it your son’s coat or not?’</p>
 
-<pre><code class="language-sdparse">Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n Found_we it this ; look is it coat your son's AUG or not AUG?
+<pre><code class="language-sdparse">Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n Found_we it this ; look is it coat your son AUG or not AUG?
 parataxis(Fuaireamar,féach)
 </code></pre>
 
