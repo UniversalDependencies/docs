@@ -6,6 +6,8 @@ shortdef: 'nominal subject'
 
 A nominal subject is a noun phrase which is the syntactic subject of a clause. 
 
+### Examples
+
 _Rachaidh <b>sí</b> abhaile_ `<b>She</b> will go home'
 
 ~~~ sdparse
