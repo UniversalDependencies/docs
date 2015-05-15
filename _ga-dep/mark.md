@@ -12,7 +12,7 @@ Note that subordinate conjunctions are attached to the head of the complement cl
 _<b>Cé</b> go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna_ ` <b>Although</b> he went overboard with that opinion , it was certain that many English writers had the same opinion'
 
 ~~~ sdparse
-Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n Although PART went he over board with the opinion this, is certain PART was many writers English of_the same opinion
+Cé go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna \n Although PART went he over board with the opinion DEM, is certain PART was many writers English of_the same opinion
 mark(ndeachaigh, Cé)
 ~~~
 
