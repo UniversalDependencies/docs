@@ -9,7 +9,7 @@ A nominal subject is a noun phrase which is the syntactic subject of a clause.
 _Rachaidh <b>sí</b> abhaile_ `<b>She</b> will go home'
 
 ~~~ sdparse
-Rachaidh sí abhaile \n Go_FUT she to_home
+Rachaidh sí abhaile \n Go_FUT she home
 nsubj(Rachaidh, sí)
 ~~~ 
 
@@ -18,7 +18,7 @@ In a copula construction, the `nsubj` is dependent on the predicate (in this cas
 _Is réitigh sealadach <b>iad</b>_ `They are temporary solutions'
 
 ~~~ sdparse
-Is réitigh sealadach iad \n Is temporary solutions them
+Is réitigh sealadach iad \n Is temporary solutions they
 nsubj(réitigh, iad)
 cop(réitigh, Is)
 ~~~
