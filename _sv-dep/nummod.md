@@ -15,7 +15,7 @@ nummod(får, 3)
 ~~~ sdparse
 År 1962 tog nära 13 procent studenten \n In 1962 almost 13 percent took the graduation exam
 nummod(År, 1962)
-nummon(procent, 13)
+nummod(procent, 13)
 ~~~
 
 ~~~ sdparse
