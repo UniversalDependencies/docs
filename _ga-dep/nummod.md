@@ -7,6 +7,8 @@ shortdef: 'numeric modifier'
 *Numeric modifiers* of a noun or NP, including both cardinal and
 ordinal numbers, are marked with the `nummod` dependency type. Quantifiers are also included.
 
+### Examples
+
 _sa bhliain <b>1975</b>_ `in the year <b>1975</b>'
 
 ~~~ sdparse
