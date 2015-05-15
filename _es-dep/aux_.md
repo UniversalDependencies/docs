@@ -13,5 +13,5 @@ for `aux`.
 
 ~~~ sdparse
 Regan ha muerto . \n Regan has died .
-aux(died, has)
+aux(muerto, ha)
 ~~~
