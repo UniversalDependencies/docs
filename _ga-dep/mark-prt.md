@@ -36,7 +36,7 @@ mark:prt(seacht, a)
 _Roinn <b>a</b>_ 2 `Division 2'
 
 ~~~ sdparse
-Roinn a 2 Division PART 2
+Roinn a 2 \n Division PART 2
 mark:prt(2, a)
 ~~~
 
@@ -62,7 +62,7 @@ mark:prt(tógadh, a)
 _<b>D'</b> inis tú dom_ `You told me'
 
 ~~~ sdparse
-D' inis tú dom \n PART told you to_me
+D' inis tú dom \n PAST told you to_me
 mark:prt(inis, D')
 ~~~
 
