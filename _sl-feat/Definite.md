@@ -24,7 +24,7 @@ Definiteness in Slovenian is an inflectional feature of masculine word forms in 
 * _<b>drugi</b> način_ "the other way"
 * _<b>slovenski</b> grb_ "the Slovenian coat-of-arms"
 
-#### Conversion from JOS
+### Conversion from JOS
 
 All adjectives and numerals with feature Definiteness=yes are converted to `Definite=Def` and all adjectives and numerals with feature Definiteness=no are converted to `Definite=Ind`.
 
