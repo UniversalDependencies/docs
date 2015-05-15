@@ -8,6 +8,8 @@ The `det`label marks the relationship between a noun and its determiner.
 
 In Irish there is no indefinite article, only a definite article. The definite article can be singular (_an_) or plural (_na_).
 
+### Examples
+
 _<b>an</b> clár_ '<b>the</b> programme'
 
 ~~~ sdparse
@@ -24,6 +26,8 @@ det(cláranna, na)
 
 
  Two pre-determiners can occur before a noun:
+
+### Examples
 
 _<b>gach uile</b> ábhar_  '<b>every single</b> subject'
 
