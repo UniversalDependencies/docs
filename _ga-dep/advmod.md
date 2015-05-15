@@ -6,6 +6,8 @@ shortdef: 'adverbial modifier'
 
 An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.
 
+### Examples
+
 _Fuair mé fliú mór a bhí ag dul <b>thart</b>_ 'I caught a bad flu that was going <b>around</b>'
 
 ~~~ sdparse
