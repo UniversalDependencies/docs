@@ -4,5 +4,9 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+A clausal passive subject is a clausal syntactic subject of a passive clause:
+
+~~~ sdparse
+Cine a încălcat legea a fost pedepsit de instanță . \n Who has broken law-the has been punished by court .
+csubjpass(pedepsit, încălcat)
+~~~
