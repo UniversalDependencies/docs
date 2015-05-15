@@ -346,8 +346,15 @@ ccomp(certain, fait)
 <p><a id="al-fr-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p><code>compound</code> in French is used for compounds like the following:</p>
+
+<pre><code class="language-sdparse">ambiance chalet \n
+compound(ambiance, chalet)
+</code></pre>
+
+<pre><code class="language-sdparse">début décembre  \n beginning (of) December
+compound(début, décembre)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/compound.md" target="#">edit compound</a></p>
 
@@ -467,8 +474,13 @@ for <code>expl</code>.</p>
 <p><a id="al-fr-dep/foreign" class="al-dest"></a></p>
 <h2><code>foreign</code>: foreign words</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>foreign</code>.</p>
+<p>The <code>foreign</code> relation can be used to label sequences of foreign words. These are given
+a linear analysis: the head is the first token in the foreign phrase.</p>
+
+<pre><code class="language-sdparse">Cet homme était persona non grata \n This man was persona non grata
+foreign(persona, non)
+foreign(persona, grata)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/foreign.md" target="#">edit foreign</a></p>
 
@@ -548,8 +560,38 @@ for <code>mwe</code>.</p>
 <p><a id="al-fr-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p>The name relation is one of the three relations for compounding in UD (together
+with <a href="">compound</a> and <a href="">mwe</a>).
+It is used for proper nouns constituted of multiple nominal
+elements. For example, <code>name</code> would be used between the words of
+<em>Hillary Rodham Clinton, New York,</em> or <em>Carl XVI Gustaf</em> but not to
+replace the usual relations in a phrasal or clausal name like <em>The
+king of Belgium</em> or the novels <em>The Lord of the Rings</em> and <em>Captured By
+Aliens.</em></p>
+
+<p>Words joined by <code>name</code> should all be part of a minimal noun phrase;
+otherwise regular syntactic relations should be used.  This is
+basically similar to the treatment of noun compounds with
+<a href="">compound</a>, except that in many cases parts of the name may be
+another nominal element such as an adjective <em>(United Airlines).</em></p>
+
+<p>In general, names are annotated in a flat, head-initial structure, in
+which all words in the name modify the head using the <code>name</code>
+label.</p>
+
+<pre><code class="language-sdparse">Cervélo Test Team
+name(Team, Cervélo)
+name(Teaml, Test)
+</code></pre>
+
+<p>For names with a clear syntactic modification structure, the dependencies should instead reflect the syntactic modification structure using regular syntactic relations, as in:</p>
+
+<pre><code class="language-sdparse">&lt;&lt; La Belle et la Bête &gt;&gt; \n The Beauty and the Beast
+conj(Belle, Bête)
+cc(Belle, et)
+det(Belle, La)
+det(Bête, la)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/name.md" target="#">edit name</a></p>
 
