@@ -17,7 +17,7 @@ nummod(bhliain, 1975)
 _an <b>chéad</b> chéim_ `the <b>first</b> year'
 
 ~~~ sdparse
-an chéad chéim \n in <b>first</b> year
+an chéad chéim \n in first year
 nummod(chéim, chéad)
 ~~~
 
