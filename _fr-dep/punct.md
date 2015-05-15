@@ -12,7 +12,7 @@ punct(hors-taxe, !)
 ~~~
 
 ~~~ sdparse
-S'il pleut, on sera mouillé . \n If it rains , we will get wet .
+S' il pleut , on sera mouillé . \n If it rains , we will get wet .
 punct(pleut, ,)
 punct(mouillé, .)
 ~~~
