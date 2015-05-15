@@ -29,7 +29,7 @@ It is also used for attaching noun phrases, such as headings, to clauses:
 _<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ `<b>CENTRE</b> PROJECT - To provide information on employment opportunities with FÁS.'
 
 ~~~ sdparse
-TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n>PROJECT CENTRE- `Information to put to hand on opportunities employment with FÁS.
+TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n>PROJECT CENTRE- Information to put to hand on opportunities employment with FÁS.
 nmod(Eolas, TOGRA)
 ~~~ 
 
