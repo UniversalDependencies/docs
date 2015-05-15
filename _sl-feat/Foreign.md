@@ -10,9 +10,9 @@ shortdef: 'is this a foreign word?'
 
 #### Examples
 
-* _<b>de</b>_ in _Rio_ <b>de</b> Janeiro_
-* _<b>of</b>_ in _Life_ <b>of</b> Brian_
-* _<b>the</b>_ in _Billy_ <b>the</b> Kid_
+* _<b>de</b>_ in _Rio <b>de</b> Janeiro_
+* _<b>of</b>_ in _Life <b>of</b> Brian_
+* _<b>the</b>_ in _Billy <b>the</b> Kid_
 
 ### Conversion from JOS
 
