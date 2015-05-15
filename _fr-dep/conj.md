@@ -14,7 +14,7 @@ conj(an, enfant)
 ~~~
 
 ~~~ sdparse
-Une seconde d'hésitation, d'inattention ou de retard  \n A second of hesitation, carelessness or delay
+Une seconde d' hésitation , d' inattention ou de retard  \n A second of hesitation, carelessness or delay
 conj(hésitation, inattention)
 conj(hésitation, retard)
 ~~~
