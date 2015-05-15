@@ -34,8 +34,46 @@
 
           <h2><code>Number</code>: number</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Number</code>.</p>
+<p>In Slovenian, <code>Number</code> is an inflectional feature of <a href="NOUN">nouns</a> and <a href="PROPN">proper nouns</a>, and other parts of speech (<a href="ADJ">adjectives</a>, <a href="AUX">auxiliaries</a>, <a href="DET">determiners</a>, <a href="NUM">numerals</a>, <a href="PRON">pronouns</a>, <a href="VERB">verbs</a>) that mark agreement with nouns.</p>
+
+<p>Slovenian distinguishes three <code>Number</code> values: <code>singular</code>, <code>dual</code> and <code>plural</code>. <a href="u-feat/Number">Plurale tantum</a> and <a href="u-feat/Number">Singulare tantum</a> are not explicitly marked and are tagged as <code>plural</code> or <code>singular</code>, respectively.</p>
+
+<h3 id="sing-singular-number"><code>Sing</code>: singular number</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>kolo</em> “one bicycle”</li>
+  <li><em>en gospod</em> “one gentleman”</li>
+  <li><em>moja pisarna</em> “my office”</li>
+  <li><em>sem</em> “I am”</li>
+</ul>
+
+<h3 id="dual-dual-number"><code>Dual</code>: dual number</h3>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>kolesi</em> “two bicycles”</li>
+  <li><em>dva gospoda</em> “two gentlemen”</li>
+  <li><em>moji pisarni</em> “my two offices”</li>
+  <li><em>sva</em> “we (two) are”</li>
+</ul>
+
+<h3 id="plur-plural-number"><code>Plur</code>: plural number</h3>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>kolesa</em> “two bicycles”</li>
+  <li><em>trije gospodi</em> “three gentlemen”</li>
+  <li><em>moje pisarne</em> “my (three or more) offices”</li>
+  <li><em>smo</em> “we (three or four) are”</li>
+</ul>
+
+<h3 id="conversion-from-jos">Conversion from JOS</h3>
+
+<p>All tokens with feature Number=singular are converted to <code>Number=Sing</code>, all tokens with Number=dual are converted to <code>Number=Dual</code> and all tokens with Number=plural are converted to <code>Number=Plur</code>.</p>
 
 
 <!-- "in other languages" links -->

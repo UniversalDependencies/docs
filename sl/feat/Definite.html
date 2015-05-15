@@ -34,8 +34,35 @@
 
           <h2><code>Definite</code>: definiteness or state</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Definite</code>.</p>
+<p>Definiteness in Slovenian is an inflectional feature of masculine word forms in nominative and accusative singular that distinguishes whether we are talking about something known and concrete, or something general or unknown. It is currently marked on some <a href="ADJ">adjectives</a> and some <a href="DET">determiners</a>.</p>
+
+<h3 id="ind-indefinite"><code>Ind</code>: indefinite</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>rdeč</b> avto</em> “a red car”</li>
+  <li><em><b>dvojen</b> umor</em> “a double homicide”</li>
+  <li><em><b>drug</b> način</em> “another way”</li>
+  <li><em><b>sosedov</b> sin</em> “neighbour’s son”</li>
+</ul>
+
+<h3 id="def-definite"><code>Def</code>: definite</h3>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>rdeči</b> avto</em> “the red car”</li>
+  <li><em><b>dvojni</b> umor</em> “the double homicide”</li>
+  <li><em><b>drugi</b> način</em> “the other way”</li>
+  <li><em><b>slovenski</b> grb</em> “the Slovenian coat-of-arms”</li>
+</ul>
+
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All adjectives and numerals with feature Definiteness=yes are converted to <code>Definite=Def</code> and all adjectives and numerals with feature Definiteness=no are converted to <code>Definite=Ind</code>.</p>
+
+<p>However, note that definiteness has not been sufficiently solved within JOS, as it could also be attributed to other POS categories or category types, such as ordinal written numerals (<em>prvi, drugi, tretji</em>) and pronouns (<em>neki</em>). Consequently, some inconsistencies occur, as different JOS categories are merged into one UD category. For example, JOS-adjective <em>slovenski</em> “Slovenian” has feature <code>Definite=Def</code>, whereas JOS-numeral <em>prvi</em> “the first” does not have any <code>Definite</code> feature, although they are both tagged as UD <code>ADJ</code> and display identical grammatical characteristics.</p>
 
 
 <!-- "in other languages" links -->

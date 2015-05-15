@@ -109,6 +109,10 @@
   <li><em>enojen</em> “single”, <em>dvojen</em> “double”, <em>trojen</em> “triple”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All adjectives are converted to <code>ADJ</code>. In addition to that, some numerals also become <code>ADJ</code>, namely: numerals with Form=letter and Type=ordinal; numeral with Form=letter, Type=ordinal and lemma <em>drug</em>; numerals with Form=letter, Type=special and lemma ending in <em>-en</em>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/ADJ.md" target="#">edit ADJ</a></p>
 
 <p><a id="al-sl-pos/ADP" class="al-dest"></a></p>
@@ -130,6 +134,10 @@
   <li><em>z</em> “with”, <em>med</em> “between”, <em>pred</em> “before”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All prepositions become <code>ADP</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/ADP.md" target="#">edit ADP</a></p>
 
 <p><a id="al-sl-pos/ADV" class="al-dest"></a></p>
@@ -149,6 +157,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>sodeč</em> “judging”, <em>upoštevaje</em> “taking into account”, <em>molče</em> “silently”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All adverbs become <code>ADV</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/ADV.md" target="#">edit ADV</a></p>
 
 <p><a id="al-sl-pos/AUX" class="al-dest"></a></p>
@@ -166,7 +178,7 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>Kam <b>bi</b>.<code>AUX</code> se lahko zatekla.<code>VERB</code>?</em> “Where could she have hidden?”</li>
 </ul>
 
-<h3 id="delimitation">Delimitation</h3>
+<h4 id="delimitation">Delimitation</h4>
 
 <p>Note that in cases, where <em>biti</em> is used independently as a copula or a content verb, it is marked as <a href="VERB">verb</a>:</p>
 
@@ -175,6 +187,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>Za nami <b>je</b>.<code>VERB</code> dolga vrsta.</em> “There is a long queue behind us.”</li>
   <li><em>Vsi smo.<code>AUX</code> <b>bili</b>.<code>VERB</code> zadovoljni.</em> “We were all content.”  </li>
 </ul>
+
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>In ssj500k, all instances of verb <em>biti</em> “to be” have been annotated as Type=auxiliary. To separate the actual auxiliary function from other functions, syntax has to be taken into account. Thus, tokens of <em>biti</em> bearing the dependency relation PPart with a main verb become annotated as `AUX˙.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/AUX_.md" target="#">edit AUX</a></p>
 
@@ -195,6 +211,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>saj</em> “as/since”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All conjunctions with Type=coordinating become <code>CONJ</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/CONJ.md" target="#">edit CONJ</a></p>
 
 <p><a id="al-sl-pos/DET" class="al-dest"></a></p>
@@ -206,9 +226,9 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
 
 <p>The traditional grammar of Slovenian does not define determiners as a separate word class. Instead, words that perform the syntactic function of determiners are either categorizied as adverbs (<em>nekaj</em> “some”, <em>veliko</em> “a lot of”, <em>dovolj</em> “enough of” etc.) or pronouns (<em>ta</em> “this”, <em>ves</em> “all”, <em>moj</em> “my”, <em>vsak</em> “each” etc.), regardless of the fact whether they are used as attributives (<em><b>To</b>.<code>DET</code> besedilo je nerazumljivo.</em> “This text is incomprehensible.”) or substantives (<em><b>To</b>.<code>PRON</code> sem že slišal.</em> “I have heard this before.”).  </p>
 
-<h3 id="conversion-from-jos-tagset">Conversion from JOS tagset</h3>
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
 
-<p>Since JOS morphosyntactic specifications do not distinguish substantive and attributive pronouns or quantifying and other adverbs, the conversion was done based on syntactic information. The pronouns modifying a noun have thus been marked as <code>DET</code>, otherwise they were marked as <a href="PRON">PRON</a>. Similarly, the list of adverbs modifying a noun was manually validated to define a closed set of quantifying adverbs marked as <code>DET</code>. </p>
+<p>Since JOS morphosyntactic specifications do not distinguish substantive and attributive pronouns or quantifying and other adverbs, the conversion is done based on syntactic information. The pronouns modifying a noun are thus marked as <code>DET</code>, otherwise they are marked as <a href="PRON">PRON</a>. Similarly, the list of adverbs modifying a noun was manually validated to define a closed set of quantifying adverbs marked as <code>DET</code>. </p>
 
 <h3 id="examples">Examples</h3>
 
@@ -243,6 +263,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>jebemti</em>, <em>bravo</em>, <em>ups</em></li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS.</h4>
+
+<p>All interjections become <code>INTJ</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/INTJ.md" target="#">edit INTJ</a></p>
 
 <p><a id="al-sl-pos/NOUN" class="al-dest"></a></p>
@@ -262,6 +286,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>država</em> “country”, <em>stran</em> “page”, <em>ura</em> “hour”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>Nouns with Type=common are converted to <code>NOUN</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/NOUN.md" target="#">edit NOUN</a></p>
 
 <p><a id="al-sl-pos/NUM" class="al-dest"></a></p>
@@ -273,7 +301,7 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
 
 <p>The <code>NUM</code> tag is used for digit numerals (<em>3 / 3.</em>), roman numerals (<em>III / III.</em>), cardinal word numerals (<em>tri</em> “three”) and generic numerals (<em>troje</em> “three sets of”).</p>
 
-<p>Other word types expressing a number or a relation to a number in Slovenian are marked as <a href="ADJ">adjectives</a> (<em>tretji</em> “the third”, <em>trojen</em> “triple”), <a href="ADV">adverbs</a> (<em>trikrat</em> “three times”, <em>tretjič</em> “the third time”) or <a href="NOUN">nouns</a> (<em>tretjina</em> “a third”, <em>trojica</em> “triplet”, <em>trojka</em> “number three”). </p>
+<p>Other word types expressing a number or a relation to a number in Slovenian are marked as <a href="ADJ">adjectives</a> (<em>tretji</em> “the third”, <em>trojen</em> “triple”, <em>trikraten</em> “threefold”), <a href="ADV">adverbs</a> (<em>trikrat</em> “three times”, <em>tretjič</em> “the third time”) or <a href="NOUN">nouns</a> (<em>tretjina</em> “a third”, <em>trojica</em> “triplet”, <em>trojka</em> “number three”). </p>
 
 <h3 id="examples">Examples</h3>
 
@@ -285,6 +313,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>en</em> “one”, <em>dva</em> “two”, <em>tri</em> “three”</li>
   <li><em>enoje</em> “one set of”, <em>dvoje</em> “two sets of”, <em>troje</em> “three sets of”</li>
 </ul>
+
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>The following numerals are converted to <code>NUM</code>: numerals with Form=digit; numerals with Form=roman; numerals with Form=letter and Type=cardinal; numeral with Form=letter, Type=pronominal and lemma <em>en</em> or <em>eden</em>; and numerals with Form=letter, Type=special and lemma not ending in <em>-en</em>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/NUM.md" target="#">edit NUM</a></p>
 
@@ -314,6 +346,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>seveda</em> “of course”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All particles are converted to <code>PART</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/PART.md" target="#">edit PART</a></p>
 
 <p><a id="al-sl-pos/PRON" class="al-dest"></a></p>
@@ -339,9 +375,9 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>nekaj</em> “something”, <em>nekdo</em> “somebody”, <em>malokdo</em> “not a lot of people”</li>
 </ul>
 
-<h3 id="conversion-from-ssj500k">Conversion from ssj500k</h3>
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
 
-<p>All tokens annotated as pronouns within the JOS annotation scheme have been converted to <code>PRON</code>, except for those pronouns that appear as attributes to nouns, which have been converted to <code>DET</code>.</p>
+<p>All pronouns are converted to <code>PRON</code>, except for pronouns that function as attributes to nouns (through Attr dependency relation), which are converted to <code>DET</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/PRON.md" target="#">edit PRON</a></p>
 
@@ -363,6 +399,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>Krka</em> (name of river and company)</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All nouns with Type=proper are converted to <code>NPROP</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/PROPN.md" target="#">edit PROPN</a></p>
 
 <p><a id="al-sl-pos/PUNCT" class="al-dest"></a></p>
@@ -383,7 +423,7 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li>• * —</li>
 </ul>
 
-<h3 id="conversion-from-jos-tagset">Conversion from JOS tagset</h3>
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
 
 <p>The list of characters in ssj500k treebank has been manually divided into subgroups of <code>PUNCT</code> and <a href="SYM">SYM</a>. Note that some characters display characteristics of both POS categories, such as asterisk or dash-like characters that can either function as mathematical operators (<code>SYM</code>) or bullets in itemized lists (<code>PUNCT</code>). In case of such ambiguity, the more common function was chosen. </p>
 
@@ -410,6 +450,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>kakor</em> “as”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All conjunctions with Type=subordinate are converted to <code>SCONJ</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/SCONJ.md" target="#">edit SCONJ</a></p>
 
 <p><a id="al-sl-pos/SYM" class="al-dest"></a></p>
@@ -429,7 +473,7 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>+, ×, =, &lt;, &gt;</em></li>
 </ul>
 
-<h3 id="conversion-from-jos-tagset">Conversion from JOS tagset</h3>
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
 
 <p>The list of characters in ssj500k treebank has been manually divided into subgroups of <code>PUNCT</code> and <code>SYM</code>. Note that some characters display characteristics of both POS categories, such as asterisk or dash-like characters that can either function as mathematical operators (<code>SYM</code>) or bullets in itemized lists (<code>PUNCT</code>). In case of such ambiguity, the more common function was chosen. </p>
 
@@ -454,6 +498,10 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
   <li><em>začeti</em> “to start,  <em>iti</em> “to go”, <em>priti</em> “to come”</li>
 </ul>
 
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All verbs with Type=main have been converted to <code>VERB</code>. Additionally, those instances of verb <em>biti</em> with Type=auxiliary that do not bear the PPart dependency relation to a main verb have also been converted to <code>VERB</code>.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/VERB.md" target="#">edit VERB</a></p>
 
 <p><a id="al-sl-pos/X" class="al-dest"></a></p>
@@ -463,9 +511,13 @@ direction or manner, e.g. <em><b>znova</b> začutiti</em> “feel again” or <e
 
 <p>The <code>X</code> tag is used for words that for some reason cannot be assigned a real part-of-speech category.</p>
 
-<p>In Slovenian UD Treebank, this tag is mostly used for cases of code-switching where it was not meaningul to analyze the intervining language, such as <em><b>Europe of knowledge</b></em>, <b>La connaissance de soi</b>, <b>Bundesvereinigung det Deutschen Arbeitgeberverbände</b>. In cases where foreign-language sequences include both foreign and loan words, only foreign words are assigned the <code>X</code> tag, as in <em><b>The</b> Life <b>of</b> Brian</em>, where both <em>Life</em> and <em>Brian</em> are marked as <a href="">NOUN</a> and <a href="">PROPN</a> respectively.</p>
+<p>In Slovenian UD Treebank, this tag is mostly used for cases of code-switching where it was not meaningful to analyze the intervening language, such as <em><b>Europe of knowledge</b>, <b>La connaissance de soi</b>, <b>Bundesvereinigung det Deutschen Arbeitgeberverbände</b></em>. In cases where foreign-language sequences include both foreign and loan words, only foreign words are assigned the <code>X</code> tag, as in <em><b>The</b> Life <b>of</b> Brian</em>, where both <em>Life</em> and <em>Brian</em> are marked as <a href="">NOUN</a> and <a href="">PROPN</a> respectively.</p>
 
 <p>Other subcategories marked with <code>X</code> include abbreviations with dots (<em>dr.</em>), URL addresses (<em>www.radenska.si</em>), news author abbreviations (<em>sta</em>) and tokens with alpha-numerical combinations (<em>6230i</em>).</p>
+
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
+
+<p>All tokens with tag Residual are converted to <code>X</code>. Additionally, all abreviations are also converted to <code>X</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-pos/X.md" target="#">edit X</a></p>
 

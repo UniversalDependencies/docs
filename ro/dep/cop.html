@@ -34,8 +34,31 @@
 
           <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the complement of a copular verb and the copular verb <code>a fi</code> (only). (We normally take a copula as a dependent of its complement.)</p>
+
+<pre><code class="language-sdparse">Maria este fericită . \n Maria is happy .
+cop(fericită, este)
+</code></pre>
+
+<p>All other copula verbs are heads of clauses and their complements are in <code>xcomp</code> relation to them:</p>
+
+<pre><code class="language-sdparse">Maria a devenit designer . \n Mary has become designer .
+xcomp(devenit, designer)
+</code></pre>
+
+<p>When the copula verb has auxiliaries, they are also dependents of the lexical predicate:</p>
+
+<pre><code class="language-sdparse">Maria va fi campioană . \n Mary will be champion .
+cop(campioană, fi)
+aux(campioană, va)
+</code></pre>
+
+<p>When the complement of the copula verb <code>a fi</code> is a clause, the copula is the head, and the subordinate clause is in <code>ccomp</code> relation with it:</p>
+
+<pre><code class="language-sdparse">ROOT Noi suntem cum ne știi . \n We are how us know-you .
+root(ROOT, suntem)
+ccomp(suntem, știi)
+</code></pre>
 
 
 <!-- "in other languages" links -->

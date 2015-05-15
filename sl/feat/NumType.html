@@ -34,8 +34,51 @@
 
           <h2><code>NumType</code>: numeral type</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>NumType</code>.</p>
+<p>In Slovenian UD Treebank, <code>NumType</code> is a lexical feature of <a href="NUM">numerals</a> and some <a href="ADJ">adjectives</a> that denote counting by numbers.</p>
+
+<h3 id="card-cardinal-number"><code>Card</code>: cardinal number</h3>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em>en, dva, tri</em> “one, two, three”</li>
+  <li><em>1, 2, 3</em></li>
+  <li><em>I, II, III</em></li>
+</ul>
+
+<h3 id="ord-ordinal-number"><code>Ord</code>: ordinal number</h3>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em>prvi, drugi, tretji</em> “first, second, third”</li>
+  <li><em>1., 2., 3.</em></li>
+  <li><em>I., II., III.</em></li>
+</ul>
+
+<h3 id="sets-number-of-sets-of-things"><code>Sets</code>: number of sets of things</h3>
+
+<p>Numerals used to count sets of things or nouns that are pluralia tantum.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>enoj, dvoj, troj</em> “one-fold, two-fold, three-fold”</li>
+</ul>
+
+<h3 id="gen-generic-numeral-ie-a-numeral-that-is-neither-of-the-above"><code>Gen</code>: generic numeral, i.e. a numeral that is neither of the above</h3>
+
+<h4 id="examples-3">Examples</h4>
+
+<ul>
+  <li><em>enojen, dvojen, trojen</em> “single, double, triple”</li>
+</ul>
+
+<h3 id="conversion-from-jos">Conversion from JOS</h3>
+
+<p>All numerals with Type=cardinal are converted to <code>NumType=Card</code> and all numerals with Type=ordinal are converted to <code>NumType=Ord</code>. Numerals with Type=pronominal are either converted to <code>NumType=Card</code> (lemmas <em>en</em> and <em>eden</em>) or to <code>NumType=Ord</code> (lemma <em>drug</em>). Numerals with Type=special are either converted to <code>NumType=Sets</code> (lemmas not ending in <em>-en</em>) or to <code>NumType=Gen</code> (lemmas ending in <em>-en</em>).</p>
+
+<p>Note that other types of quantifying words have not been explicitly marked in JOS, so assigning these and other <code>NumType</code> values to other words or part-of-speech categories, such as adjectives (<em>enkraten, dvakraten, trikraten</em>), adverbs (<em>enkrat, dvakrat, trikrat</em>; <em>prvič, drugič, tretjič</em>), determiners (<em>veliko, malo, nekaj, koliko</em>) and nouns (<em>tretjina, polovica, četrtina</em>), remains for future work.</p>
 
 
 <!-- "in other languages" links -->

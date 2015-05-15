@@ -291,6 +291,23 @@ advcl(know, suggestions)
 
 <p>The labels <code>mark</code>, <code>aux</code>, <code>auxpass</code> and <code>cop</code> are used for function words that attach to predicates. While in some linguistic theories these are argued to be heads of constituents, in UD they are demoted to dependents of lexical heads, in line with the principle of primacy of content words.</p>
 
+<p>These function words do not normally have dependents, but there are exceptions. They may have word-level dependents; they may also be coordinated (on the surface, due to VP-ellipsis), and have conjunction and conjunct dependents.</p>
+
+<pre><code class="language-sdparse">We can and will get to the bottom of this .
+aux(get, can)
+cc(can, and)
+conj(can, will)
+</code></pre>
+
+<p>Unfortunately, not all conjunctions of function words attaching to predicates lend themselves of this analysis, which leads to a lack of parallelism across some constructions. In the following example, the first conjunct receives a promotion-by-head-ellision treatment.</p>
+
+<pre><code class="language-sdparse">-ROOT- This change has been and will be taken to provide focus for the project .
+root(-ROOT-, has)
+auxpass(has, been)
+cc(has, and)
+conj(has, taken)
+</code></pre>
+
 <h4 id="complementizers-subordinating-conjunctions-and-the-infinitival-marker">Complementizers, subordinating conjunctions and the infinitival marker</h4>
 
 <p>In English, the label <code>mark</code> applies uniformly to complementizers, subordinating conjunctions and the infinitival marker.</p>
@@ -512,23 +529,145 @@ neg(information, no)
 
 <h4 id="clausal-modifiers-of-nouns">Clausal modifiers of nouns</h4>
 
-<p>Relative clauses are the canonical case of clausal modifiers of nouns, and they receive a special language-specific label, <code>acl:relcl</code>.</p>
+<p>Relative clauses are the canonical case of clausal modifiers of nouns, and they receive a special language-specific label, <code>acl:relcl</code>. In these clauses, the relative pronoun is analyzed in the function it takes in the lower clause, as illustrated here by <em>that</em>, labeled <code>nsubj</code>, and <em>which</em>, labeled <code>nmod</code>.</p>
 
-<pre><code class="language-sdparse">
+<pre><code class="language-sdparse">These links present the many viewpoints that existed .
+acl:relcl(viewpoints, existed)
+nsubj(existed, that)
 </code></pre>
 
-<p>This label applies only to full relative clauses; reduced relative clauses are typed <code>acl</code>.</p>
+<pre><code class="language-sdparse">Archibald says the frequency with which the subject was discussed was off-putting .
+acl:relcl(frequency, discussed)
+nmod(discussed, which)
+case(which, with)
+</code></pre>
+
+<p>The <code>acl:relcl</code> relation is also used in free relatives, which are discussed in [](### Free relatives).</p>
+
+<p>Relatives clauses are not, however, the only type of clausal modifiers of nouns. For one example, reduced relative clauses are not typed <code>acl:relcl</code>, but rather <code>acl</code>.</p>
+
+<pre><code class="language-sdparse">There are many online sites offering booking facilities .
+acl(hotels, offering)
+</code></pre>
+
+<pre><code class="language-sdparse">I have a parakeet named cookie .
+acl(parakeet, named)
+</code></pre>
+
+<p>Additionally, many optional clausal dependents on nominals receive the <code>acl</code> label.</p>
+
+<pre><code class="language-sdparse">These are the issues as I see them .
+acl(issues, see)
+</code></pre>
+
+<pre><code class="language-sdparse">I just want a simple way to get my discount .
+acl(way, get)
+</code></pre>
 
 <pre><code class="language-sdparse">
 </code></pre>
 
 <h4 id="quantifier-phrases">Quantifier phrases</h4>
 
+<p>The notion of <em>quantifier phrase</em> is applied loosely here to a variety of structures that modify nominals. The simplest type is probably simple numerical adjectives, which are labeled <code>nummod</code>.</p>
+
+<pre><code class="language-sdparse">I don 't want to spend more than 20 dollars .
+nummod(dollars, 20)
+</code></pre>
+
+<p>Often some form of modification is applied to these numerical dependents, in the form of expressions such as <em>more than</em> (which is considered a multiword expression), <em>about</em>, <em>over</em>. These are analyzed as dependents of the numerical modifier, forming a complex quantifier phrase.</p>
+
+<pre><code class="language-sdparse">I don 't want to spend more than 20 dollars .
+nummod(dollars, 20)
+advmod(20, more)
+mwe(more, than)
+</code></pre>
+
+<p>Ranges are also treated as numerical dependents. Note that in this case the dash <em>-</em> is represented as a preposition, because it is a functional equivalent of <em>to</em> (as becomes clear from the fact that it is normally read that way).</p>
+
+<pre><code class="language-sdparse">In just 2 - 3 focused lessons, you will be ready .
+nummod(lessons, 2)
+nmod(2, 3)
+case(3,-)
+</code></pre>
+
 <h2 id="beyond-the-clause">Beyond the clause</h2>
+
+<p>Beyond core clausal structures, there are many linguistic constructions, usually with discourse functions, that need to be represented in a complete dependency tree. Additionally, complex structures such as coordination and juxtaposition of structures in the same ortographical sentence need to be analyzed. Finally, written communication includes a wealth of information that is structured by rules that exist at the fringes of (or perhaps outside) the grammar of a language. In order to provide a complete representation, we integrate even that information into syntax trees, leading to some special dependency labels, and some peculiar annotation conventions.</p>
 
 <h3 id="discourse-level-dependents">Discourse-level dependents</h3>
 
+<p>UD introduces two special relations for discourse-level dependents: <code>discourse</code>, which is used to type a limited range of discourse markers, and the informatively named <code>vocative</code>, which is used for vocatives. These always attach to predicates, not because they modify them directly, but to express the fact that they have the highest-possible level of attachment.</p>
+
+<pre><code class="language-sdparse">Malach , what say makes sense .
+vocative(Malach, makes)
+</code></pre>
+
+<pre><code class="language-sdparse">Okay , it 's partly about strippers .
+discourse(strippers, Okay)
+</code></pre>
+
+<pre><code class="language-sdparse">Morcillas is coagulated blood from animals , ewww .
+discourse(blood, ewww)
+</code></pre>
+
+<pre><code class="language-sdparse">Can somebody please list ALL the food ?
+discourse(list, please)
+</code></pre>
+
+<pre><code class="language-sdparse">Of course you can .
+discourse(can, Of)
+mwe(Of, course)
+</code></pre>
+
 <h3 id="coordination-and-loose-joining">Coordination and loose joining</h3>
+
+<p>Coordination is, in a sense, below as well as beyond the clause, since it can occur at any level. But that property is exactly what distinguishes it, and justifies placing it outside of core clausal syntax.</p>
+
+<p>The difficulty of representing coordination, which is symmetrical, with an inherently-asymmetric dependency representation is well-known. UD makes no attempt to disguise this, and adopts first conjuncts, by convention, as the heads of coordinated phrases. Any other conjuncts and conjunctions are attached to that first conjunct.</p>
+
+<pre><code class="language-sdparse">The elated bride and groom danced and sang songs .
+cc(bride, and)
+conj(bride, groom)
+cc(danced, and)
+conj(danced, sang)
+amod(bride, excited)
+dobj(sang, songs)
+</code></pre>
+
+<p>This creates some ambiguities: it is not possible to tell, from the representation alone, whether <em>elated</em> modified <em>bride</em> only, or <em>bride and groom</em>. Conversely, it is clear that <em>songs</em> is an object only of <em>sang</em>, since it attaches to that verb directly rather than to the head of the conjunction, which is <em>danced</em>. A change in the ordering of these constituents can introduce that ambiguity.</p>
+
+<pre><code class="language-sdparse">The excited bride and groom sang songs and danced .
+cc(sang, and)
+conj(sang, danced)
+dobj(sang, songs)
+</code></pre>
+
+<p>Another (much less frequent) difficulty is the representation of nested coordinations, which is not always possible. In the following example, the heterogeneous coordination of <em>incarcerated</em>, <em>on probation</em> and <em>on parole</em> forms a complex predicate for the first verbal phrase in this sentence. That first VP is then itself coordinated with <em>once were in one of those categories</em>. The fact that there are two levels of coordination does not come through in the UD representation.</p>
+
+<pre><code class="language-sdparse">Approximately 10 million Americans are incarcerated , on probation , on parole , or once were in one of those categories ?
+cop(incarcerated, are)
+conj(incarcerated, probation)
+conj(incarcerated, parole)
+conj(incarcerated, one)
+cop(were, one)
+nmod(one, categories)
+</code></pre>
+
+<p>The auxiliaries <em>have</em> and <em>be</em> occasionally appear outside of coordinated predicates having a different function with respect to each predicate, as shown below. In such cases, we annotate the verb only as a dependent of the first conjunct.</p>
+
+<pre><code class="language-sdparse">The toilet seat was peeling and rough .
+conj(peeling, rough)
+cc(peeling, and)
+nsubj(peeling, seat)
+aux(peeling, was)
+</code></pre>
+
+<p>In this sentence, <em>was</em> is also a <code>cop</code> dependent of <em>rough</em>, but that edge is not represented.</p>
+
+<h4 id="conjunctions">Conjunctions</h4>
+
+<h4 id="loose-joining-parataxis-and-list">Loose joining: parataxis and list</h4>
 
 <h3 id="special-annotation-conventions">Special annotation conventions</h3>
 
@@ -547,6 +686,8 @@ neg(information, no)
 <h3 id="tough-movement"><em>Tough</em>-movement</h3>
 
 <h3 id="comparatives">Comparatives</h3>
+
+<h3 id="free-relatives">Free relatives</h3>
 
 
       </div>

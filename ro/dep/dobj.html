@@ -34,8 +34,29 @@
 
           <h2><code>dobj</code>: direct object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dobj</code>.</p>
+<p>The direct object of a verb is the noun phrase that denotes the entity acted upon. </p>
+
+<pre><code class="language-sdparse">Citesc o carte . \n Read-I a book .
+dobj(Citesc, carte)
+</code></pre>
+
+<pre><code class="language-sdparse">O văd . \n Her see-I .
+dobj(văd, O)
+</code></pre>
+
+<p>When the direct object is doubled by a pronoun, this is marked as <code>expl</code>. </p>
+
+<pre><code class="language-sdparse">O văd pe Mara . \n Her see-I PE Mara .
+dobj(văd, Mara)
+expl(văd, O)
+</code></pre>
+
+<p>Romanian allows for the occurrence of two Accusative objects with some (uses of certain) verbs: the [+Animate] object (the direct object in traditional grammar terms) is anlysed here as <code>iobj</code>, while the other Accusative object (the secondary object in traditional grammar terms) is <code>dobj</code>:</p>
+
+<pre><code class="language-sdparse">Bunica i-a învățat pe copii o poezie . \n Grandmother-the them-has taught PE children a poem .
+dobj(învățat, poezie)
+iobj(învățat, copii)
+</code></pre>
 
 
 <!-- "in other languages" links -->

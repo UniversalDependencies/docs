@@ -286,88 +286,215 @@ amod(persoană, timidă)
 <p><a id="al-ro-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>appos</code>.</p>
+<p>An appositional modifier serves to identify its head in a different way. This relation is usually established between noun phrases.</p>
+
+<pre><code class="language-sdparse">Am plecat cu Alexandru , vărul meu . \n Have-I left with Alexandru , cousin-the my . 
+appos(Alexandru, vărul)
+</code></pre>
+
+<p>However, other parts of speech and even clauses can also be involved in the relation:</p>
+
+<pre><code class="language-sdparse">Gustul fructului era ciudat , adică dulce-amărui . \n  . Taste-the fruit-the-of was strange , that_is sweet-bitter .
+appos(ciudat, dulce-amărui)
+</code></pre>
+
+<pre><code class="language-sdparse">Ne-am întâlnit aici , unde am stabilit . \n Us-have met here , where have-we established .
+appos(aici, stabilit)
+</code></pre>
+
+<p>The apposition can be introduced by an adverb (e.g. ‘adică’, ‘anume’, ‘respectiv’, ‘alias’, etc.), which is analysed as a ‘mark’ for the apposotion:</p>
+
+<pre><code class="language-sdparse">A reușind muncind , adică asudând . \n Has succeeded working , that_is sweating .
+appos(muncind, asudând)
+mark(asudând, adică)
+</code></pre>
+
+<p>It includes parenthesized examples, as well as defining abbreviations in one of these structures.</p>
+
+<pre><code class="language-sdparse">Venerabilul ( adică eu ) merge diseară la întrunire . \n Honorable-the ( that_is I ) goes tonight at meeting. 
+appos(Venerabilul, eu)
+</code></pre>
+
+<pre><code class="language-sdparse">Banca Comercială Română ( BCR ) \n Bank-the Commercial Romanian ( BCR )  
+appos(Banca, BCR)
+</code></pre>
+
+<p>‘appos’ is also used to link key-value pairs in addresses, signatures, etc.:</p>
+
+<pre><code class="language-sdparse">Ana Ionescu , Str Rozelor , tel : 0245.756.547 , email : ana@yahoo.com
+name(Ana, Ionescu)
+list(Ana, Str)
+appos(Str, Rozelor)
+list(Ana, tel)
+appos(tel, 0245.756.547)
+list(Ana, email)
+appos(email, ana@yahoo.com)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/appos.md" target="#">edit appos</a></p>
 
 <p><a id="al-ro-dep/aux" class="al-dest"></a></p>
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>aux</code>.</p>
+<p>An auxiliary of a clause is a non-main verb of the clause.</p>
+
+<pre><code class="language-sdparse">Aș vrea o portocală . \n Would-I want an orange . 
+aux(vrea, Aș)
+</code></pre>
+
+<p>Exception: The auxiliary verb used to construct the passive voice is not labeled ‘aux’, but ‘auxpass’.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/aux_.md" target="#">edit aux</a></p>
 
 <p><a id="al-ro-dep/auxpass" class="al-dest"></a></p>
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>A passive auxiliary of a clause is a non-main verb of the clause which contains the passive information.</p>
+
+<pre><code class="language-sdparse">A fost spânzurat . \n Has been hanged . 
+auxpass(spânzurat, fost)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/auxpass.md" target="#">edit auxpass</a></p>
 
 <p><a id="al-ro-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p>The <code>case</code> relation is used for linking prepositions to their heads:</p>
+
+<pre><code class="language-sdparse">O văd pe Maria . \n Her see-I PE Mary . (I can see Mary.)
+case(Maria, pe)
+</code></pre>
+
+<pre><code class="language-sdparse">Pun cartea pe masă . \n Put-I book-the on table .
+case(masă, pe)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/case.md" target="#">edit case</a></p>
 
 <p><a id="al-ro-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cc</code>.</p>
+<p>A <code>cc</code> is the relation between the first conjunct and the coordinating conjunction delimiting another conjunct:</p>
+
+<pre><code class="language-sdparse">Maria și Ion tocmai au sosit . \n Mary and John just have arrived .
+cc(Maria, și)
+</code></pre>
+
+<p>A coordinating conjunction may also appear at the beginning of a sentence. This is also called a <code>cc</code>, and it depends on the root predicate of the sentence. (In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.)</p>
+
+<pre><code class="language-sdparse">Și au salutat gazda . \n And have greeted host-the
+cc(salutat, Și)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/cc.md" target="#">edit cc</a></p>
 
 <p><a id="al-ro-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective.
+Such clausal complements may be finite or nonfinite. </p>
+
+<pre><code class="language-sdparse">Înțeleg că ești obosit . \n Understand-I that are-you tired .
+ccomp(Înțeleg, obosit)
+</code></pre>
+
+<pre><code class="language-sdparse">Noi putem schia . \n We can ski .
+ccomp(putem, schia)
+</code></pre>
+
+<p>The clausal predicative of the copula verb <code>a fi</code> is also analysed as ccomp. NB: This is the only case when the copula verb <code>a fi</code> is treated as a head.</p>
+
+<pre><code class="language-sdparse">ROOT Noi suntem cum ne știi . \n We are how us know-you .
+root(ROOT, suntem)
+ccomp(suntem, știi)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/ccomp.md" target="#">edit ccomp</a></p>
 
 <p><a id="al-ro-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p><code>compound</code> is used for linking compound words of any part of speech:</p>
+
+<pre><code class="language-sdparse">Am patru mii de lei . \n Have-I four thousand of lei .
+compound(mii, patru)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/compound.md" target="#">edit compound</a></p>
 
 <p><a id="al-ro-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>A conjunct is the relation between two elements connected by a coordinating conjunction, such as and, or, etc. We treat conjunctions asymmetrically: the head of the relation is the first conjunct and all the other conjuncts depend on it via the conj relation.</p>
+
+<pre><code class="language-sdparse">Ion și Maria au sosit . \n John and Mary have arrived .
+conj(Ion, Maria)
+</code></pre>
+
+<p>Coordinate clauses are treated the same way as coordination of other constituent types:</p>
+
+<p>~~~ sdparse
+Ion a sosit , dar Maria întârzie . \n John has arrived , but Mary is_late .
+conj(sosit, întârzie)
+~~~ sdparse</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/conj.md" target="#">edit conj</a></p>
 
 <p><a id="al-ro-dep/cop" class="al-dest"></a></p>
 <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the complement of a copular verb and the copular verb <code>a fi</code> (only). (We normally take a copula as a dependent of its complement.)</p>
+
+<pre><code class="language-sdparse">Maria este fericită . \n Maria is happy .
+cop(fericită, este)
+</code></pre>
+
+<p>All other copula verbs are heads of clauses and their complements are in <code>xcomp</code> relation to them:</p>
+
+<pre><code class="language-sdparse">Maria a devenit designer . \n Mary has become designer .
+xcomp(devenit, designer)
+</code></pre>
+
+<p>When the copula verb has auxiliaries, they are also dependents of the lexical predicate:</p>
+
+<pre><code class="language-sdparse">Maria va fi campioană . \n Mary will be champion .
+cop(campioană, fi)
+aux(campioană, va)
+</code></pre>
+
+<p>When the complement of the copula verb <code>a fi</code> is a clause, the copula is the head, and the subordinate clause is in <code>ccomp</code> relation with it:</p>
+
+<pre><code class="language-sdparse">ROOT Noi suntem cum ne știi . \n We are how us know-you .
+root(ROOT, suntem)
+ccomp(suntem, știi)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/cop.md" target="#">edit cop</a></p>
 
 <p><a id="al-ro-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. </p>
+
+<pre><code class="language-sdparse">Cine aleargă după doi iepuri nu prinde nici_unul . \n Who runs after two rabbits not catches none .
+csubj(prinde, aleargă)
+</code></pre>
+
+<pre><code class="language-sdparse">A greși e omenesc . \n To err is human .
+csubj(omenesc, greși)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/csubj.md" target="#">edit csubj</a></p>
 
 <p><a id="al-ro-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubjpass</code>.</p>
+<p>A clausal passive subject is a clausal syntactic subject of a passive clause:</p>
+
+<pre><code class="language-sdparse">Cine a încălcat legea a fost pedepsit de instanță . \n Who has broken law-the has been punished by court .
+csubjpass(pedepsit, încălcat)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
@@ -382,8 +509,15 @@ for <code>dep</code>.</p>
 <p><a id="al-ro-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>The relation determiner (<code>det</code>) holds between a nominal head and its determiner:</p>
+
+<pre><code class="language-sdparse">Am văzut un okapi . \n Have-I seen an okapi .
+det(okapi, un)
+</code></pre>
+
+<pre><code class="language-sdparse">Spune-i lui Ion . \n Tell-him the-Dative  John.
+det(Ion, lui)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/det.md" target="#">edit det</a></p>
 
@@ -406,16 +540,59 @@ for <code>dislocated</code>.</p>
 <p><a id="al-ro-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dobj</code>.</p>
+<p>The direct object of a verb is the noun phrase that denotes the entity acted upon. </p>
+
+<pre><code class="language-sdparse">Citesc o carte . \n Read-I a book .
+dobj(Citesc, carte)
+</code></pre>
+
+<pre><code class="language-sdparse">O văd . \n Her see-I .
+dobj(văd, O)
+</code></pre>
+
+<p>When the direct object is doubled by a pronoun, this is marked as <code>expl</code>. </p>
+
+<pre><code class="language-sdparse">O văd pe Mara . \n Her see-I PE Mara .
+dobj(văd, Mara)
+expl(văd, O)
+</code></pre>
+
+<p>Romanian allows for the occurrence of two Accusative objects with some (uses of certain) verbs: the [+Animate] object (the direct object in traditional grammar terms) is anlysed here as <code>iobj</code>, while the other Accusative object (the secondary object in traditional grammar terms) is <code>dobj</code>:</p>
+
+<pre><code class="language-sdparse">Bunica i-a învățat pe copii o poezie . \n Grandmother-the them-has taught PE children a poem .
+dobj(învățat, poezie)
+iobj(învățat, copii)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/dobj.md" target="#">edit dobj</a></p>
 
 <p><a id="al-ro-dep/expl" class="al-dest"></a></p>
 <h2><code>expl</code>: expletive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>expl</code>.</p>
+<p>Romanian does not have expletives of the English sort.
+However, we use the <code>expl</code> label for the following situations:
+- clitic doubling:</p>
+
+<pre><code class="language-sdparse">O văd pe Mara . \n Her see-I PE Mara .
+dobj(văd, Mara)
+expl(văd, O)
+</code></pre>
+
+<ul>
+  <li>non-referential use of pronouns:</li>
+</ul>
+
+<pre><code class="language-sdparse">Am apucat-o la stânga . \n Have-I turned-her to left .
+expl(apucat, o)
+</code></pre>
+
+<ul>
+  <li>expletive negation:</li>
+</ul>
+
+<pre><code class="language-sdparse">Cine nu știe că Pământul se învârtește în jurul Soarelui ? \n Who not knows that Earth-the SE spins around Sun-the ?
+expl(știe, nu)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/expl.md" target="#">edit expl</a></p>
 

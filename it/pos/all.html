@@ -342,7 +342,7 @@ are expressed as words <em>(four)</em>, or digits <em>(4)</em>.</p>
 
 <p>There are numerals belonging to other parts of speech in the universal
 tagging scheme, based mainly on syntactic criteria: e.g. ordinal numerals
-are tagged as <a href="ADJ">adjectives</a> <em>(first, second, third, …)</em>. 
+are tagged as <a href="ADJ">adjectives</a> or <a href="PRON">pronouns</a> <em>(first, second, third, …)</em>. 
 In Italian there are no adverbial numerals like [cs] <em>poprvé</em> “for the first time” nor multiplicative numerals such as [en] <em>(once, twice)</em>.</p>
 
 <p>Note that, since Roman numerals <em>(IV)</em> are only used as ordinal numerals in Italian (Enciclopedia Treccani), are tagged <a href="">ADJ</a> for coherence with other ordinal numerals. 
@@ -367,6 +367,12 @@ A similar treatment is reserved to a cardinal with a suffix such as <em>a</em>, 
   <li><em>48esimo</em></li>
   <li><em>primo</em>, <em>secondo</em>, <em>ultima</em></li>
   <li><em>20°</em></li>
+</ul>
+
+<p>Tagged as <a href="">PRON</a>:</p>
+
+<ul>
+  <li><em>il terzo ad arrivare</em> “the third to arrive”</li>
 </ul>
 
 <h3 id="references">References</h3>
@@ -413,22 +419,22 @@ context.</p>
 <h3 id="correspondance-between-language-specific-pos-and-prontypes">Correspondance between language specific PoS and PronTypes</h3>
 
 <ul>
-  <li>PC (clitic pronouns) -&gt; PronType=Clit</li>
-  <li>PD (demonstrative pronouns) -&gt; PronType=Dem</li>
-  <li>PE (personal pronouns) -&gt; PronType=Prs</li>
-  <li>PI (indefinite pronouns) -&gt; PronType=Ind</li>
+  <li>PC (clitic pronouns) → PronType=Clit</li>
+  <li>PD (demonstrative pronouns) → PronType=Dem</li>
+  <li>PE (personal pronouns) → PronType=Prs</li>
+  <li>PI (indefinite pronouns) → PronType=Ind</li>
   <li>
     <table>
       <tbody>
         <tr>
-          <td>PP (possessive pronouns) -&gt; PronType=Prs</td>
+          <td>PP (possessive pronouns) → PronType=Prs</td>
           <td>Poss=Yes</td>
         </tr>
       </tbody>
     </table>
   </li>
-  <li>PQ (interrogative pronouns) -&gt; PronType=Int</li>
-  <li>PR (relative pronouns) -&gt; PronType=Rel </li>
+  <li>PQ (interrogative pronouns) → PronType=Int</li>
+  <li>PR (relative pronouns) → PronType=Rel </li>
 </ul>
 
 <p>Note: the PronType=Clit feature is specific for Italian.</p>
@@ -437,12 +443,12 @@ context.</p>
 
 <ul>
   <li>clitic pronouns: <em>ci, si, vi, la, lo, gli</em>, including reflexive pronouns</li>
-  <li>demonstrative pronouns: <em>questo, codesto, coloro, medesimo, quello, ciò, _ as in: _<b>Questo</b> è strano</em> “This is strange”</li>
+  <li>demonstrative pronouns: <em>questo, codesto, coloro, medesimo, quello, ciò</em> as in <em><b>Questo</b> è strano</em> “This is strange”</li>
   <li>personal pronouns: <em>io, tu, te, lui, lei, egli, esso, noi, loro</em></li>
   <li>indefinite pronouns: <em>uno, altri, qualcuno, qualcosa, ciascuno</em></li>
   <li>possessive pronouns: <em>mio, suo, loro</em></li>
   <li>interrogative pronouns: <em>chi, che, cosa, quanto, quale</em> as in <em><b>Cosa</b> pensi?</em> “What do you think?”</li>
-  <li>relative pronouns: <em>che, cui, quale</em> as in <em>Il film <b>che</b> ho visto.</em> “The movie that I have seen” (Note, nowever, that some relative clause introducing words, such as <em>che</em> [en] <em>that</em> are better analyzed as subordinating conjunctions (otherwise known as “complementizers” in the literature), and so are tagged as <a href="">SCONJ</a>.)</li>
+  <li>relative pronouns: <em>che, cui, quale</em> as in <em>Il film <b>che</b> ho visto.</em> “The movie that I have seen”</li>
   <li>totality pronouns: <em>tutti, tutto</em></li>
   <li>negative pronouns: <em>nessuno, niente, nulla</em></li>
 </ul>
@@ -527,8 +533,38 @@ status of a (subordinate) clause.</p>
 <p><a id="al-it-pos/SYM" class="al-dest"></a></p>
 <h2><code>SYM</code>: symbol</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>SYM</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>A symbol is a word-like entity that differs from ordinary words by
+form, function, or both.</p>
+
+<p>We recognize as symbols:</p>
+
+<ul>
+  <li>currency symbols: <em>$</em></li>
+  <li>mathematical operators:  <em>µg <b>/</b> m3</em></li>
+  <li>’/’ used a separator: <em>2001 <b>/</b> 923 <b>/</b> CE</em></li>
+  <li>emoticons and emoji: :-)</li>
+  <li>URL’s and emails</li>
+</ul>
+
+<p>The following are not symbols:</p>
+
+<ul>
+  <li>Proper nouns with numbers and special characters: <em>130XE</em>, <em>DC10</em>,  <em>DC-10</em> are tagged <a href="">PROPN</a>.</li>
+  <li>Acronyms for proper nouns:  <em>UN</em>, <em>NATO</em> are tagged as <a href="">PROPN</a>.</li>
+  <li>Abbreviated words: <em>Sig.</em> (signore), <em>kg</em> (chilogrammo), <em>km</em> (chilometro), <em>dott</em> (dottore) are tagged <a href="">NOUN</a>. </li>
+  <li>Characters used as bullets in itemized lists <em>(*, •, ‣)</em> are <a href="">PUNCT</a>.</li>
+</ul>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><em>$, %, §, ©</em></li>
+  <li><em>+, −, ×, ÷, =, &lt;, &gt;</em></li>
+  <li>:), ♥‿♥, 😝</li>
+  <li><em>john.doe@universal.org, http://universaldependencies.github.io/docs/</em></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-pos/SYM.md" target="#">edit SYM</a></p>
 
@@ -561,8 +597,24 @@ for <code>SYM</code>.</p>
 <p><a id="al-it-pos/X" class="al-dest"></a></p>
 <h2><code>X</code>: other</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>X</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>The tag <code>X</code> is used for words that for some reason cannot be assigned
+a real part-of-speech category.</p>
+
+<p>Note that the universal guidelines recommend the usage of <code>X</code> for cases of code-switching where it is not possible (or meaningful) to analyze the intervening language grammatically (and where the dependency relation <em>foreign</em> is
+typically used in the syntactic analysis). The PoS tag for Italian in such cases is SW (foreign noun) and is mapped into <code>X</code> in the conversion.</p>
+
+<p>This usage does not extend to ordinary loan words where it is assigned a normal
+part-of-speech. </p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li><b>tout court</b></li>
+  <li><b>res nullius</b></li>
+  <li><b>pro capite</b></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-pos/X.md" target="#">edit X</a></p>
 

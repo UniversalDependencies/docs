@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>cc</title>
+    <title>Abbr</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -16,9 +16,9 @@
 
       <div id="hp-header">
 	
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-ga">home</a></span>
-          <span class="header-text"><a href="http://universaldependencies.github.io/docs/ga/dep">ga/dep</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/cc.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-sl">home</a></span>
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/sl/feat">sl/feat</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_sl-feat/Abbreviation.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,73 +32,28 @@
 	  </div>
 	</noscript>
 
-          <h2><code>cc</code>: coordinating conjunction</h2>
+          <h2><code>Abbr</code>: abbreviation</h2>
 
-<p>The <code>cc</code> label marks the relation between the first conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of <em>agus</em> “and”, <em>nó</em> “or”, <em>ná</em> “than”.
-UD takes the first conjunct as the head of a coordinated phrase. Note that this differs from the Irish Dependency Treebank structure, where the coordinating conjunction is the head of the cooordinated phrase.</p>
+<p>Abbreviation is a feature of <a href="X">X: other</a> to mark abbreviations ending with a dot.</p>
 
-<p><em>caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile</em> “to establish a relationship between central banks <b>and</b> financial institutions in other countries”.</p>
+<h3 id="yes-it-is-abbreviation">Yes: it is abbreviation</h3>
 
-<pre><code class="language-sdparse">caidreamh a bhunú le bainc cheannais agus le hinstitiúidí airgeadais i dtíortha eile \n to establish a relationship between central banks and financial institutions in other countries
+<ul>
+  <li><em>dr.</em> “doctor”</li>
+  <li><em>npr.</em> “for example”</li>
+  <li><em>itd.</em> “and so on”</li>
+  <li><em>prim.</em> “compare”</li>
+  <li><em>B. O.</em> “Barack Obama”</li>
+</ul>
 
-cc(bainc,agus)
-conj(bainc,hinstitiúidí)
-</code></pre>
+<h4 id="conversion-from-jos">Conversion from JOS</h4>
 
-<p>Coordination of more than two elements is as follows (note there is also embedded coordination within the main coordinated phrase).</p>
-
-<p><em>Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe</em> 
-“Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers”</p>
-
-<pre><code class="language-sdparse">Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe \n Gas that is used in some aerosol cans, in refrigerators and in the making of some plastic cups and containers
-
-cc(cupán,agus)
-conj(agus,coimeádán)
-</code></pre>
+<p>Currently, all abbreviations are converted to <code>X</code> and assigned the <code>Abbr=Yes</code> feature.</p>
 
 
 
 <!-- "in other languages" links -->
 <hr/>
-
-cc in other languages:
-
-[<a href="../../bg/dep/cc.html">bg</a>]
-
-[<a href="../../cs/dep/cc.html">cs</a>]
-
-[<a href="../../de/dep/cc.html">de</a>]
-
-[<a href="../../el/dep/cc.html">el</a>]
-
-[<a href="../../en/dep/cc.html">en</a>]
-
-[<a href="../../es/dep/cc.html">es</a>]
-
-[<a href="../../eu/dep/cc.html">eu</a>]
-
-[<a href="../../fa/dep/cc.html">fa</a>]
-
-[<a href="../../fi/dep/cc.html">fi</a>]
-
-[<a href="../../fr/dep/cc.html">fr</a>]
-
-[<a href="../../ga/dep/cc.html">ga</a>]
-
-[<a href="../../he/dep/cc.html">he</a>]
-
-[<a href="../../hu/dep/cc.html">hu</a>]
-
-[<a href="../../it/dep/cc.html">it</a>]
-
-[<a href="../../ja/dep/cc.html">ja</a>]
-
-[<a href="../../ko/dep/cc.html">ko</a>]
-
-[<a href="../../sv/dep/cc.html">sv</a>]
-
-[<a href="../../u/dep/cc.html">u</a>]
-
 
 
 
@@ -164,7 +119,7 @@ cc in other languages:
         setupTabs();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = 'ga-dep';
+        Collections.listing['_current'] = 'sl-feat';
 
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);

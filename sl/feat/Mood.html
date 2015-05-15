@@ -34,8 +34,47 @@
 
           <h2><code>Mood</code>: mood</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Mood</code>.</p>
+<p>Mood is a feature that expresses modality and subclassifies finite verb forms. It is an inflectional feature of <a href="AUX">auxiliaries</a> and <a href="VERB">verbs</a>.</p>
+
+<h3 id="ind-indicative"><code>Ind</code>: indicative</h3>
+
+<p>The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>Govorim</b> angleško in francosko.</em> “I speak English and French.”</li>
+  <li><em>Proslava <b>bo</b> naslednji petek.</em> “The celebration will take place next Friday.”</li>
+</ul>
+
+<h3 id="imp-imperative"><code>Imp</code>: imperative</h3>
+
+<p>The speaker uses imperative to order or ask the addressee to do the action of the verb.</p>
+
+<h4 id="examples-1">Examples</h4>
+
+<ul>
+  <li><em><b>Pomij</b> posodo!</em> “Wash the dishes.”</li>
+  <li><em><b>Poglejmo</b>, kaj ste naredili.</em> “Let’s have a look at what you have done.”</li>
+  <li><em><b>Pospravite</b> ta nered.</em> “Clean up this mess!”</li>
+</ul>
+
+<h3 id="cnd-conditional"><code>Cnd</code>: conditional</h3>
+
+<p>Generally, the conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Slovenian, present and past conditional are formed using the participle of the content verb and a special conditional form of the <a href="AUX">auxiliary verb</a> <em>biti</em>  “to be”. Thus, only this form is marked as <code>Cnd</code>, regardless of whether it is used to form a conditional or any other type of modality.</p>
+
+<h4 id="examples-2">Examples</h4>
+
+<ul>
+  <li><em>Če bi se več učil, bi naredil izpit.</em> “If I had studied more, I would have passed the exam.”</li>
+  <li><em>Da bi preglasil njihov pogovor, sem prižgal radio.</em> “To drown out their conversation, I turned on the radio.”</li>
+  <li><em>Roparji naj bi pobrali prav vse.</em> “The robbers are supposed to have taken everything.”</li>
+  <li><em>Naslednji petek bi prišli k vam na obisk.</em> “We are thinking of visiting you next Friday.”</li>
+</ul>
+
+<h3 id="conversion-from-jos">Conversion from JOS</h3>
+
+<p>All verbs with VForm=present and VForm=future are converted to <code>Mood=Ind</code>, all verbs with VForm=imperative are converted to <code>Mood=Imp</code> and all verbs with VForm=conditional are converted to <code>Mood=Cnd</code>. The non-finite verb forms (participle, infinitive, supine) do not have any <code>Mood</code>.</p>
 
 
 <!-- "in other languages" links -->

@@ -64,17 +64,16 @@ case(rith, ag)
 
 <h4 id="ownership-state">ownership/ state</h4>
 
-<p>Prepositions are also used in phrasal constructions to denote ownership or a state of being.
-<em>Tá airgead ag na daoine</em> `The people have money’ (lit. Money is at the people)</p>
+<p>Prepositions are also used in phrasal constructions to denote ownership or a state of being.</p>
 
-<p>_Tá airgead <b>ag</b> na daoine ‘The people have money’</p>
+<p><em>Tá airgead <b>ag</b> na daoine</em> ‘The people have money’ (lit. Money is <b>at</b> the people)</p>
 
-<pre><code class="language-sdparse">Tá airgead ag na daoine \n Is pen at the man
-nmod(Tá, bhfear)
-case(bhfear, ag)
+<pre><code class="language-sdparse">Tá airgead ag na daoine \n Is pen at the people
+nmod(Tá, daoine)
+case(daoine, ag)
 </code></pre>
 
-<p><em>Tá brón <b>ar</b> an gcuairteoir</em>  `The visitor is sorry’ (lit. sorrow is on the visitor)</p>
+<p><em>Tá brón <b>ar</b> an gcuairteoir</em>  `The visitor is sorry’ (lit. sorrow is <b>on</b> the visitor)</p>
 
 <pre><code class="language-sdparse">Tá brón ar an gcuairteoir \n Is sorrow on the visitor
 nmod(Tá, gcuairteoir)
@@ -87,7 +86,7 @@ case(gcuairteoir, ar)
 
 <p><em>Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil</em> ‘The people of Cork are very unhappy with Fianna Fáil’</p>
 
-<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna\_Fáil \n Be people Cork very_unhappy with Fianna\_Fáil
+<pre><code class="language-sdparse">Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n Be people Cork very_unhappy with Fianna_Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(Tá, an-mhíshásta)
