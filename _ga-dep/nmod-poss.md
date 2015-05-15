@@ -13,6 +13,8 @@ Irish denotes possession through the use of possessive pronouns:
  * _bhur_ "your" (PL),
  * _a_ "their"
 
+### Example
+
 _Chuir mé ceist ar <b>mo</b> mhúinteoir_ `I asked <b>my</b> teacher a question'
 
 ~~~ sdparse
