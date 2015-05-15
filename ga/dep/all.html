@@ -604,27 +604,30 @@ We use <a href="">csubj:cleft</a> for subjects of cleft constructions.</p>
 <p><a id="al-ga-dep/csubj:cleft" class="al-dest"></a></p>
 <h2><code>csubj:cleft</code>: relative clause modifier</h2>
 
-<p>Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ 
-In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: Nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. </p>
+<p>Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ. 
+In contrast to English, Irish clefts are much less restrictive with regards to the type of element that can be fronted: nouns, prepositional phrases, adverbial phrases, adjectives and verbal nouns. </p>
 
-<p>Nominal fronting
-<em>Is leabhar a thug sí dom</em> ‘It is a book that she gave me’</p>
+<h4 id="nominal-fronting">Nominal fronting</h4>
+
+<p><em>Is leabhar a <b>thug</b> sí dom</em> ‘It is a book that she <b>gave</b> me’</p>
 
 <pre><code class="language-sdparse">Is leabhar a thug sí dom \n is book [] gave she to_me
 csubj:cleft(leabhar, thug)
 cop(leabhar, Is)
 </code></pre>
 
-<p>Adverbial fronting
-<em>Is laistigh de bhliain a déanfar é</em> ‘It is within a year that it will be done’</p>
+<h4 id="adverbial-fronting">Adverbial fronting</h4>
+
+<p><em>Is laistigh de bhliain a <b>déanfar</b> é</em> ‘It is within a year that it <b>will be done</b>’</p>
 
 <pre><code class="language-sdparse">Is laistigh de bhliain a déanfar é \n is within a year [] will_be_done it
 csubj:cleft(laistigh, déanfar)
 cop(laistigh, Is)
 </code></pre>
 
-<p>Prepositional phrase fronting
-<em>Is sa pháirc a chonaic mé é</em> ‘It is in the park that I saw him’</p>
+<h4 id="prepositional-phrase-fronting">Prepositional phrase fronting</h4>
+
+<p><em>Is sa pháirc a <b>chonaic</b> mé é</em> ‘It is in the park that I <b>saw</b> him’</p>
 
 <pre><code class="language-sdparse">Is sa pháirc a chonaic mé é \n is in_the park [] saw I him
 csubj:cleft(pháirc, chonaic)
@@ -669,15 +672,15 @@ csubj:cop(dócha, raibh)
 det(clár, an)
 </code></pre>
 
-<p><em><b>an</b> cláranna</em> ‘<b>the</b> programmes’
-~~~ sdparse
-na cláranna \n the programmes
+<p><em><b>an</b> cláranna</em> ‘<b>the</b> programmes’</p>
+
+<pre><code class="language-sdparse">na cláranna \n the programmes
 det(cláranna, na)
-~~~</p>
+</code></pre>
 
 <p>Two pre-determiners can occur before a noun:</p>
 
-<p>_<b>gach uile</b> ábhar \n <b>every single</b> subject</p>
+<p><em><b>gach uile</b> ábhar</em>  ‘<b>every single</b> subject’</p>
 
 <pre><code class="language-sdparse">gach uile ábhar \n every single subject 
 det(ábhar, gach)
@@ -686,28 +689,28 @@ det(ábhar, uile)
 
 <p>Two determiners can be used each side of a noun: pre-determiners and post-determiners:</p>
 
-<p><em><b>an</b> tuairim <b>sin</b> ‘<b>that</b> opinion’  (_an+sin</em> = ‘that’)</p>
+<p><em><b>an</b> tuairim <b>sin</b></em> ‘<b>that</b> opinion’  (<em>an+sin</em> = ‘that’)</p>
 
 <pre><code class="language-sdparse">an tuairim sin \n the opinion DEM
 det(tuairim, an)
 det(tuairim, sin)
 </code></pre>
 
-<p><b>an</b> leabhar <b>úd</b> ‘<b>that</b> book</p>
+<p><em><b>an</b> leabhar <b>úd</b></em> ‘<b>that</b> book</p>
 
 <pre><code class="language-sdparse">an leabhar úd \n the book DEM
 det(leabhar, an)
 det(leabhar, úd)
 </code></pre>
 
-<p><b>an</b> alt <b>seo</b> ‘<b>this</b> paragraph’</p>
+<p><em><b>an</b> alt <b>seo</b></em> ‘<b>this</b> paragraph’</p>
 
 <pre><code class="language-sdparse">an alt seo \n the paragraph DEM
 det(alt, an)
 det(alt, seo)
 </code></pre>
 
-<p><b>an chéad</b> cheannaire <b>eile</b> ‘&lt;/b&gt;the next&lt;/b&gt; leader’</p>
+<p><em><b>an chéad</b> cheannaire <b>eile</b></em> ‘&lt;/b&gt;the next&lt;/b&gt; leader’</p>
 
 <pre><code class="language-sdparse">an chéad cheannaire eile \n the first leader other
 det(cheannaire, an)
@@ -722,18 +725,16 @@ quant(cheannaire, chéad)
 
 <p>The <code>discourse</code> label is used to connect interjections and other discourse particles to a clause.</p>
 
-<p><em><b>Á</b> , níl sé chomh holc sin !</em>  ‘<b>Aw</b> , it is not as bad as that !’</p>
+<p><em><b>Á</b>, níl sé chomh holc sin!</em>  ‘<b>Aw</b>, it is not as bad as that!’</p>
 
 <pre><code class="language-sdparse">Á , níl sé chomh holc sin ! \n Aw , is_not it as bad that !
 discourse(níl, Á)
-discourse(is, Aw)
 </code></pre>
 
-<p><em><b>Leoga</b> , tá aitheantas tugtha dóibh</em> <b>Indeed</b> , is recognition given to_them</p>
+<p><em><b>Leoga</b>, tá aitheantas tugtha dóibh</em> <b>Indeed</b>, they are given recognition</p>
 
-<pre><code class="language-sdparse">Leoga , tá aitheantas tugtha dóibh \n Indeed , they are given recognition
+<pre><code class="language-sdparse">Leoga , tá aitheantas tugtha dóibh \n Indeed , is recognition given to\_them
 discourse(tá, Leoga)
-discourse(are, Indeed)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ga-dep/discourse.md" target="#">edit discourse</a></p>
@@ -759,7 +760,7 @@ dobj(Bhailigh, eolas)
 
 <p>Note that the object of an infinitival phrase occurs before the infinitive form (Verbal Noun), despite Irish being a VSO language.</p>
 
-<p><em><b>eolas</b> a chur ar fáil</em> ‘to make <b>information</b> available’</p>
+<p><em><b>eolas</b> a chur ar fáil</em>  ‘to make <b>information</b> available’</p>
 
 <pre><code class="language-sdparse">eolas a chur ar fáil \n information to put at available
 dobj(chur, eolas)
@@ -767,7 +768,7 @@ dobj(chur, eolas)
 
 <p>Impersonal/autonomous verbs are used to create phrases similar to the English passive. However, unlike English, the object does not become the subject of this verb form, and remains labelled as <code>dobj</code>.</p>
 
-<p><em>An lá a cuireadh <b>é</b></em>‘The day <b>he</b> was buried’</p>
+<p><em>An lá a cuireadh <b>é</b></em> ‘The day <b>he</b> was buried’</p>
 
 <pre><code class="language-sdparse">An lá a cuireadh é \n The day [] was_buried he
 dobj(cuireadh, é)
@@ -797,7 +798,7 @@ foreign(May,September)
 
 <p>The <code>list</code> relation is used for chains of comparable items.</p>
 
-<p><em>Is iad seo na príomhchineálacha breiseán bia : <b>1) dathuithe 2) leasaithigh 3) antocsaídigh</b></em> `These are the main types of food additives : <b>1) colouring 2) preservatives 3) antioxidants</b>’ </p>
+<p><em>Is iad seo na príomhchineálacha breiseán bia : <b>1)</b> dathuithe <b>2)</b> leasaithigh <b>3)</b> antocsaídigh</em> `These are the main types of food additives : <b>1)</b> colouring <b>2)</b> preservatives <b>3)</b> antioxidants’ </p>
 
 <pre><code class="language-sdparse">Is iad seo na príomhchineálacha breiseán bia : 1) dathuithe 2) leasaithigh 3) antocsaídigh \n Is they DEM the main_types additives food : 1) colouring 2) preservatives 3) antioxidants 
 list(príomhchineálacha,1))
