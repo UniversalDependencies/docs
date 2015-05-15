@@ -12,7 +12,7 @@ _<b>'</b> Tá an méid sin suimiúil a d' inis tú dom <b>,</b> <b>'</b> a dúir
 
 
 ~~~ sdparse
-` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount that interesting that PAST tell you to_me , ' PART said you to_me .
+` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount DEM interesting [] [] told you to_me , ' [] said he .
 punct(dúirt, `)
 punct(dúirt, ,)
 punct(dúirt, ')
