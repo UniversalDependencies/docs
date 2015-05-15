@@ -8,7 +8,7 @@ permalink: eu/overview/introduction.html
 
 The Basque UD treebank is based on a conversion from part of the Basque Dependency Treebank (BDT), created at the University of of the Basque Country by the IXA NLP research group. The treebank consists of XXX,000 sentences (XXX,000 tokens) and covers mainly literary and journalistic texts.
 
-The morphological and syntactic annotation of the Basque UD treebank is created through a conversion of BDT data (Aduriz et al. 2003).
+The morphological and syntactic annotation of the Basque UD treebank is created through an automatic conversion of BDT data (Aduriz et al. 2003).
 
 
 #Acknowledgments
