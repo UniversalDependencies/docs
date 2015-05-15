@@ -362,7 +362,7 @@ conjunct and other conjuncts depend on it via the <code>conj</code> relation.</p
 conj(an, enfant)
 </code></pre>
 
-<pre><code class="language-sdparse">Une seconde d'hésitation, d'inattention ou de retard  \n A second of hesitation, carelessness or delay
+<pre><code class="language-sdparse">Une seconde d' hésitation , d' inattention ou de retard  \n A second of hesitation, carelessness or delay
 conj(hésitation, inattention)
 conj(hésitation, retard)
 </code></pre>
@@ -380,8 +380,11 @@ for <code>cop</code>.</p>
 <p><a id="al-fr-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.</p>
+
+<pre><code class="language-sdparse">Ce qu'il dit m' embête . \n What he says bothers me .
+csubj(embête, dit)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/csubj.md" target="#">edit csubj</a></p>
 
@@ -482,7 +485,7 @@ for <code>goeswith</code>.</p>
 
 <p>An indirect object is a nominal which corresponds to a dative object.</p>
 
-<pre><code class="language-sdparse">Il m'envoie une lettre . \n He sends me a letter .
+<pre><code class="language-sdparse">Il m' envoie une lettre . \n He sends me a letter .
 iobj(envoie, m')
 </code></pre>
 
@@ -638,7 +641,7 @@ parataxis(idée, futur)
 punct(hors-taxe, !)
 </code></pre>
 
-<pre><code class="language-sdparse">S'il pleut, on sera mouillé . \n If it rains , we will get wet .
+<pre><code class="language-sdparse">S' il pleut , on sera mouillé . \n If it rains , we will get wet .
 punct(pleut, ,)
 punct(mouillé, .)
 </code></pre>
@@ -687,7 +690,7 @@ case(droi-, à-2)
 fake node <code>ROOT</code> is used as the governor. The <code>ROOT</code> node is indexed
 with 0, since the indexing of real words in the sentence starts at 1.</p>
 
-<pre><code class="language-sdparse">ROOT J'aime les frites . \n I love French fries .
+<pre><code class="language-sdparse">ROOT J' aime les frites . \n I love French fries .
 root(ROOT, aime)
 </code></pre>
 
