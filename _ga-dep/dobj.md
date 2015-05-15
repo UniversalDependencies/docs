@@ -6,6 +6,8 @@ shortdef: 'direct object'
 
 The `dobj` label is used to mark the relationship between a verb and its direct object.
 
+### Examples
+
 _Bhailigh siad eolas_ 'They collected <b>information</b>'
 
 ~~~ sdparse
