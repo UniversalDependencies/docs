@@ -15,7 +15,7 @@ _Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol p
 
 
 ~~~ sdparse
-Creidimidne, go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe_we, that develop the students  their own understanding on life professional the industry
+Creidimidne , go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe_we , that develop the students  their own understanding on life professional the industry
 
 ccomp(Creidimidne, bhforbraíonn)
 ~~~
