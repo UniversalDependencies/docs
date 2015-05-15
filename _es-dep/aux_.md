@@ -9,3 +9,9 @@ redirect_from: "es/dep/aux.html"
 
 This document is a placeholder for the language-specific documentation
 for `aux`.
+
+
+~~~ sdparse
+Regan ha muerto . \n Regan has died .
+aux(died, has)
+~~~
