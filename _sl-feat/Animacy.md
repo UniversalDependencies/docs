@@ -26,6 +26,6 @@ Note that grammatical animatness can also apply to semantically inanimate nouns,
 * _avto_ "car", _fikus_ "ficus", _čevelj_ "shoe"
 
 
-#### Conversion from JOS
+### Conversion from JOS
 
 All nouns with Animate=yes are converted to `Animacy=Anim` and all nouns with Animate=no are converted to `Animacy=Inan`.
