@@ -22,7 +22,7 @@ dislocated(kserume, jani)
 
 However, it would not be used for a topic-marked noun that is also the subject of the sentence; this would be an [nsubj]().
 
-It is also used for postposed elements. The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in spoken languages. French: and Greek examples follow:
+It is also used for postposed elements. The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in spoken languages. French and Greek examples follow.
 
 ~~~ sdparse
 Il faut pas la manger , la plasticine \n It must not it eat , the playdough
