@@ -4,5 +4,14 @@ title: 'mark'
 shortdef: 'marker'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `mark`.
+A marker is the word introducing a finite clause subordinate to another clause:
+
+~~~sdparse
+Văd că plouă . \n See-I that rains .
+mark(plouă, că)
+~~~
+
+~~~sdparse
+Vin , dacă pot . \n Come-I , if can-I .
+mark(pot, dacă)
+~~~
