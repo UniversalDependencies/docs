@@ -890,6 +890,8 @@ mark(fhoghlaim, a)
   <li>days of the week particle: <em>Dé</em></li>
 </ul>
 
+<h3 id="examples">Examples</h3>
+
 <h4 id="adverbial-particle">adverbial particle</h4>
 
 <p><em>Níor tháinig sé <b>go</b> fóill</em> `He has not arrived yet’
@@ -960,6 +962,8 @@ names of people, places, organisations and so on.</p>
 
 <p>In UD Irish, this not only includes surnames, but also surname particles such as <em>Mac</em>, <em>Mc</em>, <em>Ó</em>, <em>de</em>, <em>Uí</em> and <em>Ní</em>.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán <b>Ó Gallchóir</b></em> `We want to express our thanks in particular to John <b>Gallagher</b>’</p>
 
 <pre><code class="language-sdparse">Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán Ó Gallchóir \n Is desire with_us our thanks to put in knowledge [] particular to John PART Gallagher
@@ -982,6 +986,8 @@ name(Sheán,Gallchóir)
   <li><em>ná</em> (imperative)</li>
 </ul>
 
+<h3 id="examples">Examples</h3>
+
 <p><em><b>Ní</b> raibh aon Teresa ina measc</em> `There was not any Teresa’s among them’</p>
 
 <pre><code class="language-sdparse">Ní raibh aon Teresa ina measc \n Not was any Teresa in_their midst
@@ -1001,6 +1007,8 @@ neg(déan,Ná)
 
 <p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal predicates. <code>nmod</code> is typically a noun functioning as a non-core (oblique) argument or adjunct, and often marked by a preposition using <a href="">case</a>.</p>
 
+<h3 id="examples">Examples</h3>
+
 <p><em>Tá sé ráite ag <b>tráchtairí</b> áirithe</em> `It is said by some <b>commentators</b>’</p>
 
 <pre><code class="language-sdparse">Tá sé ráite ag tráchtairí áirithe \n Is it said by commentators some
@@ -1019,7 +1027,7 @@ case(réimse, le)
 
 <p><em><b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS</em> `CENTRE <b>PROJECT</b> - To provide information on employment opportunities with FÁS.’</p>
 
-<pre><code class="language-sdparse">TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n PROJECT CENTRE- Information to put on getting on opportunities employment with FÁS.
+<pre><code class="language-sdparse">TOGRA IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS \n PROJECT CENTRE - Information to put on getting on opportunities employment with FÁS.
 nmod(Eolas, TOGRA)
 </code></pre>
 
@@ -1047,6 +1055,8 @@ nmod(iad, ea)
   <li><em>a</em> “their”</li>
 </ul>
 
+<h3 id="example">Example</h3>
+
 <p><em>Chuir mé ceist ar <b>mo</b> mhúinteoir</em> `I asked <b>my</b> teacher a question’</p>
 
 <pre><code class="language-sdparse">Chuir mé ceist ar mo mhúinteoir \n Put I question on my teacher
@@ -1062,7 +1072,8 @@ nmod:poss(mhúinteoir, mo)
 
 <p>16 of the most common Irish simple prepositions can be inflected to mark pronominal objects. These are referred to as pronominal prepositions or prepositional pronouns. We regard these as playing nominal modifier roles instead of prepositional modifier roles. We introduce the language-specific label <code>nmod:prep</code> so as not to lose information regarding the presence of the preposition.</p>
 
-<p>Examples: <em>agam</em> “at me”; <em>leis</em> “with him”, <em>uainn</em> “from us”</p>
+<h3 id="examples">Examples</h3>
+<p><em>agam</em> “at me”; <em>leis</em> “with him”, <em>uainn</em> “from us”</p>
 
 <p><em>D’inis mé <b>di</b></em> `I told her’</p>
 
@@ -1090,6 +1101,8 @@ nmod:prep(Níl,agam)
 
 <p>A temporal modifier is a subtype of the <a href="">nmod</a> relation: if the modifier is specifying a time, it is labeled as <code>tmod</code>. </p>
 
+<h3 id="example">Example</h3>
+
 <p><em>daoine a mhair na milliúin <b>bliain</b> ó shin</em> `people who lived millions of <b>years</b> ago’</p>
 
 <pre><code class="language-sdparse">daoine a mhair na milliúin bliain ó shin \n people who lived the millions years from then
@@ -1102,6 +1115,8 @@ nmod:tmod(mhair, bliain)
 <h2><code>nsubj</code>: nominal subject</h2>
 
 <p>A nominal subject is a noun phrase which is the syntactic subject of a clause. </p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>Rachaidh <b>sí</b> abhaile</em> `<b>She</b> will go home’</p>
 
@@ -1134,6 +1149,8 @@ nsubj(mhaith, cheannach)
 <p><em>Numeric modifiers</em> of a noun or NP, including both cardinal and
 ordinal numbers, are marked with the <code>nummod</code> dependency type. Quantifiers are also included.</p>
 
+<h3 id="examples">Examples</h3>
+
 <p><em>sa bhliain <b>1975</b></em> `in the year <b>1975</b>’</p>
 
 <pre><code class="language-sdparse">sa bhliain 1975 \n in year 1975
@@ -1159,6 +1176,8 @@ nummod(fo-alt, (1))
 
 <p>The <code>parataxis</code> relation is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. More information can be found on the universal dependency page (<a href="">u-dep/parataxis</a>)</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Fuaireamar é seo ; <b>féach</b> an é cóta do mhic é nó nach é?</em> `We found this ; <b>look</b> is it your son’s coat or not?’</p>
 
 <pre><code class="language-sdparse">Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n Found_we it this ; look is it coat your son it or not it?
@@ -1171,6 +1190,8 @@ parataxis(Fuaireamar,féach)
 <h2><code>punct</code>: punctuation</h2>
 
 <p>This is used for any piece of punctuation in a clause, regardless of its function. The punctuation mark is attached to the head of the phrase or clause to which it belongs unless this introduces a non-projective dependency. More discussion on punctuation can be found on the universal dependency page (<a href="">u-dep/punct</a>).</p>
+
+<h3 id="example">Example</h3>
 
 <p>_<b><code>&lt;/b&gt; Tá an méid sin suimiúil a d' inis tú dom &lt;b&gt;,&lt;/b&gt; &lt;b&gt;'&lt;/b&gt; a dúirt sé &lt;b&gt;.&lt;/b&gt;_ </code><b>`</b> What you have told me is interesting <b>,</b><b>’</b> he said to me<b>.</b>’</b></p>
 
@@ -1195,6 +1216,8 @@ punct(dúirt, .)
 
 <p>The <code>root</code> grammatical relation points to the root of the sentence. A dummy node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
 
+<h3 id="example">Example</h3>
+
 <p><em>Ní <b>thugtar</b> íocaíochtaí mura n-iarrtar iad</em> `Payments are not <b>made</b> if they are not requested’</p>
 
 <pre><code class="language-sdparse">ROOT Ní thugtar íocaíochtaí mura n-iarrtar iad \n ROOT Not given payments if_not requested them 
@@ -1218,7 +1241,7 @@ vocative(Slán, chara)
 
 <p><em>Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat</em>  `I think <b>Mairead</b>, that I’m in love with you’</p>
 
-<pre><code class="language-sdparse">Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead, that am I in love with_you
+<pre><code class="language-sdparse">Is dóigh liom a Mháiréad , go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead , that am I in love with_you
 vocative(dóigh, Mháiréad)
 </code></pre>
 
@@ -1230,6 +1253,8 @@ vocative(dóigh, Mháiréad)
 <p>The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. 
 An open clausal complement (xcomp) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp.
 These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers.</p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>Is leor breathnú ar na staitisticí chun a <b>fheiceáil</b> gur thit na caighdeáin</em> `You must look at the statistics to <b>see</b> that the standards dropped’</p>
 
@@ -1259,7 +1284,7 @@ case(rith, ag)
 <p><em>Chuirfeadh iad ar <b>fáil</b></em> `They would be made available’</p>
 
 <pre><code class="language-sdparse">Chuirfeadh iad ar fáil \n Would_be_put they on getting
-xcomp(chuirfeadh,fáil)
+xcomp(Chuirfeadh,fáil)
 case(fáil, ar)
 
 </code></pre>
@@ -1271,6 +1296,8 @@ case(fáil, ar)
 
 <p>We extend the label <code>xcomp</code> as a UD Irish subtype <code>xcomp:pred</code> to mark predicates of the substantive verb <em>bí</em> (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
 Note that this differs from Irish (<a href="">cop</a>) constructions. </p>
+
+<h3 id="examples">Examples</h3>
 
 <p><em>Bhí sé <b>dochreidte</b> go raibh sé fós beo</em> `It was <b>unbelieveable</b> that he was still alive’</p>
 
