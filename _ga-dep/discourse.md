@@ -6,6 +6,8 @@ shortdef: 'discourse element'
 
 The `discourse` label is used to connect interjections and other discourse particles to a clause.
 
+### Examples
+
 _<b>Á</b>, níl sé chomh holc sin!_  '<b>Aw</b>, it is not as bad as that!'
 
 ~~~ sdparse
