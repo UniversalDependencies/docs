@@ -18,7 +18,7 @@ xcomp:pred(Bhí, dochreidte)
 #### PP Predicate
 Note that the head of the prepositional phrase is the noun.
 
-_Tá duine eile <b>i_mbun peannaireachta</b>_ `Someone else is <b>in charge of writing</b>'
+_Tá duine eile <b>i_mbun</b> peannaireachta_ `Someone else is <b>in charge of</b> writing'
 
 ~~~ sdparse
 Tá duine eile i_mbun peannaireachta \n Is someone else in_charge_of writing 
@@ -29,10 +29,10 @@ case(peannaireachta, i_mbun)
 
 #### Adverbial Predicate
 
-_Tá Meryl Streep <b>go hiontach</b> sa scannán sin_ `Meryl Streep is <b>wonderful</b> in that movie'
+_Tá Meryl Streep go <b>hiontach</b> sa scannán sin_ `Meryl Streep is <b>wonderful</b> in that movie'
 
 ~~~ sdparse
-Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep PART wonderful in movie that
+Tá Meryl Streep go hiontach sa scannán sin \n Is Meryl Streep [] wonderful in movie that
 xcomp:pred(Tá, hiontach)
 ~~~
 
