@@ -300,8 +300,15 @@ for <code>auxpass</code>.</p>
 <p><a id="al-fr-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p>The <code>case</code> relation is used for any preposition in French. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages. </p>
+
+<pre><code class="language-sdparse">Taxation individuelle de rentrée salariale \n Individual taxation of employment income
+case(rentrée, de)
+</code></pre>
+
+<pre><code class="language-sdparse">En attendant , asseyez-vous ici \n While waiting, seat down here
+case(attendant, En)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/case.md" target="#">edit case</a></p>
 
