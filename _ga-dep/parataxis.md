@@ -10,7 +10,7 @@ The `parataxis` relation is a relation between the main verb of a clause and oth
 _Fuaireamar é seo ; <b>féach</b> an é cóta do mhic é nó nach é?_ `We found this ; <b>look</b> is it your son's coat or not?'
 
 ~~~ sdparse
-Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n Found_we it this ; look is it coat your son's AUG or not AUG?
+Fuaireamar é seo ; féach an é cóta do mhic é nó nach é? \n Found_we it this ; look is it coat your son AUG or not AUG?
 parataxis(Fuaireamar,féach)
 ~~~
 
