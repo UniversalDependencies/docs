@@ -49,6 +49,6 @@ The instrumental case often expresses the instrument, means or accompaniment of 
 
 * _z <b>državo</b>_ "ith country", _pred <b>državo</b>_ "before country", _nad <b>državo</b>_ "above country"
 
-#### Conversion from JOS
+### Conversion from JOS
 
 Tokens with feature Case=nominative are converted to `Case=Nom`, tokens with feature Case=genitive are converted to `Case=Gen`, tokens with feature Case=dative are converted to `Case=Dat`, tokens with feature Case=accusative are converted to `Case=Acc`, tokens with feature Case=locative are converted to `Case=Loc`, tokens with feature Case=instrumental are converted to `Case=Ins`.
