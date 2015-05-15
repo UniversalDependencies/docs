@@ -18,6 +18,6 @@ vocative(Slán, chara)
 _Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat_  `I think <b>Mairead</b>, that I'm in love with you'
 
 ~~~ sdparse
-Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead, that am I in love with_you
+Is dóigh liom a Mháiréad , go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead , that am I in love with_you
 vocative(dóigh, Mháiréad)
 ~~~
