@@ -34,8 +34,35 @@
 
           <h2><code>Tense</code>: tense</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>Tense</code>.</p>
+<p>Tense is an inflectional feature of <a href="NOUN">nouns</a> and <a href="AUX">auxiliaries</a> that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. In Slovenian, only <code>Present</code> tense and <code>Future</code> tense can be expressed morphologically, while past tense is formed syntactically, by a combination of a present auxiliary verb <em>biti</em> “to be” and past participle (l-participle), e.g. <em>sem šel</em> “I went”. </p>
+
+<h3 id="pres-present-tense"><code>Pres</code>: present tense</h3>
+
+<p>The present tense denotes actions that are happening right now or that usually happen.</p>
+
+<h4 id="examples">Examples</h4>
+
+<ul>
+  <li><em><b>vem</b></em> “I know”, <em><b>veš</b></em> “you know”, <em><b>ve</b></em> “he/she/it knows” etc.</li>
+  <li><em><b>Študiram</b> jezike.</em> “I study languages.”</li>
+</ul>
+
+<h3 id="fut-future-tense"><code>Fut</code>: future tense</h3>
+
+<p>The future tense denotes actions that will happen after the current moment. Simmilarly to past tense, future tense for most Slovenian verbs is formed by a combination of future auxiliary verb <em>biti</em> “to be “ and l-participle (<em>bom hodil</em> “I will walk”). Thus, the <code>Tense=Fut</code> feature is only to <em>biti</em> that can either be used as a content or auxiliary verb.</p>
+
+<p>Examples:</p>
+
+<ul>
+  <li><em><b>bom</b></em> “I will”, <em><b>boš</b></em> “you will”, <em><b>bo</b></em> “he/she/it will” etc.</li>
+  <li><em>Sestanek <b>bo</b> jutri.</em> “The meeting will be held tomorrow”.</li>
+  <li><em>Vrnila se <b>bo</b> čez en teden.</em> “She will come back in a week.”</li>
+</ul>
+
+<h3 id="conversion-from-jos">Conversion from JOS</h3>
+
+<p>All verbs with VForm=present are converted to UD <code>Tense=Pres</code> and all verbs with VForm=future are converted to UD <code>Ťense=Fut</code>. We do not assign tense to other verb forms, such as participle, infinitive, supine, conditional and imperative. </p>
+
 
 
 <!-- "in other languages" links -->

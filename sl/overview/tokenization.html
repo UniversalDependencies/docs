@@ -46,7 +46,7 @@
   <li>During tokenization, all characters are divided into two categories: words (W) and characters (C). Words are alphanumeric strings between spaces, while characters are punctuation and symbol characters.</li>
   <li>C tokens are recognized on the basis of a predefined list of punctuation and symbol characters included in the tokenizer.</li>
   <li>
-    <p>C tokens may include <em>only one</em> punctuation or symbol character. Sequences of two or more characters (e.g. <b><em>?!&lt;/b&gt;</em>) are treated as sequences of separate C tokens.</b></p>
+    <p>C tokens may include only one punctuation or symbol character. Sequences of two or more characters (e.g. <em><b>?!</b></em>) are treated as sequences of separate C tokens.</p>
   </li>
   <li>If a string of alphanumeric characters between two spaces includes C characters, it is usually split into several tokens (e.g. <em>AC/DC</em> and Micro$oft are split into three tokens <em><b>AC / DC</b></em> and <em><b>Micro $ oft</b></em>). </li>
   <li>However, the following exceptions apply, in which C characters become parts of W tokens:</li>
