@@ -8,6 +8,8 @@ The name `xcomp` is borrowed from Lexical-Functional Grammar.
 An open clausal complement (xcomp) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp.
 These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers.
 
+### Examples
+
 _Is leor breathnú ar na staitisticí chun a <b>fheiceáil</b> gur thit na caighdeáin_ `You must look at the statistics to <b>see</b> that the standards dropped'
 
 ~~~ sdparse
@@ -41,7 +43,7 @@ _Chuirfeadh iad ar <b>fáil</b>_ `They would be made available'
 
 ~~~ sdparse
 Chuirfeadh iad ar fáil \n Would_be_put they on getting
-xcomp(chuirfeadh,fáil)
+xcomp(Chuirfeadh,fáil)
 case(fáil, ar)
 
 ~~~
