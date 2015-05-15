@@ -34,8 +34,43 @@
 
           <h1 id="tokenization">Tokenization</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for tokenization.</p>
+<p>Tokenization of the Slovenian UD Treebank reflects the following principles:</p>
+
+<ul>
+  <li>
+    <p>Space is the principal separator for tokens.</p>
+  </li>
+  <li>
+    <p>Sequences of words that can be written both with or without space without changing its meaning (e.g. <em><b>kdorkoli</b></em>, <em><b>kdor koli</b></em> “anybody, any body”) follow the same principle and become either one or two tokens depending on the use of space</p>
+  </li>
+  <li>During tokenization, all characters are divided into two categories: words (W) and characters (C). Words are alphanumeric strings between spaces, while characters are punctuation and symbol characters.</li>
+  <li>C tokens are recognized on the basis of a predefined list of punctuation and symbol characters included in the tokenizer.</li>
+  <li>
+    <p>C tokens may include <em>only one</em> punctuation or symbol character. Sequences of two or more characters (e.g. <b><em>?!&lt;/b&gt;</em>) are treated as sequences of separate C tokens.</b></p>
+  </li>
+  <li>If a string of alphanumeric characters between two spaces includes C characters, it is usually split into several tokens (e.g. <em>AC/DC</em> and Micro$oft are split into three tokens <em><b>AC / DC</b></em> and <em><b>Micro $ oft</b></em>). </li>
+  <li>However, the following exceptions apply, in which C characters become parts of W tokens:</li>
+  <li>Apostrophe becomes part of a W token if used without space on both sides (e.g. <em><b>O’Brian</b></em>, <em><b>mor’va</b></em> “O’Brian, we have to”).</li>
+  <li>Comma and colon become part of a W token if used without space on both sides and if the string contains only digits (e.g. <em><b>30:00</b></em>, <em><b>200,000,000</b></em>).</li>
+  <li>Hyphen becomes part of a W token if used without space on both sides and if:
+    <ul>
+      <li>the left part is an acronym (in capital letters), a single letter or a digit</li>
+      <li>the right part is an affix or an inflectional ending; a finite list of possible affixes and endings is integrated in the tokenizer</li>
+      <li>e.g. <em><b>OZN-ovski</b></em> “similar to United Nations”, <em><b>a-ju</b></em> “to the letter a”, <em><b>15-i</b></em> “the 15th” )</li>
+    </ul>
+  </li>
+  <li>Dot becomes part of a W token if it is:</li>
+  <li>used without space on both sides and the string contains only digits (e.g. <em><b>1.2</b></em>)</li>
+  <li>
+    <p>used without space on the left and is part of an abbreviation or ordinal number (e.g. <em><b>dr.</b></em>, <em><b>4.</b></em>, <em><b>IV.</b></em>); a finite list of possible abbreviations is integrated in the tokenizer.</p>
+  </li>
+  <li>URLs and e-mail addresses: all C characters become part of a single W token in strings recognized as URLs or addresses using a regular expression.</li>
+</ul>
+
+<p>Information on whether a token is followed by a space (e.g. <em><b>d.o.o.</b></em> vs. <em><b>d. o. o.</b></em>) is indicated with <code>SpaceAfter=Yes</code> feature in the MISC column. </p>
+
+<p>Note that the current version of the Slovenian UD Treebank does not yet comply with the universal guidelines recommendation for splitting of fused words, such as combinations of prepositions and pronouns, e.g. <em><b>name</b> “on me”, _<b>zanj</b> “for him”, _vase</em> “in/to oneself”. Instead, these tokens are currently marked as <a href="PRON">pronouns</a> with feature <a href="Variant">Variant=Bound</a>.</p>
+
 
 
       </div>
