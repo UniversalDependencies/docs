@@ -35,12 +35,13 @@ xcomp(Tá, rith)
 case(rith, ag)
 ~~~
 
-There are also some similar periphrastic constructions similar to these progressives that use _le_ or _ar_
+There are also some similar periphrastic constructions similar to these progressives that use _le_ or _ar_:
 
-_chuirfeadh iad ar <b>fáil</b>_ `they would be made available'
+_Chuirfeadh iad ar <b>fáil</b>_ `They would be made available'
 
 ~~~ sdparse
-chuirfeadh iad ar fáil \n put_COND they to get
+Chuirfeadh iad ar fáil \n Would_be_put they on getting
 xcomp(chuirfeadh,fáil)
+case(fáil, ar)
 
 ~~~
