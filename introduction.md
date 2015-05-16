@@ -101,6 +101,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu
+* <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
 
 ## References
