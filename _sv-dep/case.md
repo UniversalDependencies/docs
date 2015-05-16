@@ -12,7 +12,7 @@ case(arbetsinkomster, av)
 ~~~
 
 ~~~ sdparse
-Du måste därför redan från början \n You must therefore right from the start
+Du måste börja från början \n You must start from the beginning
 case(början, från)
 ~~~
 
