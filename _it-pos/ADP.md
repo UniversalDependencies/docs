@@ -9,15 +9,20 @@ shortdef: 'adposition'
 Adposition is a cover term for prepositions and postpositions.
 In Italian, there are only _prepositions_.
 
-Adpositions can take the form of fixed multiword
+Italian prepositions can take the form of fixed multi-word
 expressions, such as _invece di_ "instead of", _a causa di_ "because of", _davanti a_ "in front of". The
 component words are then still tagged according to their basic use
-(_a_ is `ADP`, _causa_ is [NOUN](), _di_ is `ADP`) and their status as
-multiword expressions is accounted for in the syntactic annotation.
+(i.e. _a_ is `ADP`, _causa_ is [NOUN](), _di_ is `ADP`) and their status as a
+multi-word expression is accounted for at the level of syntactic annotation.
+See [mwe]() for more details on the representation of multi-word expressions.
 
-Adpositions are also used for introducing non-finite clausal complements.
+Italian prepositions are also used for introducing non-finite clausal complements, as in _Maria ha deciso <b>di</b> partire_ "Mary decided to leave" or _Maria è andata <b>a</b> congratularsi con loro_ "Mary went to congratulate them".
 
-See [mwe]() for more on multi-word expressions.
+Italian distinguishes between simple and articulated prepositions: note however that to comply with the UD [Tokenization]() guidelines the latter are systematically splitted into the following sequence of part-of-speech tags, `ADP` and `DET` (e.g. _nello_ "in the" is splitted into _in_ `ADP` _lo_ `DET`).
+
+###Corresponding language-specific part-of-speech tags
+
+E:  Preposition 
 
 ### Examples
 
