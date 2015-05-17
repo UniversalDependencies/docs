@@ -9,11 +9,18 @@ redirect_from: "u/pos/AUX.html"
 
 ### Definition
 
-Auxiliary verbs are instances of the verbs _essere_ "to be" and _avere_ "to have"
-used in connection with a main verb. They express grammatical distinctions not carried by the
-lexical verb, such as person, number, tense, and mood.
+Italian auxiliary verbs can be divided into:
 
-_Modal verbs_, such as _dovere_ "to have to" and _potere_ "to can" may serve as auxiliary verbs. 
+- tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
+- passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come".
+
+Following the UD guidelines, Italian modal verbs are handled as modal auxiliaries (e.g. _potere_ "can", _dovere_ "must").
+
+###Corresponding language-specific part-of-speech tags
+
+VA: Auxiliary verb
+
+VM: Modal verb	
 
 
 ### Examples
