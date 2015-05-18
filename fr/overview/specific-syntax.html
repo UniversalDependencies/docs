@@ -34,8 +34,27 @@
 
           <h1 id="specific-constructions">Specific constructions</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for specific constructions.</p>
+<h2 id="quest-ce-que--">Qu’est-ce que … ?</h2>
+
+<p>We analyze “qu’est-ce que …” as follows: the first <em>qu’</em> gets the true grammatical relation given the sentence , <em>ce</em> is an expletive, <em>est</em> is a copula and the second <em>que</em> is a mwe dependent on <em>ce</em></p>
+
+<pre><code class="language-sdparse">Qu' est - ce qu' un déliquant ? \n What is an offender?
+root(ROOT, Qu')
+cop(est,  Qu')
+expl(Qu', ce)
+mwe(ce, qu')
+nsubj(Qu', délinquant)
+</code></pre>
+
+<pre><code class="language-sdparse">Qu' est - ce qu' il a fait ? \n What did he do ?
+root(ROOT, fait)
+dobj(fait, Qu')
+expl(fait, ce)
+mwe(ce, qu')
+cop(fait, est)
+nsubj(fait, il)
+</code></pre>
+
 
 
       </div>
