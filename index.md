@@ -63,12 +63,13 @@ title:  'Universal Dependencies'
 
 [CoNLL-U format](format.html)
 
-<!--span style='background-color:yellow'-->
-<span><strong>Download:</strong> the version 1.0 treebanks from the LINDAT/CLARIN repository:<br />
-<a href="http://hdl.handle.net/11234/1-1464">http://hdl.handle.net/11234/1-1464</a></span>
+* Download
+  * Version 1.1 treebanks from the LINDAT/CLARIN repository: <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a></span>. Released May 15, 2015.
+  * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464.
+
 
 <small>
-This is the online documentation and example treebank for Universal
+This is the online documentation for Universal
 Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
 stable for at least the next year, but we may subsequently make
 further revisions based on experiences using it to treebank a range of
@@ -77,7 +78,7 @@ so that we can avoid problems with conflicting versions.
 </small>
 
 <small>
-The next release (v1.1) is scheduled for May 15, 2015. The plan is to 
+The next release (v1.2) is scheduled for November 2015. The plan is to 
 have regular treebank releases every six months.
 </small>
 </div>
