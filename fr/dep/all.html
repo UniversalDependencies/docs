@@ -743,8 +743,17 @@ det(Bête, la)
 <p><a id="al-fr-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>neg</code>.</p>
+<p>The negation modifier is the relation between a negation word and the word it modifies. Both elements of double negation are marked as <code>neg</code>. Note that in colloquial French, the first element of the double negation is often not present.</p>
+
+<pre><code class="language-sdparse">L'homme parfait n' existe pas \n The perfect man does not exist
+neg(existe, pas)
+neg(existe, n')
+</code></pre>
+
+<pre><code class="language-sdparse">On ne le lâchera plus \n We will not let it go anymore
+neg(lâchera, plus)
+neg(lâchera, ne)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/neg.md" target="#">edit neg</a></p>
 
