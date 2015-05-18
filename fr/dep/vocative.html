@@ -34,8 +34,17 @@
 
           <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>The <code>vocative</code> relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+
+<pre><code class="language-sdparse">Les gars , faites attention ! \n Guys , be careful !
+vocative(faites, gars)
+</code></pre>
+
+<pre><code class="language-sdparse">David , comment ça va ? \n David, how 's it going ?
+vocative(va, David)
+</code></pre>
+
+<p>Note: the <code>vocative</code> relation is not currently annotated in the French data.</p>
 
 
 <!-- "in other languages" links -->

@@ -527,8 +527,16 @@ nmod:poss(ami, Mon)
 <p><a id="al-fr-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>discourse</code>.</p>
+<p>This is used for interjections and other discourse particles and elements, which are not clearly linked to the structure of the sentence except in an expressive way.</p>
+
+<pre><code class="language-sdparse">Waouh , c' était fun :) \n Wow , that was fun :)
+discourse(fun, :)-6)
+discourse(fun, Waouh)
+</code></pre>
+
+<pre><code class="language-sdparse">Bref , une occassion à ne pas laisser passer \n In short, an opportunity that should not be passed on
+discourse(occasson, Bref)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/discourse.md" target="#">edit discourse</a></p>
 
@@ -889,8 +897,17 @@ root(ROOT, grand)
 <p><a id="al-fr-dep/vocative" class="al-dest"></a></p>
 <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>The <code>vocative</code> relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.</p>
+
+<pre><code class="language-sdparse">Les gars , faites attention ! \n Guys , be careful !
+vocative(faites, gars)
+</code></pre>
+
+<pre><code class="language-sdparse">David , comment ça va ? \n David, how 's it going ?
+vocative(va, David)
+</code></pre>
+
+<p>Note: the <code>vocative</code> relation is not currently annotated in the French data.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/vocative.md" target="#">edit vocative</a></p>
 
