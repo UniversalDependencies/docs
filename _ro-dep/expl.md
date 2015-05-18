@@ -17,7 +17,7 @@ expl(văd, O)
 - non-referential use of pronouns:
 
 ~~~ sdparse
-Am apucat-o la stânga . \n Have-I turned-her to left .
+Am apucat - o la stânga . \n Have-I turned-her to left .
 expl(apucat, o)
 ~~~
 
