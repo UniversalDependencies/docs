@@ -84,7 +84,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * Reut Tsarfaty
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
-### Language-specific documentation
+### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
