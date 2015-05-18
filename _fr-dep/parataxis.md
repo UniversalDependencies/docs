@@ -17,6 +17,6 @@ parataxis(ont, voir)
 ~~~
 
 ~~~ sdparse
-C'est l'idée : les enfants sont le futur \n That is the thought : children are the future
+C'est l' idée : les enfants sont le futur \n That is the thought : children are the future
 parataxis(idée, futur)
 ~~~
