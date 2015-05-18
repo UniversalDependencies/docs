@@ -39,7 +39,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Abbr
 * [Czech values](cs-feat/Abbr): Yes
 * [Finnish values](fi-feat/Abbr): Yes
+* [Slovenian values](sl-feat/Abbr): Yes
 * [Interset](ext-feat/Abbr): Yes
+
 
 ## AdpType
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
@@ -64,6 +66,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
+* [Slovenian values](sl-feat/Foreign): Yes
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[dat]
@@ -76,6 +79,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Gender[psor]
 * <a href="cs/feat/Gender-psor.html">Czech values</a>: Masc, Fem
+* [Slovenian values](sl-feat/Gender-psor): Masc, Fem, Neut
 * [Interset](ext-feat/PossGender): Masc, Fem
 
 ## Hyph
@@ -110,10 +114,12 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Number[psor]
 * <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
 * <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
+* [Slovenian values](sl-feat/Number-psor): Sing, Dual, Plur
 * [Interset](ext-feat/PossNumber): Sing, Plur
 
 ## NumForm
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
+* [Slovenian values](sl-feat/NumForm): Digit, Roman, Word
 * [Interset](ext-feat/NumForm): Digit, Roman, Word
 
 ## NumValue
@@ -182,6 +188,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
+* [Slovenian values](sl-feat/Variant): Bound, Short
 
 ## VerbType
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
