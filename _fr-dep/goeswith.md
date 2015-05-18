@@ -10,6 +10,6 @@ that is not well edited, or due to tokenization errors. The head is in some sens
 This relation is not used in the French treebank.
 
 ~~~ sdparse
-Ils sont partis aujourd' hui  \n They left today.
+Ils sont partis aujourd' hui  \n They left today
 goeswith(aujourd', hui)
 ~~~
