@@ -101,6 +101,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
+* <a href="index.html#language-id">Indonesian</a>: Ryan McDonald
 * <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
