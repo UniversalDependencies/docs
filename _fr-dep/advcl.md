@@ -18,26 +18,6 @@ Si tu sais qui l'a fait, tu devrais le dire au professeur \n If you know who did
 advcl(dire, sais)
 ~~~
 
----
-layout: relation
-title: 'advcl'
-shortdef: 'adverbial clause modifier'
----
-
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
-as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
-clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
-
-~~~ sdparse
-The accident happened as night was falling
-advcl(happened, falling)
-~~~
-
-~~~ sdparse
-If you know who did it, you should tell the teacher
-advcl(tell, know)
-~~~
-
 ~~~ sdparse
 Il faut venir tôt pour avoir de la place \n One needs to get there early to have a seat
 advcl(venir, avoir)
