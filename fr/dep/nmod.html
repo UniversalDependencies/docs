@@ -34,8 +34,33 @@
 
           <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
+predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
+argument or adjunct. In French, <code>nmod</code> is used for prepositional complements as well as for temporal complements not introduced by a preposition.</p>
+
+<pre><code class="language-sdparse">Le résultat de la course \n The result of the race
+nmod(résultat, course)
+case(course, de)
+</code></pre>
+
+<pre><code class="language-sdparse">Maman prend bien soin de ses enfants \n Mother takes good care of her children
+nmod(soin, enfants)
+case(enfants, de)
+</code></pre>
+
+<pre><code class="language-sdparse">Il a grandi en Afrique \n He grew up in Africa
+nmod(grandi, Afrique)
+case(Afrique, en)
+</code></pre>
+
+<pre><code class="language-sdparse">Il est utilisé pour le service \n It is used for the service
+nmod(utilisé, service)
+case(service, pour)
+
+~~~ sdparse
+L' an passé, la compagnie a fait pas mal de bénéfices \n Last year, the company made quite a lot of benefit
+nmod(fait, an)
+</code></pre>
 
 
 <!-- "in other languages" links -->

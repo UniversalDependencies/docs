@@ -241,7 +241,7 @@ for <code>acl</code>.</p>
 a nominal. The relation points from the head of the nominal to the
 head of the relative clause.</p>
 
-<pre><code class="language-sdparse">J'ai vu l'homme qui t'aime \n I saw the man who loves you
+<pre><code class="language-sdparse">J'ai vu l'homme qui t' aime \n I saw the man who loves you
 acl:relcl(homme, aime)
 nsubj(aime, qui)
 dobj(aime, t')
@@ -667,11 +667,11 @@ appos(Email:-5, jones@abc.edf-6)
 mark(aimes, que)
 </code></pre>
 
-<pre><code class="language-sdparse">S' il pleut, on sera mouillé \n If it rains , we will get wet
+<pre><code class="language-sdparse">S' il pleut, on sera mouillé \n If it rains, we will get wet
 mark(pleut, S')
 </code></pre>
 
-<p>Prepositions introducing infinites are also anlyzed as a <code>mark</code>.</p>
+<p>Prepositions introducing infinitives are also analyzed as <code>mark</code>.</p>
 
 <pre><code class="language-sdparse">Il faut arriver tôt pour avoir de la place \n One needs to get there early to have a seat
 mark(avoir, pour)
@@ -760,8 +760,33 @@ neg(lâchera, ne)
 <p><a id="al-fr-dep/nmod" class="al-dest"></a></p>
 <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>The <code>nmod</code> relation is used for nominal modifiers of nouns or clausal
+predicates. <code>nmod</code> is a noun functioning as a non-core (oblique)
+argument or adjunct. In French, <code>nmod</code> is used for prepositional complements as well as for temporal complements not introduced by a preposition.</p>
+
+<pre><code class="language-sdparse">Le résultat de la course \n The result of the race
+nmod(résultat, course)
+case(course, de)
+</code></pre>
+
+<pre><code class="language-sdparse">Maman prend bien soin de ses enfants \n Mother takes good care of her children
+nmod(soin, enfants)
+case(enfants, de)
+</code></pre>
+
+<pre><code class="language-sdparse">Il a grandi en Afrique \n He grew up in Africa
+nmod(grandi, Afrique)
+case(Afrique, en)
+</code></pre>
+
+<pre><code class="language-sdparse">Il est utilisé pour le service \n It is used for the service
+nmod(utilisé, service)
+case(service, pour)
+
+~~~ sdparse
+L' an passé, la compagnie a fait pas mal de bénéfices \n Last year, the company made quite a lot of benefit
+nmod(fait, an)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/nmod.md" target="#">edit nmod</a></p>
 
