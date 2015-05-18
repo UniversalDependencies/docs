@@ -9,7 +9,7 @@ The remnant relation is used to analyze cases of ellipsis where there is no func
 Currently this construction is not correctly annotated in the French treebank.
 
 ~~~ sdparse
-Marie-1 a-2 été-3 à-4 Paris-5 et-6 Miriam-7 à-8 Prague-9 \n Marie went to Paris and Miriam to Prague
+Marie a été à Paris et Miriam à Prague \n Marie went to Paris and Miriam to Prague
 nsubj(été-3, Marie-1)
 nmod(été-3, Paris-5)
 case(Paris-5, à-4)
