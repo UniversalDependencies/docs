@@ -34,8 +34,18 @@
 
           <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the complement of a copular verb and
+the copular verb. Copular heads are avoided when possible. For more on the <code>cop</code> relation, see the universal dependency description (<a href="">u-dep/cop</a>)</p>
+
+<pre><code class="language-sdparse">Bill est un homme honnête \n Bill is an honest man
+cop(homme, est)
+nsubj(homme, Bill)
+amod(homme, honnête)
+det(homme, un)
+</code></pre>
+
+<p>In the current French treebank, the following verbs are treated as copular ones: <em>être</em>, <em>devenir</em>, <em>rester</em>, <em>demeurer</em>, as well as in some constructions <em>appeler</em>, <em>intituler</em>, <em>nommer</em>, <em>réputer</em>, <em>élir</em></p>
+
 
 
 <!-- "in other languages" links -->
