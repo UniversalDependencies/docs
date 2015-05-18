@@ -252,8 +252,40 @@ dobj(aime, t')
 <p><a id="al-fr-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advcl</code>.</p>
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
+as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
+clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
+
+<pre><code class="language-sdparse">L'accident s'est produit quand il faisait noir \n The accident happened when it was dark
+advcl(produit, faisait)
+</code></pre>
+
+<pre><code class="language-sdparse">Si tu sais qui l'a fait, tu devrais le dire au professeur \n If you know who did it, you should tell the teacher
+advcl(dire, sais)
+</code></pre>
+
+<hr />
+
+<p>layout: relation
+title: ‘advcl’
+shortdef: ‘adverbial clause modifier’
+—</p>
+
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
+as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
+clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
+
+<pre><code class="language-sdparse">The accident happened as night was falling
+advcl(happened, falling)
+</code></pre>
+
+<pre><code class="language-sdparse">If you know who did it, you should tell the teacher
+advcl(tell, know)
+</code></pre>
+
+<pre><code class="language-sdparse">Il faut venir tôt pour avoir de la place \n One needs to get there early to have a seat
+advcl(venir, avoir)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/advcl.md" target="#">edit advcl</a></p>
 
@@ -583,8 +615,21 @@ appos(Email:-5, jones@abc.edf-6)
 <p><a id="al-fr-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mark</code>.</p>
+<p>A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. </p>
+
+<pre><code class="language-sdparse">Il dit que tu aimes nager \n He says that you like to swim
+mark(aimes, que)
+</code></pre>
+
+<pre><code class="language-sdparse">S' il pleut, on sera mouillé \n If it rains , we will get wet
+mark(pleut, S')
+</code></pre>
+
+<p>Prepositions introducing infinites are also anlyzed as a <code>mark</code>.</p>
+
+<pre><code class="language-sdparse">Il faut arriver tôt pour avoir de la place \n One needs to get there early to have a seat
+mark(avoir, pour)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/mark.md" target="#">edit mark</a></p>
 
