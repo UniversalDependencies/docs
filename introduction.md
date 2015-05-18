@@ -89,7 +89,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
-* <a href="index.html"language-zh">Chinese</a>: Rob Voigt
+* <a href="index.html#language-zh">Chinese</a>: Rob Voigt
 * <a href="index.html#language-hr">Croatian</a>: Zeljko Agic
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-da">Danish</a>: Barbara Plank, Hector Martinez Alonso, Anders Trærup Johannsen
