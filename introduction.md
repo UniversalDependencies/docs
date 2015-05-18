@@ -87,11 +87,16 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
-* <a href="index.html#language-eu">Basque</a>: Koldo Gojenola
+* <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
+* <a href="index.html"language-zh">Chinese</a>: Rob Voigt
+* <a href="index.html#language-hr">Croatian</a>: Zeljko Agic
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
+* <a href="index.html#language-da">Danish</a>: Barbara Plank, Hector Martinez Alonso, Anders Trærup Johannsen
+* <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
-* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter
+* <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Krister Linden
+* <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Ryan McDonald
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
 * <a href="index.html#language-hu">Hungarian</a>: Richárd Farkas, Veronika Vincze
@@ -99,9 +104,10 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
-* <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Joakim Nivre
-* <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu
+* <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
+* <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
+* <a href="index.html#language-es">Spanish</a>: Ryan McDonald
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
 
 ## References
