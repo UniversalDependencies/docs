@@ -7,5 +7,18 @@ shortdef: 'auxiliary'
 redirect_from: "fr/dep/aux.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `aux`.
+An auxiliary of a clause is a [non-main verb](sv-pos/AUX) of the
+clause.
+
+Exception: An auxiliary verb used to construct the passive
+[voice](sv-feat/Voice) is not labeled `aux` but [auxpass]().
+
+~~~ sdparse
+On peut nager dans le lac \n One can swim in the lake
+aux(nager, peut)
+~~~
+
+~~~ sdparse
+Quelles conséquences cela a - t - il eu ? \n What consequences did this have ?
+aux(eu, a)
+~~~
