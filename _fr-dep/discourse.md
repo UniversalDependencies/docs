@@ -13,7 +13,7 @@ discourse(fun, Waouh)
 ~~~
 
 ~~~ sdparse
-Bref , une occassion à ne pas laisser passer \n In short, an opportunity that should not be passed on
-discourse(occasson, Bref)
+Bref , une occasion à ne pas laisser passer \n In short, an opportunity that should not be passed on
+discourse(occasion, Bref)
 ~~~
 
