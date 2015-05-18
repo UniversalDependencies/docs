@@ -342,16 +342,38 @@ appos(Appelation, AOC)
 <p><a id="al-fr-dep/aux" class="al-dest"></a></p>
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>aux</code>.</p>
+<p>An auxiliary of a clause is a <a href="sv-pos/AUX">non-main verb</a> of the
+clause.</p>
+
+<p>Exception: An auxiliary verb used to construct the passive
+<a href="sv-feat/Voice">voice</a> is not labeled <code>aux</code> but <a href="">auxpass</a>.</p>
+
+<pre><code class="language-sdparse">On peut nager dans le lac \n One can swim in the lake
+aux(nager, peut)
+</code></pre>
+
+<pre><code class="language-sdparse">Quelles conséquences cela a - t - il eu ? \n What consequences did this have ?
+aux(eu, a)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/aux_.md" target="#">edit aux</a></p>
 
 <p><a id="al-fr-dep/auxpass" class="al-dest"></a></p>
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>A passive auxiliary of a clause is a non-main verb of the clause which
+contains the passive information.</p>
+
+<pre><code class="language-sdparse">Kennedy fut assassiné \n Kennedy was murdered
+auxpass(assassiné, fut)
+</code></pre>
+
+<p>Other auxiliaries associated with the same main verb are not labeled <code>auxpass</code> but <code>aux</code> since they do not themselves indicate passive voice.</p>
+
+<pre><code class="language-sdparse">Kennedy a été assassiné \n Kennedy has been murdered
+auxpass(assassiné, été)
+aux(assassiné, a)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/auxpass.md" target="#">edit auxpass</a></p>
 

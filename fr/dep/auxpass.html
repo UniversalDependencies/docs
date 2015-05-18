@@ -34,8 +34,19 @@
 
           <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>A passive auxiliary of a clause is a non-main verb of the clause which
+contains the passive information.</p>
+
+<pre><code class="language-sdparse">Kennedy fut assassiné \n Kennedy was murdered
+auxpass(assassiné, fut)
+</code></pre>
+
+<p>Other auxiliaries associated with the same main verb are not labeled <code>auxpass</code> but <code>aux</code> since they do not themselves indicate passive voice.</p>
+
+<pre><code class="language-sdparse">Kennedy a été assassiné \n Kennedy has been murdered
+auxpass(assassiné, été)
+aux(assassiné, a)
+</code></pre>
 
 
 <!-- "in other languages" links -->
