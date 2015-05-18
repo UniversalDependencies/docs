@@ -26,7 +26,7 @@ label.
 ~~~ sdparse
 Cervélo Test Team
 name(Team, Cervélo)
-name(Teaml, Test)
+name(Team, Test)
 ~~~
 
 For names with a clear syntactic modification structure, the dependencies should instead reflect the syntactic modification structure using regular syntactic relations, as in:
