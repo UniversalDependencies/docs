@@ -12,11 +12,11 @@ mark(aimes, que)
 ~~~
 
 ~~~ sdparse
-S' il pleut, on sera mouillé \n If it rains , we will get wet
+S' il pleut, on sera mouillé \n If it rains, we will get wet
 mark(pleut, S')
 ~~~
 
-Prepositions introducing infinites are also anlyzed as a `mark`.
+Prepositions introducing infinitives are also analyzed as `mark`.
 
 ~~~ sdparse
 Il faut arriver tôt pour avoir de la place \n One needs to get there early to have a seat
