@@ -229,8 +229,28 @@ in two places.</p>
 <p><a id="al-fr-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>acl</code>.</p>
+<p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
+Note that in French relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
+
+<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>fait (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant French subjunctives). </p>
+
+<pre><code class="language-sdparse">Comment est-ce que cela peut être réconcilié avec le fait que beaucoup de mariages cassent ? \n How can that be reconciled with the fact that many marriages break up?
+acl(fait, cassent) 
+</code></pre>
+
+<pre><code class="language-sdparse">Une photo de ce qui s'est passé \n A picture of what happens
+acl(photo, passé)
+</code></pre>
+
+<pre><code class="language-sdparse">Un culte nourri d'influences d'anciens mythes \n A cult nourrished with influences from old myths
+acl(culte, nourri)
+</code></pre>
+
+<p>The <code>acl</code> relation is also used for secondary predicates modifying a nominal:</p>
+
+<pre><code class="language-sdparse">Il quitta la pièce pleurant . \n He left the room crying .
+acl(Il, pleurant)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/acl.md" target="#">edit acl</a></p>
 
@@ -241,7 +261,7 @@ for <code>acl</code>.</p>
 a nominal. The relation points from the head of the nominal to the
 head of the relative clause.</p>
 
-<pre><code class="language-sdparse">J'ai vu l'homme qui t' aime \n I saw the man who loves you
+<pre><code class="language-sdparse">J'ai vu l' homme qui t' aime \n I saw the man who loves you
 acl:relcl(homme, aime)
 nsubj(aime, qui)
 dobj(aime, t')
@@ -262,25 +282,6 @@ advcl(produit, faisait)
 
 <pre><code class="language-sdparse">Si tu sais qui l'a fait, tu devrais le dire au professeur \n If you know who did it, you should tell the teacher
 advcl(dire, sais)
-</code></pre>
-
-<hr />
-
-<p>layout: relation
-title: ‘advcl’
-shortdef: ‘adverbial clause modifier’
-—</p>
-
-<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
-as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
-clause, etc. The dependent must be clausal (or else it is an <a href="">advmod</a>) and the dependent is the main predicate of the clause.</p>
-
-<pre><code class="language-sdparse">The accident happened as night was falling
-advcl(happened, falling)
-</code></pre>
-
-<pre><code class="language-sdparse">If you know who did it, you should tell the teacher
-advcl(tell, know)
 </code></pre>
 
 <pre><code class="language-sdparse">Il faut venir tôt pour avoir de la place \n One needs to get there early to have a seat
@@ -534,8 +535,8 @@ discourse(fun, :)-6)
 discourse(fun, Waouh)
 </code></pre>
 
-<pre><code class="language-sdparse">Bref , une occassion à ne pas laisser passer \n In short, an opportunity that should not be passed on
-discourse(occasson, Bref)
+<pre><code class="language-sdparse">Bref , une occasion à ne pas laisser passer \n In short, an opportunity that should not be passed on
+discourse(occasion, Bref)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fr-dep/discourse.md" target="#">edit discourse</a></p>
@@ -578,7 +579,7 @@ dobj(lave, se)
 
 <p>This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. There is further discussion and examples on the universal dependency page (<a href="">u-dep/expl</a>).</p>
 
-<pre><code class="language-sdparse">C'est la seule manière de réussir \n It's the only way to succeed
+<pre><code class="language-sdparse">C' est la seule manière de réussir \n It' s the only way to succeed
 expl(manière, C')
 </code></pre>
 
@@ -609,7 +610,7 @@ that is not well edited, or due to tokenization errors. The head is in some sens
 
 <p>This relation is not used in the French treebank.</p>
 
-<pre><code class="language-sdparse">Ils sont partis aujourd' hui  \n They left today.
+<pre><code class="language-sdparse">Ils sont partis aujourd' hui  \n They left today
 goeswith(aujourd', hui)
 </code></pre>
 
@@ -726,7 +727,7 @@ label.</p>
 
 <pre><code class="language-sdparse">Cervélo Test Team
 name(Team, Cervélo)
-name(Teaml, Test)
+name(Team, Test)
 </code></pre>
 
 <p>For names with a clear syntactic modification structure, the dependencies should instead reflect the syntactic modification structure using regular syntactic relations, as in:</p>
@@ -861,7 +862,7 @@ parataxis(jouent, travail)
 parataxis(ont, voir)
 </code></pre>
 
-<pre><code class="language-sdparse">C'est l'idée : les enfants sont le futur \n That is the thought : children are the future
+<pre><code class="language-sdparse">C'est l' idée : les enfants sont le futur \n That is the thought : children are the future
 parataxis(idée, futur)
 </code></pre>
 
@@ -890,7 +891,7 @@ punct(mouillé, .)
 
 <p>Currently this construction is not correctly annotated in the French treebank.</p>
 
-<pre><code class="language-sdparse">Marie-1 a-2 été-3 à-4 Paris-5 et-6 Miriam-7 à-8 Prague-9 \n Marie went to Paris and Miriam to Prague
+<pre><code class="language-sdparse">Marie a été à Paris et Miriam à Prague \n Marie went to Paris and Miriam to Prague
 nsubj(été-3, Marie-1)
 nmod(été-3, Paris-5)
 case(Paris-5, à-4)

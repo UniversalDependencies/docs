@@ -34,8 +34,28 @@
 
           <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>acl</code>.</p>
+<p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
+Note that in French relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
+
+<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>fait (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant French subjunctives). </p>
+
+<pre><code class="language-sdparse">Comment est-ce que cela peut être réconcilié avec le fait que beaucoup de mariages cassent ? \n How can that be reconciled with the fact that many marriages break up?
+acl(fait, cassent) 
+</code></pre>
+
+<pre><code class="language-sdparse">Une photo de ce qui s'est passé \n A picture of what happens
+acl(photo, passé)
+</code></pre>
+
+<pre><code class="language-sdparse">Un culte nourri d'influences d'anciens mythes \n A cult nourrished with influences from old myths
+acl(culte, nourri)
+</code></pre>
+
+<p>The <code>acl</code> relation is also used for secondary predicates modifying a nominal:</p>
+
+<pre><code class="language-sdparse">Il quitta la pièce pleurant . \n He left the room crying .
+acl(Il, pleurant)
+</code></pre>
 
 
 <!-- "in other languages" links -->
