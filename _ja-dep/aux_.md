@@ -7,5 +7,19 @@ shortdef: 'auxiliary'
 redirect_from: "ja/dep/aux.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `aux`.
+Auxiliary verbs and particles that attach to verbs.
+
+~~~ sdparse
+ご飯 を 食べ た 。 \n rice ACC eat PAST .
+case(ご飯, を)
+dobj(食べ, ご飯)
+aux(食べ, た)
+punct(食べ, 。)
+~~~
+
+~~~ sdparse
+行き ます か 。 \n go POLITE QUESTION .
+aux(行き, ます)
+aux(行き, か)
+punct(行き, 。)
+~~~

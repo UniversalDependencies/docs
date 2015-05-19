@@ -4,5 +4,11 @@ title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `appos`.
+Appositive relations.
+
+~~~ sdparse
+形態素 解析 器 Mecab \n morpheme analysis tool Mecab
+appos(Mecab, 器)
+compound(解析, 形態素)
+compound(器, 解析)
+~~~

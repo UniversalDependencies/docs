@@ -4,5 +4,4 @@ title: 'remnant'
 shortdef: 'remnant in ellipsis'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `remnant`.
+Used to annotate head-less coordination (see [the definition in Universal Dependencies](u-dep/remnant) for details).

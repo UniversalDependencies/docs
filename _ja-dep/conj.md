@@ -4,5 +4,10 @@ title: 'conj'
 shortdef: 'conjunct'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `conj`.
+Coordination.
+
+~~~ sdparse
+太郎 と 次郎 \n Taro and Jiro
+cc(太郎, と)
+conj(太郎, 次郎)
+~~~

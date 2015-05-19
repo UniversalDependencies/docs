@@ -4,5 +4,11 @@ title: 'dobj'
 shortdef: 'direct object'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dobj`.
+Direct object (typically a postpositional phrase with a case marker を / o).
+
+~~~ sdparse
+ご飯 を 食べる 。 \n Rice ACC eat .
+nsubj(食べる, ご飯)
+case(ご飯, を)
+punct(食べる, 。)
+~~~

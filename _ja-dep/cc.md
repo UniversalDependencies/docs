@@ -4,5 +4,5 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `cc`.
+Conjunction, coordinating conjunctive particle (e.g. と / to, や / ya).
+See the example of [conj]().

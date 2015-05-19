@@ -4,5 +4,10 @@ title: 'advmod'
 shortdef: 'adverbial modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `advmod`.
+Adverbial modifiers.
+
+~~~ sdparse
+ゆっくり 走る 。 \n slowly run .
+advmod(走る, ゆっくり)
+punct(走る, 。)
+~~~

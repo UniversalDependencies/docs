@@ -4,5 +4,11 @@ title: 'nummod'
 shortdef: 'numeric modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nummod`.
+Numeral classifier phrases.
+
+~~~ sdparse
+3 冊 の 本 \n 3 COUNT of books
+nummod(本, 3)
+case(3, の)
+?(3, 冊)
+~~~

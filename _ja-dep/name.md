@@ -4,5 +4,9 @@ title: 'name'
 shortdef: 'name'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `name`.
+Proper noun compounds.
+
+~~~ sdparse
+山田 太郎 \n Yamada Taro
+name(山田, 太郎)
+~~~
