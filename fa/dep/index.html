@@ -52,6 +52,9 @@ in two places.</p>
 	  <td><strike>csubj</strike></td>
 	</tr>
 	<tr>
+	  <td>↳<a>nsubj:nc</a></td>	
+	</tr>
+	<tr>
 	  <td><a>nsubjpass</a></td>
 	  <td><strike>csubjpass</strike></td>
 	</tr>
@@ -61,7 +64,7 @@ in two places.</p>
 	  <td><a>xcomp</a></td>
 	</tr>
 	<tr>
-	  <td><a>iobj</a></td>
+	  <td><strike>iobj</strike></td>
 	</tr>
       </table>
 
@@ -79,6 +82,9 @@ in two places.</p>
 	  <td><a>nmod</a></td>
 	  <td><a>advcl</a></td>
 	  <td><a>advmod</a></td>
+	</tr>
+	<tr>
+	<td>↳<a>nmod:poss</a></td>
 	</tr>
 	<tr>
 	  <td>&nbsp;</td>
@@ -103,12 +109,12 @@ in two places.</p>
 	  <td><a>mark</a></td>
 	</tr>
 	<tr>
-	  <td><a>discourse</a></td>
+	  <td><strike>discourse</strike></td>
 	  <td><a>auxpass</a></td>
 	  <td><a>punct</a></td>
 	</tr>
 	<tr>
-	  <td><a>expl</a></td>
+	  <td><strike>expl</strike></td>
 	  <td><a>cop</a></td>
 	</tr>
       </table>
@@ -132,13 +138,16 @@ in two places.</p>
 	</tr>
 	<tr>
 	  <td><a>appos</a></td>
-	  <td>&nbsp;</td>
+	  <td>↳<a>acl:relcl</a></td>	
 	  <td><a>det</a></td>
 	</tr>
 	<tr>
 	  <td><a>nmod</a></td>
-	  <td>&nbsp;</td>
+	  <td>↳<a>det:predet</a></td>
 	  <td><a>neg</a></td>
+	</tr>
+	<tr>
+	 <td>↳<a>nmod:poss</a></td>
 	</tr>
       </table>
 
@@ -150,15 +159,21 @@ in two places.</p>
 	<tr>
 	  <td><a>compound</a></td>
 	  <td><a>mwe</a></td>
-	  <td><a>goeswith</a></td>
+	  <td><strike>goeswith</strike></td>
 	</tr>
+	<tr> 
+        <td>↳<a>compound:lvc<a>
+	
+	<tr>
+	<td>↳<a>compound:prt</a></td>
+        </tr>
 	<tr>
 	  <td><a>name</a></td>
 	  <td><a>foreign</a></td>
 	</tr>
-      </table>
+      
 
-    </td>
+    
     <td>
 
       <table class="category">
@@ -168,10 +183,13 @@ in two places.</p>
 	  <td><a>cc</a></td>
 	  <td><a>punct</a></td>
 	</tr>
+	<tr> 
+	<td>↳<a>conj:preconj</a></td>
+	</tr>
       </table>
 
     </td>
-  </tr>
+  
   <tr>
     <td>
 
@@ -188,13 +206,13 @@ in two places.</p>
       <table class="category">
 	<tr><td colspan="3"><strong>Loose joining relations</strong></td></tr>
 	<tr>
-	  <td><a>list</a></td>
+	  <td><strike>list</strike></td>
 	  <td><a>parataxis</a></td>
-	  <td><a>remnant</a></td>
+	  <td><strike>remnant</strike></td>
 	</tr>
 	<tr>
 	  <td><a>dislocated</a></td>
-	  <td></td><td><a>reparandum</a></td>
+	  <td></td><td><strike>reparandum</strike></td>
 	</tr>
       </table>
 
@@ -215,54 +233,55 @@ in two places.</p>
 
     </td>
   </tr>
-</table>
 
-<hr />
 
-<p>Alphabetical listing</p>
 
-<ul>
-  <li><a href="">acl</a>: clausal modifier of noun</li>
-  <li><a href="">advcl</a>: adverbial clause modifier</li>
-  <li><a href="">advmod</a>: adverbial modifier</li>
-  <li><a href="">amod</a>: adjectival modifier</li>
-  <li><a href="">appos</a>: appositional modifier</li>
-  <li><a href="">aux</a>: auxiliary</li>
-  <li><a href="">auxpass</a>: passive auxiliary</li>
-  <li><a href="">case</a>: case marking</li>
-  <li><a href="">cc</a>: coordinating conjunction</li>
-  <li><a href="">ccomp</a>: clausal complement</li>
-  <li><a href="">compound</a>: compound</li>
-  <li><a href="">conj</a>: conjunct</li>
-  <li><a href="">cop</a>: copula</li>
-  <li><a href="">csubj</a>: clausal subject</li>
-  <li><a href="">csubjpass</a>: clausal passive subject</li>
-  <li><a href="">dep</a>: unspecified dependency</li>
-  <li><a href="">det</a>: determiner</li>
-  <li><a href="">discourse</a>: discourse element</li>
-  <li><a href="">dislocated</a>: dislocated elements</li>
-  <li><a href="">dobj</a>: direct object</li>
-  <li><a href="">expl</a>: expletive</li>
-  <li><a href="">foreign</a>: foreign words</li>
-  <li><a href="">goeswith</a>: goes with</li>
-  <li><a href="">iobj</a>: indirect object</li>
-  <li><a href="">list</a>: list</li>
-  <li><a href="">mark</a>: marker</li>
-  <li><a href="">mwe</a>: multi-word expression</li>
-  <li><a href="">name</a>: name</li>
-  <li><a href="">neg</a>: negation modifier</li>
-  <li><a href="">nmod</a>: nominal modifier</li>
-  <li><a href="">nsubj</a>: nominal subject</li>
-  <li><a href="">nsubjpass</a>: passive nominal subject</li>
-  <li><a href="">nummod</a>: numeric modifier</li>
-  <li><a href="">parataxis</a>: parataxis</li>
-  <li><a href="">punct</a>: punctuation</li>
-  <li><a href="">remnant</a>: remnant in ellipsis</li>
-  <li><a href="">reparandum</a>: overridden disfluency</li>
-  <li><a href="">root</a>: root</li>
-  <li><a href="">vocative</a>: vocative</li>
-  <li><a href="">xcomp</a>: open clausal complement</li>
-</ul>
+----------
+
+Alphabetical listing
+
+
+* [acl](): clausal modifier of noun
+* [advcl](): adverbial clause modifier
+* [advmod](): adverbial modifier
+* [amod](): adjectival modifier
+* [appos](): appositional modifier
+* [aux](): auxiliary
+* [auxpass](): passive auxiliary
+* [case](): case marking
+* [cc](): coordinating conjunction
+* [ccomp](): clausal complement
+* [compound](): compound
+* [conj](): conjunct
+* [cop](): copula
+* [csubj](): clausal subject
+* [csubjpass](): clausal passive subject
+* [dep](): unspecified dependency
+* [det](): determiner
+* [discourse](): discourse element
+* [dislocated](): dislocated elements
+* [dobj](): direct object
+* [expl](): expletive
+* [foreign](): foreign words
+* [goeswith](): goes with
+* [iobj](): indirect object
+* [list](): list
+* [mark](): marker
+* [mwe](): multi-word expression
+* [name](): name
+* [neg](): negation modifier
+* [nmod](): nominal modifier
+* [nsubj](): nominal subject
+* [nsubjpass](): passive nominal subject
+* [nummod](): numeric modifier
+* [parataxis](): parataxis
+* [punct](): punctuation
+* [remnant](): remnant in ellipsis
+* [reparandum](): overridden disfluency
+* [root](): root
+* [vocative](): vocative
+* [xcomp](): open clausal complement
+</a></a></td></tr></table></td></tr></table>
 
 
       </div>
