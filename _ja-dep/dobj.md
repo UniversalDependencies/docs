@@ -8,7 +8,7 @@ Direct object (typically a postpositional phrase with a case marker を / o).
 
 ~~~ sdparse
 ご飯 を 食べる 。 \n Rice ACC eat .
-nsubj(食べる, ご飯)
+dobj(食べる, ご飯)
 case(ご飯, を)
 punct(食べる, 。)
 ~~~
