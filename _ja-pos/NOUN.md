@@ -21,7 +21,7 @@ Note that they are tagged `VERB', when they function as verbs in being followed 
 - _<b>質問</b>&nbsp;_ “question” (noun (common.general) / 名詞-普通名詞-一般)
 - _<b>こと</b>&nbsp;_  formal noun (noun (common.general) / 名詞-普通名詞-一般)
 - _<b>副</b>&nbsp; 社長&nbsp;_ “<b>vice</b> president” (prefix / 接頭辞)
-- _5&nbsp; <b>回</b>&nbsp;_ “5 <b>times</b>” (noun(common.counter) / 名詞-普通名詞-助数詞可能)
+- _5&nbsp; <b>回</b>&nbsp;_ “5 <b>times</b>” (noun (common.counter) / 名詞-普通名詞-助数詞可能)
 
 
 
