@@ -65,7 +65,7 @@ title:  'Universal Dependencies'
 
 * <strong>Download</strong> the treebanks from the LINDAT/CLARIN repository
   * Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015.
-  * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464.
+  * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
 
 
 <small>
