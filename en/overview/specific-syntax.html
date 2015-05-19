@@ -547,7 +547,7 @@ case(which, with)
 <p>Relatives clauses are not, however, the only type of clausal modifiers of nouns. For one example, reduced relative clauses are not typed <code>acl:relcl</code>, but rather <code>acl</code>.</p>
 
 <pre><code class="language-sdparse">There are many online sites offering booking facilities .
-acl(hotels, offering)
+acl(sites, offering)
 </code></pre>
 
 <pre><code class="language-sdparse">I have a parakeet named cookie .
@@ -564,8 +564,7 @@ acl(issues, see)
 acl(way, get)
 </code></pre>
 
-<pre><code class="language-sdparse">
-</code></pre>
+<p><em>Depictives</em> are also represented with the <code>acl</code> relation.</p>
 
 <h4 id="quantifier-phrases">Quantifier phrases</h4>
 
@@ -585,7 +584,7 @@ mwe(more, than)
 
 <p>Ranges are also treated as numerical dependents. Note that in this case the dash <em>-</em> is represented as a preposition, because it is a functional equivalent of <em>to</em> (as becomes clear from the fact that it is normally read that way).</p>
 
-<pre><code class="language-sdparse">In just 2 - 3 focused lessons, you will be ready .
+<pre><code class="language-sdparse">In just 2 - 3 focused lessons , you will be ready .
 nummod(lessons, 2)
 nmod(2, 3)
 case(3,-)
@@ -637,7 +636,7 @@ dobj(sang, songs)
 
 <p>This creates some ambiguities: it is not possible to tell, from the representation alone, whether <em>elated</em> modified <em>bride</em> only, or <em>bride and groom</em>. Conversely, it is clear that <em>songs</em> is an object only of <em>sang</em>, since it attaches to that verb directly rather than to the head of the conjunction, which is <em>danced</em>. A change in the ordering of these constituents can introduce that ambiguity.</p>
 
-<pre><code class="language-sdparse">The excited bride and groom sang songs and danced .
+<pre><code class="language-sdparse">The elated bride and groom sang songs and danced .
 cc(sang, and)
 conj(sang, danced)
 dobj(sang, songs)
