@@ -590,7 +590,7 @@ Relatives clauses are not, however, the only type of clausal modifiers of nouns.
 
 ~~~sdparse
 There are many online sites offering booking facilities .
-acl(hotels, offering)
+acl(sites, offering)
 ~~~
 
 ~~~sdparse
@@ -610,9 +610,7 @@ I just want a simple way to get my discount .
 acl(way, get)
 ~~~
 
-~~~sdparse
-
-~~~
+_Depictives_ are also represented with the `acl` relation.
 
 #### Quantifier phrases
 
@@ -635,7 +633,7 @@ mwe(more, than)
 Ranges are also treated as numerical dependents. Note that in this case the dash *-* is represented as a preposition, because it is a functional equivalent of *to* (as becomes clear from the fact that it is normally read that way).
 
 ~~~sdparse
-In just 2 - 3 focused lessons, you will be ready .
+In just 2 - 3 focused lessons , you will be ready .
 nummod(lessons, 2)
 nmod(2, 3)
 case(3,-)
@@ -694,7 +692,7 @@ dobj(sang, songs)
 This creates some ambiguities: it is not possible to tell, from the representation alone, whether *elated* modified *bride* only, or *bride and groom*. Conversely, it is clear that *songs* is an object only of *sang*, since it attaches to that verb directly rather than to the head of the conjunction, which is *danced*. A change in the ordering of these constituents can introduce that ambiguity.
 
 ~~~sdparse
-The excited bride and groom sang songs and danced .
+The elated bride and groom sang songs and danced .
 cc(sang, and)
 conj(sang, danced)
 dobj(sang, songs)
