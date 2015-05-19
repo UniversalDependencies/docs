@@ -27,12 +27,12 @@ some words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_
 
 ### Examples
 
-- _大きい&nbsp;_ “big” (形状詞-一般)
-- _古い&nbsp;_ “old” (形状詞-一般)
-- _自由 (+だ)&nbsp;_ “free” (形状詞-一般)
-- _赤い&nbsp;_ “red” (形状詞-一般)
-- _同じ&nbsp;_ “same” (連体詞)
-- _いろんな&nbsp;_ “various” (連体詞)
+- _大きい&nbsp;_ “big” (adjective_i (general) / 形容詞-一般)
+- _古い&nbsp;_ “old” (adjective_i (general) / 形容詞-一般)
+- _自由 (+だ)&nbsp;_ “free” (adjectival_noun (general) / 形状詞-一般)
+- _赤い&nbsp;_ “red” (adjective_i (general) / 形容詞-一般)
+- _同じ&nbsp;_ “same” (adniminal / 連体詞)
+- _いろんな&nbsp;_ “various” (adnominal / 連体詞)
 
 
 ### References
