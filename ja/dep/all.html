@@ -222,251 +222,436 @@ in two places.</p>
 <p><a id="al-ja-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>acl</code>.</p>
+<p>Relative clause, clausal complement of nouns.</p>
+
+<pre><code class="language-sdparse">太郎 が 食べ た リンゴ \n Taro NOM eat PAST apple
+acl(リンゴ, 食べ)
+case(太郎, が)
+aux(食べ, た)
+</code></pre>
+
+<pre><code class="language-sdparse">ほめ られ た こと \n praise PASSIVE PAST fact
+acl(こと, ほめ)
+auxpass(ほめ, られ)
+aux(ほめ, た)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/acl.md" target="#">edit acl</a></p>
 
 <p><a id="al-ja-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advcl</code>.</p>
+<p>Subordinate clause.</p>
+
+<pre><code class="language-sdparse">食べ た なら 行く 。 \n eat PAST if go .
+advcl(行く, 食べ)
+aux(食べ, た)
+mark(食べ, なら)
+punct(行く, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/advcl.md" target="#">edit advcl</a></p>
 
 <p><a id="al-ja-dep/advmod" class="al-dest"></a></p>
 <h2><code>advmod</code>: adverbial modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>advmod</code>.</p>
+<p>Adverbial modifiers.</p>
+
+<pre><code class="language-sdparse">ゆっくり 走る 。 \n slowly run .
+advmod(走る, ゆっくり)
+punct(走る, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/advmod.md" target="#">edit advmod</a></p>
 
 <p><a id="al-ja-dep/amod" class="al-dest"></a></p>
 <h2><code>amod</code>: adjectival modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>amod</code>.</p>
+<p>Adjectival modifiers; adjectives with arguments are tagged as “acl”.</p>
+
+<pre><code class="language-sdparse">きれい な リンゴ \n beautiful AUX apple
+amod(リンゴ, きれい)
+aux(きれい, な)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/amod.md" target="#">edit amod</a></p>
 
 <p><a id="al-ja-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>appos</code>.</p>
+<p>Appositive relations.</p>
+
+<pre><code class="language-sdparse">形態素 解析 器 Mecab \n morpheme analysis tool Mecab
+appos(Mecab, 器)
+compound(解析, 形態素)
+compound(器, 解析)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/appos.md" target="#">edit appos</a></p>
 
 <p><a id="al-ja-dep/aux" class="al-dest"></a></p>
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>aux</code>.</p>
+<p>Auxiliary verbs and particles that attach to verbs.</p>
+
+<pre><code class="language-sdparse">ご飯 を 食べ た 。 \n rice ACC eat PAST .
+case(ご飯, を)
+dobj(食べ, ご飯)
+aux(食べ, た)
+punct(食べ, 。)
+</code></pre>
+
+<pre><code class="language-sdparse">行き ます か 。 \n go POLITE QUESTION .
+aux(行き, ます)
+aux(行き, か)
+punct(行き, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/aux_.md" target="#">edit aux</a></p>
 
 <p><a id="al-ja-dep/auxpass" class="al-dest"></a></p>
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>Passive auxiliary.</p>
+
+<pre><code class="language-sdparse">太郎 が 雇わ れ た 。 \n Taro NOM employ PASSIVE PAST .
+auxpass(雇わ, れ)
+case(太郎, が)
+nsubjpass(雇わ, 太郎)
+aux(雇わ, た)
+punct(雇わ, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/auxpass.md" target="#">edit auxpass</a></p>
 
 <p><a id="al-ja-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p>Postpositions and particles attach to a noun phrase.</p>
+
+<pre><code class="language-sdparse">太郎 が 東京 へ 行く 。\n Taro NOM Tokyo TO go .
+case(太郎, が)
+case(東京, へ)
+nsubj(行く, 太郎)
+nmod(行く, 東京)
+</code></pre>
+
+<pre><code class="language-sdparse">太郎 の 家 \n Taro OF house
+case(太郎, の)
+nmod(家, 太郎)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/case.md" target="#">edit case</a></p>
 
 <p><a id="al-ja-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cc</code>.</p>
+<p>Conjunction, coordinating conjunctive particle (e.g. と / to, や / ya).
+See the example of <a href="">conj</a>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/cc.md" target="#">edit cc</a></p>
 
 <p><a id="al-ja-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>Complement clause (typically a clause introduced by と / to).</p>
+
+<pre><code class="language-sdparse">きれい だ と 思う 。\n beautiful AUX that think .
+ccomp(思う, きれい)
+aux(きれい, だ)
+case(きれい, と)
+punct(思う, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/ccomp.md" target="#">edit ccomp</a></p>
 
 <p><a id="al-ja-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p>Noun compounds, verb compounds.</p>
+
+<pre><code class="language-sdparse">構文 解析 \n syntax analysis
+compound(解析, 構文)
+</code></pre>
+
+<pre><code class="language-sdparse">泳ぎ 着く \n swim reach
+compound(着く, 泳ぎ)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/compound.md" target="#">edit compound</a></p>
 
 <p><a id="al-ja-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>Coordination.</p>
+
+<pre><code class="language-sdparse">太郎 と 次郎 \n Taro and Jiro
+cc(太郎, と)
+conj(太郎, 次郎)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/conj.md" target="#">edit conj</a></p>
 
 <p><a id="al-ja-dep/cop" class="al-dest"></a></p>
 <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>Copular auxiliary だ / da.</p>
+
+<pre><code class="language-sdparse">太郎 は 学生 だ 。 \n Taro TOPIC student COPULA .
+nsubj(学生, 太郎)
+case(太郎, は)
+cop(学生, だ)
+punct(学生, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/cop.md" target="#">edit cop</a></p>
 
 <p><a id="al-ja-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>Clausal subjects introduced by a nominal marker の / no.</p>
+
+<pre><code class="language-sdparse">太郎 が 怒ら れる の は いや だ 。\n Taro NOM punish PASSIVE that TOPIC dislike AUX .
+csubj(いや, 怒ら)
+nsubjpass(怒ら, 太郎)
+case(太郎, が)
+auxpass(怒ら, れる)
+mark(怒ら, の)
+case(怒ら, は)
+aux(いや, だ)
+punct(いや, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/csubj.md" target="#">edit csubj</a></p>
 
 <p><a id="al-ja-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubjpass</code>.</p>
+<p>Clausal subjects in passive forms.</p>
+
+<pre><code class="language-sdparse">言っ た の が 悔やま れる 。\n say PAST that NOM regret PASSIVE .
+csubjpass(悔やま, 言っ)
+auxpass(悔やま, れる)
+aux(言っ, た)
+mark(言っ, の)
+case(言っ, が)
+punct(悔やま, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
 <p><a id="al-ja-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>Undefined.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/dep.md" target="#">edit dep</a></p>
 
 <p><a id="al-ja-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>この / kono “this”, こんな / konna “this”, あの / ano “that”, あんな / anna “that”, その / sono “that”, そんな / sonna “that”, どの / dono “which”, どんな / donna “which” modifying a noun</p>
+
+<pre><code class="language-sdparse">この 本 \n this book
+det(本, この)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/det.md" target="#">edit det</a></p>
 
 <p><a id="al-ja-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>discourse</code>.</p>
+<p>Discourse elements like interjection and emoticons.</p>
+
+<pre><code class="language-sdparse">あー つかれ た 。 \n ah tire PAST .
+discourse(つかれ, あー)
+aux(つかれ, た)
+punct(つかれ, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/discourse.md" target="#">edit discourse</a></p>
 
 <p><a id="al-ja-dep/dislocated" class="al-dest"></a></p>
 <h2><code>dislocated</code>: dislocated elements</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dislocated</code>.</p>
+<p>A topic phrase (typically a prepositionalphrase with topic marker は / ha).</p>
+
+<pre><code class="language-sdparse">象 は 鼻 が 長い 。 \n elephant TOPIC nose NOM long .
+dislocated(長い, 象)
+case(象, は)
+case(鼻, が)
+nsubj(長い, 鼻)
+punct(長い, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/dislocated.md" target="#">edit dislocated</a></p>
 
 <p><a id="al-ja-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dobj</code>.</p>
+<p>Direct object (typically a postpositional phrase with a case marker を / o).</p>
+
+<pre><code class="language-sdparse">ご飯 を 食べる 。 \n Rice ACC eat .
+nsubj(食べる, ご飯)
+case(ご飯, を)
+punct(食べる, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/dobj.md" target="#">edit dobj</a></p>
 
 <p><a id="al-ja-dep/expl" class="al-dest"></a></p>
 <h2><code>expl</code>: expletive</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>expl</code>.</p>
+<p>Not used in Japanese.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/expl.md" target="#">edit expl</a></p>
 
 <p><a id="al-ja-dep/foreign" class="al-dest"></a></p>
 <h2><code>foreign</code>: foreign words</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>foreign</code>.</p>
+<p>Foreign words in non-Japanese characters.</p>
+
+<pre><code class="language-sdparse">google docs を 使う 。\n google docs ACC use .
+foreign(docs, google)
+case(docs, を)
+dobj(使う, docs)
+punct(使う, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/foreign.md" target="#">edit foreign</a></p>
 
 <p><a id="al-ja-dep/goeswith" class="al-dest"></a></p>
 <h2><code>goeswith</code>: goes with</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>goeswith</code>.</p>
+<p>Used when a word is somehow split into tokens.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/goeswith.md" target="#">edit goeswith</a></p>
 
 <p><a id="al-ja-dep/iobj" class="al-dest"></a></p>
 <h2><code>iobj</code>: indirect object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>iobj</code>.</p>
+<p>Indirect object (typicall a postpositional phrase with a case marker に / ni).</p>
+
+<pre><code class="language-sdparse">花子 に あげる 。 \n Hanako DAT give .
+iobj(あげる, 花子)
+case(花子, に)
+punct(あげる, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/iobj.md" target="#">edit iobj</a></p>
 
 <p><a id="al-ja-dep/list" class="al-dest"></a></p>
 <h2><code>list</code>: list</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>list</code>.</p>
+<p>Listing.</p>
+
+<pre><code class="language-sdparse">1. 東京 2. 大阪 \n 1. Tokyo 2. Osaka
+list(大阪-4, 東京-2)
+appos(1.-1, 東京-2) 
+appos(2.-3, 大阪-4)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/list.md" target="#">edit list</a></p>
 
 <p><a id="al-ja-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mark</code>.</p>
+<p>Subordinating conjunction, conjunctive particle, complementizer (と / to, か / ka).</p>
+
+<pre><code class="language-sdparse">東京 へ 行く と 言っ た 。 \n Tokyo to go that say PAST .
+nmod(行く, 東京)
+case(東京, へ)
+mark(行く, と)
+ccomp(言っ, 行く)
+aux(言っ, た)
+punct(言っ, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/mark.md" target="#">edit mark</a></p>
 
 <p><a id="al-ja-dep/mwe" class="al-dest"></a></p>
 <h2><code>mwe</code>: multi-word expression</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mwe</code>.</p>
+<p>Multi-word functional expressions.</p>
+
+<pre><code class="language-sdparse">太郎 に よっ て 発見 さ れ た 。\n Taro by _ _ discover do PASSIVE PAST
+case(太郎, に)
+mwe(に, よっ)
+mwe(に, て)
+nmod(発見, 太郎)
+aux(発見, さ)
+auxpass(発見, れ)
+aux(発見, た)
+punct(発見, 。)
+</code></pre>
+
+<pre><code class="language-sdparse">雨 が 降る かも しれ ない 。 \n rain NOM fall maybe _ _ .
+nsubj(降る, 雨)
+case(雨, が)
+aux(降る, かも)
+mwe(かも, しれ)
+mwe(かも, ない)
+punct(降る, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/mwe.md" target="#">edit mwe</a></p>
 
 <p><a id="al-ja-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p>Proper noun compounds.</p>
+
+<pre><code class="language-sdparse">山田 太郎 \n Yamada Taro
+name(山田, 太郎)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/name.md" target="#">edit name</a></p>
 
 <p><a id="al-ja-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>neg</code>.</p>
+<p>Negation with ない / nai, ず / zu for clausal predicates.
+Negation with 不 / fu, 非 / hi for Noun dependents.</p>
+
+<pre><code class="language-sdparse">食べ ない 。\n eat not .
+neg(ない, 食べ)
+punct(食べ, 。)
+</code></pre>
+
+<pre><code class="language-sdparse">不 支持 \n not support
+neg(支持, 不)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/neg.md" target="#">edit neg</a></p>
 
 <p><a id="al-ja-dep/nmod" class="al-dest"></a></p>
 <h2><code>nmod</code>: nominal modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nmod</code>.</p>
+<p>Prepositional/noun phrases modifying another phrase.</p>
+
+<pre><code class="language-sdparse">明日 北海道 へ 行く 。 \n tomorrow Hokkaido TO go .
+nmod(行く, 北海道)
+case(北海道, へ)
+nmod(行く, 明日)
+punct(行く, 。)
+</code></pre>
+
+<pre><code class="language-sdparse">リンゴ の ジュース \n apple OF juice
+nmod(ジュース, リンゴ)
+case(リンゴ, の)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/nmod.md" target="#">edit nmod</a></p>
 
 <p><a id="al-ja-dep/nsubj" class="al-dest"></a></p>
 <h2><code>nsubj</code>: nominal subject</h2>
 
-<p>Nominal subjects (typically a postpositional phrase with a case marker “が”).</p>
+<p>Nominal subjects (typically a postpositional phrase with a case marker “が” or sometimes with は / wa).</p>
 
-<pre><code class="language-sdparse">太郎 が 走る 。
+<pre><code class="language-sdparse">太郎 が 走る 。 \n Taro NOM runs .
 nsubj(走る, 太郎)
 case(太郎, が)
+punct(走る, 。)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/nsubj.md" target="#">edit nsubj</a></p>
@@ -474,72 +659,115 @@ case(太郎, が)
 <p><a id="al-ja-dep/nsubjpass" class="al-dest"></a></p>
 <h2><code>nsubjpass</code>: passive nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubjpass</code>.</p>
+<p>Nominal subjects in passive forms.</p>
+
+<pre><code class="language-sdparse">太郎 が ほめ られる 。\n Taro NOM praise PASSIVE .
+nsubjpass(ほめ, 太郎)
+auxpass(ほめ, られる)
+case(太郎, が)
+punct(ほめ, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/nsubjpass.md" target="#">edit nsubjpass</a></p>
 
 <p><a id="al-ja-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nummod</code>.</p>
+<p>Numeral classifier phrases.</p>
+
+<pre><code class="language-sdparse">3 冊 の 本 \n 3 COUNT of books
+nummod(本, 3)
+case(3, の)
+?(3, 冊)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/nummod.md" target="#">edit nummod</a></p>
 
 <p><a id="al-ja-dep/parataxis" class="al-dest"></a></p>
 <h2><code>parataxis</code>: parataxis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>parataxis</code>.</p>
+<p>Listing of sentences.</p>
+
+<pre><code class="language-sdparse">「 太郎 は 花子 が 好き 。次郎 は 梅子 が 好き 。」 と 三郎 が 言っ た 。\n " Taro TOPIC Hanako NOM likable . Jiro TOPIC Umeko NOM likable . " that Saburo NOM say PAST .
+parataxis(好き-12, 好き-6)
+punct(好き-12, 「-1)
+punct(好き-12, 」-14)
+case(太郎-2, は-3)
+case(花子-4, が-5)
+dislocated(好き-6, 太郎-2)
+nsubj(好き-6, 花子-4)
+punct(好き-6, 。-7)
+case(次郎-8, は-9)
+case(梅子-10, が-11)
+dislocated(好き-12, 次郎-8)
+nsubj(好き-12, 梅子-10)
+punct(好き-12, 。-13)
+case(好き-12, と-15)
+case(三郎-16, が-17)
+nsubj(言っ-18, 三郎)
+ccomp(言っ-18, 好き-12)
+aux(言っ-18, た-19)
+punct(言っ-18, 。-19)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/parataxis.md" target="#">edit parataxis</a></p>
 
 <p><a id="al-ja-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>punct</code>.</p>
+<p>Punctuations.</p>
+
+<pre><code class="language-sdparse">太郎 が 走る 。 \n Taro NOM run .
+nsubj(走る, 太郎)
+case(太郎, が)
+punct(走る, 。)
+</code></pre>
+
+<pre><code class="language-sdparse">太郎 、 次郎 \n Taro , Jiro
+punct(太郎, 、)
+conj(太郎, 次郎)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/punct.md" target="#">edit punct</a></p>
 
 <p><a id="al-ja-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
+<p>Used to annotate head-less coordination (see <a href="u-dep/remnant">the definition in Universal Dependencies</a> for details).</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/remnant.md" target="#">edit remnant</a></p>
 
 <p><a id="al-ja-dep/reparandum" class="al-dest"></a></p>
 <h2><code>reparandum</code>: overridden disfluency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>reparandum</code>.</p>
+<p>Speech repair.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/reparandum.md" target="#">edit reparandum</a></p>
 
 <p><a id="al-ja-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>root</code>.</p>
+<p>Head of a sentence.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/root.md" target="#">edit root</a></p>
 
 <p><a id="al-ja-dep/vocative" class="al-dest"></a></p>
 <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>Dialogue participant names in text.</p>
+
+<pre><code class="language-sdparse">太郎 食べ なさい 。\n Taro eat IMPERATIVE .
+vocative(食べ, 太郎)
+aux(食べ, なさい)
+punct(食べ, 。)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/vocative.md" target="#">edit vocative</a></p>
 
 <p><a id="al-ja-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>xcomp</code>.</p>
+<p>Not used in Japanese.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/xcomp.md" target="#">edit xcomp</a></p>
 
