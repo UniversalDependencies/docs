@@ -16,12 +16,12 @@ Note that they are tagged `VERB', when they function as verbs in being followed 
 
 ### Examples
 
-- _<b>猫</b>&nbsp;_ “cat” (名詞)
-- _<b>木</b>&nbsp;_ “tree” (名詞)
-- _<b>質問</b>&nbsp;_ “question” (名詞)
-- _<b>こと</b>&nbsp;_  formal noun (名詞)
-- _<b>副</b>&nbsp; 社長&nbsp;_ “<b>vice</b> president” (接頭辞)
-- _5&nbsp; <b>回</b>&nbsp;_ “5 <b>times</b>” (接尾辞)
+- _<b>猫</b>&nbsp;_ “cat” (noun (common.general) / 名詞-普通名詞-一般)
+- _<b>木</b>&nbsp;_ “tree” (noun (common.general) / 名詞-普通名詞-一般)
+- _<b>質問</b>&nbsp;_ “question” (noun (common.general) / 名詞-普通名詞-一般)
+- _<b>こと</b>&nbsp;_  formal noun (noun (common.general) / 名詞-普通名詞-一般)
+- _<b>副</b>&nbsp; 社長&nbsp;_ “<b>vice</b> president” (prefix / 接頭辞)
+- _5&nbsp; <b>回</b>&nbsp;_ “5 <b>times</b>” (noun(common.counter) / 名詞-普通名詞-助数詞可能)
 
 
 
