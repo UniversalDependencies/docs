@@ -18,6 +18,7 @@ title:  'Universal Dependencies'
 <!-- links to per-language sections, shown as tab labels -->
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
   <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
   <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-zh">Chinese</a></li>
@@ -41,7 +42,6 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-am">Amharic</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -81,6 +81,32 @@ so that we can avoid problems with conflicting versions.
 <small>
 The next release (v1.2) is scheduled for November 2015. The plan is to 
 have regular treebank releases every six months.
+</small>
+</div>
+
+<!-- "Amharic" tab -->
+<div id="language-am" markdown="1" class="ui-tabs-hide">
+{% include am-status-table.html %}
+
+[Introduction](am/overview/introduction.html)
+
+* [Tokenization](am/overview/tokenization.html)
+* Morphology
+  * [General principles](am/overview/morphology.html)
+  * [Amharic POS tags](am/pos/index.html) ([single document](am/pos/all.html))
+  * [Amharic features](am/feat/index.html) ([single document](am/feat/all.html))
+* Syntax
+  * [General principles](am/overview/syntax.html)
+  * [Specific constructions](am/overview/specific-syntax.html)
+  * [Amharic dependency relations](am/dep/index.html) ([single document](am/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+<small> 
+This is part of the language-specific documentation for Universal
+Dependencies. <strong>Language-specific guidelines are currently under
+revision and should not be considered final.</strong> Our goal is to
+have a stable version of this part of the documentation by 2015-01-01.
 </small>
 </div>
 
@@ -612,32 +638,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-</div>
-
-<!-- "Amharic" tab -->
-<div id="language-am" markdown="1" class="ui-tabs-hide">
-{% include am-status-table.html %}
-
-[Introduction](am/overview/introduction.html)
-
-* [Tokenization](am/overview/tokenization.html)
-* Morphology
-  * [General principles](am/overview/morphology.html)
-  * [Amharic POS tags](am/pos/index.html) ([single document](am/pos/all.html))
-  * [Amharic features](am/feat/index.html) ([single document](am/feat/all.html))
-* Syntax
-  * [General principles](am/overview/syntax.html)
-  * [Specific constructions](am/overview/specific-syntax.html)
-  * [Amharic dependency relations](am/dep/index.html) ([single document](am/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- new tab template -->
