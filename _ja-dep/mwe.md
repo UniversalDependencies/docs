@@ -7,7 +7,7 @@ shortdef: 'multi-word expression'
 Multi-word functional expressions.
 
 ~~~ sdparse
-太郎 に よっ て 発見 さ れ た 。\n Taro by _ _ discover do PASSIVE PAST
+太郎 に よっ て 発見 さ れ た 。 \n Taro by _ _ discover do PASSIVE PAST
 case(太郎, に)
 mwe(に, よっ)
 mwe(に, て)
