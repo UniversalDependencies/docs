@@ -357,6 +357,20 @@ collections:
   id-overview:
     output: true
 #
+# Amharic
+#
+  am-pos:
+    output: true
+    permalink: /am/pos/:path.html
+  am-feat:
+    output: true
+    permalink: /am/feat/:path.html
+  am-dep:
+    output: true
+    permalink: /am/dep/:path.html
+  am-overview:
+    output: true
+#
 # Template
 #
   template-pos:
