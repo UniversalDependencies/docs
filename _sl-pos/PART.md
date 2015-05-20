@@ -8,7 +8,7 @@ shortdef: 'particle'
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. adpositions, coordinating conjunctions, subordinating conjunctions or auxiliary verbs).
 
-In Slovenian, particles, such as _ja_ "yes" and _no_ "no", are always tagged as particles regardless whether they are used as as modal particles (_Ne motiš se._ "You are not wrong") or as fedback particles that are _not_ associated with another word or phrase (_Ne, motiš se._ "No, you are wrong.").
+In Slovenian, particles, such as _ja_ "yes" and _ne_ "no", are always tagged as particles regardless whether they are used as as modal particles (_Ne motiš se._ "You are not wrong") or as fedback particles that are _not_ associated with another word or phrase (_Ne, motiš se._ "No, you are wrong.").
 
 ### Examples
 
