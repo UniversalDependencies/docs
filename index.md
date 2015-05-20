@@ -79,7 +79,7 @@ so that we can avoid problems with conflicting versions.
 </small>
 
 <small>
-The next release (v1.2) is scheduled for November 2015. The plan is to 
+The next release (v1.2) is scheduled for November 15, 2015. The plan is to 
 have regular treebank releases every six months.
 </small>
 </div>
@@ -102,12 +102,6 @@ have regular treebank releases every six months.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "Basque" tab -->
@@ -128,11 +122,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> 
-</small>
 </div>
 
 <!-- "Bulgarian" tab -->
@@ -153,11 +142,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> 
-</small>
 </div>
 
 <!-- "Chinese" tab -->
@@ -178,11 +162,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong>
-</small>
 </div>
 
 <!-- "Croatian" tab -->
@@ -203,12 +182,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "Czech" tab -->
@@ -249,12 +222,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "English" tab -->
@@ -355,11 +322,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong>
-</small>
 </div>
 
 <!-- "Hebrew" tab -->
@@ -380,11 +342,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong>
-</small>
 </div>
 
 <!-- "Hungarian" tab -->
@@ -425,12 +382,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "Irish" tab -->
@@ -491,11 +442,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong>
-</small>
 </div>
 
 <!-- "Korean" tab -->
@@ -516,11 +462,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong>
-</small>
 </div>
 
 <!-- "Persian" tab -->
@@ -541,11 +482,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> 
-</small>
 </div>
 
 <!-- "Romanian" tab -->
@@ -566,12 +502,6 @@ revision and should not be considered final.</strong>
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "Slovenian" tab -->
@@ -592,12 +522,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 
 [CoNLL-U format](format.html)
 
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
 </div>
 
 <!-- "Spanish" tab -->
@@ -657,12 +581,6 @@ have a stable version of this part of the documentation by 2015-01-01.
 <!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
 <!-- [CoNLL-U format](format.html) -->
 <!-- -->
-<!-- <small>  -->
-<!-- This is part of the language-specific documentation for Universal -->
-<!-- Dependencies. <strong>Language-specific guidelines are currently under -->
-<!-- revision and should not be considered final.</strong> Our goal is to -->
-<!-- have a stable version of this part of the documentation by 2015-01-01. -->
-<!-- </small> -->
 <!-- </div> -->
 
 <div id="language-other" markdown="1" class="ui-tabs-hide">
