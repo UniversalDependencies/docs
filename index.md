@@ -31,6 +31,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-de">German</a></li>
   <li class="ui-state-default"><a href="#language-el">Greek</a></li>
   <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-hi">Hindi</a></li>
   <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
   <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
@@ -42,7 +43,6 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-hi">Hindi</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -345,6 +345,26 @@ have regular treebank releases every six months.
 
 </div>
 
+<!-- "Hindi" tab -->
+<div id="language-hi" markdown="1" class="ui-tabs-hide">
+{% include hi-status-table.html %}
+
+[Introduction](hi/overview/introduction.html)
+
+* [Tokenization](hi/overview/tokenization.html)
+* Morphology
+  * [General principles](hi/overview/morphology.html)
+  * [Hindi POS tags](hi/pos/index.html) ([single document](hi/pos/all.html))
+  * [Hindi features](hi/feat/index.html) ([single document](hi/feat/all.html))
+* Syntax
+  * [General principles](hi/overview/syntax.html)
+  * [Specific constructions](hi/overview/specific-syntax.html)
+  * [Hindi dependency relations](hi/dep/index.html) ([single document](hi/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
 <!-- "Hungarian" tab -->
 <div id="language-hu" markdown="1" class="ui-tabs-hide">
 {% include hu-status-table.html %}
@@ -565,31 +585,6 @@ have regular treebank releases every six months.
 
 </div>
 
-<!-- "Hindi" tab -->
-<div id="language-hi" markdown="1" class="ui-tabs-hide">
-{% include hi-status-table.html %}
-
-[Introduction](hi/overview/introduction.html)
-
-* [Tokenization](hi/overview/tokenization.html)
-* Morphology
-  * [General principles](hi/overview/morphology.html)
-  * [Hindi POS tags](hi/pos/index.html) ([single document](hi/pos/all.html))
-  * [Hindi features](hi/feat/index.html) ([single document](hi/feat/all.html))
-* Syntax
-  * [General principles](hi/overview/syntax.html)
-  * [Specific constructions](hi/overview/specific-syntax.html)
-  * [Hindi dependency relations](hi/dep/index.html) ([single document](hi/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-<small> 
-This is part of the language-specific documentation for Universal
-Dependencies. <strong>Language-specific guidelines are currently under
-revision and should not be considered final.</strong> Our goal is to
-have a stable version of this part of the documentation by 2015-01-01.
-</small>
-</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
