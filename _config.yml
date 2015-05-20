@@ -371,6 +371,20 @@ collections:
   am-overview:
     output: true
 #
+# Hindi
+#
+  hi-pos:
+    output: true
+    permalink: /hi/pos/:path.html
+  hi-feat:
+    output: true
+    permalink: /hi/feat/:path.html
+  hi-dep:
+    output: true
+    permalink: /hi/dep/:path.html
+  hi-overview:
+    output: true
+#
 # Template
 #
   template-pos:
