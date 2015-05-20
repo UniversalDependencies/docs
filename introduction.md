@@ -94,6 +94,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-da">Danish</a>: Barbara Plank, Héctor Martínez Alonso, Anders Trærup Johannsen
 * <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
+* <a href="index.html"language-hi">Hindi</a>: Riyaz Ahmad
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
 * <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
 * <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Ryan McDonald
