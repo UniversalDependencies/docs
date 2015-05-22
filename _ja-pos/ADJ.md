@@ -9,7 +9,7 @@ shortdef: 'adjective'
 Adjectives are words that typically modify nouns and specify their
 properties or attributes. They may also function as predicates, as in
 
-_その 車 は *赤い*.&nbsp;_ “The car is red.”
+_その 車 は *赤い* .&nbsp;_ “The car is red.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
 for determiners and [NUM]() for cardinal numerals.
