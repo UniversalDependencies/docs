@@ -17,4 +17,4 @@ _<b>長谷</b>&nbsp;_ “Hase”and an ordinary noun _<b>寺</b>&nbsp;_ “templ
 ### Examples
 
 - _<b>京都</b>&nbsp;_ “Kyoto” city name (`noun(proper.place.general)` / 名詞-固有名詞-地名-一般)
-- _<b>鈴木</b>&nbsp;_ “Suzuki” personal name (`noun(proper.name.surname)` / 名詞-固有名詞)
+- _<b>鈴木</b>&nbsp;_ “Suzuki” personal name (`noun(proper.name.surname)` / 名詞-固有名詞-人名-姓)
