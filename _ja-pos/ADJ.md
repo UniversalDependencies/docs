@@ -9,7 +9,7 @@ shortdef: 'adjective'
 Adjectives are words that typically modify nouns and specify their
 properties or attributes. They may also function as predicates, as in
 
-_その 車 は 赤い.&nbsp;_ “The car is red.”
+_その 車 は *赤い*.&nbsp;_ “The car is red.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
 for determiners and [NUM]() for cardinal numerals.
@@ -20,7 +20,7 @@ ordinary adjectives in being followed by an auxiliary verb (e.g. だ).
 This kind of nouns is tagged with `noun (common.adjectival)`/名詞-普通名詞-形状詞可能
 in UniDic.
 Note that they are tagged [NOUN](), when they are used as nouns 
-(e.g. _自由&nbsp;を&nbsp;手に入れる&nbsp;_ “gain freedom”).
+(e.g. _*自由*&nbsp;を&nbsp;手に入れる&nbsp;_ “gain freedom”).
 
 Japanese has a small group of adnominal words (`adnominal`) that
 usually precede noun phrases.
@@ -30,15 +30,13 @@ some words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_
 
 ### Examples
 
-- _大きい&nbsp;_ “big” (`adjective_i (general)` / 形容詞-一般)
-- _古い&nbsp;_ “old” (`adjective_i (general)` / 形容詞-一般)
-- _必要&nbsp;_ “necessary”, _簡単&nbsp;_“easy”(`adjectival_noun` / 形状詞-一般)
-- _自由 (+だ)&nbsp;_ “free” (`noun(common.adjectival)` / 名詞-普通名詞-形状詞可能)
-- _赤い&nbsp;_ “red” (`adjective_i (general)` / 形容詞-一般)
-- _同じ&nbsp;_ “same” (`adniminal` / 連体詞)
-- _いろんな&nbsp;_ “various” (`adnominal{ / 連体詞)
-- indefinite determiners: _ある&nbsp;_ “a/one” (`adnominal` / 連体詞)
-- possessive determiners: _我が&nbsp;_ “my” (`adnominal` / 連体詞)
+- _*赤い*&nbsp;_ “red”, _*大きい*&nbsp;_ “big”  (`adjective_i (general)` / 形容詞-一般)
+- _*必要*&nbsp;_ “necessary”, _*簡単*&nbsp;_“easy”(`adjectival_noun` / 形状詞-一般)
+- _*自由*(+だ)&nbsp;_ “free” (`noun(common.adjectival)` / 名詞-普通名詞-形状詞可能)
+- _*同じ*&nbsp;_ “same” (`adniminal` / 連体詞)
+- _*いろんな*&nbsp;_ “various” (`adnominal` / 連体詞)
+- indefinite determiners: _*ある*&nbsp;_ “a/one” (`adnominal` / 連体詞)
+- possessive determiners: _*我が*&nbsp;_ “my” (`adnominal` / 連体詞)
 
 
 ### References
