@@ -30,8 +30,8 @@ some words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_
 
 ### Examples
 
-- _<b>赤い</b>&nbsp;_ “red”, _<b>大きい</b>&nbsp;_ “big”  (`adjective_i (general)` / 形容詞-一般)
-- _<b>必要</b>&nbsp;_ “necessary”, _<b>簡単</b>&nbsp;_“easy”(`adjectival_noun` / 形状詞-一般)
+- _<b>赤い</b>&nbsp;_ “red”, _<b>大きい</b>&nbsp;_ “big”  (`adjective\_i (general)` / 形容詞-一般)
+- _<b>必要</b>&nbsp;_ “necessary”, _<b>簡単</b>&nbsp;_“easy”(`adjectival\_noun` / 形状詞-一般)
 - _<b>自由</b>(+だ)&nbsp;_ “free” (`noun(common.adjectival)` / 名詞-普通名詞-形状詞可能)
 - _<b>同じ</b>&nbsp;_ “same” (`adniminal` / 連体詞)
 - _<b>いろんな</b>&nbsp;_ “various” (`adnominal` / 連体詞)
