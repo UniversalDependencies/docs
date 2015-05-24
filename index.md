@@ -83,6 +83,10 @@ so that we can avoid problems with conflicting versions.
 The next release (v1.2) is scheduled for November 15, 2015. The plan is to 
 have regular treebank releases every six months.
 </small>
+
+<small>
+If you want to receive news about Universal Dependencies, you can subscribe to
+the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 </div>
 
 <!-- "Amharic" tab -->
