@@ -6,6 +6,7 @@ shortdef: 'expletive'
 
 Romanian does not have expletives of the English sort.
 However, we use the `expl` label for the following situations:
+
 - clitic doubling:
 
 ~~~ sdparse
