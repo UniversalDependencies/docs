@@ -37,11 +37,30 @@
 <p>The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.</p>
 
 <p>As a first step, we construct conversion rules on ‘NTT Japanese phrase structure treebank’ (Tanaka and Nagata 2013) on Mainichi Newspaper.
-We also try to construct conversion rules on ‘Balanced Corpus of Contemporary Written Japanese’(BCCWJ) (Maekawa et al. 2014) with third party annotations (Mori et al. 2014).</p>
+We also try to construct conversion rules on ‘Balanced Corpus of Contemporary Written Japanese’(BCCWJ) (Maekawa et al. 2014) with third party annotations.</p>
 
 <h1 id="basic-policy">Basic Policy</h1>
 
-<p>UD annotation scheme is far from Japanese linguistic researches for several layers.</p>
+<p>Universal Dependency scheme does not suit for Japanese dependency annotation.
+Their dependency annotation label set includes several different layers such as morphology, syntax dependency and semantic dependency.</p>
+
+<p>Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction which is defined in the morphology layer of Japanese linguistics.</p>
+
+<p>To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit — Bunsetsu (文節) — for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  </p>
+
+<p>We also separate some issues — such as coordination structures, surface case frame, and scope of negation — from the Bunsetsu based dependency annotation.  </p>
+
+<p>Coordination structures cannot be expressed straightforwardly in the dependency structures.
+We lose some information related to nested coordination, non-constituent conjunct coordination and different syntactic category coordination by projecting the coordination structure to the dependency structures.
+Therefore, we keep the coordinate structure information in the different layer annotation from the Bunsetsu based dependency annotation.
+We also keep the surface case frame structures and the scope of negation in the different layer annotation.</p>
+
+<p>The labels related to “PASSIVE” are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru/Rareru.</p>
+
+<p>The Universal Dependency label set discriminates whether the target is a clause or not.
+Unfortunately, the definition of the clause is vague.
+We defined some heuristic rules to define the clause.
+For example, the difference between acl (adjectival clause) and amod (adjectival modifier) is defined by whether the adjective has any overt case or not.</p>
 
 <h1 id="background">Background</h1>
 
