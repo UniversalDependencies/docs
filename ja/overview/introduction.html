@@ -48,6 +48,11 @@ Their dependency annotation label set includes several different layers such as 
 
 <p>To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit — Bunsetsu (文節) — for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  </p>
 
+<p>The Part-of-speech in Japanese corpora can be split two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
+Lexicon-based is to extract all possible categories for one word as a label.  For example, the label “名詞-普通名詞-サ変形状詞可能” means that the word can be Noun or Verbal Noun or Adjective. The label for the word is maintained in a large-scale PoS tagged lexicon and used in semi-markov model based morphological analyzers.
+Usage-based is a label determined by the contextual information in the sentence.
+We used Usage-based PoS tags to align the Universal POS tags.</p>
+
 <p>We also separate some issues — such as coordination structures, surface case frame, and scope of negation — from the Bunsetsu based dependency annotation.  </p>
 
 <p>Coordination structures cannot be expressed straightforwardly in the dependency structures.
@@ -75,10 +80,9 @@ For example, the difference between acl (adjectival clause) and amod (adjectival
   <li>BCCWJ</li>
   <li>KNBC Corpus (free)</li>
   <li>Others</li>
-  <li>
-    <h2 id="word-unit">Word Unit</h2>
-  </li>
 </ul>
+
+<h2 id="word-unit">Word Unit</h2>
 
 <h3 id="overview-of-word-unit">Overview of Word Unit</h3>
 <p>Japanese sentences are not split into words or morphemes by spaces.
