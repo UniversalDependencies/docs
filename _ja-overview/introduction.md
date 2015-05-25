@@ -20,6 +20,11 @@ Japanese language is written without word boundaries. We tend to define smaller 
 
 To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit --- Bunsetsu (文節) --- for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  
 
+The Part-of-speech in Japanese corpora can be split two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
+Lexicon-based is to extract all possible categories for one word as a label.  For example, the label "名詞-普通名詞-サ変形状詞可能" means that the word can be Noun or Verbal Noun or Adjective. The label for the word is maintained in a large-scale PoS tagged lexicon and used in semi-markov model based morphological analyzers.
+Usage-based is a label determined by the contextual information in the sentence.
+We used Usage-based PoS tags to align the Universal POS tags.
+
 We also separate some issues --- such as coordination structures, surface case frame, and scope of negation --- from the Bunsetsu based dependency annotation.  
 
 Coordination structures cannot be expressed straightforwardly in the dependency structures.
@@ -49,7 +54,8 @@ Here, we describe Japanese language resources such as basic language resources, 
 * BCCWJ
 * KNBC Corpus (free)
 * Others
-* 
+
+
 ## Word Unit
 
 ### Overview of Word Unit
