@@ -58,6 +58,7 @@ The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.
 'Kyoto Text Corpus' is a Newspaper corpus from Mainichi Shinbun in 1995.
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
 The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
+'NAIST Text Corpus' is a case frame and coreference annotations on the Kyoto Text Corpus.
 
 * EDR Corpus
 'EDR Corpus' includes Japanese and English corpora.
@@ -75,6 +76,8 @@ The second one is called the Library Subcorpus. Its population consists of all b
 The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
 A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
 The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
+** Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
+
 
 * KNBC Corpus (free)
 'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
@@ -88,6 +91,7 @@ The representative word unit standards are the following subsubsections.
 
 ### IPADIC word unit: 
 This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
+IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
 
 ### NINJAL UniDic word units: 
 NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
@@ -102,10 +106,13 @@ This word unit standard was derived by the morphological analyzer JUMAN. The uni
 ### Analysers
 
 * MeCab: lexicon-based morphological analyzer by CRFs.
+MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
 
 * JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
+JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
 
 * Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
+Comainu: [http://comainu.org/](http://comainu.org/)
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -176,27 +183,21 @@ Label: D, P, I, A
 ## Lexicon
 * Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
-* 
+ 
 ## Corpora
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
-* Shinsuke Mori, and Hideki Ogura and Tetsuro Sasada. 2014. '[A Japanese Word Dependency Corpus](http://www.lrec-conf.org/proceedings/lrec2014/pdf/42_Paper.pdf)' In Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)
 
-# Links
-## Morphological Analyzer 
-* JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
-* MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
-<!-- * KyTea: [http://www.phontron.com/kytea/index-ja.html](http://www.phontron.com/kytea/index-ja.html) -->
 
 ## Lexicon for Morphological Analyzer 
-* IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
+* 
 * NAIST-jdic: [http://sourceforge.jp/projects/naist-jdic/](http://sourceforge.jp/projects/naist-jdic/)
 * UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
 * UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
 * UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
 ## Chunkers (for Bunsetsu Analysis)
-* Comainu: [http://comainu.org/](http://comainu.org/)
+* 
 * CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
 * YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
 
@@ -210,4 +211,4 @@ Label: D, P, I, A
 * Kyoto Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
 * NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
 * Corpus of Spontaneous Japanese: [http://pj.ninjal.ac.jp/corpus_center/csj/](http://pj.ninjal.ac.jp/corpus_center/csj/)
-* Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
+* 
