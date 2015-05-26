@@ -60,6 +60,10 @@ The corpus includes human-maintained Japanese word segmentation, morphological i
 The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
 'NAIST Text Corpus' is a case frame and coreference annotations on the Kyoto Text Corpus.
 
+Kyoto Text Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
+
+NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
+
 * EDR Corpus
 'EDR Corpus' includes Japanese and English corpora.
 The Japanese part of the corpora includes human-maintained  morphological information, Part of Speech based on 'EDR POS Tagset', syntactic phrase structure, and semantic frame information.
@@ -70,6 +74,8 @@ The corpus includes the original speech sound files, transcripted text, clause b
 CSJ defines several layers of word segmentation such as 'Short Unit Word' which is the morphological unit for uniformity, 'Middle Unit Word' which is compound word left branching tree to form an accent phrase, and 'Long Unit Word' which composes a maximal content word and some functional words with in a syntactic base phrase --- Bunsetsu.
 The corpus also includes Bunsetsu-based dependency ('CSJ standard').
 
+Corpus of Spontaneous Japanese: [http://pj.ninjal.ac.jp/corpus_center/csj/](http://pj.ninjal.ac.jp/corpus_center/csj/)
+
 * BCCWJ
 'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
 The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
@@ -78,7 +84,6 @@ A part of BCCWJ is called "CORE" data which contains one million words from news
 The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
 
 Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
-
 
 * KNBC Corpus (free)
 'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
@@ -103,11 +108,17 @@ NINJAL (National Institute for Japanese Language and Linguistics, Japan) propose
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
 * Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
 * Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+The UniDic are maintained diachronically. NINJAL published versions of UniDic in several eras.
+
+* UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
+* UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
+* UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
+
 
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 
-### Analysers
+### Morphological Analysers
 
 * MeCab: lexicon-based morphological analyzer by CRFs.
 
@@ -120,6 +131,11 @@ JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u
 * Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
 
 Comainu: [http://comainu.org/](http://comainu.org/)
+
+* CRF chunker 
+CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
+* History based chunker
+YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -157,7 +173,12 @@ Label: D, P, I, A
 * BCCWJ-DepPara Schema
 * Word Dependency by Mori (Mori et al. 2014)
 
-## Dependency Relations
+### Bunsetsu-based Syntactic Dependency Parser
+* KNP: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
+* CaboCha: [http://taku910.github.io/cabocha/](http://taku910.github.io/cabocha/)
+* jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
+* Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
+## Other Dependency Relations
 
 
 ## Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser
@@ -165,16 +186,15 @@ Label: D, P, I, A
 * NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)
 
 
-
-## Syntactic phrase structure tree annotations
-* NTT Japanese phrase structure treebank
-
 ## Other annotations (syntax related only)
 * Scope of Negation for BCCWJ
 * Passive Auxiliary Verb for BCCWJ
 
 ## Issues General
 * Both of Mainichi Newspaper and BCCWJ are non-free resources.
+
+
+
 
 # Contributors
 
@@ -196,26 +216,5 @@ Label: D, P, I, A
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
 
 
-## Lexicon for Morphological Analyzer 
-* 
-* 
-* UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
-* UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
-* UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
-## Chunkers (for Bunsetsu Analysis)
-* 
-* CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
-* YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
 
-## Bunsetsu-based Syntactic Dependency Parser
-* KNP: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
-* CaboCha: [http://taku910.github.io/cabocha/](http://taku910.github.io/cabocha/)
-* jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
-* Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
-
-## Bunsetsu-based Syntactic Dependency Annotation Corpus
-* Kyoto Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
-* NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
-* Corpus of Spontaneous Japanese: [http://pj.ninjal.ac.jp/corpus_center/csj/](http://pj.ninjal.ac.jp/corpus_center/csj/)
-* 
