@@ -9,6 +9,7 @@ permalink: ja/overview/introduction.html
 The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.
 
 As a first step, we construct conversion rules on 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013) on Mainichi Newspaper.
+
 We also try to construct conversion rules on 'Balanced Corpus of Contemporary Written Japanese'(BCCWJ) (Maekawa et al. 2014) with third party annotations.
 
 # Basic Policy
@@ -23,7 +24,7 @@ To split between the morphology issue and syntactic dependency issue, we define 
 The Part-of-speech in Japanese corpora can be split two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
 Lexicon-based is to extract all possible categories for one word as a label.  For example, the label "名詞-普通名詞-サ変形状詞可能" means that the word can be Noun or Verbal Noun or Adjective. The label for the word is maintained in a large-scale PoS tagged lexicon and used in semi-markov model based morphological analyzers.
 Usage-based is a label determined by the contextual information in the sentence.
-We used Usage-based PoS tags to align the Universal POS tags.
+We used Usage-based PoS tags from UniDic based lexicon/corpora/morphological analysers to align the Universal POS tags.
 
 We also separate some issues --- such as coordination structures, surface case frame, and scope of negation --- from the Bunsetsu based dependency annotation.  
 
@@ -39,8 +40,8 @@ Unfortunately, the definition of the clause is vague.
 We defined some heuristic rules to define the clause.
 For example, the difference between acl (adjectival clause) and amod (adjectival modifier) is defined by whether the adjective has any overt case or not.
 
-
-
+The discrepancy between the syntactic phrases and phonetic (accent) phrases is another issues on the word-based dependency annotation.
+We focus not on speech corpora but on written corpora.  We leave this issue from Universal Dependency annotation schema.
 
 # Background
 
@@ -48,12 +49,28 @@ Here, we describe Japanese language resources such as basic language resources, 
 
 ## Basic Language Resources
 * RWCP Corpus
-* Kyoto Corpus
+'RWCP Corpus' is a Newspaper corpus from Mainichi Shinbun in 1994.
+The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'IPADIC POS Tagset'.
+The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.
+ 
+* Kyoto Text Corpus
+'Kyoto Text Corpus' is a Newspaper corpus from Mainichi Shinbun in 1995.
+The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
+The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation.
+
+The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
+
 * EDR Corpus
+'EDR Corpus' includes Japanese and English corpora.
+The Japanese part of the corpora includes human-maintained  morphological information, Part of Speech based on 'EDR POS Tagset', syntactic phrase structure, and semantic frame information.
+
 * CSJ
+'Corpus of Spontaneous Japanese' is a monologue speech corpus.
+The corpus includes the original speech sound files, transcripted text, clause boundaries, morphological information, and Part of Speech based on 'UniDic POS Tagset'.
+CSJ defines several layers of word segmentation such as 'Short Unit Word' which is the morphological unit for uniformity, 'Middle Unit Word' which is compound word left branching tree to form an accent phrase, and 'Long Unit Word' which composes a maximal content word and some functional words with in a syntactic base phrase --- Bunsetsu.
+
 * BCCWJ
 * KNBC Corpus (free)
-* Others
 
 
 ## Word Unit
