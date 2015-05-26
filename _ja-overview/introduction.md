@@ -47,7 +47,8 @@ We focus not on speech corpora but on written corpora.  We leave this issue from
 
 Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.
 
-## Basic Language Resources
+## Corpora with annotations
+
 * RWCP Corpus
 'RWCP Corpus' is a Newspaper corpus from Mainichi Shinbun in 1994.
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'IPADIC POS Tagset'.
@@ -56,28 +57,33 @@ The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.
 * Kyoto Text Corpus
 'Kyoto Text Corpus' is a Newspaper corpus from Mainichi Shinbun in 1995.
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
-The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation.
-
-The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
+The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
 
 * EDR Corpus
 'EDR Corpus' includes Japanese and English corpora.
 The Japanese part of the corpora includes human-maintained  morphological information, Part of Speech based on 'EDR POS Tagset', syntactic phrase structure, and semantic frame information.
 
 * CSJ
-'Corpus of Spontaneous Japanese' is a monologue speech corpus.
+'Corpus of Spontaneous Japanese' (CSJ) is a monologue speech corpus.
 The corpus includes the original speech sound files, transcripted text, clause boundaries, morphological information, and Part of Speech based on 'UniDic POS Tagset'.
 CSJ defines several layers of word segmentation such as 'Short Unit Word' which is the morphological unit for uniformity, 'Middle Unit Word' which is compound word left branching tree to form an accent phrase, and 'Long Unit Word' which composes a maximal content word and some functional words with in a syntactic base phrase --- Bunsetsu.
+The corpus also includes Bunsetsu-based dependency ('CSJ standard').
 
 * BCCWJ
-* KNBC Corpus (free)
+'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
+The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
+The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
+A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
+The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
 
+* KNBC Corpus (free)
+'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
 
 ## Word Unit
 
 ### Overview of Word Unit
 Japanese sentences are not split into words or morphemes by spaces.
-We have several word unit standards by corpus annotation schema or morphological analyzers' outputs.
+We have several word unit standards by corpus annotation schema or morphological analysers' outputs.
 The representative word unit standards are the following subsubsections.
 
 ### IPADIC word unit: 
@@ -93,13 +99,13 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 
-### Analyzers
+### Analysers
 
 * MeCab: lexicon-based morphological analyzer by CRFs.
 
 * JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
 
-* Comainu: compound word construction by dependency parsing model.
+* Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -180,7 +186,7 @@ Label: D, P, I, A
 ## Morphological Analyzer 
 * JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
 * MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
-* KyTea: [http://www.phontron.com/kytea/index-ja.html](http://www.phontron.com/kytea/index-ja.html)
+<!-- * KyTea: [http://www.phontron.com/kytea/index-ja.html](http://www.phontron.com/kytea/index-ja.html) -->
 
 ## Lexicon for Morphological Analyzer 
 * IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
