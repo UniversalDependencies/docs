@@ -76,7 +76,8 @@ The second one is called the Library Subcorpus. Its population consists of all b
 The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
 A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
 The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
-** Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
+
+Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
 
 
 * KNBC Corpus (free)
@@ -91,7 +92,10 @@ The representative word unit standards are the following subsubsections.
 
 ### IPADIC word unit: 
 This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
+
 IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
+
+NAIST-jdic: [http://sourceforge.jp/projects/naist-jdic/](http://sourceforge.jp/projects/naist-jdic/)
 
 ### NINJAL UniDic word units: 
 NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
@@ -106,12 +110,15 @@ This word unit standard was derived by the morphological analyzer JUMAN. The uni
 ### Analysers
 
 * MeCab: lexicon-based morphological analyzer by CRFs.
+
 MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
 
 * JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
+
 JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
 
 * Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
+
 Comainu: [http://comainu.org/](http://comainu.org/)
 
 ## Bunsetsu Unit (Base phrase)
@@ -191,7 +198,7 @@ Label: D, P, I, A
 
 ## Lexicon for Morphological Analyzer 
 * 
-* NAIST-jdic: [http://sourceforge.jp/projects/naist-jdic/](http://sourceforge.jp/projects/naist-jdic/)
+* 
 * UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
 * UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
 * UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
