@@ -109,13 +109,15 @@ The corpus also includes Bunsetsu-based dependency (‘CSJ standard’).</p>
 The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
 The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
 A part of BCCWJ is called “CORE” data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
-The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on ‘UniDic POS Tagset’.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency (‘BCCWJ-DepPara standard’), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
-** Balanced Corpus of Contemporary Written Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/bccwj/">http://pj.ninjal.ac.jp/corpus_center/bccwj/</a></p>
+The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on ‘UniDic POS Tagset’.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency (‘BCCWJ-DepPara standard’), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.</p>
   </li>
-  <li>
-    <p>KNBC Corpus (free)
-‘KNBC Corpus’ is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.</p>
-  </li>
+</ul>
+
+<p>Balanced Corpus of Contemporary Written Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/bccwj/">http://pj.ninjal.ac.jp/corpus_center/bccwj/</a></p>
+
+<ul>
+  <li>KNBC Corpus (free)
+‘KNBC Corpus’ is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.</li>
 </ul>
 
 <h2 id="word-unit">Word Unit</h2>
@@ -126,8 +128,11 @@ We have several word unit standards by corpus annotation schema or morphological
 The representative word unit standards are the following subsubsections.</p>
 
 <h3 id="ipadic-word-unit">IPADIC word unit:</h3>
-<p>This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
-IPADIC legacy: <a href="http://sourceforge.jp/projects/ipadic/">http://sourceforge.jp/projects/ipadic/</a></p>
+<p>This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. </p>
+
+<p>IPADIC legacy: <a href="http://sourceforge.jp/projects/ipadic/">http://sourceforge.jp/projects/ipadic/</a></p>
+
+<p>NAIST-jdic: <a href="http://sourceforge.jp/projects/naist-jdic/">http://sourceforge.jp/projects/naist-jdic/</a></p>
 
 <h3 id="ninjal-unidic-word-units">NINJAL UniDic word units:</h3>
 <p>NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
@@ -142,19 +147,22 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 <h3 id="analysers">Analysers</h3>
 
 <ul>
-  <li>
-    <p>MeCab: lexicon-based morphological analyzer by CRFs.
-MeCab: <a href="http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html">http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html</a></p>
-  </li>
-  <li>
-    <p>JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
-JUMAN: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN">http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN</a></p>
-  </li>
-  <li>
-    <p>Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
-Comainu: <a href="http://comainu.org/">http://comainu.org/</a></p>
-  </li>
+  <li>MeCab: lexicon-based morphological analyzer by CRFs.</li>
 </ul>
+
+<p>MeCab: <a href="http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html">http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html</a></p>
+
+<ul>
+  <li>JUMAN: lexicon-based morphological analyzer by hand maintained cost table.</li>
+</ul>
+
+<p>JUMAN: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN">http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN</a></p>
+
+<ul>
+  <li>Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.</li>
+</ul>
+
+<p>Comainu: <a href="http://comainu.org/">http://comainu.org/</a></p>
 
 <h2 id="bunsetsu-unit-base-phrase">Bunsetsu Unit (Base phrase)</h2>
 <p>We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)</p>
@@ -246,7 +254,7 @@ Label: D, P, I, A</li>
 <h2 id="lexicon-for-morphological-analyzer">Lexicon for Morphological Analyzer</h2>
 <ul>
   <li></li>
-  <li>NAIST-jdic: <a href="http://sourceforge.jp/projects/naist-jdic/">http://sourceforge.jp/projects/naist-jdic/</a></li>
+  <li></li>
   <li>UniDic (contemporary): <a href="http://sourceforge.jp/projects/unidic/">http://sourceforge.jp/projects/unidic/</a> will be moved to <a href="http://download.unidic.org/">http://download.unidic.org/</a></li>
   <li>UniDic (modern): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic</a></li>
   <li>UniDic (early middle): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic</a></li>
