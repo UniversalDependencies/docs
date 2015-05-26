@@ -91,6 +91,13 @@ The corpus includes human-maintained Japanese word segmentation, morphological i
 The corpus also includes human-maintained syntactic dependency annotation (‘Kyoto Text Corpus Standard’) and case frame annotation. The ‘NTT Japanese phrase structure treebank’ is a phrase structure treebank based on the Kyoto Text Corpus.
 ‘NAIST Text Corpus’ is a case frame and coreference annotations on the Kyoto Text Corpus.</p>
   </li>
+</ul>
+
+<p>Kyoto Text Corpus: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9">page</a></p>
+
+<p>NAIST Text Corpus: <a href="https://sites.google.com/site/naisttextcorpus/">https://sites.google.com/site/naisttextcorpus/</a></p>
+
+<ul>
   <li>
     <p>EDR Corpus
 ‘EDR Corpus’ includes Japanese and English corpora.
@@ -103,14 +110,17 @@ The corpus includes the original speech sound files, transcripted text, clause b
 CSJ defines several layers of word segmentation such as ‘Short Unit Word’ which is the morphological unit for uniformity, ‘Middle Unit Word’ which is compound word left branching tree to form an accent phrase, and ‘Long Unit Word’ which composes a maximal content word and some functional words with in a syntactic base phrase — Bunsetsu.
 The corpus also includes Bunsetsu-based dependency (‘CSJ standard’).</p>
   </li>
-  <li>
-    <p>BCCWJ
+</ul>
+
+<p>Corpus of Spontaneous Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/csj/">http://pj.ninjal.ac.jp/corpus_center/csj/</a></p>
+
+<ul>
+  <li>BCCWJ
 ‘Balanced Corpus of Contemporary Written Japanese’ (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
 The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
 The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
 A part of BCCWJ is called “CORE” data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
-The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on ‘UniDic POS Tagset’.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency (‘BCCWJ-DepPara standard’), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.</p>
-  </li>
+The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on ‘UniDic POS Tagset’.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency (‘BCCWJ-DepPara standard’), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.</li>
 </ul>
 
 <p>Balanced Corpus of Contemporary Written Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/bccwj/">http://pj.ninjal.ac.jp/corpus_center/bccwj/</a></p>
@@ -139,12 +149,19 @@ The representative word unit standards are the following subsubsections.</p>
 * Short Unit Word (SUW): 
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
 * Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
-* Long Unit Word (LUW): The standard is composed “Bunsetsu(文節)” unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.</p>
+* Long Unit Word (LUW): The standard is composed “Bunsetsu(文節)” unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+The UniDic are maintained diachronically. NINJAL published versions of UniDic in several eras.</p>
+
+<ul>
+  <li>UniDic (contemporary): <a href="http://sourceforge.jp/projects/unidic/">http://sourceforge.jp/projects/unidic/</a> will be moved to <a href="http://download.unidic.org/">http://download.unidic.org/</a></li>
+  <li>UniDic (modern): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic</a></li>
+  <li>UniDic (early middle): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic</a></li>
+</ul>
 
 <h3 id="jumandic-word-unit">JUMANdic word unit:</h3>
 <p>This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.</p>
 
-<h3 id="analysers">Analysers</h3>
+<h3 id="morphological-analysers">Morphological Analysers</h3>
 
 <ul>
   <li>MeCab: lexicon-based morphological analyzer by CRFs.</li>
@@ -163,6 +180,13 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 </ul>
 
 <p>Comainu: <a href="http://comainu.org/">http://comainu.org/</a></p>
+
+<ul>
+  <li>CRF chunker 
+CRF++: <a href="http://taku910.github.io/crfpp/">http://taku910.github.io/crfpp/</a></li>
+  <li>History based chunker
+YamCha: <a href="http://chasen.org/~taku/software/yamcha/">http://chasen.org/~taku/software/yamcha/</a></li>
+</ul>
 
 <h2 id="bunsetsu-unit-base-phrase">Bunsetsu Unit (Base phrase)</h2>
 <p>We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)</p>
@@ -202,17 +226,19 @@ Label: D, P, I, A</li>
   <li>Word Dependency by Mori (Mori et al. 2014)</li>
 </ul>
 
-<h2 id="dependency-relations">Dependency Relations</h2>
+<h3 id="bunsetsu-based-syntactic-dependency-parser">Bunsetsu-based Syntactic Dependency Parser</h3>
+<ul>
+  <li>KNP: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP">http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP</a></li>
+  <li>CaboCha: <a href="http://taku910.github.io/cabocha/">http://taku910.github.io/cabocha/</a></li>
+  <li>jdepp: <a href="http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/">http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/</a></li>
+  <li>Yahoo! API: <a href="http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html">http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html</a>
+## Other Dependency Relations</li>
+</ul>
 
 <h2 id="semantic-dependency-annotation-schema-with-corpus-semantic-dependency-parser">Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser</h2>
 <ul>
   <li>Kyoto Corpus Schema (on Mainichi Newspaper)</li>
   <li>NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)</li>
-</ul>
-
-<h2 id="syntactic-phrase-structure-tree-annotations">Syntactic phrase structure tree annotations</h2>
-<ul>
-  <li>NTT Japanese phrase structure treebank</li>
 </ul>
 
 <h2 id="other-annotations-syntax-related-only">Other annotations (syntax related only)</h2>
@@ -251,37 +277,6 @@ Label: D, P, I, A</li>
   <li>Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. ‘<a href="http://link.springer.com/article/10.1007/s10579-013-9261-0">Balanced corpus of contemporary written Japanese</a>’. Language Resources and Evaluation 48 (2), pp.345-371</li>
 </ul>
 
-<h2 id="lexicon-for-morphological-analyzer">Lexicon for Morphological Analyzer</h2>
-<ul>
-  <li></li>
-  <li></li>
-  <li>UniDic (contemporary): <a href="http://sourceforge.jp/projects/unidic/">http://sourceforge.jp/projects/unidic/</a> will be moved to <a href="http://download.unidic.org/">http://download.unidic.org/</a></li>
-  <li>UniDic (modern): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic</a></li>
-  <li>UniDic (early middle): <a href="http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic">http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic</a></li>
-</ul>
-
-<h2 id="chunkers-for-bunsetsu-analysis">Chunkers (for Bunsetsu Analysis)</h2>
-<ul>
-  <li></li>
-  <li>CRF++: <a href="http://taku910.github.io/crfpp/">http://taku910.github.io/crfpp/</a></li>
-  <li>YamCha: <a href="http://chasen.org/~taku/software/yamcha/">http://chasen.org/~taku/software/yamcha/</a></li>
-</ul>
-
-<h2 id="bunsetsu-based-syntactic-dependency-parser">Bunsetsu-based Syntactic Dependency Parser</h2>
-<ul>
-  <li>KNP: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP">http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP</a></li>
-  <li>CaboCha: <a href="http://taku910.github.io/cabocha/">http://taku910.github.io/cabocha/</a></li>
-  <li>jdepp: <a href="http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/">http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/</a></li>
-  <li>Yahoo! API: <a href="http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html">http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html</a></li>
-</ul>
-
-<h2 id="bunsetsu-based-syntactic-dependency-annotation-corpus">Bunsetsu-based Syntactic Dependency Annotation Corpus</h2>
-<ul>
-  <li>Kyoto Corpus: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9">page</a></li>
-  <li>NAIST Text Corpus: <a href="https://sites.google.com/site/naisttextcorpus/">https://sites.google.com/site/naisttextcorpus/</a></li>
-  <li>Corpus of Spontaneous Japanese: <a href="http://pj.ninjal.ac.jp/corpus_center/csj/">http://pj.ninjal.ac.jp/corpus_center/csj/</a></li>
-  <li></li>
-</ul>
 
 
       </div>
