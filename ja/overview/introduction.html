@@ -75,7 +75,8 @@ We focus not on speech corpora but on written corpora.  We leave this issue from
 
 <p>Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.</p>
 
-<h2 id="basic-language-resources">Basic Language Resources</h2>
+<h2 id="corpora-with-annotations">Corpora with annotations</h2>
+
 <ul>
   <li>
     <p>RWCP Corpus
@@ -87,13 +88,8 @@ The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.<
     <p>Kyoto Text Corpus
 ‘Kyoto Text Corpus’ is a Newspaper corpus from Mainichi Shinbun in 1995.
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on ‘Juman POS Tagset’.
-The corpus also includes human-maintained syntactic dependency annotation (‘Kyoto Text Corpus Standard’) and case frame annotation.</p>
+The corpus also includes human-maintained syntactic dependency annotation (‘Kyoto Text Corpus Standard’) and case frame annotation. The ‘NTT Japanese phrase structure treebank’ is a phrase structure treebank based on the Kyoto Text Corpus.</p>
   </li>
-</ul>
-
-<p>The ‘NTT Japanese phrase structure treebank’ is a phrase structure treebank based on the Kyoto Text Corpus.</p>
-
-<ul>
   <li>
     <p>EDR Corpus
 ‘EDR Corpus’ includes Japanese and English corpora.
@@ -101,19 +97,30 @@ The Japanese part of the corpora includes human-maintained  morphological inform
   </li>
   <li>
     <p>CSJ
-‘Corpus of Spontaneous Japanese’ is a monologue speech corpus.
+‘Corpus of Spontaneous Japanese’ (CSJ) is a monologue speech corpus.
 The corpus includes the original speech sound files, transcripted text, clause boundaries, morphological information, and Part of Speech based on ‘UniDic POS Tagset’.
-CSJ defines several layers of word segmentation such as ‘Short Unit Word’ which is the morphological unit for uniformity, ‘Middle Unit Word’ which is compound word left branching tree to form an accent phrase, and ‘Long Unit Word’ which composes a maximal content word and some functional words with in a syntactic base phrase — Bunsetsu.</p>
+CSJ defines several layers of word segmentation such as ‘Short Unit Word’ which is the morphological unit for uniformity, ‘Middle Unit Word’ which is compound word left branching tree to form an accent phrase, and ‘Long Unit Word’ which composes a maximal content word and some functional words with in a syntactic base phrase — Bunsetsu.
+The corpus also includes Bunsetsu-based dependency (‘CSJ standard’).</p>
   </li>
-  <li>BCCWJ</li>
-  <li>KNBC Corpus (free)</li>
+  <li>
+    <p>BCCWJ
+‘Balanced Corpus of Contemporary Written Japanese’ (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
+The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
+The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
+A part of BCCWJ is called “CORE” data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
+The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on ‘UniDic POS Tagset’.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency (‘BCCWJ-DepPara standard’), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.</p>
+  </li>
+  <li>
+    <p>KNBC Corpus (free)
+‘KNBC Corpus’ is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.</p>
+  </li>
 </ul>
 
 <h2 id="word-unit">Word Unit</h2>
 
 <h3 id="overview-of-word-unit">Overview of Word Unit</h3>
 <p>Japanese sentences are not split into words or morphemes by spaces.
-We have several word unit standards by corpus annotation schema or morphological analyzers’ outputs.
+We have several word unit standards by corpus annotation schema or morphological analysers’ outputs.
 The representative word unit standards are the following subsubsections.</p>
 
 <h3 id="ipadic-word-unit">IPADIC word unit:</h3>
@@ -129,7 +136,7 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 <h3 id="jumandic-word-unit">JUMANdic word unit:</h3>
 <p>This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.</p>
 
-<h3 id="analyzers">Analyzers</h3>
+<h3 id="analysers">Analysers</h3>
 
 <ul>
   <li>
@@ -139,7 +146,7 @@ The standard is used as the most fine grained morpheme for the corpus statistics
     <p>JUMAN: lexicon-based morphological analyzer by hand maintained cost table.</p>
   </li>
   <li>
-    <p>Comainu: compound word construction by dependency parsing model.</p>
+    <p>Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.</p>
   </li>
 </ul>
 
@@ -234,7 +241,7 @@ Label: D, P, I, A</li>
 <p>## Morphological Analyzer 
 * JUMAN: <a href="http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN">http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN</a>
 * MeCab: <a href="http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html">http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html</a>
-* KyTea: <a href="http://www.phontron.com/kytea/index-ja.html">http://www.phontron.com/kytea/index-ja.html</a></p>
+<!-- * KyTea: [http://www.phontron.com/kytea/index-ja.html](http://www.phontron.com/kytea/index-ja.html) --></p>
 
 <h2 id="lexicon-for-morphological-analyzer">Lexicon for Morphological Analyzer</h2>
 <ul>
