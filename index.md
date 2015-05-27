@@ -19,6 +19,7 @@ title:  'Universal Dependencies'
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li>
   <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
   <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-zh">Chinese</a></li>
