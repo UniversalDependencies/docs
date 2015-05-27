@@ -117,6 +117,7 @@ The UniDic are maintained diachronically. NINJAL published versions of UniDic in
 
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
+See also 'Morphological Analyser, JUMAN'.
 
 ### Morphological Analysers
 
@@ -132,10 +133,14 @@ JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u
 
 Comainu: [http://comainu.org/](http://comainu.org/)
 
-* CRF chunker 
+* CRF chunker (used in Comainu)
 CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
-* History based chunker
+
+* History based chunker (used in Comainu)
 YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
+
+* MSTParser (used in Comainu)
+MSTParser: [http://sourceforge.net/projects/mstparser/](http://sourceforge.net/projects/mstparser/)
 
 ## Bunsetsu Unit (Base phrase)
 We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
@@ -152,6 +157,13 @@ IPADIC and NAIST-jdic are shared the same POS tagset.
 ### Juman POS Tagset
 
 ### UniDic POS Tagset
+
+- The English Translation of POS Tagset by Dr. Irena Srdanovic
+https://gist.github.com/masayu-a/e3eee0637c07d4019ec9
+- The English Translation of Inflection Type by Dr. Irena Srdanovic
+https://gist.github.com/masayu-a/b3ce862336e47736e84f
+- The English Translation of Inflection Form by Dr. Irena Srdanovic
+https://gist.github.com/masayu-a/3e11168f9330e2d83a68
 
 ### Lexicon-based or Usage-based
 
