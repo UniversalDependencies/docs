@@ -109,6 +109,26 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 </div>
 
+<!-- "Ancient Greek" tab -->
+<div id="language-grc" markdown="1" class="ui-tabs-hide">
+{% include grc-status-table.html %}
+
+[Introduction](grc/overview/introduction.html)
+
+* [Tokenization](grc/overview/tokenization.html)
+* Morphology
+  * [General principles](grc/overview/morphology.html)
+  * [Ancient Greek POS tags](grc/pos/index.html) ([single document](grc/pos/all.html))
+  * [Ancient Greek features](grc/feat/index.html) ([single document](grc/feat/all.html))
+* Syntax
+  * [General principles](grc/overview/syntax.html)
+  * [Specific constructions](grc/overview/specific-syntax.html)
+  * [Ancient Greek dependency relations](grc/dep/index.html) ([single document](grc/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
 <!-- "Basque" tab -->
 <div id="language-eu" markdown="1" class="ui-tabs-hide">
 {% include eu-status-table.html %}
