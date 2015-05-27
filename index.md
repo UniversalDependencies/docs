@@ -37,6 +37,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
   <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
   <li class="ui-state-default"><a href="#language-it">Italian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-la">Latin</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ja">Japanese</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
@@ -465,6 +466,26 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
   * [General principles](it/overview/syntax.html)
   * [Specific constructions](it/overview/specific-syntax.html)
   * [Italian dependency relations](it/dep/index.html) ([single document](it/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Latin" tab -->
+<div id="language-la" markdown="1" class="ui-tabs-hide">
+{% include la-status-table.html %}
+
+[Introduction](la/overview/introduction.html)
+
+* [Tokenization](la/overview/tokenization.html)
+* Morphology
+  * [General principles](la/overview/morphology.html)
+  * [Latin POS tags](la/pos/index.html) ([single document](la/pos/all.html))
+  * [Latin features](la/feat/index.html) ([single document](la/feat/all.html))
+* Syntax
+  * [General principles](la/overview/syntax.html)
+  * [Specific constructions](la/overview/specific-syntax.html)
+  * [Latin dependency relations](la/dep/index.html) ([single document](la/dep/all.html))
 
 [CoNLL-U format](format.html)
 
