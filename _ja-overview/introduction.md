@@ -143,7 +143,13 @@ YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/softw
 MSTParser: [http://sourceforge.net/projects/mstparser/](http://sourceforge.net/projects/mstparser/)
 
 ## Bunsetsu Unit (Base phrase)
-We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)
+
+### Overview of Bunsetsu Unit
+Japanese dependency structures tends to be annotated by Bunsetsu Unit
+
+Japanese sentences are not split into words or morphemes by spaces.
+We have several word unit standards by corpus annotation schema or morphological analysers' outputs.
+The representative word unit standards are the following subsubsections.
 
 ## PoS Tag
 
@@ -159,11 +165,11 @@ IPADIC and NAIST-jdic are shared the same POS tagset.
 ### UniDic POS Tagset
 
 - The English Translation of POS Tagset by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/e3eee0637c07d4019ec9
+[https://gist.github.com/masayu-a/e3eee0637c07d4019ec9](https://gist.github.com/masayu-a/e3eee0637c07d4019ec9)
 - The English Translation of Inflection Type by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/b3ce862336e47736e84f
+[https://gist.github.com/masayu-a/b3ce862336e47736e84f](https://gist.github.com/masayu-a/b3ce862336e47736e84f)
 - The English Translation of Inflection Form by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/3e11168f9330e2d83a68
+[https://gist.github.com/masayu-a/3e11168f9330e2d83a68](https://gist.github.com/masayu-a/3e11168f9330e2d83a68)
 
 ### Lexicon-based or Usage-based
 
