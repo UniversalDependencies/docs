@@ -114,7 +114,6 @@ The UniDic are maintained diachronically. NINJAL published versions of UniDic in
 * UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
 * UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
-
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 See also 'Morphological Analyser, JUMAN'.
@@ -171,8 +170,8 @@ They also define several functional multi-word expressions as one Bunsetsu such 
 
 ### IPADIC POS Tagset
 IPADIC and NAIST-jdic are shared the same POS tagset.
-- The English Translation of POS Tagset by Dr. Francis Bond: http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt
-- English Manual: http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/
+- The English Translation of POS Tagset by Dr. Francis Bond: [link](http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt)
+- English Manual: [link](http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/)
 
 ### Juman POS Tagset
 
