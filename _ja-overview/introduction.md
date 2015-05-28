@@ -264,6 +264,17 @@ They also provide the zero pronoun information and correference relations.
 
 [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
 
+## Phrase Structure Treebank
+
+### EDR Corpus
+### 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013)
+
+Phrase Tags are follows: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT).
+Function Tags for semantic role are follows: -ARG0, -ARG1, -ARG2.
+Function Tags for grammatical role are follows: -SBJ, -OBJ, -OB2.
+Function Tags for arbitary argument are follows: -TMP, -LOC.
+Function Tags for coordinate structure and apposition are follows: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE.
+
 ## Other annotations (syntax related only)
 * Scope of Negation for BCCWJ.
 Matsuyoshi provides the annotation of scope of negation for BCCWJ.
@@ -289,7 +300,7 @@ The information will be embedet in BCCWJ-DepPara, soonly.
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
  
 ## Corpora
-* Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
+
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
 
 ## POS Tagset
@@ -297,3 +308,7 @@ The information will be embedet in BCCWJ-DepPara, soonly.
 
 ## Dependency Annotation Schema
 * K. Uchimoto, and Y. Den, “[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)”, In Proc. of LREC 2008, (2008).
+
+## Phrase Structure Annotation
+* Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
+* Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
