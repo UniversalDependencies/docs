@@ -531,27 +531,6 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 </div>
 
-<!-- "Latin" tab -->
-<div id="language-la" markdown="1" class="ui-tabs-hide">
-{% include la-status-table.html %}
-
-[Introduction](la/overview/introduction.html)
-
-* [Tokenization](la/overview/tokenization.html)
-* Morphology
-  * [General principles](la/overview/morphology.html)
-  * [Latin POS tags](la/pos/index.html) ([single document](la/pos/all.html))
-  * [Latin features](la/feat/index.html) ([single document](la/feat/all.html))
-* Syntax
-  * [General principles](la/overview/syntax.html)
-  * [Specific constructions](la/overview/specific-syntax.html)
-  * [Latin dependency relations](la/dep/index.html) ([single document](la/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-</div>
-
-
 <!-- "Persian" tab -->
 <div id="language-fa" markdown="1" class="ui-tabs-hide">
 {% include fa-status-table.html %}
