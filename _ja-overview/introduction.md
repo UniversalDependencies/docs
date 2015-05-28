@@ -169,13 +169,20 @@ They also define several functional multi-word expressions as one Bunsetsu such 
 ## PoS Tag
 
 ### IPADIC POS Tagset
-IPADIC and NAIST-jdic are shared the same POS tagset.
+IPADIC and NAIST-jdic are shared the same POS tagset. Currently, the lexicon based on the POS tagset is not maintained.
 - The English Translation of POS Tagset by Dr. Francis Bond: [link](http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt)
 - English Manual: [link](http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/)
 
 ### Juman POS Tagset
+JUMAN POS Tagset is based on Masuoka-Takubo POS tagset (Masuoka and Takubo 1992).
 
 ### UniDic POS Tagset
+
+The UniDic defined two layered POS tagset. One is for Short Unit Word. The other is Long Unit Word.
+POS tagset for Short Unit Word is 'lexicon-based label'(語彙主義) in which POS label imply all possible usage in the context.
+However, BCCWJ is annotated the 'usage' of POS as the other POS information.
+POS tagset for Long Unit Word is 'usage-based label'(用法主義) in which POS label is disambiguated the usage by the contextual information. 
+Note, the term 'usage-based' is not same as Langacker's Usage-based model.
 
 - The English Translation of POS Tagset by Dr. Irena Srdanovic
 [https://gist.github.com/masayu-a/e3eee0637c07d4019ec9](https://gist.github.com/masayu-a/e3eee0637c07d4019ec9)
@@ -184,19 +191,17 @@ IPADIC and NAIST-jdic are shared the same POS tagset.
 - The English Translation of Inflection Form by Dr. Irena Srdanovic
 [https://gist.github.com/masayu-a/3e11168f9330e2d83a68](https://gist.github.com/masayu-a/3e11168f9330e2d83a68)
 
-### Lexicon-based or Usage-based
-
-The term 'usage-based' is not exactly same as Langacker's Usage-based model.
-
 ### Issues on UD PoS tagset
 
-The UD doesn't define lexicon-based or usage-based PoS tagset.
+The UD PoS tagset doesn't clarify whether the tagset is lexicon-based or usage-based PoS tagset.
+UD for Japanese on BCCWJ is used Short Unit Word for the word unit and 'usage' of SUW for PoS.
 
 ## Dependency Links
 
 ### General Description
 * Strictly Head Final
 * Arrow from modifier to head 
+
 ### Annotation Schema
 * Kyoto Corpus Schema
 Label: D, P, I, A
@@ -209,7 +214,6 @@ Label: D, P, I, A
 * CaboCha: [http://taku910.github.io/cabocha/](http://taku910.github.io/cabocha/)
 * jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
 * Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
-## Other Dependency Relations
 
 
 ## Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser
@@ -246,6 +250,7 @@ Label: D, P, I, A
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
 
-
+## POS Tagset
+* Takashi Masuoka and Yukinori Takubo. 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
 
 
