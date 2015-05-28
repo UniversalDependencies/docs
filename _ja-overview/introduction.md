@@ -199,15 +199,29 @@ UD for Japanese on BCCWJ is used Short Unit Word for the word unit and 'usage' o
 ## Dependency Links
 
 ### General Description
-* Strictly Head Final
-* Arrow from modifier to head 
+Japanese syntactic dependency has the following properties.
 
-### Annotation Schema
+* Strictly Head Final:
+Bunsetsu-based dependencies in Japanese are strictly head final except for apposition and anastrophe.
+
+* Projective:
+Bunsetsu-based dependencies in Japanese are projective except for apposition and non-constituent conjunct coordination (部分並列).
+
+* Arrow from modifier to head:
+In Japanese NLP community, we depict the dependency arrows from modifier to head.
+It is opposite from the standard in the world.
+
+We have several annotation schema for dependency annotation.  They are labeled but very limitted syntactic information.
+Some syntactic labels in UD are in case frame anntation or semantic role annotation in Japanese (next section).
 * Kyoto Corpus Schema
-Label: D, P, I, A
 * CSJ Schema
 * BCCWJ-DepPara Schema
-* Word Dependency by Mori (Mori et al. 2014)
+* Word Dependency by Uchimoto (Uchimoto 2008)
+
+### Kyoto Corpus Schema
+### CSJ Schema
+### BCCWJ-DepPara Schema
+### Word Dependency by Uchimoto
 
 ### Bunsetsu-based Syntactic Dependency Parser
 * KNP: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
