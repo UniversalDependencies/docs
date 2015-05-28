@@ -2,17 +2,17 @@
 layout: base
 title:  'Dependencies'
 generated: 'true'
-permalink: template/dep/all.html
+permalink: la/dep/all.html
 ---
 
 # Dependencies
 
-{% include template-dep-table.html %}
+{% include la-dep-table.html %}
 
 ----------
 
-{% assign sorted = site.template-dep | sort: 'title' %}{% for p in sorted %}
-<a id="al-template-dep/{{ p.title }}" class="al-dest"/>
+{% assign sorted = site.la-dep | sort: 'title' %}{% for p in sorted %}
+<a id="al-la-dep/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

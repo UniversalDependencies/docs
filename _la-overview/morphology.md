@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: template/overview/morphology.html
+permalink: la/overview/morphology.html
 ---
 
 # Morphology

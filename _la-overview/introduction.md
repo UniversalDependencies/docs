@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Introduction'
-permalink: template/overview/introduction.html
+permalink: la/overview/introduction.html
 ---
 
 # Introduction

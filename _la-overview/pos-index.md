@@ -2,16 +2,16 @@
 layout: base
 title:  'POS tags'
 generated: 'true'
-permalink: template/pos/index.html
+permalink: la/pos/index.html
 ---
 
 # POS tags
 
-{% include template-pos-table.html %}
+{% include la-pos-table.html %}
 
 ----------
 
 Alphabetical listing
 
-{% assign sorted = site.template-pos | sort: 'title' %}{% for p in sorted %}
+{% assign sorted = site.la-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

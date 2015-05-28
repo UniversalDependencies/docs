@@ -399,6 +399,20 @@ collections:
   grc-overview:
     output: true
 #
+# Latin
+#
+  la-pos:
+    output: true
+    permalink: /la/pos/:path.html
+  la-feat:
+    output: true
+    permalink: /la/feat/:path.html
+  la-dep:
+    output: true
+    permalink: /la/dep/:path.html
+  la-overview:
+    output: true
+#
 # Template
 #
   template-pos:

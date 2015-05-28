@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: template/overview/syntax.html
+permalink: la/overview/syntax.html
 ---
 
 # Syntax

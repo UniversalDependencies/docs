@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: template/overview/tokenization.html
+permalink: la/overview/tokenization.html
 ---
 
 # Tokenization

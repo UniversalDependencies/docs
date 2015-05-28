@@ -2,17 +2,17 @@
 layout: base
 title:  'POS tags'
 generated: 'true'
-permalink: template/pos/all.html
+permalink: la/pos/all.html
 ---
 
 # POS tags
 
-{% include template-pos-table.html %}
+{% include la-pos-table.html %}
 
 ----------
 
-{% assign sorted = site.template-pos | sort: 'title' %}{% for p in sorted %}
-<a id="al-template-pos/{{ p.title }}" class="al-dest"/>
+{% assign sorted = site.la-pos | sort: 'title' %}{% for p in sorted %}
+<a id="al-la-pos/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

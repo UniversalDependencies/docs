@@ -2,16 +2,16 @@
 layout: base
 title:  'Dependencies'
 generated: 'true'
-permalink: template/dep/index.html
+permalink: la/dep/index.html
 ---
 
 # Dependencies
 
-{% include template-dep-table.html %}
+{% include la-dep-table.html %}
 
 ----------
 
 Alphabetical listing
 
-{% assign sorted = site.template-dep | sort: 'title' %}{% for p in sorted %}
+{% assign sorted = site.la-dep | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
