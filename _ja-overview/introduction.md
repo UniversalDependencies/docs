@@ -247,13 +247,31 @@ The annotation is related to Middle Unit Word definition.
 
 ## Semantic Dependency Annotation Schema (with corpus)
 
-* Kyoto Corpus Schema (on Mainichi Newspaper)
-* NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)
+Unfortunately, the dependency label set on the syntactic dependency annotated corpora is limited.
+We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.
 
+* Kyoto Corpus Schema (on Mainichi Newspaper):
+Kyoto Corpus includes Case frame(格関係) annotation between a predicate and arguments.
+They define case labels inside a clause: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj), デ(de), カラ(kara, from), ヨリ(yori, from), マデ(to), マデニ(to), 時間格(temporal), ガ２(second ga) and a case label(外の関係) for interclause relations.
+They also define ノ(no, genitive) between two nouns.
+Zero pronoun is often appeared in Japanese. They also provide the zero pronoun information and correference relations.
+
+[http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf)
+
+* NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ):
+NAIST Corpus also includes semantic role information. They define case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
+They also provide the zero pronoun information and correference relations.
+
+[https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
 
 ## Other annotations (syntax related only)
-* Scope of Negation for BCCWJ
+* Scope of Negation for BCCWJ.
+Matsuyoshi provides the annotation of scope of negation for BCCWJ.
+[http://cl.cs.yamanashi.ac.jp/nldata/negation/](http://cl.cs.yamanashi.ac.jp/nldata/negation/)
+
 * Passive Auxiliary Verb for BCCWJ
+NINJAL provides the annotation of passive auxiliary verb for BCCWJ.
+The information will be embedet in BCCWJ-DepPara, soonly.
 
 # Contributors
 
