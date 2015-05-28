@@ -118,6 +118,10 @@ The UniDic are maintained diachronically. NINJAL published versions of UniDic in
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 See also 'Morphological Analyser, JUMAN'.
+The unit includes several compound words as one word unit.
+
+[http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+
 
 ### Morphological Analysers
 
@@ -145,15 +149,25 @@ MSTParser: [http://sourceforge.net/projects/mstparser/](http://sourceforge.net/p
 ## Bunsetsu Unit (Base phrase)
 
 ### Overview of Bunsetsu Unit
-Japanese dependency structures tends to be annotated by Bunsetsu Unit
+Japanese dependency structures tends to be annotated by Bunsetsu Unit.
+This is because to separate compound word construction issues (morphology) from syntactic dependency.
+However, the bunsetsu-based dependency annotation leaves the NP attachments for compound verbs.
 
-Japanese sentences are not split into words or morphemes by spaces.
-We have several word unit standards by corpus annotation schema or morphological analysers' outputs.
-The representative word unit standards are the following subsubsections.
+We have two Bunsetsu unit standards: Kyoto Corpus Standard and NINJAL Standard.
+
+### Kyoto Corpus Standard
+
+The Kyoto Corpus Standard is based on 'Prefix + Content Word + Suffix or Function word' as a Bunsetsu based on JUMAN word units. Some functional multi-word expressions are treated as one Bunsetsu such as 'しようとする', 'Vざるをえない', 'Vつつある' and so on.
+
+[http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+
+### NINJAL Standard
+
+NINJAL standard is based on UniDic Long Unit Words definition.
+The main rule is 'Content word + Functional Word' in UniDic LUW.
+They also define several functional multi-word expressions as one Bunsetsu such as 'という', 'といった', 'かもしれない', 'ことができる'.
 
 ## PoS Tag
-
-UD PoS for Japanese is obtained by conversion rules from UniDic PoS Tagset.
 
 ### IPADIC POS Tagset
 IPADIC and NAIST-jdic are shared the same POS tagset.
