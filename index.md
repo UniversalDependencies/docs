@@ -45,8 +45,6 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-grc">Ancient Greek</a></li>
-  <li class="ui-state-default"><a href="#language-la">Latin</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -533,6 +531,27 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 </div>
 
+<!-- "Latin" tab -->
+<div id="language-la" markdown="1" class="ui-tabs-hide">
+{% include la-status-table.html %}
+
+[Introduction](la/overview/introduction.html)
+
+* [Tokenization](la/overview/tokenization.html)
+* Morphology
+  * [General principles](la/overview/morphology.html)
+  * [Latin POS tags](la/pos/index.html) ([single document](la/pos/all.html))
+  * [Latin features](la/feat/index.html) ([single document](la/feat/all.html))
+* Syntax
+  * [General principles](la/overview/syntax.html)
+  * [Specific constructions](la/overview/specific-syntax.html)
+  * [Latin dependency relations](la/dep/index.html) ([single document](la/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+
 <!-- "Persian" tab -->
 <div id="language-fa" markdown="1" class="ui-tabs-hide">
 {% include fa-status-table.html %}
@@ -634,45 +653,7 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 </div>
 
 
-<!-- "Ancient Greek" tab -->
-<div id="language-grc" markdown="1" class="ui-tabs-hide">
-{% include grc-status-table.html %}
 
-[Introduction](grc/overview/introduction.html)
-
-* [Tokenization](grc/overview/tokenization.html)
-* Morphology
-  * [General principles](grc/overview/morphology.html)
-  * [Ancient Greek POS tags](grc/pos/index.html) ([single document](grc/pos/all.html))
-  * [Ancient Greek features](grc/feat/index.html) ([single document](grc/feat/all.html))
-* Syntax
-  * [General principles](grc/overview/syntax.html)
-  * [Specific constructions](grc/overview/specific-syntax.html)
-  * [Ancient Greek dependency relations](grc/dep/index.html) ([single document](grc/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-</div>
-
-<!-- "Latin" tab -->
-<div id="language-la" markdown="1" class="ui-tabs-hide">
-{% include la-status-table.html %}
-
-[Introduction](la/overview/introduction.html)
-
-* [Tokenization](la/overview/tokenization.html)
-* Morphology
-  * [General principles](la/overview/morphology.html)
-  * [Latin POS tags](la/pos/index.html) ([single document](la/pos/all.html))
-  * [Latin features](la/feat/index.html) ([single document](la/feat/all.html))
-* Syntax
-  * [General principles](la/overview/syntax.html)
-  * [Specific constructions](la/overview/specific-syntax.html)
-  * [Latin dependency relations](la/dep/index.html) ([single document](la/dep/all.html))
-
-[CoNLL-U format](format.html)
-
-</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
