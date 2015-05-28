@@ -311,12 +311,13 @@ The information will be embedet in BCCWJ-DepPara, soonly.
 name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.
 
 ## Dependency Annotation Schema
+* Sadao Kurohashi and Makoto Nagao. 2003. Building a Japanese parsed corpus --- while improving the parsing system. In Abeille (ed.) Treebanks: Building and using parsed corpora, Chap. 14, pp. 249-260. Kluwer Academic Publisher.
 * K. Uchimoto, and Y. Den, “[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)”, In Proc. of LREC 2008, (2008).
 * Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. Annotating a Japanese text
 corpus with predicate-argument and coreference relations. In Proceedings of Linguistic Annotation
 Workshop, pages 132–139.
 
-## Phrase Structure Annotation
+## Treebanking
 * Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 * Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
