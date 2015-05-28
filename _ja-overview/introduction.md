@@ -320,4 +320,4 @@ Workshop, pages 132–139.
 ## Treebanking
 * Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
-* Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
+* Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
