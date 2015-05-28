@@ -312,15 +312,39 @@ The annotation is related to Middle Unit Word definition.</p>
 
 <h2 id="semantic-dependency-annotation-schema-with-corpus">Semantic Dependency Annotation Schema (with corpus)</h2>
 
+<p>Unfortunately, the dependency label set on the syntactic dependency annotated corpora is limited.
+We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.</p>
+
 <ul>
-  <li>Kyoto Corpus Schema (on Mainichi Newspaper)</li>
-  <li>NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)</li>
+  <li>Kyoto Corpus Schema (on Mainichi Newspaper):
+Kyoto Corpus includes Case frame(格関係) annotation between a predicate and arguments.
+They define case labels inside a clause: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj), デ(de), カラ(kara, from), ヨリ(yori, from), マデ(to), マデニ(to), 時間格(temporal), ガ２(second ga) and a case label(外の関係) for interclause relations.
+They also define ノ(no, genitive) between two nouns.
+Zero pronoun is often appeared in Japanese. They also provide the zero pronoun information and correference relations.</li>
 </ul>
+
+<p><a href="http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf">http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf</a></p>
+
+<ul>
+  <li>NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ):
+NAIST Corpus also includes semantic role information. They define case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
+They also provide the zero pronoun information and correference relations.</li>
+</ul>
+
+<p><a href="https://sites.google.com/site/naisttextcorpus/">https://sites.google.com/site/naisttextcorpus/</a></p>
 
 <h2 id="other-annotations-syntax-related-only">Other annotations (syntax related only)</h2>
 <ul>
-  <li>Scope of Negation for BCCWJ</li>
-  <li>Passive Auxiliary Verb for BCCWJ</li>
+  <li>
+    <p>Scope of Negation for BCCWJ.
+Matsuyoshi provides the annotation of scope of negation for BCCWJ.
+<a href="http://cl.cs.yamanashi.ac.jp/nldata/negation/">http://cl.cs.yamanashi.ac.jp/nldata/negation/</a></p>
+  </li>
+  <li>
+    <p>Passive Auxiliary Verb for BCCWJ
+NINJAL provides the annotation of passive auxiliary verb for BCCWJ.
+The information will be embedet in BCCWJ-DepPara, soonly.</p>
+  </li>
 </ul>
 
 <h1 id="contributors">Contributors</h1>
