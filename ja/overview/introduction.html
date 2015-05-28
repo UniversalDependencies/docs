@@ -160,7 +160,10 @@ The UniDic are maintained diachronically. NINJAL published versions of UniDic in
 
 <h3 id="jumandic-word-unit">JUMANdic word unit:</h3>
 <p>This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
-See also ‘Morphological Analyser, JUMAN’.</p>
+See also ‘Morphological Analyser, JUMAN’.
+The unit includes several compound words as one word unit.</p>
+
+<p><a href="http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf">http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf</a></p>
 
 <h3 id="morphological-analysers">Morphological Analysers</h3>
 
@@ -198,16 +201,32 @@ MSTParser: <a href="http://sourceforge.net/projects/mstparser/">http://sourcefor
 </ul>
 
 <h2 id="bunsetsu-unit-base-phrase">Bunsetsu Unit (Base phrase)</h2>
-<p>We use NINJAL Short Unit Word (SUW) in UniDic. (ref. UniDic)</p>
+
+<h3 id="overview-of-bunsetsu-unit">Overview of Bunsetsu Unit</h3>
+<p>Japanese dependency structures tends to be annotated by Bunsetsu Unit.
+This is because to separate compound word construction issues (morphology) from syntactic dependency.
+However, the bunsetsu-based dependency annotation leaves the NP attachments for compound verbs.</p>
+
+<p>We have two Bunsetsu unit standards: Kyoto Corpus Standard and NINJAL Standard.</p>
+
+<h3 id="kyoto-corpus-standard">Kyoto Corpus Standard</h3>
+
+<p>The Kyoto Corpus Standard is based on ‘Prefix + Content Word + Suffix or Function word’ as a Bunsetsu based on JUMAN word units. Some functional multi-word expressions are treated as one Bunsetsu such as ‘しようとする’, ‘Vざるをえない’, ‘Vつつある’ and so on.</p>
+
+<p><a href="http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf">http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf</a></p>
+
+<h3 id="ninjal-standard">NINJAL Standard</h3>
+
+<p>NINJAL standard is based on UniDic Long Unit Words definition.
+The main rule is ‘Content word + Functional Word’ in UniDic LUW.
+They also define several functional multi-word expressions as one Bunsetsu such as ‘という’, ‘といった’, ‘かもしれない’, ‘ことができる’.</p>
 
 <h2 id="pos-tag">PoS Tag</h2>
 
-<p>UD PoS for Japanese is obtained by conversion rules from UniDic PoS Tagset.</p>
-
 <h3 id="ipadic-pos-tagset">IPADIC POS Tagset</h3>
 <p>IPADIC and NAIST-jdic are shared the same POS tagset.
-- The English Translation of POS Tagset by Dr. Francis Bond: http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt
-- English Manual: http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/</p>
+- The English Translation of POS Tagset by Dr. Francis Bond: <a href="http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt">link</a>
+- English Manual: <a href="http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/">link</a></p>
 
 <h3 id="juman-pos-tagset">Juman POS Tagset</h3>
 
@@ -215,11 +234,11 @@ MSTParser: <a href="http://sourceforge.net/projects/mstparser/">http://sourcefor
 
 <ul>
   <li>The English Translation of POS Tagset by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/e3eee0637c07d4019ec9</li>
+<a href="https://gist.github.com/masayu-a/e3eee0637c07d4019ec9">https://gist.github.com/masayu-a/e3eee0637c07d4019ec9</a></li>
   <li>The English Translation of Inflection Type by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/b3ce862336e47736e84f</li>
+<a href="https://gist.github.com/masayu-a/b3ce862336e47736e84f">https://gist.github.com/masayu-a/b3ce862336e47736e84f</a></li>
   <li>The English Translation of Inflection Form by Dr. Irena Srdanovic
-https://gist.github.com/masayu-a/3e11168f9330e2d83a68</li>
+<a href="https://gist.github.com/masayu-a/3e11168f9330e2d83a68">https://gist.github.com/masayu-a/3e11168f9330e2d83a68</a></li>
 </ul>
 
 <h3 id="lexicon-based-or-usage-based">Lexicon-based or Usage-based</h3>
