@@ -297,7 +297,7 @@ They also define the label S for ungramatical case postposition assignment(格�
 One is Bunsetsu-based dependency by four labels: D for normal dependency, F for filler or no head or face mark, Z for sentence boundary in nested sentences, B for resolution of discrepancy between Bunsetsu Units.
 The other is nested coordination structure and apposition annotation like ‘<a href="https://catalog.ldc.upenn.edu/LDC2015T08">Coordination Annotation for the Penn Treebank</a>’.</p>
 
-<h3 id="word-dependency-by-uchimoto">Word Dependency by Uchimoto</h3>
+<h3 id="word-dependency-for-csj">Word Dependency for CSJ</h3>
 <p>Uchimoto (2008) proposed word-based dependency annotation schema on CSJ. This is an extension for CSJ schema.
 They annotation the internal dependency structure of the Bunsetsu to resolve the discrepancy between accent phrases (maximal left branching subtree with in Bunsetsu) and Bunsetsu units.
 The annotation is related to Middle Unit Word definition.</p>
@@ -316,7 +316,7 @@ The annotation is related to Middle Unit Word definition.</p>
 We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.</p>
 
 <ul>
-  <li>Kyoto Corpus Schema (on Mainichi Newspaper):
+  <li>Kyoto Corpus Schema:
 Kyoto Corpus includes Case frame(格関係) annotation between a predicate and arguments.
 They define case labels inside a clause: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj), デ(de), カラ(kara, from), ヨリ(yori, from), マデ(to), マデニ(to), 時間格(temporal), ガ２(second ga) and a case label(外の関係) for interclause relations.
 They also define ノ(no, genitive) between two nouns.
@@ -326,8 +326,8 @@ Zero pronoun is often appeared in Japanese. They also provide the zero pronoun i
 <p><a href="http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf">http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf</a></p>
 
 <ul>
-  <li>NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ):
-NAIST Corpus also includes semantic role information. They define case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
+  <li>NAIST Corpus Schema:
+NAIST Corpus also includes semantic role information. Iida et al. (2007) defines case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
 They also provide the zero pronoun information and correference relations.</li>
 </ul>
 
@@ -388,15 +388,25 @@ The information will be embedet in BCCWJ-DepPara, soonly.</p>
   <li>Takashi Masuoka and Yukinori Takubo. 1992. ‘<a href="http://www.amazon.co.jp/dp/4874240666">基礎日本語文法・改訂版</a></li>
 </ul>
 
+<h2 id="internal-structure-annotation-for-compound-words">Internal Structure Annotation for Compound Words</h2>
+<ul>
+  <li>Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. Internal structure of a disease
+name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.</li>
+</ul>
+
 <h2 id="dependency-annotation-schema">Dependency Annotation Schema</h2>
 <ul>
   <li>K. Uchimoto, and Y. Den, “<a href="http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html">Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application</a>”, In Proc. of LREC 2008, (2008).</li>
+  <li>Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. Annotating a Japanese text
+corpus with predicate-argument and coreference relations. In Proceedings of Linguistic Annotation
+Workshop, pages 132–139.</li>
 </ul>
 
 <h2 id="phrase-structure-annotation">Phrase Structure Annotation</h2>
 <ul>
   <li>Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. ‘<a href="http://www.aclweb.org/anthology/P13-1103">Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources</a> In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.</li>
   <li>Takaaki Tanaka and Masaaki Nagata. 2013. ‘<a href="http://www.aclweb.org/anthology/W13-4913">Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels</a>’ In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages</li>
+  <li>Daisuke Bekki. 2010. ‘<a href="http://www.amazon.co.jp/dp/4874244688/">Formal Theory of Japanese Syntax</a>. Kuroshio Shuppan. (In Japanese)</li>
 </ul>
 
 
