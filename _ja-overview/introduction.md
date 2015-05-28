@@ -202,7 +202,7 @@ UD for Japanese on BCCWJ is used Short Unit Word for the word unit and 'usage' o
 Japanese syntactic dependency has the following properties.
 
 * Strictly Head Final:
-Bunsetsu-based dependencies in Japanese are strictly head final except for apposition and anastrophe.
+Bunsetsu-based dependencies in Japanese are strictly head final except for apposition and anastrophe(倒置).
 
 * Projective:
 Bunsetsu-based dependencies in Japanese are projective except for apposition and non-constituent conjunct coordination (部分並列).
@@ -219,9 +219,25 @@ Some syntactic labels in UD are in case frame anntation or semantic role annotat
 * Word Dependency by Uchimoto (Uchimoto 2008)
 
 ### Kyoto Corpus Schema
+Kyoto Corpus Schema is Bunsetsu-based.
+The dependency tree is strictly head-final and projective.
+The schema defines four labels: D for normal dependency, P for coordination structure, I for dependency in non-constituent conjunct coordination (部分並列), and A for apposition.
+
 ### CSJ Schema
+CSJ is a speech corpus. CSJ Schema is also Bunsetsu-based.
+The dependency structure is based on Kyoto Corpus Schema and extended some labels: A2 for generic apposition (総称), R for anastrophe (倒置), B+ for resolution of discrepancy between Bunsetsu Unit and Accent Phrase Unit, F for filler(フィラー), C for conjunctive, E for interjection or exclamation, Y for greetings or apostrophe(呼びかけ), N for no head in ungrammatical sentence, X for non-projective arc, and D for disfluency(言いよどみ).
+They define the label K to indicate ancient Japanese (古典)to escape the annotation.
+They also define the label S for ungramatical case postposition assignment(格表示誤り).
+
 ### BCCWJ-DepPara Schema
+BCCWJ-DepPara schema is two-sided.
+One is Bunsetsu-based dependency by four labels: D for normal dependency, F for filler or no head or face mark, Z for sentence boundary in nested sentences, B for resolution of discrepancy between Bunsetsu Units.
+The other is nested coordination structure and apposition annotation like '[Coordination Annotation for the Penn Treebank](https://catalog.ldc.upenn.edu/LDC2015T08)'.
+
 ### Word Dependency by Uchimoto
+Uchimoto (2008) proposed word-based dependency annotation schema on CSJ. This is an extension for CSJ schema.
+They annotation the internal dependency structure of the Bunsetsu to resolve the discrepancy between accent phrases (maximal left branching subtree with in Bunsetsu) and Bunsetsu units.
+The annotation is related to Middle Unit Word definition.
 
 ### Bunsetsu-based Syntactic Dependency Parser
 * KNP: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
@@ -229,8 +245,8 @@ Some syntactic labels in UD are in case frame anntation or semantic role annotat
 * jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
 * Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
 
+## Semantic Dependency Annotation Schema (with corpus)
 
-## Semantic Dependency Annotation Schema (with corpus), Semantic Dependency Parser
 * Kyoto Corpus Schema (on Mainichi Newspaper)
 * NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ)
 
@@ -238,12 +254,6 @@ Some syntactic labels in UD are in case frame anntation or semantic role annotat
 ## Other annotations (syntax related only)
 * Scope of Negation for BCCWJ
 * Passive Auxiliary Verb for BCCWJ
-
-## Issues General
-* Both of Mainichi Newspaper and BCCWJ are non-free resources.
-
-
-
 
 # Contributors
 
@@ -267,4 +277,5 @@ Some syntactic labels in UD are in case frame anntation or semantic role annotat
 ## POS Tagset
 * Takashi Masuoka and Yukinori Takubo. 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
 
-
+## Dependency Annotation Schema
+* K. Uchimoto, and Y. Den, “[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)”, In Proc. of LREC 2008, (2008).
