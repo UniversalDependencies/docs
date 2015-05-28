@@ -245,7 +245,7 @@ The annotation is related to Middle Unit Word definition.
 * jdepp: [http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
 * Yahoo! API: [http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html](http://developer.yahoo.co.jp/webapi/jlp/da/v1/parse.html)
 
-## Semantic Dependency Annotation Schema (with corpus)
+## Semantic Dependency Annotation Schema 
 
 Unfortunately, the dependency label set on the syntactic dependency annotated corpora is limited.
 We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.
