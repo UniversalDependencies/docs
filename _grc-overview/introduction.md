@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Introduction'
-permalink: template/overview/introduction.html
+permalink: grc/overview/introduction.html
 ---
 
 # Introduction

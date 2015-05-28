@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: template/overview/syntax.html
+permalink: grc/overview/syntax.html
 ---
 
 # Syntax

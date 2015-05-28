@@ -2,17 +2,17 @@
 layout: base
 title:  'Features'
 generated: 'true'
-permalink: template/feat/all.html
+permalink: grc/feat/all.html
 ---
 
 # Features
 
-{% include template-feat-table.html %}
+{% include grc-feat-table.html %}
 
 ----------
 
-{% assign sorted = site.template-feat | sort: 'title' %}{% for p in sorted %}
-<a id="al-template-feat/{{ p.title }}" class="al-dest"/>
+{% assign sorted = site.grc-feat | sort: 'title' %}{% for p in sorted %}
+<a id="al-grc-feat/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}

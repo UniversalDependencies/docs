@@ -385,6 +385,20 @@ collections:
   hi-overview:
     output: true
 #
+# Ancient Greek
+#
+  grc-pos:
+    output: true
+    permalink: /grc/pos/:path.html
+  grc-feat:
+    output: true
+    permalink: /grc/feat/:path.html
+  grc-dep:
+    output: true
+    permalink: /grc/dep/:path.html
+  grc-overview:
+    output: true
+#
 # Template
 #
   template-pos:

@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: template/overview/specific-syntax.html
+permalink: grc/overview/specific-syntax.html
 ---
 
 # Specific constructions

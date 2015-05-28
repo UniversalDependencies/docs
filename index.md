@@ -45,6 +45,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-grc">Ancient Greek</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -631,6 +632,26 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 </div>
 
+
+<!-- "Ancient Greek" tab -->
+<div id="language-grc" markdown="1" class="ui-tabs-hide">
+{% include grc-status-table.html %}
+
+[Introduction](grc/overview/introduction.html)
+
+* [Tokenization](grc/overview/tokenization.html)
+* Morphology
+  * [General principles](grc/overview/morphology.html)
+  * [Ancient Greek POS tags](grc/pos/index.html) ([single document](grc/pos/all.html))
+  * [Ancient Greek features](grc/feat/index.html) ([single document](grc/feat/all.html))
+* Syntax
+  * [General principles](grc/overview/syntax.html)
+  * [Specific constructions](grc/overview/specific-syntax.html)
+  * [Ancient Greek dependency relations](grc/dep/index.html) ([single document](grc/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
