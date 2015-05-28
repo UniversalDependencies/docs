@@ -234,7 +234,7 @@ BCCWJ-DepPara schema is two-sided.
 One is Bunsetsu-based dependency by four labels: D for normal dependency, F for filler or no head or face mark, Z for sentence boundary in nested sentences, B for resolution of discrepancy between Bunsetsu Units.
 The other is nested coordination structure and apposition annotation like '[Coordination Annotation for the Penn Treebank](https://catalog.ldc.upenn.edu/LDC2015T08)'.
 
-### Word Dependency by Uchimoto
+### Word Dependency for CSJ
 Uchimoto (2008) proposed word-based dependency annotation schema on CSJ. This is an extension for CSJ schema.
 They annotation the internal dependency structure of the Bunsetsu to resolve the discrepancy between accent phrases (maximal left branching subtree with in Bunsetsu) and Bunsetsu units.
 The annotation is related to Middle Unit Word definition.
@@ -250,7 +250,7 @@ The annotation is related to Middle Unit Word definition.
 Unfortunately, the dependency label set on the syntactic dependency annotated corpora is limited.
 We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.
 
-* Kyoto Corpus Schema (on Mainichi Newspaper):
+* Kyoto Corpus Schema:
 Kyoto Corpus includes Case frame(格関係) annotation between a predicate and arguments.
 They define case labels inside a clause: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj), デ(de), カラ(kara, from), ヨリ(yori, from), マデ(to), マデニ(to), 時間格(temporal), ガ２(second ga) and a case label(外の関係) for interclause relations.
 They also define ノ(no, genitive) between two nouns.
@@ -258,8 +258,8 @@ Zero pronoun is often appeared in Japanese. They also provide the zero pronoun i
 
 [http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf)
 
-* NAIST Corpus Schema (on Mainichi Newspaper and BCCWJ):
-NAIST Corpus also includes semantic role information. They define case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
+* NAIST Corpus Schema:
+NAIST Corpus also includes semantic role information. Iida et al. (2007) defines case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
 They also provide the zero pronoun information and correference relations.
 
 [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
@@ -306,9 +306,17 @@ The information will be embedet in BCCWJ-DepPara, soonly.
 ## POS Tagset
 * Takashi Masuoka and Yukinori Takubo. 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
 
+## Internal Structure Annotation for Compound Words
+* Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. Internal structure of a disease
+name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.
+
 ## Dependency Annotation Schema
 * K. Uchimoto, and Y. Den, “[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)”, In Proc. of LREC 2008, (2008).
+* Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. Annotating a Japanese text
+corpus with predicate-argument and coreference relations. In Proceedings of Linguistic Annotation
+Workshop, pages 132–139.
 
 ## Phrase Structure Annotation
 * Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
+* Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
