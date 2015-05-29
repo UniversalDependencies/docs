@@ -4,7 +4,16 @@ title: 'case'
 shortdef: 'case marking'
 ---
 
-Postpositions and particles attach to a noun phrase.
+In Japanese, case markers are particles attaching to a noun phrase.
+The particles are tagged as "[ADP]()" in UD Japanese.
+Typical case markers:
+
+- が / *ga* for nominal
+- を / *o* for accusative
+- に / *ni* for dative, locative etc.
+
+- の / *no* for genitive
+- へ / *e* for locative etc.
 
 ~~~ sdparse
 太郎 が 東京 へ 行く 。\n Taro NOM Tokyo TO go .
