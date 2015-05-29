@@ -297,12 +297,21 @@ They introduced phrase tags and functional tags as follows:
 * Function Tags for coordinate structure and apposition: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE
 
 ### Other treebank
-* EDR Corpus
+* EDR Corpus:
 EDR corpus includes Japanese Treebank. It is word-based dependency tree with semantic frames.
 [manual](http://www2.nict.go.jp/out-promotion/techtransfer/EDR/JPN/TG/Doc/EDR_J09a.pdf)
 
-# Contributors
+* TITECH CFG Corpus:
+Noro (2005) proposed a method to construct CFG treebank from EDR and RWCP Corpus.
 
+* Hinoki Treebank:
+NTT (Bond 2008) built a HPSG-based treebank: 'Hinoki Treebank'.
+
+* Keyaki Treebank:
+Tohoku Univ. is building 'Keyaki Treebank' following the Annotation
+manual for the Penn Historical Corpora and PCEEC.
+
+# Contributors
 * Yusuke Miyao
 * Hiroshi Kanayama
 * Takaaki Tanaka
@@ -311,9 +320,6 @@ EDR corpus includes Japanese Treebank. It is word-based dependency tree with sem
 * Masayuki Asahara
 
 # References
-
-
- 
 ## Corpora
 * Kikuo Maekawa, Hideaki Kikuchi and Wataru Tsukahara. "Corpus of Spontaneous Japanese: Design, Annotation and XML Representation", Proceedings of the International Symposium on Large-scale Knowledge Resources (LKR2004), Tokyo: Tokyo Institute of Technology, pp.19-24, 2004:3.
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
@@ -336,7 +342,7 @@ name and its application for ICD coding. Studies in health technology and inform
 ## Treebanking
 * Takao Gunji. 1987. '[Japanese Phrase Structure Grammar: A Unification-based Approach](http://www.amazon.co.jp/dp/1556080204/).' D. Reidel.
 * Noro, Tomoya, et al. "[Building a large-scale Japanese syntactically annotated corpus for deriving a CFG](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf)." Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005). 2005.
-* Bond, Francis, Sanae Fujita, and Takaaki Tanaka. "[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)." Language Resources and Evaluation 42.2 (2008): 243-251.
+* Francis Bond, Sanae Fujita, and Takaaki Tanaka. "[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)." Language Resources and Evaluation 42.2 (2008): 243-251.
 * Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
 * Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: phrase structure with functional information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) In Proceedings of Text Annotation Workshop.
 * Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
