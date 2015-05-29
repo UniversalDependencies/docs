@@ -283,17 +283,18 @@ Hanaoka et al. (2010) annotated the functions of Japanese particle(postposition)
 ## Phrase Structure Treebank
 
 ### CCG resources derived from multiple dependency corpora (Uematsu 2013)
-Japanese phrase structure resources are limited.  Uematsu (2013) composed CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.  They proposed a method to integrate the resources into phrase structure trees with argument relations and convert CCG resources. The CCG theory is based on Bekki (2010).
+Japanese phrase structure resources are limited.  Uematsu (2013) composed CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.  They proposed a method to integrate the resources into binary phrase structure trees with argument relations and convert CCG resources. The CCG theory is based on Bekki (2010).
 
 ### 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013)
 
 Tanaka and Nagata (2013) proposed a method to construct a phrase structure by retagging the Uematsu (2013) work.
-They defined the following tags:
-| Phrase Tags | NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT) | 
-| Function Tags for semantic role |-ARG0, -ARG1, -ARG2|
-| Function Tags for grammatical role|  -SBJ, -OBJ, -OB2|
-| Function Tags for arbitary argument| -TMP, -LOC |
-| Function Tags for coordinate structure and apposition | -COORD, -NCOORD, -VCOORD, -APPOS, -QUE|
+They also provide n-ary version of treebank.
+They introduced phrase tags and functional tags as follows:
+* Phrase Tags: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT) | 
+* Function Tags for semantic role: -ARG0, -ARG1, -ARG2
+* Function Tags for grammatical role: -SBJ, -OBJ, -OB2
+* Function Tags for arbitary argument: -TMP, -LOC 
+* Function Tags for coordinate structure and apposition: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE
 
 ### Other treebank
 * EDR Corpus
