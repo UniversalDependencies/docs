@@ -6,12 +6,12 @@ shortdef: 'case marking'
 
 In Japanese, case markers are particles attaching to a noun phrase.
 The particles are tagged as "[ADP]()" in UD Japanese.
-Typical case markers:
+
+Typical case markers are as follows:
 
 - が / *ga* for nominative
 - を / *o* for accusative
 - に / *ni* for dative, locative etc.
-
 - の / *no* for genitive
 - へ / *e* for locative etc.
 
