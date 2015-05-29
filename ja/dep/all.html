@@ -305,7 +305,8 @@ compound(器, 解析)
 <p><a id="al-ja-dep/aux" class="al-dest"></a></p>
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>Auxiliary verbs and particles that attach to verbs.</p>
+<p>The dependency type <code>aux</code> is used for <a href="/docs/ja/pos/AUX_.html">auxiliary verbs</a> and
+<a href="/docs/ja/pos/PART.html">particles</a> that attach to predicates.</p>
 
 <pre><code class="language-sdparse">ご飯 を 食べ た 。 \n rice ACC eat PAST .
 case(ご飯, を)
@@ -325,7 +326,9 @@ punct(行き, 。)
 <p><a id="al-ja-dep/auxpass" class="al-dest"></a></p>
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>Passive auxiliary.</p>
+<p>The passive auxiliaries in Japanese are れる / <em>reru</em> and られる / <em>rareru</em>.
+They attach to the main verbs to form verbal phrases in the passive voice.
+Note that passivization causes case alternations.</p>
 
 <pre><code class="language-sdparse">太郎 が 雇わ れ た 。 \n Taro NOM employ PASSIVE PAST .
 auxpass(雇わ, れ)
@@ -340,7 +343,19 @@ punct(雇わ, 。)
 <p><a id="al-ja-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>Postpositions and particles attach to a noun phrase.</p>
+<p>In Japanese, case markers are particles attaching to a noun phrase.
+The particles are tagged as “<a href="">ADP</a>” in UD Japanese.
+Typical case markers:</p>
+
+<ul>
+  <li>が / <em>ga</em> for nominal</li>
+  <li>を / <em>o</em> for accusative</li>
+  <li>
+    <p>に / <em>ni</em> for dative, locative etc.</p>
+  </li>
+  <li>の / <em>no</em> for genitive</li>
+  <li>へ / <em>e</em> for locative etc.</li>
+</ul>
 
 <pre><code class="language-sdparse">太郎 が 東京 へ 行く 。\n Taro NOM Tokyo TO go .
 case(太郎, が)
