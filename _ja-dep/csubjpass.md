@@ -4,7 +4,7 @@ title: 'csubjpass'
 shortdef: 'clausal passive subject'
 ---
 
-Clausal subjects in passive forms.
+The dependency type `csubjpass` is used for clausal subjects of passive verbs.
 
 ~~~ sdparse
 言っ た の が 悔やま れる 。 \n say PAST that NOM regret PASSIVE .

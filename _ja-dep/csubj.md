@@ -4,7 +4,9 @@ title: 'csubj'
 shortdef: 'clausal subject'
 ---
 
-Clausal subjects introduced by a nominal marker の / no.
+A clausal subject (`csubj`) is commonly introduced by a pair of particles,
+a nominal marker の / *no* and a nominative case marker が / *ga*.
+When the phrase is topicalized, the nominative が / *ga* is replaced by は / *wa*.
 
 ~~~ sdparse
 太郎 が 怒ら れる の は いや だ 。 \n Taro NOM punish PASSIVE that TOPIC dislike AUX .
