@@ -4,7 +4,7 @@ title: 'discourse'
 shortdef: 'discourse element'
 ---
 
-Discourse elements like interjection and emoticons.
+Discourse elements (`discourse`) in UD Japanese is interjection and emoticons.
 
 ~~~ sdparse
 あー つかれ た 。 \n ah tire PAST .
