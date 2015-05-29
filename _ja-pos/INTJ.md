@@ -30,15 +30,3 @@ and <b>こんにちは</b>_&nbsp; "hello".
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
-
-
-### References
-
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
-- [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
-
-
-### References
-
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
-- [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
