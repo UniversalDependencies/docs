@@ -249,7 +249,7 @@ is not syntactically related to other accompanying expressions, and
 may include a combination of sounds not otherwise found in the
 language.</p>
 
-<p>In BCCWJ, these words are tagged with <code>interjection</code> / 感動詞,
+<p>In UniDic, these words are tagged with <code>interjection</code> / 感動詞,
 which include <em><b>ああ</b></em> “Oh”, <em><b>えっと</b></em> “well”(filler),
 <b>はい</b><em> / <b>いいえ</b></em>  “yes / no”,
 and <b>こんにちは</b>_  “hello”.</p>
@@ -271,6 +271,13 @@ and <b>こんにちは</b>_  “hello”.</p>
 </ul>
 
 <h3 id="references-1">References</h3>
+
+<ul>
+  <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Interjection">Wikipedia</a></li>
+</ul>
+
+<h3 id="references-2">References</h3>
 
 <ul>
   <li><a href="http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm">Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?</a></li>
@@ -317,14 +324,14 @@ adjective or pronoun, that expresses a number and a relation to the
 number, such as quantity, sequence, frequency or fraction.</p>
 
 <p>Cardinal numerals are convered by ‘NUM’,
-which are tagged with <code>noun(numeral)</code> / 名詞-数詞 in BCCWJ,
-including Kanji expressions,
+which are tagged with <code>noun(numeral)</code> / 名詞-数詞 in UniDic,
+including Kanji expressions
 (e.g. <em><b>二十</b></em> “20”, <em><b>六万</b></em> “60,000”).</p>
 
 <p>Note that each numeral is split into one or more word units 
 based on the number of units, (e.g. <em><b>二千十四</b> “2014”
 is split into three words, 
- _<b>二千</b></em> “2000” <em><b>十</b></em> “10” and
+ _<b>二千</b></em> “2000” <em><b>十</b></em> “10”　and
 <em><b>四</b></em> “4”).</p>
 
 <h3 id="examples">Examples</h3>
@@ -402,8 +409,28 @@ An NE <em><b>長谷寺</b> </em> “Hasedera temple”consists of a proper noun
 <p><a id="al-ja-pos/PUNCT" class="al-dest"></a></p>
 <h2><code>PUNCT</code>: punctuation</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>PUNCT</code>.</p>
+<h3 id="definition">Definition</h3>
+
+<p>Punctuation marks are character groups used to delimit linguistic units in printed text.
+These words are tagged with <code>supplementary_symbol</code>/ 補助記号 in UniDic.</p>
+
+<p>Punctuation is not taken to include logograms such as <em>$</em>, <em>%</em>, and
+<em>§</em>, which are instead tagged as <a href="">SYM</a>.</p>
+
+<h3 id="examples">Examples</h3>
+
+<ul>
+  <li>Period: <em><b>。</b></em>, <em><b>.</b></em> <code>supplementary_symbol(period)</code> / 補助記号-句点</li>
+  <li>Comma: <em><b>、</b></em>, <em><b>,</b></em> <code>supplementary_symbol(comma)</code> / 補助記号-読点</li>
+  <li>Parentheses: <em><b>「」</b></em>, <em><b>『』</b></em>, <em><b>()</b></em>　<code>supplementary_symbol(bracketopen)</code> / 補助記号-括弧開, <code>supplementary_symbol(bracketclose)</code> / 補助記号-括弧閉</li>
+  <li>Middle dot: <em><b>・</b></em> <code>supplementary_symbol(general)</code> / 補助記号-一般</li>
+</ul>
+
+<h3 id="references">References</h3>
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Punctuation">Wikipedia</a></li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-pos/PUNCT.md" target="#">edit PUNCT</a></p>
 
