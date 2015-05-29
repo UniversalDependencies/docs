@@ -343,4 +343,5 @@ name and its application for ICD coding. Studies in health technology and inform
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 
 ## Other Annotations
-* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. "A Japanese Particle Corpus Built by Example-Based Annotation." LREC. 2010.
+* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. "[A Japanese Particle Corpus Built by Example-Based Annotation](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html)." LREC. 2010.
+* Suguru Matsuyoshi, Ryo Otsuki, Fumiyo Fukumoto. "[Annotating the Focus of Negation in Japanese Text](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf)" LREC. 2014.
