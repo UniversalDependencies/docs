@@ -8,7 +8,7 @@ In Japanese, case markers are particles attaching to a noun phrase.
 The particles are tagged as "[ADP]()" in UD Japanese.
 Typical case markers:
 
-- が / *ga* for nominal
+- が / *ga* for nominative
 - を / *o* for accusative
 - に / *ni* for dative, locative etc.
 
