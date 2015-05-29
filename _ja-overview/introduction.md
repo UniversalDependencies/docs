@@ -282,20 +282,23 @@ Hanaoka et al. (2010) annotated the functions of Japanese particle(postposition)
 
 ## Phrase Structure Treebank
 
-### EDR Corpus
-
 ### CCG resources derived from multiple dependency corpora (Uematsu 2013)
-Japanese phrase structure resources are limited.  Uematsu (2013) proposes a method to compose CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.
+Japanese phrase structure resources are limited.  Uematsu (2013) composed CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.  They proposed a method to integrate the resources into phrase structure trees with argument relations and convert CCG resources. The CCG theory is based on Bekki (2010).
 
 ### 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013)
 
-Phrase Tags are follows: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT).
-Function Tags for semantic role are follows: -ARG0, -ARG1, -ARG2.
-Function Tags for grammatical role are follows: -SBJ, -OBJ, -OB2.
-Function Tags for arbitary argument are follows: -TMP, -LOC.
-Function Tags for coordinate structure and apposition are follows: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE.
+Tanaka and Nagata (2013) proposed a method to construct a phrase structure by retagging the Uematsu (2013) work.
+They defined the following tags:
+| Phrase Tags | NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT) | 
+| Function Tags for semantic role |-ARG0, -ARG1, -ARG2|
+| Function Tags for grammatical role|  -SBJ, -OBJ, -OB2|
+| Function Tags for arbitary argument| -TMP, -LOC |
+| Function Tags for coordinate structure and apposition | -COORD, -NCOORD, -VCOORD, -APPOS, -QUE|
 
-
+### Other treebank
+* EDR Corpus
+EDR corpus includes Japanese Treebank. It is word-based dependency tree with semantic frames.
+[manual](http://www2.nict.go.jp/out-promotion/techtransfer/EDR/JPN/TG/Doc/EDR_J09a.pdf)
 
 # Contributors
 
