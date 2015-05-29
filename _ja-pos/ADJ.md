@@ -23,10 +23,10 @@ Note that they are tagged [NOUN](), when they are used as nouns
 (e.g. _<b>自由</b>&nbsp;を&nbsp;手に入れる&nbsp;_ “gain freedom”).
 
 Japanese has a small group of adnominal words (`adnominal`) that
-usually precede noun phrases.
+usually precede noun phrases like adjectives, but do not conjugate.
 Although most of them are pronominal adjectives (e.g. _あの&nbsp;_ “that”, _どの&nbsp;_ “which”)
 and classified as determiner [DET](),
-some words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_ “big”).
+the other adnimonal words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp;_ “big”).
 
 ### Examples
 
