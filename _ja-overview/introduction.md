@@ -268,9 +268,25 @@ They also provide the zero pronoun information and correference relations.
 
 [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
 
+## Other annotations (syntax related only)
+* Scope of Negation for BCCWJ:
+Matsuyoshi provides the annotation of scope of negation for BCCWJ.
+[http://cl.cs.yamanashi.ac.jp/nldata/negation/](http://cl.cs.yamanashi.ac.jp/nldata/negation/)
+
+* Passive Auxiliary Verb for BCCWJ:
+NINJAL provides the annotation of passive auxiliary verb for BCCWJ.
+The information will be embedet in BCCWJ-DepPara, soonly.
+
+* Japanese particle corpus:
+Hanaoka et al. (2010) annotated the functions of Japanese particle(postposition) 'と'(to): the complementizer, subordinate conjunction, coordination conjunction, and case marker.
+
 ## Phrase Structure Treebank
 
 ### EDR Corpus
+
+### CCG resources derived from multiple dependency corpora (Uematsu 2013)
+Japanese phrase structure resources are limited.  Uematsu (2013) proposes a method to compose CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.
+
 ### 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013)
 
 Phrase Tags are follows: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT).
@@ -279,14 +295,7 @@ Function Tags for grammatical role are follows: -SBJ, -OBJ, -OB2.
 Function Tags for arbitary argument are follows: -TMP, -LOC.
 Function Tags for coordinate structure and apposition are follows: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE.
 
-## Other annotations (syntax related only)
-* Scope of Negation for BCCWJ.
-Matsuyoshi provides the annotation of scope of negation for BCCWJ.
-[http://cl.cs.yamanashi.ac.jp/nldata/negation/](http://cl.cs.yamanashi.ac.jp/nldata/negation/)
 
-* Passive Auxiliary Verb for BCCWJ
-NINJAL provides the annotation of passive auxiliary verb for BCCWJ.
-The information will be embedet in BCCWJ-DepPara, soonly.
 
 # Contributors
 
