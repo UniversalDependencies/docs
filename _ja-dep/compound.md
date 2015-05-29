@@ -4,7 +4,7 @@ title: 'compound'
 shortdef: 'compound'
 ---
 
-Noun compounds, verb compounds.
+The dependency type `compound` in UD Japanese is used for noun compounds and verb compounds.
 
 ~~~ sdparse
 構文 解析 \n syntax analysis
