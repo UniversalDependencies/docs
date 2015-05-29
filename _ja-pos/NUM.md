@@ -13,7 +13,7 @@ number, such as quantity, sequence, frequency or fraction.
 Cardinal numerals are convered by 'NUM',
 which are tagged with `noun(numeral)` / 名詞-数詞 in BCCWJ,
 including Kanji expressions,
-(e.g. _<b>二十</b>&nbsp;“20”, _<b>六万</b>&nbsp;“60,000”).
+(e.g. _<b>二十</b>_&nbsp;“20”, _<b>六万</b>_&nbsp;“60,000”).
 
 Note that each numeral is split into one or more word units 
 based on the number of units, (e.g. _<b>二千十四</b>&nbsp;“2014”
