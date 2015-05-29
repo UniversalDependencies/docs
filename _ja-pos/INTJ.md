@@ -4,5 +4,29 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+### Definition
+
+An interjection is a word that is used most often as an exclamation or
+part of an exclamation. It typically expresses an emotional reaction,
+is not syntactically related to other accompanying expressions, and
+may include a combination of sounds not otherwise found in the
+language.
+
+In BCCWJ, these words are tagged with `interjection` / 感動詞,
+which include _<b>ああ</b>_&nbsp;“Oh”, _<b>えっと</b>_&nbsp;“well”(filler),
+<b>はい</b>_&nbsp;/ <b>いいえ</b>_&nbsp; "yes / no",
+and <b>こんにちは</b>_&nbsp; "hello".
+
+
+### Examples
+
+- _ああ&nbsp;_ “oh”
+- _えっと&nbsp;_ “well”
+- _はい / いいえ&nbsp;_ “yes / no”
+- _こんにちは&nbsp;_ “hello”
+
+
+### References
+
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
+- [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
