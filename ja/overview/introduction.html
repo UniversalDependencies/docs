@@ -42,12 +42,14 @@
 
 <h1 id="basic-policy">Basic Policy</h1>
 
+<p>Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction (Yamada et al. 2010) which is defined in the morphology layer of Japanese linguistics.</p>
+
 <p>Universal Dependency scheme does not suit for Japanese dependency annotation.
-Their dependency annotation label set includes several different layers such as morphology, syntax dependency and semantic dependency.</p>
+Their dependency annotation label set includes several different layers such as morphology, syntax dependency and semantic dependency.
+To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit — Bunsetsu (文節) — for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  </p>
 
-<p>Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction which is defined in the morphology layer of Japanese linguistics.</p>
-
-<p>To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit — Bunsetsu (文節) — for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  </p>
+<p>The discrepancy between the syntactic phrases and phonetic (accent) phrases is another issues on the word-based dependency annotation.
+We focus not on speech corpora but on written corpora.  We leave this issue from Universal Dependency annotation schema.</p>
 
 <p>The Part-of-speech in Japanese corpora can be split two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
 Lexicon-based is to extract all possible categories for one word as a label.  For example, the label “名詞-普通名詞-サ変形状詞可能” means that the word can be Noun or Verbal Noun or Adjective. The label for the word is maintained in a large-scale PoS tagged lexicon and used in semi-markov model based morphological analyzers.
@@ -61,15 +63,17 @@ We lose some information related to nested coordination, non-constituent conjunc
 Therefore, we keep the coordinate structure information in the different layer annotation from the Bunsetsu based dependency annotation.
 We also keep the surface case frame structures and the scope of negation in the different layer annotation.</p>
 
+<p>The Universal Dependency label set includes syntactic roles such as ‘nsubj’, ‘dobj’, ‘iobj’.
+These annotations are not provide by Japanese Bunsetsu dependency annotation.
+We </p>
+
 <p>The labels related to “PASSIVE” are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru/Rareru.</p>
 
 <p>The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of the clause is vague.
 We defined some heuristic rules to define the clause.
-For example, the difference between acl (adjectival clause) and amod (adjectival modifier) is defined by whether the adjective has any overt case or not.</p>
-
-<p>The discrepancy between the syntactic phrases and phonetic (accent) phrases is another issues on the word-based dependency annotation.
-We focus not on speech corpora but on written corpora.  We leave this issue from Universal Dependency annotation schema.</p>
+For example, the difference between acl (adjectival clause) and amod (adjectival modifier) is defined by whether the adjective has any overt case or not.
+Aside from these syntactic dependency annotations,</p>
 
 <h1 id="background">Background</h1>
 
@@ -379,31 +383,37 @@ The information will be embedet in BCCWJ-DepPara, soonly.</p>
 
 <h2 id="lexicon-and-pos-tagset">Lexicon and POS Tagset</h2>
 <ul>
+  <li>Takashi Masuoka and Yukinori Takubo. 1992. ‘<a href="http://www.amazon.co.jp/dp/4874240666">基礎日本語文法・改訂版</a></li>
   <li>Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. ‘<a href="http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf">A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.</a>’. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).</li>
   <li>Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 ‘<a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf">UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese</a>’. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).</li>
-  <li>Takashi Masuoka and Yukinori Takubo. 1992. ‘<a href="http://www.amazon.co.jp/dp/4874240666">基礎日本語文法・改訂版</a></li>
-</ul>
-
-<h2 id="internal-structure-annotation-for-compound-words">Internal Structure Annotation for Compound Words</h2>
-<ul>
-  <li>Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. Internal structure of a disease
-name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.</li>
 </ul>
 
 <h2 id="dependency-annotation-schema">Dependency Annotation Schema</h2>
 <ul>
+  <li>Kawahara, Daisuke, Sadao Kurohashi, and Kôiti Hasida. “<a href="http://www.lrec-conf.org/proceedings/lrec2002/pdf/302.pdf">Construction of a Japanese Relevance-tagged Corpus</a>.” LREC. 2002.</li>
   <li>Sadao Kurohashi and Makoto Nagao. 2003. Building a Japanese parsed corpus — while improving the parsing system. In Abeille (ed.) Treebanks: Building and using parsed corpora, Chap. 14, pp. 249-260. Kluwer Academic Publisher.</li>
-  <li>K. Uchimoto, and Y. Den, “<a href="http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html">Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application</a>”, In Proc. of LREC 2008, (2008).</li>
   <li>Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. Annotating a Japanese text
 corpus with predicate-argument and coreference relations. In Proceedings of Linguistic Annotation
 Workshop, pages 132–139.</li>
+  <li>K. Uchimoto, and Y. Den, “<a href="http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html">Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application</a>”, In Proc. of LREC 2008, (2008).</li>
+  <li>Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. Internal structure of a disease
+name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.</li>
 </ul>
 
 <h2 id="treebanking">Treebanking</h2>
 <ul>
+  <li>Takao Gunji. 1987. ‘<a href="http://www.amazon.co.jp/dp/1556080204/">Japanese Phrase Structure Grammar: A Unification-based Approach</a>.’ D. Reidel.</li>
+  <li>Noro, Tomoya, et al. “<a href="http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf">Building a large-scale Japanese syntactically annotated corpus for deriving a CFG</a>.” Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005). 2005.</li>
+  <li>Bond, Francis, Sanae Fujita, and Takaaki Tanaka. “<a href="http://link.springer.com/article/10.1007/s10579-008-9062-z">The Hinoki syntactic and semantic treebank of Japanese</a>.” Language Resources and Evaluation 42.2 (2008): 243-251.</li>
+  <li>Daisuke Bekki. 2010. ‘<a href="http://www.amazon.co.jp/dp/4874244688/">Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)</a>. Kuroshio Shuppan. (In Japanese)</li>
+  <li>Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. ‘<a href="http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf">Keyaki Treebank: phrase structure with functional information for Japanese</a> In Proceedings of Text Annotation Workshop.</li>
   <li>Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. ‘<a href="http://www.aclweb.org/anthology/P13-1103">Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources</a> In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.</li>
   <li>Takaaki Tanaka and Masaaki Nagata. 2013. ‘<a href="http://www.aclweb.org/anthology/W13-4913">Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels</a>’ In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages</li>
-  <li>Daisuke Bekki. 2010. ‘<a href="http://www.amazon.co.jp/dp/4874244688/">Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)</a>. Kuroshio Shuppan. (In Japanese)</li>
+</ul>
+
+<h2 id="other-annotations">Other Annotations</h2>
+<ul>
+  <li>Hanaoka, Hiroki, Hideki Mima, and Jun’ichi Tsujii. “A Japanese Particle Corpus Built by Example-Based Annotation.” LREC. 2010.</li>
 </ul>
 
 
