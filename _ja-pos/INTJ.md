@@ -20,10 +20,16 @@ and <b>こんにちは</b>_&nbsp; "hello".
 
 ### Examples
 
-- _ああ&nbsp;_ “oh”
-- _えっと&nbsp;_ “well”
-- _はい / いいえ&nbsp;_ “yes / no”
-- _こんにちは&nbsp;_ “hello”
+- _<b>ああ</b>&nbsp;_ “oh”
+- _<b>えっと</b>&nbsp;_ “well”
+- _<b>はい</b> / <b>いいえ</b>&nbsp;_ “yes / no”
+- _<b>こんにちは</b>&nbsp;_ “hello”
+
+
+### References
+
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
+- [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
 
 
 ### References
