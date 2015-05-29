@@ -64,7 +64,7 @@ The corpus includes human-maintained Japanese word segmentation, morphological i
 The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
 'NAIST Text Corpus' is a case frame and coreference annotations on the Kyoto Text Corpus.
 
-Kyoto Text Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
+** Kyoto Text Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
 
 NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
 
@@ -320,6 +320,7 @@ manual for the Penn Historical Corpora and PCEEC.
 * Masayuki Asahara
 
 # References
+
 ## Corpora
 * Kikuo Maekawa, Hideaki Kikuchi and Wataru Tsukahara. "Corpus of Spontaneous Japanese: Design, Annotation and XML Representation", Proceedings of the International Symposium on Large-scale Knowledge Resources (LKR2004), Tokyo: Tokyo Institute of Technology, pp.19-24, 2004:3.
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
