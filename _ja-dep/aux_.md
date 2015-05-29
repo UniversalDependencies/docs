@@ -7,8 +7,8 @@ shortdef: 'auxiliary'
 redirect_from: "ja/dep/aux.html"
 ---
 
-The dependency type `aux` is used for [auxiliary verbs](/docs/ja/pos/AUX_.html) and
-[particles](/docs/ja/pos/PART.html) that attach to predicates.
+The dependency type `aux` is used for [auxiliary verbs](AUX) and
+[particles](PART) that attach to predicates.
 
 ~~~ sdparse
 ご飯 を 食べ た 。 \n rice ACC eat PAST .
