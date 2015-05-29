@@ -413,7 +413,7 @@ compound(着く, 泳ぎ)
 <h2><code>conj</code>: conjunct</h2>
 
 <p>The dependency type <code>conj</code> represents coordination.
-Following <a href="">the definition of UD</a>, the head of the dependency is the first conjunct.</p>
+Following the definition of UD, the head of the dependency is the first conjunct.</p>
 
 <pre><code class="language-sdparse">太郎 と 次郎 \n Taro and Jiro
 cc(太郎, と)
@@ -425,7 +425,12 @@ conj(太郎, 次郎)
 <p><a id="al-ja-dep/cop" class="al-dest"></a></p>
 <h2><code>cop</code>: copula</h2>
 
-<p>Copular auxiliary だ / da.</p>
+<p>The dependency type <code>cop</code> is reserved for a copular auxiliary だ / <em>da</em>.
+The auxiliary typically follows a noun phrase to form a copular clause.
+A postpositional phrase with a nominative case is commonly needed to complete sentence.</p>
+
+<p>For example, 
+dependencies for 太郎 は 学生 だ 。/ <em>Taro ha gakusei da</em> “Taro is a student.” are as follows.</p>
 
 <pre><code class="language-sdparse">太郎 は 学生 だ 。 \n Taro TOPIC student COPULA .
 nsubj(学生, 太郎)
@@ -434,12 +439,24 @@ cop(学生, だ)
 punct(学生, 。)
 </code></pre>
 
+<p>Note that we treat the auxiliary だ / <em>da</em> after adjectives as <a href="">aux</a>.
+Therefore dependencies for さくら が きれい だ 。 / <em>sakura ga kirei da</em> “The cherry blossoms are beautiful.” do not include the `cop’ relation.</p>
+
+<pre><code class="language-sdparse">さくら が きれい だ 。 \n cherry_blossoms NOM beautiful AUX .
+nsubj(きれい, さくら)
+case(さくら, が)
+aux(きれい, だ)
+punct(きれい, 。)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ja-dep/cop.md" target="#">edit cop</a></p>
 
 <p><a id="al-ja-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>Clausal subjects introduced by a nominal marker の / no.</p>
+<p>A clausal subject (<code>csubj</code>) is commonly introduced by a pair of particles,
+a nominal marker の / <em>no</em> and a nominative case marker が / <em>ga</em>.
+When the phrase is topicalized, the nominative が / <em>ga</em> is replaced by は / <em>wa</em>.</p>
 
 <pre><code class="language-sdparse">太郎 が 怒ら れる の は いや だ 。 \n Taro NOM punish PASSIVE that TOPIC dislike AUX .
 csubj(いや, 怒ら)
@@ -457,7 +474,7 @@ punct(いや, 。)
 <p><a id="al-ja-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>Clausal subjects in passive forms.</p>
+<p>The dependency type <code>csubjpass</code> is used for clausal subjects of passive verbs.</p>
 
 <pre><code class="language-sdparse">言っ た の が 悔やま れる 。 \n say PAST that NOM regret PASSIVE .
 csubjpass(悔やま, 言っ)

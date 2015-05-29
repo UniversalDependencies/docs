@@ -34,7 +34,12 @@
 
           <h2><code>cop</code>: copula</h2>
 
-<p>Copular auxiliary だ / da.</p>
+<p>The dependency type <code>cop</code> is reserved for a copular auxiliary だ / <em>da</em>.
+The auxiliary typically follows a noun phrase to form a copular clause.
+A postpositional phrase with a nominative case is commonly needed to complete sentence.</p>
+
+<p>For example, 
+dependencies for 太郎 は 学生 だ 。/ <em>Taro ha gakusei da</em> “Taro is a student.” are as follows.</p>
 
 <pre><code class="language-sdparse">太郎 は 学生 だ 。 \n Taro TOPIC student COPULA .
 nsubj(学生, 太郎)
@@ -42,6 +47,17 @@ case(太郎, は)
 cop(学生, だ)
 punct(学生, 。)
 </code></pre>
+
+<p>Note that we treat the auxiliary だ / <em>da</em> after adjectives as <a href="">aux</a>.
+Therefore dependencies for さくら が きれい だ 。 / <em>sakura ga kirei da</em> “The cherry blossoms are beautiful.” do not include the `cop’ relation.</p>
+
+<pre><code class="language-sdparse">さくら が きれい だ 。 \n cherry_blossoms NOM beautiful AUX .
+nsubj(きれい, さくら)
+case(さくら, が)
+aux(きれい, だ)
+punct(きれい, 。)
+</code></pre>
+
 
 
 <!-- "in other languages" links -->
