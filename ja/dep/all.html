@@ -222,13 +222,19 @@ in two places.</p>
 <p><a id="al-ja-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p>Relative clause, clausal complement of nouns.</p>
+<p>The dependency type ‘acl’ is used for relative clauses and clausal complements of nouns.
+For a relative clause, the head of the dependency is the noun modified by the clause,
+and the dependant is the main predicate of the clause.</p>
 
 <pre><code class="language-sdparse">太郎 が 食べ た リンゴ \n Taro NOM eat PAST apple
 acl(リンゴ, 食べ)
 case(太郎, が)
 aux(食べ, た)
 </code></pre>
+
+<p>Formal noun こと / koto / fact can have a clausal complement and forms a noun phrase
+denoting the action expressed by the clause.
+For a example, 走る / hashiru /run  こと means running (or a fact that someone runs).</p>
 
 <pre><code class="language-sdparse">ほめ られ た こと \n praise PASSIVE PAST fact
 acl(こと, ほめ)
@@ -241,7 +247,11 @@ aux(ほめ, た)
 <p><a id="al-ja-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
 
-<p>Subordinate clause.</p>
+<p>The dependency type ‘advcl’ is reserved for subordinate clauses.
+The head of the dependency is the main predicate of the main clause,
+and the dependant is the main predicate of the subordinate clause.
+A subordinate clauses consists of a clause and a word of SCONJ,
+and is typically followed by the main clause.</p>
 
 <pre><code class="language-sdparse">食べ た なら 行く 。 \n eat PAST if go .
 advcl(行く, 食べ)
@@ -255,7 +265,7 @@ punct(行く, 。)
 <p><a id="al-ja-dep/advmod" class="al-dest"></a></p>
 <h2><code>advmod</code>: adverbial modifier</h2>
 
-<p>Adverbial modifiers.</p>
+<p>The dependency type ‘advmod’ is used for adverbial modifiers of verbs, nominal verbs, adjectives and nominal adjectives.</p>
 
 <pre><code class="language-sdparse">ゆっくり 走る 。 \n slowly run .
 advmod(走る, ゆっくり)
