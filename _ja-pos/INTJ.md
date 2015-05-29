@@ -12,7 +12,7 @@ is not syntactically related to other accompanying expressions, and
 may include a combination of sounds not otherwise found in the
 language.
 
-In BCCWJ, these words are tagged with `interjection` / 感動詞,
+In UniDic, these words are tagged with `interjection` / 感動詞,
 which include _<b>ああ</b>_&nbsp;“Oh”, _<b>えっと</b>_&nbsp;“well”(filler),
 <b>はい</b>_&nbsp;/ <b>いいえ</b>_&nbsp; "yes / no",
 and <b>こんにちは</b>_&nbsp; "hello".
@@ -24,6 +24,12 @@ and <b>こんにちは</b>_&nbsp; "hello".
 - _<b>えっと</b>&nbsp;_ “well”
 - _<b>はい</b> / <b>いいえ</b>&nbsp;_ “yes / no”
 - _<b>こんにちは</b>&nbsp;_ “hello”
+
+
+### References
+
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
+- [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
 
 
 ### References
