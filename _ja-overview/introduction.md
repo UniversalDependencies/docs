@@ -39,13 +39,16 @@ The Universal Dependency label set includes syntactic roles such as '[nsubj](htt
 These annotations are not provide by Japanese Bunsetsu dependency annotation.
 We 
 
-The labels related to "PASSIVE" are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru/Rareru.
+The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
+
+Whereas the Universal Depeldency label set handles "PASSIVE", it does not handle "CAUSATIVE".
 
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of the clause is vague.
 We defined some heuristic rules to define the clause.
 For example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
 Aside from these syntactic dependency annotations,
+
 
 # Background
 
