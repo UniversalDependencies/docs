@@ -45,7 +45,9 @@ Whereas the Universal Depeldency label set handles "PASSIVE", it does not handle
 Japanese language has two morpheme Seru(せる) and Saseru(させる).
 ~~~ sdparse
 政府_が 大使_を 交渉_に 参加_させ_た \n govement_NOM ambassador_ACC negotiation_DAT participation_do_cause_PAST
-causer(参加_させ_た, 政府_が)
+nsubj(参加_させ_た, 政府_が)
+dobj(参加_させ_た, 大使_を)
+iobj(参加_させ_た, 交渉_に)
 ~~~ 
 
 
