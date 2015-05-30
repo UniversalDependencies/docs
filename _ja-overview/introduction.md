@@ -6,7 +6,7 @@ permalink: ja/overview/introduction.html
 
 # Introduction
 
-The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.
+The Japanese corpora annotated according to the Universal Dependency annotation scheme will be obtained by conversion from multiple linguistic resources.
 
 As a first step, we construct conversion rules on 'NTT Japanese phrase structure treebank' [(Tanaka and Nagata 2013)](http://www.aclweb.org/anthology/W13-4913) on Mainichi Newspaper.
 
@@ -35,7 +35,7 @@ We lose some information related to nested coordination, non-constituent conjunc
 Therefore, we keep the coordinate structure information in the different layer annotation from the Bunsetsu based dependency annotation.
 We also keep the surface case frame structures and the scope of negation in the different layer annotation.
 
-The Universal Dependency label set includes syntactic roles such as 'nsubj', 'dobj', 'iobj'.
+The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.github.io/docs/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.github.io/docs/ja/dep/dobj.html)', '[iobj](http://universaldependencies.github.io/docs/ja/dep/iobj.html)'.
 These annotations are not provide by Japanese Bunsetsu dependency annotation.
 We 
 
