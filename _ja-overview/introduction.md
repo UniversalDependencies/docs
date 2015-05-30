@@ -8,13 +8,13 @@ permalink: ja/overview/introduction.html
 
 The Japanese corpora annotated according to the UD annotation scheme will be obtained by conversion from several resources.
 
-As a first step, we construct conversion rules on 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013) on Mainichi Newspaper.
+As a first step, we construct conversion rules on 'NTT Japanese phrase structure treebank' [(Tanaka and Nagata 2013)](http://www.aclweb.org/anthology/W13-4913) on Mainichi Newspaper.
 
-We also try to construct conversion rules on 'Balanced Corpus of Contemporary Written Japanese'(BCCWJ) (Maekawa et al. 2014) with third party annotations.
+We also try to construct conversion rules on 'Balanced Corpus of Contemporary Written Japanese'(BCCWJ) [(Maekawa et al. 2014)](http://link.springer.com/article/10.1007/s10579-013-9261-0) with third party annotations.
 
 # Basic Policy
 
-Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction (Yamada et al. 2010) which is defined in the morphology layer of Japanese linguistics.
+Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction which is defined in the morphological layer of Japanese linguistics.
 
 Universal Dependency scheme does not suit for Japanese dependency annotation.
 Their dependency annotation label set includes several different layers such as morphology, syntax dependency and semantic dependency.
@@ -44,7 +44,7 @@ The labels related to "PASSIVE" are defined in the Universal Dependency label se
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of the clause is vague.
 We defined some heuristic rules to define the clause.
-For example, the difference between acl (adjectival clause) and amod (adjectival modifier) is defined by whether the adjective has any overt case or not.
+For example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
 Aside from these syntactic dependency annotations,
 
 # Background
@@ -58,15 +58,11 @@ Here, we describe Japanese language resources such as basic language resources, 
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'IPADIC POS Tagset'.
 The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.
  
-* Kyoto Text Corpus
+* [Kyoto Text Corpus](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
 'Kyoto Text Corpus' is a Newspaper corpus from Mainichi Shinbun in 1995.
 The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
 The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
-'NAIST Text Corpus' is a case frame and coreference annotations on the Kyoto Text Corpus.
-
-** Kyoto Text Corpus: [page](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
-
-NAIST Text Corpus: [https://sites.google.com/site/naisttextcorpus/](https://sites.google.com/site/naisttextcorpus/)
+'[NAIST Text Corpus](https://sites.google.com/site/naisttextcorpus/)' is a case frame and coreference annotations on the Kyoto Text Corpus.
 
 * EDR Corpus
 'EDR Corpus' includes Japanese and English corpora.
