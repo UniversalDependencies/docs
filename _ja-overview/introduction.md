@@ -68,22 +68,18 @@ The corpus also includes human-maintained syntactic dependency annotation ('Kyot
 'EDR Corpus' includes Japanese and English corpora.
 The Japanese part of the corpora includes human-maintained  morphological information, Part of Speech based on 'EDR POS Tagset', syntactic phrase structure, and semantic frame information.
 
-* CSJ
+* [Corpus of Spontaneous Japanese](http://pj.ninjal.ac.jp/corpus_center/csj/)
 'Corpus of Spontaneous Japanese' (CSJ) is a monologue speech corpus.
 The corpus includes the original speech sound files, transcripted text, clause boundaries, morphological information, and Part of Speech based on 'UniDic POS Tagset'.
 CSJ defines several layers of word segmentation such as 'Short Unit Word' which is the morphological unit for uniformity, 'Middle Unit Word' which is compound word left branching tree to form an accent phrase, and 'Long Unit Word' which composes a maximal content word and some functional words with in a syntactic base phrase --- Bunsetsu.
 The corpus also includes Bunsetsu-based dependency ('CSJ standard').
 
-Corpus of Spontaneous Japanese: [http://pj.ninjal.ac.jp/corpus_center/csj/](http://pj.ninjal.ac.jp/corpus_center/csj/)
-
-* BCCWJ
+* [Balanced Corpus of Contemporary Written Japanese](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
 'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
 The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
 The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
 A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
 The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
-
-Balanced Corpus of Contemporary Written Japanese: [http://pj.ninjal.ac.jp/corpus_center/bccwj/](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
 
 * KNBC Corpus (free)
 'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
@@ -96,14 +92,10 @@ We have several word unit standards by corpus annotation schema or morphological
 The representative word unit standards are the following subsubsections.
 
 ### IPADIC word unit: 
-This word unit standard was derived by the morphological analyzer ChaSen. IPADIC is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer MeCab is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. NAIST-jdic is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
-
-IPADIC legacy: [http://sourceforge.jp/projects/ipadic/](http://sourceforge.jp/projects/ipadic/)
-
-NAIST-jdic: [http://sourceforge.jp/projects/naist-jdic/](http://sourceforge.jp/projects/naist-jdic/)
+This word unit standard was derived by the morphological analyzer ChaSen. [IPADIC](http://sourceforge.jp/projects/ipadic/) is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer [MeCab](http://taku910.github.io/mecab/) is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. [NAIST-jdic](http://sourceforge.jp/projects/naist-jdic/) is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
 
 ### NINJAL UniDic word units: 
-NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on.  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
+NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf).  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
 * Short Unit Word (SUW): 
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
 * Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
@@ -324,6 +316,10 @@ manual for the Penn Historical Corpora and PCEEC.
 ## Lexicon and POS Tagset
 * Takashi Masuoka and Yukinori Takubo. 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
 * Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
+* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. (2010)
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」
+* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. (2010)
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
 
 ## Dependency Annotation Schema
