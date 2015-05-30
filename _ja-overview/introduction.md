@@ -39,24 +39,17 @@ The Universal Dependency label set includes syntactic roles such as '[nsubj](htt
 These annotations are not provide by Japanese Bunsetsu dependency annotation.
 We 
 
-The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
+The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two passive auxiliary verbs Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
 
 Whereas the Universal Depeldency label set handles "PASSIVE", it does not handle "CAUSATIVE".
-Japanese language has two morpheme Seru(せる) and Saseru(させる).
-~~~ sdparse
-政府_が 大使_を 交渉_に 参加_させ_た \n govement_NOM ambassador_ACC negotiation_DAT participation_do_cause_PAST
-nsubj(参加_させ_た, 政府_が)
-dobj(参加_させ_た, 大使_を)
-iobj(参加_させ_た, 交渉_に)
-~~~ 
-
+Japanese language has two causative auxiliary verbs Seru(せる) and Saseru(させる) which raise case alternation. 
+The case alternation in causative should be handled in Universal Dependency label set.
 
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of the clause is vague.
 We defined some heuristic rules to define the clause.
 For example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
 Aside from these syntactic dependency annotations,
-
 
 # Background
 
@@ -92,7 +85,7 @@ The third one is called the Special-purpose Subcorpus. This corpus contains a se
 A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
 The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
 
-* KNBC Corpus (free)
+* [KNBC Corpus](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/#ga739fe2)
 'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
 
 ## Word Unit
@@ -115,15 +108,15 @@ The standard is used as the most fine grained morpheme for the corpus statistics
 The UniDic are maintained diachronically. NINJAL published versions of UniDic in several eras.
 
 * UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
-* UniDic (modern): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
-* UniDic (early middle): [http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
+* [UniDic (modern)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
+* [UniDic (early middle)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
 ### JUMANdic word unit: 
 This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
 See also 'Morphological Analyser, JUMAN'.
-The unit includes several compound words as one word unit.
+The unit includes several compound words as one word unit. [Manual](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
 
-[http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+
 
 
 ### Morphological Analysers
@@ -326,7 +319,8 @@ manual for the Penn Historical Corpora and PCEEC.
 * Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
 
 ## Lexicon and POS Tagset
-* Takashi Masuoka and Yukinori Takubo. 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
+* Takashi Masuoka and Yukinori Takubo.(益岡 隆志, 田窪 行則) 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
+* 黒橋 禎夫, 居蔵 由衣子, 坂口 昌子. 2000. '[形態素・構文タグ付きコーパス作成の作業基準 version 1.8](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)'
 * Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
 * 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. (2010)
 「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」
@@ -348,7 +342,7 @@ name and its application for ICD coding. Studies in health technology and inform
 * Takao Gunji. 1987. '[Japanese Phrase Structure Grammar: A Unification-based Approach](http://www.amazon.co.jp/dp/1556080204/).' D. Reidel.
 * Noro, Tomoya, et al. "[Building a large-scale Japanese syntactically annotated corpus for deriving a CFG](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf)." Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005). 2005.
 * Francis Bond, Sanae Fujita, and Takaaki Tanaka. "[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)." Language Resources and Evaluation 42.2 (2008): 243-251.
-* Daisuke Bekki. 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
+* Daisuke Bekki.(戸次 大介). 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
 * Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: phrase structure with functional information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) In Proceedings of Text Annotation Workshop.
 * Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
