@@ -37,7 +37,7 @@ We also keep the surface case frame structures and the scope of negation in the 
 
 The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.github.io/docs/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.github.io/docs/ja/dep/dobj.html)', '[iobj](http://universaldependencies.github.io/docs/ja/dep/iobj.html)'.
 These annotations are not provide by Japanese Bunsetsu dependency annotation.
-We 
+These information are served from predicate argument relation annotations.
 
 The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two passive auxiliary verbs Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
 
@@ -116,31 +116,19 @@ This word unit standard was derived by the morphological analyzer JUMAN. The uni
 See also 'Morphological Analyser, JUMAN'.
 The unit includes several compound words as one word unit. [Manual](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
 
-
-
-
 ### Morphological Analysers
 
-* MeCab: lexicon-based morphological analyzer by CRFs.
+* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html): lexicon-based morphological analyzer by CRFs.
 
-MeCab: [http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
+* [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN): lexicon-based morphological analyzer by hand maintained cost table.
 
-* JUMAN: lexicon-based morphological analyzer by hand maintained cost table.
+* [Comainu](http://comainu.org/): compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
 
-JUMAN: [http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
+* CRF chunker (used in Comainu): [CRF++](http://taku910.github.io/crfpp/)
 
-* Comainu: compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
+* History based SVM chunker (used in Comainu): [YamCha](http://chasen.org/~taku/software/yamcha/)
 
-Comainu: [http://comainu.org/](http://comainu.org/)
-
-* CRF chunker (used in Comainu)
-CRF++: [http://taku910.github.io/crfpp/](http://taku910.github.io/crfpp/)
-
-* History based chunker (used in Comainu)
-YamCha: [http://chasen.org/~taku/software/yamcha/](http://chasen.org/~taku/software/yamcha/)
-
-* MSTParser (used in Comainu)
-MSTParser: [http://sourceforge.net/projects/mstparser/](http://sourceforge.net/projects/mstparser/)
+* [MSTParser](http://sourceforge.net/projects/mstparser/) (used in Comainu)
 
 ## Bunsetsu Unit (Base phrase)
 
