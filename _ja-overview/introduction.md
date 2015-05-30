@@ -42,6 +42,12 @@ We
 The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two morphemes Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
 
 Whereas the Universal Depeldency label set handles "PASSIVE", it does not handle "CAUSATIVE".
+Japanese language has two morpheme Seru(せる) and Saseru(させる).
+~~~ sdparse
+政府_が 大使_を 交渉_に 参加_させ_た \n govement_NOM ambassador_ACC negotiation_DAT participation_do_cause_PAST
+causer(参加_させ_た, 政府_が)
+~~~ 
+
 
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of the clause is vague.
