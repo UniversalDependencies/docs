@@ -100,6 +100,7 @@ NINJAL (National Institute for Japanese Language and Linguistics, Japan) propose
 The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
 * Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
 * Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+
 The UniDic are maintained diachronically. NINJAL published versions of UniDic in several eras.
 
 * UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
