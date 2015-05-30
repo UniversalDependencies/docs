@@ -141,15 +141,15 @@ We have two Bunsetsu unit standards: Kyoto Corpus Standard and NINJAL Standard.
 
 ### Kyoto Corpus Standard
 
-The Kyoto Corpus Standard is based on 'Prefix + Content Word + Suffix or Function word' as a Bunsetsu based on JUMAN word units. Some functional multi-word expressions are treated as one Bunsetsu such as 'しようとする', 'Vざるをえない', 'Vつつある' and so on.
-
-[http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+The Kyoto Corpus Standard is based on 'Prefix + Content Word + Suffix or Function word' as a Bunsetsu based on JUMAN word units. Some functional multi-word expressions are treated as one Bunsetsu such as 'しようとする', 'Vざるをえない', 'Vつつある' and so on. 
+[(manual)](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
 
 ### NINJAL Standard
 
 NINJAL standard is based on UniDic Long Unit Words definition.
 The main rule is 'Content word + Functional Word' in UniDic LUW.
 They also define several functional multi-word expressions as one Bunsetsu such as 'という', 'といった', 'かもしれない', 'ことができる'.
+[(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
 
 ## PoS Tag
 
@@ -159,7 +159,7 @@ IPADIC and NAIST-jdic are shared the same POS tagset. Currently, the lexicon bas
 - English Manual: [link](http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/)
 
 ### Juman POS Tagset
-JUMAN POS Tagset is based on Masuoka-Takubo POS tagset (Masuoka and Takubo 1992).
+JUMAN POS Tagset is based on Masuoka-Takubo POS tagset [(Masuoka and Takubo 1992)](http://www.amazon.co.jp/dp/4874240666/).
 
 ### UniDic POS Tagset
 
@@ -167,7 +167,7 @@ The UniDic defined two layered POS tagset. One is for Short Unit Word. The other
 POS tagset for Short Unit Word is 'lexicon-based label'(語彙主義) in which POS label imply all possible usage in the context.
 However, BCCWJ is annotated the 'usage' of POS as the other POS information.
 POS tagset for Long Unit Word is 'usage-based label'(用法主義) in which POS label is disambiguated the usage by the contextual information. 
-Note, the term 'usage-based' is not same as Langacker's Usage-based model.
+Note, the term 'usage-based' is not same as Langacker's Usage-based model.[(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
 
 - The English Translation of POS Tagset by Dr. Irena Srdanovic
 [https://gist.github.com/masayu-a/e3eee0637c07d4019ec9](https://gist.github.com/masayu-a/e3eee0637c07d4019ec9)
