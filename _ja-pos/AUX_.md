@@ -7,12 +7,15 @@ shortdef: 'auxiliary verb'
 redirect_from: "ja/pos/AUX.html"
 ---
 
-The definition of Japanese `AUX` is different from that in European language focused on modal verbs.  THe `AUX` tag is used for words tagged by 助動詞 (auxiriary verb) in UniDic and functional verbs/adjectives.  Here are examples:
 
-<ul>
-<li>食べ<b>た</b> ('eat' + PAST) : `AUX` for past tense marker which follows a `VERB' "食べ"</li>
-<li>勉強<b>する</b> ('study') : verbify a functional noun</li>
-<li>食べて<b>いる</b> : a functional verb for progressive aspect
-<li>食べ</b>ない</b> : a functional adjective for negation 
-</ul>
+### Definition
 
+The definition of Japanese `AUX` is different from that in European language focused on modal verbs.  
+The `AUX` tag is used for words tagged by `auxiliary_verb` / 助動詞 in UniDic and functional verbs / adjectives.
+
+### Examples
+
+- _食べ<b>た</b>&nbsp;_ “eat”+PAST (`auxiliary_verb` / 助動詞) : `AUX` for past tense marker which follows a `VERB' "食べ"
+- _勉強<b>する</b>&nbsp;_ “study” (`verb (bound)` / 動詞-非自立可能) : verbify a functional noun
+- _食べて<b>いる</b>&nbsp;_ “be studying”(progressive) (`verb (bound)` / 動詞-非自立可能) : a functional verb for progressive aspect
+- _食べ<b>ない</b>&nbsp;_ “not study”(negation) (`adjective\_i (bound)` / 形容詞-非自立可能) :  a functional adjective for negation
