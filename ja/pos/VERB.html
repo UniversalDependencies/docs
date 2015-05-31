@@ -34,25 +34,34 @@
 
           <h2><code>VERB</code>: verb</h2>
 
-<p><code>VERB</code> tag is used for words with one of Japanese verb inflection types.  Basically it corresponds to PoS tag “動詞 (verb)” in UniDic SUW (Short Unit Word).
+<h3 id="definition">Definition</h3>
+
+<p><code>VERB</code> tag is used for words with one of Japanese verb inflection types.<br />
+Basically it corresponds to PoS tag <code>verb</code> / 動詞 in UniDic.
 A <code>VERB</code> consists of the stem and inflection parts as below:</p>
 
-<ul>
-<li><b>遊ぶ</b> ('play') </li>
-<li><b>遊ん</b>だ ('play' + PAST)   : "だ" is another word tagged as `AUX`</li>
-<li><b>遊ば</b>ない ('play' + NEG)  : "ない" is another word tagged as `AUX`</li>
-<li><b>見</b>ている ('see' + PROGRESSIVE) : "て" `CONJ', "いる" `AUX`</li>
-<li><b>来る</b> ('come')</li>
-<li><b>勉強</b>する ('study') : "する" is another word tagged as `AUX`</li>
-<li><i>etc.</i></li>
-</ul>
-
-<p>The differences between <code>VERB</code> tag and UniDic’s “動詞 (verb)” are as follows:</p>
+<h3 id="examples">Examples</h3>
 
 <ul>
-  <li>The stem of nominal verbs (so-called <i>suru</i>-verbs or サ変動詞) is also tagged as <code>VERB</code>, while in UniDic it is tagged as “名詞 (noun) - 普通名詞 (common noun) - サ変動詞可能 (possibly nominal verb)”.  Note that such a nominal verb is tagged as <code>VERB</code> when it behaves as a verb (typically followed by “する” or “できる”), otherwise is tagged as <code>NOUN</code> (e.g. <b>勉強</b>が好きだ (‘like studying’) )</li>
-  <li><code>VERB</code> is NOT used for non-content (functional) verbs, while they are taged as “動詞 (verb) - 非自立可能 (possibly non-content verbs)” <i>e.g.</i> 食べて<b>いる</b> (‘eat’ + PROGRESSIVE): <code>AUX</code> tag is used for them.</li>
+  <li><em><b>遊ぶ</b> </em> “play” (<code>verb (general)</code> / 動詞-一般)</li>
+  <li><em><b>遊ん</b> だ </em> “play”+PAST : <em>だ</em> is an auxiliary verb <a href="">AUX</a>, representing past tense.</li>
+  <li><em><b>遊ば</b> ない </em> “play”+NEG : <em>ない</em> is an auxiliary verb <a href="">AUX</a>, representing negation.</li>
+  <li><em><b>見</b> て いる </em> “see”+PROGRESSIVE : a combination of <em>て</em>  <a href="">CONJ</a> and <em>いる</em> <a href="">AUX</a> functions 
+as adding progrsssive aspect.</li>
+  <li><em><b>来る</b> </em> “come” </li>
+  <li><em><b>勉強</b>する </em> “study”: <em>する</em> is an auxiliary verb <a href="">AUX</a>, forming a verb noun into a verb. </li>
 </ul>
+
+<p>The differences between <code>VERB</code> tag and UniDic’s <code>verb</code> / 動詞 tag are as follows:</p>
+
+<ul>
+  <li>The stem of nominal verbs (so-called <em>suru</em>-verbs or サ変動詞) is also tagged as <code>VERB</code>, while in UniDic it is tagged as <code>noun (common.verbal_suru)</code> / 名詞-普通名詞-サ変動詞可能.
+Note that such a nominal verb is tagged as <code>VERB</code> when it behaves as a verb (typically followed by “する” or “できる”),
+otherwise is tagged as <a href="">NOUN</a> (e.g. <em><b>勉強</b> が好きだ</em> “(I) like studying”).</li>
+  <li><code>VERB</code> is NOT used for non-content (functional) verbs, while they are taged as <code>verb (bound)</code> / 動詞- 非自立可能,
+e.g. <em>食べて<b>いる</b> </em> “eat”+PROGRESSIVE : <em>いる</em> is tagged with <a href="">AUX</a>.</li>
+</ul>
+
 
 
 <!-- "in other languages" links -->
