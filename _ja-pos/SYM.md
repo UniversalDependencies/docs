@@ -10,7 +10,7 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 What makes them different from [punctuation](PUNCT)　is that they can be substituted by normal words.
 This involves all currency symbols, e.g. _￥100_ is identical to _hundres yen_.
 These words are tagged with `symbol` / 記号 or `supplementary_symbol` / 補助記号 in UniDic.
-Puntuations also have `supplementary_symbol` / 補助記号 tag and are distinguished by the subcategories
+Puntuations also have `supplementary_symbol` / 補助記号 tag and are distinguished by the subcategories,
 e.g. `supplementary_symbol (period)` / 補助記号-句点.
 
 Mathematical operators form another group of symbols.
