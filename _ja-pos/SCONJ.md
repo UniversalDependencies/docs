@@ -4,10 +4,12 @@ title: 'SCONJ'
 shortdef: 'subordinating conjunction'
 ---
 
-`SCONJ` for Japanese are used for words tagged as "接続詞 (conjunction)", "助詞-接続助詞 (conjunctive particle)" and "準体助詞 (nominal particle)".  Here are examples:
+### Definition
 
-<ul>
-<li>食べ<b>て</b>寝る ("eat, <b>then</b> sleep")</li>
-<li>食べる<b>の</b>が好き ("(I) like to eat"): nominal particle "の"</li>
-</ul>
+`SCONJ` for Japanese are used for words tagged as `conjunction` / 接続詞, 
+`conjunctive particle` / 助詞-接続助詞  and `nominal particle` / 準体助詞 in UniDic. 
 
+### Examples
+
+- _食べ <b>て</b>寝る&nbsp;_ “eat, _then_ sleep” (`particle (conjunctive)` / 助詞-接続助詞)
+- _食べる <b>の</b>が好き&nbsp;_ “(I) like _to_ eat” (`particle (nominal)` / 助詞-準体助詞): nominal particle "の"
