@@ -4,9 +4,13 @@ title: 'PART'
 shortdef: 'particle'
 ---
 
-`PART` for Japanese covers functional words which are not classified into `ADP`, `CONJ` nor `SCONJ`.  Namely, `PART` corresponds to final postpositional particles (助詞-終助詞 in UniDic) and suffixes to change the category of phrases.  For example,
+### Definition
 
-<ul>
-<li>良い<b>ね</b> ('good, isn't it?'): final particles to add some nuance (助詞-終助詞)</li>
-<li>衝撃<b>的</b>だ ('shocking'): suffix to make an adjective phrase wiht a noun (衝撃 'shock')</li>
-</ul>
+`PART` for Japanese covers functional words which are not classified into [ADP](), [CONJ]() nor [SCONJ]().
+Namely, `PART` corresponds to final postpositional particles, `particle(phrase_final` / 助詞-終助詞 in UniDic,
+and suffixes to change the category of phrases. 
+
+### Examples
+
+- _良い <b>ね</b>&nbsp;_ “good, isn't it” (`particle (phrase_final)` / 助詞-格助詞) : final particles to add some nuance
+- _衝撃 <b>的</b> だ&nbsp;_ “(something is) shocking” (`suffix(adjectival_noun)` / 接尾辞-形状詞的) : suffix to make an adjective phrase with a noun (_衝撃_ “shock”)
