@@ -1,5 +1,4 @@
 ---
----
 layout: postag
 title: 'SCONJ'
 shortdef: 'subordinating conjunction'
@@ -12,5 +11,5 @@ shortdef: 'subordinating conjunction'
 
 ### Examples
 
-- _食べ <b>て</b>寝る&nbsp;_ “eat, _then_ sleep” (`particle (conjunctive)` / 助詞-接続助詞)
-- _食べる <b>の</b>が好き&nbsp;_ “(I) like _to_ eat” (`particle (nominal)` / 助詞-準体助詞): nominal particle "の"
+- _食べ <b>て</b> 寝る&nbsp;_ “eat, _then_ sleep” (`particle (conjunctive)` / 助詞-接続助詞)
+- _食べる <b>の</b> が好き&nbsp;_ “(I) like _to_ eat” (`particle (nominal)` / 助詞-準体助詞): nominal particle "の"
