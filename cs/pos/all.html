@@ -885,51 +885,25 @@ status of a (subordinate) clause.</p>
 
 <h3 id="definition">Definition</h3>
 
-<p>A symbol is a word-like entity that differs from ordinary words by
-form, function, or both.</p>
-
-<p>Many symbols are or contain special non-alphanumeric characters,
-similarly to <a href="PUNCT">punctuation</a>.  What makes them different from
-punctuation is that they can be substituted by normal words.  This
-involves all currency symbols, e.g. <em>$ 75</em> is identical to
-<em>seventy-five dollars</em>.</p>
+<p>A symbol is a word-like entity that differs from ordinary words by form, function, or both.
+What makes them different from　punctuation <a href="PUNCT">punctuation</a>　is that they can be substituted by normal words.
+This involves all currency symbols, e.g. <em>￥100</em> is identical to <em>hundres yen</em>.
+These words are tagged with <code>symbol</code> / 記号 or <code>supplementary_symbol</code> / 補助記号 in UniDic.
+Puntuations also have <code>supplementary_symbol</code> / 補助記号 tag and are distinguished by the subcategories
+e.g. <code>supplementary_symbol (period)</code> / 補助記号-句点.</p>
 
 <p>Mathematical operators form another group of symbols.</p>
 
-<p>Another group of symbols is emoticons and emoji.</p>
-
-<p>Strings that consists entirely of alphanumeric characters are not
-symbols but they may be <a href="PROPN">proper nouns</a>: <em>130XE</em>, <em>DC10</em>; others
-may be tagged <code>PROPN</code> (rather than <code>SYM</code>) even if they contain special
-characters: <em>DC-10</em>.
-Similarly, abbreviations for single words are not symbols but are assigned the part of speech
-of the full form. For example, <em>Mr.</em> (mister), <em>kg</em> (kilogram), <em>km</em> (kilometr), <em>dr</em> (doktor)
-should be tagged <a href="NOUN">nouns</a>.
-Acronyms for proper names such as <em>OSN</em> and <em>NATO</em> should be tagged as <a href="PROPN">proper nouns</a>.</p>
-
-<p>Characters used as bullets in itemized lists <em>(•, ‣)</em> are not symbols,
-they are punctuation.</p>
+<p>Another group of symbols is emoticon and emoji including 
+ascii art symbols tagged with <code>supplementary_symbol(ascii_art.emoticon)</code> / 補助記号-ＡＡ-顔文字 in UniDic.</p>
 
 <h3 id="examples">Examples</h3>
 
 <ul>
   <li><em>$, %, §, ©</em></li>
-  <li><em>+, −, ×, ÷, =, &lt;, &gt;</em></li>
-  <li>:), ♥‿♥, 😝</li>
-  <li><em>john.doe@universal.org, http://universaldependencies.github.io/docs/, 1-800-COMPANY</em></li>
+  <li><em>+, −, ×, ÷, =, &lt;, &gt;</em>  <code>supplementary_symbol(general)</code> /  補助記号-一般</li>
+  <li>:), (<em>^o^</em>), (゜∀゜) ``supplementary_symbol(ascii_art.emoticon)` / 補助記号-ＡＡ-顔文字 </li>
 </ul>
-
-<h2 id="diffs">Diffs</h2>
-
-<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
-
-<p>The PDT part-of-speech tagset does not distinguish symbols from punctuation, hence all
-non-alphanumeric characters in the converted data are currently tagged <a href="">PUNCT</a>.</p>
-
-<p>The PDT texts are from the early 1990s and there are no e-mail addresses.
-If they were there, the PDT tokenization rules would break them up on all dots and at signs.
-The same holds for telephone numbers. For example,
-<em>tel.: (05) 4321 6014 </em> is analyzed as eight tokens (<code>NOUN PUNCT PUNCT PUNCT NUM PUNCT NUM NUM</code>).</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-pos/SYM.md" target="#">edit SYM</a></p>
 
