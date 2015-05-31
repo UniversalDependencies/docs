@@ -17,3 +17,8 @@ The following instances are cooridnative particles and conjunctions for nominal 
 - _コーヒー <b>か</b> 牛乳&nbsp;_ “cofee _or_ milk” (`case (adverbial)` / 助詞-副助詞) 
 - _コーヒー <b>及び</b> 牛乳&nbsp;_ “cofee _and_ milk” (`conjunction` / 接続詞) 
 - _コーヒー <b>あるいは</b> 牛乳&nbsp;_ “cofee _or_ milk” (`conjunction` / 接続詞) 
+
+
+- _<b>そして</b>&nbsp;_ “and” (`conjunction` / 接続詞) 
+- _<b>しかし</b>&nbsp;_ “but” (`conjunction` / 接続詞) 
+- _<b>もしくは</b>&nbsp;_ “or” (`conjunction` / 接続詞) 
