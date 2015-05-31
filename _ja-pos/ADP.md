@@ -10,7 +10,7 @@ shortdef: 'adposition'
 `particle (case)` / 助詞-格助詞 and `particle (binding)` / 助詞-係助詞
 in UniDic definition.
 
-Note that some particles (助詞) in Japnaese are classified to other Universal PoS classes, such as と (CONJ), て (SCONJ) and ね (PART).
+Note that some particles (助詞) in Japanese are classified to other Universal PoS classes, such as と ([CONJ]()), て ([SCONJ]()) and ね ([PART]()).
 
 ### Examples
 
