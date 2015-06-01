@@ -18,7 +18,7 @@ including Kanji expressions
 Note that each numeral is split into one or more word units 
 based on the number of units, (e.g. _<b>二千十四</b>&nbsp;“2014”
 is split into three words, 
- _<b>二千</b>_&nbsp;“2000” _<b>十</b>_&nbsp;“10”　and
+ _<b>二千</b>_&nbsp;“2000”, _<b>十</b>_&nbsp;“10”　and
 _<b>四</b>_&nbsp;“4”).
 
 
@@ -32,3 +32,4 @@ _<b>四</b>_&nbsp;“4”).
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm)
 - [Wikipedia: Numeral](http://en.wikipedia.org/wiki/Numeral_%28linguistics%29)
+- 
