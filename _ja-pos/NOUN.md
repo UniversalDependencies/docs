@@ -10,11 +10,12 @@ Nouns are a part of speech typically denoting a person, place, thing, animal or 
 The NOUN tag is intended for common nouns only. See PROPN for proper nouns and PRON for pronouns.
 
 Stems of nominal verbs (e.g. _<b>質問</b>&nbsp;_ “question”) are also tagged with
-`NOUN` when they are used as nouns (e.g. 質問 が ありません
-“there is no question”).
+`NOUN` when they are used as nouns (e.g. _<b>質問</b> が ありません_
+“there is no <b>question</b>”).
 Note that they are tagged `VERB', when they function as verbs in being followed by an auxiliary verb (e.g. する).
 
 Prefixes, suffixes and numeral classifiers (e.g. _<b>匹</b>_ of _3<b>匹</b> の猫_ “three cats”) are also classified into `NOUN`.
+
 
 ### Examples
 
