@@ -10,7 +10,7 @@ A proper noun is a noun that is the name (or part of the name) of a specific ind
 
 ### Examples
 
-- _Slovenia_ "Slovenia"
+- _Slovenija_ "Slovenia"
 - _Evropa_ "Europe"
 - _ZDA_ "USA"
 - _Janez_ (personal names)
