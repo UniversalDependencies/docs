@@ -8,7 +8,7 @@ shortdef: 'determiner'
 
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-The traditional grammar of Slovenian does not define determiners as a separate word class. Instead, words that perform the syntactic function of determiners are either categorizied as adverbs (_nekaj_ "some", _veliko_ "a lot of", _dovolj_ "enough of" etc.) or pronouns (_ta_ "this", _ves_ "all", _moj_ "my", _vsak_ "each" etc.), regardless of the fact whether they are used as attributives (_<b>To</b>.`DET` besedilo je nerazumljivo._ "This text is incomprehensible.") or substantives (_<b>To</b>.`PRON` sem že slišal._ "I have heard this before.").  
+The traditional grammar of Slovenian does not define determiners as a separate word class. Instead, words that perform the syntactic function of determiners are either categorizied as adverbs (_nekaj_ "some", _veliko_ "a lot of", _dovolj_ "enough of" etc.) or pronouns (_ta_ "this", _ves_ "all", _moj_ "my", _vsak_ "each" etc.), regardless of whether they are used as attributives (_<b>To</b>.`DET` besedilo je nerazumljivo._ "This text is incomprehensible.") or substantives (_<b>To</b>.`PRON` sem že slišal._ "I have heard this before.").  
 
 #### Conversion from JOS
 
