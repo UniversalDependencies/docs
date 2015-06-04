@@ -6,84 +6,86 @@ permalink: ja/overview/introduction.html
 
 # Introduction
 
-The Japanese corpora annotated according to the Universal Dependency annotation scheme will be obtained by conversion from multiple linguistic resources.
+Japanese corpora annotated according to the Universal Dependency annotation scheme will be obtained by conversion from multiple linguistic resources.
 
-As a first step, we construct conversion rules on 'NTT Japanese phrase structure treebank' [(Tanaka and Nagata 2013)](http://www.aclweb.org/anthology/W13-4913) on Mainichi Newspaper.
+As a first step, we construct conversion rules on using the 'NTT Japanese Phrase Structure Treebank' [(Tanaka and Nagata 2013)](http://www.aclweb.org/anthology/W13-4913) for the Mainichi Shimbun Newspaper.
 
-We also try to construct conversion rules on 'Balanced Corpus of Contemporary Written Japanese'(BCCWJ) [(Maekawa et al. 2014)](http://link.springer.com/article/10.1007/s10579-013-9261-0) with third party annotations.
+We also try to construct conversion rules for the 'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) [(Maekawa et al. 2014)](http://link.springer.com/article/10.1007/s10579-013-9261-0) with third-party annotations.
 
 # Basic Policy
 
-Japanese language is written without word boundaries. We tend to define smaller morpheme unit than word unit in order to keep the unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction which is defined in the morphological layer of Japanese linguistics.
+The Japanese language is written without spaces or other clear divisions to show word boundaries. We tend to define morphemic units smaller than the word unit in order to maintain unit uniformity. Therefore, when we define the morpheme unit as the Universal Dependency word unit, we have to annotate the compound word construction, as defined in the morphological layer of Japanese linguistics.
 
-Universal Dependency scheme does not suit for Japanese dependency annotation.
-Their dependency annotation label set includes several different layers such as morphology, syntax dependency and semantic dependency.
-To split between the morphology issue and syntactic dependency issue, we define Japanese base phrase unit --- Bunsetsu (文節) --- for the syntactic dependency annotation.  The morphology issue includeing multi-word expression issue is encapsulated within the bunsetsu definition.  We can concentrate to annotate purely syntactic phenomena.  
+The Universal Dependency scheme is not suited for Japanese dependency annotation.
+This is because the dependency annotation label set used by Universal Dependency includes several different layers such as morphological, syntactic and semantic dependency.
+To adress the issue of the split between the morphology and syntactic levels, we define a Japanese base phrase unit --- bunsetsu (文節) --- for syntactic dependency annotation.  The morphology level including for multi-word expressions is encapsulated within bunsetsu.  Therefore we can concentrate on the annotate of purely syntactic phenomena.  
 
-The discrepancy between the syntactic phrases and phonetic (accent) phrases is another issues on the word-based dependency annotation.
-We focus not on speech corpora but on written corpora.  We leave this issue from Universal Dependency annotation schema.
+The discrepancy between syntactic phrases and phonetic (accent) phrases is another issues in word-based dependency annotation.
+Since we focus not on speech corpora but on written corpora, we omit this issue from the Universal Dependency annotation schema.
 
-The Part-of-speech in Japanese corpora can be split two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
-Lexicon-based is to extract all possible categories for one word as a label.  For example, the label "名詞-普通名詞-サ変形状詞可能" means that the word can be Noun or Verbal Noun or Adjective. The label for the word is maintained in a large-scale PoS tagged lexicon and used in semi-markov model based morphological analyzers.
-Usage-based is a label determined by the contextual information in the sentence.
-We used Usage-based PoS tags from UniDic based lexicon/corpora/morphological analysers to align the Universal POS tags.
+The understanding of parts-of-speech (PoSs) in Japanese corpora can be split into two philosophies: lexicon-based (語彙主義) and usage-based (用法主義).
+The lexicon-based approach involves extracting all possible categories for one word as labels.  For example, the label '名詞-普通名詞-サ変形状詞可能' means that the word can be a Noun, Verbal Noun or Adjective. 
+The labels are maintained in a large-scale PoS-tagged lexicon and used in semi-Markov model-based morphological analysers.
+Usage-based labelling is determined by the contextual information in a sentence;
+we used Usage-based PoS tags from UniDic based lexicon/corpora/morphological analysers to align the Universal PoS tags.
 
-We also separate some issues --- such as coordination structures, surface case frame, and scope of negation --- from the Bunsetsu based dependency annotation.  
+We also separate certain issues --- such as coordination structures, surface case frame, and scope of negation --- from the bunsetsu-based dependency annotation.  
 
-Coordination structures cannot be expressed straightforwardly in the dependency structures.
-We lose some information related to nested coordination, non-constituent conjunct coordination and different syntactic category coordination by projecting the coordination structure to the dependency structures.
-Therefore, we keep the coordinate structure information in the different layer annotation from the Bunsetsu based dependency annotation.
-We also keep the surface case frame structures and the scope of negation in the different layer annotation.
+Coordination structures cannot be expressed straightforwardly as dependency structures.
+Thus, we lose some information related to nested coordination, non-constituent conjunct coordination, and coordination between different syntactic categories when we project the coordination structure to the dependency structures.
+Therefore, we keep the coordinate structure information in a different layer of annotation from the bunsetsu-based dependency annotation.
+We also keep the surface case frame structures and the scope of negation in different layers.
 
 The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.github.io/docs/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.github.io/docs/ja/dep/dobj.html)', '[iobj](http://universaldependencies.github.io/docs/ja/dep/iobj.html)'.
-These annotations are not provide by Japanese Bunsetsu dependency annotation.
-These information are served from predicate argument relation annotations.
+These annotations are not provided under bunsetsu-based dependency annotation, and are instead served from predicate-argument relation annotations.
 
-The labels related to "PASSIVE" such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, Japanese language has only two passive auxiliary verbs Reru(れる) and Rareru(られる). Though the morphemes are polysemy including the passive sense, 90% of them are passive sense.  We also have the annotation of the sense of Reru(れる)/Rareru(られる).
+Labels related to 'PASSIVE' such as '[nsubjpass](http://universaldependencies.github.io/docs/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.github.io/docs/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.github.io/docs/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, the Japanese language has only two passive auxiliary verbs reru(れる) and rareru(られる). Though these morphemes are polysemous, 90% of them are passive.  We also featured annotation of the sense of these morphemes.
 
-Whereas the Universal Depeldency label set handles "PASSIVE", it does not handle "CAUSATIVE".
-Japanese language has two causative auxiliary verbs Seru(せる) and Saseru(させる) which raise case alternation. 
-The case alternation in causative should be handled in Universal Dependency label set.
+However, whereas the Universal Dependency label set handles 'PASSIVE', it does not handle 'CAUSATIVE'.
+The Japanese language has two causative auxiliary verbs seru(せる) and saseru(させる) which raise the issue of case alternation. 
+The case alternation of causatives should be handled in the Universal Dependency label set.
 
 The Universal Dependency label set discriminates whether the target is a clause or not.
-Unfortunately, the definition of the clause is vague.
-We defined some heuristic rules to define the clause.
-For example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
+Unfortunately, the definition of 'clause' here is vague.
+We defined some heuristic rules to define clauses:
+for example, the difference between [acl](http://universaldependencies.github.io/docs/ja/dep/acl.html) (adjectival clause) and [amod](http://universaldependencies.github.io/docs/ja/dep/amod.html) (adjectival modifier) is defined by whether the adjective has any overt case or not.
 Aside from these syntactic dependency annotations,
 
 # Background
 
-Here, we describe Japanese language resources such as basic language resources, PoS tagged lexicon/corpus, morphological analyzers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), syntactic phrase structure tree annotations.
+Here, we describe Japanese basic language resources, PoS-tagged lexicon/corpus, morphological analysers, syntactic dependency annotations, semantic dependency annotations (or case frame annotations), and syntactic phrase structure tree annotations.
 
-## Corpora with annotations
+## Corpora with Annotations
 
-* RWCP Corpus
-'RWCP Corpus' is a Newspaper corpus from Mainichi Shinbun in 1994.
-The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'IPADIC POS Tagset'.
-The model of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by RWCP Corpus.
+* RWCP Corpus.
+This is a newspaper corpus covering the Mainichi Shimbun for 1994.
+The corpus includes human-maintained Japanese word segmentation, morphological information, and PoS tagging based on the 'IPADIC PoS Tagset'.
+The models of IPADIC and NAIST-jdic for ChaSen/MeCab are trained by the RWCP Corpus.
  
-* [Kyoto Text Corpus](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)
-'Kyoto Text Corpus' is a Newspaper corpus from Mainichi Shinbun in 1995.
-The corpus includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
+* [Kyoto Text Corpus](http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9).
+This corpus covers the Mainichi for 1995.
+It includes human-maintained Japanese word segmentation, morphological information and Part of Speech based on 'Juman POS Tagset'.
 The corpus also includes human-maintained syntactic dependency annotation ('Kyoto Text Corpus Standard') and case frame annotation. The 'NTT Japanese phrase structure treebank' is a phrase structure treebank based on the Kyoto Text Corpus.
-'[NAIST Text Corpus](https://sites.google.com/site/naisttextcorpus/)' is a case frame and coreference annotations on the Kyoto Text Corpus.
+The '[NAIST Text Corpus](https://sites.google.com/site/naisttextcorpus/)' is a case frame and a body of coreference annotations on the Kyoto Text Corpus.
 
-* EDR Corpus
-'EDR Corpus' includes Japanese and English corpora.
-The Japanese part of the corpora includes human-maintained  morphological information, Part of Speech based on 'EDR POS Tagset', syntactic phrase structure, and semantic frame information.
+* EDR Corpus.
+This includes both Japanese and English corpora.
+The Japanese part includes human-maintained  morphological information, PoS tagging using the 'EDR PoS Tagset', syntactic phrase structure, and semantic frame information.
 
-* [Corpus of Spontaneous Japanese](http://pj.ninjal.ac.jp/corpus_center/csj/)
-'Corpus of Spontaneous Japanese' (CSJ) is a monologue speech corpus.
-The corpus includes the original speech sound files, transcripted text, clause boundaries, morphological information, and Part of Speech based on 'UniDic POS Tagset'.
-CSJ defines several layers of word segmentation such as 'Short Unit Word' which is the morphological unit for uniformity, 'Middle Unit Word' which is compound word left branching tree to form an accent phrase, and 'Long Unit Word' which composes a maximal content word and some functional words with in a syntactic base phrase --- Bunsetsu.
-The corpus also includes Bunsetsu-based dependency ('CSJ standard').
+* [Corpus of Spontaneous Japanese](http://pj.ninjal.ac.jp/corpus_center/csj/).
+This is a monologue speech corpus including the original speech sound files, transcribed text, clause boundaries, morphological information, and PoS tagging using the 'UniDic PoS Tagset'.
+CSJ defines several layers of word segmentation, such as 'Short Unit Word', which is the morphological unit for uniformity, 'Middle Unit Word', which is the compound word left-branching tree to form an accented phrase, and 'Long Unit Word', which composes a maximal content word with functional words with in a syntactic base phrase (bunsetsu).
+The corpus also includes bunsetsu-based dependency ('CSJ standard').
 
-* [Balanced Corpus of Contemporary Written Japanese](http://pj.ninjal.ac.jp/corpus_center/bccwj/)
-'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) is a 100 million scale corpus which consists of three subcorpora. The first one is called the Publication Subcorpus. Samples of this corpus are extracted randomly from the population of all books, magazines, and major newspapers published in the years 2001-2005.
-The second one is called the Library Subcorpus. Its population consists of all books that are catalogued at more than 13 metropolitan libraries in Tokyo.
-The third one is called the Special-purpose Subcorpus. This corpus contains a series of mutually unrelated mini corpora that are required for specific research purposes of the NINJAL research groups. The mini corpora include governmental white papers, textbooks, laws, bestselling books, and text from the Internet (provided by the courtesy of Yahoo! Japan Inc). Each of these mini corpora contains text of several million words.
-A part of BCCWJ is called "CORE" data which contains one million words from newspaper, books, magazines, whitepaper, Yahoo! Answers, and Yahoo! Blog.
-The CORE part includes hand-maintained sentence boundaries, word boundaries, morphological information and Part of Speech based on 'UniDic POS Tagset'.  Some researchers provide annotations on BCCWJ CORE data in several layers such as Bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
+* [Balanced Corpus of Contemporary Written Japanese (BCCWJ)](http://pj.ninjal.ac.jp/corpus_center/bccwj/).
+This is a 100-million-scale corpus which consisting of three subcorpora: 
+the Publication Subcorpus, consisting of samples extracted randomly from all books, magazines, and major newspapers published in the years 2001-2005;
+the Library Subcorpus, consisting of all books catalogued at any of the more than 13 metropolitan libraries in Tokyo;
+and the Special-Purpose Subcorpus, containing a series of mutually unrelated mini-corpora required for the specific research purposes of the NINJAL (National Institute for Japanese Language and Linguistics, Japan) research groups. 
+The mini corpora include government white papers, textbooks, legal bills, bestselling books, and text from the Internet (provided courtesy of Yahoo! Japan, Inc). 
+Each of these mini corpora contains several million words of text.
+The part of the BCCWJ called 'CORE' consists of one million words from newspapers, books, magazines, white papers, Yahoo! Answers, and Yahoo! Blog, annotated for hand-maintained sentence boundaries, word boundaries, morphological information, and PoS information using 'UniDic PoS Tagset'.  
+Some researchers provide annotations on BCCWJ CORE data in several layers, such as bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
 
 * [KNBC Corpus](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/#ga739fe2)
 'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
