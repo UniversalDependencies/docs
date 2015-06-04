@@ -87,44 +87,48 @@ Each of these mini corpora contains several million words of text.
 The part of the BCCWJ called 'CORE' consists of one million words from newspapers, books, magazines, white papers, Yahoo! Answers, and Yahoo! Blog, annotated for hand-maintained sentence boundaries, word boundaries, morphological information, and PoS information using 'UniDic PoS Tagset'.  
 Some researchers provide annotations on BCCWJ CORE data in several layers, such as bunsetsu-based dependency ('BCCWJ-DepPara standard'), coordination structure, usage of passive auxiliary verb, scope of negation, aspects, TimeML TIMEX3, TimeML TLINK, predicate argument structure, case frame structure, Japanese framenet, extended named entities, and word senses.
 
-* [KNBC Corpus](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/#ga739fe2)
-'KNBC Corpus' is a copyright free Blog corpus.  The corpus includes JUMAN POS tags and Bunsetsu-based dependency in Kyoto Text corpus standard.
+* [KNBC Corpus](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/#ga739fe2).
+This is a copyright-free blog corpus that includes JUMAN PoS tags and bunsetsu-based dependency information following the Kyoto Text corpus standard.
 
-## Word Unit
+## Word Units
 
-### Overview of Word Unit
-Japanese sentences are not split into words or morphemes by spaces.
-We have several word unit standards by corpus annotation schema or morphological analysers' outputs.
-The representative word unit standards are the following subsubsections.
+### Overview of Word Units
+Written Japanese sentences are not split into words or morphemes by the use of spaces or any other technique.
+Thus, we have several word unit standards that can be found in corpus annotation schema or the outputs of morphological analysers.
+They are described below.
 
-### IPADIC word unit: 
-This word unit standard was derived by the morphological analyzer ChaSen. [IPADIC](http://sourceforge.jp/projects/ipadic/) is one of morphological information annotated lexicon used in ChaSen.  The morphological analyzer [MeCab](http://taku910.github.io/mecab/) is developed in 2001-2004. MeCab is independently developped from the lexicon. However, the default lexicon is IPADIC. [NAIST-jdic](http://sourceforge.jp/projects/naist-jdic/) is a successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitiosn and POS tagset of IPADIC. 
+### [IPADIC](http://sourceforge.jp/projects/ipadic/) 
+This word unit standard (morphological informatino-annotated lexicon) was derived by the morphological analyser ChaSen. 
+The morphological analyser [MeCab](http://taku910.github.io/mecab/), developed in 2001-2004, is independently developped from the lexicon; however, the default lexicon is IPADIC. [NAIST-jdic](http://sourceforge.jp/projects/naist-jdic/) is the successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitions and PoS tagset of IPADIC. 
 
-### NINJAL UniDic word units: 
-NINJAL (National Institute for Japanese Language and Linguistics, Japan) proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf).  From 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
+### NINJAL UniDic 
+NINJAL proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf).  
+Since 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
+
 * Short Unit Word (SUW): 
-The standard is used as the most fine grained morpheme for the corpus statistics. The word unit is derived by MeCab with UniDic.
-* Middle Unit Word (MUW): The standard is based on the left branching compound word construction. The word unit is based on phonological construction such as accent phrase and/or sequential voicing(連濁). The unit is derived by Comainu which is a wrapper program of MST parsing.
-* Long Unit Word (LUW): The standard is composed "Bunsetsu(文節)" unit. LUW is nearly same as content or functional words bounded by bunsetsu boundaries and The unit is derives by SVM-based chunker such as YamCha or linear chain CRF chunker such as CRF++.
+ the most fine-grained morpheme leel for corpus statistics, derived by MeCab with UniDic.
+* Middle Unit Word (MUW): 
+ based on the right-branching compound word construction and on phonological constructions such as accent phrase and/or sequential voicing (連濁), using Comainu, which is a wrapper program for MST parsing.
+* Long Unit Word (LUW): a standard composed of 'bunsetsu(文節)' units. LUW is nearly the same in content and functional words bounded by bunsetsu boundaries. The unit is derived by SVM-based chunkers such as YamCha or linear chain CRF chunkers such as CRF++.
 
-The UniDic are maintained diachronically. NINJAL published versions of UniDic in several eras.
+The UniDic has been maintained diachronically, and NINJAL has published versions of UniDic for several eras.
 
 * UniDic (contemporary): [http://sourceforge.jp/projects/unidic/](http://sourceforge.jp/projects/unidic/) will be moved to [http://download.unidic.org/](http://download.unidic.org/)
 * [UniDic (modern)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%B6%E1%C2%E5%CA%B8%B8%ECUniDic)
 * [UniDic (early middle)](http://www2.ninjal.ac.jp/lrc/index.php?UniDic%2F%C3%E6%B8%C5%CF%C2%CA%B8UniDic)
 
-### JUMANdic word unit: 
-This word unit standard was derived by the morphological analyzer JUMAN. The unit is longer than SUW in UniDic.
+### JUMANdic 
+This word unit standard was derived by the morphological analyser JUMAN. The unit is longer than SUW in UniDic.
 See also 'Morphological Analyser, JUMAN'.
-The unit includes several compound words as one word unit. [Manual](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+The unit includes several compound words as single word units. See the [manual](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf).
 
 ### Morphological Analysers
 
-* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html): lexicon-based morphological analyzer by CRFs.
+* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html): lexicon-based morphological analyser using CRFs.
 
-* [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN): lexicon-based morphological analyzer by hand maintained cost table.
+* [JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN): lexicon-based morphological analyser using a hand-maintained cost table.
 
-* [Comainu](http://comainu.org/): compound word construction by chunking (CRF or history-based SVM) and dependency parsing model.
+* [Comainu](http://comainu.org/): compound word constructions derived by chunking (CRF or history-based SVM) and dependency parsing.
 
 * CRF chunker (used in Comainu): [CRF++](http://taku910.github.io/crfpp/)
 
@@ -132,38 +136,39 @@ The unit includes several compound words as one word unit. [Manual](http://nlp.i
 
 * [MSTParser](http://sourceforge.net/projects/mstparser/) (used in Comainu)
 
-## Bunsetsu Unit (Base phrase)
+## Bunsetsu Unit (Base Phrase)
 
-### Overview of Bunsetsu Unit
-Japanese dependency structures tends to be annotated by Bunsetsu Unit.
-This is because to separate compound word construction issues (morphology) from syntactic dependency.
+### Overview of the Bunsetsu Unit
+Japanese dependency structures tends to be annotated by bunsetsu unit,
+ to separate compound word construction issues (morphology) from syntactic dependency.
 However, the bunsetsu-based dependency annotation leaves the NP attachments for compound verbs.
 
-We have two Bunsetsu unit standards: Kyoto Corpus Standard and NINJAL Standard.
+We have two bunsetsu unit standards: Kyoto Corpus Standard and NINJAL Standard.
 
 ### Kyoto Corpus Standard
 
-The Kyoto Corpus Standard is based on 'Prefix + Content Word + Suffix or Function word' as a Bunsetsu based on JUMAN word units. Some functional multi-word expressions are treated as one Bunsetsu such as 'しようとする', 'Vざるをえない', 'Vつつある' and so on. 
-[(manual)](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
+The Kyoto Corpus Standard is based on 'Prefix + Content Word + Suffix or Function word'; that is, it is bunsetsu standard based on JUMAN word units. 
+Some functional multi-word expressions are treated as one bunsetsu such as 'しようとする', 'Vざるをえない', 'Vつつある' and so on. 
+[(Manual)](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)
 
 ### NINJAL Standard
 
-NINJAL standard is based on UniDic Long Unit Words definition.
+The NINJAL standard is based on the UniDic Long Unit Words definition.
 The main rule is 'Content word + Functional Word' in UniDic LUW.
-They also define several functional multi-word expressions as one Bunsetsu such as 'という', 'といった', 'かもしれない', 'ことができる'.
+It also defines several functional multi-word expressions as one bunsetsu, such as 'という', 'といった', 'かもしれない', or 'ことができる'.
 [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
 
-## PoS Tag
+## PoS Tagging
 
-### IPADIC POS Tagset
-IPADIC and NAIST-jdic are shared the same POS tagset. Currently, the lexicon based on the POS tagset is not maintained.
-- The English Translation of POS Tagset by Dr. Francis Bond: [link](http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt)
-- English Manual: [link](http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/)
+### IPADIC PoS Tagset
+IPADIC and NAIST-jdic share the same PoS tagset. Currently, the lexicon based on this PoS tagset is not maintained.
+- The English translation of this PoS Tagset, by Dr. Francis Bond: [link](http://sourceforge.jp/projects/ipadic/docs/postag.txt/ja/1/postag.txt.txt)
+- The English Manual: [link](http://sourceforge.jp/projects/ipadic/docs/ipadic-2.7.0-manual-en.pdf/en/1/)
 
-### Juman POS Tagset
-JUMAN POS Tagset is based on Masuoka-Takubo POS tagset [(Masuoka and Takubo 1992)](http://www.amazon.co.jp/dp/4874240666/).
+### Juman PoS Tagset
+The JUMAN PoS Tagset is based on the Masuoka-Takubo PoS tagset [(Masuoka and Takubo 1992)](http://www.amazon.co.jp/dp/4874240666/).
 
-### UniDic POS Tagset
+### UniDic PoS Tagset
 
 The UniDic defined two layered POS tagset. One is for Short Unit Word. The other is Long Unit Word.
 POS tagset for Short Unit Word is 'lexicon-based label'(語彙主義) in which POS label imply all possible usage in the context.
