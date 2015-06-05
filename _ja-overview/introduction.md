@@ -170,11 +170,13 @@ The JUMAN PoS Tagset is based on the Masuoka-Takubo PoS tagset [(Masuoka and Tak
 
 ### UniDic PoS Tagset
 
-The UniDic defined two layered POS tagset. One is for Short Unit Word. The other is Long Unit Word.
-POS tagset for Short Unit Word is 'lexicon-based label'(語彙主義) in which POS label imply all possible usage in the context.
-However, BCCWJ is annotated the 'usage' of POS as the other POS information.
-POS tagset for Long Unit Word is 'usage-based label'(用法主義) in which POS label is disambiguated the usage by the contextual information. 
-Note, the term 'usage-based' is not same as Langacker's Usage-based model.[(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
+The UniDic defines two layered PoS tagsets, one for Short Unit Words and the other for Long Unit Words.
+The PoS tagset for Short Unit Words is a 'lexicon-based label'(語彙主義) tagset in which PoS labels imply all possible usages in a context.
+In contrast, BCCWJ annotates the 'usage' of PsS as other PoS information.
+The PoS tagset for Long Unit Words uses 'usage-based labels'(用法主義) disambiguated by contextual information.
+[(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) 
+[(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
+Note that , the term 'usage-based' here does not mean the same as in Langacker's Usage-Based model. 
 
 - The English Translation of POS Tagset by Dr. Irena Srdanovic
 [link](https://gist.github.com/masayu-a/e3eee0637c07d4019ec9)
@@ -183,10 +185,10 @@ Note, the term 'usage-based' is not same as Langacker's Usage-based model.[(小�
 - The English Translation of Inflection Form by Dr. Irena Srdanovic
 [link](https://gist.github.com/masayu-a/3e11168f9330e2d83a68)
 
-### Issues on UD PoS tagset
+### Issues with Universal Dependency PoS Tagset
 
-The UD PoS tagset doesn't clarify whether the tagset is lexicon-based or usage-based PoS tagset.
-UD for Japanese on BCCWJ is used Short Unit Word for the word unit and 'usage' of SUW for PoS.
+The Universal Dependency PoS tagset doesn't clarify whether it is lexicon-based or usage-based PoS tagset.
+The Universal Dependency for Japanese with BCCWJ uses the Short Unit Word for the word unit and 'usage' of SUW for PoS.
 
 ## Dependency Links
 
@@ -194,44 +196,43 @@ UD for Japanese on BCCWJ is used Short Unit Word for the word unit and 'usage' o
 Japanese syntactic dependency has the following properties.
 
 * Strictly Head Final:
-Bunsetsu-based dependencies in Japanese are strictly head final except for apposition and anastrophe(倒置).
+Bunsetsu-based dependencies in Japanese are strictly head final except for apposition and anastrophe (倒置).
 
 * Projective:
-Bunsetsu-based dependencies in Japanese are projective except for apposition and non-constituent conjunct coordination (部分並列).
+Bunsetsu-based dependencies in Japanese are projective except for apposition and non-constituent conjunct coordinations (部分並列).
 
 * Arrow from modifier to head:
-In Japanese NLP community, we depict the dependency arrows from modifier to head.
-It is opposite from the standard in the world.
+In Japanese the NLP community, we depict the dependency arrows from modifier to head.
+This is opposite from the standard elsewhere in the world.
 
-We have several annotation schema for dependency annotation.  They are labeled but very limitted syntactic information.
-Some syntactic labels in UD are in case frame anntation or semantic role annotation in Japanese (next section).
+We have several annotation schema for dependency annotation.  They are labelled but contain very limited syntactic information.
+Some syntactic labels in UD are in case frame or semantic role annotation in and are only available in Japanese (see next section).
+
 * Kyoto Corpus Schema
 * CSJ Schema
 * BCCWJ-DepPara Schema
-* Word Dependency by Uchimoto (Uchimoto 2008)
+* Word Dependency in CSJ 
 
 ### Kyoto Corpus Schema
-Kyoto Corpus Schema is Bunsetsu-based.
+The Kyoto Corpus Schema is bunsetsu-based.
 The dependency tree is strictly head-final and projective.
 The schema defines four labels: D for normal dependency, P for coordination structure, I for dependency in non-constituent conjunct coordination (部分並列), and A for apposition.
 
 ### CSJ Schema
-CSJ is a speech corpus. CSJ Schema is also Bunsetsu-based.
-The dependency structure is based on Kyoto Corpus Schema and extended some labels: A2 for generic apposition (総称), R for anastrophe (倒置), B+ for resolution of discrepancy between Bunsetsu Unit and Accent Phrase Unit, F for filler(フィラー), C for conjunctive, E for interjection or exclamation, Y for greetings or apostrophe(呼びかけ), N for no head in ungrammatical sentence, X for non-projective arc, and D for disfluency(言いよどみ).
-They define the label K to indicate ancient Japanese (古典)to escape the annotation.
-They also define the label S for ungramatical case postposition assignment(格表示誤り).
+CSJ is a speech corpus, also bunsetsu-based.
+The dependency structure is based on the Kyoto Corpus Schema and extends some labels: A2 for generic apposition (総称), R for anastrophe (倒置), B+ for resolution of discrepancy between bunsetsu unit and Accent Phrase Unit, F for filler (フィラー), C for conjunctive, E for interjection or exclamation, Y for greetings or apostrophe (呼びかけ), N for no head in ungrammatical sentence, X for non-projective arc, and D for disfluency (言いよどみ).
+They define the label K to indicate ancient Japanese (古典) to escape the annotation.
+They also define the label S to indicate ungrammatical case postposition assignment (格表示誤り).
 
 ### BCCWJ-DepPara Schema
-BCCWJ-DepPara schema is two-sided.
-One is Bunsetsu-based dependency by four labels: D for normal dependency, F for filler or no head or face mark, Z for sentence boundary in nested sentences, B for resolution of discrepancy between Bunsetsu Units.
-The other is nested coordination structure and apposition annotation like '[Coordination Annotation for the Penn Treebank](https://catalog.ldc.upenn.edu/LDC2015T08)'.
+The BCCWJ-DepPara schema is two-sided: bunsetsu-based dependency using four labels: D for normal dependency, F for filler or no head or face mark, Z for sentence boundary in nested sentences, B for resolution of discrepancy between bunsetsu units; and nested coordination structure and apposition annotation, as in '[Coordination Annotation for the Penn Treebank](https://catalog.ldc.upenn.edu/LDC2015T08)'.
 
-### Word Dependency for CSJ
-Uchimoto (2008) proposed word-based dependency annotation schema on CSJ. This is an extension for CSJ schema.
-They annotation the internal dependency structure of the Bunsetsu to resolve the discrepancy between accent phrases (maximal left branching subtree with in Bunsetsu) and Bunsetsu units.
-The annotation is related to Middle Unit Word definition.
+### Word Dependency in CSJ
+[Uchimoto (2008)](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html) proposed a word-based dependency annotation schema for CSJ. This is an extension for of the schema.
+They annotated the internal dependency structure of the bunsetsu to resolve the discrepancy between accent phrases (maximal right-branching subtree with in bunsetsu) and bunsetsu units.
+The annotation is related to the definition of Middle Unit Word.
 
-### Bunsetsu-based Syntactic Dependency Parser
+### Bunsetsu-Based Syntactic Dependency Parsers
 * [KNP](http://nlp.ist.i.kyoto-u.ac.jp/index.php?KNP)
 * [CaboCha](http://taku910.github.io/cabocha/)
 * [jdepp](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/)
@@ -239,63 +240,62 @@ The annotation is related to Middle Unit Word definition.
 
 ## Semantic Dependency Annotation Schema 
 
-The dependency label set on the syntactic dependency annotated corpora is limited.
-We use case frame annotation or semantic role annotation in which predicate-argument structures are annotated.
+The dependency label set in the syntactic dependency annotated corpora is limited.
+We use case frame annotation or semantic role annotation, in which predicate-argument structures are annotated.
 
 * Kyoto Corpus Schema:
-Kyoto Corpus includes Case frame(格関係) annotation between a predicate and arguments.
-They define case labels inside a clause: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj), デ(de), カラ(kara, from), ヨリ(yori, from), マデ(to), マデニ(to), 時間格(temporal), ガ２(second ga) and a case label(外の関係) for interclause relations.
+Kyoto Corpus includes a Case frame (格関係) annotation between a predicate and arguments.
+They define case labels inside a clause: ガ (ga, subj), ヲ (wo, dobj), ニ (ni, iobj), デ (de), カラ (kara, from), ヨリ (yori, from), マデ (to), マデニ (to), 時間格 (temporal), ガ２ (second ga) and a case label (外の関係) for interclause relations.
 They also define ノ(no, genitive) between two nouns.
-Zero pronoun is often appeared in Japanese. They also provide the zero pronoun information and correference relations.
-[(manual)](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf)
+Zero pronouns often appear in Japanese, and provide zero pronoun information and coreference relations.
+See [(manual)](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/rel_guideline.pdf)
 
 * NAIST Corpus Schema:
-NAIST Corpus also includes semantic role information. Iida et al. (2007) defines case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
+The NAIST Corpus also includes semantic role information. Iida et al. (2007) defines case labels: ガ(ga, subj), ヲ(wo, dobj), ニ(ni, iobj)。
 They also provide the zero pronoun information and correference relations.
 [link](https://sites.google.com/site/naisttextcorpus/)
 
-## Other annotations (syntax related only)
-* Scope of Negation for BCCWJ:
-[Matsuyoshi et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf) provide the annotation of scope of negation for BCCWJ.
-[http://cl.cs.yamanashi.ac.jp/nldata/negation/](http://cl.cs.yamanashi.ac.jp/nldata/negation/)
+## Other Annotations (Syntax-Related Only)
+* Scope of negation for BCCWJ:
+[Matsuyoshi et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf) describe the annotation of scope of negation for BCCWJ at 
+[http://cl.cs.yamanashi.ac.jp/nldata/negation/](http://cl.cs.yamanashi.ac.jp/nldata/negation/).
 
-* Passive Auxiliary Verb for BCCWJ:
-NINJAL provides the annotation of passive auxiliary verb for BCCWJ.
-The information will be embedet in BCCWJ-DepPara, soonly.
+* Passive auxiliary verbs for BCCWJ:
+NINJAL describes the annotation of passive auxiliary verbs for BCCWJ.
+The information will be embedded in BCCWJ-DepPara, shortly.
 
-* Japanese particle corpus:
-[Hanaoka et al. (2010)](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html) annotated the functions of Japanese particle(postposition) 'と'(to): the complementizer, subordinate conjunction, coordination conjunction, and case marker.
+* Japanese 'to' (と) particle corpus:
+[Hanaoka et al. (2010)](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html) annotated the functions of Japanese particle (postposition) 'と' (to) as complementizer, subordinating conjunction, coordination conjunction, and case marker.
 
 ## Phrase Structure Treebank
 
-### CCG resources derived from multiple dependency corpora 
-Japanese phrase structure resources are limited.  [(Uematsu 2013)](http://www.aclweb.org/anthology/P13-1103) composed CCG resources from several dependency corpora such as: bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from NAIST Text Corpus and functions of particle 'と' from Japanese particle corpus.  They proposed a method to integrate the resources into binary phrase structure trees with argument relations and convert CCG resources. The CCG theory is based on [Bekki (2010)](http://www.amazon.co.jp/dp/4874244688/).
+### CCG Resources Derived from Multiple Dependency Corpora 
+Japanese phrase structure resources are limited.  One study [(Uematsu 2013)](http://www.aclweb.org/anthology/P13-1103) compiled CCG resources from several dependency corpora, including bunsetsu-based dependency from Kyoto Text Corpus, predicate argument structures from the NAIST Text Corpus, and the functions of particle 'と' from a Japanese particle corpus.  They proposed a method to integrate these resources into binary phrase structure trees with argument relations and convert CCG resources. The CCG theory is based on [Bekki (2010)](http://www.amazon.co.jp/dp/4874244688/).
 
-### 'NTT Japanese phrase structure treebank' (Tanaka and Nagata 2013)
+### 'NTT Japanese Phrase Structure Treebank'
 
-[Tanaka and Nagata (2013)](http://www.aclweb.org/anthology/W13-4913) proposed a method to construct a phrase structure by retagging the Uematsu (2013) work.
-They also provide n-ary version of treebank.
-They introduced phrase tags and functional tags as follows:
-* Phrase Tags: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT) | 
-* Function Tags for semantic role: -ARG0, -ARG1, -ARG2
-* Function Tags for grammatical role: -SBJ, -OBJ, -OB2
-* Function Tags for arbitary argument: -TMP, -LOC 
-* Function Tags for coordinate structure and apposition: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE
+[Tanaka and Nagata (2013)](http://www.aclweb.org/anthology/W13-4913) proposed a method to construct a phrase structure by retagging the examples in the work of [Uematsu (2013)](http://www.aclweb.org/anthology/P13-1103).
+They also provide an n-ary version of a treebank, 
+introducing phrase and functional tags as follows:
+* Phrase tags: NP, PP, VP, ADJP, ADVP, CONJP; S, IP (IP-MAT, IP-ADV, IP-REL, IP-ADN), CP (CP-THT) | 
+* Function tags for semantic roles: -ARG0, -ARG1, -ARG2
+* Function tags for grammatical roles: -SBJ, -OBJ, -OB2
+* Function tags for arbitrary arguments: -TMP, -LOC 
+* Function tags for coordinate structures and apposition: -COORD, -NCOORD, -VCOORD, -APPOS, -QUE
 
-### Other treebank
+### Other treebanks
 * EDR Corpus:
-EDR corpus includes Japanese Treebank. It is word-based dependency tree with semantic frames.
-[manual](http://www2.nict.go.jp/out-promotion/techtransfer/EDR/JPN/TG/Doc/EDR_J09a.pdf)
+The EDR corpus includes a 'Japanese Treebank', word-based dependency tree using semantic frames.
+See [manual](http://www2.nict.go.jp/out-promotion/techtransfer/EDR/JPN/TG/Doc/EDR_J09a.pdf)
 
 * TITECH CFG Corpus:
-[Noro et al. (2005)](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf) proposed a method to construct CFG treebank from EDR and RWCP Corpus.
+[Noro et al. (2005)](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf) proposed a method to construct a CFG treebank from the EDR and RWCP corpora.
 
 * Hinoki Treebank:
-NTT [(Bond 2008)](http://link.springer.com/article/10.1007/s10579-008-9062-z) built a HPSG-based treebank: 'Hinoki Treebank'.
+NTT [(Bond 2008)](http://link.springer.com/article/10.1007/s10579-008-9062-z) built a HPSG-based treebank: the 'Hinoki Treebank'.
 
 * Keyaki Treebank:
-Tohoku Univ. [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) is building 'Keyaki Treebank' following the Annotation
-manual for the Penn Historical Corpora and PCEEC.
+Tohoku University [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) is building a 'Keyaki Treebank' following the annotation manual for the Penn Historical Corpora and PCEEC.
 
 # Contributors
 * Yusuke Miyao
@@ -308,38 +308,38 @@ manual for the Penn Historical Corpora and PCEEC.
 # References
 
 ## Corpora
-* Kikuo Maekawa, Hideaki Kikuchi and Wataru Tsukahara. "[Corpus of Spontaneous Japanese: Design, Annotation and XML Representation](http://www.researchgate.net/profile/Kikuo_Maekawa/publication/228943335_Corpus_of_Spontaneous_Japanese_design_annotation_and_XML_representation/links/02e7e523253397a70c000000.pdf)", Proceedings of the International Symposium on Large-scale Knowledge Resources (LKR2004), Tokyo: Tokyo Institute of Technology, pp.19-24, 2004:3.
-* Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced corpus of contemporary written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48 (2), pp.345-371
+* Kikuo Maekawa, Hideaki Kikuchi and Wataru Tsukahara. '[Corpus of Spontaneous Japanese: Design, Annotation and XML Representation](http://www.researchgate.net/profile/Kikuo_Maekawa/publication/228943335_Corpus_of_Spontaneous_Japanese_design_annotation_and_XML_representation/links/02e7e523253397a70c000000.pdf)', In Proceedings of the International Symposium on Large-scale Knowledge Resources (LKR2004), Tokyo: Tokyo Institute of Technology, pp.19-24, 2004:3.
+* Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den. 2014. '[Balanced Corpus of Contemporary Written Japanese](http://link.springer.com/article/10.1007/s10579-013-9261-0)'. Language Resources and Evaluation 48(2), pp.345-371
 
-## Lexicon and POS Tagset
-* Takashi Masuoka and Yukinori Takubo.(益岡 隆志, 田窪 行則) 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)
-* 黒橋 禎夫, 居蔵 由衣子, 坂口 昌子. 2000. '[形態素・構文タグ付きコーパス作成の作業基準 version 1.8](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)'
-* Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approache to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
-* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. (2010)
-「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」
-* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. (2010)
-「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)
-* Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto, 2012 '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
+## Lexicon and PoS Tagsets
+* Takashi Masuoka and Yukinori Takubo.(益岡 隆志, 田窪 行則) 1992. '[基礎日本語文法・改訂版](http://www.amazon.co.jp/dp/4874240666)' (In Japanese)
+* 黒橋 禎夫, 居蔵 由衣子, 坂口 昌子. 2000. '[形態素・構文タグ付きコーパス作成の作業基準 version 1.8](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)' (In Japanese)
+* Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approach to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
+* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」 (In Japanese)
+* 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf) (In Japanese)
+* Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto. 2012. '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
 
-## Dependency Annotation Schema
-* Kawahara, Daisuke, Sadao Kurohashi, and Kôiti Hasida. "[Construction of a Japanese Relevance-tagged Corpus](http://www.lrec-conf.org/proceedings/lrec2002/pdf/302.pdf)." LREC. 2002.
-* Sadao Kurohashi and Makoto Nagao. 2003. Building a Japanese parsed corpus --- while improving the parsing system. In Abeille (ed.) Treebanks: Building and using parsed corpora, Chap. 14, pp. 249-260. Kluwer Academic Publisher.
+## Dependency Annotation Schemata
+* Daisuke Kawahara, Sadao Kurohashi, and Kôiti Hasida. "[Construction of a Japanese Relevance-Tagged Corpus](http://www.lrec-conf.org/proceedings/lrec2002/pdf/302.pdf)." LREC. 2002.
+* Sadao Kurohashi and Makoto Nagao. 2003. Building a Japanese Parsed Corpus --- While Improving the Parsing System. In Abeille (ed.) Treebanks: Building and Using parsed corpora, pp. 249-260. Alphen aan den Rijn, the Netherlands: Kluwer Academic Publisher.
 * Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. '[Annotating a Japanese text
 corpus with predicate-argument and coreference relations](http://www.aclweb.org/anthology/W07-1522). In Proceedings of Linguistic Annotation
 Workshop, pages 132–139.
-* K. Uchimoto, and Y. Den, “[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)”, In Proc. of LREC 2008, (2008).
-* Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. Internal structure of a disease
-name and its application for ICD coding. Studies in health technology and informatics, 160(2):1010–1014.
+* K. Uchimoto, and Y. Den. 2008. '[Word-level Dependency-structure Annotation to Corpus of Spontaneous Japanese and Its Application](http://www.lrec-conf.org/proceedings/lrec2008/summaries/790.html)', In Proceedings of LREC 2008.
+* Emiko Yamada, Eiji Aramaki, Takeshi Imai, and Kazuhiko Ohe. 2010. 'Internal Structure of a Disease
+Name and Its Application for ICD Coding'. Studies in Health Technology and Informatics, 160(2), 1010–1014.
 
 ## Treebanking
-* Takao Gunji. 1987. '[Japanese Phrase Structure Grammar: A Unification-based Approach](http://www.amazon.co.jp/dp/1556080204/).' D. Reidel.
-* Tomoya Noro et al. "[Building a large-scale Japanese syntactically annotated corpus for deriving a CFG](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf)." Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005). 2005.
-* Francis Bond, Sanae Fujita, and Takaaki Tanaka. "[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)." Language Resources and Evaluation 42.2 (2008): 243-251.
-* Daisuke Bekki.(戸次 大介). 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Kuroshio Shuppan. (In Japanese)
-* Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: phrase structure with functional information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) In Proceedings of Text Annotation Workshop.
-* Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating multiple dependency corpora for inducing wide coverage Japanese CCG resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
+* Takao Gunji. 1987. '[Japanese Phrase Structure Grammar: A Unification-Based Approach](http://www.amazon.co.jp/dp/1556080204/).' D. Reidel.
+* Tomoya Noro, Taiichi Hashimoto, Takenobu Tokunaga, and Hozumi Tanaka. 2005. '[Building a large-scale Japanese syntactically annotated corpus for deriving a CFG](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf)'. Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005).
+* Francis Bond, Sanae Fujita, and Takaaki Tanaka. 2008. '[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)'. Language Resources and Evaluation 42(2), pp. 243-251.
+* Daisuke Bekki.(戸次 大介). 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Tokyo: Kuroshio Shuppan. (In Japanese)
+* Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: Phrase Structure with Functional Information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) In Proceedings of Text Annotation Workshop.
+* Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating Multiple Dependency Corpora for Inducing Wide Coverage Japanese CCG Resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
 * Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
 
 ## Other Annotations
-* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. "[A Japanese Particle Corpus Built by Example-Based Annotation](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html)." LREC. 2010.
-* Suguru Matsuyoshi, Ryo Otsuki, Fumiyo Fukumoto. "[Annotating the Focus of Negation in Japanese Text](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf)" LREC. 2014.
+* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. 2010. '[A Japanese Particle Corpus Built by Example-Based Annotation](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html)'. LREC. 2010.
+* Suguru Matsuyoshi, Ryo Otsuki, Fumiyo Fukumoto. 2014. '[Annotating the Focus of Negation in Japanese Text](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf)', LREC. 2014.
