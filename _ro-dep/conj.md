@@ -16,4 +16,4 @@ Coordinate clauses are treated the same way as coordination of other constituent
 ~~~ sdparse
 Ion a sosit , dar Maria întârzie . \n John has arrived , but Mary is_late .
 conj(sosit, întârzie)
-~~~ sdparse
+~~~
