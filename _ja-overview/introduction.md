@@ -318,7 +318,7 @@ Tohoku University [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pd
 * 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
 「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」 (In Japanese)
 * 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
-「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf) (In Japanese)
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)」 (In Japanese)
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto. 2012. '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
 
 ## Dependency Annotation Schemata
