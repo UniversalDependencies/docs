@@ -322,8 +322,8 @@ Tohoku University [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pd
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto. 2012. '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
 
 ## Dependency Annotation Schemata
-* Daisuke Kawahara, Sadao Kurohashi, and Kôiti Hasida. "[Construction of a Japanese Relevance-Tagged Corpus](http://www.lrec-conf.org/proceedings/lrec2002/pdf/302.pdf)." LREC. 2002.
-* Sadao Kurohashi and Makoto Nagao. 2003. Building a Japanese Parsed Corpus --- While Improving the Parsing System. In Abeille (ed.) Treebanks: Building and Using parsed corpora, pp. 249-260. Alphen aan den Rijn, the Netherlands: Kluwer Academic Publisher.
+* Daisuke Kawahara, Sadao Kurohashi, and Kôiti Hasida. "[Construction of a Japanese Relevance-Tagged Corpus](http://www.lrec-conf.org/proceedings/lrec2002/pdf/302.pdf)." In Proceedings of LREC. 2002.
+* Sadao Kurohashi and Makoto Nagao. 2003. 'Building a Japanese Parsed Corpus --- While Improving the Parsing System'. In Abeille (ed.) [Treebanks: Building and Using parsed corpora](http://www.springer.com/gp/book/9781402013348), pp. 249-260. Alphen aan den Rijn, the Netherlands: Kluwer Academic Publisher.
 * Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. 2007. '[Annotating a Japanese text
 corpus with predicate-argument and coreference relations](http://www.aclweb.org/anthology/W07-1522). In Proceedings of Linguistic Annotation
 Workshop, pages 132–139.
@@ -336,10 +336,10 @@ Name and Its Application for ICD Coding'. Studies in Health Technology and Infor
 * Tomoya Noro, Taiichi Hashimoto, Takenobu Tokunaga, and Hozumi Tanaka. 2005. '[Building a large-scale Japanese syntactically annotated corpus for deriving a CFG](http://www.cl.cs.titech.ac.jp/_media/publication/565.pdf)'. Proceedings of Symposium on Large-Scale Knowledge Resources (LKR2005).
 * Francis Bond, Sanae Fujita, and Takaaki Tanaka. 2008. '[The Hinoki syntactic and semantic treebank of Japanese](http://link.springer.com/article/10.1007/s10579-008-9062-z)'. Language Resources and Evaluation 42(2), pp. 243-251.
 * Daisuke Bekki.(戸次 大介). 2010. '[Formal Theory of Japanese Syntax ((日本語研究叢書24) 日本語文法の形式理論 - 活用体系・統語構造・意味合成)](http://www.amazon.co.jp/dp/4874244688/). Tokyo: Kuroshio Shuppan. (In Japanese)
-* Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: Phrase Structure with Functional Information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf) In Proceedings of Text Annotation Workshop.
-* Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating Multiple Dependency Corpora for Inducing Wide Coverage Japanese CCG Resources](http://www.aclweb.org/anthology/P13-1103) In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
-* Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)' In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages
+* Alastair Butler, Zhu Hong, Tomoko Hotta, Ruriko Otomo, Kei Yoshimoto and Zhen Zhou. 2012. '[Keyaki Treebank: Phrase Structure with Functional Information for Japanese](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pdf). In Proceedings of Text Annotation Workshop.
+* Sumire Uematsu, Takuya Matsuzaki, Hiroaki Hanaoka, Yusuke Miyao, and Hideki Mima. 2013. '[Integrating Multiple Dependency Corpora for Inducing Wide Coverage Japanese CCG Resources](http://www.aclweb.org/anthology/P13-1103). In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), pp. 1042-1051.
+* Takaaki Tanaka and Masaaki Nagata. 2013. '[Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels](http://www.aclweb.org/anthology/W13-4913)'. In Proceedings of the Fourth Workshop on Statistical Parsing of Morphologically-Rich Languages.
 
 ## Other Annotations
-* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. 2010. '[A Japanese Particle Corpus Built by Example-Based Annotation](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html)'. LREC. 2010.
-* Suguru Matsuyoshi, Ryo Otsuki, Fumiyo Fukumoto. 2014. '[Annotating the Focus of Negation in Japanese Text](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf)', LREC. 2014.
+* Hanaoka, Hiroki, Hideki Mima, and Jun'ichi Tsujii. 2010. '[A Japanese Particle Corpus Built by Example-Based Annotation](http://www.lrec-conf.org/proceedings/lrec2010/summaries/617.html)'. In Proceedings of LREC. 2010.
+* Suguru Matsuyoshi, Ryo Otsuki, Fumiyo Fukumoto. 2014. '[Annotating the Focus of Negation in Japanese Text](http://www.lrec-conf.org/proceedings/lrec2014/pdf/777_Paper.pdf)'. In Proceedings of LREC. 2014.
