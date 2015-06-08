@@ -9,7 +9,6 @@ The indirect object of a verb is any nominal phrase that is a core argument of t
 ~~~ sdparse
 Îi dau Marei un trandafir . \n Her give-I Mara-Dat a rose .
 iobj(dau, Marei)
-expl(văd, O)
 ~~~
 
 ~~~ sdparse
