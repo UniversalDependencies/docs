@@ -45,6 +45,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-tr">Turkish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -633,6 +634,26 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 
 
+
+<!-- "Turkish" tab -->
+<div id="language-tr" markdown="1" class="ui-tabs-hide">
+{% include tr-status-table.html %}
+
+[Introduction](tr/overview/introduction.html)
+
+* [Tokenization](tr/overview/tokenization.html)
+* Morphology
+  * [General principles](tr/overview/morphology.html)
+  * [Turkish POS tags](tr/pos/index.html) ([single document](tr/pos/all.html))
+  * [Turkish features](tr/feat/index.html) ([single document](tr/feat/all.html))
+* Syntax
+  * [General principles](tr/overview/syntax.html)
+  * [Specific constructions](tr/overview/specific-syntax.html)
+  * [Turkish dependency relations](tr/dep/index.html) ([single document](tr/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
