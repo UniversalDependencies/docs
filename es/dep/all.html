@@ -232,7 +232,7 @@ in two places.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>acl</code>.</p>
 
-<pre><code class="language-sdparse">Comeremos cuando llegue Pedro . \n We will eat when Pedro arrives .
+<pre><code class="language-sdparse">comeremos cuando llegue Pedro . \n We will eat when Pedro arrives .
 advcl(comeremos, llegue)
 </code></pre>
 
@@ -244,6 +244,16 @@ advcl(comeremos, llegue)
 <p>This document is a placeholder for the language-specific documentation
 for <code>advcl</code>.</p>
 
+<p>An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.</p>
+
+<pre><code class="language-sdparse">Me vió mientras lavaba los platos.
+advcl(vió, lavaba)
+Le habló para crear una cuenta 
+advcl(habló, crear)
+Estaba cansado cuando lo vi 
+advcl(cansado, vi)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_es-dep/advcl.md" target="#">edit advcl</a></p>
 
 <p><a id="al-es-dep/advmod" class="al-dest"></a></p>
@@ -251,6 +261,8 @@ for <code>advcl</code>.</p>
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>advmod</code>.</p>
+
+<p>An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.</p>
 
 <pre><code class="language-sdparse">Pedro habla demasiado rápido . \n Pedro speaks too fast .
 advmod(habla, rápido)
@@ -549,6 +561,8 @@ for <code>nmod</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>nsubj</code>.</p>
 
+<p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.</p>
+
 <pre><code class="language-sdparse">Juan ha invitado a Pedro . \n Juan has invited Pedro .
 nsubj(invitado, Juan)
 </code></pre>
@@ -621,11 +635,11 @@ for <code>reparandum</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>root</code>.</p>
 
-<pre><code class="language-sdparse">Me gusta el cine . \n I like the cinema .
+<pre><code class="language-sdparse">ROOT Me gusta el cine . \n I like the cinema .
 root(ROOT, gusta)
 </code></pre>
 
-<pre><code class="language-sdparse">María es simpática . \n María is friendly .
+<pre><code class="language-sdparse">ROOT María es simpática . \n María is friendly .
 root(ROOT, es)
 </code></pre>
 
