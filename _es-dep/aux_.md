@@ -14,12 +14,12 @@ An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxilia
 
 Spanish modal auxiliaries include (Butt and Benjamin, 2013):
 
-poder
-saber
-querer
-soler
-deber
-haber (que, de)
+- poder
+- saber
+- querer
+- soler
+- deber
+- haber (que, de)
 
 
 ~~~ sdparse
