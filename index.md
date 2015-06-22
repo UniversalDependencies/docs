@@ -45,6 +45,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-ca">Catalan</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -633,6 +634,26 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
 
 
 
+
+<!-- "Catalan" tab -->
+<div id="language-ca" markdown="1" class="ui-tabs-hide">
+{% include ca-status-table.html %}
+
+[Introduction](ca/overview/introduction.html)
+
+* [Tokenization](ca/overview/tokenization.html)
+* Morphology
+  * [General principles](ca/overview/morphology.html)
+  * [Catalan POS tags](ca/pos/index.html) ([single document](ca/pos/all.html))
+  * [Catalan features](ca/feat/index.html) ([single document](ca/feat/all.html))
+* Syntax
+  * [General principles](ca/overview/syntax.html)
+  * [Specific constructions](ca/overview/specific-syntax.html)
+  * [Catalan dependency relations](ca/dep/index.html) ([single document](ca/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->

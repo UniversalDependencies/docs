@@ -413,6 +413,20 @@ collections:
   la-overview:
     output: true
 #
+# Catalan
+#
+  ca-pos:
+    output: true
+    permalink: /ca/pos/:path.html
+  ca-feat:
+    output: true
+    permalink: /ca/feat/:path.html
+  ca-dep:
+    output: true
+    permalink: /ca/dep/:path.html
+  ca-overview:
+    output: true
+#
 # Template
 #
   template-pos:
