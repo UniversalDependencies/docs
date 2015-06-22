@@ -277,6 +277,12 @@ advmod(rápido, demasiado)
 <p>This document is a placeholder for the language-specific documentation
 for <code>amod</code>.</p>
 
+<p>An adjectival modifier of an NP is any adjectival phrase that serves to modify the meaning of the NP.</p>
+
+<pre><code class="language-sdparse">Encuentran materiales peligrosos .
+amod(materiales, peligrosos)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_es-dep/amod.md" target="#">edit amod</a></p>
 
 <p><a id="al-es-dep/appos" class="al-dest"></a></p>
@@ -284,6 +290,8 @@ for <code>amod</code>.</p>
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>appos</code>.</p>
+
+<p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures.</p>
 
 <pre><code class="language-sdparse">Mi amigo Pedro ... \n My friend Pedro ...
 appos(amigo, Pedro)
@@ -296,6 +304,19 @@ appos(amigo, Pedro)
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>aux</code>.</p>
+
+<p>An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of “estar”, “ser” or “haber” in a periphrastic tense.</p>
+
+<p>Spanish modal auxiliaries include (Butt and Benjamin, 2013):</p>
+
+<ul>
+  <li>poder</li>
+  <li>saber</li>
+  <li>querer</li>
+  <li>soler</li>
+  <li>deber</li>
+  <li>haber (que, de)</li>
+</ul>
 
 <pre><code class="language-sdparse">Regan ha muerto . \n Regan has died .
 aux(muerto, ha)
@@ -329,6 +350,8 @@ for <code>case</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>cc</code>.</p>
 
+<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct. (Note: different dependency grammars have different treatments of coordination. We take one conjunct of a conjunction as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence. This is also called a cc, and it depends on the root predicate of the sentence.</p>
+
 <pre><code class="language-sdparse">María es guapa y simpática . \n María is pretty and friendly .
 cc(guapa, y)
 </code></pre>
@@ -340,6 +363,8 @@ cc(guapa, y)
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>ccomp</code>.</p>
+
+<p>A clausal complement of a verb or adjective is a dependent clause with an internal subject (perhaps implicit) which functions like an object of the verb, or adjective.</p>
 
 <pre><code class="language-sdparse">Explícame que estás haciendo . \n Explain me what you are doing .
 ccomp(Explícame, haciendo)
@@ -360,6 +385,8 @@ for <code>compound</code>.</p>
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>conj</code>.</p>
+
+<p>A conjunct is the relation between two elements connected by a coordinating conjunction, such as “y”, “o”, etc. We treat conjunctions asymmetrically: The head of the relation is the first conjunct and other conjunctions depend on it via the conj relation.</p>
 
 <pre><code class="language-sdparse">María es guapa y simpática . \n Maria is pretty and friendly .
 conj(guapa, simpática)
@@ -388,6 +415,8 @@ cop(es, alto)
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>csubj</code>.</p>
+
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb.</p>
 
 <pre><code class="language-sdparse">Le gusta comer tarde . \n He\/she likes to eat late .
 csubj(gusta, comer)
@@ -505,6 +534,8 @@ for <code>list</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>mark</code>.</p>
 
+<p>A marker is the word introducing a finite clause subordinate to another clause. For a complement clause, this will typically be “que” or “si”. For an adverbial clause, the marker is typically a preposition like “mientras” or “aunque”. The mark is a dependent of the subordinate clause head.</p>
+
 <pre><code class="language-sdparse">Escuchan música mientras comen . \n They listen to music while they eat .
 mark(comen, mientras)
 </code></pre>
@@ -587,6 +618,14 @@ nsubjpass(invitado, Pedro)
 <p>This document is a placeholder for the language-specific documentation
 for <code>nummod</code>.</p>
 
+<p>A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity.</p>
+
+<pre><code class="language-sdparse">hay dos espacios \n There are two spaces
+nummod(espacios, dos)
+15 años \n 15 years 
+nummod(años, 15)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_es-dep/nummod.md" target="#">edit nummod</a></p>
 
 <p><a id="al-es-dep/parataxis" class="al-dest"></a></p>
@@ -634,6 +673,8 @@ for <code>reparandum</code>.</p>
 
 <p>This document is a placeholder for the language-specific documentation
 for <code>root</code>.</p>
+
+<p>The root grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1.</p>
 
 <pre><code class="language-sdparse">ROOT Me gusta el cine . \n I like the cinema .
 root(ROOT, gusta)
