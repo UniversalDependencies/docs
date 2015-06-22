@@ -11,7 +11,7 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 
 ~~~ sdparse
 Me vió mientras lavaba los platos.
-nsubj(vió, lavaba)
+advcl(vió, lavaba)
 Le habló para crear una cuenta 
 advcl(habló, crear)
 Estaba cansado cuando lo vi 
