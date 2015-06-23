@@ -1,9 +1,16 @@
 {% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}{% capture language %}{% if page.collection %}{{ page.collection | split:'-' | first }}{% endif %}{% endcapture %}{% capture category %}{% if page.collection %}{{ page.collection | split:'-' | last }}{% endif %}{% endcapture %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:oliasystem="http://purl.org/olia/system.owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+	<!-- added xmlns attributes to /html -->
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>{{ page.title }}</title>
+    <title about="#Concept" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" property="rdfs:label">{{ page.title }}</title>
+		<!-- every page introduces some concepts, we introduce the concept "concept" as top-level concepts and use the title as its label -->
     <link rel="root" href="{{ relative }}"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/style.css"/>
@@ -32,7 +39,7 @@
 	  </div>
 	</noscript>
 
-          {{ content }}
+	      {{ content }}
 
       </div>
 
