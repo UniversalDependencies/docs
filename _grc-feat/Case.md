@@ -8,7 +8,7 @@ The feature `Case` is used for the following Ancient Greek PoS: ADJ, DET, NOUN, 
 
 In Ancient Greek we distinguish the following 5 cases:
 
-### `Nom`: nominative 
+### `Nom`: nominative  
 
 ### `Gen`: genitive
 
