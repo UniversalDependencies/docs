@@ -18,7 +18,7 @@ The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http:
 
 ### Predicative adjective
 
-The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>).
+The predicative adjective depends on the copula or a copular verb (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>).
 
 #### Examples
 
@@ -26,9 +26,7 @@ The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http:
 
 
 
-
-
-#### References
+### References
 
 Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>; 
 <a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
