@@ -10,7 +10,7 @@ The Adjective is in Ancient Greek the PoS that normally agrees with a nominal in
 
 ### Attributive adjective
 
-The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1021&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">272</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1039&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>). Note that there are particularities 
+The attributive adjective directly modifies a nominal (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1021&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">272</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1039&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>). Note that there are pecularities concerning the position of attributive adjectives (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1168&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">295</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1183&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">297</a>). 
 
 #### Examples
 
@@ -18,7 +18,7 @@ The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http:
 
 ### Predicative adjective
 
-The predicative adjective depends on the copula or a copular verb (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>).
+The predicative adjective depends on the copula or a copular verb (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>).
 
 #### Examples
 
