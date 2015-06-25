@@ -10,7 +10,7 @@ The Adjective is in Ancient Greek the PoS that normally agrees with a nominal in
 
 ### Attributive adjective
 
-The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1021&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">272</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1039&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>).
+The attributive adjective directly modifies a nominal (Smyth 1920:<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1021&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">272</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1039&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>). Note that there are particularities 
 
 #### Examples
 
@@ -22,9 +22,7 @@ The predicative adjective depends on the copula or a copular verb (Smyth 1920:<a
 
 #### Examples
 
-* _ὁ <b>_δίκαιος_</b> ἀνήρ_  "the just man" 
-
-
+* _ἡ δὲ χάρις_ <b>_ἄδηλος_</b> _γεγένηται_ "the favour has been concealed" (Aes. 3.233)
 
 ### References
 
