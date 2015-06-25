@@ -15,7 +15,6 @@ The Adjective is in Ancient Greek the PoS that normally agrees with a nominal in
 
 #### References
 
-Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company. As digitized in
-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus DL</a>; 
-<a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>.
+Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus DL</a>; 
+<a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
 
