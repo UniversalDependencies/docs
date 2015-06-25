@@ -12,9 +12,11 @@ Ancient Greek tokenization is almost strictly graphic word-based, the language s
 * Crasis (i.e., contraction of a vowel/diphthong at the end of a word with a vowel/diphthong at the beginning of the following word) is resolved in the following cases:
   * article + any other word, such as in τοὐναντίον (i.e., τὸ ἐναντίον)
   * pronoun + any other word, such as in ἐγᾧδα (i.e., ἐγὼ οἶδα)
-  * καί ('and') + any other word, such as in καὑτός (i.e., καὶ αὐτός)
+  * καί + any other word, such as in καὑτός (i.e., καὶ αὐτός)
   * particles, such as ἄν and τοι, are never split
 
 # Sentence split
 
-Sentence split is based on the punctuation found in the original edited text, which has been added/modified by the editor of an original manuscript. In the standard editorial practice, four punctuation marks can be found: comma (,), period (.), the point above the line (corresponding in function to the English colon and semicolon) (encoded as ·, i.e., U+00B7 "Middle Dot"), interrogation mark (encoded as :, i.e., U+003A "Colon"). All of these, except the comma, are taken to mark the end of a sentence.  
+Sentence split is based on the punctuation found in the original edited text, which has been added/modified by the editor of original manuscript(s). 
+
+In the standard editorial practice, four punctuation marks can be found: comma (,), period (.), the point above the line (corresponding in function to the English colon and semicolon) (encoded as ·, i.e., U+00B7 "Middle Dot"), interrogation mark (encoded as :, i.e., U+003A "Colon"). All of these, except the comma, are taken to mark the end of a sentence.  
