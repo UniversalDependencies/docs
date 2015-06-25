@@ -4,30 +4,11 @@ title: 'ADJ'
 shortdef: 'adjective'
 ---
 
-### Definition
+#### Description
 
-The Adjective is in Ancient Greek the PoS that normally agrees with a nominal in <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/_grc-feat/Gender.md" target="_blank">Gender</a>, <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/_grc-feat/Number.md" target="_blank">Number</a>, and <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/_grc-feat/Case.md" target="_blank">Case</a>. The adjective can be use attributively or predicatively. 
-
-In accordance with the UD guidelines, adjectives are kept separate from other PoS, i.e., <a href="https://github.com/UniversalDependencies/docs/edit/pages-source/_ga-pos/DET.md" target="_blank">DET</a>, <a href="https://github.com/UniversalDependencies/docs/edit/pages-source/_ga-pos/NUM.md" target="_blank">NUM</a>, and <a href="https://github.com/UniversalDependencies/docs/edit/pages-source/_ga-pos/PRON.md" target="_blank">PRON</a>.
-
-### Attributive adjective
-
-The attributive adjective directly modifies a nominal (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1021&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">272</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1039&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>). Note that there are pecularities concerning the position of attributive adjectives (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1168&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">295</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1183&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">297</a>). 
+Adjectives typically modify nouns. In Irish, the adjective follows the noun, and agrees in number, gender and case.
 
 #### Examples
 
-* _ὁ_ <b>_δίκαιος_</b> _ἀνήρ_  "the just man" 
-
-### Predicative adjective
-
-The predicative adjective depends on the copula or a copular verb (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>).
-
-#### Examples
-
-* _ἡ δὲ χάρις_ <b>_ἄδηλος_</b> _γεγένηται_ "the favour has been concealed" (Aes. 3.233)
-
-### References
-
-Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>; 
-<a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
-
+* _lacha_ <b>_bhuí_</b>  "yellow ducks"   
+* _obair <b>theicniúil</b>_  "technical work"   
