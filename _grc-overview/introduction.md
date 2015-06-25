@@ -6,4 +6,4 @@ permalink: grc/overview/introduction.html
 
 # Introduction
 
-This document is a placeholder for the language-specific introduction.
+Ancient Greek is here defined as the Greek language from the first attested texts to 1453.
