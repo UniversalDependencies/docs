@@ -19,6 +19,6 @@ Ancient Greek tokenization is almost strictly graphic word-based, the language s
 
 Sentence split is based on the punctuation found in the original edited text, which has been added/modified by the editor of original manuscript(s). 
 
-In the standard editorial practice, four punctuation marks can be found: comma (,), period (.), the point above the line (corresponding in function to the English colon and semicolon; it is encoded as ·, i.e., U+00B7 "Middle Dot"), interrogation mark (encoded as :, i.e., U+003A "Colon"). 
+In the standard editorial practice, four punctuation marks can be found: comma (,), period (.), the point above the line (corresponding in function to the English colon and semicolon; it is encoded as ·, i.e., U+00B7 "Middle Dot"), and interrogation mark (encoded as :, i.e., U+003A "Colon"). 
 
 All of these, except the comma, are taken to mark the end of a sentence.  
