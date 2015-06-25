@@ -18,4 +18,4 @@ In Ancient Greek we distinguish the following 5 cases:
 
 ### `Voc`: vocative
 
-Remants of old cases, such as the locative, are annotated as the corresponding syncretic case or as adverbs 
+Remants of old cases, such as the locative, are annotated as the corresponding syncretic case or as adverbs. 
