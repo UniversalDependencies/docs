@@ -4,5 +4,4 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Case`.
+The feature `Case` is used for the following PoS: ADJ, DET, NOUN, NUM, PRON, PROPN, VERB (only with participles).
