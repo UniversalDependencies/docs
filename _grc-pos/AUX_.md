@@ -13,6 +13,7 @@ In Ancient Greek auxiliary verbs are restricted to forms of the verb εἰμί i
 
 ### Examples
 
+* _λελυμένοι_ <b>_ὦσι_</b> "they have been released" (subjunctive)
 * _λελυκὼς_ <b>_ἴσθι_</b> "loose"
 
 
