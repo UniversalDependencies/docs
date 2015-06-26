@@ -18,12 +18,11 @@ The attributive adjective directly modifies a nominal (Smyth 1920: <a href="http
 
 ### Predicative adjective
 
-The predicative adjective depends on the copula or a copular verb (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>). Note that there are pecularities concerning the position of the attributive adjectiv
+The predicative adjective depends on the copula or a copular verb (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1040&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">275</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1062&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">278</a>). Note that there are pecularities concerning the position of the attributive adjective (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1168&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">295</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1183&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">297</a>).
 
 #### Examples
 
-* _ὁ <b>_δίκαιος_</b> ἀνήρ_  "the just man" 
-
+* _ἡ δὲ χάρις_ <b>_ἄδηλος_</b> _γεγένηται_ "the favour has been concealed" Aes. 3.233.
 
 
 ### References
