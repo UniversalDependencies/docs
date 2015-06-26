@@ -11,8 +11,13 @@ The term "determiner" is not employed in traditional grammars for Ancient Greek.
 ### Examples
 
 * article: ὁ 
-* demonstrative pronouns used adjectively: ἐκεῖνος, οὗτος, ὅδε, αὐτός, τοσόσδε, etc.
-* possessive pronouns used adjectively: ἐμός, σός, etc.
-* interrogative pronouns used adjectively: πότερος, etc.
-* relative pronouns used adjectively: ὅς
-* indefinite pronouns used adjectively: ἄλλος, πᾶς, etc.
+* demonstrative pronouns used adjectively: _ἐκεῖνος_, _οὗτος_, _ὅδε_, _αὐτός_, _τοσόσδε_, _etc._
+* possessive pronouns used adjectively: _ἐμός_, _σός_, _etc._
+* interrogative pronouns used adjectively: _πότερος_, _etc._
+* relative pronouns used adjectively: _ὅς_
+* indefinite pronouns used adjectively: _ἄλλος, πᾶς, etc._
+
+### References
+
+Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>; 
+<a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
