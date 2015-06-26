@@ -4,5 +4,11 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+### Definition
+
+Interjection is an invariable word which is typically used in exclamations to express joy, pain, and etc.
+
+#### Examples
+
+* ὦ "oh"
+* ἀμήν "verily"
