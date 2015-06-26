@@ -14,4 +14,4 @@ Syntactically, adverbs modify verbs, adjectives, or other adverbs. Adverbs have 
 
 * <b>_σοφῶς_</b> "wisely"
 * <b>_ὁμόσε_</b> "to the same place"
-* <b>_πῶς_</b> how?
+* <b>_πῶς_</b> "how?"
