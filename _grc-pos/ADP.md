@@ -14,11 +14,9 @@ A list of prepositions and an overview on their functions can be found in Smyth 
 
 #### Examples
 
-<b>_ἀπὸ_</b> _θαλάσσης_ "from the sea" (T. 1.7)
-
-<b>_δι(ά)᾽_</b> _ὤμου_ "through (the) shoulder" (Il. 4.481)
-
-<b>_περὶ_</b> _πατρίδος_ "for (the) country" (T. 6.69)
+<b>_ἀπὸ_</b> _θαλάσσης_ "from the sea" (T. 1.7) <br/>
+<b>_δι(ά)᾽_</b> _ὤμου_ "through (the) shoulder" (Il. 4.481) <br/>
+<b>_περὶ_</b> _πατρίδος_ "for (the) country" (T. 6.69) <br/>
 
 
 ### Postpositions
