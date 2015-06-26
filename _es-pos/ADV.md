@@ -19,6 +19,5 @@ There is a closed subclass of _pronominal adverbs_ that refer to circumstances i
 - _arriba, abajo_ "up, down"
 - interrogative or exclamative adverbs: _dónde, cuándo, cómo, por qué_ "where, when, how, why
 - demonstrative adverbs: _aquí, allí, ahora, después_ "here, there, now, then"
-- indefinite adverbs: _algo_ "something"
 - totality adverbs: _siempre_ "always"
-- negative adverbs: _never, nothing_ "nunca, nada"
+- negative adverbs: _nunca_ "never"
