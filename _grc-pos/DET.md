@@ -4,11 +4,11 @@ title: 'DET'
 shortdef: 'determiner'
 ---
 
-#### Definition
+### Definition
 
 The term "determiner" is not employed in traditional grammars for Ancient Greek. In accordance with the UD guidelines, this category can subsume in Ancient Greek the following categories (for a list see Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+325&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">90</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+340&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">89</a>):
 
-### Examples
+#### Examples
 
 * article: _ὁ_ 
 * demonstrative pronouns used adjectively: _ἐκεῖνος_, _οὗτος_, _ὅδε_, _αὐτός_, _τοσόσδε_, _etc._
