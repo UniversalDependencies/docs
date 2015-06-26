@@ -6,17 +6,15 @@ shortdef: 'adjective'
 
 ### Definition
 
-Adjectives are words that typically modify nouns and specify their properties or attributes. In Spanish, adjectives normally follow the noun, as in
+Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
-_La casa <b>amarilla</b> está a la derecha._ "The yellow house is on the right side."
+_El coche es <b>verde</b>._ "The car is green."
 
-Although sometimes they may also precede the noun, as in
+In Spanish, adjectives normally follow the noun, e.g. _La casa <b>amarilla</b>_ "The yellow house", although sometimes they may also precede the noun, e.g. _La <b>blanca</b> nieve_ "The white snow".
 
-_La <b>blanca</b> nieve._ "The white snow."
+Adjectives in Spanish agree in number and gender with the noun they modify, e.g. _la casa <b>amarilla</b>_ (femenine singular), _las casas <b>amarillas</b>_ (femenine plural).
 
-Adjectives in Spanish agree in number and gender with the noun they modify, e.g. _la casa amarilla_ (femenine singular), _las casas amarillas_ (femenine plural).
-
-The class of adjectives in Spanish UD also includes ordinal numbers and participial adjectives, both behaving as adjectives morphologically and syntactically.
+The class of adjectives in Spanish UD also includes _ordinal numbers_ and _participial adjectives_, both behaving as adjectives morphologically and syntactically. Note that _participles_ are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either [VERB]() or ADJ.
 
 To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
 
