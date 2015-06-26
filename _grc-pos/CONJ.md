@@ -4,5 +4,12 @@ title: 'CONJ'
 shortdef: 'coordinating conjunction'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `CONJ`.
+#### Definition
+
+Conjunctions are words that connect two constituents without subodination. In Ancient Greek some conjunctions can also function as adverbs.
+
+### Examples
+
+* καί "and"
+* τε "and"
+* ἀλλά "but"
