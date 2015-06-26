@@ -12,3 +12,11 @@ Adjectives typically modify nouns. In Irish, the adjective follows the noun, and
 
 * _lacha_ <b>_bhuí_</b>  "yellow ducks"   
 * _obair <b>theicniúil</b>_  "technical work"   
+
+
+
+
+
+
+
+
