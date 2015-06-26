@@ -6,9 +6,9 @@ shortdef: 'interjection'
 
 ### Definition
 
-Interjection is an invariable word which is typically used in exclamations to express joy, pain, and etc.
+Interjection is an invariable word which is typically used in exclamations to express joy, pain, etc.
 
 #### Examples
 
-* ὦ "oh"
-* ἀμήν "verily"
+* _ὦ_ "oh"
+* _ἀμήν_ "verily"
