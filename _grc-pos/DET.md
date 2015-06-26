@@ -10,7 +10,7 @@ The term "determiner" is not employed in traditional grammars for Ancient Greek.
 
 ### Examples
 
-* article: ὁ 
+* article: _ὁ_ 
 * demonstrative pronouns used adjectively: _ἐκεῖνος_, _οὗτος_, _ὅδε_, _αὐτός_, _τοσόσδε_, _etc._
 * possessive pronouns used adjectively: _ἐμός_, _σός_, _etc._
 * interrogative pronouns used adjectively: _πότερος_, _etc._
