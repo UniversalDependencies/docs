@@ -6,7 +6,7 @@ shortdef: 'adposition'
 
 ### Definition
 
-Adposition is a cover term to include both prepositions and postpositions. in Ancient Greek most adpositions are prepositions. Note that adpositions can also, especially in Homeric poetry, function as adverbs; it is sometimes very hard to decide whether they are adverbs or adpostions.
+Adposition is a cover term to include both prepositions and postpositions. in Ancient Greek most adpositions are prepositions. Adpositions can also, especially in Homeric poetry, function as adverbs: it is sometimes very hard to decide whether they are adverbs or adpostions.
 
 ### Prepositions
 
