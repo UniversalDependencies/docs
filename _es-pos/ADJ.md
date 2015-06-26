@@ -14,7 +14,7 @@ In Spanish, adjectives normally follow the noun, e.g. _La casa <b>amarilla</b>_ 
 
 Adjectives in Spanish agree in number and gender with the noun they modify, e.g. _la casa <b>amarilla</b>_ (femenine singular), _las casas <b>amarillas</b>_ (femenine plural).
 
-The class of adjectives in Spanish UD also includes _ordinal numbers_ and _participial adjectives_, both behaving as adjectives morphologically and syntactically. Note that _participles_ are word forms that may share properties and usage of adjectives and verbs. Depending on language and context, they may be classified as either [VERB]() or ADJ.
+The class of adjectives in Spanish UD also includes _ordinal numbers_ and _participial adjectives_, both behaving as adjectives morphologically and syntactically. Note that _participles_ are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or ADJ.
 
 To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
 
