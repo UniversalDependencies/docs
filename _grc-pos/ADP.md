@@ -21,7 +21,7 @@ A list of prepositions and an overview on their functions can be found in Smyth 
 
 ### Postpositions
 
-In antiquity postpositions were considered to be prepositions which can also in some genre/author appear after their dependent: this is known as an example of anastrophe (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+175&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">40</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+175&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">41</a>; note that accent in dissyllabic prepositions is shifted back). Postpositions especially - but not exclusively - occur in poetry.
+In antiquity postpositions were considered to be prepositions which can also in some genre/author appear after their dependents: this is known as an example of anastrophe (Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+175&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">40</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+175&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">41</a>; note that accent in dissyllabic prepositions is shifted back). Postpositions especially - but not exclusively - occur in poetry.
 
 #### Examples
 
