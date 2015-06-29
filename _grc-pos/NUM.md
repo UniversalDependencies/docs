@@ -12,9 +12,9 @@ In accordance with the UD guidelines, only cardinal numbers are tagged as NUM, w
 
 #### Examples
 
-* 	τρεῖς, τρία 'three'
-* 	πεντεκαίδεκα 'fifteen'
-* 	ὀκτακόσιοι 'eighty'
+* 	τρεῖς, τρία "three"
+* 	πεντεκαίδεκα "fifteen"
+* 	ὀκτακόσιοι "eighty"
 
 ### References
 
