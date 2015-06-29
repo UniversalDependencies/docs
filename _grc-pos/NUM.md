@@ -14,7 +14,7 @@ In accordance with the UD guidelines, only cardinal numbers are tagged as NUM, w
 
 * 	τρεῖς, τρία 'three'
 * 	πεντεκαίδεκα 'fifteen'
-* 	ὀκτακόσιοι 'eigthy'
+* 	ὀκτακόσιοι 'eighty'
 
 ### References
 
