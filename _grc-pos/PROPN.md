@@ -4,5 +4,13 @@ title: 'PROPN'
 shortdef: 'proper noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PROPN`.
+### Definition
+
+A proper noun is a noun referring to a (more or less) unique object, such a person or a country.
+
+#### Examples
+
+* <b>_Ἀθῆναι_</b> "Athens"
+* <b>_Δημοσθένης_</b> "Demosthenes"
+
+
