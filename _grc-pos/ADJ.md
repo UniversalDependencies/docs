@@ -14,7 +14,7 @@ The attributive adjective directly modifies a nominal (Smyth 1920: <a href="http
 
 #### Examples
 
-* _ὁ <b>_δίκαιος_</b> ἀνήρ_  "the just man" 
+* _ὁ_ <b>_δίκαιος_</b> _ἀνήρ_  "the just man" 
 
 ### Predicative adjective
 
