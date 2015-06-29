@@ -98,8 +98,8 @@ documented in proper sections later.
   or not to be" (quoting the foreign expressions is common, but not
   necessarily a standard practice).
 
-  **Suggestion:** `X`, for the case of verb derivation, we should not
-  keep the derivation history, so these will show up as verbs.
+  **Suggestion:** `X`, for the case of verb derivation, we don not
+  need to keep the derivation history, so derived verbs will show up as verbs.
 
 * A particular class of complex "pronominals" are formed by possessive
   suffixes attached to adjectives, determiners and numerals. For
@@ -141,27 +141,12 @@ documented in proper sections later.
 
 ## Features
 
-* Except for personal pronouns, nominals in Turkish does have a clear
-  `Person` marking for subject-predicate agreement. When they are
-  in subject position, these nouns agree with 3rd person singular and
-  plural predicates.
-  
-  METU-Sabancı treebank marks all nominals for person/number unmarked
-  as `Person=3|Number=Sing`.
+* With the same set of TAM markers, tense/aspect/modality changes 
+  in subordinated predicates.
 
-  This marking crops up in many places where it is at best
-  unnecessary, for example,
-  ```
-  (Biz) doktor          -uz
-  We    doctor.P3.SG    cop.PRES.P1.PL
-  `We are the doctors.'
-  ```
-  Although one should look at the agreement markers on the copula,
-  rather than the noun, it is easy to confuse them, and it has no use.
-
-  **Suggestion:** never mark for `Person` unless there is an explicit
-  marker (only for pronouns). `Number` is marked on all nouns, and it
-  defaults to `Sing` for nouns without a plural marker.
+  **Suggestion:** keep the features as they are predicted for the
+  predicates of the non-subordinate clauses (it likely that these
+  could be adjusted automatically).
 
 ## Derivations 
 
