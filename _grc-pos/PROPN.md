@@ -6,7 +6,7 @@ shortdef: 'proper noun'
 
 ### Definition
 
-A proper noun is a noun referring to a (more or less) unique object, such a person or a country.
+A proper noun is a noun referring to a (more or less) unique object, such as a person or a country.
 
 #### Examples
 
