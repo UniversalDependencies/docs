@@ -4,5 +4,8 @@ title: 'NOUN'
 shortdef: 'noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NOUN`.
+#### Definition
+
+A noun can be morphologically defined in Ancient Greek as the PoS inflecting for case, number, and (typically one) gender. Some adjectives might be confused with nouns, they being very often used as substantivized adjectives (e.g., Ἀθηναῖος). In general, the LSJ shuld be used if doubt arises.
+
+###
