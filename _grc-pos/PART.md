@@ -13,7 +13,7 @@ With reference to UD, only those words that do not clearly belong to any other p
 ### Examples 
  * <b>_ἀτάρ_</b> "however"
  * <b>_αὖ_</b> "on the other hand"
- * <b>_δή_</b> 'certainly'
+ * <b>_δή_</b> "certainly"
 
 ### References
 
