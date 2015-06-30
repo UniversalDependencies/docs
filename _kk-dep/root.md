@@ -4,15 +4,15 @@ title:  'root'
 shortdef : 'root'
 ---
 
-The `root` grammatical relation points to the root of the sentence. A fake node "ROOT" is used as the governor. The ROOT node is indexed with "0", since the indexation of real words in the sentence starts at 1. 
+The `root` grammatical relation points to the root of the sentence. A
+fake node `ROOT` is used as the governor.
 
 ~~~ sdparse
-ROOT I love French fries .
-ROOT Айгүл оны ақырын тыңдайды . \n Aygül him carefully searches-for .
-root(ROOT, тыңдайды-4)
+ROOT Азамат ағашқа қарай жүгірді . \n ROOT Azamat tree-to towards ran .
+root(ROOT-1, жүгірді-5)
+nsubj(жүгірді-5, Азамат-2)
+case(ағашқа-3, қарай-4)
+punct(жүгірді-5, .-6)
+nmod(жүгірді-5, ағашқа-3)
 ~~~
 
-~~~ sdparse
-ROOT Айгүл студент болған . \n Aygül student was .
-root(ROOT, студент-2)
-~~~
