@@ -12,25 +12,26 @@ take part in participle constructions.
 
 The full list of auxiliaries is as follows:
 
-* _ал_ "do, make"
-* _баста_ "start"
-* _бер_ ""
-* _біт_ ""
-* _бітір_ ""
-* _бол_ "be"
-* _ет_ ""
-* _жазда_ ""
-* _жат_ ""
-* _жүр_ ""
-* _қал_ ""
-* _кел_ "come"
-* _кет_ ""
-* _көр_ ""
-* _отыр_ ""
-* _сал_ ""
-* _тұр_ "stand"
-* _шық_ ""
+* _ал-_ "do, make"
+* _баста-_ "start"
+* _бер-_ ""
+* _біт-_ ""
+* _бітір-_ ""
+* _бол-_ "be"
+* _ет-_ ""
+* _жазда-_ ""
+* _жат-_ ""
+* _жүр-_ ""
+* _қал-_ ""
+* _кел-_ "come"
+* _кет-_ ""
+* _көр-_ "see"
+* _отыр-_ ""
+* _сал-_ ""
+* _тұр-_ "stand"
+* _шық-_ ""
 
+Note: Some of these are ambiguous with lexical verbs.
 
 #### Examples
 

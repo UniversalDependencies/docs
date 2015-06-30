@@ -7,7 +7,7 @@ shortdef : 'compound'
 `compound` is one of the three UD relations UD for compounding,
 together with [mwe]() and [name]().
 
-Nouns should modify the next noun in the compound in order to respect the branching structure.
+Nouns should modify appropriate noun in the compound in order to respect the branching structure.
 
 Most uses of attr will be tagged with compound.
 
