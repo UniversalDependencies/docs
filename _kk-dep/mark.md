@@ -12,7 +12,12 @@ The subordinating conjunctions in Kazakh are:
 * _егер_ "if"
 * _өйткені_ "because"
 
-<!-- TODO: example with егер -->
+~~~ sdparse
+Егер көп жаңбыр жауса , түсімнің бәрі өледі . \n If much rain rain-CND , crop's all die-will
+mark(жауса-4, Егер-1)
+det(жаңбыр-3, көп-2)
+subj(жауса-4, жаңбыр-3)
+~~~
 
 The dependency relation `mark` is also used to identify the
 *complementiser* appearing in most clausal complements, where the head
