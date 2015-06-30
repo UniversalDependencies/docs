@@ -87,7 +87,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
-*  <a href="index.html#language-de">Ancient Greek</a>: Giuseppe G. A. Celano
+* <a href="index.html#language-de">Ancient Greek</a>: Giuseppe G. A. Celano
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-zh">Chinese</a>: Rob Voigt
@@ -105,7 +105,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-id">Indonesian</a>: Ryan McDonald
 * <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
-*  <a href="index.html#language-de">Latin</a>: Giuseppe G. A. Celano
+* <a href="index.html#language-de">Latin</a>: Giuseppe G. A. Celano
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
