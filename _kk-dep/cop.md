@@ -48,14 +48,14 @@ cop(суық-4, еді-5)
 Use of "бол" without a predicate:
 
 ~~~ sdparse
-Эрте заманда Эрназар деген киши болуптур . \n Early time-in Ernazar saying person was .
+Эрте заманда Эрназар деген киши болуптур . \n Early time-in Ernazar called person was .
 
 ~~~
 
 Use of "бол" without subject or predicate:
 
 ~~~ sdparse 
-Шылым шегуге болмайды . \n 
+Шылым шегуге болмайды . \n Cigarette smoking is-allowed-not .
 
 ~~~
 
