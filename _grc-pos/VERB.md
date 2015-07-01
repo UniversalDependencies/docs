@@ -15,6 +15,10 @@ A treatment on verb inflection can be found in Smyth 1920: <a href="http://www.p
 * <br>_φανεῖ_</br> "he shows/will show"
 * <br>_διδόμενος_</br> "given"
 
+* _ὦ_ "oh"
+* _ἀμήν_ "verily"
+
+
 
 ### References
 
