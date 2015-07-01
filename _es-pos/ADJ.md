@@ -6,34 +6,22 @@ shortdef: 'adjective'
 
 ### Definition
 
-Adjectives are words that typically modify nouns and specify their
-properties or attributes. They may also function as predicates, as in
+Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
 _El coche es <b>verde</b>._ "The car is green."
 
-The `ADJ` tag is intended for ordinary adjectives only. See [DET]()
-for determiners and [NUM]() for numerals.
+In Spanish, adjectives normally follow the noun, e.g. _La casa <b>amarilla</b>_ "The yellow house", although sometimes they may also precede the noun, e.g. _La <b>blanca</b> nieve_ "The white snow".
 
-Note that there are words that may be traditionally called numerals in
-some languages (e.g. Czech) but they are treated as adjectives in our
-universal tagging scheme. In particular, _ordinal numerals_ (more
-precisely _adjectival_ ordinal numerals, because Czech has also
-adverbial ones) behave both morphologically and syntactically as
-adjectives and are tagged `ADJ`.
+Adjectives in Spanish agree in number and gender with the noun they modify, e.g. _la casa <b>amarilla</b>_ (femenine singular), _las casas <b>amarillas</b>_ (femenine plural).
 
-Note that _participles_ are word forms that may share properties and
-usage of adjectives and verbs. Depending on language and context, they
-may be classified as either [VERB]() or `ADJ`.
+The class of adjectives in Spanish UD also includes _ordinal numbers_ and _participial adjectives_, both behaving as adjectives morphologically and syntactically. Note that _participles_ are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or ADJ.
+
+To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
 
 ### Examples
 
-- _big_
-- _old_
-- _green_
-- _incomprehensible_
-- _first, second, third_
-
-### References
-
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm)
-- [Wikipedia](http://en.wikipedia.org/wiki/Adjective)
+* _grande_ "big"
+* _viejo_ "old"
+* _verde_ "green"
+* _incomprensible_ “incomprehensible”
+* _primero_ "first", _segundo_ "second", _tercero_ "third"

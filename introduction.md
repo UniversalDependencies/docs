@@ -87,10 +87,14 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
+* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug
+* <a href="index.html#language-ar">Arabic</a>: Nizar Habash
+* <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
 * <a href="index.html#language-zh">Chinese</a>: Rob Voigt
 * <a href="index.html#language-hr">Croatian</a>: Željko Agić, Nikola Ljubešić
+* <a href="index.html#language-cu">Church Slavonic</a>: Dag Haug
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-da">Danish</a>: Barbara Plank, Héctor Martínez Alonso, Anders Trærup Johannsen
 * <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
@@ -104,13 +108,16 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-ga">Irish</a>: Teresa Lynn, Jennifer Foster
 * <a href="index.html#language-id">Indonesian</a>: Ryan McDonald
 * <a href="index.html#language-it">Italian</a>: Maria Simi, Simonetta Montemagni, Alessandro Lenci, Cristina Bosco
+* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
+* <a href="index.html#language-kk">Kazakh</a>: Aibek Makazhanov, Francis Tyers, Jonathan North
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
 * <a href="index.html#language-es">Spanish</a>: Ryan McDonald
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
+* <a href="index.html#language-tr">Turkish</a>: Cagri Coltekin, Francis Tyers, Jonathan North
 
 ## References
 
