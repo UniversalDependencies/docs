@@ -81,7 +81,7 @@ documented in proper sections later.
   head of the postpositional phrase. This is somewhat similar to 
   the noun phrase analysis).
 
-  **No suggestion yet**
+  **Suggestion:** (tentative) follow METU-Sabancı analysis.
 
 * UD does not seem to have a clear way of marking onomatopoeia.
   In most cases `X` seems to be a good option.
