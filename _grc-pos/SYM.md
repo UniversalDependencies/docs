@@ -4,5 +4,12 @@ title: 'SYM'
 shortdef: 'symbol'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `SYM`.
+### Definition
+
+Symbol is used for a diacritic not belonging to punctuation, such as marks used in critical editions
+
+#### Examples
+
+* <b>_<_</b>
+* <b>_[_</b>
+
