@@ -11,14 +11,9 @@ A treatment on verb inflection can be found in Smyth 1920: <a href="http://www.p
 
 #### Examples
 
-* <br>_ἐποίησα_</br> "I made"
-* <br>_φανεῖ_</br> "he shows/will show"
-* <br>_διδόμενος_</br> "given"
-
-* _ὦ_ "oh"
-* _ἀμήν_ "verily"
-
-
+* <b>_ἐποίησα_</b> "I made"
+* <b>_φανεῖ_</b> "he shows/will show"
+* <b>_διδόμενος_</b> "given"
 
 ### References
 
