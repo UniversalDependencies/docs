@@ -45,6 +45,13 @@ punct(көрдім-4, .-5)
 
 Conditional phrases with 'болса':
 
+~~~ sdparse 
+Құлдық пен құл саудасына , қандай түрде болса да , тыйым салынады . \n Slavery and slave trade , whichever form-in may-be also , prohibition is-placed-on .
+acl(түрде-7, болса-8)
+advmod(болса-8, да-9)
+
+
+~~~
 
 Secondary predication:
 
