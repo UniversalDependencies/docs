@@ -26,11 +26,27 @@ documented in proper sections later.
   ```
 
   Coordination is only possible and more likely when the -lA suffix is
-  between the coordinated noun. But, case-marking is still possible
-  in this case (e.g., *Diş fırçam-la kardeşim lavaboyu temizlemiş*
-  'my sister/brother cleaned the sink with my toothbrush').
+  between the coordinated noun. Case-marking is possible in both
+  configurations (e.g., *Diş fırçam-la kardeşim lavaboyu temizlemiş*
+  'apparently my sister/brother cleaned the sink with my toothbrush').
+  In some cases it is difficult, or impossible without additional
+  context to disambiguate, *Ali-yle Ayşe evlendi* can mean 'Ali and
+  Ayşe got married' but also 'Ayşe (but not Leyla) married Ali'.
+  In the first case the relation is `coord` (without a `cc`) and in
+  the second `nmod`.
 
-  **Question:** should we split off -lA when used as a conjunction?
+* Modal adverbs like *acaba* 'I wonder', *bakalım* 'let's see',
+  *yoksa* 'if not' are linked to the main predicate using `discourse`
+  relation.
+
+  The relation should also cover *yani*, *işte*, *şey*.
+
+* Spelled out numbers
+
+In Turkish corpora numbers spelled out like *iki yüz elli yedi* '257'
+is common. Unlike expressions like *üç milyon* '3 millions', these
+numbers does not have a clear structure. For now we mark everything
+with `mwe` with a flat, head-final structure.
 
 ## POS tagging related
 
@@ -199,3 +215,6 @@ documented in proper sections later.
   **Suggestion:** analyze these as normal noun (phrase) but mark with
   `nmod:tmod`.
    
+* **-lA** suffix either functions as a case marker (instrumental/commutative) or as a coordinating suffix. It may be tempting to split the suffix when it is used as a conjunction, but we do not split it. The dependency relation should reveal the function of the suffix.
+
+  **Suggestion:** do not split in any case.
