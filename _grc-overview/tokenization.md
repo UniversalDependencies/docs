@@ -21,4 +21,4 @@ Sentence split is based on the punctuation found in the original edited text, wh
 
 In the standard editorial practice, four punctuation marks can be found: comma (, encoded as U+002C "COMMA"), period (. encoded as U+002E "FULL STOP"), the point above the line (corresponding in function to the English colon and semicolon; it is encoded as ·, i.e., U+00B7 "MIDDLE DOT"), and interrogation mark (; encoded as U+003B "SEMICOLON"). 
 
-All of these, except the comma, are taken to mark the end of a sentence.  
+All of these, except the comma, are taken to mark the end of a sentence. If a sentence is particularly long, the editor of a digital text can sometimes decide to slipt such a sentence into two or more sentences, regarless of the punctuation of the original text.
