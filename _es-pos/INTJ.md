@@ -9,7 +9,7 @@ shortdef: 'interjection'
 An interjection is a word that is used most often as an exclamation or part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the
 language.
 
-Note that words primarily belonging to another part of speech retains their original category when used in exclamations. For example, in the phrase _¡madre mía!_, _madre_ is a [NOUN]() and _mía_ is a [PRON]() a even in exclamatory uses.
+Note that words primarily belonging to another part of speech retains their original category when used in exclamations. For example, in the phrase _¡madre mía!_, _madre_ is a [NOUN]() and _mía_ is a [PRON]() even in exclamatory uses.
 
 As a special case of interjections, we recognize feedback particles such as _sí_, _no_, _ya_, etc. Note that uses of _sí_, _no_, _ya_, etc. syntactically related to other accompanying expressions in a sentence are recognized as [ADV]()
 
