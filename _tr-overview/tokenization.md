@@ -39,7 +39,36 @@ METU-Sabancı treebank makes excessive use of IGs. In UD, we limit the suffixes/
 
 #### -ki 
 
-(see above example for the reason)
+The suffix -ki attaches to an genitive- or locative-marked noun and derives adjectivals. The adjectival, like any adjective in Turkish, can act as a (pro)noun. We treat the adjective and noun usage separately.
+
+#### Adjective case
+
+In this usage, *-ki*'s function is similar to English 'that' or 'which',
+*Evde<b>ki</b> kitap* 'the book <b>that</b> is at home'.
+
+In this usage, we mark the IG with *-ki* as `ADJ`. The head of the word in this case is the `NOUN`, and the *-ki* is attached to it with the relation `mark` (Q: is that OK, since head is not clausal. And, should we subtype the relation?).
+
+~~~~ sdparse
+Evde -ki kitap
+nmod(kitap, evde)
+mark(evde, ki)
+~~~~
+
+#### Noun case
+
+In this case *-ki* refers to the person/thing that is defined by the stem,
+*evdeki* 'the one at home', *annem-ler-in-ki* 'the one that belongs to my parents'.
+In this usage, we mark the IG with *-ki* as noun (without the intervening
+adjective IG). In this case the head is the IG with  *-ki*, and
+relation is `nmod`. We do not sub-categorize this relation, but other
+`nmod` subcategories apply.
+
+~~~~ sdparse
+Akşam yedide -ki  altyazılı \n the one at 7pm is with subtitles
+nmod(yedide, akşam)
+nmod:tmod(-ki, yedide)
+nsubj(altyazılı, -ki)
+~~~~
 
 #### Copular markers 
 
@@ -51,7 +80,7 @@ car-LOC -is.PAST.1PL
 I was in the car.
 ```
 Note that the `Number` feature on the noun is `Sing`, while the
-predicate agrees with a `Plur` subject. If both IG's are combined
+predicate agrees with a `Plur` subject. If both IGs are combined
 resulting feature values would be confusing. Furthermore, in
 combination with the plural markers, we end up with situations with
 multiple subjects (see below for an example).
@@ -78,15 +107,15 @@ It was (aparently) one of those I took home yesterday.
 Now, not only that all sorts of feature conflicts between two predicates and the intervening nominal are possible, 
 the two predicates have different subjects.
 
-Spliting these suffixes also makes syntactic relation parallel to other languages, where the word that causes the subodintaion marked with relation `mark`.
+Splitting these suffixes also makes syntactic relation parallel to other languages, where the word that causes the subordination marked with relation `mark`.
 
 ### Some other (derivational) suffixes
 
-Some (derivational) suffixes in Turksih scope over complete phrases/clauses rahter than a single word.
-Not spliting these suffixes results in dependencies relating wrong words.
+Some (derivational) suffixes in Turkish scope over complete phrases/clauses rather than a single word.
+Not splitting these suffixes results in dependencies relating wrong words.
 The following lists the suffixes that should be split.
 
-Some of these suffixes have multiple functions/meaningns,
+Some of these suffixes have multiple functions/meanings,
 and in some these functions it splitting may not be necessary.
 However, this decision is generally difficult to make.
 We always split the suffixes listed below,
@@ -97,7 +126,7 @@ but not in *bir kitap<b>lık</b> aldım* 'I bought a book shelf'.
 
 ##### The suffix -lI
 
-This is a productive derivational suffix that derives adjectives and nouns from nouns. It has multiple functions. In some of these functions we can perfectly do without splitting, but for the sake of ease of annotation we split all, except clearly lexiaclized cases, e.g., *akıl<b>lı</b>* 'mind-lI = clever', *köy<b>lü</b>* 'village-lI = villager', *üç-lü* 'three-lI = trio'.
+This is a productive derivational suffix that derives adjectives and nouns from nouns. It has multiple functions. In some of these functions we can perfectly do without splitting, but for the sake of ease of annotation we split all, except clearly lexicalized cases, e.g., *akıl<b>lı</b>* 'mind-lI = clever', *köy<b>lü</b>* 'village-lI = villager', *üç-lü* 'three-lI = trio'.
 
 *üç yatak odalı ev* 'a/the house with three bedrooms'.
 Note that the correct bracketing is *[üç [yatak oda]]-lı ev* not 
@@ -130,6 +159,18 @@ Repeating the example above: *çantamda üç kitap<b>lık</b> yer var* 'I have
 Suffix -DIr has a number of different functions, one of which is
 deriving adverbials from time expressions, e.g., *yıllar-dır*
 'for/since years'. If the time expression is modified, this
-modification is local. For exmaple *üç yıl-dır* 'for/since three
+modification is local. For example *üç yıl-dır* 'for/since three
 years' be analyzed as *[üç yıl]-dır* 'for [three years]'.
 
+
+### What we do not split
+
+As much as what to split, it may be useful to know what not to.
+
+#### Zero derivation from an ADJ to NOUN
+
+In Turkish any adjective functions a (pro)noun referring to a thing
+with the property described by the adjective, *<b>Mavi</b>-yi ver.* 'hand me
+<b>the blue one</b>'. This is typically analyzed as adjective becoming
+a noun with a zero derivation. We do not introduce multiple IGs in
+this case, we just mark the adjective as a noun. 

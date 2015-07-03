@@ -11,7 +11,7 @@ documented in proper sections later.
 
 ## Some special constructions
 
-* In some chases when noun phrases are coordinated with suffix *-lA*
+* In some cases when noun phrases are coordinated with suffix *-lA*
   it is not clear whether it is a conjunction or simply
   'commutative/instrumental' case marking.
   
@@ -33,7 +33,40 @@ documented in proper sections later.
   context to disambiguate, *Ali-yle Ayşe evlendi* can mean 'Ali and
   Ayşe got married' but also 'Ayşe (but not Leyla) married Ali'.
   In the first case the relation is `coord` (without a `cc`) and in
-  the second `nmod`.
+  the second `nmod` modifying either the predicate or another noun
+  phrase. If the *-lA* phrase modifies the subject (and it is clearly
+  not a conjunction), we always attach it to the predicate. This
+  avoids `remnant` relations where subject is not expressed in the sentence (see below for other missing heads).
+  
+  Note that as in English PP attachment ambiguity, the `nmod` case can be ambiguous:
+
+  ```
+  Ali Ahmet'i    teleskopla  gördü.
+  Ali Ahmet.ACC  telecope-lA see.
+  `Ali saw Ahmet with a telescope'.
+  ```
+  With the right context, it is possible that the noun modified with 
+  the phrase with *-lA* is omitted in the sentence.
+
+  ```
+  Dün       bir arkadaşı-yla   gördüm.
+  Yesterday a   friend.P3S-lA  see.PAST.1SG
+  `I saw (him/her) with a friend (of him/her)'.
+  ```
+  In this case, we connect the phrase with *-lA* to the predicate with `remnant` relation.
+
+  In case of coordination, if the second conjunct is a pronoun, it can
+  be omitted. 
+
+  ```
+  Annem-le      eve         gittik.
+  My mother-lA  house.DAT   go.PAST.1PL
+  'My mother and I went home'/'I went home with my mother'
+  ```
+  *-lA* in these cases is almost always ambiguous between a case
+  marker and conjunction. If the second component is missing, and the context
+  does not clearly indicate a conjunction, we use `nmod`. Otherwise, we
+  use `remnant`.
 
 * Modal adverbs like *acaba* 'I wonder', *bakalım* 'let's see',
   *yoksa* 'if not' are linked to the main predicate using `discourse`
@@ -41,12 +74,6 @@ documented in proper sections later.
 
   The relation should also cover *yani*, *işte*, *şey*.
 
-* Spelled out numbers
-
-In Turkish corpora numbers spelled out like *iki yüz elli yedi* '257'
-is common. Unlike expressions like *üç milyon* '3 millions', these
-numbers does not have a clear structure. For now we mark everything
-with `mwe` with a flat, head-final structure.
 
 ## POS tagging related
 
