@@ -163,6 +163,24 @@ documented in proper sections later.
   **Suggestion:** (tentative) Follow METU-Sabancı analysis, unless the
   resulting pronoun is a lexicalized one.
 
+
+## Features
+
+* With the same set of TAM markers, tense/aspect/modality changes 
+  in subordinated predicates.
+
+  **Suggestion:** keep the features as they are predicted for the
+  predicates of the non-subordinate clauses (it likely that these
+  could be adjusted automatically).
+
+## Notes on annotation of specific words
+
+* *eğer* an *şayet* signal a conditional clause, but they are
+  redundant since they always coexist with the compulsoray mood
+  marker on conditional clauses. We mark them as `SCONJ` (following
+  TRmorph), but attach to the head of the conditional clause using the
+  `discourse` relation.
+
 * The words *var* '(something) exists' and *yok* '(something) does not exist' 
   are used for formimg "existential sentences". In this function, these words
   behave like nominal predicates. Although they do not function like
@@ -182,14 +200,33 @@ documented in proper sections later.
   This is in line with other cases of negation in Turkish, but it may
   break the parallel between English (and other languages).
 
-## Features
+* Clitic *dA* (*de/da*)
+  We attach it to the word/phrase that it modifies (typically the preceding
+  word), and mark as `advmod:emph`, which seems to be used in Czech.
 
-* With the same set of TAM markers, tense/aspect/modality changes 
-  in subordinated predicates.
+  If it is used in a construction like *Ahmet de Ali de aradı* 'Ahmet
+  and Ali both called', we still attach the clitic to the preceding
+  word, but mark coordination without a conjunction.
 
-  **Suggestion:** keep the features as they are predicted for the
-  predicates of the non-subordinate clauses (it likely that these
-  could be adjusted automatically).
+  A infrequent, but interesting usage of *dA* is with*
+  compound verb forms including suffix *-abil*. A word/utterance like
+  *ara-yabilirim de* 'I may also call' can alternatively be expressed
+  like *araya da bilirim*. Note that the first word include part of
+  the suffix '-(y)Abil', and while the last word contains related free
+  morpheme *bil-* 'to know' the expression has nothing to do with the verb
+  *bil-*. In this case, we analyze second part of the verb as an
+  auxiliary, and attach *dA* to the first part.
+
+~~~~ sdparse
+araya da bilirim \n I could call too.
+advmod:emph(araya, da)
+aux(araya, bilirim)
+~~~~
+
+* Clitic *ki*
+
+    Either subordinating conjunction or a discourse connective (mark
+    with `advmod:emph` or `discourse`). (**expand this**)
 
 ## Derivations 
 

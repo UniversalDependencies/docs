@@ -6,6 +6,66 @@ permalink: tr/overview/specific-syntax.html
 
 # Specific constructions
 
+## Existential sentences
+
+In Turkish, existential sentences are (primarily) formed using *var* 'there is/are' and its negative counterpart *yok*. Although they do not exactly function like adjectives, following METU-Sabancı treebank, we mark them as `ADJ` and treat them like other nominal that requires a copular suffix to function as predicates.  Note that, in the most common use, the 3rd person singular present copular marker is null. In general, we indicate this wit an additional IG, which marks the "predicatehood" of the verb, and also is in parallel with 
+
+We analyze this constructions like nominal predicates. *var* and *yok*
+act as the head of the predicate, the thing that "exists" is the
+subject:
+
+~~~~ sdparse
+Evde bira var -0 . \n There is beer at home.
+cop(var, -0)
+nsubj(var, beer)
+nmod(var, evde)
+~~~~
+
+The same construction is used for expressing someone 'have/has' something or not. In this case, we mark the possessor with `nmod:own` (not to be confused with ``nmod:poss` used for nominal compounds with possessive marking).
+
+~~~~ sdparse
+Benim hiç param yok -tu . \n I did not have any money (lit: there was no money of mine)
+cop(yok, -tu)
+nsubj(yok, param)
+advmod(yok, hiç)
+nmod:own(yok, benim)
+~~~~
+
+Note that when possessor is not expressed, whether the sentence is an
+existential ('there is/are') or a possession statement ('something
+has') can be understood from the possessive marking (or lack of it) on
+the subject. (**Q: should this be indicated by the dependency
+relations**)
+
+In subordinate clauses the copula *ol-* is used in existential predicates. In this case, we mark *ol-* as the head of the subordinate (existential) clause.
+
+~~~~ sdparse
+Evde ekmek olma -dığını bilmiyordum \n I did not know that there was no bread at home
+nsubj(olma, ekmek)
+nmod(olma, evde)
+mark(olma, -dığını)
+ccomp(bilmiyordum, olma)
+~~~~
+
+~~~~ sdparse
+Ali'nin parası ol -duğu gün \n the day that Ali has/had money
+nsubj(ol, parası)
+nmod:own(ol, Ali'nin)
+mark(ol, -düğü)
+acl(gün, ol)
+~~~~
+
+Besides subordinate clauses, the copula *ol-* can be used in a similar
+way (the meaning is slightly different than the cases where *var* or
+*yok* is used). Again, in these cases, we mark *ol-* as the head of
+the clause.
+
+~~~~ sdparse
+Bunun bir bedeli olur. \n This would have a consequence
+nsubj(olur, bedeli)
+det(bedeli, bir)
+nmod:own(olur, bunun)
+~~~~
 
 ## Noun compounds
 
