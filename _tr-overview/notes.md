@@ -201,12 +201,19 @@ documented in proper sections later.
   break the parallel between English (and other languages).
 
 * Clitic *dA* (*de/da*)
-  We attach it to the word/phrase that it modifies (typically the preceding
-  word), and mark as `advmod:emph`, which seems to be used in Czech.
+  In its common use, *dA* is a discourse connective. In this case, 
+  we mark it as `ADV` and attach it to the word/phrase that it modifies 
+  (typically the preceding word), and mark as `advmod:emph`, which 
+  seems to be used in Czech.
 
-  If it is used in a construction like *Ahmet de Ali de aradı* 'Ahmet
-  and Ali both called', we still attach the clitic to the preceding
-  word, but mark coordination without a conjunction.
+  It also functions as a coordinating conjunctions. If it is used in
+  a construction like *Ahmet de Ali de aradı* 'Ahmet and Ali both
+  called', we still attach the clitic to the preceding word, but mark
+  coordination without a conjunction, in this case the POS tag is
+  `CONJ`. If it is used with the meaning of 'but', e.g., *içerim de,
+  arabayı kim kullanacak?* 'I would/can drink, but (then) who will
+  drive?'. In this case it is connected to head of the conjunction
+  with relation `cc`.
 
   A infrequent, but interesting usage of *dA* is with*
   compound verb forms including suffix *-abil*. A word/utterance like

@@ -97,7 +97,7 @@ yet'. In these cases, the relation is `ccomp` `xcomp`.
 
 **We need more specific guidelines**, or maybe a new relation for marking compounds with subordinate clauses. 
 
-## Question particle
+## Yes/no questions an the question particle
 
 Yes-no questions in Turkish is formed by question particle -mI
 (mı/mi/mu/mü). UD currently does not have a clear way of marking
@@ -111,8 +111,60 @@ likely it is not sufficient/suitable in this case).
 The relation between the main predicate and the question mark is `aux`
 (although we may want to subtype the relation and use `aux:q` in the future).
 
-If the *-mI* is attached to a copula, we chain the relations (the
+(**??**) If the *-mI* is attached to a copula, we chain the relations (the
 question particle is headed by the copula, not the main predicate).
+
+Besides forming general yes/no questions by attaching to a predicate,
+question particle also attaches to the other constituents in a
+sentence. For example,
+
+Declarative sentence
+
+~~~~ sdparse
+Yarın siz Ankara'ya gideceksiniz. \n You will go to Ankara tomorrow.
+~~~~
+
+~~~~ sdparse
+Yarın siz Ankara'ya gidecek misiniz. \n Will you go to Ankara tomorrow?
+~~~~
+
+~~~~ sdparse
+Siz Ankara'ya yarın mı gideceksiniz. \n Will you go to Ankara TOMORROW? 
+~~~~
+
+~~~~ sdparse
+Siz yarın Ankara'ya mı gideceksiniz. \n Will you go TO ANKARA tomorrow?
+~~~~
+
+~~~~ sdparse
+Yarın Ankara'ya siz mi gideceksiniz. \n Will YOU go to Ankara tomorrow?
+~~~~
+
+Although there is a preference to place the question particle and the
+word modifies close to the verb, other word orders are also possible:
+
+~~~~ sdparse
+Yarın siz mi Ankara'ya gideceksiniz. \n Will YOU go to Ankara tomorrow?
+~~~~
+or, 
+~~~~ sdparse
+Siz mi yarın Ankara'ya gideceksiniz. \n Will YOU go to Ankara tomorrow?
+~~~~
+
+In these cases, we attach the question particle to the word/phrase it
+modifies, not to the predicate. Currently, we keep the same POS tag
+and relation label.
+
+Above covers the use of *-mI* as question particle. *-mI* may also be
+used as a subordinating conjunction as in *Okulu bitirdin mi işin
+hazız* 'when/if you finish the school, your job is waiting for you'.
+In this case, we treat it like a `SCONJ` introducing a conditional
+adverbial clause. It is attached to the head of the clause with
+`mark`.
+
+Another use of *-mI* is in emphatic reduplication, such as *güzel mi
+güzel* 'very beautiful', *hızlı mı hızlı* 'very fast'. In these cases
+it is attached to the preceding word with relation `advmod:emph`.
 
 ## Person names and honorifics
 
