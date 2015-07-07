@@ -10,14 +10,6 @@ nominal modifiers and postpositional phrases are similar.
 
 `nmod` is by far the most used relation in UD Kazakh.
 
-*Izafet construction:*
-
-~~~ sdparse
-Дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады . \n Global economic depression Iran-of economy declining threw .
-nmod(экономикасын-5, Иран-4)
-obj(тастады-7, экономикасын-5)
-~~~
-
 *Postpositional phrases:*
 
 ~~~ sdparse
@@ -27,4 +19,17 @@ case(ағашқа-2, қарай-3)
 punct(жүгірді-4, .-5)
 nmod(жүгірді-4, ағашқа-2)
 ~~~
+
+*Izafet construction:*
+
+Genitive nouns in the izafet construction get a special relation, `nmod:poss`, be they indefinite:
+
+~~~ sdparse
+Дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады . \n Global economic depression Iran-of economy declining threw .
+nmod:poss(экономикасын-5, Иран-4)
+obj(тастады-7, экономикасын-5)
+~~~
+
+or definite:
+
 

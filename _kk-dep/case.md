@@ -31,7 +31,7 @@ in English of prepositional constructions like "in front of").
 ~~~ sdparse
 Айгүл бақшаның ішінде ақырын басып жүр . \n Aygül garden-of inside-in quietly walking is .
 nsubj(басып-5, Айгүл-1)
-nmod(ішінде-3, бақшаның-2)
+nmod:poss(ішінде-3, бақшаның-2)
 nmod(басып-5, ішінде-3)
 advmod(басып-5, ақырын-4)
 aux(басып-5, жүр-6)

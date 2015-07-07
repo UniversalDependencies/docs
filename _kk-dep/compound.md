@@ -20,11 +20,11 @@ punct(бола-5, .-7)
 ~~~
 
 Nouns in the izafet construction (e.g. possessive on the final noun) should not get the compound relation,
-they should instead be labelled nmod, e.g.
+they should instead be labelled `nmod:poss`, e.g.
 
 ~~~ sdparse
 Дүниежүзілік экономикалық дағдарыс Иран экономикасын тұралатып тастады . \n Global economic depression Iran-of economy declining threw .
-nmod(экономикасын-5, Иран-4)
+nmod:poss(экономикасын-5, Иран-4)
 obj(тастады-7, экономикасын-5)
 ~~~
 

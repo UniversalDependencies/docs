@@ -29,7 +29,7 @@ Another example:
 Сайттың маңызды екенін түсінбей жатыр . \n Site importance being not-understanding is .
 ccomp(түсінбей-4, маңызды-2)
 cop(маңызды-2, екенін-3)
-nmod(маңызды-2, Сайттың-1)
+nmod:poss(маңызды-2, Сайттың-1)
 aux(түсінбей-4, жатыр-5)
 punct(түсінбей-4, .-6)
 ~~~
