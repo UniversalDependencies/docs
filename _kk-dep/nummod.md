@@ -17,3 +17,9 @@ nmod(ел-9, рет-6)
 amod(ел-9, бесінші-8)
 ~~~
 
+Another example:
+
+~~~ sdparse 
+Баба-атаға да үш күн түнеді . \n Baba-ata-to also three days slept-over .
+nummod(күн-4, үш-3)
+~~~

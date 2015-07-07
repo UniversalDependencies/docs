@@ -17,6 +17,14 @@ dobj(қарап-4, жерді-3)
 aux(қарап-4, жүр-5)
 ~~~
 
+Another example:
+
+~~~ sdparse
+Бұл көрсеткіш 75 пайызды құрайды . \n This indicator 75 percent makes-up-for . 
+dobj(құрайды-5, пайызды-4)
+nummod(пайызды-4, 75-4)
+~~~
+
 A dative direct object:
 
 ~~~ sdparse

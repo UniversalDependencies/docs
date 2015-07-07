@@ -23,6 +23,17 @@ conj(Азамат-3, пен-4)
 ccomp(қарап-7, ойнағанына-6)
 ~~~
 
+Another example:
+
+~~~ sdparse
+Сайттың маңызды екенін түсінбей жатыр . \n Site importance being not-understanding is .
+ccomp(түсінбей-4, маңызды-2)
+cop(маңызды-2, екенін-3)
+nmod(маңызды-2, Сайттың-1)
+aux(түсінбей-4, жатыр-5)
+punct(түсінбей-4, .-6)
+~~~
+
 Note that if the complement is completely controlled by the matrix verb, that
 is it does not permit another subject or object, then the relation should be 
 `xcomp`.

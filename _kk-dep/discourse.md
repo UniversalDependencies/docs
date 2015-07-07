@@ -13,6 +13,13 @@ discourse(жоқ-5, Жоқ-1)
 nsubj(жоқ-5, күшігі-4)
 ~~~
 
+And another example:
+
+~~~ sdparse
+Жоқ , хат жазып берейін . \n No , letter writing let-me .
+discourse(жазып-4, Жоқ-1)
+~~~
+
 The `discourse` label is also used for modal words, and the question word (ма):
 
 ~~~ sdparse

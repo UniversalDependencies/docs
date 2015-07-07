@@ -24,6 +24,11 @@ amod(жылдан-2, 1968-1)
 nmod(бастап-3, жылдан-2)
 ~~~
 
+~~~ sdparse
+Қызметін 1933 жылы ғана бастаған . \n His-service 1993rd year only he-began .
+amod(жылы-3, 1993-2)
+~~~
+
 Locative attributives:
 
 Substantives in the attributive form of the locative (-DAGI) are also marked with `amod`. (Pending clarification)
