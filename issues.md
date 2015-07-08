@@ -3,13 +3,11 @@ layout: base
 title:  'Unresolved Issues'
 ---
 
-## Issues to resolve at the Uppsala meeting
+## Issues to discuss at the Uppsala meeting
 
-This is a list of selected issues that need more discussion and may lead to future modifications of the UD standard.
-It does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">Issue Tracker</a>.
-It is rather a subset of open issues from the issue tracker, with main points emphasized here.
-The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should
-remain there.
+The main goal for the next UD release is to improve consistency across languages in the application of the UD guidelines. This will require resolving a number of issues where the guidelines are not specific enough to prescribe a unique analysis and where treebanks are known to diverge (or can be expected to diverge). Below we list a number of such issues that are suitable for discussion at the Uppsala meeting and where guidelines may need to be modified in future versions of the UD standard.
+
+This list does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">issue tracker</a>. It is rather a subset of open issues from the issue tracker, with main points emphasized here. The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should remain there.
 
 * Ellipsis.
   See the
