@@ -12,12 +12,14 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 * Ellipsis.
   See the
   <a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
-  for an overview of possibilities.
+  for an overview of possibilities. 
   A related issue is <a href="https://github.com/UniversalDependencies/docs/issues/164">#164</a> (multiple root trees).
   Questions:
+
   - Are we satisfied with the [u-dep/remnant]() analysis in cases where function word promotion by head elision is not applicable?
   - Even if we are, what do we do in cases where it cannot be applied (such as two orphaned verb arguments, no coordination)?
   - Do we still believe that `NULL` nodes are evil?
+  
   Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.
 
 * Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
