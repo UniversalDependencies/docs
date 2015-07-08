@@ -23,3 +23,5 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 * Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
   Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
+
+* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), and [u-dep/mark]() have all been proposed for various uses of particles.
