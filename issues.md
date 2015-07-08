@@ -30,7 +30,7 @@ This list does not replace the Github <a href="https://github.com/universaldepen
   Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
 
-* Names. 
+* Names. The guidelines say that multi-word names should be given an ordinary, compositional syntactic structure whenever possible, and otherwise analyzed as head-initial structures with the [u-dep/name]() relation. A typical example of the latter case is firstname-lastname expressions like "Sherlock Holmes". However, there are many languages where there is morphological evidence that the last name is the head in this kind of structure (for example, Hungarian). Should these languages still use the [u-dep/name]() relation? Are they allowed to take the last element as the head? Is this a parameter that varies across languages? A related issue is whether names with a compositional structure should still somehow be annotated as names is the enhanced dependency structure.
 
 * Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/178">#178</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
 
