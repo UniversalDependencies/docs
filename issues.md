@@ -9,7 +9,7 @@ The main goal for the next UD release is to improve consistency across languages
 
 This list does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">issue tracker</a>. It is rather a subset of open issues from the issue tracker, with main points emphasized here. The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should remain there.
 
-* Coordination.
+* Coordination. The guidelines specify that the first conjunct should be the head, but there are languages and constructions where, for example, inflection indicates that another conjunct (usually the final one) is the head. Examples from Turkish and Kazakh are found in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. Should we insist that the first conjunct is always the head? Should we allow languages to choose a single consistent head-direction for coordination? Or should we allow this to vary within languages as well?
 
 * Copula sentences.
 
@@ -32,5 +32,5 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 
 * Names. 
 
-* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
+* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/178">#178</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
 
