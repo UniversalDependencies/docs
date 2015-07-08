@@ -50,7 +50,6 @@ Conditional phrases with 'болса':
 acl(түрде-7, болса-8)
 advmod(болса-8, да-9)
 
-
 ~~~
 
 Secondary predication:
