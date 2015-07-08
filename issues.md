@@ -11,7 +11,7 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 
 * Coordination. The guidelines specify that the first conjunct should be the head, but there are languages and constructions where, for example, inflection indicates that another conjunct (usually the final one) is the head. Examples from Turkish and Kazakh are found in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. Should we insist that the first conjunct is always the head? Should we allow languages to choose a single consistent head-direction for coordination? Or should we allow this to vary within languages as well?
 
-* Copula sentences.
+* Copula sentences. The guidelines say that the copula verb should not be the root of a clause, but how do we draw the line between the copula verb and other uses of existential verbs like "be"? This is discussed in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. While everyone agrees that "is" is a copula in "She is nice" and "She is in shape", there is disagreement about "She is in London" and "The problem is that copulas are tricky". In addition, there is the issue of whether this treatment should be extended to other verbs, for example, inchoative copula verbs (English "become", French "devenir", Swedish "bli").
 
 * Determiners and pronouns.
 
