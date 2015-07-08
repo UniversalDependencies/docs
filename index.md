@@ -5,7 +5,7 @@ title:  'Universal Dependencies'
 
 # Universal Dependencies
 
-<!-- 
+<!--
      The following <div> is the top-level element for the index page
      tabs. To add a new tab (e.g. for Swedish), first add a link to
      the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
@@ -19,7 +19,7 @@ title:  'Universal Dependencies'
 <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li> 
+  <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li>
   <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
   <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ca">Catalan</a></li>
@@ -83,13 +83,14 @@ so that we can avoid problems with conflicting versions.
 </small>
 
 <small>
-The next release (v1.2) is scheduled for November 15, 2015. The plan is to 
+The next release (v1.2) is scheduled for November 15, 2015. The plan is to
 have regular treebank releases every six months.
 </small>
 
 <small>
 If you want to receive news about Universal Dependencies, you can subscribe to
-the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud)
+the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+See also the [list of open issues](issues.html) for the Uppsala meeting.
 </div>
 
 <!-- "Amharic" tab -->
