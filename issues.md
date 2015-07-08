@@ -15,10 +15,11 @@ This list does not replace the Github <a href="https://github.com/universaldepen
   for an overview of possibilities.
   A related issue is <a href="https://github.com/UniversalDependencies/docs/issues/164">#164</a> (multiple root trees).
   Questions:
-  Are we satisfied with the [u-dep/remnant]() analysis?
-  Even if we are, what do we do in cases where it cannot be applied (such as two orphaned verb arguments, no coordination)?
-  Do we still believe that `NULL` nodes are evil?
+  - Are we satisfied with the [u-dep/remnant]() analysis in cases where function word promotion by head elision is not applicable?
+  - Even if we are, what do we do in cases where it cannot be applied (such as two orphaned verb arguments, no coordination)?
+  - Do we still believe that `NULL` nodes are evil?
   Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.
+
 * Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
   Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
