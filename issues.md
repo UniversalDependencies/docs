@@ -13,7 +13,7 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 
 * Copula sentences. The guidelines say that the copula verb should not be the root of a clause, but how do we draw the line between the copula verb and other uses of existential verbs like "be"? This is discussed in issue <a href="https://github.com/UniversalDependencies/docs/issues/170">#170</a>. While everyone agrees that "is" is a copula in "She is nice" and "She is in shape", there is disagreement about "She is in London" and "The problem is that copulas are tricky". In addition, there is the issue of whether this treatment should be extended to other verbs, for example, inchoative copula verbs (English "become", French "devenir", Swedish "bli").
 
-* Determiners and pronouns.
+* Determiners and pronouns. Many languages have words that can be used both as determiners ("this book") and full noun phrases ("this"). Should these words be tagged [u-pos/DET]() or [u-pos/PRON]()? Or should they be tagged [u-pos/DET]() when used as determiners and [u-pos/PRON]() when used as full noun phrases? See issue <a href="https://github.com/UniversalDependencies/docs/issues/159">#159</a>.
 
 * Ellipsis.
   See the
