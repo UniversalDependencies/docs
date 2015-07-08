@@ -9,6 +9,12 @@ The main goal for the next UD release is to improve consistency across languages
 
 This list does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">issue tracker</a>. It is rather a subset of open issues from the issue tracker, with main points emphasized here. The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should remain there.
 
+* Coordination.
+
+* Copula sentences.
+
+* Determiners and pronouns.
+
 * Ellipsis.
   See the
   <a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
@@ -24,4 +30,7 @@ This list does not replace the Github <a href="https://github.com/universaldepen
   Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
 
-* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), and [u-dep/mark]() have all been proposed for various uses of particles.
+* Names. 
+
+* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
+
