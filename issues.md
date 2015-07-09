@@ -34,3 +34,4 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 
 * Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/178">#178</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
 
+* Tokenisation. In some languages (such as Kazakh and Turkish) it may be necessary to have dependency relations between sub-word units (often called inflectional groups, IGs), as discussed, for example, in <a href="https://github.com/UniversalDependencies/docs/issues/125">#125</a>. e.g. In the phrase "mavi arabadakiler", it is clear that the car (araba) is blue (mavi), not the people in it (-dakiler).
