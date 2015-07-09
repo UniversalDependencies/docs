@@ -26,6 +26,10 @@ This list does not replace the Github <a href="https://github.com/universaldepen
   Do we still believe that `NULL` nodes are evil?
   Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.
 
+* Light-verb constructions. A recent poster at PARSEME has surveyed the annotation of LVCs in v1.1 and found three different approaches. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #13).
+
+* Multi-word expressions. A recent poster at PARSEME has surveyed the annotation of MWEs in v1.1 and found a number of   inconsistencies. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #5).
+
 * Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
   Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
