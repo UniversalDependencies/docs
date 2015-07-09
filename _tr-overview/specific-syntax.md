@@ -172,9 +172,9 @@ The person names are linked with `name` relation, and headed by the last part of
 
 Turkish honorifics normally follow the (first) name, *Ahmet Bey*
 'Mr. Ahmet', *Necla Hanım* 'Ms. Necla', *Ayşe öğretmen* 'Teacher
-Ayşe'. A few others introduced later, *Sayın*/*Bay*/*Bayan*, precede
-the last name or first and last name.
-We use the relation `compound` and always mark the proper name as the head of the compound. The title/honorific is always attached to the head.
+Ayşe', *Mustafa Kemal Paşa* 'general Mustafa Kemal'. 
+A few others introduced later, *Sayın*/*Bay*/*Bayan*, precede the last name or first and last name.
+We use the relation `compound` and always mark the proper name as the head of the compound (although it is tempting to mark the title as head in the first case).
 
 ## Noun-verb compounds / light verbs
 
@@ -197,7 +197,7 @@ dobj(yardim, Ahmet)
 ~~~~
 
 
-## Noun compounds
+## Numbers
 
 If numbers are spelled out completely, we use a combination of `conj`
 and `coord` to mark it in a head-final fashion.

@@ -128,8 +128,17 @@ but not in *bir kitap<b>lık</b> aldım* 'I bought a book shelf'.
 
 This is a productive derivational suffix that derives adjectives and nouns from nouns. It has multiple functions. In some of these functions we can perfectly do without splitting, but for the sake of ease of annotation we split all, except clearly lexicalized cases, e.g., *akıl<b>lı</b>* 'mind-lI = clever', *köy<b>lü</b>* 'village-lI = villager', *üç-lü* 'three-lI = trio'.
 
-*üç yatak odalı ev* 'a/the house with three bedrooms'.
-Note that the correct bracketing is *[üç [yatak oda]]-lı ev* not 
+###### Examples
+
+* *üç yatak odalı ev* 'a/the house with three bedrooms'.
+  The correct bracketing is *[üç [yatak oda]]-lı ev* not 
+
+* *nefis çikolata-lı kek* 'delicious chocolate cake' but
+  *siyah çikolata-lı kek* 'dark-chocolate cake'. And further,
+  *nefis siyah çikolata-lı kek* 'delicious dark-chocolate cake'
+
+* *kırmızı çiçek-li kumaş* 'fabric with red flowers' or (unlikely)
+  'red fabric with flowers'.
 
 ##### The suffix -sIz
 

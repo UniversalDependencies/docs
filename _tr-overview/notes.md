@@ -118,7 +118,7 @@ documented in proper sections later.
   marker) but the noun phrase is missing.
 
   Alternatives are (1) treating these as regular nouns (METU-Sabancı
-  does so),  (2) marking them as head of the phrase when the noun
+  does so),  (2) marking them as the head of the phrase when the noun
   phrase is missing, and (3) make sure the case marker introduces a
   new IG, and mark the noun component of the postposition as the 
   head of the postpositional phrase. This is somewhat similar to 
