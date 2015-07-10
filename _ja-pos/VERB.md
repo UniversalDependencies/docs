@@ -6,9 +6,9 @@ shortdef: 'verb'
 
 ### Definition
 
-`VERB` tag is used for words with one of Japanese verb inflection types.  
+[VERB]() tag is used for words with one of Japanese verb inflection types.  
 Basically it corresponds to PoS tag `verb` / 動詞 in UniDic.
-A `VERB` consists of the stem and inflection parts as below:
+A [VERB]() consists of the stem and inflection parts as below:
 
 ### Examples
 
