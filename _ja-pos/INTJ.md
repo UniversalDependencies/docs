@@ -13,9 +13,7 @@ may include a combination of sounds not otherwise found in the
 language.
 
 In UniDic, these words are tagged with `interjection` / 感動詞,
-which include _<b>ああ</b>_&nbsp;“Oh”, _<b>えっと</b>_&nbsp;“well”(filler),
-<b>はい</b>_&nbsp;/ <b>いいえ</b>_&nbsp; "yes / no",
-and <b>こんにちは</b>_&nbsp; "hello".
+such as examples below:
 
 
 ### Examples
