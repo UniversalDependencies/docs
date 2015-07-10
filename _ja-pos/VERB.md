@@ -22,9 +22,9 @@ as adding progrsssive aspect.
  
 The differences between `VERB` tag and UniDic's `verb` / 動詞 tag are as follows:
 
-* The stem of nominal verbs (so-called _suru_-verbs or サ変動詞) is also tagged as `VERB`, while in UniDic it is tagged as `noun (common.verbal_suru)` / 名詞-普通名詞-サ変動詞可能.
+* The stem of nominal verbs (so-called _suru_-verbs or サ変動詞) is also tagged as [VERB](), while in UniDic it is tagged as `noun (common.verbal_suru)` / 名詞-普通名詞-サ変動詞可能.
 Note that such a nominal verb is tagged as `VERB` when it behaves as a verb (typically followed by “する” or “できる”),
 otherwise is tagged as [NOUN]() (e.g. _<b>勉強</b> が好きだ_ “(I) like studying”).
-* `VERB` is NOT used for non-content (functional) verbs, while they are taged as `verb (bound)` / 動詞- 非自立可能,
-e.g. _食べて<b>いる</b>&nbsp;_ “eat”+PROGRESSIVE : _いる_ is tagged with [AUX]().
+* [VERB]() is NOT used for non-content (functional) verbs, while they are taged as `verb (bound)` / 動詞- 非自立可能,
+e.g. _食べて<b>いる</b>&nbsp;_ “eat”+PROGRESSIVE : such a functional verb (_いる_) is tagged with [AUX]().
 
