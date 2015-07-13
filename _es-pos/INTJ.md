@@ -20,10 +20,10 @@ Marked as interjections:
 - _ay_
 - _bravo_
 - _hola_
-- _sí_, e.g. _<b>Sí</b>, porque..._ "<b>Yes</b>, because...".
-- _no_, e.g. _<b>No</b>, no lo creo._ "<b>No</b>, I don't believe it."
+- _sí_, e.g. _<b>Sí</b>, porque..._ "<b>Yes</b>, because..."
+- _no_, e.g. _<b>No</b>, no lo creo_ "<b>No</b>, I don't believe it."
 
 Marked as adverbs:
 
-- _sí_, e.g. _Votaremos <b>sí</b>._ "We will vote <b>yes</b>".
-- _no_, e.g. _<b>No</b> es verdad._ "It is <b>not</b> true."
+- _sí_, e.g. _Votaremos <b>sí</b>_ "We will vote <b>yes</b>."
+- _no_, e.g. _<b>No</b> es verdad_ "It is <b>not</b> true."
