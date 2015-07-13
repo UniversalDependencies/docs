@@ -18,7 +18,7 @@ The Japanese language is written without spaces or other clear divisions to show
 
 The Universal Dependency scheme is not suited for Japanese dependency annotation.
 This is because the dependency annotation label set used by Universal Dependency includes several different layers such as morphological, syntactic and semantic dependency.
-To adress the issue of the split between the morphology and syntactic levels, we define a Japanese base phrase unit --- bunsetsu (文節) --- for syntactic dependency annotation.  The morphology level including for multi-word expressions is encapsulated within bunsetsu.  Therefore we can concentrate on the annotate of purely syntactic phenomena.  
+To address the issue of the split between the morphology and syntactic levels, we define a Japanese base phrase unit --- bunsetsu (文節) --- for syntactic dependency annotation.  The morphology level including for multi-word expressions is encapsulated within bunsetsu.  Therefore we can concentrate on the annotate of purely syntactic phenomena.  
 
 The discrepancy between syntactic phrases and phonetic (accent) phrases is another issues in word-based dependency annotation.
 Since we focus not on speech corpora but on written corpora, we omit this issue from the Universal Dependency annotation schema.
