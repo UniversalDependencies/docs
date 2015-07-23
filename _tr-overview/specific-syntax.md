@@ -8,7 +8,7 @@ permalink: tr/overview/specific-syntax.html
 
 ## Existential sentences
 
-In Turkish, existential sentences are (primarily) formed using *var* 'there is/are' and its negative counterpart *yok*. Although they do not exactly function like adjectives, following METU-Sabancı treebank, we mark them as `ADJ` and treat them like other nominal that requires a copular suffix to function as predicates.  Note that, in the most common use, the 3rd person singular present copular marker is null. In general, we indicate this wit an additional IG, which marks the "predicatehood" of the verb, and also is in parallel with 
+In Turkish, existential sentences are (primarily) formed using *var* 'there is/are' and its negative counterpart *yok*. Although they do not exactly function like adjectives, following METU-Sabancı treebank, we mark them as `ADJ` and treat them like other nominals that require a copular suffix to function as predicates.  Note that, in the most common use, the 3rd person singular present copular marker is null. In general, we indicate this wit an additional IG, which marks the "predicatehood" of the verb, and also is in parallel with the other copular constructions.
 
 We analyze this constructions like nominal predicates. *var* and *yok*
 act as the head of the predicate, the thing that "exists" is the

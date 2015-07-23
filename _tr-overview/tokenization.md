@@ -39,32 +39,27 @@ METU-Sabancı treebank makes excessive use of IGs. In UD, we limit the suffixes/
 
 #### -ki 
 
-The suffix -ki attaches to an genitive- or locative-marked noun and derives adjectivals. The adjectival, like any adjective in Turkish, can act as a (pro)noun. We treat the adjective and noun usage separately.
+The suffix *-ki* attaches to a genitive- or locative-marked noun and derives adjectivals. The scope of *-ki* is the whole noun phrase headed by the nominal it attaches (the noun may be modified by any other means nouns can be modified, including complex relative clauses). The adjectival, like any adjective in Turkish, can act as a (pro)noun. We treat the adjective and noun usage separately. In both cases we split the original word and introduce a new IG starting with *-ki*.
 
 #### Adjective case
 
 In this usage, *-ki*'s function is similar to English 'that' or 'which',
 *Evde<b>ki</b> kitap* 'the book <b>that</b> is at home'.
 
-In this usage, we mark the IG with *-ki* as `ADJ`. The head of the word in this case is the `NOUN`, and the *-ki* is attached to it with the relation `mark` (Q: is that OK, since head is not clausal. And, should we subtype the relation?).
+In this usage, we mark the IG with *-ki* as `ADJ`. The head of the word in this case is a `NOUN`, and the *-ki* is attached to the noun using the `case` relation. Although the resulting phrase functions as an adjective, since we mark the noun as the head, we also mark the relation between the *-ki* phrase and the noun it modifies as `nmod`. We do not use an subtypes since the necessary information can be recovered from the IG with *-ki*.
 
 ~~~~ sdparse
 Evde -ki kitap
 nmod(kitap, evde)
-mark(evde, ki)
+case(evde, ki)
 ~~~~
 
 #### Noun case
 
-In this case *-ki* refers to the person/thing that is defined by the stem,
-*evdeki* 'the one at home', *annem-ler-in-ki* 'the one that belongs to my parents'.
-In this usage, we mark the IG with *-ki* as noun (without the intervening
-adjective IG). In this case the head is the IG with  *-ki*, and
-relation is `nmod`. We do not sub-categorize this relation, but other
-`nmod` subcategories apply.
+In this case *-ki* refers to the person/thing that is defined by the stem, *evdeki* 'the one at home', *annem-ler-in-ki* 'the one that belongs to my parents'.  In this usage, we mark the IG with *-ki* as noun (without the intervening adjective IG). In this case the head is the IG with  *-ki*, and relation is `nmod`. We do not sub-categorize this relation, but other `nmod` subcategories apply.
 
 ~~~~ sdparse
-Akşam yedide -ki  altyazılı \n the one at 7pm is with subtitles
+Akşam yedide -ki  altyazılı \n the one at seven is with subtitles
 nmod(yedide, akşam)
 nmod:tmod(-ki, yedide)
 nsubj(altyazılı, -ki)

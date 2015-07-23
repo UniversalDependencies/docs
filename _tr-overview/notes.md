@@ -90,7 +90,7 @@ documented in proper sections later.
 * In Turkish, a (rather large) number of postpositions are constructed
   by a regular process, where a set of nouns (mostly indicating place
   or some sort of abstract relation) are combined with possessive
-  and case (+ *-lA* and *-CA*) suffixes to form postpositions. For
+  and case (also with *-lA* and *-CA*) suffixes to form postpositions. For
   example:
   ```
   (1) Kitapların ara-sı-nda           bulabilirsin.
@@ -193,29 +193,57 @@ documented in proper sections later.
   similar to copular verbs (*ol-*, *bulun-*). METU-Sabancı marks it as
   a verb, and uses a special relation `NEGATIVE.PARTICLE`.
 
-  **Suggestion:** (tentative) Follow METU-Sabancı for marking *değil*
-  as verb, but use the relation `cop` to link *değil* to the head of
-  the nominal predicate. The negation should be inferred from the
-  `Negative` feature marked on *değil*.
-  This is in line with other cases of negation in Turkish, but it may
-  break the parallel between English (and other languages).
+  If değil is used as a predicate, we treat it similar to *ol-*, it is
+  marked as `VERB` with feature assignment `Negative=neg`. If it is used 
+  in a copular construction, we use the relation `cop` to connect it to 
+  the nominal predicate. 
+~~~~ sdparse
+Arabam mavi değil .\n My car is not blue .
+cop(mavi, değil)
+~~~~
+
+  *değil* can also be used with verbal predicates, acting as an
+  auxiliary, in this case we relate it to the main verb with relating
+  `aux`.
+  
+~~~~ sdparse
+Öldürecek değiller . \n They are not going to kill (someone) .
+aux(öldürecek, değiller)
+~~~~
+
+    If *değil* is used to negate a non-predicate, we mark it as `PART`
+    (again with feature `Negative=neg`), and attach it to the content
+    word with relation `neg`. (???)
+
+~~~~ sdparse
+
+~~~~
 
 * Clitic *dA* (*de/da*)
+
   In its common use, *dA* is a discourse connective. In this case, 
   we mark it as `ADV` and attach it to the word/phrase that it modifies 
   (typically the preceding word), and mark as `advmod:emph`, which 
   seems to be used in Czech.
 
-  It also functions as a coordinating conjunctions. If it is used in
+  When *dA* is attached to a subordinate predicate, it may look like a
+  subordinating conjunction, *Okuyup da anla(ma)mış* 'she
+  did (not) understand (because/although) she read (it)'. Note that in
+  this usage, the suffix *-(y)Ip* functions as the subordinator.
+  Hence, we mark *dA* as above.
+
+  *dA* also functions as a coordinating conjunction. If it is used in
   a construction like *Ahmet de Ali de aradı* 'Ahmet and Ali both
   called', we still attach the clitic to the preceding word, but mark
   coordination without a conjunction, in this case the POS tag is
-  `CONJ`. If it is used with the meaning of 'but', e.g., *içerim de,
+  `CONJ`. 
+  
+  If it is used with the meaning of 'but', e.g., *içerim de,
   arabayı kim kullanacak?* 'I would/can drink, but (then) who will
-  drive?'. In this case it is connected to head of the conjunction
+  drive?'. In this case, it is connected to head of the conjunction
   with relation `cc`.
 
-  A infrequent, but interesting usage of *dA* is with*
+  A infrequent, but interesting usage of *dA* is with
   compound verb forms including suffix *-abil*. A word/utterance like
   *ara-yabilirim de* 'I may also call' can alternatively be expressed
   like *araya da bilirim*. Note that the first word include part of
@@ -234,6 +262,33 @@ aux(araya, bilirim)
 
     Either subordinating conjunction or a discourse connective (mark
     with `advmod:emph` or `discourse`). (**expand this**)
+
+* *-(y)sA* and *ise*
+
+    The suffix *-(y)sA* or its clictic form *ise* behave like the
+    copular suffixes or clitics. It mianly forms conditional clauses.
+    *Kitabın tamamını okudu<b>ysa</b> şaşarım* 'I'd be surprised if she read all of the book'. We treat this case as subordination, mark the relation with `advmod:cond`.
+~~~~ sdparse
+Kitabın tamamını okuduysa şaşarım .
+advcl:cond(şaşarım, okuduysa)
+~~~~
+
+~~~~ sdparse
+Evde yse yemek yapmıştır . \n He'd have cooked if he is at home.
+advcl:cond(yapmıştır, evde)
+cop(evde, yse)
+~~~~
+
+    When attached to nouns, both forms can also be used as a discouse
+    connective with the meaning 'as for NOUN'. In this case (following
+    English UD), we mark the copular suffix/clitic with `case` and use
+    appropriate relation (likely `nmod`) to relate it to the head.
+
+~~~~ sdparse
+Arabam sa henüz satılmadı . \ As for my car, it wasn't sold yet.
+case(arabam, sa)
+nsubjpass(satılmadı, arabam)
+~~~~
 
 ## Derivations 
 
@@ -254,7 +309,8 @@ aux(araya, bilirim)
   modified by *-lIk* may be modified by other words in rare cases,
   e.g., *üç (büyük) araç-lık park yeri* 'parking spot for three big vehicles'.
 
-  **Suggestion:** split ??
+  **Suggestion:** split. We keep the first IG as the head, and mark it
+  with relation `case`.
 
 * **-CI** derives nouns from nouns, typically it derives "occupation
   nouns", e.g. *şarap-çı* 'the wine maker/seller' but also someone who
@@ -262,8 +318,13 @@ aux(araya, bilirim)
   'person who prefers wine (over beer)'. Although not very frequent,
   the non-derived noun can be modified by other words: 
   *[kırmızı şarap]-çı* 'person preferring red wine (over white wine)'/'red wine seller'.
+  Similarly, *iki [[yağlı güreş]-çi]* 'lit: two [[oil(y) wrestle]-r]'
+  (the sport is called 'oil(y) wrestling' not that the wrestlers are
+  oily (at least not always). Cf. *[iki [güçlü [güreş-çi]]]* 'two
+  strong wrestlers'.
 
-  **Suggestion:** split
+  **Suggestion:** split, and mark the final IG as the head of the
+  phrase. We currently use `nmod` between two IGs.
 
 * **-DIr** attached to time expressions create time adverbials with
   the approximate meaning of 'since' or 'for', as in *asır-dır*
@@ -271,21 +332,29 @@ aux(araya, bilirim)
   *uzun yıllar-dır* 'for many years'. In the last two examples the number
   and the adjective modifies the noun, not the resulting adverbial.
 
-  **Suggestion:** split
+  **Suggestion:** split. We keep the first IG as head, and relate them
+  with `case`, this is somewhat in line with the English UD where 
+  'since/for' would be linked with `case` as well.
 
-* **-lArI** attaches to time expressions, indicating repating events,
+* **-lArI** attaches to time expressions, indicating repeating events,
   *hafta sonları kitap okurum*
   'I read books *in the weekends*',
   *kış geceleri çok üşürdü* 
   '(s)he used to be/feel very cold *in the winter nights*'.
-  The construction is abmiguous between noun-phrase and time adverb.
+  The construction is ambiguous between noun-phrase and time adverb.
   That is, *geceleri araştıyorum* could mean 'I research (something)
   at nights' or 'I research *nights*/I do research about nights'. 
   TRmorph has a special (derivational) tag for this construction.
 
   **Suggestion:** analyze these as normal noun (phrase) but mark with
   `nmod:tmod`.
-   
-* **-lA** suffix either functions as a case marker (instrumental/commutative) or as a coordinating suffix. It may be tempting to split the suffix when it is used as a conjunction, but we do not split it. The dependency relation should reveal the function of the suffix.
 
-  **Suggestion:** do not split in any case.
+* **-CA** is a multi-functional derivational suffix. When attached to
+  nouns, it forms adverbial phrases: *[güvenlik kuvvetleri]-nce* 'by the
+  security forces'. In this usage, *-CA* may scope over the whole
+  phrase headed by the noun it is attached to. In this usage we split
+  -CA, and connect to the noun with `case` relation (the noun bing the
+  head). 
+
+
+
