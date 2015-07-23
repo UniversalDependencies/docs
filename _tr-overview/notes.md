@@ -173,6 +173,7 @@ documented in proper sections later.
   predicates of the non-subordinate clauses (it likely that these
   could be adjusted automatically).
 
+
 ## Notes on annotation of specific words
 
 * *eğer* an *şayet* signal a conditional clause, but they are
@@ -218,6 +219,9 @@ aux(öldürecek, değiller)
 ~~~~ sdparse
 
 ~~~~
+
+* *olarak* (copula *ol-* + suffix *-ArAk*) is somewhat different than 
+  other uses of the copula. It forms adverbial phrases.
 
 * Clitic *dA* (*de/da*)
 
@@ -289,6 +293,25 @@ Arabam sa henüz satılmadı . \ As for my car, it wasn't sold yet.
 case(arabam, sa)
 nsubjpass(satılmadı, arabam)
 ~~~~
+
+* *hani* is a word that forms (mostly rhetorical) 'where' questions.
+  G&K define it as an interjection. In most cases, there is no other word 
+  that indicate that the sentence is a question. Furthermore, it fills
+  in a (pro)noun slot in this usage. In this case, we mark it as 
+  `PRON` (with `PronType=Int`). In some cases it co-occurs with
+  *nerede* 'where'. In that case, it is loosely connected to the
+  sentence structure, so, we mark it as `ADV` and connect to the
+  predicate with relation `discourse`. It may also occur without
+  *nerede* but with a weak connection to the sentence structure.
+  We also mark it as a discourse connective in this usage. (???)
+
+* The reflexive pronoun (*kendi* and its other forms) is normally
+  complementary to the reflexive verbs. If a verb is reflexive, there
+  normally 'kendi' is not needed. However, in some cases it is used,
+  likely for emphasis. In these cases, we mark it as if it is the
+  object of the reflexive ....
+  
+  
 
 ## Derivations 
 
