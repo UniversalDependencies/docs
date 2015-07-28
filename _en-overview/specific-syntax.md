@@ -794,31 +794,23 @@ remnant(Administrator, boss)
 
 #### Right-node raising
 
-<!---
-I'm second guessing our analysis here, I think it might be better to treat this as if it were a conjuntion where the first conjunct has undergone ellipsis, and maybe add some additional annotations in the enhanced dependencies
--->
-
-In right-node raising constructions where the head of the left conjunct has been elided under identity with the head of the second conjunct, all contrasting elements of the second conjunct are currently analyzed as being `remnant`s on any parallel elements of the first conjunct.
+In right-node raising constructions where the head of the left conjunct has been elided under identity with the head of the second conjunct, the right conjunct undergoes "promotion by head elision", and gains the label that would be assigned to the head if it had been present.
 
 ~~~sdparse
-Iguazu is a big or a small country ?
-remnant(a-3, a-6)
-remnant(big, small)
-det(country, a)
-amod(country, big)
+-ROOT- Iguazu is a big or a small country ?
+root(-ROOT-, big)
 cc(big, or)
+conj(big, country)
 ~~~
 
 ~~~sdparse
-I have never been and I will never be a government official
-remnant(I-1, I-6)
-remnant(have-2, will-7)
-remnant(never-3, never-8)
-remnant(been-4, be-9)
-nsubj(official, I-1)
-aux(official, have)
-neg(official, neg)
-cop(official, been)
+-ROOT- I have never been and I will never be a government official
+root(-ROOT-, been)
+neg(been, never-4)
+aux(been, have)
+nsubj(been, I-2)
+cc(been, and)
+conj(been, official)
 ~~~
 
 #### Marginal disfluencies
@@ -855,3 +847,92 @@ acl(Number, includes)
 ### Comparatives
 
 ### Free relatives
+
+#### Basic analysis
+In the canonical case, _wh_-clauses function as interrogative clauses or as adverbial clauses. In these cases, the head of the _wh_-clause is taken to be the verb, and the _wh_-word is assigned the label corresponding to its grammatical function in the _wh_-clause:
+
+~~~sdparse
+I need to know who you are planning to leave with .
+dobj(leave, who)
+case(who, with)
+ccomp(know, leave)
+~~~
+
+~~~sdparse
+When you leave , be sure to let me know .
+advmod(leave, when)
+advcl(sure, leave)
+~~~
+
+In free relative constructions, the _wh_-clause functions as an argument in the lower clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `rcmod` dependent on it.
+
+~~~sdparse
+I 'll have whatever she 's having .
+dobj(have, whatever)
+rcmod(whatever, having)
+~~~
+
+~~~sdparse
+I love how well everyone behaved .
+dobj(love, well)
+advmod(well, how)
+rcmod(well, behaved)
+~~~
+
+This analysis is also extended to cleft constructions.
+
+~~~sdparse
+-ROOT- John is who we want to help .
+root(-ROOT-, who)
+nsubj(who, John)
+rcmod(who, want)
+cop(who, is)
+~~~
+
+~~~sdparse
+-ROOT- It 's John who we want to help .
+expl(who, It)
+root(-ROOT-, who)
+nsubj(who, John)
+rcmod(who, want)
+cop(who, 's)
+~~~
+
+~~~sdparse
+-ROOT- What the committee hopes to learn is why all these events transpired .
+nsubj(why, what)
+rcmod(what, hopes)
+cop(why, is)
+rcmod(why, transpired)
+nsubj(transpired, events)
+root(-ROOT-, why)
+~~~
+
+The phrase _no matter_ is analyzed as taking a `dobj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
+
+~~~sdparse
+No matter what progress we make as individuals, we will never achieve real health until ...
+neg(matter, No)
+npmod(achieve, matter)
+dobj(matter, progress)
+det(progress, what)
+rcmod(make, progress)
+~~~
+
+#### Cyclic cases
+In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `rcmod` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `rcmod` relation.
+
+~~~sdparse
+I love how appreciative everyone was .
+dobj(love, appreciative)
+rcmod(appreciative, was)
+advmod(how, appreciative)
+~~~
+
+~~~sdparse
+This is the key to how worthy the effort might be .
+nmod(key, worthy)
+case(worthy, to)
+advmod(worthy, how)
+rcmod(worthy, be)
+~~~
