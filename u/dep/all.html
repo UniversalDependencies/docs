@@ -1406,6 +1406,14 @@ det(Plata-4, la-3)
 nmod(Río-1, Plata-4)
 </code></pre>
 
+<p>In the case of proper entities named after people, e.g. <em>Leland Stanford Jr. University</em>, the <code>name</code> relation should only be used inside the person name, with the rest of the construction analyzed compositionally using normal syntactic relations:</p>
+
+<pre><code class="language-sdparse">Leland Stanford Jr. University
+compound(University-4, Leland-1)
+name(Stanford-2, Leland-1)
+name(Jr.-3, Leland-1)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-dep/name.md" target="#">edit name</a></p>
 
 <p><a id="al-u-dep/neg" class="al-dest"></a></p>
