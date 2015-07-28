@@ -71,3 +71,12 @@ case(Plata-4, de-2)
 det(Plata-4, la-3)
 nmod(Río-1, Plata-4)
 ~~~
+
+In the case of proper entities named after people, e.g. _Leland Stanford Jr. University_, the `name` relation should only be used inside the person name, with the rest of the construction analyzed compositionally using normal syntactic relations:
+
+~~~ sdparse
+Leland Stanford Jr. University
+compound(University-4, Leland-1)
+name(Stanford-2, Leland-1)
+name(Jr.-3, Leland-1)
+~~~
