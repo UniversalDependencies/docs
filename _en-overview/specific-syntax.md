@@ -738,6 +738,116 @@ In this sentence, *was* is also a `cop` dependent of *rough*, but that edge is n
 
 ### Unpronounced material
 
+#### VP ellipsis (and related)
+
+While auxiliaries are normally not analyzed as being heads, when a verb has been elided from VP ellipsis, the auxiliary inherits the head-status. This includes the _to_ nonfinite auxiliary.
+
+~~~sdparse
+Mary did n't leave , John did
+parataxis(leave, did-7)
+nsubj(did-7, John)
+~~~
+
+~~~sdparse
+So please update whatever you need to
+rcmod(whatever, need)
+xcomp(need, to)
+~~~
+
+Similarly, when a preposition is stranded in a passive construction, the preposition receives the `nmod` label on account of lacking a nominal head.
+
+~~~sdparse
+That matter was talked about in detail already
+nmod(talked, about)
+~~~
+
+#### Gapping / Stripping
+
+In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `remnant` relation is used between the remaining constituents and the words they contrast with:
+
+~~~sdparse
+it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table.
+cc(took, and)
+remnant(mins-5, mins-14)
+remnant(get-7, landed-18)
+~~~
+
+~~~sdparse
+" Commander in Chief " does n't mean that he is the boss of the military , merely that he is the Administrator
+remnant(n't, merely)
+remnant(boss, Administrator)
+~~~
+
+~~~sdparse
+He 's not against gays in the bedroom , just at the altar
+remnant(not, just)
+remnant(bedroom, altar)
+~~~
+
+When an argument is 'sprouted'--present in the second clause with no antecedent--it depends on the head of the antecedent clause.
+
+~~~sdparse
+" Commander in Chief " means that he is the Administrator of the military , not the boss
+remnant(means, not)
+remnant(Administrator, boss)
+~~~
+
+#### Right-node raising
+
+<!---
+I'm second guessing our analysis here, I think it might be better to treat this as if it were a conjuntion where the first conjunct has undergone ellipsis, and maybe add some additional annotations in the enhanced dependencies
+-->
+
+In right-node raising constructions where the head of the left conjunct has been elided under identity with the head of the second conjunct, all contrasting elements of the second conjunct are currently analyzed as being `remnant`s on any parallel elements of the first conjunct.
+
+~~~sdparse
+Iguazu is a big or a small country ?
+remnant(a-3, a-6)
+remnant(big, small)
+det(country, a)
+amod(country, big)
+cc(big, or)
+~~~
+
+~~~sdparse
+I have never been and I will never be a government official
+remnant(I-1, I-6)
+remnant(have-2, will-7)
+remnant(never-3, never-8)
+remnant(been-4, be-9)
+nsubj(official, I-1)
+aux(official, have)
+neg(official, neg)
+cop(official, been)
+~~~
+
+#### Marginal disfluencies
+
+In informal language usage, nonstandard constructions and disfluencies sometimes arise. When this involves a gapping-like construction--with one or more contrasting arguments that depend on an absent head--the remnant relation should be used.
+
+~~~sdparse
+The letters were to different AMI publications -- one to the National Enquirer and another to The Sun
+cc(were, --)
+remnant(--, and)
+remnant(letters, one)
+remnant(publications, Enquirer)
+remnant(one, another)
+remnant(Enquirer, Sun)
+~~~
+
+If, however, the second clause is largely unparallel to the first clause, a different relation should be used (`conj` or `parataxis` if the smaller clause is not obviously modifying the larger one, `acl` or `advcl` otherwise)
+
+~~~sdparse
+Too bad you wo n't make the Compaq thing , but maybe next year
+conj(make, year)
+cc(make, but)
+~~~
+
+~~~sdparse
+31 -- Number of Bush administration employees ... ( includes four cabinet secretaries , the six most powerful ... )
+acl(Number, includes)
+~~~
+
 ### Resultatives and depictives
 
 ### *Tough*-movement
