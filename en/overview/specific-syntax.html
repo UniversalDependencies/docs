@@ -680,6 +680,104 @@ aux(peeling, was)
 
 <h3 id="unpronounced-material">Unpronounced material</h3>
 
+<h4 id="vp-ellipsis-and-related">VP ellipsis (and related)</h4>
+
+<p>While auxiliaries are normally not analyzed as being heads, when a verb has been elided from VP ellipsis, the auxiliary inherits the head-status. This includes the <em>to</em> nonfinite auxiliary.</p>
+
+<pre><code class="language-sdparse">Mary did n't leave , John did
+parataxis(leave, did-7)
+nsubj(did-7, John)
+</code></pre>
+
+<pre><code class="language-sdparse">So please update whatever you need to
+rcmod(whatever, need)
+xcomp(need, to)
+</code></pre>
+
+<p>Similarly, when a preposition is stranded in a passive construction, the preposition receives the <code>nmod</code> label on account of lacking a nominal head.</p>
+
+<pre><code class="language-sdparse">That matter was talked about in detail already
+nmod(talked, about)
+</code></pre>
+
+<h4 id="gapping--stripping">Gapping / Stripping</h4>
+
+<p>In ‘gapping’ constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and ‘stripping’ constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as <em>not</em> or <em>only</em> remain, the <code>remnant</code> relation is used between the remaining constituents and the words they contrast with:</p>
+
+<pre><code class="language-sdparse">it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table.
+cc(took, and)
+remnant(mins-5, mins-14)
+remnant(get-7, landed-18)
+</code></pre>
+
+<pre><code class="language-sdparse">" Commander in Chief " does n't mean that he is the boss of the military , merely that he is the Administrator
+remnant(n't, merely)
+remnant(boss, Administrator)
+</code></pre>
+
+<pre><code class="language-sdparse">He 's not against gays in the bedroom , just at the altar
+remnant(not, just)
+remnant(bedroom, altar)
+</code></pre>
+
+<p>When an argument is ‘sprouted’–present in the second clause with no antecedent–it depends on the head of the antecedent clause.</p>
+
+<pre><code class="language-sdparse">" Commander in Chief " means that he is the Administrator of the military , not the boss
+remnant(means, not)
+remnant(Administrator, boss)
+</code></pre>
+
+<h4 id="right-node-raising">Right-node raising</h4>
+
+<!---
+I'm second guessing our analysis here, I think it might be better to treat this as if it were a conjuntion where the first conjunct has undergone ellipsis, and maybe add some additional annotations in the enhanced dependencies
+-->
+
+<p>In right-node raising constructions where the head of the left conjunct has been elided under identity with the head of the second conjunct, all contrasting elements of the second conjunct are currently analyzed as being <code>remnant</code>s on any parallel elements of the first conjunct.</p>
+
+<pre><code class="language-sdparse">Iguazu is a big or a small country ?
+remnant(a-3, a-6)
+remnant(big, small)
+det(country, a)
+amod(country, big)
+cc(big, or)
+</code></pre>
+
+<pre><code class="language-sdparse">I have never been and I will never be a government official
+remnant(I-1, I-6)
+remnant(have-2, will-7)
+remnant(never-3, never-8)
+remnant(been-4, be-9)
+nsubj(official, I-1)
+aux(official, have)
+neg(official, neg)
+cop(official, been)
+</code></pre>
+
+<h4 id="marginal-disfluencies">Marginal disfluencies</h4>
+
+<p>In informal language usage, nonstandard constructions and disfluencies sometimes arise. When this involves a gapping-like construction–with one or more contrasting arguments that depend on an absent head–the remnant relation should be used.</p>
+
+<pre><code class="language-sdparse">The letters were to different AMI publications -- one to the National Enquirer and another to The Sun
+cc(were, --)
+remnant(--, and)
+remnant(letters, one)
+remnant(publications, Enquirer)
+remnant(one, another)
+remnant(Enquirer, Sun)
+</code></pre>
+
+<p>If, however, the second clause is largely unparallel to the first clause, a different relation should be used (<code>conj</code> or <code>parataxis</code> if the smaller clause is not obviously modifying the larger one, <code>acl</code> or <code>advcl</code> otherwise)</p>
+
+<pre><code class="language-sdparse">Too bad you wo n't make the Compaq thing , but maybe next year
+conj(make, year)
+cc(make, but)
+</code></pre>
+
+<pre><code class="language-sdparse">31 -- Number of Bush administration employees ... ( includes four cabinet secretaries , the six most powerful ... )
+acl(Number, includes)
+</code></pre>
+
 <h3 id="resultatives-and-depictives">Resultatives and depictives</h3>
 
 <h3 id="tough-movement"><em>Tough</em>-movement</h3>
