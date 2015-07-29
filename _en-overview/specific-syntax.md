@@ -750,6 +750,7 @@ nsubj(did-7, John)
 
 ~~~sdparse
 So please update whatever you need to
+dobj(update, whatever)
 rcmod(whatever, need)
 xcomp(need, to)
 ~~~
@@ -810,6 +811,9 @@ neg(been, never-4)
 aux(been, have)
 nsubj(been, I-2)
 cc(been, and)
+neg(official, never-9)
+aux(official, will)
+nsubj(official, I-7)
 conj(been, official)
 ~~~
 
@@ -842,6 +846,39 @@ acl(Number, includes)
 
 ### Resultatives and depictives
 
+#### Depictives
+
+[<!> May be subject to change]
+Resultatives and depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation. <!--- Should this be `advmod` or `advcl`? -->
+
+~~~sdparse
+I still remember him stuttering about " the general " , unable to remember Musharraf 's name
+advmod(stuttering, unable)
+~~~
+
+~~~sdparse
+You can rest assured that it 's not going to go away
+advmod(rest, assured)
+ccomp(assured, going)
+~~~
+
+~~~sdparse
+Find attached resume and cover letter
+advmod(Find, attached)
+dobj(Find, resume)
+~~~
+
+~~~sdparse
+Attached please find resume and cover letter
+advmod(find, attached)
+dobj(find, resume)
+~~~
+
+~~~sdparse
+Elk in Yellowstone used to browse unmolested
+advmod(browse, unmolested)
+~~~
+
 ### *Tough*-movement
 
 ### Comparatives
@@ -860,7 +897,7 @@ ccomp(know, leave)
 
 ~~~sdparse
 When you leave , be sure to let me know .
-advmod(leave, when)
+advmod(leave, When)
 advcl(sure, leave)
 ~~~
 
@@ -900,8 +937,8 @@ cop(who, 's)
 
 ~~~sdparse
 -ROOT- What the committee hopes to learn is why all these events transpired .
-nsubj(why, what)
-rcmod(what, hopes)
+nsubj(why, What)
+rcmod(What, hopes)
 cop(why, is)
 rcmod(why, transpired)
 nsubj(transpired, events)
