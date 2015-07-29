@@ -849,7 +849,11 @@ acl(Number, includes)
 #### Depictives
 
 [<!> May be subject to change]
-Resultatives and depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation. <!--- Should this be `advmod` or `advcl`? -->
+
+Resultatives and depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation.
+<!---
+Should this be `advmod` or `advcl`?
+-->
 
 ~~~sdparse
 I still remember him stuttering about " the general " , unable to remember Musharraf 's name
