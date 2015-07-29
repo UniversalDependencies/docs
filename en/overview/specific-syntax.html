@@ -690,6 +690,7 @@ nsubj(did-7, John)
 </code></pre>
 
 <pre><code class="language-sdparse">So please update whatever you need to
+dobj(update, whatever)
 rcmod(whatever, need)
 xcomp(need, to)
 </code></pre>
@@ -743,6 +744,9 @@ neg(been, never-4)
 aux(been, have)
 nsubj(been, I-2)
 cc(been, and)
+neg(official, never-9)
+aux(official, will)
+nsubj(official, I-7)
 conj(been, official)
 </code></pre>
 
@@ -772,6 +776,34 @@ acl(Number, includes)
 
 <h3 id="resultatives-and-depictives">Resultatives and depictives</h3>
 
+<h4 id="depictives">Depictives</h4>
+
+<p>[&lt;!&gt; May be subject to change]
+Resultatives and depictives are generally subject-less modifiers of predicates–consequently, they should be analyzed using the <code>advmod</code> relation. <!--- Should this be `advmod` or `advcl`? --></p>
+
+<pre><code class="language-sdparse">I still remember him stuttering about " the general " , unable to remember Musharraf 's name
+advmod(stuttering, unable)
+</code></pre>
+
+<pre><code class="language-sdparse">You can rest assured that it 's not going to go away
+advmod(rest, assured)
+ccomp(assured, going)
+</code></pre>
+
+<pre><code class="language-sdparse">Find attached resume and cover letter
+advmod(Find, attached)
+dobj(Find, resume)
+</code></pre>
+
+<pre><code class="language-sdparse">Attached please find resume and cover letter
+advmod(find, attached)
+dobj(find, resume)
+</code></pre>
+
+<pre><code class="language-sdparse">Elk in Yellowstone used to browse unmolested
+advmod(browse, unmolested)
+</code></pre>
+
 <h3 id="tough-movement"><em>Tough</em>-movement</h3>
 
 <h3 id="comparatives">Comparatives</h3>
@@ -788,7 +820,7 @@ ccomp(know, leave)
 </code></pre>
 
 <pre><code class="language-sdparse">When you leave , be sure to let me know .
-advmod(leave, when)
+advmod(leave, When)
 advcl(sure, leave)
 </code></pre>
 
@@ -823,8 +855,8 @@ cop(who, 's)
 </code></pre>
 
 <pre><code class="language-sdparse">-ROOT- What the committee hopes to learn is why all these events transpired .
-nsubj(why, what)
-rcmod(what, hopes)
+nsubj(why, What)
+rcmod(What, hopes)
 cop(why, is)
 rcmod(why, transpired)
 nsubj(transpired, events)
