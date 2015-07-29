@@ -808,7 +808,63 @@ dobj(find, resume)
 advmod(browse, unmolested)
 </code></pre>
 
-<h3 id="tough-movement"><em>Tough</em>-movement</h3>
+<h3 id="tough-constructions"><em>Tough</em>-constructions</h3>
+
+<h4 id="clauses-with-expletives">Clauses with expletives</h4>
+<p>In constructions without any dislocation, of the form <em>it is</em> adj <em>to</em> pred, the <em>it</em> is an <code>expl</code>, meaning that the lower predicate must be a <code>csubj</code>.</p>
+
+<pre><code class="language-sdparse">-ROOT- It 's hard to make money in this economy
+root(-ROOT-, hard)
+expl(hard, It)
+cop(hard, 's)
+csubj(hard, make)
+</code></pre>
+
+<p>This construction can optionally occur with <em>for</em> and a subject; in this case, there are two possible analyses. If the subject is interpreted as experiencing the adjective predicate in some way, then it analysed as an <code>nmod</code> on the higher predicate; otherwise, it is analyzed as being exclusively the subject of the lower clause, and the <em>for</em> is analyzed as being a <code>mark</code>.</p>
+
+<pre><code class="language-sdparse">-ROOT- It was hard for me to solve this problem.
+root(-ROOT-, hard)
+expl(hard, It)
+nmod(hard, me)
+case(me, for)
+csubj(hard, solve)
+</code></pre>
+
+<pre><code class="language-sdparse">-ROOT- It was helpful for John to solve this problem for us.
+root(-ROOT-, helpful)
+expl(helpful, It)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+</code></pre>
+
+<h4 id="fronting-in-tough-constructions">Fronting in <em>tough</em>-constructions</h4>
+
+<p>When the subject is not an argument of the higher clause, then the lower clause can displace the expletive.</p>
+
+<pre><code class="language-sdparse">-ROOT- For John to solve this problem for us was helpful
+root(-ROOT-, helpful)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+</code></pre>
+
+<p>When the subject <em>is</em> an argument of the higher clause, the lower verb phrase (in its gerund form) or its object (in its nominative form) can be fronted, displacing the expletive and maintaining its <code>csubj</code> label. In the latter case, the clause is no longer a <code>csubj</code>, being instead analyzed as an <code>xcomp</code>.</p>
+
+<pre><code class="language-sdparse">-ROOT- Solving this problem was hard for me
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+csubj(hard, solving)
+</code></pre>
+
+<pre><code class="language-sdparse">-ROOT- This problem was hard for me to solve
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+nsubj(hard, problem)
+xcomp(hard, solve)
+</code></pre>
 
 <h3 id="comparatives">Comparatives</h3>
 
