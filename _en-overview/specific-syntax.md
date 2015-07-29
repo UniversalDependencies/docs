@@ -883,7 +883,69 @@ Elk in Yellowstone used to browse unmolested
 advmod(browse, unmolested)
 ~~~
 
-### *Tough*-movement
+### *Tough*-constructions
+
+#### Clauses with expletives
+In constructions without any dislocation, of the form _it is_ adj _to_ pred, the _it_ is an `expl`, meaning that the lower predicate must be a `csubj`.
+
+~~~sdparse
+-ROOT- It 's hard to make money in this economy
+root(-ROOT-, hard)
+expl(hard, It)
+cop(hard, 's)
+csubj(hard, make)
+~~~
+
+This construction can optionally occur with _for_ and a subject; in this case, there are two possible analyses. If the subject is interpreted as experiencing the adjective predicate in some way, then it analysed as an `nmod` on the higher predicate; otherwise, it is analyzed as being exclusively the subject of the lower clause, and the _for_ is analyzed as being a `mark`.
+
+~~~sdparse
+-ROOT- It was hard for me to solve this problem.
+root(-ROOT-, hard)
+expl(hard, It)
+nmod(hard, me)
+case(me, for)
+csubj(hard, solve)
+~~~
+
+~~~sdparse
+-ROOT- It was helpful for John to solve this problem for us.
+root(-ROOT-, helpful)
+expl(helpful, It)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+~~~
+
+#### Fronting in _tough_-constructions
+
+When the subject is not an argument of the higher clause, then the lower clause can displace the expletive.
+
+~~~sdparse
+-ROOT- For John to solve this problem for us was helpful
+root(-ROOT-, helpful)
+csubj(helpful, solve)
+nsubj(solve, John)
+mark(solve, for)
+~~~
+
+When the subject _is_ an argument of the higher clause, the lower verb phrase (in its gerund form) or its object (in its nominative form) can be fronted, displacing the expletive and maintaining its `csubj` label. In the latter case, the clause is no longer a `csubj`, being instead analyzed as an `xcomp`.
+
+~~~sdparse
+-ROOT- Solving this problem was hard for me
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+csubj(hard, solving)
+~~~
+
+~~~sdparse
+-ROOT- This problem was hard for me to solve
+root(-ROOT-, hard)
+nmod(hard, me)
+case(me, for)
+nsubj(hard, problem)
+xcomp(hard, solve)
+~~~
 
 ### Comparatives
 
