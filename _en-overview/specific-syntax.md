@@ -846,11 +846,37 @@ acl(Number, includes)
 
 ### Resultatives and depictives
 
+#### Resultatives
+
+Resultatives--predicate arguments of verbs that indicate how another argument of the verb has changed--are considered to be arguments, and therefore receive the `xcomp` relation instead of a modifier one.
+
+~~~sdparse
+-ROOT- He painted the barn red .
+root(-ROOT-, painted)
+dobj(painted, barn)
+xcomp(painted, red)
+~~~
+
+~~~sdparse
+-ROOT- He made them martyrs .
+root(-ROOT-, made)
+dobj(made, them)
+xcomp(made, martyrs)
+~~~
+
+~~~sdparse
+-ROOT- The terrorists stormed the church and took the priests hostage
+root(-ROOT-, stormed)
+conj(stormed, took)
+dobj(took, priests)
+xcomp(took, hostage)
+~~~
+
 #### Depictives
 
 [<!> May be subject to change]
 
-Resultatives and depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation.
+Depictives are generally subject-less modifiers of predicates--consequently, they should be analyzed using the `advmod` relation.
 <!---
 Should this be `advmod` or `advcl`?
 -->
@@ -874,7 +900,7 @@ dobj(Find, resume)
 
 ~~~sdparse
 Attached please find resume and cover letter
-advmod(find, attached)
+advmod(find, Attached)
 dobj(find, resume)
 ~~~
 
@@ -935,7 +961,7 @@ When the subject _is_ an argument of the higher clause, the lower verb phrase (i
 root(-ROOT-, hard)
 nmod(hard, me)
 case(me, for)
-csubj(hard, solving)
+csubj(hard, Solving)
 ~~~
 
 ~~~sdparse
@@ -947,7 +973,143 @@ nsubj(hard, problem)
 xcomp(hard, solve)
 ~~~
 
-### Comparatives
+### Dependency-introducing Adverbs
+
+#### Comparatives
+Canonical comparatives are introduced using a comparative adverb (such as _more_, _less_, or _as_) depending on an adjective, and either a clause or prepositional phrase marked with _than_, which also depends on the adjective. In the clausal case, this normally means that the comparing clause is headed by an auxiliary or copula that has been "promoted by head elision".
+
+~~~sdparse
+Natália is much more intelligent than me
+advmod(more, much)
+advmod(intelligent, more)
+nmod(me, intelligent)
+case(am, than)
+~~~
+
+~~~sdparse
+Natália is much more intelligent than I am
+advmod(more, much)
+advmod(intelligent, more)
+advcl(am, intelligent)
+mark(am, than)
+~~~
+
+In many cases, the initial comparative adverb has been dropped or incorporated into the adjective.
+
+~~~sdparse
+Natália is much smarter than I am
+advmod(smarter, much)
+advcl(am, smarter)
+mark(am, than)
+~~~
+
+When the quantity of a noun is being compared, the same rules apply. Normally modifiers of nouns are deemed `amod`s, but in this construction the comparative marker is an `advmod` in all cases.
+
+~~~sdparse
+Natália has more brains than me
+dobj(has, brains)
+advmod(brains, more)
+nmod(brains, me)
+case(me, than)
+~~~
+
+_More than_ and _less than_--when not used synonymously with _over_ and _under_ in quantity expressions--complicate matters slightly, since the comparative adverb is being used without the head that it modifies. We use a "promotion by head elision" solution, making the dependent into the head when the head is absent.
+
+~~~sdparse
+All my neighbors have more than I do
+dobj(have, more)
+mark(do, than)
+acl(more, do)
+~~~
+
+When predicates are compared to predicates or modifiers are compared to modifiers, the comparing phrase is always labeled as an `advcl`.
+
+~~~sdparse
+That question was far more hurtful than tactful
+advmod(more, far)
+advmod(hurtful, more)
+advcl(hurtful, tactful)
+mark(tactful, than)
+~~~
+
+~~~sdparse
+It 's more likely than not to be beneficial .
+advmod(likely, more)
+advcl(likely, not)
+mark(not, than)
+xcomp(likely, beneficial)
+~~~
+
+When a noun phrase is used to restrict the meaning of a comparative, it gets the `npmod` dependency label.
+
+~~~sdparse
+Natália is about three times more intelligent than me .
+advmod(three, about)
+nummod(times, three)
+npmod(more, times)
+advmod(intelligent, more)
+nmod(intelligent, me)
+case(me, than)
+~~~
+
+~~~sdparse
+Some birds are laying eggs four to seven days earlier than they did 25 years ago .
+nummod(days, four)
+nmod(four, seven)
+case(seven, to)
+npmod(earlier, days)
+advmod(laying, earlier)
+advcl(earlier, did)
+mark(did, than)
+~~~
+
+
+#### Similar constructions
+A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.
+
+_X enough to/that..._
+~~~sdparse
+This drink is strong enough to knock out an elephant
+advmod(strong, enough)
+advcl(strong, knock)
+mark(knock, to)
+~~~
+
+~~~sdparse
+-ROOT- For now it was enough that he had learned his lesson .
+root(-ROOT-, enough)
+cop(enough, was)
+advcl(enough, learned)
+~~~
+
+_So many... that..._
+~~~sdparse
+-ROOT- There are so many things to do that you wo n't use your room for much more than sleeping .
+root(-ROOT-, things)
+amod(things, many)
+advmod(many, so)
+acl(things, do)
+acl(things, use)
+mark(use, that)
+~~~
+
+_Too X to..._
+~~~sdparse
+This problem was too hard to do.
+advmod(hard, too)
+advcl(hard, do)
+mark(do, to)
+~~~
+
+_Such... that..._
+~~~sdparse
+The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
+advmod(price, such)
+acl(price, hard)
+mark(hard, that)
+~~~
+
+#### The more, the merrier
 
 ### Free relatives
 
