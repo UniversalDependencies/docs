@@ -776,11 +776,34 @@ acl(Number, includes)
 
 <h3 id="resultatives-and-depictives">Resultatives and depictives</h3>
 
+<h4 id="resultatives">Resultatives</h4>
+
+<p>Resultatives–predicate arguments of verbs that indicate how another argument of the verb has changed–are considered to be arguments, and therefore receive the <code>xcomp</code> relation instead of a modifier one.</p>
+
+<pre><code class="language-sdparse">-ROOT- He painted the barn red .
+root(-ROOT-, painted)
+dobj(painted, barn)
+xcomp(painted, red)
+</code></pre>
+
+<pre><code class="language-sdparse">-ROOT- He made them martyrs .
+root(-ROOT-, made)
+dobj(made, them)
+xcomp(made, martyrs)
+</code></pre>
+
+<pre><code class="language-sdparse">-ROOT- The terrorists stormed the church and took the priests hostage
+root(-ROOT-, stormed)
+conj(stormed, took)
+dobj(took, priests)
+xcomp(took, hostage)
+</code></pre>
+
 <h4 id="depictives">Depictives</h4>
 
 <p>[&lt;!&gt; May be subject to change]</p>
 
-<p>Resultatives and depictives are generally subject-less modifiers of predicates–consequently, they should be analyzed using the <code>advmod</code> relation.
+<p>Depictives are generally subject-less modifiers of predicates–consequently, they should be analyzed using the <code>advmod</code> relation.
 <!---
 Should this be `advmod` or `advcl`?
 --></p>
@@ -800,7 +823,7 @@ dobj(Find, resume)
 </code></pre>
 
 <pre><code class="language-sdparse">Attached please find resume and cover letter
-advmod(find, attached)
+advmod(find, Attached)
 dobj(find, resume)
 </code></pre>
 
@@ -855,7 +878,7 @@ mark(solve, for)
 root(-ROOT-, hard)
 nmod(hard, me)
 case(me, for)
-csubj(hard, solving)
+csubj(hard, Solving)
 </code></pre>
 
 <pre><code class="language-sdparse">-ROOT- This problem was hard for me to solve
@@ -866,7 +889,132 @@ nsubj(hard, problem)
 xcomp(hard, solve)
 </code></pre>
 
-<h3 id="comparatives">Comparatives</h3>
+<h3 id="dependency-introducing-adverbs">Dependency-introducing Adverbs</h3>
+
+<h4 id="comparatives">Comparatives</h4>
+<p>Canonical comparatives are introduced using a comparative adverb (such as <em>more</em>, <em>less</em>, or <em>as</em>) depending on an adjective, and either a clause or prepositional phrase marked with <em>than</em>, which also depends on the adjective. In the clausal case, this normally means that the comparing clause is headed by an auxiliary or copula that has been “promoted by head elision”.</p>
+
+<pre><code class="language-sdparse">Natália is much more intelligent than me
+advmod(more, much)
+advmod(intelligent, more)
+nmod(me, intelligent)
+case(am, than)
+</code></pre>
+
+<pre><code class="language-sdparse">Natália is much more intelligent than I am
+advmod(more, much)
+advmod(intelligent, more)
+advcl(am, intelligent)
+mark(am, than)
+</code></pre>
+
+<p>In many cases, the initial comparative adverb has been dropped or incorporated into the adjective.</p>
+
+<pre><code class="language-sdparse">Natália is much smarter than I am
+advmod(smarter, much)
+advcl(am, smarter)
+mark(am, than)
+</code></pre>
+
+<p>When the quantity of a noun is being compared, the same rules apply. Normally modifiers of nouns are deemed <code>amod</code>s, but in this construction the comparative marker is an <code>advmod</code> in all cases.</p>
+
+<pre><code class="language-sdparse">Natália has more brains than me
+dobj(has, brains)
+advmod(brains, more)
+nmod(brains, me)
+case(me, than)
+</code></pre>
+
+<p><em>More than</em> and <em>less than</em>–when not used synonymously with <em>over</em> and <em>under</em> in quantity expressions–complicate matters slightly, since the comparative adverb is being used without the head that it modifies. We use a “promotion by head elision” solution, making the dependent into the head when the head is absent.</p>
+
+<pre><code class="language-sdparse">All my neighbors have more than I do
+dobj(have, more)
+mark(do, than)
+acl(more, do)
+</code></pre>
+
+<p>When predicates are compared to predicates or modifiers are compared to modifiers, the comparing phrase is always labeled as an <code>advcl</code>.</p>
+
+<pre><code class="language-sdparse">That question was far more hurtful than tactful
+advmod(more, far)
+advmod(hurtful, more)
+advcl(hurtful, tactful)
+mark(tactful, than)
+</code></pre>
+
+<pre><code class="language-sdparse">It 's more likely than not to be beneficial .
+advmod(likely, more)
+advcl(likely, not)
+mark(not, than)
+xcomp(likely, beneficial)
+</code></pre>
+
+<p>When a noun phrase is used to restrict the meaning of a comparative, it gets the <code>npmod</code> dependency label.</p>
+
+<pre><code class="language-sdparse">Natália is about three times more intelligent than me .
+advmod(three, about)
+nummod(times, three)
+npmod(more, times)
+advmod(intelligent, more)
+nmod(intelligent, me)
+case(me, than)
+</code></pre>
+
+<pre><code class="language-sdparse">Some birds are laying eggs four to seven days earlier than they did 25 years ago .
+nummod(days, four)
+nmod(four, seven)
+case(seven, to)
+npmod(earlier, days)
+advmod(laying, earlier)
+advcl(earlier, did)
+mark(did, than)
+</code></pre>
+
+<h4 id="similar-constructions">Similar constructions</h4>
+<p>A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.</p>
+
+<p><em>X enough to/that…</em>
+~~~sdparse
+This drink is strong enough to knock out an elephant
+advmod(strong, enough)
+advcl(strong, knock)
+mark(knock, to)
+~~~</p>
+
+<pre><code class="language-sdparse">-ROOT- For now it was enough that he had learned his lesson .
+root(-ROOT-, enough)
+cop(enough, was)
+advcl(enough, learned)
+</code></pre>
+
+<p><em>So many… that…</em>
+~~~sdparse
+-ROOT- There are so many things to do that you wo n’t use your room for much more than sleeping .
+root(-ROOT-, things)
+amod(things, many)
+advmod(many, so)
+acl(things, do)
+acl(things, use)
+mark(use, that)
+~~~</p>
+
+<p><em>Too X to…</em>
+~~~sdparse
+This problem was too hard to do.
+advmod(hard, too)
+advcl(hard, do)
+mark(do, to)
+~~~</p>
+
+<p><em>Such… that…</em>
+~~~sdparse
+The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
+advmod(price, such)
+acl(price, hard)
+mark(hard, that)
+~~~</p>
+
+<h4 id="the-more-the-merrier">The more, the merrier</h4>
 
 <h3 id="free-relatives">Free relatives</h3>
 
