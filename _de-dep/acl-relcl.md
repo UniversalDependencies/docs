@@ -9,15 +9,15 @@ are finite and are introduced with a relative pronoun that refers back to the no
 `acl:relcl` is a subtype of the [acl]() relation.
 
 ~~~ sdparse
-Lege das Buch auf den Tisch , der dort drüben steht . \n Put the book on the table that stands over there .
+Er legt das Buch auf den Tisch , der dort drüben steht . \n Put the book on the table that stands over there .
 acl:relcl(Tisch, steht)
 nsubj(steht, der)
 ~~~
 
 ~~~ sdparse
-Stelle den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
+Er stellt den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
 acl:relcl(Tisch, liegt)
-nmod(steht, dem)
+nmod(liegt, dem)
 ~~~
 
 Extraposed relative clauses often introduce non-projective structures.
