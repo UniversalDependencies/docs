@@ -23,7 +23,7 @@ universal POS categories have substantive definitions and are not necessarily ju
 of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
 requires context-sensitive rules, or some hand correction.
 
-The UD morphological features aims to provide a stripped down basic set of feature which are most crucial for 
+The UD morphological features aim to provide a stripped down basic set of features which are most crucial for 
 analysis and are widespread across languages.
 
 The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
