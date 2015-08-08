@@ -10,15 +10,15 @@ The UD tags have substantive definitions and are not simply equivalence classes 
 language-particular treebanks. That is, the situation is different from the pure equivalence class approach used in
 the original 2011 Google Universal POS Tags work. Some tags can only be mapped correctly if we also know the lemma
 or the syntactic context. As a concrete example, we now distinguish adpositions (`ADP`) from subordinating conjunctions (`SCONJ`).
-This distinction is not available in the Penn Treebank English POS tag set (where both are IN), and for words that 
+This distinction is not available in the Penn Treebank English POS tag set (where both are IN), and for words that
 can be used in either role, the correct UD POS tag can only be
-recovered by looking at the syntactic context in which the word appears. Such information is not used in the 
-mappings made available here. 
+recovered by looking at the syntactic context in which the word appears. Such information is not used in the
+mappings made available here.
 These conversion tables were generated automatically via <a href="http://ufal.mff.cuni.cz/interset">Interset</a>.
 It uses only tags (+ features) as input; therefore the result is only an approximation of correct UD tags.
 Thus both the tables and  the applications of them to POS-tagged text will likely require manual postprocessing
 in order to provide accurate and complete UD information.
-Nevertheless, in practice, most tags in most languages can still be mapped correctly without 
+Nevertheless, in practice, most tags in most languages can still be mapped correctly without
 such use of syntactic content of morphological analysis, and hence this automatic conversion can be quite useful.
 
 * <a href="ar-padt-uposf.html">ar::padt</a> (Arabic)
@@ -61,6 +61,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="ru-syntagrus-uposf.html">ru::syntagrus</a> (Russian)
 * <a href="sk-snk-uposf.html">sk::snk</a> (Slovak)
 * <a href="sl-conll-uposf.html">sl::conll</a> (Slovenian)
+* <a href="sl-multext-uposf.html">sl::multext</a> (Slovenian)
 * <a href="sv-mamba-uposf.html">sv::mamba</a> (Swedish)
 * <a href="sv-parole-uposf.html">sv::parole</a> (Swedish)
 * <a href="sv-suc-uposf.html">sv::suc</a> (Swedish)
