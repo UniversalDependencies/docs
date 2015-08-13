@@ -897,14 +897,14 @@ xcomp(hard, solve)
 <pre><code class="language-sdparse">Natália is much more intelligent than me
 advmod(more, much)
 advmod(intelligent, more)
-nmod(me, intelligent)
-case(am, than)
+nmod(intelligent, me)
+case(me, than)
 </code></pre>
 
 <pre><code class="language-sdparse">Natália is much more intelligent than I am
 advmod(more, much)
 advmod(intelligent, more)
-advcl(am, intelligent)
+advcl(intelligent, am)
 mark(am, than)
 </code></pre>
 
@@ -1015,6 +1015,40 @@ mark(hard, that)
 ~~~</p>
 
 <h4 id="the-more-the-merrier">The more, the merrier</h4>
+<p>In English there exists a very peculiar correlative construction exemplified in the sentences <em>the more, the merrier</em> and <em>the faster, the better</em>. Even though both parts of the construction seem equal, suggesting a paratactic relationship between them, it is possible to have the second half be a standard finite clause while the first half remains unchanged, suggesting that the first is actually an adverbial clause depending on the second. For example, the sentence <em>The angrier he became, the funnier it got</em> can be rephrased as <em>It got funnier the angrier he became</em>, suggesting the following structure:</p>
+
+<pre><code class="language-sdparse">The more , the merrier
+advcl(merrier, more)
+</code></pre>
+
+<p>The word <em>the</em> in this construction is not serving its usual purpose as definite article (and in fact, historically the construction required it to be in the instrumental case, rather than in a case dictated by the grammatical function of the word it modified), so instead of labeling it <code>det</code> we choose to label it <code>mark</code>.</p>
+
+<pre><code class="language-sdparse">The more, the merrier
+advcl(merrier, more)
+mark(more, The)
+mark(merrier, the)
+</code></pre>
+
+<p>The comparative morpheme or adjective can be followed by a clause as well, such as “the more people that show up, the merrier the party will be”. Because the word <em>that</em> can intervene between the comparative word, the strcuture seems most consistent with a relative clause depending on the comparative, so we analyze it as such.</p>
+
+<pre><code class="language-sdparse">The angrier that he became , the funnier that it got .
+mark(angrier, The)
+relcl(angrier, became)
+advmod(became, that-3)
+nsubj(became, he)
+mark(funnier, the-7)
+relcl(funnier, that-9)
+aux(that-9, got)
+nsubj(that-9, it)
+</code></pre>
+
+<p>The sentence <em>so far, so good</em> should receive the same kind of analysis.</p>
+
+<pre><code class="language-sdparse">So far , so good
+mark(far, So)
+mark(good, so)
+advcl(good, far)
+</code></pre>
 
 <h3 id="free-relatives">Free relatives</h3>
 
