@@ -982,15 +982,15 @@ Canonical comparatives are introduced using a comparative adverb (such as _more_
 Natália is much more intelligent than me
 advmod(more, much)
 advmod(intelligent, more)
-nmod(me, intelligent)
-case(am, than)
+nmod(intelligent, me)
+case(me, than)
 ~~~
 
 ~~~sdparse
 Natália is much more intelligent than I am
 advmod(more, much)
 advmod(intelligent, more)
-advcl(am, intelligent)
+advcl(intelligent, am)
 mark(am, than)
 ~~~
 
@@ -1110,6 +1110,44 @@ mark(hard, that)
 ~~~
 
 #### The more, the merrier
+In English there exists a very peculiar correlative construction exemplified in the sentences _the more, the merrier_ and _the faster, the better_. Even though both parts of the construction seem equal, suggesting a paratactic relationship between them, it is possible to have the second half be a standard finite clause while the first half remains unchanged, suggesting that the first is actually an adverbial clause depending on the second. For example, the sentence _The angrier he became, the funnier it got_ can be rephrased as _It got funnier the angrier he became_, suggesting the following structure:
+
+~~~sdparse
+The more , the merrier
+advcl(merrier, more)
+~~~
+
+The word _the_ in this construction is not serving its usual purpose as definite article (and in fact, historically the construction required it to be in the instrumental case, rather than in a case dictated by the grammatical function of the word it modified), so instead of labeling it `det` we choose to label it `mark`.
+
+~~~sdparse
+The more, the merrier
+advcl(merrier, more)
+mark(more, The)
+mark(merrier, the)
+~~~
+
+The comparative morpheme or adjective can be followed by a clause as well, such as "the more people that show up, the merrier the party will be". Because the word _that_ can intervene between the comparative word, the strcuture seems most consistent with a relative clause depending on the comparative, so we analyze it as such.
+
+~~~sdparse
+The angrier that he became , the funnier that it got .
+mark(angrier, The)
+relcl(angrier, became)
+advmod(became, that-3)
+nsubj(became, he)
+mark(funnier, the-7)
+relcl(funnier, that-9)
+aux(that-9, got)
+nsubj(that-9, it)
+~~~
+
+The sentence _so far, so good_ should receive the same kind of analysis.
+
+~~~sdparse
+So far , so good
+mark(far, So)
+mark(good, so)
+advcl(good, far)
+~~~
 
 ### Free relatives
 
