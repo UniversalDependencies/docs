@@ -50,3 +50,6 @@ that require information that is not necessarily present in source
 treebanks, e.g. control, the core vs non-core distinction, etc.), as
 well as chosen solutions for different languages.
 
+* Future of UD: semantics?
+
+
