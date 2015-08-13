@@ -92,6 +92,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
+* <a href="index.html#language-ca">Catalan</a>: Dan Zeman, Elena Pascual
 * <a href="index.html#language-zh">Chinese</a>: Rob Voigt
 * <a href="index.html#language-cu">Church Slavonic</a>: Dag Haug
 * <a href="index.html#language-hr">Croatian</a>: Željko Agić, Nikola Ljubešić
@@ -116,9 +117,9 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
-* <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros
+* <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
-* <a href="index.html#language-tr">Turkish</a>: Cagri Coltekin, Francis Tyers, Jonathan Washington
+* <a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington
 
 ## References
 
