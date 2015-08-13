@@ -43,3 +43,10 @@ This list does not replace the Github <a href="https://github.com/universaldepen
 * Tokenisation. In some languages (such as Kazakh and Turkish) it may be necessary to have dependency relations between sub-word units (often called inflectional groups, IGs), as discussed, for example, in <a href="https://github.com/UniversalDependencies/docs/issues/125">#125</a>. e.g. In the phrase "mavi arabadakiler", it is clear that the car (araba) is blue (mavi), not the people in it (-dakiler).
 
 * Clitics and clitic doubling. Should the clitics get assigned different relations with respect to whether they are used alone (obj or iobj) or in a doubling (expl)?
+
+* Conversion best practices: available software, documentation,
+discussion of difficult constructions (in particular UD constructions
+that require information that is not necessarily present in source
+treebanks, e.g. control, the core vs non-core distinction, etc.), as
+well as chosen solutions for different languages.
+
