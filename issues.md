@@ -52,4 +52,7 @@ well as chosen solutions for different languages.
 
 * Future of UD: semantics?
 
+* Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. 
+
+
 
