@@ -9,15 +9,15 @@ The main goal for the next UD release is to improve consistency across languages
 
 This list does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">issue tracker</a>. It is rather a subset of open issues from the issue tracker, with main points emphasized here. The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should remain there.
 
-* Coordination. The guidelines specify that the first conjunct should be the head, but there are languages and constructions where, for example, inflection indicates that another conjunct (usually the final one) is the head. Examples from Turkish and Kazakh are found in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. Should we insist that the first conjunct is always the head? Should we allow languages to choose a single consistent head-direction for coordination? Or should we allow this to vary within languages as well?
+1. Coordination. The guidelines specify that the first conjunct should be the head, but there are languages and constructions where, for example, inflection indicates that another conjunct (usually the final one) is the head. Examples from Turkish and Kazakh are found in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. Should we insist that the first conjunct is always the head? Should we allow languages to choose a single consistent head-direction for coordination? Or should we allow this to vary within languages as well?
 
-* Copula sentences. The guidelines say that the copula verb should not be the root of a clause, but how do we draw the line between the copula verb and other uses of existential verbs like "be"? This is discussed in issue <a href="https://github.com/UniversalDependencies/docs/issues/170">#170</a>. While everyone agrees that "is" is a copula in "She is nice" and "She is in shape", there is disagreement about "She is in London" and "The problem is that copulas are tricky". In addition, there is the issue of whether this treatment should be extended to other verbs, for example, inchoative copula verbs (English "become", French "devenir", Swedish "bli").
+2. Copula sentences. The guidelines say that the copula verb should not be the root of a clause, but how do we draw the line between the copula verb and other uses of existential verbs like "be"? This is discussed in issue <a href="https://github.com/UniversalDependencies/docs/issues/170">#170</a>. While everyone agrees that "is" is a copula in "She is nice" and "She is in shape", there is disagreement about "She is in London" and "The problem is that copulas are tricky". In addition, there is the issue of whether this treatment should be extended to other verbs, for example, inchoative copula verbs (English "become", French "devenir", Swedish "bli").
 
-* Cleft sentences. These are closely linked to copula sentences (at least in the case of Irish). Also, in Irish, there is no equivalent to the English expletive "it", which may lead to a different analysis from those of other languages. See issue <a href="https://github.com/UniversalDependencies/docs/issues/162">#162</a>
+3. Cleft sentences. These are closely linked to copula sentences (at least in the case of Irish). Also, in Irish, there is no equivalent to the English expletive "it", which may lead to a different analysis from those of other languages. See issue <a href="https://github.com/UniversalDependencies/docs/issues/162">#162</a>
 
-* Determiners and pronouns. Many languages have words that can be used both as determiners ("this book") and full noun phrases ("this"). Should these words be tagged [u-pos/DET]() or [u-pos/PRON]()? Or should they be tagged [u-pos/DET]() when used as determiners and [u-pos/PRON]() when used as full noun phrases? See issue <a href="https://github.com/UniversalDependencies/docs/issues/159">#159</a>.
+4. Determiners and pronouns. Many languages have words that can be used both as determiners ("this book") and full noun phrases ("this"). Should these words be tagged [u-pos/DET]() or [u-pos/PRON]()? Or should they be tagged [u-pos/DET]() when used as determiners and [u-pos/PRON]() when used as full noun phrases? See issue <a href="https://github.com/UniversalDependencies/docs/issues/159">#159</a>.
 
-* Ellipsis.
+5. Ellipsis.
   See the
   <a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
   for an overview of possibilities. 
@@ -28,31 +28,30 @@ This list does not replace the Github <a href="https://github.com/universaldepen
   Do we still believe that `NULL` nodes are evil?
   Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.
 
-* Light-verb constructions. A recent poster at PARSEME has surveyed the annotation of LVCs in v1.1 and found three different approaches. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #13).
+6. Light-verb constructions. A recent poster at PARSEME has surveyed the annotation of LVCs in v1.1 and found three different approaches. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #13).
 
-* Multi-word expressions. A recent poster at PARSEME has surveyed the annotation of MWEs in v1.1 and found a number of   inconsistencies. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #5).
+7. Multi-word expressions. A recent poster at PARSEME has surveyed the annotation of MWEs in v1.1 and found a number of   inconsistencies. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #5).
 
-* Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
-  Some treebanks may split them to syntactic words? Others keep them together.
+8. Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). Some treebanks may split them to syntactic words? Others keep them together.
   The issue is also related to how different treebanks tokenize abbreviations and their punctuation.
 
-* Names. The guidelines say that multi-word names should be given an ordinary, compositional syntactic structure whenever possible, and otherwise analyzed as head-initial structures with the [u-dep/name]() relation. A typical example of the latter case is firstname-lastname expressions like "Sherlock Holmes". However, there are many languages where there is morphological evidence that the last name is the head in this kind of structure (for example, Hungarian). Should these languages still use the [u-dep/name]() relation? Are they allowed to take the last element as the head? Is this a parameter that varies across languages? A related issue is whether names with a compositional structure should still somehow be annotated as names is the enhanced dependency structure.
+9. Names. The guidelines say that multi-word names should be given an ordinary, compositional syntactic structure whenever possible, and otherwise analyzed as head-initial structures with the [u-dep/name]() relation. A typical example of the latter case is firstname-lastname expressions like "Sherlock Holmes". However, there are many languages where there is morphological evidence that the last name is the head in this kind of structure (for example, Hungarian). Should these languages still use the [u-dep/name]() relation? Are they allowed to take the last element as the head? Is this a parameter that varies across languages? A related issue is whether names with a compositional structure should still somehow be annotated as names is the enhanced dependency structure.
 
-* Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/178">#178</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
+10. Particles. There is a special part-of-speech tag for grammatical particles, but it is often unclear what dependency  relation to assign to particles, for example, question particles (<a href="https://github.com/UniversalDependencies/docs/issues/178">#178</a>). The relations [u-dep/aux](), [u-dep/compound](), [u-dep/discourse](), [u-dep/expl](), and [u-dep/mark]() have all been proposed for various types of particles.
 
-* Tokenisation. In some languages (such as Kazakh and Turkish) it may be necessary to have dependency relations between sub-word units (often called inflectional groups, IGs), as discussed, for example, in <a href="https://github.com/UniversalDependencies/docs/issues/125">#125</a>. e.g. In the phrase "mavi arabadakiler", it is clear that the car (araba) is blue (mavi), not the people in it (-dakiler).
+11. Tokenisation. In some languages (such as Kazakh and Turkish) it may be necessary to have dependency relations between sub-word units (often called inflectional groups, IGs), as discussed, for example, in <a href="https://github.com/UniversalDependencies/docs/issues/125">#125</a>. e.g. In the phrase "mavi arabadakiler", it is clear that the car (araba) is blue (mavi), not the people in it (-dakiler).
 
-* Clitics and clitic doubling. Should the clitics get assigned different relations with respect to whether they are used alone (obj or iobj) or in a doubling (expl)?
+12. Clitics and clitic doubling. Should the clitics get assigned different relations with respect to whether they are used alone (obj or iobj) or in a doubling (expl)?
 
-* Conversion best practices: available software, documentation,
+13. Conversion best practices: available software, documentation,
 discussion of difficult constructions (in particular UD constructions
 that require information that is not necessarily present in source
 treebanks, e.g. control, the core vs non-core distinction, etc.), as
 well as chosen solutions for different languages.
 
-* Future of UD: semantics?
+14. Future of UD: semantics?
 
-* Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. 
+15. Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. 
 
 
 
