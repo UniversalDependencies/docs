@@ -38,7 +38,7 @@
 
 <p>This list does not replace the Github <a href="https://github.com/universaldependencies/docs/issues">issue tracker</a>. It is rather a subset of open issues from the issue tracker, with main points emphasized here. The relevant issues in the issue tracker should be referenced from here; comments and on-line discussion should remain there.</p>
 
-<ul>
+<ol>
   <li>
     <p>Coordination. The guidelines specify that the first conjunct should be the head, but there are languages and constructions where, for example, inflection indicates that another conjunct (usually the final one) is the head. Examples from Turkish and Kazakh are found in issue <a href="https://github.com/UniversalDependencies/docs/issues/189">#189</a>. Should we insist that the first conjunct is always the head? Should we allow languages to choose a single consistent head-direction for coordination? Or should we allow this to vary within languages as well?</p>
   </li>
@@ -53,15 +53,15 @@
   </li>
   <li>
     <p>Ellipsis.
-See the
-<a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
-for an overview of possibilities. 
-A related issue is <a href="https://github.com/UniversalDependencies/docs/issues/164">#164</a> (multiple root trees).
-Questions: 
-Are we satisfied with the <a href="">u-dep/remnant</a> analysis in cases where function word promotion by head elision is not   applicable?
-Even if we are, what do we do in cases where it cannot be applied (such as two orphaned verb arguments, no coordination)?
-Do we still believe that <code>NULL</code> nodes are evil?
-Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.</p>
+  See the
+  <a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">Czech documentation</a>
+  for an overview of possibilities. 
+  A related issue is <a href="https://github.com/UniversalDependencies/docs/issues/164">#164</a> (multiple root trees).
+  Questions: 
+  Are we satisfied with the <a href="">u-dep/remnant</a> analysis in cases where function word promotion by head elision is not   applicable?
+  Even if we are, what do we do in cases where it cannot be applied (such as two orphaned verb arguments, no coordination)?
+  Do we still believe that <code>NULL</code> nodes are evil?
+  Ideally, we should collect all examples related to ellipsis and provide guidelines how they should be analyzed.</p>
   </li>
   <li>
     <p>Light-verb constructions. A recent poster at PARSEME has surveyed the annotation of LVCs in v1.1 and found three different approaches. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #13).</p>
@@ -70,9 +70,8 @@ Ideally, we should collect all examples related to ellipsis and provide guidelin
     <p>Multi-word expressions. A recent poster at PARSEME has surveyed the annotation of MWEs in v1.1 and found a number of   inconsistencies. The abstract of the poster will soon be available <a href="http://typo.uni-konstanz.de/parseme/index.php/2-general/138-admitted-posters-iasi-23-24-september-2015">here</a> (poster #5).</p>
   </li>
   <li>
-    <p>Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>).
-Some treebanks may split them to syntactic words? Others keep them together.
-The issue is also related to how different treebanks tokenize abbreviations and their punctuation.</p>
+    <p>Multi-word abbreviations (<a href="https://github.com/UniversalDependencies/docs/issues/181">#181</a>). Some treebanks may split them to syntactic words? Others keep them together.
+  The issue is also related to how different treebanks tokenize abbreviations and their punctuation.</p>
   </li>
   <li>
     <p>Names. The guidelines say that multi-word names should be given an ordinary, compositional syntactic structure whenever possible, and otherwise analyzed as head-initial structures with the <a href="">u-dep/name</a> relation. A typical example of the latter case is firstname-lastname expressions like “Sherlock Holmes”. However, there are many languages where there is morphological evidence that the last name is the head in this kind of structure (for example, Hungarian). Should these languages still use the <a href="">u-dep/name</a> relation? Are they allowed to take the last element as the head? Is this a parameter that varies across languages? A related issue is whether names with a compositional structure should still somehow be annotated as names is the enhanced dependency structure.</p>
@@ -99,7 +98,7 @@ well as chosen solutions for different languages.</p>
   <li>
     <p>Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. </p>
   </li>
-</ul>
+</ol>
 
 
 
