@@ -54,3 +54,5 @@ well as chosen solutions for different languages.
 15. Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. 
 
 16. Adpositions (<a href="https://github.com/UniversalDependencies/docs/issues/203">#203</a>). They are sometimes attached as `case`, sometimes as `mark` or `aux`, and the rules are not consistent across languages. More details are in <a href="http://github.com/UniversalDependencies/docs/files/1437/Adpositions.in.Universal.Dependencies.pdf">this document</a>. (Note that there is a slight overlap with the issue 10 above – Particles.)
+
+17. Reflexive pronouns (<a href="https://github.com/UniversalDependencies/docs/issues/204">#204</a>). They are sometimes attached as `dobj`, sometimes as `compound:reflex` or `expl`, and the rules are not consistent across languages. More details are in <a href="http://github.com/UniversalDependencies/docs/files/1438/Inherently.reflexive.verbs.in.Universal.Dependencies.pdf">this document</a>.
