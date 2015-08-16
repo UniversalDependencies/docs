@@ -53,5 +53,4 @@ well as chosen solutions for different languages.
 
 15. Tool development. It would be very useful to have annotation and visualization software tailored for the UD scheme. It would also be nice to have a baseline processing pipeline for tokenization, tagging and parsing that could be trained on any UD treebank. 
 
-
-
+16. Adpositions (<a href="https://github.com/UniversalDependencies/docs/issues/203">#203</a>). They are sometimes attached as `case`, sometimes as `mark` or `aux`, and the rules are not consistent across languages. More details are in <a href="http://github.com/UniversalDependencies/docs/files/1436/Adpositions.in.Universal.Dependencies.pdf">this document</a>.
