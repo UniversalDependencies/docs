@@ -992,6 +992,20 @@ grammar. Language-specific extensions to these guidelines should
 determine whether the <code>Com</code> value is appropriate for a particular
 language.</p>
 
+<p>Note further that the <code>Com</code> value is not intended for cases where
+we just cannot derive the gender from the word itself (without seeing the context),
+while the language actually distinguishes <code>Masc</code> and <code>Fem</code>.
+For example, in Spanish, nouns distinguish two genders, masculine and feminine, and
+every noun can be classified as either <code>Masc</code> or <code>Fem</code>. Adjectives are supposed to
+agree with nouns in gender (and number), which they typically achieve by alternating <em>-o / -a.</em>
+But then there are adjectives such as <em>grande</em> or <em>feliz</em> that have only one form for both genders.
+So we cannot tell whether they are masculine or feminine unless we see the context.
+Yet they are either masculine or feminine (feminine in <em>una ciudad grande,</em> masculine in <em>un puerto grande).</em>
+Therefore in Spanish we should not tag <em>grande</em> with <code>Gender=Com</code>.
+Instead, we should either drop the gender feature entirely
+(suggesting that this word does not inflect for gender)
+or tag individual instances of <em>grande</em> as either masculine or feminine, depending on context.</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_u-feat/Gender.md" target="#">edit Gender</a></p>
 
 <p><a id="al-u-feat/Mood" class="al-dest"></a></p>
