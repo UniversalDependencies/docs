@@ -199,7 +199,7 @@ Clausal core arguments are restricted to verbal and adjectival predicates. Nouns
 
 #### Functional control
 
-The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions: _raising_, _obligatory control_, _resultatives_ (obligatory and optional alike) and _obligatory depictives_.
+The label `xcomp` is used for predicates whose external argument is _controlled_ by an argument of a higher clause. This applies in multiple types of constructions (often referred to as "small clauses"): _raising_, _obligatory control_, _resultatives_ (obligatory and optional alike) and _obligatory depictives_.
 
 ~~~sdparse
 The cat seems to be in pain .
@@ -999,7 +999,7 @@ In many cases, the initial comparative adverb has been dropped or incorporated i
 ~~~sdparse
 Natália is much smarter than I am
 advmod(smarter, much)
-advcl(am, smarter)
+advcl(smarter, am)
 mark(am, than)
 ~~~
 
@@ -1063,52 +1063,6 @@ advcl(earlier, did)
 mark(did, than)
 ~~~
 
-
-#### Similar constructions
-A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.
-
-_X enough to/that..._
-~~~sdparse
-This drink is strong enough to knock out an elephant
-advmod(strong, enough)
-advcl(strong, knock)
-mark(knock, to)
-~~~
-
-~~~sdparse
--ROOT- For now it was enough that he had learned his lesson .
-root(-ROOT-, enough)
-cop(enough, was)
-advcl(enough, learned)
-~~~
-
-_So many... that..._
-~~~sdparse
--ROOT- There are so many things to do that you wo n't use your room for much more than sleeping .
-root(-ROOT-, things)
-amod(things, many)
-advmod(many, so)
-acl(things, do)
-acl(things, use)
-mark(use, that)
-~~~
-
-_Too X to..._
-~~~sdparse
-This problem was too hard to do.
-advmod(hard, too)
-advcl(hard, do)
-mark(do, to)
-~~~
-
-_Such... that..._
-~~~sdparse
-The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
-advmod(price, such)
-acl(price, hard)
-mark(hard, that)
-~~~
-
 #### The more, the merrier
 In English there exists a very peculiar correlative construction exemplified in the sentences _the more, the merrier_ and _the faster, the better_. Even though both parts of the construction seem equal, suggesting a paratactic relationship between them, it is possible to have the second half be a standard finite clause while the first half remains unchanged, suggesting that the first is actually an adverbial clause depending on the second. For example, the sentence _The angrier he became, the funnier it got_ can be rephrased as _It got funnier the angrier he became_, suggesting the following structure:
 
@@ -1120,7 +1074,7 @@ advcl(merrier, more)
 The word _the_ in this construction is not serving its usual purpose as definite article (and in fact, historically the construction required it to be in the instrumental case, rather than in a case dictated by the grammatical function of the word it modified), so instead of labeling it `det` we choose to label it `mark`.
 
 ~~~sdparse
-The more, the merrier
+The more , the merrier
 advcl(merrier, more)
 mark(more, The)
 mark(merrier, the)
@@ -1147,6 +1101,55 @@ So far , so good
 mark(far, So)
 mark(good, so)
 advcl(good, far)
+~~~
+
+#### Similar constructions
+A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.
+
+_X enough to/that..._
+
+~~~sdparse
+This drink is strong enough to knock out an elephant
+advmod(strong, enough)
+advcl(strong, knock)
+mark(knock, to)
+~~~
+
+~~~sdparse
+-ROOT- For now it was enough that he had learned his lesson .
+root(-ROOT-, enough)
+cop(enough, was)
+advcl(enough, learned)
+~~~
+
+_So many... that..._
+
+~~~sdparse
+-ROOT- There are so many things to do that you wo n't use your room for much more than sleeping .
+root(-ROOT-, things)
+amod(things, many)
+advmod(many, so)
+acl(things, do)
+acl(things, use)
+mark(use, that)
+~~~
+
+_Too X to..._
+
+~~~sdparse
+This problem was too hard to do.
+advmod(hard, too)
+advcl(hard, do)
+mark(do, to)
+~~~
+
+_Such... that..._
+
+~~~sdparse
+The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
+advmod(price, such)
+acl(price, hard)
+mark(hard, that)
 ~~~
 
 ### Free relatives
