@@ -205,7 +205,7 @@ csubj(rare, find)
 
 <h4 id="functional-control">Functional control</h4>
 
-<p>The label <code>xcomp</code> is used for predicates whose external argument is <em>controlled</em> by an argument of a higher clause. This applies in multiple types of constructions: <em>raising</em>, <em>obligatory control</em>, <em>resultatives</em> (obligatory and optional alike) and <em>obligatory depictives</em>.</p>
+<p>The label <code>xcomp</code> is used for predicates whose external argument is <em>controlled</em> by an argument of a higher clause. This applies in multiple types of constructions (often referred to as “small clauses”): <em>raising</em>, <em>obligatory control</em>, <em>resultatives</em> (obligatory and optional alike) and <em>obligatory depictives</em>.</p>
 
 <pre><code class="language-sdparse">The cat seems to be in pain .
 nsubj(seems, cat)
@@ -912,7 +912,7 @@ mark(am, than)
 
 <pre><code class="language-sdparse">Natália is much smarter than I am
 advmod(smarter, much)
-advcl(am, smarter)
+advcl(smarter, am)
 mark(am, than)
 </code></pre>
 
@@ -970,50 +970,6 @@ advcl(earlier, did)
 mark(did, than)
 </code></pre>
 
-<h4 id="similar-constructions">Similar constructions</h4>
-<p>A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.</p>
-
-<p><em>X enough to/that…</em>
-~~~sdparse
-This drink is strong enough to knock out an elephant
-advmod(strong, enough)
-advcl(strong, knock)
-mark(knock, to)
-~~~</p>
-
-<pre><code class="language-sdparse">-ROOT- For now it was enough that he had learned his lesson .
-root(-ROOT-, enough)
-cop(enough, was)
-advcl(enough, learned)
-</code></pre>
-
-<p><em>So many… that…</em>
-~~~sdparse
--ROOT- There are so many things to do that you wo n’t use your room for much more than sleeping .
-root(-ROOT-, things)
-amod(things, many)
-advmod(many, so)
-acl(things, do)
-acl(things, use)
-mark(use, that)
-~~~</p>
-
-<p><em>Too X to…</em>
-~~~sdparse
-This problem was too hard to do.
-advmod(hard, too)
-advcl(hard, do)
-mark(do, to)
-~~~</p>
-
-<p><em>Such… that…</em>
-~~~sdparse
-The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
-advmod(price, such)
-acl(price, hard)
-mark(hard, that)
-~~~</p>
-
 <h4 id="the-more-the-merrier">The more, the merrier</h4>
 <p>In English there exists a very peculiar correlative construction exemplified in the sentences <em>the more, the merrier</em> and <em>the faster, the better</em>. Even though both parts of the construction seem equal, suggesting a paratactic relationship between them, it is possible to have the second half be a standard finite clause while the first half remains unchanged, suggesting that the first is actually an adverbial clause depending on the second. For example, the sentence <em>The angrier he became, the funnier it got</em> can be rephrased as <em>It got funnier the angrier he became</em>, suggesting the following structure:</p>
 
@@ -1023,7 +979,7 @@ advcl(merrier, more)
 
 <p>The word <em>the</em> in this construction is not serving its usual purpose as definite article (and in fact, historically the construction required it to be in the instrumental case, rather than in a case dictated by the grammatical function of the word it modified), so instead of labeling it <code>det</code> we choose to label it <code>mark</code>.</p>
 
-<pre><code class="language-sdparse">The more, the merrier
+<pre><code class="language-sdparse">The more , the merrier
 advcl(merrier, more)
 mark(more, The)
 mark(merrier, the)
@@ -1048,6 +1004,50 @@ nsubj(that-9, it)
 mark(far, So)
 mark(good, so)
 advcl(good, far)
+</code></pre>
+
+<h4 id="similar-constructions">Similar constructions</h4>
+<p>A non-exhaustive list of constructions with analyses very similar to the analysis of standard comparatives.</p>
+
+<p><em>X enough to/that…</em></p>
+
+<pre><code class="language-sdparse">This drink is strong enough to knock out an elephant
+advmod(strong, enough)
+advcl(strong, knock)
+mark(knock, to)
+</code></pre>
+
+<pre><code class="language-sdparse">-ROOT- For now it was enough that he had learned his lesson .
+root(-ROOT-, enough)
+cop(enough, was)
+advcl(enough, learned)
+</code></pre>
+
+<p><em>So many… that…</em></p>
+
+<pre><code class="language-sdparse">-ROOT- There are so many things to do that you wo n't use your room for much more than sleeping .
+root(-ROOT-, things)
+amod(things, many)
+advmod(many, so)
+acl(things, do)
+acl(things, use)
+mark(use, that)
+</code></pre>
+
+<p><em>Too X to…</em></p>
+
+<pre><code class="language-sdparse">This problem was too hard to do.
+advmod(hard, too)
+advcl(hard, do)
+mark(do, to)
+</code></pre>
+
+<p><em>Such… that…</em></p>
+
+<pre><code class="language-sdparse">The stock would come public at such a ridiculously high price that it would be too hard for investors to make a profit
+advmod(price, such)
+acl(price, hard)
+mark(hard, that)
 </code></pre>
 
 <h3 id="free-relatives">Free relatives</h3>
