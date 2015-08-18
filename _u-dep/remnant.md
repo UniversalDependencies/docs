@@ -80,6 +80,7 @@ nmod(aussprachen, Clinton-11)
 nmod(spoke-out, Clinton-24)
 remnant(Prozent-9, Prozent-3)
 remnant(percent-22, percent-16)
+remnant(Clinton-11, Bush-6)
 remnant(Clinton-24, Bush-19)
 ~~~
 
