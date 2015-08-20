@@ -35,7 +35,7 @@ The fields must additionally meet the following constraints:
 
 # Words and Tokens
 
-To accommodate the representation of both words and (multiword) tokens (see <a href="tokenization.html">Tokenization</a>), 
+To accommodate the representation of both words and (multiword) tokens (see [Tokenization](u/overview/tokenization.html)), 
 we adopt an extension of the original CoNLL-X token indexing scheme, where words are indexed with integers 1, 2, 3, ..., 
 while (multiword) tokens are indexed with integer ranges like 1-2 or 3-5. 
 Lines representing such tokens are inserted before the first word in the range.
