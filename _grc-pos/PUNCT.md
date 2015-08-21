@@ -4,7 +4,7 @@ title: 'PUNCT'
 shortdef: 'punctuation'
 ---
 
-#### Definition
+### Definition
 
 Punctuation marks in Ancient Greek texts have in general been added by modern editors. There are four main punctuation marks that can be found in modern editions: comma (COMMA "U+002C"), period (FULL STOP "U+002E"), the point above the line (MIDDLE DOT "U+00B7" corresponding to a an English colon or semicolon), and question mark (SEMICOLON "U+003B").
 
