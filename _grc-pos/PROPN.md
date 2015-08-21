@@ -10,7 +10,7 @@ A proper noun is a noun referring to a (more or less) unique object, such as a p
 
 #### Examples
 
-* <b>_Ἀθῆναι_</b> "Athens"
-* <b>_Δημοσθένης_</b> "Demosthenes"
+* _Ἀθῆναι_ "Athens"
+* _Δημοσθένης_ "Demosthenes"
 
 
