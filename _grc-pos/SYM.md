@@ -10,6 +10,6 @@ Symbol is used for a diacritic not belonging to punctuation, such as marks used 
 
 #### Examples
 
-* <b>_<_</b>
-* <b>_[_</b>
+* _<_
+* _[_
 
