@@ -34,5 +34,5 @@ nouns that are neither masculine nor feminine (grammatically).
 
 ### `Com`: common gender
 
-It is not used.
+It is not used. Note that if a noun can be both masculine or feminine, the gender annotated is the one the noun bears in a given occurrence. 
 
