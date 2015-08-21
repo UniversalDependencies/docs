@@ -12,9 +12,9 @@ Syntactically, adverbs modify verbs, adjectives, or other adverbs. Adverbs have 
 
 #### Examples
 
-* <b>_σοφῶς_</b> "wisely"
-* <b>_ὁμόσε_</b> "to the same place"
-* <b>_πῶς_</b> "how?"
+* _σοφῶς_ "wisely"
+* _ὁμόσε_ "to the same place"
+* _πῶς_ "how?"
 
 ### References
 
