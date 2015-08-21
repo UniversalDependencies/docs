@@ -13,7 +13,8 @@ Ancient Greek tokenization is almost strictly graphic word-based, the language s
   * article + any other word, such as in τοὐναντίον (i.e., τὸ ἐναντίον)
   * pronoun + any other word, such as in ἐγᾧδα (i.e., ἐγὼ οἶδα)
   * καί + any other word, such as in καὑτός (i.e., καὶ αὐτός)
-* particles, such as ἄν and τοι, are never split
+* particles, such as ἄν and τοι, are never split from other words (i.e, ἄν = εἰ + ἄν and τοιγάρ)
+* negations are never split from conjunctions (i.e, οὔτε)
 
 # Sentence split
 
