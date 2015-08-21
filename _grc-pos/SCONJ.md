@@ -10,9 +10,9 @@ A subordinating conjunction is an invariable word introducing a subordinate clau
 
 #### Examples
 
-* <b>_ὅτι_</b> "that"
-* <b>_εἰ_</b> "if"
-* <b>_ὅτε_</b> "when"
+* _ὅτι_ "that"
+* _εἰ_ "if"
+* _ὅτε_ "when"
 
 
 ### References
