@@ -11,9 +11,9 @@ In Ancient Greek grammar the term particle is used as a cover term for words bel
 With reference to UD, only those words that do not clearly belong to any other part of speech are labeled as PART. The list for them can be found in Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+2769&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">631</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+3003&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">671</a>, excluding (coordinating and subordinating) conjunctions and adverbs such as καί 'even'. Most Ancient Greek particles can be defined as sentence adverbs.
 
 ### Examples 
- * <b>_ἀτάρ_</b> "however"
- * <b>_αὖ_</b> "on the other hand"
- * <b>_δή_</b> "certainly"
+ * _ἀτάρ_ "however"
+ * _αὖ_ "on the other hand"
+ * _δή_ "certainly"
 
 ### References
 
