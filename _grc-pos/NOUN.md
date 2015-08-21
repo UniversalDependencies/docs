@@ -10,9 +10,9 @@ A noun can be defined in Ancient Greek as the PoS inflecting for case, number, a
 
 #### Examples
 
-* <b>_λογεύς_</b>, _έως_, _ὁ_, "speaker"
-* <b>_λῆμμα_</b>, _ατος_, _τό_, "anything received"
-* <b>_ὕδωρ_</b>,  _ὕδατος_, _τό_, "water"
+* _λογεύς_, _έως_, _ὁ_, "speaker"
+* _λῆμμα_, _ατος_, _τό_, "anything received"
+* _ὕδωρ_,  _ὕδατος_, _τό_, "water"
 
 ### References
 Liddell, Henry George Liddell, and Robert Scott. 1940. _A Greek-English lexicon. Revised by Sir Henry Stuart Jones with the assistance of Roderick McKenzie_. Oxford: Clarendon Press. (<a  href="http://www.perseus.tufts.edu/hopper/resolveform?redirect=true" target="_blank">Perseus Digital Library</a>)
