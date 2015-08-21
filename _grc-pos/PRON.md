@@ -12,9 +12,9 @@ A list for Ancient Greek pronouns can be found in Smyth 1920: <a href="http://ww
 
 #### Examples
 
-* <b>_τίς_</b> "who?"
-* <b>_ἐκεῖνος_</b> "that one"
-* <b>_ἐγώ_</b> "I"
+* _τίς_ "who?"
+* _ἐκεῖνος_ "that one"
+* _ἐγώ_ "I"
 
 ### References
 
