@@ -8,7 +8,7 @@ shortdef: 'numeral'
 
 In Ancient Greek grammar "numeral" is the PoS reserved for cardinal and ordinal adjectives, as well as adverbs such as 	ἅπαξ 'once'. A list for them can be found in Smyth 1920: <a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+347&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">102</a>-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+354&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">106</a>. 
 
-In accordance with the UD guidelines, only cardinal numbers are tagged as NUM, whether they are adjective or substantivized adjectives. Ordinal numbers are, following the UD guidelines, tagged as adjectives, while adverb numerals receive the PoS <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/_grc-pos/ADV.md" target="_blank">ADV</a>.
+In accordance with the UD guidelines, only cardinal numbers are tagged as NUM, whether they are adjective or substantivized adjectives. Ordinal numbers are, following the UD guidelines, tagged as adjectives, while adverb numerals receive the PoS <a href="http://universaldependencies.github.io/docs/grc/pos/ADV.html" target="_blank">ADV</a>.
 
 #### Examples
 
