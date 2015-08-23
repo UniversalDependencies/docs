@@ -446,6 +446,12 @@ collections:
   tagset-conversion:
     output: true
     permalink: /tagset-conversion/:path.html
+#
+# Meeting materials
+#
+  2015-08-23-uppsala:
+    output: true
+    permalink: /2015-08-23/:path.html
 
 excerpt_separator: "\n\n"
 

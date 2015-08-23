@@ -11,7 +11,7 @@ title:  'Uppsala Meeting'
 
 ### 3. Determiners and pronouns (#4)
 
-### 4. Ellipsis (#5)
+### 4. [Ellipsis](2015-08-23-uppsala/ellipsis.html) (#5)
 
 ### 5. MWE including LVC and MW abbr (#6, #7, #8)
 
