@@ -28,20 +28,22 @@ dependent.
 ## Possible approaches
 
 In a nutshell:
-* Promotion
-* Grandparent
-* NULL node
-* Remnant
+
+ * Promotion
+ * Grandparent
+ * NULL node
+ * Remnant
 
 We have identified several possible approaches to orphaned dependents. Some of them are not
 used in the current version of the UD standard but they are used in other dependency treebanks.
 
 ### Promotion of a dependent to the head position
 
-This is currently used in UD at various places. We need to document the examples more carefully;
-but it is difficult to search for them in the data, as there is no specific label that would give
-them away. It is the easiest thing to do when there is only one orphan. If there are two or more
+This is the easiest thing to do when there is only one orphan. If there are two or more
 orphans, it may not always be apparent which one should be promoted.
+It is currently used in UD at various places. We need to document the examples more carefully;
+but it is difficult to search for them in the data, as there is no specific label that would give
+them away.
 
 In English:
 
