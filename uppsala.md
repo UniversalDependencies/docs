@@ -1,3 +1,8 @@
+---
+layout: base
+title:  'Uppsala Meeting'
+---
+
 ## UD meeting in Uppsala, August 23, 2015
 
 ### 1. Coordination and names (#1, #9)
