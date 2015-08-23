@@ -451,7 +451,7 @@ collections:
 #
   2015-08-23-uppsala:
     output: true
-    permalink: /2015-08-23/:path.html
+    permalink: /2015-08-23-uppsala/:path.html
 
 excerpt_separator: "\n\n"
 
