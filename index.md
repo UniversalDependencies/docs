@@ -90,7 +90,7 @@ have regular treebank releases every six months.
 <small>
 If you want to receive news about Universal Dependencies, you can subscribe to
 the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
-See also the [list of open issues](issues.html) for the Uppsala meeting.
+See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsala.html).
 </div>
 
 <!-- "Amharic" tab -->
