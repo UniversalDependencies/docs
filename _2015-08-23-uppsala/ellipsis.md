@@ -167,6 +167,8 @@ where to introduce a `NULL` node in the input sentence). Also, some people belie
 a structure with empty nodes is less intuitive for users lacking linguistic background (but other
 people think the opposite, and we are not aware of studies that would measure intuitivity :-)).
 
+#### Examples
+
 ~~~ sdparse
 दीवाली के दिन जुआ खेलें मगर NULL घर में या होटल में \n dīvālī ke dina juā kheleṁ magara NULL ghara meṁ yā hoṭala meṁ \n Diwali of day gambling play but play house in or hotel in
 r6(दिन, दीवाली)
@@ -177,19 +179,19 @@ lwg_psp(dīvālī, ke)
 lwg_psp(Diwali, of)
 k7t(खेलें, दीवाली)
 k7t(kheleṁ, dīvālī)
-k7t(play, Diwali)
+k7t(play-31, Diwali)
 k2(खेलें, जुआ)
 k2(kheleṁ, juā)
 k2(play, gambling)
 ccof(मगर, खेलें)
 ccof(magara, kheleṁ)
-ccof(but, play)
+ccof(but, play-31)
 ccof(मगर, NULL-7)
 ccof(magara, NULL-20)
-ccof(but, NULL-20)
+ccof(but, play-33)
 k7p(NULL-7, या)
 k7p(NULL-20, yā)
-k7p(NULL-20, or)
+k7p(play-33, or)
 ccof(या, घर)
 ccof(yā, ghara)
 ccof(or, house)
