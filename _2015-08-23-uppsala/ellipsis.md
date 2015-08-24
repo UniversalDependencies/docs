@@ -112,3 +112,28 @@ option:
 * Chain of labels. Take the path between the visible ancestor and the orphan, traverse one or
   more elided nodes and on the way collect all dependency relations. This approach is taken in
   the Ancient Greek & Latin Dependency Treebanks.
+
+#### Examples
+
+In the Latin sentence (segment) _beatus qui legit et qui audiunt verba prophetiae et servant ea
+quae in ea scripta sunt tempus enim prope est_, a copula is missing; this would not be a problem
+in UD but the Latin treebank uses the Prague annotation style and the copula was supposed to
+head the whole sentence. The orphans are attached directly to the artificial `ROOT` node and the
+relations are labeled with chained labels such as `PNOM_ExD0_PRED`. The first in the chain is
+the relation of the orphan to the missing copula: `PNOM`. The indexed `ExD` actually represents
+the missing node, not a relation. And the `PRED` is the Prague label for the root relation.
+
+~~~ sdparse
+ROOT beatus qui legit et qui audiunt verba prophetiae et servant ea …
+PNOM_ExD0_PRED(ROOT, beatus)
+COORD_ExD0_PRED(ROOT, et-5)
+SBJ_CO(et-5, legit)
+COORD(et-5, et-10)
+SBJ_CO(et-10, audiunt)
+SBJ_CO(et-10, servant)
+SBJ(legit, qui-3)
+SBJ(audiunt, qui-6)
+OBJ(audiunt, verba)
+ATR(verba, prophetiae)
+OBJ(servant, ea)
+~~~
