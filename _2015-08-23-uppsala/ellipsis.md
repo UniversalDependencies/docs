@@ -208,8 +208,8 @@ lwg_psp(hotel, in-38)
 
 ### The `remnant` relation
 
-This is an approach [currently used in UD](u/dep/remnant.html)
-and it is actually the only relation we have designed
+This is an approach [currently used in UD](../u/dep/remnant.html)
+and it is actually the only relation we designed
 specifically for ellipsis; nevertheless, it only targets one special case of ellipsis. It is
 usually caused by coordination of clauses that share the same predicate but differ in arguments.
 Example: _John won bronze, Mary silver, and Sandy gold._
@@ -224,6 +224,9 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 ~~~
 
+The motivation here is to preserver the types of dependency relations without introducing a new
+node. However, there are also drawbacks:
+
 * nonprojectivity, parsing difficulty
 * technical links rather than linguistically motivated dependencies
 * it cannot encode that corresponding dependents in one chain have different relations, although
@@ -231,14 +234,15 @@ remnant(silver-6, gold-10)
 * there is evidence of cases where the `remnant` relation cannot be used (and promotion is not
   suitable either, because we still have two or more orphans). The material where the remnants
   ought to be attached may be missing because it is understood from the extra-sentential context.
-  It is possible that we will see a sentence—segment of the above example: _And Sandy gold._
+  It is possible that we will see an incomplete sentence—e.g. a part of the above example:
+  _And Sandy gold._
 
 ## Recommendation
 
 There was a consensus that the `remnant` relation is not a good solution and should be eventually
 replaced by something else. We did not reach a consensus of what that something else should be.
 Restricted usage of `NULL` nodes was found somewhat appealing by some group members, and
-opposed by others. Chains of labels are a possible alternative that almost encodes the same
+opposed by others. Chains of labels is a possible alternative that almost encodes the same
 information as the `NULL` nodes (unless there are multiple nodes missing, resulting in attachment
 ambiguity). It was also proposed to use the promotion approach, even for the price that we will
 have to select one argument of the verb and attach the other arguments to it.
@@ -246,7 +250,7 @@ have to select one argument of the verb and attach the other arguments to it.
 Obviously we need to continue the discussion in a larger group online. This is a __long-term goal__
 anyway, as we are not allowed to modify the guidelines before October 1, 2015, and we are not
 going to implement any change in the planned November release. But we may want to put a warning
-to the description of `remnant`, that a revision is under consideration.
+to the description of `remnant` that a revision is under consideration.
 
 As a __short-term goal,__ we should get rid of the multi-root structures in all the languages,
 although it is not explicitly required by the current guidelines. Since we cannot use `remnant`
