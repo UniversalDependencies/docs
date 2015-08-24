@@ -7,6 +7,10 @@ title:  'Uppsala Group on Ellipsis'
 
 _(Arne Skjærholt, Chris Manning, Dan Zeman, Verginica Mititelu)_
 
+This topic is related to the Github issues
+<a href="http://github.com/UniversalDependencies/docs/issues/164">#164</a> and
+<a href="http://github.com/UniversalDependencies/docs/issues/188">#188</a>.
+
 Ellipsis is a fairly universal phenomenon, yet it is admittedly underspecified in the Universal
 Dependencies guidelines. It should be documented in the
 [Specific constructions](../u/overview/specific-syntax.html#ellipsis) section of each language
