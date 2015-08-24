@@ -235,6 +235,34 @@ lwg_psp(hoṭala, meṁ-25)
 lwg_psp(hotel, in-38)
 </code></pre>
 
+<h3 id="the-remnant-relation">The <code>remnant</code> relation</h3>
+
+<p>This is an approach <a href="u/dep/remnant.html">currently used in UD</a>
+and it is actually the only relation we have designed
+specifically for ellipsis; nevertheless, it only targets one special case of ellipsis. It is
+usually caused by coordination of clauses that share the same predicate but differ in arguments.
+Example: <em>John won bronze, Mary silver, and Sandy gold.</em></p>
+
+<pre><code class="language-sdparse">John won bronze , Mary silver , and Sandy gold
+nsubj(won-2, John-1)
+dobj(won-2, bronze-3)
+remnant(John-1, Mary-5)
+remnant(Mary-5, Sandy-9)
+remnant(bronze-3, silver-6)
+remnant(silver-6, gold-10)
+</code></pre>
+
+<ul>
+  <li>nonprojectivity, parsing difficulty</li>
+  <li>technical links rather than linguistically motivated dependencies</li>
+  <li>it cannot encode that corresponding dependents in one chain have different relations, although
+we may occasionally need it</li>
+  <li>there is evidence of cases where the <code>remnant</code> relation cannot be used (and promotion is not
+suitable either, because we still have two or more orphans). The material where the remnants
+ought to be attached may be missing because it is understood from the extra-sentential context.
+It is possible that we will see a sentence—segment of the above example: <em>And Sandy gold.</em></li>
+</ul>
+
 
       </div>
 
