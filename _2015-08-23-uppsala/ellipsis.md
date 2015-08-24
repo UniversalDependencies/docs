@@ -148,3 +148,21 @@ mean that __multiple nodes have the `root` relation.__ While this is not explici
 version 1 of the guidelines (and it occasionally appears in the release 1.1 of the data), there
 is a community consensus that we want to avoid it. So we cannot use the grandparent solution,
 at least not in the top level of the tree.
+
+### An empty `NULL` node
+
+It is possible to insert an empty node that represents the elided word. The orphans are then
+attached to this empty node and all relations can keep their labels. We do not do this in the
+current version of UD but it is used e.g. in the Hindi treebank, in the Russian treebank and
+elswhere. Instead of the word forms, these nodes are often labeled `NULL`, in SynTagRus they
+are called `#Fantom`, elsewhere there may be just an underscore `_` representing an empty word.
+
+While this is the most expressive mechanism, it also postulates content for which there is no
+direct evidence in the sentence. Hence we should be careful and the introduction of `NULL` nodes
+should be restricted. The situation in which they are most needed is when there are several
+orphans and it is not clear whether and which of them could be promoted to the head position.
+
+There are concerns about the influence of `NULL` nodes on parsing (a parser now has to learn
+where to introduce a `NULL` node in the input sentence). Also, some people believe that
+a structure with empty nodes is less intuitive for users lacking linguistic background (but other
+people think the opposite, and we are not aware of studies that would measure intuitivity :-)).
