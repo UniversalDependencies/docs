@@ -232,3 +232,38 @@ remnant(silver-6, gold-10)
   suitable either, because we still have two or more orphans). The material where the remnants
   ought to be attached may be missing because it is understood from the extra-sentential context.
   It is possible that we will see a sentence—segment of the above example: _And Sandy gold._
+
+## Recommendation
+
+There was a consensus that the `remnant` relation is not a good solution and should be eventually
+replaced by something else. We did not reach a consensus of what that something else should be.
+Restricted usage of `NULL` nodes was found somewhat appealing by some group members, and
+opposed by others. Chains of labels are a possible alternative that almost encodes the same
+information as the `NULL` nodes (unless there are multiple nodes missing, resulting in attachment
+ambiguity). It was also proposed to use the promotion approach, even for the price that we will
+have to select one argument of the verb and attach the other arguments to it.
+
+Obviously we need to continue the discussion in a larger group online. This is a __long-term goal__
+anyway, as we are not allowed to modify the guidelines before October 1, 2015, and we are not
+going to implement any change in the planned November release. But we may want to put a warning
+to the description of `remnant`, that a revision is under consideration.
+
+As a __short-term goal,__ we should get rid of the multi-root structures in all the languages,
+although it is not explicitly required by the current guidelines. Since we cannot use `remnant`
+for them, we have to resort to promotion. It is not clear which of the multiple orphans to
+promote (we could say that e.g. `dobj` has precedence over `nsubj`, but we would have to
+construct large tables for all possible combinations of orphans), we propose that the first
+orphan is always selected, and the other orphans are attached directly to it. The promoted orphan
+inherits the `root` relation from the deleted verb, while the other orphans keep their dependency
+relation labels as if they were attached to the verb. If the orphans have their own dependents,
+their relations will be preserved as in the following example:
+
+~~~ sdparse
+ROOT And Robert the fourth place .
+root(ROOT, And)
+nsubj(And, Robert)
+dobj(And, place)
+punct(And, .)
+amod(place, fourth)
+det(place, the)
+~~~
