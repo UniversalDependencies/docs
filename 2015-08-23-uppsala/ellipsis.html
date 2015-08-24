@@ -144,6 +144,30 @@ more elided nodes and on the way collect all dependency relations. This approach
 the Ancient Greek &amp; Latin Dependency Treebanks.</li>
 </ul>
 
+<h4 id="examples-1">Examples</h4>
+
+<p>In the Latin sentence (segment) <em>beatus qui legit et qui audiunt verba prophetiae et servant ea
+quae in ea scripta sunt tempus enim prope est</em>, a copula is missing; this would not be a problem
+in UD but the Latin treebank uses the Prague annotation style and the copula was supposed to
+head the whole sentence. The orphans are attached directly to the artificial <code>ROOT</code> node and the
+relations are labeled with chained labels such as <code>PNOM_ExD0_PRED</code>. The first in the chain is
+the relation of the orphan to the missing copula: <code>PNOM</code>. The indexed <code>ExD</code> actually represents
+the missing node, not a relation. And the <code>PRED</code> is the Prague label for the root relation.</p>
+
+<pre><code class="language-sdparse">ROOT beatus qui legit et qui audiunt verba prophetiae et servant ea …
+PNOM_ExD0_PRED(ROOT, beatus)
+COORD_ExD0_PRED(ROOT, et-5)
+SBJ_CO(et-5, legit)
+COORD(et-5, et-10)
+SBJ_CO(et-10, audiunt)
+SBJ_CO(et-10, servant)
+SBJ(legit, qui-3)
+SBJ(audiunt, qui-6)
+OBJ(audiunt, verba)
+ATR(verba, prophetiae)
+OBJ(servant, ea)
+</code></pre>
+
 
       </div>
 
