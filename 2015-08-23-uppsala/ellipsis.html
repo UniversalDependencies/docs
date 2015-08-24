@@ -197,6 +197,31 @@ where to introduce a <code>NULL</code> node in the input sentence). Also, some p
 a structure with empty nodes is less intuitive for users lacking linguistic background (but other
 people think the opposite, and we are not aware of studies that would measure intuitivity :-)).</p>
 
+<pre><code class="language-sdparse">दीवाली के दिन जुआ खेलें मगर NULL घर में या होटल में \n dīvālī ke dina juā kheleṁ magara NULL ghara meṁ yā hoṭala meṁ \n Diwali of day gambling play but play house in or hotel in
+r6(दिन, दीवाली)
+r6(dina, dīvālī)
+lwg_psp(दीवाली, के)
+lwg_psp(dīvālī, ke)
+k7t(खेलें, दीवाली)
+k7t(kheleṁ, dīvālī)
+k2(खेलें, जुआ)
+k2(kheleṁ, juā)
+ccof(मगर, खेलें)
+ccof(magara, kheleṁ)
+ccof(मगर, NULL-20)
+ccof(magara, NULL-20)
+k7p(NULL-20, या)
+k7p(NULL-20, yā)
+ccof(या, घर)
+ccof(yā, ghara)
+lwg_psp(घर, में-9)
+lwg_psp(ghara, meṁ-22)
+ccof(या, होटल)
+ccof(yā, hoṭala)
+lwg_psp(होटल, में-12)
+lwg_psp(hoṭala, meṁ-25)
+</code></pre>
+
 
       </div>
 
