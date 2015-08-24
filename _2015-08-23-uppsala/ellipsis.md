@@ -224,7 +224,7 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 ~~~
 
-The motivation here is to preserver the types of dependency relations without introducing a new
+The motivation here is to preserve the types of dependency relations without introducing a new
 node. However, there are also drawbacks:
 
 * nonprojectivity, parsing difficulty
