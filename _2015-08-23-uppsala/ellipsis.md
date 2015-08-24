@@ -141,3 +141,10 @@ OBJ(audiunt, verba)
 ATR(verba, prophetiae)
 OBJ(servant, ea)
 ~~~
+
+One problem with the grandparent approach that can be also seen in the above example is that it
+may result in several nodes attached directly to the artificial `ROOT` node. In UD, this would
+mean that __multiple nodes have the `root` relation.__ While this is not explicitly banned in the
+version 1 of the guidelines (and it occasionally appears in the release 1.1 of the data), there
+is a community consensus that we want to avoid it. So we cannot use the grandparent solution,
+at least not in the top level of the tree.
