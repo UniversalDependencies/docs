@@ -237,8 +237,8 @@ lwg_psp(hotel, in-38)
 
 <h3 id="the-remnant-relation">The <code>remnant</code> relation</h3>
 
-<p>This is an approach <a href="u/dep/remnant.html">currently used in UD</a>
-and it is actually the only relation we have designed
+<p>This is an approach <a href="../u/dep/remnant.html">currently used in UD</a>
+and it is actually the only relation we designed
 specifically for ellipsis; nevertheless, it only targets one special case of ellipsis. It is
 usually caused by coordination of clauses that share the same predicate but differ in arguments.
 Example: <em>John won bronze, Mary silver, and Sandy gold.</em></p>
@@ -252,6 +252,9 @@ remnant(bronze-3, silver-6)
 remnant(silver-6, gold-10)
 </code></pre>
 
+<p>The motivation here is to preserver the types of dependency relations without introducing a new
+node. However, there are also drawbacks:</p>
+
 <ul>
   <li>nonprojectivity, parsing difficulty</li>
   <li>technical links rather than linguistically motivated dependencies</li>
@@ -260,7 +263,8 @@ we may occasionally need it</li>
   <li>there is evidence of cases where the <code>remnant</code> relation cannot be used (and promotion is not
 suitable either, because we still have two or more orphans). The material where the remnants
 ought to be attached may be missing because it is understood from the extra-sentential context.
-It is possible that we will see a sentence—segment of the above example: <em>And Sandy gold.</em></li>
+It is possible that we will see an incomplete sentence—e.g. a part of the above example:
+<em>And Sandy gold.</em></li>
 </ul>
 
 <h2 id="recommendation">Recommendation</h2>
@@ -268,7 +272,7 @@ It is possible that we will see a sentence—segment of the above example: <em>A
 <p>There was a consensus that the <code>remnant</code> relation is not a good solution and should be eventually
 replaced by something else. We did not reach a consensus of what that something else should be.
 Restricted usage of <code>NULL</code> nodes was found somewhat appealing by some group members, and
-opposed by others. Chains of labels are a possible alternative that almost encodes the same
+opposed by others. Chains of labels is a possible alternative that almost encodes the same
 information as the <code>NULL</code> nodes (unless there are multiple nodes missing, resulting in attachment
 ambiguity). It was also proposed to use the promotion approach, even for the price that we will
 have to select one argument of the verb and attach the other arguments to it.</p>
@@ -276,7 +280,7 @@ have to select one argument of the verb and attach the other arguments to it.</p
 <p>Obviously we need to continue the discussion in a larger group online. This is a <strong>long-term goal</strong>
 anyway, as we are not allowed to modify the guidelines before October 1, 2015, and we are not
 going to implement any change in the planned November release. But we may want to put a warning
-to the description of <code>remnant</code>, that a revision is under consideration.</p>
+to the description of <code>remnant</code> that a revision is under consideration.</p>
 
 <p>As a <strong>short-term goal,</strong> we should get rid of the multi-root structures in all the languages,
 although it is not explicitly required by the current guidelines. Since we cannot use <code>remnant</code>
