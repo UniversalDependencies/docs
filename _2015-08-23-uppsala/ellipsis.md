@@ -45,6 +45,8 @@ It is currently used in UD at various places. We need to document the examples m
 but it is difficult to search for them in the data, as there is no specific label that would give
 them away.
 
+#### Examples
+
 In English:
 
 While auxiliaries are normally not analyzed as being heads, when a verb has been elided from VP ellipsis, the auxiliary inherits the head-status. This includes the _to_ nonfinite auxiliary.
@@ -93,3 +95,20 @@ amod(red, big)
   something missing here.” For example, the Prague treebanks use the `ExD` label.
 * A combination of the above. The relations are categorized but there is an additional flag that
   warns about the ellipsis. For example, the original annotation of the Danish treebank has this.
+
+### Attaching all orphans to the grandparent
+
+This is similar to promotion but instead of selecting just one orphan to be promoted, we attach
+all orphans to the grandparent node (or more precisely: to the next available ancestor in the
+hierarchy). This approach is taken in the Prague family of treebanks. It is not officially used
+in the current version of UD but in practice it can be found at least in the Czech UD 1.1 data
+because the current conversion procedure ignores ellipsis.
+
+#### Labels
+
+The options listed for the promotion approach also apply here, and there is one additional
+option:
+
+* Chain of labels. Take the path between the visible ancestor and the orphan, traverse one or
+  more elided nodes and on the way collect all dependency relations. This approach is taken in
+  the Ancient Greek & Latin Dependency Treebanks.
