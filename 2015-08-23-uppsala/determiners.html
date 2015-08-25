@@ -61,7 +61,18 @@ grammars and to define determiners in these languages. (Not necessarily in all l
 when we have words that are parallel to English or Romance determiners, we want parallel
 analysis for them.)</p>
 
-<p>The current borderline between <a href="">u-pos/PRON</a> and <a href="">u-pos/DET</a> in UD is defined functionally.
+<p>The current borderline between <a href="">u-pos/PRON</a> and <a href="">u-pos/DET</a> in UD, simplified, says that
+if it replaces a noun phrase, it is a pronoun; if it modifies a noun phrase, it is a
+determiner. This definition dates back at least to the EAGLES multi-language annotation
+project in the 1990s. The basic idea here is that pronouns share properties with nouns, and analogically,
+determiners share properties with adjectives. Examples:</p>
+
+<ul>
+  <li><em>I saw <b>this</b> yesterday.</em> … <em>this</em> is <code>PRON</code></li>
+  <li><em>I saw <b>this</b> car yesterday.</em> … <em>this</em> is <code>DET</code></li>
+</ul>
+
+<p>Thus the borderline is defined functionally.
 It means that context matters: we classify these words according to how they are used rather
 than what they are. One reason is that we cannot easily tell “what the words are”. The
 existing taggers and tagsets are not going to help us because they do not distinguish
@@ -70,8 +81,10 @@ in UD. For instance, we say that prepositions remain tagged <a href="">u-pos/ADP
 used as verbal particles (cf. English <em>come on</em>), which is a usage quite different from the
 prototypical function of prepositions.</p>
 
-<p>The basic idea here is that pronouns share properties with nouns, and analogically,
-determiners share properties with adjectives.</p>
+<p>There is another and perhaps more important objection to the current definition: in languages
+that traditionally do distinguish determiners, our definition does not precisely match the
+borderline already established by their tagsets. Conforming to the UD guidelines thus means
+that in these languages many words must be fixed too.</p>
 
 
       </div>
