@@ -32,7 +32,16 @@ grammars and to define determiners in these languages. (Not necessarily in all l
 when we have words that are parallel to English or Romance determiners, we want parallel
 analysis for them.)
 
-The current borderline between [u-pos/PRON]() and [u-pos/DET]() in UD is defined functionally.
+The current borderline between [u-pos/PRON]() and [u-pos/DET]() in UD, simplified, says that
+if it replaces a noun phrase, it is a pronoun; if it modifies a noun phrase, it is a
+determiner. This definition dates back at least to the EAGLES multi-language annotation
+project in the 1990s. The basic idea here is that pronouns share properties with nouns, and analogically,
+determiners share properties with adjectives. Examples:
+
+* _I saw <b>this</b> yesterday._ … _this_ is `PRON`
+* _I saw <b>this</b> car yesterday._ … _this_ is `DET`
+
+Thus the borderline is defined functionally.
 It means that context matters: we classify these words according to how they are used rather
 than what they are. One reason is that we cannot easily tell “what the words are”. The
 existing taggers and tagsets are not going to help us because they do not distinguish
@@ -41,5 +50,7 @@ in UD. For instance, we say that prepositions remain tagged [u-pos/ADP]() even i
 used as verbal particles (cf. English _come on_), which is a usage quite different from the
 prototypical function of prepositions.
 
-The basic idea here is that pronouns share properties with nouns, and analogically,
-determiners share properties with adjectives.
+There is another and perhaps more important objection to the current definition: in languages
+that traditionally do distinguish determiners, our definition does not precisely match the
+borderline already established by their tagsets. Conforming to the UD guidelines thus means
+that in these languages many words must be fixed too.
