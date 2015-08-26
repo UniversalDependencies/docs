@@ -83,3 +83,6 @@ elaborate guidelines.
   Along the same lines, there are pronouns that can never act like determiners. Personal
   pronouns will probably fall here in most languages, at least their nominative forms.
   And there will be a few more, such as _who_.
+
+## Interaction between POS tags and dependency relations
+
