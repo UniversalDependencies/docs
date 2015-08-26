@@ -140,6 +140,46 @@ PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to colle
 * Spanish: 717 PROPN, 24 PRON, 20 X, 10 ADJ, 4 ADP, 3 SYM, 1 ADV, 1 CONJ, 1 PART, 1 VERB. Same problem with PROPN as in French.
 * Swedish: 1345 ADJ, 594 NOUN, 44 ADV, 29 PRON, 3 PROPN, 2 ADP, 1 CONJ, 1 VERB.
 
+### When `DET` does not imply `det`
+
+* Quite a few cases actually do not count as an error because the dependency relation is a
+  subtype of `det`: `det:nummod`, `det:numgov`, `det:predet`, `det:def`, `det:poss`.
+* Several languages analyze the relation between possessive determiners and the possessed
+  noun as `nmod:poss`, reportedly to make it parallel with other possessives (this
+  explanation appeared even in the universal guidelines, though several months after we
+  froze the guidelines). Maybe it is inherited from English where speakers do not feel such
+  a strong difference between genitive of a noun, and a possessive (adjective).
+  But much more than English this is visible in French, Spanish, Irish, Swedish and also
+  German, where it is quite obvious that possessive determiners (pronouns) are like
+  adjectives and should not be parallel to `nmod`.
+* Negative determiners such as _no_ in _no legal grounds_ should be distinguished from the
+  verb-negating particles (English _not_). The [u-dep/neg]() relation should be used for the
+  latter while the former should be `det`. But this is violated in English and French
+  (surprisingly not in Spanish, although otherwise these two datasets often share the same
+  decisions).
+* Annotation or conversion errors.
+
+PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:
+
+<pre>a-node $d := [tag="DET", deprel!="det"] >> for $d.tag give $1, count() sort by $2 desc, $1</pre>
+
+There are no occurrences in: hr, da, fi, fi-ftb, el.
+
+* Basque: 391 nmod, 297 nsubj, 186 dobj …
+* Bulgarian:  88 nsubj, 23 nmod, 16 iobj, 8 dobj … Lemmas: 52 _този,_ 34 _какъв,_ 21 _всеки,_ 14 _някой_
+* Czech: 979 det:numgov, 552 det:nummod, 24 advcl, 13 amod …
+* English: 1332 nsubj, 481 dobj, 355 nmod, 316 neg, 204 det:predet, 146 nsubjpass, … neg: _no legal grounds_ … is this intentional? nsubj: , which means … (which is `DET` and `nsubj`)
+* French: 4347 nmod:poss, 209 dep, 143 expl, 138 mwe, 107 neg, …
+German: 1915 nmod:poss, 28 nsubj, 13 dep, 12 nmod, … _Der Alltag, der/nsubj nach dem Parteitag kommt._
+* Hebrew: 16346 det:def, 144 dep, 39 advmod, 36 mwe, … (even the advmod is actually a MWE but it is not apparent here because it is the first node of the MWE)
+* Hungarian: 13 remnant, 10 nmod, 6 dobj, … Are the remnant cases errors in annotation of coordination? I think they are.
+* Indonesian: 211 mwe, 47 nummod, 39 nsubj, …
+* Irish: 229 nmod:poss, 2 ccomp, 2 conj, 1 compound, 1 nsubj
+* Italian: 1600 det:poss, 331 det:predet, 131 nsubj, 41 dobj, 18 nmod, …
+* Persian: 36 det:predet, 18 mark, 15 nsubj, …
+* Spanish: 4353 nmod:poss, 83 advmod, 23 mwe, … (no neg, unlike French)
+* Swedish: possessive DET are attached as nmod:poss. 675 nmod:poss, 43 mwe, 18 nmod, 16 nsubj ...
+
 ## Miscellaneous
 
 We are discussing how different languages encode “determination”.
