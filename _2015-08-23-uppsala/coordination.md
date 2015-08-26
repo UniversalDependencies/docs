@@ -11,4 +11,4 @@ The universal guidelines specify that the first conjunct is the head in a coordi
 
 ## Names
 
-The universal guidelines specify that multiword names without regular syntactic structures should be annotated as head-initial structures with the name relation. Again it has been suggested that some languages show inflection patterns indicating that the last word is the head and again we concluded that these can be analyzed as cases where the inflection applies to the entire name but shows up only on the last element. Hence, we don't find any reason to change the guidelines here either.
+The universal guidelines specify that multiword names without regular syntactic structure should be annotated as head-initial structures with the name relation. Again it has been suggested that some languages show inflection patterns indicating that the last word is the head and again we concluded that these can be analyzed as cases where the inflection applies to the entire name but shows up only on the last element. Hence, we don't find any reason to change the guidelines here either.
