@@ -93,6 +93,13 @@ it is a pronoun, but it could also be a determiner whose noun head has been elid
 definition does not cover all possible situations and we need either more freedom, or more
 elaborate guidelines.</p>
 
+<p>Example of ellipsis in [cs]:</p>
+
+<ul>
+  <li><em><b>Který</b> dort chceš?</em> “<b>Which</b> cake do you want?” … <em>který</em> is <code>DET</code></li>
+  <li><em><b>Který</b> chceš?</em> “<b>Which</b> [one] do you want?” … <code>DET</code>, or <code>PRON</code>?</li>
+</ul>
+
 <h2 id="what-are-the-options">What are the options?</h2>
 
 <ul>
@@ -119,6 +126,64 @@ And there will be a few more, such as <em>who</em>.</li>
 
 <h2 id="interaction-between-pos-tags-and-dependency-relations">Interaction between POS tags and dependency relations</h2>
 
+<p>The current UD guidelines almost imply that the <a href="">u-pos/DET</a> POS tag and the <a href="">u-dep/det</a>
+relation label occur at the same places. Functional multi-word expressions are an exception.
+A determiner inside of a MWE will be attached to the previous token with the label
+<a href="">u-dep/mwe</a>. If it happens to be the first token of the MWE, and the whole MWE behaves like
+something else than a determiner, then it will also have a different label.</p>
+
+<p>This gives us a good device to search for irregularities.
+Even when we ignore MWEs, there are a number of points in the data where the <code>DET &lt;=&gt; det</code>
+constraint is currently violated.</p>
+
+<h3 id="when-det-does-not-imply-det">When <code>det</code> does not imply <code>DET</code></h3>
+
+<ul>
+  <li>Undecided/undecidable borderline between <code>DET</code> and <code>PRON</code>. The word is tagged <code>DET</code> but
+attached as a pronoun (<code>nsubj</code>, <code>dobj</code>, <code>iobj</code>, <code>nmod</code>). An interesting example from the
+English data is that <code>you</code> is tagged <code>PRON</code> but attached as <code>det</code> in <em>you guys</em>.
+(But one could also argue that the whole thing is a MWE, in which <em>guys</em> acts as a new
+plural suffix.)</li>
+  <li>Fuzzy border between <code>DET</code> and <code>ADJ</code>.
+[sv] <em>annan</em> “another”, <em>viss</em> “certain, some”, <em>många</em> “many”, <em>egen</em> “own”,
+<em>hel</em> “whole” are <code>ADJ</code> + <code>det</code>.</li>
+  <li>Multi-word determiners: [fr] <em>beaucoup de, moins de.</em></li>
+  <li>Bad <a href="">u-pos/PROPN</a> tag in multi-word named entities. In examples like [es] <em><b>La</b>
+Rioja,</em> [fr] <em><b>La</b> Crochais</em> the determiner is part of a named entity but it still
+should be tagged <code>DET</code>, not <code>PROPN</code>.</li>
+  <li>Other annotation or conversion errors.</li>
+</ul>
+
+<p>There are no occurrences in bg, cs, da, fi-ftb. The other languages:</p>
+
+<p>PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:</p>
+
+<pre>a-node $d := [deprel="det", tag!="DET"] &gt;&gt; for $d.tag give $1, count() sort by $2 desc, $1</pre>
+
+<ul>
+  <li>Basque: numerals (even definite ones) are attached as <code>det</code>. Why not <a href="">u-dep/nummod</a>?
+372 cases. Then 42 ADJ, 27 NOUN, 14 ADV, 3 PRON, 1 PART, 1 VERB.</li>
+  <li>Croatian: 631 PRON, 105 ADJ (83: sav = svůj = oneself’s), 101 ADV, 6 ADP, 6 AUX, 4 PART, 3 CONJ, 2 NOUN, 1 NUM.</li>
+  <li>English: rare, but it exists: 14 PRON, 3 ADJ, 3 ADV, 2 NUM, 1 ADP.</li>
+  <li>Finnish (Turku): 3128 PRON, 23 ADV, 5 ADJ, 5 NOUN, 1 SCONJ (?) Documentation diff: the current conversion of TDT does not use the DET tag.</li>
+  <li>French: MWE beaucoup de, moins de; articles in multi-word named entities (La Crochais) are tagged PROPN! 226 PROPN, 105 ADP, 58 ADV, 11 X, 6 NOUN, 3 ADJ, 2 VERB, 1 PRON.</li>
+  <li>German: 5063 NOUN, 2562 PRON, 2306 PROPN, 15 ADJ, 1 ADP, 1 ADV, 1 NUM, 1 VERB. Conversion errors. Noun example: schnelle Behebung der/det Probleme/det.</li>
+  <li>Greek: 9463 ADJ, 356 PRON, 2 NUM. The Greek definite article is tagged as ADJ instead of DET (but documentation does not suggest that it is intentional).</li>
+  <li>Hebrew: 520 ADV, 163 ADP, 115 PRON, 94 NUM, 33 CONJ, 6 ADJ, 2 NOUN, 2 X, 1 SCONJ.</li>
+  <li>Hungarian: just 1 PRON :-)</li>
+  <li>Indonesian: 332 PROPN, 252 PRON, 179 NOUN, 64 NUM, 14 PART, 3 ADV, 2 VERB, 1 ADJ, 1 PUNCT.</li>
+  <li>Irish: 54 PRON, 25 X, 1 NOUN, 1 NUM, 1 PROPN. Sometimes pronoun under preposition: <em>leis siúd, leis sin, air sin</em> … are these errors?</li>
+  <li>Italian: just 1 NUM, 1 PRON :-)</li>
+  <li>Persian: 216 PRON, 212 ADV, 107 NOUN, 26 INTJ, 4 ADJ, 1 NUM.</li>
+  <li>Spanish: 717 PROPN, 24 PRON, 20 X, 10 ADJ, 4 ADP, 3 SYM, 1 ADV, 1 CONJ, 1 PART, 1 VERB. Same problem with PROPN as in French.</li>
+  <li>Swedish: 1345 ADJ, 594 NOUN, 44 ADV, 29 PRON, 3 PROPN, 2 ADP, 1 CONJ, 1 VERB.</li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<p>We are discussing how different languages encode “determination”.</p>
+
+<p>More than one determiner per NP?</p>
 
 
       </div>
