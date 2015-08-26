@@ -105,7 +105,7 @@ constraint is currently violated.
 
 * Undecided/undecidable borderline between `DET` and `PRON`. The word is tagged `DET` but
   attached as a pronoun (`nsubj`, `dobj`, `iobj`, `nmod`). An interesting example from the
-  English data is that `you` is tagged `PRON` but attached as `det` in _you guys_.
+  English data is that _you_ is tagged `PRON` but attached as `det` in _you guys_.
   (But one could also argue that the whole thing is a MWE, in which _guys_ acts as a new
   plural suffix.)
 * Fuzzy border between `DET` and `ADJ`.
@@ -119,7 +119,7 @@ constraint is currently violated.
 
 There are no occurrences in bg, cs, da, fi-ftb. The other languages:
 
-PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:
+PML-TQ (<a href="http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks">http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks</a>) was used to collect examples:
 
 <pre>a-node $d := [deprel="det", tag!="DET"] >> for $d.tag give $1, count() sort by $2 desc, $1</pre>
 
@@ -159,7 +159,7 @@ PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to colle
   decisions).
 * Annotation or conversion errors.
 
-PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:
+PML-TQ (<a href="http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks">http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks</a>) was used to collect examples:
 
 <pre>a-node $d := [tag="DET", deprel!="det"] >> for $d.tag give $1, count() sort by $2 desc, $1</pre>
 
