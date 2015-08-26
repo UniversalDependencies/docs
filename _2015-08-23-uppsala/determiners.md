@@ -61,3 +61,25 @@ same time (as a genitive post-modifier). If a word does not modify a noun, it co
 it is a pronoun, but it could also be a determiner whose noun head has been elided. So the
 definition does not cover all possible situations and we need either more freedom, or more
 elaborate guidelines.
+
+## What are the options?
+
+* Keep the functional definition, perhaps with a bit more freedom, such as:
+  “the language-specific documentation may further specify the conditions, e.g. by saying
+  that determiners do not occur as post-modifiers, that they must agree with the modified
+  nominal in gender, number and case and so on. It may also describe which situations are
+  analyzed as elliptical (i.e. the word is considered to be modifying an elided nominal and
+  thus it is tagged `DET` even though it is attached to something else).”
+* Do not decide each individual usage of the word separately. Instead, look at prevailing
+  usage pattern in the corpus. This is still based on heuristics but it allows to
+  pre-categorize at least some of the words.
+  (But it is still possible to say that some words are homonymous and can belong to either
+  class.)
+* Pre-categorization can be also based on other criteria.
+  In some languages, at least a subset of pronouns is clearly similar to adjectives
+  morphologically. For instance, they inflect for gender to be able to agree with the gender
+  of the nouns they modify. We could say that these are determiners, regardless whether they
+  are actually attached to a nominal in the sentence.
+  Along the same lines, there are pronouns that can never act like determiners. Personal
+  pronouns will probably fall here in most languages, at least their nominative forms.
+  And there will be a few more, such as _who_.
