@@ -141,7 +141,7 @@ constraint is currently violated.</p>
 <ul>
   <li>Undecided/undecidable borderline between <code>DET</code> and <code>PRON</code>. The word is tagged <code>DET</code> but
 attached as a pronoun (<code>nsubj</code>, <code>dobj</code>, <code>iobj</code>, <code>nmod</code>). An interesting example from the
-English data is that <code>you</code> is tagged <code>PRON</code> but attached as <code>det</code> in <em>you guys</em>.
+English data is that <em>you</em> is tagged <code>PRON</code> but attached as <code>det</code> in <em>you guys</em>.
 (But one could also argue that the whole thing is a MWE, in which <em>guys</em> acts as a new
 plural suffix.)</li>
   <li>Fuzzy border between <code>DET</code> and <code>ADJ</code>.
@@ -156,7 +156,7 @@ should be tagged <code>DET</code>, not <code>PROPN</code>.</li>
 
 <p>There are no occurrences in bg, cs, da, fi-ftb. The other languages:</p>
 
-<p>PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:</p>
+<p>PML-TQ (<a href="http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks">http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks</a>) was used to collect examples:</p>
 
 <pre>a-node $d := [deprel="det", tag!="DET"] &gt;&gt; for $d.tag give $1, count() sort by $2 desc, $1</pre>
 
@@ -200,7 +200,7 @@ decisions).</li>
   <li>Annotation or conversion errors.</li>
 </ul>
 
-<p>PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:</p>
+<p>PML-TQ (<a href="http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks">http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks</a>) was used to collect examples:</p>
 
 <pre>a-node $d := [tag="DET", deprel!="det"] &gt;&gt; for $d.tag give $1, count() sort by $2 desc, $1</pre>
 
