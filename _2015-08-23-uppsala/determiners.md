@@ -184,4 +184,51 @@ German: 1915 nmod:poss, 28 nsubj, 13 dep, 12 nmod, … _Der Alltag, der/nsubj na
 
 We are discussing how different languages encode “determination”.
 
-More than one determiner per NP?
+More than one determiner per NP? There are currently no restrictions but grammars of some
+languages assume at most one determiner per noun phrase. This is probably why we have
+`det:predet` in English and Italian, to mark that the additional determiner is exceptional.
+
+Pronouns, determiners and pronominal adverbs should always have a non-empty value of the
+feature [u-feat/PronType](). In particular, articles should be tagged `PronType=Art`.
+
+## The big table
+
+We thought it would be useful to get a broad picture of pronominal words in various languages,
+how they behave and how they are usually classified in grammars of those languages.
+It is a space of several dimensions and it is not clear what would be the best way of
+visualizing it but let's start with a table and see what we get.
+
+Legend: __TPOS__ = traditional part of speech, i.e. what category it belongs to in the
+grammatical tradition used in this language.
+
+<table>
+  <tr>
+    <th>Lang</th>
+    <th>Word</th>
+    <th>Gloss</th>
+    <th>TPOS</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>já, ty, on, ona, ono, my, vy, oni, ony, ona, se</td>
+    <td>I, you (`Sing`), he, she, it, we, you (`Plur`), they (`Masc`), they (`Fem`), they (`Neut`), oneself (`Reflex`)</td>
+    <td>`PRON`</td>
+    <td>Pronouns inflect for case (7 different cases in Czech) but regardless the case,
+        personal (non-possessive) pronouns are never determiners.
+        Note that Czech allows that noun phrases are post-modified by genitive noun phrases,
+        this construction is one of the possible means to express possession, but the modifying
+        noun phrase cannot be a genitive personal pronoun. A possessive pronoun must be used
+        instead.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>můj, tvůj, jeho, její, náš, váš, jejich, svůj</td>
+    <td>my, your (`Sing`), his/its, her, our, your (`Plur`), their, oneself's (`Reflex`)</td>
+    <td>`PRON`</td>
+    <td>These are not genitive forms of personal pronouns! (They exist but they are different.)
+        These are nominative forms of possessive pronouns, which behave like adjectives.
+        They have different forms for different genders; one must use the form that agrees
+        with the modified (possessed) noun in gender, number and case.</td>
+  </tr>
+</table>
