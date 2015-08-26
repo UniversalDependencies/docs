@@ -62,6 +62,11 @@ it is a pronoun, but it could also be a determiner whose noun head has been elid
 definition does not cover all possible situations and we need either more freedom, or more
 elaborate guidelines.
 
+Example of ellipsis in [cs]:
+
+* _<b>Který</b> dort chceš?_ “<b>Which</b> cake do you want?” … _který_ is `DET`
+* _<b>Který</b> chceš?_ “<b>Which</b> [one] do you want?” … `DET`, or `PRON`?
+
 ## What are the options?
 
 * Keep the functional definition, perhaps with a bit more freedom, such as:
@@ -86,3 +91,57 @@ elaborate guidelines.
 
 ## Interaction between POS tags and dependency relations
 
+The current UD guidelines almost imply that the [u-pos/DET]() POS tag and the [u-dep/det]()
+relation label occur at the same places. Functional multi-word expressions are an exception.
+A determiner inside of a MWE will be attached to the previous token with the label
+[u-dep/mwe](). If it happens to be the first token of the MWE, and the whole MWE behaves like
+something else than a determiner, then it will also have a different label.
+
+This gives us a good device to search for irregularities.
+Even when we ignore MWEs, there are a number of points in the data where the `DET <=> det`
+constraint is currently violated.
+
+### When `det` does not imply `DET`
+
+* Undecided/undecidable borderline between `DET` and `PRON`. The word is tagged `DET` but
+  attached as a pronoun (`nsubj`, `dobj`, `iobj`, `nmod`). An interesting example from the
+  English data is that `you` is tagged `PRON` but attached as `det` in _you guys_.
+  (But one could also argue that the whole thing is a MWE, in which _guys_ acts as a new
+  plural suffix.)
+* Fuzzy border between `DET` and `ADJ`.
+  [sv] _annan_ “another”, _viss_ “certain, some”, _många_ “many”, _egen_ “own”,
+  _hel_ “whole” are `ADJ` + `det`.
+* Multi-word determiners: [fr] _beaucoup de, moins de._
+* Bad [u-pos/PROPN]() tag in multi-word named entities. In examples like [es] _<b>La</b>
+  Rioja,_ [fr] _<b>La</b> Crochais_ the determiner is part of a named entity but it still
+  should be tagged `DET`, not `PROPN`.
+* Other annotation or conversion errors.
+
+There are no occurrences in bg, cs, da, fi-ftb. The other languages:
+
+PML-TQ (http://lindat.mff.cuni.cz/services/pmltq/#!/treebanks) was used to collect examples:
+
+<pre>a-node $d := [deprel="det", tag!="DET"] >> for $d.tag give $1, count() sort by $2 desc, $1</pre>
+
+* Basque: numerals (even definite ones) are attached as `det`. Why not [u-dep/nummod]()?
+  372 cases. Then 42 ADJ, 27 NOUN, 14 ADV, 3 PRON, 1 PART, 1 VERB.
+* Croatian: 631 PRON, 105 ADJ (83: sav = svůj = oneself’s), 101 ADV, 6 ADP, 6 AUX, 4 PART, 3 CONJ, 2 NOUN, 1 NUM.
+* English: rare, but it exists: 14 PRON, 3 ADJ, 3 ADV, 2 NUM, 1 ADP.
+* Finnish (Turku): 3128 PRON, 23 ADV, 5 ADJ, 5 NOUN, 1 SCONJ (?) Documentation diff: the current conversion of TDT does not use the DET tag.
+* French: MWE beaucoup de, moins de; articles in multi-word named entities (La Crochais) are tagged PROPN! 226 PROPN, 105 ADP, 58 ADV, 11 X, 6 NOUN, 3 ADJ, 2 VERB, 1 PRON.
+* German: 5063 NOUN, 2562 PRON, 2306 PROPN, 15 ADJ, 1 ADP, 1 ADV, 1 NUM, 1 VERB. Conversion errors. Noun example: schnelle Behebung der/det Probleme/det.
+* Greek: 9463 ADJ, 356 PRON, 2 NUM. The Greek definite article is tagged as ADJ instead of DET (but documentation does not suggest that it is intentional).
+* Hebrew: 520 ADV, 163 ADP, 115 PRON, 94 NUM, 33 CONJ, 6 ADJ, 2 NOUN, 2 X, 1 SCONJ.
+* Hungarian: just 1 PRON :-)
+* Indonesian: 332 PROPN, 252 PRON, 179 NOUN, 64 NUM, 14 PART, 3 ADV, 2 VERB, 1 ADJ, 1 PUNCT.
+* Irish: 54 PRON, 25 X, 1 NOUN, 1 NUM, 1 PROPN. Sometimes pronoun under preposition: _leis siúd, leis sin, air sin_ … are these errors?
+* Italian: just 1 NUM, 1 PRON :-)
+* Persian: 216 PRON, 212 ADV, 107 NOUN, 26 INTJ, 4 ADJ, 1 NUM.
+* Spanish: 717 PROPN, 24 PRON, 20 X, 10 ADJ, 4 ADP, 3 SYM, 1 ADV, 1 CONJ, 1 PART, 1 VERB. Same problem with PROPN as in French.
+* Swedish: 1345 ADJ, 594 NOUN, 44 ADV, 29 PRON, 3 PROPN, 2 ADP, 1 CONJ, 1 VERB.
+
+## Miscellaneous
+
+We are discussing how different languages encode “determination”.
+
+More than one determiner per NP?
