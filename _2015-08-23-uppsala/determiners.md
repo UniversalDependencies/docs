@@ -219,6 +219,28 @@ adjectives modify nouns?
     <th>Note</th>
   </tr>
   <tr>
+    <td>en</td>
+    <td>the, a, an</td>
+    <td></td>
+    <td></td>
+    <td>DET</td>
+    <td>ADJ</td>
+    <td>Mandatory</td>
+    <td>Articles.</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>I, you, he, she, it, we, they</td>
+    <td></td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Personal pronouns have two cases (direct/nominative, and oblique/accusative).
+        We do not count English possessive pronouns as the genitive case of personal
+        pronouns.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>já, ty, on, ona, ono, my, vy, oni, ony, ona, se</td>
     <td>I, you (`Sing`), he, she, it, we, you (`Plur`), they (`Masc`), they (`Fem`), they (`Neut`), oneself (`Reflex`)</td>
@@ -232,6 +254,27 @@ adjectives modify nouns?
         this construction is one of the possible means to express possession, but the genitive
         noun phrase cannot be a genitive personal pronoun. A possessive pronoun must be used
         instead.</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>my, your, his, her, its, our, their</td>
+    <td></td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Mandatory</td>
+    <td>Possessive pronouns (adjectival forms).</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>mine, yours, his, hers, its, ours, theirs</td>
+    <td></td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Possessive pronouns (standalone forms).
+        (Or should we say that this is the genitive of personal pronouns?)</td>
   </tr>
   <tr>
     <td>cs</td>
