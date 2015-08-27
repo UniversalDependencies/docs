@@ -340,4 +340,283 @@ adjectives modify nouns?
     <td>Likely</td>
     <td></td>
   </tr>
+  <tr>
+    <td>cs</td>
+    <td>kolik</td>
+    <td>how many / how much</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>NUM > 4</td>
+    <td>See note</td>
+    <td>This word may actually govern the counted noun by dictating that it be in genitive.
+    In other situations it agrees with the noun in case.
+    This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
+    but definitely not to Czech adjectives.
+    Nevertheless, we have been treating this word as a language-specific subtype of
+    determiner, to be parallel with English _many_.
+    It may also occur without the counted noun but one could argue that it is ellipsis.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tolik</td>
+    <td>that many / that much</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>NUM > 4</td>
+    <td>See note</td>
+    <td>This word may actually govern the counted noun by dictating that it be in genitive.
+    In other situations it agrees with the noun in case.
+    This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
+    but definitely not to Czech adjectives.
+    Nevertheless, we have been treating this word as a language-specific subtype of
+    determiner, to be parallel with English _many_.
+    It may also occur without the counted noun but one could argue that it is ellipsis.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>několik</td>
+    <td>some (quantity) / a few / several</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>NUM > 4</td>
+    <td>See note</td>
+    <td>This word may actually govern the counted noun by dictating that it be in genitive.
+    In other situations it agrees with the noun in case.
+    This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
+    but definitely not to Czech adjectives.
+    Nevertheless, we have been treating this word as a language-specific subtype of
+    determiner, to be parallel with English _many_.
+    It may also occur without the counted noun but one could argue that it is ellipsis.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>mnoho, málo, hodně, více, méně</td>
+    <td>many / much, few / little, many / much, more, less / fewer</td>
+    <td>NUM / ADV?</td>
+    <td>NUM ??? TODO!</td>
+    <td>NUM > 4</td>
+    <td>See note</td>
+    <td>These words share properties of the indefinite numerals introduced above, including
+    the ambivalent relation to counted nouns. But they are also similar to adverbs, in that
+    they can be compared. And they are also used as either numerals (quantity) or
+    adverbs (when they modify adjectives, adverbs or verbs).</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>kolikátý</td>
+    <td>what rank</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Interrogative / relative ordinal numeral.
+    _Kolikáté pivo máš?_ means “How many beers have you had?” but literally it is something
+    like “How-many-th beer do-you-have?”</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tolikátý</td>
+    <td>that rank</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Demonstrative ordinal numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>několikátý</td>
+    <td>some rank / umpteenth</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Indefinite ordinal numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>kolikrát</td>
+    <td>how many times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative multiplicative numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tolikrát</td>
+    <td>so many times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative multiplicative numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>několikrát</td>
+    <td>several times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite multiplicative numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>pokolikáté</td>
+    <td>after how many times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative multiplicative-ordinal numeral.
+    _Pokolikáté už se to stalo?_ “How many times has this happenned?”
+    lit. approx. “How-many-th-time already itself this happenned?”</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>potolikáté</td>
+    <td>after how many times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative multiplicative-ordinal numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>poněkolikáté</td>
+    <td>after several times</td>
+    <td>NUM</td>
+    <td>NUM</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite multiplicative-ordinal numeral.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>kde, kam, odkud, kudy</td>
+    <td>where, where to, where from, where through</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative adverb of location.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tady, tam, sem, odsud, odtamtud, tudy, tadytudy, tamtudy</td>
+    <td>here, there, here (to), from here, from there, through here, through here, through there</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative adverb of location.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>někde, někam, odněkud, někudy,
+    kdekoli, kamkoli, odkudkoli, kudykoli,
+    všude, všudy</td>
+    <td>somewhere, to somewhere, from somewhere, through somewhere,
+        anywhere, to anywhere, from anywhere, through anywhere,
+        everywhere, through everywhere</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite adverb of location.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>nikde, nikam, odnikud, nikudy</td>
+    <td>nowhere, to nowhere, from nowhere, through nowhere</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Negative adverb of location.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>kdy, odkdy, dokdy</td>
+    <td>when, since when, until when</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative adverb of time.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>teď, tehdy, potom</td>
+    <td>now, then, then</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative adverb of time.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>někdy, kdykoli, vždy</td>
+    <td>sometime(s), anytime, always</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite adverb of time.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>nikdy</td>
+    <td>never</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Negative adverb of time.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>jak, proč</td>
+    <td>how, why</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative adverb of manner and cause/purpose.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tak, proto</td>
+    <td>so, because of that</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative adverb of manner and cause/purpose.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>nějak, jakkoli</td>
+    <td>some way, any way</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite adverb of manner.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>nijak</td>
+    <td>no way</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Negative adverb of manner.</td>
+  </tr>
 </table>
