@@ -229,6 +229,18 @@ adjectives modify nouns?
     <td>Articles.</td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>der, die, das, ein, eine</td>
+    <td>the, the, the, a, a</td>
+    <td></td>
+    <td>DET</td>
+    <td>ADJ</td>
+    <td>Mandatory</td>
+    <td>Articles.
+        The indefinite article <i>ein</i> is homonymous with the numeral “one” but they
+        have different tags.</td>
+  </tr>
+  <tr>
     <td>en</td>
     <td>I, you, he, she, it, we, they, one,
         myself, yourself, himself, herself, itself, ourselves, yourselves, themselves,
@@ -243,9 +255,21 @@ adjectives modify nouns?
         pronouns.</td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>ich, du, er, sie, es, wir, ihr, sie, man</td>
+    <td>I, you (Sing), he, she, it, we, you (Plur), they, one</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Pronouns inflect for case but out of the four German cases for nouns, only three
+        are used for pronouns. Personal pronouns do not have a genitive form
+        and possessive pronouns (with adjective-like forms) are used instead.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>já, ty, on, ona, ono, my, vy, oni, ony, ona, se</td>
-    <td>I, you (`Sing`), he, she, it, we, you (`Plur`), they (`Masc`), they (`Fem`), they (`Neut`), oneself (`Reflex`)</td>
+    <td>I, you (Sing), he, she, it, we, you (Plur), they (Masc), they (Fem), they (Neut), oneself (`Reflex`)</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>NOUN</td>
@@ -277,6 +301,16 @@ adjectives modify nouns?
     <td>Impossible</td>
     <td>Possessive pronouns (standalone forms).
         (Or should we say that this is the genitive of personal pronouns?)</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>mein, dein, sein, ihr, unser, euer</td>
+    <td>my, your (Sing), his / its, her / their, our, your (Plur)</td>
+    <td>PRON</td>
+    <td>DET</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Possessive pronouns.</td>
   </tr>
   <tr>
     <td>cs</td>
