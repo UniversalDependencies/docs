@@ -320,4 +320,24 @@ adjectives modify nouns?
     <td>This word can be used as a determiner but most of the time it is used as a
     standalone pronoun that would be translated as “everyone, everything”.</td>
   </tr>
+  <tr>
+    <td>cs</td>
+    <td>nikdo, nic</td>
+    <td>nobody, nothing</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>nijaký, žádný, ničí</td>
+    <td>no such (quality), no (selection), no one's</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td></td>
+  </tr>
 </table>
