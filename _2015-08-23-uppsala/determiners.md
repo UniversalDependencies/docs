@@ -204,8 +204,10 @@ where we may to convert from; this is likely, but not necessary, to be same as T
 __Similar__ = what non-pronominal part of speech (if any) does this word resemble?
 For a concrete example, if the language has genders and the word takes different forms for
 different genders in order to agree with a modified noun, it is probably like an adjective.
+__Amod__ = is it possible or even likely that it modifies a noun in a similar way to how
+adjectives modify nouns?
 
-<table border=1>
+<table>
   <tr>
     <th>Lang</th>
     <th>Word</th>
@@ -213,6 +215,7 @@ different genders in order to agree with a modified noun, it is probably like an
     <th>TPOS</th>
     <th>OPOS</th>
     <th>Similar</th>
+    <th>Amod</th>
     <th>Note</th>
   </tr>
   <tr>
@@ -222,6 +225,7 @@ different genders in order to agree with a modified noun, it is probably like an
     <td>PRON</td>
     <td>PRON</td>
     <td>NOUN</td>
+    <td>Impossible</td>
     <td>Pronouns inflect for case (7 different cases in Czech) but regardless the case,
         personal (non-possessive) pronouns are never determiners.
         Note that Czech allows that noun phrases are post-modified by genitive noun phrases,
@@ -236,6 +240,7 @@ different genders in order to agree with a modified noun, it is probably like an
     <td>PRON</td>
     <td>PRON</td>
     <td>ADJ</td>
+    <td>Likely</td>
     <td>These are not genitive forms of personal pronouns! (They exist but they are different.)
         These are nominative forms of possessive pronouns, which behave like adjectives.
         They have different forms for different genders; one must use the form that agrees
