@@ -229,7 +229,7 @@ adjectives modify nouns?
     <td>Pronouns inflect for case (7 different cases in Czech) but regardless the case,
         personal (non-possessive) pronouns are never determiners.
         Note that Czech allows that noun phrases are post-modified by genitive noun phrases,
-        this construction is one of the possible means to express possession, but the modifying
+        this construction is one of the possible means to express possession, but the genitive
         noun phrase cannot be a genitive personal pronoun. A possessive pronoun must be used
         instead.</td>
   </tr>
@@ -245,5 +245,18 @@ adjectives modify nouns?
         These are nominative forms of possessive pronouns, which behave like adjectives.
         They have different forms for different genders; one must use the form that agrees
         with the modified (possessed) noun in gender, number and case.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>ten (to), tento, tenhle, tamten, onen, takový, týž, tentýž</td>
+    <td>the (it), this, this, that, that, such, same, same</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Demonstratives mostly inflect for gender and modify nouns adjectively.
+        Only the neuter gender of a subset of these words
+        (to, toto, tohle, tamto)
+        can be used alone as a true pronoun (it, this, that).</td>
   </tr>
 </table>
