@@ -359,7 +359,7 @@ adjectives modify nouns?
   </tr>
   <tr>
     <td>en</td>
-    <td>somebody, something, anybody, anything</td>
+    <td>somebody, something, anybody, anything, everybody, everything, nobody, nothing</td>
     <td></td>
     <td>NOUN</td>
     <td>NOUN</td>
@@ -471,6 +471,18 @@ adjectives modify nouns?
     It may also occur without the counted noun but one could argue that it is ellipsis.</td>
   </tr>
   <tr>
+    <td>en</td>
+    <td>many, few, little, much, several, more, most, less, least</td>
+    <td></td>
+    <td>ADJ / ADV</td>
+    <td>ADJ / ADV</td>
+    <td>ADJ / ADV</td>
+    <td>Likely</td>
+    <td>The words <i>much, more, most</i> and <i>little, less, least</i>
+        can also function as adverbs
+        and if they do, they are also tagged so in the original tagset.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>několik</td>
     <td>some (quantity) / a few / several</td>
@@ -483,7 +495,8 @@ adjectives modify nouns?
     This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
     but definitely not to Czech adjectives.
     Nevertheless, we have been treating this word as a language-specific subtype of
-    determiner, to be parallel with English _many_.
+    determiner, to be parallel with the treatment of cardinal numerals and English
+    English determiners.
     It may also occur without the counted noun but one could argue that it is ellipsis.</td>
   </tr>
   <tr>
@@ -594,6 +607,16 @@ adjectives modify nouns?
     <td>Indefinite multiplicative-ordinal numeral.</td>
   </tr>
   <tr>
+    <td>en</td>
+    <td>where, when, how, why, wherever, whenever</td>
+    <td></td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative adverb.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>kde, kam, odkud, kudy</td>
     <td>where, where to, where from, where through</td>
@@ -604,6 +627,16 @@ adjectives modify nouns?
     <td>Interrogative / relative adverb of location.</td>
   </tr>
   <tr>
+    <td>en</td>
+    <td>here, there, now, then, so</td>
+    <td></td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative adverb.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>tady, tam, sem, odsud, odtamtud, tudy, tadytudy, tamtudy</td>
     <td>here, there, here (to), from here, from there, through here, through here, through there</td>
@@ -612,6 +645,18 @@ adjectives modify nouns?
     <td>ADV</td>
     <td>Impossible</td>
     <td>Demonstrative adverb of location.</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>somewhere, sometimes, somewhat, somehow,
+        anywhere, anytime, anyhow, anyway, anyways,
+        everywhere, always</td>
+    <td></td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite adverb.</td>
   </tr>
   <tr>
     <td>cs</td>
@@ -626,6 +671,16 @@ adjectives modify nouns?
     <td>ADV</td>
     <td>Impossible</td>
     <td>Indefinite adverb of location.</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>nowhere, never</td>
+    <td></td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Negative adverb.</td>
   </tr>
   <tr>
     <td>cs</td>
