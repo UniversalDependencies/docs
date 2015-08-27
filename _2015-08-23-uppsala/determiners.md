@@ -230,7 +230,9 @@ adjectives modify nouns?
   </tr>
   <tr>
     <td>en</td>
-    <td>I, you, he, she, it, we, they</td>
+    <td>I, you, he, she, it, we, they, one,
+        myself, yourself, himself, herself, itself, ourselves, yourselves, themselves,
+        oneself</td>
     <td></td>
     <td>PRON</td>
     <td>PRON</td>
@@ -346,6 +348,17 @@ adjectives modify nouns?
     <td><i>What</i> can also work as a pronoun.
         That is considered a different homonymous word and gets
         a different tag even in the original tagset (see above).</td>
+  </tr>
+  <tr>
+    <td>en</td>
+    <td>whose</td>
+    <td></td>
+    <td></td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>In the Penn Treebank, it is tagged <tt>WP$</tt>, which means
+        interrogative / relative possessive pronoun.</td>
   </tr>
   <tr>
     <td>cs</td>
