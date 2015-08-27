@@ -199,21 +199,29 @@ It is a space of several dimensions and it is not clear what would be the best w
 visualizing it but let's start with a table and see what we get.
 
 Legend: __TPOS__ = traditional part of speech, i.e. what category it belongs to in the
-grammatical tradition used in this language.
+grammatical tradition used in this language. __OPOS__ = original POS tag (in a native tagset
+where we may to convert from; this is likely, but not necessary, to be same as TPOS.
+__Similar__ = what non-pronominal part of speech (if any) does this word resemble?
+For a concrete example, if the language has genders and the word takes different forms for
+different genders in order to agree with a modified noun, it is probably like an adjective.
 
-<table>
+<table border=1>
   <tr>
     <th>Lang</th>
     <th>Word</th>
     <th>Gloss</th>
     <th>TPOS</th>
+    <th>OPOS</th>
+    <th>Similar</th>
     <th>Note</th>
   </tr>
   <tr>
     <td>cs</td>
     <td>já, ty, on, ona, ono, my, vy, oni, ony, ona, se</td>
     <td>I, you (`Sing`), he, she, it, we, you (`Plur`), they (`Masc`), they (`Fem`), they (`Neut`), oneself (`Reflex`)</td>
-    <td>`PRON`</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
     <td>Pronouns inflect for case (7 different cases in Czech) but regardless the case,
         personal (non-possessive) pronouns are never determiners.
         Note that Czech allows that noun phrases are post-modified by genitive noun phrases,
@@ -225,7 +233,9 @@ grammatical tradition used in this language.
     <td>cs</td>
     <td>můj, tvůj, jeho, její, náš, váš, jejich, svůj</td>
     <td>my, your (`Sing`), his/its, her, our, your (`Plur`), their, oneself's (`Reflex`)</td>
-    <td>`PRON`</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
     <td>These are not genitive forms of personal pronouns! (They exist but they are different.)
         These are nominative forms of possessive pronouns, which behave like adjectives.
         They have different forms for different genders; one must use the form that agrees
