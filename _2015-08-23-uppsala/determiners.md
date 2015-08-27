@@ -199,8 +199,9 @@ It is a space of several dimensions and it is not clear what would be the best w
 visualizing it but let's start with a table and see what we get.
 
 Legend: __TPOS__ = traditional part of speech, i.e. what category it belongs to in the
-grammatical tradition used in this language. __OPOS__ = original POS tag (in a native tagset
-where we may to convert from; this is likely, but not necessary, to be same as TPOS.
+grammatical tradition used in this language. __OPOS__ = part of speech coming from the
+original / native tagset (but translated to universal POS tags, if possible);
+this is likely, but not necessary, to be same as TPOS.
 __Similar__ = what non-pronominal part of speech (if any) does this word resemble?
 For a concrete example, if the language has genders and the word takes different forms for
 different genders in order to agree with a modified noun, it is probably like an adjective.
