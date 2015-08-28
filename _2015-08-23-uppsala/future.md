@@ -37,7 +37,7 @@ This group discussed possible extensions towards annotation of semantics.
   - something should be out by end of next year (process: survey of treebanks, guidelines, annotation)
 - minimal set for a treebank to be considered as having semantic annotation: content words, all relations (with effective heads resolved), labels at least for verbs and their arguments
 
-## Report and discussion will all
+## Report and discussion with all
 
 - several concerns raised
   - do "enhanced" things first
