@@ -5,7 +5,7 @@ title:  'Uppsala Group on Multiword Expressions'
 
 # Uppsala Group on Multiword Expressions
 
-_(Aaron Smith, Alessandro Lenci, Anders Johannsen, Jan Hajic, Marie-catherine de Marneffe, Veronika Vincze)_
+_(Aaron Smith, Alessandro Lenci, Anders Johannsen, Jan Hajic, Marie-Catherine de Marneffe, Veronika Vincze)_
 
 The group discussion involved three main topics: the treatment of light verb constructions, the treatment of other MWEs and multiword abbreviations.
 
