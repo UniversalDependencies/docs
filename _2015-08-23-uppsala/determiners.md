@@ -316,7 +316,7 @@ adjectives modify nouns?
   <tr>
     <td>cs</td>
     <td>můj, tvůj, jeho, její, náš, váš, jejich, svůj</td>
-    <td>my, your (`Sing`), his/its, her, our, your (`Plur`), their, oneself's (`Reflex`)</td>
+    <td>my, your (Sing), his/its, her, our, your (Plur), their, oneself's (Reflex)</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>ADJ</td>
@@ -768,14 +768,36 @@ adjectives modify nouns?
     <td>Interrogative / relative adverb.</td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>kde, kam, odkud, kudy</td>
-    <td>where, where to, where from, where through</td>
+    <td>de</td>
+    <td>wo, wohin, woher,
+        wann, wie, warum, weshalb,
+        wonach, wobei, womit, wozu, wofür, wodurch,
+        woran, worüber, worin, wogegen, worauf, woraus,
+        worum, wohinein, woraufhin, wovor</td>
+    <td>where, where to, where from,
+        when, how, why, hence,
+        after which, by which, with which, to which, for which, through which,
+        on which, over which, in which, against which, on which, from which,
+        about which, into which, onto which, before which</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Interrogative / relative adverb of location.</td>
+    <td>Interrogative / relative adverb.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>kde, kam, odkud, kudy,
+        kdy, odkdy, dokdy,
+        jak, proč</td>
+    <td>where, where to, where from, where through,
+        when, since when, until when,
+        how, why</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Interrogative / relative adverb.</td>
   </tr>
   <tr>
     <td>en</td>
@@ -788,14 +810,45 @@ adjectives modify nouns?
     <td>Demonstrative adverb.</td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>tady, tam, sem, odsud, odtamtud, tudy, tadytudy, tamtudy</td>
-    <td>here, there, here (to), from here, from there, through here, through here, through there</td>
+    <td>de</td>
+    <td>da, dahin, daher, hier, dort, dorthin,
+        jetzt, dann, so, darum, deshalb,
+        damit, dabei, dafür, dazu,
+        davon, darauf, dagegen,
+        darüber, daran, zudem, darin,
+        außerdem, danach, darunter, dadurch,
+        daraus, trotzdem, davor,
+        deswegen, demnach, daraufhin, seitdem,
+        dahinter, hierzu, daneben, …</td>
+    <td>here, here (to), from here, here, there, there (to),
+        now, then, so, that's why, thus / therefore,
+        with that, by that, for that, to that,
+        from that, on that, against that,
+        over that, on that, to that, in that,
+        except that, after that, under that, through that,
+        from that, though, before that,
+        therefore, thus, then, since then,
+        behind that, to this, besides that, …</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Demonstrative adverb of location.</td>
+    <td>Demonstrative adverb.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>tady, tam, sem, odsud, odtamtud, tudy, tadytudy, tamtudy,
+        teď, tehdy, potom, tentokrát,
+        tak, proto</td>
+    <td>here, there, here (to), from here, from there,
+        through here, through here, through there,
+        now, then, then, this time,
+        so, because of that</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Demonstrative adverb.</td>
   </tr>
   <tr>
     <td>en</td>
@@ -810,22 +863,34 @@ adjectives modify nouns?
     <td>Indefinite adverb.</td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>někde, někam, odněkud, někudy,
-    kdekoli, kamkoli, odkudkoli, kudykoli,
-    všude, všudy</td>
-    <td>somewhere, to somewhere, from somewhere, through somewhere,
-        anywhere, to anywhere, from anywhere, through anywhere,
-        everywhere, through everywhere</td>
+    <td>de</td>
+    <td>irgendwo, irgendwann, irgendwie,
+        überall, immer, jederzeit, manchmal</td>
+    <td>somewhere, sometime, somehow,
+        everywhere, always, anytime, sometimes</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Indefinite adverb of location.</td>
+    <td>Indefinite adverb.</td>
+  </tr>
+  <tr>
+    <td>cs</td>
+    <td>někde, někam, odněkud, někudy, někdy, nějak,
+        kdekoli, kamkoli, odkudkoli, kudykoli, kdykoli, jakkoli,
+        všude, všudy, vždy</td>
+    <td>somewhere, to somewhere, from somewhere, through somewhere, sometime(s), somehow,
+        anywhere, to anywhere, from anywhere, through anywhere, anytime, anyhow,
+        everywhere, through everywhere, always</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>ADV</td>
+    <td>Impossible</td>
+    <td>Indefinite adverb.</td>
   </tr>
   <tr>
     <td>en</td>
-    <td>nowhere, never</td>
+    <td>nowhere, never, nohow</td>
     <td></td>
     <td>ADV</td>
     <td>ADV</td>
@@ -834,93 +899,27 @@ adjectives modify nouns?
     <td>Negative adverb.</td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>nikde, nikam, odnikud, nikudy</td>
-    <td>nowhere, to nowhere, from nowhere, through nowhere</td>
+    <td>de</td>
+    <td>nirgendwo, nirgends, nie(mals), keineswegs</td>
+    <td>nowhere, nowhere, never, in no way</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Negative adverb of location.</td>
+    <td>Indefinite adverb.</td>
   </tr>
   <tr>
     <td>cs</td>
-    <td>kdy, odkdy, dokdy</td>
-    <td>when, since when, until when</td>
+    <td>nikde, nikam, odnikud, nikudy,
+        nikdy,
+        nijak</td>
+    <td>nowhere, to nowhere, from nowhere, through nowhere,
+        never,
+        nohow</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Interrogative / relative adverb of time.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>teď, tehdy, potom</td>
-    <td>now, then, then</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Demonstrative adverb of time.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>někdy, kdykoli, vždy</td>
-    <td>sometime(s), anytime, always</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Indefinite adverb of time.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>nikdy</td>
-    <td>never</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Negative adverb of time.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>jak, proč</td>
-    <td>how, why</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Interrogative / relative adverb of manner and cause/purpose.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>tak, proto</td>
-    <td>so, because of that</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Demonstrative adverb of manner and cause/purpose.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>nějak, jakkoli</td>
-    <td>some way, any way</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Indefinite adverb of manner.</td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>nijak</td>
-    <td>no way</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>ADV</td>
-    <td>Impossible</td>
-    <td>Negative adverb of manner.</td>
+    <td>Negative adverb.</td>
   </tr>
 </table>
