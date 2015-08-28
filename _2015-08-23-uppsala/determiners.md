@@ -521,7 +521,7 @@ adjectives modify nouns?
     <td>DET</td>
     <td>ADJ</td>
     <td>Likely</td>
-    <td>_Anderer_ “other” is sometimes tagged as adjective, sometimes as substantive
+    <td><i>Anderer</i> “other” is sometimes tagged as adjective, sometimes as substantive
         pronoun and sometimes as attributive pronoun (determiner).</td>
   </tr>
   <tr>
@@ -672,7 +672,7 @@ adjectives modify nouns?
     <td>ADJ</td>
     <td>Likely</td>
     <td>Interrogative / relative ordinal numeral.
-    _Kolikáté pivo máš?_ means “How many beers have you had?” but literally it is something
+    <i>Kolikáté pivo máš?</i> means “How many beers have you had?” but literally it is something
     like “How-many-th beer do-you-have?”</td>
   </tr>
   <tr>
@@ -734,7 +734,7 @@ adjectives modify nouns?
     <td>ADV</td>
     <td>Impossible</td>
     <td>Interrogative / relative multiplicative-ordinal numeral.
-    _Pokolikáté už se to stalo?_ “How many times has this happenned?”
+    <i>Pokolikáté už se to stalo?</i> “How many times has this happenned?”
     lit. approx. “How-many-th-time already itself this happenned?”</td>
   </tr>
   <tr>
