@@ -29,9 +29,9 @@ This group discussed possible extensions towards annotation of semantics.
 - basis features to include in "UD Semantics 1.0":
   - exlicitly identified content words
   - graph structure over content words, with conjunct propagated ("effective heads")
-  - labeled relations on every "semantic" edge
+  - labeled relations on every "semantic" edge (~30 types: not semantic roles, but rather arguments as in propbank, plus non-argument relations as in PDT)
   - LVCs and idioms annotated
-  - Named entities, labeled at least on "top level" hierarchy
+  - Named entities, labeled at least on "top level" hierarchy (~5-7 classes)
   - NULL words: only positively defined
   - WSD with caution (maybe not in UD Semantics 1.0 - which ontology??)
   - something should be out by end of next year (process: survey of treebanks, guidelines, annotation)
