@@ -41,4 +41,5 @@ This group discussed possible extensions towards annotation of semantics.
 
 - several concerns raised
   - do "enhanced" things first
+  - named entities, LVCs, idioms perhaps the most pressing in terms of need?
 - several non-group people expressed interest to contribute to the process
