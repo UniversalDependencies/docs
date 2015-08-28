@@ -300,8 +300,8 @@ adjectives modify nouns?</p>
   </tr>
   <tr>
     <td>de</td>
-    <td>ich, du, er, sie, es, wir, ihr, sie, man</td>
-    <td>I, you (Sing), he, she, it, we, you (Plur), they, one</td>
+    <td>ich, du, er, sie, es, wir, ihr, sie, man, einander</td>
+    <td>I, you (Sing), he, she, it, we, you (Plur), they, one, each other</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>NOUN</td>
@@ -313,7 +313,7 @@ adjectives modify nouns?</p>
   <tr>
     <td>cs</td>
     <td>já, ty, on, ona, ono, my, vy, oni, ony, ona, se</td>
-    <td>I, you (Sing), he, she, it, we, you (Plur), they (Masc), they (Fem), they (Neut), oneself (`Reflex`)</td>
+    <td>I, you (Sing), he, she, it, we, you (Plur), they (Masc), they (Fem), they (Neut), oneself (Reflex)</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>NOUN</td>
@@ -381,6 +381,42 @@ adjectives modify nouns?</p>
         homonymous with the determiner.</td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>dies</td>
+    <td>this</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Lemma is <i>dieser</i> and there are also adjectival forms that work like
+        determiners.</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>dieser, jener, solcher, derselbe</td>
+    <td>this, that, such, the same</td>
+    <td>PRON</td>
+    <td>DET</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>For <i>dieser</i> there is also the substantive form <i>dies</i> that
+        is used as a standalone noun phrase. It is described in a separate row of this
+        table.</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>derjenige</td>
+    <td>the one</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Possible</td>
+    <td>Morphology is adjectival (gender and number inflection) but it usually appears
+        without a parent noun. Instead, it is itself modified by a relative clause, e.g.
+        <i>Derjenige, der den Pythagoras nicht kapiert…</i> “The one who does not understand
+        Pythagoras…”</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>ten (to), tento, tenhle, tamten, onen, takový, týž, tentýž</td>
     <td>the (it), this, this, that, that, such, same, same</td>
@@ -406,6 +442,16 @@ adjectives modify nouns?</p>
         a different tag even in the original tagset (see below).</td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>wer, was</td>
+    <td>who, what</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Interrogative and relative pronouns.</td>
+  </tr>
+  <tr>
     <td>cs</td>
     <td>kdo, co</td>
     <td>who, what</td>
@@ -428,6 +474,18 @@ adjectives modify nouns?</p>
         a different tag even in the original tagset (see above).</td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>welcher, der</td>
+    <td>which, that</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Possible</td>
+    <td>Interrogative and relative pronouns.
+        The relative pronoun <i>der</i> is homonymous with the definite article
+        but they have different tags.</td>
+  </tr>
+  <tr>
     <td>en</td>
     <td>whose</td>
     <td></td>
@@ -437,6 +495,16 @@ adjectives modify nouns?</p>
     <td>Likely</td>
     <td>In the Penn Treebank, it is tagged <tt>WP$</tt>, which means
         interrogative / relative possessive pronoun.</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>wessen, dessen</td>
+    <td>whose</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Likely</td>
+    <td>Interrogative / relative possessive pronouns.</td>
   </tr>
   <tr>
     <td>cs</td>
@@ -459,9 +527,19 @@ adjectives modify nouns?</p>
     <td></td>
   </tr>
   <tr>
+    <td>de</td>
+    <td>jemand, etwas, niemand, nichts</td>
+    <td></td>
+    <td>NOUN</td>
+    <td>NOUN</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>cs</td>
-    <td>někdo, něco, kdokoli, cokoli</td>
-    <td>somebody, something, anybody, anything</td>
+    <td>někdo, něco, kdokoli, cokoli, nikdo, nic</td>
+    <td>somebody, something, anybody, anything, nobody, nothing</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>NOUN</td>
@@ -469,7 +547,7 @@ adjectives modify nouns?</p>
     <td></td>
   </tr>
   <tr>
-    <td>cs</td>
+    <td>en</td>
     <td>some, any, every, each, all, no, another, both, such, either, neither</td>
     <td></td>
     <td></td>
@@ -479,19 +557,20 @@ adjectives modify nouns?</p>
     <td></td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>nějaký, některý, něčí, jakýkoli, kterýkoli, číkoli</td>
-    <td>some (quality), some (selection), someone's, any (quality), any (selection), anyone's</td>
-    <td>PRON</td>
-    <td>PRON</td>
+    <td>de</td>
+    <td>irgendeiner, irgendwelcher, mancher, anderer, jeder, alle, beide, keiner</td>
+    <td>some (quality), some (selection), some (selection), other, every, all, both, no</td>
+    <td></td>
+    <td>DET</td>
     <td>ADJ</td>
     <td>Likely</td>
-    <td></td>
+    <td>_Anderer_ “other” is sometimes tagged as adjective, sometimes as substantive
+        pronoun and sometimes as attributive pronoun (determiner).</td>
   </tr>
   <tr>
     <td>cs</td>
-    <td>každý</td>
-    <td>every / each</td>
+    <td>nějaký, některý, něčí, jakýkoli, kterýkoli, číkoli, každý, nijaký, žádný, ničí</td>
+    <td>some (quality), some (selection), someone's, any (quality), any (selection), anyone's, every / each, no such (quality), no (selection), no one's</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>ADJ</td>
@@ -510,23 +589,13 @@ adjectives modify nouns?</p>
     standalone pronoun that would be translated as “everyone, everything”.</td>
   </tr>
   <tr>
-    <td>cs</td>
-    <td>nikdo, nic</td>
-    <td>nobody, nothing</td>
-    <td>PRON</td>
-    <td>PRON</td>
-    <td>NOUN</td>
-    <td>Impossible</td>
+    <td>de</td>
+    <td>wieviel</td>
+    <td>how much</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>cs</td>
-    <td>nijaký, žádný, ničí</td>
-    <td>no such (quality), no (selection), no one's</td>
-    <td>PRON</td>
-    <td>PRON</td>
+    <td>PRON / DET</td>
     <td>ADJ</td>
-    <td>Likely</td>
+    <td>Possible</td>
     <td></td>
   </tr>
   <tr>
@@ -542,8 +611,18 @@ adjectives modify nouns?</p>
     This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
     but definitely not to Czech adjectives.
     Nevertheless, we have been treating this word as a language-specific subtype of
-    determiner, to be parallel with English _many_.
+    determiner, to be parallel with English <i>many</i>.
     It may also occur without the counted noun but one could argue that it is ellipsis.</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>soviel</td>
+    <td>so much</td>
+    <td></td>
+    <td>PRON / DET</td>
+    <td>ADJ</td>
+    <td>Possible</td>
+    <td></td>
   </tr>
   <tr>
     <td>cs</td>
@@ -558,7 +637,7 @@ adjectives modify nouns?</p>
     This is a morpho-syntactic behavior parallel to higher-value cardinal numerals,
     but definitely not to Czech adjectives.
     Nevertheless, we have been treating this word as a language-specific subtype of
-    determiner, to be parallel with English _many_.
+    determiner, to be parallel with English <i>many</i>.
     It may also occur without the counted noun but one could argue that it is ellipsis.</td>
   </tr>
   <tr>
@@ -572,6 +651,30 @@ adjectives modify nouns?</p>
     <td>The words <i>much, more, most</i> and <i>little, less, least</i>
         can also function as adverbs
         and if they do, they are also tagged so in the original tagset.</td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>einiger, vieler, weniger, meister</td>
+    <td>some (quantity or selection), many, few, most</td>
+    <td></td>
+    <td>DET</td>
+    <td>ADJ</td>
+    <td>Possible</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>de</td>
+    <td>bißchen, viel, wenig, mehr</td>
+    <td>bit, much, little, more</td>
+    <td></td>
+    <td>PRON</td>
+    <td>NUM?</td>
+    <td>Possible</td>
+    <td>These indefinite quantifiers modify a quantified uncountable noun
+        (possibly elided) without taking an adjective-like suffix for gender/number
+        agreement. This makes their behavior similar to cardinal numbers, but
+        they are not used with countable nouns (with countable nouns the adjectival
+        suffixes would be needed).</td>
   </tr>
   <tr>
     <td>cs</td>
@@ -594,8 +697,8 @@ adjectives modify nouns?</p>
     <td>cs</td>
     <td>mnoho, málo, hodně, více, méně</td>
     <td>many / much, few / little, many / much, more, less / fewer</td>
-    <td>NUM / ADV?</td>
-    <td>NUM ??? TODO!</td>
+    <td>NUM / ADV</td>
+    <td>NUM / ADV</td>
     <td>NUM &gt; 4</td>
     <td>See note</td>
     <td>These words share properties of the indefinite numerals introduced above, including
