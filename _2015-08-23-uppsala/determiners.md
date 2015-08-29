@@ -466,7 +466,7 @@ adjectives modify nouns?
   <tr>
     <td>cs</td>
     <td>jaký, který, čí, jenž</td>
-    <td>which (quality), which (selection), whose, that (`Rel`)</td>
+    <td>which (quality), which (selection), whose, that (Rel)</td>
     <td>PRON</td>
     <td>PRON</td>
     <td>ADJ</td>
