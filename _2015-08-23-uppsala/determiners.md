@@ -906,7 +906,7 @@ adjectives modify nouns?
     <td>ADV</td>
     <td>ADV</td>
     <td>Impossible</td>
-    <td>Indefinite adverb.</td>
+    <td>Negative adverb.</td>
   </tr>
   <tr>
     <td>cs</td>
