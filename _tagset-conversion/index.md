@@ -52,6 +52,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="ja-conll-uposf.html">ja::conll</a> (Japanese)
 * <a href="ja-ipadic-uposf.html">ja::ipadic</a> (Japanese)
 * <a href="la-conll-uposf.html">la::conll</a> (Latin)
+* <a href="mt-mlss-uposf.html">mt::mlss</a> (Maltese)
 * <a href="nl-conll-uposf.html">nl::conll</a> (Dutch)
 * <a href="nl-cgn-uposf.html">nl::cgn</a> (Dutch)
 * <a href="pl-ipipan-uposf.html">pl::ipipan</a> (Polish)
