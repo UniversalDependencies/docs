@@ -89,7 +89,7 @@ Example of ellipsis in [cs]:
   pronouns will probably fall here in most languages, at least their nominative forms.
   And there will be a few more, such as _who_.
 
-Note that the functional definition is the only one which might guarantee comparability and consistency across languages. However, if this option is selected there are other fuzzy distinctions - e.g. that between nouns and adjectives acting as nouns (as in _the old and the young_), or adjectives and verbs acting as adjectives (as in _written text_ or _smiling person_) in specific constructions - which should be dealt with similarly: so, whatever decision is taken for dealing with the det/pron distinction, this might require a revision of the treatment of these other categories across the different languages.
+Note that the functional definition is the only one which might guarantee comparability and consistency across languages. However, if this option is selected there are other fuzzy distinctions - e.g. that between nouns and adjectives acting as nouns (as in _the old and the young_), or adjectives and verbs acting as adjectives (as in _written text_ or _smiling person_) in specific constructions - which should be dealt with similarly: so, whatever decision is taken for dealing with the `det/pron` distinction, this might require a revision of the treatment of these other categories across the different languages.
 
 ## Interaction between POS tags and dependency relations
 
