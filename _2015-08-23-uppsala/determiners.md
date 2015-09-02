@@ -247,6 +247,7 @@ adjectives modify nouns?
     <td>bg</td>
     <td>един, една, едно, едни</td>
     <td></td>
+    <td></td>
     <td>PRON</td>
     <td>ADJ</td>
     <td>Mandatory</td>
