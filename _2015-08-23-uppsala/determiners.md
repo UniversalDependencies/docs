@@ -243,6 +243,17 @@ adjectives modify nouns?
         The indefinite article <i>ein</i> is homonymous with the numeral “one” but they
         have different tags.</td>
   </tr>
+   <tr>
+    <td>bg</td>
+    <td>един, една, едно, едни</td>
+    <td></td>
+    <td>PRON</td>
+    <td>ADJ</td>
+    <td>Mandatory</td>
+    <td>Articles.
+        The indefinite article <i>един</i> is homonymous with the numeral “one” but they
+        have different tags.</td>
+  </tr>
   <tr style="background:lightgray">
     <td>en</td>
     <td>I, you, he, she, it, we, they, one,
@@ -283,6 +294,16 @@ adjectives modify nouns?
         this construction is one of the possible means to express possession, but the genitive
         noun phrase cannot be a genitive personal pronoun. A possessive pronoun must be used
         instead.</td>
+  </tr>
+  <tr>
+    <td>bg</td>
+    <td>аз, ти, той, тя, то, ние, вие, те, себе си, се, на себе си, си</td>
+    <td>I, you (Sing), he, she, it, we, you (Plur), they (Plur), oneself (Reflex)</td>
+    <td>PRON</td>
+    <td>PRON</td>
+    <td>NOUN</td>
+    <td>Impossible</td>
+    <td>Only 3rd singular pronouns have gender; other inflect in number and case (non-reflexive have nominative, accusative and dative, while reflexive have only accusative and dative).</td>
   </tr>
   <tr style="background:lightgray">
     <td>en</td>
