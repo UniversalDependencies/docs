@@ -208,4 +208,4 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 
 * Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
 
-* Daniel Zeman. 2015. Slavic Languages in Universal Dependencies. In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view)
+* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
