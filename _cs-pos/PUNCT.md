@@ -22,9 +22,6 @@ _§_, which are instead tagged as [SYM]().
 
 ### Prague Dependency Treebank
 
-The PDT part-of-speech tagset does not distinguish symbols from punctuation, hence all
-non-alphanumeric characters in the converted data are currently tagged [PUNCT]().
-
 The PDT texts are from the early 1990s and there are no e-mail addresses.
 If they were there, the PDT tokenization rules would break them up on all dots and at signs.
 The same holds for telephone numbers. For example,
