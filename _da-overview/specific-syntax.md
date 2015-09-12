@@ -11,12 +11,12 @@ guidelines for specific constructions.
 
 ~~~sdparse
 DET NOUN VERB DET NOUN CONJ NOUN PUNCT
-NMOD(NOUN-2, DET-1)
-SBJ(VERB, NOUN-2)
-OBJ(VERB, CONJ)
-NMOD(CONJ, DET-4)
-COORD(CONJ, NOUN-5)
-COORD(CONJ, NOUN-7)
+(NOUN-2, DET-1)
+(VERB, NOUN-2)
+(VERB, CONJ)
+(CONJ, DET-4)
+(CONJ, NOUN-5)
+(CONJ, NOUN-7)
 ~~~
 
 ~~~sdparse
