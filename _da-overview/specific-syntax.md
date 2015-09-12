@@ -10,31 +10,31 @@ This document is a placeholder for the language-specific overview of
 guidelines for specific constructions.
 
 ~~~sdparse
-My daughter bought some bread and cheese .
-NMOD(daughter, My)
-SBJ(bought, daughter)
-OBJ(bought, and)
-NMOD(and, some)
-COORD(and, bread)
-COORD(and, cheese)
+DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+NMOD(NOUN-2, DET-1)
+SBJ(VERB, NOUN-2)
+OBJ(VERB, CONJ)
+NMOD(CONJ, DET-4)
+COORD(CONJ, NOUN-5)
+COORD(CONJ, NOUN-7)
 ~~~
 
 ~~~sdparse
-Min datter købte nogle brød og ost .
-nobj(Min, datter)
-subj(købte, Min)
-dobj(købte, nogle)
-nobj(nogle, brød)
-coord(brød, og)
-conj(og, ost)
+DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+nobj(DET-1, NOUN-2)
+subj(VERB, DET-1)
+dobj(VERB, DET-4)
+nobj(DET-4, NOUN-5)
+coord(NOUN-5, CONJ)
+conj(CONJ, NOUN-7)
 ~~~
 
 ~~~sdparse
-Min dotter köpte några bröd och ost .
-DT(dotter, Min)
-SS(köpte, dotter)
-OO(köpte, bröd)
-DT(bröd, några)
-CC(bröd, ost)
-++(ost, och)
+DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+DT(NOUN-2, DET-1)
+SS(VERB, NOUN-2)
+OO(VERB, NOUN-5)
+DT(NOUN-5, DET-4)
+CC(NOUN-5, NOUN-7)
+++(NOUN-7, CONJ)
 ~~~
