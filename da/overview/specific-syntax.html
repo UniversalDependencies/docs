@@ -37,31 +37,31 @@
 <p>This document is a placeholder for the language-specific overview of
 guidelines for specific constructions.</p>
 
-<pre><code class="language-sdparse">My daughter bought some bread and cheese .
-NMOD(daughter, My)
-SBJ(bought, daughter)
-OBJ(bought, and)
-NMOD(and, some)
-COORD(and, bread)
-COORD(and, cheese)
+<pre><code class="language-sdparse">DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+X(NOUN-2, DET-1)
+X(VERB, NOUN-2)
+X(VERB, CONJ)
+X(CONJ, DET-4)
+X(CONJ, NOUN-5)
+X(CONJ, NOUN-7)
 </code></pre>
 
-<pre><code class="language-sdparse">Min datter købte nogle brød og ost .
-nobj(Min, datter)
-subj(købte, Min)
-dobj(købte, nogle)
-nobj(nogle, brød)
-coord(brød, og)
-conj(og, ost)
+<pre><code class="language-sdparse">DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+X(DET-1, NOUN-2)
+X(VERB, DET-1)
+X(VERB, DET-4)
+X(DET-4, NOUN-5)
+X(NOUN-5, CONJ)
+X(CONJ, NOUN-7)
 </code></pre>
 
-<pre><code class="language-sdparse">Min dotter köpte några bröd och ost .
-DT(dotter, Min)
-SS(köpte, dotter)
-OO(köpte, bröd)
-DT(bröd, några)
-CC(bröd, ost)
-++(ost, och)
+<pre><code class="language-sdparse">DET NOUN VERB DET NOUN CONJ NOUN PUNCT
+X(NOUN-2, DET-1)
+X(VERB, NOUN-2)
+X(VERB, NOUN-5)
+X(NOUN-5, DET-4)
+X(NOUN-5, NOUN-7)
+X(NOUN-7, CONJ)
 </code></pre>
 
 
