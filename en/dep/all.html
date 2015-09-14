@@ -263,7 +263,7 @@ acl(Points, establish)
 acl(anything, say)
 </code></pre>
 
-<p>Non-relative clause finite clausal complements for nouns are limited to complement clauses with a subset of nouns like <em>fact</em> or <em>report</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant English subjunctives). </p>
+<p>Non-relative clause finite clausal complements for nouns are limited to complement clauses with a subset of nouns like <em>fact</em> or <em>report</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant English subjunctives).</p>
 
 <pre><code class="language-sdparse">I admire the fact that you are honest 
 acl(fact, honest) 
@@ -358,7 +358,7 @@ amod(loan, $)
 <p><a id="al-en-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. </p>
+<p>An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures.</p>
 
 <pre><code class="language-sdparse">Sam , my brother , arrived
 appos(Sam-1, brother-4)
@@ -379,7 +379,7 @@ appos(Corporation-4, ABC-6)
 
 <p>An auxiliary of a clause is a non-main verb of the clause, e.g., a
 modal auxiliary, or a form of <em>be</em>, <em>do</em> or <em>have</em> in a periphrastic
-tense. </p>
+tense.</p>
 
 <p>(Contrary to the older SD and arguments of Pullum (1982) and following,
 infinitive <em>to</em> is not analyzed as an auxiliary. Instead, it is analyzed
@@ -449,7 +449,7 @@ nmod(speech, head)
 <p><a id="al-en-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordination</h2>
 
-<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence. </p>
+<p>A coordination is the relation between an element of a conjunct and the coordinating conjunction word of the conjunct.  (Note: different dependency grammars have different treatments of coordination.  We take one conjunct of a conjunction (normally the first) as the head of the conjunction.) A conjunction may also appear at the beginning of a sentence.  This is also called a <code>cc</code>, and dependent on the root predicate of the sentence.</p>
 
 <pre><code class="language-sdparse">And then we left .
 cc(left, And)
@@ -473,7 +473,7 @@ cc:preconj(boys, Both)
 <p><a id="al-en-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>A clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb or adjective.  </p>
+<p>A clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb or adjective.</p>
 
 <pre><code class="language-sdparse">He says that you like to swim
 ccomp(says, like)
@@ -489,10 +489,10 @@ mark(did, that)
 <p><a id="al-en-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p><em>compound</em> is used for </p>
+<p><em>compound</em> is used for</p>
 
 <ul>
-  <li>noun compounds (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the noun phrase – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of noun phrases.) </li>
+  <li>noun compounds (Note that in the current system for dependency extraction, all nouns modify the rightmost noun of the noun phrase – there is no intelligent noun compound analysis.  This is likely to be fixed once the Penn Treebank represents the branching structure of noun phrases.)</li>
 </ul>
 
 <pre><code class="language-sdparse">phone book
@@ -661,7 +661,7 @@ case(field, in)
 <p><a id="al-en-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. In the two following examples, <em>what she said</em> is the subject. </p>
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. In the two following examples, <em>what she said</em> is the subject.</p>
 
 <pre><code class="language-sdparse">What she said makes sense
 csubj(makes, said)
@@ -699,7 +699,7 @@ dep(show, if)
 <p><a id="al-en-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>A determiner is the relation between the head of an NP and its determiner. </p>
+<p>A determiner is the relation between the head of an NP and its determiner.</p>
 
 <pre><code class="language-sdparse">The man is here
 det(man, The)
@@ -726,7 +726,7 @@ det:predet(boys, All)
 <p><a id="al-en-dep/discourse" class="al-dest"></a></p>
 <h2><code>discourse</code>: discourse element</h2>
 
-<p>This is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way). We generally follow the guidelines of what the Penn Treebanks count as an INTJ.  They define this to include: interjections (<em>oh</em>, <em>uh-huh</em>, <em>Welcome</em>), fillers (<em>um</em>, <em>ah</em>), and discourse markers (<em>well</em>, <em>like</em>, <em>actually</em>, but not <em>you know</em>). </p>
+<p>This is used for interjections and other discourse particles and elements (which are not clearly linked to the structure of the sentence, except in an expressive way). We generally follow the guidelines of what the Penn Treebanks count as an INTJ.  They define this to include: interjections (<em>oh</em>, <em>uh-huh</em>, <em>Welcome</em>), fillers (<em>um</em>, <em>ah</em>), and discourse markers (<em>well</em>, <em>like</em>, <em>actually</em>, but not <em>you know</em>).</p>
 
 <pre><code class="language-sdparse">Iguazu is in Argentina :)
 discourse(is-2, :)-5)
@@ -762,7 +762,7 @@ dobj(try-7, it-8)
 <p><a id="al-en-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>The direct object of a VP is the noun phrase which is the (accusative) object of the verb. </p>
+<p>The direct object of a VP is the noun phrase which is the (accusative) object of the verb.</p>
 
 <pre><code class="language-sdparse">She gave me a raise
 dobj(gave, raise)
@@ -846,7 +846,7 @@ appos(Email:-5, jones@abc.edf-6)
 <p><a id="al-en-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>A marker is the word introducing a clause subordinate to another clause. For a complement clause, this will typically be <em>that</em> or <em>whether</em>. For an adverbial clause, the marker is typically a preposition like <em>before</em> or a subordinating conjunction fulfilling a similar role like <em>while</em> or <em>although</em>. The mark is a dependent of the subordinate clause head. </p>
+<p>A marker is the word introducing a clause subordinate to another clause. For a complement clause, this will typically be <em>that</em> or <em>whether</em>. For an adverbial clause, the marker is typically a preposition like <em>before</em> or a subordinating conjunction fulfilling a similar role like <em>while</em> or <em>although</em>. The mark is a dependent of the subordinate clause head.</p>
 
 <pre><code class="language-sdparse">Forces engaged in fighting after insurgents attacked
 mark(attacked, after)
@@ -887,7 +887,7 @@ punct(have, .)
 in which all words in the expression modify the first one using the
 <code>mwe</code> label.</p>
 
-<p>At present, this relation is used inside the following expressions: </p>
+<p>At present, this relation is used inside the following expressions:</p>
 
 <p><em>as well</em></p>
 
@@ -1289,7 +1289,7 @@ nmod(Río-1, Plata-4)
 <h2><code>neg</code>: negation modifier</h2>
 
 <p>The negation modifier is the relation between a negation word and the
-word it modifies. It is used both for predicate negation (canonically, <em>not</em>) and nominal negation (canonically <em>no</em>). Dependents labeled <code>neg</code> in the current treebank are the following (in various lowercase/uppercase forms): <em>n, n’t, neither, never, no, non, not, nt, t</em>. </p>
+word it modifies. It is used both for predicate negation (canonically, <em>not</em>) and nominal negation (canonically <em>no</em>). Dependents labeled <code>neg</code> in the current treebank are the following (in various lowercase/uppercase forms): <em>n, n’t, neither, never, no, non, not, nt, t</em>.</p>
 
 <pre><code class="language-sdparse">Bill is not a scientist
 neg(scientist, not)
@@ -1406,7 +1406,7 @@ case(Marie, 's)
 <p><a id="al-en-dep/nmod:tmod" class="al-dest"></a></p>
 <h2><code>nmod:tmod</code>: temporal modifier</h2>
 
-<p>A temporal modifier is a subtype of the <a href="">nmod</a> relation: if the modifier is specifying a time, it is labeled as <em>tmod</em>. </p>
+<p>A temporal modifier is a subtype of the <a href="">nmod</a> relation: if the modifier is specifying a time, it is labeled as <em>tmod</em>.</p>
 
 <pre><code class="language-sdparse">Last night , I swam in the pool
 nmod:tmod(swam, night)
@@ -1421,7 +1421,7 @@ nmod:tmod(turn, week)
 <p><a id="al-en-dep/nsubj" class="al-dest"></a></p>
 <h2><code>nsubj</code>: nominal subject</h2>
 
-<p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun. </p>
+<p>A nominal subject is a noun phrase which is the syntactic subject of a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.</p>
 
 <pre><code class="language-sdparse">Clinton defeated Dole
 nsubj(defeated, Clinton)
@@ -1464,7 +1464,7 @@ nummod($, 40)
 <p><a id="al-en-dep/parataxis" class="al-dest"></a></p>
 <h2><code>parataxis</code>: parataxis</h2>
 
-<p>The parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination. </p>
+<p>The parataxis relation (from Greek for “place side by side”) is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a “:” or a “;”, or two sentences placed side by side without any explicit coordination or subordination.</p>
 
 <pre><code class="language-sdparse">Let 's face it we 're annoyed
 parataxis(Let, annoyed)
@@ -1489,7 +1489,7 @@ parataxis(left, said)
 <p><a id="al-en-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output. </p>
+<p>This is used for any piece of punctuation in a clause, if punctuation is being retained in the typed dependencies. By default, punctuation is not retained in the output.</p>
 
 <pre><code class="language-sdparse">Go home !
 punct(Go, !)
@@ -1504,7 +1504,7 @@ punct(Go, !)
 the case of gapping and stripping, where a predicational or verbal
 head gets elided) <em>without</em> having to postulate empty nodes in the basic representation. This is something that was lacking in earlier versions
 of SD and provides a basis for being able to reconstruct dependencies
-in the enhanced representation of SD. </p>
+in the enhanced representation of SD.</p>
 
 <p>USD adopts an analysis that notes that in ellipsis a <code>remnant</code> corresponds to a <em>correlate</em> in a preceding clause. The <code>remnant</code> relation connects each remnant to its correlate in the basic dependency representation. This is then a sufficient representation to reconstruct the predicate-argument structure in the enhanced representation.</p>
 
@@ -1557,7 +1557,7 @@ case(Paris-10, to-9)
 remnant(Europe-5, Paris-10)
 </code></pre>
 
-<p>Sometimes in these constructions adverbials will be “sprouted”, and have no correlate in the precedeing clause. In such a situation, the adverbial should attach to one of the remnants; in principle it shouldn’t matter which remnant it attaches to, since all remnants at a particular depth of embedding point back to the same semantic event (which the adverbial is a part of). However, to enforce a regular system, the adverbial should depend on the nearest leftmost dependent. </p>
+<p>Sometimes in these constructions adverbials will be “sprouted”, and have no correlate in the precedeing clause. In such a situation, the adverbial should attach to one of the remnants; in principle it shouldn’t matter which remnant it attaches to, since all remnants at a particular depth of embedding point back to the same semantic event (which the adverbial is a part of). However, to enforce a regular system, the adverbial should depend on the nearest leftmost dependent.</p>
 
 <pre><code class="language-sdparse">Mary will come today and Tom tomorrow , if he finds a ticket .
 nsubj(come-3, Mary-1)
@@ -1633,7 +1633,7 @@ det(left-7, the-6)
 <p><a id="al-en-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1. </p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indexation of real words in the sentence starts at 1.</p>
 
 <pre><code class="language-sdparse">ROOT I love French fries .
 root(ROOT, love)
@@ -1661,7 +1661,7 @@ vocative(take, Guys)
 <p><a id="al-en-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause. These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. </p>
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause. These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar.</p>
 
 <pre><code class="language-sdparse">He says that you like to swim
 xcomp(like, swim)

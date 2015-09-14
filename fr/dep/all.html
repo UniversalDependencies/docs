@@ -232,7 +232,7 @@ in two places.</p>
 <p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
 Note that in French relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
 
-<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>fait (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant French subjunctives). </p>
+<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>fait (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant French subjunctives).</p>
 
 <pre><code class="language-sdparse">Comment est-ce que cela peut être réconcilié avec le fait que beaucoup de mariages cassent ? \n How can that be reconciled with the fact that many marriages break up?
 acl(fait, cassent) 
@@ -381,7 +381,7 @@ aux(assassiné, a)
 <p><a id="al-fr-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>The <code>case</code> relation is used for any preposition in French. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages. </p>
+<p>The <code>case</code> relation is used for any preposition in French. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <pre><code class="language-sdparse">Taxation individuelle de rentrée salariale \n Individual taxation of employment income
 case(rentrée, de)
@@ -396,7 +396,7 @@ case(attendant, En)
 <p><a id="al-fr-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>ni … ni</em> “nor … nor”. Note that we never treat punctuation as coordinating conjunctions. For more on coordination, see the French <a href="">conj</a> relation as well as the universal dependency page (<a href="">u-dep/conj</a>). </p>
+<p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>ni … ni</em> “nor … nor”. Note that we never treat punctuation as coordinating conjunctions. For more on coordination, see the French <a href="">conj</a> relation as well as the universal dependency page (<a href="">u-dep/conj</a>).</p>
 
 <pre><code class="language-sdparse">1500 euros par an et par enfant \n 1500 euros per child and per year
 cc(an, et)
@@ -507,7 +507,7 @@ csubjpass(cru, triché)
 <p><a id="al-fr-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>A determiner is the relation between the head of a nominal phrase and its determiner. </p>
+<p>A determiner is the relation between the head of a nominal phrase and its determiner.</p>
 
 <pre><code class="language-sdparse">Les fleurs sont magnifiques \n The flowers are beautiful
 det(fleurs, Les)
@@ -560,7 +560,7 @@ dobj(aime, l')
 <p><a id="al-fr-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>A direct object is a nominal which is the (accusative) object of the verbal predicate. </p>
+<p>A direct object is a nominal which is the (accusative) object of the verbal predicate.</p>
 
 <pre><code class="language-sdparse">Il mange un sandwich . \n He eats a sandwich .
 dobj(mange, sandwich)
@@ -662,7 +662,7 @@ appos(Email:-5, jones@abc.edf-6)
 <p><a id="al-fr-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. </p>
+<p>A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head.</p>
 
 <pre><code class="language-sdparse">Il dit que tu aimes nager \n He says that you like to swim
 mark(aimes, que)
@@ -686,7 +686,7 @@ mark(avoir, pour)
 <p>The multi-word expression (modifier) relation is one of the three
 relations (<a href="">compound</a>, <code>mwe</code>, <a href="">name</a>) for compounding.
 It is used for certain fixed grammaticized expressions that behave
-like function words or short adverbials. </p>
+like function words or short adverbials.</p>
 
 <pre><code class="language-sdparse">de toutes façons \n in any case
 mwe(façons, de)
@@ -956,7 +956,7 @@ vocative(va, David)
 <p><a id="al-fr-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause). These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. </p>
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause). These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar.</p>
 
 <pre><code class="language-sdparse">Il dit que tu aimes nager \n He says that you like to swim
 xcomp(aimes, nager)

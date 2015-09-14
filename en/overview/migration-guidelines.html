@@ -128,14 +128,14 @@ in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded
 
 <h3 id="bacomp-xcompb"><b><code>acomp</code>: <code>xcomp</code></b></h3>
 
-<p><code>acomp</code> no longer exists as a relation in UD and has been folded into <a href="en-dep/xcomp"><code>xcomp</code></a>. </p>
+<p><code>acomp</code> no longer exists as a relation in UD and has been folded into <a href="en-dep/xcomp"><code>xcomp</code></a>.</p>
 
 <h4 id="grammaticalrelation-object">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT</code></p>
 
 <h3 id="badvcl-advclb"><b><code>advcl</code>: <code>advcl</code></b></h3>
 
-<p><code>advcl</code> relations in SD are still annotated as <a href="en-dep/advcl"><code>advcl</code></a> in UD. </p>
+<p><code>advcl</code> relations in SD are still annotated as <a href="en-dep/advcl"><code>advcl</code></a> in UD.</p>
 
 <p>Note, however, that this relation is now also used for prepositional phrases modifying a predicate (some instances of <code>pcomp</code> and <code>prepc</code> in SD) and for reduced non-finite verbal modifiers that modify a predicate (some instances of <code>vmod</code> in SD).</p>
 
@@ -358,7 +358,7 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 
 <h3 id="bnumber-compoundb"><b><code>number</code>: <code>compound</code></b></h3>
 
-<p>The <code>number</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/compound"><code>compound</code></a>. </p>
+<p>The <code>number</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/compound"><code>compound</code></a>.</p>
 
 <h4 id="grammaticalrelation-object-28">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND</code></p>
@@ -379,7 +379,7 @@ description of the <a href="en-dep/mwe"><code>mwe</code> relation</a> for the li
 
 <h3 id="bpossesive-caseb"><b><code>possesive</code>: <code>case</code></b></h3>
 
-<p>The <code>possesive</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/case"><code>case</code></a>. </p>
+<p>The <code>possesive</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/case"><code>case</code></a>.</p>
 
 <h4 id="grammaticalrelation-object-31">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER</code></p>
@@ -420,7 +420,7 @@ but also the tree structure changed. See the section <a href="#treatment-of-prep
 
 <h3 id="bprep-case-or-markb"><b><code>prep</code>: <code>case</code> or <code>mark</code></b></h3>
 
-<p>Prepositional phrases are treated differently in UD. See the section <a href="#treatment-of-prepositional-phrases">Treatment of Prepositional Phrases</a> for more details on the new treatment of prepositional phrases. </p>
+<p>Prepositional phrases are treated differently in UD. See the section <a href="#treatment-of-prepositional-phrases">Treatment of Prepositional Phrases</a> for more details on the new treatment of prepositional phrases.</p>
 
 <p>The various <code>prep_&lt;PREPOSITION&gt;</code> relations in the <em>collapsed</em> and <em>CCprocessed</em> SD representations 
 have been replaced with <code>nmod:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation.</p>
@@ -433,7 +433,7 @@ have been replaced with <code>nmod:&lt;PREPOSITION&gt;</code> relations in the U
 <h3 id="bprepc-acl-or-advclb"><b><code>prepc</code>: <code>acl</code> or <code>advcl</code></b></h3>
 
 <p>The <code>prepc_&lt;PREPOSITION&gt;</code> relations in the <em>collapsed</em> and <em>CCprocessed</em> SD representations have been 
-replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation. </p>
+replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITION&gt;</code> relations in the UD <em>enhanced</em> representation.</p>
 
 <p>See the section <a href="#treatment-of-prepositional-phrases">Treatment of Prepositional Phrases</a> for more details.</p>
 
@@ -453,7 +453,7 @@ replaced with <code>acl:&lt;PREPOSITION&gt;</code> and <code>advcl:&lt;PREPOSITI
 
 <h3 id="bquantmod-advmodb"><b><code>quantmod</code>: <code>advmod</code></b></h3>
 
-<p>The <code>quantmod</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/advmod"><code>advmod</code></a>. </p>
+<p>The <code>quantmod</code> relation in SD no longer exists as a relation in UD and has been folded into <a href="en-dep/advmod"><code>advmod</code></a>.</p>
 
 <h4 id="grammaticalrelation-object-39">GrammaticalRelation object:</h4>
 <p><code>edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER</code></p>
@@ -517,7 +517,7 @@ construction. The <code>advcl</code> relation is used for clauses that modify a 
 
 <h2 id="enhanced-universal-depencies"><em>Enhanced</em> Universal Depencies</h2>
 
-<p>Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the <em>collapsed</em> and <em>CCprocessed</em> representations. The main purpose of the <em>collapsed</em> representation was to collapse prepositions to get direct dependencies between content words. Considering the new <a href="#treatment-of-prepositional-phrases">treatment of prepositional phrases</a> the basic representation already has direct dependencies between content words which makes the <em>collapsed</em> representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD. </p>
+<p>Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the <em>collapsed</em> and <em>CCprocessed</em> representations. The main purpose of the <em>collapsed</em> representation was to collapse prepositions to get direct dependencies between content words. Considering the new <a href="#treatment-of-prepositional-phrases">treatment of prepositional phrases</a> the basic representation already has direct dependencies between content words which makes the <em>collapsed</em> representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD.</p>
 
 <p>For these reasons we decided to reduce the total number of representations to the following three:</p>
 
@@ -529,12 +529,12 @@ construction. The <code>advcl</code> relation is used for clauses that modify a 
 
 <p>The <em>basic</em> representation uses the dependencies defined above, and forms a tree structure. Each
 word in the sentence is the dependent of exactly one thing, either another word in the sentence or the
-distingushed <em>ROOT</em> token. </p>
+distingushed <em>ROOT</em> token.</p>
 
 <p>The <em>enhanced</em> representation roughly corresponds to the <em>CCprocessed</em> representation in SD. However, there are two main differences:</p>
 
 <ul>
-  <li>The delimiter between the original relation name and the conjunction or the preposition was changed from <code>_</code> to <code>:</code>. For example, what used to be <code>conj_and</code> is now <code>conj:and</code>, or <code>prep_in_front_of</code> is now <code>nmod:in_front_of</code>. </li>
+  <li>The delimiter between the original relation name and the conjunction or the preposition was changed from <code>_</code> to <code>:</code>. For example, what used to be <code>conj_and</code> is now <code>conj:and</code>, or <code>prep_in_front_of</code> is now <code>nmod:in_front_of</code>.</li>
   <li>We no longer delete words in the <em>enhanced</em> representation.</li>
 </ul>
 

@@ -46,7 +46,7 @@
 * C tokens are recognized on the basis of a predefined list of punctuation and symbol characters included in the tokenizer.
 * C tokens may include only one punctuation or symbol character. Sequences of two or more characters (e.g. <em><b>?!</b></em>) are treated as sequences of separate C tokens.</p>
 
-<p>If a string of alphanumeric characters between two spaces includes C characters, it is usually split into several tokens (e.g. <em>AC/DC</em> and Micro$oft are split into three tokens <em><b>AC / DC</b></em> and <em><b>Micro $ oft</b></em>). </p>
+<p>If a string of alphanumeric characters between two spaces includes C characters, it is usually split into several tokens (e.g. <em>AC/DC</em> and Micro$oft are split into three tokens <em><b>AC / DC</b></em> and <em><b>Micro $ oft</b></em>).</p>
 
 <p>However, the following exceptions apply, in which C characters become parts of W tokens:
 * Apostrophe becomes part of a W token if used without space on both sides (e.g. <em><b>O’Brian</b></em>, <em><b>mor’va</b></em> “O’Brian, we have to”).
@@ -62,7 +62,7 @@
 
 <p>URLs and e-mail addresses: all C characters become part of a single W token in strings recognized as URLs or addresses using a regular expression.</p>
 
-<p>Information on whether a token is followed by a space (e.g. <em><b>d.o.o.</b></em> vs. <em><b>d. o. o.</b></em>) is indicated with <code>SpaceAfter=Yes</code> feature in the MISC column. </p>
+<p>Information on whether a token is followed by a space (e.g. <em><b>d.o.o.</b></em> vs. <em><b>d. o. o.</b></em>) is indicated with <code>SpaceAfter=Yes</code> feature in the MISC column.</p>
 
 <p>Note that the current version of the Slovenian UD Treebank does not yet comply with the universal guidelines recommendation for splitting of fused words, such as combinations of prepositions and pronouns, e.g. <em><b>name</b> “on me”, _<b>zanj</b> “for him”, _vase</em> “in/to oneself”. Instead, these tokens are currently marked as <a href="PRON">pronouns</a> with feature <a href="Variant">Variant=Bound</a>.</p>
 

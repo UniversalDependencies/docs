@@ -238,7 +238,7 @@ in two places.</p>
 <p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
 Note that in Swedish relative clauses get assigned a specific relation <a href="">acl:relcl</a>, a subtype of <code>acl</code>.</p>
 
-<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>faktum (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant Swedish subjunctives). </p>
+<p>Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like <em>faktum (fact)</em>.  We analyze them as <code>acl</code> (parallel to the analysis of this class as “content clauses” in Huddleston and Pullum 2002). Such clausal complements are usually finite (though there are occasional remnant Swedish subjunctives).</p>
 
 <pre><code class="language-sdparse">Hur förenas detta med det faktum att många äktenskap upplöses ? \n How can that be reconciled with the fact that many marriages break up?
 acl(faktum, upplöses) 
@@ -342,7 +342,7 @@ amod(hjälpinsatserna, största)
 <p><a id="al-sv-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>An appositional modifier of a nominal is a nominal immediately following the first that serves to define or modify it. Appositional modifiers include parenthesized examples, as well as defining abbreviations in one of these structures. </p>
+<p>An appositional modifier of a nominal is a nominal immediately following the first that serves to define or modify it. Appositional modifiers include parenthesized examples, as well as defining abbreviations in one of these structures.</p>
 
 <pre><code class="language-sdparse">Olle , min bror , kom \n Olle , my brother , arrived
 appos(Olle, bror)
@@ -399,7 +399,7 @@ aux(mördad, har)
 <p><a id="al-sv-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>The <code>case</code> relation is used for any preposition in Swedish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages. </p>
+<p>The <code>case</code> relation is used for any preposition in Swedish. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, UD does not treat a preposition as a mediator between a modified word and its object. The <code>case</code> relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <pre><code class="language-sdparse">Individuell beskattning av arbetsinkomster \n Individual taxation of employment income
 case(arbetsinkomster, av)
@@ -419,7 +419,7 @@ case(ersättning, för)
 <h2><code>cc</code>: coordinating conjunction</h2>
 
 <p>A coordinating conjunction relation holds between the head conjunct of a coordinate structure and any of the coordinating conjunction involved in the structure. This also includes the first element in paired conjunctions like <em>både … och</em> “both … and” and <em>antingen … eller</em> “either … or”. Note that we never treat punctuation as coordinating conjunctions.
-For more on coordination, see the <a href="">conj</a> relation. </p>
+For more on coordination, see the <a href="">conj</a> relation.</p>
 
 <pre><code class="language-sdparse">1500 kr per barn och år \n 1500 kr per child and year
 cc(barn, och)
@@ -597,7 +597,7 @@ dependency.</p>
 <p><a id="al-sv-dep/det" class="al-dest"></a></p>
 <h2><code>det</code>: determiner</h2>
 
-<p>A determiner is the relation between the head of a nominal phrase and its determiner. </p>
+<p>A determiner is the relation between the head of a nominal phrase and its determiner.</p>
 
 <pre><code class="language-sdparse">Den engelska parken är vacker \n The English park is beautiful
 det(parken, Den)
@@ -642,7 +642,7 @@ advcl(drar, så)
 
 <p>In addition, the <code>dislocated</code> relation is used for the focus element in a cleft sentence. This is a slight
 abuse of the relation, because the focus element is not a dislocated dependent of its syntactic head, but 
-rather of the predicate in the relative clause making up the second part of the cleft construction. </p>
+rather of the predicate in the relative clause making up the second part of the cleft construction.</p>
 
 <pre><code class="language-sdparse">Det var Peter som gjorde det \n It was Peter who did it
 dislocated(var, Peter)
@@ -657,7 +657,7 @@ dobj(gjorde, det)
 <p><a id="al-sv-dep/dobj" class="al-dest"></a></p>
 <h2><code>dobj</code>: direct object</h2>
 
-<p>A direct object is a nominal which is the (accusative) object of the verbal predicate. </p>
+<p>A direct object is a nominal which is the (accusative) object of the verbal predicate.</p>
 
 <pre><code class="language-sdparse">Han äter en smörgås . \n He eats a sandwich .
 dobj(äter, smörgås)
@@ -753,7 +753,7 @@ appos(Mejl:-5, jones@abc.edf-6)
 <p><a id="al-sv-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. </p>
+<p>A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head.</p>
 
 <pre><code class="language-sdparse">Han säger att du gillar att simma \n He says that you like to swim
 mark(gillar, att-3)
@@ -1032,7 +1032,7 @@ case(vänster, till-4)
 <p><a id="al-sv-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1. </p>
+<p>The <code>root</code> grammatical relation points to the root of the sentence. A fake node “ROOT” is used as the governor. The ROOT node is indexed with “0”, since the indices of real words in the sentence start at 1.</p>
 
 <pre><code class="language-sdparse">ROOT Jag älskar pommes frites . \n ROOT I love French fries .
 root(ROOT, älskar)
@@ -1062,7 +1062,7 @@ vocative(hur, David)
 <p><a id="al-sv-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause). These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar. </p>
+<p>An open clausal complement (<code>xcomp</code>) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause). These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause. The name <code>xcomp</code> is borrowed from Lexical-Functional Grammar.</p>
 
 <pre><code class="language-sdparse">Han säger att du gillar att simma \n He says that you like to swim
 xcomp(gillar, simma)
