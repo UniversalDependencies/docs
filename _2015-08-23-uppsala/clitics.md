@@ -23,7 +23,7 @@ When the direct or indirect objects are realized with a clitic only, there are t
 
 We suggest that if needed, languages can have subtypes indicating the relation (dobj, iobj), though it is unclear whether that is really the best idea.
 
-For languages with dislocation, such as French, we use the dislocated relation.
+For languages with dislocation, such as French, we use the dislocated relation, consistent with the existing guidelines.
 
 
 
@@ -62,7 +62,7 @@ expl:impers(parla, si)
 
 
 ## Existential constructions
-For existential constructions, `expl` is used.
+For existential constructions, `expl` is used, consistent with the existing guidelines.
 
 
 
