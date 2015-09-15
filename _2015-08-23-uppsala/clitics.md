@@ -5,7 +5,7 @@ title:  'Uppsala Group on Clitics and Reflexive Pronouns'
 
 # Uppsala Group on Clitics and Reflexive Pronouns
 
-_(Kiril Simov, Petya Osenova, Simonetta Montemagni, Alessandro Lenci, Mojgan Seraji, Nizar Habash, Marie-Catherine de Marneffe)_
+_(Kiril Simov, Petya Osenova, Simonetta Montemagni, Mojgan Seraji, Nizar Habash, Marie-Catherine de Marneffe)_
 
 ## Clitic doubling
 
@@ -62,7 +62,7 @@ expl:impers(parla, si)
 
 
 ## Existential constructions
-For existential constructions, `expl' is used.
+For existential constructions, `expl` is used.
 
 
 
