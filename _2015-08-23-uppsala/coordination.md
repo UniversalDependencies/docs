@@ -44,4 +44,16 @@ The fact that PAST and 2PL are only marked overtly on the final coordinated verb
 ## Names
 
 The universal guidelines specify that multiword names without regular syntactic structure should be annotated as head-initial structures with the name relation. Again it has been suggested that some languages show inflection patterns indicating that the last word is the head and again we concluded that these can be analyzed as cases where the inflection applies to the entire name but shows up only on the last element. Hence, we don't find any reason to change the guidelines here either.
-conj(içer, fırcalar)
+
+A typical example is the genitive inflection in Swedish, which goes on the last name regardless of whether it is the last name or the first name.
+
+~~~ sdparse
+Fia Janssons bröder \n Fia Jansson's brothers
+name(Fia, Janssons)
+nmod:poss(Fia, brothers)
+~~~
+
+~~~ sdparse
+Fias bröder \n Fia's brothers
+nmod:poss(Fias, bröder)
+~~~ 
