@@ -34,6 +34,55 @@
 
           <h1 id="uppsala-group-on-clitics-and-reflexive-pronouns">Uppsala Group on Clitics and Reflexive Pronouns</h1>
 
+<p><em>(Kiril Simov, Petya Osenova, Simonetta Montemagni, Alessandro Lenci, Mojgan Seraji, Nizar Habash, Marie-Catherine de Marneffe)</em></p>
+
+<h2 id="clitic-doubling">Clitic doubling</h2>
+
+<p>In languages where real clitic doubling can appear (such as Bulgarian or Greek), the clitic elements should be tagged as <code>expl</code> and depend on the predicate:</p>
+
+<pre><code class="language-sdparse">I will him it read the book to the boy
+expl(read, him)
+expl(read, it)
+dobj(read, book)
+nmod(read, boy)
+</code></pre>
+
+<p>When the direct or indirect objects are realized with a clitic only, there are tagged as <code>dobj</code> or <code>iobj</code>.</p>
+
+<p>We suggest that if needed, languages can have subtypes indicating the relation (dobj, iobj), though it is unclear whether that is really the best idea.</p>
+
+<p>For languages with dislocation, such as French, we use the dislocated relation.</p>
+
+<h2 id="clitic-acting-as-part-of-the-verbal-inflection">Clitic acting as part of the verbal inflection</h2>
+
+<p>If the pronoun has a real grammatical function (dobj, iobj, advmod), we use that function as relation. If not, we use <code>expl</code>, possibly with the following subtypes.</p>
+
+<pre><code class="language-sdparse">Maria si lava \n Maria washes herself
+dobj(lava, si)
+</code></pre>
+
+<h3 id="pv-pronominal-verb">“pv”: pronominal verb</h3>
+
+<pre><code class="language-sdparse">la finestra si è rotta \n the window broke
+expl:pv(rotta, si)
+</code></pre>
+
+<h3 id="pass-passivazing-uses">“pass”: passivazing uses</h3>
+
+<pre><code class="language-sdparse">la neve si vede dal balcone \n Snow can be seen from the balcony
+expl:pass(vede, si)
+</code></pre>
+
+<h3 id="impers-impersonal-construction">“impers”: impersonal construction</h3>
+
+<pre><code class="language-sdparse">qui si parla francese  \n here French is spoken
+expl:impers(parla, si)
+</code></pre>
+
+<h2 id="existential-constructions">Existential constructions</h2>
+<p>For existential constructions, `expl’ is used.</p>
+
+
 
       </div>
 
