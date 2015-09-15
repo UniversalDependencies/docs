@@ -32,8 +32,7 @@ We conclude that the conjunct-sensitive agreement patterns do not provide clear 
 Another type of example is found in Turkish, where inflectional suffixes may show up only on the final conjunct, as in this example.
 
 ~~~ sdparse
-Süt  içer , diş fırcalar , bir hikaye dinler ve uyurDUK . \n
-milk drink-AOR , teeth brush-AOR , a   story  listen-AOR and sleep-AOR-PAST-2PL .
+Süt  içer , diş fırcalar , bir hikaye dinler ve uyurDUK . \n milk drink-AOR , teeth brush-AOR , a   story  listen-AOR and sleep-AOR-PAST-2PL .
 conj(içer, fırcalar)
 conj(içer, dinler)
 conj(içer, uyurDUK)
@@ -50,7 +49,7 @@ A typical example is the genitive inflection in Swedish, which goes on the last 
 ~~~ sdparse
 Fia Janssons bröder \n Fia Jansson's brothers
 name(Fia, Janssons)
-nmod:poss(Fia, brothers)
+nmod:poss(Fia, bröder)
 ~~~
 
 ~~~ sdparse
