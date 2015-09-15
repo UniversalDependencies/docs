@@ -34,7 +34,48 @@
 
           <h1 id="uppsala-group-on-conversion-best-practice-and-tools">Uppsala Group on Conversion Best Practice and Tools</h1>
 
-<p>test2</p>
+<p>Aitziber, Barbara, Filip, Giuseppe, Lilian, Natalia, Verginica, Zeljko</p>
+
+<h2 id="minimal-requirements-for-a-ud-treebank">Minimal requirements for a UD treebank</h2>
+
+<ul>
+  <li>No lower limit on size, the only compulsory annotation fields are <code>CPOS</code>, <code>HEAD</code>, <code>DEPREL</code></li>
+  <li><strong>Incorrect/suspect dependencies</strong>: best marked in MISC, if we use an agreed-upon keyword maybe this could be honored by the visualizer</li>
+  <li><strong>Diffs</strong>: a list of the most important diffs would be good to have, because this information is currently not available in one place. This is especially important for treebanks that are being used as a reference, so as not to propagate diffs</li>
+  <li><strong>Docs</strong>: as precise as possible, encourage code release, minimally list the main steps</li>
+  <li><strong>Consistency</strong>: patterns to check consistency could be written down during the conversion and included in the validator. The problem here is that universally true/false patterns which would be useful at the same time are hard to find.</li>
+  <li><strong>XML</strong>: The toolchain should support CoNLL-X (both for tokens and words). No UD XML scheme needed.</li>
+</ul>
+
+<h2 id="annotation-tools">Annotation tools</h2>
+
+<p>At least these were mentioned, feel free to expand!</p>
+
+<ul>
+  <li><a href="https://ufal.mff.cuni.cz/tred/">TrED</a></li>
+  <li><a href="http://www.di.unipi.it/~attardi/software.html">DgAnnotator</a></li>
+  <li><a href="http://brat.nlplab.org">brat</a></li>
+  <li><a href="http://www.yworks.com/en/products/yfiles/yed/">yEd</a></li>
+  <li><a href="https://github.com/riedelcastro/whatswrong">whatswrong</a></li>
+  <li><a href="http://sosol.perseids.org/tools/arethusa/app/#/">Arethusa</a></li>
+</ul>
+
+<h2 id="conversion-tools">Conversion tools</h2>
+
+<ul>
+  <li>The Copenhagen group may release their networkx-based solution</li>
+  <li>Dan might comment on the Prague tools</li>
+</ul>
+
+<h2 id="tokenization">Tokenization</h2>
+
+<p>Nearly none of the treebanks distribute the untokenized sentences. This complicates automatic induction of tokenizers from the data. It would be great to include the untokenized text, use the <a href="http://universaldependencies.github.io/docs/format.html">SpaceAfter</a> mechanism of the CoNLL-U format, or at least provide data for training the tokenizers privately.</p>
+
+<h2 id="parallel-treebank">Parallel treebank</h2>
+
+<ul>
+  <li>Maybe it would be good to expand on the Cairo initiative and have a parallel text which could be annotated, so as to help new corpora get started as well as gather some UD parallel data. About 10K tokens would seem like the right size. The Cairo corpus should be mentioned somewhere.</li>
+</ul>
 
 
       </div>
