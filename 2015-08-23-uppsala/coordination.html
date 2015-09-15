@@ -42,11 +42,6 @@
 
 <p>One type of example is conjunct-sensitive agreement, that is, where the verb of a coordinated subject agrees with only one of the conjuncts. This happens in Latin as well as in Slavic languagues. As far as we could tell, however, the crucial factor here is proximity, meaning that the verb agrees with the first conjunct if it precedes the subject but with the last conjunct if it succeeds the subject. This is illustrated by the following contrasting examples from Serbo-Croatian:</p>
 
-<p>Ju…e su uništena sva sela i sve varošice
- yesterday are destroyedPL.N all villagesN and all townsF
- ‘All villages and all towns were destroyed yesterday.’
- b. Sva sela i sve varošice su uništene</p>
-
 <pre><code class="language-sdparse">Juce su uništena sva sela i sve varošice . \n yesterday are destroyed-PL.N all villages-N and all towns-F .
 conj(sela, varošice)
 nsubj(uništena, sela)
@@ -57,13 +52,25 @@ conj(sela, varošice)
 nsubj(uništene, sela)
 </code></pre>
 
-<h3 id="inflection">Inflection</h3>
+<p>We conclude that the conjunct-sensitive agreement patterns do not provide clear evidence of headedness in coordination.</p>
 
-<p>Another type of example</p>
+<h3 id="delayed-suffixation">Delayed suffixation</h3>
+
+<p>Another type of example is found in Turkish, where inflectional suffixes may show up only on the final conjunct, as in this example.</p>
+
+<pre><code class="language-sdparse">Süt  içer , diş fırcalar , bir hikaye dinler ve uyurDUK . \n
+milk drink-AOR , teeth brush-AOR , a   story  listen-AOR and sleep-AOR-PAST-2PL .
+conj(içer, fırcalar)
+conj(içer, dinler)
+conj(içer, uyurDUK)
+</code></pre>
+
+<p>The fact that PAST and 2PL are only marked overtly on the final coordinated verb might be taken as an indication that the final conjunct is the head. However, we think it is also possible to analyze it as an inflection that applies to the entire coordination but is visible only on the last conjunct. In this respect, it is similar to constructions like “Tom and Jerry’s Diner”, where the clitic/suffix “‘s” has scope over the entire coordination.</p>
 
 <h2 id="names">Names</h2>
 
-<p>The universal guidelines specify that multiword names without regular syntactic structure should be annotated as head-initial structures with the name relation. Again it has been suggested that some languages show inflection patterns indicating that the last word is the head and again we concluded that these can be analyzed as cases where the inflection applies to the entire name but shows up only on the last element. Hence, we don’t find any reason to change the guidelines here either.</p>
+<p>The universal guidelines specify that multiword names without regular syntactic structure should be annotated as head-initial structures with the name relation. Again it has been suggested that some languages show inflection patterns indicating that the last word is the head and again we concluded that these can be analyzed as cases where the inflection applies to the entire name but shows up only on the last element. Hence, we don’t find any reason to change the guidelines here either.
+conj(içer, fırcalar)</p>
 
 
       </div>
