@@ -34,9 +34,16 @@
 
           <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p><code>acl</code> is used for finite and non-finite clauses that modify a nominal (either a noun or a pronoun). The head of the <code>acl</code> relation is the noun/pronoun that is modified, and the dependent is the head of the clause that modifies the noun/pronoun.</p>
-
-<p><code>acl</code> is used in the following cases:
+<p><code>acl</code> is used for finite and non-finite clauses that modify a nominal (either a noun or a pronoun). The head of the <code>acl</code> relation is the noun/pronoun that is modified, and the dependent is the head of the clause that modifies the noun/pronoun.
+~~~ conllx
+1	Commossa	commuovere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	Fiona	Fiona	PROPN	SP	_	6	nsubj	_	_
+4	May	May	PROPN	SP	_	3	name	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+~~~
+<code>acl</code> is used in the following cases:
 - participial modifiers of nouns 
 - relative clauses, also including free relatives. Note that in Italian relative clauses are assigned a specific relation <code>acl:relcl</code>, which is a subtype of <code>acl</code>
 - finite clausal complements of nouns like fatto <em>fact</em>, considerazione <em>consideration</em>, bisogno <em>need</em>
