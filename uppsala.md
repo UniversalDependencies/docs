@@ -3,7 +3,9 @@ layout: base
 title:  'Uppsala Meeting'
 ---
 
-## UD meeting in Uppsala, August 23, 2015
+# UD meeting in Uppsala, August 23, 2015
+
+## Group reports
 
 ### 1. [Coordination and names](2015-08-23-uppsala/coordination.html) (#1, #9)
 
@@ -24,3 +26,22 @@ title:  'Uppsala Meeting'
 ### 9. [Conversion best practice and tools](2015-08-23-uppsala/conversion.html) (#13, #15)
 
 ### 10. [Future of UD: enhanced + semantics](2015-08-23-uppsala/future.html) (#14)
+
+## Future work
+
+Based on the group reports, issues can be sorted into two groups:
+
+1. Short-term: issues that were (more or less) settled and can be fixed without modifying the current guidelines.
+2. Long-term: issues that need more discussion and/or are (more or less) likely to require modifications to the universal guidelines.
+
+### Short-term issues
+
+1. Coordination: conj relations should always be left-to-right.
+2. Names: name relations should always be left-to-right.
+3. Infinitive markers: deprel should be "mark" (not "aux"); postag may vary dependent on language but "PART" is the default.
+4. Verb particles: deprel should be "compound" (or "compound:prt"), at least for Germanic languages.
+5. Reflexives: deprel should be "dobj", "iobj" or "expl" (not "compound").
+
+### Long-term issues
+
+TODO
