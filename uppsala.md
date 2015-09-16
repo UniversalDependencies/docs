@@ -36,11 +36,14 @@ Based on the group reports, issues can be sorted into two groups:
 
 ### Short-term issues
 
-1. Coordination: [u-dep/conj]() relations should always be left-to-right.
-2. Names: [u-dep/name]() relations should always be left-to-right.
-3. Infinitive markers: syntactic relation should be [u-dep/mark]() (not [u-dep/aux]()); postag may vary depending on language but [u-pus/PART]() is the default.
-4. Verb particles: syntactic relation should be [u-dep/compound]() (or [u-dep/compound:prt]()).
-5. Reflexives: syntactic relation should be [u-dep/dobj](), [u-dep/iobj]() or [u-dep/expl]() (not [u-dep/compound]()).
+1. Coordination: the relation [u-dep/conj]() is always left-to-right (head-initial).
+2. Names: the relation [u-dep/name]() is always left-to-right (head-initial).
+3. Infinitive markers: the syntactic relation should be [u-dep/mark]() (not [u-dep/aux]()); the postag may vary depending on language but [u-pus/PART]() is the default.
+4. Verb particles: the syntactic relation should be [u-dep/compound]() (or [u-dep/compound:prt]()).
+5. Reflexives: the syntactic relation should be [u-dep/dobj](), [u-dep/iobj]() or [u-dep/expl]() (not [u-dep/compound]()).
+6. Determiners: the syntactic relation [u-dep/det]() is (for now) compatible with [u-pos/DET](), [u-pos/PRON]() and [u-pos/ADJ], but not with [u-pos/NOUN](), [u-pos/PNOUN]() and [u-pos/NUM].
+7. Multiword abbreviations: if abbreviations like "e.g." are split into two words, the [u-dep/mwe()] relation should be used.
+8. Compounds: the relation [u-dep/compound] should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.
 
 ### Long-term issues
 
