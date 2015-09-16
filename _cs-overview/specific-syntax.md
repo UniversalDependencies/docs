@@ -32,7 +32,7 @@ punct(inteligentnější, .)
 ~~~
 
 ~~~ sdparse
-Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
+Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a
 auxpass(dotazován-3, Jsem-1)
 cc(dotazován-3, například-2)
 parataxis(a-22, dotazován-3)
