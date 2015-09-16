@@ -7,7 +7,9 @@ shortdef: 'clausal modifier of noun'
 
 `acl` is used in the following cases:
 - participial modifiers of nouns 
-- ~~~ conllx
+
+~~~ conllu
+# Commossa, Fiona May ha parlato
 1 Commossa  commuovere  VERB  V Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part 3 acl
 2 ,	,	PUNCT	FF	_	1	punct
 3	Fiona	Fiona	PROPN	SP	_	6	nsubj
@@ -15,6 +17,7 @@ shortdef: 'clausal modifier of noun'
 5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux
 6	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root
 ~~~
+
 - relative clauses, also including free relatives. Note that in Italian relative clauses are assigned a specific relation `acl:relcl`, which is a subtype of `acl`
 - finite clausal complements of nouns like fatto _fact_, considerazione _consideration_, bisogno _need_
 - infinitival modifiers of nouns
