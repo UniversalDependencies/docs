@@ -5,7 +5,7 @@ title:  'Uppsala Group on Conversion Best Practice and Tools'
 
 # Uppsala Group on Conversion Best Practice and Tools
 
-Aitziber, Barbara, Filip, Giuseppe, Lilian, Natalia, Verginica, Zeljko
+Aitziber, Barbara, Filip, Giuseppe, Lilian, Natalia, Verginica, Željko
 
 ## Minimal requirements for a UD treebank
 
