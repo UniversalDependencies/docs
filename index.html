@@ -1,0 +1,1880 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Universal Dependencies</title>
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
+    <link rel="stylesheet" type="text/css" href="css/hint.css"/>
+    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+	
+          <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-">home</a></span>
+
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/index.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
+      </div>
+
+      <hr/>
+
+      <div id="content">
+	<noscript>
+	  <div id="noscript">
+	    It appears that you have Javascript disabled.
+	    Please consider enabling Javascript for this page to see the visualizations.
+	  </div>
+	</noscript>
+
+          <h1 id="universal-dependencies">Universal Dependencies</h1>
+
+<h2 id="at-a-glance">At a glance</h2>
+
+<!-- <div id="accordion-header">
+  <div>
+    <span class="widespan" style="color:gray">Language</span>
+    <span class="widespan" style="color:gray">Size</span>
+    <span class="widespan" style="color:gray">Lemmas,Feats,Deps</span>
+    <span class="widespan" style="color:gray">Docs</span>
+    <span class="widespan" style="color:gray">Source</span>
+    <span class="widespan" style="color:gray">License</span>
+  </div>
+</div> -->
+<div id="accordion" class="jquery-ui-accordion">
+  <div>
+    <span class="flagspan"><img class="flag" src="flags/svg/ET.svg"></span>
+    <span class="widespan">Amharic</span>
+    <span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+    <span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+    <span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="Manual annotation"><i class="fa fa-user"></i></span></span>
+    <span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+  </div>
+  <div>
+    <p>
+    Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
+    ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
+    amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
+    odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+    </p>
+  </div>
+  <div>
+    <span class="flagspan"><img class="flag" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_Basque_Country.svg"></span>
+    <span class="widespan">Basque</span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="60,000 token corpus">60K</span></span>
+    <span class="widespan">
+      <span class="tagspan"></span>
+      <span class="tagspan"></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies">&#9401;</span></span>
+    </span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+    <span class="widespan"><a class="hint--top hint--info" data-hint="Creative Commons BY-NC-SA license" style="padding: 0" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img style="margin:-3px 0" src="http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-sa.svg" /></a></span>
+  </div>
+  <div>
+    <p>
+    Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
+    purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
+    velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
+    suscipit faucibus urna.
+    </p>
+  </div>
+  <div>
+    <span class="flagspan"><img class="flag" src="flags/svg/CZ.svg"></span>
+    <span class="widespan">Czech</span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="1,5 million token corpus">1500K</span></span>
+    <span class="widespan">
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas">&#9409;</span></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Features">&#9403;</span></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies">&#9401;</span></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><div class="bordered-char"><span>L</span></div></span></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><div class="bordered-char"><span>F</span></div></span></span>
+      <span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies"><div class="bordered-char"><span>D</span></div></span></span>
+    </span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+    <span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion + manual check"><i class="fa fa-cogs"></i><!--<i class="fa fa-plus" style="font-size: 0.75em; line-height: 1.33em; vertical-align: +10%;">--><i class="fa fa-check"></i></span></span>
+    <span class="widespan"><a class="hint--top hint--info" data-hint="Creative Commons BY-SA license" style="padding: 0" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="margin:-3px 0" src="http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg" /></a></span>
+  </div>
+  <div>
+    <p>
+    Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
+    Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
+    ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
+    lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui.
+    </p>
+    <ul>
+      <li>List item one</li>
+      <li>List item two</li>
+      <li>List item three</li>
+    </ul>
+  </div>
+</div>
+
+<div class="bordered-char"><span>L</span></div>
+<div class="bordered-char"><span>F</span></div>
+<div class="bordered-char"><span>D</span></div>
+
+<h2 id="detail">Detail</h2>
+
+<!--
+     The following <div> is the top-level element for the index page
+     tabs. To add a new tab (e.g. for Swedish), first add a link to
+     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
+     then add a <div> with the tab content below, with the same ID as
+     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
+ -->
+<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all" style="min-width:1000px">
+
+<!-- links to per-language sections, shown as tab labels -->
+<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li>
+  <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
+  <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ca">Catalan</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-zh">Chinese</a></li>
+  <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
+  <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
+  <li class="ui-state-default"><a href="#language-da">Danish</a></li>
+  <li class="ui-state-default"><a href="#language-en">English</a></li>
+  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
+  <li class="ui-state-default"><a href="#language-fr">French</a></li>
+  <li class="ui-state-default"><a href="#language-de">German</a></li>
+  <li class="ui-state-default"><a href="#language-el">Greek</a></li>
+  <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-hi">Hindi</a></li>
+  <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
+  <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
+  <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
+  <li class="ui-state-default"><a href="#language-it">Italian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-la">Latin</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ja">Japanese</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
+  <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
+  <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
+  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-other">...</a></li>
+</ul>
+
+<!-- "Universal" tab -->
+<div id="language-u" class="ui-tabs-panel">
+    <p><a href="introduction.html">Introduction to Universal Dependencies</a> <span style="background-color:yellow">New to UD? Start here!</span></p>
+
+    <ul>
+      <li><a href="u/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="u/overview/morphology.html">General principles</a></li>
+          <li><a href="u/pos/index.html">Universal POS tags</a> (<a href="u/pos/all.html">single document</a>)</li>
+          <li><a href="u/feat/index.html">Universal features</a> (<a href="u/feat/all.html">single document</a>)</li>
+          <li><a href="ext-feat-index.html">Language-specific features</a></li>
+          <li><a href="tagset-conversion/index.html">Conversion from other tagsets</a></li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="u/overview/syntax.html">General principles</a></li>
+          <li><a href="u/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="u/dep/index.html">Universal dependency relations</a> (<a href="u/dep/all.html">single document</a>)</li>
+          <li><a href="ext-dep-index.html">Language-specific relations</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="format.html">CoNLL-U format</a></p>
+      </li>
+      <li><strong>Download</strong> the treebanks from the LINDAT/CLARIN repository
+        <ul>
+          <li>Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015. <span style="background-color:yellow">Note: English data in the release were corrected on May 26, 2015. If you have downloaded the data before this date, please re-download.</span></li>
+          <li>Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><small>
+This is the online documentation for Universal
+Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
+stable for at least the next year, but we may subsequently make
+further revisions based on experiences using it to treebank a range of
+languages. If you plan to use the scheme yourself, please get in touch
+so that we can avoid problems with conflicting versions.
+</small></p>
+
+    <p><small>
+The next release (v1.2) is scheduled for November 15, 2015. The plan is to
+have regular treebank releases every six months.
+</small></p>
+
+    <p><small>
+If you want to receive news about Universal Dependencies, you can subscribe to
+the <a href="http://stp.lingfil.uu.se/mailman/listinfo/ud">UD mailing list</a>.
+See also the <a href="issues.html">list of open issues</a> for the <a href="uppsala.html">Uppsala meeting</a>.</small></p>
+  </div>
+
+<!-- "Amharic" tab -->
+<div id="language-am" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="am/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="am/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="am/overview/morphology.html">General principles</a></li>
+          <li><a href="am/pos/index.html">Amharic POS tags</a> (<a href="am/pos/all.html">single document</a>)</li>
+          <li><a href="am/feat/index.html">Amharic features</a> (<a href="am/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="am/overview/syntax.html">General principles</a></li>
+          <li><a href="am/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="am/dep/index.html">Amharic dependency relations</a> (<a href="am/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Ancient Greek" tab -->
+<div id="language-grc" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="grc/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="grc/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="grc/overview/morphology.html">General principles</a></li>
+          <li><a href="grc/pos/index.html">Ancient Greek POS tags</a> (<a href="grc/pos/all.html">single document</a>)</li>
+          <li><a href="grc/feat/index.html">Ancient Greek features</a> (<a href="grc/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="grc/overview/syntax.html">General principles</a></li>
+          <li><a href="grc/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="grc/dep/index.html">Ancient Greek dependency relations</a> (<a href="grc/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Basque" tab -->
+<div id="language-eu" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">60K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="eu/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="eu/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="eu/overview/morphology.html">General principles</a></li>
+          <li><a href="eu/pos/index.html">Basque POS tags</a> (<a href="eu/pos/all.html">single document</a>)</li>
+          <li><a href="eu/feat/index.html">Basque features</a> (<a href="eu/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="eu/overview/syntax.html">General principles</a></li>
+          <li><a href="eu/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="eu/dep/index.html">Basque dependency relations</a> (<a href="eu/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Bulgarian" tab -->
+<div id="language-bg" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">125K tokens</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="bg/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="bg/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="bg/overview/morphology.html">General principles</a></li>
+          <li><a href="bg/pos/index.html">Bulgarian POS tags</a> (<a href="bg/pos/all.html">single document</a>)</li>
+          <li><a href="bg/feat/index.html">Bulgarian features</a> (<a href="bg/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="bg/overview/syntax.html">General principles</a></li>
+          <li><a href="bg/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="bg/dep/index.html">Bulgarian dependency relations</a> (<a href="bg/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Catalan" tab -->
+<div id="language-ca" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="ca/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="ca/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ca/overview/morphology.html">General principles</a></li>
+          <li><a href="ca/pos/index.html">Catalan POS tags</a> (<a href="ca/pos/all.html">single document</a>)</li>
+          <li><a href="ca/feat/index.html">Catalan features</a> (<a href="ca/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ca/overview/syntax.html">General principles</a></li>
+          <li><a href="ca/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ca/dep/index.html">Catalan dependency relations</a> (<a href="ca/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Chinese" tab -->
+<div id="language-zh" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="zh/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="zh/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="zh/overview/morphology.html">General principles</a></li>
+          <li><a href="zh/pos/index.html">Chinese POS tags</a> (<a href="zh/pos/all.html">single document</a>)</li>
+          <li><a href="zh/feat/index.html">Chinese features</a> (<a href="zh/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="zh/overview/syntax.html">General principles</a></li>
+          <li><a href="zh/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="zh/dep/index.html">Chinese dependency relations</a> (<a href="zh/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Croatian" tab -->
+<div id="language-hr" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">78K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="hr/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="hr/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="hr/overview/morphology.html">General principles</a></li>
+          <li><a href="hr/pos/index.html">Croatian POS tags</a> (<a href="hr/pos/all.html">single document</a>)</li>
+          <li><a href="hr/feat/index.html">Croatian features</a> (<a href="hr/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="hr/overview/syntax.html">General principles</a></li>
+          <li><a href="hr/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="hr/dep/index.html">Croatian dependency relations</a> (<a href="hr/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Czech" tab -->
+<div id="language-cs" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">1.5M words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="cs/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="cs/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="cs/overview/morphology.html">General principles</a></li>
+          <li><a href="cs/pos/index.html">Czech POS tags</a> (<a href="cs/pos/all.html">single document</a>)</li>
+          <li><a href="cs/feat/index.html">Czech features</a> (<a href="cs/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="cs/overview/syntax.html">General principles</a></li>
+          <li><a href="cs/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="cs/dep/index.html">Czech dependency relations</a> (<a href="cs/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a> and Czech <a href="cs/overview/format.html">MISC extensions</a></p>
+
+  </div>
+
+<!-- "Danish" tab -->
+<div id="language-da" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">100k words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="da/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="da/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="da/overview/morphology.html">General principles</a></li>
+          <li><a href="da/pos/index.html">Danish POS tags</a> (<a href="da/pos/all.html">single document</a>)</li>
+          <li><a href="da/feat/index.html">Danish features</a> (<a href="da/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="da/overview/syntax.html">General principles</a></li>
+          <li><a href="da/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="da/dep/index.html">Danish dependency relations</a> (<a href="da/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "English" tab -->
+<div id="language-en" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">255K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="en/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="en/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="en/overview/morphology.html">General principles</a></li>
+          <li><a href="en/pos/index.html">English POS tags</a> (<a href="en/pos/all.html">single document</a>)</li>
+          <li><a href="en/feat/index.html">English features</a> (<a href="en/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="en/overview/syntax.html">General principles</a></li>
+          <li><a href="en/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="en/dep/index.html">English relations</a> (<a href="en/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Finnish" tab -->
+<div id="language-fi" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">202K words</td>
+    </tr>
+    <tr>
+      <td>Data (FTB):</td>
+      <td class="complete">162K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="fi/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="fi/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="fi/overview/morphology.html">General principles</a></li>
+          <li><a href="fi/pos/index.html">Finnish POS tags</a> (<a href="fi/pos/all.html">single document</a>)</li>
+          <li><a href="fi/feat/index.html">Finnish features</a> (<a href="fi/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="fi/overview/syntax.html">General principles</a></li>
+          <li><a href="fi/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="fi/dep/index.html">Finnish relations</a> (<a href="fi/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "French" tab -->
+<div id="language-fr" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">401K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="fr/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="fr/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="fr/overview/morphology.html">General principles</a></li>
+          <li><a href="fr/pos/index.html">French POS tags</a> (<a href="fr/pos/all.html">single document</a>)</li>
+          <li><a href="fr/feat/index.html">French features</a> (<a href="fr/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="fr/overview/syntax.html">General principles</a></li>
+          <li><a href="fr/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="fr/dep/index.html">French dependency relations</a> (<a href="fr/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "German" tab -->
+<div id="language-de" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">299K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="de/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="de/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="de/overview/morphology.html">General principles</a></li>
+          <li><a href="de/pos/index.html">German POS tags</a> (<a href="de/pos/all.html">single document</a>)</li>
+          <li><a href="de/feat/index.html">German features</a> (<a href="de/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="de/overview/syntax.html">General principles</a></li>
+          <li><a href="de/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="de/dep/index.html">German dependency relations</a> (<a href="de/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Greek" tab -->
+<div id="language-el" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="partial">partial draft</td>      
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="partial">partial draft</td>      
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">59K words</td>
+    </tr>    
+  </tbody>
+</table>
+
+    <p><a href="el/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="el/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="el/overview/morphology.html">General principles</a></li>
+          <li><a href="el/pos/index.html">Greek POS tags</a> (<a href="el/pos/all.html">single document</a>)</li>
+          <li><a href="el/feat/index.html">Greek features</a> (<a href="el/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="el/overview/syntax.html">General principles</a></li>
+          <li><a href="el/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="el/dep/index.html">Greek dependency relations</a> (<a href="el/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Hebrew" tab -->
+<div id="language-he" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">159K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="he/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="he/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="he/overview/morphology.html">General principles</a></li>
+          <li><a href="he/pos/index.html">Hebrew POS tags</a> (<a href="he/pos/all.html">single document</a>)</li>
+          <li><a href="he/feat/index.html">Hebrew features</a> (<a href="he/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="he/overview/syntax.html">General principles</a></li>
+          <li><a href="he/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="he/dep/index.html">Hebrew dependency relations</a> (<a href="he/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Hindi" tab -->
+<div id="language-hi" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="hi/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="hi/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="hi/overview/morphology.html">General principles</a></li>
+          <li><a href="hi/pos/index.html">Hindi POS tags</a> (<a href="hi/pos/all.html">single document</a>)</li>
+          <li><a href="hi/feat/index.html">Hindi features</a> (<a href="hi/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="hi/overview/syntax.html">General principles</a></li>
+          <li><a href="hi/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="hi/dep/index.html">Hindi dependency relations</a> (<a href="hi/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Hungarian" tab -->
+<div id="language-hu" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">27K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="hu/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="hu/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="hu/overview/morphology.html">General principles</a></li>
+          <li><a href="hu/pos/index.html">Hungarian POS tags</a> (<a href="hu/pos/all.html">single document</a>)</li>
+          <li><a href="hu/feat/index.html">Hungarian features</a> (<a href="hu/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="hu/overview/syntax.html">General principles</a></li>
+          <li><a href="hu/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="hu/dep/index.html">Hungarian dependency relations</a> (<a href="hu/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Indonesian" tab -->
+<div id="language-id" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">122K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="id/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="id/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="id/overview/morphology.html">General principles</a></li>
+          <li><a href="id/pos/index.html">Indonesian POS tags</a> (<a href="id/pos/all.html">single document</a>)</li>
+          <li><a href="id/feat/index.html">Indonesian features</a> (<a href="id/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="id/overview/syntax.html">General principles</a></li>
+          <li><a href="id/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="id/dep/index.html">Indonesian dependency relations</a> (<a href="id/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Irish" tab -->
+<div id="language-ga" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">24K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="ga/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="ga/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ga/overview/morphology.html">General principles</a></li>
+          <li><a href="ga/pos/index.html">Irish POS tags</a> (<a href="ga/pos/all.html">single document</a>)</li>
+          <li><a href="ga/feat/index.html">Irish features</a> (<a href="ga/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ga/overview/syntax.html">General principles</a></li>
+          <li><a href="ga/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ga/dep/index.html">Irish dependency relations</a> (<a href="ga/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Italian" tab -->
+<div id="language-it" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">277K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="it/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="it/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="it/overview/morphology.html">General principles</a></li>
+          <li><a href="it/pos/index.html">Italian POS tags</a> (<a href="it/pos/all.html">single document</a>)</li>
+          <li><a href="it/feat/index.html">Italian features</a> (<a href="it/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="it/overview/syntax.html">General principles</a></li>
+          <li><a href="it/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="it/dep/index.html">Italian dependency relations</a> (<a href="it/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Latin" tab -->
+<div id="language-la" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="la/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="la/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="la/overview/morphology.html">General principles</a></li>
+          <li><a href="la/pos/index.html">Latin POS tags</a> (<a href="la/pos/all.html">single document</a>)</li>
+          <li><a href="la/feat/index.html">Latin features</a> (<a href="la/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="la/overview/syntax.html">General principles</a></li>
+          <li><a href="la/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="la/dep/index.html">Latin dependency relations</a> (<a href="la/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Japanese" tab -->
+<div id="language-ja" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="ja/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="ja/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ja/overview/morphology.html">General principles</a></li>
+          <li><a href="ja/pos/index.html">Japanese POS tags</a> (<a href="ja/pos/all.html">single document</a>)</li>
+          <li><a href="ja/feat/index.html">Japanese features</a> (<a href="ja/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ja/overview/syntax.html">General principles</a></li>
+          <li><a href="ja/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ja/dep/index.html">Japanese dependency relations</a> (<a href="ja/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Korean" tab -->
+<div id="language-ko" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="ko/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="ko/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ko/overview/morphology.html">General principles</a></li>
+          <li><a href="ko/pos/index.html">Korean POS tags</a> (<a href="ko/pos/all.html">single document</a>)</li>
+          <li><a href="ko/feat/index.html">Korean features</a> (<a href="ko/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ko/overview/syntax.html">General principles</a></li>
+          <li><a href="ko/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ko/dep/index.html">Korean dependency relations</a> (<a href="ko/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Persian" tab -->
+<div id="language-fa" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="partial">partial draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">153K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="fa/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="fa/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="fa/overview/morphology.html">General principles</a></li>
+          <li><a href="fa/pos/index.html">Persian POS tags</a> (<a href="fa/pos/all.html">single document</a>)</li>
+          <li><a href="fa/feat/index.html">Persian features</a> (<a href="fa/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="fa/overview/syntax.html">General principles</a></li>
+          <li><a href="fa/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="fa/dep/index.html">Persian dependency relations</a> (<a href="fa/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Romanian" tab -->
+<div id="language-ro" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">partial draft</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="ro/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="ro/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ro/overview/morphology.html">General principles</a></li>
+          <li><a href="ro/pos/index.html">Romanian POS tags</a> (<a href="ro/pos/all.html">single document</a>)</li>
+          <li><a href="ro/feat/index.html">Romanian features</a> (<a href="ro/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ro/overview/syntax.html">General principles</a></li>
+          <li><a href="ro/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ro/dep/index.html">Romanian dependency relations</a> (<a href="ro/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Slovenian" tab -->
+<div id="language-sl" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="none">none</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="sl/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="sl/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="sl/overview/morphology.html">General principles</a></li>
+          <li><a href="sl/pos/index.html">Slovenian POS tags</a> (<a href="sl/pos/all.html">single document</a>)</li>
+          <li><a href="sl/feat/index.html">Slovenian features</a> (<a href="sl/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="sl/overview/syntax.html">General principles</a></li>
+          <li><a href="sl/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="sl/dep/index.html">Slovenian dependency relations</a> (<a href="sl/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Spanish" tab -->
+<div id="language-es" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="none">template only</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="none">partial draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">433K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="es/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="es/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="es/overview/morphology.html">General principles</a></li>
+          <li><a href="es/pos/index.html">Spanish POS tags</a> (<a href="es/pos/all.html">single document</a>)</li>
+          <li><a href="es/feat/index.html">Spanish features</a> (<a href="es/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="es/overview/syntax.html">General principles</a></li>
+          <li><a href="es/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="es/dep/index.html">Spanish dependency relations</a> (<a href="es/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+<!-- "Swedish" tab -->
+<div id="language-sv" class="ui-tabs-hide">
+    <table class="statustable">
+  <tbody>
+    <tr>
+      <td colspan="2">Status</td>
+    </tr>
+    <tr>
+      <td>Overview:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>POS tags:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Features:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Relations:</td>
+      <td class="complete">complete draft</td>
+    </tr>
+    <tr>
+      <td>Data:</td>
+      <td class="complete">97K words</td>
+    </tr>
+  </tbody>
+</table>
+
+    <p><a href="sv/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="sv/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="sv/overview/morphology.html">General principles</a></li>
+          <li><a href="sv/pos/index.html">Swedish POS tags</a> (<a href="sv/pos/all.html">single document</a>)</li>
+          <li><a href="sv/feat/index.html">Swedish features</a> (<a href="sv/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="sv/overview/syntax.html">General principles</a></li>
+          <li><a href="sv/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="sv/dep/index.html">Swedish relations</a> (<a href="sv/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p><a href="format.html">CoNLL-U format</a></p>
+
+  </div>
+
+
+
+<!-- new tab template -->
+<!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
+<!-- [Introduction](LC/overview/introduction.html) -->
+<!-- -->
+<!-- * [Tokenization](LC/overview/tokenization.html) -->
+<!-- * Morphology -->
+<!--   * [General principles](LC/overview/morphology.html) -->
+<!--   * [POS tags](LC/pos/index.html) ([single document](LC/pos/all.html)) -->
+<!--   * [features](LC/feat/index.html) ([single document](LC/feat/all.html)) -->
+<!--   * POS tags: TODO -->
+<!--   * Features: TODO -->
+<!-- * Syntax -->
+<!--   * [General principles](LC/overview/syntax.html) -->
+<!--   * [Specific constructions](LC/overview/specific-syntax.html) -->
+<!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
+<!-- [CoNLL-U format](format.html) -->
+<!-- -->
+<!-- </div> -->
+
+<div id="language-other" class="ui-tabs-hide">
+    <p>More languages to come.</p>
+
+    <p>The following are empty templates for language-specific documentation.
+(Please ignore these.)</p>
+
+    <p><a href="template/overview/introduction.html">Introduction</a></p>
+
+    <ul>
+      <li><a href="template/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="template/overview/morphology.html">General principles</a></li>
+          <li><a href="template/pos/index.html">Universal POS tags</a> (<a href="template/pos/all.html">single document</a>)</li>
+          <li><a href="template/feat/index.html">Universal features</a> (<a href="template/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="template/overview/syntax.html">General principles</a></li>
+          <li><a href="template/dep/index.html">Universal relations</a> (<a href="template/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+</div>
+
+<hr />
+
+<p><a href="contributing.html">How to contribute</a></p>
+
+      </div>
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+    var root = ''; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+        root + 'lib/ext/jquery.address.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // embedding configuration
+        root + 'lib/local/config.js',
+        // project-specific collection data
+        root + 'lib/local/collections.js',
+
+        // NOTE: non-local libraries
+        'https://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+        'https://spyysalo.github.io/conllu.js/conllu.js'
+    );
+
+    var webFontURLs = [
+//        root + 'static/fonts/Astloch-Bold.ttf',
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
+    
+    var setupTabs = function() {
+        // standard jQuery UI "tabs" element initialization
+        $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
+
+        // use jQuery address to preserve tab state
+        // (see https://github.com/UniversalDependencies/docs/issues/65,
+        // http://stackoverflow.com/a/3330919)
+        if ($(".jquery-ui-tabs").length > 0) {
+            $.address.change(function(event){
+	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
+	    });
+	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) { 
+	        window.location.hash = ui.tab.hash;
+	    });
+        }
+    };
+
+    head.ready(function() {
+        // set up UI tabs and accordions on page
+        setupTabs();
+        setupAccordions();
+    
+        // mark current collection (filled in by Jekyll)
+        Collections.listing['_current'] = '';
+
+	// perform all embedding and support functions
+	Annodoc.activate(Config.bratCollData, Collections.listing);
+    });
+</script>
+
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55233688-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+      <div id="footer">
+	  <p class="footer-text">&copy; 2014 
+	    <a href="http://universaldependencies.github.io/docs/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>. 
+	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
