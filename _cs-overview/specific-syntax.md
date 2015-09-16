@@ -4,15 +4,6 @@ title:  'Syntax'
 permalink: cs/overview/specific-syntax.html
 ---
 
-~~~sdparse
-Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
-auxpass(dotazován-3, Jsem-1)
-cc(dotazován-3, například-2)
-parataxis(a-22, dotazován-3)
-case:auxp(dotazován-3, na-4)
-det(stav-7, svůj-5)
-~~~
-
 # Specific constructions
 
 ## Adjectival and adverbial constructions
@@ -38,6 +29,15 @@ cop(inteligentnější, je)
 nmod(inteligentnější, Vojta)
 case(Vojta, než)
 punct(inteligentnější, .)
+~~~
+
+~~~ sdparse
+Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
+auxpass(dotazován-3, Jsem-1)
+cc(dotazován-3, například-2)
+parataxis(a-22, dotazován-3)
+case:auxp(dotazován-3, na-4)
+det(stav-7, svůj-5)
 ~~~
 
 ~~~ sdparse
