@@ -70,17 +70,37 @@
 <ol>
   <li>Coordination: the relation <a href="">u-dep/conj</a> is always left-to-right (head-initial).</li>
   <li>Names: the relation <a href="">u-dep/name</a> is always left-to-right (head-initial).</li>
-  <li>Infinitive markers: the syntactic relation should be <a href="">u-dep/mark</a> (not <a href="">u-dep/aux</a>); the postag may vary depending on language but <a href="">u-pus/PART</a> is the default.</li>
-  <li>Verb particles: the syntactic relation should be <a href="">u-dep/compound</a> (or <a href="">u-dep/compound:prt</a>).</li>
-  <li>Reflexives: the syntactic relation should be <a href="">u-dep/dobj</a>, <a href="">u-dep/iobj</a> or <a href="">u-dep/expl</a> (not <a href="">u-dep/compound</a>).</li>
-  <li>Determiners: the syntactic relation <a href="">u-dep/det</a> is (for now) compatible with <a href="">u-pos/DET</a>, <a href="">u-pos/PRON</a> and [u-pos/ADJ], but not with <a href="">u-pos/NOUN</a>, <a href="">u-pos/PNOUN</a> and [u-pos/NUM].</li>
-  <li>Multiword abbreviations: if abbreviations like “e.g.” are split into two words, the [u-dep/mwe()] relation should be used.</li>
-  <li>Compounds: the relation [u-dep/compound] should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.</li>
+  <li>Infinitive markers: the relation should be <a href="">u-dep/mark</a> (not <a href="">u-dep/aux</a>); the postag may vary depending on language but <a href="">u-pus/PART</a> is the default.</li>
+  <li>Verb particles: the relation should be <a href="">u-dep/compound</a> (or <a href="">u-dep/compound:prt</a>).</li>
+  <li>Reflexives: the relation should be <a href="">u-dep/dobj</a>, <a href="">u-dep/iobj</a> or <a href="">u-dep/expl</a> (not <a href="">u-dep/compound</a>).</li>
+  <li>Determiners: the relation <a href="">u-dep/det</a> is (for now) compatible with <a href="">u-pos/DET</a>, <a href="">u-pos/PRON</a> and <a href="">u-pos/ADJ</a>, but not with <a href="">u-pos/NOUN</a>, <a href="">u-pos/PNOUN</a> and <a href="">u-pos/NUM</a>.</li>
+  <li>Multiword abbreviations: if abbreviations like “e.g.” are split into two words, the <a href="">u-dep/mwe</a> relation should be used.</li>
+  <li>Compounds: the relation <a href="">u-dep/compound</a> should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.</li>
 </ol>
 
 <h3 id="long-term-issues">Long-term issues</h3>
 
-<p>TODO</p>
+<ol>
+  <li>
+    <p>Word segmentation: we need to review our principles for word segmentation to make sure that we can deal both with languages where whitespace does not separate words (such as Vietnamese) and with languages where words need to be segmented into smaller units that wouldn’t traditionally be called words although they are larger than morphemes (such as Turkish).</p>
+  </li>
+  <li>
+    <p>Syntax-semantics mismatch: we need a consistent treatment of constructions where semantic interpretation deviates systematically from surface syntactic structure, including (but not limited to) light verb constructions, idioms, copula constructions, and clefts.</p>
+  </li>
+  <li>
+    <p>Part-of-speech tags: we need a consistent treatment of part-of-speech tags along the formal-functional dimension, including (but not limited to) determiners vs. pronouns, nouns vs. adjectives, adverbs vs. adjectives, and particles such as question particles and negation.</p>
+  </li>
+  <li>
+    <p>Ellipsis: we need a comprehensive treatment of ellipsis that eliminates the <a href="">u-dep/remnant</a> relation but (ideally) avoids empty elements, possibly based on a generalization of promotion (which is needed anyway).</p>
+  </li>
+  <li>
+    <p>Core arguments: we need to sort out the exact criteria for distinguishing different core arguments, including the distinction between <a href="">u-dep/dobj</a> and <a href="">u-dep/iobj</a>, the use of the <a href="">u-dep/expl</a> relation, and the treatment of pro-drop, clitic doubling, and dislocation.</p>
+  </li>
+  <li>
+    <p>Enhanced dependencies: we need guidelines for the enhanced dependencies, which can potentially play a role in resolving all the previous long-term issues.</p>
+  </li>
+</ol>
+
 
 
       </div>
