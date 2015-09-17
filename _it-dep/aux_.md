@@ -13,7 +13,7 @@ An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxilia
 
 ~~~ sdparse
 hanno sparato a sangue freddo
-aux(sparato, anno)
+aux(sparato, hanno)
 ~~~
 
 * auxiliary essere
@@ -33,7 +33,7 @@ aux(realizzando, stavano)
 * modal auxiliaries
 
 ~~~ sdparse
-non l' hanno pouto ascoltare
+non l' hanno potuto ascoltare
 aux(ascoltare, potuto)
 ~~~
 ~~~ sdparse
