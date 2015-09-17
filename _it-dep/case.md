@@ -8,7 +8,6 @@ In Italian, the case relation is used for any preposition introducing a noun, pr
 
 ~~~ sdparse
 Sono d' accordo su il principio
-case(accordo, su)
 case(principio, su)
 det(principio, det)
 nmod(Sono, accordo)
