@@ -10,46 +10,46 @@ BEFORE:
 ROOT Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
 auxpass(dotazován-4, Jsem-2)
 cc(dotazován-4, například-3)
-parataxis(a-23, dotazován-4)
+parataxis:member(a-23, dotazován-4)
 case:auxp(dotazován-4, na-5)
 det(stav-8, svůj-6)
 amod(stav-8, zdravotní-7)
-dobj(,-9, stav-8)
+dobj:member(,-9, stav-8)
 punct:coord(na-5, ,-9)
-dobj(,-9, nemoci-10)
+dobj:member(,-9, nemoci-10)
 punct(nebo-17, ,-11)
 case:auxp(nebo-17, pro-12)
 advmod(pro-12, které-13)
 aux(léčil-16, jsem-14)
 auxpass:reflex(léčil-16, se-15)
-acl(nebo-17, léčil-16)
+acl:member(nebo-17, léčil-16)
 cc:coord(nemoci-10, nebo-17)
 case:auxp(léčím-21, v-18)
 amod(době-20, současné-19)
 nmod(v-18, době-20)
-acl(nebo-17, léčím-21)
+acl:member(nebo-17, léčím-21)
 punct(nebo-17, ,-22)
 root:coord(ROOT-1, a-23)
 advmod:emph(je-25, dokonce-24)
-parataxis(a-23, je-25)
+parataxis:member(a-23, je-25)
 advmod(je-25, zde-26)
 nsubj(je-25, otázka-27)
 punct(zda-29, ,-28)
 mark:auxc(otázka-27, zda-29)
 aux(podrobil-32, jsem-30)
 compound:reflex(podrobil-32, se-31)
-acl(a-36, podrobil-32)
+acl:member(a-36, podrobil-32)
 dobj(podrobil-32, testu-33)
 case:auxp(testu-33, na-34)
 nmod(na-34, AIDS-35)
 cc:coord(zda-29, a-36)
-case:auxp(a-36, s-37)
+case:auxp:member(a-36, s-37)
 det(výsledkem-39, jakým-38)
 dep(s-37, výsledkem-39)
 root:auxk(ROOT-1, .-40)
 ~~~
 
-AFTER 0:
+AFTER OLD:
 
 ~~~ sdparse
 ROOT Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
@@ -94,7 +94,7 @@ conj(podrobil-32, výsledkem-39)
 root:auxk(ROOT-1, .-40)
 ~~~
 
-AFTER 1:
+AFTER NEW:
 
 ~~~ sdparse
 ROOT Jsem například dotazován na svůj zdravotní stav , nemoci , pro které jsem se léčil nebo v současné době léčím , a dokonce je zde otázka , zda jsem se podrobil testu na AIDS a s jakým výsledkem .
@@ -135,7 +135,7 @@ nmod(testu-33, AIDS-35)
 cc(podrobil-32, a-36)
 case(výsledkem-39, s-37)
 det(výsledkem-39, jakým-38)
-dep(podrobil-32, výsledkem-39)
+conj(podrobil-32, výsledkem-39)
 root:auxk(ROOT-1, .-40)
 ~~~
 
