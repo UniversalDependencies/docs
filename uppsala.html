@@ -70,10 +70,10 @@
 <ol>
   <li>Coordination: the relation <a href="">u-dep/conj</a> is always left-to-right (head-initial).</li>
   <li>Names: the relation <a href="">u-dep/name</a> is always left-to-right (head-initial).</li>
-  <li>Infinitive markers: the relation should be <a href="">u-dep/mark</a> (not <a href="">u-dep/aux</a>); the postag may vary depending on language but <a href="">u-pus/PART</a> is the default.</li>
-  <li>Verb particles: the relation should be <a href="">u-dep/compound</a> (or <a href="">u-dep/compound:prt</a>).</li>
+  <li>Infinitive markers: the relation should be <a href="">u-dep/mark</a> (not <a href="">u-dep/aux</a>); the postag may vary depending on language but <a href="">u-pos/PART</a> is the default.</li>
+  <li>Verb particles: the relation should be <a href="">u-dep/compound</a> (optionally with subtype “prt”), not <a href="">u-dep/mark</a>.</li>
   <li>Reflexives: the relation should be <a href="">u-dep/dobj</a>, <a href="">u-dep/iobj</a> or <a href="">u-dep/expl</a> (not <a href="">u-dep/compound</a>).</li>
-  <li>Determiners: the relation <a href="">u-dep/det</a> is (for now) compatible with <a href="">u-pos/DET</a>, <a href="">u-pos/PRON</a> and <a href="">u-pos/ADJ</a>, but not with <a href="">u-pos/NOUN</a>, <a href="">u-pos/PNOUN</a> and <a href="">u-pos/NUM</a>.</li>
+  <li>Determiners: the relation <a href="">u-dep/det</a> is (for now) compatible with <a href="">u-pos/DET</a>, <a href="">u-pos/PRON</a> and <a href="">u-pos/ADJ</a>, but not with <a href="">u-pos/NOUN</a>, <a href="">u-pos/PROPN</a> and <a href="">u-pos/NUM</a>.</li>
   <li>Multiword abbreviations: if abbreviations like “e.g.” are split into two words, the <a href="">u-dep/mwe</a> relation should be used.</li>
   <li>Compounds: the relation <a href="">u-dep/compound</a> should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.</li>
 </ol>
