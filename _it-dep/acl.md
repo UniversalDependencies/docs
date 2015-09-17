@@ -16,7 +16,36 @@ nsubj(parlato, Fiona)
 name(Fiona, May)
 aux(parlato, ha)
 ~~~
+~~~ sdparse
+Due persone armate di pistola
+acl(persone, armate)
+~~~
 
-- relative clauses, also including free relatives. Note that in Italian relative clauses are assigned a specific relation `acl:relcl`, which is a subtype of `acl`
-- finite clausal complements of nouns like fatto _fact_, considerazione _consideration_, bisogno _need_
-- infinitival modifiers of nouns
+* relative clauses, also including free relatives. Note that in Italian relative clauses are assigned a specific relation `acl:relcl`, which is a subtype of `acl`
+
+~~~ sdparse
+L' inchiesta che coinvolge Bernard Tapie
+acl:relcl(inchiesta, coinvolge)
+~~~
+~~~ sdparse
+La vita , in cui il mutamento avviene
+acl:relcl(vita, avviene)
+~~~
+
+* finite clausal complements of nouns like fatto _fact_, considerazione _consideration_, bisogno _need_
+
+~~~ sdparse
+il fatto che Gianni faccia l' attore
+acl(fatto, faccia)
+~~~
+
+* infinitival modifiers of nouns
+
+~~~ sdparse
+non è il caso di pensare
+acl(caso, pensare)
+~~~
+~~~ sdparse
+quello di agevolare l' accesso
+acl(quello, agevolare)
+~~~
