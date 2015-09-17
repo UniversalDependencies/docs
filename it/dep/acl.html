@@ -48,12 +48,39 @@ nsubj(parlato, Fiona)
 name(Fiona, May)
 aux(parlato, ha)
 </code></pre>
+<pre><code class="language-sdparse">Due persone armate di pistola
+acl(persone, armate)
+</code></pre>
 
 <ul>
   <li>relative clauses, also including free relatives. Note that in Italian relative clauses are assigned a specific relation <code>acl:relcl</code>, which is a subtype of <code>acl</code></li>
+</ul>
+
+<pre><code class="language-sdparse">L' inchiesta che coinvolge Bernard Tapie
+acl:relcl(inchiesta, coinvolge)
+</code></pre>
+<pre><code class="language-sdparse">La vita , in cui il mutamento avviene
+acl:relcl(vita, avviene)
+</code></pre>
+
+<ul>
   <li>finite clausal complements of nouns like fatto <em>fact</em>, considerazione <em>consideration</em>, bisogno <em>need</em></li>
+</ul>
+
+<pre><code class="language-sdparse">il fatto che Gianni faccia l' attore
+acl(fatto, faccia)
+</code></pre>
+
+<ul>
   <li>infinitival modifiers of nouns</li>
 </ul>
+
+<pre><code class="language-sdparse">non è il caso di pensare
+acl(caso, pensare)
+</code></pre>
+<pre><code class="language-sdparse">quello di agevolare l' accesso
+acl(quello, agevolare)
+</code></pre>
 
 
 <!-- "in other languages" links -->
