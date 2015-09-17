@@ -393,7 +393,7 @@ appos(turista, Tiziana)
 </ul>
 
 <pre><code class="language-sdparse">hanno sparato a sangue freddo
-aux(sparato, anno)
+aux(sparato, hanno)
 </code></pre>
 
 <ul>
@@ -416,7 +416,7 @@ aux(realizzando, stavano)
   <li>modal auxiliaries</li>
 </ul>
 
-<pre><code class="language-sdparse">non l' hanno pouto ascoltare
+<pre><code class="language-sdparse">non l' hanno potuto ascoltare
 aux(ascoltare, potuto)
 </code></pre>
 <pre><code class="language-sdparse">dovrà sparire la figura
@@ -454,9 +454,8 @@ aux(trovato, potrebbe)
 <p>In Italian, the case relation is used for any preposition introducing a noun, pronoun, adjective, adverb. Prepositions are treated as dependents of the noun they attach to or introduce in an “extended nominal projection”. Thus, contrary to previous versions of the Italian Treebank, UD does not treat a preposition as a mediator between a modified word and its object. The case relation aims at providing a more uniform analysis of prepositions and case in morphologically rich languages.</p>
 
 <pre><code class="language-sdparse">Sono d' accordo su il principio
-case(accordo, su)
 case(principio, su)
-det(principio, det)
+det(principio, il)
 nmod(Sono, accordo)
 nmod(accordo, principio)
 </code></pre>
@@ -471,8 +470,21 @@ nmod(ministro, Interno)
 <p><a id="al-it-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cc</code>.</p>
+<p>A coordinating conjunction relation (cc) holds between the head conjunct of a coordinate structure (which is taken to be the first conjunct) and any of the coordinating conjunctions involved in the structure. This also includes the first element in paired conjunctions like sia … sia “both … and”. cc also marks the relation between a sentence initial coordinating conjunction and the sentence root. Note that punctuation is never treated as coordinating conjunction. For more on coordination, see the conj relation.</p>
+
+<pre><code class="language-sdparse">Due bambini e quattro tecnici
+cc(bambini, e)
+</code></pre>
+<pre><code class="language-sdparse">a il mare e su le strade
+cc(mare, e)
+</code></pre>
+<pre><code class="language-sdparse">né auspicabile né fattibile
+cc(auspicabile, né)
+cc(auspicabile, né)
+</code></pre>
+<pre><code class="language-sdparse">Ma non è il caso di pensare
+cc(caso, Ma)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-dep/cc.md" target="#">edit cc</a></p>
 
