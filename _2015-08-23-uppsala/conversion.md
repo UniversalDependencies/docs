@@ -38,4 +38,4 @@ Nearly none of the treebanks distribute the untokenized sentences. This complica
 
 ## Parallel treebank
 
-Maybe it would be good to expand on the Cairo initiative and have a parallel text which could be annotated, so as to help new corpora get started as well as gather some UD parallel data. About 10K tokens would seem like the right size. The Cairo corpus should be mentioned somewhere.
+Maybe it would be good to expand on the Cairo initiative and have a parallel text which could be annotated, so as to help new corpora get started as well as gather some UD parallel data. About 10K tokens would seem like the right size. The Cairo corpus should be mentioned somewhere on the main UD page.
