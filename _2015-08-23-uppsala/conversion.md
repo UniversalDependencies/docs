@@ -5,7 +5,7 @@ title:  'Uppsala Group on Conversion Best Practice and Tools'
 
 # Uppsala Group on Conversion Best Practice and Tools
 
-12.11
+12.18
 
 Aitziber, Barbara, Filip, Giuseppe, Lilian, Natalia, Verginica, Željko
 
