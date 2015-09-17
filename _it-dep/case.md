@@ -17,6 +17,6 @@ nmod(accordo, principio)
 ~~~ sdparse
 il ministro di l' Interno
 case(Interno, di)
-case(Interno, l')
+det(Interno, l')
 nmod(ministro, Interno)
 ~~~
