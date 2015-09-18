@@ -76,6 +76,7 @@
   <li>Determiners: the relation <a href="">u-dep/det</a> is (for now) compatible with <a href="">u-pos/DET</a>, <a href="">u-pos/PRON</a> and <a href="">u-pos/ADJ</a>, but not with <a href="">u-pos/NOUN</a>, <a href="">u-pos/PROPN</a> and <a href="">u-pos/NUM</a>.</li>
   <li>Multiword abbreviations: if abbreviations like “e.g.” are split into two words, the <a href="">u-dep/mwe</a> relation should be used.</li>
   <li>Compounds: the relation <a href="">u-dep/compound</a> should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.</li>
+  <li>Single root: in every tree there is just one node with the <code>root</code> dependency relation. If there is no clear main constituent because of ellipsis, the leftmost orphan is promoted to the head position and the other orphans are attached to it.</li>
 </ol>
 
 <h3 id="long-term-issues">Long-term issues</h3>
