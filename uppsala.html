@@ -77,6 +77,7 @@
   <li>Multiword abbreviations: if abbreviations like “e.g.” are split into two words, the <a href="">u-dep/mwe</a> relation should be used.</li>
   <li>Compounds: the relation <a href="">u-dep/compound</a> should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.</li>
   <li>Single root: in every tree there is just one node with the <code>root</code> dependency relation. If there is no clear main constituent because of ellipsis, the leftmost orphan is promoted to the head position and the other orphans are attached to it.</li>
+  <li>Dates: the head of a day-month-year expression should be the month, regardless of the order in which the elements occur; the relation of other elements should be <a href="">u-dep/nummod</a> if numerical, <a href="">u-dep/nmod</a> otherwise.</li>
 </ol>
 
 <h3 id="long-term-issues">Long-term issues</h3>
