@@ -44,12 +44,13 @@ Based on the group reports, issues can be sorted into two groups:
 6. Determiners: the relation [u-dep/det]() is (for now) compatible with [u-pos/DET](), [u-pos/PRON]() and [u-pos/ADJ](), but not with [u-pos/NOUN](), [u-pos/PROPN]() and [u-pos/NUM]().
 7. Multiword abbreviations: if abbreviations like "e.g." are split into two words, the [u-dep/mwe]() relation should be used.
 8. Compounds: the relation [u-dep/compound]() should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.
+9. Single root: in every tree there is just one node with the `root` dependency relation. If there is no clear main constituent because of ellipsis, the leftmost orphan is promoted to the head position and the other orphans are attached to it.
 
 ### Long-term issues
 
-1. Word segmentation: we need to review our principles for word segmentation to make sure that we can deal both with languages where whitespace does not separate words (such as Vietnamese) and with languages where words need to be segmented into smaller units that wouldn't traditionally be called words although they are larger than morphemes (such as Turkish).  
+1. Word segmentation: we need to review our principles for word segmentation to make sure that we can deal both with languages where whitespace does not separate words (such as Vietnamese) and with languages where words need to be segmented into smaller units that wouldn't traditionally be called words although they are larger than morphemes (such as Turkish).
 
-2. Syntax-semantics mismatch: we need a consistent treatment of constructions where semantic interpretation deviates systematically from surface syntactic structure, including (but not limited to) light verb constructions, idioms, copula constructions, and clefts. 
+2. Syntax-semantics mismatch: we need a consistent treatment of constructions where semantic interpretation deviates systematically from surface syntactic structure, including (but not limited to) light verb constructions, idioms, copula constructions, and clefts.
 
 3. Part-of-speech tags: we need a consistent treatment of part-of-speech tags along the formal-functional dimension, including (but not limited to) determiners vs. pronouns, nouns vs. adjectives, adverbs vs. adjectives, and particles such as question particles and negation.
 
@@ -60,4 +61,4 @@ Based on the group reports, issues can be sorted into two groups:
 6. Enhanced dependencies: we need guidelines for the enhanced dependencies, which can potentially play a role in resolving all the previous long-term issues.
 
 
- 
+
