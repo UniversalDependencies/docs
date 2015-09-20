@@ -28,6 +28,6 @@ nummod(km, 10)
 ~~~
 ~~~ sdparse
 200 mila
-compound(200, mila)
+compound(mila, 200)
 ~~~
 
