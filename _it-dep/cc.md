@@ -16,8 +16,8 @@ cc(mare, e)
 ~~~
 ~~~ sdparse
 né auspicabile né fattibile
-cc(auspicabile, né)
-cc(auspicabile, né)
+cc(auspicabile,-1 né)
+cc(auspicabile-2, né)
 ~~~
 ~~~ sdparse
 Ma non è il caso di pensare
