@@ -665,8 +665,25 @@ cop(responsabile, stata)
 <p><a id="al-it-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. The dependent is the main lexical verb or other predicate of the subject clause.</p>
+
+<p>Examples:</p>
+
+<pre><code class="language-sdparse">È ora che il divario con l' uomo venga salvato
+csubj(ora, salvato)
+aux(salvato, venga)
+</code></pre>
+
+<pre><code class="language-sdparse">È stato facile ricostruire le telefonate
+csubj(facile, ricostruire)
+aux(facile, È)
+cop(facile, stato)
+</code></pre>
+
+<pre><code class="language-sdparse">Sbarcare a l' aeroporto di Kinshasa è una vera e propria avventura
+csubj(avventura, sbarcare)
+cop(avventura, è)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_it-dep/csubj.md" target="#">edit csubj</a></p>
 
