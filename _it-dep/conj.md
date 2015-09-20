@@ -27,12 +27,12 @@ conj(qua, là)
 * Asyndetic coordination with omitted conjunction. Commas or other punctuation symbols delimit the conjuncts. 
 
 ~~~ sdparse
-Per il fratello di Luigi, la cognata, i nipoti
+Per il fratello di Luigi , la cognata , i nipoti
 conj(fratello, cognata)
 conj(fratello, nipoti)
 ~~~
 ~~~ sdparse
-quanto gli piaceva, quanto ne era innamorato
+quanto gli piaceva , quanto ne era innamorato
 conj(piaceva, innamorato)
 aux(innamorato, era)
 ~~~
