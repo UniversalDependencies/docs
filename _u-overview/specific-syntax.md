@@ -13,6 +13,81 @@ This section will contain detailed discussion of particular linguistic construct
 
 ## Elements of a clause
 
+### Simple clauses
+
+Simple clauses consist of a predicate together with its core nominal arguments (and may contain additional modifiers of both the predicate and its arguments).
+
+~~~ sdparse
+she left
+nsubj(left, she)
+~~~
+~~~ sdparse
+she left a note
+nsubj(left, she)
+dobj(left, note)
+~~~
+~~~ sdparse
+she left him a note
+nsubj(left, she)
+dobj(left, note)
+iobj(left, him)
+~~~
+
+An intransitive verb takes a single argument with the [u-dep/nsubj]() relation.
+A transitive verb in addition takes an argument with the [u-dep/dobj]() relation.
+A ditransitive verb further adds an argument with the [u-dep/iobj]() relation. 
+Note that the assignment of core argument relations is independent of case marking (whether morphological or analytic). 
+Thus, in ergative languages, the patient-like argument of a transitive verb will take the he [u-dep/dobj()] relation 
+despite the fact that it carries the same case marking as the [u-dep/nsubj]() argument of an intranstive verb.
+
+If passivization involves the promotion of an argument to subject position, then this argument gets the relation
+[u-dep/nsubjpass]() to indicate that promotion has taken place. By contrast, if passivization only involves suppression
+of the subject without promotion of another argument, then [u-dep/nsubjpass]() should not be used.
+
+~~~ sdparse
+folk drack vin hela natten \n people drank wine all night
+nsubj(drack, folk)
+dobj(drack, vin)
+~~~
+~~~ sdparse
+vin dracks hela natten \n wine was-drunk all night
+nsubjpass(dracks, vin)
+~~~
+~~~ sdparse
+det dracks vin hela natten \n it was-drunk wine all night
+expl(dracks, det)
+dobj(dracks, vin)
+~~~
+
+In nominal clauses, the predicate is a noun or an adjective, which takes a single argument with the [u-dep/nsubj]() relation. The copula verb (if present) attaches to the predicate with the [u-dep/cop]() relation.
+
+~~~ sdparse
+he is a fool 
+nsubj(fool, he)
+cop(fool, is)
+~~~
+~~~ sdparse
+he is tired
+nsubj(tired, he)
+cop(tired, is)
+~~~
+
+This analysis of copula constructions extends to adpositional phrases and oblique nominals as long as they have a predicative function. By contrast, temporal and locative modifiers are treated as dependents on the existential verb "be".
+
+~~~sdparse
+he is in good shape
+nsubj(shape, he)
+cop(shape, is)
+~~~
+he is in the garden
+nsubj(is, he)
+nmod(is, garden)
+~~~
+
+Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation.
+
+### Adverbial modifiers
+
 ### Secondary predicates
 
 A clause can contain a _secondary predication_ or _predicative_. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.
@@ -117,6 +192,8 @@ The dog barked the neighbors awake .
 dobj(barked, neighbors)
 xcomp(barked, awake)
 ~~~
+
+### Complex clauses
 
 ## Elements of a nominal
 
