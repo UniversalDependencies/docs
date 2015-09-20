@@ -18,3 +18,18 @@ mwe(In, contrast)
 mwe(In, to)
 case(you, In)
 ~~~
+
+Multi-word prepositions usually form a contiguous span of the sentence. In exceptional cases however, they can be interrupted
+by emphasizers and other words:
+
+~~~ sdparse
+ve srovnání například s úvěry \n in comparison for-example to loans
+mwe(ve, srovnání)
+mwe(ve, s)
+case(úvěry, ve)
+advmod:emph(úvěry, například)
+mwe(in, comparison)
+mwe(in, to)
+case(loans, in)
+advmod:emph(loans, for-example)
+~~~
