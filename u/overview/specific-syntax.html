@@ -43,6 +43,72 @@
 
 <h2 id="elements-of-a-clause">Elements of a clause</h2>
 
+<h3 id="simple-clauses">Simple clauses</h3>
+
+<p>Simple clauses consist of a predicate together with its core nominal arguments (and may contain additional modifiers of both the predicate and its arguments).</p>
+
+<pre><code class="language-sdparse">she left
+nsubj(left, she)
+</code></pre>
+<pre><code class="language-sdparse">she left a note
+nsubj(left, she)
+dobj(left, note)
+</code></pre>
+<pre><code class="language-sdparse">she left him a note
+nsubj(left, she)
+dobj(left, note)
+iobj(left, him)
+</code></pre>
+
+<p>An intransitive verb takes a single argument with the <a href="">u-dep/nsubj</a> relation.
+A transitive verb in addition takes an argument with the <a href="">u-dep/dobj</a> relation.
+A ditransitive verb further adds an argument with the <a href="">u-dep/iobj</a> relation. 
+Note that the assignment of core argument relations is independent of case marking (whether morphological or analytic). 
+Thus, in ergative languages, the patient-like argument of a transitive verb will take the he [u-dep/dobj()] relation 
+despite the fact that it carries the same case marking as the <a href="">u-dep/nsubj</a> argument of an intranstive verb.</p>
+
+<p>If passivization involves the promotion of an argument to subject position, then this argument gets the relation
+<a href="">u-dep/nsubjpass</a> to indicate that promotion has taken place. By contrast, if passivization only involves suppression
+of the subject without promotion of another argument, then <a href="">u-dep/nsubjpass</a> should not be used.</p>
+
+<pre><code class="language-sdparse">folk drack vin hela natten \n people drank wine all night
+nsubj(drack, folk)
+dobj(drack, vin)
+</code></pre>
+<pre><code class="language-sdparse">vin dracks hela natten \n wine was-drunk all night
+nsubjpass(dracks, vin)
+</code></pre>
+<pre><code class="language-sdparse">det dracks vin hela natten \n it was-drunk wine all night
+expl(dracks, det)
+dobj(dracks, vin)
+</code></pre>
+
+<p>In nominal clauses, the predicate is a noun or an adjective, which takes a single argument with the <a href="">u-dep/nsubj</a> relation. The copula verb (if present) attaches to the predicate with the <a href="">u-dep/cop</a> relation.</p>
+
+<pre><code class="language-sdparse">he is a fool 
+nsubj(fool, he)
+cop(fool, is)
+</code></pre>
+<pre><code class="language-sdparse">he is tired
+nsubj(tired, he)
+cop(tired, is)
+</code></pre>
+
+<p>This analysis of copula constructions extends to adpositional phrases and oblique nominals as long as they have a predicative function. By contrast, temporal and locative modifiers are treated as dependents on the existential verb “be”.</p>
+
+<pre><code class="language-sdparse">he is in good shape
+nsubj(shape, he)
+cop(shape, is)
+</code></pre>
+<p>he is in the garden
+nsubj(is, he)
+nmod(is, garden)
+~~~</p>
+
+<p>Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation.</p>
+
+<h3 id="adverbial-modifiers">Adverbial modifiers</h3>
+
 <h3 id="secondary-predicates">Secondary predicates</h3>
 
 <p>A clause can contain a <em>secondary predication</em> or <em>predicative</em>. The most common case is with adjectives, although the same effect can sometimes be achieved with a predicative noun or preposition-marked phrase.</p>
@@ -143,6 +209,8 @@ includes an additional <code>xcomp</code> argument. Such an analysis is buttress
 dobj(barked, neighbors)
 xcomp(barked, awake)
 </code></pre>
+
+<h3 id="complex-clauses">Complex clauses</h3>
 
 <h2 id="elements-of-a-nominal">Elements of a nominal</h2>
 
