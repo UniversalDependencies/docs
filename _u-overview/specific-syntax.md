@@ -37,7 +37,7 @@ An intransitive verb takes a single argument with the [u-dep/nsubj]() relation.
 A transitive verb in addition takes an argument with the [u-dep/dobj]() relation.
 A ditransitive verb further adds an argument with the [u-dep/iobj]() relation. 
 Note that the assignment of core argument relations is independent of case marking (whether morphological or analytic). 
-Thus, in ergative languages, the patient-like argument of a transitive verb will take the he [u-dep/dobj()] relation 
+Thus, in ergative languages, the patient-like argument of a transitive verb will take the he [u-dep/dobj]() relation 
 despite the fact that it carries the same case marking as the [u-dep/nsubj]() argument of an intranstive verb.
 
 If passivization involves the promotion of an argument to subject position, then this argument gets the relation
@@ -79,12 +79,15 @@ he is in good shape
 nsubj(shape, he)
 cop(shape, is)
 ~~~
+~~~ sdparse
 he is in the garden
 nsubj(is, he)
 nmod(is, garden)
 ~~~
 
-Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation.
+Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation. The set of verbs
+treated as copulas may also vary between languages but should be restricted to grammaticalized copulas where at most an aspectual dimension is added to the basic function of linking a non-verbal predicate to its subject. 
+
 
 ### Adverbial modifiers
 
