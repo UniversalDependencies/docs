@@ -34,8 +34,60 @@
 
           <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>A clausal complement (ccomp) of a verb or adjective is a dependent clause which is a core argument. Such clausal complements may be finite or nonfinite. If the subject of the clausal complement is controlled (that is, must be the same as the higher subject, object or indirect object, with no other possible interpretation) the appropriate relation is xcomp.</p>
+
+<ul>
+  <li>finite clausal complement of verbal head</li>
+</ul>
+
+<pre><code class="language-sdparse">Le ha detto che il rapimento era avvenuto a scopo di furto
+ccomp(detto, avvenuto)
+nsubj(avvenuto, rapimento)
+mark(avvenuto, che)
+</code></pre>
+<pre><code class="language-sdparse">Non so se qualche agenzia organizza viaggi
+ccomp(so, organizza)
+nsubj(organizza, agenzia)
+mark(organizza, se)
+</code></pre>
+<pre><code class="language-sdparse">zio Adelio avrebbe preferito studiassero in Italia
+ccomp(preferito, studiassero)
+aux(preferito, avrebbe)
+nsubj(preferito, zio)
+</code></pre>
+
+<ul>
+  <li>finite clausal complement of adjectival head</li>
+</ul>
+
+<pre><code class="language-sdparse">era sicuro che non ci fossero pericoli
+ccomp(sicuro, fossero)
+mark(fossero, che)
+nsubj(fossero, pericoli)
+</code></pre>
+
+<ul>
+  <li>infinite clausal complement of verbal head</li>
+</ul>
+
+<pre><code class="language-sdparse">bisogna avviare un dialogo
+ccomp(bisogna, avviare)
+dobj(avviare, dialogo)
+</code></pre>
+<pre><code class="language-sdparse">si fa per dire
+ccomp(fa, dire)
+mark(dire, per)
+</code></pre>
+
+<ul>
+  <li>infinite clausal complement of essere. In this case, the copula is treated as a head</li>
+</ul>
+
+<pre><code class="language-sdparse">il problema allora non è domandar si
+ccomp(è, domandar)
+expl(domandar, si)
+neg(è, non)
+</code></pre>
 
 
 <!-- "in other languages" links -->
