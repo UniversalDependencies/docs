@@ -32,7 +32,6 @@ det(Hamad, il)
 nmod(è, Hamad)
 amod(Hamad, pachistano)
 name(Hamad, Butt)
-cop(mila, sono)
 ~~~
 
 If the copula is accompanied by other verbal auxiliaries (e.g. for tense), they are taken as dependents of the lexical predicate:
