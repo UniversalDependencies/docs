@@ -211,6 +211,8 @@ The head of a nominal structure is usually a noun, proper noun or pronoun, altho
 ~~~ sdparse
 Hon såg den nya filmen . \n She saw the new film .
 dobj(såg, filmen)
+amod(filmen, nya)
+det(filmen, den)
 ~~~
 ~~~ sdparse
 Hon såg Batman . \n She saw Batman .
@@ -223,6 +225,7 @@ dobj(såg, den)
 ~~~ sdparse
 Hon såg den nya . \n She saw the new (one) .
 dobj(såg, nya)
+det(nya, den)
 ~~~
 
 ## Adjectival and adverbial constructions
