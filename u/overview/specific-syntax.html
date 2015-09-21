@@ -41,7 +41,7 @@
   <li>Direct and reported speech: currently described under <a href="">u-dep/parataxis</a></li>
 </ul>
 
-<h2 id="elements-of-a-clause">Elements of a clause</h2>
+<h2 id="clausal-structures">Clausal structures</h2>
 
 <h3 id="simple-clauses">Simple clauses</h3>
 
@@ -106,9 +106,8 @@ nmod(is, garden)
 </code></pre>
 
 <p>Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation. The set of verbs
-treated as copulas may also vary between languages but should be restricted to grammaticalized copulas where at most an aspectual dimension is added to the basic function of linking a non-verbal predicate to its subject.</p>
-
-<h3 id="adverbial-modifiers">Adverbial modifiers</h3>
+treated as copulas may also vary between languages but should be restricted to grammaticalized copulas where at most an aspectual dimension is added to the basic function of linking a non-verbal predicate to its subject. For other copula-like
+verbs (like “seem”, “look”, “appear” in English), the nominal predicate is treated as a secondary predicate (see below).</p>
 
 <h3 id="secondary-predicates">Secondary predicates</h3>
 
@@ -213,9 +212,36 @@ xcomp(barked, awake)
 
 <h3 id="complex-clauses">Complex clauses</h3>
 
-<h2 id="elements-of-a-nominal">Elements of a nominal</h2>
+<p>Complex clauses involving subordination arise because a core or non-core dependent is realized as a clausal structure.
+We distinguish four basic types:</p>
+
+<ol>
+  <li>Clausal subjects, divided into ordinary subjects (<a href="">u-dep/csubj</a>) and passive subjects (<a href="">u-dep/csubjpass</a>).</li>
+  <li>Clausal complements (objects), divided into those with obligatory control (<a href="">u-dep/xcomp</a>) and those without (<a href="">u-dep/ccomp</a>).</li>
+  <li>Clausal adverbial modifiers (<a href="">u-dep/advcl</a>).</li>
+  <li>Clausal adnominal modifiers (<a href="">u-dep/acl</a>) (with relative clauses as an important subtype in many languages).</li>
+</ol>
+
+<h2 id="nominal-structures">Nominal structures</h2>
+
+<p>The head of a nominal structure is usually a noun, proper noun or pronoun, although in cases of ellipsis it can also be an adjective or even a determiner.</p>
+
+<pre><code class="language-sdparse">Hon såg den nya filmen . \n She saw the new film .
+dobj(såg, filmen)
+</code></pre>
+<pre><code class="language-sdparse">Hon såg Batman . \n She saw Batman .
+dobj(såg, Batman)
+</code></pre>
+<pre><code class="language-sdparse">Hon såg den . \n She saw it .
+dobj(såg, den)
+</code></pre>
+<pre><code class="language-sdparse">Hon såg den nya . \n She saw the new (one) .
+dobj(såg, nya)
+</code></pre>
 
 <h2 id="adjectival-and-adverbial-constructions">Adjectival and adverbial constructions</h2>
+
+<p>…</p>
 
 <h3 id="comparatives">Comparatives</h3>
 
