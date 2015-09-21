@@ -11,7 +11,7 @@ This section will contain detailed discussion of particular linguistic construct
 * Coordination: currently described under [u-dep/conj]()
 * Direct and reported speech: currently described under [u-dep/parataxis]()
 
-## Elements of a clause
+## Clausal structures
 
 ### Simple clauses
 
@@ -86,10 +86,8 @@ nmod(is, garden)
 ~~~
 
 Exactly where the line is drawn between nominal clauses and clauses with an existential verb may be subject to language-specific variation and should therefore be specified in the language specific documentation. The set of verbs
-treated as copulas may also vary between languages but should be restricted to grammaticalized copulas where at most an aspectual dimension is added to the basic function of linking a non-verbal predicate to its subject. 
-
-
-### Adverbial modifiers
+treated as copulas may also vary between languages but should be restricted to grammaticalized copulas where at most an aspectual dimension is added to the basic function of linking a non-verbal predicate to its subject. For other copula-like
+verbs (like "seem", "look", "appear" in English), the nominal predicate is treated as a secondary predicate (see below).
 
 ### Secondary predicates
 
@@ -198,9 +196,38 @@ xcomp(barked, awake)
 
 ### Complex clauses
 
-## Elements of a nominal
+Complex clauses involving subordination arise because a core or non-core dependent is realized as a clausal structure.
+We distinguish four basic types: 
+
+1. Clausal subjects, divided into ordinary subjects ([u-dep/csubj]()) and passive subjects ([u-dep/csubjpass]()).
+2. Clausal complements (objects), divided into those with obligatory control ([u-dep/xcomp]()) and those without ([u-dep/ccomp]()).
+3. Clausal adverbial modifiers ([u-dep/advcl]()).
+4. Clausal adnominal modifiers ([u-dep/acl]()) (with relative clauses as an important subtype in many languages).
+
+## Nominal structures
+
+The head of a nominal structure is usually a noun, proper noun or pronoun, although in cases of ellipsis it can also be an adjective or even a determiner.
+
+~~~ sdparse
+Hon såg den nya filmen . \n She saw the new film .
+dobj(såg, filmen)
+~~~
+~~~ sdparse
+Hon såg Batman . \n She saw Batman .
+dobj(såg, Batman)
+~~~
+~~~ sdparse
+Hon såg den . \n She saw it .
+dobj(såg, den)
+~~~
+~~~ sdparse
+Hon såg den nya . \n She saw the new (one) .
+dobj(såg, nya)
+~~~
 
 ## Adjectival and adverbial constructions
+
+...
 
 ### Comparatives
 
