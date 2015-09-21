@@ -9,7 +9,7 @@ Aitziber, Barbara, Filip, Giuseppe, Lilian, Natalia, Verginica, Željko
 
 ## Minimal requirements for a UD treebank
 
-- No lower limit on size, the only compulsory annotation fields are `ID`, `FORM`, `CPOS`, `HEAD`, `DEPREL`
+- No lower limit on size, the only compulsory annotation fields are `ID`, `FORM`, `CPOS`, `HEAD`, and `DEPREL`
 - **Incorrect/suspect dependencies**: best marked in MISC, if we use an agreed-upon keyword maybe this could be honored by the visualizer
 - **Diffs**: a list of the most important diffs would be good to have, because this information is currently not available in one place. This is especially important for treebanks that are being used as a reference, so as not to propagate diffs
 - **Docs**: as precise as possible, encourage code release, minimally list the main steps
