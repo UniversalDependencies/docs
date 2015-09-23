@@ -11,6 +11,9 @@ The leftmost name is always the head and the other name(s) are attached to it.
 In most cases this is the opposite to PDT where family names are heads and given names are dependents,
 and the family name is usually the last name.
 
+The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc.
+(e.g. _Český Krumlov_).
+
 ~~~ sdparse
 Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
 name(Václav-2, Havel-3)
