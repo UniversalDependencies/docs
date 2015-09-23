@@ -35,15 +35,18 @@
           <h2><code>name</code>: personal name</h2>
 
 <p><code>name</code> is one of the relations for compounding in UD.
-In Czech it is used to join the first (or middle) and the last name of a person.
-We keep the PDT rule that the family name is the head and the given name(s) is/are its modifier(s).</p>
+In Czech it is used to join the first (or middle) and the last name of a person.</p>
+
+<p>The leftmost name is always the head and the other name(s) are attached to it.
+In most cases this is the opposite to PDT where family names are heads and given names are dependents,
+and the family name is usually the last name.</p>
 
 <pre><code class="language-sdparse">Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
-name(Havel-3, Václav-2)
-nmod(Havel-3, Prezident)
+name(Václav-2, Havel-3)
+name(Václav-11, Havel-12)
+nmod(Václav-2, Prezident)
+nmod(Václav-11, President)
 amod(Krumlov-7, Český-6)
-name(Havel-12, Václav-11)
-nmod(Havel-12, President)
 amod(Krumlov-16, Český-15)
 </code></pre>
 
