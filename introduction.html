@@ -35,12 +35,12 @@
           <h2 id="introduction">Introduction</h2>
 
 <p>Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank
-annotation for many languages, with the goal of facilitating multilingual parser development, 
+annotation for many languages, with the goal of facilitating multilingual parser development,
 cross-lingual learning, and parsing research from a language typology perspective. The annotation
-scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google 
-universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for 
-morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal 
-inventory of categories and guidelines to facilitate consistent annotation of similar 
+scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google
+universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for
+morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal
+inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.</p>
 
 <h2 id="current-work">Current work</h2>
@@ -52,7 +52,7 @@ universal POS categories have substantive definitions and are not necessarily ju
 of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
 requires context-sensitive rules, or some hand correction.</p>
 
-<p>The UD morphological features aim to provide a stripped down basic set of features which are most crucial for 
+<p>The UD morphological features aim to provide a stripped down basic set of features which are most crucial for
 analysis and are widespread across languages.</p>
 
 <p>The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
@@ -69,23 +69,23 @@ The goal of the new work was to simultaneously:</p>
 
 <p>The Stanford dependencies were originally developed in 2005 as a backend to the Stanford parser
 to help in Recognizing Textual Entailment systems,
-then eventually emerged as the de facto standard for dependency analysis of English, and have since 
+then eventually emerged as the de facto standard for dependency analysis of English, and have since
 been adapted to a number of different languages (Chang et al., 2009, Bosco et al., 2013, Haverinen et al., 2013,
 Seraji et al., 2013, Tsarfaty, 2013, Lipenkova and Souček 2014).
-The Google universal tag set grew out of the cross-linguistic error analysis based on the 
+The Google universal tag set grew out of the cross-linguistic error analysis based on the
 CoNLL-X shared task data by McDonald and Nivre (2007), was initially used for unsupervised
 part-of-speech tagging by Das and Petrov (2011), and has since been adopted as a widely used
 standard for mapping diverse tagsets to a common standard.
 The Interset (Zeman, 2008) started as a tool for conversion between morphosyntactic tagsets of multiple languages.
 It dates back to 2006 when it was used in the first experiments with cross-lingual delexicalized parser adaptation
-(Zeman and Resnik, 2008). It was later employed as the morphological layer in HamleDT (Zeman et al., 2014) – 
+(Zeman and Resnik, 2008). It was later employed as the morphological layer in HamleDT (Zeman et al., 2014) –
 a project that brings treebanks of many languages under a common annotation scheme.</p>
 
 <p>The first attempt to combine Stanford dependencies and Google universal tags into a universal
-annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013), 
+annotation scheme was the Universal Dependency Treebank (UDT) project (McDonald et al., 2013),
 which released treebanks for 6 languages in 2013 and 11 languages in 2014, and the first proposal
-for incorporating morphology was made by Tsarfaty (2013). The second version of HamleDT (Rosa et al., 2014) 
-provided Stanford/Google annotation for 30 languages in 2014. This was followed by the development of 
+for incorporating morphology was made by Tsarfaty (2013). The second version of HamleDT (Rosa et al., 2014)
+provided Stanford/Google annotation for 30 languages in 2014. This was followed by the development of
 universal Stanford dependencies (USD) (de Marneffe et al., 2014).
 The new Universal Dependencies is the result of merging all these initiatives into a single coherent framework,
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
@@ -149,7 +149,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
   <li><a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre</li>
   <li><a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc</li>
   <li><a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek</li>
-  <li><a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual</li>
+  <li><a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual, Héctor Martínez Alonso, Dan Zeman</li>
   <li><a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith</li>
   <li><a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington</li>
 </ul>
@@ -158,17 +158,17 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 
 <ul>
   <li>
-    <p>Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013. 
+    <p>Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
 <a href="http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf">Converting Italian treebanks: Towards an Italian Stanford dependency treebank</a>,
 In <em>7th Linguistic Annotation Workshop and Interoperability with Discourse</em>.</p>
   </li>
   <li>
-    <p>Pi-Chuan Chang, Huihsin Tseng, Dan Jurafsky, and Christopher D. Manning. 2009. 
-<a href="http://nlp.stanford.edu/pubs/ssst09-chang.pdf">Discriminative Reordering with Chinese Grammatical Relations Features</a>. 
+    <p>Pi-Chuan Chang, Huihsin Tseng, Dan Jurafsky, and Christopher D. Manning. 2009.
+<a href="http://nlp.stanford.edu/pubs/ssst09-chang.pdf">Discriminative Reordering with Chinese Grammatical Relations Features</a>.
 In <em>Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation</em>.</p>
   </li>
   <li>
-    <p>Dipanjan Das, and Slav Petrov. 2011. 
+    <p>Dipanjan Das, and Slav Petrov. 2011.
 <a href="http://static.googleusercontent.com/media/research.google.com/sv//pubs/archive/37071.pdf">Unsupervised part-of-speech tagging with bilingual graph-based projections</a>
 In <em>Proceedings of ACL</em>.</p>
   </li>
@@ -177,17 +177,17 @@ In <em>Proceedings of ACL</em>.</p>
 <a href="http://dx.doi.org/10.1007/s10579-013-9244-1">Building the essential resources for Finnish: the Turku Dependency Treebank</a>. Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.</p>
   </li>
   <li>
-    <p>Janna Lipenkova and Milan Souček. 2014. <a href="http://www.aclweb.org/anthology/E14-4028">Converting Russian Dependency Treebank to Stanford Typed 
+    <p>Janna Lipenkova and Milan Souček. 2014. <a href="http://www.aclweb.org/anthology/E14-4028">Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation</a>. In <em>Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics</em>, pp. 143-147.</p>
   </li>
   <li>
-    <p>Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006. 
-<a href="http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf">Generating typed dependency parses from phrase structure parses</a>. 
+    <p>Marie-Catherine de Marneffe, Bill MacCartney, and Christopher D. Manning. 2006.
+<a href="http://nlp.stanford.edu/pubs/LREC06_dependencies.pdf">Generating typed dependency parses from phrase structure parses</a>.
 In <em>Proceedings of LREC</em>.</p>
   </li>
   <li>
-    <p>Marie-Catherine de Marneffe and Christopher D. Manning. 2008. 
-<a href="http://nlp.stanford.edu/pubs/dependencies-coling08.pdf">The Stanford typed dependencies representation</a>. 
+    <p>Marie-Catherine de Marneffe and Christopher D. Manning. 2008.
+<a href="http://nlp.stanford.edu/pubs/dependencies-coling08.pdf">The Stanford typed dependencies representation</a>.
 In <em>COLING Workshop on Cross-framework and Cross-domain Parser Evaluation</em>.</p>
   </li>
   <li>
@@ -199,7 +199,7 @@ In <em>Proceedings of LREC</em>.</p>
   </li>
   <li>
     <p>Ryan McDonald, and Joakim Nivre. 2007.
-<a href="http://www.aclweb.org/anthology/D/D07/D07-1013.pdf">Characterizing the errors of data-driven dependency parsing models</a>. 
+<a href="http://www.aclweb.org/anthology/D/D07/D07-1013.pdf">Characterizing the errors of data-driven dependency parsing models</a>.
 In <em>Proceedings of EMNLP-CoNLL</em>.</p>
   </li>
   <li>
@@ -226,7 +226,7 @@ In <em>Proceedings of LREC</em>.
   </li>
   <li>
     <p>Mojgan Seraji, Carina Jahani, Beáta Megyesi, and Joakim Nivre. 2013.
-<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf">A Persian treebank with Stanford typed dependencies</a>. 
+<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf">A Persian treebank with Stanford typed dependencies</a>.
 In <em>Proceedings of LREC</em>.</p>
   </li>
   <li>
