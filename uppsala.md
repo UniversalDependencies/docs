@@ -42,7 +42,7 @@ Based on the group reports, issues can be sorted into two groups:
 4. Verb particles: the relation should be [u-dep/compound]() (optionally with subtype "prt"), not [u-dep/mark]().
 5. Reflexives: the relation should be [u-dep/dobj](), [u-dep/iobj]() or [u-dep/expl]() (not [u-dep/compound]()).
 6. Determiners: the relation [u-dep/det]() is (for now) compatible with [u-pos/DET](), [u-pos/PRON]() and [u-pos/ADJ](), but not with [u-pos/NOUN](), [u-pos/PROPN]() and [u-pos/NUM]().
-7. Multiword abbreviations: if abbreviations like "e.g." are split into two words, the [u-dep/mwe]() relation should be used.
+7. Multiword abbreviations: abbreviations without spaces (such as "etc." or "e.g.") should not be split into their components; when several abbreviated words form a phrase, the usual principles apply, that is, we prefer a compositional analysis and resort to the [u-dep/mwe]() only when such an analysis would be arbitrary and misleading.
 8. Compounds: the relation [u-dep/compound]() should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.
 9. Single root: in every tree there is just one node with the `root` dependency relation. If there is no clear main constituent because of ellipsis, the leftmost orphan is promoted to the head position and the other orphans are attached to it.
 10. Dates: in day-month-year expressions, the year always depends on the month; the month depends on the day if this is indicated by case marking, otherwise the day depends on the month; the relations should be [u-dep/nummod]() if numerical, otherwise [u-dep/nmod]() or [u-dep/amod]() depending on whether the dependents have nominal or adjectival form. 
