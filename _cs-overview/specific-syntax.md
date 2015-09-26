@@ -6,6 +6,60 @@ permalink: cs/overview/specific-syntax.html
 
 # Specific constructions
 
+## Clausal structures
+
+### Reflexive pronouns
+
+Czech has a [cs-feat/Reflex](reflexive) personal pronoun that takes different forms in
+different [cs-feat/Case](cases) and these forms differ from the normal, irreflexive pronouns:
+
+<table>
+<tr><td><b>Case:</b></td><td>Gen</td><td>Dat</td><td>Acc</td><td>Loc</td><td>Ins</td></tr>
+<tr><td><b>Clitic:</b></td><td></td><td><i>si</i></td><td><i>se</i></td><td></td><td></td></tr>
+<tr><td><b>Full:</b></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebou</i></td></tr>
+</table>
+
+The clitic forms _se, si_ are very frequent and serve various purposes.
+Their default function is to represent object that is identical to the subject of the same
+verb. The test is that they could be substituted by a normal personal pronoun.
+Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
+
+* _Jan <b>se</b> bude bránit._ “Jan will defend himself.”
+  (`dobj`; substitution is grammatical:
+  _Jan <b>ho</b> bude bránit._ “Jan will defend him.”)
+* _Barbora <b>si</b> přidělí osobního strážce._ “Barbora will assign herself a bodyguard.”
+  (`iobj`; substitution is grammatical:
+  _Barbora <b>jí</b> přidělí osobního strážce._ “Barbora will assign her a bodyguard.”)
+
+The Czech reflexive pronoun is also used in reciprocal actions where other languages use
+a special reciprocal pronoun. These instances are still attached as `dobj` or `iobj`,
+respectively:
+
+* _Jan a Marie <b>se</b> políbili._ “Jan and Marie kissed each other.”
+* _Jan a Marie <b>si</b> to řekli._ “Jan and Marie told that each other.”
+
+The reflexive pronoun can be used to form a passive construction.
+This is called reflexive passive; there is also the “normal” passive built with the passive
+participle and the auxiliary verb _být_ “to be”.
+Reflexive pronoun that forms a reflexive passive is attached as [cs-dep/auxpass:reflex]().
+
+~~~ sdparse
+To se řekne snadno . \n It is said easily .
+auxpass:reflex(řekne, se)
+auxpass:reflex(said, is)
+~~~
+
+Finally there are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
+prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any other nominal.
+
+With these verbs, the reflexive pronoun is attached as [cs-dep/expl]().
+
+~~~ sdparse
+Martin se bojí zvířat . \n Martin REFLEX fears animals .
+expl(bojí, se)
+expl(fears, REFLEX)
+~~~
+
 ## Adjectival and adverbial constructions
 
 ### Comparatives (degree)
