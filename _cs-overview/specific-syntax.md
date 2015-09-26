@@ -31,12 +31,39 @@ Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
   (`iobj`; substitution is grammatical:
   _Barbora <b>jí</b> přidělí osobního strážce._ “Barbora will assign her a bodyguard.”)
 
+~~~ sdparse
+Jan se bude bránit . \n Jan himself will defend .
+dobj(bránit, se)
+dobj(defend, himself)
+~~~
+
+~~~ sdparse
+Barbora si přidělí strážce . \n Barbora herself will-assign bodyguard .
+iobj(přidělí, si)
+iobj(will-assign, herself)
+~~~
+
 The Czech reflexive pronoun is also used in reciprocal actions where other languages use
 a special reciprocal pronoun. These instances are still attached as `dobj` or `iobj`,
 respectively:
 
 * _Jan a Marie <b>se</b> políbili._ “Jan and Marie kissed each other.”
 * _Jan a Marie <b>si</b> to řekli._ “Jan and Marie told that each other.”
+
+~~~ sdparse
+Jan a Marie se políbili . \n Jan and Marie each-other kissed .
+dobj(políbili, se)
+dobj(kissed, each-other)
+~~~
+
+If the reflexive pronoun can be substituted by another nominal but it is not a core argument
+(object) of the verb, it will be attached as [cs-dep/nmod]().
+
+~~~ sdparse
+Zuzana si opřela kolo o zeď . \n Zuzana for-herself propped bike against wall .
+nmod(opřela, si)
+nmod(propped, for-herself)
+~~~
 
 The reflexive pronoun can be used to form a passive construction.
 This is called reflexive passive; there is also the “normal” passive built with the passive
@@ -49,7 +76,7 @@ auxpass:reflex(řekne, se)
 auxpass:reflex(said, is)
 ~~~
 
-Finally there are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
+There are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
 prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any other nominal.
 
 With these verbs, the reflexive pronoun is attached as [cs-dep/expl]().
@@ -58,6 +85,24 @@ With these verbs, the reflexive pronoun is attached as [cs-dep/expl]().
 Martin se bojí zvířat . \n Martin REFLEX fears animals .
 expl(bojí, se)
 expl(fears, REFLEX)
+~~~
+
+If a reflexive verb (inherently or not) has been turned to a verbal noun, the reflexive
+pronoun is attached to the noun as [cs-dep/nmod]():
+
+~~~ sdparse
+Jediným cílem je utvrzení se v pocitu , že … \n Only goal is strengthening oneself in feeling , that …
+nmod(utvrzení, se)
+nmod(strengthening, oneself)
+~~~
+
+Finally, the dative reflexive _si_ is sometimes used in situations where it is redundant.
+Such instances are attached as [cs-dep/discourse]():
+
+~~~ sdparse
+Klaus si odsloužil 154 dnů . \n Klaus himself served-out 154 days .
+discourse(odsloužil, si)
+discourse(served-out, himself)
 ~~~
 
 ## Adjectival and adverbial constructions
