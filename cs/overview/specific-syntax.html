@@ -61,6 +61,16 @@ Such instances are attached to the verb as <a href="">cs-dep/dobj</a> or <a href
 <em>Barbora <b>jí</b> přidělí osobního strážce.</em> “Barbora will assign her a bodyguard.”)</li>
 </ul>
 
+<pre><code class="language-sdparse">Jan se bude bránit . \n Jan himself will defend .
+dobj(bránit, se)
+dobj(defend, himself)
+</code></pre>
+
+<pre><code class="language-sdparse">Barbora si přidělí strážce . \n Barbora herself will-assign bodyguard .
+iobj(přidělí, si)
+iobj(will-assign, herself)
+</code></pre>
+
 <p>The Czech reflexive pronoun is also used in reciprocal actions where other languages use
 a special reciprocal pronoun. These instances are still attached as <code>dobj</code> or <code>iobj</code>,
 respectively:</p>
@@ -69,6 +79,19 @@ respectively:</p>
   <li><em>Jan a Marie <b>se</b> políbili.</em> “Jan and Marie kissed each other.”</li>
   <li><em>Jan a Marie <b>si</b> to řekli.</em> “Jan and Marie told that each other.”</li>
 </ul>
+
+<pre><code class="language-sdparse">Jan a Marie se políbili . \n Jan and Marie each-other kissed .
+dobj(políbili, se)
+dobj(kissed, each-other)
+</code></pre>
+
+<p>If the reflexive pronoun can be substituted by another nominal but it is not a core argument
+(object) of the verb, it will be attached as <a href="">cs-dep/nmod</a>.</p>
+
+<pre><code class="language-sdparse">Zuzana si opřela kolo o zeď . \n Zuzana for-herself propped bike against wall .
+nmod(opřela, si)
+nmod(propped, for-herself)
+</code></pre>
 
 <p>The reflexive pronoun can be used to form a passive construction.
 This is called reflexive passive; there is also the “normal” passive built with the passive
@@ -80,7 +103,7 @@ auxpass:reflex(řekne, se)
 auxpass:reflex(said, is)
 </code></pre>
 
-<p>Finally there are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
+<p>There are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
 prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any other nominal.</p>
 
 <p>With these verbs, the reflexive pronoun is attached as <a href="">cs-dep/expl</a>.</p>
@@ -88,6 +111,22 @@ prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any o
 <pre><code class="language-sdparse">Martin se bojí zvířat . \n Martin REFLEX fears animals .
 expl(bojí, se)
 expl(fears, REFLEX)
+</code></pre>
+
+<p>If a reflexive verb (inherently or not) has been turned to a verbal noun, the reflexive
+pronoun is attached to the noun as <a href="">cs-dep/nmod</a>:</p>
+
+<pre><code class="language-sdparse">Jediným cílem je utvrzení se v pocitu , že … \n Only goal is strengthening oneself in feeling , that …
+nmod(utvrzení, se)
+nmod(strengthening, oneself)
+</code></pre>
+
+<p>Finally, the dative reflexive <em>si</em> is sometimes used in situations where it is redundant.
+Such instances are attached as <a href="">cs-dep/discourse</a>:</p>
+
+<pre><code class="language-sdparse">Klaus si odsloužil 154 dnů . \n Klaus himself served-out 154 days .
+discourse(odsloužil, si)
+discourse(served-out, himself)
 </code></pre>
 
 <h2 id="adjectival-and-adverbial-constructions">Adjectival and adverbial constructions</h2>
