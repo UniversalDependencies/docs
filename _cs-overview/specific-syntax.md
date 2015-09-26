@@ -13,7 +13,7 @@ permalink: cs/overview/specific-syntax.html
 Czech has a [reflexive](cs-feat/Reflex) personal pronoun that takes different forms in
 different [cases](cs-feat/Case) and these forms differ from the normal, irreflexive pronouns:
 
-<table border="1">
+<table>
 <tr><td><strong>Case:</strong></td><td>Gen</td><td>Dat</td><td>Acc</td><td>Loc</td><td>Ins</td></tr>
 <tr><td><strong>Clitic:</strong></td><td></td><td><i>si</i></td><td><i>se</i></td><td></td><td></td></tr>
 <tr><td><strong>Full:</strong></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebou</i></td></tr>
