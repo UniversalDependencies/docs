@@ -10,13 +10,13 @@ permalink: cs/overview/specific-syntax.html
 
 ### Reflexive pronouns
 
-Czech has a [cs-feat/Reflex](reflexive) personal pronoun that takes different forms in
-different [cs-feat/Case](cases) and these forms differ from the normal, irreflexive pronouns:
+Czech has a [reflexive](cs-feat/Reflex) personal pronoun that takes different forms in
+different [cases](cs-feat/Case) and these forms differ from the normal, irreflexive pronouns:
 
 <table>
-<tr><td><b>Case:</b></td><td>Gen</td><td>Dat</td><td>Acc</td><td>Loc</td><td>Ins</td></tr>
-<tr><td><b>Clitic:</b></td><td></td><td><i>si</i></td><td><i>se</i></td><td></td><td></td></tr>
-<tr><td><b>Full:</b></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebou</i></td></tr>
+<tr><td><strong>Case:</strong></td><td>Gen</td><td>Dat</td><td>Acc</td><td>Loc</td><td>Ins</td></tr>
+<tr><td><strong>Clitic:</strong></td><td></td><td><i>si</i></td><td><i>se</i></td><td></td><td></td></tr>
+<tr><td><strong>Full:</strong></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebou</i></td></tr>
 </table>
 
 The clitic forms _se, si_ are very frequent and serve various purposes.
