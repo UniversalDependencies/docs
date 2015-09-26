@@ -3,7 +3,7 @@
 <html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title>compound:reflex</title>
+    <title>expl</title>
     <link rel="root" href="../../"/> <!-- for JS -->
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
@@ -18,7 +18,7 @@
 	
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/#language-cs">home</a></span>
           <span class="header-text"><a href="http://universaldependencies.github.io/docs/cs/dep">cs/dep</a></span>
-          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound-reflex.md" target="#">edit page</a></span>
+          <span class="header-text"><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/expl.md" target="#">edit page</a></span>
           <span class="header-text"><a href="https://github.com/universaldependencies/docs/issues">issue tracker</a></span>
       </div>
 
@@ -32,22 +32,64 @@
 	  </div>
 	</noscript>
 
-          <h2><code>compound:reflex</code>: reflexive verb</h2>
+          <h2><code>expl</code>: expletive: reflexive pronoun with an inherently reflexive verb</h2>
 
 <p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
 However, some verbs are inherently reflexive, i.e. the verb always occurs with a reflexive
-prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.
-With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
-but as a special sort of <code>compound</code> relation.</p>
+prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.</p>
+
+<p>With these verbs, the reflexive pronoun is attached as <code>expl</code> instead of <a href="">dobj</a>.
+(Note that the <code>expl</code> relation is first used for this purpose in the UD release 1.2,
+to increase parallelism with other languages. In the previous releases this usage of
+reflexive <em>se/si</em> was labeled <code>compound:reflex</code>.)</p>
 
 <pre><code class="language-sdparse">Martin se bojí zvířat . \n Martin REFLEX fears animals .
-compound:reflex(bojí, se)
-compound:reflex(fears, REFLEX)
+expl(bojí, se)
+expl(fears, REFLEX)
 </code></pre>
 
 
 <!-- "in other languages" links -->
 <hr/>
+
+expl in other languages:
+
+[<a href="../../bg/dep/expl.html">bg</a>]
+
+[<a href="../../cs/dep/expl.html">cs</a>]
+
+[<a href="../../de/dep/expl.html">de</a>]
+
+[<a href="../../el/dep/expl.html">el</a>]
+
+[<a href="../../en/dep/expl.html">en</a>]
+
+[<a href="../../es/dep/expl.html">es</a>]
+
+[<a href="../../eu/dep/expl.html">eu</a>]
+
+[<a href="../../fa/dep/expl.html">fa</a>]
+
+[<a href="../../fi/dep/expl.html">fi</a>]
+
+[<a href="../../fr/dep/expl.html">fr</a>]
+
+[<a href="../../ga/dep/expl.html">ga</a>]
+
+[<a href="../../he/dep/expl.html">he</a>]
+
+[<a href="../../hu/dep/expl.html">hu</a>]
+
+[<a href="../../it/dep/expl.html">it</a>]
+
+[<a href="../../ja/dep/expl.html">ja</a>]
+
+[<a href="../../ko/dep/expl.html">ko</a>]
+
+[<a href="../../sv/dep/expl.html">sv</a>]
+
+[<a href="../../u/dep/expl.html">u</a>]
+
 
 
 

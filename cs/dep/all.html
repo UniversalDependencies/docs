@@ -113,7 +113,7 @@ in two places.</p>
 	  <td><a>punct</a></td>
 	</tr>
 	<tr>
-	  <td><strike>expl</strike></td>
+	  <td><a>expl</a></td>
 	  <td>↳<a>auxpass:reflex</a></td>
 	</tr>
 	<tr>
@@ -182,9 +182,9 @@ in two places.</p>
 	  <td><a>goeswith</a></td>
 	</tr>
 	<tr>
-	  <td>↳<a>compound:reflex</a></td>
 	  <td><a>name</a></td>
 	  <td><a>foreign</a></td>
+	  <td></td>
 	</tr>
       </table>
 
@@ -674,22 +674,6 @@ compound(thousand, five)
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound.md" target="#">edit compound</a></p>
 
-<p><a id="al-cs-dep/compound:reflex" class="al-dest"></a></p>
-<h2><code>compound:reflex</code>: reflexive verb</h2>
-
-<p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
-However, some verbs are inherently reflexive, i.e. the verb always occurs with a reflexive
-prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.
-With these verbs, the reflexive pronoun is not attached as <a href="">dobj</a>
-but as a special sort of <code>compound</code> relation.</p>
-
-<pre><code class="language-sdparse">Martin se bojí zvířat . \n Martin REFLEX fears animals .
-compound:reflex(bojí, se)
-compound:reflex(fears, REFLEX)
-</code></pre>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/compound-reflex.md" target="#">edit compound:reflex</a></p>
-
 <p><a id="al-cs-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
@@ -1050,6 +1034,25 @@ could be used to identify the main object.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/dobj.md" target="#">edit dobj</a></p>
 
+<p><a id="al-cs-dep/expl" class="al-dest"></a></p>
+<h2><code>expl</code>: expletive: reflexive pronoun with an inherently reflexive verb</h2>
+
+<p>Reflexive pronouns (see the feature <a href="">cs-feat/Reflex</a>) usually replace objects of verbs.
+However, some verbs are inherently reflexive, i.e. the verb always occurs with a reflexive
+prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.</p>
+
+<p>With these verbs, the reflexive pronoun is attached as <code>expl</code> instead of <a href="">dobj</a>.
+(Note that the <code>expl</code> relation is first used for this purpose in the UD release 1.2,
+to increase parallelism with other languages. In the previous releases this usage of
+reflexive <em>se/si</em> was labeled <code>compound:reflex</code>.)</p>
+
+<pre><code class="language-sdparse">Martin se bojí zvířat . \n Martin REFLEX fears animals .
+expl(bojí, se)
+expl(fears, REFLEX)
+</code></pre>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/expl.md" target="#">edit expl</a></p>
+
 <p><a id="al-cs-dep/foreign" class="al-dest"></a></p>
 <h2><code>foreign</code>: foreign words</h2>
 
@@ -1145,9 +1148,9 @@ more objects, one of them should be <a href="">dobj</a> and the others should be
 <code>iobj</code>. In such cases it is necessary to decide what is the
 most directly affected object <em>(patient).</em></p>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-1">Diffs</h2>
 
-<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+<h3 id="prague-dependency-treebank-1">Prague Dependency Treebank</h3>
 
 <p>The manual annotation of the PDT does not distinguish direct and indirect objects.
 Therefore all non-clausal dependents labeled <code>Obj</code> in PDT are currently labeled <code>dobj</code>
@@ -1178,9 +1181,9 @@ appos(tel.:-3, 555-9814-4)
 appos(e-mail:-5, jones@abc.edf-6)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-2">Diffs</h2>
 
-<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+<h3 id="prague-dependency-treebank-2">Prague Dependency Treebank</h3>
 
 <p>The <code>list</code> relation is not used in the current conversion of the PDT data to UD.</p>
 
@@ -1267,15 +1270,21 @@ mwe(on, basis)
 <h2><code>name</code>: personal name</h2>
 
 <p><code>name</code> is one of the relations for compounding in UD.
-In Czech it is used to join the first (or middle) and the last name of a person.
-We keep the PDT rule that the family name is the head and the given name(s) is/are its modifier(s).</p>
+In Czech it is used to join the first (or middle) and the last name of a person.</p>
+
+<p>The leftmost name is always the head and the other name(s) are attached to it.
+In most cases this is the opposite to PDT where family names are heads and given names are dependents,
+and the family name is usually the last name.</p>
+
+<p>The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc.
+(e.g. <em>Český Krumlov</em>).</p>
 
 <pre><code class="language-sdparse">Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
-name(Havel-3, Václav-2)
-nmod(Havel-3, Prezident)
+name(Václav-2, Havel-3)
+name(Václav-11, Havel-12)
+nmod(Václav-2, Prezident)
+nmod(Václav-11, President)
 amod(Krumlov-7, Český-6)
-name(Havel-12, Václav-11)
-nmod(Havel-12, President)
 amod(Krumlov-16, Český-15)
 </code></pre>
 
@@ -1875,9 +1884,9 @@ parataxis(rozšiřuje, jde)
 parataxis(extended, concerns)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-3">Diffs</h2>
 
-<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+<h3 id="prague-dependency-treebank-3">Prague Dependency Treebank</h3>
 
 <p>At present the PDT data converted to UD use <code>parataxis</code> only for interjected parentheticals.
 The other examples above are analyzed differently (legacy PDT structure).</p>
@@ -1964,9 +1973,9 @@ remnant(hovězí, vepřové)
 remnant(beef, pork)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-4">Diffs</h2>
 
-<h3 id="prague-dependency-treebank">Prague Dependency Treebank</h3>
+<h3 id="prague-dependency-treebank-4">Prague Dependency Treebank</h3>
 
 <p>At present the conversion of the PDT data to UD does not handle ellipsis properly
 and the <code>remnant</code> relation is not used.</p>
@@ -2004,29 +2013,31 @@ root(ROOT-1, Miluju)
 root(ROOT-7, I-love)
 </code></pre>
 
-<p>In case of
-<a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">ellipsis</a>
-there can be multiple <em>top nodes</em> attached to the <code>ROOT</code> node.
-This happens with sentence-like segments that lack the main verb:
+<p>Since release 1.2 of the Czech UD treebank,
+there is just one node with the <code>root</code> dependency relation in every
+tree. If the main predicate is not present (due to
+<a href="http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis">ellipsis</a>)
+and there are
+multiple orphaned dependents, the leftmost dependent is promoted to
+the head (root) position and the other orphans are attached to it.</p>
+
+<p>An example sentence-like segment that lacks the main verb:
 <em>A co na to [říká] MF?</em>
-“And what [does] MF [say] to it?”
-If there is just one orphaned noun phrase, it is promoted to the top position and its head is
-labeled <code>root</code>.
-However, if there are multiple orphans, each of them is attached to the root and we get multiple top nodes:</p>
+“And what [does] MF [say] to it?”</p>
 
 <pre><code class="language-sdparse">ROOT A co na to MF ? \n ROOT And what to it MF ?
 root(ROOT-1, A)
 root(ROOT-9, And)
-root(ROOT-1, co)
-root(ROOT-9, what)
-root(ROOT-1, to-5)
-root(ROOT-9, it)
+dobj(A, co)
+dobj(And, what)
+nmod(A, to-5)
+nmod(And, it)
 case(to-5, na)
 case(it, to-12)
-root(ROOT-1, MF-6)
-root(ROOT-9, MF-14)
-root(ROOT-1, ?-7)
-root(ROOT-9, ?-15)
+nsubj(A, MF-6)
+nsubj(And, MF-14)
+punct(A, ?-7)
+punct(And, ?-15)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_cs-dep/root.md" target="#">edit root</a></p>
