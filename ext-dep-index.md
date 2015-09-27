@@ -45,8 +45,6 @@ Labels of language-specific relations explictly encode the core UD relation that
 [English](en-dep/compound:prt)
 [German](de-dep/compound:prt)
 [Swedish](sv-dep/compound:prt)
-- compound:reflex
-[Czech](cs-dep/compound:reflex)
 
 
 ## csubj
