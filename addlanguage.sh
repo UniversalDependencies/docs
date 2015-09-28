@@ -5,6 +5,8 @@
 ### sure what you're doing and know how to clean up the repo if
 ### anything goes wrong.
 
+# Usage example: addlanguage.sh ar Arabic
+
 set -u
 set -e
 
