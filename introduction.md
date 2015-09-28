@@ -88,7 +88,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
 * <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug
-* <a href="index.html#language-ar">Arabic</a>: Nizar Habash
+* <a href="index.html#language-ar">Arabic</a>: Nizar Habash, Dan Zeman
 * <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
 * <a href="index.html#language-bg">Bulgarian</a>: Kiril Simov, Petya Osenova
