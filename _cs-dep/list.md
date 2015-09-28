@@ -15,12 +15,12 @@ using the grammatical relations of standard sentences, such as when there is ove
 then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
 
 ~~~ sdparse
-Steve Jones Phone: 555-9814 Email: jones@abc.edf
+Steve Jones tel.: 555-9814 e-mail: jones@abc.edf
 name(Steve-1, Jones-2)
-list(Steve-1, Phone:-3)
-list(Steve-1, Email:-5)
-appos(Phone:-3, 555-9814-4)
-appos(Email:-5, jones@abc.edf-6)
+list(Steve-1, tel.:-3)
+list(Steve-1, e-mail:-5)
+appos(tel.:-3, 555-9814-4)
+appos(e-mail:-5, jones@abc.edf-6)
 ~~~
 
 ## Diffs
