@@ -651,7 +651,6 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 [CoNLL-U format](format.html)
-
 </div>
 
 
