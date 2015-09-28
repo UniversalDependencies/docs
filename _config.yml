@@ -427,6 +427,20 @@ collections:
   ca-overview:
     output: true
 #
+# Arabic
+#
+  ar-pos:
+    output: true
+    permalink: /ar/pos/:path.html
+  ar-feat:
+    output: true
+    permalink: /ar/feat/:path.html
+  ar-dep:
+    output: true
+    permalink: /ar/dep/:path.html
+  ar-overview:
+    output: true
+#
 # Template
 #
   template-pos:
