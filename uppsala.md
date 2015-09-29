@@ -40,7 +40,7 @@ Based on the group reports, issues can be sorted into two groups:
 2. Names: the relation [u-dep/name]() is always left-to-right (head-initial).
 3. Infinitive markers: the relation should be [u-dep/mark]() (not [u-dep/aux]()); the postag may vary depending on language but [u-pos/PART]() is the default.
 4. Verb particles: the relation should be [u-dep/compound]() (optionally with subtype "prt"), not [u-dep/mark]().
-5. Reflexives: the relation should be [u-dep/dobj](), [u-dep/iobj]() or [u-dep/expl]() (not [u-dep/compound]()).
+5. Reflexives: the relation should be [u-dep/dobj](), [u-dep/iobj]() or [u-dep/expl]() (not [u-dep/compound]()). (For inherent reflexives, [u-dep/expl]() should be used; see the discussion in that relations documentation.)
 6. Determiners: the relation [u-dep/det]() is (for now) compatible with [u-pos/DET](), [u-pos/PRON]() and [u-pos/ADJ](), but not with [u-pos/NOUN](), [u-pos/PROPN]() and [u-pos/NUM]().
 7. Multiword abbreviations: abbreviations without spaces (such as "etc." or "e.g.") should not be split into their components; when several abbreviated words form a phrase, the usual principles apply, that is, we prefer a compositional analysis and resort to the [u-dep/mwe]() only when such an analysis would be arbitrary and misleading.
 8. Compounds: the relation [u-dep/compound]() should only be used for X<sup>0</sup> compounding, not for (other types of) multiword expressions.
