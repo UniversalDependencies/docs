@@ -73,7 +73,7 @@ iobj(izprati, rabotnika)
 case(rabotnika, na)
 ~~~
 
-The expletive relation is also used for reflexive pronouns (see the feature [cs-feat/Reflex]())
+The expletive relation is also used for reflexive pronouns (see the feature [u-feat/Reflex]())
 attached to inherently reflexive verbs, i.e. verbs that cannot occur without the reflexive
 pronoun and thus the pronoun does not play the role of a normal object
 (otherwise it would be possible to substitute it with an irreflexive pronoun or other nominal).
