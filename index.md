@@ -47,6 +47,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-et">Estonian</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -670,6 +671,26 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](ar/overview/syntax.html)
   * [Specific constructions](ar/overview/specific-syntax.html)
   * [Arabic dependency relations](ar/dep/index.html) ([single document](ar/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Estonian" tab -->
+<div id="language-et" markdown="1" class="ui-tabs-hide">
+{% include et-status-table.html %}
+
+[Introduction](et/overview/introduction.html)
+
+* [Tokenization](et/overview/tokenization.html)
+* Morphology
+  * [General principles](et/overview/morphology.html)
+  * [Estonian POS tags](et/pos/index.html) ([single document](et/pos/all.html))
+  * [Estonian features](et/feat/index.html) ([single document](et/feat/all.html))
+* Syntax
+  * [General principles](et/overview/syntax.html)
+  * [Specific constructions](et/overview/specific-syntax.html)
+  * [Estonian dependency relations](et/dep/index.html) ([single document](et/dep/all.html))
 
 [CoNLL-U format](format.html)
 

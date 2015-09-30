@@ -441,6 +441,20 @@ collections:
   ar-overview:
     output: true
 #
+# Estonian
+#
+  et-pos:
+    output: true
+    permalink: /et/pos/:path.html
+  et-feat:
+    output: true
+    permalink: /et/feat/:path.html
+  et-dep:
+    output: true
+    permalink: /et/dep/:path.html
+  et-overview:
+    output: true
+#
 # Template
 #
   template-pos:
