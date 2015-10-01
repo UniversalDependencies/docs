@@ -28,8 +28,12 @@ and downloaded from
 [http://kodu.ut.ee/~kaili/Korpus/puud/](http://kodu.ut.ee/~kaili/Korpus/puud/).
 It is a rather small treebank, consisting of 1315 sentences (9491 tokens).
 
-A new Estonian Dependency Treebank is being prepared at the University of Tartu but it is not
-available yet.
+## Estonian Dependency Treebank
+
+[EDT](https://www.keeletehnoloogia.ee/et/ekt-projektid/vahendid-teksti-mitmekihiliseks-margendamiseks-rakendatuna-koondkorpusele/pakitud-soltuvuspuude-pank/view)
+is a new treebank released by the University of Tartu in 2014. Its authors are working on its
+conversion to Universal Dependencies. Once it is ready, it will probably replace the Arborest
+dataset here.
 
 ## Acknowledgments
 
