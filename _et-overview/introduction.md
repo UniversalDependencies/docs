@@ -23,9 +23,9 @@ generating VISL-style phrase structure from CG-annotated text.
 developed in the VISL project.
 
 The experimental VISL-style Estonian Treebank can be searched at
-[http://corp.hum.sdu.dk/arborest.html]()
+[http://corp.hum.sdu.dk/arborest.html](http://corp.hum.sdu.dk/arborest.html)
 and downloaded from
-[http://kodu.ut.ee/~kaili/Korpus/puud/]().
+[http://kodu.ut.ee/~kaili/Korpus/puud/](http://kodu.ut.ee/~kaili/Korpus/puud/).
 It is a rather small treebank, consisting of 1315 sentences (9491 tokens).
 
 A new Estonian Dependency Treebank is being prepared at the University of Tartu but it is not
