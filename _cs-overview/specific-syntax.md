@@ -6,6 +6,105 @@ permalink: cs/overview/specific-syntax.html
 
 # Specific constructions
 
+## Clausal structures
+
+### Reflexive pronouns
+
+Czech has a [reflexive](cs-feat/Reflex) personal pronoun that takes different forms in
+different [cases](cs-feat/Case) and these forms differ from the normal, irreflexive pronouns:
+
+<table>
+<tr><td><strong>Case:</strong></td><td>Gen</td><td>Dat</td><td>Acc</td><td>Loc</td><td>Ins</td></tr>
+<tr><td><strong>Clitic:</strong></td><td></td><td><i>si</i></td><td><i>se</i></td><td></td><td></td></tr>
+<tr><td><strong>Full:</strong></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebe</i></td><td><i>sobě</i></td><td><i>sebou</i></td></tr>
+</table>
+
+The clitic forms _se, si_ are very frequent and serve various purposes.
+Their default function is to represent object that is identical to the subject of the same
+verb. The test is that they could be substituted by a normal personal pronoun.
+Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
+
+* _Jan <b>se</b> bude bránit._ “Jan will defend himself.”
+  (`dobj`; substitution is grammatical:
+  _Jan <b>ho</b> bude bránit._ “Jan will defend him.”)
+* _Barbora <b>si</b> přidělí osobního strážce._ “Barbora will assign herself a bodyguard.”
+  (`iobj`; substitution is grammatical:
+  _Barbora <b>jí</b> přidělí osobního strážce._ “Barbora will assign her a bodyguard.”)
+
+~~~ sdparse
+Jan se bude bránit . \n Jan himself will defend .
+dobj(bránit, se)
+dobj(defend, himself)
+~~~
+
+~~~ sdparse
+Barbora si přidělí strážce . \n Barbora herself will-assign bodyguard .
+iobj(přidělí, si)
+iobj(will-assign, herself)
+~~~
+
+The Czech reflexive pronoun is also used in reciprocal actions where other languages use
+a special reciprocal pronoun. These instances are still attached as `dobj` or `iobj`,
+respectively:
+
+* _Jan a Marie <b>se</b> políbili._ “Jan and Marie kissed each other.”
+* _Jan a Marie <b>si</b> to řekli._ “Jan and Marie told that each other.”
+
+~~~ sdparse
+Jan a Marie se políbili . \n Jan and Marie each-other kissed .
+dobj(políbili, se)
+dobj(kissed, each-other)
+~~~
+
+If the reflexive pronoun can be substituted by another nominal but it is not a core argument
+(object) of the verb, it will be attached as [cs-dep/nmod]().
+
+~~~ sdparse
+Zuzana si opřela kolo o zeď . \n Zuzana for-herself propped bike against wall .
+nmod(opřela, si)
+nmod(propped, for-herself)
+~~~
+
+The reflexive pronoun can be used to form a passive construction.
+This is called reflexive passive; there is also the “normal” passive built with the passive
+participle and the auxiliary verb _být_ “to be”.
+Reflexive pronoun that forms a reflexive passive is attached as [cs-dep/auxpass:reflex]().
+
+~~~ sdparse
+To se řekne snadno . \n It is said easily .
+auxpass:reflex(řekne, se)
+auxpass:reflex(said, is)
+~~~
+
+There are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
+prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any other nominal.
+
+With these verbs, the reflexive pronoun is attached as [cs-dep/expl]().
+
+~~~ sdparse
+Martin se bojí zvířat . \n Martin REFLEX fears animals .
+expl(bojí, se)
+expl(fears, REFLEX)
+~~~
+
+If a reflexive verb (inherently or not) has been turned to a verbal noun, the reflexive
+pronoun is attached to the noun as [cs-dep/nmod]():
+
+~~~ sdparse
+Jediným cílem je utvrzení se v pocitu , že … \n Only goal is strengthening oneself in feeling , that …
+nmod(utvrzení, se)
+nmod(strengthening, oneself)
+~~~
+
+Finally, the dative reflexive _si_ is sometimes used in situations where it is redundant.
+Such instances are attached as [cs-dep/discourse]():
+
+~~~ sdparse
+Klaus si odsloužil 154 dnů . \n Klaus himself served-out 154 days .
+discourse(odsloužil, si)
+discourse(served-out, himself)
+~~~
+
 ## Adjectival and adverbial constructions
 
 ### Comparatives (degree)
@@ -273,22 +372,26 @@ hence we cannot use the `remnant` analysis.
 In particular, there are sentence-like segments that lack the main verb:
 _A co na to [říká] MF?_
 “And what [does] MF [say] to it?”
-If there is just one orphaned noun phrase, it is promoted to the top position and its head is
-labeled [cs-dep/root]().
-However, if there are multiple orphans, each of them is attached to the root and we get multiple top nodes:
+
+Since release 1.2 of the Czech UD treebank,
+there is just one node with the `root` dependency relation in every
+tree; when there are
+multiple orphaned dependents at the top level of the tree,
+the leftmost dependent is promoted to
+the head (root) position and the other orphans are attached to it.
 
 ~~~ sdparse
 ROOT A co na to MF ? \n ROOT And what to it MF ?
 root(ROOT-1, A)
 root(ROOT-9, And)
-root(ROOT-1, co)
-root(ROOT-9, what)
-root(ROOT-1, to-5)
-root(ROOT-9, it)
+dobj(A, co)
+dobj(And, what)
+nmod(A, to-5)
+nmod(And, it)
 case(to-5, na)
 case(it, to-12)
-root(ROOT-1, MF-6)
-root(ROOT-9, MF-14)
-root(ROOT-1, ?-7)
-root(ROOT-9, ?-15)
+nsubj(A, MF-6)
+nsubj(And, MF-14)
+punct(A, ?-7)
+punct(And, ?-15)
 ~~~

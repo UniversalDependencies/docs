@@ -182,6 +182,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Finnish values](fi-feat/Style): Arch, Coll
 * [Interset](ext-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
 
+## Subcat
+* [Interset](ext-feat/Subcat): Intr, Trans
+
 ## Typo
 * [Finnish values](fi-feat/Typo): Yes
 * [Interset](ext-feat/Typo): Yes

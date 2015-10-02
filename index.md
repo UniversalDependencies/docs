@@ -20,6 +20,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-u">Universal</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ar">Arabic</a></li>
   <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
   <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ca">Catalan</a></li>
@@ -28,6 +29,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
   <li class="ui-state-default"><a href="#language-da">Danish</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-et">Estonian</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
   <li class="ui-state-default"><a href="#language-fr">French</a></li>
   <li class="ui-state-default"><a href="#language-de">German</a></li>
@@ -650,10 +652,49 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [Swedish relations](sv/dep/index.html) ([single document](sv/dep/all.html))
 
 [CoNLL-U format](format.html)
-
 </div>
 
 
+
+<!-- "Arabic" tab -->
+<div id="language-ar" markdown="1" class="ui-tabs-hide">
+{% include ar-status-table.html %}
+
+[Introduction](ar/overview/introduction.html)
+
+* [Tokenization](ar/overview/tokenization.html)
+* Morphology
+  * [General principles](ar/overview/morphology.html)
+  * [Arabic POS tags](ar/pos/index.html) ([single document](ar/pos/all.html))
+  * [Arabic features](ar/feat/index.html) ([single document](ar/feat/all.html))
+* Syntax
+  * [General principles](ar/overview/syntax.html)
+  * [Specific constructions](ar/overview/specific-syntax.html)
+  * [Arabic dependency relations](ar/dep/index.html) ([single document](ar/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Estonian" tab -->
+<div id="language-et" markdown="1" class="ui-tabs-hide">
+{% include et-status-table.html %}
+
+[Introduction](et/overview/introduction.html)
+
+* [Tokenization](et/overview/tokenization.html)
+* Morphology
+  * [General principles](et/overview/morphology.html)
+  * [Estonian POS tags](et/pos/index.html) ([single document](et/pos/all.html))
+  * [Estonian features](et/feat/index.html) ([single document](et/feat/all.html))
+* Syntax
+  * [General principles](et/overview/syntax.html)
+  * [Specific constructions](et/overview/specific-syntax.html)
+  * [Estonian dependency relations](et/dep/index.html) ([single document](et/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
 
 <!-- new tab template -->
 <!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
