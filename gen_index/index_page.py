@@ -27,7 +27,7 @@ import codecs
 import StringIO
 
 no_data_token_count_span="""<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>"""
-token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words">{tcountk:,}K</span></span>"""
+token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words {tree_count:,} sentences">{tcountk:,}K</span></span>"""
 def get_token_count_span(corpus_data):
     token_count=corpus_data.get("token_count",0)
     if token_count==0: #No data
@@ -58,13 +58,13 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Documentation status",u"complete"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>""",
             (u"Data source",u"unknown"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>""",
             (u"Data source",u"automatic conversion"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>""",
-            (u"Data source",u"automatic conversion + manual check"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion + manual check"><i class="fa fa-cogs"></i><!--<i class="fa fa-plus" style="font-size: 0.75em; line-height: 1.33em; vertical-align: +10%;">--><i class="fa fa-check"></i></span></span>""",
+            (u"Data source",u"automatic conversion + manual check"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion with manual corrections"><i class="fa fa-cogs"></i><!--<i class="fa fa-plus" style="font-size: 0.75em; line-height: 1.33em; vertical-align: +10%;">--><i class="fa fa-check"></i></span></span>""",
             (u"Data source",u"native UD annotation"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Manual annotation"><i class="fa fa-user"></i></span></span>""",
-            (u"License",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Data not released as of yet">-</span></span>""",
+            (u"License",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>""",
             (u"Data available since",u"UD v1.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.1"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>""",
-            (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release.">-</span></span>"""}
+            (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 license_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{license:}">{licenseshort:}</span></span>"""
 for lic in ("CC BY-NC-SA 3.0","CC BY-NC-SA 3.0 US","CC BY-NC-SA 4.0"):
