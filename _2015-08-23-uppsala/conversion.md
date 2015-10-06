@@ -32,6 +32,11 @@ At least these were mentioned, feel free to expand!
 - The Copenhagen group may release their networkx-based solution
 - Prague uses [Treex](http://ufal.mff.cuni.cz/treex/) for nearly all tree manipulations. It is a framework written in Perl and it is open-source. More details on how to use it to transform a treebank to Universal Dependencies are given at the website of [HamleDT](http://ufal.mff.cuni.cz/hamledt/) (go to the section called “Obtaining”). Treex includes [Interset](http://ufal.mff.cuni.cz/interset/), a universal tool for conversion between various morphological tagsets, including the universal POS tags and features. (Interset can be used also separately from Treex. There is an Interset-based Perl script [in our tools repository](http://github.com/UniversalDependencies/tools/blob/master/conll_convert_tags_to_uposf.pl).)
 
+## Search and visualization tools
+
+- [PML-TreeQuery](https://ufal-point.mff.cuni.cz/services/pmltq/) in Prague
+- [SETS](http://bionlp-www.utu.fi/dep_search/) in Turku
+
 ## Tokenization
 
 Nearly none of the treebanks distribute the untokenized sentences. This complicates automatic induction of tokenizers from the data. It would be great to include the untokenized text, use the [SpaceAfter](http://universaldependencies.github.io/docs/format.html) mechanism of the CoNLL-U format, or at least provide data for training the tokenizers privately.
