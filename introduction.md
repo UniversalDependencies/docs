@@ -87,7 +87,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
-* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug
+* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
 * <a href="index.html#language-ar">Arabic</a>: Nizar Habash, Dan Zeman
 * <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
@@ -113,7 +113,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
 * <a href="index.html#language-kk">Kazakh</a>: Aibek Makazhanov, Francis Tyers, Jonathan Washington
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
-* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug
+* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
 * <a href="index.html#language-no">Norwegian</a>: Lilja Øvrelid
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
