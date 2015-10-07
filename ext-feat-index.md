@@ -37,14 +37,19 @@ There are automatically generated approximate
 from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
 
 ## Abbr
+* [Arabic values](ar-feat/Abbr): Yes
 * [Czech values](cs-feat/Abbr): Yes
+* [Estonian values](et-feat/Abbr): Yes
 * [Finnish values](fi-feat/Abbr): Yes
 * [Slovenian values](sl-feat/Abbr): Yes
 * [Interset](ext-feat/Abbr): Yes
 
 
 ## AdpType
+* [Ancient Greek values](grc-feat/AdpType): Prep
+* [Arabic values](ar-feat/AdpType): Prep
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
+* [Estonian values](et-feat/AdpType): Prep, Post
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## AdvType
@@ -64,6 +69,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Echo): Rdp, Ech
 
 ## Foreign
+* [Arabic values](ar-feat/Foreign): Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
 * [Slovenian values](sl-feat/Foreign): Yes
@@ -91,6 +97,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## NameType
 * [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
+* [Estonian values](et-feat/NameType): Nat
 * [Interset](ext-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 
 ## NounType
@@ -118,11 +125,14 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/PossNumber): Sing, Plur
 
 ## NumForm
+* [Arabic values](ar-feat/NumForm): Digit, Word
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
+* [Estonian values](et-feat/NumForm): Digit, Word
 * [Slovenian values](sl-feat/NumForm): Digit, Roman, Word
 * [Interset](ext-feat/NumForm): Digit, Roman, Word
 
 ## NumValue
+* [Arabic values](ar-feat/NumValue): 1, 2, 3
 * [Czech values](cs-feat/NumValue): 1, 2, 3
 * [Interset](ext-feat/NumValue): 1, 2, 3
 
@@ -175,6 +185,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/PunctSide): Ini, Fin
 
 ## PunctType
+* [Estonian values](et-feat/PunctType): Comm, Excl, Peri, Qest
 * [Interset](ext-feat/PunctType): Peri, Qest, Excl, Quot, Brck, Comm, Colo, Semi, Dash
 
 ## Style
@@ -194,6 +205,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Slovenian values](sl-feat/Variant): Bound, Short
 
 ## VerbType
+* [Estonian values](et-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
 
 
@@ -208,6 +220,9 @@ The following features are included in the <a href="u/feat/index.html">universal
 ## PronType
 * [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
 * `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
+
+## Tense
+* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
 
 ## VerbForm
 * [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in Latin.
