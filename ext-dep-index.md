@@ -22,7 +22,10 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## advmod
 - advmod:emph
+[Ancient Greek](grc-dep/advmod:emph)
+[Arabic](ar-dep/advmod:emph)
 [Czech](cs-dep/advmod:emph)
+[Estonian](et-dep/advmod:emph)
 
 
 ## auxpass
@@ -43,6 +46,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## compound
 - compound:prt
 [English](en-dep/compound:prt)
+[Estonian](et-dep/compound:prt)
 [German](de-dep/compound:prt)
 [Swedish](sv-dep/compound:prt)
 
@@ -96,3 +100,4 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## nummod
 - nummod:gov
 [Czech](cs-dep/nummod:gov)
+[Estonian](et-dep/nummod:gov)
