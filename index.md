@@ -48,6 +48,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-pt">Portuguese</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -691,6 +692,26 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](et/overview/syntax.html)
   * [Specific constructions](et/overview/specific-syntax.html)
   * [Estonian dependency relations](et/dep/index.html) ([single document](et/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Portuguese" tab -->
+<div id="language-pt" markdown="1" class="ui-tabs-hide">
+{% include pt-status-table.html %}
+
+[Introduction](pt/overview/introduction.html)
+
+* [Tokenization](pt/overview/tokenization.html)
+* Morphology
+  * [General principles](pt/overview/morphology.html)
+  * [Portuguese POS tags](pt/pos/index.html) ([single document](pt/pos/all.html))
+  * [Portuguese features](pt/feat/index.html) ([single document](pt/feat/all.html))
+* Syntax
+  * [General principles](pt/overview/syntax.html)
+  * [Specific constructions](pt/overview/specific-syntax.html)
+  * [Portuguese dependency relations](pt/dep/index.html) ([single document](pt/dep/all.html))
 
 [CoNLL-U format](format.html)
 

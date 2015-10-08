@@ -455,6 +455,20 @@ collections:
   et-overview:
     output: true
 #
+# Portuguese
+#
+  pt-pos:
+    output: true
+    permalink: /pt/pos/:path.html
+  pt-feat:
+    output: true
+    permalink: /pt/feat/:path.html
+  pt-dep:
+    output: true
+    permalink: /pt/dep/:path.html
+  pt-overview:
+    output: true
+#
 # Template
 #
   template-pos:
