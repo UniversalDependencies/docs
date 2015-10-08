@@ -50,6 +50,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Arabic values](ar-feat/AdpType): Prep
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
 * [Estonian values](et-feat/AdpType): Prep, Post
+* [Latin values](la-feat/AdpType): Prep
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## AdvType
@@ -225,8 +226,8 @@ The following features are included in the <a href="u/feat/index.html">universal
 * [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
 
 ## VerbForm
-* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in Latin.
+* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [la-feat/VerbForm](Latin).
 
 ## Voice
-* [u-feat/Voice]()` = Mid`: middle voice in Ancient Greek. (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
+* [u-feat/Voice]()` = Mid`: middle voice in [grc-feat/Voice](Ancient Greek). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
 * `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
