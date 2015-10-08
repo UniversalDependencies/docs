@@ -26,6 +26,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Arabic](ar-dep/advmod:emph)
 [Czech](cs-dep/advmod:emph)
 [Estonian](et-dep/advmod:emph)
+[Latin](la-dep/advmod:emph)
 
 
 ## auxpass
