@@ -226,8 +226,8 @@ The following features are included in the <a href="u/feat/index.html">universal
 * [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
 
 ## VerbForm
-* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [la-feat/VerbForm](Latin).
+* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
 
 ## Voice
-* [u-feat/Voice]()` = Mid`: middle voice in [grc-feat/Voice](Ancient Greek). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
+* [u-feat/Voice]()` = Mid`: middle voice in [Ancient Greek](grc-feat/Voice). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
 * `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
