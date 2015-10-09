@@ -51,6 +51,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
 * [Estonian values](et-feat/AdpType): Prep, Post
 * [Latin values](la-feat/AdpType): Prep
+* [Portuguese values](pt-feat/AdpType): Prep
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## AdvType
@@ -91,6 +92,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Hyph
 * [Czech values](cs-feat/Hyph): Yes
+* [Portuguese values](pt-feat/Hyph): Yes
 * [Interset](ext-feat/Hyph): Yes
 
 ## InfForm
@@ -122,6 +124,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Number[psor]
 * <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
 * <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
+* [Portuguese values](pt-feat/Number-psor): Sing, Plur
 * [Slovenian values](sl-feat/Number-psor): Sing, Dual, Plur
 * [Interset](ext-feat/PossNumber): Sing, Plur
 
@@ -180,6 +183,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## PrepCase
 * [Czech values](cs-feat/PrepCase): Npr, Pre
+* [Portuguese values](pt-feat/PrepCase): Pre
 * [Interset](ext-feat/PrepCase): Npr, Pre
 
 ## PunctSide
@@ -199,6 +203,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Typo
 * [Finnish values](fi-feat/Typo): Yes
+* [Portuguese values](pt-feat/Typo): Yes
 * [Interset](ext-feat/Typo): Yes
 
 ## Variant
