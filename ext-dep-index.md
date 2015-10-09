@@ -27,11 +27,13 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Czech](cs-dep/advmod:emph)
 [Estonian](et-dep/advmod:emph)
 [Latin](la-dep/advmod:emph)
+[Portuguese](pt-dep/advmod:emph)
 
 
 ## auxpass
 - auxpass:reflex
 [Czech](cs-dep/auxpass:reflex)
+[Portuguese](pt-dep/auxpass:reflex)
 
 
 ## cc
