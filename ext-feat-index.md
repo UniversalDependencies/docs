@@ -49,6 +49,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Ancient Greek values](grc-feat/AdpType): Prep
 * [Arabic values](ar-feat/AdpType): Prep
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
+* [Dutch values](nl-feat/AdpType): Prep, Post, Circ
 * [Estonian values](et-feat/AdpType): Prep, Post
 * [Latin values](la-feat/AdpType): Prep
 * [Portuguese values](pt-feat/AdpType): Prep
@@ -73,6 +74,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Foreign
 * [Arabic values](ar-feat/Foreign): Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
+* [Dutch values](nl-feat/Foreign): Foreign
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
 * [Slovenian values](sl-feat/Foreign): Yes
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
@@ -144,6 +146,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Finnish values](fi-feat/PartForm): Pres, Past, Agt, Neg
 
 ## PartType
+* [Dutch values](nl-feat/PartType): Inf, Vbp
 * [Interset](ext-feat/PartType): Mod, Emp, Res, Inf, Vbp
 
 ## Person[abs]
@@ -187,9 +190,11 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/PrepCase): Npr, Pre
 
 ## PunctSide
+* [Dutch values](nl-feat/PunctSide): Ini, Fin
 * [Interset](ext-feat/PunctSide): Ini, Fin
 
 ## PunctType
+* [Dutch values](nl-feat/PunctType): Brck, Colo, Comm, Excl, Peri, Qest, Quot, Semi
 * [Estonian values](et-feat/PunctType): Comm, Excl, Peri, Qest
 * [Interset](ext-feat/PunctType): Peri, Qest, Excl, Quot, Brck, Comm, Colo, Semi, Dash
 
@@ -199,6 +204,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
 
 ## Subcat
+* [Dutch values](nl-feat/Subcat): Intr, Trans
 * [Interset](ext-feat/Subcat): Intr, Trans
 
 ## Typo
@@ -208,9 +214,11 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
+* [Dutch values](nl-feat/Variant): Short
 * [Slovenian values](sl-feat/Variant): Bound, Short
 
 ## VerbType
+* [Dutch values](nl-feat/VerbType): Aux, Cop, Mod
 * [Estonian values](et-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
 
