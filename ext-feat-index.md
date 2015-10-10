@@ -5,17 +5,18 @@ title:  'Language-specific features'
 
 # Additional language-specific values for universal features
 
-The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:
+The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there.
+It is likely that these values will be included in future versions of the universal set.
 
 ## Degree
-* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
+* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in [Dutch](nl-feat/Degree): _stoeltje, huisje, nippertje_)
 
 ## PronType
 * [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
 * `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
 
 ## Tense
-* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
+* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in [Ancient Greek](grc-feat/Tense). Note that other languages may have a past tense that they traditionally call aorist but they mark it using the normal `Past` value because the other past tenses have their own special values. [Bulgarian](bg-feat/Tense) is an example: Bulgarian aorist is labeled `Past` and imperfect past is labeled `Imp`.
 
 ## VerbForm
 * [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
