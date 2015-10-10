@@ -3,6 +3,29 @@ layout: base
 title:  'Language-specific features'
 ---
 
+# Additional language-specific values for universal features
+
+The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:
+
+## Degree
+* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
+
+## PronType
+* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
+* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
+
+## Tense
+* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
+
+## VerbForm
+* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
+
+## Voice
+* [u-feat/Voice]()` = Mid`: middle voice in [Ancient Greek](grc-feat/Voice). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
+* `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
+
+
+
 # Language-specific features
 
 In addition to the <a href="u/feat/index.html">universal set of features</a>,
@@ -221,26 +244,3 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Dutch values](nl-feat/VerbType): Aux, Cop, Mod
 * [Estonian values](et-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
-
-
-
-# Additional language-specific values for universal features
-
-The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:
-
-## Degree
-* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
-
-## PronType
-* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
-* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
-
-## Tense
-* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in Ancient Greek.
-
-## VerbForm
-* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
-
-## Voice
-* [u-feat/Voice]()` = Mid`: middle voice in [Ancient Greek](grc-feat/Voice). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
-* `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
