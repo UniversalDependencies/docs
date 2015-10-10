@@ -32,7 +32,38 @@
 	  </div>
 	</noscript>
 
-          <h1 id="language-specific-features">Language-specific features</h1>
+          <h1 id="additional-language-specific-values-for-universal-features">Additional language-specific values for universal features</h1>
+
+<p>The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:</p>
+
+<h2 id="degree">Degree</h2>
+<ul>
+  <li><a href="">u-feat/Degree</a><code> = Dim</code>: diminutive (used for nouns e.g. in Dutch: <em>stoeltje, huisje, nippertje</em>)</li>
+</ul>
+
+<h2 id="prontype">PronType</h2>
+<ul>
+  <li><a href="">u-feat/PronType</a><code> = Exc</code>: exclamative pronoun or determiner. It expresses the speaker’s surprise towards the modified noun, e.g. <em>what</em> in <em><b>What</b> a surprise!</em> In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).</li>
+  <li><code>PronType = Clit</code>: used for clitic pronouns in Italian, e.g. <em><b>Si</b> è rotto</em> “It has broken”</li>
+</ul>
+
+<h2 id="tense">Tense</h2>
+<ul>
+  <li><a href="">u-feat/Tense</a><code> = Aor</code>: aorist (as opposed to <code>Past</code>) in Ancient Greek.</li>
+</ul>
+
+<h2 id="verbform">VerbForm</h2>
+<ul>
+  <li><a href="">u-feat/VerbForm</a><code> = Gdv</code>: gerundive (as opposed to the gerund) in <a href="la-feat/VerbForm">Latin</a>.</li>
+</ul>
+
+<h2 id="voice">Voice</h2>
+<ul>
+  <li><a href="">u-feat/Voice</a><code> = Mid</code>: middle voice in <a href="grc-feat/Voice">Ancient Greek</a>. (The mediopassive voice can be expressed as <code>Voice=Mid,Pass</code>.)</li>
+  <li><code>Voice = Int</code>: intensive voice/aspect (the PIEL binyan) in Hebrew.</li>
+</ul>
+
+<h1 id="language-specific-features">Language-specific features</h1>
 
 <p>In addition to the <a href="u/feat/index.html">universal set of features</a>,
 it is desirable to recognize word features that are particular
@@ -330,37 +361,6 @@ from existing tagsets of various languages to the universal part-of-speech tags 
   <li><a href="nl-feat/VerbType">Dutch values</a>: Aux, Cop, Mod</li>
   <li><a href="et-feat/VerbType">Estonian values</a>: Mod</li>
   <li><a href="ext-feat/VerbType">Interset</a>: Aux, Cop, Mod, Light</li>
-</ul>
-
-<h1 id="additional-language-specific-values-for-universal-features">Additional language-specific values for universal features</h1>
-
-<p>The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:</p>
-
-<h2 id="degree">Degree</h2>
-<ul>
-  <li><a href="">u-feat/Degree</a><code> = Dim</code>: diminutive (used for nouns e.g. in Dutch: <em>stoeltje, huisje, nippertje</em>)</li>
-</ul>
-
-<h2 id="prontype">PronType</h2>
-<ul>
-  <li><a href="">u-feat/PronType</a><code> = Exc</code>: exclamative pronoun or determiner. It expresses the speaker’s surprise towards the modified noun, e.g. <em>what</em> in <em><b>What</b> a surprise!</em> In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).</li>
-  <li><code>PronType = Clit</code>: used for clitic pronouns in Italian, e.g. <em><b>Si</b> è rotto</em> “It has broken”</li>
-</ul>
-
-<h2 id="tense">Tense</h2>
-<ul>
-  <li><a href="">u-feat/Tense</a><code> = Aor</code>: aorist (as opposed to <code>Past</code>) in Ancient Greek.</li>
-</ul>
-
-<h2 id="verbform">VerbForm</h2>
-<ul>
-  <li><a href="">u-feat/VerbForm</a><code> = Gdv</code>: gerundive (as opposed to the gerund) in <a href="la-feat/VerbForm">Latin</a>.</li>
-</ul>
-
-<h2 id="voice">Voice</h2>
-<ul>
-  <li><a href="">u-feat/Voice</a><code> = Mid</code>: middle voice in <a href="grc-feat/Voice">Ancient Greek</a>. (The mediopassive voice can be expressed as <code>Voice=Mid,Pass</code>.)</li>
-  <li><code>Voice = Int</code>: intensive voice/aspect (the PIEL binyan) in Hebrew.</li>
 </ul>
 
 
