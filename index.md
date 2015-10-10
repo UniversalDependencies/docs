@@ -49,6 +49,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-nl">Dutch</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -712,6 +713,26 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](pt/overview/syntax.html)
   * [Specific constructions](pt/overview/specific-syntax.html)
   * [Portuguese dependency relations](pt/dep/index.html) ([single document](pt/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Dutch" tab -->
+<div id="language-nl" markdown="1" class="ui-tabs-hide">
+{% include nl-status-table.html %}
+
+[Introduction](nl/overview/introduction.html)
+
+* [Tokenization](nl/overview/tokenization.html)
+* Morphology
+  * [General principles](nl/overview/morphology.html)
+  * [Dutch POS tags](nl/pos/index.html) ([single document](nl/pos/all.html))
+  * [Dutch features](nl/feat/index.html) ([single document](nl/feat/all.html))
+* Syntax
+  * [General principles](nl/overview/syntax.html)
+  * [Specific constructions](nl/overview/specific-syntax.html)
+  * [Dutch dependency relations](nl/dep/index.html) ([single document](nl/dep/all.html))
 
 [CoNLL-U format](format.html)
 

@@ -469,6 +469,20 @@ collections:
   pt-overview:
     output: true
 #
+# Dutch
+#
+  nl-pos:
+    output: true
+    permalink: /nl/pos/:path.html
+  nl-feat:
+    output: true
+    permalink: /nl/feat/:path.html
+  nl-dep:
+    output: true
+    permalink: /nl/dep/:path.html
+  nl-overview:
+    output: true
+#
 # Template
 #
   template-pos:
