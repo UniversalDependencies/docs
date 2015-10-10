@@ -28,6 +28,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
   <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
   <li class="ui-state-default"><a href="#language-da">Danish</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-nl">Dutch</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-et">Estonian</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
@@ -49,7 +50,6 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-nl">Dutch</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
