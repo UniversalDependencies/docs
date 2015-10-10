@@ -16,17 +16,17 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>hu::conll</tt>, total 576 tags.
 
 <table>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Plur</td><td><em>szegényebbeket</em></td></tr>
-  <tr><td>A Af deg=comparative|n=plural|case=adessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Comp|Number=Plur</td><td><em>értékesebbeknél</em></td></tr>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em>idősebbek, kelendőbbek, mindenhatóbbak, tehetősebbek, hevültebbek</em></td></tr>
-  <tr><td>A Af deg=comparative|n=singular|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Sing</td><td><em>nagyobbat, profibbat, rövidebbet, nehezebbet</em></td></tr>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Number=Sing</td><td><em>jobbnak, kockázatosabbnak, Találóbbnak, idősebbnek, fontosabbnak</em></td></tr>
-  <tr><td>A Af deg=comparative|n=singular|case=delative</td><td>=&gt;</td><td>ADJ</td><td>Case=Del|Degree=Comp|Number=Sing</td><td><em>messzebbről</em></td></tr>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Comp|Number=Sing</td><td><em>gyorsabban, pontosabban, olcsóbban, különösebben, lassabban</em></td></tr>
-  <tr><td>A Af deg=comparative|n=singular|case=factive</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Comp|Number=Sing</td><td><em>szebbé, valószínűbbé, könnyebbé, feszültebbé, óvatosabbá</em></td></tr>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em>rosszabban</em></td></tr>
-  <tr><td>A Af deg=comparative|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Sing</td><td><em>nagyobb, újabb, korábbi, kisebb, utóbbi</em></td></tr>
-  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Comp|Number=Sing</td><td><em>magasabbra, szorosabbra, jobbra, fehérebbre, messzebbre</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Number=Plur</td><td><em>szegényebbeket</em></td></tr>
+  <tr><td>A Af deg=comparative|n=plural|case=adessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ade|Degree=Cmp|Number=Plur</td><td><em>értékesebbeknél</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=plural|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em>idősebbek, kelendőbbek, mindenhatóbbak, tehetősebbek, hevültebbek</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Number=Sing</td><td><em>nagyobbat, profibbat, rövidebbet, nehezebbet</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Number=Sing</td><td><em>jobbnak, kockázatosabbnak, Találóbbnak, idősebbnek, fontosabbnak</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=delative</td><td>=&gt;</td><td>ADJ</td><td>Case=Del|Degree=Cmp|Number=Sing</td><td><em>messzebbről</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Cmp|Number=Sing</td><td><em>gyorsabban, pontosabban, olcsóbban, különösebben, lassabban</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=factive</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Cmp|Number=Sing</td><td><em>szebbé, valószínűbbé, könnyebbé, feszültebbé, óvatosabbá</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em>rosszabban</em></td></tr>
+  <tr><td>A Af deg=comparative|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Sing</td><td><em>nagyobb, újabb, korábbi, kisebb, utóbbi</em></td></tr>
+  <tr style="background:lightgray"><td>A Af deg=comparative|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Cmp|Number=Sing</td><td><em>magasabbra, szorosabbra, jobbra, fehérebbre, messzebbre</em></td></tr>
   <tr><td>A Af deg=positive|n=plural|case=ablative</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur</td><td><em>jövedelműektől, szabaddemokratáktól, jövőbeliektől, veszélyesektől, szélsőjobboldaliaktól</em></td></tr>
   <tr style="background:lightgray"><td>A Af deg=positive|n=plural|case=ablative|pednumber=singular</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Pos|Number=Plur|Number[psee]=Sing</td><td><em>államiakétól</em></td></tr>
   <tr><td>A Af deg=positive|n=plural|case=accusative</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Number=Plur</td><td><em>lévőket, érkezőket, nyelvűeket, szerződéseseket, fogottakat</em></td></tr>
@@ -75,50 +75,50 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr style="background:lightgray"><td>C Cs ctype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>hogy, mint, ha, mert, mivel</em></td></tr>
   <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ja, Hiába</em></td></tr>
   <tr style="background:lightgray"><td>I Io _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>persze, Íme, mindegy, sajnos, nem</em></td></tr>
-  <tr><td>M Mc n=plural|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td><em>százmilliárdokat, dollármilliárdokat, sokakat</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=plural|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em>sokaknak</em></td></tr>
-  <tr><td>M Mc n=plural|case=genitive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>tízezreinek</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=plural|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em>sokakban</em></td></tr>
-  <tr><td>M Mc n=plural|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Plur</td><td><em>milliárdokkal</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=plural|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Plur</td><td><em>többek, sokak, tízezrek, kevesek, százmilliók</em></td></tr>
-  <tr><td>M Mc n=plural|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Plur|Number[psor]=Sing|Person[psor]=3</td><td><em>tízezrei</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>többször, sokszor, kétszer, egyszer, háromszor</em></td></tr>
-  <tr><td>M Mc n=singular|case=ablative</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em>1991-től, 2000-től, 1997-től, egytől, 1973-tól</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Sing</td><td><em>sokat, többet, kevesebbet, kettőt, legtöbbet</em></td></tr>
-  <tr><td>M Mc n=singular|case=adessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Card|Number=Sing</td><td><em>ezernél, 11-nél, száznál, százötvennél, hatvannál</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=causalis</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|Number=Sing</td><td><em>hatvanért, 4_millióért, ötvenhatért, többért, negyvenötért</em></td></tr>
-  <tr><td>M Mc n=singular|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Sing</td><td><em>soknak, kettőnek, egynek, 500-nak</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=delative</td><td>=&gt;</td><td>NUM</td><td>Case=Del|NumType=Card|Number=Sing</td><td><em>3-ról, 28-ról, Huszonegyről, 386-ról, 4-ről</em></td></tr>
-  <tr><td>M Mc n=singular|case=elative</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|NumType=Card|Number=Sing</td><td><em>negyvenötmillióból, ezerből, 1927-ből, 17-ből, 1641-ből</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=essive</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|NumType=Card|Number=Sing</td><td><em>többen, ezren, legtöbben, ketten, kevesen</em></td></tr>
-  <tr><td>M Mc n=singular|case=genitive</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Sing</td><td><em>35-nek, egynek</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=illative</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|NumType=Card|Number=Sing</td><td><em>sokba, többe, millióba, 7_millióba, egymillióba</em></td></tr>
-  <tr><td>M Mc n=singular|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em>1997-ben, 1998-ban, 1996-ban, 1991-ben, 1995-ben</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em>eggyel, 2_milliárddal, 5_millióval, 160_ezerrel, hárommillióval</em></td></tr>
-  <tr><td>M Mc n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>százával, tízezrével</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing</td><td><em>több, két, egy, három, sok</em></td></tr>
-  <tr><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing|Number[psor]=Plur|Person[psor]=3</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>legtöbbje, 10_milliárdja</em></td></tr>
-  <tr><td>M Mc n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Card|Number=Sing</td><td><em>2000-re, 2002-re, egyre, háromra, tizenkétmillióra</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc n=singular|case=temporalis</td><td>=&gt;</td><td>NUM</td><td>Case=Tem|NumType=Card|Number=Sing</td><td><em>8-kor, kilenckor</em></td></tr>
-  <tr><td>M Mc n=singular|case=terminative</td><td>=&gt;</td><td>NUM</td><td>Case=Ter|NumType=Card|Number=Sing</td><td><em>1997-ig, 1924-ig, 1998-ig, 2003-ig, 1927-ig</em></td></tr>
-  <tr style="background:lightgray"><td>M Md n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Dist|Number=Sing</td><td><em>egy-egy, 9-9, 15-15, három-három, 150-150</em></td></tr>
-  <tr><td>M Mf n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>negyedét, egyharmadát, egyhatodát, ötödét, háromnegyedét</em></td></tr>
-  <tr style="background:lightgray"><td>M Mf n=singular|case=adessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>egytizedénél</em></td></tr>
-  <tr><td>M Mf n=singular|case=causalis|pednumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Frac|Number=Sing|Number[psee]=Sing</td><td><em>harmadáért-negyedéért</em></td></tr>
-  <tr style="background:lightgray"><td>M Mf n=singular|case=inessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>negyedében</em></td></tr>
-  <tr><td>M Mf n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Frac|Number=Sing</td><td><em>tizeddel, 8,9-del</em></td></tr>
-  <tr style="background:lightgray"><td>M Mf n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>harmadával</em></td></tr>
-  <tr><td>M Mf n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Frac|Number=Sing</td><td><em>fél, másfél, 1,5-2, 2,5, 3,5</em></td></tr>
-  <tr style="background:lightgray"><td>M Mf n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>egyharmada, kétharmada, háromnegyede, negyede, tizede</em></td></tr>
-  <tr><td>M Mf n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Frac|Number=Sing</td><td><em>76,8-ra</em></td></tr>
-  <tr style="background:lightgray"><td>M Mf n=singular|case=sublative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumType=Frac|Number=Sing|Number[psor]=Sing|Person[psor]=3</td><td><em>tizedére</em></td></tr>
-  <tr><td>M Mo n=singular</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Sing</td><td><em>másodszor</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Ord|Number=Sing</td><td><em>másodiknak</em></td></tr>
-  <tr><td>M Mo n=singular|case=essiveformal</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|NumType=Ord|Number=Sing|Style=Form</td><td><em>elsőként, ötödikként</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Sing</td><td><em>tizenhetedikben</em></td></tr>
-  <tr><td>M Mo n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord|Number=Sing</td><td><em>első, második, 20., 1999., harmadik</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|NumType=Ord|Number=Sing</td><td><em>harmadikra</em></td></tr>
+  <tr><td>M Mc n=plural|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td><em>százmilliárdokat, dollármilliárdokat, sokakat</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em>sokaknak</em></td></tr>
+  <tr><td>M Mc n=plural|case=genitive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|NumType=Card|Person[psor]=3</td><td><em>tízezreinek</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>sokakban</em></td></tr>
+  <tr><td>M Mc n=plural|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumType=Card</td><td><em>milliárdokkal</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=plural|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|NumType=Card</td><td><em>többek, sokak, tízezrek, kevesek, százmilliók</em></td></tr>
+  <tr><td>M Mc n=plural|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|Number[psor]=Sing|NumType=Card|Person[psor]=3</td><td><em>tízezrei</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td><em>többször, sokszor, kétszer, egyszer, háromszor</em></td></tr>
+  <tr><td>M Mc n=singular|case=ablative</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Sing|NumType=Card</td><td><em>1991-től, 2000-től, 1997-től, egytől, 1973-tól</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=accusative</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumType=Card</td><td><em>sokat, többet, kevesebbet, kettőt, legtöbbet</em></td></tr>
+  <tr><td>M Mc n=singular|case=adessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|Number=Sing|NumType=Card</td><td><em>ezernél, 11-nél, száznál, százötvennél, hatvannál</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=causalis</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|Number=Sing|NumType=Card</td><td><em>hatvanért, 4_millióért, ötvenhatért, többért, negyvenötért</em></td></tr>
+  <tr><td>M Mc n=singular|case=dative</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Sing|NumType=Card</td><td><em>soknak, kettőnek, egynek, 500-nak</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=delative</td><td>=&gt;</td><td>NUM</td><td>Case=Del|Number=Sing|NumType=Card</td><td><em>3-ról, 28-ról, Huszonegyről, 386-ról, 4-ről</em></td></tr>
+  <tr><td>M Mc n=singular|case=elative</td><td>=&gt;</td><td>NUM</td><td>Case=Ela|Number=Sing|NumType=Card</td><td><em>negyvenötmillióból, ezerből, 1927-ből, 17-ből, 1641-ből</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=essive</td><td>=&gt;</td><td>NUM</td><td>Case=Ess|Number=Sing|NumType=Card</td><td><em>többen, ezren, legtöbben, ketten, kevesen</em></td></tr>
+  <tr><td>M Mc n=singular|case=genitive</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Sing|NumType=Card</td><td><em>35-nek, egynek</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=illative</td><td>=&gt;</td><td>NUM</td><td>Case=Ill|Number=Sing|NumType=Card</td><td><em>sokba, többe, millióba, 7_millióba, egymillióba</em></td></tr>
+  <tr><td>M Mc n=singular|case=inessive</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em>1997-ben, 1998-ban, 1996-ban, 1991-ben, 1995-ben</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Card</td><td><em>eggyel, 2_milliárddal, 5_millióval, 160_ezerrel, hárommillióval</em></td></tr>
+  <tr><td>M Mc n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|NumType=Card|Person[psor]=3</td><td><em>százával, tízezrével</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Card</td><td><em>több, két, egy, három, sok</em></td></tr>
+  <tr><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=plural</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Card|Person[psor]=3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Card|Person[psor]=3</td><td><em>legtöbbje, 10_milliárdja</em></td></tr>
+  <tr><td>M Mc n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|Number=Sing|NumType=Card</td><td><em>2000-re, 2002-re, egyre, háromra, tizenkétmillióra</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc n=singular|case=temporalis</td><td>=&gt;</td><td>NUM</td><td>Case=Tem|Number=Sing|NumType=Card</td><td><em>8-kor, kilenckor</em></td></tr>
+  <tr><td>M Mc n=singular|case=terminative</td><td>=&gt;</td><td>NUM</td><td>Case=Ter|Number=Sing|NumType=Card</td><td><em>1997-ig, 1924-ig, 1998-ig, 2003-ig, 1927-ig</em></td></tr>
+  <tr style="background:lightgray"><td>M Md n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Dist</td><td><em>egy-egy, 9-9, 15-15, három-három, 150-150</em></td></tr>
+  <tr><td>M Mf n=singular|case=accusative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>negyedét, egyharmadát, egyhatodát, ötödét, háromnegyedét</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=adessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ade|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>egytizedénél</em></td></tr>
+  <tr><td>M Mf n=singular|case=causalis|pednumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|Number=Sing|Number[psee]=Sing|NumType=Frac</td><td><em>harmadáért-negyedéért</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=inessive|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>negyedében</em></td></tr>
+  <tr><td>M Mf n=singular|case=instrumental</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Frac</td><td><em>tizeddel, 8,9-del</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=instrumental|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>harmadával</em></td></tr>
+  <tr><td>M Mf n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Frac</td><td><em>fél, másfél, 1,5-2, 2,5, 3,5</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=nominative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>egyharmada, kétharmada, háromnegyede, negyede, tizede</em></td></tr>
+  <tr><td>M Mf n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|Number=Sing|NumType=Frac</td><td><em>76,8-ra</em></td></tr>
+  <tr style="background:lightgray"><td>M Mf n=singular|case=sublative|pperson=3rd|pnumber=singular</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|Number=Sing|Number[psor]=Sing|NumType=Frac|Person[psor]=3</td><td><em>tizedére</em></td></tr>
+  <tr><td>M Mo n=singular</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|NumType=Ord</td><td><em>másodszor</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=dative</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing|NumType=Ord</td><td><em>másodiknak</em></td></tr>
+  <tr><td>M Mo n=singular|case=essiveformal</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Number=Sing|NumType=Ord|Style=Form</td><td><em>elsőként, ötödikként</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=inessive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing|NumType=Ord</td><td><em>tizenhetedikben</em></td></tr>
+  <tr><td>M Mo n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Sing|NumType=Ord</td><td><em>első, második, 20., 1999., harmadik</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Number=Sing|NumType=Ord</td><td><em>harmadikra</em></td></tr>
   <tr><td>N Nc n=plural|case=ablative|proper=no</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur</td><td><em>évektől, olvasóktól, szülőktől, Vízimadaraktól, túlkapásoktól</em></td></tr>
   <tr style="background:lightgray"><td>N Nc n=plural|case=ablative|proper=no|pednumber=singular</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|Number[psee]=Sing</td><td><em>korábbiakétól</em></td></tr>
   <tr><td>N Nc n=plural|case=ablative|proper=no|pperson=1st|pnumber=plural</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|Number[psor]=Plur|Person[psor]=1</td><td><em>határainktól</em></td></tr>
@@ -336,8 +336,8 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr><td>O Oh _</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>közép-, kis-, hang-, büntető-, bel-</em></td></tr>
   <tr style="background:lightgray"><td>O Oi n=singular|case=nominative</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Sing</td><td><em>Cray-1, He-178, V3, R99, TX-0</em></td></tr>
   <tr><td>O Oi n=singular|case=sublative</td><td>=&gt;</td><td>NOUN</td><td>Case=Sub|Number=Sing</td><td><em>Z1-re</em></td></tr>
-  <tr style="background:lightgray"><td>O On n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Digit|Number=Sing</td><td><em>6:2, 1:1, 7:6, 6:3, 3:39,82</em></td></tr>
-  <tr><td>O On n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|NumForm=Digit|Number=Sing</td><td><em>4:2-re</em></td></tr>
+  <tr style="background:lightgray"><td>O On n=singular|case=nominative</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumForm=Digit</td><td><em>6:2, 1:1, 7:6, 6:3, 3:39,82</em></td></tr>
+  <tr><td>O On n=singular|case=sublative</td><td>=&gt;</td><td>NUM</td><td>Case=Sub|Number=Sing|NumForm=Digit</td><td><em>4:2-re</em></td></tr>
   <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=accusative</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Person=3|PronType=Dem</td><td><em>azokat, ezeket, mindazokat</em></td></tr>
   <tr><td>P Pd p=3rd|n=plural|case=adessive</td><td>=&gt;</td><td>DET</td><td>Case=Ade|Number=Plur|Person=3|PronType=Dem</td><td><em>azoknál</em></td></tr>
   <tr style="background:lightgray"><td>P Pd p=3rd|n=plural|case=allative</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|Person=3|PronType=Dem</td><td><em>ezekhez, Mindezekhez, mindazokhoz</em></td></tr>
@@ -589,7 +589,7 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr style="background:lightgray"><td>V Vm mood=infinitive|t=present|p=3rd|n=plural</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>megtalálniuk, válniuk, nyilatkozniuk, tenniük, válaszolniuk</em></td></tr>
   <tr><td>V Vm mood=infinitive|t=present|p=3rd|n=singular</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>kifizetnie, maradnia, számolnia, lennie, mennie</em></td></tr>
   <tr style="background:lightgray"><td>WPUNCT WPUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, —, ", :, (</em></td></tr>
-  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>homo, Ecce, vezette, szmsz, chaebolnak</em></td></tr>
+  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>homo, Ecce, vezette, szmsz, chaebolnak</em></td></tr>
   <tr style="background:lightgray"><td>Y Y _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>stb., dr., Mr., T., ifj.</em></td></tr>
   <tr><td>Z Z _</td><td>=&gt;</td><td>X</td><td>Typo=Yes</td><td><em>a, az, mind, igen, többek</em></td></tr>
 </table>

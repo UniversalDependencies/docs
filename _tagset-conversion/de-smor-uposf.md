@@ -16,44 +16,44 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>de::smor</tt>, total 857 tags.
 
 <table>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Adv&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Pred&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Adv&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Gen&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Fem&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Masc&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Acc&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Gen&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Neut&gt;&lt;Nom&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Acc&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Sg&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Gen&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;&lt;Wk&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>&lt;+ADJ&gt;&lt;Comp&gt;&lt;Pred&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Pos&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td><em></em></td></tr>
   <tr><td>&lt;+ADJ&gt;&lt;Pos&gt;&lt;Adv&gt;</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+ADJ&gt;&lt;Pos&gt;&lt;Fem&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</td><td><em></em></td></tr>

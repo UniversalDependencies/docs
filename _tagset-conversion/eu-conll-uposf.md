@@ -25,69 +25,69 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADB ARR ENT:Pertsona</td><td>=&gt;</td><td>ADV</td><td>NameType=Prs</td><td><em>Orain</em></td></tr>
   <tr><td>ADB ARR ENT:Tokia</td><td>=&gt;</td><td>ADV</td><td>NameType=Geo</td><td><em>Orain</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR IZAUR:-</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>psikologikoki, klinikoki, eskierki, mentalki, sinesgaizki</em></td></tr>
-  <tr><td>ADB ARR IZAUR:-|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em></em></td></tr>
+  <tr><td>ADB ARR IZAUR:-|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em>estetikoki_aurrera</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR KAS:ABL</td><td>=&gt;</td><td>ADV</td><td>Case=Abl</td><td><em>handik, aspalditik, hemendik, Aspaldidanik, gertutik</em></td></tr>
-  <tr><td>ADB ARR KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abl</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABL|POS:POSgoitik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abl</td><td><em></em></td></tr>
+  <tr><td>ADB ARR KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abl</td><td><em>oraindik_aurretik, beti_aurretik</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABL|POS:POSgoitik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abl</td><td><em>ondo_goitik</em></td></tr>
   <tr><td>ADB ARR KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:ABS|POS:POSartekoak|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:ABS|POS:POSbezalakoa|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Degree=Cmp</td><td><em></em></td></tr>
+  <tr><td>ADB ARR KAS:ABS|POS:POSartekoak|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>orain_artekoak</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>orain_arte, Atzo_arte, gaur_arte, orai_arte, Berriki_arte</em></td></tr>
+  <tr><td>ADB ARR KAS:ABS|POS:POSbezalakoa|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>egunero_bezalakoa</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>Urtero_gisa</em></td></tr>
   <tr><td>ADB ARR KAS:ABS|POS:POSkanpo|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>hemendik_kanpo</em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSlanda|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABS|POS:POSlanda|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>Hortik_landa</em></td></tr>
   <tr><td>ADB ARR KAS:ABZ</td><td>=&gt;</td><td>ADV</td><td>Case=Lat</td><td><em>honantza, gorantz</em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ABZ|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Lat|Degree=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ABZ|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Lat|Degree=Cmp</td><td><em>harantzago</em></td></tr>
   <tr><td>ADB ARR KAS:ALA</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em>Hortik_aurrera, bihartik_aurrera, gaurtik_aurrera, handik_aurrera</em></td></tr>
-  <tr><td>ADB ARR KAS:ALA|POS:POSbehera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em>Hortik_aurrera</em></td></tr>
+  <tr><td>ADB ARR KAS:ALA|POS:POSbehera|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=All</td><td><em>gora_behera, gabe_behera</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR KAS:EM</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSatzera|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:EM|POS:POSgabe|POS:+|MW:B</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:EM|POS:POSlegez|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>ADB ARR KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>Bihar_antzeko, gutxi-asko_antzeko</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSatzera|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>atzo_atzera</em></td></tr>
+  <tr><td>ADB ARR KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>hortik_aurrera, kabuz_aurrera, ondutik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>beti_bezala, ostegunero_bezala, supituki_bezala, oraintxe_bezala</em></td></tr>
+  <tr><td>ADB ARR KAS:EM|POS:POSgabe|POS:+|MW:B</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>luze_gabe_gabe</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>bertan_gora</em></td></tr>
+  <tr><td>ADB ARR KAS:EM|POS:POSlegez|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>urtero_legez</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>Oraindik_zain</em></td></tr>
+  <tr><td>ADB ARR KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADV</td><td>PrepCase=Pre</td><td><em>Hortik_zehar, han_zehar</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR KAS:GEL</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>atzoko, hango, iazko, egungo, gaurko</em></td></tr>
   <tr><td>ADB ARR KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|NameType=Com</td><td><em>Eskuz_Binakako</em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|Degree=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|Degree=Cmp</td><td><em>goragoko, gertuagoko</em></td></tr>
   <tr><td>ADB ARR KAS:GEL|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>gaur_egungo</em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:GEL|POS:POSaurrerako|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSgibeleko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:GEL|POS:POSgoiko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSgorako|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSkanpoko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>orain_arteko</em></td></tr>
+  <tr><td>ADB ARR KAS:GEL|POS:POSaurrerako|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>hortik_aurrerako, Atzo_aurrerako</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSgibeleko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>gero_gibeleko</em></td></tr>
+  <tr><td>ADB ARR KAS:GEL|POS:POSgoiko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>Han_goiko</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSgorako|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>aurrerantzean_gorako</em></td></tr>
+  <tr><td>ADB ARR KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>ondoren_inguruko</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:GEL|POS:POSkanpoko|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Loc</td><td><em>legez_kanpoko</em></td></tr>
   <tr><td>ADB ARR KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>sekulan, nonbaiten, aspaldian</em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSantzean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:INE|POS:POSaurrean|POS:+|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>ADB ARR KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSantzean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>gogor_antzean</em></td></tr>
+  <tr><td>ADB ARR KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>orain_artean</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>Hor_aurrean</em></td></tr>
+  <tr><td>ADB ARR KAS:INE|POS:POSaurrean|POS:+|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>nahi_bezain_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>han_barruan, hemen_barruan</em></td></tr>
+  <tr><td>ADB ARR KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>oso_gainean</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR KAS:INS</td><td>=&gt;</td><td>ADV</td><td>Case=Ins</td><td><em></em></td></tr>
   <tr><td>ADB ARR KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADV</td><td>Case=Par|Degree=Sup</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR MAI:GEHI</td><td>=&gt;</td><td>ADV</td><td>Degree=Abs</td><td><em>goizegi, maizegi, urrunegi</em></td></tr>
-  <tr><td>ADB ARR MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>beranduago, geroago, urrunago, lasaiago, aurrerago</em></td></tr>
+  <tr><td>ADB ARR MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>beranduago, geroago, urrunago, lasaiago, aurrerago</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR MAI:SUP</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>ondoen, urrutien, seguruen, urrunen, berrikien</em></td></tr>
-  <tr><td>ADB ARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR MUG:MG|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>ADB ARR MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADV</td><td>Case=Ins</td><td><em></em></td></tr>
-  <tr><td>ADB ARR MUG:MG|KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADV</td><td>Case=Par|Degree=Sup</td><td><em></em></td></tr>
+  <tr><td>ADB ARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs</td><td><em>gaurko, samar, Hurrengo, lehenbiziko, gabeko</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR MUG:MG|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Degree=Cmp</td><td><em>gutiago</em></td></tr>
+  <tr><td>ADB ARR MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine</td><td><em>egundainokotan</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADV</td><td>Case=Ins</td><td><em>ATZOZ</em></td></tr>
+  <tr><td>ADB ARR MUG:MG|KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADV</td><td>Case=Par|Degree=Sup</td><td><em>seguruenik</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR MUG:M|MW:B</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>batetik_bestera, hitzetik_hortzera</em></td></tr>
   <tr><td>ADB ARR MW:B</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>gaur_egun, aldi_berean, behin_eta_berriro, argi_eta_garbi, behar_bezala</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR MW:B|ENT:Erakundea</td><td>=&gt;</td><td>ADV</td><td>NameType=Com</td><td><em>Aldi_Baterako</em></td></tr>
   <tr><td>ADB ARR NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR NUM:P|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>ADB ARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Plur</td><td><em>egungoak, goranzkoak, buruzkoak</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Plur</td><td><em>samarretan</em></td></tr>
+  <tr><td>ADB ARR NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Plur</td><td><em>gainerakoen_artean</em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR NUM:S|KAS:ABL</td><td>=&gt;</td><td>ADV</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADB ARR NUM:S|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR NUM:S|KAS:ALA</td><td>=&gt;</td><td>ADV</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
@@ -96,20 +96,20 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADB ARR NUM:S|KAS:GEL</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADB ARR NUM:S|KAS:GEN</td><td>=&gt;</td><td>ADV</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADB ARR NUM:S|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:ABL|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADV</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:EM|POS:POSondotik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADV</td><td>Case=Erg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:GEL|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADB ARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADV</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:ABL|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Abl|Number=Sing</td><td><em>Buruz_burukotik</em></td></tr>
+  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Sing</td><td><em>samarra, kontrakoa, atzokoa, gabekoa, gaurkoa</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|Number=Sing</td><td><em>Buruz_burukoa</em></td></tr>
+  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADV</td><td>Case=All|Number=Sing</td><td><em>aurtengora</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:EM|POS:POSondotik|POS:+</td><td>=&gt;</td><td>ADV</td><td>Number=Sing|PrepCase=Pre</td><td><em>Atzokoaren_ondotik</em></td></tr>
+  <tr><td>ADB ARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADV</td><td>Case=Erg|Number=Sing</td><td><em>aurtengoak</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:GEL|MW:B</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|Number=Sing</td><td><em>buruz_buruko</em></td></tr>
+  <tr><td>ADB ARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADV</td><td>Case=Gen|Number=Sing</td><td><em>atzokoaren</em></td></tr>
+  <tr style="background:lightgray"><td>ADB ARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADV</td><td>Case=Ine|Number=Sing</td><td><em>atzokoan, samarrean, aurtengoan, herenegungoan</em></td></tr>
   <tr><td>ADB ARR _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>atzo, oso, gaur, ondoren, gero</em></td></tr>
   <tr style="background:lightgray"><td>ADB GAL ENT:Pertsona</td><td>=&gt;</td><td>ADV</td><td>NameType=Prs|PronType=Int</td><td><em>Nola, Zergatik, Non</em></td></tr>
   <tr><td>ADB GAL ENT:Tokia</td><td>=&gt;</td><td>ADV</td><td>NameType=Geo|PronType=Int</td><td><em>Zergatik</em></td></tr>
   <tr style="background:lightgray"><td>ADB GAL KAS:ABS</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>ADB GAL KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>ADB GAL KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADV</td><td>Case=Abs|PronType=Int</td><td><em>noiz_arte</em></td></tr>
   <tr style="background:lightgray"><td>ADB GAL KAS:ABU</td><td>=&gt;</td><td>ADV</td><td>Case=Ter|PronType=Int</td><td><em>noraino, noaño</em></td></tr>
   <tr><td>ADB GAL KAS:GEL</td><td>=&gt;</td><td>ADV</td><td>Case=Loc|PronType=Int</td><td><em>zelango</em></td></tr>
   <tr style="background:lightgray"><td>ADB GAL _</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>nola, zergatik, non, noiz, zertan</em></td></tr>
@@ -432,7 +432,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI SIN ADM:ADOIN|ASP:EZBU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Inf</td><td><em>egiten, ematen, ikusten, izaten, erabiltzen</em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ADM:ADOIN|ENT:Pertsona</td><td>=&gt;</td><td>VERB</td><td>NameType=Prs|VerbForm=Inf</td><td><em>Ali</em></td></tr>
   <tr><td>ADI SIN ADM:ADOIN|ERL:MOD</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>jarraiki, izaki</em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ADM:PART</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>egin, izan, jokatu, eman, esan</em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ADM:PART</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>ari, komeni, berrogoita, hogeita</em></td></tr>
   <tr><td>ADI SIN ADM:PART|ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Part</td><td><em>izan, egin, esan, eman, hasi</em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ADM:PART|ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro|VerbForm=Part</td><td><em>izango, egingo, jokatuko, egongo, hartuko</em></td></tr>
   <tr><td>ADI SIN ADM:PART|ERL:KONT|KAS:MOT|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Cau|Number=Sing|VerbForm=Part</td><td><em>izanagatik</em></td></tr>
@@ -573,12 +573,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:ZUEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|VerbForm=Part</td><td><em>atsekabetuago, etsiago</em></td></tr>
-  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:P</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|Number=Plur|VerbForm=Part</td><td><em>orekatuagoak</em></td></tr>
-  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:S</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Comp|Number=Sing|VerbForm=Part</td><td><em>bideratuagoa, bermatuagoa, irekiagoa, baztertuagoa, orekatuagoa</em></td></tr>
+  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|VerbForm=Part</td><td><em>atsekabetuago, etsiago</em></td></tr>
+  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:P</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|Number=Plur|VerbForm=Part</td><td><em>orekatuagoak</em></td></tr>
+  <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:S</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|Number=Sing|VerbForm=Part</td><td><em>bideratuagoa, bermatuagoa, irekiagoa, baztertuagoa, orekatuagoa</em></td></tr>
   <tr><td>ADI SIN MAI:SUP|ADM:PART|KAS:ABS|NUM:P</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Sup|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN MAI:SUP|ADM:PART|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Sup|Number=Plur|VerbForm=Part</td><td><em>orekatuenak, aurreratuenak</em></td></tr>
   <tr><td>ADI SIN MAI:SUP|ADM:PART|KAS:ABS|NUM:S</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Sup|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
@@ -592,19 +592,19 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADJ ARR BIZ:-|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|NameType=Com</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR BIZ:-|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
   <tr><td>ADJ ARR BIZ:-|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR BIZ:-|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs</td><td><em>harrotsu</em></td></tr>
+  <tr><td>ADJ ARR BIZ:-|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ine</td><td><em>hesidunetan</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR BIZ:-|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|NameType=Com</td><td><em>Tokian_tokiko_PRIko</em></td></tr>
   <tr><td>ADJ ARR BIZ:-|NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:P|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR BIZ:-|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR BIZ:-|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Plur</td><td><em>sabeldunak, botedunak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Number=Plur</td><td><em>molduradunei</em></td></tr>
   <tr><td>ADJ ARR BIZ:-|NUM:S|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:S|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR BIZ:-|NUM:S|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Erg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Erg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em>kotoitsua, latza, istilutsua, eztabaidatsua</em></td></tr>
+  <tr><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Abs|Degree=Sup|Number=Sing</td><td><em>osasuntsuena</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR BIZ:-|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Erg|Number=Sing</td><td><em>ergatibodunak</em></td></tr>
   <tr><td>ADJ ARR ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com</td><td><em>Paralinpiar, BELTZA</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>NameType=Prs</td><td><em></em></td></tr>
   <tr><td>ADJ ARR ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>NameType=Geo</td><td><em>Paralinpiar</em></td></tr>
@@ -612,261 +612,261 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADJ ARR IZAUR:+|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com</td><td><em>Nazioarteko, Hurrengo, Herriarteko, Ekialdeko, EGUNGO</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>NameType=Prs</td><td><em>Frantses, Europar</em></td></tr>
   <tr><td>ADJ ARR IZAUR:+|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>NameType=Geo</td><td><em>Halako, Kanariar, Ekialdeko, Balear, Frantziskotar</em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|KAS:INE|POS:POSinguruetan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:PRO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|KAS:INE|POS:POSinguruetan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em>kaletar_inguruetan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>errusiar, atzerritar, gustuko, britainiar, ageriko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup</td><td><em>sasoikoen, gustukuen</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben</td><td><em>britainiarrentzat</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg</td><td><em>timortarrek</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em>serbiarretan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em>azkenekoz, estreinakoz, Hirugarrengoz, israeldarrez, estrainekoz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em>horrelakorik, halakorik, galiziarrik, Bestelakorik, puntakorik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|MUG:MG|KAS:PRO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess</td><td><em>ezinbestekotzat, premiazkotzat, balekotzat, ezustekotzat, funtsezkotzat</em></td></tr>
   <tr><td>ADJ ARR IZAUR:+|MW:B</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>behar_bezalako, ez_bezalako</em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSeskutik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:EM|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABL|POS:POSgibeletik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>alemaniarren_aurretik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSeskutik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>palestinarren_eskutik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>gainerakoen_gainetik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>palestinarrak, euskaldunak, beharrezkoak, atzerritarrak, israeldarrak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Plur</td><td><em>garrantzizkoagoak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em>funtsezkoenak, garrantzizkoenak, oinarrizkoenak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em>palestinarrei, errusiarrei, arabiarrei</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:EM|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>arabiarren_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em>israeldarrek, arduradunek, errusiarrek, nafarrek, palestinarrek</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>palestinarrekiko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>galiziarren_arteko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>atzerritarren_aurkako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>serbiarren_kontrako</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em>akziodunen, atzerritarren, holakoen, ultraeskuindarren, britainiarren</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Plur</td><td><em>Tutore_Adimendunen</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>hurrengoetan, elebidunengan, Horrelakoetan, bakarkakoetan, berarizkoetan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>gainerakoen_artean, aurrenekoen_artean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em>gainerakoez, albaniarrez</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em>albaniarrekin, arduradunekin, gainontzekoekin, serbiarrekin, israeldarrekin</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em>lekeitiarraren_aurretik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABL|POS:POSgibeletik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em>portugaldarraren_gibeletik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>beharrezkoa, ezinezkoa, italiarra, ezinbestekoa, britainiarra</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Sozialista_Batu_Alemaniarra</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em>bidezkoagoa, ohikoagoa</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em>elebidunena, ohikoena, ohizkoena, gogokoena, bidezkoena</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>behar_bezalakoa, behin_betirakoa</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>zarauztarraren_aurka</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em>palestinarrari, espainiarrari, ohorezkoari, akenaurrekoari, estatubatuarrari</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Sing</td><td><em>frantziarrarentzat, hungariarrarentzat, italiarrarentzat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>espainiarraren_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em>estatubatuarrak, britainiarrak, nafarrak, frantziarrak, gasteiztarrak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>arabiarreko, britainiarreko, indiarreko, ezkertiarreko, europarreko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Nazional_Afrikarreko, Liga_Arabiarreko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Arabiarreko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>nafarraren_kontrako</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em>palestinarraren, armeniarraren, alemanaren, frantziarraren, Interesdunaren</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>Alderdi_Errepublikarraren, Estatu_Palestinarraren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>hurrengoan, lehengoan, Gainontzekoan, egunerokoan, gainerakoan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>Estatu_Espainolean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>japoniarraren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em>Gaurkoaz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Sing</td><td><em>espainiarragatik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:+|NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em>kroaziarrarekin, samoarrarekin, norvegiarrarekin, gasteiztarrarekin</em></td></tr>
   <tr><td>ADJ ARR IZAUR:-</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>berri, politiko, handi, txiki, bakar</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com</td><td><em>Gorri, Atletiko</em></td></tr>
   <tr><td>ADJ ARR IZAUR:-|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>NameType=Prs</td><td><em>Liberal</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>NameType=Geo</td><td><em>San, Errejional, Olinpiar, Nazional, Hotz</em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|KAS:EM|POS:POSbarik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Sup</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:BNK</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSgabeko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PRO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PRO|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em>eskuin_aldetik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>arin_gisa, sozialista_gisa, nagusi_gisa, bakar_gisa, faborito_gisa</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|KAS:EM|POS:POSbarik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em>material_barik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em>zale_bezala, literario_bezala, komunitario_bezala</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs</td><td><em>iraunkorregi</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em>justuago, arinago, ezkorrago, sendoago, hutsago</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup</td><td><em>azkarren, kaltetuen</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em>gaztetatik, lagunetatik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Sup</td><td><em>kartsuenetarik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em>politikoren_gainetik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>nagusi, berri, ziur, sendo, indartsu</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth</td><td><em>Lazkao_Txiki</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com</td><td><em>Batzorde_Eragilerako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs</td><td><em>azkarregi, berantegi, handiegi, lehorregi, serioegi</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp</td><td><em>errazago, lasaiago, arinago, indartsuago, ilunago</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup</td><td><em>azkarren, fuerteen, gutxien, gatazkatsuen, egokien</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>musulmanen_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>olinpiarrez_gain</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All</td><td><em>eskubitara</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:BNK</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em>bakoitzeko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat</td><td><em>indartsuri</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben</td><td><em>handirentzat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>ADJ</td><td>PrepCase=Pre</td><td><em>handirik_gabe</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg</td><td><em>txikik, militarrek, ospetsuk, beltzek, Gaztek</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs</td><td><em>Leon_Txiki"k</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em>zilarrezko, handitarako, gozozko, nagusitarako, beltzezko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em>ezkertiren_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em>iluni_buruzko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEL|POS:POSgabeko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc</td><td><em>finkorik_gabeko, praktikorik_gabeko, handirik_gabeko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen</td><td><em>bakanen, gogoangarriren, txikiren, indartsuren, bihurriren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em>txikitan, desberdinetan, handitan, pribatutan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em>handiz, osoz, txarrez, biziz, hutsez</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:INS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp</td><td><em>txikiagoz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em>handirik, onik, berezirik, larririk, haundirik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Abs</td><td><em>handiegirik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Sup</td><td><em>ziurrenik, ahulenik, beranduenik, azkarrenik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PRO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess</td><td><em>garrantzitsutzat, nagusitzat, historikotzat, estrategikotzat, basatitzat</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:MG|KAS:PRO|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Sup</td><td><em>garrantzitsuentzat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com</td><td><em>zapatistarekin</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|MUG:M|MW:B</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>hil_edo_biziko, hil_ala_biziko</em></td></tr>
   <tr><td>ADJ ARR IZAUR:-|MW:B</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>estatu_batuar</em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSazpitik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:SUP|POS:POSpare|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABU</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DAT|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|MAI:KONP|POS:POSbila|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|MAI:SUP|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP|POS:POSparean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSazpian|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSondoan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:SOZ|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Oth|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:KONP|POS:POStruke|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABU|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSalderat|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|MAI:SUP|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbarna|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbatera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|MAI:SUP|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Oth|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:MOT|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>maiteok</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em>zaleok</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:PH|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>bortitzotan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>baliagarraiak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>nagusietarik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>politikoen_aldetik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSazpitik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>soilen_azpitik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em>gogorren_ondotik, taktikoen_ondotik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>handiak, nagusiak, onak, berriak, ezberdinak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Plur</td><td><em>Altamira_Gazteak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Plur</td><td><em>Auzitegi_Gorenak, Gorte_Gorenak, Zerbitzu_Orokorrak, Tigre_Tamilak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Plur</td><td><em>estuegiak, garestiegiak, konplexuegiak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Plur</td><td><em>handiagoak, merkeagoak, haundiagoak, fidagarriagoak, gozoagoak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em>onenak, garrantzitsuenak, indartsuenak, handienak, gogorrenak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|MAI:SUP|POS:POSpare|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em>onenen_pare</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>administratiboen_alde</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>handien_aurka, etsaien_aurka</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>tematsuei_esker, ezberdinei_esker</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ABU</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|Number=Plur</td><td><em>garaietaraino</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Plur</td><td><em>erlijiosoetara, pobreetara, primarioetara, profesionaletara</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Sup|Number=Plur</td><td><em>altuenetara</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Plur</td><td><em>naturalez_gainera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em>zaleei, politikoei, sozialei, abertzaleei, ekonomikoei</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DAT|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Plur</td><td><em>aberatsenei, onenei</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Plur</td><td><em>baionesentzat, berrientzat, kaltetuentzat, iraunkorrentzat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|MAI:KONP|POS:POSbila|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Number=Plur|PrepCase=Pre</td><td><em>hobeagoen_bila</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>arrunten_arabera</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>Zaleak_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>berrien_bila</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>eragingarriei_buruz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>berrien_zain</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em>gardenetan_zehar</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em>zurigorriek, militarrek, sozialistek, jokalariek, zaleek</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Plur</td><td><em>Gurutze_Gorriek</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Plur</td><td><em>handienek, garrantzitsuenek, onenek, indartsuenek, finenek</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>nagusietako, handietako, desberdinetako, horietako, laburretako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Plur</td><td><em>Arazo_Politikoetako</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Plur</td><td><em>handienetariko, sendoenetako, egonkorrenetako, interesgarrienetako, garrantzitsuenetako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|MAI:SUP|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Plur</td><td><em>indartsuenen_arteko, nagusienen_arteko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>paramilitarren_arteko, ulergarrien_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>nazionalen_aurkako</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>ZALEEN_aurreko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>sindikalei_buruzko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>publikoen_gaineko, santuen_gaineko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>santuen_inguruko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>propioen_kontrako, zibilen_kontrako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em>handien, berrien, zaleen, faboritoen, zaharren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Plur</td><td><em>gazteenen, indartsuenen, boteretsuenen, lotsagarrienen, aberatsenen</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>desberdinetan, handietan, txikietan, nagusietan, ezberdinetan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Plur</td><td><em>Sydneyko_Joko_Olinpikoetan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur</td><td><em>sinpleagoetan, handiagoetan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em>sakonenetan, garrantzitsuenetan, onenetan, aproposenetan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em>onenen_artean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|MAI:SUP|POS:POSparean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em>onenen_parean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>zaleen_artean, faboritoen_artean, sozialen_artean, zurien_artean, aipagaien_artean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>posibleen_aurrean, politikoen_aurrean, sozialen_aurrean, Zaleen_aurrean, goxoen_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSazpian|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>hostozabalen_azpian</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>Zaleen_inguruan, desberdinen_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSondoan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>indartsuen_ondoan, sutsuen_ondoan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>historikoen_ostean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em>beltzez, ederrez, zatiezinez, berriez, bereziez</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em>digitalen_bidez, fisikoen_bidez, murritzen_bidez</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em>handien_bitartez</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Plur</td><td><em>handiengatik, txarrengatik, politikoengatik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em>handiekin, txikiekin, Afasikoekin, asmatikoekin, internazionalekin</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:P|MUG:M|KAS:SOZ|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Sup|Number=Plur</td><td><em>onenekin, gogorrenekin, zorrotzenekin</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em>onetik, Batutik, nagusitik, xamurretik, beltzetik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Oth|Number=Sing</td><td><em>Entzutegi_Nazionaletik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em>Etxe_Zuritik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Deba_Garaitik, Batutik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>handia, ona, bakarra, berria, nagusia</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Sing</td><td><em>Olatz_Txipia</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Parlamentu_Federala, Aginte_Nazionala, Erresuma_Batua, Eliza_Ortodoxoa, Hidroelektrikoa</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Erresuma_Batua, Batua, Nazionala</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Sing</td><td><em>handiegia, bigunegia, likatsuegia, alaiegia, altuegia</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em>handiagoa, zailagoa, txikiagoa, nabarmenagoa, haundiagoa</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:KONP|POS:POStruke|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em>handiagoaren_truke</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em>onena, garrantzitsuena, handiena, azkarrena, indartsuena</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|MW:B</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>ezin_hobea, estatu_batuarra</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>nazionalaren_alde, naziaren_alde</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>patologikoaren_arteko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>indartsuaren_aurka, positiboaren_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>zorrotzari_esker</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>parlamentarioaren_esku</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABU|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|NameType=Com|Number=Sing</td><td><em>Etxe_Zuriraino</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|Number=Sing</td><td><em>Baturantz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Com|Number=Sing</td><td><em>Emeki-emeki_Baturantz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Prs|Number=Sing</td><td><em>Baturantz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ABZ|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|NameType=Geo|Number=Sing</td><td><em>Baturantz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em>politikora, laburrera, hobera, osora, onera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Com|Number=Sing</td><td><em>Gorte_Gorenera, Etxe_Zurira, Eskaintza_Publikora</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em>Zurira, Txapelketa_Nagusira</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em>handiagora</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Sup|Number=Sing</td><td><em>altuenera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSalderat|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em>publikoaren_alderat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em>berritik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em>ingelesarekin_batera</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em>ohiari, politikoari, demokratikoari, nagusiari, bakoitzari</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em>Zuzenbide_Pribatuari, Batzorde_Iraunkorrari, Alderdi_Naziari, Auzitegi_Gorenari, Batzorde_Olinpikoari</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DAT|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Sing</td><td><em>txikienari</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Sing</td><td><em>osoarentzat, bakarrarentzat, berriarentzat</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|MAI:SUP|POS:POSzain|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Number=Sing|PrepCase=Pre</td><td><em>garrantzitsuenaren_zain</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>berriaren_arabera, parlamentarioaren_arabera, independentearen_arabera, pribatuaren_arabera, bakoitzaren_arabera</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Nazionalaren_arabera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbarna|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>nagusian_barna</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbatera|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>laburrarekin_batera</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>garrantzitsuari_begira, berriari_begira</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>osoa_bezala, arruntean_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>Batuari_buruz, fisikoari_buruz, kolektiboari_buruz, baltseroari_buruz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>geometrikoan_gora</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>lasaiaren_ondoren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>ingelesaren_ordez</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|PrepCase=Pre</td><td><em>osoan_zehar, zabalean_zehar</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em>bakoitzak, ohiak, nagusiak, berriak, gazteak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>Gorenak, Auzitegi_Gorenak, Gorte_Gorenak, Nazionalak, Batzorde_Zentralak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Sing</td><td><em>garrantzitsuenak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:ERG|MAI:SUP|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|NameType=Com|Number=Sing</td><td><em>Lege_Gorenak</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>handiko, bakoitzeko, osoko, bakarreko, Nazionaleko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Erresuma_Batuko, Entzutegi_Nazionaleko, Asanblea_Nazionaleko, Alderdi_Sozialistako, Goardia_Zibileko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Querol_Goreneko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Erresuma_Batuko, Nazionaleko, Auzitegi_Goreneko, Politika_Sozialeko, Etxe_Zuriko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Number=Sing</td><td><em>handiagoko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Sing</td><td><em>handieneko, goreneko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>zibilaren_aldeko, politikoaren_aldeko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>berriaren_arteko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>herrikoiari_buruzko</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>orokorraren_inguruko, nuklearraren_inguruko</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>berriaren_kontrako, konstituzionalaren_kontrako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em>berriaren, bakoitzaren, ohiaren, osoaren, politikoaren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>Administrazio-Jardunbide_Komunaren, Araubide_Juridikoaren, Fiskaltza_Nagusiaren, Batzorde_Eragilearen, Plan_Bereziaren</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing</td><td><em>handiagoaren</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Sing</td><td><em>onenaren, zaharrenaren</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>osoan, nagusian, bakoitzean, onean, betean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Oth|Number=Sing</td><td><em>Alpeetako_Klasikoan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>Gorte_Gorenean, ALDIZKARI_OFIZIALean, Ganbera_Federalean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Entzutegi_Nazionalean, Erresuma_Batuan, Asanblea_Nagusian, Auditorio_Nazionalean, Mundu_Berrian</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em>txikiagoan, sendoagoan, erosoagoan</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Sing</td><td><em>onenean, garrantzitsuenean, aproposenean, altuenean, gozoenean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>bizigabearen_artean, errepublikanoaren_artean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>ezinhobearen_aurrean, politikoaren_aurrean, berriaren_aurrean, osoaren_aurrean, zabalaren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>gotikoaren_gainean, originalaren_gainean</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>berriaren_inguruan, nagusiaren_inguruan, nazionalaren_inguruan, ekonomikoaren_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em>sozialaz, kulturalaz, zaharraz, politikoaz, zarratuaz</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NameType=Geo|Number=Sing</td><td><em>Batuaz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em>elektromagnetikoaren_bidez, antiterroristaren_bidez</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Sing</td><td><em>ikusgarriarengatik, bikoitzagatik, militarragatik, eskasagatik, estuarengatik</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:MOT|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Degree=Cmp|Number=Sing</td><td><em>handiagoagatik</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em>handiarekin, osoarekin, txikiarekin, koadroarekin, nagusiarekin</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em>Entzutegi_Nazionalarekin</em></td></tr>
+  <tr><td>ADJ ARR IZAUR:-|NUM:S|MUG:M|KAS:SOZ|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing</td><td><em>handiagoarekin</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:ABL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Degree=Sup</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat</td><td><em></em></td></tr>
@@ -879,7 +879,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADJ ARR KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR KAS:INS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR KAS:INS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:PAR|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Abs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR KAS:PAR|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Sup</td><td><em></em></td></tr>
@@ -887,19 +887,19 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADJ ARR KAS:PRO|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Sup</td><td><em></em></td></tr>
   <tr><td>ADJ ARR KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Degree=Abs</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em>gusturaxeago</em></td></tr>
+  <tr><td>ADJ ARR MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em>gusturaxeago</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR MUG:MG|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:PH|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs</td><td><em>irrifartsu, beis, lasai-lasai, definierrazago, bete-beteta</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR MUG:MG|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com</td><td><em>Fronte_Polisarioak</em></td></tr>
+  <tr><td>ADJ ARR MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins</td><td><em>sistemikoz, gaur-gaurkoz</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par</td><td><em>garbi-garbirik</em></td></tr>
+  <tr><td>ADJ ARR NUM:PH|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Plur</td><td><em>GIBdunok</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:P|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:ABU</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Plur</td><td><em></em></td></tr>
@@ -908,7 +908,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADJ ARR NUM:P|KAS:DAT|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:EM</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:EM|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:EM|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
@@ -920,24 +920,24 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADJ ARR NUM:P|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:P|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:P|KAS:SOZ|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur</td><td><em>hialinoak, paranoideak, komunztaduragabeak, demolinguistikoak, alantoideak</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:ABS|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Oth|Number=Plur</td><td><em>Bermeon_GIBdunak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur</td><td><em>baxe-nabartarrei, Belgiarrei, guzti-guztiei</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>ADJ</td><td>Case=Ben|Number=Plur</td><td><em>Akziodunentzat, bahamatarrentzat</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur</td><td><em>gaisoek, pasaitarrek, kamoilariek</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:ERG|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Degree=Sup|Number=Plur</td><td><em>martxosoenek</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur</td><td><em>isolazionisten_arteko</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur</td><td><em>onentsuenen</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>bolivarianoetan, loialistetan</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur</td><td><em>arrazialen_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:P|MUG:M|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Plur</td><td><em>normal-normalengatik</em></td></tr>
+  <tr><td>ADJ ARR NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Plur</td><td><em>Gorri-berdeekin</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:ABL|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Oth|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em></em></td></tr>
@@ -947,7 +947,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:ABS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABS|MAI:GEHI</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:ABS|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:ABU|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ter|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ABZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Lat|Number=Sing</td><td><em></em></td></tr>
@@ -957,7 +957,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:ALA|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ALA|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:ALA|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:ALA|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:ALA|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em></em></td></tr>
@@ -975,43 +975,43 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:GEL|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:GEL|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:GEL|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:GEL|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:GEN|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:GEN|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:GEN|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:INE|ENT:???</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Oth|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:INE|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:INE|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:INE|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:INS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:MOT</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:MOT|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:MOT|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Cau|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
   <tr><td>ADJ ARR NUM:S|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADJ ARR NUM:S|KAS:SOZ|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|KAS:SOZ|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ABS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>ADJ ARR NUM:S|KAS:SOZ|MAI:KONP</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abl|Number=Sing</td><td><em>ez-alderanztailetik</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing</td><td><em>erraboilduna, pozointsua, atabikoa, pasaitarra, desonesta</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ABS|ENT:Tokia</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Lekitxarra</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ABS|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em>prestijiotsuena</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing</td><td><em>ultraortodoxora</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing</td><td><em>alkaueteari, popularrari, gorri-berdeari</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing</td><td><em>gorri-berdeak, ugaoarrak, loialistak, donaixtiarrak, hondarribitarrak</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>Mugimendu_Paralinpiarrak, Miangolarrak, Partidu_Popularrak</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|Number=Sing</td><td><em>Miangolarrak</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing</td><td><em>anticastristako, Antifaszistako</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:GEL|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Partidu_Popularreko</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Sing</td><td><em>popularraren, multidimentsionalaren, ezlegezkoaren, biolentoaren</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing</td><td><em>zuzen-zuzenean, ez-alderanztailean, asoziatiboan, Tourrean, gori-gorian</em></td></tr>
+  <tr><td>ADJ ARR NUM:S|MUG:M|KAS:INE|MAI:SUP</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Degree=Sup|Number=Sing</td><td><em>igantenean</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ARR NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|Number=Sing</td><td><em>gorri-berdearekin, bahamatarrarekin, logiko-zientifikoarekin, arrosarekin</em></td></tr>
   <tr><td>ADJ ARR _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>popular, intimo, bibotedun, akustiko-musikal, erradioaktiko</em></td></tr>
-  <tr style="background:lightgray"><td>ADJ GAL NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>ADJ GAL NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADJ GAL NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Int</td><td><em>Nolakoak</em></td></tr>
+  <tr><td>ADJ GAL NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Int</td><td><em>nolakoa, zelakoa, nongoa</em></td></tr>
   <tr style="background:lightgray"><td>ADJ GAL NUM:S|MUG:M|MW:B</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Int</td><td><em>nondik_norakoaz</em></td></tr>
   <tr><td>ADJ GAL _</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>nolako, zer-nolako</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>bagara</em></td></tr>
@@ -1903,7 +1903,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:ABS|MUG:MG|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dutenen</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:GU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>gaituztenak</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Person[abs]=3</td><td><em>direnak</em></td></tr>
-  <tr><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
+  <tr><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaizkienak</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dituztenak</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK|NORK:HARK|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>dizkigunak</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>dugunak</em></td></tr>
@@ -1982,9 +1982,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL_IZEELI KAS:INE|NUM:P|MUG:M|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Case=Ine|Number=Plur|Number[abs]=Plur|Person[abs]=3</td><td><em>direnetan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:INE|NUM:P|MUG:M|MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Case=Ine|Number=Plur|Number[abs]=Sing|Person[abs]=1</td><td><em>naizenetan</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:INE|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Ine|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dutelakoan</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:INE|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Ine|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:INE|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Ine|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zuelakoan</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:INS|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>zutenaz</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:MOT|NUM:S|MUG:M|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Case=Cau|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:MOT|NUM:S|MUG:M|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Case=Cau|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em>denagatik</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:MOT|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Cau|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dutenagatik</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:MOT|NUM:S|MUG:M|MDN:B1|NOR:GU|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Cau|Number=Sing|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>gintuenagatik</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:MOT|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Case=Cau|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zitzaionagatik</em></td></tr>
@@ -2034,10 +2034,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>naizenetik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituenean, zituenerako, zituenetik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zegoenean, zihoanean, zenean</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zuenean</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>gauden, gabiltzan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:GU|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=1|Person[erg]=3|VerbForm=Fin</td><td><em>garamatzaten</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>dauden, datozen, diren, dabiltzan, doazen</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>diren</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagozkien</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagozkion, zaizkion</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ditugun, dakizkigun</em></td></tr>
@@ -2080,7 +2080,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>baitira, direlako, baitaude, daudelako, daudenez</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>baitituzte, dituztelako</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituelako, baititu, dauzkanez</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>baita, delako, dagoelako, denez, baitago</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>danez</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em>dagokigunez</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokienez</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokionez</em></td></tr>
@@ -2104,19 +2104,19 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:KAUS|MOD:EGI|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>badakidalako</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KAUS|MOD:EGI|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bazegoelako</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>garela, gaudela, gabiltzala</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>direla, daudela, doazela, datozela, direnik</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>direla</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dauzkagula, ditugula</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituztela, darabiltzatela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituela, daramatzala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ditudala</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dituzula</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dela, dagoela, denik, doala, dabilela</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokiela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>zaiola</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>daukagula, dugula, daukagunik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dutela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>diotela</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duela, dakiela, dakarrela, daukala, darabilela</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>diela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>diola</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>daukadala</em></td></tr>
@@ -2125,11 +2125,11 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A3|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>daudela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A3|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dagola</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>ginela</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>zirela, zeudela, zetozela</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>zirela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>genituela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituztela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituela</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zela, zegoela, zihoala, zegoenik, zetorrela</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>zegokiola</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>genuela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zutela</em></td></tr>
@@ -2161,7 +2161,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:HURA|NORK:HARK|ENT:Pertsona</td><td>=&gt;</td><td>VERB</td><td>NameType=Prs|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>DUELA, Duela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zaudela, zaudelarik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>geundela, geundelarik</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>zirela, zebiltzala, zihoazela, zeudela</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>zirela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituztela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituela, zituelarik, zeramatzala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zegoela, zihoala, zela, zebilela</em></td></tr>
@@ -2178,7 +2178,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:MOS|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duten</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOS|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duen, dakien, daraman, dioen</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>ziren</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zihoan, zegoen</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bazen</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B1|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em>zitzaidan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zirudien</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOS|MDN:B4|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bailituen</em></td></tr>
@@ -2187,7 +2187,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOS|MOD:EGI|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>baden</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>gauden</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>dauden, diren</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>den, dagoen, datorren, datzan, dagoenentz</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>den</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokion</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dugun</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duten, dioten</em></td></tr>
@@ -2322,7 +2322,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>zegokion, zetorkion</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>genuen, genekien</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zuten, zioten, zekiten, zeukaten</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zuen, zeukan, zioen, zirudien, zekien</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zuen</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:HARK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zian</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zeritzen</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>nuen, nekien, neukan, niharduen, neraman</em></td></tr>
@@ -2491,147 +2491,147 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>BEREIZ BEREIZ _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>", (, ), -, »</em></td></tr>
   <tr><td>BST BST ENT:Pertsona</td><td>=&gt;</td><td>X</td><td>NameType=Prs</td><td><em>El, Le, De</em></td></tr>
   <tr style="background:lightgray"><td>BST BST MTKAT:LAB</td><td>=&gt;</td><td>X</td><td>_</td><td><em>etab</em></td></tr>
-  <tr><td>BST BST MTKAT:LAB|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>X</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>BST BST MW:B</td><td>=&gt;</td><td>X</td><td>_</td><td><em>gero_eta, ahalik_eta, eta_guzti, eta_bost, askoz_ere</em></td></tr>
+  <tr><td>BST BST MTKAT:LAB|NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>X</td><td>Case=Erg|Number=Plur</td><td><em>etab.ek</em></td></tr>
+  <tr style="background:lightgray"><td>BST BST MW:B</td><td>=&gt;</td><td>X</td><td>_</td><td><em>ez_beste</em></td></tr>
   <tr><td>BST BST NUM:P|KAS:ERG</td><td>=&gt;</td><td>X</td><td>Case=Erg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>BST BST _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>baino, de, ohi, ea, ezta</em></td></tr>
   <tr><td>DET BAN KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Dist</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET BAN KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Dist</td><td><em>36nako</em></td></tr>
   <tr><td>DET BAN KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Dist</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET BAN MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Dist</td><td><em></em></td></tr>
-  <tr><td>DET BAN MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Dist</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET BAN PLU:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Dist</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET BAN MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Dist</td><td><em>bana, 6na, 25na, 31na, 30na</em></td></tr>
+  <tr><td>DET BAN MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Dist</td><td><em>banarekin</em></td></tr>
+  <tr style="background:lightgray"><td>DET BAN PLU:-|MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Dist</td><td><em>21na</em></td></tr>
   <tr><td>DET BAN _</td><td>=&gt;</td><td>NUM</td><td>NumType=Dist</td><td><em>300na, hiruna, 28na, 26na, bina</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:EM</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ABL|POS:POSarteetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ALA|POS:POSantzera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:SOZ|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MUG:MG|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG MW:B</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>bat_edo_beste</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NMG:MG</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>hainbat, zenbait, milaka, batere, hainbeste</em></td></tr>
-  <tr><td>DET DZG NMG:MG|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>gutxira_arte</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NMG:MG|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em>gutxira</em></td></tr>
-  <tr><td>DET DZG NMG:MG|KAS:DESK</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em>gutxiko, gehiagoko, askoko, larregiko, anitzeko</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NMG:MG|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>gutxian, gehiagoan, askoan</em></td></tr>
-  <tr><td>DET DZG NMG:MG|MW:B</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>pixka_bat</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NMG:P</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>milioika</em></td></tr>
-  <tr><td>DET DZG NMG:S|MW:B</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>makina_bat</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:INE|POS:POSaintzinean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABL|POS:POSgibeletik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ALA|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Sing|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>DET DZG _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>beste, nahikoa, nahiko, bertze</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:EM</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG KAS:PAR</td><td>=&gt;</td><td>DET</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>gehien, beste, gutxien, gutxiagorako, nahikoa</em></td></tr>
+  <tr><td>DET DZG MUG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>bat_edo_beste</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em>gehienentzat</em></td></tr>
+  <tr><td>DET DZG MUG:MG|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em>askotariko</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>bestetan</em></td></tr>
+  <tr><td>DET DZG MUG:MG|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em>gutxienez</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|KAS:PAR</td><td>=&gt;</td><td>DET</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em>besterik, nahikorik</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em>askotatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ABL|POS:POSarteetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|NumType=Card|PronType=Ind</td><td><em>askoren_arteetik</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>gehiago, asko, ugari, gutxi, gutxiago</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>pixka_bat, beste_horrenbeste, beste_hainbeste</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>hainbatez_gain</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ALA|POS:POSantzera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em>hainbaten_antzera</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Card|PronType=Ind</td><td><em>askori, Zenbaiti</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|NumType=Card|PronType=Ind</td><td><em>askorentzat</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em>askok_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSbidez|POS:+</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em>zenbaiten_bidez</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em>zenbaiten_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|NumType=Card|PronType=Ind</td><td><em>askok, gehiagok, gutxik, ugarik, hainbatek</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em>askotako</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em>ugariren, askoren, gutxiren</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>askotan, gehiagotan, gutxitan, zenbaitetan, dezentetan</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>askoren_artean, gehiagoren_artean</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>askoren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Ind</td><td><em>askoz, gehiegiz, anitzez, askotaz</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|NumType=Card|PronType=Ind</td><td><em>gutxirengatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:PAR</td><td>=&gt;</td><td>DET</td><td>Case=Par|NumType=Card|PronType=Ind</td><td><em>askorik, gehiegirik</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:MG|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em>gehiagorekin, gutxiagorekin, ugarirekin, dezenterekin, askorekin</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:MG|KAS:SOZ|MW:B</td><td>=&gt;</td><td>DET</td><td>Case=Com|NumType=Card|PronType=Ind</td><td><em>pixka_batekin</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>batzu</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:P|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em>batzutako</em></td></tr>
+  <tr><td>DET DZG MUG:MG|NMG:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Ind</td><td><em>batzuren</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG MUG:MG|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>batzutan</em></td></tr>
+  <tr><td>DET DZG MW:B</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>bat_edo_beste</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NMG:MG</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>hainbat, zenbait, milaka, batere, hainbeste</em></td></tr>
+  <tr><td>DET DZG NMG:MG|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|NumType=Card|PronType=Ind</td><td><em>gutxira_arte</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NMG:MG|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|NumType=Card|PronType=Ind</td><td><em>gutxira</em></td></tr>
+  <tr><td>DET DZG NMG:MG|KAS:DESK</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Ind</td><td><em>gutxiko, gehiagoko, askoko, larregiko, anitzeko</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NMG:MG|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|NumType=Card|PronType=Ind</td><td><em>gutxian, gehiagoan, askoan</em></td></tr>
+  <tr><td>DET DZG NMG:MG|MW:B</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>pixka_bat</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NMG:P</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>milioika</em></td></tr>
+  <tr><td>DET DZG NMG:S|MW:B</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>makina_bat</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gehienok</em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:EM</td><td>=&gt;</td><td>DET</td><td>Number=Plur|NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:P|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteengandik</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteen_gainetik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gehienak, besteak</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteei</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gehienentzat</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em>gehienak_bezala, gehienetakoak_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gehienek, besteek, gutiz-gehienek</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gehienetako, besteekiko, batzuekiko</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteen, gehientsuen</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteetan, gehienetan</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:INE|POS:POSaintzinean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteen_aintzinean</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em>besteen_artean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|NumType=Card|PronType=Ind</td><td><em>bertzeekin</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuetatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen_aldetik</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen_atzetik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuk, batzuetakoak, gehientsuenak</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em>gutxi_batzuk, bakar_batzuk</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuei_esker</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuetara</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuei</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuentzat</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuek</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuetako</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEL|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen_aurkako</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuetan</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen_artean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuez</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuen_bitartez</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuengatik</em></td></tr>
+  <tr><td>DET DZG NUM:P|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|NumType=Card|PronType=Ind</td><td><em>batzuekin</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ABZ</td><td>=&gt;</td><td>DET</td><td>Case=Lat|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:EM</td><td>=&gt;</td><td>DET</td><td>Number=Sing|NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>DET DZG NUM:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestetik, bestearengandik</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestearen_atzetik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABL|POS:POSgibeletik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestearen_gibeletik</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestea, nahikoa, gehiena, bestekoa</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ABZ</td><td>=&gt;</td><td>DET</td><td>Case=Lat|Number=Sing|NumType=Card|PronType=Ind</td><td><em>besterantz</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestera</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:ALA|MW:B</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|NumType=Card|PronType=Ind</td><td><em>batetara_edo_bestera</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|NumType=Card|PronType=Ind</td><td><em>besteari</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|NumType=Card|PrepCase=Pre|PronType=Ind</td><td><em>bestearen_ondoren</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|NumType=Card|PronType=Ind</td><td><em>besteak</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|NumType=Card|PronType=Ind</td><td><em>besteko</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestearen</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|NumType=Card|PronType=Ind</td><td><em>bestean</em></td></tr>
+  <tr><td>DET DZG NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|NumType=Card|PronType=Ind</td><td><em>besteaz</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZG NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|NumType=Card|PronType=Ind</td><td><em>gutxienarekin, bestearekin</em></td></tr>
+  <tr><td>DET DZG _</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>beste, nahikoa, nahiko, bertze</em></td></tr>
   <tr style="background:lightgray"><td>DET DZH ENT:???</td><td>=&gt;</td><td>NUM</td><td>NameType=Oth|NumType=Card</td><td><em></em></td></tr>
   <tr><td>DET DZH KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET DZH KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
@@ -2648,32 +2648,32 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET DZH KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET DZH KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card</td><td><em></em></td></tr>
   <tr><td>DET DZH KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:BNK</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:GEN|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ABS|ENT:???</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NameType=Oth|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>DET DZH MUG:MG|NMG:S|KAS:SOZ|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>baterako, 10:00etarako, batentzako</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>bi, hiru, zortzi, zazpi, lau</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>Hogeita_hamabi</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:BNK</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em>hamarreko, 1990eko</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card</td><td><em>zazpiri, seiri, hamaikakori</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em>3.30etatik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card</td><td><em>bik, hiruk, 9k, Seik, %17k</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em>400etako</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em>hamarren, biren, 12ren</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:GEN|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em>hogeita_hamarren</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card</td><td><em>bitan, 107tan, bortzetan, 22tan, 1.30etan</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em>%19,8rekin, birekin</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>bat, 6-1, 1, baten</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ABS|ENT:???</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NameType=Oth|NumType=Card</td><td><em>BAT</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ABS|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>apur_bat</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card</td><td><em>bati_esker</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card</td><td><em>batekin_batera</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card</td><td><em>bati</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card</td><td><em>batentzat</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em>bati_begira</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PrepCase=Pre</td><td><em>bati_buruz</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card</td><td><em>batek</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card</td><td><em>batez</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:PAR</td><td>=&gt;</td><td>NUM</td><td>Case=Par|NumType=Card</td><td><em>batik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH MUG:MG|NMG:S|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em>batekin</em></td></tr>
+  <tr><td>DET DZH MUG:MG|NMG:S|KAS:SOZ|MW:B</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card</td><td><em>apur_batekin</em></td></tr>
   <tr style="background:lightgray"><td>DET DZH NMG:P</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>bi, hiru, lau, bost, sei</em></td></tr>
   <tr><td>DET DZH NMG:P|ENT:???</td><td>=&gt;</td><td>NUM</td><td>NameType=Oth|NumType=Card</td><td><em>LAU</em></td></tr>
   <tr style="background:lightgray"><td>DET DZH NMG:P|KAS:DESK</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em>%50eko, hiruko, 1:22ko, 6.96ko, 328ko</em></td></tr>
@@ -2710,76 +2710,76 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET DZH NMG:S|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card</td><td><em>baten_bidez</em></td></tr>
   <tr style="background:lightgray"><td>DET DZH NMG:S|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card</td><td><em>baten_bitartez</em></td></tr>
   <tr><td>DET DZH NMG:S|KAS:MOT</td><td>=&gt;</td><td>NUM</td><td>Case=Cau|NumType=Card</td><td><em>batengatik, bategatik</em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NameType=Com|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NameType=Prs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NameType=Com|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:EM|POS:POSaitzina|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:EM|POS:POSirian|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NameType=Prs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ALA|POS:POSbehera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POShurbil|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Plur|NumType=Card</td><td><em>bion_aldetik</em></td></tr>
+  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em>Biok, laurok</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em>bioi</em></td></tr>
+  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|Number=Plur|NumType=Card</td><td><em>biok</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumType=Card</td><td><em>bion, hiruron</em></td></tr>
+  <tr><td>DET DZH NUM:PH|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>bion_artean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NameType=Com|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NameType=Prs|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Plur|NumType=Card</td><td><em>bietatik, 8etatik, 10etatik, 11:15etatik, Hiruretatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em>biak, hirurak, laurak, 20:00ak, bostak</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em>bederatziak_arte, 12:00ak_arte</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>9etara, 11:45-etara, 12:00etara</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>zortziak_aldera, laurak_aldera, 18:00ak_aldera</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>18:00etatik_aurrera, Zortzietatik_aurrera, 9:00etatik_aurrera</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DAT</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em>biei</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DAT|ENT:Erakundea</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NameType=Com|Number=Plur|NumType=Card</td><td><em>Hamabostei</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:DES</td><td>=&gt;</td><td>NUM</td><td>Case=Ben|Number=Plur|NumType=Card</td><td><em>bientzat</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:EM|POS:POSaitzina|POS:+</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card|PrepCase=Pre</td><td><em>zortzietatik_aitzina</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:EM|POS:POSirian|POS:+</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card|PrepCase=Pre</td><td><em>09:00ak_irian</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|Number=Plur|NumType=Card</td><td><em>biek, bidek, 15ek, hirurek</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|NameType=Prs|Number=Plur|NumType=Card</td><td><em>Hamabostek</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em>bietako</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em>bien_arteko, hiruren_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumType=Card</td><td><em>bien, bosten</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>bietan, 10:00etan, zazpietan, hamarretan, 11:00etan</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>ehunen_artean, bien_artean, Hamalauen_artean</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>bostak_bitartean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>23:30ak_inguruan, 12ak_inguruan</em></td></tr>
+  <tr><td>DET DZH NUM:P|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Plur|NumType=Card</td><td><em>biekin, hirurekin, Hamabostekin</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:S|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:EM</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:S|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>DET DZH NUM:S|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>baterako</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em>%100ekoa, hamabostekoa, 15.000koa, 25.000koa, hamazazpikoa</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:P|KAS:SOZ</td><td>=&gt;</td><td>NUM</td><td>Case=Com|Number=Sing|NumType=Card</td><td><em>328koarekin, 640koarekin</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABL</td><td>=&gt;</td><td>NUM</td><td>Case=Abl|Number=Sing|NumType=Card</td><td><em>batetik</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>NUM</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em>bata, batekoa, batena</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ABZ</td><td>=&gt;</td><td>NUM</td><td>Case=Lat|Number=Sing|NumType=Card</td><td><em>baterantz</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ALA</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Sing|NumType=Card</td><td><em>batera</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ALA|POS:POSbehera|POS:+</td><td>=&gt;</td><td>NUM</td><td>Case=All|Number=Sing|NumType=Card</td><td><em>batetik_behera</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>batean_bezala</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POShurbil|POS:+</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>batetik_hurbil</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>batean_zehar</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:ERG</td><td>=&gt;</td><td>NUM</td><td>Case=Erg|Number=Sing|NumType=Card</td><td><em>batak</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:GEL</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>bateko</em></td></tr>
+  <tr><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:INE</td><td>=&gt;</td><td>NUM</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em>batean, batetan, ordubatean, 1ean</em></td></tr>
+  <tr style="background:lightgray"><td>DET DZH NUM:S|MUG:M|NMG:S|KAS:INS</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Card</td><td><em>bataz</em></td></tr>
   <tr><td>DET DZH _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>DET ERKARR KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR MUG:MG|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem</td><td><em>horretarako, honetarako, hartarako, horietarako, hauetarako</em></td></tr>
+  <tr><td>DET ERKARR MUG:MG|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Dem</td><td><em>horietakoren</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR NUM:P|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>DET ERKARR NUM:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR NUM:P|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
@@ -2792,41 +2792,41 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET ERKARR NUM:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR NUM:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>DET ERKARR NUM:P|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSondora|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbarrena|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSburuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em>horietatik, haietatik, hauetatik, haiengandik, hauetarik</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em>hauen_aurretik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Dem</td><td><em>haien_gainetik</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em>horiek, hauek, haiek</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em>hauexek</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em>haien_alde</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem</td><td><em>horiez_gain, hauez_gain</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em>hauetara, haietara</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em>horiekin_batera</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em>Hauez_gainera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ALA|POS:POSondora|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Dem</td><td><em>horien_ondora</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem</td><td><em>hauei, horiei</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Dem</td><td><em>horientzat</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>horien_arabera, hauen_arabera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbarrena|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>haietan_barrena</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>hauekin_batera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>hauek_bezalako</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>horiei_buruz, hauei_buruz</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>haien_kontra</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>haien_ondoren, hauen_ondoren</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>hauen_ordez</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Dem</td><td><em>hauetan_zehar</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Dem</td><td><em>horiek, hauek, haiek</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em>haietako, horietako, hauetako, horietarako, horietariko</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em>horiei_buruzko</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em>haien_kontrako</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em>haien, horien, hauen</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>hauetan, horietan, haietan, haiengan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>horien_artean, haien_artean, hauen_artean</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>horien_atzean, hauen_atzean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>haien_aurrean, hauen_aurrean</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSburuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>horien_buruan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem</td><td><em>horien_ostean</em></td></tr>
+  <tr><td>DET ERKARR NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem</td><td><em>hauetaz</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Dem</td><td><em>haiekin, horiekin, hauekin</em></td></tr>
   <tr><td>DET ERKARR NUM:S|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR NUM:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>DET ERKARR NUM:S|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
@@ -2841,71 +2841,71 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>DET ERKARR NUM:S|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>DET ERKARR NUM:S|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKARR NUM:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSlanda|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSpareko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POStruke|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSat|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbarrena|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSurrun|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSondorengo|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbaitan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSburuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSlekuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:MOT|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:SOZ|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em>horretatik, hartatik, honetatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em>haren_atzetik</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em>honen_aurretik, Horren_aurretik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Dem</td><td><em>horren_ondotik</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>hori, hau, hura, harena, horietakoa</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horixe, hauxe, Huraxe</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horren_alde</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horretara_arte, honetara_arte</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horren_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSesker|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horri_esker, honi_esker, hari_esker</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horretaz_gain, Honetaz_gain</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSlanda|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>Horretaz_landa</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>haren_menpe</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POSpareko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horren_pareko</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ABS|POS:POStruke|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem</td><td><em>horren_truke</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem</td><td><em>horretaraino, hartaraino</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em>horretara, honetara, hartara</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ALA|POS:POSbatera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em>Honekin_batera, horrekin_batera</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem</td><td><em>horrezaz_gainera, haren_gainera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Dem</td><td><em>horri, honi, hari</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Sing|PronType=Dem</td><td><em>harentzat, honentzat</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horren_antzeko</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>honen_arabera, horren_arabera, haren_arabera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSat|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>honetatik_at</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>honetatik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbarrena|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>hartan_barrena</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbegira|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>hari_begira</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>hau_bezalako, Hura_bezalako</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horren_bila</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horri_buruz</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSgainera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>Honetaz_gainera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horren_kontra, haren_kontra</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>Haren_ondoren, horren_ondoren, Honen_ondoren</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSordez|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horren_ordez, haren_ordez</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSurrun|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horretatik_urrun</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSzain|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>honen_zain</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem</td><td><em>horretan_zehar, honetan_zehar</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Dem</td><td><em>horrek, honek, hark, harenak</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>horretako, honetako, hartako, horretarako, hartarako</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>honen_antzeko</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>honen_atzeko</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>horri_buruzko, honi_buruzko</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>horren_inguruko, haren_inguruko</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>horren_kontrako</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:GEL|POS:POSondorengo|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em>Haren_ondorengo</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Dem</td><td><em>horren, haren, honen</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horretan, honetan, hartan, hortan, huntan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horretantxe, horrexetan</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>haren_aldean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>Honen_atzean</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbaitan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horren_baitan</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horren_barnean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>honen_barruan, horren_barruan</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSburuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horren_buruan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>haren_gainean</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>horren_inguruan, haren_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INE|POS:POSlekuan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem</td><td><em>haren_lekuan</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em>horretaz, honetaz</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em>horren_bidez</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:INS|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em>honen_bitartez</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem</td><td><em>horregatik, honengatik, horrengatik, honegatik, hargatik</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:MOT|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem</td><td><em>Horrexegatik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKARR NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem</td><td><em>horrekin, honekin, harekin</em></td></tr>
+  <tr><td>DET ERKARR NUM:S|MUG:M|KAS:SOZ|MAI:IND</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem</td><td><em>horrexekin</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>DET ERKIND KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
@@ -2914,8 +2914,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET ERKIND KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Dem|Reflex=Yes</td><td><em>bereko</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>DET ERKIND KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND MUG:MG|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND MUG:MG|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem|Reflex=Yes</td><td><em>bere</em></td></tr>
+  <tr><td>DET ERKIND MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Dem|Reflex=Yes</td><td><em>berori</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NMG:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Dem|Reflex=Yes</td><td><em>berauen</em></td></tr>
   <tr><td>DET ERKIND NMG:S|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|PronType=Dem|Reflex=Yes</td><td><em>beretik, berberetik</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NMG:S|KAS:ABL|POS:POSaitzinetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|PronType=Dem|Reflex=Yes</td><td><em>Bere_aitzinetik</em></td></tr>
@@ -2945,17 +2945,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>DET ERKIND NUM:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>DET ERKIND NUM:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NUM:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSbaitan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>berekoak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>berak, hHriek, berauek</em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>beren_esku</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ABS|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>beren_menpe</em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>berek, berberek</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>beren</em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>berauetan, beretan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>Beren_artean</em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INE|POS:POSbaitan|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>beren_baitan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:P|MUG:M|NMG:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>berorietaz</em></td></tr>
+  <tr><td>DET ERKIND NUM:P|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Dem|Reflex=Yes</td><td><em>bereak, berberak</em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NUM:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>DET ERKIND NUM:S|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NUM:S|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
@@ -2969,30 +2969,30 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>DET ERKIND NUM:S|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>DET ERKIND NUM:S|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ERKIND NUM:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSurruti|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>DET</td><td>Case=Erg|NameType=Prs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berekoa</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>bera, berbera, berea</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berarenganaino</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berarengana, berera</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berari</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berarentzat</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em>bera_bezalako</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em>beraren_bila</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em>bera_gabe</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:EM|POS:POSurruti|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Dem|Reflex=Yes</td><td><em>berarengandik_urruti</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berak, berberak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>DET</td><td>Case=Erg|NameType=Prs|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>Berak</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>beraren, berberaren</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berarengan</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>beraz</em></td></tr>
+  <tr style="background:lightgray"><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>beragatik, berarengatik, berberagatik</em></td></tr>
+  <tr><td>DET ERKIND NUM:S|MUG:M|NMG:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Dem|Reflex=Yes</td><td><em>berarekin, berberarekin</em></td></tr>
   <tr style="background:lightgray"><td>DET NOLARR KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr><td>DET NOLARR KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET NOLARR KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>DET NOLARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLARR MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>DET NOLARR MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLARR MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Ind,Neg</td><td><em></em></td></tr>
+  <tr><td>DET NOLARR MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>edozertarako</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLARR MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>edozein, zernahi</em></td></tr>
+  <tr><td>DET NOLARR MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Ind,Neg</td><td><em>ezeini</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLARR MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Ind,Neg</td><td><em>edozeinek</em></td></tr>
   <tr><td>DET NOLARR NMG:MG</td><td>=&gt;</td><td>DET</td><td>PronType=Ind,Neg</td><td><em>edozein, ezein, ze, edozer, zernahi</em></td></tr>
   <tr style="background:lightgray"><td>DET NOLARR _</td><td>=&gt;</td><td>DET</td><td>PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr><td>DET NOLGAL KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
@@ -3004,83 +3004,83 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET NOLGAL KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET NOLGAL KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|PronType=Int</td><td><em></em></td></tr>
   <tr><td>DET NOLGAL KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL MUG:MG|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em>zertarako</em></td></tr>
+  <tr><td>DET NOLGAL MUG:MG|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Int</td><td><em>Zertarako</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em>zer, zein, zenbat, Zonbat, zoin</em></td></tr>
+  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|PronType=Int</td><td><em>zertara</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Int</td><td><em>zeri</em></td></tr>
+  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|PronType=Int</td><td><em>zeinentzat, Zerendako</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Int</td><td><em>zeinek, Zerk</em></td></tr>
+  <tr><td>DET NOLGAL MUG:MG|NMG:MG|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|PronType=Int</td><td><em>zertan</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL MUG:MG|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Int</td><td><em>Zeintzu</em></td></tr>
   <tr><td>DET NOLGAL NMG:MG</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>zein, zer, zenbat</em></td></tr>
   <tr style="background:lightgray"><td>DET NOLGAL NMG:MG|KAS:ABU</td><td>=&gt;</td><td>DET</td><td>Case=Ter|PronType=Int</td><td><em>zenbateraino</em></td></tr>
   <tr><td>DET NOLGAL NMG:MG|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Int</td><td><em>zertaz</em></td></tr>
   <tr style="background:lightgray"><td>DET NOLGAL NUM:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Int</td><td><em></em></td></tr>
   <tr><td>DET NOLGAL NUM:P|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET NOLGAL NUM:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL NUM:P|MUG:M|NMG:MG|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>DET NOLGAL NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>DET NOLGAL NUM:P|MUG:M|NMG:MG|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int</td><td><em>zeinen</em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL NUM:P|MUG:M|NMG:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Int</td><td><em>Zeintzuk</em></td></tr>
+  <tr><td>DET NOLGAL NUM:P|MUG:M|NMG:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Int</td><td><em>zeintzuetan</em></td></tr>
   <tr style="background:lightgray"><td>DET NOLGAL NUM:S</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Int</td><td><em></em></td></tr>
   <tr><td>DET NOLGAL NUM:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET NOLGAL NUM:S|MUG:M|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET NOLGAL NUM:S|MUG:M|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Int</td><td><em>zeina</em></td></tr>
   <tr><td>DET NOLGAL _</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORD ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com|NumType=Ord</td><td><em>II., XVI., LEHEN</em></td></tr>
   <tr><td>DET ORD ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>NameType=Prs|NumType=Ord</td><td><em>II., Bigarren, Lehenengo</em></td></tr>
   <tr style="background:lightgray"><td>DET ORD KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>DET ORD KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORD KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|NumType=Ord</td><td><em></em></td></tr>
-  <tr><td>DET ORD MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Ord</td><td><em></em></td></tr>
-  <tr><td>DET ORD MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|NumType=Ord</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:P|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:P|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ABS|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:GEN|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|KAS:SOZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ABS|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:GEN|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>DET ORD NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:SOZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Prs|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>DET ORD MUG:MG|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NumType=Ord</td><td><em>bigarren, hirugarren, bosgarren, laugarren, seigarren</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD MUG:MG|KAS:INS</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Ord</td><td><em>bigarrengoz, lehenengotaz, hamargarrenez</em></td></tr>
+  <tr><td>DET ORD MUG:MG|KAS:PAR</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|NumType=Ord</td><td><em>lehenik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:P|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:P|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:P|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Plur|NumType=Ord</td><td><em>azkenak, Bigarrenak, lehenengoak, lehenak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Plur|NumType=Ord</td><td><em>lehenek, lehenengoek, bigarrenek</em></td></tr>
+  <tr><td>DET ORD NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Plur|NumType=Ord</td><td><em>XVIgarrenetan</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ABS|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Prs|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:GEN|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Prs|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>DET ORD NUM:S|KAS:SOZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Prs|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing|NumType=Ord</td><td><em>bigarrena, azkena, lehena, hirugarrena, aurrena</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Com|Number=Sing|NumType=Ord</td><td><em>Zeberio_II.a, Urriaren_Lehena, Ziskar_II.a</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ABS|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|NameType=Prs|Number=Sing|NumType=Ord</td><td><em>Zeberio_II.a, Titin_III.a, Goñi_II.a, Alberdi_I.a, Altuna_I.a</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>ADJ</td><td>Case=Abs|Number=Sing|NumType=Ord</td><td><em>azkenera_arte</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>ADJ</td><td>Case=All|Number=Sing|NumType=Ord</td><td><em>500.era</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Sing|NumType=Ord</td><td><em>bigarrenari</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|Number=Sing|NumType=Ord</td><td><em>bigarrenak, Lehenak, bosgarrenak, lehenengoak, laugarrenak</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Erg|NameType=Prs|Number=Sing|NumType=Ord</td><td><em>Retegi_II.ak, Zeberio_II.ak, Titin_III.ak, Altuna_II.ak, Enrike_II.ak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:GEL</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Sing|NumType=Ord</td><td><em>aurreneko, 1995.eko, 30.eko, 1996.eko, bigarrengo</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:GEN|ENT:Erakundea</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Com|Number=Sing|NumType=Ord</td><td><em>Lasa_III.aren</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:GEN|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NameType=Prs|Number=Sing|NumType=Ord</td><td><em>Goñi_III.aren</em></td></tr>
+  <tr><td>DET ORD NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>ADJ</td><td>Case=Ine|Number=Sing|NumType=Ord</td><td><em>bigarrenean, lehenengoan, hirugarrenean, 1991.ean, lehenean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORD NUM:S|MUG:M|KAS:SOZ|ENT:Pertsona</td><td>=&gt;</td><td>ADJ</td><td>Case=Com|NameType=Prs|Number=Sing|NumType=Ord</td><td><em>Titin_III.arekin</em></td></tr>
   <tr><td>DET ORD _</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em>azken, lehen, bigarren, lehenengo, hirugarren</em></td></tr>
   <tr style="background:lightgray"><td>DET ORO KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORO KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO MUG:MG|NMG:MG|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:PH|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:PH|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO MUG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Tot</td><td><em>guztientzako</em></td></tr>
+  <tr><td>DET ORO MUG:MG|NMG:MG|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|PronType=Tot</td><td><em>oro</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO MUG:MG|NMG:MG|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Tot</td><td><em>orori</em></td></tr>
+  <tr><td>DET ORO MUG:MG|NMG:MG|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|PronType=Tot</td><td><em>orok</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO MUG:MG|NMG:MG|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Tot</td><td><em>oroz</em></td></tr>
+  <tr><td>DET ORO NUM:PH|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Tot</td><td><em>denok, guztiok, danok</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Tot</td><td><em>denoi, guztioi</em></td></tr>
+  <tr><td>DET ORO NUM:PH|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Tot</td><td><em>guztiontzat, denontzat</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Tot</td><td><em>guztiok, denok</em></td></tr>
+  <tr><td>DET ORO NUM:PH|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Tot</td><td><em>denon, guztion</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:PH|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em>denon_artean, Guztion_artean</em></td></tr>
   <tr><td>DET ORO NUM:P|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORO NUM:P|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO NUM:P|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
@@ -3093,25 +3093,25 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>DET ORO NUM:P|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO NUM:P|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORO NUM:P|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSantzera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Tot</td><td><em>guztietatik, denetarik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Plur|PronType=Tot</td><td><em>guztien_gainetik</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Plur|PronType=Tot</td><td><em>guztiak, denak, guziak, guztionak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Plur|PronType=Tot</td><td><em>guztietara</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Tot</td><td><em>guztiei</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:DES</td><td>=&gt;</td><td>DET</td><td>Case=Ben|Number=Plur|PronType=Tot</td><td><em>guztientzat, guzientzat</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSantzera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em>guztien_antzera</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSarabera|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em>guztien_arabera</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PrepCase=Pre|PronType=Tot</td><td><em>guztiak_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Plur|PronType=Tot</td><td><em>guztiek, denek</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:GEL</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Tot</td><td><em>guztietako, guztitako, denetariko, guztientzako</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Tot</td><td><em>guztien_arteko</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Tot</td><td><em>guztien, denen</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em>guztietan, guztiengan, denetan</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em>guztien_aldean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em>denen_artean, guztien_artean</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Plur|PronType=Tot</td><td><em>guztien_erdian</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:P|MUG:M|KAS:INS</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Tot</td><td><em>guztiez, guztietaz</em></td></tr>
+  <tr><td>DET ORO NUM:P|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Plur|PronType=Tot</td><td><em>Denekin, guztiekin, guziekin</em></td></tr>
   <tr style="background:lightgray"><td>DET ORO NUM:S|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO NUM:S|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORO NUM:S|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
@@ -3122,20 +3122,20 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>DET ORO NUM:S|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>DET ORO NUM:S|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>DET ORO NUM:S|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>DET ORO NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ABL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Tot</td><td><em>denetik</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:ABL|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Number=Sing|PronType=Tot</td><td><em>guztiaren_gainetik</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ABS</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Tot</td><td><em>guztia, dena, denona, guziarena, den-dena</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:ABS|POS:POSgain|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Abs|Number=Sing|PronType=Tot</td><td><em>guztiaz_gain</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:ALA</td><td>=&gt;</td><td>DET</td><td>Case=All|Number=Sing|PronType=Tot</td><td><em>guztira, Denera</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:DAT</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Sing|PronType=Tot</td><td><em>guztiari</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:EM|POS:POSzehar|POS:+</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PrepCase=Pre|PronType=Tot</td><td><em>guztian_zehar</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>DET</td><td>Case=Erg|Number=Sing|PronType=Tot</td><td><em>guztiak, denak</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Tot</td><td><em>guztiaren, guztionen</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:INE</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em>guztian</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em>guztiaren_atzean</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>DET</td><td>Case=Ine|Number=Sing|PronType=Tot</td><td><em>guztiaren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>DET ORO NUM:S|MUG:M|KAS:MOT</td><td>=&gt;</td><td>DET</td><td>Case=Cau|Number=Sing|PronType=Tot</td><td><em>guztiagatik</em></td></tr>
+  <tr><td>DET ORO NUM:S|MUG:M|KAS:SOZ</td><td>=&gt;</td><td>DET</td><td>Case=Com|Number=Sing|PronType=Tot</td><td><em>guziarekin, guztiarekin</em></td></tr>
   <tr style="background:lightgray"><td>DET ORO _</td><td>=&gt;</td><td>DET</td><td>PronType=Tot</td><td><em>guzti, guzi</em></td></tr>
   <tr><td>IOR ELK KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Rcp</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR ELK KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Rcp</td><td><em></em></td></tr>
@@ -3144,29 +3144,29 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IOR ELK KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Rcp</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR ELK KAS:INE</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|PronType=Rcp</td><td><em></em></td></tr>
   <tr><td>IOR ELK KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Rcp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Rcp</td><td><em></em></td></tr>
-  <tr><td>IOR ELK MUG:MG|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Rcp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Rcp</td><td><em></em></td></tr>
-  <tr><td>IOR ELK MUG:MG|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Rcp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Rcp</td><td><em></em></td></tr>
-  <tr><td>IOR ELK MUG:MG|KAS:GEL</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|PronType=Rcp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Rcp</td><td><em></em></td></tr>
-  <tr><td>IOR ELK MUG:MG|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|PronType=Rcp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Rcp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Rcp</td><td><em>elkar</em></td></tr>
+  <tr><td>IOR ELK MUG:MG|KAS:ABS|POS:POSaurka|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Rcp</td><td><em>elkarren_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Rcp</td><td><em>elkarri, elgarri</em></td></tr>
+  <tr><td>IOR ELK MUG:MG|KAS:EM|POS:POSburuz|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Rcp</td><td><em>elgarri_buruz</em></td></tr>
+  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Rcp</td><td><em>elkarren_kontra</em></td></tr>
+  <tr><td>IOR ELK MUG:MG|KAS:GEL</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|PronType=Rcp</td><td><em>elkarrekiko</em></td></tr>
+  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Rcp</td><td><em>elkarren</em></td></tr>
+  <tr><td>IOR ELK MUG:MG|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|PronType=Rcp</td><td><em>elkarren_artean</em></td></tr>
+  <tr style="background:lightgray"><td>IOR ELK MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Rcp</td><td><em>elkarrekin, elgarrekin</em></td></tr>
   <tr><td>IOR IZGGAL KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGGAL KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Int</td><td><em></em></td></tr>
   <tr><td>IOR IZGGAL KAS:EM</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGGAL KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Int</td><td><em></em></td></tr>
   <tr><td>IOR IZGGAL KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>IOR IZGGAL MUG:MG|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>IOR IZGGAL MUG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>IOR IZGGAL MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Int</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Int</td><td><em>nor</em></td></tr>
+  <tr><td>IOR IZGGAL MUG:MG|KAS:ABS|POS:POSalde|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Int</td><td><em>noren_alde</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Int</td><td><em>nori</em></td></tr>
+  <tr><td>IOR IZGGAL MUG:MG|KAS:EM|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>PrepCase=Pre|PronType=Int</td><td><em>noren_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGGAL MUG:MG|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Int</td><td><em>nork</em></td></tr>
+  <tr><td>IOR IZGGAL MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Int</td><td><em>norekin</em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGGAL NUM:P|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>IOR IZGGAL NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGGAL NUM:P|MUG:M|KAS:ABS|PER:HAIEK|POS:POSesku|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>IOR IZGGAL NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Int</td><td><em>nortzuk</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGGAL NUM:P|MUG:M|KAS:ABS|PER:HAIEK|POS:POSesku|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Int</td><td><em>nortzuren_esku</em></td></tr>
   <tr><td>IOR IZGMGB KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB KAS:ABS|POS:POSgisako|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>norbere_gisako</em></td></tr>
   <tr><td>IOR IZGMGB KAS:ALA</td><td>=&gt;</td><td>PRON</td><td>Case=All|PronType=Ind,Neg</td><td><em>norbaitengana</em></td></tr>
@@ -3180,32 +3180,32 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IOR IZGMGB KAS:INS</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|PronType=Ind,Neg</td><td><em>ezertaz</em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB KAS:MOT</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|PronType=Ind,Neg</td><td><em>zerbaitengatik</em></td></tr>
   <tr><td>IOR IZGMGB KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Ind,Neg</td><td><em>norbaitekin</em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|KAS:DES</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|KAS:GEL</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|KAS:INE</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:INS</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|NMG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|NMG:MG|KAS:ERG|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|NMG:S|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB MUG:MG|NMG:S|KAS:ERG|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>ezer, zerbait, inor, zertxobait, norbait</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>ezertxo_ere, ezer_gutxirako, deus_ere, ezer_ere</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:DAT</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Ind,Neg</td><td><em>inori, norbaiti, edonori</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|KAS:DES</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|PronType=Ind,Neg</td><td><em>norbaitentzat</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em>inork, norbaitek, edonork, Nornahik, ezerk</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|KAS:GEL</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|PronType=Ind,Neg</td><td><em>zerbaitetarako</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Ind,Neg</td><td><em>inoren</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|KAS:INE</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|PronType=Ind,Neg</td><td><em>ezertan, zerbaitetan</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|KAS:INS</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|PronType=Ind,Neg</td><td><em>inortaz</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|PronType=Ind,Neg</td><td><em>ezerekin</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|NMG:MG|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>ezer_gutxi, Zer_edo_zer, deus_gutxi</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|NMG:MG|KAS:ERG|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em>inor_gutxik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB MUG:MG|NMG:S|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|PronType=Ind,Neg</td><td><em>baten_bat</em></td></tr>
+  <tr><td>IOR IZGMGB MUG:MG|NMG:S|KAS:ERG|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|PronType=Ind,Neg</td><td><em>baten_batek</em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB NUM:P|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr><td>IOR IZGMGB NUM:P|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB NUM:P|KAS:SOZ</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB NUM:P|MUG:M|KAS:SOZ|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB NUM:P|MUG:M|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|PronType=Ind,Neg</td><td><em></em></td></tr>
+  <tr><td>IOR IZGMGB NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Ind,Neg</td><td><em>zenbaitzuk</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB NUM:P|MUG:M|KAS:SOZ|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|PronType=Ind,Neg</td><td><em>gutiz_gehienekin</em></td></tr>
+  <tr><td>IOR IZGMGB NUM:P|MUG:M|NMG:P|KAS:ABS|MW:B</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|PronType=Ind,Neg</td><td><em>baten_batzuk</em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB NUM:S|KAS:ABS</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr><td>IOR IZGMGB NUM:S|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR IZGMGB NUM:S|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB NUM:S|MUG:M|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR IZGMGB NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
-  <tr><td>IOR IZGMGB NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|PronType=Ind,Neg</td><td><em></em></td></tr>
+  <tr><td>IOR IZGMGB NUM:S|MUG:M|KAS:ABS|POS:POSesku|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|PronType=Ind,Neg</td><td><em>norberaren_esku</em></td></tr>
+  <tr style="background:lightgray"><td>IOR IZGMGB NUM:S|MUG:M|KAS:ERG</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|PronType=Ind,Neg</td><td><em>norberak</em></td></tr>
+  <tr><td>IOR IZGMGB NUM:S|MUG:M|KAS:GEN</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|PronType=Ind,Neg</td><td><em>norberaren</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:P|KAS:ABL|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:P|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:P|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
@@ -3234,40 +3234,40 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IOR PERARR NUM:P|KAS:INS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:P|KAS:SOZ|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:P|KAS:SOZ|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABL|PER:GU|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:ZUEK|POS:POSgain|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:DES|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DES|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSbezala|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSzain|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:HAIEK|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:HAIEK|POS:POSarteko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:HAIEK|POS:POSaitzinean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:HAIEK|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:ZUEK|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABL|PER:GU|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Plur|Person=1|PronType=Prs</td><td><em>gure_aldetik</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em>gu, Gurea, Gure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=3|PronType=Prs</td><td><em>beraiek, eurak</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=2|PronType=Prs</td><td><em>zuek, zuentzako</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ABS|PER:ZUEK|POS:POSgain|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=2|PronType=Prs</td><td><em>Zuen_gain</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em>guri</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=3|PronType=Prs</td><td><em>beraiei, eurei</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DAT|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|PronType=Prs</td><td><em>zuei</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:DES|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Plur|Person=1|PronType=Prs</td><td><em>guretzat</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:DES|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Plur|Person=3|PronType=Prs</td><td><em>eurentzat</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>guri_begira</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSbezala|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>guk_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:GU|POS:POSzain|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>Gure_zain</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:EM|PER:HAIEK|POS:POSkontra|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PrepCase=Pre|PronType=Prs</td><td><em>euren_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em>guk</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=3|PronType=Prs</td><td><em>beraiek, eurek</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:ERG|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=2|PronType=Prs</td><td><em>zuek, zuenak</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=1|PronType=Prs</td><td><em>Gutako</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:HAIEK|POS:POSarteko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=3|PronType=Prs</td><td><em>beraien_arteko</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEL|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Plur|Person=2|PronType=Prs</td><td><em>Zuetako</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em>gure</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=3|PronType=Prs</td><td><em>euren, beraien</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:GEN|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=2|PronType=Prs</td><td><em>zuen</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em>gurean</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em>gure_artean</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:GU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em>gure_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:HAIEK|POS:POSaitzinean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Prs</td><td><em>euren_aitzinean</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:HAIEK|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=3|PronType=Prs</td><td><em>beraien_artean</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INE|PER:ZUEK|POS:POSartean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=2|PronType=Prs</td><td><em>zuen_artean</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=1|PronType=Prs</td><td><em>gutaz</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=3|PronType=Prs</td><td><em>beraietaz</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=2|PronType=Prs</td><td><em>zuetaz</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=1|PronType=Prs</td><td><em>gurekin</em></td></tr>
+  <tr><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=3|PronType=Prs</td><td><em>beraiekin, eurekin</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABS|PER:HURA</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
@@ -3295,48 +3295,48 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:MOT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:SOZ|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HURA</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ALA|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbezala|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSzai|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI|ENT:Pertsona</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|NameType=Prs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:ZU|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:MOT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zugandik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hi</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HURA</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=3|PronType=Prs</td><td><em>berau</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em>ni, niretzako, nire, nirea</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zu, zureak</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ALA|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=1|PronType=Prs</td><td><em>niregana</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hiri</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em>niri</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=1|PronType=Prs</td><td><em>niretzat</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zuretzat</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>niri_begira</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbezala|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>Nik_bezala</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSzai|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>nire_zai</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>Hik</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em>nik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI|ENT:Pertsona</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|NameType=Prs|Number=Sing|Person=1|PronType=Prs</td><td><em>Nik</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zuk</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em>ene_atzeko</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_barneko</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:ZU|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zure_barneko</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hire</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em>nire, ene, Nere</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>ZURE</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nigan, niregan</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_aurrean</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_barnean</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=1|PronType=Prs</td><td><em>nitaz</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zutaz</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:MOT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=1|PronType=Prs</td><td><em>Niregatik</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=1|PronType=Prs</td><td><em>nirekin</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zurekin</em></td></tr>
   <tr><td>IOR PERIND NUM:P|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:P|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:P|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:P|KAS:GEN|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:P|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:P|MUG:M|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:P|MUG:M|KAS:GEN|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em>geu, geure</em></td></tr>
+  <tr><td>IOR PERIND NUM:P|MUG:M|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em>Geuri</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em>geuk</em></td></tr>
+  <tr><td>IOR PERIND NUM:P|MUG:M|KAS:GEN|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Plur|Person=1|PronType=Prs</td><td><em>geure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em>Geuregan</em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:ABL|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
@@ -3349,18 +3349,18 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:INE|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABL|PER:NI|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:EM|PER:ZU|POS:POSgisara|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSburuan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:ZU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABL|PER:NI|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=1|PronType=Prs</td><td><em>neure_aldetik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em>neu</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>Zeu</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em>Neuri</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:EM|PER:ZU|POS:POSgisara|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PrepCase=Pre|PronType=Prs</td><td><em>zeure_gisara</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em>Neuk, neronek</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeuk</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>heure</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em>neure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeure</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSburuan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>Neure_buruan</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:ZU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeure_inguruan</em></td></tr>
   <tr><td>ITJ ITJ MW:B</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>eta_kito, nola_ez, esan_eta_egin, Eskerrik_asko</em></td></tr>
   <tr style="background:lightgray"><td>ITJ ITJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ha, dzast, ea, e, Agur</em></td></tr>
   <tr><td>IZE ADB_IZEELI KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur</td><td><em>araberakoak, kontrakoak, Betikoak, lehenagokoak, hangoak</em></td></tr>
@@ -3392,7 +3392,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:+|KAS:ABL|NUM:P|MUG:M|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abl|Number=Plur</td><td><em>ordezkarien_aldetik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abl|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ABL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abl|Number=Sing</td><td><em>irabazlearengandik, turistatik</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABL|POS:POSaitzinetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abl</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABL|POS:POSaitzinetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abl</td><td><em>epaile_aitzinetik</em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs|NameType=Com</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em>lagun, jokalari, pertsona, jabe, nagusi</em></td></tr>
@@ -3418,8 +3418,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:+|KAS:ABS|NUM:S|MUG:M|POS:POSeskuko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs|Number=Sing</td><td><em>epailearen_eskuko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABS|NUM:S|MUG:M|POS:POSgain|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs|Number=Sing</td><td><em>ordezkariaz_gain</em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ABS|NUM:S|MUG:M|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs|Number=Sing</td><td><em>agintariaren_menpe</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:+|KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em>pertsona_gisa, soldadu_gisa, enbaxadore_gisa</em></td></tr>
+  <tr><td>IZE ARR BIZ:+|KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Abs</td><td><em>lagun_inguru, pertsona_inguru, biztanle_inguru, palestinar_inguru</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ALA</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=All</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ALA|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=All</td><td><em>arditara</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ALA|MUG:MG|POS:POSbatera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=All</td><td><em>lagunekin_batera</em></td></tr>
@@ -3459,8 +3459,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Sing|PrepCase=Pre</td><td><em>nagusiaren_arabera, Epailearen_arabera, Alegiaren_arabera, arduradunaren_arabera</em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Sing|PrepCase=Pre</td><td><em>kangurua_bezala, turista_bezala</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:EM|NUM:S|MUG:M|POS:POSburuz|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Number=Sing|PrepCase=Pre</td><td><em>umeari_buruz</em></td></tr>
-  <tr><td>IZE ARR BIZ:+|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:+|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|PrepCase=Pre</td><td><em>margolari_bezala, jokalari_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|PrepCase=Pre</td><td><em>jokalari_bila</em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ERG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Erg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:ERG|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Erg</td><td><em>lagunek, jokalarik, palestinarrek, animaliak, segalariK</em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:ERG|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Erg|Number=Plur</td><td><em></em></td></tr>
@@ -3483,7 +3483,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Number=Sing</td><td><em>bahitzailearekiko, lagunarekiko, senarrarekiko, anarkistako</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc|Number=Sing</td><td><em>senarraren_arteko, atezainaren_arteko</em></td></tr>
-  <tr><td>IZE ARR BIZ:+|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:+|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Loc</td><td><em>baserritar_inguruko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:GEN</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:+|KAS:GEN|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen</td><td><em>lagunen, emakumeren, medikuren, hautagairen, emaileren</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:+|KAS:GEN|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Case=Gen|Number=Plur</td><td><em></em></td></tr>
@@ -3557,25 +3557,25 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NameType=Com|Number=Sing</td><td><em>Ligatik, Nafarroako_Parlamentutik, Udal_Bandatik, Senatutik, Fondotik</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NameType=Geo|Number=Sing</td><td><em>Nekazaritza_Ministeriotik, Cibeles_Plazatik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>etxearen_goiko_aldetik, antolakuntzaren_aldetik, Estatuaren_aldetik</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NameType=Com|Number=Sing</td><td><em>Estatuaren_aldetik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>bidearen_atzetik</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>atzealdearen_aurretik, aurkezpenaren_aurretik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSazpitik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>itsasartearen_azpitik</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSbarrutik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>Proiektuaren_barrutik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSeskutik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>Fondoaren_eskutik</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABL|NUM:S|MUG:M|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing</td><td><em>tokiaren_gainetik, autobusaren_gainetik, politikaren_gainetik, laborantzaren_gainetik, fantasiaren_gainetik</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSazpitik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSbarruetatik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSbarrutik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>Osaera_aldetik, animo_aldetik, Forma_aldetik, Irudi_aldetik</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSaurretik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>egun_aurretik, leiho_aurretik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSazpitik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>hondar_azpitik</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSbarruetatik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>etxe_barruetatik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABL|POS:POSbarrutik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>Area_barrutik</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABL|POS:POSondotik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl</td><td><em>mizpir_ondotik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NameType=Com</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>urte, arte, gain, ezin, behar</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NameType=Com</td><td><em>Europako_Koparako, Getariakoak_Esperantza, Ur_Joko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>haize_errota</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NameType=Com</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NameType=Com</td><td><em>Dinamoren_aurka</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|POS:POSgain|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>Zapalkuntzaz_gain, Irakaskuntzaz_gain</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABS|MUG:MG|POS:POSkanpo|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>jokoz_kanpo</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Plur</td><td><em></em></td></tr>
@@ -3615,11 +3615,11 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|NUM:S|MUG:M|POS:POSlanda|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em>txandatik_landa, hondamenetik_landa, Lasterketatik_landa</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABS|NUM:S|MUG:M|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em>politikaren_menpe, erregearen_menpe, polarizazioaren_menpe</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|NUM:S|MUG:M|POS:POStruke|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em>bakearen_truke, arrakastaren_truke</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|POS:POSbarru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSbitarterako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>amaiera_arte, urte_arte, bukaera_arte</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|POS:POSbarru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>urte_barru, aste_barru</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSbitarterako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>urte_bitarterako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>adibide_gisa, ardatz_gisa, diru_gisa, txanpon_gisa, talde_gisa</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs</td><td><em>metro_inguru, pezeta_inguru, misil_inguru, V_inguru, kilometro_inguru</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ABU|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|Number=Sing</td><td><em>posturaino, zeruraino, bazterreraino, erdiraino, dorreraino</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ABZ|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Lat|Number=Sing</td><td><em></em></td></tr>
@@ -3649,14 +3649,14 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|NUM:S|MUG:M|POS:POSbehera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Number=Sing</td><td><em>Menditik_behera, tunelean_behera, aldapan_behera, mendatean_behera, zerutik_behera</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ALA|NUM:S|MUG:M|POS:POSerdira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Number=Sing</td><td><em>gelaren_erdira</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|NUM:S|MUG:M|POS:POSkanpora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Number=Sing</td><td><em>etxetik_kanpora</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSbarnera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSbarrura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSerdira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSinguruetara|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSingurura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>leiho_aldera, Telefono_aldera, gauerdi_aldera, ate_aldera, amaiera_aldera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>Partidu_erditik_aurrera</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSbarnera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>hiri_barnera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSbarrura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>tunel_barrura</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSerdira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>mahai_erdira</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSgainera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>lur_gainera</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:ALA|POS:POSinguruetara|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>ate_inguruetara</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ALA|POS:POSingurura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All</td><td><em>ate_ingurura, kilometro_ingurura</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:BNK|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>eguneko, litroko, partiduko, antzeko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:DAT</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:DAT|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Dat|NameType=Prs</td><td><em></em></td></tr>
@@ -3704,7 +3704,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSaitzina|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>urtetik_aitzina</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>tokiaren_arabera, eskariaren_arabera, biografiaren_arabera, Epaitegiaren_arabera, proposamenaren_arabera</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Eskuliburuaren_arabera</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSat|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>zerrendatik_at</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>urtetik_aurrera</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSbarrena|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>airean_barrena, gelan_barrena</em></td></tr>
@@ -3716,30 +3716,30 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>igandea_bitartean</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSburuz|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>proiektuari_buruz, Politikari_buruz, ereduari_buruz, alarmari_buruz, egoerari_buruz</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgeroztik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>Larunbataz_geroztik, sasoiaz_geroztik, urteaz_geroztik, zehaztapenaz_geroztik, Ekainaz_geroztik</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgeroztik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgeroztik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Giroaz_geroztik</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgertu|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>hiritik_gertu</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgorago|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>sailkapenean_gorago</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>maldan_gora, mendian_gora, sailkapenean_gora, erditik_gora, mailatik_gora</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POShurbil|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>podiumetik_hurbil, itsasertzetik_hurbil, geltokitik_hurbil</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>lurraren_kontra, hormaren_kontra, indarkeriaren_kontra, epaiaren_kontra, erlojuaren_kontra</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Zuzendaritzaren_kontra</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSondorengo|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>hondamendiaren_ondorengo</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSondoren|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>etenaren_ondoren, erakustaldiaren_ondoren, esperientziaren_ondoren, egurraren_ondoren, istripuaren_ondoren</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>akordioaren_ostean</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSzain|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>aukeraren_zain, taldearen_zain</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSzai|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>trenaren_zai</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|NUM:S|MUG:M|POS:POSzehar|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Number=Sing|PrepCase=Pre</td><td><em>egunean_zehar, epean_zehar, urtean_zehar, historian_zehar, denboran_zehar</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbarik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSeske|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSondoan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbarik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>Puntu_barik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>dultzaina_bezalako</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>talde_bezala, arte_bezala, tximista_bezala, txotxongilo_bezala, material_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>posta_bidez</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>puntu_bila, odol_bila, laguntza_bila, babes_bila, traste_bila</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSeske|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>aholku_eske, laguntza_eske</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>Oroimen_gabe, nahi_gabe</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>aldats_gora</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSondoan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>Hondartza_ondoan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:EM|POS:POSondoren|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>atal_ondoren</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:EM|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|PrepCase=Pre</td><td><em>heriotze_ostean</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ERG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Erg</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Erg|NameType=Com</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:ERG|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Erg</td><td><em>inguruk, taldek, arrazoik, materialek, enpresak</em></td></tr>
@@ -3780,7 +3780,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSbitarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Plur</td><td><em>urteak_bitarteko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Plur</td><td><em>irabaziei_buruzko, Izarrei_buruzko, Legediei_buruzko, aurrekontuei_buruzko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Plur</td><td><em>irudien_gaineko, enpresen_gaineko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSgaineko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Prs|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSgaineko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Prs|Number=Plur</td><td><em>Elkarteen_gaineko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Plur</td><td><em>delituen_inguruko, itunen_inguruko, asmoen_inguruko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:P|MUG:M|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Plur</td><td><em>misilen_kontrako, eskubideen_kontrako</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em></em></td></tr>
@@ -3796,29 +3796,29 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>elkarrizketaren_aldeko, irakaskuntzaren_aldeko, bidearen_aldeko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>ordura_arteko, pentsamenduaren_arteko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em>Legebiltzarraren_arteko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>etxearen_atzeko, hegazkinaren_atzeko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>drogaren_aurkako, bakearen_aurkako, bortizkeriaren_aurkako, debekuaren_aurkako, faxismoaren_aurkako</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>egoerari_buruzko, etikari_buruzko, erlijioari_buruzko, auziari_buruzko, Gaiari_buruzko</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em>Administrazio-Ihardunbideari_buruzko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NameType=Prs|Number=Sing</td><td><em>Armadari_buruzko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSgaindiko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>mugaz_gaindiko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>akordioaren_gaineko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSgorako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>urtetik_gorako, metrotik_gorako</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>bileraren_inguruko, errealitatearen_inguruko, mendiaren_inguruko, lanaren_inguruko, indarkeriaren_inguruko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSkanpoko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>etxetik_kanpoko, hiriburutik_kanpoko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing</td><td><em>agiriaren_kontrako, euskararen_kontrako, oposizioaren_kontrako, kulturaren_kontrako, askatasunaren_kontrako</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaitzineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>tankerako_aurreko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSbarruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSerdiko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSgabeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaitzineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>partida_aitzineko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>erdi_aldeko, barru_aldeko</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>Lapa_antzeko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>urte_arteko, kilo_arteko</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>saio_aurreko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSbarruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>etxe_barruko, urte_barruko</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSerdiko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>ordu_erdiko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSgabeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>zuhurtzia_gabeko</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:GEL|POS:POSgaineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>mahai_gaineko, lur_gaineko, goma_gaineko, etxe_gaineko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEL|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc</td><td><em>Atari_inguruko</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEN</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:GEN|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen</td><td><em>minuturen, euskararen, gaitzen, Bandaren, talderen</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:GEN|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Gen|Number=Plur</td><td><em></em></td></tr>
@@ -3897,21 +3897,21 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|NUM:S|MUG:M|POS:POSondoan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine|Number=Sing</td><td><em>taldearen_ondoan, parkearen_ondoan, lehiatilaren_ondoan, Gotorlekuaren_ondoan, pistaren_ondoan</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:INE|NUM:S|MUG:M|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine|Number=Sing</td><td><em>Atsedenaldiaren_ostean, kotizazioaren_ostean, partiduaren_ostean</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|NUM:S|MUG:M|POS:POSparean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine|Number=Sing</td><td><em>kanalaren_parean</em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|NUM:S|MUG:M|POS:POSparean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSerditan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSondoan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSpartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|NUM:S|MUG:M|POS:POSparean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine|NameType=Com|Number=Sing</td><td><em>Armadaren_parean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>muga_aldean</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>urte_artean, belar_artean, polemika_artean, maindire_artean, txalo_artean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>leiho_atzean</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>egoitza_aurrean, ate_aurrean, mahai_aurrean, begi_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>ontzi_barnean, Eliza_barnean, itsas_barnean</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>etxe_barruan, Auto_barruan, musika_barruan, area_barruan, kaxa_barruan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>urte_bitartean, aste_bitartean</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>ordu_erdian</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSerditan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>Lan_erditan</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>mahai_gainean, badia_gainean, ate_gainean, Alanbre_gainean, ur_gainean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>zati_inguruan, kilometro_inguruan</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSondoan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>bihotz_ondoan, hiri_ondoan, katedral_ondoan, ate_ondoan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>partidu_ostean</em></td></tr>
+  <tr><td>IZE ARR BIZ:-|KAS:INE|POS:POSpartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ine</td><td><em>arratsalde_partean</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INS</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:INS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em>ondorioz, ustez, aldiz, euskaraz, asmoz</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INS|MUG:MG|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em>azken_aldiz</em></td></tr>
@@ -3924,7 +3924,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:INS|NUM:S|MUG:M|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Number=Sing</td><td><em>Elkarlanaren_bidez, prozesuaren_bidez, Corpusaren_bidez, Txartelaren_bidez, adimenaren_bidez</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INS|NUM:S|MUG:M|POS:POSbitartez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins|Number=Sing</td><td><em>lehiaketaren_bitartez, obraren_bitartez</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:INS|POS:POSaldeaz|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em>segunduko_aldeaz</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:INS|POS:POSbidez|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ins</td><td><em>falta_bidez, adierazpen_bidez, ohitura_bidez</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:MOT</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Cau</td><td><em>pezetagatik, gelagatik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:MOT|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Cau|Number=Plur</td><td><em></em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:MOT|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Cau|Number=Plur</td><td><em>kasuengatik, arazoengatik, ondorioengatik, delituengatik, arrazoiengatik</em></td></tr>
@@ -3946,12 +3946,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR BIZ:-|KAS:SOZ|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Com|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|KAS:SOZ|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Com|Number=Sing</td><td><em>taldearekin, aldearekin, laguntzarekin, lanarekin, dominarekin</em></td></tr>
   <tr><td>IZE ARR BIZ:-|KAS:SOZ|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Com|NameType=Com|Number=Sing</td><td><em>Europako_Koparekin, UÇK_Kosovoren_Askapenerako_Armadarekin, Justizi_Administrazioarekin, Giza_Agiriarekin</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Cmp</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Cmp</td><td><em>nahiago, okerrago</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Degree=Cmp|Number=Sing</td><td><em>Errondagoa</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR BIZ:-|MAI:KONP|KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR BIZ:-|MAI:KONP|KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=All|Degree=Cmp|Number=Sing</td><td><em>beherago, Barrualderago</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|MTKAT:SNB</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan</td><td><em>Kw</em></td></tr>
   <tr><td>IZE ARR BIZ:-|MTKAT:SNB|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Sing</td><td><em>m., m, km</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR BIZ:-|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan</td><td><em>mahai_inguru, nortasun_agiri, Dozena_erdi, haize_bolada, hizkuntz_politika</em></td></tr>
@@ -4018,7 +4018,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:ABL|NUM:S|MUG:M|POS:POSeskutik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing</td><td><em>saltzailearen_eskutik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABL|NUM:S|MUG:M|POS:POSgainetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing</td><td><em>batezbestekoaren_gainetik</em></td></tr>
   <tr><td>IZE ARR KAS:ABL|NUM:S|MUG:M|POS:POSondotik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing</td><td><em>Erasoaren_ondotik, atentatuaren_ondotik, ekimenaren_ondotik</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ABL|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl</td><td><em>motibazio_aldetik</em></td></tr>
   <tr><td>IZE ARR KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>isla</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABS|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NameType=Com</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:ABS|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NameType=Prs</td><td><em></em></td></tr>
@@ -4056,18 +4056,18 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>euroaren_alde, mozioaren_alde, desobedientziaren_alde, fusioaren_alde, sorreraren_alde</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>iluntzera_arte, denboraldia_arte, hilabetera_arte</em></td></tr>
   <tr><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>ikaslearen_aurka, liderraren_aurka, inmigrazioaren_aurka, errauspenaren_aurka, presidentearen_aurka</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Gobernuaren_aurka</em></td></tr>
   <tr><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSesker|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>legeari_esker, grinari_esker, taldekideari_esker</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSgain|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>betearazleaz_gain, programaz_gain, orainaz_gain, aurreskuaz_gain, erretratuaz_gain</em></td></tr>
   <tr><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSkanpo|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>konstituziotik_kanpo, deialditik_kanpo</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSlanda|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>leherketatik_landa, boudoirretik_landa</em></td></tr>
   <tr><td>IZE ARR KAS:ABS|NUM:S|MUG:M|POS:POSmenpe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>alderdiaren_menpe</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:ABS|POS:POSbarru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:ABS|POS:POSgisa|POS:+|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSingururako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>uda_arte</em></td></tr>
+  <tr><td>IZE ARR KAS:ABS|POS:POSbarru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>hilabete_barru, astebete_barru</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSgisa|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>titular_gisa, beroki_gisa, kide_gisa, lekuko_gisa, antitesi_gisa</em></td></tr>
+  <tr><td>IZE ARR KAS:ABS|POS:POSgisa|POS:+|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>euskal_herritar_gisa</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ABS|POS:POSingururako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>uda_ingururako</em></td></tr>
+  <tr><td>IZE ARR KAS:ABS|POS:POSinguru|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs</td><td><em>hilabete_inguru</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABU|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Plur</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:ABU|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Plur</td><td><em>final-laurdenetaraino, jatorrietaraino</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Sing</td><td><em></em></td></tr>
@@ -4094,9 +4094,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:ALA|NUM:S|MUG:M|POS:POSbehera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing</td><td><em>dolarretik_behera</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ALA|NUM:S|MUG:M|POS:POSgainera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing</td><td><em>galtzailearen_gainera, auzoaz_gainera</em></td></tr>
   <tr><td>IZE ARR KAS:ALA|NUM:S|MUG:M|POS:POSlandara|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing</td><td><em>Erabilpenaz_landara</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:ALA|POS:POSerdira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ALA|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em>ilunabar_aldera, aurreikuste_aldera, argi_aldera</em></td></tr>
+  <tr><td>IZE ARR KAS:ALA|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em>Abuztu_erditik_aurrera, itzuli_erditik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:ALA|POS:POSerdira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em>zelai_erdira</em></td></tr>
   <tr><td>IZE ARR KAS:BNK|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>serieko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:DAT</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:DAT|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|NameType=Prs</td><td><em></em></td></tr>
@@ -4144,9 +4144,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:EM|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>txostenaren_arabera, lehendakariaren_arabera, legearen_arabera, Akusazioaren_arabera, Komisarioaren_arabera</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Poliziaren_arabera, Gobernuaren_arabera</em></td></tr>
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSat|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>erabileratik_at, deialditik_at</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSaurrera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSaurrera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Azarotik_aurrera</em></td></tr>
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>denboraldiari_begira, finalari_begira, erasora_begira</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>lanuztea_bezalako, polikiroldegia_bezalako</em></td></tr>
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>finalean_bezala, indoeuroparrak_bezala, berragerpenean_bezala, Zirkuitulaburrak_bezala, bibotea_bezala</em></td></tr>
@@ -4162,10 +4162,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSondoren|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>askapenaren_ondoren, Entzunaldiaren_ondoren</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSzain|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>amnistiaren_zain</em></td></tr>
   <tr><td>IZE ARR KAS:EM|NUM:S|MUG:M|POS:POSzehar|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|PrepCase=Pre</td><td><em>udan_zehar</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:EM|POS:POSantzeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em>plataforma_antzeko</em></td></tr>
+  <tr><td>IZE ARR KAS:EM|POS:POSbezala|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em>gobernuburu_bezala, motibazio_bezala, entrenatzaile_bezala, peña_bezala, hegal-pibot_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:EM|POS:POSbila|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em>errudun_bila, kontzentrazio_bila</em></td></tr>
+  <tr><td>IZE ARR KAS:EM|POS:POSgabe|POS:+</td><td>=&gt;</td><td>NOUN</td><td>PrepCase=Pre</td><td><em>Justifikazio_gabe</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ERG</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:ERG|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NameType=Com</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:ERG|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NameType=Prs</td><td><em></em></td></tr>
@@ -4216,20 +4216,20 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Olaizola_Gipuzkoako_Kofradien_Federazioko, ALBERTO_Fujimoriren_Gobernuko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Ekialdeko, RUC_Poliziako, Bigarren_Karlistadako, Asanbleako, Eskualde_Elkarlaguntzarako</em></td></tr>
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>lehendakariaren_aldeko, subiranotasunaren_aldeko, erreferendumaren_aldeko, independentziaren_aldeko, ezagutzaren_aldeko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Katodoaren_arteko</em></td></tr>
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>hipermerkatuaren_aurkako, xenofobiaren_aurkako, gaisotasunaren_aurkako, Langabeziaren_aurkako, arrazakeriaren_aurkako</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Gobernuaren_aurkako</em></td></tr>
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>legearen_aurreko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>independentziari_buruzko, desobedientziari_buruzko, hedapenari_buruzko, gaixoari_buruzko, bitartekaritzari_buruzko</em></td></tr>
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSgorako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>dolarretik_gorako</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSinguruko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>burujabetasunaren_inguruko, eskatzailearen_inguruko</em></td></tr>
   <tr><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>abertzaletasunaren_kontrako, dopinaren_kontrako</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:GEL|POS:POSaitzineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|POS:POSinguruetako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:GEL|POS:POSosteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em></em></td></tr>
+  <tr><td>IZE ARR KAS:GEL|POS:POSaitzineko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>denboraldi_aitzineko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|POS:POSarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>Kontinente_arteko, karbono_arteko</em></td></tr>
+  <tr><td>IZE ARR KAS:GEL|POS:POSaurreko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>denboraldi_aurreko, kristautasun_aurreko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:GEL|POS:POSinguruetako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>herri_inguruetako</em></td></tr>
+  <tr><td>IZE ARR KAS:GEL|POS:POSosteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc</td><td><em>hauteskunde_osteko</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEN</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:GEN|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen</td><td><em>kideren, amaren, estaturen, lekukoren, dordokaren</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:GEN|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur</td><td><em></em></td></tr>
@@ -4290,19 +4290,19 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:INE|NUM:S|MUG:M|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing</td><td><em>terrorismoaren_inguruan, subiranotasunaren_inguruan, igoeraren_inguruan, herriaren_inguruan, erabakiaren_inguruan</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:INE|NUM:S|MUG:M|POS:POSlekuan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing</td><td><em>atentatuaren_lekuan</em></td></tr>
   <tr><td>IZE ARR KAS:INE|NUM:S|MUG:M|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing</td><td><em>inkomunikazioaren_ostean, estreinaldiaren_ostean, entrenamenduaren_ostean, erorikoaren_ostean, tasaren_ostean</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSazpian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSeran|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSinguruetan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr><td>IZE ARR KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSpartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>Uda-udazken_aldean, eskuin_aldean</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>izter_artean, Behatz_artean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSatzean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>pankarta_atzean</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>Jaurlaritza_aurrean, mutur_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSazpian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>hanka_azpian, hegal_azpian</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSbarruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>lege_barruan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSeran|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>disoluzio_eran</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSerdian|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>zelai_erdian, Hanka_erdian, tropel_erdian</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSgainean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>zelai_gainean, kantxa_gainean</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>industrialde_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSinguruetan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>tropiko_inguruetan</em></td></tr>
+  <tr><td>IZE ARR KAS:INE|POS:POSostean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>Entrenamendu_ostean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR KAS:INE|POS:POSpartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine</td><td><em>Negu_partean, Uda_partean</em></td></tr>
   <tr><td>IZE ARR KAS:INS</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:INS|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NameType=Com</td><td><em></em></td></tr>
   <tr><td>IZE ARR KAS:INS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins</td><td><em>buruz, legez, eskuz, eraginez, aginduz</em></td></tr>
@@ -4332,22 +4332,22 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE ARR KAS:SOZ|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR KAS:SOZ|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Number=Sing</td><td><em>selekzioarekin, buruarekin, lehendakariarekin, erabakiarekin, aitarekin</em></td></tr>
   <tr><td>IZE ARR KAS:SOZ|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em>Gobernuarekin, Jugoslaviako_Gobernuarekin</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>IZE ARR MAI:KONP|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Comp</td><td><em>haratago, gehiago, lehenago</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR MAI:KONP|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Comp|Number=Sing</td><td><em>eskalatzaileagoa</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR MAI:KONP|KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Degree=Comp|Number=Sing</td><td><em>atzerago</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:INE</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Comp</td><td><em></em></td></tr>
-  <tr><td>IZE ARR MAI:KONP|KAS:INE|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Comp</td><td><em>gehiagotan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:INE|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ARR MAI:KONP|KAS:INE|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Comp|Number=Sing</td><td><em>luzaroagoan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Cmp</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MAI:KONP|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Cmp</td><td><em>haratago, gehiago, lehenago</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MAI:KONP|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Cmp|Number=Sing</td><td><em>eskalatzaileagoa</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MAI:KONP|KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Degree=Cmp|Number=Sing</td><td><em>atzerago</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:INE</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Cmp</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MAI:KONP|KAS:INE|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Cmp</td><td><em>gehiagotan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ARR MAI:KONP|KAS:INE|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MAI:KONP|KAS:INE|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Degree=Cmp|Number=Sing</td><td><em>luzaroagoan</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR MAI:SUP|KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Degree=Sup|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE ARR MTKAT:LAB|KAS:INE|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>H-an, E-an, M-an, I-an</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR MTKAT:SNB</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>cm</em></td></tr>
   <tr><td>IZE ARR MTKAT:SNB|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur</td><td><em>kv</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR MTKAT:SNB|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing</td><td><em>kg, cm-koa, KV, cm</em></td></tr>
-  <tr><td>IZE ARR MTKAT:SNB|KAS:ALA|POS:POSingurura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em></em></td></tr>
+  <tr><td>IZE ARR MTKAT:SNB|KAS:ALA|POS:POSingurura|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All</td><td><em>cm_ingurura</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR MTKAT:SNB|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing</td><td><em>cm-ko, zm.ko</em></td></tr>
   <tr><td>IZE ARR MW:B</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>euskal_herritar</em></td></tr>
   <tr style="background:lightgray"><td>IZE ARR NMG:S|KAS:INE|NUM:S|MUG:M|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing</td><td><em>ordu_batean</em></td></tr>
@@ -4418,12 +4418,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan</td><td><em>EAJ</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com</td><td><em>EAJ, EA, ELA</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Prs</td><td><em>ELA</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ABL|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abl|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ABL|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abl|NameType=Com|Number=Sing</td><td><em>EAJren_aldetik</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abs|NameType=Com|Number=Sing</td><td><em>ELA, EA, EAJ</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:DAT|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Dat|NameType=Com|Number=Sing</td><td><em>EAJri, EAri, ELAri</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:DES|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ben|NameType=Com|Number=Sing</td><td><em>EArentzat</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSaldetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>EAren_aldetik</em></td></tr>
+  <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>EAJren_kontra</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|Number=Sing</td><td><em>EAJk</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|NameType=Com|Number=Sing</td><td><em>EAJk, EAk, ELAk, EAJ-k</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|NameType=Prs|Number=Sing</td><td><em>EAk, Soraluzen_EAJk</em></td></tr>
@@ -4432,7 +4432,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Prs|Number=Sing</td><td><em>Anasagasti_EAJko, Azpiazu_EAJko, Lasagabaster_EAko, Urkullu_EBBko</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:GEN|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|Number=Sing</td><td><em>EBBren</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:GEN|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|NameType=Com|Number=Sing</td><td><em>EAren, ELAren, EAJren, EAREN, EAJ-REN</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSinguruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSinguruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ine|NameType=Com|Number=Sing</td><td><em>EAJren_inguruan</em></td></tr>
   <tr><td>IZE IZB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:SOZ|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Com|NameType=Com|Number=Sing</td><td><em>EAJrekin, EArekin</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB ENT:???</td><td>=&gt;</td><td>PROPN</td><td>NameType=Oth</td><td><em>Els</em></td></tr>
   <tr><td>IZE IZB ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com</td><td><em>DOS, LLORENTE</em></td></tr>
@@ -4473,7 +4473,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE IZB KAS:EM|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
   <tr><td>IZE IZB KAS:EM|NUM:S|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB KAS:EM|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE IZB KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Arenasen_arabera, Aresen_arabera</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB KAS:ERG|NUM:S</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>IZE IZB KAS:ERG|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB KAS:ERG|NUM:S|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
@@ -4519,39 +4519,39 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>ETA, UNHCR, AED, HB, SPD</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>UBI, RIRA, UNMIK, C.M.L.G., EEB</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>E.A.T., RUC</em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>AEKren_alde</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>ETAren_aurka</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>PPren_esku</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ALA|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em>Juan_T.Z.-ra</em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Com|Number=Sing</td><td><em>LABekin_batera</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:BNK|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>NOBko</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:DAT|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Sing</td><td><em>ETAri</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:DAT|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em>ETAri, PPri, Iberdrola_S.A.ri, AEKri, PTri</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:DAT|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Prs|Number=Sing</td><td><em>NBOri</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:DES|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ben|NameType=Com|Number=Sing</td><td><em>ITPrentzat, FDPrentzat, PPrentzat</em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>AEKren_arabera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>AEKrena_bezalako</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>ETAren_kontra</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|Number=Sing</td><td><em>AABek, ETAk</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>ETAk, EITBk, PSNk, IBVk, COAGek</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Prs|Number=Sing</td><td><em>ENAMek, SPOk, LDPk, EA-EAJk, UVFk</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|Number=Sing</td><td><em>FPOEko, UPNko, AABetako</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>ETAko, UPNko, AEDko, AEK-ko, HBko</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Ugalde_AEK-ko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>PRDren_aldeko</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>FDPren_arteko, PPren_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>ETAren_aurkako</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>ETAren_kontrako, AEKren_kontrako</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEN|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing</td><td><em>BEZen, EBren</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:GEN|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>ETAren, PPren, UPNren, PRIren, HBren</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:GEN|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Prs|Number=Sing</td><td><em>PRIren, SPSren, EHEren, Frantzia_EBren, NOBren</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>ETBn, O.N.C.E.-n, EASen, AMLEn, AEKn</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em>ACBn</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>AEDn, ACBn</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSatzean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSbaitan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSbarruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSinguruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSatzean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>CCOOen_atzean</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSbaitan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>AEKren_baitan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSbarruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>EBren_barruan</em></td></tr>
+  <tr><td>IZE IZB MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSinguruan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>AEKren_inguruan</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB MTKAT:SIG|KAS:PAR|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|NameType=Com|Number=Sing</td><td><em>NOBrik</em></td></tr>
   <tr><td>IZE IZB MTKAT:SIG|KAS:SOZ|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em>ETArekin, UPNrekin</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:ABL|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
@@ -4559,12 +4559,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:ABS|NUM:P|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Ptan</td><td><em></em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:ABS|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:ABS|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Ptan</td><td><em>EEBBak</em></td></tr>
-  <tr><td>IZE IZB PLU:+|KAS:ABS|NUM:P|MUG:M|POS:POSbitarte|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Ptan</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:+|KAS:ABS|NUM:P|MUG:M|POS:POSbitarte|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Ptan</td><td><em>Gabonak_bitarte</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:ALA|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:ALA|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Ptan</td><td><em>EEBBetara</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:EM|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Ptan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:+|KAS:EM|NUM:P|MUG:M|POS:POSbezalako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Ptan|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:EM|NUM:P|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Ptan|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:+|KAS:EM|NUM:P|MUG:M|POS:POSbezalako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Ptan|PrepCase=Pre</td><td><em>EEBBak_bezalako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:EM|NUM:P|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Ptan|PrepCase=Pre</td><td><em>EEBBetan_bezala</em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:ERG|NUM:P|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Ptan</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:ERG|NUM:P|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Ptan</td><td><em>EEBBek</em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:GEL|NUM:P</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|Number=Ptan</td><td><em></em></td></tr>
@@ -4575,7 +4575,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Ptan</td><td><em>EEBBetako, Espainiako_Erregearen_Gabonetako, Albright_EEBBetako, Reno_EEBBetako</em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Ptan</td><td><em>Gabonetako, Clinton_EEBBetako</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em>EEBBetako, EEBBetarako</em></td></tr>
-  <tr><td>IZE IZB PLU:+|KAS:GEL|NUM:P|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:+|KAS:GEL|NUM:P|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em>EEBBen_arteko</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:GEN|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
   <tr><td>IZE IZB PLU:+|KAS:GEN|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Geo|Number=Ptan</td><td><em>EEBBen</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:+|KAS:INE|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
@@ -4587,12 +4587,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE IZB PLU:-|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo</td><td><em>Clinton, Galdames, Zoff, Efe, Itziar</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Olanorengandik, Morenorengandik</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Nietzscherengandik</em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaitzinetik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaurretik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaitzinetik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Zulleren_aitzinetik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Vinokouroven_atzetik, Obertoren_atzetik, Armstrongen_atzetik</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaurretik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Castroren_aurretik, Somarribaren_aurretik</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSeskutik|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Number=Sing</td><td><em>Rubalcabaren_eskutik</em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSeskutik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSondotik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSeskutik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Schreiberen_eskutik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSondotik|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Prs|Number=Sing</td><td><em>Belapeyreren_ondotik, Olanoren_ondotik</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABS|MUG:MG|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs</td><td><em>Josephen, Allirekin, Klodenekiko, Chris_Boardmanekiko</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:P|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Plur</td><td><em>Asier_Gozategirenak</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|Number=Sing</td><td><em>Olano, Perez, Mendizabal, Ganix, Tauziat</em></td></tr>
@@ -4600,17 +4600,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Athletic, Labastida, Martinzaldi, Carbonneau, De_Bruijn</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>Andreas, Jontxu, Milosevic, Eli, Arafat</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Tirapu, Salahadin, Sekundino, Castro, Xuc</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>Errandonearen_alde, Karpoven_alde, Bushen_alde, Peresen_alde, Katzaven_alde</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|Number=Sing</td><td><em>Poppen_aurka, Roosten_aurka, Fernadoren_aurka</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSesker|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Athleticen_aurka</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>Milosevicen_aurka, Iriarteren_aurka, Athleticen_aurka, Irastorzaren_aurka, Moriren_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSesker|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>Baroniori_esker</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSgain|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|Number=Sing</td><td><em>Cardosoz_gain</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSgain|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSgain|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>Redondoz_gain</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em>Garzonengana</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSaldera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSlepora|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSaldera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em>Salahadinen_aldera</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em>Albertorekin_batera, Alkortarekin_batera, Eugirekin_batera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSlepora|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Prs|Number=Sing</td><td><em>Pavarottiren_lepora</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:DAT|NUM:P|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Prs|Number=Plur</td><td><em>Alegriarentzat_PPkoei</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:DAT|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|Number=Sing</td><td><em>Ibarretxeri, Maradonari, Aznarri, Zulleri, Montenegrori</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:DAT|NUM:S|MUG:M|ENT:???</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Oth|Number=Sing</td><td><em>Retegiri</em></td></tr>
@@ -4620,43 +4620,43 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE IZB PLU:-|KAS:DES|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ben|NameType=Com|Number=Sing</td><td><em>Athleticentzat, Madariagarentzat, McLarenentzat</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:DES|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ben|NameType=Prs|Number=Sing</td><td><em>Palaciosentzat, Patxi_Larretxearentzat, Batistutarentzat, Barakentzat, Maurirentzat</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing|PrepCase=Pre</td><td><em>IRAOLAREN_arabera</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Fragaren_arabera, Rekarteren_arabera, Otegiren_arabera, Flanaganen_arabera, Zenarruzabeitiaren_arabera</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Keneallyrekin_batera</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing|PrepCase=Pre</td><td><em>Martinzaldiri_begira</em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSordez|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Mara_bezalako, Alvaro_bezalako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Etxahunek_bezala</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Etcharren_bezala</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Mindegiaren_kontra, Belokiren_kontra, Zearraren_kontra, Errandonearen_kontra, Gorostiagaren_kontra</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Elizegiren_kontra, Errandonearen_kontra, Pinocheten_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Narbonaren_kontra</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSordez|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>NameType=Prs|Number=Sing|PrepCase=Pre</td><td><em>Vidakovicen_ordez, Khokhloven_ordez</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|Number=Sing</td><td><em>Olanok, Alonsok, Onandik, Zubiak, ETXEBERRIAk</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>Athleticek, Ertzaintzak, Lotinak, Etxandik, Urzaizek</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:ERG|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Prs|Number=Sing</td><td><em>Lotinak, Ibarretxek, Aznarrek, Garzonek, Athleticek</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:ERG|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Geo|Number=Sing</td><td><em>SAN_ANTONIOK</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>CDUko</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Zoreko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurreko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Naderren_aldeko, Chavezen_aldeko</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Alonsoren_arteko, Bushen_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Karpoven_aurkako, Milosevicen_aurkako, Abrilen_aurkako</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurreko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Garzonen_aurreko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Zuluagari_buruzko, Arizmendiarrietari_buruzko, Toldori_buruzko</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Nuñezen_kontrako, Urretabizkaiaren_kontrako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Sing</td><td><em>Senaren_kontrako, Abrilen_kontrako</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing</td><td><em>Rojoren, Goreren, Orejaren, Athleticen, Ibarretxeren</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>Athleticen, Urrunean_Kalophainen, Zearraren, W._Bushen, Bruce_Springsteen-en</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Prs|Number=Sing</td><td><em>Rojoren, Houdaren, Aznarren, Pinocheten, Urzaizen</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Geo|Number=Sing</td><td><em>Virgilioren, Ulrrichen, Schindlerren, Josuneren</em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M|POS:POSbezalakoen|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:GEN|NUM:S|MUG:M|POS:POSbezalakoen|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Prs|Number=Sing</td><td><em>Maier_bezalakoen</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em>Fizengan, Txetxu_Rojorengan, Marion_Jonesengan, Suduperengan, Perurenarengan</em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSaurrean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSaurrean|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>CDUren_artean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em>Chevenementen_artean, Bushen_artean, Goreren_artean</em></td></tr>
+  <tr><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSaurrean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>Ertzaintzaren_aurrean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSaurrean|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em>Garzonen_aurrean</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSlekuan|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Number=Sing</td><td><em>Havelangeren_lekuan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSondoan|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSondoan|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Prs|Number=Sing</td><td><em>Maradonaren_ondoan</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:INS|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|NameType=Prs|Number=Sing</td><td><em>Nicolas_Leoz</em></td></tr>
-  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INS|NUM:S|MUG:M|POS:POSpartez|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|NameType=Prs|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:INS|NUM:S|MUG:M|POS:POSpartez|POS:+|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|NameType=Prs|Number=Sing</td><td><em>Garbeyren_partez</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:MOT|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Cau|NameType=Prs|Number=Sing</td><td><em>Batistutarengatik</em></td></tr>
   <tr style="background:lightgray"><td>IZE IZB PLU:-|KAS:PAR|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Number=Sing</td><td><em>Emilionerik</em></td></tr>
   <tr><td>IZE IZB PLU:-|KAS:SOZ|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Number=Sing</td><td><em>Nartxirekin, Rojorekin, Westwoodekin, Athleticekin, Ekisoainekin</em></td></tr>
@@ -4768,17 +4768,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE LIB BIZ:-|MTKAT:SIG|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com</td><td><em>STA</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB BIZ:-|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Com</td><td><em>Euskal_Telebista</em></td></tr>
   <tr><td>IZE LIB BIZ:-|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|NameType=Geo</td><td><em>Sobiet_Batasun</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:DAT|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Dat|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:ERG|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:GEN|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:GEN|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:INE|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:INS|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ins|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:SOZ|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Com|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abs|NameType=Com|Number=Sing</td><td><em>Nazio_Batuen_Erakundea</em></td></tr>
+  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Abs|NameType=Geo|Number=Sing</td><td><em>Europako_Batasuna</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:DAT|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Dat|NameType=Com|Number=Sing</td><td><em>Nazio_Batuen_Erakundeari</em></td></tr>
+  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:ERG|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|NameType=Com|Number=Sing</td><td><em>Europako_Batasunak, Nazio_Batuen_Erakundeak</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Com|Number=Sing</td><td><em>Europako_Batasuneko, EUROPAKO_BATASUNEKO</em></td></tr>
+  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Geo|Number=Sing</td><td><em>Europako_Batasuneko, Nazio_Batuen_Erakundeko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:GEN|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|NameType=Com|Number=Sing</td><td><em>Europako_Batasunaren, Nazio_Batuen_Erakundearen</em></td></tr>
+  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:GEN|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Gen|NameType=Geo|Number=Sing</td><td><em>Europako_Batasunaren</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:INE|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ine|NameType=Geo|Number=Sing</td><td><em>Europako_Batasunean</em></td></tr>
+  <tr><td>IZE LIB BIZ:-|PLU:-|KAS:INS|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Ins|NameType=Com|Number=Sing</td><td><em>Europako_Batasunaz</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB BIZ:-|PLU:-|KAS:SOZ|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Com|NameType=Com|Number=Sing</td><td><em>Europako_Batasunarekin</em></td></tr>
   <tr><td>IZE LIB BIZ:-|ZENB:-|NEUR:-|PLU:-|KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Loc|NameType=Geo|Number=Sing</td><td><em>Bilbaoko</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB BIZ:-|ZENB:-|NEUR:-|PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Animacy=Inan|Case=Erg|NameType=Com|Number=Sing</td><td><em>GRAPOk</em></td></tr>
   <tr><td>IZE LIB ENT:???</td><td>=&gt;</td><td>PROPN</td><td>NameType=Oth</td><td><em></em></td></tr>
@@ -4912,7 +4912,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE LIB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Ptan</td><td><em>Bahametako, Indonesiako_Moluketako</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Prs|Number=Ptan</td><td><em>ESTRADA_Filipinetako</em></td></tr>
   <tr><td>IZE LIB PLU:+|KAS:GEL|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em>Filipinetako, Moluketako, Bahametako, Antilletako</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:+|KAS:GEL|NUM:P|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:+|KAS:GEL|NUM:P|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Ptan</td><td><em>Koreen_arteko</em></td></tr>
   <tr><td>IZE LIB PLU:+|KAS:INE|NUM:P|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Ptan</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:+|KAS:INE|NUM:P|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Ptan</td><td><em></em></td></tr>
   <tr><td>IZE LIB PLU:+|KAS:INE|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Ptan</td><td><em>Moluketan, Nafarroako_Pirinioetan</em></td></tr>
@@ -4925,9 +4925,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em>Udalbiltzatik</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Kosovotik, Iruñetik, Oriorengandik, Ameriketatik, Europatik</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Euskal_Herritik</em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaurretik|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Com|Number=Sing</td><td><em>OEAren_atzetik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSatzetik|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Txinaren_atzetik</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABL|NUM:S|MUG:M|POS:POSaurretik|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|NameType=Geo|Number=Sing</td><td><em>Portugaleteren_aurretik, Italiaren_aurretik, Hernaniren_aurretik</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|MUG:MG|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com</td><td><em>Espainiako, Espainiako_Vueltarako</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ABS|MUG:MG|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo</td><td><em>Espainiarako, Madrilen, Madrilgo, Astillerorekiko, Eurokoparako</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:P|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Plur</td><td><em>Sydneykoak</em></td></tr>
@@ -4938,15 +4938,15 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Frantzia, Bizkaia, Errusia, Zaragoza, Gipuzkoa</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Euskal_Herriko_Txapelketa, Euskal_Herria, Hego_Amerikak</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Euskal_Herria, Hego_Amerika</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSarte|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurkaa|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSkanpo|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSmenpe|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Alavesen_alde, Udalbiltzaren_alde</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSalde|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Euskadiren_alde, Udalbitzaren_alde, Israelen_alde</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSarte|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Iberora_arte, Irurtzunera_arte</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurkaa|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Arroxelaren_aurkaa</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Valentziaren_aurka, Osasunaren_aurka, Espanyolen_aurka, Rayoren_aurka, Haroren_aurka</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSaurka|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Errusiaren_aurka, Mallorcaren_aurka, Huelvaren_aurka, Reimsen_aurka, Malagaren_aurka</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>Udalaren_esku</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSkanpo|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Egiptotik_kanpo</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABS|NUM:S|MUG:M|POS:POSmenpe|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>Indonesiaren_menpe</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ABU|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ter|NameType=Geo|Number=Sing</td><td><em>Ezkurrarenganaino, Jerusalemeraino</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ABZ|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Lat|NameType=Geo|Number=Sing</td><td><em>Ingalaterrarantz</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Sing</td><td><em>Sydneyra, Antoniora, Kubara</em></td></tr>
@@ -4955,31 +4955,31 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Com|Number=Sing</td><td><em>Euskal_Herrira</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em>Euskal_Herrira</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Number=Sing</td><td><em>jack-arekin_batera</em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSkanpora|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSmenpera|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSbatera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Com|Number=Sing</td><td><em>Parisekin_batera, Trebiñorekin_batera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSkanpora|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em>Ozeaniatik_kanpora</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:ALA|NUM:S|MUG:M|POS:POSmenpera|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=All|NameType=Geo|Number=Sing</td><td><em>Burgosen_menpera</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:DAT|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em>Realari, Alavesi, Osasunari, Tolosari, Mallorcari</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:DAT|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Prs|Number=Sing</td><td><em>Zigandari, Bittor_Alkizari</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:DAT|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Geo|Number=Sing</td><td><em>Peruri</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:DAT|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Dat|NameType=Com|Number=Sing</td><td><em>Euskal_Herriari</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:DES|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ben|NameType=Com|Number=Sing</td><td><em>Alavesentzat, Udalbiltzarentzat, Speedorentzat, Astillerorentzat, KORSIKARENTZAT</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:DES|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ben|NameType=Geo|Number=Sing</td><td><em>Eibarrentzat, Ondarroarentzat, Italiarentzat, Bretainiarentzat, Malagarentzat</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSburuz|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSgora|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POShurbil|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkanpoko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSpareko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSurrun|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSzehar|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Bruselaren_arabera, CCOOren_arabera, FIFAren_arabera, AIren_arabera</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Madrilen_arabera, Estoniaren_arabera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Kontxari_begira</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbegira|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Frantziara_begira, Europara_begira</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Volkswagen_bezalako</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezalako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Mephisto_bezalako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSbezala|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Atlantan_bezala, ANPEn_bezala, Sydneyn_bezala</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSburuz|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Lleidari_buruz</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSgora|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Izoarden_gora</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POShurbil|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Pratonevosotik_hurbil</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkanpoko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Espainiatik_kanpoko</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>Breoganen_kontra, Montferranden_kontra, Grenobleren_kontra, AGENEN_kontra, Akizeren_kontra</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSkontra|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Suediaren_kontra, Grenobleren_kontra, Lyonen_kontra, Akizeren_kontra, Vienaren_kontra</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSpareko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Bartzelonaren_pareko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSurrun|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Zubietatik_urrun</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:EM|NUM:S|MUG:M|POS:POSzehar|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo|Number=Sing|PrepCase=Pre</td><td><em>Siberian_zehar, Afrikan_zehar</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ERG|NUM:P|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Prs|Number=Plur</td><td><em>Erandiokoek</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|Number=Sing</td><td><em>ITALIAK, Osak, Bullsek, Lohizunek, koreek</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>PPk, Alavesek, Realak, Osasunak, Miarritzek</em></td></tr>
@@ -4992,17 +4992,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Israelgo, Frantziako, Espainiako, Nafarroako, Europako</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Euskal_Herriko, Hego_Amerikako, Euskal_Herriako, Ipar_amerikako</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Euskal_Herriko, Hego_Amerikako, EUSKAL_HERRIKO, EUSKAL_Herriko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSinguruko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkanpoko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>UAren_aldeko</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaldeko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Moskuren_aldeko, Indonesiaren_aldeko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>PSOEren_arteko, Realaren_arteko</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSarteko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Eritrearen_arteko, Palestinaren_arteko, Gipuzkoaren_arteko, Estoniaren_arteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Alavesen_aurkako, Realaren_aurkako, Belgraderen_aurkako, Haroren_aurkako, Compostelaren_aurkako</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSaurkako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Zaragozaren_aurkako, Bartzelonaren_aurkako, Indiaren_aurkako, Holandaren_aurkako, Valentziaren_aurkako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSburuzko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Jerusalemi_buruzko, Perth-i_buruzko</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSinguruko|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Realaren_inguruko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkanpoko|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>EBtik_kanpoko</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Com|Number=Sing</td><td><em>Portugalen_kontrako, Ekinen_kontrako</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEL|NUM:S|MUG:M|POS:POSkontrako|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>Austriaren_kontrako, Vienaren_kontrako</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:???</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Oth|Number=Sing</td><td><em>Lizarraren</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>Alavesen, PSE-EEren, NATOren, PSOEren, Asperen</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:GEN|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Prs|Number=Sing</td><td><em>Jesus_Aizpunen</em></td></tr>
@@ -5016,11 +5016,11 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Gasteizen, Mendizorrotzan, Sydneyn, Bilbon, Nafarroan</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>Euskal_Herrian, Hego_Amerikan</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Euskal_Herrian, Hego_Amerikan, Euskal_Herriarengan, Ipar_Amerikan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSbarruan|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSburuan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSeskuetan|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSgainean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Europaren_artean, Bildozeren_artean, Attabeiren_artean</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSbarruan|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Jugoslaviaren_barruan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSburuan|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>FIFAren_buruan</em></td></tr>
+  <tr><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSeskuetan|POS:+|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>Israelen_eskuetan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:INE|NUM:S|MUG:M|POS:POSgainean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>Timorren_gainean</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:INS|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|NameType=Geo|Number=Sing</td><td><em>Brivez, Serjent-Iurtez, Merz, Bidasoaz, Txetxeniaz</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|KAS:PRO|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|NameType=Geo|Number=Sing</td><td><em>Koreetako</em></td></tr>
   <tr><td>IZE LIB PLU:-|KAS:SOZ|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Number=Sing</td><td><em>Bartzelonarekin</em></td></tr>
@@ -5035,8 +5035,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>EH, EBZ, EHE, NBE, STA</em></td></tr>
   <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Pertsona</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Prs|Number=Sing</td><td><em>PAN</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Geo|Number=Sing</td><td><em>NBE</em></td></tr>
-  <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ABS|NUM:S|MUG:M|POS:POSesku|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Abs|NameType=Com|Number=Sing</td><td><em>EHren_esku</em></td></tr>
+  <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:EM|NUM:S|MUG:M|POS:POSarabera|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com|Number=Sing|PrepCase=Pre</td><td><em>EHren_arabera</em></td></tr>
   <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|Number=Sing</td><td><em>EHk</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:ERG|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Erg|NameType=Com|Number=Sing</td><td><em>EHk, Irungo_EHk, DLk, EH-K, NBEk</em></td></tr>
   <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|Number=Sing</td><td><em>EHko</em></td></tr>
@@ -5045,93 +5045,93 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Loc|NameType=Geo|Number=Sing</td><td><em>NBEko, EHko</em></td></tr>
   <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:GEN|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|NameType=Com|Number=Sing</td><td><em>EHren, NBEren, OSCEren, EHEren, ENAren</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:INE|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Geo|Number=Sing</td><td><em>NBEn, ACBn</em></td></tr>
-  <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>IZE LIB PLU:-|MTKAT:SIG|KAS:INE|NUM:S|MUG:M|POS:POSartean|POS:+|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|NameType=Com|Number=Sing</td><td><em>EHren_artean</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MTKAT:SIG|KAS:SOZ|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|NameType=Com|Number=Sing</td><td><em>EHrekin</em></td></tr>
   <tr><td>IZE LIB PLU:-|MW:B|ENT:Erakundea</td><td>=&gt;</td><td>PROPN</td><td>NameType=Com</td><td><em>Ipar_Amerika, Hego_Amerika, Euskal_Herri, Euskal_Herriko_Laborarien_Batasuna, Euskal_Herri_Zaharrak</em></td></tr>
   <tr style="background:lightgray"><td>IZE LIB PLU:-|MW:B|ENT:Tokia</td><td>=&gt;</td><td>PROPN</td><td>NameType=Geo</td><td><em>Euskal_Herri</em></td></tr>
   <tr><td>IZE LIB _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>orroak, Costa</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI BIZ:-</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NumType=Card</td><td><em>lau</em></td></tr>
-  <tr><td>IZE ZKI BIZ:-|KAS:ABL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|NumType=Card|Number=Sing</td><td><em>lautik</em></td></tr>
-  <tr><td>IZE ZKI BIZ:-|KAS:ABS|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|NumType=Card|Number=Plur</td><td><em>lauak</em></td></tr>
-  <tr><td>IZE ZKI BIZ:-|KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABU|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|NumType=Card|Number=Sing</td><td><em>zeroraino</em></td></tr>
+  <tr><td>IZE ZKI BIZ:-|KAS:ABL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abl|Number=Sing|NumType=Card</td><td><em>lautik</em></td></tr>
+  <tr><td>IZE ZKI BIZ:-|KAS:ABS|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Abs|Number=Plur|NumType=Card</td><td><em>lauak</em></td></tr>
+  <tr><td>IZE ZKI BIZ:-|KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:ABU|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Ter|Number=Sing|NumType=Card</td><td><em>zeroraino</em></td></tr>
   <tr><td>IZE ZKI BIZ:-|KAS:EM</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|NumType=Card|PrepCase=Pre</td><td><em>600dik_gora</em></td></tr>
-  <tr><td>IZE ZKI BIZ:-|KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|NumType=Card|Number=Sing</td><td><em>ehuneko</em></td></tr>
-  <tr><td>IZE ZKI KAS:ABL|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumType=Card|Number=Plur</td><td><em>12:00etatik, 9etatik, hamarretatik</em></td></tr>
-  <tr><td>IZE ZKI KAS:ABL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NameType=Geo|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:ABL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NumType=Card|Number=Sing</td><td><em>1996tik, 20tik, 8tik, 6tik, 1945etik</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NameType=Geo|NumType=Card|Number=Sing</td><td><em>Hirutik</em></td></tr>
+  <tr><td>IZE ZKI BIZ:-|KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI BIZ:-|KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Case=Loc|Number=Sing|NumType=Card</td><td><em>ehuneko</em></td></tr>
+  <tr><td>IZE ZKI KAS:ABL|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Plur|NumType=Card</td><td><em>12:00etatik, 9etatik, hamarretatik</em></td></tr>
+  <tr><td>IZE ZKI KAS:ABL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NameType=Geo|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:ABL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Number=Sing|NumType=Card</td><td><em>1996tik, 20tik, 8tik, 6tik, 1945etik</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|NameType=Geo|Number=Sing|NumType=Card</td><td><em>Hirutik</em></td></tr>
   <tr><td>IZE ZKI KAS:ABS</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card</td><td><em>bat, %4, 1957, 15erako, 1994</em></td></tr>
-  <tr><td>IZE ZKI KAS:ABS|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em>biak, hiruak, hamabiak, 06:00ak, 21:15ak</em></td></tr>
-  <tr><td>IZE ZKI KAS:ABS|NUM:P|MUG:M|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Plur</td><td><em>04:00ak_arte, 12:00ak_arte</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em>25a, 24a, 2002a, hamaikakoa, hamabosta</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:S|MUG:M|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card|Number=Sing</td><td><em>14ra_arte, 6a_arte, 1846ra_arte, 22a_arte, 1991a_arte</em></td></tr>
-  <tr><td>IZE ZKI KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:ABU|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|NumType=Card|Number=Sing</td><td><em>22raino</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:ALA|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Plur</td><td><em>1etara</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:P|MUG:M|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Plur</td><td><em>8:00ak_aldera, 13:00ak_aldera</em></td></tr>
-  <tr><td>IZE ZKI KAS:ALA|NUM:P|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Plur</td><td><em>12etatik_aurrera</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Sing</td><td><em>batera, 7ra, %8ra, 40.000ra, 3ra</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:S|MUG:M|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Sing</td><td><em>01:00a_aldera</em></td></tr>
-  <tr><td>IZE ZKI KAS:ALA|NUM:S|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|NumType=Card|Number=Sing</td><td><em>2006tik_aurrera, 16:30etik_aurrera</em></td></tr>
+  <tr><td>IZE ZKI KAS:ABS|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em>biak, hiruak, hamabiak, 06:00ak, 21:15ak</em></td></tr>
+  <tr><td>IZE ZKI KAS:ABS|NUM:P|MUG:M|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur|NumType=Card</td><td><em>04:00ak_arte, 12:00ak_arte</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em>25a, 24a, 2002a, hamaikakoa, hamabosta</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABS|NUM:S|MUG:M|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Sing|NumType=Card</td><td><em>14ra_arte, 6a_arte, 1846ra_arte, 22a_arte, 1991a_arte</em></td></tr>
+  <tr><td>IZE ZKI KAS:ABS|POS:POSarte|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|NumType=Card</td><td><em>1800_arte, 31_arte</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ABU|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:ABU|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ter|Number=Sing|NumType=Card</td><td><em>22raino</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:ALA|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>1etara</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:P|MUG:M|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>8:00ak_aldera, 13:00ak_aldera</em></td></tr>
+  <tr><td>IZE ZKI KAS:ALA|NUM:P|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Plur|NumType=Card</td><td><em>12etatik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:ALA|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumType=Card</td><td><em>batera, 7ra, %8ra, 40.000ra, 3ra</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ALA|NUM:S|MUG:M|POS:POSaldera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumType=Card</td><td><em>01:00a_aldera</em></td></tr>
+  <tr><td>IZE ZKI KAS:ALA|NUM:S|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Number=Sing|NumType=Card</td><td><em>2006tik_aurrera, 16:30etik_aurrera</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:DAT</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|NumType=Card</td><td><em></em></td></tr>
   <tr><td>IZE ZKI KAS:DAT|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|NumType=Card</td><td><em>112ri</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:DAT|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:DAT|NUM:PH|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|NumType=Card|Number=Plur</td><td><em>miloi</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:DAT|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:DAT|NUM:PH|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em>miloi</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:EM</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
   <tr><td>IZE ZKI KAS:EM|MUG:MG|POS:POSgisan|POS:+</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|PrepCase=Pre</td><td><em>baten_gisan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:EM|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em>1etik_aurrera, 3tik_aurrera</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSgeroztik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em>1982az_geroztik, 6az_geroztik, 1948az_geroztik, 1939az_geroztik, 1960az_geroztik</em></td></tr>
-  <tr><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|Number=Sing|PrepCase=Pre</td><td><em>40tik_gora, hamarretik_gora, 8.000tik_gora</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:EM|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSaurrera|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>1etik_aurrera, 3tik_aurrera</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSgeroztik|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>1982az_geroztik, 6az_geroztik, 1948az_geroztik, 1939az_geroztik, 1960az_geroztik</em></td></tr>
+  <tr><td>IZE ZKI KAS:EM|NUM:S|MUG:M|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Number=Sing|NumType=Card|PrepCase=Pre</td><td><em>40tik_gora, hamarretik_gora, 8.000tik_gora</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:EM|POS:POSgora|POS:+</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card|PrepCase=Pre</td><td><em>100dik_gora</em></td></tr>
   <tr><td>IZE ZKI KAS:ERG</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:ERG|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card</td><td><em>%19k, hiruk, %82k, %13k, %28k</em></td></tr>
-  <tr><td>IZE ZKI KAS:ERG|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ERG|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card|Number=Plur</td><td><em>%15ek, %5ek</em></td></tr>
-  <tr><td>IZE ZKI KAS:ERG|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|NumType=Card|Number=Sing</td><td><em>%51k</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEL|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em>bostetako</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEL|NUM:P|MUG:M|POS:POSbitarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Plur</td><td><em>03:00ak_bitarteko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:GEL|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Geo|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em>1999ko, 1995eko, 1998ko, 1986ko, 8ko</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Geo|NumType=Card|Number=Sing</td><td><em>Bosteko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em>hirurogeita_hamarreko</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|POS:POSbitarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em>1940ra_bitarteko, 1999ra_bitarteko</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|POS:POSgorako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NumType=Card|Number=Sing</td><td><em>%10etik_gorako, %5etik_gorako</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEN|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEN|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumType=Card|Number=Plur</td><td><em>hiruen</em></td></tr>
-  <tr><td>IZE ZKI KAS:GEN|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:GEN|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|NumType=Card|Number=Sing</td><td><em>hamarraren, hamaikakoaren</em></td></tr>
+  <tr><td>IZE ZKI KAS:ERG|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ERG|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|Number=Plur|NumType=Card</td><td><em>%15ek, %5ek</em></td></tr>
+  <tr><td>IZE ZKI KAS:ERG|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:ERG|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Erg|Number=Sing|NumType=Card</td><td><em>%51k</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEL|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em>bostetako</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEL|NUM:P|MUG:M|POS:POSbitarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Plur|NumType=Card</td><td><em>03:00ak_bitarteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:GEL|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Geo|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>1999ko, 1995eko, 1998ko, 1986ko, 8ko</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|NameType=Geo|Number=Sing|NumType=Card</td><td><em>Bosteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|MW:B</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>hirurogeita_hamarreko</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|POS:POSbitarteko|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>1940ra_bitarteko, 1999ra_bitarteko</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEL|NUM:S|MUG:M|POS:POSgorako|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Loc|Number=Sing|NumType=Card</td><td><em>%10etik_gorako, %5etik_gorako</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEN|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEN|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|NumType=Card</td><td><em>hiruen</em></td></tr>
+  <tr><td>IZE ZKI KAS:GEN|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:GEN|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Sing|NumType=Card</td><td><em>hamarraren, hamaikakoaren</em></td></tr>
   <tr><td>IZE ZKI KAS:INE</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em>12:00etan, 05:00etan, 00:30etan, 9etan, 20:50tan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:P|MUG:M|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Plur</td><td><em>hamabiak_bitartean</em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Com|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Geo|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em>1998an, 10ean, 1997an, 20an, 15ean</em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Com|NumType=Card|Number=Sing</td><td><em>G_IIan</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Geo|NumType=Card|Number=Sing</td><td><em>G_IIan</em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|NUM:S|MUG:M|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card|Number=Sing</td><td><em>zazpia_bitartean, 4a_bitartean</em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IZE ZKI KAS:INS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>IZE ZKI KAS:INS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|NumType=Card|Number=Sing</td><td><em>16az</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:P</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>12:00etan, 05:00etan, 00:30etan, 9etan, 20:50tan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:P|MUG:M|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Plur|NumType=Card</td><td><em>hamabiak_bitartean</em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Com|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|NUM:S|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Geo|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em>1998an, 10ean, 1997an, 20an, 15ean</em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|NUM:S|MUG:M|ENT:Erakundea</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Com|Number=Sing|NumType=Card</td><td><em>G_IIan</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|NUM:S|MUG:M|ENT:Tokia</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NameType=Geo|Number=Sing|NumType=Card</td><td><em>G_IIan</em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|NUM:S|MUG:M|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Number=Sing|NumType=Card</td><td><em>zazpia_bitartean, 4a_bitartean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INE|POS:POSaldean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card</td><td><em>1870_aldean</em></td></tr>
+  <tr><td>IZE ZKI KAS:INE|POS:POSbitartean|POS:+</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|NumType=Card</td><td><em>1763-80_bitartean</em></td></tr>
+  <tr style="background:lightgray"><td>IZE ZKI KAS:INS|NUM:S</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>IZE ZKI KAS:INS|NUM:S|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Number=Sing|NumType=Card</td><td><em>16az</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:PAR</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumType=Card</td><td><em></em></td></tr>
   <tr><td>IZE ZKI KAS:PAR|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|NumType=Card</td><td><em>hamaikakorik</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI KAS:SOZ</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>

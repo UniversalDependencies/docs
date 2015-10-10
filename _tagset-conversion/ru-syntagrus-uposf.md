@@ -62,12 +62,12 @@ Tagset <tt>ru::syntagrus</tt>, total 374 tags.
   <tr><td>A ПРЕВ МН ПР</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Number=Plur</td><td><em>новейших, тяжелейших</em></td></tr>
   <tr style="background:lightgray"><td>A ПРЕВ МН РОД</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Number=Plur</td><td><em>крупнейших, новейших</em></td></tr>
   <tr><td>A СЛ</td><td>=&gt;</td><td>ADJ</td><td>Hyph=Yes</td><td><em>научно, желто, российско, спокойно, приятно</em></td></tr>
-  <tr style="background:lightgray"><td>A СРАВ</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em>лучше, хуже, проще, сложнее, выше</em></td></tr>
-  <tr><td>A СРАВ СМЯГ</td><td>=&gt;</td><td>ADJ</td><td>Degree=Comp</td><td><em>попроще, поглубже, посмелей, поменьше, покрепче</em></td></tr>
+  <tr style="background:lightgray"><td>A СРАВ</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em>лучше, хуже, проще, сложнее, выше</em></td></tr>
+  <tr><td>A СРАВ СМЯГ</td><td>=&gt;</td><td>ADJ</td><td>Degree=Cmp</td><td><em>попроще, поглубже, посмелей, поменьше, покрепче</em></td></tr>
   <tr style="background:lightgray"><td>ADV</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>только, так, как, там, можно</em></td></tr>
   <tr><td>ADV НЕСТАНД</td><td>=&gt;</td><td>ADV</td><td>Typo=Yes</td><td><em>Ка-ак, Сюда-а</em></td></tr>
-  <tr style="background:lightgray"><td>ADV СРАВ</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>больше, меньше, быстрей, дальше, позже</em></td></tr>
-  <tr><td>ADV СРАВ СМЯГ</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em>поближе, поскорее, подальше</em></td></tr>
+  <tr style="background:lightgray"><td>ADV СРАВ</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>больше, меньше, быстрей, дальше, позже</em></td></tr>
+  <tr><td>ADV СРАВ СМЯГ</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>поближе, поскорее, подальше</em></td></tr>
   <tr style="background:lightgray"><td>COM СЛ</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>Про</em></td></tr>
   <tr><td>CONJ</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>и, что, а, как, но</em></td></tr>
   <tr style="background:lightgray"><td>INTJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>а, Ах, ого-го, Стоп, Ну-ну</em></td></tr>
