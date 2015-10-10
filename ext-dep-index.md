@@ -48,6 +48,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## compound
 - compound:prt
+[Dutch](nl-dep/compound:prt)
 [English](en-dep/compound:prt)
 [Estonian](et-dep/compound:prt)
 [German](de-dep/compound:prt)
@@ -64,6 +65,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Czech](cs-dep/det:numgov)
 - det:nummod
 [Czech](cs-dep/det:nummod)
+[Dutch](nl-dep/det:nummod)
 - det:predet
 [English](en-dep/det:predet)
 
