@@ -75,7 +75,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## nmod
 - `nmod:gsubj`:
 [Finnish](fi-dep/nmod:gsubj)
-- `case:gobj`:
+- `nmod:gobj`:
 [Finnish](fi-dep/nmod:gobj)
 - `nmod:npmod`:
 [English](en-dep/nmod:npmod)
