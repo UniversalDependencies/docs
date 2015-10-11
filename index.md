@@ -45,13 +45,13 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-la">Latin</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-pl">Polish</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-pt">Portuguese</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ta">Tamil</a></li>
-  <li class="ui-state-default"><a href="#language-pl">Polish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
