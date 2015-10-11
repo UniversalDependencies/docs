@@ -50,7 +50,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a href="#language-ta">Tamil</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ta">Tamil</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
