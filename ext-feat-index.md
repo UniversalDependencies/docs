@@ -77,6 +77,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Estonian values](et-feat/AdpType): Prep, Post
 * [Latin values](la-feat/AdpType): Prep
 * [Portuguese values](pt-feat/AdpType): Prep
+* [Tamil values](ta-feat/AdpType): Post
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## AdvType
@@ -101,6 +102,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Dutch values](nl-feat/Foreign): Foreign
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
 * [Slovenian values](sl-feat/Foreign): Yes
+* [Spanish values](es-feat/Foreign): Foreign, Fscript
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[dat]
@@ -159,6 +161,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
 * [Estonian values](et-feat/NumForm): Digit, Word
 * [Slovenian values](sl-feat/NumForm): Digit, Roman, Word
+* [Tamil values](ta-feat/NumForm): Digit
 * [Interset](ext-feat/NumForm): Digit, Roman, Word
 
 ## NumValue
@@ -191,6 +194,8 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Polite
 * [Basque values](ext-feat/Polite): Inf, Pol
+* [Spanish values](es-feat/Polite): Pol
+* [Tamil values](ta-feat/Polite): Pol
 * [Interset](ext-feat/Polite): Inf, Pol
 
 ## Polite[abs]
@@ -211,6 +216,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## PrepCase
 * [Czech values](cs-feat/PrepCase): Npr, Pre
 * [Portuguese values](pt-feat/PrepCase): Pre
+* [Spanish values](es-feat/PrepCase): Npr, Pre
 * [Interset](ext-feat/PrepCase): Npr, Pre
 
 ## PunctSide
@@ -220,6 +226,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## PunctType
 * [Dutch values](nl-feat/PunctType): Brck, Colo, Comm, Excl, Peri, Qest, Quot, Semi
 * [Estonian values](et-feat/PunctType): Comm, Excl, Peri, Qest
+* [Tamil values](ta-feat/PunctType): Comm, Peri
 * [Interset](ext-feat/PunctType): Peri, Qest, Excl, Quot, Brck, Comm, Colo, Semi, Dash
 
 ## Style
