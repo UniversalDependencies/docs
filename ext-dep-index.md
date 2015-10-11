@@ -11,100 +11,94 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## acl
-- acl:relcl
-[English](en-dep/acl:relcl)
-[Finnish](fi-dep/acl:relcl)
-[French](fr-dep/acl:relcl)
-[German](de-dep/acl:relcl)
-[Spanish](es-dep/acl:relcl)
+- `acl:relcl`:
+[English](en-dep/acl:relcl),
+[Finnish](fi-dep/acl:relcl),
+[French](fr-dep/acl:relcl),
+[German](de-dep/acl:relcl),
+[Spanish](es-dep/acl:relcl),
 [Swedish](sv-dep/acl:relcl)
 
 
 ## advmod
-- advmod:emph
-[Ancient Greek](grc-dep/advmod:emph)
-[Arabic](ar-dep/advmod:emph)
-[Czech](cs-dep/advmod:emph)
-[Estonian](et-dep/advmod:emph)
-[Latin](la-dep/advmod:emph)
-[Portuguese](pt-dep/advmod:emph)
+- `advmod:emph`:
+[Ancient Greek](grc-dep/advmod:emph),
+[Arabic](ar-dep/advmod:emph),
+[Czech](cs-dep/advmod:emph),
+[Estonian](et-dep/advmod:emph),
+[Latin](la-dep/advmod:emph),
+[Portuguese](pt-dep/advmod:emph),
 [Tamil](ta-dep/advmod:emph)
 
 
 ## auxpass
-- auxpass:reflex
-[Czech](cs-dep/auxpass:reflex)
+- `auxpass:reflex`:
+[Czech](cs-dep/auxpass:reflex),
 [Portuguese](pt-dep/auxpass:reflex)
 
 
 ## cc
-- cc:preconj
+- `cc:preconj`:
 [English](en-dep/cc:preconj)
 
 
 ## ccomp
-- ccomp:nf
+- `ccomp:nf`:
 [Finnish](fi-dep/ccomp:nf)
 
 
 ## compound
-- compound:prt
-[Dutch](nl-dep/compound:prt)
-[English](en-dep/compound:prt)
-[Estonian](et-dep/compound:prt)
-[German](de-dep/compound:prt)
-[Swedish](sv-dep/compound:prt)
+- `compound:prt`:
+[Dutch](nl-dep/compound:prt),
+[English](en-dep/compound:prt),
+[Estonian](et-dep/compound:prt),
+[German](de-dep/compound:prt),
+[Swedish](sv-dep/compound:prt),
 [Tamil](ta-dep/compound:prt)
 
 
 ## csubj
-- csubj:cop
+- `csubj:cop`:
 [Finnish](fi-dep/csubj:cop)
 
 
 ## det
-- det:numgov
+- `det:numgov`:
 [Czech](cs-dep/det:numgov)
-- det:nummod
-[Czech](cs-dep/det:nummod)
+- `det:nummod`:
+[Czech](cs-dep/det:nummod),
 [Dutch](nl-dep/det:nummod)
-- det:predet
+- `det:predet`:
 [English](en-dep/det:predet)
 
 
 ## nmod
-- nmod:gsubj
+- `nmod:gsubj`:
 [Finnish](fi-dep/nmod:gsubj)
-
-- case:gobj
+- `case:gobj`:
 [Finnish](fi-dep/nmod:gobj)
-
-- nmod:npmod
+- `nmod:npmod`:
 [English](en-dep/nmod:npmod)
-
-- nmod:own
+- `nmod:own`:
 [Finnish](fi-dep/nmod:own)
-
-- nmod:poss
-[English](en-dep/nmod:poss)
-[Finnish](fi-dep/nmod:poss)
-[French](fr-dep/nmod:poss)
-[Spanish](es-dep/nmod:poss)
+- `nmod:poss`:
+[English](en-dep/nmod:poss),
+[Finnish](fi-dep/nmod:poss),
+[French](fr-dep/nmod:poss),
+[Spanish](es-dep/nmod:poss),
 [Swedish](sv-dep/nmod:poss)
-
-- nmod:tmod
+- `nmod:tmod`:
 [English](en-dep/nmod:tmod)
-
-- nmod:agent
+- `nmod:agent`:
 [Swedish](sv-dep/nmod:agent)
 
 
 ## nsubj
-- nsubj:cop
+- `nsubj:cop`:
 [Finnish](fi-dep/nsubj:cop)
 
 
 ## nummod
-- nummod:gov
-[Czech](cs-dep/nummod:gov)
+- `nummod:gov`:
+[Czech](cs-dep/nummod:gov),
 [Estonian](et-dep/nummod:gov)
