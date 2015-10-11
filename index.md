@@ -50,6 +50,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a href="#language-ta">Tamil</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -733,6 +734,26 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](nl/overview/syntax.html)
   * [Specific constructions](nl/overview/specific-syntax.html)
   * [Dutch dependency relations](nl/dep/index.html) ([single document](nl/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Tamil" tab -->
+<div id="language-ta" markdown="1" class="ui-tabs-hide">
+{% include ta-status-table.html %}
+
+[Introduction](ta/overview/introduction.html)
+
+* [Tokenization](ta/overview/tokenization.html)
+* Morphology
+  * [General principles](ta/overview/morphology.html)
+  * [Tamil POS tags](ta/pos/index.html) ([single document](ta/pos/all.html))
+  * [Tamil features](ta/feat/index.html) ([single document](ta/feat/all.html))
+* Syntax
+  * [General principles](ta/overview/syntax.html)
+  * [Specific constructions](ta/overview/specific-syntax.html)
+  * [Tamil dependency relations](ta/dep/index.html) ([single document](ta/dep/all.html))
 
 [CoNLL-U format](format.html)
 

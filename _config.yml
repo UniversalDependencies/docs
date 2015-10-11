@@ -483,6 +483,20 @@ collections:
   nl-overview:
     output: true
 #
+# Tamil
+#
+  ta-pos:
+    output: true
+    permalink: /ta/pos/:path.html
+  ta-feat:
+    output: true
+    permalink: /ta/feat/:path.html
+  ta-dep:
+    output: true
+    permalink: /ta/dep/:path.html
+  ta-overview:
+    output: true
+#
 # Template
 #
   template-pos:
