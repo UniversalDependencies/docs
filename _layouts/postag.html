@@ -2,15 +2,22 @@
 layout: base
 ---
 
-<h2><code>{{ page.title }}</code>: {{ page.shortdef }}</h2>
+<div about="#{{ page.title }}" rel="rdfs:isDefinedBy" resource=""/>
+<div about="#{{ page.title }}" rel="rdf:type" resource="#Concept"/>
 
-{{ content }}
+	<h2 about="#{{ page.title }}"><code property="oliasystem:hasTag" datatype="xsd:string">{{ page.title }}</code>: <div property="rdfs:label">{{ page.shortdef }}</div></h2>
 
-<!-- "in other languages" links -->
-<hr/>
-{% for r in site.data.postags %}{% if r.label == page.title %}
-{{ r.label }} in other languages:
-{% for l in r.languages %}
-[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/pos', '' }}</a>]
-{% endfor %}
-{% endif %}{% endfor %}
+	<div about="#{{ page.title }}" property="rdfs:comment" datatype="rdf:XMLLiteral">
+		{{ content }}
+	</div>
+
+	<!-- "in other languages" links -->
+	<hr/>
+	{% for r in site.data.postags %}{% if r.label == page.title %}
+	{{ r.label }} in other languages:
+	{% for l in r.languages %}
+	[<a href="../../{{ l.label }}/{{ r.label }}.html">{{ l.label | replace: '/pos', '' }}</a>]
+	{% endfor %}
+	{% endif %}{% endfor %}
+
+</div>
