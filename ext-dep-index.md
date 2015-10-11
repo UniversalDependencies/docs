@@ -28,6 +28,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Estonian](et-dep/advmod:emph)
 [Latin](la-dep/advmod:emph)
 [Portuguese](pt-dep/advmod:emph)
+[Tamil](ta-dep/advmod:emph)
 
 
 ## auxpass
@@ -53,6 +54,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Estonian](et-dep/compound:prt)
 [German](de-dep/compound:prt)
 [Swedish](sv-dep/compound:prt)
+[Tamil](ta-dep/compound:prt)
 
 
 ## csubj
