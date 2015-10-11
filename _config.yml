@@ -497,6 +497,20 @@ collections:
   ta-overview:
     output: true
 #
+# Polish
+#
+  pl-pos:
+    output: true
+    permalink: /pl/pos/:path.html
+  pl-feat:
+    output: true
+    permalink: /pl/feat/:path.html
+  pl-dep:
+    output: true
+    permalink: /pl/dep/:path.html
+  pl-overview:
+    output: true
+#
 # Template
 #
   template-pos:

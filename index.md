@@ -51,6 +51,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ta">Tamil</a></li>
+  <li class="ui-state-default"><a href="#language-pl">Polish</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -754,6 +755,26 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](ta/overview/syntax.html)
   * [Specific constructions](ta/overview/specific-syntax.html)
   * [Tamil dependency relations](ta/dep/index.html) ([single document](ta/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Polish" tab -->
+<div id="language-pl" markdown="1" class="ui-tabs-hide">
+{% include pl-status-table.html %}
+
+[Introduction](pl/overview/introduction.html)
+
+* [Tokenization](pl/overview/tokenization.html)
+* Morphology
+  * [General principles](pl/overview/morphology.html)
+  * [Polish POS tags](pl/pos/index.html) ([single document](pl/pos/all.html))
+  * [Polish features](pl/feat/index.html) ([single document](pl/feat/all.html))
+* Syntax
+  * [General principles](pl/overview/syntax.html)
+  * [Specific constructions](pl/overview/specific-syntax.html)
+  * [Polish dependency relations](pl/dep/index.html) ([single document](pl/dep/all.html))
 
 [CoNLL-U format](format.html)
 
