@@ -67,9 +67,9 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 license_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{license:}">{licenseshort:}</span></span>"""
-for lic in ("CC BY-NC-SA 3.0","CC BY-NC-SA 3.0 US","CC BY-NC-SA 4.0"):
+for lic in ("CC BY-NC-SA 2.5","CC BY-NC-SA 3.0","CC BY-NC-SA 3.0 US","CC BY-NC-SA 4.0"):
     categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license"  src="logos/by-nc-sa.svg"/>""")
-for lic in ("GNU GPL Version 2",):
+for lic in ("GNU GPL Version 2","GPL","GPL 3.0"):
     categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/gpl.svg"/>""")
 for lic in ("CC BY-SA 4.0","CC BY-SA 3.0"):
     categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by-sa.svg"/>""")
@@ -77,6 +77,7 @@ for lic in ("CC BY 4.0",):
     categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
 
 valueRe=re.compile(u"^([a-zA-Z ]+): ([A-Za-z0-9+. -]+)$")
+known_cats=set(cat for cat,val in categories)
 def analyze_readme(dir_name):
     readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none"}
     readmes=sorted(x for x in glob.glob(os.path.join(dir_name,"*")) if "readme" in x.lower())
@@ -90,6 +91,11 @@ def analyze_readme(dir_name):
                 if (cat,val) in categories:
                     #Yes! this is a known category, we have a perfect match
                     readme_data[cat]=val
+                elif cat in known_cats:
+                    #Known cat, but weird val
+                    print >> sys.stderr, "********"
+                    print >> sys.stderr, "Strange cat-val", (cat,val)
+                    
     return readme_data
                 
 def get_language_span(l):
