@@ -78,7 +78,7 @@ for lic in ("CC BY 4.0",):
 
 valueRe=re.compile(u"^([a-zA-Z ]+): ([A-Za-z0-9+. -]+)$")
 def analyze_readme(dir_name):
-    readme_data={u"Documentation status":u"stub",u"Data source":u"unknown",u"License":u"none",u"Data available since":u"none"}
+    readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none"}
     readmes=sorted(x for x in glob.glob(os.path.join(dir_name,"*")) if "readme" in x.lower())
     if not readmes: #No readme file!
         return readme_data
