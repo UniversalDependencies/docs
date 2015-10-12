@@ -3,6 +3,30 @@ layout: base
 title:  'Language-specific features'
 ---
 
+# Additional language-specific values for universal features
+
+The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there.
+It is likely that these values will be included in future versions of the universal set.
+
+## Degree
+* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in [Dutch](nl-feat/Degree): _stoeltje, huisje, nippertje_)
+
+## PronType
+* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
+* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
+
+## Tense
+* [u-feat/Tense]()` = Aor`: aorist (as opposed to `Past`) in [Ancient Greek](grc-feat/Tense). Note that other languages may have a past tense that they traditionally call aorist but they mark it using the normal `Past` value because the other past tenses have their own special values. [Bulgarian](bg-feat/Tense) is an example: Bulgarian aorist is labeled `Past` and imperfect past is labeled `Imp`.
+
+## VerbForm
+* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in [Latin](la-feat/VerbForm).
+
+## Voice
+* [u-feat/Voice]()` = Mid`: middle voice in [Ancient Greek](grc-feat/Voice). (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
+* `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.
+
+
+
 # Language-specific features
 
 In addition to the <a href="u/feat/index.html">universal set of features</a>,
@@ -37,14 +61,23 @@ There are automatically generated approximate
 from existing tagsets of various languages to the universal part-of-speech tags and universal + language-specific features.
 
 ## Abbr
+* [Arabic values](ar-feat/Abbr): Yes
 * [Czech values](cs-feat/Abbr): Yes
+* [Estonian values](et-feat/Abbr): Yes
 * [Finnish values](fi-feat/Abbr): Yes
 * [Slovenian values](sl-feat/Abbr): Yes
 * [Interset](ext-feat/Abbr): Yes
 
 
 ## AdpType
+* [Ancient Greek values](grc-feat/AdpType): Prep
+* [Arabic values](ar-feat/AdpType): Prep
 * [Czech values](cs-feat/AdpType): Prep, Voc, Comprep
+* [Dutch values](nl-feat/AdpType): Prep, Post, Circ
+* [Estonian values](et-feat/AdpType): Prep, Post
+* [Latin values](la-feat/AdpType): Prep
+* [Portuguese values](pt-feat/AdpType): Prep
+* [Tamil values](ta-feat/AdpType): Post
 * [Interset](ext-feat/AdpType): Prep, Post, Circ, Voc
 
 ## AdvType
@@ -64,9 +97,12 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Echo): Rdp, Ech
 
 ## Foreign
+* [Arabic values](ar-feat/Foreign): Foreign
 * [Czech values](cs-feat/Foreign): Foreign, Fscript, Tscript
+* [Dutch values](nl-feat/Foreign): Foreign
 * [Finnish values](fi-feat/Foreign): Foreign, Fscript
 * [Slovenian values](sl-feat/Foreign): Yes
+* [Spanish values](es-feat/Foreign): Foreign, Fscript
 * [Interset](ext-feat/Foreign): Foreign, Fscript, Tscript
 
 ## Gender[dat]
@@ -84,6 +120,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Hyph
 * [Czech values](cs-feat/Hyph): Yes
+* [Portuguese values](pt-feat/Hyph): Yes
 * [Interset](ext-feat/Hyph): Yes
 
 ## InfForm
@@ -91,6 +128,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## NameType
 * [Czech values](cs-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
+* [Estonian values](et-feat/NameType): Nat
 * [Interset](ext-feat/NameType): Geo, Prs, Giv, Sur, Nat, Com, Pro, Oth
 
 ## NounType
@@ -114,15 +152,20 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## Number[psor]
 * <a href="cs/feat/Number-psor.html">Czech values</a>: Sing, Plur
 * <a href="fi/feat/Number-psor.html">Finnish values</a>: Sing, Plur
+* [Portuguese values](pt-feat/Number-psor): Sing, Plur
 * [Slovenian values](sl-feat/Number-psor): Sing, Dual, Plur
 * [Interset](ext-feat/PossNumber): Sing, Plur
 
 ## NumForm
+* [Arabic values](ar-feat/NumForm): Digit, Word
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
+* [Estonian values](et-feat/NumForm): Digit, Word
 * [Slovenian values](sl-feat/NumForm): Digit, Roman, Word
+* [Tamil values](ta-feat/NumForm): Digit
 * [Interset](ext-feat/NumForm): Digit, Roman, Word
 
 ## NumValue
+* [Arabic values](ar-feat/NumValue): 1, 2, 3
 * [Czech values](cs-feat/NumValue): 1, 2, 3
 * [Interset](ext-feat/NumValue): 1, 2, 3
 
@@ -130,6 +173,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Finnish values](fi-feat/PartForm): Pres, Past, Agt, Neg
 
 ## PartType
+* [Dutch values](nl-feat/PartType): Inf, Vbp
 * [Interset](ext-feat/PartType): Mod, Emp, Res, Inf, Vbp
 
 ## Person[abs]
@@ -150,6 +194,8 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## Polite
 * [Basque values](ext-feat/Polite): Inf, Pol
+* [Spanish values](es-feat/Polite): Pol
+* [Tamil values](ta-feat/Polite): Pol
 * [Interset](ext-feat/Polite): Inf, Pol
 
 ## Polite[abs]
@@ -169,12 +215,18 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 
 ## PrepCase
 * [Czech values](cs-feat/PrepCase): Npr, Pre
+* [Portuguese values](pt-feat/PrepCase): Pre
+* [Spanish values](es-feat/PrepCase): Npr, Pre
 * [Interset](ext-feat/PrepCase): Npr, Pre
 
 ## PunctSide
+* [Dutch values](nl-feat/PunctSide): Ini, Fin
 * [Interset](ext-feat/PunctSide): Ini, Fin
 
 ## PunctType
+* [Dutch values](nl-feat/PunctType): Brck, Colo, Comm, Excl, Peri, Qest, Quot, Semi
+* [Estonian values](et-feat/PunctType): Comm, Excl, Peri, Qest
+* [Tamil values](ta-feat/PunctType): Comm, Peri
 * [Interset](ext-feat/PunctType): Peri, Qest, Excl, Quot, Brck, Comm, Colo, Semi, Dash
 
 ## Style
@@ -183,35 +235,20 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
 
 ## Subcat
+* [Dutch values](nl-feat/Subcat): Intr, Trans
 * [Interset](ext-feat/Subcat): Intr, Trans
 
 ## Typo
 * [Finnish values](fi-feat/Typo): Yes
+* [Portuguese values](pt-feat/Typo): Yes
 * [Interset](ext-feat/Typo): Yes
 
 ## Variant
 * [Czech values](cs-feat/Variant): Short
+* [Dutch values](nl-feat/Variant): Short
 * [Slovenian values](sl-feat/Variant): Bound, Short
 
 ## VerbType
+* [Dutch values](nl-feat/VerbType): Aux, Cop, Mod
+* [Estonian values](et-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
-
-
-
-# Additional language-specific values for universal features
-
-The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there:
-
-## Degree
-* [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in Dutch: _stoeltje, huisje, nippertje_)
-
-## PronType
-* [u-feat/PronType]()` = Exc`: exclamative pronoun or determiner. It expresses the speaker's surprise towards the modified noun, e.g. _what_ in _<b>What</b> a surprise!_ In many languages, exclamative determiners are recruited from the set of interrogative determiners. Therefore, not all tagsets distinguish them. For instance, they are distinguished in Spanish (es::conll2009), Catalan (ca::conll2009), Italian (it::isdt) and Persian (fa::conll).
-* `PronType = Clit`: used for clitic pronouns in Italian, e.g. _<b>Si</b> è rotto_ "It has broken"
-
-## VerbForm
-* [u-feat/VerbForm]()` = Gdv`: gerundive (as opposed to the gerund) in Latin.
-
-## Voice
-* [u-feat/Voice]()` = Mid`: middle voice in Ancient Greek. (The mediopassive voice can be expressed as `Voice=Mid,Pass`.)
-* `Voice = Int`: intensive voice/aspect (the PIEL binyan) in Hebrew.

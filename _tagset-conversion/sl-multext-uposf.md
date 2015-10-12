@@ -16,44 +16,44 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>sl::multext</tt>, total 1150 tags.
 
 <table>
-  <tr style="background:lightgray"><td>Agcfdn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
-  <tr><td>Agcfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcfpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcfsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcfsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcfsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcfsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcmdn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcmpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcmpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcmpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmsay</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcmsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcmsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcmsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcmsny</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Comp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcnpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcnpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>Agcnpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcnsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcnsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Agcnsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>Agcnsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfdn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
+  <tr><td>Agcfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcfpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcfsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcfsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcfsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcfsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcmdn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Masc|Number=Dual</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcmpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcmpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcmpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmsay</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcmsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcmsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcmsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcmsny</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcnpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcnpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>Agcnpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcnsd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcnsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Agcnsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>Agcnsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Agpfda</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
   <tr><td>Agpfdg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Agpfdi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
@@ -1026,7 +1026,7 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr><td>Pz-nsl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pz-nsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Neg</td><td><em></em></td></tr>
   <tr><td>Q</td><td>=&gt;</td><td>PART</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Rgc</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Rgc</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em></em></td></tr>
   <tr><td>Rgp</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Rgs</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em></em></td></tr>
   <tr><td>Rr</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em></em></td></tr>

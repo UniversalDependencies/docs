@@ -29,10 +29,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=D|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=D|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=D|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=D|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
@@ -47,10 +47,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em>Zákostelský, Hrubý, Smutný, Výborný, Šťastný</em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nedávné, neznámé, nedostatečné, nebezpečné, nezávislé</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em>Neveselý</em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>nižší, vyšší, větší, menší, starší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nebezpečnější, nepatrnější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>nižší, vyšší, větší, menší, starší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nebezpečnější, nepatrnější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>nejvyšší, Nejnižší, nejlepší, největší, nejdražší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -63,10 +63,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>necelých, nebezpečných, nebytových, neziskových, nevládních</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>menších, větších, vyšších, nižších, starších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>menších, větších, vyšších, nižších, starších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>největších, nejrůznějších, nejvyšších, nejvyspělejších, nejúspěšnějších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nejnebezpečnějších, nejnešťastnějších</em></td></tr>
@@ -77,10 +77,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nedávným, nevhodným, nepotvrzeným, neracionálním, nepříznivým</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>vyšším, menším, větším, nižším, významnějším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>vyšším, menším, větším, nižším, významnějším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>největším, nejlepším, nejslabším, nejdůležitějším, nejvýznamnějším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -91,10 +91,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em>zatracený</em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>nezbytné, nezávislé, neziskové, nemalé, nebezpečné</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>větší, vyšší, nižší, menší, starší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>větší, vyšší, nižší, menší, starší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>největší, nejlepší, nejrůznější, nejvyšší, nejmenší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -103,10 +103,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -119,10 +119,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>neziskových, necelých, nestátních, nelidských, nechutných</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>vyšších, menších, nižších, větších, mladších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>vyšších, menších, nižších, větších, mladších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>nejrůznějších, největších, nejnižších, nejvyšších, nejprestižnějších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -133,12 +133,12 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em>neobjasněnými, nekonečnými, nepočestnými, neuváženými, nesnadnými</em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>výhodnějšími, většími, dřívějšími, menšími, mladšími</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>výhodnějšími, většími, dřívějšími, menšími, mladšími</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em>nejlepšími, nejvyššími, nejrůznějšími, nejmenšími, nejobchodovanějšími</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=P|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=P|Cas=7|Gra=3|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
@@ -156,10 +156,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=F|Num=S|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nezávislá, nedostatečná, nezbytná, nedávná, neznámá</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, nižší, vyšší, menší, lepší</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nepravděpodobnější</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, nižší, vyšší, menší, lepší</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nepravděpodobnější</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>největší, nejlepší, nejnižší, nejvyšší, nejhorší</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -173,10 +173,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nedávné, nezávislé, neznámé, nedostatečné, nezákonné</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, nižší, vyšší, lepší, starší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nečistší, nevýhodnější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, nižší, vyšší, lepší, starší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nečistší, nevýhodnější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>nejvyšší, největší, nejnižší, nejsilnější, nejvýznamnější</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nejnebezpečnější</em></td></tr>
@@ -187,10 +187,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nešťastné, nezákonné, neživé, nekalé, nesportovní</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, obecnější, snadnější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, obecnější, snadnější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>největší, nejmladší, nejlepší, nejširší, nejvyšší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -204,10 +204,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=F|Num=S|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nedostatečnou, nezastupitelnou, nespornou, neformální, neurčitou</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, delší, vyšší, nižší, menší</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nejistější</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, delší, vyšší, nižší, menší</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nejistější</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>největší, nejlepší, nejvyšší, nejnižší, nejmenší</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nejnevhodnější</em></td></tr>
@@ -218,10 +218,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=F|Num=S|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>neznámá</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -234,10 +234,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=F|Num=S|Cas=6|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nedávné, neposlední, nedaleké, nezbytné, nečekané</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, širší, delší</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, širší, delší</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>nejbližší, nejvyšší, nejlepší, nejnovější, nejkratší</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -246,10 +246,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=F|Num=S|Cas=7|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nekonečnou, nedávnou, nenásilnou, nepřehlednou, neoddělitelnou</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, nižší, lepší</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nemenší</em></td></tr>
-  <tr><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, nižší, lepší</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>nemenší</em></td></tr>
+  <tr><td>A A Gen=F|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em>největší, nejlepší, nejvyšší, nejnižší, nejnovější</em></td></tr>
   <tr><td>A A Gen=F|Num=S|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=F|Num=S|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em>Nejnebezpečnější, nejneuvěřitelnější</em></td></tr>
@@ -270,10 +270,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=P|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em>celkový</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezbytné, nebezpečné, nezávadné, neuvěřitelné, nezávislé</em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižší, lepší, vyšší, menší, větší</em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnější, nepravdivější</em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižší, lepší, vyšší, menší, větší</em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnější, nepravdivější</em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejrůznější, největší, nejnižší, nejnovější, nejsnazší</em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -285,10 +285,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezávislých, necelých, nealkoholických, neznámých, neeukleidovských</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšších, větších, menších, pozdějších, starších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšších, větších, menších, pozdějších, starších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejrůznějších, největších, nejlepších, nejvýznamnějších, nejdůležitějších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -299,10 +299,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebytovým, nepříznivým, nepřátelským, nekrytým, nefilmovým</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšším, větším, lepším, levnějším, horším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšším, větším, lepším, levnějším, horším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejlepším, nejdůležitějším, nejvýznamnějším, nejčastějším, nejmenším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -311,10 +311,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em>malovaný, hodnověrný, tabákový</em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>necelé, nekvalitní, nemalé, neobvyklé, nelegální</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšší, menší, větší, lepší, výraznější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>vyšší, menší, větší, lepší, výraznější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>největší, nejlepší, nejvyšší, nejdůležitější, nejpodivnější</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nejnemožnější</em></td></tr>
@@ -323,10 +323,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -337,10 +337,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezávislých, necelých, neúspěšných, netypických, neživých</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>posledních, větších, menších, vyšších, složitějších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>posledních, větších, menších, vyšších, složitějších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejbližších, nejdůležitějších, nejvyšších, největších, nejrenomovanějších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -354,12 +354,12 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=P|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>neznámými, nekonečnými, nezajímavými, neopotřebovanými, nezdůvodnitelnými</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=7|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižšími, mírnějšími, slabšími, většími, výkonnějšími</em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnějšími</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižšími, mírnějšími, slabšími, většími, výkonnějšími</em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečnějšími</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejrůznějšími, nejlepšími, největšími, nejdůležitějšími, nejvýhodnějšími</em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=7|Gra=3|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
@@ -370,8 +370,8 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=P|Cas=X|Gra=1|Neg=A|Sem=G</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Pos|Gender=Masc|NameType=Geo|Negative=Pos|Number=Plur</td><td><em>Buenos</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=X|Gra=1|Neg=A|Sem=m</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Pos|Gender=Masc|NameType=Oth|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=X|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=X|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=P|Cas=X|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=X|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=P|Cas=X|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=P|Cas=X|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=P|Cas=X|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=1|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>velký, nový, český, další, mezinárodní</em></td></tr>
@@ -384,10 +384,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=S|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em>Růžovej</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neautorizovaný, nebezpečný, nepříjemný, nekonečný, nejistý</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em>nepřiměřený</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, nižší, lepší</em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejistější, nepřirozenější, nepřijatelnější, nebezpečnější</em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, menší, nižší, lepší</em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejistější, nepřirozenější, nepřijatelnější, nebezpečnější</em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>největší, nejvyšší, nejlepší, nejdůležitější, nejmenší</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejnebezpečnější</em></td></tr>
@@ -401,10 +401,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nelegálního, nezávislého, nedávného, nemovitého, nehmotného</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>většího, vyššího, širšího, nižšího, pozdějšího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nepříznivějšího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>většího, vyššího, širšího, nižšího, pozdějšího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nepříznivějšího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejvyššího, největšího, nejmenšího, nejlepšího, nejstaršího</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejnepatrnějšího</em></td></tr>
@@ -413,10 +413,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neústavnímu, nepříjemnému, nemovitému, nejistému, nevyhnutelnému</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nižšímu, většímu, rychlejšímu, širšímu, Obsáhlejšímu</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nižšímu, většímu, rychlejšímu, širšímu, Obsáhlejšímu</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>největšímu, Nejvyššímu, nejpříznivějšímu, nejsilnějšímu, nejúspornějšímu</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -428,10 +428,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=S|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em>statistickej</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nepatrný, nemovitý, nebezpečný, nepříznivý, nepřijatelný</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větší, lepší, vyšší, menší, nižší</em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větší, lepší, vyšší, menší, nižší</em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejlepší, největší, nejmenší, nejdůležitější, nejvyšší</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejnepochopitelnější</em></td></tr>
@@ -440,10 +440,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=S|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -458,10 +458,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=I|Num=S|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nedalekém, nezdařeném, necelém, nekorektním, nedávném</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=6|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>lepším, horším, větším, menším, nižším</em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>lepším, horším, větším, menším, nižším</em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>největším, nejvyšším, nejširším, nejnižším, nejkrajnějším</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -475,10 +475,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nepříjemným, netradičním, nekontrolovaným, neopakovatelným, nezbytným</em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=7|Gra=1|Neg=N|Var=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větším, menším, nižším, lepším, šťastnějším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>větším, menším, nižším, lepším, šťastnějším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>největším, nejlepším, nejvyšším, nejvýznamnějším, nejcitlivějším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=I|Num=S|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=I|Num=S|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -496,10 +496,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=M|Num=P|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>neznámí, nezávislí, nevinní, netrpěliví, nesmrtelní</em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starší, mladší, lepší, silnější, aktivnější</em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starší, mladší, lepší, silnější, aktivnější</em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejlepší, nejvyšší, největší, nejvýznamnější, nejúspěšnější</em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nejnevinnější</em></td></tr>
@@ -511,10 +511,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em>mužskejch, tenkejch</em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezávislých, nezaměstnaných, nespokojených, nepohodlných, neadaptovaných</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starších, vyšších, mladších, slabších, nižších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starších, vyšších, mladších, slabších, nižších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejlepších, největších, nejvyšších, nejbližších, nejvýznamnějších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -523,10 +523,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezletilým, Nepovolaným, nepříjemným, nelhostejným, nerozhodnutým</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>slabším, starším, chudším, dokonalejším, mladším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>slabším, starším, chudším, dokonalejším, mladším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>největším, nejlepším, nejvážnějším, Nejmladším, nejznámějším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -535,10 +535,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nezaměstnané, neznámé, nebezpečné, neschopné, nemajetné</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starší, nižší, chudší, menší, vyšší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>starší, nižší, chudší, menší, vyšší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejlepší, největší, nejrůznější, nejmenší, nejvyšší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -547,10 +547,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -559,10 +559,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>nebezpečných</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižších, starších</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nižších, starších</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejstarších</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -573,12 +573,12 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em>neznámými, nezávislými, neopatrnými, nespokojenými, nezaměstnanými</em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>slavnějšími, připravenějšími, staršími, nižšími, pokročilejšími</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>slavnějšími, připravenějšími, staršími, nižšími, pokročilejšími</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em>nejbližšími, nejlepšími, největšími, Nejčastějšími, nejmladšími</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=P|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=P|Cas=7|Gra=3|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
@@ -593,10 +593,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em>malej, Daňový, Zlatej, hodnej, abchazský</em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neznámý, nejmenovaný, nezávislý, nešťastný, nevinný</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladší, starší, lepší, větší, menší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladší, starší, lepší, větší, menší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejlepší, největší, nejvyšší, nejpopulárnější, nejrychlejší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nejneukázněnější</em></td></tr>
@@ -607,10 +607,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neznámého, nejmenovaného, nepřepadeného, neklidného, nezabitého</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladšího, staršího, významnějšího, většího, vyššího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladšího, staršího, významnějšího, většího, vyššího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejvyššího, nejlepšího, největšího, nejvyspělejšího, nejúspěšnějšího</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -621,10 +621,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neoprávněnému, Nemilému, nedávnému, neposlušnému, nezaujatému</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>slabšímu, staršímu</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>slabšímu, staršímu</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejstaršímu, nejschopnějšímu, nejpovolanějšímu, nejnadanějšímu, nejbližšímu</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -635,10 +635,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neznámého, nebezpečného, Nezávislého, nesprávného, nehodného</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>staršího, pozdějšího, vhodnějšího, náročnějšího, mladšího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nebezpečnějšího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>staršího, pozdějšího, vhodnějšího, náročnějšího, mladšího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nebezpečnějšího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejlepšího, největšího, nejtěžšího, nejbližšího, nejvyššího</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -647,10 +647,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em>Panskej</em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -663,10 +663,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>nešťastném, neznámém, nezjištěném, nepřesvědčivém</em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>lepším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>lepším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejvyšším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -677,10 +677,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em>neznámým, neomezeným, nepříjemným, nesmrtelným, nezávislým</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladším, lepším, poctivějším, menším, Horším</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>mladším, lepším, poctivějším, menším, Horším</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em>nejlepším, největším, nejvyšším, nejstarším, nejproduktivnějším</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=M|Num=S|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=M|Num=S|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -690,10 +690,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=D|Cas=7|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=D|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=D|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Dual</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=D|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Dual|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=D|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Neg|Number=Dual</td><td><em></em></td></tr>
@@ -702,10 +702,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>neobyčejná, nejasná, netestovatelná, nezbytná, nepřístupná</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>menší, lepší, vyšší, dražší, řidší</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>menší, lepší, vyšší, dražší, řidší</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejnovější, Nejsilnější, největší, nejlepší, nejčastější</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -714,10 +714,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>necelých, neprohraných, nebezpečných, nezachytitelných, neznámých</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>větších, menších, posledních, ožehavějších, vážnějších</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>větších, menších, posledních, ožehavějších, vážnějších</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejrůznějších, největších, nejvyšších, nejvýznamnějších, nejlevnějších</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -728,10 +728,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>nepopulárním, nevhodným, neziskovým, nekontrolovaným, nezbytným</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>dřívějším, slabším, vážnějším, přísnějším, radikálnějším</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>dřívějším, slabším, vážnějším, přísnějším, radikálnějším</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejznámějším, nejoblíbenějším, nejdůležitějším, nejzávažnějším, nejzajímavějším</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -740,10 +740,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>nezbytná, neodkladná, neznámá, nepříjemná, netradiční</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>vyšší, rozsáhlejší, menší, aktuálnější, pomalejší</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>vyšší, rozsáhlejší, menší, aktuálnější, pomalejší</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejlepší, největší, nejslibnější, nejúspěšnější, nejbližší</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -752,10 +752,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
@@ -764,10 +764,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=6|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>nestátních, necelých, nesporných, nevyužitých, nebezpečných</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>menších, větších, pozdějších, rozvážnějších, širších</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>menších, větších, pozdějších, rozvážnějších, širších</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejbližších, největších, nejlepších, nejcennějších, nejhlubších</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>nejneuvěřitelnějších</em></td></tr>
@@ -778,12 +778,12 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=P|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em>neujasněnými, neodůvodněnými, nepodloženými, nezávislými, nepravdivými</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=7|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>odrostlejšími, vyššími, kulatějšími</em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>odrostlejšími, vyššími, kulatějšími</em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=P|Cas=7|Gra=2|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em>nejpřísnějšími, nejprodávanějšími, největšími, Nejdůležitějšími</em></td></tr>
   <tr><td>A A Gen=N|Num=P|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=P|Cas=7|Gra=3|Neg=A|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur|Style=Coll</td><td><em></em></td></tr>
@@ -799,10 +799,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em>zakázaný, Kytkový, možný, výborný, outrpné</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=1|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nezbytné, nemožné, nebezpečné, nemyslitelné, nepříjemné</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em>neuvěřitelný</em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepší, výhodnější, horší, větší, nižší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nedětštější, nejasnější</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepší, výhodnější, horší, větší, nižší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nedětštější, nejasnější</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=1|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejlepší, nejdůležitější, největší, nejhorší, nejvyšší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=1|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=1|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -815,10 +815,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em>Vystřelenýho</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=2|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nedovoleného, neobvyklého, nedalekého, neuvěřitelného, nespáleného</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepšího, většího, širšího, staršího, dřívějšího</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepšího, většího, širšího, staršího, dřívějšího</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=2|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejbližšího, nejhoršího, nejstaršího, Nejvyššího, nejzápadnějšího</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=2|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=2|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nejnepříznivějšího</em></td></tr>
@@ -827,10 +827,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=3|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nezávislému, nečekanému, nenapravitelnému, nezvratnému, nepravděpodobnému</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepšímu, hlubšímu, rychlejšímu, odrostlejšímu, výraznějšímu</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>lepšímu, hlubšímu, rychlejšímu, odrostlejšímu, výraznějšímu</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=3|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejlepšímu, nejcennějšímu, největšímu, nejbližšímu, nejvyššímu</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=3|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=3|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -841,10 +841,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em>Kytkový, sporný</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=4|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nezbytné, nedávné, nekonečné, nebezpečné, nevhodné</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, lepší, širší, rychlejší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nelepší</em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>větší, vyšší, lepší, širší, rychlejší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nelepší</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=4|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejlepší, největší, nejvyšší, nejbližší, nejhorší</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=4|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=4|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nejnepatrnější</em></td></tr>
@@ -853,10 +853,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=1|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=5|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=5|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=5|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=5|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -870,10 +870,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=S|Cas=6|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>nedávném, nedalekém, neustálém, nesprávném, nevýdělečném</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=6|Gra=1|Neg=N|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>bližším, výraznějším, delším, větším, dřívějším</em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>bližším, výraznějším, delším, větším, dřívějším</em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=6|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejbližším, nejmenším, nejvyšším, nejlepším, nejmodernějším</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=6|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=6|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -886,10 +886,10 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=N|Num=S|Cas=7|Gra=1|Neg=A|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Case=Ins|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>o</em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em>neobvyklým, nezákonným, neznámým, nedávným, neoprávněným</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=7|Gra=1|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>větším, menším, vyšším, lepším, nižším</em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>větším, menším, vyšším, lepším, nižším</em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>A A Gen=N|Num=S|Cas=7|Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=3|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em>nejlepším, největším, nejvyšším, nejdůležitějším, nejstarším</em></td></tr>
   <tr><td>A A Gen=N|Num=S|Cas=7|Gra=3|Neg=A|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=N|Num=S|Cas=7|Gra=3|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
@@ -918,7 +918,7 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>A A Gen=X|Num=X|Cas=X|Gra=1|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A A Gen=X|Num=X|Cas=X|Gra=1|Neg=N|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
   <tr><td>A A Gen=X|Num=X|Cas=X|Gra=1|Neg=N|Var=9</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A A Gen=X|Num=X|Cas=X|Gra=2|Neg=A|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Degree=Comp|Negative=Pos</td><td><em>ml</em></td></tr>
+  <tr style="background:lightgray"><td>A A Gen=X|Num=X|Cas=X|Gra=2|Neg=A|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Degree=Cmp|Negative=Pos</td><td><em>ml</em></td></tr>
   <tr><td>A A Gen=X|Num=X|Cas=X|Gra=3|Neg=A|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Degree=Sup|Negative=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A C Gen=F|Num=S|Cas=4|Neg=A</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Negative=Pos|Number=Sing|Variant=Short</td><td><em>živu</em></td></tr>
   <tr><td>A C Gen=F|Num=S|Cas=4|Neg=N</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Negative=Neg|Number=Sing|Variant=Short</td><td><em></em></td></tr>
@@ -1855,386 +1855,386 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>A U Gen=X|Num=X|Cas=X|PGe=M|Var=8</td><td>=&gt;</td><td>ADJ</td><td>Abbr=Yes|Gender[psor]=Masc|Poss=Yes</td><td><em></em></td></tr>
   <tr><td>C 3 _</td><td>=&gt;</td><td>NUM</td><td>Abbr=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>C = _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit|NumType=Card</td><td><em>1, 2, 3, 4, 1992</em></td></tr>
-  <tr><td>C ? Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|PronType=Int,Rel</td><td><em>kolik</em></td></tr>
-  <tr style="background:lightgray"><td>C ? Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Int,Rel</td><td><em>kolika</em></td></tr>
-  <tr><td>C ? Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C ? Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|PronType=Int,Rel</td><td><em>kolik</em></td></tr>
-  <tr><td>C ? Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C ? Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C a Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|PronType=Dem,Ind</td><td><em>několik, mnoho, málo, tolik, nespočet</em></td></tr>
-  <tr style="background:lightgray"><td>C a Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, mála, tolika, nemnoha</em></td></tr>
-  <tr><td>C a Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Dem,Ind</td><td><em>málo</em></td></tr>
-  <tr style="background:lightgray"><td>C a Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|PronType=Dem,Ind</td><td><em>mnoha, několika, málo, tolika</em></td></tr>
-  <tr><td>C a Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|PronType=Dem,Ind</td><td><em>několik, mnoho, tolik, málo, nemálo</em></td></tr>
-  <tr style="background:lightgray"><td>C a Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumType=Card|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C a Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, málo</em></td></tr>
-  <tr style="background:lightgray"><td>C a Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, málo, tolika</em></td></tr>
-  <tr><td>C a Cas=X</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Dem,Ind</td><td><em>moc, móóc</em></td></tr>
-  <tr style="background:lightgray"><td>C a Cas=X|Var=8</td><td>=&gt;</td><td>NUM</td><td>Abbr=Yes|NumType=Card|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Gen|Number=Sing</td><td><em>obojí, dvojí</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Gen|Number=Sing</td><td><em>dvojí</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=4|Var=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Gen|Number=Sing|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Gen|Number=Sing</td><td><em>dvojí</em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em>obojí, trojí, dvojí</em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=I|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=M|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Gen|Number=Sing</td><td><em>obé, Oboje</em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Gen|Number=Sing</td><td><em>dvojího</em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Gen|Number=Sing</td><td><em>dvojí, obojí</em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Gen|Number=Sing</td><td><em>dvojím</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=N|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Sing</td><td><em>obojím, dvojím</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Gen|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C d Gen=X|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Gen|Number=Plur</td><td><em>obojí</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Gen|Number=Plur</td><td><em>obojí</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Gen|Number=Plur</td><td><em>dvoje, troje</em></td></tr>
-  <tr><td>C d Gen=X|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=5|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C d Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NumType=Gen|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Gen|Number=Plur</td><td><em>dvojími</em></td></tr>
-  <tr><td>C d Gen=X|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Gen|Number=Sing</td><td><em>dvojí, obojí, trojí</em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=X|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=Y|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=Y|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C d Gen=Y|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Masc|NumType=Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C d Gen=Y|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|NumType=Gen|Number=Sing</td><td><em>dvojím</em></td></tr>
-  <tr><td>C h Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Sets|NumValue=1|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedny</em></td></tr>
-  <tr><td>C h Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedny</em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C h Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedny</em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C h Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedni</em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C h Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C h Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Sets|NumValue=1|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedněch</em></td></tr>
-  <tr><td>C h Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedněm</em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedněch</em></td></tr>
-  <tr><td>C h Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedněmi</em></td></tr>
-  <tr style="background:lightgray"><td>C h Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|NumType=Sets|NumValue=1|Number=Plur</td><td><em>jedny</em></td></tr>
-  <tr><td>C j Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C j Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C j Num=S|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C j Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C j Num=S|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C j Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C j Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C j Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C j Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C j Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C j Num=S|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card,Gen|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C k Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C k Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C k Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C k Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C k Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C k Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|NumType=Ord|Number=Plur</td><td><em>tých</em></td></tr>
-  <tr style="background:lightgray"><td>C k Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C l Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Dual</td><td><em>oběma, dvěma, čtyřma</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=F|Num=D|Cas=7|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedna</em></td></tr>
-  <tr><td>C l Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedné</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedné</em></td></tr>
-  <tr><td>C l Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednu</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C l Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedné</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednou</em></td></tr>
-  <tr><td>C l Gen=H|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvě, obě</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=H|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvě, obě</em></td></tr>
-  <tr><td>C l Gen=H|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jeden</em></td></tr>
-  <tr><td>C l Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednoho</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedno</em></td></tr>
-  <tr><td>C l Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedno</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>tři, čtyři, pár, sto</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvou, obou, tří, čtyř, sto</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>třech</em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvěma, oběma, třem, čtyřem, pár</em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>set, stům</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Arch</td><td><em>stě</em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>tři, čtyři, Tri, sto</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvou, obou, třech, čtyřech, pár</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>stech</em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=6|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Arch</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dvěma, třemi, čtyřmi, oběma, sty</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=7|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Arch</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=7|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=X</td><td>=&gt;</td><td>NUM</td><td>NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>Three, Six</em></td></tr>
-  <tr><td>C l Gen=X|Num=P|Cas=X|Sem=K</td><td>=&gt;</td><td>NUM</td><td>NameType=Com|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>Four, Twenty, Seven</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=X|Sem=m</td><td>=&gt;</td><td>NUM</td><td>NameType=Oth|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C l Gen=X|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>tisíc, půl, čtvrt</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>půl</em></td></tr>
-  <tr><td>C l Gen=X|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>půl, čtvrt</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=X|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>půl, čtvrt</em></td></tr>
-  <tr><td>C l Gen=X|Num=S|Cas=X</td><td>=&gt;</td><td>NUM</td><td>NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>one</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=Y|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dva, oba</em></td></tr>
-  <tr><td>C l Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em>dva, oba</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=Y|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C l Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jeden</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=Y|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Masc|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C l Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Masc,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednoho</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Masc,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednomu</em></td></tr>
-  <tr><td>C l Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Masc,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jednom</em></td></tr>
-  <tr style="background:lightgray"><td>C l Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Masc,Neut|NumForm=Word|NumType=Card|NumValue=1,2,3|Number=Sing</td><td><em>jedním</em></td></tr>
-  <tr><td>C n Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|Number=Plur</td><td><em>pěti, šesti, deseti, sedmi, osmi</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumForm=Word|NumType=Card|Number=Plur</td><td><em>desíti</em></td></tr>
-  <tr><td>C n Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|Number=Plur</td><td><em>deseti, pěti, šesti, osmi, dvaceti</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=P|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumForm=Word|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C n Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|Number=Plur</td><td><em>pěti, šesti, osmi, deseti, dvaceti</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumForm=Word|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C n Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|Number=Plur</td><td><em>pěti, šesti, deseti, dvaceti, osmi</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=P|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumForm=Word|NumType=Card|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C n Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Word|NumType=Card|Number=Sing</td><td><em>pět, deset, šest, sedm, osm</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=S|Cas=1|Sem=K</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NameType=Com|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C n Num=S|Cas=1|Sem=m</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NameType=Oth|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C n Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumForm=Word|NumType=Card|Number=Sing</td><td><em>pět, deset, šest, osm, dvacet</em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C n Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C n Num=S|Cas=5|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|NumForm=Word|NumType=Card|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C n Num=S|Cas=X</td><td>=&gt;</td><td>NUM</td><td>NumForm=Word|NumType=Card|Number=Sing</td><td><em>polovic</em></td></tr>
+  <tr><td>C ? Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|NumType=Card|PronType=Int,Rel</td><td><em>kolik</em></td></tr>
+  <tr style="background:lightgray"><td>C ? Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Int,Rel</td><td><em>kolika</em></td></tr>
+  <tr><td>C ? Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C ? Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|NumType=Card|PronType=Int,Rel</td><td><em>kolik</em></td></tr>
+  <tr><td>C ? Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C ? Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C a Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|NumType=Card|PronType=Dem,Ind</td><td><em>několik, mnoho, málo, tolik, nespočet</em></td></tr>
+  <tr style="background:lightgray"><td>C a Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, mála, tolika, nemnoha</em></td></tr>
+  <tr><td>C a Cas=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Dem,Ind</td><td><em>málo</em></td></tr>
+  <tr style="background:lightgray"><td>C a Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Card|PronType=Dem,Ind</td><td><em>mnoha, několika, málo, tolika</em></td></tr>
+  <tr><td>C a Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|NumType=Card|PronType=Dem,Ind</td><td><em>několik, mnoho, tolik, málo, nemálo</em></td></tr>
+  <tr style="background:lightgray"><td>C a Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|NumType=Card|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C a Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, málo</em></td></tr>
+  <tr style="background:lightgray"><td>C a Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Dem,Ind</td><td><em>několika, mnoha, málo, tolika</em></td></tr>
+  <tr><td>C a Cas=X</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Dem,Ind</td><td><em>moc, móóc</em></td></tr>
+  <tr style="background:lightgray"><td>C a Cas=X|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|NumType=Card|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Gen</td><td><em>obojí, dvojí</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em>dvojí</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=4|Var=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Gen|Style=Arch</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Gen</td><td><em>dvojí</em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em>obojí, trojí, dvojí</em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=I|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=I|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=M|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=M|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Gen</td><td><em>obé, Oboje</em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Gen</td><td><em>dvojího</em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em>dvojí, obojí</em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em>dvojím</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=N|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Gen</td><td><em>obojím, dvojím</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=N|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Gen|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C d Gen=X|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Plur|NumType=Gen</td><td><em>obojí</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Gen</td><td><em>obojí</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Gen</td><td><em>dvoje, troje</em></td></tr>
+  <tr><td>C d Gen=X|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=5|Var=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur|NumType=Gen</td><td><em>dvojími</em></td></tr>
+  <tr><td>C d Gen=X|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Sing|NumType=Gen</td><td><em>dvojí, obojí, trojí</em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=X|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=Y|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=Y|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr><td>C d Gen=Y|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C d Gen=Y|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Sing|NumType=Gen</td><td><em>dvojím</em></td></tr>
+  <tr><td>C h Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedny</em></td></tr>
+  <tr><td>C h Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedny</em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>C h Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedny</em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>C h Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedni</em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>C h Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>C h Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedněch</em></td></tr>
+  <tr><td>C h Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedněm</em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedněch</em></td></tr>
+  <tr><td>C h Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedněmi</em></td></tr>
+  <tr style="background:lightgray"><td>C h Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumType=Sets|NumValue=1</td><td><em>jedny</em></td></tr>
+  <tr><td>C j Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C j Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr><td>C j Num=S|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C j Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr><td>C j Num=S|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C j Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr><td>C j Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C j Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr><td>C j Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C j Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr><td>C j Num=S|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumType=Card,Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C k Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C k Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C k Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C k Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C k Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C k Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Number=Plur|NumType=Ord</td><td><em>tých</em></td></tr>
+  <tr style="background:lightgray"><td>C k Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C l Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>oběma, dvěma, čtyřma</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=F|Num=D|Cas=7|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedna</em></td></tr>
+  <tr><td>C l Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedné</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedné</em></td></tr>
+  <tr><td>C l Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednu</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedné</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednou</em></td></tr>
+  <tr><td>C l Gen=H|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvě, obě</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=H|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvě, obě</em></td></tr>
+  <tr><td>C l Gen=H|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jeden</em></td></tr>
+  <tr><td>C l Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednoho</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedno</em></td></tr>
+  <tr><td>C l Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedno</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>tři, čtyři, pár, sto</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvou, obou, tří, čtyř, sto</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>třech</em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvěma, oběma, třem, čtyřem, pár</em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>set, stům</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Arch</td><td><em>stě</em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=3|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>tři, čtyři, Tri, sto</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvou, obou, třech, čtyřech, pár</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>stech</em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=6|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Arch</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dvěma, třemi, čtyřmi, oběma, sty</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=7|Var=2</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Arch</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=7|Var=9</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=X</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>Three, Six</em></td></tr>
+  <tr><td>C l Gen=X|Num=P|Cas=X|Sem=K</td><td>=&gt;</td><td>NUM</td><td>NameType=Com|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>Four, Twenty, Seven</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=P|Cas=X|Sem=m</td><td>=&gt;</td><td>NUM</td><td>NameType=Oth|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=X|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>tisíc, půl, čtvrt</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>půl</em></td></tr>
+  <tr><td>C l Gen=X|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>půl, čtvrt</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=X|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>půl, čtvrt</em></td></tr>
+  <tr><td>C l Gen=X|Num=S|Cas=X</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>one</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=Y|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dva, oba</em></td></tr>
+  <tr><td>C l Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>dva, oba</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=Y|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jeden</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=Y|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em></em></td></tr>
+  <tr><td>C l Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednoho</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednomu</em></td></tr>
+  <tr><td>C l Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jednom</em></td></tr>
+  <tr style="background:lightgray"><td>C l Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3</td><td><em>jedním</em></td></tr>
+  <tr><td>C n Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumForm=Word|NumType=Card</td><td><em>pěti, šesti, deseti, sedmi, osmi</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Number=Plur|NumForm=Word|NumType=Card</td><td><em>desíti</em></td></tr>
+  <tr><td>C n Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card</td><td><em>deseti, pěti, šesti, osmi, dvaceti</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=P|Cas=3|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Number=Plur|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card</td><td><em>pěti, šesti, osmi, deseti, dvaceti</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Number=Plur|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card</td><td><em>pěti, šesti, deseti, dvaceti, osmi</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=P|Cas=7|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Number=Plur|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumForm=Word|NumType=Card</td><td><em>pět, deset, šest, sedm, osm</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=S|Cas=1|Sem=K</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NameType=Com|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=S|Cas=1|Sem=m</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NameType=Oth|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumForm=Word|NumType=Card</td><td><em>pět, deset, šest, osm, dvacet</em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C n Num=S|Cas=5|Var=1</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>C n Num=S|Cas=X</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumForm=Word|NumType=Card</td><td><em>polovic</em></td></tr>
   <tr style="background:lightgray"><td>C n Num=X|Cas=X</td><td>=&gt;</td><td>NUM</td><td>NumForm=Word|NumType=Card</td><td><em>šebah</em></td></tr>
   <tr><td>C o Var=1</td><td>=&gt;</td><td>ADV</td><td>NumType=Mult|PronType=Dem,Ind</td><td><em>mnohokráte, několikráte</em></td></tr>
   <tr style="background:lightgray"><td>C o _</td><td>=&gt;</td><td>ADV</td><td>NumType=Mult|PronType=Dem,Ind</td><td><em>několikrát, mnohokrát, vícekrát, tolikrát, kolikrát</em></td></tr>
-  <tr><td>C r Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Dual</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Dual|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>první, Druhé, Čtvrté, šestnácté</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em>Devátý</em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>prvních, třetích, pětaosmdesátých, stojedenáctých</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>třetím, padesátým, prvním</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>první, druhé, třetí, patnácté, šesté</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>prvních, čtrnáctých</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Plur</td><td><em>prvními</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, třetí, druhá, pátá, čtvrtá</em></td></tr>
-  <tr><td>C r Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, druhé, třetí, čtvrté, šesté</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, druhé, třetí</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, třetí, čtvrtou, druhou, pátou</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, druhé, třetí, čtvrté, páté</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>první, třetí, druhou, pátou, čtvrtou</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>první, šesté</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvních, šestých</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvním</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>první, třinácté</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvních</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvními</em></td></tr>
-  <tr><td>C r Gen=I|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>první, třetí, pátý, čtvrtý, druhý</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvního, pátého, třetího, druhého, čtvrtého</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvnímu, třetímu, sedmapadesátému, pátému</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>první, třetí, pátý, čtvrtý, druhý</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em>druhý</em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvním, třetím, čtvrtém, pátém, druhém</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvním, třetím, Druhým, pátým, čtvrtým</em></td></tr>
-  <tr><td>C r Gen=I|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>první, čtvrtí, pátí, šestí</em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvních, druhých</em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvním</em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>první, druhé</em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur</td><td><em>prvními</em></td></tr>
-  <tr><td>C r Gen=M|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>první, třetí, čtvrtý, druhý, Devátý</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em>druhý</em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvního, druhého, šestého, patnáctého, třetího</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>šestému, čtvrtému, druhému, třetímu, Devátému</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvního, třetího, druhého, čtvrtého</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>prvním, třetím, druhým, čtrnáctým, Devátým</em></td></tr>
-  <tr><td>C r Gen=M|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Dual</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>první, Devadesátá, Šedesátá</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>osmdesátých, šedesátých, sedmdesátých, padesátých, prvních</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>prvním</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>první, devadesátá, osmdesátá, třicátá, čtyřicátá</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>padesátých, prvních, šedesátých, osmdesátých, sedmdesátých</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Plur</td><td><em>prvními, šedesátými</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>první, třetí, páté, dvacáté, druhé</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>prvního, dvacátého, třetího, devatenáctého, padesátého</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>prvnímu, třetímu, dvacátému, druhému, třicátému</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>první, třetí, druhé, čtvrté, páté</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>druhé</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>prvním, třetím, čtvrtém, druhém, šestém</em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>C r Gen=N|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>prvním, třetím, čtvrtým, druhým, dvacátým</em></td></tr>
-  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|NumType=Ord|Number=Sing|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>první, Druhé, Čtvrté, šestnácté</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em>Devátý</em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>prvních, třetích, pětaosmdesátých, stojedenáctých</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>třetím, padesátým, prvním</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>první, druhé, třetí, patnácté, šesté</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>prvních, čtrnáctých</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>prvními</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, třetí, druhá, pátá, čtvrtá</em></td></tr>
+  <tr><td>C r Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, druhé, třetí, čtvrté, šesté</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, druhé, třetí</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, třetí, čtvrtou, druhou, pátou</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, druhé, třetí, čtvrté, páté</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>první, třetí, druhou, pátou, čtvrtou</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>první, šesté</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvních, šestých</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvním</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>první, třinácté</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvních</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvními</em></td></tr>
+  <tr><td>C r Gen=I|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>první, třetí, pátý, čtvrtý, druhý</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvního, pátého, třetího, druhého, čtvrtého</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvnímu, třetímu, sedmapadesátému, pátému</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>první, třetí, pátý, čtvrtý, druhý</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em>druhý</em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvním, třetím, čtvrtém, pátém, druhém</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=I|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvním, třetím, Druhým, pátým, čtvrtým</em></td></tr>
+  <tr><td>C r Gen=I|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>první, čtvrtí, pátí, šestí</em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvních, druhých</em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvním</em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>první, druhé</em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord</td><td><em>prvními</em></td></tr>
+  <tr><td>C r Gen=M|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>první, třetí, čtvrtý, druhý, Devátý</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em>druhý</em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvního, druhého, šestého, patnáctého, třetího</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>šestému, čtvrtému, druhému, třetímu, Devátému</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvního, třetího, druhého, čtvrtého</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=M|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>prvním, třetím, druhým, čtrnáctým, Devátým</em></td></tr>
+  <tr><td>C r Gen=M|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=D|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>první, Devadesátá, Šedesátá</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>osmdesátých, šedesátých, sedmdesátých, padesátých, prvních</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>prvním</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>první, devadesátá, osmdesátá, třicátá, čtyřicátá</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>padesátých, prvních, šedesátých, osmdesátých, sedmdesátých</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Ord</td><td><em>prvními, šedesátými</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>první, třetí, páté, dvacáté, druhé</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>prvního, dvacátého, třetího, devatenáctého, padesátého</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>prvnímu, třetímu, dvacátému, druhému, třicátému</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>první, třetí, druhé, čtvrté, páté</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>druhé</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>prvním, třetím, čtvrtém, druhém, šestém</em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>C r Gen=N|Num=S|Cas=7</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>prvním, třetím, čtvrtým, druhým, dvacátým</em></td></tr>
+  <tr style="background:lightgray"><td>C r Gen=N|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Ord|Style=Coll</td><td><em></em></td></tr>
   <tr><td>C r Gen=X|Num=X|Cas=X</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>C r Gen=X|Num=X|Cas=X|Sem=K</td><td>=&gt;</td><td>ADJ</td><td>NameType=Com|NumType=Ord</td><td><em>nd, First, th</em></td></tr>
   <tr><td>C r Gen=X|Num=X|Cas=X|Sem=m</td><td>=&gt;</td><td>ADJ</td><td>NameType=Oth|NumType=Ord</td><td><em></em></td></tr>
@@ -2242,82 +2242,82 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>C v Var=1</td><td>=&gt;</td><td>ADV</td><td>NumType=Mult</td><td><em>dvakráte</em></td></tr>
   <tr style="background:lightgray"><td>C v Var=6</td><td>=&gt;</td><td>ADV</td><td>NumType=Mult|Style=Coll</td><td><em></em></td></tr>
   <tr><td>C v _</td><td>=&gt;</td><td>ADV</td><td>NumType=Mult</td><td><em>poprvé, dvakrát, jednou, třikrát, podruhé</em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Dual|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejedné</em></td></tr>
-  <tr><td>C w Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejedné, několikáté</em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejeden, několikátý</em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejednoho</em></td></tr>
-  <tr><td>C w Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejedno</em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Plur|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejeden</em></td></tr>
-  <tr><td>C w Gen=Y|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejednoho</em></td></tr>
-  <tr><td>C w Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em>nejednomu</em></td></tr>
-  <tr style="background:lightgray"><td>C w Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr><td>C w Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Dem,Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>třetiny, čtvrtiny, desetiny, pětiny</em></td></tr>
-  <tr><td>C y Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>desetin, setin, třetin, sedmdesátin</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>třetinám</em></td></tr>
-  <tr><td>C y Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>třetiny, čtvrtiny, desetiny, pětiny</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|NumType=Frac|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>C y Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>třetinách, čtvrtinách</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumType=Frac|Number=Plur</td><td><em>čtvrtinami</em></td></tr>
-  <tr><td>C y Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumType=Frac|Number=Plur|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|NumType=Frac|Number=Sing</td><td><em>třetina, čtvrtina, desetina, pětina, šestina</em></td></tr>
-  <tr><td>C y Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|NumType=Frac|Number=Sing</td><td><em>třetiny, čtvrtiny, desetiny, milióntiny, setiny</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|NumType=Frac|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C y Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|NumType=Frac|Number=Sing</td><td><em>třetinu, čtvrtinu, desetinu, pětinu, setinu</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|NumType=Frac|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>C y Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|NumType=Frac|Number=Sing</td><td><em>třetině, čtvrtině</em></td></tr>
-  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|NumType=Frac|Number=Sing</td><td><em>třetinou, pětinou, čtvrtinou, desetinou</em></td></tr>
-  <tr><td>C z Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Dual|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C z Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>C z Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|NumType=Ord|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejedné</em></td></tr>
+  <tr><td>C w Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejedné, několikáté</em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejeden, několikátý</em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejednoho</em></td></tr>
+  <tr><td>C w Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=N|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejedno</em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=N|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejeden</em></td></tr>
+  <tr><td>C w Gen=Y|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejednoho</em></td></tr>
+  <tr><td>C w Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em>nejednomu</em></td></tr>
+  <tr style="background:lightgray"><td>C w Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr><td>C w Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Dem,Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>třetiny, čtvrtiny, desetiny, pětiny</em></td></tr>
+  <tr><td>C y Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>desetin, setin, třetin, sedmdesátin</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>třetinám</em></td></tr>
+  <tr><td>C y Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>třetiny, čtvrtiny, desetiny, pětiny</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Frac</td><td><em></em></td></tr>
+  <tr><td>C y Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>třetinách, čtvrtinách</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Frac</td><td><em>čtvrtinami</em></td></tr>
+  <tr><td>C y Gen=F|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Frac|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Frac</td><td><em>třetina, čtvrtina, desetina, pětina, šestina</em></td></tr>
+  <tr><td>C y Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Frac</td><td><em>třetiny, čtvrtiny, desetiny, milióntiny, setiny</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Frac</td><td><em></em></td></tr>
+  <tr><td>C y Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Frac</td><td><em>třetinu, čtvrtinu, desetinu, pětinu, setinu</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Frac</td><td><em></em></td></tr>
+  <tr><td>C y Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Frac</td><td><em>třetině, čtvrtině</em></td></tr>
+  <tr style="background:lightgray"><td>C y Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Frac</td><td><em>třetinou, pětinou, čtvrtinou, desetinou</em></td></tr>
+  <tr><td>C z Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C z Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr><td>C z Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|NumType=Ord|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>C } Var=1</td><td>=&gt;</td><td>NUM</td><td>NumForm=Roman|NumType=Card</td><td><em></em></td></tr>
   <tr><td>C } Var=2</td><td>=&gt;</td><td>NUM</td><td>NumForm=Roman|NumType=Card|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>C } _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Roman|NumType=Card</td><td><em>II, I, III, V, IV</em></td></tr>
@@ -2343,18 +2343,18 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>D g Gra=1|Neg=N</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos|Negative=Neg</td><td><em>neustále, nepochybně, nesmírně, nedaleko, nečekaně</em></td></tr>
   <tr><td>D g Gra=1|Neg=N|Var=3</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos|Negative=Neg|Style=Arch</td><td><em>Nedosti</em></td></tr>
   <tr style="background:lightgray"><td>D g Gra=1|Neg=N|Var=8</td><td>=&gt;</td><td>ADV</td><td>Abbr=Yes|Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
-  <tr><td>D g Gra=2|Neg=A</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos</td><td><em>více, méně, později, dříve, lépe</em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Sem=K</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|NameType=Com|Negative=Pos</td><td><em>More</em></td></tr>
-  <tr><td>D g Gra=2|Neg=A|Sem=m</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|NameType=Oth|Negative=Pos</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Var=1</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos</td><td><em>spíše, víc, dále, výše, blíže</em></td></tr>
-  <tr><td>D g Gra=2|Neg=A|Var=2</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos|Style=Arch</td><td><em>dřív, snáz</em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Var=3</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>D g Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=N</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg</td><td><em>neméně, nejistěji, nepříznivěji</em></td></tr>
-  <tr><td>D g Gra=2|Neg=N|Var=1</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=N|Var=2</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>D g Gra=2|Neg=N|Var=3</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg|Style=Arch</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>D g Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>D g Gra=2|Neg=A</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos</td><td><em>více, méně, později, dříve, lépe</em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Sem=K</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|NameType=Com|Negative=Pos</td><td><em>More</em></td></tr>
+  <tr><td>D g Gra=2|Neg=A|Sem=m</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|NameType=Oth|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Var=1</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos</td><td><em>spíše, víc, dále, výše, blíže</em></td></tr>
+  <tr><td>D g Gra=2|Neg=A|Var=2</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos|Style=Arch</td><td><em>dřív, snáz</em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=A|Var=3</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos|Style=Arch</td><td><em></em></td></tr>
+  <tr><td>D g Gra=2|Neg=A|Var=6</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos|Style=Coll</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=N</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg</td><td><em>neméně, nejistěji, nepříznivěji</em></td></tr>
+  <tr><td>D g Gra=2|Neg=N|Var=1</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=N|Var=2</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg|Style=Arch</td><td><em></em></td></tr>
+  <tr><td>D g Gra=2|Neg=N|Var=3</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg|Style=Arch</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>D g Gra=2|Neg=N|Var=6</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg|Style=Coll</td><td><em></em></td></tr>
   <tr><td>D g Gra=3|Neg=A</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup|Negative=Pos</td><td><em>nejvíce, nejméně, nejdříve, nejlépe, nejčastěji</em></td></tr>
   <tr style="background:lightgray"><td>D g Gra=3|Neg=A|Var=1</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup|Negative=Pos</td><td><em>nejvýše, nejvíc, nejblíže, nejspíše, nejhůře</em></td></tr>
   <tr><td>D g Gra=3|Neg=A|Var=2</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup|Negative=Pos|Style=Arch</td><td><em>nejdřív</em></td></tr>
@@ -3593,99 +3593,99 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P 0 _</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P 1 Gen=F|Num=D|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=F|Num=D|Cas=7|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=F|Num=S|Cas=X|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=F|Num=S|Cas=X|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=F|Num=S|Cas=X|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=I|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=I|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=I|Num=S|Cas=4|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P 1 Gen=M|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=M|Num=S|Cas=4|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=N|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=N|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=N|Num=S|Cas=4|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=P|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=P|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=1|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=P|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíchž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=P|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=2|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=P|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejímž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=P|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=3|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=P|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=P|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=4|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P 1 Gen=X|Num=P|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=6|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejímiž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=X|Cas=X|PGe=X|PNu=P|Per=3</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejichž</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=X|Cas=X|PGe=X|PNu=P|Per=3</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=X|Cas=X|PGe=X|PNu=P|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=X|Num=X|Cas=X|PGe=Z|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jehož</em></td></tr>
+  <tr><td>P 1 Gen=X|Num=X|Cas=X|PGe=Z|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=X|Num=X|Cas=X|PGe=Z|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=Z|Num=S|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíž</em></td></tr>
+  <tr><td>P 1 Gen=Z|Num=S|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=Z|Num=S|Cas=1|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=Z|Num=S|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejíhož</em></td></tr>
+  <tr><td>P 1 Gen=Z|Num=S|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=Z|Num=S|Cas=2|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=Z|Num=S|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejímuž</em></td></tr>
+  <tr><td>P 1 Gen=Z|Num=S|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=Z|Num=S|Cas=3|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=Z|Num=S|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejímž</em></td></tr>
+  <tr><td>P 1 Gen=Z|Num=S|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=Z|Num=S|Cas=6|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr><td>P 1 Gen=Z|Num=S|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em>jejímž</em></td></tr>
+  <tr><td>P 1 Gen=Z|Num=S|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 1 Gen=Z|Num=S|Cas=7|PGe=F|PNu=S|Per=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr><td>P 4 Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr><td>P 4 Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>která, jaká, jakápak, čí</em></td></tr>
+  <tr><td>P 4 Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=1|Var=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>které</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>kterou, jakou</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em>kterou, jakou</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=F|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em>které, jaké, Jaképak</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em>který, jaký, čí</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em>kteří, jací</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em>kterého, jakého</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel</td><td><em>která, jaká</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em>které</em></td></tr>
-  <tr><td>P 4 Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel</td><td><em>která, jaká</em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em>které</em></td></tr>
-  <tr><td>P 4 Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>P 4 Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>P 4 Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em>které</em></td></tr>
+  <tr><td>P 4 Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=X|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Dual|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int,Rel</td><td><em>kterých, jakých, čích, ktorých</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=X|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Int,Rel</td><td><em>kterým, jakým</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=X|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Int,Rel</td><td><em>kterých, jakých</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=X|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Int,Rel</td><td><em>kterými, jakými</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=X|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=X|Num=P|Cas=7|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=X|Num=X|Cas=X</td><td>=&gt;</td><td>DET</td><td>PronType=Int,Rel</td><td><em>co, cui</em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em>které, jaké</em></td></tr>
+  <tr><td>P 4 Gen=X|Num=X|Cas=X</td><td>=&gt;</td><td>DET</td><td>PronType=Int,Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=Y|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=Y|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 4 Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em>který, jaký, čí</em></td></tr>
+  <tr style="background:lightgray"><td>P 4 Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P 4 Gen=Y|Num=S|Cas=1|Var=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=Y|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em>kterého, jakého</em></td></tr>
+  <tr><td>P 4 Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=Z|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em>kterému, jakému</em></td></tr>
+  <tr><td>P 4 Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=Z|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em>kterém, jakém</em></td></tr>
+  <tr><td>P 4 Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=Z|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 4 Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em>kterým, jakým</em></td></tr>
+  <tr><td>P 4 Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 4 Gen=Z|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 5 Gen=F|Num=S|Cas=2|Per=3</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs</td><td><em>ní</em></td></tr>
   <tr style="background:lightgray"><td>P 5 Gen=F|Num=S|Cas=3|Per=3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs</td><td><em>ní</em></td></tr>
@@ -3717,26 +3717,26 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P 7 Num=S|Cas=4|Per=2</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
   <tr><td>P 7 Num=X|Cas=3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>si</em></td></tr>
   <tr style="background:lightgray"><td>P 7 Num=X|Cas=4</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>se, sa</em></td></tr>
-  <tr><td>P 8 Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svýma</em></td></tr>
+  <tr><td>P 8 Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=F|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=F|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
-  <tr><td>P 8 Gen=F|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svá</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=F|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>P 8 Gen=F|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=F|Num=S|Cas=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
+  <tr><td>P 8 Gen=F|Num=S|Cas=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=3|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=3|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svoji</em></td></tr>
-  <tr><td>P 8 Gen=F|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svou</em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em>svojí</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>P 8 Gen=F|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=F|Num=S|Cas=5|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=F|Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
+  <tr><td>P 8 Gen=F|Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svojí</em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=7|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svou</em></td></tr>
+  <tr><td>P 8 Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=F|Num=S|Cas=7|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=H|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=H|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=H|Num=P|Cas=5|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
@@ -3748,43 +3748,43 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P 8 Gen=I|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=I|Num=P|Cas=5|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=I|Num=P|Cas=5|Var=7</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svůj</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svoji</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=M|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=M|Num=P|Cas=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=M|Num=P|Cas=5|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svého</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=N|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=N|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svá</em></td></tr>
+  <tr><td>P 8 Gen=N|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=N|Num=P|Cas=5|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=N|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svoje</em></td></tr>
-  <tr><td>P 8 Gen=N|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
+  <tr><td>P 8 Gen=N|Num=S|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>P 8 Gen=N|Num=S|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=N|Num=S|Cas=5|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svých</em></td></tr>
+  <tr><td>P 8 Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=X|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svým</em></td></tr>
+  <tr><td>P 8 Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=X|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svoje, sua</em></td></tr>
+  <tr><td>P 8 Gen=X|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=X|Num=P|Cas=4|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svých</em></td></tr>
+  <tr><td>P 8 Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=X|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svými</em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=Y|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>své</em></td></tr>
-  <tr><td>P 8 Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svůj</em></td></tr>
+  <tr><td>P 8 Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=Y|Num=P|Cas=4|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>P 8 Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=Y|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=Y|Num=S|Cas=5</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=Y|Num=S|Cas=5|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svého</em></td></tr>
+  <tr><td>P 8 Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=Z|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svému</em></td></tr>
+  <tr><td>P 8 Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=Z|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P 8 Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svém</em></td></tr>
+  <tr><td>P 8 Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 8 Gen=Z|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=Z|Num=S|Cas=6|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P 8 Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>svým</em></td></tr>
+  <tr style="background:lightgray"><td>P 8 Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>P 8 Gen=Z|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 9 Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel</td><td><em>níž</em></td></tr>
   <tr><td>P 9 Gen=F|Num=S|Cas=2|Var=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|PrepCase=Pre|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
@@ -3822,50 +3822,50 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P 9 Gen=Z|Num=S|Cas=6|Var=2</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P 9 Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel</td><td><em>nímž</em></td></tr>
   <tr><td>P 9 Gen=Z|Num=S|Cas=7|Var=2</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel|Style=Arch</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Dem</td><td><em>těma</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=D|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=D|Cas=7|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=D|Cas=7|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=D|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Dem</td><td><em>tyto, ty, takové, ony, Takovéto</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=P|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Dem</td><td><em>tyto, ty, takové, tytéž, ony</em></td></tr>
+  <tr><td>P D Gen=F|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>tato, ta, taková, ona, takováto</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=1|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Nom|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>této, té, takové, téže, oné</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=2|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=2|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Gen|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>této, té, takové, téhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=3|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=3|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Dat|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>tuto, tu, takovou, onu, tuhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=4|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>této, té, takové, téže, téhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=6|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=6|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Loc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Dem</td><td><em>touto, tou, takovou, onou, takovouto</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=7|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=F|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=F|Num=S|Cas=7|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em>tyto, ty, takové, ony, tyhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=P|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em>tyto, takové, ty, takovéto, ony</em></td></tr>
+  <tr><td>P D Gen=I|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
@@ -3875,7 +3875,7 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=2|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=3|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em>tento, ten, takový, týž, takovýto</em></td></tr>
+  <tr><td>P D Gen=I|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=4|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
@@ -3883,13 +3883,13 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=6|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=I|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=I|Num=S|Cas=7|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em>ti, tito, takoví, titíž, oni</em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em>tací</em></td></tr>
+  <tr><td>P D Gen=M|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=P|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em>ty, tyto, takové, takovéto, tytéž</em></td></tr>
+  <tr><td>P D Gen=M|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
@@ -3900,34 +3900,34 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P D Gen=M|Num=S|Cas=2|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=S|Cas=3|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em>toho, takového, tohoto, onoho, téhož</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=S|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=S|Cas=4|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=6|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=M|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=M|Num=S|Cas=7|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Dem</td><td><em>tato, ta, taková, takováto</em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Dem|Style=Coll</td><td><em>ty</em></td></tr>
+  <tr><td>P D Gen=N|Num=P|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=P|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Dem</td><td><em>tato, ta, taková, takováto</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=P|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em>to, toto, takové, totéž, tohle</em></td></tr>
+  <tr><td>P D Gen=N|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=1|Sem=m</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|NameType=Oth|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=1|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=1|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em>t</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=1|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=2|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=3|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Dem</td><td><em>to, toto, takové, totéž, ono</em></td></tr>
+  <tr><td>P D Gen=N|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=4|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=4|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=4|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
@@ -3936,26 +3936,26 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P D Gen=N|Num=S|Cas=6|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=N|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=N|Num=S|Cas=7|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em>těchto, těch, takových, oněch, takovýchto</em></td></tr>
-  <tr><td>P D Gen=X|Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em>týchž</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>P D Gen=X|Num=P|Cas=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=2|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=P|Cas=2|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P D Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem</td><td><em>těm, těmto, takovým, týmž, takovýmto</em></td></tr>
+  <tr><td>P D Gen=X|Num=P|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=3|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=P|Cas=3|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=3|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=P|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em>těchto, těch, takových, oněch, takovýchto</em></td></tr>
-  <tr><td>P D Gen=X|Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em>týchž</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>P D Gen=X|Num=P|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=6|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=P|Cas=6|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P D Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem</td><td><em>těmito, těmi, takovými, oněmi, týmiž</em></td></tr>
+  <tr><td>P D Gen=X|Num=P|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=7|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=P|Cas=7|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P D Gen=X|Num=P|Cas=X</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><em>These</em></td></tr>
+  <tr><td>P D Gen=X|Num=P|Cas=X</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=P|Cas=X|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
@@ -3963,26 +3963,26 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P D Gen=X|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=X|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=X|Num=S|Cas=X</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><em>That, This</em></td></tr>
+  <tr><td>P D Gen=X|Num=S|Cas=X</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=X|Num=S|Cas=X|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=X|Num=X|Cas=X</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td><em>C, ce</em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=X|Num=X|Cas=X|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|PronType=Dem</td><td><em>t</em></td></tr>
-  <tr><td>P D Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem</td><td><em>tento, ten, takový, onen, takovýto</em></td></tr>
+  <tr><td>P D Gen=X|Num=X|Cas=X</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=X|Num=X|Cas=X|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>P D Gen=Y|Num=S|Cas=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Y|Num=S|Cas=1|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=Y|Num=S|Cas=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Y|Num=S|Cas=4</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>P D Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em>toho, tohoto, takového, téhož, onoho</em></td></tr>
+  <tr><td>P D Gen=Z|Num=S|Cas=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=2|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=Z|Num=S|Cas=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em>tomu, tomuto, takovému, onomu, tomuhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=Z|Num=S|Cas=3|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P D Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em>tom, tomto, takovém, témže, onom</em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em>témž</em></td></tr>
+  <tr><td>P D Gen=Z|Num=S|Cas=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=6|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=Z|Num=S|Cas=6|Var=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Arch</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=6|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P D Gen=Z|Num=S|Cas=6|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em>tím, tímto, takovým, oním, tímhle</em></td></tr>
+  <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=7</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>P D Gen=Z|Num=S|Cas=7|Var=5</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P D Gen=Z|Num=S|Cas=7|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P E Cas=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|PronType=Rel</td><td><em>což</em></td></tr>
@@ -4245,89 +4245,89 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P Q Cas=7|Var=9</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|Case=Ins|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>P Q Cas=X</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|PronType=Int,Rel</td><td><em>WAS, q</em></td></tr>
   <tr style="background:lightgray"><td>P Q Cas=X|Var=9</td><td>=&gt;</td><td>PRON</td><td>Animacy=Inan|PronType=Int,Rel</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=D|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejíma</em></td></tr>
+  <tr><td>P S Gen=F|Num=D|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=D|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=D|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=D|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=D|Cas=7|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=D|Cas=7|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=D|Cas=7|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=P|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=P|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=P|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=P|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>má</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvá</em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naší</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaší</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvé</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=2|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naší</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaší</em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mojí</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=3|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naši</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em>naší</em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaši</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=P|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moji</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mou</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvou</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=4|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=5|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>Má</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=5|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=5|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naší</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaší</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=6|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naší</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaší</em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mojí</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mou</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=7|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=X|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=X|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=F|Num=S|Cas=X|PNu=P|Per=1|Sem=m</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|NameType=Oth|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>Notre</em></td></tr>
+  <tr><td>P S Gen=F|Num=S|Cas=X|PNu=P|Per=1|Sem=m</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|NameType=Oth|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=F|Num=S|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=F|Num=S|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naše</em></td></tr>
-  <tr><td>P S Gen=H|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=H|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=H|Num=P|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=5|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=H|Num=P|Cas=5|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=H|Num=P|Cas=5|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=H|Num=P|Cas=5|PNu=S|Per=2|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naše</em></td></tr>
-  <tr><td>P S Gen=H|Num=S|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=H|Num=S|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=H|Num=S|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=5|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=H|Num=S|Cas=5|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>Vaše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=5|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
+  <tr><td>P S Gen=H|Num=S|Cas=5|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=H|Num=S|Cas=5|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=H|Num=S|Cas=5|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naše</em></td></tr>
-  <tr><td>P S Gen=I|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
-  <tr><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=I|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
@@ -4341,20 +4341,20 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=I|Num=P|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=P|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=I|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>náš</em></td></tr>
-  <tr><td>P S Gen=I|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>váš</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>můj</em></td></tr>
+  <tr><td>P S Gen=I|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=I|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=I|Num=S|Cas=4|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=4|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=I|Num=S|Cas=4|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=I|Num=S|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>My</em></td></tr>
+  <tr><td>P S Gen=I|Num=S|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=I|Num=S|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=M|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naši</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaši</em></td></tr>
-  <tr><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moji</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>Mí</em></td></tr>
+  <tr><td>P S Gen=M|Num=P|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=M|Num=P|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
@@ -4368,9 +4368,9 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P S Gen=M|Num=P|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=M|Num=P|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=M|Num=P|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=M|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejího</em></td></tr>
-  <tr><td>P S Gen=M|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našeho</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=M|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašeho</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=M|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=M|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=M|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=M|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=M|Num=S|Cas=4|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=M|Num=S|Cas=4|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
@@ -4380,123 +4380,123 @@ Tagset <tt>cs::conll</tt>, total 5150 tags.
   <tr><td>P S Gen=M|Num=S|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=P|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>má</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=P|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=5|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=P|Cas=5|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=P|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=P|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=N|Num=S|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr><td>P S Gen=N|Num=S|Cas=1|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=1|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=N|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naše</em></td></tr>
-  <tr><td>P S Gen=N|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
-  <tr><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
+  <tr><td>P S Gen=N|Num=S|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=N|Num=S|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=S|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=5|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=N|Num=S|Cas=5|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=N|Num=S|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>My</em></td></tr>
+  <tr><td>P S Gen=N|Num=S|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=N|Num=S|Cas=X|PNu=X|Per=1</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejích</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našich</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašich</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=2|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mých</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=2|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=2|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=2|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejím</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našim</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašim</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mým</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=3|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=3|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=3|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naše</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaše</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>moje</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=4|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=4|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=4|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=4|PNu=S|Per=2|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=5|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejích</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našich</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašich</em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=6|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mých</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=6|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=P|Cas=6|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=6|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejími</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=7|PGe=F|PNu=S|Per=3|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našimi</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašimi</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=7|PNu=P|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mými</em></td></tr>
+  <tr><td>P S Gen=X|Num=P|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=P|Cas=7|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=X|Cas=X|PGe=N|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PGe=X|PNu=P|Per=3</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejich</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PGe=X|PNu=P|Per=3</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=X|Cas=X|PGe=Y|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PGe=Z|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jeho</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PGe=Z|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=X|Cas=X|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=X|Num=X|Cas=X|PNu=X|Per=2</td><td>=&gt;</td><td>DET</td><td>Person=2|Poss=Yes|PronType=Prs</td><td><em>Your</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PNu=X|Per=2|Sem=R</td><td>=&gt;</td><td>DET</td><td>NameType=Pro|Person=2|Poss=Yes|PronType=Prs</td><td><em>Your</em></td></tr>
+  <tr><td>P S Gen=X|Num=X|Cas=X|PNu=X|Per=2</td><td>=&gt;</td><td>DET</td><td>Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=X|Num=X|Cas=X|PNu=X|Per=2|Sem=R</td><td>=&gt;</td><td>DET</td><td>NameType=Pro|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=X|Num=X|Cas=X|PNu=X|Per=2|Sem=m</td><td>=&gt;</td><td>DET</td><td>NameType=Oth|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Y|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mé</em></td></tr>
-  <tr><td>P S Gen=Y|Num=P|Cas=4|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em>mý</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Y|Num=P|Cas=4|PNu=S|Per=1|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Y|Num=P|Cas=4|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=P|Cas=4|PNu=S|Per=2|Var=1</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>náš</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>váš</em></td></tr>
-  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>můj</em></td></tr>
+  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=1|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvůj</em></td></tr>
+  <tr><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=1|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Y|Num=S|Cas=5|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>náš</em></td></tr>
+  <tr><td>P S Gen=Y|Num=S|Cas=5|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=5|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Y|Num=S|Cas=5|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>můj</em></td></tr>
+  <tr><td>P S Gen=Y|Num=S|Cas=5|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=5|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=Y|Num=S|Cas=5|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Y|Num=S|Cas=5|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>její</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejího</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našeho</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašeho</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mého</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em>mýho</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvého</em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=1|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=2|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejímu</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našemu</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>Vašemu</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mému</em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=3|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=3|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=3|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=3|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=3|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=3|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=3|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=5|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejím</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>našem</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vašem</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mém</em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=6|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=1|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvém</em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=6|PNu=S|Per=2|Var=7</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em>jejím</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>naším</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em>našim</em></td></tr>
-  <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>n</em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>vaším</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PGe=F|PNu=S|Per=3</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
+  <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=1|Var=8</td><td>=&gt;</td><td>DET</td><td>Abbr=Yes|Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=P|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mým</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=1</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=1|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>tvým</em></td></tr>
+  <tr style="background:lightgray"><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=2</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>P S Gen=Z|Num=S|Cas=7|PNu=S|Per=2|Var=6</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs|Style=Coll</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>P W Cas=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Negative=Neg|PronType=Neg</td><td><em>nic, nihil</em></td></tr>
   <tr><td>P W Cas=2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Negative=Neg|PronType=Neg</td><td><em>ničeho</em></td></tr>

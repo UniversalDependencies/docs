@@ -85,505 +85,505 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr style="background:lightgray"><td>k2eAgFnPc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnPc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgFnSc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgFnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgFnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgFnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInPc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgInPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgInPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgInSc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgInSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgInSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgInSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnPc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgMnSc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgMnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgMnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgMnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnPc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc1d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc1d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc1d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc2d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc2d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc2d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc3d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc3d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc3d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc4d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc4d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc4d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc5d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc5d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc5d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc6d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc6d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc6d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc7d1hF</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Fem|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eAgNnSc7d1hM</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Masc|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc7d1hR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Gender[psor]=Com|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eAgNnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eAgNnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eAgNnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Pos|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgFnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgFnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgFnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgFnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgFnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgFnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgFnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Fem|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgInPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgInPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgInPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgInPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgInPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgInPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgInPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgInSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgInSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgInSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgInSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgInSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgInSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgInSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgInSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgInSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgInSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgInSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgInSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgMnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgMnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgMnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgMnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgMnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Comp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgMnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Cmp|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgMnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Degree=Sup|Gender=Masc|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnPc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnPc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnPc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnPc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnPc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnPc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnPc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnPc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr><td>k2eNgNnPc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Neg|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc1d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnSc1d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc1d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc2d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnSc2d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc2d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc3d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnSc3d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc3d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc4d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnSc4d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc4d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc5d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnSc5d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc5d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc6d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k2eNgNnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k2eNgNnSc6d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k2eNgNnSc6d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc7d1</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>k2eNgNnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Comp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>k2eNgNnSc7d2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Cmp|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k2eNgNnSc7d3</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Sup|Gender=Neut|Negative=Neg|Number=Sing</td><td><em></em></td></tr>
   <tr><td>k3c2xPyF</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k3c3xPyF</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
@@ -1456,66 +1456,66 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k3p3gNnSc7xP</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c1</td><td>=&gt;</td><td>NUM</td><td>Case=Nom</td><td><em></em></td></tr>
   <tr><td>k4c1xC</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c1xD</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c1yI</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c1yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c1yR</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c1xD</td><td>=&gt;</td><td>DET</td><td>Case=Nom|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c1yI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c1yQ</td><td>=&gt;</td><td>DET</td><td>Case=Nom|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c1yR</td><td>=&gt;</td><td>DET</td><td>Case=Nom|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c2</td><td>=&gt;</td><td>NUM</td><td>Case=Gen</td><td><em></em></td></tr>
   <tr><td>k4c2xC</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c2xD</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c2yI</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c2yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c2yR</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c2xD</td><td>=&gt;</td><td>DET</td><td>Case=Gen|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c2yI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c2yQ</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c2yR</td><td>=&gt;</td><td>DET</td><td>Case=Gen|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c3</td><td>=&gt;</td><td>NUM</td><td>Case=Dat</td><td><em></em></td></tr>
   <tr><td>k4c3xC</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c3xD</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c3yI</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c3yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c3yR</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c3xD</td><td>=&gt;</td><td>DET</td><td>Case=Dat|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c3yI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c3yQ</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c3yR</td><td>=&gt;</td><td>DET</td><td>Case=Dat|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c4</td><td>=&gt;</td><td>NUM</td><td>Case=Acc</td><td><em></em></td></tr>
   <tr><td>k4c4xC</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c4xD</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c4yI</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c4yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c4yR</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c4xD</td><td>=&gt;</td><td>DET</td><td>Case=Acc|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c4yI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c4yQ</td><td>=&gt;</td><td>DET</td><td>Case=Acc|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c4yR</td><td>=&gt;</td><td>DET</td><td>Case=Acc|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc</td><td><em></em></td></tr>
   <tr><td>k4c6xC</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c6xD</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c6yI</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c6yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c6yR</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c6xD</td><td>=&gt;</td><td>DET</td><td>Case=Loc|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c6yI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c6yQ</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c6yR</td><td>=&gt;</td><td>DET</td><td>Case=Loc|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4c7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins</td><td><em></em></td></tr>
   <tr><td>k4c7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c7xD</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>k4c7yI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4c7yQ</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|PronType=Int</td><td><em></em></td></tr>
-  <tr><td>k4c7yR</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|PronType=Rel</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c7xD</td><td>=&gt;</td><td>DET</td><td>Case=Ins|NumType=Card|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>k4c7yI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4c7yQ</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Int</td><td><em></em></td></tr>
+  <tr><td>k4c7yR</td><td>=&gt;</td><td>DET</td><td>Case=Ins|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnDc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnDc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnDc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnDc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnDc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnDc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnDc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc1xC</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnPc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnPc1xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc1xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnPc1xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc1xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnPc1xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc2xC</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnPc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnPc2xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc2xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnPc2xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc2xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnPc2xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc3xC</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnPc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnPc3xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc3xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnPc3xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc3xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnPc3xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc4xC</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnPc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnPc4xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc4xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnPc4xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc4xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
@@ -1526,37 +1526,37 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k4gFnPc5xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc5xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc6xC</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnPc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnPc6xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc6xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc6xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc6xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc6xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnPc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnPc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnPc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnPc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc1xC</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnSc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnSc1xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc1xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc1xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc1xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc1xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc2xC</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnSc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnSc2xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc2xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc2xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc2xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc2xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc3xC</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnSc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnSc3xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc3xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc3xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc3xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc3xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc4xC</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gFnSc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gFnSc4xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc4xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc4xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gFnSc4xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
@@ -1567,38 +1567,38 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr style="background:lightgray"><td>k4gFnSc5xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnSc5xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc6xC</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnSc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnSc6xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc6xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnSc6xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc6xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnSc6xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gFnSc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gFnSc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gFnSc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gFnSc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gFnSc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInDc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Dual|NumType=Card</td><td><em></em></td></tr>
   <tr><td>k4gInPc1xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInPc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInPc1xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc1xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc1xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc1xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc1xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc2xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInPc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInPc2xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc2xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc2xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc2xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc2xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc3xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInPc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInPc3xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc3xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc3xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc3xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc3xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc4xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInPc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInPc4xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc4xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc4xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInPc4xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
@@ -1609,37 +1609,37 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr style="background:lightgray"><td>k4gInPc5xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInPc5xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc6xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInPc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInPc6xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc6xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInPc6xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc6xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInPc6xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInPc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInPc7xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc7xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInPc7xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInPc7xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInPc7xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc1xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInSc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInSc1xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc1xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInSc1xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc1xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInSc1xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc2xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInSc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInSc2xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc2xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInSc2xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc2xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInSc2xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc3xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInSc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInSc3xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc3xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInSc3xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc3xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gInSc3xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc4xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gInSc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gInSc4xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc4xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gInSc4xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc4xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
@@ -1650,38 +1650,38 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k4gInSc5xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc5xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc6xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInSc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInSc6xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc6xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc6xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc6xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc6xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gInSc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gInSc7xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc7xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc7xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gInSc7xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gInSc7xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnDc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Dual|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc1xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnPc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnPc1xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc1xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnPc1xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc1xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnPc1xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc2xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnPc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnPc2xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc2xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnPc2xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc2xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnPc2xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc3xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnPc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnPc3xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc3xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnPc3xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc3xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnPc3xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc4xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnPc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnPc4xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc4xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnPc4xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc4xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
@@ -1692,37 +1692,37 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k4gMnPc5xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc5xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc6xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnPc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnPc6xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc6xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc6xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc6xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc6xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnPc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnPc7xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc7xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc7xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnPc7xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnPc7xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc1xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnSc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnSc1xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc1xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc1xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc1xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc1xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc2xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnSc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnSc2xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc2xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc2xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc2xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc2xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc3xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnSc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnSc3xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc3xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc3xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc3xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc3xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc4xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gMnSc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gMnSc4xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc4xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc4xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gMnSc4xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
@@ -1733,43 +1733,43 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr style="background:lightgray"><td>k4gMnSc5xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnSc5xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc6xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnSc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnSc6xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc6xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnSc6xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc6xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnSc6xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc7xC</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gMnSc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gMnSc7xCyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc7xO</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gMnSc7xOyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gMnSc7xR</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gMnSc7xRyI</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnDc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnDc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnDc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnDc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnDc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnDc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnDc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Dual|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc1xC</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnPc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnPc1xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc1xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnPc1xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc1xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnPc1xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc2xC</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnPc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnPc2xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc2xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnPc2xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc2xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnPc2xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc3xC</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnPc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnPc3xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc3xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnPc3xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc3xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnPc3xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc4xC</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnPc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnPc4xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc4xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnPc4xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc4xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
@@ -1780,37 +1780,37 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k4gNnPc5xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc5xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc6xC</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnPc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnPc6xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc6xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc6xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc6xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc6xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnPc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnPc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnPc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnPc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Plur|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc1xC</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnSc1xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnSc1xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc1xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc1xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc1xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc1xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc2xC</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnSc2xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnSc2xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc2xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc2xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc2xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc2xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc3xC</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnSc3xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnSc3xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc3xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc3xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc3xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc3xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc4xC</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4gNnSc4xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4gNnSc4xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc4xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc4xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4gNnSc4xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
@@ -1821,18 +1821,18 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr style="background:lightgray"><td>k4gNnSc5xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnSc5xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Voc|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc6xC</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnSc6xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnSc6xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc6xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnSc6xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc6xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnSc6xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc7xC</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>k4gNnSc7xCyI</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>k4gNnSc7xCyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc7xO</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>k4gNnSc7xOyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k4gNnSc7xR</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Gen</td><td><em></em></td></tr>
   <tr><td>k4gNnSc7xRyI</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k4xCyI</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k4xCyI</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>k4xO</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k5eAaBmAgFnP</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
   <tr><td>k5eAaBmAgFnS</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
@@ -2132,15 +2132,15 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k6eAd1yN</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos|Negative=Pos|PronType=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k6eAd1yQ</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos|Negative=Pos|PronType=Int</td><td><em></em></td></tr>
   <tr><td>k6eAd1yR</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos|Negative=Pos|PronType=Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eAd2</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr><td>k6eAd2tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eAd2tLtM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc,Man|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr><td>k6eAd2tLtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Loc|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eAd2tM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr><td>k6eAd2tMtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Man|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eAd2tMtT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man,Tim|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr><td>k6eAd2tQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eAd2tT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Degree=Comp|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eAd2</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr><td>k6eAd2tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eAd2tLtM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc,Man|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr><td>k6eAd2tLtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Loc|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eAd2tM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr><td>k6eAd2tMtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Man|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eAd2tMtT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man,Tim|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr><td>k6eAd2tQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eAd2tT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Degree=Cmp|Negative=Pos</td><td><em></em></td></tr>
   <tr><td>k6eAd3</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup|Negative=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k6eAd3tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Sup|Negative=Pos</td><td><em></em></td></tr>
   <tr><td>k6eAd3tLtM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc,Man|Degree=Sup|Negative=Pos</td><td><em></em></td></tr>
@@ -2162,13 +2162,13 @@ Tagset <tt>cs::ajka</tt>, total 2176 tags.
   <tr><td>k6eNd1tQtS</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Sta|Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k6eNd1tS</td><td>=&gt;</td><td>ADV</td><td>AdvType=Sta|Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
   <tr><td>k6eNd1tT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Degree=Pos|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eNd2</td><td>=&gt;</td><td>ADV</td><td>Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr><td>k6eNd2tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eNd2tLtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Loc|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr><td>k6eNd2tM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eNd2tMtT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man,Tim|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr><td>k6eNd2tQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>k6eNd2tT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Degree=Comp|Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eNd2</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr><td>k6eNd2tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eNd2tLtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Loc|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr><td>k6eNd2tM</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eNd2tMtT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man,Tim|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr><td>k6eNd2tQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>k6eNd2tT</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Degree=Cmp|Negative=Neg</td><td><em></em></td></tr>
   <tr><td>k6eNd3</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup|Negative=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>k6eNd3tL</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Degree=Sup|Negative=Neg</td><td><em></em></td></tr>
   <tr><td>k6eNd3tLtQ</td><td>=&gt;</td><td>ADV</td><td>AdvType=Deg,Loc|Degree=Sup|Negative=Neg</td><td><em></em></td></tr>

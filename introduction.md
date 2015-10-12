@@ -87,7 +87,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 ### Language-specific annotation, conversion and documentation
 
 * <a href="index.html#language-am">Amharic</a>: Binyam Ephrem
-* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug
+* <a href="index.html#language-grc">Ancient Greek</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
 * <a href="index.html#language-ar">Arabic</a>: Nizar Habash, Dan Zeman
 * <a href="index.html#language-hy">Armenian</a>: Dag Haug
 * <a href="index.html#language-eu">Basque</a>:  Koldo Gojenola, Aitziber Atutxa, Maria Jesus Aranzabe, Iakes Goenaga
@@ -98,6 +98,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-hr">Croatian</a>: Željko Agić, Nikola Ljubešić
 * <a href="index.html#language-cs">Czech</a>: Dan Zeman, Jan Hajič
 * <a href="index.html#language-da">Danish</a>: Barbara Plank, Héctor Martínez Alonso, Anders Trærup Johannsen
+* <a href="index.html#language-nl">Dutch</a>: Dan Zeman
 * <a href="index.html#language-en">English</a>: Marie-Catherine de Marneffe, Natalia Silveira, Timothy Dozat, Christopher Manning
 * <a href="index.html#language-et">Estonian</a>: Jan Štěpánek, Dan Zeman
 * <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
@@ -113,13 +114,16 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-ja">Japanese</a>: Yusuke Miyao, Shinsuke Mori, Takaaki Tanaka, Hiroshi Kanayama, Masayuki Asahara, Sumire Uematsu
 * <a href="index.html#language-kk">Kazakh</a>: Aibek Makazhanov, Francis Tyers, Jonathan Washington
 * <a href="index.html#language-ko">Korean</a>: Jinho Choi
-* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug
+* <a href="index.html#language-la">Latin</a>: Giuseppe G. A. Celano, Dag Haug, Dan Zeman
 * <a href="index.html#language-no">Norwegian</a>: Lilja Øvrelid
 * <a href="index.html#language-fa">Persian</a>: Mojgan Seraji, Filip Ginter, Joakim Nivre
+* <a href="index.html#language-pl">Polish</a>: Dan Zeman
+* <a href="index.html#language-pt">Portuguese</a>: Dan Zeman
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
 * <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual, Héctor Martínez Alonso, Dan Zeman
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
+* <a href="index.html#language-pt">Tamil</a>: Loganathan Ramasamy, Dan Zeman
 * <a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington
 
 ## References

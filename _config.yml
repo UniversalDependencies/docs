@@ -455,6 +455,62 @@ collections:
   et-overview:
     output: true
 #
+# Portuguese
+#
+  pt-pos:
+    output: true
+    permalink: /pt/pos/:path.html
+  pt-feat:
+    output: true
+    permalink: /pt/feat/:path.html
+  pt-dep:
+    output: true
+    permalink: /pt/dep/:path.html
+  pt-overview:
+    output: true
+#
+# Dutch
+#
+  nl-pos:
+    output: true
+    permalink: /nl/pos/:path.html
+  nl-feat:
+    output: true
+    permalink: /nl/feat/:path.html
+  nl-dep:
+    output: true
+    permalink: /nl/dep/:path.html
+  nl-overview:
+    output: true
+#
+# Tamil
+#
+  ta-pos:
+    output: true
+    permalink: /ta/pos/:path.html
+  ta-feat:
+    output: true
+    permalink: /ta/feat/:path.html
+  ta-dep:
+    output: true
+    permalink: /ta/dep/:path.html
+  ta-overview:
+    output: true
+#
+# Polish
+#
+  pl-pos:
+    output: true
+    permalink: /pl/pos/:path.html
+  pl-feat:
+    output: true
+    permalink: /pl/feat/:path.html
+  pl-dep:
+    output: true
+    permalink: /pl/dep/:path.html
+  pl-overview:
+    output: true
+#
 # Template
 #
   template-pos:

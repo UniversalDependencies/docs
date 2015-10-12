@@ -28,7 +28,7 @@ Tagset <tt>de::stts</tt>, total 54 tags.
   <tr><td>APZR</td><td>=&gt;</td><td>ADP</td><td>AdpType=Circ</td><td><em>an, hinaus, aus, her, heraus</em></td></tr>
   <tr style="background:lightgray"><td>ART</td><td>=&gt;</td><td>DET</td><td>PronType=Art</td><td><em>der, die, den, des, das</em></td></tr>
   <tr><td>CARD</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>000, zwei, drei, vier, fünf</em></td></tr>
-  <tr style="background:lightgray"><td>FM</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>New, of, de, Times, the</em></td></tr>
+  <tr style="background:lightgray"><td>FM</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>New, of, de, Times, the</em></td></tr>
   <tr><td>ITJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>naja, Ach, äh, Na, piep</em></td></tr>
   <tr style="background:lightgray"><td>KOKOM</td><td>=&gt;</td><td>CONJ</td><td>ConjType=Comp</td><td><em>als, wie, denn, wir</em></td></tr>
   <tr><td>KON</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>und, oder, sondern, sowie, aber</em></td></tr>

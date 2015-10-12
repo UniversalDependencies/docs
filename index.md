@@ -28,6 +28,7 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
   <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
   <li class="ui-state-default"><a href="#language-da">Danish</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-nl">Dutch</a></li>
   <li class="ui-state-default"><a href="#language-en">English</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-et">Estonian</a></li>
   <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
@@ -44,10 +45,13 @@ title:  'Universal Dependencies'
   <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-la">Latin</a></li>
   <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-pl">Polish</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-pt">Portuguese</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
   <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
   <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
   <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
+  <li class="ui-state-default"><a style="color:gray" href="#language-ta">Tamil</a></li>
   <li class="ui-state-default"><a href="#language-other">...</a></li>
 </ul>
 
@@ -691,6 +695,86 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
   * [General principles](et/overview/syntax.html)
   * [Specific constructions](et/overview/specific-syntax.html)
   * [Estonian dependency relations](et/dep/index.html) ([single document](et/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Portuguese" tab -->
+<div id="language-pt" markdown="1" class="ui-tabs-hide">
+{% include pt-status-table.html %}
+
+[Introduction](pt/overview/introduction.html)
+
+* [Tokenization](pt/overview/tokenization.html)
+* Morphology
+  * [General principles](pt/overview/morphology.html)
+  * [Portuguese POS tags](pt/pos/index.html) ([single document](pt/pos/all.html))
+  * [Portuguese features](pt/feat/index.html) ([single document](pt/feat/all.html))
+* Syntax
+  * [General principles](pt/overview/syntax.html)
+  * [Specific constructions](pt/overview/specific-syntax.html)
+  * [Portuguese dependency relations](pt/dep/index.html) ([single document](pt/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Dutch" tab -->
+<div id="language-nl" markdown="1" class="ui-tabs-hide">
+{% include nl-status-table.html %}
+
+[Introduction](nl/overview/introduction.html)
+
+* [Tokenization](nl/overview/tokenization.html)
+* Morphology
+  * [General principles](nl/overview/morphology.html)
+  * [Dutch POS tags](nl/pos/index.html) ([single document](nl/pos/all.html))
+  * [Dutch features](nl/feat/index.html) ([single document](nl/feat/all.html))
+* Syntax
+  * [General principles](nl/overview/syntax.html)
+  * [Specific constructions](nl/overview/specific-syntax.html)
+  * [Dutch dependency relations](nl/dep/index.html) ([single document](nl/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Tamil" tab -->
+<div id="language-ta" markdown="1" class="ui-tabs-hide">
+{% include ta-status-table.html %}
+
+[Introduction](ta/overview/introduction.html)
+
+* [Tokenization](ta/overview/tokenization.html)
+* Morphology
+  * [General principles](ta/overview/morphology.html)
+  * [Tamil POS tags](ta/pos/index.html) ([single document](ta/pos/all.html))
+  * [Tamil features](ta/feat/index.html) ([single document](ta/feat/all.html))
+* Syntax
+  * [General principles](ta/overview/syntax.html)
+  * [Specific constructions](ta/overview/specific-syntax.html)
+  * [Tamil dependency relations](ta/dep/index.html) ([single document](ta/dep/all.html))
+
+[CoNLL-U format](format.html)
+
+</div>
+
+<!-- "Polish" tab -->
+<div id="language-pl" markdown="1" class="ui-tabs-hide">
+{% include pl-status-table.html %}
+
+[Introduction](pl/overview/introduction.html)
+
+* [Tokenization](pl/overview/tokenization.html)
+* Morphology
+  * [General principles](pl/overview/morphology.html)
+  * [Polish POS tags](pl/pos/index.html) ([single document](pl/pos/all.html))
+  * [Polish features](pl/feat/index.html) ([single document](pl/feat/all.html))
+* Syntax
+  * [General principles](pl/overview/syntax.html)
+  * [Specific constructions](pl/overview/specific-syntax.html)
+  * [Polish dependency relations](pl/dep/index.html) ([single document](pl/dep/all.html))
 
 [CoNLL-U format](format.html)
 
