@@ -38,7 +38,7 @@ def get_token_count_span(corpus_data):
 
 def get_column_icons(corpus_data):
     r="""<span class="widespan">"""
-    if corpus_data.get("words_with_lemma_count",0)>0:
+    if corpus_data.get("words_with_lemma_count",0)>int(corpus_data.get("word_count")*0.9):
         r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas">&#9409;</span></span>"""
     else:
         r+="""<span class="tagspan"></span>"""
