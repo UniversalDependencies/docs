@@ -35,6 +35,14 @@
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
+
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
@@ -55,6 +63,7 @@
     head.ready(function() {
         // set up UI tabs on page
         setupTabs();
+        setupAccordions();
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = '{{ page.collection }}';
