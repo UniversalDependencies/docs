@@ -1,5 +1,5 @@
 {"Finnish":"FI",
-"Swedish":"SE-FI",
+"Swedish":"SE",
 "Finnish-FTB":"FI",
 "Czech":"CZ",
 "Amharic":"ET",
@@ -34,5 +34,6 @@
 "Spanish":"ES",
 "Tamil":"IN",
 "Kazakh":"KZ",
-"Turkish":"TR"
+"Turkish":"TR",
+"Polish":"PL"
 }
