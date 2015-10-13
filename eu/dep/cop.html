@@ -42,15 +42,28 @@
 
 <p>More precisely, izan <em>to be</em> egon <em>to be</em> ukan <em>to have</em> geratu <em>to stay keep</em> ibili <em>to be</em></p>
 
-<p>1	Bi	bi	NUM	_	_	2	det	_	_
-2	zati	zati	NOUN	_	_	7	nsubj	_	_
-3	hauek	hauek	DET	_	Case=Abs|Definite=Def|Number=Plur	2	det	_	_
-4	markaturik	markatu	VERB	_	Case=Par|Definite=Ind|VerbForm=Part	6	acl	_	_
-5	dauden	egon	SCONJ	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Person[abs]=3	4	cop	_	_
-6	tokietatik	toki	NOUN	_	Animacy=Inan|Case=Abl|Definite=Def|Number=Plur	7	nmod	_	_
-7	tolesten	tolestu	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	_
-8	dira	izan	AUX	_	Mood=Ind|Number[abs]=Plur|Person[abs]=3	7	aux	_	_
-9	.	.	PUNCT	_	_	7	punct	_	_</p>
+<ul>
+  <li>
+    <p>English:
+These two parts fold by the places that are marked .</p>
+  </li>
+  <li>
+    <p>Basque:
+Bi zati hauek markaturik dauden tokietatik tolesten dira .
+Two parts these marked are-that places  aux-intrans-present .</p>
+  </li>
+</ul>
+
+<pre><code class="language-sdparse">Bi zati hauek markaturik dauden tokietatik tolesten dira .
+
+det(zati-2, Bi-1)
+nsubj(tolesten-7, zati-2)
+det(zati-2, hauek-3)
+acl(tokietatik-6, markaturik-4)
+cop(markaturik-4, dauden-5)
+nmod(tolesten-7, tokietatik-6)
+aux(dira-8, tolesten-7)
+</code></pre>
 
 
 <!-- "in other languages" links -->
