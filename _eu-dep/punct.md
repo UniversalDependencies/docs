@@ -7,7 +7,7 @@ punct relation is used to annotate tpunctuation marks.
 
 Two kinds of punctuations can be distinguished:
 
-* Puntuation acting as a conjunction
+* Puntuation acting as a conjunction in coordinations
 * The rest of the punctuation marks
 
 1. Punctuation in coordination
