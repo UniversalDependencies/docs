@@ -10,8 +10,9 @@ Example:
 Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.
 
 Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.
-zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transitive-preesent 
-expert most-for.
+
+*Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transitive-preesent 
+expert most-for.*
 
 ~~~ sdparse
 Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
