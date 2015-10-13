@@ -14,7 +14,7 @@ zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust
 expert most-for.
 
 ~~~ sdparse
-punct(Zidanre, ,)
+punct(Zidane, ,)
 conj(Zidane, Henry)
 punct(Zidane, ,)
 conj(Zidane, Barthez)
