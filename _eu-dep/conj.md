@@ -4,6 +4,8 @@ title: 'conj'
 shortdef: 'conjunct'
 ---
 
+conj relation is used to annotate the different conjuncts in a coordination structure.
+
 Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct:
 * English:
 
