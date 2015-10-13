@@ -33,3 +33,4 @@ det(aditu, gehienentzat)
 punct(osatzen, .)
 ~~~
 
+
