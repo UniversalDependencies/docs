@@ -39,15 +39,18 @@ def get_token_count_span(corpus_data):
 def get_column_icons(corpus_data):
     r="""<span class="widespan">"""
     if corpus_data.get("words_with_lemma_count",0)>int(corpus_data.get("word_count")*0.9):
-        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas">&#9409;</span></span>"""
+        #r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas">&#9409;</span></span>"""
+        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span>"""
     else:
         r+="""<span class="tagspan"></span>"""
     if corpus_data.get("catvals",0)>0:
-        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Features">&#9403;</span></span>"""
+        #r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Features">&#9403;</span></span>"""
+        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span>"""
     else:
         r+="""<span class="tagspan"></span>"""
     if corpus_data.get("words_with_deps_count",0)>0:
-        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies">&#9401;</span></span>"""
+        #r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies">&#9401;</span></span>"""
+        r+="""<span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies"><img class="propertylogo" src="logos/D.svg" /></span></span>"""
     else:
         r+="""<span class="tagspan"></span>"""
     r+="""</span>"""

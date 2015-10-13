@@ -483,9 +483,18 @@ h4, h5, h6 {
     padding-left: 2em;
 }
 
+.propertylogo {
+    vertical-align: middle;
+    height: 1em;
+    margin: 0 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+
 .flag {
     vertical-align: middle;
-    border: solid black 0.5px;
+    border: solid grey 1px;
     height: 1em;
     margin: 0 1em;
 }
