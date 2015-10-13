@@ -4,12 +4,16 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>list</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/hint.css"/>
     <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+
+
   </head>
   <body>
     <div id="main" class="center">
@@ -122,6 +126,14 @@ list in other languages:
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
+
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
@@ -142,6 +154,7 @@ list in other languages:
     head.ready(function() {
         // set up UI tabs on page
         setupTabs();
+        setupAccordions();
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = 'he-dep';

@@ -4,12 +4,16 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>Dependencies</title>
-    <link rel="root" href="../../"/> <!-- for JS -->
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/style-vis.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/hint.css"/>
     <script type="text/javascript" src="../../lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+
+
   </head>
   <body>
     <div id="main" class="center">
@@ -572,6 +576,35 @@ for <code>parataxis</code>.</p>
 <p><a id="al-eu-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
+<p>punct relation is used to annotate tpunctuation marks.</p>
+
+<p>Two kinds of punctuations can be distinguished:</p>
+
+<ul>
+  <li>Puntuation acting as a conjunction in coordinations</li>
+  <li>The rest of the punctuation marks</li>
+</ul>
+
+<ol>
+  <li>Punctuation in coordination</li>
+</ol>
+
+<p>Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct::</p>
+
+<p>Example:</p>
+
+<ul>
+  <li>English:</li>
+</ul>
+
+<p>Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.</p>
+
+<ul>
+  <li>Basque:</li>
+</ul>
+
+<p>Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.</p>
+
 <p><em>Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
 expert most-for.</em></p>
 
@@ -597,6 +630,10 @@ nmod(osatzen-15, aditu-17)
 det(aditu-17, gehienentzat-18)
 punct(osatzen-15, .-19)
 ~~~ .</p>
+
+<ol>
+  <li>The rest of the punctuations</li>
+</ol>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_eu-dep/punct.md" target="#">edit punct</a></p>
 
@@ -682,6 +719,14 @@ for <code>xcomp</code>.</p>
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
+
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
@@ -702,6 +747,7 @@ for <code>xcomp</code>.</p>
     head.ready(function() {
         // set up UI tabs on page
         setupTabs();
+        setupAccordions();
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = 'eu-overview';

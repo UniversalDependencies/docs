@@ -5,11 +5,15 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>Universal Dependencies</title>
     <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/jquery-ui-redmond.css"/>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="css/style-vis.css"/>
+    <link rel="stylesheet" type="text/css" href="css/hint.css"/>
     <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
+
+
   </head>
   <body>
     <div id="main" class="center">
@@ -34,90 +38,31 @@
 
           <h1 id="universal-dependencies">Universal Dependencies</h1>
 
-<!--
-     The following <div> is the top-level element for the index page
-     tabs. To add a new tab (e.g. for Swedish), first add a link to
-     the <ul> (e.g. <li><a href="#language-sv">Swedish</a></li>), and
-     then add a <div> with the tab content below, with the same ID as
-     the link (e.g. <div id="language-sv" markdown="1">[...]</div>").
- -->
-<div class="jquery-ui-tabs ui-tabs ui-widget ui-widget-content ui-corner-all" style="min-width:1000px">
+<p><a href="introduction.html">Introduction to Universal Dependencies</a></p>
 
-<!-- links to per-language sections, shown as tab labels -->
-<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-  <li class="ui-state-default"><a href="#language-u">Universal</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-am">Amharic</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-grc">Ancient Greek</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ar">Arabic</a></li>
-  <li class="ui-state-default"><a href="#language-eu">Basque</a></li>
-  <li class="ui-state-default"><a href="#language-bg">Bulgarian</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ca">Catalan</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-zh">Chinese</a></li>
-  <li class="ui-state-default"><a href="#language-hr">Croatian</a></li>
-  <li class="ui-state-default"><a href="#language-cs">Czech</a></li>
-  <li class="ui-state-default"><a href="#language-da">Danish</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-nl">Dutch</a></li>
-  <li class="ui-state-default"><a href="#language-en">English</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-et">Estonian</a></li>
-  <li class="ui-state-default"><a href="#language-fi">Finnish</a></li>
-  <li class="ui-state-default"><a href="#language-fr">French</a></li>
-  <li class="ui-state-default"><a href="#language-de">German</a></li>
-  <li class="ui-state-default"><a href="#language-el">Greek</a></li>
-  <li class="ui-state-default"><a href="#language-he">Hebrew</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-hi">Hindi</a></li>
-  <li class="ui-state-default"><a href="#language-hu">Hungarian</a></li>
-  <li class="ui-state-default"><a href="#language-id">Indonesian</a></li>
-  <li class="ui-state-default"><a href="#language-ga">Irish</a></li>
-  <li class="ui-state-default"><a href="#language-it">Italian</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ja">Japanese</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ko">Korean</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-la">Latin</a></li>
-  <li class="ui-state-default"><a href="#language-fa">Persian</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-pl">Polish</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-pt">Portuguese</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ro">Romanian</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-sl">Slovenian</a></li>
-  <li class="ui-state-default"><a href="#language-es">Spanish</a></li>
-  <li class="ui-state-default"><a href="#language-sv">Swedish</a></li>
-  <li class="ui-state-default"><a style="color:gray" href="#language-ta">Tamil</a></li>
-  <li class="ui-state-default"><a href="#language-other">...</a></li>
+<ul>
+  <li><a href="u/overview/tokenization.html">Tokenization</a></li>
+  <li>Morphology
+    <ul>
+      <li><a href="u/overview/morphology.html">General principles</a></li>
+      <li><a href="u/pos/index.html">Universal POS tags</a> (<a href="u/pos/all.html">single document</a>)</li>
+      <li><a href="u/feat/index.html">Universal features</a> (<a href="u/feat/all.html">single document</a>)</li>
+      <li><a href="ext-feat-index.html">Language-specific features</a></li>
+      <li><a href="tagset-conversion/index.html">Conversion from other tagsets</a></li>
+    </ul>
+  </li>
+  <li>Syntax
+    <ul>
+      <li><a href="u/overview/syntax.html">General principles</a></li>
+      <li><a href="u/overview/specific-syntax.html">Specific constructions</a></li>
+      <li><a href="u/dep/index.html">Universal dependency relations</a> (<a href="u/dep/all.html">single document</a>)</li>
+      <li><a href="ext-dep-index.html">Language-specific relations</a></li>
+    </ul>
+  </li>
+  <li><a href="format.html">CoNLL-U format</a></li>
 </ul>
 
-<!-- "Universal" tab -->
-<div id="language-u" class="ui-tabs-panel">
-    <p><a href="introduction.html">Introduction to Universal Dependencies</a> <span style="background-color:yellow">New to UD? Start here!</span></p>
-
-    <ul>
-      <li><a href="u/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="u/overview/morphology.html">General principles</a></li>
-          <li><a href="u/pos/index.html">Universal POS tags</a> (<a href="u/pos/all.html">single document</a>)</li>
-          <li><a href="u/feat/index.html">Universal features</a> (<a href="u/feat/all.html">single document</a>)</li>
-          <li><a href="ext-feat-index.html">Language-specific features</a></li>
-          <li><a href="tagset-conversion/index.html">Conversion from other tagsets</a></li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="u/overview/syntax.html">General principles</a></li>
-          <li><a href="u/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="u/dep/index.html">Universal dependency relations</a> (<a href="u/dep/all.html">single document</a>)</li>
-          <li><a href="ext-dep-index.html">Language-specific relations</a></li>
-        </ul>
-      </li>
-      <li>
-        <p><a href="format.html">CoNLL-U format</a></p>
-      </li>
-      <li><strong>Download</strong> the treebanks from the LINDAT/CLARIN repository
-        <ul>
-          <li>Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015. <span style="background-color:yellow">Note: English data in the release were corrected on May 26, 2015. If you have downloaded the data before this date, please re-download.</span></li>
-          <li>Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><small>
+<p><small>
 This is the online documentation for Universal
 Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
 stable for at least the next year, but we may subsequently make
@@ -126,158 +71,83 @@ languages. If you plan to use the scheme yourself, please get in touch
 so that we can avoid problems with conflicting versions.
 </small></p>
 
-    <p><small>
-The next release (v1.2) is scheduled for November 15, 2015. The plan is to
-have regular treebank releases every six months.
-</small></p>
+<h1 id="ud-treebanks">UD Treebanks</h1>
 
-    <p><small>
-If you want to receive news about Universal Dependencies, you can subscribe to
-the <a href="http://stp.lingfil.uu.se/mailman/listinfo/ud">UD mailing list</a>.
-See also the <a href="issues.html">list of open issues</a> for the <a href="uppsala.html">Uppsala meeting</a>.</small></p>
-  </div>
-
-<!-- "Amharic" tab -->
-<div id="language-am" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="am/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="am/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="am/overview/morphology.html">General principles</a></li>
-          <li><a href="am/pos/index.html">Amharic POS tags</a> (<a href="am/pos/all.html">single document</a>)</li>
-          <li><a href="am/feat/index.html">Amharic features</a> (<a href="am/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="am/overview/syntax.html">General principles</a></li>
-          <li><a href="am/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="am/dep/index.html">Amharic dependency relations</a> (<a href="am/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Ancient Greek" tab -->
-<div id="language-grc" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">309K&nbsp;tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="grc/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+<div id="accordion" class="jquery-ui-accordion">
+<!-- content of _includes/at_glance.html -->
+<!-- do NOT edit by hand, that file is autogenerated using gen_index/index_page.py -->
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/GR.svg" /></span>
+<span class="widespan">Ancient Greek</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="309,082 tokens 309,082 words 21,173 sentences">309K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 2.5"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="grc/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
           <li><a href="grc/overview/morphology.html">General principles</a></li>
-          <li><a href="grc/pos/index.html">Ancient Greek POS tags</a> (<a href="grc/pos/all.html">single document</a>)</li>
-          <li><a href="grc/feat/index.html">Ancient Greek features</a> (<a href="grc/feat/all.html">single document</a>)</li>
+          <li><a href="grc/pos/index.html">Ancient_Greek POS tags</a> (<a href="grc/pos/all.html">single document</a>)</li>
+          <li><a href="grc/feat/index.html">Ancient_Greek features</a> (<a href="grc/feat/all.html">single document</a>)</li>
         </ul>
       </li>
       <li>Syntax
         <ul>
           <li><a href="grc/overview/syntax.html">General principles</a></li>
           <li><a href="grc/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="grc/dep/index.html">Ancient Greek dependency relations</a> (<a href="grc/dep/all.html">single document</a>)</li>
+          <li><a href="grc/dep/index.html">Ancient_Greek relations</a> (<a href="grc/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/SA-AL.svg" /></span>
+<span class="widespan">Arabic</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="282,384 tokens 282,384 words 7,664 sentences">282K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="ar/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="ar/overview/morphology.html">General principles</a></li>
+          <li><a href="ar/pos/index.html">Arabic POS tags</a> (<a href="ar/pos/all.html">single document</a>)</li>
+          <li><a href="ar/feat/index.html">Arabic features</a> (<a href="ar/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="ar/overview/syntax.html">General principles</a></li>
+          <li><a href="ar/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="ar/dep/index.html">Arabic relations</a> (<a href="ar/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "Basque" tab -->
-<div id="language-eu" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">60K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="eu/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/ES-PV.svg" /></span>
+<span class="widespan">Basque</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="60,563 tokens 60,563 words 5,273 sentences">60K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="eu/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -290,48 +160,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="eu/overview/syntax.html">General principles</a></li>
           <li><a href="eu/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="eu/dep/index.html">Basque dependency relations</a> (<a href="eu/dep/all.html">single document</a>)</li>
+          <li><a href="eu/dep/index.html">Basque relations</a> (<a href="eu/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Bulgarian" tab -->
-<div id="language-bg" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">125K tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="bg/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/BG.svg" /></span>
+<span class="widespan">Bulgarian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="125,592 tokens 125,592 words 9,405 sentences">125K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="bg/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -344,48 +190,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="bg/overview/syntax.html">General principles</a></li>
           <li><a href="bg/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="bg/dep/index.html">Bulgarian dependency relations</a> (<a href="bg/dep/all.html">single document</a>)</li>
+          <li><a href="bg/dep/index.html">Bulgarian relations</a> (<a href="bg/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Catalan" tab -->
-<div id="language-ca" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ca/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/ES-CT.svg" /></span>
+<span class="widespan">Catalan</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ca/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -398,98 +220,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ca/overview/syntax.html">General principles</a></li>
           <li><a href="ca/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ca/dep/index.html">Catalan dependency relations</a> (<a href="ca/dep/all.html">single document</a>)</li>
+          <li><a href="ca/dep/index.html">Catalan relations</a> (<a href="ca/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Chinese" tab -->
-<div id="language-zh" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="zh/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="zh/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="zh/overview/morphology.html">General principles</a></li>
-          <li><a href="zh/pos/index.html">Chinese POS tags</a> (<a href="zh/pos/all.html">single document</a>)</li>
-          <li><a href="zh/feat/index.html">Chinese features</a> (<a href="zh/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="zh/overview/syntax.html">General principles</a></li>
-          <li><a href="zh/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="zh/dep/index.html">Chinese dependency relations</a> (<a href="zh/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Croatian" tab -->
-<div id="language-hr" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">78K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="hr/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/HR.svg" /></span>
+<span class="widespan">Croatian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="87,765 tokens 87,765 words 3,957 sentences">87K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="hr/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -502,48 +250,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="hr/overview/syntax.html">General principles</a></li>
           <li><a href="hr/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="hr/dep/index.html">Croatian dependency relations</a> (<a href="hr/dep/all.html">single document</a>)</li>
+          <li><a href="hr/dep/index.html">Croatian relations</a> (<a href="hr/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Czech" tab -->
-<div id="language-cs" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">1.5M words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="cs/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/CZ.svg" /></span>
+<span class="widespan">Czech</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="1,503,738 tokens 1,506,490 words 87,913 sentences">1,503K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="cs/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -556,48 +280,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="cs/overview/syntax.html">General principles</a></li>
           <li><a href="cs/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="cs/dep/index.html">Czech dependency relations</a> (<a href="cs/dep/all.html">single document</a>)</li>
+          <li><a href="cs/dep/index.html">Czech relations</a> (<a href="cs/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a> and Czech <a href="cs/overview/format.html">MISC extensions</a></p>
-
-  </div>
-
-<!-- "Danish" tab -->
-<div id="language-da" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">100k words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="da/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/DK.svg" /></span>
+<span class="widespan">Danish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="100,733 tokens 100,733 words 5,512 sentences">100K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="GNU GPL Version 2"><img class="license" src="logos/gpl.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="da/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -610,48 +310,54 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="da/overview/syntax.html">General principles</a></li>
           <li><a href="da/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="da/dep/index.html">Danish dependency relations</a> (<a href="da/dep/all.html">single document</a>)</li>
+          <li><a href="da/dep/index.html">Danish relations</a> (<a href="da/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/NL.svg" /></span>
+<span class="widespan">Dutch</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="200,654 tokens 200,654 words 13,735 sentences">200K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="GPL"><img class="license" src="logos/gpl.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="nl/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="nl/overview/morphology.html">General principles</a></li>
+          <li><a href="nl/pos/index.html">Dutch POS tags</a> (<a href="nl/pos/all.html">single document</a>)</li>
+          <li><a href="nl/feat/index.html">Dutch features</a> (<a href="nl/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="nl/overview/syntax.html">General principles</a></li>
+          <li><a href="nl/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="nl/dep/index.html">Dutch relations</a> (<a href="nl/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "English" tab -->
-<div id="language-en" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">255K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="en/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/GB.svg" /></span>
+<span class="widespan">English</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="254,830 tokens 254,830 words 16,622 sentences">254K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="en/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -669,47 +375,49 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/EE.svg" /></span>
+<span class="widespan">Estonian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="9,491 tokens 9,491 words 1,315 sentences">9K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="et/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="et/overview/morphology.html">General principles</a></li>
+          <li><a href="et/pos/index.html">Estonian POS tags</a> (<a href="et/pos/all.html">single document</a>)</li>
+          <li><a href="et/feat/index.html">Estonian features</a> (<a href="et/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="et/overview/syntax.html">General principles</a></li>
+          <li><a href="et/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="et/dep/index.html">Estonian relations</a> (<a href="et/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "Finnish" tab -->
-<div id="language-fi" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">202K words</td>
-    </tr>
-    <tr>
-      <td>Data (FTB):</td>
-      <td class="complete">162K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="fi/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/FI.svg" /></span>
+<span class="widespan">Finnish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="181,022 tokens 181,022 words 13,581 sentences">181K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Secondary dependencies"><img class="propertylogo" src="logos/D.svg" /></span></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion with manual corrections"><i class="fa fa-cogs"></i><!--<i class="fa fa-plus" style="font-size: 0.75em; line-height: 1.33em; vertical-align: +10%;">--><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="fi/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -727,43 +435,49 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/FI.svg" /></span>
+<span class="widespan">Finnish-FTB</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="161,682 tokens 161,984 words 19,097 sentences">161K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY 4.0"><img class="license" src="logos/by.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="fi_ftb/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="fi_ftb/overview/morphology.html">General principles</a></li>
+          <li><a href="fi_ftb/pos/index.html">Finnish-FTB POS tags</a> (<a href="fi_ftb/pos/all.html">single document</a>)</li>
+          <li><a href="fi_ftb/feat/index.html">Finnish-FTB features</a> (<a href="fi_ftb/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="fi_ftb/overview/syntax.html">General principles</a></li>
+          <li><a href="fi_ftb/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="fi_ftb/dep/index.html">Finnish-FTB relations</a> (<a href="fi_ftb/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "French" tab -->
-<div id="language-fr" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">401K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="fr/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/FR.svg" /></span>
+<span class="widespan">French</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="388,892 tokens 400,627 words 16,468 sentences">388K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0 US"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="fr/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -776,48 +490,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="fr/overview/syntax.html">General principles</a></li>
           <li><a href="fr/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="fr/dep/index.html">French dependency relations</a> (<a href="fr/dep/all.html">single document</a>)</li>
+          <li><a href="fr/dep/index.html">French relations</a> (<a href="fr/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "German" tab -->
-<div id="language-de" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">299K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="de/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/DE.svg" /></span>
+<span class="widespan">German</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="293,459 tokens 298,614 words 15,918 sentences">293K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0 US"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="de/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -830,48 +520,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="de/overview/syntax.html">General principles</a></li>
           <li><a href="de/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="de/dep/index.html">German dependency relations</a> (<a href="de/dep/all.html">single document</a>)</li>
+          <li><a href="de/dep/index.html">German relations</a> (<a href="de/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Greek" tab -->
-<div id="language-el" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="partial">partial draft</td>      
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="partial">partial draft</td>      
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">59K words</td>
-    </tr>    
-  </tbody>
-</table>
-
-    <p><a href="el/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/GR.svg" /></span>
+<span class="widespan">Greek</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="59,156 tokens 59,156 words 2,411 sentences">59K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="el/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -884,48 +550,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="el/overview/syntax.html">General principles</a></li>
           <li><a href="el/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="el/dep/index.html">Greek dependency relations</a> (<a href="el/dep/all.html">single document</a>)</li>
+          <li><a href="el/dep/index.html">Greek relations</a> (<a href="el/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Hebrew" tab -->
-<div id="language-he" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">159K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="he/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IL.svg" /></span>
+<span class="widespan">Hebrew</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="115,535 tokens 158,855 words 6,216 sentences">115K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 4.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="he/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -938,48 +580,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="he/overview/syntax.html">General principles</a></li>
           <li><a href="he/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="he/dep/index.html">Hebrew dependency relations</a> (<a href="he/dep/all.html">single document</a>)</li>
+          <li><a href="he/dep/index.html">Hebrew relations</a> (<a href="he/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Hindi" tab -->
-<div id="language-hi" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="hi/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IN.svg" /></span>
+<span class="widespan">Hindi</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
       <li><a href="hi/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -992,48 +610,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="hi/overview/syntax.html">General principles</a></li>
           <li><a href="hi/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="hi/dep/index.html">Hindi dependency relations</a> (<a href="hi/dep/all.html">single document</a>)</li>
+          <li><a href="hi/dep/index.html">Hindi relations</a> (<a href="hi/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Hungarian" tab -->
-<div id="language-hu" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">27K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="hu/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/HU.svg" /></span>
+<span class="widespan">Hungarian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="26,538 tokens 26,538 words 1,299 sentences">26K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="hu/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1046,48 +640,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="hu/overview/syntax.html">General principles</a></li>
           <li><a href="hu/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="hu/dep/index.html">Hungarian dependency relations</a> (<a href="hu/dep/all.html">single document</a>)</li>
+          <li><a href="hu/dep/index.html">Hungarian relations</a> (<a href="hu/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Indonesian" tab -->
-<div id="language-id" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">122K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="id/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/ID.svg" /></span>
+<span class="widespan">Indonesian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="121,923 tokens 121,923 words 5,593 sentences">121K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0 US"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="id/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1100,48 +670,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="id/overview/syntax.html">General principles</a></li>
           <li><a href="id/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="id/dep/index.html">Indonesian dependency relations</a> (<a href="id/dep/all.html">single document</a>)</li>
+          <li><a href="id/dep/index.html">Indonesian relations</a> (<a href="id/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Irish" tab -->
-<div id="language-ga" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">24K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ga/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IE.svg" /></span>
+<span class="widespan">Irish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="23,686 tokens 23,686 words 1,020 sentences">23K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 3.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ga/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1154,48 +700,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ga/overview/syntax.html">General principles</a></li>
           <li><a href="ga/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ga/dep/index.html">Irish dependency relations</a> (<a href="ga/dep/all.html">single document</a>)</li>
+          <li><a href="ga/dep/index.html">Irish relations</a> (<a href="ga/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Italian" tab -->
-<div id="language-it" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">277K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="it/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IT.svg" /></span>
+<span class="widespan">Italian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="258,308 tokens 277,209 words 12,330 sentences">258K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="it/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1208,102 +730,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="it/overview/syntax.html">General principles</a></li>
           <li><a href="it/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="it/dep/index.html">Italian dependency relations</a> (<a href="it/dep/all.html">single document</a>)</li>
+          <li><a href="it/dep/index.html">Italian relations</a> (<a href="it/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Latin" tab -->
-<div id="language-la" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">53K&nbsp;tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="la/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="la/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="la/overview/morphology.html">General principles</a></li>
-          <li><a href="la/pos/index.html">Latin POS tags</a> (<a href="la/pos/all.html">single document</a>)</li>
-          <li><a href="la/feat/index.html">Latin features</a> (<a href="la/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="la/overview/syntax.html">General principles</a></li>
-          <li><a href="la/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="la/dep/index.html">Latin dependency relations</a> (<a href="la/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Japanese" tab -->
-<div id="language-ja" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ja/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/JP.svg" /></span>
+<span class="widespan">Japanese</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ja/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1316,44 +760,54 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ja/overview/syntax.html">General principles</a></li>
           <li><a href="ja/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ja/dep/index.html">Japanese dependency relations</a> (<a href="ja/dep/all.html">single document</a>)</li>
+          <li><a href="ja/dep/index.html">Japanese relations</a> (<a href="ja/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/KZ.svg" /></span>
+<span class="widespan">Kazakh</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="kk/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="kk/overview/morphology.html">General principles</a></li>
+          <li><a href="kk/pos/index.html">Kazakh POS tags</a> (<a href="kk/pos/all.html">single document</a>)</li>
+          <li><a href="kk/feat/index.html">Kazakh features</a> (<a href="kk/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="kk/overview/syntax.html">General principles</a></li>
+          <li><a href="kk/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="kk/dep/index.html">Kazakh relations</a> (<a href="kk/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "Korean" tab -->
-<div id="language-ko" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ko/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/KR.svg" /></span>
+<span class="widespan">Korean</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ko/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1366,48 +820,54 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ko/overview/syntax.html">General principles</a></li>
           <li><a href="ko/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ko/dep/index.html">Korean dependency relations</a> (<a href="ko/dep/all.html">single document</a>)</li>
+          <li><a href="ko/dep/index.html">Korean relations</a> (<a href="ko/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/VA.svg" /></span>
+<span class="widespan">Latin</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="53,143 tokens 53,143 words 3,473 sentences">53K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 2.5"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="la/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="la/overview/morphology.html">General principles</a></li>
+          <li><a href="la/pos/index.html">Latin POS tags</a> (<a href="la/pos/all.html">single document</a>)</li>
+          <li><a href="la/feat/index.html">Latin features</a> (<a href="la/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="la/overview/syntax.html">General principles</a></li>
+          <li><a href="la/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="la/dep/index.html">Latin relations</a> (<a href="la/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
-
-<!-- "Persian" tab -->
-<div id="language-fa" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="partial">partial draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">153K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="fa/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IR.svg" /></span>
+<span class="widespan">Persian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="151,671 tokens 152,918 words 6,000 sentences">151K</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="fa/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1420,44 +880,84 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="fa/overview/syntax.html">General principles</a></li>
           <li><a href="fa/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="fa/dep/index.html">Persian dependency relations</a> (<a href="fa/dep/all.html">single document</a>)</li>
+          <li><a href="fa/dep/index.html">Persian relations</a> (<a href="fa/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/PL.svg" /></span>
+<span class="widespan">Polish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="83,571 tokens 83,571 words 8,227 sentences">83K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="GPL 3.0"><img class="license" src="logos/gpl.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="pl/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="pl/overview/morphology.html">General principles</a></li>
+          <li><a href="pl/pos/index.html">Polish POS tags</a> (<a href="pl/pos/all.html">single document</a>)</li>
+          <li><a href="pl/feat/index.html">Polish features</a> (<a href="pl/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="pl/overview/syntax.html">General principles</a></li>
+          <li><a href="pl/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="pl/dep/index.html">Polish relations</a> (<a href="pl/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-  </div>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/PT.svg" /></span>
+<span class="widespan">Portuguese</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="212,545 tokens 212,545 words 9,359 sentences">212K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="pt/overview/tokenization.html">Tokenization</a></li>
+      <li>Morphology
+        <ul>
+          <li><a href="pt/overview/morphology.html">General principles</a></li>
+          <li><a href="pt/pos/index.html">Portuguese POS tags</a> (<a href="pt/pos/all.html">single document</a>)</li>
+          <li><a href="pt/feat/index.html">Portuguese features</a> (<a href="pt/feat/all.html">single document</a>)</li>
+        </ul>
+      </li>
+      <li>Syntax
+        <ul>
+          <li><a href="pt/overview/syntax.html">General principles</a></li>
+          <li><a href="pt/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="pt/dep/index.html">Portuguese relations</a> (<a href="pt/dep/all.html">single document</a>)</li>
+        </ul>
+      </li>
+    </ul>
 
-<!-- "Romanian" tab -->
-<div id="language-ro" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">partial draft</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ro/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/RO.svg" /></span>
+<span class="widespan">Romanian</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ro/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1470,48 +970,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ro/overview/syntax.html">General principles</a></li>
           <li><a href="ro/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ro/dep/index.html">Romanian dependency relations</a> (<a href="ro/dep/all.html">single document</a>)</li>
+          <li><a href="ro/dep/index.html">Romanian relations</a> (<a href="ro/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Slovenian" tab -->
-<div id="language-sl" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="sl/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/SI.svg" /></span>
+<span class="widespan">Slovenian</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="376,669 tokens 376,669 words 19,421 sentences">376K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 4.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="sl/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1524,48 +1000,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="sl/overview/syntax.html">General principles</a></li>
           <li><a href="sl/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="sl/dep/index.html">Slovenian dependency relations</a> (<a href="sl/dep/all.html">single document</a>)</li>
+          <li><a href="sl/dep/index.html">Slovenian relations</a> (<a href="sl/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Spanish" tab -->
-<div id="language-es" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">partial draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">433K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="es/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/ES.svg" /></span>
+<span class="widespan">Spanish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="424,395 tokens 432,662 words 16,062 sentences">424K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0 US"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="es/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1578,48 +1030,24 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="es/overview/syntax.html">General principles</a></li>
           <li><a href="es/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="es/dep/index.html">Spanish dependency relations</a> (<a href="es/dep/all.html">single document</a>)</li>
+          <li><a href="es/dep/index.html">Spanish relations</a> (<a href="es/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Swedish" tab -->
-<div id="language-sv" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="complete">complete draft</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">97K words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="sv/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/SE.svg" /></span>
+<span class="widespan">Swedish</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="96,819 tokens 96,819 words 6,026 sentences">96K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Complete documentation"><i class="fa fa-file-text-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="sv/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1637,260 +1065,19 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-  </div>
-
-
-
-<!-- "Arabic" tab -->
-<div id="language-ar" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">282K&nbsp;words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ar/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="ar/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="ar/overview/morphology.html">General principles</a></li>
-          <li><a href="ar/pos/index.html">Arabic POS tags</a> (<a href="ar/pos/all.html">single document</a>)</li>
-          <li><a href="ar/feat/index.html">Arabic features</a> (<a href="ar/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="ar/overview/syntax.html">General principles</a></li>
-          <li><a href="ar/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ar/dep/index.html">Arabic dependency relations</a> (<a href="ar/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Estonian" tab -->
-<div id="language-et" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">9K&nbsp;words</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="et/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="et/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="et/overview/morphology.html">General principles</a></li>
-          <li><a href="et/pos/index.html">Estonian POS tags</a> (<a href="et/pos/all.html">single document</a>)</li>
-          <li><a href="et/feat/index.html">Estonian features</a> (<a href="et/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="et/overview/syntax.html">General principles</a></li>
-          <li><a href="et/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="et/dep/index.html">Estonian dependency relations</a> (<a href="et/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Portuguese" tab -->
-<div id="language-pt" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">213K&nbsp;tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="pt/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="pt/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="pt/overview/morphology.html">General principles</a></li>
-          <li><a href="pt/pos/index.html">Portuguese POS tags</a> (<a href="pt/pos/all.html">single document</a>)</li>
-          <li><a href="pt/feat/index.html">Portuguese features</a> (<a href="pt/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="pt/overview/syntax.html">General principles</a></li>
-          <li><a href="pt/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="pt/dep/index.html">Portuguese dependency relations</a> (<a href="pt/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Dutch" tab -->
-<div id="language-nl" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">201K&nbsp;tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="nl/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="nl/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="nl/overview/morphology.html">General principles</a></li>
-          <li><a href="nl/pos/index.html">Dutch POS tags</a> (<a href="nl/pos/all.html">single document</a>)</li>
-          <li><a href="nl/feat/index.html">Dutch features</a> (<a href="nl/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="nl/overview/syntax.html">General principles</a></li>
-          <li><a href="nl/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="nl/dep/index.html">Dutch dependency relations</a> (<a href="nl/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Tamil" tab -->
-<div id="language-ta" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="complete">10K&nbsp;tokens</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="ta/overview/introduction.html">Introduction</a></p>
-
-    <ul>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/IN.svg" /></span>
+<span class="widespan">Tamil</span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="9,581 tokens 9,581 words 600 sentences">9K</span></span>
+<span class="widespan"><span class="tagspan"><span class="hint--top hint--info" data-hint="Lemmas"><img class="propertylogo" src="logos/L.svg" /></span></span><span class="tagspan"><span class="hint--top hint--info" data-hint="Features"><img class="propertylogo" src="logos/F.svg" /></span></span><span class="tagspan"></span></span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No documentation">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Automatic conversion"><i class="fa fa-cogs"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 3.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
+</div>
+<div>
+   <ul>
       <li><a href="ta/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
@@ -1903,119 +1090,66 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         <ul>
           <li><a href="ta/overview/syntax.html">General principles</a></li>
           <li><a href="ta/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="ta/dep/index.html">Tamil dependency relations</a> (<a href="ta/dep/all.html">single document</a>)</li>
+          <li><a href="ta/dep/index.html">Tamil relations</a> (<a href="ta/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
 
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- "Polish" tab -->
-<div id="language-pl" class="ui-tabs-hide">
-    <table class="statustable">
-  <tbody>
-    <tr>
-      <td colspan="2">Status</td>
-    </tr>
-    <tr>
-      <td>Overview:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>POS tags:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Features:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Relations:</td>
-      <td class="none">template only</td>
-    </tr>
-    <tr>
-      <td>Data:</td>
-      <td class="none">none</td>
-    </tr>
-  </tbody>
-</table>
-
-    <p><a href="pl/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="pl/overview/tokenization.html">Tokenization</a></li>
+</div>
+<div>
+<span class="flagspan"><img class="flag" src="flags/svg/TR.svg" /></span>
+<span class="widespan">Turkish</span>
+<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>
+<span class="widespan"><span class="tagspan"></span><span class="tagspan"></span><span class="tagspan"></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Partial documentation"><i class="fa fa-file-o"></i></span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="Data source not known">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>
+<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>
+</div>
+<div>
+   <ul>
+      <li><a href="tr/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
-          <li><a href="pl/overview/morphology.html">General principles</a></li>
-          <li><a href="pl/pos/index.html">Polish POS tags</a> (<a href="pl/pos/all.html">single document</a>)</li>
-          <li><a href="pl/feat/index.html">Polish features</a> (<a href="pl/feat/all.html">single document</a>)</li>
+          <li><a href="tr/overview/morphology.html">General principles</a></li>
+          <li><a href="tr/pos/index.html">Turkish POS tags</a> (<a href="tr/pos/all.html">single document</a>)</li>
+          <li><a href="tr/feat/index.html">Turkish features</a> (<a href="tr/feat/all.html">single document</a>)</li>
         </ul>
       </li>
       <li>Syntax
         <ul>
-          <li><a href="pl/overview/syntax.html">General principles</a></li>
-          <li><a href="pl/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="pl/dep/index.html">Polish dependency relations</a> (<a href="pl/dep/all.html">single document</a>)</li>
+          <li><a href="tr/overview/syntax.html">General principles</a></li>
+          <li><a href="tr/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="tr/dep/index.html">Turkish relations</a> (<a href="tr/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
-
-    <p><a href="format.html">CoNLL-U format</a></p>
-
-  </div>
-
-<!-- new tab template -->
-<!-- <div id="language-LC" markdown="1" class="ui-tabs-hide"> -->
-<!-- [Introduction](LC/overview/introduction.html) -->
-<!-- -->
-<!-- * [Tokenization](LC/overview/tokenization.html) -->
-<!-- * Morphology -->
-<!--   * [General principles](LC/overview/morphology.html) -->
-<!--   * [POS tags](LC/pos/index.html) ([single document](LC/pos/all.html)) -->
-<!--   * [features](LC/feat/index.html) ([single document](LC/feat/all.html)) -->
-<!--   * POS tags: TODO -->
-<!--   * Features: TODO -->
-<!-- * Syntax -->
-<!--   * [General principles](LC/overview/syntax.html) -->
-<!--   * [Specific constructions](LC/overview/specific-syntax.html) -->
-<!--   * [Relations](LC/dep/index.html) ([single document](LC/dep/all.html)) -->
-<!-- [CoNLL-U format](format.html) -->
-<!-- -->
-<!-- </div> -->
-
-<div id="language-other" class="ui-tabs-hide">
-    <p>More languages to come.</p>
-
-    <p>The following are empty templates for language-specific documentation.
-(Please ignore these.)</p>
-
-    <p><a href="template/overview/introduction.html">Introduction</a></p>
-
-    <ul>
-      <li><a href="template/overview/tokenization.html">Tokenization</a></li>
-      <li>Morphology
-        <ul>
-          <li><a href="template/overview/morphology.html">General principles</a></li>
-          <li><a href="template/pos/index.html">Universal POS tags</a> (<a href="template/pos/all.html">single document</a>)</li>
-          <li><a href="template/feat/index.html">Universal features</a> (<a href="template/feat/all.html">single document</a>)</li>
-        </ul>
-      </li>
-      <li>Syntax
-        <ul>
-          <li><a href="template/overview/syntax.html">General principles</a></li>
-          <li><a href="template/dep/index.html">Universal relations</a> (<a href="template/dep/all.html">single document</a>)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
 
 </div>
 
-<hr />
 
-<p><a href="contributing.html">How to contribute</a></p>
+</div>
+
+<h1 id="download">Download</h1>
+
+<p>The data is released through LINDAT/CLARIN</p>
+
+<ul>
+  <li>Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015. Note: English data in the release were corrected on May 26, 2015. If you have downloaded the data before this date, please re-download.</li>
+  <li>Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.</li>
+  <li>The next release (v1.2) is scheduled for November 15, 2015. We intend to have regular treebank releases every six months.</li>
+</ul>
+
+<h1 id="stay-up-to-date">Stay up to date</h1>
+
+<p>If you want to receive news about Universal Dependencies, you can subscribe to
+the <a href="http://stp.lingfil.uu.se/mailman/listinfo/ud">UD mailing list</a>.
+See also the <a href="issues.html">list of open issues</a> for the <a href="uppsala.html">Uppsala meeting</a>.</p>
+
+<h1 id="contribute">Contribute</h1>
+
+<p><a href="contributing.html">How to contribute</a>. Also please read the <a href="language_metadata.html">instructions</a> for adding a new language and encoding its metadata.</p>
+
 
 
       </div>
@@ -2058,6 +1192,14 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
+    var setupAccordions = function() {
+        // standard jQuery UI "accordion" element initialization
+	$(".jquery-ui-accordion").accordion({
+	    collapsible: true,
+	    active: false
+	});
+    };
+
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "auto" });
@@ -2078,6 +1220,7 @@ See also the <a href="issues.html">list of open issues</a> for the <a href="upps
     head.ready(function() {
         // set up UI tabs on page
         setupTabs();
+        setupAccordions();
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = '';
