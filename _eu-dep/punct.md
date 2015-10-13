@@ -3,6 +3,26 @@ layout: relation
 title: 'punct'
 shortdef: 'punctuation'
 ---
+punct relation is used to annotate tpunctuation marks. 
+
+Two kinds of punctuations can be distinguished:
+
+* Puntuation acting as a conjunction
+* The rest of the punctuation marks
+
+1. Punctuation in coordination
+
+Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct::
+
+Example:
+
+* English:
+
+Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.
+
+* Basque:
+
+Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.
 
 *Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
 expert most-for.*
@@ -30,3 +50,6 @@ nmod(osatzen-15, aditu-17)
 det(aditu-17, gehienentzat-18)
 punct(osatzen-15, .-19)
 ~~~ .
+
+2. The rest of the punctuations
+
