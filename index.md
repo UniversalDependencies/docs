@@ -56,5 +56,5 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
 
 # Contribute
 
-[How to contribute](contributing.html)
+[How to contribute](contributing.html). Also please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata. 
 
