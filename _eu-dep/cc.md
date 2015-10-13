@@ -7,10 +7,10 @@ Coordinationin the Basque UD annotation follows the general schema where the fir
 
 Example:
 
-*English:
+* English:
 Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.
 
-*Basque:
+* Basque:
 Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.
 
 *Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transtive-present 
