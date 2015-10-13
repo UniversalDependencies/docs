@@ -286,33 +286,48 @@ for <code>case</code>.</p>
 <p><a id="al-eu-dep/cc" class="al-dest"></a></p>
 <h2><code>cc</code>: coordinating conjunction</h2>
 
-<p>Coordinationin the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct:</p>
+<p>cc relation is used to annotate the relation between the conjunction complementizer and the head of the coordination structure.</p>
+
+<p>Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct::</p>
 
 <p>Example:</p>
 
-<p>Zidane, Henry, Barthez, Deschamps, Blancand and the rest form the most robust team according to most experts.</p>
+<ul>
+  <li>English:</li>
+</ul>
 
-<p>Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.
-zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transitive-preesent 
-expert most-for.</p>
+<p>Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.</p>
 
-<p>punct(Zidane, ,)
-conj(Zidane, Henry)
-punct(Zidane, ,)
-conj(Zidane, Barthez)
-punct(Zidane, ,)
-conj(Zidane, Deschamps)
-conj(Zidane, ,)
-conj(Zidane, Blanc)
-cc(Zidane, eta)
-conj(Zidane, enparauek)
-nmod(talde, Europako)
-dobj(osatzen, talde)
-amod(talde, sendoena)
-aux(osatzen, dute)
-nmod(osatzen, aditu)
-det(aditu, gehienentzat)
-punct(osatzen, .)</p>
+<ul>
+  <li>Basque:</li>
+</ul>
+
+<p>Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.</p>
+
+<p><em>Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
+expert most-for.</em></p>
+
+<p>Note that it is the last conjunct the element showing the ergative case. The ergative case corresponds to subjects of transitive verbs. In this case <em>to form</em></p>
+
+<pre><code class="language-sdparse">Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
+punct(Zidane-1, ,-2)
+conj(Zidane-1, Henry-3)
+punct(Zidane-1, ,-4)
+conj(Zidane-1, Barthez-5)
+punct(Zidane-1, ,-6)
+conj(Zidane-1, Deschamps-7)
+conj(Zidane-1, ,-8)
+conj(Zidane-1, Blanc-9)
+cc(Zidane-1, eta-10)
+conj(Zidane-1, enparauek-11)
+nmod(talde-13, Europako-12)
+dobj(osatzen-15, talde-13)
+amod(talde-13, sendoena-14)
+aux(osatzen-15, dute-16)
+nmod(osatzen-15, aditu-17)
+det(aditu-17, gehienentzat-18)
+punct(osatzen-15, .-19)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_eu-dep/cc.md" target="#">edit cc</a></p>
 
@@ -335,8 +350,46 @@ for <code>compound</code>.</p>
 <p><a id="al-eu-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>conj relation is used to annotate the different conjuncts in a coordination structure.</p>
+
+<p>Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct:</p>
+
+<ul>
+  <li>English:</li>
+</ul>
+
+<p>Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.</p>
+
+<ul>
+  <li>Basque:</li>
+</ul>
+
+<p>Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.</p>
+
+<p><em>Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
+expert most-for.</em></p>
+
+<p>Note that it is the last conjunct the element showing the ergative case. The ergative case corresponds to subjects of transitive verbs. In this case <em>to form</em></p>
+
+<pre><code class="language-sdparse">Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
+punct(Zidane-1, ,-2)
+conj(Zidane-1, Henry-3)
+punct(Zidane-1, ,-4)
+conj(Zidane-1, Barthez-5)
+punct(Zidane-1, ,-6)
+conj(Zidane-1, Deschamps-7)
+conj(Zidane-1, ,-8)
+conj(Zidane-1, Blanc-9)
+cc(Zidane-1, eta-10)
+conj(Zidane-1, enparauek-11)
+nmod(talde-13, Europako-12)
+dobj(osatzen-15, talde-13)
+amod(talde-13, sendoena-14)
+aux(osatzen-15, dute-16)
+nmod(osatzen-15, aditu-17)
+det(aditu-17, gehienentzat-18)
+punct(osatzen-15, .-19)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_eu-dep/conj.md" target="#">edit conj</a></p>
 
@@ -519,8 +572,31 @@ for <code>parataxis</code>.</p>
 <p><a id="al-eu-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>punct</code>.</p>
+<p><em>Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
+expert most-for.</em></p>
+
+<p>Note that it is the last conjunct the element showing the ergative case. The ergative case corresponds to subjects of transitive verbs. In this case <em>to form</em></p>
+
+<p>~~~ sdparse
+Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
+punct(Zidane-1, ,-2)
+conj(Zidane-1, Henry-3)
+punct(Zidane-1, ,-4)
+conj(Zidane-1, Barthez-5)
+punct(Zidane-1, ,-6)
+conj(Zidane-1, Deschamps-7)
+conj(Zidane-1, ,-8)
+conj(Zidane-1, Blanc-9)
+cc(Zidane-1, eta-10)
+conj(Zidane-1, enparauek-11)
+nmod(talde-13, Europako-12)
+dobj(osatzen-15, talde-13)
+amod(talde-13, sendoena-14)
+aux(osatzen-15, dute-16)
+nmod(osatzen-15, aditu-17)
+det(aditu-17, gehienentzat-18)
+punct(osatzen-15, .-19)
+~~~ .</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_eu-dep/punct.md" target="#">edit punct</a></p>
 
