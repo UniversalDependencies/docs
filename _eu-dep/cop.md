@@ -14,7 +14,8 @@ These two parts fold by the places that are marked .
 
 * Basque:
 Bi zati hauek markaturik dauden tokietatik tolesten dira .
-Two parts these marked are-that places  aux-intrans-present .
+
+*Two parts these marked are-that places  aux-intrans-present .*
 
 ~~~ sdparse
 Bi zati hauek markaturik dauden tokietatik tolesten dira .
