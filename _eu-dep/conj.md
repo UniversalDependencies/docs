@@ -4,7 +4,7 @@ title: 'conj'
 shortdef: 'conjunct'
 ---
 
-
+Coordination in the Basque UD annotation follows the general schema where the first element of the conjunction is the head, and each conjunct, conjunction complementizer or puntuation mark acting as a conjunction should be attached to the first conjunct:
 * English:
 
 Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team according to most experts.
