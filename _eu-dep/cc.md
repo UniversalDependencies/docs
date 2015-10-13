@@ -14,6 +14,15 @@ zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust
 expert most-for.
 
 ~~~ sdparse
+kirjat , kynät ja viivottimet \n books , pencils and rulers
+conj(kirjat-1, kynät-3)
+punct(kirjat-1, ,-2)
+cc(kirjat-1, ja-4)
+conj(kirjat-1, viivottimet-5)
+~~~
+
+
+~~~ sdparse
 punct(Zidane, ,)
 conj(Zidane, Henry)
 punct(Zidane, ,)
