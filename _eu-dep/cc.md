@@ -18,6 +18,9 @@ Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena o
 *Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
 expert most-for.*
 
+
+Note that it is the last conjunct the element showing the ergative case. The ergative case corresponds to subjects of transitive verbs. In this case *to form*
+
 ~~~ sdparse
 Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
 punct(Zidane-1, ,-2)
