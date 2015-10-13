@@ -15,7 +15,7 @@ Zidane, Henry, Barthez, Deschamps, Blanc and the rest form the most robust team 
 
 Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat.
 
-*Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transtive-present 
+*Zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust-the-most form aux-they-transtive-present 
 expert most-for.*
 
 ~~~ sdparse
