@@ -13,6 +13,7 @@ Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena o
 zidane, Henry, Barthez, Deschamps, Blanc and rest-the-erg Europe-gen team robust form aux-they-transitive-preesent 
 expert most-for.
 
+~~~ sdparse
 punct(Zidane, ,)
 conj(Zidane, Henry)
 punct(Zidane, ,)
@@ -30,5 +31,5 @@ aux(osatzen, dute)
 nmod(osatzen, aditu)
 det(aditu, gehienentzat)
 punct(osatzen, .)
-
+~~~
 
