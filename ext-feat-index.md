@@ -65,9 +65,9 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Czech values](cs-feat/Abbr): Yes
 * [Estonian values](et-feat/Abbr): Yes
 * [Finnish values](fi-feat/Abbr): Yes
+* [Latin values](la-feat/Abbr): Yes
 * [Slovenian values](sl-feat/Abbr): Yes
 * [Interset](ext-feat/Abbr): Yes
-
 
 ## AdpType
 * [Ancient Greek values](grc-feat/AdpType): Prep
@@ -160,6 +160,7 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Arabic values](ar-feat/NumForm): Digit, Word
 * [Czech values](cs-feat/NumForm): Digit, Roman, Word
 * [Estonian values](et-feat/NumForm): Digit, Word
+* [Latin values](la-feat/NumForm): Digit
 * [Slovenian values](sl-feat/NumForm): Digit, Roman, Word
 * [Tamil values](ta-feat/NumForm): Digit
 * [Interset](ext-feat/NumForm): Digit, Roman, Word
@@ -251,4 +252,5 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## VerbType
 * [Dutch values](nl-feat/VerbType): Aux, Cop, Mod
 * [Estonian values](et-feat/VerbType): Mod
+* [Latin values](la-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
