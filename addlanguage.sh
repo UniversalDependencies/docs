@@ -68,34 +68,37 @@ tmp=`mktemp addlanguage-tmp-XXX`
  perl -pe '$past=1 if(/^# Template\s*$/); $_ = "" unless($past);' _config.yml;
 ) > $tmp; mv $tmp _config.yml
 
-(perl -pe 'exit if(/^\s*<li .*"#language-other"/)' index.md;
- echo '  <li class="ui-state-default"><a href="#language-'${lc}'">'${language}'</a></li>'
- perl -pe '$past=1 if(/^\s*<li .*"#language-other"/); 
-           $_ = "" unless($past);
-           exit if(/^\s*<!-- new tab template -->\s*$/)' index.md;
- echo "<!-- \"${language}\" tab -->
-<div id=\"language-${lc}\" markdown=\"1\" class=\"ui-tabs-hide\">
-{% include ${lc}-status-table.html %}
+# (perl -pe 'exit if(/^\s*<li .*"#language-other"/)' index.md;
+#  echo '  <li class="ui-state-default"><a href="#language-'${lc}'">'${language}'</a></li>'
+#  perl -pe '$past=1 if(/^\s*<li .*"#language-other"/); 
+#            $_ = "" unless($past);
+#            exit if(/^\s*<!-- new tab template -->\s*$/)' index.md;
+#  echo "<!-- \"${language}\" tab -->
+# <div id=\"language-${lc}\" markdown=\"1\" class=\"ui-tabs-hide\">
+# {% include ${lc}-status-table.html %}
 
-[Introduction](${lc}/overview/introduction.html)
+# [Introduction](${lc}/overview/introduction.html)
 
-* [Tokenization](${lc}/overview/tokenization.html)
-* Morphology
-  * [General principles](${lc}/overview/morphology.html)
-  * [$language POS tags](${lc}/pos/index.html) ([single document](${lc}/pos/all.html))
-  * [$language features](${lc}/feat/index.html) ([single document](${lc}/feat/all.html))
-* Syntax
-  * [General principles](${lc}/overview/syntax.html)
-  * [Specific constructions](${lc}/overview/specific-syntax.html)
-  * [$language dependency relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
+# * [Tokenization](${lc}/overview/tokenization.html)
+# * Morphology
+#   * [General principles](${lc}/overview/morphology.html)
+#   * [$language POS tags](${lc}/pos/index.html) ([single document](${lc}/pos/all.html))
+#   * [$language features](${lc}/feat/index.html) ([single document](${lc}/feat/all.html))
+# * Syntax
+#   * [General principles](${lc}/overview/syntax.html)
+#   * [Specific constructions](${lc}/overview/specific-syntax.html)
+#   * [$language dependency relations](${lc}/dep/index.html) ([single document](${lc}/dep/all.html))
 
-[CoNLL-U format](format.html)
+# [CoNLL-U format](format.html)
 
-</div>
-"
- perl -pe '$past=1 if(/^\s*<!-- new tab template -->\s*$/);
-           $_ = "" unless($past)' index.md;
-) > $tmp; mv $tmp index.md
+# </div>
+# "
+#  perl -pe '$past=1 if(/^\s*<!-- new tab template -->\s*$/);
+#            $_ = "" unless($past)' index.md;
+# ) > $tmp; mv $tmp index.md
 
-git add _${lc}-{overview,pos,dep,feat} _includes/${lc}-{pos,feat,dep,status}-table.html index.md _config.yml
+git add _${lc}-{overview,pos,dep,feat} _includes/${lc}-{pos,feat,dep,status}-table.html _config.yml
 git commit
+
+
+echo "Please edit also gen_index/flags.json and gen_index/lcodes.json"
