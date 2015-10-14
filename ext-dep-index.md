@@ -17,6 +17,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [Finnish](fi-dep/acl:relcl),
 [French](fr-dep/acl:relcl),
 [German](de-dep/acl:relcl),
+[Italian](it-dep/acl:relcl),
 [Spanish](es-dep/acl:relcl),
 [Swedish](sv-dep/acl:relcl)
 
@@ -71,8 +72,11 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `det:nummod`:
 [Czech](cs-dep/det:nummod),
 [Dutch](nl-dep/det:nummod)
+- `det:poss`:
+[Italian](it-dep/det:poss)
 - `det:predet`:
-[English](en-dep/det:predet)
+[English](en-dep/det:predet),
+[Italian](it-dep/det:predet)
 
 
 ## nmod
