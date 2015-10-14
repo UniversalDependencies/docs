@@ -12,6 +12,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## acl
 - `acl:relcl`:
+[Danish](da-dep/acl:relcl),
 [English](en-dep/acl:relcl),
 [Finnish](fi-dep/acl:relcl),
 [French](fr-dep/acl:relcl),
@@ -50,6 +51,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 ## compound
 - `compound:prt`:
+[Danish](da-dep/compound:prt),
 [Dutch](nl-dep/compound:prt),
 [English](en-dep/compound:prt),
 [Estonian](et-dep/compound:prt),
@@ -83,12 +85,16 @@ Labels of language-specific relations explictly encode the core UD relation that
 - `nmod:own`:
 [Finnish](fi-dep/nmod:own)
 - `nmod:poss`:
+[Danish](da-dep/nmod:poss),
 [English](en-dep/nmod:poss),
 [Finnish](fi-dep/nmod:poss),
 [French](fr-dep/nmod:poss),
 [Spanish](es-dep/nmod:poss),
 [Swedish](sv-dep/nmod:poss)
+- `nmod:loc`:
+[Danish](da-dep/nmod:loc)
 - `nmod:tmod`:
+[Danish](da-dep/nmod:tmod),
 [English](en-dep/nmod:tmod)
 - `nmod:agent`:
 [Swedish](sv-dep/nmod:agent)
