@@ -34,6 +34,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 ## auxpass
 - `auxpass:reflex`:
 [Czech](cs-dep/auxpass:reflex),
+[Latin](la-dep/auxpass:reflex),
 [Portuguese](pt-dep/auxpass:reflex)
 
 
