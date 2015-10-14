@@ -511,6 +511,20 @@ collections:
   pl-overview:
     output: true
 #
+# Norwegian
+#
+  no-pos:
+    output: true
+    permalink: /no/pos/:path.html
+  no-feat:
+    output: true
+    permalink: /no/feat/:path.html
+  no-dep:
+    output: true
+    permalink: /no/dep/:path.html
+  no-overview:
+    output: true
+#
 # Template
 #
   template-pos:
