@@ -504,6 +504,15 @@ h4, h5, h6 {
    height: 1.2em;
 }
 
+.validationpass {
+    color: green;
+}
+
+.validationfail {
+    color: red;
+}
+
+
 div.bordered-char {
   display:inline-block;
   width: 9px;
