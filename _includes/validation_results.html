@@ -998,6 +998,70 @@ python /home/ginter/UD/tools/validate.py --lang la /home/ginter/UD/UD_Latin/la-u
 </pre>
 </div>
 <div>
+<span class="widespan" style="padding-left:3em">Latin-ITT</span>
+<span class="widespan">la itt</span>
+<span class="validationfail">FAIL</span>
+</div>
+<div>
+<pre>
+python /home/ginter/UD/tools/validate.py --lang la_itt /home/ginter/UD/UD_Latin-ITT/la_itt-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.la_itt could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.la_itt
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.la_itt could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.la_itt It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang la_itt /home/ginter/UD/UD_Latin-ITT/la_itt-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.la_itt could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.la_itt
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.la_itt could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.la_itt It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang la_itt /home/ginter/UD/UD_Latin-ITT/la_itt-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.la_itt could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu > data/deprel.la_itt
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.la_itt could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.la_itt It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="widespan" style="padding-left:3em">Norwegian</span>
 <span class="widespan">no</span>
 <span class="validationfail">NO DATA</span>
