@@ -75,7 +75,10 @@ def gen_table(args):
         if validates:
             print >> a_data, """<span class="validationpass">PASS</span>"""
         else:
-            print >> a_data, """<span class="validationfail">FAIL</span>"""
+            if val_output=="No data":
+                print >> a_data, """<span class="validationfail">NO DATA</span>"""
+            else:
+                print >> a_data, """<span class="validationfail">FAIL</span>"""
         print >> a_data, "</div>"
 
         print >> a_data, "<div>"
