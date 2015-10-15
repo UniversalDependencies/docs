@@ -47,11 +47,15 @@ The data is released through LINDAT/CLARIN
 * Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015. Note: English data in the release were corrected on May 26, 2015. If you have downloaded the data before this date, please re-download.
 * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
 * The next release (v1.2) is scheduled for November 15, 2015. We intend to have regular treebank releases every six months.
- 
+
 # Query online
 
-You can query the 19 UD treebanks released in UD v1.1 using [the SETS treebank search](http://bionlp-www.utu.fi/dep_search) maintained by the University of Turku.
-  
+You can query the 19 UD treebanks released in UD v1.1 using
+[the SETS treebank search](http://bionlp-www.utu.fi/dep_search)
+maintained by the University of Turku, or using
+[PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
+maintained by the Charles University in Prague.
+
 # Stay up to date
 
 If you want to receive news about Universal Dependencies, you can subscribe to
@@ -62,5 +66,5 @@ For contributors: automatic validation run results prior to the v1.2 release can
 
 # Contribute
 
-[How to contribute](contributing.html). Also please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata. 
+[How to contribute](contributing.html). Also please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
 
