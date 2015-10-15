@@ -525,6 +525,20 @@ collections:
   no-overview:
     output: true
 #
+# Latin-ITT
+#
+  la_itt-pos:
+    output: true
+    permalink: /la_itt/pos/:path.html
+  la_itt-feat:
+    output: true
+    permalink: /la_itt/feat/:path.html
+  la_itt-dep:
+    output: true
+    permalink: /la_itt/dep/:path.html
+  la_itt-overview:
+    output: true
+#
 # Template
 #
   template-pos:
