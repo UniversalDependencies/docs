@@ -252,5 +252,6 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 ## VerbType
 * [Dutch values](nl-feat/VerbType): Aux, Cop, Mod
 * [Estonian values](et-feat/VerbType): Mod
+* [Italian values](it-feat/VerbType): Aux, Cop, Mod
 * [Latin values](la-feat/VerbType): Mod
 * [Interset](ext-feat/VerbType): Aux, Cop, Mod, Light
