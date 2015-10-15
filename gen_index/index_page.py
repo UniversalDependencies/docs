@@ -1,19 +1,19 @@
 link_template="""\
    <ul>
-      <li><a href="{lang_code:}/overview/introduction.html">Introduction</a></li>
-      <li><a href="{lang_code:}/overview/tokenization.html">Tokenization</a></li>
+      <li><a href="{langfam_code:}/overview/introduction.html">Introduction</a></li>
+      <li><a href="{langfam_code:}/overview/tokenization.html">Tokenization</a></li>
       <li>Morphology
         <ul>
-          <li><a href="{lang_code:}/overview/morphology.html">General principles</a></li>
-          <li><a href="{lang_code:}/pos/index.html">{lang_name:} POS tags</a> (<a href="{lang_code:}/pos/all.html">single document</a>)</li>
-          <li><a href="{lang_code:}/feat/index.html">{lang_name:} features</a> (<a href="{lang_code:}/feat/all.html">single document</a>)</li>
+          <li><a href="{langfam_code:}/overview/morphology.html">General principles</a></li>
+          <li><a href="{langfam_code:}/pos/index.html">{langfam_name:} POS tags</a> (<a href="{langfam_code:}/pos/all.html">single document</a>)</li>
+          <li><a href="{langfam_code:}/feat/index.html">{langfam_name:} features</a> (<a href="{langfam_code:}/feat/all.html">single document</a>)</li>
         </ul>
       </li>
       <li>Syntax
         <ul>
-          <li><a href="{lang_code:}/overview/syntax.html">General principles</a></li>
-          <li><a href="{lang_code:}/overview/specific-syntax.html">Specific constructions</a></li>
-          <li><a href="{lang_code:}/dep/index.html">{lang_name:} relations</a> (<a href="{lang_code:}/dep/all.html">single document</a>)</li>
+          <li><a href="{langfam_code:}/overview/syntax.html">General principles</a></li>
+          <li><a href="{langfam_code:}/overview/specific-syntax.html">Specific constructions</a></li>
+          <li><a href="{langfam_code:}/dep/index.html">{langfam_name:} relations</a> (<a href="{langfam_code:}/dep/all.html">single document</a>)</li>
         </ul>
       </li>
     </ul>
@@ -127,6 +127,8 @@ def gen_table(args):
             corpus_data=json.load(f)
         corpus_data[u"lang_code"]=lcodes[l]
         corpus_data[u"lang_name"]=l
+        corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
+        corpus_data[u"langfam_name"]=l.split("-")[0]
         print >> a_data, "<div>"
         print >> a_data, get_flag_span(l)
         print >> a_data, get_language_span(l)
