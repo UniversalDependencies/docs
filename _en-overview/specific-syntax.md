@@ -681,11 +681,11 @@ The difficulty of representing coordination, which is symmetrical, with an inher
 
 ~~~sdparse
 The elated bride and groom danced and sang songs .
-cc(bride, and)
+cc(bride, and-4)
 conj(bride, groom)
-cc(danced, and)
+cc(danced, and-7)
 conj(danced, sang)
-amod(bride, excited)
+amod(bride, elated)
 dobj(sang, songs)
 ~~~
 
@@ -1137,10 +1137,10 @@ mark(use, that)
 _Too X to..._
 
 ~~~sdparse
-This problem was too hard to do.
-advmod(hard, too)
-advcl(hard, do)
-mark(do, to)
+This problem was too hard to do .
+advmod(hard-5, too-4)
+advcl(hard-5, do-7)
+mark(do-7, to-6)
 ~~~
 
 _Such... that..._
