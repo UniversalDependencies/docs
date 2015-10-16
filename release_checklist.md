@@ -62,11 +62,11 @@ validation script in the tools repository.
 
 In general, you validate the data like so:
 
-    python validate.py --noecho --lang=xx [file.conllu]
+    python validate.py --lang=xx [file.conllu]
 
 for example for Finnish:
 
-    $ python validate.py --noecho --lang=fi ../UD_Finnish/fi-ud-dev.conllu 
+    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu 
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
