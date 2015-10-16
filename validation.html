@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-fri-16-oct-2015-222801-0300">Validation status as of Fri, 16 Oct 2015 22:28:01 +0300</h1>
+          <h1 id="validation-status-as-of-sat-17-oct-2015-002757-0300">Validation status as of Sat, 17 Oct 2015 00:27:57 +0300</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -389,27 +389,73 @@ python /home/ginter/UD/tools/validate.py --lang nl /home/ginter/UD/UD_Dutch/nl-u
 <div>
 <span class="widespan" style="padding-left:3em">English</span>
 <span class="widespan">en</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-dev.conllu
 
-*** PASSED ***
+[Line                   1452]: Unknown UD DEPREL: conj:preconj
+[Line                   1954]: Unknown UD DEPREL: conj:preconj
+[Line                   2284]: Unknown UD DEPREL: conj:preconj
+[Line                   4080]: Unknown UD DEPREL: conj:preconj
+[Line                   4677]: Unknown UD DEPREL: conj:preconj
+[Line                   7541]: Unknown UD DEPREL: conj:preconj
+[Line                   9720]: Unknown UD DEPREL: conj:preconj
+[Line                   9894]: Unknown UD DEPREL: conj:preconj
+[Line                   14490]: Unknown UD DEPREL: conj:preconj
+[Line                   14742]: Unknown UD DEPREL: conj:preconj
+[Line                   22865]: Unknown UD DEPREL: conj:preconj
+[Line                   25739]: Unknown UD DEPREL: conj:preconj
+[Line                   26383]: Unknown UD DEPREL: conj:preconj
+[Line                   26875]: Unknown UD DEPREL: conj:preconj
+*** FAILED *** with 14 errors
+Syntax errors: 14
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-test.conllu
 
-*** PASSED ***
+[Line                   831]: Unknown UD DEPREL: conj:preconj
+[Line                   1241]: Unknown UD DEPREL: conj:preconj
+[Line                   8826]: Unknown UD DEPREL: conj:preconj
+[Line                   11948]: Unknown UD DEPREL: conj:preconj
+[Line                   12425]: Unknown UD DEPREL: conj:preconj
+[Line                   12754]: Unknown UD DEPREL: conj:preconj
+[Line                   12942]: Unknown UD DEPREL: conj:preconj
+[Line                   14820]: Unknown UD DEPREL: conj:preconj
+[Line                   26529]: Unknown UD DEPREL: conj:preconj
+*** FAILED *** with 9 errors
+Syntax errors: 9
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-train.conllu
 
-*** PASSED ***
+[Line                   5839]: Unknown UD DEPREL: conj:preconj
+[Line                   6174]: Unknown UD DEPREL: conj:preconj
+[Line                   6924]: Unknown UD DEPREL: conj:preconj
+[Line                   8209]: Unknown UD DEPREL: conj:preconj
+[Line                   12192]: Unknown UD DEPREL: conj:preconj
+[Line                   15053]: Unknown UD DEPREL: conj:preconj
+[Line                   15851]: Unknown UD DEPREL: conj:preconj
+[Line                   16024]: Unknown UD DEPREL: conj:preconj
+[Line                   16243]: Unknown UD DEPREL: conj:preconj
+[Line                   16469]: Unknown UD DEPREL: conj:preconj
+[Line                   16742]: Unknown UD DEPREL: conj:preconj
+[Line                   16758]: Unknown UD DEPREL: conj:preconj
+[Line                   17256]: Unknown UD DEPREL: conj:preconj
+[Line                   25317]: Unknown UD DEPREL: conj:preconj
+[Line                   25665]: Unknown UD DEPREL: conj:preconj
+[Line                   27722]: Unknown UD DEPREL: conj:preconj
+[Line                   29627]: Unknown UD DEPREL: conj:preconj
+[Line                   29727]: Unknown UD DEPREL: conj:preconj
+[Line                   30636]: Unknown UD DEPREL: conj:preconj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 102 errors
+Syntax errors: 102
 
 
 ******************
