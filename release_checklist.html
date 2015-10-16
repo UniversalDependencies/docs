@@ -50,11 +50,11 @@
   <li><code>xx-ud-train.conllu</code></li>
   <li><code>xx-ud-dev.conllu</code></li>
   <li><code>xx-ud-test.conllu</code></li>
-  <li><code>README</code></li>
-  <li><code>LICENSE</code></li>
+  <li><code>README.txt</code> or <code>README.md</code></li>
+  <li><code>LICENSE.txt</code></li>
 </ol>
 
-<p>The first three files contain the treebank data split into a training, development and test set. These should be in <code>CONLL-U</code> format and conform to the universal guidelines. They need to be validated as described below. The <code>README</code> file contains basic documentation of the treebank (see below) and the <code>LICENSE</code> specifies under what license the treebank is made available.</p>
+<p>The first three files contain the treebank data split into a training, development and test set. These should be in <code>CONLL-U</code> format and conform to the universal guidelines. They need to be validated as described below. The <code>README.txt</code> file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the <code>LICENSE.txt</code> specifies under what license the treebank is made available.</p>
 
 <p>The <code>README</code> file should minimally contain the following information:</p>
 
@@ -63,6 +63,7 @@
   <li>A description of how the data was split into training, development and test sets</li>
   <li>Basic statistics about number of sentences, tokens, etc.</li>
   <li>Acknowledgments and references that should be cited when using the treebank</li>
+  <li>A machine-readable section with language metadata. This is described [here](</li>
 </ol>
 
 <p>Note that the basic statistics can be produced using the script <code>conllu-stats.py</code>available from the <code>tools</code> repository and run as follows:</p>
@@ -82,7 +83,11 @@ Changelog</p>
 * Corrected tokenization in sentences 123 and 456 ```
 </code></pre>
 
+<p>The README.txt also contains metadata used to generate the overview table on the UD main page. This is described <a href="http://universaldependencies.github.io/docs/language_metadata.html">here</a></p>
+
 <h2 id="validation">Validation</h2>
+
+<p>Automatic validation runs are available <a href="http://universaldependencies.github.io/docs/validation.html">here</a>.</p>
 
 <p>The final data validation is an important step and each file released
 in the project is expected to validate as conforming to the basic
