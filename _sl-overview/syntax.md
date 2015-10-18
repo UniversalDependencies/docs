@@ -6,4 +6,4 @@ permalink: sl/overview/syntax.html
 
 # Syntax
 
-The current version of the Slovenian UD Treebank data does not include any dependency relations, as syntactic mapping from [JOS dependency annotation scheme](http://eng.slovenscina.eu/tehnologije/razclenjevalnik) to [universal dependency relations](http://universaldependencies.github.io/docs/u/dep/index.html) is still a work in progress.
+The syntactic annotation of the Slovenian UD Treebank has been obtained by automatic conversion from [JOS dependency annotation scheme](http://eng.slovenscina.eu/tehnologije/razclenjevalnik), based on a large set of rules including different lexical, morphological and syntactic features. Online guidelines for syntactic annotation are still a work in progress.
