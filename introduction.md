@@ -120,6 +120,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-pl">Polish</a>: Dan Zeman
 * <a href="index.html#language-pt">Portuguese</a>: Dan Zeman
 * <a href="index.html#language-ro">Romanian</a>: Verginica Mititelu, Catalina Maranduc
+* <a href="index.html#language-ro">Russian</a>: Olga Lyashevskaya
 * <a href="index.html#language-sl">Slovenian</a>: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek
 * <a href="index.html#language-es">Spanish</a>: Ryan McDonald, Miguel Ballesteros, Elena Pascual, Héctor Martínez Alonso, Dan Zeman
 * <a href="index.html#language-sv">Swedish</a>: Joakim Nivre, Aaron Smith
