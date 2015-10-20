@@ -525,6 +525,20 @@ collections:
   no-overview:
     output: true
 #
+# Church Slavonic
+#
+  cu-pos:
+    output: true
+    permalink: /cu/pos/:path.html
+  cu-feat:
+    output: true
+    permalink: /cu/feat/:path.html
+  cu-dep:
+    output: true
+    permalink: /cu/dep/:path.html
+  cu-overview:
+    output: true
+#
 # Template
 #
   template-pos:
