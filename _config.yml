@@ -539,6 +539,20 @@ collections:
   cu-overview:
     output: true
 #
+# Gothic
+#
+  got-pos:
+    output: true
+    permalink: /got/pos/:path.html
+  got-feat:
+    output: true
+    permalink: /got/feat/:path.html
+  got-dep:
+    output: true
+    permalink: /got/dep/:path.html
+  got-overview:
+    output: true
+#
 # Template
 #
   template-pos:
