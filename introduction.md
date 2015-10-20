@@ -104,6 +104,7 @@ Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
 * <a href="index.html#language-fi">Finnish</a>: Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, Filip Ginter, Hanna Nurmi, Juha Kuokkala, Jussi Piitulainen, Krister Lindén
 * <a href="index.html#language-fr">French</a>: Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald
 * <a href="index.html#language-de">German</a>: Slav Petrov, Wolfgang Seeker
+* <a href="index.html#language-got">Gothic</a>: Dag Haug
 * <a href="index.html#language-el">Greek</a>: Prokopis Prokopidis
 * <a href="index.html#language-he">Hebrew</a>: Yoav Goldberg, Reut Tsarfaty
 * <a href="index.html#language-hi">Hindi</a>: Riyaz Ahmad
