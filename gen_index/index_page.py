@@ -120,9 +120,9 @@ def get_genre_span(genres):
     spans=""
     for g in genres.split():
         if g in genres_map:
-            spans+="""<i class="twa twa-%s"></i>"""%genres_map[g]
+            spans+="""<i class="fa fa-%s"></i>"""%genres_map[g]
         else:
-            spans+="""<i class="twa twa-%s"></i>"""%genres_map["none"]
+            spans+="""<i class="fa fa-%s"></i>"""%genres_map["none"]
     return """<span class="doublewidespan"><span class="hint--top hint--info" data-hint="%s">%s</span></span>"""%(genres,spans)
             
 

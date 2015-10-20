@@ -1,10 +1,11 @@
 {
-    "none":"page_facing_up",
-    "news":"newspaper",
-    "blog":"ledger",
-    "fiction":"books",
-    "medical":"syringe",
-    "legal":"briefcase",
-    "social":"sparkles",
-    "spoken":"speech_balloon"
+    "none":"file-o",
+    "news":"newspaper-o",
+    "blog":"calendar",
+    "fiction":"book",
+    "medical":"eyedropper",
+    "legal":"legal",
+    "social":"feed",
+    "spoken":"comment-o",
+    "wiki":"wikipedia-w"
 }
