@@ -469,8 +469,14 @@ h4, h5, h6 {
 
 .widespan {
     display: inline-block;
-    width: 10%;
+    width: 8%;
 }
+
+.doublewidespan {
+    display: inline-block;
+    width: 16%;
+}
+
 
 .tagspan {
     display: inline-block;
