@@ -1,0 +1,10 @@
+{
+    "none":"page_facing_up",
+    "news":"newspaper",
+    "blog":"ledger",
+    "fiction":"books",
+    "medical":"syringe",
+    "legal":"briefcase",
+    "social":"sparkles",
+    "spoken":"speech_balloon"
+}
