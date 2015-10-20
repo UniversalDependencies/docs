@@ -103,7 +103,7 @@ def analyze_readme(dir_name):
     return readme_data
                 
 def get_language_span(l):
-    return """<span class="widespan">{}</span>""".format(l.replace(u"_",u" "))
+    return """<span class="doublewidespan">{}</span>""".format(l.replace(u"_",u" "))
 
 flags=json.loads(open("flags.json").read())
 def get_flag_span(lang_name):
