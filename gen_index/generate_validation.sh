@@ -1,4 +1,4 @@
-for L in $HOME/UD/UD_*
+for L in $HOME/UD/UD_* $HOME/UD/tools
 do
     echo $L
     cd $L
