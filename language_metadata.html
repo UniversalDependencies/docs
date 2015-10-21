@@ -41,7 +41,7 @@
 <p>The table on the front page is automatically generated from special lines in the <code>README.txt</code> or <code>README.md</code> file for every language. This means that in order to add a new language, also its repository must be created, minimally with the readme file. Here is an example of the language metadata block from the <a href="https://github.com/UniversalDependencies/UD_Finnish/blob/master/README.txt">Finnish README file</a></p>
 
 <pre><code>Documentation status: complete
-Data source: automatic conversion + manual check
+Data source: semi-automatic
 Data available since: UD v1.0
 License: CC BY-SA 4.0
 Genre: blog wiki legal news fiction
@@ -51,7 +51,7 @@ Genre: blog wiki legal news fiction
 
 <ul>
   <li><code>Documentation status</code> can be <code>complete</code>, <code>partial</code>, or <code>stub</code>.</li>
-  <li><code>Data source</code> can be <code>automatic conversion</code>, <code>automatic conversion + manual check</code>, or <code>native UD annotation</code>.</li>
+  <li><code>Data source</code> can be <code>automatic</code>, <code>semi-automatic</code>, or <code>manual</code>. Here, as a rough guidance, <code>manual</code> means that every word of every sentence has been manually checked, whereas <code>semi-automatic</code> means an automatic conversion with major manual checks of various types of constructions.</li>
   <li><code>Data available since</code> can be <code>UD v1.0</code>, <code>UD v1.1</code>, or <code>UD v1.2</code>. As the current release is 1.1, new languages which will be included in 1.2 should set this property accordingly, so that they are included in the upcoming automatic validation runs.</li>
   <li><code>License</code>: anything containing the string <code>BY-NC-SA</code> will be given the CC non-commercial logo, <code>BY-SA</code> or <code>BY</code> the CC logo, and <code>GNU</code> the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and sampo.pyysalo@gmail.com.</li>
   <li><code>Genre</code>: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json">this file</a> in the repository. If you don’t see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from <a href="https://fortawesome.github.io/Font-Awesome/icons/">the <em>FontAwesome</em> list</a>. Please make sure you get the syntax right, since this is a machine-readable JSON file.</li>
