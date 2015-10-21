@@ -45,7 +45,9 @@ Changelog
     * Corrected tokenization in sentences 123 and 456
 ```
 
-The README.txt also contains metadata used to generate the overview table on the UD main page. This is described [here](http://universaldependencies.github.io/docs/language_metadata.html)
+## Language metadata
+
+The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.github.io/docs/language_metadata.html)
 
 ## Validation
 
