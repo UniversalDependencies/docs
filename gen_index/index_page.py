@@ -113,7 +113,7 @@ def get_flag_span(lang_name):
 
 lcodes=json.loads(open("lcodes.json").read())
 
-genres_map=json.loads(open("genre_emojis.json","r").read())
+genres_map=json.loads(open("genre_symbols.json","r").read())
 for k,v in genres_map.iteritems():
     genres_map[k]=v.replace("_","-")
 def get_genre_span(genres):
