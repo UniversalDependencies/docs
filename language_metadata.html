@@ -44,6 +44,7 @@
 Data source: automatic conversion + manual check
 Data available since: UD v1.0
 License: CC BY-SA 4.0
+Genre: blog wiki legal news fiction
 </code></pre>
 
 <p>This block can be anywhere in the readme file. The properties are as follows:</p>
@@ -53,6 +54,7 @@ License: CC BY-SA 4.0
   <li><code>Data source</code> can be <code>automatic conversion</code>, <code>automatic conversion + manual check</code>, or <code>native UD annotation</code>.</li>
   <li><code>Data available since</code> can be <code>UD v1.0</code>, <code>UD v1.1</code>, or <code>UD v1.2</code>. As the current release is 1.1, new languages which will be included in 1.2 should set this property accordingly, so that they are included in the upcoming automatic validation runs.</li>
   <li><code>License</code>: anything containing the string <code>BY-NC-SA</code> will be given the CC non-commercial logo, <code>BY-SA</code> or <code>BY</code> the CC logo, and <code>GNU</code> the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and sampo.pyysalo@gmail.com.</li>
+  <li><code>Genre</code>: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in <a href="https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json">this file</a> in the repository. If you don’t see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from <a href="https://fortawesome.github.io/Font-Awesome/icons/">the <em>FontAwesome</em> list</a>. Please make sure you get the syntax right, since this is a machine-readable JSON file.</li>
 </ul>
 
 <h1 id="adding-a-new-language-into-the-documentation">Adding a new language into the documentation</h1>
