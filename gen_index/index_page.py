@@ -81,9 +81,9 @@ for lic in ("CC BY 4.0",):
     categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
 
 valueRe=re.compile(u"^([a-zA-Z ]+): ([A-Za-z0-9+. -]+)$")
-known_cats=set(cat for cat,val in categories)
+#known_cats=set(cat for cat,val in categories)
 def analyze_readme(dir_name):
-    readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none"}
+    readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none", u"Genre":u"none"}
     readmes=sorted(x for x in glob.glob(os.path.join(dir_name,"*")) if "readme" in x.lower())
     if not readmes: #No readme file!
         return readme_data
@@ -95,11 +95,9 @@ def analyze_readme(dir_name):
                 if (cat,val) in categories:
                     #Yes! this is a known category, we have a perfect match
                     readme_data[cat]=val
-                elif cat in known_cats:
-                    #Known cat, but weird val
-                    print >> sys.stderr, "********"
-                    print >> sys.stderr, "Strange cat-val", (cat,val)
-                    
+                elif cat in readme_data: #Known category but unknown value, I guess it's okay
+                    #Known cat, but weird val --- should we warn?
+                    readme_data[cat]=val
     return readme_data
                 
 def get_language_span(l):
@@ -114,6 +112,19 @@ def get_flag_span(lang_name):
         return """<span class="flagspan"> </span>"""
 
 lcodes=json.loads(open("lcodes.json").read())
+
+genres_map=json.loads(open("genre_symbols.json","r").read())
+for k,v in genres_map.iteritems():
+    genres_map[k]=v.replace("_","-")
+def get_genre_span(genres):
+    spans=""
+    for g in genres.split():
+        if g in genres_map:
+            spans+="""<span class="genreicon"><i class="fa fa-%s"></i></span>"""%genres_map[g]
+        else:
+            spans+="""<span class="genreicon"><i class="fa fa-%s"></i></span>"""%genres_map["none"]
+    return """<span class="doublewidespan"><span class="hint--top hint--info" data-hint="%s">%s</span></span>"""%(genres,spans)
+            
 
 def gen_table(args):
     
@@ -138,6 +149,7 @@ def gen_table(args):
         print >> sys.stderr, l
         for c in (u"Documentation status", u"Data source", u"Data available since", u"License"):
             print >> a_data, categories[c,readme_data[c]]
+        print >> a_data, get_genre_span(readme_data["Genre"])
         print >> a_data, "</div>"
         print >> a_data, "<div>"
         print >> a_data, link_template.format(**corpus_data)

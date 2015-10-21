@@ -483,6 +483,10 @@ h4, h5, h6 {
     width: 1em;
 }
 
+.genreicon {
+    margin-left: 2px;
+}
+
 .flagspan {
     display: inline-block;
     width: 5%;
