@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-thu-22-oct-2015-202712-0300">Validation status as of Thu, 22 Oct 2015 20:27:12 +0300</h1>
+          <h1 id="validation-status-as-of-thu-22-oct-2015-222719-0300">Validation status as of Thu, 22 Oct 2015 22:27:19 +0300</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -715,11 +715,65 @@ python /home/ginter/UD/tools/validate.py --lang de /home/ginter/UD/UD_German/de-
 <div>
 <span class="doublewidespan" style="padding-left:3em">Gothic</span>
 <span class="widespan">got</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
-No data
+python /home/ginter/UD/tools/validate.py --lang got /home/ginter/UD/UD_Gothic/gothic-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.got could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.got
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.got could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.got It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang got /home/ginter/UD/UD_Gothic/gothic-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.got could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.got
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.got could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.got It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang got /home/ginter/UD/UD_Gothic/gothic-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.got could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.got
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.got could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.got It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
 </pre>
 </div>
 <div>
