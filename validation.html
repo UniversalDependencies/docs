@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-fri-23-oct-2015-182750-0300">Validation status as of Fri, 23 Oct 2015 18:27:50 +0300</h1>
+          <h1 id="validation-status-as-of-fri-23-oct-2015-202757-0300">Validation status as of Fri, 23 Oct 2015 20:27:57 +0300</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -897,8 +897,8 @@ python /home/ginter/UD/tools/validate.py --lang hi /home/ginter/UD/UD_Hindi/hi-u
 [Line                   6]: Unknown attribute-value pair Gender=M
 [Line                   6]: Unknown attribute-value pair Number=Sg
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 98715 errors
-Morpho errors: 98715
+*** FAILED *** with 98661 errors
+Morpho errors: 98661
 
 
 ******************
@@ -925,8 +925,8 @@ python /home/ginter/UD/tools/validate.py --lang hi /home/ginter/UD/UD_Hindi/hi-u
 [Line                   7]: Unknown attribute-value pair Case=D
 [Line                   7]: Unknown attribute-value pair Gender=F
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 99403 errors
-Morpho errors: 99403
+*** FAILED *** with 99367 errors
+Morpho errors: 99367
 
 
 ******************
@@ -953,10 +953,8 @@ python /home/ginter/UD/tools/validate.py --lang hi /home/ginter/UD/UD_Hindi/hi-u
 [Line                   9]: Unknown attribute-value pair Case=Any
 [Line                   9]: Unknown attribute-value pair Gender=Any
 ...suppressing further errors regarding Morpho
-[Line                   133507]: DEPREL can only be "root" if HEAD is 0
-*** FAILED *** with 787487 errors
-Morpho errors: 787486
-Syntax errors: 1
+*** FAILED *** with 787074 errors
+Morpho errors: 787074
 
 
 ******************
@@ -1267,11 +1265,65 @@ python /home/ginter/UD/tools/validate.py --lang la_proiel /home/ginter/UD/UD_Lat
 <div>
 <span class="doublewidespan" style="padding-left:3em">Norwegian</span>
 <span class="widespan">no</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
-No data
+python /home/ginter/UD/tools/validate.py --lang no /home/ginter/UD/UD_Norwegian/no-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.no could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.no
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.no could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.no It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang no /home/ginter/UD/UD_Norwegian/no-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.no could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.no
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.no could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.no It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang no /home/ginter/UD/UD_Norwegian/no-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.no could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.no
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.no could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.no It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
 </pre>
 </div>
 <div>
