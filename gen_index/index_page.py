@@ -70,15 +70,21 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>""",
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
+empty_wide_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{hint:}">?</span></span>"""
 license_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{license:}">{licenseshort:}</span></span>"""
-for lic in ("CC BY-NC-SA 2.5","CC BY-NC-SA 3.0","CC BY-NC-SA 3.0 US","CC BY-NC-SA 4.0"):
-    categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license"  src="logos/by-nc-sa.svg"/>""")
-for lic in ("GNU GPL Version 2","GPL","GPL 3.0"):
-    categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/gpl.svg"/>""")
-for lic in ("CC BY-SA 4.0","CC BY-SA 3.0"):
-    categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by-sa.svg"/>""")
-for lic in ("CC BY 4.0",):
-    categories[(u"License",lic)]=license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
+def get_license_span(lic):
+    if "CC BY-NC-SA" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license"  src="logos/by-nc-sa.svg"/>""")
+    elif "CC BY-SA" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by-sa.svg"/>""")
+    elif "CC BY" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
+    elif "GPL" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/gpl.svg"/>""")
+    else:
+        return license_span.format(license=lic,licenseshort=""" """)
+
+
 
 valueRe=re.compile(u"^([a-zA-Z ]+): ([A-Za-z0-9+. -]+)$")
 #known_cats=set(cat for cat,val in categories)
@@ -147,8 +153,9 @@ def gen_table(args):
         print >> a_data, get_column_icons(corpus_data)
         readme_data=analyze_readme(os.path.join(args.ud_data,"UD_"+l))
         print >> sys.stderr, l
-        for c in (u"Documentation status", u"Data source", u"Data available since", u"License"):
-            print >> a_data, categories[c,readme_data[c]]
+        for c in (u"Documentation status", u"Data source", u"Data available since"):
+            print >> a_data, categories.get((c,readme_data[c]),empty_wide_span.format(hint=readme_data[c]))
+        print >> a_data, get_license_span(readme_data[u"License"])
         print >> a_data, get_genre_span(readme_data["Genre"])
         print >> a_data, "</div>"
         print >> a_data, "<div>"
