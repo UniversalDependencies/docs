@@ -18,6 +18,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [French](fr-dep/acl:relcl),
 [German](de-dep/acl:relcl),
 [Italian](it-dep/acl:relcl),
+[Norwegian](no-dep/acl:relcl),
 [Spanish](es-dep/acl:relcl),
 [Swedish](sv-dep/acl:relcl)
 
@@ -57,6 +58,7 @@ Labels of language-specific relations explictly encode the core UD relation that
 [English](en-dep/compound:prt),
 [Estonian](et-dep/compound:prt),
 [German](de-dep/compound:prt),
+[Norwegian](no-dep/compound:prt),
 [Swedish](sv-dep/compound:prt),
 [Tamil](ta-dep/compound:prt)
 
