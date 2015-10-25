@@ -575,7 +575,10 @@ proper noun, for example in <em>the Yellow Pages</em>, <em>United Airlines</em> 
 <em>Thrall Manufacturing Company</em>.  This is certainly the practice for
 the English Penn Treebank tag set.</p>
 
-<p>Acronyms of proper nouns, such as <em>UN</em> and <em>NATO</em>, should be tagged <code>PROPN</code>.</p>
+<p>Acronyms of proper nouns, such as <em>UN</em> and <em>NATO</em>, should be tagged <code>PROPN</code>.
+Even if they contain numbers (as in various product names), they are tagged <code>PROPN</code> and not <a href="">SYM</a>:
+<em>130XE</em>, <em>DC10</em>, <em>DC-10</em>.
+However, if the token consists entirely of digits (like <em>7</em> in <em>Windows 7</em>), it is tagged <a href="">NUM</a>.</p>
 
 <h3 id="examples">Examples</h3>
 
