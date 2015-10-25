@@ -8,6 +8,12 @@ title:  'Language-specific features'
 The following features are included in the <a href="u/feat/index.html">universal set</a>, but some values are missing there.
 It is likely that these values will be included in future versions of the universal set.
 
+## Aspect
+* [u-feat/Aspect]()` = Freq`: frequentative aspect in [Hungarian](hu-feat/Aspect): _üt_ “hit” – _ütöget_ “hit several times”
+
+## Definite
+* [u-feat/Definite]()` = 2`: definiteness-like agreement of verbs with a second person object in [Hungarian](hu-feat/Definite). Hungarian verbs have to be conjugated in harmony with the definiteness of the object, making a difference between a definite object (_nézem a filmet_ “I am watching the film”), an indefinite object (_nézek egy filmet_ “I am watching a film”) and a second person object (_nézlek téged_ “I am watching you”).
+
 ## Degree
 * [u-feat/Degree]()` = Dim`: diminutive (used for nouns e.g. in [Dutch](nl-feat/Degree): _stoeltje, huisje, nippertje_)
 
