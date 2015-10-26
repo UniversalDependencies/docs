@@ -1,0 +1,238 @@
+[
+  {
+    "lang_code": "am", 
+    "contributors": [], 
+    "lang_name": "Amharic"
+  }, 
+  {
+    "lang_code": "grc", 
+    "contributors": [], 
+    "lang_name": "Ancient_Greek"
+  }, 
+  {
+    "lang_code": "grc_proiel", 
+    "contributors": [], 
+    "lang_name": "Ancient_Greek-PROIEL"
+  }, 
+  {
+    "lang_code": "ar", 
+    "contributors": [], 
+    "lang_name": "Arabic"
+  }, 
+  {
+    "lang_code": "eu", 
+    "contributors": [], 
+    "lang_name": "Basque"
+  }, 
+  {
+    "lang_code": "bg", 
+    "contributors": [], 
+    "lang_name": "Bulgarian"
+  }, 
+  {
+    "lang_code": "ca", 
+    "contributors": [], 
+    "lang_name": "Catalan"
+  }, 
+  {
+    "lang_code": "hr", 
+    "contributors": [], 
+    "lang_name": "Croatian"
+  }, 
+  {
+    "lang_code": "cs", 
+    "contributors": [], 
+    "lang_name": "Czech"
+  }, 
+  {
+    "lang_code": "da", 
+    "contributors": [], 
+    "lang_name": "Danish"
+  }, 
+  {
+    "lang_code": "nl", 
+    "contributors": [], 
+    "lang_name": "Dutch"
+  }, 
+  {
+    "lang_code": "en", 
+    "contributors": [], 
+    "lang_name": "English"
+  }, 
+  {
+    "lang_code": "et", 
+    "contributors": [], 
+    "lang_name": "Estonian"
+  }, 
+  {
+    "lang_code": "fi", 
+    "contributors": [
+      {
+        "full": "Filip Ginter", 
+        "last": "Ginter", 
+        "first": "Filip"
+      }, 
+      {
+        "full": "Jenna Kanerva", 
+        "last": "Kanerva", 
+        "first": "Jenna"
+      }, 
+      {
+        "full": "Veronika Laippala", 
+        "last": "Laippala", 
+        "first": "Veronika"
+      }, 
+      {
+        "full": "Anna Missil\u00e4", 
+        "last": "Missil\u00e4", 
+        "first": "Anna"
+      }, 
+      {
+        "full": "Sampo Pyysalo", 
+        "last": "Pyysalo", 
+        "first": "Sampo"
+      }
+    ], 
+    "lang_name": "Finnish"
+  }, 
+  {
+    "lang_code": "fi_ftb", 
+    "contributors": [], 
+    "lang_name": "Finnish-FTB"
+  }, 
+  {
+    "lang_code": "fr", 
+    "contributors": [], 
+    "lang_name": "French"
+  }, 
+  {
+    "lang_code": "de", 
+    "contributors": [], 
+    "lang_name": "German"
+  }, 
+  {
+    "lang_code": "got", 
+    "contributors": [], 
+    "lang_name": "Gothic"
+  }, 
+  {
+    "lang_code": "el", 
+    "contributors": [], 
+    "lang_name": "Greek"
+  }, 
+  {
+    "lang_code": "he", 
+    "contributors": [], 
+    "lang_name": "Hebrew"
+  }, 
+  {
+    "lang_code": "hi", 
+    "contributors": [], 
+    "lang_name": "Hindi"
+  }, 
+  {
+    "lang_code": "hu", 
+    "contributors": [], 
+    "lang_name": "Hungarian"
+  }, 
+  {
+    "lang_code": "id", 
+    "contributors": [], 
+    "lang_name": "Indonesian"
+  }, 
+  {
+    "lang_code": "ga", 
+    "contributors": [], 
+    "lang_name": "Irish"
+  }, 
+  {
+    "lang_code": "it", 
+    "contributors": [], 
+    "lang_name": "Italian"
+  }, 
+  {
+    "lang_code": "ja", 
+    "contributors": [], 
+    "lang_name": "Japanese"
+  }, 
+  {
+    "lang_code": "kk", 
+    "contributors": [], 
+    "lang_name": "Kazakh"
+  }, 
+  {
+    "lang_code": "ko", 
+    "contributors": [], 
+    "lang_name": "Korean"
+  }, 
+  {
+    "lang_code": "la", 
+    "contributors": [], 
+    "lang_name": "Latin"
+  }, 
+  {
+    "lang_code": "la_itt", 
+    "contributors": [], 
+    "lang_name": "Latin-ITT"
+  }, 
+  {
+    "lang_code": "la_proiel", 
+    "contributors": [], 
+    "lang_name": "Latin-PROIEL"
+  }, 
+  {
+    "lang_code": "no", 
+    "contributors": [], 
+    "lang_name": "Norwegian"
+  }, 
+  {
+    "lang_code": "cu", 
+    "contributors": [], 
+    "lang_name": "Old_Church_Slavonic"
+  }, 
+  {
+    "lang_code": "fa", 
+    "contributors": [], 
+    "lang_name": "Persian"
+  }, 
+  {
+    "lang_code": "pl", 
+    "contributors": [], 
+    "lang_name": "Polish"
+  }, 
+  {
+    "lang_code": "pt", 
+    "contributors": [], 
+    "lang_name": "Portuguese"
+  }, 
+  {
+    "lang_code": "ro", 
+    "contributors": [], 
+    "lang_name": "Romanian"
+  }, 
+  {
+    "lang_code": "sl", 
+    "contributors": [], 
+    "lang_name": "Slovenian"
+  }, 
+  {
+    "lang_code": "es", 
+    "contributors": [], 
+    "lang_name": "Spanish"
+  }, 
+  {
+    "lang_code": "sv", 
+    "contributors": [], 
+    "lang_name": "Swedish"
+  }, 
+  {
+    "lang_code": "ta", 
+    "contributors": [], 
+    "lang_name": "Tamil"
+  }, 
+  {
+    "lang_code": "tr", 
+    "contributors": [], 
+    "lang_name": "Turkish"
+  }
+]

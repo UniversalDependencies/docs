@@ -86,10 +86,10 @@ def get_license_span(lic):
 
 
 
-valueRe=re.compile(u"^([a-zA-Z ]+): ([A-Za-z0-9+. -]+)$")
+valueRe=re.compile(u"^([a-zA-Z ]+): (.+)$")
 #known_cats=set(cat for cat,val in categories)
 def analyze_readme(dir_name):
-    readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none", u"Genre":u"none"}
+    readme_data={u"Documentation status":u"stub",u"Data source":u"automatic conversion",u"License":u"none",u"Data available since":u"none", u"Genre":u"none",u"Contributors":u""}
     readmes=sorted(x for x in glob.glob(os.path.join(dir_name,"*")) if "readme" in x.lower())
     if not readmes: #No readme file!
         return readme_data
@@ -132,7 +132,10 @@ def get_genre_span(genres):
     return """<span class="doublewidespan"><span class="hint--top hint--info" data-hint="%s">%s</span></span>"""%(genres,spans)
             
 
+
 def gen_table(args):
+
+    jekyll_data=[] #this will go to jekyll then as data
     
     a_data=StringIO.StringIO()
     print >> a_data, "<!-- content of _includes/at_glance.html -->"
@@ -161,13 +164,33 @@ def gen_table(args):
         print >> a_data, "<div>"
         print >> a_data, link_template.format(**corpus_data)
         print >> a_data, "</div>"
-    return a_data
+        
+        ldict={}
+        ldict[u"lang_name"]=corpus_data[u"lang_name"]
+        ldict[u"lang_code"]=corpus_data[u"lang_code"]
+        ldict[u"contributors"]=[]
+        if readme_data["Contributors"].strip():
+            for c in readme_data["Contributors"].strip().split(u";"):
+                c=c.strip()
+                lf=c.split(u",",1)
+                if len(lf)==2:
+                    ldict[u"contributors"].append({u"last":lf[0].strip(),u"first":lf[1].strip(), u"full":lf[1].strip()+u" "+lf[0].strip()})
+                else:
+                    ldict[u"contributors"].append({u"last":c,u"first":u"?",u"full":c})
+        jekyll_data.append(ldict)
+    return a_data,jekyll_data
 
 if __name__=="__main__":
     import argparse
     parser = argparse.ArgumentParser(description='generates the index page')
     parser.add_argument('--ud-data', required=True, help='Where is the UD data, so I can grab the readmes? (DIRECTORY)')
+    parser.add_argument('--ldict', default="../_data/ldata.json", help='Where to write the language dict file? (Default %(default)s)')
     args = parser.parse_args()
     
-    a_data=gen_table(args)
+    a_data,ldict=gen_table(args)
     print a_data.getvalue()
+    if args.ldict:
+        with open(args.ldict,"w") as out:
+            json.dump(ldict,out,indent=2)
+
+    
