@@ -64,6 +64,10 @@ See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsal
 
 For [contributors](contributors.html): automatic validation run results prior to the v1.2 release can be accessed [here](validation.html).
 
+# November release checklist (for contributors)
+
+The data freeze deadline for the next release is 1.11.2015. Please upload your data to the language repositories as soon as possible. It is also very important you follow the steps in the [release checklist](release_checklist.html) and make sure your data shows as validating in the [automatic validation runs](validation.html) and also that the [language metadata](language_metadata.html) is correctly encoded in the readme file.
+
 # Contribute
 
 [How to contribute](contributing.html). Also please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
