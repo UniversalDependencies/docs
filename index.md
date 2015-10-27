@@ -62,7 +62,7 @@ If you want to receive news about Universal Dependencies, you can subscribe to
 the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 See also the [list of open issues](issues.html) for the [Uppsala meeting](uppsala.html).
 
-For contributors: automatic validation run results prior to the v1.2 release can be accessed [here](validation.html).
+For [contributors](contributors.html): automatic validation run results prior to the v1.2 release can be accessed [here](validation.html).
 
 # Contribute
 
