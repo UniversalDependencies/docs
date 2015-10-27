@@ -41,7 +41,18 @@
   }, 
   {
     "lang_code": "cs", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Jan Haji\u010d", 
+        "last": "Haji\u010d", 
+        "first": "Jan"
+      }
+    ], 
     "lang_name": "Czech"
   }, 
   {
@@ -172,7 +183,18 @@
   }, 
   {
     "lang_code": "la_itt", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Marco Passarotti", 
+        "last": "Passarotti", 
+        "first": "Marco"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Latin-ITT"
   }, 
   {
