@@ -174,7 +174,18 @@
   }, 
   {
     "lang_code": "fi_ftb", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Jussi Piitulainen", 
+        "last": "Piitulainen", 
+        "first": "Jussi"
+      }, 
+      {
+        "full": "Hanna Nurmi", 
+        "last": "Nurmi", 
+        "first": "Hanna"
+      }
+    ], 
     "lang_name": "Finnish-FTB"
   }, 
   {
