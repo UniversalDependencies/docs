@@ -69,7 +69,18 @@
   }, 
   {
     "lang_code": "hr", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "\u017deljko Agi\u0107", 
+        "last": "Agi\u0107", 
+        "first": "\u017deljko"
+      }, 
+      {
+        "full": "Nikola Ljube\u0161i\u0107", 
+        "last": "Ljube\u0161i\u0107", 
+        "first": "Nikola"
+      }
+    ], 
     "lang_name": "Croatian"
   }, 
   {
@@ -201,9 +212,9 @@
     "lang_code": "hi", 
     "contributors": [
       {
-        "full": "Riyaz Ahmad", 
-        "last": "Ahmad", 
-        "first": "Riyaz"
+        "full": "Riyaz Ahmad Bhat", 
+        "last": "Bhat", 
+        "first": "Riyaz Ahmad"
       }, 
       {
         "full": "Daniel Zeman", 
@@ -333,6 +344,11 @@
         "full": "Martin Popel", 
         "last": "Popel", 
         "first": "Martin"
+      }, 
+      {
+        "full": "David Mare\u010dek", 
+        "last": "Mare\u010dek", 
+        "first": "David"
       }
     ], 
     "lang_name": "Portuguese"
