@@ -6,7 +6,18 @@
   }, 
   {
     "lang_code": "grc", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Giuseppe G. A. Celano", 
+        "last": "Celano", 
+        "first": "Giuseppe G. A."
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Ancient_Greek"
   }, 
   {
@@ -16,7 +27,23 @@
   }, 
   {
     "lang_code": "ar", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Zden\u011bk \u017dabokrtsk\u00fd", 
+        "last": "\u017dabokrtsk\u00fd", 
+        "first": "Zden\u011bk"
+      }, 
+      {
+        "full": "Shadi Saleh", 
+        "last": "Saleh", 
+        "first": "Shadi"
+      }
+    ], 
     "lang_name": "Arabic"
   }, 
   {
@@ -31,7 +58,13 @@
   }, 
   {
     "lang_code": "ca", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Elena Pascual", 
+        "last": "Pascual", 
+        "first": "Elena"
+      }
+    ], 
     "lang_name": "Catalan"
   }, 
   {
@@ -62,7 +95,18 @@
   }, 
   {
     "lang_code": "nl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Zden\u011bk \u017dabokrtsk\u00fd", 
+        "last": "\u017dabokrtsk\u00fd", 
+        "first": "Zden\u011bk"
+      }
+    ], 
     "lang_name": "Dutch"
   }, 
   {
@@ -72,7 +116,18 @@
   }, 
   {
     "lang_code": "et", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Jan \u0160t\u011bp\u00e1nek", 
+        "last": "\u0160t\u011bp\u00e1nek", 
+        "first": "Jan"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Estonian"
   }, 
   {
@@ -138,7 +193,18 @@
   }, 
   {
     "lang_code": "hi", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Riyaz Ahmad", 
+        "last": "Ahmad", 
+        "first": "Riyaz"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Hindi"
   }, 
   {
@@ -178,7 +244,18 @@
   }, 
   {
     "lang_code": "la", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Giuseppe G. A. Celano", 
+        "last": "Celano", 
+        "first": "Giuseppe G. A."
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Latin"
   }, 
   {
@@ -219,12 +296,39 @@
   }, 
   {
     "lang_code": "pl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Jan Ma\u0161ek", 
+        "last": "Ma\u0161ek", 
+        "first": "Jan"
+      }, 
+      {
+        "full": "Rudolf Rosa", 
+        "last": "Rosa", 
+        "first": "Rudolf"
+      }
+    ], 
     "lang_name": "Polish"
   }, 
   {
     "lang_code": "pt", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Martin Popel", 
+        "last": "Popel", 
+        "first": "Martin"
+      }
+    ], 
     "lang_name": "Portuguese"
   }, 
   {
@@ -239,7 +343,33 @@
   }, 
   {
     "lang_code": "es", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Miguel Ballesteros", 
+        "last": "Ballesteros", 
+        "first": "Miguel"
+      }, 
+      {
+        "full": "H\u00e9ctor Mart\u00ednez Alonso", 
+        "last": "Mart\u00ednez Alonso", 
+        "first": "H\u00e9ctor"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Elena Pascual", 
+        "last": "Pascual", 
+        "first": "Elena"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Spanish"
   }, 
   {
@@ -249,7 +379,18 @@
   }, 
   {
     "lang_code": "ta", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Loganathan Ramasamy", 
+        "last": "Ramasamy", 
+        "first": "Loganathan"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
     "lang_name": "Tamil"
   }, 
   {
