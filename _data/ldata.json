@@ -183,7 +183,13 @@
   }, 
   {
     "lang_code": "el", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Prokopis Prokopidis", 
+        "last": "Prokopidis", 
+        "first": "Prokopis"
+      }
+    ], 
     "lang_name": "Greek"
   }, 
   {
@@ -338,7 +344,23 @@
   }, 
   {
     "lang_code": "sl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Kaja Dobrovoljc", 
+        "last": "Dobrovoljc", 
+        "first": "Kaja"
+      }, 
+      {
+        "full": "Toma\u017e Erjavec", 
+        "last": "Erjavec", 
+        "first": "Toma\u017e"
+      }, 
+      {
+        "full": "Simon Krek", 
+        "last": "Krek", 
+        "first": "Simon"
+      }
+    ], 
     "lang_name": "Slovenian"
   }, 
   {
