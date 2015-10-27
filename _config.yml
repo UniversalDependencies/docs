@@ -553,6 +553,20 @@ collections:
   got-overview:
     output: true
 #
+# Japanese
+#
+  jp-pos:
+    output: true
+    permalink: /jp/pos/:path.html
+  jp-feat:
+    output: true
+    permalink: /jp/feat/:path.html
+  jp-dep:
+    output: true
+    permalink: /jp/dep/:path.html
+  jp-overview:
+    output: true
+#
 # Template
 #
   template-pos:
