@@ -314,7 +314,13 @@
   }, 
   {
     "lang_code": "cu", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Dag Haug", 
+        "last": "Haug", 
+        "first": "Dag"
+      }
+    ], 
     "lang_name": "Old_Church_Slavonic"
   }, 
   {
