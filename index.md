@@ -66,7 +66,7 @@ For [contributors](contributors.html): automatic validation run results prior to
 
 # November release checklist (for contributors)
 
-The data freeze deadline for the next release is 1.11.2015. Please upload your data to the language repositories as soon as possible. It is also very important you follow the steps in the [release checklist](release_checklist.html) and make sure your data shows as validating in the [automatic validation runs](validation.html) and also that the [language metadata](language_metadata.html) is correctly encoded in the readme file.
+The data freeze deadline for the next release is 1.11.2015. Please upload your data to the language repositories as soon as possible. It is also very important you follow the steps in the [release checklist](release_checklist.html) and make sure your data shows as validating in the [automatic validation runs](validation.html) and also that the [language metadata](language_metadata.html) is correctly encoded in the readme file and that the [list of contributors](contributors.html) is correct - this is gathered from the metadata in the readme.
 
 # Contribute
 
