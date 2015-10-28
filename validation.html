@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-wed-28-oct-2015-002801-0200">Validation status as of Wed, 28 Oct 2015 00:28:01 +0200</h1>
+          <h1 id="validation-status-as-of-wed-28-oct-2015-022753-0200">Validation status as of Wed, 28 Oct 2015 02:27:53 +0200</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -357,34 +357,70 @@ python /home/ginter/UD/tools/validate.py --lang nl /home/ginter/UD/UD_Dutch/nl-u
 <div>
 <span class="doublewidespan" style="padding-left:3em">English</span>
 <span class="widespan">en</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-dev.conllu
 
-*** PASSED ***
+[Line                   26]: The line has 9 columns, but 10 are expected.
+Traceback (most recent call last):
+  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
+    validate(inp,out,args,tagsets)
+  File "/home/ginter/UD/tools/validate.py", line 398, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "/home/ginter/UD/tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-test.conllu
 
-*** PASSED ***
+[Line                   6]: The line has 9 columns, but 10 are expected.
+Traceback (most recent call last):
+  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
+    validate(inp,out,args,tagsets)
+  File "/home/ginter/UD/tools/validate.py", line 398, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "/home/ginter/UD/tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-train.conllu
 
-*** PASSED ***
+[Line                   1]: The line has 9 columns, but 10 are expected.
+Traceback (most recent call last):
+  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
+    validate(inp,out,args,tagsets)
+  File "/home/ginter/UD/tools/validate.py", line 398, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "/home/ginter/UD/tools/validate.py", line 85, in trees
+    validate_cols(cols,tag_sets,args)
+  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
+    validate_whitespace(cols)
+  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
 
 
 ******************
 
 
-</pre>
-</div>
+
+
 <div>
 <span class="doublewidespan" style="padding-left:3em">Estonian</span>
 <span class="widespan">et</span>
@@ -1329,8 +1365,9 @@ python /home/ginter/UD/tools/validate.py --lang ta /home/ginter/UD/UD_Tamil/ta-u
 </div>
 
 
-</div>
 
+
+</module></module></module></pre></div></div>
 
 
       </div>
