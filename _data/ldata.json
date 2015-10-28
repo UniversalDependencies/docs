@@ -22,7 +22,13 @@
   }, 
   {
     "lang_code": "grc_proiel", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Dag Haug", 
+        "last": "Haug", 
+        "first": "Dag"
+      }
+    ], 
     "lang_name": "Ancient_Greek-PROIEL"
   }, 
   {
@@ -200,7 +206,13 @@
   }, 
   {
     "lang_code": "got", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Dag Haug", 
+        "last": "Haug", 
+        "first": "Dag"
+      }
+    ], 
     "lang_name": "Gothic"
   }, 
   {
@@ -304,7 +316,13 @@
   }, 
   {
     "lang_code": "la_proiel", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Dag Haug", 
+        "last": "Haug", 
+        "first": "Dag"
+      }
+    ], 
     "lang_name": "Latin-PROIEL"
   }, 
   {
