@@ -303,63 +303,27 @@ python /home/ginter/UD/tools/validate.py --lang nl /home/ginter/UD/UD_Dutch/nl-u
 <div>
 <span class="doublewidespan" style="padding-left:3em">English</span>
 <span class="widespan">en</span>
-<span class="validationfail">FAIL</span>
+<span class="validationpass">PASS</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-dev.conllu
 
-[Line                   26]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
-    validate(inp,out,args,tagsets)
-  File "/home/ginter/UD/tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "/home/ginter/UD/tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-test.conllu
 
-[Line                   6]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
-    validate(inp,out,args,tagsets)
-  File "/home/ginter/UD/tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "/home/ginter/UD/tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang en /home/ginter/UD/UD_English/en-ud-train.conllu
 
-[Line                   1]: The line has 9 columns, but 10 are expected.
-Traceback (most recent call last):
-  File "/home/ginter/UD/tools/validate.py", line 478, in <module>
-    validate(inp,out,args,tagsets)
-  File "/home/ginter/UD/tools/validate.py", line 398, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "/home/ginter/UD/tools/validate.py", line 85, in trees
-    validate_cols(cols,tag_sets,args)
-  File "/home/ginter/UD/tools/validate.py", line 100, in validate_cols
-    validate_whitespace(cols)
-  File "/home/ginter/UD/tools/validate.py", line 115, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+*** PASSED ***
 
 
 ******************
