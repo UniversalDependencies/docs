@@ -196,7 +196,28 @@
   }, 
   {
     "lang_code": "fr", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Marie-Catherine de Marneffe", 
+        "last": "de Marneffe", 
+        "first": "Marie-Catherine"
+      }, 
+      {
+        "full": "Bruno Guillaume", 
+        "last": "Guillaume", 
+        "first": "Bruno"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Alane Suhr", 
+        "last": "Suhr", 
+        "first": "Alane"
+      }
+    ], 
     "lang_name": "French"
   }, 
   {
