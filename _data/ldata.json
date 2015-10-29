@@ -290,7 +290,43 @@
   }, 
   {
     "lang_code": "jp_ktc", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Masayuki Asahara", 
+        "last": "Asahara", 
+        "first": "Masayuki"
+      }, 
+      {
+        "full": "Hiroshi Kanayama", 
+        "last": "Kanayama", 
+        "first": "Hiroshi"
+      }, 
+      {
+        "full": "Yuji Matsumoto", 
+        "last": "Matsumoto", 
+        "first": "Yuji"
+      }, 
+      {
+        "full": "Yusuke Miyao", 
+        "last": "Miyao", 
+        "first": "Yusuke"
+      }, 
+      {
+        "full": "Shunsuke Mori", 
+        "last": "Mori", 
+        "first": "Shunsuke"
+      }, 
+      {
+        "full": "Takaaki Tanaka", 
+        "last": "Tanaka", 
+        "first": "Takaaki"
+      }, 
+      {
+        "full": "Sumire Uematsu", 
+        "last": "Uematsu", 
+        "first": "Sumire"
+      }
+    ], 
     "lang_name": "Japanese-KTC"
   }, 
   {
