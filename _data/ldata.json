@@ -384,7 +384,13 @@
   }, 
   {
     "lang_code": "no", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Lilja \u00d8vrelid", 
+        "last": "\u00d8vrelid", 
+        "first": "Lilja"
+      }
+    ], 
     "lang_name": "Norwegian"
   }, 
   {
@@ -400,23 +406,7 @@
   }, 
   {
     "lang_code": "fa", 
-    "contributors": [
-      {
-        "full": "Mojgan Seraji", 
-        "last": "Seraji", 
-        "first": "Mojgan"
-      }, 
-      {
-        "full": "Filip Ginter", 
-        "last": "Ginter", 
-        "first": "Filip"
-      }, 
-      {
-        "full": "Joakim Nivre", 
-        "last": "Nivre", 
-        "first": "Joakim"
-      }
-    ], 
+    "contributors": [], 
     "lang_name": "Persian"
   }, 
   {
