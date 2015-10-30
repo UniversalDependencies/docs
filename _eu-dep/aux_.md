@@ -11,6 +11,7 @@ The `aux` relation occurs between a verb and and auxiliary. In general, Basque v
  
  There are mainly two auxiliary lemmas *izan* corresponding to intransitives and *ukan* corresponding to transitives.
 
+Even if Basque word order is quite free, the auxiliary can only appear right after the verb in non-negative sentences, and right after the negation in negative sentences.
 
 * English (example of an intransitive):
 
