@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-fri-30-oct-2015-183332-0200">Validation status as of Fri, 30 Oct 2015 18:33:32 +0200</h1>
+          <h1 id="validation-status-as-of-fri-30-oct-2015-203326-0200">Validation status as of Fri, 30 Oct 2015 20:33:26 +0200</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -150,27 +150,52 @@ python /home/ginter/UD/tools/validate.py --lang ar /home/ginter/UD/UD_Arabic/ar-
 <div>
 <span class="doublewidespan" style="padding-left:3em">Basque</span>
 <span class="widespan">eu</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang eu /home/ginter/UD/UD_Basque/eu-ud-dev.conllu
 
-*** PASSED ***
+[Line                   6652]: Unknown attribute-value pair Degree=Asp
+[Line                   12213]: Unknown attribute-value pair Degree=Asp
+[Line                   12614]: Unknown attribute-value pair Degree=Asp
+[Line                   17017]: Unknown attribute-value pair Degree=Asp
+*** FAILED *** with 4 errors
+Morpho errors: 4
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang eu /home/ginter/UD/UD_Basque/eu-ud-test.conllu
 
-*** PASSED ***
+[Line                   4477]: Unknown attribute-value pair Degree=Asp
+[Line                   6849]: Unknown attribute-value pair Degree=Asp
+[Line                   6944]: Unknown attribute-value pair Degree=Asp
+[Line                   10969]: Unknown attribute-value pair Degree=Asp
+[Line                   11934]: Unknown attribute-value pair Degree=Asp
+*** FAILED *** with 5 errors
+Morpho errors: 5
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang eu /home/ginter/UD/UD_Basque/eu-ud-train.conllu
 
-*** PASSED ***
+[Line                   9271]: Unknown attribute-value pair Degree=Asp
+[Line                   9912]: Unknown attribute-value pair Degree=Asp
+[Line                   10535]: Unknown attribute-value pair Degree=Asp
+[Line                   13070]: Unknown attribute-value pair Degree=Asp
+[Line                   20490]: Unknown attribute-value pair Degree=Asp
+[Line                   32465]: Unknown attribute-value pair Degree=Asp
+[Line                   36420]: Unknown attribute-value pair Degree=Asp
+[Line                   36702]: Unknown attribute-value pair Degree=Asp
+[Line                   39293]: Unknown attribute-value pair Degree=Asp
+[Line                   40468]: Unknown attribute-value pair Degree=Asp
+[Line                   47124]: Unknown attribute-value pair Degree=Asp
+[Line                   47158]: Unknown attribute-value pair Degree=Asp
+[Line                   50391]: Unknown attribute-value pair Degree=Asp
+*** FAILED *** with 13 errors
+Morpho errors: 13
 
 
 ******************
