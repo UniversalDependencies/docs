@@ -54,7 +54,43 @@
   }, 
   {
     "lang_code": "eu", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Maria Jesus Aranzabe", 
+        "last": "Aranzabe", 
+        "first": "Maria Jesus"
+      }, 
+      {
+        "full": "Aitziber Atutxa", 
+        "last": "Atutxa", 
+        "first": "Aitziber"
+      }, 
+      {
+        "full": "Kepa Bengoetxea", 
+        "last": "Bengoetxea", 
+        "first": "Kepa"
+      }, 
+      {
+        "full": "Arantza Diaz de Ilarraza", 
+        "last": "Diaz de Ilarraza", 
+        "first": "Arantza"
+      }, 
+      {
+        "full": "Iakes Goenaga", 
+        "last": "Goenaga", 
+        "first": "Iakes"
+      }, 
+      {
+        "full": "Koldo Gojenola", 
+        "last": "Gojenola", 
+        "first": "Koldo"
+      }, 
+      {
+        "full": "Larraitz Uria", 
+        "last": "Uria", 
+        "first": "Larraitz"
+      }
+    ], 
     "lang_name": "Basque"
   }, 
   {
