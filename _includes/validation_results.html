@@ -1236,45 +1236,27 @@ python /home/ginter/UD/tools/validate.py --lang pt /home/ginter/UD/UD_Portuguese
 <div>
 <span class="doublewidespan" style="padding-left:3em">Romanian</span>
 <span class="widespan">ro</span>
-<span class="validationfail">FAIL</span>
+<span class="validationpass">PASS</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-dev.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/feat_val.ro could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.ro It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 1 errors
-Language specific data missing errors: 1
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-test.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/feat_val.ro could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.ro It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 1 errors
-Language specific data missing errors: 1
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-train.conllu
 
-[Tree number 0 on line 0]: The language-specific file data/feat_val.ro could not be found. Feature=value pairs will not be checked.
-Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.ro It's okay if the file is empty, but it must exist.
- 
-
-
-*** FAILED *** with 1 errors
-Language specific data missing errors: 1
+*** PASSED ***
 
 
 ******************
