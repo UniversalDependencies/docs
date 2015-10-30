@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-fri-30-oct-2015-023302-0200">Validation status as of Fri, 30 Oct 2015 02:33:02 +0200</h1>
+          <h1 id="validation-status-as-of-fri-30-oct-2015-043311-0200">Validation status as of Fri, 30 Oct 2015 04:33:11 +0200</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -892,11 +892,65 @@ python /home/ginter/UD/tools/validate.py --lang it /home/ginter/UD/UD_Italian/it
 <div>
 <span class="doublewidespan" style="padding-left:3em">Japanese-KTC</span>
 <span class="widespan">jp ktc</span>
-<span class="validationfail">NO DATA</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
-No data
+python /home/ginter/UD/tools/validate.py --lang jp_ktc /home/ginter/UD/UD_Japanese-KTC/ja_ktc-ud-dev.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.jp_ktc could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.jp_ktc
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.jp_ktc could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.jp_ktc It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang jp_ktc /home/ginter/UD/UD_Japanese-KTC/ja_ktc-ud-test.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.jp_ktc could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.jp_ktc
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.jp_ktc could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.jp_ktc It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+python /home/ginter/UD/tools/validate.py --lang jp_ktc /home/ginter/UD/UD_Japanese-KTC/ja_ktc-ud-train.conllu
+
+[Tree number 0 on line 0]: The language-specific file data/deprel.jp_ktc could not be found. Dependency relations will not be checked.
+Please add the language-specific dependency relations using python conllu-stats.py --deprels=langspec yourdata/*.conllu &gt; data/deprel.jp_ktc
+ Also please check that file for errorneous relations. It's okay if the file is empty, but it must exist.
+
+
+[Tree number 0 on line 0]: The language-specific file data/feat_val.jp_ktc could not be found. Feature=value pairs will not be checked.
+Please add the language-specific pairs using python conllu-stats.py --catvals=langspec yourdata/*.conllu &gt; data/feat_val.jp_ktc It's okay if the file is empty, but it must exist.
+ 
+
+
+*** FAILED *** with 2 errors
+Language specific data missing errors: 2
+
+
+******************
+
+
 </pre>
 </div>
 <div>
