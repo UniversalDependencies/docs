@@ -7,13 +7,9 @@ shortdef: 'adjectival modifier'
 Nouns may take adjectival modifiers, which are marked with the
 dependency type `amod`. Most of the adjectives appear after the noun they modify, though some of them may appear before.
 
-* English:
+* English: The change has caused huge discussions . 
 
-The change has caused huge discussions . 
-
-* Basque:
-
-Eztabaida handiak sortu ditu aldaketak .
+* Basque: Eztabaida handiak sortu ditu aldaketak .
 
 *Discussion huge-pl cause aux-trans-present change-erg.*
 
@@ -27,13 +23,9 @@ nsubj(sortu-3, aldaketak-5)
 ~~~
 
 
-* English:
+* English: Derartu Tulu made the last 400 meters in one minute . 
 
-Derartu Tulu made the last 400 meters in one minute . 
-
-* Basque:
-
-Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk .
+* Basque: Azkeneko 400 metroak minutu batean osatu zituen Derartu Tuluk .
 
 *Last 400 meters minute one make aux-trans-past Derartu Tulu-erg.*
 
