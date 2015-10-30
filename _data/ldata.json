@@ -280,7 +280,18 @@
   }, 
   {
     "lang_code": "ga", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Teresa Lynn", 
+        "last": "Lynn", 
+        "first": "Teresa"
+      }, 
+      {
+        "full": "Jennifer Foster", 
+        "last": "Foster", 
+        "first": "Jennifer"
+      }
+    ], 
     "lang_name": "Irish"
   }, 
   {
