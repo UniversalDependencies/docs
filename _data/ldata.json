@@ -464,7 +464,38 @@
   }, 
   {
     "lang_code": "ro", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Verginica Mititelu", 
+        "last": "Mititelu", 
+        "first": "Verginica"
+      }, 
+      {
+        "full": "Elena Irimia", 
+        "last": "Irimia", 
+        "first": "Elena"
+      }, 
+      {
+        "full": "Cenel-Augusto Perez", 
+        "last": "Perez", 
+        "first": "Cenel-Augusto"
+      }, 
+      {
+        "full": "Radu Ion", 
+        "last": "Ion", 
+        "first": "Radu"
+      }, 
+      {
+        "full": "Radu Simionescu", 
+        "last": "Simionescu", 
+        "first": "Radu"
+      }, 
+      {
+        "full": "Catalina Maranduc", 
+        "last": "Maranduc", 
+        "first": "Catalina"
+      }
+    ], 
     "lang_name": "Romanian"
   }, 
   {
