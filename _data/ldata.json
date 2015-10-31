@@ -588,7 +588,18 @@
   }, 
   {
     "lang_code": "sv", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }, 
+      {
+        "full": "Aaron Smith", 
+        "last": "Smith", 
+        "first": "Aaron"
+      }
+    ], 
     "lang_name": "Swedish"
   }, 
   {
