@@ -143,7 +143,23 @@
   }, 
   {
     "lang_code": "da", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Anders Johannsen", 
+        "last": "Johannsen", 
+        "first": "Anders"
+      }, 
+      {
+        "full": "H\u00e9ctor Mart\u00ednez Alonso", 
+        "last": "Mart\u00ednez Alonso", 
+        "first": "H\u00e9ctor"
+      }, 
+      {
+        "full": "Barbara Plank", 
+        "last": "Plank", 
+        "first": "Barbara"
+      }
+    ], 
     "lang_name": "Danish"
   }, 
   {
@@ -608,6 +624,11 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Natalia Silveira", 
+        "last": "Silveira", 
+        "first": "Natalia"
       }
     ], 
     "lang_name": "Spanish"
