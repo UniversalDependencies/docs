@@ -306,7 +306,33 @@
   }, 
   {
     "lang_code": "hu", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Rich\u00e1rd Farkas", 
+        "last": "Farkas", 
+        "first": "Rich\u00e1rd"
+      }, 
+      {
+        "full": "Katalin Simk\u00f3", 
+        "last": "Simk\u00f3", 
+        "first": "Katalin"
+      }, 
+      {
+        "full": "Zsolt Sz\u00e1nt\u00f3", 
+        "last": "Sz\u00e1nt\u00f3", 
+        "first": "Zsolt"
+      }, 
+      {
+        "full": "Viktor Varga", 
+        "last": "Varga", 
+        "first": "Viktor"
+      }, 
+      {
+        "full": "Veronika Vincze", 
+        "last": "Vincze", 
+        "first": "Veronika"
+      }
+    ], 
     "lang_name": "Hungarian"
   }, 
   {
