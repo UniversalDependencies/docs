@@ -36,7 +36,7 @@
 	  </div>
 	</noscript>
 
-          <h1 id="validation-status-as-of-sat-31-oct-2015-143350-0200">Validation status as of Sat, 31 Oct 2015 14:33:50 +0200</h1>
+          <h1 id="validation-status-as-of-sat-31-oct-2015-163323-0200">Validation status as of Sat, 31 Oct 2015 16:33:23 +0200</h1>
 
 <p>This page is automatically generated and contains validation runs for
 the data of all languages which have been marked for the November 2015
@@ -762,28 +762,7 @@ python /home/ginter/UD/tools/validate.py --lang hi /home/ginter/UD/UD_Hindi/hi-u
 python /home/ginter/UD/tools/validate.py --lang hu /home/ginter/UD/UD_Hungarian/hu-ud-dev.conllu
 
 [Tree number 0 on line 0]: Spurious language-specific relation 'ne:hu' - not an extension of any UD relation.
-[Line                   32]: Unknown attribute-value pair VerbForm=None
-[Line                   37]: Unknown attribute-value pair VerbForm=None
-[Line                   42]: Unknown attribute-value pair VerbForm=None
-[Line                   46]: Unknown attribute-value pair Aspect=Mod
-[Line                   54]: Unknown attribute-value pair VerbForm=None
-[Line                   55]: Unknown attribute-value pair VerbForm=None
-[Line                   65]: Unknown attribute-value pair VerbForm=None
-[Line                   66]: Unknown attribute-value pair VerbForm=None
-[Line                   68]: Unknown attribute-value pair Aspect=Mod
-[Line                   73]: Unknown attribute-value pair VerbForm=None
-[Line                   75]: Unknown attribute-value pair VerbForm=None
-[Line                   77]: Unknown attribute-value pair Aspect=Mod
-[Line                   81]: Unknown attribute-value pair VerbForm=None
-[Line                   94]: Unknown attribute-value pair VerbForm=None
-[Line                   96]: Unknown attribute-value pair VerbForm=None
-[Line                   103]: Unknown attribute-value pair VerbForm=None
-[Line                   113]: Unknown attribute-value pair VerbForm=None
-[Line                   117]: Unknown attribute-value pair VerbForm=None
-[Line                   129]: Unknown attribute-value pair VerbForm=None
-...suppressing further errors regarding Morpho
-*** FAILED *** with 304 errors
-Morpho errors: 303
+*** FAILED *** with 1 errors
 Syntax errors: 1
 
 
@@ -792,28 +771,7 @@ Syntax errors: 1
 python /home/ginter/UD/tools/validate.py --lang hu /home/ginter/UD/UD_Hungarian/hu-ud-test.conllu
 
 [Tree number 0 on line 0]: Spurious language-specific relation 'ne:hu' - not an extension of any UD relation.
-[Line                   35]: Unknown attribute-value pair VerbForm=None
-[Line                   63]: Unknown attribute-value pair VerbForm=None
-[Line                   77]: Unknown attribute-value pair VerbForm=None
-[Line                   78]: Unknown attribute-value pair VerbForm=None
-[Line                   90]: Unknown attribute-value pair VerbForm=None
-[Line                   106]: Unknown attribute-value pair VerbForm=None
-[Line                   107]: Unknown attribute-value pair Aspect=Mod
-[Line                   117]: Unknown attribute-value pair VerbForm=None
-[Line                   158]: Unknown attribute-value pair VerbForm=None
-[Line                   159]: Unknown attribute-value pair VerbForm=None
-[Line                   171]: Unknown attribute-value pair VerbForm=None
-[Line                   176]: Unknown attribute-value pair VerbForm=None
-[Line                   184]: Unknown attribute-value pair VerbForm=None
-[Line                   190]: Unknown attribute-value pair VerbForm=None
-[Line                   197]: Unknown attribute-value pair VerbForm=None
-[Line                   213]: Unknown attribute-value pair VerbForm=None
-[Line                   215]: Unknown attribute-value pair VerbForm=None
-[Line                   226]: Unknown attribute-value pair VerbForm=None
-[Line                   227]: Unknown attribute-value pair VerbForm=None
-...suppressing further errors regarding Morpho
-*** FAILED *** with 237 errors
-Morpho errors: 236
+*** FAILED *** with 1 errors
 Syntax errors: 1
 
 
@@ -822,28 +780,12 @@ Syntax errors: 1
 python /home/ginter/UD/tools/validate.py --lang hu /home/ginter/UD/UD_Hungarian/hu-ud-train.conllu
 
 [Tree number 0 on line 0]: Spurious language-specific relation 'ne:hu' - not an extension of any UD relation.
-[Line                   23]: Unknown attribute-value pair VerbForm=None
-[Line                   24]: Unknown attribute-value pair VerbForm=None
-[Line                   28]: Unknown attribute-value pair VerbForm=None
-[Line                   37]: Unknown attribute-value pair VerbForm=None
-[Line                   48]: Unknown attribute-value pair VerbForm=None
-[Line                   69]: Unknown attribute-value pair VerbForm=None
-[Line                   79]: Unknown attribute-value pair VerbForm=None
-[Line                   82]: Unknown attribute-value pair VerbForm=None
-[Line                   83]: Unknown attribute-value pair VerbForm=None
-[Line                   89]: Unknown attribute-value pair VerbForm=None
-[Line                   96]: Unknown attribute-value pair VerbForm=None
-[Line                   120]: Unknown attribute-value pair VerbForm=None
-[Line                   121]: Unknown attribute-value pair VerbForm=None
-[Line                   127]: Unknown attribute-value pair VerbForm=None
-[Line                   133]: Unknown attribute-value pair VerbForm=None
-[Line                   134]: Unknown attribute-value pair VerbForm=None
-[Line                   147]: Unknown attribute-value pair VerbForm=None
-[Line                   169]: Unknown attribute-value pair VerbForm=None
-[Line                   182]: Unknown attribute-value pair VerbForm=None
-...suppressing further errors regarding Morpho
-*** FAILED *** with 2278 errors
-Morpho errors: 2277
+[Line                   189]: Spurious morphological feature: 'Degree=Pos_'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   189]: Repeated features are disallowed: Degree=Pos_
+[Line                   1496]: Unknown attribute-value pair Mood=Mod
+[Line                   19220]: Unknown attribute-value pair Aspect=Pot
+*** FAILED *** with 5 errors
+Morpho errors: 4
 Syntax errors: 1
 
 
