@@ -301,7 +301,18 @@
   }, 
   {
     "lang_code": "he", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Yoav Goldberg", 
+        "last": "Goldberg", 
+        "first": "Yoav"
+      }, 
+      {
+        "full": "Reut Tsarfaty", 
+        "last": "Tsarfaty", 
+        "first": "Reut"
+      }
+    ], 
     "lang_name": "Hebrew"
   }, 
   {
@@ -374,7 +385,28 @@
   }, 
   {
     "lang_code": "it", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Cristina Bosco", 
+        "last": "Bosco", 
+        "first": "Cristina"
+      }, 
+      {
+        "full": "Alessandro Lenci", 
+        "last": "Lenci", 
+        "first": "Alessandro"
+      }, 
+      {
+        "full": "Simonetta Montemagni", 
+        "last": "Montemagni", 
+        "first": "Simonetta"
+      }, 
+      {
+        "full": "Maria Simi", 
+        "last": "Simi", 
+        "first": "Maria"
+      }
+    ], 
     "lang_name": "Italian"
   }, 
   {
