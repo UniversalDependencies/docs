@@ -495,7 +495,23 @@
   }, 
   {
     "lang_code": "fa", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Mojgan Seraji", 
+        "last": "Seraji", 
+        "first": "Mojgan"
+      }, 
+      {
+        "full": "Filip Ginter", 
+        "last": "Ginter", 
+        "first": "Filip"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "Persian"
   }, 
   {
