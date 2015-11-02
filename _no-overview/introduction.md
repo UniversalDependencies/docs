@@ -23,8 +23,8 @@ Kristin Hagen, Janne Bondi Johannessen and Anders Nøklestad: "A
 Constraint-based Tagger for Norwegian". 2000. Proceedings of the 17th
 Scandinavian Conference in Linguistics.
 
-Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. "NDT Guidelines
-for Morphological Annotation". National Library Tech Report.
+Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. "[NDT Guidelines
+for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf)". National Library Tech Report.
 
 Per Erik Solberg, Arne Skjærholt, Lilja Øvrelid, Kristin Hagen and
 Janne Bondi Johannessen. 2014. "[The Norwegian Dependency Treebank](http://www.lrec-conf.org/proceedings/lrec2014/pdf/303_Paper.pdf)",
