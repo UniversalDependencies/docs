@@ -720,7 +720,13 @@
   }, 
   {
     "lang_code": "tr", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "\u00c7a\u011fr\u0131 \u00c7\u00f6ltekin", 
+        "last": "\u00c7\u00f6ltekin", 
+        "first": "\u00c7a\u011fr\u0131"
+      }
+    ], 
     "lang_name": "Turkish"
   }
 ]
