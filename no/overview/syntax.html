@@ -38,8 +38,29 @@
 
           <h1 id="syntax">Syntax</h1>
 
-<p>This document is a placeholder for the language-specific overview of
-guidelines for syntactic annotation.</p>
+<p>The syntactic annotation in the Norwegian UD treebank conforms to the
+UD guidelines, adding language-specific relations for relative clauses (<code>acl:relcl</code>)
+and verb particles (<code>compound:prt</code>). The annotation has been automatically converted to
+UD from the original dependency scheme described in Solberg
+et. al. (2014) and further described in the NDT guidelines (Kinn
+et. al.).
+The conversion has not been manually checked. There are a few known discrepancies from UD:</p>
+
+<ul>
+  <li><code>remnant</code> elements in ellipsis are not attached to their correlate
+but rather to the main verb, since information about correct
+correlate is not present in the original annotation</li>
+  <li>no mwe analysis in the treebank. This is also information that is not present in the original data.</li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<p>Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. <a href="http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf">NDT Guidelines
+for Morphological Annotation</a>”. National Library Tech Report.</p>
+
+<p>Per Erik Solberg, Arne Skjærholt, Lilja Øvrelid, Kristin Hagen and
+Janne Bondi Johannessen. 2014. “<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/303_Paper.pdf">The Norwegian Dependency Treebank</a>”,
+Proceedings of LREC 2014, Reykjavik.</p>
 
 
       </div>
