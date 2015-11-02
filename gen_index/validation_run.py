@@ -15,9 +15,11 @@ def analyze_readme(dir_name):
         return readme_data
     with codecs.open(readmes[0],"r","utf-8") as f:
         for line in f:
+            line=line.strip()
             match=valueRe.match(line)
             if match: #Maybe one of our values?
                 cat,val=match.groups()
+                cat,val=cat.strip(),val.strip()
                 if cat in readme_data:
                     #Yes! this is a known category, we have a perfect match
                     readme_data[cat]=val
@@ -64,10 +66,11 @@ def gen_table(args):
     # Will create a line for every language which has a repository
     langs=sorted(os.path.basename(x).replace(".json","") for x in glob.glob("_corpus_data/*.json"))
     for l in langs:
-#    for l in ["Hindi"]:
+#    for l in ["Bulgarian"]:
         print >> sys.stderr, "Validation run for", l
         readme_data=analyze_readme(os.path.join(args.ud_data,"UD_"+l))
         if readme_data.get(u"Data available since") not in (u"UD v1.0",u"UD v1.1",u"UD v1.2"):
+            print >> sys.stderr, "Skipping.", repr(readme_data.get(u"Data available since"))
             continue #Skip this language
         validates,val_output=run_validation(l,args)
         print >> a_data, u"<div>"
