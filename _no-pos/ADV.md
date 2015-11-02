@@ -9,7 +9,7 @@ Adverbs are words that typically modify [adjectives](ADJ),
 direction or manner.
 
 #####Examples
-* _Han kom <b>nettopp<\b>_ "He just arrived"
-* _<b>Derfor<\b> kom han_ "Therefore, he came"
+* _Han kom <b>nettopp</b>_ "He just arrived"
+* _<b>Derfor</b> kom han_ "Therefore, he came"
 * _<b>nesten</b> ferdig_ "almost finished"
-* _<b>bare<\b> en liten bit_ "only a small bite"
+* _<b>bare</b> en liten bit_ "only a small bite"
