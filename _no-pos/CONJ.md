@@ -9,4 +9,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 #####Examples
 * *og* "and"
 * *eller* "or"
-* * *men* "but"
+* *men* "but"
