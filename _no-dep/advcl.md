@@ -9,3 +9,8 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 Helt siden han tiltrådte har Kofi Annan talt de fattiges sak \n Ever since he started Kofi Annan has spoken the cause of the poor
 advcl(talt, tiltrådte)
 ~~~
+
+~~~ sdparse
+Mange blir HIV-smittet fordi de ikke vet hvordan man smittes \n Many are infected with HIV because they do not know how one is infected
+advcl(vet, HIV-smittet)
+~~~
