@@ -3,7 +3,7 @@ layout: postag
 title: 'DET'
 shortdef: 'determiner'
 ---
-#####Definition
+####Definition
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context.
 In Norwegian, most determiners agree with the nominal head in terms of gender and number, e.g. _<b>min</b> bil_ "my car", _<b>mitt</b> barn_ "my child", _<b>mine</b> barn_ "my children". 
 We distinguish three main types of determiners: possessive, demonstrative and quantifying.
@@ -23,7 +23,7 @@ Demonstrative determiners agree in gender and number with the noun the modify. T
 * _(det) <b>samme</b> barnet_ "(the) same child", _(det) <b>andre</b> barnet_ "(the) other child"
 * _<b>hvilken</b> bil_ "which car", _<b>hvilket</b> hus_ "which house"  
 
-***Quantifying**
+**Quantifying**
 
 The quantifying pronouns are a heterogenous group of determiners which all occur before the noun they modify. Some of these agree with their nominal head (like articles and indefinite determiners) and some do not.
 
@@ -32,5 +32,5 @@ The quantifying pronouns are a heterogenous group of determiners which all occur
 * _<b>alle</b> biler_ "all cars"
 * _<b>begge</b> bilene_ "both cars"
 
-#####References
+####References
 Jan Terje Faarlund, Svein Lie and Kjell Ivar Vannebo. 1997. "Norsk referansegrammatikk". Universitetsforlaget, Oslo, Norway.
