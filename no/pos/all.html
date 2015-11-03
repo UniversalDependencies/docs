@@ -336,32 +336,69 @@ We distinguish three main types of determiners: possessive, demonstrative and qu
 <p><a id="al-no-pos/SCONJ" class="al-dest"></a></p>
 <h2><code>SCONJ</code>: subordinating conjunction</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>SCONJ</code>.</p>
+<h5 id="definition">Definition</h5>
+<p>A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.</p>
+
+<h5 id="examples">Examples</h5>
+<ul>
+  <li>Complementizers: <em>at</em> “that”, <em>om</em> “if/whether”</li>
+  <li>Adverbial clause introducers: <em>når</em> “when”, <em>siden</em> “since”, <em>fordi</em> “because”</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-pos/SCONJ.md" target="#">edit SCONJ</a></p>
 
 <p><a id="al-no-pos/SYM" class="al-dest"></a></p>
 <h2><code>SYM</code>: symbol</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>SYM</code>.</p>
+<h5 id="definition">Definition</h5>
+<p>A symbol is a word-like entity that differs from ordinary words by form, function, or both.</p>
+
+<p>Many symbols are or contain special non-alphanumeric characters, similarly to punctuation. What makes them different from punctuation is that they can be substituted by normal words.</p>
+
+<h5 id="examples">Examples</h5>
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><em>/</em>, *</td>
+          <td>*</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>*</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-pos/SYM.md" target="#">edit SYM</a></p>
 
 <p><a id="al-no-pos/VERB" class="al-dest"></a></p>
 <h2><code>VERB</code>: verb</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>VERB</code>.</p>
+<h5 id="definition">Definition</h5>
+<p>A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause.
+Note that the VERB tag covers main verbs (content verbs) and copulas but it does not cover auxiliary verbs, for which there is the <a href="">AUX</a> tag.</p>
+
+<p>In Norwegian, modal verbs occurring alone, as in <em><b>skal</b> hjem</em> lit. <em>shall home</em> “will go home” are tagged as <code>VERB</code>, but otherwise they will be <code>AUX</code>. Participles are annotated as verbs when they occur with auxiliaries <em>ha</em> “have”, <em>få</em> “get” or a modal auxiliary. When the participle occurs with the copula or <em>bli</em> “become” or follows a head noun, the participle may be either adjective or verb (for syntactic tests to determine these cases, see Kinn et. al.).</p>
+
+<h5 id="examples">Examples</h5>
+<ul>
+  <li><em>løpe</em> “run”, <em>løper</em> “runs”, <em>løp</em> “ran”, <em>(har) løpt</em> “(has) run”</li>
+  <li><em>spise</em> “eat”, <em>spiser</em> “eats”, <em>spiste</em> “ate”, <em>(har) spist</em> “(has) eaten”</li>
+</ul>
+
+<h5 id="references">References</h5>
+<p>Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. “<a href="http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf">NDT Guidelines
+for Morphological Annotation</a>”. National Library Tech Report.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-pos/VERB.md" target="#">edit VERB</a></p>
 
 <p><a id="al-no-pos/X" class="al-dest"></a></p>
 <h2><code>X</code>: other</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>X</code>.</p>
+<h5 id="definition">Definition</h5>
+<p>The tag X is used for words that for some reason cannot be assigned a real part-of-speech category.
+In the Norwegian data, this tag is used mostly for foreign words.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-pos/X.md" target="#">edit X</a></p>
 
