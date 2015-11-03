@@ -12,5 +12,5 @@ advcl(talt, tiltrådte)
 
 ~~~ sdparse
 Mange blir HIV-smittet fordi de ikke vet hvordan man smittes \n Many are infected with HIV because they do not know how one is infected
-advcl(vet, HIV-smittet)
+advcl(HIV-smittet, vet)
 ~~~
