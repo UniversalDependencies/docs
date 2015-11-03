@@ -700,27 +700,85 @@ python /home/ginter/UD/tools/validate.py --lang id /home/ginter/UD/UD_Indonesian
 <div>
 <span class="doublewidespan" style="padding-left:3em">Irish</span>
 <span class="widespan">ga</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-dev.conllu
 
-*** PASSED ***
+[Line                   213]: Unknown attribute-value pair Mood=Cond
+[Line                   219]: Unknown attribute-value pair Mood=Cond
+[Line                   223]: Unknown attribute-value pair Mood=Cond
+[Line                   239]: Unknown attribute-value pair Mood=Cond
+[Line                   556]: Unknown attribute-value pair Mood=Cond
+[Line                   570]: Unknown attribute-value pair Mood=Cond
+[Line                   721]: Unknown attribute-value pair Mood=Cond
+[Line                   732]: Unknown attribute-value pair Mood=Cond
+[Line                   1140]: Unknown attribute-value pair Mood=Cond
+[Line                   1512]: Unknown attribute-value pair Mood=Cond
+[Line                   2142]: Unknown attribute-value pair Mood=Cond
+[Line                   2428]: Unknown attribute-value pair Mood=Cond
+[Line                   2814]: Unknown attribute-value pair Mood=Cond
+[Line                   2860]: Unknown attribute-value pair Mood=Cond
+[Line                   3066]: Unknown attribute-value pair Mood=Cond
+*** FAILED *** with 15 errors
+Morpho errors: 15
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-test.conllu
 
-*** PASSED ***
+[Line                   507]: Unknown attribute-value pair Mood=Cond
+[Line                   762]: Unknown attribute-value pair Mood=Cond
+[Line                   772]: Unknown attribute-value pair Mood=Cond
+[Line                   778]: Unknown attribute-value pair Mood=Cond
+[Line                   784]: Unknown attribute-value pair Mood=Cond
+[Line                   813]: Unknown attribute-value pair Mood=Cond
+[Line                   1259]: Unknown attribute-value pair Mood=Cond
+[Line                   1801]: Unknown attribute-value pair Mood=Cond
+[Line                   2619]: Unknown attribute-value pair Mood=Cond
+[Line                   2744]: Unknown attribute-value pair Mood=Cond
+[Line                   2752]: Unknown attribute-value pair Mood=Cond
+[Line                   2790]: Unknown attribute-value pair Mood=Cond
+[Line                   3510]: Unknown attribute-value pair Mood=Cond
+[Line                   3591]: Unknown attribute-value pair Mood=Cond
+[Line                   3664]: Unknown attribute-value pair Mood=Cond
+[Line                   3669]: Unknown attribute-value pair Mood=Cond
+[Line                   3673]: Unknown attribute-value pair Mood=Cond
+[Line                   3696]: Unknown attribute-value pair Mood=Cond
+[Line                   3746]: Unknown attribute-value pair Mood=Cond
+...suppressing further errors regarding Morpho
+*** FAILED *** with 21 errors
+Morpho errors: 21
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-train.conllu
 
-*** PASSED ***
+[Line                   221]: Unknown attribute-value pair Mood=Cond
+[Line                   226]: Unknown attribute-value pair Mood=Cond
+[Line                   272]: Unknown attribute-value pair Mood=Cond
+[Line                   812]: Unknown attribute-value pair Mood=Cond
+[Line                   1199]: Unknown attribute-value pair Mood=Cond
+[Line                   1203]: Unknown attribute-value pair Mood=Cond
+[Line                   1212]: Unknown attribute-value pair Mood=Cond
+[Line                   1285]: Unknown attribute-value pair Mood=Cond
+[Line                   1813]: Unknown attribute-value pair Mood=Cond
+[Line                   2043]: Unknown attribute-value pair Mood=Cond
+[Line                   2071]: Unknown attribute-value pair Mood=Cond
+[Line                   2177]: Unknown attribute-value pair Mood=Cond
+[Line                   2187]: Unknown attribute-value pair Mood=Cond
+[Line                   2250]: Unknown attribute-value pair Mood=Cond
+[Line                   2264]: Unknown attribute-value pair Mood=Cond
+[Line                   2268]: Unknown attribute-value pair Mood=Cond
+[Line                   2275]: Unknown attribute-value pair Mood=Cond
+[Line                   2304]: Unknown attribute-value pair Mood=Cond
+[Line                   2663]: Unknown attribute-value pair Mood=Cond
+...suppressing further errors regarding Morpho
+*** FAILED *** with 103 errors
+Morpho errors: 103
 
 
 ******************
