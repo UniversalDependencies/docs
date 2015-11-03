@@ -8,7 +8,6 @@ shortdef: 'clausal modifier of noun'
 
 ~~~ sdparse
 Han har gitt militsen ordre om å omgruppere
-He has given militia-the orders about to regroup
 acl(ordre,omgruppere)
 ~~~
 
