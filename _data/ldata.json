@@ -95,7 +95,18 @@
   }, 
   {
     "lang_code": "bg", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Petya Osenova", 
+        "last": "Osenova", 
+        "first": "Petya"
+      }, 
+      {
+        "full": "Kiril Simov", 
+        "last": "Simov", 
+        "first": "Kiril"
+      }
+    ], 
     "lang_name": "Bulgarian"
   }, 
   {
