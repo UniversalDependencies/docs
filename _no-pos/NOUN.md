@@ -4,5 +4,5 @@ title: 'NOUN'
 shortdef: 'noun'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `NOUN`.
+Nouns are a part of speech typically denoting a person, place, thing, animal or idea. The `NOUN` tag is used only for common nouns, see [PROPN]() for proper nouns.
+ 
