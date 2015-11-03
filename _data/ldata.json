@@ -191,7 +191,33 @@
   }, 
   {
     "lang_code": "en", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Natalia Silveira", 
+        "last": "Silveira", 
+        "first": "Natalia"
+      }, 
+      {
+        "full": "Sebastian Schuster", 
+        "last": "Schuster", 
+        "first": "Sebastian"
+      }, 
+      {
+        "full": "Marie-Catherine de Marneffe", 
+        "last": "de Marneffe", 
+        "first": "Marie-Catherine"
+      }, 
+      {
+        "full": "Timothy Dozat", 
+        "last": "Dozat", 
+        "first": "Timothy"
+      }, 
+      {
+        "full": "Christopher Manning", 
+        "last": "Manning", 
+        "first": "Christopher"
+      }
+    ], 
     "lang_name": "English"
   }, 
   {
@@ -279,13 +305,39 @@
         "full": "Alane Suhr", 
         "last": "Suhr", 
         "first": "Alane"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
       }
     ], 
     "lang_name": "French"
   }, 
   {
     "lang_code": "de", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Slav Petrov", 
+        "last": "Petrov", 
+        "first": "Slav"
+      }, 
+      {
+        "full": "Wolfgang Seeker", 
+        "last": "Seeker", 
+        "first": "Wolfgang"
+      }, 
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "German"
   }, 
   {
@@ -375,7 +427,18 @@
   }, 
   {
     "lang_code": "id", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Ryan McDonald", 
+        "last": "McDonald", 
+        "first": "Ryan"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
+      }
+    ], 
     "lang_name": "Indonesian"
   }, 
   {
@@ -693,6 +756,11 @@
         "full": "Daniel Zeman", 
         "last": "Zeman", 
         "first": "Daniel"
+      }, 
+      {
+        "full": "Joakim Nivre", 
+        "last": "Nivre", 
+        "first": "Joakim"
       }
     ], 
     "lang_name": "Spanish"
