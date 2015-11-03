@@ -10,7 +10,7 @@ We distinguish three main types of determiners: possessive, demonstrative and qu
 
 **Possessive**
 
-Possessive determiners agree in gender and number with the noun the modify, their form varies depending on person. In Norwegian, possessive determiners usually precede their head noun, but may occur after the head noun when the noun is in the definite form, e.g. _bilen <b>hans<\b>_ "his car"
+Possessive determiners agree in gender and number with the noun the modify, their form varies depending on person. In Norwegian, possessive determiners usually precede their head noun, but may occur after the head noun when the noun is in the definite form, e.g. _bilen <b>hans</b>_ "his car"
 * _<b>mitt</b> barn_ "my child" 
 * _<b>våre</b> barn_ "our children"
 * _barnet <b>vårt</b>_ "our child"
