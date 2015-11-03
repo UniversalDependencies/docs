@@ -9,6 +9,6 @@ A proper noun is a noun (or nominal content word) that is the name (or part of t
 In Norwegian, proper nouns do usually not inflect for morphological properties like gender, number, etc. Proper nouns are furthermore written with a capital letter.
 
 #####Examples
-* Kari, Ola
-* Oslo, Bergen, Trondheim
+* *Kari*, *Ola*
+* *Oslo*, *Bergen*
 
