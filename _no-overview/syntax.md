@@ -17,7 +17,7 @@ The conversion has not been manually checked. There are a few known discrepancie
 * `remnant` elements in ellipsis are not attached to their correlate
   but rather to the main verb, since information about correct
   correlate is not present in the original annotation
-* no mwe analysis in the treebank. This is also information that is not present in the original data.
+* no `mwe` analysis in the treebank. This is also information that is not present in the original data.
 
 ## References
 
