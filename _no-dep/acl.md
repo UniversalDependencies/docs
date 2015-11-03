@@ -10,3 +10,13 @@ shortdef: 'clausal modifier of noun'
 Han har gitt militsen ordre om å omgruppere \n He has given the militia orders to regroup
 acl(ordre, omgruppere)
 ~~~
+
+The `acl` relation is also used for optional predicatives.
+
+~~~ sdparse
+En 12 år gammel gutt kommer inn døende \n A 12-year old boy comes in dying
+acl(gutt, døende)
+~~~
+
+
+
