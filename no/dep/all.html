@@ -288,16 +288,33 @@ amod(likhet,åpenbar)
 <p><a id="al-no-dep/appos" class="al-dest"></a></p>
 <h2><code>appos</code>: appositional modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>appos</code>.</p>
+<p>An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun.</p>
+
+<pre><code class="language-sdparse">Avtalen om et inkluderende arbeidsliv ( IA-avtalen ) skal redusere sykefravær \n The agreement on an including work place (the IA-agreement) will reduce sick leave
+appos(arbeidsliv,IA-avtalen)
+</code></pre>
+<p>In Norwegian, it is used also for titles which usually precede their head.
+~~~ sdparse
+Disse visdomsordene ble formet av forfatteren Günter Grass \n These words of wisdom were formed by the writer Günter Grass
+appos(Günter,forfatteren)
+~~~</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/appos.md" target="#">edit appos</a></p>
 
 <p><a id="al-no-dep/aux" class="al-dest"></a></p>
 <h2><code>aux</code>: auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>aux</code>.</p>
+<p>An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of <em>ha</em> “have” or <em>være</em> “be” in a periphrastic tense.
+Exception: Auxiliary verb used to construct the passive voice is not labeled aux but <a href="">auxpass</a>.</p>
+
+<pre><code class="language-sdparse">Kan jeg ha lest feil bøker av henne? \n Might I have read the wrong books by her?
+aux(lest,kan)
+aux(lest,ha)
+</code></pre>
+
+<pre><code class="language-sdparse">deres siste øyeblikk er kommet \n Their last moment has is come
+aux(kommet,er)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/aux_.md" target="#">edit aux</a></p>
 
