@@ -675,85 +675,27 @@ python /home/ginter/UD/tools/validate.py --lang id /home/ginter/UD/UD_Indonesian
 <div>
 <span class="doublewidespan" style="padding-left:3em">Irish</span>
 <span class="widespan">ga</span>
-<span class="validationfail">FAIL</span>
+<span class="validationpass">PASS</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-dev.conllu
 
-[Line                   213]: Unknown attribute-value pair Mood=Cond
-[Line                   219]: Unknown attribute-value pair Mood=Cond
-[Line                   223]: Unknown attribute-value pair Mood=Cond
-[Line                   239]: Unknown attribute-value pair Mood=Cond
-[Line                   556]: Unknown attribute-value pair Mood=Cond
-[Line                   570]: Unknown attribute-value pair Mood=Cond
-[Line                   721]: Unknown attribute-value pair Mood=Cond
-[Line                   732]: Unknown attribute-value pair Mood=Cond
-[Line                   1140]: Unknown attribute-value pair Mood=Cond
-[Line                   1512]: Unknown attribute-value pair Mood=Cond
-[Line                   2142]: Unknown attribute-value pair Mood=Cond
-[Line                   2428]: Unknown attribute-value pair Mood=Cond
-[Line                   2814]: Unknown attribute-value pair Mood=Cond
-[Line                   2860]: Unknown attribute-value pair Mood=Cond
-[Line                   3066]: Unknown attribute-value pair Mood=Cond
-*** FAILED *** with 15 errors
-Morpho errors: 15
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-test.conllu
 
-[Line                   507]: Unknown attribute-value pair Mood=Cond
-[Line                   762]: Unknown attribute-value pair Mood=Cond
-[Line                   772]: Unknown attribute-value pair Mood=Cond
-[Line                   778]: Unknown attribute-value pair Mood=Cond
-[Line                   784]: Unknown attribute-value pair Mood=Cond
-[Line                   813]: Unknown attribute-value pair Mood=Cond
-[Line                   1259]: Unknown attribute-value pair Mood=Cond
-[Line                   1801]: Unknown attribute-value pair Mood=Cond
-[Line                   2619]: Unknown attribute-value pair Mood=Cond
-[Line                   2744]: Unknown attribute-value pair Mood=Cond
-[Line                   2752]: Unknown attribute-value pair Mood=Cond
-[Line                   2790]: Unknown attribute-value pair Mood=Cond
-[Line                   3510]: Unknown attribute-value pair Mood=Cond
-[Line                   3591]: Unknown attribute-value pair Mood=Cond
-[Line                   3664]: Unknown attribute-value pair Mood=Cond
-[Line                   3669]: Unknown attribute-value pair Mood=Cond
-[Line                   3673]: Unknown attribute-value pair Mood=Cond
-[Line                   3696]: Unknown attribute-value pair Mood=Cond
-[Line                   3746]: Unknown attribute-value pair Mood=Cond
-...suppressing further errors regarding Morpho
-*** FAILED *** with 21 errors
-Morpho errors: 21
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ga /home/ginter/UD/UD_Irish/ga-ud-train.conllu
 
-[Line                   221]: Unknown attribute-value pair Mood=Cond
-[Line                   226]: Unknown attribute-value pair Mood=Cond
-[Line                   272]: Unknown attribute-value pair Mood=Cond
-[Line                   812]: Unknown attribute-value pair Mood=Cond
-[Line                   1199]: Unknown attribute-value pair Mood=Cond
-[Line                   1203]: Unknown attribute-value pair Mood=Cond
-[Line                   1212]: Unknown attribute-value pair Mood=Cond
-[Line                   1285]: Unknown attribute-value pair Mood=Cond
-[Line                   1813]: Unknown attribute-value pair Mood=Cond
-[Line                   2043]: Unknown attribute-value pair Mood=Cond
-[Line                   2071]: Unknown attribute-value pair Mood=Cond
-[Line                   2177]: Unknown attribute-value pair Mood=Cond
-[Line                   2187]: Unknown attribute-value pair Mood=Cond
-[Line                   2250]: Unknown attribute-value pair Mood=Cond
-[Line                   2264]: Unknown attribute-value pair Mood=Cond
-[Line                   2268]: Unknown attribute-value pair Mood=Cond
-[Line                   2275]: Unknown attribute-value pair Mood=Cond
-[Line                   2304]: Unknown attribute-value pair Mood=Cond
-[Line                   2663]: Unknown attribute-value pair Mood=Cond
-...suppressing further errors regarding Morpho
-*** FAILED *** with 103 errors
-Morpho errors: 103
+*** PASSED ***
 
 
 ******************
@@ -1074,27 +1016,90 @@ python /home/ginter/UD/tools/validate.py --lang pt /home/ginter/UD/UD_Portuguese
 <div>
 <span class="doublewidespan" style="padding-left:3em">Romanian</span>
 <span class="widespan">ro</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-dev.conllu
 
-*** PASSED ***
+[Line                   4]: Unknown attribute-value pair Strength=Weak
+[Line                   4]: Unknown attribute-value pair Variant=Short
+[Line                   7]: Unknown attribute-value pair AdpType=Prep
+[Line                   8]: Unknown attribute-value pair Abbr=Yes
+[Line                   17]: Unknown attribute-value pair Strength=Weak
+[Line                   17]: Unknown attribute-value pair Variant=Short
+[Line                   21]: Unknown attribute-value pair AdpType=Prep
+[Line                   23]: Unknown attribute-value pair Abbr=Yes
+[Line                   40]: Unknown attribute-value pair Abbr=Yes
+[Line                   50]: Unknown attribute-value pair AdpType=Prep
+[Line                   54]: Unknown attribute-value pair AdpType=Prep
+[Line                   74]: Unknown attribute-value pair AdpType=Prep
+[Line                   83]: Unknown attribute-value pair AdpType=Prep
+[Line                   95]: Unknown attribute-value pair AdpType=Prep
+[Line                   106]: Unknown attribute-value pair Strength=Weak
+[Line                   108]: Unknown attribute-value pair PartType=Inf
+[Line                   111]: Unknown attribute-value pair AdpType=Prep
+[Line                   116]: Unknown attribute-value pair AdpType=Prep
+[Line                   120]: Unknown attribute-value pair Strength=Weak
+...suppressing further errors regarding Morpho
+*** FAILED *** with 281 errors
+Morpho errors: 281
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-test.conllu
 
-*** PASSED ***
+[Line                   2]: Unknown attribute-value pair AdpType=Prep
+[Line                   6]: Unknown attribute-value pair Strength=Weak
+[Line                   10]: Unknown attribute-value pair AdpType=Prep
+[Line                   14]: Unknown attribute-value pair AdpType=Prep
+[Line                   29]: Unknown attribute-value pair Strength=Weak
+[Line                   29]: Unknown attribute-value pair Variant=Short
+[Line                   32]: Unknown attribute-value pair AdpType=Prep
+[Line                   38]: Unknown attribute-value pair AdpType=Prep
+[Line                   45]: Unknown attribute-value pair Strength=Weak
+[Line                   56]: Unknown attribute-value pair AdpType=Prep
+[Line                   58]: Unknown attribute-value pair AdpType=Prep
+[Line                   69]: Unknown attribute-value pair Strength=Weak
+[Line                   69]: Unknown attribute-value pair Variant=Short
+[Line                   71]: Unknown attribute-value pair AdpType=Prep
+[Line                   72]: Unknown attribute-value pair PronType=Emp
+[Line                   76]: Unknown attribute-value pair Strength=Weak
+[Line                   78]: Unknown attribute-value pair Position=Prenom
+[Line                   85]: Unknown attribute-value pair AdpType=Prep
+[Line                   90]: Unknown attribute-value pair AdpType=Prep
+...suppressing further errors regarding Morpho
+*** FAILED *** with 260 errors
+Morpho errors: 260
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang ro /home/ginter/UD/UD_Romanian/ro-ud-train.conllu
 
-*** PASSED ***
+[Line                   13]: Unknown attribute-value pair AdpType=Prep
+[Line                   15]: Unknown attribute-value pair AdpType=Prep
+[Line                   27]: Unknown attribute-value pair AdpType=Prep
+[Line                   32]: Unknown attribute-value pair AdpType=Prep
+[Line                   34]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   45]: Unknown attribute-value pair Strength=Weak
+[Line                   51]: Unknown attribute-value pair AdpType=Prep
+[Line                   53]: Unknown attribute-value pair AdpType=Prep
+[Line                   61]: Unknown attribute-value pair AdpType=Prep
+[Line                   63]: Unknown attribute-value pair AdpType=Prep
+[Line                   69]: Unknown attribute-value pair AdpType=Prep
+[Line                   78]: Unknown attribute-value pair AdpType=Prep
+[Line                   81]: Unknown attribute-value pair Strength=Weak
+[Line                   83]: Unknown attribute-value pair AdpType=Prep
+[Line                   88]: Unknown attribute-value pair AdpType=Prep
+[Line                   104]: Unknown attribute-value pair AdpType=Prep
+[Line                   111]: Unknown attribute-value pair AdpType=Prep
+[Line                   113]: Unknown attribute-value pair AdpType=Prep
+[Line                   118]: Unknown attribute-value pair Strength=Weak
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1869 errors
+Morpho errors: 1869
 
 
 ******************
