@@ -11,8 +11,8 @@ Exception: Auxiliary verb used to construct the passive voice is not labeled aux
 
 ~~~ sdparse
 Kan jeg ha lest feil bøker av henne? \n Might I have read the wrong books by her?
-aux(lest,kan)
-aux(lest,ha)
+aux(lest-4,kan-1)
+aux(lest-4,ha-3)
 ~~~
 
 ~~~ sdparse
