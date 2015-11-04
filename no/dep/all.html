@@ -308,13 +308,16 @@ appos(Günter,forfatteren)
 <p>An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxiliary, or a form of <em>ha</em> “have” or <em>være</em> “be” in a periphrastic tense.
 Exception: Auxiliary verb used to construct the passive voice is not labeled aux but <a href="">auxpass</a>.</p>
 
-<pre><code class="language-sdparse">Kan jeg ha lest feil bøker av henne? \n Might I have read the wrong books by her?
-aux(lest,kan)
-aux(lest,ha)
+<pre><code class="language-sdparse">Dette har vi i Norge merket \n This we have in Norway noticed
+aux(merket,har)
 </code></pre>
 
 <pre><code class="language-sdparse">deres siste øyeblikk er kommet \n Their last moment has is come
 aux(kommet,er)
+</code></pre>
+
+<pre><code class="language-sdparse">Helseadvarslene må være tydelige \n The health warnings must be clear
+aux(tydelige, må)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/aux_.md" target="#">edit aux</a></p>
@@ -322,16 +325,22 @@ aux(kommet,er)
 <p><a id="al-no-dep/auxpass" class="al-dest"></a></p>
 <h2><code>auxpass</code>: passive auxiliary</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>auxpass</code>.</p>
+<p>A passive auxiliary of a clause is a non-main verb of the clause which contains the passive information.</p>
+
+<pre><code class="language-sdparse">I sommer har jeg også blitt intervjuet \n This summer I have also been interviewed
+auxpass(intervjuet,blitt)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/auxpass.md" target="#">edit auxpass</a></p>
 
 <p><a id="al-no-dep/case" class="al-dest"></a></p>
 <h2><code>case</code>: case marking</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>case</code>.</p>
+<p>The case relation is used for any case-marking element which is treated as a separate syntactic word, in Norwegian it is used to mark the relation between a preposition and what is traditionally known as its complement (its head in the UD scheme).</p>
+
+<pre><code class="language-sdparse">25-åringen selv har tatt lærdom av angrepet \n The 25-year old has taken a lesson from the attack
+case(angrepet,av)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/case.md" target="#">edit case</a></p>
 
