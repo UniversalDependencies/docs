@@ -10,13 +10,17 @@ An auxiliary of a clause is a non-main verb of the clause, e.g., a modal auxilia
 Exception: Auxiliary verb used to construct the passive voice is not labeled aux but [auxpass]().
 
 ~~~ sdparse
-Kan jeg ha lest feil bøker av henne? \n Might I have read the wrong books by her?
-aux(lest-4,kan-1)
-aux(lest-4,ha-3)
+Dette har vi i Norge merket \n This we have in Norway noticed
+aux(merket,har)
 ~~~
 
 ~~~ sdparse
 deres siste øyeblikk er kommet \n Their last moment has is come
 aux(kommet,er)
+~~~
+
+~~~ sdparse
+Helseadvarslene må være tydelige \n The health warnings must be clear
+aux(tydelige, må)
 ~~~
 
