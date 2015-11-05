@@ -10,4 +10,13 @@ The case relation is used for any case-marking element which is treated as a sep
 case(angrepet,av)
 ~~~
 
+~~~ sdparse
+effektivt mot røyking \n effective against smoking
+case(røyking,mot)
+~~~
+
+~~~ sdparse
+Hun kom hit til Berlin \n She came here to Berlin
+case(Berlin,til)
+~~~
 
