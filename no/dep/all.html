@@ -357,7 +357,7 @@ case(Berlin,til)
 
 <p>For more on coordination, see the <a href="">conj</a> relation. A cc is the relation between the first conjunct and the coordinating conjunction delimiting another conjunct.</p>
 
-<pre><code class="language-sdparse">Kamskjell, piggvar og lammefilet sto på menyen \n Scallops, turbot and lamb was on the menu
+<pre><code class="language-sdparse">Kamskjell, piggvar og lammefilet sto på menyen \n Scallops, turbot and lamb were on the menu
 cc(Kamskjell,og)
 </code></pre>
 
@@ -372,8 +372,13 @@ cc(gjorde,og)
 <p><a id="al-no-dep/ccomp" class="al-dest"></a></p>
 <h2><code>ccomp</code>: clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>ccomp</code>.</p>
+<p>A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective.</p>
+
+<pre><code class="language-sdparse">Mikko trodde jo at jeg skulle ta ham \n Mikko thought that I was going to get him
+ccomp(trodde,ta)
+</code></pre>
+
+<p>Such clausal complements may be finite or nonfinite. However, if the subject of the clausal complement is controlled the appropriate relation is <a href="">xcomp</a>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/ccomp.md" target="#">edit ccomp</a></p>
 
