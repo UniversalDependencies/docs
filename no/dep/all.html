@@ -226,7 +226,7 @@ in two places.</p>
 <p><a id="al-no-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
-<p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. In Norwegian, relative clauses are assigned a language-specific subtype <code>acl:relcl</code>.</p>
+<p><code>acl</code> is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. In Norwegian, relative clauses are assigned a language-specific subtype <a href="acl-relcl">acl:relcl</a>.</p>
 
 <pre><code class="language-sdparse">Han har gitt militsen ordre om å omgruppere \n He has given the militia orders to regroup
 acl(ordre, omgruppere)
@@ -239,6 +239,13 @@ acl(gutt, døende)
 </code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/acl.md" target="#">edit acl</a></p>
+
+<p><a id="al-no-dep/acl:relcl" class="al-dest"></a></p>
+<h2><code>acl:relcl</code>: relative clause</h2>
+
+<p>This language-specific relation is used for relative clauses in Norwegian.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
 
 <p><a id="al-no-dep/advcl" class="al-dest"></a></p>
 <h2><code>advcl</code>: adverbial clause modifier</h2>
@@ -392,6 +399,25 @@ for <code>compound</code>.</p>
 
 <p><a id="al-no-dep/compound:prt" class="al-dest"></a></p>
 <h2><code>compound:prt</code>: compound:prt</h2>
+
+<p>This language-specific relation is used for verbal particles in Norwegian and describes the relation of the particle to its verbal head.</p>
+
+<p>Particles exhibit a number of syntactic properties which sets them apart from regular prepositions. For instance, a pronominal object may intercede the verb and the preposition in the particle case <em>satte den på</em> “put it on”, but not in the case of a regular preposition and its complement <em>*lette den etter</em> “*looked it for”,  and only complements of a preposition may occur in an impersonal passive <em>Det ble lett etter den nye boka</em> “It was looked for the new book”, but an object in a particle construction may not <em>*Det ble satt den på</em> “*It was put it on”.</p>
+
+<pre><code class="language-sdparse">Den gang ble alt samlet inn \n That time all was collected
+compound:prt(samlet,inn)
+</code></pre>
+
+<pre><code class="language-sdparse">Regjeringen har lagt frem et raust statsbudsjett \n The government has put forward a generous budget
+compound:prt(lagt,frem)
+</code></pre>
+
+<pre><code class="language-sdparse">Forskningsrådet delte onsdag kveld ut to sentrale priser \n The research council handed out to central prizes Wednesday evening
+compound:prt(delte,ut)
+</code></pre>
+
+<p><strong>References</strong>
+Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. “<a href="http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf">NDT Guidelines for Morphological Annotation</a>”. National Library Tech Report.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/compound-prt.md" target="#">edit compound:prt</a></p>
 
