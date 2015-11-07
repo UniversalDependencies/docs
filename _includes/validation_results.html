@@ -923,27 +923,62 @@ python /home/ginter/UD/tools/validate.py --lang cu /home/ginter/UD/UD_Old_Church
 <div>
 <span class="doublewidespan" style="padding-left:3em">Persian</span>
 <span class="widespan">fa</span>
-<span class="validationpass">PASS</span>
+<span class="validationfail">FAIL</span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD/tools/validate.py --lang fa /home/ginter/UD/UD_Persian/fa-ud-dev.conllu
 
-*** PASSED ***
+[Line                   1538]: Unknown UD DEPREL: conj:preconj
+[Line                   5138]: Unknown UD DEPREL: conj:preconj
+[Line                   5190]: Unknown UD DEPREL: conj:preconj
+[Line                   5812]: Unknown UD DEPREL: conj:preconj
+[Line                   11130]: Unknown UD DEPREL: conj:preconj
+[Line                   14632]: Unknown UD DEPREL: conj:preconj
+[Line                   15897]: Unknown UD DEPREL: conj:preconj
+*** FAILED *** with 7 errors
+Syntax errors: 7
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang fa /home/ginter/UD/UD_Persian/fa-ud-test.conllu
 
-*** PASSED ***
+[Line                   1856]: Unknown UD DEPREL: conj:preconj
+[Line                   8349]: Unknown UD DEPREL: conj:preconj
+[Line                   14981]: Unknown UD DEPREL: conj:preconj
+[Line                   16223]: Unknown UD DEPREL: conj:preconj
+[Line                   16385]: Unknown UD DEPREL: conj:preconj
+*** FAILED *** with 5 errors
+Syntax errors: 5
 
 
 ******************
 
 python /home/ginter/UD/tools/validate.py --lang fa /home/ginter/UD/UD_Persian/fa-ud-train.conllu
 
-*** PASSED ***
+[Line                   6763]: Unknown UD DEPREL: conj:preconj
+[Line                   6838]: Unknown UD DEPREL: conj:preconj
+[Line                   8016]: Unknown UD DEPREL: conj:preconj
+[Line                   11168]: Unknown UD DEPREL: conj:preconj
+[Line                   11187]: Unknown UD DEPREL: conj:preconj
+[Line                   13303]: Unknown UD DEPREL: conj:preconj
+[Line                   15515]: Unknown UD DEPREL: conj:preconj
+[Line                   31265]: Unknown UD DEPREL: conj:preconj
+[Line                   43395]: Unknown UD DEPREL: conj:preconj
+[Line                   49703]: Unknown UD DEPREL: conj:preconj
+[Line                   58151]: Unknown UD DEPREL: conj:preconj
+[Line                   63110]: Unknown UD DEPREL: conj:preconj
+[Line                   63127]: Unknown UD DEPREL: conj:preconj
+[Line                   63543]: Unknown UD DEPREL: conj:preconj
+[Line                   64238]: Unknown UD DEPREL: conj:preconj
+[Line                   64847]: Unknown UD DEPREL: conj:preconj
+[Line                   68738]: Unknown UD DEPREL: conj:preconj
+[Line                   69279]: Unknown UD DEPREL: conj:preconj
+[Line                   71189]: Unknown UD DEPREL: conj:preconj
+...suppressing further errors regarding Syntax
+*** FAILED *** with 37 errors
+Syntax errors: 37
 
 
 ******************
