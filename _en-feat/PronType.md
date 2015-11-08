@@ -35,7 +35,7 @@ Note that the possessive interrogative determiner (_whose_) can be
 distinguished by the [Poss]() feature.
 
 In English, all words with the PTB tag `WDT`, `WP`, `WP$` or `WRB` have this feature unless
-they mark the beginning of a [relative clause](en-dep/acl-relcl).
+they mark the beginning of a [relative clause](en-dep/acl:relcl).
 
 #### Examples:
 * _<b>Which</b> one should I get?_
@@ -45,7 +45,7 @@ they mark the beginning of a [relative clause](en-dep/acl-relcl).
 
 ### `Rel`: relative pronoun or determiner
 
-All pronouns and determiners that mark the beginning of a [relative clause](en-dep/acl-relcl) have this feature.
+All pronouns and determiners that mark the beginning of a [relative clause](en-dep/acl:relcl) have this feature.
 
 #### Examples: 
 
@@ -59,4 +59,4 @@ The following determiners and adverbs have this feature:
 
 * _this, that, those, these, here, there_
 
-Note that _that_ only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a [clausal complement](en-dep/ccomp) or a [relative clause](en-dep/acl-relcl) it does not have this feature.
+Note that _that_ only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a [clausal complement](en-dep/ccomp) or a [relative clause](en-dep/acl:relcl) it does not have this feature.
