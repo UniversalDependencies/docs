@@ -53,8 +53,8 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
   <li>ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens with multiple words.</li>
   <li>FORM: Word form or punctuation symbol.</li>
   <li>LEMMA: Lemma or stem of word form.</li>
-  <li>CPOSTAG: <a href="u/pos/index.html">Universal part-of-speech tag</a> drawn from our revised version of the Google universal POS tags.</li>
-  <li>POSTAG: Language-specific part-of-speech tag; underscore if not available.</li>
+  <li>UPOSTAG: <a href="u/pos/index.html">Universal part-of-speech tag</a> drawn from our revised version of the Google universal POS tags.</li>
+  <li>XPOSTAG: Language-specific part-of-speech tag; underscore if not available.</li>
   <li>FEATS: List of morphological features from the <a href="u/feat/index.html">universal feature inventory</a> or from a defined <a href="ext-feat-index.html">language-specific extension</a>; underscore if not available.</li>
   <li>HEAD: Head of the current token, which is either a value of ID or zero (0).</li>
   <li>DEPREL: <a href="u/dep/index.html">Universal Stanford dependency relation</a> to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.</li>
@@ -63,7 +63,7 @@ Annotations are encoded in plain text files (UTF-8) with three types of lines:</
 </ol>
 
 <p>The fields DEPS and MISC replace the obsolete fields PHEAD and PDEPREL of the CoNLL-X format. 
-In addition, we have modified the usage of the ID, FORM, LEMMA, POSTAG, FEATS and HEAD fields as explained below.</p>
+In addition, we have modified the usage of the ID, FORM, LEMMA, XPOSTAG, FEATS and HEAD fields as explained below.</p>
 
 <p>The fields must additionally meet the following constraints:</p>
 
@@ -126,8 +126,8 @@ in contrast to the <em>word indexing</em> scheme used as the offical treebank re
 
 <h1 id="morphological-annotation">Morphological Annotation</h1>
 
-<p>The CPOSTAG field contains a part-of-speech tag from the <a href="u/pos/index.html">universal POS tag</a> set, while the POSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the POSTAG field is used, the treebank-specific documentation should define a mapping from POSTAG to CPOSTAG values (which may be context-sensitive 
-and refer to other fields as well). If no language-specific tags are available, the POSTAG field should contain an underscore for all words.</p>
+<p>The UPOSTAG field contains a part-of-speech tag from the <a href="u/pos/index.html">universal POS tag</a> set, while the XPOSTAG optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the XPOSTAG field is used, the treebank-specific documentation should define a mapping from XPOSTAG to UPOSTAG values (which may be context-sensitive 
+and refer to other fields as well). If no language-specific tags are available, the XPOSTAG field should contain an underscore for all words.</p>
 
 <p>The FEATS field contains a list
 of morphological features, with vertical bar (|) as list separator and with underscore to represent the empty list.
@@ -145,7 +145,7 @@ Swedish sentence <em>Då var han elva år</em> (Then he was eleven years old):</
 </code></pre>
 
 <p>Morphological annotation is only provided for words. 
-Tokens that are not words have an underscore in the CPOSTAG, POSTAG and FEATS fields.</p>
+Tokens that are not words have an underscore in the UPOSTAG, XPOSTAG and FEATS fields.</p>
 
 <h1 id="syntactic-annotation">Syntactic Annotation</h1>
 
