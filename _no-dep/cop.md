@@ -4,5 +4,12 @@ title: 'cop'
 shortdef: 'copula'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `cop`.
+A copula is the relation between the complement of a copular verb and the copular verb *være* "to be". The copula is treated as a dependent of the lexical verb.
+
+~~~ sdparse
+Det er ovnsbakt piggvar \n It is ovenbaked turbot
+cop(piggvar, er)
+~~~
+
+This analysis entails that in copula clauses, the main predicate is not verbal, but rather an adjectival or even nominal (as in the above example).
+
