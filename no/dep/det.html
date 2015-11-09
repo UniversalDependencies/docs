@@ -38,8 +38,26 @@
 
           <h2><code>det</code>: determiner</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>det</code>.</p>
+<p>The relation determiner (<code>det</code>) holds between a nominal head and its determiner. Most commonly, a word of POS DET will have the relation <code>det</code> and vice versa.</p>
+
+<pre><code class="language-sdparse">denne viktige posten \n this important post
+det(posten,denne)
+</code></pre>
+
+<p>Other parts of speech than <code>DET</code> may in some cases be assigned a determiner relation to a nominal head. 
+For Norwegian the <code>det</code> relation is also used for genitive nouns, like <em>årets</em> “this year’s”, quantity nouns like <em>rekke</em> “number-of” and <em>millioner</em> “millions”.</p>
+
+<pre><code class="language-sdparse">årets fredspris \n this year's peace prize
+det(fredspris,årets)
+</code></pre>
+
+<pre><code class="language-sdparse">en rekke saker \n a number-of cases
+det(saker,rekke)
+</code></pre>
+
+<pre><code class="language-sdparse">22 millioner flyktninger \n 22 million refugees
+det(flyktninger,millioner)
+</code></pre>
 
 
 <!-- "in other languages" links -->
