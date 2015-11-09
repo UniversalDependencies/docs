@@ -245,6 +245,37 @@ acl(gutt, døende)
 
 <p>This language-specific relation is used for relative clauses in Norwegian and the <code>acl:relcl</code> relation is assigned to the main predicate of the relative clause. Relative clauses modify a nominal element and are often initiated by the relative pronoun <em>som</em> “that” which is assigned a nominal relation to the main predicate of the relative clause.</p>
 
+<pre><code class="language-sdparse">Jeg har en venn som kjenner deg \n I have a friend who knows you
+acl:relcl(venn,kjenner)
+nsubj(kjenner,som)
+</code></pre>
+
+<pre><code class="language-sdparse">Jeg har en venn som du kjenner \n I have a friend whom you know
+acl:relcl(venn,kjenner)
+dobj(kjenner,som)
+</code></pre>
+
+<pre><code class="language-sdparse">Jeg kjenner han som du danset med \n I know he who you danced with
+acl:relcl(venn,danset)
+nmod(danset,som)
+</code></pre>
+
+<p>The relative pronoun may be omitted when it stands in a non-subject relation to the predicate of the relative clause:</p>
+
+<pre><code class="language-sdparse">Jeg har en venn du kjenner \n I have a friend you know
+acl:relcl(venn,kjenner)
+</code></pre>
+
+<p>Note that due to the analysis of the copula construction (<a href="">cop</a>), the main predicate of a relative clause may also be an adjective or even a noun:</p>
+
+<pre><code class="language-sdparse">Jeg har en venn som er morsom \n I have a friend who is funny
+acl:relcl(venn,morsom)
+</code></pre>
+
+<pre><code class="language-sdparse">Jeg har en venn som er en dyktig snekker \n I have a friend who is a good carpenter
+acl:relcl(venn,snekker)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/acl-relcl.md" target="#">edit acl:relcl</a></p>
 
 <p><a id="al-no-dep/advcl" class="al-dest"></a></p>
@@ -392,8 +423,7 @@ ccomp(trodde,ta)
 <p><a id="al-no-dep/compound" class="al-dest"></a></p>
 <h2><code>compound</code>: compound</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>compound</code>.</p>
+<p>For Norwegian the <code>compound</code> relation is used only for verbal particle constructions with the language-specific subtype <a href="compound-prt">compound:prt</a>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/compound.md" target="#">edit compound</a></p>
 
@@ -424,8 +454,17 @@ Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. “<a href="http://www.nb
 <p><a id="al-no-dep/conj" class="al-dest"></a></p>
 <h2><code>conj</code>: conjunct</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>conj</code>.</p>
+<p>A conjunct is the relation between two elements connected by a coordinating conjunction, such as <em>og</em> “and”, <em>eller</em> “or”, etc. We treat conjunctions asymmetrically: The head of the relation is the first conjunct and all the other conjuncts depend on it via the conj relation.</p>
+
+<pre><code class="language-sdparse">Lam og piggvar på bryllupsmenyen \n Lamb and turbot on the wedding menu
+conj(Lam,piggvar)
+</code></pre>
+
+<pre><code class="language-sdparse">Kamskjell , piggvar og lammefilet sto på menyen \n Scallops, turbot and lamb were on the menu
+conj(Kamskjell-1,piggvar-3)
+punct(Kamskjell-1,,-2)
+conj(Kamskjell-1,lammefilet-5)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/conj.md" target="#">edit conj</a></p>
 
