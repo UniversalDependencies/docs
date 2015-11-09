@@ -472,32 +472,48 @@ cc(Kamskjell-1,og-4)
 <p><a id="al-no-dep/cop" class="al-dest"></a></p>
 <h2><code>cop</code>: copula</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>cop</code>.</p>
+<p>A copula is the relation between the complement of a copular verb and the copular verb <em>være</em> “to be”. The copula is treated as a dependent of the lexical verb.</p>
+
+<pre><code class="language-sdparse">Det er ovnsbakt piggvar \n It is ovenbaked turbot
+cop(piggvar, er)
+</code></pre>
+
+<p>This analysis entails that in copula clauses, the main predicate is not verbal, but rather an adjectival or even nominal (as in the above example).</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/cop.md" target="#">edit cop</a></p>
 
 <p><a id="al-no-dep/csubj" class="al-dest"></a></p>
 <h2><code>csubj</code>: clausal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubj</code>.</p>
+<p>A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause.</p>
+
+<pre><code class="language-sdparse">Det vil ta lang tid å rette opp feilene \n It will take a long time to correct the errors
+csubj(ta,rette)
+</code></pre>
+
+<p>When the matrix clause is a copula construction, the head of the <code>csubj</code> may be an adjectival (or even nominal) predicate.</p>
+
+<pre><code class="language-sdparse">Det er rart at vi kom i mål i det hele tatt \n It is funny that we reached our goal at all
+csubj(rart,kom)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/csubj.md" target="#">edit csubj</a></p>
 
 <p><a id="al-no-dep/csubjpass" class="al-dest"></a></p>
 <h2><code>csubjpass</code>: clausal passive subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>csubjpass</code>.</p>
+<p>A clausal passive subject is a clausal syntactic subject of a passive clause. In the example below, the clause <em>At de mener alvor</em> “That they are serious” is the <code>csubjpass</code> of the passive verb <em>illustreres</em> “illustrated-PASS”.</p>
+
+<pre><code class="language-sdparse">At de mener alvor, kan illustreres med følgende \n That they are serious can be illustrated by the following
+csubjpass(illustreres,mener)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/csubjpass.md" target="#">edit csubjpass</a></p>
 
 <p><a id="al-no-dep/dep" class="al-dest"></a></p>
 <h2><code>dep</code>: unspecified dependency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>dep</code>.</p>
+<p>A dependency is labeled as dep when a system is unable to determine a more precise dependency relation between two words. This relation is not used for Norwegian.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/dep.md" target="#">edit dep</a></p>
 
