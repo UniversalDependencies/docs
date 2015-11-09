@@ -4,5 +4,4 @@ title: 'dep'
 shortdef: 'unspecified dependency'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dep`.
+A dependency is labeled as dep when a system is unable to determine a more precise dependency relation between two words. This relation is not used for Norwegian.
