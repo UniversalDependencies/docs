@@ -700,16 +700,35 @@ mark(fullføre,å)
 <p><a id="al-no-dep/name" class="al-dest"></a></p>
 <h2><code>name</code>: name</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>name</code>.</p>
+<p>The <code>name</code> relation is used for proper nouns constituted of multiple nominal elements. 
+Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the name label.</p>
+
+<pre><code class="language-sdparse">Sven O. Høiby 
+name(Sven-1,O.-2)
+name(Sven-1,Høiby-3)
+</code></pre>
+
+<p>A flat analysis is also adopted for names where there is a clear syntactic analysis (unlike the UD guidelines) due to the automated conversion procedure.</p>
+
+<pre><code class="language-sdparse">Universitetet i Bergen
+name(Universitetet-1,i-2)
+name(Universitetet-1,Bergen-3)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/name.md" target="#">edit name</a></p>
 
 <p><a id="al-no-dep/neg" class="al-dest"></a></p>
 <h2><code>neg</code>: negation modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>neg</code>.</p>
+<p>The negation modifier is the relation between a negation word and the word it modifies. For Norwegian, it is employed for the negative determiner <em>ingen</em> “no” and the negative adverb <em>ikke</em> “not”.</p>
+
+<pre><code class="language-sdparse">Ingen gratis kvoter \n No free quotas
+neg(kvoter,Ingen)
+</code></pre>
+
+<pre><code class="language-sdparse">Det betyr ikke så mye \n It does not mean so much
+neg(betyr,ikke)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/neg.md" target="#">edit neg</a></p>
 
