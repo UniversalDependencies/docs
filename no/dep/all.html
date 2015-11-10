@@ -256,7 +256,7 @@ dobj(kjenner,som)
 </code></pre>
 
 <pre><code class="language-sdparse">Jeg kjenner han som du danset med \n I know he who you danced with
-acl:relcl(venn,danset)
+acl:relcl(han,danset)
 nmod(danset,som)
 </code></pre>
 
@@ -610,6 +610,12 @@ csubj(ønskelig-3,arbeider-6)
 expl(oppgave-5,Det-1)
 csubj(oppgave-5,bidra-7)
 </code></pre>
+<p>We also find clause-anticipating constructions with expletive objects.</p>
+
+<pre><code class="language-sdparse">Retten finner det bevist at han handlet forsettlig \n The court finds it proven that he acted intentionally
+expl(finner-2,det-3)
+ccomp(finner-2,handlet-7)
+</code></pre>
 
 <h5 id="clefts">Clefts</h5>
 <p>Clefts are quite  common in Norwegian. They contain an expletive subject, a form of <em>være</em> “to be” and a relative clause.</p>
@@ -619,7 +625,8 @@ expl(arter-5,Det-1)
 acl:relcl(arter-5,klart-8)
 </code></pre>
 
-<p>Flertallet ser det som en fordel at en lovforankret kirke</p>
+<h5 id="references">References</h5>
+<p>Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. <a href="http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf">NDT Guidelines for Morphological Annotation</a>”. National Library Tech Report.</p>
 
 <p>~~~</p>
 
@@ -628,40 +635,58 @@ acl:relcl(arter-5,klart-8)
 <p><a id="al-no-dep/foreign" class="al-dest"></a></p>
 <h2><code>foreign</code>: foreign words</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>foreign</code>.</p>
+<p>We use <code>foreign</code> to label sequences of foreign words.</p>
+
+<pre><code class="language-sdparse">Small is beautiful er det noe som heter \n Small is beautiful is something that is said
+foreign(Small-1,is-2)
+foreign(Small-1,beautiful-3)
+xcomp(heter-8,Small-1)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/foreign.md" target="#">edit foreign</a></p>
 
 <p><a id="al-no-dep/goeswith" class="al-dest"></a></p>
 <h2><code>goeswith</code>: goes with</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>goeswith</code>.</p>
+<p>This relation links two parts of a word that are separated in text that is not well edited. It is used in Norwegian for elements that constitute syntactic errors and that otherwise are difficult to assign a relation in the analysis.</p>
+
+<pre><code class="language-sdparse">CNN har flere resultater fra fra valgdagsmålinger \n CNN have several results from from election polls
+goeswith(har-2,fra-5)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/goeswith.md" target="#">edit goeswith</a></p>
 
 <p><a id="al-no-dep/iobj" class="al-dest"></a></p>
 <h2><code>iobj</code>: indirect object</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>iobj</code>.</p>
+<p>The indirect object of a verb is any nominal phrase that is a core argument of the verb but is not its subject or direct object. The <code>iobj</code> relation presupposes a <code>dobj</code> argument of the same word and is only used for nominal arguments. Note that nominals with a preposition such as <em>til</em> “to” which are semantically similar to indirect object in the expression of a recipient role are not analyzed as <code>iobj</code>.</p>
+
+<pre><code class="language-sdparse">gi den ubehøvlede unge mannen en sjanse \n give the rude young man a chance
+iobj(gi-1,mannen-5)
+dobj(gi-1,sjanse-7)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/iobj.md" target="#">edit iobj</a></p>
 
 <p><a id="al-no-dep/list" class="al-dest"></a></p>
 <h2><code>list</code>: list</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>list</code>.</p>
+<p>The <code>list</code> relation is not used for Norwegian.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/list.md" target="#">edit list</a></p>
 
 <p><a id="al-no-dep/mark" class="al-dest"></a></p>
 <h2><code>mark</code>: marker</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>mark</code>.</p>
+<p>A marker is the word introducing a subordinate clause and the marker is a dependent of the subordinate clause head. In Norwegian it is used for both finite and non-finite subordinate clauses.</p>
+
+<pre><code class="language-sdparse">Jeg føler at vi blir lurt \n I feel that we are fooled
+mark(lurt,at)
+</code></pre>
+
+<pre><code class="language-sdparse">Dette arbeidet rakk han aldri å fullføre \n This worh, he never managed to finish
+mark(fullføre,å)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/mark.md" target="#">edit mark</a></p>
 
