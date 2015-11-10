@@ -57,6 +57,10 @@ acl:relcl(arter-5,klart-8)
 ~~~
 
 
+#####References
+Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. [NDT Guidelines for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf)". National Library Tech Report.
+
+
 
 
 ~~~
