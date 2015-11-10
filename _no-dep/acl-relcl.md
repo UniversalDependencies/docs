@@ -19,7 +19,7 @@ dobj(kjenner,som)
 
 ~~~ sdparse
 Jeg kjenner han som du danset med \n I know he who you danced with
-acl:relcl(venn,danset)
+acl:relcl(han,danset)
 nmod(danset,som)
 ~~~
 
