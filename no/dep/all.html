@@ -763,8 +763,22 @@ nmod(mandag-3,kveld-4)
 <p><a id="al-no-dep/nsubj" class="al-dest"></a></p>
 <h2><code>nsubj</code>: nominal subject</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nsubj</code>.</p>
+<p>A nominal subject is a nominal phrase which is the subject of a clause. The governor of the <code>nsubj</code> relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun.</p>
+
+<pre><code class="language-sdparse">Jeg har ingenting mer å si om det nå \n I have nothing more to say about that now
+nsubj(har,Jeg)
+</code></pre>
+
+<pre><code class="language-sdparse">Dette svaret er viktig for Frp \n This answer is important for Frp
+nsubj(viktig,svaret)
+</code></pre>
+
+<p>Note that in cases where there is an expletive subject (<a href="expl">expl</a>), the <code>nsubj</code> relation is used to express the potential/postposed subject:</p>
+
+<pre><code class="language-sdparse">Det eksisterer allerede en debatt \n There already exists a debate
+expl(eksisterer-2,Det-1)
+nsubj(eksisterer-2,debatt-5)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/nsubj.md" target="#">edit nsubj</a></p>
 
