@@ -39,6 +39,13 @@ Det er en offentlig oppgave å bidra økonomisk \n It is a public duty to contri
 expl(oppgave-5,Det-1)
 csubj(oppgave-5,bidra-7)
 ~~~
+We also find clause-anticipating constructions with expletive objects.
+
+~~~ sdparse
+Retten finner det bevist at han handlet forsettlig \n The court finds it proven that he acted intentionally
+expl(finner-2,det-3)
+ccomp(finner-2,handlet-7)
+~~~
 
 #####Clefts
 Clefts are quite  common in Norwegian. They contain an expletive subject, a form of *være* "to be" and a relative clause.
@@ -50,8 +57,6 @@ acl:relcl(arter-5,klart-8)
 ~~~
 
 
-
-Flertallet ser det som en fordel at en lovforankret kirke
 
 
 ~~~
