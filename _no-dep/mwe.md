@@ -4,5 +4,4 @@ title: 'mwe'
 shortdef: 'multi-word expression'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `mwe`.
+The `mwe` relation is not used for Norwegian.
