@@ -48,11 +48,11 @@ ccomp(finner-2,handlet-7)
 ~~~
 
 #####Clefts
-Clefts are quite  common in Norwegian. They contain an expletive subject, a form of *være* "to be" and a relative clause.
+Clefts are quite  common in Norwegian. They contain an expletive subject, a form of *være* "to be" and a relative clause. Note that in clefts we do not adopt a copula analysis of the verb *være* "er".
 
 ~~~ sdparse
 Det er forholdsvis få arter som har klart å tilpasse seg \n There are quite few species that have managed to adapt 
-expl(arter-5,Det-1)
+expl(er-2,Det-1)
 acl:relcl(arter-5,klart-8)
 ~~~
 
