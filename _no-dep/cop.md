@@ -13,3 +13,5 @@ cop(piggvar, er)
 
 This analysis entails that in copula clauses, the main predicate is not verbal, but rather an adjectival or even nominal (as in the above example).
 
+Note that there are occurrences of *være* "to be" which do not give rise to a copula analysis, such as in cleft constructions (see [expl](expl)).
+
