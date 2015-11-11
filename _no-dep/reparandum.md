@@ -4,5 +4,4 @@ title: 'reparandum'
 shortdef: 'overridden disfluency'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `reparandum`.
+This relation is not used for Norwegian.
