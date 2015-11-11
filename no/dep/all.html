@@ -480,6 +480,8 @@ cop(piggvar, er)
 
 <p>This analysis entails that in copula clauses, the main predicate is not verbal, but rather an adjectival or even nominal (as in the above example).</p>
 
+<p>Note that there are occurrences of <em>være</em> “to be” which do not give rise to a copula analysis, such as in cleft constructions (see <a href="expl">expl</a>).</p>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/cop.md" target="#">edit cop</a></p>
 
 <p><a id="al-no-dep/csubj" class="al-dest"></a></p>
@@ -614,10 +616,10 @@ ccomp(finner-2,handlet-7)
 </code></pre>
 
 <h5 id="clefts">Clefts</h5>
-<p>Clefts are quite  common in Norwegian. They contain an expletive subject, a form of <em>være</em> “to be” and a relative clause.</p>
+<p>Clefts are quite  common in Norwegian. They contain an expletive subject, a form of <em>være</em> “to be” and a relative clause. Note that in clefts we do not adopt a copula analysis of the verb <em>være</em> “er”.</p>
 
 <pre><code class="language-sdparse">Det er forholdsvis få arter som har klart å tilpasse seg \n There are quite few species that have managed to adapt 
-expl(arter-5,Det-1)
+expl(er-2,Det-1)
 acl:relcl(arter-5,klart-8)
 </code></pre>
 
@@ -797,64 +799,111 @@ auxpass(opprettet,ble)
 <p><a id="al-no-dep/nummod" class="al-dest"></a></p>
 <h2><code>nummod</code>: numeric modifier</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>nummod</code>.</p>
+<p>A numeric modifier of a noun is any number phrase that serves to modify the meaning of the noun with a quantity.</p>
+
+<pre><code class="language-sdparse">I 100 år er Nobels fredspris blitt delt ut \n For 100 years the Nobel Peace Prize has been handed out
+nummod(år,100)
+</code></pre>
+
+<pre><code class="language-sdparse">De tre partiene svarer likevel \n The three parties still answer
+nummod(partiene,tre)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/nummod.md" target="#">edit nummod</a></p>
 
 <p><a id="al-no-dep/parataxis" class="al-dest"></a></p>
 <h2><code>parataxis</code>: parataxis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>parataxis</code>.</p>
+<p>The parataxis relation is a relation between a word (often the main predicate of a sentence) and other elements, such as a sentential parenthetical or a clause after a “:” or a “;”, placed side by side without any explicit coordination, subordination, or argument relation with the head word.</p>
+
+<p>The Norwegian <code>parataxis</code> relation is largely used for reported speech and some other parentheticals.</p>
+
+<pre><code class="language-sdparse">Det er skade for minst 400.000 , sa Solberg \n There are damages for at least 400.000 , said Solberg
+parataxis(er,sa)
+</code></pre>
+
+<pre><code class="language-sdparse">Jeg skjønner den ikke men antar at den er kjempemorsom ( ironi ) \n I don't understand it but assume it is really funny ( irony )
+parataxis(skjønner,ironi)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/parataxis.md" target="#">edit parataxis</a></p>
 
 <p><a id="al-no-dep/punct" class="al-dest"></a></p>
 <h2><code>punct</code>: punctuation</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>punct</code>.</p>
+<p>Tokens with the relation punct always attach to content words (except in cases of ellipsis) and can never have dependents. Since punct is not a normal dependency relation, the usual criteria for determining the head word do not apply. Instead, we use the following principles:</p>
+
+<ul>
+  <li>A punctuation mark separating coordinated units is attached to the first conjunct.</li>
+  <li>A punctuation mark preceding or following a subordinated unit is attached to this unit.</li>
+  <li>Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.</li>
+  <li>Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.</li>
+</ul>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/punct.md" target="#">edit punct</a></p>
 
 <p><a id="al-no-dep/remnant" class="al-dest"></a></p>
 <h2><code>remnant</code>: remnant in ellipsis</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
+<p>The <code>remnant</code> relation is used to provide a satisfactory treatment of ellipsis. In Norwegian, the remnant element is attached to the main predicate of the clause (and not to the correlate in the preceding context).</p>
+
+<pre><code class="language-sdparse">En prins er født, navnet klart til uken \n A prince is born, name ready next week
+remnant(navnet,født)
+</code></pre>
+
+<pre><code class="language-sdparse">Jeg er norsk i Norge, og fransk i Frankrike \n I am Norwegian in Norway and French in France
+remnant(norsk,fransk)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/remnant.md" target="#">edit remnant</a></p>
 
 <p><a id="al-no-dep/reparandum" class="al-dest"></a></p>
 <h2><code>reparandum</code>: overridden disfluency</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>reparandum</code>.</p>
+<p>This relation is not used for Norwegian.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/reparandum.md" target="#">edit reparandum</a></p>
 
 <p><a id="al-no-dep/root" class="al-dest"></a></p>
 <h2><code>root</code>: root</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>root</code>.</p>
+<p>The root grammatical relation points to the root of the sentence.</p>
+
+<pre><code class="language-sdparse">ROOT Men så smalt det igjen \n But then it said bang again
+root(ROOT, smalt)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/root.md" target="#">edit root</a></p>
 
 <p><a id="al-no-dep/vocative" class="al-dest"></a></p>
 <h2><code>vocative</code>: vocative</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>vocative</code>.</p>
+<p>This relation is not used in Norwegian.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/vocative.md" target="#">edit vocative</a></p>
 
 <p><a id="al-no-dep/xcomp" class="al-dest"></a></p>
 <h2><code>xcomp</code>: open clausal complement</h2>
 
-<p>This document is a placeholder for the language-specific documentation
-for <code>xcomp</code>.</p>
+<p>An open clausal complement (xcomp) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily determined by an argument external to the xcomp. This is often referred to as obligatory control.</p>
+
+<p>In Norwegian <code>xcomp</code> is used for infinitival clauses</p>
+
+<pre><code class="language-sdparse">Han har tidligere lovet å vende tilbake \n He has previously promised to return
+xcomp(lovet,vende)
+</code></pre>
+
+<p>This relation is also used for cases of optional secondary predication</p>
+
+<pre><code class="language-sdparse">presidentens ambisiøse helseplan kjørte seg fullstendig fast \n the president's ambitious health plan got completely stuck
+xcomp(kjørte,fast)
+</code></pre>
+
+<p><code>xcomp</code> is also used for copula-like verbs such as <code>bli</code> “become”, <em>kalle</em> “call”, <em>hete</em> “named” in Norwegian.</p>
+
+<pre><code class="language-sdparse">Mennesket kan bli edelt \n Man can become noble
+xcomp(bli,edelt)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_no-dep/xcomp.md" target="#">edit xcomp</a></p>
 
