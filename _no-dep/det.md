@@ -12,7 +12,7 @@ det(posten,denne)
 ~~~
 
 Other parts of speech than `DET` may in some cases be assigned a determiner relation to a nominal head. 
-For Norwegian the `det` relation is also used for genitive nouns, like *årets* "this year's", quantity nouns like *rekke* "number-of" and *millioner* "millions".
+For Norwegian the `det` relation is also used for genitive nouns, like *årets* "this year's" and quantity nouns like *rekke* "number-of".
 
 ~~~ sdparse
 årets fredspris \n this year's peace prize
@@ -24,7 +24,3 @@ en rekke saker \n a number-of cases
 det(saker,rekke)
 ~~~
 
-~~~ sdparse
-22 millioner flyktninger \n 22 million refugees
-det(flyktninger,millioner)
-~~~
