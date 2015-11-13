@@ -13,7 +13,7 @@ Han har tidligere lovet å vende tilbake \n He has previously promised to return
 xcomp(lovet,vende)
 ~~~
 
-This relation is also used for cases of optional secondary predication
+This relation is also used for cases of obligatory secondary predication
 
 ~~~ sdparse
 presidentens ambisiøse helseplan kjørte seg fullstendig fast \n the president's ambitious health plan got completely stuck
