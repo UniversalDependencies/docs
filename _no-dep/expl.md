@@ -9,7 +9,7 @@ This relation captures expletive nominals. These are nominals that appear in an 
 For Norwegian, the expletive element is expressed using the neuter pronoun *det* "it" and the `expl` relation is used for both expletive subjects and objects.
 
 #####Presentational construction
-In Norwegian expletives presentational construction, which involves an expletive subject, an active verb and an indefinite subject (*en debatt* "a debate" in the example below).
+In Norwegian expletives occur in the presentational construction, which involves an expletive subject, an active verb and an indefinite subject (*en debatt* "a debate" in the example below).
 
 ~~~ sdparse
 Det eksisterer allerede en debatt \n There already exists a debate
