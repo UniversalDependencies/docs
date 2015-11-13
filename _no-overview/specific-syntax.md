@@ -6,7 +6,7 @@ permalink: no/overview/specific-syntax.html
 
 # Specific constructions
 
-####Passive
+###Passive
 In Norwegian there are two ways of expressing passive voice: morphological passive and a periphrastic passive construction. The morphological passive is expressed by the passive *-s* suffix, e.g. *bygges* "to be built" and the periphrastic passive is constructed with the passive auxiliary *bli* "to become" and a participle form of the main verb, e.g. *opprettet* "established".
 
 ~~~ sdparse
@@ -20,7 +20,7 @@ nsubjpass(opprettet,FN)
 auxpass(opprettet,ble)
 ~~~
 
-####Verbal particles
+###Verbal particles
 Verbal particles are analyzed using the language-specific relation [compound:prt](compund-prt).
 Particles exhibit a number of syntactic properties which sets them apart from regular prepositions. For instance, a pronominal object may intercede the verb and the preposition in the particle case *satte den på* "put it on", but not in the case of a regular preposition and its complement _\*lette den etter_ "\*looked it for",  and only complements of a preposition may occur in an impersonal passive *Det ble lett etter den nye boka* "It was looked for the new book", but an object in a particle construction may not _\*Det ble satt den på_ "\*It was put it on".
 
@@ -39,10 +39,10 @@ Forskningsrådet delte onsdag kveld ut to sentrale priser \n The research counci
 compound:prt(delte,ut)
 ~~~
 
-####Expletives
+###Expletives
 In Norwegian, expletive arguments are expressed using the neuter pronoun *det* "it" and the [expl](expl) relation is used for both expletive subjects and objects. Expletives occur in several syntactic constructions in Norwegian.
 
-#####Presentational construction
+####Presentational construction
 In Norwegian expletives occur in the presentational construction, which involves an expletive subject, an active verb and an indefinite subject (*en debatt* "a debate" in the example below).
 
 ~~~ sdparse
@@ -51,7 +51,7 @@ expl(eksisterer-2,Det-1)
 nsubj(eksisterer-2,debatt-5)
 ~~~
 
-#####Impersonal passive
+####Impersonal passive
 Norwegian employs the impersonal passive construction, where there is an expletive subject and the underlying subject is unexpressed.
 
 ~~~ sdparse
@@ -59,7 +59,7 @@ Senere har det blitt fremsatt flere forslag \n Later has there been proposed sev
 expl(fremsatt,det)
 ~~~
 
-#####Clause-anticipating constructions
+####Clause-anticipating constructions
 These constructions contain a finite or non-finite clause which semantically may be regarded as the subject, but where the subject position is occupied by an expletive.
 
 ~~~ sdparse
@@ -81,7 +81,7 @@ expl(finner-2,det-3)
 ccomp(finner-2,handlet-7)
 ~~~
 
-#####Clefts
+####Clefts
 Clefts are quite  common in Norwegian. They contain an expletive subject, a form of *være* "to be" and a relative clause. Note that in clefts we do not adopt a copula analysis of the verb *være* "er".
 
 ~~~ sdparse
@@ -91,6 +91,6 @@ acl:relcl(arter-5,klart-8)
 ~~~
 
 
-####References
+###References
 
 Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. "[NDT Guidelines for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf)". National Library Tech Report.
