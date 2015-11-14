@@ -50,11 +50,12 @@ The data is released through LINDAT/CLARIN
 
 # Query online
 
-You can query the 19 UD treebanks released in UD v1.1 using
-[the SETS treebank search](http://bionlp-www.utu.fi/dep_search)
-maintained by the University of Turku, or using
-[PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
-maintained by the Charles University in Prague.
+You can query the UD treebanks using
+
+* [SETS treebank search](http://bionlp-www.utu.fi/dep_search)
+  maintained by the University of Turku, or
+* [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
+  maintained by the Charles University in Prague.
 
 # Stay up to date
 
