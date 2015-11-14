@@ -124,7 +124,7 @@ subset of the Interset feature inventory, and a revised version of the CoNLL-X f
 * <a href="index.html#language-pt">Tamil</a>: Loganathan Ramasamy, Dan Zeman
 * <a href="index.html#language-tr">Turkish</a>: Çağrı Çöltekin, Francis Tyers, Jonathan Washington
 
-## References
+## UD Publications
 
 * Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
   [Converting Italian treebanks: Towards an Italian Stanford dependency treebank](http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf),
