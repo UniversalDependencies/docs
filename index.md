@@ -50,7 +50,7 @@ The data is released through LINDAT/CLARIN
 
 # Query online
 
-You can query the UD treebanks using
+You can query the UD treebanks on-line using
 
 * [SETS treebank search](http://bionlp-www.utu.fi/dep_search)
   maintained by the University of Turku, or
