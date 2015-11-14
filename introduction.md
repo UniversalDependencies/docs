@@ -62,10 +62,6 @@ The new Universal Dependencies is the result of merging all these initiatives in
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
 
-## UD publications
-
-Nivre (2014), Nivre (2015), Pyysalo et al. (2015)
-
 ## Contributors
 
 <!-- alphabetical by surname -->
