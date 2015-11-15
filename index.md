@@ -42,11 +42,12 @@ so that we can avoid problems with conflicting versions.
 
 # Download
 
-The data is released through LINDAT/CLARIN
+The data is released through LINDAT/CLARIN.
 
-* Version 1.1 treebanks <a href="http://hdl.handle.net/11234/LRT-1478">http://hdl.handle.net/11234/LRT-1478</a>. Released May 15, 2015. Note: English data in the release were corrected on May 26, 2015. If you have downloaded the data before this date, please re-download.
+* Version 1.2 treebanks <a href="http://hdl.handle.net/11234/1-1548">http://hdl.handle.net/11234/1-1548</a>. Released Nov 15, 2015.
+* Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. Released May 15, 2015.
 * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
-* The next release (v1.2) is scheduled for November 15, 2015. We intend to have regular treebank releases every six months.
+* The next release (v1.3) is scheduled for May 15, 2016. We intend to have regular treebank releases every six months.
 
 # Query online
 
