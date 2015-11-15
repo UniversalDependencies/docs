@@ -175,7 +175,9 @@
 <p><a id="al-en-pos/PRON" class="al-dest"></a></p>
 <h2><code>PRON</code>: pronoun</h2>
 
-<p>The English <code>PRON</code> corresponds to the PTB PRP, PRP$, WP, WP$, and EX.  (The assignment of PRP$ and WP$ to PRON might be subject to revision - they could also become DET.)</p>
+<p><code>PRON</code> is used for English pronouns, such as <em>we</em>, <em>her</em>, <em>it</em>, <em>who</em>, and <em>that</em> when used as a relative pronoun.</p>
+
+<p>The English <code>PRON</code> corresponds to the PTB PRP, PRP$, WP, WP$, EX, and certain things that are tagged DT (question and <em>Wh</em> pronouns, such as <em>who</em>, <em>this</em>, and <em>that</em>), when they comprise a nominal by themselves rather than functioning as the determiner of a nominal head (usually a noun). (The assignment of PRP$ and WP$ to PRON might be subject to revision - they could also become DET.)</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-pos/PRON.md" target="#">edit PRON</a></p>
 
@@ -208,15 +210,16 @@
 <p><a id="al-en-pos/SCONJ" class="al-dest"></a></p>
 <h2><code>SCONJ</code>: subordinating conjunction</h2>
 
-<p><code>SCONJ</code> is used for these three subclasses of subordinating conjunctions:</p>
+<p><code>SCONJ</code> is used for these two subclasses of subordinating conjunctions:</p>
 
 <ul>
   <li>Complementizers: <em>that</em>, <em>whether</em>, <em>if</em>, etc.</li>
   <li>Adverbial clause introducers: <em>when</em>, <em>since</em>, <em>before</em>, etc. (when introducing a clause not a nominal)</li>
-  <li>Relativizers: Just <em>that</em>.  (Following Jespersen (1924) and the Penn Treebank, we analyze <em>that</em> as a subordinating conjunction (complementizer) and not as a relative pronoun.)</li>
 </ul>
 
 <p>These are a subset of the things that the IN tag is used for in the PTB.</p>
+
+<p>We treat the putative relativizer use of <em>that</em> (e.g., Jespersen 1924) as a relative pronoun in modern English, so that it gets the POS tag <a href="">PRON</a>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_en-pos/SCONJ.md" target="#">edit SCONJ</a></p>
 
