@@ -75,16 +75,16 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 |----------------------------------------------------------|
 | TDT          | UD Finnish          | Notes               |
 |:-------------|:--------------------|:--------------------|
-| `acomp`      | [xcomp:a]()         |                     |
+| `acomp`      | [xcomp]()         |                     |
 | `adpos`      | [case]()            |                     |
-| `compar`     | [advcl:compar]()    |                     |
-| `comparator` | [mark:comparator]() |                     |
+| `compar`     | [advcl]()    |                     |
+| `comparator` | [mark]() |                     |
 | `complm`     | [mark]()            | Removed distinction |
 | `csubj-cop`  | [csubj:cop]()       |                     |
 | `gobj`       | [nmod:gobj]()       |                     |
 | `gsubj`      | [nmod:gsubj]()      |                     |
 | `iccomp`     | [xcomp:ds]()        |                     |
-| `infmod`     | [acl:infmod]()      |                     |
+| `infmod`     | [acl]()      |                     |
 | `intj`       | [discourse]()       |                     |
 | `nn`         | [compound:nn]()     |                     |
 | `nommod`     | [nmod]()            |                     |
@@ -92,11 +92,11 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 | `nsubj-cop`  | [nsubj:cop]()       |                     |
 | `num`        | [nummod]()          |                     |
 | `number`     | [compound]()        | Removed distinction |
-| `partmod`    | [acl:partmod]()     |                     |
+| `partmod`    | [acl]()     |                     |
 | `poss`       | [nmod:poss]()       |                     |
 | `preconj`    | [cc:preconj]()      |                     |
 | `prt`        | [compound:prt]()    |                     |
-| `quantmod`   | [advmod:q]()        |                     |
+| `quantmod`   | [advmod]()        |                     |
 | `rcmod`      | [acl:relcl]()       |                     |
 | `rel`        | (multiple)          | See below           |
 | `voc`        | [vocative]()        |                     |
@@ -110,7 +110,5 @@ created by mapping existing TDT annotations and may thus not occur in
 the TDT-derived UD Finnish corpus:
 
 * `dislocated`
-* `foreign`
 * `list`
-* `remnant`
 * `reparandum`
