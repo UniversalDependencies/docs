@@ -242,8 +242,8 @@ from existing tagsets of various languages to the universal part-of-speech tags 
 * [Interset](ext-feat/Style): Arch, Rare, Poet, Norm, Coll, Vrnc, Slng, Expr, Derg, Vulg
 
 ## Subcat
-* [Dutch values](nl-feat/Subcat): Intr, Trans
-* [Interset](ext-feat/Subcat): Intr, Trans
+* [Dutch values](nl-feat/Subcat): Intr, Tran
+* [Interset](ext-feat/Subcat): Intr, Tran
 
 ## Typo
 * [Finnish values](fi-feat/Typo): Yes
