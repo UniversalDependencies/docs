@@ -184,7 +184,7 @@ and <i>punct</i> appear in two places.</p>
 	</tr>
 	<tr>
 	  <td>↳<a>compound:prt</a></td>
-	  <td><strike>foreign</strike></td>
+	  <td><a>foreign</a></td>
 	</tr>
 	<tr>
 	  <td>↳<a>compound:nn</a></td>
@@ -361,9 +361,9 @@ dobj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-1">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-1">Turku Dependency Treebank</h3>
 
 <p>The governor can also be a verb, when the dependent refers to the entire action described in the main sentence.</p>
 
@@ -561,7 +561,7 @@ advmod(lähteä-3, jo-4)
 punct(lähteä-3, .-5)
 </code></pre>
 
-<h4 id="references">References</h4>
+<h4 id="references-1">References</h4>
 
 <ul>
   <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=1562">http://scripta.kotus.fi/visk/sisallys.php?p=1562</a> (in Finnish)</li>
@@ -840,9 +840,9 @@ conj(maitoa-1, voita-5)
 conj(tauti-4, haluan-6)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-2">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-2">Turku Dependency Treebank</h3>
 
 <p><code>Conj</code> is used also for implicit coordinations without a coordinating conjunction when the coordinated elements are not separated by a colon, semicolon or dash.</p>
 
@@ -868,7 +868,7 @@ cop(punainen-3, oli-2)
 punct(punainen-3, .-4)
 </code></pre>
 
-<h3 id="references">References</h3>
+<h3 id="references-2">References</h3>
 
 <ul>
   <li><a href="http://scripta.kotus.fi/visk/sisallys.php?p=891">http://scripta.kotus.fi/visk/sisallys.php?p=891</a> (in Finnish)</li>
@@ -969,9 +969,9 @@ punct(sanoisi-5, ?-6)
 discourse(on-2, :]-4)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-3">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-3">Turku Dependency Treebank</h3>
 
 <p>These do not include other discourse markers than interjections or exclamations.</p>
 
@@ -986,9 +986,9 @@ sentence.</p>
 
 <p>(TODO: Finnish <code>dislocated</code> example)</p>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-4">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-4">Turku Dependency Treebank</h3>
 
 <p><code>dislocated</code> is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.</p>
@@ -1037,9 +1037,9 @@ the governor.</p>
 
 <p>(TODO example)</p>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-5">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-5">Turku Dependency Treebank</h3>
 
 <p><code>expl</code> is not annotated in TDT and is not used in the current version of the UD Finnish corpus.</p>
 
@@ -1051,24 +1051,23 @@ the governor.</p>
 <p>The dependency relation <code>foreign</code> is used to label sequences
 of unanalyzed foreign words. These are annotated without regard
 to internal structure, marking all words in the sequence direct
-dependents of the head.</p>
+dependents of the head. The head is the first word of the foreign phrase.</p>
 
 <p>Note that <code>foreign</code> does not apply to foreign <em>names</em>, which
 are annotated using <a href="">name</a>, or to sequences of <em>analyzed</em> words
 of foreign origin (such as established loanwords), which are
 annotated with their full syntactic structure.</p>
 
-<p>(TODO example)</p>
-
-<h2 id="diffs">Diffs</h2>
-
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
-
-<p><code>foreign</code> is not annotated in TDT and is not used in the current version of the UD Finnish corpus.</p>
-
-<p>Contrary to the general UD definition of <a href="">u-dep/foreign</a>, in
-UD Finnish the last word in a sequence of foreign words is
-considered the head.</p>
+<pre><code class="language-sdparse">Opimme fyysikoiden Let's assume a spherical cow -lähestymistavan .
+dobj(Opimme-1, -lähestymistavan-8)
+nmod:poss(-lähestymistavan-8, fyysikoiden-2)
+compound:nn(-lähestymistavan-8, Let's-3)
+foreign(Let's-3, assume-4)
+foreign(Let's-3, a-5)
+foreign(Let's-3, spherical-6)
+foreign(Let's-3, cow-7)
+punct(Opimme-1, .-9)
+</code></pre>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_fi-dep/foreign.md" target="#">edit foreign</a></p>
 
@@ -1114,9 +1113,9 @@ appos(Puhelin:-3, 555-9814-4)
 appos(Sähköposti:-5, mkorhonen@example.com-6)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-6">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-6">Turku Dependency Treebank</h3>
 
 <p><code>list</code> is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.</p>
@@ -1204,9 +1203,9 @@ name(Tarttin-6, Donna-5)
 nmod:poss(esikoisteos-7, Tarttin-6)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-7">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-7">Turku Dependency Treebank</h3>
 
 <p>Contrary to the general UD definition of <a href="">u-dep/name</a>, in
 UD Finnish the last word of the multi-word name expression is
@@ -1462,9 +1461,9 @@ parataxis(Tulen-1, sanoi-7)
 punct(Tulen-1, .-8)
 </code></pre>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-8">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-8">Turku Dependency Treebank</h3>
 
 <p>If the clauses are separated by a comma and there is no coordinating conjunction, TDT does not use <code>parataxis</code> but <code>conj</code>.</p>
 
@@ -1521,9 +1520,9 @@ repair. The disfluency is the dependent of the repair.</p>
 
 <p>(TODO: Finnish <code>reparandum</code> example)</p>
 
-<h2 id="diffs">Diffs</h2>
+<h2 id="diffs-9">Diffs</h2>
 
-<h3 id="turku-dependency-treebank">Turku Dependency Treebank</h3>
+<h3 id="turku-dependency-treebank-9">Turku Dependency Treebank</h3>
 
 <p><code>reparandum</code> is not annotated in TDT and is not used in
 the current version of the UD Finnish corpus.</p>
