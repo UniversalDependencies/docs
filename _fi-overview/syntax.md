@@ -52,13 +52,9 @@ for subjects of copular clauses. These two new types come in place of
 the passive subject types that are, as explained above, not applied in
 UD Finnish.
 
-We have introduced two new subtypes for open clausal complements
-([`xcomp`]()): 1) *clausal complement with different subject*, [`xcomp:ds`](). This is
-to distinguish which of the sentence elements is inherited from the higher clause. 2) *adjectival complement*, [`xcomp:a`](), to be used when the complement is an adjective.
-
-The new types [`advcl:compar`]() and [`mark:comparator`]() are to be used in
-structures involving comparisons of adjectives (and occasionally other
-parts-of-speech).
+We have introduced one new subtype for open clausal complements
+([`xcomp`]()): *clausal complement with different subject*, [`xcomp:ds`](). This is
+to distinguish which of the sentence elements is inherited from the higher clause.
 
 ---
 
