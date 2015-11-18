@@ -5,7 +5,7 @@ shortdef: 'remnant in ellipsis'
 ---
 
 ~~~ sdparse
-Dan a desenat o casă, iar Maria un copac.
+Dan a desenat o casă, iar Maria un copac .
 remnant(Dan, Maria)
 remnant(casă, copac)
 ~~~
