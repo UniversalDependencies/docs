@@ -33,5 +33,5 @@ expl(știe, nu)
 
 ~~~ sdparse
 Mi- am vândut mașina .
-expl:poss(v\ndut, Mi-)
+expl:poss(vândut, Mi-)
 ~~~
