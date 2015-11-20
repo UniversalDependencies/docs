@@ -223,14 +223,6 @@ in two places.</p>
 
 <hr />
 
-<p><a id="al-ro-dep/" class="al-dest"></a></p>
-<h2><code></code>: </h2>
-
-<p>This document is a placeholder for the language-specific documentation
-for <code>remnant</code>.</p>
-
-<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/remnant.md" target="#">edit </a></p>
-
 <p><a id="al-ro-dep/acl" class="al-dest"></a></p>
 <h2><code>acl</code>: clausal modifier of noun</h2>
 
@@ -609,6 +601,14 @@ expl(apucat, o)
 expl(știe, nu)
 </code></pre>
 
+<ul>
+  <li>possession:</li>
+</ul>
+
+<pre><code class="language-sdparse">Mi- am vândut mașina .
+expl:poss(vândut, Mi-)
+</code></pre>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/expl.md" target="#">edit expl</a></p>
 
 <p><a id="al-ro-dep/foreign" class="al-dest"></a></p>
@@ -768,6 +768,24 @@ for <code>parataxis</code>.</p>
 for <code>punct</code>.</p>
 
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/punct.md" target="#">edit punct</a></p>
+
+<p><a id="al-ro-dep/remnant" class="al-dest"></a></p>
+<h2><code>remnant</code>: remnant in ellipsis</h2>
+
+<pre><code class="language-sdparse">Dan a desenat o casă , iar Maria un copac .
+remnant(Dan, Maria)
+remnant(casă, copac)
+</code></pre>
+
+<pre><code class="language-sdparse">ROOT Când a intrat preotul , toți în genunchi .
+root(ROOT, genunchi)
+nsubj(genunchi, toți)
+</code></pre>
+
+<p>This document is a placeholder for the language-specific documentation
+for <code>remnant</code>.</p>
+
+<p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_ro-dep/remnant.md" target="#">edit remnant</a></p>
 
 <p><a id="al-ro-dep/reparandum" class="al-dest"></a></p>
 <h2><code>reparandum</code>: overridden disfluency</h2>
