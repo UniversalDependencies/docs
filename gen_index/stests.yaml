@@ -1,0 +1,14 @@
+-
+  name: Aux chain
+  expr: _ >aux (_ >aux _)
+  desc: Auxes should not form a chain
+
+-
+  name: Name to left
+  expr: _ >name@L _
+  desc: Name should not go left
+
+-
+  name: MWE to left
+  expr: _ >mwe@L _
+  desc: Mwe should not go left
