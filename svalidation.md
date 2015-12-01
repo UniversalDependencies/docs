@@ -1011,7 +1011,7 @@ Search expression: `_ <mwe@R _`
 
 # Deps of expl
 
-Expl relations
+Expl relation dependents.
 
 Search expression: `_ <expl _`
 
@@ -1290,6 +1290,25 @@ Search expression: `_ <expl _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/?search=_+%3Cexpl+_&db=Swedish">Go to search</a><p/>
+</div>
+</div>
+
+
+# Heads of expl
+
+Expl relation heads.
+
+Search expression: `_ expl> _`
+
+<div id="accordion" class="jquery-ui-accordion">
+<div>
+<span class="doublewidespan" style="padding-left:3em">Hit overview</span>
+<span class="widespan"> </span>
+</div>
+<div>
+<table>
+<tr><th/>  </tr>
+</table>
 </div>
 </div>
 

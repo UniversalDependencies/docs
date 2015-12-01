@@ -16,5 +16,9 @@
 -
   name: Deps of expl
   expr: _ <expl _
-  desc: Expl relations
+  desc: Expl relation dependents.
 
+-
+  name: Heads of expl
+  expr: _ expl> _
+  desc: Expl relation heads.
