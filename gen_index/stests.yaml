@@ -27,3 +27,12 @@
   name: Heads of expl
   expr: _ >expl _
   desc: Expl relation heads.
+
+#Note: in the following test expr is between double quotes because ! has a special meaning in yaml
+#      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
+#      that are placed in the table. The first _ is always varied with POS
+-
+  name: Acl not dependent on Noun/Propn
+  expr: "!NOUN&!PROPN >acl _"
+  expr-pos: _ >acl _
+  desc: Acl relations not governed by a Noun/Propn
