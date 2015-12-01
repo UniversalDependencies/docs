@@ -1,0 +1,24 @@
+-
+  name: Aux chain
+  expr: _ <aux (_ <aux _)
+  desc: Auxes should not form a chain, they should all depend on their head word.
+
+-
+  name: Name to left
+  expr: _ <name@R _
+  desc: Name should not go left since names are left-headed.
+
+-
+  name: MWE to left
+  expr: _ <mwe@R _
+  desc: Mwe should not go left since mwe's are left-headed.
+
+-
+  name: Deps of expl
+  expr: _ <expl _
+  desc: Expl relation dependents.
+
+-
+  name: Heads of expl
+  expr: _ >expl _
+  desc: Expl relation heads.
