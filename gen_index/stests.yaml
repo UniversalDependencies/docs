@@ -20,5 +20,5 @@
 
 -
   name: Heads of expl
-  expr: _ expl> _
+  expr: _ >expl _
   desc: Expl relation heads.
