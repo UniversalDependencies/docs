@@ -14,6 +14,11 @@
   desc: Mwe should not go left since mwe's are left-headed.
 
 -
+  name: conj to left
+  expr: _ <conj@R _
+  desc: Conj should not go left.
+
+-
   name: Deps of expl
   expr: _ <expl _
   desc: Expl relation dependents.
