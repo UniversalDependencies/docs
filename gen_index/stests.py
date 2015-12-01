@@ -7,10 +7,6 @@ import re
 import urllib
 import itertools
 
-DSEARCH_PATH="/home/ginter/dep_search"
-DATABASE_ROOT="/home/ginter/UD/ud_dbs_12"
-with codecs.open("stests.yaml","r","utf-8") as t:
-    tests=yaml.load(t)
 
 def read_conll(inp,maxsent):
     """ Read conll format file and yield one sentence at a time as a list of lists of columns. If inp is a string it will be interpreted as filename, otherwise as open file for reading in unicode"""
@@ -94,58 +90,70 @@ def hit_table(langs,q):
     
         
     
+def main(tests):
+    ID,FORM,LEMMA,UPOS,XPOS,FEAT,HEAD,DEPREL,DEPS,MISC=range(10)
 
-ID,FORM,LEMMA,UPOS,XPOS,FEAT,HEAD,DEPREL,DEPS,MISC=range(10)
+    print >> out8, u"---"
+    print >> out8, u"layout: base"
+    print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
+    print >> out8, u"---"
 
-out8=codecs.getwriter("utf-8")(sys.stdout)
+    for t in tests:
+        cmd="python query.py --max 10000000000 -d '%s/*/*.db' '%s'"%(args.ud_data,t["expr"])
+        p=subprocess.Popen(cmd,stdin=None,stdout=subprocess.PIPE,stderr=subprocess.PIPE,cwd=args.dep_search,shell=True)
+        out,err=p.communicate()
 
-print >> out8, u"---"
-print >> out8, u"layout: base"
-print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
-print >> out8, u"---"
+        langs={} #key: language  value: LangStat
 
-for t in tests:
-    cmd="python query.py --max 10000000000 -d '%s/*/*.db' '%s'"%(DATABASE_ROOT,t["expr"])
-    p=subprocess.Popen(cmd,stdin=None,stdout=subprocess.PIPE,stderr=subprocess.PIPE,cwd=DSEARCH_PATH,shell=True)
-    out,err=p.communicate()
+        for sent,comments in read_conll(cStringIO.StringIO(out),0):
+            l=get_lang(comments)
+            if l not in langs:
+                langs[l]=LangStat(l)
+            hits=get_hit_indices(comments)
+            assert hits
+            for h in hits:
+                langs[l].hit(sent[h][UPOS])
 
-    langs={} #key: language  value: LangStat
-    
-    for sent,comments in read_conll(cStringIO.StringIO(out),0):
-        l=get_lang(comments)
-        if l not in langs:
-            langs[l]=LangStat(l)
-        hits=get_hit_indices(comments)
-        assert hits
-        for h in hits:
-            langs[l].hit(sent[h][UPOS])
-    
 
-    print >> out8, "#", t["name"]
-    print >> out8
-    print >> out8, t["desc"]
-    print >> out8
-    print >> out8, u"Search expression: `"+t["expr"]+u"`"
-    print >> out8
-    print >> out8, u'<div id="accordion" class="jquery-ui-accordion">'
-    print >> out8, u"<div>"
-    print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%u"Hit overview"
-    print >> out8, u'<span class="widespan"> </span>'
-    print >> out8, u"</div>"
-    print >> out8, u'<div>'
-    hit_table(langs,t["expr"])
-    print >> out8, u'</div>'
-    for l in sorted(langs.keys()):
+        print >> out8, "#", t["name"]
+        print >> out8
+        print >> out8, t["desc"]
+        print >> out8
+        print >> out8, u"Search expression: `"+t["expr"]+u"`"
+        print >> out8
+        print >> out8, u'<div id="accordion" class="jquery-ui-accordion">'
         print >> out8, u"<div>"
-        print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%l
-        print >> out8, u'<span class="widespan">%d hits</span>'%langs[l].hits
+        print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%u"Hit overview"
+        print >> out8, u'<span class="widespan"> </span>'
         print >> out8, u"</div>"
-        print >> out8, u"<div>"
-        q=urllib.urlencode({"db":l,"search":t["expr"]})
-        print >> out8, '<a href="http://bionlp-www.utu.fi/dep_search/?%s">Go to search</a><p/>'%q
+        print >> out8, u'<div>'
+        hit_table(langs,t["expr"])
+        print >> out8, u'</div>'
+        for l in sorted(langs.keys()):
+            print >> out8, u"<div>"
+            print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%l
+            print >> out8, u'<span class="widespan">%d hits</span>'%langs[l].hits
+            print >> out8, u"</div>"
+            print >> out8, u"<div>"
+            q=urllib.urlencode({"db":l,"search":t["expr"]})
+            print >> out8, '<a href="http://bionlp-www.utu.fi/dep_search/?%s">Go to search</a><p/>'%q
+            print >> out8, u"</div>"
         print >> out8, u"</div>"
-    print >> out8, u"</div>"
-    print >> out8
-    print >> out8
+        print >> out8
+        print >> out8
     
         
+if __name__=="__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description='generates the syntactic validation tables')
+    parser.add_argument('--ud-data', default="/home/ginter/UD/ud_dbs_12",help='Where is the UD data indexed by dep_search? (DIRECTORY)')
+    parser.add_argument('--dep-search', default="/home/ginter/dep_search",help='Where is the dep-search home? (DIRECTORY)')
+    args = parser.parse_args()
+
+
+    with codecs.open("stests.yaml","r","utf-8") as t:
+        tests=yaml.load(t)
+    out8=codecs.getwriter("utf-8")(sys.stdout)
+
+    main(tests)
+    
