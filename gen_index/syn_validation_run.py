@@ -128,7 +128,12 @@ def main(tests):
         print >> out8, u'<span class="widespan"> </span>'
         print >> out8, u"</div>"
         print >> out8, u'<div>'
-        hit_table(langs,t["expr"])
+        if t["expr"].startswith(u"_"):
+            hit_table(langs,t["expr"])
+        elif "expr-pos" in t:
+            hit_table(langs,t["expr-pos"])
+        else:
+            print >> out8, u"Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links"
         print >> out8, u'</div>'
         for l in sorted(langs.keys()):
             print >> out8, u"<div>"
