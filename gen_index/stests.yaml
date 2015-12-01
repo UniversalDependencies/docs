@@ -3,20 +3,21 @@
   expr: _ <aux (_ <aux _)
   desc: Auxes should not form a chain, they should all depend on their head word.
 
--
-  name: Name to left
-  expr: _ <name@R _
-  desc: Name should not go left since names are left-headed.
-
--
-  name: MWE to left
-  expr: _ <mwe@R _
-  desc: Mwe should not go left since mwe's are left-headed.
-
--
-  name: conj to left
-  expr: _ <conj@R _
-  desc: Conj should not go left.
+# Switching the L/R tests off for now before the bug which overreports them is fixed
+#-
+#  name: Name to left
+#  expr: _ <name@R _
+#  desc: Name should not go left since names are left-headed.
+#
+#-
+#  name: MWE to left
+#  expr: _ <mwe@R _
+#  desc: Mwe should not go left since mwe's are left-headed.
+#
+#-
+#  name: conj to left
+#  expr: _ <conj@R _
+#  desc: Conj should not go left.
 
 -
   name: Deps of expl
