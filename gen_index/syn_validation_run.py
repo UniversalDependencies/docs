@@ -1,3 +1,4 @@
+import traceback
 import yaml
 import sys
 import codecs
@@ -150,10 +151,12 @@ if __name__=="__main__":
     parser.add_argument('--dep-search', default="/home/ginter/dep_search",help='Where is the dep-search home? (DIRECTORY)')
     args = parser.parse_args()
 
+    try:
+        with codecs.open("stests.yaml","r","utf-8") as t:
+            tests=yaml.load(t)
+        out8=codecs.getwriter("utf-8")(sys.stdout)
+        main(tests)
+    except:
+        traceback.print_exc(file=sys.stdout)
 
-    with codecs.open("stests.yaml","r","utf-8") as t:
-        tests=yaml.load(t)
-    out8=codecs.getwriter("utf-8")(sys.stdout)
-
-    main(tests)
     
