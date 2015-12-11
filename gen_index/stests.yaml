@@ -14,19 +14,53 @@
   desc: Mwe should not go left since mwe's are left-headed.
 
 -
-  name: conj to left
+  name: Conj to left
   expr: _ <conj@R _
   desc: Conj should not go left.
 
 -
-  name: Deps of expl
+  name: Name to right
+  expr: _ <name@L _
+  desc: This is the correct heading direction for name.
+
+-
+  name: MWE to right
+  expr: _ <mwe@L _
+  desc: This is the correct heading direction for MWE.
+
+-
+  name: Conj to right
+  expr: _ <conj@L _
+  desc: This is the correct heading direction for conj.
+-
+  name: POS of expl
   expr: _ <expl _
-  desc: Expl relation dependents.
+  desc: The parts of speech of expl.
+
+-
+  name: Dependents of expl
+  expr: _ < (_ <expl _)
+  desc: The dependents of a word marked as having an expl dependency. This should be empty.
 
 -
   name: Heads of expl
   expr: _ >expl _
-  desc: Expl relation heads.
+  desc: The heads of an expl dependency relation.
+
+-
+  name: POS of xcomp
+  expr: _ <xcomp _
+  desc: The parts of speech of xcomp.
+
+-
+  name: Dependents of xcomp
+  expr: _ < (_ <xcomp _)
+  desc: The dependents of a word marked as having an xcomp dependency.
+
+-
+  name: Heads of xcomp
+  expr: _ >xcomp _
+  desc: The heads of an xcomp dependency relation.
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
 #      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
