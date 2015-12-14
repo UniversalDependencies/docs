@@ -1,10 +1,11 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: kk/overview/tokenization.html
+permalink: tr/overview/tokenization.html
 ---
 
-# Tokenization
+# Tokenisation
 
-This document is a placeholder for the language-specific overview of
-guidelines for tokenization.
+**This document is a work-in-progress proposal. See http://universaldependencies.github.io/docs for current/accepted specification** 
+
+Word tokenisation of Kazakh is similar to the other languages written using the Cyrillic alphabet. 

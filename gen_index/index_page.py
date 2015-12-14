@@ -67,7 +67,7 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"License",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="License not known">-</span></span>""",
             (u"Data available since",u"UD v1.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.0 (Jan 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.1"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.1 (May 2015)"><i class="fa fa-check"></i></span></span>""",
-            (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Will be released in UD version 1.2 (November 2015)"><i class="fa fa-hourglass-end"></i></span></span>""",
+            (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.2 (November 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 empty_wide_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{hint:}">?</span></span>"""
