@@ -553,6 +553,20 @@ collections:
   got-overview:
     output: true
 #
+# Kazakh
+#
+  kk-pos:
+    output: true
+    permalink: /kk/pos/:path.html
+  kk-feat:
+    output: true
+    permalink: /kk/feat/:path.html
+  kk-dep:
+    output: true
+    permalink: /kk/dep/:path.html
+  kk-overview:
+    output: true
+#
 # Template
 #
   template-pos:
