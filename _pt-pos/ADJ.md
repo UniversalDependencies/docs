@@ -65,7 +65,7 @@ ADJ occurs with 6 features: Degree (353; 3% tokens), Gender (10624; 99% tokens),
 
 ADJ occurs with 10 feature-value pairs: Degree=Cmp, Degree=Sup, Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, NumType=Ord, Number=Plur, Number=Sing, Typo=Yes
 
-ADJ occurs with 31 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
+ADJ occurs with 31 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
 
 
 ADJ nodes are attached to their parents using 18 different relations: amod (8694; 81% tokens), conj (532; 5% tokens), root (485; 5% tokens), advmod (202; 2% tokens), xcomp (176; 2% tokens), ccomp (170; 2% tokens), nsubj (136; 1% tokens), acl (92; 1% tokens), dobj (90; 1% tokens), advcl (69; 1% tokens), appos (23; 0% tokens), csubj (10; 0% tokens), parataxis (10; 0% tokens), nmod (8; 0% tokens), iobj (5; 0% tokens), dep (3; 0% tokens), cop (2; 0% tokens), nummod (1; 0% tokens)
@@ -425,7 +425,7 @@ DET occurs with 11 features: Definite (29213; 88% tokens), Degree (415; 1% token
 
 DET occurs with 23 feature-value pairs: Definite=Def, Definite=Ind, Degree=Cmp, Degree=Sup, Gender=Fem, Gender=Masc, NumType=Card, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, Person=1, Person=2, Person=3, Poss=Yes, PronType=Art, PronType=Dem, PronType=Ind,Neg,Tot, PronType=Int, PronType=Prs, PronType=Rel, Reflex=Yes, Typo=Yes
 
-DET occurs with 90 feature combinations. The most frequent feature combination is Definite=Def|Gender=Masc|Number=Sing|PronType=Art (10617 tokens, examples: _o, Os, a_).
+DET occurs with 90 feature combinations. The most frequent feature combination is Definite=Def\|Gender=Masc\|Number=Sing\|PronType=Art (10617 tokens, examples: _o, Os, a_).
 
 
 DET nodes are attached to their parents using 5 different relations: det (33189; 100% tokens), acl (14; 0% tokens), nmod (8; 0% tokens), cop (5; 0% tokens), advmod:emph (4; 0% tokens)
@@ -568,7 +568,7 @@ NOUN occurs with 5 features: Gender (39790; 100% tokens), Hyph (4; 0% tokens), N
 
 NOUN occurs with 8 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, NumType=Ord, Number=Plur, Number=Sing, Typo=Yes
 
-NOUN occurs with 17 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
+NOUN occurs with 17 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
 
 
 NOUN nodes are attached to their parents using 20 different relations: nmod (20100; 50% tokens), dobj (8297; 21% tokens), nsubj (6205; 16% tokens), conj (2556; 6% tokens), root (1360; 3% tokens), iobj (486; 1% tokens), xcomp (198; 0% tokens), ccomp (177; 0% tokens), appos (164; 0% tokens), acl (118; 0% tokens), advcl (73; 0% tokens), dep (49; 0% tokens), advmod (37; 0% tokens), cop (21; 0% tokens), case (20; 0% tokens), parataxis (20; 0% tokens), cc (4; 0% tokens), csubj (4; 0% tokens), advmod:emph (2; 0% tokens), nummod (1; 0% tokens)
@@ -628,7 +628,7 @@ NUM occurs with 4 features: Gender (4110; 99% tokens), NumType (4042; 97% tokens
 
 NUM occurs with 6 feature-value pairs: Gender=Fem, Gender=Masc, NumType=Card, Number=Plur, Number=Sing, Typo=Yes
 
-NUM occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur|NumType=Card (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
+NUM occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Plur\|NumType=Card (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
 
 
 NUM nodes are attached to their parents using 16 different relations: nummod (3304; 79% tokens), advmod (358; 9% tokens), compound (132; 3% tokens), conj (131; 3% tokens), nsubj (89; 2% tokens), dobj (68; 2% tokens), root (45; 1% tokens), ccomp (7; 0% tokens), appos (6; 0% tokens), xcomp (5; 0% tokens), iobj (4; 0% tokens), acl (4; 0% tokens), cop (4; 0% tokens), advcl (2; 0% tokens), nmod (2; 0% tokens), parataxis (1; 0% tokens)
@@ -745,7 +745,7 @@ PRON occurs with 15 features: AdpType (1; 0% tokens), Case (2726; 38% tokens), D
 
 PRON occurs with 32 feature-value pairs: AdpType=Prep, Case=Acc, Case=Acc,Dat, Case=Acc,Nom, Case=Dat, Case=Nom, Definite=Def, Definite=Ind, Degree=Cmp, Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, Person=1, Person=2, Person=3, Poss=Yes, PrepCase=Pre, PronType=Art, PronType=Dem, PronType=Ind, PronType=Ind,Neg,Tot, PronType=Int, PronType=Prs, PronType=Rcp, PronType=Rel, Reflex=Yes, Typo=Yes
 
-PRON occurs with 181 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing|PronType=Rel (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
+PRON occurs with 181 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing\|PronType=Rel (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
 
 
 PRON nodes are attached to their parents using 20 different relations: nsubj (3246; 46% tokens), dobj (2027; 29% tokens), nmod (800; 11% tokens), iobj (385; 5% tokens), advmod (218; 3% tokens), root (126; 2% tokens), conj (109; 2% tokens), mark (53; 1% tokens), auxpass:reflex (27; 0% tokens), dep (25; 0% tokens), ccomp (19; 0% tokens), xcomp (14; 0% tokens), appos (13; 0% tokens), parataxis (10; 0% tokens), advcl (10; 0% tokens), acl (9; 0% tokens), cop (7; 0% tokens), case (5; 0% tokens), cc (2; 0% tokens), csubj (1; 0% tokens)
@@ -814,7 +814,7 @@ PROPN occurs with 5 features: Gender (11232; 96% tokens), Hyph (7; 0% tokens), N
 
 PROPN occurs with 7 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, Number=Plur, Number=Sing, Typo=Yes
 
-PROPN occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
+PROPN occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
 
 
 PROPN nodes are attached to their parents using 19 different relations: nmod (6131; 52% tokens), nsubj (2401; 21% tokens), conj (1269; 11% tokens), dobj (838; 7% tokens), appos (344; 3% tokens), root (339; 3% tokens), name (212; 2% tokens), iobj (106; 1% tokens), xcomp (17; 0% tokens), acl (16; 0% tokens), dep (11; 0% tokens), advcl (6; 0% tokens), advmod (5; 0% tokens), parataxis (4; 0% tokens), cop (3; 0% tokens), case (1; 0% tokens), mark (1; 0% tokens), csubj (1; 0% tokens), ccomp (1; 0% tokens)
@@ -965,7 +965,7 @@ SYM occurs with 2 features: Gender (179; 100% tokens), Number (179; 100% tokens)
 
 SYM occurs with 2 feature-value pairs: Gender=Masc, Number=Plur
 
-SYM occurs with 1 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur (179 tokens, examples: _%_).
+SYM occurs with 1 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Plur (179 tokens, examples: _%_).
 
 
 SYM nodes are attached to their parents using 10 different relations: nmod (59; 33% tokens), dobj (51; 28% tokens), advmod (32; 18% tokens), conj (10; 6% tokens), nsubj (10; 6% tokens), root (10; 6% tokens), ccomp (3; 2% tokens), acl (2; 1% tokens), parataxis (1; 1% tokens), iobj (1; 1% tokens)
@@ -1038,7 +1038,7 @@ VERB occurs with 8 features: Gender (4193; 16% tokens), Hyph (609; 2% tokens), M
 
 VERB occurs with 25 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, Mood=Cnd, Mood=Imp, Mood=Ind, Mood=Sub, Number=Plur, Number=Sing, Person=1, Person=1,3, Person=2, Person=3, Tense=Fut, Tense=Imp, Tense=Imp,Pqp, Tense=Past, Tense=Past,Pres, Tense=Pqp, Tense=Pres, Typo=Yes, VerbForm=Fin, VerbForm=Ger, VerbForm=Inf, VerbForm=Part
 
-VERB occurs with 103 feature combinations. The most frequent feature combination is Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
+VERB occurs with 103 feature combinations. The most frequent feature combination is Mood=Ind\|Number=Sing\|Person=3\|Tense=Pres\|VerbForm=Fin (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
 
 
 VERB nodes are attached to their parents using 17 different relations: root (6900; 27% tokens), acl (5379; 21% tokens), cop (2987; 12% tokens), ccomp (2976; 12% tokens), advcl (2787; 11% tokens), xcomp (2387; 9% tokens), conj (1785; 7% tokens), csubj (333; 1% tokens), parataxis (147; 1% tokens), dep (93; 0% tokens), appos (24; 0% tokens), cc (16; 0% tokens), advmod (9; 0% tokens), case (7; 0% tokens), nmod (6; 0% tokens), mark (3; 0% tokens), nummod (1; 0% tokens)
