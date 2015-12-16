@@ -15,8 +15,10 @@ The 10 most frequent ADJ lemmas: _grande, novo, primeiro, bom, último, polític
 
 The 10 most frequent ADJ types:  _maior, primeiro, novo, primeira, grande, nova, grandes, melhor, último, nacional_
 
-The 10 most frequent ambiguous lemmas: novo (ADJ 288, NOUN 2), primeiro (ADJ 275, ADV 13, NOUN 1), político (ADJ 114, NOUN 15), pequeno (ADJ 110, NOUN 2), próximo (ADJ 110, ADV 1), segundo (ADP 194, ADJ 101, NOUN 11, ADV 6), público (ADJ 92, NOUN 49), português (ADJ 90, NOUN 44), responsável (ADJ 79, NOUN 1), nacional (ADJ 77, NOUN 1)
-The 10 most frequent ambiguous types:  primeiro (ADJ 125, ADV 7), novo (ADJ 105, NOUN 1), primeira (ADJ 108, NOUN 1), nova (ADJ 90, NOUN 4), melhor (ADJ 68, ADV 16), última (ADJ 56, NOUN 2), segundo (ADP 75, ADJ 52, NOUN 4, ADV 4), segunda (ADJ 48, NOUN 5), política (NOUN 53, ADJ 45), principal (ADJ 41, NOUN 1)
+The 10 most frequent ambiguous lemmas: _novo_ (ADJ 288, NOUN 2), _primeiro_ (ADJ 275, ADV 13, NOUN 1), _político_ (ADJ 114, NOUN 15), _pequeno_ (ADJ 110, NOUN 2), _próximo_ (ADJ 110, ADV 1), _segundo_ (ADP 194, ADJ 101, NOUN 11, ADV 6), _público_ (ADJ 92, NOUN 49), _português_ (ADJ 90, NOUN 44), _responsável_ (ADJ 79, NOUN 1), _nacional_ (ADJ 77, NOUN 1)
+
+The 10 most frequent ambiguous types:  _primeiro_ (ADJ 125, ADV 7), _novo_ (ADJ 105, NOUN 1), _primeira_ (ADJ 108, NOUN 1), _nova_ (ADJ 90, NOUN 4), _melhor_ (ADJ 68, ADV 16), _última_ (ADJ 56, NOUN 2), _segundo_ (ADP 75, ADJ 52, NOUN 4, ADV 4), _segunda_ (ADJ 48, NOUN 5), _política_ (NOUN 53, ADJ 45), _principal_ (ADJ 41, NOUN 1)
+
 
 * primeiro
   * primeiro ADJ 125: O <b>primeiro</b> reutiliza a forma de a coluna --
@@ -77,8 +79,10 @@ The 10 most frequent ADP lemmas: _de, em, a, para, por, com, entre, sobre, sem, 
 
 The 10 most frequent ADP types:  _de, em, a, para, por, com, entre, sobre, sem, até_
 
-The 10 most frequent ambiguous lemmas: de (ADP 14647, ADV 1), a (ADP 3569, PRON 36, DET 8, ADV 1, PROPN 1), por (ADP 1772, ADV 1, SCONJ 1), até (ADP 194, ADV 58), segundo (ADP 194, ADJ 101, NOUN 11, ADV 6), contra (ADP 134, ADV 3, NOUN 1), após (ADP 83, ADV 1), como (ADV 565, ADP 80, SCONJ 9), cerca_de (ADV 82, ADP 14), $/ (ADP 11, CONJ 4)
-The 10 most frequent ambiguous types:  de (ADP 14544, ADV 1), a (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), por (ADP 1714, ADV 1, SCONJ 1), entre (ADP 322, VERB 1), até (ADP 174, ADV 50), segundo (ADP 75, ADJ 52, NOUN 4, ADV 4), contra (ADP 131, ADV 3), após (ADP 72, ADV 1), como (ADV 538, ADP 56, SCONJ 2), há (VERB 194, ADP 31)
+The 10 most frequent ambiguous lemmas: _de_ (ADP 14647, ADV 1), _a_ (ADP 3569, PRON 36, DET 8, ADV 1, PROPN 1), _por_ (ADP 1772, ADV 1, SCONJ 1), _até_ (ADP 194, ADV 58), _segundo_ (ADP 194, ADJ 101, NOUN 11, ADV 6), _contra_ (ADP 134, ADV 3, NOUN 1), _após_ (ADP 83, ADV 1), _como_ (ADV 565, ADP 80, SCONJ 9), _cerca_de_ (ADV 82, ADP 14), _$/_ (ADP 11, CONJ 4)
+
+The 10 most frequent ambiguous types:  _de_ (ADP 14544, ADV 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _por_ (ADP 1714, ADV 1, SCONJ 1), _entre_ (ADP 322, VERB 1), _até_ (ADP 174, ADV 50), _segundo_ (ADP 75, ADJ 52, NOUN 4, ADV 4), _contra_ (ADP 131, ADV 3), _após_ (ADP 72, ADV 1), _como_ (ADV 538, ADP 56, SCONJ 2), _há_ (VERB 194, ADP 31)
+
 
 * de
   * de ADP 14544: Audiência em a Justiça <b>de</b> o Pará discute diploma
@@ -144,8 +148,10 @@ The 10 most frequent ADV lemmas: _não, mais, como, também, já, ontem, ainda, 
 
 The 10 most frequent ADV types:  _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
-The 10 most frequent ambiguous lemmas: não (ADV 1343, INTJ 9, NOUN 2), mais (ADV 571, DET 39, PRON 11, CONJ 4), como (ADV 565, ADP 80, SCONJ 9), já (ADV 306, INTJ 1), ontem (ADV 291, NOUN 1), quando (ADV 217, PRON 1), só (ADV 216, ADJ 9), depois (ADV 208, ADP 1), muito (ADV 191, DET 139, PRON 67), antes (ADV 133, ADP 2)
-The 10 most frequent ambiguous types:  não (ADV 1205, INTJ 3, NOUN 2), mais (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), como (ADV 538, ADP 56, SCONJ 2), já (ADV 269, INTJ 1), ontem (ADV 271, NOUN 1), quando (ADV 163, PRON 1), só (ADV 185, ADJ 8), depois (ADV 149, ADP 1), muito (ADV 173, PRON 21, DET 14), antes (ADV 117, ADP 2)
+The 10 most frequent ambiguous lemmas: _não_ (ADV 1343, INTJ 9, NOUN 2), _mais_ (ADV 571, DET 39, PRON 11, CONJ 4), _como_ (ADV 565, ADP 80, SCONJ 9), _já_ (ADV 306, INTJ 1), _ontem_ (ADV 291, NOUN 1), _quando_ (ADV 217, PRON 1), _só_ (ADV 216, ADJ 9), _depois_ (ADV 208, ADP 1), _muito_ (ADV 191, DET 139, PRON 67), _antes_ (ADV 133, ADP 2)
+
+The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _mais_ (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), _como_ (ADV 538, ADP 56, SCONJ 2), _já_ (ADV 269, INTJ 1), _ontem_ (ADV 271, NOUN 1), _quando_ (ADV 163, PRON 1), _só_ (ADV 185, ADJ 8), _depois_ (ADV 149, ADP 1), _muito_ (ADV 173, PRON 21, DET 14), _antes_ (ADV 117, ADP 2)
+
 
 * não
   * não ADV 1205: Eu <b>não</b> me associo com moda .
@@ -210,8 +216,10 @@ The 10 most frequent AUX lemmas: _ser, ter, vir, continuar, estar, passar, acaba
 
 The 10 most frequent AUX types:  _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
-The 10 most frequent ambiguous lemmas: ser (VERB 3277, AUX 308, ADV 6, NOUN 4), ter (VERB 1232, AUX 34), vir (VERB 122, AUX 22), continuar (VERB 112, AUX 9), estar (VERB 827, AUX 8), passar (VERB 286, AUX 6), acabar (VERB 85, AUX 4), ir (VERB 532, AUX 4), começar (VERB 124, AUX 3), converter (VERB 10, AUX 3)
-The 10 most frequent ambiguous types:  ser (VERB 248, AUX 213, NOUN 3), sido (AUX 74, VERB 35), ter (VERB 217, AUX 31), sendo (VERB 21, AUX 19), vindo (AUX 11, VERB 3), vir (AUX 11, VERB 9), continuar (VERB 14, AUX 9), passar (VERB 31, AUX 6), estar (VERB 49, AUX 5), acabar (VERB 9, AUX 3)
+The 10 most frequent ambiguous lemmas: _ser_ (VERB 3277, AUX 308, ADV 6, NOUN 4), _ter_ (VERB 1232, AUX 34), _vir_ (VERB 122, AUX 22), _continuar_ (VERB 112, AUX 9), _estar_ (VERB 827, AUX 8), _passar_ (VERB 286, AUX 6), _acabar_ (VERB 85, AUX 4), _ir_ (VERB 532, AUX 4), _começar_ (VERB 124, AUX 3), _converter_ (VERB 10, AUX 3)
+
+The 10 most frequent ambiguous types:  _ser_ (VERB 248, AUX 213, NOUN 3), _sido_ (AUX 74, VERB 35), _ter_ (VERB 217, AUX 31), _sendo_ (VERB 21, AUX 19), _vindo_ (AUX 11, VERB 3), _vir_ (AUX 11, VERB 9), _continuar_ (VERB 14, AUX 9), _passar_ (VERB 31, AUX 6), _estar_ (VERB 49, AUX 5), _acabar_ (VERB 9, AUX 3)
+
 
 * ser
   * ser VERB 248: « Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »
@@ -271,8 +279,10 @@ The 10 most frequent CONJ lemmas: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
 
 The 10 most frequent CONJ types:  _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
 
-The 10 most frequent ambiguous lemmas: e (CONJ 4142, SCONJ 1), nem (CONJ 54, ADV 33), $/ (ADP 11, CONJ 4), mais (ADV 571, DET 39, PRON 11, CONJ 4), & (NOUN 1, CONJ 1), / (PUNCT 23, CONJ 1), tampouco (ADV 2, CONJ 1)
-The 10 most frequent ambiguous types:  e (CONJ 3975, ADP 1, SCONJ 1), nem (CONJ 51, ADV 27), quer (VERB 37, CONJ 9), $/ (ADP 11, CONJ 4), mais (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), & (NOUN 1, CONJ 1), / (PUNCT 23, CONJ 1)
+The 10 most frequent ambiguous lemmas: _e_ (CONJ 4142, SCONJ 1), _nem_ (CONJ 54, ADV 33), _$/_ (ADP 11, CONJ 4), _mais_ (ADV 571, DET 39, PRON 11, CONJ 4), _&_ (NOUN 1, CONJ 1), _/_ (PUNCT 23, CONJ 1), _tampouco_ (ADV 2, CONJ 1)
+
+The 10 most frequent ambiguous types:  _e_ (CONJ 3975, ADP 1, SCONJ 1), _nem_ (CONJ 51, ADV 27), _quer_ (VERB 37, CONJ 9), _$/_ (ADP 11, CONJ 4), _mais_ (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), _&_ (NOUN 1, CONJ 1), _/_ (PUNCT 23, CONJ 1)
+
 
 * e
   * e CONJ 3975: De os fumantes , 18,1 milhões são homens <b>e</b> 12,5 milhões , mulheres .
@@ -326,8 +336,10 @@ The 10 most frequent DET lemmas: _o, um, seu, este, outro, esse, algum, todo, mu
 
 The 10 most frequent DET types:  _o, a, os, as, um, uma, sua, seu, este, esta_
 
-The 10 most frequent ambiguous lemmas: o (DET 26194, PRON 449, ADP 3, NOUN 1), um (DET 3137, NUM 371, PRON 22), seu (DET 1078, PRON 7), este (DET 580, PRON 82), outro (DET 266, PRON 85), esse (DET 263, PRON 30), algum (DET 174, PRON 29), todo (DET 143, PRON 55, ADV 5, NOUN 2), muito (ADV 191, DET 139, PRON 67), mesmo (DET 127, ADV 77, PRON 32)
-The 10 most frequent ambiguous types:  o (DET 9656, PRON 351, NOUN 1), a (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), os (DET 3088, PRON 135), as (DET 2119, PRON 53), um (DET 1555, NUM 233, PRON 12), uma (DET 1392, NUM 136, PRON 6), seu (DET 351, PRON 5), este (DET 254, PRON 27), esta (DET 189, PRON 17), seus (DET 173, PRON 2)
+The 10 most frequent ambiguous lemmas: _o_ (DET 26194, PRON 449, ADP 3, NOUN 1), _um_ (DET 3137, NUM 371, PRON 22), _seu_ (DET 1078, PRON 7), _este_ (DET 580, PRON 82), _outro_ (DET 266, PRON 85), _esse_ (DET 263, PRON 30), _algum_ (DET 174, PRON 29), _todo_ (DET 143, PRON 55, ADV 5, NOUN 2), _muito_ (ADV 191, DET 139, PRON 67), _mesmo_ (DET 127, ADV 77, PRON 32)
+
+The 10 most frequent ambiguous types:  _o_ (DET 9656, PRON 351, NOUN 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _os_ (DET 3088, PRON 135), _as_ (DET 2119, PRON 53), _um_ (DET 1555, NUM 233, PRON 12), _uma_ (DET 1392, NUM 136, PRON 6), _seu_ (DET 351, PRON 5), _este_ (DET 254, PRON 27), _esta_ (DET 189, PRON 17), _seus_ (DET 173, PRON 2)
+
 
 * o
   * o DET 9656: Audiência em a Justiça de <b>o</b> Pará discute diploma
@@ -392,8 +404,10 @@ The 10 most frequent INTJ lemmas: _não, rarará, Ah_bem, BINGO, Deus_me_livre, 
 
 The 10 most frequent INTJ types:  _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
 
-The 10 most frequent ambiguous lemmas: não (ADV 1343, INTJ 9, NOUN 2), adeus (NOUN 1, INTJ 1), basta (NOUN 1, INTJ 1), claro (ADJ 35, ADV 15, INTJ 1), droga (NOUN 32, INTJ 1), já (ADV 306, INTJ 1), pronto (ADJ 15, INTJ 1), rua (NOUN 42, INTJ 1), socorro (NOUN 5, INTJ 1), ver (VERB 178, INTJ 1, AUX 1)
-The 10 most frequent ambiguous types:  não (ADV 1205, INTJ 3, NOUN 2), Socorro (NOUN 2, INTJ 1, PROPN 1), basta (VERB 10, NOUN 1, INTJ 1, ADJ 1), claro (ADJ 19, ADV 9, INTJ 1), já (ADV 269, INTJ 1), pronto (ADJ 8, INTJ 1), rua (NOUN 25, INTJ 1), viu (VERB 17, INTJ 1), É (VERB 149, ADV 18, INTJ 1)
+The 10 most frequent ambiguous lemmas: _não_ (ADV 1343, INTJ 9, NOUN 2), _adeus_ (NOUN 1, INTJ 1), _basta_ (NOUN 1, INTJ 1), _claro_ (ADJ 35, ADV 15, INTJ 1), _droga_ (NOUN 32, INTJ 1), _já_ (ADV 306, INTJ 1), _pronto_ (ADJ 15, INTJ 1), _rua_ (NOUN 42, INTJ 1), _socorro_ (NOUN 5, INTJ 1), _ver_ (VERB 178, INTJ 1, AUX 1)
+
+The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _Socorro_ (NOUN 2, INTJ 1, PROPN 1), _basta_ (VERB 10, NOUN 1, INTJ 1, ADJ 1), _claro_ (ADJ 19, ADV 9, INTJ 1), _já_ (ADV 269, INTJ 1), _pronto_ (ADJ 8, INTJ 1), _rua_ (NOUN 25, INTJ 1), _viu_ (VERB 17, INTJ 1), _É_ (VERB 149, ADV 18, INTJ 1)
+
 
 * não
   * não ADV 1205: Eu <b>não</b> me associo com moda .
@@ -455,8 +469,10 @@ The 10 most frequent NOUN lemmas: _ano, dia, milhão, país, empresa, pessoa, pr
 
 The 10 most frequent NOUN types:  _anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento_
 
-The 10 most frequent ambiguous lemmas: caso (NOUN 132, SCONJ 23), parte (NOUN 125, ADV 2), candidato (NOUN 83, ADJ 1), final (NOUN 80, ADJ 24), poder (VERB 435, NOUN 68, AUX 2), direito (NOUN 61, ADJ 9, ADV 1), local (NOUN 53, ADJ 43), criança (NOUN 51, ADJ 1), plano (NOUN 51, ADJ 2), capital (NOUN 50, ADJ 3)
-The 10 most frequent ambiguous types:  estado (NOUN 33, VERB 3, AUX 2), parte (NOUN 101, VERB 2), caso (NOUN 94, SCONJ 17), trabalho (NOUN 90, VERB 1), final (NOUN 72, ADJ 21), poder (NOUN 59, VERB 7, AUX 2), política (NOUN 53, ADJ 45), partido (NOUN 47, VERB 2), público (NOUN 47, ADJ 30), local (NOUN 43, ADJ 27)
+The 10 most frequent ambiguous lemmas: _caso_ (NOUN 132, SCONJ 23), _parte_ (NOUN 125, ADV 2), _candidato_ (NOUN 83, ADJ 1), _final_ (NOUN 80, ADJ 24), _poder_ (VERB 435, NOUN 68, AUX 2), _direito_ (NOUN 61, ADJ 9, ADV 1), _local_ (NOUN 53, ADJ 43), _criança_ (NOUN 51, ADJ 1), _plano_ (NOUN 51, ADJ 2), _capital_ (NOUN 50, ADJ 3)
+
+The 10 most frequent ambiguous types:  _estado_ (NOUN 33, VERB 3, AUX 2), _parte_ (NOUN 101, VERB 2), _caso_ (NOUN 94, SCONJ 17), _trabalho_ (NOUN 90, VERB 1), _final_ (NOUN 72, ADJ 21), _poder_ (NOUN 59, VERB 7, AUX 2), _política_ (NOUN 53, ADJ 45), _partido_ (NOUN 47, VERB 2), _público_ (NOUN 47, ADJ 30), _local_ (NOUN 43, ADJ 27)
+
 
 * estado
   * estado NOUN 33: O <b>estado</b> de a arte
@@ -517,8 +533,10 @@ The 10 most frequent NUM lemmas: _um, dois, três, mil, quatro, cinco, 15, 30, s
 
 The 10 most frequent NUM types:  _um, dois, três, mil, uma, duas, quatro, cinco, 15, 30_
 
-The 10 most frequent ambiguous lemmas: um (DET 3137, NUM 371, PRON 22), mil (NUM 187, NOUN 2), 1986 (NUM 4, NOUN 1), 1. (NUM 2, ADJ 1)
-The 10 most frequent ambiguous types:  um (DET 1555, NUM 233, PRON 12), mil (NUM 186, NOUN 2), uma (DET 1392, NUM 136, PRON 6), 1986 (NUM 4, NOUN 1), 1. (NUM 2, ADJ 1), O (DET 1063, PRON 19, NUM 1)
+The 10 most frequent ambiguous lemmas: _um_ (DET 3137, NUM 371, PRON 22), _mil_ (NUM 187, NOUN 2), _1986_ (NUM 4, NOUN 1), _1._ (NUM 2, ADJ 1)
+
+The 10 most frequent ambiguous types:  _um_ (DET 1555, NUM 233, PRON 12), _mil_ (NUM 186, NOUN 2), _uma_ (DET 1392, NUM 136, PRON 6), _1986_ (NUM 4, NOUN 1), _1._ (NUM 2, ADJ 1), _O_ (DET 1063, PRON 19, NUM 1)
+
 
 * um
   * um DET 1555: « Foi <b>um</b> ato muito rigoroso .
@@ -569,7 +587,9 @@ The 10 most frequent PART lemmas: _anti-, ex, ex-, pré, pós_
 The 10 most frequent PART types:  _anti-, ex, ex-, pré-, pós_
 
 The 10 most frequent ambiguous lemmas: 
+
 The 10 most frequent ambiguous types:  
+
 
 
 The form / lemma ratio of PART is 1.000000 (the average of all parts of speech is 1.441790).
@@ -598,8 +618,10 @@ The 10 most frequent PRON lemmas: _que, se, ele, o, eu, o_que, ela, isso, quem, 
 
 The 10 most frequent PRON types:  _que, se, o, ele, o_que, isso, os, quem, lhe, a_
 
-The 10 most frequent ambiguous lemmas: que (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), se (PRON 1428, SCONJ 261), o (DET 26194, PRON 449, ADP 3, NOUN 1), ela (PRON 170, NOUN 1), quem (PRON 142, ADV 1), tudo (PRON 93, DET 3), outro (DET 266, PRON 85), este (DET 580, PRON 82), muito (ADV 191, DET 139, PRON 67), nada (PRON 61, ADV 7, NOUN 3)
-The 10 most frequent ambiguous types:  que (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), se (PRON 1400, SCONJ 172), o (DET 9656, PRON 351, NOUN 1), os (DET 3088, PRON 135), quem (PRON 110, ADV 1), a (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), ela (PRON 79, NOUN 1), tudo (PRON 77, DET 3), nada (PRON 57, ADV 4, NOUN 2), as (DET 2119, PRON 53)
+The 10 most frequent ambiguous lemmas: _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), _se_ (PRON 1428, SCONJ 261), _o_ (DET 26194, PRON 449, ADP 3, NOUN 1), _ela_ (PRON 170, NOUN 1), _quem_ (PRON 142, ADV 1), _tudo_ (PRON 93, DET 3), _outro_ (DET 266, PRON 85), _este_ (DET 580, PRON 82), _muito_ (ADV 191, DET 139, PRON 67), _nada_ (PRON 61, ADV 7, NOUN 3)
+
+The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), _se_ (PRON 1400, SCONJ 172), _o_ (DET 9656, PRON 351, NOUN 1), _os_ (DET 3088, PRON 135), _quem_ (PRON 110, ADV 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _ela_ (PRON 79, NOUN 1), _tudo_ (PRON 77, DET 3), _nada_ (PRON 57, ADV 4, NOUN 2), _as_ (DET 2119, PRON 53)
+
 
 * que
   * que PRON 2326: Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele .
@@ -667,8 +689,10 @@ The 10 most frequent PROPN lemmas: _Portugal, São_Paulo, Brasil, Governo, EUA, 
 
 The 10 most frequent PROPN types:  _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio_
 
-The 10 most frequent ambiguous lemmas: PSDB (PROPN 16, NOUN 1), PP (PROPN 15, NOUN 1), flamengo (PROPN 1, ADJ 1), Câmara (PROPN 12, NOUN 1), Carnaval (PROPN 7, NOUN 1), SME (PROPN 7, NOUN 1), URV (PROPN 7, NOUN 2), Congresso (PROPN 6, NOUN 1), Estado (PROPN 5, NOUN 2), datafolha (NOUN 2, PROPN 1)
-The 10 most frequent ambiguous types:  Governo (PROPN 79, NOUN 6), Folha (PROPN 48, NOUN 13), PSDB (PROPN 17, NOUN 2), PP (PROPN 15, NOUN 1), Câmara (NOUN 17, PROPN 12), Ira (PROPN 8, NOUN 1), Setúbal (PROPN 8, NOUN 1), URV (NOUN 24, PROPN 8), CE (PROPN 7, NOUN 1), Carnaval (NOUN 9, PROPN 7)
+The 10 most frequent ambiguous lemmas: _PSDB_ (PROPN 16, NOUN 1), _PP_ (PROPN 15, NOUN 1), _flamengo_ (PROPN 1, ADJ 1), _Câmara_ (PROPN 12, NOUN 1), _Carnaval_ (PROPN 7, NOUN 1), _SME_ (PROPN 7, NOUN 1), _URV_ (PROPN 7, NOUN 2), _Congresso_ (PROPN 6, NOUN 1), _Estado_ (PROPN 5, NOUN 2), _datafolha_ (NOUN 2, PROPN 1)
+
+The 10 most frequent ambiguous types:  _Governo_ (PROPN 79, NOUN 6), _Folha_ (PROPN 48, NOUN 13), _PSDB_ (PROPN 17, NOUN 2), _PP_ (PROPN 15, NOUN 1), _Câmara_ (NOUN 17, PROPN 12), _Ira_ (PROPN 8, NOUN 1), _Setúbal_ (PROPN 8, NOUN 1), _URV_ (NOUN 24, PROPN 8), _CE_ (PROPN 7, NOUN 1), _Carnaval_ (NOUN 9, PROPN 7)
+
 
 * Governo
   * Governo PROPN 79: ANC insiste em um <b>Governo</b> de transição
@@ -727,8 +751,10 @@ The 10 most frequent PUNCT lemmas: _,, ., «, », ), (, --, :, ?, ;_
 
 The 10 most frequent PUNCT types:  _,, ., «, », ), (, --, :, ?, ;_
 
-The 10 most frequent ambiguous lemmas: / (PUNCT 23, CONJ 1)
-The 10 most frequent ambiguous types:  / (PUNCT 23, CONJ 1)
+The 10 most frequent ambiguous lemmas: _/_ (PUNCT 23, CONJ 1)
+
+The 10 most frequent ambiguous types:  _/_ (PUNCT 23, CONJ 1)
+
 
 * /
   * / PUNCT 23: Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) .
@@ -755,8 +781,10 @@ The 10 most frequent SCONJ lemmas: _que, se, porque, do_que, embora, pois, já_q
 
 The 10 most frequent SCONJ types:  _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
 
-The 10 most frequent ambiguous lemmas: que (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), se (PRON 1428, SCONJ 261), porque (SCONJ 164, ADV 11), embora (SCONJ 60, ADV 3), pois (SCONJ 40, ADV 12), caso (NOUN 132, SCONJ 23), como (ADV 565, ADP 80, SCONJ 9), mesmo_que (SCONJ 3, ADV 2), e (CONJ 4142, SCONJ 1), por (ADP 1772, ADV 1, SCONJ 1)
-The 10 most frequent ambiguous types:  que (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), se (PRON 1400, SCONJ 172), porque (SCONJ 149, ADV 8), embora (SCONJ 45, ADV 3), pois (SCONJ 40, ADV 11), caso (NOUN 94, SCONJ 17), como (ADV 538, ADP 56, SCONJ 2), mesmo_que (SCONJ 3, ADV 2), Senão (ADV 1, SCONJ 1), e (CONJ 3975, ADP 1, SCONJ 1)
+The 10 most frequent ambiguous lemmas: _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), _se_ (PRON 1428, SCONJ 261), _porque_ (SCONJ 164, ADV 11), _embora_ (SCONJ 60, ADV 3), _pois_ (SCONJ 40, ADV 12), _caso_ (NOUN 132, SCONJ 23), _como_ (ADV 565, ADP 80, SCONJ 9), _mesmo_que_ (SCONJ 3, ADV 2), _e_ (CONJ 4142, SCONJ 1), _por_ (ADP 1772, ADV 1, SCONJ 1)
+
+The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), _se_ (PRON 1400, SCONJ 172), _porque_ (SCONJ 149, ADV 8), _embora_ (SCONJ 45, ADV 3), _pois_ (SCONJ 40, ADV 11), _caso_ (NOUN 94, SCONJ 17), _como_ (ADV 538, ADP 56, SCONJ 2), _mesmo_que_ (SCONJ 3, ADV 2), _Senão_ (ADV 1, SCONJ 1), _e_ (CONJ 3975, ADP 1, SCONJ 1)
+
 
 * que
   * que PRON 2326: Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele .
@@ -821,8 +849,10 @@ The 10 most frequent SYM lemmas: _%_
 
 The 10 most frequent SYM types:  _%_
 
-The 10 most frequent ambiguous lemmas: % (SYM 179, NOUN 24)
+The 10 most frequent ambiguous lemmas: _%_ (SYM 179, NOUN 24)
+
 The 10 most frequent ambiguous types:  
+
 
 
 The form / lemma ratio of SYM is 1.000000 (the average of all parts of speech is 1.441790).
@@ -851,8 +881,10 @@ The 10 most frequent VERB lemmas: _ser, ter, estar, fazer, ir, dizer, poder, hav
 
 The 10 most frequent VERB types:  _é, foi, tem, está, são, ser, há, ter, disse, foram_
 
-The 10 most frequent ambiguous lemmas: ser (VERB 3277, AUX 308, ADV 6, NOUN 4), ter (VERB 1232, AUX 34), estar (VERB 827, AUX 8), fazer (VERB 542, AUX 1), ir (VERB 532, AUX 4), dizer (VERB 504, NOUN 1, AUX 1), poder (VERB 435, NOUN 68, AUX 2), haver (VERB 389, ADP 1), passar (VERB 286, AUX 6), dever (VERB 261, NOUN 3)
-The 10 most frequent ambiguous types:  é (VERB 1119, ADV 15, AUX 1), foi (VERB 551, ADV 8), está (VERB 303, AUX 1), são (VERB 281, ADV 1, AUX 1), ser (VERB 248, AUX 213, NOUN 3), há (VERB 194, ADP 31), ter (VERB 217, AUX 31), era (VERB 152, NOUN 6, ADV 4), fazer (VERB 130, AUX 1), ver (VERB 75, AUX 1)
+The 10 most frequent ambiguous lemmas: _ser_ (VERB 3277, AUX 308, ADV 6, NOUN 4), _ter_ (VERB 1232, AUX 34), _estar_ (VERB 827, AUX 8), _fazer_ (VERB 542, AUX 1), _ir_ (VERB 532, AUX 4), _dizer_ (VERB 504, NOUN 1, AUX 1), _poder_ (VERB 435, NOUN 68, AUX 2), _haver_ (VERB 389, ADP 1), _passar_ (VERB 286, AUX 6), _dever_ (VERB 261, NOUN 3)
+
+The 10 most frequent ambiguous types:  _é_ (VERB 1119, ADV 15, AUX 1), _foi_ (VERB 551, ADV 8), _está_ (VERB 303, AUX 1), _são_ (VERB 281, ADV 1, AUX 1), _ser_ (VERB 248, AUX 213, NOUN 3), _há_ (VERB 194, ADP 31), _ter_ (VERB 217, AUX 31), _era_ (VERB 152, NOUN 6, ADV 4), _fazer_ (VERB 130, AUX 1), _ver_ (VERB 75, AUX 1)
+
 
 * é
   * é VERB 1119: Conforto <b>é</b> fundamental .
@@ -915,8 +947,10 @@ The 10 most frequent X lemmas: _???, que_
 
 The 10 most frequent X types:  _(<predicate>), que_
 
-The 10 most frequent ambiguous lemmas: ??? (PROPN 2, X 1), que (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1)
-The 10 most frequent ambiguous types:  que (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1)
+The 10 most frequent ambiguous lemmas: _???_ (PROPN 2, X 1), _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1)
+
+The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1)
+
 
 * que
   * que PRON 2326: Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele .
