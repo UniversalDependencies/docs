@@ -67,7 +67,7 @@ ADJ occurs with 6 features: [pt-feat/Degree]() (353; 3% tokens), [pt-feat/Gender
 
 ADJ occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-ADJ occurs with 31 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Sing` (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
+ADJ occurs with 31 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
 
 
 ## Relations
@@ -492,7 +492,7 @@ DET occurs with 11 features: [pt-feat/Definite]() (29213; 88% tokens), [pt-feat/
 
 DET occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-DET occurs with 90 feature combinations. The most frequent feature combination is `Definite=Def\|Gender=Masc\|Number=Sing\|PronType=Art` (10617 tokens, examples: _o, Os, a_).
+DET occurs with 90 feature combinations. The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10617 tokens, examples: _o, Os, a_).
 
 
 ## Relations
@@ -661,7 +661,7 @@ NOUN occurs with 5 features: [pt-feat/Gender]() (39790; 100% tokens), [pt-feat/H
 
 NOUN occurs with 8 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-NOUN occurs with 17 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Sing` (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
+NOUN occurs with 17 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
 
 
 ## Relations
@@ -734,7 +734,7 @@ NUM occurs with 4 features: [pt-feat/Gender]() (4110; 99% tokens), [pt-feat/NumT
 
 NUM occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-NUM occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Plur\|NumType=Card` (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
+NUM occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
 
 
 ## Relations
@@ -877,7 +877,7 @@ PRON occurs with 15 features: [pt-feat/AdpType]() (1; 0% tokens), [pt-feat/Case]
 
 PRON occurs with 32 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-PRON occurs with 181 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Sing\|PronType=Rel` (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
+PRON occurs with 181 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
 
 
 ## Relations
@@ -959,7 +959,7 @@ PROPN occurs with 5 features: [pt-feat/Gender]() (11232; 96% tokens), [pt-feat/H
 
 PROPN occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-PROPN occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Sing` (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
+PROPN occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
 
 
 ## Relations
@@ -1144,7 +1144,7 @@ SYM occurs with 2 features: [pt-feat/Gender]() (179; 100% tokens), [pt-feat/Numb
 
 SYM occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
 
-SYM occurs with 1 feature combinations. The most frequent feature combination is `Gender=Masc\|Number=Plur` (179 tokens, examples: _%_).
+SYM occurs with 1 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens, examples: _%_).
 
 
 ## Relations
@@ -1230,7 +1230,7 @@ VERB occurs with 8 features: [pt-feat/Gender]() (4193; 16% tokens), [pt-feat/Hyp
 
 VERB occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-VERB occurs with 103 feature combinations. The most frequent feature combination is `Mood=Ind\|Number=Sing\|Person=3\|Tense=Pres\|VerbForm=Fin` (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
+VERB occurs with 103 feature combinations. The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
 
 
 ## Relations
