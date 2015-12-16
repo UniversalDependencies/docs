@@ -7,7 +7,6 @@ shortdef: 'adjective'
 This document is a placeholder for the language-specific documentation
 for `ADJ`.
 
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 2347 `ADJ` lemmas (12%), 3543 `ADJ` types (12%) and 10708 `ADJ` tokens (5%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
@@ -91,8 +90,6 @@ Children of `ADJ` nodes are attached using 21 different relations: [pt-dep/punct
 
 Children of `ADJ` nodes belong to 13 different parts of speech: [VERB]() (1569; 20% tokens), [PUNCT]() (1331; 17% tokens), [NOUN]() (1116; 15% tokens), [ADV]() (1040; 14% tokens), [CONJ]() (536; 7% tokens), [DET]() (531; 7% tokens), [ADJ]() (487; 6% tokens), [ADP]() (373; 5% tokens), [PROPN]() (236; 3% tokens), [PRON]() (214; 3% tokens), [SCONJ]() (186; 2% tokens), [NUM]() (54; 1% tokens), [SYM]() (5; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 161 `ADP` lemmas (1%), 163 `ADP` types (1%) and 32396 `ADP` tokens (15%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
@@ -181,8 +178,6 @@ Children of `ADP` nodes are attached using 16 different relations: [pt-dep/nmod]
 
 Children of `ADP` nodes belong to 13 different parts of speech: [NOUN]() (31; 32% tokens), [ADP]() (16; 16% tokens), [VERB]() (14; 14% tokens), [PUNCT]() (9; 9% tokens), [CONJ]() (8; 8% tokens), [PROPN]() (7; 7% tokens), [PRON]() (4; 4% tokens), [ADV]() (2; 2% tokens), [SCONJ]() (2; 2% tokens), [ADJ]() (1; 1% tokens), [NUM]() (1; 1% tokens), [SYM]() (1; 1% tokens), [AUX]() (1; 1% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 768 `ADV` lemmas (4%), 772 `ADV` types (3%) and 9489 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
@@ -270,8 +265,6 @@ Children of `ADV` nodes are attached using 22 different relations: [pt-dep/nmod]
 
 Children of `ADV` nodes belong to 12 different parts of speech: [NOUN]() (729; 30% tokens), [ADP]() (510; 21% tokens), [ADV]() (399; 16% tokens), [PUNCT]() (233; 9% tokens), [VERB]() (189; 8% tokens), [PROPN]() (131; 5% tokens), [PRON]() (98; 4% tokens), [CONJ]() (79; 3% tokens), [SCONJ]() (41; 2% tokens), [ADJ]() (33; 1% tokens), [NUM]() (16; 1% tokens), [INTJ]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 68 `AUX` lemmas (0%), 83 `AUX` types (0%) and 465 `AUX` tokens (0%).
 Out of 17 observed tags, the rank of `AUX` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
@@ -354,8 +347,6 @@ Children of `AUX` nodes are attached using 14 different relations: [pt-dep/ccomp
 
 Children of `AUX` nodes belong to 12 different parts of speech: [VERB]() (371; 56% tokens), [ADP]() (82; 12% tokens), [NOUN]() (77; 12% tokens), [AUX]() (46; 7% tokens), [CONJ]() (29; 4% tokens), [ADV]() (18; 3% tokens), [PUNCT]() (14; 2% tokens), [PRON]() (10; 1% tokens), [SCONJ]() (10; 1% tokens), [PROPN]() (8; 1% tokens), [NUM]() (2; 0% tokens), [ADJ]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 12 `CONJ` lemmas (0%), 12 `CONJ` types (0%) and 5112 `CONJ` tokens (2%).
 Out of 17 observed tags, the rank of `CONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
@@ -428,8 +419,6 @@ Children of `CONJ` nodes are attached using 5 different relations: [pt-dep/punct
 
 Children of `CONJ` nodes belong to 5 different parts of speech: [PUNCT]() (17; 46% tokens), [VERB]() (8; 22% tokens), [NOUN]() (6; 16% tokens), [ADV]() (5; 14% tokens), [PRON]() (1; 3% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 53 `DET` lemmas (0%), 114 `DET` types (0%) and 33220 `DET` tokens (16%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
@@ -517,8 +506,6 @@ Children of `DET` nodes are attached using 19 different relations: [pt-dep/case]
 
 Children of `DET` nodes belong to 12 different parts of speech: [ADP]() (112; 28% tokens), [VERB]() (71; 18% tokens), [NOUN]() (61; 15% tokens), [ADV]() (33; 8% tokens), [DET]() (25; 6% tokens), [PRON]() (24; 6% tokens), [PUNCT]() (18; 5% tokens), [CONJ]() (17; 4% tokens), [PROPN]() (13; 3% tokens), [SCONJ]() (12; 3% tokens), [ADJ]() (6; 2% tokens), [NUM]() (5; 1% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 27 `INTJ` lemmas (0%), 27 `INTJ` types (0%) and 40 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
@@ -603,8 +590,6 @@ Children of `INTJ` nodes are attached using 8 different relations: [pt-dep/punct
 
 Children of `INTJ` nodes belong to 7 different parts of speech: [PUNCT]() (23; 72% tokens), [NOUN]() (2; 6% tokens), [INTJ]() (2; 6% tokens), [PROPN]() (2; 6% tokens), [CONJ]() (1; 3% tokens), [PRON]() (1; 3% tokens), [ADP]() (1; 3% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 6787 `NOUN` lemmas (34%), 8618 `NOUN` types (30%) and 39892 `NOUN` tokens (19%).
 Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
@@ -688,8 +673,6 @@ Children of `NOUN` nodes are attached using 25 different relations: [pt-dep/det]
 
 Children of `NOUN` nodes belong to 16 different parts of speech: [DET]() (27767; 28% tokens), [ADP]() (21343; 22% tokens), [NOUN]() (14522; 15% tokens), [ADJ]() (8540; 9% tokens), [PUNCT]() (8191; 8% tokens), [VERB]() (6085; 6% tokens), [PROPN]() (4706; 5% tokens), [NUM]() (2960; 3% tokens), [CONJ]() (1843; 2% tokens), [ADV]() (1320; 1% tokens), [PRON]() (378; 0% tokens), [SCONJ]() (197; 0% tokens), [SYM]() (58; 0% tokens), [INTJ]() (4; 0% tokens), [PART]() (3; 0% tokens), [AUX]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 822 `NUM` lemmas (4%), 827 `NUM` types (3%) and 4162 `NUM` tokens (2%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
@@ -762,8 +745,6 @@ Children of `NUM` nodes are attached using 21 different relations: [pt-dep/case]
 
 Children of `NUM` nodes belong to 12 different parts of speech: [ADP]() (703; 33% tokens), [NOUN]() (360; 17% tokens), [NUM]() (270; 13% tokens), [ADV]() (214; 10% tokens), [PUNCT]() (181; 9% tokens), [PRON]() (109; 5% tokens), [VERB]() (94; 4% tokens), [CONJ]() (93; 4% tokens), [PROPN]() (52; 2% tokens), [ADJ]() (16; 1% tokens), [SCONJ]() (9; 0% tokens), [PART]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 5 `PART` lemmas (0%), 5 `PART` types (0%) and 5 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
@@ -815,8 +796,6 @@ Children of `PART` nodes are attached using 4 different relations: [pt-dep/conj]
 
 Children of `PART` nodes belong to 4 different parts of speech: [NOUN]() (1; 25% tokens), [CONJ]() (1; 25% tokens), [PRON]() (1; 25% tokens), [ADP]() (1; 25% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 82 `PRON` lemmas (0%), 143 `PRON` types (0%) and 7106 `PRON` tokens (3%).
 Out of 17 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
@@ -907,8 +886,6 @@ Children of `PRON` nodes are attached using 24 different relations: [pt-dep/case
 
 Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (824; 32% tokens), [VERB]() (470; 19% tokens), [NOUN]() (376; 15% tokens), [PUNCT]() (342; 13% tokens), [ADV]() (132; 5% tokens), [DET]() (119; 5% tokens), [PROPN]() (81; 3% tokens), [PRON]() (59; 2% tokens), [ADJ]() (48; 2% tokens), [CONJ]() (48; 2% tokens), [SCONJ]() (24; 1% tokens), [NUM]() (12; 0% tokens), [AUX]() (4; 0% tokens), [SYM]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 7003 `PROPN` lemmas (35%), 7006 `PROPN` types (24%) and 11706 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
@@ -990,8 +967,6 @@ Children of `PROPN` nodes are attached using 22 different relations: [pt-dep/cas
 
 Children of `PROPN` nodes belong to 15 different parts of speech: [ADP]() (5507; 28% tokens), [DET]() (4778; 25% tokens), [PUNCT]() (4322; 22% tokens), [PROPN]() (1939; 10% tokens), [NOUN]() (977; 5% tokens), [CONJ]() (698; 4% tokens), [VERB]() (620; 3% tokens), [ADJ]() (232; 1% tokens), [NUM]() (157; 1% tokens), [ADV]() (129; 1% tokens), [PRON]() (28; 0% tokens), [SCONJ]() (11; 0% tokens), [SYM]() (2; 0% tokens), [INTJ]() (1; 0% tokens), [PART]() (1; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 24 `PUNCT` lemmas (0%), 24 `PUNCT` types (0%) and 29943 `PUNCT` tokens (14%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
@@ -1032,8 +1007,6 @@ Parents of `PUNCT` nodes belong to 14 different parts of speech: [VERB]() (15223
 
 The highest child degree of a `PUNCT` node is 0.
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 34 `SCONJ` lemmas (0%), 34 `SCONJ` types (0%) and 2280 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
@@ -1121,8 +1094,6 @@ Children of `SCONJ` nodes are attached using 15 different relations: [pt-dep/nsu
 
 Children of `SCONJ` nodes belong to 11 different parts of speech: [NOUN]() (61; 48% tokens), [VERB]() (16; 13% tokens), [PUNCT]() (14; 11% tokens), [PRON]() (11; 9% tokens), [ADV]() (9; 7% tokens), [PROPN]() (8; 6% tokens), [ADJ]() (2; 2% tokens), [CONJ]() (2; 2% tokens), [NUM]() (2; 2% tokens), [ADP]() (1; 1% tokens), [SCONJ]() (1; 1% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 179 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
@@ -1170,8 +1141,6 @@ Children of `SYM` nodes are attached using 13 different relations: [pt-dep/nummo
 
 Children of `SYM` nodes belong to 12 different parts of speech: [NUM]() (181; 41% tokens), [ADP]() (94; 21% tokens), [NOUN]() (61; 14% tokens), [PUNCT]() (25; 6% tokens), [SYM]() (21; 5% tokens), [VERB]() (16; 4% tokens), [PRON]() (11; 3% tokens), [ADV]() (9; 2% tokens), [ADJ]() (7; 2% tokens), [CONJ]() (6; 1% tokens), [PROPN]() (5; 1% tokens), [SCONJ]() (2; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 1981 `VERB` lemmas (10%), 7717 `VERB` types (27%) and 25840 `VERB` tokens (12%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
@@ -1257,8 +1226,6 @@ Children of `VERB` nodes are attached using 24 different relations: [pt-dep/punc
 
 Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (20151; 29% tokens), [PUNCT]() (15223; 22% tokens), [VERB]() (9417; 14% tokens), [ADV]() (6114; 9% tokens), [PRON]() (6031; 9% tokens), [PROPN]() (4179; 6% tokens), [ADP]() (2827; 4% tokens), [SCONJ]() (1784; 3% tokens), [CONJ]() (1737; 3% tokens), [ADJ]() (850; 1% tokens), [NUM]() (457; 1% tokens), [AUX]() (413; 1% tokens), [SYM]() (81; 0% tokens), [INTJ]() (19; 0% tokens), [X]() (2; 0% tokens)
 
-</div>
-<div class="statistics">
 --------------------------------------------------------------------------------
 There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
@@ -1309,4 +1276,3 @@ Children of `X` nodes are attached using 2 different relations: [pt-dep/case]() 
 
 Children of `X` nodes belong to 2 different parts of speech: [NOUN]() (1; 50% tokens), [ADP]() (1; 50% tokens)
 
-</div>
