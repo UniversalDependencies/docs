@@ -53,6 +53,8 @@ The 10 most frequent ambiguous types:  _primeiro_ (ADJ 125, ADV 7), _novo_ (ADJ 
   * ADJ 41: _Aqui reside a <b>principal</b> curiosidade de a prova ._
   * NOUN 1: _A indignação de os dirigentes de o Sindicato_dos_Têxteis tem como <b>principal</b> alvo a Câmara_Municipal , que alegadamente terá colocado « entraves » que fizeram baixar o valor de o imóvel ._
 
+## Morphology
+
 The form / lemma ratio of ADJ is 1.509587 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (9) was observed with lemma “bom”: _boa, boas, bom, bons, melhor, melhores, mlehor, óptima, ótimo_
@@ -68,15 +70,26 @@ ADJ occurs with 10 feature-value pairs: Degree=Cmp, Degree=Sup, Gender=Fem, Gend
 ADJ occurs with 31 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
 
 
+## Relations
+
 ADJ nodes are attached to their parents using 18 different relations: amod (8694; 81% tokens), conj (532; 5% tokens), root (485; 5% tokens), advmod (202; 2% tokens), xcomp (176; 2% tokens), ccomp (170; 2% tokens), nsubj (136; 1% tokens), acl (92; 1% tokens), dobj (90; 1% tokens), advcl (69; 1% tokens), appos (23; 0% tokens), csubj (10; 0% tokens), parataxis (10; 0% tokens), nmod (8; 0% tokens), iobj (5; 0% tokens), dep (3; 0% tokens), cop (2; 0% tokens), nummod (1; 0% tokens)
+
 Parents of ADJ nodes belong to 13 different parts of speech: NOUN (8540; 80% tokens), VERB (850; 8% tokens), ADJ (487; 5% tokens), ROOT (485; 5% tokens), PROPN (232; 2% tokens), PRON (48; 0% tokens), ADV (33; 0% tokens), NUM (16; 0% tokens), SYM (7; 0% tokens), DET (6; 0% tokens), SCONJ (2; 0% tokens), ADP (1; 0% tokens), AUX (1; 0% tokens)
+
 8085 (76%) ADJ nodes are leaves.
+
 828 (8%) ADJ nodes have one child.
+
 631 (6%) ADJ nodes have two children.
+
 1164 (11%) ADJ nodes have three or more children.
+
 The highest child degree of a ADJ node is 13.
+
 Children of ADJ nodes are attached using 21 different relations: punct (1331; 17% tokens), cop (991; 13% tokens), advmod (974; 13% tokens), nmod (863; 11% tokens), conj (619; 8% tokens), nsubj (557; 7% tokens), cc (548; 7% tokens), det (523; 7% tokens), case (366; 5% tokens), advcl (252; 3% tokens), mark (164; 2% tokens), csubj (156; 2% tokens), acl (96; 1% tokens), neg (84; 1% tokens), amod (53; 1% tokens), nummod (36; 0% tokens), dobj (29; 0% tokens), dep (19; 0% tokens), appos (15; 0% tokens), parataxis (1; 0% tokens), ccomp (1; 0% tokens)
+
 Children of ADJ nodes belong to 13 different parts of speech: VERB (1569; 20% tokens), PUNCT (1331; 17% tokens), NOUN (1116; 15% tokens), ADV (1040; 14% tokens), CONJ (536; 7% tokens), DET (531; 7% tokens), ADJ (487; 6% tokens), ADP (373; 5% tokens), PROPN (236; 3% tokens), PRON (214; 3% tokens), SCONJ (186; 2% tokens), NUM (54; 1% tokens), SYM (5; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 161 ADP lemmas (1%), 163 ADP types (1%) and 32396 ADP tokens (15%).
@@ -129,6 +142,8 @@ The 10 most frequent ambiguous types:  _de_ (ADP 14544, ADV 1), _a_ (DET 9018, A
   * VERB 194: _Já_não <b>há</b> o império de o mal para combater ._
   * ADP 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
 
+## Morphology
+
 The form / lemma ratio of ADP is 1.012422 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (2) was observed with lemma “a”: _a, e_
@@ -144,15 +159,26 @@ ADP occurs with 6 feature-value pairs: AdpType=Prep, Gender=Fem, Gender=Masc, Nu
 ADP occurs with 5 feature combinations. The most frequent feature combination is AdpType=Prep (32249 tokens, examples: _de, em, a, para, por, com, entre, sobre, sem, até_).
 
 
+## Relations
+
 ADP nodes are attached to their parents using 12 different relations: case (29341; 91% tokens), mark (2932; 9% tokens), nmod (42; 0% tokens), advmod (32; 0% tokens), cc (25; 0% tokens), dobj (7; 0% tokens), conj (6; 0% tokens), dep (5; 0% tokens), mwe (2; 0% tokens), nsubj (2; 0% tokens), aux (1; 0% tokens), root (1; 0% tokens)
+
 Parents of ADP nodes belong to 16 different parts of speech: NOUN (21343; 66% tokens), PROPN (5507; 17% tokens), VERB (2827; 9% tokens), PRON (824; 3% tokens), NUM (703; 2% tokens), ADV (510; 2% tokens), ADJ (373; 1% tokens), DET (112; 0% tokens), SYM (94; 0% tokens), AUX (82; 0% tokens), ADP (16; 0% tokens), X (1; 0% tokens), ROOT (1; 0% tokens), INTJ (1; 0% tokens), SCONJ (1; 0% tokens), PART (1; 0% tokens)
+
 32348 (100%) ADP nodes are leaves.
+
 24 (0%) ADP nodes have one child.
+
 9 (0%) ADP nodes have two children.
+
 15 (0%) ADP nodes have three or more children.
+
 The highest child degree of a ADP node is 5.
+
 Children of ADP nodes are attached using 16 different relations: nmod (28; 29% tokens), cc (17; 18% tokens), conj (9; 9% tokens), punct (9; 9% tokens), dep (8; 8% tokens), case (5; 5% tokens), acl (5; 5% tokens), dobj (3; 3% tokens), nsubj (3; 3% tokens), xcomp (3; 3% tokens), mark (2; 2% tokens), amod (1; 1% tokens), nummod (1; 1% tokens), advcl (1; 1% tokens), advmod (1; 1% tokens), cop (1; 1% tokens)
+
 Children of ADP nodes belong to 13 different parts of speech: NOUN (31; 32% tokens), ADP (16; 16% tokens), VERB (14; 14% tokens), PUNCT (9; 9% tokens), CONJ (8; 8% tokens), PROPN (7; 7% tokens), PRON (4; 4% tokens), ADV (2; 2% tokens), SCONJ (2; 2% tokens), ADJ (1; 1% tokens), NUM (1; 1% tokens), SYM (1; 1% tokens), AUX (1; 1% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 768 ADV lemmas (4%), 772 ADV types (3%) and 9489 ADV tokens (4%).
@@ -204,6 +230,8 @@ The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _mais_
   * ADV 117: _Chegou atrasado , foi duro com seus críticos e saiu <b>antes</b> de o fim ._
   * ADP 2: _« É necessário que a construção [ de a barragem de o Côa ] seja efectivamente suspensa e que sejam reunidos os meios humanos e necessários a um estudo completo de toda_a área <b>antes</b> que se crie uma situação irreversível ._
 
+## Morphology
+
 The form / lemma ratio of ADV is 1.005208 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (2) was observed with lemma “assim”: _asim, assim_
@@ -219,15 +247,26 @@ ADV occurs with 12 feature-value pairs: Degree=Cmp, Degree=Sup, Gender=Fem, Gend
 ADV occurs with 16 feature combinations. The most frequent feature combination is _ (7103 tokens, examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_).
 
 
+## Relations
+
 ADV nodes are attached to their parents using 21 different relations: advmod (6475; 68% tokens), neg (1244; 13% tokens), nmod (800; 8% tokens), cc (266; 3% tokens), cop (209; 2% tokens), conj (141; 1% tokens), mark (95; 1% tokens), advmod:emph (90; 1% tokens), root (65; 1% tokens), case (34; 0% tokens), dobj (25; 0% tokens), xcomp (17; 0% tokens), nsubj (5; 0% tokens), parataxis (5; 0% tokens), dep (4; 0% tokens), acl (4; 0% tokens), ccomp (4; 0% tokens), iobj (2; 0% tokens), advcl (2; 0% tokens), appos (1; 0% tokens), csubj (1; 0% tokens)
+
 Parents of ADV nodes belong to 14 different parts of speech: VERB (6114; 64% tokens), NOUN (1320; 14% tokens), ADJ (1040; 11% tokens), ADV (399; 4% tokens), NUM (214; 2% tokens), PRON (132; 1% tokens), PROPN (129; 1% tokens), ROOT (65; 1% tokens), DET (33; 0% tokens), AUX (18; 0% tokens), SYM (9; 0% tokens), SCONJ (9; 0% tokens), CONJ (5; 0% tokens), ADP (2; 0% tokens)
+
 7893 (83%) ADV nodes are leaves.
+
 1085 (11%) ADV nodes have one child.
+
 344 (4%) ADV nodes have two children.
+
 167 (2%) ADV nodes have three or more children.
+
 The highest child degree of a ADV node is 11.
+
 Children of ADV nodes are attached using 22 different relations: nmod (686; 28% tokens), case (492; 20% tokens), advmod (399; 16% tokens), punct (233; 9% tokens), nsubj (193; 8% tokens), advcl (132; 5% tokens), conj (89; 4% tokens), cc (81; 3% tokens), dobj (51; 2% tokens), cop (35; 1% tokens), acl (15; 1% tokens), mark (14; 1% tokens), dep (11; 0% tokens), amod (6; 0% tokens), neg (6; 0% tokens), csubj (5; 0% tokens), nummod (3; 0% tokens), appos (2; 0% tokens), xcomp (2; 0% tokens), mwe (2; 0% tokens), advmod:emph (1; 0% tokens), parataxis (1; 0% tokens)
+
 Children of ADV nodes belong to 12 different parts of speech: NOUN (729; 30% tokens), ADP (510; 21% tokens), ADV (399; 16% tokens), PUNCT (233; 9% tokens), VERB (189; 8% tokens), PROPN (131; 5% tokens), PRON (98; 4% tokens), CONJ (79; 3% tokens), SCONJ (41; 2% tokens), ADJ (33; 1% tokens), NUM (16; 1% tokens), INTJ (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 68 AUX lemmas (0%), 83 AUX types (0%) and 465 AUX tokens (0%).
@@ -274,6 +313,8 @@ The 10 most frequent ambiguous types:  _ser_ (VERB 248, AUX 213, NOUN 3), _sido_
   * VERB 9: _A <b>acabar</b> confirmou a sua regularidade com 61,87 m , 62,84 m e 63,09 m ._
   * AUX 3: _Seu Sauber pode <b>acabar</b> trocando o certo por o incerto ao esperar por Karl_Wendlinger ._
 
+## Morphology
+
 The form / lemma ratio of AUX is 1.220588 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (5) was observed with lemma “ser”: _sendo, ser, sido, são, é_
@@ -289,15 +330,26 @@ AUX occurs with 16 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, Mood=
 AUX occurs with 15 feature combinations. The most frequent feature combination is VerbForm=Inf (319 tokens, examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_).
 
 
+## Relations
+
 AUX nodes are attached to their parents using 2 different relations: aux (432; 93% tokens), conj (33; 7% tokens)
+
 Parents of AUX nodes belong to 5 different parts of speech: VERB (413; 89% tokens), AUX (46; 10% tokens), PRON (4; 1% tokens), NOUN (1; 0% tokens), ADP (1; 0% tokens)
+
 11 (2%) AUX nodes are leaves.
+
 324 (70%) AUX nodes have one child.
+
 92 (20%) AUX nodes have two children.
+
 38 (8%) AUX nodes have three or more children.
+
 The highest child degree of a AUX node is 7.
+
 Children of AUX nodes are attached using 14 different relations: ccomp (330; 49% tokens), mark (92; 14% tokens), xcomp (52; 8% tokens), dobj (46; 7% tokens), conj (32; 5% tokens), cc (30; 4% tokens), nmod (29; 4% tokens), advmod (18; 3% tokens), aux (14; 2% tokens), punct (14; 2% tokens), advcl (7; 1% tokens), nsubj (2; 0% tokens), iobj (1; 0% tokens), neg (1; 0% tokens)
+
 Children of AUX nodes belong to 12 different parts of speech: VERB (371; 56% tokens), ADP (82; 12% tokens), NOUN (77; 12% tokens), AUX (46; 7% tokens), CONJ (29; 4% tokens), ADV (18; 3% tokens), PUNCT (14; 2% tokens), PRON (10; 1% tokens), SCONJ (10; 1% tokens), PROPN (8; 1% tokens), NUM (2; 0% tokens), ADJ (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 12 CONJ lemmas (0%), 12 CONJ types (0%) and 5112 CONJ tokens (2%).
@@ -338,6 +390,8 @@ The 10 most frequent ambiguous types:  _e_ (CONJ 3975, ADP 1, SCONJ 1), _nem_ (C
   * PUNCT 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
   * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
+## Morphology
+
 The form / lemma ratio of CONJ is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with lemma “$/”: _$/_
@@ -353,15 +407,26 @@ CONJ occurs with 0 feature-value pairs:
 CONJ occurs with 1 feature combinations. The most frequent feature combination is _ (5112 tokens, examples: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_).
 
 
+## Relations
+
 CONJ nodes are attached to their parents using 5 different relations: cc (5092; 100% tokens), root (14; 0% tokens), nmod (3; 0% tokens), cop (2; 0% tokens), parataxis (1; 0% tokens)
+
 Parents of CONJ nodes belong to 15 different parts of speech: NOUN (1843; 36% tokens), VERB (1737; 34% tokens), PROPN (698; 14% tokens), ADJ (536; 10% tokens), NUM (93; 2% tokens), ADV (79; 2% tokens), PRON (48; 1% tokens), AUX (29; 1% tokens), DET (17; 0% tokens), ROOT (14; 0% tokens), ADP (8; 0% tokens), SYM (6; 0% tokens), SCONJ (2; 0% tokens), INTJ (1; 0% tokens), PART (1; 0% tokens)
+
 5097 (100%) CONJ nodes are leaves.
+
 1 (0%) CONJ nodes have one child.
+
 10 (0%) CONJ nodes have two children.
+
 4 (0%) CONJ nodes have three or more children.
+
 The highest child degree of a CONJ node is 5.
+
 Children of CONJ nodes are attached using 5 different relations: punct (17; 46% tokens), advcl (6; 16% tokens), advmod (6; 16% tokens), nmod (6; 16% tokens), ccomp (2; 5% tokens)
+
 Children of CONJ nodes belong to 5 different parts of speech: PUNCT (17; 46% tokens), VERB (8; 22% tokens), NOUN (6; 16% tokens), ADV (5; 14% tokens), PRON (1; 3% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 53 DET lemmas (0%), 114 DET types (0%) and 33220 DET tokens (16%).
@@ -413,6 +478,8 @@ The 10 most frequent ambiguous types:  _o_ (DET 9656, PRON 351, NOUN 1), _a_ (DE
   * DET 173: _Diariamente , está promovendo desfiles de moda para <b>seus</b> consumidores ._
   * PRON 2: _A federação de as pequenas e médias empresas revelou em uma pesquisa que <b>seus</b> filiados estão próximos de o pânico em_relação_a a situação econômica ._
 
+## Morphology
+
 The form / lemma ratio of DET is 2.150943 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (9) was observed with lemma “meu”: _meu, meus, minha, minhas, nossos, seu, seus, sua, suas_
@@ -428,15 +495,26 @@ DET occurs with 23 feature-value pairs: Definite=Def, Definite=Ind, Degree=Cmp, 
 DET occurs with 90 feature combinations. The most frequent feature combination is Definite=Def\|Gender=Masc\|Number=Sing\|PronType=Art (10617 tokens, examples: _o, Os, a_).
 
 
+## Relations
+
 DET nodes are attached to their parents using 5 different relations: det (33189; 100% tokens), acl (14; 0% tokens), nmod (8; 0% tokens), cop (5; 0% tokens), advmod:emph (4; 0% tokens)
+
 Parents of DET nodes belong to 5 different parts of speech: NOUN (27767; 84% tokens), PROPN (4778; 14% tokens), ADJ (531; 2% tokens), PRON (119; 0% tokens), DET (25; 0% tokens)
+
 33019 (99%) DET nodes are leaves.
+
 78 (0%) DET nodes have one child.
+
 82 (0%) DET nodes have two children.
+
 41 (0%) DET nodes have three or more children.
+
 The highest child degree of a DET node is 8.
+
 Children of DET nodes are attached using 19 different relations: case (115; 29% tokens), nmod (76; 19% tokens), acl (56; 14% tokens), det (25; 6% tokens), cop (21; 5% tokens), cc (18; 5% tokens), punct (18; 5% tokens), conj (17; 4% tokens), nsubj (14; 4% tokens), advmod (11; 3% tokens), mark (8; 2% tokens), nummod (5; 1% tokens), advcl (4; 1% tokens), amod (2; 1% tokens), dobj (2; 1% tokens), neg (2; 1% tokens), dep (1; 0% tokens), advmod:emph (1; 0% tokens), ccomp (1; 0% tokens)
+
 Children of DET nodes belong to 12 different parts of speech: ADP (112; 28% tokens), VERB (71; 18% tokens), NOUN (61; 15% tokens), ADV (33; 8% tokens), DET (25; 6% tokens), PRON (24; 6% tokens), PUNCT (18; 5% tokens), CONJ (17; 4% tokens), PROPN (13; 3% tokens), SCONJ (12; 3% tokens), ADJ (6; 2% tokens), NUM (5; 1% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 27 INTJ lemmas (0%), 27 INTJ types (0%) and 40 INTJ tokens (0%).
@@ -485,6 +563,8 @@ The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _Socor
   * ADV 18: _<b>É</b> por isso que , explica , não tem pena de Hillary_Clinton ._
   * INTJ 1: _Niemeyer -- <b>É</b> , foi em 1936 ._
 
+## Morphology
+
 The form / lemma ratio of INTJ is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with lemma “Ah_bem”: _Ah_bem_
@@ -500,15 +580,26 @@ INTJ occurs with 6 feature-value pairs: Gender=Fem, Gender=Masc, Mood=Ind, Numbe
 INTJ occurs with 4 feature combinations. The most frequent feature combination is _ (36 tokens, examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_).
 
 
+## Relations
+
 INTJ nodes are attached to their parents using 7 different relations: advmod (13; 33% tokens), root (13; 33% tokens), neg (4; 10% tokens), dobj (4; 10% tokens), dep (3; 8% tokens), conj (2; 5% tokens), nmod (1; 3% tokens)
+
 Parents of INTJ nodes belong to 6 different parts of speech: VERB (19; 48% tokens), ROOT (13; 33% tokens), NOUN (4; 10% tokens), INTJ (2; 5% tokens), ADV (1; 3% tokens), PROPN (1; 3% tokens)
+
 22 (55%) INTJ nodes are leaves.
+
 9 (23%) INTJ nodes have one child.
+
 5 (13%) INTJ nodes have two children.
+
 4 (10%) INTJ nodes have three or more children.
+
 The highest child degree of a INTJ node is 4.
+
 Children of INTJ nodes are attached using 8 different relations: punct (23; 72% tokens), conj (2; 6% tokens), dep (2; 6% tokens), case (1; 3% tokens), advmod (1; 3% tokens), cc (1; 3% tokens), nsubj (1; 3% tokens), nmod (1; 3% tokens)
+
 Children of INTJ nodes belong to 7 different parts of speech: PUNCT (23; 72% tokens), NOUN (2; 6% tokens), INTJ (2; 6% tokens), PROPN (2; 6% tokens), CONJ (1; 3% tokens), PRON (1; 3% tokens), ADP (1; 3% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 6787 NOUN lemmas (34%), 8618 NOUN types (30%) and 39892 NOUN tokens (19%).
@@ -556,6 +647,8 @@ The 10 most frequent ambiguous types:  _estado_ (NOUN 33, VERB 3, AUX 2), _parte
   * NOUN 43: _Depois , tornou- se <b>local</b> de convívio de a mais alta qualidade ._
   * ADJ 27: _Quem quiser , vai em excursão até o resort <b>local</b> , Casa_de_Campo ._
 
+## Morphology
+
 The form / lemma ratio of NOUN is 1.269780 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (4) was observed with lemma “homem”: _homem, homens, mulher, mulheres_
@@ -571,15 +664,26 @@ NOUN occurs with 8 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumTy
 NOUN occurs with 17 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
 
 
+## Relations
+
 NOUN nodes are attached to their parents using 20 different relations: nmod (20100; 50% tokens), dobj (8297; 21% tokens), nsubj (6205; 16% tokens), conj (2556; 6% tokens), root (1360; 3% tokens), iobj (486; 1% tokens), xcomp (198; 0% tokens), ccomp (177; 0% tokens), appos (164; 0% tokens), acl (118; 0% tokens), advcl (73; 0% tokens), dep (49; 0% tokens), advmod (37; 0% tokens), cop (21; 0% tokens), case (20; 0% tokens), parataxis (20; 0% tokens), cc (4; 0% tokens), csubj (4; 0% tokens), advmod:emph (2; 0% tokens), nummod (1; 0% tokens)
+
 Parents of NOUN nodes belong to 17 different parts of speech: VERB (20151; 51% tokens), NOUN (14522; 36% tokens), ROOT (1360; 3% tokens), ADJ (1116; 3% tokens), PROPN (977; 2% tokens), ADV (729; 2% tokens), PRON (376; 1% tokens), NUM (360; 1% tokens), AUX (77; 0% tokens), DET (61; 0% tokens), SYM (61; 0% tokens), SCONJ (61; 0% tokens), ADP (31; 0% tokens), CONJ (6; 0% tokens), INTJ (2; 0% tokens), X (1; 0% tokens), PART (1; 0% tokens)
+
 2004 (5%) NOUN nodes are leaves.
+
 8806 (22%) NOUN nodes have one child.
+
 13101 (33%) NOUN nodes have two children.
+
 15981 (40%) NOUN nodes have three or more children.
+
 The highest child degree of a NOUN node is 24.
+
 Children of NOUN nodes are attached using 25 different relations: det (27748; 28% tokens), case (21300; 22% tokens), nmod (16680; 17% tokens), amod (8362; 9% tokens), punct (8191; 8% tokens), acl (4707; 5% tokens), nummod (2896; 3% tokens), conj (2632; 3% tokens), cc (1907; 2% tokens), cop (1333; 1% tokens), nsubj (676; 1% tokens), appos (470; 0% tokens), advmod (289; 0% tokens), mark (232; 0% tokens), advcl (125; 0% tokens), parataxis (78; 0% tokens), neg (72; 0% tokens), advmod:emph (63; 0% tokens), dobj (48; 0% tokens), dep (46; 0% tokens), csubj (45; 0% tokens), xcomp (12; 0% tokens), ccomp (3; 0% tokens), compound (2; 0% tokens), aux (1; 0% tokens)
+
 Children of NOUN nodes belong to 16 different parts of speech: DET (27767; 28% tokens), ADP (21343; 22% tokens), NOUN (14522; 15% tokens), ADJ (8540; 9% tokens), PUNCT (8191; 8% tokens), VERB (6085; 6% tokens), PROPN (4706; 5% tokens), NUM (2960; 3% tokens), CONJ (1843; 2% tokens), ADV (1320; 1% tokens), PRON (378; 0% tokens), SCONJ (197; 0% tokens), SYM (58; 0% tokens), INTJ (4; 0% tokens), PART (3; 0% tokens), AUX (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 822 NUM lemmas (4%), 827 NUM types (3%) and 4162 NUM tokens (2%).
@@ -616,6 +720,8 @@ The 10 most frequent ambiguous types:  _um_ (DET 1555, NUM 233, PRON 12), _mil_ 
   * PRON 19: _<b>O</b> outro esquivou- se delicadamente , mas convidou- o a subir a_bordo ._
   * NUM 1: _O Santo_André perdeu por 2 a <b>O</b> para o Rio_Branco , de Americana , ontem a a tarde em o estádio Bruno_José_Daniel , em Santo_Andr ._
 
+## Morphology
+
 The form / lemma ratio of NUM is 1.006083 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (2) was observed with lemma “0”: _0, O_
@@ -631,15 +737,26 @@ NUM occurs with 6 feature-value pairs: Gender=Fem, Gender=Masc, NumType=Card, Nu
 NUM occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Plur\|NumType=Card (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
 
 
+## Relations
+
 NUM nodes are attached to their parents using 16 different relations: nummod (3304; 79% tokens), advmod (358; 9% tokens), compound (132; 3% tokens), conj (131; 3% tokens), nsubj (89; 2% tokens), dobj (68; 2% tokens), root (45; 1% tokens), ccomp (7; 0% tokens), appos (6; 0% tokens), xcomp (5; 0% tokens), iobj (4; 0% tokens), acl (4; 0% tokens), cop (4; 0% tokens), advcl (2; 0% tokens), nmod (2; 0% tokens), parataxis (1; 0% tokens)
+
 Parents of NUM nodes belong to 13 different parts of speech: NOUN (2960; 71% tokens), VERB (457; 11% tokens), NUM (270; 6% tokens), SYM (181; 4% tokens), PROPN (157; 4% tokens), ADJ (54; 1% tokens), ROOT (45; 1% tokens), ADV (16; 0% tokens), PRON (12; 0% tokens), DET (5; 0% tokens), SCONJ (2; 0% tokens), AUX (2; 0% tokens), ADP (1; 0% tokens)
+
 2866 (69%) NUM nodes are leaves.
+
 865 (21%) NUM nodes have one child.
+
 244 (6%) NUM nodes have two children.
+
 187 (4%) NUM nodes have three or more children.
+
 The highest child degree of a NUM node is 9.
+
 Children of NUM nodes are attached using 21 different relations: case (702; 33% tokens), nmod (449; 21% tokens), advmod (239; 11% tokens), punct (181; 9% tokens), compound (130; 6% tokens), conj (126; 6% tokens), cc (94; 4% tokens), cop (61; 3% tokens), nsubj (38; 2% tokens), advcl (22; 1% tokens), nummod (13; 1% tokens), acl (12; 1% tokens), appos (11; 1% tokens), amod (9; 0% tokens), mark (5; 0% tokens), dep (3; 0% tokens), dobj (2; 0% tokens), advmod:emph (2; 0% tokens), neg (1; 0% tokens), csubj (1; 0% tokens), parataxis (1; 0% tokens)
+
 Children of NUM nodes belong to 12 different parts of speech: ADP (703; 33% tokens), NOUN (360; 17% tokens), NUM (270; 13% tokens), ADV (214; 10% tokens), PUNCT (181; 9% tokens), PRON (109; 5% tokens), VERB (94; 4% tokens), CONJ (93; 4% tokens), PROPN (52; 2% tokens), ADJ (16; 1% tokens), SCONJ (9; 0% tokens), PART (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 5 PART lemmas (0%), 5 PART types (0%) and 5 PART tokens (0%).
@@ -654,6 +771,8 @@ The 10 most frequent ambiguous lemmas:
 The 10 most frequent ambiguous types:  
 
 
+
+## Morphology
 
 The form / lemma ratio of PART is 1.000000 (the average of all parts of speech is 1.441790).
 
@@ -670,15 +789,26 @@ PART occurs with 3 feature-value pairs: Gender=Masc, Hyph=Yes, Number=Sing
 PART occurs with 2 feature combinations. The most frequent feature combination is Hyph=Yes (4 tokens, examples: _anti-, ex, ex-, pré-_).
 
 
+## Relations
+
 PART nodes are attached to their parents using 1 different relations: nmod (5; 100% tokens)
+
 Parents of PART nodes belong to 3 different parts of speech: NOUN (3; 60% tokens), NUM (1; 20% tokens), PROPN (1; 20% tokens)
+
 4 (80%) PART nodes are leaves.
+
 0 (0%) PART nodes have one child.
+
 0 (0%) PART nodes have two children.
+
 1 (20%) PART nodes have three or more children.
+
 The highest child degree of a PART node is 4.
+
 Children of PART nodes are attached using 4 different relations: conj (1; 25% tokens), cc (1; 25% tokens), case (1; 25% tokens), nmod (1; 25% tokens)
+
 Children of PART nodes belong to 4 different parts of speech: NOUN (1; 25% tokens), CONJ (1; 25% tokens), PRON (1; 25% tokens), ADP (1; 25% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 82 PRON lemmas (0%), 143 PRON types (0%) and 7106 PRON tokens (3%).
@@ -733,6 +863,8 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * DET 2119: _Horário : em o dia 12 , de <b>as</b> 19h a o último cliente_
   * PRON 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
 
+## Morphology
+
 The form / lemma ratio of PRON is 1.743902 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (10) was observed with lemma “ele”: _Ihe, ela, elas, ele, eles, lhe, lhe-, lo, no, o_
@@ -748,15 +880,26 @@ PRON occurs with 32 feature-value pairs: AdpType=Prep, Case=Acc, Case=Acc,Dat, C
 PRON occurs with 181 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing\|PronType=Rel (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
 
 
+## Relations
+
 PRON nodes are attached to their parents using 20 different relations: nsubj (3246; 46% tokens), dobj (2027; 29% tokens), nmod (800; 11% tokens), iobj (385; 5% tokens), advmod (218; 3% tokens), root (126; 2% tokens), conj (109; 2% tokens), mark (53; 1% tokens), auxpass:reflex (27; 0% tokens), dep (25; 0% tokens), ccomp (19; 0% tokens), xcomp (14; 0% tokens), appos (13; 0% tokens), parataxis (10; 0% tokens), advcl (10; 0% tokens), acl (9; 0% tokens), cop (7; 0% tokens), case (5; 0% tokens), cc (2; 0% tokens), csubj (1; 0% tokens)
+
 Parents of PRON nodes belong to 16 different parts of speech: VERB (6031; 85% tokens), NOUN (378; 5% tokens), ADJ (214; 3% tokens), ROOT (126; 2% tokens), NUM (109; 2% tokens), ADV (98; 1% tokens), PRON (59; 1% tokens), PROPN (28; 0% tokens), DET (24; 0% tokens), SYM (11; 0% tokens), SCONJ (11; 0% tokens), AUX (10; 0% tokens), ADP (4; 0% tokens), CONJ (1; 0% tokens), INTJ (1; 0% tokens), PART (1; 0% tokens)
+
 5717 (80%) PRON nodes are leaves.
+
 870 (12%) PRON nodes have one child.
+
 275 (4%) PRON nodes have two children.
+
 244 (3%) PRON nodes have three or more children.
+
 The highest child degree of a PRON node is 12.
+
 Children of PRON nodes are attached using 24 different relations: case (823; 32% tokens), nmod (356; 14% tokens), punct (342; 13% tokens), acl (255; 10% tokens), cop (199; 8% tokens), nsubj (127; 5% tokens), det (118; 5% tokens), advmod (61; 2% tokens), cc (52; 2% tokens), conj (50; 2% tokens), amod (31; 1% tokens), mark (26; 1% tokens), advcl (26; 1% tokens), dobj (15; 1% tokens), neg (13; 1% tokens), appos (13; 1% tokens), dep (8; 0% tokens), nummod (7; 0% tokens), ccomp (5; 0% tokens), aux (4; 0% tokens), csubj (4; 0% tokens), advmod:emph (2; 0% tokens), xcomp (2; 0% tokens), parataxis (1; 0% tokens)
+
 Children of PRON nodes belong to 14 different parts of speech: ADP (824; 32% tokens), VERB (470; 19% tokens), NOUN (376; 15% tokens), PUNCT (342; 13% tokens), ADV (132; 5% tokens), DET (119; 5% tokens), PROPN (81; 3% tokens), PRON (59; 2% tokens), ADJ (48; 2% tokens), CONJ (48; 2% tokens), SCONJ (24; 1% tokens), NUM (12; 0% tokens), AUX (4; 0% tokens), SYM (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 7003 PROPN lemmas (35%), 7006 PROPN types (24%) and 11706 PROPN tokens (6%).
@@ -802,6 +945,8 @@ The 10 most frequent ambiguous types:  _Governo_ (PROPN 79, NOUN 6), _Folha_ (PR
   * NOUN 9: _Olha o <b>Carnaval</b> de salão !_
   * PROPN 7: _Terça-feira de <b>Carnaval</b> : Cavaco não « dá » feriado_
 
+## Morphology
+
 The form / lemma ratio of PROPN is 1.000428 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (2) was observed with lemma “Ana”: _Ana, Anas_
@@ -817,15 +962,26 @@ PROPN occurs with 7 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumT
 PROPN occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Sing (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
 
 
+## Relations
+
 PROPN nodes are attached to their parents using 19 different relations: nmod (6131; 52% tokens), nsubj (2401; 21% tokens), conj (1269; 11% tokens), dobj (838; 7% tokens), appos (344; 3% tokens), root (339; 3% tokens), name (212; 2% tokens), iobj (106; 1% tokens), xcomp (17; 0% tokens), acl (16; 0% tokens), dep (11; 0% tokens), advcl (6; 0% tokens), advmod (5; 0% tokens), parataxis (4; 0% tokens), cop (3; 0% tokens), case (1; 0% tokens), mark (1; 0% tokens), csubj (1; 0% tokens), ccomp (1; 0% tokens)
+
 Parents of PROPN nodes belong to 14 different parts of speech: NOUN (4706; 40% tokens), VERB (4179; 36% tokens), PROPN (1939; 17% tokens), ROOT (339; 3% tokens), ADJ (236; 2% tokens), ADV (131; 1% tokens), PRON (81; 1% tokens), NUM (52; 0% tokens), DET (13; 0% tokens), SCONJ (8; 0% tokens), AUX (8; 0% tokens), ADP (7; 0% tokens), SYM (5; 0% tokens), INTJ (2; 0% tokens)
+
 3676 (31%) PROPN nodes are leaves.
+
 2671 (23%) PROPN nodes have one child.
+
 2922 (25%) PROPN nodes have two children.
+
 2437 (21%) PROPN nodes have three or more children.
+
 The highest child degree of a PROPN node is 40.
+
 Children of PROPN nodes are attached using 22 different relations: case (5507; 28% tokens), det (4775; 25% tokens), punct (4322; 22% tokens), nmod (1388; 7% tokens), conj (1277; 7% tokens), cc (702; 4% tokens), acl (481; 2% tokens), name (212; 1% tokens), amod (204; 1% tokens), nummod (150; 1% tokens), cop (96; 0% tokens), parataxis (75; 0% tokens), nsubj (59; 0% tokens), appos (57; 0% tokens), advmod (24; 0% tokens), mark (23; 0% tokens), dep (17; 0% tokens), advcl (12; 0% tokens), advmod:emph (9; 0% tokens), dobj (7; 0% tokens), neg (4; 0% tokens), csubj (1; 0% tokens)
+
 Children of PROPN nodes belong to 15 different parts of speech: ADP (5507; 28% tokens), DET (4778; 25% tokens), PUNCT (4322; 22% tokens), PROPN (1939; 10% tokens), NOUN (977; 5% tokens), CONJ (698; 4% tokens), VERB (620; 3% tokens), ADJ (232; 1% tokens), NUM (157; 1% tokens), ADV (129; 1% tokens), PRON (28; 0% tokens), SCONJ (11; 0% tokens), SYM (2; 0% tokens), INTJ (1; 0% tokens), PART (1; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 24 PUNCT lemmas (0%), 24 PUNCT types (0%) and 29943 PUNCT tokens (14%).
@@ -844,6 +1000,8 @@ The 10 most frequent ambiguous types:  _/_ (PUNCT 23, CONJ 1)
   * PUNCT 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
   * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
+## Morphology
+
 The form / lemma ratio of PUNCT is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with lemma “!”: _!_
@@ -859,10 +1017,16 @@ PUNCT occurs with 0 feature-value pairs:
 PUNCT occurs with 1 feature combinations. The most frequent feature combination is _ (29943 tokens, examples: _,, ., «, », ), (, --, :, ?, ;_).
 
 
+## Relations
+
 PUNCT nodes are attached to their parents using 1 different relations: punct (29943; 100% tokens)
+
 Parents of PUNCT nodes belong to 14 different parts of speech: VERB (15223; 51% tokens), NOUN (8191; 27% tokens), PROPN (4322; 14% tokens), ADJ (1331; 4% tokens), PRON (342; 1% tokens), ADV (233; 1% tokens), NUM (181; 1% tokens), SYM (25; 0% tokens), INTJ (23; 0% tokens), DET (18; 0% tokens), CONJ (17; 0% tokens), SCONJ (14; 0% tokens), AUX (14; 0% tokens), ADP (9; 0% tokens)
+
 29943 (100%) PUNCT nodes are leaves.
+
 The highest child degree of a PUNCT node is 0.
+
 
 --------------------------------------------------------------------------------
 There are 34 SCONJ lemmas (0%), 34 SCONJ types (0%) and 2280 SCONJ tokens (1%).
@@ -914,6 +1078,8 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * ADP 1: _Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos ._
   * SCONJ 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
 
+## Morphology
+
 The form / lemma ratio of SCONJ is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with lemma “a_fim_de_que”: _a_fim_de_que_
@@ -929,15 +1095,26 @@ SCONJ occurs with 1 feature-value pairs: PronType=Rel
 SCONJ occurs with 2 feature combinations. The most frequent feature combination is _ (2279 tokens, examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_).
 
 
+## Relations
+
 SCONJ nodes are attached to their parents using 9 different relations: mark (2109; 93% tokens), nmod (74; 3% tokens), cop (43; 2% tokens), advmod (37; 2% tokens), dobj (9; 0% tokens), cc (4; 0% tokens), nsubj (2; 0% tokens), parataxis (1; 0% tokens), root (1; 0% tokens)
+
 Parents of SCONJ nodes belong to 13 different parts of speech: VERB (1784; 78% tokens), NOUN (197; 9% tokens), ADJ (186; 8% tokens), ADV (41; 2% tokens), PRON (24; 1% tokens), DET (12; 1% tokens), PROPN (11; 0% tokens), AUX (10; 0% tokens), NUM (9; 0% tokens), SYM (2; 0% tokens), ADP (2; 0% tokens), ROOT (1; 0% tokens), SCONJ (1; 0% tokens)
+
 2185 (96%) SCONJ nodes are leaves.
+
 82 (4%) SCONJ nodes have one child.
+
 6 (0%) SCONJ nodes have two children.
+
 7 (0%) SCONJ nodes have three or more children.
+
 The highest child degree of a SCONJ node is 10.
+
 Children of SCONJ nodes are attached using 15 different relations: nsubj (49; 39% tokens), nmod (28; 22% tokens), punct (14; 11% tokens), advmod (9; 7% tokens), advcl (8; 6% tokens), dobj (6; 5% tokens), conj (2; 2% tokens), csubj (2; 2% tokens), cc (2; 2% tokens), neg (2; 2% tokens), xcomp (1; 1% tokens), case (1; 1% tokens), dep (1; 1% tokens), ccomp (1; 1% tokens), cop (1; 1% tokens)
+
 Children of SCONJ nodes belong to 11 different parts of speech: NOUN (61; 48% tokens), VERB (16; 13% tokens), PUNCT (14; 11% tokens), PRON (11; 9% tokens), ADV (9; 7% tokens), PROPN (8; 6% tokens), ADJ (2; 2% tokens), CONJ (2; 2% tokens), NUM (2; 2% tokens), ADP (1; 1% tokens), SCONJ (1; 1% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 1 SYM lemmas (0%), 1 SYM types (0%) and 179 SYM tokens (0%).
@@ -952,6 +1129,8 @@ The 10 most frequent ambiguous lemmas: _%_ (SYM 179, NOUN 24)
 The 10 most frequent ambiguous types:  
 
 
+
+## Morphology
 
 The form / lemma ratio of SYM is 1.000000 (the average of all parts of speech is 1.441790).
 
@@ -968,15 +1147,26 @@ SYM occurs with 2 feature-value pairs: Gender=Masc, Number=Plur
 SYM occurs with 1 feature combinations. The most frequent feature combination is Gender=Masc\|Number=Plur (179 tokens, examples: _%_).
 
 
+## Relations
+
 SYM nodes are attached to their parents using 10 different relations: nmod (59; 33% tokens), dobj (51; 28% tokens), advmod (32; 18% tokens), conj (10; 6% tokens), nsubj (10; 6% tokens), root (10; 6% tokens), ccomp (3; 2% tokens), acl (2; 1% tokens), parataxis (1; 1% tokens), iobj (1; 1% tokens)
+
 Parents of SYM nodes belong to 8 different parts of speech: VERB (81; 45% tokens), NOUN (58; 32% tokens), SYM (21; 12% tokens), ROOT (10; 6% tokens), ADJ (5; 3% tokens), PROPN (2; 1% tokens), PRON (1; 1% tokens), ADP (1; 1% tokens)
+
 0 (0%) SYM nodes are leaves.
+
 50 (28%) SYM nodes have one child.
+
 60 (34%) SYM nodes have two children.
+
 69 (39%) SYM nodes have three or more children.
+
 The highest child degree of a SYM node is 9.
+
 Children of SYM nodes are attached using 13 different relations: nummod (181; 41% tokens), case (94; 21% tokens), nmod (74; 17% tokens), punct (25; 6% tokens), cop (13; 3% tokens), conj (10; 2% tokens), nsubj (10; 2% tokens), advmod (9; 2% tokens), amod (7; 2% tokens), cc (7; 2% tokens), dobj (4; 1% tokens), acl (3; 1% tokens), mark (1; 0% tokens)
+
 Children of SYM nodes belong to 12 different parts of speech: NUM (181; 41% tokens), ADP (94; 21% tokens), NOUN (61; 14% tokens), PUNCT (25; 6% tokens), SYM (21; 5% tokens), VERB (16; 4% tokens), PRON (11; 3% tokens), ADV (9; 2% tokens), ADJ (7; 2% tokens), CONJ (6; 1% tokens), PROPN (5; 1% tokens), SCONJ (2; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 1981 VERB lemmas (10%), 7717 VERB types (27%) and 25840 VERB tokens (12%).
@@ -1026,6 +1216,8 @@ The 10 most frequent ambiguous types:  _é_ (VERB 1119, ADV 15, AUX 1), _foi_ (V
   * VERB 75: _Lá vai Dolores_Faísca <b>ver</b> o_que se passa a a porta de o Nacofino ._
   * AUX 1: _Podemos beber um copo , jogar gamão , damas , snooker , <b>ver</b> televisão , etc._
 
+## Morphology
+
 The form / lemma ratio of VERB is 3.895507 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (39) was observed with lemma “ter”: _tem, tem-, temos, tendo, tendo-, tenha, tenham, tenhamos, tenho, ter, ter-, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinha-, tinham, tinham-, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos_
@@ -1041,15 +1233,26 @@ VERB occurs with 25 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, Mood
 VERB occurs with 103 feature combinations. The most frequent feature combination is Mood=Ind\|Number=Sing\|Person=3\|Tense=Pres\|VerbForm=Fin (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
 
 
+## Relations
+
 VERB nodes are attached to their parents using 17 different relations: root (6900; 27% tokens), acl (5379; 21% tokens), cop (2987; 12% tokens), ccomp (2976; 12% tokens), advcl (2787; 11% tokens), xcomp (2387; 9% tokens), conj (1785; 7% tokens), csubj (333; 1% tokens), parataxis (147; 1% tokens), dep (93; 0% tokens), appos (24; 0% tokens), cc (16; 0% tokens), advmod (9; 0% tokens), case (7; 0% tokens), nmod (6; 0% tokens), mark (3; 0% tokens), nummod (1; 0% tokens)
+
 Parents of VERB nodes belong to 14 different parts of speech: VERB (9417; 36% tokens), ROOT (6900; 27% tokens), NOUN (6085; 24% tokens), ADJ (1569; 6% tokens), PROPN (620; 2% tokens), PRON (470; 2% tokens), AUX (371; 1% tokens), ADV (189; 1% tokens), NUM (94; 0% tokens), DET (71; 0% tokens), SYM (16; 0% tokens), SCONJ (16; 0% tokens), ADP (14; 0% tokens), CONJ (8; 0% tokens)
+
 4181 (16%) VERB nodes are leaves.
+
 3823 (15%) VERB nodes have one child.
+
 5552 (21%) VERB nodes have two children.
+
 12284 (48%) VERB nodes have three or more children.
+
 The highest child degree of a VERB node is 19.
+
 Children of VERB nodes are attached using 24 different relations: punct (15223; 22% tokens), dobj (11203; 16% tokens), nsubj (10367; 15% tokens), nmod (7373; 11% tokens), advmod (5378; 8% tokens), mark (4626; 7% tokens), ccomp (3014; 4% tokens), xcomp (2742; 4% tokens), advcl (2354; 3% tokens), cc (1949; 3% tokens), conj (1709; 2% tokens), neg (1063; 2% tokens), iobj (988; 1% tokens), cop (532; 1% tokens), aux (414; 1% tokens), csubj (136; 0% tokens), dep (77; 0% tokens), parataxis (43; 0% tokens), auxpass:reflex (27; 0% tokens), amod (19; 0% tokens), advmod:emph (18; 0% tokens), nummod (15; 0% tokens), acl (8; 0% tokens), appos (7; 0% tokens)
+
 Children of VERB nodes belong to 15 different parts of speech: NOUN (20151; 29% tokens), PUNCT (15223; 22% tokens), VERB (9417; 14% tokens), ADV (6114; 9% tokens), PRON (6031; 9% tokens), PROPN (4179; 6% tokens), ADP (2827; 4% tokens), SCONJ (1784; 3% tokens), CONJ (1737; 3% tokens), ADJ (850; 1% tokens), NUM (457; 1% tokens), AUX (413; 1% tokens), SYM (81; 0% tokens), INTJ (19; 0% tokens), X (2; 0% tokens)
+
 
 --------------------------------------------------------------------------------
 There are 2 X lemmas (0%), 2 X types (0%) and 2 X tokens (0%).
@@ -1072,6 +1275,8 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * ADP 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
   * X 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
 
+## Morphology
+
 The form / lemma ratio of X is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with lemma “???”: _(<predicate>)_
@@ -1087,12 +1292,22 @@ X occurs with 0 feature-value pairs:
 X occurs with 1 feature combinations. The most frequent feature combination is _ (2 tokens, examples: _(<predicate>), que_).
 
 
+## Relations
+
 X nodes are attached to their parents using 2 different relations: conj (1; 50% tokens), advmod (1; 50% tokens)
+
 Parents of X nodes belong to 1 different parts of speech: VERB (2; 100% tokens)
+
 1 (50%) X nodes are leaves.
+
 0 (0%) X nodes have one child.
+
 1 (50%) X nodes have two children.
+
 The highest child degree of a X node is 2.
+
 Children of X nodes are attached using 2 different relations: case (1; 50% tokens), nmod (1; 50% tokens)
+
 Children of X nodes belong to 2 different parts of speech: NOUN (1; 50% tokens), ADP (1; 50% tokens)
+
 
