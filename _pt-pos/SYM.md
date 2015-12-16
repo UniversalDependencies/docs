@@ -6,7 +6,9 @@ shortdef: 'symbol'
 
 This document is a placeholder for the language-specific documentation
 for `SYM`.
+
 --------------------------------------------------------------------------------
+
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 179 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
 

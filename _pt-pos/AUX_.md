@@ -9,7 +9,9 @@ redirect_from: "pt/pos/AUX.html"
 
 This document is a placeholder for the language-specific documentation
 for `AUX`.
+
 --------------------------------------------------------------------------------
+
 There are 68 `AUX` lemmas (0%), 83 `AUX` types (0%) and 465 `AUX` tokens (0%).
 Out of 17 observed tags, the rank of `AUX` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
 

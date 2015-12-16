@@ -6,7 +6,9 @@ shortdef: 'interjection'
 
 This document is a placeholder for the language-specific documentation
 for `INTJ`.
+
 --------------------------------------------------------------------------------
+
 There are 27 `INTJ` lemmas (0%), 27 `INTJ` types (0%) and 40 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
 

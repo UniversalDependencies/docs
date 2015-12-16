@@ -6,7 +6,9 @@ shortdef: 'verb'
 
 This document is a placeholder for the language-specific documentation
 for `VERB`.
+
 --------------------------------------------------------------------------------
+
 There are 1981 `VERB` lemmas (10%), 7717 `VERB` types (27%) and 25840 `VERB` tokens (12%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 

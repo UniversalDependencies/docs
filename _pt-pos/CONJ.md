@@ -6,7 +6,9 @@ shortdef: 'coordinating conjunction'
 
 This document is a placeholder for the language-specific documentation
 for `CONJ`.
+
 --------------------------------------------------------------------------------
+
 There are 12 `CONJ` lemmas (0%), 12 `CONJ` types (0%) and 5112 `CONJ` tokens (2%).
 Out of 17 observed tags, the rank of `CONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
 

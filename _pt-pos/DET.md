@@ -6,7 +6,9 @@ shortdef: 'determiner'
 
 This document is a placeholder for the language-specific documentation
 for `DET`.
+
 --------------------------------------------------------------------------------
+
 There are 53 `DET` lemmas (0%), 114 `DET` types (0%) and 33220 `DET` tokens (16%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
 

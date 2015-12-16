@@ -6,7 +6,9 @@ shortdef: 'other'
 
 This document is a placeholder for the language-specific documentation
 for `X`.
+
 --------------------------------------------------------------------------------
+
 There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
 

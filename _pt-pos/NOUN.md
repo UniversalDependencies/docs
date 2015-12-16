@@ -6,7 +6,9 @@ shortdef: 'noun'
 
 This document is a placeholder for the language-specific documentation
 for `NOUN`.
+
 --------------------------------------------------------------------------------
+
 There are 6787 `NOUN` lemmas (34%), 8618 `NOUN` types (30%) and 39892 `NOUN` tokens (19%).
 Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 

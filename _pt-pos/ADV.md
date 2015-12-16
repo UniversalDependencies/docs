@@ -6,7 +6,9 @@ shortdef: 'adverb'
 
 This document is a placeholder for the language-specific documentation
 for `ADV`.
+
 --------------------------------------------------------------------------------
+
 There are 768 `ADV` lemmas (4%), 772 `ADV` types (3%) and 9489 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
