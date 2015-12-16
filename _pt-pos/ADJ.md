@@ -54,12 +54,19 @@ The 10 most frequent ambiguous types:  _primeiro_ (ADJ 125, ADV 7), _novo_ (ADJ 
   * NOUN 1: _A indignação de os dirigentes de o Sindicato_dos_Têxteis tem como <b>principal</b> alvo a Câmara_Municipal , que alegadamente terá colocado « entraves » que fizeram baixar o valor de o imóvel ._
 
 The form / lemma ratio of ADJ is 1.509587 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (9) was observed with lemma “bom”: boa, boas, bom, bons, melhor, melhores, mlehor, óptima, ótimo
-The 2nd highest number of forms (9) was observed with lemma “pequeno”: menor, menores, mínima, mínimas, mínimo, pequena, pequenas, pequeno, pequenos
-The 3rd highest number of forms (8) was observed with lemma “alto”: alta, altas, alto, altos, altíssima, altíssimo, superior, superiores
+
+The 1st highest number of forms (9) was observed with lemma “bom”: _boa, boas, bom, bons, melhor, melhores, mlehor, óptima, ótimo_
+
+The 2nd highest number of forms (9) was observed with lemma “pequeno”: _menor, menores, mínima, mínimas, mínimo, pequena, pequenas, pequeno, pequenos_
+
+The 3rd highest number of forms (8) was observed with lemma “alto”: _alta, altas, alto, altos, altíssima, altíssimo, superior, superiores_
+
 ADJ occurs with 6 features: Degree (353; 3% tokens), Gender (10624; 99% tokens), Hyph (1; 0% tokens), NumType (791; 7% tokens), Number (10698; 100% tokens), Typo (6; 0% tokens)
+
 ADJ occurs with 10 feature-value pairs: Degree=Cmp, Degree=Sup, Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, NumType=Ord, Number=Plur, Number=Sing, Typo=Yes
-ADJ occurs with 31 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (3548 tokens, examples: novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível).
+
+ADJ occurs with 31 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
+
 
 ADJ nodes are attached to their parents using 18 different relations: amod (8694; 81% tokens), conj (532; 5% tokens), root (485; 5% tokens), advmod (202; 2% tokens), xcomp (176; 2% tokens), ccomp (170; 2% tokens), nsubj (136; 1% tokens), acl (92; 1% tokens), dobj (90; 1% tokens), advcl (69; 1% tokens), appos (23; 0% tokens), csubj (10; 0% tokens), parataxis (10; 0% tokens), nmod (8; 0% tokens), iobj (5; 0% tokens), dep (3; 0% tokens), cop (2; 0% tokens), nummod (1; 0% tokens)
 Parents of ADJ nodes belong to 13 different parts of speech: NOUN (8540; 80% tokens), VERB (850; 8% tokens), ADJ (487; 5% tokens), ROOT (485; 5% tokens), PROPN (232; 2% tokens), PRON (48; 0% tokens), ADV (33; 0% tokens), NUM (16; 0% tokens), SYM (7; 0% tokens), DET (6; 0% tokens), SCONJ (2; 0% tokens), ADP (1; 0% tokens), AUX (1; 0% tokens)
@@ -123,12 +130,19 @@ The 10 most frequent ambiguous types:  _de_ (ADP 14544, ADV 1), _a_ (DET 9018, A
   * ADP 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
 
 The form / lemma ratio of ADP is 1.012422 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (2) was observed with lemma “a”: a, e
-The 2nd highest number of forms (2) was observed with lemma “de”: d', de
-The 3rd highest number of forms (2) was observed with lemma “dentro_de”: de, dentro_de
+
+The 1st highest number of forms (2) was observed with lemma “a”: _a, e_
+
+The 2nd highest number of forms (2) was observed with lemma “de”: _d', de_
+
+The 3rd highest number of forms (2) was observed with lemma “dentro_de”: _de, dentro_de_
+
 ADP occurs with 5 features: AdpType (32396; 100% tokens), Gender (2; 0% tokens), Number (2; 0% tokens), PronType (141; 0% tokens), Typo (4; 0% tokens)
+
 ADP occurs with 6 feature-value pairs: AdpType=Prep, Gender=Fem, Gender=Masc, Number=Sing, PronType=Rel, Typo=Yes
-ADP occurs with 5 feature combinations. The most frequent feature combination is AdpType=Prep (32249 tokens, examples: de, em, a, para, por, com, entre, sobre, sem, até).
+
+ADP occurs with 5 feature combinations. The most frequent feature combination is AdpType=Prep (32249 tokens, examples: _de, em, a, para, por, com, entre, sobre, sem, até_).
+
 
 ADP nodes are attached to their parents using 12 different relations: case (29341; 91% tokens), mark (2932; 9% tokens), nmod (42; 0% tokens), advmod (32; 0% tokens), cc (25; 0% tokens), dobj (7; 0% tokens), conj (6; 0% tokens), dep (5; 0% tokens), mwe (2; 0% tokens), nsubj (2; 0% tokens), aux (1; 0% tokens), root (1; 0% tokens)
 Parents of ADP nodes belong to 16 different parts of speech: NOUN (21343; 66% tokens), PROPN (5507; 17% tokens), VERB (2827; 9% tokens), PRON (824; 3% tokens), NUM (703; 2% tokens), ADV (510; 2% tokens), ADJ (373; 1% tokens), DET (112; 0% tokens), SYM (94; 0% tokens), AUX (82; 0% tokens), ADP (16; 0% tokens), X (1; 0% tokens), ROOT (1; 0% tokens), INTJ (1; 0% tokens), SCONJ (1; 0% tokens), PART (1; 0% tokens)
@@ -191,12 +205,19 @@ The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _mais_
   * ADP 2: _« É necessário que a construção [ de a barragem de o Côa ] seja efectivamente suspensa e que sejam reunidos os meios humanos e necessários a um estudo completo de toda_a área <b>antes</b> que se crie uma situação irreversível ._
 
 The form / lemma ratio of ADV is 1.005208 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (2) was observed with lemma “assim”: asim, assim
-The 2nd highest number of forms (2) was observed with lemma “bem”: bem, melhor
-The 3rd highest number of forms (2) was observed with lemma “claramente”: clara, claramente
+
+The 1st highest number of forms (2) was observed with lemma “assim”: _asim, assim_
+
+The 2nd highest number of forms (2) was observed with lemma “bem”: _bem, melhor_
+
+The 3rd highest number of forms (2) was observed with lemma “claramente”: _clara, claramente_
+
 ADV occurs with 6 features: Degree (488; 5% tokens), Gender (14; 0% tokens), NumType (1307; 14% tokens), Number (14; 0% tokens), PronType (2352; 25% tokens), Typo (3; 0% tokens)
+
 ADV occurs with 12 feature-value pairs: Degree=Cmp, Degree=Sup, Gender=Fem, Gender=Masc, NumType=Card, Number=Plur, Number=Sing, PronType=Dem, PronType=Ind,Neg,Tot, PronType=Int, PronType=Rel, Typo=Yes
-ADV occurs with 16 feature combinations. The most frequent feature combination is _ (7103 tokens, examples: não, também, já, ontem, ainda, só, depois, agora, hoje, antes).
+
+ADV occurs with 16 feature combinations. The most frequent feature combination is _ (7103 tokens, examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_).
+
 
 ADV nodes are attached to their parents using 21 different relations: advmod (6475; 68% tokens), neg (1244; 13% tokens), nmod (800; 8% tokens), cc (266; 3% tokens), cop (209; 2% tokens), conj (141; 1% tokens), mark (95; 1% tokens), advmod:emph (90; 1% tokens), root (65; 1% tokens), case (34; 0% tokens), dobj (25; 0% tokens), xcomp (17; 0% tokens), nsubj (5; 0% tokens), parataxis (5; 0% tokens), dep (4; 0% tokens), acl (4; 0% tokens), ccomp (4; 0% tokens), iobj (2; 0% tokens), advcl (2; 0% tokens), appos (1; 0% tokens), csubj (1; 0% tokens)
 Parents of ADV nodes belong to 14 different parts of speech: VERB (6114; 64% tokens), NOUN (1320; 14% tokens), ADJ (1040; 11% tokens), ADV (399; 4% tokens), NUM (214; 2% tokens), PRON (132; 1% tokens), PROPN (129; 1% tokens), ROOT (65; 1% tokens), DET (33; 0% tokens), AUX (18; 0% tokens), SYM (9; 0% tokens), SCONJ (9; 0% tokens), CONJ (5; 0% tokens), ADP (2; 0% tokens)
@@ -254,12 +275,19 @@ The 10 most frequent ambiguous types:  _ser_ (VERB 248, AUX 213, NOUN 3), _sido_
   * AUX 3: _Seu Sauber pode <b>acabar</b> trocando o certo por o incerto ao esperar por Karl_Wendlinger ._
 
 The form / lemma ratio of AUX is 1.220588 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (5) was observed with lemma “ser”: sendo, ser, sido, são, é
-The 2nd highest number of forms (4) was observed with lemma “ter”: te-, ter, ter-, teria
-The 3rd highest number of forms (3) was observed with lemma “estar”: estado, estar, está
+
+The 1st highest number of forms (5) was observed with lemma “ser”: _sendo, ser, sido, são, é_
+
+The 2nd highest number of forms (4) was observed with lemma “ter”: _te-, ter, ter-, teria_
+
+The 3rd highest number of forms (3) was observed with lemma “estar”: _estado, estar, está_
+
 AUX occurs with 7 features: Gender (32; 7% tokens), Hyph (2; 0% tokens), Mood (6; 1% tokens), Number (40; 9% tokens), Person (8; 2% tokens), Tense (5; 1% tokens), VerbForm (465; 100% tokens)
+
 AUX occurs with 16 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, Mood=Cnd, Mood=Ind, Mood=Sub, Number=Plur, Number=Sing, Person=1, Person=3, Tense=Fut, Tense=Pres, VerbForm=Fin, VerbForm=Ger, VerbForm=Inf, VerbForm=Part
-AUX occurs with 15 feature combinations. The most frequent feature combination is VerbForm=Inf (319 tokens, examples: ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir).
+
+AUX occurs with 15 feature combinations. The most frequent feature combination is VerbForm=Inf (319 tokens, examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_).
+
 
 AUX nodes are attached to their parents using 2 different relations: aux (432; 93% tokens), conj (33; 7% tokens)
 Parents of AUX nodes belong to 5 different parts of speech: VERB (413; 89% tokens), AUX (46; 10% tokens), PRON (4; 1% tokens), NOUN (1; 0% tokens), ADP (1; 0% tokens)
@@ -311,12 +339,19 @@ The 10 most frequent ambiguous types:  _e_ (CONJ 3975, ADP 1, SCONJ 1), _nem_ (C
   * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
 The form / lemma ratio of CONJ is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “$/”: $/
-The 2nd highest number of forms (1) was observed with lemma “&”: &
-The 3rd highest number of forms (1) was observed with lemma “/”: /
+
+The 1st highest number of forms (1) was observed with lemma “$/”: _$/_
+
+The 2nd highest number of forms (1) was observed with lemma “&”: _&_
+
+The 3rd highest number of forms (1) was observed with lemma “/”: _/_
+
 CONJ occurs with 0 features: 
+
 CONJ occurs with 0 feature-value pairs: 
-CONJ occurs with 1 feature combinations. The most frequent feature combination is _ (5112 tokens, examples: e, mas, ou, nem, quer, $/, mais, e/ou, &, /).
+
+CONJ occurs with 1 feature combinations. The most frequent feature combination is _ (5112 tokens, examples: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_).
+
 
 CONJ nodes are attached to their parents using 5 different relations: cc (5092; 100% tokens), root (14; 0% tokens), nmod (3; 0% tokens), cop (2; 0% tokens), parataxis (1; 0% tokens)
 Parents of CONJ nodes belong to 15 different parts of speech: NOUN (1843; 36% tokens), VERB (1737; 34% tokens), PROPN (698; 14% tokens), ADJ (536; 10% tokens), NUM (93; 2% tokens), ADV (79; 2% tokens), PRON (48; 1% tokens), AUX (29; 1% tokens), DET (17; 0% tokens), ROOT (14; 0% tokens), ADP (8; 0% tokens), SYM (6; 0% tokens), SCONJ (2; 0% tokens), INTJ (1; 0% tokens), PART (1; 0% tokens)
@@ -379,12 +414,19 @@ The 10 most frequent ambiguous types:  _o_ (DET 9656, PRON 351, NOUN 1), _a_ (DE
   * PRON 2: _A federação de as pequenas e médias empresas revelou em uma pesquisa que <b>seus</b> filiados estão próximos de o pânico em_relação_a a situação econômica ._
 
 The form / lemma ratio of DET is 2.150943 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (9) was observed with lemma “meu”: meu, meus, minha, minhas, nossos, seu, seus, sua, suas
-The 2nd highest number of forms (5) was observed with lemma “muito”: mais, muita, muitas, muito, muitos
-The 3rd highest number of forms (5) was observed with lemma “o”: a, as, o, o(s), os
+
+The 1st highest number of forms (9) was observed with lemma “meu”: _meu, meus, minha, minhas, nossos, seu, seus, sua, suas_
+
+The 2nd highest number of forms (5) was observed with lemma “muito”: _mais, muita, muitas, muito, muitos_
+
+The 3rd highest number of forms (5) was observed with lemma “o”: _a, as, o, o(s), os_
+
 DET occurs with 11 features: Definite (29213; 88% tokens), Degree (415; 1% tokens), Gender (32013; 96% tokens), NumType (1147; 3% tokens), Number (33215; 100% tokens), Number[psor] (1275; 4% tokens), Person (1279; 4% tokens), Poss (1279; 4% tokens), PronType (32543; 98% tokens), Reflex (560; 2% tokens), Typo (3; 0% tokens)
+
 DET occurs with 23 feature-value pairs: Definite=Def, Definite=Ind, Degree=Cmp, Degree=Sup, Gender=Fem, Gender=Masc, NumType=Card, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, Person=1, Person=2, Person=3, Poss=Yes, PronType=Art, PronType=Dem, PronType=Ind,Neg,Tot, PronType=Int, PronType=Prs, PronType=Rel, Reflex=Yes, Typo=Yes
-DET occurs with 90 feature combinations. The most frequent feature combination is Definite=Def|Gender=Masc|Number=Sing|PronType=Art (10617 tokens, examples: o, Os, a).
+
+DET occurs with 90 feature combinations. The most frequent feature combination is Definite=Def|Gender=Masc|Number=Sing|PronType=Art (10617 tokens, examples: _o, Os, a_).
+
 
 DET nodes are attached to their parents using 5 different relations: det (33189; 100% tokens), acl (14; 0% tokens), nmod (8; 0% tokens), cop (5; 0% tokens), advmod:emph (4; 0% tokens)
 Parents of DET nodes belong to 5 different parts of speech: NOUN (27767; 84% tokens), PROPN (4778; 14% tokens), ADJ (531; 2% tokens), PRON (119; 0% tokens), DET (25; 0% tokens)
@@ -444,12 +486,19 @@ The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _Socor
   * INTJ 1: _Niemeyer -- <b>É</b> , foi em 1936 ._
 
 The form / lemma ratio of INTJ is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “Ah_bem”: Ah_bem
-The 2nd highest number of forms (1) was observed with lemma “BINGO”: BINGO
-The 3rd highest number of forms (1) was observed with lemma “Deus_me_livre”: Deus_me_livre
+
+The 1st highest number of forms (1) was observed with lemma “Ah_bem”: _Ah_bem_
+
+The 2nd highest number of forms (1) was observed with lemma “BINGO”: _BINGO_
+
+The 3rd highest number of forms (1) was observed with lemma “Deus_me_livre”: _Deus_me_livre_
+
 INTJ occurs with 5 features: Gender (3; 8% tokens), Mood (1; 3% tokens), Number (4; 10% tokens), Person (1; 3% tokens), Tense (1; 3% tokens)
+
 INTJ occurs with 6 feature-value pairs: Gender=Fem, Gender=Masc, Mood=Ind, Number=Sing, Person=3, Tense=Past
-INTJ occurs with 4 feature combinations. The most frequent feature combination is _ (36 tokens, examples: não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus).
+
+INTJ occurs with 4 feature combinations. The most frequent feature combination is _ (36 tokens, examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_).
+
 
 INTJ nodes are attached to their parents using 7 different relations: advmod (13; 33% tokens), root (13; 33% tokens), neg (4; 10% tokens), dobj (4; 10% tokens), dep (3; 8% tokens), conj (2; 5% tokens), nmod (1; 3% tokens)
 Parents of INTJ nodes belong to 6 different parts of speech: VERB (19; 48% tokens), ROOT (13; 33% tokens), NOUN (4; 10% tokens), INTJ (2; 5% tokens), ADV (1; 3% tokens), PROPN (1; 3% tokens)
@@ -508,12 +557,19 @@ The 10 most frequent ambiguous types:  _estado_ (NOUN 33, VERB 3, AUX 2), _parte
   * ADJ 27: _Quem quiser , vai em excursão até o resort <b>local</b> , Casa_de_Campo ._
 
 The form / lemma ratio of NOUN is 1.269780 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (4) was observed with lemma “homem”: homem, homens, mulher, mulheres
-The 2nd highest number of forms (4) was observed with lemma “proprietário”: propietários, proprietária, proprietário, proprietários
-The 3rd highest number of forms (3) was observed with lemma “actor”: actor, actores, actriz
+
+The 1st highest number of forms (4) was observed with lemma “homem”: _homem, homens, mulher, mulheres_
+
+The 2nd highest number of forms (4) was observed with lemma “proprietário”: _propietários, proprietária, proprietário, proprietários_
+
+The 3rd highest number of forms (3) was observed with lemma “actor”: _actor, actores, actriz_
+
 NOUN occurs with 5 features: Gender (39790; 100% tokens), Hyph (4; 0% tokens), NumType (4; 0% tokens), Number (39878; 100% tokens), Typo (8; 0% tokens)
+
 NOUN occurs with 8 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, NumType=Ord, Number=Plur, Number=Sing, Typo=Yes
-NOUN occurs with 17 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (14398 tokens, examples: ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado).
+
+NOUN occurs with 17 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
+
 
 NOUN nodes are attached to their parents using 20 different relations: nmod (20100; 50% tokens), dobj (8297; 21% tokens), nsubj (6205; 16% tokens), conj (2556; 6% tokens), root (1360; 3% tokens), iobj (486; 1% tokens), xcomp (198; 0% tokens), ccomp (177; 0% tokens), appos (164; 0% tokens), acl (118; 0% tokens), advcl (73; 0% tokens), dep (49; 0% tokens), advmod (37; 0% tokens), cop (21; 0% tokens), case (20; 0% tokens), parataxis (20; 0% tokens), cc (4; 0% tokens), csubj (4; 0% tokens), advmod:emph (2; 0% tokens), nummod (1; 0% tokens)
 Parents of NOUN nodes belong to 17 different parts of speech: VERB (20151; 51% tokens), NOUN (14522; 36% tokens), ROOT (1360; 3% tokens), ADJ (1116; 3% tokens), PROPN (977; 2% tokens), ADV (729; 2% tokens), PRON (376; 1% tokens), NUM (360; 1% tokens), AUX (77; 0% tokens), DET (61; 0% tokens), SYM (61; 0% tokens), SCONJ (61; 0% tokens), ADP (31; 0% tokens), CONJ (6; 0% tokens), INTJ (2; 0% tokens), X (1; 0% tokens), PART (1; 0% tokens)
@@ -561,12 +617,19 @@ The 10 most frequent ambiguous types:  _um_ (DET 1555, NUM 233, PRON 12), _mil_ 
   * NUM 1: _O Santo_André perdeu por 2 a <b>O</b> para o Rio_Branco , de Americana , ontem a a tarde em o estádio Bruno_José_Daniel , em Santo_Andr ._
 
 The form / lemma ratio of NUM is 1.006083 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (2) was observed with lemma “0”: 0, O
-The 2nd highest number of forms (2) was observed with lemma “83”: 83, 83'
-The 3rd highest number of forms (2) was observed with lemma “dois”: dois, duas
+
+The 1st highest number of forms (2) was observed with lemma “0”: _0, O_
+
+The 2nd highest number of forms (2) was observed with lemma “83”: _83, 83'_
+
+The 3rd highest number of forms (2) was observed with lemma “dois”: _dois, duas_
+
 NUM occurs with 4 features: Gender (4110; 99% tokens), NumType (4042; 97% tokens), Number (4156; 100% tokens), Typo (1; 0% tokens)
+
 NUM occurs with 6 feature-value pairs: Gender=Fem, Gender=Masc, NumType=Card, Number=Plur, Number=Sing, Typo=Yes
-NUM occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur|NumType=Card (2601 tokens, examples: dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis).
+
+NUM occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur|NumType=Card (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
+
 
 NUM nodes are attached to their parents using 16 different relations: nummod (3304; 79% tokens), advmod (358; 9% tokens), compound (132; 3% tokens), conj (131; 3% tokens), nsubj (89; 2% tokens), dobj (68; 2% tokens), root (45; 1% tokens), ccomp (7; 0% tokens), appos (6; 0% tokens), xcomp (5; 0% tokens), iobj (4; 0% tokens), acl (4; 0% tokens), cop (4; 0% tokens), advcl (2; 0% tokens), nmod (2; 0% tokens), parataxis (1; 0% tokens)
 Parents of NUM nodes belong to 13 different parts of speech: NOUN (2960; 71% tokens), VERB (457; 11% tokens), NUM (270; 6% tokens), SYM (181; 4% tokens), PROPN (157; 4% tokens), ADJ (54; 1% tokens), ROOT (45; 1% tokens), ADV (16; 0% tokens), PRON (12; 0% tokens), DET (5; 0% tokens), SCONJ (2; 0% tokens), AUX (2; 0% tokens), ADP (1; 0% tokens)
@@ -593,12 +656,19 @@ The 10 most frequent ambiguous types:
 
 
 The form / lemma ratio of PART is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “anti-”: anti-
-The 2nd highest number of forms (1) was observed with lemma “ex”: ex
-The 3rd highest number of forms (1) was observed with lemma “ex-”: ex-
+
+The 1st highest number of forms (1) was observed with lemma “anti-”: _anti-_
+
+The 2nd highest number of forms (1) was observed with lemma “ex”: _ex_
+
+The 3rd highest number of forms (1) was observed with lemma “ex-”: _ex-_
+
 PART occurs with 3 features: Gender (1; 20% tokens), Hyph (5; 100% tokens), Number (1; 20% tokens)
+
 PART occurs with 3 feature-value pairs: Gender=Masc, Hyph=Yes, Number=Sing
-PART occurs with 2 feature combinations. The most frequent feature combination is Hyph=Yes (4 tokens, examples: anti-, ex, ex-, pré-).
+
+PART occurs with 2 feature combinations. The most frequent feature combination is Hyph=Yes (4 tokens, examples: _anti-, ex, ex-, pré-_).
+
 
 PART nodes are attached to their parents using 1 different relations: nmod (5; 100% tokens)
 Parents of PART nodes belong to 3 different parts of speech: NOUN (3; 60% tokens), NUM (1; 20% tokens), PROPN (1; 20% tokens)
@@ -664,12 +734,19 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * PRON 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
 
 The form / lemma ratio of PRON is 1.743902 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (10) was observed with lemma “ele”: Ihe, ela, elas, ele, eles, lhe, lhe-, lo, no, o
-The 2nd highest number of forms (7) was observed with lemma “ela”: a, ela, la, la-, las, lhe, na
-The 3rd highest number of forms (6) was observed with lemma “se”: s, se, se-, se-á, se-ão, si
+
+The 1st highest number of forms (10) was observed with lemma “ele”: _Ihe, ela, elas, ele, eles, lhe, lhe-, lo, no, o_
+
+The 2nd highest number of forms (7) was observed with lemma “ela”: _a, ela, la, la-, las, lhe, na_
+
+The 3rd highest number of forms (6) was observed with lemma “se”: _s, se, se-, se-á, se-ão, si_
+
 PRON occurs with 15 features: AdpType (1; 0% tokens), Case (2726; 38% tokens), Definite (273; 4% tokens), Degree (120; 2% tokens), Gender (6362; 90% tokens), Hyph (13; 0% tokens), NumType (458; 6% tokens), Number (6735; 95% tokens), Number[psor] (13; 0% tokens), Person (2737; 39% tokens), Poss (13; 0% tokens), PrepCase (190; 3% tokens), PronType (6890; 97% tokens), Reflex (782; 11% tokens), Typo (1; 0% tokens)
+
 PRON occurs with 32 feature-value pairs: AdpType=Prep, Case=Acc, Case=Acc,Dat, Case=Acc,Nom, Case=Dat, Case=Nom, Definite=Def, Definite=Ind, Degree=Cmp, Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, Number=Plur, Number=Sing, Number[psor]=Plur, Number[psor]=Sing, Person=1, Person=2, Person=3, Poss=Yes, PrepCase=Pre, PronType=Art, PronType=Dem, PronType=Ind, PronType=Ind,Neg,Tot, PronType=Int, PronType=Prs, PronType=Rcp, PronType=Rel, Reflex=Yes, Typo=Yes
-PRON occurs with 181 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing|PronType=Rel (1212 tokens, examples: que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo).
+
+PRON occurs with 181 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing|PronType=Rel (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
+
 
 PRON nodes are attached to their parents using 20 different relations: nsubj (3246; 46% tokens), dobj (2027; 29% tokens), nmod (800; 11% tokens), iobj (385; 5% tokens), advmod (218; 3% tokens), root (126; 2% tokens), conj (109; 2% tokens), mark (53; 1% tokens), auxpass:reflex (27; 0% tokens), dep (25; 0% tokens), ccomp (19; 0% tokens), xcomp (14; 0% tokens), appos (13; 0% tokens), parataxis (10; 0% tokens), advcl (10; 0% tokens), acl (9; 0% tokens), cop (7; 0% tokens), case (5; 0% tokens), cc (2; 0% tokens), csubj (1; 0% tokens)
 Parents of PRON nodes belong to 16 different parts of speech: VERB (6031; 85% tokens), NOUN (378; 5% tokens), ADJ (214; 3% tokens), ROOT (126; 2% tokens), NUM (109; 2% tokens), ADV (98; 1% tokens), PRON (59; 1% tokens), PROPN (28; 0% tokens), DET (24; 0% tokens), SYM (11; 0% tokens), SCONJ (11; 0% tokens), AUX (10; 0% tokens), ADP (4; 0% tokens), CONJ (1; 0% tokens), INTJ (1; 0% tokens), PART (1; 0% tokens)
@@ -726,12 +803,19 @@ The 10 most frequent ambiguous types:  _Governo_ (PROPN 79, NOUN 6), _Folha_ (PR
   * PROPN 7: _Terça-feira de <b>Carnaval</b> : Cavaco não « dá » feriado_
 
 The form / lemma ratio of PROPN is 1.000428 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (2) was observed with lemma “Ana”: Ana, Anas
-The 2nd highest number of forms (2) was observed with lemma “Blind_Willie_McTell”: BLIND_WILLIE_McTELL, Blind_Willie_McTell
-The 3rd highest number of forms (2) was observed with lemma “Campeonato_do_Mundo”: Campenonato_do_Mundo, Campeonato_do_Mundo
+
+The 1st highest number of forms (2) was observed with lemma “Ana”: _Ana, Anas_
+
+The 2nd highest number of forms (2) was observed with lemma “Blind_Willie_McTell”: _BLIND_WILLIE_McTELL, Blind_Willie_McTell_
+
+The 3rd highest number of forms (2) was observed with lemma “Campeonato_do_Mundo”: _Campenonato_do_Mundo, Campeonato_do_Mundo_
+
 PROPN occurs with 5 features: Gender (11232; 96% tokens), Hyph (7; 0% tokens), NumType (1; 0% tokens), Number (11682; 100% tokens), Typo (2; 0% tokens)
+
 PROPN occurs with 7 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, NumType=Card, Number=Plur, Number=Sing, Typo=Yes
-PROPN occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (7242 tokens, examples: Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT).
+
+PROPN occurs with 13 feature combinations. The most frequent feature combination is Gender=Masc|Number=Sing (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
+
 
 PROPN nodes are attached to their parents using 19 different relations: nmod (6131; 52% tokens), nsubj (2401; 21% tokens), conj (1269; 11% tokens), dobj (838; 7% tokens), appos (344; 3% tokens), root (339; 3% tokens), name (212; 2% tokens), iobj (106; 1% tokens), xcomp (17; 0% tokens), acl (16; 0% tokens), dep (11; 0% tokens), advcl (6; 0% tokens), advmod (5; 0% tokens), parataxis (4; 0% tokens), cop (3; 0% tokens), case (1; 0% tokens), mark (1; 0% tokens), csubj (1; 0% tokens), ccomp (1; 0% tokens)
 Parents of PROPN nodes belong to 14 different parts of speech: NOUN (4706; 40% tokens), VERB (4179; 36% tokens), PROPN (1939; 17% tokens), ROOT (339; 3% tokens), ADJ (236; 2% tokens), ADV (131; 1% tokens), PRON (81; 1% tokens), NUM (52; 0% tokens), DET (13; 0% tokens), SCONJ (8; 0% tokens), AUX (8; 0% tokens), ADP (7; 0% tokens), SYM (5; 0% tokens), INTJ (2; 0% tokens)
@@ -761,12 +845,19 @@ The 10 most frequent ambiguous types:  _/_ (PUNCT 23, CONJ 1)
   * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
 The form / lemma ratio of PUNCT is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “!”: !
-The 2nd highest number of forms (1) was observed with lemma “"”: "
-The 3rd highest number of forms (1) was observed with lemma “"«”: "«
+
+The 1st highest number of forms (1) was observed with lemma “!”: _!_
+
+The 2nd highest number of forms (1) was observed with lemma “"”: _"_
+
+The 3rd highest number of forms (1) was observed with lemma “"«”: _"«_
+
 PUNCT occurs with 0 features: 
+
 PUNCT occurs with 0 feature-value pairs: 
-PUNCT occurs with 1 feature combinations. The most frequent feature combination is _ (29943 tokens, examples: ,, ., «, », ), (, --, :, ?, ;).
+
+PUNCT occurs with 1 feature combinations. The most frequent feature combination is _ (29943 tokens, examples: _,, ., «, », ), (, --, :, ?, ;_).
+
 
 PUNCT nodes are attached to their parents using 1 different relations: punct (29943; 100% tokens)
 Parents of PUNCT nodes belong to 14 different parts of speech: VERB (15223; 51% tokens), NOUN (8191; 27% tokens), PROPN (4322; 14% tokens), ADJ (1331; 4% tokens), PRON (342; 1% tokens), ADV (233; 1% tokens), NUM (181; 1% tokens), SYM (25; 0% tokens), INTJ (23; 0% tokens), DET (18; 0% tokens), CONJ (17; 0% tokens), SCONJ (14; 0% tokens), AUX (14; 0% tokens), ADP (9; 0% tokens)
@@ -824,12 +915,19 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * SCONJ 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
 
 The form / lemma ratio of SCONJ is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “a_fim_de_que”: a_fim_de_que
-The 2nd highest number of forms (1) was observed with lemma “a_não_ser_que”: a_não_ser_que
-The 3rd highest number of forms (1) was observed with lemma “ainda_que”: ainda_que
+
+The 1st highest number of forms (1) was observed with lemma “a_fim_de_que”: _a_fim_de_que_
+
+The 2nd highest number of forms (1) was observed with lemma “a_não_ser_que”: _a_não_ser_que_
+
+The 3rd highest number of forms (1) was observed with lemma “ainda_que”: _ainda_que_
+
 SCONJ occurs with 1 features: PronType (1; 0% tokens)
+
 SCONJ occurs with 1 feature-value pairs: PronType=Rel
-SCONJ occurs with 2 feature combinations. The most frequent feature combination is _ (2279 tokens, examples: que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se).
+
+SCONJ occurs with 2 feature combinations. The most frequent feature combination is _ (2279 tokens, examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_).
+
 
 SCONJ nodes are attached to their parents using 9 different relations: mark (2109; 93% tokens), nmod (74; 3% tokens), cop (43; 2% tokens), advmod (37; 2% tokens), dobj (9; 0% tokens), cc (4; 0% tokens), nsubj (2; 0% tokens), parataxis (1; 0% tokens), root (1; 0% tokens)
 Parents of SCONJ nodes belong to 13 different parts of speech: VERB (1784; 78% tokens), NOUN (197; 9% tokens), ADJ (186; 8% tokens), ADV (41; 2% tokens), PRON (24; 1% tokens), DET (12; 1% tokens), PROPN (11; 0% tokens), AUX (10; 0% tokens), NUM (9; 0% tokens), SYM (2; 0% tokens), ADP (2; 0% tokens), ROOT (1; 0% tokens), SCONJ (1; 0% tokens)
@@ -856,12 +954,19 @@ The 10 most frequent ambiguous types:
 
 
 The form / lemma ratio of SYM is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “%”: %
-The 2nd highest number of forms (0) was observed with lemma “”: 
-The 3rd highest number of forms (0) was observed with lemma “”: 
+
+The 1st highest number of forms (1) was observed with lemma “%”: _%_
+
+The 2nd highest number of forms (0) was observed with lemma “”: __
+
+The 3rd highest number of forms (0) was observed with lemma “”: __
+
 SYM occurs with 2 features: Gender (179; 100% tokens), Number (179; 100% tokens)
+
 SYM occurs with 2 feature-value pairs: Gender=Masc, Number=Plur
-SYM occurs with 1 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur (179 tokens, examples: %).
+
+SYM occurs with 1 feature combinations. The most frequent feature combination is Gender=Masc|Number=Plur (179 tokens, examples: _%_).
+
 
 SYM nodes are attached to their parents using 10 different relations: nmod (59; 33% tokens), dobj (51; 28% tokens), advmod (32; 18% tokens), conj (10; 6% tokens), nsubj (10; 6% tokens), root (10; 6% tokens), ccomp (3; 2% tokens), acl (2; 1% tokens), parataxis (1; 1% tokens), iobj (1; 1% tokens)
 Parents of SYM nodes belong to 8 different parts of speech: VERB (81; 45% tokens), NOUN (58; 32% tokens), SYM (21; 12% tokens), ROOT (10; 6% tokens), ADJ (5; 3% tokens), PROPN (2; 1% tokens), PRON (1; 1% tokens), ADP (1; 1% tokens)
@@ -922,12 +1027,19 @@ The 10 most frequent ambiguous types:  _é_ (VERB 1119, ADV 15, AUX 1), _foi_ (V
   * AUX 1: _Podemos beber um copo , jogar gamão , damas , snooker , <b>ver</b> televisão , etc._
 
 The form / lemma ratio of VERB is 3.895507 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (39) was observed with lemma “ter”: tem, tem-, temos, tendo, tendo-, tenha, tenham, tenhamos, tenho, ter, ter-, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinha-, tinham, tinham-, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos
-The 2nd highest number of forms (38) was observed with lemma “fazer”: farei, faria, fariam, fará, fará-, farão, faz, faz-, faze-, fazem, fazem-, fazemos, fazendo, fazer, fazer-, fazerem, fazia, fazia-, faziam, fazê-, faça, façam, faço, feita, feitas, feito, feitos, fez, fez-, fiz, fizemos, fizer, fizera, fizeram, fizeram-, fizermos, fizesse, fizéssemos
-The 3rd highest number of forms (37) was observed with lemma “ser”: Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, seja-, sejam, sendo, sendo-, ser, ser-, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-
+
+The 1st highest number of forms (39) was observed with lemma “ter”: _tem, tem-, temos, tendo, tendo-, tenha, tenham, tenhamos, tenho, ter, ter-, terei, terem, teremos, teria, teriam, termos, terá, terão, teve, tida, tidas, tido, tinha, tinha-, tinham, tinham-, tive, tivemos, tiver, tivera, tiveram, tivermos, tivesse, tivessem, tivéssemos, tê-, têm, tínhamos_
+
+The 2nd highest number of forms (38) was observed with lemma “fazer”: _farei, faria, fariam, fará, fará-, farão, faz, faz-, faze-, fazem, fazem-, fazemos, fazendo, fazer, fazer-, fazerem, fazia, fazia-, faziam, fazê-, faça, façam, faço, feita, feitas, feito, feitos, fez, fez-, fiz, fizemos, fizer, fizera, fizeram, fizeram-, fizermos, fizesse, fizéssemos_
+
+The 3rd highest number of forms (37) was observed with lemma “ser”: _Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, seja-, sejam, sendo, sendo-, ser, ser-, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-_
+
 VERB occurs with 8 features: Gender (4193; 16% tokens), Hyph (609; 2% tokens), Mood (15778; 61% tokens), Number (20359; 79% tokens), Person (16166; 63% tokens), Tense (15432; 60% tokens), Typo (10; 0% tokens), VerbForm (25840; 100% tokens)
+
 VERB occurs with 25 feature-value pairs: Gender=Fem, Gender=Masc, Hyph=Yes, Mood=Cnd, Mood=Imp, Mood=Ind, Mood=Sub, Number=Plur, Number=Sing, Person=1, Person=1,3, Person=2, Person=3, Tense=Fut, Tense=Imp, Tense=Imp,Pqp, Tense=Past, Tense=Past,Pres, Tense=Pqp, Tense=Pres, Typo=Yes, VerbForm=Fin, VerbForm=Ger, VerbForm=Inf, VerbForm=Part
-VERB occurs with 103 feature combinations. The most frequent feature combination is Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin (5445 tokens, examples: é, tem, está, há, vai, pode, diz, deve, faz, continua).
+
+VERB occurs with 103 feature combinations. The most frequent feature combination is Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
+
 
 VERB nodes are attached to their parents using 17 different relations: root (6900; 27% tokens), acl (5379; 21% tokens), cop (2987; 12% tokens), ccomp (2976; 12% tokens), advcl (2787; 11% tokens), xcomp (2387; 9% tokens), conj (1785; 7% tokens), csubj (333; 1% tokens), parataxis (147; 1% tokens), dep (93; 0% tokens), appos (24; 0% tokens), cc (16; 0% tokens), advmod (9; 0% tokens), case (7; 0% tokens), nmod (6; 0% tokens), mark (3; 0% tokens), nummod (1; 0% tokens)
 Parents of VERB nodes belong to 14 different parts of speech: VERB (9417; 36% tokens), ROOT (6900; 27% tokens), NOUN (6085; 24% tokens), ADJ (1569; 6% tokens), PROPN (620; 2% tokens), PRON (470; 2% tokens), AUX (371; 1% tokens), ADV (189; 1% tokens), NUM (94; 0% tokens), DET (71; 0% tokens), SYM (16; 0% tokens), SCONJ (16; 0% tokens), ADP (14; 0% tokens), CONJ (8; 0% tokens)
@@ -961,12 +1073,19 @@ The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET
   * X 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
 
 The form / lemma ratio of X is 1.000000 (the average of all parts of speech is 1.441790).
-The 1st highest number of forms (1) was observed with lemma “???”: (<predicate>)
-The 2nd highest number of forms (1) was observed with lemma “que”: que
-The 3rd highest number of forms (0) was observed with lemma “”: 
+
+The 1st highest number of forms (1) was observed with lemma “???”: _(<predicate>)_
+
+The 2nd highest number of forms (1) was observed with lemma “que”: _que_
+
+The 3rd highest number of forms (0) was observed with lemma “”: __
+
 X occurs with 0 features: 
+
 X occurs with 0 feature-value pairs: 
-X occurs with 1 feature combinations. The most frequent feature combination is _ (2 tokens, examples: (<predicate>), que).
+
+X occurs with 1 feature combinations. The most frequent feature combination is _ (2 tokens, examples: _(<predicate>), que_).
+
 
 X nodes are attached to their parents using 2 different relations: conj (1; 50% tokens), advmod (1; 50% tokens)
 Parents of X nodes belong to 1 different parts of speech: VERB (2; 100% tokens)
