@@ -15,4 +15,5 @@ iobj(етті-11, музыкасына-6)
 obj(етті-11, әсер-10)
 ~~~
 
-*Note:* Discussion of what constitutes a core argument in Kazakh is ongoing.
+*Note:* Discussion of what constitutes a core argument in Kazakh is ongoing. The `iobj` relation will
+probably be discarded in favour of subcategorising `nmod`.
