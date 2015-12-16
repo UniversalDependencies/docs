@@ -11,47 +11,47 @@ for `ADJ`.
 There are 2347 `ADJ` lemmas (12%), 3543 `ADJ` types (12%) and 10708 `ADJ` tokens (5%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent ADJ lemmas: _grande, novo, primeiro, bom, último, político, pequeno, próximo, segundo, público_
+The 10 most frequent `ADJ` lemmas: _grande, novo, primeiro, bom, último, político, pequeno, próximo, segundo, público_
 
-The 10 most frequent ADJ types:  _maior, primeiro, novo, primeira, grande, nova, grandes, melhor, último, nacional_
+The 10 most frequent `ADJ` types:  _maior, primeiro, novo, primeira, grande, nova, grandes, melhor, último, nacional_
 
-The 10 most frequent ambiguous lemmas: _novo_ (ADJ 288, NOUN 2), _primeiro_ (ADJ 275, ADV 13, NOUN 1), _político_ (ADJ 114, NOUN 15), _pequeno_ (ADJ 110, NOUN 2), _próximo_ (ADJ 110, ADV 1), _segundo_ (ADP 194, ADJ 101, NOUN 11, ADV 6), _público_ (ADJ 92, NOUN 49), _português_ (ADJ 90, NOUN 44), _responsável_ (ADJ 79, NOUN 1), _nacional_ (ADJ 77, NOUN 1)
+The 10 most frequent ambiguous lemmas: _novo_ ([ADJ]() 288, [NOUN]() 2), _primeiro_ ([ADJ]() 275, [ADV]() 13, [NOUN]() 1), _político_ ([ADJ]() 114, [NOUN]() 15), _pequeno_ ([ADJ]() 110, [NOUN]() 2), _próximo_ ([ADJ]() 110, [ADV]() 1), _segundo_ ([ADP]() 194, [ADJ]() 101, [NOUN]() 11, [ADV]() 6), _público_ ([ADJ]() 92, [NOUN]() 49), _português_ ([ADJ]() 90, [NOUN]() 44), _responsável_ ([ADJ]() 79, [NOUN]() 1), _nacional_ ([ADJ]() 77, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  _primeiro_ (ADJ 125, ADV 7), _novo_ (ADJ 105, NOUN 1), _primeira_ (ADJ 108, NOUN 1), _nova_ (ADJ 90, NOUN 4), _melhor_ (ADJ 68, ADV 16), _última_ (ADJ 56, NOUN 2), _segundo_ (ADP 75, ADJ 52, NOUN 4, ADV 4), _segunda_ (ADJ 48, NOUN 5), _política_ (NOUN 53, ADJ 45), _principal_ (ADJ 41, NOUN 1)
+The 10 most frequent ambiguous types:  _primeiro_ ([ADJ]() 125, [ADV]() 7), _novo_ ([ADJ]() 105, [NOUN]() 1), _primeira_ ([ADJ]() 108, [NOUN]() 1), _nova_ ([ADJ]() 90, [NOUN]() 4), _melhor_ ([ADJ]() 68, [ADV]() 16), _última_ ([ADJ]() 56, [NOUN]() 2), _segundo_ ([ADP]() 75, [ADJ]() 52, [NOUN]() 4, [ADV]() 4), _segunda_ ([ADJ]() 48, [NOUN]() 5), _política_ ([NOUN]() 53, [ADJ]() 45), _principal_ ([ADJ]() 41, [NOUN]() 1)
 
 
 * _primeiro_
-  * ADJ 125: _O <b>primeiro</b> reutiliza a forma de a coluna --_
-  * ADV 7: _O carro atravessou- se , <b>primeiro</b> para_a_direita e depois para a esquerda , o_que me levou a tirar o pé de o acelerador ._
+  * [ADJ]() 125: _O <b>primeiro</b> reutiliza a forma de a coluna --_
+  * [ADV]() 7: _O carro atravessou- se , <b>primeiro</b> para_a_direita e depois para a esquerda , o_que me levou a tirar o pé de o acelerador ._
 * _novo_
-  * ADJ 105: _Líderes de a Bósnia respondem hoje a o <b>novo</b> plano de paz internacional_
-  * NOUN 1: _Há algo de <b>novo</b> em estes quatro filmes que Cacá_Diegues fez para a TV_Cultura , em_cima_de quatro canções de Gil , Caetano , Chico e Jorge_Ben_Jor ._
+  * [ADJ]() 105: _Líderes de a Bósnia respondem hoje a o <b>novo</b> plano de paz internacional_
+  * [NOUN]() 1: _Há algo de <b>novo</b> em estes quatro filmes que Cacá_Diegues fez para a TV_Cultura , em_cima_de quatro canções de Gil , Caetano , Chico e Jorge_Ben_Jor ._
 * _primeira_
-  * ADJ 108: _Julie_Halard causa a <b>primeira</b> surpresa de o Masters de o tênis feminino_
-  * NOUN 1: _A Roma venceu ontem a Lazio , também em a capital italiana , por 3 a 0 , em a partida mais importante e empolgante de a décima <b>primeira</b> rodada de o Campeonato_Italiano de 1994/95 ._
+  * [ADJ]() 108: _Julie_Halard causa a <b>primeira</b> surpresa de o Masters de o tênis feminino_
+  * [NOUN]() 1: _A Roma venceu ontem a Lazio , também em a capital italiana , por 3 a 0 , em a partida mais importante e empolgante de a décima <b>primeira</b> rodada de o Campeonato_Italiano de 1994/95 ._
 * _nova_
-  * ADJ 90: _A Juve vive a transição para uma <b>nova</b> temporada ._
-  * NOUN 4: _Em Ventersdorp , a <b>nova</b> e a velha África_do_Sul são vizinhas ._
+  * [ADJ]() 90: _A Juve vive a transição para uma <b>nova</b> temporada ._
+  * [NOUN]() 4: _Em Ventersdorp , a <b>nova</b> e a velha África_do_Sul são vizinhas ._
 * _melhor_
-  * ADJ 68: _É de_longe sua <b>melhor</b> atuação em o cinema ._
-  * ADV 16: _De os cinco , Baselitz , Immendorff e Kirkeby fizeram <b>melhor</b> ._
+  * [ADJ]() 68: _É de_longe sua <b>melhor</b> atuação em o cinema ._
+  * [ADV]() 16: _De os cinco , Baselitz , Immendorff e Kirkeby fizeram <b>melhor</b> ._
 * _última_
-  * ADJ 56: _Sua <b>última</b> aparição foi em uma formatura em Harvard , em 1978 ._
-  * NOUN 2: _Consagra- se também o direito de esta <b>última</b> « efectuar visitas de inspecção e auditoria técnica a as OPP e explorações em elas integradas , bem_como a os produtores individuais , impor as correcções tidas como necessárias ou propor medidas sancionatórias » ._
+  * [ADJ]() 56: _Sua <b>última</b> aparição foi em uma formatura em Harvard , em 1978 ._
+  * [NOUN]() 2: _Consagra- se também o direito de esta <b>última</b> « efectuar visitas de inspecção e auditoria técnica a as OPP e explorações em elas integradas , bem_como a os produtores individuais , impor as correcções tidas como necessárias ou propor medidas sancionatórias » ._
 * _segundo_
-  * ADP 75: _O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico ._
-  * ADJ 52: _O <b>segundo</b> , com algum humor , intitulou a sua peça « O_meu_corpo » ;_
-  * NOUN 4: _Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> ._
-  * ADV 4: _A cimeira sindical ibérica já_não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO ._
+  * [ADP]() 75: _O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico ._
+  * [ADJ]() 52: _O <b>segundo</b> , com algum humor , intitulou a sua peça « O_meu_corpo » ;_
+  * [NOUN]() 4: _Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> ._
+  * [ADV]() 4: _A cimeira sindical ibérica já_não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO ._
 * _segunda_
-  * ADJ 48: _Mas , por o que fez em a <b>segunda</b> parte , o Barcelona mereceu ganhar ._
-  * NOUN 5: _Emissora : Série em seis episódios , exibidos de <b>segunda</b> a quinta , em a Cultura ._
+  * [ADJ]() 48: _Mas , por o que fez em a <b>segunda</b> parte , o Barcelona mereceu ganhar ._
+  * [NOUN]() 5: _Emissora : Série em seis episódios , exibidos de <b>segunda</b> a quinta , em a Cultura ._
 * _política_
-  * NOUN 53: _R. -- Em estes casos , a boa <b>política</b> é que durma em casa ._
-  * ADJ 45: _« Eu tenho uma origem <b>política</b> ._
+  * [NOUN]() 53: _R. -- Em estes casos , a boa <b>política</b> é que durma em casa ._
+  * [ADJ]() 45: _« Eu tenho uma origem <b>política</b> ._
 * _principal_
-  * ADJ 41: _Aqui reside a <b>principal</b> curiosidade de a prova ._
-  * NOUN 1: _A indignação de os dirigentes de o Sindicato_dos_Têxteis tem como <b>principal</b> alvo a Câmara_Municipal , que alegadamente terá colocado « entraves » que fizeram baixar o valor de o imóvel ._
+  * [ADJ]() 41: _Aqui reside a <b>principal</b> curiosidade de a prova ._
+  * [NOUN]() 1: _A indignação de os dirigentes de o Sindicato_dos_Têxteis tem como <b>principal</b> alvo a Câmara_Municipal , que alegadamente terá colocado « entraves » que fizeram baixar o valor de o imóvel ._
 
 ## Morphology
 
@@ -95,52 +95,52 @@ Children of ADJ nodes belong to 13 different parts of speech: VERB (1569; 20% to
 There are 161 `ADP` lemmas (1%), 163 `ADP` types (1%) and 32396 `ADP` tokens (15%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
-The 10 most frequent ADP lemmas: _de, em, a, para, por, com, entre, sobre, sem, até_
+The 10 most frequent `ADP` lemmas: _de, em, a, para, por, com, entre, sobre, sem, até_
 
-The 10 most frequent ADP types:  _de, em, a, para, por, com, entre, sobre, sem, até_
+The 10 most frequent `ADP` types:  _de, em, a, para, por, com, entre, sobre, sem, até_
 
-The 10 most frequent ambiguous lemmas: _de_ (ADP 14647, ADV 1), _a_ (ADP 3569, PRON 36, DET 8, ADV 1, PROPN 1), _por_ (ADP 1772, ADV 1, SCONJ 1), _até_ (ADP 194, ADV 58), _segundo_ (ADP 194, ADJ 101, NOUN 11, ADV 6), _contra_ (ADP 134, ADV 3, NOUN 1), _após_ (ADP 83, ADV 1), _como_ (ADV 565, ADP 80, SCONJ 9), _cerca_de_ (ADV 82, ADP 14), _$/_ (ADP 11, CONJ 4)
+The 10 most frequent ambiguous lemmas: _de_ ([ADP]() 14647, [ADV]() 1), _a_ ([ADP]() 3569, [PRON]() 36, [DET]() 8, [ADV]() 1, [PROPN]() 1), _por_ ([ADP]() 1772, [ADV]() 1, [SCONJ]() 1), _até_ ([ADP]() 194, [ADV]() 58), _segundo_ ([ADP]() 194, [ADJ]() 101, [NOUN]() 11, [ADV]() 6), _contra_ ([ADP]() 134, [ADV]() 3, [NOUN]() 1), _após_ ([ADP]() 83, [ADV]() 1), _como_ ([ADV]() 565, [ADP]() 80, [SCONJ]() 9), _cerca_de_ ([ADV]() 82, [ADP]() 14), _$/_ ([ADP]() 11, [CONJ]() 4)
 
-The 10 most frequent ambiguous types:  _de_ (ADP 14544, ADV 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _por_ (ADP 1714, ADV 1, SCONJ 1), _entre_ (ADP 322, VERB 1), _até_ (ADP 174, ADV 50), _segundo_ (ADP 75, ADJ 52, NOUN 4, ADV 4), _contra_ (ADP 131, ADV 3), _após_ (ADP 72, ADV 1), _como_ (ADV 538, ADP 56, SCONJ 2), _há_ (VERB 194, ADP 31)
+The 10 most frequent ambiguous types:  _de_ ([ADP]() 14544, [ADV]() 1), _a_ ([DET]() 9018, [ADP]() 3487, [PRON]() 126, [ADV]() 1, [PROPN]() 1), _por_ ([ADP]() 1714, [ADV]() 1, [SCONJ]() 1), _entre_ ([ADP]() 322, [VERB]() 1), _até_ ([ADP]() 174, [ADV]() 50), _segundo_ ([ADP]() 75, [ADJ]() 52, [NOUN]() 4, [ADV]() 4), _contra_ ([ADP]() 131, [ADV]() 3), _após_ ([ADP]() 72, [ADV]() 1), _como_ ([ADV]() 538, [ADP]() 56, [SCONJ]() 2), _há_ ([VERB]() 194, [ADP]() 31)
 
 
 * _de_
-  * ADP 14544: _Audiência em a Justiça <b>de</b> o Pará discute diploma_
-  * ADV 1: _Em declarações a o PÚBLICO , Francisco_Costa , membro de a comissão de ligação de o Hospital , um órgão de contacto entre os hospitais e as Testemunhas_de_Jeová , disse conhecer o documento , que , em o essencial , reitera uma prática utilizada anteriormente por a direcção de o hospital , a a excepção <b>de</b> o que se passava com o tratamento de crianças ._
+  * [ADP]() 14544: _Audiência em a Justiça <b>de</b> o Pará discute diploma_
+  * [ADV]() 1: _Em declarações a o PÚBLICO , Francisco_Costa , membro de a comissão de ligação de o Hospital , um órgão de contacto entre os hospitais e as Testemunhas_de_Jeová , disse conhecer o documento , que , em o essencial , reitera uma prática utilizada anteriormente por a direcção de o hospital , a a excepção <b>de</b> o que se passava com o tratamento de crianças ._
 * _a_
-  * DET 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
-  * ADP 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
-  * PRON 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
-  * ADV 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
-  * PROPN 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
+  * [DET]() 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
+  * [ADP]() 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
+  * [PRON]() 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
+  * [ADV]() 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
+  * [PROPN]() 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
 * _por_
-  * ADP 1714: _O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 ._
-  * ADV 1: _se Guímaro era corrupto , quem eram os corruptores e <b>por</b> que motivo não foram igualmente presentes a o juiz de o Tribunal_de_Instrução_Criminal ?_
-  * SCONJ 1: _A praça , <b>por</b> ser tombada , deveria ficar como era antes de a obra ._
+  * [ADP]() 1714: _O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 ._
+  * [ADV]() 1: _se Guímaro era corrupto , quem eram os corruptores e <b>por</b> que motivo não foram igualmente presentes a o juiz de o Tribunal_de_Instrução_Criminal ?_
+  * [SCONJ]() 1: _A praça , <b>por</b> ser tombada , deveria ficar como era antes de a obra ._
 * _entre_
-  * ADP 322: _As pessoas com PMD oscilam <b>entre</b> dois pólos ._
-  * VERB 1: _Couto_Ferreira encontra- se a ser acompanhado por o médico mas recusou qualquer tipo de tratamento , caso <b>entre</b> em coma ._
+  * [ADP]() 322: _As pessoas com PMD oscilam <b>entre</b> dois pólos ._
+  * [VERB]() 1: _Couto_Ferreira encontra- se a ser acompanhado por o médico mas recusou qualquer tipo de tratamento , caso <b>entre</b> em coma ._
 * _até_
-  * ADP 174: _Quem quiser , vai em excursão <b>até</b> o resort local , Casa_de_Campo ._
-  * ADV 50: _A partida <b>até</b> começou bem para os homens de a casa ._
+  * [ADP]() 174: _Quem quiser , vai em excursão <b>até</b> o resort local , Casa_de_Campo ._
+  * [ADV]() 50: _A partida <b>até</b> começou bem para os homens de a casa ._
 * _segundo_
-  * ADP 75: _O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico ._
-  * ADJ 52: _O <b>segundo</b> , com algum humor , intitulou a sua peça « O_meu_corpo » ;_
-  * NOUN 4: _Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> ._
-  * ADV 4: _A cimeira sindical ibérica já_não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO ._
+  * [ADP]() 75: _O Brasil « nunca esteve em apuros » , <b>segundo</b> o técnico ._
+  * [ADJ]() 52: _O <b>segundo</b> , com algum humor , intitulou a sua peça « O_meu_corpo » ;_
+  * [NOUN]() 4: _Este futebol que apazigua os desejos e termina com as nostalgias foi lançado desde o primeiro <b>segundo</b> ._
+  * [ADV]() 4: _A cimeira sindical ibérica já_não deverá realizar- se este ano , <b>segundo</b> apurou o PÚBLICO ._
 * _contra_
-  * ADP 131: _Partidos <b>contra</b> Plano_Estratégico_
-  * ADV 3: _Votar <b>contra</b> seria perigoso porque o plano tem apoio popular ._
+  * [ADP]() 131: _Partidos <b>contra</b> Plano_Estratégico_
+  * [ADV]() 3: _Votar <b>contra</b> seria perigoso porque o plano tem apoio popular ._
 * _após_
-  * ADP 72: _O anúncio oficial será feito <b>após</b> o dia 20 ._
-  * ADV 1: _Parte porque o tricolor entrou em campo mal escalado por Telê , que tentou consertar logo <b>após</b> , com a entrada de Vítor em a lateral e a passagem de Cafu para o lugar de Jamelli ._
+  * [ADP]() 72: _O anúncio oficial será feito <b>após</b> o dia 20 ._
+  * [ADV]() 1: _Parte porque o tricolor entrou em campo mal escalado por Telê , que tentou consertar logo <b>após</b> , com a entrada de Vítor em a lateral e a passagem de Cafu para o lugar de Jamelli ._
 * _como_
-  * ADV 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
-  * ADP 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
-  * SCONJ 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
+  * [ADV]() 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
+  * [ADP]() 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
+  * [SCONJ]() 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
 * _há_
-  * VERB 194: _Já_não <b>há</b> o império de o mal para combater ._
-  * ADP 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
+  * [VERB]() 194: _Já_não <b>há</b> o império de o mal para combater ._
+  * [ADP]() 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
 
 ## Morphology
 
@@ -184,51 +184,51 @@ Children of ADP nodes belong to 13 different parts of speech: NOUN (31; 32% toke
 There are 768 `ADV` lemmas (4%), 772 `ADV` types (3%) and 9489 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent ADV lemmas: _não, mais, como, também, já, ontem, ainda, quando, só, depois_
+The 10 most frequent `ADV` lemmas: _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
-The 10 most frequent ADV types:  _não, mais, como, também, já, ontem, ainda, quando, só, depois_
+The 10 most frequent `ADV` types:  _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
-The 10 most frequent ambiguous lemmas: _não_ (ADV 1343, INTJ 9, NOUN 2), _mais_ (ADV 571, DET 39, PRON 11, CONJ 4), _como_ (ADV 565, ADP 80, SCONJ 9), _já_ (ADV 306, INTJ 1), _ontem_ (ADV 291, NOUN 1), _quando_ (ADV 217, PRON 1), _só_ (ADV 216, ADJ 9), _depois_ (ADV 208, ADP 1), _muito_ (ADV 191, DET 139, PRON 67), _antes_ (ADV 133, ADP 2)
+The 10 most frequent ambiguous lemmas: _não_ ([ADV]() 1343, [INTJ]() 9, [NOUN]() 2), _mais_ ([ADV]() 571, [DET]() 39, [PRON]() 11, [CONJ]() 4), _como_ ([ADV]() 565, [ADP]() 80, [SCONJ]() 9), _já_ ([ADV]() 306, [INTJ]() 1), _ontem_ ([ADV]() 291, [NOUN]() 1), _quando_ ([ADV]() 217, [PRON]() 1), _só_ ([ADV]() 216, [ADJ]() 9), _depois_ ([ADV]() 208, [ADP]() 1), _muito_ ([ADV]() 191, [DET]() 139, [PRON]() 67), _antes_ ([ADV]() 133, [ADP]() 2)
 
-The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _mais_ (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), _como_ (ADV 538, ADP 56, SCONJ 2), _já_ (ADV 269, INTJ 1), _ontem_ (ADV 271, NOUN 1), _quando_ (ADV 163, PRON 1), _só_ (ADV 185, ADJ 8), _depois_ (ADV 149, ADP 1), _muito_ (ADV 173, PRON 21, DET 14), _antes_ (ADV 117, ADP 2)
+The 10 most frequent ambiguous types:  _não_ ([ADV]() 1205, [INTJ]() 3, [NOUN]() 2), _mais_ ([ADV]() 557, [DET]() 86, [PRON]() 30, [CONJ]() 4, [ADP]() 1), _como_ ([ADV]() 538, [ADP]() 56, [SCONJ]() 2), _já_ ([ADV]() 269, [INTJ]() 1), _ontem_ ([ADV]() 271, [NOUN]() 1), _quando_ ([ADV]() 163, [PRON]() 1), _só_ ([ADV]() 185, [ADJ]() 8), _depois_ ([ADV]() 149, [ADP]() 1), _muito_ ([ADV]() 173, [PRON]() 21, [DET]() 14), _antes_ ([ADV]() 117, [ADP]() 2)
 
 
 * _não_
-  * ADV 1205: _Eu <b>não</b> me associo com moda ._
-  * INTJ 3: _Não , <b>não</b> e <b>não</b>_
-  * NOUN 2: _Apesar_de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola ._
+  * [ADV]() 1205: _Eu <b>não</b> me associo com moda ._
+  * [INTJ]() 3: _Não , <b>não</b> e <b>não</b>_
+  * [NOUN]() 2: _Apesar_de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola ._
 * _mais_
-  * ADV 557: _É <b>mais</b> eficiente do_que por apenas quatro anos ._
-  * DET 86: _Tabela ganha <b>mais</b> informações_
-  * PRON 30: _Houve <b>mais</b> que um olhar :_
-  * CONJ 4: _Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra ._
-  * ADP 1: _Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu <b>mais</b> duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV ._
+  * [ADV]() 557: _É <b>mais</b> eficiente do_que por apenas quatro anos ._
+  * [DET]() 86: _Tabela ganha <b>mais</b> informações_
+  * [PRON]() 30: _Houve <b>mais</b> que um olhar :_
+  * [CONJ]() 4: _Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra ._
+  * [ADP]() 1: _Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu <b>mais</b> duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV ._
 * _como_
-  * ADV 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
-  * ADP 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
-  * SCONJ 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
+  * [ADV]() 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
+  * [ADP]() 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
+  * [SCONJ]() 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
 * _já_
-  * ADV 269: _O shopping West_Plaza <b>já</b> começou sua promoção de Dia_das_Mães ._
-  * INTJ 1: _Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador ._
+  * [ADV]() 269: _O shopping West_Plaza <b>já</b> começou sua promoção de Dia_das_Mães ._
+  * [INTJ]() 1: _Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador ._
 * _ontem_
-  * ADV 271: _O incidente de <b>ontem</b> é grave mas não é o primeiro ._
-  * NOUN 1: _Depois de o treino , os jogadores voltam a o Lord_Hotel , onde estão concentrados desde a noite de <b>ontem</b> ._
+  * [ADV]() 271: _O incidente de <b>ontem</b> é grave mas não é o primeiro ._
+  * [NOUN]() 1: _Depois de o treino , os jogadores voltam a o Lord_Hotel , onde estão concentrados desde a noite de <b>ontem</b> ._
 * _quando_
-  * ADV 163: _Como <b>quando</b> eu conheci Alec ._
-  * PRON 1: _FHC e Malan não esclareceram , até o momento , quanto o governo gastou e <b>quando</b> foram comprados os papéis ._
+  * [ADV]() 163: _Como <b>quando</b> eu conheci Alec ._
+  * [PRON]() 1: _FHC e Malan não esclareceram , até o momento , quanto o governo gastou e <b>quando</b> foram comprados os papéis ._
 * _só_
-  * ADV 185: _A energia nuclear é usada <b>só</b> para movimentar a embarcação ._
-  * ADJ 8: _A responsabilidade é a um <b>só</b> tempo de todos e de ninguém ._
+  * [ADV]() 185: _A energia nuclear é usada <b>só</b> para movimentar a embarcação ._
+  * [ADJ]() 8: _A responsabilidade é a um <b>só</b> tempo de todos e de ninguém ._
 * _depois_
-  * ADV 149: _Um ano <b>depois</b> , a capital passa a ser Tóquio ._
-  * ADP 1: _A assessoria de imprensa de a Secretaria_de_Vias_Públicas disse ontem que a prefeitura só vai se manifestar <b>depois</b> que for notificada por a Justiça ._
+  * [ADV]() 149: _Um ano <b>depois</b> , a capital passa a ser Tóquio ._
+  * [ADP]() 1: _A assessoria de imprensa de a Secretaria_de_Vias_Públicas disse ontem que a prefeitura só vai se manifestar <b>depois</b> que for notificada por a Justiça ._
 * _muito_
-  * ADV 173: _« Foi um ato <b>muito</b> rigoroso ._
-  * PRON 21: _A equipa está a mostrar progressos , mas ainda há <b>muito</b> para fazer . »_
-  * DET 14: _Há <b>muito</b> tempo que tenho uma estranha relação afectuosa com esta ilha ._
+  * [ADV]() 173: _« Foi um ato <b>muito</b> rigoroso ._
+  * [PRON]() 21: _A equipa está a mostrar progressos , mas ainda há <b>muito</b> para fazer . »_
+  * [DET]() 14: _Há <b>muito</b> tempo que tenho uma estranha relação afectuosa com esta ilha ._
 * _antes_
-  * ADV 117: _Chegou atrasado , foi duro com seus críticos e saiu <b>antes</b> de o fim ._
-  * ADP 2: _« É necessário que a construção [ de a barragem de o Côa ] seja efectivamente suspensa e que sejam reunidos os meios humanos e necessários a um estudo completo de toda_a área <b>antes</b> que se crie uma situação irreversível ._
+  * [ADV]() 117: _Chegou atrasado , foi duro com seus críticos e saiu <b>antes</b> de o fim ._
+  * [ADP]() 2: _« É necessário que a construção [ de a barragem de o Côa ] seja efectivamente suspensa e que sejam reunidos os meios humanos e necessários a um estudo completo de toda_a área <b>antes</b> que se crie uma situação irreversível ._
 
 ## Morphology
 
@@ -272,46 +272,46 @@ Children of ADV nodes belong to 12 different parts of speech: NOUN (729; 30% tok
 There are 68 `AUX` lemmas (0%), 83 `AUX` types (0%) and 465 `AUX` tokens (0%).
 Out of 17 observed tags, the rank of `AUX` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
 
-The 10 most frequent AUX lemmas: _ser, ter, vir, continuar, estar, passar, acabar, ir, começar, converter_
+The 10 most frequent `AUX` lemmas: _ser, ter, vir, continuar, estar, passar, acabar, ir, começar, converter_
 
-The 10 most frequent AUX types:  _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
+The 10 most frequent `AUX` types:  _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
-The 10 most frequent ambiguous lemmas: _ser_ (VERB 3277, AUX 308, ADV 6, NOUN 4), _ter_ (VERB 1232, AUX 34), _vir_ (VERB 122, AUX 22), _continuar_ (VERB 112, AUX 9), _estar_ (VERB 827, AUX 8), _passar_ (VERB 286, AUX 6), _acabar_ (VERB 85, AUX 4), _ir_ (VERB 532, AUX 4), _começar_ (VERB 124, AUX 3), _converter_ (VERB 10, AUX 3)
+The 10 most frequent ambiguous lemmas: _ser_ ([VERB]() 3277, [AUX]() 308, [ADV]() 6, [NOUN]() 4), _ter_ ([VERB]() 1232, [AUX]() 34), _vir_ ([VERB]() 122, [AUX]() 22), _continuar_ ([VERB]() 112, [AUX]() 9), _estar_ ([VERB]() 827, [AUX]() 8), _passar_ ([VERB]() 286, [AUX]() 6), _acabar_ ([VERB]() 85, [AUX]() 4), _ir_ ([VERB]() 532, [AUX]() 4), _começar_ ([VERB]() 124, [AUX]() 3), _converter_ ([VERB]() 10, [AUX]() 3)
 
-The 10 most frequent ambiguous types:  _ser_ (VERB 248, AUX 213, NOUN 3), _sido_ (AUX 74, VERB 35), _ter_ (VERB 217, AUX 31), _sendo_ (VERB 21, AUX 19), _vindo_ (AUX 11, VERB 3), _vir_ (AUX 11, VERB 9), _continuar_ (VERB 14, AUX 9), _passar_ (VERB 31, AUX 6), _estar_ (VERB 49, AUX 5), _acabar_ (VERB 9, AUX 3)
+The 10 most frequent ambiguous types:  _ser_ ([VERB]() 248, [AUX]() 213, [NOUN]() 3), _sido_ ([AUX]() 74, [VERB]() 35), _ter_ ([VERB]() 217, [AUX]() 31), _sendo_ ([VERB]() 21, [AUX]() 19), _vindo_ ([AUX]() 11, [VERB]() 3), _vir_ ([AUX]() 11, [VERB]() 9), _continuar_ ([VERB]() 14, [AUX]() 9), _passar_ ([VERB]() 31, [AUX]() 6), _estar_ ([VERB]() 49, [AUX]() 5), _acabar_ ([VERB]() 9, [AUX]() 3)
 
 
 * _ser_
-  * VERB 248: _« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »_
-  * AUX 213: _Em o projeto não há definição de quantos podem <b>ser</b> construídos ._
-  * NOUN 3: _Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio ._
+  * [VERB]() 248: _« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »_
+  * [AUX]() 213: _Em o projeto não há definição de quantos podem <b>ser</b> construídos ._
+  * [NOUN]() 3: _Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio ._
 * _sido_
-  * AUX 74: _Várias soluções têm <b>sido</b> propostas para contornar este obstáculo ._
-  * VERB 35: _« Me pergunto sempre quem podia ter <b>sido</b> aquele jovem alemão . »_
+  * [AUX]() 74: _Várias soluções têm <b>sido</b> propostas para contornar este obstáculo ._
+  * [VERB]() 35: _« Me pergunto sempre quem podia ter <b>sido</b> aquele jovem alemão . »_
 * _ter_
-  * VERB 217: _Vai <b>ter</b> paridade , já desde o começo » , explicou ._
-  * AUX 31: _« Me pergunto sempre quem podia <b>ter</b> sido aquele jovem alemão . »_
+  * [VERB]() 217: _Vai <b>ter</b> paridade , já desde o começo » , explicou ._
+  * [AUX]() 31: _« Me pergunto sempre quem podia <b>ter</b> sido aquele jovem alemão . »_
 * _sendo_
-  * VERB 21: _o_que , <b>sendo</b> talvez verdade , esquece que também há jovens para tudo ._
-  * AUX 19: _Estamos <b>sendo</b> forçados , ao_invés , a reduzir o prazo para três meses ._
+  * [VERB]() 21: _o_que , <b>sendo</b> talvez verdade , esquece que também há jovens para tudo ._
+  * [AUX]() 19: _Estamos <b>sendo</b> forçados , ao_invés , a reduzir o prazo para três meses ._
 * _vindo_
-  * AUX 11: _Alguns até já desapareceram , como o de Castro_Verde , e outros têm <b>vindo</b> a perder quadros ._
-  * VERB 3: _Muller chega a as 5h25 de hoje a São_Paulo , <b>vindo</b> de Londres ._
+  * [AUX]() 11: _Alguns até já desapareceram , como o de Castro_Verde , e outros têm <b>vindo</b> a perder quadros ._
+  * [VERB]() 3: _Muller chega a as 5h25 de hoje a São_Paulo , <b>vindo</b> de Londres ._
 * _vir_
-  * AUX 11: _« Um outro poder , aliado mas diferente , como pode <b>vir</b> a ser a União_Europeia , só lhes pode ser útil » ._
-  * VERB 9: _Interessa antes de mais decidir quem preferimos para representar a República , a que somos e a que queremos <b>vir</b> a ser ._
+  * [AUX]() 11: _« Um outro poder , aliado mas diferente , como pode <b>vir</b> a ser a União_Europeia , só lhes pode ser útil » ._
+  * [VERB]() 9: _Interessa antes de mais decidir quem preferimos para representar a República , a que somos e a que queremos <b>vir</b> a ser ._
 * _continuar_
-  * VERB 14: _O acordo indica que vamos <b>continuar</b> em um processo recessivo ._
-  * AUX 9: _No_que_se_refere a as regras de o jogo , considera que o futebol deve <b>continuar</b> a ser futebol ._
+  * [VERB]() 14: _O acordo indica que vamos <b>continuar</b> em um processo recessivo ._
+  * [AUX]() 9: _No_que_se_refere a as regras de o jogo , considera que o futebol deve <b>continuar</b> a ser futebol ._
 * _passar_
-  * VERB 31: _-- E ela disse para <b>passar</b> um cheque ..._
-  * AUX 6: _Em_seguida , se for aplicado como previsto o princípio de a rotatividade , a Turquia deverá <b>passar</b> a ter o seu primeiro chefe de Governo islamista ._
+  * [VERB]() 31: _-- E ela disse para <b>passar</b> um cheque ..._
+  * [AUX]() 6: _Em_seguida , se for aplicado como previsto o princípio de a rotatividade , a Turquia deverá <b>passar</b> a ter o seu primeiro chefe de Governo islamista ._
 * _estar_
-  * VERB 49: _« O Hélder tem razões para <b>estar</b> contente ._
-  * AUX 5: _Se eles não substituírem o pessoal , vão <b>estar</b> praticando desobediência judicial » , disse Fortes ._
+  * [VERB]() 49: _« O Hélder tem razões para <b>estar</b> contente ._
+  * [AUX]() 5: _Se eles não substituírem o pessoal , vão <b>estar</b> praticando desobediência judicial » , disse Fortes ._
 * _acabar_
-  * VERB 9: _A <b>acabar</b> confirmou a sua regularidade com 61,87 m , 62,84 m e 63,09 m ._
-  * AUX 3: _Seu Sauber pode <b>acabar</b> trocando o certo por o incerto ao esperar por Karl_Wendlinger ._
+  * [VERB]() 9: _A <b>acabar</b> confirmou a sua regularidade com 61,87 m , 62,84 m e 63,09 m ._
+  * [AUX]() 3: _Seu Sauber pode <b>acabar</b> trocando o certo por o incerto ao esperar por Karl_Wendlinger ._
 
 ## Morphology
 
@@ -355,40 +355,40 @@ Children of AUX nodes belong to 12 different parts of speech: VERB (371; 56% tok
 There are 12 `CONJ` lemmas (0%), 12 `CONJ` types (0%) and 5112 `CONJ` tokens (2%).
 Out of 17 observed tags, the rank of `CONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
-The 10 most frequent CONJ lemmas: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
+The 10 most frequent `CONJ` lemmas: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
 
-The 10 most frequent CONJ types:  _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
+The 10 most frequent `CONJ` types:  _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
 
-The 10 most frequent ambiguous lemmas: _e_ (CONJ 4142, SCONJ 1), _nem_ (CONJ 54, ADV 33), _$/_ (ADP 11, CONJ 4), _mais_ (ADV 571, DET 39, PRON 11, CONJ 4), _&_ (NOUN 1, CONJ 1), _/_ (PUNCT 23, CONJ 1), _tampouco_ (ADV 2, CONJ 1)
+The 10 most frequent ambiguous lemmas: _e_ ([CONJ]() 4142, [SCONJ]() 1), _nem_ ([CONJ]() 54, [ADV]() 33), _$/_ ([ADP]() 11, [CONJ]() 4), _mais_ ([ADV]() 571, [DET]() 39, [PRON]() 11, [CONJ]() 4), _&_ ([NOUN]() 1, [CONJ]() 1), _/_ ([PUNCT]() 23, [CONJ]() 1), _tampouco_ ([ADV]() 2, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  _e_ (CONJ 3975, ADP 1, SCONJ 1), _nem_ (CONJ 51, ADV 27), _quer_ (VERB 37, CONJ 9), _$/_ (ADP 11, CONJ 4), _mais_ (ADV 557, DET 86, PRON 30, CONJ 4, ADP 1), _&_ (NOUN 1, CONJ 1), _/_ (PUNCT 23, CONJ 1)
+The 10 most frequent ambiguous types:  _e_ ([CONJ]() 3975, [ADP]() 1, [SCONJ]() 1), _nem_ ([CONJ]() 51, [ADV]() 27), _quer_ ([VERB]() 37, [CONJ]() 9), _$/_ ([ADP]() 11, [CONJ]() 4), _mais_ ([ADV]() 557, [DET]() 86, [PRON]() 30, [CONJ]() 4, [ADP]() 1), _&_ ([NOUN]() 1, [CONJ]() 1), _/_ ([PUNCT]() 23, [CONJ]() 1)
 
 
 * _e_
-  * CONJ 3975: _De os fumantes , 18,1 milhões são homens <b>e</b> 12,5 milhões , mulheres ._
-  * ADP 1: _Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos ._
-  * SCONJ 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
+  * [CONJ]() 3975: _De os fumantes , 18,1 milhões são homens <b>e</b> 12,5 milhões , mulheres ._
+  * [ADP]() 1: _Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos ._
+  * [SCONJ]() 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
 * _nem_
-  * CONJ 51: _Enganei- me : não serie <b>nem</b> o primeiro <b>nem</b> o último , espero .._
-  * ADV 27: _Imaginem só : 18 canções de puro sumo pop , sem bafio <b>nem</b> conservantes ._
+  * [CONJ]() 51: _Enganei- me : não serie <b>nem</b> o primeiro <b>nem</b> o último , espero .._
+  * [ADV]() 27: _Imaginem só : 18 canções de puro sumo pop , sem bafio <b>nem</b> conservantes ._
 * _quer_
-  * VERB 37: _Mãe de Rossi agora <b>quer</b> ser candidata_
-  * CONJ 9: _Quantos artistas , <b>quer</b> estrangeiros <b>quer</b> nacionais , a festa de toiros tem motivado ._
+  * [VERB]() 37: _Mãe de Rossi agora <b>quer</b> ser candidata_
+  * [CONJ]() 9: _Quantos artistas , <b>quer</b> estrangeiros <b>quer</b> nacionais , a festa de toiros tem motivado ._
 * _$/_
-  * ADP 11: _Média é de 4 passageiros <b>$/</b> viagem_
-  * CONJ 4: _O crítico ( é <b>$/</b> deve ser ) , um insolente de a razão ?_
+  * [ADP]() 11: _Média é de 4 passageiros <b>$/</b> viagem_
+  * [CONJ]() 4: _O crítico ( é <b>$/</b> deve ser ) , um insolente de a razão ?_
 * _mais_
-  * ADV 557: _É <b>mais</b> eficiente do_que por apenas quatro anos ._
-  * DET 86: _Tabela ganha <b>mais</b> informações_
-  * PRON 30: _Houve <b>mais</b> que um olhar :_
-  * CONJ 4: _Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra ._
-  * ADP 1: _Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu <b>mais</b> duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV ._
+  * [ADV]() 557: _É <b>mais</b> eficiente do_que por apenas quatro anos ._
+  * [DET]() 86: _Tabela ganha <b>mais</b> informações_
+  * [PRON]() 30: _Houve <b>mais</b> que um olhar :_
+  * [CONJ]() 4: _Cada obra consome 1,5 tonelada de aço ( US$ 6 mil ) <b>mais</b> US$ 10 mil de mão-de-obra ._
+  * [ADP]() 1: _Em a chegada de o ano em que disputará uma vaga em o Senado por o PP-SP , deu <b>mais</b> duas dezenas de entrevistas , posou para fotos , e deixou 1993 em as emissoras de rádio e TV ._
 * _&_
-  * NOUN 1: _Bill nunca se lhe dirigiu por o nome e despedia- se com um enigmático " <b>&</b> " , que em linguagem de correio electrónico significa « responda » ._
-  * CONJ 1: _Em o dia em que Wilson inventar o tempo <b>&</b> o modo de combinar a tradição ( de que se tem aproximado progressivamente , como o mostra , de forma exemplar , o álbum « Blue_Skies » ) com os novos sons que lhe adubaram a voz ( de o rap e hip-hop a a inquietação experimental vivida ao_lado_de Steve_Coleman ) , uma nova porta se abrirá a o jazz vocal ._
+  * [NOUN]() 1: _Bill nunca se lhe dirigiu por o nome e despedia- se com um enigmático " <b>&</b> " , que em linguagem de correio electrónico significa « responda » ._
+  * [CONJ]() 1: _Em o dia em que Wilson inventar o tempo <b>&</b> o modo de combinar a tradição ( de que se tem aproximado progressivamente , como o mostra , de forma exemplar , o álbum « Blue_Skies » ) com os novos sons que lhe adubaram a voz ( de o rap e hip-hop a a inquietação experimental vivida ao_lado_de Steve_Coleman ) , uma nova porta se abrirá a o jazz vocal ._
 * _/_
-  * PUNCT 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
-  * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
+  * [PUNCT]() 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
+  * [CONJ]() 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
 ## Morphology
 
@@ -432,51 +432,51 @@ Children of CONJ nodes belong to 5 different parts of speech: PUNCT (17; 46% tok
 There are 53 `DET` lemmas (0%), 114 `DET` types (0%) and 33220 `DET` tokens (16%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
-The 10 most frequent DET lemmas: _o, um, seu, este, outro, esse, algum, todo, muito, mesmo_
+The 10 most frequent `DET` lemmas: _o, um, seu, este, outro, esse, algum, todo, muito, mesmo_
 
-The 10 most frequent DET types:  _o, a, os, as, um, uma, sua, seu, este, esta_
+The 10 most frequent `DET` types:  _o, a, os, as, um, uma, sua, seu, este, esta_
 
-The 10 most frequent ambiguous lemmas: _o_ (DET 26194, PRON 449, ADP 3, NOUN 1), _um_ (DET 3137, NUM 371, PRON 22), _seu_ (DET 1078, PRON 7), _este_ (DET 580, PRON 82), _outro_ (DET 266, PRON 85), _esse_ (DET 263, PRON 30), _algum_ (DET 174, PRON 29), _todo_ (DET 143, PRON 55, ADV 5, NOUN 2), _muito_ (ADV 191, DET 139, PRON 67), _mesmo_ (DET 127, ADV 77, PRON 32)
+The 10 most frequent ambiguous lemmas: _o_ ([DET]() 26194, [PRON]() 449, [ADP]() 3, [NOUN]() 1), _um_ ([DET]() 3137, [NUM]() 371, [PRON]() 22), _seu_ ([DET]() 1078, [PRON]() 7), _este_ ([DET]() 580, [PRON]() 82), _outro_ ([DET]() 266, [PRON]() 85), _esse_ ([DET]() 263, [PRON]() 30), _algum_ ([DET]() 174, [PRON]() 29), _todo_ ([DET]() 143, [PRON]() 55, [ADV]() 5, [NOUN]() 2), _muito_ ([ADV]() 191, [DET]() 139, [PRON]() 67), _mesmo_ ([DET]() 127, [ADV]() 77, [PRON]() 32)
 
-The 10 most frequent ambiguous types:  _o_ (DET 9656, PRON 351, NOUN 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _os_ (DET 3088, PRON 135), _as_ (DET 2119, PRON 53), _um_ (DET 1555, NUM 233, PRON 12), _uma_ (DET 1392, NUM 136, PRON 6), _seu_ (DET 351, PRON 5), _este_ (DET 254, PRON 27), _esta_ (DET 189, PRON 17), _seus_ (DET 173, PRON 2)
+The 10 most frequent ambiguous types:  _o_ ([DET]() 9656, [PRON]() 351, [NOUN]() 1), _a_ ([DET]() 9018, [ADP]() 3487, [PRON]() 126, [ADV]() 1, [PROPN]() 1), _os_ ([DET]() 3088, [PRON]() 135), _as_ ([DET]() 2119, [PRON]() 53), _um_ ([DET]() 1555, [NUM]() 233, [PRON]() 12), _uma_ ([DET]() 1392, [NUM]() 136, [PRON]() 6), _seu_ ([DET]() 351, [PRON]() 5), _este_ ([DET]() 254, [PRON]() 27), _esta_ ([DET]() 189, [PRON]() 17), _seus_ ([DET]() 173, [PRON]() 2)
 
 
 * _o_
-  * DET 9656: _Audiência em a Justiça de <b>o</b> Pará discute diploma_
-  * PRON 351: _Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 ._
-  * NOUN 1: _« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel_Rodrigues , que é também presidente_da_Associação_Académica_da_Universidade_de_Aveiro ._
+  * [DET]() 9656: _Audiência em a Justiça de <b>o</b> Pará discute diploma_
+  * [PRON]() 351: _Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 ._
+  * [NOUN]() 1: _« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel_Rodrigues , que é também presidente_da_Associação_Académica_da_Universidade_de_Aveiro ._
 * _a_
-  * DET 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
-  * ADP 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
-  * PRON 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
-  * ADV 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
-  * PROPN 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
+  * [DET]() 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
+  * [ADP]() 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
+  * [PRON]() 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
+  * [ADV]() 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
+  * [PROPN]() 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
 * _os_
-  * DET 3088: _De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres ._
-  * PRON 135: _Não sei em_relação_a <b>os</b> outros indiciados ._
+  * [DET]() 3088: _De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres ._
+  * [PRON]() 135: _Não sei em_relação_a <b>os</b> outros indiciados ._
 * _as_
-  * DET 2119: _Horário : em o dia 12 , de <b>as</b> 19h a o último cliente_
-  * PRON 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
+  * [DET]() 2119: _Horário : em o dia 12 , de <b>as</b> 19h a o último cliente_
+  * [PRON]() 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
 * _um_
-  * DET 1555: _« Foi <b>um</b> ato muito rigoroso ._
-  * NUM 233: _Cingapura acusa mais <b>um</b> americano_
-  * PRON 12: _mas existe em <b>um</b> outro , porque aí nunca assassinou a sua avó ._
+  * [DET]() 1555: _« Foi <b>um</b> ato muito rigoroso ._
+  * [NUM]() 233: _Cingapura acusa mais <b>um</b> americano_
+  * [PRON]() 12: _mas existe em <b>um</b> outro , porque aí nunca assassinou a sua avó ._
 * _uma_
-  * DET 1392: _Não houve acordo para <b>uma</b> trégua durante a Copa ._
-  * NUM 136: _A dinâmica de o « debate » teve apenas <b>uma</b> utilidade :_
-  * PRON 6: _Eu podia ser <b>uma</b> drogada hoje , podia viver em a rua ._
+  * [DET]() 1392: _Não houve acordo para <b>uma</b> trégua durante a Copa ._
+  * [NUM]() 136: _A dinâmica de o « debate » teve apenas <b>uma</b> utilidade :_
+  * [PRON]() 6: _Eu podia ser <b>uma</b> drogada hoje , podia viver em a rua ._
 * _seu_
-  * DET 351: _Um de eles era <b>seu</b> filho , Sérgio_Fioravanti ._
-  * PRON 5: _O « kratos » não é de o povo ; é <b>seu</b> , se_tanto , o ouvido , o olhar ._
+  * [DET]() 351: _Um de eles era <b>seu</b> filho , Sérgio_Fioravanti ._
+  * [PRON]() 5: _O « kratos » não é de o povo ; é <b>seu</b> , se_tanto , o ouvido , o olhar ._
 * _este_
-  * DET 254: _« Alguma coisa se passa a a volta de <b>este</b> papel ._
-  * PRON 27: _Mas <b>este</b> não é o cerne de a questão , o cerne de a questão é a Bósnia ._
+  * [DET]() 254: _« Alguma coisa se passa a a volta de <b>este</b> papel ._
+  * [PRON]() 27: _Mas <b>este</b> não é o cerne de a questão , o cerne de a questão é a Bósnia ._
 * _esta_
-  * DET 189: _Todos eles estarão <b>esta</b> noite em Minneapolis ._
-  * PRON 17: _é uma bonita palavra <b>esta</b> , saudade ._
+  * [DET]() 189: _Todos eles estarão <b>esta</b> noite em Minneapolis ._
+  * [PRON]() 17: _é uma bonita palavra <b>esta</b> , saudade ._
 * _seus_
-  * DET 173: _Diariamente , está promovendo desfiles de moda para <b>seus</b> consumidores ._
-  * PRON 2: _A federação de as pequenas e médias empresas revelou em uma pesquisa que <b>seus</b> filiados estão próximos de o pânico em_relação_a a situação econômica ._
+  * [DET]() 173: _Diariamente , está promovendo desfiles de moda para <b>seus</b> consumidores ._
+  * [PRON]() 2: _A federação de as pequenas e médias empresas revelou em uma pesquisa que <b>seus</b> filiados estão próximos de o pânico em_relação_a a situação econômica ._
 
 ## Morphology
 
@@ -520,48 +520,48 @@ Children of DET nodes belong to 12 different parts of speech: ADP (112; 28% toke
 There are 27 `INTJ` lemmas (0%), 27 `INTJ` types (0%) and 40 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
-The 10 most frequent INTJ lemmas: _não, rarará, Ah_bem, BINGO, Deus_me_livre, Meu_Deus, Taí, adeus, ai, alô_
+The 10 most frequent `INTJ` lemmas: _não, rarará, Ah_bem, BINGO, Deus_me_livre, Meu_Deus, Taí, adeus, ai, alô_
 
-The 10 most frequent INTJ types:  _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
+The 10 most frequent `INTJ` types:  _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
 
-The 10 most frequent ambiguous lemmas: _não_ (ADV 1343, INTJ 9, NOUN 2), _adeus_ (NOUN 1, INTJ 1), _basta_ (NOUN 1, INTJ 1), _claro_ (ADJ 35, ADV 15, INTJ 1), _droga_ (NOUN 32, INTJ 1), _já_ (ADV 306, INTJ 1), _pronto_ (ADJ 15, INTJ 1), _rua_ (NOUN 42, INTJ 1), _socorro_ (NOUN 5, INTJ 1), _ver_ (VERB 178, INTJ 1, AUX 1)
+The 10 most frequent ambiguous lemmas: _não_ ([ADV]() 1343, [INTJ]() 9, [NOUN]() 2), _adeus_ ([NOUN]() 1, [INTJ]() 1), _basta_ ([NOUN]() 1, [INTJ]() 1), _claro_ ([ADJ]() 35, [ADV]() 15, [INTJ]() 1), _droga_ ([NOUN]() 32, [INTJ]() 1), _já_ ([ADV]() 306, [INTJ]() 1), _pronto_ ([ADJ]() 15, [INTJ]() 1), _rua_ ([NOUN]() 42, [INTJ]() 1), _socorro_ ([NOUN]() 5, [INTJ]() 1), _ver_ ([VERB]() 178, [INTJ]() 1, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  _não_ (ADV 1205, INTJ 3, NOUN 2), _Socorro_ (NOUN 2, INTJ 1, PROPN 1), _basta_ (VERB 10, NOUN 1, INTJ 1, ADJ 1), _claro_ (ADJ 19, ADV 9, INTJ 1), _já_ (ADV 269, INTJ 1), _pronto_ (ADJ 8, INTJ 1), _rua_ (NOUN 25, INTJ 1), _viu_ (VERB 17, INTJ 1), _É_ (VERB 149, ADV 18, INTJ 1)
+The 10 most frequent ambiguous types:  _não_ ([ADV]() 1205, [INTJ]() 3, [NOUN]() 2), _Socorro_ ([NOUN]() 2, [INTJ]() 1, [PROPN]() 1), _basta_ ([VERB]() 10, [NOUN]() 1, [INTJ]() 1, [ADJ]() 1), _claro_ ([ADJ]() 19, [ADV]() 9, [INTJ]() 1), _já_ ([ADV]() 269, [INTJ]() 1), _pronto_ ([ADJ]() 8, [INTJ]() 1), _rua_ ([NOUN]() 25, [INTJ]() 1), _viu_ ([VERB]() 17, [INTJ]() 1), _É_ ([VERB]() 149, [ADV]() 18, [INTJ]() 1)
 
 
 * _não_
-  * ADV 1205: _Eu <b>não</b> me associo com moda ._
-  * INTJ 3: _Não , <b>não</b> e <b>não</b>_
-  * NOUN 2: _Apesar_de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola ._
+  * [ADV]() 1205: _Eu <b>não</b> me associo com moda ._
+  * [INTJ]() 3: _Não , <b>não</b> e <b>não</b>_
+  * [NOUN]() 2: _Apesar_de evitar dar um <b>não</b> definitivo , Marise deixou claro que deve recusar o convite de Brizola ._
 * _Socorro_
-  * NOUN 2: _Moradora de a Mooca , em os últimos cinco anos Regina virou o ano com Hilton , o namorado , em o « Recanto_da_Cachoeira » , uma estãncia em o município de <b>Socorro</b> ( SP ) ._
-  * INTJ 1: _?:? <b>Socorro</b> !_
-  * PROPN 1: _Apenas a o meio-dia -- três horas após o acidente -- chegou a a estação <b>Socorro</b> uma carruagem com ferramentas , macacos hidráulicos e cerca_de vinte funcionários de a Divisão_de_Manutenção_do_Metro ._
+  * [NOUN]() 2: _Moradora de a Mooca , em os últimos cinco anos Regina virou o ano com Hilton , o namorado , em o « Recanto_da_Cachoeira » , uma estãncia em o município de <b>Socorro</b> ( SP ) ._
+  * [INTJ]() 1: _?:? <b>Socorro</b> !_
+  * [PROPN]() 1: _Apenas a o meio-dia -- três horas após o acidente -- chegou a a estação <b>Socorro</b> uma carruagem com ferramentas , macacos hidráulicos e cerca_de vinte funcionários de a Divisão_de_Manutenção_do_Metro ._
 * _basta_
-  * VERB 10: _« Quem tiver qualquer dúvida sobre nossa atuação , <b>basta</b> ver o teipe . »_
-  * NOUN 1: _Por as razões alinhadas , que não refletem apenas conjeturas teóricas , mas a experiência duramente vivida por a nação em as últimas duas décadas , se impõe dar um <b>basta</b> definitivo a todos os remanescentes de indexação formal , sejam eles em as taxas de juros nominais ( TR ) , em o recolhimento de os tributos ( Ufir e correlatos ) e em os salários ( IPC-r ) ._
-  * INTJ 1: _Religiosos haitianos dizem <b>basta</b>_
-  * ADJ 1: _Uma hora após a morte de Colosio -- em a realidade minutos depois de o público receber a trágica notícia , Octavio_Paz pedia um « <b>basta</b> a os excessos verbais e ideológicos de alguns intelectuais e jornalistas » e a as « numerosas e irresponsáveis apologias de a violência » ._
+  * [VERB]() 10: _« Quem tiver qualquer dúvida sobre nossa atuação , <b>basta</b> ver o teipe . »_
+  * [NOUN]() 1: _Por as razões alinhadas , que não refletem apenas conjeturas teóricas , mas a experiência duramente vivida por a nação em as últimas duas décadas , se impõe dar um <b>basta</b> definitivo a todos os remanescentes de indexação formal , sejam eles em as taxas de juros nominais ( TR ) , em o recolhimento de os tributos ( Ufir e correlatos ) e em os salários ( IPC-r ) ._
+  * [INTJ]() 1: _Religiosos haitianos dizem <b>basta</b>_
+  * [ADJ]() 1: _Uma hora após a morte de Colosio -- em a realidade minutos depois de o público receber a trágica notícia , Octavio_Paz pedia um « <b>basta</b> a os excessos verbais e ideológicos de alguns intelectuais e jornalistas » e a as « numerosas e irresponsáveis apologias de a violência » ._
 * _claro_
-  * ADJ 19: _O <b>claro</b> e o escuro_
-  * ADV 9: _Tudo , <b>claro</b> está , muito arborizado ._
-  * INTJ 1: _« Chegamos até aqui , <b>claro</b> , também graças_a Cruyff » ._
+  * [ADJ]() 19: _O <b>claro</b> e o escuro_
+  * [ADV]() 9: _Tudo , <b>claro</b> está , muito arborizado ._
+  * [INTJ]() 1: _« Chegamos até aqui , <b>claro</b> , também graças_a Cruyff » ._
 * _já_
-  * ADV 269: _O shopping West_Plaza <b>já</b> começou sua promoção de Dia_das_Mães ._
-  * INTJ 1: _Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador ._
+  * [ADV]() 269: _O shopping West_Plaza <b>já</b> começou sua promoção de Dia_das_Mães ._
+  * [INTJ]() 1: _Já nem ouvem a voz de « <b>já</b> » de o instrutor-largador ._
 * _pronto_
-  * ADJ 8: _Parque de Ermesinde <b>pronto</b> em o fim de este mês_
-  * INTJ 1: _Em_vez_de mandar um papel por o garçom com cantadas escritas , o plínio liga para a plínia de sua predileção e <b>pronto</b> -- está feito o contato imediato ._
+  * [ADJ]() 8: _Parque de Ermesinde <b>pronto</b> em o fim de este mês_
+  * [INTJ]() 1: _Em_vez_de mandar um papel por o garçom com cantadas escritas , o plínio liga para a plínia de sua predileção e <b>pronto</b> -- está feito o contato imediato ._
 * _rua_
-  * NOUN 25: _A as 15h00 sai a a <b>rua</b> a procissão em honra de S.João_de_Deus ._
-  * INTJ 1: _mamem a pastilha_elástica caladinhos .. senão <b>rua</b> ! ! !_
+  * [NOUN]() 25: _A as 15h00 sai a a <b>rua</b> a procissão em honra de S.João_de_Deus ._
+  * [INTJ]() 1: _mamem a pastilha_elástica caladinhos .. senão <b>rua</b> ! ! !_
 * _viu_
-  * VERB 17: _Encerrada a festa , Maluly <b>viu</b> o rapaz esperando ._
-  * INTJ 1: _« Eu torci muito por você , <b>viu</b> ? » , disse Itamar a Fu ._
+  * [VERB]() 17: _Encerrada a festa , Maluly <b>viu</b> o rapaz esperando ._
+  * [INTJ]() 1: _« Eu torci muito por você , <b>viu</b> ? » , disse Itamar a Fu ._
 * _É_
-  * VERB 149: _<b>É</b> mais eficiente do_que por apenas quatro anos ._
-  * ADV 18: _<b>É</b> por isso que , explica , não tem pena de Hillary_Clinton ._
-  * INTJ 1: _Niemeyer -- <b>É</b> , foi em 1936 ._
+  * [VERB]() 149: _<b>É</b> mais eficiente do_que por apenas quatro anos ._
+  * [ADV]() 18: _<b>É</b> por isso que , explica , não tem pena de Hillary_Clinton ._
+  * [INTJ]() 1: _Niemeyer -- <b>É</b> , foi em 1936 ._
 
 ## Morphology
 
@@ -605,47 +605,47 @@ Children of INTJ nodes belong to 7 different parts of speech: PUNCT (23; 72% tok
 There are 6787 `NOUN` lemmas (34%), 8618 `NOUN` types (30%) and 39892 `NOUN` tokens (19%).
 Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent NOUN lemmas: _ano, dia, milhão, país, empresa, pessoa, presidente, grupo, mês, US$_
+The 10 most frequent `NOUN` lemmas: _ano, dia, milhão, país, empresa, pessoa, presidente, grupo, mês, US$_
 
-The 10 most frequent NOUN types:  _anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento_
+The 10 most frequent `NOUN` types:  _anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento_
 
-The 10 most frequent ambiguous lemmas: _caso_ (NOUN 132, SCONJ 23), _parte_ (NOUN 125, ADV 2), _candidato_ (NOUN 83, ADJ 1), _final_ (NOUN 80, ADJ 24), _poder_ (VERB 435, NOUN 68, AUX 2), _direito_ (NOUN 61, ADJ 9, ADV 1), _local_ (NOUN 53, ADJ 43), _criança_ (NOUN 51, ADJ 1), _plano_ (NOUN 51, ADJ 2), _capital_ (NOUN 50, ADJ 3)
+The 10 most frequent ambiguous lemmas: _caso_ ([NOUN]() 132, [SCONJ]() 23), _parte_ ([NOUN]() 125, [ADV]() 2), _candidato_ ([NOUN]() 83, [ADJ]() 1), _final_ ([NOUN]() 80, [ADJ]() 24), _poder_ ([VERB]() 435, [NOUN]() 68, [AUX]() 2), _direito_ ([NOUN]() 61, [ADJ]() 9, [ADV]() 1), _local_ ([NOUN]() 53, [ADJ]() 43), _criança_ ([NOUN]() 51, [ADJ]() 1), _plano_ ([NOUN]() 51, [ADJ]() 2), _capital_ ([NOUN]() 50, [ADJ]() 3)
 
-The 10 most frequent ambiguous types:  _estado_ (NOUN 33, VERB 3, AUX 2), _parte_ (NOUN 101, VERB 2), _caso_ (NOUN 94, SCONJ 17), _trabalho_ (NOUN 90, VERB 1), _final_ (NOUN 72, ADJ 21), _poder_ (NOUN 59, VERB 7, AUX 2), _política_ (NOUN 53, ADJ 45), _partido_ (NOUN 47, VERB 2), _público_ (NOUN 47, ADJ 30), _local_ (NOUN 43, ADJ 27)
+The 10 most frequent ambiguous types:  _estado_ ([NOUN]() 33, [VERB]() 3, [AUX]() 2), _parte_ ([NOUN]() 101, [VERB]() 2), _caso_ ([NOUN]() 94, [SCONJ]() 17), _trabalho_ ([NOUN]() 90, [VERB]() 1), _final_ ([NOUN]() 72, [ADJ]() 21), _poder_ ([NOUN]() 59, [VERB]() 7, [AUX]() 2), _política_ ([NOUN]() 53, [ADJ]() 45), _partido_ ([NOUN]() 47, [VERB]() 2), _público_ ([NOUN]() 47, [ADJ]() 30), _local_ ([NOUN]() 43, [ADJ]() 27)
 
 
 * _estado_
-  * NOUN 33: _O <b>estado</b> de a arte_
-  * VERB 3: _A resposta de o Governo é que o assunto tem <b>estado</b> em a agenda de os contactos com o grupo francês , uma posição que para os trabalhadores « não representa qualquer garantia » ._
-  * AUX 2: _Enquanto isso , os universitários de o Norte têm <b>estado</b> a reunir- se e a estudar cada_um de os princípios apresentados por o titular de a pasta de a Educação ._
+  * [NOUN]() 33: _O <b>estado</b> de a arte_
+  * [VERB]() 3: _A resposta de o Governo é que o assunto tem <b>estado</b> em a agenda de os contactos com o grupo francês , uma posição que para os trabalhadores « não representa qualquer garantia » ._
+  * [AUX]() 2: _Enquanto isso , os universitários de o Norte têm <b>estado</b> a reunir- se e a estudar cada_um de os princípios apresentados por o titular de a pasta de a Educação ._
 * _parte_
-  * NOUN 101: _Uma <b>parte</b> de Hervé_Guibert ._
-  * VERB 2: _Em a confusão que se segue , <b>parte</b> um primeiro tiro , depois um segundo , e os dois homens caem a o mar ._
+  * [NOUN]() 101: _Uma <b>parte</b> de Hervé_Guibert ._
+  * [VERB]() 2: _Em a confusão que se segue , <b>parte</b> um primeiro tiro , depois um segundo , e os dois homens caem a o mar ._
 * _caso_
-  * NOUN 94: _O PS foi o primeiro atingido por o <b>caso</b> :_
-  * SCONJ 17: _Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje pela_manhã_
+  * [NOUN]() 94: _O PS foi o primeiro atingido por o <b>caso</b> :_
+  * [SCONJ]() 17: _Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje pela_manhã_
 * _trabalho_
-  * NOUN 90: _Ida e volta de o domicílio a o <b>trabalho</b> ._
-  * VERB 1: _Basicamente , é o que tenho feito com os músicos com os_quais <b>trabalho</b> ._
+  * [NOUN]() 90: _Ida e volta de o domicílio a o <b>trabalho</b> ._
+  * [VERB]() 1: _Basicamente , é o que tenho feito com os músicos com os_quais <b>trabalho</b> ._
 * _final_
-  * NOUN 72: _Ainda_assim , em o <b>final</b> todos ficaram contentes ._
-  * ADJ 21: _« Talvez um quadrangular <b>final</b> , como fizeram em o campeonato de o Rio_de_Janeiro . »_
+  * [NOUN]() 72: _Ainda_assim , em o <b>final</b> todos ficaram contentes ._
+  * [ADJ]() 21: _« Talvez um quadrangular <b>final</b> , como fizeram em o campeonato de o Rio_de_Janeiro . »_
 * _poder_
-  * NOUN 59: _A televisão pode ter assim tanto <b>poder</b> ?_
-  * VERB 7: _P. -- Face_a os dados de que dispõe , continua a acreditar em <b>poder</b> alcançar a maioria absoluta ?_
-  * AUX 2: _« Os sócios vão <b>poder</b> criar lugares para os seus filhos praticarem desporto » ._
+  * [NOUN]() 59: _A televisão pode ter assim tanto <b>poder</b> ?_
+  * [VERB]() 7: _P. -- Face_a os dados de que dispõe , continua a acreditar em <b>poder</b> alcançar a maioria absoluta ?_
+  * [AUX]() 2: _« Os sócios vão <b>poder</b> criar lugares para os seus filhos praticarem desporto » ._
 * _política_
-  * NOUN 53: _R. -- Em estes casos , a boa <b>política</b> é que durma em casa ._
-  * ADJ 45: _« Eu tenho uma origem <b>política</b> ._
+  * [NOUN]() 53: _R. -- Em estes casos , a boa <b>política</b> é que durma em casa ._
+  * [ADJ]() 45: _« Eu tenho uma origem <b>política</b> ._
 * _partido_
-  * NOUN 47: _Em_cima_de a mesa , ainda a situação interna de o <b>partido</b> ._
-  * VERB 2: _Só poderia ter <b>partido</b> de uma cabeça de merda » ._
+  * [NOUN]() 47: _Em_cima_de a mesa , ainda a situação interna de o <b>partido</b> ._
+  * [VERB]() 2: _Só poderia ter <b>partido</b> de uma cabeça de merda » ._
 * _público_
-  * NOUN 47: _Desde_logo por_causa_de o grande afluxo de <b>público</b> ..._
-  * ADJ 30: _Em o fundo , uma indecente doação de o dinheiro <b>público</b> ._
+  * [NOUN]() 47: _Desde_logo por_causa_de o grande afluxo de <b>público</b> ..._
+  * [ADJ]() 30: _Em o fundo , uma indecente doação de o dinheiro <b>público</b> ._
 * _local_
-  * NOUN 43: _Depois , tornou- se <b>local</b> de convívio de a mais alta qualidade ._
-  * ADJ 27: _Quem quiser , vai em excursão até o resort <b>local</b> , Casa_de_Campo ._
+  * [NOUN]() 43: _Depois , tornou- se <b>local</b> de convívio de a mais alta qualidade ._
+  * [ADJ]() 27: _Quem quiser , vai em excursão até o resort <b>local</b> , Casa_de_Campo ._
 
 ## Morphology
 
@@ -689,36 +689,36 @@ Children of NOUN nodes belong to 16 different parts of speech: DET (27767; 28% t
 There are 822 `NUM` lemmas (4%), 827 `NUM` types (3%) and 4162 `NUM` tokens (2%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
-The 10 most frequent NUM lemmas: _um, dois, três, mil, quatro, cinco, 15, 30, seis, dez_
+The 10 most frequent `NUM` lemmas: _um, dois, três, mil, quatro, cinco, 15, 30, seis, dez_
 
-The 10 most frequent NUM types:  _um, dois, três, mil, uma, duas, quatro, cinco, 15, 30_
+The 10 most frequent `NUM` types:  _um, dois, três, mil, uma, duas, quatro, cinco, 15, 30_
 
-The 10 most frequent ambiguous lemmas: _um_ (DET 3137, NUM 371, PRON 22), _mil_ (NUM 187, NOUN 2), _1986_ (NUM 4, NOUN 1), _1._ (NUM 2, ADJ 1)
+The 10 most frequent ambiguous lemmas: _um_ ([DET]() 3137, [NUM]() 371, [PRON]() 22), _mil_ ([NUM]() 187, [NOUN]() 2), _1986_ ([NUM]() 4, [NOUN]() 1), _1._ ([NUM]() 2, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  _um_ (DET 1555, NUM 233, PRON 12), _mil_ (NUM 186, NOUN 2), _uma_ (DET 1392, NUM 136, PRON 6), _1986_ (NUM 4, NOUN 1), _1._ (NUM 2, ADJ 1), _O_ (DET 1063, PRON 19, NUM 1)
+The 10 most frequent ambiguous types:  _um_ ([DET]() 1555, [NUM]() 233, [PRON]() 12), _mil_ ([NUM]() 186, [NOUN]() 2), _uma_ ([DET]() 1392, [NUM]() 136, [PRON]() 6), _1986_ ([NUM]() 4, [NOUN]() 1), _1._ ([NUM]() 2, [ADJ]() 1), _O_ ([DET]() 1063, [PRON]() 19, [NUM]() 1)
 
 
 * _um_
-  * DET 1555: _« Foi <b>um</b> ato muito rigoroso ._
-  * NUM 233: _Cingapura acusa mais <b>um</b> americano_
-  * PRON 12: _mas existe em <b>um</b> outro , porque aí nunca assassinou a sua avó ._
+  * [DET]() 1555: _« Foi <b>um</b> ato muito rigoroso ._
+  * [NUM]() 233: _Cingapura acusa mais <b>um</b> americano_
+  * [PRON]() 12: _mas existe em <b>um</b> outro , porque aí nunca assassinou a sua avó ._
 * _mil_
-  * NUM 186: _A Jugoslávia tem 3 milhões , a Albânia 1,7 milhões e a Bulgária 800 <b>mil</b> ._
-  * NOUN 2: _O Benfica já conta , em este momento , com setenta <b>mil</b> sócios e sete <b>mil</b> praticantes ._
+  * [NUM]() 186: _A Jugoslávia tem 3 milhões , a Albânia 1,7 milhões e a Bulgária 800 <b>mil</b> ._
+  * [NOUN]() 2: _O Benfica já conta , em este momento , com setenta <b>mil</b> sócios e sete <b>mil</b> praticantes ._
 * _uma_
-  * DET 1392: _Não houve acordo para <b>uma</b> trégua durante a Copa ._
-  * NUM 136: _A dinâmica de o « debate » teve apenas <b>uma</b> utilidade :_
-  * PRON 6: _Eu podia ser <b>uma</b> drogada hoje , podia viver em a rua ._
+  * [DET]() 1392: _Não houve acordo para <b>uma</b> trégua durante a Copa ._
+  * [NUM]() 136: _A dinâmica de o « debate » teve apenas <b>uma</b> utilidade :_
+  * [PRON]() 6: _Eu podia ser <b>uma</b> drogada hoje , podia viver em a rua ._
 * _1986_
-  * NUM 4: _Foi colaborador de Pompidou , de 1969 até 1974 , depois administrou três empresas e , em <b>1986</b> , entrou em o parlamento como deputado de o RPR ._
-  * NOUN 1: _Parte significativa , mas não integral , de o seu reportório gravado para essa companhia foi reeditado em uma compilação temática de seis LP , primeiro editada por a CBS ( actual Sonny ) em <b>1986</b> ._
+  * [NUM]() 4: _Foi colaborador de Pompidou , de 1969 até 1974 , depois administrou três empresas e , em <b>1986</b> , entrou em o parlamento como deputado de o RPR ._
+  * [NOUN]() 1: _Parte significativa , mas não integral , de o seu reportório gravado para essa companhia foi reeditado em uma compilação temática de seis LP , primeiro editada por a CBS ( actual Sonny ) em <b>1986</b> ._
 * _1._
-  * NUM 2: _<b>1.</b> O PÚBLICO veio dar a a imprensa diária portuguesa uma nova dimensão e , por o seu aparecimento , obrigou os « grandes »" ( « JN »" e « DN »" ) a reformular a sua postura e também o seu grafismo ._
-  * ADJ 1: _<b>1.</b> Currículo com mais_de três páginas ._
+  * [NUM]() 2: _<b>1.</b> O PÚBLICO veio dar a a imprensa diária portuguesa uma nova dimensão e , por o seu aparecimento , obrigou os « grandes »" ( « JN »" e « DN »" ) a reformular a sua postura e também o seu grafismo ._
+  * [ADJ]() 1: _<b>1.</b> Currículo com mais_de três páginas ._
 * _O_
-  * DET 1063: _<b>O</b> homem fuma entre 11 e 20 cigarros por dia e a mulher , entre 5 e 10 ._
-  * PRON 19: _<b>O</b> outro esquivou- se delicadamente , mas convidou- o a subir a_bordo ._
-  * NUM 1: _O Santo_André perdeu por 2 a <b>O</b> para o Rio_Branco , de Americana , ontem a a tarde em o estádio Bruno_José_Daniel , em Santo_Andr ._
+  * [DET]() 1063: _<b>O</b> homem fuma entre 11 e 20 cigarros por dia e a mulher , entre 5 e 10 ._
+  * [PRON]() 19: _<b>O</b> outro esquivou- se delicadamente , mas convidou- o a subir a_bordo ._
+  * [NUM]() 1: _O Santo_André perdeu por 2 a <b>O</b> para o Rio_Branco , de Americana , ontem a a tarde em o estádio Bruno_José_Daniel , em Santo_Andr ._
 
 ## Morphology
 
@@ -762,9 +762,9 @@ Children of NUM nodes belong to 12 different parts of speech: ADP (703; 33% toke
 There are 5 `PART` lemmas (0%), 5 `PART` types (0%) and 5 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent PART lemmas: _anti-, ex, ex-, pré, pós_
+The 10 most frequent `PART` lemmas: _anti-, ex, ex-, pré, pós_
 
-The 10 most frequent PART types:  _anti-, ex, ex-, pré-, pós_
+The 10 most frequent `PART` types:  _anti-, ex, ex-, pré-, pós_
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -814,54 +814,54 @@ Children of PART nodes belong to 4 different parts of speech: NOUN (1; 25% token
 There are 82 `PRON` lemmas (0%), 143 `PRON` types (0%) and 7106 `PRON` tokens (3%).
 Out of 17 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent PRON lemmas: _que, se, ele, o, eu, o_que, ela, isso, quem, eles_
+The 10 most frequent `PRON` lemmas: _que, se, ele, o, eu, o_que, ela, isso, quem, eles_
 
-The 10 most frequent PRON types:  _que, se, o, ele, o_que, isso, os, quem, lhe, a_
+The 10 most frequent `PRON` types:  _que, se, o, ele, o_que, isso, os, quem, lhe, a_
 
-The 10 most frequent ambiguous lemmas: _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), _se_ (PRON 1428, SCONJ 261), _o_ (DET 26194, PRON 449, ADP 3, NOUN 1), _ela_ (PRON 170, NOUN 1), _quem_ (PRON 142, ADV 1), _tudo_ (PRON 93, DET 3), _outro_ (DET 266, PRON 85), _este_ (DET 580, PRON 82), _muito_ (ADV 191, DET 139, PRON 67), _nada_ (PRON 61, ADV 7, NOUN 3)
+The 10 most frequent ambiguous lemmas: _que_ ([PRON]() 2331, [SCONJ]() 1520, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1), _se_ ([PRON]() 1428, [SCONJ]() 261), _o_ ([DET]() 26194, [PRON]() 449, [ADP]() 3, [NOUN]() 1), _ela_ ([PRON]() 170, [NOUN]() 1), _quem_ ([PRON]() 142, [ADV]() 1), _tudo_ ([PRON]() 93, [DET]() 3), _outro_ ([DET]() 266, [PRON]() 85), _este_ ([DET]() 580, [PRON]() 82), _muito_ ([ADV]() 191, [DET]() 139, [PRON]() 67), _nada_ ([PRON]() 61, [ADV]() 7, [NOUN]() 3)
 
-The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), _se_ (PRON 1400, SCONJ 172), _o_ (DET 9656, PRON 351, NOUN 1), _os_ (DET 3088, PRON 135), _quem_ (PRON 110, ADV 1), _a_ (DET 9018, ADP 3487, PRON 126, ADV 1, PROPN 1), _ela_ (PRON 79, NOUN 1), _tudo_ (PRON 77, DET 3), _nada_ (PRON 57, ADV 4, NOUN 2), _as_ (DET 2119, PRON 53)
+The 10 most frequent ambiguous types:  _que_ ([PRON]() 2326, [SCONJ]() 1512, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1), _se_ ([PRON]() 1400, [SCONJ]() 172), _o_ ([DET]() 9656, [PRON]() 351, [NOUN]() 1), _os_ ([DET]() 3088, [PRON]() 135), _quem_ ([PRON]() 110, [ADV]() 1), _a_ ([DET]() 9018, [ADP]() 3487, [PRON]() 126, [ADV]() 1, [PROPN]() 1), _ela_ ([PRON]() 79, [NOUN]() 1), _tudo_ ([PRON]() 77, [DET]() 3), _nada_ ([PRON]() 57, [ADV]() 4, [NOUN]() 2), _as_ ([DET]() 2119, [PRON]() 53)
 
 
 * _que_
-  * PRON 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
-  * SCONJ 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
-  * ADV 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
-  * DET 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
-  * ADP 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
-  * X 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
+  * [PRON]() 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
+  * [SCONJ]() 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
+  * [ADV]() 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
+  * [DET]() 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
+  * [ADP]() 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
+  * [X]() 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
 * _se_
-  * PRON 1400: _O deputado <b>se</b> aproximou ._
-  * SCONJ 172: _« Senão ele vai ser alvo fácil de as críticas <b>se</b> o time perder . »_
+  * [PRON]() 1400: _O deputado <b>se</b> aproximou ._
+  * [SCONJ]() 172: _« Senão ele vai ser alvo fácil de as críticas <b>se</b> o time perder . »_
 * _o_
-  * DET 9656: _Audiência em a Justiça de <b>o</b> Pará discute diploma_
-  * PRON 351: _Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 ._
-  * NOUN 1: _« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel_Rodrigues , que é também presidente_da_Associação_Académica_da_Universidade_de_Aveiro ._
+  * [DET]() 9656: _Audiência em a Justiça de <b>o</b> Pará discute diploma_
+  * [PRON]() 351: _Após várias divergências com Fishel , Antinori <b>o</b> demitiu em 1990 ._
+  * [NOUN]() 1: _« Pretendemos definir com <b>o</b> máximo rigor os custos médios de cada estudante , conforme a região onde se encontra , pois actualmente não existem dados concretos sobre o assunto » , esclareceu Miguel_Rodrigues , que é também presidente_da_Associação_Académica_da_Universidade_de_Aveiro ._
 * _os_
-  * DET 3088: _De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres ._
-  * PRON 135: _Não sei em_relação_a <b>os</b> outros indiciados ._
+  * [DET]() 3088: _De <b>os</b> fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres ._
+  * [PRON]() 135: _Não sei em_relação_a <b>os</b> outros indiciados ._
 * _quem_
-  * PRON 110: _Saiba <b>quem</b> é Barrichello_
-  * ADV 1: _Em a disputa por o mercado de impressoras <b>quem</b> sai ganhando é o consumidor ._
+  * [PRON]() 110: _Saiba <b>quem</b> é Barrichello_
+  * [ADV]() 1: _Em a disputa por o mercado de impressoras <b>quem</b> sai ganhando é o consumidor ._
 * _a_
-  * DET 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
-  * ADP 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
-  * PRON 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
-  * ADV 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
-  * PROPN 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
+  * [DET]() 9018: _Audiência em <b>a</b> Justiça de o Pará discute diploma_
+  * [ADP]() 3487: _Dallari orientou os produtores <b>a</b> negociarem com a indústria ._
+  * [PRON]() 126: _Acabou a « America's_Cup » de 1992 , viva <b>a</b> de 1995 ._
+  * [ADV]() 1: _não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo_o processo nada tem <b>a</b> ver com Ciência , ao_contrário_de o que as máquinas de propaganda pretendem fazer crer ._
+  * [PROPN]() 1: _Agora vou para Nova_Iorque , onde relatarei <b>a</b> Butros-Ghali [ secretário-geral_da_ONU ] o_que aconteceu em os últimos dias » , afirmou antes de entrar apressadamente em o Mercedes preto , já com o motor a trabalhar ._
 * _ela_
-  * PRON 79: _-- E <b>ela</b> disse para passar um cheque ..._
-  * NOUN 1: _Tão tchans quanto <b>ela</b> , seu marido Eurico é o dono de uma coleção de restaurantes estrelados em o Rio ._
+  * [PRON]() 79: _-- E <b>ela</b> disse para passar um cheque ..._
+  * [NOUN]() 1: _Tão tchans quanto <b>ela</b> , seu marido Eurico é o dono de uma coleção de restaurantes estrelados em o Rio ._
 * _tudo_
-  * PRON 77: _Está <b>tudo</b> em a sua cabeça ._
-  * DET 3: _E eu sei que é <b>tudo</b> bofe mas parece <b>tudo</b> gay ._
+  * [PRON]() 77: _Está <b>tudo</b> em a sua cabeça ._
+  * [DET]() 3: _E eu sei que é <b>tudo</b> bofe mas parece <b>tudo</b> gay ._
 * _nada_
-  * PRON 57: _Miranda -- Em_relação_a mim isso não vai dar absolutamente em <b>nada</b> ._
-  * ADV 4: _Mas as coisas em Espanha não estão <b>nada</b> fáceis ._
-  * NOUN 2: _O encontro com a morte é o encontro com o <b>nada</b> absoluto --_
+  * [PRON]() 57: _Miranda -- Em_relação_a mim isso não vai dar absolutamente em <b>nada</b> ._
+  * [ADV]() 4: _Mas as coisas em Espanha não estão <b>nada</b> fáceis ._
+  * [NOUN]() 2: _O encontro com a morte é o encontro com o <b>nada</b> absoluto --_
 * _as_
-  * DET 2119: _Horário : em o dia 12 , de <b>as</b> 19h a o último cliente_
-  * PRON 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
+  * [DET]() 2119: _Horário : em o dia 12 , de <b>as</b> 19h a o último cliente_
+  * [PRON]() 53: _São <b>as</b> que procuraram o cinema fora_de o cenário ;_
 
 ## Morphology
 
@@ -905,45 +905,45 @@ Children of PRON nodes belong to 14 different parts of speech: ADP (824; 32% tok
 There are 7003 `PROPN` lemmas (35%), 7006 `PROPN` types (24%) and 11706 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent PROPN lemmas: _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, Público, Lisboa, Folha, Rio_
+The 10 most frequent `PROPN` lemmas: _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, Público, Lisboa, Folha, Rio_
 
-The 10 most frequent PROPN types:  _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio_
+The 10 most frequent `PROPN` types:  _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio_
 
-The 10 most frequent ambiguous lemmas: _PSDB_ (PROPN 16, NOUN 1), _PP_ (PROPN 15, NOUN 1), _flamengo_ (PROPN 1, ADJ 1), _Câmara_ (PROPN 12, NOUN 1), _Carnaval_ (PROPN 7, NOUN 1), _SME_ (PROPN 7, NOUN 1), _URV_ (PROPN 7, NOUN 2), _Congresso_ (PROPN 6, NOUN 1), _Estado_ (PROPN 5, NOUN 2), _datafolha_ (NOUN 2, PROPN 1)
+The 10 most frequent ambiguous lemmas: _PSDB_ ([PROPN]() 16, [NOUN]() 1), _PP_ ([PROPN]() 15, [NOUN]() 1), _flamengo_ ([PROPN]() 1, [ADJ]() 1), _Câmara_ ([PROPN]() 12, [NOUN]() 1), _Carnaval_ ([PROPN]() 7, [NOUN]() 1), _SME_ ([PROPN]() 7, [NOUN]() 1), _URV_ ([PROPN]() 7, [NOUN]() 2), _Congresso_ ([PROPN]() 6, [NOUN]() 1), _Estado_ ([PROPN]() 5, [NOUN]() 2), _datafolha_ ([NOUN]() 2, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  _Governo_ (PROPN 79, NOUN 6), _Folha_ (PROPN 48, NOUN 13), _PSDB_ (PROPN 17, NOUN 2), _PP_ (PROPN 15, NOUN 1), _Câmara_ (NOUN 17, PROPN 12), _Ira_ (PROPN 8, NOUN 1), _Setúbal_ (PROPN 8, NOUN 1), _URV_ (NOUN 24, PROPN 8), _CE_ (PROPN 7, NOUN 1), _Carnaval_ (NOUN 9, PROPN 7)
+The 10 most frequent ambiguous types:  _Governo_ ([PROPN]() 79, [NOUN]() 6), _Folha_ ([PROPN]() 48, [NOUN]() 13), _PSDB_ ([PROPN]() 17, [NOUN]() 2), _PP_ ([PROPN]() 15, [NOUN]() 1), _Câmara_ ([NOUN]() 17, [PROPN]() 12), _Ira_ ([PROPN]() 8, [NOUN]() 1), _Setúbal_ ([PROPN]() 8, [NOUN]() 1), _URV_ ([NOUN]() 24, [PROPN]() 8), _CE_ ([PROPN]() 7, [NOUN]() 1), _Carnaval_ ([NOUN]() 9, [PROPN]() 7)
 
 
 * _Governo_
-  * PROPN 79: _ANC insiste em um <b>Governo</b> de transição_
-  * NOUN 6: _Em o <b>Governo</b> , apesar_de a subida de o desemprego , continua a ser popular ._
+  * [PROPN]() 79: _ANC insiste em um <b>Governo</b> de transição_
+  * [NOUN]() 6: _Em o <b>Governo</b> , apesar_de a subida de o desemprego , continua a ser popular ._
 * _Folha_
-  * PROPN 48: _<b>Folha</b> -- o_que a mulher precisa hoje , em_termos_de roupas ?_
-  * NOUN 13: _Morre ex-fotógrafo de a <b>Folha</b>_
+  * [PROPN]() 48: _<b>Folha</b> -- o_que a mulher precisa hoje , em_termos_de roupas ?_
+  * [NOUN]() 13: _Morre ex-fotógrafo de a <b>Folha</b>_
 * _PSDB_
-  * PROPN 17: _Há uma esquerda reformista em o <b>PSDB</b> ._
-  * NOUN 2: _Em o PPR , a discussão será sobre a política de alianças e se ela inclui o <b>PSDB</b> , além_de os novos candidatos de o partido a presidente ._
+  * [PROPN]() 17: _Há uma esquerda reformista em o <b>PSDB</b> ._
+  * [NOUN]() 2: _Em o PPR , a discussão será sobre a política de alianças e se ela inclui o <b>PSDB</b> , além_de os novos candidatos de o partido a presidente ._
 * _PP_
-  * PROPN 15: _<b>PP</b> quer plena integração de a Espanha em a NATO_
-  * NOUN 1: _O tribunal anulou 108 votos de Nilton_Cerqueira ( federal , <b>PP</b> ) e 93 de Emir_Larangeira ( estadual , PFL ) em a 113ª zona ( Niterói ) ._
+  * [PROPN]() 15: _<b>PP</b> quer plena integração de a Espanha em a NATO_
+  * [NOUN]() 1: _O tribunal anulou 108 votos de Nilton_Cerqueira ( federal , <b>PP</b> ) e 93 de Emir_Larangeira ( estadual , PFL ) em a 113ª zona ( Niterói ) ._
 * _Câmara_
-  * NOUN 17: _Nenhuma audiência de os moradores foi pedida a a <b>Câmara</b> ._
-  * PROPN 12: _Metro contesta <b>Câmara</b>_
+  * [NOUN]() 17: _Nenhuma audiência de os moradores foi pedida a a <b>Câmara</b> ._
+  * [PROPN]() 12: _Metro contesta <b>Câmara</b>_
 * _Ira_
-  * PROPN 8: _<b>Ira</b> afirma que seus militantes mataram carteiro sem permissão_
-  * NOUN 1: _A versatilidade de o George como compositor só era igualada por a de <b>Ira</b> como letrista ._
+  * [PROPN]() 8: _<b>Ira</b> afirma que seus militantes mataram carteiro sem permissão_
+  * [NOUN]() 1: _A versatilidade de o George como compositor só era igualada por a de <b>Ira</b> como letrista ._
 * _Setúbal_
-  * PROPN 8: _Em 6 de Outubro , verá- se se estamos mesmo perante uma « débacle » comunista em <b>Setúbal</b> ._
-  * NOUN 1: _Em <b>Setúbal</b> , uma pequena obra prima_
+  * [PROPN]() 8: _Em 6 de Outubro , verá- se se estamos mesmo perante uma « débacle » comunista em <b>Setúbal</b> ._
+  * [NOUN]() 1: _Em <b>Setúbal</b> , uma pequena obra prima_
 * _URV_
-  * NOUN 24: _Isso significa que , tudo indo bem , a criação de a <b>URV</b> fica para março ._
-  * PROPN 8: _O governo vai usar a <b>URV</b> para corrigir impostos , garantiu FHC ._
+  * [NOUN]() 24: _Isso significa que , tudo indo bem , a criação de a <b>URV</b> fica para março ._
+  * [PROPN]() 8: _O governo vai usar a <b>URV</b> para corrigir impostos , garantiu FHC ._
 * _CE_
-  * PROPN 7: _Fisicamente , o povo mais belo de a <b>CE</b> ._
-  * NOUN 1: _Já assessores de o federalista Delors , que em dez anos em a presidência de a <b>CE</b> aumentou os poderes de o cargo e entrou em conflito com Margaret_Thatcher ( antecessora de Major ) , temem que a escolha de Santer sirva para enfraquecer os poderes de o presidente , o_que abriria caminho para o eixo Alemanha-França consolidar o seu domínio ._
+  * [PROPN]() 7: _Fisicamente , o povo mais belo de a <b>CE</b> ._
+  * [NOUN]() 1: _Já assessores de o federalista Delors , que em dez anos em a presidência de a <b>CE</b> aumentou os poderes de o cargo e entrou em conflito com Margaret_Thatcher ( antecessora de Major ) , temem que a escolha de Santer sirva para enfraquecer os poderes de o presidente , o_que abriria caminho para o eixo Alemanha-França consolidar o seu domínio ._
 * _Carnaval_
-  * NOUN 9: _Olha o <b>Carnaval</b> de salão !_
-  * PROPN 7: _Terça-feira de <b>Carnaval</b> : Cavaco não « dá » feriado_
+  * [NOUN]() 9: _Olha o <b>Carnaval</b> de salão !_
+  * [PROPN]() 7: _Terça-feira de <b>Carnaval</b> : Cavaco não « dá » feriado_
 
 ## Morphology
 
@@ -987,18 +987,18 @@ Children of PROPN nodes belong to 15 different parts of speech: ADP (5507; 28% t
 There are 24 `PUNCT` lemmas (0%), 24 `PUNCT` types (0%) and 29943 `PUNCT` tokens (14%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
-The 10 most frequent PUNCT lemmas: _,, ., «, », ), (, --, :, ?, ;_
+The 10 most frequent `PUNCT` lemmas: _,, ., «, », ), (, --, :, ?, ;_
 
-The 10 most frequent PUNCT types:  _,, ., «, », ), (, --, :, ?, ;_
+The 10 most frequent `PUNCT` types:  _,, ., «, », ), (, --, :, ?, ;_
 
-The 10 most frequent ambiguous lemmas: _/_ (PUNCT 23, CONJ 1)
+The 10 most frequent ambiguous lemmas: _/_ ([PUNCT]() 23, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  _/_ (PUNCT 23, CONJ 1)
+The 10 most frequent ambiguous types:  _/_ ([PUNCT]() 23, [CONJ]() 1)
 
 
 * _/_
-  * PUNCT 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
-  * CONJ 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
+  * [PUNCT]() 23: _Uma por a dupla BFE <b>/</b> Salomon_Brothers e outra por o BPI em associação com a UBS ( Union_des_Banques_Suisses ) ._
+  * [CONJ]() 1: _Apesar_de o grotesco de a situação , qualquer caloiro que procurasse saber de as diligências que necessita de efectuar para se inscrever em Ciências , deparava com uma longa lista de preceitos , intitulada « Aviso » e que explicava que todos_os colocados em a faculdade « em o ano lectivo de 1994 / 95 ( 1º ano <b>/</b> 1ª vez ) farão a sua matrícula por via postal ( correio registado ) » , a o_que se seguia uma listagem de os documentos a enviar ._
 
 ## Morphology
 
@@ -1032,51 +1032,51 @@ The highest child degree of a PUNCT node is 0.
 There are 34 `SCONJ` lemmas (0%), 34 `SCONJ` types (0%) and 2280 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
-The 10 most frequent SCONJ lemmas: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
+The 10 most frequent `SCONJ` lemmas: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
 
-The 10 most frequent SCONJ types:  _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
+The 10 most frequent `SCONJ` types:  _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
 
-The 10 most frequent ambiguous lemmas: _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1), _se_ (PRON 1428, SCONJ 261), _porque_ (SCONJ 164, ADV 11), _embora_ (SCONJ 60, ADV 3), _pois_ (SCONJ 40, ADV 12), _caso_ (NOUN 132, SCONJ 23), _como_ (ADV 565, ADP 80, SCONJ 9), _mesmo_que_ (SCONJ 3, ADV 2), _e_ (CONJ 4142, SCONJ 1), _por_ (ADP 1772, ADV 1, SCONJ 1)
+The 10 most frequent ambiguous lemmas: _que_ ([PRON]() 2331, [SCONJ]() 1520, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1), _se_ ([PRON]() 1428, [SCONJ]() 261), _porque_ ([SCONJ]() 164, [ADV]() 11), _embora_ ([SCONJ]() 60, [ADV]() 3), _pois_ ([SCONJ]() 40, [ADV]() 12), _caso_ ([NOUN]() 132, [SCONJ]() 23), _como_ ([ADV]() 565, [ADP]() 80, [SCONJ]() 9), _mesmo_que_ ([SCONJ]() 3, [ADV]() 2), _e_ ([CONJ]() 4142, [SCONJ]() 1), _por_ ([ADP]() 1772, [ADV]() 1, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1), _se_ (PRON 1400, SCONJ 172), _porque_ (SCONJ 149, ADV 8), _embora_ (SCONJ 45, ADV 3), _pois_ (SCONJ 40, ADV 11), _caso_ (NOUN 94, SCONJ 17), _como_ (ADV 538, ADP 56, SCONJ 2), _mesmo_que_ (SCONJ 3, ADV 2), _Senão_ (ADV 1, SCONJ 1), _e_ (CONJ 3975, ADP 1, SCONJ 1)
+The 10 most frequent ambiguous types:  _que_ ([PRON]() 2326, [SCONJ]() 1512, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1), _se_ ([PRON]() 1400, [SCONJ]() 172), _porque_ ([SCONJ]() 149, [ADV]() 8), _embora_ ([SCONJ]() 45, [ADV]() 3), _pois_ ([SCONJ]() 40, [ADV]() 11), _caso_ ([NOUN]() 94, [SCONJ]() 17), _como_ ([ADV]() 538, [ADP]() 56, [SCONJ]() 2), _mesmo_que_ ([SCONJ]() 3, [ADV]() 2), _Senão_ ([ADV]() 1, [SCONJ]() 1), _e_ ([CONJ]() 3975, [ADP]() 1, [SCONJ]() 1)
 
 
 * _que_
-  * PRON 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
-  * SCONJ 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
-  * ADV 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
-  * DET 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
-  * ADP 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
-  * X 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
+  * [PRON]() 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
+  * [SCONJ]() 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
+  * [ADV]() 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
+  * [DET]() 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
+  * [ADP]() 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
+  * [X]() 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
 * _se_
-  * PRON 1400: _O deputado <b>se</b> aproximou ._
-  * SCONJ 172: _« Senão ele vai ser alvo fácil de as críticas <b>se</b> o time perder . »_
+  * [PRON]() 1400: _O deputado <b>se</b> aproximou ._
+  * [SCONJ]() 172: _« Senão ele vai ser alvo fácil de as críticas <b>se</b> o time perder . »_
 * _porque_
-  * SCONJ 149: _O árbitro <b>porque</b> o terreno de jogo estava quase impraticável ._
-  * ADV 8: _Mas aceitei <b>porque</b> foi uma gentileza de o governador » , diz ._
+  * [SCONJ]() 149: _O árbitro <b>porque</b> o terreno de jogo estava quase impraticável ._
+  * [ADV]() 8: _Mas aceitei <b>porque</b> foi uma gentileza de o governador » , diz ._
 * _embora_
-  * SCONJ 45: _Como brasileira , espero que isso aconteça <b>embora</b> ache muito difícil_
-  * ADV 3: _Pegou em o papel e em a caneta e foi- se <b>embora</b> ._
+  * [SCONJ]() 45: _Como brasileira , espero que isso aconteça <b>embora</b> ache muito difícil_
+  * [ADV]() 3: _Pegou em o papel e em a caneta e foi- se <b>embora</b> ._
 * _pois_
-  * SCONJ 40: _A gente precisa de reciclagem em geografia , <b>pois</b> tudo muda muito rápido ._
-  * ADV 11: _Eu tolerei <b>pois</b> não quis me intrometer em a vida_privada de os meus funcionários » , disse Antinori , para quem Fishel era um excelente técnico ._
+  * [SCONJ]() 40: _A gente precisa de reciclagem em geografia , <b>pois</b> tudo muda muito rápido ._
+  * [ADV]() 11: _Eu tolerei <b>pois</b> não quis me intrometer em a vida_privada de os meus funcionários » , disse Antinori , para quem Fishel era um excelente técnico ._
 * _caso_
-  * NOUN 94: _O PS foi o primeiro atingido por o <b>caso</b> :_
-  * SCONJ 17: _Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje pela_manhã_
+  * [NOUN]() 94: _O PS foi o primeiro atingido por o <b>caso</b> :_
+  * [SCONJ]() 17: _Caio entra em o lugar de Catê , <b>caso</b> ele seja suspenso hoje pela_manhã_
 * _como_
-  * ADV 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
-  * ADP 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
-  * SCONJ 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
+  * [ADV]() 538: _Kim E sobre <b>como</b> eu fiquei totalmente nua o tempo todo ._
+  * [ADP]() 56: _« O senhor ministro interpretará esta sugestão <b>como</b> entender »" ._
+  * [SCONJ]() 2: _<b>como</b> se vê , trata- se de questões altamente perturbadoras ._
 * _mesmo_que_
-  * SCONJ 3: _Mas , <b>mesmo_que</b> quisessem não conseguiriam fazer nada « menor » ._
-  * ADV 2: _Poderá recorrer a elas , <b>mesmo_que</b> não estejam sediadas em Portugal ?_
+  * [SCONJ]() 3: _Mas , <b>mesmo_que</b> quisessem não conseguiriam fazer nada « menor » ._
+  * [ADV]() 2: _Poderá recorrer a elas , <b>mesmo_que</b> não estejam sediadas em Portugal ?_
 * _Senão_
-  * ADV 1: _« <b>Senão</b> ele vai ser alvo fácil de as críticas se o time perder . »_
-  * SCONJ 1: _<b>Senão</b> eu não ia mais conseguir discutir salário com ele sem me lembrar de o episódio e rir . »_
+  * [ADV]() 1: _« <b>Senão</b> ele vai ser alvo fácil de as críticas se o time perder . »_
+  * [SCONJ]() 1: _<b>Senão</b> eu não ia mais conseguir discutir salário com ele sem me lembrar de o episódio e rir . »_
 * _e_
-  * CONJ 3975: _De os fumantes , 18,1 milhões são homens <b>e</b> 12,5 milhões , mulheres ._
-  * ADP 1: _Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos ._
-  * SCONJ 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
+  * [CONJ]() 3975: _De os fumantes , 18,1 milhões são homens <b>e</b> 12,5 milhões , mulheres ._
+  * [ADP]() 1: _Mais tarde , os povos que aderiram <b>e</b> esta « derivação » serão duramente reprimidos ._
+  * [SCONJ]() 1: _A fechar o programa , a corrida de o Grupo_N foi totalmente dominada por Ni_Amorim ( Opel_Astra_GSi ) que cortou a meta com 4,936'' de avanço sobre Mário_Silva <b>e</b> 6,247'' sobre António_Rodrigues ( ambos em Peugeot_309_GTi_
 
 ## Morphology
 
@@ -1120,11 +1120,11 @@ Children of SCONJ nodes belong to 11 different parts of speech: NOUN (61; 48% to
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 179 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
 
-The 10 most frequent SYM lemmas: _%_
+The 10 most frequent `SYM` lemmas: _%_
 
-The 10 most frequent SYM types:  _%_
+The 10 most frequent `SYM` types:  _%_
 
-The 10 most frequent ambiguous lemmas: _%_ (SYM 179, NOUN 24)
+The 10 most frequent ambiguous lemmas: _%_ ([SYM]() 179, [NOUN]() 24)
 
 The 10 most frequent ambiguous types:  
 
@@ -1172,49 +1172,49 @@ Children of SYM nodes belong to 12 different parts of speech: NUM (181; 41% toke
 There are 1981 `VERB` lemmas (10%), 7717 `VERB` types (27%) and 25840 `VERB` tokens (12%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
-The 10 most frequent VERB lemmas: _ser, ter, estar, fazer, ir, dizer, poder, haver, passar, dever_
+The 10 most frequent `VERB` lemmas: _ser, ter, estar, fazer, ir, dizer, poder, haver, passar, dever_
 
-The 10 most frequent VERB types:  _é, foi, tem, está, são, ser, há, ter, disse, foram_
+The 10 most frequent `VERB` types:  _é, foi, tem, está, são, ser, há, ter, disse, foram_
 
-The 10 most frequent ambiguous lemmas: _ser_ (VERB 3277, AUX 308, ADV 6, NOUN 4), _ter_ (VERB 1232, AUX 34), _estar_ (VERB 827, AUX 8), _fazer_ (VERB 542, AUX 1), _ir_ (VERB 532, AUX 4), _dizer_ (VERB 504, NOUN 1, AUX 1), _poder_ (VERB 435, NOUN 68, AUX 2), _haver_ (VERB 389, ADP 1), _passar_ (VERB 286, AUX 6), _dever_ (VERB 261, NOUN 3)
+The 10 most frequent ambiguous lemmas: _ser_ ([VERB]() 3277, [AUX]() 308, [ADV]() 6, [NOUN]() 4), _ter_ ([VERB]() 1232, [AUX]() 34), _estar_ ([VERB]() 827, [AUX]() 8), _fazer_ ([VERB]() 542, [AUX]() 1), _ir_ ([VERB]() 532, [AUX]() 4), _dizer_ ([VERB]() 504, [NOUN]() 1, [AUX]() 1), _poder_ ([VERB]() 435, [NOUN]() 68, [AUX]() 2), _haver_ ([VERB]() 389, [ADP]() 1), _passar_ ([VERB]() 286, [AUX]() 6), _dever_ ([VERB]() 261, [NOUN]() 3)
 
-The 10 most frequent ambiguous types:  _é_ (VERB 1119, ADV 15, AUX 1), _foi_ (VERB 551, ADV 8), _está_ (VERB 303, AUX 1), _são_ (VERB 281, ADV 1, AUX 1), _ser_ (VERB 248, AUX 213, NOUN 3), _há_ (VERB 194, ADP 31), _ter_ (VERB 217, AUX 31), _era_ (VERB 152, NOUN 6, ADV 4), _fazer_ (VERB 130, AUX 1), _ver_ (VERB 75, AUX 1)
+The 10 most frequent ambiguous types:  _é_ ([VERB]() 1119, [ADV]() 15, [AUX]() 1), _foi_ ([VERB]() 551, [ADV]() 8), _está_ ([VERB]() 303, [AUX]() 1), _são_ ([VERB]() 281, [ADV]() 1, [AUX]() 1), _ser_ ([VERB]() 248, [AUX]() 213, [NOUN]() 3), _há_ ([VERB]() 194, [ADP]() 31), _ter_ ([VERB]() 217, [AUX]() 31), _era_ ([VERB]() 152, [NOUN]() 6, [ADV]() 4), _fazer_ ([VERB]() 130, [AUX]() 1), _ver_ ([VERB]() 75, [AUX]() 1)
 
 
 * _é_
-  * VERB 1119: _Conforto <b>é</b> fundamental ._
-  * ADV 15: _Mas <b>é</b> em a Republica_Dominicana que o cruzeiro atinge seu ponto alto ._
-  * AUX 1: _Romário <b>é</b> o mais votado por leitores_
+  * [VERB]() 1119: _Conforto <b>é</b> fundamental ._
+  * [ADV]() 15: _Mas <b>é</b> em a Republica_Dominicana que o cruzeiro atinge seu ponto alto ._
+  * [AUX]() 1: _Romário <b>é</b> o mais votado por leitores_
 * _foi_
-  * VERB 551: _A solução <b>foi</b> negociar diretamente com os jogadores ._
-  * ADV 8: _Por_acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »_
+  * [VERB]() 551: _A solução <b>foi</b> negociar diretamente com os jogadores ._
+  * [ADV]() 8: _Por_acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »_
 * _está_
-  * VERB 303: _Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores ._
-  * AUX 1: _O francês conseguiu dez ases em o encontro , contra 17 de o croata , que <b>está</b> perto_de atingir a incrível marca de mil ases este ano ._
+  * [VERB]() 303: _Diariamente , <b>está</b> promovendo desfiles de moda para seus consumidores ._
+  * [AUX]() 1: _O francês conseguiu dez ases em o encontro , contra 17 de o croata , que <b>está</b> perto_de atingir a incrível marca de mil ases este ano ._
 * _são_
-  * VERB 281: _De os fumantes , 18,1 milhões <b>são</b> homens e 12,5 milhões , mulheres ._
-  * ADV 1: _A vida continua com eles e <b>são</b> eles que vão ter saudade minhas --_
-  * AUX 1: _Em a transição para o real , <b>são</b> mais recomendados os fundos de renda fixa DI ( Depósito_Interfinanceiro ) ._
+  * [VERB]() 281: _De os fumantes , 18,1 milhões <b>são</b> homens e 12,5 milhões , mulheres ._
+  * [ADV]() 1: _A vida continua com eles e <b>são</b> eles que vão ter saudade minhas --_
+  * [AUX]() 1: _Em a transição para o real , <b>são</b> mais recomendados os fundos de renda fixa DI ( Depósito_Interfinanceiro ) ._
 * _ser_
-  * VERB 248: _« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »_
-  * AUX 213: _Em o projeto não há definição de quantos podem <b>ser</b> construídos ._
-  * NOUN 3: _Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio ._
+  * [VERB]() 248: _« Senão ele vai <b>ser</b> alvo fácil de as críticas se o time perder . »_
+  * [AUX]() 213: _Em o projeto não há definição de quantos podem <b>ser</b> construídos ._
+  * [NOUN]() 3: _Para a psiquiatra que o observa , um <b>ser</b> intrigante ; para a polícia , uma encarnação de o demónio ._
 * _há_
-  * VERB 194: _Já_não <b>há</b> o império de o mal para combater ._
-  * ADP 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
+  * [VERB]() 194: _Já_não <b>há</b> o império de o mal para combater ._
+  * [ADP]() 31: _Lambari_d'_Oeste ( 5.000 habitantes ) virou município <b>há</b> dois anos ._
 * _ter_
-  * VERB 217: _Vai <b>ter</b> paridade , já desde o começo » , explicou ._
-  * AUX 31: _« Me pergunto sempre quem podia <b>ter</b> sido aquele jovem alemão . »_
+  * [VERB]() 217: _Vai <b>ter</b> paridade , já desde o começo » , explicou ._
+  * [AUX]() 31: _« Me pergunto sempre quem podia <b>ter</b> sido aquele jovem alemão . »_
 * _era_
-  * VERB 152: _Um de eles <b>era</b> seu filho , Sérgio_Fioravanti ._
-  * NOUN 6: _Ele fechou um tempo de divergências para abrir uma <b>era</b> de convergências ._
-  * ADV 4: _Aliás , <b>era</b> contra as « terças-feiras » , propiciadoras de sugestivas « pontes » , que a lei governamental mais se batia ..._
+  * [VERB]() 152: _Um de eles <b>era</b> seu filho , Sérgio_Fioravanti ._
+  * [NOUN]() 6: _Ele fechou um tempo de divergências para abrir uma <b>era</b> de convergências ._
+  * [ADV]() 4: _Aliás , <b>era</b> contra as « terças-feiras » , propiciadoras de sugestivas « pontes » , que a lei governamental mais se batia ..._
 * _fazer_
-  * VERB 130: _A ser verdade , o Sporting continua a <b>fazer</b> negócios a a Cintra ._
-  * AUX 1: _« Se hoje tiver de <b>fazer</b> e dizer o que disse , não hesitarei » ._
+  * [VERB]() 130: _A ser verdade , o Sporting continua a <b>fazer</b> negócios a a Cintra ._
+  * [AUX]() 1: _« Se hoje tiver de <b>fazer</b> e dizer o que disse , não hesitarei » ._
 * _ver_
-  * VERB 75: _Lá vai Dolores_Faísca <b>ver</b> o_que se passa a a porta de o Nacofino ._
-  * AUX 1: _Podemos beber um copo , jogar gamão , damas , snooker , <b>ver</b> televisão , etc._
+  * [VERB]() 75: _Lá vai Dolores_Faísca <b>ver</b> o_que se passa a a porta de o Nacofino ._
+  * [AUX]() 1: _Podemos beber um copo , jogar gamão , damas , snooker , <b>ver</b> televisão , etc._
 
 ## Morphology
 
@@ -1258,22 +1258,22 @@ Children of VERB nodes belong to 15 different parts of speech: NOUN (20151; 29% 
 There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
 
-The 10 most frequent X lemmas: _???, que_
+The 10 most frequent `X` lemmas: _???, que_
 
-The 10 most frequent X types:  _(<predicate>), que_
+The 10 most frequent `X` types:  _(<predicate>), que_
 
-The 10 most frequent ambiguous lemmas: _???_ (PROPN 2, X 1), _que_ (PRON 2331, SCONJ 1520, ADV 90, DET 20, ADP 3, X 1)
+The 10 most frequent ambiguous lemmas: _???_ ([PROPN]() 2, [X]() 1), _que_ ([PRON]() 2331, [SCONJ]() 1520, [ADV]() 90, [DET]() 20, [ADP]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  _que_ (PRON 2326, SCONJ 1512, ADV 90, DET 18, ADP 3, X 1)
+The 10 most frequent ambiguous types:  _que_ ([PRON]() 2326, [SCONJ]() 1512, [ADV]() 90, [DET]() 18, [ADP]() 3, [X]() 1)
 
 
 * _que_
-  * PRON 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
-  * SCONJ 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
-  * ADV 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
-  * DET 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
-  * ADP 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
-  * X 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
+  * [PRON]() 2326: _Era uma época em <b>que</b> os cariocas imperavam em campo e fora_de ele ._
+  * [SCONJ]() 1512: _Mas o orçamento de US$ 5 milhões insinua <b>que</b> a informação não é séria ._
+  * [ADV]() 90: _Mas é em a Republica_Dominicana <b>que</b> o cruzeiro atinge seu ponto alto ._
+  * [DET]() 18: _Os marginalizados de o sistema de ensino : <b>que</b> solução ?_
+  * [ADP]() 3: _« Há <b>que</b> coordenar a acção de os diversos ministérios e municípios ._
+  * [X]() 1: _Escavou quanto quis , imediatamente atrás_de o muro que deitou abaixo para as máquinas poderem passar -- diz o autarca <b>que</b> com a promessa de , depois , reconstruir o muro ._
 
 ## Morphology
 
