@@ -63,11 +63,11 @@ The 2nd highest number of forms (9) was observed with the lemma “pequeno”: _
 
 The 3rd highest number of forms (8) was observed with the lemma “alto”: _alta, altas, alto, altos, altíssima, altíssimo, superior, superiores_
 
-ADJ occurs with 6 features: [pt-feat/Degree]() (353; 3% tokens), [pt-feat/Gender]() (10624; 99% tokens), [pt-feat/Hyph]() (1; 0% tokens), [pt-feat/NumType]() (791; 7% tokens), [pt-feat/Number]() (10698; 100% tokens), [pt-feat/Typo]() (6; 0% tokens)
+`ADJ` occurs with 6 features: [pt-feat/Degree]() (353; 3% tokens), [pt-feat/Gender]() (10624; 99% tokens), [pt-feat/Hyph]() (1; 0% tokens), [pt-feat/NumType]() (791; 7% tokens), [pt-feat/Number]() (10698; 100% tokens), [pt-feat/Typo]() (6; 0% tokens)
 
-ADJ occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`ADJ` occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-ADJ occurs with 31 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
+`ADJ` occurs with 31 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
 
 
 ## Relations
@@ -152,11 +152,11 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: _d', d
 
 The 3rd highest number of forms (2) was observed with the lemma “dentro_de”: _de, dentro_de_
 
-ADP occurs with 5 features: [pt-feat/AdpType]() (32396; 100% tokens), [pt-feat/Gender]() (2; 0% tokens), [pt-feat/Number]() (2; 0% tokens), [pt-feat/PronType]() (141; 0% tokens), [pt-feat/Typo]() (4; 0% tokens)
+`ADP` occurs with 5 features: [pt-feat/AdpType]() (32396; 100% tokens), [pt-feat/Gender]() (2; 0% tokens), [pt-feat/Number]() (2; 0% tokens), [pt-feat/PronType]() (141; 0% tokens), [pt-feat/Typo]() (4; 0% tokens)
 
-ADP occurs with 6 feature-value pairs: `AdpType=Prep`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `PronType=Rel`, `Typo=Yes`
+`ADP` occurs with 6 feature-value pairs: `AdpType=Prep`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `PronType=Rel`, `Typo=Yes`
 
-ADP occurs with 5 feature combinations. The most frequent feature combination is `AdpType=Prep` (32249 tokens, examples: _de, em, a, para, por, com, entre, sobre, sem, até_).
+`ADP` occurs with 5 feature combinations. The most frequent feature combination is `AdpType=Prep` (32249 tokens, examples: _de, em, a, para, por, com, entre, sobre, sem, até_).
 
 
 ## Relations
@@ -240,11 +240,11 @@ The 2nd highest number of forms (2) was observed with the lemma “bem”: _bem,
 
 The 3rd highest number of forms (2) was observed with the lemma “claramente”: _clara, claramente_
 
-ADV occurs with 6 features: [pt-feat/Degree]() (488; 5% tokens), [pt-feat/Gender]() (14; 0% tokens), [pt-feat/NumType]() (1307; 14% tokens), [pt-feat/Number]() (14; 0% tokens), [pt-feat/PronType]() (2352; 25% tokens), [pt-feat/Typo]() (3; 0% tokens)
+`ADV` occurs with 6 features: [pt-feat/Degree]() (488; 5% tokens), [pt-feat/Gender]() (14; 0% tokens), [pt-feat/NumType]() (1307; 14% tokens), [pt-feat/Number]() (14; 0% tokens), [pt-feat/PronType]() (2352; 25% tokens), [pt-feat/Typo]() (3; 0% tokens)
 
-ADV occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
+`ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
-ADV occurs with 16 feature combinations. The most frequent feature combination is `_` (7103 tokens, examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_).
+`ADV` occurs with 16 feature combinations. The most frequent feature combination is `_` (7103 tokens, examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_).
 
 
 ## Relations
@@ -323,11 +323,11 @@ The 2nd highest number of forms (4) was observed with the lemma “ter”: _te-,
 
 The 3rd highest number of forms (3) was observed with the lemma “estar”: _estado, estar, está_
 
-AUX occurs with 7 features: [pt-feat/Gender]() (32; 7% tokens), [pt-feat/Hyph]() (2; 0% tokens), [pt-feat/Mood]() (6; 1% tokens), [pt-feat/Number]() (40; 9% tokens), [pt-feat/Person]() (8; 2% tokens), [pt-feat/Tense]() (5; 1% tokens), [pt-feat/VerbForm]() (465; 100% tokens)
+`AUX` occurs with 7 features: [pt-feat/Gender]() (32; 7% tokens), [pt-feat/Hyph]() (2; 0% tokens), [pt-feat/Mood]() (6; 1% tokens), [pt-feat/Number]() (40; 9% tokens), [pt-feat/Person]() (8; 2% tokens), [pt-feat/Tense]() (5; 1% tokens), [pt-feat/VerbForm]() (465; 100% tokens)
 
-AUX occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-AUX occurs with 15 feature combinations. The most frequent feature combination is `VerbForm=Inf` (319 tokens, examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_).
+`AUX` occurs with 15 feature combinations. The most frequent feature combination is `VerbForm=Inf` (319 tokens, examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_).
 
 
 ## Relations
@@ -400,7 +400,7 @@ The 2nd highest number of forms (1) was observed with the lemma “&”: _&_
 
 The 3rd highest number of forms (1) was observed with the lemma “/”: _/_
 
-CONJ does not occur with any features.
+`CONJ` does not occur with any features.
 
 
 ## Relations
@@ -484,11 +484,11 @@ The 2nd highest number of forms (5) was observed with the lemma “muito”: _ma
 
 The 3rd highest number of forms (5) was observed with the lemma “o”: _a, as, o, o(s), os_
 
-DET occurs with 11 features: [pt-feat/Definite]() (29213; 88% tokens), [pt-feat/Degree]() (415; 1% tokens), [pt-feat/Gender]() (32013; 96% tokens), [pt-feat/NumType]() (1147; 3% tokens), [pt-feat/Number]() (33215; 100% tokens), [pt-feat/Number[psor]]() (1275; 4% tokens), [pt-feat/Person]() (1279; 4% tokens), [pt-feat/Poss]() (1279; 4% tokens), [pt-feat/PronType]() (32543; 98% tokens), [pt-feat/Reflex]() (560; 2% tokens), [pt-feat/Typo]() (3; 0% tokens)
+`DET` occurs with 11 features: [pt-feat/Definite]() (29213; 88% tokens), [pt-feat/Degree]() (415; 1% tokens), [pt-feat/Gender]() (32013; 96% tokens), [pt-feat/NumType]() (1147; 3% tokens), [pt-feat/Number]() (33215; 100% tokens), [pt-feat/Number[psor]]() (1275; 4% tokens), [pt-feat/Person]() (1279; 4% tokens), [pt-feat/Poss]() (1279; 4% tokens), [pt-feat/PronType]() (32543; 98% tokens), [pt-feat/Reflex]() (560; 2% tokens), [pt-feat/Typo]() (3; 0% tokens)
 
-DET occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
+`DET` occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-DET occurs with 90 feature combinations. The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10617 tokens, examples: _o, Os, a_).
+`DET` occurs with 90 feature combinations. The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10617 tokens, examples: _o, Os, a_).
 
 
 ## Relations
@@ -569,11 +569,11 @@ The 2nd highest number of forms (1) was observed with the lemma “BINGO”: _BI
 
 The 3rd highest number of forms (1) was observed with the lemma “Deus_me_livre”: _Deus_me_livre_
 
-INTJ occurs with 5 features: [pt-feat/Gender]() (3; 8% tokens), [pt-feat/Mood]() (1; 3% tokens), [pt-feat/Number]() (4; 10% tokens), [pt-feat/Person]() (1; 3% tokens), [pt-feat/Tense]() (1; 3% tokens)
+`INTJ` occurs with 5 features: [pt-feat/Gender]() (3; 8% tokens), [pt-feat/Mood]() (1; 3% tokens), [pt-feat/Number]() (4; 10% tokens), [pt-feat/Person]() (1; 3% tokens), [pt-feat/Tense]() (1; 3% tokens)
 
-INTJ occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Number=Sing`, `Person=3`, `Tense=Past`
+`INTJ` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Number=Sing`, `Person=3`, `Tense=Past`
 
-INTJ occurs with 4 feature combinations. The most frequent feature combination is `_` (36 tokens, examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_).
+`INTJ` occurs with 4 feature combinations. The most frequent feature combination is `_` (36 tokens, examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_).
 
 
 ## Relations
@@ -653,11 +653,11 @@ The 2nd highest number of forms (4) was observed with the lemma “proprietário
 
 The 3rd highest number of forms (3) was observed with the lemma “actor”: _actor, actores, actriz_
 
-NOUN occurs with 5 features: [pt-feat/Gender]() (39790; 100% tokens), [pt-feat/Hyph]() (4; 0% tokens), [pt-feat/NumType]() (4; 0% tokens), [pt-feat/Number]() (39878; 100% tokens), [pt-feat/Typo]() (8; 0% tokens)
+`NOUN` occurs with 5 features: [pt-feat/Gender]() (39790; 100% tokens), [pt-feat/Hyph]() (4; 0% tokens), [pt-feat/NumType]() (4; 0% tokens), [pt-feat/Number]() (39878; 100% tokens), [pt-feat/Typo]() (8; 0% tokens)
 
-NOUN occurs with 8 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`NOUN` occurs with 8 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-NOUN occurs with 17 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
+`NOUN` occurs with 17 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
 
 
 ## Relations
@@ -726,11 +726,11 @@ The 2nd highest number of forms (2) was observed with the lemma “83”: _83, 8
 
 The 3rd highest number of forms (2) was observed with the lemma “dois”: _dois, duas_
 
-NUM occurs with 4 features: [pt-feat/Gender]() (4110; 99% tokens), [pt-feat/NumType]() (4042; 97% tokens), [pt-feat/Number]() (4156; 100% tokens), [pt-feat/Typo]() (1; 0% tokens)
+`NUM` occurs with 4 features: [pt-feat/Gender]() (4110; 99% tokens), [pt-feat/NumType]() (4042; 97% tokens), [pt-feat/Number]() (4156; 100% tokens), [pt-feat/Typo]() (1; 0% tokens)
 
-NUM occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-NUM occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
+`NUM` occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
 
 
 ## Relations
@@ -778,11 +778,11 @@ The 2nd highest number of forms (1) was observed with the lemma “ex”: _ex_
 
 The 3rd highest number of forms (1) was observed with the lemma “ex-”: _ex-_
 
-PART occurs with 3 features: [pt-feat/Gender]() (1; 20% tokens), [pt-feat/Hyph]() (5; 100% tokens), [pt-feat/Number]() (1; 20% tokens)
+`PART` occurs with 3 features: [pt-feat/Gender]() (1; 20% tokens), [pt-feat/Hyph]() (5; 100% tokens), [pt-feat/Number]() (1; 20% tokens)
 
-PART occurs with 3 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Number=Sing`
+`PART` occurs with 3 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Number=Sing`
 
-PART occurs with 2 feature combinations. The most frequent feature combination is `Hyph=Yes` (4 tokens, examples: _anti-, ex, ex-, pré-_).
+`PART` occurs with 2 feature combinations. The most frequent feature combination is `Hyph=Yes` (4 tokens, examples: _anti-, ex, ex-, pré-_).
 
 
 ## Relations
@@ -869,11 +869,11 @@ The 2nd highest number of forms (7) was observed with the lemma “ela”: _a, e
 
 The 3rd highest number of forms (6) was observed with the lemma “se”: _s, se, se-, se-á, se-ão, si_
 
-PRON occurs with 15 features: [pt-feat/AdpType]() (1; 0% tokens), [pt-feat/Case]() (2726; 38% tokens), [pt-feat/Definite]() (273; 4% tokens), [pt-feat/Degree]() (120; 2% tokens), [pt-feat/Gender]() (6362; 90% tokens), [pt-feat/Hyph]() (13; 0% tokens), [pt-feat/NumType]() (458; 6% tokens), [pt-feat/Number]() (6735; 95% tokens), [pt-feat/Number[psor]]() (13; 0% tokens), [pt-feat/Person]() (2737; 39% tokens), [pt-feat/Poss]() (13; 0% tokens), [pt-feat/PrepCase]() (190; 3% tokens), [pt-feat/PronType]() (6890; 97% tokens), [pt-feat/Reflex]() (782; 11% tokens), [pt-feat/Typo]() (1; 0% tokens)
+`PRON` occurs with 15 features: [pt-feat/AdpType]() (1; 0% tokens), [pt-feat/Case]() (2726; 38% tokens), [pt-feat/Definite]() (273; 4% tokens), [pt-feat/Degree]() (120; 2% tokens), [pt-feat/Gender]() (6362; 90% tokens), [pt-feat/Hyph]() (13; 0% tokens), [pt-feat/NumType]() (458; 6% tokens), [pt-feat/Number]() (6735; 95% tokens), [pt-feat/Number[psor]]() (13; 0% tokens), [pt-feat/Person]() (2737; 39% tokens), [pt-feat/Poss]() (13; 0% tokens), [pt-feat/PrepCase]() (190; 3% tokens), [pt-feat/PronType]() (6890; 97% tokens), [pt-feat/Reflex]() (782; 11% tokens), [pt-feat/Typo]() (1; 0% tokens)
 
-PRON occurs with 32 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
+`PRON` occurs with 32 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-PRON occurs with 181 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
+`PRON` occurs with 181 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
 
 
 ## Relations
@@ -951,11 +951,11 @@ The 2nd highest number of forms (2) was observed with the lemma “Blind_Willie_
 
 The 3rd highest number of forms (2) was observed with the lemma “Campeonato_do_Mundo”: _Campenonato_do_Mundo, Campeonato_do_Mundo_
 
-PROPN occurs with 5 features: [pt-feat/Gender]() (11232; 96% tokens), [pt-feat/Hyph]() (7; 0% tokens), [pt-feat/NumType]() (1; 0% tokens), [pt-feat/Number]() (11682; 100% tokens), [pt-feat/Typo]() (2; 0% tokens)
+`PROPN` occurs with 5 features: [pt-feat/Gender]() (11232; 96% tokens), [pt-feat/Hyph]() (7; 0% tokens), [pt-feat/NumType]() (1; 0% tokens), [pt-feat/Number]() (11682; 100% tokens), [pt-feat/Typo]() (2; 0% tokens)
 
-PROPN occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`PROPN` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-PROPN occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
+`PROPN` occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
 
 
 ## Relations
@@ -1006,7 +1006,7 @@ The 2nd highest number of forms (1) was observed with the lemma “"”: _"_
 
 The 3rd highest number of forms (1) was observed with the lemma “"«”: _"«_
 
-PUNCT does not occur with any features.
+`PUNCT` does not occur with any features.
 
 
 ## Relations
@@ -1080,11 +1080,11 @@ The 2nd highest number of forms (1) was observed with the lemma “a_não_ser_qu
 
 The 3rd highest number of forms (1) was observed with the lemma “ainda_que”: _ainda_que_
 
-SCONJ occurs with 1 features: [pt-feat/PronType]() (1; 0% tokens)
+`SCONJ` occurs with 1 features: [pt-feat/PronType]() (1; 0% tokens)
 
-SCONJ occurs with 1 feature-value pairs: `PronType=Rel`
+`SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
 
-SCONJ occurs with 2 feature combinations. The most frequent feature combination is `_` (2279 tokens, examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_).
+`SCONJ` occurs with 2 feature combinations. The most frequent feature combination is `_` (2279 tokens, examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_).
 
 
 ## Relations
@@ -1128,11 +1128,11 @@ The form / lemma ratio of SYM is 1.000000 (the average of all parts of speech is
 
 The 1st highest number of forms (1) was observed with the lemma “%”: _%_
 
-SYM occurs with 2 features: [pt-feat/Gender]() (179; 100% tokens), [pt-feat/Number]() (179; 100% tokens)
+`SYM` occurs with 2 features: [pt-feat/Gender]() (179; 100% tokens), [pt-feat/Number]() (179; 100% tokens)
 
-SYM occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
+`SYM` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
 
-SYM occurs with 1 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens, examples: _%_).
+`SYM` occurs with 1 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens, examples: _%_).
 
 
 ## Relations
@@ -1214,11 +1214,11 @@ The 2nd highest number of forms (38) was observed with the lemma “fazer”: _f
 
 The 3rd highest number of forms (37) was observed with the lemma “ser”: _Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, seja-, sejam, sendo, sendo-, ser, ser-, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-_
 
-VERB occurs with 8 features: [pt-feat/Gender]() (4193; 16% tokens), [pt-feat/Hyph]() (609; 2% tokens), [pt-feat/Mood]() (15778; 61% tokens), [pt-feat/Number]() (20359; 79% tokens), [pt-feat/Person]() (16166; 63% tokens), [pt-feat/Tense]() (15432; 60% tokens), [pt-feat/Typo]() (10; 0% tokens), [pt-feat/VerbForm]() (25840; 100% tokens)
+`VERB` occurs with 8 features: [pt-feat/Gender]() (4193; 16% tokens), [pt-feat/Hyph]() (609; 2% tokens), [pt-feat/Mood]() (15778; 61% tokens), [pt-feat/Number]() (20359; 79% tokens), [pt-feat/Person]() (16166; 63% tokens), [pt-feat/Tense]() (15432; 60% tokens), [pt-feat/Typo]() (10; 0% tokens), [pt-feat/VerbForm]() (25840; 100% tokens)
 
-VERB occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`VERB` occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-VERB occurs with 103 feature combinations. The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
+`VERB` occurs with 103 feature combinations. The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
 
 
 ## Relations
@@ -1271,7 +1271,7 @@ The 1st highest number of forms (1) was observed with the lemma “???”: _(<pr
 
 The 2nd highest number of forms (1) was observed with the lemma “que”: _que_
 
-X does not occur with any features.
+`X` does not occur with any features.
 
 
 ## Relations
