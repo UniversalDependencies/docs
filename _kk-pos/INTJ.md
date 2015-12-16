@@ -4,5 +4,13 @@ title: 'INTJ'
 shortdef: 'interjection'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `INTJ`.
+An interjection is a word that is used most often as an exclamation or
+part of an exclamation.
+
+#### Examples
+
+* [kk] _жоқ_, "no", _иә_ "yes
+* [kk] _сәлем_, "hello"
+* [kk] _әлбетте_, "of course"
+* [kk] _аһ_ 
+

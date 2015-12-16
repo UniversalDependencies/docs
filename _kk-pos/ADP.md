@@ -4,5 +4,12 @@ title: 'ADP'
 shortdef: 'adposition'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADP`.
+Postpositions in Kazakh receive the tag `ADP`. We only consider
+postpositions to be those which govern a case and are not in 
+izafet construction with their complement.
+
+#### Examples
+
+* [kk] _дейін_ "until, up to", _кейін_ "after"
+* [kk] _ретінде_ "as", _бойынша_ "by"
+
