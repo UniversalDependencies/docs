@@ -8,8 +8,8 @@ This document is a placeholder for the language-specific documentation
 for `ADJ`.
 
 --------------------------------------------------------------------------------
-There are 2347 ADJ lemmas (12%), 3543 ADJ types (12%) and 10708 ADJ tokens (5%).
-Out of 17 observed tags, the rank of ADJ is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
+There are 2347 `ADJ` lemmas (12%), 3543 `ADJ` types (12%) and 10708 `ADJ` tokens (5%).
+Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent ADJ lemmas: _grande, novo, primeiro, bom, último, político, pequeno, próximo, segundo, público_
 
@@ -92,8 +92,8 @@ Children of ADJ nodes belong to 13 different parts of speech: VERB (1569; 20% to
 
 
 --------------------------------------------------------------------------------
-There are 161 ADP lemmas (1%), 163 ADP types (1%) and 32396 ADP tokens (15%).
-Out of 17 observed tags, the rank of ADP is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
+There are 161 `ADP` lemmas (1%), 163 `ADP` types (1%) and 32396 `ADP` tokens (15%).
+Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
 The 10 most frequent ADP lemmas: _de, em, a, para, por, com, entre, sobre, sem, até_
 
@@ -181,8 +181,8 @@ Children of ADP nodes belong to 13 different parts of speech: NOUN (31; 32% toke
 
 
 --------------------------------------------------------------------------------
-There are 768 ADV lemmas (4%), 772 ADV types (3%) and 9489 ADV tokens (4%).
-Out of 17 observed tags, the rank of ADV is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 768 `ADV` lemmas (4%), 772 `ADV` types (3%) and 9489 `ADV` tokens (4%).
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent ADV lemmas: _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
@@ -269,8 +269,8 @@ Children of ADV nodes belong to 12 different parts of speech: NOUN (729; 30% tok
 
 
 --------------------------------------------------------------------------------
-There are 68 AUX lemmas (0%), 83 AUX types (0%) and 465 AUX tokens (0%).
-Out of 17 observed tags, the rank of AUX is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
+There are 68 `AUX` lemmas (0%), 83 `AUX` types (0%) and 465 `AUX` tokens (0%).
+Out of 17 observed tags, the rank of `AUX` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
 
 The 10 most frequent AUX lemmas: _ser, ter, vir, continuar, estar, passar, acabar, ir, começar, converter_
 
@@ -352,8 +352,8 @@ Children of AUX nodes belong to 12 different parts of speech: VERB (371; 56% tok
 
 
 --------------------------------------------------------------------------------
-There are 12 CONJ lemmas (0%), 12 CONJ types (0%) and 5112 CONJ tokens (2%).
-Out of 17 observed tags, the rank of CONJ is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
+There are 12 `CONJ` lemmas (0%), 12 `CONJ` types (0%) and 5112 `CONJ` tokens (2%).
+Out of 17 observed tags, the rank of `CONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
 
 The 10 most frequent CONJ lemmas: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_
 
@@ -429,8 +429,8 @@ Children of CONJ nodes belong to 5 different parts of speech: PUNCT (17; 46% tok
 
 
 --------------------------------------------------------------------------------
-There are 53 DET lemmas (0%), 114 DET types (0%) and 33220 DET tokens (16%).
-Out of 17 observed tags, the rank of DET is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
+There are 53 `DET` lemmas (0%), 114 `DET` types (0%) and 33220 `DET` tokens (16%).
+Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent DET lemmas: _o, um, seu, este, outro, esse, algum, todo, muito, mesmo_
 
@@ -517,8 +517,8 @@ Children of DET nodes belong to 12 different parts of speech: ADP (112; 28% toke
 
 
 --------------------------------------------------------------------------------
-There are 27 INTJ lemmas (0%), 27 INTJ types (0%) and 40 INTJ tokens (0%).
-Out of 17 observed tags, the rank of INTJ is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
+There are 27 `INTJ` lemmas (0%), 27 `INTJ` types (0%) and 40 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
 The 10 most frequent INTJ lemmas: _não, rarará, Ah_bem, BINGO, Deus_me_livre, Meu_Deus, Taí, adeus, ai, alô_
 
@@ -602,8 +602,8 @@ Children of INTJ nodes belong to 7 different parts of speech: PUNCT (23; 72% tok
 
 
 --------------------------------------------------------------------------------
-There are 6787 NOUN lemmas (34%), 8618 NOUN types (30%) and 39892 NOUN tokens (19%).
-Out of 17 observed tags, the rank of NOUN is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
+There are 6787 `NOUN` lemmas (34%), 8618 `NOUN` types (30%) and 39892 `NOUN` tokens (19%).
+Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent NOUN lemmas: _ano, dia, milhão, país, empresa, pessoa, presidente, grupo, mês, US$_
 
@@ -686,8 +686,8 @@ Children of NOUN nodes belong to 16 different parts of speech: DET (27767; 28% t
 
 
 --------------------------------------------------------------------------------
-There are 822 NUM lemmas (4%), 827 NUM types (3%) and 4162 NUM tokens (2%).
-Out of 17 observed tags, the rank of NUM is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+There are 822 `NUM` lemmas (4%), 827 `NUM` types (3%) and 4162 `NUM` tokens (2%).
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent NUM lemmas: _um, dois, três, mil, quatro, cinco, 15, 30, seis, dez_
 
@@ -759,8 +759,8 @@ Children of NUM nodes belong to 12 different parts of speech: ADP (703; 33% toke
 
 
 --------------------------------------------------------------------------------
-There are 5 PART lemmas (0%), 5 PART types (0%) and 5 PART tokens (0%).
-Out of 17 observed tags, the rank of PART is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+There are 5 `PART` lemmas (0%), 5 `PART` types (0%) and 5 `PART` tokens (0%).
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent PART lemmas: _anti-, ex, ex-, pré, pós_
 
@@ -811,8 +811,8 @@ Children of PART nodes belong to 4 different parts of speech: NOUN (1; 25% token
 
 
 --------------------------------------------------------------------------------
-There are 82 PRON lemmas (0%), 143 PRON types (0%) and 7106 PRON tokens (3%).
-Out of 17 observed tags, the rank of PRON is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
+There are 82 `PRON` lemmas (0%), 143 `PRON` types (0%) and 7106 `PRON` tokens (3%).
+Out of 17 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent PRON lemmas: _que, se, ele, o, eu, o_que, ela, isso, quem, eles_
 
@@ -902,8 +902,8 @@ Children of PRON nodes belong to 14 different parts of speech: ADP (824; 32% tok
 
 
 --------------------------------------------------------------------------------
-There are 7003 PROPN lemmas (35%), 7006 PROPN types (24%) and 11706 PROPN tokens (6%).
-Out of 17 observed tags, the rank of PROPN is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 7003 `PROPN` lemmas (35%), 7006 `PROPN` types (24%) and 11706 `PROPN` tokens (6%).
+Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent PROPN lemmas: _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, Público, Lisboa, Folha, Rio_
 
@@ -984,8 +984,8 @@ Children of PROPN nodes belong to 15 different parts of speech: ADP (5507; 28% t
 
 
 --------------------------------------------------------------------------------
-There are 24 PUNCT lemmas (0%), 24 PUNCT types (0%) and 29943 PUNCT tokens (14%).
-Out of 17 observed tags, the rank of PUNCT is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
+There are 24 `PUNCT` lemmas (0%), 24 `PUNCT` types (0%) and 29943 `PUNCT` tokens (14%).
+Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
 The 10 most frequent PUNCT lemmas: _,, ., «, », ), (, --, :, ?, ;_
 
@@ -1029,8 +1029,8 @@ The highest child degree of a PUNCT node is 0.
 
 
 --------------------------------------------------------------------------------
-There are 34 SCONJ lemmas (0%), 34 SCONJ types (0%) and 2280 SCONJ tokens (1%).
-Out of 17 observed tags, the rank of SCONJ is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 34 `SCONJ` lemmas (0%), 34 `SCONJ` types (0%) and 2280 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent SCONJ lemmas: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
 
@@ -1117,8 +1117,8 @@ Children of SCONJ nodes belong to 11 different parts of speech: NOUN (61; 48% to
 
 
 --------------------------------------------------------------------------------
-There are 1 SYM lemmas (0%), 1 SYM types (0%) and 179 SYM tokens (0%).
-Out of 17 observed tags, the rank of SYM is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
+There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 179 `SYM` tokens (0%).
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
 
 The 10 most frequent SYM lemmas: _%_
 
@@ -1169,8 +1169,8 @@ Children of SYM nodes belong to 12 different parts of speech: NUM (181; 41% toke
 
 
 --------------------------------------------------------------------------------
-There are 1981 VERB lemmas (10%), 7717 VERB types (27%) and 25840 VERB tokens (12%).
-Out of 17 observed tags, the rank of VERB is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
+There are 1981 `VERB` lemmas (10%), 7717 `VERB` types (27%) and 25840 `VERB` tokens (12%).
+Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent VERB lemmas: _ser, ter, estar, fazer, ir, dizer, poder, haver, passar, dever_
 
@@ -1255,8 +1255,8 @@ Children of VERB nodes belong to 15 different parts of speech: NOUN (20151; 29% 
 
 
 --------------------------------------------------------------------------------
-There are 2 X lemmas (0%), 2 X types (0%) and 2 X tokens (0%).
-Out of 17 observed tags, the rank of X is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
+There are 2 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
 
 The 10 most frequent X lemmas: _???, que_
 
