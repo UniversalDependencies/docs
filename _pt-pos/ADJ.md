@@ -400,11 +400,7 @@ The 2nd highest number of forms (1) was observed with the lemma “&”: _&_
 
 The 3rd highest number of forms (1) was observed with the lemma “/”: _/_
 
-CONJ occurs with 0 features: 
-
-CONJ occurs with 0 feature-value pairs: 
-
-CONJ occurs with 1 feature combinations. The most frequent feature combination is `_` (5112 tokens, examples: _e, mas, ou, nem, quer, $/, mais, e/ou, &, /_).
+CONJ does not occur with any features.
 
 
 ## Relations
@@ -1010,11 +1006,7 @@ The 2nd highest number of forms (1) was observed with the lemma “"”: _"_
 
 The 3rd highest number of forms (1) was observed with the lemma “"«”: _"«_
 
-PUNCT occurs with 0 features: 
-
-PUNCT occurs with 0 feature-value pairs: 
-
-PUNCT occurs with 1 feature combinations. The most frequent feature combination is `_` (29943 tokens, examples: _,, ., «, », ), (, --, :, ?, ;_).
+PUNCT does not occur with any features.
 
 
 ## Relations
@@ -1135,10 +1127,6 @@ The 10 most frequent ambiguous types:
 The form / lemma ratio of SYM is 1.000000 (the average of all parts of speech is 1.441790).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: _%_
-
-The 2nd highest number of forms (0) was observed with the lemma “”: __
-
-The 3rd highest number of forms (0) was observed with the lemma “”: __
 
 SYM occurs with 2 features: [pt-feat/Gender]() (179; 100% tokens), [pt-feat/Number]() (179; 100% tokens)
 
@@ -1283,13 +1271,7 @@ The 1st highest number of forms (1) was observed with the lemma “???”: _(<pr
 
 The 2nd highest number of forms (1) was observed with the lemma “que”: _que_
 
-The 3rd highest number of forms (0) was observed with the lemma “”: __
-
-X occurs with 0 features: 
-
-X occurs with 0 feature-value pairs: 
-
-X occurs with 1 feature combinations. The most frequent feature combination is `_` (2 tokens, examples: _(<predicate>), que_).
+X does not occur with any features.
 
 
 ## Relations
