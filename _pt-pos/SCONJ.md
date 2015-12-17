@@ -9,6 +9,8 @@ for `SCONJ`.
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics
+
 There are 34 `SCONJ` lemmas (0%), 34 `SCONJ` types (0%) and 2280 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 

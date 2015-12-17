@@ -9,6 +9,8 @@ for `PUNCT`.
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics
+
 There are 24 `PUNCT` lemmas (0%), 24 `PUNCT` types (0%) and 29943 `PUNCT` tokens (14%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
 

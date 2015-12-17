@@ -9,6 +9,8 @@ for `PROPN`.
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics
+
 There are 7003 `PROPN` lemmas (35%), 7006 `PROPN` types (24%) and 11706 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
 

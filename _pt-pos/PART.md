@@ -9,6 +9,8 @@ for `PART`.
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics
+
 There are 5 `PART` lemmas (0%), 5 `PART` types (0%) and 5 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
