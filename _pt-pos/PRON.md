@@ -77,7 +77,9 @@ The 3rd highest number of forms (6) was observed with the lemma “se”: _s, se
 
 `PRON` occurs with 32 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Acc,Dat`, `Case=Acc,Nom`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Pre`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-`PRON` occurs with 181 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens, examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_).
+`PRON` occurs with 181 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Rel` (1212 tokens).
+Examples: _que, o_que, quem, o_qual, qual, quanto, Nada_do_que, cujo_
 
 
 ## Relations

@@ -70,7 +70,9 @@ The 3rd highest number of forms (8) was observed with the lemma “alto”: _alt
 
 `ADJ` occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`ADJ` occurs with 31 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (3548 tokens, examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_).
+`ADJ` occurs with 31 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (3548 tokens).
+Examples: _novo, grande, bom, próximo, único, nacional, responsável, político, mundial, possível_
 
 
 ## Relations

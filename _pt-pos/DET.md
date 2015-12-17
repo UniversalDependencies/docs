@@ -74,7 +74,9 @@ The 3rd highest number of forms (5) was observed with the lemma “o”: _a, as,
 
 `DET` occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-`DET` occurs with 90 feature combinations. The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10617 tokens, examples: _o, Os, a_).
+`DET` occurs with 90 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (10617 tokens).
+Examples: _o, Os, a_
 
 
 ## Relations

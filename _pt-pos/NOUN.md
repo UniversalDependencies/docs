@@ -70,7 +70,9 @@ The 3rd highest number of forms (3) was observed with the lemma “actor”: _ac
 
 `NOUN` occurs with 8 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`NOUN` occurs with 17 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (14398 tokens, examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_).
+`NOUN` occurs with 17 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (14398 tokens).
+Examples: _ano, dia, país, presidente, grupo, governo, estado, tempo, caso, mercado_
 
 
 ## Relations

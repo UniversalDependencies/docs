@@ -74,7 +74,9 @@ The 3rd highest number of forms (1) was observed with the lemma “ainda_que”:
 
 `SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
 
-`SCONJ` occurs with 2 feature combinations. The most frequent feature combination is `_` (2279 tokens, examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_).
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2279 tokens).
+Examples: _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
 
 
 ## Relations

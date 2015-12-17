@@ -71,7 +71,9 @@ The 3rd highest number of forms (1) was observed with the lemma “Deus_me_livre
 
 `INTJ` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Number=Sing`, `Person=3`, `Tense=Past`
 
-`INTJ` occurs with 4 feature combinations. The most frequent feature combination is `_` (36 tokens, examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_).
+`INTJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (36 tokens).
+Examples: _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_
 
 
 ## Relations

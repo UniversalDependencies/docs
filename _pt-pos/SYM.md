@@ -34,7 +34,9 @@ The 1st highest number of forms (1) was observed with the lemma “%”: _%_
 
 `SYM` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
 
-`SYM` occurs with 1 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens, examples: _%_).
+`SYM` occurs with 1 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens).
+Examples: _%_
 
 
 ## Relations

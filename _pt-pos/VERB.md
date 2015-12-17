@@ -72,7 +72,9 @@ The 3rd highest number of forms (37) was observed with the lemma “ser”: _Sê
 
 `VERB` occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`VERB` occurs with 103 feature combinations. The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5445 tokens, examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_).
+`VERB` occurs with 103 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5445 tokens).
+Examples: _é, tem, está, há, vai, pode, diz, deve, faz, continua_
 
 
 ## Relations

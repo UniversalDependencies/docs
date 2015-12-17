@@ -68,7 +68,9 @@ The 3rd highest number of forms (2) was observed with the lemma “Campeonato_do
 
 `PROPN` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`PROPN` occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Sing` (7242 tokens, examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_).
+`PROPN` occurs with 13 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (7242 tokens).
+Examples: _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Rio, Porto, FHC, Benfica, PT_
 
 
 ## Relations

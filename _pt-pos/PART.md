@@ -38,7 +38,9 @@ The 3rd highest number of forms (1) was observed with the lemma “ex-”: _ex-_
 
 `PART` occurs with 3 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Number=Sing`
 
-`PART` occurs with 2 feature combinations. The most frequent feature combination is `Hyph=Yes` (4 tokens, examples: _anti-, ex, ex-, pré-_).
+`PART` occurs with 2 feature combinations.
+The most frequent feature combination is `Hyph=Yes` (4 tokens).
+Examples: _anti-, ex, ex-, pré-_
 
 
 ## Relations

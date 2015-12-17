@@ -72,7 +72,9 @@ The 3rd highest number of forms (3) was observed with the lemma “estar”: _es
 
 `AUX` occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 15 feature combinations. The most frequent feature combination is `VerbForm=Inf` (319 tokens, examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_).
+`AUX` occurs with 15 feature combinations.
+The most frequent feature combination is `VerbForm=Inf` (319 tokens).
+Examples: _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_
 
 
 ## Relations

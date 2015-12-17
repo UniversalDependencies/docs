@@ -75,7 +75,9 @@ The 3rd highest number of forms (2) was observed with the lemma “dentro_de”:
 
 `ADP` occurs with 6 feature-value pairs: `AdpType=Prep`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `PronType=Rel`, `Typo=Yes`
 
-`ADP` occurs with 5 feature combinations. The most frequent feature combination is `AdpType=Prep` (32249 tokens, examples: _de, em, a, para, por, com, entre, sobre, sem, até_).
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `AdpType=Prep` (32249 tokens).
+Examples: _de, em, a, para, por, com, entre, sobre, sem, até_
 
 
 ## Relations

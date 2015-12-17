@@ -74,7 +74,9 @@ The 3rd highest number of forms (2) was observed with the lemma “claramente”
 
 `ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 16 feature combinations. The most frequent feature combination is `_` (7103 tokens, examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_).
+`ADV` occurs with 16 feature combinations.
+The most frequent feature combination is `_` (7103 tokens).
+Examples: _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_
 
 
 ## Relations

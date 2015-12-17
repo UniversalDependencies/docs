@@ -59,7 +59,9 @@ The 3rd highest number of forms (2) was observed with the lemma “dois”: _doi
 
 `NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`NUM` occurs with 13 feature combinations. The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2601 tokens, examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_).
+`NUM` occurs with 13 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Plur|NumType=Card` (2601 tokens).
+Examples: _dois, mil, três, quatro, cinco, 15, 30, 20, dez, seis_
 
 
 ## Relations
