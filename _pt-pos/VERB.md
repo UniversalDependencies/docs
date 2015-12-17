@@ -68,7 +68,7 @@ The 2nd highest number of forms (38) was observed with the lemma “fazer”: _f
 
 The 3rd highest number of forms (37) was observed with the lemma “ser”: _Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, seja-, sejam, sendo, sendo-, ser, ser-, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é, é-_
 
-`VERB` occurs with 8 features: [pt-feat/Gender]() (4193; 16% tokens), [pt-feat/Hyph]() (609; 2% tokens), [pt-feat/Mood]() (15778; 61% tokens), [pt-feat/Number]() (20359; 79% tokens), [pt-feat/Person]() (16166; 63% tokens), [pt-feat/Tense]() (15432; 60% tokens), [pt-feat/Typo]() (10; 0% tokens), [pt-feat/VerbForm]() (25840; 100% tokens)
+`VERB` occurs with 8 features: [pt-feat/VerbForm]() (25840; 100% tokens), [pt-feat/Number]() (20359; 79% tokens), [pt-feat/Person]() (16166; 63% tokens), [pt-feat/Mood]() (15778; 61% tokens), [pt-feat/Tense]() (15432; 60% tokens), [pt-feat/Gender]() (4193; 16% tokens), [pt-feat/Hyph]() (609; 2% tokens), [pt-feat/Typo]() (10; 0% tokens)
 
 `VERB` occurs with 25 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=1,3`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Imp,Pqp`, `Tense=Past`, `Tense=Past,Pres`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 

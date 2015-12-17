@@ -66,7 +66,7 @@ The 2nd highest number of forms (4) was observed with the lemma “proprietário
 
 The 3rd highest number of forms (3) was observed with the lemma “actor”: _actor, actores, actriz_
 
-`NOUN` occurs with 5 features: [pt-feat/Gender]() (39790; 100% tokens), [pt-feat/Hyph]() (4; 0% tokens), [pt-feat/NumType]() (4; 0% tokens), [pt-feat/Number]() (39878; 100% tokens), [pt-feat/Typo]() (8; 0% tokens)
+`NOUN` occurs with 5 features: [pt-feat/Number]() (39878; 100% tokens), [pt-feat/Gender]() (39790; 100% tokens), [pt-feat/Typo]() (8; 0% tokens), [pt-feat/NumType]() (4; 0% tokens), [pt-feat/Hyph]() (4; 0% tokens)
 
 `NOUN` occurs with 8 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 

@@ -55,7 +55,7 @@ The 2nd highest number of forms (2) was observed with the lemma “83”: _83, 8
 
 The 3rd highest number of forms (2) was observed with the lemma “dois”: _dois, duas_
 
-`NUM` occurs with 4 features: [pt-feat/Gender]() (4110; 99% tokens), [pt-feat/NumType]() (4042; 97% tokens), [pt-feat/Number]() (4156; 100% tokens), [pt-feat/Typo]() (1; 0% tokens)
+`NUM` occurs with 4 features: [pt-feat/Number]() (4156; 100% tokens), [pt-feat/Gender]() (4110; 99% tokens), [pt-feat/NumType]() (4042; 97% tokens), [pt-feat/Typo]() (1; 0% tokens)
 
 `NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 

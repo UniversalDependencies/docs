@@ -66,7 +66,7 @@ The 2nd highest number of forms (9) was observed with the lemma “pequeno”: _
 
 The 3rd highest number of forms (8) was observed with the lemma “alto”: _alta, altas, alto, altos, altíssima, altíssimo, superior, superiores_
 
-`ADJ` occurs with 6 features: [pt-feat/Degree]() (353; 3% tokens), [pt-feat/Gender]() (10624; 99% tokens), [pt-feat/Hyph]() (1; 0% tokens), [pt-feat/NumType]() (791; 7% tokens), [pt-feat/Number]() (10698; 100% tokens), [pt-feat/Typo]() (6; 0% tokens)
+`ADJ` occurs with 6 features: [pt-feat/Number]() (10698; 100% tokens), [pt-feat/Gender]() (10624; 99% tokens), [pt-feat/NumType]() (791; 7% tokens), [pt-feat/Degree]() (353; 3% tokens), [pt-feat/Typo]() (6; 0% tokens), [pt-feat/Hyph]() (1; 0% tokens)
 
 `ADJ` occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 

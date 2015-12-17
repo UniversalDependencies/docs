@@ -70,7 +70,7 @@ The 2nd highest number of forms (2) was observed with the lemma “bem”: _bem,
 
 The 3rd highest number of forms (2) was observed with the lemma “claramente”: _clara, claramente_
 
-`ADV` occurs with 6 features: [pt-feat/Degree]() (488; 5% tokens), [pt-feat/Gender]() (14; 0% tokens), [pt-feat/NumType]() (1307; 14% tokens), [pt-feat/Number]() (14; 0% tokens), [pt-feat/PronType]() (2352; 25% tokens), [pt-feat/Typo]() (3; 0% tokens)
+`ADV` occurs with 6 features: [pt-feat/PronType]() (2352; 25% tokens), [pt-feat/NumType]() (1307; 14% tokens), [pt-feat/Degree]() (488; 5% tokens), [pt-feat/Number]() (14; 0% tokens), [pt-feat/Gender]() (14; 0% tokens), [pt-feat/Typo]() (3; 0% tokens)
 
 `ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 

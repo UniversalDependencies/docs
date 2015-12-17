@@ -64,7 +64,7 @@ The 2nd highest number of forms (2) was observed with the lemma “Blind_Willie_
 
 The 3rd highest number of forms (2) was observed with the lemma “Campeonato_do_Mundo”: _Campenonato_do_Mundo, Campeonato_do_Mundo_
 
-`PROPN` occurs with 5 features: [pt-feat/Gender]() (11232; 96% tokens), [pt-feat/Hyph]() (7; 0% tokens), [pt-feat/NumType]() (1; 0% tokens), [pt-feat/Number]() (11682; 100% tokens), [pt-feat/Typo]() (2; 0% tokens)
+`PROPN` occurs with 5 features: [pt-feat/Number]() (11682; 100% tokens), [pt-feat/Gender]() (11232; 96% tokens), [pt-feat/Hyph]() (7; 0% tokens), [pt-feat/Typo]() (2; 0% tokens), [pt-feat/NumType]() (1; 0% tokens)
 
 `PROPN` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 

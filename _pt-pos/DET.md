@@ -70,7 +70,7 @@ The 2nd highest number of forms (5) was observed with the lemma “muito”: _ma
 
 The 3rd highest number of forms (5) was observed with the lemma “o”: _a, as, o, o(s), os_
 
-`DET` occurs with 11 features: [pt-feat/Definite]() (29213; 88% tokens), [pt-feat/Degree]() (415; 1% tokens), [pt-feat/Gender]() (32013; 96% tokens), [pt-feat/NumType]() (1147; 3% tokens), [pt-feat/Number]() (33215; 100% tokens), [pt-feat/Number[psor]]() (1275; 4% tokens), [pt-feat/Person]() (1279; 4% tokens), [pt-feat/Poss]() (1279; 4% tokens), [pt-feat/PronType]() (32543; 98% tokens), [pt-feat/Reflex]() (560; 2% tokens), [pt-feat/Typo]() (3; 0% tokens)
+`DET` occurs with 11 features: [pt-feat/Number]() (33215; 100% tokens), [pt-feat/PronType]() (32543; 98% tokens), [pt-feat/Gender]() (32013; 96% tokens), [pt-feat/Definite]() (29213; 88% tokens), [pt-feat/Poss]() (1279; 4% tokens), [pt-feat/Person]() (1279; 4% tokens), [pt-feat/Number[psor]]() (1275; 4% tokens), [pt-feat/NumType]() (1147; 3% tokens), [pt-feat/Reflex]() (560; 2% tokens), [pt-feat/Degree]() (415; 1% tokens), [pt-feat/Typo]() (3; 0% tokens)
 
 `DET` occurs with 23 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind,Neg,Tot`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 

@@ -68,7 +68,7 @@ The 2nd highest number of forms (4) was observed with the lemma “ter”: _te-,
 
 The 3rd highest number of forms (3) was observed with the lemma “estar”: _estado, estar, está_
 
-`AUX` occurs with 7 features: [pt-feat/Gender]() (32; 7% tokens), [pt-feat/Hyph]() (2; 0% tokens), [pt-feat/Mood]() (6; 1% tokens), [pt-feat/Number]() (40; 9% tokens), [pt-feat/Person]() (8; 2% tokens), [pt-feat/Tense]() (5; 1% tokens), [pt-feat/VerbForm]() (465; 100% tokens)
+`AUX` occurs with 7 features: [pt-feat/VerbForm]() (465; 100% tokens), [pt-feat/Number]() (40; 9% tokens), [pt-feat/Gender]() (32; 7% tokens), [pt-feat/Person]() (8; 2% tokens), [pt-feat/Mood]() (6; 1% tokens), [pt-feat/Tense]() (5; 1% tokens), [pt-feat/Hyph]() (2; 0% tokens)
 
 `AUX` occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 

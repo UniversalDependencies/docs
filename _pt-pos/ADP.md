@@ -71,7 +71,7 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: _d', d
 
 The 3rd highest number of forms (2) was observed with the lemma “dentro_de”: _de, dentro_de_
 
-`ADP` occurs with 5 features: [pt-feat/AdpType]() (32396; 100% tokens), [pt-feat/Gender]() (2; 0% tokens), [pt-feat/Number]() (2; 0% tokens), [pt-feat/PronType]() (141; 0% tokens), [pt-feat/Typo]() (4; 0% tokens)
+`ADP` occurs with 5 features: [pt-feat/AdpType]() (32396; 100% tokens), [pt-feat/PronType]() (141; 0% tokens), [pt-feat/Typo]() (4; 0% tokens), [pt-feat/Number]() (2; 0% tokens), [pt-feat/Gender]() (2; 0% tokens)
 
 `ADP` occurs with 6 feature-value pairs: `AdpType=Prep`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `PronType=Rel`, `Typo=Yes`
 

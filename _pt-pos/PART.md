@@ -34,7 +34,7 @@ The 2nd highest number of forms (1) was observed with the lemma “ex”: _ex_
 
 The 3rd highest number of forms (1) was observed with the lemma “ex-”: _ex-_
 
-`PART` occurs with 3 features: [pt-feat/Gender]() (1; 20% tokens), [pt-feat/Hyph]() (5; 100% tokens), [pt-feat/Number]() (1; 20% tokens)
+`PART` occurs with 3 features: [pt-feat/Hyph]() (5; 100% tokens), [pt-feat/Number]() (1; 20% tokens), [pt-feat/Gender]() (1; 20% tokens)
 
 `PART` occurs with 3 feature-value pairs: `Gender=Masc`, `Hyph=Yes`, `Number=Sing`
 

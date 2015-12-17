@@ -67,7 +67,7 @@ The 2nd highest number of forms (1) was observed with the lemma “BINGO”: _BI
 
 The 3rd highest number of forms (1) was observed with the lemma “Deus_me_livre”: _Deus_me_livre_
 
-`INTJ` occurs with 5 features: [pt-feat/Gender]() (3; 8% tokens), [pt-feat/Mood]() (1; 3% tokens), [pt-feat/Number]() (4; 10% tokens), [pt-feat/Person]() (1; 3% tokens), [pt-feat/Tense]() (1; 3% tokens)
+`INTJ` occurs with 5 features: [pt-feat/Number]() (4; 10% tokens), [pt-feat/Gender]() (3; 8% tokens), [pt-feat/Mood]() (1; 3% tokens), [pt-feat/Person]() (1; 3% tokens), [pt-feat/Tense]() (1; 3% tokens)
 
 `INTJ` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Number=Sing`, `Person=3`, `Tense=Past`
 

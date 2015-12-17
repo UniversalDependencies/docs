@@ -30,7 +30,7 @@ The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech 
 
 The 1st highest number of forms (1) was observed with the lemma “%”: _%_
 
-`SYM` occurs with 2 features: [pt-feat/Gender]() (179; 100% tokens), [pt-feat/Number]() (179; 100% tokens)
+`SYM` occurs with 2 features: [pt-feat/Number]() (179; 100% tokens), [pt-feat/Gender]() (179; 100% tokens)
 
 `SYM` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
 
