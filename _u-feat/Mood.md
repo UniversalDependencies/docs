@@ -40,8 +40,8 @@ tenses (past and present).
 
 #### Examples
 
-* [cs] _Kdy <b>bych</b> byl chytrý, studoval <b>bych</b> na
-  univerzitě._ "If I were smart I <b>would</b> study at the
+* [cs] <i>Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
+  univerzitě.</i> "If I were smart I <b>would</b> study at the
   university" (note that only the auxiliary _bych_ is specific to
   conditional; the active participle _byl_ is also needed to
   analytically form the conditional mood, however, it will only be
@@ -62,8 +62,8 @@ conditional meaning.
 
 #### Examples
 
-* [fr] _Je veux que tu le <b>fasses</b> "I want you to do it" lit. _I
-  want that you it do.Sub_
+* [fr] <i>Je veux que tu le <b>fasses</b></i> "I want you to do it" lit. <i>I
+  want that you it do</i><tt>.Sub</tt>
 
 ### `Jus`: jussive
 
