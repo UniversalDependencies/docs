@@ -75,12 +75,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>Acc</tt></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Dat</tt></th><th><tt>Nom</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nos</i></td><td></td><td><i>nós</i></td><td><i>nos</i></td><td><i>nós</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Person=3|PronType=Prs</tt></td><td><i>nos</i></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nós</i></td><td></td><td><i>nós</i></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nos, nós</i></td><td></td><td><i>nós</i></td><td><i>nos, nos*</i></td><td><i>nós</i></td></tr>
-  <tr><td><tt>Number=Plur|Person=1|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td><i>nos</i></td><td></td><td><i>nos, no</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Person=1</tt></td><td><i>nos</i></td><td></td><td><i>nós</i></td><td><i>nos</i></td><td><i>nós</i></td></tr>
+  <tr><td><tt>Gender=Masc|Person=1|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Person=3</tt></td><td><i>nos</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Person=1</tt></td><td><i>nós</i></td><td></td><td><i>nós</i></td><td></td><td></td></tr>
+  <tr><td><tt>Person=1</tt></td><td><i>nos, nós</i></td><td></td><td><i>nós</i></td><td><i>nos, nos*</i></td><td><i>nós</i></td></tr>
+  <tr><td><tt>Person=1|Reflex=Yes</tt></td><td><i>nos</i></td><td><i>nos</i></td><td></td><td><i>nos, no</i></td><td></td></tr>
 </table>
 
 
@@ -143,9 +143,9 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>Def</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>um</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art</tt></td><td></td><td><i>uma</i></td></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td></td><td><i>um</i></td></tr>
+  <tr><td><tt>Gender=Masc|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
+  <tr><td><tt>Gender=Fem|PronType=Art</tt></td><td></td><td><i>uma</i></td></tr>
 </table>
 
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>melhor</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><i>melhor</i></td><td><i>melhor</i></td></tr>
+  <tr><td><tt></tt></td><td><i>melhor</i></td><td><i>melhor</i></td></tr>
 </table>
 
 ### `DET`
@@ -291,7 +291,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 <table>
   <tr><th>Paradigm <i>Coimbra</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>Coimbra</i></td><td><i>Coimbra</i></td></tr>
+  <tr><td><tt></tt></td><td><i>Coimbra</i></td><td><i>Coimbra</i></td></tr>
 </table>
 
 ### `ADJ`
@@ -308,7 +308,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>populoso</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>populosa</i></td><td><i>populoso</i></td></tr>
+  <tr><td><tt></tt></td><td><i>populosa</i></td><td><i>populoso</i></td></tr>
 </table>
 
 ### `PRON`
@@ -345,8 +345,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>contactar</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Number=Sing|VerbForm=Part</tt></td><td><i>Contactada</i></td><td><i>Contactado</i></td></tr>
-  <tr><td><tt>Number=Plur|VerbForm=Part</tt></td><td></td><td><i>contactados</i></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>Contactada</i></td><td><i>Contactado</i></td></tr>
+  <tr><td><tt>Number=Plur</tt></td><td></td><td><i>contactados</i></td></tr>
 </table>
 
 ### `NUM`
@@ -363,7 +363,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>350</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Number=Plur|NumType=Card</tt></td><td><i>350</i></td><td><i>350</i></td></tr>
+  <tr><td><tt></tt></td><td><i>350</i></td><td><i>350</i></td></tr>
 </table>
 
 ### `SYM`
@@ -390,7 +390,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>converter</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Number=Plur|VerbForm=Part</tt></td><td><i>convertidas</i></td><td><i>convertidas</i></td></tr>
+  <tr><td><tt></tt></td><td><i>convertidas</i></td><td><i>convertidas</i></td></tr>
 </table>
 
 ### `ADV`
@@ -638,7 +638,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>relator</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>relatores</i></td><td><i>relator</i></td></tr>
+  <tr><td><tt></tt></td><td><i>relatores</i></td><td><i>relator</i></td></tr>
 </table>
 
 ### `DET`
@@ -673,8 +673,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>derivar</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td></td><td><i>derivava</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>derivam</i></td><td></td></tr>
+  <tr><td><tt>Tense=Imp</tt></td><td></td><td><i>derivava</i></td></tr>
+  <tr><td><tt>Tense=Pres</tt></td><td><i>derivam</i></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -691,7 +691,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 <table>
   <tr><th>Paradigm <i>Black</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>Black</i></td><td><i>Black</i></td></tr>
+  <tr><td><tt></tt></td><td><i>Black</i></td><td><i>Black</i></td></tr>
 </table>
 
 ### `ADJ`
@@ -708,7 +708,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>incapaz</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>incapazes</i></td><td><i>incapaz</i></td></tr>
+  <tr><td><tt></tt></td><td><i>incapazes</i></td><td><i>incapaz</i></td></tr>
 </table>
 
 ### `PRON`
@@ -747,7 +747,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>84</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc|NumType=Card</tt></td><td><i>84</i></td><td><i>84</i></td></tr>
+  <tr><td><tt></tt></td><td><i>84</i></td><td><i>84</i></td></tr>
 </table>
 
 ### `SYM`
@@ -792,7 +792,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>mais</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>mais</i></td><td><i>mais</i></td></tr>
+  <tr><td><tt></tt></td><td><i>mais</i></td><td><i>mais</i></td></tr>
 </table>
 
 ### `INTJ`
@@ -853,19 +853,19 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 <table>
   <tr><th>Paradigm <i>meu</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>meu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</tt></td><td><i>nossos</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>seus, seu</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>meus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>minha</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>seu, sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua, seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>sua</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>minhas</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>suas</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1</tt></td><td></td><td><i>meu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1</tt></td><td><i>nossos</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Reflex=Yes</tt></td><td><i>seus, seu</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1</tt></td><td></td><td><i>meus</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1</tt></td><td></td><td><i>minha</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>seu, sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>sua, seus</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Reflex=Yes</tt></td><td><i>sua</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1</tt></td><td></td><td><i>minhas</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
 </table>
 
 ### `PRON`
@@ -1039,22 +1039,22 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>Case=Acc,Dat|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|Gender=Masc|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|Gender=Fem|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td><i>nos</i></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Masc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Fem|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Gender=Masc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Number=Plur|PronType=Prs</tt></td><td><i>nos, nos*</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos, no</i></td><td></td></tr>
-  <tr><td><tt>Case=Nom|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Nom|Number=Plur|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Dat|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|Gender=Masc|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|Gender=Fem|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Masc</tt></td><td><i>nos</i></td><td><i>nos</i></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Masc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Fem|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Gender=Masc</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Gender=Masc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat</tt></td><td><i>nos, nos*</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Reflex=Yes</tt></td><td><i>nos, no</i></td><td></td></tr>
+  <tr><td><tt>Case=Nom|Gender=Masc</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Nom</tt></td><td><i>nós</i></td><td></td></tr>
 </table>
 
 ### `DET`
@@ -1072,17 +1072,17 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>meu</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>meu</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs</tt></td><td><i>nossos</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus, seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>meus</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>minha</i></td><td><i>seu, sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua, seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>minhas</i></td><td><i>suas</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing</tt></td><td><i>meu</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur</tt></td><td><i>nossos</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Reflex=Yes</tt></td><td></td><td><i>seus, seu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing</tt></td><td><i>meus</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing</tt></td><td><i>minha</i></td><td><i>seu, sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>sua, seus</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing</tt></td><td><i>minhas</i></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
 </table>
 
 ### `AUX`
@@ -1365,15 +1365,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>conseguir</i></th><th><tt>Fut</tt></th><th><tt>Imp</tt></th><th><tt>Imp,Pqp</tt></th><th><tt>Past</tt></th><th><tt>Past,Pres</tt></th><th><tt>Pqp</tt></th><th><tt>Pres</tt></th></tr>
-  <tr><td><tt>Hyph=Yes|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><i>consegue-</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1,3|VerbForm=Fin</tt></td><td></td><td></td><td></td><td></td><td></td><td><i>conseguira</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|VerbForm=Fin</tt></td><td></td><td><i>conseguia</i></td><td></td><td><i>consegui</i></td><td></td><td></td><td><i>consigo</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>consegui</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</tt></td><td><i>conseguirá</i></td><td><i>conseguia</i></td><td></td><td><i>conseguiu</i></td><td></td><td></td><td><i>consegue</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td></td><td><i>conseguimos</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|VerbForm=Fin</tt></td><td><i>conseguirão</i></td><td><i>conseguiam</i></td><td><i>conseguiram</i></td><td><i>conseguiram</i></td><td></td><td></td><td><i>conseguem</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</tt></td><td><i>conseguir</i></td><td><i>conseguisse</i></td><td></td><td></td><td></td><td></td><td><i>consiga</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Person=3|VerbForm=Fin</tt></td><td><i>conseguirem</i></td><td></td><td></td><td></td><td></td><td></td><td><i>consigam</i></td></tr>
+  <tr><td><tt>Hyph=Yes|Mood=Ind|Number=Sing|Person=3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><i>consegue-</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=1,3</tt></td><td></td><td></td><td></td><td></td><td></td><td><i>conseguira</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=1</tt></td><td></td><td><i>conseguia</i></td><td></td><td><i>consegui</i></td><td></td><td></td><td><i>consigo</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Typo=Yes</tt></td><td></td><td></td><td></td><td><i>consegui</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3</tt></td><td><i>conseguirá</i></td><td><i>conseguia</i></td><td></td><td><i>conseguiu</i></td><td></td><td></td><td><i>consegue</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=1</tt></td><td></td><td></td><td></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td></td><td><i>conseguimos</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=3</tt></td><td><i>conseguirão</i></td><td><i>conseguiam</i></td><td><i>conseguiram</i></td><td><i>conseguiram</i></td><td></td><td></td><td><i>conseguem</i></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Sing|Person=3</tt></td><td><i>conseguir</i></td><td><i>conseguisse</i></td><td></td><td></td><td></td><td></td><td><i>consiga</i></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Plur|Person=3</tt></td><td><i>conseguirem</i></td><td></td><td></td><td></td><td></td><td></td><td><i>consigam</i></td></tr>
 </table>
 
 ### `AUX`
