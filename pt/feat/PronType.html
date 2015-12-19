@@ -62,7 +62,7 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/ADP</a> (32396
 <p><code>ADP</code> tokens may have the following values of <code>AdpType</code>:</p>
 
 <ul>
-  <li><code>Prep</code> (32396; 100%): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
+  <li><code>Prep</code> (32396; 100% of non-empty <code>AdpType</code>): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
 </ul>
 
 <p><code>AdpType</code> seems to be <strong>lexical feature</strong> of <code>ADP</code>. 100% lemmas (161) occur only with one value of <code>AdpType</code>.</p>
@@ -76,8 +76,12 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/ADP</a> (32396
 <p><code>PRON</code> tokens may have the following values of <code>AdpType</code>:</p>
 
 <ul>
-  <li><code>Prep</code> (1; 100%): <em>mais_de</em></li>
+  <li><code>Prep</code> (1; 100% of non-empty <code>AdpType</code>): <em>mais_de</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-adptype">Relations with Agreement in <code>AdpType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>AdpType</code>: <code>ADP --[cc]--&gt; ADP</code> (9; 100%), <code>ADP --[conj]--&gt; ADP</code> (5; 100%), <code>ADP --[case]--&gt; ADP</code> (2; 100%).</p>
 
 <hr />
 
@@ -103,11 +107,11 @@ The feature is used with 1 part-of-speech tags: <a href="">pt-pos/PRON</a> (2726
 <p><code>PRON</code> tokens may have the following values of <code>Case</code>:</p>
 
 <ul>
-  <li><code>Acc</code> (1894; 69%): <em>se, o, me, a, nos, lo, os, la, ele, eles</em></li>
-  <li><code>Acc,Dat</code> (4; 0%): <em>nos, se</em></li>
-  <li><code>Acc,Nom</code> (71; 3%): <em>ele, ela, eles, nós, elas, você</em></li>
-  <li><code>Dat</code> (227; 8%): <em>lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no</em></li>
-  <li><code>Nom</code> (530; 19%): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em></li>
+  <li><code>Acc</code> (1894; 69% of non-empty <code>Case</code>): <em>se, o, me, a, nos, lo, os, la, ele, eles</em></li>
+  <li><code>Acc,Dat</code> (4; 0% of non-empty <code>Case</code>): <em>nos, se</em></li>
+  <li><code>Acc,Nom</code> (71; 3% of non-empty <code>Case</code>): <em>ele, ela, eles, nós, elas, você</em></li>
+  <li><code>Dat</code> (227; 8% of non-empty <code>Case</code>): <em>lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no</em></li>
+  <li><code>Nom</code> (530; 19% of non-empty <code>Case</code>): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em></li>
   <li><code>EMPTY</code> (4380): <em>que, o, o_que, isso, quem, os, tudo, a, nada, isto</em></li>
 </ul>
 
@@ -120,6 +124,10 @@ The feature is used with 1 part-of-speech tags: <a href="">pt-pos/PRON</a> (2726
   <tr><td><tt>Person=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos, nós</i></td><td><i>nos, nos*</i></td></tr>
   <tr><td><tt>Person=1|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td><i>nos, no</i></td></tr>
 </table>
+
+<h2 id="relations-with-agreement-in-case">Relations with Agreement in <code>Case</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Case</code>: <code>PRON --[conj]--&gt; PRON</code> (5; 100%).</p>
 
 <hr />
 
@@ -144,8 +152,8 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
 <p><code>DET</code> tokens may have the following values of <code>Definite</code>:</p>
 
 <ul>
-  <li><code>Def</code> (26125; 89%): <em>o, a, os, as, o(s)</em></li>
-  <li><code>Ind</code> (3088; 11%): <em>um, uma, o</em></li>
+  <li><code>Def</code> (26125; 89% of non-empty <code>Definite</code>): <em>o, a, os, as, o(s)</em></li>
+  <li><code>Ind</code> (3088; 11% of non-empty <code>Definite</code>): <em>um, uma, o</em></li>
   <li><code>EMPTY</code> (4007): <em>sua, seu, este, esta, seus, suas, esse, qualquer, outros, mais</em></li>
 </ul>
 
@@ -176,8 +184,8 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
 <p><code>PRON</code> tokens may have the following values of <code>Definite</code>:</p>
 
 <ul>
-  <li><code>Def</code> (258; 95%): <em>o, os, a, as, O_que, um</em></li>
-  <li><code>Ind</code> (15; 5%): <em>um, uma</em></li>
+  <li><code>Def</code> (258; 95% of non-empty <code>Definite</code>): <em>o, os, a, as, O_que, um</em></li>
+  <li><code>Ind</code> (15; 5% of non-empty <code>Definite</code>): <em>um, uma</em></li>
   <li><code>EMPTY</code> (6833): <em>que, se, ele, o, o_que, isso, quem, lhe, eles, eu</em></li>
 </ul>
 
@@ -187,6 +195,10 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
   <tr><td><tt>Gender=Masc|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
   <tr><td><tt>Gender=Fem|PronType=Art</tt></td><td><i>uma</i></td><td></td></tr>
 </table>
+
+<h2 id="relations-with-agreement-in-definite">Relations with Agreement in <code>Definite</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Definite</code>: <code>DET --[conj]--&gt; PRON</code> (2; 100%).</p>
 
 <hr />
 
@@ -211,8 +223,8 @@ The feature is used with 4 part-of-speech tags: <a href="">pt-pos/ADV</a> (488; 
 <p><code>ADV</code> tokens may have the following values of <code>Degree</code>:</p>
 
 <ul>
-  <li><code>Cmp</code> (479; 98%): <em>mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos</em></li>
-  <li><code>Sup</code> (9; 2%): <em>melhor, Pior</em></li>
+  <li><code>Cmp</code> (479; 98% of non-empty <code>Degree</code>): <em>mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos</em></li>
+  <li><code>Sup</code> (9; 2% of non-empty <code>Degree</code>): <em>melhor, Pior</em></li>
   <li><code>EMPTY</code> (9001): <em>não, como, também, já, ontem, ainda, quando, só, depois, muito</em></li>
 </ul>
 
@@ -232,8 +244,8 @@ The feature is used with 4 part-of-speech tags: <a href="">pt-pos/ADV</a> (488; 
 <p><code>DET</code> tokens may have the following values of <code>Degree</code>:</p>
 
 <ul>
-  <li><code>Cmp</code> (414; 100%): <em>outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais</em></li>
-  <li><code>Sup</code> (1; 0%): <em>muitíssimo</em></li>
+  <li><code>Cmp</code> (414; 100% of non-empty <code>Degree</code>): <em>outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais</em></li>
+  <li><code>Sup</code> (1; 0% of non-empty <code>Degree</code>): <em>muitíssimo</em></li>
   <li><code>EMPTY</code> (32805): <em>o, a, os, as, um, uma, sua, seu, este, esta</em></li>
 </ul>
 
@@ -246,8 +258,8 @@ The feature is used with 4 part-of-speech tags: <a href="">pt-pos/ADV</a> (488; 
 <p><code>ADJ</code> tokens may have the following values of <code>Degree</code>:</p>
 
 <ul>
-  <li><code>Cmp</code> (203; 58%): <em>maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores</em></li>
-  <li><code>Sup</code> (150; 42%): <em>melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo</em></li>
+  <li><code>Cmp</code> (203; 58% of non-empty <code>Degree</code>): <em>maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores</em></li>
+  <li><code>Sup</code> (150; 42% of non-empty <code>Degree</code>): <em>melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo</em></li>
   <li><code>EMPTY</code> (10355): <em>primeiro, novo, primeira, grande, nova, grandes, último, nacional, última, segundo</em></li>
 </ul>
 
@@ -268,9 +280,13 @@ The feature is used with 4 part-of-speech tags: <a href="">pt-pos/ADV</a> (488; 
 <p><code>PRON</code> tokens may have the following values of <code>Degree</code>:</p>
 
 <ul>
-  <li><code>Cmp</code> (120; 100%): <em>outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto</em></li>
+  <li><code>Cmp</code> (120; 100% of non-empty <code>Degree</code>): <em>outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto</em></li>
   <li><code>EMPTY</code> (6986): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-degree">Relations with Agreement in <code>Degree</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Degree</code>: <code>PRON --[conj]--&gt; ADJ</code> (1; 100%).</p>
 
 <hr />
 
@@ -295,8 +311,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>NOUN</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (18125; 46%): <em>pessoas, parte, semana, empresa, empresas, cidade, forma, vida, casa, noite</em></li>
-  <li><code>Masc</code> (21665; 54%): <em>anos, milhões, ano, dia, país, US$, presidente, contos, por_cento, grupo</em></li>
+  <li><code>Fem</code> (18125; 46% of non-empty <code>Gender</code>): <em>pessoas, parte, semana, empresa, empresas, cidade, forma, vida, casa, noite</em></li>
+  <li><code>Masc</code> (21665; 54% of non-empty <code>Gender</code>): <em>anos, milhões, ano, dia, país, US$, presidente, contos, por_cento, grupo</em></li>
   <li><code>EMPTY</code> (102): <em>especialistas, representantes, jornalistas, habitantes, estudantes, presidente, visitantes, alevitas, artistas, clientes</em></li>
 </ul>
 
@@ -318,8 +334,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>DET</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (14144; 44%): <em>a, as, uma, sua, esta, suas, essa, outras, algumas, mesma</em></li>
-  <li><code>Masc</code> (17869; 56%): <em>o, os, um, seu, este, seus, esse, outros, alguns, mesmo</em></li>
+  <li><code>Fem</code> (14144; 44% of non-empty <code>Gender</code>): <em>a, as, uma, sua, esta, suas, essa, outras, algumas, mesma</em></li>
+  <li><code>Masc</code> (17869; 56% of non-empty <code>Gender</code>): <em>o, os, um, seu, este, seus, esse, outros, alguns, mesmo</em></li>
   <li><code>EMPTY</code> (1207): <em>a, as, mais, cada, qualquer, menos, o</em></li>
 </ul>
 
@@ -350,8 +366,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>PROPN</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (3663; 33%): <em>Lisboa, Folha, Alemanha, França, Espanha, Europa, Rússia, Itália, Internet, Bósnia</em></li>
-  <li><code>Masc</code> (7569; 67%): <em>Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Rio, Porto, FHC</em></li>
+  <li><code>Fem</code> (3663; 33% of non-empty <code>Gender</code>): <em>Lisboa, Folha, Alemanha, França, Espanha, Europa, Rússia, Itália, Internet, Bósnia</em></li>
+  <li><code>Masc</code> (7569; 67% of non-empty <code>Gender</code>): <em>Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Rio, Porto, FHC</em></li>
   <li><code>EMPTY</code> (474): <em>Coimbra, Alvalade, Sagres, Barcelos, Ermesinde, Maastricht, Setúbal, Sines, Aveiro, Braga</em></li>
 </ul>
 
@@ -371,8 +387,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>ADJ</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (4775; 45%): <em>primeira, nova, maior, grande, última, segunda, boa, política, novas, próxima</em></li>
-  <li><code>Masc</code> (5849; 55%): <em>primeiro, novo, último, segundo, últimos, maior, grande, novos, bom, próximo</em></li>
+  <li><code>Fem</code> (4775; 45% of non-empty <code>Gender</code>): <em>primeira, nova, maior, grande, última, segunda, boa, política, novas, próxima</em></li>
+  <li><code>Masc</code> (5849; 55% of non-empty <code>Gender</code>): <em>primeiro, novo, último, segundo, últimos, maior, grande, novos, bom, próximo</em></li>
   <li><code>EMPTY</code> (84): <em>jovens, especial, melhor, capaz, favorável, grandes, inconvenientes, menores, mole, responsáveis</em></li>
 </ul>
 
@@ -395,8 +411,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>PRON</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (1894; 30%): <em>que, se, a, ela, as, elas, lhe, esta, eu, la</em></li>
-  <li><code>Masc</code> (4468; 70%): <em>que, se, o, ele, o_que, isso, os, eles, tudo, lhe</em></li>
+  <li><code>Fem</code> (1894; 30% of non-empty <code>Gender</code>): <em>que, se, a, ela, as, elas, lhe, esta, eu, la</em></li>
+  <li><code>Masc</code> (4468; 70% of non-empty <code>Gender</code>): <em>que, se, o, ele, o_que, isso, os, eles, tudo, lhe</em></li>
   <li><code>EMPTY</code> (744): <em>se, quem, me, nos, eu, você, nós, mais, lhe, mim</em></li>
 </ul>
 
@@ -421,8 +437,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>VERB</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (1674; 40%): <em>passada, feita, feitas, prevista, considerada, criada, realizada, aberta, dada, utilizada</em></li>
-  <li><code>Masc</code> (2519; 60%): <em>passado, feito, eleito, aberto, considerado, previsto, ligados, realizado, acusado, divulgado</em></li>
+  <li><code>Fem</code> (1674; 40% of non-empty <code>Gender</code>): <em>passada, feita, feitas, prevista, considerada, criada, realizada, aberta, dada, utilizada</em></li>
+  <li><code>Masc</code> (2519; 60% of non-empty <code>Gender</code>): <em>passado, feito, eleito, aberto, considerado, previsto, ligados, realizado, acusado, divulgado</em></li>
   <li><code>EMPTY</code> (21647): <em>é, foi, tem, está, são, ser, há, ter, disse, foram</em></li>
 </ul>
 
@@ -441,8 +457,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>NUM</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (690; 17%): <em>uma, duas, três, quatro, mil, seis, cinco, 200, dez, sete</em></li>
-  <li><code>Masc</code> (3420; 83%): <em>um, dois, mil, três, quatro, cinco, 15, 30, 20, dez</em></li>
+  <li><code>Fem</code> (690; 17% of non-empty <code>Gender</code>): <em>uma, duas, três, quatro, mil, seis, cinco, 200, dez, sete</em></li>
+  <li><code>Masc</code> (3420; 83% of non-empty <code>Gender</code>): <em>um, dois, mil, três, quatro, cinco, 15, 30, 20, dez</em></li>
   <li><code>EMPTY</code> (52): <em>mil, 011, 1., 2, 011_959-2650, 01202-001, 07.00-09.00, 1, 1), 1.85000</em></li>
 </ul>
 
@@ -462,7 +478,7 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>SYM</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Masc</code> (179; 100%): <em>%</em></li>
+  <li><code>Masc</code> (179; 100% of non-empty <code>Gender</code>): <em>%</em></li>
 </ul>
 
 <h3 id="aux"><code>AUX</code></h3>
@@ -474,8 +490,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>AUX</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (8; 25%): <em>convertidas, apresentada, decididas, discutidas, esmagadas, subscrita, sujeitas</em></li>
-  <li><code>Masc</code> (24; 75%): <em>sido, atracado, atualizados, construídos, convertidas, deslocado, entregue, entregues, favorecido, inspeccionados</em></li>
+  <li><code>Fem</code> (8; 25% of non-empty <code>Gender</code>): <em>convertidas, apresentada, decididas, discutidas, esmagadas, subscrita, sujeitas</em></li>
+  <li><code>Masc</code> (24; 75% of non-empty <code>Gender</code>): <em>sido, atracado, atualizados, construídos, convertidas, deslocado, entregue, entregues, favorecido, inspeccionados</em></li>
   <li><code>EMPTY</code> (433): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
@@ -495,8 +511,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>ADV</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (2; 14%): <em>da_ordem, mais</em></li>
-  <li><code>Masc</code> (12; 86%): <em>etc., mais, fundo, juntos</em></li>
+  <li><code>Fem</code> (2; 14% of non-empty <code>Gender</code>): <em>da_ordem, mais</em></li>
+  <li><code>Masc</code> (12; 86% of non-empty <code>Gender</code>): <em>etc., mais, fundo, juntos</em></li>
   <li><code>EMPTY</code> (9475): <em>não, mais, como, também, já, ontem, ainda, quando, só, depois</em></li>
 </ul>
 
@@ -507,8 +523,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>INTJ</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (2; 67%): <em>Obrigada, rua</em></li>
-  <li><code>Masc</code> (1; 33%): <em>Adeus</em></li>
+  <li><code>Fem</code> (2; 67% of non-empty <code>Gender</code>): <em>Obrigada, rua</em></li>
+  <li><code>Masc</code> (1; 33% of non-empty <code>Gender</code>): <em>Adeus</em></li>
   <li><code>EMPTY</code> (37): <em>não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus</em></li>
 </ul>
 
@@ -521,8 +537,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>ADP</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Fem</code> (1; 50%): <em>obra_do_mestre</em></li>
-  <li><code>Masc</code> (1; 50%): <em>sobre</em></li>
+  <li><code>Fem</code> (1; 50% of non-empty <code>Gender</code>): <em>obra_do_mestre</em></li>
+  <li><code>Masc</code> (1; 50% of non-empty <code>Gender</code>): <em>sobre</em></li>
   <li><code>EMPTY</code> (32394): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
 </ul>
 
@@ -535,9 +551,13 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (397
 <p><code>PART</code> tokens may have the following values of <code>Gender</code>:</p>
 
 <ul>
-  <li><code>Masc</code> (1; 100%): <em>pós</em></li>
+  <li><code>Masc</code> (1; 100% of non-empty <code>Gender</code>): <em>pós</em></li>
   <li><code>EMPTY</code> (4): <em>anti-, ex, ex-, pré-</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-gender">Relations with Agreement in <code>Gender</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Gender</code>: <code>NOUN --[det]--&gt; DET</code> (26645; 96%), <code>NOUN --[amod]--&gt; ADJ</code> (8199; 98%), <code>PROPN --[det]--&gt; DET</code> (4417; 93%), <code>NOUN --[nummod]--&gt; NUM</code> (2719; 94%), <code>NOUN --[nmod]--&gt; PROPN</code> (2364; 57%), <code>NOUN --[conj]--&gt; NOUN</code> (1336; 60%), <code>PROPN --[conj]--&gt; PROPN</code> (828; 74%), <code>PROPN --[nmod]--&gt; NOUN</code> (526; 70%), <code>ADJ --[det]--&gt; DET</code> (504; 96%), <code>ADJ --[conj]--&gt; ADJ</code> (364; 97%).</p>
 
 <hr />
 
@@ -562,7 +582,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>VERB</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (609; 100%): <em>trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-</em></li>
+  <li><code>Yes</code> (609; 100% of non-empty <code>Hyph</code>): <em>trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-</em></li>
 </ul>
 
 <p><code>Hyph</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 100% lemmas (307) occur only with one value of <code>Hyph</code>.</p>
@@ -576,7 +596,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>PRON</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (13; 100%): <em>se-, lhe-, la-, me-</em></li>
+  <li><code>Yes</code> (13; 100% of non-empty <code>Hyph</code>): <em>se-, lhe-, la-, me-</em></li>
 </ul>
 
 <h3 id="propn-1"><code>PROPN</code></h3>
@@ -588,7 +608,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>PROPN</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (7; 100%): <em>PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona</em></li>
+  <li><code>Yes</code> (7; 100% of non-empty <code>Hyph</code>): <em>PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona</em></li>
 </ul>
 
 <h3 id="part-1"><code>PART</code></h3>
@@ -600,7 +620,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>PART</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (5; 100%): <em>anti-, ex, ex-, pré-, pós</em></li>
+  <li><code>Yes</code> (5; 100% of non-empty <code>Hyph</code>): <em>anti-, ex, ex-, pré-, pós</em></li>
 </ul>
 
 <h3 id="noun-1"><code>NOUN</code></h3>
@@ -612,7 +632,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>NOUN</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (4; 100%): <em>clientes, lugares-comuns, média-alta, partido</em></li>
+  <li><code>Yes</code> (4; 100% of non-empty <code>Hyph</code>): <em>clientes, lugares-comuns, média-alta, partido</em></li>
 </ul>
 
 <h3 id="aux-1"><code>AUX</code></h3>
@@ -624,7 +644,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>AUX</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (2; 100%): <em>encaminhar-, mandar-</em></li>
+  <li><code>Yes</code> (2; 100% of non-empty <code>Hyph</code>): <em>encaminhar-, mandar-</em></li>
 </ul>
 
 <h3 id="adj-2"><code>ADJ</code></h3>
@@ -636,7 +656,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609;
 <p><code>ADJ</code> tokens may have the following values of <code>Hyph</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (1; 100%): <em>socialistas</em></li>
+  <li><code>Yes</code> (1; 100% of non-empty <code>Hyph</code>): <em>socialistas</em></li>
 </ul>
 
 <hr />
@@ -662,10 +682,10 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 <p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Cnd</code> (340; 2%): <em>seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria</em></li>
-  <li><code>Imp</code> (7; 0%): <em>Sê, move, Olha, chega</em></li>
-  <li><code>Ind</code> (14449; 92%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
-  <li><code>Sub</code> (982; 6%): <em>seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam</em></li>
+  <li><code>Cnd</code> (340; 2% of non-empty <code>Mood</code>): <em>seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria</em></li>
+  <li><code>Imp</code> (7; 0% of non-empty <code>Mood</code>): <em>Sê, move, Olha, chega</em></li>
+  <li><code>Ind</code> (14449; 92% of non-empty <code>Mood</code>): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>Sub</code> (982; 6% of non-empty <code>Mood</code>): <em>seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam</em></li>
   <li><code>EMPTY</code> (10062): <em>ser, ter, fazer, ver, passado, dar, feito, dizer, estar, passada</em></li>
 </ul>
 
@@ -710,9 +730,9 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 <p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Cnd</code> (1; 17%): <em>teria</em></li>
-  <li><code>Ind</code> (4; 67%): <em>está, são, vamos, é</em></li>
-  <li><code>Sub</code> (1; 17%): <em>desencadear</em></li>
+  <li><code>Cnd</code> (1; 17% of non-empty <code>Mood</code>): <em>teria</em></li>
+  <li><code>Ind</code> (4; 67% of non-empty <code>Mood</code>): <em>está, são, vamos, é</em></li>
+  <li><code>Sub</code> (1; 17% of non-empty <code>Mood</code>): <em>desencadear</em></li>
   <li><code>EMPTY</code> (459): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
@@ -723,9 +743,13 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 <p><code>INTJ</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Ind</code> (1; 100%): <em>viu</em></li>
+  <li><code>Ind</code> (1; 100% of non-empty <code>Mood</code>): <em>viu</em></li>
   <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-mood">Relations with Agreement in <code>Mood</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Mood</code>: <code>VERB --[conj]--&gt; VERB</code> (1063; 90%), <code>VERB --[dep]--&gt; VERB</code> (21; 66%), <code>VERB --[cc]--&gt; VERB</code> (11; 92%).</p>
 
 <hr />
 
@@ -736,7 +760,7 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 <p>This feature is universal.
 It occurs with 2 different values: <code>Plur</code>, <code>Sing</code>.</p>
 
-<p>This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <a href="">Number</a>, <a href="">Number[psor]</a></p>
+<p>This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <a href="">Number</a>, <a href="">Number[psor]</a>.</p>
 
 <p>126963 tokens (60%) have a non-empty value of <code>Number</code>.
 26828 types (97%) occur at least once with a non-empty value of <code>Number</code>.
@@ -752,8 +776,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>NOUN</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (11979; 30%): <em>anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses</em></li>
-  <li><code>Sing</code> (27899; 70%): <em>ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana</em></li>
+  <li><code>Plur</code> (11979; 30% of non-empty <code>Number</code>): <em>anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses</em></li>
+  <li><code>Sing</code> (27899; 70% of non-empty <code>Number</code>): <em>ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana</em></li>
   <li><code>EMPTY</code> (14): <em>21h, 21h30, P., morte, pedido, peemedebistas, pessoa, piano, polícia, prova</em></li>
 </ul>
 
@@ -771,8 +795,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>DET</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (7031; 21%): <em>os, as, seus, suas, outros, alguns, outras, algumas, todos, estes</em></li>
-  <li><code>Sing</code> (26184; 79%): <em>o, a, um, uma, sua, seu, este, esta, esse, qualquer</em></li>
+  <li><code>Plur</code> (7031; 21% of non-empty <code>Number</code>): <em>os, as, seus, suas, outros, alguns, outras, algumas, todos, estes</em></li>
+  <li><code>Sing</code> (26184; 79% of non-empty <code>Number</code>): <em>o, a, um, uma, sua, seu, este, esta, esse, qualquer</em></li>
   <li><code>EMPTY</code> (5): <em>mais, a, menos, o(s)</em></li>
 </ul>
 
@@ -803,8 +827,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>VERB</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (5334; 26%): <em>são, foram, estão, têm, vão, podem, serão, devem, estavam, eram</em></li>
-  <li><code>Sing</code> (15025; 74%): <em>é, foi, tem, está, há, disse, vai, era, pode, diz</em></li>
+  <li><code>Plur</code> (5334; 26% of non-empty <code>Number</code>): <em>são, foram, estão, têm, vão, podem, serão, devem, estavam, eram</em></li>
+  <li><code>Sing</code> (15025; 74% of non-empty <code>Number</code>): <em>é, foi, tem, está, há, disse, vai, era, pode, diz</em></li>
   <li><code>EMPTY</code> (5481): <em>ser, ter, fazer, ver, dar, dizer, estar, tendo, falar, saber</em></li>
 </ul>
 
@@ -848,8 +872,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>PROPN</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (414; 4%): <em>EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs</em></li>
-  <li><code>Sing</code> (11268; 96%): <em>Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha</em></li>
+  <li><code>Plur</code> (414; 4% of non-empty <code>Number</code>): <em>EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs</em></li>
+  <li><code>Sing</code> (11268; 96% of non-empty <code>Number</code>): <em>Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha</em></li>
   <li><code>EMPTY</code> (24): <em>Chaves, Maio, Setembro, Carvalhas, Colares, Entre-os-Rios, Fernanda_Pinto_Rodrigues, Igreja_Adventista_do_Sétimo_Dia, Instituto_Superior_de_Economia_e_Gestao, Jolo</em></li>
 </ul>
 
@@ -869,8 +893,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>ADJ</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (3134; 29%): <em>grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores</em></li>
-  <li><code>Sing</code> (7564; 71%): <em>maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última</em></li>
+  <li><code>Plur</code> (3134; 29% of non-empty <code>Number</code>): <em>grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores</em></li>
+  <li><code>Sing</code> (7564; 71% of non-empty <code>Number</code>): <em>maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última</em></li>
   <li><code>EMPTY</code> (10): <em>a_favor, além-Pirinéus, ao_ar_livre, capaz, de_fato, em_questão, geral, por_excelência, quarto, trémula</em></li>
 </ul>
 
@@ -894,8 +918,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>PRON</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (1850; 27%): <em>que, se, os, eles, nos, as, elas, nós, todos, outros</em></li>
-  <li><code>Sing</code> (4885; 73%): <em>que, se, o, ele, o_que, isso, lhe, a, quem, eu</em></li>
+  <li><code>Plur</code> (1850; 27% of non-empty <code>Number</code>): <em>que, se, os, eles, nos, as, elas, nós, todos, outros</em></li>
+  <li><code>Sing</code> (4885; 73% of non-empty <code>Number</code>): <em>que, se, o, ele, o_que, isso, lhe, a, quem, eu</em></li>
   <li><code>EMPTY</code> (371): <em>se, mais, quem, que, o_que, se-, mais_de, si, um_pouco, Todo_mundo</em></li>
 </ul>
 
@@ -920,8 +944,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>NUM</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (3224; 78%): <em>dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez</em></li>
-  <li><code>Sing</code> (932; 22%): <em>um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990</em></li>
+  <li><code>Plur</code> (3224; 78% of non-empty <code>Number</code>): <em>dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez</em></li>
+  <li><code>Sing</code> (932; 22% of non-empty <code>Number</code>): <em>um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990</em></li>
   <li><code>EMPTY</code> (6): <em>1., 07.00-09.00, 1, 10.00-12.00, 18</em></li>
 </ul>
 
@@ -941,7 +965,7 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>SYM</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (179; 100%): <em>%</em></li>
+  <li><code>Plur</code> (179; 100% of non-empty <code>Number</code>): <em>%</em></li>
 </ul>
 
 <h3 id="aux-3"><code>AUX</code></h3>
@@ -953,8 +977,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>AUX</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (15; 38%): <em>convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos</em></li>
-  <li><code>Sing</code> (25; 63%): <em>sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado</em></li>
+  <li><code>Plur</code> (15; 38% of non-empty <code>Number</code>): <em>convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos</em></li>
+  <li><code>Sing</code> (25; 63% of non-empty <code>Number</code>): <em>sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado</em></li>
   <li><code>EMPTY</code> (425): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
@@ -975,8 +999,8 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>ADV</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Plur</code> (3; 21%): <em>mais, juntos</em></li>
-  <li><code>Sing</code> (11; 79%): <em>etc., mais, da_ordem, fundo</em></li>
+  <li><code>Plur</code> (3; 21% of non-empty <code>Number</code>): <em>mais, juntos</em></li>
+  <li><code>Sing</code> (11; 79% of non-empty <code>Number</code>): <em>etc., mais, da_ordem, fundo</em></li>
   <li><code>EMPTY</code> (9475): <em>não, mais, como, também, já, ontem, ainda, quando, só, depois</em></li>
 </ul>
 
@@ -992,7 +1016,7 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>INTJ</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Sing</code> (4; 100%): <em>Adeus, Obrigada, rua, viu</em></li>
+  <li><code>Sing</code> (4; 100% of non-empty <code>Number</code>): <em>Adeus, Obrigada, rua, viu</em></li>
   <li><code>EMPTY</code> (36): <em>não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus</em></li>
 </ul>
 
@@ -1005,7 +1029,7 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>ADP</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Sing</code> (2; 100%): <em>obra_do_mestre, sobre</em></li>
+  <li><code>Sing</code> (2; 100% of non-empty <code>Number</code>): <em>obra_do_mestre, sobre</em></li>
   <li><code>EMPTY</code> (32394): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
 </ul>
 
@@ -1018,9 +1042,13 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p><code>PART</code> tokens may have the following values of <code>Number</code>:</p>
 
 <ul>
-  <li><code>Sing</code> (1; 100%): <em>pós</em></li>
+  <li><code>Sing</code> (1; 100% of non-empty <code>Number</code>): <em>pós</em></li>
   <li><code>EMPTY</code> (4): <em>anti-, ex, ex-, pré-</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-number">Relations with Agreement in <code>Number</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Number</code>: <code>NOUN --[det]--&gt; DET</code> (27628; 100%), <code>NOUN --[amod]--&gt; ADJ</code> (8213; 98%), <code>NOUN --[nmod]--&gt; NOUN</code> (7068; 61%), <code>VERB --[nsubj]--&gt; NOUN</code> (4869; 95%), <code>PROPN --[det]--&gt; DET</code> (4737; 99%), <code>NOUN --[acl]--&gt; VERB</code> (3540; 78%), <code>NOUN --[nmod]--&gt; PROPN</code> (3259; 79%), <code>NOUN --[nummod]--&gt; NUM</code> (2553; 88%), <code>VERB --[nsubj]--&gt; PRON</code> (2552; 88%), <code>VERB --[nsubj]--&gt; PROPN</code> (1955; 93%).</p>
 
 <hr />
 
@@ -1031,7 +1059,7 @@ The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (398
 <p>This feature is language-specific.
 It occurs with 2 different values: <code>Plur</code>, <code>Sing</code>.</p>
 
-<p>This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <a href="">Number</a>, <a href="">Number[psor]</a></p>
+<p>This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <a href="">Number</a>, <a href="">Number[psor]</a>.</p>
 
 <p>1288 tokens (1%) have a non-empty value of <code>Number[psor]</code>.
 23 types (0%) occur at least once with a non-empty value of <code>Number[psor]</code>.
@@ -1096,7 +1124,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (4042; 100%): <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em></li>
+  <li><code>Card</code> (4042; 100% of non-empty <code>NumType</code>): <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em></li>
   <li><code>EMPTY</code> (120): <em>1, 0, 1992, 2, 23, mil, três, 10, 14, 5</em></li>
 </ul>
 
@@ -1111,7 +1139,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>ADV</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (1307; 100%): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
+  <li><code>Card</code> (1307; 100% of non-empty <code>NumType</code>): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
   <li><code>EMPTY</code> (8182): <em>não, como, também, já, ontem, ainda, quando, só, depois, onde</em></li>
 </ul>
 
@@ -1126,7 +1154,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>DET</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (1147; 100%): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
+  <li><code>Card</code> (1147; 100% of non-empty <code>NumType</code>): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
   <li><code>EMPTY</code> (32073): <em>o, a, os, as, um, uma, sua, seu, este, esta</em></li>
 </ul>
 
@@ -1141,8 +1169,8 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (1; 0%): <em>primeiro</em></li>
-  <li><code>Ord</code> (790; 100%): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em></li>
+  <li><code>Card</code> (1; 0% of non-empty <code>NumType</code>): <em>primeiro</em></li>
+  <li><code>Ord</code> (790; 100% of non-empty <code>NumType</code>): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em></li>
   <li><code>EMPTY</code> (9917): <em>maior, novo, grande, nova, grandes, melhor, nacional, mundial, responsável, boa</em></li>
 </ul>
 
@@ -1166,7 +1194,7 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>PRON</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (458; 100%): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
+  <li><code>Card</code> (458; 100% of non-empty <code>NumType</code>): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
   <li><code>EMPTY</code> (6648): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
 </ul>
 
@@ -1181,8 +1209,8 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>NOUN</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (3; 75%): <em>mil, 66’</em></li>
-  <li><code>Ord</code> (1; 25%): <em>2ª</em></li>
+  <li><code>Card</code> (3; 75% of non-empty <code>NumType</code>): <em>mil, 66’</em></li>
+  <li><code>Ord</code> (1; 25% of non-empty <code>NumType</code>): <em>2ª</em></li>
   <li><code>EMPTY</code> (39888): <em>anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento</em></li>
 </ul>
 
@@ -1195,9 +1223,13 @@ The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042;
 <p><code>PROPN</code> tokens may have the following values of <code>NumType</code>:</p>
 
 <ul>
-  <li><code>Card</code> (1; 100%): <em>Doze</em></li>
+  <li><code>Card</code> (1; 100% of non-empty <code>NumType</code>): <em>Doze</em></li>
   <li><code>EMPTY</code> (11705): <em>Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-numtype">Relations with Agreement in <code>NumType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>NumType</code>: <code>NUM --[compound]--&gt; NUM</code> (130; 100%), <code>NUM --[conj]--&gt; NUM</code> (96; 99%), <code>ADJ --[conj]--&gt; ADJ</code> (17; 89%), <code>DET --[advmod]--&gt; ADV</code> (4; 57%), <code>PRON --[conj]--&gt; PRON</code> (3; 100%), <code>DET --[nummod]--&gt; NUM</code> (3; 60%), <code>NOUN --[compound]--&gt; NUM</code> (2; 100%), <code>ADV --[cop]--&gt; PRON</code> (1; 100%), <code>ADV --[dobj]--&gt; PRON</code> (1; 100%), <code>NUM --[case]--&gt; ADV</code> (1; 100%).</p>
 
 <hr />
 
@@ -1223,10 +1255,10 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (1616
 <p><code>VERB</code> tokens may have the following values of <code>Person</code>:</p>
 
 <ul>
-  <li><code>1</code> (896; 6%): <em>tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos</em></li>
-  <li><code>1,3</code> (49; 0%): <em>veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-</em></li>
-  <li><code>2</code> (19; 0%): <em>Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais</em></li>
-  <li><code>3</code> (15202; 94%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>1</code> (896; 6% of non-empty <code>Person</code>): <em>tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos</em></li>
+  <li><code>1,3</code> (49; 0% of non-empty <code>Person</code>): <em>veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-</em></li>
+  <li><code>2</code> (19; 0% of non-empty <code>Person</code>): <em>Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais</em></li>
+  <li><code>3</code> (15202; 94% of non-empty <code>Person</code>): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
   <li><code>EMPTY</code> (9674): <em>ser, ter, fazer, ver, passado, dar, feito, passada, dizer, estar</em></li>
 </ul>
 
@@ -1268,9 +1300,9 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (1616
 <p><code>PRON</code> tokens may have the following values of <code>Person</code>:</p>
 
 <ul>
-  <li><code>1</code> (320; 12%): <em>eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu</em></li>
-  <li><code>2</code> (9; 0%): <em>te, ti, vos, vós</em></li>
-  <li><code>3</code> (2408; 88%): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em></li>
+  <li><code>1</code> (320; 12% of non-empty <code>Person</code>): <em>eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu</em></li>
+  <li><code>2</code> (9; 0% of non-empty <code>Person</code>): <em>te, ti, vos, vós</em></li>
+  <li><code>3</code> (2408; 88% of non-empty <code>Person</code>): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em></li>
   <li><code>EMPTY</code> (4369): <em>que, o, o_que, isso, quem, os, tudo, a, nada, isto</em></li>
 </ul>
 
@@ -1305,9 +1337,9 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (1616
 <p><code>DET</code> tokens may have the following values of <code>Person</code>:</p>
 
 <ul>
-  <li><code>1</code> (179; 14%): <em>meu, nosso, nossa, minha, nossos, nossas, minhas, meus</em></li>
-  <li><code>2</code> (8; 1%): <em>vossa, teu, vosso, seu</em></li>
-  <li><code>3</code> (1092; 85%): <em>sua, seu, seus, suas</em></li>
+  <li><code>1</code> (179; 14% of non-empty <code>Person</code>): <em>meu, nosso, nossa, minha, nossos, nossas, minhas, meus</em></li>
+  <li><code>2</code> (8; 1% of non-empty <code>Person</code>): <em>vossa, teu, vosso, seu</em></li>
+  <li><code>3</code> (1092; 85% of non-empty <code>Person</code>): <em>sua, seu, seus, suas</em></li>
   <li><code>EMPTY</code> (31941): <em>o, a, os, as, um, uma, este, esta, esse, qualquer</em></li>
 </ul>
 
@@ -1342,8 +1374,8 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (1616
 <p><code>AUX</code> tokens may have the following values of <code>Person</code>:</p>
 
 <ul>
-  <li><code>1</code> (1; 13%): <em>vamos</em></li>
-  <li><code>3</code> (7; 88%): <em>dar, desencadear, está, mostrarem, são, teria, é</em></li>
+  <li><code>1</code> (1; 13% of non-empty <code>Person</code>): <em>vamos</em></li>
+  <li><code>3</code> (7; 88% of non-empty <code>Person</code>): <em>dar, desencadear, está, mostrarem, são, teria, é</em></li>
   <li><code>EMPTY</code> (457): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
@@ -1354,9 +1386,13 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (1616
 <p><code>INTJ</code> tokens may have the following values of <code>Person</code>:</p>
 
 <ul>
-  <li><code>3</code> (1; 100%): <em>viu</em></li>
+  <li><code>3</code> (1; 100% of non-empty <code>Person</code>): <em>viu</em></li>
   <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-person">Relations with Agreement in <code>Person</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Person</code>: <code>VERB --[conj]--&gt; VERB</code> (1049; 87%), <code>VERB --[iobj]--&gt; PRON</code> (240; 64%), <code>VERB --[dep]--&gt; VERB</code> (22; 69%), <code>VERB --[auxpass:reflex]--&gt; PRON</code> (21; 78%), <code>VERB --[parataxis]--&gt; VERB</code> (18; 55%), <code>VERB --[dep]--&gt; PRON</code> (17; 89%), <code>VERB --[cc]--&gt; VERB</code> (11; 92%), <code>PRON --[conj]--&gt; PRON</code> (4; 80%), <code>VERB --[acl]--&gt; VERB</code> (3; 60%).</p>
 
 <hr />
 
@@ -1381,7 +1417,7 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (1279;
 <p><code>DET</code> tokens may have the following values of <code>Poss</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (1279; 100%): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
+  <li><code>Yes</code> (1279; 100% of non-empty <code>Poss</code>): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
   <li><code>EMPTY</code> (31941): <em>o, a, os, as, um, uma, este, esta, esse, qualquer</em></li>
 </ul>
 
@@ -1394,7 +1430,7 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (1279;
 <p><code>PRON</code> tokens may have the following values of <code>Poss</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (13; 100%): <em>seu, meus, nossos, seus, meu, nossa</em></li>
+  <li><code>Yes</code> (13; 100% of non-empty <code>Poss</code>): <em>seu, meus, nossos, seus, meu, nossa</em></li>
   <li><code>EMPTY</code> (7093): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
 </ul>
 
@@ -1421,10 +1457,14 @@ The feature is used with 1 part-of-speech tags: <a href="">pt-pos/PRON</a> (190;
 <p><code>PRON</code> tokens may have the following values of <code>PrepCase</code>:</p>
 
 <ul>
-  <li><code>Pre</code> (190; 100%): <em>ele, ela, eles, mim, elas, si, nós, ti, você, vós</em></li>
+  <li><code>Pre</code> (190; 100% of non-empty <code>PrepCase</code>): <em>ele, ela, eles, mim, elas, si, nós, ti, você, vós</em></li>
 </ul>
 
 <p><code>PrepCase</code> seems to be <strong>lexical feature</strong> of <code>PRON</code>. 100% lemmas (11) occur only with one value of <code>PrepCase</code>.</p>
+
+<h2 id="relations-with-agreement-in-prepcase">Relations with Agreement in <code>PrepCase</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>PrepCase</code>: <code>PRON --[conj]--&gt; PRON</code> (1; 100%).</p>
 
 <hr />
 
@@ -1450,12 +1490,12 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543
 <p><code>DET</code> tokens may have the following values of <code>PronType</code>:</p>
 
 <ul>
-  <li><code>Art</code> (29063; 89%): <em>o, a, os, as, um, uma</em></li>
-  <li><code>Dem</code> (980; 3%): <em>este, esta, esse, essa, estes, estas, aquela, essas, esses, aquele</em></li>
-  <li><code>Ind,Neg,Tot</code> (1141; 4%): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
-  <li><code>Int</code> (24; 0%): <em>que, Quantos, qual, quanto, Quantas, quais</em></li>
-  <li><code>Prs</code> (1279; 4%): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
-  <li><code>Rel</code> (56; 0%): <em>cuja, cujo, cujas, cujos, qual, Quantos, quais</em></li>
+  <li><code>Art</code> (29063; 89% of non-empty <code>PronType</code>): <em>o, a, os, as, um, uma</em></li>
+  <li><code>Dem</code> (980; 3% of non-empty <code>PronType</code>): <em>este, esta, esse, essa, estes, estas, aquela, essas, esses, aquele</em></li>
+  <li><code>Ind,Neg,Tot</code> (1141; 4% of non-empty <code>PronType</code>): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
+  <li><code>Int</code> (24; 0% of non-empty <code>PronType</code>): <em>que, Quantos, qual, quanto, Quantas, quais</em></li>
+  <li><code>Prs</code> (1279; 4% of non-empty <code>PronType</code>): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
+  <li><code>Rel</code> (56; 0% of non-empty <code>PronType</code>): <em>cuja, cujo, cujas, cujos, qual, Quantos, quais</em></li>
   <li><code>EMPTY</code> (677): <em>outros, o, outras, mesmo, outro, mesma, a, outra, próprio, os</em></li>
 </ul>
 
@@ -1487,14 +1527,14 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543
 <p><code>PRON</code> tokens may have the following values of <code>PronType</code>:</p>
 
 <ul>
-  <li><code>Art</code> (244; 4%): <em>o, os, a, as, um, uma</em></li>
-  <li><code>Dem</code> (551; 8%): <em>isso, o, isto, a, este, os, esta, aquilo, as, essa</em></li>
-  <li><code>Ind</code> (133; 2%): <em>ninguém, que, alguém, cada_um, toda_a_gente, o_que, todo, todo_o_mundo, cada_qual, Quem</em></li>
-  <li><code>Ind,Neg,Tot</code> (434; 6%): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
-  <li><code>Int</code> (108; 2%): <em>o_que, quem, qual, quais, quanto, que, quando, quantos, quê</em></li>
-  <li><code>Prs</code> (2752; 40%): <em>se, ele, lhe, o, eles, eu, ela, me, nos, a</em></li>
-  <li><code>Rcp</code> (4; 0%): <em>se</em></li>
-  <li><code>Rel</code> (2664; 39%): <em>que, o_que, quem, o_qual, os_quais, a_qual, tudo_o_que, as_quais, qual, quais</em></li>
+  <li><code>Art</code> (244; 4% of non-empty <code>PronType</code>): <em>o, os, a, as, um, uma</em></li>
+  <li><code>Dem</code> (551; 8% of non-empty <code>PronType</code>): <em>isso, o, isto, a, este, os, esta, aquilo, as, essa</em></li>
+  <li><code>Ind</code> (133; 2% of non-empty <code>PronType</code>): <em>ninguém, que, alguém, cada_um, toda_a_gente, o_que, todo, todo_o_mundo, cada_qual, Quem</em></li>
+  <li><code>Ind,Neg,Tot</code> (434; 6% of non-empty <code>PronType</code>): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
+  <li><code>Int</code> (108; 2% of non-empty <code>PronType</code>): <em>o_que, quem, qual, quais, quanto, que, quando, quantos, quê</em></li>
+  <li><code>Prs</code> (2752; 40% of non-empty <code>PronType</code>): <em>se, ele, lhe, o, eles, eu, ela, me, nos, a</em></li>
+  <li><code>Rcp</code> (4; 0% of non-empty <code>PronType</code>): <em>se</em></li>
+  <li><code>Rel</code> (2664; 39% of non-empty <code>PronType</code>): <em>que, o_que, quem, o_qual, os_quais, a_qual, tudo_o_que, as_quais, qual, quais</em></li>
   <li><code>EMPTY</code> (216): <em>o, outros, mesmo, outro, os, a, outra, outras, as, mesma</em></li>
 </ul>
 
@@ -1520,10 +1560,10 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543
 <p><code>ADV</code> tokens may have the following values of <code>PronType</code>:</p>
 
 <ul>
-  <li><code>Dem</code> (42; 2%): <em>tão, tal</em></li>
-  <li><code>Ind,Neg,Tot</code> (1296; 55%): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
-  <li><code>Int</code> (95; 4%): <em>como, onde, porque, por_que, porquê, quando, que, para_onde, quanto, até_que_ponto</em></li>
-  <li><code>Rel</code> (919; 39%): <em>como, quando, onde, enquanto, tal_como, apenas, conforme, à_medida_que, bem_como, assim_como</em></li>
+  <li><code>Dem</code> (42; 2% of non-empty <code>PronType</code>): <em>tão, tal</em></li>
+  <li><code>Ind,Neg,Tot</code> (1296; 55% of non-empty <code>PronType</code>): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
+  <li><code>Int</code> (95; 4% of non-empty <code>PronType</code>): <em>como, onde, porque, por_que, porquê, quando, que, para_onde, quanto, até_que_ponto</em></li>
+  <li><code>Rel</code> (919; 39% of non-empty <code>PronType</code>): <em>como, quando, onde, enquanto, tal_como, apenas, conforme, à_medida_que, bem_como, assim_como</em></li>
   <li><code>EMPTY</code> (7137): <em>não, também, já, ontem, ainda, só, depois, agora, hoje, antes</em></li>
 </ul>
 
@@ -1544,7 +1584,7 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543
 <p><code>ADP</code> tokens may have the following values of <code>PronType</code>:</p>
 
 <ul>
-  <li><code>Rel</code> (141; 100%): <em>segundo, como, conforme</em></li>
+  <li><code>Rel</code> (141; 100% of non-empty <code>PronType</code>): <em>segundo, como, conforme</em></li>
   <li><code>EMPTY</code> (32255): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
 </ul>
 
@@ -1555,9 +1595,13 @@ The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543
 <p><code>SCONJ</code> tokens may have the following values of <code>PronType</code>:</p>
 
 <ul>
-  <li><code>Rel</code> (1; 100%): <em>ao_passo_que</em></li>
+  <li><code>Rel</code> (1; 100% of non-empty <code>PronType</code>): <em>ao_passo_que</em></li>
   <li><code>EMPTY</code> (2279): <em>que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-prontype">Relations with Agreement in <code>PronType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>PronType</code>: <code>PRON --[conj]--&gt; PRON</code> (17; 94%), <code>DET --[conj]--&gt; PRON</code> (6; 67%), <code>ADV --[cop]--&gt; PRON</code> (1; 100%).</p>
 
 <hr />
 
@@ -1582,7 +1626,7 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/PRON</a> (782;
 <p><code>PRON</code> tokens may have the following values of <code>Reflex</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (782; 100%): <em>se, me, nos, si, se-, seu, te, me-, no, s</em></li>
+  <li><code>Yes</code> (782; 100% of non-empty <code>Reflex</code>): <em>se, me, nos, si, se-, seu, te, me-, no, s</em></li>
   <li><code>EMPTY</code> (6324): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
 </ul>
 
@@ -1595,7 +1639,7 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/PRON</a> (782;
 <p><code>DET</code> tokens may have the following values of <code>Reflex</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (560; 100%): <em>sua, seu, seus, suas</em></li>
+  <li><code>Yes</code> (560; 100% of non-empty <code>Reflex</code>): <em>sua, seu, seus, suas</em></li>
   <li><code>EMPTY</code> (32660): <em>o, a, os, as, um, uma, este, esta, sua, seu</em></li>
 </ul>
 
@@ -1623,13 +1667,13 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1543
 <p><code>VERB</code> tokens may have the following values of <code>Tense</code>:</p>
 
 <ul>
-  <li><code>Fut</code> (973; 6%): <em>será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão</em></li>
-  <li><code>Imp</code> (1333; 9%): <em>era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia</em></li>
-  <li><code>Imp,Pqp</code> (361; 2%): <em>foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram</em></li>
-  <li><code>Past</code> (4171; 27%): <em>foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou</em></li>
-  <li><code>Past,Pres</code> (3; 0%): <em>conhecemos, conseguimos, decidimos</em></li>
-  <li><code>Pqp</code> (67; 0%): <em>fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera</em></li>
-  <li><code>Pres</code> (8524; 55%): <em>é, tem, está, são, há, vai, pode, estão, diz, têm</em></li>
+  <li><code>Fut</code> (973; 6% of non-empty <code>Tense</code>): <em>será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão</em></li>
+  <li><code>Imp</code> (1333; 9% of non-empty <code>Tense</code>): <em>era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia</em></li>
+  <li><code>Imp,Pqp</code> (361; 2% of non-empty <code>Tense</code>): <em>foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram</em></li>
+  <li><code>Past</code> (4171; 27% of non-empty <code>Tense</code>): <em>foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou</em></li>
+  <li><code>Past,Pres</code> (3; 0% of non-empty <code>Tense</code>): <em>conhecemos, conseguimos, decidimos</em></li>
+  <li><code>Pqp</code> (67; 0% of non-empty <code>Tense</code>): <em>fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera</em></li>
+  <li><code>Pres</code> (8524; 55% of non-empty <code>Tense</code>): <em>é, tem, está, são, há, vai, pode, estão, diz, têm</em></li>
   <li><code>EMPTY</code> (10408): <em>ser, ter, fazer, ver, seria, passado, dar, feito, dizer, estar</em></li>
 </ul>
 
@@ -1655,8 +1699,8 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1543
 <p><code>AUX</code> tokens may have the following values of <code>Tense</code>:</p>
 
 <ul>
-  <li><code>Fut</code> (1; 20%): <em>desencadear</em></li>
-  <li><code>Pres</code> (4; 80%): <em>está, são, vamos, é</em></li>
+  <li><code>Fut</code> (1; 20% of non-empty <code>Tense</code>): <em>desencadear</em></li>
+  <li><code>Pres</code> (4; 80% of non-empty <code>Tense</code>): <em>está, são, vamos, é</em></li>
   <li><code>EMPTY</code> (460): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
@@ -1667,9 +1711,13 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1543
 <p><code>INTJ</code> tokens may have the following values of <code>Tense</code>:</p>
 
 <ul>
-  <li><code>Past</code> (1; 100%): <em>viu</em></li>
+  <li><code>Past</code> (1; 100% of non-empty <code>Tense</code>): <em>viu</em></li>
   <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-tense">Relations with Agreement in <code>Tense</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Tense</code>: <code>VERB --[conj]--&gt; VERB</code> (843; 72%), <code>VERB --[dep]--&gt; VERB</code> (18; 58%), <code>VERB --[cc]--&gt; VERB</code> (10; 83%).</p>
 
 <hr />
 
@@ -1694,7 +1742,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>VERB</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (10; 100%): <em>abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe</em></li>
+  <li><code>Yes</code> (10; 100% of non-empty <code>Typo</code>): <em>abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe</em></li>
 </ul>
 
 <p><code>Typo</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 100% lemmas (10) occur only with one value of <code>Typo</code>.</p>
@@ -1708,7 +1756,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>NOUN</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (8; 100%): <em>definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad</em></li>
+  <li><code>Yes</code> (8; 100% of non-empty <code>Typo</code>): <em>definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad</em></li>
 </ul>
 
 <h3 id="adj-5"><code>ADJ</code></h3>
@@ -1720,7 +1768,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>ADJ</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (6; 100%): <em>espacais, flutante, liquido, mlehor, supreendente, tradiciona</em></li>
+  <li><code>Yes</code> (6; 100% of non-empty <code>Typo</code>): <em>espacais, flutante, liquido, mlehor, supreendente, tradiciona</em></li>
 </ul>
 
 <h3 id="adp-4"><code>ADP</code></h3>
@@ -1732,7 +1780,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>ADP</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (4; 100%): <em>a, com, de, em_relação_a</em></li>
+  <li><code>Yes</code> (4; 100% of non-empty <code>Typo</code>): <em>a, com, de, em_relação_a</em></li>
 </ul>
 
 <h3 id="adv-5"><code>ADV</code></h3>
@@ -1744,7 +1792,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>ADV</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (3; 100%): <em>asim, excessivamnete, não</em></li>
+  <li><code>Yes</code> (3; 100% of non-empty <code>Typo</code>): <em>asim, excessivamnete, não</em></li>
 </ul>
 
 <h3 id="det-10"><code>DET</code></h3>
@@ -1756,7 +1804,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>DET</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (3; 100%): <em>a, os</em></li>
+  <li><code>Yes</code> (3; 100% of non-empty <code>Typo</code>): <em>a, os</em></li>
 </ul>
 
 <h3 id="propn-4"><code>PROPN</code></h3>
@@ -1768,7 +1816,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>PROPN</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (2; 100%): <em>Carlos_Menem, Água_de_Cheiro</em></li>
+  <li><code>Yes</code> (2; 100% of non-empty <code>Typo</code>): <em>Carlos_Menem, Água_de_Cheiro</em></li>
 </ul>
 
 <h3 id="pron-14"><code>PRON</code></h3>
@@ -1780,7 +1828,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>PRON</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (1; 100%): <em>que</em></li>
+  <li><code>Yes</code> (1; 100% of non-empty <code>Typo</code>): <em>que</em></li>
 </ul>
 
 <h3 id="num-3"><code>NUM</code></h3>
@@ -1792,7 +1840,7 @@ The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 
 <p><code>NUM</code> tokens may have the following values of <code>Typo</code>:</p>
 
 <ul>
-  <li><code>Yes</code> (1; 100%): <em>miul</em></li>
+  <li><code>Yes</code> (1; 100% of non-empty <code>Typo</code>): <em>miul</em></li>
 </ul>
 
 <hr />
@@ -1818,10 +1866,10 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/VERB</a> (2584
 <p><code>VERB</code> tokens may have the following values of <code>VerbForm</code>:</p>
 
 <ul>
-  <li><code>Fin</code> (15781; 61%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
-  <li><code>Ger</code> (832; 3%): <em>tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando</em></li>
-  <li><code>Inf</code> (4685; 18%): <em>ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter</em></li>
-  <li><code>Part</code> (4542; 18%): <em>feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto</em></li>
+  <li><code>Fin</code> (15781; 61% of non-empty <code>VerbForm</code>): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>Ger</code> (832; 3% of non-empty <code>VerbForm</code>): <em>tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando</em></li>
+  <li><code>Inf</code> (4685; 18% of non-empty <code>VerbForm</code>): <em>ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter</em></li>
+  <li><code>Part</code> (4542; 18% of non-empty <code>VerbForm</code>): <em>feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto</em></li>
 </ul>
 
 <table>
@@ -1876,10 +1924,10 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/VERB</a> (2584
 <p><code>AUX</code> tokens may have the following values of <code>VerbForm</code>:</p>
 
 <ul>
-  <li><code>Fin</code> (6; 1%): <em>desencadear, está, são, teria, vamos, é</em></li>
-  <li><code>Ger</code> (22; 5%): <em>sendo, enchendo, sujando, vindo</em></li>
-  <li><code>Inf</code> (323; 69%): <em>ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir</em></li>
-  <li><code>Part</code> (114; 25%): <em>sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado</em></li>
+  <li><code>Fin</code> (6; 1% of non-empty <code>VerbForm</code>): <em>desencadear, está, são, teria, vamos, é</em></li>
+  <li><code>Ger</code> (22; 5% of non-empty <code>VerbForm</code>): <em>sendo, enchendo, sujando, vindo</em></li>
+  <li><code>Inf</code> (323; 69% of non-empty <code>VerbForm</code>): <em>ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir</em></li>
+  <li><code>Part</code> (114; 25% of non-empty <code>VerbForm</code>): <em>sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado</em></li>
 </ul>
 
 <table>
@@ -1891,6 +1939,10 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/VERB</a> (2584
 </table>
 
 <p><code>VerbForm</code> seems to be <strong>lexical feature</strong> of <code>AUX</code>. 91% lemmas (62) occur only with one value of <code>VerbForm</code>.</p>
+
+<h2 id="relations-with-agreement-in-verbform">Relations with Agreement in <code>VerbForm</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>VerbForm</code>: <code>VERB --[conj]--&gt; VERB</code> (1391; 94%), <code>AUX --[xcomp]--&gt; VERB</code> (36; 75%), <code>AUX --[conj]--&gt; AUX</code> (31; 97%), <code>VERB --[dep]--&gt; VERB</code> (27; 77%), <code>VERB --[parataxis]--&gt; VERB</code> (22; 67%), <code>VERB --[cc]--&gt; VERB</code> (13; 100%).</p>
 
 
 
