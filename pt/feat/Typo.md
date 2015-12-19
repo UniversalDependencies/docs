@@ -2,8 +2,6 @@
 
 --------------------------------------------------------------------------------
 
-## Typo
-
 ## Treebank Statistics
 
 This feature is language-specific.
