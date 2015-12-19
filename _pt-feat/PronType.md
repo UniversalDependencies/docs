@@ -183,6 +183,8 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><i>melhor</i></td><td><i>melhor</i></td></tr>
 </table>
 
+`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (12) occur only with one value of `Degree`.
+
 ### `DET`
 
 415 [pt-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
@@ -652,6 +654,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]()
+
 126963 tokens (60%) have a non-empty value of `Number`.
 26828 types (97%) occur at least once with a non-empty value of `Number`.
 18359 lemmas (95%) occur at least once with a non-empty value of `Number`.
@@ -921,6 +925,8 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 This feature is language-specific.
 It occurs with 2 different values: `Plur`, `Sing`.
 
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]()
+
 1288 tokens (1%) have a non-empty value of `Number[psor]`.
 23 types (0%) occur at least once with a non-empty value of `Number[psor]`.
 5 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
@@ -1170,6 +1176,8 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt>Case=Nom</tt></td><td><i>nós</i></td><td></td></tr>
 </table>
 
+`Person` seems to be **lexical feature** of `PRON`. 94% lemmas (16) occur only with one value of `Person`.
+
 ### `DET`
 
 1279 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
@@ -1289,6 +1297,8 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 `PRON` tokens may have the following values of `PrepCase`:
 
 * `Pre` (190; 100%): _ele, ela, eles, mim, elas, si, nós, ti, você, vós_
+
+`PrepCase` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `PrepCase`.
 
 
 
@@ -1546,6 +1556,8 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 `VERB` tokens may have the following values of `Typo`:
 
 * `Yes` (10; 100%): _abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe_
+
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Typo`.
 
 ### `NOUN`
 
