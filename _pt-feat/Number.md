@@ -7,10 +7,7 @@ shortdef: 'number'
 This document is a placeholder for the language-specific documentation
 for `Number`.
 
-
 --------------------------------------------------------------------------------
-
-## Number
 
 ## Treebank Statistics
 

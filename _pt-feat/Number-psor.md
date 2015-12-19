@@ -2,8 +2,6 @@
 
 --------------------------------------------------------------------------------
 
-## Number[psor]
-
 ## Treebank Statistics
 
 This feature is language-specific.

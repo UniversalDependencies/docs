@@ -7,10 +7,7 @@ shortdef: 'mood'
 This document is a placeholder for the language-specific documentation
 for `Mood`.
 
-
 --------------------------------------------------------------------------------
-
-## Mood
 
 ## Treebank Statistics
 
