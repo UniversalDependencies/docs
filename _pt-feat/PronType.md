@@ -29,7 +29,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/ADP]() (32396; 15% token
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (32396; 100%): _de, em, a, para, por, com, entre, sobre, sem, até_
+* `Prep` (32396; 100% of non-empty `AdpType`): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (161) occur only with one value of `AdpType`.
 
@@ -41,7 +41,11 @@ The most frequent other feature values with which `PRON` and `AdpType` co-occurr
 
 `PRON` tokens may have the following values of `AdpType`:
 
-* `Prep` (1; 100%): _mais_de_
+* `Prep` (1; 100% of non-empty `AdpType`): _mais_de_
+
+## Relations with Agreement in `AdpType`
+
+The 10 most frequent relations where parent and child node agree in `AdpType`: `ADP --[cc]--> ADP` (9; 100%), `ADP --[conj]--> ADP` (5; 100%), `ADP --[case]--> ADP` (2; 100%).
 
 
 
@@ -68,11 +72,11 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (1894; 69%): _se, o, me, a, nos, lo, os, la, ele, eles_
-* `Acc,Dat` (4; 0%): _nos, se_
-* `Acc,Nom` (71; 3%): _ele, ela, eles, nós, elas, você_
-* `Dat` (227; 8%): _lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no_
-* `Nom` (530; 19%): _ele, eu, eles, ela, você, nós, elas, vocês, voce, vós_
+* `Acc` (1894; 69% of non-empty `Case`): _se, o, me, a, nos, lo, os, la, ele, eles_
+* `Acc,Dat` (4; 0% of non-empty `Case`): _nos, se_
+* `Acc,Nom` (71; 3% of non-empty `Case`): _ele, ela, eles, nós, elas, você_
+* `Dat` (227; 8% of non-empty `Case`): _lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no_
+* `Nom` (530; 19% of non-empty `Case`): _ele, eu, eles, ela, você, nós, elas, vocês, voce, vós_
 * `EMPTY` (4380): _que, o, o_que, isso, quem, os, tudo, a, nada, isto_
 
 <table>
@@ -84,6 +88,10 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt>Person=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos, nós</i></td><td><i>nos, nos*</i></td></tr>
   <tr><td><tt>Person=1|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td><i>nos, no</i></td></tr>
 </table>
+
+## Relations with Agreement in `Case`
+
+The 10 most frequent relations where parent and child node agree in `Case`: `PRON --[conj]--> PRON` (5; 100%).
 
 
 
@@ -109,8 +117,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (26125; 89%): _o, a, os, as, o(s)_
-* `Ind` (3088; 11%): _um, uma, o_
+* `Def` (26125; 89% of non-empty `Definite`): _o, a, os, as, o(s)_
+* `Ind` (3088; 11% of non-empty `Definite`): _um, uma, o_
 * `EMPTY` (4007): _sua, seu, este, esta, seus, suas, esse, qualquer, outros, mais_
 
 <table>
@@ -139,8 +147,8 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (258; 95%): _o, os, a, as, O_que, um_
-* `Ind` (15; 5%): _um, uma_
+* `Def` (258; 95% of non-empty `Definite`): _o, os, a, as, O_que, um_
+* `Ind` (15; 5% of non-empty `Definite`): _um, uma_
 * `EMPTY` (6833): _que, se, ele, o, o_que, isso, quem, lhe, eles, eu_
 
 <table>
@@ -149,6 +157,10 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
   <tr><td><tt>Gender=Masc|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
   <tr><td><tt>Gender=Fem|PronType=Art</tt></td><td><i>uma</i></td><td></td></tr>
 </table>
+
+## Relations with Agreement in `Definite`
+
+The 10 most frequent relations where parent and child node agree in `Definite`: `DET --[conj]--> PRON` (2; 100%).
 
 
 
@@ -174,8 +186,8 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (479; 98%): _mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos_
-* `Sup` (9; 2%): _melhor, Pior_
+* `Cmp` (479; 98% of non-empty `Degree`): _mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos_
+* `Sup` (9; 2% of non-empty `Degree`): _melhor, Pior_
 * `EMPTY` (9001): _não, como, também, já, ontem, ainda, quando, só, depois, muito_
 
 <table>
@@ -193,8 +205,8 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 `DET` tokens may have the following values of `Degree`:
 
-* `Cmp` (414; 100%): _outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais_
-* `Sup` (1; 0%): _muitíssimo_
+* `Cmp` (414; 100% of non-empty `Degree`): _outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais_
+* `Sup` (1; 0% of non-empty `Degree`): _muitíssimo_
 * `EMPTY` (32805): _o, a, os, as, um, uma, sua, seu, este, esta_
 
 ### `ADJ`
@@ -205,8 +217,8 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (203; 58%): _maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores_
-* `Sup` (150; 42%): _melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo_
+* `Cmp` (203; 58% of non-empty `Degree`): _maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores_
+* `Sup` (150; 42% of non-empty `Degree`): _melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo_
 * `EMPTY` (10355): _primeiro, novo, primeira, grande, nova, grandes, último, nacional, última, segundo_
 
 <table>
@@ -225,8 +237,12 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 `PRON` tokens may have the following values of `Degree`:
 
-* `Cmp` (120; 100%): _outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto_
+* `Cmp` (120; 100% of non-empty `Degree`): _outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto_
 * `EMPTY` (6986): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
+
+## Relations with Agreement in `Degree`
+
+The 10 most frequent relations where parent and child node agree in `Degree`: `PRON --[conj]--> ADJ` (1; 100%).
 
 
 
@@ -252,8 +268,8 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (18125; 46%): _pessoas, parte, semana, empresa, empresas, cidade, forma, vida, casa, noite_
-* `Masc` (21665; 54%): _anos, milhões, ano, dia, país, US$, presidente, contos, por_cento, grupo_
+* `Fem` (18125; 46% of non-empty `Gender`): _pessoas, parte, semana, empresa, empresas, cidade, forma, vida, casa, noite_
+* `Masc` (21665; 54% of non-empty `Gender`): _anos, milhões, ano, dia, país, US$, presidente, contos, por_cento, grupo_
 * `EMPTY` (102): _especialistas, representantes, jornalistas, habitantes, estudantes, presidente, visitantes, alevitas, artistas, clientes_
 
 <table>
@@ -273,8 +289,8 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (14144; 44%): _a, as, uma, sua, esta, suas, essa, outras, algumas, mesma_
-* `Masc` (17869; 56%): _o, os, um, seu, este, seus, esse, outros, alguns, mesmo_
+* `Fem` (14144; 44% of non-empty `Gender`): _a, as, uma, sua, esta, suas, essa, outras, algumas, mesma_
+* `Masc` (17869; 56% of non-empty `Gender`): _o, os, um, seu, este, seus, esse, outros, alguns, mesmo_
 * `EMPTY` (1207): _a, as, mais, cada, qualquer, menos, o_
 
 <table>
@@ -303,8 +319,8 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (3663; 33%): _Lisboa, Folha, Alemanha, França, Espanha, Europa, Rússia, Itália, Internet, Bósnia_
-* `Masc` (7569; 67%): _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Rio, Porto, FHC_
+* `Fem` (3663; 33% of non-empty `Gender`): _Lisboa, Folha, Alemanha, França, Espanha, Europa, Rússia, Itália, Internet, Bósnia_
+* `Masc` (7569; 67% of non-empty `Gender`): _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Rio, Porto, FHC_
 * `EMPTY` (474): _Coimbra, Alvalade, Sagres, Barcelos, Ermesinde, Maastricht, Setúbal, Sines, Aveiro, Braga_
 
 <table>
@@ -322,8 +338,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (4775; 45%): _primeira, nova, maior, grande, última, segunda, boa, política, novas, próxima_
-* `Masc` (5849; 55%): _primeiro, novo, último, segundo, últimos, maior, grande, novos, bom, próximo_
+* `Fem` (4775; 45% of non-empty `Gender`): _primeira, nova, maior, grande, última, segunda, boa, política, novas, próxima_
+* `Masc` (5849; 55% of non-empty `Gender`): _primeiro, novo, último, segundo, últimos, maior, grande, novos, bom, próximo_
 * `EMPTY` (84): _jovens, especial, melhor, capaz, favorável, grandes, inconvenientes, menores, mole, responsáveis_
 
 <table>
@@ -344,8 +360,8 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1894; 30%): _que, se, a, ela, as, elas, lhe, esta, eu, la_
-* `Masc` (4468; 70%): _que, se, o, ele, o_que, isso, os, eles, tudo, lhe_
+* `Fem` (1894; 30% of non-empty `Gender`): _que, se, a, ela, as, elas, lhe, esta, eu, la_
+* `Masc` (4468; 70% of non-empty `Gender`): _que, se, o, ele, o_que, isso, os, eles, tudo, lhe_
 * `EMPTY` (744): _se, quem, me, nos, eu, você, nós, mais, lhe, mim_
 
 <table>
@@ -368,8 +384,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (1674; 40%): _passada, feita, feitas, prevista, considerada, criada, realizada, aberta, dada, utilizada_
-* `Masc` (2519; 60%): _passado, feito, eleito, aberto, considerado, previsto, ligados, realizado, acusado, divulgado_
+* `Fem` (1674; 40% of non-empty `Gender`): _passada, feita, feitas, prevista, considerada, criada, realizada, aberta, dada, utilizada_
+* `Masc` (2519; 60% of non-empty `Gender`): _passado, feito, eleito, aberto, considerado, previsto, ligados, realizado, acusado, divulgado_
 * `EMPTY` (21647): _é, foi, tem, está, são, ser, há, ter, disse, foram_
 
 <table>
@@ -386,8 +402,8 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (690; 17%): _uma, duas, três, quatro, mil, seis, cinco, 200, dez, sete_
-* `Masc` (3420; 83%): _um, dois, mil, três, quatro, cinco, 15, 30, 20, dez_
+* `Fem` (690; 17% of non-empty `Gender`): _uma, duas, três, quatro, mil, seis, cinco, 200, dez, sete_
+* `Masc` (3420; 83% of non-empty `Gender`): _um, dois, mil, três, quatro, cinco, 15, 30, 20, dez_
 * `EMPTY` (52): _mil, 011, 1., 2, 011_959-2650, 01202-001, 07.00-09.00, 1, 1), 1.85000_
 
 <table>
@@ -405,7 +421,7 @@ The most frequent other feature values with which `SYM` and `Gender` co-occurred
 
 `SYM` tokens may have the following values of `Gender`:
 
-* `Masc` (179; 100%): _%_
+* `Masc` (179; 100% of non-empty `Gender`): _%_
 
 ### `AUX`
 
@@ -415,8 +431,8 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (8; 25%): _convertidas, apresentada, decididas, discutidas, esmagadas, subscrita, sujeitas_
-* `Masc` (24; 75%): _sido, atracado, atualizados, construídos, convertidas, deslocado, entregue, entregues, favorecido, inspeccionados_
+* `Fem` (8; 25% of non-empty `Gender`): _convertidas, apresentada, decididas, discutidas, esmagadas, subscrita, sujeitas_
+* `Masc` (24; 75% of non-empty `Gender`): _sido, atracado, atualizados, construídos, convertidas, deslocado, entregue, entregues, favorecido, inspeccionados_
 * `EMPTY` (433): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 <table>
@@ -434,8 +450,8 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 `ADV` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 14%): _da_ordem, mais_
-* `Masc` (12; 86%): _etc., mais, fundo, juntos_
+* `Fem` (2; 14% of non-empty `Gender`): _da_ordem, mais_
+* `Masc` (12; 86% of non-empty `Gender`): _etc., mais, fundo, juntos_
 * `EMPTY` (9475): _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
 ### `INTJ`
@@ -444,8 +460,8 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 `INTJ` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 67%): _Obrigada, rua_
-* `Masc` (1; 33%): _Adeus_
+* `Fem` (2; 67% of non-empty `Gender`): _Obrigada, rua_
+* `Masc` (1; 33% of non-empty `Gender`): _Adeus_
 * `EMPTY` (37): _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_
 
 ### `ADP`
@@ -456,8 +472,8 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 
 `ADP` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 50%): _obra_do_mestre_
-* `Masc` (1; 50%): _sobre_
+* `Fem` (1; 50% of non-empty `Gender`): _obra_do_mestre_
+* `Masc` (1; 50% of non-empty `Gender`): _sobre_
 * `EMPTY` (32394): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 ### `PART`
@@ -468,8 +484,12 @@ The most frequent other feature values with which `PART` and `Gender` co-occurre
 
 `PART` tokens may have the following values of `Gender`:
 
-* `Masc` (1; 100%): _pós_
+* `Masc` (1; 100% of non-empty `Gender`): _pós_
 * `EMPTY` (4): _anti-, ex, ex-, pré-_
+
+## Relations with Agreement in `Gender`
+
+The 10 most frequent relations where parent and child node agree in `Gender`: `NOUN --[det]--> DET` (26645; 96%), `NOUN --[amod]--> ADJ` (8199; 98%), `PROPN --[det]--> DET` (4417; 93%), `NOUN --[nummod]--> NUM` (2719; 94%), `NOUN --[nmod]--> PROPN` (2364; 57%), `NOUN --[conj]--> NOUN` (1336; 60%), `PROPN --[conj]--> PROPN` (828; 74%), `PROPN --[nmod]--> NOUN` (526; 70%), `ADJ --[det]--> DET` (504; 96%), `ADJ --[conj]--> ADJ` (364; 97%).
 
 
 
@@ -495,7 +515,7 @@ The most frequent other feature values with which `VERB` and `Hyph` co-occurred:
 
 `VERB` tokens may have the following values of `Hyph`:
 
-* `Yes` (609; 100%): _trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-_
+* `Yes` (609; 100% of non-empty `Hyph`): _trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-_
 
 `Hyph` seems to be **lexical feature** of `VERB`. 100% lemmas (307) occur only with one value of `Hyph`.
 
@@ -507,7 +527,7 @@ The most frequent other feature values with which `PRON` and `Hyph` co-occurred:
 
 `PRON` tokens may have the following values of `Hyph`:
 
-* `Yes` (13; 100%): _se-, lhe-, la-, me-_
+* `Yes` (13; 100% of non-empty `Hyph`): _se-, lhe-, la-, me-_
 
 ### `PROPN`
 
@@ -517,7 +537,7 @@ The most frequent other feature values with which `PROPN` and `Hyph` co-occurred
 
 `PROPN` tokens may have the following values of `Hyph`:
 
-* `Yes` (7; 100%): _PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona_
+* `Yes` (7; 100% of non-empty `Hyph`): _PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona_
 
 ### `PART`
 
@@ -527,7 +547,7 @@ The most frequent other feature values with which `PART` and `Hyph` co-occurred:
 
 `PART` tokens may have the following values of `Hyph`:
 
-* `Yes` (5; 100%): _anti-, ex, ex-, pré-, pós_
+* `Yes` (5; 100% of non-empty `Hyph`): _anti-, ex, ex-, pré-, pós_
 
 ### `NOUN`
 
@@ -537,7 +557,7 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 `NOUN` tokens may have the following values of `Hyph`:
 
-* `Yes` (4; 100%): _clientes, lugares-comuns, média-alta, partido_
+* `Yes` (4; 100% of non-empty `Hyph`): _clientes, lugares-comuns, média-alta, partido_
 
 ### `AUX`
 
@@ -547,7 +567,7 @@ The most frequent other feature values with which `AUX` and `Hyph` co-occurred: 
 
 `AUX` tokens may have the following values of `Hyph`:
 
-* `Yes` (2; 100%): _encaminhar-, mandar-_
+* `Yes` (2; 100% of non-empty `Hyph`): _encaminhar-, mandar-_
 
 ### `ADJ`
 
@@ -557,7 +577,7 @@ The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: 
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (1; 100%): _socialistas_
+* `Yes` (1; 100% of non-empty `Hyph`): _socialistas_
 
 
 
@@ -583,10 +603,10 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (340; 2%): _seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria_
-* `Imp` (7; 0%): _Sê, move, Olha, chega_
-* `Ind` (14449; 92%): _é, foi, tem, está, são, há, disse, foram, vai, era_
-* `Sub` (982; 6%): _seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam_
+* `Cnd` (340; 2% of non-empty `Mood`): _seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria_
+* `Imp` (7; 0% of non-empty `Mood`): _Sê, move, Olha, chega_
+* `Ind` (14449; 92% of non-empty `Mood`): _é, foi, tem, está, são, há, disse, foram, vai, era_
+* `Sub` (982; 6% of non-empty `Mood`): _seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam_
 * `EMPTY` (10062): _ser, ter, fazer, ver, passado, dar, feito, dizer, estar, passada_
 
 <table>
@@ -629,9 +649,9 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (1; 17%): _teria_
-* `Ind` (4; 67%): _está, são, vamos, é_
-* `Sub` (1; 17%): _desencadear_
+* `Cnd` (1; 17% of non-empty `Mood`): _teria_
+* `Ind` (4; 67% of non-empty `Mood`): _está, são, vamos, é_
+* `Sub` (1; 17% of non-empty `Mood`): _desencadear_
 * `EMPTY` (459): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 ### `INTJ`
@@ -640,8 +660,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 `INTJ` tokens may have the following values of `Mood`:
 
-* `Ind` (1; 100%): _viu_
+* `Ind` (1; 100% of non-empty `Mood`): _viu_
 * `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
+
+## Relations with Agreement in `Mood`
+
+The 10 most frequent relations where parent and child node agree in `Mood`: `VERB --[conj]--> VERB` (1063; 90%), `VERB --[dep]--> VERB` (21; 66%), `VERB --[cc]--> VERB` (11; 92%).
 
 
 
@@ -654,7 +678,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]()
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
 
 126963 tokens (60%) have a non-empty value of `Number`.
 26828 types (97%) occur at least once with a non-empty value of `Number`.
@@ -669,8 +693,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (11979; 30%): _anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses_
-* `Sing` (27899; 70%): _ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana_
+* `Plur` (11979; 30% of non-empty `Number`): _anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses_
+* `Sing` (27899; 70% of non-empty `Number`): _ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana_
 * `EMPTY` (14): _21h, 21h30, P., morte, pedido, peemedebistas, pessoa, piano, polícia, prova_
 
 <table>
@@ -686,8 +710,8 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (7031; 21%): _os, as, seus, suas, outros, alguns, outras, algumas, todos, estes_
-* `Sing` (26184; 79%): _o, a, um, uma, sua, seu, este, esta, esse, qualquer_
+* `Plur` (7031; 21% of non-empty `Number`): _os, as, seus, suas, outros, alguns, outras, algumas, todos, estes_
+* `Sing` (26184; 79% of non-empty `Number`): _o, a, um, uma, sua, seu, este, esta, esse, qualquer_
 * `EMPTY` (5): _mais, a, menos, o(s)_
 
 <table>
@@ -716,8 +740,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (5334; 26%): _são, foram, estão, têm, vão, podem, serão, devem, estavam, eram_
-* `Sing` (15025; 74%): _é, foi, tem, está, há, disse, vai, era, pode, diz_
+* `Plur` (5334; 26% of non-empty `Number`): _são, foram, estão, têm, vão, podem, serão, devem, estavam, eram_
+* `Sing` (15025; 74% of non-empty `Number`): _é, foi, tem, está, há, disse, vai, era, pode, diz_
 * `EMPTY` (5481): _ser, ter, fazer, ver, dar, dizer, estar, tendo, falar, saber_
 
 <table>
@@ -759,8 +783,8 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (414; 4%): _EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs_
-* `Sing` (11268; 96%): _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha_
+* `Plur` (414; 4% of non-empty `Number`): _EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs_
+* `Sing` (11268; 96% of non-empty `Number`): _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha_
 * `EMPTY` (24): _Chaves, Maio, Setembro, Carvalhas, Colares, Entre-os-Rios, Fernanda_Pinto_Rodrigues, Igreja_Adventista_do_Sétimo_Dia, Instituto_Superior_de_Economia_e_Gestao, Jolo_
 
 <table>
@@ -778,8 +802,8 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (3134; 29%): _grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores_
-* `Sing` (7564; 71%): _maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última_
+* `Plur` (3134; 29% of non-empty `Number`): _grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores_
+* `Sing` (7564; 71% of non-empty `Number`): _maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última_
 * `EMPTY` (10): _a_favor, além-Pirinéus, ao_ar_livre, capaz, de_fato, em_questão, geral, por_excelência, quarto, trémula_
 
 <table>
@@ -801,8 +825,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1850; 27%): _que, se, os, eles, nos, as, elas, nós, todos, outros_
-* `Sing` (4885; 73%): _que, se, o, ele, o_que, isso, lhe, a, quem, eu_
+* `Plur` (1850; 27% of non-empty `Number`): _que, se, os, eles, nos, as, elas, nós, todos, outros_
+* `Sing` (4885; 73% of non-empty `Number`): _que, se, o, ele, o_que, isso, lhe, a, quem, eu_
 * `EMPTY` (371): _se, mais, quem, que, o_que, se-, mais_de, si, um_pouco, Todo_mundo_
 
 <table>
@@ -825,8 +849,8 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (3224; 78%): _dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez_
-* `Sing` (932; 22%): _um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990_
+* `Plur` (3224; 78% of non-empty `Number`): _dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez_
+* `Sing` (932; 22% of non-empty `Number`): _um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990_
 * `EMPTY` (6): _1., 07.00-09.00, 1, 10.00-12.00, 18_
 
 <table>
@@ -844,7 +868,7 @@ The most frequent other feature values with which `SYM` and `Number` co-occurred
 
 `SYM` tokens may have the following values of `Number`:
 
-* `Plur` (179; 100%): _%_
+* `Plur` (179; 100% of non-empty `Number`): _%_
 
 ### `AUX`
 
@@ -854,8 +878,8 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (15; 38%): _convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos_
-* `Sing` (25; 63%): _sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado_
+* `Plur` (15; 38% of non-empty `Number`): _convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos_
+* `Sing` (25; 63% of non-empty `Number`): _sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado_
 * `EMPTY` (425): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 <table>
@@ -874,8 +898,8 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Plur` (3; 21%): _mais, juntos_
-* `Sing` (11; 79%): _etc., mais, da_ordem, fundo_
+* `Plur` (3; 21% of non-empty `Number`): _mais, juntos_
+* `Sing` (11; 79% of non-empty `Number`): _etc., mais, da_ordem, fundo_
 * `EMPTY` (9475): _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
 <table>
@@ -889,7 +913,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 `INTJ` tokens may have the following values of `Number`:
 
-* `Sing` (4; 100%): _Adeus, Obrigada, rua, viu_
+* `Sing` (4; 100% of non-empty `Number`): _Adeus, Obrigada, rua, viu_
 * `EMPTY` (36): _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_
 
 ### `ADP`
@@ -900,7 +924,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Sing` (2; 100%): _obra_do_mestre, sobre_
+* `Sing` (2; 100% of non-empty `Number`): _obra_do_mestre, sobre_
 * `EMPTY` (32394): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 ### `PART`
@@ -911,8 +935,12 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 `PART` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100%): _pós_
+* `Sing` (1; 100% of non-empty `Number`): _pós_
 * `EMPTY` (4): _anti-, ex, ex-, pré-_
+
+## Relations with Agreement in `Number`
+
+The 10 most frequent relations where parent and child node agree in `Number`: `NOUN --[det]--> DET` (27628; 100%), `NOUN --[amod]--> ADJ` (8213; 98%), `NOUN --[nmod]--> NOUN` (7068; 61%), `VERB --[nsubj]--> NOUN` (4869; 95%), `PROPN --[det]--> DET` (4737; 99%), `NOUN --[acl]--> VERB` (3540; 78%), `NOUN --[nmod]--> PROPN` (3259; 79%), `NOUN --[nummod]--> NUM` (2553; 88%), `VERB --[nsubj]--> PRON` (2552; 88%), `VERB --[nsubj]--> PROPN` (1955; 93%).
 
 
 
@@ -925,7 +953,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 This feature is language-specific.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]()
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
 
 1288 tokens (1%) have a non-empty value of `Number[psor]`.
 23 types (0%) occur at least once with a non-empty value of `Number[psor]`.
@@ -993,7 +1021,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4042; 100%): _um, dois, três, mil, uma, duas, quatro, cinco, 15, 30_
+* `Card` (4042; 100% of non-empty `NumType`): _um, dois, três, mil, uma, duas, quatro, cinco, 15, 30_
 * `EMPTY` (120): _1, 0, 1992, 2, 23, mil, três, 10, 14, 5_
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (806) occur only with one value of `NumType`.
@@ -1006,7 +1034,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Card` (1307; 100%): _mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante_
+* `Card` (1307; 100% of non-empty `NumType`): _mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante_
 * `EMPTY` (8182): _não, como, também, já, ontem, ainda, quando, só, depois, onde_
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (40) occur only with one value of `NumType`.
@@ -1019,7 +1047,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (1147; 100%): _qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo_
+* `Card` (1147; 100% of non-empty `NumType`): _qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo_
 * `EMPTY` (32073): _o, a, os, as, um, uma, sua, seu, este, esta_
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (34) occur only with one value of `NumType`.
@@ -1032,8 +1060,8 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Card` (1; 0%): _primeiro_
-* `Ord` (790; 100%): _primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira_
+* `Card` (1; 0% of non-empty `NumType`): _primeiro_
+* `Ord` (790; 100% of non-empty `NumType`): _primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira_
 * `EMPTY` (9917): _maior, novo, grande, nova, grandes, melhor, nacional, mundial, responsável, boa_
 
 <table>
@@ -1055,7 +1083,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (458; 100%): _tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos_
+* `Card` (458; 100% of non-empty `NumType`): _tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos_
 * `EMPTY` (6648): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (34) occur only with one value of `NumType`.
@@ -1068,8 +1096,8 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 `NOUN` tokens may have the following values of `NumType`:
 
-* `Card` (3; 75%): _mil, 66'_
-* `Ord` (1; 25%): _2ª_
+* `Card` (3; 75% of non-empty `NumType`): _mil, 66'_
+* `Ord` (1; 25% of non-empty `NumType`): _2ª_
 * `EMPTY` (39888): _anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento_
 
 ### `PROPN`
@@ -1080,8 +1108,12 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 `PROPN` tokens may have the following values of `NumType`:
 
-* `Card` (1; 100%): _Doze_
+* `Card` (1; 100% of non-empty `NumType`): _Doze_
 * `EMPTY` (11705): _Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio_
+
+## Relations with Agreement in `NumType`
+
+The 10 most frequent relations where parent and child node agree in `NumType`: `NUM --[compound]--> NUM` (130; 100%), `NUM --[conj]--> NUM` (96; 99%), `ADJ --[conj]--> ADJ` (17; 89%), `DET --[advmod]--> ADV` (4; 57%), `PRON --[conj]--> PRON` (3; 100%), `DET --[nummod]--> NUM` (3; 60%), `NOUN --[compound]--> NUM` (2; 100%), `ADV --[cop]--> PRON` (1; 100%), `ADV --[dobj]--> PRON` (1; 100%), `NUM --[case]--> ADV` (1; 100%).
 
 
 
@@ -1108,10 +1140,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (896; 6%): _tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos_
-* `1,3` (49; 0%): _veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-_
-* `2` (19; 0%): _Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais_
-* `3` (15202; 94%): _é, foi, tem, está, são, há, disse, foram, vai, era_
+* `1` (896; 6% of non-empty `Person`): _tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos_
+* `1,3` (49; 0% of non-empty `Person`): _veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-_
+* `2` (19; 0% of non-empty `Person`): _Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais_
+* `3` (15202; 94% of non-empty `Person`): _é, foi, tem, está, são, há, disse, foram, vai, era_
 * `EMPTY` (9674): _ser, ter, fazer, ver, passado, dar, feito, passada, dizer, estar_
 
 <table>
@@ -1151,9 +1183,9 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (320; 12%): _eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu_
-* `2` (9; 0%): _te, ti, vos, vós_
-* `3` (2408; 88%): _se, ele, lhe, o, eles, ela, a, elas, você, lo_
+* `1` (320; 12% of non-empty `Person`): _eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu_
+* `2` (9; 0% of non-empty `Person`): _te, ti, vos, vós_
+* `3` (2408; 88% of non-empty `Person`): _se, ele, lhe, o, eles, ela, a, elas, você, lo_
 * `EMPTY` (4369): _que, o, o_que, isso, quem, os, tudo, a, nada, isto_
 
 <table>
@@ -1186,9 +1218,9 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (179; 14%): _meu, nosso, nossa, minha, nossos, nossas, minhas, meus_
-* `2` (8; 1%): _vossa, teu, vosso, seu_
-* `3` (1092; 85%): _sua, seu, seus, suas_
+* `1` (179; 14% of non-empty `Person`): _meu, nosso, nossa, minha, nossos, nossas, minhas, meus_
+* `2` (8; 1% of non-empty `Person`): _vossa, teu, vosso, seu_
+* `3` (1092; 85% of non-empty `Person`): _sua, seu, seus, suas_
 * `EMPTY` (31941): _o, a, os, as, um, uma, este, esta, esse, qualquer_
 
 <table>
@@ -1221,8 +1253,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1; 13%): _vamos_
-* `3` (7; 88%): _dar, desencadear, está, mostrarem, são, teria, é_
+* `1` (1; 13% of non-empty `Person`): _vamos_
+* `3` (7; 88% of non-empty `Person`): _dar, desencadear, está, mostrarem, são, teria, é_
 * `EMPTY` (457): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 ### `INTJ`
@@ -1231,8 +1263,12 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `INTJ` tokens may have the following values of `Person`:
 
-* `3` (1; 100%): _viu_
+* `3` (1; 100% of non-empty `Person`): _viu_
 * `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
+
+## Relations with Agreement in `Person`
+
+The 10 most frequent relations where parent and child node agree in `Person`: `VERB --[conj]--> VERB` (1049; 87%), `VERB --[iobj]--> PRON` (240; 64%), `VERB --[dep]--> VERB` (22; 69%), `VERB --[auxpass:reflex]--> PRON` (21; 78%), `VERB --[parataxis]--> VERB` (18; 55%), `VERB --[dep]--> PRON` (17; 89%), `VERB --[cc]--> VERB` (11; 92%), `PRON --[conj]--> PRON` (4; 80%), `VERB --[acl]--> VERB` (3; 60%).
 
 
 
@@ -1258,7 +1294,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1279; 100%): _sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas_
+* `Yes` (1279; 100% of non-empty `Poss`): _sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas_
 * `EMPTY` (31941): _o, a, os, as, um, uma, este, esta, esse, qualquer_
 
 ### `PRON`
@@ -1269,7 +1305,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (13; 100%): _seu, meus, nossos, seus, meu, nossa_
+* `Yes` (13; 100% of non-empty `Poss`): _seu, meus, nossos, seus, meu, nossa_
 * `EMPTY` (7093): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
 
 
@@ -1296,9 +1332,13 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 `PRON` tokens may have the following values of `PrepCase`:
 
-* `Pre` (190; 100%): _ele, ela, eles, mim, elas, si, nós, ti, você, vós_
+* `Pre` (190; 100% of non-empty `PrepCase`): _ele, ela, eles, mim, elas, si, nós, ti, você, vós_
 
 `PrepCase` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `PrepCase`.
+
+## Relations with Agreement in `PrepCase`
+
+The 10 most frequent relations where parent and child node agree in `PrepCase`: `PRON --[conj]--> PRON` (1; 100%).
 
 
 
@@ -1325,12 +1365,12 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (29063; 89%): _o, a, os, as, um, uma_
-* `Dem` (980; 3%): _este, esta, esse, essa, estes, estas, aquela, essas, esses, aquele_
-* `Ind,Neg,Tot` (1141; 4%): _qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo_
-* `Int` (24; 0%): _que, Quantos, qual, quanto, Quantas, quais_
-* `Prs` (1279; 4%): _sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas_
-* `Rel` (56; 0%): _cuja, cujo, cujas, cujos, qual, Quantos, quais_
+* `Art` (29063; 89% of non-empty `PronType`): _o, a, os, as, um, uma_
+* `Dem` (980; 3% of non-empty `PronType`): _este, esta, esse, essa, estes, estas, aquela, essas, esses, aquele_
+* `Ind,Neg,Tot` (1141; 4% of non-empty `PronType`): _qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo_
+* `Int` (24; 0% of non-empty `PronType`): _que, Quantos, qual, quanto, Quantas, quais_
+* `Prs` (1279; 4% of non-empty `PronType`): _sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas_
+* `Rel` (56; 0% of non-empty `PronType`): _cuja, cujo, cujas, cujos, qual, Quantos, quais_
 * `EMPTY` (677): _outros, o, outras, mesmo, outro, mesma, a, outra, próprio, os_
 
 <table>
@@ -1360,14 +1400,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Art` (244; 4%): _o, os, a, as, um, uma_
-* `Dem` (551; 8%): _isso, o, isto, a, este, os, esta, aquilo, as, essa_
-* `Ind` (133; 2%): _ninguém, que, alguém, cada_um, toda_a_gente, o_que, todo, todo_o_mundo, cada_qual, Quem_
-* `Ind,Neg,Tot` (434; 6%): _tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos_
-* `Int` (108; 2%): _o_que, quem, qual, quais, quanto, que, quando, quantos, quê_
-* `Prs` (2752; 40%): _se, ele, lhe, o, eles, eu, ela, me, nos, a_
-* `Rcp` (4; 0%): _se_
-* `Rel` (2664; 39%): _que, o_que, quem, o_qual, os_quais, a_qual, tudo_o_que, as_quais, qual, quais_
+* `Art` (244; 4% of non-empty `PronType`): _o, os, a, as, um, uma_
+* `Dem` (551; 8% of non-empty `PronType`): _isso, o, isto, a, este, os, esta, aquilo, as, essa_
+* `Ind` (133; 2% of non-empty `PronType`): _ninguém, que, alguém, cada_um, toda_a_gente, o_que, todo, todo_o_mundo, cada_qual, Quem_
+* `Ind,Neg,Tot` (434; 6% of non-empty `PronType`): _tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos_
+* `Int` (108; 2% of non-empty `PronType`): _o_que, quem, qual, quais, quanto, que, quando, quantos, quê_
+* `Prs` (2752; 40% of non-empty `PronType`): _se, ele, lhe, o, eles, eu, ela, me, nos, a_
+* `Rcp` (4; 0% of non-empty `PronType`): _se_
+* `Rel` (2664; 39% of non-empty `PronType`): _que, o_que, quem, o_qual, os_quais, a_qual, tudo_o_que, as_quais, qual, quais_
 * `EMPTY` (216): _o, outros, mesmo, outro, os, a, outra, outras, as, mesma_
 
 <table>
@@ -1391,10 +1431,10 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (42; 2%): _tão, tal_
-* `Ind,Neg,Tot` (1296; 55%): _mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante_
-* `Int` (95; 4%): _como, onde, porque, por_que, porquê, quando, que, para_onde, quanto, até_que_ponto_
-* `Rel` (919; 39%): _como, quando, onde, enquanto, tal_como, apenas, conforme, à_medida_que, bem_como, assim_como_
+* `Dem` (42; 2% of non-empty `PronType`): _tão, tal_
+* `Ind,Neg,Tot` (1296; 55% of non-empty `PronType`): _mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante_
+* `Int` (95; 4% of non-empty `PronType`): _como, onde, porque, por_que, porquê, quando, que, para_onde, quanto, até_que_ponto_
+* `Rel` (919; 39% of non-empty `PronType`): _como, quando, onde, enquanto, tal_como, apenas, conforme, à_medida_que, bem_como, assim_como_
 * `EMPTY` (7137): _não, também, já, ontem, ainda, só, depois, agora, hoje, antes_
 
 <table>
@@ -1413,7 +1453,7 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 `ADP` tokens may have the following values of `PronType`:
 
-* `Rel` (141; 100%): _segundo, como, conforme_
+* `Rel` (141; 100% of non-empty `PronType`): _segundo, como, conforme_
 * `EMPTY` (32255): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 ### `SCONJ`
@@ -1422,8 +1462,12 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 `SCONJ` tokens may have the following values of `PronType`:
 
-* `Rel` (1; 100%): _ao_passo_que_
+* `Rel` (1; 100% of non-empty `PronType`): _ao_passo_que_
 * `EMPTY` (2279): _que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se_
+
+## Relations with Agreement in `PronType`
+
+The 10 most frequent relations where parent and child node agree in `PronType`: `PRON --[conj]--> PRON` (17; 94%), `DET --[conj]--> PRON` (6; 67%), `ADV --[cop]--> PRON` (1; 100%).
 
 
 
@@ -1449,7 +1493,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (782; 100%): _se, me, nos, si, se-, seu, te, me-, no, s_
+* `Yes` (782; 100% of non-empty `Reflex`): _se, me, nos, si, se-, seu, te, me-, no, s_
 * `EMPTY` (6324): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
 
 ### `DET`
@@ -1460,7 +1504,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (560; 100%): _sua, seu, seus, suas_
+* `Yes` (560; 100% of non-empty `Reflex`): _sua, seu, seus, suas_
 * `EMPTY` (32660): _o, a, os, as, um, uma, este, esta, sua, seu_
 
 
@@ -1488,13 +1532,13 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (973; 6%): _será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão_
-* `Imp` (1333; 9%): _era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia_
-* `Imp,Pqp` (361; 2%): _foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram_
-* `Past` (4171; 27%): _foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou_
-* `Past,Pres` (3; 0%): _conhecemos, conseguimos, decidimos_
-* `Pqp` (67; 0%): _fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera_
-* `Pres` (8524; 55%): _é, tem, está, são, há, vai, pode, estão, diz, têm_
+* `Fut` (973; 6% of non-empty `Tense`): _será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão_
+* `Imp` (1333; 9% of non-empty `Tense`): _era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia_
+* `Imp,Pqp` (361; 2% of non-empty `Tense`): _foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram_
+* `Past` (4171; 27% of non-empty `Tense`): _foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou_
+* `Past,Pres` (3; 0% of non-empty `Tense`): _conhecemos, conseguimos, decidimos_
+* `Pqp` (67; 0% of non-empty `Tense`): _fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera_
+* `Pres` (8524; 55% of non-empty `Tense`): _é, tem, está, são, há, vai, pode, estão, diz, têm_
 * `EMPTY` (10408): _ser, ter, fazer, ver, seria, passado, dar, feito, dizer, estar_
 
 <table>
@@ -1518,8 +1562,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (1; 20%): _desencadear_
-* `Pres` (4; 80%): _está, são, vamos, é_
+* `Fut` (1; 20% of non-empty `Tense`): _desencadear_
+* `Pres` (4; 80% of non-empty `Tense`): _está, são, vamos, é_
 * `EMPTY` (460): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 ### `INTJ`
@@ -1528,8 +1572,12 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 `INTJ` tokens may have the following values of `Tense`:
 
-* `Past` (1; 100%): _viu_
+* `Past` (1; 100% of non-empty `Tense`): _viu_
 * `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
+
+## Relations with Agreement in `Tense`
+
+The 10 most frequent relations where parent and child node agree in `Tense`: `VERB --[conj]--> VERB` (843; 72%), `VERB --[dep]--> VERB` (18; 58%), `VERB --[cc]--> VERB` (10; 83%).
 
 
 
@@ -1555,7 +1603,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100%): _abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe_
+* `Yes` (10; 100% of non-empty `Typo`): _abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe_
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Typo`.
 
@@ -1567,7 +1615,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100%): _definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad_
+* `Yes` (8; 100% of non-empty `Typo`): _definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad_
 
 ### `ADJ`
 
@@ -1577,7 +1625,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100%): _espacais, flutante, liquido, mlehor, supreendente, tradiciona_
+* `Yes` (6; 100% of non-empty `Typo`): _espacais, flutante, liquido, mlehor, supreendente, tradiciona_
 
 ### `ADP`
 
@@ -1587,7 +1635,7 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100%): _a, com, de, em_relação_a_
+* `Yes` (4; 100% of non-empty `Typo`): _a, com, de, em_relação_a_
 
 ### `ADV`
 
@@ -1597,7 +1645,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100%): _asim, excessivamnete, não_
+* `Yes` (3; 100% of non-empty `Typo`): _asim, excessivamnete, não_
 
 ### `DET`
 
@@ -1607,7 +1655,7 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100%): _a, os_
+* `Yes` (3; 100% of non-empty `Typo`): _a, os_
 
 ### `PROPN`
 
@@ -1617,7 +1665,7 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100%): _Carlos_Menem, Água_de_Cheiro_
+* `Yes` (2; 100% of non-empty `Typo`): _Carlos_Menem, Água_de_Cheiro_
 
 ### `PRON`
 
@@ -1627,7 +1675,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100%): _que_
+* `Yes` (1; 100% of non-empty `Typo`): _que_
 
 ### `NUM`
 
@@ -1637,7 +1685,7 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100%): _miul_
+* `Yes` (1; 100% of non-empty `Typo`): _miul_
 
 
 
@@ -1663,10 +1711,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (15781; 61%): _é, foi, tem, está, são, há, disse, foram, vai, era_
-* `Ger` (832; 3%): _tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando_
-* `Inf` (4685; 18%): _ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter_
-* `Part` (4542; 18%): _feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto_
+* `Fin` (15781; 61% of non-empty `VerbForm`): _é, foi, tem, está, são, há, disse, foram, vai, era_
+* `Ger` (832; 3% of non-empty `VerbForm`): _tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando_
+* `Inf` (4685; 18% of non-empty `VerbForm`): _ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter_
+* `Part` (4542; 18% of non-empty `VerbForm`): _feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -1719,10 +1767,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6; 1%): _desencadear, está, são, teria, vamos, é_
-* `Ger` (22; 5%): _sendo, enchendo, sujando, vindo_
-* `Inf` (323; 69%): _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_
-* `Part` (114; 25%): _sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado_
+* `Fin` (6; 1% of non-empty `VerbForm`): _desencadear, está, são, teria, vamos, é_
+* `Ger` (22; 5% of non-empty `VerbForm`): _sendo, enchendo, sujando, vindo_
+* `Inf` (323; 69% of non-empty `VerbForm`): _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_
+* `Part` (114; 25% of non-empty `VerbForm`): _sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -1733,4 +1781,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 </table>
 
 `VerbForm` seems to be **lexical feature** of `AUX`. 91% lemmas (62) occur only with one value of `VerbForm`.
+
+## Relations with Agreement in `VerbForm`
+
+The 10 most frequent relations where parent and child node agree in `VerbForm`: `VERB --[conj]--> VERB` (1391; 94%), `AUX --[xcomp]--> VERB` (36; 75%), `AUX --[conj]--> AUX` (31; 97%), `VERB --[dep]--> VERB` (27; 77%), `VERB --[parataxis]--> VERB` (22; 67%), `VERB --[cc]--> VERB` (13; 100%).
 
