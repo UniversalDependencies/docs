@@ -20,3 +20,5 @@ Average distance between parent and child is 2.12735849056604.
 
 The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (212; 100% instances).
 
+* `PROPN-PROPN`: _<b>Requiem_pelos_Vivos</b> , agora apenas <b>Requiem</b> , regressam em Outubro_
+

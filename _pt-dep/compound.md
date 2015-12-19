@@ -20,3 +20,6 @@ Average distance between parent and child is 1.3030303030303.
 
 The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/NUM]()-[pt-pos/NUM]() (130; 98% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 2% instances).
 
+* `NUM-NUM`: _Lisboa , <b>18</b> de Fevereiro de <b>1992</b> ._
+* `NOUN-NUM`: _O Benfica já conta , em este momento , com setenta mil sócios e <b>sete</b> <b>mil</b> praticantes ._
+

@@ -23,3 +23,7 @@ Average distance between parent and child is 1.30023094688222.
 
 The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (413; 95% instances), [pt-pos/AUX]()-[pt-pos/AUX]() (14; 3% instances), [pt-pos/PRON]()-[pt-pos/AUX]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances).
 
+* `VERB-AUX`: _Em o projeto não há definição de quantos <b>podem</b> <b>ser</b> construídos ._
+* `AUX-AUX`: _O cemitério de Sidi_Hammed vai <b>ter</b> de <b>ser</b> alargado --_
+* `PRON-AUX`: _Romário <b>é</b> <b>o</b> mais votado por leitores_
+

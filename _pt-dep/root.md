@@ -20,3 +20,7 @@ Average distance between parent and child is 7.18356662036542.
 
 The following 12 pairs of parts of speech are connected with `root`: [pt-pos/ROOT]()-[pt-pos/VERB]() (6900; 74% instances), [pt-pos/ROOT]()-[pt-pos/NOUN]() (1360; 15% instances), [pt-pos/ROOT]()-[pt-pos/ADJ]() (485; 5% instances), [pt-pos/ROOT]()-[pt-pos/PROPN]() (339; 4% instances), [pt-pos/ROOT]()-[pt-pos/PRON]() (126; 1% instances), [pt-pos/ROOT]()-[pt-pos/ADV]() (65; 1% instances), [pt-pos/ROOT]()-[pt-pos/NUM]() (45; 0% instances), [pt-pos/ROOT]()-[pt-pos/CONJ]() (14; 0% instances), [pt-pos/ROOT]()-[pt-pos/INTJ]() (13; 0% instances), [pt-pos/ROOT]()-[pt-pos/SYM]() (10; 0% instances), [pt-pos/ROOT]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ROOT]()-[pt-pos/SCONJ]() (1; 0% instances).
 
+* `ROOT-VERB`: _Audiência em a Justiça de o Pará <b>discute</b> diploma_
+* `ROOT-NOUN`: _De os fumantes , 18,1 milhões são <b>homens</b> e 12,5 milhões , mulheres ._
+* `ROOT-ADJ`: _Conforto é <b>fundamental</b> ._
+

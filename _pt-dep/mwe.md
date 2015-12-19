@@ -20,3 +20,5 @@ Average distance between parent and child is 1.
 
 The following 1 pairs of parts of speech are connected with `mwe`: [pt-pos/ADV]()-[pt-pos/ADP]() (2; 100% instances).
 
+* `ADV-ADP`: _Em isto <b>também</b> <b>em</b> a resistência e repetição de Beethoven Liszt é um foco importante , com reflexos em a obra de Tchaikovsky , Scriabin e Strauss ._
+
