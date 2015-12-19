@@ -567,6 +567,20 @@ collections:
   kk-overview:
     output: true
 #
+# Ukrainian
+#
+  uk-pos:
+    output: true
+    permalink: /uk/pos/:path.html
+  uk-feat:
+    output: true
+    permalink: /uk/feat/:path.html
+  uk-dep:
+    output: true
+    permalink: /uk/dep/:path.html
+  uk-overview:
+    output: true
+#
 # Template
 #
   template-pos:
