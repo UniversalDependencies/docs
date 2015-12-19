@@ -422,6 +422,8 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt></tt></td><td><i>convertidas</i></td><td><i>convertidas</i></td></tr>
 </table>
 
+`Gender` seems to be **lexical feature** of `AUX`. 95% lemmas (21) occur only with one value of `Gender`.
+
 ### `ADV`
 
 14 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
@@ -858,6 +860,8 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>é</i></td><td><i>são</i></td></tr>
 </table>
 
+`Number` seems to be **lexical feature** of `AUX`. 93% lemmas (26) occur only with one value of `Number`.
+
 ### `ADV`
 
 14 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
@@ -999,6 +1003,8 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (1307; 100%): _mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante_
 * `EMPTY` (8182): _não, como, também, já, ontem, ainda, quando, só, depois, onde_
 
+`NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (40) occur only with one value of `NumType`.
+
 ### `DET`
 
 1147 [pt-pos/DET]() tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
@@ -1009,6 +1015,8 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (1147; 100%): _qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo_
 * `EMPTY` (32073): _o, a, os, as, um, uma, sua, seu, este, esta_
+
+`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (34) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -1031,6 +1039,8 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
   <tr><td><tt>Number=Sing</tt></td><td></td><td><i>primeira</i></td></tr>
 </table>
 
+`NumType` seems to be **lexical feature** of `ADJ`. 99% lemmas (82) occur only with one value of `NumType`.
+
 ### `PRON`
 
 458 [pt-pos/PRON]() tokens (6% of all `PRON` tokens) have a non-empty value of `NumType`.
@@ -1041,6 +1051,8 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 * `Card` (458; 100%): _tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos_
 * `EMPTY` (6648): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
+
+`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (34) occur only with one value of `NumType`.
 
 ### `NOUN`
 
@@ -1381,6 +1393,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
   <tr><td><tt>NumType=Card</tt></td><td><i>quanto</i></td><td><i>quanto</i></td><td><i>quanto</i></td></tr>
 </table>
 
+`PronType` seems to be **lexical feature** of `ADV`. 91% lemmas (63) occur only with one value of `PronType`.
+
 ### `ADP`
 
 141 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `PronType`.
@@ -1705,4 +1719,6 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres</tt></td><td><i>é</i></td><td></td><td></td><td></td></tr>
   <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Pres</tt></td><td><i>são</i></td><td></td><td></td><td></td></tr>
 </table>
+
+`VerbForm` seems to be **lexical feature** of `AUX`. 91% lemmas (62) occur only with one value of `VerbForm`.
 
