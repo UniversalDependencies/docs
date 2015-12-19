@@ -81,12 +81,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Person=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos</i></td><td><i>nos</i></td></tr>
-  <tr><td><tt>Gender=Masc|Person=1|Reflex=Yes</tt></td><td></td><td></td><td></td><td><i>nos</i></td><td><i>nos</i></td></tr>
-  <tr><td><tt>Gender=Masc|Person=3</tt></td><td></td><td></td><td></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Person=1</tt></td><td></td><td><i>nós</i></td><td></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Person=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos, nós</i></td><td><i>nos, nos*</i></td></tr>
-  <tr><td><tt>Person=1|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td><i>nos, no</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos</i></td><td><i>nos</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=1|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td></td><td></td><td><i>nos</i></td><td><i>nos</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=1</tt></td><td></td><td><i>nós</i></td><td></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=1</tt></td><td></td><td><i>nós</i></td><td><i>nós</i></td><td><i>nos, nós</i></td><td><i>nos, nos*</i></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=1|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td><i>nos, no</i></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`
@@ -123,20 +123,20 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td></td><td><i>o(s)</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>o</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art</tt></td><td><i>o</i></td><td><i>o, a, Os</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art|Typo=Yes</tt></td><td></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|PronType=Art</tt></td><td></td><td><i>os, o</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>a</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art</tt></td><td></td><td><i>a, as</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art|Typo=Yes</tt></td><td></td><td><i>a</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>as</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|PronType=Art</tt></td><td></td><td><i>as</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Art</tt></td><td></td><td><i>a, o</i></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Art</tt></td><td></td><td><i>as</i></td></tr>
-  <tr><td><tt>PronType=Art</tt></td><td></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td></td><td><i>o(s)</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>o</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td><i>o, a, Os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>os, o</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>a, as</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>a, o</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><i>a</i></td></tr>
 </table>
 
 ### `PRON`
@@ -153,9 +153,9 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>um</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Art</tt></td><td><i>uma</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>um</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>uma</i></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Definite`
@@ -223,10 +223,10 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>maior</i></td><td><i>máximo</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>maiores</i></td><td><i>máximos</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>maior</i></td><td><i>máxima</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>maiores</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>maior</i></td><td><i>máximo</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><i>maiores</i></td><td><i>máximos</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><i>maior</i></td><td><i>máxima</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><i>maiores</i></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -274,9 +274,9 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>milhão</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>milhão</i></td><td></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td><i>milhões</i></td><td><i>milhões</i></td></tr>
-  <tr><td><tt>Number=Plur|Typo=Yes</tt></td><td><i>mi</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>milhão</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>milhões</i></td><td><i>milhões</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>mi</i></td><td></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6667) occur only with one value of `Gender`.
@@ -295,20 +295,20 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Definite=Def</tt></td><td><i>o(s)</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing|PronType=Art</tt></td><td><i>o, a, Os</i></td><td><i>a, as</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing|PronType=Art|Typo=Yes</tt></td><td><i>os</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur|PronType=Art</tt></td><td><i>os, o</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Definite=Ind|Number=Sing|PronType=Art</tt></td><td><i>o</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>o</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing|NumType=Card|PronType=Ind,Neg,Tot</tt></td><td></td><td><i>a</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Art</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Dem</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td><i>os</i></td><td></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Art</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Dem</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td><i>o(s)</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o, a, Os</i></td><td><i>a, as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>os</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>os, o</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>o</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card|<a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt></td><td></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
 </table>
 
 ### `PROPN`
@@ -344,12 +344,12 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Degree=Cmp|Number=Sing</tt></td><td><i>maior</i></td><td><i>maior</i></td></tr>
-  <tr><td><tt>Degree=Cmp|Number=Plur</tt></td><td><i>maiores</i></td><td><i>maiores</i></td></tr>
-  <tr><td><tt>Degree=Sup|Number=Sing</tt></td><td><i>máximo</i></td><td><i>máxima</i></td></tr>
-  <tr><td><tt>Degree=Sup|Number=Plur</tt></td><td><i>máximos</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>grande, maior, máximo</i></td><td><i>grande, maior, máxima</i></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td><i>grandes, máximos</i></td><td><i>grandes, maiores</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><i>maior</i></td><td><i>maior</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><i>maiores</i></td><td><i>maiores</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing</tt></td><td><i>máximo</i></td><td><i>máxima</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur</tt></td><td><i>máximos</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>grande, maior, máximo</i></td><td><i>grande, maior, máxima</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>grandes, máximos</i></td><td><i>grandes, maiores</i></td></tr>
 </table>
 
 ### `PRON`
@@ -366,14 +366,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Number=Sing|PronType=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Int</tt></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Rel|Typo=Yes</tt></td><td></td><td><i>que</i></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Ind</tt></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>PronType=Rel</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Ind</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><i>que</i></td></tr>
 </table>
 
 ### `VERB`
@@ -390,8 +390,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>tido</i></td><td><i>tida</i></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td></td><td><i>tidas</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>tido</i></td><td><i>tida</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>tidas</i></td></tr>
 </table>
 
 ### `NUM`
@@ -408,9 +408,9 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>um</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing|NumType=Card</tt></td><td><i>um</i></td><td><i>uma</i></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td><i>um</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>um</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>um</i></td><td><i>uma</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>um</i></td><td></td></tr>
 </table>
 
 ### `SYM`
@@ -611,34 +611,34 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt>Hyph=Yes|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>seja-</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=1,3|Tense=Fut|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>for</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=1,3|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=1,3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</tt></td><td><i>serei</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=1|Tense=Past|VerbForm=Fin</tt></td><td><i>fui</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=2|VerbForm=Fin</tt></td><td></td><td><i>Sê</i></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td><i>será</i></td><td></td><td></td><td><i>for, fôr</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Fut|VerbForm=Inf</tt></td><td><i>será</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Past|VerbForm=Fin</tt></td><td><i>foi, foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin</tt></td><td><i>çe</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>é, eis, é-, Sou</i></td><td></td><td></td><td><i>seja</i></td></tr>
-  <tr><td><tt>Number=Sing|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</tt></td><td><i>seremos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=1|Tense=Past|VerbForm=Fin</tt></td><td><i>fomos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</tt></td><td><i>somos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td><i>serão</i></td><td></td><td></td><td><i>forem</i></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Imp,Pqp|VerbForm=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td><i>eram</i></td><td></td><td></td><td><i>fossem</i></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Past|VerbForm=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>são</i></td><td></td><td></td><td><i>sejam</i></td></tr>
-  <tr><td><tt>Number=Plur|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seriam</i></td><td></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>seja-</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>for</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>serei</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fui</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>Sê</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>será</i></td><td></td><td></td><td><i>for, fôr</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td><i>será</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td></td><td></td><td><i>fosse</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foi, foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>çe</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>é, eis, é-, Sou</i></td><td></td><td></td><td><i>seja</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seremos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fomos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>somos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>serão</i></td><td></td><td></td><td><i>forem</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp,Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>eram</i></td><td></td><td></td><td><i>fossem</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>são</i></td><td></td><td></td><td><i>sejam</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td><i>seriam</i></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -716,20 +716,20 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|PronType=Art</tt></td><td><i>o, a, Os</i></td><td><i>os, o</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|PronType=Art|Typo=Yes</tt></td><td><i>os</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|PronType=Art</tt></td><td><i>a, as</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|PronType=Art|Typo=Yes</tt></td><td><i>a</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|PronType=Art</tt></td><td><i>a, o</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Definite=Ind|Gender=Masc|PronType=Art</tt></td><td><i>o</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Art</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Dem</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Fem|NumType=Card|PronType=Ind,Neg,Tot</tt></td><td><i>a</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Art</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Dem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o, a, Os</i></td><td><i>os, o</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>a, as</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>a, o</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="NumType.html">NumType</a>=Card|<a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
 </table>
 
 ### `VERB`
@@ -746,33 +746,33 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>Gender=Masc|VerbForm=Part</tt></td><td><i>sido</i></td><td></td></tr>
-  <tr><td><tt>Hyph=Yes|Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>seja-</i></td><td></td></tr>
-  <tr><td><tt>Mood=Cnd|Person=1,3|VerbForm=Fin</tt></td><td><i>seria</i></td><td></td></tr>
-  <tr><td><tt>Mood=Cnd|Person=3|VerbForm=Fin</tt></td><td><i>seria</i></td><td><i>seriam</i></td></tr>
-  <tr><td><tt>Mood=Imp|Person=2|VerbForm=Fin</tt></td><td><i>Sê</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1,3|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin</tt></td><td><i>serei</i></td><td><i>seremos</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1|Tense=Past|VerbForm=Fin</tt></td><td><i>fui</i></td><td><i>fomos</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1|Tense=Pqp|VerbForm=Fin</tt></td><td><i>fora</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin</tt></td><td><i>sou, sô</i></td><td><i>somos</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td><i>será</i></td><td><i>serão</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Fut|VerbForm=Inf</tt></td><td><i>será</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Imp,Pqp|VerbForm=Fin</tt></td><td></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td><i>eram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Past|VerbForm=Fin</tt></td><td><i>foi, foram</i></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Pqp|VerbForm=Fin</tt></td><td><i>fora</i></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin</tt></td><td><i>çe</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>é, eis, é-, Sou</i></td><td><i>são</i></td></tr>
-  <tr><td><tt>Mood=Sub|Person=1,3|Tense=Fut|VerbForm=Fin</tt></td><td><i>for</i></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Person=1,3|Tense=Imp|VerbForm=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Person=1|Tense=Imp|VerbForm=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td><i>for, fôr</i></td><td><i>forem</i></td></tr>
-  <tr><td><tt>Mood=Sub|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td><i>fosse</i></td><td><i>fossem</i></td></tr>
-  <tr><td><tt>Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>seja</i></td><td><i>sejam</i></td></tr>
-  <tr><td><tt>Person=1|VerbForm=Inf</tt></td><td></td><td><i>sermos</i></td></tr>
-  <tr><td><tt>Person=3|VerbForm=Inf</tt></td><td><i>ser</i></td><td><i>serem</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><i>sido</i></td><td></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes|<a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seja-</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1,3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seria</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seria</i></td><td><i>seriam</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>Sê</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>serei</i></td><td><i>seremos</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fui</i></td><td><i>fomos</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>sou, sô</i></td><td><i>somos</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>será</i></td><td><i>serão</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td><i>será</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp,Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td><i>eram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foi, foram</i></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>çe</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>é, eis, é-, Sou</i></td><td><i>são</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>for</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>for, fôr</i></td><td><i>forem</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td><i>fossem</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seja</i></td><td><i>sejam</i></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td><i>sermos</i></td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td><i>ser</i></td><td><i>serem</i></td></tr>
 </table>
 
 ### `PROPN`
@@ -809,12 +809,12 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><i>grandes</i></td></tr>
-  <tr><td><tt>Degree=Cmp|Gender=Masc</tt></td><td><i>maior</i></td><td><i>maiores</i></td></tr>
-  <tr><td><tt>Degree=Cmp|Gender=Fem</tt></td><td><i>maior</i></td><td><i>maiores</i></td></tr>
-  <tr><td><tt>Degree=Sup|Gender=Masc</tt></td><td><i>máximo</i></td><td><i>máximos</i></td></tr>
-  <tr><td><tt>Degree=Sup|Gender=Fem</tt></td><td><i>máxima</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>grande, maior, máximo</i></td><td><i>grandes, máximos</i></td></tr>
-  <tr><td><tt>Gender=Fem</tt></td><td><i>grande, maior, máxima</i></td><td><i>grandes, maiores</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>maior</i></td><td><i>maiores</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Fem</tt></td><td><i>maior</i></td><td><i>maiores</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>máximo</i></td><td><i>máximos</i></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Fem</tt></td><td><i>máxima</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>grande, maior, máximo</i></td><td><i>grandes, máximos</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><i>grande, maior, máxima</i></td><td><i>grandes, maiores</i></td></tr>
 </table>
 
 ### `PRON`
@@ -831,14 +831,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>Gender=Masc|PronType=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Ind</tt></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Int</tt></td><td></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Rel|Typo=Yes</tt></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Ind</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Rel|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
 </table>
 
 ### `NUM`
@@ -855,9 +855,9 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
-  <tr><td><tt>Gender=Masc|NumType=Card</tt></td><td><i>um</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|NumType=Card</tt></td><td><i>uma</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>um</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>uma</i></td><td></td></tr>
 </table>
 
 ### `SYM`
@@ -884,8 +884,8 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>Gender=Masc|VerbForm=Part</tt></td><td><i>sido</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>é</i></td><td><i>são</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><i>sido</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>é</i></td><td><i>são</i></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `AUX`. 93% lemmas (26) occur only with one value of `Number`.
@@ -971,21 +971,21 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 <table>
   <tr><th>Paradigm <i>seu</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3</tt></td><td><i>seu</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Reflex=Yes</tt></td><td><i>seu</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3</tt></td><td><i>seus</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Reflex=Yes</tt></td><td><i>seus</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3</tt></td><td><i>sua</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Reflex=Yes</tt></td><td><i>sua</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>sua, seu</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3</tt></td><td></td><td><i>suas</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>seu</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>seu</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>seus</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>seus</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>sua</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>sua</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>sua, seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>suas</i></td></tr>
 </table>
 
 ### `PRON`
@@ -1066,11 +1066,11 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 <table>
   <tr><th>Paradigm <i>primeiro</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>primeiro</i></td><td><i>primeiro</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>primeiros</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>primeira, primeiro</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>primeiras</i></td></tr>
-  <tr><td><tt>Number=Sing</tt></td><td></td><td><i>primeira</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>primeiro</i></td><td><i>primeiro</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>primeiros</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>primeira, primeiro</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>primeiras</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>primeira</i></td></tr>
 </table>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 99% lemmas (82) occur only with one value of `NumType`.
@@ -1148,31 +1148,31 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>1</tt></th><th><tt>1,3</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>Hyph=Yes|Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>seja-</i></td></tr>
-  <tr><td><tt>Mood=Cnd|Number=Sing|VerbForm=Fin</tt></td><td></td><td><i>seria</i></td><td></td><td><i>seria</i></td></tr>
-  <tr><td><tt>Mood=Cnd|Number=Plur|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>seriam</i></td></tr>
-  <tr><td><tt>Mood=Imp|Number=Sing|VerbForm=Fin</tt></td><td></td><td></td><td><i>Sê</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Fin</tt></td><td><i>serei</i></td><td></td><td></td><td><i>será</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Inf</tt></td><td></td><td></td><td></td><td><i>será</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Imp|VerbForm=Fin</tt></td><td><i>era</i></td><td><i>era</i></td><td></td><td><i>era</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</tt></td><td><i>fui</i></td><td></td><td></td><td><i>foi, foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Pqp|VerbForm=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td><i>fora</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Pres|Typo=Yes|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>çe</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td><i>é, eis, é-, Sou</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Fut|VerbForm=Fin</tt></td><td><i>seremos</i></td><td></td><td></td><td><i>serão</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Imp,Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Imp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>eram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</tt></td><td><i>fomos</i></td><td></td><td></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin</tt></td><td><i>somos</i></td><td></td><td></td><td><i>são</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Tense=Fut|VerbForm=Fin</tt></td><td></td><td><i>for</i></td><td></td><td><i>for, fôr</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Tense=Imp|VerbForm=Fin</tt></td><td><i>fosse</i></td><td><i>fosse</i></td><td></td><td><i>fosse</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>seja</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Tense=Fut|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>forem</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Tense=Imp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>fossem</i></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>sejam</i></td></tr>
-  <tr><td><tt>Number=Sing|VerbForm=Inf</tt></td><td></td><td></td><td></td><td><i>ser</i></td></tr>
-  <tr><td><tt>Number=Plur|VerbForm=Inf</tt></td><td><i>sermos</i></td><td></td><td></td><td><i>serem</i></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>seja-</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>seria</i></td><td></td><td><i>seria</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>seriam</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td><i>Sê</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>serei</i></td><td></td><td></td><td><i>será</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td></td><td></td><td><i>será</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>era</i></td><td><i>era</i></td><td></td><td><i>era</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fui</i></td><td></td><td></td><td><i>foi, foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td><i>fora</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>çe</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td><i>é, eis, é-, Sou</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seremos</i></td><td></td><td></td><td><i>serão</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp,Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>eram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fomos</i></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>somos</i></td><td></td><td></td><td><i>são</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>for</i></td><td></td><td><i>for, fôr</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td><i>fosse</i></td><td></td><td><i>fosse</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>seja</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>forem</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>fossem</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>sejam</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td></td><td></td><td><i>ser</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td><i>sermos</i></td><td></td><td></td><td><i>serem</i></td></tr>
 </table>
 
 ### `PRON`
@@ -1190,22 +1190,22 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>Case=Acc,Dat|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|Gender=Masc|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|Gender=Fem|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc,Nom|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Masc</tt></td><td><i>nos</i></td><td><i>nos</i></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Masc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Gender=Fem|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|PrepCase=Pre</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Acc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Gender=Masc</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Gender=Masc|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat</tt></td><td><i>nos, nos*</i></td><td></td></tr>
-  <tr><td><tt>Case=Dat|Reflex=Yes</tt></td><td><i>nos, no</i></td><td></td></tr>
-  <tr><td><tt>Case=Nom|Gender=Masc</tt></td><td><i>nós</i></td><td></td></tr>
-  <tr><td><tt>Case=Nom</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc,Dat|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc,Nom|<a href="Gender.html">Gender</a>=Masc|<a href="PrepCase.html">PrepCase</a>=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc,Nom|<a href="Gender.html">Gender</a>=Fem|<a href="PrepCase.html">PrepCase</a>=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc,Nom|<a href="PrepCase.html">PrepCase</a>=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>nos</i></td><td><i>nos</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="PrepCase.html">PrepCase</a>=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="PrepCase.html">PrepCase</a>=Pre</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td><i>nos, nos*</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td><i>nos, no</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><i>nós</i></td><td></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 94% lemmas (16) occur only with one value of `Person`.
@@ -1225,24 +1225,24 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>seu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Plur</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Plur|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing</tt></td><td><i>seu</i></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>seus</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Plur</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Plur|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing</tt></td><td></td><td><i>sua, seu</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing</tt></td><td></td><td><i>suas</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><i>seu</i></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>sua, seu</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>suas</i></td></tr>
 </table>
 
 ### `AUX`
@@ -1375,21 +1375,21 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Ind,Neg,Tot</tt></th><th><tt>Art</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt>Definite=Def</tt></td><td></td><td><i>a</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|Number=Sing</tt></td><td></td><td><i>o, a, Os</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|Number=Sing|Typo=Yes</tt></td><td></td><td><i>os</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|Number=Plur</tt></td><td></td><td><i>os, o</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|Number=Sing</tt></td><td></td><td><i>a, as</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|Number=Sing|Typo=Yes</tt></td><td></td><td><i>a</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|Number=Plur</tt></td><td></td><td><i>as</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing</tt></td><td></td><td><i>a, o</i></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur</tt></td><td></td><td><i>as</i></td><td></td></tr>
-  <tr><td><tt>Definite=Ind|Gender=Masc|Number=Sing</tt></td><td></td><td><i>o</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>o</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>os</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>a</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|NumType=Card</tt></td><td><i>a</i></td><td></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>as</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>o, a, Os</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>os, o</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>a, as</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>a, o</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>o</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>o</i></td><td><i>o</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>os</i></td><td><i>os</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>a</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>a</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>as</i></td><td><i>as</i></td></tr>
 </table>
 
 ### `PRON`
@@ -1413,14 +1413,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
   <tr><td><tt>_</tt></td><td><i>Que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Fem</tt></td><td></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>que</i></td><td><i>que</i></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing|Typo=Yes</tt></td><td></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>que</i></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Number=Sing</tt></td><td></td><td><i>que</i></td><td></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><i>que</i></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>que</i></td><td></td></tr>
 </table>
 
 ### `ADV`
@@ -1440,7 +1440,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 <table>
   <tr><th>Paradigm <i>quanto</i></th><th><tt>Ind,Neg,Tot</tt></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><i>quanto</i></td><td></td></tr>
-  <tr><td><tt>NumType=Card</tt></td><td><i>quanto</i></td><td><i>quanto</i></td><td><i>quanto</i></td></tr>
+  <tr><td><tt><a href="NumType.html">NumType</a>=Card</tt></td><td><i>quanto</i></td><td><i>quanto</i></td><td><i>quanto</i></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `ADV`. 91% lemmas (63) occur only with one value of `PronType`.
@@ -1543,15 +1543,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>conseguir</i></th><th><tt>Imp,Pqp</tt></th><th><tt>Past</tt></th><th><tt>Past,Pres</tt></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
-  <tr><td><tt>Hyph=Yes|Mood=Ind|Number=Sing|Person=3</tt></td><td></td><td></td><td></td><td><i>consegue-</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1,3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><i>conseguira</i></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1</tt></td><td></td><td><i>consegui</i></td><td></td><td><i>consigo</i></td><td></td><td><i>conseguia</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Typo=Yes</tt></td><td></td><td><i>consegui</i></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3</tt></td><td></td><td><i>conseguiu</i></td><td></td><td><i>consegue</i></td><td><i>conseguirá</i></td><td><i>conseguia</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=1</tt></td><td></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3</tt></td><td><i>conseguiram</i></td><td><i>conseguiram</i></td><td></td><td><i>conseguem</i></td><td><i>conseguirão</i></td><td><i>conseguiam</i></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=3</tt></td><td></td><td></td><td></td><td><i>consiga</i></td><td><i>conseguir</i></td><td><i>conseguisse</i></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Person=3</tt></td><td></td><td></td><td></td><td><i>consigam</i></td><td><i>conseguirem</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td><i>consegue-</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><i>conseguira</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td></td><td><i>consegui</i></td><td></td><td><i>consigo</i></td><td></td><td><i>conseguia</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td><i>consegui</i></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>conseguiu</i></td><td></td><td><i>consegue</i></td><td><i>conseguirá</i></td><td><i>conseguia</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td><i>conseguimos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>conseguiram</i></td><td><i>conseguiram</i></td><td></td><td><i>conseguem</i></td><td><i>conseguirão</i></td><td><i>conseguiam</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td><i>consiga</i></td><td><i>conseguir</i></td><td><i>conseguisse</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td><i>consigam</i></td><td><i>conseguirem</i></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -1719,46 +1719,46 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><i>ser</i></td><td><i>sido</i></td><td><i>sendo</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td></td><td><i>sido</i></td><td></td></tr>
-  <tr><td><tt>Hyph=Yes</tt></td><td></td><td><i>ser-</i></td><td></td><td><i>sendo-</i></td></tr>
-  <tr><td><tt>Hyph=Yes|Mood=Sub|Number=Sing|Person=3|Tense=Pres</tt></td><td><i>seja-</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Cnd|Number=Sing|Person=1,3</tt></td><td><i>seria</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Cnd|Number=Sing|Person=3</tt></td><td><i>seria</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Cnd|Number=Plur|Person=3</tt></td><td><i>seriam</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Imp|Number=Sing|Person=2</tt></td><td><i>Sê</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1,3|Tense=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|Tense=Fut</tt></td><td><i>serei</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|Tense=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|Tense=Past</tt></td><td><i>fui</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|Tense=Pqp</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|Tense=Pres</tt></td><td><i>sou, sô</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Fut</tt></td><td><i>será</i></td><td><i>será</i></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Past</tt></td><td><i>foi, foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pqp</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres</tt></td><td><i>é, eis, é-, Sou</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes</tt></td><td><i>çe</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|Tense=Fut</tt></td><td><i>seremos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|Tense=Past</tt></td><td><i>fomos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|Tense=Pres</tt></td><td><i>somos</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Fut</tt></td><td><i>serão</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Imp</tt></td><td><i>eram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Imp,Pqp</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Past</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Pqp</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Pres</tt></td><td><i>são</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=1,3|Tense=Fut</tt></td><td><i>for</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=1,3|Tense=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=1|Tense=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|Tense=Fut</tt></td><td><i>for, fôr</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|Tense=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|Tense=Pres</tt></td><td><i>seja</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Person=3|Tense=Fut</tt></td><td><i>forem</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Person=3|Tense=Imp</tt></td><td><i>fossem</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Sub|Number=Plur|Person=3|Tense=Pres</tt></td><td><i>sejam</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Sing|Person=3</tt></td><td></td><td><i>ser</i></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=1</tt></td><td></td><td><i>sermos</i></td><td></td><td></td></tr>
-  <tr><td><tt>Number=Plur|Person=3</tt></td><td></td><td><i>serem</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>sido</i></td><td></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes</tt></td><td></td><td><i>ser-</i></td><td></td><td><i>sendo-</i></td></tr>
+  <tr><td><tt><a href="Hyph.html">Hyph</a>=Yes|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>seja-</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3</tt></td><td><i>seria</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>seria</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>seriam</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><i>Sê</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>serei</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fui</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sou, sô</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>será</i></td><td><i>será</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>era</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>foi, foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fora</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>é, eis, é-, Sou</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>çe</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>seremos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fomos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>somos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>serão</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>eram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp,Pqp</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>foram</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>são</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>for</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>for, fôr</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>fosse</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>seja</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>forem</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>fossem</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sejam</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>ser</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td></td><td><i>sermos</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>serem</i></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -1775,9 +1775,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><i>ser</i></td><td><i>sido</i></td><td><i>sendo</i></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td></td><td><i>sido</i></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres</tt></td><td><i>é</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Pres</tt></td><td><i>são</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>sido</i></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>é</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>são</i></td><td></td><td></td><td></td></tr>
 </table>
 
 `VerbForm` seems to be **lexical feature** of `AUX`. 91% lemmas (62) occur only with one value of `VerbForm`.
