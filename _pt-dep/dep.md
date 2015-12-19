@@ -20,7 +20,6 @@ Average distance between parent and child is 6.48186528497409.
 
 The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB]()-[pt-pos/VERB]() (35; 18% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (24; 12% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (19; 10% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (17; 9% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (16; 8% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (13; 7% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (7; 4% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 3% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (6; 3% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (4; 2% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (4; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (4; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/INTJ]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/INTJ]() (1; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 1% instances).
 
-* `VERB-VERB`: _<b>Sabe</b> que se não chegar a acordo , <b>é</b> chumbado ._
 
 ~~~ conllu
 1	Sabe	saber	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -34,9 +33,9 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 9	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	dep	_	_
 10	chumbado	chumbar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	9	ccomp	_	_
 11	.	.	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
-* `NOUN-VERB`: _Um de estes trágicos erros <b>foi</b> o <b>maniqueísmo</b> ._
 
 ~~~ conllu
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	8	cop	_	_
@@ -48,9 +47,9 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 7	o	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	maniqueísmo	maniqueísmo	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 9	.	.	PUNCT	punc	_	8	punct	_	_
+
 ~~~
 
-* `VERB-PRON`: _O fado , <b>esse</b> , <b>ficou</b> aquém ._
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -61,6 +60,7 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 6	ficou	ficar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	aquém	aquém	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	punc	_	6	punct	_	_
+
 ~~~
 
 

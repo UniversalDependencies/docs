@@ -20,7 +20,6 @@ Average distance between parent and child is 4.98782608695652.
 
 The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (316; 55% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (41; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (10; 2% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (8; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (7; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances).
 
-* `NOUN-PROPN`: _Um de eles era seu <b>filho</b> , <b>Sérgio_Fioravanti</b> ._
 
 ~~~ conllu
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
@@ -32,18 +31,18 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 7	,	,	PUNCT	punc	_	6	punct	_	_
 8	Sérgio_Fioravanti	Sérgio_Fioravanti	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
 9	.	.	PUNCT	punc	_	6	punct	_	_
+
 ~~~
 
-* `NOUN-NOUN`: _<b>Vocação</b> : <b>albergue</b> político_
 
 ~~~ conllu
 1	Vocação	vocação	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	:	:	PUNCT	punc	_	1	punct	_	_
 3	albergue	albergue	NOUN	n|M|S	Gender=Masc|Number=Sing	1	appos	_	_
 4	político	político	ADJ	adj|M|S	Gender=Masc|Number=Sing	3	amod	_	_
+
 ~~~
 
-* `PROPN-NOUN`: _Por as rádios , entretanto , roda já « <b>Entre_o_Céu_e_o_Medo</b> » , o <b>single</b> promocional ._
 
 ~~~ conllu
 1	Por	por	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
@@ -62,6 +61,7 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 14	single	single	NOUN	n|M|S	Gender=Masc|Number=Sing	10	appos	_	_
 15	promocional	promocional	ADJ	adj|M|S	Gender=Masc|Number=Sing	14	amod	_	_
 16	.	.	PUNCT	punc	_	7	punct	_	_
+
 ~~~
 
 

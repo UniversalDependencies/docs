@@ -20,7 +20,6 @@ Average distance between parent and child is 1.1613185091446.
 
 The following 5 pairs of parts of speech are connected with `det`: [pt-pos/NOUN]()-[pt-pos/DET]() (27748; 84% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (4775; 14% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (523; 2% instances), [pt-pos/PRON]()-[pt-pos/DET]() (118; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (25; 0% instances).
 
-* `NOUN-DET`: _Audiência em <b>a</b> <b>Justiça</b> de o Pará discute diploma_
 
 ~~~ conllu
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
@@ -32,17 +31,17 @@ The following 5 pairs of parts of speech are connected with `det`: [pt-pos/NOUN]
 7	Pará	Pará	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nmod	_	_
 8	discute	discutir	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	diploma	diploma	NOUN	n|M|S	Gender=Masc|Number=Sing	8	dobj	_	_
+
 ~~~
 
-* `PROPN-DET`: _<b>Um</b> <b>Godard</b> intergaláctico_
 
 ~~~ conllu
 1	Um	um	DET	art|<arti>|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Godard	Godard	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	intergaláctico	intergaláctico	ADJ	adj|M|S	Gender=Masc|Number=Sing	2	amod	_	_
+
 ~~~
 
-* `ADJ-DET`: _<b>O</b> <b>primeiro</b> reutiliza a forma de a coluna --_
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -54,6 +53,7 @@ The following 5 pairs of parts of speech are connected with `det`: [pt-pos/NOUN]
 7	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	coluna	coluna	NOUN	n|F|S	Gender=Fem|Number=Sing	5	nmod	_	_
 9	--	--	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
 

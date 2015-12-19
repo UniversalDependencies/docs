@@ -20,7 +20,6 @@ Average distance between parent and child is 4.57134346142389.
 
 The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2647; 79% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (317; 9% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (169; 5% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (166; 5% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (18; 1% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
-* `VERB-VERB`: _O bombeiro <b>suspeita</b> que o golfinho <b>tenha</b> morrido afogado ._
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -33,9 +32,9 @@ The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VE
 8	morrido	morrer	VERB	v-pcp	VerbForm=Part	7	ccomp	_	_
 9	afogado	afogar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
-* `AUX-VERB`: _Em o projeto não há definição de quantos podem <b>ser</b> <b>construídos</b> ._
 
 ~~~ conllu
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
@@ -50,9 +49,9 @@ The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VE
 10	ser	ser	AUX	v-inf	VerbForm=Inf	9	aux	_	_
 11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	10	ccomp	_	_
 12	.	.	PUNCT	punc	_	5	punct	_	_
+
 ~~~
 
-* `VERB-ADJ`: _Enganei- me : não serie nem o <b>primeiro</b> nem o último , <b>espero</b> .._
 
 ~~~ conllu
 1	Enganei-	enganar	VERB	v-fin|PS|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -69,6 +68,7 @@ The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VE
 12	,	,	PUNCT	punc	_	13	punct	_	_
 13	espero	esperar	VERB	v-fin|PR|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 14	..	..	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
 

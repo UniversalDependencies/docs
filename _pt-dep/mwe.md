@@ -20,7 +20,6 @@ Average distance between parent and child is 1.
 
 The following 1 pairs of parts of speech are connected with `mwe`: [pt-pos/ADV]()-[pt-pos/ADP]() (2; 100% instances).
 
-* `ADV-ADP`: _Em isto <b>também</b> <b>em</b> a resistência e repetição de Beethoven Liszt é um foco importante , com reflexos em a obra de Tchaikovsky , Scriabin e Strauss ._
 
 ~~~ conllu
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	5	cc	_	_
@@ -51,6 +50,7 @@ The following 1 pairs of parts of speech are connected with `mwe`: [pt-pos/ADV](
 26	e	e	CONJ	conj-c|<co-prparg>	_	23	cc	_	_
 27	Strauss	Strauss	PROPN	prop|M|S	Gender=Masc|Number=Sing	23	conj	_	_
 28	.	.	PUNCT	punc	_	14	punct	_	_
+
 ~~~
 
 

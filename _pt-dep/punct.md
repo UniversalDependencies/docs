@@ -20,7 +20,6 @@ Average distance between parent and child is 8.38065658083692.
 
 The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15223; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8191; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4322; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1331; 4% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (342; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (233; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (181; 1% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (25; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (23; 0% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (18; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (17; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (9; 0% instances).
 
-* `VERB-PUNCT`: _Ele estava <b>acompanhados</b> de três agentes de a PF <b>.</b>_
 
 ~~~ conllu
 1	Ele	ele	PRON	pron-pers|M|3S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -33,9 +32,9 @@ The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 8	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	PF	PF	PROPN	prop|F|S	Gender=Fem|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
-* `NOUN-PUNCT`: _Um de eles era seu <b>filho</b> <b>,</b> Sérgio_Fioravanti ._
 
 ~~~ conllu
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
@@ -47,9 +46,9 @@ The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 7	,	,	PUNCT	punc	_	6	punct	_	_
 8	Sérgio_Fioravanti	Sérgio_Fioravanti	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
 9	.	.	PUNCT	punc	_	6	punct	_	_
+
 ~~~
 
-* `PROPN-PUNCT`: _<b>Pedro_Ivo</b> <b>,</b> 63 , tel. 289-3609 )_
 
 ~~~ conllu
 1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
@@ -59,6 +58,7 @@ The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 5	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
 6	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	5	nummod	_	_
 7	)	)	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
 

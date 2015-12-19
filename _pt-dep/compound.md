@@ -20,7 +20,6 @@ Average distance between parent and child is 1.3030303030303.
 
 The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/NUM]()-[pt-pos/NUM]() (130; 98% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 2% instances).
 
-* `NUM-NUM`: _Lisboa , <b>18</b> de Fevereiro de <b>1992</b> ._
 
 ~~~ conllu
 1	Lisboa	Lisboa	PROPN	prop|F|S	Gender=Fem|Number=Sing	0	root	_	_
@@ -31,9 +30,9 @@ The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/
 6	de	de	ADP	prp	AdpType=Prep	7	case	_	_
 7	1992	1992	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	3	compound	_	_
 8	.	.	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
-* `NOUN-NUM`: _O Benfica já conta , em este momento , com setenta mil sócios e <b>sete</b> <b>mil</b> praticantes ._
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -54,6 +53,7 @@ The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/
 16	mil	mil	NOUN	n|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	17	nmod	_	_
 17	praticantes	praticante	NOUN	n|M/F|P	Number=Plur	13	conj	_	_
 18	.	.	PUNCT	punc	_	4	punct	_	_
+
 ~~~
 
 

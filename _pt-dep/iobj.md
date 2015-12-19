@@ -20,7 +20,6 @@ Average distance between parent and child is 2.67947421638018.
 
 The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB]()-[pt-pos/NOUN]() (485; 49% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (385; 39% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (106; 11% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (1; 0% instances).
 
-* `VERB-NOUN`: _Eu não me <b>associo</b> com <b>moda</b> ._
 
 ~~~ conllu
 1	Eu	eu	PRON	pron-pers|M|1S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -30,9 +29,9 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 5	com	com	ADP	prp	AdpType=Prep	6	case	_	_
 6	moda	moda	NOUN	n|F|S	Gender=Fem|Number=Sing	4	iobj	_	_
 7	.	.	PUNCT	punc	_	4	punct	_	_
+
 ~~~
 
-* `VERB-PRON`: _« <b>Me</b> <b>pergunto</b> sempre quem podia ter sido aquele jovem alemão . »_
 
 ~~~ conllu
 1	«	«	PUNCT	punc	_	3	punct	_	_
@@ -48,9 +47,9 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 11	alemão	alemão	NOUN	n|M|S	Gender=Masc|Number=Sing	7	ccomp	_	_
 12	.	.	PUNCT	punc	_	3	punct	_	_
 13	»	»	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
-* `VERB-PROPN`: _O PSD decidiu <b>deixar</b> hoje pronta a <b>Lei_da_Greve</b> ._
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -62,6 +61,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 7	a	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Lei_da_Greve	Lei_da_Greve	PROPN	prop|F|S	Gender=Fem|Number=Sing	4	iobj	_	_
 9	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
 

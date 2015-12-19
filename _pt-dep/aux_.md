@@ -23,7 +23,6 @@ Average distance between parent and child is 1.30023094688222.
 
 The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]()-[pt-pos/AUX]() (413; 95% instances), [pt-pos/AUX]()-[pt-pos/AUX]() (14; 3% instances), [pt-pos/PRON]()-[pt-pos/AUX]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/AUX]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADP]() (1; 0% instances).
 
-* `VERB-AUX`: _Em o projeto não há definição de quantos <b>podem</b> <b>ser</b> construídos ._
 
 ~~~ conllu
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
@@ -38,9 +37,9 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 10	ser	ser	AUX	v-inf	VerbForm=Inf	9	aux	_	_
 11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	10	ccomp	_	_
 12	.	.	PUNCT	punc	_	5	punct	_	_
+
 ~~~
 
-* `AUX-AUX`: _O cemitério de Sidi_Hammed vai <b>ter</b> de <b>ser</b> alargado --_
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -53,9 +52,9 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 8	ser	ser	AUX	v-inf	VerbForm=Inf	6	aux	_	_
 9	alargado	alargar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	8	ccomp	_	_
 10	--	--	PUNCT	punc	_	5	punct	_	_
+
 ~~~
 
-* `PRON-AUX`: _Romário <b>é</b> <b>o</b> mais votado por leitores_
 
 ~~~ conllu
 1	Romário	Romário	PROPN	prop|M|S	Gender=Masc|Number=Sing	3	cop	_	_
@@ -65,6 +64,7 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 5	votado	votar	VERB	v-pcp|M|S	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 6	por	por	ADP	prp	AdpType=Prep	7	case	_	_
 7	leitores	leitor	NOUN	n|M|P	Gender=Masc|Number=Plur	3	dobj	_	_
+
 ~~~
 
 

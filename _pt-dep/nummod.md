@@ -20,7 +20,6 @@ Average distance between parent and child is 1.41941336558815.
 
 The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/NOUN]()-[pt-pos/NUM]() (2893; 87% instances), [pt-pos/SYM]()-[pt-pos/NUM]() (181; 5% instances), [pt-pos/PROPN]()-[pt-pos/NUM]() (150; 5% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (36; 1% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (15; 0% instances), [pt-pos/NUM]()-[pt-pos/NUM]() (13; 0% instances), [pt-pos/PRON]()-[pt-pos/NUM]() (7; 0% instances), [pt-pos/DET]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (3; 0% instances), [pt-pos/ADP]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (1; 0% instances).
 
-* `NOUN-NUM`: _Ele estava acompanhados de <b>três</b> <b>agentes</b> de a PF ._
 
 ~~~ conllu
 1	Ele	ele	PRON	pron-pers|M|3S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -33,9 +32,9 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 8	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	PF	PF	PROPN	prop|F|S	Gender=Fem|Number=Sing	6	nmod	_	_
 10	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
-* `SYM-NUM`: _BRIZOLA É O 3º Em o Rio , com <b>13</b> <b>%</b> ._
 
 ~~~ conllu
 1	BRIZOLA	BRIZOLA	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -50,9 +49,9 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 10	13	13	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	11	nummod	_	_
 11	%	%	SYM	n|M|P	Gender=Masc|Number=Plur	4	advmod	_	_
 12	.	.	PUNCT	punc	_	4	punct	_	_
+
 ~~~
 
-* `PROPN-NUM`: _<b>Pedro_Ivo</b> , <b>63</b> , tel. 289-3609 )_
 
 ~~~ conllu
 1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
@@ -62,6 +61,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 5	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
 6	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	5	nummod	_	_
 7	)	)	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
 

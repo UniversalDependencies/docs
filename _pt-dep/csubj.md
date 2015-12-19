@@ -20,7 +20,6 @@ Average distance between parent and child is 5.13142857142857.
 
 The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/ADJ]()-[pt-pos/VERB]() (148; 42% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (128; 37% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (44; 13% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (7; 2% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (3; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (2; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
-* `ADJ-VERB`: _Mais <b>inesperado</b> ainda é <b>encontrar</b> uma criança assassina ._
 
 ~~~ conllu
 1	Mais	mais	ADV	adv|<quant>	NumType=Card|PronType=Ind,Neg,Tot	2	advmod	_	_
@@ -32,9 +31,9 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 7	criança	criança	NOUN	n|F|S	Gender=Fem|Number=Sing	5	dobj	_	_
 8	assassina	assassino	ADJ	adj|F|S	Gender=Fem|Number=Sing	7	amod	_	_
 9	.	.	PUNCT	punc	_	2	punct	_	_
+
 ~~~
 
-* `VERB-VERB`: _Quem <b>quiser</b> , <b>vai</b> em excursão até o resort local , Casa_de_Campo ._
 
 ~~~ conllu
 1	Quem	quem	PRON	pron-indp|<rel>|M/F|S	Number=Sing|PronType=Rel	2	nsubj	_	_
@@ -50,9 +49,9 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 11	,	,	PUNCT	punc	_	9	punct	_	_
 12	Casa_de_Campo	Casa_de_Campo	PROPN	prop|M|S	Gender=Masc|Number=Sing	9	appos	_	_
 13	.	.	PUNCT	punc	_	4	punct	_	_
+
 ~~~
 
-* `NOUN-VERB`: _<b>Pena</b> não <b>ter</b> mais tempo para ir a o teatro_
 
 ~~~ conllu
 1	Pena	pena	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
@@ -65,6 +64,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 8	a	a	ADP	prp|<sam->	AdpType=Prep	10	case	_	_
 9	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	teatro	teatro	NOUN	n|M|S	Gender=Masc|Number=Sing	7	nmod	_	_
+
 ~~~
 
 

@@ -20,7 +20,6 @@ Average distance between parent and child is 2.03269367448472.
 
 The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2321; 82% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (193; 7% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (175; 6% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (48; 2% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (17; 1% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (14; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (11; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (5; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances).
 
-* `VERB-VERB`: _O governo <b>vai</b> <b>usar</b> a URV para corrigir impostos , garantiu FHC ._
 
 ~~~ conllu
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -36,9 +35,9 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 11	garantiu	garantir	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	FHC	FHC	PROPN	prop|M|S	Gender=Masc|Number=Sing	11	nsubj	_	_
 13	.	.	PUNCT	punc	_	11	punct	_	_
+
 ~~~
 
-* `VERB-NOUN`: _« Senão ele <b>vai</b> ser <b>alvo</b> fácil de as críticas se o time perder . »_
 
 ~~~ conllu
 1	«	«	PUNCT	punc	_	4	punct	_	_
@@ -57,9 +56,9 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 14	perder	perder	VERB	v-fin|FUT|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	_	_
 15	.	.	PUNCT	punc	_	4	punct	_	_
 16	»	»	PUNCT	punc	_	4	punct	_	_
+
 ~~~
 
-* `VERB-ADJ`: _É de crer que <b>estivesse</b> a ser <b>sincero</b> ._
 
 ~~~ conllu
 1	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
@@ -71,6 +70,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 7	ser	ser	VERB	v-inf	VerbForm=Inf	8	cop	_	_
 8	sincero	sincero	ADJ	adj|M|S	Gender=Masc|Number=Sing	5	xcomp	_	_
 9	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
 

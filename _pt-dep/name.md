@@ -20,7 +20,6 @@ Average distance between parent and child is 2.12735849056604.
 
 The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (212; 100% instances).
 
-* `PROPN-PROPN`: _<b>Requiem_pelos_Vivos</b> , agora apenas <b>Requiem</b> , regressam em Outubro_
 
 ~~~ conllu
 1	Requiem_pelos_Vivos	Requiem_pelos_Vivos	PROPN	prop|M|P	Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -32,6 +31,7 @@ The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROP
 7	regressam	regressar	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	em	em	ADP	prp	AdpType=Prep	9	case	_	_
 9	Outubro	outubro	NOUN	n|<prop>|M|S	Gender=Masc|Number=Sing	7	nmod	_	_
+
 ~~~
 
 
