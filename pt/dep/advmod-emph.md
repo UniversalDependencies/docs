@@ -13,7 +13,6 @@ Average distance between parent and child is 3.70833333333333.
 
 The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-pos/NOUN]()-[pt-pos/ADV]() (57; 59% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (18; 19% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (9; 9% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (4; 4% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (2; 2% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (2; 2% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (2; 2% instances), [pt-pos/ADV]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/ADV]() (1; 1% instances).
 
-* `NOUN-ADV`: _Um talento que , por norma , cabe <b>apenas</b> a os <b>poetas</b> ._
 
 ~~~ conllu
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	_
@@ -29,9 +28,9 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 11	os	o	DET	art|<-sam>|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	poetas	poeta	NOUN	n|M|P	Gender=Masc|Number=Plur	8	dobj	_	_
 13	.	.	PUNCT	punc	_	2	punct	_	_
+
 ~~~
 
-* `VERB-ADV`: _<b>Só</b> quando Moniz_Pereira lhe <b>surge</b> em a frente , se compenetra de que era mesmo verdade ._
 
 ~~~ conllu
 1	Só	só	ADV	adv|<meta>	_	5	advmod:emph	_	_
@@ -51,9 +50,9 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 15	mesmo	mesmo	ADV	adv|<quant>	NumType=Card|PronType=Ind,Neg,Tot	16	advmod	_	_
 16	verdade	verdade	NOUN	n|F|S	Gender=Fem|Number=Sing	11	ccomp	_	_
 17	.	.	PUNCT	punc	_	11	punct	_	_
+
 ~~~
 
-* `PROPN-ADV`: _A revista começou a ser feita <b>exclusivamente</b> por <b>Lourdes_Castro</b> e René_Bertholo ._
 
 ~~~ conllu
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -68,6 +67,7 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 10	e	e	CONJ	conj-c|<co-prparg>	_	9	cc	_	_
 11	René_Bertholo	René_Bertholo	PROPN	prop|M|S	Gender=Masc|Number=Sing	9	conj	_	_
 12	.	.	PUNCT	punc	_	3	punct	_	_
+
 ~~~
 
 

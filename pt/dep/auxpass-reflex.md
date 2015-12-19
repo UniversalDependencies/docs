@@ -13,7 +13,6 @@ Average distance between parent and child is 1.11111111111111.
 
 The following 1 pairs of parts of speech are connected with `auxpass:reflex`: [pt-pos/VERB]()-[pt-pos/PRON]() (27; 100% instances).
 
-* `VERB-PRON`: _Silêncio sepulcral , só os pássaros <b>se</b> <b>ouvem</b> ._
 
 ~~~ conllu
 1	Silêncio	silêncio	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
@@ -25,6 +24,7 @@ The following 1 pairs of parts of speech are connected with `auxpass:reflex`: [p
 7	se	se	PRON	pron-pers|M|3P|ACC	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	auxpass:reflex	_	_
 8	ouvem	ouvir	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 9	.	.	PUNCT	punc	_	1	punct	_	_
+
 ~~~
 
 
