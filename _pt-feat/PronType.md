@@ -37,7 +37,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/ADP]() (32396; 15% token
 
 1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `PRON` and `AdpType` co-occurred: `Reflex=EMPTY` (1; 100%), `Person=EMPTY` (1; 100%), `Gender=EMPTY` (1; 100%), `PronType=Ind,Neg,Tot` (1; 100%), `Number=EMPTY` (1; 100%), `Case=EMPTY` (1; 100%)
+The most frequent other feature values with which `PRON` and `AdpType` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (1; 100%), `<a href="Person.html">Person</a>=EMPTY` (1; 100%), `<a href="Gender.html">Gender</a>=EMPTY` (1; 100%), `<a href="PronType.html">PronType</a>=Ind,Neg,Tot` (1; 100%), `<a href="Number.html">Number</a>=EMPTY` (1; 100%), `<a href="Case.html">Case</a>=EMPTY` (1; 100%)
 
 `PRON` tokens may have the following values of `AdpType`:
 
@@ -68,7 +68,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/PRON]() (2726; 1% tokens
 
 2726 [pt-pos/PRON]() tokens (38% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: `PronType=Prs` (2721; 100%), `Person=3` (2400; 88%), `Reflex=EMPTY` (1948; 71%), `Number=Sing` (1730; 63%), `Gender=Masc` (1456; 53%)
+The most frequent other feature values with which `PRON` and `Case` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (2721; 100%), `<a href="Person.html">Person</a>=3` (2400; 88%), `<a href="Reflex.html">Reflex</a>=EMPTY` (1948; 71%), `<a href="Number.html">Number</a>=Sing` (1730; 63%), `<a href="Gender.html">Gender</a>=Masc` (1456; 53%)
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -113,7 +113,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/DET]() (29213; 14% token
 
 29213 [pt-pos/DET]() tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: `PronType=Art` (29045; 99%), `Number=Sing` (23584; 81%), `Gender=Masc` (15694; 54%)
+The most frequent other feature values with which `DET` and `Definite` co-occurred: `<a href="PronType.html">PronType</a>=Art` (29045; 99%), `<a href="Number.html">Number</a>=Sing` (23584; 81%), `<a href="Gender.html">Gender</a>=Masc` (15694; 54%)
 
 `DET` tokens may have the following values of `Definite`:
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 273 [pt-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: `Reflex=EMPTY` (273; 100%), `Case=EMPTY` (273; 100%), `Person=EMPTY` (273; 100%), `PronType=Art` (244; 89%), `Gender=Masc` (219; 80%), `Number=Sing` (175; 64%)
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (273; 100%), `<a href="Case.html">Case</a>=EMPTY` (273; 100%), `<a href="Person.html">Person</a>=EMPTY` (273; 100%), `<a href="PronType.html">PronType</a>=Art` (244; 89%), `<a href="Gender.html">Gender</a>=Masc` (219; 80%), `<a href="Number.html">Number</a>=Sing` (175; 64%)
 
 `PRON` tokens may have the following values of `Definite`:
 
@@ -182,7 +182,7 @@ The feature is used with 4 part-of-speech tags: [pt-pos/ADV]() (488; 0% tokens),
 
 488 [pt-pos/ADV]() tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: `NumType=Card` (465; 95%), `PronType=Ind,Neg,Tot` (465; 95%)
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: `<a href="NumType.html">NumType</a>=Card` (465; 95%), `<a href="PronType.html">PronType</a>=Ind,Neg,Tot` (465; 95%)
 
 `ADV` tokens may have the following values of `Degree`:
 
@@ -201,7 +201,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 415 [pt-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: `Definite=EMPTY` (415; 100%), `PronType=EMPTY` (321; 77%), `Gender=Masc` (226; 54%), `Number=Sing` (222; 53%)
+The most frequent other feature values with which `DET` and `Degree` co-occurred: `<a href="Definite.html">Definite</a>=EMPTY` (415; 100%), `<a href="PronType.html">PronType</a>=EMPTY` (321; 77%), `<a href="Gender.html">Gender</a>=Masc` (226; 54%), `<a href="Number.html">Number</a>=Sing` (222; 53%)
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -213,7 +213,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 353 [pt-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: `Number=Sing` (267; 76%), `Gender=Masc` (185; 52%)
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: `<a href="Number.html">Number</a>=Sing` (267; 76%), `<a href="Gender.html">Gender</a>=Masc` (185; 52%)
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -233,7 +233,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 120 [pt-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: `Reflex=EMPTY` (120; 100%), `Case=EMPTY` (120; 100%), `Person=EMPTY` (120; 100%), `PronType=EMPTY` (89; 74%), `Gender=Masc` (69; 57%)
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (120; 100%), `<a href="Case.html">Case</a>=EMPTY` (120; 100%), `<a href="Person.html">Person</a>=EMPTY` (120; 100%), `<a href="PronType.html">PronType</a>=EMPTY` (89; 74%), `<a href="Gender.html">Gender</a>=Masc` (69; 57%)
 
 `PRON` tokens may have the following values of `Degree`:
 
@@ -264,7 +264,7 @@ The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39790; 19% tok
 
 39790 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: `Number=Sing` (27881; 70%)
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: `<a href="Number.html">Number</a>=Sing` (27881; 70%)
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -285,7 +285,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 32013 [pt-pos/DET]() tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: `PronType=Art` (27864; 87%), `Number=Sing` (25201; 79%), `Definite=Def` (24926; 78%)
+The most frequent other feature values with which `DET` and `Gender` co-occurred: `<a href="PronType.html">PronType</a>=Art` (27864; 87%), `<a href="Number.html">Number</a>=Sing` (25201; 79%), `<a href="Definite.html">Definite</a>=Def` (24926; 78%)
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -315,7 +315,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 11232 [pt-pos/PROPN]() tokens (96% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: `Number=Sing` (10819; 96%)
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: `<a href="Number.html">Number</a>=Sing` (10819; 96%)
 
 `PROPN` tokens may have the following values of `Gender`:
 
@@ -334,7 +334,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 10624 [pt-pos/ADJ]() tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: `Number=Sing` (7525; 71%)
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: `<a href="Number.html">Number</a>=Sing` (7525; 71%)
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -356,7 +356,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 6362 [pt-pos/PRON]() tokens (90% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: `Reflex=EMPTY` (5699; 90%), `Number=Sing` (4613; 73%), `Case=EMPTY` (4224; 66%), `Person=EMPTY` (4212; 66%)
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (5699; 90%), `<a href="Number.html">Number</a>=Sing` (4613; 73%), `<a href="Case.html">Case</a>=EMPTY` (4224; 66%), `<a href="Person.html">Person</a>=EMPTY` (4212; 66%)
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -380,7 +380,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 4193 [pt-pos/VERB]() tokens (16% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: `Tense=EMPTY` (4193; 100%), `Person=EMPTY` (4192; 100%), `Mood=EMPTY` (4192; 100%), `VerbForm=Part` (4191; 100%), `Number=Sing` (2797; 67%)
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: `<a href="Tense.html">Tense</a>=EMPTY` (4193; 100%), `<a href="Person.html">Person</a>=EMPTY` (4192; 100%), `<a href="Mood.html">Mood</a>=EMPTY` (4192; 100%), `<a href="VerbForm.html">VerbForm</a>=Part` (4191; 100%), `<a href="Number.html">Number</a>=Sing` (2797; 67%)
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -398,7 +398,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 4110 [pt-pos/NUM]() tokens (99% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: `NumType=Card` (3997; 97%), `Number=Plur` (3179; 77%)
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: `<a href="NumType.html">NumType</a>=Card` (3997; 97%), `<a href="Number.html">Number</a>=Plur` (3179; 77%)
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -417,7 +417,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 179 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `SYM` and `Gender` co-occurred: `Number=Plur` (179; 100%)
+The most frequent other feature values with which `SYM` and `Gender` co-occurred: `<a href="Number.html">Number</a>=Plur` (179; 100%)
 
 `SYM` tokens may have the following values of `Gender`:
 
@@ -427,7 +427,7 @@ The most frequent other feature values with which `SYM` and `Gender` co-occurred
 
 32 [pt-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: `VerbForm=Part` (32; 100%)
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Part` (32; 100%)
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -446,7 +446,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 14 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: `PronType=EMPTY` (13; 93%), `NumType=EMPTY` (13; 93%)
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: `<a href="PronType.html">PronType</a>=EMPTY` (13; 93%), `<a href="NumType.html">NumType</a>=EMPTY` (13; 93%)
 
 `ADV` tokens may have the following values of `Gender`:
 
@@ -468,7 +468,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 2 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADP` and `Gender` co-occurred: `AdpType=Prep` (2; 100%)
+The most frequent other feature values with which `ADP` and `Gender` co-occurred: `<a href="AdpType.html">AdpType</a>=Prep` (2; 100%)
 
 `ADP` tokens may have the following values of `Gender`:
 
@@ -480,7 +480,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 
 1 [pt-pos/PART]() tokens (20% of all `PART` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PART` and `Gender` co-occurred: `Hyph=Yes` (1; 100%), `Number=Sing` (1; 100%)
+The most frequent other feature values with which `PART` and `Gender` co-occurred: `<a href="Hyph.html">Hyph</a>=Yes` (1; 100%), `<a href="Number.html">Number</a>=Sing` (1; 100%)
 
 `PART` tokens may have the following values of `Gender`:
 
@@ -511,7 +511,7 @@ The feature is used with 7 part-of-speech tags: [pt-pos/VERB]() (609; 0% tokens)
 
 609 [pt-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `VERB` and `Hyph` co-occurred: `Gender=EMPTY` (609; 100%), `VerbForm=Fin` (412; 68%), `Person=3` (406; 67%), `Mood=Ind` (384; 63%), `Number=Sing` (336; 55%)
+The most frequent other feature values with which `VERB` and `Hyph` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (609; 100%), `<a href="VerbForm.html">VerbForm</a>=Fin` (412; 68%), `<a href="Person.html">Person</a>=3` (406; 67%), `<a href="Mood.html">Mood</a>=Ind` (384; 63%), `<a href="Number.html">Number</a>=Sing` (336; 55%)
 
 `VERB` tokens may have the following values of `Hyph`:
 
@@ -523,7 +523,7 @@ The most frequent other feature values with which `VERB` and `Hyph` co-occurred:
 
 13 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PRON` and `Hyph` co-occurred: `PronType=Prs` (13; 100%), `Person=3` (12; 92%), `Number=Sing` (10; 77%), `Reflex=EMPTY` (10; 77%), `Case=Acc` (9; 69%)
+The most frequent other feature values with which `PRON` and `Hyph` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (13; 100%), `<a href="Person.html">Person</a>=3` (12; 92%), `<a href="Number.html">Number</a>=Sing` (10; 77%), `<a href="Reflex.html">Reflex</a>=EMPTY` (10; 77%), `<a href="Case.html">Case</a>=Acc` (9; 69%)
 
 `PRON` tokens may have the following values of `Hyph`:
 
@@ -533,7 +533,7 @@ The most frequent other feature values with which `PRON` and `Hyph` co-occurred:
 
 7 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: `Number=Sing` (6; 86%), `Gender=Masc` (4; 57%)
+The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: `<a href="Number.html">Number</a>=Sing` (6; 86%), `<a href="Gender.html">Gender</a>=Masc` (4; 57%)
 
 `PROPN` tokens may have the following values of `Hyph`:
 
@@ -543,7 +543,7 @@ The most frequent other feature values with which `PROPN` and `Hyph` co-occurred
 
 5 [pt-pos/PART]() tokens (100% of all `PART` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PART` and `Hyph` co-occurred: `Gender=EMPTY` (4; 80%), `Number=EMPTY` (4; 80%)
+The most frequent other feature values with which `PART` and `Hyph` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (4; 80%), `<a href="Number.html">Number</a>=EMPTY` (4; 80%)
 
 `PART` tokens may have the following values of `Hyph`:
 
@@ -553,7 +553,7 @@ The most frequent other feature values with which `PART` and `Hyph` co-occurred:
 
 4 [pt-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: `Gender=Masc` (3; 75%)
+The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (3; 75%)
 
 `NOUN` tokens may have the following values of `Hyph`:
 
@@ -563,7 +563,7 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 2 [pt-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `AUX` and `Hyph` co-occurred: `VerbForm=Inf` (2; 100%)
+The most frequent other feature values with which `AUX` and `Hyph` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Inf` (2; 100%)
 
 `AUX` tokens may have the following values of `Hyph`:
 
@@ -573,7 +573,7 @@ The most frequent other feature values with which `AUX` and `Hyph` co-occurred: 
 
 1 [pt-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: `Gender=Fem` (1; 100%), `Number=Plur` (1; 100%)
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: `<a href="Gender.html">Gender</a>=Fem` (1; 100%), `<a href="Number.html">Number</a>=Plur` (1; 100%)
 
 `ADJ` tokens may have the following values of `Hyph`:
 
@@ -599,7 +599,7 @@ The feature is used with 3 part-of-speech tags: [pt-pos/VERB]() (15778; 7% token
 
 15778 [pt-pos/VERB]() tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: `Gender=EMPTY` (15777; 100%), `VerbForm=Fin` (15777; 100%), `Person=3` (14827; 94%), `Number=Sing` (12014; 76%), `Tense=Pres` (8521; 54%)
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (15777; 100%), `<a href="VerbForm.html">VerbForm</a>=Fin` (15777; 100%), `<a href="Person.html">Person</a>=3` (14827; 94%), `<a href="Number.html">Number</a>=Sing` (12014; 76%), `<a href="Tense.html">Tense</a>=Pres` (8521; 54%)
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -645,7 +645,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 6 [pt-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: `VerbForm=Fin` (6; 100%)
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Fin` (6; 100%)
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -689,7 +689,7 @@ The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39878; 19% tok
 
 39878 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: `Gender=Masc` (21662; 54%)
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (21662; 54%)
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -706,7 +706,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 33215 [pt-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: `PronType=Art` (29062; 87%), `Definite=Def` (26123; 79%), `Gender=Masc` (17868; 54%)
+The most frequent other feature values with which `DET` and `Number` co-occurred: `<a href="PronType.html">PronType</a>=Art` (29062; 87%), `<a href="Definite.html">Definite</a>=Def` (26123; 79%), `<a href="Gender.html">Gender</a>=Masc` (17868; 54%)
 
 `DET` tokens may have the following values of `Number`:
 
@@ -736,7 +736,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 20359 [pt-pos/VERB]() tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: `Gender=EMPTY` (16166; 79%), `VerbForm=Fin` (15776; 77%), `Person=3` (15202; 75%), `Mood=Ind` (14447; 71%)
+The most frequent other feature values with which `VERB` and `Number` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (16166; 79%), `<a href="VerbForm.html">VerbForm</a>=Fin` (15776; 77%), `<a href="Person.html">Person</a>=3` (15202; 75%), `<a href="Mood.html">Mood</a>=Ind` (14447; 71%)
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -779,7 +779,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 11682 [pt-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: `Gender=Masc` (7569; 65%)
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (7569; 65%)
 
 `PROPN` tokens may have the following values of `Number`:
 
@@ -798,7 +798,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 10698 [pt-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: `Gender=Masc` (5849; 55%)
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (5849; 55%)
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -821,7 +821,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 6735 [pt-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: `Reflex=EMPTY` (5983; 89%), `Gender=Masc` (4461; 66%), `Case=EMPTY` (4328; 64%), `Person=EMPTY` (4316; 64%)
+The most frequent other feature values with which `PRON` and `Number` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (5983; 89%), `<a href="Gender.html">Gender</a>=Masc` (4461; 66%), `<a href="Case.html">Case</a>=EMPTY` (4328; 64%), `<a href="Person.html">Person</a>=EMPTY` (4316; 64%)
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -845,7 +845,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 4156 [pt-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: `NumType=Card` (4041; 97%), `Gender=Masc` (3419; 82%)
+The most frequent other feature values with which `NUM` and `Number` co-occurred: `<a href="NumType.html">NumType</a>=Card` (4041; 97%), `<a href="Gender.html">Gender</a>=Masc` (3419; 82%)
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -864,7 +864,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 179 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `SYM` and `Number` co-occurred: `Gender=Masc` (179; 100%)
+The most frequent other feature values with which `SYM` and `Number` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (179; 100%)
 
 `SYM` tokens may have the following values of `Number`:
 
@@ -874,7 +874,7 @@ The most frequent other feature values with which `SYM` and `Number` co-occurred
 
 40 [pt-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: `VerbForm=Part` (32; 80%)
+The most frequent other feature values with which `AUX` and `Number` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Part` (32; 80%)
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -894,7 +894,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 14 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: `PronType=EMPTY` (13; 93%), `NumType=EMPTY` (13; 93%)
+The most frequent other feature values with which `ADV` and `Number` co-occurred: `<a href="PronType.html">PronType</a>=EMPTY` (13; 93%), `<a href="NumType.html">NumType</a>=EMPTY` (13; 93%)
 
 `ADV` tokens may have the following values of `Number`:
 
@@ -920,7 +920,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 2 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: `AdpType=Prep` (2; 100%)
+The most frequent other feature values with which `ADP` and `Number` co-occurred: `<a href="AdpType.html">AdpType</a>=Prep` (2; 100%)
 
 `ADP` tokens may have the following values of `Number`:
 
@@ -931,7 +931,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 1 [pt-pos/PART]() tokens (20% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: `Hyph=Yes` (1; 100%), `Gender=Masc` (1; 100%)
+The most frequent other feature values with which `PART` and `Number` co-occurred: `<a href="Hyph.html">Hyph</a>=Yes` (1; 100%), `<a href="Gender.html">Gender</a>=Masc` (1; 100%)
 
 `PART` tokens may have the following values of `Number`:
 
@@ -964,7 +964,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/DET]() (1275; 1% tokens)
 
 1275 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: `PronType=Prs` (1275; 100%), `Definite=EMPTY` (1275; 100%), `Number=Sing` (934; 73%), `Gender=Fem` (643; 50%)
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (1275; 100%), `<a href="Definite.html">Definite</a>=EMPTY` (1275; 100%), `<a href="Number.html">Number</a>=Sing` (934; 73%), `<a href="Gender.html">Gender</a>=Fem` (643; 50%)
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -992,7 +992,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 13 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: `PronType=Prs` (13; 100%), `Case=EMPTY` (13; 100%), `Gender=Masc` (12; 92%), `Reflex=EMPTY` (10; 77%), `Person=3` (7; 54%), `Number=Sing` (7; 54%)
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (13; 100%), `<a href="Case.html">Case</a>=EMPTY` (13; 100%), `<a href="Gender.html">Gender</a>=Masc` (12; 92%), `<a href="Reflex.html">Reflex</a>=EMPTY` (10; 77%), `<a href="Person.html">Person</a>=3` (7; 54%), `<a href="Number.html">Number</a>=Sing` (7; 54%)
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
@@ -1017,7 +1017,7 @@ The feature is used with 7 part-of-speech tags: [pt-pos/NUM]() (4042; 2% tokens)
 
 4042 [pt-pos/NUM]() tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: `Gender=Masc` (3309; 82%), `Number=Plur` (3153; 78%)
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (3309; 82%), `<a href="Number.html">Number</a>=Plur` (3153; 78%)
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -1030,7 +1030,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 1307 [pt-pos/ADV]() tokens (14% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: `PronType=Ind,Neg,Tot` (1296; 99%)
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: `<a href="PronType.html">PronType</a>=Ind,Neg,Tot` (1296; 99%)
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -1043,7 +1043,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 1147 [pt-pos/DET]() tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: `Definite=EMPTY` (1147; 100%), `PronType=Ind,Neg,Tot` (1141; 99%), `Gender=Masc` (647; 56%), `Number=Plur` (626; 55%)
+The most frequent other feature values with which `DET` and `NumType` co-occurred: `<a href="Definite.html">Definite</a>=EMPTY` (1147; 100%), `<a href="PronType.html">PronType</a>=Ind,Neg,Tot` (1141; 99%), `<a href="Gender.html">Gender</a>=Masc` (647; 56%), `<a href="Number.html">Number</a>=Plur` (626; 55%)
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -1056,7 +1056,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 791 [pt-pos/ADJ]() tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: `Number=Sing` (670; 85%), `Gender=Masc` (464; 59%)
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: `<a href="Number.html">Number</a>=Sing` (670; 85%), `<a href="Gender.html">Gender</a>=Masc` (464; 59%)
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -1079,7 +1079,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 458 [pt-pos/PRON]() tokens (6% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: `Reflex=EMPTY` (458; 100%), `Case=EMPTY` (458; 100%), `Person=EMPTY` (458; 100%), `PronType=Ind,Neg,Tot` (434; 95%), `Gender=Masc` (388; 85%), `Number=Sing` (293; 64%)
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (458; 100%), `<a href="Case.html">Case</a>=EMPTY` (458; 100%), `<a href="Person.html">Person</a>=EMPTY` (458; 100%), `<a href="PronType.html">PronType</a>=Ind,Neg,Tot` (434; 95%), `<a href="Gender.html">Gender</a>=Masc` (388; 85%), `<a href="Number.html">Number</a>=Sing` (293; 64%)
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -1092,7 +1092,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 4 [pt-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NOUN` and `NumType` co-occurred: `Gender=Masc` (3; 75%), `Number=Plur` (3; 75%)
+The most frequent other feature values with which `NOUN` and `NumType` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (3; 75%), `<a href="Number.html">Number</a>=Plur` (3; 75%)
 
 `NOUN` tokens may have the following values of `NumType`:
 
@@ -1104,7 +1104,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 1 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PROPN` and `NumType` co-occurred: `Gender=Masc` (1; 100%), `Number=Plur` (1; 100%)
+The most frequent other feature values with which `PROPN` and `NumType` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (1; 100%), `<a href="Number.html">Number</a>=Plur` (1; 100%)
 
 `PROPN` tokens may have the following values of `NumType`:
 
@@ -1136,7 +1136,7 @@ The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (16166; 8% token
 
 16166 [pt-pos/VERB]() tokens (63% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: `Gender=EMPTY` (16165; 100%), `VerbForm=Fin` (15776; 98%), `Mood=Ind` (14447; 89%), `Number=Sing` (12228; 76%), `Tense=Pres` (8523; 53%)
+The most frequent other feature values with which `VERB` and `Person` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (16165; 100%), `<a href="VerbForm.html">VerbForm</a>=Fin` (15776; 98%), `<a href="Mood.html">Mood</a>=Ind` (14447; 89%), `<a href="Number.html">Number</a>=Sing` (12228; 76%), `<a href="Tense.html">Tense</a>=Pres` (8523; 53%)
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -1179,7 +1179,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 2737 [pt-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: `PronType=Prs` (2732; 100%), `Reflex=EMPTY` (1957; 72%), `Case=Acc` (1891; 69%), `Number=Sing` (1737; 63%), `Gender=Masc` (1468; 54%)
+The most frequent other feature values with which `PRON` and `Person` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (2732; 100%), `<a href="Reflex.html">Reflex</a>=EMPTY` (1957; 72%), `<a href="Case.html">Case</a>=Acc` (1891; 69%), `<a href="Number.html">Number</a>=Sing` (1737; 63%), `<a href="Gender.html">Gender</a>=Masc` (1468; 54%)
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -1214,7 +1214,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1279 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: `PronType=Prs` (1279; 100%), `Definite=EMPTY` (1279; 100%), `Number=Sing` (937; 73%), `Gender=Fem` (645; 50%)
+The most frequent other feature values with which `DET` and `Person` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (1279; 100%), `<a href="Definite.html">Definite</a>=EMPTY` (1279; 100%), `<a href="Number.html">Number</a>=Sing` (937; 73%), `<a href="Gender.html">Gender</a>=Fem` (645; 50%)
 
 `DET` tokens may have the following values of `Person`:
 
@@ -1249,7 +1249,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 8 [pt-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: `VerbForm=Fin` (6; 75%)
+The most frequent other feature values with which `AUX` and `Person` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Fin` (6; 75%)
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -1290,7 +1290,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/DET]() (1279; 1% tokens)
 
 1279 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: `PronType=Prs` (1279; 100%), `Definite=EMPTY` (1279; 100%), `Number=Sing` (937; 73%), `Gender=Fem` (645; 50%)
+The most frequent other feature values with which `DET` and `Poss` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (1279; 100%), `<a href="Definite.html">Definite</a>=EMPTY` (1279; 100%), `<a href="Number.html">Number</a>=Sing` (937; 73%), `<a href="Gender.html">Gender</a>=Fem` (645; 50%)
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -1301,7 +1301,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 13 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: `PronType=Prs` (13; 100%), `Case=EMPTY` (13; 100%), `Gender=Masc` (12; 92%), `Reflex=EMPTY` (10; 77%), `Person=3` (7; 54%), `Number=Sing` (7; 54%)
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (13; 100%), `<a href="Case.html">Case</a>=EMPTY` (13; 100%), `<a href="Gender.html">Gender</a>=Masc` (12; 92%), `<a href="Reflex.html">Reflex</a>=EMPTY` (10; 77%), `<a href="Person.html">Person</a>=3` (7; 54%), `<a href="Number.html">Number</a>=Sing` (7; 54%)
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -1328,7 +1328,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/PRON]() (190; 0% tokens)
 
 190 [pt-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: `PronType=Prs` (190; 100%), `Reflex=EMPTY` (174; 92%), `Person=3` (154; 81%), `Case=Acc` (119; 63%), `Number=Sing` (117; 62%), `Gender=Masc` (101; 53%)
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (190; 100%), `<a href="Reflex.html">Reflex</a>=EMPTY` (174; 92%), `<a href="Person.html">Person</a>=3` (154; 81%), `<a href="Case.html">Case</a>=Acc` (119; 63%), `<a href="Number.html">Number</a>=Sing` (117; 62%), `<a href="Gender.html">Gender</a>=Masc` (101; 53%)
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -1361,7 +1361,7 @@ The feature is used with 5 part-of-speech tags: [pt-pos/DET]() (32543; 15% token
 
 32543 [pt-pos/DET]() tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: `Definite=Def` (25979; 80%), `Number=Sing` (25737; 79%), `Gender=Masc` (17469; 54%)
+The most frequent other feature values with which `DET` and `PronType` co-occurred: `<a href="Definite.html">Definite</a>=Def` (25979; 80%), `<a href="Number.html">Number</a>=Sing` (25737; 79%), `<a href="Gender.html">Gender</a>=Masc` (17469; 54%)
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -1396,7 +1396,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 6890 [pt-pos/PRON]() tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: `Reflex=EMPTY` (6108; 89%), `Number=Sing` (4748; 69%), `Gender=Masc` (4319; 63%), `Case=EMPTY` (4164; 60%), `Person=EMPTY` (4153; 60%)
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: `<a href="Reflex.html">Reflex</a>=EMPTY` (6108; 89%), `<a href="Number.html">Number</a>=Sing` (4748; 69%), `<a href="Gender.html">Gender</a>=Masc` (4319; 63%), `<a href="Case.html">Case</a>=EMPTY` (4164; 60%), `<a href="Person.html">Person</a>=EMPTY` (4153; 60%)
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -1427,7 +1427,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 2352 [pt-pos/ADV]() tokens (25% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: `NumType=Card` (1307; 56%)
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: `<a href="NumType.html">NumType</a>=Card` (1307; 56%)
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -1449,7 +1449,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 141 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADP` and `PronType` co-occurred: `AdpType=Prep` (141; 100%)
+The most frequent other feature values with which `ADP` and `PronType` co-occurred: `<a href="AdpType.html">AdpType</a>=Prep` (141; 100%)
 
 `ADP` tokens may have the following values of `PronType`:
 
@@ -1489,7 +1489,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/PRON]() (782; 0% tokens)
 
 782 [pt-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: `PronType=Prs` (782; 100%), `Case=Acc` (717; 92%), `Person=3` (690; 88%), `Number=Sing` (531; 68%), `Gender=Masc` (445; 57%)
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (782; 100%), `<a href="Case.html">Case</a>=Acc` (717; 92%), `<a href="Person.html">Person</a>=3` (690; 88%), `<a href="Number.html">Number</a>=Sing` (531; 68%), `<a href="Gender.html">Gender</a>=Masc` (445; 57%)
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -1500,7 +1500,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 560 [pt-pos/DET]() tokens (2% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: `PronType=Prs` (560; 100%), `Definite=EMPTY` (560; 100%), `Number=Sing` (416; 74%), `Gender=Fem` (292; 52%)
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: `<a href="PronType.html">PronType</a>=Prs` (560; 100%), `<a href="Definite.html">Definite</a>=EMPTY` (560; 100%), `<a href="Number.html">Number</a>=Sing` (416; 74%), `<a href="Gender.html">Gender</a>=Fem` (292; 52%)
 
 `DET` tokens may have the following values of `Reflex`:
 
@@ -1528,7 +1528,7 @@ The feature is used with 3 part-of-speech tags: [pt-pos/VERB]() (15432; 7% token
 
 15432 [pt-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: `Gender=EMPTY` (15432; 100%), `VerbForm=Fin` (15431; 100%), `Person=3` (14511; 94%), `Mood=Ind` (14448; 94%), `Number=Sing` (11730; 76%)
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (15432; 100%), `<a href="VerbForm.html">VerbForm</a>=Fin` (15431; 100%), `<a href="Person.html">Person</a>=3` (14511; 94%), `<a href="Mood.html">Mood</a>=Ind` (14448; 94%), `<a href="Number.html">Number</a>=Sing` (11730; 76%)
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -1558,7 +1558,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 5 [pt-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: `VerbForm=Fin` (5; 100%)
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: `<a href="VerbForm.html">VerbForm</a>=Fin` (5; 100%)
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -1599,7 +1599,7 @@ The feature is used with 9 part-of-speech tags: [pt-pos/VERB]() (10; 0% tokens),
 
 10 [pt-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: `Number=Sing` (9; 90%), `Gender=EMPTY` (8; 80%), `Person=3` (7; 70%), `VerbForm=Fin` (7; 70%)
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: `<a href="Number.html">Number</a>=Sing` (9; 90%), `<a href="Gender.html">Gender</a>=EMPTY` (8; 80%), `<a href="Person.html">Person</a>=3` (7; 70%), `<a href="VerbForm.html">VerbForm</a>=Fin` (7; 70%)
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -1611,7 +1611,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 8 [pt-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: `Number=Sing` (5; 63%), `Gender=Masc` (5; 63%)
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: `<a href="Number.html">Number</a>=Sing` (5; 63%), `<a href="Gender.html">Gender</a>=Masc` (5; 63%)
 
 `NOUN` tokens may have the following values of `Typo`:
 
@@ -1621,7 +1621,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 6 [pt-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: `Number=Sing` (5; 83%), `Gender=Masc` (4; 67%)
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: `<a href="Number.html">Number</a>=Sing` (5; 83%), `<a href="Gender.html">Gender</a>=Masc` (4; 67%)
 
 `ADJ` tokens may have the following values of `Typo`:
 
@@ -1631,7 +1631,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 4 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: `AdpType=Prep` (4; 100%)
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: `<a href="AdpType.html">AdpType</a>=Prep` (4; 100%)
 
 `ADP` tokens may have the following values of `Typo`:
 
@@ -1641,7 +1641,7 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 3 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: `PronType=EMPTY` (3; 100%), `NumType=EMPTY` (3; 100%)
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: `<a href="PronType.html">PronType</a>=EMPTY` (3; 100%), `<a href="NumType.html">NumType</a>=EMPTY` (3; 100%)
 
 `ADV` tokens may have the following values of `Typo`:
 
@@ -1651,7 +1651,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 3 [pt-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: `Definite=Def` (3; 100%), `Number=Sing` (3; 100%), `PronType=Art` (3; 100%), `Gender=Fem` (2; 67%)
+The most frequent other feature values with which `DET` and `Typo` co-occurred: `<a href="Definite.html">Definite</a>=Def` (3; 100%), `<a href="Number.html">Number</a>=Sing` (3; 100%), `<a href="PronType.html">PronType</a>=Art` (3; 100%), `<a href="Gender.html">Gender</a>=Fem` (2; 67%)
 
 `DET` tokens may have the following values of `Typo`:
 
@@ -1661,7 +1661,7 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 2 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: `Number=Sing` (2; 100%)
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: `<a href="Number.html">Number</a>=Sing` (2; 100%)
 
 `PROPN` tokens may have the following values of `Typo`:
 
@@ -1671,7 +1671,7 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: `PronType=Rel` (1; 100%), `Gender=Fem` (1; 100%), `Number=Sing` (1; 100%), `Reflex=EMPTY` (1; 100%), `Case=EMPTY` (1; 100%), `Person=EMPTY` (1; 100%)
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: `<a href="PronType.html">PronType</a>=Rel` (1; 100%), `<a href="Gender.html">Gender</a>=Fem` (1; 100%), `<a href="Number.html">Number</a>=Sing` (1; 100%), `<a href="Reflex.html">Reflex</a>=EMPTY` (1; 100%), `<a href="Case.html">Case</a>=EMPTY` (1; 100%), `<a href="Person.html">Person</a>=EMPTY` (1; 100%)
 
 `PRON` tokens may have the following values of `Typo`:
 
@@ -1681,7 +1681,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 1 [pt-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: `Gender=Masc` (1; 100%), `NumType=Card` (1; 100%), `Number=Plur` (1; 100%)
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: `<a href="Gender.html">Gender</a>=Masc` (1; 100%), `<a href="NumType.html">NumType</a>=Card` (1; 100%), `<a href="Number.html">Number</a>=Plur` (1; 100%)
 
 `NUM` tokens may have the following values of `Typo`:
 
@@ -1707,7 +1707,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/VERB]() (25840; 12% toke
 
 25840 [pt-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: `Gender=EMPTY` (21647; 84%), `Person=3` (15202; 59%), `Number=Sing` (15025; 58%), `Mood=Ind` (14449; 56%)
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: `<a href="Gender.html">Gender</a>=EMPTY` (21647; 84%), `<a href="Person.html">Person</a>=3` (15202; 59%), `<a href="Number.html">Number</a>=Sing` (15025; 58%), `<a href="Mood.html">Mood</a>=Ind` (14449; 56%)
 
 `VERB` tokens may have the following values of `VerbForm`:
 
