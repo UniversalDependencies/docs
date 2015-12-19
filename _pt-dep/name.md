@@ -7,10 +7,7 @@ shortdef: 'name'
 This document is a placeholder for the language-specific documentation
 for `name`.
 
-
 --------------------------------------------------------------------------------
-
-## `name`
 
 ## Treebank Statistics
 
@@ -21,5 +18,5 @@ This relation is universal.
 212 instances of `name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.12735849056604.
 
-The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (212; 100% tokens).
+The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROPN]()-[pt-pos/PROPN]() (212; 100% instances).
 
