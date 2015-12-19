@@ -13,3 +13,5 @@ Average distance between parent and child is 1.11111111111111.
 
 The following 1 pairs of parts of speech are connected with `auxpass:reflex`: [pt-pos/VERB]()-[pt-pos/PRON]() (27; 100% instances).
 
+* `VERB-PRON`: _Silêncio sepulcral , só os pássaros <b>se</b> <b>ouvem</b> ._
+
