@@ -253,8 +253,10 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (102): _especialistas, representantes, jornalistas, habitantes, estudantes, presidente, visitantes, alevitas, artistas, clientes_
 
 <table>
-  <tr><th>Paradigm <i>novo</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>nova</i></td><td><i>novo</i></td></tr>
+  <tr><th>Paradigm <i>milhão</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
+  <tr><td><tt>Number=Sing</tt></td><td></td><td><i>milhão</i></td></tr>
+  <tr><td><tt>Number=Plur</tt></td><td><i>milhões</i></td><td><i>milhões</i></td></tr>
+  <tr><td><tt>Number=Plur|Typo=Yes</tt></td><td></td><td><i>mi</i></td></tr>
 </table>
 
 ### `DET`
@@ -339,16 +341,15 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `EMPTY` (744): _se, quem, me, nos, eu, você, nós, mais, lhe, mim_
 
 <table>
-  <tr><th>Paradigm <i>o</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt>Definite=Def|Number=Sing</tt></td><td><i>a</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing|PronType=Art</tt></td><td><i>a</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing|PronType=Ind</tt></td><td><i>a</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur</tt></td><td><i>as</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur|PronType=Art</tt></td><td><i>as</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Number=Sing</tt></td><td><i>a</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Number=Sing|PronType=Dem</tt></td><td><i>a</i></td><td><i>o, os</i></td></tr>
-  <tr><td><tt>Number=Plur</tt></td><td><i>as</i></td><td><i>os</i></td></tr>
-  <tr><td><tt>Number=Plur|PronType=Dem</tt></td><td><i>as</i></td><td><i>os</i></td></tr>
+  <tr><th>Paradigm <i>que</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
+  <tr><td><tt>Number=Sing|PronType=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Int</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Rel|Typo=Yes</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt>Number=Plur|PronType=Ind</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Plur|PronType=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Plur|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>PronType=Rel</tt></td><td><i>que</i></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -659,8 +660,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `EMPTY` (14): _21h, 21h30, P., morte, pedido, peemedebistas, pessoa, piano, polícia, prova_
 
 <table>
-  <tr><th>Paradigm <i>ser</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>seres</i></td><td><i>ser</i></td></tr>
+  <tr><th>Paradigm <i>ano</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt></tt></td><td><i>anos</i></td><td><i>ano</i></td></tr>
 </table>
 
 ### `DET`
@@ -749,8 +750,8 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `EMPTY` (24): _Chaves, Maio, Setembro, Carvalhas, Colares, Entre-os-Rios, Fernanda_Pinto_Rodrigues, Igreja_Adventista_do_Sétimo_Dia, Instituto_Superior_de_Economia_e_Gestao, Jolo_
 
 <table>
-  <tr><th>Paradigm <i>Ufir</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>Ufir</i></td><td><i>Ufir</i></td></tr>
+  <tr><th>Paradigm <i>Flamengo</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt></tt></td><td><i>Flamengos</i></td><td><i>Flamengo</i></td></tr>
 </table>
 
 ### `ADJ`
@@ -789,18 +790,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `EMPTY` (371): _se, mais, quem, que, o_que, se-, mais_de, si, um_pouco, Todo_mundo_
 
 <table>
-  <tr><th>Paradigm <i>o</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc</tt></td><td><i>os</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|PronType=Art</tt></td><td><i>os</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|PronType=Ind</tt></td><td></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem</tt></td><td><i>as</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|PronType=Art</tt></td><td><i>as</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|PronType=Ind</tt></td><td></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|PronType=Art</tt></td><td><i>as</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Gender=Masc</tt></td><td><i>os</i></td><td><i>o</i></td></tr>
-  <tr><td><tt>Gender=Masc|PronType=Dem</tt></td><td><i>os</i></td><td><i>o, os</i></td></tr>
-  <tr><td><tt>Gender=Fem</tt></td><td><i>as</i></td><td><i>a</i></td></tr>
-  <tr><td><tt>Gender=Fem|PronType=Dem</tt></td><td><i>as</i></td><td><i>a</i></td></tr>
+  <tr><th>Paradigm <i>que</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt>Gender=Masc|PronType=Ind</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Masc|PronType=Int</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Masc|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|PronType=Ind</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|PronType=Int</tt></td><td><i>que</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|PronType=Rel|Typo=Yes</tt></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>PronType=Rel</tt></td><td><i>que</i></td><td><i>que</i></td></tr>
 </table>
 
 ### `NUM`
@@ -1339,17 +1337,16 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `EMPTY` (216): _o, outros, mesmo, outro, os, a, outra, outras, as, mesma_
 
 <table>
-  <tr><th>Paradigm <i>o</i></th><th><tt>Art</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|Number=Sing</tt></td><td><i>o</i></td><td></td><td><i>o</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Masc|Number=Plur</tt></td><td><i>os</i></td><td></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|Number=Sing</tt></td><td><i>a</i></td><td></td><td><i>a</i></td></tr>
-  <tr><td><tt>Definite=Def|Gender=Fem|Number=Plur</tt></td><td><i>as</i></td><td></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Number=Sing</tt></td><td><i>a</i></td><td></td><td></td></tr>
-  <tr><td><tt>Definite=Def|Number=Plur</tt></td><td><i>as</i></td><td></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>o, os</i></td><td></td></tr>
-  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>os</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>a</i></td><td></td></tr>
-  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>as</i></td><td></td></tr>
+  <tr><th>Paradigm <i>que</i></th><th><tt>Ind</tt></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><i>que</i></td><td><i>Que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>que</i></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem</tt></td><td></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>que</i></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Typo=Yes</tt></td><td></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>que</i></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td></td><td></td><td><i>que</i></td></tr>
+  <tr><td><tt>Number=Plur</tt></td><td></td><td></td><td><i>que</i></td></tr>
 </table>
 
 ### `ADV`
