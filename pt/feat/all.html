@@ -201,6 +201,1688 @@ for <code>Poss</code>.</p>
 <p>This document is a placeholder for the language-specific documentation
 for <code>PronType</code>.</p>
 
+<hr />
+
+<h2 id="adptype">AdpType</h2>
+
+<h2 id="treebank-statistics">Treebank Statistics</h2>
+
+<p>This feature is language-specific.
+It occurs with 1 different values: <code>Prep</code>.</p>
+
+<p>32397 tokens (15%) have a non-empty value of <code>AdpType</code>.
+220 types (1%) occur at least once with a non-empty value of <code>AdpType</code>.
+161 lemmas (1%) occur at least once with a non-empty value of <code>AdpType</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/ADP</a> (32396; 15% tokens), <a href="">pt-pos/PRON</a> (1; 0% tokens).</p>
+
+<h3 id="adp"><code>ADP</code></h3>
+
+<p>32396 <a href="">pt-pos/ADP</a> tokens (100% of all <code>ADP</code> tokens) have a non-empty value of <code>AdpType</code>.</p>
+
+<p><code>ADP</code> tokens may have the following values of <code>AdpType</code>:</p>
+
+<ul>
+  <li><code>Prep</code> (32396; 100%): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
+</ul>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>1 <a href="">pt-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>AdpType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>AdpType</code> co-occurred: <code>Reflex=EMPTY</code> (1; 100%), <code>Person=EMPTY</code> (1; 100%), <code>Gender=EMPTY</code> (1; 100%), <code>PronType=Ind,Neg,Tot</code> (1; 100%), <code>Number=EMPTY</code> (1; 100%), <code>Case=EMPTY</code> (1; 100%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>AdpType</code>:</p>
+
+<ul>
+  <li><code>Prep</code> (1; 100%): <em>mais_de</em></li>
+</ul>
+
+<hr />
+
+<h2 id="case">Case</h2>
+
+<h2 id="treebank-statistics-1">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Acc</code>, <code>Dat</code>, <code>Nom</code>.
+Some words have combined values of the feature; 2 combinations have been observed: <code>Acc|Dat</code>, <code>Acc|Nom</code>.</p>
+
+<p>2726 tokens (1%) have a non-empty value of <code>Case</code>.
+50 types (0%) occur at least once with a non-empty value of <code>Case</code>.
+13 lemmas (0%) occur at least once with a non-empty value of <code>Case</code>.
+The feature is used with 1 part-of-speech tags: <a href="">pt-pos/PRON</a> (2726; 1% tokens).</p>
+
+<h3 id="pron-1"><code>PRON</code></h3>
+
+<p>2726 <a href="">pt-pos/PRON</a> tokens (38% of all <code>PRON</code> tokens) have a non-empty value of <code>Case</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Case</code> co-occurred: <code>PronType=Prs</code> (2721; 100%), <code>Person=3</code> (2400; 88%), <code>Reflex=EMPTY</code> (1948; 71%), <code>Number=Sing</code> (1730; 63%), <code>Gender=Masc</code> (1456; 53%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Case</code>:</p>
+
+<ul>
+  <li><code>Acc</code> (1894; 69%): <em>se, o, me, a, nos, lo, os, la, ele, eles</em></li>
+  <li><code>Acc,Dat</code> (4; 0%): <em>nos, se</em></li>
+  <li><code>Acc,Nom</code> (71; 3%): <em>ele, ela, eles, nós, elas, você</em></li>
+  <li><code>Dat</code> (227; 8%): <em>lhe, me, lhes, nos, se, lhe-, nos*, Ihe, me-, no</em></li>
+  <li><code>Nom</code> (530; 19%): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em></li>
+  <li><code>EMPTY</code> (4380): <em>que, o, o_que, isso, quem, os, tudo, a, nada, isto</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm nós</th><th><tt>Acc</tt></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Dat</tt></th><th><tt>Nom</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nós</i></td><td></td><td><i>nós</i></td><td></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nos</i></td><td></td><td><i>nós</i></td><td><i>nos</i></td><td><i>nós</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td><td></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Person=3|PronType=Prs</tt></td><td><i>nos</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Number=Plur|Person=1|PronType=Prs</tt></td><td><i>nos, nós</i></td><td></td><td><i>nós</i></td><td><i>nos, nos*</i></td><td><i>nós</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=1|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td><i>nos</i></td><td></td><td><i>nos, no</i></td><td></td></tr>
+</table>
+
+<hr />
+
+<h2 id="definite">Definite</h2>
+
+<h2 id="treebank-statistics-2">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Def</code>, <code>Ind</code>.</p>
+
+<p>29486 tokens (14%) have a non-empty value of <code>Definite</code>.
+15 types (0%) occur at least once with a non-empty value of <code>Definite</code>.
+3 lemmas (0%) occur at least once with a non-empty value of <code>Definite</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213; 14% tokens), <a href="">pt-pos/PRON</a> (273; 0% tokens).</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>29213 <a href="">pt-pos/DET</a> tokens (88% of all <code>DET</code> tokens) have a non-empty value of <code>Definite</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Definite</code> co-occurred: <code>PronType=Art</code> (29045; 99%), <code>Number=Sing</code> (23584; 81%), <code>Gender=Masc</code> (15694; 54%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Definite</code>:</p>
+
+<ul>
+  <li><code>Def</code> (26125; 89%): <em>o, a, os, as, o(s)</em></li>
+  <li><code>Ind</code> (3088; 11%): <em>um, uma, o</em></li>
+  <li><code>EMPTY</code> (4007): <em>sua, seu, este, esta, seus, suas, esse, qualquer, outros, mais</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm o</th><th><tt>Def</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|PronType=Art</tt></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art</tt></td><td><i>a, as</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art|Typo=Yes</tt></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>o(s)</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|PronType=Art</tt></td><td><i>os, o</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>o</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art</tt></td><td><i>o, a, Os</i></td><td><i>o</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art|Typo=Yes</tt></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt>Number=Plur|PronType=Art</tt></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Art</tt></td><td><i>a, o</i></td><td></td></tr>
+  <tr><td><tt>PronType=Art</tt></td><td><i>a</i></td><td></td></tr>
+</table>
+
+<h3 id="pron-2"><code>PRON</code></h3>
+
+<p>273 <a href="">pt-pos/PRON</a> tokens (4% of all <code>PRON</code> tokens) have a non-empty value of <code>Definite</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Definite</code> co-occurred: <code>Reflex=EMPTY</code> (273; 100%), <code>Case=EMPTY</code> (273; 100%), <code>Person=EMPTY</code> (273; 100%), <code>PronType=Art</code> (244; 89%), <code>Gender=Masc</code> (219; 80%), <code>Number=Sing</code> (175; 64%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Definite</code>:</p>
+
+<ul>
+  <li><code>Def</code> (258; 95%): <em>o, os, a, as, O_que, um</em></li>
+  <li><code>Ind</code> (15; 5%): <em>um, uma</em></li>
+  <li><code>EMPTY</code> (6833): <em>que, se, ele, o, o_que, isso, quem, lhe, eles, eu</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm um</th><th><tt>Def</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|PronType=Art</tt></td><td></td><td><i>uma</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>um</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|PronType=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
+</table>
+
+<hr />
+
+<h2 id="degree">Degree</h2>
+
+<h2 id="treebank-statistics-3">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Cmp</code>, <code>Sup</code>.</p>
+
+<p>1376 tokens (1%) have a non-empty value of <code>Degree</code>.
+61 types (0%) occur at least once with a non-empty value of <code>Degree</code>.
+26 lemmas (0%) occur at least once with a non-empty value of <code>Degree</code>.
+The feature is used with 4 part-of-speech tags: <a href="">pt-pos/ADV</a> (488; 0% tokens), <a href="">pt-pos/DET</a> (415; 0% tokens), <a href="">pt-pos/ADJ</a> (353; 0% tokens), <a href="">pt-pos/PRON</a> (120; 0% tokens).</p>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>488 <a href="">pt-pos/ADV</a> tokens (5% of all <code>ADV</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>Degree</code> co-occurred: <code>NumType=Card</code> (465; 95%), <code>PronType=Ind,Neg,Tot</code> (465; 95%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (479; 98%): <em>mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos</em></li>
+  <li><code>Sup</code> (9; 2%): <em>melhor, Pior</em></li>
+  <li><code>EMPTY</code> (9001): <em>não, como, também, já, ontem, ainda, quando, só, depois, muito</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm melhor</th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><i>melhor</i></td><td><i>melhor</i></td></tr>
+</table>
+
+<h3 id="det-1"><code>DET</code></h3>
+
+<p>415 <a href="">pt-pos/DET</a> tokens (1% of all <code>DET</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Degree</code> co-occurred: <code>Definite=EMPTY</code> (415; 100%), <code>PronType=EMPTY</code> (321; 77%), <code>Gender=Masc</code> (226; 54%), <code>Number=Sing</code> (222; 53%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (414; 100%): <em>outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais</em></li>
+  <li><code>Sup</code> (1; 0%): <em>muitíssimo</em></li>
+  <li><code>EMPTY</code> (32805): <em>o, a, os, as, um, uma, sua, seu, este, esta</em></li>
+</ul>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>353 <a href="">pt-pos/ADJ</a> tokens (3% of all <code>ADJ</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Degree</code> co-occurred: <code>Number=Sing</code> (267; 76%), <code>Gender=Masc</code> (185; 52%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (203; 58%): <em>maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores</em></li>
+  <li><code>Sup</code> (150; 42%): <em>melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo</em></li>
+  <li><code>EMPTY</code> (10355): <em>primeiro, novo, primeira, grande, nova, grandes, último, nacional, última, segundo</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm pequeno</th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>menores</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>menor</i></td><td><i>mínima</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>menores</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>menor</i></td><td><i>mínimo</i></td></tr>
+  <tr><td><tt>Number=Plur</tt></td><td><i>menores</i></td><td></td></tr>
+</table>
+
+<h3 id="pron-3"><code>PRON</code></h3>
+
+<p>120 <a href="">pt-pos/PRON</a> tokens (2% of all <code>PRON</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Degree</code> co-occurred: <code>Reflex=EMPTY</code> (120; 100%), <code>Case=EMPTY</code> (120; 100%), <code>Person=EMPTY</code> (120; 100%), <code>PronType=EMPTY</code> (89; 74%), <code>Gender=Masc</code> (69; 57%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (120; 100%): <em>outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto</em></li>
+  <li><code>EMPTY</code> (6986): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
+</ul>
+
+<hr />
+
+<h2 id="gender">Gender</h2>
+
+<h2 id="treebank-statistics-4">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Fem</code>, <code>Masc</code>.</p>
+
+<p>108555 tokens (51%) have a non-empty value of <code>Gender</code>.
+22094 types (79%) occur at least once with a non-empty value of <code>Gender</code>.
+17439 lemmas (91%) occur at least once with a non-empty value of <code>Gender</code>.
+The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (39790; 19% tokens), <a href="">pt-pos/DET</a> (32013; 15% tokens), <a href="">pt-pos/PROPN</a> (11232; 5% tokens), <a href="">pt-pos/ADJ</a> (10624; 5% tokens), <a href="">pt-pos/PRON</a> (6362; 3% tokens), <a href="">pt-pos/VERB</a> (4193; 2% tokens), <a href="">pt-pos/NUM</a> (4110; 2% tokens), <a href="">pt-pos/SYM</a> (179; 0% tokens), <a href="">pt-pos/AUX</a> (32; 0% tokens), <a href="">pt-pos/ADV</a> (14; 0% tokens), <a href="">pt-pos/INTJ</a> (3; 0% tokens), <a href="">pt-pos/ADP</a> (2; 0% tokens), <a href="">pt-pos/PART</a> (1; 0% tokens).</p>
+
+<h3 id="noun"><code>NOUN</code></h3>
+
+<p>39790 <a href="">pt-pos/NOUN</a> tokens (100% of all <code>NOUN</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>Gender</code> co-occurred: <code>Number=Sing</code> (27881; 70%)</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (18125; 46%): <em>pessoas, parte, semana, empresa, empresas, cidade, forma, vida, casa, noite</em></li>
+  <li><code>Masc</code> (21665; 54%): <em>anos, milhões, ano, dia, país, US$, presidente, contos, por_cento, grupo</em></li>
+  <li><code>EMPTY</code> (102): <em>especialistas, representantes, jornalistas, habitantes, estudantes, presidente, visitantes, alevitas, artistas, clientes</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm classe</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur</tt></td><td></td><td><i>classes</i></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>classes</i></td><td><i>classe</i></td></tr>
+</table>
+
+<h3 id="det-2"><code>DET</code></h3>
+
+<p>32013 <a href="">pt-pos/DET</a> tokens (96% of all <code>DET</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Gender</code> co-occurred: <code>PronType=Art</code> (27864; 87%), <code>Number=Sing</code> (25201; 79%), <code>Definite=Def</code> (24926; 78%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (14144; 44%): <em>a, as, uma, sua, esta, suas, essa, outras, algumas, mesma</em></li>
+  <li><code>Masc</code> (17869; 56%): <em>o, os, um, seu, este, seus, esse, outros, alguns, mesmo</em></li>
+  <li><code>EMPTY</code> (1207): <em>a, as, mais, cada, qualquer, menos, o</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm próprio</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur</tt></td><td><i>próprios</i></td><td><i>próprias</i></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>próprio</i></td><td><i>própria</i></td></tr>
+</table>
+
+<h3 id="propn"><code>PROPN</code></h3>
+
+<p>11232 <a href="">pt-pos/PROPN</a> tokens (96% of all <code>PROPN</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>Gender</code> co-occurred: <code>Number=Sing</code> (10819; 96%)</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (3663; 33%): <em>Lisboa, Folha, Alemanha, França, Espanha, Europa, Rússia, Itália, Internet, Bósnia</em></li>
+  <li><code>Masc</code> (7569; 67%): <em>Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Rio, Porto, FHC</em></li>
+  <li><code>EMPTY</code> (474): <em>Coimbra, Alvalade, Sagres, Barcelos, Ermesinde, Maastricht, Setúbal, Sines, Aveiro, Braga</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm Coimbra</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>Coimbra</i></td><td><i>Coimbra</i></td></tr>
+</table>
+
+<h3 id="adj-1"><code>ADJ</code></h3>
+
+<p>10624 <a href="">pt-pos/ADJ</a> tokens (99% of all <code>ADJ</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Gender</code> co-occurred: <code>Number=Sing</code> (7525; 71%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (4775; 45%): <em>primeira, nova, maior, grande, última, segunda, boa, política, novas, próxima</em></li>
+  <li><code>Masc</code> (5849; 55%): <em>primeiro, novo, último, segundo, últimos, maior, grande, novos, bom, próximo</em></li>
+  <li><code>EMPTY</code> (84): <em>jovens, especial, melhor, capaz, favorável, grandes, inconvenientes, menores, mole, responsáveis</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm populoso</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>populoso</i></td><td><i>populosa</i></td></tr>
+</table>
+
+<h3 id="pron-4"><code>PRON</code></h3>
+
+<p>6362 <a href="">pt-pos/PRON</a> tokens (90% of all <code>PRON</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Gender</code> co-occurred: <code>Reflex=EMPTY</code> (5699; 90%), <code>Number=Sing</code> (4613; 73%), <code>Case=EMPTY</code> (4224; 66%), <code>Person=EMPTY</code> (4212; 66%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (1894; 30%): <em>que, se, a, ela, as, elas, lhe, esta, eu, la</em></li>
+  <li><code>Masc</code> (4468; 70%): <em>que, se, o, ele, o_que, isso, os, eles, tudo, lhe</em></li>
+  <li><code>EMPTY</code> (744): <em>se, quem, me, nos, eu, você, nós, mais, lhe, mim</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm quem</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur|PronType=Int</tt></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Number=Plur|PronType=Rel</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Int</tt></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing|PronType=Rel</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+</table>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>4193 <a href="">pt-pos/VERB</a> tokens (16% of all <code>VERB</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Gender</code> co-occurred: <code>Tense=EMPTY</code> (4193; 100%), <code>Person=EMPTY</code> (4192; 100%), <code>Mood=EMPTY</code> (4192; 100%), <code>VerbForm=Part</code> (4191; 100%), <code>Number=Sing</code> (2797; 67%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (1674; 40%): <em>passada, feita, feitas, prevista, considerada, criada, realizada, aberta, dada, utilizada</em></li>
+  <li><code>Masc</code> (2519; 60%): <em>passado, feito, eleito, aberto, considerado, previsto, ligados, realizado, acusado, divulgado</em></li>
+  <li><code>EMPTY</code> (21647): <em>é, foi, tem, está, são, ser, há, ter, disse, foram</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm contactar</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur|VerbForm=Part</tt></td><td><i>contactados</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing|VerbForm=Part</tt></td><td><i>Contactado</i></td><td><i>Contactada</i></td></tr>
+</table>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>4110 <a href="">pt-pos/NUM</a> tokens (99% of all <code>NUM</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>Gender</code> co-occurred: <code>NumType=Card</code> (3997; 97%), <code>Number=Plur</code> (3179; 77%)</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (690; 17%): <em>uma, duas, três, quatro, mil, seis, cinco, 200, dez, sete</em></li>
+  <li><code>Masc</code> (3420; 83%): <em>um, dois, mil, três, quatro, cinco, 15, 30, 20, dez</em></li>
+  <li><code>EMPTY</code> (52): <em>mil, 011, 1., 2, 011_959-2650, 01202-001, 07.00-09.00, 1, 1), 1.85000</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm 350</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur|NumType=Card</tt></td><td><i>350</i></td><td><i>350</i></td></tr>
+</table>
+
+<h3 id="sym"><code>SYM</code></h3>
+
+<p>179 <a href="">pt-pos/SYM</a> tokens (100% of all <code>SYM</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>SYM</code> and <code>Gender</code> co-occurred: <code>Number=Plur</code> (179; 100%)</p>
+
+<p><code>SYM</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Masc</code> (179; 100%): <em>%</em></li>
+</ul>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>32 <a href="">pt-pos/AUX</a> tokens (7% of all <code>AUX</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Gender</code> co-occurred: <code>VerbForm=Part</code> (32; 100%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (8; 25%): <em>convertidas, apresentada, decididas, discutidas, esmagadas, subscrita, sujeitas</em></li>
+  <li><code>Masc</code> (24; 75%): <em>sido, atracado, atualizados, construídos, convertidas, deslocado, entregue, entregues, favorecido, inspeccionados</em></li>
+  <li><code>EMPTY</code> (433): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm converter</th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt>Number=Plur|VerbForm=Part</tt></td><td><i>convertidas</i></td><td><i>convertidas</i></td></tr>
+</table>
+
+<h3 id="adv-1"><code>ADV</code></h3>
+
+<p>14 <a href="">pt-pos/ADV</a> tokens (0% of all <code>ADV</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>Gender</code> co-occurred: <code>PronType=EMPTY</code> (13; 93%), <code>NumType=EMPTY</code> (13; 93%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (2; 14%): <em>da_ordem, mais</em></li>
+  <li><code>Masc</code> (12; 86%): <em>etc., mais, fundo, juntos</em></li>
+  <li><code>EMPTY</code> (9475): <em>não, mais, como, também, já, ontem, ainda, quando, só, depois</em></li>
+</ul>
+
+<h3 id="intj"><code>INTJ</code></h3>
+
+<p>3 <a href="">pt-pos/INTJ</a> tokens (8% of all <code>INTJ</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p><code>INTJ</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (2; 67%): <em>Obrigada, rua</em></li>
+  <li><code>Masc</code> (1; 33%): <em>Adeus</em></li>
+  <li><code>EMPTY</code> (37): <em>não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus</em></li>
+</ul>
+
+<h3 id="adp-1"><code>ADP</code></h3>
+
+<p>2 <a href="">pt-pos/ADP</a> tokens (0% of all <code>ADP</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADP</code> and <code>Gender</code> co-occurred: <code>AdpType=Prep</code> (2; 100%)</p>
+
+<p><code>ADP</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (1; 50%): <em>obra_do_mestre</em></li>
+  <li><code>Masc</code> (1; 50%): <em>sobre</em></li>
+  <li><code>EMPTY</code> (32394): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
+</ul>
+
+<h3 id="part"><code>PART</code></h3>
+
+<p>1 <a href="">pt-pos/PART</a> tokens (20% of all <code>PART</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>PART</code> and <code>Gender</code> co-occurred: <code>Hyph=Yes</code> (1; 100%), <code>Number=Sing</code> (1; 100%)</p>
+
+<p><code>PART</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Masc</code> (1; 100%): <em>pós</em></li>
+  <li><code>EMPTY</code> (4): <em>anti-, ex, ex-, pré-</em></li>
+</ul>
+
+<hr />
+
+<h2 id="hyph">Hyph</h2>
+
+<h2 id="treebank-statistics-5">Treebank Statistics</h2>
+
+<p>This feature is language-specific.
+It occurs with 1 different values: <code>Yes</code>.</p>
+
+<p>641 tokens (0%) have a non-empty value of <code>Hyph</code>.
+506 types (2%) occur at least once with a non-empty value of <code>Hyph</code>.
+329 lemmas (2%) occur at least once with a non-empty value of <code>Hyph</code>.
+The feature is used with 7 part-of-speech tags: <a href="">pt-pos/VERB</a> (609; 0% tokens), <a href="">pt-pos/PRON</a> (13; 0% tokens), <a href="">pt-pos/PROPN</a> (7; 0% tokens), <a href="">pt-pos/PART</a> (5; 0% tokens), <a href="">pt-pos/NOUN</a> (4; 0% tokens), <a href="">pt-pos/AUX</a> (2; 0% tokens), <a href="">pt-pos/ADJ</a> (1; 0% tokens).</p>
+
+<h3 id="verb-1"><code>VERB</code></h3>
+
+<p>609 <a href="">pt-pos/VERB</a> tokens (2% of all <code>VERB</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Hyph</code> co-occurred: <code>Gender=EMPTY</code> (609; 100%), <code>VerbForm=Fin</code> (412; 68%), <code>Person=3</code> (406; 67%), <code>Mood=Ind</code> (384; 63%), <code>Number=Sing</code> (336; 55%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (609; 100%): <em>trata-, encontra-, deve-, recorde-, disse-, fazer-, limitou-, pode-, queixa-, referindo-</em></li>
+</ul>
+
+<h3 id="pron-5"><code>PRON</code></h3>
+
+<p>13 <a href="">pt-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Hyph</code> co-occurred: <code>PronType=Prs</code> (13; 100%), <code>Person=3</code> (12; 92%), <code>Number=Sing</code> (10; 77%), <code>Reflex=EMPTY</code> (10; 77%), <code>Case=Acc</code> (9; 69%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (13; 100%): <em>se-, lhe-, la-, me-</em></li>
+</ul>
+
+<h3 id="propn-1"><code>PROPN</code></h3>
+
+<p>7 <a href="">pt-pos/PROPN</a> tokens (0% of all <code>PROPN</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>Hyph</code> co-occurred: <code>Number=Sing</code> (6; 86%), <code>Gender=Masc</code> (4; 57%)</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (7; 100%): <em>PSD-Porto, Barcelona-Narbonne, CDS-PP, EUA, Madrid-Sevilha, Valencia-Barcelona</em></li>
+</ul>
+
+<h3 id="part-1"><code>PART</code></h3>
+
+<p>5 <a href="">pt-pos/PART</a> tokens (100% of all <code>PART</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>PART</code> and <code>Hyph</code> co-occurred: <code>Gender=EMPTY</code> (4; 80%), <code>Number=EMPTY</code> (4; 80%)</p>
+
+<p><code>PART</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (5; 100%): <em>anti-, ex, ex-, pré-, pós</em></li>
+</ul>
+
+<h3 id="noun-1"><code>NOUN</code></h3>
+
+<p>4 <a href="">pt-pos/NOUN</a> tokens (0% of all <code>NOUN</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>Hyph</code> co-occurred: <code>Gender=Masc</code> (3; 75%)</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (4; 100%): <em>clientes, lugares-comuns, média-alta, partido</em></li>
+</ul>
+
+<h3 id="aux-1"><code>AUX</code></h3>
+
+<p>2 <a href="">pt-pos/AUX</a> tokens (0% of all <code>AUX</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Hyph</code> co-occurred: <code>VerbForm=Inf</code> (2; 100%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (2; 100%): <em>encaminhar-, mandar-</em></li>
+</ul>
+
+<h3 id="adj-2"><code>ADJ</code></h3>
+
+<p>1 <a href="">pt-pos/ADJ</a> tokens (0% of all <code>ADJ</code> tokens) have a non-empty value of <code>Hyph</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Hyph</code> co-occurred: <code>Gender=Fem</code> (1; 100%), <code>Number=Plur</code> (1; 100%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Hyph</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (1; 100%): <em>socialistas</em></li>
+</ul>
+
+<hr />
+
+<h2 id="mood">Mood</h2>
+
+<h2 id="treebank-statistics-6">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 4 different values: <code>Cnd</code>, <code>Imp</code>, <code>Ind</code>, <code>Sub</code>.</p>
+
+<p>15785 tokens (7%) have a non-empty value of <code>Mood</code>.
+4307 types (15%) occur at least once with a non-empty value of <code>Mood</code>.
+1307 lemmas (7%) occur at least once with a non-empty value of <code>Mood</code>.
+The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (15778; 7% tokens), <a href="">pt-pos/AUX</a> (6; 0% tokens), <a href="">pt-pos/INTJ</a> (1; 0% tokens).</p>
+
+<h3 id="verb-2"><code>VERB</code></h3>
+
+<p>15778 <a href="">pt-pos/VERB</a> tokens (61% of all <code>VERB</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: <code>Gender=EMPTY</code> (15777; 100%), <code>VerbForm=Fin</code> (15777; 100%), <code>Person=3</code> (14827; 94%), <code>Number=Sing</code> (12014; 76%), <code>Tense=Pres</code> (8521; 54%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Cnd</code> (340; 2%): <em>seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria</em></li>
+  <li><code>Imp</code> (7; 0%): <em>Sê, move, Olha, chega</em></li>
+  <li><code>Ind</code> (14449; 92%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>Sub</code> (982; 6%): <em>seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam</em></li>
+  <li><code>EMPTY</code> (10062): <em>ser, ter, fazer, ver, passado, dar, feito, dizer, estar, passada</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm ser</th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Cnd</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>Hyph=Yes|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>seja-</i></td><td></td><td></td></tr>
+  <tr><td><tt>Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>seremos</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=1|Tense=Past|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>fomos</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>somos</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td></td><td><i>forem</i></td><td></td><td><i>serão</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Imp,Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td></td><td><i>fossem</i></td><td></td><td><i>eram</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Past|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>sejam</i></td><td></td><td><i>são</i></td></tr>
+  <tr><td><tt>Number=Plur|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seriam</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing|Person=1,3|Tense=Fut|VerbForm=Fin</tt></td><td></td><td><i>for</i></td><td></td><td></td></tr>
+  <tr><td><tt>Number=Sing|Person=1,3|Tense=Imp|VerbForm=Fin</tt></td><td></td><td><i>fosse</i></td><td></td><td><i>era</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=1,3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>serei</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=1|Tense=Imp|VerbForm=Fin</tt></td><td></td><td><i>fosse</i></td><td></td><td><i>era</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=1|Tense=Past|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>fui</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=1|Tense=Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>fora</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>sou, sô</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=2|VerbForm=Fin</tt></td><td><i>Sê</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</tt></td><td></td><td><i>for, fôr</i></td><td></td><td><i>será</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Fut|VerbForm=Inf</tt></td><td></td><td></td><td></td><td><i>será</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td></td><td><i>fosse</i></td><td></td><td><i>era</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Past|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>foi, foram</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>fora</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>çe</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>seja</i></td><td></td><td><i>é, eis, é-, Sou</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td><i>seria</i></td><td></td></tr>
+</table>
+
+<h3 id="aux-2"><code>AUX</code></h3>
+
+<p>6 <a href="">pt-pos/AUX</a> tokens (1% of all <code>AUX</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: <code>VerbForm=Fin</code> (6; 100%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Cnd</code> (1; 17%): <em>teria</em></li>
+  <li><code>Ind</code> (4; 67%): <em>está, são, vamos, é</em></li>
+  <li><code>Sub</code> (1; 17%): <em>desencadear</em></li>
+  <li><code>EMPTY</code> (459): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
+</ul>
+
+<h3 id="intj-1"><code>INTJ</code></h3>
+
+<p>1 <a href="">pt-pos/INTJ</a> tokens (3% of all <code>INTJ</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p><code>INTJ</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Ind</code> (1; 100%): <em>viu</em></li>
+  <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
+</ul>
+
+<hr />
+
+<h2 id="number">Number</h2>
+
+<h2 id="treebank-statistics-7">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Plur</code>, <code>Sing</code>.</p>
+
+<p>126963 tokens (60%) have a non-empty value of <code>Number</code>.
+26828 types (97%) occur at least once with a non-empty value of <code>Number</code>.
+18359 lemmas (95%) occur at least once with a non-empty value of <code>Number</code>.
+The feature is used with 13 part-of-speech tags: <a href="">pt-pos/NOUN</a> (39878; 19% tokens), <a href="">pt-pos/DET</a> (33215; 16% tokens), <a href="">pt-pos/VERB</a> (20359; 10% tokens), <a href="">pt-pos/PROPN</a> (11682; 5% tokens), <a href="">pt-pos/ADJ</a> (10698; 5% tokens), <a href="">pt-pos/PRON</a> (6735; 3% tokens), <a href="">pt-pos/NUM</a> (4156; 2% tokens), <a href="">pt-pos/SYM</a> (179; 0% tokens), <a href="">pt-pos/AUX</a> (40; 0% tokens), <a href="">pt-pos/ADV</a> (14; 0% tokens), <a href="">pt-pos/INTJ</a> (4; 0% tokens), <a href="">pt-pos/ADP</a> (2; 0% tokens), <a href="">pt-pos/PART</a> (1; 0% tokens).</p>
+
+<h3 id="noun-2"><code>NOUN</code></h3>
+
+<p>39878 <a href="">pt-pos/NOUN</a> tokens (100% of all <code>NOUN</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>Number</code> co-occurred: <code>Gender=Masc</code> (21662; 54%)</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (11979; 30%): <em>anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses</em></li>
+  <li><code>Sing</code> (27899; 70%): <em>ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana</em></li>
+  <li><code>EMPTY</code> (14): <em>21h, 21h30, P., morte, pedido, peemedebistas, pessoa, piano, polícia, prova</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm relator</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>relator</i></td><td><i>relatores</i></td></tr>
+</table>
+
+<h3 id="det-3"><code>DET</code></h3>
+
+<p>33215 <a href="">pt-pos/DET</a> tokens (100% of all <code>DET</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Number</code> co-occurred: <code>PronType=Art</code> (29062; 87%), <code>Definite=Def</code> (26123; 79%), <code>Gender=Masc</code> (17868; 54%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (7031; 21%): <em>os, as, seus, suas, outros, alguns, outras, algumas, todos, estes</em></li>
+  <li><code>Sing</code> (26184; 79%): <em>o, a, um, uma, sua, seu, este, esta, esse, qualquer</em></li>
+  <li><code>EMPTY</code> (5): <em>mais, a, menos, o(s)</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm próprio</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Fem</tt></td><td><i>própria</i></td><td><i>próprias</i></td></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>próprio</i></td><td><i>próprios</i></td></tr>
+</table>
+
+<h3 id="verb-3"><code>VERB</code></h3>
+
+<p>20359 <a href="">pt-pos/VERB</a> tokens (79% of all <code>VERB</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Number</code> co-occurred: <code>Gender=EMPTY</code> (16166; 79%), <code>VerbForm=Fin</code> (15776; 77%), <code>Person=3</code> (15202; 75%), <code>Mood=Ind</code> (14447; 71%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (5334; 26%): <em>são, foram, estão, têm, vão, podem, serão, devem, estavam, eram</em></li>
+  <li><code>Sing</code> (15025; 74%): <em>é, foi, tem, está, há, disse, vai, era, pode, diz</em></li>
+  <li><code>EMPTY</code> (5481): <em>ser, ter, fazer, ver, dar, dizer, estar, tendo, falar, saber</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm derivar</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin</tt></td><td><i>derivava</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>derivam</i></td></tr>
+</table>
+
+<h3 id="propn-2"><code>PROPN</code></h3>
+
+<p>11682 <a href="">pt-pos/PROPN</a> tokens (100% of all <code>PROPN</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>Number</code> co-occurred: <code>Gender=Masc</code> (7569; 65%)</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (414; 4%): <em>EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs</em></li>
+  <li><code>Sing</code> (11268; 96%): <em>Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha</em></li>
+  <li><code>EMPTY</code> (24): <em>Chaves, Maio, Setembro, Carvalhas, Colares, Entre-os-Rios, Fernanda_Pinto_Rodrigues, Igreja_Adventista_do_Sétimo_Dia, Instituto_Superior_de_Economia_e_Gestao, Jolo</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm Black</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>Black</i></td><td><i>Black</i></td></tr>
+</table>
+
+<h3 id="adj-3"><code>ADJ</code></h3>
+
+<p>10698 <a href="">pt-pos/ADJ</a> tokens (100% of all <code>ADJ</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Number</code> co-occurred: <code>Gender=Masc</code> (5849; 55%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (3134; 29%): <em>grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores</em></li>
+  <li><code>Sing</code> (7564; 71%): <em>maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última</em></li>
+  <li><code>EMPTY</code> (10): <em>a_favor, além-Pirinéus, ao_ar_livre, capaz, de_fato, em_questão, geral, por_excelência, quarto, trémula</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm incapaz</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>incapaz</i></td><td><i>incapazes</i></td></tr>
+</table>
+
+<h3 id="pron-6"><code>PRON</code></h3>
+
+<p>6735 <a href="">pt-pos/PRON</a> tokens (95% of all <code>PRON</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Number</code> co-occurred: <code>Reflex=EMPTY</code> (5983; 89%), <code>Gender=Masc</code> (4461; 66%), <code>Case=EMPTY</code> (4328; 64%), <code>Person=EMPTY</code> (4316; 64%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (1850; 27%): <em>que, se, os, eles, nos, as, elas, nós, todos, outros</em></li>
+  <li><code>Sing</code> (4885; 73%): <em>que, se, o, ele, o_que, isso, lhe, a, quem, eu</em></li>
+  <li><code>EMPTY</code> (371): <em>se, mais, quem, que, o_que, se-, mais_de, si, um_pouco, Todo_mundo</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm quem</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Fem|PronType=Rel</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+  <tr><td><tt>Gender=Masc|PronType=Int</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+  <tr><td><tt>Gender=Masc|PronType=Rel</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+  <tr><td><tt>PronType=Ind</tt></td><td><i>Quem</i></td><td></td></tr>
+  <tr><td><tt>PronType=Int</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+  <tr><td><tt>PronType=Rel</tt></td><td><i>quem</i></td><td><i>quem</i></td></tr>
+</table>
+
+<h3 id="num-1"><code>NUM</code></h3>
+
+<p>4156 <a href="">pt-pos/NUM</a> tokens (100% of all <code>NUM</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>Number</code> co-occurred: <code>NumType=Card</code> (4041; 97%), <code>Gender=Masc</code> (3419; 82%)</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (3224; 78%): <em>dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez</em></li>
+  <li><code>Sing</code> (932; 22%): <em>um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990</em></li>
+  <li><code>EMPTY</code> (6): <em>1., 07.00-09.00, 1, 10.00-12.00, 18</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm 84</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc|NumType=Card</tt></td><td><i>84</i></td><td><i>84</i></td></tr>
+</table>
+
+<h3 id="sym-1"><code>SYM</code></h3>
+
+<p>179 <a href="">pt-pos/SYM</a> tokens (100% of all <code>SYM</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>SYM</code> and <code>Number</code> co-occurred: <code>Gender=Masc</code> (179; 100%)</p>
+
+<p><code>SYM</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (179; 100%): <em>%</em></li>
+</ul>
+
+<h3 id="aux-3"><code>AUX</code></h3>
+
+<p>40 <a href="">pt-pos/AUX</a> tokens (9% of all <code>AUX</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Number</code> co-occurred: <code>VerbForm=Part</code> (32; 80%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (15; 38%): <em>convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos</em></li>
+  <li><code>Sing</code> (25; 63%): <em>sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado</em></li>
+  <li><code>EMPTY</code> (425): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm ser</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc|VerbForm=Part</tt></td><td><i>sido</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin</tt></td><td><i>é</i></td><td><i>são</i></td></tr>
+</table>
+
+<h3 id="adv-2"><code>ADV</code></h3>
+
+<p>14 <a href="">pt-pos/ADV</a> tokens (0% of all <code>ADV</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>Number</code> co-occurred: <code>PronType=EMPTY</code> (13; 93%), <code>NumType=EMPTY</code> (13; 93%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Plur</code> (3; 21%): <em>mais, juntos</em></li>
+  <li><code>Sing</code> (11; 79%): <em>etc., mais, da_ordem, fundo</em></li>
+  <li><code>EMPTY</code> (9475): <em>não, mais, como, também, já, ontem, ainda, quando, só, depois</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm mais</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Masc</tt></td><td><i>mais</i></td><td><i>mais</i></td></tr>
+</table>
+
+<h3 id="intj-2"><code>INTJ</code></h3>
+
+<p>4 <a href="">pt-pos/INTJ</a> tokens (10% of all <code>INTJ</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p><code>INTJ</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Sing</code> (4; 100%): <em>Adeus, Obrigada, rua, viu</em></li>
+  <li><code>EMPTY</code> (36): <em>não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus</em></li>
+</ul>
+
+<h3 id="adp-2"><code>ADP</code></h3>
+
+<p>2 <a href="">pt-pos/ADP</a> tokens (0% of all <code>ADP</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADP</code> and <code>Number</code> co-occurred: <code>AdpType=Prep</code> (2; 100%)</p>
+
+<p><code>ADP</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Sing</code> (2; 100%): <em>obra_do_mestre, sobre</em></li>
+  <li><code>EMPTY</code> (32394): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
+</ul>
+
+<h3 id="part-2"><code>PART</code></h3>
+
+<p>1 <a href="">pt-pos/PART</a> tokens (20% of all <code>PART</code> tokens) have a non-empty value of <code>Number</code>.</p>
+
+<p>The most frequent other feature values with which <code>PART</code> and <code>Number</code> co-occurred: <code>Hyph=Yes</code> (1; 100%), <code>Gender=Masc</code> (1; 100%)</p>
+
+<p><code>PART</code> tokens may have the following values of <code>Number</code>:</p>
+
+<ul>
+  <li><code>Sing</code> (1; 100%): <em>pós</em></li>
+  <li><code>EMPTY</code> (4): <em>anti-, ex, ex-, pré-</em></li>
+</ul>
+
+<hr />
+
+<h2 id="numberpsor">Number[psor]</h2>
+
+<h2 id="treebank-statistics-8">Treebank Statistics</h2>
+
+<p>This feature is language-specific.
+It occurs with 2 different values: <code>Plur</code>, <code>Sing</code>.</p>
+
+<p>1288 tokens (1%) have a non-empty value of <code>Number[psor]</code>.
+23 types (0%) occur at least once with a non-empty value of <code>Number[psor]</code>.
+5 lemmas (0%) occur at least once with a non-empty value of <code>Number[psor]</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (1275; 1% tokens), <a href="">pt-pos/PRON</a> (13; 0% tokens).</p>
+
+<h3 id="det-4"><code>DET</code></h3>
+
+<p>1275 <a href="">pt-pos/DET</a> tokens (4% of all <code>DET</code> tokens) have a non-empty value of <code>Number[psor]</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Number[psor]</code> co-occurred: <code>PronType=Prs</code> (1275; 100%), <code>Definite=EMPTY</code> (1275; 100%), <code>Number=Sing</code> (934; 73%), <code>Gender=Fem</code> (643; 50%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Number[psor]</code>:</p>
+
+<table>
+  <tr><th>Paradigm meu</th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td><i>minhas</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</tt></td><td><i>suas</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>suas</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td><i>minha</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</tt></td><td><i>seu, sua</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>sua, seus</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</tt></td><td></td><td><i>nossos</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus, seu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td><i>meus</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>seus</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</tt></td><td><i>meu</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td><i>seu</i></td><td></td></tr>
+</table>
+
+<h3 id="pron-7"><code>PRON</code></h3>
+
+<p>13 <a href="">pt-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>Number[psor]</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Number[psor]</code> co-occurred: <code>PronType=Prs</code> (13; 100%), <code>Case=EMPTY</code> (13; 100%), <code>Gender=Masc</code> (12; 92%), <code>Reflex=EMPTY</code> (10; 77%), <code>Person=3</code> (7; 54%), <code>Number=Sing</code> (7; 54%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Number[psor]</code>:</p>
+
+<hr />
+
+<h2 id="numtype">NumType</h2>
+
+<h2 id="treebank-statistics-9">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Card</code>, <code>Ord</code>.</p>
+
+<p>7750 tokens (4%) have a non-empty value of <code>NumType</code>.
+1070 types (4%) occur at least once with a non-empty value of <code>NumType</code>.
+961 lemmas (5%) occur at least once with a non-empty value of <code>NumType</code>.
+The feature is used with 7 part-of-speech tags: <a href="">pt-pos/NUM</a> (4042; 2% tokens), <a href="">pt-pos/ADV</a> (1307; 1% tokens), <a href="">pt-pos/DET</a> (1147; 1% tokens), <a href="">pt-pos/ADJ</a> (791; 0% tokens), <a href="">pt-pos/PRON</a> (458; 0% tokens), <a href="">pt-pos/NOUN</a> (4; 0% tokens), <a href="">pt-pos/PROPN</a> (1; 0% tokens).</p>
+
+<h3 id="num-2"><code>NUM</code></h3>
+
+<p>4042 <a href="">pt-pos/NUM</a> tokens (97% of all <code>NUM</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>NumType</code> co-occurred: <code>Gender=Masc</code> (3309; 82%), <code>Number=Plur</code> (3153; 78%)</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (4042; 100%): <em>um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</em></li>
+  <li><code>EMPTY</code> (120): <em>1, 0, 1992, 2, 23, mil, três, 10, 14, 5</em></li>
+</ul>
+
+<h3 id="adv-3"><code>ADV</code></h3>
+
+<p>1307 <a href="">pt-pos/ADV</a> tokens (14% of all <code>ADV</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>NumType</code> co-occurred: <code>PronType=Ind,Neg,Tot</code> (1296; 99%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (1307; 100%): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
+  <li><code>EMPTY</code> (8182): <em>não, como, também, já, ontem, ainda, quando, só, depois, onde</em></li>
+</ul>
+
+<h3 id="det-5"><code>DET</code></h3>
+
+<p>1147 <a href="">pt-pos/DET</a> tokens (3% of all <code>DET</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>NumType</code> co-occurred: <code>Definite=EMPTY</code> (1147; 100%), <code>PronType=Ind,Neg,Tot</code> (1141; 99%), <code>Gender=Masc</code> (647; 56%), <code>Number=Plur</code> (626; 55%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (1147; 100%): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
+  <li><code>EMPTY</code> (32073): <em>o, a, os, as, um, uma, sua, seu, este, esta</em></li>
+</ul>
+
+<h3 id="adj-4"><code>ADJ</code></h3>
+
+<p>791 <a href="">pt-pos/ADJ</a> tokens (7% of all <code>ADJ</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>NumType</code> co-occurred: <code>Number=Sing</code> (670; 85%), <code>Gender=Masc</code> (464; 59%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (1; 0%): <em>primeiro</em></li>
+  <li><code>Ord</code> (790; 100%): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em></li>
+  <li><code>EMPTY</code> (9917): <em>maior, novo, grande, nova, grandes, melhor, nacional, mundial, responsável, boa</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm primeiro</th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td></td><td><i>primeiras</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td></td><td><i>primeira, primeiro</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td></td><td><i>primeiros</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>primeiro</i></td><td><i>primeiro</i></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td></td><td><i>primeira</i></td></tr>
+</table>
+
+<h3 id="pron-8"><code>PRON</code></h3>
+
+<p>458 <a href="">pt-pos/PRON</a> tokens (6% of all <code>PRON</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>NumType</code> co-occurred: <code>Reflex=EMPTY</code> (458; 100%), <code>Case=EMPTY</code> (458; 100%), <code>Person=EMPTY</code> (458; 100%), <code>PronType=Ind,Neg,Tot</code> (434; 95%), <code>Gender=Masc</code> (388; 85%), <code>Number=Sing</code> (293; 64%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (458; 100%): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
+  <li><code>EMPTY</code> (6648): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
+</ul>
+
+<h3 id="noun-3"><code>NOUN</code></h3>
+
+<p>4 <a href="">pt-pos/NOUN</a> tokens (0% of all <code>NOUN</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>NumType</code> co-occurred: <code>Gender=Masc</code> (3; 75%), <code>Number=Plur</code> (3; 75%)</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (3; 75%): <em>mil, 66’</em></li>
+  <li><code>Ord</code> (1; 25%): <em>2ª</em></li>
+  <li><code>EMPTY</code> (39888): <em>anos, milhões, ano, dia, presidente, país, US$, pessoas, contos, por_cento</em></li>
+</ul>
+
+<h3 id="propn-3"><code>PROPN</code></h3>
+
+<p>1 <a href="">pt-pos/PROPN</a> tokens (0% of all <code>PROPN</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>NumType</code> co-occurred: <code>Gender=Masc</code> (1; 100%), <code>Number=Plur</code> (1; 100%)</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (1; 100%): <em>Doze</em></li>
+  <li><code>EMPTY</code> (11705): <em>Portugal, São_Paulo, Brasil, Governo, EUA, Estados_Unidos, PÚBLICO, Lisboa, Folha, Rio</em></li>
+</ul>
+
+<hr />
+
+<h2 id="person">Person</h2>
+
+<h2 id="treebank-statistics-10">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>1</code>, <code>2</code>, <code>3</code>.
+Some words have combined values of the feature; 1 combinations have been observed: <code>1|3</code>.</p>
+
+<p>20191 tokens (9%) have a non-empty value of <code>Person</code>.
+4600 types (17%) occur at least once with a non-empty value of <code>Person</code>.
+1344 lemmas (7%) occur at least once with a non-empty value of <code>Person</code>.
+The feature is used with 5 part-of-speech tags: <a href="">pt-pos/VERB</a> (16166; 8% tokens), <a href="">pt-pos/PRON</a> (2737; 1% tokens), <a href="">pt-pos/DET</a> (1279; 1% tokens), <a href="">pt-pos/AUX</a> (8; 0% tokens), <a href="">pt-pos/INTJ</a> (1; 0% tokens).</p>
+
+<h3 id="verb-4"><code>VERB</code></h3>
+
+<p>16166 <a href="">pt-pos/VERB</a> tokens (63% of all <code>VERB</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Person</code> co-occurred: <code>Gender=EMPTY</code> (16165; 100%), <code>VerbForm=Fin</code> (15776; 98%), <code>Mood=Ind</code> (14447; 89%), <code>Number=Sing</code> (12228; 76%), <code>Tense=Pres</code> (8523; 53%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (896; 6%): <em>tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos</em></li>
+  <li><code>1,3</code> (49; 0%): <em>veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-</em></li>
+  <li><code>2</code> (19; 0%): <em>Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais</em></li>
+  <li><code>3</code> (15202; 94%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>EMPTY</code> (9674): <em>ser, ter, fazer, ver, passado, dar, feito, passada, dizer, estar</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm olhar</th><th><tt>1</tt></th><th><tt>3</tt></th><th><tt>1,3</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt>Mood=Imp|Number=Sing|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>Olha</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Imp|VerbForm=Fin</tt></td><td><i>olhávamos</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>olham</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</tt></td><td></td><td><i>olhou</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>olha</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Plur|Tense=Pres|VerbForm=Fin</tt></td><td></td><td><i>Olhem</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin</tt></td><td></td><td></td><td><i>olhe</i></td><td></td></tr>
+  <tr><td><tt>Number=Plur|VerbForm=Inf</tt></td><td><i>olharmos</i></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="pron-9"><code>PRON</code></h3>
+
+<p>2737 <a href="">pt-pos/PRON</a> tokens (39% of all <code>PRON</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Person</code> co-occurred: <code>PronType=Prs</code> (2732; 100%), <code>Reflex=EMPTY</code> (1957; 72%), <code>Case=Acc</code> (1891; 69%), <code>Number=Sing</code> (1737; 63%), <code>Gender=Masc</code> (1468; 54%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (320; 12%): <em>eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu</em></li>
+  <li><code>2</code> (9; 0%): <em>te, ti, vos, vós</em></li>
+  <li><code>3</code> (2408; 88%): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em></li>
+  <li><code>EMPTY</code> (4369): <em>que, o, o_que, isso, quem, os, tudo, a, nada, isto</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm nós</th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt>Case=Acc,Dat|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|Gender=Fem|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|Gender=Masc|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc,Nom|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Fem|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td><i>nos</i></td></tr>
+  <tr><td><tt>Case=Acc|Gender=Masc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Number=Plur|PrepCase=Pre|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Acc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Gender=Masc|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Number=Plur|PronType=Prs</tt></td><td><i>nos, nos*</i></td><td></td></tr>
+  <tr><td><tt>Case=Dat|Number=Plur|PronType=Prs|Reflex=Yes</tt></td><td><i>nos, no</i></td><td></td></tr>
+  <tr><td><tt>Case=Nom|Gender=Masc|Number=Plur|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+  <tr><td><tt>Case=Nom|Number=Plur|PronType=Prs</tt></td><td><i>nós</i></td><td></td></tr>
+</table>
+
+<h3 id="det-6"><code>DET</code></h3>
+
+<p>1279 <a href="">pt-pos/DET</a> tokens (4% of all <code>DET</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Person</code> co-occurred: <code>PronType=Prs</code> (1279; 100%), <code>Definite=EMPTY</code> (1279; 100%), <code>Number=Sing</code> (937; 73%), <code>Gender=Fem</code> (645; 50%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (179; 14%): <em>meu, nosso, nossa, minha, nossos, nossas, minhas, meus</em></li>
+  <li><code>2</code> (8; 1%): <em>vossa, teu, vosso, seu</em></li>
+  <li><code>3</code> (1092; 85%): <em>sua, seu, seus, suas</em></li>
+  <li><code>EMPTY</code> (31941): <em>o, a, os, as, um, uma, este, esta, esse, qualquer</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm meu</th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>minhas</i></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>suas</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>minha</i></td><td><i>seu, sua</i></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>sua, seus</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs</tt></td><td><i>nossos</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus, seu</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>meus</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seus</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs</tt></td><td><i>meu</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</tt></td><td></td><td><i>seu</i></td></tr>
+</table>
+
+<h3 id="aux-4"><code>AUX</code></h3>
+
+<p>8 <a href="">pt-pos/AUX</a> tokens (2% of all <code>AUX</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Person</code> co-occurred: <code>VerbForm=Fin</code> (6; 75%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (1; 13%): <em>vamos</em></li>
+  <li><code>3</code> (7; 88%): <em>dar, desencadear, está, mostrarem, são, teria, é</em></li>
+  <li><code>EMPTY</code> (457): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
+</ul>
+
+<h3 id="intj-3"><code>INTJ</code></h3>
+
+<p>1 <a href="">pt-pos/INTJ</a> tokens (3% of all <code>INTJ</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p><code>INTJ</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>3</code> (1; 100%): <em>viu</em></li>
+  <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
+</ul>
+
+<hr />
+
+<h2 id="poss">Poss</h2>
+
+<h2 id="treebank-statistics-11">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 1 different values: <code>Yes</code>.</p>
+
+<p>1292 tokens (1%) have a non-empty value of <code>Poss</code>.
+23 types (0%) occur at least once with a non-empty value of <code>Poss</code>.
+5 lemmas (0%) occur at least once with a non-empty value of <code>Poss</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (1279; 1% tokens), <a href="">pt-pos/PRON</a> (13; 0% tokens).</p>
+
+<h3 id="det-7"><code>DET</code></h3>
+
+<p>1279 <a href="">pt-pos/DET</a> tokens (4% of all <code>DET</code> tokens) have a non-empty value of <code>Poss</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Poss</code> co-occurred: <code>PronType=Prs</code> (1279; 100%), <code>Definite=EMPTY</code> (1279; 100%), <code>Number=Sing</code> (937; 73%), <code>Gender=Fem</code> (645; 50%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Poss</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (1279; 100%): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
+  <li><code>EMPTY</code> (31941): <em>o, a, os, as, um, uma, este, esta, esse, qualquer</em></li>
+</ul>
+
+<h3 id="pron-10"><code>PRON</code></h3>
+
+<p>13 <a href="">pt-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>Poss</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Poss</code> co-occurred: <code>PronType=Prs</code> (13; 100%), <code>Case=EMPTY</code> (13; 100%), <code>Gender=Masc</code> (12; 92%), <code>Reflex=EMPTY</code> (10; 77%), <code>Person=3</code> (7; 54%), <code>Number=Sing</code> (7; 54%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Poss</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (13; 100%): <em>seu, meus, nossos, seus, meu, nossa</em></li>
+  <li><code>EMPTY</code> (7093): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
+</ul>
+
+<hr />
+
+<h2 id="prepcase">PrepCase</h2>
+
+<h2 id="treebank-statistics-12">Treebank Statistics</h2>
+
+<p>This feature is language-specific.
+It occurs with 1 different values: <code>Pre</code>.</p>
+
+<p>190 tokens (0%) have a non-empty value of <code>PrepCase</code>.
+12 types (0%) occur at least once with a non-empty value of <code>PrepCase</code>.
+11 lemmas (0%) occur at least once with a non-empty value of <code>PrepCase</code>.
+The feature is used with 1 part-of-speech tags: <a href="">pt-pos/PRON</a> (190; 0% tokens).</p>
+
+<h3 id="pron-11"><code>PRON</code></h3>
+
+<p>190 <a href="">pt-pos/PRON</a> tokens (3% of all <code>PRON</code> tokens) have a non-empty value of <code>PrepCase</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>PrepCase</code> co-occurred: <code>PronType=Prs</code> (190; 100%), <code>Reflex=EMPTY</code> (174; 92%), <code>Person=3</code> (154; 81%), <code>Case=Acc</code> (119; 63%), <code>Number=Sing</code> (117; 62%), <code>Gender=Masc</code> (101; 53%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>PrepCase</code>:</p>
+
+<ul>
+  <li><code>Pre</code> (190; 100%): <em>ele, ela, eles, mim, elas, si, nós, ti, você, vós</em></li>
+</ul>
+
+<hr />
+
+<h2 id="prontype">PronType</h2>
+
+<h2 id="treebank-statistics-13">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 9 different values: <code>Art</code>, <code>Dem</code>, <code>Ind</code>, <code>Int</code>, <code>Neg</code>, <code>Prs</code>, <code>Rcp</code>, <code>Rel</code>, <code>Tot</code>.
+Some words have combined values of the feature; 1 combinations have been observed: <code>Ind|Neg|Tot</code>.</p>
+
+<p>41927 tokens (20%) have a non-empty value of <code>PronType</code>.
+319 types (1%) occur at least once with a non-empty value of <code>PronType</code>.
+141 lemmas (1%) occur at least once with a non-empty value of <code>PronType</code>.
+The feature is used with 5 part-of-speech tags: <a href="">pt-pos/DET</a> (32543; 15% tokens), <a href="">pt-pos/PRON</a> (6890; 3% tokens), <a href="">pt-pos/ADV</a> (2352; 1% tokens), <a href="">pt-pos/ADP</a> (141; 0% tokens), <a href="">pt-pos/SCONJ</a> (1; 0% tokens).</p>
+
+<h3 id="det-8"><code>DET</code></h3>
+
+<p>32543 <a href="">pt-pos/DET</a> tokens (98% of all <code>DET</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>PronType</code> co-occurred: <code>Definite=Def</code> (25979; 80%), <code>Number=Sing</code> (25737; 79%), <code>Gender=Masc</code> (17469; 54%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Art</code> (29063; 89%): <em>o, a, os, as, um, uma</em></li>
+  <li><code>Dem</code> (980; 3%): <em>este, esta, esse, essa, estes, estas, aquela, essas, esses, aquele</em></li>
+  <li><code>Ind,Neg,Tot</code> (1141; 4%): <em>qualquer, mais, cada, alguns, algumas, todos, todos_os, muitos, vários, todo</em></li>
+  <li><code>Int</code> (24; 0%): <em>que, Quantos, qual, quanto, Quantas, quais</em></li>
+  <li><code>Prs</code> (1279; 4%): <em>sua, seu, seus, suas, meu, nosso, nossa, minha, nossos, nossas</em></li>
+  <li><code>Rel</code> (56; 0%): <em>cuja, cujo, cujas, cujos, qual, Quantos, quais</em></li>
+  <li><code>EMPTY</code> (677): <em>outros, o, outras, mesmo, outro, mesma, a, outra, próprio, os</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm o</th><th><tt>Art</tt></th><th><tt>Dem</tt></th><th><tt>Ind,Neg,Tot</tt></th></tr>
+  <tr><td><tt>Definite=Def</tt></td><td><i>a</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Fem|Number=Plur</tt></td><td><i>as</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Fem|Number=Sing</tt></td><td><i>a, as</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Fem|Number=Sing|Typo=Yes</tt></td><td><i>a</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Masc|Number=Plur</tt></td><td><i>os, o</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Masc|Number=Sing</tt></td><td><i>o, a, Os</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Gender=Masc|Number=Sing|Typo=Yes</tt></td><td><i>os</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Number=Plur</tt></td><td><i>as</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Def|Number=Sing</tt></td><td><i>a, o</i></td><td></td><td></td></tr>
+  <tr><td><tt>Definite=Ind|Gender=Masc|Number=Sing</tt></td><td><i>o</i></td><td></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>as</i></td><td><i>as</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>a</i></td><td><i>a</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing|NumType=Card</tt></td><td></td><td></td><td><i>a</i></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>os</i></td><td><i>os</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>o</i></td><td><i>o</i></td><td></td></tr>
+</table>
+
+<h3 id="pron-12"><code>PRON</code></h3>
+
+<p>6890 <a href="">pt-pos/PRON</a> tokens (97% of all <code>PRON</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>PronType</code> co-occurred: <code>Reflex=EMPTY</code> (6108; 89%), <code>Number=Sing</code> (4748; 69%), <code>Gender=Masc</code> (4319; 63%), <code>Case=EMPTY</code> (4164; 60%), <code>Person=EMPTY</code> (4153; 60%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Art</code> (244; 4%): <em>o, os, a, as, um, uma</em></li>
+  <li><code>Dem</code> (551; 8%): <em>isso, o, isto, a, este, os, esta, aquilo, as, essa</em></li>
+  <li><code>Ind</code> (133; 2%): <em>ninguém, que, alguém, cada_um, toda_a_gente, o_que, todo, todo_o_mundo, cada_qual, Quem</em></li>
+  <li><code>Ind,Neg,Tot</code> (434; 6%): <em>tudo, nada, todos, mais, pouco, muito, algo, alguns, muitos, ambos</em></li>
+  <li><code>Int</code> (108; 2%): <em>o_que, quem, qual, quais, quanto, que, quando, quantos, quê</em></li>
+  <li><code>Prs</code> (2752; 40%): <em>se, ele, lhe, o, eles, eu, ela, me, nos, a</em></li>
+  <li><code>Rcp</code> (4; 0%): <em>se</em></li>
+  <li><code>Rel</code> (2664; 39%): <em>que, o_que, quem, o_qual, os_quais, a_qual, tudo_o_que, as_quais, qual, quais</em></li>
+  <li><code>EMPTY</code> (216): <em>o, outros, mesmo, outro, os, a, outra, outras, as, mesma</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm quem</th><th><tt>Rel</tt></th><th><tt>Int</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><i>quem</i></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Plur</tt></td><td><i>quem</i></td><td></td><td></td></tr>
+  <tr><td><tt>Gender=Fem|Number=Sing</tt></td><td><i>quem</i></td><td></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Plur</tt></td><td><i>quem</i></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td><i>quem</i></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Number=Plur</tt></td><td><i>quem</i></td><td><i>quem</i></td><td></td></tr>
+  <tr><td><tt>Number=Sing</tt></td><td><i>quem</i></td><td><i>quem</i></td><td><i>Quem</i></td></tr>
+</table>
+
+<h3 id="adv-4"><code>ADV</code></h3>
+
+<p>2352 <a href="">pt-pos/ADV</a> tokens (25% of all <code>ADV</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>PronType</code> co-occurred: <code>NumType=Card</code> (1307; 56%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Dem</code> (42; 2%): <em>tão, tal</em></li>
+  <li><code>Ind,Neg,Tot</code> (1296; 55%): <em>mais, muito, bem, quase, mesmo, mais_de, pouco, menos, pelo_menos, bastante</em></li>
+  <li><code>Int</code> (95; 4%): <em>como, onde, porque, por_que, porquê, quando, que, para_onde, quanto, até_que_ponto</em></li>
+  <li><code>Rel</code> (919; 39%): <em>como, quando, onde, enquanto, tal_como, apenas, conforme, à_medida_que, bem_como, assim_como</em></li>
+  <li><code>EMPTY</code> (7137): <em>não, também, já, ontem, ainda, só, depois, agora, hoje, antes</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm quanto</th><th><tt>Rel</tt></th><th><tt>Int</tt></th><th><tt>Ind,Neg,Tot</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><i>quanto</i></td><td></td></tr>
+  <tr><td><tt>NumType=Card</tt></td><td><i>quanto</i></td><td><i>quanto</i></td><td><i>quanto</i></td></tr>
+</table>
+
+<h3 id="adp-3"><code>ADP</code></h3>
+
+<p>141 <a href="">pt-pos/ADP</a> tokens (0% of all <code>ADP</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADP</code> and <code>PronType</code> co-occurred: <code>AdpType=Prep</code> (141; 100%)</p>
+
+<p><code>ADP</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Rel</code> (141; 100%): <em>segundo, como, conforme</em></li>
+  <li><code>EMPTY</code> (32255): <em>de, em, a, para, por, com, entre, sobre, sem, até</em></li>
+</ul>
+
+<h3 id="sconj"><code>SCONJ</code></h3>
+
+<p>1 <a href="">pt-pos/SCONJ</a> tokens (0% of all <code>SCONJ</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p><code>SCONJ</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Rel</code> (1; 100%): <em>ao_passo_que</em></li>
+  <li><code>EMPTY</code> (2279): <em>que, se, porque, do_que, embora, pois, já_que, caso, ainda_que, como_se</em></li>
+</ul>
+
+<hr />
+
+<h2 id="reflex">Reflex</h2>
+
+<h2 id="treebank-statistics-14">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 1 different values: <code>Yes</code>.</p>
+
+<p>1342 tokens (1%) have a non-empty value of <code>Reflex</code>.
+17 types (0%) occur at least once with a non-empty value of <code>Reflex</code>.
+8 lemmas (0%) occur at least once with a non-empty value of <code>Reflex</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/PRON</a> (782; 0% tokens), <a href="">pt-pos/DET</a> (560; 0% tokens).</p>
+
+<h3 id="pron-13"><code>PRON</code></h3>
+
+<p>782 <a href="">pt-pos/PRON</a> tokens (11% of all <code>PRON</code> tokens) have a non-empty value of <code>Reflex</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Reflex</code> co-occurred: <code>PronType=Prs</code> (782; 100%), <code>Case=Acc</code> (717; 92%), <code>Person=3</code> (690; 88%), <code>Number=Sing</code> (531; 68%), <code>Gender=Masc</code> (445; 57%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Reflex</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (782; 100%): <em>se, me, nos, si, se-, seu, te, me-, no, s</em></li>
+  <li><code>EMPTY</code> (6324): <em>que, se, o, ele, o_que, isso, os, quem, lhe, a</em></li>
+</ul>
+
+<h3 id="det-9"><code>DET</code></h3>
+
+<p>560 <a href="">pt-pos/DET</a> tokens (2% of all <code>DET</code> tokens) have a non-empty value of <code>Reflex</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Reflex</code> co-occurred: <code>PronType=Prs</code> (560; 100%), <code>Definite=EMPTY</code> (560; 100%), <code>Number=Sing</code> (416; 74%), <code>Gender=Fem</code> (292; 52%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Reflex</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (560; 100%): <em>sua, seu, seus, suas</em></li>
+  <li><code>EMPTY</code> (32660): <em>o, a, os, as, um, uma, este, esta, sua, seu</em></li>
+</ul>
+
+<hr />
+
+<h2 id="tense">Tense</h2>
+
+<h2 id="treebank-statistics-15">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 5 different values: <code>Fut</code>, <code>Imp</code>, <code>Past</code>, <code>Pqp</code>, <code>Pres</code>.
+Some words have combined values of the feature; 2 combinations have been observed: <code>Imp|Pqp</code>, <code>Past|Pres</code>.</p>
+
+<p>15438 tokens (7%) have a non-empty value of <code>Tense</code>.
+4191 types (15%) occur at least once with a non-empty value of <code>Tense</code>.
+1300 lemmas (7%) occur at least once with a non-empty value of <code>Tense</code>.
+The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (15432; 7% tokens), <a href="">pt-pos/AUX</a> (5; 0% tokens), <a href="">pt-pos/INTJ</a> (1; 0% tokens).</p>
+
+<h3 id="verb-5"><code>VERB</code></h3>
+
+<p>15432 <a href="">pt-pos/VERB</a> tokens (60% of all <code>VERB</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Tense</code> co-occurred: <code>Gender=EMPTY</code> (15432; 100%), <code>VerbForm=Fin</code> (15431; 100%), <code>Person=3</code> (14511; 94%), <code>Mood=Ind</code> (14448; 94%), <code>Number=Sing</code> (11730; 76%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Fut</code> (973; 6%): <em>será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão</em></li>
+  <li><code>Imp</code> (1333; 9%): <em>era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia</em></li>
+  <li><code>Imp,Pqp</code> (361; 2%): <em>foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram</em></li>
+  <li><code>Past</code> (4171; 27%): <em>foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou</em></li>
+  <li><code>Past,Pres</code> (3; 0%): <em>conhecemos, conseguimos, decidimos</em></li>
+  <li><code>Pqp</code> (67; 0%): <em>fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera</em></li>
+  <li><code>Pres</code> (8524; 55%): <em>é, tem, está, são, há, vai, pode, estão, diz, têm</em></li>
+  <li><code>EMPTY</code> (10408): <em>ser, ter, fazer, ver, seria, passado, dar, feito, dizer, estar</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm conseguir</th><th><tt>Fut</tt></th><th><tt>Past,Pres</tt></th><th><tt>Imp</tt></th><th><tt>Pres</tt></th><th><tt>Imp,Pqp</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
+  <tr><td><tt>Hyph=Yes|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</tt></td><td></td><td></td><td></td><td><i>consegue-</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|VerbForm=Fin</tt></td><td></td><td><i>conseguimos</i></td><td></td><td><i>conseguimos</i></td><td></td><td><i>conseguimos</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|VerbForm=Fin</tt></td><td><i>conseguirão</i></td><td></td><td><i>conseguiam</i></td><td><i>conseguem</i></td><td><i>conseguiram</i></td><td><i>conseguiram</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=1,3|VerbForm=Fin</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><i>conseguira</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=1|VerbForm=Fin</tt></td><td></td><td></td><td><i>conseguia</i></td><td><i>consigo</i></td><td></td><td><i>consegui</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin</tt></td><td></td><td></td><td></td><td></td><td></td><td><i>consegui</i></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|VerbForm=Fin</tt></td><td><i>conseguirá</i></td><td></td><td><i>conseguia</i></td><td><i>consegue</i></td><td></td><td><i>conseguiu</i></td><td></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Plur|Person=3|VerbForm=Fin</tt></td><td><i>conseguirem</i></td><td></td><td></td><td><i>consigam</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</tt></td><td><i>conseguir</i></td><td></td><td><i>conseguisse</i></td><td><i>consiga</i></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="aux-5"><code>AUX</code></h3>
+
+<p>5 <a href="">pt-pos/AUX</a> tokens (1% of all <code>AUX</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Tense</code> co-occurred: <code>VerbForm=Fin</code> (5; 100%)</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Fut</code> (1; 20%): <em>desencadear</em></li>
+  <li><code>Pres</code> (4; 80%): <em>está, são, vamos, é</em></li>
+  <li><code>EMPTY</code> (460): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
+</ul>
+
+<h3 id="intj-4"><code>INTJ</code></h3>
+
+<p>1 <a href="">pt-pos/INTJ</a> tokens (3% of all <code>INTJ</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p><code>INTJ</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Past</code> (1; 100%): <em>viu</em></li>
+  <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
+</ul>
+
+<hr />
+
+<h2 id="typo">Typo</h2>
+
+<h2 id="treebank-statistics-16">Treebank Statistics</h2>
+
+<p>This feature is language-specific.
+It occurs with 1 different values: <code>Yes</code>.</p>
+
+<p>38 tokens (0%) have a non-empty value of <code>Typo</code>.
+36 types (0%) occur at least once with a non-empty value of <code>Typo</code>.
+36 lemmas (0%) occur at least once with a non-empty value of <code>Typo</code>.
+The feature is used with 9 part-of-speech tags: <a href="">pt-pos/VERB</a> (10; 0% tokens), <a href="">pt-pos/NOUN</a> (8; 0% tokens), <a href="">pt-pos/ADJ</a> (6; 0% tokens), <a href="">pt-pos/ADP</a> (4; 0% tokens), <a href="">pt-pos/ADV</a> (3; 0% tokens), <a href="">pt-pos/DET</a> (3; 0% tokens), <a href="">pt-pos/PROPN</a> (2; 0% tokens), <a href="">pt-pos/PRON</a> (1; 0% tokens), <a href="">pt-pos/NUM</a> (1; 0% tokens).</p>
+
+<h3 id="verb-6"><code>VERB</code></h3>
+
+<p>10 <a href="">pt-pos/VERB</a> tokens (0% of all <code>VERB</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Typo</code> co-occurred: <code>Number=Sing</code> (9; 90%), <code>Gender=EMPTY</code> (8; 80%), <code>Person=3</code> (7; 70%), <code>VerbForm=Fin</code> (7; 70%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (10; 100%): <em>abandonassse, amplida, claçando, comeu, consegui, indiferência, inugurada, pertência, reúne, çe</em></li>
+</ul>
+
+<h3 id="noun-4"><code>NOUN</code></h3>
+
+<p>8 <a href="">pt-pos/NOUN</a> tokens (0% of all <code>NOUN</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>Typo</code> co-occurred: <code>Number=Sing</code> (5; 63%), <code>Gender=Masc</code> (5; 63%)</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (8; 100%): <em>definicão, descomprimento, dilomatas, meia-noite, mi, propietários, reprsentante, rodad</em></li>
+</ul>
+
+<h3 id="adj-5"><code>ADJ</code></h3>
+
+<p>6 <a href="">pt-pos/ADJ</a> tokens (0% of all <code>ADJ</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Typo</code> co-occurred: <code>Number=Sing</code> (5; 83%), <code>Gender=Masc</code> (4; 67%)</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (6; 100%): <em>espacais, flutante, liquido, mlehor, supreendente, tradiciona</em></li>
+</ul>
+
+<h3 id="adp-4"><code>ADP</code></h3>
+
+<p>4 <a href="">pt-pos/ADP</a> tokens (0% of all <code>ADP</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADP</code> and <code>Typo</code> co-occurred: <code>AdpType=Prep</code> (4; 100%)</p>
+
+<p><code>ADP</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (4; 100%): <em>a, com, de, em_relação_a</em></li>
+</ul>
+
+<h3 id="adv-5"><code>ADV</code></h3>
+
+<p>3 <a href="">pt-pos/ADV</a> tokens (0% of all <code>ADV</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>Typo</code> co-occurred: <code>PronType=EMPTY</code> (3; 100%), <code>NumType=EMPTY</code> (3; 100%)</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (3; 100%): <em>asim, excessivamnete, não</em></li>
+</ul>
+
+<h3 id="det-10"><code>DET</code></h3>
+
+<p>3 <a href="">pt-pos/DET</a> tokens (0% of all <code>DET</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Typo</code> co-occurred: <code>Definite=Def</code> (3; 100%), <code>Number=Sing</code> (3; 100%), <code>PronType=Art</code> (3; 100%), <code>Gender=Fem</code> (2; 67%)</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (3; 100%): <em>a, os</em></li>
+</ul>
+
+<h3 id="propn-4"><code>PROPN</code></h3>
+
+<p>2 <a href="">pt-pos/PROPN</a> tokens (0% of all <code>PROPN</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>Typo</code> co-occurred: <code>Number=Sing</code> (2; 100%)</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (2; 100%): <em>Carlos_Menem, Água_de_Cheiro</em></li>
+</ul>
+
+<h3 id="pron-14"><code>PRON</code></h3>
+
+<p>1 <a href="">pt-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Typo</code> co-occurred: <code>PronType=Rel</code> (1; 100%), <code>Gender=Fem</code> (1; 100%), <code>Number=Sing</code> (1; 100%), <code>Reflex=EMPTY</code> (1; 100%), <code>Case=EMPTY</code> (1; 100%), <code>Person=EMPTY</code> (1; 100%)</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (1; 100%): <em>que</em></li>
+</ul>
+
+<h3 id="num-3"><code>NUM</code></h3>
+
+<p>1 <a href="">pt-pos/NUM</a> tokens (0% of all <code>NUM</code> tokens) have a non-empty value of <code>Typo</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>Typo</code> co-occurred: <code>Gender=Masc</code> (1; 100%), <code>NumType=Card</code> (1; 100%), <code>Number=Plur</code> (1; 100%)</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>Typo</code>:</p>
+
+<ul>
+  <li><code>Yes</code> (1; 100%): <em>miul</em></li>
+</ul>
+
+<hr />
+
+<h2 id="verbform">VerbForm</h2>
+
+<h2 id="treebank-statistics-17">Treebank Statistics</h2>
+
+<p>This feature is universal.
+It occurs with 4 different values: <code>Fin</code>, <code>Ger</code>, <code>Inf</code>, <code>Part</code>.</p>
+
+<p>26305 tokens (12%) have a non-empty value of <code>VerbForm</code>.
+8158 types (29%) occur at least once with a non-empty value of <code>VerbForm</code>.
+1988 lemmas (10%) occur at least once with a non-empty value of <code>VerbForm</code>.
+The feature is used with 2 part-of-speech tags: <a href="">pt-pos/VERB</a> (25840; 12% tokens), <a href="">pt-pos/AUX</a> (465; 0% tokens).</p>
+
+<h3 id="verb-7"><code>VERB</code></h3>
+
+<p>25840 <a href="">pt-pos/VERB</a> tokens (100% of all <code>VERB</code> tokens) have a non-empty value of <code>VerbForm</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>VerbForm</code> co-occurred: <code>Gender=EMPTY</code> (21647; 84%), <code>Person=3</code> (15202; 59%), <code>Number=Sing</code> (15025; 58%), <code>Mood=Ind</code> (14449; 56%)</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>VerbForm</code>:</p>
+
+<ul>
+  <li><code>Fin</code> (15781; 61%): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>Ger</code> (832; 3%): <em>tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando</em></li>
+  <li><code>Inf</code> (4685; 18%): <em>ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter</em></li>
+  <li><code>Part</code> (4542; 18%): <em>feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm viajar</th><th><tt>Ger</tt></th><th><tt>Part</tt></th><th><tt>Inf</tt></th><th><tt>Fin</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><i>viajando</i></td><td></td><td><i>viajar</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>viajado</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=1|Tense=Pres</tt></td><td></td><td></td><td></td><td><i>Viajamos</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Imp</tt></td><td></td><td></td><td></td><td><i>viajavam</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Imp</tt></td><td></td><td></td><td></td><td><i>viajava</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Past</tt></td><td></td><td></td><td></td><td><i>viajou</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres</tt></td><td></td><td></td><td></td><td><i>viaja</i></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Sing|Person=1,3|Tense=Fut</tt></td><td></td><td></td><td></td><td><i>viajar</i></td></tr>
+  <tr><td><tt>Mood=Sub|Number=Sing|Person=3|Tense=Fut</tt></td><td></td><td></td><td></td><td><i>viajar</i></td></tr>
+  <tr><td><tt>Number=Sing|Person=3</tt></td><td></td><td></td><td><i>viajar</i></td><td></td></tr>
+</table>
+
+<h3 id="aux-6"><code>AUX</code></h3>
+
+<p>465 <a href="">pt-pos/AUX</a> tokens (100% of all <code>AUX</code> tokens) have a non-empty value of <code>VerbForm</code>.</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>VerbForm</code>:</p>
+
+<ul>
+  <li><code>Fin</code> (6; 1%): <em>desencadear, está, são, teria, vamos, é</em></li>
+  <li><code>Ger</code> (22; 5%): <em>sendo, enchendo, sujando, vindo</em></li>
+  <li><code>Inf</code> (323; 69%): <em>ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir</em></li>
+  <li><code>Part</code> (114; 25%): <em>sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm ser</th><th><tt>Ger</tt></th><th><tt>Part</tt></th><th><tt>Inf</tt></th><th><tt>Fin</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><i>sendo</i></td><td><i>sido</i></td><td><i>ser</i></td><td></td></tr>
+  <tr><td><tt>Gender=Masc|Number=Sing</tt></td><td></td><td><i>sido</i></td><td></td><td></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Plur|Person=3|Tense=Pres</tt></td><td></td><td></td><td></td><td><i>são</i></td></tr>
+  <tr><td><tt>Mood=Ind|Number=Sing|Person=3|Tense=Pres</tt></td><td></td><td></td><td></td><td><i>é</i></td></tr>
+</table>
+
 <p><a href="https://github.com/universaldependencies/docs/edit/pages-source/_pt-feat/PronType.md" target="#">edit PronType</a></p>
 
 <p><a id="al-pt-feat/Reflex" class="al-dest"></a></p>
