@@ -6,13 +6,6 @@ layout: base
 
 {{ content }}
 
-<!-- Dan's experiment -->
-<!-- It is possible that Jekyll at Filip's site will break on this and just fail to regenerate the pages. -->
-<!-- or {% include_relative stats/... %} -->
-<!--{% capture path %}stats/{{page.title}}.md{% endcapture %}
-{% include {{path}} %}-->
-<!-- end of experiment -->
-
 <!-- "in other languages" links -->
 <hr/>
 {% for r in site.data.postags %}{% if r.label == page.title %}
