@@ -6,6 +6,9 @@ layout: base
 
 {{ content }}
 
+<!-- DZ: experimental: including treebank statistics -->
+{% include_relative stats/{{ page.title }}.md %}
+
 <!-- "in other languages" links -->
 <hr/>
 {% for r in site.data.postags %}{% if r.label == page.title %}
