@@ -7,4 +7,5 @@ shortdef: 'adjective'
 This document is a placeholder for the language-specific documentation
 for `ADJ`.
 
-{% include_relative stats/ADJ.md %}
+{% capture path %}stats/ADJ.md{% endcapture %}
+{% include_relative {{path}} %}
