@@ -6,6 +6,12 @@ layout: base
 
 {{ content }}
 
+<!-- Dan's experiment -->
+<!-- or {% include_relative stats/... %} -->
+{% capture path %}stats/{{page.title}}.md{% endcapture %}
+{% include {{path}} %}
+<!-- end of experiment -->
+
 <!-- "in other languages" links -->
 <hr/>
 {% for r in site.data.postags %}{% if r.label == page.title %}
