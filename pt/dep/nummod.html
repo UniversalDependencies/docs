@@ -50,9 +50,9 @@ for <code>nummod</code>.</p>
 <p>3307 nodes (2%) are attached to their parents as <code>nummod</code>.</p>
 
 <p>2449 instances of <code>nummod</code> (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41941336558815.</p>
+Average distance between parent and child is 1.45660719685516.</p>
 
-<p>The following 13 pairs of parts of speech are connected with <code>nummod</code>: <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/NUM</a> (2893; 87% instances), <a href="">pt-pos/SYM</a>-<a href="">pt-pos/NUM</a> (181; 5% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/NUM</a> (150; 5% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/NUM</a> (36; 1% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/NUM</a> (15; 0% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/NUM</a> (13; 0% instances), <a href="">pt-pos/PRON</a>-<a href="">pt-pos/NUM</a> (7; 0% instances), <a href="">pt-pos/DET</a>-<a href="">pt-pos/NUM</a> (5; 0% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/NUM</a> (3; 0% instances), <a href="">pt-pos/ADP</a>-<a href="">pt-pos/NUM</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/ADJ</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/NOUN</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/VERB</a> (1; 0% instances).</p>
+<p>The following 12 pairs of parts of speech are connected with <code>nummod</code>: <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/NUM</a> (2757; 83% instances), <a href="">pt-pos/SYM</a>-<a href="">pt-pos/NUM</a> (318; 10% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/NUM</a> (149; 5% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/NUM</a> (36; 1% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/NUM</a> (15; 0% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/NUM</a> (13; 0% instances), <a href="">pt-pos/DET</a>-<a href="">pt-pos/NUM</a> (12; 0% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/NUM</a> (3; 0% instances), <a href="">pt-pos/ADP</a>-<a href="">pt-pos/NUM</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/ADJ</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/NOUN</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/VERB</a> (1; 0% instances).</p>
 
 <pre><code class="language-conllu"># visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
@@ -72,38 +72,36 @@ Average distance between parent and child is 1.41941336558815.</p>
 
 </code></pre>
 
-<pre><code class="language-conllu"># visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 nummod	color:blue
-1	BRIZOLA	BRIZOLA	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nsubj	_	_
-2	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	O	o	DET	art|&lt;artd&gt;|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	3º	3º	ADJ	adj|&lt;NUM-ord&gt;|&lt;n&gt;|&lt;Eg&gt;|M|S	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
-5	Em	em	ADP	prp|&lt;sam-&gt;	AdpType=Prep	7	case	_	_
-6	o	o	DET	art|&lt;-sam&gt;|&lt;artd&gt;|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	Rio	Rio	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nmod	_	_
-8	,	,	PUNCT	punc	_	4	punct	_	_
-9	com	com	ADP	prp	AdpType=Prep	11	case	_	_
-10	13	13	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	11	nummod	_	_
-11	%	%	SYM	n|M|P	Gender=Masc|Number=Plur	4	advmod	_	_
-12	.	.	PUNCT	punc	_	4	punct	_	_
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod	color:blue
+1	E	e	CONJ	conj-c	_	4	cc	_	_
+2	alguns	algum	DET	pron-det|&lt;quant&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind,Neg,Tot	3	nsubj	_	_
+3	vão	ir	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ter	ter	VERB	v-inf	VerbForm=Inf	3	xcomp	_	_
+5	de	de	ADP	prp	AdpType=Prep	7	case	_	_
+6	30	30	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	_
+7	$%	%	SYM	n|M|P	Gender=Masc|Number=Plur	4	dobj	_	_
+8	»	»	PUNCT	punc	_	3	punct	_	_
+9	.	.	PUNCT	punc	_	3	punct	_	_
 
 </code></pre>
 
-<pre><code class="language-conllu"># visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 nummod	color:blue
-1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
-2	,	,	PUNCT	punc	_	1	punct	_	_
-3	63	63	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
-4	,	,	PUNCT	punc	_	1	punct	_	_
-5	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-6	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	5	nummod	_	_
-7	)	)	PUNCT	punc	_	1	punct	_	_
+# visual-style 1 4 nummod	color:blue
+1	Pedro	Pedro	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
+2	Ivo	Ivo	PROPN	PROPN	Gender=Masc|Number=Sing	1	name	_	_
+3	,	,	PUNCT	punc	_	1	punct	_	_
+4	63	63	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
+5	,	,	PUNCT	punc	_	1	punct	_	_
+6	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
+7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	6	nummod	_	_
+8	)	)	PUNCT	punc	_	1	punct	_	_
 
 </code></pre>
 
