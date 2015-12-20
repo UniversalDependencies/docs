@@ -22,6 +22,11 @@ The following 12 pairs of parts of speech are connected with `root`: [pt-pos/ROO
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 8 root	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -36,6 +41,11 @@ The following 12 pairs of parts of speech are connected with `root`: [pt-pos/ROO
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 8 root	color:blue
 1	De	de	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 2	os	o	DET	art|<-sam>|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	fumantes	fumante	NOUN	n|M|P	Gender=Masc|Number=Plur	8	nmod	_	_
@@ -55,6 +65,11 @@ The following 12 pairs of parts of speech are connected with `root`: [pt-pos/ROO
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
 1	Conforto	conforto	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	fundamental	fundamental	ADJ	adj|M|S	Gender=Masc|Number=Sing	0	root	_	_

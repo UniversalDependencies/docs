@@ -22,6 +22,11 @@ The following 30 pairs of parts of speech are connected with `advcl`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 advcl	color:blue
 1	PF	PF	PROPN	prop|F|S	Gender=Fem|Number=Sing	2	nsubj	_	_
 2	prende	prender	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dois	dois	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	2	dobj	_	_
@@ -33,6 +38,11 @@ The following 30 pairs of parts of speech are connected with `advcl`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 advcl	color:blue
 1	«	«	PUNCT	punc	_	4	punct	_	_
 2	Era	ser	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	um	um	DET	art|<arti>|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -45,6 +55,11 @@ The following 30 pairs of parts of speech are connected with `advcl`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 advcl	color:blue
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	energia	energia	NOUN	n|F|S	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	nuclear	nuclear	ADJ	adj|F|S	Gender=Fem|Number=Sing	2	amod	_	_

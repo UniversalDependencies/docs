@@ -22,6 +22,11 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nummod	color:blue
 1	Ele	ele	PRON	pron-pers|M|3S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	estava	estar	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	acompanhados	acompanhar	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
@@ -37,6 +42,11 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 nummod	color:blue
 1	BRIZOLA	BRIZOLA	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -54,6 +64,11 @@ The following 13 pairs of parts of speech are connected with `nummod`: [pt-pos/N
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 nummod	color:blue
 1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
 2	,	,	PUNCT	punc	_	1	punct	_	_
 3	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_

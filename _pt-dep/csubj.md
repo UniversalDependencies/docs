@@ -22,6 +22,11 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 csubj	color:blue
 1	Mais	mais	ADV	adv|<quant>	NumType=Card|PronType=Ind,Neg,Tot	2	advmod	_	_
 2	inesperado	inesperado	ADJ	adj|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	ainda	ainda	ADV	adv	_	2	advmod	_	_
@@ -36,6 +41,11 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 csubj	color:blue
 1	Quem	quem	PRON	pron-indp|<rel>|M/F|S	Number=Sing|PronType=Rel	2	nsubj	_	_
 2	quiser	querer	VERB	v-fin|FUT|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	csubj	_	_
 3	,	,	PUNCT	punc	_	4	punct	_	_
@@ -54,6 +64,11 @@ The following 15 pairs of parts of speech are connected with `csubj`: [pt-pos/AD
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 csubj	color:blue
 1	Pena	pena	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	não	não	ADV	adv	_	3	neg	_	_
 3	ter	ter	VERB	v-inf|3S	Number=Sing|Person=3|VerbForm=Inf	1	csubj	_	_

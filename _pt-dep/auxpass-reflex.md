@@ -15,6 +15,11 @@ The following 1 pairs of parts of speech are connected with `auxpass:reflex`: [p
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 auxpass:reflex	color:blue
 1	Silêncio	silêncio	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 2	sepulcral	sepulcral	ADJ	adj|M|S	Gender=Masc|Number=Sing	1	amod	_	_
 3	,	,	PUNCT	punc	_	1	punct	_	_

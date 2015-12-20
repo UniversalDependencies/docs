@@ -25,6 +25,11 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 aux	color:blue
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 2	o	o	DET	art|<-sam>|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	projeto	projeto	NOUN	n|M|S	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -42,6 +47,11 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 aux	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	cemitério	cemitério	NOUN	n|M|S	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	prp	AdpType=Prep	4	case	_	_
@@ -57,6 +67,11 @@ The following 5 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux	color:blue
 1	Romário	Romário	PROPN	prop|M|S	Gender=Masc|Number=Sing	3	cop	_	_
 2	é	ser	AUX	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	o	o	PRON	pron-det|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_

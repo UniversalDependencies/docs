@@ -22,6 +22,11 @@ The following 38 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cc	color:blue
 1	Para	para	ADP	prp	AdpType=Prep	2	case	_	_
 2	mim	eu	PRON	pron-pers|M|1S|PIV	Case=Acc|Gender=Masc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	7	nmod	_	_
 3	roupa	roupa	NOUN	n|F|S	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -37,6 +42,11 @@ The following 38 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
 1	E	e	CONJ	conj-c	_	4	cc	_	_
 2	alguns	algum	PRON	pron-det|<quant>|M|P	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind,Neg,Tot	3	nsubj	_	_
 3	vão	ir	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -51,6 +61,11 @@ The following 38 pairs of parts of speech are connected with `cc`: [pt-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cc	color:blue
 1	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	também	também	ADV	adv	_	3	advmod	_	_
 3	primo	primo	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_

@@ -22,6 +22,11 @@ The following 84 pairs of parts of speech are connected with `nmod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 nmod	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -36,6 +41,11 @@ The following 84 pairs of parts of speech are connected with `nmod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 nmod	color:blue
 1	Dallari	Dallari	PROPN	prop|M|S	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	orientou	orientar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	os	o	DET	art|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
@@ -51,6 +61,11 @@ The following 84 pairs of parts of speech are connected with `nmod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 nmod	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_

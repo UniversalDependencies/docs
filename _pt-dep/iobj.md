@@ -22,6 +22,11 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 iobj	color:blue
 1	Eu	eu	PRON	pron-pers|M|1S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	não	não	ADV	adv	_	4	neg	_	_
 3	me	eu	PRON	pron-pers|<refl>|M|1S|ACC	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	dobj	_	_
@@ -34,6 +39,11 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 iobj	color:blue
 1	«	«	PUNCT	punc	_	3	punct	_	_
 2	Me	eu	PRON	pron-pers|<refl>|M|1S|DAT	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	iobj	_	_
 3	pergunto	perguntar	VERB	v-fin|PR|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -52,6 +62,11 @@ The following 8 pairs of parts of speech are connected with `iobj`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 iobj	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	PSD	PSD	PROPN	prop|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	decidiu	decidir	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_

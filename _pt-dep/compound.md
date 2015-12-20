@@ -22,6 +22,11 @@ The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 compound	color:blue
 1	Lisboa	Lisboa	PROPN	prop|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	,	,	PUNCT	punc	_	1	punct	_	_
 3	18	18	NUM	num|<card>|M|S/P	Gender=Masc|NumType=Card	1	nummod	_	_
@@ -35,6 +40,11 @@ The following 2 pairs of parts of speech are connected with `compound`: [pt-pos/
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 15 compound	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Benfica	Benfica	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	já	já	ADV	adv	_	4	advmod	_	_

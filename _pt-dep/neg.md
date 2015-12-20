@@ -22,6 +22,11 @@ The following 12 pairs of parts of speech are connected with `neg`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 neg	color:blue
 1	Eu	eu	PRON	pron-pers|M|1S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	não	não	ADV	adv	_	4	neg	_	_
 3	me	eu	PRON	pron-pers|<refl>|M|1S|ACC	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	dobj	_	_
@@ -34,6 +39,11 @@ The following 12 pairs of parts of speech are connected with `neg`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 neg	color:blue
 1	R.	R.	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	--	--	PUNCT	punc	_	1	punct	_	_
 3	Não	não	ADV	adv	_	5	neg	_	_
@@ -45,6 +55,11 @@ The following 12 pairs of parts of speech are connected with `neg`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 neg	color:blue
 1	Apaixonou-	apaixonar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	se	se	PRON	pron-pers|<refl>|M|3S|ACC	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	dobj	_	_
 3	por	por	ADP	prp	AdpType=Prep	5	case	_	_

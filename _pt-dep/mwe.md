@@ -22,6 +22,11 @@ The following 1 pairs of parts of speech are connected with `mwe`: [pt-pos/ADV](
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 mwe	color:blue
 1	Em	em	ADP	prp|<sam->	AdpType=Prep	5	cc	_	_
 2	isto	isto	PRON	pron-indp|<-sam>|<dem>|M|S	Gender=Masc|Number=Sing|PronType=Dem	5	nmod	_	_
 3	também	também	ADV	adv	_	5	case	_	_

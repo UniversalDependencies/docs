@@ -22,6 +22,11 @@ The following 46 pairs of parts of speech are connected with `dobj`: [pt-pos/VER
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 dobj	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -36,6 +41,11 @@ The following 46 pairs of parts of speech are connected with `dobj`: [pt-pos/VER
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 dobj	color:blue
 1	Cartões	cartão	NOUN	n|M|P	Gender=Masc|Number=Plur	0	root	_	_
 2	:	:	PUNCT	punc	_	1	punct	_	_
 3	aceita	aceitar	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
@@ -45,6 +55,11 @@ The following 46 pairs of parts of speech are connected with `dobj`: [pt-pos/VER
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 dobj	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	governo	governo	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	vai	ir	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_

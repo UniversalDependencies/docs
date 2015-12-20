@@ -22,6 +22,11 @@ The following 40 pairs of parts of speech are connected with `acl`: [pt-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 acl	color:blue
 1	Ela	ela	PRON	pron-pers|F|3S|NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	tem	ter	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	também	também	ADV	adv	_	2	advmod	_	_
@@ -38,6 +43,11 @@ The following 40 pairs of parts of speech are connected with `acl`: [pt-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 acl	color:blue
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cestinha	cestinha	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	prp|<sam->	AdpType=Prep	5	case	_	_
@@ -56,6 +66,11 @@ The following 40 pairs of parts of speech are connected with `acl`: [pt-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 acl	color:blue
 1	Isto	isto	PRON	pron-indp|<dem>|M|S	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 2	no_caso_de	no_caso_de	ADP	prp	AdpType=Prep	6	mark	_	_
 3	os	o	DET	art|<artd>|M|P	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_

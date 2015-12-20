@@ -22,6 +22,11 @@ The following 29 pairs of parts of speech are connected with `case`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 case	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -36,6 +41,11 @@ The following 29 pairs of parts of speech are connected with `case`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 case	color:blue
 1	Audiência	audiência	NOUN	n|F|S	Gender=Fem|Number=Sing	8	nsubj	_	_
 2	em	em	ADP	prp|<sam->	AdpType=Prep	4	case	_	_
 3	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -50,6 +60,11 @@ The following 29 pairs of parts of speech are connected with `case`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 case	color:blue
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
 2	de	de	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 3	eles	eles	PRON	pron-pers|<-sam>|M|3P|NOM/PIV	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	1	nmod	_	_

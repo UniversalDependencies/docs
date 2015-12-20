@@ -22,6 +22,11 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 appos	color:blue
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
 2	de	de	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 3	eles	eles	PRON	pron-pers|<-sam>|M|3P|NOM/PIV	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	1	nmod	_	_
@@ -36,6 +41,11 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
 1	Vocação	vocação	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	:	:	PUNCT	punc	_	1	punct	_	_
 3	albergue	albergue	NOUN	n|M|S	Gender=Masc|Number=Sing	1	appos	_	_
@@ -45,6 +55,11 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 
 
 ~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 14 appos	color:blue
 1	Por	por	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
 2	as	o	DET	art|<-sam>|<artd>|P	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	rádios	rádio	NOUN	n|M|P	Gender=Masc|Number=Plur	7	nmod	_	_

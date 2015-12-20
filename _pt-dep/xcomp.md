@@ -22,6 +22,11 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	governo	governo	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	vai	ir	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
@@ -40,6 +45,11 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 xcomp	color:blue
 1	«	«	PUNCT	punc	_	4	punct	_	_
 2	Senão	senão	ADV	adv	_	6	advmod	_	_
 3	ele	ele	PRON	pron-pers|M|3S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -61,6 +71,11 @@ The following 16 pairs of parts of speech are connected with `xcomp`: [pt-pos/VE
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 xcomp	color:blue
 1	É	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	de	de	ADP	prp	AdpType=Prep	3	mark	_	_
 3	crer	crer	VERB	v-inf	VerbForm=Inf	0	root	_	_

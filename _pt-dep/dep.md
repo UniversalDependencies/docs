@@ -22,6 +22,11 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 dep	color:blue
 1	Sabe	saber	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	conj-s	_	1	dobj	_	_
 3	se	se	SCONJ	conj-s	_	5	mark	_	_
@@ -38,6 +43,11 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 dep	color:blue
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	8	cop	_	_
 2	de	de	ADP	prp|<sam->	AdpType=Prep	5	case	_	_
 3	estes	este	DET	pron-det|<-sam>|<dem>|M|P	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
@@ -52,6 +62,11 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 dep	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	fado	fado	NOUN	n|M|S	Gender=Masc|Number=Sing	6	nsubj	_	_
 3	,	,	PUNCT	punc	_	6	punct	_	_

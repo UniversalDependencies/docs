@@ -22,6 +22,11 @@ The following 10 pairs of parts of speech are connected with `amod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 amod	color:blue
 1	Horário	horário	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 2	:	:	PUNCT	punc	_	1	punct	_	_
 3	em	em	ADP	prp|<sam->	AdpType=Prep	5	case	_	_
@@ -41,6 +46,11 @@ The following 10 pairs of parts of speech are connected with `amod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
 1	Um	um	DET	art|<arti>|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Godard	Godard	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	intergaláctico	intergaláctico	ADJ	adj|M|S	Gender=Masc|Number=Sing	2	amod	_	_
@@ -49,6 +59,11 @@ The following 10 pairs of parts of speech are connected with `amod`: [pt-pos/NOU
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
 1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	jovem	jovem	ADJ	adj|<n>|M|S	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	sportinguista	sportinguista	ADJ	adj|M|S	Gender=Masc|Number=Sing	2	amod	_	_

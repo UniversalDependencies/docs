@@ -22,6 +22,11 @@ The following 1 pairs of parts of speech are connected with `name`: [pt-pos/PROP
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 name	color:blue
 1	Requiem_pelos_Vivos	Requiem_pelos_Vivos	PROPN	prop|M|P	Gender=Masc|Number=Plur	7	nsubj	_	_
 2	,	,	PUNCT	punc	_	1	punct	_	_
 3	agora	agora	ADV	adv|<kc>	_	5	nmod	_	_

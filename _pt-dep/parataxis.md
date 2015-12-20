@@ -22,6 +22,11 @@ The following 25 pairs of parts of speech are connected with `parataxis`: [pt-po
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 parataxis	color:blue
 1	Folha	Folha	PROPN	prop|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	--	--	PUNCT	punc	_	1	punct	_	_
 3	o_que	o_que	PRON	pron-indp|<interr>|M|S	Gender=Masc|Number=Sing|PronType=Int	6	dobj	_	_
@@ -38,6 +43,11 @@ The following 25 pairs of parts of speech are connected with `parataxis`: [pt-po
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 parataxis	color:blue
 1	P.	P.	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	--	--	PUNCT	punc	_	1	punct	_	_
 3	As	o	DET	art|<artd>|F|P	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
@@ -56,6 +66,11 @@ The following 25 pairs of parts of speech are connected with `parataxis`: [pt-po
 
 
 ~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 13 parataxis	color:blue
 1	Enganei-	enganar	VERB	v-fin|PS|1S|IND	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	me	eu	PRON	pron-pers|<refl>|M/F|1S|ACC	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	1	dobj	_	_
 3	:	:	PUNCT	punc	_	1	punct	_	_

@@ -23,6 +23,11 @@ The following 62 pairs of parts of speech are connected with `advmod`: [pt-pos/V
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 advmod	color:blue
 1	Ela	ela	PRON	pron-pers|F|3S|NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	tem	ter	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	também	também	ADV	adv	_	2	advmod	_	_
@@ -39,6 +44,11 @@ The following 62 pairs of parts of speech are connected with `advmod`: [pt-pos/V
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advmod	color:blue
 1	«	«	PUNCT	punc	_	4	punct	_	_
 2	Foi	ser	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 3	um	um	DET	art|<arti>|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -51,6 +61,11 @@ The following 62 pairs of parts of speech are connected with `advmod`: [pt-pos/V
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
 1	Pouco	pouco	ADV	adv|<quant>	NumType=Card|PronType=Ind,Neg,Tot	2	advmod	_	_
 2	depois	depois	ADV	adv	_	6	advmod	_	_
 3	,	,	PUNCT	punc	_	6	punct	_	_
