@@ -54,7 +54,12 @@ Average distance between parent and child is 1.23257418909593.</p>
 
 <p>The following 10 pairs of parts of speech are connected with <code>amod</code>: <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/ADJ</a> (8362; 96% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/ADJ</a> (204; 2% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/ADJ</a> (53; 1% instances), <a href="">pt-pos/PRON</a>-<a href="">pt-pos/ADJ</a> (31; 0% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/ADJ</a> (19; 0% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/ADJ</a> (9; 0% instances), <a href="">pt-pos/SYM</a>-<a href="">pt-pos/ADJ</a> (7; 0% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/ADJ</a> (6; 0% instances), <a href="">pt-pos/DET</a>-<a href="">pt-pos/ADJ</a> (2; 0% instances), <a href="">pt-pos/ADP</a>-<a href="">pt-pos/ADJ</a> (1; 0% instances).</p>
 
-<pre><code class="language-conllu">1	Horário	horário	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
+<pre><code class="language-conllu"># visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 amod	color:blue
+1	Horário	horário	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 2	:	:	PUNCT	punc	_	1	punct	_	_
 3	em	em	ADP	prp|&lt;sam-&gt;	AdpType=Prep	5	case	_	_
 4	o	o	DET	art|&lt;-sam&gt;|&lt;artd&gt;|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -71,13 +76,23 @@ Average distance between parent and child is 1.23257418909593.</p>
 
 </code></pre>
 
-<pre><code class="language-conllu">1	Um	um	DET	art|&lt;arti&gt;|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	Um	um	DET	art|&lt;arti&gt;|M|S	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Godard	Godard	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	intergaláctico	intergaláctico	ADJ	adj|M|S	Gender=Masc|Number=Sing	2	amod	_	_
 
 </code></pre>
 
-<pre><code class="language-conllu">1	O	o	DET	art|&lt;artd&gt;|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	O	o	DET	art|&lt;artd&gt;|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	jovem	jovem	ADJ	adj|&lt;n&gt;|M|S	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	sportinguista	sportinguista	ADJ	adj|M|S	Gender=Masc|Number=Sing	2	amod	_	_
 4	Nélson	Nélson	PROPN	prop|M|S	Gender=Masc|Number=Sing	2	nmod	_	_

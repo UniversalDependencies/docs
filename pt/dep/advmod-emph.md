@@ -15,6 +15,11 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 advmod:emph	color:blue
 1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	_
 2	talento	talento	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	que	que	PRON	pron-indp|<rel>|M|S	Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
@@ -33,6 +38,11 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 advmod:emph	color:blue
 1	Só	só	ADV	adv|<meta>	_	5	advmod:emph	_	_
 2	quando	quando	ADV	adv|<rel>|<ks>	PronType=Rel	5	advmod	_	_
 3	Moniz_Pereira	Moniz_Pereira	PROPN	prop|M|S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -55,6 +65,11 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: [pt-p
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 advmod:emph	color:blue
 1	A	o	DET	art|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	revista	revista	NOUN	n|F|S	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	começou	começar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_

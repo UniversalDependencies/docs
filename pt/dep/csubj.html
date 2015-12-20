@@ -54,7 +54,12 @@ Average distance between parent and child is 5.13142857142857.</p>
 
 <p>The following 15 pairs of parts of speech are connected with <code>csubj</code>: <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/VERB</a> (148; 42% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/VERB</a> (128; 37% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/VERB</a> (44; 13% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/ADJ</a> (7; 2% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/VERB</a> (5; 1% instances), <a href="">pt-pos/PRON</a>-<a href="">pt-pos/VERB</a> (4; 1% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/ADJ</a> (3; 1% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/NOUN</a> (3; 1% instances), <a href="">pt-pos/SCONJ</a>-<a href="">pt-pos/VERB</a> (2; 1% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/NOUN</a> (1; 0% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/PRON</a> (1; 0% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/VERB</a> (1; 0% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/VERB</a> (1; 0% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/ADV</a> (1; 0% instances), <a href="">pt-pos/VERB</a>-<a href="">pt-pos/PROPN</a> (1; 0% instances).</p>
 
-<pre><code class="language-conllu">1	Mais	mais	ADV	adv|&lt;quant&gt;	NumType=Card|PronType=Ind,Neg,Tot	2	advmod	_	_
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 csubj	color:blue
+1	Mais	mais	ADV	adv|&lt;quant&gt;	NumType=Card|PronType=Ind,Neg,Tot	2	advmod	_	_
 2	inesperado	inesperado	ADJ	adj|M|S	Gender=Masc|Number=Sing	0	root	_	_
 3	ainda	ainda	ADV	adv	_	2	advmod	_	_
 4	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
@@ -66,7 +71,12 @@ Average distance between parent and child is 5.13142857142857.</p>
 
 </code></pre>
 
-<pre><code class="language-conllu">1	Quem	quem	PRON	pron-indp|&lt;rel&gt;|M/F|S	Number=Sing|PronType=Rel	2	nsubj	_	_
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 csubj	color:blue
+1	Quem	quem	PRON	pron-indp|&lt;rel&gt;|M/F|S	Number=Sing|PronType=Rel	2	nsubj	_	_
 2	quiser	querer	VERB	v-fin|FUT|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	csubj	_	_
 3	,	,	PUNCT	punc	_	4	punct	_	_
 4	vai	ir	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -82,7 +92,12 @@ Average distance between parent and child is 5.13142857142857.</p>
 
 </code></pre>
 
-<pre><code class="language-conllu">1	Pena	pena	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 csubj	color:blue
+1	Pena	pena	NOUN	n|F|S	Gender=Fem|Number=Sing	0	root	_	_
 2	não	não	ADV	adv	_	3	neg	_	_
 3	ter	ter	VERB	v-inf|3S	Number=Sing|Person=3|VerbForm=Inf	1	csubj	_	_
 4	mais	mais	DET	pron-det|&lt;quant&gt;|M|S	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind,Neg,Tot	5	det	_	_
