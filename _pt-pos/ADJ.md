@@ -7,4 +7,4 @@ shortdef: 'adjective'
 This document is a placeholder for the language-specific documentation
 for `ADJ`.
 
-Kuk:
+{% include_relative stats/ADJ.md %}
