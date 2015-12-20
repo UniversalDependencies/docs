@@ -16,9 +16,9 @@ This relation is universal.
 575 nodes (0%) are attached to their parents as `appos`.
 
 572 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98782608695652.
+Average distance between parent and child is 5.09565217391304.
 
-The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (316; 55% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (41; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (10; 2% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (8; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (7; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `appos`: [pt-pos/NOUN]()-[pt-pos/PROPN]() (316; 55% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (106; 18% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (41; 7% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (21; 4% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (13; 2% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (10; 2% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (7; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (7; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (6; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (6; 1% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (5; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (5; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (3; 1% instances), [pt-pos/NUM]()-[pt-pos/PROPN]() (3; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (2; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADV]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,8 +34,9 @@ The following 27 pairs of parts of speech are connected with `appos`: [pt-pos/NO
 5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio_Fioravanti	Sérgio_Fioravanti	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
-9	.	.	PUNCT	punc	_	6	punct	_	_
+8	Sérgio	Sérgio	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
+9	Fioravanti	Fioravanti	PROPN	PROPN	Gender=Masc|Number=Sing	8	name	_	_
+10	.	.	PUNCT	punc	_	6	punct	_	_
 
 ~~~
 

@@ -18,21 +18,20 @@ Some words have combined values of the feature; 1 combinations have been observe
 20191 tokens (9%) have a non-empty value of `Person`.
 4600 types (17%) occur at least once with a non-empty value of `Person`.
 1344 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (16166; 8% tokens), [pt-pos/PRON]() (2737; 1% tokens), [pt-pos/DET]() (1279; 1% tokens), [pt-pos/AUX]() (8; 0% tokens), [pt-pos/INTJ]() (1; 0% tokens).
+The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (16166; 7% instances), [pt-pos/PRON]() (2724; 1% instances), [pt-pos/DET]() (1292; 1% instances), [pt-pos/AUX]() (8; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
 
 ### `VERB`
 
 16166 [pt-pos/VERB]() tokens (63% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (16165; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15776; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14447; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (12228; 76%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8523; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: .
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (896; 6% of non-empty `Person`): _tenho, estamos, temos, vamos, sei, acho, estou, fui, podemos, somos_
-* `1,3` (49; 0% of non-empty `Person`): _veja, esqueça, leia, Confira, cite, era, ligue, seria, Aventure-, Desculpe-_
-* `2` (19; 0% of non-empty `Person`): _Sê, move, Compreendeste, Criaste, Olha, Rodeaste-, Roubarás, Roubaste, Saiba, chamais_
-* `3` (15202; 94% of non-empty `Person`): _é, foi, tem, está, são, há, disse, foram, vai, era_
-* `EMPTY` (9674): _ser, ter, fazer, ver, passado, dar, feito, passada, dizer, estar_
+* `1` (896; 6% of non-empty `Person`): __
+* `1,3` (49; 0% of non-empty `Person`): __
+* `2` (19; 0% of non-empty `Person`): __
+* `3` (15202; 94% of non-empty `Person`): __
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>1</tt></th><th><tt>1,3</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -65,16 +64,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2737 [pt-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
+2724 [pt-pos/PRON]() tokens (45% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2732; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1957; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (1891; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (1737; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1468; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: .
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (320; 12% of non-empty `Person`): _eu, me, nos, nós, mim, meus, nos*, nossos, me-, meu_
-* `2` (9; 0% of non-empty `Person`): _te, ti, vos, vós_
-* `3` (2408; 88% of non-empty `Person`): _se, ele, lhe, o, eles, ela, a, elas, você, lo_
-* `EMPTY` (4369): _que, o, o_que, isso, quem, os, tudo, a, nada, isto_
+* `1` (314; 12% of non-empty `Person`): __
+* `2` (9; 0% of non-empty `Person`): __
+* `3` (2401; 88% of non-empty `Person`): __
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -96,20 +94,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><i>nós</i></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 94% lemmas (16) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 93% lemmas (13) occur only with one value of `Person`.
 
 ### `DET`
 
-1279 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
+1292 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1279; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1279; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (937; 73%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (645; 50%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: .
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (179; 14% of non-empty `Person`): _meu, nosso, nossa, minha, nossos, nossas, minhas, meus_
-* `2` (8; 1% of non-empty `Person`): _vossa, teu, vosso, seu_
-* `3` (1092; 85% of non-empty `Person`): _sua, seu, seus, suas_
-* `EMPTY` (31941): _o, a, os, as, um, uma, este, esta, esse, qualquer_
+* `1` (185; 14% of non-empty `Person`): __
+* `2` (8; 1% of non-empty `Person`): __
+* `3` (1099; 85% of non-empty `Person`): __
 
 <table>
   <tr><th>Paradigm <i>seu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -137,13 +134,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 8 [pt-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6; 75%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: .
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1; 13% of non-empty `Person`): _vamos_
-* `3` (7; 88% of non-empty `Person`): _dar, desencadear, está, mostrarem, são, teria, é_
-* `EMPTY` (457): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
+* `1` (1; 13% of non-empty `Person`): __
+* `3` (7; 88% of non-empty `Person`): __
 
 ### `INTJ`
 
@@ -151,10 +147,5 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `INTJ` tokens may have the following values of `Person`:
 
-* `3` (1; 100% of non-empty `Person`): _viu_
-* `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
-
-## Relations with Agreement in `Person`
-
-The 10 most frequent relations where parent and child node agree in `Person`: `VERB --[conj]--> VERB` (1049; 87%), `VERB --[iobj]--> PRON` (240; 64%), `VERB --[dep]--> VERB` (22; 69%), `VERB --[auxpass:reflex]--> PRON` (21; 78%), `VERB --[parataxis]--> VERB` (18; 55%), `VERB --[dep]--> PRON` (17; 89%), `VERB --[cc]--> VERB` (11; 92%), `PRON --[conj]--> PRON` (4; 80%), `VERB --[acl]--> VERB` (3; 60%).
+* `3` (1; 100% of non-empty `Person`): __
 

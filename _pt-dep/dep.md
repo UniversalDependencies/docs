@@ -16,9 +16,9 @@ This relation is universal.
 193 nodes (0%) are attached to their parents as `dep`.
 
 157 instances of `dep` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.48186528497409.
+Average distance between parent and child is 6.62694300518135.
 
-The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB]()-[pt-pos/VERB]() (35; 18% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (24; 12% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (19; 10% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (17; 9% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (16; 8% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (13; 7% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (7; 4% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 3% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (6; 3% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (4; 2% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (4; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (4; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/INTJ]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/INTJ]() (1; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 1% instances).
+The following 37 pairs of parts of speech are connected with `dep`: [pt-pos/VERB]()-[pt-pos/VERB]() (35; 18% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (24; 12% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (18; 9% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (17; 9% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (16; 8% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (13; 7% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (7; 4% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (6; 3% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (6; 3% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (4; 2% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (4; 2% instances), [pt-pos/NOUN]()-[pt-pos/ADP]() (4; 2% instances), [pt-pos/ADV]()-[pt-pos/DET]() (3; 2% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (3; 2% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 2% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 1% instances), [pt-pos/NOUN]()-[pt-pos/INTJ]() (2; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (2; 1% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/ADV]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/INTJ]()-[pt-pos/PROPN]() (1; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/PRON]() (1; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADJ]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADP]() (1; 1% instances), [pt-pos/PROPN]()-[pt-pos/INTJ]() (1; 1% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 1% instances), [pt-pos/VERB]()-[pt-pos/DET]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,19 +62,23 @@ The following 34 pairs of parts of speech are connected with `dep`: [pt-pos/VERB
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 dep	color:blue
-1	O	o	DET	art|<artd>|M|S	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	fado	fado	NOUN	n|M|S	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	,	,	PUNCT	punc	_	6	punct	_	_
-4	esse	esse	PRON	pron-det|<dem>|<foc>|M|S	Gender=Masc|Number=Sing|PronType=Dem	6	dep	_	_
-5	,	,	PUNCT	punc	_	6	punct	_	_
-6	ficou	ficar	VERB	v-fin|PS|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	aquém	aquém	ADV	adv	_	6	advmod	_	_
-8	.	.	PUNCT	punc	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	Pense-	pensar	VERB	v-fin|PR|3S|SUBJ	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	pron-pers|M/F|3S/P|ACC	Case=Acc|Person=3|PronType=Prs	1	dep	_	_
+3	em	em	ADP	prp	AdpType=Prep	4	case	_	_
+4	Kingsley	Kingsley	PROPN	prop|M/F|S	Number=Sing	1	dobj	_	_
+5	Amis	Amis	PROPN	PROPN	Number=Sing	4	name	_	_
+6	,	,	PUNCT	punc	_	4	punct	_	_
+7	Malcolm	Malcolm	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	conj	_	_
+8	Bradbury	Bradbury	PROPN	PROPN	Gender=Masc|Number=Sing	7	name	_	_
+9	e	e	CONJ	conj-c|<co-prparg>	_	4	cc	_	_
+10	Albert	Albert	PROPN	prop|M|S	Gender=Masc|Number=Sing	4	conj	_	_
+11	Finney	Finney	PROPN	PROPN	Gender=Masc|Number=Sing	10	name	_	_
+12	.	.	PUNCT	punc	_	1	punct	_	_
 
 ~~~
 

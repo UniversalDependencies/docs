@@ -13,12 +13,12 @@ for `det`.
 
 This relation is universal.
 
-33189 nodes (16%) are attached to their parents as `det`.
+33445 nodes (15%) are attached to their parents as `det`.
 
-32953 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1613185091446.
+33193 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16379129914785.
 
-The following 5 pairs of parts of speech are connected with `det`: [pt-pos/NOUN]()-[pt-pos/DET]() (27748; 84% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (4775; 14% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (523; 2% instances), [pt-pos/PRON]()-[pt-pos/DET]() (118; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (25; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: [pt-pos/NOUN]()-[pt-pos/DET]() (27749; 83% instances), [pt-pos/PROPN]()-[pt-pos/DET]() (4775; 14% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (523; 2% instances), [pt-pos/VERB]()-[pt-pos/DET]() (165; 0% instances), [pt-pos/DET]()-[pt-pos/DET]() (104; 0% instances), [pt-pos/NUM]()-[pt-pos/DET]() (59; 0% instances), [pt-pos/PRON]()-[pt-pos/DET]() (39; 0% instances), [pt-pos/SYM]()-[pt-pos/DET]() (21; 0% instances), [pt-pos/ADV]()-[pt-pos/DET]() (7; 0% instances), [pt-pos/ADP]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/PART]()-[pt-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu

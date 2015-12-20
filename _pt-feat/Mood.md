@@ -15,23 +15,22 @@ This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 15785 tokens (7%) have a non-empty value of `Mood`.
-4307 types (15%) occur at least once with a non-empty value of `Mood`.
+4307 types (16%) occur at least once with a non-empty value of `Mood`.
 1307 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: [pt-pos/VERB]() (15778; 7% tokens), [pt-pos/AUX]() (6; 0% tokens), [pt-pos/INTJ]() (1; 0% tokens).
+The feature is used with 3 part-of-speech tags: [pt-pos/VERB]() (15778; 7% instances), [pt-pos/AUX]() (6; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
 
 ### `VERB`
 
 15778 [pt-pos/VERB]() tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (15777; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15777; 100%), <tt><a href="Person.html">Person</a>=3</tt> (14827; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (12014; 76%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8521; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: .
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (340; 2% of non-empty `Mood`): _seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria_
-* `Imp` (7; 0% of non-empty `Mood`): _Sê, move, Olha, chega_
-* `Ind` (14449; 92% of non-empty `Mood`): _é, foi, tem, está, são, há, disse, foram, vai, era_
-* `Sub` (982; 6% of non-empty `Mood`): _seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam_
-* `EMPTY` (10062): _ser, ter, fazer, ver, passado, dar, feito, dizer, estar, passada_
+* `Cnd` (340; 2% of non-empty `Mood`): __
+* `Imp` (7; 0% of non-empty `Mood`): __
+* `Ind` (14449; 92% of non-empty `Mood`): __
+* `Sub` (982; 6% of non-empty `Mood`): __
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -69,14 +68,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 6 [pt-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: .
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (1; 17% of non-empty `Mood`): _teria_
-* `Ind` (4; 67% of non-empty `Mood`): _está, são, vamos, é_
-* `Sub` (1; 17% of non-empty `Mood`): _desencadear_
-* `EMPTY` (459): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
+* `Cnd` (1; 17% of non-empty `Mood`): __
+* `Ind` (4; 67% of non-empty `Mood`): __
+* `Sub` (1; 17% of non-empty `Mood`): __
 
 ### `INTJ`
 
@@ -84,10 +82,5 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 `INTJ` tokens may have the following values of `Mood`:
 
-* `Ind` (1; 100% of non-empty `Mood`): _viu_
-* `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
-
-## Relations with Agreement in `Mood`
-
-The 10 most frequent relations where parent and child node agree in `Mood`: `VERB --[conj]--> VERB` (1063; 90%), `VERB --[dep]--> VERB` (21; 66%), `VERB --[cc]--> VERB` (11; 92%).
+* `Ind` (1; 100% of non-empty `Mood`): __
 
