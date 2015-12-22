@@ -18,12 +18,13 @@ The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39878; 19% ins
 
 39878 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: .
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (21662; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (11979; 30% of non-empty `Number`): __
-* `Sing` (27899; 70% of non-empty `Number`): __
+* `Plur` (11979; 30% of non-empty `Number`): _anos, milhões, pessoas, US$, contos, por_cento, dias, pontos, empresas, meses_
+* `Sing` (27899; 70% of non-empty `Number`): _ano, dia, presidente, país, grupo, governo, estado, parte, tempo, semana_
+* `EMPTY` (14): _21h, 21h30, P., morte, pedido, peemedebistas, pessoa, piano, polícia, prova_
 
 <table>
   <tr><th>Paradigm <i>ano</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -34,12 +35,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 33215 [pt-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: .
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (29062; 87%), <tt><a href="Definite.html">Definite</a>=Def</tt> (26123; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (17868; 54%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (7031; 21% of non-empty `Number`): __
-* `Sing` (26184; 79% of non-empty `Number`): __
+* `Plur` (7031; 21% of non-empty `Number`): _os, as, seus, suas, outros, alguns, outras, algumas, todos, estes_
+* `Sing` (26184; 79% of non-empty `Number`): _o, a, um, uma, sua, seu, este, esta, esse, qualquer_
+* `EMPTY` (5): _mais, a, menos, o(s)_
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -63,12 +65,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 20359 [pt-pos/VERB]() tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: .
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (16166; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15776; 77%), <tt><a href="Person.html">Person</a>=3</tt> (15202; 75%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14447; 71%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (5334; 26% of non-empty `Number`): __
-* `Sing` (15025; 74% of non-empty `Number`): __
+* `Plur` (5334; 26% of non-empty `Number`): _são, foram, estão, têm, vão, podem, serão, devem, estavam, eram_
+* `Sing` (15025; 74% of non-empty `Number`): _é, foi, tem, está, há, disse, vai, era, pode, diz_
+* `EMPTY` (5481): _ser, ter, fazer, ver, dar, dizer, estar, tendo, falar, saber_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -105,12 +108,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 11682 [pt-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: .
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (7569; 65%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (414; 4% of non-empty `Number`): __
-* `Sing` (11268; 96% of non-empty `Number`): __
+* `Plur` (414; 4% of non-empty `Number`): _EUA, Estados_Unidos, Nações_Unidas, Antas, Açores, Misericórdias, Negócios_Estrangeiros, Assuntos_Internacionais, Açoteias, CDBs_
+* `Sing` (11268; 96% of non-empty `Number`): _Portugal, São_Paulo, Brasil, Governo, PÚBLICO, Lisboa, Folha, Rio, FHC, Alemanha_
+* `EMPTY` (24): _Chaves, Maio, Setembro, Carvalhas, Colares, Entre-os-Rios, Fernanda_Pinto_Rodrigues, Igreja_Adventista_do_Sétimo_Dia, Instituto_Superior_de_Economia_e_Gestao, Jolo_
 
 <table>
   <tr><th>Paradigm <i>Flamengo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -123,12 +127,13 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 10698 [pt-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: .
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5849; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (3134; 29% of non-empty `Number`): __
-* `Sing` (7564; 71% of non-empty `Number`): __
+* `Plur` (3134; 29% of non-empty `Number`): _grandes, últimos, novos, novas, jovens, primeiros, responsáveis, principais, internacionais, melhores_
+* `Sing` (7564; 71% of non-empty `Number`): _maior, primeiro, novo, primeira, grande, nova, melhor, último, nacional, última_
+* `EMPTY` (10): _a_favor, além-Pirinéus, ao_ar_livre, capaz, de_fato, em_questão, geral, por_excelência, quarto, trémula_
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -145,12 +150,13 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 6735 [pt-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: .
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (5983; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (4461; 66%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4328; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4316; 64%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1850; 27% of non-empty `Number`): __
-* `Sing` (4885; 73% of non-empty `Number`): __
+* `Plur` (1850; 27% of non-empty `Number`): _que, se, os, eles, nos, as, elas, nós, todos, outros_
+* `Sing` (4885; 73% of non-empty `Number`): _que, se, o, ele, o_que, isso, lhe, a, quem, eu_
+* `EMPTY` (371): _se, mais, quem, que, o_que, se-, mais_de, si, um_pouco, Todo_mundo_
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -168,12 +174,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 4156 [pt-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: .
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (4041; 97%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3419; 82%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (3224; 78% of non-empty `Number`): __
-* `Sing` (932; 22% of non-empty `Number`): __
+* `Plur` (3224; 78% of non-empty `Number`): _dois, três, mil, duas, quatro, cinco, seis, 15, 30, dez_
+* `Sing` (932; 22% of non-empty `Number`): _um, uma, 1, 1994, 1993, 1992, 1995, 1991, 1997, 1990_
+* `EMPTY` (6): _1., 07.00-09.00, 1, 10.00-12.00, 18_
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -186,22 +193,23 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 179 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `SYM` and `Number` co-occurred: .
+The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (179; 100%).
 
 `SYM` tokens may have the following values of `Number`:
 
-* `Plur` (179; 100% of non-empty `Number`): __
+* `Plur` (179; 100% of non-empty `Number`): _%_
 
 ### `AUX`
 
 40 [pt-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: .
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (32; 80%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (15; 38% of non-empty `Number`): __
-* `Sing` (25; 63% of non-empty `Number`): __
+* `Plur` (15; 38% of non-empty `Number`): _convertidas, atualizados, construídos, decididas, discutidas, entregues, esmagadas, inspeccionados, mostrarem, pagos_
+* `Sing` (25; 63% of non-empty `Number`): _sido, apresentada, atracado, dar, desencadear, deslocado, entregue, está, favorecido, interpelado_
+* `EMPTY` (425): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -215,12 +223,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 14 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: .
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (13; 93%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (13; 93%).
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Plur` (3; 21% of non-empty `Number`): __
-* `Sing` (11; 79% of non-empty `Number`): __
+* `Plur` (3; 21% of non-empty `Number`): _mais, juntos_
+* `Sing` (11; 79% of non-empty `Number`): _etc., mais, da_ordem, fundo_
+* `EMPTY` (9475): _não, mais, como, também, já, ontem, ainda, quando, só, depois_
 
 <table>
   <tr><th>Paradigm <i>mais</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -233,25 +242,32 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 `INTJ` tokens may have the following values of `Number`:
 
-* `Sing` (4; 100% of non-empty `Number`): __
+* `Sing` (4; 100% of non-empty `Number`): _Adeus, Obrigada, rua, viu_
+* `EMPTY` (36): _não, Rarará, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein, Meu_Deus_
 
 ### `ADP`
 
 2 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: .
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (2; 100%).
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Sing` (2; 100% of non-empty `Number`): __
+* `Sing` (2; 100% of non-empty `Number`): _obra_do_mestre, sobre_
+* `EMPTY` (32394): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 ### `PART`
 
 1 [pt-pos/PART]() tokens (20% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: .
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="Hyph.html">Hyph</a>=Yes</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Number`:
 
-* `Sing` (1; 100% of non-empty `Number`): __
+* `Sing` (1; 100% of non-empty `Number`): _pós_
+* `EMPTY` (4): _anti-, ex, ex-, pré-_
+
+## Relations with Agreement in `Number`
+
+The 10 most frequent relations where parent and child node agree in `Number`: `NOUN --[det]--> DET` (27628; 100%), `NOUN --[amod]--> ADJ` (8213; 98%), `NOUN --[nmod]--> NOUN` (7068; 61%), `VERB --[nsubj]--> NOUN` (4869; 95%), `PROPN --[det]--> DET` (4737; 99%), `NOUN --[acl]--> VERB` (3540; 78%), `NOUN --[nmod]--> PROPN` (3259; 79%), `NOUN --[nummod]--> NUM` (2553; 88%), `VERB --[nsubj]--> PRON` (2552; 88%), `VERB --[nsubj]--> PROPN` (1955; 93%).
 

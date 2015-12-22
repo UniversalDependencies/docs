@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: [pt-pos/VERB]() (25840; 12% inst
 
 25840 [pt-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: .
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21647; 84%), <tt><a href="Person.html">Person</a>=3</tt> (15202; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (15025; 58%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14449; 56%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (15781; 61% of non-empty `VerbForm`): __
-* `Ger` (832; 3% of non-empty `VerbForm`): __
-* `Inf` (4685; 18% of non-empty `VerbForm`): __
-* `Part` (4542; 18% of non-empty `VerbForm`): __
+* `Fin` (15781; 61% of non-empty `VerbForm`): _é, foi, tem, está, são, há, disse, foram, vai, era_
+* `Ger` (832; 3% of non-empty `VerbForm`): _tendo, sendo, passando, dando, fazendo, incluindo, ganhando, estando, dizendo, ficando_
+* `Inf` (4685; 18% of non-empty `VerbForm`): _ser, ter, fazer, ver, dar, dizer, estar, falar, saber, manter_
+* `Part` (4542; 18% of non-empty `VerbForm`): _feito, passado, sido, passada, feita, feitas, dito, eleito, tido, visto_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -76,10 +76,10 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6; 1% of non-empty `VerbForm`): __
-* `Ger` (22; 5% of non-empty `VerbForm`): __
-* `Inf` (323; 69% of non-empty `VerbForm`): __
-* `Part` (114; 25% of non-empty `VerbForm`): __
+* `Fin` (6; 1% of non-empty `VerbForm`): _desencadear, está, são, teria, vamos, é_
+* `Ger` (22; 5% of non-empty `VerbForm`): _sendo, enchendo, sujando, vindo_
+* `Inf` (323; 69% of non-empty `VerbForm`): _ser, ter, vir, continuar, passar, estar, acabar, começar, deixar, ir_
+* `Part` (114; 25% of non-empty `VerbForm`): _sido, vindo, estado, convertidas, acabado, agredido, ido, ingerido, apresentada, atracado_
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -90,4 +90,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 </table>
 
 `VerbForm` seems to be **lexical feature** of `AUX`. 91% lemmas (62) occur only with one value of `VerbForm`.
+
+## Relations with Agreement in `VerbForm`
+
+The 10 most frequent relations where parent and child node agree in `VerbForm`: `VERB --[conj]--> VERB` (1391; 94%), `AUX --[xcomp]--> VERB` (36; 75%), `AUX --[conj]--> AUX` (31; 97%), `VERB --[dep]--> VERB` (27; 77%), `VERB --[parataxis]--> VERB` (22; 67%), `VERB --[cc]--> VERB` (13; 100%).
 

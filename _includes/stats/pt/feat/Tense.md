@@ -17,17 +17,18 @@ The feature is used with 3 part-of-speech tags: [pt-pos/VERB]() (15432; 7% insta
 
 15432 [pt-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: .
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (15432; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15431; 100%), <tt><a href="Person.html">Person</a>=3</tt> (14511; 94%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14448; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (11730; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (973; 6% of non-empty `Tense`): __
-* `Imp` (1333; 9% of non-empty `Tense`): __
-* `Imp,Pqp` (361; 2% of non-empty `Tense`): __
-* `Past` (4171; 27% of non-empty `Tense`): __
-* `Past,Pres` (3; 0% of non-empty `Tense`): __
-* `Pqp` (67; 0% of non-empty `Tense`): __
-* `Pres` (8524; 55% of non-empty `Tense`): __
+* `Fut` (973; 6% of non-empty `Tense`): _será, terá, poderá, deverá, serão, for, irá, estará, terão, deverão_
+* `Imp` (1333; 9% of non-empty `Tense`): _era, tinha, estava, havia, estavam, eram, fosse, tinham, fazia, dizia_
+* `Imp,Pqp` (361; 2% of non-empty `Tense`): _foram, chegaram, fizeram, tiveram, ficaram, atingiram, entraram, levaram, passaram, conseguiram_
+* `Past` (4171; 27% of non-empty `Tense`): _foi, disse, foram, fez, afirmou, teve, chegou, ficou, deu, começou_
+* `Past,Pres` (3; 0% of non-empty `Tense`): _conhecemos, conseguimos, decidimos_
+* `Pqp` (67; 0% of non-empty `Tense`): _fora, fizera, acabara, desaparecera, dissera, foram, levara, tornara-, Nascera, Quisera_
+* `Pres` (8524; 55% of non-empty `Tense`): _é, tem, está, são, há, vai, pode, estão, diz, têm_
+* `EMPTY` (10408): _ser, ter, fazer, ver, seria, passado, dar, feito, dizer, estar_
 
 <table>
   <tr><th>Paradigm <i>conseguir</i></th><th><tt>Imp,Pqp</tt></th><th><tt>Past</tt></th><th><tt>Past,Pres</tt></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -46,12 +47,13 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 5 [pt-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: .
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5; 100%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (1; 20% of non-empty `Tense`): __
-* `Pres` (4; 80% of non-empty `Tense`): __
+* `Fut` (1; 20% of non-empty `Tense`): _desencadear_
+* `Pres` (4; 80% of non-empty `Tense`): _está, são, vamos, é_
+* `EMPTY` (460): _ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar_
 
 ### `INTJ`
 
@@ -59,5 +61,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 `INTJ` tokens may have the following values of `Tense`:
 
-* `Past` (1; 100% of non-empty `Tense`): __
+* `Past` (1; 100% of non-empty `Tense`): _viu_
+* `EMPTY` (39): _não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein_
+
+## Relations with Agreement in `Tense`
+
+The 10 most frequent relations where parent and child node agree in `Tense`: `VERB --[conj]--> VERB` (843; 72%), `VERB --[dep]--> VERB` (18; 58%), `VERB --[cc]--> VERB` (10; 83%).
 

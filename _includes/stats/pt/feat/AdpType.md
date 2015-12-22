@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: [pt-pos/ADP]() (32396; 15% insta
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (32396; 100% of non-empty `AdpType`): __
+* `Prep` (32396; 100% of non-empty `AdpType`): _de, em, a, para, por, com, entre, sobre, sem, até_
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (161) occur only with one value of `AdpType`.
 
@@ -26,9 +26,13 @@ The feature is used with 2 part-of-speech tags: [pt-pos/ADP]() (32396; 15% insta
 
 1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `PRON` and `AdpType` co-occurred: .
+The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `AdpType`:
 
-* `Prep` (1; 100% of non-empty `AdpType`): __
+* `Prep` (1; 100% of non-empty `AdpType`): _mais_de_
+
+## Relations with Agreement in `AdpType`
+
+The 10 most frequent relations where parent and child node agree in `AdpType`: `ADP --[cc]--> ADP` (9; 100%), `ADP --[conj]--> ADP` (5; 100%), `ADP --[case]--> ADP` (2; 100%).
 

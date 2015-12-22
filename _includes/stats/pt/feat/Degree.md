@@ -16,12 +16,13 @@ The feature is used with 4 part-of-speech tags: [pt-pos/ADV]() (488; 0% instance
 
 488 [pt-pos/ADV]() tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: .
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (465; 95%), <tt><a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt> (465; 95%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (479; 98% of non-empty `Degree`): __
-* `Sup` (9; 2% of non-empty `Degree`): __
+* `Cmp` (479; 98% of non-empty `Degree`): _mais, menos, tão, tanto, melhor, assim, pior, superiormente, nada_mais_nada_menos_
+* `Sup` (9; 2% of non-empty `Degree`): _melhor, Pior_
+* `EMPTY` (9001): _não, como, também, já, ontem, ainda, quando, só, depois, muito_
 
 <table>
   <tr><th>Paradigm <i>melhor</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -34,23 +35,25 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 415 [pt-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: .
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (415; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (321; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (226; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (222; 53%).
 
 `DET` tokens may have the following values of `Degree`:
 
-* `Cmp` (414; 100% of non-empty `Degree`): __
-* `Sup` (1; 0% of non-empty `Degree`): __
+* `Cmp` (414; 100% of non-empty `Degree`): _outros, outras, outro, mais, outra, mesmo, mesma, menos, tal, tais_
+* `Sup` (1; 0% of non-empty `Degree`): _muitíssimo_
+* `EMPTY` (32805): _o, a, os, as, um, uma, sua, seu, este, esta_
 
 ### `ADJ`
 
 353 [pt-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: .
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (267; 76%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (185; 52%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (203; 58% of non-empty `Degree`): __
-* `Sup` (150; 42% of non-empty `Degree`): __
+* `Cmp` (203; 58% of non-empty `Degree`): _maior, maiores, melhor, menor, menores, melhores, superiores, superior, inferior, inferiores_
+* `Sup` (150; 42% of non-empty `Degree`): _melhor, principal, principais, melhores, pior, mínimo, ótimo, superior, piores, péssimo_
+* `EMPTY` (10355): _primeiro, novo, primeira, grande, nova, grandes, último, nacional, última, segundo_
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -64,9 +67,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 120 [pt-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: .
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (120; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (120; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (120; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (89; 74%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (69; 57%).
 
 `PRON` tokens may have the following values of `Degree`:
 
-* `Cmp` (120; 100% of non-empty `Degree`): __
+* `Cmp` (120; 100% of non-empty `Degree`): _outros, mais, mesmo, outras, outro, outra, mesma, tal, menos, tanto_
+* `EMPTY` (6986): _que, se, o, ele, o_que, isso, os, quem, lhe, a_
+
+## Relations with Agreement in `Degree`
+
+The 10 most frequent relations where parent and child node agree in `Degree`: `PRON --[conj]--> ADJ` (1; 100%).
 
