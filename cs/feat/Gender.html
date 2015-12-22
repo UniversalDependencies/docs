@@ -98,6 +98,365 @@ are usually neuter.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udczech">Treebank Statistics (UD_Czech)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Fem</code>, <code>Masc</code>, <code>Neut</code>.
+Some words have combined values of the feature; 3 combinations have been observed: <code>Fem|Masc</code>, <code>Fem|Neut</code>, <code>Masc|Neut</code>.</p>
+
+<p>This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <a href="">Gender</a>, <a href="">Gender[psor]</a>.</p>
+
+<p>753255 tokens (50%) have a non-empty value of <code>Gender</code>.
+122285 types (95%) occur at least once with a non-empty value of <code>Gender</code>.
+49852 lemmas (86%) occur at least once with a non-empty value of <code>Gender</code>.
+The feature is used with 8 part-of-speech tags: <a href="">cs-pos/NOUN</a> (371970; 25% instances), <a href="">cs-pos/ADJ</a> (176190; 12% instances), <a href="">cs-pos/PROPN</a> (82083; 5% instances), <a href="">cs-pos/VERB</a> (63395; 4% instances), <a href="">cs-pos/PRON</a> (33610; 2% instances), <a href="">cs-pos/DET</a> (17996; 1% instances), <a href="">cs-pos/NUM</a> (4759; 0% instances), <a href="">cs-pos/AUX</a> (3252; 0% instances).</p>
+
+<h3 id="noun"><code>NOUN</code></h3>
+
+<p>371970 <a href="">cs-pos/NOUN</a> tokens (100% of all <code>NOUN</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>NOUN</code> and <code>Gender</code> co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (371406; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (259816; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (208424; 56%).</p>
+
+<p><code>NOUN</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (145308; 39% of non-empty <code>Gender</code>): <em>korun, strany, společnosti, době, firmy, Kč, práce, vláda, země, vlády</em></li>
+  <li><code>Masc</code> (163546; 44% of non-empty <code>Gender</code>): <em>roku, roce, případě, zákona, lidí, rok, ministr, světa, předseda, trhu</em></li>
+  <li><code>Neut</code> (63116; 17% of non-empty <code>Gender</code>): <em>let, procent, jednání, letech, zahraničí, září, prostředí, ministerstva, vedení, zboží</em></li>
+  <li><code>EMPTY</code> (396): <em>image, s, pc, Greening, PB, rho, F, LEP, PX, Dancing</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>image</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan</tt></td><td><i>image</i></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><i>image</i></td><td><i>image</i></td></tr>
+</table>
+
+<p><code>Gender</code> seems to be <strong>lexical feature</strong> of <code>NOUN</code>. 99% lemmas (17613) occur only with one value of <code>Gender</code>.</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>176190 <a href="">cs-pos/ADJ</a> tokens (97% of all <code>ADJ</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Gender</code> co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (164176; 93%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (155117; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (122021; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (102266; 58%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (72538; 41% of non-empty <code>Gender</code>): <em>české, první, druhé, další, česká, nové, státní, poslední, vlastní, národní</em></li>
+  <li><code>Fem,Masc</code> (71; 0% of non-empty <code>Gender</code>): <em>známy, schopny, ochotny, povinny, spokojeny, rády, přítomny, spjaty, hotovy, napjaty</em></li>
+  <li><code>Fem,Neut</code> (196; 0% of non-empty <code>Gender</code>): <em>schopna, ráda, ochotna, známa, povinna, vědoma, spokojena, přítomna, spjata, hotova</em></li>
+  <li><code>Masc</code> (74407; 42% of non-empty <code>Gender</code>): <em>další, první, každý, nový, český, českého, dalších, celý, nového, druhý</em></li>
+  <li><code>Neut</code> (28978; 16% of non-empty <code>Gender</code>): <em>možné, třeba, jiné, další, prvním, posledních, životního, nutné, první, možno</em></li>
+  <li><code>EMPTY</code> (4621): <em>tzv, New, a, the, čs, česko, open, sv, RM, US</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>známý</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámé</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známé</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nejznámější</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známému</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nejznámějším</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámých</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známých</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nejznámějších</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámými</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>nejznámějším</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámém</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámí</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známí</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>nejznámější</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Variant.html">Variant</a>=Short</tt></td><td></td><td></td><td><i>známi</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známé</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nejznámější</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámých</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známých</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nejznámějších</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámými</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známými</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>nejznámějším</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známém</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známých</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>neznámý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>neznámé</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>známý</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>známé</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>nejznámější</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>Nejznámější</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Variant.html">Variant</a>=Short</tt></td><td><i>známy</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámou</i></td><td><i>neznámé</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td></td><td><i>neznámá</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známou</i></td><td><i>známé</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td></td><td><i>známá</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>známým</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>nejznámějším</i></td><td><i>nejznámějším</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>neznámých</i></td><td><i>neznámých</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známé</i></td><td><i>známého</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>známých</i></td><td><i>známých</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známější</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>nejznámějších</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámou</i></td><td><i>neznámým</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>neznámými</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známou</i></td><td><i>známým</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>známými</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámé</i></td><td><i>neznámém</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámá</i></td><td><i>neznámé</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>neznámé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>známá</i></td><td><i>známé</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>známé</i></td><td><i>známá</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>známější</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>nejznámější</i></td><td><i>nejznámější</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td><i>nejznámější</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><i>neznámá</i></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Variant.html">Variant</a>=Short</tt></td><td></td><td></td><td></td><td></td><td><i>neznámo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Variant.html">Variant</a>=Short</tt></td><td></td><td></td><td><i>znám</i></td><td></td><td><i>známo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur,Sing|<a href="Variant.html">Variant</a>=Short</tt></td><td></td><td><i>známa, neznáma</i></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="propn"><code>PROPN</code></h3>
+
+<p>82083 <a href="">cs-pos/PROPN</a> tokens (98% of all <code>PROPN</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>PROPN</code> and <code>Gender</code> co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (82083; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (70671; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (63175; 77%).</p>
+
+<p><code>PROPN</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (25061; 31% of non-empty <code>Gender</code>): <em>Praha, ČR, Praze, LN, ODS, OSN, Evropy, Prahy, ODA, ČSFR</em></li>
+  <li><code>Masc</code> (48949; 60% of non-empty <code>Gender</code>): <em>USA, Jiří, J, Jan, Václav, Petr, Pavel, Josef, M, Vladimír</em></li>
+  <li><code>Neut</code> (8073; 10% of non-empty <code>Gender</code>): <em>Brno, Německu, Německa, Brně, Rusko, Slovensku, Slovensko, Německo, NATO, HZDS</em></li>
+  <li><code>EMPTY</code> (1948): <em>International, haš, šv, O, ber, mrk, em, kva, če, MCM</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>M</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="NameType.html">NameType</a>=Giv</tt></td><td><i>M</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="NameType.html">NameType</a>=Sur</tt></td><td><i>M</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="NameType.html">NameType</a>=Com</tt></td><td></td><td></td><td><i>M</i></td></tr>
+  <tr><td><tt><a href="NameType.html">NameType</a>=Giv</tt></td><td></td><td><i>M</i></td><td></td></tr>
+  <tr><td><tt><a href="NameType.html">NameType</a>=Sur</tt></td><td></td><td><i>M</i></td><td></td></tr>
+</table>
+
+<p><code>Gender</code> seems to be <strong>lexical feature</strong> of <code>PROPN</code>. 98% lemmas (14605) occur only with one value of <code>Gender</code>.</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>63395 <a href="">cs-pos/VERB</a> tokens (38% of all <code>VERB</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Gender</code> co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (63395; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (63393; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (63251; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (58700; 93%), <tt><a href="Voice.html">Voice</a>=Act</tt> (53869; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (53727; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (35102; 55%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (22; 0% of non-empty <code>Gender</code>): <em>uzavřenu, Were, pronajatu, připravenu, domyšlenu, dořešenu, dánu, ohlášenu, ověřenu, podepsánu</em></li>
+  <li><code>Fem,Masc</code> (6348; 10% of non-empty <code>Gender</code>): <em>byly, měly, mohly, začaly, nebyly, objevily, dosáhly, získaly, neměly, staly</em></li>
+  <li><code>Fem,Neut</code> (12666; 20% of non-empty <code>Gender</code>): <em>byla, měla, mohla, stala, začala, získala, nebyla, musela, vznikla, oznámila</em></li>
+  <li><code>Masc</code> (34996; 55% of non-empty <code>Gender</code>): <em>byl, řekl, měl, uvedl, měli, mohl, prohlásil, byli, stal, mohli</em></li>
+  <li><code>Neut</code> (9363; 15% of non-empty <code>Gender</code>): <em>bylo, mělo, podařilo, došlo, mohlo, nebylo, šlo, stalo, řečeno, začalo</em></li>
+  <li><code>EMPTY</code> (102239): <em>je, jsou, má, není, být, může, mají, bude, musí, jde</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>dát</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><i>nedali</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><i>dali</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>nedaly</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>daly</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Pass</tt></td><td><i>dány</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>dánu</i></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><i>nedal</i></td><td></td><td><i>nedalo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur,Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>nedala</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><i>dal</i></td><td></td><td><i>dalo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td><i>dán</i></td><td></td><td><i>dáno</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur,Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>dala</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur,Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>dána</i></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>33610 <a href="">cs-pos/PRON</a> tokens (46% of all <code>PRON</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Gender</code> co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (33519; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (32377; 96%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (29028; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (26099; 78%), <tt><a href="Case.html">Case</a>=Nom</tt> (17079; 51%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (7119; 21% of non-empty <code>Gender</code>): <em>která, které, kterou, ji, ní, níž, všechny, jí, ta, jež</em></li>
+  <li><code>Fem,Neut</code> (9; 0% of non-empty <code>Gender</code>): <em>naše, moje, mio, vaše</em></li>
+  <li><code>Masc</code> (9604; 29% of non-empty <code>Gender</code>): <em>který, kteří, které, kdo, ten, všechny, sám, nikdo, všichni, někdo</em></li>
+  <li><code>Masc,Neut</code> (8004; 24% of non-empty <code>Gender</code>): <em>tím, tom, tomu, toho, mu, ho, něj, jej, něm, němž</em></li>
+  <li><code>Neut</code> (8874; 26% of non-empty <code>Gender</code>): <em>to, které, vše, všechno, která, je, jež, totéž, všechna, toto</em></li>
+  <li><code>EMPTY</code> (38938): <em>se, si, co, nás, je, nám, nich, což, všech, jim</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>můj</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>našeho</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>naši</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>náš</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>Můj</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>moje</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td></td><td><i>naši</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td></td><td><i>mou</i></td><td><i>moje</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našemu</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mému</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našeho</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mého</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>naším</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mým</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našem</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td><i>naše</i></td><td><i>náš</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><i>moje</i></td><td><i>můj</i></td><td></td><td><i>má</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td><i>naše</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><i>moje</i></td><td></td><td></td><td><i>Má</i></td><td></td></tr>
+</table>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>17996 <a href="">cs-pos/DET</a> tokens (65% of all <code>DET</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Gender</code> co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (16857; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (14993; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (14610; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (14610; 81%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (14008; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (10622; 59%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (6988; 39% of non-empty <code>Gender</code>): <em>této, své, svou, tato, tuto, její, naší, tyto, té, některé</em></li>
+  <li><code>Fem,Neut</code> (372; 2% of non-empty <code>Gender</code>): <em>naše, moje, vaše</em></li>
+  <li><code>Masc</code> (4398; 24% of non-empty <code>Gender</code>): <em>tento, svůj, své, tyto, náš, některé, někteří, ten, takový, žádný</em></li>
+  <li><code>Masc,Neut</code> (4840; 27% of non-empty <code>Gender</code>): <em>tohoto, tomto, svého, svém, svým, našeho, její, tímto, jejím, našem</em></li>
+  <li><code>Neut</code> (1398; 8% of non-empty <code>Gender</code>): <em>toto, své, to, tato, takové, žádné, svá, její, některá, naše</em></li>
+  <li><code>EMPTY</code> (9817): <em>jeho, jejich, těchto, svých, několik, některých, několika, našich, jejichž, mnoho</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>můj</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Abbr.html">Abbr</a>=Yes|<a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>n</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>našeho</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>naši</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>moji, Mí</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>náš</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>můj</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>naše</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>mé, moje</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td></td><td><i>naši</i></td><td><i>naše</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td></td><td><i>mou, moji</i></td><td><i>mé, moje</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>mé</i></td><td></td><td><i>mé</i></td><td><i>má</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našemu</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mému</i></td><td><i>mé, mojí</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našeho</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mého</i></td><td><i>mé, mojí</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><i>mýho</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>naším</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><i>našim</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mým</i></td><td><i>mou, mojí</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td></td><td><i>našem</i></td><td><i>naší</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td></td><td><i>mém</i></td><td><i>mé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td><i>naše</i></td><td><i>náš</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><i>moje</i></td><td><i>můj</i></td><td></td><td><i>má</i></td><td><i>mé</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td><i>naše</i></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td><i>moje</i></td><td></td><td></td><td><i>mé</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Plur</tt></td><td></td><td><i>náš</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Voc|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing</tt></td><td></td><td><i>můj</i></td><td></td><td><i>má</i></td><td></td></tr>
+</table>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>4759 <a href="">cs-pos/NUM</a> tokens (11% of all <code>NUM</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>Gender</code> co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (4417; 93%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (4417; 93%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (4417; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (2795; 59%).</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem</code> (1372; 29% of non-empty <code>Gender</code>): <em>jedné, jedna, jednu, jednou, třetiny, třetinu, třetina, třetině, čtvrtinu, čtvrtina</em></li>
+  <li><code>Fem,Neut</code> (757; 16% of non-empty <code>Gender</code>): <em>dvě, obě</em></li>
+  <li><code>Masc</code> (1839; 39% of non-empty <code>Gender</code>): <em>dva, jeden, oba, jednoho</em></li>
+  <li><code>Masc,Neut</code> (613; 13% of non-empty <code>Gender</code>): <em>jednoho, jedním, jednom, jednomu</em></li>
+  <li><code>Neut</code> (178; 4% of non-empty <code>Gender</code>): <em>jedno</em></li>
+  <li><code>EMPTY</code> (36751): <em>1, 2, 3, tři, 4, 6, tisíc, 5, dvou, 1992</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>jeden</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc</tt></td><td><i>jednoho</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc</tt></td><td><i>jeden</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td></td><td></td><td><i>jednu</i></td><td><i>jedno</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td></td><td><i>jednomu</i></td><td><i>jedné</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td></td><td><i>jednoho</i></td><td><i>jedné</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td></td><td><i>jedním</i></td><td><i>jednou</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td></td><td><i>jednom</i></td><td><i>jedné</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><i>jeden</i></td><td></td><td><i>jedna</i></td><td><i>jedno</i></td></tr>
+</table>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>3252 <a href="">cs-pos/AUX</a> tokens (16% of all <code>AUX</code> tokens) have a non-empty value of <code>Gender</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Gender</code> co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (3252; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3252; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3252; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3252; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3252; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2982; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1704; 52%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Gender</code>:</p>
+
+<ul>
+  <li><code>Fem,Masc</code> (535; 16% of non-empty <code>Gender</code>): <em>byly, nebyly, bývaly</em></li>
+  <li><code>Fem,Neut</code> (837; 26% of non-empty <code>Gender</code>): <em>byla, nebyla, bývala</em></li>
+  <li><code>Masc</code> (1201; 37% of non-empty <code>Gender</code>): <em>byl, byli, nebyl, nebyli</em></li>
+  <li><code>Neut</code> (679; 21% of non-empty <code>Gender</code>): <em>bylo, nebylo, bývalo</em></li>
+  <li><code>EMPTY</code> (17543): <em>by, bude, jsem, jsme, budou, být, je, bychom, bych, jsou</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>být</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>nebyli</i></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>byli</i></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td><i>nebyly</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><i>byly</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>nebyl</i></td><td><i>nebylo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur,Sing</tt></td><td></td><td><i>nebyla</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>byl</i></td><td><i>bylo</i></td></tr>
+  <tr><td><tt><a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur,Sing</tt></td><td></td><td><i>byla</i></td><td></td><td></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-gender">Relations with Agreement in <code>Gender</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Gender</code>:
+<tt>NOUN –[<a href="../dep/amod.html">amod</a>]–&gt; ADJ</tt> (148372; 99%),
+<tt>PROPN –[<a href="../dep/name.html">name</a>]–&gt; PROPN</tt> (13443; 99%),
+<tt>PROPN –[<a href="../dep/nmod.html">nmod</a>]–&gt; NOUN</tt> (8330; 89%),
+<tt>VERB –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; PROPN</tt> (7301; 53%),
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (5336; 92%),
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (4627; 50%),
+<tt>PROPN –[<a href="../dep/conj.html">conj</a>]–&gt; PROPN</tt> (4434; 68%),
+<tt>PROPN –[<a href="../dep/amod.html">amod</a>]–&gt; ADJ</tt> (4189; 82%),
+<tt>ADJ –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; NOUN</tt> (4003; 94%),
+<tt>VERB –[<a href="../dep/auxpass.html">auxpass</a>]–&gt; AUX</tt> (3122; 51%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
