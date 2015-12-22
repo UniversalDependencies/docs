@@ -177,5 +177,15 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ## Relations with Agreement in `Case`
 
-The 10 most frequent relations where parent and child node agree in `Case`: `NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ` (3063; 97%), `NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN` (851; 96%), `NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON` (635; 70%), `NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB` (559; 85%), `VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN` (486; 67%), `ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ` (125; 99%), `ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN` (119; 94%), `PRON --[<a href="../dep/amod.html">amod</a>]--> ADJ` (90; 89%), `ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON` (60; 100%), `PRON --[<a href="../dep/amod.html">amod</a>]--> VERB` (58; 83%).
+The 10 most frequent relations where parent and child node agree in `Case`:
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3063; 97%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (851; 96%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON</tt> (635; 70%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (559; 85%),
+<tt>VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN</tt> (486; 67%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (125; 99%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (119; 94%),
+<tt>PRON --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (90; 89%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (60; 100%),
+<tt>PRON --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (58; 83%).
 

@@ -54,5 +54,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 ## Relations with Agreement in `Aspect`
 
-The 10 most frequent relations where parent and child node agree in `Aspect`: `VERB --[<a href="../dep/conj.html">conj</a>]--> VERB` (522; 61%), `VERB --[<a href="../dep/cc.html">cc</a>]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Aspect`:
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (522; 61%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
 

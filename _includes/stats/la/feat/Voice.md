@@ -102,5 +102,15 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 ## Relations with Agreement in `Voice`
 
-The 10 most frequent relations where parent and child node agree in `Voice`: `VERB --[<a href="../dep/conj.html">conj</a>]--> VERB` (1235; 74%), `VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB` (797; 53%), `VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB` (353; 74%), `VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB` (349; 64%), `VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB` (68; 94%), `VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB` (52; 80%), `VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB` (45; 58%), `VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB` (9; 56%), `VERB --[<a href="../dep/amod.html">amod</a>]--> VERB` (7; 64%), `VERB --[<a href="../dep/cc.html">cc</a>]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Voice`:
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1235; 74%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (797; 53%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (353; 74%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (349; 64%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (68; 94%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (52; 80%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (45; 58%),
+<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (9; 56%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (7; 64%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
 

@@ -64,5 +64,8 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ## Relations with Agreement in `Person`
 
-The 10 most frequent relations where parent and child node agree in `Person`: `VERB --[<a href="../dep/conj.html">conj</a>]--> VERB` (1021; 75%), `VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB` (58; 81%), `VERB --[<a href="../dep/cc.html">cc</a>]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1021; 75%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (58; 81%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
 

@@ -185,5 +185,15 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ## Relations with Agreement in `Gender`
 
-The 10 most frequent relations where parent and child node agree in `Gender`: `NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ` (3075; 98%), `NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON` (708; 78%), `NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB` (574; 87%), `VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN` (480; 66%), `NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN` (459; 52%), `ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ` (124; 98%), `ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN` (117; 92%), `PRON --[<a href="../dep/amod.html">amod</a>]--> ADJ` (98; 97%), `PRON --[<a href="../dep/amod.html">amod</a>]--> VERB` (62; 89%), `ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON` (56; 93%).
+The 10 most frequent relations where parent and child node agree in `Gender`:
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3075; 98%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON</tt> (708; 78%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (574; 87%),
+<tt>VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN</tt> (480; 66%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (459; 52%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (124; 98%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (117; 92%),
+<tt>PRON --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (98; 97%),
+<tt>PRON --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (62; 89%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (56; 93%).
 

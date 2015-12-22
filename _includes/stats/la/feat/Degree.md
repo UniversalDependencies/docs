@@ -72,5 +72,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 ## Relations with Agreement in `Degree`
 
-The 10 most frequent relations where parent and child node agree in `Degree`: `ADV --[<a href="../dep/conj.html">conj</a>]--> ADV` (1; 100%), `ADJ --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Degree`:
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (1; 100%).
 

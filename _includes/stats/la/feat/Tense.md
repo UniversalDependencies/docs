@@ -91,5 +91,15 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 ## Relations with Agreement in `Tense`
 
-The 10 most frequent relations where parent and child node agree in `Tense`: `VERB --[<a href="../dep/conj.html">conj</a>]--> VERB` (1342; 80%), `VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB` (818; 54%), `VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB` (276; 58%), `VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB` (58; 81%), `VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB` (45; 69%), `VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB` (43; 56%), `VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB` (14; 56%), `VERB --[<a href="../dep/acl.html">acl</a>]--> VERB` (11; 52%), `VERB --[<a href="../dep/amod.html">amod</a>]--> VERB` (6; 55%), `VERB --[<a href="../dep/cc.html">cc</a>]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Tense`:
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1342; 80%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (818; 54%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (276; 58%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (58; 81%),
+<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (45; 69%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (43; 56%),
+<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (14; 56%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (11; 52%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (6; 55%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
 
