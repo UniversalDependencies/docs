@@ -64,5 +64,5 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ## Relations with Agreement in `Person`
 
-The 10 most frequent relations where parent and child node agree in `Person`: `VERB --[conj]--> VERB` (1021; 75%), `VERB --[csubj]--> VERB` (58; 81%), `VERB --[cc]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Person`: `VERB --[[la-dep/conj]()]--> VERB` (1021; 75%), `VERB --[[la-dep/csubj]()]--> VERB` (58; 81%), `VERB --[[la-dep/cc]()]--> VERB` (1; 100%).
 

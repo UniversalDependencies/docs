@@ -177,5 +177,5 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ## Relations with Agreement in `Case`
 
-The 10 most frequent relations where parent and child node agree in `Case`: `NOUN --[amod]--> ADJ` (3063; 97%), `NOUN --[conj]--> NOUN` (851; 96%), `NOUN --[amod]--> PRON` (635; 70%), `NOUN --[amod]--> VERB` (559; 85%), `VERB --[nsubjpass]--> NOUN` (486; 67%), `ADJ --[conj]--> ADJ` (125; 99%), `ADJ --[nsubj]--> NOUN` (119; 94%), `PRON --[amod]--> ADJ` (90; 89%), `ADJ --[nsubj]--> PRON` (60; 100%), `PRON --[amod]--> VERB` (58; 83%).
+The 10 most frequent relations where parent and child node agree in `Case`: `NOUN --[[la-dep/amod]()]--> ADJ` (3063; 97%), `NOUN --[[la-dep/conj]()]--> NOUN` (851; 96%), `NOUN --[[la-dep/amod]()]--> PRON` (635; 70%), `NOUN --[[la-dep/amod]()]--> VERB` (559; 85%), `VERB --[[la-dep/nsubjpass]()]--> NOUN` (486; 67%), `ADJ --[[la-dep/conj]()]--> ADJ` (125; 99%), `ADJ --[[la-dep/nsubj]()]--> NOUN` (119; 94%), `PRON --[[la-dep/amod]()]--> ADJ` (90; 89%), `ADJ --[[la-dep/nsubj]()]--> PRON` (60; 100%), `PRON --[[la-dep/amod]()]--> VERB` (58; 83%).
 

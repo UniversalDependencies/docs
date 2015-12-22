@@ -185,5 +185,5 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ## Relations with Agreement in `Number`
 
-The 10 most frequent relations where parent and child node agree in `Number`: `NOUN --[amod]--> ADJ` (3105; 99%), `VERB --[nmod]--> NOUN` (1553; 57%), `VERB --[nsubj]--> NOUN` (1527; 91%), `VERB --[conj]--> VERB` (1236; 82%), `NOUN --[nmod]--> NOUN` (1119; 68%), `VERB --[advcl]--> VERB` (1118; 74%), `VERB --[nsubj]--> PRON` (821; 88%), `NOUN --[amod]--> PRON` (788; 86%), `NOUN --[conj]--> NOUN` (687; 77%), `VERB --[nsubjpass]--> NOUN` (647; 90%).
+The 10 most frequent relations where parent and child node agree in `Number`: `NOUN --[[la-dep/amod]()]--> ADJ` (3105; 99%), `VERB --[[la-dep/nmod]()]--> NOUN` (1553; 57%), `VERB --[[la-dep/nsubj]()]--> NOUN` (1527; 91%), `VERB --[[la-dep/conj]()]--> VERB` (1236; 82%), `NOUN --[[la-dep/nmod]()]--> NOUN` (1119; 68%), `VERB --[[la-dep/advcl]()]--> VERB` (1118; 74%), `VERB --[[la-dep/nsubj]()]--> PRON` (821; 88%), `NOUN --[[la-dep/amod]()]--> PRON` (788; 86%), `NOUN --[[la-dep/conj]()]--> NOUN` (687; 77%), `VERB --[[la-dep/nsubjpass]()]--> NOUN` (647; 90%).
 

@@ -102,5 +102,5 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 ## Relations with Agreement in `Voice`
 
-The 10 most frequent relations where parent and child node agree in `Voice`: `VERB --[conj]--> VERB` (1235; 74%), `VERB --[advcl]--> VERB` (797; 53%), `VERB --[ccomp]--> VERB` (353; 74%), `VERB --[xcomp]--> VERB` (349; 64%), `VERB --[csubj]--> VERB` (68; 94%), `VERB --[nmod]--> VERB` (52; 80%), `VERB --[nsubj]--> VERB` (45; 58%), `VERB --[iobj]--> VERB` (9; 56%), `VERB --[amod]--> VERB` (7; 64%), `VERB --[cc]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `Voice`: `VERB --[[la-dep/conj]()]--> VERB` (1235; 74%), `VERB --[[la-dep/advcl]()]--> VERB` (797; 53%), `VERB --[[la-dep/ccomp]()]--> VERB` (353; 74%), `VERB --[[la-dep/xcomp]()]--> VERB` (349; 64%), `VERB --[[la-dep/csubj]()]--> VERB` (68; 94%), `VERB --[[la-dep/nmod]()]--> VERB` (52; 80%), `VERB --[[la-dep/nsubj]()]--> VERB` (45; 58%), `VERB --[[la-dep/iobj]()]--> VERB` (9; 56%), `VERB --[[la-dep/amod]()]--> VERB` (7; 64%), `VERB --[[la-dep/cc]()]--> VERB` (1; 100%).
 

@@ -110,5 +110,5 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 ## Relations with Agreement in `VerbForm`
 
-The 10 most frequent relations where parent and child node agree in `VerbForm`: `VERB --[conj]--> VERB` (1430; 86%), `VERB --[ccomp]--> VERB` (243; 51%), `VERB --[csubj]--> VERB` (72; 100%), `VERB --[amod]--> VERB` (6; 55%), `VERB --[cc]--> VERB` (1; 100%).
+The 10 most frequent relations where parent and child node agree in `VerbForm`: `VERB --[[la-dep/conj]()]--> VERB` (1430; 86%), `VERB --[[la-dep/ccomp]()]--> VERB` (243; 51%), `VERB --[[la-dep/csubj]()]--> VERB` (72; 100%), `VERB --[[la-dep/amod]()]--> VERB` (6; 55%), `VERB --[[la-dep/cc]()]--> VERB` (1; 100%).
 

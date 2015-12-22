@@ -185,5 +185,5 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ## Relations with Agreement in `Gender`
 
-The 10 most frequent relations where parent and child node agree in `Gender`: `NOUN --[amod]--> ADJ` (3075; 98%), `NOUN --[amod]--> PRON` (708; 78%), `NOUN --[amod]--> VERB` (574; 87%), `VERB --[nsubjpass]--> NOUN` (480; 66%), `NOUN --[conj]--> NOUN` (459; 52%), `ADJ --[conj]--> ADJ` (124; 98%), `ADJ --[nsubj]--> NOUN` (117; 92%), `PRON --[amod]--> ADJ` (98; 97%), `PRON --[amod]--> VERB` (62; 89%), `ADJ --[nsubj]--> PRON` (56; 93%).
+The 10 most frequent relations where parent and child node agree in `Gender`: `NOUN --[[la-dep/amod]()]--> ADJ` (3075; 98%), `NOUN --[[la-dep/amod]()]--> PRON` (708; 78%), `NOUN --[[la-dep/amod]()]--> VERB` (574; 87%), `VERB --[[la-dep/nsubjpass]()]--> NOUN` (480; 66%), `NOUN --[[la-dep/conj]()]--> NOUN` (459; 52%), `ADJ --[[la-dep/conj]()]--> ADJ` (124; 98%), `ADJ --[[la-dep/nsubj]()]--> NOUN` (117; 92%), `PRON --[[la-dep/amod]()]--> ADJ` (98; 97%), `PRON --[[la-dep/amod]()]--> VERB` (62; 89%), `ADJ --[[la-dep/nsubj]()]--> PRON` (56; 93%).
 
