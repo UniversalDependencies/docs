@@ -118,23 +118,23 @@ The feature is used with 2 part-of-speech tags: <a href="">la-pos/VERB</a> (4460
 <p>This feature is universal.
 It occurs with 2 different values: <code>Imp</code>, <code>Perf</code>.</p>
 
-<p>11996 tokens (5%) have a non-empty value of <code>Aspect</code>.
-4223 types (18%) occur at least once with a non-empty value of <code>Aspect</code>.
-1860 lemmas (19%) occur at least once with a non-empty value of <code>Aspect</code>.
-The feature is used with 3 part-of-speech tags: <a href="">la-pos/VERB</a> (11925; 5% instances), <a href="">la-pos/AUX</a> (70; 0% instances), <a href="">la-pos/NOUN</a> (1; 0% instances).</p>
+<p>7535 tokens (3%) have a non-empty value of <code>Aspect</code>.
+1736 types (14%) occur at least once with a non-empty value of <code>Aspect</code>.
+551 lemmas (16%) occur at least once with a non-empty value of <code>Aspect</code>.
+The feature is used with 2 part-of-speech tags: <a href="">la-pos/VERB</a> (7465; 3% instances), <a href="">la-pos/AUX</a> (70; 0% instances).</p>
 
 <h3 id="verb-1"><code>VERB</code></h3>
 
-<p>11925 <a href="">la-pos/VERB</a> tokens (21% of all <code>VERB</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
+<p>7465 <a href="">la-pos/VERB</a> tokens (16% of all <code>VERB</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
 
-<p>The most frequent other feature values with which <code>VERB</code> and <code>Aspect</code> co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (10442; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (8564; 72%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (7066; 59%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6901; 58%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6897; 58%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (6827; 57%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6709; 56%).</p>
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Aspect</code> co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (6023; 81%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5388; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (5320; 71%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5181; 69%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5181; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5096; 68%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (5069; 68%).</p>
 
 <p><code>VERB</code> tokens may have the following values of <code>Aspect</code>:</p>
 
 <ul>
-  <li><code>Imp</code> (2386; 20% of non-empty <code>Aspect</code>): <em>esset, erat, posset, essent, sequeretur, erant, haberet, habebat, oporteret, cognosceret</em></li>
-  <li><code>Perf</code> (9539; 80% of non-empty <code>Aspect</code>): <em>ostensum, dictum, fuit, separatae, separata, probatum, separatas, dictis, praemissis, factum</em></li>
-  <li><code>EMPTY</code> (45478): <em>est, esse, sit, sunt, potest, oportet, habet, dicitur, patet, dicendum</em></li>
+  <li><code>Imp</code> (1349; 18% of non-empty <code>Aspect</code>): <em>esset, posset, essent, erat, sequeretur, oporteret, haberet, cognosceret, dicebant, ponebat</em></li>
+  <li><code>Perf</code> (6116; 82% of non-empty <code>Aspect</code>): <em>ostensum, dictum, separatae, separata, probatum, separatas, dictis, praemissis, fuit, intellecta</em></li>
+  <li><code>EMPTY</code> (39397): <em>est, esse, sit, sunt, potest, oportet, habet, dicitur, patet, dicendum</em></li>
 </ul>
 
 <table>
@@ -186,23 +186,10 @@ The feature is used with 3 part-of-speech tags: <a href="">la-pos/VERB</a> (1192
   <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td><i>fuisse</i></td></tr>
 </table>
 
-<h3 id="noun-1"><code>NOUN</code></h3>
-
-<p>1 <a href="">la-pos/NOUN</a> tokens (0% of all <code>NOUN</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
-
-<p>The most frequent other feature values with which <code>NOUN</code> and <code>Aspect</code> co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).</p>
-
-<p><code>NOUN</code> tokens may have the following values of <code>Aspect</code>:</p>
-
-<ul>
-  <li><code>Perf</code> (1; 100% of non-empty <code>Aspect</code>): <em>meriti</em></li>
-  <li><code>EMPTY</code> (66908): <em>forma, formam, esse, formae, intellectus, materia, deus, potentia, anima, actu</em></li>
-</ul>
-
 <h2 id="relations-with-agreement-in-aspect-1">Relations with Agreement in <code>Aspect</code></h2>
 
 <p>The 10 most frequent relations where parent and child node agree in <code>Aspect</code>:
-<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (682; 56%).</p>
+<tt>VERB –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; VERB</tt> (1; 100%).</p>
 
 <hr />
 
@@ -211,23 +198,23 @@ The feature is used with 3 part-of-speech tags: <a href="">la-pos/VERB</a> (1192
 <p>This feature is universal.
 It occurs with 2 different values: <code>Imp</code>, <code>Perf</code>.</p>
 
-<p>28472 tokens (17%) have a non-empty value of <code>Aspect</code>.
-8069 types (21%) occur at least once with a non-empty value of <code>Aspect</code>.
-2687 lemmas (19%) occur at least once with a non-empty value of <code>Aspect</code>.
-The feature is used with 3 part-of-speech tags: <a href="">la-pos/VERB</a> (28401; 17% instances), <a href="">la-pos/AUX</a> (70; 0% instances), <a href="">la-pos/NOUN</a> (1; 0% instances).</p>
+<p>16476 tokens (10%) have a non-empty value of <code>Aspect</code>.
+5240 types (22%) occur at least once with a non-empty value of <code>Aspect</code>.
+1394 lemmas (20%) occur at least once with a non-empty value of <code>Aspect</code>.
+The feature is used with 1 part-of-speech tags: <a href="">la-pos/VERB</a> (16476; 10% instances).</p>
 
 <h3 id="verb-2"><code>VERB</code></h3>
 
-<p>28401 <a href="">la-pos/VERB</a> tokens (29% of all <code>VERB</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
+<p>16476 <a href="">la-pos/VERB</a> tokens (41% of all <code>VERB</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
 
-<p>The most frequent other feature values with which <code>VERB</code> and <code>Aspect</code> co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (26426; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (19185; 68%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (17548; 62%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (17490; 62%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16941; 60%), <tt><a href="Voice.html">Voice</a>=Act</tt> (16332; 58%).</p>
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Aspect</code> co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (15984; 97%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12283; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (12274; 74%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11917; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11541; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (10621; 64%), <tt><a href="Person.html">Person</a>=3</tt> (9775; 59%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9443; 57%).</p>
 
 <p><code>VERB</code> tokens may have the following values of <code>Aspect</code>:</p>
 
 <ul>
-  <li><code>Imp</code> (7169; 25% of non-empty <code>Aspect</code>): <em>erat, esset, erant, essent, posset, dicebant, dicebat, habebat, possent, haberet</em></li>
-  <li><code>Perf</code> (21232; 75% of non-empty <code>Aspect</code>): <em>dixit, ostensum, fuit, factum, facta, venit, dictum, dixerunt, fuerit, misit</em></li>
-  <li><code>EMPTY</code> (69435): <em>est, esse, sunt, sit, potest, habet, oportet, dicitur, dicit, patet</em></li>
+  <li><code>Imp</code> (4783; 29% of non-empty <code>Aspect</code>): <em>erat, esset, erant, dicebant, dicebat, essent, habebat, posset, possent, habebant</em></li>
+  <li><code>Perf</code> (11693; 71% of non-empty <code>Aspect</code>): <em>dixit, fuit, venit, factum, facta, dixerunt, misit, fuerit, fecit, respondit</em></li>
+  <li><code>EMPTY</code> (23957): <em>est, sunt, esse, ait, sum, dicit, dicens, sit, dico, dicentes</em></li>
 </ul>
 
 <table>
@@ -237,77 +224,27 @@ The feature is used with 3 part-of-speech tags: <a href="">la-pos/VERB</a> (2840
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fueris</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>eras</i></td><td><i>fuisti</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>erat</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>erat</i></td><td><i>fuit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerat</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerimus</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>eramus</i></td><td><i>fuimus</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fueritis</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuistis</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>erant</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>erant</i></td><td><i>fuerunt</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerant</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essem</i></td><td><i>fuerim</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>esses</i></td><td><i>fueris</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>esset</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>esset</i></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuisset</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essemus</i></td><td><i>fuerimus</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essemus</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essetis</i></td><td><i>fueritis</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essent</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essent</i></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuissent</i></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td><i>fuisse</i></td></tr>
 </table>
-
-<h3 id="aux-1"><code>AUX</code></h3>
-
-<p>70 <a href="">la-pos/AUX</a> tokens (6% of all <code>AUX</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
-
-<p>The most frequent other feature values with which <code>AUX</code> and <code>Aspect</code> co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (70; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (61; 87%), <tt><a href="Person.html">Person</a>=3</tt> (61; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (47; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (42; 60%).</p>
-
-<p><code>AUX</code> tokens may have the following values of <code>Aspect</code>:</p>
-
-<ul>
-  <li><code>Imp</code> (10; 14% of non-empty <code>Aspect</code>): <em>essent, esset</em></li>
-  <li><code>Perf</code> (60; 86% of non-empty <code>Aspect</code>): <em>fuit, fuerit, fuisse, fuisset, fuerunt, fuerat, fuerint, fuissent</em></li>
-  <li><code>EMPTY</code> (1160): <em>est, sunt, sit, esse, sint, erit, sum, sumus, erunt, es</em></li>
-</ul>
-
-<table>
-  <tr><th>Paradigm <i>sum</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerat</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerunt</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>esset</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuisset</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>essent</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><i>fuissent</i></td></tr>
-  <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td><i>fuisse</i></td></tr>
-</table>
-
-<h3 id="noun-2"><code>NOUN</code></h3>
-
-<p>1 <a href="">la-pos/NOUN</a> tokens (0% of all <code>NOUN</code> tokens) have a non-empty value of <code>Aspect</code>.</p>
-
-<p>The most frequent other feature values with which <code>NOUN</code> and <code>Aspect</code> co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).</p>
-
-<p><code>NOUN</code> tokens may have the following values of <code>Aspect</code>:</p>
-
-<ul>
-  <li><code>Perf</code> (1; 100% of non-empty <code>Aspect</code>): <em>meriti</em></li>
-  <li><code>EMPTY</code> (98988): <em>forma, formam, esse, deus, formae, intellectus, materia, potentia, anima, deo</em></li>
-</ul>
 
 <h2 id="relations-with-agreement-in-aspect-2">Relations with Agreement in <code>Aspect</code></h2>
 
 <p>The 10 most frequent relations where parent and child node agree in <code>Aspect</code>:
-<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (2287; 66%).</p>
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (1605; 72%),
+<tt>VERB –[<a href="../dep/dep.html">dep</a>]–&gt; VERB</tt> (1; 100%).</p>
 
 
 
