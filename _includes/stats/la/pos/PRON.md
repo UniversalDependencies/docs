@@ -95,100 +95,88 @@ Children of `PRON` nodes belong to 12 different parts of speech: [ADP]() (303; 2
 
 ## Treebank Statistics (UD_Latin-ITT)
 
-There are 90 `PRON` lemmas (1%), 392 `PRON` types (2%) and 28766 `PRON` tokens (9%).
-Out of 14 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 4 in number of tokens.
+There are 47 `PRON` lemmas (1%), 314 `PRON` types (3%) and 24730 `PRON` tokens (10%).
+Out of 14 observed tags, the rank of `PRON` is: 6 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: _qui, hic, is, ipse, sui, alius, aliqui, aliquis, ille, qui1_
+The 10 most frequent `PRON` lemmas: _qui, hic, is, ipse, alius, sui, aliqui, aliquis, ille, quidam_
 
-The 10 most frequent `PRON` types:  _quae, quod, hoc, se, qui, aliquid, eius, quo, ipsum, eo_
+The 10 most frequent `PRON` types:  _quae, quod, hoc, se, aliquid, eius, qui, quo, ipsum, aliqua_
 
-The 10 most frequent ambiguous lemmas: _qui_ ([PRON]() 6624, [SCONJ]() 7), _hic_ ([PRON]() 2813, [ADV]() 23), _aliqui_ ([PRON]() 1314, [ADJ]() 1), _qui1_ ([PRON]() 873, [ADV]() 4, [X]() 2, [SCONJ]() 1, [ADJ]() 1), _is1_ ([PRON]() 417, [ADJ]() 3), _ille1_ ([PRON]() 391, [ADV]() 1), _nullus_ ([PRON]() 391, [ADJ]() 6), _ego1_ ([PRON]() 378, [X]() 1), _hic1_ ([PRON]() 363, [ADV]() 21, [ADJ]() 1), _nihil_ ([PRON]() 352, [NOUN]() 14, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: _qui_ ([PRON]() 6622, [SCONJ]() 7), _hic_ ([PRON]() 2746, [ADV]() 17), _quod_ ([SCONJ]() 4241, [PRON]() 2, [X]() 2, [ADV]() 1, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  _quae_ ([PRON]() 2246, [X]() 1), _quod_ ([SCONJ]() 4319, [PRON]() 2104, [CONJ]() 12, [X]() 7, [ADV]() 1, [ADP]() 1), _hoc_ ([PRON]() 1759, [ADV]() 2), _qui_ ([PRON]() 860, [ADV]() 1, [X]() 1, [SCONJ]() 1), _quo_ ([PRON]() 494, [ADV]() 26, [SCONJ]() 8), _eo_ ([PRON]() 402, [ADV]() 13, [CONJ]() 1), _quam_ ([SCONJ]() 443, [PRON]() 395, [ADV]() 73, [CONJ]() 17, [ADP]() 1, [X]() 1), _ea_ ([PRON]() 393, [ADJ]() 1), _haec_ ([PRON]() 323, [ADJ]() 1), _alia_ ([PRON]() 336, [ADJ]() 16, [NOUN]() 1)
+The 10 most frequent ambiguous types:  _quod_ ([SCONJ]() 4248, [PRON]() 2005, [X]() 7, [ADV]() 1, [ADP]() 1), _quo_ ([PRON]() 452, [ADV]() 3), _quam_ ([SCONJ]() 395, [PRON]() 349, [CONJ]() 16, [ADP]() 1, [X]() 1), _sui_ ([PRON]() 85, [DET]() 63), _hic_ ([PRON]() 52, [ADV]() 17), _tantum_ ([ADV]() 302, [PRON]() 5), _quantum_ ([ADV]() 280, [PRON]() 4, [SCONJ]() 1), _mei_ ([DET]() 3, [PRON]() 1)
 
 
-* _quae_
-  * [PRON]() 2246: _Duo tamen vitia habet , <b>quae</b> si non haberet , esset omnium numerum_
-  * [X]() 1: _et ceteri homines qui non sunt occisi in his plagis que ne paenitentiam egerunt de operibus manuum suarum ut non adorarent daemonia et simulacra aurea et argentea et aerea et lapidea et lignea <b>quae</b> que ne videre possunt que ne audire que ne ambulare_
 * _quod_
-  * [SCONJ]() 4319: _Ego , <b>quod</b> me sic vides , propter artificium meum diis gratias ago_
-  * [PRON]() 2104: _<b>quod</b> semel destinavi , clavo tabulari fixum est_
-  * [CONJ]() 12: _<b>quod</b> ego si verbo adsequi possem , istos ipsos eicerem qui haec loquuntur_
+  * [SCONJ]() 4248: _<b>quod</b> felicitas humana non consistit in delectationibus carnalibus ._
+  * [PRON]() 2005: _finis enim est melior eo <b>quod</b> est ad finem ._
   * [X]() 7: _<b>quod</b> distinctio rerum non est a casu ._
   * [ADV]() 1: _respondeo dicendum <b>quod</b> illud quo intellectus intelligit , comparatur ad intellectum intelligentem ut forma eius , quia forma est quo agens agit ._
   * [ADP]() 1: _sed quia nihil potest in alterum transformari nisi secundum <b>quod</b> a sua forma quodammodo recedit , quia unius una est forma , ideo hanc divisionem penetrationis praecedit alia divisio , qua amans a seipso separatur in amatum tendens ;_
-* _hoc_
-  * [PRON]() 1759: _iam scies <b>hoc</b> ferrum fidem habere_
-  * [ADV]() 2: _<b>hoc</b> enim nemo parentat_
-* _qui_
-  * [PRON]() 860: _Ergo aut tace aut meliorem noli molestare , <b>qui</b> te natum non putat_
-  * [ADV]() 1: _sin quia levius est , <b>qui</b> convenit in minore negotio legem timere , quon eam in maiore neglexeris_
-  * [X]() 1: _et dicit mihi scribe beati <b>qui</b> ad cenam nuptiarum agni vocati sunt et dicit mihi haec verba vera Dei sunt_
-  * [SCONJ]() 1: _praeterea se missum a M . Crasso , <b>qui</b> Catilinae nuntiaret , ne eum Lentulus et Cethegus que alii ex coniuratione deprehensi terrerent , que eo magis properaret ad urbem adcedere , quo et ceterorum animos reficeret et illi facilius e periculo eriperentur_
 * _quo_
-  * [PRON]() 494: _A <b>quo</b> repulsus tristem sustinuit notam ._
-  * [ADV]() 26: _Hoc <b>quo</b> pertineat , dicet qui me noverit ._
-  * [SCONJ]() 8: _praeterea Gabinium arcessit , <b>quo</b> maior auctoritas sermoni inesset_
-* _eo_
-  * [PRON]() 402: _Haec dicente <b>eo</b> gallus gallinaceus cantavit_
-  * [ADV]() 13: _si in tanto omnium metu solus non timet , <b>eo</b> magis refert me mihi atque vobis timere_
-  * [CONJ]() 1: _<b>eo</b> profusius omnibus modis quaestui atque sumptui deditus erat_
+  * [PRON]() 452: _melius enim est <b>quo</b> nullus male uti potest ._
+  * [ADV]() 3: _et primus modus est <b>quo</b> ad omnes in formis accidentalibus ;_
 * _quam_
-  * [SCONJ]() 443: _hosce ego non tam milites acris <b>quam</b> infitiatores lentos esse arbitror_
-  * [PRON]() 395: _Mox silentio facto scitis inquit <b>quam</b> fabulam agant_
-  * [ADV]() 73: _Satius est rideri <b>quam</b> derideri_
-  * [CONJ]() 17: _ostensum est enim supra quod tam ens actu , <b>quam</b> ens in potentia , est bonum ._
+  * [SCONJ]() 395: _voluntas est superior <b>quam</b> appetitus sensitivus :_
+  * [PRON]() 349: _est enim huiusmodi cognitio per <b>quam</b> res cognoscitur in potentia tantum ;_
+  * [CONJ]() 16: _ostensum est enim supra quod tam ens actu , <b>quam</b> ens in potentia , est bonum ._
   * [ADP]() 1: _magis igitur addit ad bonitatem universi multitudo specierum <b>quam</b> multitudo individuorum in una specie ._
   * [X]() 1: _quod tam de corpore circulari <b>quam</b> de recto probatur in i caeli et mundi ._
-* _ea_
-  * [PRON]() 393: _Hic mihi dixit etiam <b>ea</b> , quae oblitus eram_
-  * [ADJ]() 1: _que is postea permotus oratione C . Caesaris pedibus in sententiam Ti . Neronis iturum se dixit , quod de <b>ea</b> re praesidiis additis referundum censuerat_
-* _haec_
-  * [PRON]() 323: _Non mehercules mi <b>haec</b> iactura gusti fuit , tanquam nihil facti_
-  * [ADJ]() 1: _et dixit qui sedebat in throno ecce nova facio omnia et dicit scribe quia <b>haec</b> verba fidelissima sunt et vera_
-* _alia_
-  * [PRON]() 336: _alius <b>alia</b> vobis dicet_
-  * [ADJ]() 16: _<b>alia</b> intrant , <b>alia</b> exeunt_
-  * [NOUN]() 1: _Et multa <b>alia</b> sunt , quae statim vobis ostendam_
+* _sui_
+  * [PRON]() 85: _quod igitur non est totus actus , non toto se agit , sed aliquo <b>sui</b> ._
+  * [DET]() 63: _damascenus etiam , in secundo <b>sui</b> libri , dicit :_
+* _hic_
+  * [PRON]() 52: _unde non dicimus quod <b>hic</b> ignis , aut ignis , sit sua forma ._
+  * [ADV]() 17: _sed quaeritur quomodo <b>hic</b> dicatur forma idoli non esse facta per verbum ._
+* _tantum_
+  * [ADV]() 302: _stultum enim esset propter se <b>tantum</b> bellare ._
+  * [PRON]() 5: _nam unumquodque , quantum habet de esse , <b>tantum</b> habet de cognoscibilitate ._
+* _quantum_
+  * [ADV]() 280: _multa animalia , <b>quantum</b> ad bona corporis , sunt homine potiora :_
+  * [PRON]() 4: _omne <b>quantum</b> est aliquo modo in potentia :_
+  * [SCONJ]() 1: _non enim per hujusmodi formas cognoscet in <b>quantum</b> res aliquid agant in animam , vel anima in res , ut sic medium corporale , per quod actio fiat , cognitionem impedire possit ;_
+* _mei_
+  * [DET]() 3: _hic est calix sanguinis <b>mei</b> , ut forma utriusque consecrationis sit consimilis ._
+  * [PRON]() 1: _a deo abscondar , et ex summo quis <b>mei</b> memorabitur ?_
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.355556 (the average of all parts of speech is 2.318731).
+The form / lemma ratio of `PRON` is 6.680851 (the average of all parts of speech is 3.609102).
 
-The 1st highest number of forms (23) was observed with the lemma “quidam”: _cuidam, cuiusdam, cujusdam, quadam, quaedam, quamdam, quandam, quarundam, quasdam, quedam, quemdam, quendam, quibusdam, quid, quidam, quiddam, quodam, quoddam, quoidam, quoiusdam, quorumdam, quorundam, quosdam_
+The 1st highest number of forms (20) was observed with the lemma “quidam”: _cuiusdam, cujusdam, quadam, quaedam, quamdam, quandam, quarundam, quasdam, quedam, quemdam, quendam, quibusdam, quid, quidam, quiddam, quodam, quoddam, quorumdam, quorundam, quosdam_
 
-The 2nd highest number of forms (21) was observed with the lemma “hic1”: _abhac, hac, hae, haec, haecine, hanc, has, hi, hic, hii, his, hisce, hoc, horum, hos, hosce, huic, huius, huiusce, hunc, hune_
+The 2nd highest number of forms (18) was observed with the lemma “aliqui”: _alicui, alicuius, alicujus, aliqua, aliquae, aliquam, aliquarum, aliquas, aliquatenus, aliquem, aliqui, aliquibus, aliquid, aliquis, aliquo, aliquod, aliquorum, aliquos_
 
-The 3rd highest number of forms (19) was observed with the lemma “qui”: _cui, cuius, cujus, qua, quae, quam, quarum, quas, quatenus, quem, qui, quibus, quid, quis, quo, quod, quoius, quorum, quos_
+The 3rd highest number of forms (18) was observed with the lemma “qui”: _cui, cuius, cujus, qua, quae, quam, quarum, quas, quatenus, quem, qui, quibus, quid, quis, quo, quod, quorum, quos_
 
-`PRON` occurs with 6 features: [la-feat/Case]() (28745; 100% instances), [la-feat/Number]() (28745; 100% instances), [la-feat/Gender]() (28565; 99% instances), [la-feat/PronType]() (24725; 86% instances), [la-feat/Degree]() (24394; 85% instances), [la-feat/Reflex]() (1721; 6% instances)
+`PRON` occurs with 6 features: [la-feat/PronType]() (24725; 100% instances), [la-feat/Case]() (24716; 100% instances), [la-feat/Number]() (24716; 100% instances), [la-feat/Gender]() (24537; 99% instances), [la-feat/Degree]() (24394; 99% instances), [la-feat/Reflex]() (1721; 7% instances)
 
-`PRON` occurs with 23 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Dem,Prs`, `PronType=Ind`, `PronType=Ind,Int`, `PronType=Ind,Rel`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Dem,Prs`, `PronType=Ind`, `PronType=Ind,Int`, `PronType=Ind,Rel`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 259 feature combinations.
+`PRON` occurs with 226 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel` (1712 tokens).
 Examples: _quod, quid, qui_
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 25 different relations: [la-dep/nmod]() (12747; 44% instances), [la-dep/nsubj]() (6610; 23% instances), [la-dep/dobj]() (4398; 15% instances), [la-dep/nsubjpass]() (1813; 6% instances), [la-dep/amod]() (989; 3% instances), [la-dep/conj]() (441; 2% instances), [la-dep/iobj]() (414; 1% instances), [la-dep/dep]() (329; 1% instances), [la-dep/root]() (290; 1% instances), [la-dep/auxpass:reflex]() (225; 1% instances), [la-dep/acl]() (132; 0% instances), [la-dep/advcl]() (102; 0% instances), [la-dep/csubj]() (64; 0% instances), [la-dep/xcomp]() (59; 0% instances), [la-dep/cc]() (39; 0% instances), [la-dep/ccomp]() (36; 0% instances), [la-dep/parataxis]() (22; 0% instances), [la-dep/advmod:emph]() (15; 0% instances), [la-dep/mark]() (13; 0% instances), [la-dep/advmod]() (7; 0% instances), [la-dep/cop]() (6; 0% instances), [la-dep/csubjpass]() (6; 0% instances), [la-dep/appos]() (4; 0% instances), [la-dep/vocative]() (3; 0% instances), [la-dep/punct]() (2; 0% instances)
+`PRON` nodes are attached to their parents using 22 different relations: [la-dep/nmod]() (12302; 50% instances), [la-dep/nsubj]() (5526; 22% instances), [la-dep/dobj]() (3343; 14% instances), [la-dep/nsubjpass]() (1563; 6% instances), [la-dep/conj]() (404; 2% instances), [la-dep/dep]() (329; 1% instances), [la-dep/root]() (278; 1% instances), [la-dep/iobj]() (273; 1% instances), [la-dep/auxpass:reflex]() (225; 1% instances), [la-dep/acl]() (132; 1% instances), [la-dep/advcl]() (101; 0% instances), [la-dep/csubj]() (64; 0% instances), [la-dep/xcomp]() (54; 0% instances), [la-dep/cc]() (37; 0% instances), [la-dep/ccomp]() (36; 0% instances), [la-dep/parataxis]() (22; 0% instances), [la-dep/advmod:emph]() (15; 0% instances), [la-dep/mark]() (8; 0% instances), [la-dep/cop]() (6; 0% instances), [la-dep/csubjpass]() (6; 0% instances), [la-dep/appos]() (4; 0% instances), [la-dep/punct]() (2; 0% instances)
 
-Parents of `PRON` nodes belong to 14 different parts of speech: [VERB]() (15471; 54% instances), [NOUN]() (9873; 34% instances), [ADJ]() (1753; 6% instances), [PRON]() (758; 3% instances), [ROOT]() (290; 1% instances), [CONJ]() (238; 1% instances), [NUM]() (158; 1% instances), [ADV]() (152; 1% instances), [DET]() (31; 0% instances), [PUNCT]() (19; 0% instances), [ADP]() (9; 0% instances), [X]() (8; 0% instances), [SCONJ]() (4; 0% instances), [INTJ]() (2; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (12699; 51% instances), [NOUN]() (8853; 36% instances), [ADJ]() (1602; 6% instances), [PRON]() (705; 3% instances), [ROOT]() (278; 1% instances), [CONJ]() (235; 1% instances), [NUM]() (158; 1% instances), [ADV]() (142; 1% instances), [DET]() (31; 0% instances), [PUNCT]() (13; 0% instances), [ADP]() (9; 0% instances), [X]() (5; 0% instances)
 
-20043 (70%) `PRON` nodes are leaves.
+16833 (68%) `PRON` nodes are leaves.
 
-6067 (21%) `PRON` nodes have one child.
+5372 (22%) `PRON` nodes have one child.
 
-1494 (5%) `PRON` nodes have two children.
+1408 (6%) `PRON` nodes have two children.
 
-1162 (4%) `PRON` nodes have three or more children.
+1117 (5%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 13.
 
-Children of `PRON` nodes are attached using 26 different relations: [la-dep/case]() (5044; 36% instances), [la-dep/acl]() (2636; 19% instances), [la-dep/punct]() (1136; 8% instances), [la-dep/nmod]() (867; 6% instances), [la-dep/cop]() (675; 5% instances), [la-dep/cc]() (588; 4% instances), [la-dep/amod]() (570; 4% instances), [la-dep/nsubj]() (476; 3% instances), [la-dep/mark]() (319; 2% instances), [la-dep/conj]() (318; 2% instances), [la-dep/advmod:emph]() (256; 2% instances), [la-dep/dep]() (210; 2% instances), [la-dep/neg]() (165; 1% instances), [la-dep/advcl]() (131; 1% instances), [la-dep/advmod]() (130; 1% instances), [la-dep/dobj]() (109; 1% instances), [la-dep/xcomp]() (100; 1% instances), [la-dep/csubj]() (81; 1% instances), [la-dep/nummod]() (45; 0% instances), [la-dep/appos]() (44; 0% instances), [la-dep/ccomp]() (22; 0% instances), [la-dep/parataxis]() (15; 0% instances), [la-dep/nsubjpass]() (9; 0% instances), [la-dep/csubjpass]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances), [la-dep/vocative]() (1; 0% instances)
+Children of `PRON` nodes are attached using 25 different relations: [la-dep/case]() (4740; 37% instances), [la-dep/acl]() (2457; 19% instances), [la-dep/punct]() (1067; 8% instances), [la-dep/nmod]() (819; 6% instances), [la-dep/cop]() (658; 5% instances), [la-dep/cc]() (552; 4% instances), [la-dep/nsubj]() (448; 3% instances), [la-dep/amod]() (365; 3% instances), [la-dep/mark]() (315; 2% instances), [la-dep/conj]() (269; 2% instances), [la-dep/advmod:emph]() (256; 2% instances), [la-dep/dep]() (210; 2% instances), [la-dep/neg]() (161; 1% instances), [la-dep/advcl]() (125; 1% instances), [la-dep/dobj]() (105; 1% instances), [la-dep/xcomp]() (86; 1% instances), [la-dep/csubj]() (81; 1% instances), [la-dep/advmod]() (69; 1% instances), [la-dep/nummod]() (45; 0% instances), [la-dep/appos]() (42; 0% instances), [la-dep/ccomp]() (21; 0% instances), [la-dep/parataxis]() (15; 0% instances), [la-dep/nsubjpass]() (9; 0% instances), [la-dep/csubjpass]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (5057; 36% instances), [VERB]() (3170; 23% instances), [NOUN]() (1461; 10% instances), [PUNCT]() (1136; 8% instances), [PRON]() (758; 5% instances), [ADJ]() (735; 5% instances), [ADV]() (639; 5% instances), [CONJ]() (464; 3% instances), [SCONJ]() (330; 2% instances), [DET]() (122; 1% instances), [NUM]() (66; 0% instances), [X]() (9; 0% instances), [INTJ]() (2; 0% instances), [AUX]() (1; 0% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: [ADP]() (4754; 37% instances), [VERB]() (2928; 23% instances), [NOUN]() (1346; 10% instances), [PUNCT]() (1067; 8% instances), [PRON]() (705; 5% instances), [ADV]() (597; 5% instances), [ADJ]() (589; 5% instances), [CONJ]() (411; 3% instances), [SCONJ]() (326; 3% instances), [DET]() (122; 1% instances), [NUM]() (65; 1% instances), [X]() (7; 0% instances), [AUX]() (1; 0% instances)
 
 
 
@@ -196,95 +184,86 @@ Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (5057; 
 
 ## Treebank Statistics (UD_Latin-PROIEL)
 
-There are 103 `PRON` lemmas (1%), 478 `PRON` types (1%) and 50408 `PRON` tokens (11%).
-Out of 15 observed tags, the rank of `PRON` is: 8 in number of lemmas, 7 in number of types and 3 in number of tokens.
+There are 44 `PRON` lemmas (1%), 283 `PRON` types (1%) and 21642 `PRON` tokens (13%).
+Out of 13 observed tags, the rank of `PRON` is: 8 in number of lemmas, 7 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: _qui, is, hic, ego, ipse, alius, sui, tu, omnis, aliquis_
+The 10 most frequent `PRON` lemmas: _qui, is, ego, omnis, tu, suus, se, quis, vos, meus_
 
-The 10 most frequent `PRON` types:  _quae, quod, qui, se, hoc, eius, me, eum, aliquid, te_
+The 10 most frequent `PRON` types:  _qui, me, eum, quae, te, se, eius, quod, quid, ego_
 
-The 10 most frequent ambiguous lemmas: _qui_ ([PRON]() 11202, [SCONJ]() 7, [ADV]() 1), _is_ ([PRON]() 6527, [ADJ]() 582), _hic_ ([PRON]() 2813, [ADJ]() 1804, [ADV]() 135, [DET]() 2), _ipse_ ([PRON]() 1860, [ADJ]() 461, [DET]() 75), _alius_ ([PRON]() 1815, [ADJ]() 3), _tu_ ([PRON]() 1428, [X]() 1), _omnis_ ([DET]() 1681, [PRON]() 1356, [ADJ]() 26), _aliqui_ ([PRON]() 1314, [ADJ]() 1), _ille_ ([ADJ]() 2001, [PRON]() 992, [DET]() 73), _suus_ ([DET]() 1382, [PRON]() 952)
+The 10 most frequent ambiguous lemmas: _qui_ ([PRON]() 4578, [ADV]() 1), _is_ ([PRON]() 3798, [ADJ]() 582), _omnis_ ([PRON]() 1356, [ADJ]() 9), _tu_ ([PRON]() 1353, [X]() 1), _tuus_ ([PRON]() 629, [ADJ]() 2), _ipse_ ([ADJ]() 461, [PRON]() 347, [DET]() 75), _alius_ ([PRON]() 339, [ADJ]() 3), _nullus_ ([PRON]() 140, [ADJ]() 2), _uter_ ([NOUN]() 12, [PRON]() 3)
 
-The 10 most frequent ambiguous types:  _quae_ ([PRON]() 3073, [X]() 1), _quod_ ([SCONJ]() 4793, [PRON]() 2654, [ADV]() 20, [CONJ]() 12, [X]() 7, [ADP]() 1), _qui_ ([PRON]() 2640, [ADV]() 2, [X]() 1, [SCONJ]() 1), _hoc_ ([PRON]() 1759, [ADJ]() 391, [ADV]() 2, [DET]() 1), _eius_ ([PRON]() 1372, [ADJ]() 84), _eum_ ([PRON]() 980, [ADJ]() 28, [NOUN]() 1), _te_ ([PRON]() 843, [ADV]() 2), _quid_ ([PRON]() 732, [ADV]() 7), _quo_ ([PRON]() 737, [ADV]() 78, [SCONJ]() 25), _ei_ ([PRON]() 701, [ADJ]() 10)
+The 10 most frequent ambiguous types:  _qui_ ([PRON]() 1780, [ADV]() 1), _eum_ ([PRON]() 873, [ADJ]() 28), _te_ ([PRON]() 698, [ADV]() 2), _eius_ ([PRON]() 636, [ADJ]() 84), _quod_ ([PRON]() 550, [SCONJ]() 474, [ADV]() 19), _ei_ ([PRON]() 440, [ADJ]() 10), _omnes_ ([PRON]() 358, [ADJ]() 1), _eos_ ([PRON]() 358, [ADJ]() 7), _eis_ ([PRON]() 328, [ADJ]() 1), _tu_ ([PRON]() 323, [X]() 1)
 
 
-* _quae_
-  * [PRON]() 3073: _Duo tamen vitia habet , <b>quae</b> si non haberet , esset omnium numerum_
-  * [X]() 1: _et ceteri homines qui non sunt occisi in his plagis que ne paenitentiam egerunt de operibus manuum suarum ut non adorarent daemonia et simulacra aurea et argentea et aerea et lapidea et lignea <b>quae</b> que ne videre possunt que ne audire que ne ambulare_
-* _quod_
-  * [SCONJ]() 4793: _Ego , <b>quod</b> me sic vides , propter artificium meum diis gratias ago_
-  * [PRON]() 2654: _<b>quod</b> semel destinavi , clavo tabulari fixum est_
-  * [ADV]() 20: _<b>quod</b> si opus esset omnes in abrogando uterentur_
-  * [CONJ]() 12: _<b>quod</b> ego si verbo adsequi possem , istos ipsos eicerem qui haec loquuntur_
-  * [X]() 7: _<b>quod</b> distinctio rerum non est a casu ._
-  * [ADP]() 1: _sed quia nihil potest in alterum transformari nisi secundum <b>quod</b> a sua forma quodammodo recedit , quia unius una est forma , ideo hanc divisionem penetrationis praecedit alia divisio , qua amans a seipso separatur in amatum tendens ;_
 * _qui_
-  * [PRON]() 2640: _Ergo aut tace aut meliorem noli molestare , <b>qui</b> te natum non putat_
-  * [ADV]() 2: _<b>qui</b> potui non videre cum per emporium Puteolanorum iter facerem_
-  * [X]() 1: _et dicit mihi scribe beati <b>qui</b> ad cenam nuptiarum agni vocati sunt et dicit mihi haec verba vera Dei sunt_
-  * [SCONJ]() 1: _praeterea se missum a M . Crasso , <b>qui</b> Catilinae nuntiaret , ne eum Lentulus et Cethegus que alii ex coniuratione deprehensi terrerent , que eo magis properaret ad urbem adcedere , quo et ceterorum animos reficeret et illi facilius e periculo eriperentur_
-* _hoc_
-  * [PRON]() 1759: _iam scies <b>hoc</b> ferrum fidem habere_
-  * [ADJ]() 391: _verum <b>hoc</b> ridiculum est de magistro_
-  * [ADV]() 2: _<b>hoc</b> enim nemo parentat_
-  * [DET]() 1: _audivi ex Gavio <b>hoc</b> Firmano Romae esse hominem et fuisse adsiduum_
-* _eius_
-  * [PRON]() 1372: _servus enim noster lancea collum <b>eius</b> traiecit_
-  * [ADJ]() 84: _hos expectari equites atque <b>eius</b> rei causa moram interponi arbitrabatur_
+  * [PRON]() 1780: _ex his <b>qui</b> arma ferre possent ad milia nonaginta.duo_
+  * [ADV]() 1: _<b>qui</b> potui non videre cum per emporium Puteolanorum iter facerem_
 * _eum_
-  * [PRON]() 980: _His datis mandatis <b>eum</b> a se dimittit_
+  * [PRON]() 873: _Cognito Caesaris adventu Ariovistus legatos ad <b>eum</b> mittit_
   * [ADJ]() 28: _<b>eum</b> librum Lucio Cossinio dedi_
-  * [NOUN]() 1: _<b>eum</b> muniunt undique parietes atque insuper camera lapideis fornicibus iuncta_
 * _te_
-  * [PRON]() 843: _Ergo aut tace aut meliorem noli molestare , qui <b>te</b> natum non putat_
+  * [PRON]() 698: _de litterarum missione sine causa abs <b>te</b> accusor_
   * [ADV]() 2: _hic tu me accusas quod me adflictem cum ita sim adflictus ut nemo umquam quod tu <b>te</b> intellegis_
-* _quid_
-  * [PRON]() 732: _<b>quid</b> enim mihi aufert , qui ridet_
-  * [ADV]() 7: _nescio <b>quid</b> nunc taces c ne muttis_
-* _quo_
-  * [PRON]() 737: _A <b>quo</b> repulsus tristem sustinuit notam ._
-  * [ADV]() 78: _Hoc <b>quo</b> pertineat , dicet qui me noverit ._
-  * [SCONJ]() 25: _praeterea Gabinium arcessit , <b>quo</b> maior auctoritas sermoni inesset_
+* _eius_
+  * [PRON]() 636: _edicta <b>eius</b> et contiones describunt et legunt_
+  * [ADJ]() 84: _hos expectari equites atque <b>eius</b> rei causa moram interponi arbitrabatur_
+* _quod_
+  * [PRON]() 550: _Tum demum Liscus oratione Caesaris adductus <b>quod</b> antea tacuerat proponit_
+  * [SCONJ]() 474: _accedit eo <b>quod</b> mihi non ut quisque in Epirum proficiscitur_
+  * [ADV]() 19: _<b>quod</b> si opus esset omnes in abrogando uterentur_
 * _ei_
-  * [PRON]() 701: _et forma eius est substantia separata quae unitur <b>ei</b> ut motor ._
+  * [PRON]() 440: _si se in turba <b>ei</b> iam obtulerit occisum iri ab ipso Milone video_
   * [ADJ]() 10: _Ob eas causas <b>ei</b> munitioni quam fecerat Titum Labienum legatum praeficit_
+* _omnes_
+  * [PRON]() 358: _Ea re impetrata sese <b>omnes</b> flentes Caesari ad pedes proiecerunt_
+  * [ADJ]() 1: _quae si ut putantur gratuita fuerint plus unus Cato potuerit quam <b>omnes</b> leges omnes que iudices_
+* _eos_
+  * [PRON]() 358: _per <b>eos</b> ne causam diceret se eripuit_
+  * [ADJ]() 7: _vel sibi agros attribuant vel patiantur <b>eos</b> tenere quos armis possederint_
+* _eis_
+  * [PRON]() 328: _ecce discipuli tui faciunt quod non licet <b>eis</b> facere sabbatis_
+  * [ADJ]() 1: _fuit enim mihi commodum quod in <b>eis</b> orationibus quae Philippicae nominantur enituerat civis ille tuus Demosthenes et quod se ab hoc refractariolo iudiciali dicendi genere abiunxerat ut σεμνότερός τις et πολιτικώτερος videretur curare ut meae quoque essent orationes quae consulares nominarentur_
+* _tu_
+  * [PRON]() 323: _nam Catonem nostrum non <b>tu</b> amas plus quam ego_
+  * [X]() 1: _In hodie hic hortus aliter non appellatur greco sermone nisi copos <b>tu</b> agiu Iohanni id est quod uos dicitis Latine hortus sancti Iohannis_
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.640777 (the average of all parts of speech is 2.665441).
+The form / lemma ratio of `PRON` is 6.431818 (the average of all parts of speech is 3.304580).
 
-The 1st highest number of forms (23) was observed with the lemma “quidam”: _cuidam, cuiusdam, cujusdam, quadam, quaedam, quamdam, quandam, quarundam, quasdam, quedam, quemdam, quendam, quibusdam, quid, quidam, quiddam, quodam, quoddam, quoidam, quoiusdam, quorumdam, quorundam, quosdam_
+The 1st highest number of forms (18) was observed with the lemma “is”: _ea, eae, eam, earum, earundem, eas, ei, eis, eius, eo, eorum, eos, eum, hi, id, ii, iis, is_
 
-The 2nd highest number of forms (21) was observed with the lemma “hic1”: _abhac, hac, hae, haec, haecine, hanc, has, hi, hic, hii, his, hisce, hoc, horum, hos, hosce, huic, huius, huiusce, hunc, hune_
+The 2nd highest number of forms (17) was observed with the lemma “qui”: _cui, cuius, qua, quae, quam, quarum, quas, que, quem, qui, quibus, quo, quod, quoi, quoius, quorum, quos_
 
-The 3rd highest number of forms (21) was observed with the lemma “qui”: _cui, cuius, cujus, qua, quae, quam, quarum, quas, quatenus, que, quem, qui, quibus, quid, quis, quo, quod, quoi, quoius, quorum, quos_
+The 3rd highest number of forms (16) was observed with the lemma “vester”: _uestra, uestrae, uestram, uestras, vester, vestra, vestrae, vestram, vestrarum, vestras, vestri, vestris, vestro, vestrorum, vestros, vestrum_
 
-`PRON` occurs with 8 features: [la-feat/Case]() (50371; 100% instances), [la-feat/Number]() (50371; 100% instances), [la-feat/Gender]() (49488; 98% instances), [la-feat/PronType]() (43212; 86% instances), [la-feat/Degree]() (24394; 48% instances), [la-feat/Person]() (13013; 26% instances), [la-feat/Reflex]() (3522; 7% instances), [la-feat/Poss]() (2952; 6% instances)
+`PRON` occurs with 7 features: [la-feat/Case]() (21626; 100% instances), [la-feat/Number]() (21626; 100% instances), [la-feat/Gender]() (20923; 97% instances), [la-feat/PronType]() (18487; 85% instances), [la-feat/Person]() (13013; 60% instances), [la-feat/Poss]() (2952; 14% instances), [la-feat/Reflex]() (1801; 8% instances)
 
-`PRON` occurs with 32 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Pos`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Prs`, `PronType=Ind`, `PronType=Ind,Int`, `PronType=Ind,Rel`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 23 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 600 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel` (1712 tokens).
-Examples: _quod, quid, qui_
+`PRON` occurs with 372 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|PronType=Rel` (1082 tokens).
+Examples: _qui, quicumque, quisquis, qualis, quantus, quotus, uter_
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 29 different relations: [la-dep/nmod]() (19995; 40% instances), [la-dep/nsubj]() (11583; 23% instances), [la-dep/dobj]() (8353; 17% instances), [la-dep/iobj]() (3948; 8% instances), [la-dep/nsubjpass]() (2961; 6% instances), [la-dep/amod]() (989; 2% instances), [la-dep/conj]() (632; 1% instances), [la-dep/root]() (502; 1% instances), [la-dep/dep]() (346; 1% instances), [la-dep/auxpass:reflex]() (225; 0% instances), [la-dep/remnant]() (135; 0% instances), [la-dep/acl]() (132; 0% instances), [la-dep/advcl]() (130; 0% instances), [la-dep/ccomp]() (120; 0% instances), [la-dep/xcomp]() (77; 0% instances), [la-dep/appos]() (65; 0% instances), [la-dep/csubj]() (64; 0% instances), [la-dep/cc]() (39; 0% instances), [la-dep/parataxis]() (27; 0% instances), [la-dep/advmod:emph]() (15; 0% instances), [la-dep/csubjpass]() (14; 0% instances), [la-dep/mark]() (13; 0% instances), [la-dep/det]() (11; 0% instances), [la-dep/advmod]() (8; 0% instances), [la-dep/mwe]() (7; 0% instances), [la-dep/cop]() (6; 0% instances), [la-dep/vocative]() (6; 0% instances), [la-dep/aux]() (3; 0% instances), [la-dep/punct]() (2; 0% instances)
+`PRON` nodes are attached to their parents using 20 different relations: [la-dep/nmod]() (7248; 33% instances), [la-dep/nsubj]() (4973; 23% instances), [la-dep/dobj]() (3955; 18% instances), [la-dep/iobj]() (3534; 16% instances), [la-dep/nsubjpass]() (1148; 5% instances), [la-dep/root]() (212; 1% instances), [la-dep/conj]() (191; 1% instances), [la-dep/remnant]() (135; 1% instances), [la-dep/ccomp]() (84; 0% instances), [la-dep/appos]() (61; 0% instances), [la-dep/advcl]() (28; 0% instances), [la-dep/xcomp]() (18; 0% instances), [la-dep/dep]() (17; 0% instances), [la-dep/det]() (11; 0% instances), [la-dep/csubjpass]() (8; 0% instances), [la-dep/mwe]() (7; 0% instances), [la-dep/parataxis]() (5; 0% instances), [la-dep/aux]() (3; 0% instances), [la-dep/vocative]() (3; 0% instances), [la-dep/advmod]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 15 different parts of speech: [VERB]() (29032; 58% instances), [NOUN]() (15707; 31% instances), [ADJ]() (2588; 5% instances), [PRON]() (1256; 2% instances), [ROOT]() (502; 1% instances), [PROPN]() (347; 1% instances), [ADV]() (342; 1% instances), [CONJ]() (250; 0% instances), [NUM]() (202; 0% instances), [X]() (51; 0% instances), [SCONJ]() (36; 0% instances), [DET]() (31; 0% instances), [INTJ]() (25; 0% instances), [ADP]() (20; 0% instances), [PUNCT]() (19; 0% instances)
+Parents of `PRON` nodes belong to 13 different parts of speech: [VERB]() (13561; 63% instances), [NOUN]() (5834; 27% instances), [ADJ]() (835; 4% instances), [PRON]() (498; 2% instances), [PROPN]() (347; 2% instances), [ROOT]() (212; 1% instances), [ADV]() (190; 1% instances), [NUM]() (44; 0% instances), [X]() (43; 0% instances), [SCONJ]() (32; 0% instances), [INTJ]() (23; 0% instances), [CONJ]() (12; 0% instances), [ADP]() (11; 0% instances)
 
-37387 (74%) `PRON` nodes are leaves.
+17344 (80%) `PRON` nodes are leaves.
 
-9468 (19%) `PRON` nodes have one child.
+3401 (16%) `PRON` nodes have one child.
 
-2039 (4%) `PRON` nodes have two children.
+545 (3%) `PRON` nodes have two children.
 
-1514 (3%) `PRON` nodes have three or more children.
+352 (2%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 13.
+The highest child degree of a `PRON` node is 10.
 
-Children of `PRON` nodes are attached using 31 different relations: [la-dep/case]() (7468; 38% instances), [la-dep/acl]() (3300; 17% instances), [la-dep/nmod]() (1520; 8% instances), [la-dep/punct]() (1136; 6% instances), [la-dep/cop]() (1003; 5% instances), [la-dep/cc]() (878; 4% instances), [la-dep/nsubj]() (756; 4% instances), [la-dep/amod]() (669; 3% instances), [la-dep/conj]() (582; 3% instances), [la-dep/mark]() (359; 2% instances), [la-dep/advmod]() (268; 1% instances), [la-dep/advmod:emph]() (256; 1% instances), [la-dep/neg]() (229; 1% instances), [la-dep/dep]() (210; 1% instances), [la-dep/appos]() (193; 1% instances), [la-dep/discourse]() (190; 1% instances), [la-dep/advcl]() (168; 1% instances), [la-dep/dobj]() (124; 1% instances), [la-dep/xcomp]() (100; 1% instances), [la-dep/remnant]() (90; 0% instances), [la-dep/csubj]() (81; 0% instances), [la-dep/nummod]() (53; 0% instances), [la-dep/ccomp]() (35; 0% instances), [la-dep/vocative]() (26; 0% instances), [la-dep/iobj]() (19; 0% instances), [la-dep/parataxis]() (19; 0% instances), [la-dep/nsubjpass]() (9; 0% instances), [la-dep/aux]() (3; 0% instances), [la-dep/csubjpass]() (2; 0% instances), [la-dep/det]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances)
+Children of `PRON` nodes are attached using 23 different relations: [la-dep/case]() (2424; 42% instances), [la-dep/acl]() (664; 11% instances), [la-dep/nmod]() (653; 11% instances), [la-dep/cop]() (328; 6% instances), [la-dep/cc]() (290; 5% instances), [la-dep/nsubj]() (280; 5% instances), [la-dep/conj]() (264; 5% instances), [la-dep/discourse]() (190; 3% instances), [la-dep/appos]() (149; 3% instances), [la-dep/advmod]() (138; 2% instances), [la-dep/amod]() (99; 2% instances), [la-dep/remnant]() (90; 2% instances), [la-dep/neg]() (64; 1% instances), [la-dep/mark]() (40; 1% instances), [la-dep/advcl]() (37; 1% instances), [la-dep/vocative]() (25; 0% instances), [la-dep/iobj]() (19; 0% instances), [la-dep/dobj]() (15; 0% instances), [la-dep/ccomp]() (13; 0% instances), [la-dep/nummod]() (8; 0% instances), [la-dep/parataxis]() (4; 0% instances), [la-dep/aux]() (3; 0% instances), [la-dep/det]() (2; 0% instances)
 
-Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (7484; 38% instances), [VERB]() (4222; 21% instances), [NOUN]() (1950; 10% instances), [PRON]() (1256; 6% instances), [ADJ]() (1137; 6% instances), [PUNCT]() (1136; 6% instances), [ADV]() (1107; 6% instances), [CONJ]() (754; 4% instances), [SCONJ]() (371; 2% instances), [DET]() (124; 1% instances), [NUM]() (96; 0% instances), [PROPN]() (89; 0% instances), [X]() (15; 0% instances), [INTJ]() (7; 0% instances), [AUX]() (1; 0% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: [ADP]() (2427; 42% instances), [VERB]() (1052; 18% instances), [PRON]() (498; 9% instances), [NOUN]() (489; 8% instances), [ADV]() (468; 8% instances), [ADJ]() (402; 7% instances), [CONJ]() (290; 5% instances), [PROPN]() (89; 2% instances), [SCONJ]() (41; 1% instances), [NUM]() (30; 1% instances), [X]() (6; 0% instances), [INTJ]() (5; 0% instances), [DET]() (2; 0% instances)
 

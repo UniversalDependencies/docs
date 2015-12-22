@@ -91,46 +91,29 @@ The following 6 pairs of parts of speech are connected with `vocative`: [la-pos/
 
 This relation is universal.
 
-144 nodes (0%) are attached to their parents as `vocative`.
+8 nodes (0%) are attached to their parents as `vocative`.
 
-91 instances of `vocative` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98611111111111.
+7 instances of `vocative` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.25.
 
-The following 6 pairs of parts of speech are connected with `vocative`: [la-pos/VERB]()-[la-pos/NOUN]() (118; 82% instances), [la-pos/VERB]()-[la-pos/ADJ]() (15; 10% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (5; 3% instances), [la-pos/VERB]()-[la-pos/PRON]() (3; 2% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (2; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `vocative`: [la-pos/VERB]()-[la-pos/NOUN]() (7; 88% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (1; 13% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 vocative	color:blue
-1	Sed	sed1	CONJ	c--------	_	2	cc	_	_
-2	tace	taceo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	,	comma1	PUNCT	u--------	_	4	punct	_	_
-4	lingua	lingua1	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	_
-5	,	comma1	PUNCT	u--------	_	2	punct	_	_
-6	dabo	do1	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	_
-7	panem	panis1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 5 vocative	color:blue
-1	Sed	sed1	CONJ	c--------	_	8	cc	_	_
-2	quid	quis1	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
-3	fortunae	fortuna	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
-4	,	,	PUNCT	u--------	_	5	punct	_	_
-5	stulte	stultus	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
-6	,	,	PUNCT	u--------	_	5	punct	_	_
-7	delictum	delictum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	dobj	_	_
-8	arguis	arguo	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	?	?	PUNCT	u--------	_	8	punct	_	_
+# visual-style 8 4 vocative	color:blue
+1	tu	tu	PRON	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	8	nsubj	_	_
+2	autem	autem	CONJ	O4	_	8	cc	_	_
+3	,	,	PUNCT	Punc	_	8	punct	_	_
+4	domine	dominus	NOUN	B1|grn1|casE|gen1|comH	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	8	vocative	_	_
+5	,	,	PUNCT	Punc	_	8	punct	_	_
+6	in	in	ADP	S4	AdpType=Prep	7	case	_	_
+7	aeternum	aeternus	ADJ	B1|grn1|casD|gen3|vgr1	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	advmod	_	_
+8	permanes	permaneo	VERB	K3|modA|tem1|gen5	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 
@@ -167,29 +150,12 @@ The following 6 pairs of parts of speech are connected with `vocative`: [la-pos/
 
 This relation is universal.
 
-993 nodes (1%) are attached to their parents as `vocative`.
+849 nodes (1%) are attached to their parents as `vocative`.
 
-716 instances of `vocative` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.62235649546828.
+663 instances of `vocative` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.39104829210836.
 
-The following 30 pairs of parts of speech are connected with `vocative`: [la-pos/VERB]()-[la-pos/NOUN]() (413; 42% instances), [la-pos/VERB]()-[la-pos/INTJ]() (298; 30% instances), [la-pos/VERB]()-[la-pos/PROPN]() (55; 6% instances), [la-pos/NOUN]()-[la-pos/INTJ]() (30; 3% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (24; 2% instances), [la-pos/VERB]()-[la-pos/ADJ]() (21; 2% instances), [la-pos/INTJ]()-[la-pos/NOUN]() (20; 2% instances), [la-pos/ADJ]()-[la-pos/INTJ]() (17; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (17; 2% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (14; 1% instances), [la-pos/VERB]()-[la-pos/ADV]() (13; 1% instances), [la-pos/ADV]()-[la-pos/INTJ]() (8; 1% instances), [la-pos/CONJ]()-[la-pos/INTJ]() (8; 1% instances), [la-pos/X]()-[la-pos/X]() (7; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (6; 1% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (5; 1% instances), [la-pos/PRON]()-[la-pos/INTJ]() (5; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (5; 1% instances), [la-pos/INTJ]()-[la-pos/INTJ]() (4; 0% instances), [la-pos/INTJ]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (3; 0% instances), [la-pos/VERB]()-[la-pos/X]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/INTJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/PRON]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/X]() (1; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (1; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 vocative	color:blue
-1	Sed	sed1	CONJ	c--------	_	2	cc	_	_
-2	tace	taceo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	,	comma1	PUNCT	u--------	_	4	punct	_	_
-4	lingua	lingua1	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	_
-5	,	comma1	PUNCT	u--------	_	2	punct	_	_
-6	dabo	do1	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	_
-7	panem	panis1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-
-~~~
+The following 30 pairs of parts of speech are connected with `vocative`: [la-pos/VERB]()-[la-pos/INTJ]() (298; 35% instances), [la-pos/VERB]()-[la-pos/NOUN]() (295; 35% instances), [la-pos/VERB]()-[la-pos/PROPN]() (55; 6% instances), [la-pos/NOUN]()-[la-pos/INTJ]() (30; 4% instances), [la-pos/INTJ]()-[la-pos/NOUN]() (20; 2% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (19; 2% instances), [la-pos/ADJ]()-[la-pos/INTJ]() (17; 2% instances), [la-pos/PRON]()-[la-pos/NOUN]() (16; 2% instances), [la-pos/VERB]()-[la-pos/ADV]() (13; 2% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (12; 1% instances), [la-pos/ADV]()-[la-pos/INTJ]() (8; 1% instances), [la-pos/CONJ]()-[la-pos/INTJ]() (8; 1% instances), [la-pos/X]()-[la-pos/X]() (7; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (6; 1% instances), [la-pos/VERB]()-[la-pos/ADJ]() (6; 1% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (5; 1% instances), [la-pos/PRON]()-[la-pos/INTJ]() (5; 1% instances), [la-pos/INTJ]()-[la-pos/INTJ]() (4; 0% instances), [la-pos/INTJ]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (3; 0% instances), [la-pos/VERB]()-[la-pos/X]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (2; 0% instances), [la-pos/INTJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/PRON]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/X]() (1; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (1; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -206,6 +172,27 @@ The following 30 pairs of parts of speech are connected with `vocative`: [la-pos
 6	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	dobj	_	_
 7	valde	valde	ADV	Df	Degree=Pos	8	advmod	_	_
 8	amo	amo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 vocative	color:blue
+1	non	non	ADV	Df	_	2	neg	_	_
+2	omnis	omnis	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
+4	dicit	dico	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
+5	mihi	ego	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+6	Domine	dominus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+7	Domine	dominus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+8	intrabit	intro	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+9	in	in	ADP	R-	_	10	case	_	_
+10	regnum	regnum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	iobj	_	_
+11	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
 
 ~~~
 

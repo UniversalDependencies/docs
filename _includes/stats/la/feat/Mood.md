@@ -80,23 +80,23 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-39691 tokens (15%) have a non-empty value of `Mood`.
-5912 types (26%) occur at least once with a non-empty value of `Mood`.
-2155 lemmas (22%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: [la-pos/VERB]() (38510; 15% instances), [la-pos/AUX]() (1180; 0% instances), [la-pos/X]() (1; 0% instances).
+32791 tokens (13%) have a non-empty value of `Mood`.
+2726 types (22%) occur at least once with a non-empty value of `Mood`.
+775 lemmas (23%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (31611; 12% instances), [la-pos/AUX]() (1180; 0% instances).
 
 ### `VERB`
 
-38510 [la-pos/VERB]() tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
+31611 [la-pos/VERB]() tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (38510; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (38510; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (38510; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (38510; 100%), <tt><a href="Person.html">Person</a>=3</tt> (35941; 93%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (33486; 87%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (32024; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (31468; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (31011; 81%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (31611; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (31611; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (31611; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (31611; 100%), <tt><a href="Person.html">Person</a>=3</tt> (30766; 97%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (29327; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (28615; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (26186; 83%), <tt><a href="Voice.html">Voice</a>=Act</tt> (24677; 78%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (263; 1% of non-empty `Mood`): _puta, scribe, veni, esto, noli, cave, vide, accipe, dic, accipite_
-* `Ind` (31518; 82% of non-empty `Mood`): _est, sunt, potest, oportet, habet, dicitur, patet, dicit, videtur, fit_
-* `Sub` (6729; 17% of non-empty `Mood`): _sit, esset, sint, possit, habeat, posset, dicatur, fiat, essent, cognoscat_
-* `EMPTY` (18893): _esse, ostensum, dicendum, intelligere, movens, habere, fieri, dici, agens, dictum_
+* `Imp` (39; 0% of non-empty `Mood`): _puta, accipite, docete, quaerite, accipe, ambula, audi, comedite, complete, esto_
+* `Ind` (26115; 83% of non-empty `Mood`): _est, sunt, potest, oportet, habet, dicitur, patet, dicit, videtur, fit_
+* `Sub` (5457; 17% of non-empty `Mood`): _sit, esset, sint, possit, habeat, dicatur, fiat, posset, essent, cognoscat_
+* `EMPTY` (15251): _esse, ostensum, dicendum, intelligere, movens, agens, dici, essendi, dictum, habere_
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -153,23 +153,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sunt</i></td><td><i>sint</i></td></tr>
 </table>
 
-### `X`
-
-1 [la-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Mood`:
-
-* `Sub` (1; 100% of non-empty `Mood`): _conlubuissent_
-* `EMPTY` (621): _metaph., physic., cap., gen., sap., c, metaphys., dist., div., nom._
-
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2160; 83%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1068; 87%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (55; 80%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -180,33 +170,31 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-68442 tokens (41%) have a non-empty value of `Mood`.
-11597 types (30%) occur at least once with a non-empty value of `Mood`.
-2990 lemmas (21%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: [la-pos/VERB]() (67261; 41% instances), [la-pos/AUX]() (1180; 1% instances), [la-pos/X]() (1; 0% instances).
+28751 tokens (17%) have a non-empty value of `Mood`.
+7736 types (33%) occur at least once with a non-empty value of `Mood`.
+1528 lemmas (22%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 1 part-of-speech tags: [la-pos/VERB]() (28751; 17% instances).
 
 ### `VERB`
 
-67261 [la-pos/VERB]() tokens (69% of all `VERB` tokens) have a non-empty value of `Mood`.
+28751 [la-pos/VERB]() tokens (71% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (67261; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (67261; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (67261; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (57138; 85%), <tt><a href="Person.html">Person</a>=3</tt> (56469; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (51265; 76%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (50320; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (45618; 68%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28751; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28751; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (28751; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (26127; 91%), <tt><a href="Person.html">Person</a>=3</tt> (20528; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (19797; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (16834; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (1502; 2% of non-empty `Mood`): _nolite, vade, fac, noli, cura, surge, videte, scribe, veni, dic_
-* `Ind` (53590; 80% of non-empty `Mood`): _est, sunt, potest, habet, oportet, dicitur, erat, dicit, dixit, patet_
-* `Sub` (12169; 18% of non-empty `Mood`): _sit, esset, sint, possit, habeat, essent, posset, fiat, dicatur, velim_
-* `EMPTY` (30575): _esse, ostensum, dicendum, intelligere, dicens, fieri, factum, facere, facta, habere_
+* `Imp` (1239; 4% of non-empty `Mood`): _nolite, vade, fac, cura, surge, videte, noli, ite, dic, da_
+* `Ind` (22072; 77% of non-empty `Mood`): _est, sunt, dixit, erat, ait, erant, sum, dicit, fuit, venit_
+* `Sub` (5440; 19% of non-empty `Mood`): _esset, sit, velim, essent, sint, fuerit, posset, possent, fiat, possit_
+* `EMPTY` (11682): _esse, dicens, factum, dicentes, facta, facere, respondens, fieri, posse, scriptum_
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>eram</i></td><td></td><td><i>essem</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>eras</i></td><td></td><td><i>esses</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>erat</i></td><td></td><td><i>esset</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>erat</i></td><td></td><td><i>esset</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>eramus</i></td><td></td><td><i>essemus</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><i>essetis</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><i>erant</i></td><td></td><td><i>essent</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>erant</i></td><td></td><td><i>essent</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuero</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fui</i></td><td></td><td><i>fuerim</i></td></tr>
@@ -214,14 +202,12 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuisti</i></td><td></td><td><i>fueris</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuerit</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuit</i></td><td></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fuerat</i></td><td></td><td><i>fuisset</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuerimus</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuimus</i></td><td></td><td><i>fuerimus</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuimus</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fueritis</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuistis</i></td><td></td><td><i>fueritis</i></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuerint</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuerunt</i></td><td></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fuerant</i></td><td></td><td><i>fuissent</i></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>ero</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fueram</i></td><td></td><td><i>fuissem</i></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sum</i></td><td></td><td><i>sim</i></td></tr>
@@ -242,53 +228,11 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sunt</i></td><td></td><td><i>sint</i></td></tr>
 </table>
 
-### `AUX`
-
-1180 [la-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1180; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1180; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1174; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1115; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1038; 88%).
-
-`AUX` tokens may have the following values of `Mood`:
-
-* `Ind` (1070; 91% of non-empty `Mood`): _est, sunt, fuit, fuerunt, fuerit, erit, fuerat, sum, sumus, erunt_
-* `Sub` (110; 9% of non-empty `Mood`): _sit, sint, fuerit, fuisset, essent, esset, fuerint, fuissent_
-* `EMPTY` (50): _esse, fuisse, fore_
-
-<table>
-  <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td><i>esset</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td><i>essent</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuerit</i></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuit</i></td><td><i>fuerit</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><i>fuerat</i></td><td><i>fuisset</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>fuerint</i></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><i>fuerunt</i></td><td><i>fuerint</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td></td><td><i>fuissent</i></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sum</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>es</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>erit</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>est</i></td><td><i>sit</i></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sumus</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><i>erunt</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><i>sunt</i></td><td><i>sint</i></td></tr>
-</table>
-
-### `X`
-
-1 [la-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Mood`:
-
-* `Sub` (1; 100% of non-empty `Mood`): _conlubuissent_
-* `EMPTY` (1079): _metaph., physic., cap., gen., sap., c, metaphys., dist., div., nom._
-
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (5157; 85%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (286; 78%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (6; 55%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2997; 86%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (231; 77%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (147; 61%),
+<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (6; 55%).
 

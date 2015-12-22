@@ -96,12 +96,12 @@ The following 4 pairs of parts of speech are connected with `auxpass`: [la-pos/V
 This relation is universal.
 There are 1 language-specific subtypes of `auxpass`: [auxpass:reflex]().
 
-1723 nodes (1%) are attached to their parents as `auxpass`.
+1211 nodes (0%) are attached to their parents as `auxpass`.
 
-1353 instances of `auxpass` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23389437028439.
+936 instances of `auxpass` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18662262592898.
 
-The following 10 pairs of parts of speech are connected with `auxpass`: [la-pos/VERB]()-[la-pos/AUX]() (1195; 69% instances), [la-pos/VERB]()-[la-pos/VERB]() (507; 29% instances), [la-pos/ADJ]()-[la-pos/AUX]() (8; 0% instances), [la-pos/NOUN]()-[la-pos/AUX]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (2; 0% instances), [la-pos/NUM]()-[la-pos/AUX]() (1; 0% instances), [la-pos/PRON]()-[la-pos/AUX]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `auxpass`: [la-pos/VERB]()-[la-pos/AUX]() (1195; 99% instances), [la-pos/ADJ]()-[la-pos/AUX]() (8; 1% instances), [la-pos/NOUN]()-[la-pos/AUX]() (5; 0% instances), [la-pos/NUM]()-[la-pos/AUX]() (1; 0% instances), [la-pos/PRON]()-[la-pos/AUX]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -124,25 +124,6 @@ The following 10 pairs of parts of speech are connected with `auxpass`: [la-pos/
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 auxpass	color:blue
-1	Haec	hic1	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	_
-2	ubi	ubi1	SCONJ	c--------	_	4	mark	_	_
-3	dicta	dictum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	dobj	_	_
-4	dedit	dedo1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
-5	,	comma1	PUNCT	u--------	_	4	punct	_	_
-6	talem	talis1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
-7	fabulam	fabula1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	dobj	_	_
-8	exorsus	exordior1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-9	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	auxpass	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -156,6 +137,27 @@ The following 10 pairs of parts of speech are connected with `auxpass`: [la-pos/
 6	ex	e	ADP	S4|vgr2	AdpType=Prep	7	case	_	_
 7	me	ego	PRON	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	1	nmod	_	_
 8	.	.	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 auxpass	color:blue
+1	unde	unde	ADV	O4	_	3	cc	_	_
+2	et	et	CONJ	O4	_	3	advmod:emph	_	_
+3	chiliastae	chiliasta	NOUN	A1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
+4	(	(	PUNCT	Punc	_	6	punct	_	_
+5	quasi	quasi	ADV	O4	_	6	advmod:emph	_	_
+6	millenarii	millenarius	ADJ	B1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	conj	_	_
+7	)	)	PUNCT	Punc	_	6	punct	_	_
+8	,	,	PUNCT	Punc	_	3	punct	_	_
+9	sunt	sum	AUX	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	auxpass	_	_
+10	appellati	appello	VERB	J2|modM|tem4|grp1|casJ|gen1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	cop	_	_
+11	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -167,68 +169,27 @@ The following 10 pairs of parts of speech are connected with `auxpass`: [la-pos/
 ## Treebank Statistics (UD_Latin-PROIEL)
 
 This relation is universal.
-There are 1 language-specific subtypes of `auxpass`: [auxpass:reflex]().
 
-3804 nodes (2%) are attached to their parents as `auxpass`.
+2081 nodes (1%) are attached to their parents as `auxpass`.
 
-3105 instances of `auxpass` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18322818086225.
+1752 instances of `auxpass` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14127823161941.
 
-The following 10 pairs of parts of speech are connected with `auxpass`: [la-pos/VERB]()-[la-pos/VERB]() (2588; 68% instances), [la-pos/VERB]()-[la-pos/AUX]() (1195; 31% instances), [la-pos/ADJ]()-[la-pos/AUX]() (8; 0% instances), [la-pos/NOUN]()-[la-pos/AUX]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (2; 0% instances), [la-pos/NUM]()-[la-pos/AUX]() (1; 0% instances), [la-pos/PRON]()-[la-pos/AUX]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/VERB]()-[la-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 auxpass	color:blue
-1	Haec	hic1	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	amod	_	_
-2	ubi	ubi1	SCONJ	c--------	_	4	mark	_	_
-3	dicta	dictum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	dobj	_	_
-4	dedit	dedo1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
-5	,	comma1	PUNCT	u--------	_	4	punct	_	_
-6	talem	talis1	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
-7	fabulam	fabula1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	dobj	_	_
-8	exorsus	exordior1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-9	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	auxpass	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `auxpass`: [la-pos/VERB]()-[la-pos/VERB]() (2081; 100% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 auxpass	color:blue
-1	movet	moveo	VERB	K3|modA|tem1|gen6|vgr1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	enim	enim	ADV	O4	_	1	cc	_	_
-3	ipsum	ipse	PRON	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	1	dobj	_	_
-4	,	,	PUNCT	Punc	_	7	punct	_	_
-5	sicut	sicut	SCONJ	O4|vgr1	_	7	mark	_	_
-6	superius	superus	ADJ	C1|grn2|casG	Case=Loc|Degree=Cmp|Number=Sing	7	advmod	_	_
-7	dictum	dico	VERB	N2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	_
-8	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	auxpass	_	_
-9	.	.	PUNCT	Punc	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 auxpass	color:blue
-1	mirabilis	mirabilis	ADJ	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-2	facta	facio	VERB	N2|modM|tem4|grp1|casA|gen2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	cop	_	_
-3	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	auxpass	_	_
-4	scientia	scientia	NOUN	A1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	nsubjpass	_	_
-5	tua	tuus	DET	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	_
-6	ex	e	ADP	S4|vgr2	AdpType=Prep	7	case	_	_
-7	me	ego	PRON	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs	1	nmod	_	_
-8	.	.	PUNCT	Punc	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 auxpass	color:blue
+1	Acriter	acriter	ADV	Df	Degree=Pos	5	advmod	_	_
+2	in	in	ADP	R-	_	4	case	_	_
+3	eo	is	ADJ	Pd	Case=Abl|Gender=Masc,Neut|Number=Sing	4	nmod	_	_
+4	loco	locus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	nmod	_	_
+5	pugnatum	pugno	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	est	sum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	auxpass	_	_
 
 ~~~
 

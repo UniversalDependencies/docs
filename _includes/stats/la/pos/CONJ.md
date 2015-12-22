@@ -94,86 +94,87 @@ Children of `CONJ` nodes belong to 9 different parts of speech: [PUNCT]() (43; 2
 
 ## Treebank Statistics (UD_Latin-ITT)
 
-There are 79 `CONJ` lemmas (1%), 69 `CONJ` types (0%) and 17554 `CONJ` tokens (6%).
-Out of 14 observed tags, the rank of `CONJ` is: 7 in number of lemmas, 9 in number of types and 8 in number of tokens.
+There are 19 `CONJ` lemmas (1%), 20 `CONJ` types (0%) and 14013 `CONJ` tokens (5%).
+Out of 14 observed tags, the rank of `CONJ` is: 8 in number of lemmas, 12 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: _et, autem, sed, et1, vel, que1, nec, neque, aut, atque1_
+The 10 most frequent `CONJ` lemmas: _et, autem, sed, vel, nec, neque, aut, sive, ac, tum_
 
-The 10 most frequent `CONJ` types:  _et, autem, sed, vel, que, nec, aut, neque, atque, sive_
+The 10 most frequent `CONJ` types:  _et, autem, sed, vel, nec, neque, aut, sive, ac, seu_
 
-The 10 most frequent ambiguous lemmas: _et_ ([CONJ]() 6471, [ADV]() 1, [ADP]() 1), _sed_ ([CONJ]() 2134, [ADV]() 1, [SCONJ]() 1), _et1_ ([CONJ]() 1470, [ADV]() 18), _vel_ ([CONJ]() 1160, [ADV]() 1, [SCONJ]() 1), _que1_ ([CONJ]() 641, [X]() 10, [SCONJ]() 1), _nec_ ([CONJ]() 483, [ADV]() 8), _neque_ ([CONJ]() 360, [SCONJ]() 1), _aut_ ([CONJ]() 274, [SCONJ]() 1), _atque1_ ([CONJ]() 237, [ADV]() 1, [SCONJ]() 1), _autem1_ ([CONJ]() 47, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: _et_ ([CONJ]() 6287, [ADV]() 1, [ADP]() 1), _sed_ ([CONJ]() 2121, [ADV]() 1, [SCONJ]() 1), _vel_ ([CONJ]() 1151, [SCONJ]() 1), _nec_ ([CONJ]() 483, [ADV]() 8), _neque_ ([CONJ]() 333, [SCONJ]() 1), _aut_ ([CONJ]() 252, [SCONJ]() 1), _tum_ ([CONJ]() 25, [ADV]() 13), _quam_ ([SCONJ]() 395, [CONJ]() 16, [ADP]() 1, [X]() 1), _quamvis_ ([SCONJ]() 144, [CONJ]() 1, [ADV]() 1), _scilicet_ ([ADV]() 352, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  _et_ ([CONJ]() 7860, [ADV]() 19, [ADP]() 1), _autem_ ([CONJ]() 3193, [SCONJ]() 1), _sed_ ([CONJ]() 2292, [ADV]() 1, [SCONJ]() 1), _vel_ ([CONJ]() 1167, [ADV]() 6, [SCONJ]() 1), _que_ ([CONJ]() 604, [X]() 1, [SCONJ]() 1), _nec_ ([CONJ]() 493, [ADV]() 8), _aut_ ([CONJ]() 354, [SCONJ]() 1), _neque_ ([CONJ]() 339, [SCONJ]() 1), _sive_ ([CONJ]() 135, [SCONJ]() 1), _ac_ ([CONJ]() 119, [ADV]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  _et_ ([CONJ]() 6287, [ADV]() 1, [ADP]() 1), _sed_ ([CONJ]() 2121, [ADV]() 1, [SCONJ]() 1), _vel_ ([CONJ]() 1151, [SCONJ]() 1), _nec_ ([CONJ]() 483, [ADV]() 8), _neque_ ([CONJ]() 333, [SCONJ]() 1), _aut_ ([CONJ]() 252, [SCONJ]() 1), _tum_ ([CONJ]() 25, [ADV]() 13), _quam_ ([SCONJ]() 395, [PRON]() 349, [CONJ]() 16, [ADP]() 1, [X]() 1), _quamvis_ ([SCONJ]() 144, [CONJ]() 1, [ADV]() 1), _scilicet_ ([ADV]() 352, [CONJ]() 1)
 
 
 * _et_
-  * [CONJ]() 7860: _Eamus in forum <b>et</b> pecunias mutuemur_
-  * [ADV]() 19: _Faciatur , si tibi videtur , <b>et</b> triclinia_
+  * [CONJ]() 6287: _nam primo <b>et</b> per se intellectus movet voluntatem :_
+  * [ADV]() 1: _si autem non simul moveant , quilibet eorum est quandoque movens <b>et</b> quandoque non ._
   * [ADP]() 1: _sed potentia activa ponit formam suam circa objectum , sicut patet de intellectu agente <b>et</b> possibili ._
-* _autem_
-  * [CONJ]() 3193: _scitis <b>autem</b> , in angustiis amici apparent_
-  * [SCONJ]() 1: _memor esto itaque unde excideris et age paenitentiam et prima opera fac sin <b>autem</b> venio tibi et movebo candelabrum tuum de loco suo nisi paenitentiam egeris_
 * _sed_
-  * [CONJ]() 2292: _Puerum basiavi frugalissimum , non propter formal , <b>sed</b> quia frugi est_
+  * [CONJ]() 2121: _non enim est circa necessaria , <b>sed</b> circa contingentia operabilia ._
   * [ADV]() 1: _ad primum igitur dicendum , quia particulare significat compositum ex materia et forma demonstrata , sed universale in substantiis compositis significat etiam compositum ex materia et forma , <b>sed</b> non demonstrata , sicut homo ex anima et carne et osse , non tamen ex his carnibus et ex his ossibus ._
   * [SCONJ]() 1: _ostensum est autem quod deus non considerat unum post aliud quasi successive , <b>sed</b> simul omnia ._
 * _vel_
-  * [CONJ]() 1167: _<b>vel</b> pace <b>vel</b> bello clarum fieri licet_
-  * [ADV]() 6: _hi <b>vel</b> aetate <b>vel</b> curae similitudine patres appellabantur_
+  * [CONJ]() 1151: _<b>vel</b> materia erit principium distinctionis formarum ;_
   * [SCONJ]() 1: _unde manifestum est quod ea quae moventur vel operantur tantum , sine hoc quod moveant <b>vel</b> faciant , tendunt in divinam similitudinem quantum ad hoc quod sint in seipsis perfecta ;_
-* _que_
-  * [CONJ]() 604: _Intravit factio statim <b>que</b> hastis scuta concrepuit_
-  * [X]() 1: _Non ego nunc Hadriae vereor mare noscere tecum , Tulle , <b>que</b> ne Aegaeo ducere vela salo , cum quo Rhipaeos possim conscendere montis ulteriusque domos vadere Memnonias_
-  * [SCONJ]() 1: _Puer autem lippus , sordidissimis dentibus , catellam nigram atque indecenter pinguem prasina involvebat fascia <b>que</b> panem semissem ponebat super torum atque [ hac ] nausea recusantem saginabat_
 * _nec_
-  * [CONJ]() 493: _Nam nil amisi <b>nec</b> sum laesus vulnere ._
+  * [CONJ]() 483: _ex hoc autem apparet quod <b>nec</b> divitiae sunt summum hominis bonum ._
   * [ADV]() 8: _et sic <b>nec</b> quod in perpetuo tempore moveat ._
-* _aut_
-  * [CONJ]() 354: _Ergo <b>aut</b> tace <b>aut</b> meliorem noli molestare , qui te natum non putat_
-  * [SCONJ]() 1: _quamvis autem divina voluntas ad sua causata non determinetur , non tamen oportet dicere quod nihil eorum velit , <b>aut</b> quod ad volendum ab aliquo exteriori determinetur ._
 * _neque_
-  * [CONJ]() 339: _<b>neque</b> igitur in actu prudentiae ._
+  * [CONJ]() 333: _<b>neque</b> igitur in actu prudentiae ._
   * [SCONJ]() 1: _quod enim non sit unus omnium intellectus possibilis <b>neque</b> agens , iam supra ostensum est ._
-* _sive_
-  * [CONJ]() 135: _<b>sive</b> sit unum , <b>sive</b> plura media ._
-  * [SCONJ]() 1: _<b>sive</b> dies seu nox venerit , illa mea est_
-* _ac_
-  * [CONJ]() 119: _Est statio separata <b>ac</b> diversum genus ;_
-  * [ADV]() 1: _Petreius ubi videt Catilinam , contra <b>ac</b> ratus erat , magna vi tendere , cohortem praetoriam in medios hostis inducit que eos perturbatos atque alios alibi resistentis interficit_
-  * [SCONJ]() 1: _sed ratio que ordo agminis aliter se habebat <b>ac</b> Belgae ad Nervios detulerant_
+* _aut_
+  * [CONJ]() 252: _<b>aut</b> ergo illud movens movetur , <b>aut</b> non ._
+  * [SCONJ]() 1: _quamvis autem divina voluntas ad sua causata non determinetur , non tamen oportet dicere quod nihil eorum velit , <b>aut</b> quod ad volendum ab aliquo exteriori determinetur ._
+* _tum_
+  * [CONJ]() 25: _<b>tum</b> etiam propter multa quae praeexiguntur , ut dictum est ._
+  * [ADV]() 13: _<b>tum</b> etiam quia deus , qui est institutor naturae , non subtrahit rebus id quod est proprium naturis earum ;_
+* _quam_
+  * [SCONJ]() 395: _voluntas est superior <b>quam</b> appetitus sensitivus :_
+  * [PRON]() 349: _est enim huiusmodi cognitio per <b>quam</b> res cognoscitur in potentia tantum ;_
+  * [CONJ]() 16: _ostensum est enim supra quod tam ens actu , <b>quam</b> ens in potentia , est bonum ._
+  * [ADP]() 1: _magis igitur addit ad bonitatem universi multitudo specierum <b>quam</b> multitudo individuorum in una specie ._
+  * [X]() 1: _quod tam de corpore circulari <b>quam</b> de recto probatur in i caeli et mundi ._
+* _quamvis_
+  * [SCONJ]() 144: _sic autem statua est homogenea , <b>quamvis</b> non secundum formam artificialem ._
+  * [CONJ]() 1: _respondeo dicendum , quod dicta assignatio apostoli est recta et propria definitio fidei quantum ad ea quae exiguntur ad definitionem , <b>quamvis</b> non quantum ad modum definitionis , quam auctores , et etiam philosophi , neglexerunt , sicut etiam et formam syllogismi praetermittunt ponentes ea ex quibus syllogismus formari potest ._
+  * [ADV]() 1: _et quoniam praelatio secundum suam formam semper a deo est ( quod debitum obedientiae causat ) ; ideo talibus praelatis , <b>quamvis</b> indignis , obedire tenentur subditi ._
+* _scilicet_
+  * [ADV]() 352: _sed omnium corporum est una forma , <b>scilicet</b> corporeitas ._
+  * [CONJ]() 1: _dicit ergo quod intellectus qui est secundum potentiam , <b>scilicet</b> possibilis , prout est in potentia , prior est tempore quam intellectus in actu : et hoc dico in uno et eodem ._
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 0.873418 (the average of all parts of speech is 2.318731).
+The form / lemma ratio of `CONJ` is 1.052632 (the average of all parts of speech is 3.609102).
 
-The 1st highest number of forms (4) was observed with the lemma “que1”: _c, que, ulteriusque, ve_
+The 1st highest number of forms (2) was observed with the lemma “sive”: _seu, sive_
 
-The 2nd highest number of forms (3) was observed with the lemma “atque”: _ac, atqie, atque_
+The 2nd highest number of forms (1) was observed with the lemma “ac”: _ac_
 
-The 3rd highest number of forms (3) was observed with the lemma “atque1”: _[ac], ac, atque_
+The 3rd highest number of forms (1) was observed with the lemma “at”: _at_
 
 `CONJ` does not occur with any features.
 
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 14 different relations: [la-dep/cc]() (15389; 88% instances), [la-dep/advmod]() (993; 6% instances), [la-dep/root]() (587; 3% instances), [la-dep/advmod:emph]() (507; 3% instances), [la-dep/neg]() (20; 0% instances), [la-dep/punct]() (20; 0% instances), [la-dep/case]() (16; 0% instances), [la-dep/conj]() (10; 0% instances), [la-dep/cop]() (3; 0% instances), [la-dep/dep]() (3; 0% instances), [la-dep/amod]() (2; 0% instances), [la-dep/appos]() (2; 0% instances), [la-dep/nmod]() (1; 0% instances), [la-dep/nsubj]() (1; 0% instances)
+`CONJ` nodes are attached to their parents using 7 different relations: [la-dep/cc]() (12913; 92% instances), [la-dep/root]() (584; 4% instances), [la-dep/advmod:emph]() (507; 4% instances), [la-dep/cop]() (3; 0% instances), [la-dep/appos]() (2; 0% instances), [la-dep/dep]() (2; 0% instances), [la-dep/punct]() (2; 0% instances)
 
-Parents of `CONJ` nodes belong to 15 different parts of speech: [VERB]() (8688; 49% instances), [NOUN]() (5183; 30% instances), [ADJ]() (1950; 11% instances), [ROOT]() (587; 3% instances), [PRON]() (464; 3% instances), [ADV]() (263; 1% instances), [CONJ]() (188; 1% instances), [NUM]() (154; 1% instances), [X]() (26; 0% instances), [DET]() (25; 0% instances), [PUNCT]() (12; 0% instances), [ADP]() (8; 0% instances), [INTJ]() (3; 0% instances), [AUX]() (2; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `CONJ` nodes belong to 13 different parts of speech: [VERB]() (6502; 46% instances), [NOUN]() (4250; 30% instances), [ADJ]() (1668; 12% instances), [ROOT]() (584; 4% instances), [PRON]() (411; 3% instances), [ADV]() (208; 1% instances), [CONJ]() (178; 1% instances), [NUM]() (146; 1% instances), [DET]() (25; 0% instances), [X]() (24; 0% instances), [PUNCT]() (8; 0% instances), [ADP]() (7; 0% instances), [AUX]() (2; 0% instances)
 
-15841 (90%) `CONJ` nodes are leaves.
+12380 (88%) `CONJ` nodes are leaves.
 
-202 (1%) `CONJ` nodes have one child.
+169 (1%) `CONJ` nodes have one child.
 
-703 (4%) `CONJ` nodes have two children.
+672 (5%) `CONJ` nodes have two children.
 
-808 (5%) `CONJ` nodes have three or more children.
+792 (6%) `CONJ` nodes have three or more children.
 
 The highest child degree of a `CONJ` node is 16.
 
-Children of `CONJ` nodes are attached using 20 different relations: [la-dep/punct]() (1669; 37% instances), [la-dep/nmod]() (750; 17% instances), [la-dep/parataxis]() (506; 11% instances), [la-dep/advcl]() (275; 6% instances), [la-dep/dep]() (261; 6% instances), [la-dep/neg]() (261; 6% instances), [la-dep/cc]() (211; 5% instances), [la-dep/dobj]() (147; 3% instances), [la-dep/advmod]() (102; 2% instances), [la-dep/csubj]() (101; 2% instances), [la-dep/ccomp]() (54; 1% instances), [la-dep/mark]() (35; 1% instances), [la-dep/acl]() (25; 1% instances), [la-dep/nsubj]() (25; 1% instances), [la-dep/conj]() (19; 0% instances), [la-dep/amod]() (12; 0% instances), [la-dep/advmod:emph]() (4; 0% instances), [la-dep/case]() (4; 0% instances), [la-dep/xcomp]() (3; 0% instances), [la-dep/nummod]() (1; 0% instances)
+Children of `CONJ` nodes are attached using 18 different relations: [la-dep/punct]() (1627; 38% instances), [la-dep/nmod]() (737; 17% instances), [la-dep/parataxis]() (506; 12% instances), [la-dep/dep]() (261; 6% instances), [la-dep/neg]() (261; 6% instances), [la-dep/advcl]() (256; 6% instances), [la-dep/cc]() (208; 5% instances), [la-dep/dobj]() (138; 3% instances), [la-dep/csubj]() (101; 2% instances), [la-dep/advmod]() (74; 2% instances), [la-dep/ccomp]() (54; 1% instances), [la-dep/mark]() (31; 1% instances), [la-dep/acl]() (25; 1% instances), [la-dep/nsubj]() (13; 0% instances), [la-dep/amod]() (8; 0% instances), [la-dep/advmod:emph]() (4; 0% instances), [la-dep/case]() (2; 0% instances), [la-dep/nummod]() (1; 0% instances)
 
-Children of `CONJ` nodes belong to 12 different parts of speech: [PUNCT]() (1665; 37% instances), [NOUN]() (1009; 23% instances), [VERB]() (784; 18% instances), [ADV]() (330; 7% instances), [PRON]() (238; 5% instances), [CONJ]() (188; 4% instances), [ADJ]() (180; 4% instances), [SCONJ]() (35; 1% instances), [NUM]() (18; 0% instances), [X]() (10; 0% instances), [ADP]() (6; 0% instances), [DET]() (2; 0% instances)
+Children of `CONJ` nodes belong to 12 different parts of speech: [PUNCT]() (1622; 38% instances), [NOUN]() (976; 23% instances), [VERB]() (746; 17% instances), [ADV]() (314; 7% instances), [PRON]() (235; 5% instances), [CONJ]() (178; 4% instances), [ADJ]() (171; 4% instances), [SCONJ]() (31; 1% instances), [NUM]() (18; 0% instances), [X]() (10; 0% instances), [ADP]() (4; 0% instances), [DET]() (2; 0% instances)
 
 
 
@@ -181,87 +182,75 @@ Children of `CONJ` nodes belong to 12 different parts of speech: [PUNCT]() (1665
 
 ## Treebank Statistics (UD_Latin-PROIEL)
 
-There are 81 `CONJ` lemmas (1%), 74 `CONJ` types (0%) and 29535 `CONJ` tokens (6%).
-Out of 15 observed tags, the rank of `CONJ` is: 10 in number of lemmas, 11 in number of types and 8 in number of tokens.
+There are 12 `CONJ` lemmas (0%), 19 `CONJ` types (0%) and 11981 `CONJ` tokens (7%).
+Out of 13 observed tags, the rank of `CONJ` is: 12 in number of lemmas, 12 in number of types and 7 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: _et, autem, sed, et1, que, vel, aut, que1, atque, nec_
+The 10 most frequent `CONJ` lemmas: _et, que, sed, atque, aut, vel, sive, an, ve, ac_
 
-The 10 most frequent `CONJ` types:  _et, autem, sed, que, vel, aut, nec, atque, ac, neque_
+The 10 most frequent `CONJ` types:  _et, que, sed, aut, atque, ac, c, uel, vel, an_
 
-The 10 most frequent ambiguous lemmas: _et_ ([CONJ]() 15022, [ADV]() 503, [ADP]() 1), _autem_ ([CONJ]() 3146, [ADV]() 1731), _sed_ ([CONJ]() 2935, [ADV]() 1, [SCONJ]() 1), _et1_ ([CONJ]() 1470, [ADV]() 18), _vel_ ([CONJ]() 1290, [ADV]() 7, [SCONJ]() 1), _aut_ ([CONJ]() 678, [SCONJ]() 1), _que1_ ([CONJ]() 641, [X]() 10, [SCONJ]() 1), _atque_ ([CONJ]() 629, [ADV]() 15), _nec_ ([CONJ]() 483, [ADV]() 8), _neque_ ([CONJ]() 360, [ADV]() 63, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: _et_ ([CONJ]() 8551, [ADV]() 502), _atque_ ([CONJ]() 582, [ADV]() 15), _vel_ ([CONJ]() 130, [ADV]() 6), _an_ ([CONJ]() 47, [ADV]() 10, [SCONJ]() 3), _simul_ ([ADV]() 52, [SCONJ]() 6, [CONJ]() 1)
 
-The 10 most frequent ambiguous types:  _et_ ([CONJ]() 16323, [ADV]() 521, [ADP]() 1), _autem_ ([CONJ]() 3193, [ADV]() 1731, [SCONJ]() 1), _sed_ ([CONJ]() 3078, [ADV]() 1, [SCONJ]() 1), _que_ ([CONJ]() 1803, [PRON]() 5, [X]() 1, [SCONJ]() 1), _vel_ ([CONJ]() 1228, [ADV]() 12, [SCONJ]() 1), _aut_ ([CONJ]() 757, [SCONJ]() 1), _nec_ ([CONJ]() 493, [ADV]() 52), _atque_ ([CONJ]() 489, [ADV]() 9), _ac_ ([CONJ]() 347, [ADV]() 7, [SCONJ]() 1), _neque_ ([CONJ]() 339, [ADV]() 19, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  _et_ ([CONJ]() 8463, [ADV]() 502), _que_ ([CONJ]() 1199, [PRON]() 5), _atque_ ([CONJ]() 305, [ADV]() 9), _ac_ ([CONJ]() 228, [ADV]() 6), _vel_ ([CONJ]() 61, [ADV]() 6), _an_ ([CONJ]() 47, [ADV]() 10, [SCONJ]() 3), _hac_ ([ADJ]() 49, [CONJ]() 1), _simul_ ([ADV]() 49, [SCONJ]() 6, [CONJ]() 1)
 
 
 * _et_
-  * [CONJ]() 16323: _Eamus in forum <b>et</b> pecunias mutuemur_
-  * [ADV]() 521: _Faciatur , si tibi videtur , <b>et</b> triclinia_
-  * [ADP]() 1: _sed potentia activa ponit formam suam circa objectum , sicut patet de intellectu agente <b>et</b> possibili ._
-* _autem_
-  * [CONJ]() 3193: _scitis <b>autem</b> , in angustiis amici apparent_
-  * [ADV]() 1731: _ego <b>autem</b> ipse di boni quo.modo ἐνεπερπερευσάμην novo auditori Pompeio_
-  * [SCONJ]() 1: _memor esto itaque unde excideris et age paenitentiam et prima opera fac sin <b>autem</b> venio tibi et movebo candelabrum tuum de loco suo nisi paenitentiam egeris_
-* _sed_
-  * [CONJ]() 3078: _Puerum basiavi frugalissimum , non propter formal , <b>sed</b> quia frugi est_
-  * [ADV]() 1: _ad primum igitur dicendum , quia particulare significat compositum ex materia et forma demonstrata , sed universale in substantiis compositis significat etiam compositum ex materia et forma , <b>sed</b> non demonstrata , sicut homo ex anima et carne et osse , non tamen ex his carnibus et ex his ossibus ._
-  * [SCONJ]() 1: _ostensum est autem quod deus non considerat unum post aliud quasi successive , <b>sed</b> simul omnia ._
+  * [CONJ]() 8463: _velle sese de re publica <b>et</b> summis utriusque rebus cum eo agere_
+  * [ADV]() 502: _biduo per unum servum <b>et</b> eum ex ludo gladiatorio confecit totum negotium_
 * _que_
-  * [CONJ]() 1803: _Intravit factio statim <b>que</b> hastis scuta concrepuit_
+  * [CONJ]() 1199: _Cum his Haeduos eorum <b>que</b> clientes semel atque iterum armis contendisse_
   * [PRON]() 5: _Nam et spelunca ubi latuit sanctus Helias in hodie ibi ostenditur ante hostium ecclesiae <b>que</b> ibi est_
-  * [X]() 1: _Non ego nunc Hadriae vereor mare noscere tecum , Tulle , <b>que</b> ne Aegaeo ducere vela salo , cum quo Rhipaeos possim conscendere montis ulteriusque domos vadere Memnonias_
-  * [SCONJ]() 1: _Puer autem lippus , sordidissimis dentibus , catellam nigram atque indecenter pinguem prasina involvebat fascia <b>que</b> panem semissem ponebat super torum atque [ hac ] nausea recusantem saginabat_
-* _vel_
-  * [CONJ]() 1228: _<b>vel</b> pace <b>vel</b> bello clarum fieri licet_
-  * [ADV]() 12: _hi <b>vel</b> aetate <b>vel</b> curae similitudine patres appellabantur_
-  * [SCONJ]() 1: _unde manifestum est quod ea quae moventur vel operantur tantum , sine hoc quod moveant <b>vel</b> faciant , tendunt in divinam similitudinem quantum ad hoc quod sint in seipsis perfecta ;_
-* _aut_
-  * [CONJ]() 757: _Ergo <b>aut</b> tace <b>aut</b> meliorem noli molestare , qui te natum non putat_
-  * [SCONJ]() 1: _quamvis autem divina voluntas ad sua causata non determinetur , non tamen oportet dicere quod nihil eorum velit , <b>aut</b> quod ad volendum ab aliquo exteriori determinetur ._
-* _nec_
-  * [CONJ]() 493: _Nam nil amisi <b>nec</b> sum laesus vulnere ._
-  * [ADV]() 52: _et sic <b>nec</b> quod in perpetuo tempore moveat ._
 * _atque_
-  * [CONJ]() 489: _Et tu cum esses capo , cocococo , <b>atque</b> cor non habebas_
+  * [CONJ]() 305: _Dicit liberius <b>atque</b> audacius_
   * [ADV]() 9: _Gallorum eadem <b>atque</b> Belgarum oppugnatio est haec_
 * _ac_
-  * [CONJ]() 347: _Est statio separata <b>ac</b> diversum genus ;_
-  * [ADV]() 7: _qui longe alia ratione <b>ac</b> reliqui Galli bellum gerere coeperunt_
-  * [SCONJ]() 1: _sed ratio que ordo agminis aliter se habebat <b>ac</b> Belgae ad Nervios detulerant_
-* _neque_
-  * [CONJ]() 339: _<b>neque</b> igitur in actu prudentiae ._
-  * [ADV]() 19: _<b>neque</b> enim ulla est quae non ipsa se saepiat difficultate abrogationis_
-  * [SCONJ]() 1: _quod enim non sit unus omnium intellectus possibilis <b>neque</b> agens , iam supra ostensum est ._
+  * [CONJ]() 228: _Quibus ita est interdictum hi numero impiorum <b>ac</b> sceleratorum habentur_
+  * [ADV]() 6: _qui longe alia ratione <b>ac</b> reliqui Galli bellum gerere coeperunt_
+* _vel_
+  * [CONJ]() 61: _quicumque dixerit patri <b>vel</b> matri_
+  * [ADV]() 6: _<b>vel</b> ipsi hoc dicas licet humanitatem ei meo iudicio illo die defuisse_
+* _an_
+  * [CONJ]() 47: _a filiis suis <b>an</b> ab alienis_
+  * [ADV]() 10: _<b>an</b> ne nummi vobis eriperentur timebatis_
+  * [SCONJ]() 3: _nam de ipso casu nescio <b>an</b> illud melius_
+* _hac_
+  * [ADJ]() 49: _Germani multum ab <b>hac</b> consuetudine differunt_
+  * [CONJ]() 1: _Lecto ergo ipso loco omni de libro Moysi et facta oblatione ordine suo <b>hac</b> sic communicantibus nobis iam ut exiremus de aecclesia dederunt nobis presbyteri loci ipsius eulogias id est de pomis quae in ipso monte nascuntur_
+* _simul_
+  * [ADV]() 49: _<b>simul</b> adiungetur huic operi villa etiam publica_
+  * [SCONJ]() 6: _<b>simul</b> et quid erit certi scribam ad te_
+  * [CONJ]() 1: _tum dispersos depositis armis in metendo occupatos subito adorti paucis interfectis reliquos incertis ordinibus perturbaverant <b>simul</b> equitatu atque essedis circumdederant_
 
 ## Morphology
 
-The form / lemma ratio of `CONJ` is 0.913580 (the average of all parts of speech is 2.665441).
+The form / lemma ratio of `CONJ` is 1.583333 (the average of all parts of speech is 3.304580).
 
-The 1st highest number of forms (4) was observed with the lemma “atque”: _Hac, ac, atqie, atque_
+The 1st highest number of forms (3) was observed with the lemma “atque”: _Hac, ac, atque_
 
-The 2nd highest number of forms (4) was observed with the lemma “que1”: _c, que, ulteriusque, ve_
+The 2nd highest number of forms (3) was observed with the lemma “sive”: _seu, siue, sive_
 
-The 3rd highest number of forms (3) was observed with the lemma “atque1”: _[ac], ac, atque_
+The 3rd highest number of forms (3) was observed with the lemma “ve”: _u, ue, ve_
 
 `CONJ` does not occur with any features.
 
 
 ## Relations
 
-`CONJ` nodes are attached to their parents using 17 different relations: [la-dep/cc]() (27282; 92% instances), [la-dep/advmod]() (997; 3% instances), [la-dep/root]() (649; 2% instances), [la-dep/advmod:emph]() (507; 2% instances), [la-dep/neg]() (20; 0% instances), [la-dep/punct]() (20; 0% instances), [la-dep/case]() (16; 0% instances), [la-dep/conj]() (12; 0% instances), [la-dep/remnant]() (9; 0% instances), [la-dep/ccomp]() (6; 0% instances), [la-dep/appos]() (4; 0% instances), [la-dep/amod]() (3; 0% instances), [la-dep/cop]() (3; 0% instances), [la-dep/dep]() (3; 0% instances), [la-dep/parataxis]() (2; 0% instances), [la-dep/nmod]() (1; 0% instances), [la-dep/nsubj]() (1; 0% instances)
+`CONJ` nodes are attached to their parents using 9 different relations: [la-dep/cc]() (11893; 99% instances), [la-dep/root]() (62; 1% instances), [la-dep/remnant]() (9; 0% instances), [la-dep/ccomp]() (6; 0% instances), [la-dep/advmod]() (4; 0% instances), [la-dep/appos]() (2; 0% instances), [la-dep/conj]() (2; 0% instances), [la-dep/parataxis]() (2; 0% instances), [la-dep/amod]() (1; 0% instances)
 
-Parents of `CONJ` nodes belong to 16 different parts of speech: [VERB]() (16396; 56% instances), [NOUN]() (7559; 26% instances), [ADJ]() (2646; 9% instances), [PRON]() (754; 3% instances), [ROOT]() (649; 2% instances), [PROPN]() (473; 2% instances), [ADV]() (436; 1% instances), [CONJ]() (197; 1% instances), [NUM]() (197; 1% instances), [SCONJ]() (122; 0% instances), [X]() (45; 0% instances), [DET]() (25; 0% instances), [PUNCT]() (12; 0% instances), [ADP]() (11; 0% instances), [INTJ]() (11; 0% instances), [AUX]() (2; 0% instances)
+Parents of `CONJ` nodes belong to 13 different parts of speech: [VERB]() (7708; 64% instances), [NOUN]() (2376; 20% instances), [ADJ]() (696; 6% instances), [PROPN]() (473; 4% instances), [PRON]() (290; 2% instances), [ADV]() (173; 1% instances), [SCONJ]() (121; 1% instances), [ROOT]() (62; 1% instances), [NUM]() (43; 0% instances), [X]() (19; 0% instances), [CONJ]() (9; 0% instances), [INTJ]() (8; 0% instances), [ADP]() (3; 0% instances)
 
-27741 (94%) `CONJ` nodes are leaves.
+11900 (99%) `CONJ` nodes are leaves.
 
-234 (1%) `CONJ` nodes have one child.
+32 (0%) `CONJ` nodes have one child.
 
-735 (2%) `CONJ` nodes have two children.
+32 (0%) `CONJ` nodes have two children.
 
-825 (3%) `CONJ` nodes have three or more children.
+17 (0%) `CONJ` nodes have three or more children.
 
-The highest child degree of a `CONJ` node is 16.
+The highest child degree of a `CONJ` node is 5.
 
-Children of `CONJ` nodes are attached using 24 different relations: [la-dep/punct]() (1669; 36% instances), [la-dep/nmod]() (762; 17% instances), [la-dep/parataxis]() (507; 11% instances), [la-dep/advcl]() (289; 6% instances), [la-dep/neg]() (262; 6% instances), [la-dep/dep]() (261; 6% instances), [la-dep/cc]() (213; 5% instances), [la-dep/dobj]() (168; 4% instances), [la-dep/advmod]() (126; 3% instances), [la-dep/csubj]() (101; 2% instances), [la-dep/nsubj]() (61; 1% instances), [la-dep/ccomp]() (54; 1% instances), [la-dep/mark]() (35; 1% instances), [la-dep/acl]() (25; 1% instances), [la-dep/conj]() (19; 0% instances), [la-dep/remnant]() (15; 0% instances), [la-dep/iobj]() (14; 0% instances), [la-dep/amod]() (12; 0% instances), [la-dep/vocative]() (8; 0% instances), [la-dep/advmod:emph]() (4; 0% instances), [la-dep/case]() (4; 0% instances), [la-dep/discourse]() (4; 0% instances), [la-dep/xcomp]() (3; 0% instances), [la-dep/nummod]() (1; 0% instances)
+Children of `CONJ` nodes are attached using 12 different relations: [la-dep/nsubj]() (36; 24% instances), [la-dep/advmod]() (24; 16% instances), [la-dep/dobj]() (21; 14% instances), [la-dep/remnant]() (15; 10% instances), [la-dep/advcl]() (14; 9% instances), [la-dep/iobj]() (14; 9% instances), [la-dep/nmod]() (12; 8% instances), [la-dep/vocative]() (8; 5% instances), [la-dep/discourse]() (4; 3% instances), [la-dep/cc]() (2; 1% instances), [la-dep/neg]() (1; 1% instances), [la-dep/parataxis]() (1; 1% instances)
 
-Children of `CONJ` nodes belong to 14 different parts of speech: [PUNCT]() (1665; 36% instances), [NOUN]() (1045; 23% instances), [VERB]() (802; 17% instances), [ADV]() (362; 8% instances), [PRON]() (250; 5% instances), [ADJ]() (206; 4% instances), [CONJ]() (197; 4% instances), [SCONJ]() (35; 1% instances), [NUM]() (18; 0% instances), [X]() (12; 0% instances), [INTJ]() (9; 0% instances), [PROPN]() (8; 0% instances), [ADP]() (6; 0% instances), [DET]() (2; 0% instances)
+Children of `CONJ` nodes belong to 9 different parts of speech: [NOUN]() (36; 24% instances), [ADV]() (32; 21% instances), [ADJ]() (26; 17% instances), [VERB]() (18; 12% instances), [PRON]() (12; 8% instances), [CONJ]() (9; 6% instances), [INTJ]() (9; 6% instances), [PROPN]() (8; 5% instances), [X]() (2; 1% instances)
 

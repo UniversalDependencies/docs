@@ -115,34 +115,30 @@ The following 4 pairs of parts of speech are connected with `appos`: [la-pos/NOU
 
 This relation is universal.
 
-292 nodes (0%) are attached to their parents as `appos`.
+271 nodes (0%) are attached to their parents as `appos`.
 
-289 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.59246575342466.
+271 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.7859778597786.
 
-The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NOUN]()-[la-pos/NOUN]() (121; 41% instances), [la-pos/PRON]()-[la-pos/NOUN]() (37; 13% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (18; 6% instances), [la-pos/NOUN]()-[la-pos/VERB]() (18; 6% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (14; 5% instances), [la-pos/NUM]()-[la-pos/NOUN]() (13; 4% instances), [la-pos/VERB]()-[la-pos/VERB]() (13; 4% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (12; 4% instances), [la-pos/VERB]()-[la-pos/NOUN]() (11; 4% instances), [la-pos/ADJ]()-[la-pos/VERB]() (7; 2% instances), [la-pos/NOUN]()-[la-pos/NUM]() (4; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (3; 1% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (2; 1% instances), [la-pos/DET]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (2; 1% instances), [la-pos/X]()-[la-pos/NOUN]() (2; 1% instances), [la-pos/ADV]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NOUN]()-[la-pos/NOUN]() (106; 39% instances), [la-pos/PRON]()-[la-pos/NOUN]() (35; 13% instances), [la-pos/NOUN]()-[la-pos/VERB]() (18; 7% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (16; 6% instances), [la-pos/NUM]()-[la-pos/NOUN]() (13; 5% instances), [la-pos/VERB]()-[la-pos/VERB]() (13; 5% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (12; 4% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (12; 4% instances), [la-pos/VERB]()-[la-pos/NOUN]() (11; 4% instances), [la-pos/ADJ]()-[la-pos/VERB]() (7; 3% instances), [la-pos/NOUN]()-[la-pos/NUM]() (4; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (3; 1% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (2; 1% instances), [la-pos/DET]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (2; 1% instances), [la-pos/NOUN]()-[la-pos/X]() (2; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (2; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (2; 1% instances), [la-pos/X]()-[la-pos/NOUN]() (2; 1% instances), [la-pos/ADV]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 appos	color:blue
-1	Atia	Atia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubjpass	_	_
-2	M.	Marcus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
-3	Atio	Atius	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
-4	Balbo	Balbus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	dobj	_	_
-5	et	et	CONJ	c--------	_	4	cc	_	_
-6	Iulia	Julia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	conj	_	_
-7	,	,	PUNCT	u--------	_	8	punct	_	_
-8	sorore	soror	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	appos	_	_
-9	C.	Caius	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-10	Caesaris	Caesar	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
-11	,	,	PUNCT	u--------	_	8	punct	_	_
-12	genita	gigno	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-13	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	auxpass	_	_
-14	.	.	PUNCT	u--------	_	13	punct	_	_
+# visual-style 6 9 appos	color:blue
+1	sed	sed	CONJ	O4|vgr1	_	3	cc	_	_
+2	omnium	omnis	DET	C1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|PronType=Ind	3	amod	_	_
+3	corporum	corpus	NOUN	C1|grn1|casK|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	_
+4	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	una	unus	NUM	F1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
+6	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
+7	,	,	PUNCT	Punc	_	9	punct	_	_
+8	scilicet	scilicet	ADV	O4	_	9	cc	_	_
+9	corporeitas	corporeitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	appos	_	_
+10	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -169,22 +165,28 @@ The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NO
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 7 appos	color:blue
-1	haec	hic	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
-2	autem	autem	CONJ	O4	_	1	cc	_	_
-3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-4	ratio	ratio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	nsubj	_	_
-5	communis	communis	ADJ	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-6	,	,	PUNCT	Punc	_	7	punct	_	_
-7	generis	genus	NOUN	C1|grn1|casB|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	appos	_	_
-8	scilicet	scilicet	ADV	O4	_	7	cc	_	_
-9	et	et	CONJ	O4	_	7	cc	_	_
-10	substantiae	substantia	NOUN	A1|grn1|casB|gen2|vgr1	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	_
-11	.	.	PUNCT	Punc	_	1	punct	_	_
+# visual-style 5 9 appos	color:blue
+1	forma	forma	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	enim	enim	ADV	O4	_	4	cc	_	_
+3	est	sum	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	generationis	generatio	NOUN	C1|grn1|casB|gen2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
+6	,	,	PUNCT	Punc	_	9	punct	_	_
+7	non	non	ADV	O4	_	9	neg	_	_
+8	ipsius	ipse	PRON	F1|grn1|casB|gen3	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	9	nmod	_	_
+9	generati	genero	VERB	J2|modM|tem4|grp1|casB|gen3	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	appos	_	_
+10	,	,	PUNCT	Punc	_	12	punct	_	_
+11	ut	ut	SCONJ	O4|vgr1	_	12	mark	_	_
+12	dicit	dico	VERB	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+13	commentator	commentator	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	nsubj	_	_
+14	in	in	ADP	S4	AdpType=Prep	16	case	_	_
+15	2	_	NUM	G5	NumForm=Digit	16	nummod	_	_
+16	phys.	_	X	5	Abbr=Yes	12	advmod	_	_
+17	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -197,12 +199,12 @@ The following 26 pairs of parts of speech are connected with `appos`: [la-pos/NO
 
 This relation is universal.
 
-2209 nodes (1%) are attached to their parents as `appos`.
+1917 nodes (1%) are attached to their parents as `appos`.
 
-1954 instances of `appos` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.57537347215935.
+1665 instances of `appos` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.26812728221179.
 
-The following 69 pairs of parts of speech are connected with `appos`: [la-pos/PROPN]()-[la-pos/NOUN]() (519; 23% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (404; 18% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (242; 11% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (156; 7% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (112; 5% instances), [la-pos/ADP]()-[la-pos/NOUN]() (92; 4% instances), [la-pos/PRON]()-[la-pos/NOUN]() (85; 4% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (68; 3% instances), [la-pos/PRON]()-[la-pos/ADJ]() (49; 2% instances), [la-pos/ADV]()-[la-pos/NOUN]() (45; 2% instances), [la-pos/ADP]()-[la-pos/PROPN]() (36; 2% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (31; 1% instances), [la-pos/NOUN]()-[la-pos/NUM]() (26; 1% instances), [la-pos/VERB]()-[la-pos/NOUN]() (26; 1% instances), [la-pos/ADV]()-[la-pos/ADV]() (24; 1% instances), [la-pos/PRON]()-[la-pos/PROPN]() (22; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (19; 1% instances), [la-pos/NOUN]()-[la-pos/VERB]() (18; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (17; 1% instances), [la-pos/NUM]()-[la-pos/NOUN]() (16; 1% instances), [la-pos/PRON]()-[la-pos/NUM]() (13; 1% instances), [la-pos/PROPN]()-[la-pos/NUM]() (13; 1% instances), [la-pos/VERB]()-[la-pos/VERB]() (13; 1% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (12; 1% instances), [la-pos/ADP]()-[la-pos/ADJ]() (10; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (9; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (9; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (9; 0% instances), [la-pos/X]()-[la-pos/X]() (9; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (8; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (7; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (7; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (5; 0% instances), [la-pos/ADP]()-[la-pos/ADV]() (4; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/ADV]()-[la-pos/SCONJ]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (3; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (3; 0% instances), [la-pos/PRON]()-[la-pos/VERB]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/ADP]()-[la-pos/ADP]() (2; 0% instances), [la-pos/DET]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/X]() (1; 0% instances), [la-pos/ADV]()-[la-pos/ADP]() (1; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NUM]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/NUM]()-[la-pos/VERB]() (1; 0% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/X]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/X]()-[la-pos/PRON]() (1; 0% instances), [la-pos/X]()-[la-pos/VERB]() (1; 0% instances).
+The following 59 pairs of parts of speech are connected with `appos`: [la-pos/PROPN]()-[la-pos/NOUN]() (519; 27% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (283; 15% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (242; 13% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (142; 7% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (112; 6% instances), [la-pos/ADP]()-[la-pos/NOUN]() (92; 5% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (50; 3% instances), [la-pos/PRON]()-[la-pos/NOUN]() (48; 3% instances), [la-pos/PRON]()-[la-pos/ADJ]() (47; 2% instances), [la-pos/ADV]()-[la-pos/NOUN]() (45; 2% instances), [la-pos/ADP]()-[la-pos/PROPN]() (36; 2% instances), [la-pos/ADV]()-[la-pos/ADV]() (24; 1% instances), [la-pos/NOUN]()-[la-pos/NUM]() (22; 1% instances), [la-pos/PRON]()-[la-pos/PROPN]() (22; 1% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (19; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (17; 1% instances), [la-pos/PRON]()-[la-pos/PRON]() (15; 1% instances), [la-pos/VERB]()-[la-pos/NOUN]() (15; 1% instances), [la-pos/PRON]()-[la-pos/NUM]() (13; 1% instances), [la-pos/PROPN]()-[la-pos/NUM]() (13; 1% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (12; 1% instances), [la-pos/ADP]()-[la-pos/ADJ]() (10; 1% instances), [la-pos/ADJ]()-[la-pos/PRON]() (9; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (9; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (9; 0% instances), [la-pos/X]()-[la-pos/X]() (9; 0% instances), [la-pos/ADP]()-[la-pos/PRON]() (7; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (7; 0% instances), [la-pos/VERB]()-[la-pos/ADJ]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/ADV]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/ADV]() (5; 0% instances), [la-pos/ADP]()-[la-pos/ADV]() (4; 0% instances), [la-pos/ADV]()-[la-pos/SCONJ]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/SCONJ]() (4; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/NOUN]()-[la-pos/X]() (3; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (3; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/ADP]()-[la-pos/ADP]() (2; 0% instances), [la-pos/NUM]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/ADJ]()-[la-pos/X]() (1; 0% instances), [la-pos/ADV]()-[la-pos/ADP]() (1; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (1; 0% instances), [la-pos/INTJ]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/CONJ]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NUM]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/PRON]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/ADV]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/X]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/SCONJ]() (1; 0% instances), [la-pos/X]()-[la-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -225,23 +227,18 @@ The following 69 pairs of parts of speech are connected with `appos`: [la-pos/PR
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 appos	color:blue
-1	Atia	Atia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubjpass	_	_
-2	M.	Marcus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
-3	Atio	Atius	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	4	nmod	_	_
-4	Balbo	Balbus2	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	12	dobj	_	_
-5	et	et	CONJ	c--------	_	4	cc	_	_
-6	Iulia	Julia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	conj	_	_
-7	,	,	PUNCT	u--------	_	8	punct	_	_
-8	sorore	soror	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	appos	_	_
-9	C.	Caius	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
-10	Caesaris	Caesar	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
-11	,	,	PUNCT	u--------	_	8	punct	_	_
-12	genita	gigno	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-13	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	auxpass	_	_
-14	.	.	PUNCT	u--------	_	13	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 appos	color:blue
+1	unus	unus	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	enim	enim	ADV	Df	_	1	discourse	_	_
+3	est	sum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	Pater	pater	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	vester	vester	PRON	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod	_	_
+6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	in	in	ADP	R-	_	8	case	_	_
+8	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	4	appos	_	_
+9	est	sum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 
 ~~~
 

@@ -206,23 +206,23 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-132169 tokens (51%) have a non-empty value of `Gender`.
-15508 types (67%) occur at least once with a non-empty value of `Gender`.
-7845 lemmas (79%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: [la-pos/NOUN]() (66622; 26% instances), [la-pos/PRON]() (28565; 11% instances), [la-pos/ADJ]() (21141; 8% instances), [la-pos/VERB]() (11146; 4% instances), [la-pos/DET]() (3364; 1% instances), [la-pos/NUM]() (1312; 1% instances), [la-pos/X]() (16; 0% instances), [la-pos/ADV]() (3; 0% instances).
+108765 tokens (42%) have a non-empty value of `Gender`.
+7861 types (65%) occur at least once with a non-empty value of `Gender`.
+2717 lemmas (81%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: [la-pos/NOUN]() (54483; 21% instances), [la-pos/PRON]() (24537; 9% instances), [la-pos/ADJ]() (16348; 6% instances), [la-pos/VERB]() (8760; 3% instances), [la-pos/DET]() (3364; 1% instances), [la-pos/NUM]() (1261; 0% instances), [la-pos/X]() (12; 0% instances).
 
 ### `NOUN`
 
-66622 [la-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+54483 [la-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (55366; 83%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (52939; 79%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (52939; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (46722; 86%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (35261; 53% of non-empty `Gender`): _forma, formam, formae, materia, potentia, anima, causa, substantia, res, rerum_
-* `Masc` (18207; 27% of non-empty `Gender`): _intellectus, deus, actu, deo, modo, actus, dei, finis, modum, motus_
-* `Neut` (13154; 20% of non-empty `Gender`): _esse, bonum, corpus, principium, corporis, agens, malum, accidens, corpore, ens_
-* `EMPTY` (287): _perfecte, numero, forte, iob, perfectius, diversimode, partim, perfectissime, parum, ly_
+* `Fem` (30480; 56% of non-empty `Gender`): _forma, formam, formae, materia, potentia, anima, causa, substantia, res, materiae_
+* `Masc` (13572; 25% of non-empty `Gender`): _intellectus, deus, actu, deo, modo, actus, finis, dei, modum, motus_
+* `Neut` (10431; 19% of non-empty `Gender`): _esse, bonum, corpus, principium, corporis, agens, malum, accidens, corpore, ens_
+* `EMPTY` (268): _perfecte, numero, forte, iob, perfectius, diversimode, partim, perfectissime, parum, ly_
 
 <table>
   <tr><th>Paradigm <i>perfectus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -246,49 +246,48 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing</tt></td><td><i>perfectissimus</i></td><td><i>perfectissima</i></td><td><i>perfectissimum</i></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (4284) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (1339) occur only with one value of `Gender`.
 
 ### `PRON`
 
-28565 [la-pos/PRON]() tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
+24537 [la-pos/PRON]() tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (24215; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (22182; 78%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (24215; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (19310; 79%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (8076; 28% of non-empty `Gender`): _quae, se, quam, aliqua, qua, ipsa, aliquam, illa, haec, quaedam_
-* `Masc` (7043; 25% of non-empty `Gender`): _qui, eius, se, ipse, nobis, quo, me, quem, ego, eo_
-* `Neut` (13446; 47% of non-empty `Gender`): _quod, hoc, quae, aliquid, se, nihil, quo, illud, id, ipsum_
-* `EMPTY` (201): _aliter, hinc, alias, qualiter, quantumcumque, aliquot, nihil, tot, qua, qualitercumque_
+* `Fem` (7304; 30% of non-empty `Gender`): _quae, se, quam, aliqua, qua, aliquam, ipsa, quaedam, haec, alia_
+* `Masc` (4537; 18% of non-empty `Gender`): _qui, eius, se, ipse, nobis, quo, ipso, eo, ipsum, aliquis_
+* `Neut` (12696; 52% of non-empty `Gender`): _quod, hoc, quae, aliquid, se, nihil, quo, illud, ipsum, aliud_
+* `EMPTY` (193): _aliter, hinc, alias, qualiter, quantumcumque, nihil, tot, qualitercumque, quot, illuc_
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quo</i></td><td><i>qua</i></td><td><i>quo</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quibus</i></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quem</i></td><td><i>quam</i></td><td><i>quod, quid</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quos</i></td><td><i>quas, quae</i></td><td><i>quae</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>cui</i></td><td><i>cui</i></td><td><i>cui</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quibus</i></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>cuius, cujus</i></td><td><i>cuius, cujus</i></td><td><i>cuius, cujus, quod</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quorum</i></td><td><i>quarum, quorum</i></td><td><i>quorum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><i>quoius</i></td><td></td><td><i>quoius</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>qui, quis, quod</i></td><td><i>quae, qua</i></td><td><i>quod, quid, qui</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>qui</i></td><td><i>quae</i></td><td><i>quae, qua</i></td></tr>
-  <tr><td><tt><a href="Degree.html">Degree</a>=Pos|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><i>quae</i></td><td><i>quae</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td><i>quo</i></td><td><i>qua</i></td><td><i>quo</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur</tt></td><td><i>quibus</i></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>quem</i></td><td><i>quam</i></td><td><i>quod, quid</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><i>quos</i></td><td><i>quas, quae</i></td><td><i>quae</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>cui</i></td><td><i>cui</i></td><td><i>cui</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><i>quibus</i></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><i>cuius, cujus</i></td><td><i>cuius, cujus</i></td><td><i>cuius, cujus, quod</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><i>quorum</i></td><td><i>quarum, quorum</i></td><td><i>quorum</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>qui, quis, quod</i></td><td><i>quae, qua</i></td><td><i>quod, quid, qui</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><i>qui</i></td><td><i>quae</i></td><td><i>quae, qua</i></td></tr>
+  <tr><td><tt></tt></td><td></td><td><i>quae</i></td><td><i>quae</i></td></tr>
 </table>
 
 ### `ADJ`
 
-21141 [la-pos/ADJ]() tokens (86% of all `ADJ` tokens) have a non-empty value of `Gender`.
+16348 [la-pos/ADJ]() tokens (83% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (15339; 73%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (14748; 70%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (14745; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (12261; 75%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (8457; 40% of non-empty `Gender`): _divina, prima, substantialis, divinae, intellectualis, humana, propria, intelligibiles, divinam, propriam_
-* `Masc` (4719; 22% of non-empty `Gender`): _possibilis, ultimus, primo, possibili, possibilem, divinus, universi, christi, ultimum, primus_
-* `Neut` (7965; 38% of non-empty `Gender`): _impossibile, primum, infinitum, multa, possibile, proprium, intelligibilia, secundum, summum, prius_
-* `EMPTY` (3369): _vero, solum, amplius, similiter, necesse, primo, simpliciter, naturaliter, prius, maxime_
+* `Fem` (6788; 42% of non-empty `Gender`): _divina, prima, substantialis, divinae, intellectualis, humana, propria, intelligibiles, divinam, propriam_
+* `Masc` (2789; 17% of non-empty `Gender`): _possibilis, ultimus, primo, possibili, possibilem, divinus, universi, christi, ultimum, primus_
+* `Neut` (6771; 41% of non-empty `Gender`): _impossibile, primum, infinitum, possibile, intelligibilia, proprium, secundum, summum, necessarium, prius_
+* `EMPTY` (3352): _vero, solum, amplius, similiter, necesse, primo, simpliciter, naturaliter, prius, maxime_
 
 <table>
   <tr><th>Paradigm <i>primus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -306,16 +305,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-11146 [la-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
+8760 [la-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11146; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11146; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (10233; 92%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (8717; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (8179; 73%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (7606; 68%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6660; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (6660; 60%), <tt><a href="Case.html">Case</a>=Nom</tt> (6046; 54%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8760; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8760; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (8717; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8002; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (6510; 74%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5962; 68%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5047; 58%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5047; 58%), <tt><a href="Case.html">Case</a>=Nom</tt> (4864; 56%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (3611; 32% of non-empty `Gender`): _separatae, separata, separatas, praedictae, praedicta, creata, existens, existentes, facta, composita_
-* `Masc` (2863; 26% of non-empty `Gender`): _agens, intelligens, agentem, compositus, agentis, factus, habens, natus, agente, dicens_
-* `Neut` (4672; 42% of non-empty `Gender`): _ostensum, dicendum, movens, dictum, probatum, dictis, praemissis, consequens, factum, motum_
-* `EMPTY` (46257): _est, esse, sit, sunt, potest, oportet, habet, dicitur, patet, dicit_
+* `Fem` (2957; 34% of non-empty `Gender`): _separatae, separata, separatas, praedictae, praedicta, creata, existens, existentes, composita, creatis_
+* `Masc` (1620; 18% of non-empty `Gender`): _agens, intelligens, agentem, compositus, agentis, agente, habens, factus, ponentes, potens_
+* `Neut` (4183; 48% of non-empty `Gender`): _ostensum, dicendum, movens, dictum, probatum, dictis, praemissis, consequens, motum, intellectum_
+* `EMPTY` (38102): _est, esse, sit, sunt, potest, oportet, habet, dicitur, patet, dicit_
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -361,45 +360,40 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `NUM`
 
-1312 [la-pos/NUM]() tokens (61% of all `NUM` tokens) have a non-empty value of `Gender`.
+1261 [la-pos/NUM]() tokens (67% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1312; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1261; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1245; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (1058; 81%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1261; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1261; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1245; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1027; 81%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (466; 36% of non-empty `Gender`): _una, unam, unius, duae, tres, duabus, trium, duas, tribus, uni_
-* `Masc` (261; 20% of non-empty `Gender`): _unus, uno, unum, duo, unius, duobus, duos, tres, primus, tribus_
-* `Neut` (585; 45% of non-empty `Gender`): _unum, duo, uno, unius, duobus, duorum, tria, quatuor, uni, tribus_
-* `EMPTY` (822): _iii, 1, 2, i, ii, septem, quattuor, vii, viii, iv_
+* `Fem` (453; 36% of non-empty `Gender`): _una, unam, unius, duae, tres, duabus, trium, duas, tribus, uni_
+* `Masc` (229; 18% of non-empty `Gender`): _unus, uno, unum, duo, unius, duobus, duos, tres, duorum, sex_
+* `Neut` (579; 46% of non-empty `Gender`): _unum, duo, uno, unius, duobus, duorum, tria, quatuor, uni, tribus_
+* `EMPTY` (627): _iii, 1, 2, i, ii, vii, viii, iv, 3, vi_
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>uno</i></td><td><i>una</i></td><td><i>uno</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>una</i></td><td><i>uno</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unum</i></td><td><i>unam</i></td><td><i>unum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="NumType.html">NumType</a>=Card</tt></td><td></td><td><i>tres</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unum</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>uni</i></td><td><i>uni</i></td><td><i>uni</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uni</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unius</i></td><td><i>unius</i></td><td><i>unius</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td><i>una</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unus</i></td><td><i>una</i></td><td><i>unum, primum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="NumType.html">NumType</a>=Card</tt></td><td></td><td><i>duae</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unus</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uno</i></td><td><i>una</i></td><td><i>uno</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unum</i></td><td><i>unam</i></td><td><i>unum</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>tres</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uni</i></td><td><i>uni</i></td><td><i>uni</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unius</i></td><td><i>unius</i></td><td><i>unius</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unus</i></td><td><i>una</i></td><td><i>unum, primum</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>duae</i></td><td></td></tr>
 </table>
 
 ### `X`
 
-16 [la-pos/X]() tokens (3% of all `X` tokens) have a non-empty value of `Gender`.
+12 [la-pos/X]() tokens (2% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (9; 56%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (9; 75%).
 
 `X` tokens may have the following values of `Gender`:
 
-* `Fem` (8; 50% of non-empty `Gender`): _quod, decupla_
-* `Masc` (4; 25% of non-empty `Gender`): _Aefulanum, quam, qui, sestertiarios_
-* `Neut` (4; 25% of non-empty `Gender`): _decuplum, ephes., quae_
-* `EMPTY` (606): _metaph., physic., cap., gen., sap., c, metaphys., dist., div., nom._
+* `Fem` (8; 67% of non-empty `Gender`): _quod, decupla_
+* `Masc` (1; 8% of non-empty `Gender`): _quam_
+* `Neut` (3; 25% of non-empty `Gender`): _decuplum, ephes._
+* `EMPTY` (498): _metaph., physic., cap., gen., sap., metaphys., dist., div., nom., trin._
 
 <table>
   <tr><th>Paradigm <i>_</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -407,30 +401,19 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
   <tr><td><tt><a href="Degree.html">Degree</a>=Cmp</tt></td><td></td><td><i>ephes.</i></td></tr>
 </table>
 
-### `ADV`
-
-3 [la-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
-
-`ADV` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 33% of non-empty `Gender`): _fors_
-* `Masc` (1; 33% of non-empty `Gender`): _Repente_
-* `Neut` (1; 33% of non-empty `Gender`): _Multum_
-* `EMPTY` (22954): _non, igitur, enim, etiam, unde, sic, ergo, tamen, ita, nam_
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11596; 96%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (6021; 80%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (8521; 95%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (6017; 80%),
+<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (2899; 50%),
 <tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (2495; 98%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1996; 56%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1002; 93%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON</tt> (708; 78%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (702; 93%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (663; 95%),
-<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (611; 76%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (574; 87%).
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1537; 57%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (885; 93%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (607; 95%),
+<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (592; 91%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (578; 92%),
+<tt>ADJ --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (421; 70%).
 
 
 
@@ -442,115 +425,95 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 3 combinations have been observed: `Fem|Masc`, `Fem|Neut`, `Masc|Neut`.
 
-211696 tokens (128%) have a non-empty value of `Gender`.
-23830 types (62%) occur at least once with a non-empty value of `Gender`.
-11421 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: [la-pos/NOUN]() (98622; 60% instances), [la-pos/PRON]() (49488; 30% instances), [la-pos/ADJ]() (33781; 20% instances), [la-pos/VERB]() (18461; 11% instances), [la-pos/PROPN]() (5722; 3% instances), [la-pos/DET]() (3490; 2% instances), [la-pos/NUM]() (2113; 1% instances), [la-pos/X]() (16; 0% instances), [la-pos/ADV]() (3; 0% instances).
+79527 tokens (48%) have a non-empty value of `Gender`.
+13302 types (57%) occur at least once with a non-empty value of `Gender`.
+5402 lemmas (77%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: [la-pos/NOUN]() (32000; 19% instances), [la-pos/PRON]() (20923; 13% instances), [la-pos/ADJ]() (12640; 8% instances), [la-pos/VERB]() (7315; 4% instances), [la-pos/PROPN]() (5722; 3% instances), [la-pos/NUM]() (801; 0% instances), [la-pos/DET]() (126; 0% instances).
 
 ### `NOUN`
 
-98622 [la-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+32000 [la-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (77184; 78%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (52939; 54%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (21818; 68%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (47149; 48% of non-empty `Gender`): _forma, formam, formae, materia, potentia, anima, causa, res, substantia, rei_
-* `Fem,Masc` (172; 0% of non-empty `Gender`): _diebus, die, dies, diei, diem, dierum, accola, agricultura, incursionis, publicam_
-* `Masc` (31785; 32% of non-empty `Gender`): _deus, intellectus, deo, dei, actu, modo, actus, homo, deum, hominis_
+* `Fem` (11888; 37% of non-empty `Gender`): _die, hora, re, domum, rebus, causa, res, terram, ecclesia, rem_
+* `Fem,Masc` (172; 1% of non-empty `Gender`): _diebus, die, dies, diei, diem, dierum, accola, agricultura, incursionis, publicam_
+* `Masc` (13578; 42% of non-empty `Gender`): _dei, loco, deus, filius, locum, pater, domine, homo, dominus, domini_
 * `Masc,Neut` (7; 0% of non-empty `Gender`): _Amorreorum, aequum, desiderio, die, praeclarum, tumulum, uico_
-* `Neut` (19509; 20% of non-empty `Gender`): _esse, corpus, bonum, principium, corporis, agens, malum, accidens, corpore, ens_
-* `EMPTY` (367): _perfecte, numero, pascha, forte, iob, perfectius, diversimode, rabbi, partim, perfectissime_
+* `Neut` (6355; 20% of non-empty `Gender`): _nomine, regnum, verbum, tempore, caelo, castra, iter, nomen, tempus, testimonium_
+* `EMPTY` (80): _pascha, rabbi, fas, manna, rabboni, Alpha, Naim, Omega, alienis, caracter_
 
 <table>
   <tr><th>Paradigm <i>dies</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>die</i></td><td></td><td><i>die</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>diebus</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td><i>die</i></td><td><i>die</i></td><td><i>die</i></td><td><i>die</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur</tt></td><td><i>diebus</i></td><td><i>diebus</i></td><td></td><td><i>diebus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>diem</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>dies</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>diem</i></td><td><i>diem, dies</i></td><td></td><td><i>diem</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><i>dies</i></td><td><i>dies</i></td><td></td><td><i>dies</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>diei</i></td><td><i>diei</i></td><td></td><td><i>diei</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>diei</i></td><td></td><td><i>diei</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>dierum</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><i>diei</i></td><td><i>diei</i></td><td></td><td><i>diei</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><i>dierum</i></td><td><i>dierum</i></td><td></td><td><i>dierum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>dies</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>dies</i></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>dies</i></td><td><i>dies</i></td><td></td><td><i>dies</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><i>dies</i></td><td><i>dies</i></td><td></td><td><i>dies</i></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (5814) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (2434) occur only with one value of `Gender`.
 
 ### `PRON`
 
-49488 [la-pos/PRON]() tokens (98% of all `PRON` tokens) have a non-empty value of `Gender`.
+20923 [la-pos/PRON]() tokens (97% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (36798; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (36259; 73%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (25273; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (18156; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (14077; 67%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (12690; 61%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (10756; 22% of non-empty `Gender`): _quae, quam, qua, se, aliqua, ipsa, aliquam, eam, eius, illa_
-* `Fem,Masc` (836; 2% of non-empty `Gender`): _omnes, nobis, vobis, omnis, me, ego, nemo, nos, vos, tibi_
+* `Fem` (2680; 13% of non-empty `Gender`): _quae, qua, quam, suam, tua, eam, quas, sua, mea, meam_
+* `Fem,Masc` (836; 4% of non-empty `Gender`): _omnes, nobis, vobis, omnis, me, ego, nemo, nos, vos, tibi_
 * `Fem,Neut` (3; 0% of non-empty `Gender`): _omnibus, quae_
-* `Masc` (20292; 41% of non-empty `Gender`): _qui, me, eum, eius, se, te, mihi, ego, ei, eos_
-* `Masc,Neut` (598; 1% of non-empty `Gender`): _quo, suo, meo, tuum, tuo, meum, suum, nostro, nostrum, nostri_
-* `Neut` (17003; 34% of non-empty `Gender`): _quod, hoc, quae, aliquid, quid, nihil, id, se, quo, ea_
-* `EMPTY` (920): _omnibus, omni, suis, aliter, quibus, omnium, se, hinc, nostris, meis_
+* `Masc` (13249; 63% of non-empty `Gender`): _qui, me, eum, te, eius, se, mihi, ego, ei, vobis_
+* `Masc,Neut` (598; 3% of non-empty `Gender`): _quo, suo, meo, tuum, tuo, meum, suum, nostro, nostrum, nostri_
+* `Neut` (3557; 17% of non-empty `Gender`): _quod, quid, quae, omnia, id, nihil, ea, quo, aliquid, sua_
+* `EMPTY` (719): _omnibus, omni, suis, quibus, omnium, se, nostris, meis, tuis, vobis_
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quo</i></td><td></td><td><i>qua</i></td><td><i>quo</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td></td><td><i>quo</i></td><td><i>qua</i></td><td><i>quo</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quo, qui</i></td><td><i>quo</i></td><td><i>qua</i></td><td><i>quo</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quem</i></td><td></td><td><i>quam</i></td><td><i>quod, quid</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quos</i></td><td></td><td><i>quas, quae</i></td><td><i>quae</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>quem</i></td><td></td><td><i>quam</i></td><td><i>quod</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quem</i></td><td></td><td><i>quam, quem</i></td><td><i>quod, quae</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>quos</i></td><td></td><td><i>quas</i></td><td><i>quae</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quos</i></td><td></td><td><i>quas, quae</i></td><td><i>quae</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>cui</i></td><td></td><td><i>cui</i></td><td><i>cui</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>quo</i></td><td></td><td></td><td><i>cui</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>cui, quoi, quo</i></td><td></td><td><i>cui, quoi</i></td><td><i>cui</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quibus</i></td><td></td><td><i>quibus</i></td><td><i>quibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>cuius, cujus</i></td><td></td><td><i>cuius, cujus</i></td><td><i>cuius, cujus, quod</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quorum</i></td><td></td><td><i>quarum, quorum</i></td><td><i>quorum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>quoius</i></td><td></td><td></td><td><i>quoius</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>cuius</i></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>cuius</i></td><td></td><td><i>cuius, quoius</i></td><td><i>cuius</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>quorum</i></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>quorum</i></td><td><i>quorum</i></td><td><i>quarum</i></td><td><i>quorum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>qui, quis, quod</i></td><td></td><td><i>quae, qua</i></td><td><i>quod, quid, qui</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>qui</i></td><td></td><td><i>quae</i></td><td><i>quae, qua</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>qui</i></td><td></td><td><i>quae</i></td><td><i>quod</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><i>qui</i></td><td></td><td><i>quae, que, qua</i></td><td><i>quod</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Int</tt></td><td></td><td></td><td><i>qui</i></td><td></td><td><i>quae</i></td><td><i>quae</i></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><i>quae</i></td><td><i>qui</i></td><td></td><td><i>quae</i></td><td><i>quae, que</i></td></tr>
-  <tr><td><tt><a href="Degree.html">Degree</a>=Pos|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td></td><td></td><td><i>quae</i></td><td><i>quae</i></td></tr>
 </table>
 
 ### `ADJ`
 
-33781 [la-pos/ADJ]() tokens (88% of all `ADJ` tokens) have a non-empty value of `Gender`.
+12640 [la-pos/ADJ]() tokens (92% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (23694; 70%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (21002; 62%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (8355; 66%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (11466; 34% of non-empty `Gender`): _divina, prima, substantialis, magna, divinae, intellectualis, humana, illa, propria, intelligibiles_
-* `Fem,Masc` (455; 1% of non-empty `Gender`): _certiorem, certior, maior, grandis, maiorem, talis, illis, paschales, tales, fidelis_
+* `Fem` (3009; 24% of non-empty `Gender`): _illa, haec, magna, ea, illam, hac, ipsa, hanc, tertia, publica_
+* `Fem,Masc` (455; 4% of non-empty `Gender`): _certiorem, certior, maior, grandis, maiorem, talis, illis, paschales, tales, fidelis_
 * `Fem,Neut` (2; 0% of non-empty `Gender`): _extremis, inconsutilis_
-* `Masc` (10017; 30% of non-empty `Gender`): _illi, illis, illum, ille, possibilis, hic, illos, illo, his, ipse_
-* `Masc,Neut` (1197; 4% of non-empty `Gender`): _eo, hoc, magno, Romani, eodem, ipso, sancto, ipsum, magnum, primo_
-* `Neut` (10644; 32% of non-empty `Gender`): _hoc, haec, impossibile, primum, multa, infinitum, illud, possibile, proprium, secundum_
-* `EMPTY` (4541): _vero, solum, amplius, similiter, necesse, primo, simpliciter, naturaliter, prius, his_
+* `Masc` (5298; 42% of non-empty `Gender`): _illi, illis, illum, ille, hic, illos, illo, his, ipse, sanctus_
+* `Masc,Neut` (1197; 9% of non-empty `Gender`): _eo, hoc, magno, Romani, eodem, ipso, sancto, ipsum, magnum, primo_
+* `Neut` (2679; 21% of non-empty `Gender`): _hoc, haec, illud, multa, id, his, cetera, medio, illa, singula_
+* `EMPTY` (1172): _his, eius, huius, multis, iis, totius, maiore, ipsius, paucis, reliquis_
 
 <table>
   <tr><th>Paradigm <i>ille</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -568,54 +531,43 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-18461 [la-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
+7315 [la-pos/VERB]() tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (18461; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (18461; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (17164; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (12871; 70%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (11789; 64%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (10853; 59%), <tt><a href="Tense.html">Tense</a>=Past</tt> (10853; 59%), <tt><a href="Case.html">Case</a>=Nom</tt> (10746; 58%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7315; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7315; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6931; 95%), <tt><a href="Case.html">Case</a>=Nom</tt> (4700; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (4692; 64%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4193; 57%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4193; 57%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (4183; 57%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (4845; 26% of non-empty `Gender`): _facta, separatae, separata, separatas, data, praedictae, praedicta, creata, existens, existentes_
-* `Fem,Masc` (127; 1% of non-empty `Gender`): _dicentem, agentes, euntes, ambulantem, habentem, habentes, stantem, exeuntes, loquentes, proficiscentes_
-* `Masc` (7440; 40% of non-empty `Gender`): _dicens, dicentes, agens, respondens, factus, locutus, habens, intelligens, natus, videns_
-* `Masc,Neut` (49; 0% of non-empty `Gender`): _iurando, completo, futurorum, munitum, transacto, acceptum, adprobatum, aedificando, apertum, aversum_
-* `Neut` (6000; 33% of non-empty `Gender`): _ostensum, dicendum, factum, dictum, movens, probatum, scriptum, dictis, praemissis, consequens_
-* `EMPTY` (79375): _est, esse, sunt, sit, potest, habet, oportet, dicitur, erat, esset_
+* `Fem` (1234; 17% of non-empty `Gender`): _facta, data, factae, datas, dicens, mortua, posita, secutae, accepta, cognita_
+* `Fem,Masc` (127; 2% of non-empty `Gender`): _dicentem, agentes, euntes, ambulantem, habentem, habentes, stantem, exeuntes, loquentes, proficiscentes_
+* `Masc` (4577; 63% of non-empty `Gender`): _dicens, dicentes, respondens, locutus, factus, profectus, videns, habens, surgens, videntes_
+* `Masc,Neut` (49; 1% of non-empty `Gender`): _iurando, completo, futurorum, munitum, transacto, acceptum, adprobatum, aedificando, apertum, aversum_
+* `Neut` (1328; 18% of non-empty `Gender`): _factum, scriptum, dictum, datum, facta, scripta, facto, futurum, visum, positum_
+* `EMPTY` (33118): _est, sunt, esse, dixit, erat, ait, esset, erant, sum, dicit_
 
 <table>
-  <tr><th>Paradigm <i>habeo</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>habito</i></td><td></td><td><i>habita</i></td><td><i>habito</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>habito</i></td><td></td><td><i>habita</i></td><td><i>habito</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>habitam</i></td><td><i>habitum</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>habitos</i></td><td></td><td></td><td><i>habita</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>habitae</i></td><td><i>habiti</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>habita</i></td><td><i>habitum</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>habitus</i></td><td></td><td></td><td><i>habitum</i></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>habiti</i></td><td></td><td></td><td><i>habita</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habente</i></td><td></td><td><i>habente</i></td><td><i>habente</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentibus</i></td><td></td><td><i>habentibus</i></td><td><i>habentibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habente</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentibus</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentem</i></td><td></td><td><i>habentem</i></td><td><i>habens</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>habendam</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td><i>habentes</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habiturum</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>habentem</i></td><td><i>habentem</i></td><td></td><td><i>habentem</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td></td><td></td><td><i>habendam</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>habentes</i></td><td><i>habentes</i></td><td><i>habentes</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habenti</i></td><td></td><td><i>habenti</i></td><td><i>habenti</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td></td><td><i>habentibus</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><i>Habenti</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habenti</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentibus</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentis</i></td><td></td><td><i>habentis</i></td><td><i>habentis</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td><i>habentium</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentis</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td></td><td></td><td></td><td><i>habendi</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habiturus</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habens</i></td><td></td><td><i>habens</i></td><td><i>habens</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habentes</i></td><td></td><td><i>habentes</i></td><td><i>habentia, habentes</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>habens</i></td><td></td><td><i>habens</i></td><td><i>habens</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>habentes</i></td><td><i>habentes</i></td><td></td><td><i>habentes</i></td><td></td></tr>
+  <tr><th>Paradigm <i>facio</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>facto</i></td><td><i>facto</i></td><td><i>facta</i></td><td><i>facto</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td></td><td><i>factis</i></td><td><i>factis</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>factum</i></td><td><i>factum</i></td><td><i>factam</i></td><td><i>factum</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>factos</i></td><td></td><td><i>factas</i></td><td><i>facta</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>facti</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>factorum</i></td><td><i>factorum</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>factus, facta</i></td><td></td><td><i>facta</i></td><td><i>factum</i></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><i>facti</i></td><td></td><td><i>factae</i></td><td><i>facta</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>faciente</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facientibus</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td><i>faciendis</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facturum</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facientem</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td><i>faciendum</i></td><td></td><td><i>faciendam</i></td><td><i>faciendum</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facturos</i></td><td></td><td><i>facturas</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td></td><td><i>facienti</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td><i>faciundi, faciendi</i></td><td></td><td><i>faciendae</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facturus</i></td><td></td><td><i>factura</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>faciens</i></td><td><i>faciens</i></td><td></td><td><i>faciens</i></td><td><i>faciens</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Gdv</tt></td><td></td><td></td><td></td><td><i>facienda</i></td><td><i>faciendum, facteon</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><i>facturi</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><i>facientes</i></td><td><i>facientes</i></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -646,19 +598,44 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 `Gender` seems to be **lexical feature** of `PROPN`. 96% lemmas (799) occur only with one value of `Gender`.
 
+### `NUM`
+
+801 [la-pos/NUM]() tokens (58% of all `NUM` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (408; 51%).
+
+`NUM` tokens may have the following values of `Gender`:
+
+* `Fem` (165; 21% of non-empty `Gender`): _una, duas, unam, duae, duabus, tribus, tres, duarum, unius, ducentae_
+* `Fem,Masc` (21; 3% of non-empty `Gender`): _tres, tribus, tris_
+* `Masc` (309; 39% of non-empty `Gender`): _unus, unum, duo, duos, duobus, tres, uni, quingentos, uno, trium_
+* `Masc,Neut` (80; 10% of non-empty `Gender`): _uno, unum, duobus, duorum, ducentorum, duo, quadringentorum_
+* `Neut` (226; 28% of non-empty `Gender`): _milia, unum, duo, milibus, milium, tria, ducenta, duobus, uno, ducenta.quadraginta_
+* `EMPTY` (577): _septem, duodecim, quinque, quattuor, decem, octo, sex, quadraginta, centum, triginta_
+
+<table>
+  <tr><th>Paradigm <i>unus</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uno</i></td><td><i>uno</i></td><td><i>una</i></td><td><i>uno</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unum</i></td><td><i>unum</i></td><td><i>unam</i></td><td><i>unum</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>unas</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uni, uno</i></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>unius</i></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unus, unum</i></td><td></td><td><i>una</i></td><td><i>unum</i></td></tr>
+</table>
+
 ### `DET`
 
-3490 [la-pos/DET]() tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
+126 [la-pos/DET]() tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3363; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (2304; 66%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1833; 53%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (103; 82%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1619; 46% of non-empty `Gender`): _sua, suam, omnis, omnes, suae, omnium, omnibus, omnem, omni, nostra_
-* `Masc` (540; 15% of non-empty `Gender`): _noster, omnes, omnibus, suum, omnis, suo, nostro, omnium, ille, sui_
-* `Masc,Neut` (10; 0% of non-empty `Gender`): _ipso, hoc, illo, ipsorum_
-* `Neut` (1321; 38% of non-empty `Gender`): _omnia, omne, suum, omnium, omnibus, suo, sui, omni, sua, omnis_
-* `EMPTY` (36): _ipsius, omnis, illis, ipsi, ipsis, illius, huius, omnem, omni, omnibus_
+* `Fem` (42; 33% of non-empty `Gender`): _ipsa, ipsam, illa, illam, illas, ipsas, Ista, ipsae_
+* `Masc` (72; 57% of non-empty `Gender`): _ille, ipse, illum, illi, illos, ipsos, ipsum, illorum, ipsis, istum_
+* `Masc,Neut` (10; 8% of non-empty `Gender`): _ipso, hoc, illo, ipsorum_
+* `Neut` (2; 2% of non-empty `Gender`): _illud_
+* `EMPTY` (26): _ipsius, illis, ipsi, ipsis, illius, huius_
 
 <table>
   <tr><th>Paradigm <i>ille</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -671,80 +648,17 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><i>illi</i></td><td></td><td></td><td></td></tr>
 </table>
 
-### `NUM`
-
-2113 [la-pos/NUM]() tokens (60% of all `NUM` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (2113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1451; 69%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1261; 60%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1245; 59%).
-
-`NUM` tokens may have the following values of `Gender`:
-
-* `Fem` (631; 30% of non-empty `Gender`): _una, unam, unius, duas, duae, duabus, tres, tribus, trium, duarum_
-* `Fem,Masc` (21; 1% of non-empty `Gender`): _tres, tribus, tris_
-* `Masc` (570; 27% of non-empty `Gender`): _unus, unum, uno, duo, duos, duobus, tres, unius, uni, quingentos_
-* `Masc,Neut` (80; 4% of non-empty `Gender`): _uno, unum, duobus, duorum, ducentorum, duo, quadringentorum_
-* `Neut` (811; 38% of non-empty `Gender`): _unum, duo, milia, uno, unius, duobus, milibus, tria, milium, duorum_
-* `EMPTY` (1399): _septem, duodecim, quattuor, quinque, iii, decem, 1, 2, i, ii_
-
-<table>
-  <tr><th>Paradigm <i>unus</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>uno</i></td><td></td><td><i>una</i></td><td><i>uno</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uno</i></td><td><i>uno</i></td><td><i>una</i></td><td><i>uno</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unum</i></td><td></td><td><i>unam</i></td><td><i>unum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="NumType.html">NumType</a>=Card</tt></td><td></td><td></td><td><i>tres</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unum</i></td><td><i>unum</i></td><td><i>unam</i></td><td><i>unum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><i>unas</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>uni</i></td><td></td><td><i>uni</i></td><td><i>uni</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><i>uni, uno</i></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unius</i></td><td></td><td><i>unius</i></td><td><i>unius</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><i>unius</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td></td><td><i>una</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card</tt></td><td><i>unus</i></td><td></td><td><i>una</i></td><td><i>unum, primum</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="NumType.html">NumType</a>=Card</tt></td><td></td><td></td><td><i>duae</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><i>unus, unum</i></td><td></td><td><i>una</i></td><td><i>unum</i></td></tr>
-</table>
-
-### `X`
-
-16 [la-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (9; 56%).
-
-`X` tokens may have the following values of `Gender`:
-
-* `Fem` (8; 50% of non-empty `Gender`): _quod, decupla_
-* `Masc` (4; 25% of non-empty `Gender`): _Aefulanum, quam, qui, sestertiarios_
-* `Neut` (4; 25% of non-empty `Gender`): _decuplum, ephes., quae_
-* `EMPTY` (1064): _metaph., physic., cap., gen., sap., c, metaphys., dist., div., nom._
-
-<table>
-  <tr><th>Paradigm <i>_</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>quod</i></td><td></td></tr>
-  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp</tt></td><td></td><td><i>ephes.</i></td></tr>
-</table>
-
-### `ADV`
-
-3 [la-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
-
-`ADV` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 33% of non-empty `Gender`): _fors_
-* `Masc` (1; 33% of non-empty `Gender`): _Repente_
-* `Neut` (1; 33% of non-empty `Gender`): _Multum_
-* `EMPTY` (40757): _non, enim, igitur, autem, etiam, ergo, sic, ne, unde, tamen_
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (13739; 87%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (9305; 73%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (3088; 54%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (2495; 98%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (3284; 62%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (2143; 59%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> ADJ</tt> (1482; 62%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1287; 88%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (996; 90%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (907; 90%),
-<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (879; 58%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> PRON</tt> (708; 78%).
+<tt>VERB --[<a href="../dep/nsubjpass.html">nsubjpass</a>]--> NOUN</tt> (1342; 60%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1092; 51%),
+<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (411; 79%),
+<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (323; 91%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (294; 83%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (290; 85%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (285; 74%).
 

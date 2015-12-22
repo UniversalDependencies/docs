@@ -94,40 +94,37 @@ Children of `NOUN` nodes belong to 12 different parts of speech: [ADJ]() (3260; 
 
 ## Treebank Statistics (UD_Latin-ITT)
 
-There are 4396 `NOUN` lemmas (42%), 7641 `NOUN` types (32%) and 66909 `NOUN` tokens (22%).
+There are 1392 `NOUN` lemmas (41%), 3517 `NOUN` types (28%) and 54751 `NOUN` tokens (21%).
 Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: _forma, deus, materia, intellectus, corpus, res, anima, actus, esse, substantia_
 
-The 10 most frequent `NOUN` types:  _forma, formam, esse, formae, intellectus, materia, deus, potentia, anima, actu_
+The 10 most frequent `NOUN` types:  _forma, formam, esse, intellectus, formae, materia, deus, potentia, anima, actu_
 
-The 10 most frequent ambiguous lemmas: _esse_ ([NOUN]() 1191, [VERB]() 1), _causa_ ([NOUN]() 873, [X]() 1), _agens_ ([NOUN]() 689, [VERB]() 1), _pars_ ([NOUN]() 610, [ADV]() 2), _deus1_ ([NOUN]() 109, [ADJ]() 1), _gratia_ ([NOUN]() 84, [ADV]() 1), _Trimalchio1_ ([NOUN]() 65, [X]() 2), _inconveniens_ ([NOUN]() 65, [ADJ]() 1), _bellum1_ ([NOUN]() 59, [ADJ]() 1), _pars1_ ([NOUN]() 59, [ADV]() 8)
+The 10 most frequent ambiguous lemmas: _esse_ ([NOUN]() 1191, [VERB]() 1), _agens_ ([NOUN]() 689, [VERB]() 1), ___ ([NUM]() 614, [X]() 498, [NOUN]() 6), _labor_ ([NOUN]() 6, [VERB]() 2), _objicio_ ([VERB]() 18, [NOUN]() 1), _praeceptum_ ([NOUN]() 1, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  _esse_ ([VERB]() 2092, [NOUN]() 1190, [AUX]() 40), _bonum_ ([NOUN]() 472, [ADJ]() 82), _modo_ ([NOUN]() 428, [ADV]() 53), _motus_ ([NOUN]() 319, [VERB]() 10), _agens_ ([NOUN]() 316, [VERB]() 135), _intellectum_ ([NOUN]() 304, [VERB]() 50), _malum_ ([NOUN]() 304, [ADJ]() 28), _accidens_ ([NOUN]() 287, [VERB]() 2), _ens_ ([NOUN]() 242, [VERB]() 8), _actum_ ([NOUN]() 237, [VERB]() 3)
+The 10 most frequent ambiguous types:  _esse_ ([VERB]() 1975, [NOUN]() 1190, [AUX]() 40), _bonum_ ([NOUN]() 469, [ADJ]() 77), _motus_ ([NOUN]() 318, [VERB]() 7), _agens_ ([NOUN]() 316, [VERB]() 133), _intellectum_ ([NOUN]() 303, [VERB]() 49), _malum_ ([NOUN]() 301, [ADJ]() 25), _accidens_ ([NOUN]() 287, [VERB]() 2), _ens_ ([NOUN]() 242, [VERB]() 8), _actum_ ([NOUN]() 237, [VERB]() 2), _agentis_ ([NOUN]() 158, [VERB]() 50)
 
 
 * _esse_
-  * [VERB]() 2092: _Et solebas suavius <b>esse</b> , canturire belle deverbia , adicere melicam_
+  * [VERB]() 1975: _unde apparet intellectum simpliciter <b>esse</b> altiorem voluntate :_
   * [NOUN]() 1190: _sed angeli , cum sint formae subsistentes , non habent <b>esse</b> in potentia ._
   * [AUX]() 40: _deum autem velle aliquid causatum <b>esse</b> est aeternum :_
 * _bonum_
-  * [NOUN]() 472: _ius que <b>bonum</b> apud eos non legibus magis quam natura valebat_
-  * [ADJ]() 82: _quale te dicam <b>bonum</b> Antehac fuisse , tales cum sint reliquiae ?_
-* _modo_
-  * [NOUN]() 428: _eo <b>modo</b> minume posse putabant per licentiam insolescere animum humanum_
-  * [ADV]() 53: _Magno me metu liberaveris , <b>modo</b> inter me atque te murus intersit_
+  * [NOUN]() 469: _felicitas est quoddam <b>bonum</b> hominis proprium :_
+  * [ADJ]() 77: _quod est propter alterum <b>bonum</b> et desiderabile , non est ultimus finis ._
 * _motus_
-  * [NOUN]() 319: _qui hoc probare intendit ex parte <b>motus</b> duabus viis ._
-  * [VERB]() 10: _loco ille <b>motus</b> est , cum est ex urbe depulsus_
+  * [NOUN]() 318: _qui hoc probare intendit ex parte <b>motus</b> duabus viis ._
+  * [VERB]() 7: _movet enim inquantum est <b>motus</b> ._
 * _agens_
   * [NOUN]() 316: _quod autem non toto se agit , non est primum <b>agens</b> :_
-  * [VERB]() 135: _duodecimum annum <b>agens</b> auiam Iuliam defunctam pro contione laudauit ._
+  * [VERB]() 133: _erit igitur intellectus <b>agens</b> unum secundum esse cum homine ._
 * _intellectum_
-  * [NOUN]() 304: _unde apparet <b>intellectum</b> simpliciter esse altiorem voluntate :_
-  * [VERB]() 50: _oportet igitur primum movens esse appetibile ut <b>intellectum</b> ._
+  * [NOUN]() 303: _unde apparet <b>intellectum</b> simpliciter esse altiorem voluntate :_
+  * [VERB]() 49: _oportet igitur primum movens esse appetibile ut <b>intellectum</b> ._
 * _malum_
-  * [NOUN]() 304: _Immo , ut sciat me posse <b>malum</b> dare , nolo , me mortuum basiet_
-  * [ADJ]() 28: _id adeo <b>malum</b> multos post annos in civitatem revorterat_
+  * [NOUN]() 301: _perfectum autem bonum non compatitur aliquod <b>malum</b> ._
+  * [ADJ]() 25: _cui autem non inest aliquod malum , impossibile est esse <b>malum</b> ._
 * _accidens_
   * [NOUN]() 287: _voluntatem vero intellectu per <b>accidens</b> et secundum quid ._
   * [VERB]() 2: _oportet igitur semper cum malo causato , quod est effectus boni per <b>accidens</b> , esse bonum aliquod quod est effectus boni per se , ita quod sit fundamentum eius :_
@@ -136,11 +133,14 @@ The 10 most frequent ambiguous types:  _esse_ ([VERB]() 2092, [NOUN]() 1190, [AU
   * [VERB]() 8: _sed quod est possibile esse , est subiectum potentia <b>ens</b> ._
 * _actum_
   * [NOUN]() 237: _nam potentia per <b>actum</b> perfecta habet boni rationem ._
-  * [VERB]() 3: _iam reus factus dispensator et iudicium inter cubicularios <b>actum</b>_
+  * [VERB]() 2: _de prima quidem dei operatione in praecedenti libro iam diximus , ubi est <b>actum</b> de cognitione et voluntate divina ._
+* _agentis_
+  * [NOUN]() 158: _non tamen effectus ad perfectam <b>agentis</b> similitudinem semper pertingit ._
+  * [VERB]() 50: _unde neque novitas effectus mutationem dei <b>agentis</b> demonstrare potest ._
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.738171 (the average of all parts of speech is 2.318731).
+The form / lemma ratio of `NOUN` is 2.526580 (the average of all parts of speech is 3.609102).
 
 The 1st highest number of forms (24) was observed with the lemma “perfectus”: _perfecta, perfectae, perfectam, perfecte, perfecti, perfectior, perfectiora, perfectiorem, perfectiores, perfectioris, perfectis, perfectissima, perfectissimae, perfectissimam, perfectissime, perfectissimo, perfectissimum, perfectissimus, perfectius, perfecto, perfectorum, perfectos, perfectum, perfectus_
 
@@ -148,34 +148,34 @@ The 2nd highest number of forms (18) was observed with the lemma “altus”: _a
 
 The 3rd highest number of forms (18) was observed with the lemma “inferus”: _ima, inferior, inferiora, inferiorem, inferiores, inferiori, inferioribus, inferioris, inferiorum, inferius, infima, infimae, infimas, infimi, infimis, infimo, infimum, infimus_
 
-`NOUN` occurs with 8 features: [la-feat/Number]() (66854; 100% instances), [la-feat/Case]() (66820; 100% instances), [la-feat/Gender]() (66622; 100% instances), [la-feat/Degree]() (53513; 80% instances), [la-feat/Aspect]() (1; 0% instances), [la-feat/Tense]() (1; 0% instances), [la-feat/VerbForm]() (1; 0% instances), [la-feat/Voice]() (1; 0% instances)
+`NOUN` occurs with 4 features: [la-feat/Case]() (54705; 100% instances), [la-feat/Number]() (54705; 100% instances), [la-feat/Gender]() (54483; 100% instances), [la-feat/Degree]() (53513; 98% instances)
 
-`NOUN` occurs with 19 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `VerbForm=Part`, `Voice=Pass`
+`NOUN` occurs with 15 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 133 feature combinations.
+`NOUN` occurs with 89 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (9265 tokens).
 Examples: _forma, anima, materia, causa, substantia, potentia, essentia, virtus, ratio, operatio_
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 24 different relations: [la-dep/nmod]() (26165; 39% instances), [la-dep/nsubj]() (12763; 19% instances), [la-dep/dobj]() (11182; 17% instances), [la-dep/conj]() (4700; 7% instances), [la-dep/nsubjpass]() (3875; 6% instances), [la-dep/dep]() (2323; 3% instances), [la-dep/root]() (1689; 3% instances), [la-dep/acl]() (937; 1% instances), [la-dep/advcl]() (853; 1% instances), [la-dep/iobj]() (715; 1% instances), [la-dep/xcomp]() (648; 1% instances), [la-dep/csubj]() (393; 1% instances), [la-dep/appos]() (203; 0% instances), [la-dep/vocative]() (126; 0% instances), [la-dep/ccomp]() (114; 0% instances), [la-dep/parataxis]() (87; 0% instances), [la-dep/cop]() (53; 0% instances), [la-dep/csubjpass]() (33; 0% instances), [la-dep/advmod]() (29; 0% instances), [la-dep/advmod:emph]() (14; 0% instances), [la-dep/cc]() (3; 0% instances), [la-dep/punct]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances), [la-dep/case]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 22 different relations: [la-dep/nmod]() (21455; 39% instances), [la-dep/nsubj]() (10835; 20% instances), [la-dep/dobj]() (8335; 15% instances), [la-dep/conj]() (3439; 6% instances), [la-dep/nsubjpass]() (3152; 6% instances), [la-dep/dep]() (2323; 4% instances), [la-dep/root]() (1602; 3% instances), [la-dep/acl]() (863; 2% instances), [la-dep/advcl]() (844; 2% instances), [la-dep/xcomp]() (536; 1% instances), [la-dep/iobj]() (503; 1% instances), [la-dep/csubj]() (393; 1% instances), [la-dep/appos]() (184; 0% instances), [la-dep/ccomp]() (88; 0% instances), [la-dep/parataxis]() (87; 0% instances), [la-dep/cop]() (53; 0% instances), [la-dep/csubjpass]() (33; 0% instances), [la-dep/advmod:emph]() (14; 0% instances), [la-dep/vocative]() (8; 0% instances), [la-dep/cc]() (2; 0% instances), [la-dep/case]() (1; 0% instances), [la-dep/punct]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (39326; 59% instances), [NOUN]() (18570; 28% instances), [ADJ]() (3555; 5% instances), [ROOT]() (1689; 3% instances), [PRON]() (1461; 2% instances), [CONJ]() (1009; 2% instances), [ADV]() (708; 1% instances), [NUM]() (397; 1% instances), [PUNCT]() (97; 0% instances), [SCONJ]() (37; 0% instances), [X]() (27; 0% instances), [DET]() (14; 0% instances), [ADP]() (13; 0% instances), [INTJ]() (4; 0% instances), [AUX]() (2; 0% instances)
+Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (30785; 56% instances), [NOUN]() (15871; 29% instances), [ADJ]() (3073; 6% instances), [ROOT]() (1602; 3% instances), [PRON]() (1346; 2% instances), [CONJ]() (976; 2% instances), [ADV]() (595; 1% instances), [NUM]() (387; 1% instances), [PUNCT]() (63; 0% instances), [X]() (19; 0% instances), [DET]() (14; 0% instances), [ADP]() (12; 0% instances), [SCONJ]() (5; 0% instances), [AUX]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
-20096 (30%) `NOUN` nodes are leaves.
+15669 (29%) `NOUN` nodes are leaves.
 
-24042 (36%) `NOUN` nodes have one child.
+19198 (35%) `NOUN` nodes have one child.
 
-12746 (19%) `NOUN` nodes have two children.
+10838 (20%) `NOUN` nodes have two children.
 
-10025 (15%) `NOUN` nodes have three or more children.
+9046 (17%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 28.
+The highest child degree of a `NOUN` node is 17.
 
-Children of `NOUN` nodes are attached using 28 different relations: [la-dep/nmod]() (19106; 21% instances), [la-dep/amod]() (16341; 18% instances), [la-dep/case]() (16314; 18% instances), [la-dep/acl]() (6995; 8% instances), [la-dep/punct]() (6751; 7% instances), [la-dep/cc]() (6158; 7% instances), [la-dep/cop]() (4627; 5% instances), [la-dep/conj]() (4336; 5% instances), [la-dep/nsubj]() (3069; 3% instances), [la-dep/mark]() (2703; 3% instances), [la-dep/advmod:emph]() (1202; 1% instances), [la-dep/advmod]() (920; 1% instances), [la-dep/advcl]() (825; 1% instances), [la-dep/nummod]() (824; 1% instances), [la-dep/dep]() (776; 1% instances), [la-dep/neg]() (733; 1% instances), [la-dep/csubj]() (268; 0% instances), [la-dep/xcomp]() (237; 0% instances), [la-dep/nsubjpass]() (214; 0% instances), [la-dep/appos]() (162; 0% instances), [la-dep/dobj]() (106; 0% instances), [la-dep/parataxis]() (26; 0% instances), [la-dep/ccomp]() (14; 0% instances), [la-dep/csubjpass]() (12; 0% instances), [la-dep/auxpass]() (7; 0% instances), [la-dep/iobj]() (5; 0% instances), [la-dep/vocative]() (2; 0% instances), [la-dep/aux]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 26 different relations: [la-dep/nmod]() (17447; 22% instances), [la-dep/case]() (14337; 18% instances), [la-dep/amod]() (11547; 14% instances), [la-dep/acl]() (6587; 8% instances), [la-dep/punct]() (5966; 7% instances), [la-dep/cc]() (5458; 7% instances), [la-dep/cop]() (4451; 6% instances), [la-dep/conj]() (3301; 4% instances), [la-dep/nsubj]() (2920; 4% instances), [la-dep/mark]() (2625; 3% instances), [la-dep/advmod:emph]() (1202; 1% instances), [la-dep/advcl]() (796; 1% instances), [la-dep/dep]() (776; 1% instances), [la-dep/neg]() (725; 1% instances), [la-dep/nummod]() (665; 1% instances), [la-dep/advmod]() (414; 1% instances), [la-dep/csubj]() (268; 0% instances), [la-dep/nsubjpass]() (213; 0% instances), [la-dep/xcomp]() (201; 0% instances), [la-dep/appos]() (145; 0% instances), [la-dep/dobj]() (68; 0% instances), [la-dep/parataxis]() (26; 0% instances), [la-dep/ccomp]() (14; 0% instances), [la-dep/csubjpass]() (12; 0% instances), [la-dep/auxpass]() (5; 0% instances), [la-dep/aux]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 14 different parts of speech: [NOUN]() (18570; 20% instances), [ADP]() (16532; 18% instances), [ADJ]() (13158; 14% instances), [VERB]() (12872; 14% instances), [PRON]() (9873; 11% instances), [PUNCT]() (6743; 7% instances), [CONJ]() (5183; 6% instances), [ADV]() (3298; 4% instances), [SCONJ]() (2918; 3% instances), [DET]() (2589; 3% instances), [NUM]() (881; 1% instances), [X]() (100; 0% instances), [INTJ]() (11; 0% instances), [AUX]() (6; 0% instances)
+Children of `NOUN` nodes belong to 13 different parts of speech: [NOUN]() (15871; 20% instances), [ADP]() (14565; 18% instances), [VERB]() (11575; 14% instances), [ADJ]() (9898; 12% instances), [PRON]() (8853; 11% instances), [PUNCT]() (5966; 7% instances), [CONJ]() (4250; 5% instances), [ADV]() (2966; 4% instances), [SCONJ]() (2873; 4% instances), [DET]() (2589; 3% instances), [NUM]() (720; 1% instances), [X]() (38; 0% instances), [AUX]() (6; 0% instances)
 
 
 
@@ -183,87 +183,85 @@ Children of `NOUN` nodes belong to 14 different parts of speech: [NOUN]() (18570
 
 ## Treebank Statistics (UD_Latin-PROIEL)
 
-There are 5986 `NOUN` lemmas (39%), 10827 `NOUN` types (27%) and 98989 `NOUN` tokens (21%).
-Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.
+There are 2507 `NOUN` lemmas (34%), 5802 `NOUN` types (24%) and 32080 `NOUN` tokens (19%).
+Out of 13 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 2 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: _forma, deus, res, materia, intellectus, corpus, homo, anima, actus, esse_
+The 10 most frequent `NOUN` lemmas: _dies, deus, homo, res, locus, dominus, filius, pater, civitas, discipulus_
 
-The 10 most frequent `NOUN` types:  _forma, formam, esse, deus, formae, intellectus, materia, potentia, anima, deo_
+The 10 most frequent `NOUN` types:  _dei, die, loco, deus, dies, hora, filius, nomine, diebus, locum_
 
-The 10 most frequent ambiguous lemmas: _esse_ ([NOUN]() 1191, [VERB]() 1), _causa_ ([NOUN]() 1066, [X]() 1), _pars_ ([NOUN]() 825, [ADV]() 2), _agens_ ([NOUN]() 689, [VERB]() 1), _perfectus_ ([NOUN]() 423, [ADJ]() 8), _gratia_ ([NOUN]() 223, [ADV]() 1), _mundus_ ([NOUN]() 190, [ADJ]() 11), _inferus_ ([NOUN]() 170, [ADJ]() 8), _princeps_ ([NOUN]() 136, [ADJ]() 11), _deus1_ ([NOUN]() 109, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: _princeps_ ([NOUN]() 135, [ADJ]() 9), _mundus_ ([NOUN]() 100, [ADJ]() 11), _epistula_ ([NOUN]() 97, [ADJ]() 1), _liber_ ([NOUN]() 81, [ADJ]() 21), _amicus_ ([NOUN]() 75, [ADJ]() 7), _martyrium_ ([NOUN]() 52, [PROPN]() 1), _Romanus_ ([ADJ]() 90, [NOUN]() 40), _labor_ ([NOUN]() 40, [VERB]() 3), _inimicus_ ([NOUN]() 37, [ADJ]() 8), _publicanus_ ([NOUN]() 36, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  _esse_ ([VERB]() 2624, [NOUN]() 1190, [AUX]() 40), _bonum_ ([NOUN]() 472, [ADJ]() 117), _modo_ ([NOUN]() 443, [ADV]() 153, [SCONJ]() 6), _motus_ ([NOUN]() 323, [VERB]() 16), _agens_ ([NOUN]() 316, [VERB]() 144), _intellectum_ ([NOUN]() 305, [VERB]() 52), _malum_ ([NOUN]() 304, [ADJ]() 34), _accidens_ ([NOUN]() 287, [VERB]() 2), _effectus_ ([NOUN]() 245, [VERB]() 1), _ens_ ([NOUN]() 242, [VERB]() 8)
+The 10 most frequent ambiguous types:  _missa_ ([NOUN]() 66, [VERB]() 8), _bellum_ ([NOUN]() 60, [ADJ]() 2), _signa_ ([NOUN]() 55, [VERB]() 1), _principes_ ([NOUN]() 54, [ADJ]() 3), _exercitum_ ([NOUN]() 50, [VERB]() 1), _vocem_ ([NOUN]() 49, [VERB]() 1), _iudaei_ ([NOUN]() 1, [ADJ]() 1), _numero_ ([NOUN]() 44, [VERB]() 1), _belli_ ([NOUN]() 31, [ADJ]() 1), _mundo_ ([NOUN]() 31, [ADJ]() 2)
 
 
-* _esse_
-  * [VERB]() 2624: _Et solebas suavius <b>esse</b> , canturire belle deverbia , adicere melicam_
-  * [NOUN]() 1190: _sed angeli , cum sint formae subsistentes , non habent <b>esse</b> in potentia ._
-  * [AUX]() 40: _deum autem velle aliquid causatum <b>esse</b> est aeternum :_
-* _bonum_
-  * [NOUN]() 472: _ius que <b>bonum</b> apud eos non legibus magis quam natura valebat_
-  * [ADJ]() 117: _quale te dicam <b>bonum</b> Antehac fuisse , tales cum sint reliquiae ?_
-* _modo_
-  * [NOUN]() 443: _eo <b>modo</b> minume posse putabant per licentiam insolescere animum humanum_
-  * [ADV]() 153: _Magno me metu liberaveris , <b>modo</b> inter me atque te murus intersit_
-  * [SCONJ]() 6: _uno capite quo revocabor <b>modo</b> res conficiatur ero contentus_
-* _motus_
-  * [NOUN]() 323: _qui hoc probare intendit ex parte <b>motus</b> duabus viis ._
-  * [VERB]() 16: _loco ille <b>motus</b> est , cum est ex urbe depulsus_
-* _agens_
-  * [NOUN]() 316: _quod autem non toto se agit , non est primum <b>agens</b> :_
-  * [VERB]() 144: _duodecimum annum <b>agens</b> auiam Iuliam defunctam pro contione laudauit ._
-* _intellectum_
-  * [NOUN]() 305: _unde apparet <b>intellectum</b> simpliciter esse altiorem voluntate :_
-  * [VERB]() 52: _oportet igitur primum movens esse appetibile ut <b>intellectum</b> ._
-* _malum_
-  * [NOUN]() 304: _Immo , ut sciat me posse <b>malum</b> dare , nolo , me mortuum basiet_
-  * [ADJ]() 34: _id adeo <b>malum</b> multos post annos in civitatem revorterat_
-* _accidens_
-  * [NOUN]() 287: _voluntatem vero intellectu per <b>accidens</b> et secundum quid ._
-  * [VERB]() 2: _oportet igitur semper cum malo causato , quod est effectus boni per <b>accidens</b> , esse bonum aliquod quod est effectus boni per se , ita quod sit fundamentum eius :_
-* _effectus_
-  * [NOUN]() 245: _cum sint <b>effectus</b> causae virtutem non aequantes ._
-  * [VERB]() 1: _is autem qui sanus fuerat <b>effectus</b> nesciebat quis esset_
-* _ens_
-  * [NOUN]() 242: _ex quibus concludi potest ulterius esse aliquid quod est maxime <b>ens</b> ._
-  * [VERB]() 8: _sed quod est possibile esse , est subiectum potentia <b>ens</b> ._
+* _missa_
+  * [NOUN]() 66: _Iam ut fiat <b>missa</b> mittit uocem archidiaconus et dicit_
+  * [VERB]() 8: _Cognita Caesar causa reperit ab Suebis auxilia <b>missa</b> esse_
+* _bellum_
+  * [NOUN]() 60: _Quo proelio <b>bellum</b> Venetorum totius que orae maritimae confectum est_
+  * [ADJ]() 2: _quin etiam quod est subinane in nobis et non ἀφιλόδοξον <b>bellum</b> est enim sua vitia nosse id adficitur quadam delectatione_
+* _signa_
+  * [NOUN]() 55: _<b>signa</b> autem temporum non potestis_
+  * [VERB]() 1: _<b>signa</b> quae locuta sunt septem tonitrua_
+* _principes_
+  * [NOUN]() 54: _et quaerebant <b>principes</b> sacerdotum et scribae quomodo eum interficerent_
+  * [ADJ]() 3: _Cum Caesar in Galliam venit alterius factionis <b>principes</b> erant Haedui alterius Sequani_
+* _exercitum_
+  * [NOUN]() 50: _Ariovistus his omnibus diebus <b>exercitum</b> castris continuit_
+  * [VERB]() 1: _quod in epistula tua scriptum erat me iam arbitrari designatum esse scito nihil tam <b>exercitum</b> esse nunc Romae quam candidatos omnibus iniquitatibus ne c quando futura sint comitia sciri_
+* _vocem_
+  * [NOUN]() 49: _omnis qui est ex veritate audit meam <b>vocem</b>_
+  * [VERB]() 1: _non faciam ut enumerem miserias omnis in quas incidi per summam iniuriam et scelus non tam inimicorum meorum quam invidorum ne et meum maerorem exagitem et te in eundem luctum <b>vocem</b>_
+* _iudaei_
+  * [NOUN]() 1: _si quidem esset iniquum aliquid aut facinus pessimum o viri <b>iudaei</b> recte vos sustinerem_
+  * [ADJ]() 1: _viri <b>iudaei</b> et qui habitatis Hierusalem universi hoc vobis notum sit et auribus percipite verba mea_
+* _numero_
+  * [NOUN]() 44: _reductos in hostium <b>numero</b> habuit_
+  * [VERB]() 1: _itaque aut libris me delecto quorum habeo Anti festivam copiam aut fluctus <b>numero</b>_
+* _belli_
+  * [NOUN]() 31: _Sic ne que agri cultura ne c ratio atque usus <b>belli</b> intermittitur_
+  * [ADJ]() 1: _durius accipere hoc mihi visus est quam vellem et quam homines <b>belli</b> solent et postea prorsus ab instituta nostra paucorum dierum consuetudine longe refugit_
+* _mundo_
+  * [NOUN]() 31: _si haec facis manifesta te ipsum <b>mundo</b>_
+  * [ADJ]() 2: _beati <b>mundo</b> corde quoniam ipsi Deum videbunt_
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.808720 (the average of all parts of speech is 2.665441).
+The form / lemma ratio of `NOUN` is 2.314320 (the average of all parts of speech is 3.304580).
 
-The 1st highest number of forms (24) was observed with the lemma “perfectus”: _perfecta, perfectae, perfectam, perfecte, perfecti, perfectior, perfectiora, perfectiorem, perfectiores, perfectioris, perfectis, perfectissima, perfectissimae, perfectissimam, perfectissime, perfectissimo, perfectissimum, perfectissimus, perfectius, perfecto, perfectorum, perfectos, perfectum, perfectus_
+The 1st highest number of forms (15) was observed with the lemma “civitas”: _ciuitas, ciuitate, ciuitatem, ciuitates, ciuitati, ciuitatibus, ciuitatis, civitas, civitate, civitatem, civitates, civitati, civitatibus, civitatis, civitatum_
 
-The 2nd highest number of forms (19) was observed with the lemma “inferus”: _ima, inferior, inferiora, inferiorem, inferiores, inferiori, inferioribus, inferioris, inferiorum, inferius, inferus, infima, infimae, infimas, infimi, infimis, infimo, infimum, infimus_
+The 2nd highest number of forms (12) was observed with the lemma “vir”: _uir, uiri, uiris, uirorum, uirum, vir, viri, viris, viro, virorum, viros, virum_
 
-The 3rd highest number of forms (18) was observed with the lemma “altus”: _alta, altae, altior, altiora, altiorem, altiores, altiori, altioribus, altioris, altissima, altissimae, altissimam, altissimarum, altissimas, altissimi, altissimis, altissimum, altius_
+The 3rd highest number of forms (11) was observed with the lemma “provincia”: _prouincia, prouinciae, prouinciam, prouincias, prouinciis, provincia, provinciae, provinciam, provinciarum, provincias, provinciis_
 
-`NOUN` occurs with 8 features: [la-feat/Number]() (98859; 100% instances), [la-feat/Case]() (98825; 100% instances), [la-feat/Gender]() (98622; 100% instances), [la-feat/Degree]() (53513; 54% instances), [la-feat/Aspect]() (1; 0% instances), [la-feat/Tense]() (1; 0% instances), [la-feat/VerbForm]() (1; 0% instances), [la-feat/Voice]() (1; 0% instances)
+`NOUN` occurs with 3 features: [la-feat/Case]() (32005; 100% instances), [la-feat/Number]() (32005; 100% instances), [la-feat/Gender]() (32000; 100% instances)
 
-`NOUN` occurs with 21 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `VerbForm=Part`, `Voice=Pass`
+`NOUN` occurs with 13 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 146 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (9265 tokens).
-Examples: _forma, anima, materia, causa, substantia, potentia, essentia, virtus, ratio, operatio_
+`NOUN` occurs with 53 feature combinations.
+The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (3216 tokens).
+Examples: _domum, terram, rem, civitatem, partem, potestatem, vocem, causam, manum, fidem_
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 26 different relations: [la-dep/nmod]() (36188; 37% instances), [la-dep/nsubj]() (17283; 17% instances), [la-dep/dobj]() (16455; 17% instances), [la-dep/conj]() (7243; 7% instances), [la-dep/nsubjpass]() (6131; 6% instances), [la-dep/iobj]() (5061; 5% instances), [la-dep/root]() (2390; 2% instances), [la-dep/dep]() (2340; 2% instances), [la-dep/appos]() (1259; 1% instances), [la-dep/advcl]() (1031; 1% instances), [la-dep/acl]() (939; 1% instances), [la-dep/xcomp]() (912; 1% instances), [la-dep/vocative]() (495; 1% instances), [la-dep/csubj]() (393; 0% instances), [la-dep/remnant]() (275; 0% instances), [la-dep/ccomp]() (258; 0% instances), [la-dep/advmod]() (108; 0% instances), [la-dep/parataxis]() (99; 0% instances), [la-dep/cop]() (53; 0% instances), [la-dep/csubjpass]() (48; 0% instances), [la-dep/advmod:emph]() (14; 0% instances), [la-dep/aux]() (7; 0% instances), [la-dep/cc]() (3; 0% instances), [la-dep/punct]() (2; 0% instances), [la-dep/auxpass]() (1; 0% instances), [la-dep/case]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 19 different relations: [la-dep/nmod]() (10023; 31% instances), [la-dep/dobj]() (5273; 16% instances), [la-dep/nsubj]() (4520; 14% instances), [la-dep/iobj]() (4346; 14% instances), [la-dep/conj]() (2543; 8% instances), [la-dep/nsubjpass]() (2256; 7% instances), [la-dep/appos]() (1056; 3% instances), [la-dep/root]() (701; 2% instances), [la-dep/vocative]() (369; 1% instances), [la-dep/remnant]() (275; 1% instances), [la-dep/xcomp]() (264; 1% instances), [la-dep/advcl]() (178; 1% instances), [la-dep/ccomp]() (144; 0% instances), [la-dep/advmod]() (79; 0% instances), [la-dep/dep]() (17; 0% instances), [la-dep/csubjpass]() (15; 0% instances), [la-dep/parataxis]() (12; 0% instances), [la-dep/aux]() (7; 0% instances), [la-dep/acl]() (2; 0% instances)
 
-Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (60404; 61% instances), [NOUN]() (25341; 26% instances), [ADJ]() (4766; 5% instances), [ROOT]() (2390; 2% instances), [PRON]() (1950; 2% instances), [ADV]() (1379; 1% instances), [CONJ]() (1045; 1% instances), [PROPN]() (754; 1% instances), [NUM]() (562; 1% instances), [ADP]() (125; 0% instances), [PUNCT]() (97; 0% instances), [SCONJ]() (69; 0% instances), [X]() (53; 0% instances), [INTJ]() (38; 0% instances), [DET]() (14; 0% instances), [AUX]() (2; 0% instances)
+Parents of `NOUN` nodes belong to 13 different parts of speech: [VERB]() (21078; 66% instances), [NOUN]() (6771; 21% instances), [ADJ]() (1211; 4% instances), [PROPN]() (754; 2% instances), [ROOT]() (701; 2% instances), [ADV]() (671; 2% instances), [PRON]() (489; 2% instances), [NUM]() (165; 1% instances), [ADP]() (112; 0% instances), [CONJ]() (36; 0% instances), [INTJ]() (34; 0% instances), [SCONJ]() (32; 0% instances), [X]() (26; 0% instances)
 
-30544 (31%) `NOUN` nodes are leaves.
+10448 (33%) `NOUN` nodes are leaves.
 
-36376 (37%) `NOUN` nodes have one child.
+12334 (38%) `NOUN` nodes have one child.
 
-18618 (19%) `NOUN` nodes have two children.
+5872 (18%) `NOUN` nodes have two children.
 
-13451 (14%) `NOUN` nodes have three or more children.
+3426 (11%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 28.
+The highest child degree of a `NOUN` node is 14.
 
-Children of `NOUN` nodes are attached using 31 different relations: [la-dep/nmod]() (31616; 24% instances), [la-dep/case]() (24238; 19% instances), [la-dep/amod]() (20076; 15% instances), [la-dep/acl]() (9145; 7% instances), [la-dep/cc]() (8530; 7% instances), [la-dep/conj]() (6827; 5% instances), [la-dep/punct]() (6751; 5% instances), [la-dep/cop]() (5776; 4% instances), [la-dep/nsubj]() (4005; 3% instances), [la-dep/mark]() (2884; 2% instances), [la-dep/nummod]() (1539; 1% instances), [la-dep/advmod]() (1410; 1% instances), [la-dep/advmod:emph]() (1202; 1% instances), [la-dep/advcl]() (951; 1% instances), [la-dep/neg]() (932; 1% instances), [la-dep/appos]() (881; 1% instances), [la-dep/dep]() (777; 1% instances), [la-dep/discourse]() (484; 0% instances), [la-dep/remnant]() (292; 0% instances), [la-dep/csubj]() (268; 0% instances), [la-dep/xcomp]() (237; 0% instances), [la-dep/nsubjpass]() (214; 0% instances), [la-dep/ccomp]() (161; 0% instances), [la-dep/det]() (132; 0% instances), [la-dep/dobj]() (117; 0% instances), [la-dep/iobj]() (80; 0% instances), [la-dep/vocative]() (46; 0% instances), [la-dep/parataxis]() (43; 0% instances), [la-dep/aux]() (17; 0% instances), [la-dep/csubjpass]() (12; 0% instances), [la-dep/auxpass]() (7; 0% instances)
+Children of `NOUN` nodes are attached using 24 different relations: [la-dep/nmod]() (12510; 34% instances), [la-dep/case]() (7924; 21% instances), [la-dep/amod]() (3735; 10% instances), [la-dep/conj]() (2491; 7% instances), [la-dep/cc]() (2372; 6% instances), [la-dep/acl]() (2150; 6% instances), [la-dep/cop]() (1149; 3% instances), [la-dep/nsubj]() (936; 3% instances), [la-dep/appos]() (719; 2% instances), [la-dep/nummod]() (715; 2% instances), [la-dep/advmod]() (490; 1% instances), [la-dep/discourse]() (484; 1% instances), [la-dep/remnant]() (292; 1% instances), [la-dep/neg]() (199; 1% instances), [la-dep/mark]() (181; 0% instances), [la-dep/ccomp]() (147; 0% instances), [la-dep/det]() (132; 0% instances), [la-dep/advcl]() (126; 0% instances), [la-dep/iobj]() (75; 0% instances), [la-dep/vocative]() (44; 0% instances), [la-dep/parataxis]() (17; 0% instances), [la-dep/aux]() (16; 0% instances), [la-dep/dobj]() (11; 0% instances), [la-dep/dep]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 15 different parts of speech: [NOUN]() (25341; 20% instances), [ADP]() (24460; 19% instances), [ADJ]() (19827; 15% instances), [VERB]() (16575; 13% instances), [PRON]() (15707; 12% instances), [CONJ]() (7559; 6% instances), [PUNCT]() (6743; 5% instances), [ADV]() (4439; 3% instances), [SCONJ]() (3107; 2% instances), [DET]() (2720; 2% instances), [NUM]() (1660; 1% instances), [PROPN]() (1332; 1% instances), [X]() (121; 0% instances), [INTJ]() (53; 0% instances), [AUX]() (6; 0% instances)
+Children of `NOUN` nodes belong to 13 different parts of speech: [ADP]() (7928; 21% instances), [NOUN]() (6771; 18% instances), [ADJ]() (6669; 18% instances), [PRON]() (5834; 16% instances), [VERB]() (3703; 10% instances), [CONJ]() (2376; 6% instances), [PROPN]() (1332; 4% instances), [ADV]() (1141; 3% instances), [NUM]() (779; 2% instances), [SCONJ]() (189; 1% instances), [DET]() (131; 0% instances), [INTJ]() (42; 0% instances), [X]() (21; 0% instances)
 

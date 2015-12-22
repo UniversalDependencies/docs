@@ -87,63 +87,61 @@ Children of `ADP` nodes belong to 4 different parts of speech: [ADJ]() (3; 50% i
 
 ## Treebank Statistics (UD_Latin-ITT)
 
-There are 78 `ADP` lemmas (1%), 54 `ADP` types (0%) and 27128 `ADP` tokens (9%).
-Out of 14 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 5 in number of tokens.
+There are 40 `ADP` lemmas (1%), 42 `ADP` types (0%) and 24654 `ADP` tokens (9%).
+Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 10 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: _in, ad, per, e, secundum, a, cum, de, in1, propter_
+The 10 most frequent `ADP` lemmas: _in, ad, per, e, secundum, a, cum, de, propter, supra_
 
-The 10 most frequent `ADP` types:  _in, ad, per, ex, secundum, de, cum, a, ab, propter_
+The 10 most frequent `ADP` types:  _in, ad, per, ex, secundum, cum, de, a, ab, propter_
 
-The 10 most frequent ambiguous lemmas: _cum_ ([ADP]() 1322, [SCONJ]() 56), _in1_ ([ADP]() 734, [CONJ]() 1), _propter_ ([ADP]() 484, [ADV]() 1), _ad1_ ([ADP]() 224, [ADV]() 1), _de1_ ([ADP]() 188, [ADV]() 1), _cum1_ ([SCONJ]() 128, [ADP]() 120, [CONJ]() 10), _contra_ ([ADP]() 115, [ADV]() 1), _post_ ([ADP]() 101, [ADV]() 5), _super2_ ([ADP]() 79, [ADV]() 3), _inter1_ ([ADP]() 40, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: _si_ ([SCONJ]() 1108, [ADP]() 2), _et_ ([CONJ]() 6287, [ADV]() 1, [ADP]() 1), _quam_ ([SCONJ]() 395, [CONJ]() 16, [ADP]() 1, [X]() 1), _quod_ ([SCONJ]() 4241, [PRON]() 2, [X]() 2, [ADV]() 1, [ADP]() 1), _sicut_ ([SCONJ]() 1920, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  _ad_ ([ADP]() 3548, [ADV]() 1), _secundum_ ([ADP]() 1993, [ADJ]() 103, [NUM]() 2), _de_ ([ADP]() 1495, [ADV]() 1), _cum_ ([ADP]() 1439, [SCONJ]() 153, [CONJ]() 9), _a_ ([ADP]() 1279, [INTJ]() 5, [X]() 1), _ab_ ([ADP]() 830, [X]() 2), _propter_ ([ADP]() 507, [ADV]() 1), _supra_ ([ADP]() 486, [ADV]() 6), _sine_ ([ADP]() 209, [VERB]() 1), _inter_ ([ADP]() 171, [ADV]() 2)
+The 10 most frequent ambiguous types:  _secundum_ ([ADP]() 1986, [ADJ]() 101), _a_ ([ADP]() 1155, [X]() 1), _ab_ ([ADP]() 738, [X]() 2), _si_ ([SCONJ]() 1108, [ADP]() 2), _et_ ([CONJ]() 6287, [ADV]() 1, [ADP]() 1), _quam_ ([SCONJ]() 395, [PRON]() 349, [CONJ]() 16, [ADP]() 1, [X]() 1), _quod_ ([SCONJ]() 4248, [PRON]() 2005, [X]() 7, [ADV]() 1, [ADP]() 1), _sicut_ ([SCONJ]() 1917, [ADP]() 1)
 
 
-* _ad_
-  * [ADP]() 3548: _Huius contubernalis <b>ad</b> villam supremum diem obiit_
-  * [ADV]() 1: _Occisis <b>ad</b> hominum milibus IIII reliqui in oppidum reiecti sunt_
 * _secundum_
-  * [ADP]() 1993: _in aperto loco <b>secundum</b> flumen paucae stationes equitum videbantur_
-  * [ADJ]() 103: _et hoc est <b>secundum</b> in quo differt secunda opinio a prima ._
-  * [NUM]() 2: _quinque medios consulatus a sexto ad decimum annuos gessit , ceteros aut nouem aut sex aut quattuor aut tribus mensibus , <b>secundum</b> uero paucissimis horis ._
-* _de_
-  * [ADP]() 1495: _Viderint alii quid <b>de</b> hoc exopinissent_
-  * [ADV]() 1: _decem partes dicit , librum ab oculo legit , thraecium sibi de diariis fecit , arcisellium <b>de</b> suo paravit et duas trullas_
-* _cum_
-  * [ADP]() 1439: _Numquam est fidelis <b>cum</b> potente societas :_
-  * [SCONJ]() 153: _Et tu <b>cum</b> esses capo , cocococo , atque cor non habebas_
-  * [CONJ]() 9: _Et puto , <b>cum</b> vicensimariis magnam mantissam habet_
+  * [ADP]() 1986: _voluntatem vero intellectu per accidens et <b>secundum</b> quid ._
+  * [ADJ]() 101: _et hoc est <b>secundum</b> in quo differt secunda opinio a prima ._
 * _a_
-  * [ADP]() 1279: _Et Giton quidem iam dudum se ratione acutissima redemerat <b>a</b> cane_
-  * [INTJ]() 5: _<b>a</b> pereat , si quis lentus amare potest_
+  * [ADP]() 1155: _nam actus temperantiae maxime laudatur in abstinendo <b>a</b> delectationibus ;_
   * [X]() 1: _sit potentia infinita quae est <b>a</b> ._
 * _ab_
-  * [ADP]() 830: _Si quid <b>ab</b> illa petii , nunquam mihi negatum_
+  * [ADP]() 738: _unde <b>ab</b> hoc denominatur ._
   * [X]() 2: _accipiatur pars eius quae est <b>ab</b> ._
-* _propter_
-  * [ADP]() 507: _Ego , quod me sic vides , <b>propter</b> artificium meum diis gratias ago_
-  * [ADV]() 1: _Quae cum abdidisset cornea corpus domo Nec ullo pacto laedi posset condita , Venit per auras cornix et <b>propter</b> volans :_
-* _supra_
-  * [ADP]() 486: _et misit qui sedebat <b>supra</b> nubem falcem suam in terram et messa est terra_
-  * [ADV]() 6: _Sed iuventutem , quam , ut <b>supra</b> diximus , illexerat , multis modis mala facinora edocebat_
-* _sine_
-  * [ADP]() 209: _et in ore ipsorum non est inventum mendacium <b>sine</b> macula sunt_
-  * [VERB]() 1: _me <b>sine</b> , quem semper voluit fortuna iacere , hanc animam extremae reddere nequitiae_
-* _inter_
-  * [ADP]() 171: _Tunc iudex <b>inter</b> illos sedit simius ._
-  * [ADV]() 2: _Oportet etiam <b>inter</b> cenandum philologiam nosse_
+* _si_
+  * [SCONJ]() 1108: _<b>si</b> igitur honor non est summum bonum , multo minus gloria ._
+  * [ADP]() 2: _ei enim quod est ex aliquo aliquid fieri , contradictorium quod oportet dare <b>si</b> hoc non detur , est non ex aliquo fieri : non autem hoc quod est ex nihilo , nisi sub sensu primi ;_
+* _et_
+  * [CONJ]() 6287: _nam primo <b>et</b> per se intellectus movet voluntatem :_
+  * [ADV]() 1: _si autem non simul moveant , quilibet eorum est quandoque movens <b>et</b> quandoque non ._
+  * [ADP]() 1: _sed potentia activa ponit formam suam circa objectum , sicut patet de intellectu agente <b>et</b> possibili ._
+* _quam_
+  * [SCONJ]() 395: _voluntas est superior <b>quam</b> appetitus sensitivus :_
+  * [PRON]() 349: _est enim huiusmodi cognitio per <b>quam</b> res cognoscitur in potentia tantum ;_
+  * [CONJ]() 16: _ostensum est enim supra quod tam ens actu , <b>quam</b> ens in potentia , est bonum ._
+  * [ADP]() 1: _magis igitur addit ad bonitatem universi multitudo specierum <b>quam</b> multitudo individuorum in una specie ._
+  * [X]() 1: _quod tam de corpore circulari <b>quam</b> de recto probatur in i caeli et mundi ._
+* _quod_
+  * [SCONJ]() 4248: _<b>quod</b> felicitas humana non consistit in delectationibus carnalibus ._
+  * [PRON]() 2005: _finis enim est melior eo <b>quod</b> est ad finem ._
+  * [X]() 7: _<b>quod</b> distinctio rerum non est a casu ._
+  * [ADV]() 1: _respondeo dicendum <b>quod</b> illud quo intellectus intelligit , comparatur ad intellectum intelligentem ut forma eius , quia forma est quo agens agit ._
+  * [ADP]() 1: _sed quia nihil potest in alterum transformari nisi secundum <b>quod</b> a sua forma quodammodo recedit , quia unius una est forma , ideo hanc divisionem penetrationis praecedit alia divisio , qua amans a seipso separatur in amatum tendens ;_
+* _sicut_
+  * [SCONJ]() 1917: _movet enim ipsum , <b>sicut</b> superius dictum est ._
+  * [ADP]() 1: _<b>sicut</b> enim animal , dum generatur , accipit a generante virtutem nutritivam , ita etiam virtutem generativam ._
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.692308 (the average of all parts of speech is 2.318731).
+The form / lemma ratio of `ADP` is 1.050000 (the average of all parts of speech is 3.609102).
 
-The 1st highest number of forms (3) was observed with the lemma “ab1”: _a, ab, abs_
+The 1st highest number of forms (2) was observed with the lemma “a”: _a, ab_
 
-The 2nd highest number of forms (2) was observed with the lemma “a”: _a, ab_
+The 2nd highest number of forms (2) was observed with the lemma “e”: _e, ex_
 
-The 3rd highest number of forms (2) was observed with the lemma “ab”: _a, ab_
+The 3rd highest number of forms (1) was observed with the lemma “absque”: _absque_
 
-`ADP` occurs with 1 features: [la-feat/AdpType]() (24647; 91% instances)
+`ADP` occurs with 1 features: [la-feat/AdpType]() (24647; 100% instances)
 
 `ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
 
@@ -154,23 +152,23 @@ Examples: _in, ad, per, ex, secundum, cum, de, a, ab, propter_
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: [la-dep/case]() (23960; 88% instances), [la-dep/mark]() (2573; 9% instances), [la-dep/advmod]() (463; 2% instances), [la-dep/cc]() (114; 0% instances), [la-dep/nmod]() (5; 0% instances), [la-dep/conj]() (3; 0% instances), [la-dep/root]() (3; 0% instances), [la-dep/dep]() (2; 0% instances), [la-dep/nsubj]() (2; 0% instances), [la-dep/punct]() (2; 0% instances), [la-dep/advmod:emph]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: [la-dep/case]() (21488; 87% instances), [la-dep/mark]() (2572; 10% instances), [la-dep/advmod]() (463; 2% instances), [la-dep/cc]() (114; 0% instances), [la-dep/nmod]() (5; 0% instances), [la-dep/root]() (3; 0% instances), [la-dep/conj]() (2; 0% instances), [la-dep/dep]() (2; 0% instances), [la-dep/nsubj]() (2; 0% instances), [la-dep/punct]() (2; 0% instances), [la-dep/advmod:emph]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: [NOUN]() (16532; 61% instances), [PRON]() (5057; 19% instances), [VERB]() (2745; 10% instances), [ADJ]() (1638; 6% instances), [ADV]() (532; 2% instances), [NUM]() (388; 1% instances), [X]() (123; 0% instances), [DET]() (88; 0% instances), [PUNCT]() (13; 0% instances), [CONJ]() (6; 0% instances), [ADP]() (3; 0% instances), [ROOT]() (3; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: [NOUN]() (14565; 59% instances), [PRON]() (4754; 19% instances), [VERB]() (2701; 11% instances), [ADJ]() (1535; 6% instances), [ADV]() (497; 2% instances), [NUM]() (383; 2% instances), [X]() (121; 0% instances), [DET]() (88; 0% instances), [CONJ]() (4; 0% instances), [ADP]() (3; 0% instances), [ROOT]() (3; 0% instances)
 
-27076 (100%) `ADP` nodes are leaves.
+24605 (100%) `ADP` nodes are leaves.
 
-43 (0%) `ADP` nodes have one child.
+41 (0%) `ADP` nodes have one child.
 
 4 (0%) `ADP` nodes have two children.
 
-5 (0%) `ADP` nodes have three or more children.
+4 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 14 different relations: [la-dep/punct]() (24; 34% instances), [la-dep/nmod]() (13; 19% instances), [la-dep/cc]() (7; 10% instances), [la-dep/mark]() (6; 9% instances), [la-dep/advmod]() (4; 6% instances), [la-dep/advmod:emph]() (3; 4% instances), [la-dep/dep]() (3; 4% instances), [la-dep/amod]() (2; 3% instances), [la-dep/case]() (2; 3% instances), [la-dep/conj]() (2; 3% instances), [la-dep/advcl]() (1; 1% instances), [la-dep/csubj]() (1; 1% instances), [la-dep/dobj]() (1; 1% instances), [la-dep/neg]() (1; 1% instances)
+Children of `ADP` nodes are attached using 13 different relations: [la-dep/punct]() (23; 36% instances), [la-dep/nmod]() (13; 20% instances), [la-dep/cc]() (6; 9% instances), [la-dep/mark]() (6; 9% instances), [la-dep/advmod]() (3; 5% instances), [la-dep/advmod:emph]() (3; 5% instances), [la-dep/dep]() (3; 5% instances), [la-dep/case]() (2; 3% instances), [la-dep/advcl]() (1; 2% instances), [la-dep/conj]() (1; 2% instances), [la-dep/csubj]() (1; 2% instances), [la-dep/dobj]() (1; 2% instances), [la-dep/neg]() (1; 2% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: [PUNCT]() (24; 34% instances), [NOUN]() (13; 19% instances), [PRON]() (9; 13% instances), [CONJ]() (8; 11% instances), [ADJ]() (5; 7% instances), [ADV]() (4; 6% instances), [ADP]() (3; 4% instances), [SCONJ]() (2; 3% instances), [VERB]() (2; 3% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: [PUNCT]() (23; 36% instances), [NOUN]() (12; 19% instances), [PRON]() (9; 14% instances), [CONJ]() (7; 11% instances), [ADV]() (4; 6% instances), [ADP]() (3; 5% instances), [ADJ]() (2; 3% instances), [SCONJ]() (2; 3% instances), [VERB]() (2; 3% instances)
 
 
 
@@ -178,89 +176,80 @@ Children of `ADP` nodes belong to 9 different parts of speech: [PUNCT]() (24; 34
 
 ## Treebank Statistics (UD_Latin-PROIEL)
 
-There are 94 `ADP` lemmas (1%), 68 `ADP` types (0%) and 40250 `ADP` tokens (9%).
-Out of 15 observed tags, the rank of `ADP` is: 9 in number of lemmas, 12 in number of types and 5 in number of tokens.
+There are 48 `ADP` lemmas (1%), 55 `ADP` types (0%) and 13122 `ADP` tokens (8%).
+Out of 13 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: _in, ad, per, de, cum, e, secundum, a, ab, ex_
+The 10 most frequent `ADP` lemmas: _in, ad, de, ab, cum, ex, per, super, post, propter_
 
-The 10 most frequent `ADP` types:  _in, ad, per, ex, de, cum, a, secundum, ab, propter_
+The 10 most frequent `ADP` types:  _in, ad, de, cum, a, ex, ab, per, super, post_
 
-The 10 most frequent ambiguous lemmas: _ad_ ([ADP]() 5306, [ADV]() 7), _per_ ([ADP]() 3594, [ADV]() 2), _cum_ ([ADP]() 2160, [SCONJ]() 1048, [ADV]() 47), _ex_ ([ADP]() 781, [SCONJ]() 3), _in1_ ([ADP]() 734, [CONJ]() 1), _propter_ ([ADP]() 655, [ADV]() 1), _supra_ ([ADP]() 540, [ADV]() 16), _super_ ([ADP]() 278, [ADV]() 7), _post_ ([ADP]() 274, [ADV]() 23, [SCONJ]() 1), _ante_ ([ADP]() 256, [ADV]() 46)
+The 10 most frequent ambiguous lemmas: _ad_ ([ADP]() 1963, [ADV]() 7), _cum_ ([SCONJ]() 992, [ADP]() 838, [ADV]() 47), _ex_ ([ADP]() 758, [SCONJ]() 3), _per_ ([ADP]() 446, [ADV]() 2), _super_ ([ADP]() 229, [ADV]() 7), _post_ ([ADP]() 173, [ADV]() 18, [SCONJ]() 1), _ante_ ([ADP]() 164, [ADV]() 46), _iuxta_ ([ADP]() 66, [ADV]() 6), _supra_ ([ADP]() 65, [ADV]() 16), _contra_ ([ADP]() 55, [ADV]() 21)
 
-The 10 most frequent ambiguous types:  _ad_ ([ADP]() 5495, [ADV]() 8), _per_ ([ADP]() 3687, [ADV]() 2), _ex_ ([ADP]() 2942, [SCONJ]() 3), _de_ ([ADP]() 2830, [ADV]() 1), _cum_ ([ADP]() 2271, [SCONJ]() 1091, [ADV]() 45, [CONJ]() 9), _a_ ([ADP]() 2037, [INTJ]() 5, [X]() 1), _secundum_ ([ADP]() 2042, [ADJ]() 112, [NUM]() 2), _ab_ ([ADP]() 1295, [X]() 2), _propter_ ([ADP]() 677, [ADV]() 1), _supra_ ([ADP]() 551, [ADV]() 22)
+The 10 most frequent ambiguous types:  _ad_ ([ADP]() 1947, [ADV]() 7), _cum_ ([SCONJ]() 938, [ADP]() 832, [ADV]() 45), _ex_ ([ADP]() 729, [SCONJ]() 3), _per_ ([ADP]() 444, [ADV]() 2), _super_ ([ADP]() 229, [ADV]() 1), _post_ ([ADP]() 169, [ADV]() 16), _ante_ ([ADP]() 162, [ADV]() 46), _sine_ ([ADP]() 106, [VERB]() 8), _iuxta_ ([ADP]() 65, [ADV]() 6), _supra_ ([ADP]() 65, [ADV]() 16)
 
 
 * _ad_
-  * [ADP]() 5495: _Huius contubernalis <b>ad</b> villam supremum diem obiit_
-  * [ADV]() 8: _Occisis <b>ad</b> hominum milibus IIII reliqui in oppidum reiecti sunt_
-* _per_
-  * [ADP]() 3687: _Nemo unquam convivarum <b>per</b> eandem ianuam emissus est_
-  * [ADV]() 2: _quod ad me de Hermathena scribis <b>per</b> mihi gratum est_
-* _ex_
-  * [ADP]() 2942: _Hinc <b>ex</b> eodem unguento in vinarium atque lucernam aliquantum est infusum_
-  * [SCONJ]() 3: _<b>ex</b> quo enim patres dormierunt omnia sic perseverant ab initio creaturae_
-* _de_
-  * [ADP]() 2830: _Viderint alii quid <b>de</b> hoc exopinissent_
-  * [ADV]() 1: _decem partes dicit , librum ab oculo legit , thraecium sibi de diariis fecit , arcisellium <b>de</b> suo paravit et duas trullas_
+  * [ADP]() 1947: _Dumnorigem <b>ad</b> se vocat_
+  * [ADV]() 7: _ex his qui arma ferre possent <b>ad</b> milia nonaginta.duo_
 * _cum_
-  * [ADP]() 2271: _Numquam est fidelis <b>cum</b> potente societas :_
-  * [SCONJ]() 1091: _Et tu <b>cum</b> esses capo , cocococo , atque cor non habebas_
+  * [SCONJ]() 938: _qui potui non videre <b>cum</b> per emporium Puteolanorum iter facerem_
+  * [ADP]() 832: _velle sese de re publica et summis utriusque rebus <b>cum</b> eo agere_
   * [ADV]() 45: _Eandem virtutem istam veniet tempus <b>cum</b> graviter gemes_
-  * [CONJ]() 9: _Et puto , <b>cum</b> vicensimariis magnam mantissam habet_
-* _a_
-  * [ADP]() 2037: _Et Giton quidem iam dudum se ratione acutissima redemerat <b>a</b> cane_
-  * [INTJ]() 5: _<b>a</b> pereat , si quis lentus amare potest_
-  * [X]() 1: _sit potentia infinita quae est <b>a</b> ._
-* _secundum_
-  * [ADP]() 2042: _in aperto loco <b>secundum</b> flumen paucae stationes equitum videbantur_
-  * [ADJ]() 112: _et hoc est <b>secundum</b> in quo differt secunda opinio a prima ._
-  * [NUM]() 2: _quinque medios consulatus a sexto ad decimum annuos gessit , ceteros aut nouem aut sex aut quattuor aut tribus mensibus , <b>secundum</b> uero paucissimis horis ._
-* _ab_
-  * [ADP]() 1295: _Si quid <b>ab</b> illa petii , nunquam mihi negatum_
-  * [X]() 2: _accipiatur pars eius quae est <b>ab</b> ._
-* _propter_
-  * [ADP]() 677: _Ego , quod me sic vides , <b>propter</b> artificium meum diis gratias ago_
-  * [ADV]() 1: _Quae cum abdidisset cornea corpus domo Nec ullo pacto laedi posset condita , Venit per auras cornix et <b>propter</b> volans :_
+* _ex_
+  * [ADP]() 729: _<b>ex</b> his qui arma ferre possent ad milia nonaginta.duo_
+  * [SCONJ]() 3: _<b>ex</b> quo enim patres dormierunt omnia sic perseverant ab initio creaturae_
+* _per_
+  * [ADP]() 444: _<b>per</b> eos ne causam diceret se eripuit_
+  * [ADV]() 2: _quod ad me de Hermathena scribis <b>per</b> mihi gratum est_
+* _super_
+  * [ADP]() 229: _fundata enim erat <b>super</b> petram_
+  * [ADV]() 1: _Candelae autem ecclesiasticae <b>super</b> ducentae paratae sunt propter lumen omni populo_
+* _post_
+  * [ADP]() 169: _<b>post</b> horam quartam molesti ceteri non sunt_
+  * [ADV]() 16: _Biduo <b>post</b> Ariovistus ad Caesarem legatos misit_
+* _ante_
+  * [ADP]() 162: _per tegulas submiserunt illum cum lecto in medium <b>ante</b> Iesum_
+  * [ADV]() 46: _idem <b>ante</b>_
+* _sine_
+  * [ADP]() 106: _non <b>sine</b> magna spe magnis que praemiis domum propinquos que reliquisse_
+  * [VERB]() 8: _<b>sine</b>_
+* _iuxta_
+  * [ADP]() 65: _lectus est etiam locus ipse de libro Moysi <b>iuxta</b> consuetudinem_
+  * [ADV]() 6: _In cuius putei honorem fabricata est ibi <b>iuxta</b> sancta ecclesia ingens ualde et pulchra_
 * _supra_
-  * [ADP]() 551: _et misit qui sedebat <b>supra</b> nubem falcem suam in terram et messa est terra_
-  * [ADV]() 22: _In eadem causa fuerunt Usipetes et Tencteri quos <b>supra</b> diximus_
+  * [ADP]() 65: _et videntes eum <b>supra</b> mare ambulantem turbati sunt dicentes quia_
+  * [ADV]() 16: _In eadem causa fuerunt Usipetes et Tencteri quos <b>supra</b> diximus_
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.723404 (the average of all parts of speech is 2.665441).
+The form / lemma ratio of `ADP` is 1.145833 (the average of all parts of speech is 3.304580).
 
 The 1st highest number of forms (3) was observed with the lemma “ab”: _a, ab, abs_
 
-The 2nd highest number of forms (3) was observed with the lemma “ab1”: _a, ab, abs_
+The 2nd highest number of forms (2) was observed with the lemma “ad”: _ad, ad.Kal.Iunias_
 
-The 3rd highest number of forms (2) was observed with the lemma “a”: _a, ab_
+The 3rd highest number of forms (2) was observed with the lemma “adversus”: _adversum, adversus_
 
-`ADP` occurs with 1 features: [la-feat/AdpType]() (24647; 61% instances)
-
-`ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
-
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (24647 tokens).
-Examples: _in, ad, per, ex, secundum, cum, de, a, ab, propter_
+`ADP` does not occur with any features.
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 16 different relations: [la-dep/case]() (37005; 92% instances), [la-dep/mark]() (2573; 6% instances), [la-dep/advmod]() (527; 1% instances), [la-dep/cc]() (114; 0% instances), [la-dep/amod]() (6; 0% instances), [la-dep/nmod]() (5; 0% instances), [la-dep/conj]() (4; 0% instances), [la-dep/appos]() (3; 0% instances), [la-dep/root]() (3; 0% instances), [la-dep/dep]() (2; 0% instances), [la-dep/nsubj]() (2; 0% instances), [la-dep/punct]() (2; 0% instances), [la-dep/advcl]() (1; 0% instances), [la-dep/advmod:emph]() (1; 0% instances), [la-dep/remnant]() (1; 0% instances), [la-dep/xcomp]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 8 different relations: [la-dep/case]() (13045; 99% instances), [la-dep/advmod]() (64; 0% instances), [la-dep/amod]() (6; 0% instances), [la-dep/appos]() (3; 0% instances), [la-dep/advcl]() (1; 0% instances), [la-dep/conj]() (1; 0% instances), [la-dep/remnant]() (1; 0% instances), [la-dep/xcomp]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: [NOUN]() (24460; 61% instances), [PRON]() (7484; 19% instances), [VERB]() (3035; 8% instances), [ADJ]() (2616; 6% instances), [PROPN]() (1298; 3% instances), [ADV]() (639; 2% instances), [NUM]() (458; 1% instances), [X]() (132; 0% instances), [DET]() (88; 0% instances), [ADP]() (18; 0% instances), [PUNCT]() (13; 0% instances), [CONJ]() (6; 0% instances), [ROOT]() (3; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: [NOUN]() (7928; 60% instances), [PRON]() (2427; 18% instances), [PROPN]() (1298; 10% instances), [ADJ]() (978; 7% instances), [VERB]() (290; 2% instances), [ADV]() (107; 1% instances), [NUM]() (70; 1% instances), [ADP]() (15; 0% instances), [X]() (9; 0% instances)
 
-39568 (98%) `ADP` nodes are leaves.
+12492 (95%) `ADP` nodes are leaves.
 
-626 (2%) `ADP` nodes have one child.
+583 (4%) `ADP` nodes have one child.
 
-42 (0%) `ADP` nodes have two children.
+38 (0%) `ADP` nodes have two children.
 
-14 (0%) `ADP` nodes have three or more children.
+9 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 5.
+The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 20 different relations: [la-dep/advmod]() (299; 39% instances), [la-dep/appos]() (151; 20% instances), [la-dep/discourse]() (102; 13% instances), [la-dep/neg]() (61; 8% instances), [la-dep/nmod]() (31; 4% instances), [la-dep/advcl]() (27; 4% instances), [la-dep/punct]() (24; 3% instances), [la-dep/case]() (15; 2% instances), [la-dep/cc]() (10; 1% instances), [la-dep/mark]() (7; 1% instances), [la-dep/ccomp]() (6; 1% instances), [la-dep/dobj]() (5; 1% instances), [la-dep/advmod:emph]() (3; 0% instances), [la-dep/amod]() (3; 0% instances), [la-dep/conj]() (3; 0% instances), [la-dep/dep]() (3; 0% instances), [la-dep/nsubj]() (3; 0% instances), [la-dep/remnant]() (2; 0% instances), [la-dep/cop]() (1; 0% instances), [la-dep/csubj]() (1; 0% instances)
+Children of `ADP` nodes are attached using 16 different relations: [la-dep/advmod]() (295; 43% instances), [la-dep/appos]() (151; 22% instances), [la-dep/discourse]() (102; 15% instances), [la-dep/neg]() (60; 9% instances), [la-dep/advcl]() (26; 4% instances), [la-dep/nmod]() (18; 3% instances), [la-dep/case]() (13; 2% instances), [la-dep/ccomp]() (6; 1% instances), [la-dep/dobj]() (4; 1% instances), [la-dep/cc]() (3; 0% instances), [la-dep/nsubj]() (3; 0% instances), [la-dep/remnant]() (2; 0% instances), [la-dep/amod]() (1; 0% instances), [la-dep/conj]() (1; 0% instances), [la-dep/cop]() (1; 0% instances), [la-dep/mark]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: [ADV]() (468; 62% instances), [NOUN]() (125; 17% instances), [PROPN]() (39; 5% instances), [VERB]() (33; 4% instances), [PUNCT]() (24; 3% instances), [PRON]() (20; 3% instances), [ADP]() (18; 2% instances), [ADJ]() (16; 2% instances), [CONJ]() (11; 1% instances), [SCONJ]() (3; 0% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: [ADV]() (464; 68% instances), [NOUN]() (112; 16% instances), [PROPN]() (39; 6% instances), [VERB]() (31; 5% instances), [ADP]() (15; 2% instances), [ADJ]() (11; 2% instances), [PRON]() (11; 2% instances), [CONJ]() (3; 0% instances), [SCONJ]() (1; 0% instances)
 
