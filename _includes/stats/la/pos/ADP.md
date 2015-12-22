@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 58 `ADP` lemmas (1%), 42 `ADP` types (0%) and 2474 `ADP` tokens (5%).
 Out of 12 observed tags, the rank of `ADP` is: 7 in number of lemmas, 10 in number of types and 8 in number of tokens.

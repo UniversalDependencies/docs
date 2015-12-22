@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 64 `PRON` lemmas (1%), 219 `PRON` types (2%) and 4036 `PRON` tokens (9%).
 Out of 12 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 5 in number of tokens.

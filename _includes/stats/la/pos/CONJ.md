@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 71 `CONJ` lemmas (1%), 64 `CONJ` types (0%) and 3541 `CONJ` tokens (7%).
 Out of 12 observed tags, the rank of `CONJ` is: 5 in number of lemmas, 7 in number of types and 7 in number of tokens.

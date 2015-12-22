@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 52 `NUM` lemmas (1%), 81 `NUM` types (1%) and 246 `NUM` tokens (1%).
 Out of 12 observed tags, the rank of `NUM` is: 9 in number of lemmas, 6 in number of types and 10 in number of tokens.

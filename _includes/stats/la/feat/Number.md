@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.

@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 2288 `VERB` lemmas (29%), 5992 `VERB` types (42%) and 10541 `VERB` tokens (22%).
 Out of 12 observed tags, the rank of `VERB` is: 2 in number of lemmas, 1 in number of types and 2 in number of tokens.

@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 3255 `NOUN` lemmas (41%), 4996 `NOUN` types (35%) and 12158 `NOUN` tokens (26%).
 Out of 12 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.

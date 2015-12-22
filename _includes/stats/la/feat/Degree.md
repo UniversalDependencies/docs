@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.

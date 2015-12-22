@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 52 `X` lemmas (1%), 57 `X` types (0%) and 112 `X` tokens (0%).
 Out of 12 observed tags, the rank of `X` is: 10 in number of lemmas, 8 in number of types and 11 in number of tokens.

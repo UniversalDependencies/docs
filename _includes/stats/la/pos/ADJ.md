@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 1315 `ADJ` lemmas (17%), 2354 `ADJ` types (16%) and 4810 `ADJ` tokens (10%).
 Out of 12 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 3 in number of tokens.

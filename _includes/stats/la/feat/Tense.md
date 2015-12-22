@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.

@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 This feature is universal but the values `Gdv` are language-specific.
 It occurs with 6 different values: `Fin`, `Gdv`, `Ger`, `Inf`, `Part`, `Sup`.

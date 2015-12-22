@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 21 `INTJ` lemmas (0%), 19 `INTJ` types (0%) and 66 `INTJ` tokens (0%).
 Out of 12 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.

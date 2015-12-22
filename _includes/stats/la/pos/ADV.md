@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics
+## Treebank Statistics (UD_Latin)
 
 There are 604 `ADV` lemmas (8%), 487 `ADV` types (3%) and 3698 `ADV` tokens (8%).
 Out of 12 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
