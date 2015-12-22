@@ -9,7 +9,7 @@ layout: base
 
 <!-- "automatic stats" -->
 {% capture langdir %}{{ page.path | split:"/" | first | split:"-" | first | replace_first:'_',''}}{% endcapture %}
-{% capture statspath %}stats/{{langdir}}/{{page.title}}.md{% endcapture %}
+{% capture statspath %}stats/{{langdir}}/pos/{{page.title}}.md{% endcapture %}
 {% capture statsexist %}{% file_exists _includes/{{statspath}} %}{% endcapture %}
 {% if statsexist  == "true" %}
 {% capture statsinclude %}{% include {{statspath}} %}{% endcapture %}
