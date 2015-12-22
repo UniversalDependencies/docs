@@ -59,9 +59,9 @@ for <code>punct</code>.</p>
 <p>29943 nodes (14%) are attached to their parents as <code>punct</code>.</p>
 
 <p>23511 instances of <code>punct</code> (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.62348462077948.</p>
+Average distance between parent and child is 8.38065658083692.</p>
 
-<p>The following 14 pairs of parts of speech are connected with <code>punct</code>: <a href="">pt-pos/VERB</a>-<a href="">pt-pos/PUNCT</a> (15223; 51% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/PUNCT</a> (8125; 27% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/PUNCT</a> (4322; 14% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/PUNCT</a> (1331; 4% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/PUNCT</a> (233; 1% instances), <a href="">pt-pos/DET</a>-<a href="">pt-pos/PUNCT</a> (233; 1% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/PUNCT</a> (181; 1% instances), <a href="">pt-pos/PRON</a>-<a href="">pt-pos/PUNCT</a> (127; 0% instances), <a href="">pt-pos/SYM</a>-<a href="">pt-pos/PUNCT</a> (91; 0% instances), <a href="">pt-pos/INTJ</a>-<a href="">pt-pos/PUNCT</a> (23; 0% instances), <a href="">pt-pos/CONJ</a>-<a href="">pt-pos/PUNCT</a> (17; 0% instances), <a href="">pt-pos/AUX</a>-<a href="">pt-pos/PUNCT</a> (14; 0% instances), <a href="">pt-pos/SCONJ</a>-<a href="">pt-pos/PUNCT</a> (14; 0% instances), <a href="">pt-pos/ADP</a>-<a href="">pt-pos/PUNCT</a> (9; 0% instances).</p>
+<p>The following 14 pairs of parts of speech are connected with <code>punct</code>: <a href="">pt-pos/VERB</a>-<a href="">pt-pos/PUNCT</a> (15223; 51% instances), <a href="">pt-pos/NOUN</a>-<a href="">pt-pos/PUNCT</a> (8191; 27% instances), <a href="">pt-pos/PROPN</a>-<a href="">pt-pos/PUNCT</a> (4322; 14% instances), <a href="">pt-pos/ADJ</a>-<a href="">pt-pos/PUNCT</a> (1331; 4% instances), <a href="">pt-pos/PRON</a>-<a href="">pt-pos/PUNCT</a> (342; 1% instances), <a href="">pt-pos/ADV</a>-<a href="">pt-pos/PUNCT</a> (233; 1% instances), <a href="">pt-pos/NUM</a>-<a href="">pt-pos/PUNCT</a> (181; 1% instances), <a href="">pt-pos/SYM</a>-<a href="">pt-pos/PUNCT</a> (25; 0% instances), <a href="">pt-pos/INTJ</a>-<a href="">pt-pos/PUNCT</a> (23; 0% instances), <a href="">pt-pos/DET</a>-<a href="">pt-pos/PUNCT</a> (18; 0% instances), <a href="">pt-pos/CONJ</a>-<a href="">pt-pos/PUNCT</a> (17; 0% instances), <a href="">pt-pos/AUX</a>-<a href="">pt-pos/PUNCT</a> (14; 0% instances), <a href="">pt-pos/SCONJ</a>-<a href="">pt-pos/PUNCT</a> (14; 0% instances), <a href="">pt-pos/ADP</a>-<a href="">pt-pos/PUNCT</a> (9; 0% instances).</p>
 
 <pre><code class="language-conllu"># visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
@@ -93,25 +93,23 @@ Average distance between parent and child is 8.62348462077948.</p>
 5	seu	seu	DET	pron-det|&lt;poss|3S&gt;|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
-9	Fioravanti	Fioravanti	PROPN	PROPN	Gender=Masc|Number=Sing	8	name	_	_
-10	.	.	PUNCT	punc	_	6	punct	_	_
+8	Sérgio_Fioravanti	Sérgio_Fioravanti	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
+9	.	.	PUNCT	punc	_	6	punct	_	_
 
 </code></pre>
 
-<pre><code class="language-conllu"># visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 punct	color:blue
-1	Pedro	Pedro	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
-2	Ivo	Ivo	PROPN	PROPN	Gender=Masc|Number=Sing	1	name	_	_
-3	,	,	PUNCT	punc	_	1	punct	_	_
-4	63	63	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
-5	,	,	PUNCT	punc	_	1	punct	_	_
-6	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	6	nummod	_	_
-8	)	)	PUNCT	punc	_	1	punct	_	_
+# visual-style 1 2 punct	color:blue
+1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
+2	,	,	PUNCT	punc	_	1	punct	_	_
+3	63	63	NUM	num|&lt;card&gt;|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
+4	,	,	PUNCT	punc	_	1	punct	_	_
+5	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	5	nummod	_	_
+7	)	)	PUNCT	punc	_	1	punct	_	_
 
 </code></pre>
 
