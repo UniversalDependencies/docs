@@ -6,7 +6,6 @@ layout: base
 
 {{ content }}
 
-
 <!-- "automatic stats" -->
 {% capture langdir %}{{ page.path | split:"/" | first | split:"-" | first | replace_first:'_',''}}{% endcapture %}
 {% capture statspath %}stats/{{langdir}}/pos/{{page.title}}.md{% endcapture %}
