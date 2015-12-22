@@ -65,13 +65,14 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
 
 <p>29213 <a href="">pt-pos/DET</a> tokens (88% of all <code>DET</code> tokens) have a non-empty value of <code>Definite</code>.</p>
 
-<p>The most frequent other feature values with which <code>DET</code> and <code>Definite</code> co-occurred: .</p>
+<p>The most frequent other feature values with which <code>DET</code> and <code>Definite</code> co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (29045; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (23584; 81%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (15694; 54%).</p>
 
 <p><code>DET</code> tokens may have the following values of <code>Definite</code>:</p>
 
 <ul>
-  <li><code>Def</code> (26125; 89% of non-empty <code>Definite</code>): __</li>
-  <li><code>Ind</code> (3088; 11% of non-empty <code>Definite</code>): __</li>
+  <li><code>Def</code> (26125; 89% of non-empty <code>Definite</code>): <em>o, a, os, as, o(s)</em></li>
+  <li><code>Ind</code> (3088; 11% of non-empty <code>Definite</code>): <em>um, uma, o</em></li>
+  <li><code>EMPTY</code> (4007): <em>sua, seu, este, esta, seus, suas, esse, qualquer, outros, mais</em></li>
 </ul>
 
 <table>
@@ -96,13 +97,14 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
 
 <p>273 <a href="">pt-pos/PRON</a> tokens (4% of all <code>PRON</code> tokens) have a non-empty value of <code>Definite</code>.</p>
 
-<p>The most frequent other feature values with which <code>PRON</code> and <code>Definite</code> co-occurred: .</p>
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Definite</code> co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (273; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (273; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (273; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (244; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (219; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (175; 64%).</p>
 
 <p><code>PRON</code> tokens may have the following values of <code>Definite</code>:</p>
 
 <ul>
-  <li><code>Def</code> (258; 95% of non-empty <code>Definite</code>): __</li>
-  <li><code>Ind</code> (15; 5% of non-empty <code>Definite</code>): __</li>
+  <li><code>Def</code> (258; 95% of non-empty <code>Definite</code>): <em>o, os, a, as, O_que, um</em></li>
+  <li><code>Ind</code> (15; 5% of non-empty <code>Definite</code>): <em>um, uma</em></li>
+  <li><code>EMPTY</code> (6833): <em>que, se, ele, o, o_que, isso, quem, lhe, eles, eu</em></li>
 </ul>
 
 <table>
@@ -111,6 +113,10 @@ The feature is used with 2 part-of-speech tags: <a href="">pt-pos/DET</a> (29213
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>um</i></td><td><i>um</i></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>uma</i></td><td></td></tr>
 </table>
+
+<h2 id="relations-with-agreement-in-definite">Relations with Agreement in <code>Definite</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Definite</code>: <code>DET --[conj]--&gt; PRON</code> (2; 100%).</p>
 
 
 

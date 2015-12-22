@@ -65,15 +65,16 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 
 <p>15778 <a href="">pt-pos/VERB</a> tokens (61% of all <code>VERB</code> tokens) have a non-empty value of <code>Mood</code>.</p>
 
-<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: .</p>
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (15777; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15777; 100%), <tt><a href="Person.html">Person</a>=3</tt> (14827; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (12014; 76%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8521; 54%).</p>
 
 <p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Cnd</code> (340; 2% of non-empty <code>Mood</code>): __</li>
-  <li><code>Imp</code> (7; 0% of non-empty <code>Mood</code>): __</li>
-  <li><code>Ind</code> (14449; 92% of non-empty <code>Mood</code>): __</li>
-  <li><code>Sub</code> (982; 6% of non-empty <code>Mood</code>): __</li>
+  <li><code>Cnd</code> (340; 2% of non-empty <code>Mood</code>): <em>seria, poderia, teria, deveria, seriam, iria, teriam, estaria, gostaria, ficaria</em></li>
+  <li><code>Imp</code> (7; 0% of non-empty <code>Mood</code>): <em>Sê, move, Olha, chega</em></li>
+  <li><code>Ind</code> (14449; 92% of non-empty <code>Mood</code>): <em>é, foi, tem, está, são, há, disse, foram, vai, era</em></li>
+  <li><code>Sub</code> (982; 6% of non-empty <code>Mood</code>): <em>seja, tenha, for, sejam, fosse, possa, esteja, tivesse, quiser, estejam</em></li>
+  <li><code>EMPTY</code> (10062): <em>ser, ter, fazer, ver, passado, dar, feito, dizer, estar, passada</em></li>
 </ul>
 
 <table>
@@ -112,14 +113,15 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 
 <p>6 <a href="">pt-pos/AUX</a> tokens (1% of all <code>AUX</code> tokens) have a non-empty value of <code>Mood</code>.</p>
 
-<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: .</p>
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6; 100%).</p>
 
 <p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Cnd</code> (1; 17% of non-empty <code>Mood</code>): __</li>
-  <li><code>Ind</code> (4; 67% of non-empty <code>Mood</code>): __</li>
-  <li><code>Sub</code> (1; 17% of non-empty <code>Mood</code>): __</li>
+  <li><code>Cnd</code> (1; 17% of non-empty <code>Mood</code>): <em>teria</em></li>
+  <li><code>Ind</code> (4; 67% of non-empty <code>Mood</code>): <em>está, são, vamos, é</em></li>
+  <li><code>Sub</code> (1; 17% of non-empty <code>Mood</code>): <em>desencadear</em></li>
+  <li><code>EMPTY</code> (459): <em>ser, sido, ter, sendo, vindo, vir, continuar, passar, estar, acabar</em></li>
 </ul>
 
 <h3 id="intj"><code>INTJ</code></h3>
@@ -129,8 +131,13 @@ The feature is used with 3 part-of-speech tags: <a href="">pt-pos/VERB</a> (1577
 <p><code>INTJ</code> tokens may have the following values of <code>Mood</code>:</p>
 
 <ul>
-  <li><code>Ind</code> (1; 100% of non-empty <code>Mood</code>): __</li>
+  <li><code>Ind</code> (1; 100% of non-empty <code>Mood</code>): <em>viu</em></li>
+  <li><code>EMPTY</code> (39): <em>não, Rarará, Adeus, Ah_bem, Ai, Alô, BINGO, Deus_me_livre, Droga, Hein</em></li>
 </ul>
+
+<h2 id="relations-with-agreement-in-mood">Relations with Agreement in <code>Mood</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Mood</code>: <code>VERB --[conj]--&gt; VERB</code> (1063; 90%), <code>VERB --[dep]--&gt; VERB</code> (21; 66%), <code>VERB --[cc]--&gt; VERB</code> (11; 92%).</p>
 
 
 
