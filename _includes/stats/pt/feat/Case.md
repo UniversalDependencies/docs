@@ -15,7 +15,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/PRON]() (2726; 1% instan
 
 ### `PRON`
 
-2726 [pt-pos/PRON]() tokens (45% of all `PRON` tokens) have a non-empty value of `Case`.
+2726 [pt-pos/PRON]() tokens (38% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: .
 

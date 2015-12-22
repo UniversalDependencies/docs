@@ -9,21 +9,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
 
-131201 tokens (61%) have a non-empty value of `Number`.
-26996 types (98%) occur at least once with a non-empty value of `Number`.
-18653 lemmas (98%) occur at least once with a non-empty value of `Number`.
-The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39642; 18% instances), [pt-pos/DET]() (34278; 16% instances), [pt-pos/VERB]() (20359; 9% instances), [pt-pos/PROPN]() (15919; 7% instances), [pt-pos/ADJ]() (10698; 5% instances), [pt-pos/PRON]() (5672; 3% instances), [pt-pos/NUM]() (4156; 2% instances), [pt-pos/SYM]() (416; 0% instances), [pt-pos/AUX]() (40; 0% instances), [pt-pos/ADV]() (14; 0% instances), [pt-pos/INTJ]() (4; 0% instances), [pt-pos/ADP]() (2; 0% instances), [pt-pos/PART]() (1; 0% instances).
+126963 tokens (60%) have a non-empty value of `Number`.
+26828 types (97%) occur at least once with a non-empty value of `Number`.
+18359 lemmas (95%) occur at least once with a non-empty value of `Number`.
+The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39878; 19% instances), [pt-pos/DET]() (33215; 16% instances), [pt-pos/VERB]() (20359; 10% instances), [pt-pos/PROPN]() (11682; 5% instances), [pt-pos/ADJ]() (10698; 5% instances), [pt-pos/PRON]() (6735; 3% instances), [pt-pos/NUM]() (4156; 2% instances), [pt-pos/SYM]() (179; 0% instances), [pt-pos/AUX]() (40; 0% instances), [pt-pos/ADV]() (14; 0% instances), [pt-pos/INTJ]() (4; 0% instances), [pt-pos/ADP]() (2; 0% instances), [pt-pos/PART]() (1; 0% instances).
 
 ### `NOUN`
 
-39642 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+39878 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: .
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (11751; 30% of non-empty `Number`): __
-* `Sing` (27891; 70% of non-empty `Number`): __
+* `Plur` (11979; 30% of non-empty `Number`): __
+* `Sing` (27899; 70% of non-empty `Number`): __
 
 <table>
   <tr><th>Paradigm <i>ano</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -32,14 +32,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-34278 [pt-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+33215 [pt-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `DET` and `Number` co-occurred: .
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (7444; 22% of non-empty `Number`): __
-* `Sing` (26834; 78% of non-empty `Number`): __
+* `Plur` (7031; 21% of non-empty `Number`): __
+* `Sing` (26184; 79% of non-empty `Number`): __
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -53,8 +53,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o, os</i></td><td><i>os</i></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o</i></td><td><i>os</i></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="NumType.html">NumType</a>=Card|<a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt></td><td><i>a</i></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>a</i></td><td><i>as</i></td></tr>
@@ -91,7 +90,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>foi, foram</i></td><td><i>foram</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td><i>foram</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>çe</i></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>é, eis, Sou, é-</i></td><td><i>são</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>é, eis, é-, Sou</i></td><td><i>são</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>for</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1,3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fosse</i></td><td></td></tr>
@@ -104,22 +103,21 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-15919 [pt-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+11682 [pt-pos/PROPN]() tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PROPN` and `Number` co-occurred: .
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (575; 4% of non-empty `Number`): __
-* `Sing` (15344; 96% of non-empty `Number`): __
+* `Plur` (414; 4% of non-empty `Number`): __
+* `Sing` (11268; 96% of non-empty `Number`): __
 
 <table>
-  <tr><th>Paradigm <i>Portugal</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><i>Portugal</i></td><td><i>Portugal</i></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><i>Portugal</i></td><td></td></tr>
+  <tr><th>Paradigm <i>Flamengo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><i>Flamengo</i></td><td><i>Flamengos</i></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (7233) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (6968) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -145,14 +143,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-5672 [pt-pos/PRON]() tokens (94% of all `PRON` tokens) have a non-empty value of `Number`.
+6735 [pt-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: .
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1437; 25% of non-empty `Number`): __
-* `Sing` (4235; 75% of non-empty `Number`): __
+* `Plur` (1850; 27% of non-empty `Number`): __
+* `Sing` (4885; 73% of non-empty `Number`): __
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -186,19 +184,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `SYM`
 
-416 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Number`.
+179 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `SYM` and `Number` co-occurred: .
 
 `SYM` tokens may have the following values of `Number`:
 
-* `Plur` (408; 98% of non-empty `Number`): __
-* `Sing` (8; 2% of non-empty `Number`): __
-
-<table>
-  <tr><th>Paradigm <i>US$</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>US$</i></td><td><i>US$</i></td></tr>
-</table>
+* `Plur` (179; 100% of non-empty `Number`): __
 
 ### `AUX`
 

@@ -11,7 +11,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 20191 tokens (9%) have a non-empty value of `Person`.
 4600 types (17%) occur at least once with a non-empty value of `Person`.
 1344 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (16166; 7% instances), [pt-pos/PRON]() (2724; 1% instances), [pt-pos/DET]() (1292; 1% instances), [pt-pos/AUX]() (8; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
+The feature is used with 5 part-of-speech tags: [pt-pos/VERB]() (16166; 8% instances), [pt-pos/PRON]() (2737; 1% instances), [pt-pos/DET]() (1279; 1% instances), [pt-pos/AUX]() (8; 0% instances), [pt-pos/INTJ]() (1; 0% instances).
 
 ### `VERB`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fui</i></td><td></td><td></td><td><i>foi, foram</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>fora</i></td><td></td><td></td><td><i>fora</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Typo.html">Typo</a>=Yes|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>çe</i></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td><i>é, eis, Sou, é-</i></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>sou, sô</i></td><td></td><td></td><td><i>é, eis, é-, Sou</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><i>seremos</i></td><td></td><td></td><td><i>serão</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp,Pqp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>foram</i></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td></td><td><i>eram</i></td></tr>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2724 [pt-pos/PRON]() tokens (45% of all `PRON` tokens) have a non-empty value of `Person`.
+2737 [pt-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: .
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (314; 12% of non-empty `Person`): __
+* `1` (320; 12% of non-empty `Person`): __
 * `2` (9; 0% of non-empty `Person`): __
-* `3` (2401; 88% of non-empty `Person`): __
+* `3` (2408; 88% of non-empty `Person`): __
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -87,19 +87,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><i>nós</i></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 93% lemmas (13) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 94% lemmas (16) occur only with one value of `Person`.
 
 ### `DET`
 
-1292 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
+1279 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `DET` and `Person` co-occurred: .
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (185; 14% of non-empty `Person`): __
+* `1` (179; 14% of non-empty `Person`): __
 * `2` (8; 1% of non-empty `Person`): __
-* `3` (1099; 85% of non-empty `Person`): __
+* `3` (1092; 85% of non-empty `Person`): __
 
 <table>
   <tr><th>Paradigm <i>seu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

@@ -9,9 +9,9 @@ This relation is universal.
 29943 nodes (14%) are attached to their parents as `punct`.
 
 23511 instances of `punct` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.62348462077948.
+Average distance between parent and child is 8.38065658083692.
 
-The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15223; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8125; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4322; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1331; 4% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (233; 1% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (233; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (181; 1% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (127; 0% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (91; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (23; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (17; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (9; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VERB]()-[pt-pos/PUNCT]() (15223; 51% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (8191; 27% instances), [pt-pos/PROPN]()-[pt-pos/PUNCT]() (4322; 14% instances), [pt-pos/ADJ]()-[pt-pos/PUNCT]() (1331; 4% instances), [pt-pos/PRON]()-[pt-pos/PUNCT]() (342; 1% instances), [pt-pos/ADV]()-[pt-pos/PUNCT]() (233; 1% instances), [pt-pos/NUM]()-[pt-pos/PUNCT]() (181; 1% instances), [pt-pos/SYM]()-[pt-pos/PUNCT]() (25; 0% instances), [pt-pos/INTJ]()-[pt-pos/PUNCT]() (23; 0% instances), [pt-pos/DET]()-[pt-pos/PUNCT]() (18; 0% instances), [pt-pos/CONJ]()-[pt-pos/PUNCT]() (17; 0% instances), [pt-pos/AUX]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/SCONJ]()-[pt-pos/PUNCT]() (14; 0% instances), [pt-pos/ADP]()-[pt-pos/PUNCT]() (9; 0% instances).
 
 
 ~~~ conllu
@@ -47,27 +47,25 @@ The following 14 pairs of parts of speech are connected with `punct`: [pt-pos/VE
 5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
 7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
-9	Fioravanti	Fioravanti	PROPN	PROPN	Gender=Masc|Number=Sing	8	name	_	_
-10	.	.	PUNCT	punc	_	6	punct	_	_
+8	Sérgio_Fioravanti	Sérgio_Fioravanti	PROPN	prop|M|S	Gender=Masc|Number=Sing	6	appos	_	_
+9	.	.	PUNCT	punc	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 punct	color:blue
-1	Pedro	Pedro	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
-2	Ivo	Ivo	PROPN	PROPN	Gender=Masc|Number=Sing	1	name	_	_
-3	,	,	PUNCT	punc	_	1	punct	_	_
-4	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
-5	,	,	PUNCT	punc	_	1	punct	_	_
-6	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
-7	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	6	nummod	_	_
-8	)	)	PUNCT	punc	_	1	punct	_	_
+# visual-style 1 2 punct	color:blue
+1	Pedro_Ivo	Pedro_Ivo	PROPN	prop|M|S	Gender=Masc|Number=Sing	0	root	_	_
+2	,	,	PUNCT	punc	_	1	punct	_	_
+3	63	63	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	1	nummod	_	_
+4	,	,	PUNCT	punc	_	1	punct	_	_
+5	tel.	tel.	NOUN	n|M|S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	289-3609	289-3609	NUM	num|M|P	Gender=Masc|Number=Plur	5	nummod	_	_
+7	)	)	PUNCT	punc	_	1	punct	_	_
 
 ~~~
 

@@ -12,11 +12,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 1288 tokens (1%) have a non-empty value of `Number[psor]`.
 23 types (0%) occur at least once with a non-empty value of `Number[psor]`.
 5 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: [pt-pos/DET]() (1288; 1% instances).
+The feature is used with 2 part-of-speech tags: [pt-pos/DET]() (1275; 1% instances), [pt-pos/PRON]() (13; 0% instances).
 
 ### `DET`
 
-1288 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+1275 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: .
 
@@ -41,4 +41,13 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><i>suas</i></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td><i>suas</i></td></tr>
 </table>
+
+### `PRON`
+
+13 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: .
+
+`PRON` tokens may have the following values of `Number[psor]`:
+
 

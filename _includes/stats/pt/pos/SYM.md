@@ -4,14 +4,14 @@
 
 ## Treebank Statistics
 
-There are 5 `SYM` lemmas (0%), 6 `SYM` types (0%) and 416 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 16 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 179 `SYM` tokens (0%).
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: _%, US$, R$, CR$, U$_
+The 10 most frequent `SYM` lemmas: _%_
 
-The 10 most frequent `SYM` types:  _%, US$, R$, CR$, $%, U$_
+The 10 most frequent `SYM` types:  _%_
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: _%_ ([SYM]() 179, [NOUN]() 24)
 
 The 10 most frequent ambiguous types:  
 
@@ -19,40 +19,36 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.200000 (the average of all parts of speech is 1.435204).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.441790).
 
-The 1st highest number of forms (2) was observed with the lemma “%”: _$%, %_
+The 1st highest number of forms (1) was observed with the lemma “%”: _%_
 
-The 2nd highest number of forms (1) was observed with the lemma “CR$”: _CR$_
+`SYM` occurs with 2 features: [pt-feat/Gender]() (179; 100% instances), [pt-feat/Number]() (179; 100% instances)
 
-The 3rd highest number of forms (1) was observed with the lemma “R$”: _R$_
+`SYM` occurs with 2 feature-value pairs: `Gender=Masc`, `Number=Plur`
 
-`SYM` occurs with 2 features: [pt-feat/Gender]() (416; 100% instances), [pt-feat/Number]() (416; 100% instances)
-
-`SYM` occurs with 3 feature-value pairs: `Gender=Masc`, `Number=Plur`, `Number=Sing`
-
-`SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Plur` (408 tokens).
-Examples: _%, US$, R$, CR$, $%, U$_
+`SYM` occurs with 1 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Plur` (179 tokens).
+Examples: _%_
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 11 different relations: [pt-dep/nmod]() (150; 36% instances), [pt-dep/dobj]() (128; 31% instances), [pt-dep/advmod]() (64; 15% instances), [pt-dep/conj]() (23; 6% instances), [pt-dep/root]() (23; 6% instances), [pt-dep/nsubj]() (17; 4% instances), [pt-dep/acl]() (4; 1% instances), [pt-dep/ccomp]() (3; 1% instances), [pt-dep/iobj]() (2; 0% instances), [pt-dep/case]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+`SYM` nodes are attached to their parents using 10 different relations: [pt-dep/nmod]() (59; 33% instances), [pt-dep/dobj]() (51; 28% instances), [pt-dep/advmod]() (32; 18% instances), [pt-dep/conj]() (10; 6% instances), [pt-dep/nsubj]() (10; 6% instances), [pt-dep/root]() (10; 6% instances), [pt-dep/ccomp]() (3; 2% instances), [pt-dep/acl]() (2; 1% instances), [pt-dep/iobj]() (1; 1% instances), [pt-dep/parataxis]() (1; 1% instances)
 
-Parents of `SYM` nodes belong to 9 different parts of speech: [VERB]() (185; 44% instances), [NOUN]() (128; 31% instances), [SYM]() (52; 13% instances), [ROOT]() (23; 6% instances), [ADJ]() (10; 2% instances), [PROPN]() (10; 2% instances), [ADP]() (3; 1% instances), [ADV]() (3; 1% instances), [DET]() (2; 0% instances)
+Parents of `SYM` nodes belong to 8 different parts of speech: [VERB]() (81; 45% instances), [NOUN]() (58; 32% instances), [SYM]() (21; 12% instances), [ROOT]() (10; 6% instances), [ADJ]() (5; 3% instances), [PROPN]() (2; 1% instances), [ADP]() (1; 1% instances), [PRON]() (1; 1% instances)
 
-4 (1%) `SYM` nodes are leaves.
+0 (0%) `SYM` nodes are leaves.
 
-123 (30%) `SYM` nodes have one child.
+50 (28%) `SYM` nodes have one child.
 
-156 (38%) `SYM` nodes have two children.
+60 (34%) `SYM` nodes have two children.
 
-133 (32%) `SYM` nodes have three or more children.
+69 (39%) `SYM` nodes have three or more children.
 
-The highest child degree of a `SYM` node is 12.
+The highest child degree of a `SYM` node is 9.
 
-Children of `SYM` nodes are attached using 16 different relations: [pt-dep/nummod]() (318; 31% instances), [pt-dep/nmod]() (242; 24% instances), [pt-dep/case]() (204; 20% instances), [pt-dep/punct]() (91; 9% instances), [pt-dep/cop]() (27; 3% instances), [pt-dep/nsubj]() (24; 2% instances), [pt-dep/conj]() (22; 2% instances), [pt-dep/det]() (21; 2% instances), [pt-dep/advmod]() (20; 2% instances), [pt-dep/cc]() (18; 2% instances), [pt-dep/amod]() (13; 1% instances), [pt-dep/acl]() (12; 1% instances), [pt-dep/dobj]() (6; 1% instances), [pt-dep/advcl]() (1; 0% instances), [pt-dep/mark]() (1; 0% instances), [pt-dep/parataxis]() (1; 0% instances)
+Children of `SYM` nodes are attached using 13 different relations: [pt-dep/nummod]() (181; 41% instances), [pt-dep/case]() (94; 21% instances), [pt-dep/nmod]() (74; 17% instances), [pt-dep/punct]() (25; 6% instances), [pt-dep/cop]() (13; 3% instances), [pt-dep/conj]() (10; 2% instances), [pt-dep/nsubj]() (10; 2% instances), [pt-dep/advmod]() (9; 2% instances), [pt-dep/amod]() (7; 2% instances), [pt-dep/cc]() (7; 2% instances), [pt-dep/dobj]() (4; 1% instances), [pt-dep/acl]() (3; 1% instances), [pt-dep/mark]() (1; 0% instances)
 
-Children of `SYM` nodes belong to 13 different parts of speech: [NUM]() (321; 31% instances), [NOUN]() (218; 21% instances), [ADP]() (214; 21% instances), [PUNCT]() (91; 9% instances), [SYM]() (52; 5% instances), [VERB]() (41; 4% instances), [DET]() (21; 2% instances), [ADV]() (18; 2% instances), [CONJ]() (16; 2% instances), [ADJ]() (13; 1% instances), [PROPN]() (10; 1% instances), [PRON]() (4; 0% instances), [SCONJ]() (2; 0% instances)
+Children of `SYM` nodes belong to 12 different parts of speech: [NUM]() (181; 41% instances), [ADP]() (94; 21% instances), [NOUN]() (61; 14% instances), [PUNCT]() (25; 6% instances), [SYM]() (21; 5% instances), [VERB]() (16; 4% instances), [PRON]() (11; 3% instances), [ADV]() (9; 2% instances), [ADJ]() (7; 2% instances), [CONJ]() (6; 1% instances), [PROPN]() (5; 1% instances), [SCONJ]() (2; 0% instances)
 

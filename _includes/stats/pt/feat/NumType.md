@@ -10,7 +10,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 7750 tokens (4%) have a non-empty value of `NumType`.
 1070 types (4%) occur at least once with a non-empty value of `NumType`.
 961 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 9 part-of-speech tags: [pt-pos/NUM]() (4042; 2% instances), [pt-pos/DET]() (1408; 1% instances), [pt-pos/ADV]() (1307; 1% instances), [pt-pos/ADJ]() (791; 0% instances), [pt-pos/PRON]() (195; 0% instances), [pt-pos/NOUN]() (4; 0% instances), [pt-pos/ADP]() (1; 0% instances), [pt-pos/CONJ]() (1; 0% instances), [pt-pos/PROPN]() (1; 0% instances).
+The feature is used with 7 part-of-speech tags: [pt-pos/NUM]() (4042; 2% instances), [pt-pos/ADV]() (1307; 1% instances), [pt-pos/DET]() (1147; 1% instances), [pt-pos/ADJ]() (791; 0% instances), [pt-pos/PRON]() (458; 0% instances), [pt-pos/NOUN]() (4; 0% instances), [pt-pos/PROPN]() (1; 0% instances).
 
 ### `NUM`
 
@@ -24,18 +24,6 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (806) occur only with one value of `NumType`.
 
-### `DET`
-
-1408 [pt-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `DET` and `NumType` co-occurred: .
-
-`DET` tokens may have the following values of `NumType`:
-
-* `Card` (1408; 100% of non-empty `NumType`): __
-
-`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (38) occur only with one value of `NumType`.
-
 ### `ADV`
 
 1307 [pt-pos/ADV]() tokens (14% of all `ADV` tokens) have a non-empty value of `NumType`.
@@ -47,6 +35,18 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (1307; 100% of non-empty `NumType`): __
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (40) occur only with one value of `NumType`.
+
+### `DET`
+
+1147 [pt-pos/DET]() tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `DET` and `NumType` co-occurred: .
+
+`DET` tokens may have the following values of `NumType`:
+
+* `Card` (1147; 100% of non-empty `NumType`): __
+
+`NumType` seems to be **lexical feature** of `DET`. 100% lemmas (34) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -72,15 +72,15 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `PRON`
 
-195 [pt-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `NumType`.
+458 [pt-pos/PRON]() tokens (6% of all `PRON` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `PRON` and `NumType` co-occurred: .
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (195; 100% of non-empty `NumType`): __
+* `Card` (458; 100% of non-empty `NumType`): __
 
-`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (34) occur only with one value of `NumType`.
 
 ### `NOUN`
 
@@ -100,24 +100,6 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 The most frequent other feature values with which `PROPN` and `NumType` co-occurred: .
 
 `PROPN` tokens may have the following values of `NumType`:
-
-* `Card` (1; 100% of non-empty `NumType`): __
-
-### `ADP`
-
-1 [pt-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `ADP` and `NumType` co-occurred: .
-
-`ADP` tokens may have the following values of `NumType`:
-
-* `Card` (1; 100% of non-empty `NumType`): __
-
-### `CONJ`
-
-1 [pt-pos/CONJ]() tokens (0% of all `CONJ` tokens) have a non-empty value of `NumType`.
-
-`CONJ` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): __
 

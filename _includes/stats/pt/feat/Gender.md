@@ -7,21 +7,21 @@
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-112738 tokens (52%) have a non-empty value of `Gender`.
-22254 types (81%) occur at least once with a non-empty value of `Gender`.
-17722 lemmas (93%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39554; 18% instances), [pt-pos/DET]() (33064; 15% instances), [pt-pos/PROPN]() (15414; 7% instances), [pt-pos/ADJ]() (10624; 5% instances), [pt-pos/PRON]() (5311; 2% instances), [pt-pos/VERB]() (4193; 2% instances), [pt-pos/NUM]() (4110; 2% instances), [pt-pos/SYM]() (416; 0% instances), [pt-pos/AUX]() (32; 0% instances), [pt-pos/ADV]() (14; 0% instances), [pt-pos/INTJ]() (3; 0% instances), [pt-pos/ADP]() (2; 0% instances), [pt-pos/PART]() (1; 0% instances).
+108555 tokens (51%) have a non-empty value of `Gender`.
+22094 types (79%) occur at least once with a non-empty value of `Gender`.
+17439 lemmas (91%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 13 part-of-speech tags: [pt-pos/NOUN]() (39790; 19% instances), [pt-pos/DET]() (32013; 15% instances), [pt-pos/PROPN]() (11232; 5% instances), [pt-pos/ADJ]() (10624; 5% instances), [pt-pos/PRON]() (6362; 3% instances), [pt-pos/VERB]() (4193; 2% instances), [pt-pos/NUM]() (4110; 2% instances), [pt-pos/SYM]() (179; 0% instances), [pt-pos/AUX]() (32; 0% instances), [pt-pos/ADV]() (14; 0% instances), [pt-pos/INTJ]() (3; 0% instances), [pt-pos/ADP]() (2; 0% instances), [pt-pos/PART]() (1; 0% instances).
 
 ### `NOUN`
 
-39554 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+39790 [pt-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: .
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (18125; 46% of non-empty `Gender`): __
-* `Masc` (21429; 54% of non-empty `Gender`): __
+* `Masc` (21665; 54% of non-empty `Gender`): __
 
 <table>
   <tr><th>Paradigm <i>milhão</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -30,18 +30,18 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Typo.html">Typo</a>=Yes</tt></td><td><i>mi</i></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6662) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6667) occur only with one value of `Gender`.
 
 ### `DET`
 
-33064 [pt-pos/DET]() tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
+32013 [pt-pos/DET]() tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `DET` and `Gender` co-occurred: .
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (14430; 44% of non-empty `Gender`): __
-* `Masc` (18634; 56% of non-empty `Gender`): __
+* `Fem` (14144; 44% of non-empty `Gender`): __
+* `Masc` (17869; 56% of non-empty `Gender`): __
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -52,32 +52,32 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>os, o</i></td><td><i>as</i></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><i>o</i></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="NumType.html">NumType</a>=Card|<a href="PronType.html">PronType</a>=Ind,Neg,Tot</tt></td><td></td><td><i>a</i></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o, os</i></td><td><i>a</i></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>o</i></td><td><i>a</i></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><i>os</i></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><i>os</i></td><td><i>as</i></td></tr>
 </table>
 
 ### `PROPN`
 
-15414 [pt-pos/PROPN]() tokens (97% of all `PROPN` tokens) have a non-empty value of `Gender`.
+11232 [pt-pos/PROPN]() tokens (96% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PROPN` and `Gender` co-occurred: .
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (4630; 30% of non-empty `Gender`): __
-* `Masc` (10784; 70% of non-empty `Gender`): __
+* `Fem` (3663; 33% of non-empty `Gender`): __
+* `Masc` (7569; 67% of non-empty `Gender`): __
 
 <table>
-  <tr><th>Paradigm <i>Paulo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><i>Paulo, PAULO</i></td><td><i>Paulo</i></td></tr>
+  <tr><th>Paradigm <i>São_Paulo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt></tt></td><td><i>São_Paulo, SÃO_PAULO</i></td><td><i>São_Paulo</i></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 95% lemmas (6648) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (6645) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -102,14 +102,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-5311 [pt-pos/PRON]() tokens (88% of all `PRON` tokens) have a non-empty value of `Gender`.
+6362 [pt-pos/PRON]() tokens (90% of all `PRON` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PRON` and `Gender` co-occurred: .
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1608; 30% of non-empty `Gender`): __
-* `Masc` (3703; 70% of non-empty `Gender`): __
+* `Fem` (1894; 30% of non-empty `Gender`): __
+* `Masc` (4468; 70% of non-empty `Gender`): __
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -160,13 +160,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `SYM`
 
-416 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Gender`.
+179 [pt-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `SYM` and `Gender` co-occurred: .
 
 `SYM` tokens may have the following values of `Gender`:
 
-* `Masc` (416; 100% of non-empty `Gender`): __
+* `Masc` (179; 100% of non-empty `Gender`): __
 
 ### `AUX`
 

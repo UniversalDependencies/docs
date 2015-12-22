@@ -9,9 +9,9 @@ This relation is universal.
 3357 nodes (2%) are attached to their parents as `ccomp`.
 
 2987 instances of `ccomp` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.6058981233244.
+Average distance between parent and child is 4.57134346142389.
 
-The following 21 pairs of parts of speech are connected with `ccomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2647; 79% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (317; 9% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (169; 5% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (166; 5% instances), [pt-pos/VERB]()-[pt-pos/DET]() (12; 0% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (6; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `ccomp`: [pt-pos/VERB]()-[pt-pos/VERB]() (2647; 79% instances), [pt-pos/AUX]()-[pt-pos/VERB]() (317; 9% instances), [pt-pos/VERB]()-[pt-pos/ADJ]() (169; 5% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (166; 5% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (18; 1% instances), [pt-pos/AUX]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (6; 0% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/NOUN]()-[pt-pos/VERB]() (3; 0% instances), [pt-pos/VERB]()-[pt-pos/SYM]() (3; 0% instances), [pt-pos/CONJ]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/AUX]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 21 pairs of parts of speech are connected with `ccomp`: [pt-pos/VE
 5	há	haver	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	definição	definição	NOUN	n|F|S	Gender=Fem|Number=Sing	5	dobj	_	_
 7	de	de	ADP	prp	AdpType=Prep	9	mark	_	_
-8	quantos	quanto	DET	pron-det|<interr>|M|S	Gender=Masc|Number=Sing|PronType=Int	9	nsubj	_	_
+8	quantos	quanto	PRON	pron-det|<interr>|M|S	Gender=Masc|Number=Sing|PronType=Int	9	nsubj	_	_
 9	podem	poder	VERB	v-fin|PR|3P|IND	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 10	ser	ser	AUX	v-inf	VerbForm=Inf	9	aux	_	_
 11	construídos	construir	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	10	ccomp	_	_

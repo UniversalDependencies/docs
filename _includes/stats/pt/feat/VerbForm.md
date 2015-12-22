@@ -8,7 +8,7 @@ This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 26305 tokens (12%) have a non-empty value of `VerbForm`.
-8158 types (30%) occur at least once with a non-empty value of `VerbForm`.
+8158 types (29%) occur at least once with a non-empty value of `VerbForm`.
 1988 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: [pt-pos/VERB]() (25840; 12% instances), [pt-pos/AUX]() (465; 0% instances).
 

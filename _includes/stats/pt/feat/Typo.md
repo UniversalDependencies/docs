@@ -7,10 +7,10 @@
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-39 tokens (0%) have a non-empty value of `Typo`.
-37 types (0%) occur at least once with a non-empty value of `Typo`.
-37 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 9 part-of-speech tags: [pt-pos/VERB]() (10; 0% instances), [pt-pos/NOUN]() (8; 0% instances), [pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADP]() (4; 0% instances), [pt-pos/ADV]() (3; 0% instances), [pt-pos/DET]() (3; 0% instances), [pt-pos/PROPN]() (3; 0% instances), [pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]() (1; 0% instances).
+38 tokens (0%) have a non-empty value of `Typo`.
+36 types (0%) occur at least once with a non-empty value of `Typo`.
+36 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 9 part-of-speech tags: [pt-pos/VERB]() (10; 0% instances), [pt-pos/NOUN]() (8; 0% instances), [pt-pos/ADJ]() (6; 0% instances), [pt-pos/ADP]() (4; 0% instances), [pt-pos/ADV]() (3; 0% instances), [pt-pos/DET]() (3; 0% instances), [pt-pos/PROPN]() (2; 0% instances), [pt-pos/NUM]() (1; 0% instances), [pt-pos/PRON]() (1; 0% instances).
 
 ### `VERB`
 
@@ -54,13 +54,13 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 * `Yes` (4; 100% of non-empty `Typo`): __
 
-### `PROPN`
+### `ADV`
 
-3 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+3 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: .
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: .
 
-`PROPN` tokens may have the following values of `Typo`:
+`ADV` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): __
 
@@ -74,15 +74,15 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 * `Yes` (3; 100% of non-empty `Typo`): __
 
-### `ADV`
+### `PROPN`
 
-3 [pt-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+2 [pt-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: .
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: .
 
-`ADV` tokens may have the following values of `Typo`:
+`PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): __
+* `Yes` (2; 100% of non-empty `Typo`): __
 
 ### `PRON`
 
