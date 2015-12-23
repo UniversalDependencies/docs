@@ -61,7 +61,7 @@ The 1st highest number of forms (19) was observed with the lemma “_”: أُو
 
 `DET` occurs with 16 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|PronType=Dem` (556 tokens).
-Examples: _هٰذِهِ, تِلكَ_
+Examples: هٰذِهِ, تِلكَ
 
 
 ## Relations

@@ -59,7 +59,7 @@ The 1st highest number of forms (6425) was observed with the lemma “_”: آت
 
 `ADJ` occurs with 63 feature combinations.
 The most frequent feature combination is `Case=Gen|Definite=Def|Gender=Fem|Number=Sing` (7535 tokens).
-Examples: _اَلمِصرِيَّةِ, اَلمُتَّحِدَةِ, اَلعَرَبِيَّةِ, اَلأَمرِيكِيَّةِ, اَلفِلَسطِينِيَّةِ, اَلدُّوَلِيَّةِ, اَلإِسرَائِيلِيَّةِ, اَلعَالَمِيَّةِ, اَلعَامَّةِ, اَلخَارِجِيَّةِ_
+Examples: اَلمِصرِيَّةِ, اَلمُتَّحِدَةِ, اَلعَرَبِيَّةِ, اَلأَمرِيكِيَّةِ, اَلفِلَسطِينِيَّةِ, اَلدُّوَلِيَّةِ, اَلإِسرَائِيلِيَّةِ, اَلعَالَمِيَّةِ, اَلعَامَّةِ, اَلخَارِجِيَّةِ
 
 
 ## Relations

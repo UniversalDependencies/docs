@@ -59,7 +59,7 @@ The 1st highest number of forms (15560) was observed with the lemma “_”: آ�
 
 `NOUN` occurs with 32 feature combinations.
 The most frequent feature combination is `Case=Gen|Definite=Def|Number=Sing` (21073 tokens).
-Examples: _اَلعِرَاقِ, اَلحُكُومَةِ, اَلرَّئِيسِ, اَلسُّوقِ, اَلمِنطَقَةِ, اَلنَّفطِ, اَلتِّجَارَةِ, اَلأَمنِ, اَلعَامِ, اَلخَارِجِيَّةِ_
+Examples: اَلعِرَاقِ, اَلحُكُومَةِ, اَلرَّئِيسِ, اَلسُّوقِ, اَلمِنطَقَةِ, اَلنَّفطِ, اَلتِّجَارَةِ, اَلأَمنِ, اَلعَامِ, اَلخَارِجِيَّةِ
 
 
 ## Relations

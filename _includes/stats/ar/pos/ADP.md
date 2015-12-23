@@ -61,7 +61,7 @@ The 1st highest number of forms (92) was observed with the lemma “_”: أَث
 
 `ADP` occurs with 4 feature combinations.
 The most frequent feature combination is `AdpType=Prep` (35908 tokens).
-Examples: _فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, لَ_
+Examples: فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, لَ
 
 
 ## Relations

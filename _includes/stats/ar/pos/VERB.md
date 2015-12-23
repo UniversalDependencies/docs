@@ -59,7 +59,7 @@ The 1st highest number of forms (4884) was observed with the lemma “_”: آل
 
 `VERB` occurs with 61 feature combinations.
 The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act` (6729 tokens).
-Examples: _قَالَ, كَانَ, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, جَاءَ, لَيسَ_
+Examples: قَالَ, كَانَ, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, جَاءَ, لَيسَ
 
 
 ## Relations

@@ -44,7 +44,7 @@ The 1st highest number of forms (7839) was observed with the lemma “_”: A, A
 
 `X` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (16702 tokens).
-Examples: _محمد, اف, عبد, وذلك, مبارك, الله, ذلك, علي, عرفات, الذي_
+Examples: محمد, اف, عبد, وذلك, مبارك, الله, ذلك, علي, عرفات, الذي
 
 
 ## Relations

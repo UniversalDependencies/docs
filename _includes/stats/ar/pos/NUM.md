@@ -59,7 +59,7 @@ The 1st highest number of forms (1118) was observed with the lemma “_”: آل
 
 `NUM` occurs with 77 feature combinations.
 The most frequent feature combination is `NumForm=Digit` (5521 tokens).
-Examples: _١٥, ٣, ٦, ٢, ٨, ٧, ٤, ١١, ١٠, ١٢_
+Examples: ١٥, ٣, ٦, ٢, ٨, ٧, ٤, ١١, ١٠, ١٢
 
 
 ## Relations

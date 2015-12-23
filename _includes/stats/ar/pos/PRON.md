@@ -61,7 +61,7 @@ The 1st highest number of forms (52) was observed with the lemma “_”: أَن
 
 `PRON` occurs with 61 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs` (2871 tokens).
-Examples: _هَا_
+Examples: هَا
 
 
 ## Relations

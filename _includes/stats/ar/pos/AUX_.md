@@ -38,7 +38,7 @@ The 1st highest number of forms (4) was observed with the lemma “_”: أَل�
 
 `AUX` occurs with 3 feature combinations.
 The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act` (36 tokens).
-Examples: _لَيسَ, أَلَا_
+Examples: لَيسَ, أَلَا
 
 
 ## Relations
