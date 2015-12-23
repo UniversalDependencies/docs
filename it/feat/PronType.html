@@ -141,6 +141,94 @@ distinguish a separate feature of distance (<em>here / there</em>; [es] <em>aqu�
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-uditalian">Treebank Statistics (UD_Italian)</h2>
+
+<p>This feature is universal but the values <code>Clit</code>, <code>Exc</code> are language-specific.
+It occurs with 9 different values: <code>Art</code>, <code>Clit</code>, <code>Dem</code>, <code>Exc</code>, <code>Ind</code>, <code>Int</code>, <code>Neg</code>, <code>Prs</code>, <code>Rel</code>.</p>
+
+<p>56012 tokens (21%) have a non-empty value of <code>PronType</code>.
+334 types (1%) occur at least once with a non-empty value of <code>PronType</code>.
+151 lemmas (1%) occur at least once with a non-empty value of <code>PronType</code>.
+The feature is used with 3 part-of-speech tags: <a href="">it-pos/DET</a> (43374; 16% instances), <a href="">it-pos/PRON</a> (10750; 4% instances), <a href="">it-pos/ADV</a> (1888; 1% instances).</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>43374 <a href="">it-pos/DET</a> tokens (99% of all <code>DET</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>PronType</code> co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (34073; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (32138; 74%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Art</code> (38426; 89% of non-empty <code>PronType</code>): <em>il, la, l’, i, le, un, una, gli, lo, un’</em></li>
+  <li><code>Dem</code> (956; 2% of non-empty <code>PronType</code>): <em>questo, questa, tale, questi, queste, quest’, quel, tali, quella, tal</em></li>
+  <li><code>Exc</code> (7; 0% of non-empty <code>PronType</code>): <em>che, Quale</em></li>
+  <li><code>Ind</code> (1271; 3% of non-empty <code>PronType</code>): <em>ogni, qualche, alcuni, più, qualsiasi, molti, diversi, alcuna, alcune, tutto</em></li>
+  <li><code>Int</code> (937; 2% of non-empty <code>PronType</code>): <em>quale, che, quanti, quante, quali, quanta, quanto, Qual, quel</em></li>
+  <li><code>Prs</code> (1735; 4% of non-empty <code>PronType</code>): <em>sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</em></li>
+  <li><code>Rel</code> (42; 0% of non-empty <code>PronType</code>): <em>cui, quali</em></li>
+  <li><code>EMPTY</code> (327): <em>tutti, tutte, tutta, tutto, entrambi, entrambe, ambedue, tutt’</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>quale</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Exc</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>quale</em></td><td></td><td><em>Quale</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>quali</em></td><td><em>quali</em></td><td></td></tr>
+</table>
+
+<p><code>PronType</code> seems to be <strong>lexical feature</strong> of <code>DET</code>. 94% lemmas (72) occur only with one value of <code>PronType</code>.</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>10750 <a href="">it-pos/PRON</a> tokens (99% of all <code>PRON</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>PronType</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7825; 73%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6336; 59%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6052; 56%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Clit</code> (4444; 41% of non-empty <code>PronType</code>): <em>si, ci, ne, c’, lo, vi, mi, la, gli, li</em></li>
+  <li><code>Dem</code> (806; 7% of non-empty <code>PronType</code>): <em>quello, questo, ciò, quella, quelli, quelle, questa, questi, coloro, queste</em></li>
+  <li><code>Ind</code> (991; 9% of non-empty <code>PronType</code>): <em>uno, tutto, tutti, altri, una, altro, più, nessuno, molti, nulla</em></li>
+  <li><code>Int</code> (891; 8% of non-empty <code>PronType</code>): <em>chi, qual, cosa, quanto, cos’, che, quale, quanti, Quali, Quante</em></li>
+  <li><code>Prs</code> (719; 7% of non-empty <code>PronType</code>): <em>lui, noi, loro, io, lei, egli, essa, essi, esso, esse</em></li>
+  <li><code>Rel</code> (2899; 27% of non-empty <code>PronType</code>): <em>che, cui, chi, quale, quanto, quali, chiunque, come, dove, quanti</em></li>
+  <li><code>EMPTY</code> (84): <em>terzo, terzi, quarto, primo, ultimo, primi, ultima, prima, quinto, decimo</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>quanto</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>quanto</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>quanto</em></td><td><em>quanto</em></td><td><em>quanto</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>quanti</em></td><td><em>quanti</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Quante</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>quanto</em></td><td><em>quanto</em></td><td></td></tr>
+</table>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>1888 <a href="">it-pos/ADV</a> tokens (18% of all <code>ADV</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Neg</code> (1888; 100% of non-empty <code>PronType</code>): <em>non, neppure, nemmeno, no, neanche, mica, nè, perniente</em></li>
+  <li><code>EMPTY</code> (8596): <em>più, anche, dove, come, quando, solo, sempre, ancora, prima, già</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-prontype">Relations with Agreement in <code>PronType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>PronType</code>:
+<tt>PRON –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (27; 75%),
+<tt>PRON –[<a href="../dep/appos.html">appos</a>]–&gt; PRON</tt> (1; 100%),
+<tt>DET –[<a href="../dep/conj.html">conj</a>]–&gt; DET</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
