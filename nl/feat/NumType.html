@@ -48,6 +48,95 @@ for <code>NumType</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-uddutch">Treebank Statistics (UD_Dutch)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Card</code>, <code>Ord</code>.</p>
+
+<p>4789 tokens (2%) have a non-empty value of <code>NumType</code>.
+1066 types (4%) occur at least once with a non-empty value of <code>NumType</code>.
+1016 lemmas (5%) occur at least once with a non-empty value of <code>NumType</code>.
+The feature is used with 4 part-of-speech tags: <a href="">nl-pos/NUM</a> (3256; 2% instances), <a href="">nl-pos/ADJ</a> (548; 0% instances), <a href="">nl-pos/DET</a> (540; 0% instances), <a href="">nl-pos/PRON</a> (445; 0% instances).</p>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>3256 <a href="">nl-pos/NUM</a> tokens (100% of all <code>NUM</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>NumType</code> co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3256; 100%).</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (3256; 100% of non-empty <code>NumType</code>): <em>twee, drie, vier, miljoen, vijf, beide, tien, zes, acht, 1969</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>NUM</code>. 100% lemmas (927) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>548 <a href="">nl-pos/ADJ</a> tokens (4% of all <code>ADJ</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>NumType</code> co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (548; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (546; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (542; 99%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Ord</code> (548; 100% of non-empty <code>NumType</code>): <em>eerste, tweede, derde, vierde, vijfde, zevende, 19e, dertiende, negende, zesde</em></li>
+  <li><code>EMPTY</code> (12306): <em>nieuwe, grote, goed, Nederlandse, laatste, groot, verder, goede, Amerikaanse, lang</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 100% lemmas (68) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>540 <a href="">nl-pos/DET</a> tokens (3% of all <code>DET</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>NumType</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (540; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (540; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (540; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (538; 100%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (540; 100% of non-empty <code>NumType</code>): <em>hoeveel, veel, meer, vele, meeste, weinig, minder, zoveel, weinige, evenveel</em></li>
+  <li><code>EMPTY</code> (19891): <em>de, een, het, der, ‘n, ‘t, des, ONTVANGEN, den</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>DET</code>. 100% lemmas (19) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>445 <a href="">nl-pos/PRON</a> tokens (2% of all <code>PRON</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>NumType</code> co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (445; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (445; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (431; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (426; 96%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (445; 100% of non-empty <code>NumType</code>): <em>veel, meer, minder, weinig, hoeveel, velen, zoveel, min_of_meer, vele, allerminst</em></li>
+  <li><code>EMPTY</code> (17978): <em>het, die, hij, ik, dat, zijn, de, wat, welke, zich</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>PRON</code>. 100% lemmas (19) occur only with one value of <code>NumType</code>.</p>
+
+<h2 id="relations-with-agreement-in-numtype">Relations with Agreement in <code>NumType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>NumType</code>:
+<tt>NUM –[<a href="../dep/conj.html">conj</a>]–&gt; NUM</tt> (119; 100%),
+<tt>NUM –[<a href="../dep/compound.html">compound</a>]–&gt; NUM</tt> (98; 100%),
+<tt>DET –[<a href="../dep/advmod.html">advmod</a>]–&gt; NUM</tt> (29; 94%),
+<tt>PRON –[<a href="../dep/advmod.html">advmod</a>]–&gt; PRON</tt> (10; 100%),
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (10; 71%),
+<tt>PRON –[<a href="../dep/advmod.html">advmod</a>]–&gt; NUM</tt> (5; 83%),
+<tt>NUM –[<a href="../dep/cc.html">cc</a>]–&gt; NUM</tt> (5; 100%),
+<tt>PRON –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (4; 67%),
+<tt>DET –[<a href="../dep/advmod.html">advmod</a>]–&gt; PRON</tt> (3; 75%),
+<tt>NUM –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (3; 75%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
