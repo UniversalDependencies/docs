@@ -47,6 +47,69 @@
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udhungarian">Treebank Statistics (UD_Hungarian)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Past</code>, <code>Pres</code>.</p>
+
+<p>2403 tokens (9%) have a non-empty value of <code>Tense</code>.
+1518 types (16%) occur at least once with a non-empty value of <code>Tense</code>.
+813 lemmas (13%) occur at least once with a non-empty value of <code>Tense</code>.
+The feature is used with 2 part-of-speech tags: <a href="">hu-pos/VERB</a> (2374; 9% instances), <a href="">hu-pos/AUX</a> (29; 0% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>2374 <a href="">hu-pos/VERB</a> tokens (92% of all <code>VERB</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Tense</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2374; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2334; 98%), <tt><a href="Person.html">Person</a>=3</tt> (2184; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2027; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (1731; 73%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (1495; 63%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Past</code> (1135; 48% of non-empty <code>Tense</code>): <em>volt, mondta, elmondta, jelentette, lehetett, került, adott, voltak, kellett, lett</em></li>
+  <li><code>Pres</code> (1239; 52% of non-empty <code>Tense</code>): <em>kell, van, lehet, lesz, lenne, kellene, nincs, legyen, vannak, kerül</em></li>
+  <li><code>EMPTY</code> (219): <em>tartani, tudni, látni, számítani, rendezni, tenni, beszélni, elfogadni, elindulni, elkerülni</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>van</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>volna</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>vagyok</em></td><td><em>voltam</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>van</em></td><td><em>volt</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td></td><td><em>voltunk</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>vannak</em></td><td><em>voltak</em></td></tr>
+</table>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>29 <a href="">hu-pos/AUX</a> tokens (100% of all <code>AUX</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Tense</code> co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (29; 100%), <tt><a href="Person.html">Person</a>=3</tt> (29; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (25; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (23; 79%), <tt><a href="Mood.html">Mood</a>=Cnd</tt> (16; 55%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Pres</code> (29; 100% of non-empty <code>Tense</code>): <em>volna, fog, fognak, fogja, fogják</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-tense">Relations with Agreement in <code>Tense</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Tense</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (302; 80%),
+<tt>VERB –[<a href="../dep/advcl.html">advcl</a>]–&gt; VERB</tt> (119; 78%),
+<tt>VERB –[<a href="../dep/csubj.html">csubj</a>]–&gt; VERB</tt> (32; 82%),
+<tt>VERB –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; VERB</tt> (29; 66%),
+<tt>VERB –[<a href="../dep/acl.html">acl</a>]–&gt; VERB</tt> (4; 100%),
+<tt>VERB –[<a href="../dep/nmod.html">nmod</a>]–&gt; VERB</tt> (1; 100%),
+<tt>VERB –[<a href="../dep/remnant.html">remnant</a>]–&gt; VERB</tt> (1; 100%),
+<tt>VERB –[<a href="../dep/ccomp:pred.html">ccomp:pred</a>]–&gt; VERB</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
