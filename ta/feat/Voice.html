@@ -48,6 +48,68 @@ for <code>Voice</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udtamil">Treebank Statistics (UD_Tamil)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Act</code>, <code>Pass</code>.</p>
+
+<p>1771 tokens (18%) have a non-empty value of <code>Voice</code>.
+774 types (22%) occur at least once with a non-empty value of <code>Voice</code>.
+313 lemmas (15%) occur at least once with a non-empty value of <code>Voice</code>.
+The feature is used with 2 part-of-speech tags: <a href="">ta-pos/VERB</a> (1155; 12% instances), <a href="">ta-pos/AUX</a> (616; 6% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>1155 <a href="">ta-pos/VERB</a> tokens (99% of all <code>VERB</code> tokens) have a non-empty value of <code>Voice</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Voice</code> co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (1155; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1019; 88%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1013; 88%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (840; 73%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (750; 65%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (731; 63%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (719; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (719; 62%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Voice</code>:</p>
+
+<ul>
+  <li><code>Act</code> (1154; 100% of non-empty <code>Voice</code>): தெரிவித்தார், தெரிவித்த், என்றார், செய்து, தெரிவிக்கப், செய்யப், உள்ளது, கூறினார், கொண்டு, கலந்து</li>
+  <li><code>Pass</code> (1; 0% of non-empty <code>Voice</code>): படுவதற்க்</li>
+  <li><code>EMPTY</code> (16): இல்லாமல், செயல்படாமல், தரா, நிறைவேற்றா, ஏற்றுக்கொள்ளாமல், கண்டுகொள்ளாமல், கவலைப்படாதீர்கள், குறிப்பிடாமல், செய்யப்படாமல், பெறாமல்</li>
+</ul>
+
+<p><code>Voice</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 100% lemmas (309) occur only with one value of <code>Voice</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>616 <a href="">ta-pos/AUX</a> tokens (98% of all <code>AUX</code> tokens) have a non-empty value of <code>Voice</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Voice</code> co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (616; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (531; 86%), <tt><a href="Person.html">Person</a>=3</tt> (448; 73%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (419; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (407; 66%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (356; 58%), <tt><a href="Number.html">Number</a>=Sing</tt> (344; 56%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (339; 55%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Voice</code>:</p>
+
+<ul>
+  <li><code>Act</code> (462; 75% of non-empty <code>Voice</code>): உள்ளது, வேண்டும், உள்ளார், இல்லை, உள்ளனர், உள்ளன, வருகின்றனர், இருந்தது, வருகிறது, கொண்டு</li>
+  <li><code>Pass</code> (154; 25% of non-empty <code>Voice</code>): பட்ட், பட்டது, பட்டு, ப்படும், படுகிறது, ப்பட, படவ், படுகின்றனர், பட்டதற்கு, பட்டனர்</li>
+  <li><code>EMPTY</code> (11): முடியாது, கூடாது, மாட்டாது, படாது, வேண்டாம்</li>
+</ul>
+
+<p><code>Voice</code> seems to be <strong>lexical feature</strong> of <code>AUX</code>. 100% lemmas (28) occur only with one value of <code>Voice</code>.</p>
+
+<h2 id="relations-with-agreement-in-voice">Relations with Agreement in <code>Voice</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Voice</code>:
+<tt>VERB –[<a href="../dep/aux.html">aux</a>]–&gt; AUX</tt> (379; 71%),
+<tt>VERB –[<a href="../dep/advcl.html">advcl</a>]–&gt; VERB</tt> (202; 95%),
+<tt>VERB –[<a href="../dep/ccomp.html">ccomp</a>]–&gt; VERB</tt> (151; 99%),
+<tt>VERB –[<a href="../dep/xcomp.html">xcomp</a>]–&gt; VERB</tt> (26; 100%),
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (18; 100%),
+<tt>VERB –[<a href="../dep/compound.html">compound</a>]–&gt; VERB</tt> (11; 100%),
+<tt>VERB –[<a href="../dep/csubj.html">csubj</a>]–&gt; VERB</tt> (5; 100%),
+<tt>AUX –[<a href="../dep/ccomp.html">ccomp</a>]–&gt; VERB</tt> (4; 100%),
+<tt>VERB –[<a href="../dep/advcl.html">advcl</a>]–&gt; AUX</tt> (2; 67%),
+<tt>AUX –[<a href="../dep/aux.html">aux</a>]–&gt; AUX</tt> (2; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

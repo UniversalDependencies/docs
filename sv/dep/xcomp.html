@@ -61,6 +61,72 @@ xcomp(betraktar, vän)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udswedish">Treebank Statistics (UD_Swedish)</h2>
+
+<p>This relation is universal.</p>
+
+<p>1100 nodes (1%) are attached to their parents as <code>xcomp</code>.</p>
+
+<p>1065 instances of <code>xcomp</code> (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.03272727272727.</p>
+
+<p>The following 18 pairs of parts of speech are connected with <code>xcomp</code>: <a href="">sv-pos/VERB</a>-<a href="">sv-pos/ADJ</a> (401; 36% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/VERB</a> (343; 31% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/NOUN</a> (286; 26% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/ADV</a> (14; 1% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/PRON</a> (13; 1% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/NOUN</a> (8; 1% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/ADJ</a> (7; 1% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/VERB</a> (6; 1% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/NOUN</a> (3; 0% instances), <a href="">sv-pos/PROPN</a>-<a href="">sv-pos/NOUN</a> (3; 0% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/ADP</a> (3; 0% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/DET</a> (3; 0% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/NUM</a> (3; 0% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/ADJ</a> (2; 0% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/PROPN</a> (2; 0% instances), <a href="">sv-pos/ADV</a>-<a href="">sv-pos/ADJ</a> (1; 0% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/VERB</a> (1; 0% instances), <a href="">sv-pos/NUM</a>-<a href="">sv-pos/NOUN</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 xcomp	color:blue
+1	Bördan	börda	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	dislocated	_	_
+2	att	att	PART	IE	_	3	mark	_	_
+3	fostra	fostra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	1	acl	_	_
+4	barn	barn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	3	dobj	_	_
+5	-	-	PUNCT	MID	_	1	punct	_	_
+6	uttrycket	uttryck	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	låter	låta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	negativt	negativ	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	xcomp	_	_
+9	.	.	PUNCT	MAD	_	7	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 xcomp	color:blue
+1	Börjar	börja	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hennes	hon	DET	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	3	nmod:poss	_	_
+3	jobb	jobb	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	nsubj	_	_
+4	att	att	PART	IE	_	5	mark	_	_
+5	delas	dela	VERB	VB|INF|SFO	VerbForm=Inf|Voice=Pass	1	xcomp	_	_
+6	av	av	ADP	PP	_	9	case	_	_
+7	den	en	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	9	det	_	_
+8	moderne	modern	ADJ	JJ|POS|MAS|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	mannen	man	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	nmod:agent	_	_
+10	?	?	PUNCT	MAD	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 xcomp	color:blue
+1	Hushållsarbetet	hushållsarbete	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kock-	kocka	NOUN	NN|UTR|-|-|SMS	Gender=Com	2	xcomp	_	_
+4	och	och	CONJ	KN	_	3	cc	_	_
+5	restaurangarbete	restaurangarbete	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	MAD	_	2	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

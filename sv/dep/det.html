@@ -56,6 +56,75 @@ det(bok, Vilken)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udswedish">Treebank Statistics (UD_Swedish)</h2>
+
+<p>This relation is universal.</p>
+
+<p>6304 nodes (7%) are attached to their parents as <code>det</code>.</p>
+
+<p>6294 instances of <code>det</code> (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55203045685279.</p>
+
+<p>The following 26 pairs of parts of speech are connected with <code>det</code>: <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/DET</a> (4564; 72% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/ADJ</a> (1315; 21% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/DET</a> (283; 4% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/ADV</a> (19; 0% instances), <a href="">sv-pos/NUM</a>-<a href="">sv-pos/ADV</a> (17; 0% instances), <a href="">sv-pos/NUM</a>-<a href="">sv-pos/DET</a> (15; 0% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/PRON</a> (14; 0% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/ADJ</a> (11; 0% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/PRON</a> (10; 0% instances), <a href="">sv-pos/PRON</a>-<a href="">sv-pos/DET</a> (10; 0% instances), <a href="">sv-pos/PROPN</a>-<a href="">sv-pos/ADJ</a> (10; 0% instances), <a href="">sv-pos/PROPN</a>-<a href="">sv-pos/DET</a> (10; 0% instances), <a href="">sv-pos/PRON</a>-<a href="">sv-pos/ADJ</a> (5; 0% instances), <a href="">sv-pos/DET</a>-<a href="">sv-pos/PRON</a> (3; 0% instances), <a href="">sv-pos/NUM</a>-<a href="">sv-pos/ADJ</a> (3; 0% instances), <a href="">sv-pos/ADV</a>-<a href="">sv-pos/ADJ</a> (2; 0% instances), <a href="">sv-pos/ADV</a>-<a href="">sv-pos/ADV</a> (2; 0% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/ADP</a> (2; 0% instances), <a href="">sv-pos/VERB</a>-<a href="">sv-pos/PRON</a> (2; 0% instances), <a href="">sv-pos/ADJ</a>-<a href="">sv-pos/ADV</a> (1; 0% instances), <a href="">sv-pos/ADV</a>-<a href="">sv-pos/DET</a> (1; 0% instances), <a href="">sv-pos/DET</a>-<a href="">sv-pos/DET</a> (1; 0% instances), <a href="">sv-pos/INTJ</a>-<a href="">sv-pos/DET</a> (1; 0% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/CONJ</a> (1; 0% instances), <a href="">sv-pos/NOUN</a>-<a href="">sv-pos/VERB</a> (1; 0% instances), <a href="">sv-pos/PRON</a>-<a href="">sv-pos/ADV</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	Man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nsubj	_	_
+2	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	fråga	fråga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	_	_
+4	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def	3	iobj	_	_
+5	hur	hur	ADV	HA	_	8	advmod	_	_
+6	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur	7	det	_	_
+7	barn	barn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	8	nsubj	_	_
+8	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+9	.	.	PUNCT	MAD	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 det	color:blue
+1	Kvarstår	kvarstå	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	denna	denna	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	3	det	_	_
+3	försening	försening	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nsubj	_	_
+4	i	i	ADP	PP	_	5	case	_	_
+5	utveckling	utveckling	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	_
+6	hos	hos	ADP	PP	_	8	case	_	_
+7	äldre	gammal	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	8	det	_	_
+8	kibbutzbarn	kibbutzbarn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	1	nmod	_	_
+9	?	?	PUNCT	MAD	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	De	en	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur	2	det	_	_
+2	reaktionära	reaktionär	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	3	nsubj	_	_
+3	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	många	många	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	5	det	_	_
+5	sätt	sätt	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	3	dobj	_	_
+6	att	att	PART	IE	_	7	mark	_	_
+7	göra	göra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	acl	_	_
+8	bilden	bild	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	dobj	_	_
+9	suddig	suddig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	xcomp	_	_
+10	.	.	PUNCT	MAD	_	3	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

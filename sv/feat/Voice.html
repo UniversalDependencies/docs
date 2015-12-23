@@ -65,6 +65,73 @@
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udswedish">Treebank Statistics (UD_Swedish)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Act</code>, <code>Pass</code>.</p>
+
+<p>13784 tokens (14%) have a non-empty value of <code>Voice</code>.
+2598 types (17%) occur at least once with a non-empty value of <code>Voice</code>.
+1187 lemmas (12%) occur at least once with a non-empty value of <code>Voice</code>.
+The feature is used with 2 part-of-speech tags: <a href="">sv-pos/VERB</a> (9601; 10% instances), <a href="">sv-pos/AUX</a> (4183; 4% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>9601 <a href="">sv-pos/VERB</a> tokens (96% of all <code>VERB</code> tokens) have a non-empty value of <code>Voice</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Voice</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5648; 59%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5449; 57%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Voice</code>:</p>
+
+<ul>
+  <li><code>Act</code> (8132; 85% of non-empty <code>Voice</code>): <em>har, är, blir, få, får, ha, gäller, ger, går, se</em></li>
+  <li><code>Pass</code> (1469; 15% of non-empty <code>Voice</code>): <em>kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</em></li>
+  <li><code>EMPTY</code> (368): <em>finns, tycks, fanns, finnas, fordras, jfr, känns, hoppas, syns, trivas</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>göra</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>Gör</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>gjorde</em></td><td><em>gjordes</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>gör</em></td><td><em>görs</em></td></tr>
+  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td><em>göra</em></td><td><em>göras</em></td></tr>
+  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Sup</tt></td><td><em>gjort</em></td><td><em>gjorts</em></td></tr>
+</table>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>4183 <a href="">sv-pos/AUX</a> tokens (100% of all <code>AUX</code> tokens) have a non-empty value of <code>Voice</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Voice</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3778; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3769; 90%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3411; 82%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Voice</code>:</p>
+
+<ul>
+  <li><code>Act</code> (4183; 100% of non-empty <code>Voice</code>): <em>är, kan, har, måste, skall, vara, skulle, ska, kommer, var</em></li>
+</ul>
+
+<p><code>Voice</code> seems to be <strong>lexical feature</strong> of <code>AUX</code>. 100% lemmas (16) occur only with one value of <code>Voice</code>.</p>
+
+<h2 id="relations-with-agreement-in-voice">Relations with Agreement in <code>Voice</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Voice</code>:
+<tt>VERB –[<a href="../dep/aux.html">aux</a>]–&gt; AUX</tt> (1825; 77%),
+<tt>VERB –[<a href="../dep/advcl.html">advcl</a>]–&gt; VERB</tt> (819; 72%),
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (675; 81%),
+<tt>VERB –[<a href="../dep/ccomp.html">ccomp</a>]–&gt; VERB</tt> (319; 77%),
+<tt>VERB –[<a href="../dep/xcomp.html">xcomp</a>]–&gt; VERB</tt> (279; 81%),
+<tt>VERB –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; VERB</tt> (174; 77%),
+<tt>VERB –[<a href="../dep/csubj.html">csubj</a>]–&gt; VERB</tt> (98; 91%),
+<tt>VERB –[<a href="../dep/dislocated.html">dislocated</a>]–&gt; VERB</tt> (29; 81%),
+<tt>VERB –[<a href="../dep/appos.html">appos</a>]–&gt; VERB</tt> (19; 76%),
+<tt>VERB –[<a href="../dep/acl:relcl.html">acl:relcl</a>]–&gt; VERB</tt> (5; 56%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

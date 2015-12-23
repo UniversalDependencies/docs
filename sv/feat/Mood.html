@@ -80,6 +80,79 @@ action of the verb.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udswedish">Treebank Statistics (UD_Swedish)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Imp</code>, <code>Ind</code>, <code>Sub</code>.</p>
+
+<p>9701 tokens (10%) have a non-empty value of <code>Mood</code>.
+1430 types (9%) occur at least once with a non-empty value of <code>Mood</code>.
+870 lemmas (9%) occur at least once with a non-empty value of <code>Mood</code>.
+The feature is used with 2 part-of-speech tags: <a href="">sv-pos/VERB</a> (5923; 6% instances), <a href="">sv-pos/AUX</a> (3778; 4% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>5923 <a href="">sv-pos/VERB</a> tokens (59% of all <code>VERB</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5923; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5048; 85%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4805; 81%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (191; 3% of non-empty <code>Mood</code>): <em>se, låt, ta, ge, kontrollera, Diskutera, kolla, Läs, byt, jämför</em></li>
+  <li><code>Ind</code> (5724; 97% of non-empty <code>Mood</code>): <em>har, finns, är, blir, får, gäller, ger, går, kommer, gör</em></li>
+  <li><code>Sub</code> (8; 0% of non-empty <code>Mood</code>): <em>vare, vore, Gånge, finge</em></li>
+  <li><code>EMPTY</code> (4046): <em>få, ha, bli, göra, ge, ta, komma, gå, se, fått</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>gå</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>gick</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>går</em></td><td></td><td><em>Gånge</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Gå</em></td><td></td></tr>
+</table>
+
+<p><code>Mood</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 94% lemmas (815) occur only with one value of <code>Mood</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>3778 <a href="">sv-pos/AUX</a> tokens (90% of all <code>AUX</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (3778; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3778; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3411; 90%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (1; 0% of non-empty <code>Mood</code>): <em>Varen</em></li>
+  <li><code>Ind</code> (3769; 100% of non-empty <code>Mood</code>): <em>är, kan, har, måste, skall, skulle, ska, kommer, var, får</em></li>
+  <li><code>Sub</code> (8; 0% of non-empty <code>Mood</code>): <em>vore</em></li>
+  <li><code>EMPTY</code> (405): <em>vara, kunna, varit, få, ha, bli, kunnat, behöva, fått, kommit</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>vara</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>var</em></td><td></td><td><em>vore</em></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>är, äro</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Varen</em></td><td></td></tr>
+</table>
+
+<p><code>Mood</code> seems to be <strong>lexical feature</strong> of <code>AUX</code>. 93% lemmas (14) occur only with one value of <code>Mood</code>.</p>
+
+<h2 id="relations-with-agreement-in-mood">Relations with Agreement in <code>Mood</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Mood</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (380; 74%),
+<tt>VERB –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; VERB</tt> (102; 52%),
+<tt>VERB –[<a href="../dep/dislocated.html">dislocated</a>]–&gt; VERB</tt> (18; 55%),
+<tt>VERB –[<a href="../dep/appos.html">appos</a>]–&gt; VERB</tt> (10; 56%),
+<tt>AUX –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
