@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  لَيسَ ([VERB]() 106, [AUX]() 35), ل
 
 The form / lemma ratio of `AUX` is 4.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (4) was observed with the lemma “_”: _أَلَا, تَعُد, لَيسَ, لَيسَت_
+The 1st highest number of forms (4) was observed with the lemma “_”: أَلَا, تَعُد, لَيسَ, لَيسَت.
 
 `AUX` occurs with 7 features: [ar-feat/Aspect]() (40; 100% instances), [ar-feat/Gender]() (40; 100% instances), [ar-feat/Number]() (40; 100% instances), [ar-feat/Person]() (40; 100% instances), [ar-feat/Voice]() (40; 100% instances), [ar-feat/Mood]() (1; 3% instances), [ar-feat/VerbForm]() (1; 3% instances)
 

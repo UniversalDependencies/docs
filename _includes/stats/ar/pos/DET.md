@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  هٰذِهِ ([DET]() 733, [PRON]() 28), 
 
 The form / lemma ratio of `DET` is 19.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: _أُولٰئِكَ, اَلَّذِينَ, تِلكَ, ذَا, ذِي, ذٰلِكَ, كَيفَ, كِلَا, لِمَاذَا, مَا, مَاذَا, مَن, هَاتَانِ, هَاتَينِ, هٰؤُلَاءِ, هٰذَا, هٰذَانِ, هٰذَينِ, هٰذِهِ_
+The 1st highest number of forms (19) was observed with the lemma “_”: أُولٰئِكَ, اَلَّذِينَ, تِلكَ, ذَا, ذِي, ذٰلِكَ, كَيفَ, كِلَا, لِمَاذَا, مَا, مَاذَا, مَن, هَاتَانِ, هَاتَينِ, هٰؤُلَاءِ, هٰذَا, هٰذَانِ, هٰذَينِ, هٰذِهِ.
 
 `DET` occurs with 4 features: [ar-feat/Case]() (1602; 85% instances), [ar-feat/Gender]() (1602; 85% instances), [ar-feat/Number]() (1602; 85% instances), [ar-feat/PronType]() (1602; 85% instances)
 

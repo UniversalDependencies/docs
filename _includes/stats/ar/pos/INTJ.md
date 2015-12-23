@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  مَا ([PRON]() 756, [DET]() 251, [PART]
 
 The form / lemma ratio of `INTJ` is 4.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (4) was observed with the lemma “_”: _بِلَاش, حَيَّ, مَا, مَرحَبًا_
+The 1st highest number of forms (4) was observed with the lemma “_”: بِلَاش, حَيَّ, مَا, مَرحَبًا.
 
 `INTJ` does not occur with any features.
 

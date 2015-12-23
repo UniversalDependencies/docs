@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  / ([PUNCT]() 753, [SYM]() 15), ر ([PUNCT
 
 The form / lemma ratio of `PUNCT` is 20.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (20) was observed with the lemma “_”: _!, ", (, ), *, -, ., /, :, <, \, {, «, », ،, ؛, ؟, ر, ـ, ــ_
+The 1st highest number of forms (20) was observed with the lemma “_”: !, ", (, ), *, -, ., /, :, <, \, {, «, », ،, ؛, ؟, ر, ـ, ــ.
 
 `PUNCT` does not occur with any features.
 

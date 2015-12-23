@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  / ([PUNCT]() 753, [SYM]() 15)
 
 The form / lemma ratio of `SYM` is 3.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (3) was observed with the lemma “_”: _%, +, /_
+The 1st highest number of forms (3) was observed with the lemma “_”: %, +, /.
 
 `SYM` does not occur with any features.
 

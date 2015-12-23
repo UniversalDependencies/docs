@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  إِنَّ ([CONJ]() 934, [PART]() 200), 
 
 The form / lemma ratio of `PART` is 23.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (23) was observed with the lemma “_”: _أَ, أَمَّا, إِلَّا, إِنَّ, إِيَّا, اَل, رُبَّمَا, سَ, سَوفَ, عَلَّ, قَد, كَلَّا, لَ, لَا, لَم, لَن, لِ, مَا, نَاهِيك, نَعَم, هَا, هَل, يَا_
+The 1st highest number of forms (23) was observed with the lemma “_”: أَ, أَمَّا, إِلَّا, إِنَّ, إِيَّا, اَل, رُبَّمَا, سَ, سَوفَ, عَلَّ, قَد, كَلَّا, لَ, لَا, لَم, لَن, لِ, مَا, نَاهِيك, نَعَم, هَا, هَل, يَا.
 
 `PART` does not occur with any features.
 

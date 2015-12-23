@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  أَيضًا ([ADV]() 181, [NOUN]() 8), �
 
 The form / lemma ratio of `ADV` is 20.000000 (the average of all parts of speech is 2258.625000).
 
-The 1st highest number of forms (20) was observed with the lemma “_”: _آنَذَاكَ, أَمسِ, أَيضًا, إِذًا, إِذَن, بَدَلًا, ثَمَّ, ثَمَّةَ, جِدًّا, حَتَّى, حَسب, سُرعَانَ, سِيَّمَا, عِندَئِذٍ, فَقَط, كَذٰلِكَ, مَعًا, هُنَا, هُنَاكَ, هُنَالِكَ_
+The 1st highest number of forms (20) was observed with the lemma “_”: آنَذَاكَ, أَمسِ, أَيضًا, إِذًا, إِذَن, بَدَلًا, ثَمَّ, ثَمَّةَ, جِدًّا, حَتَّى, حَسب, سُرعَانَ, سِيَّمَا, عِندَئِذٍ, فَقَط, كَذٰلِكَ, مَعًا, هُنَا, هُنَاكَ, هُنَالِكَ.
 
 `ADV` does not occur with any features.
 
