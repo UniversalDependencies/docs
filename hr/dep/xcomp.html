@@ -49,6 +49,70 @@ for <code>xcomp</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udcroatian">Treebank Statistics (UD_Croatian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>1314 nodes (1%) are attached to their parents as <code>xcomp</code>.</p>
+
+<p>1251 instances of <code>xcomp</code> (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.83485540334855.</p>
+
+<p>The following 24 pairs of parts of speech are connected with <code>xcomp</code>: <a href="">hr-pos/VERB</a>-<a href="">hr-pos/VERB</a> (600; 46% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/ADV</a> (240; 18% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/AUX</a> (100; 8% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/NOUN</a> (92; 7% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/ADJ</a> (74; 6% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/ADJ</a> (60; 5% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/VERB</a> (43; 3% instances), <a href="">hr-pos/NOUN</a>-<a href="">hr-pos/ADV</a> (25; 2% instances), <a href="">hr-pos/NOUN</a>-<a href="">hr-pos/VERB</a> (19; 1% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/NOUN</a> (17; 1% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/ADV</a> (8; 1% instances), <a href="">hr-pos/ADV</a>-<a href="">hr-pos/VERB</a> (8; 1% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/VERB</a> (8; 1% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/ADJ</a> (6; 0% instances), <a href="">hr-pos/ADV</a>-<a href="">hr-pos/ADJ</a> (3; 0% instances), <a href="">hr-pos/ADV</a>-<a href="">hr-pos/ADV</a> (2; 0% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/ADV</a> (2; 0% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/NOUN</a> (1; 0% instances), <a href="">hr-pos/ADV</a>-<a href="">hr-pos/NOUN</a> (1; 0% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/AUX</a> (1; 0% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/PROPN</a> (1; 0% instances), <a href="">hr-pos/NOUN</a>-<a href="">hr-pos/ADJ</a> (1; 0% instances), <a href="">hr-pos/PROPN</a>-<a href="">hr-pos/ADV</a> (1; 0% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/PROPN</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	Svaka	svaki	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	obitelj	obitelj	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	dobiti	dobiti	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	do	do	ADP	_	Case=Gen	7	case	_	_
+6	500	500	NUM	_	NumType=Card	7	nummod	_	_
+7	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	dobj	_	_
+8	pomoći	pomoć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 xcomp	color:blue
+1	Smanjili	smanjiti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+2	smo	biti	AUX	_	Number=Plur|Person=1|Tense=Pres	1	aux	_	_
+3	administraciju	administracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	_
+4	učinivši	učiniti	ADV	_	Degree=Pos	1	xcomp	_	_
+5	je	on	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+6	proporcionalnoj	proporcionalni	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	_
+7	broju	broj	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+8	stanovnika	stanovnik	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 xcomp	color:blue
+1	To	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	mora	morati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	biti	biti	AUX	_	VerbForm=Inf	2	xcomp	_	_
+4	iskorišteno	iskoristiti	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	3	xcomp	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

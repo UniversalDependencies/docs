@@ -49,6 +49,75 @@ for <code>nsubjpass</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udcroatian">Treebank Statistics (UD_Croatian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>569 nodes (1%) are attached to their parents as <code>nsubjpass</code>.</p>
+
+<p>351 instances of <code>nsubjpass</code> (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66432337434095.</p>
+
+<p>The following 17 pairs of parts of speech are connected with <code>nsubjpass</code>: <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/NOUN</a> (408; 72% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/NOUN</a> (83; 15% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/PROPN</a> (40; 7% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/PRON</a> (13; 2% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/ADJ</a> (5; 1% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/NUM</a> (4; 1% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/X</a> (4; 1% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/PROPN</a> (3; 1% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/ADV</a> (1; 0% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/AUX</a> (1; 0% instances), <a href="">hr-pos/ADJ</a>-<a href="">hr-pos/VERB</a> (1; 0% instances), <a href="">hr-pos/ADV</a>-<a href="">hr-pos/VERB</a> (1; 0% instances), <a href="">hr-pos/AUX</a>-<a href="">hr-pos/NOUN</a> (1; 0% instances), <a href="">hr-pos/NOUN</a>-<a href="">hr-pos/NOUN</a> (1; 0% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/ADJ</a> (1; 0% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/PRON</a> (1; 0% instances), <a href="">hr-pos/VERB</a>-<a href="">hr-pos/VERB</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nsubjpass	color:blue
+1	Do	do	ADP	_	Case=Gen	2	case	_	_
+2	sada	sada	ADV	_	Degree=Pos	6	advmod	_	_
+3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	auxpass	_	_
+4	takav	takav	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	tim	tim	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubjpass	_	_
+6	ustrojen	ustrojiti	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+7	u	u	ADP	_	Case=Loc	8	case	_	_
+8	Federaciji	federacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	BiH	BiH	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nsubjpass	color:blue
+1	"	"	PUNCT	_	_	2	punct	_	_
+2	Želite	željeti	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
+3	li	li	PART	_	_	7	mark	_	_
+4	da	da	SCONJ	_	_	3	mwe	_	_
+5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	7	auxpass	_	_
+6	zakon	zakon	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nsubjpass	_	_
+7	poštuje	poštovati	VERB	_	Number=Sing|Person=3|Tense=Pres	2	ccomp	_	_
+8	ili	ili	CONJ	_	_	2	cc	_	_
+9	ne	ne	PART	_	Negative=Neg	2	remnant	_	_
+10	?	?	PUNCT	_	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubjpass	color:blue
+1	Hrvatska	Hrvatska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubjpass	_	_
+2	pozvana	pozvati	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+3	na	na	ADP	_	Case=Acc	4	case	_	_
+4	ubrzanje	ubrzanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	reformi	reforma	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	koje	koji	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	7	mark	_	_
+7	traži	tražiti	VERB	_	Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+8	EU	EU	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
