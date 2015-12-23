@@ -54,6 +54,129 @@ root(ROOT, pidän)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udfinnish">Treebank Statistics (UD_Finnish)</h2>
+
+<p>This relation is universal.</p>
+
+<p>13581 nodes (8%) are attached to their parents as <code>root</code>.</p>
+
+<p>13581 instances of <code>root</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.2401884986378.</p>
+
+<p>The following 14 pairs of parts of speech are connected with <code>root</code>: <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/VERB</a> (10257; 76% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/NOUN</a> (1876; 14% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/ADJ</a> (867; 6% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/ADV</a> (186; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/PROPN</a> (166; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/PRON</a> (114; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/NUM</a> (46; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/INTJ</a> (27; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/X</a> (14; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/SYM</a> (11; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/AUX</a> (8; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/ADP</a> (4; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/CONJ</a> (3; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/SCONJ</a> (2; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	Saavuin	saapua	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	siis	siis	ADV	Adv	_	1	advmod	_	_
+3	kaupunkiin	kaupunki	NOUN	N	Case=Ill|Number=Sing	1	nmod	_	_
+4	kameraryhmäni	kamera#ryhmä	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	nmod	_	_
+5	kanssa	kanssa	ADP	Adp	AdpType=Post	4	case	_	_
+6	jo	jo	ADV	Adv	_	8	advmod	_	_
+7	ennen	ennen	ADP	Adp	AdpType=Prep	8	case	_	_
+8	yhtätoista	yksi#toista	NUM	Num	Case=Par|Number=Sing|NumType=Card	1	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Punct	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 9 root	color:blue
+1	Eräs	eräs	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj:cop	_	_
+2	suosikkijutuistani	suosikki#juttu	NOUN	N	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	nmod	_	_
+3	oli	olla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+4	tämä	tämä	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	9	det	_	_
+5	vihreän	vihreä	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	8	amod	_	_
+6	ja	ja	CONJ	C	_	5	cc	_	_
+7	keltaisen	keltainen	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	conj	8:amod	_
+8	värinen	värinen	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
+9	kesämekko	kesä#mekko	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	9	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	On	olla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	kyllä	kyllä	ADV	Adv	_	3	advmod	_	_
+3	kiva	kiva	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punct	_	7	punct	_	_
+5	kun	kun	SCONJ	C	_	7	mark	_	_
+6	tuolla	tuolla	ADV	Adv	_	7	advmod	_	_
+7	sai	saada	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	csubj:cop	_	_
+8	hipelöidä	hipelöidä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	kaikkea	kaikki	PRON	Pron	Case=Par|Number=Sing|PronType=Ind	8	dobj	_	SpaceAfter=No
+10	.	.	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
+11	:)	:)	SYM	Symb	_	3	discourse	_	_
+
+</code></pre>
+
+<hr />
+
+<h2 id="treebank-statistics-udfinnish-ftb">Treebank Statistics (UD_Finnish-FTB)</h2>
+
+<p>This relation is universal.</p>
+
+<p>18792 nodes (12%) are attached to their parents as <code>root</code>.</p>
+
+<p>18792 instances of <code>root</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5240527884206.</p>
+
+<p>The following 10 pairs of parts of speech are connected with <code>root</code>: <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/VERB</a> (14302; 76% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/NOUN</a> (2428; 13% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/ADJ</a> (1484; 8% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/PROPN</a> (171; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/PRON</a> (166; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/ADV</a> (132; 1% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/NUM</a> (50; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/INTJ</a> (36; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/X</a> (15; 0% instances), <a href="">fi-pos/ROOT</a>-<a href="">fi-pos/SCONJ</a> (8; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	x:n	x	NOUN	N,Abbr,Sg,Gen	Abbr=Yes|Case=Gen|Number=Sing	3	nsubj	_	_
+2	tarvii	tarvita	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	aux	_	Style=Dialectal
+3	toimia	toimia	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	nukahtamaisillaan	nukahtaa	VERB	V,Act,InfMaisilla,Px3	Person[psor]=3|VerbForm=Inf|Voice=Act	2	advcl	_	FTB1-InfForm=Maisilla
+2	oleva	olla	VERB	V,Act,PcpVa,Sg,Nom	Case=Nom|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
+3	kuski	kuski	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	Buckler	buckler	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
+2	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
+3	vaalea	vaalea	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+4	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
+5	makeahko	makeahko	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
+6	,	,	PUNCT	Pun	_	3	punct	_	FTB-rel=phrm
+7	lievästi	lievästi	ADV	Adv	_	8	advmod	_	_
+8	vierremäinen	vierremäinen	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
+9	.	.	PUNCT	Pun	_	8	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
