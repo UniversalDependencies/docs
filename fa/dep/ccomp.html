@@ -49,6 +49,80 @@ for <code>ccomp</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udpersian">Treebank Statistics (UD_Persian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>4112 nodes (3%) are attached to their parents as <code>ccomp</code>.</p>
+
+<p>4102 instances of <code>ccomp</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.733219844358.</p>
+
+<p>The following 36 pairs of parts of speech are connected with <code>ccomp</code>: <a href="">fa-pos/VERB</a>-<a href="">fa-pos/VERB</a> (1938; 47% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/NOUN</a> (485; 12% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/ADJ</a> (448; 11% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/VERB</a> (361; 9% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/VERB</a> (311; 8% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/VERB</a> (87; 2% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/NOUN</a> (81; 2% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/NOUN</a> (81; 2% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADJ</a> (77; 2% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/ADJ</a> (73; 2% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/ADV</a> (33; 1% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/PRON</a> (22; 1% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/ADJ</a> (19; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/VERB</a> (17; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/X</a> (17; 0% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/NOUN</a> (14; 0% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/PRON</a> (6; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/PRON</a> (5; 0% instances), <a href="">fa-pos/NUM</a>-<a href="">fa-pos/VERB</a> (5; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/NUM</a> (5; 0% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/ADV</a> (3; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/ADJ</a> (3; 0% instances), <a href="">fa-pos/NUM</a>-<a href="">fa-pos/NOUN</a> (3; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/NOUN</a> (2; 0% instances), <a href="">fa-pos/DET</a>-<a href="">fa-pos/VERB</a> (2; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/X</a> (2; 0% instances), <a href="">fa-pos/NUM</a>-<a href="">fa-pos/ADJ</a> (2; 0% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/NUM</a> (2; 0% instances), <a href="">fa-pos/AUX</a>-<a href="">fa-pos/ADJ</a> (1; 0% instances), <a href="">fa-pos/AUX</a>-<a href="">fa-pos/VERB</a> (1; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADV</a> (1; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/PART</a> (1; 0% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/ADV</a> (1; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/AUX</a> (1; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/INTJ</a> (1; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/SCONJ</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 ccomp	color:blue
+1	بخوانید	_	VERB	V_SUB	Mood=Sub|Number=Plur|Person=2|Tense=Pres	0	root	_	_
+2	از	_	ADP	P	_	3	case	_	_
+3	آن	_	PRON	PRO	Number=Sing|PronType=Dem	5	nmod	_	_
+4	دفاع	_	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
+5	نکرد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	1	ccomp	_	_
+6	.	_	PUNCT	DELM	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 14 ccomp	color:blue
+1	معاویه	_	NOUN	N_SING	Number=Sing	2	nsubj	_	_
+2	گفت	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	:	_	PUNCT	DELM	_	2	punct	_	_
+4	چقدر	_	ADV	ADV_I	PronType=Int	14	advmod	_	_
+5	در	_	ADP	P	_	6	case	_	_
+6	دل	_	NOUN	N_SING	Number=Sing	14	nmod	_	_
+7	تو	_	PRON	PRO	Number=Sing|Person=2|PronType=Prs	6	nmod:poss	_	_
+8	از	_	ADP	P	_	9	case	_	_
+9	دوستی	_	NOUN	N_SING	Number=Sing	14	nmod	_	_
+10	علی	_	NOUN	N_SING	Number=Sing	9	nmod:poss	_	_
+11	)	_	PUNCT	DELM	_	10	punct	_	_
+12	ع	_	NOUN	N_SING	Number=Sing	10	dep	_	_
+13	(	_	PUNCT	DELM	_	10	punct	_	_
+14	باقی	_	NOUN	N_SING	Number=Sing	2	ccomp	_	_
+15	است	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	14	cop	_	_
+16	؟	_	PUNCT	DELM	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 ccomp	color:blue
+1	در	_	ADP	P	_	3	case	_	_
+2	مورد	_	ADP	P	_	1	mwe	_	_
+3	عبدالله‌بن‌زبیر	_	NOUN	N_SING	Number=Sing	5	nmod	_	_
+4	سفارش	_	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
+5	می‌کند	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	که	_	SCONJ	CON	_	8	mark	_	_
+7	کاملاً	_	ADV	ADV	_	8	advmod	_	_
+8	مواظب	_	ADJ	ADJ	Degree=Pos	5	ccomp	_	_
+9	او	_	PRON	PRO	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
+10	باش	_	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	8	cop	_	_
+11	.	_	PUNCT	DELM	_	5	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

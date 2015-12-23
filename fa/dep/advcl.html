@@ -49,6 +49,78 @@ for <code>advcl</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udpersian">Treebank Statistics (UD_Persian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>963 nodes (1%) are attached to their parents as <code>advcl</code>.</p>
+
+<p>772 instances of <code>advcl</code> (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.77673935617861.</p>
+
+<p>The following 25 pairs of parts of speech are connected with <code>advcl</code>: <a href="">fa-pos/VERB</a>-<a href="">fa-pos/VERB</a> (312; 32% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/ADJ</a> (120; 12% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/ADV</a> (107; 11% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/VERB</a> (75; 8% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/VERB</a> (71; 7% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/NOUN</a> (62; 6% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADJ</a> (53; 6% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADV</a> (35; 4% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/ADJ</a> (30; 3% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/ADV</a> (26; 3% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/NOUN</a> (19; 2% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/NOUN</a> (15; 2% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/CONJ</a> (8; 1% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/VERB</a> (6; 1% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/CONJ</a> (4; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/ADJ</a> (4; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/NOUN</a> (4; 0% instances), <a href="">fa-pos/ADP</a>-<a href="">fa-pos/ADJ</a> (3; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/VERB</a> (2; 0% instances), <a href="">fa-pos/PRON</a>-<a href="">fa-pos/ADJ</a> (2; 0% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/NUM</a> (1; 0% instances), <a href="">fa-pos/AUX</a>-<a href="">fa-pos/VERB</a> (1; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/CONJ</a> (1; 0% instances), <a href="">fa-pos/NUM</a>-<a href="">fa-pos/ADJ</a> (1; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/NUM</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 16 advcl	color:blue
+1	گفت	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	_
+2	:	_	PUNCT	DELM	_	1	punct	_	_
+3	بر	_	ADP	P	_	4	case	_	_
+4	من	_	PRON	PRO	Number=Sing|Person=1|PronType=Prs	6	nmod	_	_
+5	روزی	_	NOUN	N_SING	Number=Sing	6	nsubj	_	_
+6	نمی‌گذرد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	1	ccomp	_	_
+7	مگر	_	ADV	ADV_I	PronType=Int	16	mark	_	_
+8	آن	_	PRON	PRO	Number=Sing|PronType=Dem	7	mwe	_	_
+9	که	_	CONJ	CON	_	8	mwe	_	_
+10	علی	_	NOUN	N_SING	Number=Sing	16	dobj	_	_
+11	)	_	PUNCT	DELM	_	10	punct	_	_
+12	ع	_	NOUN	N_SING	Number=Sing	10	dep	_	_
+13	(	_	PUNCT	DELM	_	10	punct	_	_
+14	را	_	PART	CLITIC	_	10	case	_	_
+15	یاد	_	NOUN	N_SING	Number=Sing	16	compound:lvc	_	_
+16	می‌کنم	_	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	6	advcl	_	_
+17	.	_	PUNCT	DELM	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 advcl	color:blue
+1	مدینه	_	NOUN	N_SING	Number=Sing	7	dobj	_	_
+2	را	_	PART	CLITIC	_	1	case	_	_
+3	در	_	ADP	P	_	4	case	_	_
+4	آخر	_	ADJ	ADJ	Degree=Pos	7	advcl	_	_
+5	کار	_	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
+6	قرار	_	NOUN	N_SING	Number=Sing	7	compound:lvc	_	_
+7	دادم	_	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	_
+8	.	_	PUNCT	DELM	_	7	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advcl	color:blue
+1	بایستی	_	AUX	V_AUX	VerbForm=Inf	5	aux	_	_
+2	گامی	_	NOUN	N_SING	Number=Sing	5	dobj	_	_
+3	به	_	ADP	P	_	4	case	_	_
+4	پیش	_	ADV	ADV_LOC	Case=Loc	5	advcl	_	_
+5	نهاد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	_
+6	.	_	PUNCT	DELM	_	5	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

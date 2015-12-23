@@ -59,6 +59,86 @@ for <code>remnant</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udromanian">Treebank Statistics (UD_Romanian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>46 nodes (0%) are attached to their parents as <code>remnant</code>.</p>
+
+<p>44 instances of <code>remnant</code> (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.28260869565217.</p>
+
+<p>The following 17 pairs of parts of speech are connected with <code>remnant</code>: <a href="">ro-pos/NOUN</a>-<a href="">ro-pos/NOUN</a> (16; 35% instances), <a href="">ro-pos/PROPN</a>-<a href="">ro-pos/PROPN</a> (4; 9% instances), <a href="">ro-pos/PRON</a>-<a href="">ro-pos/NOUN</a> (3; 7% instances), <a href="">ro-pos/PRON</a>-<a href="">ro-pos/PRON</a> (3; 7% instances), <a href="">ro-pos/VERB</a>-<a href="">ro-pos/VERB</a> (3; 7% instances), <a href="">ro-pos/ADJ</a>-<a href="">ro-pos/ADJ</a> (2; 4% instances), <a href="">ro-pos/ADJ</a>-<a href="">ro-pos/VERB</a> (2; 4% instances), <a href="">ro-pos/NOUN</a>-<a href="">ro-pos/PRON</a> (2; 4% instances), <a href="">ro-pos/NOUN</a>-<a href="">ro-pos/PROPN</a> (2; 4% instances), <a href="">ro-pos/NUM</a>-<a href="">ro-pos/NUM</a> (2; 4% instances), <a href="">ro-pos/ADV</a>-<a href="">ro-pos/ADV</a> (1; 2% instances), <a href="">ro-pos/AUX</a>-<a href="">ro-pos/PUNCT</a> (1; 2% instances), <a href="">ro-pos/NOUN</a>-<a href="">ro-pos/DET</a> (1; 2% instances), <a href="">ro-pos/PROPN</a>-<a href="">ro-pos/NOUN</a> (1; 2% instances), <a href="">ro-pos/PUNCT</a>-<a href="">ro-pos/CONJ</a> (1; 2% instances), <a href="">ro-pos/VERB</a>-<a href="">ro-pos/ADV</a> (1; 2% instances), <a href="">ro-pos/VERB</a>-<a href="">ro-pos/PART</a> (1; 2% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 11 remnant	color:blue
+1	Cine	cine	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	2	nsubj	_	_
+2	poate	putea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	_
+3	,	,	PUNCT	COMMA	_	2	punct	_	_
+4	oase	os	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	5	dobj	_	_
+5	roade	roade	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	,	,	PUNCT	COMMA	_	5	punct	_	_
+7	cine	cine	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	1	remnant	_	_
+8	nu	nu	PART	Qz	Negative=Neg	2	remnant	_	_
+9	,	,	PUNCT	COMMA	_	5	punct	_	_
+10	nici	nici	ADV	Rz	PronType=Neg	11	advmod	_	_
+11	carne	carne	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	remnant	_	_
+12	moale	moale	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+13	.	.	PUNCT	PERIOD	_	5	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 remnant	color:blue
+1	Cranston	Cranston	PROPN	Np	_	2	nsubj	_	_
+2	poartă	purta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	costum	costum	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+5	dungi	dungă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	nmod	_	_
+6	,	,	PUNCT	COMMA	_	2	punct	_	_
+7	Crombie	Crombie	PROPN	Np	_	1	remnant	_	_
+8	pardesiu	pardesiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	remnant	_	_
+9	și	și	CONJ	Crssp	Negative=Pos	8	cc	_	_
+10	pantofi	pantof	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	conj	_	_
+11	negri	negru	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+12	strălucitori	strălucitor	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+13	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 remnant	color:blue
+1	Cranston	Cranston	PROPN	Np	_	2	nsubj	_	_
+2	poartă	purta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	costum	costum	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+5	dungi	dungă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	nmod:pmod	_	_
+6	,	,	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	remnant	_	_
+7	Crombie	Crombie	PROPN	Np	_	6	nsubj	_	_
+8	pardesiu	pardesiu	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	dobj	_	_
+9	și	și	CONJ	Crssp	Negative=Pos	8	cc	_	_
+10	pantofi	pantof	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	conj	_	_
+11	negri	negru	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+12	strălucitori	strălucitor	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
+13	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

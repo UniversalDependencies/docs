@@ -49,6 +49,70 @@ for <code>punct</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udslovenian">Treebank Statistics (UD_Slovenian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>18552 nodes (13%) are attached to their parents as <code>punct</code>.</p>
+
+<p>11775 instances of <code>punct</code> (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.26088831392842.</p>
+
+<p>The following 13 pairs of parts of speech are connected with <code>punct</code>: <a href="">sl-pos/VERB</a>-<a href="">sl-pos/PUNCT</a> (12888; 69% instances), <a href="">sl-pos/ADJ</a>-<a href="">sl-pos/PUNCT</a> (2354; 13% instances), <a href="">sl-pos/NOUN</a>-<a href="">sl-pos/PUNCT</a> (2347; 13% instances), <a href="">sl-pos/PROPN</a>-<a href="">sl-pos/PUNCT</a> (381; 2% instances), <a href="">sl-pos/NUM</a>-<a href="">sl-pos/PUNCT</a> (178; 1% instances), <a href="">sl-pos/ADV</a>-<a href="">sl-pos/PUNCT</a> (120; 1% instances), <a href="">sl-pos/X</a>-<a href="">sl-pos/PUNCT</a> (114; 1% instances), <a href="">sl-pos/PART</a>-<a href="">sl-pos/PUNCT</a> (71; 0% instances), <a href="">sl-pos/PRON</a>-<a href="">sl-pos/PUNCT</a> (68; 0% instances), <a href="">sl-pos/INTJ</a>-<a href="">sl-pos/PUNCT</a> (20; 0% instances), <a href="">sl-pos/CONJ</a>-<a href="">sl-pos/PUNCT</a> (7; 0% instances), <a href="">sl-pos/ADP</a>-<a href="">sl-pos/PUNCT</a> (3; 0% instances), <a href="">sl-pos/PUNCT</a>-<a href="">sl-pos/PUNCT</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 punct	color:blue
+1	Srebrni	srebrn	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
+2	častni	časten	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
+3	znak	znak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	Dep=5|Rel=Obj
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Dep=5|Rel=PPart
+5	prejela	prejeti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
+6	tudi	tudi	PART	Q	_	5	advmod	_	Dep=0|Rel=Root
+7	Pia	Pia	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Dep=5|Rel=Sb
+8	Mlakar	Mlakar	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	name	_	SpaceAfter=No|Dep=7|Rel=Atr
+9	.	.	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 punct	color:blue
+1	Joj	joj	INTJ	I	_	5	discourse	_	SpaceAfter=No|Dep=0|Rel=Root
+2	,	,	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
+3	kako	kako	ADV	Rgp	Degree=Pos	5	advmod	_	Dep=4|Rel=Conj
+4	sem	biti	VERB	Va-r1s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	Dep=0|Rel=Root
+5	raztresen	raztresen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=4|Rel=Atr
+6	!	!	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 punct	color:blue
+1	Toda	toda	CONJ	Cc	_	4	cc	_	Dep=3|Rel=Conj
+2	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	Dep=3|Rel=Sb
+3	je	biti	VERB	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Dep=0|Rel=Root
+4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|Dep=3|Rel=Atr
+5	"	"	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No|Dep=4|Rel=Atr
+7	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+8	?	?	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

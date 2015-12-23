@@ -49,6 +49,67 @@ for <code>parataxis</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udpersian">Treebank Statistics (UD_Persian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>206 nodes (0%) are attached to their parents as <code>parataxis</code>.</p>
+
+<p>191 instances of <code>parataxis</code> (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.09223300970874.</p>
+
+<p>The following 15 pairs of parts of speech are connected with <code>parataxis</code>: <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/NOUN</a> (89; 43% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/VERB</a> (53; 26% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/NOUN</a> (15; 7% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADV</a> (11; 5% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/ADJ</a> (10; 5% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/INTJ</a> (9; 4% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/VERB</a> (6; 3% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/VERB</a> (3; 1% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/CONJ</a> (3; 1% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/INTJ</a> (2; 1% instances), <a href="">fa-pos/ADJ</a>-<a href="">fa-pos/NOUN</a> (1; 0% instances), <a href="">fa-pos/ADV</a>-<a href="">fa-pos/INTJ</a> (1; 0% instances), <a href="">fa-pos/INTJ</a>-<a href="">fa-pos/NOUN</a> (1; 0% instances), <a href="">fa-pos/NOUN</a>-<a href="">fa-pos/DET</a> (1; 0% instances), <a href="">fa-pos/VERB</a>-<a href="">fa-pos/PRON</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 parataxis	color:blue
+1	لندن	_	NOUN	N_SING	Number=Sing	0	root	_	_
+2	-	_	PUNCT	DELM	_	1	punct	_	_
+3	ایرنا	_	NOUN	N_SING	Number=Sing	1	parataxis	_	_
+4	:	_	PUNCT	DELM	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 parataxis	color:blue
+1	مادر	_	NOUN	N_SING	Number=Sing	0	root	_	_
+2	:	_	PUNCT	DELM	_	1	punct	_	_
+3	احمد	_	NOUN	N_SING	Number=Sing	1	vocative	_	_
+4	پا	_	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
+5	شو	_	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
+6	،	_	PUNCT	DELM	_	1	punct	_	_
+7	مدرسه	_	NOUN	N_SING	Number=Sing	9	nsubj	_	_
+8	ات	_	PRON	PRO	Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	_
+9	دیر	_	ADV	ADV	_	1	parataxis	_	_
+10	شد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	9	cop	_	_
+11	.	_	PUNCT	DELM	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 parataxis	color:blue
+1	مادر	_	NOUN	N_SING	Number=Sing	4	parataxis	_	_
+2	!	_	PUNCT	DELM	_	4	punct	_	_
+3	پا	_	NOUN	N_SING	Number=Sing	4	compound:lvc	_	_
+4	شو	_	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+5	!	_	PUNCT	DELM	_	4	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

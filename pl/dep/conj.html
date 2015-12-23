@@ -49,6 +49,73 @@ for <code>conj</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udpolish">Treebank Statistics (UD_Polish)</h2>
+
+<p>This relation is universal.</p>
+
+<p>2681 nodes (3%) are attached to their parents as <code>conj</code>.</p>
+
+<p>2681 instances of <code>conj</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.00074599030213.</p>
+
+<p>The following 27 pairs of parts of speech are connected with <code>conj</code>: <a href="">pl-pos/VERB</a>-<a href="">pl-pos/VERB</a> (1297; 48% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/NOUN</a> (917; 34% instances), <a href="">pl-pos/ADJ</a>-<a href="">pl-pos/ADJ</a> (187; 7% instances), <a href="">pl-pos/ADJ</a>-<a href="">pl-pos/VERB</a> (79; 3% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/NOUN</a> (48; 2% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/VERB</a> (45; 2% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/ADJ</a> (45; 2% instances), <a href="">pl-pos/NUM</a>-<a href="">pl-pos/NUM</a> (18; 1% instances), <a href="">pl-pos/NUM</a>-<a href="">pl-pos/NOUN</a> (7; 0% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/AUX</a> (6; 0% instances), <a href="">pl-pos/PRON</a>-<a href="">pl-pos/NOUN</a> (5; 0% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/NUM</a> (4; 0% instances), <a href="">pl-pos/ADJ</a>-<a href="">pl-pos/NOUN</a> (3; 0% instances), <a href="">pl-pos/X</a>-<a href="">pl-pos/X</a> (3; 0% instances), <a href="">pl-pos/AUX</a>-<a href="">pl-pos/VERB</a> (2; 0% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/ADJ</a> (2; 0% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/PRON</a> (2; 0% instances), <a href="">pl-pos/PRON</a>-<a href="">pl-pos/PRON</a> (2; 0% instances), <a href="">pl-pos/ADJ</a>-<a href="">pl-pos/AUX</a> (1; 0% instances), <a href="">pl-pos/ADJ</a>-<a href="">pl-pos/SCONJ</a> (1; 0% instances), <a href="">pl-pos/ADV</a>-<a href="">pl-pos/VERB</a> (1; 0% instances), <a href="">pl-pos/NOUN</a>-<a href="">pl-pos/ADV</a> (1; 0% instances), <a href="">pl-pos/PART</a>-<a href="">pl-pos/VERB</a> (1; 0% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/ADV</a> (1; 0% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/NUM</a> (1; 0% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/SCONJ</a> (1; 0% instances), <a href="">pl-pos/VERB</a>-<a href="">pl-pos/X</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 conj	color:blue
+1	Nie	nie	PART	qub:_	_	2	neg	_	_
+2	wiem	wiedzieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	interp:_	_	2	punct	_	_
+4	naprawdę	naprawdę	ADV	adv:pos	Degree=Pos	6	advmod	_	_
+5	nie	nie	PART	qub:_	_	6	neg	_	_
+6	wiem	wiedzieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+7	,	,	PUNCT	interp:_	_	10	punct	_	_
+8	jak	jak	ADV	adv:_	_	10	advmod	_	_
+9	się	się	PRON	qub:_	PronType=Prs|Reflex=Yes	10	expl	_	_
+10	zachowają	zachować	VERB	fin:pl:ter:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+11	.	.	PUNCT	interp:_	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 conj	color:blue
+1	Wyczuwało	wyczuwać	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+2	się	się	PRON	qub:_	PronType=Prs|Reflex=Yes	1	expl	_	_
+3	napięcie	napięcie	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	_
+4	,	,	PUNCT	interp:_	_	3	punct	_	_
+5	oczekiwanie	oczekiwanie	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	_
+6	.	.	PUNCT	interp:_	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 conj	color:blue
+1	-	-	PUNCT	interp:_	_	3	punct	_	_
+2	Jakub	Jakub	NOUN	subst:sg:nom:m1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	starał	starać	VERB	praet:sg:m1:imperf	Animacy=Anim|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+4	się	się	PRON	qub:_	PronType=Prs|Reflex=Yes	3	expl	_	_
+5	być	być	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf	6	cop	_	_
+6	spokojny	spokojny	ADJ	adj:sg:nom:m1:pos	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	_
+7	i	i	CONJ	conj:_	_	6	cc	_	_
+8	uprzejmy	uprzejmy	ADJ	adj:sg:nom:m1:pos	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+9	.	.	PUNCT	interp:_	_	3	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
