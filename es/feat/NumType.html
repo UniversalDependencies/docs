@@ -48,6 +48,93 @@ for <code>NumType</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udspanish">Treebank Statistics (UD_Spanish)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Card</code>, <code>Ord</code>.</p>
+
+<p>12905 tokens (3%) have a non-empty value of <code>NumType</code>.
+2494 types (5%) occur at least once with a non-empty value of <code>NumType</code>.
+2328 lemmas (6%) occur at least once with a non-empty value of <code>NumType</code>.
+The feature is used with 4 part-of-speech tags: <a href="">es-pos/NUM</a> (11017; 3% instances), <a href="">es-pos/ADJ</a> (941; 0% instances), <a href="">es-pos/PRON</a> (539; 0% instances), <a href="">es-pos/DET</a> (408; 0% instances).</p>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>11017 <a href="">es-pos/NUM</a> tokens (100% of all <code>NUM</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>NumType</code> co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (9390; 85%).</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (11017; 100% of non-empty <code>NumType</code>): <em>dos, 2010, 0, 3, 1, 2, 10, 4, tres, 5</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>NUM</code>. 100% lemmas (2276) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>941 <a href="">es-pos/ADJ</a> tokens (4% of all <code>ADJ</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>NumType</code> co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (833; 89%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Ord</code> (941; 100% of non-empty <code>NumType</code>): <em>primer, primera, segunda, segundo, primeros, primeras, tercera, tercer, cuarto, cuarta</em></li>
+  <li><code>EMPTY</code> (23954): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 100% lemmas (35) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>539 <a href="">es-pos/PRON</a> tokens (4% of all <code>PRON</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>NumType</code> co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (539; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (539; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (539; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (539; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (358; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (352; 65%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (318; 59%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (539; 100% of non-empty <code>NumType</code>): <em>tanto, poco, mucho, muchos, ambos, bastante, muchas, demasiado, ambas, pocos</em></li>
+  <li><code>EMPTY</code> (13485): <em>se, lo, que, le, la, me, uno, cual, los, nos</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>PRON</code>. 100% lemmas (13) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>408 <a href="">es-pos/DET</a> tokens (1% of all <code>DET</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>NumType</code> co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (408; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (314; 77%), <tt><a href="Number.html">Number</a>=Plur</tt> (294; 72%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (209; 51%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (408; 100% of non-empty <code>NumType</code>): <em>muchos, muchas, ambos, mucha, pocos, poco, ambas, mucho, poca, tanto</em></li>
+  <li><code>EMPTY</code> (60464): <em>el, la, los, un, las, una, su, sus, este, esta</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>DET</code>. 100% lemmas (14) occur only with one value of <code>NumType</code>.</p>
+
+<h2 id="relations-with-agreement-in-numtype">Relations with Agreement in <code>NumType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>NumType</code>:
+<tt>NUM –[<a href="../dep/conj.html">conj</a>]–&gt; NUM</tt> (354; 100%),
+<tt>NUM –[<a href="../dep/nummod.html">nummod</a>]–&gt; NUM</tt> (113; 100%),
+<tt>NUM –[<a href="../dep/nmod.html">nmod</a>]–&gt; NUM</tt> (102; 100%),
+<tt>NUM –[<a href="../dep/dep.html">dep</a>]–&gt; NUM</tt> (49; 100%),
+<tt>NUM –[<a href="../dep/appos.html">appos</a>]–&gt; NUM</tt> (16; 100%),
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (7; 64%),
+<tt>NUM –[<a href="../dep/compound.html">compound</a>]–&gt; NUM</tt> (1; 100%),
+<tt>NUM –[<a href="../dep/cc.html">cc</a>]–&gt; NUM</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

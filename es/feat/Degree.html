@@ -48,6 +48,83 @@ for <code>Degree</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udspanish">Treebank Statistics (UD_Spanish)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Abs</code>, <code>Cmp</code>, <code>Sup</code>.</p>
+
+<p>2173 tokens (1%) have a non-empty value of <code>Degree</code>.
+60 types (0%) occur at least once with a non-empty value of <code>Degree</code>.
+40 lemmas (0%) occur at least once with a non-empty value of <code>Degree</code>.
+The feature is used with 4 part-of-speech tags: <a href="">es-pos/ADV</a> (1568; 0% instances), <a href="">es-pos/ADJ</a> (591; 0% instances), <a href="">es-pos/PRON</a> (11; 0% instances), <a href="">es-pos/DET</a> (3; 0% instances).</p>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>1568 <a href="">es-pos/ADV</a> tokens (13% of all <code>ADV</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (1568; 100% of non-empty <code>Degree</code>): <em>más, menos</em></li>
+  <li><code>EMPTY</code> (10955): <em>no, también, muy, donde, ya, además, así, después, sólo, bien</em></li>
+</ul>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>591 <a href="">es-pos/ADJ</a> tokens (2% of all <code>ADJ</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Degree</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (484; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (446; 75%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Abs</code> (31; 5% of non-empty <code>Degree</code>): <em>Santísima, buenísimas, aceleradísimo, altísima, altísimo, bellísima, buenísima, buenísimo, completísima, contentísima</em></li>
+  <li><code>Cmp</code> (481; 81% of non-empty <code>Degree</code>): <em>mayor, mejor, mejores, menor, mayores, menores, peor, peores</em></li>
+  <li><code>Sup</code> (79; 13% of non-empty <code>Degree</code>): <em>máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima</em></li>
+  <li><code>EMPTY</code> (24304): <em>gran, primera, primer, mismo, nuevo, estadounidense, total, nacional, grandes, nueva</em></li>
+</ul>
+
+<p><code>Degree</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 100% lemmas (34) occur only with one value of <code>Degree</code>.</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>11 <a href="">es-pos/PRON</a> tokens (0% of all <code>PRON</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Degree</code> co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (11; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (11; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10; 91%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 91%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Abs</code> (8; 73% of non-empty <code>Degree</code>): <em>muchísimo, muchisimo, muchisimio</em></li>
+  <li><code>Cmp</code> (3; 27% of non-empty <code>Degree</code>): <em>menos, más</em></li>
+  <li><code>EMPTY</code> (14013): <em>se, lo, que, le, la, me, uno, cual, los, nos</em></li>
+</ul>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>3 <a href="">es-pos/DET</a> tokens (0% of all <code>DET</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Degree</code> co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Abs</code> (3; 100% of non-empty <code>Degree</code>): <em>muchísimas, muchisimas</em></li>
+  <li><code>EMPTY</code> (60869): <em>el, la, los, un, las, una, su, sus, este, esta</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-degree">Relations with Agreement in <code>Degree</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Degree</code>:
+<tt>ADV –[<a href="../dep/conj.html">conj</a>]–&gt; ADV</tt> (17; 94%),
+<tt>ADV –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; PRON</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
