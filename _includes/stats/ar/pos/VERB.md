@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `VERB` is: 15 in number of lemmas, 4 in num
 
 The 10 most frequent `VERB` lemmas: _
 
-The 10 most frequent `VERB` types:  قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ
+The 10 most frequent `VERB` types:  قَالَ، كَانَ، كَانَت، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، يَتِمُّ، يُمكِنُ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -59,7 +59,7 @@ The 1st highest number of forms (4884) was observed with the lemma “_”: آل
 
 `VERB` occurs with 61 feature combinations.
 The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act` (6729 tokens).
-Examples: قَالَ, كَانَ, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, جَاءَ, لَيسَ
+Examples: قَالَ، كَانَ، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، أَوضَحَ، جَاءَ، لَيسَ
 
 
 ## Relations

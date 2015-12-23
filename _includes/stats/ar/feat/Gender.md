@@ -20,8 +20,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (14182; 49% of non-empty `Gender`): اَلمِصرِيَّةِ, اَلمُتَّحِدَةِ, أُخرَى, اَلعَرَبِيَّةِ, اَلأَمرِيكِيَّةِ, اَلفِلَسطِينِيَّةِ, جَدِيدَةٍ, اَلدُّوَلِيَّةِ, اَلأُولَى, اَلإِسرَائِيلِيَّةِ
-* `Masc` (15039; 51% of non-empty `Gender`): اَلمِصرِيِّ, اَلمَاضِي, أَيِّ, اَلحَالِيِّ, أَكثَرَ, حَالِيًّا, اَلأَوسَطِ, اَلأَوَّلِ, اَلمَركَزِيِّ, اَلوَطَنِيِّ
+* `Fem` (14182; 49% of non-empty `Gender`): اَلمِصرِيَّةِ، اَلمُتَّحِدَةِ، أُخرَى، اَلعَرَبِيَّةِ، اَلأَمرِيكِيَّةِ، اَلفِلَسطِينِيَّةِ، جَدِيدَةٍ، اَلدُّوَلِيَّةِ، اَلأُولَى، اَلإِسرَائِيلِيَّةِ
+* `Masc` (15039; 51% of non-empty `Gender`): اَلمِصرِيِّ، اَلمَاضِي، أَيِّ، اَلحَالِيِّ، أَكثَرَ، حَالِيًّا، اَلأَوسَطِ، اَلأَوَّلِ، اَلمَركَزِيِّ، اَلوَطَنِيِّ
 
 ### `VERB`
 
@@ -31,8 +31,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (7977; 37% of non-empty `Gender`): كَانَت, قَالَت, ذَكَرَت, أَعلَنَت, تَكُونُ, بَلَغَت, بَدَأَت, تَكُونَ, أَكَّدَت, أَشَارَت
-* `Masc` (13565; 63% of non-empty `Gender`): قَالَ, كَانَ, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ, أَوضَحَ
+* `Fem` (7977; 37% of non-empty `Gender`): كَانَت، قَالَت، ذَكَرَت، أَعلَنَت، تَكُونُ، بَلَغَت، بَدَأَت، تَكُونَ، أَكَّدَت، أَشَارَت
+* `Masc` (13565; 63% of non-empty `Gender`): قَالَ، كَانَ، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، يَتِمُّ، يُمكِنُ، أَوضَحَ
 
 ### `PRON`
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (5693; 44% of non-empty `Gender`): هَا, اَلَّتِي, هِيَ, هٰذِهِ, هُمَا, هِنَّ, هُنَّ, تِلكَ, هِمَا, اَللَّتَينِ
-* `Masc` (7258; 56% of non-empty `Gender`): هُ, هِ, اَلَّذِي, هُم, هِم, هُوَ, ذٰلِكَ, اَلَّذِينَ, كَ, نَا
-* `EMPTY` (916): مَا, مَن, كَيفَ, أَينَ, كَم, مَاذَا, مَتَى, لِمَاذَا, هٰكَذَا
+* `Fem` (5693; 44% of non-empty `Gender`): هَا، اَلَّتِي، هِيَ، هٰذِهِ، هُمَا، هِنَّ، هُنَّ، تِلكَ، هِمَا، اَللَّتَينِ
+* `Masc` (7258; 56% of non-empty `Gender`): هُ، هِ، اَلَّذِي، هُم، هِم، هُوَ، ذٰلِكَ، اَلَّذِينَ، كَ، نَا
+* `EMPTY` (916): مَا، مَن، كَيفَ، أَينَ، كَم، مَاذَا، مَتَى، لِمَاذَا، هٰكَذَا
 
 ### `DET`
 
@@ -54,9 +54,9 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (829; 52% of non-empty `Gender`): هٰذِهِ, تِلكَ, هَاتَينِ, هَاتَانِ
-* `Masc` (773; 48% of non-empty `Gender`): هٰذَا, ذٰلِكَ, هٰؤُلَاءِ, هٰذَينِ, اَلَّذِينَ, أُولٰئِكَ, ذَا, ذِي, كِلَا, هٰذَانِ
-* `EMPTY` (291): مَا, مَن, كَيفَ, لِمَاذَا, مَاذَا
+* `Fem` (829; 52% of non-empty `Gender`): هٰذِهِ، تِلكَ، هَاتَينِ، هَاتَانِ
+* `Masc` (773; 48% of non-empty `Gender`): هٰذَا، ذٰلِكَ، هٰؤُلَاءِ، هٰذَينِ، اَلَّذِينَ، أُولٰئِكَ، ذَا، ذِي، كِلَا، هٰذَانِ
+* `EMPTY` (291): مَا، مَن، كَيفَ، لِمَاذَا، مَاذَا
 
 ### `NUM`
 
@@ -66,9 +66,9 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (210; 30% of non-empty `Gender`): ثَلَاثِ, اَلثَّلَاثِ, عَشرِ, خَمسِ, عَشرَةَ, أَربَعِ, ثَلَاثَ, عَشرَ, اَلثَّمَانِي, اَلخَمسِ
-* `Masc` (490; 70% of non-empty `Gender`): ثَلَاثَةِ, اَلثَّلَاثَةِ, اِثنَينِ, أَربَعَةِ, سِتَّةِ, ثَلَاثَةَ, عَشَرَةِ, عَشَرَ, اَلأَربَعَةِ, أَربَعَةَ
-* `EMPTY` (7056): مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤
+* `Fem` (210; 30% of non-empty `Gender`): ثَلَاثِ، اَلثَّلَاثِ، عَشرِ، خَمسِ، عَشرَةَ، أَربَعِ، ثَلَاثَ، عَشرَ، اَلثَّمَانِي، اَلخَمسِ
+* `Masc` (490; 70% of non-empty `Gender`): ثَلَاثَةِ، اَلثَّلَاثَةِ، اِثنَينِ، أَربَعَةِ، سِتَّةِ، ثَلَاثَةَ، عَشَرَةِ، عَشَرَ، اَلأَربَعَةِ، أَربَعَةَ
+* `EMPTY` (7056): مِليُونَ، ١٥، ٣، ٦، ٢، ٨، ٧، مِليُونِ، أَلفَ، ٤
 
 ### `AUX`
 
@@ -78,8 +78,8 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (4; 10% of non-empty `Gender`): لَيسَت, تَعُد
-* `Masc` (36; 90% of non-empty `Gender`): لَيسَ, أَلَا
+* `Fem` (4; 10% of non-empty `Gender`): لَيسَت، تَعُد
+* `Masc` (36; 90% of non-empty `Gender`): لَيسَ، أَلَا
 
 ## Relations with Agreement in `Gender`
 

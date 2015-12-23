@@ -20,8 +20,8 @@ The most frequent other feature values with which `NOUN` and `Negative` co-occur
 
 `NOUN` tokens may have the following values of `Negative`:
 
-* `Neg` (19; 100% of non-empty `Negative`): بُدَّ, أَمَلَ, أَهَمِّيَّةِ, أَيَادِيَ, بَدِيلَ, تَعَازِي, جَدوَى, حَلَاوَةُ, خِلَافَ, خِيَارَاتِ
-* `EMPTY` (92032): مِصرَ, دُولَارٍ, اَلعِرَاقِ, اَليَومَ, جُنَيهٍ, مَجلِسِ, رَئِيسُ, اَلحُكُومَةِ, اَلدُّوَلِ, إِسرَائِيلَ
+* `Neg` (19; 100% of non-empty `Negative`): بُدَّ، أَمَلَ، أَهَمِّيَّةِ، أَيَادِيَ، بَدِيلَ، تَعَازِي، جَدوَى، حَلَاوَةُ، خِلَافَ، خِيَارَاتِ
+* `EMPTY` (92032): مِصرَ، دُولَارٍ، اَلعِرَاقِ، اَليَومَ، جُنَيهٍ، مَجلِسِ، رَئِيسُ، اَلحُكُومَةِ، اَلدُّوَلِ، إِسرَائِيلَ
 
 ### `ADJ`
 
@@ -31,8 +31,8 @@ The most frequent other feature values with which `ADJ` and `Negative` co-occurr
 
 `ADJ` tokens may have the following values of `Negative`:
 
-* `Neg` (5; 100% of non-empty `Negative`): أَفرِيقِيَّ, أَفرِيقِيُّ, أَوسَطِيِّ, عَامِّ, كَبِيرَةَ
-* `EMPTY` (29216): اَلمِصرِيَّةِ, اَلمُتَّحِدَةِ, اَلمِصرِيِّ, أُخرَى, اَلمَاضِي, اَلعَرَبِيَّةِ, أَيِّ, اَلحَالِيِّ, أَكثَرَ, اَلأَمرِيكِيَّةِ
+* `Neg` (5; 100% of non-empty `Negative`): أَفرِيقِيَّ، أَفرِيقِيُّ، أَوسَطِيِّ، عَامِّ، كَبِيرَةَ
+* `EMPTY` (29216): اَلمِصرِيَّةِ، اَلمُتَّحِدَةِ، اَلمِصرِيِّ، أُخرَى، اَلمَاضِي، اَلعَرَبِيَّةِ، أَيِّ، اَلحَالِيِّ، أَكثَرَ، اَلأَمرِيكِيَّةِ
 
 ### `NUM`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `NUM` and `Negative` co-occurr
 `NUM` tokens may have the following values of `Negative`:
 
 * `Neg` (1; 100% of non-empty `Negative`): مِليُونَ
-* `EMPTY` (7755): مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤
+* `EMPTY` (7755): مِليُونَ، ١٥، ٣، ٦، ٢، ٨، ٧، مِليُونِ، أَلفَ، ٤
 

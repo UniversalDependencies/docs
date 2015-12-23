@@ -20,9 +20,9 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (20271; 94% of non-empty `Voice`): قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ
-* `Pass` (1219; 6% of non-empty `Voice`): يُذكَرُ, يُوجَدُ, يُتَوَقَّعُ, قُتِلَ, أُصِيبَ, تُعَدُّ, تُعتَبَرُ, يُعَدُّ, يُعتَبَرُ, تُوجَدُ
-* `EMPTY` (52): حَاوِل, دِ, دَعُوا, أَرخِص, اُخدُمُوا, اُكسُونَ, اِبحَث, اِحرَص, اِفتَحُوا, اِنتَبِه
+* `Act` (20271; 94% of non-empty `Voice`): قَالَ، كَانَ، كَانَت، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، يَتِمُّ، يُمكِنُ
+* `Pass` (1219; 6% of non-empty `Voice`): يُذكَرُ، يُوجَدُ، يُتَوَقَّعُ، قُتِلَ، أُصِيبَ، تُعَدُّ، تُعتَبَرُ، يُعَدُّ، يُعتَبَرُ، تُوجَدُ
+* `EMPTY` (52): حَاوِل، دِ، دَعُوا، أَرخِص، اُخدُمُوا، اُكسُونَ، اِبحَث، اِحرَص، اِفتَحُوا، اِنتَبِه
 
 ### `AUX`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (40; 100% of non-empty `Voice`): لَيسَ, لَيسَت, أَلَا, تَعُد
+* `Act` (40; 100% of non-empty `Voice`): لَيسَ، لَيسَت، أَلَا، تَعُد
 
 ## Relations with Agreement in `Voice`
 

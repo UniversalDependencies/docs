@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `PROPN` is: 12 in number of lemmas, 9 in nu
 
 The 10 most frequent `PROPN` lemmas: _
 
-The 10 most frequent `PROPN` types:  بِن, عَبداَللّٰه, عَبداَلعَزِيز, طٰهٰ, بُورسَعِيد, عَبداَلمُنعِم, أَبُوظَبِي, أَبُورُدَينَة, أُمّ, عَبداَلحَلِيم
+The 10 most frequent `PROPN` types:  بِن، عَبداَللّٰه، عَبداَلعَزِيز، طٰهٰ، بُورسَعِيد، عَبداَلمُنعِم، أَبُوظَبِي، أَبُورُدَينَة، أُمّ، عَبداَلحَلِيم
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

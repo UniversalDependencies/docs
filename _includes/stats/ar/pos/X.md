@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 2 in number
 
 The 10 most frequent `X` lemmas: _
 
-The 10 most frequent `X` types:  ب, محمد, اف, وَاشِنطُن, عبد, وذلك, مبارك, سُورِيَا, أَفرِيقِيَا, شَارُون
+The 10 most frequent `X` types:  ب، محمد، اف، وَاشِنطُن، عبد، وذلك، مبارك، سُورِيَا، أَفرِيقِيَا، شَارُون
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -44,7 +44,7 @@ The 1st highest number of forms (7839) was observed with the lemma “_”: A, A
 
 `X` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (16702 tokens).
-Examples: محمد, اف, عبد, وذلك, مبارك, الله, ذلك, علي, عرفات, الذي
+Examples: محمد، اف، عبد، وذلك، مبارك، الله، ذلك، علي، عرفات، الذي
 
 
 ## Relations

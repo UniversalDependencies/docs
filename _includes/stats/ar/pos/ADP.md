@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `ADP` is: 2 in number of lemmas, 6 in numbe
 
 The 10 most frequent `ADP` lemmas: _
 
-The 10 most frequent `ADP` types:  فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ
+The 10 most frequent `ADP` types:  فِي، لِ، بِ، مِن، عَلَى، إِلَى، عَن، مَعَ، بَينَ، خِلَالَ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -61,7 +61,7 @@ The 1st highest number of forms (92) was observed with the lemma “_”: أَث
 
 `ADP` occurs with 4 feature combinations.
 The most frequent feature combination is `AdpType=Prep` (35908 tokens).
-Examples: فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, لَ
+Examples: فِي، لِ، بِ، مِن، عَلَى، إِلَى، عَن، مَعَ، بَينَ، لَ
 
 
 ## Relations

@@ -20,8 +20,8 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (5521; 71% of non-empty `NumForm`): ١٥, ٣, ٦, ٢, ٨, ٧, ٤, ١١, ١٠, ١٢
-* `Word` (2235; 29% of non-empty `NumForm`): مِليُونَ, مِليُونِ, أَلفَ, أَلفِ, مِليَارِ, اَلمِئَةِ, مَلَايِينِ, مِليَارَ, اَلمِائَةِ, ثَلَاثَةِ
+* `Digit` (5521; 71% of non-empty `NumForm`): ١٥، ٣، ٦، ٢، ٨، ٧، ٤، ١١، ١٠، ١٢
+* `Word` (2235; 29% of non-empty `NumForm`): مِليُونَ، مِليُونِ، أَلفَ، أَلفِ، مِليَارِ، اَلمِئَةِ، مَلَايِينِ، مِليَارَ، اَلمِائَةِ، ثَلَاثَةِ
 
 ## Relations with Agreement in `NumForm`
 

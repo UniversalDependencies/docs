@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `NOUN` is: 8 in number of lemmas, 1 in numb
 
 The 10 most frequent `NOUN` lemmas: _
 
-The 10 most frequent `NOUN` types:  مِصرَ, دُولَارٍ, اَلعِرَاقِ, اَليَومَ, جُنَيهٍ, مَجلِسِ, رَئِيسُ, اَلحُكُومَةِ, اَلدُّوَلِ, إِسرَائِيلَ
+The 10 most frequent `NOUN` types:  مِصرَ، دُولَارٍ، اَلعِرَاقِ، اَليَومَ، جُنَيهٍ، مَجلِسِ، رَئِيسُ، اَلحُكُومَةِ، اَلدُّوَلِ، إِسرَائِيلَ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -59,7 +59,7 @@ The 1st highest number of forms (15560) was observed with the lemma “_”: آ�
 
 `NOUN` occurs with 32 feature combinations.
 The most frequent feature combination is `Case=Gen|Definite=Def|Number=Sing` (21073 tokens).
-Examples: اَلعِرَاقِ, اَلحُكُومَةِ, اَلرَّئِيسِ, اَلسُّوقِ, اَلمِنطَقَةِ, اَلنَّفطِ, اَلتِّجَارَةِ, اَلأَمنِ, اَلعَامِ, اَلخَارِجِيَّةِ
+Examples: اَلعِرَاقِ، اَلحُكُومَةِ، اَلرَّئِيسِ، اَلسُّوقِ، اَلمِنطَقَةِ، اَلنَّفطِ، اَلتِّجَارَةِ، اَلأَمنِ، اَلعَامِ، اَلخَارِجِيَّةِ
 
 
 ## Relations

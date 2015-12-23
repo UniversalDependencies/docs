@@ -20,9 +20,9 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (10049; 47% of non-empty `Aspect`): يَتِمُّ, يُمكِنُ, يَكُونُ, يَكُونَ, تَكُونُ, يَجِبُ, تَكُونَ, يَعنِي, يَقُولُ, يُذكَرُ
-* `Perf` (11441; 53% of non-empty `Aspect`): قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, قَالَت
-* `EMPTY` (52): حَاوِل, دِ, دَعُوا, أَرخِص, اُخدُمُوا, اُكسُونَ, اِبحَث, اِحرَص, اِفتَحُوا, اِنتَبِه
+* `Imp` (10049; 47% of non-empty `Aspect`): يَتِمُّ، يُمكِنُ، يَكُونُ، يَكُونَ، تَكُونُ، يَجِبُ، تَكُونَ، يَعنِي، يَقُولُ، يُذكَرُ
+* `Perf` (11441; 53% of non-empty `Aspect`): قَالَ، كَانَ، كَانَت، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، أَوضَحَ، قَالَت
+* `EMPTY` (52): حَاوِل، دِ، دَعُوا، أَرخِص، اُخدُمُوا، اُكسُونَ، اِبحَث، اِحرَص، اِفتَحُوا، اِنتَبِه
 
 ### `AUX`
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 3% of non-empty `Aspect`): تَعُد
-* `Perf` (39; 98% of non-empty `Aspect`): لَيسَ, لَيسَت, أَلَا
+* `Perf` (39; 98% of non-empty `Aspect`): لَيسَ، لَيسَت، أَلَا
 
 ## Relations with Agreement in `Aspect`
 

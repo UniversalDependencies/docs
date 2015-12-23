@@ -20,7 +20,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (41879; 100% of non-empty `AdpType`): فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, لَ
+* `Prep` (41879; 100% of non-empty `AdpType`): فِي، لِ، بِ، مِن، عَلَى، إِلَى، عَن، مَعَ، بَينَ، لَ
 
 ## Relations with Agreement in `AdpType`
 

@@ -20,10 +20,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (114; 1% of non-empty `Person`): أَعتَقِدُ, نُرِيدُ, كُنتُ, نَستَورِدُ, نَقُولُ, أُؤَيِّدُ, كُنَّا, نَبدَأُ, نَزرَعَ, نَسعَى
-* `2` (117; 1% of non-empty `Person`): تُحِبُّ, تَتَجَنَّبَ, تَتَعَرَّضُ, تَجِدُ, تَحصُلُ, تَخَلَّيتُم, تُوَاجِهُ, تَدَع, تَرغَبُ, تَكُونُونَ
-* `3` (21259; 99% of non-empty `Person`): قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ
-* `EMPTY` (52): حَاوِل, دِ, دَعُوا, أَرخِص, اُخدُمُوا, اُكسُونَ, اِبحَث, اِحرَص, اِفتَحُوا, اِنتَبِه
+* `1` (114; 1% of non-empty `Person`): أَعتَقِدُ، نُرِيدُ، كُنتُ، نَستَورِدُ، نَقُولُ، أُؤَيِّدُ، كُنَّا، نَبدَأُ، نَزرَعَ، نَسعَى
+* `2` (117; 1% of non-empty `Person`): تُحِبُّ، تَتَجَنَّبَ، تَتَعَرَّضُ، تَجِدُ، تَحصُلُ، تَخَلَّيتُم، تُوَاجِهُ، تَدَع، تَرغَبُ، تَكُونُونَ
+* `3` (21259; 99% of non-empty `Person`): قَالَ، كَانَ، كَانَت، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، يَتِمُّ، يُمكِنُ
+* `EMPTY` (52): حَاوِل، دِ، دَعُوا، أَرخِص، اُخدُمُوا، اُكسُونَ، اِبحَث، اِحرَص، اِفتَحُوا، اِنتَبِه
 
 ### `PRON`
 
@@ -33,10 +33,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (122; 1% of non-empty `Person`): نَا, ِي, نَحنُ, نِي, أَنَا, يَ
-* `2` (176; 2% of non-empty `Person`): كَ, كُم, أَنتَ, أَنتُم, كِ
-* `3` (9693; 97% of non-empty `Person`): هَا, هُ, هِ, هُم, هِم, هُوَ, هِيَ, هُمَا, هِمَا, هِنَّ
-* `EMPTY` (3876): اَلَّتِي, اَلَّذِي, مَا, ذٰلِكَ, اَلَّذِينَ, مَن, هٰذَا, هٰذِهِ, كَيفَ, هٰؤُلَاءِ
+* `1` (122; 1% of non-empty `Person`): نَا، ِي، نَحنُ، نِي، أَنَا، يَ
+* `2` (176; 2% of non-empty `Person`): كَ، كُم، أَنتَ، أَنتُم، كِ
+* `3` (9693; 97% of non-empty `Person`): هَا، هُ، هِ، هُم، هِم، هُوَ، هِيَ، هُمَا، هِمَا، هِنَّ
+* `EMPTY` (3876): اَلَّتِي، اَلَّذِي، مَا، ذٰلِكَ، اَلَّذِينَ، مَن، هٰذَا، هٰذِهِ، كَيفَ، هٰؤُلَاءِ
 
 ### `AUX`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (40; 100% of non-empty `Person`): لَيسَ, لَيسَت, أَلَا, تَعُد
+* `3` (40; 100% of non-empty `Person`): لَيسَ، لَيسَت، أَلَا، تَعُد
 
 ## Relations with Agreement in `Person`
 

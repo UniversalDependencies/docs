@@ -20,8 +20,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (10101; 100% of non-empty `VerbForm`): يَتِمُّ, يُمكِنُ, يَكُونُ, يَكُونَ, تَكُونُ, يَجِبُ, تَكُونَ, يَعنِي, يَقُولُ, يُذكَرُ
-* `EMPTY` (11441): قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, قَالَت
+* `Fin` (10101; 100% of non-empty `VerbForm`): يَتِمُّ، يُمكِنُ، يَكُونُ، يَكُونَ، تَكُونُ، يَجِبُ، تَكُونَ، يَعنِي، يَقُولُ، يُذكَرُ
+* `EMPTY` (11441): قَالَ، كَانَ، كَانَت، أَكَّدَ، أَضَافَ، تَمَّ، أَعلَنَ، أَشَارَ، أَوضَحَ، قَالَت
 
 ### `AUX`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): تَعُد
-* `EMPTY` (39): لَيسَ, لَيسَت, أَلَا
+* `EMPTY` (39): لَيسَ، لَيسَت، أَلَا
 
 ## Relations with Agreement in `VerbForm`
 

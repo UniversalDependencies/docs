@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `DET` is: 6 in number of lemmas, 13 in numb
 
 The 10 most frequent `DET` lemmas: _
 
-The 10 most frequent `DET` types:  هٰذِهِ, هٰذَا, مَا, تِلكَ, ذٰلِكَ, مَن, هٰؤُلَاءِ, هٰذَينِ, اَلَّذِينَ, أُولٰئِكَ
+The 10 most frequent `DET` types:  هٰذِهِ، هٰذَا، مَا، تِلكَ، ذٰلِكَ، مَن، هٰؤُلَاءِ، هٰذَينِ، اَلَّذِينَ، أُولٰئِكَ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -61,7 +61,7 @@ The 1st highest number of forms (19) was observed with the lemma “_”: أُو
 
 `DET` occurs with 16 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|PronType=Dem` (556 tokens).
-Examples: هٰذِهِ, تِلكَ
+Examples: هٰذِهِ، تِلكَ
 
 
 ## Relations

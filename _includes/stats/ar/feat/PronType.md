@@ -20,10 +20,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (450; 3% of non-empty `PronType`): ذٰلِكَ, هٰذَا, هٰذِهِ, هٰؤُلَاءِ, تِلكَ, أُولٰئِكَ, ذِي, كِلَا, ذَاكَ, ذَا
-* `Prs` (9991; 77% of non-empty `PronType`): هَا, هُ, هِ, هُم, هِم, هُوَ, هِيَ, كَ, نَا, هُمَا
-* `Rel` (2510; 19% of non-empty `PronType`): اَلَّتِي, اَلَّذِي, اَلَّذِينَ, اَللَّذَينِ, اَللَّتَينِ, اَللَّوَاتِي, اَللَّاتِي, اَللَّتَانِ, اَللَّذَانِ
-* `EMPTY` (916): مَا, مَن, كَيفَ, أَينَ, كَم, مَاذَا, مَتَى, لِمَاذَا, هٰكَذَا
+* `Dem` (450; 3% of non-empty `PronType`): ذٰلِكَ، هٰذَا، هٰذِهِ، هٰؤُلَاءِ، تِلكَ، أُولٰئِكَ، ذِي، كِلَا، ذَاكَ، ذَا
+* `Prs` (9991; 77% of non-empty `PronType`): هَا، هُ، هِ، هُم، هِم، هُوَ، هِيَ، كَ، نَا، هُمَا
+* `Rel` (2510; 19% of non-empty `PronType`): اَلَّتِي، اَلَّذِي، اَلَّذِينَ، اَللَّذَينِ، اَللَّتَينِ، اَللَّوَاتِي، اَللَّاتِي، اَللَّتَانِ، اَللَّذَانِ
+* `EMPTY` (916): مَا، مَن، كَيفَ، أَينَ، كَم، مَاذَا، مَتَى، لِمَاذَا، هٰكَذَا
 
 ### `DET`
 
@@ -33,9 +33,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (1599; 100% of non-empty `PronType`): هٰذِهِ, هٰذَا, تِلكَ, ذٰلِكَ, هٰؤُلَاءِ, هٰذَينِ, أُولٰئِكَ, هَاتَينِ, ذَا, ذِي
+* `Dem` (1599; 100% of non-empty `PronType`): هٰذِهِ، هٰذَا، تِلكَ، ذٰلِكَ، هٰؤُلَاءِ، هٰذَينِ، أُولٰئِكَ، هَاتَينِ، ذَا، ذِي
 * `Rel` (3; 0% of non-empty `PronType`): اَلَّذِينَ
-* `EMPTY` (291): مَا, مَن, كَيفَ, لِمَاذَا, مَاذَا
+* `EMPTY` (291): مَا، مَن، كَيفَ، لِمَاذَا، مَاذَا
 
 ## Relations with Agreement in `PronType`
 

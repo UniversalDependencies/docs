@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `NUM` is: 9 in number of lemmas, 5 in numbe
 
 The 10 most frequent `NUM` lemmas: _
 
-The 10 most frequent `NUM` types:  مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤
+The 10 most frequent `NUM` types:  مِليُونَ، ١٥، ٣، ٦، ٢، ٨، ٧، مِليُونِ، أَلفَ، ٤
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -59,7 +59,7 @@ The 1st highest number of forms (1118) was observed with the lemma “_”: آل
 
 `NUM` occurs with 77 feature combinations.
 The most frequent feature combination is `NumForm=Digit` (5521 tokens).
-Examples: ١٥, ٣, ٦, ٢, ٨, ٧, ٤, ١١, ١٠, ١٢
+Examples: ١٥، ٣، ٦، ٢، ٨، ٧، ٤، ١١، ١٠، ١٢
 
 
 ## Relations

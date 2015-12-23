@@ -9,7 +9,7 @@ Out of 16 observed tags, the rank of `AUX` is: 4 in number of lemmas, 14 in numb
 
 The 10 most frequent `AUX` lemmas: _
 
-The 10 most frequent `AUX` types:  لَيسَ, لَيسَت, أَلَا, تَعُد
+The 10 most frequent `AUX` types:  لَيسَ، لَيسَت، أَلَا، تَعُد
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
@@ -38,7 +38,7 @@ The 1st highest number of forms (4) was observed with the lemma “_”: أَل�
 
 `AUX` occurs with 3 feature combinations.
 The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act` (36 tokens).
-Examples: لَيسَ, أَلَا
+Examples: لَيسَ، أَلَا
 
 
 ## Relations
