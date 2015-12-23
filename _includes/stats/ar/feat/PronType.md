@@ -20,60 +20,60 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (450; 3% of non-empty `PronType`): _ذٰلِكَ, هٰذَا, هٰذِهِ, هٰؤُلَاءِ, تِلكَ, أُولٰئِكَ, ذِي, كِلَا, ذَاكَ, ذَا_
-* `Prs` (9991; 77% of non-empty `PronType`): _هَا, هُ, هِ, هُم, هِم, هُوَ, هِيَ, كَ, نَا, هُمَا_
-* `Rel` (2510; 19% of non-empty `PronType`): _اَلَّتِي, اَلَّذِي, اَلَّذِينَ, اَللَّذَينِ, اَللَّتَينِ, اَللَّوَاتِي, اَللَّاتِي, اَللَّتَانِ, اَللَّذَانِ_
-* `EMPTY` (916): _مَا, مَن, كَيفَ, أَينَ, كَم, مَاذَا, مَتَى, لِمَاذَا, هٰكَذَا_
+* `Dem` (450; 3% of non-empty `PronType`): ذٰلِكَ, هٰذَا, هٰذِهِ, هٰؤُلَاءِ, تِلكَ, أُولٰئِكَ, ذِي, كِلَا, ذَاكَ, ذَا
+* `Prs` (9991; 77% of non-empty `PronType`): هَا, هُ, هِ, هُم, هِم, هُوَ, هِيَ, كَ, نَا, هُمَا
+* `Rel` (2510; 19% of non-empty `PronType`): اَلَّتِي, اَلَّذِي, اَلَّذِينَ, اَللَّذَينِ, اَللَّتَينِ, اَللَّوَاتِي, اَللَّاتِي, اَللَّتَانِ, اَللَّذَانِ
+* `EMPTY` (916): مَا, مَن, كَيفَ, أَينَ, كَم, مَاذَا, مَتَى, لِمَاذَا, هٰكَذَا
 
 <table>
   <tr><th>Paradigm <i>_</i></th><th><tt>Prs</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّذِي</i></td><td><i>ذٰلِكَ, هٰذَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><i>نِي</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><i>كَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هُ, هِ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّذَينِ</i></td><td><i>كِلَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>اَلَّذِينَ</i></td><td><i>هٰؤُلَاءِ, أُولٰئِكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><i>نَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><i>كُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّتِي</i></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّتَينِ</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هُنَّ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّذِي</i></td><td><i>ذٰلِكَ, هٰذَا, ذِي, ذَاكَ, ذَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><i>ِي, يَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><i>كَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هِ, هُ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّذَينِ</i></td><td><i>كِلَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا, هِمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>اَلَّذِينَ</i></td><td><i>هٰؤُلَاءِ, أُولٰئِكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><i>نَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><i>كُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هِم, هُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّتِي</i></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><i>كِ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّتَينِ</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا, هِمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>اَللَّوَاتِي, اَللَّاتِي</i></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هِنَّ, هُنَّ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّذِي</i></td><td><i>ذٰلِكَ, هٰذَا, ذُو, ذَاكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><i>أَنَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><i>أَنتَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هُوَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّذَانِ</i></td><td><i>كِلَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>اَلَّذِينَ</i></td><td><i>هٰؤُلَاءِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><i>نَحنُ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><i>أَنتُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هُم</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>اَلَّتِي</i></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><i>هِيَ</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>اَللَّتَانِ</i></td><td><i>ذَاتَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td><i>هُمَا</i></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><i>هُنَّ</i></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّذِي</td><td>ذٰلِكَ, هٰذَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>نِي</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>كَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هُ, هِ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّذَينِ</td><td>كِلَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>اَلَّذِينَ</td><td>هٰؤُلَاءِ, أُولٰئِكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>كُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّتِي</td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّتَينِ</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هُنَّ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّذِي</td><td>ذٰلِكَ, هٰذَا, ذِي, ذَاكَ, ذَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>ِي, يَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>كَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هِ, هُ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّذَينِ</td><td>كِلَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا, هِمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>اَلَّذِينَ</td><td>هٰؤُلَاءِ, أُولٰئِكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>كُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هِم, هُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّتِي</td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>كِ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّتَينِ</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا, هِمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>اَللَّوَاتِي, اَللَّاتِي</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هِنَّ, هُنَّ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّذِي</td><td>ذٰلِكَ, هٰذَا, ذُو, ذَاكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>أَنَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>أَنتَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هُوَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّذَانِ</td><td>كِلَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>اَلَّذِينَ</td><td>هٰؤُلَاءِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نَحنُ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>أَنتُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هُم</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>اَلَّتِي</td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هِيَ</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>اَللَّتَانِ</td><td>ذَاتَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هُمَا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هُنَّ</td><td></td><td></td></tr>
 </table>
 
 ### `DET`
@@ -84,26 +84,26 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (1599; 100% of non-empty `PronType`): _هٰذِهِ, هٰذَا, تِلكَ, ذٰلِكَ, هٰؤُلَاءِ, هٰذَينِ, أُولٰئِكَ, هَاتَينِ, ذَا, ذِي_
-* `Rel` (3; 0% of non-empty `PronType`): _اَلَّذِينَ_
-* `EMPTY` (291): _مَا, مَن, كَيفَ, لِمَاذَا, مَاذَا_
+* `Dem` (1599; 100% of non-empty `PronType`): هٰذِهِ, هٰذَا, تِلكَ, ذٰلِكَ, هٰؤُلَاءِ, هٰذَينِ, أُولٰئِكَ, هَاتَينِ, ذَا, ذِي
+* `Rel` (3; 0% of non-empty `PronType`): اَلَّذِينَ
+* `EMPTY` (291): مَا, مَن, كَيفَ, لِمَاذَا, مَاذَا
 
 <table>
   <tr><th>Paradigm <i>_</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذَا, ذٰلِكَ, ذَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>هٰذَينِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>هٰؤُلَاءِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذَا, ذٰلِكَ, ذِي</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>هٰذَينِ, كِلَا</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><i>اَلَّذِينَ</i></td><td><i>هٰؤُلَاءِ, أُولٰئِكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>هَاتَينِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذَا, ذٰلِكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>هٰذَانِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><i>هٰؤُلَاءِ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><i>هٰذِهِ, تِلكَ</i></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td><i>هَاتَانِ</i></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذَا, ذٰلِكَ, ذَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>هٰذَينِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>هٰؤُلَاءِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذَا, ذٰلِكَ, ذِي</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>هٰذَينِ, كِلَا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>اَلَّذِينَ</td><td>هٰؤُلَاءِ, أُولٰئِكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>هَاتَينِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذَا, ذٰلِكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>هٰذَانِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>هٰؤُلَاءِ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>هٰذِهِ, تِلكَ</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>هَاتَانِ</td></tr>
 </table>
 
 ## Relations with Agreement in `PronType`

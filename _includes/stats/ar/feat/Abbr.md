@@ -20,5 +20,5 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (501; 100% of non-empty `Abbr`): _ب, د, أَ, ف, م, ر, كلم, ت, غ, كجم_
+* `Yes` (501; 100% of non-empty `Abbr`): ب, د, أَ, ف, م, ر, كلم, ت, غ, كجم
 

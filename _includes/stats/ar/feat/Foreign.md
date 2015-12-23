@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: [ar-pos/X]() (5095; 2% instances
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Foreign` (5095; 100% of non-empty `Foreign`): _وَاشِنطُن, سُورِيَا, أَفرِيقِيَا, شَارُون, اَلسَّارس, أُوبِك, رُوسِيَا, فَرَنسَا, بَاوِل, بُوش_
+* `Foreign` (5095; 100% of non-empty `Foreign`): وَاشِنطُن, سُورِيَا, أَفرِيقِيَا, شَارُون, اَلسَّارس, أُوبِك, رُوسِيَا, فَرَنسَا, بَاوِل, بُوش
 
 ## Relations with Agreement in `Foreign`
 
