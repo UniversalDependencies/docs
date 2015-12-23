@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: ___
 
 The 10 most frequent `X` types:  _ب, محمد, اف, وَاشِنطُن, عبد, وذلك, مبارك, سُورِيَا, أَفرِيقِيَا, شَارُون_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _أَ_ ([X]() 48, [PART]() 10), _ر_ ([PUNCT]() 22, [X]() 20), _أَي_ ([CONJ]() 38, [X]() 13), _إِن_ ([CONJ]() 20, [X]() 13), _فِي_ ([ADP]() 8751, [X]() 4)
+The 10 most frequent ambiguous types:  أَ ([X]() 48, [PART]() 10), ر ([PUNCT]() 22, [X]() 20), أَي ([CONJ]() 38, [X]() 13), إِن ([CONJ]() 20, [X]() 13), فِي ([ADP]() 8751, [X]() 4)
 
 
 * _أَ_

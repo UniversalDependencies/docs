@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: ___
 
 The 10 most frequent `DET` types:  _هٰذِهِ, هٰذَا, مَا, تِلكَ, ذٰلِكَ, مَن, هٰؤُلَاءِ, هٰذَينِ, اَلَّذِينَ, أُولٰئِكَ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _هٰذِهِ_ ([DET]() 733, [PRON]() 28), _هٰذَا_ ([DET]() 661, [PRON]() 66), _مَا_ ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), _تِلكَ_ ([DET]() 93, [PRON]() 8), _ذٰلِكَ_ ([PRON]() 314, [DET]() 67), _مَن_ ([PRON]() 74, [DET]() 36), _هٰؤُلَاءِ_ ([DET]() 29, [PRON]() 16), _اَلَّذِينَ_ ([PRON]() 179, [DET]() 3), _أُولٰئِكَ_ ([PRON]() 4, [DET]() 2), _كَيفَ_ ([PRON]() 18, [DET]() 2)
+The 10 most frequent ambiguous types:  هٰذِهِ ([DET]() 733, [PRON]() 28), هٰذَا ([DET]() 661, [PRON]() 66), مَا ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), تِلكَ ([DET]() 93, [PRON]() 8), ذٰلِكَ ([PRON]() 314, [DET]() 67), مَن ([PRON]() 74, [DET]() 36), هٰؤُلَاءِ ([DET]() 29, [PRON]() 16), اَلَّذِينَ ([PRON]() 179, [DET]() 3), أُولٰئِكَ ([PRON]() 4, [DET]() 2), كَيفَ ([PRON]() 18, [DET]() 2)
 
 
 * _هٰذِهِ_

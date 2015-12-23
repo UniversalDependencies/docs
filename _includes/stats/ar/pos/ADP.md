@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: ___
 
 The 10 most frequent `ADP` types:  _فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _فِي_ ([ADP]() 8751, [X]() 4), _لِ_ ([ADP]() 6311, [CONJ]() 202, [PART]() 1), _لَ_ ([ADP]() 350, [PART]() 22), _حَتَّى_ ([ADP]() 176, [ADV]() 65, [CONJ]() 50), _كَ_ ([ADP]() 171, [PRON]() 141), _دُونِ_ ([ADP]() 110, [NOUN]() 17), _نَحوِ_ ([ADP]() 92, [NOUN]() 16), _رَغمَ_ ([ADP]() 75, [NOUN]() 21), _حَسَبَ_ ([ADP]() 62, [VERB]() 1), _حِينِ_ ([ADP]() 53, [NOUN]() 37)
+The 10 most frequent ambiguous types:  فِي ([ADP]() 8751, [X]() 4), لِ ([ADP]() 6311, [CONJ]() 202, [PART]() 1), لَ ([ADP]() 350, [PART]() 22), حَتَّى ([ADP]() 176, [ADV]() 65, [CONJ]() 50), كَ ([ADP]() 171, [PRON]() 141), دُونِ ([ADP]() 110, [NOUN]() 17), نَحوِ ([ADP]() 92, [NOUN]() 16), رَغمَ ([ADP]() 75, [NOUN]() 21), حَسَبَ ([ADP]() 62, [VERB]() 1), حِينِ ([ADP]() 53, [NOUN]() 37)
 
 
 * _فِي_

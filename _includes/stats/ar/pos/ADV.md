@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: ___
 
 The 10 most frequent `ADV` types:  _هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _أَيضًا_ ([ADV]() 181, [NOUN]() 8), _حَتَّى_ ([ADP]() 176, [ADV]() 65, [CONJ]() 50), _بَدَلًا_ ([NOUN]() 28, [ADV]() 9), _جِدًّا_ ([NOUN]() 52, [ADV]() 5)
+The 10 most frequent ambiguous types:  أَيضًا ([ADV]() 181, [NOUN]() 8), حَتَّى ([ADP]() 176, [ADV]() 65, [CONJ]() 50), بَدَلًا ([NOUN]() 28, [ADV]() 9), جِدًّا ([NOUN]() 52, [ADV]() 5)
 
 
 * _أَيضًا_

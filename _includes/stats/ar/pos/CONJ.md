@@ -11,9 +11,9 @@ The 10 most frequent `CONJ` lemmas: ___
 
 The 10 most frequent `CONJ` types:  _وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _أَنَّ_ ([CONJ]() 3412, [VERB]() 2), _إِنَّ_ ([CONJ]() 934, [PART]() 200), _لِ_ ([ADP]() 6311, [CONJ]() 202, [PART]() 1), _حَتَّى_ ([ADP]() 176, [ADV]() 65, [CONJ]() 50), _أَي_ ([CONJ]() 38, [X]() 13), _إِن_ ([CONJ]() 20, [X]() 13)
+The 10 most frequent ambiguous types:  أَنَّ ([CONJ]() 3412, [VERB]() 2), إِنَّ ([CONJ]() 934, [PART]() 200), لِ ([ADP]() 6311, [CONJ]() 202, [PART]() 1), حَتَّى ([ADP]() 176, [ADV]() 65, [CONJ]() 50), أَي ([CONJ]() 38, [X]() 13), إِن ([CONJ]() 20, [X]() 13)
 
 
 * _أَنَّ_

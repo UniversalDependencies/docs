@@ -11,9 +11,9 @@ The 10 most frequent `PUNCT` lemmas: ___
 
 The 10 most frequent `PUNCT` types:  _., ،, ", -, ), (, /, », «, :_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _/_ ([PUNCT]() 753, [SYM]() 15), _ر_ ([PUNCT]() 22, [X]() 20)
+The 10 most frequent ambiguous types:  / ([PUNCT]() 753, [SYM]() 15), ر ([PUNCT]() 22, [X]() 20)
 
 
 * _/_

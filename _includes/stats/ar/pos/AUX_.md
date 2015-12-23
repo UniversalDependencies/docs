@@ -11,9 +11,9 @@ The 10 most frequent `AUX` lemmas: ___
 
 The 10 most frequent `AUX` types:  _لَيسَ, لَيسَت, أَلَا, تَعُد_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _لَيسَ_ ([VERB]() 106, [AUX]() 35), _لَيسَت_ ([VERB]() 41, [AUX]() 3), _تَعُد_ ([VERB]() 6, [AUX]() 1)
+The 10 most frequent ambiguous types:  لَيسَ ([VERB]() 106, [AUX]() 35), لَيسَت ([VERB]() 41, [AUX]() 3), تَعُد ([VERB]() 6, [AUX]() 1)
 
 
 * _لَيسَ_

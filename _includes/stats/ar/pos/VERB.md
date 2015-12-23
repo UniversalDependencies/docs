@@ -11,9 +11,9 @@ The 10 most frequent `VERB` lemmas: ___
 
 The 10 most frequent `VERB` types:  _قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _أَوضَحَ_ ([VERB]() 159, [ADJ]() 1), _لَيسَ_ ([VERB]() 106, [AUX]() 35), _لَيسَت_ ([VERB]() 41, [AUX]() 3), _طَلَبَ_ ([VERB]() 32, [NOUN]() 7), _رَدَّ_ ([VERB]() 10, [NOUN]() 4), _حَلَّ_ ([VERB]() 7, [NOUN]() 1), _شَنَّ_ ([VERB]() 7, [NOUN]() 2), _تَعُد_ ([VERB]() 6, [AUX]() 1), _ضَمَّ_ ([NOUN]() 5, [VERB]() 4), _نَصَّ_ ([VERB]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous types:  أَوضَحَ ([VERB]() 159, [ADJ]() 1), لَيسَ ([VERB]() 106, [AUX]() 35), لَيسَت ([VERB]() 41, [AUX]() 3), طَلَبَ ([VERB]() 32, [NOUN]() 7), رَدَّ ([VERB]() 10, [NOUN]() 4), حَلَّ ([VERB]() 7, [NOUN]() 1), شَنَّ ([VERB]() 7, [NOUN]() 2), تَعُد ([VERB]() 6, [AUX]() 1), ضَمَّ ([NOUN]() 5, [VERB]() 4), نَصَّ ([VERB]() 4, [NOUN]() 1)
 
 
 * _أَوضَحَ_

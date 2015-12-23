@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: ___
 
 The 10 most frequent `NUM` types:  _مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _اِثنَينِ_ ([NUM]() 29, [NOUN]() 1), _وَاحِدٍ_ ([ADJ]() 31, [NUM]() 14), _اِثنَانِ_ ([NUM]() 5, [NOUN]() 1), _وَاحِدٌ_ ([NUM]() 5, [ADJ]() 2), _وَاحِدًا_ ([ADJ]() 10, [NUM]() 3), _وَاحِدَةٍ_ ([ADJ]() 22, [NUM]() 3), _اَلوَاحِدِ_ ([ADJ]() 14, [NUM]() 2), _اَلِاثنَينِ_ ([NOUN]() 56, [NUM]() 2), _وَاحِدَةً_ ([ADJ]() 10, [NUM]() 2), _أَحَدَ_ ([NOUN]() 31, [NUM]() 1)
+The 10 most frequent ambiguous types:  اِثنَينِ ([NUM]() 29, [NOUN]() 1), وَاحِدٍ ([ADJ]() 31, [NUM]() 14), اِثنَانِ ([NUM]() 5, [NOUN]() 1), وَاحِدٌ ([NUM]() 5, [ADJ]() 2), وَاحِدًا ([ADJ]() 10, [NUM]() 3), وَاحِدَةٍ ([ADJ]() 22, [NUM]() 3), اَلوَاحِدِ ([ADJ]() 14, [NUM]() 2), اَلِاثنَينِ ([NOUN]() 56, [NUM]() 2), وَاحِدَةً ([ADJ]() 10, [NUM]() 2), أَحَدَ ([NOUN]() 31, [NUM]() 1)
 
 
 * _اِثنَينِ_

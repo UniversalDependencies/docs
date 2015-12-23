@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: ___
 
 The 10 most frequent `PRON` types:  _هَا, هُ, هِ, اَلَّتِي, اَلَّذِي, مَا, هُم, هِم, هُوَ, ذٰلِكَ_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _هَا_ ([PRON]() 3763, [PART]() 2), _مَا_ ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), _ذٰلِكَ_ ([PRON]() 314, [DET]() 67), _اَلَّذِينَ_ ([PRON]() 179, [DET]() 3), _كَ_ ([ADP]() 171, [PRON]() 141), _مَن_ ([PRON]() 74, [DET]() 36), _هٰذَا_ ([DET]() 661, [PRON]() 66), _هٰذِهِ_ ([DET]() 733, [PRON]() 28), _كَيفَ_ ([PRON]() 18, [DET]() 2), _هٰؤُلَاءِ_ ([DET]() 29, [PRON]() 16)
+The 10 most frequent ambiguous types:  هَا ([PRON]() 3763, [PART]() 2), مَا ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), ذٰلِكَ ([PRON]() 314, [DET]() 67), اَلَّذِينَ ([PRON]() 179, [DET]() 3), كَ ([ADP]() 171, [PRON]() 141), مَن ([PRON]() 74, [DET]() 36), هٰذَا ([DET]() 661, [PRON]() 66), هٰذِهِ ([DET]() 733, [PRON]() 28), كَيفَ ([PRON]() 18, [DET]() 2), هٰؤُلَاءِ ([DET]() 29, [PRON]() 16)
 
 
 * _هَا_

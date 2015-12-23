@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: ___
 
 The 10 most frequent `INTJ` types:  _مَرحَبًا, بِلَاش, حَيَّ, مَا_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _مَا_ ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1)
+The 10 most frequent ambiguous types:  مَا ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1)
 
 
 * _مَا_

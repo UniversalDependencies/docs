@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: ___
 
 The 10 most frequent `PART` types:  _سَ, لَا, قَد, لَم, إِنَّ, إِلَّا, لَن, سَوفَ, أَمَّا, مَا_
 
-The 10 most frequent ambiguous lemmas: ___ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _إِنَّ_ ([CONJ]() 934, [PART]() 200), _مَا_ ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), _لَ_ ([ADP]() 350, [PART]() 22), _أَ_ ([X]() 48, [PART]() 10), _هَا_ ([PRON]() 3763, [PART]() 2), _لِ_ ([ADP]() 6311, [CONJ]() 202, [PART]() 1)
+The 10 most frequent ambiguous types:  إِنَّ ([CONJ]() 934, [PART]() 200), مَا ([PRON]() 756, [DET]() 251, [PART]() 67, [INTJ]() 1), لَ ([ADP]() 350, [PART]() 22), أَ ([X]() 48, [PART]() 10), هَا ([PRON]() 3763, [PART]() 2), لِ ([ADP]() 6311, [CONJ]() 202, [PART]() 1)
 
 
 * _إِنَّ_
