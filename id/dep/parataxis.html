@@ -49,6 +49,81 @@ for <code>parataxis</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udindonesian">Treebank Statistics (UD_Indonesian)</h2>
+
+<p>This relation is universal.</p>
+
+<p>404 nodes (0%) are attached to their parents as <code>parataxis</code>.</p>
+
+<p>356 instances of <code>parataxis</code> (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.9554455445545.</p>
+
+<p>The following 22 pairs of parts of speech are connected with <code>parataxis</code>: <a href="">id-pos/VERB</a>-<a href="">id-pos/VERB</a> (254; 63% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/VERB</a> (41; 10% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/NOUN</a> (39; 10% instances), <a href="">id-pos/PROPN</a>-<a href="">id-pos/VERB</a> (14; 3% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/PROPN</a> (12; 3% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/NOUN</a> (10; 2% instances), <a href="">id-pos/PROPN</a>-<a href="">id-pos/NOUN</a> (5; 1% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/PROPN</a> (4; 1% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/ADJ</a> (4; 1% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/PRON</a> (4; 1% instances), <a href="">id-pos/PROPN</a>-<a href="">id-pos/PROPN</a> (3; 1% instances), <a href="">id-pos/ADJ</a>-<a href="">id-pos/VERB</a> (2; 0% instances), <a href="">id-pos/PRON</a>-<a href="">id-pos/VERB</a> (2; 0% instances), <a href="">id-pos/PROPN</a>-<a href="">id-pos/ADJ</a> (2; 0% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/ADJ</a> (1; 0% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/ADV</a> (1; 0% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/CONJ</a> (1; 0% instances), <a href="">id-pos/NOUN</a>-<a href="">id-pos/PRON</a> (1; 0% instances), <a href="">id-pos/NUM</a>-<a href="">id-pos/VERB</a> (1; 0% instances), <a href="">id-pos/PROPN</a>-<a href="">id-pos/PRON</a> (1; 0% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/NUM</a> (1; 0% instances), <a href="">id-pos/VERB</a>-<a href="">id-pos/PART</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	Tuh	_	PART	_	_	4	advmod	_	_
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	kamu	_	PRON	_	_	4	nsubj	_	_
+4	lupa	_	VERB	_	_	0	root	_	_
+5	lagi	_	ADV	_	_	4	advmod	_	_
+6	kan	_	PART	_	_	4	amod	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+8	-	_	PUNCT	_	_	4	punct	_	_
+9	Lihat	_	VERB	_	_	4	parataxis	_	_
+10	,	_	PUNCT	_	_	4	punct	_	_
+11	kamu	_	PRON	_	_	12	nsubj	_	_
+12	lupa	_	VERB	_	_	4	parataxis	_	_
+13	lagi	_	ADV	_	_	12	advmod	_	_
+14	bukan	_	PART	_	_	12	neg	_	_
+15	?	_	PUNCT	_	_	4	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 parataxis	color:blue
+1	apakah	_	ADV	_	_	0	root	_	_
+2	artinya	_	NOUN	_	_	1	acl	_	_
+3	tidak	_	PART	_	_	4	neg	_	_
+4	beroperasi	_	VERB	_	_	2	parataxis	_	_
+5	hari	_	NOUN	_	_	4	dobj	_	_
+6	sabtu	_	PROPN	_	_	5	name	_	_
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	minggu	_	PROPN	_	_	5	conj	_	_
+9	/	_	SYM	_	_	5	punct	_	_
+10	libur	_	NOUN	_	_	5	conj	_	_
+11	?	_	PUNCT	_	_	5	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 parataxis	color:blue
+1	Sebuah	_	DET	_	_	2	det	_	_
+2	pertanyaan	_	NOUN	_	_	5	parataxis	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	mengapa	_	ADV	_	_	5	advmod	_	_
+5	dipahatkan	_	VERB	_	_	0	root	_	_
+6	relief	_	NOUN	_	_	5	dobj	_	_
+7	Garudeya	_	PROPN	_	_	6	name	_	_
+8	?	_	PUNCT	_	_	5	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
