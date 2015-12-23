@@ -49,6 +49,81 @@ for <code>name</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udhebrew">Treebank Statistics (UD_Hebrew)</h2>
+
+<p>This relation is universal.</p>
+
+<p>2580 nodes (2%) are attached to their parents as <code>name</code>.</p>
+
+<p>2580 instances of <code>name</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30736434108527.</p>
+
+<p>The following 20 pairs of parts of speech are connected with <code>name</code>: <a href="">he-pos/PROPN</a>-<a href="">he-pos/PROPN</a> (1590; 62% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/PROPN</a> (316; 12% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/PUNCT</a> (192; 7% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/NOUN</a> (163; 6% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/NOUN</a> (132; 5% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/PUNCT</a> (117; 5% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/NUM</a> (16; 1% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/ADJ</a> (8; 0% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/CONJ</a> (8; 0% instances), <a href="">he-pos/DET</a>-<a href="">he-pos/PROPN</a> (7; 0% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/ADJ</a> (7; 0% instances), <a href="">he-pos/NUM</a>-<a href="">he-pos/PROPN</a> (5; 0% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/PART</a> (4; 0% instances), <a href="">he-pos/PUNCT</a>-<a href="">he-pos/PROPN</a> (3; 0% instances), <a href="">he-pos/PUNCT</a>-<a href="">he-pos/PUNCT</a> (3; 0% instances), <a href="">he-pos/ADP</a>-<a href="">he-pos/PROPN</a> (2; 0% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/NUM</a> (2; 0% instances), <a href="">he-pos/VERB</a>-<a href="">he-pos/NOUN</a> (2; 0% instances), <a href="">he-pos/X</a>-<a href="">he-pos/PROPN</a> (2; 0% instances), <a href="">he-pos/DET</a>-<a href="">he-pos/PUNCT</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 name	color:blue
+1	"	_	PUNCT	PUNCT	_	2	punct	_	_
+2	גורג	_	PROPN	PROPN	_	6	nsubj:cop	_	_
+3	"	_	PUNCT	PUNCT	_	2	punct	_	_
+4	הוא	_	VERB	VERB	Gender=Masc|Negative=Pos|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop	6	cop	_	_
+5	כמובן	_	ADV	ADV	_	6	dep	_	_
+6	גורג	_	PROPN	PROPN	_	0	root	_	_
+7	בוש	_	PROPN	PROPN	_	6	name	_	_
+8	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 name	color:blue
+1	אכן	_	ADV	ADV	_	4	advmod	_	_
+2	,	_	PUNCT	PUNCT	_	4	punct	_	_
+3	כך	_	ADV	ADV	_	4	advmod	_	_
+4	עשתה	_	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	חטיבת	_	NOUN	NOUN	Definite=Red|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	"	_	PUNCT	PUNCT	_	7	punct	_	_
+7	הראל	_	PROPN	PROPN	_	5	name	_	_
+8	"	_	PUNCT	PUNCT	_	7	punct	_	_
+9	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 name	color:blue
+1	הוא	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	נבנה	_	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	ב	_	ADP	ADP	_	4	case	_	_
+4	שנות	_	NOUN	NOUN	Definite=Red|Gender=Fem|Number=Plur	2	nmod	_	_
+5	ה	_	DET	DET	PronType=Art	6	det:def	_	_
+6	70	_	NUM	NUM	_	4	nmod:smixut	_	_
+7	ב	_	ADP	ADP	_	8	case	_	_
+8	צדו	_	NOUN	NOUN	Gender=Masc|Number=Sing	2	nmod	_	_
+9	הוא_	_	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	_
+10	ה	_	DET	DET	PronType=Art	11	det:def	_	_
+11	מערבי	_	ADJ	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
+12	של	_	PART	PART	Case=Gen	13	case:gen	_	_
+13	רחוב	_	NOUN	NOUN	Gender=Masc|Number=Sing	8	nmod:poss	_	_
+14	בן	_	PROPN	PROPN	_	13	appos	_	_
+15	-	_	PUNCT	PUNCT	_	14	name	_	_
+16	סרוק	_	PROPN	PROPN	_	14	name	_	_
+17	.	_	PUNCT	PUNCT	_	2	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

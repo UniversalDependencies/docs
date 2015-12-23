@@ -48,6 +48,56 @@ for <code>Tense</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udhebrew">Treebank Statistics (UD_Hebrew)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Fut</code>, <code>Past</code>.</p>
+
+<p>7910 tokens (5%) have a non-empty value of <code>Tense</code>.
+2825 types (15%) occur at least once with a non-empty value of <code>Tense</code>.
+1 lemmas (0) occur at least once with a non-empty value of <code>Tense</code>.
+The feature is used with 2 part-of-speech tags: <a href="">he-pos/VERB</a> (7804; 5% instances), <a href="">he-pos/AUX</a> (106; 0% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>7804 <a href="">he-pos/VERB</a> tokens (49% of all <code>VERB</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Tense</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (7804; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7429; 95%), <tt><a href="Negative.html">Negative</a>=EMPTY</tt> (6802; 87%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (6802; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (5517; 71%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Fut</code> (1421; 18% of non-empty <code>Tense</code>): יהיה, תהיה, יהיו, תקבל, יכלו, יגיעו, יישאר, יישארו, יגיע, יקבלו</li>
+  <li><code>Past</code> (6383; 82% of non-empty <code>Tense</code>): היה, היו, היתה, אמר, עבר, הגיעו, עלה, הגיע, טען, אמרו</li>
+  <li><code>EMPTY</code> (8116): יש, הוא, היא, אין, אינו, להיות, אינה, אינם, אומר, מדובר</li>
+</ul>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>106 <a href="">he-pos/AUX</a> tokens (13% of all <code>AUX</code> tokens) have a non-empty value of <code>Tense</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Tense</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (106; 100%), <tt><a href="VerbType.html">VerbType</a>=Mod</tt> (106; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (89; 84%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (89; 84%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (61; 58%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Tense</code>:</p>
+
+<ul>
+  <li><code>Fut</code> (39; 37% of non-empty <code>Tense</code>): יוכל, יוכלו, נוכל, תוכל</li>
+  <li><code>Past</code> (67; 63% of non-empty <code>Tense</code>): קשה, סביר, קל, יכול, צפוי, מעוניין, אל, מומלץ, עדיף, עתיד</li>
+  <li><code>EMPTY</code> (737): אפשר, יכול, יש, צריך, יכולה, ייתכן, ניתן, אמור, עלול, חייב</li>
+</ul>
+
+<h2 id="relations-with-agreement-in-tense">Relations with Agreement in <code>Tense</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Tense</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (870; 80%),
+<tt>VERB –[<a href="../dep/nmod.html">nmod</a>]–&gt; VERB</tt> (135; 57%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

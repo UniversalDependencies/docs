@@ -49,6 +49,94 @@ for <code>acl</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udhebrew">Treebank Statistics (UD_Hebrew)</h2>
+
+<p>This relation is universal.
+There are 2 language-specific subtypes of <code>acl</code>: <a href="">acl:inf</a>, <a href="">acl:relcl</a>.</p>
+
+<p>315 nodes (0%) are attached to their parents as <code>acl</code>.</p>
+
+<p>315 instances of <code>acl</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.37460317460317.</p>
+
+<p>The following 23 pairs of parts of speech are connected with <code>acl</code>: <a href="">he-pos/NOUN</a>-<a href="">he-pos/NOUN</a> (144; 46% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/VERB</a> (100; 32% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/NOUN</a> (18; 6% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/VERB</a> (10; 3% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/ADV</a> (5; 2% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/AUX</a> (5; 2% instances), <a href="">he-pos/PRON</a>-<a href="">he-pos/VERB</a> (5; 2% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/ADJ</a> (4; 1% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/PRON</a> (4; 1% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/SCONJ</a> (3; 1% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/CONJ</a> (2; 1% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/PROPN</a> (2; 1% instances), <a href="">he-pos/VERB</a>-<a href="">he-pos/NOUN</a> (2; 1% instances), <a href="">he-pos/VERB</a>-<a href="">he-pos/VERB</a> (2; 1% instances), <a href="">he-pos/ADJ</a>-<a href="">he-pos/NOUN</a> (1; 0% instances), <a href="">he-pos/ADJ</a>-<a href="">he-pos/VERB</a> (1; 0% instances), <a href="">he-pos/ADV</a>-<a href="">he-pos/ADJ</a> (1; 0% instances), <a href="">he-pos/ADV</a>-<a href="">he-pos/NOUN</a> (1; 0% instances), <a href="">he-pos/NOUN</a>-<a href="">he-pos/X</a> (1; 0% instances), <a href="">he-pos/PRON</a>-<a href="">he-pos/NOUN</a> (1; 0% instances), <a href="">he-pos/PROPN</a>-<a href="">he-pos/PUNCT</a> (1; 0% instances), <a href="">he-pos/VERB</a>-<a href="">he-pos/SCONJ</a> (1; 0% instances), <a href="">he-pos/X</a>-<a href="">he-pos/VERB</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 acl	color:blue
+1	מדוע	_	ADV	ADV	PronType=Int	3	advmod	_	_
+2	לא	_	ADV	ADV	Negative=Neg	3	neg	_	_
+3	ייתכן	_	AUX	AUX	VerbType=Mod	0	root	_	_
+4	ש	_	SCONJ	SCONJ	_	5	mark	_	_
+5	קיים	_	ADJ	ADJ	Gender=Masc|Number=Sing	3	ccomp	_	_
+6	מספר	_	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	ראשוני	_	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
+8	גדול	_	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
+9	יותר	_	ADV	ADV	_	8	advmod	_	_
+10	בעל	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	6	acl	_	_
+11	אותה	_	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+12	תכונה	_	NOUN	NOUN	Gender=Fem|Number=Sing	10	nmod:smixut	_	_
+13	?	_	PUNCT	PUNCT	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl	color:blue
+1	ה	_	DET	DET	PronType=Art	2	det:def	_	_
+2	מקרה	_	NOUN	NOUN	Gender=Masc|Number=Sing	10	nsubj	_	_
+3	ה	_	DET	DET	PronType=Art	4	det:def	_	_
+4	אחר	_	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
+5	אותו	_	PART	PART	Case=Acc	6	case:acc	_	_
+6	הוא_	_	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dobj	_	_
+7	הזכיר	_	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past	2	acl	_	_
+8	ח"כ	_	NOUN	NOUN	Gender=Masc|Number=Sing	7	nsubj	_	_
+9	גולדמן	_	PROPN	PROPN	_	8	appos	_	_
+10	היה	_	VERB	VERB	Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbType=Cop	0	root	_	_
+11	ב	_	ADP	ADP	_	12	case	_	_
+12	שבת	_	PROPN	PROPN	_	10	nmod	_	_
+13	ב	_	ADP	ADP	_	14	case	_	_
+14	טייבה	_	PROPN	PROPN	_	10	nmod	_	_
+15	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 acl	color:blue
+1	בין	_	ADP	ADP	_	3	case	_	_
+2	ה	_	DET	DET	PronType=Art	3	det:def	_	_
+3	שנים	_	NOUN	NOUN	Gender=Fem|Number=Plur	6	nmod	_	_
+4	84	_	NUM	NUM	_	3	nmod	_	_
+5	87	_	NUM	NUM	_	4	nummod	_	_
+6	הרוויח	_	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	מילקן	_	PROPN	PROPN	_	6	nsubj	_	_
+8	בן	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	7	acl	_	_
+9	ה	_	DET	DET	PronType=Art	10	det:def	_	_
+10	44	_	NUM	NUM	_	8	nmod:smixut	_	_
+11	סכום	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	6	dobj	_	_
+12	הטבות	_	NOUN	NOUN	Gender=Fem|Number=Plur	11	nmod:smixut	_	_
+13	כולל	_	ADJ	ADJ	Gender=Masc|Number=Sing	11	amod	_	_
+14	בן	_	NOUN	NOUN	Definite=Red|Gender=Masc|Number=Sing	11	acl	_	_
+15	1.1	_	NUM	NUM	_	16	nummod	_	_
+16	מיליארד	_	NUM	NUM	Gender=Masc|Number=Sing	17	nummod	_	_
+17	דולר	_	NOUN	NOUN	Gender=Masc|Number=Sing	14	nmod:smixut	_	_
+18	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
