@@ -49,6 +49,71 @@ for <code>acl</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udbasque">Treebank Statistics (UD_Basque)</h2>
+
+<p>This relation is universal.</p>
+
+<p>1147 nodes (1%) are attached to their parents as <code>acl</code>.</p>
+
+<p>1095 instances of <code>acl</code> (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.06277244986922.</p>
+
+<p>The following 28 pairs of parts of speech are connected with <code>acl</code>: <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/VERB</a> (916; 80% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/ADJ</a> (30; 3% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/NOUN</a> (29; 3% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/VERB</a> (28; 2% instances), <a href="">eu-pos/ADP</a>-<a href="">eu-pos/VERB</a> (25; 2% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/VERB</a> (23; 2% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/AUX</a> (14; 1% instances), <a href="">eu-pos/NUM</a>-<a href="">eu-pos/VERB</a> (10; 1% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/VERB</a> (10; 1% instances), <a href="">eu-pos/NUM</a>-<a href="">eu-pos/NOUN</a> (8; 1% instances), <a href="">eu-pos/VERB</a>-<a href="">eu-pos/VERB</a> (7; 1% instances), <a href="">eu-pos/ADV</a>-<a href="">eu-pos/VERB</a> (6; 1% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/ADV</a> (5; 0% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/ADV</a> (5; 0% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/NUM</a> (5; 0% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/NOUN</a> (4; 0% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/NOUN</a> (3; 0% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/NUM</a> (3; 0% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/NUM</a> (3; 0% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/ADJ</a> (3; 0% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/NOUN</a> (2; 0% instances), <a href="">eu-pos/NUM</a>-<a href="">eu-pos/NUM</a> (2; 0% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/ADJ</a> (1; 0% instances), <a href="">eu-pos/ADP</a>-<a href="">eu-pos/AUX</a> (1; 0% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/ADJ</a> (1; 0% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/PROPN</a> (1; 0% instances), <a href="">eu-pos/PRON</a>-<a href="">eu-pos/VERB</a> (1; 0% instances), <a href="">eu-pos/VERB</a>-<a href="">eu-pos/ADJ</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 acl	color:blue
+1	Bigarren	bigarren	NUM	_	NumType=Ord	2	amod	_	_
+2	marrazkian	marrazki	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	3	nmod	_	_
+3	agertzen	agertu	VERB	_	Aspect=Imp|VerbForm=Inf	5	acl	_	_
+4	den	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Person[abs]=3	3	aux	_	_
+5	muntaia	muntaia	NOUN	_	Case=Abs|Definite=Def|Number=Sing	6	dobj	_	_
+6	egizu	egin	VERB	_	Aspect=Prog|Mood=Imp|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 acl	color:blue
+1	Gauak	gau	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	2	nsubj	_	_
+2	luzeak	luze	ADJ	_	Case=Abs|Definite=Def|Number=Plur	0	root	_	_
+3	ziren	izan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Person[abs]=3	2	cop	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	eta	eta	CONJ	_	_	3	cc	_	_
+6	egunak	egun	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	5	nsubj	_	_
+7	are	are	ADV	_	_	9	advmod	_	_
+8	eta	eta	CONJ	_	_	7	dep	_	_
+9	luzeagoak	luze	ADJ	_	Case=Abs|Definite=Def|Degree=Cmp|Number=Plur	6	acl	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 acl	color:blue
+1	Ugalketa	ugalketa	NOUN	_	Case=Abs|Definite=Def|Number=Sing	2	dobj	_	_
+2	xede	xede	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind	4	acl	_	_
+3	duen	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	2	cop	_	_
+4	klonazioa	klonazio	NOUN	_	Case=Abs|Definite=Def|Number=Sing	5	dobj	_	_
+5	debekatzen	debekatu	VERB	_	Aspect=Imp|VerbForm=Inf	0	root	_	_
+6	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	5	aux	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

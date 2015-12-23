@@ -90,6 +90,73 @@ punct(osatzen-15, .-19)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udbasque">Treebank Statistics (UD_Basque)</h2>
+
+<p>This relation is universal.</p>
+
+<p>4678 nodes (4%) are attached to their parents as <code>cc</code>.</p>
+
+<p>4318 instances of <code>cc</code> (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.40722530996152.</p>
+
+<p>The following 23 pairs of parts of speech are connected with <code>cc</code>: <a href="">eu-pos/VERB</a>-<a href="">eu-pos/CONJ</a> (2823; 60% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/CONJ</a> (940; 20% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/CONJ</a> (533; 11% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/CONJ</a> (125; 3% instances), <a href="">eu-pos/NUM</a>-<a href="">eu-pos/CONJ</a> (75; 2% instances), <a href="">eu-pos/ADV</a>-<a href="">eu-pos/CONJ</a> (60; 1% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/PART</a> (21; 0% instances), <a href="">eu-pos/PUNCT</a>-<a href="">eu-pos/CONJ</a> (18; 0% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/CONJ</a> (15; 0% instances), <a href="">eu-pos/AUX</a>-<a href="">eu-pos/CONJ</a> (14; 0% instances), <a href="">eu-pos/PROPN</a>-<a href="">eu-pos/PART</a> (10; 0% instances), <a href="">eu-pos/CONJ</a>-<a href="">eu-pos/CONJ</a> (9; 0% instances), <a href="">eu-pos/X</a>-<a href="">eu-pos/ADV</a> (9; 0% instances), <a href="">eu-pos/VERB</a>-<a href="">eu-pos/PART</a> (6; 0% instances), <a href="">eu-pos/NUM</a>-<a href="">eu-pos/PART</a> (4; 0% instances), <a href="">eu-pos/PRON</a>-<a href="">eu-pos/CONJ</a> (4; 0% instances), <a href="">eu-pos/X</a>-<a href="">eu-pos/CONJ</a> (3; 0% instances), <a href="">eu-pos/ADJ</a>-<a href="">eu-pos/PART</a> (2; 0% instances), <a href="">eu-pos/CONJ</a>-<a href="">eu-pos/PART</a> (2; 0% instances), <a href="">eu-pos/NOUN</a>-<a href="">eu-pos/X</a> (2; 0% instances), <a href="">eu-pos/DET</a>-<a href="">eu-pos/ADV</a> (1; 0% instances), <a href="">eu-pos/PART</a>-<a href="">eu-pos/CONJ</a> (1; 0% instances), <a href="">eu-pos/VERB</a>-<a href="">eu-pos/VERB</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 cc	color:blue
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	Euskal	euskal	NOUN	_	_	3	compound	_	_
+3	Herrian	herri	NOUN	_	Case=Ine|Definite=Def|Number=Sing	4	nmod	_	_
+4	jaio	jaio	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+5	dira	izan	AUX	_	Mood=Ind|Number[abs]=Plur|Person[abs]=3	4	aux	_	_
+6	eta	eta	CONJ	_	_	4	cc	_	_
+7	guraso	guraso	NOUN	_	_	9	dobj	_	_
+8	euskaldunak	euskaldun	ADJ	_	Case=Abs|Definite=Def|Number=Plur	7	amod	_	_
+9	dituzte	ukan	VERB	_	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	4	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cc	color:blue
+1	Marka	marka	NOUN	_	_	3	dobj	_	_
+2	onena	on	ADJ	_	Case=Abs|Definite=Def|Degree=Sup|Number=Sing	1	amod	_	_
+3	egin	egin	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+4	zuten	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	3	aux	_	_
+5	ziabogan	ziaboga	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	3	nmod	_	_
+6	zein	zein	CONJ	_	_	5	cc	_	_
+7	helmugan	helmuga	NOUN	_	Case=Ine|Definite=Def|Number=Sing	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cc	color:blue
+1	Azkenean	azkenean	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	Koxtape	Koxtape	PROPN	_	_	6	nsubj	_	_
+4	eta	eta	CONJ	_	_	3	cc	_	_
+5	Hondarribia	Hondarribia	PROPN	_	Case=Abs|Definite=Def|Number=Sing	3	conj	_	_
+6	sailkatu	sailkatu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+7	ziren	izan	AUX	_	Mood=Ind|Number[abs]=Plur|Person[abs]=3	6	aux	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
