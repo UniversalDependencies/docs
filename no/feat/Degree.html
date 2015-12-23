@@ -48,6 +48,77 @@ for <code>Degree</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udnorwegian">Treebank Statistics (UD_Norwegian)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Cmp</code>, <code>Pos</code>, <code>Sup</code>.</p>
+
+<p>24745 tokens (8%) have a non-empty value of <code>Degree</code>.
+4449 types (14%) occur at least once with a non-empty value of <code>Degree</code>.
+2770 lemmas (12%) occur at least once with a non-empty value of <code>Degree</code>.
+The feature is used with 2 part-of-speech tags: <a href="">no-pos/ADJ</a> (24744; 8% instances), <a href="">no-pos/DET</a> (1; 0% instances).</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>24744 <a href="">no-pos/ADJ</a> tokens (92% of all <code>ADJ</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Degree</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (17353; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (15931; 64%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (13379; 54%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Cmp</code> (2238; 9% of non-empty <code>Degree</code>): <em>mer, flere, tidligere, bedre, større, mindre, videre, lenger, senere, høyere</em></li>
+  <li><code>Pos</code> (21364; 86% of non-empty <code>Degree</code>): <em>mange, norske, mye, første, store, nye, hele, helt, litt, godt</em></li>
+  <li><code>Sup</code> (1142; 5% of non-empty <code>Degree</code>): <em>mest, beste, fleste, minst, største, best, viktigste, fremst, verste, nærmest</em></li>
+  <li><code>EMPTY</code> (2065): <em>økt, 22., sittende, tilsvarende, stående, bekymret, forurensende, knyttet, økende, 2.</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>mye</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>mer, mere</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td></td><td><em>meste</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mye</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td></td><td></td><td><em>mest</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mye</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mye</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>mye</em></td><td></td><td></td></tr>
+</table>
+
+<p><code>Degree</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 96% lemmas (2646) occur only with one value of <code>Degree</code>.</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>1 <a href="">no-pos/DET</a> tokens (0% of all <code>DET</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Degree</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Pos</code> (1; 100% of non-empty <code>Degree</code>): <em>mine</em></li>
+  <li><code>EMPTY</code> (16489): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-degree">Relations with Agreement in <code>Degree</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Degree</code>:
+<tt>ADJ –[<a href="../dep/advmod.html">advmod</a>]–&gt; ADJ</tt> (1084; 54%),
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (730; 82%),
+<tt>ADJ –[<a href="../dep/amod.html">amod</a>]–&gt; ADJ</tt> (50; 54%),
+<tt>ADJ –[<a href="../dep/advcl.html">advcl</a>]–&gt; ADJ</tt> (30; 67%),
+<tt>ADJ –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; ADJ</tt> (21; 60%),
+<tt>ADJ –[<a href="../dep/csubj.html">csubj</a>]–&gt; ADJ</tt> (15; 71%),
+<tt>ADJ –[<a href="../dep/remnant.html">remnant</a>]–&gt; ADJ</tt> (4; 57%),
+<tt>ADJ –[<a href="../dep/acl:relcl.html">acl:relcl</a>]–&gt; ADJ</tt> (2; 100%),
+<tt>ADJ –[<a href="../dep/dobj.html">dobj</a>]–&gt; ADJ</tt> (2; 67%),
+<tt>ADJ –[<a href="../dep/ccomp.html">ccomp</a>]–&gt; ADJ</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

@@ -48,6 +48,73 @@ for <code>Mood</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udnorwegian">Treebank Statistics (UD_Norwegian)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Imp</code>, <code>Ind</code>.</p>
+
+<p>34825 tokens (11%) have a non-empty value of <code>Mood</code>.
+2608 types (8%) occur at least once with a non-empty value of <code>Mood</code>.
+1436 lemmas (6%) occur at least once with a non-empty value of <code>Mood</code>.
+The feature is used with 2 part-of-speech tags: <a href="">no-pos/VERB</a> (25652; 8% instances), <a href="">no-pos/AUX</a> (9173; 3% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>25652 <a href="">no-pos/VERB</a> tokens (63% of all <code>VERB</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (25652; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (18579; 72%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (232; 1% of non-empty <code>Mood</code>): <em>les, la, se, tenk, Ha, ta, send, gi, husk, kom</em></li>
+  <li><code>Ind</code> (25420; 99% of non-empty <code>Mood</code>): <em>er, var, har, sier, blir, kommer, går, mener, ble, får</em></li>
+  <li><code>EMPTY</code> (14887): <em>være, vært, få, ha, bli, ta, gjøre, se, si, gå</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>være</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>var</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>er, e</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>vær</em></td></tr>
+</table>
+
+<p><code>Mood</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 95% lemmas (1360) occur only with one value of <code>Mood</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>9173 <a href="">no-pos/AUX</a> tokens (92% of all <code>AUX</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9173; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7107; 77%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (2; 0% of non-empty <code>Mood</code>): <em>Få, vær</em></li>
+  <li><code>Ind</code> (9171; 100% of non-empty <code>Mood</code>): <em>har, kan, vil, skal, er, ble, må, hadde, skulle, ville</em></li>
+  <li><code>EMPTY</code> (820): <em>ha, bli, blitt, kunne, få, vært, fått, være, måtte, måttet</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>være</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>var</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>er</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>vær</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-mood">Relations with Agreement in <code>Mood</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Mood</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (1622; 70%),
+<tt>VERB –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; VERB</tt> (515; 60%),
+<tt>VERB –[<a href="../dep/csubjpass.html">csubjpass</a>]–&gt; VERB</tt> (4; 67%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
