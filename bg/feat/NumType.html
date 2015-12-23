@@ -116,6 +116,73 @@ fraction. In Bulgarian the numerator is cardinal numeral and denominator is ordi
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udbulgarian">Treebank Statistics (UD_Bulgarian)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Card</code>, <code>Ord</code>.</p>
+
+<p>3449 tokens (2%) have a non-empty value of <code>NumType</code>.
+715 types (3%) occur at least once with a non-empty value of <code>NumType</code>.
+548 lemmas (4%) occur at least once with a non-empty value of <code>NumType</code>.
+The feature is used with 3 part-of-speech tags: <a href="">bg-pos/NUM</a> (2038; 1% instances), <a href="">bg-pos/ADJ</a> (895; 1% instances), <a href="">bg-pos/ADV</a> (516; 0% instances).</p>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>2038 <a href="">bg-pos/NUM</a> tokens (97% of all <code>NUM</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>NUM</code> and <code>NumType</code> co-occurred: <tt><a href="Definite.html">Definite</a>=Ind</tt> (1908; 94%), <tt><a href="Number.html">Number</a>=Plur</tt> (1810; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1544; 76%).</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (2038; 100% of non-empty <code>NumType</code>): <em>две, един, два, 2, една, 1, 3, 10, едно, 20</em></li>
+  <li><code>EMPTY</code> (66): <em>три, две, половин, двамата, двете, два, един, тримата, 1, 3</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>NUM</code>. 100% lemmas (407) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>895 <a href="">bg-pos/ADJ</a> tokens (7% of all <code>ADJ</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>NumType</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (895; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (895; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (895; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (836; 93%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (712; 80%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (663; 74%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Ord</code> (895; 100% of non-empty <code>NumType</code>): <em>2001, 2000, първата, първите, 1, втори, първи, 1998, II, втора</em></li>
+  <li><code>EMPTY</code> (12694): <em>други, народното, българската, нова, другите, нови, европейската, последните, друг, цялата</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 100% lemmas (163) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>516 <a href="">bg-pos/ADV</a> tokens (8% of all <code>ADV</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>NumType</code> co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (400; 78%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (396; 77%).</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (516; 100% of non-empty <code>NumType</code>): <em>много, повече, толкова, повечето, малко, колко, колкото, по-малко, най-много, доколкото</em></li>
+  <li><code>EMPTY</code> (6042): <em>още, вчера, само, вече, когато, защото, обаче, сега, как, така</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-numtype">Relations with Agreement in <code>NumType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>NumType</code>:
+<tt>NUM –[<a href="../dep/mwe.html">mwe</a>]–&gt; NUM</tt> (52; 100%),
+<tt>NUM –[<a href="../dep/conj.html">conj</a>]–&gt; NUM</tt> (35; 100%),
+<tt>NUM –[<a href="../dep/nmod.html">nmod</a>]–&gt; NUM</tt> (34; 100%),
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (13; 87%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
