@@ -112,6 +112,93 @@ they mark the beginning of a <a href="en-dep/acl:relcl">relative clause</a>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This feature is universal.
+It occurs with 5 different values: <code>Art</code>, <code>Dem</code>, <code>Int</code>, <code>Prs</code>, <code>Rel</code>.</p>
+
+<p>41363 tokens (16%) have a non-empty value of <code>PronType</code>.
+129 types (1%) occur at least once with a non-empty value of <code>PronType</code>.
+53 lemmas (0%) occur at least once with a non-empty value of <code>PronType</code>.
+The feature is used with 3 part-of-speech tags: <a href="">en-pos/PRON</a> (20569; 8% instances), <a href="">en-pos/DET</a> (18952; 7% instances), <a href="">en-pos/ADV</a> (1842; 1% instances).</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>20569 <a href="">en-pos/PRON</a> tokens (97% of all <code>PRON</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>PronType</code> co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (16915; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (15754; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (11904; 58%), <tt><a href="Case.html">Case</a>=Nom</tt> (11774; 57%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Art</code> (1; 0% of non-empty <code>PronType</code>): <em>The</em></li>
+  <li><code>Dem</code> (964; 5% of non-empty <code>PronType</code>): <em>this, that, those, these</em></li>
+  <li><code>Int</code> (621; 3% of non-empty <code>PronType</code>): <em>what, who, whom, whatever, whose, who’s, Wtf, ever, waht, whoever</em></li>
+  <li><code>Prs</code> (18621; 91% of non-empty <code>PronType</code>): <em>i, you, it, they, my, we, he, your, me, their</em></li>
+  <li><code>Rel</code> (362; 2% of non-empty <code>PronType</code>): <em>who, whom, what, whose</em></li>
+  <li><code>EMPTY</code> (659): <em>there, one, mine, you, ‘s, it’s, u, Yo, the, s</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>what</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>what</em></td><td><em>what</em></td></tr>
+</table>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>18952 <a href="">en-pos/DET</a> tokens (90% of all <code>DET</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>PronType</code> co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (11016; 58%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Art</code> (16362; 86% of non-empty <code>PronType</code>): <em>the, a, an</em></li>
+  <li><code>Dem</code> (1453; 8% of non-empty <code>PronType</code>): <em>this, that, these, those</em></li>
+  <li><code>Int</code> (213; 1% of non-empty <code>PronType</code>): <em>which, what, whatever</em></li>
+  <li><code>Rel</code> (924; 5% of non-empty <code>PronType</code>): <em>that, which, what, whhich</em></li>
+  <li><code>EMPTY</code> (2172): <em>all, some, any, no, another, every, each, both, such, quite</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>that</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>that</em></td><td><em>that</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>that</em></td></tr>
+</table>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>1842 <a href="">en-pos/ADV</a> tokens (14% of all <code>ADV</code> tokens) have a non-empty value of <code>PronType</code>.</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>PronType</code>:</p>
+
+<ul>
+  <li><code>Dem</code> (775; 42% of non-empty <code>PronType</code>): <em>there, then, here, that</em></li>
+  <li><code>Int</code> (957; 52% of non-empty <code>PronType</code>): <em>when, how, why, where, whenever, ever, wherever, however, were, y</em></li>
+  <li><code>Rel</code> (110; 6% of non-empty <code>PronType</code>): <em>where, that, when, why, how, were, wherein</em></li>
+  <li><code>EMPTY</code> (11200): <em>so, just, very, also, now, even, only, as, back, well</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>when</em></td><td><em>when</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-prontype">Relations with Agreement in <code>PronType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>PronType</code>:
+<tt>PRON –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (27; 93%),
+<tt>PRON –[<a href="../dep/nmod:npmod.html">nmod:npmod</a>]–&gt; PRON</tt> (3; 100%),
+<tt>ADV –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (3; 100%),
+<tt>PRON –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; PRON</tt> (1; 100%),
+<tt>PRON –[<a href="../dep/remnant.html">remnant</a>]–&gt; PRON</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

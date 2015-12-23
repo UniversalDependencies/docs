@@ -87,6 +87,87 @@
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>1</code>, <code>2</code>, <code>3</code>.</p>
+
+<p>26169 tokens (10%) have a non-empty value of <code>Person</code>.
+545 types (3%) occur at least once with a non-empty value of <code>Person</code>.
+451 lemmas (3%) occur at least once with a non-empty value of <code>Person</code>.
+The feature is used with 3 part-of-speech tags: <a href="">en-pos/PRON</a> (18621; 7% instances), <a href="">en-pos/VERB</a> (5680; 2% instances), <a href="">en-pos/AUX</a> (1868; 1% instances).</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>18621 <a href="">en-pos/PRON</a> tokens (88% of all <code>PRON</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Person</code> co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (18621; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (14981; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13806; 74%), <tt><a href="Case.html">Case</a>=Nom</tt> (11774; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (11043; 59%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (7940; 43% of non-empty <code>Person</code>): <em>i, my, we, me, our, us, myself, ourselves</em></li>
+  <li><code>2</code> (3606; 19% of non-empty <code>Person</code>): <em>you, your, yourself, yourselves</em></li>
+  <li><code>3</code> (7075; 38% of non-empty <code>Person</code>): <em>it, they, he, their, his, them, him, she, her, its</em></li>
+  <li><code>EMPTY</code> (2607): <em>this, what, there, who, that, those, these, one, mine, whom</em></li>
+</ul>
+
+<p><code>Person</code> seems to be <strong>lexical feature</strong> of <code>PRON</code>. 100% lemmas (19) occur only with one value of <code>Person</code>.</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>5680 <a href="">en-pos/VERB</a> tokens (17% of all <code>VERB</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Person</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5680; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5680; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5680; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4715; 83%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (162; 3% of non-empty <code>Person</code>): <em>am, was</em></li>
+  <li><code>3</code> (5518; 97% of non-empty <code>Person</code>): <em>is, was, ‘s, has, s, says, makes, seems, needs, looks</em></li>
+  <li><code>EMPTY</code> (28398): <em>have, are, be, get, know, had, go, do, want, said</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>was</em></td><td><em>was</em></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>am</em></td><td><em>is, 's, s, ai</em></td></tr>
+</table>
+
+<p><code>Person</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 100% lemmas (432) occur only with one value of <code>Person</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>1868 <a href="">en-pos/AUX</a> tokens (19% of all <code>AUX</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Person</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1868; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1868; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1868; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1362; 73%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (212; 11% of non-empty <code>Person</code>): <em>am, was</em></li>
+  <li><code>3</code> (1656; 89% of non-empty <code>Person</code>): <em>is, has, was, does, ‘s, s, gets, `s</em></li>
+  <li><code>EMPTY</code> (7880): <em>will, can, would, have, do, be, are, could, should, did</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>was</em></td><td><em>was</em></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>am</em></td><td><em>is, 's, s</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-person">Relations with Agreement in <code>Person</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Person</code>:
+<tt>PRON –[<a href="../dep/nmod:npmod.html">nmod:npmod</a>]–&gt; PRON</tt> (3; 100%),
+<tt>PRON –[<a href="../dep/case.html">case</a>]–&gt; VERB</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

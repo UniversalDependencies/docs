@@ -70,6 +70,46 @@ position, they are marked as <code>Nom</code>, while if they appear in object po
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Acc</code>, <code>Nom</code>.</p>
+
+<p>14945 tokens (6%) have a non-empty value of <code>Case</code>.
+43 types (0%) occur at least once with a non-empty value of <code>Case</code>.
+16 lemmas (0%) occur at least once with a non-empty value of <code>Case</code>.
+The feature is used with 1 part-of-speech tags: <a href="">en-pos/PRON</a> (14945; 6% instances).</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>14945 <a href="">en-pos/PRON</a> tokens (70% of all <code>PRON</code> tokens) have a non-empty value of <code>Case</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Case</code> co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (14945; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (14945; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10947; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (9104; 61%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Case</code>:</p>
+
+<ul>
+  <li><code>Acc</code> (3171; 21% of non-empty <code>Case</code>): <em>me, it, you, them, him, us, her, yourself, myself, themselves</em></li>
+  <li><code>Nom</code> (11774; 79% of non-empty <code>Case</code>): <em>i, you, it, they, we, he, she</em></li>
+  <li><code>EMPTY</code> (6283): <em>my, your, this, what, their, there, his, our, who, that</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>I</em></td><td><em>me</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-case">Relations with Agreement in <code>Case</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Case</code>:
+<tt>PRON –[<a href="../dep/conj.html">conj</a>]–&gt; PRON</tt> (20; 87%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

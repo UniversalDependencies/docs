@@ -61,6 +61,75 @@ nummod($, 40)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.</p>
+
+<p>3092 nodes (1%) are attached to their parents as <code>nummod</code>.</p>
+
+<p>2147 instances of <code>nummod</code> (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49676584734799.</p>
+
+<p>The following 26 pairs of parts of speech are connected with <code>nummod</code>: <a href="">en-pos/NOUN</a>-<a href="">en-pos/NUM</a> (1966; 64% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/NUM</a> (531; 17% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/NUM</a> (301; 10% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/NUM</a> (91; 3% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/X</a> (56; 2% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/NOUN</a> (34; 1% instances), <a href="">en-pos/PUNCT</a>-<a href="">en-pos/X</a> (32; 1% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/NOUN</a> (16; 1% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/X</a> (13; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/X</a> (11; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/DET</a> (8; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADV</a> (6; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/X</a> (6; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/NUM</a> (4; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADJ</a> (4; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/PROPN</a> (2; 0% instances), <a href="">en-pos/X</a>-<a href="">en-pos/X</a> (2; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/NOUN</a> (1; 0% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/X</a> (1; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/SYM</a> (1; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/ADV</a> (1; 0% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/NUM</a> (1; 0% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/ADJ</a> (1; 0% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/SYM</a> (1; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/NUM</a> (1; 0% instances), <a href="">en-pos/X</a>-<a href="">en-pos/NOUN</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	Four	four	NUM	CD	NumType=Card	2	nummod	_	_
+2	months	month	NOUN	NNS	Number=Plur	3	nmod:npmod	_	_
+3	later	later	ADV	RB	_	7	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubjpass	_	_
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	auxpass	_	_
+7	married	marry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nummod	color:blue
+1	Darin	Darin	PROPN	NNP	Number=Sing	2	name	_	_
+2	Fisher	Fisher	PROPN	NNP	Number=Sing	3	nsubj	_	_
+3	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	_
+5	response	response	NOUN	NN	Number=Sing	3	dobj	_	_
+6	on	on	ADP	IN	_	7	case	_	_
+7	January	January	PROPN	NNP	Number=Sing	3	nmod	_	_
+8	25	25	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	7	punct	_	_
+10	2005	2005	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+11	:	:	PUNCT	:	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nummod	color:blue
+1	$	$	SYM	$	_	0	root	_	SpaceAfter=No
+2	5250	5250	NUM	CD	NumType=Card	1	nummod	_	_
+3	Deposited	deposit	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	_
+4	Directly	directly	ADV	RB	_	3	advmod	_	_
+5	to	to	ADP	IN	_	8	case	_	_
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+7	PayPal	PayPal	PROPN	NNP	Number=Sing	8	compound	_	_
+8	account	account	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	.	_	1	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

@@ -52,6 +52,80 @@ dobj(gave, raise)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.</p>
+
+<p>12450 nodes (5%) are attached to their parents as <code>dobj</code>.</p>
+
+<p>11976 instances of <code>dobj</code> (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21654618473896.</p>
+
+<p>The following 31 pairs of parts of speech are connected with <code>dobj</code>: <a href="">en-pos/VERB</a>-<a href="">en-pos/NOUN</a> (8716; 70% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/PRON</a> (2317; 19% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/PROPN</a> (671; 5% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/DET</a> (300; 2% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/ADJ</a> (170; 1% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/NUM</a> (103; 1% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/SYM</a> (65; 1% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/NOUN</a> (20; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/VERB</a> (20; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/DET</a> (11; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/ADV</a> (11; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/PRON</a> (10; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/X</a> (9; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/NOUN</a> (4; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/INTJ</a> (3; 0% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/ADV</a> (2; 0% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/NOUN</a> (2; 0% instances), <a href="">en-pos/AUX</a>-<a href="">en-pos/NOUN</a> (2; 0% instances), <a href="">en-pos/SCONJ</a>-<a href="">en-pos/PRON</a> (2; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/ADJ</a> (1; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/NUM</a> (1; 0% instances), <a href="">en-pos/ADP</a>-<a href="">en-pos/NOUN</a> (1; 0% instances), <a href="">en-pos/AUX</a>-<a href="">en-pos/DET</a> (1; 0% instances), <a href="">en-pos/AUX</a>-<a href="">en-pos/PRON</a> (1; 0% instances), <a href="">en-pos/AUX</a>-<a href="">en-pos/VERB</a> (1; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/DET</a> (1; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/PRON</a> (1; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/ADV</a> (1; 0% instances), <a href="">en-pos/SCONJ</a>-<a href="">en-pos/NOUN</a> (1; 0% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/NUM</a> (1; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/ADP</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 dobj	color:blue
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	article	article	NOUN	NN	Number=Sing	1	dobj	_	SpaceAfter=No
+5	;	;	PUNCT	,	_	1	punct	_	_
+6	there	there	PRON	EX	_	7	expl	_	SpaceAfter=No
+7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	punchline	punchline	NOUN	NN	Number=Sing	7	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	7	punct	_	_
+11	too	too	ADV	RB	_	7	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 dobj	color:blue
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	overstating	overstate	VERB	VBG	VerbForm=Ger	7	ccomp	_	_
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	dobj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 dobj	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	to	to	PART	TO	_	4	mark	_	_
+4	use	use	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	_
+6	opportunity	opportunity	NOUN	NN	Number=Sing	4	dobj	_	_
+7	to	to	PART	TO	_	8	mark	_	_
+8	welcome	welcome	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+9	Brian	Brian	PROPN	NNP	Number=Sing	10	name	_	_
+10	Ryner	Ryner	PROPN	NNP	Number=Sing	8	dobj	_	_
+11	to	to	ADP	IN	_	12	case	_	_
+12	Google	Google	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	.	_	2	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

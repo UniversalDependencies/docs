@@ -56,6 +56,62 @@ root(ROOT, man)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.</p>
+
+<p>16622 nodes (7%) are attached to their parents as <code>root</code>.</p>
+
+<p>16622 instances of <code>root</code> (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.48477920827819.</p>
+
+<p>The following 15 pairs of parts of speech are connected with <code>root</code>: <a href="">en-pos/ROOT</a>-<a href="">en-pos/VERB</a> (9353; 56% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/NOUN</a> (2791; 17% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/ADJ</a> (1680; 10% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/PROPN</a> (1420; 9% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/NUM</a> (423; 3% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/ADV</a> (251; 2% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/X</a> (238; 1% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/INTJ</a> (128; 1% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/SYM</a> (107; 1% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/PRON</a> (93; 1% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/PUNCT</a> (85; 1% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/DET</a> (29; 0% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/AUX</a> (16; 0% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/PART</a> (6; 0% instances), <a href="">en-pos/ROOT</a>-<a href="">en-pos/CONJ</a> (2; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	From	from	ADP	IN	_	3	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+3	AP	AP	PROPN	NNP	Number=Sing	4	nmod	_	_
+4	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	_
+6	story	story	NOUN	NN	Number=Sing	4	nsubj	_	_
+7	:	:	PUNCT	:	_	4	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	Excerpt	excerpt	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	:	_	1	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	folks	folks	NOUN	UH	_	3	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

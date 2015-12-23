@@ -71,6 +71,77 @@ nsubj(honest, you)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.
+There are 1 language-specific subtypes of <code>acl</code>: <a href="">acl:relcl</a>.</p>
+
+<p>1817 nodes (1%) are attached to their parents as <code>acl</code>.</p>
+
+<p>1800 instances of <code>acl</code> (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.82168409466153.</p>
+
+<p>The following 20 pairs of parts of speech are connected with <code>acl</code>: <a href="">en-pos/NOUN</a>-<a href="">en-pos/VERB</a> (1658; 91% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/VERB</a> (50; 3% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADJ</a> (30; 2% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/NOUN</a> (23; 1% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/VERB</a> (16; 1% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADV</a> (9; 0% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/VERB</a> (5; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/VERB</a> (4; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/VERB</a> (4; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADP</a> (3; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/PROPN</a> (3; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/NOUN</a> (3; 0% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/VERB</a> (2; 0% instances), <a href="">en-pos/ADP</a>-<a href="">en-pos/NOUN</a> (1; 0% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/VERB</a> (1; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/PRON</a> (1; 0% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/ADJ</a> (1; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/NOUN</a> (1; 0% instances), <a href="">en-pos/SCONJ</a>-<a href="">en-pos/VERB</a> (1; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/ADJ</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 acl	color:blue
+1	Any	any	DET	DT	_	2	det	_	_
+2	opinions	opinion	NOUN	NNS	Number=Plur	7	nsubj	_	_
+3	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+4	herein	herein	ADV	RB	_	3	advmod	_	_
+5	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	solely	solely	ADV	RB	_	7	advmod	_	_
+7	those	those	PRON	DT	Number=Plur|PronType=Dem	0	root	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	author	author	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl	color:blue
+1	Umar	Umar	PROPN	NNP	Number=Sing	2	compound	_	_
+2	Islam	Islam	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	28	28	NUM	CD	NumType=Card	2	list	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	(	(	PUNCT	-LRB-	_	7	punct	_	SpaceAfter=No
+7	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
+8	Brian	Brian	PROPN	NNP	Number=Sing	9	name	_	_
+9	Young	Young	PROPN	NNP	Number=Sing	7	xcomp	_	SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	7	punct	_	_
+11	High	High	PROPN	NNP	Number=Sing	12	compound	_	_
+12	Wycombe	Wycombe	PROPN	NNP	Number=Sing	2	list	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 acl	color:blue
+1	Original	original	ADJ	JJ	Degree=Pos	3	amod	_	_
+2	Margin	margin	NOUN	NN	Number=Sing	3	compound	_	_
+3	Call	call	NOUN	NN	Number=Sing	0	root	_	_
+4	Margin	margin	NOUN	NN	Number=Sing	3	parataxis	_	_
+5	Due	due	ADJ	JJ	Degree=Pos	4	acl	_	_
+6	Today	today	NOUN	NN	Number=Sing	4	nmod:tmod	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

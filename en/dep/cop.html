@@ -151,6 +151,75 @@ case(field, in)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.</p>
+
+<p>5608 nodes (2%) are attached to their parents as <code>cop</code>.</p>
+
+<p>5365 instances of <code>cop</code> (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16422967189729.</p>
+
+<p>The following 13 pairs of parts of speech are connected with <code>cop</code>: <a href="">en-pos/ADJ</a>-<a href="">en-pos/VERB</a> (2804; 50% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/VERB</a> (1997; 36% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/VERB</a> (286; 5% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/VERB</a> (187; 3% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/VERB</a> (133; 2% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/VERB</a> (92; 2% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/VERB</a> (35; 1% instances), <a href="">en-pos/SYM</a>-<a href="">en-pos/VERB</a> (23; 0% instances), <a href="">en-pos/DET</a>-<a href="">en-pos/VERB</a> (22; 0% instances), <a href="">en-pos/ADP</a>-<a href="">en-pos/VERB</a> (17; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/AUX</a> (5; 0% instances), <a href="">en-pos/X</a>-<a href="">en-pos/VERB</a> (5; 0% instances), <a href="">en-pos/INTJ</a>-<a href="">en-pos/VERB</a> (2; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cop	color:blue
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	folks	folks	NOUN	UH	_	3	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 cop	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+3	on	on	ADP	IN	_	5	case	_	_
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	way	way	NOUN	NN	Number=Sing	0	root	_	_
+6	to	to	ADP	IN	_	8	case	_	_
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	wedding	wedding	NOUN	NN	Number=Sing	5	nmod	_	_
+9	fearing	fear	VERB	VBG	VerbForm=Ger	1	acl	_	_
+10	death	death	NOUN	NN	Number=Sing	9	dobj	_	SpaceAfter=No
+11	,	,	PUNCT	,	_	9	punct	_	_
+12	basically	basically	ADV	RB	_	9	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+14	"	"	PUNCT	''	_	5	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cop	color:blue
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	SpaceAfter=No
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+4	excerpt	excerpt	NOUN	NN	Number=Sing	1	nsubj	_	_
+5	from	from	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	article	article	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	:	_	1	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

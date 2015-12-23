@@ -61,6 +61,68 @@ neg(accidents, no)
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This relation is universal.</p>
+
+<p>2630 nodes (1%) are attached to their parents as <code>neg</code>.</p>
+
+<p>2557 instances of <code>neg</code> (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3574144486692.</p>
+
+<p>The following 29 pairs of parts of speech are connected with <code>neg</code>: <a href="">en-pos/VERB</a>-<a href="">en-pos/PART</a> (1468; 56% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/DET</a> (308; 12% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/PART</a> (216; 8% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/ADV</a> (193; 7% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/PART</a> (147; 6% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/ADV</a> (73; 3% instances), <a href="">en-pos/ADV</a>-<a href="">en-pos/PART</a> (59; 2% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/ADV</a> (50; 2% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/ADV</a> (42; 2% instances), <a href="">en-pos/AUX</a>-<a href="">en-pos/PART</a> (12; 0% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/PART</a> (11; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/PART</a> (10; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/ADV</a> (8; 0% instances), <a href="">en-pos/DET</a>-<a href="">en-pos/ADV</a> (5; 0% instances), <a href="">en-pos/DET</a>-<a href="">en-pos/PART</a> (4; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/DET</a> (3; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/ADV</a> (3; 0% instances), <a href="">en-pos/PROPN</a>-<a href="">en-pos/DET</a> (3; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/CONJ</a> (2; 0% instances), <a href="">en-pos/NOUN</a>-<a href="">en-pos/CONJ</a> (2; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/DET</a> (2; 0% instances), <a href="">en-pos/PRON</a>-<a href="">en-pos/ADV</a> (2; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/AUX</a> (1; 0% instances), <a href="">en-pos/ADJ</a>-<a href="">en-pos/X</a> (1; 0% instances), <a href="">en-pos/CONJ</a>-<a href="">en-pos/PART</a> (1; 0% instances), <a href="">en-pos/INTJ</a>-<a href="">en-pos/INTJ</a> (1; 0% instances), <a href="">en-pos/NUM</a>-<a href="">en-pos/PART</a> (1; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/AUX</a> (1; 0% instances), <a href="">en-pos/VERB</a>-<a href="">en-pos/CONJ</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 neg	color:blue
+1	Yet	yet	CONJ	CC	_	5	cc	_	_
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	SpaceAfter=No
+4	n't	not	PART	RB	_	5	neg	_	_
+5	charge	charge	VERB	VB	VerbForm=Inf	0	root	_	_
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	dobj	_	_
+7	for	for	ADP	IN	_	9	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	evacuation	evacuation	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	5	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 neg	color:blue
+1	No	no	DET	DT	_	2	neg	_	_
+2	communications	communication	NOUN	NNS	Number=Plur	0	root	_	_
+3	nothing	nothing	NOUN	NN	Number=Sing	2	conj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 neg	color:blue
+1	those	those	DET	DT	Number=Plur|PronType=Dem	2	det	_	_
+2	dogs	dog	NOUN	NNS	Number=Plur	6	nsubj	_	_
+3	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
+4	n't	not	PART	RB	_	6	neg	_	_
+5	even	even	ADV	RB	_	6	advmod	_	_
+6	friendly	friendly	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

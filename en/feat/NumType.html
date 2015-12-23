@@ -78,6 +78,78 @@
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udenglish">Treebank Statistics (UD_English)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>Card</code>, <code>Mult</code>, <code>Ord</code>.</p>
+
+<p>5211 tokens (2%) have a non-empty value of <code>NumType</code>.
+1293 types (7%) occur at least once with a non-empty value of <code>NumType</code>.
+1265 lemmas (8%) occur at least once with a non-empty value of <code>NumType</code>.
+The feature is used with 3 part-of-speech tags: <a href="">en-pos/NUM</a> (4912; 2% instances), <a href="">en-pos/ADJ</a> (221; 0% instances), <a href="">en-pos/ADV</a> (78; 0% instances).</p>
+
+<h3 id="num"><code>NUM</code></h3>
+
+<p>4912 <a href="">en-pos/NUM</a> tokens (100% of all <code>NUM</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p><code>NUM</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Card</code> (4912; 100% of non-empty <code>NumType</code>): <em>one, two, 2, 3, 5, 1, 10, 4, three, 20</em></li>
+  <li><code>EMPTY</code> (1): <em>9/11</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>NUM</code>. 100% lemmas (1241) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>221 <a href="">en-pos/ADJ</a> tokens (1% of all <code>ADJ</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>NumType</code> co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (221; 100%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Ord</code> (221; 100% of non-empty <code>NumType</code>): <em>first, second, third, 5th, fourth, 19th, 2nd, 1st, 20th, 21st</em></li>
+  <li><code>EMPTY</code> (15736): <em>good, great, other, best, new, many, more, last, same, few</em></li>
+</ul>
+
+<p><code>NumType</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 100% lemmas (22) occur only with one value of <code>NumType</code>.</p>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>78 <a href="">en-pos/ADV</a> tokens (1% of all <code>ADV</code> tokens) have a non-empty value of <code>NumType</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADV</code> and <code>NumType</code> co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (78; 100%).</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>NumType</code>:</p>
+
+<ul>
+  <li><code>Mult</code> (77; 99% of non-empty <code>NumType</code>): <em>once, twice</em></li>
+  <li><code>Ord</code> (1; 1% of non-empty <code>NumType</code>): <em>first</em></li>
+  <li><code>EMPTY</code> (12964): <em>so, just, when, very, also, how, now, even, there, then</em></li>
+</ul>
+
+<h2 id="relations-with-agreement-in-numtype">Relations with Agreement in <code>NumType</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>NumType</code>:
+<tt>NUM –[<a href="../dep/compound.html">compound</a>]–&gt; NUM</tt> (138; 100%),
+<tt>NUM –[<a href="../dep/nmod.html">nmod</a>]–&gt; NUM</tt> (126; 100%),
+<tt>NUM –[<a href="../dep/nummod.html">nummod</a>]–&gt; NUM</tt> (91; 100%),
+<tt>NUM –[<a href="../dep/conj.html">conj</a>]–&gt; NUM</tt> (61; 100%),
+<tt>NUM –[<a href="../dep/nmod:tmod.html">nmod:tmod</a>]–&gt; NUM</tt> (9; 100%),
+<tt>NUM –[<a href="../dep/remnant.html">remnant</a>]–&gt; NUM</tt> (6; 100%),
+<tt>NUM –[<a href="../dep/appos.html">appos</a>]–&gt; NUM</tt> (5; 100%),
+<tt>ADV –[<a href="../dep/conj.html">conj</a>]–&gt; ADV</tt> (2; 100%),
+<tt>NUM –[<a href="../dep/case.html">case</a>]–&gt; NUM</tt> (2; 100%),
+<tt>ADV –[<a href="../dep/parataxis.html">parataxis</a>]–&gt; ADV</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
