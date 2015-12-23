@@ -48,6 +48,85 @@ for <code>Degree</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-uddanish">Treebank Statistics (UD_Danish)</h2>
+
+<p>This feature is universal.
+It occurs with 4 different values: <code>Abs</code>, <code>Cmp</code>, <code>Pos</code>, <code>Sup</code>.</p>
+
+<p>8032 tokens (8%) have a non-empty value of <code>Degree</code>.
+2580 types (14%) occur at least once with a non-empty value of <code>Degree</code>.
+1872 lemmas (14%) occur at least once with a non-empty value of <code>Degree</code>.
+The feature is used with 2 part-of-speech tags: <a href="">da-pos/ADJ</a> (6422; 6% instances), <a href="">da-pos/ADV</a> (1610; 2% instances).</p>
+
+<h3 id="adj"><code>ADJ</code></h3>
+
+<p>6422 <a href="">da-pos/ADJ</a> tokens (98% of all <code>ADJ</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p>The most frequent other feature values with which <code>ADJ</code> and <code>Degree</code> co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4811; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (3531; 55%).</p>
+
+<p><code>ADJ</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Abs</code> (2; 0% of non-empty <code>Degree</code>): <em>allerinderst, allerstørste</em></li>
+  <li><code>Cmp</code> (381; 6% of non-empty <code>Degree</code>): <em>flere, større, bedre, tidligere, mere, mindre, højere, ældre, længere, kortere</em></li>
+  <li><code>Pos</code> (5832; 91% of non-empty <code>Degree</code>): <em>samme, første, alle, sidste, mange, danske, store, hele, nye, fælles</em></li>
+  <li><code>Sup</code> (207; 3% of non-empty <code>Degree</code>): <em>fleste, bedste, største, seneste, ny, mindre, mindste, øverste, meste, nyeste</em></li>
+  <li><code>EMPTY</code> (149): <em>1., anden, 2., tredje, 3., andet, 12., 17., fjerde, 10.</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>stor</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th><th><tt>Abs</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>større</em></td><td><em>STØRST</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td></td><td><em>største</em></td><td><em>allerstørste</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>store</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Com|<a href="Number.html">Number</a>=Sing</tt></td><td><em>stor</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>stort</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>store</em></td><td></td><td></td><td></td></tr>
+</table>
+
+<p><code>Degree</code> seems to be <strong>lexical feature</strong> of <code>ADJ</code>. 96% lemmas (1471) occur only with one value of <code>Degree</code>.</p>
+
+<h3 id="adv"><code>ADV</code></h3>
+
+<p>1610 <a href="">da-pos/ADV</a> tokens (19% of all <code>ADV</code> tokens) have a non-empty value of <code>Degree</code>.</p>
+
+<p><code>ADV</code> tokens may have the following values of <code>Degree</code>:</p>
+
+<ul>
+  <li><code>Abs</code> (3; 0% of non-empty <code>Degree</code>): <em>allerhelst, allermindst, alleryderst</em></li>
+  <li><code>Cmp</code> (204; 13% of non-empty <code>Degree</code>): <em>mere, længere, senere, tidligere, mindre, yderligere, bedre, hurtigere, nærmere, højere</em></li>
+  <li><code>Pos</code> (1299; 81% of non-empty <code>Degree</code>): <em>meget, helt, godt, lidt, langt, faktisk, længe, ofte, hurtigt, umiddelbart</em></li>
+  <li><code>Sup</code> (104; 6% of non-empty <code>Degree</code>): <em>mest, mindst, senest, nærmest, bedst, længst, oftest, venligst, hurtigst, hårdest</em></li>
+  <li><code>EMPTY</code> (6770): <em>ikke, der, så, også, hvor, nu, ud, op, ind, her</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>længe</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>længe</em></td><td><em>længere</em></td><td><em>længst</em></td></tr>
+</table>
+
+<p><code>Degree</code> seems to be <strong>lexical feature</strong> of <code>ADV</code>. 100% lemmas (419) occur only with one value of <code>Degree</code>.</p>
+
+<h2 id="relations-with-agreement-in-degree">Relations with Agreement in <code>Degree</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Degree</code>:
+<tt>ADJ –[<a href="../dep/conj.html">conj</a>]–&gt; ADJ</tt> (182; 94%),
+<tt>ADJ –[<a href="../dep/amod.html">amod</a>]–&gt; ADJ</tt> (79; 81%),
+<tt>ADV –[<a href="../dep/conj.html">conj</a>]–&gt; ADV</tt> (30; 91%),
+<tt>ADJ –[<a href="../dep/nsubj.html">nsubj</a>]–&gt; ADJ</tt> (7; 88%),
+<tt>ADJ –[<a href="../dep/nmod.html">nmod</a>]–&gt; ADJ</tt> (4; 57%),
+<tt>ADV –[<a href="../dep/mwe.html">mwe</a>]–&gt; ADV</tt> (2; 100%),
+<tt>ADJ –[<a href="../dep/acl:relcl.html">acl:relcl</a>]–&gt; ADJ</tt> (1; 100%),
+<tt>ADJ –[<a href="../dep/name.html">name</a>]–&gt; ADJ</tt> (1; 100%),
+<tt>ADJ –[<a href="../dep/cc.html">cc</a>]–&gt; ADJ</tt> (1; 100%),
+<tt>ADJ –[<a href="../dep/advmod.html">advmod</a>]–&gt; ADJ</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

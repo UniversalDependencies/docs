@@ -48,6 +48,69 @@ for <code>Person</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-uddanish">Treebank Statistics (UD_Danish)</h2>
+
+<p>This feature is universal.
+It occurs with 3 different values: <code>1</code>, <code>2</code>, <code>3</code>.</p>
+
+<p>5598 tokens (6%) have a non-empty value of <code>Person</code>.
+66 types (0%) occur at least once with a non-empty value of <code>Person</code>.
+22 lemmas (0%) occur at least once with a non-empty value of <code>Person</code>.
+The feature is used with 2 part-of-speech tags: <a href="">da-pos/PRON</a> (4799; 5% instances), <a href="">da-pos/DET</a> (799; 1% instances).</p>
+
+<h3 id="pron"><code>PRON</code></h3>
+
+<p>4799 <a href="">da-pos/PRON</a> tokens (71% of all <code>PRON</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>PRON</code> and <code>Person</code> co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4799; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4799; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3395; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2727; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (2484; 52%).</p>
+
+<p><code>PRON</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (1246; 26% of non-empty <code>Person</code>): <em>jeg, vi, mig, os, min, vore</em></li>
+  <li><code>2</code> (232; 5% of non-empty <code>Person</code>): <em>du, dig, De, I, Dem, jer, Deres</em></li>
+  <li><code>3</code> (3321; 69% of non-empty <code>Person</code>): <em>det, han, de, sig, hun, den, ham, dem, hende, dét</em></li>
+  <li><code>EMPTY</code> (1984): <em>der, man, som, hvad, noget, selv, en, andre, hver, andet</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>de</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dem</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Com|<a href="Polite.html">Polite</a>=Pol</tt></td><td><em>De</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>de</em></td></tr>
+</table>
+
+<p><code>Person</code> seems to be <strong>lexical feature</strong> of <code>PRON</code>. 94% lemmas (17) occur only with one value of <code>Person</code>.</p>
+
+<h3 id="det"><code>DET</code></h3>
+
+<p>799 <a href="">da-pos/DET</a> tokens (14% of all <code>DET</code> tokens) have a non-empty value of <code>Person</code>.</p>
+
+<p>The most frequent other feature values with which <code>DET</code> and <code>Person</code> co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (799; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (799; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (603; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (417; 52%).</p>
+
+<p><code>DET</code> tokens may have the following values of <code>Person</code>:</p>
+
+<ul>
+  <li><code>1</code> (196; 25% of non-empty <code>Person</code>): <em>min, vores, mit, vore, mine, vor, vort</em></li>
+  <li><code>2</code> (35; 4% of non-empty <code>Person</code>): <em>din, Deres, dit, jeres, dine</em></li>
+  <li><code>3</code> (568; 71% of non-empty <code>Person</code>): <em>sin, deres, hans, sit, hendes, sine, dets, dens</em></li>
+  <li><code>EMPTY</code> (4721): <em>en, den, de, et, det, andre, denne, nogle, ingen, anden</em></li>
+</ul>
+
+<p><code>Person</code> seems to be <strong>lexical feature</strong> of <code>DET</code>. 100% lemmas (11) occur only with one value of <code>Person</code>.</p>
+
+<h2 id="relations-with-agreement-in-person">Relations with Agreement in <code>Person</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Person</code>:
+<tt>PRON –[<a href="../dep/appos.html">appos</a>]–&gt; PRON</tt> (1; 100%),
+<tt>PRON –[<a href="../dep/reparandum.html">reparandum</a>]–&gt; PRON</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

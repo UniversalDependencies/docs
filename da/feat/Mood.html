@@ -48,6 +48,74 @@ for <code>Mood</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-uddanish">Treebank Statistics (UD_Danish)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Imp</code>, <code>Ind</code>.</p>
+
+<p>10178 tokens (10%) have a non-empty value of <code>Mood</code>.
+1516 types (8%) occur at least once with a non-empty value of <code>Mood</code>.
+918 lemmas (7%) occur at least once with a non-empty value of <code>Mood</code>.
+The feature is used with 2 part-of-speech tags: <a href="">da-pos/VERB</a> (5782; 6% instances), <a href="">da-pos/AUX</a> (4396; 4% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>5782 <a href="">da-pos/VERB</a> tokens (54% of all <code>VERB</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5782; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5782; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5782; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5342; 92%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3687; 64%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (167; 3% of non-empty <code>Mood</code>): <em>lad, rør, se, skær, brug, hold, hæld, steg, prøv, Bland</em></li>
+  <li><code>Ind</code> (5615; 97% of non-empty <code>Mood</code>): <em>er, har, siger, var, får, fik, sagde, kommer, går, havde</em></li>
+  <li><code>EMPTY</code> (4929): <em>få, gå, se, have, fået, komme, være, gøre, tage, været</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>få</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>fik</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>får</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>fås</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Få</em></td></tr>
+</table>
+
+<p><code>Mood</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 94% lemmas (858) occur only with one value of <code>Mood</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>4396 <a href="">da-pos/AUX</a> tokens (89% of all <code>AUX</code> tokens) have a non-empty value of <code>Mood</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Mood</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4396; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4395; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3311; 75%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Mood</code>:</p>
+
+<ul>
+  <li><code>Imp</code> (1; 0% of non-empty <code>Mood</code>): <em>Bliv</em></li>
+  <li><code>Ind</code> (4395; 100% of non-empty <code>Mood</code>): <em>er, har, kan, var, skal, vil, blev, kunne, havde, bliver</em></li>
+  <li><code>EMPTY</code> (521): <em>være, været, blevet, blive, have, kunne, kunnet, måttet, skulle, turde</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>blive</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>blev</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>bliver, bli'r</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Bliv</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-mood">Relations with Agreement in <code>Mood</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Mood</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (549; 68%),
+<tt>VERB –[<a href="../dep/cop.html">cop</a>]–&gt; AUX</tt> (1; 100%),
+<tt>VERB –[<a href="../dep/nmod:loc.html">nmod:loc</a>]–&gt; VERB</tt> (1; 100%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
