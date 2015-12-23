@@ -138,6 +138,70 @@ Tokens with the relation [u-dep/punct]() always attach to content words (except 
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udgreek">Treebank Statistics (UD_Greek)</h2>
+
+<p>This relation is universal.</p>
+
+<p>5979 nodes (10%) are attached to their parents as <code>punct</code>.</p>
+
+<p>4119 instances of <code>punct</code> (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.0264258237163.</p>
+
+<p>The following 11 pairs of parts of speech are connected with <code>punct</code>: <a href="">el-pos/VERB</a>-<a href="">el-pos/PUNCT</a> (3411; 57% instances), <a href="">el-pos/NOUN</a>-<a href="">el-pos/PUNCT</a> (1539; 26% instances), <a href="">el-pos/ADJ</a>-<a href="">el-pos/PUNCT</a> (369; 6% instances), <a href="">el-pos/ADV</a>-<a href="">el-pos/PUNCT</a> (248; 4% instances), <a href="">el-pos/CONJ</a>-<a href="">el-pos/PUNCT</a> (225; 4% instances), <a href="">el-pos/NUM</a>-<a href="">el-pos/PUNCT</a> (64; 1% instances), <a href="">el-pos/PRON</a>-<a href="">el-pos/PUNCT</a> (50; 1% instances), <a href="">el-pos/PUNCT</a>-<a href="">el-pos/PUNCT</a> (44; 1% instances), <a href="">el-pos/ADP</a>-<a href="">el-pos/PUNCT</a> (27; 0% instances), <a href="">el-pos/DET</a>-<a href="">el-pos/PUNCT</a> (1; 0% instances), <a href="">el-pos/NOUN</a>-<a href="">el-pos/NOUN</a> (1; 0% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 punct	color:blue
+1	Πολλοί	πολύς	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	από	από	ADP	ADP	_	3	case	_	_
+3	αυτούς	αυτός	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	1	det	_	_
+4	κινδυνεύουν	κινδυνεύω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+5	να	να	PART	PART	_	7	aux	_	_
+6	μείνουν	μένω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Act	7	cop	_	_
+7	άστεγοι	άστεγος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	4	ccomp	_	_
+8	"	"	PUNCT	PUNCT	_	4	punct	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 punct	color:blue
+1	Ενδεικτικές	ενδεικτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
+2	χιλιομετρικές	χιλιομετρικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
+3	αποστάσεις	απόσταση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 punct	color:blue
+1	Είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	cop	_	_
+2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
+3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
+5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	det	_	_
+6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
+8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
+9	ρόλο	ρόλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	dobj	_	_
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
