@@ -7,9 +7,9 @@
 There are 1 `NUM` lemmas (6%), 1118 `NUM` types (3%) and 7756 `NUM` tokens (3%).
 Out of 16 observed tags, the rank of `NUM` is: 9 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: ___
+The 10 most frequent `NUM` lemmas: _
 
-The 10 most frequent `NUM` types:  _مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤_
+The 10 most frequent `NUM` types:  مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

@@ -7,9 +7,9 @@
 There are 1 `NOUN` lemmas (6%), 15560 `NOUN` types (43%) and 92051 `NOUN` tokens (33%).
 Out of 16 observed tags, the rank of `NOUN` is: 8 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: ___
+The 10 most frequent `NOUN` lemmas: _
 
-The 10 most frequent `NOUN` types:  _مِصرَ, دُولَارٍ, اَلعِرَاقِ, اَليَومَ, جُنَيهٍ, مَجلِسِ, رَئِيسُ, اَلحُكُومَةِ, اَلدُّوَلِ, إِسرَائِيلَ_
+The 10 most frequent `NOUN` types:  مِصرَ, دُولَارٍ, اَلعِرَاقِ, اَليَومَ, جُنَيهٍ, مَجلِسِ, رَئِيسُ, اَلحُكُومَةِ, اَلدُّوَلِ, إِسرَائِيلَ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

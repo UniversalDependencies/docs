@@ -7,9 +7,9 @@
 There are 1 `AUX` lemmas (6%), 4 `AUX` types (0%) and 40 `AUX` tokens (0%).
 Out of 16 observed tags, the rank of `AUX` is: 4 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: ___
+The 10 most frequent `AUX` lemmas: _
 
-The 10 most frequent `AUX` types:  _لَيسَ, لَيسَت, أَلَا, تَعُد_
+The 10 most frequent `AUX` types:  لَيسَ, لَيسَت, أَلَا, تَعُد
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

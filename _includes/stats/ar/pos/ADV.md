@@ -7,9 +7,9 @@
 There are 1 `ADV` lemmas (6%), 20 `ADV` types (0%) and 1044 `ADV` tokens (0%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: ___
+The 10 most frequent `ADV` lemmas: _
 
-The 10 most frequent `ADV` types:  _هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ_
+The 10 most frequent `ADV` types:  هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

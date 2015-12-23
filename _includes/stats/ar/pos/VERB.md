@@ -7,9 +7,9 @@
 There are 1 `VERB` lemmas (6%), 4884 `VERB` types (14%) and 21542 `VERB` tokens (8%).
 Out of 16 observed tags, the rank of `VERB` is: 15 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: ___
+The 10 most frequent `VERB` lemmas: _
 
-The 10 most frequent `VERB` types:  _قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ_
+The 10 most frequent `VERB` types:  قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

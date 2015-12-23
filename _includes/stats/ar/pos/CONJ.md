@@ -7,9 +7,9 @@
 There are 1 `CONJ` lemmas (6%), 48 `CONJ` types (0%) and 23968 `CONJ` tokens (8%).
 Out of 16 observed tags, the rank of `CONJ` is: 5 in number of lemmas, 8 in number of types and 4 in number of tokens.
 
-The 10 most frequent `CONJ` lemmas: ___
+The 10 most frequent `CONJ` lemmas: _
 
-The 10 most frequent `CONJ` types:  _وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ_
+The 10 most frequent `CONJ` types:  وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 

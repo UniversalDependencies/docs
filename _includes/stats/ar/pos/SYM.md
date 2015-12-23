@@ -7,9 +7,9 @@
 There are 1 `SYM` lemmas (6%), 3 `SYM` types (0%) and 384 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: ___
+The 10 most frequent `SYM` lemmas: _
 
-The 10 most frequent `SYM` types:  _%, +, /_
+The 10 most frequent `SYM` types:  %, +, /
 
 The 10 most frequent ambiguous lemmas: _ ([NOUN]() 92051, [ADP]() 41879, [ADJ]() 29221, [CONJ]() 23968, [PUNCT]() 22449, [X]() 22298, [VERB]() 21542, [PRON]() 13867, [NUM]() 7756, [PART]() 3797, [DET]() 1893, [ADV]() 1044, [SYM]() 384, [PROPN]() 187, [AUX]() 40, [INTJ]() 8)
 
