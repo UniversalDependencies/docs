@@ -49,6 +49,66 @@ for <code>compound</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udestonian">Treebank Statistics (UD_Estonian)</h2>
+
+<p>This relation is universal.
+There are 1 language-specific subtypes of <code>compound</code>: <a href="">compound:prt</a>.</p>
+
+<p>17 nodes (0%) are attached to their parents as <code>compound</code>.</p>
+
+<p>13 instances of <code>compound</code> (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.47058823529412.</p>
+
+<p>The following 5 pairs of parts of speech are connected with <code>compound</code>: <a href="">et-pos/NUM</a>-<a href="">et-pos/NUM</a> (7; 41% instances), <a href="">et-pos/VERB</a>-<a href="">et-pos/VERB</a> (7; 41% instances), <a href="">et-pos/ADV</a>-<a href="">et-pos/VERB</a> (1; 6% instances), <a href="">et-pos/AUX</a>-<a href="">et-pos/VERB</a> (1; 6% instances), <a href="">et-pos/VERB</a>-<a href="">et-pos/AUX</a> (1; 6% instances).</p>
+
+<pre><code class="language-conllu"># visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 compound	color:blue
+1	Naised	naine+d	NOUN	n/com,pl,nom,.cap	Case=Nom|Number=Plur	2	nsubj	_	_
+2	tatsasid	tatsa+sid	VERB	v-fin/main,indic,impf,ps3,pl,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	õnneks	õnn+ks	NOUN	n/com,sg,tr	Case=Tra|Number=Sing	2	nmod	_	_
+4	minema	mine+ma	VERB	v-inf/main,sup,ps,ill,.Intr,.ill,.all	Case=All|VerbForm=Sup	2	compound	_	_
+5	.	.	PUNCT	punc/Fst	PunctType=Peri	2	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 compound	color:blue
+1	Kogu	kogu+0	ADJ	adj/pos,%cap	Degree=Pos	2	amod	_	_
+2	projekt	projekt+0	NOUN	n/com,sg,nom	Case=Nom|Number=Sing	3	nsubj	_	_
+3	maksab	maks+b	VERB	v/main,indic,pres,ps3,sg,ps,af	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	200	200+0	NUM	num/card,x?,digit	NumForm=Digit|NumType=Card	6	nummod:gov	_	_
+5	miljoni	miljon+0	NUM	num/card,sg,gen,l	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	4	compound	_	_
+6	krooni	kroon+0	NOUN	n/com,sg,gen	Case=Gen|Number=Sing	3	advmod	_	_
+7	ringis	ringis+0	ADP	prp/post,%gen	AdpType=Post	6	case	_	_
+8	.	--	PUNCT	punc/--	_	3	punct	_	_
+
+</code></pre>
+
+<pre><code class="language-conllu"># visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	Temast	tema+st	PRON	pron-pers/pers,ps3,sg,el,.cap	Case=Ela|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	oli	ole+i	AUX	v-fin/aux,indic,impf,ps3,sg,ps,af,.FinV,.Intr	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	compound	_	_
+3	tilkunud	tilku+nud	VERB	v-pcp2/main,partic,past,ps,.Intr	Tense=Past|VerbForm=Part	0	root	_	_
+4	verd	veri+0	NOUN	n/com,sg,part	Case=Par|Number=Sing	3	nsubj	_	_
+5	.	.	PUNCT	punc/Fst	PunctType=Peri	3	punct	_	_
+
+</code></pre>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 

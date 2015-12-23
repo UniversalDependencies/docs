@@ -48,6 +48,73 @@ for <code>Negative</code>.</p>
 
 
 
+
+<hr />
+
+<h2 id="treebank-statistics-udestonian">Treebank Statistics (UD_Estonian)</h2>
+
+<p>This feature is universal.
+It occurs with 2 different values: <code>Neg</code>, <code>Pos</code>.</p>
+
+<p>1472 tokens (16%) have a non-empty value of <code>Negative</code>.
+537 types (14%) occur at least once with a non-empty value of <code>Negative</code>.
+498 lemmas (14%) occur at least once with a non-empty value of <code>Negative</code>.
+The feature is used with 2 part-of-speech tags: <a href="">et-pos/VERB</a> (1378; 15% instances), <a href="">et-pos/AUX</a> (94; 1% instances).</p>
+
+<h3 id="verb"><code>VERB</code></h3>
+
+<p>1378 <a href="">et-pos/VERB</a> tokens (87% of all <code>VERB</code> tokens) have a non-empty value of <code>Negative</code>.</p>
+
+<p>The most frequent other feature values with which <code>VERB</code> and <code>Negative</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1377; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1367; 99%), <tt><a href="Person.html">Person</a>=3</tt> (1129; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (1099; 80%), <tt><a href="Tense.html">Tense</a>=Imp</tt> (1042; 76%).</p>
+
+<p><code>VERB</code> tokens may have the following values of <code>Negative</code>:</p>
+
+<ul>
+  <li><code>Neg</code> (26; 2% of non-empty <code>Negative</code>): <em>ole, pole, saa, tea, aimagi, jää, kutsutud, lahku, lahkunud, mahu</em></li>
+  <li><code>Pos</code> (1352; 98% of non-empty <code>Negative</code>): <em>liigutas, on, tõukas, viskus, liikus, tatsas, oli, prantsatas, sõidutas, tilkus</em></li>
+  <li><code>EMPTY</code> (212): <em>minema, vaatama, liikunud, otsima, sisenenud, puhkama, võtma, avama, jahtuma, kuivama</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>ole+0</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>ole, pole</em></td></tr>
+</table>
+
+<p><code>Negative</code> seems to be <strong>lexical feature</strong> of <code>VERB</code>. 100% lemmas (486) occur only with one value of <code>Negative</code>.</p>
+
+<h3 id="aux"><code>AUX</code></h3>
+
+<p>94 <a href="">et-pos/AUX</a> tokens (98% of all <code>AUX</code> tokens) have a non-empty value of <code>Negative</code>.</p>
+
+<p>The most frequent other feature values with which <code>AUX</code> and <code>Negative</code> co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (67; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (62; 66%), <tt><a href="Person.html">Person</a>=3</tt> (55; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (52; 55%).</p>
+
+<p><code>AUX</code> tokens may have the following values of <code>Negative</code>:</p>
+
+<ul>
+  <li><code>Neg</code> (33; 35% of non-empty <code>Negative</code>): <em>ei, ole, peaks, pole, saa, saaks, tohtinud</em></li>
+  <li><code>Pos</code> (61; 65% of non-empty <code>Negative</code>): <em>oli, on, olid, pidi, olin, võib, sai, asub, hakkas, jääb</em></li>
+  <li><code>EMPTY</code> (2): <em>hakata, kirjutatud</em></li>
+</ul>
+
+<table>
+  <tr><th>Paradigm <i>ole+0</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>pole, ole</em></td></tr>
+</table>
+
+<h2 id="relations-with-agreement-in-negative">Relations with Agreement in <code>Negative</code></h2>
+
+<p>The 10 most frequent relations where parent and child node agree in <code>Negative</code>:
+<tt>VERB –[<a href="../dep/conj.html">conj</a>]–&gt; VERB</tt> (26; 76%),
+<tt>VERB –[<a href="../dep/neg.html">neg</a>]–&gt; AUX</tt> (22; 81%),
+<tt>VERB –[<a href="../dep/dep.html">dep</a>]–&gt; VERB</tt> (3; 60%).</p>
+
+
+
+
 <!-- "in other languages" links -->
 <hr/>
 
