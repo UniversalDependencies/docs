@@ -581,6 +581,20 @@ collections:
   uk-overview:
     output: true
 #
+# Galician
+#
+  gl-pos:
+    output: true
+    permalink: /gl/pos/:path.html
+  gl-feat:
+    output: true
+    permalink: /gl/feat/:path.html
+  gl-dep:
+    output: true
+    permalink: /gl/dep/:path.html
+  gl-overview:
+    output: true
+#
 # Template
 #
   template-pos:
