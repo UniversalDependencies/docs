@@ -345,6 +345,11 @@
     "lang_name": "French"
   }, 
   {
+    "lang_code": "ga", 
+    "contributors": [], 
+    "lang_name": "Galician"
+  }, 
+  {
     "lang_code": "de", 
     "contributors": [
       {
