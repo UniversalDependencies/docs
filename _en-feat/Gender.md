@@ -4,7 +4,7 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-In English, `Gender` is marked only on 3rd-person personal (pronouns)[en-pos/PRON].
+In English, `Gender` is marked only on 3rd-person personal [pronouns](en-pos/PRON).
 
 ### `Masc`: masculine gender
 
