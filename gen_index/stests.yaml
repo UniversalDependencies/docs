@@ -48,16 +48,6 @@
   desc: The heads of an expl dependency relation.
 
 -
-  name: POS of xcomp
-  expr: _ <xcomp _
-  desc: The parts of speech of xcomp.
-
--
-  name: Dependents of xcomp
-  expr: _ < (_ <xcomp _)
-  desc: The dependents of a word marked as having an xcomp dependency.
-
--
   name: Heads of xcomp
   expr: _ >xcomp _
   desc: The heads of an xcomp dependency relation.
