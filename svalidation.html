@@ -38,9 +38,10 @@
 
           <h1 id="aux-chain">Aux chain</h1>
 
-<p>Auxes should not form a chain, they should all depend on their head word.</p>
+<p>Auxiliary dependencies should not form a chain.</p>
 
-<p>Search expression: <code>_ &lt;aux (_ &lt;aux _)</code></p>
+<p>Search expression: <code>_ &lt;aux (_ &lt;aux _)</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/aux_.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -214,11 +215,12 @@
 </div>
 </div>
 
-<h1 id="name-to-left">Name to left</h1>
+<h1 id="name-is-right-headed">Name is right-headed</h1>
 
-<p>Name should not go left since names are left-headed.</p>
+<p>Name dependencies should be left-headed, not right.</p>
 
-<p>Search expression: <code>_ &lt;name@R _</code></p>
+<p>Search expression: <code>_ &lt;name@R _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -577,11 +579,12 @@
 </div>
 </div>
 
-<h1 id="mwe-to-left">MWE to left</h1>
+<h1 id="mwe-is-right-headed">MWE is right-headed</h1>
 
-<p>Mwe should not go left since mwe’s are left-headed.</p>
+<p>Multi-word expressions should be left-headed, not right.</p>
 
-<p>Search expression: <code>_ &lt;mwe@R _</code></p>
+<p>Search expression: <code>_ &lt;mwe@R _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -881,11 +884,12 @@
 </div>
 </div>
 
-<h1 id="conj-to-left">Conj to left</h1>
+<h1 id="conj-is-right-headed">Conj is right-headed</h1>
 
-<p>Conj should not go left.</p>
+<p>Conjugation dependencies should be left-headed, not right.</p>
 
-<p>Search expression: <code>_ &lt;conj@R _</code></p>
+<p>Search expression: <code>_ &lt;conj@R _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -1575,11 +1579,12 @@
 </div>
 </div>
 
-<h1 id="name-to-right">Name to right</h1>
+<h1 id="name-is-left-headed">Name is left-headed</h1>
 
-<p>This is the correct heading direction for name.</p>
+<p>Correct instances of name dependencies being left-headed.</p>
 
-<p>Search expression: <code>_ &lt;name@L _</code></p>
+<p>Search expression: <code>_ &lt;name@L _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -2191,11 +2196,12 @@
 </div>
 </div>
 
-<h1 id="mwe-to-right">MWE to right</h1>
+<h1 id="mwe-is-left-headed">MWE is left-headed</h1>
 
-<p>This is the correct heading direction for MWE.</p>
+<p>Correct instances of multi-word expressions being left-headed.</p>
 
-<p>Search expression: <code>_ &lt;mwe@L _</code></p>
+<p>Search expression: <code>_ &lt;mwe@L _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -2885,11 +2891,12 @@
 </div>
 </div>
 
-<h1 id="conj-to-right">Conj to right</h1>
+<h1 id="conj-is-left-headed">Conj is left-headed</h1>
 
-<p>This is the correct heading direction for conj.</p>
+<p>Correct instances of conjugation dependencies being left-headed.</p>
 
-<p>Search expression: <code>_ &lt;conj@L _</code></p>
+<p>Search expression: <code>_ &lt;conj@L _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -3865,11 +3872,12 @@
 </div>
 </div>
 
-<h1 id="pos-of-expl">POS of expl</h1>
+<h1 id="parts-of-speech-of-expl">Parts of speech of expl</h1>
 
-<p>The parts of speech of expl.</p>
+<p>The parts of speech of words marked as being expletive dependencies.</p>
 
-<p>Search expression: <code>_ &lt;expl _</code></p>
+<p>Search expression: <code>_ &lt;expl _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4151,9 +4159,10 @@
 
 <h1 id="dependents-of-expl">Dependents of expl</h1>
 
-<p>The dependents of a word marked as having an expl dependency. This should be empty.</p>
+<p>The dependents of a word marked as being an expletive dependency. This should be empty.</p>
 
-<p>Search expression: <code>_ &lt; (_ &lt;expl _)</code></p>
+<p>Search expression: <code>_ &lt; (_ &lt;expl _)</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4277,9 +4286,10 @@
 
 <h1 id="heads-of-expl">Heads of expl</h1>
 
-<p>The heads of an expl dependency relation.</p>
+<p>Parts of speech of words which have an expletive dependency.</p>
 
-<p>Search expression: <code>_ &gt;expl _</code></p>
+<p>Search expression: <code>_ &gt;expl _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4617,9 +4627,10 @@
 
 <h1 id="heads-of-xcomp">Heads of xcomp</h1>
 
-<p>The heads of an xcomp dependency relation.</p>
+<p>Parts of speech of words which have an open clausal complement dependency.</p>
 
-<p>Search expression: <code>_ &gt;xcomp _</code></p>
+<p>Search expression: <code>_ &gt;xcomp _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/xcomp.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -5473,11 +5484,12 @@
 </div>
 </div>
 
-<h1 id="acl-not-dependent-on-nounpropn">Acl not dependent on Noun/Propn</h1>
+<h1 id="acl-not-dependent-on-nounpropn">Acl not dependent on NOUN/PROPN</h1>
 
-<p>Acl relations not governed by a Noun/Propn</p>
+<p>Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.</p>
 
-<p>Search expression: <code>!NOUN&amp;!PROPN &gt;acl _</code></p>
+<p>Search expression: <code>!NOUN&amp;!PROPN &gt;acl _</code>
+<a href="http://universaldependencies.github.io/docs/u/dep/acl.html">Link to documentation</a></p>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
