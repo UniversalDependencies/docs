@@ -7,6 +7,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 Auxiliary dependencies should not form a chain.
 
 Search expression: `_ <aux (_ <aux _)`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/aux_.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -187,6 +188,7 @@ Search expression: `_ <aux (_ <aux _)`
 Name dependencies should be left-headed, not right.
 
 Search expression: `_ <name@R _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -552,6 +554,7 @@ Search expression: `_ <name@R _`
 Multi-word expressions should be left-headed, not right.
 
 Search expression: `_ <mwe@R _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -858,6 +861,7 @@ Search expression: `_ <mwe@R _`
 Conjugation dependencies should be left-headed, not right.
 
 Search expression: `_ <conj@R _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -1554,6 +1558,7 @@ Search expression: `_ <conj@R _`
 Correct instances of name dependencies being left-headed.
 
 Search expression: `_ <name@L _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -2172,6 +2177,7 @@ Search expression: `_ <name@L _`
 Correct instances of multi-word expressions being left-headed.
 
 Search expression: `_ <mwe@L _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -2868,6 +2874,7 @@ Search expression: `_ <mwe@L _`
 Correct instances of conjugation dependencies being left-headed.
 
 Search expression: `_ <conj@L _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -3850,6 +3857,7 @@ Search expression: `_ <conj@L _`
 The parts of speech of words marked as being expletive dependencies.
 
 Search expression: `_ <expl _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -4136,6 +4144,7 @@ Search expression: `_ <expl _`
 The dependents of a word marked as being an expletive dependency. This should be empty.
 
 Search expression: `_ < (_ <expl _)`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -4264,6 +4273,7 @@ Search expression: `_ < (_ <expl _)`
 Parts of speech of words which have an expletive dependency.
 
 Search expression: `_ >expl _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -4606,6 +4616,7 @@ Search expression: `_ >expl _`
 Parts of speech of words which have an open clausal complement dependency.
 
 Search expression: `_ >xcomp _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/xcomp.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -5466,6 +5477,7 @@ Search expression: `_ >xcomp _`
 Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
 
 Search expression: `!NOUN&!PROPN >acl _`
+
 <a href="http://universaldependencies.github.io/docs/u/dep/acl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
