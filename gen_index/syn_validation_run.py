@@ -122,6 +122,8 @@ def main(tests):
         print >> out8
         print >> out8, u"Search expression: `"+t["expr"]+u"`"
         print >> out8
+        print >> out8, u"<a href=\"" + t["link"] + u"\">Link to documentation</a>"
+        print >> out8
         print >> out8, u'<div id="accordion" class="jquery-ui-accordion">'
         print >> out8, u"<div>"
         print >> out8, u'<span class="doublewidespan" style="padding-left:3em">%s</span>'%u"Hit overview"

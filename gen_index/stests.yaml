@@ -1,72 +1,75 @@
 -
   name: Aux chain
   expr: _ <aux (_ <aux _)
-  desc: Auxes should not form a chain, they should all depend on their head word.
+  desc: Auxiliary dependencies should not form a chain.
+  link: http://universaldependencies.github.io/docs/u/dep/aux_.html 
 
 -
-  name: Name to left
+  name: Name is right-headed 
   expr: _ <name@R _
-  desc: Name should not go left since names are left-headed.
+  desc: Name dependencies should be left-headed, not right.
+  link: http://universaldependencies.github.io/docs/u/dep/name.html
 
 -
-  name: MWE to left
+  name: MWE is right-headed 
   expr: _ <mwe@R _
-  desc: Mwe should not go left since mwe's are left-headed.
+  desc: Multi-word expressions should be left-headed, not right.
+  link: http://universaldependencies.github.io/docs/u/dep/mwe.html
 
 -
-  name: Conj to left
+  name: Conj is right-headed 
   expr: _ <conj@R _
-  desc: Conj should not go left.
+  desc: Conjugation dependencies should be left-headed, not right.
+  link: http://universaldependencies.github.io/docs/u/dep/conj.html
 
 -
-  name: Name to right
+  name: Name is left-headed
   expr: _ <name@L _
-  desc: This is the correct heading direction for name.
+  desc: Correct instances of name dependencies being left-headed.
+  link: http://universaldependencies.github.io/docs/u/dep/name.html
 
 -
-  name: MWE to right
+  name: MWE is left-headed
   expr: _ <mwe@L _
-  desc: This is the correct heading direction for MWE.
+  desc: Correct instances of multi-word expressions being left-headed.
+  link: http://universaldependencies.github.io/docs/u/dep/mwe.html
 
 -
-  name: Conj to right
+  name: Conj is left-headed
   expr: _ <conj@L _
-  desc: This is the correct heading direction for conj.
--
-  name: POS of expl
-  expr: _ <expl _
-  desc: The parts of speech of expl.
+  desc: Correct instances of conjugation dependencies being left-headed.
+  link: http://universaldependencies.github.io/docs/u/dep/conj.html
 
 -
-  name: Dependents of expl
+  name: Parts of speech of expl
+  expr: _ <expl _
+  desc: The parts of speech of words marked as being expletive dependencies.
+  link: http://universaldependencies.github.io/docs/u/dep/expl.html
+
+-
+  name: Dependents of expl 
   expr: _ < (_ <expl _)
-  desc: The dependents of a word marked as having an expl dependency. This should be empty.
+  desc: The dependents of a word marked as being an expletive dependency. This should be empty.
+  link: http://universaldependencies.github.io/docs/u/dep/expl.html
 
 -
   name: Heads of expl
   expr: _ >expl _
-  desc: The heads of an expl dependency relation.
-
--
-  name: POS of xcomp
-  expr: _ <xcomp _
-  desc: The parts of speech of xcomp.
-
--
-  name: Dependents of xcomp
-  expr: _ < (_ <xcomp _)
-  desc: The dependents of a word marked as having an xcomp dependency.
+  desc: Parts of speech of words which have an expletive dependency.
+  link: http://universaldependencies.github.io/docs/u/dep/expl.html
 
 -
   name: Heads of xcomp
   expr: _ >xcomp _
-  desc: The heads of an xcomp dependency relation.
+  desc: Parts of speech of words which have an open clausal complement dependency.
+  link: http://universaldependencies.github.io/docs/u/dep/xcomp.html
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
 #      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
 #      that are placed in the table. The first _ is always varied with POS
 -
-  name: Acl not dependent on Noun/Propn
+  name: Acl not dependent on NOUN/PROPN
   expr: "!NOUN&!PROPN >acl _"
   expr-pos: _ >acl _
-  desc: Acl relations not governed by a Noun/Propn
+  desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech. 
+  link: http://universaldependencies.github.io/docs/u/dep/acl.html
