@@ -113,9 +113,19 @@
     "lang_code": "ca", 
     "contributors": [
       {
+        "full": "H\u00e9ctor Mart\u00ednez Alonso", 
+        "last": "Mart\u00ednez Alonso", 
+        "first": "H\u00e9ctor"
+      }, 
+      {
         "full": "Elena Pascual", 
         "last": "Pascual", 
         "first": "Elena"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
       }
     ], 
     "lang_name": "Catalan"
@@ -346,7 +356,13 @@
   }, 
   {
     "lang_code": "gl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Xavier G\u00f3mez Guinovart", 
+        "last": "G\u00f3mez Guinovart", 
+        "first": "Xavier"
+      }
+    ], 
     "lang_name": "Galician"
   }, 
   {
@@ -799,6 +815,22 @@
       }
     ], 
     "lang_name": "Spanish"
+  }, 
+  {
+    "lang_code": "es", 
+    "contributors": [
+      {
+        "full": "H\u00e9ctor Mart\u00ednez Alonso", 
+        "last": "Mart\u00ednez Alonso", 
+        "first": "H\u00e9ctor"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Spanish-AnCora"
   }, 
   {
     "lang_code": "sv", 
