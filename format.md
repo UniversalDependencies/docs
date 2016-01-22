@@ -7,7 +7,7 @@ title:  'Format'
 # CoNLL-U Format
 
 We use a revised version of [the CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat) called CoNLL-U. 
-Annotations are encoded in plain text files (UTF-8) with three types of lines:
+Annotations are encoded in plain text files (UTF-8, using only the LF character as line break) with three types of lines:
 
  1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
  2. Blank lines marking sentence boundaries.
@@ -33,6 +33,7 @@ The fields must additionally meet the following constraints:
 
 * Fields must not be empty.
 * Fields must not contain space characters.
+* Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOSTAG, HEAD, and DEPREL columns are not allowed to be left unspecified.
 
 # Words and Tokens
 
