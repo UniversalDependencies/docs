@@ -39,7 +39,7 @@
           <h1 id="conll-u-format">CoNLL-U Format</h1>
 
 <p>We use a revised version of <a href="http://ilk.uvt.nl/conll/#dataformat">the CoNLL-X format</a> called CoNLL-U. 
-Annotations are encoded in plain text files (UTF-8) with three types of lines:</p>
+Annotations are encoded in plain text files (UTF-8, using only the LF character as line break) with three types of lines:</p>
 
 <ol>
   <li>Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.</li>
@@ -70,6 +70,7 @@ In addition, we have modified the usage of the ID, FORM, LEMMA, XPOSTAG, FEATS a
 <ul>
   <li>Fields must not be empty.</li>
   <li>Fields must not contain space characters.</li>
+  <li>Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOSTAG, HEAD, and DEPREL columns are not allowed to be left unspecified.</li>
 </ul>
 
 <h1 id="words-and-tokens">Words and Tokens</h1>
