@@ -227,3 +227,21 @@ advmod(hat,nur)
 parataxis(hat,hat)
 ~~~
 
+### Argument Structure
+
+#### Extraneous prepositions 
+We annotate all nominal dependents introduced by extraneous prepositions as nominal 
+modifiers. In the following sentence, *him* is marked as a nominal modifier `nmod` 
+instead of an indirect object `iobj` of *give*.
+
+~~~ conllu
+# I had to give <ns type="UT"><i>to</i></ns> him water
+# visual-style 6 4 nmod	color:red
+1	I	_	PRON	PRP	_	2	nsubj	_	_
+2	had	_ 	VERB	VBD	_	0	root	_	_
+3	to	_	PART	TO	_	4	mark	_	_
+4	give	_	VERB	VB	_	2	xcomp	_	_
+5	to	_	ADP	IN	_	6	case	_	_
+6    	him	_	PRON	PRP	_	4	nmod	_	_
+7	water	_	NOUN	NN	_	4	dobj	_	_
+~~~
