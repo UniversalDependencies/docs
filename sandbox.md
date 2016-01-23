@@ -235,7 +235,6 @@ modifiers. In the following sentence, *him* is marked as a nominal modifier `nmo
 instead of an indirect object `iobj` of *give*.
 
 ~~~ conllu
-# I had to give <ns type="UT"><i>to</i></ns> him water
 # visual-style 6 4 nmod	color:red
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	had	_ 	VERB	VBD	_	0	root	_	_
