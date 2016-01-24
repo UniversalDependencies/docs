@@ -8,7 +8,7 @@ Auxiliary dependencies should not form a chain.
 
 Search expression: `_ <aux (_ <aux _)`
 
-Positive (correct) example:
+Ccorrect example:
 
 ~~~ sdparse
 
@@ -20,7 +20,7 @@ aux(left, have)
 ~~~
 
 
-Negative (incorrect) example:
+Incorrect example:
 
 ~~~ sdparse
 
@@ -213,7 +213,7 @@ Name dependencies should be left-headed, not right.
 
 Search expression: `_ <name@R _`
 
-Positive (correct) example:
+Ccorrect example:
 
 ~~~ sdparse
 
@@ -224,7 +224,7 @@ name(Carl, Gustaf)
 ~~~
 
 
-Negative (incorrect) example:
+Incorrect example:
 
 ~~~ sdparse
 
@@ -601,7 +601,7 @@ Multi-word expressions should be left-headed, not right.
 
 Search expression: `_ <mwe@R _`
 
-Positive (correct) example:
+Ccorrect example:
 
 ~~~ sdparse
 
@@ -611,7 +611,7 @@ mwe(because, of)
 ~~~
 
 
-Negative (incorrect) example:
+Incorrect example:
 
 ~~~ sdparse
 
@@ -927,6 +927,26 @@ mwe(of, because)
 Conjugation dependencies should be left-headed, not right.
 
 Search expression: `_ <conj@R _`
+
+Ccorrect example:
+
+~~~ sdparse
+
+Bill is big and honest
+conj(big, honest)
+
+~~~
+
+
+Incorrect example:
+
+~~~ sdparse
+
+Bill is big and honest
+conj(honest, big)
+
+~~~
+
 
 <a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a>
 
