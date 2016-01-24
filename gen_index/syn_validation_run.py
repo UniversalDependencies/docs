@@ -121,7 +121,7 @@ def main(tests):
         print >> out8, t["desc"]
         print >> out8
         print >> out8, u"Search expression: `"+t["expr"]+u"`"
-        if len(t["pos_ex"]) > 0:
+        if "pos_ex" in t:
           print >> out8
           print >> out8, u"Positive (correct) example:"
           print >> out8
@@ -132,7 +132,7 @@ def main(tests):
           print >> out8, u"~~~"
           print >> out8
 
-        if len(t["neg_ex"]) > 0:
+        if "neg_ex" in t:
           print >> out8
           print >> out8, u"Negative (incorrect) example:"
           print >> out8

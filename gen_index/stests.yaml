@@ -2,20 +2,24 @@
   name: Aux chain
   expr: _ <aux (_ <aux _)
   desc: Auxiliary dependencies should not form a chain.
-  pos_ex: "Reagan has died\naux(died-3, has-2)"
-  neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
+  pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
+  neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
   link: http://universaldependencies.github.io/docs/u/dep/aux_.html 
 
 -
   name: Name is right-headed 
   expr: _ <name@R _
   desc: Name dependencies should be left-headed, not right.
+  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
+  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
   link: http://universaldependencies.github.io/docs/u/dep/name.html
 
 -
   name: MWE is right-headed 
   expr: _ <mwe@R _
   desc: Multi-word expressions should be left-headed, not right.
+  pos_ex: "He cried because of you\nmwe(because, of)"
+  neg_ex: "He cried because of you\nmwe(of, because)"
   link: http://universaldependencies.github.io/docs/u/dep/mwe.html
 
 -
