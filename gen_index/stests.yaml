@@ -25,6 +25,8 @@
 -
   name: Conj is right-headed 
   expr: _ <conj@R _
+  pos_ex: "Bill is big and honest\nconj(big, honest)"
+  neg_ex: "Bill is big and honest\nconj(honest, big)"
   desc: Conjugation dependencies should be left-headed, not right.
   link: http://universaldependencies.github.io/docs/u/dep/conj.html
 
