@@ -8,7 +8,7 @@ Auxiliary dependencies should not form a chain.
 
 Search expression: `_ <aux (_ <aux _)`
 
-Ccorrect example:
+Correct example:
 
 ~~~ sdparse
 
@@ -213,7 +213,7 @@ Name dependencies should be left-headed, not right.
 
 Search expression: `_ <name@R _`
 
-Ccorrect example:
+Correct example:
 
 ~~~ sdparse
 
@@ -601,7 +601,7 @@ Multi-word expressions should be left-headed, not right.
 
 Search expression: `_ <mwe@R _`
 
-Ccorrect example:
+Correct example:
 
 ~~~ sdparse
 
@@ -928,7 +928,7 @@ Conjugation dependencies should be left-headed, not right.
 
 Search expression: `_ <conj@R _`
 
-Ccorrect example:
+Correct example:
 
 ~~~ sdparse
 
