@@ -123,7 +123,7 @@ def main(tests):
         print >> out8, u"Search expression: `"+t["expr"]+u"`"
         if "pos_ex" in t:
           print >> out8
-          print >> out8, u"Ccorrect example:"
+          print >> out8, u"Correct example:"
           print >> out8
           print >> out8, u"~~~ sdparse"
           print >> out8
