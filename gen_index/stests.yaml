@@ -81,3 +81,9 @@
   expr-pos: _ >acl _
   desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech. 
   link: http://universaldependencies.github.io/docs/u/dep/acl.html
+
+-
+  name: Case not dependent on nmod
+  expr: "_ <case (_ <!nmod _)"
+  desc: If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
+  link: http://universaldependencies.github.io/docs/u/dep/case.html
