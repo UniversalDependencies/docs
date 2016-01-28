@@ -39,7 +39,7 @@ At least these were mentioned, feel free to expand!
 
 ## Tokenization
 
-Nearly none of the treebanks distribute the untokenized sentences. This complicates automatic induction of tokenizers from the data. It would be great to include the untokenized text, use the [SpaceAfter](http://universaldependencies.github.io/docs/format.html) mechanism of the CoNLL-U format, or at least provide data for training the tokenizers privately.
+Nearly none of the treebanks distribute the untokenized sentences. This complicates automatic induction of tokenizers from the data. It would be great to include the untokenized text, use the [SpaceAfter](http://universaldependencies.org/format.html) mechanism of the CoNLL-U format, or at least provide data for training the tokenizers privately.
 
 ## Parallel treebank
 

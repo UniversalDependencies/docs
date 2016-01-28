@@ -11,7 +11,7 @@ _(Chris Manning, Francis Tyers, Hèctor Martínez Alonso, Huner Kaşıkara, Aibe
 
 Here we define a token as a space delimited sequence of characters.
 
-In CoNLL-U format, there is a restriction that "Fields must not contain space characters.".[1](http://universaldependencies.github.io/docs/format.html) This is problematic for a number of languages, as a word may consist of more than one token.
+In CoNLL-U format, there is a restriction that "Fields must not contain space characters.".[1](http://universaldependencies.org/format.html) This is problematic for a number of languages, as a word may consist of more than one token.
 
 ## Outcome
 

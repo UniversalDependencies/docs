@@ -99,6 +99,6 @@ into their own subcategory of negative polarity (kieltohakuiset)
 pronouns (see e.g. [VISK §
 757](http://scripta.kotus.fi/visk/sisallys.php?p=757); in Finnish).
 However, as the
-[UD `PronType=Neg`](http://universaldependencies.github.io/docs/u/feat/PronType.html)
+[UD `PronType=Neg`](http://universaldependencies.org/u/feat/PronType.html)
 feature only covers inherently negative pronouns, UD Finnish assigns
 the `PronType` value `Ind` to these pronouns.

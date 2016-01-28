@@ -4,7 +4,7 @@ title: 'Degree'
 shortdef: 'degree of comparison'
 ---
 
-`Degree` applies to <a href="http://universaldependencies.github.io/docs/grc/pos/ADJ.html" target="_blank">adjectives</a> and <a href="http://universaldependencies.github.io/docs/grc/pos/ADV.html" target="_blank">adverbs</a>.
+`Degree` applies to <a href="http://universaldependencies.org/grc/pos/ADJ.html" target="_blank">adjectives</a> and <a href="http://universaldependencies.org/grc/pos/ADV.html" target="_blank">adverbs</a>.
 
 ### `Pos`: positive, first degree
 

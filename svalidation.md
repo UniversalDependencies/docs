@@ -32,7 +32,7 @@ aux(left, have)
 ~~~
 
 
-<a href="http://universaldependencies.github.io/docs/u/dep/aux_.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/aux_.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -235,7 +235,7 @@ name(Gustaf, Carl)
 ~~~
 
 
-<a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/name.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -621,7 +621,7 @@ mwe(of, because)
 ~~~
 
 
-<a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/mwe.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -948,7 +948,7 @@ conj(honest, big)
 ~~~
 
 
-<a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/conj.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -1645,7 +1645,7 @@ Correct instances of name dependencies being left-headed.
 
 Search expression: `_ <name@L _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/name.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/name.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -2264,7 +2264,7 @@ Correct instances of multi-word expressions being left-headed.
 
 Search expression: `_ <mwe@L _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/mwe.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/mwe.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -2961,7 +2961,7 @@ Correct instances of conjugation dependencies being left-headed.
 
 Search expression: `_ <conj@L _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/conj.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/conj.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -3944,7 +3944,7 @@ The parts of speech of words marked as being expletive dependencies.
 
 Search expression: `_ <expl _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4231,7 +4231,7 @@ The dependents of a word marked as being an expletive dependency. This should be
 
 Search expression: `_ < (_ <expl _)`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4360,7 +4360,7 @@ Parts of speech of words which have an expletive dependency.
 
 Search expression: `_ >expl _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/expl.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/expl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -4703,7 +4703,7 @@ Parts of speech of words which have an open clausal complement dependency.
 
 Search expression: `_ >xcomp _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/xcomp.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/xcomp.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -5564,7 +5564,7 @@ Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the follow
 
 Search expression: `!NOUN&!PROPN >acl _`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/acl.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/acl.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>
@@ -6401,7 +6401,7 @@ If a word is marked as having a case dependency, its head should be marked as be
 
 Search expression: `_ <case (_ <!nmod _)`
 
-<a href="http://universaldependencies.github.io/docs/u/dep/case.html">Link to documentation</a>
+<a href="http://universaldependencies.org/u/dep/case.html">Link to documentation</a>
 
 <div id="accordion" class="jquery-ui-accordion">
 <div>

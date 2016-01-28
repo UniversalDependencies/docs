@@ -17,7 +17,7 @@ root(ROOT-7, I-love)
 Since release 1.2 of the Czech UD treebank,
 there is just one node with the `root` dependency relation in every
 tree. If the main predicate is not present (due to
-[ellipsis](http://universaldependencies.github.io/docs/cs/overview/specific-syntax.html#ellipsis))
+[ellipsis](http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis))
 and there are
 multiple orphaned dependents, the leftmost dependent is promoted to
 the head (root) position and the other orphans are attached to it.

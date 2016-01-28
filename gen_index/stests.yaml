@@ -4,7 +4,7 @@
   desc: Auxiliary dependencies should not form a chain.
   pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
-  link: http://universaldependencies.github.io/docs/u/dep/aux_.html 
+  link: http://universaldependencies.org/u/dep/aux_.html 
 
 -
   name: Name is right-headed 
@@ -12,7 +12,7 @@
   desc: Name dependencies should be left-headed, not right.
   pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
   neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
-  link: http://universaldependencies.github.io/docs/u/dep/name.html
+  link: http://universaldependencies.org/u/dep/name.html
 
 -
   name: MWE is right-headed 
@@ -20,7 +20,7 @@
   desc: Multi-word expressions should be left-headed, not right.
   pos_ex: "He cried because of you\nmwe(because, of)"
   neg_ex: "He cried because of you\nmwe(of, because)"
-  link: http://universaldependencies.github.io/docs/u/dep/mwe.html
+  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
   name: Conj is right-headed 
@@ -28,49 +28,49 @@
   pos_ex: "Bill is big and honest\nconj(big, honest)"
   neg_ex: "Bill is big and honest\nconj(honest, big)"
   desc: Conjugation dependencies should be left-headed, not right.
-  link: http://universaldependencies.github.io/docs/u/dep/conj.html
+  link: http://universaldependencies.org/u/dep/conj.html
 
 -
   name: Name is left-headed
   expr: _ <name@L _
   desc: Correct instances of name dependencies being left-headed.
-  link: http://universaldependencies.github.io/docs/u/dep/name.html
+  link: http://universaldependencies.org/u/dep/name.html
 
 -
   name: MWE is left-headed
   expr: _ <mwe@L _
   desc: Correct instances of multi-word expressions being left-headed.
-  link: http://universaldependencies.github.io/docs/u/dep/mwe.html
+  link: http://universaldependencies.org/u/dep/mwe.html
 
 -
   name: Conj is left-headed
   expr: _ <conj@L _
   desc: Correct instances of conjugation dependencies being left-headed.
-  link: http://universaldependencies.github.io/docs/u/dep/conj.html
+  link: http://universaldependencies.org/u/dep/conj.html
 
 -
   name: Parts of speech of expl
   expr: _ <expl _
   desc: The parts of speech of words marked as being expletive dependencies.
-  link: http://universaldependencies.github.io/docs/u/dep/expl.html
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Dependents of expl 
   expr: _ < (_ <expl _)
   desc: The dependents of a word marked as being an expletive dependency. This should be empty.
-  link: http://universaldependencies.github.io/docs/u/dep/expl.html
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Heads of expl
   expr: _ >expl _
   desc: Parts of speech of words which have an expletive dependency.
-  link: http://universaldependencies.github.io/docs/u/dep/expl.html
+  link: http://universaldependencies.org/u/dep/expl.html
 
 -
   name: Heads of xcomp
   expr: _ >xcomp _
   desc: Parts of speech of words which have an open clausal complement dependency.
-  link: http://universaldependencies.github.io/docs/u/dep/xcomp.html
+  link: http://universaldependencies.org/u/dep/xcomp.html
 
 #Note: in the following test expr is between double quotes because ! has a special meaning in yaml
 #      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
@@ -80,10 +80,10 @@
   expr: "!NOUN&!PROPN >acl _"
   expr-pos: _ >acl _
   desc: Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech. 
-  link: http://universaldependencies.github.io/docs/u/dep/acl.html
+  link: http://universaldependencies.org/u/dep/acl.html
 
 -
   name: Case not dependent on nmod
   expr: "_ <case (_ <!nmod _)"
   desc: If a word is marked as having a case dependency, its head should be marked as being a nominal modifier.
-  link: http://universaldependencies.github.io/docs/u/dep/case.html
+  link: http://universaldependencies.org/u/dep/case.html

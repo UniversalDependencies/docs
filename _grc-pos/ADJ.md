@@ -6,7 +6,7 @@ shortdef: 'adjective'
 
 ### Definition
 
-The adjective is in Ancient Greek the PoS that normally agrees with a nominal in <a href="http://universaldependencies.github.io/docs/grc/feat/Gender.html" target="_blank">Gender</a>, <a href="http://universaldependencies.github.io/docs/grc/feat/Number.html" target="_blank">Number</a>, and <a href="http://universaldependencies.github.io/docs/grc/feat/Case.html" target="_blank">Case</a>. The adjective can be used attributively or predicatively.
+The adjective is in Ancient Greek the PoS that normally agrees with a nominal in <a href="http://universaldependencies.org/grc/feat/Gender.html" target="_blank">Gender</a>, <a href="http://universaldependencies.org/grc/feat/Number.html" target="_blank">Number</a>, and <a href="http://universaldependencies.org/grc/feat/Case.html" target="_blank">Case</a>. The adjective can be used attributively or predicatively.
 
 ### Attributive adjective
 

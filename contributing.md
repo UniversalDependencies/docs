@@ -180,7 +180,7 @@ target="#">edit sandbox document</a>. This opens a "sandbox" document
 in a new tab. After testing it out, feel free to either cancel without
 saving your changes, or save them into the version control system
 using the "Commit changes" button. You can see the resulting document
-[here](http://universaldependencies.github.io/docs/sandbox.html)
+[here](http://universaldependencies.org/sandbox.html)
 (reload to see changes, and please note it may take some time for the
 changes to show up.)
 
@@ -191,9 +191,9 @@ To edit the actual documentation, first find the page you're
 interested in. For example, to navigate to the documentation for the
 English language `dobj` (direct object) dependency:
 
-* Start from the homepage ([http://universaldependencies.github.io/docs/](http://universaldependencies.github.io/docs/))
-* Click on the "English relations index" link (go to [http://universaldependencies.github.io/docs/en/dep/index.html](http://universaldependencies.github.io/docs/en/dep/index.html))
-* Click on the "dobj" link (go to [http://universaldependencies.github.io/docs/en/dep/dobj.html](http://universaldependencies.github.io/docs/en/dep/dobj.html))
+* Start from the homepage ([http://universaldependencies.org/](http://universaldependencies.org/))
+* Click on the "English relations index" link (go to [http://universaldependencies.org/en/dep/index.html](http://universaldependencies.org/en/dep/index.html))
+* Click on the "dobj" link (go to [http://universaldependencies.org/en/dep/dobj.html](http://universaldependencies.org/en/dep/dobj.html))
 
 Then, edit and save your changes:
 
@@ -277,7 +277,7 @@ requests](https://help.github.com/articles/using-pull-requests).
 
 ## Links
 
-* [Home page](http://universaldependencies.github.io/docs/)
+* [Home page](http://universaldependencies.org/)
 * [GitHub repository](https://github.com/universaldependencies/docs)
 * [Issue tracker](https://github.com/universaldependencies/docs/issues)
 
