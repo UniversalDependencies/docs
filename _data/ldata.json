@@ -356,7 +356,13 @@
   }, 
   {
     "lang_code": "gl", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Xavier G\u00f3mez Guinovart", 
+        "last": "G\u00f3mez Guinovart", 
+        "first": "Xavier"
+      }
+    ], 
     "lang_name": "Galician"
   }, 
   {
@@ -747,6 +753,47 @@
       }
     ], 
     "lang_name": "Romanian"
+  }, 
+  {
+    "lang_code": "ru", 
+    "contributors": [
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }, 
+      {
+        "full": "Andrey Kutuzov", 
+        "last": "Kutuzov", 
+        "first": "Andrey"
+      }, 
+      {
+        "full": "Svetlana Toldova", 
+        "last": "Toldova", 
+        "first": "Svetlana"
+      }, 
+      {
+        "full": "Kira Droganova", 
+        "last": "Droganova", 
+        "first": "Kira"
+      }, 
+      {
+        "full": "Nina Mustafina", 
+        "last": "Mustafina", 
+        "first": "Nina"
+      }, 
+      {
+        "full": "Maria Alexeeva", 
+        "last": "Alexeeva", 
+        "first": "Maria"
+      }, 
+      {
+        "full": "Elena Shakurova", 
+        "last": "Shakurova", 
+        "first": "Elena"
+      }
+    ], 
+    "lang_name": "Russian"
   }, 
   {
     "lang_code": "sl", 
