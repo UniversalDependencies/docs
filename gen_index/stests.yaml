@@ -91,24 +91,28 @@
 -
   name: Marked as NUM but not nummod or nmod
   expr: "NUM (<!nummod&<!nmod) _"
+  expr-pos: "_ (<!nummod&<!nmod) _"
   desc: If a word is marked as a numeral (POS), then it should be marked as being an nmod or nummod dependency.
   link: http://universaldependencies.org/docs/u/pos/NUM.html
 
 -
   name: Marked as nummod but not NUM
   expr: "!NUM <nummod _"
+  expr-pos: _ <nummod _
   desc: If a word is marked as a numeric modifier, it should be marked as a numeral (POS).
   link: http://universaldependencies.org/docs/u/dep/nummod.html
 
 -
   name: Marked as AUX but not aux or auxpass
   expr: "AUX (<!aux&<!auxpass) _"
+  expr-pos: "_ (<!aux&<!auxpass) _"
   desc: If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
   link: http://universaldependencies.org/docs/u/pos/AUX_.html
 
 -
   name: Marked as aux or auxpass but not AUX
   expr: "!AUX (<aux|<auxpass) _"
+  expr-pos: _ (<aux|<auxpass) _
   desc: If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
   link: http://universaldependencies.org/docs/u/dep/aux_.html
 
@@ -121,11 +125,13 @@
 -
   name: Copulas are nominal
   expr: (NOUN|PROPN|NUM|PRON) <cop _
+  expr-pos: _ <cop _
   desc: Copulas should not be marked as nominal (noun, proper noun, numeral, or pronoun)
   link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -
   name: NOUN and case
   expr: NOUN <case _
+  expr-pos: _ <case _
   desc: A word marked as a NOUN should not be a case dependency.
   link: http://universaldependencies.org/docs/u/dep/case.html
