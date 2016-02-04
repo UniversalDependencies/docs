@@ -227,21 +227,3 @@ advmod(hat,nur)
 parataxis(hat,hat)
 ~~~
 
-###esl test
-~~~ conllu
-# I believe we'll be more into fashionable <ns type="CN"><i>stuffs</i><c>stuff</c></ns>
-# visual-style 9 bgColor:red
-# visual-style 9 fgColor:white
-1	I	_	PRP	PRP	_	2	nsubj	_	_
-2	believe	_	VBP	VBP	_	0	root	_	_
-3	we	_	PRP	PRP	_	9	nsubj	_	_
-4	'll	_	MD	MD	_	9	aux	_	_
-5	be	_	VB	VB	_	9	cop	_	_
-6	more	_	RBR	RBR	_	9	advmod	_	_
-7	into	_	IN	IN	_	9	case	_	_
-8	fashionable	_	JJ	JJ	_	9	amod	_	_
-9	stuffs	_	NNS	NNS	_	2	ccomp	_	_
-~~~
-###end
-
-
