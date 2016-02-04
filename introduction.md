@@ -14,7 +14,7 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-## Current work
+## Current Work
 
 After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
 This set makes some distinctions that were missing in the original proposal, but were perceived to
