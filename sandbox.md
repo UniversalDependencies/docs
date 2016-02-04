@@ -334,7 +334,7 @@ Similarely, in the example below we annotate *necessaryiest* as a superlative.
 # visual-style 2 fgColor:white
 1	the	_	DT	DT	_	3	det	_	_
 2	necessaryiest	_	JJS	JJS	_	3	amod	_	_
-3	things	_	NNS	NNS	_	_	0	root	_
+3	things	_	NNS	NNS	_	0	root	_	_
 
 ~~~
 
@@ -380,7 +380,7 @@ existing PTB tag are annotated with respect to the correct word form.
 3	why	_	WRB	WRB	_	6	advmod	_	_
 4	I	_	PRP	PRP	_	6	nsubj	_	_
 5	am	_	VBP	VBP	_	6	aux	_	_
-6	writting	_	VBG	VBG	2	ccomp	_	_
+6	writting	_	VBG	VBG	_	2	ccomp	_	_
 
 ~~~
 
@@ -392,7 +392,7 @@ annotation of the sentence.
 # visual-style 6 bgColor:red
 # visual-style 6 fgColor:white
 1	interestings	_	JJ	JJ	_	2	amod	_	_
-2 	things	_	NNS	NNS	_	0	root	_	_
+2	things	_	NNS	NNS	_	0	root	_	_
 
 ~~~
 
@@ -412,4 +412,3 @@ in the TYPO metadata field.
 5	them	_	PRP	PRP	_	4	dobj	_	_
 
 ~~~
-
