@@ -58,9 +58,16 @@ described below.
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
 
-### Tool 2
+### Treex
 
-(Description TODO)
+**Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
+
+* Category: treebank processing framework
+* Platform: tested mainly on Linux
+* Implementation: Perl
+* License: Perl
+* Homepage: <http://ufal.mff.cuni.cz/treex>
+* References: [Popel and Žabokrtský (2010)](http://ufal.mff.cuni.cz/~popel/papers/2010_icetal.pdf)
 
 ### Tool 3
 
