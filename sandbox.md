@@ -302,7 +302,7 @@ We use the base form VB over VBP for cases of erroneous tense in auxiliary const
 5	my	_	PRP$	PRP$	_	7	det	_	_
 6	daily	_	JJ	JJ	_	7	amod	_	_
 7	life	_	NN	NN	_	4	dobj	_	_
-8	?	_	.	.	_	4	punct	_	_	
+8	?	_	.	.	_	4	punct	_	_
 
 ~~~
 
@@ -334,7 +334,7 @@ Similarely, in the example below we annotate *necessaryiest* as a superlative.
 # visual-style 2 fgColor:white
 1	the	_	DT	DT	_	3	det	_	_
 2	necessaryiest	_	JJS	JJS	_	3	amod	_	_
-3	things	_	NNS	NNS	_	_	_	_	_
+3	things	_	NNS	NNS	_	_	0	root	_
 
 ~~~
 
@@ -391,8 +391,8 @@ annotation of the sentence.
 ~~~ conllu
 # visual-style 6 bgColor:red
 # visual-style 6 fgColor:white
-1	interestings	_	JJ	JJ	2	amod	_	_
-2 	things	_	NNS	NNS	_	_	_	_
+1	interestings	_	JJ	JJ	_	2	amod	_	_
+2 	things	_	NNS	NNS	_	0	root	_	_
 
 ~~~
 
