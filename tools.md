@@ -19,7 +19,7 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
-  * Tool 2
+  * [Treex](#treex)
   * Tool 3
 
 ## UD-maintained tools
