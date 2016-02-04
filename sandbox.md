@@ -235,7 +235,7 @@ modifiers. In the following sentence, *him* is marked as a nominal modifier `nmo
 instead of an indirect object `iobj` of *give*.
 
 ~~~ conllu
-# visual-style 6 4 nmod	color:red
+#visual-style 4 6 nmod	color:red
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	had	_	VERB	VBD	_	0	root	_	_
 3	to	_	PART	TO	_	4	mark	_	_
@@ -253,8 +253,8 @@ of `nmod` of *ask*. As *you* functions in this context as a second argument of *
 is annotated as `iobj` instead of `dobj`.
 
 ~~~ conllu
-# visual-style 5 4 iobj	color:red
-# visual-style 7 4 dobj	color:red
+# visual-style 4 5 iobj	color:red
+# visual-style 4 7 dobj	color:red
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	have	_	VERB	VBP	_	0	root	_	_
 3	to	_	PART	TO	_	4	mark	_	_
@@ -389,8 +389,8 @@ adjectival POS tag. Such cases are also marked for erronuous agreement in the er
 annotation of the sentence.
 
 ~~~ conllu
-# visual-style 6 bgColor:red
-# visual-style 6 fgColor:white
+# visual-style 1 bgColor:red
+# visual-style 1 fgColor:white
 1	interestings	_	JJ	JJ	_	2	amod	_	_
 2	things	_	NNS	NNS	_	0	root	_	_
 
