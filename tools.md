@@ -20,7 +20,7 @@ If you would like to have your tool added to this page, please write the
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
   * [Treex](#treex)
-  * Tool 3
+  * [Tred](#tred)
 
 ## UD-maintained tools
 
@@ -69,6 +69,13 @@ described below.
 * Homepage: <http://ufal.mff.cuni.cz/treex>
 * References: [Popel and Žabokrtský (2010)](http://ufal.mff.cuni.cz/~popel/papers/2010_icetal.pdf)
 
-### Tool 3
+### Tred
 
-(Description TODO)
+**Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
+
+* Category: manual annotation tool
+* Platform: Windows, Linux, MacOS
+* Implementation: Perl
+* License: GPL (open source)
+* Homepage: <http://ufal.mff.cuni.cz/tred/>
+* References: Petr Pajas, Peter Fabian
