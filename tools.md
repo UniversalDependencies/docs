@@ -18,7 +18,7 @@ If you would like to have your tool added to this page, please write the
   * Data validation
   * Format conversion
 * [Third-party tools](#third-party-tools)
-  * Tool 1
+  * [brat rapid annotation tool](#brat-rapid-annotation-tool)
   * Tool 2
   * Tool 3
 
@@ -46,9 +46,17 @@ described below.
 
 ## Third-party tools
 
-### Tool 1
+### brat rapid annotation tool
 
-(Description TODO)
+<img style="width: 40%; float:right" src="http://universaldependencies.org/img/brat.png"/>
+**brat** is a browser-based tool for text annotation. The brat visualization component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool can be easily configured for UD annotation (TODO: link instructions).
+
+* Category: manual annotation tool
+* Platform: any (browser-based)
+* Implementation: Python (server), JavaScript (client)
+* License: MIT (open source)
+* Homepage: <http://brat.nlplab.org/>
+* References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
 
 ### Tool 2
 
