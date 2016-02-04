@@ -60,7 +60,6 @@ described below.
 
 ### Treex
 
-<img style="width: 40%; float:right" src="http://universaldependencies.org/img/tred.png"/>
 **Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
 
 * Category: treebank processing framework
@@ -72,6 +71,7 @@ described below.
 
 ### Tred
 
+<img style="width: 40%; float:right" src="http://universaldependencies.org/img/tred.png"/>
 **Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
 
 * Category: manual annotation tool
