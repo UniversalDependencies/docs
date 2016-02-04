@@ -60,6 +60,7 @@ described below.
 
 ### Treex
 
+<img style="width: 40%; float:right" src="http://universaldependencies.org/img/tred.png"/>
 **Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
 
 * Category: treebank processing framework
