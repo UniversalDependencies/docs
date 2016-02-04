@@ -228,14 +228,19 @@ parataxis(hat,hat)
 ~~~
 
 ~~~ conllu
-# I had to give <ns type="UT"><i>to</i></ns> him water
-# visual-style 6 4 nmod color:red
+# I believe we'll be more into fashionable <ns type="CN"><i>stuffs</i><c>stuff</c></ns>
+# visual-style 9 bgColor:red
+# visual-style 9 fgColor:white
 1	I	_	PRON	PRP	_	2	nsubj	_	_
-2	had	_	VERB	VBD	_	0	root	_	_
-3	to	_	PART	TO	_	4	mark	_	_
-4	give	_	VERB	VB	_	2	xcomp	_	_
-5	to	_	ADP	IN	_	6	case	_	_
-6	him	_	PRON	PRP	_	4	nmod	_	_
-7	water	_	NOUN	NN	_	4	dobj	_	_
+2	believe	_	VERB	VBP	_	0	root	_	_
+3	we	_	PRON	PRP	_	9	nsubj	_	_
+4	'll	_	AUX	MD	_	9	aux	_	_
+5	be	_	VERB	VB	_	9	cop	_	_
+6	more	_	ADV	RBR	_	9	advmod	_	_
+7	into	_	ADP	IN	_	9	case	_	_
+8	fashionable	_	ADJ	JJ	_	9	amod	_	_
+9	stuffs	_	NOUN	NNS	_	2	ccomp	_	_
 ~~~
+
+
 
