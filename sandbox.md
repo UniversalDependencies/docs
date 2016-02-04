@@ -266,6 +266,7 @@ is annotated as `iobj` instead of `dobj`.
 9	the	_	DET	DT	_	10	det	_	_
 10	tickets	_	NOUN	NNS	_	7	nmod	_	_
 11	back	_	ADV	RB	_	4	advmod	_	_
+
 ~~~
 
 ### Tense
@@ -286,6 +287,7 @@ For example, below we annotate *shopping* with present participle `VBG`.
 8	a	_	DT	DT	_	10	det	_	_
 9	busy	_	JJ	JJ	_	10	amod	_	_
 10	street	_	NN	NN	_	6	nmod	_	_
+
 ~~~
 
 We use the base form VB over VBP for cases of erroneous tense in auxiliary constructions.
@@ -301,6 +303,7 @@ We use the base form VB over VBP for cases of erroneous tense in auxiliary const
 6	daily	_	JJ	JJ	_	7	amod	_	_
 7	life	_	NN	NN	_	4	dobj	_	_
 8	?	_	.	.	_	4	punct	_	_	
+
 ~~~
 
 ### Word Formation
@@ -321,6 +324,7 @@ handled as a plural count noun.
 7	into	_	IN	IN	_	9	case	_	_
 8	fashionable	_	JJ	JJ	_	9	amod	_	_
 9	stuffs	_	NNS	NNS	_	2	ccomp	_	_
+
 ~~~
  
 Similarely, in the example below we annotate *necessaryiest* as a superlative.
@@ -331,6 +335,7 @@ Similarely, in the example below we annotate *necessaryiest* as a superlative.
 1	the	_	DT	DT	_	3	det	_	_
 2	necessaryiest	_	JJS	JJS	_	3	amod	_	_
 3	things	_	NNS	NNS	_	_	_	_	_
+
 ~~~
 
 ### Exceptions to literal annotation
@@ -359,6 +364,7 @@ the sentence.
 3	invited	_	VBN	VBN	_	0	root	_	_
 4	to	_	TO	TO	_	5	mark	_	_
 5	visit	_	VB	VB	_	3	xcomp	_	_
+
 ~~~
 
 #### Word Formation
@@ -375,6 +381,7 @@ existing PTB tag are annotated with respect to the correct word form.
 4	I	_	PRP	PRP	_	6	nsubj	_	_
 5	am	_	VBP	VBP	_	6	aux	_	_
 6	writting	_	VBG	VBG	2	ccomp	_	_
+
 ~~~
 
 In particular, ill formed adjectives that have a plural suffix reveice a standard 
@@ -386,6 +393,7 @@ annotation of the sentence.
 # visual-style 6 fgColor:white
 1	interestings	_	JJ	JJ	2	amod	_	_
 2 	things	_	NNS	NNS	_	_	_	_
+
 ~~~
 
 Wrong word formations that result in a valid, but contextually implausible word form 
@@ -402,5 +410,5 @@ in the TYPO metadata field.
 3	not	_	RB	RB	_	4	neg	_	_
 4	sale	_	VB	VB	_	0	root	_	_
 5	them	_	PRP	PRP	_	4	dobj	_	_
-~~~
 
+~~~
