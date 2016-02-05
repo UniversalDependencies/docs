@@ -21,6 +21,7 @@ If you would like to have your tool added to this page, please write the
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
   * [Treex](#treex)
   * [Tred](#tred)
+  * [UDPipe](#udpipe)
 
 ## UD-maintained tools
 
@@ -80,3 +81,14 @@ described below.
 * License: GPL (open source)
 * Homepage: <http://ufal.mff.cuni.cz/tred/>
 * References: Petr Pajas, Peter Fabian
+
+### UDPipe
+
+**UDPipe** is an upcoming trainable pipeline for tokenization, tagging, lemmatization and parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given only annotated data in CoNLL-U format. (Nevertheless, to train the tokenizer, either the `SpaceAfter` feature must be present, or at least some plain text must be available; also morphological analyzer and lemmatizer can be improved if morphological dictionary is provided.) Trained models will be provided for all UD treebanks (maybe except for Japanese where there are licencing issues). UDPipe will be available as a binary, as a library for C++, Python, Perl, Java, C#, and as a web service.
+
+* Category: trainable tokenizer, tagger, lemmatizer and parser
+* Platform: Linux, Windows, OS X
+* Implementation: C++; language bindings for Python, Perl, Java and C#
+* License: MPL 2.0 (open source)
+* Homepage: <http://ufal.mff.cuni.cz/udpipe>
+* References: Milan Straka, Jan Hajic and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. To appear at LREC 2016.
