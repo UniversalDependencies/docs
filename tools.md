@@ -76,7 +76,7 @@ described below.
 **Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
 
 * Category: manual annotation tool
-* Platform: Windows, Linux, MacOS
+* Platform: Windows, Linux, OS X
 * Implementation: Perl
 * License: GPL (open source)
 * Homepage: <http://ufal.mff.cuni.cz/tred/>
@@ -91,4 +91,4 @@ described below.
 * Implementation: C++; language bindings for Python, Perl, Java and C#
 * License: MPL 2.0 (open source)
 * Homepage: <http://ufal.mff.cuni.cz/udpipe>
-* References: Milan Straka, Jan Hajic and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. To appear at LREC 2016.
+* References: Milan Straka, Jan Hajič and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. To appear at LREC 2016.
