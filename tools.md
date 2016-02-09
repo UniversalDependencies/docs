@@ -95,7 +95,7 @@ described below.
 
 ### DgAnnotator
 
-<img style="float:right" src="http://universaldependencies.org/img/dga.png"/>
+<!--<img style="float:right" src="http://universaldependencies.org/img/dga.png"/>-->
 **DgAnnotator** (Dependency Graph Annotator) is a visual tool for annotating text with syntactic information, in particular creating a dependency tree. The tool reads and produces annotated documents in both XML, CoNLL-X and CoNLL-U tab separated format. Additional features: shows the differences, highlighted in red, between two different dependency trees on the same corpus; generates PNG snapshots of trees; performs PoS tagging and parsing connecting to a network service; panning and zooming.
 
 * Category: manual annotation tool
