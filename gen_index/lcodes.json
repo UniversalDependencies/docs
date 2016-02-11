@@ -35,6 +35,7 @@
 "Japanese-KTC":"ja_ktc",
 "Kazakh":"kk",
 "Korean":"ko",
+"Norwegian":"no",
 "Old_Church_Slavonic":"cu",
 "Persian":"fa",
 "Polish":"pl",
@@ -46,6 +47,5 @@
 "Spanish-AnCora":"es",
 "Tamil":"ta",
 "Turkish":"tr",
-"Ukrainian":"uk",
-"Norwegian":"no"
+"Ukrainian":"uk"
 }

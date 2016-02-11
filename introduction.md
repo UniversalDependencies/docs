@@ -14,7 +14,7 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-## Current work
+## Current Work
 
 After extensive discussion, we have developed a somewhat extended universal part-of-speech tag set.
 This set makes some distinctions that were missing in the original proposal, but were perceived to
@@ -61,6 +61,16 @@ universal Stanford dependencies (USD) (de Marneffe et al., 2014).
 The new Universal Dependencies is the result of merging all these initiatives into a single coherent framework,
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
+
+## Project Organization
+
+UD is an open collaboration with many project members. The administrative structure is kept at a minimum and currently consists of the following:
+
+* The project is coordinated by Joakim Nivre (aka chief cat herder).
+* Releases (including validation and documentation) are managed by Filip Ginter, Sampo Pyysalo and Dan Zeman.
+* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajic, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty and Dan Zeman.
+* Language-specific guidelines and treebanks are maintained by each specific language team. 
+* Issues are raised on GitHub and resolved through discussion and voting. 
 
 ## Contributors
 

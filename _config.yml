@@ -595,6 +595,20 @@ collections:
   gl-overview:
     output: true
 #
+# Russian
+#
+  ru-pos:
+    output: true
+    permalink: /ru/pos/:path.html
+  ru-feat:
+    output: true
+    permalink: /ru/feat/:path.html
+  ru-dep:
+    output: true
+    permalink: /ru/dep/:path.html
+  ru-overview:
+    output: true
+#
 # Template
 #
   template-pos:
