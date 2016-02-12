@@ -59,6 +59,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="pl-ipipan-uposf.html">pl::ipipan</a> (Polish)
 * <a href="pt-cintil-uposf.html">pt::cintil</a> (Portuguese)
 * <a href="pt-conll-uposf.html">pt::conll</a> (Portuguese)
+* <a href="ro-multext-uposf.html">ro::multext</a> (Romanian)
 * <a href="ro-rdt-uposf.html">ro::rdt</a> (Romanian)
 * <a href="ru-syntagrus-uposf.html">ru::syntagrus</a> (Russian)
 * <a href="sk-snk-uposf.html">sk::snk</a> (Slovak)
