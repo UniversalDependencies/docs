@@ -11,7 +11,7 @@ clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the
 ~~~ sdparse
 Если вы знаете , кто это сделал, вы должны сказать учителю . \n If you know , who it did , should you it tell teacher .
 advcl(должны, знаете)
-advcl(should, you know)
+advcl(should, know)
 ~~~
 
 ~~~ sdparse
