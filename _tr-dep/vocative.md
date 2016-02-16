@@ -4,5 +4,10 @@ title: 'vocative'
 shortdef: 'vocative'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `vocative`.
+The vocative relation is used to mark dialogue participant addressed in text.
+The relation links the addressee’s name to its host sentence.
+
+~~~ sdparse
+Ali , gel . \n Ali, come here!
+vocative(gel, Ali)
+~~~

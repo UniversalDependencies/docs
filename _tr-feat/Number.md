@@ -12,13 +12,14 @@ Plural nouns agree with predicates with both singular an plural
 marking,
 but singular nouns disagree with predicates with plural marking.
 When subject is present, the singular form of the verb is preferred.
-Otherwise, obligatory the person/number agreement marker indicates the `Number` feature of the subject (as well as `Person`).
+Otherwise, obligatory the person/number agreement marker indicates the `Number` feature of the subject (as well as [Person]()).
 
 In case plurality is indicated by a modifier, the noun does not get an explicit plural marker (see example 2 for `Sing`).
 
 We mark `Number=Plur` only if there is an explicit morphological marker.
 
-The `Nuber` feature should not be confused with `Number[psor]`, which indicates the whether possessor of a noun is singular or plural.
+The `Nuber` feature should not be confused with [Number\[psor\]](Number_psor),
+which indicates the whether possessor of a noun is singular or plural.
 
 ### `Sing`: singular number
 
@@ -33,7 +34,9 @@ A single person or thing. There is no morphological marker for singular for noun
 
 ### `Plur`: plural number
 
-More than one person or thing. On nouns plurality is indicated by suffix *-lAr*. Plurality on verbs is indicated by a set of person/number suffixes which vary depending on the previous suffixes.
+More than one person or thing.
+On nouns plurality is indicated by suffix *-lAr*.
+Plurality on verbs is indicated by a set of person/number suffixes which vary depending on the previous suffixes.
 
 #### Examples
 
