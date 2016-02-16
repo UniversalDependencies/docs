@@ -9,7 +9,7 @@ modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
 Sam mangea 3 bonbons \n Sam ate 3 candies
-nummod(mangea, 3)
+nummod(bonbons, 3)
 ~~~
 
 ~~~ sdparse
