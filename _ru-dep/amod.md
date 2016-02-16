@@ -17,7 +17,7 @@ amod(meat, pork)
 ~~~
 
 ~~~ sdparse
-Перый гонщик был быстрым . \n First racer was fast .
+Первый гонщик был быстрым . \n First racer was fast .
 amod(гонщик, Первый)
 amod(racer, First)
 nsubj(быстрым, гонщик)
